@@ -1,31 +1,5 @@
 ---
-title: What will you learn on the PSM II course?
-date: 2023-03-06T07:00:14Z
-videoId: QGXlCm_B5zA
-url: /resources/videos/:slug
-slug: what-will-you-learn-on-the-psm-ii-course-
-canonicalUrl: https://www.youtube.com/watch?v=QGXlCm_B5zA
-aliases:
-- /resources/videos/QGXlCm_B5zA
-- /resources/videos/what-will-you-learn-on-the-psm-ii-course-
-preview: https://i.ytimg.com/vi/QGXlCm_B5zA/maxresdefault.jpg
-duration: 280
-isShort: false
-tags:
-- Scrum
-- Scrum.Org
-- Scrum Training
-- Agile Scrum Training
-- PSM
-- PSM II
-- Professional Scrum Master
-- Advanced Professional Scrum Master
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, What will you learn on the PSM II course?] [date, 2023-03-06T07:00:14Z] [videoId, QGXlCm_B5zA] [url, /resources/videos/:slug] [slug, what-will-you-learn-on-the-psm-ii-course-] [canonicalUrl, https://www.youtube.com/watch?v=QGXlCm_B5zA] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/QGXlCm_B5zA/maxresdefault.jpg] [duration, 280] [isShort, False] [tags, [Scrum, Scrum.Org, Scrum Training, Agile Scrum Training, PSM, PSM II, Professional Scrum Master, Advanced Professional Scrum Master]] [sitemap, System.Collections.Hashtable]
 {{< youtube QGXlCm_B5zA >}}
 
 # What will you learn on the PSM II course?

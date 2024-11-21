@@ -1,27 +1,5 @@
 ---
-title: Professional Agile Leadership Essentials Overview
-date: 2020-07-07T20:10:33Z
-videoId: gEJhbET3nqs
-url: /resources/videos/:slug
-slug: professional-agile-leadership-essentials-overview
-canonicalUrl: https://www.youtube.com/watch?v=gEJhbET3nqs
-aliases:
-- /resources/videos/gEJhbET3nqs
-- /resources/videos/professional-agile-leadership-essentials-overview
-preview: https://i.ytimg.com/vi/gEJhbET3nqs/maxresdefault.jpg
-duration: 245
-isShort: false
-tags:
-- Leadership
-- Agile Leadership
-- Scrum
-- Agility
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Professional Agile Leadership Essentials Overview] [date, 2020-07-07T20:10:33Z] [videoId, gEJhbET3nqs] [url, /resources/videos/:slug] [slug, professional-agile-leadership-essentials-overview] [canonicalUrl, https://www.youtube.com/watch?v=gEJhbET3nqs] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/gEJhbET3nqs/maxresdefault.jpg] [duration, 245] [isShort, False] [tags, [Leadership, Agile Leadership, Scrum, Agility]] [sitemap, System.Collections.Hashtable]
 {{< youtube gEJhbET3nqs >}}
 
 # Professional Agile Leadership Essentials Overview

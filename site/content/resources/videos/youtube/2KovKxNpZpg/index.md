@@ -1,29 +1,5 @@
 ---
-title: Pet Peeve in Scrum
-date: 2023-04-28T09:30:00Z
-videoId: 2KovKxNpZpg
-url: /resources/videos/:slug
-slug: pet-peeve-in-scrum
-canonicalUrl: https://www.youtube.com/watch?v=2KovKxNpZpg
-aliases:
-- /resources/videos/2KovKxNpZpg
-- /resources/videos/pet-peeve-in-scrum
-preview: https://i.ytimg.com/vi/2KovKxNpZpg/maxresdefault.jpg
-duration: 32
-isShort: true
-tags:
-- Scrum
-- Scrum coaching
-- Scrum consulting
-- Scrum applications
-- Scrum product development
-- Scrum project management
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Pet Peeve in Scrum] [date, 2023-04-28T09:30:00Z] [videoId, 2KovKxNpZpg] [url, /resources/videos/:slug] [slug, pet-peeve-in-scrum] [canonicalUrl, https://www.youtube.com/watch?v=2KovKxNpZpg] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/2KovKxNpZpg/maxresdefault.jpg] [duration, 32] [isShort, True] [tags, [Scrum, Scrum coaching, Scrum consulting, Scrum applications, Scrum product development, Scrum project management]] [sitemap, System.Collections.Hashtable]
 {{< youtube 2KovKxNpZpg >}}
 
 # Pet Peeve in Scrum

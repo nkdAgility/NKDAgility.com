@@ -1,29 +1,5 @@
 ---
-title: It's said that you can reduce time to market by up to 50% simply by removing committees. True?
-date: 2023-10-02T07:00:33Z
-videoId: ye1wQic8et0
-url: /resources/videos/:slug
-slug: it's-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true-
-canonicalUrl: https://www.youtube.com/watch?v=ye1wQic8et0
-aliases:
-- /resources/videos/ye1wQic8et0
-- /resources/videos/it's-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true-
-preview: https://i.ytimg.com/vi/ye1wQic8et0/maxresdefault.jpg
-duration: 408
-isShort: false
-tags:
-- Time to market
-- Agile project management
-- project management
-- agile product manager
-- project manager
-- agile devops
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, It's said that you can reduce time to market by up to 50% simply by removing committees. True?] [date, 2023-10-02T07:00:33Z] [videoId, ye1wQic8et0] [url, /resources/videos/:slug] [slug, it's-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true-] [canonicalUrl, https://www.youtube.com/watch?v=ye1wQic8et0] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/ye1wQic8et0/maxresdefault.jpg] [duration, 408] [isShort, False] [tags, [Time to market, Agile project management, project management, agile product manager, project manager, agile devops]] [sitemap, System.Collections.Hashtable]
 {{< youtube ye1wQic8et0 >}}
 
 # It's said that you can reduce time to market by up to 50% simply by removing committees. True?

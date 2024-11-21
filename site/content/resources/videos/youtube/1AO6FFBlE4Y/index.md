@@ -1,34 +1,5 @@
 ---
-title: The high cost of poor quality code.
-date: 2024-11-19T09:58:28Z
-videoId: 1AO6FFBlE4Y
-url: /resources/videos/:slug
-slug: the-high-cost-of-poor-quality-code-
-canonicalUrl: https://www.youtube.com/watch?v=1AO6FFBlE4Y
-aliases:
-- /resources/videos/1AO6FFBlE4Y
-- /resources/videos/the-high-cost-of-poor-quality-code-
-preview: https://i.ytimg.com/vi/1AO6FFBlE4Y/maxresdefault.jpg
-duration: 600
-isShort: false
-tags:
-- Software engineering
-- Agile
-- Scrum
-- Agile product development
-- Product development
-- Project management
-- Agile project management
-- Product owner
-- Scrum master
-- Product Manager
-- Project manager
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, The high cost of poor quality code.] [date, 2024-11-19T09:58:28Z] [videoId, 1AO6FFBlE4Y] [url, /resources/videos/:slug] [slug, the-high-cost-of-poor-quality-code-] [canonicalUrl, https://www.youtube.com/watch?v=1AO6FFBlE4Y] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/1AO6FFBlE4Y/maxresdefault.jpg] [duration, 600] [isShort, False] [tags, [Software engineering, Agile, Scrum, Agile product development, Product development, Project management, Agile project management, Product owner, Scrum master, Product Manager, Project manager]] [sitemap, System.Collections.Hashtable]
 {{< youtube 1AO6FFBlE4Y >}}
 
 # The high cost of poor quality code.

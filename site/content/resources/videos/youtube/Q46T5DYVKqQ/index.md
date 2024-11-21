@@ -1,32 +1,5 @@
 ---
-title: What is Empiricism
-date: 2023-08-17T07:00:09Z
-videoId: Q46T5DYVKqQ
-url: /resources/videos/:slug
-slug: what-is-empiricism
-canonicalUrl: https://www.youtube.com/watch?v=Q46T5DYVKqQ
-aliases:
-- /resources/videos/Q46T5DYVKqQ
-- /resources/videos/what-is-empiricism
-preview: https://i.ytimg.com/vi/Q46T5DYVKqQ/maxresdefault.jpg
-duration: 54
-isShort: true
-tags:
-- Empiricism
-- Empirical process control
-- scrum
-- agile
-- agility
-- business agility
-- agile frameworks
-- agile methodology
-- scrum theory
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, What is Empiricism] [date, 2023-08-17T07:00:09Z] [videoId, Q46T5DYVKqQ] [url, /resources/videos/:slug] [slug, what-is-empiricism] [canonicalUrl, https://www.youtube.com/watch?v=Q46T5DYVKqQ] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/Q46T5DYVKqQ/maxresdefault.jpg] [duration, 54] [isShort, True] [tags, [Empiricism, Empirical process control, scrum, agile, agility, business agility, agile frameworks, agile methodology, scrum theory]] [sitemap, System.Collections.Hashtable]
 {{< youtube Q46T5DYVKqQ >}}
 
 # What is Empiricism

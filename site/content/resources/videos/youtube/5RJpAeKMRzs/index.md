@@ -1,23 +1,5 @@
 ---
-title: The 7 Deadly Sins of Agile!
-date: 2024-04-14T12:17:16Z
-videoId: 5RJpAeKMRzs
-url: /resources/videos/:slug
-slug: the-7-deadly-sins-of-agile!
-canonicalUrl: https://www.youtube.com/watch?v=5RJpAeKMRzs
-aliases:
-- /resources/videos/5RJpAeKMRzs
-- /resources/videos/the-7-deadly-sins-of-agile!
-preview: https://i.ytimg.com/vi/5RJpAeKMRzs/maxresdefault.jpg
-duration: 2299
-isShort: false
-tags: []
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, The 7 Deadly Sins of Agile!] [date, 2024-04-14T12:17:16Z] [videoId, 5RJpAeKMRzs] [url, /resources/videos/:slug] [slug, the-7-deadly-sins-of-agile!] [canonicalUrl, https://www.youtube.com/watch?v=5RJpAeKMRzs] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/5RJpAeKMRzs/maxresdefault.jpg] [duration, 2299] [isShort, False] [tags, []] [sitemap, System.Collections.Hashtable]
 {{< youtube 5RJpAeKMRzs >}}
 
 # The 7 Deadly Sins of Agile!

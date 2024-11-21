@@ -1,29 +1,5 @@
 ---
-title: nkdAgility Healthgrades Interview Dave Frisch
-date: 2017-07-27T19:14:11Z
-videoId: F8a6gtXxLe0
-url: /resources/videos/:slug
-slug: nkdagility-healthgrades-interview-dave-frisch
-canonicalUrl: https://www.youtube.com/watch?v=F8a6gtXxLe0
-aliases:
-- /resources/videos/F8a6gtXxLe0
-- /resources/videos/nkdagility-healthgrades-interview-dave-frisch
-preview: https://i.ytimg.com/vi/F8a6gtXxLe0/maxresdefault.jpg
-duration: 101
-isShort: false
-tags:
-- Scrum
-- Scrum Training
-- Professional Scrum
-- Professional Scrum Training
-- Professional Scrum Foundations
-- Scrum.org
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, nkdAgility Healthgrades Interview Dave Frisch] [date, 2017-07-27T19:14:11Z] [videoId, F8a6gtXxLe0] [url, /resources/videos/:slug] [slug, nkdagility-healthgrades-interview-dave-frisch] [canonicalUrl, https://www.youtube.com/watch?v=F8a6gtXxLe0] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/F8a6gtXxLe0/maxresdefault.jpg] [duration, 101] [isShort, False] [tags, [Scrum, Scrum Training, Professional Scrum, Professional Scrum Training, Professional Scrum Foundations, Scrum.org]] [sitemap, System.Collections.Hashtable]
 {{< youtube F8a6gtXxLe0 >}}
 
 # nkdAgility Healthgrades Interview Dave Frisch

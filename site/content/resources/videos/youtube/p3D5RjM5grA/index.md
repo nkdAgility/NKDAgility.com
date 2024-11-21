@@ -1,28 +1,5 @@
 ---
-title: Ep 006 - Live Virtual Retrospective On PAL-e with Russell Miller
-date: 2020-04-25T02:29:57Z
-videoId: p3D5RjM5grA
-url: /resources/videos/:slug
-slug: ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller
-canonicalUrl: https://www.youtube.com/watch?v=p3D5RjM5grA
-aliases:
-- /resources/videos/p3D5RjM5grA
-- /resources/videos/ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller
-preview: https://i.ytimg.com/vi/p3D5RjM5grA/maxresdefault.jpg
-duration: 2961
-isShort: false
-tags:
-- Scrum
-- Agility
-- Professional
-- Product Owner
-- Scrum Team
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Ep 006 - Live Virtual Retrospective On PAL-e with Russell Miller] [date, 2020-04-25T02:29:57Z] [videoId, p3D5RjM5grA] [url, /resources/videos/:slug] [slug, ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller] [canonicalUrl, https://www.youtube.com/watch?v=p3D5RjM5grA] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/p3D5RjM5grA/maxresdefault.jpg] [duration, 2961] [isShort, False] [tags, [Scrum, Agility, Professional, Product Owner, Scrum Team]] [sitemap, System.Collections.Hashtable]
 {{< youtube p3D5RjM5grA >}}
 
 # Ep 006 - Live Virtual Retrospective On PAL-e with Russell Miller

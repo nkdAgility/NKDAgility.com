@@ -1,46 +1,5 @@
 ---
-title: Talk us through the new Product Backlog Management course from Scrum.org
-date: 2023-11-30T11:00:31Z
-videoId: R8Ris5quXb8
-url: /resources/videos/:slug
-slug: talk-us-through-the-new-product-backlog-management-course-from-scrum-org
-canonicalUrl: https://www.youtube.com/watch?v=R8Ris5quXb8
-aliases:
-- /resources/videos/R8Ris5quXb8
-- /resources/videos/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
-preview: https://i.ytimg.com/vi/R8Ris5quXb8/maxresdefault.jpg
-duration: 18
-isShort: true
-tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Talk us through the new Product Backlog Management course from Scrum.org] [date, 2023-11-30T11:00:31Z] [videoId, R8Ris5quXb8] [url, /resources/videos/:slug] [slug, talk-us-through-the-new-product-backlog-management-course-from-scrum-org] [canonicalUrl, https://www.youtube.com/watch?v=R8Ris5quXb8] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/R8Ris5quXb8/maxresdefault.jpg] [duration, 18] [isShort, True] [tags, [Agile, Scrum, agile project management, agile product development, agile product management, project management, product development, product management, professional scrum trainer, scrum training, scrum certification, scrum.org, DevOps consultant, DevOps coach, DevOps engineer, agile coach, agile consultant, agile trainer, scrum framework, scrum methodology, scrum approach, agile leadership, leadership.]] [sitemap, System.Collections.Hashtable]
 {{< youtube R8Ris5quXb8 >}}
 
 # Talk us through the new Product Backlog Management course from Scrum.org

@@ -1,30 +1,5 @@
 ---
-title: Scrum Value, Openness, What does it mean and why does it matter?
-date: 2023-04-28T07:00:30Z
-videoId: gRnYXuxo9_w
-url: /resources/videos/:slug
-slug: scrum-value,-openness,-what-does-it-mean-and-why-does-it-matter-
-canonicalUrl: https://www.youtube.com/watch?v=gRnYXuxo9_w
-aliases:
-- /resources/videos/gRnYXuxo9_w
-- /resources/videos/scrum-value,-openness,-what-does-it-mean-and-why-does-it-matter-
-preview: https://i.ytimg.com/vi/gRnYXuxo9_w/maxresdefault.jpg
-duration: 171
-isShort: false
-tags:
-- Scrum
-- Scrum Values
-- Openness
-- Scrum product development
-- scrum methodology
-- scrum project management
-- agile scrum
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Scrum Value, Openness, What does it mean and why does it matter?] [date, 2023-04-28T07:00:30Z] [videoId, gRnYXuxo9_w] [url, /resources/videos/:slug] [slug, scrum-value,-openness,-what-does-it-mean-and-why-does-it-matter-] [canonicalUrl, https://www.youtube.com/watch?v=gRnYXuxo9_w] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/gRnYXuxo9_w/maxresdefault.jpg] [duration, 171] [isShort, False] [tags, [Scrum, Scrum Values, Openness, Scrum product development, scrum methodology, scrum project management, agile scrum]] [sitemap, System.Collections.Hashtable]
 {{< youtube gRnYXuxo9_w >}}
 
 # Scrum Value, Openness, What does it mean and why does it matter?

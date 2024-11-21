@@ -1,28 +1,5 @@
 ---
-title: Kanban with Azure DevOps
-date: 2024-03-29T16:42:17Z
-videoId: jCrXzgjxcEA
-url: /resources/videos/:slug
-slug: kanban-with-azure-devops
-canonicalUrl: https://www.youtube.com/watch?v=jCrXzgjxcEA
-aliases:
-- /resources/videos/jCrXzgjxcEA
-- /resources/videos/kanban-with-azure-devops
-preview: https://i.ytimg.com/vi/jCrXzgjxcEA/maxresdefault.jpg
-duration: 1448
-isShort: false
-tags:
-- Azure DevOps
-- Azure Boards
-- Team Founndation Server
-- TFS Service
-- Visual Studio Team System
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Kanban with Azure DevOps] [date, 2024-03-29T16:42:17Z] [videoId, jCrXzgjxcEA] [url, /resources/videos/:slug] [slug, kanban-with-azure-devops] [canonicalUrl, https://www.youtube.com/watch?v=jCrXzgjxcEA] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/jCrXzgjxcEA/maxresdefault.jpg] [duration, 1448] [isShort, False] [tags, [Azure DevOps, Azure Boards, Team Founndation Server, TFS Service, Visual Studio Team System]] [sitemap, System.Collections.Hashtable]
 {{< youtube jCrXzgjxcEA >}}
 
 # Kanban with Azure DevOps

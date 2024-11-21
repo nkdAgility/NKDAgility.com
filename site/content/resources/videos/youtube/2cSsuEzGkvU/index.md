@@ -1,46 +1,5 @@
 ---
-title: ' shorts 7 Virtues of agile. Humility'
-date: 2023-12-12T11:00:04Z
-videoId: 2cSsuEzGkvU
-url: /resources/videos/:slug
-slug: -shorts-7-virtues-of-agile-humility
-canonicalUrl: https://www.youtube.com/watch?v=2cSsuEzGkvU
-aliases:
-- /resources/videos/2cSsuEzGkvU
-- /resources/videos/-shorts-7-virtues-of-agile-humility
-preview: https://i.ytimg.com/vi/2cSsuEzGkvU/maxresdefault.jpg
-duration: 53
-isShort: true
-tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title,  shorts 7 Virtues of agile. Humility] [date, 2023-12-12T11:00:04Z] [videoId, 2cSsuEzGkvU] [url, /resources/videos/:slug] [slug, -shorts-7-virtues-of-agile-humility] [canonicalUrl, https://www.youtube.com/watch?v=2cSsuEzGkvU] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/2cSsuEzGkvU/maxresdefault.jpg] [duration, 53] [isShort, True] [tags, [Agile, Scrum, agile project management, agile product development, agile product management, project management, product development, product management, professional scrum trainer, scrum training, scrum certification, scrum.org, DevOps consultant, DevOps coach, DevOps engineer, agile coach, agile consultant, agile trainer, scrum framework, scrum methodology, scrum approach, agile leadership, leadership.]] [sitemap, System.Collections.Hashtable]
 {{< youtube 2cSsuEzGkvU >}}
 
 #  shorts 7 Virtues of agile. Humility

@@ -1,25 +1,5 @@
 ---
-title: Mastering Azure DevOps Migration - A Comprehensive Guide by NKDAgility
-date: 2019-10-17T19:16:03Z
-videoId: RCJsST0xBCE
-url: /resources/videos/:slug
-slug: mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
-canonicalUrl: https://www.youtube.com/watch?v=RCJsST0xBCE
-aliases:
-- /resources/videos/RCJsST0xBCE
-- /resources/videos/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
-preview: https://i.ytimg.com/vi/RCJsST0xBCE/maxresdefault.jpg
-duration: 2399
-isShort: false
-tags:
-- Azure DevOps
-- Migration
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Mastering Azure DevOps Migration - A Comprehensive Guide by NKDAgility] [date, 2019-10-17T19:16:03Z] [videoId, RCJsST0xBCE] [url, /resources/videos/:slug] [slug, mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility] [canonicalUrl, https://www.youtube.com/watch?v=RCJsST0xBCE] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/RCJsST0xBCE/maxresdefault.jpg] [duration, 2399] [isShort, False] [tags, [Azure DevOps, Migration]] [sitemap, System.Collections.Hashtable]
 {{< youtube RCJsST0xBCE >}}
 
 # Mastering Azure DevOps Migration - A Comprehensive Guide by NKDAgility

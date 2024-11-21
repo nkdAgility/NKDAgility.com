@@ -1,27 +1,5 @@
 ---
-title: Making Data Driven Decisions - Decision making frameworks
-date: 2024-10-03T07:00:16Z
-videoId: RnMOINwjO84
-url: /resources/videos/:slug
-slug: making-data-driven-decisions-decision-making-frameworks
-canonicalUrl: https://www.youtube.com/watch?v=RnMOINwjO84
-aliases:
-- /resources/videos/RnMOINwjO84
-- /resources/videos/making-data-driven-decisions-decision-making-frameworks
-preview: https://i.ytimg.com/vi/RnMOINwjO84/maxresdefault.jpg
-duration: 971
-isShort: false
-tags:
-- Evidence based management
-- EBM
-- Agile
-- Data driven decisions
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Making Data Driven Decisions - Decision making frameworks] [date, 2024-10-03T07:00:16Z] [videoId, RnMOINwjO84] [url, /resources/videos/:slug] [slug, making-data-driven-decisions-decision-making-frameworks] [canonicalUrl, https://www.youtube.com/watch?v=RnMOINwjO84] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/RnMOINwjO84/maxresdefault.jpg] [duration, 971] [isShort, False] [tags, [Evidence based management, EBM, Agile, Data driven decisions]] [sitemap, System.Collections.Hashtable]
 {{< youtube RnMOINwjO84 >}}
 
 # Making Data Driven Decisions - Decision making frameworks

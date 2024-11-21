@@ -1,23 +1,5 @@
 ---
-title: PPDV learning outcomes with Dr Joanna Plaskonka
-date: 2024-08-20T07:06:21Z
-videoId: wLJAMvwR6qI
-url: /resources/videos/:slug
-slug: ppdv-learning-outcomes-with-dr-joanna-plaskonka
-canonicalUrl: https://www.youtube.com/watch?v=wLJAMvwR6qI
-aliases:
-- /resources/videos/wLJAMvwR6qI
-- /resources/videos/ppdv-learning-outcomes-with-dr-joanna-plaskonka
-preview: https://i.ytimg.com/vi/wLJAMvwR6qI/maxresdefault.jpg
-duration: 302
-isShort: false
-tags: []
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, PPDV learning outcomes with Dr Joanna Plaskonka] [date, 2024-08-20T07:06:21Z] [videoId, wLJAMvwR6qI] [url, /resources/videos/:slug] [slug, ppdv-learning-outcomes-with-dr-joanna-plaskonka] [canonicalUrl, https://www.youtube.com/watch?v=wLJAMvwR6qI] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/wLJAMvwR6qI/maxresdefault.jpg] [duration, 302] [isShort, False] [tags, []] [sitemap, System.Collections.Hashtable]
 {{< youtube wLJAMvwR6qI >}}
 
 # PPDV learning outcomes with Dr Joanna Plaskonka

@@ -1,46 +1,5 @@
 ---
-title: ' shorts 5 things you would teach a productowner apprentice. Part 2'
-date: 2023-12-14T11:00:22Z
-videoId: XF95kabzSeY
-url: /resources/videos/:slug
-slug: -shorts-5-things-you-would-teach-a-productowner-apprentice-part-2
-canonicalUrl: https://www.youtube.com/watch?v=XF95kabzSeY
-aliases:
-- /resources/videos/XF95kabzSeY
-- /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-2
-preview: https://i.ytimg.com/vi/XF95kabzSeY/maxresdefault.jpg
-duration: 67
-isShort: false
-tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title,  shorts 5 things you would teach a productowner apprentice. Part 2] [date, 2023-12-14T11:00:22Z] [videoId, XF95kabzSeY] [url, /resources/videos/:slug] [slug, -shorts-5-things-you-would-teach-a-productowner-apprentice-part-2] [canonicalUrl, https://www.youtube.com/watch?v=XF95kabzSeY] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/XF95kabzSeY/maxresdefault.jpg] [duration, 67] [isShort, False] [tags, [Agile, Scrum, agile project management, agile product development, agile product management, project management, product development, product management, professional scrum trainer, scrum training, scrum certification, scrum.org, DevOps consultant, DevOps coach, DevOps engineer, agile coach, agile consultant, agile trainer, scrum framework, scrum methodology, scrum approach, agile leadership, leadership.]] [sitemap, System.Collections.Hashtable]
 {{< youtube XF95kabzSeY >}}
 
 #  shorts 5 things you would teach a productowner apprentice. Part 2

@@ -1,23 +1,5 @@
 ---
-title: 30th March 2020 - Office Hours \ Ask Me Anything
-date: 2020-04-10T18:32:34Z
-videoId: GwrubbUKBSE
-url: /resources/videos/:slug
-slug: 30th-march-2020-office-hours-ask-me-anything
-canonicalUrl: https://www.youtube.com/watch?v=GwrubbUKBSE
-aliases:
-- /resources/videos/GwrubbUKBSE
-- /resources/videos/30th-march-2020-office-hours-ask-me-anything
-preview: https://i.ytimg.com/vi/GwrubbUKBSE/hqdefault.jpg
-duration: 2127
-isShort: false
-tags: []
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, 30th March 2020 - Office Hours \ Ask Me Anything] [date, 2020-04-10T18:32:34Z] [videoId, GwrubbUKBSE] [url, /resources/videos/:slug] [slug, 30th-march-2020-office-hours-ask-me-anything] [canonicalUrl, https://www.youtube.com/watch?v=GwrubbUKBSE] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/GwrubbUKBSE/hqdefault.jpg] [duration, 2127] [isShort, False] [tags, []] [sitemap, System.Collections.Hashtable]
 {{< youtube GwrubbUKBSE >}}
 
 # 30th March 2020 - Office Hours \ Ask Me Anything

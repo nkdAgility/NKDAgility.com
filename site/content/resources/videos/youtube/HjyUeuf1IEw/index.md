@@ -1,23 +1,5 @@
 ---
-title: 20th May 2020 - Office Hours \ Ask Me Anything
-date: 2020-05-21T05:26:17Z
-videoId: HjyUeuf1IEw
-url: /resources/videos/:slug
-slug: 20th-may-2020-office-hours-ask-me-anything
-canonicalUrl: https://www.youtube.com/watch?v=HjyUeuf1IEw
-aliases:
-- /resources/videos/HjyUeuf1IEw
-- /resources/videos/20th-may-2020-office-hours-ask-me-anything
-preview: https://i.ytimg.com/vi/HjyUeuf1IEw/maxresdefault.jpg
-duration: 1331
-isShort: false
-tags: []
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, 20th May 2020 - Office Hours \ Ask Me Anything] [date, 2020-05-21T05:26:17Z] [videoId, HjyUeuf1IEw] [url, /resources/videos/:slug] [slug, 20th-may-2020-office-hours-ask-me-anything] [canonicalUrl, https://www.youtube.com/watch?v=HjyUeuf1IEw] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/HjyUeuf1IEw/maxresdefault.jpg] [duration, 1331] [isShort, False] [tags, []] [sitemap, System.Collections.Hashtable]
 {{< youtube HjyUeuf1IEw >}}
 
 # 20th May 2020 - Office Hours \ Ask Me Anything

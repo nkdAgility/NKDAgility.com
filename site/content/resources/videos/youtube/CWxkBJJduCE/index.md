@@ -1,23 +1,5 @@
 ---
-title: Redefining test driven development
-date: 2024-11-19T16:55:41Z
-videoId: CWxkBJJduCE
-url: /resources/videos/:slug
-slug: redefining-test-driven-development
-canonicalUrl: https://www.youtube.com/watch?v=CWxkBJJduCE
-aliases:
-- /resources/videos/CWxkBJJduCE
-- /resources/videos/redefining-test-driven-development
-preview: https://i.ytimg.com/vi/CWxkBJJduCE/maxresdefault.jpg
-duration: 53
-isShort: true
-tags: Test driven development
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Redefining test driven development] [date, 2024-11-19T16:55:41Z] [videoId, CWxkBJJduCE] [url, /resources/videos/:slug] [slug, redefining-test-driven-development] [canonicalUrl, https://www.youtube.com/watch?v=CWxkBJJduCE] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/CWxkBJJduCE/maxresdefault.jpg] [duration, 53] [isShort, True] [tags, [Test driven development]] [sitemap, System.Collections.Hashtable]
 {{< youtube CWxkBJJduCE >}}
 
 # Redefining test driven development

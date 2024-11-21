@@ -1,29 +1,5 @@
 ---
-title: Advanced PSM II Immersive Learning Classes
-date: 2024-09-20T11:04:29Z
-videoId: Bi4ToMME8Xs
-url: /resources/videos/:slug
-slug: advanced-psm-ii-immersive-learning-classes
-canonicalUrl: https://www.youtube.com/watch?v=Bi4ToMME8Xs
-aliases:
-- /resources/videos/Bi4ToMME8Xs
-- /resources/videos/advanced-psm-ii-immersive-learning-classes
-preview: https://i.ytimg.com/vi/Bi4ToMME8Xs/maxresdefault.jpg
-duration: 20
-isShort: true
-tags:
-- Scrum
-- Scrum Master
-- immersive learning
-- scrum certification
-- scrum master training
-- scrum training
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Advanced PSM II Immersive Learning Classes] [date, 2024-09-20T11:04:29Z] [videoId, Bi4ToMME8Xs] [url, /resources/videos/:slug] [slug, advanced-psm-ii-immersive-learning-classes] [canonicalUrl, https://www.youtube.com/watch?v=Bi4ToMME8Xs] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/Bi4ToMME8Xs/maxresdefault.jpg] [duration, 20] [isShort, True] [tags, [Scrum, Scrum Master, immersive learning, scrum certification, scrum master training, scrum training]] [sitemap, System.Collections.Hashtable]
 {{< youtube Bi4ToMME8Xs >}}
 
 # Advanced PSM II Immersive Learning Classes

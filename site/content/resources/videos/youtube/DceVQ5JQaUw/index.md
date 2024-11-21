@@ -1,29 +1,5 @@
 ---
-title: Most destructive thing a client can do to an agile consultant?
-date: 2023-05-01T07:00:05Z
-videoId: DceVQ5JQaUw
-url: /resources/videos/:slug
-slug: most-destructive-thing-a-client-can-do-to-an-agile-consultant-
-canonicalUrl: https://www.youtube.com/watch?v=DceVQ5JQaUw
-aliases:
-- /resources/videos/DceVQ5JQaUw
-- /resources/videos/most-destructive-thing-a-client-can-do-to-an-agile-consultant-
-preview: https://i.ytimg.com/vi/DceVQ5JQaUw/maxresdefault.jpg
-duration: 130
-isShort: false
-tags:
-- Agile Consulting
-- Agile
-- Agile consultant
-- Client nightmares
-- Agile approach
-- Agile Product Development
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Most destructive thing a client can do to an agile consultant?] [date, 2023-05-01T07:00:05Z] [videoId, DceVQ5JQaUw] [url, /resources/videos/:slug] [slug, most-destructive-thing-a-client-can-do-to-an-agile-consultant-] [canonicalUrl, https://www.youtube.com/watch?v=DceVQ5JQaUw] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/DceVQ5JQaUw/maxresdefault.jpg] [duration, 130] [isShort, False] [tags, [Agile Consulting, Agile, Agile consultant, Client nightmares, Agile approach, Agile Product Development]] [sitemap, System.Collections.Hashtable]
 {{< youtube DceVQ5JQaUw >}}
 
 # Most destructive thing a client can do to an agile consultant?

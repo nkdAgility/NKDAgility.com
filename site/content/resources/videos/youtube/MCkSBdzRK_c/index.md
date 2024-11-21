@@ -1,46 +1,5 @@
 ---
-title: Making Business Decisions with Evidence! What is evidence-based management?
-date: 2024-01-25T07:00:13Z
-videoId: MCkSBdzRK_c
-url: /resources/videos/:slug
-slug: making-business-decisions-with-evidence!-what-is-evidence-based-management-
-canonicalUrl: https://www.youtube.com/watch?v=MCkSBdzRK_c
-aliases:
-- /resources/videos/MCkSBdzRK_c
-- /resources/videos/making-business-decisions-with-evidence!-what-is-evidence-based-management-
-preview: https://i.ytimg.com/vi/MCkSBdzRK_c/maxresdefault.jpg
-duration: 369
-isShort: false
-tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Making Business Decisions with Evidence! What is evidence-based management?] [date, 2024-01-25T07:00:13Z] [videoId, MCkSBdzRK_c] [url, /resources/videos/:slug] [slug, making-business-decisions-with-evidence!-what-is-evidence-based-management-] [canonicalUrl, https://www.youtube.com/watch?v=MCkSBdzRK_c] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/MCkSBdzRK_c/maxresdefault.jpg] [duration, 369] [isShort, False] [tags, [Agile, Scrum, agile project management, agile product development, agile product management, project management, product development, product management, professional scrum trainer, scrum training, scrum certification, scrum.org, DevOps consultant, DevOps coach, DevOps engineer, agile coach, agile consultant, agile trainer, scrum framework, scrum methodology, scrum approach, agile leadership, leadership.]] [sitemap, System.Collections.Hashtable]
 {{< youtube MCkSBdzRK_c >}}
 
 # Making Business Decisions with Evidence! What is evidence-based management?

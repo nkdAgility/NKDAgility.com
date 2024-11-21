@@ -1,28 +1,5 @@
 ---
-title: Why did you embrace Agile over traditional project management as a developer?
-date: 2023-03-02T07:00:01Z
-videoId: 4FTEJ4tDQqU
-url: /resources/videos/:slug
-slug: why-did-you-embrace-agile-over-traditional-project-management-as-a-developer-
-canonicalUrl: https://www.youtube.com/watch?v=4FTEJ4tDQqU
-aliases:
-- /resources/videos/4FTEJ4tDQqU
-- /resources/videos/why-did-you-embrace-agile-over-traditional-project-management-as-a-developer-
-preview: https://i.ytimg.com/vi/4FTEJ4tDQqU/maxresdefault.jpg
-duration: 326
-isShort: false
-tags:
-- Agile
-- Agile Coach
-- Agile Consultant
-- Agile Project Management
-- Agile Product Development
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Why did you embrace Agile over traditional project management as a developer?] [date, 2023-03-02T07:00:01Z] [videoId, 4FTEJ4tDQqU] [url, /resources/videos/:slug] [slug, why-did-you-embrace-agile-over-traditional-project-management-as-a-developer-] [canonicalUrl, https://www.youtube.com/watch?v=4FTEJ4tDQqU] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/4FTEJ4tDQqU/maxresdefault.jpg] [duration, 326] [isShort, False] [tags, [Agile, Agile Coach, Agile Consultant, Agile Project Management, Agile Product Development]] [sitemap, System.Collections.Hashtable]
 {{< youtube 4FTEJ4tDQqU >}}
 
 # Why did you embrace Agile over traditional project management as a developer?

@@ -1,23 +1,5 @@
 ---
-title: Business Agility Raw! - Ask me Anything Lean Coffee with Martin Hinshelwood [mktng]
-date: 2022-07-27T18:45:14Z
-videoId: bvCU_N6iY_4
-url: /resources/videos/:slug
-slug: business-agility-raw!-ask-me-anything-lean-coffee-with-martin-hinshelwood-[mktng]
-canonicalUrl: https://www.youtube.com/watch?v=bvCU_N6iY_4
-aliases:
-- /resources/videos/bvCU_N6iY_4
-- /resources/videos/business-agility-raw!-ask-me-anything-lean-coffee-with-martin-hinshelwood-[mktng]
-preview: https://i.ytimg.com/vi/bvCU_N6iY_4/maxresdefault.jpg
-duration: 21
-isShort: true
-tags: []
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Business Agility Raw! - Ask me Anything Lean Coffee with Martin Hinshelwood [mktng]] [date, 2022-07-27T18:45:14Z] [videoId, bvCU_N6iY_4] [url, /resources/videos/:slug] [slug, business-agility-raw!-ask-me-anything-lean-coffee-with-martin-hinshelwood-[mktng]] [canonicalUrl, https://www.youtube.com/watch?v=bvCU_N6iY_4] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/bvCU_N6iY_4/maxresdefault.jpg] [duration, 21] [isShort, True] [tags, []] [sitemap, System.Collections.Hashtable]
 {{< youtube bvCU_N6iY_4 >}}
 
 # Business Agility Raw! - Ask me Anything Lean Coffee with Martin Hinshelwood [mktng]

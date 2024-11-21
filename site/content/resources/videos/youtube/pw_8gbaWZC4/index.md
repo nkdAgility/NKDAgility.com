@@ -1,29 +1,5 @@
 ---
-title: How Top Teams Use Pull Systems!
-date: 2024-03-08T07:00:31Z
-videoId: pw_8gbaWZC4
-url: /resources/videos/:slug
-slug: how-top-teams-use-pull-systems!
-canonicalUrl: https://www.youtube.com/watch?v=pw_8gbaWZC4
-aliases:
-- /resources/videos/pw_8gbaWZC4
-- /resources/videos/how-top-teams-use-pull-systems!
-preview: https://i.ytimg.com/vi/pw_8gbaWZC4/maxresdefault.jpg
-duration: 294
-isShort: false
-tags:
-- Kanban
-- Kanban training
-- Kanban coaching
-- Kanban consulting
-- Kanban approach
-- Kanban method
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, How Top Teams Use Pull Systems!] [date, 2024-03-08T07:00:31Z] [videoId, pw_8gbaWZC4] [url, /resources/videos/:slug] [slug, how-top-teams-use-pull-systems!] [canonicalUrl, https://www.youtube.com/watch?v=pw_8gbaWZC4] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/pw_8gbaWZC4/maxresdefault.jpg] [duration, 294] [isShort, False] [tags, [Kanban, Kanban training, Kanban coaching, Kanban consulting, Kanban approach, Kanban method]] [sitemap, System.Collections.Hashtable]
 {{< youtube pw_8gbaWZC4 >}}
 
 # How Top Teams Use Pull Systems!

@@ -1,29 +1,5 @@
 ---
-title: What was your worst day as an agile consultant?
-date: 2023-04-04T07:00:16Z
-videoId: sKYVNHcf1jg
-url: /resources/videos/:slug
-slug: what-was-your-worst-day-as-an-agile-consultant-
-canonicalUrl: https://www.youtube.com/watch?v=sKYVNHcf1jg
-aliases:
-- /resources/videos/sKYVNHcf1jg
-- /resources/videos/what-was-your-worst-day-as-an-agile-consultant-
-preview: https://i.ytimg.com/vi/sKYVNHcf1jg/maxresdefault.jpg
-duration: 280
-isShort: false
-tags:
-- Agile
-- Agile Consultant
-- Agile Consulting
-- Agile Coach
-- Agile Coaching
-- Consulting
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, What was your worst day as an agile consultant?] [date, 2023-04-04T07:00:16Z] [videoId, sKYVNHcf1jg] [url, /resources/videos/:slug] [slug, what-was-your-worst-day-as-an-agile-consultant-] [canonicalUrl, https://www.youtube.com/watch?v=sKYVNHcf1jg] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/sKYVNHcf1jg/maxresdefault.jpg] [duration, 280] [isShort, False] [tags, [Agile, Agile Consultant, Agile Consulting, Agile Coach, Agile Coaching, Consulting]] [sitemap, System.Collections.Hashtable]
 {{< youtube sKYVNHcf1jg >}}
 
 # What was your worst day as an agile consultant?

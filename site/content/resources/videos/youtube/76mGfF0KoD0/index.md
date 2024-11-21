@@ -1,30 +1,5 @@
 ---
-title: Would you recommend a team APS workshop or an agile consultant?
-date: 2023-04-05T07:00:03Z
-videoId: 76mGfF0KoD0
-url: /resources/videos/:slug
-slug: would-you-recommend-a-team-aps-workshop-or-an-agile-consultant-
-canonicalUrl: https://www.youtube.com/watch?v=76mGfF0KoD0
-aliases:
-- /resources/videos/76mGfF0KoD0
-- /resources/videos/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant-
-preview: https://i.ytimg.com/vi/76mGfF0KoD0/maxresdefault.jpg
-duration: 376
-isShort: false
-tags:
-- Scrum
-- Applying Professional Scrum
-- APS
-- Scrum coach
-- Agile Coach
-- Agile Consultant
-- Agile Consulting
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Would you recommend a team APS workshop or an agile consultant?] [date, 2023-04-05T07:00:03Z] [videoId, 76mGfF0KoD0] [url, /resources/videos/:slug] [slug, would-you-recommend-a-team-aps-workshop-or-an-agile-consultant-] [canonicalUrl, https://www.youtube.com/watch?v=76mGfF0KoD0] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/76mGfF0KoD0/maxresdefault.jpg] [duration, 376] [isShort, False] [tags, [Scrum, Applying Professional Scrum, APS, Scrum coach, Agile Coach, Agile Consultant, Agile Consulting]] [sitemap, System.Collections.Hashtable]
 {{< youtube 76mGfF0KoD0 >}}
 
 # Would you recommend a team APS workshop or an agile consultant?

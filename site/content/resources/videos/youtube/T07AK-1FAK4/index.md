@@ -1,46 +1,5 @@
 ---
-title: 7 signs of the agile apocalypse. The Antichrist
-date: 2023-11-07T07:36:21Z
-videoId: T07AK-1FAK4
-url: /resources/videos/:slug
-slug: 7-signs-of-the-agile-apocalypse-the-antichrist
-canonicalUrl: https://www.youtube.com/watch?v=T07AK-1FAK4
-aliases:
-- /resources/videos/T07AK-1FAK4
-- /resources/videos/7-signs-of-the-agile-apocalypse-the-antichrist
-preview: https://i.ytimg.com/vi/T07AK-1FAK4/maxresdefault.jpg
-duration: 42
-isShort: true
-tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, 7 signs of the agile apocalypse. The Antichrist] [date, 2023-11-07T07:36:21Z] [videoId, T07AK-1FAK4] [url, /resources/videos/:slug] [slug, 7-signs-of-the-agile-apocalypse-the-antichrist] [canonicalUrl, https://www.youtube.com/watch?v=T07AK-1FAK4] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/T07AK-1FAK4/maxresdefault.jpg] [duration, 42] [isShort, True] [tags, [Agile, Scrum, agile project management, agile product development, agile product management, project management, product development, product management, professional scrum trainer, scrum training, scrum certification, scrum.org, DevOps consultant, DevOps coach, DevOps engineer, agile coach, agile consultant, agile trainer, scrum framework, scrum methodology, scrum approach, agile leadership, leadership.]] [sitemap, System.Collections.Hashtable]
 {{< youtube T07AK-1FAK4 >}}
 
 # 7 signs of the agile apocalypse. The Antichrist

@@ -1,28 +1,5 @@
 ---
-title: 1 critical skill for a scrum master and why?
-date: 2023-04-27T07:00:31Z
-videoId: xuNNZnCNVWs
-url: /resources/videos/:slug
-slug: 1-critical-skill-for-a-scrum-master-and-why-
-canonicalUrl: https://www.youtube.com/watch?v=xuNNZnCNVWs
-aliases:
-- /resources/videos/xuNNZnCNVWs
-- /resources/videos/1-critical-skill-for-a-scrum-master-and-why-
-preview: https://i.ytimg.com/vi/xuNNZnCNVWs/maxresdefault.jpg
-duration: 45
-isShort: true
-tags:
-- Scrum Master
-- ScrumMaster
-- Scrum
-- Critical Skills
-- Agile
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, 1 critical skill for a scrum master and why?] [date, 2023-04-27T07:00:31Z] [videoId, xuNNZnCNVWs] [url, /resources/videos/:slug] [slug, 1-critical-skill-for-a-scrum-master-and-why-] [canonicalUrl, https://www.youtube.com/watch?v=xuNNZnCNVWs] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/xuNNZnCNVWs/maxresdefault.jpg] [duration, 45] [isShort, True] [tags, [Scrum Master, ScrumMaster, Scrum, Critical Skills, Agile]] [sitemap, System.Collections.Hashtable]
 {{< youtube xuNNZnCNVWs >}}
 
 # 1 critical skill for a scrum master and why?

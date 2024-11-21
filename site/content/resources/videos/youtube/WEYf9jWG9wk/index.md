@@ -1,34 +1,5 @@
 ---
-title: Unleash your team's full potential
-date: 2024-11-20T08:02:36Z
-videoId: WEYf9jWG9wk
-url: /resources/videos/:slug
-slug: unleash-your-team's-full-potential
-canonicalUrl: https://www.youtube.com/watch?v=WEYf9jWG9wk
-aliases:
-- /resources/videos/WEYf9jWG9wk
-- /resources/videos/unleash-your-team's-full-potential
-preview: https://i.ytimg.com/vi/WEYf9jWG9wk/maxresdefault.jpg
-duration: 53
-isShort: true
-tags:
-- Agile
-- Agile product development
-- agile product management
-- agile project management
-- product development
-- product management
-- product manager
-- product owner
-- project management
-- project manager
-- scrum master
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Unleash your team's full potential] [date, 2024-11-20T08:02:36Z] [videoId, WEYf9jWG9wk] [url, /resources/videos/:slug] [slug, unleash-your-team's-full-potential] [canonicalUrl, https://www.youtube.com/watch?v=WEYf9jWG9wk] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/WEYf9jWG9wk/maxresdefault.jpg] [duration, 53] [isShort, True] [tags, [Agile, Agile product development, agile product management, agile project management, product development, product management, product manager, product owner, project management, project manager, scrum master]] [sitemap, System.Collections.Hashtable]
 {{< youtube WEYf9jWG9wk >}}
 
 # Unleash your team's full potential

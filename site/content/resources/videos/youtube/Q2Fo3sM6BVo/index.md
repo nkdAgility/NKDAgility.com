@@ -1,23 +1,5 @@
 ---
-title: The Scrum Framework!
-date: 2022-10-18T16:13:02Z
-videoId: Q2Fo3sM6BVo
-url: /resources/videos/:slug
-slug: the-scrum-framework!
-canonicalUrl: https://www.youtube.com/watch?v=Q2Fo3sM6BVo
-aliases:
-- /resources/videos/Q2Fo3sM6BVo
-- /resources/videos/the-scrum-framework!
-preview: https://i.ytimg.com/vi/Q2Fo3sM6BVo/maxresdefault.jpg
-duration: 891
-isShort: false
-tags: []
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, The Scrum Framework!] [date, 2022-10-18T16:13:02Z] [videoId, Q2Fo3sM6BVo] [url, /resources/videos/:slug] [slug, the-scrum-framework!] [canonicalUrl, https://www.youtube.com/watch?v=Q2Fo3sM6BVo] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/Q2Fo3sM6BVo/maxresdefault.jpg] [duration, 891] [isShort, False] [tags, []] [sitemap, System.Collections.Hashtable]
 {{< youtube Q2Fo3sM6BVo >}}
 
 # The Scrum Framework!

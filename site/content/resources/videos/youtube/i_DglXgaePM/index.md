@@ -1,23 +1,5 @@
 ---
-title: Slaying the dragons and how to successfully descale at scale with BCS & FoWS
-date: 2020-03-25T21:07:01Z
-videoId: i_DglXgaePM
-url: /resources/videos/:slug
-slug: slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-&-fows
-canonicalUrl: https://www.youtube.com/watch?v=i_DglXgaePM
-aliases:
-- /resources/videos/i_DglXgaePM
-- /resources/videos/slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-&-fows
-preview: https://i.ytimg.com/vi/i_DglXgaePM/maxresdefault.jpg
-duration: 5631
-isShort: false
-tags: []
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Slaying the dragons and how to successfully descale at scale with BCS & FoWS] [date, 2020-03-25T21:07:01Z] [videoId, i_DglXgaePM] [url, /resources/videos/:slug] [slug, slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-&-fows] [canonicalUrl, https://www.youtube.com/watch?v=i_DglXgaePM] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/i_DglXgaePM/maxresdefault.jpg] [duration, 5631] [isShort, False] [tags, []] [sitemap, System.Collections.Hashtable]
 {{< youtube i_DglXgaePM >}}
 
 # Slaying the dragons and how to successfully descale at scale with BCS & FoWS

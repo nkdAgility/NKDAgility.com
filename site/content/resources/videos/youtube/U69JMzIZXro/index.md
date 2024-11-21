@@ -1,30 +1,5 @@
 ---
-title: Installing TFS 2013 Standard
-date: 2014-01-15T13:38:13Z
-videoId: U69JMzIZXro
-url: /resources/videos/:slug
-slug: installing-tfs-2013-standard
-canonicalUrl: https://www.youtube.com/watch?v=U69JMzIZXro
-aliases:
-- /resources/videos/U69JMzIZXro
-- /resources/videos/installing-tfs-2013-standard
-preview: https://i.ytimg.com/vi/U69JMzIZXro/maxresdefault.jpg
-duration: 1219
-isShort: false
-tags:
-- Team Foundation Server (Software)
-- TFS
-- TFS 2013
-- Install
-- Install & Configure
-- Install & Configure 101
-- "101"
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Installing TFS 2013 Standard] [date, 2014-01-15T13:38:13Z] [videoId, U69JMzIZXro] [url, /resources/videos/:slug] [slug, installing-tfs-2013-standard] [canonicalUrl, https://www.youtube.com/watch?v=U69JMzIZXro] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/U69JMzIZXro/maxresdefault.jpg] [duration, 1219] [isShort, False] [tags, [Team Foundation Server (Software), TFS, TFS 2013, Install, Install & Configure, Install & Configure 101, 101]] [sitemap, System.Collections.Hashtable]
 {{< youtube U69JMzIZXro >}}
 
 # Installing TFS 2013 Standard

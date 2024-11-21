@@ -1,27 +1,5 @@
 ---
-title: Agile Consulting Services overview
-date: 2023-06-17T07:30:02Z
-videoId: 82_yTGt9pLM
-url: /resources/videos/:slug
-slug: agile-consulting-services-overview
-canonicalUrl: https://www.youtube.com/watch?v=82_yTGt9pLM
-aliases:
-- /resources/videos/82_yTGt9pLM
-- /resources/videos/agile-consulting-services-overview
-preview: https://i.ytimg.com/vi/82_yTGt9pLM/maxresdefault.jpg
-duration: 370
-isShort: false
-tags:
-- Agile
-- Agile Consulting
-- Agile Consultant
-- Agile training
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Agile Consulting Services overview] [date, 2023-06-17T07:30:02Z] [videoId, 82_yTGt9pLM] [url, /resources/videos/:slug] [slug, agile-consulting-services-overview] [canonicalUrl, https://www.youtube.com/watch?v=82_yTGt9pLM] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/82_yTGt9pLM/maxresdefault.jpg] [duration, 370] [isShort, False] [tags, [Agile, Agile Consulting, Agile Consultant, Agile training]] [sitemap, System.Collections.Hashtable]
 {{< youtube 82_yTGt9pLM >}}
 
 # Agile Consulting Services overview

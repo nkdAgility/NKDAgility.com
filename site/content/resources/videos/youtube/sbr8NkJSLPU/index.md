@@ -1,30 +1,5 @@
 ---
-title: 3 core practices of Kanban Defining and visualizing a workflow
-date: 2024-02-27T07:00:31Z
-videoId: sbr8NkJSLPU
-url: /resources/videos/:slug
-slug: 3-core-practices-of-kanban-defining-and-visualizing-a-workflow
-canonicalUrl: https://www.youtube.com/watch?v=sbr8NkJSLPU
-aliases:
-- /resources/videos/sbr8NkJSLPU
-- /resources/videos/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
-preview: https://i.ytimg.com/vi/sbr8NkJSLPU/maxresdefault.jpg
-duration: 218
-isShort: false
-tags:
-- Kanban
-- Kanban courses
-- Kanban training
-- Kanban coach
-- Kanban consultant
-- Kanban method
-- ProKanban
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, 3 core practices of Kanban Defining and visualizing a workflow] [date, 2024-02-27T07:00:31Z] [videoId, sbr8NkJSLPU] [url, /resources/videos/:slug] [slug, 3-core-practices-of-kanban-defining-and-visualizing-a-workflow] [canonicalUrl, https://www.youtube.com/watch?v=sbr8NkJSLPU] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/sbr8NkJSLPU/maxresdefault.jpg] [duration, 218] [isShort, False] [tags, [Kanban, Kanban courses, Kanban training, Kanban coach, Kanban consultant, Kanban method, ProKanban]] [sitemap, System.Collections.Hashtable]
 {{< youtube sbr8NkJSLPU >}}
 
 # 3 core practices of Kanban Defining and visualizing a workflow

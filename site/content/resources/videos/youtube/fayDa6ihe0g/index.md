@@ -1,23 +1,5 @@
 ---
-title: Live Virtual Professional Scrum Product Owner in 5 minutes!
-date: 2021-10-22T10:52:48Z
-videoId: fayDa6ihe0g
-url: /resources/videos/:slug
-slug: live-virtual-professional-scrum-product-owner-in-5-minutes!
-canonicalUrl: https://www.youtube.com/watch?v=fayDa6ihe0g
-aliases:
-- /resources/videos/fayDa6ihe0g
-- /resources/videos/live-virtual-professional-scrum-product-owner-in-5-minutes!
-preview: https://i.ytimg.com/vi/fayDa6ihe0g/maxresdefault.jpg
-duration: 301
-isShort: false
-tags: []
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Live Virtual Professional Scrum Product Owner in 5 minutes!] [date, 2021-10-22T10:52:48Z] [videoId, fayDa6ihe0g] [url, /resources/videos/:slug] [slug, live-virtual-professional-scrum-product-owner-in-5-minutes!] [canonicalUrl, https://www.youtube.com/watch?v=fayDa6ihe0g] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/fayDa6ihe0g/maxresdefault.jpg] [duration, 301] [isShort, False] [tags, []] [sitemap, System.Collections.Hashtable]
 {{< youtube fayDa6ihe0g >}}
 
 # Live Virtual Professional Scrum Product Owner in 5 minutes!

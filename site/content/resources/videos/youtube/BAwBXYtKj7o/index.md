@@ -1,34 +1,5 @@
 ---
-title: The Power of Automated Testing
-date: 2024-11-21T07:00:11Z
-videoId: BAwBXYtKj7o
-url: /resources/videos/:slug
-slug: the-power-of-automated-testing
-canonicalUrl: https://www.youtube.com/watch?v=BAwBXYtKj7o
-aliases:
-- /resources/videos/BAwBXYtKj7o
-- /resources/videos/the-power-of-automated-testing
-preview: https://i.ytimg.com/vi/BAwBXYtKj7o/maxresdefault.jpg
-duration: 451
-isShort: false
-tags:
-- Agile
-- Product Development
-- Product Management
-- Project Management
-- Agile product development
-- Agile product management
-- Agile project management
-- project manager
-- product manager
-- product owner
-- scrum master
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, The Power of Automated Testing] [date, 2024-11-21T07:00:11Z] [videoId, BAwBXYtKj7o] [url, /resources/videos/:slug] [slug, the-power-of-automated-testing] [canonicalUrl, https://www.youtube.com/watch?v=BAwBXYtKj7o] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/BAwBXYtKj7o/maxresdefault.jpg] [duration, 451] [isShort, False] [tags, [Agile, Product Development, Product Management, Project Management, Agile product development, Agile product management, Agile project management, project manager, product manager, product owner, scrum master]] [sitemap, System.Collections.Hashtable]
 {{< youtube BAwBXYtKj7o >}}
 
 # The Power of Automated Testing

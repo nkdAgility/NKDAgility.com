@@ -1,46 +1,5 @@
 ---
-title: 7 signs of the agile apocalypse. Chaos
-date: 2023-11-09T10:45:01Z
-videoId: ItvOiaC32Hs
-url: /resources/videos/:slug
-slug: 7-signs-of-the-agile-apocalypse-chaos
-canonicalUrl: https://www.youtube.com/watch?v=ItvOiaC32Hs
-aliases:
-- /resources/videos/ItvOiaC32Hs
-- /resources/videos/7-signs-of-the-agile-apocalypse-chaos
-preview: https://i.ytimg.com/vi/ItvOiaC32Hs/maxresdefault.jpg
-duration: 50
-isShort: true
-tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, 7 signs of the agile apocalypse. Chaos] [date, 2023-11-09T10:45:01Z] [videoId, ItvOiaC32Hs] [url, /resources/videos/:slug] [slug, 7-signs-of-the-agile-apocalypse-chaos] [canonicalUrl, https://www.youtube.com/watch?v=ItvOiaC32Hs] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/ItvOiaC32Hs/maxresdefault.jpg] [duration, 50] [isShort, True] [tags, [Agile, Scrum, agile project management, agile product development, agile product management, project management, product development, product management, professional scrum trainer, scrum training, scrum certification, scrum.org, DevOps consultant, DevOps coach, DevOps engineer, agile coach, agile consultant, agile trainer, scrum framework, scrum methodology, scrum approach, agile leadership, leadership.]] [sitemap, System.Collections.Hashtable]
 {{< youtube ItvOiaC32Hs >}}
 
 # 7 signs of the agile apocalypse. Chaos

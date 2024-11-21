@@ -1,31 +1,5 @@
 ---
-title: Product Management Mentor Program Final
-date: 2024-05-06T13:29:40Z
-videoId: ZcMcVL7mNGU
-url: /resources/videos/:slug
-slug: product-management-mentor-program-final
-canonicalUrl: https://www.youtube.com/watch?v=ZcMcVL7mNGU
-aliases:
-- /resources/videos/ZcMcVL7mNGU
-- /resources/videos/product-management-mentor-program-final
-preview: https://i.ytimg.com/vi/ZcMcVL7mNGU/maxresdefault.jpg
-duration: 256
-isShort: false
-tags:
-- Agile
-- Agile Product Management
-- Product Management
-- Product Development
-- Agile Product Development
-- Product Managers
-- Product Developers
-- Project managers
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Product Management Mentor Program Final] [date, 2024-05-06T13:29:40Z] [videoId, ZcMcVL7mNGU] [url, /resources/videos/:slug] [slug, product-management-mentor-program-final] [canonicalUrl, https://www.youtube.com/watch?v=ZcMcVL7mNGU] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/ZcMcVL7mNGU/maxresdefault.jpg] [duration, 256] [isShort, False] [tags, [Agile, Agile Product Management, Product Management, Product Development, Agile Product Development, Product Managers, Product Developers, Project managers]] [sitemap, System.Collections.Hashtable]
 {{< youtube ZcMcVL7mNGU >}}
 
 # Product Management Mentor Program Final

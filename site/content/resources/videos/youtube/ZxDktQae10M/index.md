@@ -1,26 +1,5 @@
 ---
-title: 2018 VSTS Sync Migration Tools Overview
-date: 2017-12-30T18:57:40Z
-videoId: ZxDktQae10M
-url: /resources/videos/:slug
-slug: 2018-vsts-sync-migration-tools-overview
-canonicalUrl: https://www.youtube.com/watch?v=ZxDktQae10M
-aliases:
-- /resources/videos/ZxDktQae10M
-- /resources/videos/2018-vsts-sync-migration-tools-overview
-preview: https://i.ytimg.com/vi/ZxDktQae10M/maxresdefault.jpg
-duration: 1977
-isShort: false
-tags:
-- VSTS
-- TFS
-- Migration
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, 2018 VSTS Sync Migration Tools Overview] [date, 2017-12-30T18:57:40Z] [videoId, ZxDktQae10M] [url, /resources/videos/:slug] [slug, 2018-vsts-sync-migration-tools-overview] [canonicalUrl, https://www.youtube.com/watch?v=ZxDktQae10M] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/ZxDktQae10M/maxresdefault.jpg] [duration, 1977] [isShort, False] [tags, [VSTS, TFS, Migration]] [sitemap, System.Collections.Hashtable]
 {{< youtube ZxDktQae10M >}}
 
 # 2018 VSTS Sync Migration Tools Overview

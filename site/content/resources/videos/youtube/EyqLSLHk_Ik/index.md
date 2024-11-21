@@ -1,28 +1,5 @@
 ---
-title: Product Development Mentoring Program
-date: 2024-05-07T11:02:49Z
-videoId: EyqLSLHk_Ik
-url: /resources/videos/:slug
-slug: product-development-mentoring-program
-canonicalUrl: https://www.youtube.com/watch?v=EyqLSLHk_Ik
-aliases:
-- /resources/videos/EyqLSLHk_Ik
-- /resources/videos/product-development-mentoring-program
-preview: https://i.ytimg.com/vi/EyqLSLHk_Ik/maxresdefault.jpg
-duration: 423
-isShort: false
-tags:
-- Product Development
-- Agile
-- Agile Consulting
-- Agile Training
-- Scrum Training
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Product Development Mentoring Program] [date, 2024-05-07T11:02:49Z] [videoId, EyqLSLHk_Ik] [url, /resources/videos/:slug] [slug, product-development-mentoring-program] [canonicalUrl, https://www.youtube.com/watch?v=EyqLSLHk_Ik] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/EyqLSLHk_Ik/maxresdefault.jpg] [duration, 423] [isShort, False] [tags, [Product Development, Agile, Agile Consulting, Agile Training, Scrum Training]] [sitemap, System.Collections.Hashtable]
 {{< youtube EyqLSLHk_Ik >}}
 
 # Product Development Mentoring Program

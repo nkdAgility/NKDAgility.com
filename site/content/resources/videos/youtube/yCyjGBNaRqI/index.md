@@ -1,23 +1,5 @@
 ---
-title: NKD Agility Mission and Purpose
-date: 2024-05-10T06:45:01Z
-videoId: yCyjGBNaRqI
-url: /resources/videos/:slug
-slug: nkd-agility-mission-and-purpose
-canonicalUrl: https://www.youtube.com/watch?v=yCyjGBNaRqI
-aliases:
-- /resources/videos/yCyjGBNaRqI
-- /resources/videos/nkd-agility-mission-and-purpose
-preview: https://i.ytimg.com/vi/yCyjGBNaRqI/maxresdefault.jpg
-duration: 174
-isShort: false
-tags: []
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, NKD Agility Mission and Purpose] [date, 2024-05-10T06:45:01Z] [videoId, yCyjGBNaRqI] [url, /resources/videos/:slug] [slug, nkd-agility-mission-and-purpose] [canonicalUrl, https://www.youtube.com/watch?v=yCyjGBNaRqI] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/yCyjGBNaRqI/maxresdefault.jpg] [duration, 174] [isShort, False] [tags, []] [sitemap, System.Collections.Hashtable]
 {{< youtube yCyjGBNaRqI >}}
 
 # NKD Agility Mission and Purpose

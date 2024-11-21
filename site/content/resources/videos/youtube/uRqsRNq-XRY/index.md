@@ -1,46 +1,5 @@
 ---
-title: 7 signs of the agile apocalypse. Judgement
-date: 2023-11-09T06:45:04Z
-videoId: uRqsRNq-XRY
-url: /resources/videos/:slug
-slug: 7-signs-of-the-agile-apocalypse-judgement
-canonicalUrl: https://www.youtube.com/watch?v=uRqsRNq-XRY
-aliases:
-- /resources/videos/uRqsRNq-XRY
-- /resources/videos/7-signs-of-the-agile-apocalypse-judgement
-preview: https://i.ytimg.com/vi/uRqsRNq-XRY/maxresdefault.jpg
-duration: 55
-isShort: true
-tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, 7 signs of the agile apocalypse. Judgement] [date, 2023-11-09T06:45:04Z] [videoId, uRqsRNq-XRY] [url, /resources/videos/:slug] [slug, 7-signs-of-the-agile-apocalypse-judgement] [canonicalUrl, https://www.youtube.com/watch?v=uRqsRNq-XRY] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/uRqsRNq-XRY/maxresdefault.jpg] [duration, 55] [isShort, True] [tags, [Agile, Scrum, agile project management, agile product development, agile product management, project management, product development, product management, professional scrum trainer, scrum training, scrum certification, scrum.org, DevOps consultant, DevOps coach, DevOps engineer, agile coach, agile consultant, agile trainer, scrum framework, scrum methodology, scrum approach, agile leadership, leadership.]] [sitemap, System.Collections.Hashtable]
 {{< youtube uRqsRNq-XRY >}}
 
 # 7 signs of the agile apocalypse. Judgement

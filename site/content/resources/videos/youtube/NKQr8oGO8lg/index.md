@@ -1,27 +1,5 @@
 ---
-title: How much of a competitive edge will the immersive PAL e course deliver to delegates?
-date: 2023-07-13T12:16:15Z
-videoId: NKQr8oGO8lg
-url: /resources/videos/:slug
-slug: how-much-of-a-competitive-edge-will-the-immersive-pal-e-course-deliver-to-delegates-
-canonicalUrl: https://www.youtube.com/watch?v=NKQr8oGO8lg
-aliases:
-- /resources/videos/NKQr8oGO8lg
-- /resources/videos/how-much-of-a-competitive-edge-will-the-immersive-pal-e-course-deliver-to-delegates-
-preview: https://i.ytimg.com/vi/NKQr8oGO8lg/maxresdefault.jpg
-duration: 153
-isShort: false
-tags:
-- PAL-E
-- Scrum.Org PAL-E
-- PAL-E course
-- PAL-E immersive learning experience
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, How much of a competitive edge will the immersive PAL e course deliver to delegates?] [date, 2023-07-13T12:16:15Z] [videoId, NKQr8oGO8lg] [url, /resources/videos/:slug] [slug, how-much-of-a-competitive-edge-will-the-immersive-pal-e-course-deliver-to-delegates-] [canonicalUrl, https://www.youtube.com/watch?v=NKQr8oGO8lg] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/NKQr8oGO8lg/maxresdefault.jpg] [duration, 153] [isShort, False] [tags, [PAL-E, Scrum.Org PAL-E, PAL-E course, PAL-E immersive learning experience]] [sitemap, System.Collections.Hashtable]
 {{< youtube NKQr8oGO8lg >}}
 
 # How much of a competitive edge will the immersive PAL e course deliver to delegates?

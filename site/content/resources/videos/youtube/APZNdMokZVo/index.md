@@ -1,46 +1,5 @@
 ---
-title: What is a definition of done? Why is it so important?
-date: 2023-11-13T06:56:47Z
-videoId: APZNdMokZVo
-url: /resources/videos/:slug
-slug: what-is-a-definition-of-done-why-is-it-so-important-
-canonicalUrl: https://www.youtube.com/watch?v=APZNdMokZVo
-aliases:
-- /resources/videos/APZNdMokZVo
-- /resources/videos/what-is-a-definition-of-done-why-is-it-so-important-
-preview: https://i.ytimg.com/vi/APZNdMokZVo/maxresdefault.jpg
-duration: 360
-isShort: false
-tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, What is a definition of done? Why is it so important?] [date, 2023-11-13T06:56:47Z] [videoId, APZNdMokZVo] [url, /resources/videos/:slug] [slug, what-is-a-definition-of-done-why-is-it-so-important-] [canonicalUrl, https://www.youtube.com/watch?v=APZNdMokZVo] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/APZNdMokZVo/maxresdefault.jpg] [duration, 360] [isShort, False] [tags, [Agile, Scrum, agile project management, agile product development, agile product management, project management, product development, product management, professional scrum trainer, scrum training, scrum certification, scrum.org, DevOps consultant, DevOps coach, DevOps engineer, agile coach, agile consultant, agile trainer, scrum framework, scrum methodology, scrum approach, agile leadership, leadership.]] [sitemap, System.Collections.Hashtable]
 {{< youtube APZNdMokZVo >}}
 
 # What is a definition of done? Why is it so important?

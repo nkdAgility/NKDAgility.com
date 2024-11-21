@@ -1,46 +1,5 @@
 ---
-title: ' shorts 7 Virtues of agile. Charity'
-date: 2023-12-06T11:01:01Z
-videoId: zro-li2QIMM
-url: /resources/videos/:slug
-slug: -shorts-7-virtues-of-agile-charity
-canonicalUrl: https://www.youtube.com/watch?v=zro-li2QIMM
-aliases:
-- /resources/videos/zro-li2QIMM
-- /resources/videos/-shorts-7-virtues-of-agile-charity
-preview: https://i.ytimg.com/vi/zro-li2QIMM/maxresdefault.jpg
-duration: 50
-isShort: true
-tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title,  shorts 7 Virtues of agile. Charity] [date, 2023-12-06T11:01:01Z] [videoId, zro-li2QIMM] [url, /resources/videos/:slug] [slug, -shorts-7-virtues-of-agile-charity] [canonicalUrl, https://www.youtube.com/watch?v=zro-li2QIMM] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/zro-li2QIMM/maxresdefault.jpg] [duration, 50] [isShort, True] [tags, [Agile, Scrum, agile project management, agile product development, agile product management, project management, product development, product management, professional scrum trainer, scrum training, scrum certification, scrum.org, DevOps consultant, DevOps coach, DevOps engineer, agile coach, agile consultant, agile trainer, scrum framework, scrum methodology, scrum approach, agile leadership, leadership.]] [sitemap, System.Collections.Hashtable]
 {{< youtube zro-li2QIMM >}}
 
 #  shorts 7 Virtues of agile. Charity

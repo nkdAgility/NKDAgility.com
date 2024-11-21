@@ -1,30 +1,5 @@
 ---
-title: 5 October 2023 Agile Leader Webinar
-date: 2023-09-28T10:27:47Z
-videoId: tPX-wc6pG7M
-url: /resources/videos/:slug
-slug: 5-october-2023-agile-leader-webinar
-canonicalUrl: https://www.youtube.com/watch?v=tPX-wc6pG7M
-aliases:
-- /resources/videos/tPX-wc6pG7M
-- /resources/videos/5-october-2023-agile-leader-webinar
-preview: https://i.ytimg.com/vi/tPX-wc6pG7M/maxresdefault.jpg
-duration: 129
-isShort: false
-tags:
-- Agile Leadership
-- Agile leader
-- Leadership
-- Leader
-- Agile project management
-- Agile product development
-- Agile product management
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, 5 October 2023 Agile Leader Webinar] [date, 2023-09-28T10:27:47Z] [videoId, tPX-wc6pG7M] [url, /resources/videos/:slug] [slug, 5-october-2023-agile-leader-webinar] [canonicalUrl, https://www.youtube.com/watch?v=tPX-wc6pG7M] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/tPX-wc6pG7M/maxresdefault.jpg] [duration, 129] [isShort, False] [tags, [Agile Leadership, Agile leader, Leadership, Leader, Agile project management, Agile product development, Agile product management]] [sitemap, System.Collections.Hashtable]
 {{< youtube tPX-wc6pG7M >}}
 
 # 5 October 2023 Agile Leader Webinar

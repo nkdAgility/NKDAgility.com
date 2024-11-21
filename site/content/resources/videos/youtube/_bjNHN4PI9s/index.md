@@ -1,23 +1,5 @@
 ---
-title: Ep 007 - Running a Live Virtual Classroom
-date: 2020-05-02T16:34:05Z
-videoId: _bjNHN4PI9s
-url: /resources/videos/:slug
-slug: ep-007-running-a-live-virtual-classroom
-canonicalUrl: https://www.youtube.com/watch?v=_bjNHN4PI9s
-aliases:
-- /resources/videos/_bjNHN4PI9s
-- /resources/videos/ep-007-running-a-live-virtual-classroom
-preview: https://i.ytimg.com/vi/_bjNHN4PI9s/maxresdefault.jpg
-duration: 1496
-isShort: false
-tags: []
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Ep 007 - Running a Live Virtual Classroom] [date, 2020-05-02T16:34:05Z] [videoId, _bjNHN4PI9s] [url, /resources/videos/:slug] [slug, ep-007-running-a-live-virtual-classroom] [canonicalUrl, https://www.youtube.com/watch?v=_bjNHN4PI9s] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/_bjNHN4PI9s/maxresdefault.jpg] [duration, 1496] [isShort, False] [tags, []] [sitemap, System.Collections.Hashtable]
 {{< youtube _bjNHN4PI9s >}}
 
 # Ep 007 - Running a Live Virtual Classroom

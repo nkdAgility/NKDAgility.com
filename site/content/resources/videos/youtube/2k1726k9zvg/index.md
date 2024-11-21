@@ -1,30 +1,5 @@
 ---
-title: What is the difference between a newbie scrum master and a professional scrum master?
-date: 2023-03-31T07:00:03Z
-videoId: 2k1726k9zvg
-url: /resources/videos/:slug
-slug: what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master-
-canonicalUrl: https://www.youtube.com/watch?v=2k1726k9zvg
-aliases:
-- /resources/videos/2k1726k9zvg
-- /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master-
-preview: https://i.ytimg.com/vi/2k1726k9zvg/maxresdefault.jpg
-duration: 283
-isShort: false
-tags:
-- PSM
-- Professional Scrum Master
-- Scrum.Org
-- Scrum Master
-- ScrumMaster
-- Scrum Training
-- Scrum Certification
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, What is the difference between a newbie scrum master and a professional scrum master?] [date, 2023-03-31T07:00:03Z] [videoId, 2k1726k9zvg] [url, /resources/videos/:slug] [slug, what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master-] [canonicalUrl, https://www.youtube.com/watch?v=2k1726k9zvg] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/2k1726k9zvg/maxresdefault.jpg] [duration, 283] [isShort, False] [tags, [PSM, Professional Scrum Master, Scrum.Org, Scrum Master, ScrumMaster, Scrum Training, Scrum Certification]] [sitemap, System.Collections.Hashtable]
 {{< youtube 2k1726k9zvg >}}
 
 # What is the difference between a newbie scrum master and a professional scrum master?

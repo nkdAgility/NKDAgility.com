@@ -1,29 +1,5 @@
 ---
-title: How much of an impact can a great agile consultant have?
-date: 2023-01-24T07:30:02Z
-videoId: 8vu-AXJwwYk
-url: /resources/videos/:slug
-slug: how-much-of-an-impact-can-a-great-agile-consultant-have-
-canonicalUrl: https://www.youtube.com/watch?v=8vu-AXJwwYk
-aliases:
-- /resources/videos/8vu-AXJwwYk
-- /resources/videos/how-much-of-an-impact-can-a-great-agile-consultant-have-
-preview: https://i.ytimg.com/vi/8vu-AXJwwYk/maxresdefault.jpg
-duration: 554
-isShort: false
-tags:
-- Agile
-- Agile Consulting
-- Agile Consultant
-- Product Development
-- Agile Project Management
-- Agile Product Development
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, How much of an impact can a great agile consultant have?] [date, 2023-01-24T07:30:02Z] [videoId, 8vu-AXJwwYk] [url, /resources/videos/:slug] [slug, how-much-of-an-impact-can-a-great-agile-consultant-have-] [canonicalUrl, https://www.youtube.com/watch?v=8vu-AXJwwYk] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/8vu-AXJwwYk/maxresdefault.jpg] [duration, 554] [isShort, False] [tags, [Agile, Agile Consulting, Agile Consultant, Product Development, Agile Project Management, Agile Product Development]] [sitemap, System.Collections.Hashtable]
 {{< youtube 8vu-AXJwwYk >}}
 
 # How much of an impact can a great agile consultant have?

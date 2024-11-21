@@ -1,23 +1,5 @@
 ---
-title: 12th May 2020 - Office Hours \ Ask Me Anything
-date: 2020-05-13T05:03:57Z
-videoId: jCqRHt8LLgw
-url: /resources/videos/:slug
-slug: 12th-may-2020-office-hours-ask-me-anything
-canonicalUrl: https://www.youtube.com/watch?v=jCqRHt8LLgw
-aliases:
-- /resources/videos/jCqRHt8LLgw
-- /resources/videos/12th-may-2020-office-hours-ask-me-anything
-preview: https://i.ytimg.com/vi/jCqRHt8LLgw/maxresdefault.jpg
-duration: 1756
-isShort: false
-tags: []
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, 12th May 2020 - Office Hours \ Ask Me Anything] [date, 2020-05-13T05:03:57Z] [videoId, jCqRHt8LLgw] [url, /resources/videos/:slug] [slug, 12th-may-2020-office-hours-ask-me-anything] [canonicalUrl, https://www.youtube.com/watch?v=jCqRHt8LLgw] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/jCqRHt8LLgw/maxresdefault.jpg] [duration, 1756] [isShort, False] [tags, []] [sitemap, System.Collections.Hashtable]
 {{< youtube jCqRHt8LLgw >}}
 
 # 12th May 2020 - Office Hours \ Ask Me Anything
