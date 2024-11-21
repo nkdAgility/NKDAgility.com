@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/Bi4ToMME8Xs/maxresdefault.jpg
 duration: 20
 isShort: True
+tags: [Scrum, Scrum Master, immersive learning, scrum certification, scrum master training, scrum training]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

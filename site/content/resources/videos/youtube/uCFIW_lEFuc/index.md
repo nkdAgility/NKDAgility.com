@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/uCFIW_lEFuc/maxresdefault.jpg
 duration: 498
 isShort: False
+tags: [Agile, 7 deadly sins, Sloth, Agile project management, Agile product management, Agile product development, Business Agility, Agile sins]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

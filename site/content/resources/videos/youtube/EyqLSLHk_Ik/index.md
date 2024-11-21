@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/EyqLSLHk_Ik/maxresdefault.jpg
 duration: 423
 isShort: False
+tags: [Product Development, Agile, Agile Consulting, Agile Training, Scrum Training]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

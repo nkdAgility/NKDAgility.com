@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/KRC89A7RtrM/maxresdefault.jpg
 duration: 164
 isShort: False
+tags: [TFS, TFS 2013, 101, Team Web Access, Install & Config, Install & Configure]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

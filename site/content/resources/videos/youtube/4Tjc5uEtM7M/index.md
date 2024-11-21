@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/4Tjc5uEtM7M/maxresdefault.jpg
 duration: 262
 isShort: False
+tags: [Azure, Azure DevOps, DevOps, Azure DevOps migration, DevOps migration, DevOps consultant, DevOps expert, DevOps coach]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

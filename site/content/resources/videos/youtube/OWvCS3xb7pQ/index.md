@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/OWvCS3xb7pQ/maxresdefault.jpg
 duration: 181
 isShort: False
+tags: [PAL-E, Professional Agile Leadership Essentials, PAL-E course, Scrum.Org PAL-E, Immersive Learning Experience, Immersive PAL-E course, Immersive Professional Agile Leadership Essentials course, Agile Leadership, Professional Agile Leadership, Agile Leadership training, Agile leadership course, Agile Leadership certification]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

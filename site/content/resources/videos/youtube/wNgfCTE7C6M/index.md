@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/wNgfCTE7C6M/maxresdefault.jpg
 duration: 371
 isShort: False
+tags: [Scrum, Scrum.Org, PSU, Professional Scrum with User Experience, UX, Product Development]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

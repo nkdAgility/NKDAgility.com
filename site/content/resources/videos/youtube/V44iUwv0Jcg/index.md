@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/V44iUwv0Jcg/maxresdefault.jpg
 duration: 56
 isShort: True
+tags: [Agile Product Development, Agile Project Management, Kanban]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

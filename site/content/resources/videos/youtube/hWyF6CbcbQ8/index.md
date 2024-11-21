@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/hWyF6CbcbQ8/maxresdefault.jpg
 duration: 124
 isShort: False
+tags: [Azure DevOps, Azure, DevOps, DevOps expert, Azure DevOps expert, Microsoft MVP, Azure DevOps Migration]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

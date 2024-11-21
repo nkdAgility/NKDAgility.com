@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/-Mz9cH0uiTQ/maxresdefault.jpg
 duration: 351
 isShort: False
+tags: [Agile, Agile Consulting, Agile Consultant, Agile Transformation, Agile Adoption]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

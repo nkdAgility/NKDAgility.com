@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/tPX-wc6pG7M/maxresdefault.jpg
 duration: 129
 isShort: False
+tags: [Agile Leadership, Agile leader, Leadership, Leader, Agile project management, Agile product development, Agile product management]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

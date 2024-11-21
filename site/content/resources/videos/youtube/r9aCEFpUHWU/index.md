@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/r9aCEFpUHWU/maxresdefault.jpg
 duration: 466
 isShort: False
+tags: [Agile, Scrum, Scrum Master, Competence, Scrum training, Agile consulting, Agile coaching, Project Management, Product Management, Product Development, Agile project management, Agile product management]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/MutnPwNzyXM/maxresdefault.jpg
 duration: 263
 isShort: False
+tags: [Agile, Agile Consulting, Agile Consultant, Scrum, Scrum coach]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

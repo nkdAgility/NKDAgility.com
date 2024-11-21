@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/E2aYkadJJok/maxresdefault.jpg
 duration: 57
 isShort: True
+tags: [Kanban, Kanban training, Kanban coaching]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/hBw4ouNB1U0/maxresdefault.jpg
 duration: 50
 isShort: True
+tags: [Kanban, Kanban training, Kanban courses, Kanban coach, Kanban consultant, Agile, Agile framework, Agile project management, Agile product development]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

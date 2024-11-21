@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/MO7O6kTmufc/maxresdefault.jpg
 duration: 36
 isShort: True
+tags: [Agile, EBM, Evidence based leadership, Evidence based management, Scrum]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

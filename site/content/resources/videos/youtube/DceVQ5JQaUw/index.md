@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/DceVQ5JQaUw/maxresdefault.jpg
 duration: 130
 isShort: False
+tags: [Agile Consulting, Agile, Agile consultant, Client nightmares, Agile approach, Agile Product Development]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

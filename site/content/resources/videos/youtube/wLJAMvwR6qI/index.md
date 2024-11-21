@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/wLJAMvwR6qI/maxresdefault.jpg
 duration: 302
 isShort: False
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4

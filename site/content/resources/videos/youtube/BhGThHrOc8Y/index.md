@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/BhGThHrOc8Y/maxresdefault.jpg
 duration: 243
 isShort: False
+tags: [DevOps, Engineering Excellence, DevOps Consulting, Agile, Agile Software Development, Agile Product Development, Agile Project Management]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

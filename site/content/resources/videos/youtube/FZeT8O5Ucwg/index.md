@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/FZeT8O5Ucwg/maxresdefault.jpg
 duration: 2106
 isShort: False
+tags: [Agile BS, Agility, Taylorism, Waterfall]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

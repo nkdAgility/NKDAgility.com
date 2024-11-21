@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/LxM_F_JJLeg/maxresdefault.jpg
 duration: 338
 isShort: False
+tags: [Agile, Agile leadership, Agile consulting, Agile coaching, Agile project management, Agile problem solving, Agile product development]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

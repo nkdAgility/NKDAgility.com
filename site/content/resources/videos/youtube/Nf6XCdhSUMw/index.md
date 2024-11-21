@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/Nf6XCdhSUMw/maxresdefault.jpg
 duration: 414
 isShort: False
+tags: [Agile, Evidence Based Management, Leadership]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

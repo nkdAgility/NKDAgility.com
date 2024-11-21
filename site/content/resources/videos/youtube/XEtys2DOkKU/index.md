@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/XEtys2DOkKU/maxresdefault.jpg
 duration: 36
 isShort: True
+tags: [Azure DevOps, DevOps, DevOps migration]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

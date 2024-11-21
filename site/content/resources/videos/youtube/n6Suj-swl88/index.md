@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/n6Suj-swl88/maxresdefault.jpg
 duration: 286
 isShort: False
+tags: [Sprint review, Sprint, Scrum, Scrum Master, Product Owner, Scrum team, Scrum project management, Scrum product development, Scrum framework, Scrum methodology, Scrum approach, Agile, Agile project management, Agile product development, Agile product management, Agile product owner, Agile project manager]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

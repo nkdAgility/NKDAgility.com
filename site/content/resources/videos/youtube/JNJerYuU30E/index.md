@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/JNJerYuU30E/maxresdefault.jpg
 duration: 50
 isShort: True
+tags: [Jerónimo Palacios, Professional Scrum Trainer, PST, Most influential person in Agile, Most influential person in Agile Spain]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

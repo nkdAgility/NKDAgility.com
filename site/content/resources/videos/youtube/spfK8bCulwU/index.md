@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/spfK8bCulwU/maxresdefault.jpg
 duration: 183
 isShort: False
+tags: [PSPO, PSPO-A, Professional Scrum Product Owner, Professional Scrum Product Owner - Advanced, Scrum.Org, Scrum Training, Product Owner, Product Ownership, Product Manager, Product Management]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

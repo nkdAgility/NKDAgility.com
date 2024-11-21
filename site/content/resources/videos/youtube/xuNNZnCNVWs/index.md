@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/xuNNZnCNVWs/maxresdefault.jpg
 duration: 45
 isShort: True
+tags: [Scrum Master, ScrumMaster, Scrum, Critical Skills, Agile]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

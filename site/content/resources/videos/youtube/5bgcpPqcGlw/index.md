@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/5bgcpPqcGlw/maxresdefault.jpg
 duration: 3386
 isShort: False
+tags: [Agility, SRE, Site Reliability, Live Site Culture, Agile Evolution]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

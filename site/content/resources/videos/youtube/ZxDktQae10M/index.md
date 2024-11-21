@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/ZxDktQae10M/maxresdefault.jpg
 duration: 1977
 isShort: False
+tags: [VSTS, TFS, Migration]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

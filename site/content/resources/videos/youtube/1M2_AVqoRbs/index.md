@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/1M2_AVqoRbs/maxresdefault.jpg
 duration: 36
 isShort: True
+tags: [Agile, Agile product development, Agile project management, Product development, Product management, Product manager, Product owner, Project management, Project manager, Scrum, Scrum master, Technical debt]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

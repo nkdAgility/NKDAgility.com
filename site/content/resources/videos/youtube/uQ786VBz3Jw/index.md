@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/uQ786VBz3Jw/maxresdefault.jpg
 duration: 246
 isShort: False
+tags: [Sprint Planning, Planning, Sprint, Scrum, Scrum Team, Scrum planning, Agile planning, Scrum framework, Scrum project management, Scrum product development, agile project management, agile product development]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

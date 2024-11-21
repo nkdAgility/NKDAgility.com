@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/r1wvCUxeWcE/maxresdefault.jpg
 duration: 57
 isShort: True
+tags: [Kanban, Kanban boards]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

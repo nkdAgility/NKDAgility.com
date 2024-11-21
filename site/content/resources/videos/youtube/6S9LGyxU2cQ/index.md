@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/6S9LGyxU2cQ/maxresdefault.jpg
 duration: 253
 isShort: False
+tags: [APS, Applying Professional Scrum, Applying Professional Scrum course, Scrum training, Scrum coach, Agile coach, agile coaching, agile project management, agile product management, agile product development]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

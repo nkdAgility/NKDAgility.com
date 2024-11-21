@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/gRnYXuxo9_w/maxresdefault.jpg
 duration: 171
 isShort: False
+tags: [Scrum, Scrum Values, Openness, Scrum product development, scrum methodology, scrum project management, agile scrum]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/IqWvURjrJVs/maxresdefault.jpg
 duration: 255
 isShort: False
+tags: [Agile, Agile Leadership, Agile Leader, Professional Agile Leader, Professional Agile Leader Essentials, Professional Agile Leader Evidence Based Management, PAL, PAL-E, PAL-EBM, Evidence based management, Agile project management, Agile product management, Agile product development]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

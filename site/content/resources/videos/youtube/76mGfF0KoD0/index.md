@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/76mGfF0KoD0/maxresdefault.jpg
 duration: 376
 isShort: False
+tags: [Scrum, Applying Professional Scrum, APS, Scrum coach, Agile Coach, Agile Consultant, Agile Consulting]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

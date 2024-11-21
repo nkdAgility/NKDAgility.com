@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/IXmOAB5e44w/maxresdefault.jpg
 duration: 147
 isShort: False
+tags: [Scrum training, Scrum certification, Scrum courses, Scrum, Scrum.org]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/F8a6gtXxLe0/maxresdefault.jpg
 duration: 101
 isShort: False
+tags: [Scrum, Scrum Training, Professional Scrum, Professional Scrum Training, Professional Scrum Foundations, Scrum.org]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

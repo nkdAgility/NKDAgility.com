@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/RSPw8pZ9NT8/maxresdefault.jpg
 duration: 466
 isShort: False
+tags: [Kanban, Kanban workshops, Kanban coaching, Kanban training, Kanban consulting, Agile framework, Agile project management, Agile product management, Agile product development]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

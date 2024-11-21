@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/Q46T5DYVKqQ/maxresdefault.jpg
 duration: 54
 isShort: True
+tags: [Empiricism, Empirical process control, scrum, agile, agility, business agility, agile frameworks, agile methodology, scrum theory]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

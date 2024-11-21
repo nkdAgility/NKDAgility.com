@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/5IBKxYLA494/maxresdefault.jpg
 duration: 2504
 isShort: False
+tags: [AzDo, ADO, TFS, VSTS, Team Foundation Server, Visual Studio Team System]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

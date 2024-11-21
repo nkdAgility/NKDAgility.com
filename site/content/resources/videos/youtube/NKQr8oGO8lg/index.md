@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/NKQr8oGO8lg/maxresdefault.jpg
 duration: 153
 isShort: False
+tags: [PAL-E, Scrum.Org PAL-E, PAL-E course, PAL-E immersive learning experience]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

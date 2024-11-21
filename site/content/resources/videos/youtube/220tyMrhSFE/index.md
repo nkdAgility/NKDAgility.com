@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/220tyMrhSFE/maxresdefault.jpg
 duration: 49
 isShort: True
+tags: [Kanban, Kanban principles]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

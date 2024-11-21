@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/zs0q_zz8-JY/maxresdefault.jpg
 duration: 46
 isShort: True
+tags: [Scrum, Scrum Master, ScrumMaster, Scrum Framework, Scrum Methodology, Scrum Project Management, Scrum Product Development]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/1TaIjFL-0o8/maxresdefault.jpg
 duration: 220
 isShort: False
+tags: [PSM II, Professional Scrum Master, Advanced Professional Scrum Master, Scrum.Org, Scrum course, Scrummaster course, Scrum Certification]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

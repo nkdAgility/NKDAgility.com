@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/cb6JpfomYRU/maxresdefault.jpg
 duration: 353
 isShort: False
+tags: [Scrum, Scrum Courses, Scrum.Org, Scrum Certification, Immersive Learning Experience, Immersive Scrum Course, Immersive PSM course, Immersive Professional Scrum Master course, Immersive Professional Scrum Master Certification]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

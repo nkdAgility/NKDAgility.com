@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/LI6G1awAUyU/maxresdefault.jpg
 duration: 370
 isShort: False
+tags: [DevOps, DevOps Consultant, DevOps Consulting, DevOps Training, Scrum, Agile, Agile Coach, Agile Consulting, Agile Consultant, Agile coaching]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

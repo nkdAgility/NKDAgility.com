@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/iCDEX6oHy7A/maxresdefault.jpg
 duration: 5071
 isShort: False
+tags: [Scrum, Agility, Professional, Product Owner, Scrum Team]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

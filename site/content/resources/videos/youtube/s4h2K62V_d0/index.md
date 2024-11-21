@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/s4h2K62V_d0/maxresdefault.jpg
 duration: 600
 isShort: False
+tags: [Agile, Product development, Agile product development, Project management, Agile project management, Software engineering, project manager, product manager, product owner, scrum master]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

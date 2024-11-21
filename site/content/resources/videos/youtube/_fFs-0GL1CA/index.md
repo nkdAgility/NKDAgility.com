@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/_fFs-0GL1CA/maxresdefault.jpg
 duration: 372
 isShort: False
+tags: [Scrum, Scrum Training, Agile, Agile Scrum Training, Scrum Certification, Scrum Master, Product Owner]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

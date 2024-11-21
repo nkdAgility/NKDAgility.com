@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/isdope3qkx4/hqdefault.jpg
 duration: 2351
 isShort: False
+tags: [Azure DevOps, Work Items, Digital Kanban, Digital Dashboard, Remote Working]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

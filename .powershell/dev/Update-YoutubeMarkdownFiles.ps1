@@ -1,11 +1,13 @@
 # Define variables
 $outputDir = "site\content\resources\videos\youtube"
+$excludedTags = @("scrum", "agilecoach", "leadership")  # List of tags to exclude
 
 # Function to generate markdown content for a video
 function Get-NewMarkdownContents {
     param (
         [pscustomobject]$videoData,
-        [string]$videoId
+        [string]$videoId,
+        [string[]]$excludedTags
     )
 
     $videoSnippet = $videoData.snippet
@@ -37,6 +39,13 @@ function Get-NewMarkdownContents {
     # Create the external URL for the original video
     $externalUrl = "https://www.youtube.com/watch?v=$videoId"
 
+    # Get the tags from the snippet and filter out excluded tags
+    $tags = @()
+    if ($videoSnippet.tags) {
+        $tags = $videoSnippet.tags | Where-Object { -not ($excludedTags -contains $_.ToLower()) }
+    }
+    $tagsString = $tags -join ", "
+
     # Return the markdown content without etag and with properly formatted title
     return @"
 ---
@@ -52,6 +61,7 @@ aliases:
 preview: $thumbnailUrl
 duration: $durationInSeconds
 isShort: $isShort
+tags: [$tagsString]
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -98,7 +108,7 @@ function Update-YoutubeMarkdownFiles {
             $videoId = $videoData.id
 
             # Generate markdown content
-            $markdownContent = Get-NewMarkdownContents -videoData $videoData -videoId $videoId
+            $markdownContent = Get-NewMarkdownContents -videoData $videoData -videoId $videoId -excludedTags $excludedTags
 
             # Write the markdown content to index.md
             Set-Content -Path $markdownFile -Value $markdownContent

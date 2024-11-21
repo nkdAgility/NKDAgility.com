@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/r_Af7X25IDk/maxresdefault.jpg
 duration: 3615
 isShort: False
+tags: [Agile, Leadership, Agile Leadership, Finance]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

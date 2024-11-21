@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/Zegnsk2Nl0Y/maxresdefault.jpg
 duration: 44
 isShort: True
+tags: [Agile, Scrum, Scrum Master, Scrum Master tools, Scrum master resources, scrummasters, agile, agile tools, agile resources, agile project management software, agile software]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

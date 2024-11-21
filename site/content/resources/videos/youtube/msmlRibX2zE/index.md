@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/msmlRibX2zE/maxresdefault.jpg
 duration: 19
 isShort: True
+tags: [Harris Beach, SDS, Ultrabook, Unbox, intel]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

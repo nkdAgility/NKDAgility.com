@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/vQBYdfLwJ3g/maxresdefault.jpg
 duration: 268
 isShort: False
+tags: [PSPO, 8-week PSPO course, Immersive Learning, Immersive Learning experience, Immersive Learning PSPO course, Scrum.Org, Professional Scrum Product Owner, Scrum Training, Scrum Courses, Scrum Certification]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

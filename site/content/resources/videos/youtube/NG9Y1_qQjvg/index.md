@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/NG9Y1_qQjvg/maxresdefault.jpg
 duration: 438
 isShort: False
+tags: [InRelease, Release Management, TFS, TFS 2013, Install & Configure, 101, Install, Release Management Server]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

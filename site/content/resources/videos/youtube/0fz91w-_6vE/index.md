@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/0fz91w-_6vE/maxresdefault.jpg
 duration: 138
 isShort: False
+tags: [DevOps, DevOps Consulting, DevOps Consultant, Agile Consultant, Agile Consulting]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

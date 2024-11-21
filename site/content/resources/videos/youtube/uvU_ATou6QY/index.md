@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/uvU_ATou6QY/maxresdefault.jpg
 duration: 203
 isShort: False
+tags: [Product Owner, Scrum Product Owner, Scrum, Scrum Product Development, Agile Product Development, Agile project management, Agile product management]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

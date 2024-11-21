@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/gEJhbET3nqs/maxresdefault.jpg
 duration: 245
 isShort: False
+tags: [Leadership, Agile Leadership, Scrum, Agility]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

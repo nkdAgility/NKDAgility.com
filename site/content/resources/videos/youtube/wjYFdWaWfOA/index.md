@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/wjYFdWaWfOA/maxresdefault.jpg
 duration: 299
 isShort: False
+tags: [Scrum Master, ScrumMaster, What is a scrum master, scrum framework, scrum methodology, scrum approach, scrum project management, scrum training, agile scrum training, agile scrum project management]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

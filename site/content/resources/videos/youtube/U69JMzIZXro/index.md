@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/U69JMzIZXro/maxresdefault.jpg
 duration: 1219
 isShort: False
+tags: [Team Foundation Server (Software), TFS, TFS 2013, Install, Install & Configure, Install & Configure 101, 101]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

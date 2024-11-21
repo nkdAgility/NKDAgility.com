@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/ye1wQic8et0/maxresdefault.jpg
 duration: 408
 isShort: False
+tags: [Time to market, Agile project management, project management, agile product manager, project manager, agile devops]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

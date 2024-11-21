@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/xJsuDbsFzlw/maxresdefault.jpg
 duration: 198
 isShort: False
+tags: [Sprint Planning Workshop, Sprint Planning, Scrum, Scrum Workshops, Scrum training, Scrum coaching]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

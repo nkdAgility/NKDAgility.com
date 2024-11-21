@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/RnMOINwjO84/maxresdefault.jpg
 duration: 971
 isShort: False
+tags: [Evidence based management, EBM, Agile, Data driven decisions]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

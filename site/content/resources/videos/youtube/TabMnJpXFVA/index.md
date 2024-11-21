@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/TabMnJpXFVA/maxresdefault.jpg
 duration: 287
 isShort: False
+tags: [Immersive Scrum Training, Immersive Scrum Courses, Scrum Training, Scrum.Org, Scrum Courses, Scrum Certification]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/Qt1Ywu_KLrc/maxresdefault.jpg
 duration: 2020
 isShort: False
+tags: [AzureDevOps, Azure DevOps Migration Tools]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

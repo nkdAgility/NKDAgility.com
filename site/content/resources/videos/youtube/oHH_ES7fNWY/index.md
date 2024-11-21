@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/oHH_ES7fNWY/maxresdefault.jpg
 duration: 145
 isShort: False
+tags: [TFS, TFS 2013, Team Foundation Server (Software), Microsoft Visual Studio (Software), Visual Studio Application Lifecycle Management (Software), VSALM, ALM, Release Management, InRelease, Install, Release Management Server, Install & Configure 101]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

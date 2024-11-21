@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/QpK99s9uheM/maxresdefault.jpg
 duration: 48
 isShort: True
+tags: [Scrum Master, ScrumMaster, Project Manager, Agile Project Manager, Scrum, Agile, Agile Project Management]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

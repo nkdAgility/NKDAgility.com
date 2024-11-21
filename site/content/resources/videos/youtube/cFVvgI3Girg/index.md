@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/cFVvgI3Girg/maxresdefault.jpg
 duration: 159
 isShort: False
+tags: [Product Owner, Professional Agile Leader, Professional Agile Leader Essentials course, PAL-E, PAL-E course, PAL-E certification, Scrum Training, Scrum Certification, Leadership training, Scrum leadership, Agile, Agile courses, Agile trainining]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

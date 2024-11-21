@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/icX4XpolVLE/maxresdefault.jpg
 duration: 2018
 isShort: False
+tags: [DevOps, DevOps consulting, DevOps Training, DevOps coaching, DevOps specialist]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

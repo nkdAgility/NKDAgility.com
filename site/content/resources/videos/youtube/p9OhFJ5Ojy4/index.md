@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/p9OhFJ5Ojy4/hqdefault.jpg
 duration: 2977
 isShort: False
+tags: [Leadership, agile-leadership, agile, transformation, digital transformation, agile transformation]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

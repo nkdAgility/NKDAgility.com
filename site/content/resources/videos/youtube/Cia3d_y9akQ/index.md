@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/Cia3d_y9akQ/maxresdefault.jpg
 duration: 639
 isShort: False
+tags: [Scrum, Scrum training, Product development, Project management, Project manager, Agile project management, Agile product development, Product Management, Agile product management]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

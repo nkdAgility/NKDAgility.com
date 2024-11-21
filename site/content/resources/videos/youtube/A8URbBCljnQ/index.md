@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/A8URbBCljnQ/hqdefault.jpg
 duration: 1506
 isShort: False
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4

@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/sIhG2i7frpE/maxresdefault.jpg
 duration: 50
 isShort: True
+tags: [Agile, Agile framework, Kanban]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

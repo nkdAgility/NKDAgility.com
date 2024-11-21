@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/2KovKxNpZpg/maxresdefault.jpg
 duration: 32
 isShort: True
+tags: [Scrum, Scrum coaching, Scrum consulting, Scrum applications, Scrum product development, Scrum project management]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

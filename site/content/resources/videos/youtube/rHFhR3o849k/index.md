@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/rHFhR3o849k/maxresdefault.jpg
 duration: 237
 isShort: False
+tags: [Scrum, Scrum Master, Agile, Agile Product Development, Scrum Master traits and characteristics]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

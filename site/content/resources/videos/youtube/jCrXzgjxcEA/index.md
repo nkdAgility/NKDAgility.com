@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/jCrXzgjxcEA/maxresdefault.jpg
 duration: 1448
 isShort: False
+tags: [Azure DevOps, Azure Boards, Team Founndation Server, TFS Service, Visual Studio Team System]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

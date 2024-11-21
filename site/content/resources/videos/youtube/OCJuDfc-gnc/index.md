@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/OCJuDfc-gnc/maxresdefault.jpg
 duration: 592
 isShort: False
+tags: [Agile, Scrum, DevOps, Kanban]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/vI2LBfMkPuk/maxresdefault.jpg
 duration: 200
 isShort: False
+tags: [Agile Training, Scrum Certification, APS, Scrum.Org, Agile, Agile Courses]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

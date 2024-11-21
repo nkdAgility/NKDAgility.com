@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/9TbjaO1_Nz8/maxresdefault.jpg
 duration: 151
 isShort: False
+tags: [PSPO, Professional Scrum Product Owner course, Professional Scrum Product Owner, Scrum Product Owner, Product Owner, Entrepreneur, Entrepreneur product management]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

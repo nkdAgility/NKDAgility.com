@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/yrpAYB2yIZU/maxresdefault.jpg
 duration: 922
 isShort: False
+tags: [Active Directory (Software), Windows Server 2012 (Operating System), Windows Server 2012 R2, Windows Server]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

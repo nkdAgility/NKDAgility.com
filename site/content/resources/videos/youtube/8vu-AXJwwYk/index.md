@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/8vu-AXJwwYk/maxresdefault.jpg
 duration: 554
 isShort: False
+tags: [Agile, Agile Consulting, Agile Consultant, Product Development, Agile Project Management, Agile Product Development]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

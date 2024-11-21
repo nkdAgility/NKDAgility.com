@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/pw_8gbaWZC4/maxresdefault.jpg
 duration: 294
 isShort: False
+tags: [Kanban, Kanban training, Kanban coaching, Kanban consulting, Kanban approach, Kanban method]
 sitemap:
   filename: sitemap.xml
   priority: 0.4

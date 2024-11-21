@@ -11,6 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/fcOSewXez3I/maxresdefault.jpg
 duration: 263
 isShort: False
+tags: [AI, Artificial Intelligence, Chat GPT]
 sitemap:
   filename: sitemap.xml
   priority: 0.4
