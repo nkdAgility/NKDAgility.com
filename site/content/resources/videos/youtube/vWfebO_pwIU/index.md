@@ -7,26 +7,26 @@ slug: why-most-scrum-masters-only-have-psmi!
 canonicalUrl: https://www.youtube.com/watch?v=vWfebO_pwIU
 aliases:
 - /resources/videos/vWfebO_pwIU
+- /resources/videos/why-most-scrum-masters-only-have-psmi!
 preview: https://i.ytimg.com/vi/vWfebO_pwIU/maxresdefault.jpg
 duration: 291
 isShort: false
 tags:
-- Professional Scrum Master
+- Scrum
+- Scrum Master
+- ScrumMaster
 - PSM
 - PSM II
 - PSM III
-- Scrum
-- Scrum Careers
-- Scrum Master
+- Professional Scrum Master
 - Scrum.Org
-- ScrumMaster
+- Scrum Careers
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube vWfebO_pwIU >}}
 
 # Why Most Scrum Masters only have PSMI!
@@ -51,5 +51,3 @@ Because you don't just need agility, you need Naked Agility.
 #scrum, #agile, #scrumteam, #agilecoach, #scrumorg, #scrummaster, #agiletraining
 
 [Watch on YouTube](https://www.youtube.com/watch?v=vWfebO_pwIU)
-
-

@@ -1,5 +1,5 @@
 ---
-title: 10th April 2020 - Office Hours  Ask me Anything
+title: 10th April 2020 - Office Hours \ Ask me Anything
 date: 2020-04-10T18:41:06Z
 videoId: 5UG3FF0n0C8
 url: /resources/videos/:slug
@@ -7,17 +7,17 @@ slug: 10th-april-2020-office-hours-ask-me-anything
 canonicalUrl: https://www.youtube.com/watch?v=5UG3FF0n0C8
 aliases:
 - /resources/videos/5UG3FF0n0C8
+- /resources/videos/10th-april-2020-office-hours-ask-me-anything
 preview: https://i.ytimg.com/vi/5UG3FF0n0C8/maxresdefault.jpg
 duration: 41
 isShort: true
-tags: 
+tags: []
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube 5UG3FF0n0C8 >}}
 
 # 10th April 2020 - Office Hours \ Ask me Anything
@@ -27,5 +27,3 @@ Bring your questions on any topic from DevOps to Agility and Martin will do his 
 If you have a sensitive question that you want answered but don’t want to ask publicly do so on https://nkdagility.net/ask
 
 [Watch on YouTube](https://www.youtube.com/watch?v=5UG3FF0n0C8)
-
-

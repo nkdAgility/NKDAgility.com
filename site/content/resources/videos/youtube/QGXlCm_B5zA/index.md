@@ -7,25 +7,25 @@ slug: what-will-you-learn-on-the-psm-ii-course-
 canonicalUrl: https://www.youtube.com/watch?v=QGXlCm_B5zA
 aliases:
 - /resources/videos/QGXlCm_B5zA
+- /resources/videos/what-will-you-learn-on-the-psm-ii-course-
 preview: https://i.ytimg.com/vi/QGXlCm_B5zA/maxresdefault.jpg
 duration: 280
 isShort: false
 tags:
-- Advanced Professional Scrum Master
+- Scrum
+- Scrum.Org
+- Scrum Training
 - Agile Scrum Training
-- Professional Scrum Master
 - PSM
 - PSM II
-- Scrum
-- Scrum Training
-- Scrum.Org
+- Professional Scrum Master
+- Advanced Professional Scrum Master
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube QGXlCm_B5zA >}}
 
 # What will you learn on the PSM II course?
@@ -53,5 +53,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=QGXlCm_B5zA)
-
-

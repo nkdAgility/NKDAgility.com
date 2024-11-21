@@ -7,6 +7,7 @@ slug: how-is-technology-like-ai-changing-the-world-we-work-in-
 canonicalUrl: https://www.youtube.com/watch?v=fcOSewXez3I
 aliases:
 - /resources/videos/fcOSewXez3I
+- /resources/videos/how-is-technology-like-ai-changing-the-world-we-work-in-
 preview: https://i.ytimg.com/vi/fcOSewXez3I/maxresdefault.jpg
 duration: 263
 isShort: false
@@ -15,12 +16,11 @@ tags:
 - Artificial Intelligence
 - Chat GPT
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube fcOSewXez3I >}}
 
 # How is technology like AI changing the world we work in?
@@ -43,5 +43,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=fcOSewXez3I)
-
-

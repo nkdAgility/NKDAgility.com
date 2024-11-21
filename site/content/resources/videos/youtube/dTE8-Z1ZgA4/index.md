@@ -7,17 +7,17 @@ slug: why-do-you-trust-simon-to-deliver-the-aps-course-for-nkd-agility
 canonicalUrl: https://www.youtube.com/watch?v=dTE8-Z1ZgA4
 aliases:
 - /resources/videos/dTE8-Z1ZgA4
+- /resources/videos/why-do-you-trust-simon-to-deliver-the-aps-course-for-nkd-agility
 preview: https://i.ytimg.com/vi/dTE8-Z1ZgA4/maxresdefault.jpg
 duration: 49
 isShort: true
-tags: 
+tags: []
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube dTE8-Z1ZgA4 >}}
 
 # Why do you trust Simon to deliver the APS course for NKD Agility
@@ -39,5 +39,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=dTE8-Z1ZgA4)
-
-

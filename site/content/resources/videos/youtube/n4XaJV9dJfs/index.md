@@ -7,40 +7,40 @@ slug: what-is-the-most-useful-element-of-the-aps-course-for-beginner-scrum-teams
 canonicalUrl: https://www.youtube.com/watch?v=n4XaJV9dJfs
 aliases:
 - /resources/videos/n4XaJV9dJfs
+- /resources/videos/what-is-the-most-useful-element-of-the-aps-course-for-beginner-scrum-teams-
 preview: https://i.ytimg.com/vi/n4XaJV9dJfs/maxresdefault.jpg
 duration: 219
 isShort: false
 tags:
 - Agile
-- agile coach
-- agile consultant
-- agile leadership
+- Scrum
+- agile project management
 - agile product development
 - agile product management
-- agile project management
-- agile trainer
-- DevOps coach
-- DevOps consultant
-- DevOps engineer
-- leadership.
+- project management
 - product development
 - product management
 - professional scrum trainer
-- project management
-- Scrum
-- scrum approach
+- scrum training
 - scrum certification
+- scrum.org
+- DevOps consultant
+- DevOps coach
+- DevOps engineer
+- agile coach
+- agile consultant
+- agile trainer
 - scrum framework
 - scrum methodology
-- scrum training
-- scrum.org
+- scrum approach
+- agile leadership
+- leadership.
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube n4XaJV9dJfs >}}
 
 # What is the most useful element of the APS course for beginner Scrum Teams?
@@ -73,5 +73,3 @@ Because you don't just need agility, you need Naked Agility.
 #scrum #agile #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg #scrummaster #productowner #kanban #continuousdelivery #devops #azuredevops
 
 [Watch on YouTube](https://www.youtube.com/watch?v=n4XaJV9dJfs)
-
-

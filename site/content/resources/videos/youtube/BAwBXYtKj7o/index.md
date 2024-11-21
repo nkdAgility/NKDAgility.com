@@ -7,28 +7,28 @@ slug: the-power-of-automated-testing
 canonicalUrl: https://www.youtube.com/watch?v=BAwBXYtKj7o
 aliases:
 - /resources/videos/BAwBXYtKj7o
+- /resources/videos/the-power-of-automated-testing
 preview: https://i.ytimg.com/vi/BAwBXYtKj7o/maxresdefault.jpg
 duration: 451
 isShort: false
 tags:
 - Agile
+- Product Development
+- Product Management
+- Project Management
 - Agile product development
 - Agile product management
 - Agile project management
-- Product Development
-- Product Management
+- project manager
 - product manager
 - product owner
-- Project Management
-- project manager
 - scrum master
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube BAwBXYtKj7o >}}
 
 # The Power of Automated Testing
@@ -74,5 +74,3 @@ At [NKD Agility](https://www.nkdagility.com), we help teams implement modern eng
 #agile #agileproductdevelopment #agileprojectmanagement #agileproductmanagement #productdevelopment #productmanager #productowner #projectmanager #scrummasters
 
 [Watch on YouTube](https://www.youtube.com/watch?v=BAwBXYtKj7o)
-
-

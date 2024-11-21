@@ -7,27 +7,28 @@ slug: 5-tools-that-scrum-masters-love-part-5
 canonicalUrl: https://www.youtube.com/watch?v=Zegnsk2Nl0Y
 aliases:
 - /resources/videos/Zegnsk2Nl0Y
+- /resources/videos/5-tools-that-scrum-masters-love-part-5
 preview: https://i.ytimg.com/vi/Zegnsk2Nl0Y/maxresdefault.jpg
 duration: 44
 isShort: true
 tags:
 - Agile
-- agile project management software
-- agile resources
-- agile software
-- agile tools
 - Scrum
 - Scrum Master
-- Scrum master resources
 - Scrum Master tools
+- Scrum master resources
 - scrummasters
+- agile
+- agile tools
+- agile resources
+- agile project management software
+- agile software
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube Zegnsk2Nl0Y >}}
 
 # 5 tools that Scrum Masters love. Part 5
@@ -48,5 +49,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Zegnsk2Nl0Y)
-
-

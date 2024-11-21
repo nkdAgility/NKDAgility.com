@@ -7,6 +7,7 @@ slug: devops-migration-incomplete-migrations
 canonicalUrl: https://www.youtube.com/watch?v=x6a_BuQq580
 aliases:
 - /resources/videos/x6a_BuQq580
+- /resources/videos/devops-migration-incomplete-migrations
 preview: https://i.ytimg.com/vi/x6a_BuQq580/maxresdefault.jpg
 duration: 186
 isShort: false
@@ -14,17 +15,16 @@ tags:
 - Azure DevOps
 - Azure DevOps migration
 - DevOps
-- DevOps coach
-- DevOps consultant
 - DevOps migration
+- DevOps consultant
+- DevOps coach
 - DevOps training
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube x6a_BuQq580 >}}
 
 # DevOps Migration. Incomplete Migrations
@@ -45,5 +45,3 @@ Video Chapters:
 👉 Watch the video to learn how to prepare for a seamless Azure DevOps migration and eliminate concerns about incomplete migrations. Don’t forget to like, comment, and subscribe for more migration tips and DevOps insights! Visit https://nkdagility.com/capabilities/azure-devops-migration-services/ if you need help with #devopsmigration #azuredevops #devopsconsulting #devopscoach
 
 [Watch on YouTube](https://www.youtube.com/watch?v=x6a_BuQq580)
-
-

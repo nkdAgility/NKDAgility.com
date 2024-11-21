@@ -7,40 +7,40 @@ slug: -shorts-7-virtues-of-agile-kindness
 canonicalUrl: https://www.youtube.com/watch?v=tPkqqaIbCtY
 aliases:
 - /resources/videos/tPkqqaIbCtY
+- /resources/videos/-shorts-7-virtues-of-agile-kindness
 preview: https://i.ytimg.com/vi/tPkqqaIbCtY/maxresdefault.jpg
 duration: 48
 isShort: true
 tags:
 - Agile
-- agile coach
-- agile consultant
-- agile leadership
+- Scrum
+- agile project management
 - agile product development
 - agile product management
-- agile project management
-- agile trainer
-- DevOps coach
-- DevOps consultant
-- DevOps engineer
-- leadership.
+- project management
 - product development
 - product management
 - professional scrum trainer
-- project management
-- Scrum
-- scrum approach
+- scrum training
 - scrum certification
+- scrum.org
+- DevOps consultant
+- DevOps coach
+- DevOps engineer
+- agile coach
+- agile consultant
+- agile trainer
 - scrum framework
 - scrum methodology
-- scrum training
-- scrum.org
+- scrum approach
+- agile leadership
+- leadership.
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube tPkqqaIbCtY >}}
 
 #  shorts 7 Virtues of agile. Kindness
@@ -59,5 +59,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=tPkqqaIbCtY)
-
-

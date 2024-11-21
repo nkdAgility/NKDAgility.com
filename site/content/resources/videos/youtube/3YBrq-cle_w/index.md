@@ -7,25 +7,25 @@ slug: how-will-a-psm-ii-course-challenge-your-assumptions-the-most-
 canonicalUrl: https://www.youtube.com/watch?v=3YBrq-cle_w
 aliases:
 - /resources/videos/3YBrq-cle_w
+- /resources/videos/how-will-a-psm-ii-course-challenge-your-assumptions-the-most-
 preview: https://i.ytimg.com/vi/3YBrq-cle_w/maxresdefault.jpg
 duration: 132
 isShort: false
 tags:
-- Advanced Professional Scrum Master
-- PSM II
 - Scrum
+- Scrum Training
 - Scrum Certification
+- PSM II
+- Advanced Professional Scrum Master
 - Scrum Course
 - Scrum Master
 - Scrum Master training
-- Scrum Training
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube 3YBrq-cle_w >}}
 
 # How will a PSM II course challenge your assumptions the most?
@@ -50,5 +50,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=3YBrq-cle_w)
-
-

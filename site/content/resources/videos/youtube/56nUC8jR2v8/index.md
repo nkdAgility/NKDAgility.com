@@ -7,17 +7,17 @@ slug: the-tyranny-of-taylorism-and-how-to-spot-agile-lies
 canonicalUrl: https://www.youtube.com/watch?v=56nUC8jR2v8
 aliases:
 - /resources/videos/56nUC8jR2v8
+- /resources/videos/the-tyranny-of-taylorism-and-how-to-spot-agile-lies
 preview: https://i.ytimg.com/vi/56nUC8jR2v8/maxresdefault.jpg
 duration: 51
 isShort: true
-tags: 
+tags: []
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube 56nUC8jR2v8 >}}
 
 # The tyranny of Taylorism and how to spot agile lies
@@ -25,5 +25,3 @@ resourceTypes:
 Join us at Future of Work in Scotland: https://www.meetup.com/the-future-of-work-in-Scotland/events/270847429/
 
 [Watch on YouTube](https://www.youtube.com/watch?v=56nUC8jR2v8)
-
-

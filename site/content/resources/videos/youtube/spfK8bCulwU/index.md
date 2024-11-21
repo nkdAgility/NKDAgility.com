@@ -7,27 +7,27 @@ slug: why-do-you-think-the-advanced-pspo-course-is-a-perfect-fit-for-entrepreneu
 canonicalUrl: https://www.youtube.com/watch?v=spfK8bCulwU
 aliases:
 - /resources/videos/spfK8bCulwU
+- /resources/videos/why-do-you-think-the-advanced-pspo-course-is-a-perfect-fit-for-entrepreneurs-
 preview: https://i.ytimg.com/vi/spfK8bCulwU/maxresdefault.jpg
 duration: 183
 isShort: false
 tags:
-- Product Management
-- Product Manager
-- Product Owner
-- Product Ownership
-- Professional Scrum Product Owner
-- Professional Scrum Product Owner - Advanced
 - PSPO
 - PSPO-A
-- Scrum Training
+- Professional Scrum Product Owner
+- Professional Scrum Product Owner - Advanced
 - Scrum.Org
+- Scrum Training
+- Product Owner
+- Product Ownership
+- Product Manager
+- Product Management
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube spfK8bCulwU >}}
 
 # Why do you think the Advanced PSPO course is a perfect fit for entrepreneurs?
@@ -55,5 +55,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=spfK8bCulwU)
-
-

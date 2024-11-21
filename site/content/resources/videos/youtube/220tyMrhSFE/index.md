@@ -7,6 +7,7 @@ slug: kanban-principles
 canonicalUrl: https://www.youtube.com/watch?v=220tyMrhSFE
 aliases:
 - /resources/videos/220tyMrhSFE
+- /resources/videos/kanban-principles
 preview: https://i.ytimg.com/vi/220tyMrhSFE/maxresdefault.jpg
 duration: 49
 isShort: true
@@ -14,12 +15,11 @@ tags:
 - Kanban
 - Kanban principles
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube 220tyMrhSFE >}}
 
 # Kanban principles
@@ -27,5 +27,3 @@ resourceTypes:
 Kanban Principles. Visit https://www.nkdagility.com #agile #agileprojectmanagement #agileproductdevelopment #kanban #agileframework
 
 [Watch on YouTube](https://www.youtube.com/watch?v=220tyMrhSFE)
-
-

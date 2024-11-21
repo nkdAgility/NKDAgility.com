@@ -7,6 +7,7 @@ slug: kanban-vs-scrum
 canonicalUrl: https://www.youtube.com/watch?v=Qko_93YAV70
 aliases:
 - /resources/videos/Qko_93YAV70
+- /resources/videos/kanban-vs-scrum
 preview: https://i.ytimg.com/vi/Qko_93YAV70/maxresdefault.jpg
 duration: 50
 isShort: true
@@ -16,12 +17,11 @@ tags:
 - Kanban
 - Scrum
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube Qko_93YAV70 >}}
 
 # Kanban Vs Scrum
@@ -29,5 +29,3 @@ resourceTypes:
 Kanban Vs Scrum. Visit https://www.nkdagility.com #agile #scrum #kanban #agileframework #agileprojectmanagement
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Qko_93YAV70)
-
-

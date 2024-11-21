@@ -7,23 +7,23 @@ slug: most-destructive-thing-a-client-can-do-to-an-agile-consultant-
 canonicalUrl: https://www.youtube.com/watch?v=DceVQ5JQaUw
 aliases:
 - /resources/videos/DceVQ5JQaUw
+- /resources/videos/most-destructive-thing-a-client-can-do-to-an-agile-consultant-
 preview: https://i.ytimg.com/vi/DceVQ5JQaUw/maxresdefault.jpg
 duration: 130
 isShort: false
 tags:
-- Agile
-- Agile approach
-- Agile consultant
 - Agile Consulting
-- Agile Product Development
+- Agile
+- Agile consultant
 - Client nightmares
+- Agile approach
+- Agile Product Development
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube DceVQ5JQaUw >}}
 
 # Most destructive thing a client can do to an agile consultant?
@@ -49,5 +49,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=DceVQ5JQaUw)
-
-

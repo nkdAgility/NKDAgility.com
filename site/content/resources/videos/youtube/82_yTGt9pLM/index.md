@@ -7,21 +7,21 @@ slug: agile-consulting-services-overview
 canonicalUrl: https://www.youtube.com/watch?v=82_yTGt9pLM
 aliases:
 - /resources/videos/82_yTGt9pLM
+- /resources/videos/agile-consulting-services-overview
 preview: https://i.ytimg.com/vi/82_yTGt9pLM/maxresdefault.jpg
 duration: 370
 isShort: false
 tags:
 - Agile
-- Agile Consultant
 - Agile Consulting
+- Agile Consultant
 - Agile training
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube 82_yTGt9pLM >}}
 
 # Agile Consulting Services overview
@@ -43,5 +43,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=82_yTGt9pLM)
-
-

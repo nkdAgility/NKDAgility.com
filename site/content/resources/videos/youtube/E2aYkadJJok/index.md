@@ -7,20 +7,20 @@ slug: kanban-boards-for-campaign-success-the-ultimate-guide-to-visualizing-your-
 canonicalUrl: https://www.youtube.com/watch?v=E2aYkadJJok
 aliases:
 - /resources/videos/E2aYkadJJok
+- /resources/videos/kanban-boards-for-campaign-success-the-ultimate-guide-to-visualizing-your-workflow
 preview: https://i.ytimg.com/vi/E2aYkadJJok/maxresdefault.jpg
 duration: 57
 isShort: true
 tags:
 - Kanban
-- Kanban coaching
 - Kanban training
+- Kanban coaching
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube E2aYkadJJok >}}
 
 # Kanban Boards for Campaign Success - The Ultimate Guide to Visualizing Your Workflow
@@ -43,5 +43,3 @@ Discover the secrets of using Kanban to optimize your campaigns. This video will
 Visit https://www.nkdagility.com for more information on Kanban courses and Kanban coaching / consulting to help you optimize your Kanban adoption.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=E2aYkadJJok)
-
-

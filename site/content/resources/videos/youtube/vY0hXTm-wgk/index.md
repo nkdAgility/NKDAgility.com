@@ -7,17 +7,17 @@ slug: professional-scrum-training-from-naked-agility-with-martin-hinshelwood
 canonicalUrl: https://www.youtube.com/watch?v=vY0hXTm-wgk
 aliases:
 - /resources/videos/vY0hXTm-wgk
+- /resources/videos/professional-scrum-training-from-naked-agility-with-martin-hinshelwood
 preview: https://i.ytimg.com/vi/vY0hXTm-wgk/maxresdefault.jpg
 duration: 142
 isShort: false
-tags: 
+tags: []
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube vY0hXTm-wgk >}}
 
 # Professional Scrum Training from naked Agility with Martin Hinshelwood
@@ -41,5 +41,3 @@ All participants gain complimentary access to the premium "Professional Scrum" s
 I hope to see you there; click the link below to find out more…
 
 [Watch on YouTube](https://www.youtube.com/watch?v=vY0hXTm-wgk)
-
-

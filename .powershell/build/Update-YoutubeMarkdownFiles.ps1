@@ -46,27 +46,29 @@ function Get-NewMarkdownContents {
     }
     $tagsString = $tags -join ", "
 
-    # Return the markdown content without etag and with properly formatted title
-    return @"
----
-title: "$title"
-date: $publishedAt
-videoId: $videoId
-url: /resources/videos/:slug
-slug: $urlSafeTitle
-canonicalUrl: $externalUrl
-aliases:
- - /resources/videos/$videoId
-# - /resources/videos/$urlSafeTitle
-preview: $thumbnailUrl
-duration: $durationInSeconds
-isShort: $isShort
-tags: [$tagsString]
-sitemap:
-  filename: sitemap.xml
-  priority: 0.4
----
+    # Create an ordered hash for the front matter
+    $frontMatter = [ordered]@{
+        title        = $title
+        date         = $publishedAt
+        videoId      = $videoId
+        url          = "/resources/videos/:slug"
+        slug         = $urlSafeTitle
+        canonicalUrl = $externalUrl
+        aliases      = @("/resources/videos/$videoId")
+        preview      = $thumbnailUrl
+        duration     = $durationInSeconds
+        isShort      = $isShort
+        tags         = "[$tagsString]"
+        sitemap      = @{ filename = "sitemap.xml"; priority = 0.4 }
+    }
 
+    # Convert ordered hash to YAML front matter
+    $frontMatterYaml = "---`n" + ($frontMatter.GetEnumerator() | ForEach-Object { "$_" }) -join "`n" + "`n---`
+"
+
+    # Return the markdown content with front matter and content
+    return @"
+$frontMatterYaml
 {{< youtube $videoId >}}
 
 # $title

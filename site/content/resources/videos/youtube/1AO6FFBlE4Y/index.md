@@ -7,28 +7,28 @@ slug: the-high-cost-of-poor-quality-code-
 canonicalUrl: https://www.youtube.com/watch?v=1AO6FFBlE4Y
 aliases:
 - /resources/videos/1AO6FFBlE4Y
+- /resources/videos/the-high-cost-of-poor-quality-code-
 preview: https://i.ytimg.com/vi/1AO6FFBlE4Y/maxresdefault.jpg
 duration: 600
 isShort: false
 tags:
-- Agile
-- Agile product development
-- Agile project management
-- Product development
-- Product Manager
-- Product owner
-- Project management
-- Project manager
-- Scrum
-- Scrum master
 - Software engineering
+- Agile
+- Scrum
+- Agile product development
+- Product development
+- Project management
+- Agile project management
+- Product owner
+- Scrum master
+- Product Manager
+- Project manager
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube 1AO6FFBlE4Y >}}
 
 # The high cost of poor quality code.
@@ -75,5 +75,3 @@ Why Poor Quality Code Costs More Than You Think | Martin Hinshelwood
 Ready to supercharge your engineering practices and deliver value at scale? Visit [NKD Agility](https://www.nkdagility.com) to learn how we help organizations achieve engineering excellence and business agility. Let’s tackle those hidden costs together!
 
 [Watch on YouTube](https://www.youtube.com/watch?v=1AO6FFBlE4Y)
-
-

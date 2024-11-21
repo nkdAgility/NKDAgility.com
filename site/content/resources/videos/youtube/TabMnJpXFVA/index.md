@@ -7,23 +7,23 @@ slug: why-are-you-going-the-immersive-scrum-training-route-
 canonicalUrl: https://www.youtube.com/watch?v=TabMnJpXFVA
 aliases:
 - /resources/videos/TabMnJpXFVA
+- /resources/videos/why-are-you-going-the-immersive-scrum-training-route-
 preview: https://i.ytimg.com/vi/TabMnJpXFVA/maxresdefault.jpg
 duration: 287
 isShort: false
 tags:
-- Immersive Scrum Courses
 - Immersive Scrum Training
-- Scrum Certification
-- Scrum Courses
+- Immersive Scrum Courses
 - Scrum Training
 - Scrum.Org
+- Scrum Courses
+- Scrum Certification
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube TabMnJpXFVA >}}
 
 # Why are you going the immersive Scrum training route?
@@ -50,5 +50,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=TabMnJpXFVA)
-
-

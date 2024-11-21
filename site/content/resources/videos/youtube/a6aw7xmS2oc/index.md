@@ -7,28 +7,28 @@ slug: what-are-the-top-3-things-a-product-owner-needs-to-bear-in-mind-when-adopt
 canonicalUrl: https://www.youtube.com/watch?v=a6aw7xmS2oc
 aliases:
 - /resources/videos/a6aw7xmS2oc
+- /resources/videos/what-are-the-top-3-things-a-product-owner-needs-to-bear-in-mind-when-adopting-an-entrepreneur-stance
 preview: https://i.ytimg.com/vi/a6aw7xmS2oc/maxresdefault.jpg
 duration: 330
 isShort: false
 tags:
-- Agile Product Development
-- Agile product management
-- Agile Product Owner
-- Agile Product Ownership
-- Agile project management
-- Product Manager
 - Product Owner
-- Product Ownership
+- Product Manager
+- Scrum Product Owner
 - Scrum
 - Scrum Product Development
-- Scrum Product Owner
+- Product Ownership
+- Agile Product Ownership
+- Agile Product Owner
+- Agile Product Development
+- Agile project management
+- Agile product management
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube a6aw7xmS2oc >}}
 
 # What are the top 3 things a product owner needs to bear in mind when adopting an entrepreneur stance
@@ -53,5 +53,3 @@ Because you don't just need agility, you need Naked Agility.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment  #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=a6aw7xmS2oc)
-
-

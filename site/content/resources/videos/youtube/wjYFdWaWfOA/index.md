@@ -7,27 +7,27 @@ slug: what-is-a-scrum-master-why-are-they-essential-
 canonicalUrl: https://www.youtube.com/watch?v=wjYFdWaWfOA
 aliases:
 - /resources/videos/wjYFdWaWfOA
+- /resources/videos/what-is-a-scrum-master-why-are-they-essential-
 preview: https://i.ytimg.com/vi/wjYFdWaWfOA/maxresdefault.jpg
 duration: 299
 isShort: false
 tags:
-- agile scrum project management
-- agile scrum training
-- scrum approach
-- scrum framework
 - Scrum Master
-- scrum methodology
-- scrum project management
-- scrum training
 - ScrumMaster
 - What is a scrum master
+- scrum framework
+- scrum methodology
+- scrum approach
+- scrum project management
+- scrum training
+- agile scrum training
+- agile scrum project management
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube wjYFdWaWfOA >}}
 
 # What is a scrum master? Why are they essential?
@@ -60,5 +60,3 @@ Because you don't just need agility, you need Naked Agility.
 #scrum #projectmanagement #agilecoach #agileconsultant #scrumtraining #scrumorg #scrummaster #productowner #devops
 
 [Watch on YouTube](https://www.youtube.com/watch?v=wjYFdWaWfOA)
-
-

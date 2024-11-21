@@ -7,27 +7,27 @@ slug: is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-
 canonicalUrl: https://www.youtube.com/watch?v=6S9LGyxU2cQ
 aliases:
 - /resources/videos/6S9LGyxU2cQ
+- /resources/videos/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach-
 preview: https://i.ytimg.com/vi/6S9LGyxU2cQ/maxresdefault.jpg
 duration: 253
 isShort: false
 tags:
-- Agile coach
-- agile coaching
-- agile product development
-- agile product management
-- agile project management
+- APS
 - Applying Professional Scrum
 - Applying Professional Scrum course
-- APS
-- Scrum coach
 - Scrum training
+- Scrum coach
+- Agile coach
+- agile coaching
+- agile project management
+- agile product management
+- agile product development
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube 6S9LGyxU2cQ >}}
 
 # Is the APS immersive learning experience the equivalent of having a hands on scrum coach?
@@ -53,5 +53,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=6S9LGyxU2cQ)
-
-

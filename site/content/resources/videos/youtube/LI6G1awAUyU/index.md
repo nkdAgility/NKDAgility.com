@@ -7,27 +7,27 @@ slug: what-are-the-most-common-challenges-you-are-contracted-to-solve-in-a-devop
 canonicalUrl: https://www.youtube.com/watch?v=LI6G1awAUyU
 aliases:
 - /resources/videos/LI6G1awAUyU
+- /resources/videos/what-are-the-most-common-challenges-you-are-contracted-to-solve-in-a-devops-consulting-gig-
 preview: https://i.ytimg.com/vi/LI6G1awAUyU/maxresdefault.jpg
 duration: 370
 isShort: false
 tags:
-- Agile
-- Agile Coach
-- Agile coaching
-- Agile Consultant
-- Agile Consulting
 - DevOps
 - DevOps Consultant
 - DevOps Consulting
 - DevOps Training
 - Scrum
+- Agile
+- Agile Coach
+- Agile Consulting
+- Agile Consultant
+- Agile coaching
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube LI6G1awAUyU >}}
 
 # What are the most common challenges you are contracted to solve in a DevOps consulting gig?
@@ -53,5 +53,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=LI6G1awAUyU)
-
-

@@ -7,23 +7,23 @@ slug: it's-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removin
 canonicalUrl: https://www.youtube.com/watch?v=ye1wQic8et0
 aliases:
 - /resources/videos/ye1wQic8et0
+- /resources/videos/it's-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true-
 preview: https://i.ytimg.com/vi/ye1wQic8et0/maxresdefault.jpg
 duration: 408
 isShort: false
 tags:
-- agile devops
-- agile product manager
+- Time to market
 - Agile project management
 - project management
+- agile product manager
 - project manager
-- Time to market
+- agile devops
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube ye1wQic8et0 >}}
 
 # It's said that you can reduce time to market by up to 50% simply by removing committees. True?
@@ -48,5 +48,3 @@ Because you don't just need agility, you need Naked Agility.
 #valuedelivery #projectmanagement #scrumorg #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #agiletraining #devops #agileconsultant #agilecoach #agiletraining
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ye1wQic8et0)
-
-

@@ -1,5 +1,5 @@
 ---
-title: 20th May 2020 - Office Hours  Ask Me Anything
+title: 20th May 2020 - Office Hours \ Ask Me Anything
 date: 2020-05-21T05:26:17Z
 videoId: HjyUeuf1IEw
 url: /resources/videos/:slug
@@ -7,17 +7,17 @@ slug: 20th-may-2020-office-hours-ask-me-anything
 canonicalUrl: https://www.youtube.com/watch?v=HjyUeuf1IEw
 aliases:
 - /resources/videos/HjyUeuf1IEw
+- /resources/videos/20th-may-2020-office-hours-ask-me-anything
 preview: https://i.ytimg.com/vi/HjyUeuf1IEw/maxresdefault.jpg
 duration: 1331
 isShort: false
-tags: 
+tags: []
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube HjyUeuf1IEw >}}
 
 # 20th May 2020 - Office Hours \ Ask Me Anything
@@ -27,5 +27,3 @@ Bring your questions on any topic from DevOps to Agility and Martin will do his 
 If you have a sensitive question that you want answered but don’t want to ask publicly do so on https://nkdagility.net/ask
 
 [Watch on YouTube](https://www.youtube.com/watch?v=HjyUeuf1IEw)
-
-

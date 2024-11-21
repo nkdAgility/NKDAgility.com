@@ -2,72 +2,122 @@
 $outputDir = "site\content\resources\videos\youtube"
 $excludedTags = @("martin hinshelwood", "nkd agility")  # List of tags to exclude
 
-# Function to add tags to existing markdown front matter using an ordered hash table
-function Add-TagsToMarkdown {
+# Function to generate markdown content for a video
+function Get-NewMarkdownContents {
     param (
-        [string]$markdownPath,
         [pscustomobject]$videoData,
+        [string]$videoId,
         [string[]]$excludedTags
     )
 
-    # Load the existing content
-    $content = Get-Content -Path $markdownPath -Raw
+    $videoSnippet = $videoData.snippet
+    $fullDescription = $videoSnippet.description
+    $durationISO = $videoData.contentDetails.duration
 
-    # Extract front matter and body content
-    if ($content -match '(?ms)^---\s*(.*?)---\s*(.*)$') {
-        $frontMatterContent = $matches[1]
-        $bodyContent = $matches[2]
+    # Convert duration to seconds
+    $timeSpan = [System.Xml.XmlConvert]::ToTimeSpan($durationISO)
+    $durationInSeconds = $timeSpan.TotalSeconds
 
-        # Convert front matter content to ordered hash table
-        $frontMatter = ConvertFrom-Yaml $frontMatterContent -Ordered
+    # Check if the video is a short (60 seconds or less)
+    $isShort = $durationInSeconds -le 60
 
-        # Parse the tags from video data
-        $videoTags = @()
-        if ($videoData.snippet.tags) {
-            $videoTags = $videoData.snippet.tags | Where-Object { -not ($excludedTags -contains $_.ToLower()) }
+    # Get the highest resolution thumbnail
+    $thumbnails = $videoSnippet.thumbnails
+    $thumbnailUrl = $thumbnails.maxres.url
+    if (-not $thumbnailUrl) {
+        $thumbnailUrl = $thumbnails.high.url  # Fallback to high resolution
+    }
+
+    # Format the title to be URL-safe and remove invalid characters
+    $title = $videoSnippet.title -replace '[#"]', ' ' -replace ':', ' - ' -replace '\s+', ' '  # Ensure only one space in a row
+    $publishedAt = Get-Date $videoSnippet.publishedAt -Format "yyyy-MM-ddTHH:mm:ssZ"
+    $urlSafeTitle = ($title -replace '[:\/\\*?"<>|#%.]', '-' -replace '\s+', '-').ToLower()
+
+    # Remove consecutive dashes
+    $urlSafeTitle = $urlSafeTitle -replace '-+', '-'
+
+    # Create the external URL for the original video
+    $externalUrl = "https://www.youtube.com/watch?v=$videoId"
+
+    # Get the tags from the snippet and filter out excluded tags
+    $tags = @()
+    if ($videoSnippet.tags) {
+        $tags = $videoSnippet.tags | Where-Object { -not ($excludedTags -contains $_.ToLower()) }
+    }
+
+    # Create an ordered hash for the front matter
+    $frontMatter = [ordered]@{
+        title        = $title
+        date         = $publishedAt
+        videoId      = $videoId
+        url          = "/resources/videos/:slug"
+        slug         = $urlSafeTitle
+        canonicalUrl = $externalUrl
+        aliases      = @("/resources/videos/$videoId", "/resources/videos/$urlSafeTitle")
+        preview      = $thumbnailUrl
+        duration     = $durationInSeconds
+        isShort      = $isShort
+        tags         = $tags
+        sitemap      = @{ filename = "sitemap.xml"; priority = 0.4 }
+    }
+
+    # Convert ordered hash to YAML front matter using ConvertTo-Yaml
+    $frontMatterYaml = "---`n" + ($frontMatter | ConvertTo-Yaml) + "`n---`
+"
+
+    # Return the markdown content with front matter and content
+    return @"
+$frontMatterYaml
+{{< youtube $videoId >}}
+
+# $title
+
+$fullDescription
+
+[Watch on YouTube]($externalUrl)
+"@
+}
+
+# Function to generate markdown files from existing data.json files
+function Update-YoutubeMarkdownFiles {
+    param ()
+
+    # Iterate through each video folder
+    Get-ChildItem -Path $outputDir -Directory | ForEach-Object {
+        $videoDir = $_.FullName
+        $markdownFile = Join-Path $videoDir "index.md"
+        $jsonFilePath = Join-Path $videoDir "data.json"
+
+        # Check if index.md exists and if it contains 'canonicalUrl'
+        $shouldUpdate = $false
+        if (-not (Test-Path $markdownFile)) {
+            # If index.md does not exist, we should create it
+            $shouldUpdate = $true
         }
-
-        # Add or merge tags into the front matter
-        if ($frontMatter.Contains("tags")) {
-            $existingTags = $frontMatter["tags"]
-            $mergedTags = ($existingTags + $videoTags) | Sort-Object -Unique
-            $frontMatter["tags"] = $mergedTags
+        elseif ((Test-Path $markdownFile) -and (Get-Content -Path $markdownFile -Raw) -match 'canonicalUrl:') {
+            # If index.md exists and contains 'canonicalUrl', we should update it
+            $shouldUpdate = $true
         }
         else {
-            $frontMatter.Add("tags", $videoTags)
+            Write-Host "Markdown file for video $($videoDir) has been customised. Skipping."
         }
 
-        # Convert the updated front matter back to YAML
-        $updatedFrontMatter = ConvertTo-Yaml $frontMatter
+        # Proceed to update or create the markdown file if necessary
+        if ($shouldUpdate -and (Test-Path $jsonFilePath)) {
+            # Load the video data from data.json
+            $videoData = Get-Content -Path $jsonFilePath | ConvertFrom-Json
+            $videoId = $videoData.id
 
-        # Combine updated front matter and body content
-        $updatedContent = "---`n$updatedFrontMatter`n---`n$bodyContent"
+            # Generate markdown content
+            $markdownContent = Get-NewMarkdownContents -videoData $videoData -videoId $videoId -excludedTags $excludedTags
 
-        # Write updated content back to file
-        Set-Content -Path $markdownPath -Value $updatedContent
-        Write-Host "Tags updated for file: $markdownPath"
+            # Write the markdown content to index.md
+            Set-Content -Path $markdownFile -Value $markdownContent
+            Write-Host "Markdown created or updated for video: $($videoData.snippet.title)"
+        }
     }
-    else {
-        Write-Host "Failed to parse front matter for file: $markdownPath"
-    }
+
+    Write-Host "All markdown files processed."
 }
 
-# Iterate through each video folder and update tags in markdown files
-Get-ChildItem -Path $outputDir -Directory | ForEach-Object {
-    $videoDir = $_.FullName
-    $markdownFile = Join-Path $videoDir "index.md"
-    $jsonFilePath = Join-Path $videoDir "data.json"
-
-    if ((Test-Path $markdownFile) -and (Test-Path $jsonFilePath)) {
-        # Load the video data from data.json
-        $videoData = Get-Content -Path $jsonFilePath | ConvertFrom-Json
-
-        # Update the tags in the existing markdown file
-        Add-TagsToMarkdown -markdownPath $markdownFile -videoData $videoData -excludedTags $excludedTags
-    }
-    else {
-        Write-Host "Skipping folder: $videoDir (missing index.md or data.json)"
-    }
-}
-
-Write-Host "All markdown files processed."
+Update-YoutubeMarkdownFiles  # Call this to update markdown files from existing data.json files

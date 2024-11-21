@@ -7,26 +7,26 @@ slug: what-are-some-of-the-most-common-misconceptions-you-encounter-about-the-sc
 canonicalUrl: https://www.youtube.com/watch?v=Cia3d_y9akQ
 aliases:
 - /resources/videos/Cia3d_y9akQ
+- /resources/videos/what-are-some-of-the-most-common-misconceptions-you-encounter-about-the-scrum-master-role-
 preview: https://i.ytimg.com/vi/Cia3d_y9akQ/maxresdefault.jpg
 duration: 639
 isShort: false
 tags:
-- Agile product development
-- Agile product management
-- Agile project management
-- Product development
-- Product Management
-- Project management
-- Project manager
 - Scrum
 - Scrum training
+- Product development
+- Project management
+- Project manager
+- Agile project management
+- Agile product development
+- Product Management
+- Agile product management
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube Cia3d_y9akQ >}}
 
 # What are some of the most common misconceptions you encounter about the Scrum Master role?
@@ -60,5 +60,3 @@ Chapters
 Ready to move beyond the misconceptions and develop the deep competencies that make a great Scrum Master? 💪 Visit [NKD Agility](https://www.nkdagility.com) to learn how we can help you understand the core principles, philosophies, and theories that drive real success in Scrum. Don’t settle for surface-level practices—take your Scrum Mastery to the next level! 🚀 #ScrumMastery #AgileExcellence #NKDAgility
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Cia3d_y9akQ)
-
-

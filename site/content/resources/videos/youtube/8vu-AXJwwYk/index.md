@@ -7,23 +7,23 @@ slug: how-much-of-an-impact-can-a-great-agile-consultant-have-
 canonicalUrl: https://www.youtube.com/watch?v=8vu-AXJwwYk
 aliases:
 - /resources/videos/8vu-AXJwwYk
+- /resources/videos/how-much-of-an-impact-can-a-great-agile-consultant-have-
 preview: https://i.ytimg.com/vi/8vu-AXJwwYk/maxresdefault.jpg
 duration: 554
 isShort: false
 tags:
 - Agile
-- Agile Consultant
 - Agile Consulting
-- Agile Product Development
-- Agile Project Management
+- Agile Consultant
 - Product Development
+- Agile Project Management
+- Agile Product Development
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube 8vu-AXJwwYk >}}
 
 # How much of an impact can a great agile consultant have?
@@ -56,5 +56,3 @@ We would love to work with you.
 #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=8vu-AXJwwYk)
-
-

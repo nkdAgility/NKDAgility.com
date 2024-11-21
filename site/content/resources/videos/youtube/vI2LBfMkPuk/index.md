@@ -7,23 +7,23 @@ slug: what-is-your-favourite-agile-course-to-deliver-and-why-
 canonicalUrl: https://www.youtube.com/watch?v=vI2LBfMkPuk
 aliases:
 - /resources/videos/vI2LBfMkPuk
+- /resources/videos/what-is-your-favourite-agile-course-to-deliver-and-why-
 preview: https://i.ytimg.com/vi/vI2LBfMkPuk/maxresdefault.jpg
 duration: 200
 isShort: false
 tags:
+- Agile Training
+- Scrum Certification
+- APS
+- Scrum.Org
 - Agile
 - Agile Courses
-- Agile Training
-- APS
-- Scrum Certification
-- Scrum.Org
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube vI2LBfMkPuk >}}
 
 # What is your favourite agile course to deliver and why?
@@ -49,5 +49,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=vI2LBfMkPuk)
-
-

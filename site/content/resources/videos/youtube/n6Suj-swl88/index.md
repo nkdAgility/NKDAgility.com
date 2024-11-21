@@ -7,34 +7,34 @@ slug: who-should-lead-the-sprint-review-
 canonicalUrl: https://www.youtube.com/watch?v=n6Suj-swl88
 aliases:
 - /resources/videos/n6Suj-swl88
+- /resources/videos/who-should-lead-the-sprint-review-
 preview: https://i.ytimg.com/vi/n6Suj-swl88/maxresdefault.jpg
 duration: 286
 isShort: false
 tags:
+- Sprint review
+- Sprint
+- Scrum
+- Scrum Master
+- Product Owner
+- Scrum team
+- Scrum project management
+- Scrum product development
+- Scrum framework
+- Scrum methodology
+- Scrum approach
 - Agile
+- Agile project management
 - Agile product development
 - Agile product management
 - Agile product owner
-- Agile project management
 - Agile project manager
-- Product Owner
-- Scrum
-- Scrum approach
-- Scrum framework
-- Scrum Master
-- Scrum methodology
-- Scrum product development
-- Scrum project management
-- Scrum team
-- Sprint
-- Sprint review
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube n6Suj-swl88 >}}
 
 # Who should lead the sprint review?
@@ -67,5 +67,3 @@ Because you don't just need agility, you need Naked Agility.
 #scrum, #agile, #projectmanagement, #productdevelopment, #agilecoach, #agileconsultant, #agiletraining, #scrumtraining, #scrumorg, #scrummaster, #productowner, #kanban, #continuousdelivery, #devops, #azuredevops.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=n6Suj-swl88)
-
-

@@ -7,20 +7,20 @@ slug: 6-things-you-didn't-know-about-agile-product-management-but-really-should-
 canonicalUrl: https://www.youtube.com/watch?v=2tlzlsgovy0
 aliases:
 - /resources/videos/2tlzlsgovy0
+- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-2
 preview: https://i.ytimg.com/vi/2tlzlsgovy0/maxresdefault.jpg
 duration: 56
 isShort: true
 tags:
 - Agile
-- Agile Product Management
 - Product Management
+- Agile Product Management
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube 2tlzlsgovy0 >}}
 
 # 6 things you didn't know about Agile Product Management but really should Part 2
@@ -36,5 +36,3 @@ Actionable Tips: Strategies for effectively communicating your product vision an
 Don't miss this essential guide for Agile leaders and product managers looking to unleash the full potential of their teams. 📈
 
 [Watch on YouTube](https://www.youtube.com/watch?v=2tlzlsgovy0)
-
-

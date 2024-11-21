@@ -7,29 +7,29 @@ slug: what-is-your-1-tip-for-effective-sprint-planning-
 canonicalUrl: https://www.youtube.com/watch?v=uQ786VBz3Jw
 aliases:
 - /resources/videos/uQ786VBz3Jw
+- /resources/videos/what-is-your-1-tip-for-effective-sprint-planning-
 preview: https://i.ytimg.com/vi/uQ786VBz3Jw/maxresdefault.jpg
 duration: 246
 isShort: false
 tags:
-- Agile planning
-- agile product development
-- agile project management
-- Planning
-- Scrum
-- Scrum framework
-- Scrum planning
-- Scrum product development
-- Scrum project management
-- Scrum Team
-- Sprint
 - Sprint Planning
+- Planning
+- Sprint
+- Scrum
+- Scrum Team
+- Scrum planning
+- Agile planning
+- Scrum framework
+- Scrum project management
+- Scrum product development
+- agile project management
+- agile product development
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube uQ786VBz3Jw >}}
 
 # What is your 1 tip for effective sprint planning?
@@ -54,5 +54,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=uQ786VBz3Jw)
-
-

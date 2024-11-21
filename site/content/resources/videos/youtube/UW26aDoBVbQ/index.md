@@ -7,29 +7,29 @@ slug: 5-october-2023-product-ownership-and-lean-product-development-webinar
 canonicalUrl: https://www.youtube.com/watch?v=UW26aDoBVbQ
 aliases:
 - /resources/videos/UW26aDoBVbQ
+- /resources/videos/5-october-2023-product-ownership-and-lean-product-development-webinar
 preview: https://i.ytimg.com/vi/UW26aDoBVbQ/maxresdefault.jpg
 duration: 31
 isShort: true
 tags:
 - Agile
 - Agile Product Development
-- Agile product management
-- Agile product ownership
 - Agile Project management
-- Lean Agile Product Development
-- Lean Product Development
-- LEAN UX
+- Agile product management
 - Product Owner
 - Scrum
 - Scrum Product Owner
+- Agile product ownership
 - Scrum product ownership
+- Lean Product Development
+- LEAN UX
+- Lean Agile Product Development
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube UW26aDoBVbQ >}}
 
 # 5 October 2023 Product Ownership and Lean Product Development Webinar
@@ -57,5 +57,3 @@ Don't miss out on this opportunity to learn from the best in the business. Sign 
 Speakers (2)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=UW26aDoBVbQ)
-
-

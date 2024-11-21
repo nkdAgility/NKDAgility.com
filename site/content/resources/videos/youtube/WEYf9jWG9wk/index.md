@@ -7,6 +7,7 @@ slug: unleash-your-team's-full-potential
 canonicalUrl: https://www.youtube.com/watch?v=WEYf9jWG9wk
 aliases:
 - /resources/videos/WEYf9jWG9wk
+- /resources/videos/unleash-your-team's-full-potential
 preview: https://i.ytimg.com/vi/WEYf9jWG9wk/maxresdefault.jpg
 duration: 53
 isShort: true
@@ -23,12 +24,11 @@ tags:
 - project manager
 - scrum master
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube WEYf9jWG9wk >}}
 
 # Unleash your team's full potential
@@ -36,5 +36,3 @@ resourceTypes:
 Quality Code: Achieving Engineering Excellence with NKD Agility. Visit https://www.nkdagility.com #agile #agileproductdevelopment #agileproductmanagement #agileprojectmanagement #productdevelopment #productmanagement #projectmanagement #projectmanager #productowner #scrummaster
 
 [Watch on YouTube](https://www.youtube.com/watch?v=WEYf9jWG9wk)
-
-

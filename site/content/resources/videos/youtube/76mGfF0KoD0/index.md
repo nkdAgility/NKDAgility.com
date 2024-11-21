@@ -7,24 +7,24 @@ slug: would-you-recommend-a-team-aps-workshop-or-an-agile-consultant-
 canonicalUrl: https://www.youtube.com/watch?v=76mGfF0KoD0
 aliases:
 - /resources/videos/76mGfF0KoD0
+- /resources/videos/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant-
 preview: https://i.ytimg.com/vi/76mGfF0KoD0/maxresdefault.jpg
 duration: 376
 isShort: false
 tags:
+- Scrum
+- Applying Professional Scrum
+- APS
+- Scrum coach
 - Agile Coach
 - Agile Consultant
 - Agile Consulting
-- Applying Professional Scrum
-- APS
-- Scrum
-- Scrum coach
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube 76mGfF0KoD0 >}}
 
 # Would you recommend a team APS workshop or an agile consultant?
@@ -50,5 +50,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=76mGfF0KoD0)
-
-

@@ -7,21 +7,21 @@ slug: why-did-healthgrades-choose-martin-hinshelwood
 canonicalUrl: https://www.youtube.com/watch?v=DWL0PLkFazs
 aliases:
 - /resources/videos/DWL0PLkFazs
+- /resources/videos/why-did-healthgrades-choose-martin-hinshelwood
 preview: https://i.ytimg.com/vi/DWL0PLkFazs/maxresdefault.jpg
 duration: 85
 isShort: false
 tags:
-- Professional Scrum
 - Professional Scrum Training
-- Scrum
+- Professional Scrum
 - Scrum Training
+- Scrum
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube DWL0PLkFazs >}}
 
 # Why did Healthgrades choose Martin Hinshelwood
@@ -29,5 +29,3 @@ resourceTypes:
 Its important to get the right fit for your organisation. Is your trainer right for you? Do they create the right level of infectious optimism?
 
 [Watch on YouTube](https://www.youtube.com/watch?v=DWL0PLkFazs)
-
-

@@ -7,22 +7,22 @@ slug: referral-program-20-of-the-course-fee-credited-to-your-account-
 canonicalUrl: https://www.youtube.com/watch?v=IXmOAB5e44w
 aliases:
 - /resources/videos/IXmOAB5e44w
+- /resources/videos/referral-program-20-of-the-course-fee-credited-to-your-account-
 preview: https://i.ytimg.com/vi/IXmOAB5e44w/maxresdefault.jpg
 duration: 147
 isShort: false
 tags:
-- Scrum
+- Scrum training
 - Scrum certification
 - Scrum courses
-- Scrum training
+- Scrum
 - Scrum.org
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube IXmOAB5e44w >}}
 
 # Referral program. 20% of the course fee credited to your account.
@@ -48,5 +48,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=IXmOAB5e44w)
-
-

@@ -7,22 +7,22 @@ slug: 1-critical-skill-for-a-scrum-master-and-why-
 canonicalUrl: https://www.youtube.com/watch?v=xuNNZnCNVWs
 aliases:
 - /resources/videos/xuNNZnCNVWs
+- /resources/videos/1-critical-skill-for-a-scrum-master-and-why-
 preview: https://i.ytimg.com/vi/xuNNZnCNVWs/maxresdefault.jpg
 duration: 45
 isShort: true
 tags:
-- Agile
-- Critical Skills
-- Scrum
 - Scrum Master
 - ScrumMaster
+- Scrum
+- Critical Skills
+- Agile
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube xuNNZnCNVWs >}}
 
 # 1 critical skill for a scrum master and why?
@@ -44,5 +44,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=xuNNZnCNVWs)
-
-

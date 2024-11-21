@@ -7,27 +7,27 @@ slug: what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegat
 canonicalUrl: https://www.youtube.com/watch?v=L9KsDJ2Rebo
 aliases:
 - /resources/videos/L9KsDJ2Rebo
+- /resources/videos/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-
 preview: https://i.ytimg.com/vi/L9KsDJ2Rebo/maxresdefault.jpg
 duration: 84
 isShort: false
 tags:
-- Immersive Learning Professional Scrum Master course
-- Immersive Learning PSM course
-- Professional Scrum Master
-- Professional Scrum Master course
-- PSM
-- PSM course
 - Scrum
-- Scrum Certificaiton
 - Scrum Course
 - Scrum Training
+- Scrum Certificaiton
+- PSM
+- PSM course
+- Professional Scrum Master
+- Professional Scrum Master course
+- Immersive Learning PSM course
+- Immersive Learning Professional Scrum Master course
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube L9KsDJ2Rebo >}}
 
 # What excites you most about the PSM immersive learning journey for delegates?
@@ -53,5 +53,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=L9KsDJ2Rebo)
-
-

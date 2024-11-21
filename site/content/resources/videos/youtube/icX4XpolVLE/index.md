@@ -7,22 +7,22 @@ slug: my-journey-into-devops!-from-web-developer-to-author,-speaker,-&-thought-l
 canonicalUrl: https://www.youtube.com/watch?v=icX4XpolVLE
 aliases:
 - /resources/videos/icX4XpolVLE
+- /resources/videos/my-journey-into-devops!-from-web-developer-to-author,-speaker,-&-thought-leader-
 preview: https://i.ytimg.com/vi/icX4XpolVLE/maxresdefault.jpg
 duration: 2018
 isShort: false
 tags:
 - DevOps
-- DevOps coaching
 - DevOps consulting
-- DevOps specialist
 - DevOps Training
+- DevOps coaching
+- DevOps specialist
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube icX4XpolVLE >}}
 
 # My Journey into DevOps! From Web Developer to Author, Speaker, & Thought Leader.
@@ -73,5 +73,3 @@ Share this video with peers and colleagues to spread the knowledge and benefits 
 Talks us through your journey with DevOps and how NKD Agility intends to help DevOps teams.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=icX4XpolVLE)
-
-

@@ -7,21 +7,21 @@ slug: ep005-leading-agile-change
 canonicalUrl: https://www.youtube.com/watch?v=r_Af7X25IDk
 aliases:
 - /resources/videos/r_Af7X25IDk
+- /resources/videos/ep005-leading-agile-change
 preview: https://i.ytimg.com/vi/r_Af7X25IDk/maxresdefault.jpg
 duration: 3615
 isShort: false
 tags:
 - Agile
+- Leadership
 - Agile Leadership
 - Finance
-- Leadership
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube r_Af7X25IDk >}}
 
 # Ep005 - Leading Agile Change
@@ -31,5 +31,3 @@ Leading Agile Change is hard and many companies have already been through their 
 Learn from others, but break your own path.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=r_Af7X25IDk)
-
-

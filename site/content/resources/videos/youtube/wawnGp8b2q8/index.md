@@ -7,25 +7,25 @@ slug: if-you-could-distil-the-pal-e-immersive-learning-experience-into-3-major-b
 canonicalUrl: https://www.youtube.com/watch?v=wawnGp8b2q8
 aliases:
 - /resources/videos/wawnGp8b2q8
+- /resources/videos/if-you-could-distil-the-pal-e-immersive-learning-experience-into-3-major-benefits,-what-are-they-
 preview: https://i.ytimg.com/vi/wawnGp8b2q8/maxresdefault.jpg
 duration: 196
 isShort: false
 tags:
 - PAL-E
-- PAL-E certification
 - PAL-E course
 - PAL-E immersive learning experience
+- PAL-E certification
 - Professional Agile Leader - Essentials
-- Professional Agile Leader certification
 - Professional Agile Leader course
+- Professional Agile Leader certification
 - Professional Agile Leader Essentials Immersive learning course
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube wawnGp8b2q8 >}}
 
 # If you could distil the PAL e immersive learning experience into 3 major benefits, what are they?
@@ -49,5 +49,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=wawnGp8b2q8)
-
-

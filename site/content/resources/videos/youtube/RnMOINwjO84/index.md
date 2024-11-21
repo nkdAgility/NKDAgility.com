@@ -7,21 +7,21 @@ slug: making-data-driven-decisions-decision-making-frameworks
 canonicalUrl: https://www.youtube.com/watch?v=RnMOINwjO84
 aliases:
 - /resources/videos/RnMOINwjO84
+- /resources/videos/making-data-driven-decisions-decision-making-frameworks
 preview: https://i.ytimg.com/vi/RnMOINwjO84/maxresdefault.jpg
 duration: 971
 isShort: false
 tags:
+- Evidence based management
+- EBM
 - Agile
 - Data driven decisions
-- EBM
-- Evidence based management
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube RnMOINwjO84 >}}
 
 # Making Data Driven Decisions - Decision making frameworks
@@ -58,5 +58,3 @@ If you found this video useful, please like, subscribe, and visit https://www.nk
 #evidencebasedmanagement #evidencebasedleadership #agile #productdevelopment #productmanager
 
 [Watch on YouTube](https://www.youtube.com/watch?v=RnMOINwjO84)
-
-

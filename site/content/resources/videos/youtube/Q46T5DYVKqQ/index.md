@@ -7,26 +7,26 @@ slug: what-is-empiricism
 canonicalUrl: https://www.youtube.com/watch?v=Q46T5DYVKqQ
 aliases:
 - /resources/videos/Q46T5DYVKqQ
+- /resources/videos/what-is-empiricism
 preview: https://i.ytimg.com/vi/Q46T5DYVKqQ/maxresdefault.jpg
 duration: 54
 isShort: true
 tags:
+- Empiricism
+- Empirical process control
+- scrum
 - agile
-- agile frameworks
-- agile methodology
 - agility
 - business agility
-- Empirical process control
-- Empiricism
-- scrum
+- agile frameworks
+- agile methodology
 - scrum theory
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube Q46T5DYVKqQ >}}
 
 # What is Empiricism
@@ -48,5 +48,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Q46T5DYVKqQ)
-
-

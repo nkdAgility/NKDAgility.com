@@ -7,17 +7,17 @@ slug: a-view-into-the-psm-training-from-scrum-org
 canonicalUrl: https://www.youtube.com/watch?v=qnWVeumTKcE
 aliases:
 - /resources/videos/qnWVeumTKcE
+- /resources/videos/a-view-into-the-psm-training-from-scrum-org
 preview: https://i.ytimg.com/vi/qnWVeumTKcE/maxresdefault.jpg
 duration: 622
 isShort: false
-tags: 
+tags: []
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube qnWVeumTKcE >}}
 
 # A view into the PSM Training from Scrum.org
@@ -25,5 +25,3 @@ resourceTypes:
 
 
 [Watch on YouTube](https://www.youtube.com/watch?v=qnWVeumTKcE)
-
-

@@ -7,6 +7,7 @@ slug: what-should-have-been-way-more-popular-in-agile-than-it-currently-is-
 canonicalUrl: https://www.youtube.com/watch?v=y2TObrUi3m0
 aliases:
 - /resources/videos/y2TObrUi3m0
+- /resources/videos/what-should-have-been-way-more-popular-in-agile-than-it-currently-is-
 preview: https://i.ytimg.com/vi/y2TObrUi3m0/maxresdefault.jpg
 duration: 117
 isShort: false
@@ -15,12 +16,11 @@ tags:
 - Agile product development
 - Agile project management
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
+  filename: sitemap.xml
 
 ---
+
 {{< youtube y2TObrUi3m0 >}}
 
 # What should have been way more popular in Agile than it currently is?
@@ -53,5 +53,3 @@ Because you don't just need agility, you need Naked Agility.
 #agile, #projectmanagement, #agilecoach, #agileconsultant, #agiletraining, #scrumtraining, #scrumorg, #scrummaster, #productowner, #devops
 
 [Watch on YouTube](https://www.youtube.com/watch?v=y2TObrUi3m0)
-
-
