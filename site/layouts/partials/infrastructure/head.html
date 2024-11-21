@@ -6,9 +6,13 @@
 
 {{- partial "infrastructure/seo.html" . }}
 
-
-<meta name="giscus:backlink" content="https://nkdagility.com{{- .RelPermalink }}" />
+{{ if .Params.videoId }}
+  <meta name="giscus:backlink" content="https://nkdagility.com/resources/videos/{{- .Params.videoId }}" />
+{{ else }}
+  <meta name="giscus:backlink" content="https://nkdagility.com{{- .RelPermalink }}" />
+{{ end }}
 <meta name="giscus:description" content="{{- .Summary | plainify }}" />
+
 <link rel="icon" href="{{- "favicon.ico" | relURL }}" type="image/x-icon" /> <meta name="copyright" content="{{- printf "© 2013-%s Naked Agility Limited. All rights reserved." (now.Format "2006") }}" />
 <meta
   name="license"
