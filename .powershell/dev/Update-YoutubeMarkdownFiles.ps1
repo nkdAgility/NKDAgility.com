@@ -1,6 +1,6 @@
 # Define variables
 $outputDir = "site\content\resources\videos\youtube"
-$excludedTags = @("scrum", "agilecoach", "leadership")  # List of tags to exclude
+$excludedTags = @("martin hinshelwood", "nkd agility")  # List of tags to exclude
 
 # Function to generate markdown content for a video
 function Get-NewMarkdownContents {

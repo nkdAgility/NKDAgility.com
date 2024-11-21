@@ -11,7 +11,7 @@ aliases:
 preview: https://i.ytimg.com/vi/BJZdyEqHhXc/maxresdefault.jpg
 duration: 271
 isShort: False
-tags: [Agile, Agile consulting, Agile coaching, Agile consulting philosophy, Agile consulting approach, NKD Agility]
+tags: [Agile, Agile consulting, Agile coaching, Agile consulting philosophy, Agile consulting approach]
 sitemap:
   filename: sitemap.xml
   priority: 0.4
