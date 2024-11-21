@@ -1,22 +1,26 @@
 ---
-title: "Does scrum really allow you to do twice the work in half the time?"
+title: Does scrum really allow you to do twice the work in half the time?
 date: 2023-02-02T07:00:13Z
 videoId: e7L0NFYUFSw
 url: /resources/videos/:slug
 slug: does-scrum-really-allow-you-to-do-twice-the-work-in-half-the-time-
 canonicalUrl: https://www.youtube.com/watch?v=e7L0NFYUFSw
 aliases:
- - /resources/videos/e7L0NFYUFSw
-# - /resources/videos/does-scrum-really-allow-you-to-do-twice-the-work-in-half-the-time-
+- /resources/videos/e7L0NFYUFSw
 preview: https://i.ytimg.com/vi/e7L0NFYUFSw/maxresdefault.jpg
 duration: 205
-isShort: False
-tags: [Scrum, Product Development, Agile, Project Management, Agile Project Management]
+isShort: false
+tags:
+- Agile
+- Agile Project Management
+- Product Development
+- Project Management
+- Scrum
 sitemap:
   filename: sitemap.xml
   priority: 0.4
----
 
+---
 {{< youtube e7L0NFYUFSw >}}
 
 # Does scrum really allow you to do twice the work in half the time?
@@ -44,3 +48,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=e7L0NFYUFSw)
+

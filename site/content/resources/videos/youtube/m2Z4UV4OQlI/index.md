@@ -14,10 +14,33 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Evidence-based Management
+- Agile
+- Scrum
+- agile project management
+- agile product development
+- agile product management
+- project management
+- product development
+- product management
+- professional scrum trainer
+- scrum training
+- scrum certification
+- scrum.org
+- DevOps consultant
+- DevOps coach
+- DevOps engineer
+- agile coach
+- agile consultant
+- agile trainer
+- scrum framework
+- scrum methodology
+- scrum approach
+- agile leadership
+- leadership.
 
 ---
-
-
 {{< youtube m2Z4UV4OQlI >}}
 
 In today's fast-paced world, organizations often struggle to find the right metrics that drive success. Whether you're a manager, product owner, Scrum Master, or CEO, the **Professional Agile Leadership - Evidence-Based Management (PAL-EBM)** class provides valuable insights into how to navigate this critical aspect of your leadership journey.
@@ -115,6 +138,7 @@ Whether you’re a manager, Scrum Master, or CEO, the PAL-EBM class helps you:
 - 🧠 **Engage in the strategic conversations you’ve been missing**.
 
 🚀 **Ready to take your organization to the next level? Let’s get started!**
+
 
 
 

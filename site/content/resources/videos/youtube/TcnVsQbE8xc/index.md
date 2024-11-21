@@ -15,10 +15,17 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- PSM II
+- Professional Scrum Master II
+- Advanced Professional Scrum Master
+- Scrum Training
+- Scrum
+- Scrum.Org
+- Scrum Master Course
+- Scrum Master certification
 
 ---
-
-
 {{< youtube TcnVsQbE8xc >}}
 
 ## 🕒 Think a Minute Isn’t Much?  
@@ -66,6 +73,7 @@ Joining the PSM II course is the beginning of a transformational professional jo
 - **Career Growth**: Leverage your advanced skills for new roles and responsibilities. 
 
 🎓 Take that one-minute leap and discover how PSM II can be the game-changer for your agile coaching career. Your future self will thank you! 🌟
+
 
 
 

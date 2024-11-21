@@ -14,10 +14,12 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile Consulting
+- Agile Consultant
+- Agile
 
 ---
-
-
 {{< youtube RLxGdd7nEZE >}}
 
 ## Exploring the Apex of Consulting Engagements: Unlocking Systemic Change
@@ -63,6 +65,7 @@ Some systemic change to the system enables something some desire that the busine
 As we stand at the threshold of significant transformations, I invite you to deepen your understanding and skills in Agile and Scrum. Our expertly crafted courses are your gateway to nurturing an adaptable mindset, ready to evolve with the dynamic shifts in the business landscape. 🌟
 
 Become a change-maker in your organisation.
+
 
 
 

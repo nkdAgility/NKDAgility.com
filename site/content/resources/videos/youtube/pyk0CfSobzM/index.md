@@ -14,10 +14,35 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Work estimations
+- Estimation in scrum
+- Estimation in agile
+- agile forecasting
+- Sprint Backlog
+- Product Backlog
+- Backlog
+- Sprint
+- Scrum
+- Scrum Product Development
+- Scrum Project Management
+- Agile
+- Agile Product Development
+- Agile Project Management
+- Product Development
+- Project Management
+- product team
+- agile coach
+- agile coaching
+- agile consultant
+- agile consulting
+- DevOps
+- DevOps consultant
+- DevOps consulting
+- DevOps coach
+- DevOps coaching
 
 ---
-
-
 {{< youtube pyk0CfSobzM >}}
 
 ## Navigating the Uncertainties of Sprint Estimations in Scrum Teams
@@ -67,6 +92,7 @@ Remember, your Sprint goal should encompass only a portion of the Sprint, allowi
 I invite you to join my Agile and Scrum courses to delve even deeper into these nuances and cultivate a robust understanding. 🎓
 
 We will navigate the unpredictable yet exhilarating journey of Agile project management.  Let's learn, adapt, and grow together!
+
 
 
 

@@ -14,10 +14,32 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Scrum
+- agile project management
+- agile product development
+- agile product management
+- project management
+- product development
+- product management
+- professional scrum trainer
+- scrum training
+- scrum certification
+- scrum.org
+- DevOps consultant
+- DevOps coach
+- DevOps engineer
+- agile coach
+- agile consultant
+- agile trainer
+- scrum framework
+- scrum methodology
+- scrum approach
+- agile leadership
+- leadership.
 
 ---
-
-
 {{< youtube XZVixdVy-PQ >}}
 
 There’s a quote from Ken Schwaber, one of the co-creators of Scrum, that goes:
@@ -123,6 +145,7 @@ That’s why I encourage you to book a call or visit us at [Naked Agility](https
 - For personalized help, consider reaching out for guidance or attending one of our Agile training sessions.
 
 Agile isn’t a one-size-fits-all solution—it’s a mindset. If you’re ready to move beyond rituals and unlock the full potential of Agile, let’s start the conversation.
+
 
 
 

@@ -1,22 +1,23 @@
 ---
-title: "Basic Work Item Migration with the Azure DevOps Migration Tools"
+title: Basic Work Item Migration with the Azure DevOps Migration Tools
 date: 2023-11-16T12:47:09Z
 videoId: Qt1Ywu_KLrc
 url: /resources/videos/:slug
 slug: basic-work-item-migration-with-the-azure-devops-migration-tools
 canonicalUrl: https://www.youtube.com/watch?v=Qt1Ywu_KLrc
 aliases:
- - /resources/videos/Qt1Ywu_KLrc
-# - /resources/videos/basic-work-item-migration-with-the-azure-devops-migration-tools
+- /resources/videos/Qt1Ywu_KLrc
 preview: https://i.ytimg.com/vi/Qt1Ywu_KLrc/maxresdefault.jpg
 duration: 2020
-isShort: False
-tags: [AzureDevOps, Azure DevOps Migration Tools]
+isShort: false
+tags:
+- Azure DevOps Migration Tools
+- AzureDevOps
 sitemap:
   filename: sitemap.xml
   priority: 0.4
----
 
+---
 {{< youtube Qt1Ywu_KLrc >}}
 
 # Basic Work Item Migration with the Azure DevOps Migration Tools
@@ -42,3 +43,4 @@ _Sign up for one of our upcoming professional Scrum classes: https://nkdagility.
 Because you don't just need agility, you need Naked Agility.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Qt1Ywu_KLrc)
+

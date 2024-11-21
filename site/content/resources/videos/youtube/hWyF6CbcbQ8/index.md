@@ -1,22 +1,28 @@
 ---
-title: "DevOps Migration. Data Integrity Issues"
+title: DevOps Migration. Data Integrity Issues
 date: 2024-11-04T06:06:49Z
 videoId: hWyF6CbcbQ8
 url: /resources/videos/:slug
 slug: devops-migration-data-integrity-issues
 canonicalUrl: https://www.youtube.com/watch?v=hWyF6CbcbQ8
 aliases:
- - /resources/videos/hWyF6CbcbQ8
-# - /resources/videos/devops-migration-data-integrity-issues
+- /resources/videos/hWyF6CbcbQ8
 preview: https://i.ytimg.com/vi/hWyF6CbcbQ8/maxresdefault.jpg
 duration: 124
-isShort: False
-tags: [Azure DevOps, Azure, DevOps, DevOps expert, Azure DevOps expert, Microsoft MVP, Azure DevOps Migration]
+isShort: false
+tags:
+- Azure
+- Azure DevOps
+- Azure DevOps expert
+- Azure DevOps Migration
+- DevOps
+- DevOps expert
+- Microsoft MVP
 sitemap:
   filename: sitemap.xml
   priority: 0.4
----
 
+---
 {{< youtube hWyF6CbcbQ8 >}}
 
 # DevOps Migration. Data Integrity Issues
@@ -38,3 +44,4 @@ Video Chapters:
 #azuredevops #azure #azureexpert #azureservices #devops #devopsconsultant #devopscoach #devopstraining
 
 [Watch on YouTube](https://www.youtube.com/watch?v=hWyF6CbcbQ8)
+

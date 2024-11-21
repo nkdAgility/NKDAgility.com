@@ -14,10 +14,34 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Sprint Goal
+- Creating A sprint goal
+- Crafting a sprint goal
+- Sprint Backlog
+- Product Backlog
+- Backlog
+- Sprint
+- Scrum
+- Scrum Product Development
+- Scrum Project Management
+- Agile
+- Agile Product Development
+- Agile Project Management
+- Product Development
+- Project Management
+- product team
+- agile coach
+- agile coaching
+- agile consultant
+- agile consulting
+- DevOps
+- DevOps consultant
+- DevOps consulting
+- DevOps coach
+- DevOps coaching
 
 ---
-
-
 {{< youtube GJSBFyoHk8E >}}
 
 ## The Art of Sprint Goal Creation
@@ -55,6 +79,7 @@ Short and sweet, right?
 Sprint goal crafting is an art, and with practice, your Scrum team can master it.
 
 My Agile and Scrum courses are designed to equip you with the tools to achieve just that.  🎯
+
 
 
 

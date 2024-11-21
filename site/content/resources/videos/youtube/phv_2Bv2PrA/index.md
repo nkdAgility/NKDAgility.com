@@ -1,22 +1,24 @@
 ---
-title: "What is Agile?"
+title: What is Agile?
 date: 2022-10-07T10:41:41Z
 videoId: phv_2Bv2PrA
 url: /resources/videos/:slug
 slug: what-is-agile-
 canonicalUrl: https://www.youtube.com/watch?v=phv_2Bv2PrA
 aliases:
- - /resources/videos/phv_2Bv2PrA
-# - /resources/videos/what-is-agile-
+- /resources/videos/phv_2Bv2PrA
 preview: https://i.ytimg.com/vi/phv_2Bv2PrA/maxresdefault.jpg
 duration: 1755
-isShort: False
-tags: [Agility, Taylorism, Beta]
+isShort: false
+tags:
+- Agility
+- Beta
+- Taylorism
 sitemap:
   filename: sitemap.xml
   priority: 0.4
----
 
+---
 {{< youtube phv_2Bv2PrA >}}
 
 # What is Agile?
@@ -43,3 +45,4 @@ Sign up for one of our upcoming professional Scrum classes: https://nkdagility.c
 #AgilePhilosophy, #TechnicalExcellence, #SelfOrganizingTeams, #SustainableDevelopment, #ContinuousImprovement
 
 [Watch on YouTube](https://www.youtube.com/watch?v=phv_2Bv2PrA)
+

@@ -1,22 +1,21 @@
 ---
-title: "Slaying the dragons and how to successfully descale at scale with BCS & FoWS"
+title: Slaying the dragons and how to successfully descale at scale with BCS & FoWS
 date: 2020-03-25T21:07:01Z
 videoId: i_DglXgaePM
 url: /resources/videos/:slug
 slug: slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-&-fows
 canonicalUrl: https://www.youtube.com/watch?v=i_DglXgaePM
 aliases:
- - /resources/videos/i_DglXgaePM
-# - /resources/videos/slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-&-fows
+- /resources/videos/i_DglXgaePM
 preview: https://i.ytimg.com/vi/i_DglXgaePM/maxresdefault.jpg
 duration: 5631
-isShort: False
-tags: []
+isShort: false
+tags: 
 sitemap:
   filename: sitemap.xml
   priority: 0.4
----
 
+---
 {{< youtube i_DglXgaePM >}}
 
 # Slaying the dragons and how to successfully descale at scale with BCS & FoWS
@@ -34,3 +33,4 @@ Join Via Future of work Scotland: https://www.meetup.com/the-future-of-work-in-S
 Join via LinkedIn: https://www.linkedin.com/in/martinhinshelwood/
 
 [Watch on YouTube](https://www.youtube.com/watch?v=i_DglXgaePM)
+

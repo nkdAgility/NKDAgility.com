@@ -15,10 +15,12 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Agile Consulting
+- Agile Consultant
 
 ---
-
-
 {{< youtube GmLW6wNcI6k >}}
 
 ## The Reality of the Assessment Phase in a Consulting Engagement
@@ -62,6 +64,7 @@ Join the Wave of Agile and Scrum Learning
 As we tread this path of discovery and growth, the world of Agile and Scrum beckons with promises of deeper understanding and skill enhancement.
 
 Embark on this enriching journey through our tailored courses, where you can nurture a mindset of continuous adaptation and growth in the vibrant sphere of consulting engagements.
+
 
 
 

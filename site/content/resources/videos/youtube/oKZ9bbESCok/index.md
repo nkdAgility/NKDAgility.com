@@ -14,10 +14,32 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Scrum
+- agile project management
+- agile product development
+- agile product management
+- project management
+- product development
+- product management
+- professional scrum trainer
+- scrum training
+- scrum certification
+- scrum.org
+- DevOps consultant
+- DevOps coach
+- DevOps engineer
+- agile coach
+- agile consultant
+- agile trainer
+- scrum framework
+- scrum methodology
+- scrum approach
+- agile leadership
+- leadership.
 
 ---
-
-
 {{< youtube oKZ9bbESCok >}}
 
 In Agile environments, there’s often a temptation to rely on metrics that seem to offer clarity and control over a project’s progress. One such metric is the "say-do" metric, which measures what a team says they will do versus what they actually accomplish. While this may appear useful on the surface, it's often a slippery slope that leads to vanity metrics, reduced psychological safety, and, ultimately, a focus on outputs rather than outcomes.
@@ -133,6 +155,7 @@ At the end of the day, say-do metrics are a tool of Agile banditry. They allow o
 - Embrace **transparency** and open communication.
 
 If your organization is grappling with Agile banditry and misleading metrics, my team at **Naked Agility** can help. We specialize in helping teams and organizations get back on track, focusing on delivering real value rather than playing games with data.
+
 
 
 

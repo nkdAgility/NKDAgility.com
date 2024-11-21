@@ -14,10 +14,15 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Agile Consultant
+- Agile Coach
+- Agile Consulting
+- Rookie Mistakes
+- Scrum
 
 ---
-
-
 {{< youtube y0dg0Sqs4xw >}}
 
 What is a common mistake made by rookie agile consultants?
@@ -93,6 +98,7 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 
 

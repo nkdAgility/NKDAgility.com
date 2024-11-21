@@ -14,10 +14,16 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- DevOps
+- devops
+- software engineering
+- agile
+- agile project management
+- agile product development
+- agile software development
 
 ---
-
-
 {{< youtube LiKE3zHuOuY >}}
 
 ## Scrum in a DevOps World: A Game Changer!
@@ -59,6 +65,7 @@ Together, let's redefine how we approach software engineering! 🌟
 Ready to elevate your game?  🎯
 
 Connect with me today.
+
 
 
 

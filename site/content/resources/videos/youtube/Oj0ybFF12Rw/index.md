@@ -14,10 +14,13 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Scaling Agile
+- LeSS
+- Large Scale Scrum
 
 ---
-
-
 {{< youtube Oj0ybFF12Rw >}}
 
 ## "Don't scale scrum" - A Common Refrain 
@@ -55,6 +58,7 @@ Let's explore this statement – is it pragmatic caution or simply defeatist? 
 🌟 The notion of "Don't scale Scrum" is not pragmatic wisdom; it's a defeatist attitude.  
 
 Scrum can and has been scaled successfully, delivering more value than ever.
+
 
 
 

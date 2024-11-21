@@ -14,10 +14,15 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile consulting
+- Agile consultant
+- Agile coach
+- Agile
+- Agile Product Development
+- Agile Project Management
 
 ---
-
-
 {{< youtube zoAhqsEqShs >}}
 
 **What is the most interesting outcome you have achieved as an agile consultant?**
@@ -93,6 +98,7 @@ Hashtags:         #AgileConsulting, #ScrumTraining, #ContinuousDelivery, 
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

@@ -14,10 +14,9 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags: Agile Scotland 2023
 
 ---
-
-
 {{< youtube uGIhajIO3pQ >}}
 
 ## Scotland’s Agile Revolution: What’s on the Horizon 
@@ -55,6 +54,7 @@ Agile 2023, the Scotland experience, isn’t just a conference; it’s a testame
 - Community and collaboration are key to driving innovation. 
 
 - Never underestimate the value of local events for global insights.
+
 
 
 

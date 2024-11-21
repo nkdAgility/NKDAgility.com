@@ -15,10 +15,13 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Scrum Master
+- Scrum Master Skills
+- Scrum
+- Agile
 
 ---
-
-
 {{< youtube kEywzkMhWl0 >}}
 
 **1 critical skill for a Scrum Master and why?**
@@ -60,6 +63,7 @@ Connect with me today, and let's drive successful Agile change together! 🤝
 Hashtags:        #AgileTransformation #EffectiveTeaching #UnderstandingTheWhy
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

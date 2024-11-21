@@ -15,10 +15,17 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Agile Leadership
+- Product Owner
+- Professional Scrum Product Owner
+- Advanced Professional Scrum Product Owner
+- PSPO-A
+- Scrum Training
+- Scrum Certification
 
 ---
-
-
 {{< youtube nTxn_izPBFQ >}}
 
 **How good is the APSPO course in helping leaders determine product direction and Why?**
@@ -92,6 +99,7 @@ Keywords:       Agile Leadership, Product Owner, APSPOA Course, Agile Journ
 Hashtags         #AgileLeadership #ProductOwner #APSPOA #AgileJourney
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

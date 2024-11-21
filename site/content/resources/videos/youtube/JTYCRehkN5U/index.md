@@ -14,10 +14,14 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Technical excellence
+- Agile
+- Agile product development
+- Product development
+- Scrum
 
 ---
-
-
 {{< youtube JTYCRehkN5U >}}
 
 In today's fast-paced development environment, the need for a usable, working product at the end of every iteration cannot be overstated. As Scrum and Agile practitioners, we often discuss the importance of technical excellence, but it's more than just a concept—it's the cornerstone of risk mitigation and successful product delivery. Let's dive into why technical excellence is essential, how it mitigates risks, and the profound impact it can have on your product and team.
@@ -97,6 +101,7 @@ In today's competitive market, technical excellence is not just an option—it's
 - **Continuously Improve**: Like the Azure DevOps team, make technical excellence a priority and continuously work to improve your processes and product quality.
 
 🚀 **Build the best product you can, mitigate risks effectively, and maximize value for your customers.**
+
 
 
 

@@ -15,10 +15,17 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Agile coaching
+- Agile coach
+- Agile consulting
+- Agile consultant
+- agile project management
+- agile product development
+- agile product management
 
 ---
-
-
 {{< youtube 7VBtGTlkAdM >}}
 
 ## The Double-Edged Sword of Consulting Contracts
@@ -58,6 +65,7 @@ Don't fall into the contract trap.  Equip yourself with the agility and foresig
 My Agile and Scrum courses offer this much-needed perspective.  Ready to redefine your consulting approach?  Enroll today! 🌟
 
 👉 Transform Your Consulting Career Now!
+
 
 
 

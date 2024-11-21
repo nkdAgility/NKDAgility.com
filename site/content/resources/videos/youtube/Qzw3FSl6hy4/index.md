@@ -14,10 +14,23 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Product discovery
+- Product Development
+- Product Management
+- Project management
+- Agile
+- Scrum
+- Agile product development
+- Agile product management
+- Agile project management
+- Project manager
+- Product Manager
+- Developer
+- Product Owner
+- Professional Scrum Trainer
 
 ---
-
-
 {{< youtube Qzw3FSl6hy4 >}}
 
 Product Discovery is a term that's often used in the world of product development, but what does it really mean? Is it something new, or is it just a different label for what we've always done? In this post, I'll delve into the nuances of Product Discovery, explain why it’s critical to your product’s success, and share some real-world examples to help you understand its scope and impact.
@@ -102,6 +115,7 @@ Product Discovery is not just a buzzword—it’s a critical process that can ma
     - Continuously gather feedback and adjust your course as needed.
 
 By embracing Product Discovery, you’re not just building a product—you’re building a future for your business. 🚀
+
 
 
 

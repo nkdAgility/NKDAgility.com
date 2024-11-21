@@ -14,10 +14,12 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Scrum
+- Scrum Master
 
 ---
-
-
 {{< youtube txN41c6znbE >}}
 
 Agile was supposed to revolutionize the way we build and deliver products, but it veered off track surprisingly early. The seeds of these challenges were planted during the creation of the Agile Manifesto itself. At Snowbird, a group of experienced and capable practitioners crafted a vision for agility in software development. However, they made some assumptions that have come to haunt us.
@@ -138,6 +140,7 @@ The Agile community has come a long way since the early days, but we still face 
 - **Hire for context**: Understand that the right Scrum Master needs to align with the team’s needs, the product’s demands, and the organization’s vision.
 
 🚀 By focusing on these areas, we can build a future where Agile truly lives up to its promise—delivering value, adapting continuously, and empowering individuals and teams to thrive. Let’s get back on track, and make Agile what it was always meant to be!
+
 
 
 

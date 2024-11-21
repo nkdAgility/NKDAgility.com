@@ -14,10 +14,15 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Scrum
+- Scrum Team
+- First 4 weeks in Scrum
+- Agile Consultant
+- Agile Consulting
 
 ---
-
-
 {{< youtube 2I3S32Sk8-c >}}
 
 What would you advise a scrum team to do in their first 4 weeks?
@@ -91,6 +96,7 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 
 

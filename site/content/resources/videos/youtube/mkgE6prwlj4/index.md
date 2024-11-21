@@ -15,10 +15,16 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Scrum
+- Scrum framework
+- Scrum methodology
+- Agile scrum
+- Agile Scrum Project management
+- Scrum Project Management
+- Scrum Product Development
 
 ---
-
-
 {{< youtube mkgE6prwlj4 >}}
 
 ## Spotlight on Outstanding Scrum Application
@@ -46,6 +52,7 @@ Now, this is an impressive prime example of how effective Scrum can be when impl
 Are you intrigued to unravel the secrets behind the effectiveness of Scrum and Agile?
 
 Explore my Agile and Scrum courses, which might revolutionise your perspective! 😉
+
 
 
 

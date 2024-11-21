@@ -14,10 +14,34 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Sprint Backlog
+- Product Backlog
+- Backlog
+- Sprint
+- Scrum
+- Scrum Product Development
+- Scrum Project Management
+- Agile
+- Agile Product Development
+- Agile Project Management
+- Product Development
+- Project Management
+- product team
+- agile coach
+- agile coaching
+- agile consultant
+- agile consulting
+- DevOps
+- DevOps consultant
+- DevOps consulting
+- DevOps coach
+- DevOps coaching
+- Agile leadership
+- Agile leader
+- Leadership
 
 ---
-
-
 {{< youtube RBZFAxEUQC4 >}}
 
 **Unravelling the Lust of Agile: Why There's No Quick Fix in Transformation** 
@@ -75,6 +99,7 @@ The true essence of Agile lies in its ability to adapt – and that requires mor
 - 🚀 Embrace the process of learning, adapting, and growing in your Agile journey. 
 
 Agile transformation isn't about lusting after a trendy methodology; it's about building a framework that resonates with the ethos of your organisation. It's a path of discovery, learning, and, most importantly, embracing change from within. 🌟
+
 
 
 

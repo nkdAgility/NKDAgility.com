@@ -14,10 +14,13 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Taylorism
+- Project Management
+- Product Development
+- Management
 
 ---
-
-
 {{< youtube wHYYfvAGFow >}}
 
 What is Taylorism and how did it influence project management?
@@ -159,6 +162,7 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 
 

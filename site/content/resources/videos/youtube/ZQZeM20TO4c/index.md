@@ -15,10 +15,14 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile Leader
+- Agile Leadership
+- Management
+- Agile
+- Scrum
 
 ---
-
-
 {{< youtube ZQZeM20TO4c >}}
 
 Product of Conventional Practices
@@ -40,6 +44,7 @@ Hashtags:         #AgileLeadership #DecisionMaking #TraditionalManagement
 General
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

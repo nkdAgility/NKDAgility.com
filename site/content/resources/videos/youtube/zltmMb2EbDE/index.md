@@ -14,10 +14,19 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Kanban
+- Kanban approach
+- Kanban method
+- Agile
+- Agile framework
+- Agile product development
+- Agile project management
+- Agile product management
+- Agility
+- Business Agility
 
 ---
-
-
 {{< youtube zltmMb2EbDE >}}
 
 ### Integrating Kanban with Scrum: Enhancing Your Workflow
@@ -117,6 +126,7 @@ Integrating Kanban with Scrum enhances your workflow by providing the metrics an
 - **Consulting Services**: Need help implementing Kanban? Our experts are here to guide you.
 
 - **Further Reading**: Explore more about Kanban and agile methodologies on our blog.
+
 
 
 

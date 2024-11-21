@@ -14,10 +14,20 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- WIP
+- Work in Progress
+- Kanban
+- Scrum
+- Work flow
+- Flow efficiency
+- Agile
+- Product Development
+- Project Management
+- Agile Product Development
+- Agile Project Management
 
 ---
-
-
 {{< youtube yEu8Fw4JQWM >}}
 
 ## Why Less is Always More When It Comes to WIP
@@ -87,6 +97,7 @@ Focus.  Finish.  Then move on.  ✅
 It's not about reducing quality or output but streamlining processes and focusing on completion rather than juggling.
 
 For those interested in diving deeper into Agile, Kanban, or Scrum and learning how to create a more efficient work environment, consider checking out our upcoming courses.
+
 
 
 

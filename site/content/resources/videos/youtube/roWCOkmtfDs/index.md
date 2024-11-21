@@ -14,10 +14,16 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Product validation
+- Agile
+- Product Development
+- Agile Product Development
+- Product Management
+- Agile Product Management
+- Scrum
 
 ---
-
-
 {{< youtube roWCOkmtfDs >}}
 
 When you're developing a product, it's natural to assume that the features you're adding will deliver value to your customers and your business. But how do you truly know that these features are providing the expected value? Recently, I've been working with a client facing a common issue—sales-driven features are fragmenting their product, making it harder to use. This issue stems from prioritizing short-term gains over long-term value. In this blog post, we'll explore the pitfalls of this approach and how shifting focus towards value-driven development can lead to more sustainable success.
@@ -127,6 +133,7 @@ In today’s fast-paced product development environment, it’s easy to fall int
 - **Empower Product Managers**: Give them the tools and data they need to make evidence-based decisions.
 
 🚀 By following these principles, you can create products that not only close deals but also deliver sustained value to your customers and your business.
+
 
 
 

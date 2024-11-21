@@ -1,22 +1,44 @@
 ---
-title: "3 steps developers must follow if the product owner is incompetent"
+title: 3 steps developers must follow if the product owner is incompetent
 date: 2023-10-27T14:30:10Z
 videoId: JGQ5zW6F6Uc
 url: /resources/videos/:slug
 slug: 3-steps-developers-must-follow-if-the-product-owner-is-incompetent
 canonicalUrl: https://www.youtube.com/watch?v=JGQ5zW6F6Uc
 aliases:
- - /resources/videos/JGQ5zW6F6Uc
-# - /resources/videos/3-steps-developers-must-follow-if-the-product-owner-is-incompetent
+- /resources/videos/JGQ5zW6F6Uc
 preview: https://i.ytimg.com/vi/JGQ5zW6F6Uc/maxresdefault.jpg
 duration: 407
-isShort: False
-tags: [Agile, Scrum, agile project management, agile product development, agile product management, project management, product development, product management, professional scrum trainer, scrum training, scrum certification, scrum.org, DevOps consultant, DevOps coach, DevOps engineer, agile coach, agile consultant, agile trainer, scrum framework, scrum methodology, scrum approach, agile leadership, leadership.]
+isShort: false
+tags:
+- Agile
+- agile coach
+- agile consultant
+- agile leadership
+- agile product development
+- agile product management
+- agile project management
+- agile trainer
+- DevOps coach
+- DevOps consultant
+- DevOps engineer
+- leadership.
+- product development
+- product management
+- professional scrum trainer
+- project management
+- Scrum
+- scrum approach
+- scrum certification
+- scrum framework
+- scrum methodology
+- scrum training
+- scrum.org
 sitemap:
   filename: sitemap.xml
   priority: 0.4
----
 
+---
 {{< youtube JGQ5zW6F6Uc >}}
 
 # 3 steps developers must follow if the product owner is incompetent
@@ -47,3 +69,4 @@ Because you don't just need agility, you need Naked Agility.
 #scrum #agile #scrummaster #productowner #agilecoach #agileconsultant #agiletraining #scrumtraining #projectmanagement #productdevelopment
 
 [Watch on YouTube](https://www.youtube.com/watch?v=JGQ5zW6F6Uc)
+

@@ -15,10 +15,23 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Collaboration
+- Consensus
+- Scrum
+- Agile
+- Agile project management
+- project management
+- Agile product development
+- product development
+- Agile product management
+- product management
+- agile coach
+- agile consultant
+- scrum
+- scrum framework
 
 ---
-
-
 {{< youtube Na9jm-enlD0 >}}
 
 ## Understanding the Dynamics of Consensus 🤔 
@@ -103,6 +116,7 @@ As we reflect on the journey through consensus in product development, it’s cl
 - **Adapting to Circumstances**: Recognizing when to seek consensus and when to make a decision is an art and science, contributing to the successful evolution of a product 🎨🔬. 
 
 In conclusion, consensus, while always valuable, manifests differently depending on circumstances. Embracing this complexity can lead to richer, more nuanced product development 💡.
+
 
 
 

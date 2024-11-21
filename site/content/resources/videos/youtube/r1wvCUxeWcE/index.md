@@ -1,22 +1,23 @@
 ---
-title: "Kanban Boards"
+title: Kanban Boards
 date: 2024-08-16T07:04:15Z
 videoId: r1wvCUxeWcE
 url: /resources/videos/:slug
 slug: kanban-boards
 canonicalUrl: https://www.youtube.com/watch?v=r1wvCUxeWcE
 aliases:
- - /resources/videos/r1wvCUxeWcE
-# - /resources/videos/kanban-boards
+- /resources/videos/r1wvCUxeWcE
 preview: https://i.ytimg.com/vi/r1wvCUxeWcE/maxresdefault.jpg
 duration: 57
-isShort: True
-tags: [Kanban, Kanban boards]
+isShort: true
+tags:
+- Kanban
+- Kanban boards
 sitemap:
   filename: sitemap.xml
   priority: 0.4
----
 
+---
 {{< youtube r1wvCUxeWcE >}}
 
 # Kanban Boards
@@ -24,3 +25,4 @@ sitemap:
 Kanban Boards. Visit https://www.nkdagility.com #agile #kanban #agileprojectmanagement #agileproductdevelopment
 
 [Watch on YouTube](https://www.youtube.com/watch?v=r1wvCUxeWcE)
+

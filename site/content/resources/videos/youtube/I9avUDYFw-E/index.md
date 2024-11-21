@@ -14,10 +14,9 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags: []
 
 ---
-
-
 {{< youtube I9avUDYFw-E >}}
 
 Competence is more than just a buzzword in today's fast-paced world—it's a foundational element for success in any organization. If we want to create valuable products and services, investing in our team's competence is non-negotiable. It’s not just about bringing in the right people but supporting those we have in their journey of continuous learning, experimentation, and growth. Let’s dive into why competence matters and how we can foster an environment where it thrives.
@@ -145,6 +144,7 @@ By fostering a culture that prioritizes competence and supports its people, orga
 * * *
 
 This blog post highlights the essential role of competence in driving organizational success. By emphasizing the need for continuous learning and creating environments where employees can thrive, it offers actionable insights for leaders aiming to build a culture of growth and innovation. Optimize your team’s potential and watch the results unfold!
+
 
 
 

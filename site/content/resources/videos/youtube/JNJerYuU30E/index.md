@@ -1,22 +1,26 @@
 ---
-title: "Most Influential Person in Agile - Jerónimo Palacios"
+title: Most Influential Person in Agile - Jerónimo Palacios
 date: 2023-05-04T07:00:07Z
 videoId: JNJerYuU30E
 url: /resources/videos/:slug
 slug: most-influential-person-in-agile-jerónimo-palacios
 canonicalUrl: https://www.youtube.com/watch?v=JNJerYuU30E
 aliases:
- - /resources/videos/JNJerYuU30E
-# - /resources/videos/most-influential-person-in-agile-jerónimo-palacios
+- /resources/videos/JNJerYuU30E
 preview: https://i.ytimg.com/vi/JNJerYuU30E/maxresdefault.jpg
 duration: 50
-isShort: True
-tags: [Jerónimo Palacios, Professional Scrum Trainer, PST, Most influential person in Agile, Most influential person in Agile Spain]
+isShort: true
+tags:
+- Jerónimo Palacios
+- Most influential person in Agile
+- Most influential person in Agile Spain
+- Professional Scrum Trainer
+- PST
 sitemap:
   filename: sitemap.xml
   priority: 0.4
----
 
+---
 {{< youtube JNJerYuU30E >}}
 
 # Most Influential Person in Agile - Jerónimo Palacios
@@ -40,3 +44,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=JNJerYuU30E)
+

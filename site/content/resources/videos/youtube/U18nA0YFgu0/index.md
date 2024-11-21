@@ -14,10 +14,18 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- '#scrum'
+- '#agile'
+- '#agilecoach'
+- '#scrumorg'
+- '#agileconsultant'
+- '#agiletraining'
+- '#devops'
+- '#agileproductdevelopment'
+- '#productdevelopment'
 
 ---
-
-
 {{< youtube U18nA0YFgu0 >}}
 
 **Addressing Wrath in Agile Teams: From Blame to Accountability 🌪️🛠️** 
@@ -41,6 +49,7 @@ In the dynamic world of Agile, wrath often lurks in the shadows, manifesting as 
 **Conclusion: Embracing Mistakes as Stepping Stones 🌟🌈** 
 
 To truly thrive in an Agile environment, it's essential to transform the wrathful tendency of seeking blame into a culture of shared accountability and continuous learning. By doing so, teams can move beyond the fear of being wrong and embrace each challenge as an opportunity to grow and innovate. Remember, in Agile, it's not about avoiding mistakes; it's about how we respond to and learn from them.
+
 
 
 

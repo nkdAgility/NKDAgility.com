@@ -14,10 +14,33 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Sprint Goal
+- Scrum Goal
+- Sprint Backlog
+- Product Backlog
+- Backlog
+- Sprint
+- Scrum
+- Scrum Product Development
+- Scrum Project Management
+- Agile
+- Agile Product Development
+- Agile Project Management
+- Product Development
+- Project Management
+- product team
+- agile coach
+- agile coaching
+- agile consultant
+- agile consulting
+- DevOps
+- DevOps consultant
+- DevOps consulting
+- DevOps coach
+- DevOps coaching
 
 ---
-
-
 {{< youtube AY35ys1uQOY >}}
 
 ## Is Your Sprint Goal Hitting the Mark?
@@ -61,6 +84,7 @@ So, if your sprint goal is generating these kinds of responses and dialogues, yo
 Interested in learning more about Agile and Scrum?
 
 Check out my Agile and Scrum courses and let's unravel more Agile mysteries together – one sprint goal at a time! 🔍
+
 
 
 

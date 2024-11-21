@@ -14,10 +14,34 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Sprint Backlog
+- Product Backlog
+- Backlog
+- Sprint
+- Scrum
+- Scrum Product Development
+- Scrum Project Management
+- Agile
+- Agile Product Development
+- Agile Project Management
+- Product Development
+- Project Management
+- product team
+- agile coach
+- agile coaching
+- agile consultant
+- agile consulting
+- DevOps
+- DevOps consultant
+- DevOps consulting
+- DevOps coach
+- DevOps coaching
+- Agile leadership
+- Agile leader
+- Leadership
 
 ---
-
-
 {{< youtube KX1xViey_BA >}}
 
 ## People, Systems, and Finding the Balance 
@@ -61,6 +85,7 @@ How to ensure systems support, not stifle: 
 ## **Conclusion**  
 
 The Industrial Revolution taught us the value of systems in increasing productivity. However, in our modern Agile environments, it's crucial to remember that systems are there to serve people, not the other way around. Let’s strive for a balance where systems enhance collaboration and productivity, not hinder it.
+
 
 
 

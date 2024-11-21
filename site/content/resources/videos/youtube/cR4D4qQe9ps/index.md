@@ -15,10 +15,17 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Scrum
+- Scrum Master
+- Scrum Master tips
+- ScrumMaster
+- ScrumMaster tips
+- Scrum Coach
+- Agile Coach
+- Agile
 
 ---
-
-
 {{< youtube cR4D4qQe9ps >}}
 
 **#1 tip for a new Scrum Master**
@@ -68,6 +75,7 @@ Hashtags:        ScrumMasterTips #ScrumGuide #AgileLearning #BackToBasics
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

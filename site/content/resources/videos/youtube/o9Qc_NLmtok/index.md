@@ -14,10 +14,16 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Immersive Learning
+- Scrum.Org
+- Immersive courses
+- Immersive scrum courses
+- scrum training
+- scrum courses
+- scrum certification
 
 ---
-
-
 {{< youtube o9Qc_NLmtok >}}
 
 ## Immersive Learning: 8 Weeks of Deep Engagement
@@ -63,6 +69,7 @@ Dive into our immersive courses and emerge with insights and actionable strategi
 See you in class! 📖✌️
 
 Elevate your Scrum game! 🚀
+
 
 
 

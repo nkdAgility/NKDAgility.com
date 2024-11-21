@@ -14,10 +14,34 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Sprint Backlog
+- Product Backlog
+- Backlog
+- Sprint
+- Scrum
+- Scrum Product Development
+- Scrum Project Management
+- Agile
+- Agile Product Development
+- Agile Project Management
+- Product Development
+- Project Management
+- product team
+- agile coach
+- agile coaching
+- agile consultant
+- agile consulting
+- DevOps
+- DevOps consultant
+- DevOps consulting
+- DevOps coach
+- DevOps coaching
+- Agile leadership
+- Agile leader
+- Leadership
 
 ---
-
-
 {{< youtube hj31XHbmWbA >}}
 
 **Steve Jobs and the Art of Connecting Dots in Agile Environments** 
@@ -53,6 +77,7 @@ While looking back is insightful, it is not an infallible predictor of success. 
 **Balancing Past Insights with Agile Flexibility** 
 
 Steve Jobs’ perspective on connecting dots is a metaphor for the Agile journey. It's about understanding the past to navigate the future but also staying flexible and ready to pivot based on new insights and evidence. 🌟
+
 
 
 

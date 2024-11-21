@@ -1,22 +1,38 @@
 ---
-title: "Who should lead the sprint review?"
+title: Who should lead the sprint review?
 date: 2023-09-06T07:00:15Z
 videoId: n6Suj-swl88
 url: /resources/videos/:slug
 slug: who-should-lead-the-sprint-review-
 canonicalUrl: https://www.youtube.com/watch?v=n6Suj-swl88
 aliases:
- - /resources/videos/n6Suj-swl88
-# - /resources/videos/who-should-lead-the-sprint-review-
+- /resources/videos/n6Suj-swl88
 preview: https://i.ytimg.com/vi/n6Suj-swl88/maxresdefault.jpg
 duration: 286
-isShort: False
-tags: [Sprint review, Sprint, Scrum, Scrum Master, Product Owner, Scrum team, Scrum project management, Scrum product development, Scrum framework, Scrum methodology, Scrum approach, Agile, Agile project management, Agile product development, Agile product management, Agile product owner, Agile project manager]
+isShort: false
+tags:
+- Agile
+- Agile product development
+- Agile product management
+- Agile product owner
+- Agile project management
+- Agile project manager
+- Product Owner
+- Scrum
+- Scrum approach
+- Scrum framework
+- Scrum Master
+- Scrum methodology
+- Scrum product development
+- Scrum project management
+- Scrum team
+- Sprint
+- Sprint review
 sitemap:
   filename: sitemap.xml
   priority: 0.4
----
 
+---
 {{< youtube n6Suj-swl88 >}}
 
 # Who should lead the sprint review?
@@ -49,3 +65,4 @@ Because you don't just need agility, you need Naked Agility.
 #scrum, #agile, #projectmanagement, #productdevelopment, #agilecoach, #agileconsultant, #agiletraining, #scrumtraining, #scrumorg, #scrummaster, #productowner, #kanban, #continuousdelivery, #devops, #azuredevops.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=n6Suj-swl88)
+

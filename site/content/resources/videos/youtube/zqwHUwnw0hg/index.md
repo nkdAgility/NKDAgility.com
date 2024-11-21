@@ -14,10 +14,15 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Professional Scrum Master
+- PSM
+- Scrum Master
+- Scrum
+- Scrum Training
+- Scrum Certification
 
 ---
-
-
 {{< youtube zqwHUwnw0hg >}}
 
 What will you learn on the professional scrum master course?
@@ -135,6 +140,7 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 
 

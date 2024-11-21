@@ -14,10 +14,32 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Scrum
+- agile project management
+- agile product development
+- agile product management
+- project management
+- product development
+- product management
+- professional scrum trainer
+- scrum training
+- scrum certification
+- scrum.org
+- DevOps consultant
+- DevOps coach
+- DevOps engineer
+- agile coach
+- agile consultant
+- agile trainer
+- scrum framework
+- scrum methodology
+- scrum approach
+- agile leadership
+- leadership.
 
 ---
-
-
 {{< youtube 8aIUldVDtGw >}}
 
 In today's fast-paced business environment, there's often a misconception that the more tasks we juggle, the more productive we are. However, as many successful teams have realized, this couldn't be further from the truth. A popular quote from Lean methodology sums it up perfectly: **"Stop starting and start finishing."** This philosophy emphasizes the importance of focusing on completing work, rather than constantly starting new tasks.
@@ -117,6 +139,7 @@ At the end of the day, the key to high-performing teams is simple: **stop starti
 ## **Conclusion**
 
 The principle of **stop starting and start finishing** isn’t just a Lean idea—it’s a universal truth that applies to all teams, whether they’re practicing Scrum, Lean, or another framework. By focusing on finishing work before starting new tasks, teams can avoid the cognitive drain of multitasking, improve efficiency, and deliver greater value to the business. If you’d like to learn more about how to apply this principle in your team, feel free to **book a call** with us or visit our website for more insights and upcoming classes. We’d love to help your team **start finishing**!
+
 
 
 

@@ -15,10 +15,16 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Agile Consultant
+- Agile Consulting
+- Agile Coaching
+- Agile Project Management
+- Agile Product Development
+- APM
 
 ---
-
-
 {{< youtube iT7ZtgNJbT0 >}}
 
 **What was your best day as an Agile consultant?**
@@ -72,6 +78,7 @@ Explore our Agile and Scrum courses.  Because, who knows, it might just be the 
 Keywords:       Agile consulting, Scrum, transformative learning, catalyst for change         
 
 Hashtags:        #AgileConsulting #BestDay #Scrum #AgileTransformation
+
 
 
 

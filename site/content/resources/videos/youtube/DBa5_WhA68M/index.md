@@ -14,10 +14,32 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Scrum
+- agile project management
+- agile product development
+- agile product management
+- project management
+- product development
+- product management
+- professional scrum trainer
+- scrum training
+- scrum certification
+- scrum.org
+- DevOps consultant
+- DevOps coach
+- DevOps engineer
+- agile coach
+- agile consultant
+- agile trainer
+- scrum framework
+- scrum methodology
+- scrum approach
+- agile leadership
+- leadership.
 
 ---
-
-
 {{< youtube DBa5_WhA68M >}}
 
 One of the most vital skills for a Product Owner is negotiation. Whether you’re a seasoned Product Owner or just starting out, mastering negotiation can be the key to delivering maximum value. It’s a skill that you’ll use constantly — with developers, stakeholders, and leadership within your organization. Let’s dive into how negotiation plays a role in the life of a Product Owner and how you can become a master negotiator.
@@ -119,6 +141,7 @@ I once worked with a Product Owner who had trouble saying no to stakeholders. Th
 If you’re a Product Owner struggling with negotiation or just getting started, don’t wait. **Develop these skills now** to avoid being overwhelmed later. My team at Naked Agility can help you find the right training or coach to improve your negotiation skills. Check out the links in the description for more information!
 
 📈💡 **Remember:** Negotiation is a skill that grows over time. The more you practice, the better you’ll become at delivering maximum value while maintaining strong relationships.
+
 
 
 

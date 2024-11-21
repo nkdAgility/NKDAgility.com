@@ -1,22 +1,44 @@
 ---
-title: "7 signs of the agile apocalypse. The Antichrist"
+title: 7 signs of the agile apocalypse. The Antichrist
 date: 2023-11-07T07:36:21Z
 videoId: T07AK-1FAK4
 url: /resources/videos/:slug
 slug: 7-signs-of-the-agile-apocalypse-the-antichrist
 canonicalUrl: https://www.youtube.com/watch?v=T07AK-1FAK4
 aliases:
- - /resources/videos/T07AK-1FAK4
-# - /resources/videos/7-signs-of-the-agile-apocalypse-the-antichrist
+- /resources/videos/T07AK-1FAK4
 preview: https://i.ytimg.com/vi/T07AK-1FAK4/maxresdefault.jpg
 duration: 42
-isShort: True
-tags: [Agile, Scrum, agile project management, agile product development, agile product management, project management, product development, product management, professional scrum trainer, scrum training, scrum certification, scrum.org, DevOps consultant, DevOps coach, DevOps engineer, agile coach, agile consultant, agile trainer, scrum framework, scrum methodology, scrum approach, agile leadership, leadership.]
+isShort: true
+tags:
+- Agile
+- agile coach
+- agile consultant
+- agile leadership
+- agile product development
+- agile product management
+- agile project management
+- agile trainer
+- DevOps coach
+- DevOps consultant
+- DevOps engineer
+- leadership.
+- product development
+- product management
+- professional scrum trainer
+- project management
+- Scrum
+- scrum approach
+- scrum certification
+- scrum framework
+- scrum methodology
+- scrum training
+- scrum.org
 sitemap:
   filename: sitemap.xml
   priority: 0.4
----
 
+---
 {{< youtube T07AK-1FAK4 >}}
 
 # 7 signs of the agile apocalypse. The Antichrist
@@ -37,3 +59,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=T07AK-1FAK4)
+

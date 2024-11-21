@@ -14,10 +14,14 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Detecting Agile BS
+- Agile
+- Agile product management
+- Agile product development
+- Agile project management
 
 ---
-
-
 {{< youtube O6rYL3EDUxM >}}
 
 The concept of Agile has taken the business world by storm, with organizations everywhere claiming to have adopted Agile methodologies. But are they truly practicing Agile, or is it just Agile in name only? One of the most eye-opening resources on this topic comes from an unexpected source—the US Department of Defense (DoD). Their guide, titled "Detecting Agile BS," was created to help procurement officers determine whether vendors were genuinely Agile or merely paying lip service to the methodology. This guide raises important questions that every organization claiming to be Agile should ask itself.
@@ -107,6 +111,7 @@ Remember, Agile is not just a set of practices—it’s a mindset. It requires a
 - **🚀** **Take action:** Start by focusing on one area where you can improve, and build momentum from there.
 
 Agile isn’t easy, but with the right mindset and approach, it’s achievable. And once you get there, you’ll never want to go back.
+
 
 
 

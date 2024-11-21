@@ -14,10 +14,31 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Sprint Backlog
+- Product Backlog
+- Backlog
+- Sprint
+- Scrum
+- Scrum Product Development
+- Scrum Project Management
+- Agile
+- Agile Product Development
+- Agile Project Management
+- Product Development
+- Project Management
+- product team
+- agile coach
+- agile coaching
+- agile consultant
+- agile consulting
+- DevOps
+- DevOps consultant
+- DevOps consulting
+- DevOps coach
+- DevOps coaching
 
 ---
-
-
 {{< youtube AJ8-c0l7oRQ >}}
 
 ## Finding the Right Balance between Simplicity and Complexity 🧱 
@@ -57,6 +78,7 @@ Leveraging tools effectively means striking a balance. While Lego might triviali
 ## The Tool Matters Less Than the Experience 🛠️ 
 
 At the end of the day, whether it’s Lego, Minecraft, or any other tool, what matters is how effectively we can convey the complexities and intricacies of Scrum practices.
+
 
 
 

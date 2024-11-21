@@ -1,22 +1,29 @@
 ---
-title: "Favourite scrum course to teach and why?"
+title: Favourite scrum course to teach and why?
 date: 2023-09-05T07:00:12Z
 videoId: WIVDWzps4aY
 url: /resources/videos/:slug
 slug: favourite-scrum-course-to-teach-and-why-
 canonicalUrl: https://www.youtube.com/watch?v=WIVDWzps4aY
 aliases:
- - /resources/videos/WIVDWzps4aY
-# - /resources/videos/favourite-scrum-course-to-teach-and-why-
+- /resources/videos/WIVDWzps4aY
 preview: https://i.ytimg.com/vi/WIVDWzps4aY/maxresdefault.jpg
 duration: 24
-isShort: True
-tags: [Scrum, Scrum course, Scrum training, Scrum.Org, Scrum certification, Professional Scrum Trainer, PST, professional Scrum training]
+isShort: true
+tags:
+- Professional Scrum Trainer
+- professional Scrum training
+- PST
+- Scrum
+- Scrum certification
+- Scrum course
+- Scrum training
+- Scrum.Org
 sitemap:
   filename: sitemap.xml
   priority: 0.4
----
 
+---
 {{< youtube WIVDWzps4aY >}}
 
 # Favourite scrum course to teach and why?
@@ -37,3 +44,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=WIVDWzps4aY)
+

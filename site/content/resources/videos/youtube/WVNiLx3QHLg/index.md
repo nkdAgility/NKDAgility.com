@@ -15,10 +15,15 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Agile leadership
+- Scrum
+- Scrum Framework
+- Agile Framework
+- Command and control versus Competence
 
 ---
-
-
 {{< youtube WVNiLx3QHLg >}}
 
 **Why I love heirarchies of competence**
@@ -54,6 +59,7 @@ Hashtags:        #CompetenceOverPower, #LeadershipEvolution, #InformedDeci
 General
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

@@ -1,22 +1,28 @@
 ---
-title: "DevOps Migration. Compatibility Problems"
+title: DevOps Migration. Compatibility Problems
 date: 2024-11-06T05:45:03Z
 videoId: qpo4Ru1VVZE
 url: /resources/videos/:slug
 slug: devops-migration-compatibility-problems
 canonicalUrl: https://www.youtube.com/watch?v=qpo4Ru1VVZE
 aliases:
- - /resources/videos/qpo4Ru1VVZE
-# - /resources/videos/devops-migration-compatibility-problems
+- /resources/videos/qpo4Ru1VVZE
 preview: https://i.ytimg.com/vi/qpo4Ru1VVZE/maxresdefault.jpg
 duration: 174
-isShort: False
-tags: [Azure, Azure DevOps, Azure DevOps Migration, Azure DevOps Consultant, Azure DevOps Expert, DevOps, DevOps migration]
+isShort: false
+tags:
+- Azure
+- Azure DevOps
+- Azure DevOps Consultant
+- Azure DevOps Expert
+- Azure DevOps Migration
+- DevOps
+- DevOps migration
 sitemap:
   filename: sitemap.xml
   priority: 0.4
----
 
+---
 {{< youtube qpo4Ru1VVZE >}}
 
 # DevOps Migration. Compatibility Problems
@@ -36,3 +42,4 @@ Video Chapters:
 👉 Watch the video to get expert insights on handling compatibility issues during your migration to Azure DevOps. Don’t forget to like, subscribe, and turn on notifications for more helpful DevOps migration tips and best practices! Visit https://nkdagility.com/capabilities/azure-devops-migration-services/ if you need help with #azure #azuredevops #azuredeveloper #devops #devopsmigration #devopstraining
 
 [Watch on YouTube](https://www.youtube.com/watch?v=qpo4Ru1VVZE)
+

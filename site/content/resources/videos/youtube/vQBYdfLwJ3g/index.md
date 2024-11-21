@@ -1,22 +1,31 @@
 ---
-title: "Why is the PSPO a great fit for the 8-week immersive learning experience?"
+title: Why is the PSPO a great fit for the 8-week immersive learning experience?
 date: 2023-06-09T07:00:27Z
 videoId: vQBYdfLwJ3g
 url: /resources/videos/:slug
 slug: why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience-
 canonicalUrl: https://www.youtube.com/watch?v=vQBYdfLwJ3g
 aliases:
- - /resources/videos/vQBYdfLwJ3g
-# - /resources/videos/why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience-
+- /resources/videos/vQBYdfLwJ3g
 preview: https://i.ytimg.com/vi/vQBYdfLwJ3g/maxresdefault.jpg
 duration: 268
-isShort: False
-tags: [PSPO, 8-week PSPO course, Immersive Learning, Immersive Learning experience, Immersive Learning PSPO course, Scrum.Org, Professional Scrum Product Owner, Scrum Training, Scrum Courses, Scrum Certification]
+isShort: false
+tags:
+- 8-week PSPO course
+- Immersive Learning
+- Immersive Learning experience
+- Immersive Learning PSPO course
+- Professional Scrum Product Owner
+- PSPO
+- Scrum Certification
+- Scrum Courses
+- Scrum Training
+- Scrum.Org
 sitemap:
   filename: sitemap.xml
   priority: 0.4
----
 
+---
 {{< youtube vQBYdfLwJ3g >}}
 
 # Why is the PSPO a great fit for the 8-week immersive learning experience?
@@ -40,3 +49,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=vQBYdfLwJ3g)
+

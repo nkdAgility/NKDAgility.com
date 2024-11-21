@@ -1,22 +1,27 @@
 ---
-title: "Pet Peeve in Scrum"
+title: Pet Peeve in Scrum
 date: 2023-04-28T09:30:00Z
 videoId: 2KovKxNpZpg
 url: /resources/videos/:slug
 slug: pet-peeve-in-scrum
 canonicalUrl: https://www.youtube.com/watch?v=2KovKxNpZpg
 aliases:
- - /resources/videos/2KovKxNpZpg
-# - /resources/videos/pet-peeve-in-scrum
+- /resources/videos/2KovKxNpZpg
 preview: https://i.ytimg.com/vi/2KovKxNpZpg/maxresdefault.jpg
 duration: 32
-isShort: True
-tags: [Scrum, Scrum coaching, Scrum consulting, Scrum applications, Scrum product development, Scrum project management]
+isShort: true
+tags:
+- Scrum
+- Scrum applications
+- Scrum coaching
+- Scrum consulting
+- Scrum product development
+- Scrum project management
 sitemap:
   filename: sitemap.xml
   priority: 0.4
----
 
+---
 {{< youtube 2KovKxNpZpg >}}
 
 # Pet Peeve in Scrum
@@ -40,3 +45,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=2KovKxNpZpg)
+

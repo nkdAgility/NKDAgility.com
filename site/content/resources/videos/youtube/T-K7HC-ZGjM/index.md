@@ -14,10 +14,21 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Sprint Backlog
+- Product Backlog
+- Backlog
+- Sprint
+- Scrum
+- Scrum Product Development
+- Scrum Project Management
+- Agile
+- Agile Product Development
+- Agile Project Management
+- Product Development
+- Project Management
 
 ---
-
-
 {{< youtube T-K7HC-ZGjM >}}
 
 ## Interpreting the Sprint Backlog
@@ -73,6 +84,7 @@ It's a powerful tool, and when used right, it can be the key to unlocking unpara
 Embracing its nuances empowers teams to maintain an unwavering focus while still preserving the agility to pivot.
 
 Equip yourself to navigate these Agile and Scrum intricacies with my comprehensive courses.
+
 
 
 

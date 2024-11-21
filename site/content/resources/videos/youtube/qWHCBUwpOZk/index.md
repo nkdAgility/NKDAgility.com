@@ -14,10 +14,17 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Kanban
+- Kanban training
+- Kanban courses
+- Kanban coaching
+- Kanban consulting
+- Kanban method
+- ProKanban
+- Kanban principles
 
 ---
-
-
 {{< youtube qWHCBUwpOZk >}}
 
 ### Improving Your Workflow in a Kanban Strategy
@@ -107,6 +114,7 @@ Improving your workflow involves more than just identifying problems. It require
 Improving your workflow is a critical practice in Kanban that ensures your system remains efficient and effective. By identifying blockages, reducing waiting times, and making continuous improvements, you can maximize the flow of value through your system.
 
 If you are struggling to implement a Kanban strategy, we can help or connect you with someone who can. Click the link below to get in touch and start optimizing your workflow today.
+
 
 
 

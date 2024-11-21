@@ -15,10 +15,21 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Sprint planning
+- Planning
+- Sprint
+- Scrum
+- Scrum Framework
+- Scrum Methodology
+- Scrum Approach
+- Project Management
+- Product Management
+- Product Development
+- Agile project management
+- Agile product development
 
 ---
-
-
 {{< youtube JVZzJZ5q0Hw >}}
 
 ## What's a Sprint Goal and Why Does It Matter?
@@ -90,6 +101,7 @@ Then my Agile and Scrum courses are just the thing for you!
 Let's continue this journey towards Scrum mastery together.
 
 About NKD Agility
+
 
 
 

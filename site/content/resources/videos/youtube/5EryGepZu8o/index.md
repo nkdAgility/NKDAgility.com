@@ -14,10 +14,13 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Scrum
+- Scrum Training
+- Agile
+- Scrum Certification
 
 ---
-
-
 {{< youtube 5EryGepZu8o >}}
 
 If you could teach just one thing about Scrum, what would it be?
@@ -131,6 +134,7 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 
 

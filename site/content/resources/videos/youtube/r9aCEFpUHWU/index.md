@@ -1,22 +1,33 @@
 ---
-title: "How does the lack of basic skills among Scrum Masters impact teams and organizations"
+title: How does the lack of basic skills among Scrum Masters impact teams and organizations
 date: 2024-10-21T05:32:11Z
 videoId: r9aCEFpUHWU
 url: /resources/videos/:slug
 slug: how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
 canonicalUrl: https://www.youtube.com/watch?v=r9aCEFpUHWU
 aliases:
- - /resources/videos/r9aCEFpUHWU
-# - /resources/videos/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
+- /resources/videos/r9aCEFpUHWU
 preview: https://i.ytimg.com/vi/r9aCEFpUHWU/maxresdefault.jpg
 duration: 466
-isShort: False
-tags: [Agile, Scrum, Scrum Master, Competence, Scrum training, Agile consulting, Agile coaching, Project Management, Product Management, Product Development, Agile project management, Agile product management]
+isShort: false
+tags:
+- Agile
+- Agile coaching
+- Agile consulting
+- Agile product management
+- Agile project management
+- Competence
+- Product Development
+- Product Management
+- Project Management
+- Scrum
+- Scrum Master
+- Scrum training
 sitemap:
   filename: sitemap.xml
   priority: 0.4
----
 
+---
 {{< youtube r9aCEFpUHWU >}}
 
 # How does the lack of basic skills among Scrum Masters impact teams and organizations
@@ -47,3 +58,4 @@ We can help your teams build competence, deliver valuable products, and achieve 
 #agile #scrum #scrummaster #productdevelopment #agileproductdevelopment #productowner #productmanager #productmanagement #projectmanagement #projectmanager
 
 [Watch on YouTube](https://www.youtube.com/watch?v=r9aCEFpUHWU)
+

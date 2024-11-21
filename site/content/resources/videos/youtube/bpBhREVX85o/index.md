@@ -14,10 +14,14 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Scrum
+- Agile
+- Agile Leadership
+- Scrum Framework
+- Empiricism
 
 ---
-
-
 {{< youtube bpBhREVX85o >}}
 
 How does scrum help leadership teams pick the most valuable work to focus on?
@@ -71,6 +75,7 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 
 

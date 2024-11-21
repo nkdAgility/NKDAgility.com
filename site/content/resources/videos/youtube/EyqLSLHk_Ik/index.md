@@ -1,22 +1,26 @@
 ---
-title: "Product Development Mentoring Program"
+title: Product Development Mentoring Program
 date: 2024-05-07T11:02:49Z
 videoId: EyqLSLHk_Ik
 url: /resources/videos/:slug
 slug: product-development-mentoring-program
 canonicalUrl: https://www.youtube.com/watch?v=EyqLSLHk_Ik
 aliases:
- - /resources/videos/EyqLSLHk_Ik
-# - /resources/videos/product-development-mentoring-program
+- /resources/videos/EyqLSLHk_Ik
 preview: https://i.ytimg.com/vi/EyqLSLHk_Ik/maxresdefault.jpg
 duration: 423
-isShort: False
-tags: [Product Development, Agile, Agile Consulting, Agile Training, Scrum Training]
+isShort: false
+tags:
+- Agile
+- Agile Consulting
+- Agile Training
+- Product Development
+- Scrum Training
 sitemap:
   filename: sitemap.xml
   priority: 0.4
----
 
+---
 {{< youtube EyqLSLHk_Ik >}}
 
 # Product Development Mentoring Program
@@ -28,3 +32,4 @@ NKD Agility have extensive experience in helping organizations create great prod
 Visit https://www.nkdagility.com for more information on this great program.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=EyqLSLHk_Ik)
+

@@ -14,10 +14,13 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Scrum
+- Scrum Framework
+- Scrum Methodology
+- Scrum Team
 
 ---
-
-
 {{< youtube -xMY9Heanjk >}}
 
 What is the hardest part of working with a brand-new scrum team?
@@ -121,6 +124,7 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 
 

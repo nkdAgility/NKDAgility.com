@@ -15,10 +15,20 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Professional Agile Leadership
+- Professional Agile Leadership Essentials
+- PAL-E
+- Scrum.org
+- Scrum Course
+- Scrum training
+- Agile Leadership
+- Agile Leadership courses
+- Agile leadership certification
+- Immersive learning experience
+- Immersive learning courses
 
 ---
-
-
 {{< youtube EOs5kZv_7tg >}}
 
 ## Power of Passion
@@ -64,6 +74,7 @@ Our courses, curated with precision, await you.
 And if you ever want a detailed chat on any Agile, Scrum, or DevOps topic, feel free to book a coffee chat with me through Naked Agility.
 
 Stay agile, and continue sparking transformations! 🌠
+
 
 
 

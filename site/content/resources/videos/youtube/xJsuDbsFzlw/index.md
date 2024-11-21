@@ -1,22 +1,27 @@
 ---
-title: "What is the sprint planning workshop and how will it help organizations?"
+title: What is the sprint planning workshop and how will it help organizations?
 date: 2023-06-29T07:00:19Z
 videoId: xJsuDbsFzlw
 url: /resources/videos/:slug
 slug: what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations-
 canonicalUrl: https://www.youtube.com/watch?v=xJsuDbsFzlw
 aliases:
- - /resources/videos/xJsuDbsFzlw
-# - /resources/videos/what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations-
+- /resources/videos/xJsuDbsFzlw
 preview: https://i.ytimg.com/vi/xJsuDbsFzlw/maxresdefault.jpg
 duration: 198
-isShort: False
-tags: [Sprint Planning Workshop, Sprint Planning, Scrum, Scrum Workshops, Scrum training, Scrum coaching]
+isShort: false
+tags:
+- Scrum
+- Scrum coaching
+- Scrum training
+- Scrum Workshops
+- Sprint Planning
+- Sprint Planning Workshop
 sitemap:
   filename: sitemap.xml
   priority: 0.4
----
 
+---
 {{< youtube xJsuDbsFzlw >}}
 
 # What is the sprint planning workshop and how will it help organizations?
@@ -40,3 +45,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=xJsuDbsFzlw)
+

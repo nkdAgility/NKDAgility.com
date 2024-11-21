@@ -14,10 +14,37 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Sprint Backlog
+- Product Backlog
+- Backlog
+- Sprint
+- Scrum
+- Scrum Product Development
+- Scrum Project Management
+- Agile
+- Agile Product Development
+- Agile Project Management
+- Product Development
+- Project Management
+- product team
+- agile coach
+- agile coaching
+- agile consultant
+- agile consulting
+- DevOps
+- DevOps consultant
+- DevOps consulting
+- DevOps coach
+- DevOps coaching
+- Agile leadership
+- Agile leader
+- Leadership
+- 7 signs
+- agile-pocalypse
+- agile-apocalypse
 
 ---
-
-
 {{< youtube vhBsAXev014 >}}
 
 # Steering Through the Agile Apocalypse: Navigating Chaos 🌪️
@@ -77,6 +104,7 @@ As we navigate the choppy waters of chaos, let’s remember that the key to succ
 If you're keen to explore more about agile, scrum, or devops, or if you simply want to chat about steering through chaos, reach out for a coffee chat. Together, we can explore the vast oceans of agile possibilities. Until next time, keep your sails set towards agility, and may your journey be smooth and your transformations transformative. 🌈
 
 _Liked this deep dive into navigating chaos in agile transformations? Follow, subscribe, and join the conversation for more insights and guidance on your agile journey._
+
 
 
 

@@ -1,22 +1,23 @@
 ---
-title: "Mastering Azure DevOps Migration - A Comprehensive Guide by NKDAgility"
+title: Mastering Azure DevOps Migration - A Comprehensive Guide by NKDAgility
 date: 2019-10-17T19:16:03Z
 videoId: RCJsST0xBCE
 url: /resources/videos/:slug
 slug: mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
 canonicalUrl: https://www.youtube.com/watch?v=RCJsST0xBCE
 aliases:
- - /resources/videos/RCJsST0xBCE
-# - /resources/videos/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
+- /resources/videos/RCJsST0xBCE
 preview: https://i.ytimg.com/vi/RCJsST0xBCE/maxresdefault.jpg
 duration: 2399
-isShort: False
-tags: [Azure DevOps, Migration]
+isShort: false
+tags:
+- Azure DevOps
+- Migration
 sitemap:
   filename: sitemap.xml
   priority: 0.4
----
 
+---
 {{< youtube RCJsST0xBCE >}}
 
 # Mastering Azure DevOps Migration - A Comprehensive Guide by NKDAgility
@@ -52,3 +53,4 @@ Because you don't just need agility, you need Naked Agility.
 #azuredevops #agilecoach #agileconsultant #devops #scrummaster #productowner
 
 [Watch on YouTube](https://www.youtube.com/watch?v=RCJsST0xBCE)
+

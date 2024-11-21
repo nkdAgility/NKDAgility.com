@@ -14,10 +14,17 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Product Backlog
+- Backlog
+- Product Development Backlog
+- Agile
+- Agile backlog
+- Scrum
+- Scrum Backlog
+- Sprint Backlog
 
 ---
-
-
 {{< youtube _Eer3X3Z_LE >}}
 
 **What is a product backlog?**
@@ -71,6 +78,7 @@ Hashtags:        #ProductBacklog #Agile #Scrum #BacklogManagement
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

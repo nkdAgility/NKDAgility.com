@@ -14,10 +14,32 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Scrum
+- agile project management
+- agile product development
+- agile product management
+- project management
+- product development
+- product management
+- professional scrum trainer
+- scrum training
+- scrum certification
+- scrum.org
+- DevOps consultant
+- DevOps coach
+- DevOps engineer
+- agile coach
+- agile consultant
+- agile trainer
+- scrum framework
+- scrum methodology
+- scrum approach
+- agile leadership
+- leadership.
 
 ---
-
-
 {{< youtube s_kWkDCbp9Y >}}
 
 Becoming an Agile coach isn’t just about knowing Agile practices. It’s about understanding the context in which your team operates and having the experience to back it up. In this post, I’ll explore why having domain knowledge is essential for Agile coaches, how it impacts your effectiveness, and what you can do to deepen your understanding. Let's dive into it! 🚀
@@ -121,6 +143,7 @@ Remember:
 - **Continuous learning is essential** 📚.
 
 So, as you move forward in your Agile coaching journey, make it a point to dive deep into the work your teams are doing. The more you understand their world, the more effective you’ll be in helping them navigate the challenges of Agile. If you’d like to discuss Agile, Scrum, or anything else related to team dynamics, feel free to **book a coffee chat** with me. Let’s connect and share insights! ☕
+
 
 
 

@@ -15,10 +15,22 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Sprint Review
+- Sprint
+- Scrum
+- Scrum Master
+- Professional Scrum Master
+- Scrum master skills
+- Sprint review tips
+- Scrum framework
+- Agile
+- Agile project management
+- Agile product management
+- Agile product development
+- Product review
 
 ---
-
-
 {{< youtube Juonckoiyx0 >}}
 
 ## Unleashing the Power of Stakeholder Engagement in Sprint Reviews 💡**🔍** 
@@ -84,6 +96,7 @@ A stakeholder-focused approach can revolutionise Sprint reviews, making them mor
 ## Your Takeaway: Mastering the Art of Engagement 🎖️ 
 
 The secret to a transformative Sprint review lies in how well you engage your stakeholders. By focusing on their interests and needs, you can foster a collaborative and effective Agile process.
+
 
 
 

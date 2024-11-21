@@ -15,10 +15,15 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- DevOps
+- DevOps consulting
+- Agile
+- Agile Consulting
+- Agile Coaching
+- Agile Consultant
 
 ---
-
-
 {{< youtube TNnpe02_RiU >}}
 
 **What is Your Peeve in DevOps**
@@ -72,6 +77,7 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 
 

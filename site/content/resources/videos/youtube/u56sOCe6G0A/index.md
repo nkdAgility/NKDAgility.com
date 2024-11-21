@@ -14,10 +14,18 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Kanban
+- Kanban training
+- Kanban courses
+- Kanban consulting
+- Kanban coaching
+- Kanban coach
+- Kanban consultant
+- Kanban method
+- ProKanban
 
 ---
-
-
 {{< youtube u56sOCe6G0A >}}
 
 ### Actively Managing Your Workflow in a Kanban Strategy
@@ -103,6 +111,7 @@ Here are some specific actions you can take to actively manage your workflow:
 Active management is a core practice in Kanban that ensures your workflow remains efficient and effective. By regularly reviewing your workflow, addressing bottlenecks, and optimizing the flow of work, you can maximize the value delivered to your customers.
 
 If you are struggling to implement a Kanban strategy, we can help or connect you with someone who can. Click on the link below to get in touch and start optimizing your workflow today.
+
 
 
 

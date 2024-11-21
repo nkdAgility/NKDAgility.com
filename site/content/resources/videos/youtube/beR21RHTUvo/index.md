@@ -14,10 +14,32 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Scrum
+- agile project management
+- agile product development
+- agile product management
+- project management
+- product development
+- product management
+- professional scrum trainer
+- scrum training
+- scrum certification
+- scrum.org
+- DevOps consultant
+- DevOps coach
+- DevOps engineer
+- agile coach
+- agile consultant
+- agile trainer
+- scrum framework
+- scrum methodology
+- scrum approach
+- agile leadership
+- leadership.
 
 ---
-
-
 {{< youtube beR21RHTUvo >}}
 
 In the world of Agile, there are many relics that still haunt teams today, and one of the most significant is **story points**. Ironically, the creator of story points has publicly apologized for their invention. Think about that for a moment—an apology from the creator of a concept that has deeply embedded itself into Agile practices. Let’s dig into why story points have become one of the most persistent, yet problematic, ghosts of Agile past.
@@ -113,6 +135,7 @@ Here are some signs your team might be haunted by the ghost of story points:
 ## **Moving Forward with Flow**
 
 The future is bright, but only if we’re willing to let go of outdated methods like story points and embrace more meaningful metrics. **Flow metrics** provide us with the tools we need to move forward and focus on what truly matters: delivering value. 💬 **Don’t let the past hold you back**—let’s move towards a future where we measure what really matters.
+
 
 
 

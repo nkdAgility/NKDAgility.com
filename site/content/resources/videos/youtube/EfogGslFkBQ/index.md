@@ -14,10 +14,32 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Scrum
+- agile project management
+- agile product development
+- agile product management
+- project management
+- product development
+- product management
+- professional scrum trainer
+- scrum training
+- scrum certification
+- scrum.org
+- DevOps consultant
+- DevOps coach
+- DevOps engineer
+- agile coach
+- agile consultant
+- agile trainer
+- scrum framework
+- scrum methodology
+- scrum approach
+- agile leadership
+- leadership.
 
 ---
-
-
 {{< youtube EfogGslFkBQ >}}
 
 **Introduction to Agile Metrics: The Pitfall of Story Points and Velocity**
@@ -109,6 +131,7 @@ In summary, if your Agile team is spending more time worrying about **story poin
 - Never include story points in contracts—it leads to dishonesty and poor outcomes.
 
 Use story points for **team discussions only**, then delete the data once the conversation has served its purpose.
+
 
 
 

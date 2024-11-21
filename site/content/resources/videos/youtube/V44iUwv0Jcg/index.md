@@ -1,22 +1,24 @@
 ---
-title: "Continuous Improvement with Kanban"
+title: Continuous Improvement with Kanban
 date: 2024-08-14T07:04:17Z
 videoId: V44iUwv0Jcg
 url: /resources/videos/:slug
 slug: continuous-improvement-with-kanban
 canonicalUrl: https://www.youtube.com/watch?v=V44iUwv0Jcg
 aliases:
- - /resources/videos/V44iUwv0Jcg
-# - /resources/videos/continuous-improvement-with-kanban
+- /resources/videos/V44iUwv0Jcg
 preview: https://i.ytimg.com/vi/V44iUwv0Jcg/maxresdefault.jpg
 duration: 56
-isShort: True
-tags: [Agile Product Development, Agile Project Management, Kanban]
+isShort: true
+tags:
+- Agile Product Development
+- Agile Project Management
+- Kanban
 sitemap:
   filename: sitemap.xml
   priority: 0.4
----
 
+---
 {{< youtube V44iUwv0Jcg >}}
 
 # Continuous Improvement with Kanban
@@ -24,3 +26,4 @@ sitemap:
 Continuous Improvement with #kanban. Visit https://www.nkdagility.com #agile #scrum #kaizen #kanban #agileframework
 
 [Watch on YouTube](https://www.youtube.com/watch?v=V44iUwv0Jcg)
+

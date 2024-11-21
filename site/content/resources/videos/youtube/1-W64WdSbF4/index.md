@@ -15,10 +15,12 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agility
+- Scrum
+- Sprint Review
 
 ---
-
-
 {{< youtube 1-W64WdSbF4 >}}
 
 This workshop was delivered on 16th September 2021 and focused on introducing the core concepts of the Sprint Review and its empirical nature. I used a combination of Liberating Structures, Microsoft Teams, and Mural to deliver an interactive session. This session went really well however we had some technical issues on the live stream!
@@ -68,6 +70,7 @@ The big retrospective item is the issue with the voice on the live stream. The l
 While these sessions are time-limited we expect to have many free sessions over time. If there are none currently you can contact us for private options.
 
 \[wpv-view name="2021-freeworkshops" limit="5"\]
+
 
 
 

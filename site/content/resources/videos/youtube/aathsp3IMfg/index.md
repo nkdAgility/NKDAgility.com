@@ -15,10 +15,12 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Agile Consulting
+- Agile product development
 
 ---
-
-
 {{< youtube aathsp3IMfg >}}
 
 ## Empowering Teams with the APS Approach: Elevating Your Scrum Journey
@@ -70,6 +72,7 @@ Engage, reflect, and elevate.   🌟
 I'm here to guide and collaborate with you along your Agile journey.
 
 Let's connect through Naked Agility and script your unique Scrum success narrative.
+
 
 
 

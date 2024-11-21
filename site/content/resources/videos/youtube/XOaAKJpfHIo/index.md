@@ -14,10 +14,13 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- DevOps
+- Agile
+- Agile Product Development
+- Agile Project Management
 
 ---
-
-
 {{< youtube XOaAKJpfHIo >}}
 
 How important is DevOps in continuous delivery of value to customers?
@@ -91,6 +94,7 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 
 

@@ -15,10 +15,15 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Scrum
+- PSM
+- Professional Scrum Master
+- Scrum Master
+- Scrum Master course
+- Scrum Master training
 
 ---
-
-
 {{< youtube h5TG3MbP0QY >}}
 
 ## "But in the Real World..."
@@ -54,6 +59,7 @@ Let's challenge these 'real world' assertions and hold ourselves to the highest 
 If you're ready to delve into understanding Agile and Scrum's true essence, join my courses and let's debunk these myths together! 🚀
 
 Let's champion honesty in our Agile journey!
+
 
 
 

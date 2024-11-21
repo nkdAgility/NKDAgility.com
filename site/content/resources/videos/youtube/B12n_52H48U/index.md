@@ -15,10 +15,21 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Agile project management
+- Agile product development
+- Agile product management
+- Scrum
+- Project Management
+- Product Development
+- leadership
+- Product leadership
+- Product Development leadership
+- Nokia
+- Agile leadership
 
 ---
-
-
 {{< youtube B12n_52H48U >}}
 
 ## The Role of the Product Owner: Navigating the Agile Seas 🌊 
@@ -72,6 +83,7 @@ Key Takeaways: 
 - 🚫 Can you identify and avoid the sunk cost fallacy? 
 
 - 🤔 Are you ready to adopt an Agile mindset for navigating change?
+
 
 
 

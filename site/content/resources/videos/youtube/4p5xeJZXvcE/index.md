@@ -1,22 +1,44 @@
 ---
-title: " shorts 7 Virtues of agile. Patience"
+title: ' shorts 7 Virtues of agile. Patience'
 date: 2023-12-08T11:00:09Z
 videoId: 4p5xeJZXvcE
 url: /resources/videos/:slug
 slug: -shorts-7-virtues-of-agile-patience
 canonicalUrl: https://www.youtube.com/watch?v=4p5xeJZXvcE
 aliases:
- - /resources/videos/4p5xeJZXvcE
-# - /resources/videos/-shorts-7-virtues-of-agile-patience
+- /resources/videos/4p5xeJZXvcE
 preview: https://i.ytimg.com/vi/4p5xeJZXvcE/maxresdefault.jpg
 duration: 39
-isShort: True
-tags: [Agile, Scrum, agile project management, agile product development, agile product management, project management, product development, product management, professional scrum trainer, scrum training, scrum certification, scrum.org, DevOps consultant, DevOps coach, DevOps engineer, agile coach, agile consultant, agile trainer, scrum framework, scrum methodology, scrum approach, agile leadership, leadership.]
+isShort: true
+tags:
+- Agile
+- agile coach
+- agile consultant
+- agile leadership
+- agile product development
+- agile product management
+- agile project management
+- agile trainer
+- DevOps coach
+- DevOps consultant
+- DevOps engineer
+- leadership.
+- product development
+- product management
+- professional scrum trainer
+- project management
+- Scrum
+- scrum approach
+- scrum certification
+- scrum framework
+- scrum methodology
+- scrum training
+- scrum.org
 sitemap:
   filename: sitemap.xml
   priority: 0.4
----
 
+---
 {{< youtube 4p5xeJZXvcE >}}
 
 #  shorts 7 Virtues of agile. Patience
@@ -35,3 +57,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=4p5xeJZXvcE)
+

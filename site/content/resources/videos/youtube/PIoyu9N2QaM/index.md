@@ -16,10 +16,15 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- scrum
+- scrum master
+- scrummaster
+- experienced scrummaster
+- skilled scrummaster
+- agile coach
 
 ---
-
-
 {{< youtube PIoyu9N2QaM >}}
 
 ## Unpacking the Differences
@@ -85,6 +90,7 @@ Consider joining one of our Agile and Scrum courses to boost your knowledge and 
 Let's improve together and build Agile organisations! 🔥🔥🔥
 
 Until next time, stay Agile! 🚀
+
 
 
 

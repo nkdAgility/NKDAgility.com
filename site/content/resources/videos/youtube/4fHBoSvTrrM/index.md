@@ -15,10 +15,17 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- PSM
+- PSM II
+- Professional Scrum Master
+- Advanced Professional Scrum Master
+- Scrum Training
+- Scrum Certification
+- Scrum.Org
+- Scrum Courses
 
 ---
-
-
 {{< youtube 4fHBoSvTrrM >}}
 
 ## PSM II: The Game-Changer for Scrum Masters
@@ -64,6 +71,7 @@ I'd love to share more on this and other Agile, Scrum, and DevOps topics.  If t
 And remember, I'm always eager to engage in the comments or over a coffee chat!
 
 Reach out, and let's transform your Scrum journey together.
+
 
 
 

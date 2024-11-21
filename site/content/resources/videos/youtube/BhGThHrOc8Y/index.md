@@ -1,22 +1,28 @@
 ---
-title: "People Drive Solutions, Tools Just Pave the Way! Agile and DevOps are about people, not tools."
+title: People Drive Solutions, Tools Just Pave the Way! Agile and DevOps are about people, not tools.
 date: 2023-06-07T07:00:02Z
 videoId: BhGThHrOc8Y
 url: /resources/videos/:slug
 slug: people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
 canonicalUrl: https://www.youtube.com/watch?v=BhGThHrOc8Y
 aliases:
- - /resources/videos/BhGThHrOc8Y
-# - /resources/videos/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
+- /resources/videos/BhGThHrOc8Y
 preview: https://i.ytimg.com/vi/BhGThHrOc8Y/maxresdefault.jpg
 duration: 243
-isShort: False
-tags: [DevOps, Engineering Excellence, DevOps Consulting, Agile, Agile Software Development, Agile Product Development, Agile Project Management]
+isShort: false
+tags:
+- Agile
+- Agile Product Development
+- Agile Project Management
+- Agile Software Development
+- DevOps
+- DevOps Consulting
+- Engineering Excellence
 sitemap:
   filename: sitemap.xml
   priority: 0.4
----
 
+---
 {{< youtube BhGThHrOc8Y >}}
 
 # People Drive Solutions, Tools Just Pave the Way! Agile and DevOps are about people, not tools.
@@ -44,3 +50,4 @@ Because you don't just need agility, you need Naked Agility.
 #devops #azuredevops #agilecoach #agileconsultant #continousdelivery #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=BhGThHrOc8Y)
+

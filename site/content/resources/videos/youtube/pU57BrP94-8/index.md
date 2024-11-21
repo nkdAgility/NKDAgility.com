@@ -15,10 +15,17 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Immersive learning experience
+- Immersive learning scrum course
+- Immersive learning scrum training
+- Immersive learning scrum experience
+- scrum training
+- scrum course
+- scrum certification
+- agile scrum training
 
 ---
-
-
 {{< youtube pU57BrP94-8 >}}
 
 ## Immersive Learning: Revolutionising On-the-Job Agile Learning
@@ -78,6 +85,7 @@ Explore the Immersive Journey with Me 
 For those eager to immerse themselves in a richer, more integrated Scrum experience, I invite you to embark on this learning journey with me.  
 
 Connect with me through Naked Agility, and let's craft your own unique Scrum immersive learning experience. 🌟
+
 
 
 

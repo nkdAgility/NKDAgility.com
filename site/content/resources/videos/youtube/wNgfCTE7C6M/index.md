@@ -1,22 +1,27 @@
 ---
-title: "How does the PSU course help teams make more effective product development decisions?"
+title: How does the PSU course help teams make more effective product development decisions?
 date: 2023-04-10T07:00:18Z
 videoId: wNgfCTE7C6M
 url: /resources/videos/:slug
 slug: how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions-
 canonicalUrl: https://www.youtube.com/watch?v=wNgfCTE7C6M
 aliases:
- - /resources/videos/wNgfCTE7C6M
-# - /resources/videos/how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions-
+- /resources/videos/wNgfCTE7C6M
 preview: https://i.ytimg.com/vi/wNgfCTE7C6M/maxresdefault.jpg
 duration: 371
-isShort: False
-tags: [Scrum, Scrum.Org, PSU, Professional Scrum with User Experience, UX, Product Development]
+isShort: false
+tags:
+- Product Development
+- Professional Scrum with User Experience
+- PSU
+- Scrum
+- Scrum.Org
+- UX
 sitemap:
   filename: sitemap.xml
   priority: 0.4
----
 
+---
 {{< youtube wNgfCTE7C6M >}}
 
 # How does the PSU course help teams make more effective product development decisions?
@@ -41,3 +46,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=wNgfCTE7C6M)
+

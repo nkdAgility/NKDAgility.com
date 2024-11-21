@@ -14,10 +14,16 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Scrum
+- Scrum Training
+- Scrum Master
+- Scrum Certification
+- HR
+- HR Manager
+- Hiring
 
 ---
-
-
 {{< youtube GJFklM1U5Pc >}}
 
 The current state of Scrum Master roles is, to put it mildly, troubling. Across organizations, there’s a significant, systemic lack of competence in the Scrum Master accountability. This shortfall has grown from the agile boom of the past two decades, creating a demand for Scrum Masters that far outstrips the available supply. As a result, many individuals have transitioned into these roles without the necessary skills or experience to succeed.
@@ -157,6 +163,7 @@ The competence crisis in Scrum Master roles is a reality, but it’s not without
 - Focus on practical experience and real-world application.
 
 By focusing on these areas, Scrum Masters can elevate their roles, deliver more value, and help their organizations thrive in this new age of agile.
+
 
 
 

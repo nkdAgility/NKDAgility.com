@@ -14,10 +14,14 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Applying Professional Scrum
+- APS
+- Scrum Certification
+- Scrum Training
+- Agile Scrum Training
 
 ---
-
-
 {{< youtube grJFd9-R5Pw >}}
 
 How does the APS course help people apply scrum effectively?
@@ -95,6 +99,7 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 
 

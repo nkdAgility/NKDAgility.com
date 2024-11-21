@@ -1,22 +1,27 @@
 ---
-title: "It's said that you can reduce time to market by up to 50% simply by removing committees. True?"
+title: It's said that you can reduce time to market by up to 50% simply by removing committees. True?
 date: 2023-10-02T07:00:33Z
 videoId: ye1wQic8et0
 url: /resources/videos/:slug
 slug: it's-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true-
 canonicalUrl: https://www.youtube.com/watch?v=ye1wQic8et0
 aliases:
- - /resources/videos/ye1wQic8et0
-# - /resources/videos/it's-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true-
+- /resources/videos/ye1wQic8et0
 preview: https://i.ytimg.com/vi/ye1wQic8et0/maxresdefault.jpg
 duration: 408
-isShort: False
-tags: [Time to market, Agile project management, project management, agile product manager, project manager, agile devops]
+isShort: false
+tags:
+- agile devops
+- agile product manager
+- Agile project management
+- project management
+- project manager
+- Time to market
 sitemap:
   filename: sitemap.xml
   priority: 0.4
----
 
+---
 {{< youtube ye1wQic8et0 >}}
 
 # It's said that you can reduce time to market by up to 50% simply by removing committees. True?
@@ -41,3 +46,4 @@ Because you don't just need agility, you need Naked Agility.
 #valuedelivery #projectmanagement #scrumorg #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #agiletraining #devops #agileconsultant #agilecoach #agiletraining
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ye1wQic8et0)
+

@@ -14,10 +14,33 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Product Owner
+- Product Manager
+- Scrum Product Owner
+- Scrum Product Ownership
+- Product Ownership
+- Sprint
+- Scrum
+- Scrum Product Development
+- Scrum Project Management
+- Agile
+- Agile Product Development
+- Agile Project Management
+- Product Development
+- Project Management
+- product team
+- agile coach
+- agile coaching
+- agile consultant
+- agile consulting
+- DevOps
+- DevOps consultant
+- DevOps consulting
+- DevOps coach
+- DevOps coaching
 
 ---
-
-
 {{< youtube ekUL1oIMeAc >}}
 
 ## Product Owner's Misstep
@@ -71,6 +94,7 @@ Are you navigating the complexities of the Scrum roles?
 Elevate your Agile game by joining our in-depth Scrum and Agile courses.
 
 Together, let's champion collaboration and understanding in the amazing world of Agile! 🌐
+
 
 
 

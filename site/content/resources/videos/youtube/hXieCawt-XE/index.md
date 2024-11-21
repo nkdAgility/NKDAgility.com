@@ -14,10 +14,17 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Kanban
+- Kanban training
+- Kanban courses
+- Kanban coach
+- Kanban consultant
+- Kanban method
+- kanban approach
+- kanban process
 
 ---
-
-
 {{< youtube hXieCawt-XE >}}
 
 When implementing a Kanban strategy, we're essentially creating a pull-based system of work. This methodology, which originated in lean manufacturing, offers teams a structured way to visualize, manage, and improve their workflow. If you're struggling with bottlenecks, work piling up, or inefficiencies in your process, Kanban might be exactly what you need.
@@ -123,6 +130,7 @@ By breaking down the activities within a Sprint into Kanban stages, teams can se
 Kanban helps teams visualize, manage, and improve their workflow by creating a pull-based system. It prevents overloading stages with work, ensures smoother flow, and provides visibility into where bottlenecks are occurring.
 
 If you're struggling with creating an efficient workflow, Kanban can help. Whether you're implementing a full Kanban system or adding Kanban principles to Scrum, the key is to actively manage and continuously improve your process. 👉 **Pro tip**: Always set WIP limits and keep an eye on waiting states to prevent bottlenecks from derailing your progress!
+
 
 
 

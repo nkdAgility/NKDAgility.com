@@ -15,10 +15,24 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Sprint review
+- Sprint
+- Scrum
+- Scrum framework
+- Scrum review
+- Scrum approach
+- Scrum methodology
+- Scrum project management
+- Scrum product development
+- Agile
+- Agile product development
+- product development
+- Agile product management
+- product management
+- Agile project management
 
 ---
-
-
 {{< youtube LpiLOBG7WgI >}}
 
 ## Navigating Harsh Feedback in Sprint Reviews – An Agile Approach🚀 
@@ -92,6 +106,7 @@ Takeaways 
 Agile practices like Sprint reviews are about more than just ticking boxes; they're about creating a dynamic, responsive environment for product development.  
 
 So, take that harsh feedback and turn it into your most valuable asset! 🚀
+
 
 
 

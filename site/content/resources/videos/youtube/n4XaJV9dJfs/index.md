@@ -1,22 +1,44 @@
 ---
-title: "What is the most useful element of the APS course for beginner Scrum Teams?"
+title: What is the most useful element of the APS course for beginner Scrum Teams?
 date: 2023-11-15T07:00:28Z
 videoId: n4XaJV9dJfs
 url: /resources/videos/:slug
 slug: what-is-the-most-useful-element-of-the-aps-course-for-beginner-scrum-teams-
 canonicalUrl: https://www.youtube.com/watch?v=n4XaJV9dJfs
 aliases:
- - /resources/videos/n4XaJV9dJfs
-# - /resources/videos/what-is-the-most-useful-element-of-the-aps-course-for-beginner-scrum-teams-
+- /resources/videos/n4XaJV9dJfs
 preview: https://i.ytimg.com/vi/n4XaJV9dJfs/maxresdefault.jpg
 duration: 219
-isShort: False
-tags: [Agile, Scrum, agile project management, agile product development, agile product management, project management, product development, product management, professional scrum trainer, scrum training, scrum certification, scrum.org, DevOps consultant, DevOps coach, DevOps engineer, agile coach, agile consultant, agile trainer, scrum framework, scrum methodology, scrum approach, agile leadership, leadership.]
+isShort: false
+tags:
+- Agile
+- agile coach
+- agile consultant
+- agile leadership
+- agile product development
+- agile product management
+- agile project management
+- agile trainer
+- DevOps coach
+- DevOps consultant
+- DevOps engineer
+- leadership.
+- product development
+- product management
+- professional scrum trainer
+- project management
+- Scrum
+- scrum approach
+- scrum certification
+- scrum framework
+- scrum methodology
+- scrum training
+- scrum.org
 sitemap:
   filename: sitemap.xml
   priority: 0.4
----
 
+---
 {{< youtube n4XaJV9dJfs >}}
 
 # What is the most useful element of the APS course for beginner Scrum Teams?
@@ -49,3 +71,4 @@ Because you don't just need agility, you need Naked Agility.
 #scrum #agile #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg #scrummaster #productowner #kanban #continuousdelivery #devops #azuredevops
 
 [Watch on YouTube](https://www.youtube.com/watch?v=n4XaJV9dJfs)
+

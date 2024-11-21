@@ -1,22 +1,26 @@
 ---
-title: "Kanban with Azure DevOps"
+title: Kanban with Azure DevOps
 date: 2024-03-29T16:42:17Z
 videoId: jCrXzgjxcEA
 url: /resources/videos/:slug
 slug: kanban-with-azure-devops
 canonicalUrl: https://www.youtube.com/watch?v=jCrXzgjxcEA
 aliases:
- - /resources/videos/jCrXzgjxcEA
-# - /resources/videos/kanban-with-azure-devops
+- /resources/videos/jCrXzgjxcEA
 preview: https://i.ytimg.com/vi/jCrXzgjxcEA/maxresdefault.jpg
 duration: 1448
-isShort: False
-tags: [Azure DevOps, Azure Boards, Team Founndation Server, TFS Service, Visual Studio Team System]
+isShort: false
+tags:
+- Azure Boards
+- Azure DevOps
+- Team Founndation Server
+- TFS Service
+- Visual Studio Team System
 sitemap:
   filename: sitemap.xml
   priority: 0.4
----
 
+---
 {{< youtube jCrXzgjxcEA >}}
 
 # Kanban with Azure DevOps
@@ -51,3 +55,4 @@ Because you dont just need agility, you need Naked Agility.
 #KanbanBoard, #AzureDevOps, #VisualManagement, #WorkInProgress, #LeadTime #Kanban
 
 [Watch on YouTube](https://www.youtube.com/watch?v=jCrXzgjxcEA)
+

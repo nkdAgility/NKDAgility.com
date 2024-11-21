@@ -15,10 +15,16 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Product Owner
+- Product Ownership
+- Project Manager
+- Agile Project Manager
+- Agile Project Management
+- Agile Product Development
+- Project Management
 
 ---
-
-
 {{< youtube HcoTwjPnLC0 >}}
 
 ## Defining Roles in Agile
@@ -56,6 +62,7 @@ They have their unique responsibilities and clearly different areas of focus.  
 If you want to explore Agile, Scrum, or even becoming a Scrum Master or Product Owner, check out my Agile and Scrum courses.  📚
 
 You might just find what you're looking for. 👍
+
 
 
 

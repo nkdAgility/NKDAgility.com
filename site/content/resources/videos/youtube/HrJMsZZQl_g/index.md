@@ -15,10 +15,34 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Sprint Backlog
+- Product Backlog
+- Backlog
+- Sprint
+- Scrum
+- Scrum Product Development
+- Scrum Project Management
+- Agile
+- Agile Product Development
+- Agile Project Management
+- Product Development
+- Project Management
+- product team
+- agile coach
+- agile coaching
+- agile consultant
+- agile consulting
+- DevOps
+- DevOps consultant
+- DevOps consulting
+- DevOps coach
+- DevOps coaching
+- Agile leadership
+- Agile leader
+- Leadership
 
 ---
-
-
 {{< youtube HrJMsZZQl_g >}}
 
 ## Empowering Teams with the APS Approach: Elevating Your Scrum Journey
@@ -70,6 +94,7 @@ Engage, reflect, and elevate.   🌟
 I'm here to guide and collaborate with you along your Agile journey.
 
 Let's connect through Naked Agility and script your unique Scrum success narrative.
+
 
 
 

@@ -15,10 +15,13 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile Dogma
+- Worst agile advice
+- Worst agile practice
+- Worst example of scrum
 
 ---
-
-
 {{< youtube L6opxb0FYcU >}}
 
 **Worst agile advice you've ever heard?**
@@ -56,6 +59,7 @@ Hashtags:        #BadAgileAdvice #Agile #Scrum #TeamInclusivity
 General
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

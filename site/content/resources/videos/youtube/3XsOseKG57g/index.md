@@ -14,10 +14,15 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Scrum
+- Scrum Training
+- Agile
+- Agile Scrum
+- Agile Scrum Training
+- Immersive training
 
 ---
-
-
 {{< youtube 3XsOseKG57g >}}
 
 ## The Magic of the 4-Day Training Format!
@@ -67,6 +72,7 @@ This pause lets participants return the following day with enhanced understandin
 Curious about experiencing this unique learning approach?
 
 Explore my courses, and let's make your learning journey memorable!
+
 
 
 

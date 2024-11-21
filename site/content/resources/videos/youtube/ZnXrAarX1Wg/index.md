@@ -14,10 +14,16 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile consultant
+- Agile consulting
+- Agile
+- Agile Product Development
+- Agile Project Management
+- Agility
+- Business Agility
 
 ---
-
-
 {{< youtube ZnXrAarX1Wg >}}
 
 **No go zone for Agile consultants**
@@ -61,6 +67,7 @@ Hashtags:         #AgileConsulting #Coaching #Teaching #Change
 General
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

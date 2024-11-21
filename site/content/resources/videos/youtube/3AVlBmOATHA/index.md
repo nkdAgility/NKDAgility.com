@@ -14,10 +14,14 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Agile Transformation
+- Agile Pilot
+- Agile Project management
+- Agile Product Development
 
 ---
-
-
 {{< youtube 3AVlBmOATHA >}}
 
 How would you help organizations pitch the opportunity of agile internally?
@@ -141,6 +145,7 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 
 

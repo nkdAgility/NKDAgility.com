@@ -14,10 +14,16 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Momentum
+- Team performance
+- Agile
+- Agile Team
+- Scrum
+- Scrum Team
+- Product Development
 
 ---
-
-
 {{< youtube 5bgfme-Pspw >}}
 
 **Momentum**
@@ -69,6 +75,7 @@ Hashtags:        #Momentum, #TeamMovement, #AgileLeadership, #Direction
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

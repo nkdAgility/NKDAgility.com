@@ -14,10 +14,13 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Scrum
+- Scrum Trainer
+- Professional Scrum Trainer
+- PST
 
 ---
-
-
 {{< youtube AwkxZ9RS_0g >}}
 
 ## Synergy Between Consulting and Training
@@ -73,6 +76,7 @@ Say no more.
 Enrol in my upcoming Agile and Scrum courses to experience this enriching blend of consulting wisdom and educational expertise.
 
 👉 Sign up now and supercharge your Agile and Scrum journey!
+
 
 
 

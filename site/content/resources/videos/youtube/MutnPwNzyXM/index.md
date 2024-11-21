@@ -1,22 +1,26 @@
 ---
-title: "Most valuable lesson you learned as an agile consultant"
+title: Most valuable lesson you learned as an agile consultant
 date: 2023-06-22T07:00:15Z
 videoId: MutnPwNzyXM
 url: /resources/videos/:slug
 slug: most-valuable-lesson-you-learned-as-an-agile-consultant
 canonicalUrl: https://www.youtube.com/watch?v=MutnPwNzyXM
 aliases:
- - /resources/videos/MutnPwNzyXM
-# - /resources/videos/most-valuable-lesson-you-learned-as-an-agile-consultant
+- /resources/videos/MutnPwNzyXM
 preview: https://i.ytimg.com/vi/MutnPwNzyXM/maxresdefault.jpg
 duration: 263
-isShort: False
-tags: [Agile, Agile Consulting, Agile Consultant, Scrum, Scrum coach]
+isShort: false
+tags:
+- Agile
+- Agile Consultant
+- Agile Consulting
+- Scrum
+- Scrum coach
 sitemap:
   filename: sitemap.xml
   priority: 0.4
----
 
+---
 {{< youtube MutnPwNzyXM >}}
 
 # Most valuable lesson you learned as an agile consultant
@@ -40,3 +44,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=MutnPwNzyXM)
+

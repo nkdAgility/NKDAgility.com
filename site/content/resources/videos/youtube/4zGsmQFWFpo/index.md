@@ -14,10 +14,12 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Scrum
+- Competence
 
 ---
-
-
 {{< youtube 4zGsmQFWFpo >}}
 
 In today’s rapidly evolving landscape, focusing solely on _Agile_ as a label can be limiting. Instead, the goal should be to increase our organization’s **capability**, **maximize value**, and **enhance effectiveness**. It's not about the moniker; it’s about achieving outcomes that matter. 🏆
@@ -177,6 +179,7 @@ Ready to build a team that thrives? Start with **competence**, **context**, and 
 * * *
 
 By focusing on the _how_ rather than just the _what_, we can create an environment where **Scrum Masters lead with insight**, **teams collaborate effectively**, and **businesses deliver true value**. That’s what agility is really about—being ready for anything, with the right people at the helm. 🌟
+
 
 
 

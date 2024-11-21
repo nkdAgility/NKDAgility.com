@@ -14,10 +14,14 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile Developer
+- Software Developer
+- Agile Software Development
+- Agile Product Development
+- Agile Project Management
 
 ---
-
-
 {{< youtube 96iDY11yOjc >}}
 
 ## Bridging the Chasm: From Average to Agile Excellence in Development
@@ -81,6 +85,7 @@ Let's redefine what it means to be a developer in this agile era!
 I invite you to dive deep into this world of engaged and self-directed learning through my Agile and Scrum courses. 🚀
 
 It's a space where your passion meets our guidance, where your journey of transforming from an average developer to an agile maestro begins.
+
 
 
 

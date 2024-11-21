@@ -14,10 +14,34 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Sprint Backlog
+- Product Backlog
+- Backlog
+- Sprint
+- Scrum
+- Scrum Product Development
+- Scrum Project Management
+- Agile
+- Agile Product Development
+- Agile Project Management
+- Product Development
+- Project Management
+- product team
+- agile coach
+- agile coaching
+- agile consultant
+- agile consulting
+- DevOps
+- DevOps consultant
+- DevOps consulting
+- DevOps coach
+- DevOps coaching
+- Agile leadership
+- Agile leader
+- Leadership
 
 ---
-
-
 {{< youtube 2ASLFX2i9_g >}}
 
 ## Mastering Agility: Steering Clear of the Gluttony Trap in Agile and Scrum 🌟 
@@ -65,6 +89,7 @@ The key to avoiding gluttony in Agile and Scrum is recognising that more isn't a
 - **Embrace Value Delivery:** Ensure every feature and task adds real value. 
 
 - **Leverage Feedback:** Use insights from customers and team members to guide decisions.
+
 
 
 

@@ -15,10 +15,18 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Sprint Review workshops
+- Sprint Review
+- Sprint
+- Scrum
+- Scrum Product Development
+- Scrum team
+- Scrum training
+- Scrum coaching
+- Scrum consulting
 
 ---
-
-
 {{< youtube uYm_wb1sHJE >}}
 
 ## 🚀 Demystifying the Sprint Review Workshop 
@@ -60,6 +68,7 @@ The Sprint Review Workshop is not just intended to enlighten but to metamorphose
 ## Elevate Your Sprints to New Heights 
 
 Adopt the Sprint Review Workshop as your crucible of innovation, where feedback ignites advancement and stakeholder engagement is not merely anticipated but eagerly sought.
+
 
 
 

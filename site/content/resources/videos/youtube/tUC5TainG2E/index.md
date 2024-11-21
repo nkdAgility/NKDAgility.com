@@ -14,10 +14,14 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Microsoft
+- Agile at Microsoft
+- Scrum at Microsoft
+- Scrum Training for Microsoft
+- Agile Scrum training for Microsoft
 
 ---
-
-
 {{< youtube tUC5TainG2E >}}
 
 Many of you have asked,  "How did I become the third Scrum training provider for Microsoft?"
@@ -79,6 +83,7 @@ So, the next time someone asks, "How did you...?" My answer will always be – t
 If you're keen to explore the realms of Agile, Scrum, and Microsoft tools, consider joining my upcoming courses.
 
 We challenge conventions and foster growth.
+
 
 
 

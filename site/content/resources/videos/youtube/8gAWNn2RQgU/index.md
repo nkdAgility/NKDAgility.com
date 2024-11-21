@@ -15,10 +15,16 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- PST
+- Professional Scrum Trainer
+- Professional Scrum Training
+- Scrum training
+- Agile scrum training
+- scrum courses
+- scrum certification
 
 ---
-
-
 {{< youtube 8gAWNn2RQgU >}}
 
 ## A Tale of Expertise and Authenticity: Meet Joanna, the Agile Maestro 🚀 
@@ -94,6 +100,7 @@ Embark on a transformative Agile journey with Joanna. Her classes are more than 
 So, are you ready to leap from good to great? 🌟 Joanna's training isn't just a class; it's the catalyst for your Agile evolution. 
 
 🔗 Secure your spot now and revolutionize the way you approach Scrum and Agile practices. #NKDAgility #AgileExcellence #ScrumMasterclass
+
 
 
 

@@ -14,10 +14,16 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Agile Consulting
+- Agile Product Development
+- Agile Project Management
+- Product Development
+- Project Management
+- Agile Coach
 
 ---
-
-
 {{< youtube FJjiCodxyK4 >}}
 
 **Why do you prefer agile consulting over agile coaching?**
@@ -79,6 +85,7 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 
 

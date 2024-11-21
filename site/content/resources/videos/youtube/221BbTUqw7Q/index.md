@@ -16,10 +16,24 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- APS
+- Applying Professional Scrum
+- Applying Professional Scrum Course
+- Immersive learning
+- Immersive learning scrum course
+- Scrum.Org
+- Scrum course
+- Scrum Certification
+- Agile
+- Agile Scrum Training
+- Agile courses
+- Agile training
+- Agile project management
+- Agile product development
+- Agility
 
 ---
-
-
 {{< youtube 221BbTUqw7Q >}}
 
 ## Scrum's True Potential: A Journey Through the APS Immersive Class
@@ -69,6 +83,7 @@ Let's engage, connect, and share our passion for Scrum and Agile.
 Whether it's a question, a challenge, or a shared experience,
 
 I'm here to chat. Let's connect over a virtual coffee and chart a course towards Scrum excellence.
+
 
 
 

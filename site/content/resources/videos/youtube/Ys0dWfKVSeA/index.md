@@ -15,10 +15,21 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Scrum
+- Scrum framework
+- Agile project management
+- project management
+- Agile product development
+- product development
+- Agile product management
+- product management
+- business agility
+- problem solving
+- complexity
 
 ---
-
-
 {{< youtube Ys0dWfKVSeA >}}
 
 ## Reflecting on Scrum's Mirror  
@@ -116,6 +127,7 @@ Armed with insights gleaned from Scrum's revelations, teams are better positione
 - 🛠️ **Leverage Scrum for Business Goals**: Ensure every department understands that Scrum's revelations aim to support the business in making money. 
 
 In conclusion, Scrum acts as a mirror, revealing problems rather than solving them. By highlighting these issues it pushes organisations to innovate and iterate towards effective solutions. The revelations brought about by Scrum are the first step towards fostering a resilient, adaptable, and successful organisation.
+
 
 
 

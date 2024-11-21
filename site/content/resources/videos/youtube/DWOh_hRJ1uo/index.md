@@ -15,10 +15,15 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Scrum
+- Scrum Master
+- ScrumMaster
+- Scrum Master Career Options
+- Agile
+- Agile Coach
 
 ---
-
-
 {{< youtube DWOh_hRJ1uo >}}
 
 **What is your best advice for becoming a Scrum Master outside software engineering?**
@@ -98,6 +103,7 @@ Article Specific:  Scrum Master, certification path, validated learning, Scrum 
 Hashtags:   #ScrumMaster #CareerDevelopment #ContinuousLearning #Agile.
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

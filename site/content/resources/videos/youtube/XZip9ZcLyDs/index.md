@@ -14,10 +14,18 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Becoming a scrum master
+- scrum master
+- scrummaster
+- scrum
+- agile
+- agile careers
+- agile certifications
+- scrum certification
+- scrum training
 
 ---
-
-
 {{< youtube XZip9ZcLyDs >}}
 
 **Why is becoming a Scrum Master a great career option?**
@@ -87,6 +95,7 @@ Hashtags:        #ScrumMaster, #LeadershipJourney, #CareerInAgile
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

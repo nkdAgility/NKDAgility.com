@@ -1,22 +1,44 @@
 ---
-title: "What 5 things must you achieve before you call yourself an agilecoach. Part 3"
+title: What 5 things must you achieve before you call yourself an agilecoach. Part 3
 date: 2023-11-15T11:01:00Z
 videoId: xOcL_hqf1SM
 url: /resources/videos/:slug
 slug: what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-3
 canonicalUrl: https://www.youtube.com/watch?v=xOcL_hqf1SM
 aliases:
- - /resources/videos/xOcL_hqf1SM
-# - /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-3
+- /resources/videos/xOcL_hqf1SM
 preview: https://i.ytimg.com/vi/xOcL_hqf1SM/maxresdefault.jpg
 duration: 64
-isShort: False
-tags: [Agile, Scrum, agile project management, agile product development, agile product management, project management, product development, product management, professional scrum trainer, scrum training, scrum certification, scrum.org, DevOps consultant, DevOps coach, DevOps engineer, agile coach, agile consultant, agile trainer, scrum framework, scrum methodology, scrum approach, agile leadership, leadership.]
+isShort: false
+tags:
+- Agile
+- agile coach
+- agile consultant
+- agile leadership
+- agile product development
+- agile product management
+- agile project management
+- agile trainer
+- DevOps coach
+- DevOps consultant
+- DevOps engineer
+- leadership.
+- product development
+- product management
+- professional scrum trainer
+- project management
+- Scrum
+- scrum approach
+- scrum certification
+- scrum framework
+- scrum methodology
+- scrum training
+- scrum.org
 sitemap:
   filename: sitemap.xml
   priority: 0.4
----
 
+---
 {{< youtube xOcL_hqf1SM >}}
 
 # What 5 things must you achieve before you call yourself an agilecoach. Part 3
@@ -37,3 +59,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=xOcL_hqf1SM)
+
