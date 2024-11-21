@@ -1,5 +1,6 @@
 ---
 title: "Technically Agile: Blog"
+shorttitle: "Blog"
 url: "/resources/blog/"
 aliases:
   - /blog/

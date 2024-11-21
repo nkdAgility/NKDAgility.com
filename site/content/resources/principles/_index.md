@@ -1,5 +1,6 @@
 ---
 title: "Technically Agile: Principles"
+shorttitle: "Principles"
 description: Our principles are the foundation of our work. They guide our decisions, actions, and interactions. They are the essence of who we are and what we stand for. They are the reason we do what we do.
 draft: false
 layout: "section" # Hugo will use section.html to render the list of pages
