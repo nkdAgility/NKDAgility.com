@@ -1,5 +1,5 @@
 # Define variables
-$apiKey = $env:google_apiKey
+$apiKey = $env:YOUTUBE_API_KEY
 $channelId = "UCkYqhFNmhCzkefHsHS652hw"
 $outputDir = "site\content\resources\videos\youtube"
 $dataDirectory = ".\site\data"
