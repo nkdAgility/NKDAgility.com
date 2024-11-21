@@ -43,11 +43,19 @@ function Get-NewMarkdownContents {
 title: "$title"
 date: $publishedAt
 videoId: $videoId
-url: /resources/videos/$urlSafeTitle
+url: /resources/videos/:slug
+slug: $urlSafeTitle
 canonicalUrl: $externalUrl
+aliases:
+ - /resources/videos/$videoId
+# - /resources/videos/$urlSafeTitle
 preview: $thumbnailUrl
 duration: $durationInSeconds
 isShort: $isShort
+
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
 ---
 
 {{< youtube $videoId >}}
@@ -72,30 +80,32 @@ function Update-YoutubeMarkdownFiles {
         if (Test-Path $markdownFile) {
             $content = Get-Content -Path $markdownFile
             if ($content -match 'canonicalUrl:') {
+  
+                $jsonFilePath = Join-Path $videoDir "data.json"
+
+                if (Test-Path $jsonFilePath) {
+                    # Load the video data from data.json
+                    $videoData = Get-Content -Path $jsonFilePath | ConvertFrom-Json
+                    $videoId = $videoData.id
+        
+                    # Generate markdown content
+                    $markdownContent = Get-NewMarkdownContents -videoData $videoData -videoId $videoId
+        
+                    # Markdown file path inside the video ID folder
+                    $filePath = Join-Path $videoDir "index.md"
+        
+                    # Write the markdown content
+                    Set-Content -Path $filePath -Value $markdownContent
+                    Write-Host "Markdown created for video: $($videoData.snippet.title)"
+                }
+
+            }
+            else {
                 Write-Host "Markdown file for video $($videoDir) has been customised. Skipping."
-                continue
             }
         }
-        Write-Host "Testing needed!"
-        exit # The above code needs tested!
-        
-        $jsonFilePath = Join-Path $videoDir "data.json"
-
-        if (Test-Path $jsonFilePath) {
-            # Load the video data from data.json
-            $videoData = Get-Content -Path $jsonFilePath | ConvertFrom-Json
-            $videoId = $videoData.id
-
-            # Generate markdown content
-            $markdownContent = Get-NewMarkdownContents -videoData $videoData -videoId $videoId
-
-            # Markdown file path inside the video ID folder
-            $filePath = Join-Path $videoDir "index.md"
-
-            # Write the markdown content
-            Set-Content -Path $filePath -Value $markdownContent
-            Write-Host "Markdown created for video: $($videoData.snippet.title)"
-        }
+       
+      
     }
 
     Write-Host "All markdown files updated."
