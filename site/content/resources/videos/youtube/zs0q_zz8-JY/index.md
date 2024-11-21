@@ -1,30 +1,22 @@
 ---
-title: Biggest misconception about a scrum master
+title: "Biggest misconception about a scrum master"
 date: 2023-06-21T11:00:52Z
 videoId: zs0q_zz8-JY
 url: /resources/videos/:slug
 slug: biggest-misconception-about-a-scrum-master
 canonicalUrl: https://www.youtube.com/watch?v=zs0q_zz8-JY
 aliases:
-- /resources/videos/zs0q_zz8-JY
+ - /resources/videos/zs0q_zz8-JY
+# - /resources/videos/biggest-misconception-about-a-scrum-master
 preview: https://i.ytimg.com/vi/zs0q_zz8-JY/maxresdefault.jpg
 duration: 46
-isShort: true
-tags:
-- Scrum
-- Scrum Framework
-- Scrum Master
-- Scrum Methodology
-- Scrum Product Development
-- Scrum Project Management
-- ScrumMaster
+isShort: True
+tags: [Scrum, Scrum Master, ScrumMaster, Scrum Framework, Scrum Methodology, Scrum Project Management, Scrum Product Development]
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
-
 ---
+
 {{< youtube zs0q_zz8-JY >}}
 
 # Biggest misconception about a scrum master
@@ -46,5 +38,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=zs0q_zz8-JY)
-
-

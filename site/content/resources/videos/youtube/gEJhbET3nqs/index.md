@@ -1,27 +1,22 @@
 ---
-title: Professional Agile Leadership Essentials Overview
+title: "Professional Agile Leadership Essentials Overview"
 date: 2020-07-07T20:10:33Z
 videoId: gEJhbET3nqs
 url: /resources/videos/:slug
 slug: professional-agile-leadership-essentials-overview
 canonicalUrl: https://www.youtube.com/watch?v=gEJhbET3nqs
 aliases:
-- /resources/videos/gEJhbET3nqs
+ - /resources/videos/gEJhbET3nqs
+# - /resources/videos/professional-agile-leadership-essentials-overview
 preview: https://i.ytimg.com/vi/gEJhbET3nqs/maxresdefault.jpg
 duration: 245
-isShort: false
-tags:
-- Agile Leadership
-- Agility
-- Leadership
-- Scrum
+isShort: False
+tags: [Leadership, Agile Leadership, Scrum, Agility]
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
-
 ---
+
 {{< youtube gEJhbET3nqs >}}
 
 # Professional Agile Leadership Essentials Overview
@@ -32,5 +27,3 @@ Course Page: https://nkdagility.com/training/courses/professional-agile-leadersh
 Upcoming Classes: https://nkdagility.com/training/course-schedule/
 
 [Watch on YouTube](https://www.youtube.com/watch?v=gEJhbET3nqs)
-
-

@@ -1,28 +1,22 @@
 ---
-title: Ep 004 - Chat with Jim Sammons on professionalism and conflicting priorities
+title: "Ep 004 - Chat with Jim Sammons on professionalism and conflicting priorities"
 date: 2020-04-07T20:33:45Z
 videoId: iCDEX6oHy7A
 url: /resources/videos/:slug
 slug: ep-004-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
 canonicalUrl: https://www.youtube.com/watch?v=iCDEX6oHy7A
 aliases:
-- /resources/videos/iCDEX6oHy7A
+ - /resources/videos/iCDEX6oHy7A
+# - /resources/videos/ep-004-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
 preview: https://i.ytimg.com/vi/iCDEX6oHy7A/maxresdefault.jpg
 duration: 5071
-isShort: false
-tags:
-- Agility
-- Product Owner
-- Professional
-- Scrum
-- Scrum Team
+isShort: False
+tags: [Scrum, Agility, Professional, Product Owner, Scrum Team]
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
-
 ---
+
 {{< youtube iCDEX6oHy7A >}}
 
 # Ep 004 - Chat with Jim Sammons on professionalism and conflicting priorities
@@ -34,5 +28,3 @@ Guest Jim Sammons: https://www.scrum.org/jim-sammons
 Martin Hinshelwood: https://nkdagility.com/company/about-martin-hinshelwood/
 
 [Watch on YouTube](https://www.youtube.com/watch?v=iCDEX6oHy7A)
-
-

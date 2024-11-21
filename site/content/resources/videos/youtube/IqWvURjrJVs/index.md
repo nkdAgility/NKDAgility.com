@@ -1,36 +1,22 @@
 ---
-title: Znaczenie znajomości terenu
+title: "Znaczenie znajomości terenu"
 date: 2023-08-10T14:45:00Z
 videoId: IqWvURjrJVs
 url: /resources/videos/:slug
 slug: znaczenie-znajomości-terenu
 canonicalUrl: https://www.youtube.com/watch?v=IqWvURjrJVs
 aliases:
-- /resources/videos/IqWvURjrJVs
+ - /resources/videos/IqWvURjrJVs
+# - /resources/videos/znaczenie-znajomości-terenu
 preview: https://i.ytimg.com/vi/IqWvURjrJVs/maxresdefault.jpg
 duration: 255
-isShort: false
-tags:
-- Agile
-- Agile Leader
-- Agile Leadership
-- Agile product development
-- Agile product management
-- Agile project management
-- Evidence based management
-- PAL
-- PAL-E
-- PAL-EBM
-- Professional Agile Leader
-- Professional Agile Leader Essentials
-- Professional Agile Leader Evidence Based Management
+isShort: False
+tags: [Agile, Agile Leadership, Agile Leader, Professional Agile Leader, Professional Agile Leader Essentials, Professional Agile Leader Evidence Based Management, PAL, PAL-E, PAL-EBM, Evidence based management, Agile project management, Agile product management, Agile product development]
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
-
 ---
+
 {{< youtube IqWvURjrJVs >}}
 
 # Znaczenie znajomości terenu
@@ -52,5 +38,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=IqWvURjrJVs)
-
-

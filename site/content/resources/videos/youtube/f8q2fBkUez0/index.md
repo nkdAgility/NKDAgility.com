@@ -1,23 +1,22 @@
 ---
-title: Should Companies Take Money Off The Table - with Martin , Michael , & Rijon
+title: "Should Companies Take Money Off The Table - with Martin , Michael , & Rijon"
 date: 2024-09-03T03:33:58Z
 videoId: f8q2fBkUez0
 url: /resources/videos/:slug
 slug: should-companies-take-money-off-the-table-with-martin-,-michael-,-&-rijon
 canonicalUrl: https://www.youtube.com/watch?v=f8q2fBkUez0
 aliases:
-- /resources/videos/f8q2fBkUez0
+ - /resources/videos/f8q2fBkUez0
+# - /resources/videos/should-companies-take-money-off-the-table-with-martin-,-michael-,-&-rijon
 preview: https://i.ytimg.com/vi/f8q2fBkUez0/maxresdefault.jpg
 duration: 4859
-isShort: false
-tags: 
+isShort: False
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
-
 ---
+
 {{< youtube f8q2fBkUez0 >}}
 
 # Should Companies Take Money Off The Table - with Martin , Michael , & Rijon
@@ -37,5 +36,3 @@ Our panel of experts will discuss:
 Whether you're a leader, HR professional, or just curious about the future of work, this panel will offer valuable insights into how companies can foster a more motivated and engaged workforce by looking beyond the paycheck.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=f8q2fBkUez0)
-
-

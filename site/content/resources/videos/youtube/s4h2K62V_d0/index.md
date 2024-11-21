@@ -1,33 +1,22 @@
 ---
-title: Shifting Left. Quality from the Start
+title: "Shifting Left. Quality from the Start"
 date: 2024-11-20T07:00:26Z
 videoId: s4h2K62V_d0
 url: /resources/videos/:slug
 slug: shifting-left-quality-from-the-start
 canonicalUrl: https://www.youtube.com/watch?v=s4h2K62V_d0
 aliases:
-- /resources/videos/s4h2K62V_d0
+ - /resources/videos/s4h2K62V_d0
+# - /resources/videos/shifting-left-quality-from-the-start
 preview: https://i.ytimg.com/vi/s4h2K62V_d0/maxresdefault.jpg
 duration: 600
-isShort: false
-tags:
-- Agile
-- Agile product development
-- Agile project management
-- Product development
-- product manager
-- product owner
-- Project management
-- project manager
-- scrum master
-- Software engineering
+isShort: False
+tags: [Agile, Product development, Agile product development, Project management, Agile project management, Software engineering, project manager, product manager, product owner, scrum master]
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
-
 ---
+
 {{< youtube s4h2K62V_d0 >}}
 
 # Shifting Left. Quality from the Start
@@ -74,5 +63,3 @@ Are you ready to embrace modern software engineering practices and unlock your t
 #agile #scrum #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #productdevelopment #projectmanagement #projectmanager #productmanager #developer
 
 [Watch on YouTube](https://www.youtube.com/watch?v=s4h2K62V_d0)
-
-

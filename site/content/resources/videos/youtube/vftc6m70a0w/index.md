@@ -1,46 +1,22 @@
 ---
-title: 7 Virtues of agile. Chastity
+title: "7 Virtues of agile. Chastity"
 date: 2023-12-04T08:39:06Z
 videoId: vftc6m70a0w
 url: /resources/videos/:slug
 slug: 7-virtues-of-agile-chastity
 canonicalUrl: https://www.youtube.com/watch?v=vftc6m70a0w
 aliases:
-- /resources/videos/vftc6m70a0w
+ - /resources/videos/vftc6m70a0w
+# - /resources/videos/7-virtues-of-agile-chastity
 preview: https://i.ytimg.com/vi/vftc6m70a0w/maxresdefault.jpg
 duration: 142
-isShort: false
-tags:
-- Agile
-- agile coach
-- agile consultant
-- agile leadership
-- agile product development
-- agile product management
-- agile project management
-- agile trainer
-- DevOps coach
-- DevOps consultant
-- DevOps engineer
-- leadership.
-- product development
-- product management
-- professional scrum trainer
-- project management
-- Scrum
-- scrum approach
-- scrum certification
-- scrum framework
-- scrum methodology
-- scrum training
-- scrum.org
+isShort: False
+tags: [Agile, Scrum, agile project management, agile product development, agile product management, project management, product development, product management, professional scrum trainer, scrum training, scrum certification, scrum.org, DevOps consultant, DevOps coach, DevOps engineer, agile coach, agile consultant, agile trainer, scrum framework, scrum methodology, scrum approach, agile leadership, leadership.]
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
-
 ---
+
 {{< youtube vftc6m70a0w >}}
 
 # 7 Virtues of agile. Chastity
@@ -72,5 +48,3 @@ Expert Assistance: Learn how our team at Naked Agility can guide you through the
 ✨ Transform your approach to Agile today – Watch now and take the first step towards a more effective and inclusive Agile journey! ✨
 
 [Watch on YouTube](https://www.youtube.com/watch?v=vftc6m70a0w)
-
-

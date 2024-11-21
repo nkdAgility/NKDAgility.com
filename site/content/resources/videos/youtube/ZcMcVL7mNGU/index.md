@@ -1,31 +1,22 @@
 ---
-title: Product Management Mentor Program Final
+title: "Product Management Mentor Program Final"
 date: 2024-05-06T13:29:40Z
 videoId: ZcMcVL7mNGU
 url: /resources/videos/:slug
 slug: product-management-mentor-program-final
 canonicalUrl: https://www.youtube.com/watch?v=ZcMcVL7mNGU
 aliases:
-- /resources/videos/ZcMcVL7mNGU
+ - /resources/videos/ZcMcVL7mNGU
+# - /resources/videos/product-management-mentor-program-final
 preview: https://i.ytimg.com/vi/ZcMcVL7mNGU/maxresdefault.jpg
 duration: 256
-isShort: false
-tags:
-- Agile
-- Agile Product Development
-- Agile Product Management
-- Product Developers
-- Product Development
-- Product Management
-- Product Managers
-- Project managers
+isShort: False
+tags: [Agile, Agile Product Management, Product Management, Product Development, Agile Product Development, Product Managers, Product Developers, Project managers]
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
-
 ---
+
 {{< youtube ZcMcVL7mNGU >}}
 
 # Product Management Mentor Program Final
@@ -43,5 +34,3 @@ Visit https://nkdagility.com/global-consultancy-services/product-management-ment
 #productmanagement #agileproductmanagement #agileproductdevelopment #agiletraining #agilecoaching #agileprojectmanagement
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ZcMcVL7mNGU)
-
-

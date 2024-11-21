@@ -1,23 +1,22 @@
 ---
-title: 5 tools that Scrum Masters love. Part 3
+title: "5 tools that Scrum Masters love. Part 3"
 date: 2023-09-21T07:00:14Z
 videoId: gWTCvlUzSZo
 url: /resources/videos/:slug
 slug: 5-tools-that-scrum-masters-love-part-3
 canonicalUrl: https://www.youtube.com/watch?v=gWTCvlUzSZo
 aliases:
-- /resources/videos/gWTCvlUzSZo
+ - /resources/videos/gWTCvlUzSZo
+# - /resources/videos/5-tools-that-scrum-masters-love-part-3
 preview: https://i.ytimg.com/vi/gWTCvlUzSZo/maxresdefault.jpg
 duration: 45
-isShort: true
-tags: 
+isShort: True
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
-
 ---
+
 {{< youtube gWTCvlUzSZo >}}
 
 # 5 tools that Scrum Masters love. Part 3
@@ -40,5 +39,3 @@ _Sign up for one of our upcoming professional Scrum classes:_ https://nkdagility
 Because you don't just need agility, you need Naked Agility.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=gWTCvlUzSZo)
-
-

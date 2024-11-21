@@ -1,28 +1,22 @@
 ---
-title: Agile Evolution - Live Site Culture & Site Reliability at Azure DevOps
+title: "Agile Evolution - Live Site Culture & Site Reliability at Azure DevOps"
 date: 2020-06-04T02:05:28Z
 videoId: 5bgcpPqcGlw
 url: /resources/videos/:slug
 slug: agile-evolution-live-site-culture-&-site-reliability-at-azure-devops
 canonicalUrl: https://www.youtube.com/watch?v=5bgcpPqcGlw
 aliases:
-- /resources/videos/5bgcpPqcGlw
+ - /resources/videos/5bgcpPqcGlw
+# - /resources/videos/agile-evolution-live-site-culture-&-site-reliability-at-azure-devops
 preview: https://i.ytimg.com/vi/5bgcpPqcGlw/maxresdefault.jpg
 duration: 3386
-isShort: false
-tags:
-- Agile Evolution
-- Agility
-- Live Site Culture
-- Site Reliability
-- SRE
+isShort: False
+tags: [Agility, SRE, Site Reliability, Live Site Culture, Agile Evolution]
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
-
 ---
+
 {{< youtube 5bgcpPqcGlw >}}
 
 # Agile Evolution - Live Site Culture & Site Reliability at Azure DevOps
@@ -34,5 +28,3 @@ With the shift-left movement pushing more responsibility to the engineering team
 Techorama BE: https://techorama.be/speakers/session/agile-evolution-live-site-culture-site-reliability-at-azure-devops/
 
 [Watch on YouTube](https://www.youtube.com/watch?v=5bgcpPqcGlw)
-
-

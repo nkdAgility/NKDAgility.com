@@ -1,46 +1,22 @@
 ---
-title: 5 kinds of Agile bandits. Planning Bandits
+title: "5 kinds of Agile bandits. Planning Bandits"
 date: 2024-01-09T07:00:05Z
 videoId: BtHASX2lgGo
 url: /resources/videos/:slug
 slug: 5-kinds-of-agile-bandits-planning-bandits
 canonicalUrl: https://www.youtube.com/watch?v=BtHASX2lgGo
 aliases:
-- /resources/videos/BtHASX2lgGo
+ - /resources/videos/BtHASX2lgGo
+# - /resources/videos/5-kinds-of-agile-bandits-planning-bandits
 preview: https://i.ytimg.com/vi/BtHASX2lgGo/maxresdefault.jpg
 duration: 324
-isShort: false
-tags:
-- Agile
-- agile coach
-- agile consultant
-- agile leadership
-- agile product development
-- agile product management
-- agile project management
-- agile trainer
-- DevOps coach
-- DevOps consultant
-- DevOps engineer
-- leadership.
-- product development
-- product management
-- professional scrum trainer
-- project management
-- Scrum
-- scrum approach
-- scrum certification
-- scrum framework
-- scrum methodology
-- scrum training
-- scrum.org
+isShort: False
+tags: [Agile, Scrum, agile project management, agile product development, agile product management, project management, product development, product management, professional scrum trainer, scrum training, scrum certification, scrum.org, DevOps consultant, DevOps coach, DevOps engineer, agile coach, agile consultant, agile trainer, scrum framework, scrum methodology, scrum approach, agile leadership, leadership.]
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
-
 ---
+
 {{< youtube BtHASX2lgGo >}}
 
 # 5 kinds of Agile bandits. Planning Bandits
@@ -72,5 +48,3 @@ Because you don't just need agility, you need Naked Agility.
 #Sprint, #ScrumTeam, #SprintPlanning, #ContinuousImprovement, #ProductBacklog
 
 [Watch on YouTube](https://www.youtube.com/watch?v=BtHASX2lgGo)
-
-

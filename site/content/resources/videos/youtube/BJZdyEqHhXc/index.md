@@ -1,28 +1,22 @@
 ---
-title: NKD Agility Consulting Approach
+title: "NKD Agility Consulting Approach"
 date: 2024-05-09T06:45:00Z
 videoId: BJZdyEqHhXc
 url: /resources/videos/:slug
 slug: nkd-agility-consulting-approach
 canonicalUrl: https://www.youtube.com/watch?v=BJZdyEqHhXc
 aliases:
-- /resources/videos/BJZdyEqHhXc
+ - /resources/videos/BJZdyEqHhXc
+# - /resources/videos/nkd-agility-consulting-approach
 preview: https://i.ytimg.com/vi/BJZdyEqHhXc/maxresdefault.jpg
 duration: 271
-isShort: false
-tags:
-- Agile
-- Agile coaching
-- Agile consulting
-- Agile consulting approach
-- Agile consulting philosophy
+isShort: False
+tags: [Agile, Agile consulting, Agile coaching, Agile consulting philosophy, Agile consulting approach]
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
-
 ---
+
 {{< youtube BJZdyEqHhXc >}}
 
 # NKD Agility Consulting Approach
@@ -34,5 +28,3 @@ It can be tough to know what you're getting, how that will help you, and what ki
 Visit https://www.nkdagility.com for more insights into our agile coaching, agile consulting, and agile training services.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=BJZdyEqHhXc)
-
-

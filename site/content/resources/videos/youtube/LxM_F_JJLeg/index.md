@@ -1,30 +1,22 @@
 ---
-title: Don’t put down to malevolence what can be explained by incompetence
+title: "Don’t put down to malevolence what can be explained by incompetence"
 date: 2023-09-29T07:00:14Z
 videoId: LxM_F_JJLeg
 url: /resources/videos/:slug
 slug: don’t-put-down-to-malevolence-what-can-be-explained-by-incompetence
 canonicalUrl: https://www.youtube.com/watch?v=LxM_F_JJLeg
 aliases:
-- /resources/videos/LxM_F_JJLeg
+ - /resources/videos/LxM_F_JJLeg
+# - /resources/videos/don’t-put-down-to-malevolence-what-can-be-explained-by-incompetence
 preview: https://i.ytimg.com/vi/LxM_F_JJLeg/maxresdefault.jpg
 duration: 338
-isShort: false
-tags:
-- Agile
-- Agile coaching
-- Agile consulting
-- Agile leadership
-- Agile problem solving
-- Agile product development
-- Agile project management
+isShort: False
+tags: [Agile, Agile leadership, Agile consulting, Agile coaching, Agile project management, Agile problem solving, Agile product development]
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
-
 ---
+
 {{< youtube LxM_F_JJLeg >}}
 
 # Don’t put down to malevolence what can be explained by incompetence
@@ -49,5 +41,3 @@ _Sign up for one of our upcoming professional Scrum classes:_ https://nkdagility
 Because you don't just need agility, you need Naked Agility.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=LxM_F_JJLeg)
-
-

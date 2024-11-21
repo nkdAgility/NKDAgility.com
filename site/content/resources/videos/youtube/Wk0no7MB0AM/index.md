@@ -1,49 +1,22 @@
 ---
-title: War! 7 Harbingers agile apocalypse. But shorter!
+title: "War! 7 Harbingers agile apocalypse. But shorter!"
 date: 2023-10-30T14:30:10Z
 videoId: Wk0no7MB0AM
 url: /resources/videos/:slug
 slug: war!-7-harbingers-agile-apocalypse-but-shorter!
 canonicalUrl: https://www.youtube.com/watch?v=Wk0no7MB0AM
 aliases:
-- /resources/videos/Wk0no7MB0AM
+ - /resources/videos/Wk0no7MB0AM
+# - /resources/videos/war!-7-harbingers-agile-apocalypse-but-shorter!
 preview: https://i.ytimg.com/vi/Wk0no7MB0AM/maxresdefault.jpg
 duration: 59
-isShort: true
-tags:
-- 7 signs
-- Agile
-- agile coach
-- agile consultant
-- agile leadership
-- agile product development
-- agile product management
-- agile project management
-- agile trainer
-- agile-apocalypse
-- agile-pocalypse
-- DevOps coach
-- DevOps consultant
-- DevOps engineer
-- leadership.
-- product development
-- product management
-- professional scrum trainer
-- project management
-- Scrum
-- scrum approach
-- scrum certification
-- scrum framework
-- scrum methodology
-- scrum training
-- scrum.org
+isShort: True
+tags: [Agile, Scrum, agile project management, agile product development, agile product management, project management, product development, product management, professional scrum trainer, scrum training, scrum certification, scrum.org, DevOps consultant, DevOps coach, DevOps engineer, agile coach, agile consultant, agile trainer, scrum framework, scrum methodology, scrum approach, agile leadership, leadership., 7 signs, agile-pocalypse, agile-apocalypse]
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
-
 ---
+
 {{< youtube Wk0no7MB0AM >}}
 
 # War! 7 Harbingers agile apocalypse. But shorter!
@@ -86,5 +59,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Wk0no7MB0AM)
-
-

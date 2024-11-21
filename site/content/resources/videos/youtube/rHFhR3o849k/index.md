@@ -1,28 +1,22 @@
 ---
-title: What makes a truly great scrum master?
+title: "What makes a truly great scrum master?"
 date: 2023-03-13T07:00:19Z
 videoId: rHFhR3o849k
 url: /resources/videos/:slug
 slug: what-makes-a-truly-great-scrum-master-
 canonicalUrl: https://www.youtube.com/watch?v=rHFhR3o849k
 aliases:
-- /resources/videos/rHFhR3o849k
+ - /resources/videos/rHFhR3o849k
+# - /resources/videos/what-makes-a-truly-great-scrum-master-
 preview: https://i.ytimg.com/vi/rHFhR3o849k/maxresdefault.jpg
 duration: 237
-isShort: false
-tags:
-- Agile
-- Agile Product Development
-- Scrum
-- Scrum Master
-- Scrum Master traits and characteristics
+isShort: False
+tags: [Scrum, Scrum Master, Agile, Agile Product Development, Scrum Master traits and characteristics]
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
-
 ---
+
 {{< youtube rHFhR3o849k >}}
 
 # What makes a truly great scrum master?
@@ -47,5 +41,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=rHFhR3o849k)
-
-

@@ -1,28 +1,22 @@
 ---
-title: Does a client tell an agile consultant what they need or does it work the other way around?
+title: "Does a client tell an agile consultant what they need or does it work the other way around?"
 date: 2023-03-01T07:00:00Z
 videoId: -Mz9cH0uiTQ
 url: /resources/videos/:slug
 slug: does-a-client-tell-an-agile-consultant-what-they-need-or-does-it-work-the-other-way-around-
 canonicalUrl: https://www.youtube.com/watch?v=-Mz9cH0uiTQ
 aliases:
-- /resources/videos/-Mz9cH0uiTQ
+ - /resources/videos/-Mz9cH0uiTQ
+# - /resources/videos/does-a-client-tell-an-agile-consultant-what-they-need-or-does-it-work-the-other-way-around-
 preview: https://i.ytimg.com/vi/-Mz9cH0uiTQ/maxresdefault.jpg
 duration: 351
-isShort: false
-tags:
-- Agile
-- Agile Adoption
-- Agile Consultant
-- Agile Consulting
-- Agile Transformation
+isShort: False
+tags: [Agile, Agile Consulting, Agile Consultant, Agile Transformation, Agile Adoption]
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
-
 ---
+
 {{< youtube -Mz9cH0uiTQ >}}
 
 # Does a client tell an agile consultant what they need or does it work the other way around?
@@ -48,5 +42,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=-Mz9cH0uiTQ)
-
-

@@ -1,46 +1,22 @@
 ---
-title: ' shorts 5 things you would teach a produtowner apprentice. Part 5'
+title: " shorts 5 things you would teach a produtowner apprentice. Part 5"
 date: 2023-12-19T11:00:00Z
 videoId: -T1e8hjLt24
 url: /resources/videos/:slug
 slug: -shorts-5-things-you-would-teach-a-produtowner-apprentice-part-5
 canonicalUrl: https://www.youtube.com/watch?v=-T1e8hjLt24
 aliases:
-- /resources/videos/-T1e8hjLt24
+ - /resources/videos/-T1e8hjLt24
+# - /resources/videos/-shorts-5-things-you-would-teach-a-produtowner-apprentice-part-5
 preview: https://i.ytimg.com/vi/-T1e8hjLt24/maxresdefault.jpg
 duration: 58
-isShort: true
-tags:
-- Agile
-- agile coach
-- agile consultant
-- agile leadership
-- agile product development
-- agile product management
-- agile project management
-- agile trainer
-- DevOps coach
-- DevOps consultant
-- DevOps engineer
-- leadership.
-- product development
-- product management
-- professional scrum trainer
-- project management
-- Scrum
-- scrum approach
-- scrum certification
-- scrum framework
-- scrum methodology
-- scrum training
-- scrum.org
+isShort: True
+tags: [Agile, Scrum, agile project management, agile product development, agile product management, project management, product development, product management, professional scrum trainer, scrum training, scrum certification, scrum.org, DevOps consultant, DevOps coach, DevOps engineer, agile coach, agile consultant, agile trainer, scrum framework, scrum methodology, scrum approach, agile leadership, leadership.]
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
-
 ---
+
 {{< youtube -T1e8hjLt24 >}}
 
 #  shorts 5 things you would teach a produtowner apprentice. Part 5
@@ -50,5 +26,3 @@ resourceTypes:
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=-T1e8hjLt24)
-
-

@@ -1,23 +1,22 @@
 ---
-title: Professional Scrum Product Owner (PSPO) - Discover product management skills & practices
+title: "Professional Scrum Product Owner (PSPO) - Discover product management skills & practices"
 date: 2022-08-23T17:22:20Z
 videoId: 6SSgETsq8IQ
 url: /resources/videos/:slug
 slug: professional-scrum-product-owner-(pspo)-discover-product-management-skills-&-practices
 canonicalUrl: https://www.youtube.com/watch?v=6SSgETsq8IQ
 aliases:
-- /resources/videos/6SSgETsq8IQ
+ - /resources/videos/6SSgETsq8IQ
+# - /resources/videos/professional-scrum-product-owner-(pspo)-discover-product-management-skills-&-practices
 preview: https://i.ytimg.com/vi/6SSgETsq8IQ/maxresdefault.jpg
 duration: 137
-isShort: false
-tags: 
+isShort: False
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
-
 ---
+
 {{< youtube 6SSgETsq8IQ >}}
 
 # Professional Scrum Product Owner (PSPO) - Discover product management skills & practices
@@ -33,5 +32,3 @@ After the conclusion of the class, we provide access to a community of peers and
 As part of our validated learning experience, we provide a 30-minute learning review, a one-hour coaching session, and access to future courses at a 30% discount on future classes.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=6SSgETsq8IQ)
-
-

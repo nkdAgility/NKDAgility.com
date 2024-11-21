@@ -1,31 +1,22 @@
 ---
-title: Sloth! 7 deadly sins of Agile.
+title: "Sloth! 7 deadly sins of Agile."
 date: 2023-10-20T16:01:48Z
 videoId: uCFIW_lEFuc
 url: /resources/videos/:slug
 slug: sloth!-7-deadly-sins-of-agile-
 canonicalUrl: https://www.youtube.com/watch?v=uCFIW_lEFuc
 aliases:
-- /resources/videos/uCFIW_lEFuc
+ - /resources/videos/uCFIW_lEFuc
+# - /resources/videos/sloth!-7-deadly-sins-of-agile-
 preview: https://i.ytimg.com/vi/uCFIW_lEFuc/maxresdefault.jpg
 duration: 498
-isShort: false
-tags:
-- 7 deadly sins
-- Agile
-- Agile product development
-- Agile product management
-- Agile project management
-- Agile sins
-- Business Agility
-- Sloth
+isShort: False
+tags: [Agile, 7 deadly sins, Sloth, Agile project management, Agile product management, Agile product development, Business Agility, Agile sins]
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
-
 ---
+
 {{< youtube uCFIW_lEFuc >}}
 
 # Sloth! 7 deadly sins of Agile.
@@ -64,5 +55,3 @@ For those struggling to implement Agile principles or align their actions with i
 #agile #sloth #agileprinciples #nkdagility #scrum #teams #organisations #leadership #transparency
 
 [Watch on YouTube](https://www.youtube.com/watch?v=uCFIW_lEFuc)
-
-

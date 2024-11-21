@@ -1,27 +1,22 @@
 ---
-title: 25th March 2020 - Office Hours  Ask me Anything
+title: "25th March 2020 - Office Hours \ Ask me Anything"
 date: 2020-03-25T16:17:15Z
 videoId: OCJuDfc-gnc
 url: /resources/videos/:slug
 slug: 25th-march-2020-office-hours-ask-me-anything
 canonicalUrl: https://www.youtube.com/watch?v=OCJuDfc-gnc
 aliases:
-- /resources/videos/OCJuDfc-gnc
+ - /resources/videos/OCJuDfc-gnc
+# - /resources/videos/25th-march-2020-office-hours-ask-me-anything
 preview: https://i.ytimg.com/vi/OCJuDfc-gnc/maxresdefault.jpg
 duration: 592
-isShort: false
-tags:
-- Agile
-- DevOps
-- Kanban
-- Scrum
+isShort: False
+tags: [Agile, Scrum, DevOps, Kanban]
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
-
 ---
+
 {{< youtube OCJuDfc-gnc >}}
 
 # 25th March 2020 - Office Hours \ Ask me Anything
@@ -33,5 +28,3 @@ We recommend joining on Youtube as there is less delay: https://www.youtube.com/
 If you have a sensitive question that you want to be answered but don’t want to ask publicly do so on https://nkdagility.net/ask
 
 [Watch on YouTube](https://www.youtube.com/watch?v=OCJuDfc-gnc)
-
-

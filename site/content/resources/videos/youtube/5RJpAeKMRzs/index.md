@@ -1,23 +1,22 @@
 ---
-title: The 7 Deadly Sins of Agile!
+title: "The 7 Deadly Sins of Agile!"
 date: 2024-04-14T12:17:16Z
 videoId: 5RJpAeKMRzs
 url: /resources/videos/:slug
 slug: the-7-deadly-sins-of-agile!
 canonicalUrl: https://www.youtube.com/watch?v=5RJpAeKMRzs
 aliases:
-- /resources/videos/5RJpAeKMRzs
+ - /resources/videos/5RJpAeKMRzs
+# - /resources/videos/the-7-deadly-sins-of-agile!
 preview: https://i.ytimg.com/vi/5RJpAeKMRzs/maxresdefault.jpg
 duration: 2299
-isShort: false
-tags: 
+isShort: False
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
-
 ---
+
 {{< youtube 5RJpAeKMRzs >}}
 
 # The 7 Deadly Sins of Agile!
@@ -47,5 +46,3 @@ Sign up for one of our upcoming professional Scrum classes: https://nkdagility.c
 NNWTECIQ9X
 
 [Watch on YouTube](https://www.youtube.com/watch?v=5RJpAeKMRzs)
-
-

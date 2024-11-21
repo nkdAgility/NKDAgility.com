@@ -1,32 +1,22 @@
 ---
-title: The Kanban Key - How Continuous Improvement Transforms Your Workflow
+title: "The Kanban Key - How Continuous Improvement Transforms Your Workflow"
 date: 2024-08-19T06:45:02Z
 videoId: hBw4ouNB1U0
 url: /resources/videos/:slug
 slug: the-kanban-key-how-continuous-improvement-transforms-your-workflow
 canonicalUrl: https://www.youtube.com/watch?v=hBw4ouNB1U0
 aliases:
-- /resources/videos/hBw4ouNB1U0
+ - /resources/videos/hBw4ouNB1U0
+# - /resources/videos/the-kanban-key-how-continuous-improvement-transforms-your-workflow
 preview: https://i.ytimg.com/vi/hBw4ouNB1U0/maxresdefault.jpg
 duration: 50
-isShort: true
-tags:
-- Agile
-- Agile framework
-- Agile product development
-- Agile project management
-- Kanban
-- Kanban coach
-- Kanban consultant
-- Kanban courses
-- Kanban training
+isShort: True
+tags: [Kanban, Kanban training, Kanban courses, Kanban coach, Kanban consultant, Agile, Agile framework, Agile project management, Agile product development]
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
-
 ---
+
 {{< youtube hBw4ouNB1U0 >}}
 
 # The Kanban Key - How Continuous Improvement Transforms Your Workflow
@@ -50,5 +40,3 @@ Don't settle for a static workflow. Embrace the power of Kanban's continuous imp
 Visit https://www.nkdagility.com for more information on Kanban training and Kanban coaching / consulting to help you optimize your Kanban adoption
 
 [Watch on YouTube](https://www.youtube.com/watch?v=hBw4ouNB1U0)
-
-

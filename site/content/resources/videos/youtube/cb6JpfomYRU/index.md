@@ -1,32 +1,22 @@
 ---
-title: How much of a competitive edge will the immersive PSM course deliver to delegates?
+title: "How much of a competitive edge will the immersive PSM course deliver to delegates?"
 date: 2023-07-13T07:41:01Z
 videoId: cb6JpfomYRU
 url: /resources/videos/:slug
 slug: how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates-
 canonicalUrl: https://www.youtube.com/watch?v=cb6JpfomYRU
 aliases:
-- /resources/videos/cb6JpfomYRU
+ - /resources/videos/cb6JpfomYRU
+# - /resources/videos/how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates-
 preview: https://i.ytimg.com/vi/cb6JpfomYRU/maxresdefault.jpg
 duration: 353
-isShort: false
-tags:
-- Immersive Learning Experience
-- Immersive Professional Scrum Master Certification
-- Immersive Professional Scrum Master course
-- Immersive PSM course
-- Immersive Scrum Course
-- Scrum
-- Scrum Certification
-- Scrum Courses
-- Scrum.Org
+isShort: False
+tags: [Scrum, Scrum Courses, Scrum.Org, Scrum Certification, Immersive Learning Experience, Immersive Scrum Course, Immersive PSM course, Immersive Professional Scrum Master course, Immersive Professional Scrum Master Certification]
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
-
 ---
+
 {{< youtube cb6JpfomYRU >}}
 
 # How much of a competitive edge will the immersive PSM course deliver to delegates?
@@ -50,5 +40,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=cb6JpfomYRU)
-
-

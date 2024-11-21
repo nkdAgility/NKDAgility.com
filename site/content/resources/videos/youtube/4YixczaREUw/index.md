@@ -1,23 +1,22 @@
 ---
-title: Many folks say Scrum is like communism; it does not work! Are they right?
+title: "Many folks say Scrum is like communism; it does not work! Are they right?"
 date: 2024-05-06T14:12:53Z
 videoId: 4YixczaREUw
 url: /resources/videos/:slug
 slug: many-folks-say-scrum-is-like-communism;-it-does-not-work!-are-they-right-
 canonicalUrl: https://www.youtube.com/watch?v=4YixczaREUw
 aliases:
-- /resources/videos/4YixczaREUw
+ - /resources/videos/4YixczaREUw
+# - /resources/videos/many-folks-say-scrum-is-like-communism;-it-does-not-work!-are-they-right-
 preview: https://i.ytimg.com/vi/4YixczaREUw/maxresdefault.jpg
 duration: 1373
-isShort: false
-tags: 
+isShort: False
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-resourceTypes:
-- video
-
 ---
+
 {{< youtube 4YixczaREUw >}}
 
 # Many folks say Scrum is like communism; it does not work! Are they right?
@@ -49,5 +48,3 @@ Sign up for one of our upcoming professional Scrum classes: https://nkdagility.c
 Music from the Red Alert - The Music Album: the best and the most well-known song, Hell March.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=4YixczaREUw)
-
-
