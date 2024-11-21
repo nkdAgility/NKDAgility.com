@@ -44,7 +44,6 @@ function Get-NewMarkdownContents {
     if ($videoSnippet.tags) {
         $tags = $videoSnippet.tags | Where-Object { -not ($excludedTags -contains $_.ToLower()) }
     }
-    $tagsString = $tags -join ", "
 
     # Create an ordered hash for the front matter
     $frontMatter = [ordered]@{
@@ -54,16 +53,16 @@ function Get-NewMarkdownContents {
         url          = "/resources/videos/:slug"
         slug         = $urlSafeTitle
         canonicalUrl = $externalUrl
-        aliases      = @("/resources/videos/$videoId")
+        aliases      = @("/resources/videos/$videoId", "/resources/videos/$urlSafeTitle")
         preview      = $thumbnailUrl
         duration     = $durationInSeconds
         isShort      = $isShort
-        tags         = "[$tagsString]"
+        tags         = $tags
         sitemap      = @{ filename = "sitemap.xml"; priority = 0.4 }
     }
 
     # Convert ordered hash to YAML front matter
-    $frontMatterYaml = "---`n" + ($frontMatter.GetEnumerator() | ForEach-Object { "$_" }) -join "`n" + "`n---`
+    $frontMatterYaml = "---`n" + ($frontMatter | ConvertTo-Yaml) + "`n---`
 "
 
     # Return the markdown content with front matter and content
