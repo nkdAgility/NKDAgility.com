@@ -1,34 +1,5 @@
 ---
-title: Connecting Release Manageer to TFS 2013
-date: 2014-01-02T15:27:09Z
-videoId: 9CkvfRic8e0
-url: /resources/videos/:slug
-slug: connecting-release-manageer-to-tfs-2013
-canonicalUrl: https://www.youtube.com/watch?v=9CkvfRic8e0
-aliases:
-- /resources/videos/9CkvfRic8e0
-- /resources/videos/connecting-release-manageer-to-tfs-2013
-preview: https://i.ytimg.com/vi/9CkvfRic8e0/maxresdefault.jpg
-duration: 141
-isShort: false
-tags:
-- TFS
-- TFS 2013
-- VSALM
-- Team Foundation Server
-- Release Management Client for Visual Studio 2013
-- Visual Studio 2013
-- InRelease
-- Install
-- Release Management
-- Release Management Server
-- Install & Configure 101
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Connecting Release Manageer to TFS 2013] [date, 2014-01-02T15:27:09Z] [videoId, 9CkvfRic8e0] [url, /resources/videos/:slug] [slug, connecting-release-manageer-to-tfs-2013] [canonicalUrl, https://www.youtube.com/watch?v=9CkvfRic8e0] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/9CkvfRic8e0/maxresdefault.jpg] [duration, 141] [isShort, False] [tags, [TFS, TFS 2013, VSALM, Team Foundation Server, Release Management Client for Visual Studio 2013, Visual Studio 2013, InRelease, Install, Release Management, Release Management Server, Install & Configure 101]] [sitemap, System.Collections.Hashtable]
 {{< youtube 9CkvfRic8e0 >}}
 
 # Connecting Release Manageer to TFS 2013

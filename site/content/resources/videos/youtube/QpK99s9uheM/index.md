@@ -1,30 +1,5 @@
 ---
-title: Is a scrum master an agile project manager?
-date: 2023-05-24T07:00:23Z
-videoId: QpK99s9uheM
-url: /resources/videos/:slug
-slug: is-a-scrum-master-an-agile-project-manager-
-canonicalUrl: https://www.youtube.com/watch?v=QpK99s9uheM
-aliases:
-- /resources/videos/QpK99s9uheM
-- /resources/videos/is-a-scrum-master-an-agile-project-manager-
-preview: https://i.ytimg.com/vi/QpK99s9uheM/maxresdefault.jpg
-duration: 48
-isShort: true
-tags:
-- Scrum Master
-- ScrumMaster
-- Project Manager
-- Agile Project Manager
-- Scrum
-- Agile
-- Agile Project Management
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Is a scrum master an agile project manager?] [date, 2023-05-24T07:00:23Z] [videoId, QpK99s9uheM] [url, /resources/videos/:slug] [slug, is-a-scrum-master-an-agile-project-manager-] [canonicalUrl, https://www.youtube.com/watch?v=QpK99s9uheM] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/QpK99s9uheM/maxresdefault.jpg] [duration, 48] [isShort, True] [tags, [Scrum Master, ScrumMaster, Project Manager, Agile Project Manager, Scrum, Agile, Agile Project Management]] [sitemap, System.Collections.Hashtable]
 {{< youtube QpK99s9uheM >}}
 
 # Is a scrum master an agile project manager?

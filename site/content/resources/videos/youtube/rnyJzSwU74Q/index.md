@@ -1,23 +1,5 @@
 ---
-title: Traditional vs Empirical! Whats the difference? Agile faces off agianst waterfall!
-date: 2022-10-12T17:08:59Z
-videoId: rnyJzSwU74Q
-url: /resources/videos/:slug
-slug: traditional-vs-empirical!-whats-the-difference-agile-faces-off-agianst-waterfall!
-canonicalUrl: https://www.youtube.com/watch?v=rnyJzSwU74Q
-aliases:
-- /resources/videos/rnyJzSwU74Q
-- /resources/videos/traditional-vs-empirical!-whats-the-difference-agile-faces-off-agianst-waterfall!
-preview: https://i.ytimg.com/vi/rnyJzSwU74Q/maxresdefault.jpg
-duration: 866
-isShort: false
-tags: []
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Traditional vs Empirical! Whats the difference? Agile faces off agianst waterfall!] [date, 2022-10-12T17:08:59Z] [videoId, rnyJzSwU74Q] [url, /resources/videos/:slug] [slug, traditional-vs-empirical!-whats-the-difference-agile-faces-off-agianst-waterfall!] [canonicalUrl, https://www.youtube.com/watch?v=rnyJzSwU74Q] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/rnyJzSwU74Q/maxresdefault.jpg] [duration, 866] [isShort, False] [tags, []] [sitemap, System.Collections.Hashtable]
 {{< youtube rnyJzSwU74Q >}}
 
 # Traditional vs Empirical! Whats the difference? Agile faces off agianst waterfall!

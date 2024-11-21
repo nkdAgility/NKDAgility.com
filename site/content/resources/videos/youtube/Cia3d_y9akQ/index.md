@@ -1,32 +1,5 @@
 ---
-title: What are some of the most common misconceptions you encounter about the Scrum Master role?
-date: 2024-10-25T07:02:17Z
-videoId: Cia3d_y9akQ
-url: /resources/videos/:slug
-slug: what-are-some-of-the-most-common-misconceptions-you-encounter-about-the-scrum-master-role-
-canonicalUrl: https://www.youtube.com/watch?v=Cia3d_y9akQ
-aliases:
-- /resources/videos/Cia3d_y9akQ
-- /resources/videos/what-are-some-of-the-most-common-misconceptions-you-encounter-about-the-scrum-master-role-
-preview: https://i.ytimg.com/vi/Cia3d_y9akQ/maxresdefault.jpg
-duration: 639
-isShort: false
-tags:
-- Scrum
-- Scrum training
-- Product development
-- Project management
-- Project manager
-- Agile project management
-- Agile product development
-- Product Management
-- Agile product management
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, What are some of the most common misconceptions you encounter about the Scrum Master role?] [date, 2024-10-25T07:02:17Z] [videoId, Cia3d_y9akQ] [url, /resources/videos/:slug] [slug, what-are-some-of-the-most-common-misconceptions-you-encounter-about-the-scrum-master-role-] [canonicalUrl, https://www.youtube.com/watch?v=Cia3d_y9akQ] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/Cia3d_y9akQ/maxresdefault.jpg] [duration, 639] [isShort, False] [tags, [Scrum, Scrum training, Product development, Project management, Project manager, Agile project management, Agile product development, Product Management, Agile product management]] [sitemap, System.Collections.Hashtable]
 {{< youtube Cia3d_y9akQ >}}
 
 # What are some of the most common misconceptions you encounter about the Scrum Master role?

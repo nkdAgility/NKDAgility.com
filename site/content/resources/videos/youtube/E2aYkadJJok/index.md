@@ -1,26 +1,5 @@
 ---
-title: Kanban Boards for Campaign Success - The Ultimate Guide to Visualizing Your Workflow
-date: 2024-07-08T06:00:07Z
-videoId: E2aYkadJJok
-url: /resources/videos/:slug
-slug: kanban-boards-for-campaign-success-the-ultimate-guide-to-visualizing-your-workflow
-canonicalUrl: https://www.youtube.com/watch?v=E2aYkadJJok
-aliases:
-- /resources/videos/E2aYkadJJok
-- /resources/videos/kanban-boards-for-campaign-success-the-ultimate-guide-to-visualizing-your-workflow
-preview: https://i.ytimg.com/vi/E2aYkadJJok/maxresdefault.jpg
-duration: 57
-isShort: true
-tags:
-- Kanban
-- Kanban training
-- Kanban coaching
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Kanban Boards for Campaign Success - The Ultimate Guide to Visualizing Your Workflow] [date, 2024-07-08T06:00:07Z] [videoId, E2aYkadJJok] [url, /resources/videos/:slug] [slug, kanban-boards-for-campaign-success-the-ultimate-guide-to-visualizing-your-workflow] [canonicalUrl, https://www.youtube.com/watch?v=E2aYkadJJok] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/E2aYkadJJok/maxresdefault.jpg] [duration, 57] [isShort, True] [tags, [Kanban, Kanban training, Kanban coaching]] [sitemap, System.Collections.Hashtable]
 {{< youtube E2aYkadJJok >}}
 
 # Kanban Boards for Campaign Success - The Ultimate Guide to Visualizing Your Workflow

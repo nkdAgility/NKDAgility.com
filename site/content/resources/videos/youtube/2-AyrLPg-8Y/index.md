@@ -1,46 +1,5 @@
 ---
-title: Why is training such a critical element in a manager or leader journey?
-date: 2023-11-29T11:00:03Z
-videoId: 2-AyrLPg-8Y
-url: /resources/videos/:slug
-slug: why-is-training-such-a-critical-element-in-a-manager-or-leader-journey-
-canonicalUrl: https://www.youtube.com/watch?v=2-AyrLPg-8Y
-aliases:
-- /resources/videos/2-AyrLPg-8Y
-- /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leader-journey-
-preview: https://i.ytimg.com/vi/2-AyrLPg-8Y/maxresdefault.jpg
-duration: 17
-isShort: true
-tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Why is training such a critical element in a manager or leader journey?] [date, 2023-11-29T11:00:03Z] [videoId, 2-AyrLPg-8Y] [url, /resources/videos/:slug] [slug, why-is-training-such-a-critical-element-in-a-manager-or-leader-journey-] [canonicalUrl, https://www.youtube.com/watch?v=2-AyrLPg-8Y] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/2-AyrLPg-8Y/maxresdefault.jpg] [duration, 17] [isShort, True] [tags, [Agile, Scrum, agile project management, agile product development, agile product management, project management, product development, product management, professional scrum trainer, scrum training, scrum certification, scrum.org, DevOps consultant, DevOps coach, DevOps engineer, agile coach, agile consultant, agile trainer, scrum framework, scrum methodology, scrum approach, agile leadership, leadership.]] [sitemap, System.Collections.Hashtable]
 {{< youtube 2-AyrLPg-8Y >}}
 
 # Why is training such a critical element in a manager or leader journey?

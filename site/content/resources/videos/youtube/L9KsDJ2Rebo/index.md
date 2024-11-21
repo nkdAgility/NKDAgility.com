@@ -1,33 +1,5 @@
 ---
-title: What excites you most about the PSM immersive learning journey for delegates?
-date: 2023-07-13T07:45:48Z
-videoId: L9KsDJ2Rebo
-url: /resources/videos/:slug
-slug: what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-
-canonicalUrl: https://www.youtube.com/watch?v=L9KsDJ2Rebo
-aliases:
-- /resources/videos/L9KsDJ2Rebo
-- /resources/videos/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-
-preview: https://i.ytimg.com/vi/L9KsDJ2Rebo/maxresdefault.jpg
-duration: 84
-isShort: false
-tags:
-- Scrum
-- Scrum Course
-- Scrum Training
-- Scrum Certificaiton
-- PSM
-- PSM course
-- Professional Scrum Master
-- Professional Scrum Master course
-- Immersive Learning PSM course
-- Immersive Learning Professional Scrum Master course
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, What excites you most about the PSM immersive learning journey for delegates?] [date, 2023-07-13T07:45:48Z] [videoId, L9KsDJ2Rebo] [url, /resources/videos/:slug] [slug, what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-] [canonicalUrl, https://www.youtube.com/watch?v=L9KsDJ2Rebo] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/L9KsDJ2Rebo/maxresdefault.jpg] [duration, 84] [isShort, False] [tags, [Scrum, Scrum Course, Scrum Training, Scrum Certificaiton, PSM, PSM course, Professional Scrum Master, Professional Scrum Master course, Immersive Learning PSM course, Immersive Learning Professional Scrum Master course]] [sitemap, System.Collections.Hashtable]
 {{< youtube L9KsDJ2Rebo >}}
 
 # What excites you most about the PSM immersive learning journey for delegates?

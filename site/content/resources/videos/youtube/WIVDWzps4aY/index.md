@@ -1,31 +1,5 @@
 ---
-title: Favourite scrum course to teach and why?
-date: 2023-09-05T07:00:12Z
-videoId: WIVDWzps4aY
-url: /resources/videos/:slug
-slug: favourite-scrum-course-to-teach-and-why-
-canonicalUrl: https://www.youtube.com/watch?v=WIVDWzps4aY
-aliases:
-- /resources/videos/WIVDWzps4aY
-- /resources/videos/favourite-scrum-course-to-teach-and-why-
-preview: https://i.ytimg.com/vi/WIVDWzps4aY/maxresdefault.jpg
-duration: 24
-isShort: true
-tags:
-- Scrum
-- Scrum course
-- Scrum training
-- Scrum.Org
-- Scrum certification
-- Professional Scrum Trainer
-- PST
-- professional Scrum training
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Favourite scrum course to teach and why?] [date, 2023-09-05T07:00:12Z] [videoId, WIVDWzps4aY] [url, /resources/videos/:slug] [slug, favourite-scrum-course-to-teach-and-why-] [canonicalUrl, https://www.youtube.com/watch?v=WIVDWzps4aY] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/WIVDWzps4aY/maxresdefault.jpg] [duration, 24] [isShort, True] [tags, [Scrum, Scrum course, Scrum training, Scrum.Org, Scrum certification, Professional Scrum Trainer, PST, professional Scrum training]] [sitemap, System.Collections.Hashtable]
 {{< youtube WIVDWzps4aY >}}
 
 # Favourite scrum course to teach and why?

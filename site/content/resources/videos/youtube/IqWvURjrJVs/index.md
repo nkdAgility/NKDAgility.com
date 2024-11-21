@@ -1,36 +1,5 @@
 ---
-title: Znaczenie znajomości terenu
-date: 2023-08-10T14:45:00Z
-videoId: IqWvURjrJVs
-url: /resources/videos/:slug
-slug: znaczenie-znajomości-terenu
-canonicalUrl: https://www.youtube.com/watch?v=IqWvURjrJVs
-aliases:
-- /resources/videos/IqWvURjrJVs
-- /resources/videos/znaczenie-znajomości-terenu
-preview: https://i.ytimg.com/vi/IqWvURjrJVs/maxresdefault.jpg
-duration: 255
-isShort: false
-tags:
-- Agile
-- Agile Leadership
-- Agile Leader
-- Professional Agile Leader
-- Professional Agile Leader Essentials
-- Professional Agile Leader Evidence Based Management
-- PAL
-- PAL-E
-- PAL-EBM
-- Evidence based management
-- Agile project management
-- Agile product management
-- Agile product development
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Znaczenie znajomości terenu] [date, 2023-08-10T14:45:00Z] [videoId, IqWvURjrJVs] [url, /resources/videos/:slug] [slug, znaczenie-znajomości-terenu] [canonicalUrl, https://www.youtube.com/watch?v=IqWvURjrJVs] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/IqWvURjrJVs/maxresdefault.jpg] [duration, 255] [isShort, False] [tags, [Agile, Agile Leadership, Agile Leader, Professional Agile Leader, Professional Agile Leader Essentials, Professional Agile Leader Evidence Based Management, PAL, PAL-E, PAL-EBM, Evidence based management, Agile project management, Agile product management, Agile product development]] [sitemap, System.Collections.Hashtable]
 {{< youtube IqWvURjrJVs >}}
 
 # Znaczenie znajomości terenu

@@ -1,23 +1,5 @@
 ---
-title: 10th April 2020 - Office Hours \ Ask me Anything
-date: 2020-04-10T18:41:06Z
-videoId: 5UG3FF0n0C8
-url: /resources/videos/:slug
-slug: 10th-april-2020-office-hours-ask-me-anything
-canonicalUrl: https://www.youtube.com/watch?v=5UG3FF0n0C8
-aliases:
-- /resources/videos/5UG3FF0n0C8
-- /resources/videos/10th-april-2020-office-hours-ask-me-anything
-preview: https://i.ytimg.com/vi/5UG3FF0n0C8/maxresdefault.jpg
-duration: 41
-isShort: true
-tags: []
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, 10th April 2020 - Office Hours \ Ask me Anything] [date, 2020-04-10T18:41:06Z] [videoId, 5UG3FF0n0C8] [url, /resources/videos/:slug] [slug, 10th-april-2020-office-hours-ask-me-anything] [canonicalUrl, https://www.youtube.com/watch?v=5UG3FF0n0C8] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/5UG3FF0n0C8/maxresdefault.jpg] [duration, 41] [isShort, True] [tags, []] [sitemap, System.Collections.Hashtable]
 {{< youtube 5UG3FF0n0C8 >}}
 
 # 10th April 2020 - Office Hours \ Ask me Anything

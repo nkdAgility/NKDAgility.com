@@ -1,32 +1,5 @@
 ---
-title: Why Most Scrum Masters only have PSMI!
-date: 2023-04-07T07:00:20Z
-videoId: vWfebO_pwIU
-url: /resources/videos/:slug
-slug: why-most-scrum-masters-only-have-psmi!
-canonicalUrl: https://www.youtube.com/watch?v=vWfebO_pwIU
-aliases:
-- /resources/videos/vWfebO_pwIU
-- /resources/videos/why-most-scrum-masters-only-have-psmi!
-preview: https://i.ytimg.com/vi/vWfebO_pwIU/maxresdefault.jpg
-duration: 291
-isShort: false
-tags:
-- Scrum
-- Scrum Master
-- ScrumMaster
-- PSM
-- PSM II
-- PSM III
-- Professional Scrum Master
-- Scrum.Org
-- Scrum Careers
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Why Most Scrum Masters only have PSMI!] [date, 2023-04-07T07:00:20Z] [videoId, vWfebO_pwIU] [url, /resources/videos/:slug] [slug, why-most-scrum-masters-only-have-psmi!] [canonicalUrl, https://www.youtube.com/watch?v=vWfebO_pwIU] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/vWfebO_pwIU/maxresdefault.jpg] [duration, 291] [isShort, False] [tags, [Scrum, Scrum Master, ScrumMaster, PSM, PSM II, PSM III, Professional Scrum Master, Scrum.Org, Scrum Careers]] [sitemap, System.Collections.Hashtable]
 {{< youtube vWfebO_pwIU >}}
 
 # Why Most Scrum Masters only have PSMI!

@@ -1,28 +1,5 @@
 ---
-title: DevOps Migration. Downtime
-date: 2024-11-05T06:00:34Z
-videoId: tzmbqdEULUY
-url: /resources/videos/:slug
-slug: devops-migration-downtime
-canonicalUrl: https://www.youtube.com/watch?v=tzmbqdEULUY
-aliases:
-- /resources/videos/tzmbqdEULUY
-- /resources/videos/devops-migration-downtime
-preview: https://i.ytimg.com/vi/tzmbqdEULUY/maxresdefault.jpg
-duration: 218
-isShort: false
-tags:
-- Azure
-- Azure DevOps
-- Azure DevOps migration
-- DevOps
-- DevOps migration
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, DevOps Migration. Downtime] [date, 2024-11-05T06:00:34Z] [videoId, tzmbqdEULUY] [url, /resources/videos/:slug] [slug, devops-migration-downtime] [canonicalUrl, https://www.youtube.com/watch?v=tzmbqdEULUY] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/tzmbqdEULUY/maxresdefault.jpg] [duration, 218] [isShort, False] [tags, [Azure, Azure DevOps, Azure DevOps migration, DevOps, DevOps migration]] [sitemap, System.Collections.Hashtable]
 {{< youtube tzmbqdEULUY >}}
 
 # DevOps Migration. Downtime

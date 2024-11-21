@@ -1,30 +1,5 @@
 ---
-title: DevOps Migration. Compatibility Problems
-date: 2024-11-06T05:45:03Z
-videoId: qpo4Ru1VVZE
-url: /resources/videos/:slug
-slug: devops-migration-compatibility-problems
-canonicalUrl: https://www.youtube.com/watch?v=qpo4Ru1VVZE
-aliases:
-- /resources/videos/qpo4Ru1VVZE
-- /resources/videos/devops-migration-compatibility-problems
-preview: https://i.ytimg.com/vi/qpo4Ru1VVZE/maxresdefault.jpg
-duration: 174
-isShort: false
-tags:
-- Azure
-- Azure DevOps
-- Azure DevOps Migration
-- Azure DevOps Consultant
-- Azure DevOps Expert
-- DevOps
-- DevOps migration
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, DevOps Migration. Compatibility Problems] [date, 2024-11-06T05:45:03Z] [videoId, qpo4Ru1VVZE] [url, /resources/videos/:slug] [slug, devops-migration-compatibility-problems] [canonicalUrl, https://www.youtube.com/watch?v=qpo4Ru1VVZE] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/qpo4Ru1VVZE/maxresdefault.jpg] [duration, 174] [isShort, False] [tags, [Azure, Azure DevOps, Azure DevOps Migration, Azure DevOps Consultant, Azure DevOps Expert, DevOps, DevOps migration]] [sitemap, System.Collections.Hashtable]
 {{< youtube qpo4Ru1VVZE >}}
 
 # DevOps Migration. Compatibility Problems

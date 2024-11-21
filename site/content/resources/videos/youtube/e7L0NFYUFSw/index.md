@@ -1,28 +1,5 @@
 ---
-title: Does scrum really allow you to do twice the work in half the time?
-date: 2023-02-02T07:00:13Z
-videoId: e7L0NFYUFSw
-url: /resources/videos/:slug
-slug: does-scrum-really-allow-you-to-do-twice-the-work-in-half-the-time-
-canonicalUrl: https://www.youtube.com/watch?v=e7L0NFYUFSw
-aliases:
-- /resources/videos/e7L0NFYUFSw
-- /resources/videos/does-scrum-really-allow-you-to-do-twice-the-work-in-half-the-time-
-preview: https://i.ytimg.com/vi/e7L0NFYUFSw/maxresdefault.jpg
-duration: 205
-isShort: false
-tags:
-- Scrum
-- Product Development
-- Agile
-- Project Management
-- Agile Project Management
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Does scrum really allow you to do twice the work in half the time?] [date, 2023-02-02T07:00:13Z] [videoId, e7L0NFYUFSw] [url, /resources/videos/:slug] [slug, does-scrum-really-allow-you-to-do-twice-the-work-in-half-the-time-] [canonicalUrl, https://www.youtube.com/watch?v=e7L0NFYUFSw] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/e7L0NFYUFSw/maxresdefault.jpg] [duration, 205] [isShort, False] [tags, [Scrum, Product Development, Agile, Project Management, Agile Project Management]] [sitemap, System.Collections.Hashtable]
 {{< youtube e7L0NFYUFSw >}}
 
 # Does scrum really allow you to do twice the work in half the time?

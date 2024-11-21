@@ -1,31 +1,5 @@
 ---
-title: DevOps Migration. Lack of Expertise
-date: 2024-11-08T05:45:01Z
-videoId: 4Tjc5uEtM7M
-url: /resources/videos/:slug
-slug: devops-migration-lack-of-expertise
-canonicalUrl: https://www.youtube.com/watch?v=4Tjc5uEtM7M
-aliases:
-- /resources/videos/4Tjc5uEtM7M
-- /resources/videos/devops-migration-lack-of-expertise
-preview: https://i.ytimg.com/vi/4Tjc5uEtM7M/maxresdefault.jpg
-duration: 262
-isShort: false
-tags:
-- Azure
-- Azure DevOps
-- DevOps
-- Azure DevOps migration
-- DevOps migration
-- DevOps consultant
-- DevOps expert
-- DevOps coach
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, DevOps Migration. Lack of Expertise] [date, 2024-11-08T05:45:01Z] [videoId, 4Tjc5uEtM7M] [url, /resources/videos/:slug] [slug, devops-migration-lack-of-expertise] [canonicalUrl, https://www.youtube.com/watch?v=4Tjc5uEtM7M] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/4Tjc5uEtM7M/maxresdefault.jpg] [duration, 262] [isShort, False] [tags, [Azure, Azure DevOps, DevOps, Azure DevOps migration, DevOps migration, DevOps consultant, DevOps expert, DevOps coach]] [sitemap, System.Collections.Hashtable]
 {{< youtube 4Tjc5uEtM7M >}}
 
 # DevOps Migration. Lack of Expertise

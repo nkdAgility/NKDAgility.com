@@ -1,26 +1,5 @@
 ---
-title: What is Agile?
-date: 2022-10-07T10:41:41Z
-videoId: phv_2Bv2PrA
-url: /resources/videos/:slug
-slug: what-is-agile-
-canonicalUrl: https://www.youtube.com/watch?v=phv_2Bv2PrA
-aliases:
-- /resources/videos/phv_2Bv2PrA
-- /resources/videos/what-is-agile-
-preview: https://i.ytimg.com/vi/phv_2Bv2PrA/maxresdefault.jpg
-duration: 1755
-isShort: false
-tags:
-- Agility
-- Taylorism
-- Beta
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, What is Agile?] [date, 2022-10-07T10:41:41Z] [videoId, phv_2Bv2PrA] [url, /resources/videos/:slug] [slug, what-is-agile-] [canonicalUrl, https://www.youtube.com/watch?v=phv_2Bv2PrA] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/phv_2Bv2PrA/maxresdefault.jpg] [duration, 1755] [isShort, False] [tags, [Agility, Taylorism, Beta]] [sitemap, System.Collections.Hashtable]
 {{< youtube phv_2Bv2PrA >}}
 
 # What is Agile?

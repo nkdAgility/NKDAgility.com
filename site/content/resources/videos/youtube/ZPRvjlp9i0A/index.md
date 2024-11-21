@@ -1,23 +1,5 @@
 ---
-title: 14th April 2020 - Office Hours \ Ask me Anything
-date: 2020-04-14T19:09:07Z
-videoId: ZPRvjlp9i0A
-url: /resources/videos/:slug
-slug: 14th-april-2020-office-hours-ask-me-anything
-canonicalUrl: https://www.youtube.com/watch?v=ZPRvjlp9i0A
-aliases:
-- /resources/videos/ZPRvjlp9i0A
-- /resources/videos/14th-april-2020-office-hours-ask-me-anything
-preview: https://i.ytimg.com/vi/ZPRvjlp9i0A/hqdefault.jpg
-duration: 2112
-isShort: false
-tags: []
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, 14th April 2020 - Office Hours \ Ask me Anything] [date, 2020-04-14T19:09:07Z] [videoId, ZPRvjlp9i0A] [url, /resources/videos/:slug] [slug, 14th-april-2020-office-hours-ask-me-anything] [canonicalUrl, https://www.youtube.com/watch?v=ZPRvjlp9i0A] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/ZPRvjlp9i0A/hqdefault.jpg] [duration, 2112] [isShort, False] [tags, []] [sitemap, System.Collections.Hashtable]
 {{< youtube ZPRvjlp9i0A >}}
 
 # 14th April 2020 - Office Hours \ Ask me Anything

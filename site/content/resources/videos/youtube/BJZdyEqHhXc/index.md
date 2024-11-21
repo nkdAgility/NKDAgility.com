@@ -1,28 +1,5 @@
 ---
-title: NKD Agility Consulting Approach
-date: 2024-05-09T06:45:00Z
-videoId: BJZdyEqHhXc
-url: /resources/videos/:slug
-slug: nkd-agility-consulting-approach
-canonicalUrl: https://www.youtube.com/watch?v=BJZdyEqHhXc
-aliases:
-- /resources/videos/BJZdyEqHhXc
-- /resources/videos/nkd-agility-consulting-approach
-preview: https://i.ytimg.com/vi/BJZdyEqHhXc/maxresdefault.jpg
-duration: 271
-isShort: false
-tags:
-- Agile
-- Agile consulting
-- Agile coaching
-- Agile consulting philosophy
-- Agile consulting approach
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, NKD Agility Consulting Approach] [date, 2024-05-09T06:45:00Z] [videoId, BJZdyEqHhXc] [url, /resources/videos/:slug] [slug, nkd-agility-consulting-approach] [canonicalUrl, https://www.youtube.com/watch?v=BJZdyEqHhXc] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/BJZdyEqHhXc/maxresdefault.jpg] [duration, 271] [isShort, False] [tags, [Agile, Agile consulting, Agile coaching, Agile consulting philosophy, Agile consulting approach]] [sitemap, System.Collections.Hashtable]
 {{< youtube BJZdyEqHhXc >}}
 
 # NKD Agility Consulting Approach

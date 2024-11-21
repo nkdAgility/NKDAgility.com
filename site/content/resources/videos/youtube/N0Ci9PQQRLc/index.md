@@ -1,29 +1,5 @@
 ---
-title: How does your real world experience translate into your training style?
-date: 2023-01-20T07:00:08Z
-videoId: N0Ci9PQQRLc
-url: /resources/videos/:slug
-slug: how-does-your-real-world-experience-translate-into-your-training-style-
-canonicalUrl: https://www.youtube.com/watch?v=N0Ci9PQQRLc
-aliases:
-- /resources/videos/N0Ci9PQQRLc
-- /resources/videos/how-does-your-real-world-experience-translate-into-your-training-style-
-preview: https://i.ytimg.com/vi/N0Ci9PQQRLc/maxresdefault.jpg
-duration: 423
-isShort: false
-tags:
-- Scrum
-- Professional Scrum Trainer
-- PST
-- Scrum Training
-- Agile Scrum Training
-- Scrum Certification
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, How does your real world experience translate into your training style?] [date, 2023-01-20T07:00:08Z] [videoId, N0Ci9PQQRLc] [url, /resources/videos/:slug] [slug, how-does-your-real-world-experience-translate-into-your-training-style-] [canonicalUrl, https://www.youtube.com/watch?v=N0Ci9PQQRLc] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/N0Ci9PQQRLc/maxresdefault.jpg] [duration, 423] [isShort, False] [tags, [Scrum, Professional Scrum Trainer, PST, Scrum Training, Agile Scrum Training, Scrum Certification]] [sitemap, System.Collections.Hashtable]
 {{< youtube N0Ci9PQQRLc >}}
 
 # How does your real world experience translate into your training style?

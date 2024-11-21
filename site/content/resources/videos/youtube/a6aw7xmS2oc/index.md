@@ -1,34 +1,5 @@
 ---
-title: What are the top 3 things a product owner needs to bear in mind when adopting an entrepreneur stance
-date: 2023-09-20T07:00:00Z
-videoId: a6aw7xmS2oc
-url: /resources/videos/:slug
-slug: what-are-the-top-3-things-a-product-owner-needs-to-bear-in-mind-when-adopting-an-entrepreneur-stance
-canonicalUrl: https://www.youtube.com/watch?v=a6aw7xmS2oc
-aliases:
-- /resources/videos/a6aw7xmS2oc
-- /resources/videos/what-are-the-top-3-things-a-product-owner-needs-to-bear-in-mind-when-adopting-an-entrepreneur-stance
-preview: https://i.ytimg.com/vi/a6aw7xmS2oc/maxresdefault.jpg
-duration: 330
-isShort: false
-tags:
-- Product Owner
-- Product Manager
-- Scrum Product Owner
-- Scrum
-- Scrum Product Development
-- Product Ownership
-- Agile Product Ownership
-- Agile Product Owner
-- Agile Product Development
-- Agile project management
-- Agile product management
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, What are the top 3 things a product owner needs to bear in mind when adopting an entrepreneur stance] [date, 2023-09-20T07:00:00Z] [videoId, a6aw7xmS2oc] [url, /resources/videos/:slug] [slug, what-are-the-top-3-things-a-product-owner-needs-to-bear-in-mind-when-adopting-an-entrepreneur-stance] [canonicalUrl, https://www.youtube.com/watch?v=a6aw7xmS2oc] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/a6aw7xmS2oc/maxresdefault.jpg] [duration, 330] [isShort, False] [tags, [Product Owner, Product Manager, Scrum Product Owner, Scrum, Scrum Product Development, Product Ownership, Agile Product Ownership, Agile Product Owner, Agile Product Development, Agile project management, Agile product management]] [sitemap, System.Collections.Hashtable]
 {{< youtube a6aw7xmS2oc >}}
 
 # What are the top 3 things a product owner needs to bear in mind when adopting an entrepreneur stance

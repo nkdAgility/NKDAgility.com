@@ -1,46 +1,5 @@
 ---
-title: ' shorts 5 kinds of Agile bandits. 2nd kind'
-date: 2024-01-05T11:00:32Z
-videoId: UFCwbq00CEQ
-url: /resources/videos/:slug
-slug: -shorts-5-kinds-of-agile-bandits-2nd-kind
-canonicalUrl: https://www.youtube.com/watch?v=UFCwbq00CEQ
-aliases:
-- /resources/videos/UFCwbq00CEQ
-- /resources/videos/-shorts-5-kinds-of-agile-bandits-2nd-kind
-preview: https://i.ytimg.com/vi/UFCwbq00CEQ/maxresdefault.jpg
-duration: 40
-isShort: true
-tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title,  shorts 5 kinds of Agile bandits. 2nd kind] [date, 2024-01-05T11:00:32Z] [videoId, UFCwbq00CEQ] [url, /resources/videos/:slug] [slug, -shorts-5-kinds-of-agile-bandits-2nd-kind] [canonicalUrl, https://www.youtube.com/watch?v=UFCwbq00CEQ] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/UFCwbq00CEQ/maxresdefault.jpg] [duration, 40] [isShort, True] [tags, [Agile, Scrum, agile project management, agile product development, agile product management, project management, product development, product management, professional scrum trainer, scrum training, scrum certification, scrum.org, DevOps consultant, DevOps coach, DevOps engineer, agile coach, agile consultant, agile trainer, scrum framework, scrum methodology, scrum approach, agile leadership, leadership.]] [sitemap, System.Collections.Hashtable]
 {{< youtube UFCwbq00CEQ >}}
 
 #  shorts 5 kinds of Agile bandits. 2nd kind

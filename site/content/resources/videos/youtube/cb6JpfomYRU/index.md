@@ -1,32 +1,5 @@
 ---
-title: How much of a competitive edge will the immersive PSM course deliver to delegates?
-date: 2023-07-13T07:41:01Z
-videoId: cb6JpfomYRU
-url: /resources/videos/:slug
-slug: how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates-
-canonicalUrl: https://www.youtube.com/watch?v=cb6JpfomYRU
-aliases:
-- /resources/videos/cb6JpfomYRU
-- /resources/videos/how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates-
-preview: https://i.ytimg.com/vi/cb6JpfomYRU/maxresdefault.jpg
-duration: 353
-isShort: false
-tags:
-- Scrum
-- Scrum Courses
-- Scrum.Org
-- Scrum Certification
-- Immersive Learning Experience
-- Immersive Scrum Course
-- Immersive PSM course
-- Immersive Professional Scrum Master course
-- Immersive Professional Scrum Master Certification
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, How much of a competitive edge will the immersive PSM course deliver to delegates?] [date, 2023-07-13T07:41:01Z] [videoId, cb6JpfomYRU] [url, /resources/videos/:slug] [slug, how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates-] [canonicalUrl, https://www.youtube.com/watch?v=cb6JpfomYRU] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/cb6JpfomYRU/maxresdefault.jpg] [duration, 353] [isShort, False] [tags, [Scrum, Scrum Courses, Scrum.Org, Scrum Certification, Immersive Learning Experience, Immersive Scrum Course, Immersive PSM course, Immersive Professional Scrum Master course, Immersive Professional Scrum Master Certification]] [sitemap, System.Collections.Hashtable]
 {{< youtube cb6JpfomYRU >}}
 
 # How much of a competitive edge will the immersive PSM course deliver to delegates?

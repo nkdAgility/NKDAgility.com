@@ -1,30 +1,5 @@
 ---
-title: What does failure look like as a product owner?
-date: 2023-09-22T07:00:32Z
-videoId: uvU_ATou6QY
-url: /resources/videos/:slug
-slug: what-does-failure-look-like-as-a-product-owner-
-canonicalUrl: https://www.youtube.com/watch?v=uvU_ATou6QY
-aliases:
-- /resources/videos/uvU_ATou6QY
-- /resources/videos/what-does-failure-look-like-as-a-product-owner-
-preview: https://i.ytimg.com/vi/uvU_ATou6QY/maxresdefault.jpg
-duration: 203
-isShort: false
-tags:
-- Product Owner
-- Scrum Product Owner
-- Scrum
-- Scrum Product Development
-- Agile Product Development
-- Agile project management
-- Agile product management
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, What does failure look like as a product owner?] [date, 2023-09-22T07:00:32Z] [videoId, uvU_ATou6QY] [url, /resources/videos/:slug] [slug, what-does-failure-look-like-as-a-product-owner-] [canonicalUrl, https://www.youtube.com/watch?v=uvU_ATou6QY] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/uvU_ATou6QY/maxresdefault.jpg] [duration, 203] [isShort, False] [tags, [Product Owner, Scrum Product Owner, Scrum, Scrum Product Development, Agile Product Development, Agile project management, Agile product management]] [sitemap, System.Collections.Hashtable]
 {{< youtube uvU_ATou6QY >}}
 
 # What does failure look like as a product owner?

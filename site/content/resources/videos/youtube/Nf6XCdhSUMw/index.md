@@ -1,26 +1,5 @@
 ---
-title: Introduction to Evidence Based Management
-date: 2024-08-14T07:12:45Z
-videoId: Nf6XCdhSUMw
-url: /resources/videos/:slug
-slug: introduction-to-evidence-based-management
-canonicalUrl: https://www.youtube.com/watch?v=Nf6XCdhSUMw
-aliases:
-- /resources/videos/Nf6XCdhSUMw
-- /resources/videos/introduction-to-evidence-based-management
-preview: https://i.ytimg.com/vi/Nf6XCdhSUMw/maxresdefault.jpg
-duration: 414
-isShort: false
-tags:
-- Agile
-- Evidence Based Management
-- Leadership
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Introduction to Evidence Based Management] [date, 2024-08-14T07:12:45Z] [videoId, Nf6XCdhSUMw] [url, /resources/videos/:slug] [slug, introduction-to-evidence-based-management] [canonicalUrl, https://www.youtube.com/watch?v=Nf6XCdhSUMw] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/Nf6XCdhSUMw/maxresdefault.jpg] [duration, 414] [isShort, False] [tags, [Agile, Evidence Based Management, Leadership]] [sitemap, System.Collections.Hashtable]
 {{< youtube Nf6XCdhSUMw >}}
 
 # Introduction to Evidence Based Management

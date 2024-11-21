@@ -1,23 +1,5 @@
 ---
-title: 5 tools that Scrum Masters love. Part 3
-date: 2023-09-21T07:00:14Z
-videoId: gWTCvlUzSZo
-url: /resources/videos/:slug
-slug: 5-tools-that-scrum-masters-love-part-3
-canonicalUrl: https://www.youtube.com/watch?v=gWTCvlUzSZo
-aliases:
-- /resources/videos/gWTCvlUzSZo
-- /resources/videos/5-tools-that-scrum-masters-love-part-3
-preview: https://i.ytimg.com/vi/gWTCvlUzSZo/maxresdefault.jpg
-duration: 45
-isShort: true
-tags: []
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, 5 tools that Scrum Masters love. Part 3] [date, 2023-09-21T07:00:14Z] [videoId, gWTCvlUzSZo] [url, /resources/videos/:slug] [slug, 5-tools-that-scrum-masters-love-part-3] [canonicalUrl, https://www.youtube.com/watch?v=gWTCvlUzSZo] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/gWTCvlUzSZo/maxresdefault.jpg] [duration, 45] [isShort, True] [tags, []] [sitemap, System.Collections.Hashtable]
 {{< youtube gWTCvlUzSZo >}}
 
 # 5 tools that Scrum Masters love. Part 3

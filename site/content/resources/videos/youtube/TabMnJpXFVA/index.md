@@ -1,29 +1,5 @@
 ---
-title: Why are you going the immersive Scrum training route?
-date: 2023-03-16T07:00:16Z
-videoId: TabMnJpXFVA
-url: /resources/videos/:slug
-slug: why-are-you-going-the-immersive-scrum-training-route-
-canonicalUrl: https://www.youtube.com/watch?v=TabMnJpXFVA
-aliases:
-- /resources/videos/TabMnJpXFVA
-- /resources/videos/why-are-you-going-the-immersive-scrum-training-route-
-preview: https://i.ytimg.com/vi/TabMnJpXFVA/maxresdefault.jpg
-duration: 287
-isShort: false
-tags:
-- Immersive Scrum Training
-- Immersive Scrum Courses
-- Scrum Training
-- Scrum.Org
-- Scrum Courses
-- Scrum Certification
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Why are you going the immersive Scrum training route?] [date, 2023-03-16T07:00:16Z] [videoId, TabMnJpXFVA] [url, /resources/videos/:slug] [slug, why-are-you-going-the-immersive-scrum-training-route-] [canonicalUrl, https://www.youtube.com/watch?v=TabMnJpXFVA] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/TabMnJpXFVA/maxresdefault.jpg] [duration, 287] [isShort, False] [tags, [Immersive Scrum Training, Immersive Scrum Courses, Scrum Training, Scrum.Org, Scrum Courses, Scrum Certification]] [sitemap, System.Collections.Hashtable]
 {{< youtube TabMnJpXFVA >}}
 
 # Why are you going the immersive Scrum training route?

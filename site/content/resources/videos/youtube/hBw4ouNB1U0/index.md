@@ -1,32 +1,5 @@
 ---
-title: The Kanban Key - How Continuous Improvement Transforms Your Workflow
-date: 2024-08-19T06:45:02Z
-videoId: hBw4ouNB1U0
-url: /resources/videos/:slug
-slug: the-kanban-key-how-continuous-improvement-transforms-your-workflow
-canonicalUrl: https://www.youtube.com/watch?v=hBw4ouNB1U0
-aliases:
-- /resources/videos/hBw4ouNB1U0
-- /resources/videos/the-kanban-key-how-continuous-improvement-transforms-your-workflow
-preview: https://i.ytimg.com/vi/hBw4ouNB1U0/maxresdefault.jpg
-duration: 50
-isShort: true
-tags:
-- Kanban
-- Kanban training
-- Kanban courses
-- Kanban coach
-- Kanban consultant
-- Agile
-- Agile framework
-- Agile project management
-- Agile product development
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, The Kanban Key - How Continuous Improvement Transforms Your Workflow] [date, 2024-08-19T06:45:02Z] [videoId, hBw4ouNB1U0] [url, /resources/videos/:slug] [slug, the-kanban-key-how-continuous-improvement-transforms-your-workflow] [canonicalUrl, https://www.youtube.com/watch?v=hBw4ouNB1U0] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/hBw4ouNB1U0/maxresdefault.jpg] [duration, 50] [isShort, True] [tags, [Kanban, Kanban training, Kanban courses, Kanban coach, Kanban consultant, Agile, Agile framework, Agile project management, Agile product development]] [sitemap, System.Collections.Hashtable]
 {{< youtube hBw4ouNB1U0 >}}
 
 # The Kanban Key - How Continuous Improvement Transforms Your Workflow

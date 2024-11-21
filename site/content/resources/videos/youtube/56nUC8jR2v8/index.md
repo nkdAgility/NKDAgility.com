@@ -1,23 +1,5 @@
 ---
-title: The tyranny of Taylorism and how to spot agile lies
-date: 2020-06-24T17:48:17Z
-videoId: 56nUC8jR2v8
-url: /resources/videos/:slug
-slug: the-tyranny-of-taylorism-and-how-to-spot-agile-lies
-canonicalUrl: https://www.youtube.com/watch?v=56nUC8jR2v8
-aliases:
-- /resources/videos/56nUC8jR2v8
-- /resources/videos/the-tyranny-of-taylorism-and-how-to-spot-agile-lies
-preview: https://i.ytimg.com/vi/56nUC8jR2v8/maxresdefault.jpg
-duration: 51
-isShort: true
-tags: []
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, The tyranny of Taylorism and how to spot agile lies] [date, 2020-06-24T17:48:17Z] [videoId, 56nUC8jR2v8] [url, /resources/videos/:slug] [slug, the-tyranny-of-taylorism-and-how-to-spot-agile-lies] [canonicalUrl, https://www.youtube.com/watch?v=56nUC8jR2v8] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/56nUC8jR2v8/maxresdefault.jpg] [duration, 51] [isShort, True] [tags, []] [sitemap, System.Collections.Hashtable]
 {{< youtube 56nUC8jR2v8 >}}
 
 # The tyranny of Taylorism and how to spot agile lies

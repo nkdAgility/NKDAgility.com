@@ -1,23 +1,5 @@
 ---
-title: Why I love hierarchies of competence
-date: 2023-05-03T09:30:09Z
-videoId: kT9sB1jIz0U
-url: /resources/videos/:slug
-slug: why-i-love-hierarchies-of-competence
-canonicalUrl: https://www.youtube.com/watch?v=kT9sB1jIz0U
-aliases:
-- /resources/videos/kT9sB1jIz0U
-- /resources/videos/why-i-love-hierarchies-of-competence
-preview: https://i.ytimg.com/vi/kT9sB1jIz0U/maxresdefault.jpg
-duration: 62
-isShort: false
-tags: []
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Why I love hierarchies of competence] [date, 2023-05-03T09:30:09Z] [videoId, kT9sB1jIz0U] [url, /resources/videos/:slug] [slug, why-i-love-hierarchies-of-competence] [canonicalUrl, https://www.youtube.com/watch?v=kT9sB1jIz0U] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/kT9sB1jIz0U/maxresdefault.jpg] [duration, 62] [isShort, False] [tags, []] [sitemap, System.Collections.Hashtable]
 {{< youtube kT9sB1jIz0U >}}
 
 # Why I love hierarchies of competence

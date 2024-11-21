@@ -1,27 +1,5 @@
 ---
-title: 25th March 2020 - Office Hours \ Ask me Anything
-date: 2020-03-25T16:17:15Z
-videoId: OCJuDfc-gnc
-url: /resources/videos/:slug
-slug: 25th-march-2020-office-hours-ask-me-anything
-canonicalUrl: https://www.youtube.com/watch?v=OCJuDfc-gnc
-aliases:
-- /resources/videos/OCJuDfc-gnc
-- /resources/videos/25th-march-2020-office-hours-ask-me-anything
-preview: https://i.ytimg.com/vi/OCJuDfc-gnc/maxresdefault.jpg
-duration: 592
-isShort: false
-tags:
-- Agile
-- Scrum
-- DevOps
-- Kanban
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, 25th March 2020 - Office Hours \ Ask me Anything] [date, 2020-03-25T16:17:15Z] [videoId, OCJuDfc-gnc] [url, /resources/videos/:slug] [slug, 25th-march-2020-office-hours-ask-me-anything] [canonicalUrl, https://www.youtube.com/watch?v=OCJuDfc-gnc] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/OCJuDfc-gnc/maxresdefault.jpg] [duration, 592] [isShort, False] [tags, [Agile, Scrum, DevOps, Kanban]] [sitemap, System.Collections.Hashtable]
 {{< youtube OCJuDfc-gnc >}}
 
 # 25th March 2020 - Office Hours \ Ask me Anything

@@ -1,31 +1,5 @@
 ---
-title: Sloth! 7 deadly sins of Agile.
-date: 2023-10-20T16:01:48Z
-videoId: uCFIW_lEFuc
-url: /resources/videos/:slug
-slug: sloth!-7-deadly-sins-of-agile-
-canonicalUrl: https://www.youtube.com/watch?v=uCFIW_lEFuc
-aliases:
-- /resources/videos/uCFIW_lEFuc
-- /resources/videos/sloth!-7-deadly-sins-of-agile-
-preview: https://i.ytimg.com/vi/uCFIW_lEFuc/maxresdefault.jpg
-duration: 498
-isShort: false
-tags:
-- Agile
-- 7 deadly sins
-- Sloth
-- Agile project management
-- Agile product management
-- Agile product development
-- Business Agility
-- Agile sins
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Sloth! 7 deadly sins of Agile.] [date, 2023-10-20T16:01:48Z] [videoId, uCFIW_lEFuc] [url, /resources/videos/:slug] [slug, sloth!-7-deadly-sins-of-agile-] [canonicalUrl, https://www.youtube.com/watch?v=uCFIW_lEFuc] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/uCFIW_lEFuc/maxresdefault.jpg] [duration, 498] [isShort, False] [tags, [Agile, 7 deadly sins, Sloth, Agile project management, Agile product management, Agile product development, Business Agility, Agile sins]] [sitemap, System.Collections.Hashtable]
 {{< youtube uCFIW_lEFuc >}}
 
 # Sloth! 7 deadly sins of Agile.

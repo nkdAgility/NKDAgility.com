@@ -1,35 +1,5 @@
 ---
-title: 5 October 2023 Product Ownership and Lean Product Development Webinar
-date: 2023-09-28T09:01:38Z
-videoId: UW26aDoBVbQ
-url: /resources/videos/:slug
-slug: 5-october-2023-product-ownership-and-lean-product-development-webinar
-canonicalUrl: https://www.youtube.com/watch?v=UW26aDoBVbQ
-aliases:
-- /resources/videos/UW26aDoBVbQ
-- /resources/videos/5-october-2023-product-ownership-and-lean-product-development-webinar
-preview: https://i.ytimg.com/vi/UW26aDoBVbQ/maxresdefault.jpg
-duration: 31
-isShort: true
-tags:
-- Agile
-- Agile Product Development
-- Agile Project management
-- Agile product management
-- Product Owner
-- Scrum
-- Scrum Product Owner
-- Agile product ownership
-- Scrum product ownership
-- Lean Product Development
-- LEAN UX
-- Lean Agile Product Development
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, 5 October 2023 Product Ownership and Lean Product Development Webinar] [date, 2023-09-28T09:01:38Z] [videoId, UW26aDoBVbQ] [url, /resources/videos/:slug] [slug, 5-october-2023-product-ownership-and-lean-product-development-webinar] [canonicalUrl, https://www.youtube.com/watch?v=UW26aDoBVbQ] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/UW26aDoBVbQ/maxresdefault.jpg] [duration, 31] [isShort, True] [tags, [Agile, Agile Product Development, Agile Project management, Agile product management, Product Owner, Scrum, Scrum Product Owner, Agile product ownership, Scrum product ownership, Lean Product Development, LEAN UX, Lean Agile Product Development]] [sitemap, System.Collections.Hashtable]
 {{< youtube UW26aDoBVbQ >}}
 
 # 5 October 2023 Product Ownership and Lean Product Development Webinar

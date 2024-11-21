@@ -1,23 +1,5 @@
 ---
-title: PPDV course overview with Dr Joanna Plaskonka
-date: 2024-08-13T07:14:40Z
-videoId: fUj1k47pDg8
-url: /resources/videos/:slug
-slug: ppdv-course-overview-with-dr-joanna-plaskonka
-canonicalUrl: https://www.youtube.com/watch?v=fUj1k47pDg8
-aliases:
-- /resources/videos/fUj1k47pDg8
-- /resources/videos/ppdv-course-overview-with-dr-joanna-plaskonka
-preview: https://i.ytimg.com/vi/fUj1k47pDg8/maxresdefault.jpg
-duration: 355
-isShort: false
-tags: []
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, PPDV course overview with Dr Joanna Plaskonka] [date, 2024-08-13T07:14:40Z] [videoId, fUj1k47pDg8] [url, /resources/videos/:slug] [slug, ppdv-course-overview-with-dr-joanna-plaskonka] [canonicalUrl, https://www.youtube.com/watch?v=fUj1k47pDg8] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/fUj1k47pDg8/maxresdefault.jpg] [duration, 355] [isShort, False] [tags, []] [sitemap, System.Collections.Hashtable]
 {{< youtube fUj1k47pDg8 >}}
 
 # PPDV course overview with Dr Joanna Plaskonka

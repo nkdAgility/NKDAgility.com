@@ -1,32 +1,5 @@
 ---
-title: Can you talk about the Kanban workshop and why it's a great option for organizations
-date: 2023-08-23T07:00:10Z
-videoId: RSPw8pZ9NT8
-url: /resources/videos/:slug
-slug: can-you-talk-about-the-kanban-workshop-and-why-it's-a-great-option-for-organizations
-canonicalUrl: https://www.youtube.com/watch?v=RSPw8pZ9NT8
-aliases:
-- /resources/videos/RSPw8pZ9NT8
-- /resources/videos/can-you-talk-about-the-kanban-workshop-and-why-it's-a-great-option-for-organizations
-preview: https://i.ytimg.com/vi/RSPw8pZ9NT8/maxresdefault.jpg
-duration: 466
-isShort: false
-tags:
-- Kanban
-- Kanban workshops
-- Kanban coaching
-- Kanban training
-- Kanban consulting
-- Agile framework
-- Agile project management
-- Agile product management
-- Agile product development
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Can you talk about the Kanban workshop and why it's a great option for organizations] [date, 2023-08-23T07:00:10Z] [videoId, RSPw8pZ9NT8] [url, /resources/videos/:slug] [slug, can-you-talk-about-the-kanban-workshop-and-why-it's-a-great-option-for-organizations] [canonicalUrl, https://www.youtube.com/watch?v=RSPw8pZ9NT8] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/RSPw8pZ9NT8/maxresdefault.jpg] [duration, 466] [isShort, False] [tags, [Kanban, Kanban workshops, Kanban coaching, Kanban training, Kanban consulting, Agile framework, Agile project management, Agile product management, Agile product development]] [sitemap, System.Collections.Hashtable]
 {{< youtube RSPw8pZ9NT8 >}}
 
 # Can you talk about the Kanban workshop and why it's a great option for organizations

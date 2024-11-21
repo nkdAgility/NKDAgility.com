@@ -1,29 +1,5 @@
 ---
-title: What is the sprint planning workshop and how will it help organizations?
-date: 2023-06-29T07:00:19Z
-videoId: xJsuDbsFzlw
-url: /resources/videos/:slug
-slug: what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations-
-canonicalUrl: https://www.youtube.com/watch?v=xJsuDbsFzlw
-aliases:
-- /resources/videos/xJsuDbsFzlw
-- /resources/videos/what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations-
-preview: https://i.ytimg.com/vi/xJsuDbsFzlw/maxresdefault.jpg
-duration: 198
-isShort: false
-tags:
-- Sprint Planning Workshop
-- Sprint Planning
-- Scrum
-- Scrum Workshops
-- Scrum training
-- Scrum coaching
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, What is the sprint planning workshop and how will it help organizations?] [date, 2023-06-29T07:00:19Z] [videoId, xJsuDbsFzlw] [url, /resources/videos/:slug] [slug, what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations-] [canonicalUrl, https://www.youtube.com/watch?v=xJsuDbsFzlw] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/xJsuDbsFzlw/maxresdefault.jpg] [duration, 198] [isShort, False] [tags, [Sprint Planning Workshop, Sprint Planning, Scrum, Scrum Workshops, Scrum training, Scrum coaching]] [sitemap, System.Collections.Hashtable]
 {{< youtube xJsuDbsFzlw >}}
 
 # What is the sprint planning workshop and how will it help organizations?

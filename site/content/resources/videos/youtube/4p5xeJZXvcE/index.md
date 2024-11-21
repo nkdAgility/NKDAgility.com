@@ -1,46 +1,5 @@
 ---
-title: ' shorts 7 Virtues of agile. Patience'
-date: 2023-12-08T11:00:09Z
-videoId: 4p5xeJZXvcE
-url: /resources/videos/:slug
-slug: -shorts-7-virtues-of-agile-patience
-canonicalUrl: https://www.youtube.com/watch?v=4p5xeJZXvcE
-aliases:
-- /resources/videos/4p5xeJZXvcE
-- /resources/videos/-shorts-7-virtues-of-agile-patience
-preview: https://i.ytimg.com/vi/4p5xeJZXvcE/maxresdefault.jpg
-duration: 39
-isShort: true
-tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title,  shorts 7 Virtues of agile. Patience] [date, 2023-12-08T11:00:09Z] [videoId, 4p5xeJZXvcE] [url, /resources/videos/:slug] [slug, -shorts-7-virtues-of-agile-patience] [canonicalUrl, https://www.youtube.com/watch?v=4p5xeJZXvcE] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/4p5xeJZXvcE/maxresdefault.jpg] [duration, 39] [isShort, True] [tags, [Agile, Scrum, agile project management, agile product development, agile product management, project management, product development, product management, professional scrum trainer, scrum training, scrum certification, scrum.org, DevOps consultant, DevOps coach, DevOps engineer, agile coach, agile consultant, agile trainer, scrum framework, scrum methodology, scrum approach, agile leadership, leadership.]] [sitemap, System.Collections.Hashtable]
 {{< youtube 4p5xeJZXvcE >}}
 
 #  shorts 7 Virtues of agile. Patience

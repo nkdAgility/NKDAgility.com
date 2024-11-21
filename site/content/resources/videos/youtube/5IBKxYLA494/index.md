@@ -1,29 +1,5 @@
 ---
-title: Scrum With Azure DevOps!
-date: 2024-04-03T17:21:43Z
-videoId: 5IBKxYLA494
-url: /resources/videos/:slug
-slug: scrum-with-azure-devops!
-canonicalUrl: https://www.youtube.com/watch?v=5IBKxYLA494
-aliases:
-- /resources/videos/5IBKxYLA494
-- /resources/videos/scrum-with-azure-devops!
-preview: https://i.ytimg.com/vi/5IBKxYLA494/maxresdefault.jpg
-duration: 2504
-isShort: false
-tags:
-- AzDo
-- ADO
-- TFS
-- VSTS
-- Team Foundation Server
-- Visual Studio Team System
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Scrum With Azure DevOps!] [date, 2024-04-03T17:21:43Z] [videoId, 5IBKxYLA494] [url, /resources/videos/:slug] [slug, scrum-with-azure-devops!] [canonicalUrl, https://www.youtube.com/watch?v=5IBKxYLA494] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/5IBKxYLA494/maxresdefault.jpg] [duration, 2504] [isShort, False] [tags, [AzDo, ADO, TFS, VSTS, Team Foundation Server, Visual Studio Team System]] [sitemap, System.Collections.Hashtable]
 {{< youtube 5IBKxYLA494 >}}
 
 # Scrum With Azure DevOps!

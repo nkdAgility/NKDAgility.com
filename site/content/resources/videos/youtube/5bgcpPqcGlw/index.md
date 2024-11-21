@@ -1,28 +1,5 @@
 ---
-title: Agile Evolution - Live Site Culture & Site Reliability at Azure DevOps
-date: 2020-06-04T02:05:28Z
-videoId: 5bgcpPqcGlw
-url: /resources/videos/:slug
-slug: agile-evolution-live-site-culture-&-site-reliability-at-azure-devops
-canonicalUrl: https://www.youtube.com/watch?v=5bgcpPqcGlw
-aliases:
-- /resources/videos/5bgcpPqcGlw
-- /resources/videos/agile-evolution-live-site-culture-&-site-reliability-at-azure-devops
-preview: https://i.ytimg.com/vi/5bgcpPqcGlw/maxresdefault.jpg
-duration: 3386
-isShort: false
-tags:
-- Agility
-- SRE
-- Site Reliability
-- Live Site Culture
-- Agile Evolution
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Agile Evolution - Live Site Culture & Site Reliability at Azure DevOps] [date, 2020-06-04T02:05:28Z] [videoId, 5bgcpPqcGlw] [url, /resources/videos/:slug] [slug, agile-evolution-live-site-culture-&-site-reliability-at-azure-devops] [canonicalUrl, https://www.youtube.com/watch?v=5bgcpPqcGlw] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/5bgcpPqcGlw/maxresdefault.jpg] [duration, 3386] [isShort, False] [tags, [Agility, SRE, Site Reliability, Live Site Culture, Agile Evolution]] [sitemap, System.Collections.Hashtable]
 {{< youtube 5bgcpPqcGlw >}}
 
 # Agile Evolution - Live Site Culture & Site Reliability at Azure DevOps

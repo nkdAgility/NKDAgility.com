@@ -1,23 +1,5 @@
 ---
-title: Professional Scrum with Nexus (SPS) with Certification - Learn skills to overcome scaling challenges
-date: 2022-08-23T16:53:08Z
-videoId: sBBKKlfwlrA
-url: /resources/videos/:slug
-slug: professional-scrum-with-nexus-(sps)-with-certification-learn-skills-to-overcome-scaling-challenges
-canonicalUrl: https://www.youtube.com/watch?v=sBBKKlfwlrA
-aliases:
-- /resources/videos/sBBKKlfwlrA
-- /resources/videos/professional-scrum-with-nexus-(sps)-with-certification-learn-skills-to-overcome-scaling-challenges
-preview: https://i.ytimg.com/vi/sBBKKlfwlrA/maxresdefault.jpg
-duration: 175
-isShort: false
-tags: []
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Professional Scrum with Nexus (SPS) with Certification - Learn skills to overcome scaling challenges] [date, 2022-08-23T16:53:08Z] [videoId, sBBKKlfwlrA] [url, /resources/videos/:slug] [slug, professional-scrum-with-nexus-(sps)-with-certification-learn-skills-to-overcome-scaling-challenges] [canonicalUrl, https://www.youtube.com/watch?v=sBBKKlfwlrA] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/sBBKKlfwlrA/maxresdefault.jpg] [duration, 175] [isShort, False] [tags, []] [sitemap, System.Collections.Hashtable]
 {{< youtube sBBKKlfwlrA >}}
 
 # Professional Scrum with Nexus (SPS) with Certification - Learn skills to overcome scaling challenges

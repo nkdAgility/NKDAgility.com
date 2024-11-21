@@ -1,27 +1,5 @@
 ---
-title: Install & Configure 301 - Move your Active Directory domain to another server
-date: 2014-01-16T20:22:36Z
-videoId: yrpAYB2yIZU
-url: /resources/videos/:slug
-slug: install-&-configure-301-move-your-active-directory-domain-to-another-server
-canonicalUrl: https://www.youtube.com/watch?v=yrpAYB2yIZU
-aliases:
-- /resources/videos/yrpAYB2yIZU
-- /resources/videos/install-&-configure-301-move-your-active-directory-domain-to-another-server
-preview: https://i.ytimg.com/vi/yrpAYB2yIZU/maxresdefault.jpg
-duration: 922
-isShort: false
-tags:
-- Active Directory (Software)
-- Windows Server 2012 (Operating System)
-- Windows Server 2012 R2
-- Windows Server
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Install & Configure 301 - Move your Active Directory domain to another server] [date, 2014-01-16T20:22:36Z] [videoId, yrpAYB2yIZU] [url, /resources/videos/:slug] [slug, install-&-configure-301-move-your-active-directory-domain-to-another-server] [canonicalUrl, https://www.youtube.com/watch?v=yrpAYB2yIZU] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/yrpAYB2yIZU/maxresdefault.jpg] [duration, 922] [isShort, False] [tags, [Active Directory (Software), Windows Server 2012 (Operating System), Windows Server 2012 R2, Windows Server]] [sitemap, System.Collections.Hashtable]
 {{< youtube yrpAYB2yIZU >}}
 
 # Install & Configure 301 - Move your Active Directory domain to another server

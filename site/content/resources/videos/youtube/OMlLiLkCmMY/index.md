@@ -1,46 +1,5 @@
 ---
-title: ' shorts 7 Virtues of Agile. Chastity'
-date: 2023-12-04T11:00:23Z
-videoId: OMlLiLkCmMY
-url: /resources/videos/:slug
-slug: -shorts-7-virtues-of-agile-chastity
-canonicalUrl: https://www.youtube.com/watch?v=OMlLiLkCmMY
-aliases:
-- /resources/videos/OMlLiLkCmMY
-- /resources/videos/-shorts-7-virtues-of-agile-chastity
-preview: https://i.ytimg.com/vi/OMlLiLkCmMY/maxresdefault.jpg
-duration: 24
-isShort: true
-tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title,  shorts 7 Virtues of Agile. Chastity] [date, 2023-12-04T11:00:23Z] [videoId, OMlLiLkCmMY] [url, /resources/videos/:slug] [slug, -shorts-7-virtues-of-agile-chastity] [canonicalUrl, https://www.youtube.com/watch?v=OMlLiLkCmMY] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/OMlLiLkCmMY/maxresdefault.jpg] [duration, 24] [isShort, True] [tags, [Agile, Scrum, agile project management, agile product development, agile product management, project management, product development, product management, professional scrum trainer, scrum training, scrum certification, scrum.org, DevOps consultant, DevOps coach, DevOps engineer, agile coach, agile consultant, agile trainer, scrum framework, scrum methodology, scrum approach, agile leadership, leadership.]] [sitemap, System.Collections.Hashtable]
 {{< youtube OMlLiLkCmMY >}}
 
 #  shorts 7 Virtues of Agile. Chastity

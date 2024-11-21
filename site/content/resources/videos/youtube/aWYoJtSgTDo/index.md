@@ -1,37 +1,5 @@
 ---
-title: The importance of knowing the territory.
-date: 2023-08-10T13:30:01Z
-videoId: aWYoJtSgTDo
-url: /resources/videos/:slug
-slug: the-importance-of-knowing-the-territory-
-canonicalUrl: https://www.youtube.com/watch?v=aWYoJtSgTDo
-aliases:
-- /resources/videos/aWYoJtSgTDo
-- /resources/videos/the-importance-of-knowing-the-territory-
-preview: https://i.ytimg.com/vi/aWYoJtSgTDo/maxresdefault.jpg
-duration: 204
-isShort: false
-tags:
-- Agile
-- Agile leadership
-- Agile leader
-- Professional Agile Leader
-- Professional Agile Leader Essentials
-- Professional Agile Leader Evidence Based Management
-- PAL
-- PAL-E
-- PAL-EBM
-- Agile project management
-- Agile product development
-- Agile product management
-- Business Agility
-- Agility
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, The importance of knowing the territory.] [date, 2023-08-10T13:30:01Z] [videoId, aWYoJtSgTDo] [url, /resources/videos/:slug] [slug, the-importance-of-knowing-the-territory-] [canonicalUrl, https://www.youtube.com/watch?v=aWYoJtSgTDo] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/aWYoJtSgTDo/maxresdefault.jpg] [duration, 204] [isShort, False] [tags, [Agile, Agile leadership, Agile leader, Professional Agile Leader, Professional Agile Leader Essentials, Professional Agile Leader Evidence Based Management, PAL, PAL-E, PAL-EBM, Agile project management, Agile product development, Agile product management, Business Agility, Agility]] [sitemap, System.Collections.Hashtable]
 {{< youtube aWYoJtSgTDo >}}
 
 # The importance of knowing the territory.

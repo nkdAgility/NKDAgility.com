@@ -1,27 +1,5 @@
 ---
-title: The Tyranny of Taylorism & how to detect Agile BS!
-date: 2020-03-18T13:56:05Z
-videoId: FZeT8O5Ucwg
-url: /resources/videos/:slug
-slug: the-tyranny-of-taylorism-&-how-to-detect-agile-bs!
-canonicalUrl: https://www.youtube.com/watch?v=FZeT8O5Ucwg
-aliases:
-- /resources/videos/FZeT8O5Ucwg
-- /resources/videos/the-tyranny-of-taylorism-&-how-to-detect-agile-bs!
-preview: https://i.ytimg.com/vi/FZeT8O5Ucwg/maxresdefault.jpg
-duration: 2106
-isShort: false
-tags:
-- Agile BS
-- Agility
-- Taylorism
-- Waterfall
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, The Tyranny of Taylorism & how to detect Agile BS!] [date, 2020-03-18T13:56:05Z] [videoId, FZeT8O5Ucwg] [url, /resources/videos/:slug] [slug, the-tyranny-of-taylorism-&-how-to-detect-agile-bs!] [canonicalUrl, https://www.youtube.com/watch?v=FZeT8O5Ucwg] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/FZeT8O5Ucwg/maxresdefault.jpg] [duration, 2106] [isShort, False] [tags, [Agile BS, Agility, Taylorism, Waterfall]] [sitemap, System.Collections.Hashtable]
 {{< youtube FZeT8O5Ucwg >}}
 
 # The Tyranny of Taylorism & how to detect Agile BS!

@@ -1,46 +1,5 @@
 ---
-title: 3 steps developers must follow if the product owner is incompetent
-date: 2023-10-27T14:30:10Z
-videoId: JGQ5zW6F6Uc
-url: /resources/videos/:slug
-slug: 3-steps-developers-must-follow-if-the-product-owner-is-incompetent
-canonicalUrl: https://www.youtube.com/watch?v=JGQ5zW6F6Uc
-aliases:
-- /resources/videos/JGQ5zW6F6Uc
-- /resources/videos/3-steps-developers-must-follow-if-the-product-owner-is-incompetent
-preview: https://i.ytimg.com/vi/JGQ5zW6F6Uc/maxresdefault.jpg
-duration: 407
-isShort: false
-tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, 3 steps developers must follow if the product owner is incompetent] [date, 2023-10-27T14:30:10Z] [videoId, JGQ5zW6F6Uc] [url, /resources/videos/:slug] [slug, 3-steps-developers-must-follow-if-the-product-owner-is-incompetent] [canonicalUrl, https://www.youtube.com/watch?v=JGQ5zW6F6Uc] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/JGQ5zW6F6Uc/maxresdefault.jpg] [duration, 407] [isShort, False] [tags, [Agile, Scrum, agile project management, agile product development, agile product management, project management, product development, product management, professional scrum trainer, scrum training, scrum certification, scrum.org, DevOps consultant, DevOps coach, DevOps engineer, agile coach, agile consultant, agile trainer, scrum framework, scrum methodology, scrum approach, agile leadership, leadership.]] [sitemap, System.Collections.Hashtable]
 {{< youtube JGQ5zW6F6Uc >}}
 
 # 3 steps developers must follow if the product owner is incompetent

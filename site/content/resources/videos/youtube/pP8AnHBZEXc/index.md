@@ -1,23 +1,5 @@
 ---
-title: 27th May 2020 - Office Hours \ Ask Me Anything
-date: 2020-05-28T05:34:33Z
-videoId: pP8AnHBZEXc
-url: /resources/videos/:slug
-slug: 27th-may-2020-office-hours-ask-me-anything
-canonicalUrl: https://www.youtube.com/watch?v=pP8AnHBZEXc
-aliases:
-- /resources/videos/pP8AnHBZEXc
-- /resources/videos/27th-may-2020-office-hours-ask-me-anything
-preview: https://i.ytimg.com/vi/pP8AnHBZEXc/maxresdefault.jpg
-duration: 1906
-isShort: false
-tags: []
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, 27th May 2020 - Office Hours \ Ask Me Anything] [date, 2020-05-28T05:34:33Z] [videoId, pP8AnHBZEXc] [url, /resources/videos/:slug] [slug, 27th-may-2020-office-hours-ask-me-anything] [canonicalUrl, https://www.youtube.com/watch?v=pP8AnHBZEXc] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/pP8AnHBZEXc/maxresdefault.jpg] [duration, 1906] [isShort, False] [tags, []] [sitemap, System.Collections.Hashtable]
 {{< youtube pP8AnHBZEXc >}}
 
 # 27th May 2020 - Office Hours \ Ask Me Anything

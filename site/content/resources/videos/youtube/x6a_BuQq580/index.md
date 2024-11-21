@@ -1,30 +1,5 @@
 ---
-title: DevOps Migration. Incomplete Migrations
-date: 2024-11-07T05:45:02Z
-videoId: x6a_BuQq580
-url: /resources/videos/:slug
-slug: devops-migration-incomplete-migrations
-canonicalUrl: https://www.youtube.com/watch?v=x6a_BuQq580
-aliases:
-- /resources/videos/x6a_BuQq580
-- /resources/videos/devops-migration-incomplete-migrations
-preview: https://i.ytimg.com/vi/x6a_BuQq580/maxresdefault.jpg
-duration: 186
-isShort: false
-tags:
-- Azure DevOps
-- Azure DevOps migration
-- DevOps
-- DevOps migration
-- DevOps consultant
-- DevOps coach
-- DevOps training
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, DevOps Migration. Incomplete Migrations] [date, 2024-11-07T05:45:02Z] [videoId, x6a_BuQq580] [url, /resources/videos/:slug] [slug, devops-migration-incomplete-migrations] [canonicalUrl, https://www.youtube.com/watch?v=x6a_BuQq580] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/x6a_BuQq580/maxresdefault.jpg] [duration, 186] [isShort, False] [tags, [Azure DevOps, Azure DevOps migration, DevOps, DevOps migration, DevOps consultant, DevOps coach, DevOps training]] [sitemap, System.Collections.Hashtable]
 {{< youtube x6a_BuQq580 >}}
 
 # DevOps Migration. Incomplete Migrations

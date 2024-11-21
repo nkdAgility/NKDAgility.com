@@ -1,33 +1,5 @@
 ---
-title: What are the most common challenges you are contracted to solve in a DevOps consulting gig?
-date: 2023-04-21T07:00:06Z
-videoId: LI6G1awAUyU
-url: /resources/videos/:slug
-slug: what-are-the-most-common-challenges-you-are-contracted-to-solve-in-a-devops-consulting-gig-
-canonicalUrl: https://www.youtube.com/watch?v=LI6G1awAUyU
-aliases:
-- /resources/videos/LI6G1awAUyU
-- /resources/videos/what-are-the-most-common-challenges-you-are-contracted-to-solve-in-a-devops-consulting-gig-
-preview: https://i.ytimg.com/vi/LI6G1awAUyU/maxresdefault.jpg
-duration: 370
-isShort: false
-tags:
-- DevOps
-- DevOps Consultant
-- DevOps Consulting
-- DevOps Training
-- Scrum
-- Agile
-- Agile Coach
-- Agile Consulting
-- Agile Consultant
-- Agile coaching
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, What are the most common challenges you are contracted to solve in a DevOps consulting gig?] [date, 2023-04-21T07:00:06Z] [videoId, LI6G1awAUyU] [url, /resources/videos/:slug] [slug, what-are-the-most-common-challenges-you-are-contracted-to-solve-in-a-devops-consulting-gig-] [canonicalUrl, https://www.youtube.com/watch?v=LI6G1awAUyU] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/LI6G1awAUyU/maxresdefault.jpg] [duration, 370] [isShort, False] [tags, [DevOps, DevOps Consultant, DevOps Consulting, DevOps Training, Scrum, Agile, Agile Coach, Agile Consulting, Agile Consultant, Agile coaching]] [sitemap, System.Collections.Hashtable]
 {{< youtube LI6G1awAUyU >}}
 
 # What are the most common challenges you are contracted to solve in a DevOps consulting gig?

@@ -1,30 +1,5 @@
 ---
-title: Biggest misconception about a scrum master
-date: 2023-06-21T11:00:52Z
-videoId: zs0q_zz8-JY
-url: /resources/videos/:slug
-slug: biggest-misconception-about-a-scrum-master
-canonicalUrl: https://www.youtube.com/watch?v=zs0q_zz8-JY
-aliases:
-- /resources/videos/zs0q_zz8-JY
-- /resources/videos/biggest-misconception-about-a-scrum-master
-preview: https://i.ytimg.com/vi/zs0q_zz8-JY/maxresdefault.jpg
-duration: 46
-isShort: true
-tags:
-- Scrum
-- Scrum Master
-- ScrumMaster
-- Scrum Framework
-- Scrum Methodology
-- Scrum Project Management
-- Scrum Product Development
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Biggest misconception about a scrum master] [date, 2023-06-21T11:00:52Z] [videoId, zs0q_zz8-JY] [url, /resources/videos/:slug] [slug, biggest-misconception-about-a-scrum-master] [canonicalUrl, https://www.youtube.com/watch?v=zs0q_zz8-JY] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/zs0q_zz8-JY/maxresdefault.jpg] [duration, 46] [isShort, True] [tags, [Scrum, Scrum Master, ScrumMaster, Scrum Framework, Scrum Methodology, Scrum Project Management, Scrum Product Development]] [sitemap, System.Collections.Hashtable]
 {{< youtube zs0q_zz8-JY >}}
 
 # Biggest misconception about a scrum master

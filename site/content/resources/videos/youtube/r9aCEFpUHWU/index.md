@@ -1,35 +1,5 @@
 ---
-title: How does the lack of basic skills among Scrum Masters impact teams and organizations
-date: 2024-10-21T05:32:11Z
-videoId: r9aCEFpUHWU
-url: /resources/videos/:slug
-slug: how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
-canonicalUrl: https://www.youtube.com/watch?v=r9aCEFpUHWU
-aliases:
-- /resources/videos/r9aCEFpUHWU
-- /resources/videos/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
-preview: https://i.ytimg.com/vi/r9aCEFpUHWU/maxresdefault.jpg
-duration: 466
-isShort: false
-tags:
-- Agile
-- Scrum
-- Scrum Master
-- Competence
-- Scrum training
-- Agile consulting
-- Agile coaching
-- Project Management
-- Product Management
-- Product Development
-- Agile project management
-- Agile product management
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, How does the lack of basic skills among Scrum Masters impact teams and organizations] [date, 2024-10-21T05:32:11Z] [videoId, r9aCEFpUHWU] [url, /resources/videos/:slug] [slug, how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations] [canonicalUrl, https://www.youtube.com/watch?v=r9aCEFpUHWU] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/r9aCEFpUHWU/maxresdefault.jpg] [duration, 466] [isShort, False] [tags, [Agile, Scrum, Scrum Master, Competence, Scrum training, Agile consulting, Agile coaching, Project Management, Product Management, Product Development, Agile project management, Agile product management]] [sitemap, System.Collections.Hashtable]
 {{< youtube r9aCEFpUHWU >}}
 
 # How does the lack of basic skills among Scrum Masters impact teams and organizations

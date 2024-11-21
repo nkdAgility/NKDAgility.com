@@ -1,23 +1,5 @@
 ---
-title: Professional Scrum Training from naked Agility with Martin Hinshelwood
-date: 2022-09-09T14:17:04Z
-videoId: vY0hXTm-wgk
-url: /resources/videos/:slug
-slug: professional-scrum-training-from-naked-agility-with-martin-hinshelwood
-canonicalUrl: https://www.youtube.com/watch?v=vY0hXTm-wgk
-aliases:
-- /resources/videos/vY0hXTm-wgk
-- /resources/videos/professional-scrum-training-from-naked-agility-with-martin-hinshelwood
-preview: https://i.ytimg.com/vi/vY0hXTm-wgk/maxresdefault.jpg
-duration: 142
-isShort: false
-tags: []
-sitemap:
-  priority: 0.4
-  filename: sitemap.xml
-
----
-
+[title, Professional Scrum Training from naked Agility with Martin Hinshelwood] [date, 2022-09-09T14:17:04Z] [videoId, vY0hXTm-wgk] [url, /resources/videos/:slug] [slug, professional-scrum-training-from-naked-agility-with-martin-hinshelwood] [canonicalUrl, https://www.youtube.com/watch?v=vY0hXTm-wgk] [aliases, System.Object[]] [preview, https://i.ytimg.com/vi/vY0hXTm-wgk/maxresdefault.jpg] [duration, 142] [isShort, False] [tags, []] [sitemap, System.Collections.Hashtable]
 {{< youtube vY0hXTm-wgk >}}
 
 # Professional Scrum Training from naked Agility with Martin Hinshelwood
