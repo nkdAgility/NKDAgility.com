@@ -20,6 +20,8 @@ tags:
 - product development
 - product management
 - project management
+resourceTypes:
+- video
 
 ---
 {{< youtube b3HFBlCcomk >}}
@@ -91,6 +93,7 @@ The best way to understand Agile is not by how fast you can get things done, but
 ## **Final Thoughts: Agile is About Delivering Value, Not Speed**
 
 Agile is often misunderstood as a methodology for doing things faster. In reality, Agile is about ensuring that the time you spend is on the most valuable tasks—the ones that will truly benefit your customers and your business. By focusing on market fit, eliminating unnecessary bureaucracy, and embracing an iterative process, Agile helps organizations deliver better products, not just faster products. So, the next time you hear someone equating agility with speed, remember: it’s not about rushing to the finish line; it’s about making sure that what you deliver is worth the journey. 🚀
+
 
 
 

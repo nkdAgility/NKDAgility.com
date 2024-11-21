@@ -29,6 +29,8 @@ tags:
 - scrum
 - agile scrum
 - agile scrum training
+resourceTypes:
+- video
 
 ---
 {{< youtube Iy33x8E9JMQ >}}
@@ -76,6 +78,7 @@ Embracing Empiricism means we're flexible, responsive, and adaptive, ready to mo
 As we embrace the path of pragmatism and empirical adaptation, I invite you to enhance your Agile and Scrum knowledge with our comprehensive courses.
 
 Let's pave a path that fosters innovation, responsiveness, and success in the ever-evolving business landscape.
+
 
 
 

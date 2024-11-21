@@ -30,6 +30,8 @@ tags:
 - agile consultant
 - scrum
 - scrum framework
+resourceTypes:
+- video
 
 ---
 {{< youtube Na9jm-enlD0 >}}
@@ -116,6 +118,7 @@ As we reflect on the journey through consensus in product development, it’s cl
 - **Adapting to Circumstances**: Recognizing when to seek consensus and when to make a decision is an art and science, contributing to the successful evolution of a product 🎨🔬. 
 
 In conclusion, consensus, while always valuable, manifests differently depending on circumstances. Embracing this complexity can lead to richer, more nuanced product development 💡.
+
 
 
 

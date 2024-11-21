@@ -20,6 +20,8 @@ tags:
 - Agile Coaching
 - Gartners Hype Cycle
 - Slope of enlightenment
+resourceTypes:
+- video
 
 ---
 {{< youtube 3NtGxZfuBnU >}}
@@ -79,6 +81,7 @@ How do we, as organizations, leaders, and teams, approach this journey toward en
 So, are we there yet?  
 
 In the broader landscape, perhaps not. But the slope of enlightenment is within sight. The more we focus on people, the closer we get to realizing the Agile dream. It's an uphill climb, but the view from the top promises a revolution in how we work, collaborate, and succeed. 🏔️🌄
+
 
 
 

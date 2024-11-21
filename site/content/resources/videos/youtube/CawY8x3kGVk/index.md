@@ -40,6 +40,8 @@ tags:
 - Agile leadership
 - Agile leader
 - Leadership
+resourceTypes:
+- video
 
 ---
 {{< youtube CawY8x3kGVk >}}
@@ -85,6 +87,7 @@ The myth of micromanagement in Scrum serves as a reminder of the importance of c
 Remember, the transition to Agile and Scrum is as much about a shift in mindset as it is about changing practices. Let's commit to guiding our organizations through this transformation with patience, understanding, and a steadfast dedication to the core values of Scrum.
 
 _If you found this exploration of the micromanagement myth in Scrum insightful and wish to dive deeper into Agile, Scrum, or DevOps practices, feel free to reach out. Let's continue the conversation over a coffee chat and discover more ways to enhance our Agile journeys together._
+
 
 
 

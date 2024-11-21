@@ -22,6 +22,8 @@ tags:
 - Agile
 - Agile Project Management
 - Agile Product Development
+resourceTypes:
+- video
 
 ---
 {{< youtube Xs-gf093GbI >}}
@@ -71,6 +73,7 @@ It's the heartbeat that keeps the product alive and thriving.
 For those wanting a deep dive into building and understanding effective product visions, I encourage you to check out our Agile and Scrum courses.
 
 Let's embark on this journey of discovery and alignment together.
+
 
 
 

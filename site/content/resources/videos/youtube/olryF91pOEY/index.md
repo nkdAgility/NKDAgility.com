@@ -24,6 +24,8 @@ tags:
 - Scrum.Org
 - Agile coaching
 - Agile consulting
+resourceTypes:
+- video
 
 ---
 {{< youtube olryF91pOEY >}}
@@ -121,6 +123,7 @@ Hashtags:        #AgileConsulting #ScrumWorkshop #AgileTransformation #Pro
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

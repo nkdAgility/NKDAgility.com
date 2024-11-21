@@ -38,6 +38,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube BCWiKTm8hjg >}}
@@ -151,6 +153,7 @@ By embracing charity, we create a healthier, more collaborative, and successful 
 * * *
 
 **Ready to Elevate Your Agile Team?** Reach out today and let’s chat about how we can take your Agile journey to the next level. ☕ Let's have coffee and solve your challenges together.
+
 
 
 

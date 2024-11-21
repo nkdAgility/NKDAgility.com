@@ -38,6 +38,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube Puz2wSg7UmE >}}
@@ -135,6 +137,7 @@ Remember, it’s not just about tracking metrics—it’s about using them to ma
 - **Complexity overhead**: Simplify systems to remove barriers to innovation.
 
 By focusing on these areas, you'll set your organization up for long-term success, continuously improving the value you deliver through innovation.
+
 
 
 

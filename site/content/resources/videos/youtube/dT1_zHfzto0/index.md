@@ -37,6 +37,8 @@ tags:
 - DevOps consulting
 - DevOps coach
 - DevOps coaching
+resourceTypes:
+- video
 
 ---
 {{< youtube dT1_zHfzto0 >}}
@@ -80,6 +82,7 @@ Ensuring your organisation falls into the successful 10% is challenging yet achi
 ## Elevating Your Scrum Journey 🚀  
 
 Ken’s assertion provides a sobering perspective on Scrum adoption. However, by focusing on a holistic transformation and customer-centric delivery, organisations can defy the odds and join the successful minority.
+
 
 
 

@@ -17,6 +17,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube E2aYkadJJok >}}
@@ -41,4 +43,5 @@ Discover the secrets of using Kanban to optimize your campaigns. This video will
 Visit https://www.nkdagility.com for more information on Kanban courses and Kanban coaching / consulting to help you optimize your Kanban adoption.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=E2aYkadJJok)
+
 

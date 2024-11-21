@@ -22,6 +22,8 @@ tags:
 - Scrum
 - Scrum Team
 - Product Development
+resourceTypes:
+- video
 
 ---
 {{< youtube 5bgfme-Pspw >}}
@@ -75,6 +77,7 @@ Hashtags:        #Momentum, #TeamMovement, #AgileLeadership, #Direction
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

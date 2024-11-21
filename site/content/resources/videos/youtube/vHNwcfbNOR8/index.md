@@ -19,6 +19,8 @@ tags:
 - Scrum Apprenticeship
 - Agile Scrum Training
 - Agile Certification
+resourceTypes:
+- video
 
 ---
 {{< youtube vHNwcfbNOR8 >}}
@@ -66,6 +68,7 @@ Hashtags:        #AgileApprenticeships, #ImmersiveLearning, #Mentorship
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

@@ -24,6 +24,8 @@ tags:
 - Kanban coach
 - Kanban consultant
 - Kanban courses
+resourceTypes:
+- video
 
 ---
 {{< youtube IU_1dJw7xk4 >}}
@@ -115,6 +117,7 @@ Transitioning from traditional project management to Kanban doesn't have to be d
 - **Consulting Services**: Need help implementing Kanban? Our experts are here to guide you.
 
 - **Further Reading**: Explore more about Kanban and agile methodologies on our blog.
+
 
 
 

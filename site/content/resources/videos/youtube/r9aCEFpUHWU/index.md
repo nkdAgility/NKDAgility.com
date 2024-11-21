@@ -26,6 +26,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube r9aCEFpUHWU >}}
@@ -58,4 +60,5 @@ We can help your teams build competence, deliver valuable products, and achieve 
 #agile #scrum #scrummaster #productdevelopment #agileproductdevelopment #productowner #productmanager #productmanagement #projectmanagement #projectmanager
 
 [Watch on YouTube](https://www.youtube.com/watch?v=r9aCEFpUHWU)
+
 

@@ -14,6 +14,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube kOgKt8w_hWY >}}
@@ -23,4 +25,5 @@ sitemap:
 
 
 [Watch on YouTube](https://www.youtube.com/watch?v=kOgKt8w_hWY)
+
 

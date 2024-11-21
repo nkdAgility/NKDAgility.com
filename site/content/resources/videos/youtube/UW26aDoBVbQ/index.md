@@ -26,6 +26,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube UW26aDoBVbQ >}}
@@ -55,4 +57,5 @@ Don't miss out on this opportunity to learn from the best in the business. Sign 
 Speakers (2)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=UW26aDoBVbQ)
+
 

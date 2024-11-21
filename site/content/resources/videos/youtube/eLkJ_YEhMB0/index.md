@@ -38,6 +38,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube eLkJ_YEhMB0 >}}
@@ -125,6 +127,7 @@ If you’re struggling with the role that certifications play in your Agile jour
 - **Join us** – We offer immersive training that goes beyond certifications, helping you build real-world expertise.
 
 Remember, the journey to becoming a true Agile professional is about more than just passing a test. It’s about continuous learning, hands-on experience, and making a real impact within your teams. 🛠️ **Certifications aren’t the destination—they’re just the start!**
+
 
 
 

@@ -39,6 +39,8 @@ tags:
 - DevOps consulting
 - DevOps coach
 - DevOps coaching
+resourceTypes:
+- video
 
 ---
 {{< youtube AY35ys1uQOY >}}
@@ -84,6 +86,7 @@ So, if your sprint goal is generating these kinds of responses and dialogues, yo
 Interested in learning more about Agile and Scrum?
 
 Check out my Agile and Scrum courses and let's unravel more Agile mysteries together – one sprint goal at a time! 🔍
+
 
 
 

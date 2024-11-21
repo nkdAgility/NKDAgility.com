@@ -24,6 +24,8 @@ tags:
 - Scrum Certification
 - Scrum.Org
 - Scrum Courses
+resourceTypes:
+- video
 
 ---
 {{< youtube 4fHBoSvTrrM >}}
@@ -71,6 +73,7 @@ I'd love to share more on this and other Agile, Scrum, and DevOps topics.  If t
 And remember, I'm always eager to engage in the comments or over a coffee chat!
 
 Reach out, and let's transform your Scrum journey together.
+
 
 
 

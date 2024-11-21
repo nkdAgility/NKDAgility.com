@@ -38,6 +38,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube 1VzbtRspOsM >}}
@@ -131,6 +133,7 @@ At the end of the day, the PAL-E class isn’t just about theory—it’s about 
 ## **Ready to Transform Your Leadership?**
 
 By focusing on **practical applications**, **peer feedback**, and **real-world experiments**, the PAL-E immersive class delivers a transformative experience for aspiring agile leaders. Start your journey today and unlock the full potential of your organization’s agile capabilities.
+
 
 
 

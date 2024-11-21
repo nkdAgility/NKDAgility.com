@@ -21,6 +21,8 @@ tags:
 - Agile Software Engineering
 - Agile Project Management
 - Agile Developer
+resourceTypes:
+- video
 
 ---
 {{< youtube cv5IIVUgack >}}
@@ -58,6 +60,7 @@ We must hone our craft, deeply understand the Agile ethos, and ensure our produc
 If you're a developer looking to navigate this transition or simply want to sharpen your Scrum toolkit, consider joining my Agile and Scrum courses.
 
 Together, let's master the art of continuous everything!  🌟
+
 
 
 

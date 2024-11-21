@@ -18,6 +18,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube FZeT8O5Ucwg >}}
@@ -41,4 +43,5 @@ View Presentation: https://nkdagility.net/30MVagF
 DIB Guide: Detecting Agile BS: https://nkdagility.net/DOD-Detecting​
 
 [Watch on YouTube](https://www.youtube.com/watch?v=FZeT8O5Ucwg)
+
 

@@ -38,6 +38,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube XZVixdVy-PQ >}}
@@ -145,6 +147,7 @@ That’s why I encourage you to book a call or visit us at [Naked Agility](https
 - For personalized help, consider reaching out for guidance or attending one of our Agile training sessions.
 
 Agile isn’t a one-size-fits-all solution—it’s a mindset. If you’re ready to move beyond rituals and unlock the full potential of Agile, let’s start the conversation.
+
 
 
 

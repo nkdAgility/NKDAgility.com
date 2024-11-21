@@ -17,6 +17,8 @@ sitemap:
 tags:
 - '#scrum'
 - agile
+resourceTypes:
+- video
 
 ---
 {{< youtube sidTi_uSsdc >}}
@@ -68,6 +70,7 @@ Hashtags:         #AgileTransformation #ScrumMastery #DisciplineVsMotivat
 General
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

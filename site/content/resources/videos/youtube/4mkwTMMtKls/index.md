@@ -27,6 +27,8 @@ tags:
 - Project Management
 - Product Management
 - Product development
+resourceTypes:
+- video
 
 ---
 {{< youtube 4mkwTMMtKls >}}
@@ -84,6 +86,7 @@ Agile is about crafting a journey that’s right for your team and your customer
 - **Key Insights for Agile Success**: 🗝️ Summarising the essential elements for a successful, individualized Agile approach. 
 
 - **Future-Focused Agile Practice**: 🚀 Encouraging continuous innovation, adaptation, and personalisation in Agile methodologies.
+
 
 
 

@@ -25,6 +25,8 @@ tags:
 - Scrum Product Management
 - Scrum Training
 - Scrum Course
+resourceTypes:
+- video
 
 ---
 {{< youtube o-wVeh3CIVI >}}
@@ -78,6 +80,7 @@ Hashtags:        #Scrum, #SocialTechnology, #Complexity, #TaskManagement
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

@@ -20,6 +20,8 @@ tags:
 - Agile Adoption
 - Agile Transformation
 - Agile leadership
+resourceTypes:
+- video
 
 ---
 {{< youtube ItnQxg3Q4Fc >}}
@@ -71,6 +73,7 @@ In summation, the need for senior leadership engagement is not an optional extra
 Ready to become an Agile powerhouse?
 
 Don't just deepen your understanding—transform it. Explore our comprehensive courses in Agile, Scrum, and transformative change to elevate your Agile skills to an expert level today! 🌟
+
 
 
 

@@ -22,6 +22,8 @@ tags:
 - product management
 - product development
 - project management
+resourceTypes:
+- video
 
 ---
 {{< youtube YGBrayIqm7k >}}
@@ -139,6 +141,7 @@ In your own product journey, remember that the synergy between these two functio
 - **Foster strong collaboration** between Product Management and Product Development.
 
 By adopting this integrated approach, you'll be well on your way to building products that truly make an impact.
+
 
 
 

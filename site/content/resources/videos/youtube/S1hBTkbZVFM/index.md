@@ -38,6 +38,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube S1hBTkbZVFM >}}
@@ -131,6 +133,7 @@ By focusing on these qualities, you’ll find an Agile coach who not only fits y
 * * *
 
 If you're ready to hire an Agile coach, remember to ask the right questions and dig into their experience with both teams and leadership. It's about finding someone who can build trust, foster collaboration, and create lasting change. **Good luck with your Agile journey!**
+
 
 
 

@@ -38,6 +38,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube s_kWkDCbp9Y >}}
@@ -143,6 +145,7 @@ Remember:
 - **Continuous learning is essential** 📚.
 
 So, as you move forward in your Agile coaching journey, make it a point to dive deep into the work your teams are doing. The more you understand their world, the more effective you’ll be in helping them navigate the challenges of Agile. If you’d like to discuss Agile, Scrum, or anything else related to team dynamics, feel free to **book a coffee chat** with me. Let’s connect and share insights! ☕
+
 
 
 

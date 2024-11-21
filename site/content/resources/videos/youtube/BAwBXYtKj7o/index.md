@@ -25,6 +25,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube BAwBXYtKj7o >}}
@@ -72,4 +74,5 @@ At [NKD Agility](https://www.nkdagility.com), we help teams implement modern eng
 #agile #agileproductdevelopment #agileprojectmanagement #agileproductmanagement #productdevelopment #productmanager #productowner #projectmanager #scrummasters
 
 [Watch on YouTube](https://www.youtube.com/watch?v=BAwBXYtKj7o)
+
 

@@ -24,6 +24,8 @@ tags:
 - Azure DevOps coach
 - Agile
 - Scrum
+resourceTypes:
+- video
 
 ---
 {{< youtube sXmXT_MDXTo >}}
@@ -139,6 +141,7 @@ DevOps is not a one-size-fits-all solution. Every organization is different, and
 - **Stay Compliant:** Meet compliance requirements without sacrificing the agility and benefits of DevOps.
 
 By following these principles, your organization can successfully navigate the complexities of DevOps and achieve a more streamlined, efficient, and effective software development process. 🚀
+
 
 
 

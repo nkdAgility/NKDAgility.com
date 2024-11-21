@@ -38,6 +38,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube EoInrPvjBHo >}}
@@ -119,6 +121,7 @@ Agile Banditry doesn’t just hurt the Product Owner; it hurts the entire team a
 - **Trust your team** to deliver amazing results when they’re given autonomy and support.
 
 **Prioritize engagement**—happy, empowered teams build the best products.
+
 
 
 

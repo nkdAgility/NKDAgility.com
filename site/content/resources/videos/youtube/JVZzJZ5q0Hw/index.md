@@ -28,6 +28,8 @@ tags:
 - Product Development
 - Agile project management
 - Agile product development
+resourceTypes:
+- video
 
 ---
 {{< youtube JVZzJZ5q0Hw >}}
@@ -101,6 +103,7 @@ Then my Agile and Scrum courses are just the thing for you!
 Let's continue this journey towards Scrum mastery together.
 
 About NKD Agility
+
 
 
 

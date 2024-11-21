@@ -38,6 +38,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube Ca_0rw9AUlg >}}
@@ -149,6 +151,7 @@ So, how can you start focusing on the system to bring about the cultural transfo
 ## **Conclusion: Culture Is an Outcome, Not a Lever**
 
 Remember, culture is not something you can change directly. It’s an outcome of the way your organization’s system operates. If you want to see long-lasting, meaningful changes in your organization, focus on **changing the system**. By doing so, you’ll naturally shift behaviors, and the culture will follow. 🚀 **Take action now**—small changes lead to big results!
+
 
 
 

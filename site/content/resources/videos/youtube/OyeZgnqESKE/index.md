@@ -38,6 +38,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube OyeZgnqESKE >}}
@@ -149,6 +151,7 @@ Through immersive learning, Scrum students:
 - Apply their knowledge in real-world situations, leading to **continuous improvement**.
 
 And the best part? This process not only keeps people **excited** about learning Scrum but also helps them to become **better practitioners**. So whether you’re a Scrum Master, an Agile coach, or a team member, remember: learning is never a one-time event. It’s a journey of continuous **growth** and **discovery**. Let’s make sure we enjoy the ride! 🚀
+
 
 
 

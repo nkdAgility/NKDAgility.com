@@ -15,6 +15,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags: []
+resourceTypes:
+- video
 
 ---
 {{< youtube W3cyrYFXDfg >}}
@@ -104,6 +106,7 @@ If you’re a manager who’s transitioning into a leadership role or someone wh
 ## Final Thoughts
 
 Becoming an agile leader takes time, effort, and the right support. Don’t assume that leadership will come naturally without guidance. By investing in **Professional Agile Leadership** and **Evidence-Based Management** training, you’ll not only improve your own leadership skills but also contribute to the success of your entire organization. 🚀 Ready to take the next step in your leadership journey?
+
 
 
 

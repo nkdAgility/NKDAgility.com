@@ -18,6 +18,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube r_Af7X25IDk >}}
@@ -29,4 +31,5 @@ Leading Agile Change is hard and many companies have already been through their 
 Learn from others, but break your own path.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=r_Af7X25IDk)
+
 

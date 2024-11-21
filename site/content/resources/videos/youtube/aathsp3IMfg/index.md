@@ -19,6 +19,8 @@ tags:
 - Agile
 - Agile Consulting
 - Agile product development
+resourceTypes:
+- video
 
 ---
 {{< youtube aathsp3IMfg >}}
@@ -72,6 +74,7 @@ Engage, reflect, and elevate.   🌟
 I'm here to guide and collaborate with you along your Agile journey.
 
 Let's connect through Naked Agility and script your unique Scrum success narrative.
+
 
 
 

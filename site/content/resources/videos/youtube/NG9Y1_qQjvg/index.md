@@ -22,6 +22,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube NG9Y1_qQjvg >}}
@@ -33,4 +35,5 @@ Have you seen how easy it is to install and configure a full release management 
 More videos and blogs on http://nakedalm.com/blog
 
 [Watch on YouTube](https://www.youtube.com/watch?v=NG9Y1_qQjvg)
+
 

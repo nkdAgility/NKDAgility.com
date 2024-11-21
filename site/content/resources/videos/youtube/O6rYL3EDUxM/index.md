@@ -20,6 +20,8 @@ tags:
 - Agile product management
 - Agile product development
 - Agile project management
+resourceTypes:
+- video
 
 ---
 {{< youtube O6rYL3EDUxM >}}
@@ -111,6 +113,7 @@ Remember, Agile is not just a set of practices—it’s a mindset. It requires a
 - **🚀** **Take action:** Start by focusing on one area where you can improve, and build momentum from there.
 
 Agile isn’t easy, but with the right mindset and approach, it’s achievable. And once you get there, you’ll never want to go back.
+
 
 
 

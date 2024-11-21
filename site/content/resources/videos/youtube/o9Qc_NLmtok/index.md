@@ -22,6 +22,8 @@ tags:
 - scrum training
 - scrum courses
 - scrum certification
+resourceTypes:
+- video
 
 ---
 {{< youtube o9Qc_NLmtok >}}
@@ -69,6 +71,7 @@ Dive into our immersive courses and emerge with insights and actionable strategi
 See you in class! 📖✌️
 
 Elevate your Scrum game! 🚀
+
 
 
 

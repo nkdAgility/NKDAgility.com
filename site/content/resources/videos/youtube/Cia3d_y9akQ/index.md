@@ -23,6 +23,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube Cia3d_y9akQ >}}
@@ -58,4 +60,5 @@ Chapters
 Ready to move beyond the misconceptions and develop the deep competencies that make a great Scrum Master? 💪 Visit [NKD Agility](https://www.nkdagility.com) to learn how we can help you understand the core principles, philosophies, and theories that drive real success in Scrum. Don’t settle for surface-level practices—take your Scrum Mastery to the next level! 🚀 #ScrumMastery #AgileExcellence #NKDAgility
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Cia3d_y9akQ)
+
 

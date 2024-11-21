@@ -21,6 +21,8 @@ tags:
 - Scrum
 - Agile Project Management
 - Product Development
+resourceTypes:
+- video
 
 ---
 {{< youtube 1ePkQeCVAlY >}}
@@ -74,6 +76,7 @@ Keywords:       Resource efficiency, Flow efficiency, Optimisation, Agile p
 Specific:           #ResourceEfficiency, #FlowEfficiency, #Optimization, #AgileProcesses
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

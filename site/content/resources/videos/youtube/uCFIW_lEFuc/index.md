@@ -22,6 +22,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube uCFIW_lEFuc >}}
@@ -62,4 +64,5 @@ For those struggling to implement Agile principles or align their actions with i
 #agile #sloth #agileprinciples #nkdagility #scrum #teams #organisations #leadership #transparency
 
 [Watch on YouTube](https://www.youtube.com/watch?v=uCFIW_lEFuc)
+
 

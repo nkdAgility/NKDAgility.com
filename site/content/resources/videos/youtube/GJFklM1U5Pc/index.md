@@ -22,6 +22,8 @@ tags:
 - HR
 - HR Manager
 - Hiring
+resourceTypes:
+- video
 
 ---
 {{< youtube GJFklM1U5Pc >}}
@@ -163,6 +165,7 @@ The competence crisis in Scrum Master roles is a reality, but it’s not without
 - Focus on practical experience and real-world application.
 
 By focusing on these areas, Scrum Masters can elevate their roles, deliver more value, and help their organizations thrive in this new age of agile.
+
 
 
 

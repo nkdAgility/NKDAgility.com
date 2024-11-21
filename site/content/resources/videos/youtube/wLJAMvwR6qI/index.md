@@ -14,6 +14,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube wLJAMvwR6qI >}}
@@ -23,4 +25,5 @@ sitemap:
 Professional Product Discovery and Validation course learning outcomes. Visit https://nkdagility.com/training-courses/product-training-courses/professional-product-discovery-and-validation-skills-ppdv/ to register. #agile #scrum #scrumtraining #productdiscovery #productowner #projectmanager
 
 [Watch on YouTube](https://www.youtube.com/watch?v=wLJAMvwR6qI)
+
 

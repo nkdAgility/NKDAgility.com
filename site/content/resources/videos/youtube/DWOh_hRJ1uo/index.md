@@ -22,6 +22,8 @@ tags:
 - Scrum Master Career Options
 - Agile
 - Agile Coach
+resourceTypes:
+- video
 
 ---
 {{< youtube DWOh_hRJ1uo >}}
@@ -103,6 +105,7 @@ Article Specific:  Scrum Master, certification path, validated learning, Scrum 
 Hashtags:   #ScrumMaster #CareerDevelopment #ContinuousLearning #Agile.
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

@@ -25,6 +25,8 @@ tags:
 - Agile coaching
 - Consulting
 - Consultant
+resourceTypes:
+- video
 
 ---
 {{< youtube Ye016yOxvcs >}}
@@ -66,6 +68,7 @@ And most importantly, never assume to fully know your customer's context, for it
 Embark on a journey of transformation and skill enhancement with my Agile and Scrum courses.
 
 Let's unravel the intricacies of being a successful Agile Consultant, nurturing a mindset that embraces learning, adaptation, and innovation.  🚀
+
 
 
 

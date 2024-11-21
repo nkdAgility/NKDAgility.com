@@ -26,6 +26,8 @@ tags:
 - Kanban flow
 - Predictability in Kanban
 - Kanban forecasting
+resourceTypes:
+- video
 
 ---
 {{< youtube gjrvSJWE0Gk >}}
@@ -125,6 +127,7 @@ The "Applying Metrics for Predictability" course offers invaluable insights and 
 - **Further Reading**: Check out more articles on Kanban and agile methodologies on our blog.
 
 If your current system of work is failing you, then you would benefit from creating and applying a Kanban strategy. Our professional Kanban trainers and consultants are ready to help. Don't wait. The sooner you start, the sooner you'll improve. Get in touch below.
+
 
 
 

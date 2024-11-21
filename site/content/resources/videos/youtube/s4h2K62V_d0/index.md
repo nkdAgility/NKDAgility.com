@@ -24,6 +24,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube s4h2K62V_d0 >}}
@@ -72,4 +74,5 @@ Are you ready to embrace modern software engineering practices and unlock your t
 #agile #scrum #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #productdevelopment #projectmanagement #projectmanager #productmanager #developer
 
 [Watch on YouTube](https://www.youtube.com/watch?v=s4h2K62V_d0)
+
 

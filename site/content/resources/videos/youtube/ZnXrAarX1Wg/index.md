@@ -22,6 +22,8 @@ tags:
 - Agile Project Management
 - Agility
 - Business Agility
+resourceTypes:
+- video
 
 ---
 {{< youtube ZnXrAarX1Wg >}}
@@ -67,6 +69,7 @@ Hashtags:         #AgileConsulting #Coaching #Teaching #Change
 General
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

@@ -20,6 +20,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube pw_8gbaWZC4 >}}
@@ -33,4 +35,5 @@ Visit https://www.nkdagility.com
 How does Kanban support continuous improvement in a pull based system?
 
 [Watch on YouTube](https://www.youtube.com/watch?v=pw_8gbaWZC4)
+
 

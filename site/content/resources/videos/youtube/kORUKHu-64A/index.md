@@ -40,6 +40,8 @@ tags:
 - Agile leadership
 - Agile leader
 - Leadership
+resourceTypes:
+- video
 
 ---
 {{< youtube kORUKHu-64A >}}
@@ -89,6 +91,7 @@ The narrative that Scrum disregards governance is a myth that oversimplifies the
 Remember, governance in the context of Scrum isn't about imposing unnecessary constraints; it's about empowering teams to deliver value effectively within the bounds of regulatory and organizational expectations. Let's navigate this balance together, leveraging governance as a foundation for innovation and success in our Agile endeavors.
 
 _If you found this discussion on Scrum and governance insightful and wish to explore more about Agile, Scrum, or DevOps practices, I'm here for a chat. Let's connect over a coffee chat and continue our journey towards Agile excellence together._
+
 
 
 

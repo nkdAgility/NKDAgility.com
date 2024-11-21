@@ -24,6 +24,8 @@ tags:
 - Scrum Coach
 - Agile Coach
 - Agile
+resourceTypes:
+- video
 
 ---
 {{< youtube cR4D4qQe9ps >}}
@@ -75,6 +77,7 @@ Hashtags:        ScrumMasterTips #ScrumGuide #AgileLearning #BackToBasics
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

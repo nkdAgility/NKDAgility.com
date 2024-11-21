@@ -17,6 +17,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube sIhG2i7frpE >}}
@@ -26,4 +28,5 @@ sitemap:
 Improving workflow with #kanban. Visit https://www.nkdagility.com #agile #agileframework #kanban
 
 [Watch on YouTube](https://www.youtube.com/watch?v=sIhG2i7frpE)
+
 

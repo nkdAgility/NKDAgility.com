@@ -20,6 +20,8 @@ tags:
 - Agile Software Development
 - Agile Product Development
 - Agile Project Management
+resourceTypes:
+- video
 
 ---
 {{< youtube 96iDY11yOjc >}}
@@ -85,6 +87,7 @@ Let's redefine what it means to be a developer in this agile era!
 I invite you to dive deep into this world of engaged and self-directed learning through my Agile and Scrum courses. 🚀
 
 It's a space where your passion meets our guidance, where your journey of transforming from an average developer to an agile maestro begins.
+
 
 
 

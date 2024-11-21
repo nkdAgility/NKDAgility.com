@@ -36,6 +36,8 @@ tags:
 - scrum framework
 - scrum methodology
 - scrum approach.
+resourceTypes:
+- video
 
 ---
 {{< youtube rNqYGyB6PtY >}}
@@ -125,6 +127,7 @@ So, when do you finally decide to fire the team?
 - **Act quickly when necessary**. Prolonging the inevitable only hurts the product, the organization, and ultimately, your customers.
 
 **🚀** **Moving Forward** At the end of the day, a successful product owner understands when to invest in their team and when to cut their losses. It’s not an easy decision, but it’s one that can save your product—and your organization. If you find yourself in a situation like this and need advice or coaching, feel free to reach out. I’m always happy to chat about Scrum, Agile, or DevOps. Let’s build amazing teams together!
+
 
 
 

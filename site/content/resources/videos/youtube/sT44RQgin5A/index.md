@@ -24,6 +24,8 @@ tags:
 - Leadership
 - Project management
 - Project manager
+resourceTypes:
+- video
 
 ---
 {{< youtube sT44RQgin5A >}}
@@ -159,6 +161,7 @@ By measuring and optimizing these areas, teams can strike a balance between **in
 * * *
 
 By adopting this evidence-based approach, we can transform how we deliver value, both internally and to our customers. It’s not just about what we build—it's about how we measure, adapt, and grow.
+
 
 
 

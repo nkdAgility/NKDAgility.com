@@ -21,6 +21,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube hWyF6CbcbQ8 >}}
@@ -44,4 +46,5 @@ Video Chapters:
 #azuredevops #azure #azureexpert #azureservices #devops #devopsconsultant #devopscoach #devopstraining
 
 [Watch on YouTube](https://www.youtube.com/watch?v=hWyF6CbcbQ8)
+
 

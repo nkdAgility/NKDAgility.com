@@ -38,6 +38,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube 2_CowcUpzAA >}}
@@ -152,6 +154,7 @@ If you’re ready to dive deeper into what it takes to be a successful Product O
 * * *
 
 By understanding the depth of the Product Owner role, you’ll be better prepared to handle its complexities and unlock its true potential. Whether you’re new to the role or looking to refine your skills, continuous learning and relationship-building will be key to your success. 🚀
+
 
 
 

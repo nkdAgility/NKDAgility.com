@@ -38,6 +38,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube El__Y7CTcrY >}}
@@ -136,6 +138,7 @@ For anyone looking to improve their learning experience, here are a few of my to
 ## **Wrapping It Up: Why Immersive Learning Is Here to Stay** **🌟**
 
 In the world of Scrum and Agile, continuous improvement is key, and that extends to how we teach and learn. Immersive learning allows students to **slow down**, absorb, and reflect. This approach not only helps them to **retain information** but also ensures they can apply it when they return to their teams. For me, it’s incredibly rewarding to see the light bulb moments in class when students finally get it. And I’ve found that these moments come far more often when we embrace immersive learning. So next time you’re learning something new, remember: slow down, take small bites, and chew. You’ll enjoy the learning process a lot more—and you’ll get much more out of it.
+
 
 
 

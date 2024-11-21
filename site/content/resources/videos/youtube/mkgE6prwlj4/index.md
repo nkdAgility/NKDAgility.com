@@ -23,6 +23,8 @@ tags:
 - Agile Scrum Project management
 - Scrum Project Management
 - Scrum Product Development
+resourceTypes:
+- video
 
 ---
 {{< youtube mkgE6prwlj4 >}}
@@ -52,6 +54,7 @@ Now, this is an impressive prime example of how effective Scrum can be when impl
 Are you intrigued to unravel the secrets behind the effectiveness of Scrum and Agile?
 
 Explore my Agile and Scrum courses, which might revolutionise your perspective! 😉
+
 
 
 

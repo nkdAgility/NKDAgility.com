@@ -14,6 +14,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube 5ZRMBfV9zpI >}}
@@ -37,4 +39,5 @@ Our PSM class list: https://nkdagility.com/training/courses/professional-scrum-m
 MN Classroom Content Preview: https://community.nkdagility.com/courses/6859485/content
 
 [Watch on YouTube](https://www.youtube.com/watch?v=5ZRMBfV9zpI)
+
 

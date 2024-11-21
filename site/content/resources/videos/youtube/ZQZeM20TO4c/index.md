@@ -21,6 +21,8 @@ tags:
 - Management
 - Agile
 - Scrum
+resourceTypes:
+- video
 
 ---
 {{< youtube ZQZeM20TO4c >}}
@@ -44,6 +46,7 @@ Hashtags:         #AgileLeadership #DecisionMaking #TraditionalManagement
 General
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

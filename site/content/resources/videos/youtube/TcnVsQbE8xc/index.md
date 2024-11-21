@@ -24,6 +24,8 @@ tags:
 - Scrum.Org
 - Scrum Master Course
 - Scrum Master certification
+resourceTypes:
+- video
 
 ---
 {{< youtube TcnVsQbE8xc >}}
@@ -73,6 +75,7 @@ Joining the PSM II course is the beginning of a transformational professional jo
 - **Career Growth**: Leverage your advanced skills for new roles and responsibilities. 
 
 🎓 Take that one-minute leap and discover how PSM II can be the game-changer for your agile coaching career. Your future self will thank you! 🌟
+
 
 
 

@@ -32,6 +32,8 @@ tags:
 - Agile project management
 - Agile product development
 - Agility
+resourceTypes:
+- video
 
 ---
 {{< youtube 221BbTUqw7Q >}}
@@ -83,6 +85,7 @@ Let's engage, connect, and share our passion for Scrum and Agile.
 Whether it's a question, a challenge, or a shared experience,
 
 I'm here to chat. Let's connect over a virtual coffee and chart a course towards Scrum excellence.
+
 
 
 

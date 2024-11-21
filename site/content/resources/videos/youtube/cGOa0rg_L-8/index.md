@@ -20,6 +20,8 @@ tags:
 - Product Management
 - Project management
 - Product development
+resourceTypes:
+- video
 
 ---
 {{< youtube cGOa0rg_L-8 >}}
@@ -107,6 +109,7 @@ By embracing automation, shortening feedback loops, and focusing on maximizing v
 5. **Engage Stakeholders:** Involve them early and often to ensure that your work remains aligned with their needs.
 
 By following these steps, you can ensure that your project ecosystem is not just Agile in name but in practice, delivering maximum value to your stakeholders with every iteration.
+
 
 
 

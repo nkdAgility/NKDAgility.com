@@ -25,6 +25,8 @@ tags:
 - Kanban training
 - Kanban consulting
 - Kanban coaching
+resourceTypes:
+- video
 
 ---
 {{< youtube LMmKDlcIvWs >}}
@@ -140,6 +142,7 @@ Kanban is more than just a method for managing work. It’s a powerful strategy 
 - **Further Reading**: Explore more about Kanban and agile methodologies on our blog.
 
 * * *
+
 
 
 

@@ -17,6 +17,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube V44iUwv0Jcg >}}
@@ -26,4 +28,5 @@ sitemap:
 Continuous Improvement with #kanban. Visit https://www.nkdagility.com #agile #scrum #kaizen #kanban #agileframework
 
 [Watch on YouTube](https://www.youtube.com/watch?v=V44iUwv0Jcg)
+
 

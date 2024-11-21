@@ -24,6 +24,8 @@ tags:
 - Scrum.Org
 - Scrum courses
 - Scrum certification
+resourceTypes:
+- video
 
 ---
 {{< youtube qnGFctaLgVM >}}
@@ -79,6 +81,7 @@ Embark on an educational voyage with Russell: 
 In Russell, you find more than a mentor; you encounter a catalyst for change. His PSPO course is a beacon for those seeking to elevate their understanding of Product Ownership, melding robust principles with actionable insights. 
 
 🔗 Commit to excellence in Product Ownership. Secure your spot in Russell's PSPO course and transform your perspective on product value and innovation. #NKDAgility #PSPOExcellence #ProductOwnershipReimagined
+
 
 
 

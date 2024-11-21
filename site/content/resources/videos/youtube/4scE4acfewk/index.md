@@ -38,6 +38,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube 4scE4acfewk >}}
@@ -137,6 +139,7 @@ Remember:
 - Collaboration creates successful products. 🏆
 
 If you’re ready to take your Agile practice to the next level, don’t wait. Get in touch with us today through the links below, and let’s work together to create a more humble, empathetic, and effective Agile team.
+
 
 
 

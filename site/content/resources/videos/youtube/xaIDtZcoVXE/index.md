@@ -38,6 +38,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube xaIDtZcoVXE >}}
@@ -153,6 +155,7 @@ By leveraging the principles of **Evidence-Based Management**, you can make info
 - Always remember that speed is important, but **delivering value** is the ultimate goal.
 
 By optimizing your Time to Market, you set your organization up for success, ensuring that you’re delivering the right value at the right time. Keep measuring, keep improving, and keep delivering. 😊
+
 
 
 

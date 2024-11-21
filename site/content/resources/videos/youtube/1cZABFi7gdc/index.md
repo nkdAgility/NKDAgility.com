@@ -38,6 +38,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube 1cZABFi7gdc >}}
@@ -161,6 +163,7 @@ In summary:
 - **Look for personal traits like empathy, adaptability, and clear communication** – these make a great coach.
 
 Remember, the right Agile coach will not just guide your teams but empower your entire organization to embrace a culture of continuous improvement, collaboration, and flexibility. 🌟
+
 
 
 

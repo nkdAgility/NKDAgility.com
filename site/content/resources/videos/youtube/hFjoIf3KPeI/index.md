@@ -28,6 +28,8 @@ tags:
 - Agile product management
 - project management
 - product development
+resourceTypes:
+- video
 
 ---
 {{< youtube hFjoIf3KPeI >}}
@@ -101,6 +103,7 @@ A key takeaway for Scrum Masters and Agile coaches is the understanding that mot
 The role of a Scrum Master or Agile coach extends beyond mere process facilitation. It's about nurturing a motivated, effective, and resilient team capable of delivering exceptional results.  
 
 By understanding and addressing the factors that affect team morale, setting achievable goals, promoting stakeholder engagement, and applying motivational theories in practice, Agile coaches can lead their teams to new heights of success and satisfaction.
+
 
 
 

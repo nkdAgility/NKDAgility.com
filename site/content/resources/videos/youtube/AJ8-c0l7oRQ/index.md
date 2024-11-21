@@ -37,6 +37,8 @@ tags:
 - DevOps consulting
 - DevOps coach
 - DevOps coaching
+resourceTypes:
+- video
 
 ---
 {{< youtube AJ8-c0l7oRQ >}}
@@ -78,6 +80,7 @@ Leveraging tools effectively means striking a balance. While Lego might triviali
 ## The Tool Matters Less Than the Experience 🛠️ 
 
 At the end of the day, whether it’s Lego, Minecraft, or any other tool, what matters is how effectively we can convey the complexities and intricacies of Scrum practices.
+
 
 
 

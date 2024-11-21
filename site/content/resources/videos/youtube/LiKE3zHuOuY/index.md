@@ -22,6 +22,8 @@ tags:
 - agile project management
 - agile product development
 - agile software development
+resourceTypes:
+- video
 
 ---
 {{< youtube LiKE3zHuOuY >}}
@@ -65,6 +67,7 @@ Together, let's redefine how we approach software engineering! 🌟
 Ready to elevate your game?  🎯
 
 Connect with me today.
+
 
 
 

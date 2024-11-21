@@ -20,6 +20,8 @@ tags:
 - DevOps consultant
 - DevOps coach
 - DevOps migration
+resourceTypes:
+- video
 
 ---
 {{< youtube Wvdh1lJfcLM >}}
@@ -115,6 +117,7 @@ Migrating from TFS to Azure DevOps is a complex process with many moving parts. 
 - **Seek Professional Help:** Migration is not a one-size-fits-all process. Partnering with experts who understand the nuances of TFS and Azure DevOps can make all the difference.
 
 Ready to make the move? Let’s work together to ensure your migration to Azure DevOps is smooth, efficient, and successful. 🚀
+
 
 
 

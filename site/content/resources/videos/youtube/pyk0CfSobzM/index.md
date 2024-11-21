@@ -41,6 +41,8 @@ tags:
 - DevOps consulting
 - DevOps coach
 - DevOps coaching
+resourceTypes:
+- video
 
 ---
 {{< youtube pyk0CfSobzM >}}
@@ -92,6 +94,7 @@ Remember, your Sprint goal should encompass only a portion of the Sprint, allowi
 I invite you to join my Agile and Scrum courses to delve even deeper into these nuances and cultivate a robust understanding. 🎓
 
 We will navigate the unpredictable yet exhilarating journey of Agile project management.  Let's learn, adapt, and grow together!
+
 
 
 

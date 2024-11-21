@@ -21,6 +21,8 @@ tags:
 - First 4 weeks in Scrum
 - Agile Consultant
 - Agile Consulting
+resourceTypes:
+- video
 
 ---
 {{< youtube 2I3S32Sk8-c >}}
@@ -96,6 +98,7 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 
 

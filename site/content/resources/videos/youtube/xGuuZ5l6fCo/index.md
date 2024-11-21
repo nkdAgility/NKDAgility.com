@@ -19,6 +19,8 @@ tags:
 - Agile product management
 - Agile product development
 - Agile project management
+resourceTypes:
+- video
 
 ---
 {{< youtube xGuuZ5l6fCo >}}
@@ -118,6 +120,7 @@ This kind of flexibility not only saved the business time and money but also ens
 ## **Takeaway**
 
 **Agility isn’t just about following a process—it’s about being responsive to change.** By empowering your teams to change requirements based on user feedback, you ensure that your product remains aligned with market needs, ultimately leading to greater success. 🔄 **Remember:** Agile is a journey, not a destination. Keep asking the tough questions, keep reflecting, and keep improving. Your users—and your bottom line—will thank you.
+
 
 
 

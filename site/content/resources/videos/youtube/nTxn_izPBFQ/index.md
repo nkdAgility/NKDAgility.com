@@ -24,6 +24,8 @@ tags:
 - PSPO-A
 - Scrum Training
 - Scrum Certification
+resourceTypes:
+- video
 
 ---
 {{< youtube nTxn_izPBFQ >}}
@@ -99,6 +101,7 @@ Keywords:       Agile Leadership, Product Owner, APSPOA Course, Agile Journ
 Hashtags         #AgileLeadership #ProductOwner #APSPOA #AgileJourney
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

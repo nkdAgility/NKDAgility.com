@@ -21,6 +21,8 @@ tags:
 - DevOps
 - Scrum Master
 - Agility
+resourceTypes:
+- video
 
 ---
 {{< youtube USrwyGHG_tc >}}
@@ -68,6 +70,7 @@ They Are: 
 ## Conclusion: The Agile Way is Trust **🤝**  
 
 An Agile micromanager is an oxymoron. True agility comes from trust and facilitation. A Scrum Master should focus on fostering an environment where the team can thrive autonomously.
+
 
 
 

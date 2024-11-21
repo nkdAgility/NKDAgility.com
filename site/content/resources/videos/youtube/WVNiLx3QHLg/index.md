@@ -22,6 +22,8 @@ tags:
 - Scrum Framework
 - Agile Framework
 - Command and control versus Competence
+resourceTypes:
+- video
 
 ---
 {{< youtube WVNiLx3QHLg >}}
@@ -59,6 +61,7 @@ Hashtags:        #CompetenceOverPower, #LeadershipEvolution, #InformedDeci
 General
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

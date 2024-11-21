@@ -23,6 +23,8 @@ tags:
 - Scrum Master mistakes
 - Newbie scrum master
 - Scrum Master tips
+resourceTypes:
+- video
 
 ---
 {{< youtube WTd-8mOlFfQ >}}
@@ -74,6 +76,7 @@ I'm here to guide you with my Agile and Scrum courses.  🎓
 Equip yourself with the knowledge and skills to avoid these common mistakes and be a Scrum Master who truly catalyses team success!
 
 Let's start this learning journey together!
+
 
 
 

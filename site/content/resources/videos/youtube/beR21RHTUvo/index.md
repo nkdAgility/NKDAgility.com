@@ -38,6 +38,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube beR21RHTUvo >}}
@@ -135,6 +137,7 @@ Here are some signs your team might be haunted by the ghost of story points:
 ## **Moving Forward with Flow**
 
 The future is bright, but only if we’re willing to let go of outdated methods like story points and embrace more meaningful metrics. **Flow metrics** provide us with the tools we need to move forward and focus on what truly matters: delivering value. 💬 **Don’t let the past hold you back**—let’s move towards a future where we measure what really matters.
+
 
 
 

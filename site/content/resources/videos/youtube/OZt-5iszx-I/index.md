@@ -18,6 +18,8 @@ tags:
 - Agile
 - Product Management
 - Agile product management
+resourceTypes:
+- video
 
 ---
 {{< youtube OZt-5iszx-I >}}
@@ -93,6 +95,7 @@ In the world of Agile, speed is not just about how fast you can code or deploy�
 **Final Thoughts: Are You Truly Agile?**
 
 So, ask yourself: **how agile are you when it comes to feedback?** If there’s a lag between what your users want and what you deliver, it’s time to rethink your process. Engage with your users, act on their feedback swiftly, and watch your product’s value soar. 👉 **Remember**: The faster you turn feedback into action, the more valuable your product becomes. Stay agile, stay responsive, and always put your users first.
+
 
 
 

@@ -39,6 +39,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube Af-wBYtyyRU >}}
@@ -144,6 +146,7 @@ If you’re ready to elevate your product owner game and start making evidence-b
 * * *
 
 With EBM, you’ll be equipped to drive success through informed decisions, strong stakeholder engagement, and a focused team—all essential skills for any product owner aiming for the next level of excellence.
+
 
 
 

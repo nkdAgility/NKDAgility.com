@@ -22,6 +22,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube 4Tjc5uEtM7M >}}
@@ -44,4 +46,5 @@ Video Chapters:
 👉 Watch the video to learn why bringing in specialized help is key to a successful Azure DevOps migration. Like the video, subscribe to our channel, and stay tuned for more in-depth DevOps insights! Visit https://nkdagility.com/capabilities/azure-devops-migration-services/ if you need #azuredevops #devopsmigration #devopsconsultant #devopstraining
 
 [Watch on YouTube](https://www.youtube.com/watch?v=4Tjc5uEtM7M)
+
 

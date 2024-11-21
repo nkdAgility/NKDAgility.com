@@ -18,6 +18,8 @@ tags:
 - scrum
 - scrummaster
 - scrum master
+resourceTypes:
+- video
 
 ---
 {{< youtube KjSRjkK6OL0 >}}
@@ -67,6 +69,7 @@ Identifying these pitfalls is essential.
 But here's a twist – what if you could master the right Scrum approach?
 
 Explore my Agile and Scrum courses, and let's transform these ineffective habits together!
+
 
 
 

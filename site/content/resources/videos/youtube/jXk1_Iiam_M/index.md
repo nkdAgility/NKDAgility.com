@@ -38,6 +38,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube jXk1_Iiam_M >}}
@@ -137,6 +139,7 @@ At \[Your Company Name\], we specialize in immersive learning experiences that *
 * * *
 
 This approach to learning isn't just about knowledge—it's about **action** and **impact**. Your organization deserves training that sticks. Immersive learning does exactly that.
+
 
 
 

@@ -18,6 +18,8 @@ tags:
 - Agile
 - Scrum
 - Competence
+resourceTypes:
+- video
 
 ---
 {{< youtube 4zGsmQFWFpo >}}
@@ -179,6 +181,7 @@ Ready to build a team that thrives? Start with **competence**, **context**, and 
 * * *
 
 By focusing on the _how_ rather than just the _what_, we can create an environment where **Scrum Masters lead with insight**, **teams collaborate effectively**, and **businesses deliver true value**. That’s what agility is really about—being ready for anything, with the right people at the helm. 🌟
+
 
 
 

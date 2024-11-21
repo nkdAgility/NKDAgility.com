@@ -20,6 +20,8 @@ tags:
 - Technical leadership
 - Engineering excellence
 - Agile consulting
+resourceTypes:
+- video
 
 ---
 {{< youtube G1BQG2tsbYg >}}
@@ -157,6 +159,7 @@ Embarking on the path towards predictability through Agile practices will transf
 - **Higher Resilience:** Enabling your business to thrive in a rapidly changing environment.
 
 🔍 **Ready to increase predictability in your business?** Reach out to NKD Agility to explore how we can support your journey. Let’s work together to create a custom solution that drives your success! 🌟
+
 
 
 

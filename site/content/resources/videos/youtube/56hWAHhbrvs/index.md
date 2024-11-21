@@ -43,6 +43,8 @@ tags:
 - 7 signs
 - agile-pocalypse
 - agile-apocalypse
+resourceTypes:
+- video
 
 ---
 {{< youtube 56hWAHhbrvs >}}
@@ -86,6 +88,7 @@ The journey towards decentralization and a more agile organizational structure i
 ## Conclusion: A Call to Action for Agile Leaders
 
 The Alpha organizational structure, while deeply ingrained in many companies, is not insurmountable. By acknowledging its limitations and actively seeking to evolve beyond it, organizations can unleash the full potential of agility. This transition requires commitment, leadership, and a willingness to experiment and adapt. As we navigate the harbingers of the agile apocalypse, let us embrace the challenge of transforming our organizations to thrive in an ever-changing market landscape.
+
 
 
 

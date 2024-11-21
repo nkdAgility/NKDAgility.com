@@ -25,6 +25,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube WEYf9jWG9wk >}}
@@ -34,4 +36,5 @@ sitemap:
 Quality Code: Achieving Engineering Excellence with NKD Agility. Visit https://www.nkdagility.com #agile #agileproductdevelopment #agileproductmanagement #agileprojectmanagement #productdevelopment #productmanagement #projectmanagement #projectmanager #productowner #scrummaster
 
 [Watch on YouTube](https://www.youtube.com/watch?v=WEYf9jWG9wk)
+
 

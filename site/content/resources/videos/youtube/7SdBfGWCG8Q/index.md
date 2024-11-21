@@ -38,6 +38,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube 7SdBfGWCG8Q >}}
@@ -121,6 +123,7 @@ The value of relationships doesn’t stop once the course ends. In fact, it’s 
 As someone who has been immersed in the world of Scrum for over 20 years, I can confidently say that relationships are the cornerstone of a successful Scrum practice. Immersive learning not only provides you with the skills and knowledge to be an effective practitioner but also connects you with a network of individuals who will support, challenge, and inspire you along the way.
 
 So, when you step into your next immersive learning session, don’t just focus on the content—focus on the people. The relationships you build may just be the most valuable takeaway from your entire experience. Stay connected, keep learning, and remember: Scrum is a team sport, and your team is your greatest asset. 🏆
+
 
 
 

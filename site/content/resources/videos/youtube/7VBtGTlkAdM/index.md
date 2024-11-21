@@ -24,6 +24,8 @@ tags:
 - agile project management
 - agile product development
 - agile product management
+resourceTypes:
+- video
 
 ---
 {{< youtube 7VBtGTlkAdM >}}
@@ -65,6 +67,7 @@ Don't fall into the contract trap.  Equip yourself with the agility and foresig
 My Agile and Scrum courses offer this much-needed perspective.  Ready to redefine your consulting approach?  Enroll today! 🌟
 
 👉 Transform Your Consulting Career Now!
+
 
 
 

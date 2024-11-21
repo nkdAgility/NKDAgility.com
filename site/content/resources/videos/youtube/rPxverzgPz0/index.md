@@ -24,6 +24,8 @@ tags:
 - Scrum.Org
 - Agile
 - Agile Scrum Training
+resourceTypes:
+- video
 
 ---
 {{< youtube rPxverzgPz0 >}}
@@ -95,6 +97,7 @@ Keywords:       Agile Practitioner Series, Scrum teams, Organizational Chan
 Hashtags         #Scrum #Agile #APS #OrganizationalChange
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

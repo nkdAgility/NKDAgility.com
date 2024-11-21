@@ -25,6 +25,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube 9CkvfRic8e0 >}}
@@ -36,4 +38,5 @@ See how to connect to your Team Foundation Collection with Release Management Cl
 More videos and blogs on http://nakedalm.com/blog
 
 [Watch on YouTube](https://www.youtube.com/watch?v=9CkvfRic8e0)
+
 

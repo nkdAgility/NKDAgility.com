@@ -38,6 +38,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube bXb00GxJiCY >}}
@@ -145,6 +147,7 @@ By embracing shorter, focused sessions and interactive content, Scrum Trainers c
 * * *
 
 With these strategies in mind, you’ll not only improve the learning experience for your Scrum teams but also empower them to truly embrace the Agile mindset. 💡 Ready to give immersive learning a try in your next Scrum training session? Let me know how it goes! 😊
+
 
 
 

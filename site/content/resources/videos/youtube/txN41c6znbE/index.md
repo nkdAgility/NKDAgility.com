@@ -18,6 +18,8 @@ tags:
 - Agile
 - Scrum
 - Scrum Master
+resourceTypes:
+- video
 
 ---
 {{< youtube txN41c6znbE >}}
@@ -140,6 +142,7 @@ The Agile community has come a long way since the early days, but we still face 
 - **Hire for context**: Understand that the right Scrum Master needs to align with the team’s needs, the product’s demands, and the organization’s vision.
 
 🚀 By focusing on these areas, we can build a future where Agile truly lives up to its promise—delivering value, adapting continuously, and empowering individuals and teams to thrive. Let’s get back on track, and make Agile what it was always meant to be!
+
 
 
 

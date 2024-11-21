@@ -21,6 +21,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube BhGThHrOc8Y >}}
@@ -50,4 +52,5 @@ Because you don't just need agility, you need Naked Agility.
 #devops #azuredevops #agilecoach #agileconsultant #continousdelivery #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=BhGThHrOc8Y)
+
 

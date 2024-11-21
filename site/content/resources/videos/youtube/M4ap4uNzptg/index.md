@@ -38,6 +38,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube M4ap4uNzptg >}}
@@ -157,6 +159,7 @@ To truly unlock the power of Agile:
 - **Continuously adapt**: Always be willing to pivot when necessary.
 
 Embrace these principles, and you’ll not only stay ahead but lead the way in your industry. 🚀
+
 
 
 

@@ -31,6 +31,8 @@ tags:
 - Agile product management
 - product management
 - Agile project management
+resourceTypes:
+- video
 
 ---
 {{< youtube LpiLOBG7WgI >}}
@@ -106,6 +108,7 @@ Takeaways 
 Agile practices like Sprint reviews are about more than just ticking boxes; they're about creating a dynamic, responsive environment for product development.  
 
 So, take that harsh feedback and turn it into your most valuable asset! 🚀
+
 
 
 

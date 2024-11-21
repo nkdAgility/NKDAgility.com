@@ -22,6 +22,8 @@ tags:
 - Scrum certification
 - Scrum mentoring
 - Scrum Courses
+resourceTypes:
+- video
 
 ---
 {{< youtube VOUmfpB-d88 >}}
@@ -158,6 +160,7 @@ The shift to immersive learning isn't just about longer training programs—it's
 - **Collaborative Learning**
 
 We create a training environment that is more aligned with the core principles of Agile and Scrum. It’s not just about learning the theory; it’s about **living it, experimenting with it, and adapting it** to meet the unique needs of every organization. If you're ready to take your Scrum practice to the next level, it's time to embrace the power of immersive learning. Let’s move beyond the two-day workshops and start creating lasting change, one iteration at a time. 🧠🚀
+
 
 
 

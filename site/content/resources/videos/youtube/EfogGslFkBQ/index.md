@@ -38,6 +38,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube EfogGslFkBQ >}}
@@ -131,6 +133,7 @@ In summary, if your Agile team is spending more time worrying about **story poin
 - Never include story points in contracts—it leads to dishonesty and poor outcomes.
 
 Use story points for **team discussions only**, then delete the data once the conversation has served its purpose.
+
 
 
 

@@ -29,6 +29,8 @@ tags:
 - Developer
 - Product Owner
 - Professional Scrum Trainer
+resourceTypes:
+- video
 
 ---
 {{< youtube Qzw3FSl6hy4 >}}
@@ -115,6 +117,7 @@ Product Discovery is not just a buzzword—it’s a critical process that can ma
     - Continuously gather feedback and adjust your course as needed.
 
 By embracing Product Discovery, you’re not just building a product—you’re building a future for your business. 🚀
+
 
 
 

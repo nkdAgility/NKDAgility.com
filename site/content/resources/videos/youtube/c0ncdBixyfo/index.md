@@ -24,6 +24,8 @@ tags:
 - '#devops'
 - '#agileproductdevelopment'
 - '#productdevelopment'
+resourceTypes:
+- video
 
 ---
 {{< youtube c0ncdBixyfo >}}
@@ -71,6 +73,7 @@ Faced with a culture of contempt, individuals often feel powerless. However, the
 ## Conclusion: Cultivating a Positive Organizational Culture
 
 Leadership's core responsibility is to cultivate a happy, engaged workforce that is passionate about the organization's success. This cannot be achieved through directives alone but through fostering a culture of respect, inclusion, and shared purpose. Happy, engaged teams are the foundation of innovative and successful products. Addressing and overcoming a culture of contempt is not just necessary for the well-being of employees but crucial for the sustained success and innovation of the organization.
+
 
 
 

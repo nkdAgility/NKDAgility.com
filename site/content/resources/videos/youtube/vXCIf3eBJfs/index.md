@@ -38,6 +38,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube vXCIf3eBJfs >}}
@@ -135,6 +137,7 @@ When considering an Agile coach, you want someone who is not only experienced bu
 An agnostic coach will help you navigate the complexities of Agile, choosing the right tools, technologies, and practices for your unique situation. Ultimately, the best Agile coaches put your business first, ensuring their guidance and strategies align with your specific goals, culture, and challenges.
 
 🚀 **Pro Tip**: When interviewing an Agile coach, make sure to ask about their experience in tailoring approaches to various industries. A coach who is versatile across different frameworks will have the adaptability your team needs to succeed. By focusing on these key qualities, you’ll find a coach who can help your business thrive in the Agile world — without being confined to just one way of thinking.
+
 
 
 

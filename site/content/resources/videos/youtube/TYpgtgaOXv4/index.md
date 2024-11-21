@@ -38,6 +38,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube TYpgtgaOXv4 >}}
@@ -159,6 +161,7 @@ If your organization is struggling with backlog management, now is the time to m
 - **Involve the team**: This isn’t a one-person job.
 
 **Use data**: Let real-world insights guide your priorities.
+
 
 
 

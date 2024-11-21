@@ -21,6 +21,8 @@ tags:
 - Agile Consultant
 - Agile Project Management
 - Agile Product Development
+resourceTypes:
+- video
 
 ---
 {{< youtube y0yIAIqOv-Q >}}
@@ -106,6 +108,7 @@ Hashtags:        \*\*#AgileTransformation #ScrumMastery #AgileConsultancy
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

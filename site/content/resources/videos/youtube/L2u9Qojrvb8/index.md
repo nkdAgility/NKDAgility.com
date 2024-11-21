@@ -21,6 +21,8 @@ tags:
 - Azure DevOps consultant
 - DevOps
 - DevOps migration
+resourceTypes:
+- video
 
 ---
 {{< youtube L2u9Qojrvb8 >}}
@@ -108,6 +110,7 @@ Every organization’s DevOps journey is unique, shaped by its specific challeng
 - **Seek help when needed**: Don’t hesitate to bring in external expertise to gain fresh perspectives and insights.
 
 Remember, the road to DevOps success is a continuous journey of learning, adaptation, and growth. Keep moving forward, stay flexible, and never stop improving. 🚀
+
 
 
 

@@ -38,6 +38,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube il1GdfG7rWk >}}
@@ -137,6 +139,7 @@ If you're struggling to manage your product backlog and maximize value delivery,
 ## **Conclusion: Building Awesome Products Through Effective Backlog Management**
 
 Managing a product backlog is an essential skill for any product owner. By focusing on risk, value, size, and learning, you can ensure that your backlog items are ready for the team to deliver, maximizing both speed and value. Regular refinement and communication are key to keeping everyone aligned and engaged. Remember, great products aren’t built by chance—they’re built through continuous improvement and learning. ✨ Don’t let a poorly managed backlog hold your product back. Refine, prioritize, and keep your team focused on delivering the right value.
+
 
 
 

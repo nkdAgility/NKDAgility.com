@@ -38,6 +38,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube XKmWMXagVgQ >}}
@@ -154,6 +156,7 @@ Continuous learning is not a sprint—it’s a **marathon**. As you grow in your
 - Engage with the product owner community, read widely, and take advantage of **professional training**.
 
 🌟 **Embrace learning. Stand out. Be in the top 10%.** 🌟
+
 
 
 

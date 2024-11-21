@@ -38,6 +38,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube cbLd-wstv3o >}}
@@ -129,6 +131,7 @@ Unrealized value is a reminder that there’s always room for improvement, no ma
 - Keep reviewing and improving your product based on ongoing feedback and data.
 
 🚀 **Pro Tip:** Always engage your stakeholders and team members in this process. Their input can provide new perspectives and help you make better decisions. By staying focused on delivering more value and embracing continuous improvement, you’ll position your product to achieve its full potential.
+
 
 
 

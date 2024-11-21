@@ -14,6 +14,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube rnyJzSwU74Q >}}
@@ -38,4 +40,5 @@ According to the Chaos Report from the Standish Group small projects of under 50
 Hopefully, this short video will help you identify the key differences that make this posible!
 
 [Watch on YouTube](https://www.youtube.com/watch?v=rnyJzSwU74Q)
+
 

@@ -22,6 +22,8 @@ tags:
 - Product Management
 - Agile Product Management
 - Scrum
+resourceTypes:
+- video
 
 ---
 {{< youtube roWCOkmtfDs >}}
@@ -133,6 +135,7 @@ In today’s fast-paced product development environment, it’s easy to fall int
 - **Empower Product Managers**: Give them the tools and data they need to make evidence-based decisions.
 
 🚀 By following these principles, you can create products that not only close deals but also deliver sustained value to your customers and your business.
+
 
 
 

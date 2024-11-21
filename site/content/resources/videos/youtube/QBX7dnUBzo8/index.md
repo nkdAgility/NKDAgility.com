@@ -38,6 +38,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube QBX7dnUBzo8 >}}
@@ -139,6 +141,7 @@ At the heart of Agile is the concept of **systematic and continuous improvement*
 ## **Personalized Assistance and Learning**
 
 If you’re ready to address the **systemic issues** in your organization and make meaningful changes, I’d love to help.
+
 
 
 

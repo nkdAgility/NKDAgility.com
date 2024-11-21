@@ -21,6 +21,8 @@ tags:
 - Scrum Certification
 - Scrum Master
 - Product Owner
+resourceTypes:
+- video
 
 ---
 {{< youtube jFU_4xtHzng >}}
@@ -94,6 +96,7 @@ Specific:           #trainingdesign, #FlowEfficiency, #Optimization, #A
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

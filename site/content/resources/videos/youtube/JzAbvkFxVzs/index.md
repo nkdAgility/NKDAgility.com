@@ -38,6 +38,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube JzAbvkFxVzs >}}
@@ -133,6 +135,7 @@ Remember:
 - Manage old tasks before they become bottlenecks.
 
 If your team is struggling with outdated practices, don’t let them haunt you. Reach out to a **Scrum trainer** or **Agile coach** who can help exorcise those phantoms. We’d be happy to assist you on your journey towards a more effective Agile process.
+
 
 
 

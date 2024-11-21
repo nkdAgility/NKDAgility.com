@@ -43,6 +43,8 @@ tags:
 - 7 signs
 - agile-pocalypse
 - agile-apocalypse
+resourceTypes:
+- video
 
 ---
 {{< youtube W3H9z28g9R8 >}}
@@ -100,6 +102,7 @@ Remember, the journey to Agile success is paved with the resources we choose to 
 Until next time, keep pushing boundaries and challenging the status quo. And, if you're looking to dive deeper into Agile, Scrum, or DevOps discussions, feel free to reach out for a chat over coffee. ☕
 
 _Thanks for tuning in. If you found this post enlightening, don't forget to like, follow, and subscribe for more insights and strategies to fuel your Agile journey._
+
 
 
 

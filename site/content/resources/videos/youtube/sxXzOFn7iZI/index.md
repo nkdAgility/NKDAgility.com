@@ -38,6 +38,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube sxXzOFn7iZI >}}
@@ -153,6 +155,7 @@ So, when you're hiring an Agile coach, ask yourself: are they just a coach, or a
 🌟 **Inspiration.**
 
 That’s what makes a truly great Agile coach.
+
 
 
 

@@ -19,6 +19,8 @@ tags:
 - Agile project management
 - Agile product development
 - Agile product management
+resourceTypes:
+- video
 
 ---
 {{< youtube kVt5KP9dg8Q >}}
@@ -116,6 +118,7 @@ Remember, the journey to true agility is ongoing. By regularly evaluating your p
 - Regularly assess your processes using the six-question litmus test to identify areas for improvement.
 
 **Pro Tip:** If you find that your organization isn't fully Agile yet, don't worry. Use it as a chance to reflect, adapt, and continuously improve. After all, that's what agility is all about! 🚀
+
 
 
 

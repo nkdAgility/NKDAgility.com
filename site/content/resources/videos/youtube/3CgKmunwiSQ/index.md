@@ -25,6 +25,8 @@ tags:
 - Product Manager
 - Product Owner
 - Scrum Master
+resourceTypes:
+- video
 
 ---
 {{< youtube 3CgKmunwiSQ >}}
@@ -156,6 +158,7 @@ Evidence-based management is not just a buzzword; it's a way to make smarter, mo
 - **A culture of continuous improvement** 📈
 
 The next time you're faced with a decision, ask yourself: Are you relying on evidence, or are you just making it up? Embrace the challenge, and you’ll see the difference it makes for your team and organization. 🌟
+
 
 
 

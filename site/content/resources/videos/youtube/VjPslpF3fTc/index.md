@@ -16,6 +16,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags: []
+resourceTypes:
+- video
 
 ---
 {{< youtube VjPslpF3fTc >}}
@@ -79,6 +81,7 @@ If you're intrigued by the prospects of immersive learning or wish to dive deepe
 Whether you're a newbie or someone with years under their belt, there's always more to discover.  
 
 Book a coffee chat with me through Naked Agility, and let's embark on this journey together.
+
 
 
 

@@ -37,6 +37,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube BtHASX2lgGo >}}
@@ -70,4 +72,5 @@ Because you don't just need agility, you need Naked Agility.
 #Sprint, #ScrumTeam, #SprintPlanning, #ContinuousImprovement, #ProductBacklog
 
 [Watch on YouTube](https://www.youtube.com/watch?v=BtHASX2lgGo)
+
 

@@ -14,6 +14,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube YGyx4i3-4ss >}}
@@ -23,4 +25,5 @@ sitemap:
 Visit https://www.nkdagility.com to find out more about the PPDV course from Scrum.org #agile #scrum #productowner #productmanager #projectmanager #productdevelopment #projectmanagement
 
 [Watch on YouTube](https://www.youtube.com/watch?v=YGyx4i3-4ss)
+
 

@@ -19,6 +19,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube icX4XpolVLE >}}
@@ -71,4 +73,5 @@ Share this video with peers and colleagues to spread the knowledge and benefits 
 Talks us through your journey with DevOps and how NKD Agility intends to help DevOps teams.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=icX4XpolVLE)
+
 

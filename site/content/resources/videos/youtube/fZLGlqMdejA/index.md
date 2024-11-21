@@ -40,6 +40,8 @@ tags:
 - Agile leadership
 - Agile leader
 - Leadership
+resourceTypes:
+- video
 
 ---
 {{< youtube fZLGlqMdejA >}}
@@ -139,6 +141,7 @@ The blog concludes by encouraging an embrace of value-driven approaches in all A
 - Outlines steps for overcoming limitations of traditional business models. 
 
 - Emphasises the need for continuous learning and adaptation in Agile practices.
+
 
 
 

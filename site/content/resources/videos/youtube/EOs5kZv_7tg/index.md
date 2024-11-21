@@ -27,6 +27,8 @@ tags:
 - Agile leadership certification
 - Immersive learning experience
 - Immersive learning courses
+resourceTypes:
+- video
 
 ---
 {{< youtube EOs5kZv_7tg >}}
@@ -74,6 +76,7 @@ Our courses, curated with precision, await you.
 And if you ever want a detailed chat on any Agile, Scrum, or DevOps topic, feel free to book a coffee chat with me through Naked Agility.
 
 Stay agile, and continue sparking transformations! 🌠
+
 
 
 

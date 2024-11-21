@@ -41,6 +41,8 @@ tags:
 - Agile leadership
 - Agile leader
 - Leadership
+resourceTypes:
+- video
 
 ---
 {{< youtube HrJMsZZQl_g >}}
@@ -94,6 +96,7 @@ Engage, reflect, and elevate.   🌟
 I'm here to guide and collaborate with you along your Agile journey.
 
 Let's connect through Naked Agility and script your unique Scrum success narrative.
+
 
 
 

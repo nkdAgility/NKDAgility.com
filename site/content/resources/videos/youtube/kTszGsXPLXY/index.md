@@ -27,6 +27,8 @@ tags:
 - Business Agility
 - Agile project management
 - Agile product development
+resourceTypes:
+- video
 
 ---
 {{< youtube kTszGsXPLXY >}}
@@ -130,6 +132,7 @@ Implementing a Kanban pilot in your organization is easier than you might think.
 - **Consulting Services**: Need help implementing Kanban? Our experts are here to guide you.
 
 - **Further Reading**: Explore more about Kanban and agile methodologies on our blog.
+
 
 
 

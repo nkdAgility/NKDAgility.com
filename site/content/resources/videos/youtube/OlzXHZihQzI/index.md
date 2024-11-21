@@ -38,6 +38,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube OlzXHZihQzI >}}
@@ -125,6 +127,7 @@ If you’re a Scrum Master, Agile Coach, or team leader looking to implement imm
 ## **Conclusion: Let Immersive Learning Drive Your Agile Transformation**
 
 Immersive learning isn’t just a trendy new way to teach Agile—it’s a proven approach that leads to real, lasting change. By giving students the space to experience Agile in action, reflect on their experiences, and adapt their mental models, we create Agile practitioners who don’t just follow the framework—they _live_ it. So if you’re looking to take your team’s Agile transformation to the next level, it’s time to embrace immersive learning. Lead them to the water, and trust that when they’re ready, they’ll drink. 💧
+
 
 
 

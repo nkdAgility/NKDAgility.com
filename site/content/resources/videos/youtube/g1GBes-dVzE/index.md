@@ -27,6 +27,8 @@ tags:
 - product development
 - project management
 - product management
+resourceTypes:
+- video
 
 ---
 {{< youtube g1GBes-dVzE >}}
@@ -60,6 +62,7 @@ It's about guiding, it's about challenging, and yes, it's about pushing the team
 Ready to deepen your understanding of Agile, Scrum, and the intricate art of effective Agile Coaching? 🌟
 
 Enroll in our comprehensive courses today and elevate your Agile Coaching game to the next level.
+
 
 
 

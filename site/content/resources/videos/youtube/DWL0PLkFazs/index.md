@@ -18,6 +18,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube DWL0PLkFazs >}}
@@ -27,4 +29,5 @@ sitemap:
 Its important to get the right fit for your organisation. Is your trainer right for you? Do they create the right level of infectious optimism?
 
 [Watch on YouTube](https://www.youtube.com/watch?v=DWL0PLkFazs)
+
 

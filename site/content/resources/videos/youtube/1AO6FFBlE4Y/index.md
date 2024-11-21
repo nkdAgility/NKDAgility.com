@@ -25,6 +25,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube 1AO6FFBlE4Y >}}
@@ -73,4 +75,5 @@ Why Poor Quality Code Costs More Than You Think | Martin Hinshelwood
 Ready to supercharge your engineering practices and deliver value at scale? Visit [NKD Agility](https://www.nkdagility.com) to learn how we help organizations achieve engineering excellence and business agility. Let’s tackle those hidden costs together!
 
 [Watch on YouTube](https://www.youtube.com/watch?v=1AO6FFBlE4Y)
+
 

@@ -19,6 +19,8 @@ tags:
 - Agile product management
 - agile product development
 - agile project management
+resourceTypes:
+- video
 
 ---
 {{< youtube 5H9rOGhTB88 >}}
@@ -108,6 +110,7 @@ Here are some practical steps you can take to empower your teams:
 ## **Final Thoughts: The Path to True Agility**
 
 Empowering teams to tailor their processes is not just a nice-to-have—it's essential for true agility. When teams are free to adapt and innovate, they can deliver the most value to customers while minimizing waste. So, take a step back, reflect on your current practices, and ask yourself: Are we truly agile, or are we just going through the motions? By empowering your teams and embracing true agility, you'll not only improve your organization's performance but also create a more fulfilling and engaging work environment for everyone involved. And that's a win-win for both your teams and your customers. 🚀
+
 
 
 

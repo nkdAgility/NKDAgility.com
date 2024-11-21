@@ -15,6 +15,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags: Agile Scotland 2023
+resourceTypes:
+- video
 
 ---
 {{< youtube uGIhajIO3pQ >}}
@@ -54,6 +56,7 @@ Agile 2023, the Scotland experience, isn’t just a conference; it’s a testame
 - Community and collaboration are key to driving innovation. 
 
 - Never underestimate the value of local events for global insights.
+
 
 
 

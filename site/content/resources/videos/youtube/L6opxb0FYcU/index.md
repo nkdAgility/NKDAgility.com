@@ -20,6 +20,8 @@ tags:
 - Worst agile advice
 - Worst agile practice
 - Worst example of scrum
+resourceTypes:
+- video
 
 ---
 {{< youtube L6opxb0FYcU >}}
@@ -59,6 +61,7 @@ Hashtags:        #BadAgileAdvice #Agile #Scrum #TeamInclusivity
 General
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

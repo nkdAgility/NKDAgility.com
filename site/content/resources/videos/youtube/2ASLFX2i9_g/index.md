@@ -40,6 +40,8 @@ tags:
 - Agile leadership
 - Agile leader
 - Leadership
+resourceTypes:
+- video
 
 ---
 {{< youtube 2ASLFX2i9_g >}}
@@ -89,6 +91,7 @@ The key to avoiding gluttony in Agile and Scrum is recognising that more isn't a
 - **Embrace Value Delivery:** Ensure every feature and task adds real value. 
 
 - **Leverage Feedback:** Use insights from customers and team members to guide decisions.
+
 
 
 

@@ -20,6 +20,8 @@ tags:
 - Scrum Certification
 - Scrum.Org
 - Scrum courses
+resourceTypes:
+- video
 
 ---
 {{< youtube qEaiA_m8Vyg >}}
@@ -137,6 +139,7 @@ By embracing the empirical process of learning, we commit to a cycle of action, 
 - Encourages a scientific approach to learning, enhancing efficacy and outcomes. 
 
 In conclusion, immersive learning experiences are the fertile ground in which the seeds of knowledge can blossom into wisdom. By nurturing these seeds with continuous care, support, and a community of learners, we ensure that they grow into strong, enduring understanding. This is why we're not just embracing immersive learning—we're living it.
+
 
 
 

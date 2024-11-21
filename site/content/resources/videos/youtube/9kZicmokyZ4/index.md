@@ -39,6 +39,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube 9kZicmokyZ4 >}}
@@ -158,6 +160,7 @@ Here are some practical tips to help you integrate evidence-based management int
 ## **Conclusion: Evidence-Based Management Is Non-Negotiable**
 
 At the end of the day, evidence-based management is a non-negotiable tool for any Agile team that wants to continuously improve and deliver real value to the business. By measuring and analyzing the right metrics, you can make smarter decisions, improve transparency, and create a culture of constant improvement. So next time you’re thinking about making a change in your team’s process, ask yourself: **Do we have the data to back it up?**
+
 
 
 

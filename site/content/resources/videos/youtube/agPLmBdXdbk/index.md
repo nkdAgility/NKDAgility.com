@@ -22,6 +22,8 @@ tags:
 - Scrum Coach
 - Scrum Trainer
 - Agile consultant traits
+resourceTypes:
+- video
 
 ---
 {{< youtube agPLmBdXdbk >}}
@@ -47,6 +49,7 @@ Hashtags:        #AgileConsultant #Tenacity #ChangeAgents #LaserFocus #Ign
 General
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

@@ -22,6 +22,8 @@ tags:
 - Kanban consultant
 - Kanban method
 - Kanban approach
+resourceTypes:
+- video
 
 ---
 {{< youtube Ir8QiX7eAHU >}}
@@ -111,6 +113,7 @@ WIP limits are crucial for any Kanban system. While the "perfect" WIP limit migh
 - Experiment and adjust as needed to find the Goldilocks zone for your team.
 
 With the right approach, you'll find that WIP limits not only improve flow but also foster better conversations and collaboration within your team.
+
 
 
 

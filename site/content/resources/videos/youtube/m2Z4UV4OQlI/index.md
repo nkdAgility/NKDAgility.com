@@ -39,6 +39,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube m2Z4UV4OQlI >}}
@@ -138,6 +140,7 @@ Whether you’re a manager, Scrum Master, or CEO, the PAL-EBM class helps you:
 - 🧠 **Engage in the strategic conversations you’ve been missing**.
 
 🚀 **Ready to take your organization to the next level? Let’s get started!**
+
 
 
 

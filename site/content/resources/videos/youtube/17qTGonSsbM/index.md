@@ -38,6 +38,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube 17qTGonSsbM >}}
@@ -133,6 +135,7 @@ To recap:
 - **Organizations**: Stay flexible and open to change; otherwise, you risk driving off the cliff.
 
 It’s crucial to take a step back, evaluate, and be willing to adjust your course. As Lao Tzu suggests, if you don’t change direction, you may end up somewhere you don’t want to be. And nobody wants that, right? 🚫
+
 
 
 

@@ -23,6 +23,8 @@ tags:
 - Project management
 - Agile product development
 - Product development
+resourceTypes:
+- video
 
 ---
 {{< youtube EMJyUOy2gP4 >}}
@@ -154,6 +156,7 @@ Your Scrum Masters should be able to demonstrate their impact through improved m
 ## **Conclusion: Competence Is Key to Unlocking ROI**
 
 In today’s competitive landscape, a competent Scrum Master can be the difference between a team that merely gets by and one that thrives. It’s not just about having happier teams; it's about delivering more value to your customers. Measure, adjust, and ensure your investment in Scrum Masters pays off. 👉 **Final Thought**: Don't settle for mediocrity. Invest in Scrum Masters who can drive real change and watch your ROI soar.
+
 
 
 

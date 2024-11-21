@@ -38,6 +38,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube yQlrN2OviCU >}}
@@ -139,6 +141,7 @@ In my years as a Scrum Trainer, I’ve seen the transformative power of peer fee
 Immersive learning, coupled with peer feedback, creates a powerful environment for **continuous improvement**. It encourages you to apply what you’ve learned, reflect on it, and gain insights from your peers’ experiences. The result? A stronger, more adaptable Scrum Master who’s ready to take on real-world challenges.
 
 Remember, feedback isn’t just about learning what went right or wrong—it’s about expanding your understanding and refining your approach. So next time you find yourself in a facilitated debrief, embrace the opportunity to **learn from your peers**, share your experiences, and contribute to a larger body of knowledge. 🤝 **Let’s keep learning together!**
+
 
 
 

@@ -43,6 +43,8 @@ tags:
 - 7 signs
 - agile-pocalypse
 - agile-apocalypse
+resourceTypes:
+- video
 
 ---
 {{< youtube FdQpGx-FW-0 >}}
@@ -100,6 +102,7 @@ The journey to true business agility is fraught with challenges, but by embracin
 Feeling inspired or want to dive deeper into Agile, Scrum, or DevOps discussions? Let's grab a virtual coffee and explore the endless possibilities together. Until next time, keep challenging the norm and driving towards excellence. 🚀
 
 _Enjoyed this exploration? Follow, subscribe, and engage for more insights on navigating the agile landscape._
+
 
 
 

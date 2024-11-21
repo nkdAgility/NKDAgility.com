@@ -22,6 +22,8 @@ tags:
 - Scrum Training
 - Agile Courses
 - Scrum Certification
+resourceTypes:
+- video
 
 ---
 {{< youtube hB8oQPpderI >}}
@@ -67,6 +69,7 @@ Hashtags:        #AgileLearning #Scrum #InteractiveCourses #CollaborativeL
 General
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

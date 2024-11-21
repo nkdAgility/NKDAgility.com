@@ -20,6 +20,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube KRC89A7RtrM >}}
@@ -31,4 +33,5 @@ Have you ever seen the massage "Some of the features of Team Web Access are not 
 More videos and blogs on http://nakedalm.com/blog
 
 [Watch on YouTube](https://www.youtube.com/watch?v=KRC89A7RtrM)
+
 

@@ -19,6 +19,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube 5bgcpPqcGlw >}}
@@ -32,4 +34,5 @@ With the shift-left movement pushing more responsibility to the engineering team
 Techorama BE: https://techorama.be/speakers/session/agile-evolution-live-site-culture-site-reliability-at-azure-devops/
 
 [Watch on YouTube](https://www.youtube.com/watch?v=5bgcpPqcGlw)
+
 

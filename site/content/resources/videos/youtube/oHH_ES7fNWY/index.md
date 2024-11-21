@@ -26,6 +26,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube oHH_ES7fNWY >}}
@@ -38,4 +40,5 @@ Have you ever tried to configure emails for an application to send through offic
 More videos and blogs on http://nakedalm.com/blog
 
 [Watch on YouTube](https://www.youtube.com/watch?v=oHH_ES7fNWY)
+
 

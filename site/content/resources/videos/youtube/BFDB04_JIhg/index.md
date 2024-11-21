@@ -20,6 +20,8 @@ tags:
 - Agile framework
 - Agile product development
 - Agile project management
+resourceTypes:
+- video
 
 ---
 {{< youtube BFDB04_JIhg >}}
@@ -149,6 +151,7 @@ Happy Kanban-ing! 😊
 - Start simple, use WIP limits, and regularly review metrics for success.
 
 🔗 **Want to learn more about Kanban and Agile practices? Reach out for personalized coaching or training sessions tailored to your team’s needs.**
+
 
 
 

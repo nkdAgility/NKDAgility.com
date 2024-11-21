@@ -22,6 +22,8 @@ tags:
 - agile
 - agile project management
 - agile product development
+resourceTypes:
+- video
 
 ---
 {{< youtube Fg90Nit7Q9Q >}}
@@ -63,6 +65,7 @@ When we couple these formidable software engineering practices with the guiding 
 Eager to experience this synergy firsthand?
 
 Take a look at my Agile and Scrum courses, and together, let's revolutionise how we think about software development!
+
 
 
 

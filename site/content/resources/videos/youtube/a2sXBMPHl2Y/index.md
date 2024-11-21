@@ -22,6 +22,8 @@ tags:
 - Private Scrum Training
 - Private corporate classes
 - Private corporate workshops
+resourceTypes:
+- video
 
 ---
 {{< youtube a2sXBMPHl2Y >}}
@@ -73,6 +75,7 @@ If you're poised to elevate your team's Agile and Scrum prowess, join one of our
 Whether public or private, our training sessions are meticulously designed to empower you. Keen on a tailored experience?
 
 Let's explore the boundless potential of private courses together.
+
 
 
 

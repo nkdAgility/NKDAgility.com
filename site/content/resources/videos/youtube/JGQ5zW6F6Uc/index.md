@@ -37,6 +37,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube JGQ5zW6F6Uc >}}
@@ -69,4 +71,5 @@ Because you don't just need agility, you need Naked Agility.
 #scrum #agile #scrummaster #productowner #agilecoach #agileconsultant #agiletraining #scrumtraining #projectmanagement #productdevelopment
 
 [Watch on YouTube](https://www.youtube.com/watch?v=JGQ5zW6F6Uc)
+
 

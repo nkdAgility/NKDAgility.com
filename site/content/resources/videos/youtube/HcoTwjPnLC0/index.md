@@ -23,6 +23,8 @@ tags:
 - Agile Project Management
 - Agile Product Development
 - Project Management
+resourceTypes:
+- video
 
 ---
 {{< youtube HcoTwjPnLC0 >}}
@@ -62,6 +64,7 @@ They have their unique responsibilities and clearly different areas of focus.  
 If you want to explore Agile, Scrum, or even becoming a Scrum Master or Product Owner, check out my Agile and Scrum courses.  📚
 
 You might just find what you're looking for. 👍
+
 
 
 

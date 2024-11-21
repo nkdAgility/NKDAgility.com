@@ -39,6 +39,8 @@ tags:
 - DevOps consulting
 - DevOps coach
 - DevOps coaching
+resourceTypes:
+- video
 
 ---
 {{< youtube ekUL1oIMeAc >}}
@@ -94,6 +96,7 @@ Are you navigating the complexities of the Scrum roles?
 Elevate your Agile game by joining our in-depth Scrum and Agile courses.
 
 Together, let's champion collaboration and understanding in the amazing world of Agile! 🌐
+
 
 
 

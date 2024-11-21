@@ -19,6 +19,8 @@ tags:
 - ScrumMaster
 - Agile
 - Agile Scrum
+resourceTypes:
+- video
 
 ---
 {{< youtube FNFV4mp-0pg >}}
@@ -74,6 +76,7 @@ Scrum Master, Agile, Team Effectiveness, No Micromanagement
 Hashtags:        #NoMicromanagement, #ScrumMaster, #Agile, #TeamEffectiveness
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

@@ -14,6 +14,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube Q2Fo3sM6BVo >}}
@@ -31,4 +33,5 @@ If you found this video insightful, please like this video and subscribe to our 
 Find us at https://nkdagility.com and use https://nkdagility.com/book-online to book a free consultation. We offer public and private training as well as consulting to help you get more from Scrum, Kanban, DevOps, and BetaCodex.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Q2Fo3sM6BVo)
+
 

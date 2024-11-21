@@ -21,6 +21,8 @@ tags:
 - Scrum Trainer
 - Professional Scrum Trainer
 - CST
+resourceTypes:
+- video
 
 ---
 {{< youtube uJaBPyixNlc >}}
@@ -100,6 +102,7 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 
 

@@ -25,6 +25,8 @@ tags:
 - Scrum training
 - Scrum coaching
 - Scrum consulting
+resourceTypes:
+- video
 
 ---
 {{< youtube uYm_wb1sHJE >}}
@@ -68,6 +70,7 @@ The Sprint Review Workshop is not just intended to enlighten but to metamorphose
 ## Elevate Your Sprints to New Heights 
 
 Adopt the Sprint Review Workshop as your crucible of innovation, where feedback ignites advancement and stakeholder engagement is not merely anticipated but eagerly sought.
+
 
 
 

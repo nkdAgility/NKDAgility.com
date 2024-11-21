@@ -18,6 +18,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube gEJhbET3nqs >}}
@@ -30,4 +32,5 @@ Course Page: https://nkdagility.com/training/courses/professional-agile-leadersh
 Upcoming Classes: https://nkdagility.com/training/course-schedule/
 
 [Watch on YouTube](https://www.youtube.com/watch?v=gEJhbET3nqs)
+
 

@@ -22,6 +22,8 @@ tags:
 - Scrum Course
 - Scrum Certification
 - Scrum.org
+resourceTypes:
+- video
 
 ---
 {{< youtube yKSkRhv_2Bs >}}
@@ -83,6 +85,7 @@ Are you ready to kickstart or rejuvenate your Scrum journey?
 Let's set the ball rolling towards unparalleled Scrum proficiency.
 
 Join now, and let's embark on a transformative journey to Scrum excellence together and learn how to integrate it optimally within your organisation's framework.
+
 
 
 

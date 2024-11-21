@@ -20,6 +20,8 @@ tags:
 - Scrum at Microsoft
 - Scrum Training for Microsoft
 - Agile Scrum training for Microsoft
+resourceTypes:
+- video
 
 ---
 {{< youtube tUC5TainG2E >}}
@@ -83,6 +85,7 @@ So, the next time someone asks, "How did you...?" My answer will always be – t
 If you're keen to explore the realms of Agile, Scrum, and Microsoft tools, consider joining my upcoming courses.
 
 We challenge conventions and foster growth.
+
 
 
 

@@ -38,6 +38,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube Bjz6SwLDIY4 >}}
@@ -131,6 +133,7 @@ Here are a few tips to help your organization embrace continuous adaptation:
 ## **Final Thoughts: What’s Holding You Back? 🤔**
 
 If your business is struggling to adapt, it may be time to rethink your approach. The days of relying on rigid rules and outdated processes are long gone. Instead, focus on creating a flexible, adaptive culture that empowers your teams to continuously evolve and thrive. What’s holding you back from making that change?
+
 
 
 

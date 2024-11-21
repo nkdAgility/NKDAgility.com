@@ -22,6 +22,8 @@ tags:
 - Professional Scrum Master II
 - PSM II
 - PSM
+resourceTypes:
+- video
 
 ---
 {{< youtube vI_qQ7-1z2E >}}
@@ -87,6 +89,7 @@ The course helps you understand the Scrum Master's accountability better and arm
 Interested in growing your skills as a Scrum Master? Check out my Agile and Scrum courses, or drop me a message. 
 
  Let's develop your capability as a Scrum Master together! 🌟
+
 
 
 

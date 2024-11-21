@@ -38,6 +38,8 @@ tags:
 - DevOps consulting
 - DevOps coach
 - DevOps coaching
+resourceTypes:
+- video
 
 ---
 {{< youtube oiIf2vdqgg0 >}}
@@ -83,6 +85,7 @@ I invite you to join my Agile and Scrum courses, where we explore these concepts
 Can't wait to see you there!
 
 Remember, the future is what we make it. Let's create it together, starting today.
+
 
 
 

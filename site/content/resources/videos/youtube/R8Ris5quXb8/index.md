@@ -37,6 +37,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube R8Ris5quXb8 >}}
@@ -46,4 +48,5 @@ sitemap:
 #shorts #shortvideo #shortsvideo If you're interested in the new Professional Scrum Product Backlog Management course from @ScrumOrg you'll find this excerpt from Martin Hinshelwood talking about the new course valuable. To watch the full video, visit https://youtu.be/UOzrABhafx0
 
 [Watch on YouTube](https://www.youtube.com/watch?v=R8Ris5quXb8)
+
 

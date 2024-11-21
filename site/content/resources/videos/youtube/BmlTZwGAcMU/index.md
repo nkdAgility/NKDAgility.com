@@ -38,6 +38,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube BmlTZwGAcMU >}}
@@ -129,6 +131,7 @@ In one of my recent classes, a participant shared how their team struggled with 
 The beauty of Scrum lies in its ability to blend theory with real-world experience. Without a solid foundation in theory, our experiences remain fragmented, and without experience, theory lacks depth. By bridging the two through immersive learning, we create an environment where continuous improvement becomes second nature.
 
 Whether you're a Scrum Master, Product Owner, or Agile Coach, remember this: **learning is a journey**, and that journey becomes far more meaningful when you have the right tools to ask the right questions. Immerse yourself in both theory and experience, and watch your understanding—and your team's success—grow exponentially. 🔑 **Takeaway**: The next time you’re in a Scrum event, pause and reflect on the theory behind it. Ask yourself, “What can we learn from this experience, and how can we apply that learning to continuously improve?” That’s where the magic of Scrum truly happens.
+
 
 
 

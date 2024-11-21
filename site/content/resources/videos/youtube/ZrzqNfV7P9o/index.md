@@ -21,6 +21,8 @@ tags:
 - Scrum Certification
 - Scrum Training
 - Agile Scrum Training
+resourceTypes:
+- video
 
 ---
 {{< youtube ZrzqNfV7P9o >}}
@@ -80,6 +82,7 @@ _We encourage participants to use a non-work-restricted computer for all of our 
 - [FAQ: IT Admin Guide](IT Admin Guide)
 
 - [Licensing | Minecraft Education](https://education.minecraft.net/en-us/licensing)
+
 
 
 

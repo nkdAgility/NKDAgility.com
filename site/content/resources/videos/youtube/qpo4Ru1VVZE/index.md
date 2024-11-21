@@ -21,6 +21,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube qpo4Ru1VVZE >}}
@@ -42,4 +44,5 @@ Video Chapters:
 👉 Watch the video to get expert insights on handling compatibility issues during your migration to Azure DevOps. Don’t forget to like, subscribe, and turn on notifications for more helpful DevOps migration tips and best practices! Visit https://nkdagility.com/capabilities/azure-devops-migration-services/ if you need help with #azure #azuredevops #azuredeveloper #devops #devopsmigration #devopstraining
 
 [Watch on YouTube](https://www.youtube.com/watch?v=qpo4Ru1VVZE)
+
 

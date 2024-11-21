@@ -37,6 +37,8 @@ tags:
 - DevOps consulting
 - DevOps coach
 - DevOps coaching
+resourceTypes:
+- video
 
 ---
 {{< youtube 6cczVAbOMao >}}
@@ -88,6 +90,7 @@ Join me in my comprehensive Agile and Scrum courses, where we delve deep into th
 Let's cultivate the knack to create lean and directional product backlogs together!
 
 Remember, strong product leadership is the cornerstone of a successful product development cycle! 🚀
+
 
 
 

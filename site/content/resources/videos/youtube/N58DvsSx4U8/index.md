@@ -19,6 +19,8 @@ tags:
 - DevOps consulting
 - Agile DevOps Consulting
 - Agile DevOps consultant
+resourceTypes:
+- video
 
 ---
 {{< youtube N58DvsSx4U8 >}}
@@ -110,6 +112,7 @@ And the beauty of this journey is that all organisations, regardless of size or 
 Feeling inspired to embark on your Agile and Scrum journey?
 
 Explore my Agile and Scrum courses, and let's empower your team and revolutionise your organisation's productivity together!
+
 
 
 

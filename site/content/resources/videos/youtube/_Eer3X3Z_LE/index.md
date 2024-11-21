@@ -23,6 +23,8 @@ tags:
 - Scrum
 - Scrum Backlog
 - Sprint Backlog
+resourceTypes:
+- video
 
 ---
 {{< youtube _Eer3X3Z_LE >}}
@@ -78,6 +80,7 @@ Hashtags:        #ProductBacklog #Agile #Scrum #BacklogManagement
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

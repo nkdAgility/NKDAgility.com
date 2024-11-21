@@ -38,6 +38,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube 4nhKXAgutZw >}}
@@ -135,6 +137,7 @@ If you’re ready to take the next step in your Agile journey, remember: **You d
 - Prioritize trust through benevolence and empathy.
 
 Create an environment where kindness is a core value.
+
 
 
 

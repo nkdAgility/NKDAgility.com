@@ -19,6 +19,8 @@ tags:
 - Scaling Agile
 - LeSS
 - Large Scale Scrum
+resourceTypes:
+- video
 
 ---
 {{< youtube Oj0ybFF12Rw >}}
@@ -58,6 +60,7 @@ Let's explore this statement – is it pragmatic caution or simply defeatist? 
 🌟 The notion of "Don't scale Scrum" is not pragmatic wisdom; it's a defeatist attitude.  
 
 Scrum can and has been scaled successfully, delivering more value than ever.
+
 
 
 

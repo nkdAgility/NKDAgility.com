@@ -20,6 +20,8 @@ tags:
 - Software Development
 - Agile Product Development
 - Agile Software Engineering
+resourceTypes:
+- video
 
 ---
 {{< youtube Gtp9wjkPFPA >}}
@@ -51,6 +53,7 @@ It's all about understanding their individual strengths and harnessing them coll
 Intrigued?
 
 Let's master both sides of the coin together in my Agile and Scrum courses.!
+
 
 
 

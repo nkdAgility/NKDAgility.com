@@ -22,6 +22,8 @@ tags:
 - Scrum Certification
 - Scrum Courses
 - Scrum Course
+resourceTypes:
+- video
 
 ---
 {{< youtube UeGdC6GRyq4 >}}
@@ -107,6 +109,7 @@ Why Does This Work? 
 - **Real Results**: Just like those who’ve walked this path before you, success is not just possible; it's expected. 
 
 - **Empowerment**: This isn’t charity; it’s empowerment. You’re not given a fish; you’re learning to fish in grander seas.
+
 
 
 

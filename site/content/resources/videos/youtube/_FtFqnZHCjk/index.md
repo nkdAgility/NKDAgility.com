@@ -19,6 +19,8 @@ tags:
 - Product Management
 - Product Management Mentorship
 - Product Management Mentorship program
+resourceTypes:
+- video
 
 ---
 {{< youtube _FtFqnZHCjk >}}
@@ -124,6 +126,7 @@ Transitioning to Agile product management requires more than just adopting new p
     - Building quality into the product from the start reduces the need for extensive testing and ensures a smoother, more reliable delivery process.
 
 By adopting these principles, organizations can unlock new levels of efficiency, innovation, and customer satisfaction, ultimately driving greater business value.
+
 
 
 

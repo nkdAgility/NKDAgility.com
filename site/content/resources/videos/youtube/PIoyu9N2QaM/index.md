@@ -23,6 +23,8 @@ tags:
 - experienced scrummaster
 - skilled scrummaster
 - agile coach
+resourceTypes:
+- video
 
 ---
 {{< youtube PIoyu9N2QaM >}}
@@ -90,6 +92,7 @@ Consider joining one of our Agile and Scrum courses to boost your knowledge and 
 Let's improve together and build Agile organisations! 🔥🔥🔥
 
 Until next time, stay Agile! 🚀
+
 
 
 

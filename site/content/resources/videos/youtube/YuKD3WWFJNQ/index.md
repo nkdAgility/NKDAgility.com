@@ -43,6 +43,8 @@ tags:
 - 7 signs
 - agile-pocalypse
 - agile-apocalypse
+resourceTypes:
+- video
 
 ---
 {{< youtube YuKD3WWFJNQ >}}
@@ -94,6 +96,7 @@ The agile apocalypse need not be heralded by silence. By embracing strategies th
 Remember, breaking the silence starts with us—product owners, scrum masters, and team members alike. Let's commit to fostering environments where every voice is valued, and every idea has the potential to propel us toward our North Star.
 
 _Enjoyed this exploration of breaking the silence in agile teams? Follow, subscribe, and engage for more insights on creating vibrant, engaged agile environments. Let's turn the silence into a symphony of collaboration and innovation._
+
 
 
 

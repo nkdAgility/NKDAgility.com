@@ -18,6 +18,8 @@ tags:
 - Azure DevOps
 - Azure DevOps Migration
 - Migration challenges
+resourceTypes:
+- video
 
 ---
 {{< youtube 3jYFD-6_kZk >}}
@@ -109,6 +111,7 @@ Despite the challenges, migrating to Azure DevOps doesn't have to be a nightmare
 ## **Conclusion**
 
 Migrating to Azure DevOps can be a daunting task, especially if you're dealing with legacy systems or outdated processes. However, with careful planning, attention to detail, and a thorough understanding of the potential pitfalls, you can ensure a successful migration. Remember, the key is in the preparation: plan your order of operations, align your identities, clean up your database, and always follow best practices for backups. With these steps, you can avoid the common pitfalls and ensure a smooth transition to Azure DevOps. 🚀
+
 
 
 

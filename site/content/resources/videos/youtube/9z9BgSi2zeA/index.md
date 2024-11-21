@@ -38,6 +38,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube 9z9BgSi2zeA >}}
@@ -162,6 +164,7 @@ Before you make your decision, ensure that the coach has both the technical chop
 * * *
 
 By carefully selecting an Agile coach who excels in both technical and leadership engagement, you’re setting your organization up for long-term success. You'll see not just improved processes, but stronger alignment between business goals and team execution, leading to tangible outcomes like higher innovation, faster delivery, and greater customer satisfaction.
+
 
 
 

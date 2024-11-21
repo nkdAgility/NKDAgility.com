@@ -21,6 +21,8 @@ tags:
 - Coach
 - Agile
 - Scrum
+resourceTypes:
+- video
 
 ---
 {{< youtube LkphLIbmjkI >}}
@@ -64,6 +66,7 @@ Sharpen Your Skills with Our Agile and Scrum Courses 🌟
 Want to delve deeper into the technical aspects that make Scrum and Agile successful?
 
 Our comprehensive range of courses is just what you need. Don't wait—enrol today!
+
 
 
 

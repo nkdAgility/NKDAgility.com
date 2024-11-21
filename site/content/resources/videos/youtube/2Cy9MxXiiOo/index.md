@@ -39,6 +39,8 @@ tags:
 - DevOps consulting
 - DevOps coach
 - DevOps coaching
+resourceTypes:
+- video
 
 ---
 {{< youtube 2Cy9MxXiiOo >}}
@@ -110,6 +112,7 @@ Want to learn more about setting impactful Sprint Goals and mastering other elem
 Then my Agile and Scrum courses are just the thing for you!
 
 Let's continue this journey towards Scrum mastery together.
+
 
 
 

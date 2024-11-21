@@ -38,6 +38,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube oKZ9bbESCok >}}
@@ -155,6 +157,7 @@ At the end of the day, say-do metrics are a tool of Agile banditry. They allow o
 - Embrace **transparency** and open communication.
 
 If your organization is grappling with Agile banditry and misleading metrics, my team at **Naked Agility** can help. We specialize in helping teams and organizations get back on track, focusing on delivering real value rather than playing games with data.
+
 
 
 

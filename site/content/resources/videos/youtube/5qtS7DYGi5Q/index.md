@@ -39,6 +39,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube 5qtS7DYGi5Q >}}
@@ -208,6 +210,7 @@ As your organization grows, the metrics you track may need to evolve. Stay flexi
 ## Conclusion
 
 **Evidence-Based Management** is a powerful tool for understanding and enhancing the value your organization delivers. By using data-driven insights, you can make smarter decisions, foster continuous improvement, and ultimately drive better outcomes for your customers and teams. So, how do you know the value you're currently delivering in your organization? With EBM, the answer lies in the evidence. 📊✔️
+
 
 
 

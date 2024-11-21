@@ -40,6 +40,8 @@ tags:
 - Agile leadership
 - Agile leader
 - Leadership
+resourceTypes:
+- video
 
 ---
 {{< youtube ArVDYRCKpOE >}}
@@ -77,6 +79,7 @@ The key is to strike a balance: 
 - **Embrace Continuous Learning:** Encourage a mindset where team members are always expanding their skills. 📈 
 
 In summary, "Fake it till you make it" should be used with caution. It's a tool for building confidence and learning, not a substitute for real expertise. In our Agile teams, let’s foster environments where learning is ongoing and expertise is valued.
+
 
 
 

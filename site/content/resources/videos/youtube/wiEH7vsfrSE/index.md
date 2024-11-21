@@ -22,6 +22,8 @@ tags:
 - project management
 - Agile product development
 - product development
+resourceTypes:
+- video
 
 ---
 {{< youtube wiEH7vsfrSE >}}
@@ -99,6 +101,7 @@ Encourage teams to run small experiments, even during a recession. While it migh
 ## **Conclusion: Weathering the Storm**
 
 Recessions and economic downturns are inevitable, but how your organization responds to them is what will determine your long-term success. Rather than resorting to cost-cutting and layoffs, focus on investing in your people, processes, and effectiveness. By creating a culture of learning, empowering your employees, and prioritizing value creation over short-term revenue extraction, you’ll be better positioned to weather any storm that comes your way. Remember, all markets deal in surprises. A recession is just another type of surprise. How effective is your organization at dealing with those surprises? The answer to that question will determine your ability to not just survive, but thrive, in any market condition. 🌟
+
 
 
 

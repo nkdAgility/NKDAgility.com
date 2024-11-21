@@ -19,6 +19,8 @@ tags:
 - Scrum
 - Scrum Training
 - Professional Scrum Trainer
+resourceTypes:
+- video
 
 ---
 {{< youtube f1cWND9Wsh0 >}}
@@ -62,6 +64,7 @@ While Lego can be a brilliant tool for certain educational environments, it may 
 In Part 1 of this exploration, we've delved into how it can undermine the serious transformation we're aiming to impart.  
 
 Stay tuned for more insights. 🌟🔄
+
 
 
 

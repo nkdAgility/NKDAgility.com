@@ -28,6 +28,8 @@ tags:
 - Product Development leadership
 - Nokia
 - Agile leadership
+resourceTypes:
+- video
 
 ---
 {{< youtube B12n_52H48U >}}
@@ -83,6 +85,7 @@ Key Takeaways: 
 - 🚫 Can you identify and avoid the sunk cost fallacy? 
 
 - 🤔 Are you ready to adopt an Agile mindset for navigating change?
+
 
 
 

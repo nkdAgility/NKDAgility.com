@@ -21,6 +21,8 @@ tags:
 - Scrum Project Management
 - Complex Project Management
 - Product Development
+resourceTypes:
+- video
 
 ---
 {{< youtube lvg9gSLntqY >}}
@@ -58,6 +60,7 @@ The following types of Project Management show the different approaches that sho
 Struggling to manage projects in complex environments?  🔔
 
 Explore my Agile and Scrum courses for a fresh perspective and effective tools!
+
 
 
 

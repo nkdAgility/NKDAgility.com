@@ -22,6 +22,8 @@ tags:
 - Agile Product Development
 - Scrum
 - Agile Coach
+resourceTypes:
+- video
 
 ---
 {{< youtube oBnvr7vOkg8 >}}
@@ -113,6 +115,7 @@ Hashtags:        #AgileConsulting #AgilePractices #AgileJourney #AgileandS
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

@@ -23,6 +23,8 @@ tags:
 - Agile Consulting
 - Agile Coaching engagement
 - Agile Consulting Engagement
+resourceTypes:
+- video
 
 ---
 {{< youtube TZKvdhDPMjg >}}
@@ -80,6 +82,7 @@ Hashtags:         #AgileConsulting #ChangeManagement #AgileMindset
 General
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

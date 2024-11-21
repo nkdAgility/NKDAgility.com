@@ -17,6 +17,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube phv_2Bv2PrA >}}
@@ -45,4 +47,5 @@ Sign up for one of our upcoming professional Scrum classes: https://nkdagility.c
 #AgilePhilosophy, #TechnicalExcellence, #SelfOrganizingTeams, #SustainableDevelopment, #ContinuousImprovement
 
 [Watch on YouTube](https://www.youtube.com/watch?v=phv_2Bv2PrA)
+
 

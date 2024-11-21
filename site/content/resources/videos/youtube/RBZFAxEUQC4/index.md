@@ -40,6 +40,8 @@ tags:
 - Agile leadership
 - Agile leader
 - Leadership
+resourceTypes:
+- video
 
 ---
 {{< youtube RBZFAxEUQC4 >}}
@@ -99,6 +101,7 @@ The true essence of Agile lies in its ability to adapt – and that requires mor
 - 🚀 Embrace the process of learning, adapting, and growing in your Agile journey. 
 
 Agile transformation isn't about lusting after a trendy methodology; it's about building a framework that resonates with the ethos of your organisation. It's a path of discovery, learning, and, most importantly, embracing change from within. 🌟
+
 
 
 

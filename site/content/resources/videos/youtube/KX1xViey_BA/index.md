@@ -40,6 +40,8 @@ tags:
 - Agile leadership
 - Agile leader
 - Leadership
+resourceTypes:
+- video
 
 ---
 {{< youtube KX1xViey_BA >}}
@@ -85,6 +87,7 @@ How to ensure systems support, not stifle: 
 ## **Conclusion**  
 
 The Industrial Revolution taught us the value of systems in increasing productivity. However, in our modern Agile environments, it's crucial to remember that systems are there to serve people, not the other way around. Let’s strive for a balance where systems enhance collaboration and productivity, not hinder it.
+
 
 
 

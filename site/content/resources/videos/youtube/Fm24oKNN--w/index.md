@@ -22,6 +22,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube Fm24oKNN--w >}}
@@ -31,4 +33,5 @@ sitemap:
 Martin Hinshelwood trained over 150 people at Healthgrades in the fundamentals of Scrum. This got everyone on the same page, and since the course was practical it won over the most hardened detractors. At the end of the course we get an Organisational Change backlog that sets the entire organisation on a course of self correction to a higher degree of business agility.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Fm24oKNN--w)
+
 

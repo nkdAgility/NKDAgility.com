@@ -14,6 +14,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube 5RJpAeKMRzs >}}
@@ -45,4 +47,5 @@ Sign up for one of our upcoming professional Scrum classes: https://nkdagility.c
 NNWTECIQ9X
 
 [Watch on YouTube](https://www.youtube.com/watch?v=5RJpAeKMRzs)
+
 

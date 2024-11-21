@@ -19,6 +19,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube MO7O6kTmufc >}}
@@ -28,4 +30,5 @@ sitemap:
 Introduction to Evidence-based Management Excerpt 2 #agile #evidencebasedleadership #evidencebasedmanagement #ebm #scrum #leadership #agileleadership
 
 [Watch on YouTube](https://www.youtube.com/watch?v=MO7O6kTmufc)
+
 

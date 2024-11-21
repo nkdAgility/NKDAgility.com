@@ -19,6 +19,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube BJZdyEqHhXc >}}
@@ -32,4 +34,5 @@ It can be tough to know what you're getting, how that will help you, and what ki
 Visit https://www.nkdagility.com for more insights into our agile coaching, agile consulting, and agile training services.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=BJZdyEqHhXc)
+
 

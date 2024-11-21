@@ -24,6 +24,8 @@ tags:
 - agile product management
 - project management
 - product ownership
+resourceTypes:
+- video
 
 ---
 {{< youtube A0Y-zySHXyc >}}
@@ -101,6 +103,7 @@ A Product Owner collaborates with a stakeholder, only for the latter to change s
 To ensure seamless collaboration, addressing the issue of accountability is paramount.  
 
 Let's conclude by revisiting the significance of fostering respect and open communication.
+
 
 
 

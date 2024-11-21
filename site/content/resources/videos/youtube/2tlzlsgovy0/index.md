@@ -17,6 +17,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube 2tlzlsgovy0 >}}
@@ -34,4 +36,5 @@ Actionable Tips: Strategies for effectively communicating your product vision an
 Don't miss this essential guide for Agile leaders and product managers looking to unleash the full potential of their teams. 📈
 
 [Watch on YouTube](https://www.youtube.com/watch?v=2tlzlsgovy0)
+
 

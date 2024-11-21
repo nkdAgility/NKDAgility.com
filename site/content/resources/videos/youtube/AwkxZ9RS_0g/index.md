@@ -19,6 +19,8 @@ tags:
 - Scrum Trainer
 - Professional Scrum Trainer
 - PST
+resourceTypes:
+- video
 
 ---
 {{< youtube AwkxZ9RS_0g >}}
@@ -76,6 +78,7 @@ Say no more.
 Enrol in my upcoming Agile and Scrum courses to experience this enriching blend of consulting wisdom and educational expertise.
 
 👉 Sign up now and supercharge your Agile and Scrum journey!
+
 
 
 

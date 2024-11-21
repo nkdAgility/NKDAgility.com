@@ -24,6 +24,8 @@ tags:
 - agile certifications
 - scrum certification
 - scrum training
+resourceTypes:
+- video
 
 ---
 {{< youtube XZip9ZcLyDs >}}
@@ -95,6 +97,7 @@ Hashtags:        #ScrumMaster, #LeadershipJourney, #CareerInAgile
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

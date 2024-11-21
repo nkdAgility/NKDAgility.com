@@ -19,6 +19,8 @@ tags:
 - ScrumMaster
 - Scrum
 - Scrum Master Traits
+resourceTypes:
+- video
 
 ---
 {{< youtube -pW6YDYEO20 >}}
@@ -78,6 +80,7 @@ Let's connect and elevate your Scrum game together! 🙌
 Hashtags:        #ScrumMaster  #Micromanagement #Misconceptions, #ElevateYourGame
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

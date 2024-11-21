@@ -24,6 +24,8 @@ tags:
 - Agile framework
 - Agile product development
 - Agile project management
+resourceTypes:
+- video
 
 ---
 {{< youtube XFN4iXYLE3U >}}
@@ -153,6 +155,7 @@ In Kanban, **limiting work in progress** isn’t optional—it’s essential. It
 - Improve the overall quality of their work
 
 By setting appropriate WIP limits, you ensure that your team stays focused, productive, and capable of delivering high-quality products to your customers. So, if you’re practicing Kanban, remember this golden rule: **Limit your WIP and watch your workflow transform.** 😊
+
 
 
 

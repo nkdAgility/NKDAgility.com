@@ -21,6 +21,8 @@ tags:
 - Kanban training
 - Kanban consulting
 - Kanban coaching
+resourceTypes:
+- video
 
 ---
 {{< youtube MDpthtdJgNk >}}
@@ -128,6 +130,7 @@ Kanban is an incredibly versatile and powerful strategy for optimizing workflows
 - **Further Reading**: Explore more about Kanban and agile methodologies on our blog.
 
 * * *
+
 
 
 

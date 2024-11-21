@@ -38,6 +38,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube C8a_-zn1Wsc >}}
@@ -129,6 +131,7 @@ Remember:
 - **Stay focused, reflect, and keep improving** to become a better Agile practitioner.
 
 If you’re ready to take your Agile skills to the next level, immersive learning is the way forward. Whether you’re a Scrum Master, Product Owner, or part of a development team, there’s always room to grow—so keep learning, keep doing, and keep improving! 😊
+
 
 
 

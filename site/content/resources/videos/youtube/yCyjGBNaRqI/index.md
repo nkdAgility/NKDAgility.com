@@ -14,6 +14,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube yCyjGBNaRqI >}}
@@ -29,4 +31,5 @@ The reason we do what we do and how we do what we do.
 Visit https://www.nkdagility.com
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yCyjGBNaRqI)
+
 

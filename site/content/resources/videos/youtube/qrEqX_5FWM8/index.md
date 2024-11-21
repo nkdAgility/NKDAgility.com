@@ -23,6 +23,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube qrEqX_5FWM8 >}}
@@ -65,4 +67,5 @@ If you are underemployed, we can also create custom payment plans to help you ou
 #scrum, #agile, #projectmanagement, #productdevelopment, #agilecoach, #agileconsultant, #agiletraining, #scrumtraining, #scrumorg, #scrummaster, #productowner
 
 [Watch on YouTube](https://www.youtube.com/watch?v=qrEqX_5FWM8)
+
 

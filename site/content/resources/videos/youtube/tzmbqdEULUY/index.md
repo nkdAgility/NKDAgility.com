@@ -19,6 +19,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube tzmbqdEULUY >}}
@@ -40,4 +42,5 @@ Video Chapters:
 👉 Watch the video to discover proven strategies for reducing downtime in Azure DevOps migrations. Don’t forget to like, comment, and subscribe to our channel for more expert guidance on DevOps! Visit https://nkdagility.com/capabilities/azure-devops-migration-services/ if you need help with your #azuredevops or #devopsmigration
 
 [Watch on YouTube](https://www.youtube.com/watch?v=tzmbqdEULUY)
+
 

@@ -16,6 +16,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags: []
+resourceTypes:
+- video
 
 ---
 {{< youtube I5YoOAai-m4 >}}
@@ -61,6 +63,7 @@ They don't just help teams solve problems; they introduce new ways to think, wor
 Are you eager to gain a deeper understanding of Agile and Scrum practices?
 
 Join me in my specialised courses, and together, let's unlock the next level of Agile mastery!
+
 
 
 

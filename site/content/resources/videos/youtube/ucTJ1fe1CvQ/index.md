@@ -24,6 +24,8 @@ tags:
 - Product Development
 - Agile Product Development
 - Agile project management
+resourceTypes:
+- video
 
 ---
 {{< youtube ucTJ1fe1CvQ >}}
@@ -101,6 +103,7 @@ By focusing on these elements, teams will not only build better products but als
 * * *
 
 **Ready to move beyond delivery and start creating real value?** Join us in the PPDV course and transform the way you approach product development. Let’s navigate the complexities together, challenge our assumptions, and build products that truly make a difference. 🚀
+
 
 
 

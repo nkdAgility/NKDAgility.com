@@ -15,6 +15,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags: []
+resourceTypes:
+- video
 
 ---
 {{< youtube I9avUDYFw-E >}}
@@ -144,6 +146,7 @@ By fostering a culture that prioritizes competence and supports its people, orga
 * * *
 
 This blog post highlights the essential role of competence in driving organizational success. By emphasizing the need for continuous learning and creating environments where employees can thrive, it offers actionable insights for leaders aiming to build a culture of growth and innovation. Optimize your team’s potential and watch the results unfold!
+
 
 
 

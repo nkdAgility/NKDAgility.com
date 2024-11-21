@@ -19,6 +19,8 @@ tags:
 - Agile Manifesto
 - Agile values and principles
 - Agile Consulting
+resourceTypes:
+- video
 
 ---
 {{< youtube Yesn-VHhQ4k >}}
@@ -114,6 +116,7 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 
 

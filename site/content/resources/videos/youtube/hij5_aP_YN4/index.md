@@ -38,6 +38,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube hij5_aP_YN4 >}}
@@ -137,6 +139,7 @@ Remember:
 - **Continuously evolve**: Your growth as a coach directly impacts the value you bring to your clients.
 
 If you’re looking to connect, learn, or simply have a conversation about Agile, Scrum, or DevOps, feel free to **book a coffee chat with me** through Naked Agility. Let’s continue to grow, challenge, and support each other on this Agile journey. 🌟 **Like this post?** Feel free to comment, follow, or subscribe for more Agile insights!
+
 
 
 

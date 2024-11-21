@@ -40,6 +40,8 @@ tags:
 - Agile leadership
 - Agile leader
 - Leadership
+resourceTypes:
+- video
 
 ---
 {{< youtube BDFrmCV_c68 >}}
@@ -105,6 +107,7 @@ In Agile, pride must be tempered with humility and a commitment to continuous le
 - Focus on meaningful metrics, not just vanity metrics. 
 
 - Maintain a culture of humility and continuous learning.
+
 
 
 

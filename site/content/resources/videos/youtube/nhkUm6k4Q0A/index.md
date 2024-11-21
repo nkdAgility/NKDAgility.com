@@ -38,6 +38,8 @@ tags:
 - scrum approach
 - agile leadership
 - leadership.
+resourceTypes:
+- video
 
 ---
 {{< youtube nhkUm6k4Q0A >}}
@@ -155,6 +157,7 @@ In summary:
 - Trust the team to choose their path.
 
 Remember, as a coach, your ultimate goal is to empower the team, not dictate their choices. When they succeed, so do you.
+
 
 
 

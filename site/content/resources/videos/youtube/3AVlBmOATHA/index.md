@@ -20,6 +20,8 @@ tags:
 - Agile Pilot
 - Agile Project management
 - Agile Product Development
+resourceTypes:
+- video
 
 ---
 {{< youtube 3AVlBmOATHA >}}
@@ -145,6 +147,7 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 
 

@@ -22,6 +22,8 @@ tags:
 - Kanban training
 - Kanban coaching
 - Kanban consultant
+resourceTypes:
+- video
 
 ---
 {{< youtube h6yumCOP-aE >}}
@@ -107,6 +109,7 @@ Without a working agreement, teams operate in a state of total disarray:
 Establishing a working agreement is crucial for the success of any team, whether using Kanban, Scrum, or another methodology. By sitting down and agreeing on how to work together, teams can achieve alignment, efficiency, and ultimately, success.
 
 If you’re struggling to implement a Kanban strategy, we can help or connect you with someone who can. Click the link below and get in touch today.
+
 
 
 

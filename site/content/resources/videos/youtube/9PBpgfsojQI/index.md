@@ -18,6 +18,8 @@ tags:
 - Agile
 - Agile Project Management
 - Agile Product Development
+resourceTypes:
+- video
 
 ---
 {{< youtube 9PBpgfsojQI >}}
@@ -111,6 +113,7 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 
 

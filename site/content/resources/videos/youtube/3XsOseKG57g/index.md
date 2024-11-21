@@ -21,6 +21,8 @@ tags:
 - Agile Scrum
 - Agile Scrum Training
 - Immersive training
+resourceTypes:
+- video
 
 ---
 {{< youtube 3XsOseKG57g >}}
@@ -72,6 +74,7 @@ This pause lets participants return the following day with enhanced understandin
 Curious about experiencing this unique learning approach?
 
 Explore my courses, and let's make your learning journey memorable!
+
 
 
 

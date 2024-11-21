@@ -25,6 +25,8 @@ tags:
 - Agile product management
 - Agility
 - Business Agility
+resourceTypes:
+- video
 
 ---
 {{< youtube zltmMb2EbDE >}}
@@ -126,6 +128,7 @@ Integrating Kanban with Scrum enhances your workflow by providing the metrics an
 - **Consulting Services**: Need help implementing Kanban? Our experts are here to guide you.
 
 - **Further Reading**: Explore more about Kanban and agile methodologies on our blog.
+
 
 
 

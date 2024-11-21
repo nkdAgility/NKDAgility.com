@@ -43,6 +43,8 @@ tags:
 - 7 signs
 - agile-pocalypse
 - agile-apocalypse
+resourceTypes:
+- video
 
 ---
 {{< youtube vhBsAXev014 >}}
@@ -104,6 +106,7 @@ As we navigate the choppy waters of chaos, let’s remember that the key to succ
 If you're keen to explore more about agile, scrum, or devops, or if you simply want to chat about steering through chaos, reach out for a coffee chat. Together, we can explore the vast oceans of agile possibilities. Until next time, keep your sails set towards agility, and may your journey be smooth and your transformations transformative. 🌈
 
 _Liked this deep dive into navigating chaos in agile transformations? Follow, subscribe, and join the conversation for more insights and guidance on your agile journey._
+
 
 
 

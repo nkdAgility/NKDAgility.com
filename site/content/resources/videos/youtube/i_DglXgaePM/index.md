@@ -14,6 +14,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube i_DglXgaePM >}}
@@ -33,4 +35,5 @@ Join Via Future of work Scotland: https://www.meetup.com/the-future-of-work-in-S
 Join via LinkedIn: https://www.linkedin.com/in/martinhinshelwood/
 
 [Watch on YouTube](https://www.youtube.com/watch?v=i_DglXgaePM)
+
 

@@ -19,6 +19,8 @@ tags:
 - PPDV course
 - Professional Product Discovery and Validation
 - Scrum.org
+resourceTypes:
+- video
 
 ---
 {{< youtube m4KNGw5p4Go >}}
@@ -110,6 +112,7 @@ By focusing on increasing user value, reducing waste, embracing agility, unlocki
 Remember, the key to successful product development lies in experimentation, collaboration, and a relentless focus on creating value. So, take the lessons from this course and start making meaningful changes today!
 
 🚀 **Ready to take your product development to the next level? Let’s get started!**
+
 
 
 

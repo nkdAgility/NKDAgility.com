@@ -35,6 +35,8 @@ tags:
 - DevOps consulting
 - DevOps coach
 - DevOps coaching
+resourceTypes:
+- video
 
 ---
 {{< youtube YUlpnyN2IeI >}}
@@ -92,6 +94,7 @@ It encourages us to create our recipe for success, one that resonates with our u
 Are you ready to navigate these adaptive and iterative processes? I invite you to join my Agile and Scrum courses.  🚀
 
 Together, we can embark on a journey to redefine the contours of professionalism and agility in the industry.
+
 
 
 
