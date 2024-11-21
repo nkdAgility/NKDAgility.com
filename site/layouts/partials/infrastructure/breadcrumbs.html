@@ -3,7 +3,7 @@
   <ul class="breadcrumb">
     <!-- Output breadcrumb trail -->
     {{- range $index, $page := $breadcrumbs }}
-      <li class="breadcrumb-item" title="{{- $page.Title }}">
+      <li class="breadcrumb-item" title="{{- $page.Title }}{{ if $page.Params.shorttitle }}&nbsp;({{ $page.Params.shorttitle }}){{ end }}{{ if $page.Description }}&nbsp;-&nbsp;{{ $page.Description }}{{ end }}">
         {{- if eq $index (sub (len $breadcrumbs) 1) }}
           <!-- Current page (no link) -->
           <span class="active">
@@ -15,10 +15,10 @@
           </span>
         {{- else }}
           {{ if $page.IsHome }}
-            <a href="{{- $page.Permalink }}" title="{{ $page.Title }}"><i class="fa-light fa-house"></i></a>
+            <a href="{{- $page.Permalink }}"><i class="fa-light fa-house"></i></a>
           {{ else }}
             <!-- Linked breadcrumb items -->
-            <a href="{{- $page.Permalink }}" title="{{ $page.Title }}">
+            <a href="{{- $page.Permalink }}">
               {{- if $page.Params.shorttitle }}
                 {{- $page.Params.shorttitle }}
               {{- else }}
