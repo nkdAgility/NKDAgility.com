@@ -2,20 +2,45 @@
 title: ' shorts 7 Virtues of agile. Diligence'
 date: 2023-12-07T11:00:05Z
 videoId: 2QojN_k3JZ4
-url: /resources/videos/-shorts-7-virtues-of-agile-diligence
+url: /resources/videos/:slug
+slug: -shorts-7-virtues-of-agile-diligence
 canonicalUrl: https://www.youtube.com/watch?v=2QojN_k3JZ4
+aliases:
+- /resources/videos/2QojN_k3JZ4
 preview: https://i.ytimg.com/vi/2QojN_k3JZ4/maxresdefault.jpg
 duration: 25
 isShort: true
+tags:
+- Agile
+- agile coach
+- agile consultant
+- agile leadership
+- agile product development
+- agile product management
+- agile project management
+- agile trainer
+- DevOps coach
+- DevOps consultant
+- DevOps engineer
+- leadership.
+- product development
+- product management
+- professional scrum trainer
+- project management
+- Scrum
+- scrum approach
+- scrum certification
+- scrum framework
+- scrum methodology
+- scrum training
+- scrum.org
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/2QojN_k3JZ4
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube 2QojN_k3JZ4 >}}
 
 #  shorts 7 Virtues of agile. Diligence
@@ -34,6 +59,5 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=2QojN_k3JZ4)
-
 
 

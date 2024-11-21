@@ -2,20 +2,29 @@
 title: Why its imposible to order a hierarchy, and what you can do instead!
 date: 2024-03-26T10:56:26Z
 videoId: ZBb8OZ0I6qA
-url: /resources/videos/why-its-imposible-to-order-a-hierarchy,-and-what-you-can-do-instead!
+url: /resources/videos/:slug
+slug: why-its-imposible-to-order-a-hierarchy,-and-what-you-can-do-instead!
 canonicalUrl: https://www.youtube.com/watch?v=ZBb8OZ0I6qA
+aliases:
+- /resources/videos/ZBb8OZ0I6qA
 preview: https://i.ytimg.com/vi/ZBb8OZ0I6qA/maxresdefault.jpg
 duration: 1156
 isShort: false
+tags:
+- ADO
+- AzDO
+- Team Foundation Server
+- TFS
+- TFS Online
+- Visual Studio Team System
+- VSTS
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/ZBb8OZ0I6qA
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube ZBb8OZ0I6qA >}}
 
 # Why its imposible to order a hierarchy, and what you can do instead!
@@ -46,6 +55,5 @@ _Sign up for one of our upcoming professional Scrum classes: https://nkdagility.
 #azuredevops #planning #backlog #azureboards #epic
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ZBb8OZ0I6qA)
-
 
 

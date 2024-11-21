@@ -14,10 +14,20 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Product Owner
+- Product Manager
+- Scrum
+- Scrum Product Owner
+- Product Development
+- Product Management
+- Agile
+- Agile Project Management
+- Agile Product Development
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube XdzGxK1Yzyc >}}
 
 ## Decoding the Role of the Product Owner
@@ -83,6 +93,8 @@ That's the magic of a product owner.  💡 
 I'd love to share more insights and guidance for those intrigued by the intricacies of Scrum and Agile roles.
 
 Join me in my Agile and Scrum courses to uncover the depth and breadth of these roles.
+
+
 
 
 

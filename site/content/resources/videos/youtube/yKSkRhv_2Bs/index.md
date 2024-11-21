@@ -15,10 +15,17 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- APS
+- Applying Professional Scrum
+- Scrum Training
+- Scrum Course
+- Scrum Certification
+- Scrum.org
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube yKSkRhv_2Bs >}}
 
 ## Unlock the Full Potential of Scrum with APS Courses
@@ -78,6 +85,8 @@ Are you ready to kickstart or rejuvenate your Scrum journey?
 Let's set the ball rolling towards unparalleled Scrum proficiency.
 
 Join now, and let's embark on a transformative journey to Scrum excellence together and learn how to integrate it optimally within your organisation's framework.
+
+
 
 
 

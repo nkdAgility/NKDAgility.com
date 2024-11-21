@@ -2,20 +2,45 @@
 title: 7 signs of the agile apocalypse. Judgement
 date: 2023-11-09T06:45:04Z
 videoId: uRqsRNq-XRY
-url: /resources/videos/7-signs-of-the-agile-apocalypse-judgement
+url: /resources/videos/:slug
+slug: 7-signs-of-the-agile-apocalypse-judgement
 canonicalUrl: https://www.youtube.com/watch?v=uRqsRNq-XRY
+aliases:
+- /resources/videos/uRqsRNq-XRY
 preview: https://i.ytimg.com/vi/uRqsRNq-XRY/maxresdefault.jpg
 duration: 55
 isShort: true
+tags:
+- Agile
+- agile coach
+- agile consultant
+- agile leadership
+- agile product development
+- agile product management
+- agile project management
+- agile trainer
+- DevOps coach
+- DevOps consultant
+- DevOps engineer
+- leadership.
+- product development
+- product management
+- professional scrum trainer
+- project management
+- Scrum
+- scrum approach
+- scrum certification
+- scrum framework
+- scrum methodology
+- scrum training
+- scrum.org
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/uRqsRNq-XRY
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube uRqsRNq-XRY >}}
 
 # 7 signs of the agile apocalypse. Judgement
@@ -36,6 +61,5 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=uRqsRNq-XRY)
-
 
 

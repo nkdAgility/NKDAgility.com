@@ -15,10 +15,18 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Agile Coach
+- Agile Consultant
+- Agile Coaching
+- Agile Consulting
+- Agile Coaching engagement
+- Agile Consulting Engagement
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube TZKvdhDPMjg >}}
 
 **One thing a client can do to ensure a successful Agile consulting engagement**
@@ -74,6 +82,8 @@ Hashtags:         #AgileConsulting #ChangeManagement #AgileMindset
 General
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
+
 
 
 

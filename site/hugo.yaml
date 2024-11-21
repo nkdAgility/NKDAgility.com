@@ -28,7 +28,7 @@ sitemap:
 outputs:
   home: [html, json, rss]
   section: [html, rss]
-  taxonomy: [html, rss]
+  taxonomy: [html]
   term: [html, rss]
   page: [html]
 
@@ -59,6 +59,12 @@ taxonomies:
   delivery-audience: delivery-audiences
   people-ability: people-abilities
   resourceTypes: resourceTypes
+
+cascade:
+  - _target:
+      path: /tags/**
+    _build:
+      render: never
 
 permalinks:
   taxonomy:

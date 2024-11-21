@@ -15,10 +15,30 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Scrum
+- Scrum Advice
+- Scrum Product Development
+- Scrum Project Management
+- Agile
+- Agile Product Development
+- Agile Project Management
+- Product Development
+- Project Management
+- product team
+- agile coach
+- agile coaching
+- agile consultant
+- agile consulting
+- DevOps
+- DevOps consultant
+- DevOps consulting
+- DevOps coach
+- DevOps coaching
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube YUlpnyN2IeI >}}
 
 ## The Golden Nugget of Scrum Advice I've Ever Received
@@ -74,6 +94,8 @@ It encourages us to create our recipe for success, one that resonates with our u
 Are you ready to navigate these adaptive and iterative processes? I invite you to join my Agile and Scrum courses.  🚀
 
 Together, we can embark on a journey to redefine the contours of professionalism and agility in the industry.
+
+
 
 
 

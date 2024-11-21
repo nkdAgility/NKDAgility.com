@@ -14,10 +14,15 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- DevOps consulting
+- Agile Consulting
+- DevOps consultant
+- DevOps coach
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube QQA9coiM4fk >}}
 
 ## Navigating the Complexities with Expert Guidance 
@@ -75,6 +80,8 @@ In essence, my approach to DevOps consulting is as varied as the needs of my cli
 If you're looking to harness the full power of DevOps, remember it's not just about installing a tool or ticking a box. It's a journey of improvement, efficiency, and cultural change.  
 
 And that journey, as your DevOps consultant, is one I'm here to navigate with you.
+
+
 
 
 

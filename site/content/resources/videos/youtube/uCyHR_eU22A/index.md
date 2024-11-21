@@ -14,10 +14,33 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Sprint Backlog
+- Product Backlog
+- Backlog
+- Sprint
+- Scrum
+- Scrum Product Development
+- Scrum Project Management
+- Agile
+- Agile Product Development
+- Agile Project Management
+- Product Development
+- Project Management
+- product team
+- agile coach
+- agile coaching
+- agile consultant
+- agile consulting
+- DevOps
+- DevOps consultant
+- DevOps consulting
+- DevOps coach
+- DevOps coaching
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube uCyHR_eU22A >}}
 
 ## Navigating Sprint Backlog Selection
@@ -57,6 +80,8 @@ Remember, in Agile, it's about fostering a cohesive approach where every stakeho
 Embark on a journey of Agile mastery with my specialised Agile and Scrum courses, where we untangle the complexities of real-world scenarios, fostering a space where product owners and developers align harmoniously to prioritise tasks effectively.
 
 Let's embark on this transformative path together, paving the way for a successful sprint every time!  🚀
+
+
 
 
 

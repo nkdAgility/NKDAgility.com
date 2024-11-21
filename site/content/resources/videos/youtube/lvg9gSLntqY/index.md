@@ -14,10 +14,17 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Project Management
+- Traditional Project Management
+- Agile Project Management
+- Scrum Project Management
+- Complex Project Management
+- Product Development
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube lvg9gSLntqY >}}
 
 ## Project Management in Intricate Environments
@@ -53,6 +60,8 @@ The following types of Project Management show the different approaches that sho
 Struggling to manage projects in complex environments?  🔔
 
 Explore my Agile and Scrum courses for a fresh perspective and effective tools!
+
+
 
 
 

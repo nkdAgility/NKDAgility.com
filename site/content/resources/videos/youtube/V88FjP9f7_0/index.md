@@ -14,10 +14,36 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Sprint Backlog
+- Product Backlog
+- Backlog
+- Sprint
+- Scrum
+- Scrum Product Development
+- Scrum Project Management
+- Agile
+- Agile Product Development
+- Agile Project Management
+- Product Development
+- Project Management
+- product team
+- agile coach
+- agile coaching
+- agile consultant
+- agile consulting
+- DevOps
+- DevOps consultant
+- DevOps consulting
+- DevOps coach
+- DevOps coaching
+- Agile leadership
+- Agile leader
+- Leadership
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube V88FjP9f7_0 >}}
 
 **Embracing 'Less is More' in Agile: Maximising Value, Minimising Waste 🚀🌟** 
@@ -45,6 +71,8 @@ In the world of Agile and Kanban, the mantra 'less is more' isn't just a catchy 
 **Conclusion: The Power of Strategic Focus in Agile 🎯🌟** 
 
 In Agile, doing less to achieve more is about strategic focus - doing the right things, not just doing things right. By embracing this principle, Agile teams can enhance both their productivity and the quality of their work, leading to more successful outcomes.
+
+
 
 
 

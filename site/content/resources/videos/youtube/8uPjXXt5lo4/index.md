@@ -14,10 +14,14 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Scrum
+- Scrum Training
+- Professional Scrum Trainer
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube 8uPjXXt5lo4 >}}
 
 What is the most valuable thing you have learned through training people?
@@ -85,6 +89,8 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
+
 
 
 

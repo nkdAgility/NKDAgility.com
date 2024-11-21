@@ -14,10 +14,17 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Resource Efficiency
+- Flow Efficiency
+- Agile
+- Scrum
+- Agile Project Management
+- Product Development
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube 1ePkQeCVAlY >}}
 
 **What is the difference between resource efficiency and flow efficiency?**
@@ -69,6 +76,8 @@ Keywords:       Resource efficiency, Flow efficiency, Optimisation, Agile p
 Specific:           #ResourceEfficiency, #FlowEfficiency, #Optimization, #AgileProcesses
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
+
 
 
 

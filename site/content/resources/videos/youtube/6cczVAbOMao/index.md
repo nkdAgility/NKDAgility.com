@@ -14,10 +14,33 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Product Backlog
+- Backlog
+- Sprint Backlog
+- Sprint
+- Scrum
+- Scrum Product Development
+- Scrum Project Management
+- Agile
+- Agile Product Development
+- Agile Project Management
+- Product Development
+- Project Management
+- product team
+- agile coach
+- agile coaching
+- agile consultant
+- agile consulting
+- DevOps
+- DevOps consultant
+- DevOps consulting
+- DevOps coach
+- DevOps coaching
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube 6cczVAbOMao >}}
 
 ## The Pivotal Role of a Product Owner in Cultivating a Stellar Product Backlog
@@ -67,6 +90,8 @@ Join me in my comprehensive Agile and Scrum courses, where we delve deep into th
 Let's cultivate the knack to create lean and directional product backlogs together!
 
 Remember, strong product leadership is the cornerstone of a successful product development cycle! 🚀
+
+
 
 
 

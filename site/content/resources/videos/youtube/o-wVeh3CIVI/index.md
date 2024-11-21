@@ -15,10 +15,20 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Scrum
+- Scrum Framework
+- Scrum Methodology
+- Scrum Approach
+- Scrum Project Management
+- Scrum Product Development
+- Scrum Product Management
+- Scrum Training
+- Scrum Course
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube o-wVeh3CIVI >}}
 
 **What is Scrum?**
@@ -70,6 +80,8 @@ Hashtags:        #Scrum, #SocialTechnology, #Complexity, #TaskManagement
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
+
 
 
 

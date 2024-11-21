@@ -14,10 +14,34 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Product Vision
+- Sprint Backlog
+- Product Backlog
+- Backlog
+- Sprint
+- Scrum
+- Scrum Product Development
+- Scrum Project Management
+- Agile
+- Agile Product Development
+- Agile Project Management
+- Product Development
+- Project Management
+- product team
+- agile coach
+- agile coaching
+- agile consultant
+- agile consulting
+- DevOps
+- DevOps consultant
+- DevOps consulting
+- DevOps coach
+- DevOps coaching
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube oiIf2vdqgg0 >}}
 
 ## It's All About Direction
@@ -61,6 +85,8 @@ I invite you to join my Agile and Scrum courses, where we explore these concepts
 Can't wait to see you there!
 
 Remember, the future is what we make it. Let's create it together, starting today.
+
+
 
 
 

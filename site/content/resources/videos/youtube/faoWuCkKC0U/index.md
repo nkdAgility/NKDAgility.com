@@ -15,10 +15,17 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- PSPO A
+- Professional Scrum Product Owner
+- Advanced Professional Scrum Product Owner
+- Scrum.Org
+- Scrum Training
+- Scrum Certification
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube faoWuCkKC0U >}}
 
 ## Step Up Your Game with the PSPO-A Course
@@ -62,6 +69,8 @@ Don't miss this opportunity to elevate your professional journey to new heights!
 Sign up for the PSPO-A course now and let's set the stage for unparalleled success!
 
 Let's innovate, collaborate, and lead the way in product management together! 🚀
+
+
 
 
 

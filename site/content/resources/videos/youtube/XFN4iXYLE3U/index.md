@@ -14,10 +14,20 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Kanban
+- Kanban training
+- Kanban courses
+- Kanban coaching
+- Kanban consulting
+- Agile
+- Agile framework
+- Agile product development
+- Agile project management
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube XFN4iXYLE3U >}}
 
 When it comes to Kanban, many teams get excited about visualizing their work. But there's a crucial element often overlooked: **limiting work in progress (WIP)**. Without this, you're not truly practicing Kanban. Limiting WIP is fundamental to controlling your workflow, understanding the system's bottlenecks, and delivering high-quality products at a sustainable pace.
@@ -145,6 +155,8 @@ In Kanban, **limiting work in progress** isn’t optional—it’s essential. It
 - Improve the overall quality of their work
 
 By setting appropriate WIP limits, you ensure that your team stays focused, productive, and capable of delivering high-quality products to your customers. So, if you’re practicing Kanban, remember this golden rule: **Limit your WIP and watch your workflow transform.** 😊
+
+
 
 
 

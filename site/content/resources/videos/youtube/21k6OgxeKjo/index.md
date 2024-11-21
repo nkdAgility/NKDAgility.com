@@ -2,20 +2,45 @@
 title: ' shorts 5 kinds of Agile bandits. 5th kind'
 date: 2024-01-10T11:00:01Z
 videoId: 21k6OgxeKjo
-url: /resources/videos/-shorts-5-kinds-of-agile-bandits-5th-kind
+url: /resources/videos/:slug
+slug: -shorts-5-kinds-of-agile-bandits-5th-kind
 canonicalUrl: https://www.youtube.com/watch?v=21k6OgxeKjo
+aliases:
+- /resources/videos/21k6OgxeKjo
 preview: https://i.ytimg.com/vi/21k6OgxeKjo/maxresdefault.jpg
 duration: 38
 isShort: true
+tags:
+- Agile
+- agile coach
+- agile consultant
+- agile leadership
+- agile product development
+- agile product management
+- agile project management
+- agile trainer
+- DevOps coach
+- DevOps consultant
+- DevOps engineer
+- leadership.
+- product development
+- product management
+- professional scrum trainer
+- project management
+- Scrum
+- scrum approach
+- scrum certification
+- scrum framework
+- scrum methodology
+- scrum training
+- scrum.org
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/21k6OgxeKjo
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube 21k6OgxeKjo >}}
 
 #  shorts 5 kinds of Agile bandits. 5th kind
@@ -36,6 +61,5 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=21k6OgxeKjo)
-
 
 

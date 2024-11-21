@@ -1,5 +1,6 @@
 ---
 title: "Technically Agile: Guides"
+shorttitle: "Guides"
 url: /resources/guides/
 weight: 1
 aliases:

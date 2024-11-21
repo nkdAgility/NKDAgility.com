@@ -2,20 +2,45 @@
 title: ' shorts 7 Virtues of Agile. Chastity'
 date: 2023-12-04T11:00:23Z
 videoId: OMlLiLkCmMY
-url: /resources/videos/-shorts-7-virtues-of-agile-chastity
+url: /resources/videos/:slug
+slug: -shorts-7-virtues-of-agile-chastity
 canonicalUrl: https://www.youtube.com/watch?v=OMlLiLkCmMY
+aliases:
+- /resources/videos/OMlLiLkCmMY
 preview: https://i.ytimg.com/vi/OMlLiLkCmMY/maxresdefault.jpg
 duration: 24
 isShort: true
+tags:
+- Agile
+- agile coach
+- agile consultant
+- agile leadership
+- agile product development
+- agile product management
+- agile project management
+- agile trainer
+- DevOps coach
+- DevOps consultant
+- DevOps engineer
+- leadership.
+- product development
+- product management
+- professional scrum trainer
+- project management
+- Scrum
+- scrum approach
+- scrum certification
+- scrum framework
+- scrum methodology
+- scrum training
+- scrum.org
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/OMlLiLkCmMY
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube OMlLiLkCmMY >}}
 
 #  shorts 7 Virtues of Agile. Chastity
@@ -34,6 +59,5 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=OMlLiLkCmMY)
-
 
 

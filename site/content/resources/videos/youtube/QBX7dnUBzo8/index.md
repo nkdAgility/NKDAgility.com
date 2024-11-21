@@ -14,10 +14,34 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Scrum
+- agile project management
+- agile product development
+- agile product management
+- project management
+- product development
+- product management
+- professional scrum trainer
+- scrum training
+- scrum certification
+- scrum.org
+- DevOps consultant
+- DevOps coach
+- DevOps engineer
+- agile coach
+- agile consultant
+- agile trainer
+- scrum framework
+- scrum methodology
+- scrum approach
+- agile leadership
+- leadership.
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube QBX7dnUBzo8 >}}
 
 Organizations often struggle to address the root causes of inefficiencies, particularly when adopting Agile practices. Instead of tackling the core issues within their systems, they focus on surface-level problems. This blog post will explore these systemic issues and provide insights on how to make meaningful changes that lead to greater effectiveness and agility.
@@ -117,6 +141,8 @@ At the heart of Agile is the concept of **systematic and continuous improvement*
 ## **Personalized Assistance and Learning**
 
 If you’re ready to address the **systemic issues** in your organization and make meaningful changes, I’d love to help.
+
+
 
 
 

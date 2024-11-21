@@ -2,20 +2,29 @@
 title: Why do you encourage people to follow a certification path in their career journey?
 date: 2023-03-07T07:00:09Z
 videoId: _fFs-0GL1CA
-url: /resources/videos/why-do-you-encourage-people-to-follow-a-certification-path-in-their-career-journey-
+url: /resources/videos/:slug
+slug: why-do-you-encourage-people-to-follow-a-certification-path-in-their-career-journey-
 canonicalUrl: https://www.youtube.com/watch?v=_fFs-0GL1CA
+aliases:
+- /resources/videos/_fFs-0GL1CA
 preview: https://i.ytimg.com/vi/_fFs-0GL1CA/maxresdefault.jpg
 duration: 372
 isShort: false
+tags:
+- Agile
+- Agile Scrum Training
+- Product Owner
+- Scrum
+- Scrum Certification
+- Scrum Master
+- Scrum Training
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/_fFs-0GL1CA
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube _fFs-0GL1CA >}}
 
 # Why do you encourage people to follow a certification path in their career journey?
@@ -41,6 +50,5 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=_fFs-0GL1CA)
-
 
 

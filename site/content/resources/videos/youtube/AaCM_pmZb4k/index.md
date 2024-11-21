@@ -15,10 +15,15 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Agile Leadership
+- Hiearchies of competence
+- Hierarchies of control
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube AaCM_pmZb4k >}}
 
 ## Hierarchies of Competence Vs Control: Insights & Relevance
@@ -72,6 +77,8 @@ Consider transitioning towards a more competence-based hierarchy if your organis
 Ready to make your organisation more agile and efficient?
 
 Let's navigate the future of work together.
+
+
 
 
 

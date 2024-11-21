@@ -14,10 +14,33 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Sprint Backlog
+- Product Backlog
+- Backlog
+- Sprint
+- Scrum
+- Scrum Product Development
+- Scrum Project Management
+- Agile
+- Agile Product Development
+- Agile Project Management
+- Product Development
+- Project Management
+- product team
+- agile coach
+- agile coaching
+- agile consultant
+- agile consulting
+- DevOps
+- DevOps consultant
+- DevOps consulting
+- DevOps coach
+- DevOps coaching
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube dT1_zHfzto0 >}}
 
 ## The Reality of Scrum Adoption 🤔  
@@ -59,6 +82,8 @@ Ensuring your organisation falls into the successful 10% is challenging yet achi
 ## Elevating Your Scrum Journey 🚀  
 
 Ken’s assertion provides a sobering perspective on Scrum adoption. However, by focusing on a holistic transformation and customer-centric delivery, organisations can defy the odds and join the successful minority.
+
+
 
 
 

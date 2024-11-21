@@ -14,10 +14,16 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Product Management
+- Agile product management
+- project management
+- product development
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube qRHzl4PieKA >}}
 
 In today’s fast-paced world, where user needs and market dynamics are constantly evolving, being agile is no longer a luxury—it’s a necessity. But what does it mean to truly be agile? At its core, agility is about responding to change over following a plan. This means that your teams need the freedom to adapt, especially when it comes to changing requirements based on user feedback.
@@ -93,6 +99,8 @@ The people creating the product are not just executing a plan—they are an inte
 At the end of the day, the question you need to ask yourself is: Are you maximizing the value you deliver to your customers? If your teams aren’t empowered to change requirements based on user feedback, the answer is probably no.
 
 To be truly agile, you need to create an environment where the product team is fully engaged, the backlog is regularly updated, and requirements can be changed or deleted as needed. By doing so, you’ll ensure that your product remains relevant, valuable, and aligned with the needs of your users and the market. So, take a step back and evaluate your current processes. Are you empowering your teams to make these critical changes? If not, now is the time to start. 💡
+
+
 
 
 

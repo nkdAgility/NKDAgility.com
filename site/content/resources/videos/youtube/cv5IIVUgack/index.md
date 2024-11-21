@@ -14,10 +14,17 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Developer
+- Scrum Developer
+- Agile
+- Agile Software Engineering
+- Agile Project Management
+- Agile Developer
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube cv5IIVUgack >}}
 
 ## From Developer to Scrum Developer: A Journey of Continuous Learning
@@ -53,6 +60,8 @@ We must hone our craft, deeply understand the Agile ethos, and ensure our produc
 If you're a developer looking to navigate this transition or simply want to sharpen your Scrum toolkit, consider joining my Agile and Scrum courses.
 
 Together, let's master the art of continuous everything!  🌟
+
+
 
 
 

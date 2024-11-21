@@ -15,10 +15,21 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Immersive Learning
+- Scrum.Org
+- Scum training
+- Scrum certification
+- scrum
+- agile
+- agile product development
+- agile project management
+- agile scrum training
+- immersive learning courses
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube 6D6QTjSrJ14 >}}
 
 ## Embracing the Shift: Why Immersive Learning is the Future of Professional Development 
@@ -112,6 +123,8 @@ As trainers, we are not just broadcasters of information but cultivators of inte
 The Future Is Here, and It's Immersive 🚀🔮 
 
 The evolution of immersive learning is more than just a trend; it's a transformation. It's about recognising that professional development is not a checkpoint but a journey – and immersive learning is the vehicle that will take us into a future of enriched understanding and application.
+
+
 
 
 

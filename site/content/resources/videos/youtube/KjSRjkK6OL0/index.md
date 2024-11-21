@@ -14,10 +14,14 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- scrum
+- scrummaster
+- scrum master
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube KjSRjkK6OL0 >}}
 
 ## Spotting an Ineffective Scrum Master's Day
@@ -65,6 +69,8 @@ Identifying these pitfalls is essential.
 But here's a twist – what if you could master the right Scrum approach?
 
 Explore my Agile and Scrum courses, and let's transform these ineffective habits together!
+
+
 
 
 

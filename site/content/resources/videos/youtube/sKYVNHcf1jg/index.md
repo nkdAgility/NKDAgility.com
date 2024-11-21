@@ -2,21 +2,28 @@
 title: What was your worst day as an agile consultant?
 date: 2023-04-04T07:00:16Z
 videoId: sKYVNHcf1jg
-url: /resources/videos/what-was-your-worst-day-as-an-agile-consultant-
+url: /resources/videos/:slug
+slug: what-was-your-worst-day-as-an-agile-consultant-
 canonicalUrl: https://www.youtube.com/watch?v=sKYVNHcf1jg
+aliases:
+- /resources/videos/sKYVNHcf1jg
 preview: https://i.ytimg.com/vi/sKYVNHcf1jg/maxresdefault.jpg
 duration: 280
 isShort: false
-aliases:
-- /resources/what-was-your-worst-day-as-an-agile-consultant
-- /resources/videos/sKYVNHcf1jg
+tags:
+- Agile
+- Agile Coach
+- Agile Coaching
+- Agile Consultant
+- Agile Consulting
+- Consulting
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube sKYVNHcf1jg >}}
 
 # What was your worst day as an agile consultant?
@@ -44,6 +51,5 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=sKYVNHcf1jg)
-
 
 

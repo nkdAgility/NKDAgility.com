@@ -14,10 +14,17 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Scrum
+- Scrum.Org
+- Scrum Training
+- Scrum Certification
+- Scrum Master
+- Product Owner
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube jFU_4xtHzng >}}
 
 **Why do you think that 4 half days is a better format than 2 full days?**
@@ -89,6 +96,8 @@ Specific:           #trainingdesign, #FlowEfficiency, #Optimization, #A
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
+
 
 
 

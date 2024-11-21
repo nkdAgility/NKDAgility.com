@@ -16,10 +16,23 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- APS
+- Applying Professional Scrum
+- Scrum Training
+- Scrum Course
+- Scrum Certification
+- Scrum.Org
+- Scrum team training
+- Agile scrum training
+- agile
+- agile project management
+- agile product management
+- agile product development
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube QI3oE9IUc6E >}}
 
 ## The APS Advantage: Exploring Professional Scrum Mastery
@@ -77,6 +90,8 @@ If Scrum is your chosen path, and you're seeking to optimise each step, I invite
 Engage, learn, transform. For those keen on exploring Agile further or simply keen to share their own Scrum tales, let's connect.
 
 Reach out via Naked Agility, and let's pen your Scrum success saga together.
+
+
 
 
 

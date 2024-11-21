@@ -14,10 +14,18 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Scrum
+- UX
+- User Experience
+- PSU Course
+- Professional Scrum with User Experience
+- Scrum Org
+- Scrum Certification
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube S7Xr1-qONmM >}}
 
 Why do you think the PSU course has become so popular for product development?
@@ -107,6 +115,8 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
+
 
 
 

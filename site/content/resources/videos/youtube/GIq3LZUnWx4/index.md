@@ -14,10 +14,19 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- PSPO
+- Professional Scrum Product Owner
+- PSPO course
+- Professional Scrum Product Owner course
+- Scrum Course
+- Scrum Training
+- Scrum Certification
+- Scrum.Org
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube GIq3LZUnWx4 >}}
 
 ## The Core of PSPO: Unearthing the Essence of Value
@@ -67,6 +76,8 @@ Did this resonate with you?  If so, then join the conversation. 🌐 
 Your journey towards mastering the nuances of value starts here.
 
 Engage, question, and let's redefine value together.  Let's connect over coffee and discuss more.  You know where to find me - Naked Agility!
+
+
 
 
 

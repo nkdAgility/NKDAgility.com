@@ -14,10 +14,18 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Kanban training
+- Kanban
+- Kanban courses
+- Kanban coach
+- Kanban consultant
+- Kanban method
+- Kanban approach
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube Ir8QiX7eAHU >}}
 
 One of the most critical components of a successful **Kanban strategy** is setting **Work-In-Progress (WIP) limits**. Without WIP limits, you simply do not have a proper Kanban strategy. In this post, we'll explore the importance of WIP limits, how to determine the right limits for your team, and share some personal experiences and advice to help you optimize your workflow.
@@ -105,6 +113,8 @@ WIP limits are crucial for any Kanban system. While the "perfect" WIP limit migh
 - Experiment and adjust as needed to find the Goldilocks zone for your team.
 
 With the right approach, you'll find that WIP limits not only improve flow but also foster better conversations and collaboration within your team.
+
+
 
 
 

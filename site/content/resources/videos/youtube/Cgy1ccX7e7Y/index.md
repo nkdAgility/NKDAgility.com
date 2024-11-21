@@ -14,10 +14,17 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Agile Consulting
+- Agile Transformation
+- Agile Coach
+- Product Development
+- Project Management
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube Cgy1ccX7e7Y >}}
 
 What would be an example of a great agile consulting outcome for a client?
@@ -101,6 +108,8 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
+
 
 
 

@@ -15,10 +15,21 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Scrum
+- Scrum Master
+- Scrum Framework
+- Scrum approach
+- Scrum Product Development
+- Agile
+- Agile project management
+- Agile product development
+- Agile product management
+- Agile project manager
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube v1sMbKpQndU >}}
 
 ## The Agile Landscape: A Guide to Effective Coaching and Leadership 
@@ -116,6 +127,8 @@ Key takeaways include: 
 Agile coaching and the role of the Scrum Master are about much more than guiding teams through the mechanics of Agile methodologies. They are about fostering a mindset of continuous improvement, collaboration, and empowerment. 
 
 By understanding the nuances of these roles, you can effectively lead your teams to achieve remarkable results in the Agile world. 🌍✨
+
+
 
 
 

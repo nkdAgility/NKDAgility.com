@@ -14,10 +14,17 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- DevOps
+- DevOps Consulting
+- DevOps Consultant
+- Agile
+- Agile Consultant
+- Agile Consulting
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube sb9RsFslUfU >}}
 
 ## From Practitioner to Consultant
@@ -83,6 +90,8 @@ Here's the blueprint:
 And as I always believe, it's not about _readiness_.  It's about being seen, being of value, and having a unique narrative to share.
 
 Together, let's dive into the intricacies of Agile and Scrum with my courses and set your trajectory towards excellence.
+
+
 
 
 

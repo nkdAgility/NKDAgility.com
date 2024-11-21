@@ -15,10 +15,15 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Scrum
+- Scrum Trainer
+- Professional Scrum Trainer
+- PST
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube Dl5v4j1f-WE >}}
 
 ## My Professional Scrum Trainer Legacy: What Matters Most to Me?
@@ -70,6 +75,8 @@ Interested in learning more about Scrum?
 Join me in my Agile and Scrum courses, where we deep-dive into these values and more.
 
 Can't wait to see you there! 🚀
+
+
 
 
 

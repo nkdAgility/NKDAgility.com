@@ -15,10 +15,15 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Agile Adoption
+- Agile Transformation
+- Agile leadership
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube ItnQxg3Q4Fc >}}
 
 ## Why Senior Leadership is Non-Negotiable in an Agile Consulting Journey
@@ -68,6 +73,8 @@ In summation, the need for senior leadership engagement is not an optional extra
 Ready to become an Agile powerhouse?
 
 Don't just deepen your understanding—transform it. Explore our comprehensive courses in Agile, Scrum, and transformative change to elevate your Agile skills to an expert level today! 🌟
+
+
 
 
 

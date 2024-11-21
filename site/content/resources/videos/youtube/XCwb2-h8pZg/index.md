@@ -2,20 +2,22 @@
 title: Kanban with Team Foundation Service
 date: 2013-08-17T07:27:19Z
 videoId: XCwb2-h8pZg
-url: /resources/videos/kanban-with-team-foundation-service
+url: /resources/videos/:slug
+slug: kanban-with-team-foundation-service
 canonicalUrl: https://www.youtube.com/watch?v=XCwb2-h8pZg
+aliases:
+- /resources/videos/XCwb2-h8pZg
 preview: https://i.ytimg.com/vi/XCwb2-h8pZg/maxresdefault.jpg
 duration: 254
 isShort: false
+tags: 
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/XCwb2-h8pZg
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube XCwb2-h8pZg >}}
 
 # Kanban with Team Foundation Service
@@ -23,6 +25,5 @@ aliases:
 
 
 [Watch on YouTube](https://www.youtube.com/watch?v=XCwb2-h8pZg)
-
 
 

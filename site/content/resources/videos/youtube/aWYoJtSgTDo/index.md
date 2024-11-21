@@ -2,21 +2,36 @@
 title: The importance of knowing the territory.
 date: 2023-08-10T13:30:01Z
 videoId: aWYoJtSgTDo
-url: /resources/videos/the-importance-of-knowing-the-territory-
+url: /resources/videos/:slug
+slug: the-importance-of-knowing-the-territory-
 canonicalUrl: https://www.youtube.com/watch?v=aWYoJtSgTDo
+aliases:
+- /resources/videos/aWYoJtSgTDo
 preview: https://i.ytimg.com/vi/aWYoJtSgTDo/maxresdefault.jpg
 duration: 204
 isShort: false
-aliases:
-- /resources/the-importance-of-knowing-the-territory
-- /resources/videos/aWYoJtSgTDo
+tags:
+- Agile
+- Agile leader
+- Agile leadership
+- Agile product development
+- Agile product management
+- Agile project management
+- Agility
+- Business Agility
+- PAL
+- PAL-E
+- PAL-EBM
+- Professional Agile Leader
+- Professional Agile Leader Essentials
+- Professional Agile Leader Evidence Based Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube aWYoJtSgTDo >}}
 
 # The importance of knowing the territory.
@@ -40,6 +55,5 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=aWYoJtSgTDo)
-
 
 

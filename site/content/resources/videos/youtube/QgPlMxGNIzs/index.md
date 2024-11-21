@@ -14,10 +14,17 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Agile Evolution
+- Agile Transformation
+- Agility
+- Business Agility
+- Product Development
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube QgPlMxGNIzs >}}
 
 How do you think Agile is evolving since its inception in 2001?
@@ -87,6 +94,8 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
+
 
 
 

@@ -14,10 +14,19 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Scrum
+- Scrum Training
+- Scrum Certification
+- Online Training
+- Live
+- Agile
+- Agile Courses
+- Agile Training
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube Y7Cd1aocMKM >}}
 
 They offer very different experiences, each with their own set of unique pros and cons, but to answer the question simply, no, a live-online class is not as effective as in-person delivery.
@@ -109,6 +118,8 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
+
 
 
 

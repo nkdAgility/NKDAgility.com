@@ -14,10 +14,36 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Sprint Backlog
+- Product Backlog
+- Backlog
+- Sprint
+- Scrum
+- Scrum Product Development
+- Scrum Project Management
+- Agile
+- Agile Product Development
+- Agile Project Management
+- Product Development
+- Project Management
+- product team
+- agile coach
+- agile coaching
+- agile consultant
+- agile consulting
+- DevOps
+- DevOps consultant
+- DevOps consulting
+- DevOps coach
+- DevOps coaching
+- Agile leadership
+- Agile leader
+- Leadership
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube BDFrmCV_c68 >}}
 
 **The Peril of Pride in Agile: A Cautionary Tale** 
@@ -81,6 +107,8 @@ In Agile, pride must be tempered with humility and a commitment to continuous le
 - Focus on meaningful metrics, not just vanity metrics. 
 
 - Maintain a culture of humility and continuous learning.
+
+
 
 
 

@@ -14,10 +14,34 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Sprint goal
+- Sprint Backlog
+- Product Backlog
+- Backlog
+- Sprint
+- Scrum
+- Scrum Product Development
+- Scrum Project Management
+- Agile
+- Agile Product Development
+- Agile Project Management
+- Product Development
+- Project Management
+- product team
+- agile coach
+- agile coaching
+- agile consultant
+- agile consulting
+- DevOps
+- DevOps consultant
+- DevOps consulting
+- DevOps coach
+- DevOps coaching
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube Srwxg7Etnr0 >}}
 
 ## Deciphering the Sprint Goal Enigma **🎯**  
@@ -85,6 +109,8 @@ Lastly, ensuring visibility and clarity of the Sprint goal keeps the entire team
 ## A Collaborative Crescendo 🚀  
 
 Deciding on a Sprint goal is a symphony of collaboration, strategy, and agility. It's about setting a clear, achievable objective that aligns with the team’s mission and the organisation’s vision. When done right, it sets the stage for a Sprint that’s focused, cohesive, and, most importantly, successful.
+
+
 
 
 

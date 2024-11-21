@@ -2,21 +2,29 @@
 title: What does failure look like as a product owner?
 date: 2023-09-22T07:00:32Z
 videoId: uvU_ATou6QY
-url: /resources/videos/what-does-failure-look-like-as-a-product-owner-
+url: /resources/videos/:slug
+slug: what-does-failure-look-like-as-a-product-owner-
 canonicalUrl: https://www.youtube.com/watch?v=uvU_ATou6QY
+aliases:
+- /resources/videos/uvU_ATou6QY
 preview: https://i.ytimg.com/vi/uvU_ATou6QY/maxresdefault.jpg
 duration: 203
 isShort: false
-aliases:
-- /resources/what-does-failure-look-like-as-a-product-owner
-- /resources/videos/uvU_ATou6QY
+tags:
+- Agile Product Development
+- Agile product management
+- Agile project management
+- Product Owner
+- Scrum
+- Scrum Product Development
+- Scrum Product Owner
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube uvU_ATou6QY >}}
 
 # What does failure look like as a product owner?
@@ -41,6 +49,5 @@ Because you don't just need agility, you need Naked Agility.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=uvU_ATou6QY)
-
 
 

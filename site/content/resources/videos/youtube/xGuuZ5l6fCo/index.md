@@ -14,10 +14,15 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Detecting Agile BS
+- Agile product management
+- Agile product development
+- Agile project management
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube xGuuZ5l6fCo >}}
 
 In the world of Agile, the ability to adapt and evolve based on real-time user feedback is a cornerstone of success. Yet, many organizations miss the mark when it comes to empowering their teams to make meaningful changes to requirements based on this feedback. In this post, we'll explore why this is a crucial aspect of Agile that often gets overlooked, and how you can ensure your teams are truly Agile by enabling them to close feedback loops and adjust requirements as needed.
@@ -115,6 +120,8 @@ This kind of flexibility not only saved the business time and money but also ens
 ## **Takeaway**
 
 **Agility isn’t just about following a process—it’s about being responsive to change.** By empowering your teams to change requirements based on user feedback, you ensure that your product remains aligned with market needs, ultimately leading to greater success. 🔄 **Remember:** Agile is a journey, not a destination. Keep asking the tough questions, keep reflecting, and keep improving. Your users—and your bottom line—will thank you.
+
+
 
 
 

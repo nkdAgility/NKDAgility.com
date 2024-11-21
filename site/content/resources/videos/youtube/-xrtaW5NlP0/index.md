@@ -15,10 +15,23 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Kanban
+- Kanban workshops
+- kanban training
+- kanban courses
+- kanban certification
+- kanban framework
+- kanban consulting
+- agile
+- agile framework
+- agile project management
+- agile product development
+- agile product management
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube -xrtaW5NlP0 >}}
 
 Creativity, with its boundless landscape, where every spark of inspiration has the potential to morph into a magnum opus, often thrives in a state of organised chaos.  
@@ -116,6 +129,8 @@ Here’s a brief 'how-to' concerto: 
 Kanban doesn’t just streamline; it leads. It transforms creative chaos into a coherent composition—collaborative, continuous, and always on cue. 
 
 As those in the creative sector embrace Kanban, an epiphany unfolds: a framework can indeed liberate creativity. And with Kanban, this framework is as adaptable as it is sturdy, resonating with the dynamic tempo of creative work.
+
+
 
 
 

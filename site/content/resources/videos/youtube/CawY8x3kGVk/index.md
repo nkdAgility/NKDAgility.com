@@ -14,10 +14,36 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Sprint Backlog
+- Product Backlog
+- Backlog
+- Sprint
+- Scrum
+- Scrum Product Development
+- Scrum Project Management
+- Agile
+- Agile Product Development
+- Agile Project Management
+- Product Development
+- Project Management
+- product team
+- agile coach
+- agile coaching
+- agile consultant
+- agile consulting
+- DevOps
+- DevOps consultant
+- DevOps consulting
+- DevOps coach
+- DevOps coaching
+- Agile leadership
+- Agile leader
+- Leadership
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube CawY8x3kGVk >}}
 
 # Scrum and Micromanagement: Dispelling the Myth 🚀
@@ -61,6 +87,8 @@ The myth of micromanagement in Scrum serves as a reminder of the importance of c
 Remember, the transition to Agile and Scrum is as much about a shift in mindset as it is about changing practices. Let's commit to guiding our organizations through this transformation with patience, understanding, and a steadfast dedication to the core values of Scrum.
 
 _If you found this exploration of the micromanagement myth in Scrum insightful and wish to dive deeper into Agile, Scrum, or DevOps practices, feel free to reach out. Let's continue the conversation over a coffee chat and discover more ways to enhance our Agile journeys together._
+
+
 
 
 

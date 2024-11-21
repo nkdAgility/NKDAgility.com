@@ -14,10 +14,14 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Agile Project Management
+- Agile Product Development
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube 9PBpgfsojQI >}}
 
 2023 is predicted to be a very tough year. What do you think will be needed to win and improve?
@@ -109,6 +113,8 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
+
 
 
 

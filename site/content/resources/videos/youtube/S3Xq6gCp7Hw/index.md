@@ -14,10 +14,16 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Product Owner
+- Scrum
+- Agile
+- Product Management
+- Product Development
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube S3Xq6gCp7Hw >}}
 
 In my opinion, it’s the whole ball game.
@@ -119,6 +125,8 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
+
 
 
 

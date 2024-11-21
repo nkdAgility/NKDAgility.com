@@ -2,20 +2,45 @@
 title: What 5 things must you achieve before you call yourself an agilecoach. Part 3
 date: 2023-11-15T11:01:00Z
 videoId: xOcL_hqf1SM
-url: /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-3
+url: /resources/videos/:slug
+slug: what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-3
 canonicalUrl: https://www.youtube.com/watch?v=xOcL_hqf1SM
+aliases:
+- /resources/videos/xOcL_hqf1SM
 preview: https://i.ytimg.com/vi/xOcL_hqf1SM/maxresdefault.jpg
 duration: 64
 isShort: false
+tags:
+- Agile
+- agile coach
+- agile consultant
+- agile leadership
+- agile product development
+- agile product management
+- agile project management
+- agile trainer
+- DevOps coach
+- DevOps consultant
+- DevOps engineer
+- leadership.
+- product development
+- product management
+- professional scrum trainer
+- project management
+- Scrum
+- scrum approach
+- scrum certification
+- scrum framework
+- scrum methodology
+- scrum training
+- scrum.org
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/xOcL_hqf1SM
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube xOcL_hqf1SM >}}
 
 # What 5 things must you achieve before you call yourself an agilecoach. Part 3
@@ -36,6 +61,5 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=xOcL_hqf1SM)
-
 
 

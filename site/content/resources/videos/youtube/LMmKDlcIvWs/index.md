@@ -14,10 +14,21 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Kanban
+- Kanban method
+- Kanban approach
+- Kanban framework
+- Agile
+- Agile framework
+- Agility
+- Kanban training
+- Kanban consulting
+- Kanban coaching
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube LMmKDlcIvWs >}}
 
 ### Demystifying Kanban: A Strategy for Continuous Improvement
@@ -131,6 +142,8 @@ Kanban is more than just a method for managing work. It’s a powerful strategy 
 - **Further Reading**: Explore more about Kanban and agile methodologies on our blog.
 
 * * *
+
+
 
 
 

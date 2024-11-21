@@ -15,10 +15,16 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Agile Consulting
+- Agile Consultant
+- Agile Project Management
+- Agile Product Development
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube y0yIAIqOv-Q >}}
 
 **When should an organisation consider a professional agile consultant?**
@@ -102,6 +108,8 @@ Hashtags:        \*\*#AgileTransformation #ScrumMastery #AgileConsultancy
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
+
 
 
 

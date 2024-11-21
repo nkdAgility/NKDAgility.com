@@ -2,20 +2,26 @@
 title: The Tyranny of Taylorism & how to detect Agile BS!
 date: 2020-03-18T13:56:05Z
 videoId: FZeT8O5Ucwg
-url: /resources/videos/the-tyranny-of-taylorism-&-how-to-detect-agile-bs!
+url: /resources/videos/:slug
+slug: the-tyranny-of-taylorism-&-how-to-detect-agile-bs!
 canonicalUrl: https://www.youtube.com/watch?v=FZeT8O5Ucwg
+aliases:
+- /resources/videos/FZeT8O5Ucwg
 preview: https://i.ytimg.com/vi/FZeT8O5Ucwg/maxresdefault.jpg
 duration: 2106
 isShort: false
+tags:
+- Agile BS
+- Agility
+- Taylorism
+- Waterfall
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/FZeT8O5Ucwg
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube FZeT8O5Ucwg >}}
 
 # The Tyranny of Taylorism & how to detect Agile BS!
@@ -37,6 +43,5 @@ View Presentation: https://nkdagility.net/30MVagF
 DIB Guide: Detecting Agile BS: https://nkdagility.net/DOD-Detecting​
 
 [Watch on YouTube](https://www.youtube.com/watch?v=FZeT8O5Ucwg)
-
 
 

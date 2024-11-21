@@ -2,20 +2,29 @@
 title: Install TFS 2013 Basic
 date: 2014-01-14T17:18:19Z
 videoId: U7wIQk1pus0
-url: /resources/videos/install-tfs-2013-basic
+url: /resources/videos/:slug
+slug: install-tfs-2013-basic
 canonicalUrl: https://www.youtube.com/watch?v=U7wIQk1pus0
+aliases:
+- /resources/videos/U7wIQk1pus0
 preview: https://i.ytimg.com/vi/U7wIQk1pus0/maxresdefault.jpg
 duration: 722
 isShort: false
+tags:
+- Basic
+- Install
+- Install & Configure
+- Install & Configure 101
+- Team Foundation Server (Software)
+- TFS
+- TFS 2013
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/U7wIQk1pus0
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube U7wIQk1pus0 >}}
 
 # Install TFS 2013 Basic
@@ -27,6 +36,5 @@ My fan kicked on half way through, hence the hiss... I have ordered a microphone
 More videos and blogs on http://nakedalm.com/blog
 
 [Watch on YouTube](https://www.youtube.com/watch?v=U7wIQk1pus0)
-
 
 

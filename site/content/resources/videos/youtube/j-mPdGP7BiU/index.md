@@ -14,10 +14,16 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- PPDV
+- PPDV course
+- Scrum.org
+- Professional Product Discovery and Validation
+- Professional Product Discovery and validation course
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube j-mPdGP7BiU >}}
 
 In the fast-paced world of product development, assumptions can often be our greatest blind spots. Yet, they are also essential stepping stones that guide our decisions and strategies. In our new class, we dive deep into the art of working with assumptions, transforming them from potential pitfalls into powerful tools for innovation.
@@ -119,6 +125,8 @@ In summary, our course is designed to transform the way you approach product dev
 - **Critical Thinking:** Develop a mindset that prioritizes learning and critical thinking over emotional attachment to ideas.
 
 Join us in this journey to revolutionize your product development process, making it more efficient, data-driven, and ultimately, more successful. 🚀 This course isn’t just about learning new techniques—it’s about changing the way you think and work. So, are you ready to take the next step? Let’s turn your assumptions into opportunities for growth!
+
+
 
 
 

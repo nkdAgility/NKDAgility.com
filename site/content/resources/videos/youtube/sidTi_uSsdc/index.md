@@ -14,10 +14,13 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- '#scrum'
+- agile
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube sidTi_uSsdc >}}
 
 **Discipline versus motivation?**
@@ -67,6 +70,8 @@ Hashtags:         #AgileTransformation #ScrumMastery #DisciplineVsMotivat
 General
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
+
 
 
 

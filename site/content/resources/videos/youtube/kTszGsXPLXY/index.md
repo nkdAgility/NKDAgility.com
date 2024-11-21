@@ -14,10 +14,23 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Kanban
+- Kanban method
+- Kanban training
+- Kanban coaching
+- Kanban consulting
+- Kanban approach
+- Agile
+- Agile framework
+- Agility
+- Business Agility
+- Agile project management
+- Agile product development
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube kTszGsXPLXY >}}
 
 ### Getting Started with Kanban: A Guide to Initiating Your First Kanban Pilot
@@ -119,6 +132,8 @@ Implementing a Kanban pilot in your organization is easier than you might think.
 - **Consulting Services**: Need help implementing Kanban? Our experts are here to guide you.
 
 - **Further Reading**: Explore more about Kanban and agile methodologies on our blog.
+
+
 
 
 

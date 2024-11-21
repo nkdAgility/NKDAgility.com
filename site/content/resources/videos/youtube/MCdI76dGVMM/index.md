@@ -15,10 +15,26 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Professional Scrum Master
+- Professional ScrumMaster
+- scrum master
+- scrummaster
+- scrum
+- scrum practitioner
+- scrum framework
+- scrum methodology
+- scrum project management
+- scrum product development
+- project management
+- product development
+- agile
+- agile product development
+- agile project management
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube MCdI76dGVMM >}}
 
 ## Navigating the Journey to Professionalism in the Agile World
@@ -64,6 +80,8 @@ I am here to guide you on this path of enlightenment and skill enhancement.
 I invite you to join my Agile and Scrum courses, where we explore the theoretical aspects and delve deep into the practical applications, nurturing you to embody the true essence of a 'Professional' Scrum Master. 🚀
 
 Let's focus on fostering 'professionalism' and setting a new benchmark in the industry together!
+
+
 
 
 

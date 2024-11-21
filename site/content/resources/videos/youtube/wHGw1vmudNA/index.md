@@ -14,10 +14,39 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Sprint Backlog
+- Product Backlog
+- Backlog
+- Sprint
+- Scrum
+- Scrum Product Development
+- Scrum Project Management
+- Agile
+- Agile Product Development
+- Agile Project Management
+- Product Development
+- Project Management
+- product team
+- agile coach
+- agile coaching
+- agile consultant
+- agile consulting
+- DevOps
+- DevOps consultant
+- DevOps consulting
+- DevOps coach
+- DevOps coaching
+- Agile leadership
+- Agile leader
+- Leadership
+- 7 signs
+- agile-pocalypse
+- agile-apocalypse
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube wHGw1vmudNA >}}
 
 # Navigating the Treacherous Waters of Conflict: The Second Harbinger of the Agile Apocalypse
@@ -63,6 +92,8 @@ The journey toward agile transformation is complex and challenging, with conflic
 ## Conclusion: Steering Agile Teams Away from War
 
 Conflict, when navigated wisely, can be a force for positive change. However, left unchecked, it can lead to the agile apocalypse—an environment where progress is halted, and collaboration is replaced by competition. Agile teams and leaders must be vigilant, fostering a culture that values constructive conflict and rejects the destructive patterns that lead to war. By doing so, they can ensure that their agile journey is marked not by conflict and division but by collaboration, innovation, and sustained growth.
+
+
 
 
 

@@ -14,10 +14,21 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Scrum
+- Scrum Master
+- Scrum Master tools
+- Scrum master skills
+- Agile
+- Agile project management
+- Agile project manager
+- Agile product development
+- Agile product management
+- scrum framework
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube Ce5pFwG5IAY >}}
 
 **Scrum Masters: Unlocking the Power of Liberating Structures 🚀** 
@@ -58,6 +69,8 @@ Scrum Masters using liberating structures report significant improvements in tea
 By incorporating liberating structures, Scrum Masters can expect their sessions to evolve from routine gatherings to powerful catalysts for team growth and innovation. It's about crafting a journey from ideas to action, ensuring each meeting is a step forward in the Agile journey. 🚀 
 
 Embrace these structures and witness the transformation in your Scrum meetings! 🌈
+
+
 
 
 

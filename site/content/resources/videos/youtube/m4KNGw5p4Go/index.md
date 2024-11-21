@@ -14,10 +14,15 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- PPDV
+- PPDV course
+- Professional Product Discovery and Validation
+- Scrum.org
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube m4KNGw5p4Go >}}
 
 In today’s fast-paced, ever-evolving market, understanding user needs and maximizing value are crucial for successful product development. The right approach can not only boost user satisfaction but also significantly improve your return on investment (ROI). This course is designed to equip you with the tools, techniques, and mindset needed to revolutionize your product development process.
@@ -107,6 +112,8 @@ By focusing on increasing user value, reducing waste, embracing agility, unlocki
 Remember, the key to successful product development lies in experimentation, collaboration, and a relentless focus on creating value. So, take the lessons from this course and start making meaningful changes today!
 
 🚀 **Ready to take your product development to the next level? Let’s get started!**
+
+
 
 
 

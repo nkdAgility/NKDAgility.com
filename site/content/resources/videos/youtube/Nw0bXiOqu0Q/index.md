@@ -14,10 +14,17 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Product Development
+- Project Management
+- Competitive Advantage
+- Organizational Agility
+- Business Agility
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube Nw0bXiOqu0Q >}}
 
 Why are recessions a great time for organizations to evaluate the opportunity of agile?
@@ -115,6 +122,8 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
+
 
 
 

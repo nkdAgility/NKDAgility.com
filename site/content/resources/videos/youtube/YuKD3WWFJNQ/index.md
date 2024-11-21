@@ -14,10 +14,39 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Sprint Backlog
+- Product Backlog
+- Backlog
+- Sprint
+- Scrum
+- Scrum Product Development
+- Scrum Project Management
+- Agile
+- Agile Product Development
+- Agile Project Management
+- Product Development
+- Project Management
+- product team
+- agile coach
+- agile coaching
+- agile consultant
+- agile consulting
+- DevOps
+- DevOps consultant
+- DevOps consulting
+- DevOps coach
+- DevOps coaching
+- Agile leadership
+- Agile leader
+- Leadership
+- 7 signs
+- agile-pocalypse
+- agile-apocalypse
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube YuKD3WWFJNQ >}}
 
 # Breaking the Silence: Sparking Engagement in Agile Teams 🚀
@@ -67,6 +96,8 @@ The agile apocalypse need not be heralded by silence. By embracing strategies th
 Remember, breaking the silence starts with us—product owners, scrum masters, and team members alike. Let's commit to fostering environments where every voice is valued, and every idea has the potential to propel us toward our North Star.
 
 _Enjoyed this exploration of breaking the silence in agile teams? Follow, subscribe, and engage for more insights on creating vibrant, engaged agile environments. Let's turn the silence into a symphony of collaboration and innovation._
+
+
 
 
 

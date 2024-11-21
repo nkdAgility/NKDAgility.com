@@ -15,10 +15,19 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Scrum
+- Professional Scrum
+- Applying professional Scrum workshop
+- Applying Professional Scrum Course
+- APS
+- Scrum.Org
+- Agile coaching
+- Agile consulting
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube olryF91pOEY >}}
 
 **Can organisations run an Applying Professional Scrum workshop? How would that help them?**
@@ -114,6 +123,8 @@ Hashtags:        #AgileConsulting #ScrumWorkshop #AgileTransformation #Pro
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
+
 
 
 

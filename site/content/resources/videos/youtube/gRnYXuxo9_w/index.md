@@ -2,20 +2,29 @@
 title: Scrum Value, Openness, What does it mean and why does it matter?
 date: 2023-04-28T07:00:30Z
 videoId: gRnYXuxo9_w
-url: /resources/videos/scrum-value,-openness,-what-does-it-mean-and-why-does-it-matter-
+url: /resources/videos/:slug
+slug: scrum-value,-openness,-what-does-it-mean-and-why-does-it-matter-
 canonicalUrl: https://www.youtube.com/watch?v=gRnYXuxo9_w
+aliases:
+- /resources/videos/gRnYXuxo9_w
 preview: https://i.ytimg.com/vi/gRnYXuxo9_w/maxresdefault.jpg
 duration: 171
 isShort: false
+tags:
+- agile scrum
+- Openness
+- Scrum
+- scrum methodology
+- Scrum product development
+- scrum project management
+- Scrum Values
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/gRnYXuxo9_w
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube gRnYXuxo9_w >}}
 
 # Scrum Value, Openness, What does it mean and why does it matter?
@@ -48,6 +57,5 @@ Because you don't just need agility, you need Naked Agility.
 #scrum #agile #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg #scrummaster #productowner #kanban #continousdelivery #devops #azuredevops
 
 [Watch on YouTube](https://www.youtube.com/watch?v=gRnYXuxo9_w)
-
 
 

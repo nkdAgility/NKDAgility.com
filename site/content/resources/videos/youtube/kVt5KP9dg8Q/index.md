@@ -14,10 +14,15 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Detecting Agile BS
+- Agile project management
+- Agile product development
+- Agile product management
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube kVt5KP9dg8Q >}}
 
 In the realm of Agile, there's a common trap that many organizations fall into: the belief that implementing Agile development practices is enough to achieve true agility. However, as the Department of Defense's "Detecting Agile BS" guide reveals, Agile development alone isn't sufficient if the rest of the system operates in a traditional, bureaucratic manner. This blog post delves into the insights provided by the guide, exploring why a fully Agile ecosystem is essential and offering practical advice for organizations striving to eliminate Agile BS.
@@ -113,6 +118,8 @@ Remember, the journey to true agility is ongoing. By regularly evaluating your p
 - Regularly assess your processes using the six-question litmus test to identify areas for improvement.
 
 **Pro Tip:** If you find that your organization isn't fully Agile yet, don't worry. Use it as a chance to reflect, adapt, and continuously improve. After all, that's what agility is all about! 🚀
+
+
 
 
 

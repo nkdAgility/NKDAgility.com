@@ -14,10 +14,15 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile apprenticeship
+- Scrum Apprenticeship
+- Agile Scrum Training
+- Agile Certification
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube vHNwcfbNOR8 >}}
 
 **What is your feeling on creating Agile apprenticeships?**
@@ -63,6 +68,8 @@ Hashtags:        #AgileApprenticeships, #ImmersiveLearning, #Mentorship
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
+
 
 
 

@@ -2,20 +2,45 @@
 title: 7 signs of the agile apocalypse. Famine
 date: 2023-11-08T06:45:00Z
 videoId: ARhXjid0zSE
-url: /resources/videos/7-signs-of-the-agile-apocalypse-famine
+url: /resources/videos/:slug
+slug: 7-signs-of-the-agile-apocalypse-famine
 canonicalUrl: https://www.youtube.com/watch?v=ARhXjid0zSE
+aliases:
+- /resources/videos/ARhXjid0zSE
 preview: https://i.ytimg.com/vi/ARhXjid0zSE/maxresdefault.jpg
 duration: 32
 isShort: true
+tags:
+- Agile
+- agile coach
+- agile consultant
+- agile leadership
+- agile product development
+- agile product management
+- agile project management
+- agile trainer
+- DevOps coach
+- DevOps consultant
+- DevOps engineer
+- leadership.
+- product development
+- product management
+- professional scrum trainer
+- project management
+- Scrum
+- scrum approach
+- scrum certification
+- scrum framework
+- scrum methodology
+- scrum training
+- scrum.org
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/ARhXjid0zSE
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube ARhXjid0zSE >}}
 
 # 7 signs of the agile apocalypse. Famine
@@ -36,6 +61,5 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ARhXjid0zSE)
-
 
 

@@ -14,10 +14,15 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- DevOps
+- Agile
+- Software Development
+- Product Development
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube 00V7BJJtMT0 >}}
 
 What is DevOps and how is it different to Agile?
@@ -87,6 +92,8 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
+
 
 
 

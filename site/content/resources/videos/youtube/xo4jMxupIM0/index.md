@@ -12,10 +12,10 @@ sitemap:
   priority: 0.4
 aliases:
 - /resources/videos/xo4jMxupIM0
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube xo4jMxupIM0 >}}
 
 If you've got experience as a #scrummaster and are looking to level up to a #professionalscrummaster skillset, the 2-day learning format is perfect. If you are new to #scrum and want to become a professional scrum master, it makes sense to explore a deeper, richer, longer learning format to really onboard the philosophy, practices, and tools that lead to success.
@@ -34,6 +34,7 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 
 

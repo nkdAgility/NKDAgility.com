@@ -14,10 +14,34 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Scrum
+- agile project management
+- agile product development
+- agile product management
+- project management
+- product development
+- product management
+- professional scrum trainer
+- scrum training
+- scrum certification
+- scrum.org
+- DevOps consultant
+- DevOps coach
+- DevOps engineer
+- agile coach
+- agile consultant
+- agile trainer
+- scrum framework
+- scrum methodology
+- scrum approach
+- agile leadership
+- leadership.
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube JzAbvkFxVzs >}}
 
 In the world of Agile, we often hear about the famous "three questions" used during the daily Scrum or retrospective sessions:
@@ -111,6 +135,8 @@ Remember:
 - Manage old tasks before they become bottlenecks.
 
 If your team is struggling with outdated practices, don’t let them haunt you. Reach out to a **Scrum trainer** or **Agile coach** who can help exorcise those phantoms. We’d be happy to assist you on your journey towards a more effective Agile process.
+
+
 
 
 

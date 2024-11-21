@@ -1,0 +1,9 @@
+<div class="resourcetypes">
+  {{ if reflect.IsSlice .Params.resourcetypes }}
+    {{ range .Params.resourcetypes }}
+      <span class="badge text-bg-nkdagility-primary">{{- . }}</span>
+    {{ end }}
+  {{ else }}
+    <span class="badge text-bg-nkdagility-primary">{{- .Params.resourcetypes }}</span>
+  {{ end }}
+</div>

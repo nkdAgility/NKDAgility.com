@@ -14,10 +14,18 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile consultant
+- Agile consulting
+- Agile
+- Scrum consultant
+- Scrum Coach
+- Scrum Trainer
+- Agile consultant traits
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube agPLmBdXdbk >}}
 
 **Must have trait in an Agile Consultant**
@@ -41,6 +49,8 @@ Hashtags:        #AgileConsultant #Tenacity #ChangeAgents #LaserFocus #Ign
 General
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
+
 
 
 

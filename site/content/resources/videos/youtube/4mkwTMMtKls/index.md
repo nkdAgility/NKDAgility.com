@@ -14,10 +14,23 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Agile transformation
+- Agile sins
+- Agile fails
+- Agile mistakes
+- Agile problems
+- Agile project management
+- Agile product development
+- Agile product management
+- Project Management
+- Product Management
+- Product development
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube 4mkwTMMtKls >}}
 
 #### Steering Clear of Envy in Agile: A Roadmap for Authentic Success 🗺️✨ 
@@ -73,6 +86,8 @@ Agile is about crafting a journey that’s right for your team and your customer
 - **Key Insights for Agile Success**: 🗝️ Summarising the essential elements for a successful, individualized Agile approach. 
 
 - **Future-Focused Agile Practice**: 🚀 Encouraging continuous innovation, adaptation, and personalisation in Agile methodologies.
+
+
 
 
 

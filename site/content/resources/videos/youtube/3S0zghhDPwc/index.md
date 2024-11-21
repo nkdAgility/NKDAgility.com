@@ -14,10 +14,34 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Scrum
+- agile project management
+- agile product development
+- agile product management
+- project management
+- product development
+- product management
+- professional scrum trainer
+- scrum training
+- scrum certification
+- scrum.org
+- DevOps consultant
+- DevOps coach
+- DevOps engineer
+- agile coach
+- agile consultant
+- agile trainer
+- scrum framework
+- scrum methodology
+- scrum approach
+- agile leadership
+- leadership.
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube 3S0zghhDPwc >}}
 
 When we talk about Agile practices, we often highlight flexibility, collaboration, and continuous improvement. However, one key Agile virtue that is often overlooked is _diligence_. Diligence, in its essence, is that unwavering attention to detail and the commitment to doing what needs to be done—no shortcuts, no compromises. It’s about ensuring quality at every step of the process, and in the world of Agile, this is where the definition of "done" becomes crucial.
@@ -115,6 +139,8 @@ Here’s how you can start cultivating diligence in your team:
 - **Prioritize Quality**: Don’t sacrifice long-term success for short-term speed.
 
 If you're finding it difficult to instill diligence in your team, don't hesitate to reach out for help. My team at NE Agility specializes in coaching teams to unlock the Seven Virtues of Agility, including diligence. Whether you need coaching, consulting, or training, we can help you get on the right track. Remember, it’s not just about being Agile—it’s about having naked agility. 🔥
+
+
 
 
 

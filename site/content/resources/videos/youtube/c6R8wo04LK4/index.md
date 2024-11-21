@@ -14,10 +14,17 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Scrum
+- Agile
+- Scrum Adoption
+- Scrum framework
+- Scrum methodology
+- scrum approach
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube c6R8wo04LK4 >}}
 
 ## Debunking the "Magic" Myth
@@ -51,6 +58,8 @@ Keen to navigate these challenges and harness the real power of Scrum?
 Chat with me about my Agile and Scrum courses to get your needed clarity and direction.  📚
 
 Connect with me, and let's dispel myths and set the course for genuine Agile and Scrum transformation! 🚀
+
+
 
 
 

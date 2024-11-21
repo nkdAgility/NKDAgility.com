@@ -2,20 +2,45 @@
 title: ' shorts 5 things you would teach a productowner apprentice. Part 4'
 date: 2023-12-18T11:00:15Z
 videoId: M5U-Pdn_ZrE
-url: /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-4
+url: /resources/videos/:slug
+slug: -shorts-5-things-you-would-teach-a-productowner-apprentice-part-4
 canonicalUrl: https://www.youtube.com/watch?v=M5U-Pdn_ZrE
+aliases:
+- /resources/videos/M5U-Pdn_ZrE
 preview: https://i.ytimg.com/vi/M5U-Pdn_ZrE/maxresdefault.jpg
 duration: 39
 isShort: true
+tags:
+- Agile
+- agile coach
+- agile consultant
+- agile leadership
+- agile product development
+- agile product management
+- agile project management
+- agile trainer
+- DevOps coach
+- DevOps consultant
+- DevOps engineer
+- leadership.
+- product development
+- product management
+- professional scrum trainer
+- project management
+- Scrum
+- scrum approach
+- scrum certification
+- scrum framework
+- scrum methodology
+- scrum training
+- scrum.org
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/M5U-Pdn_ZrE
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube M5U-Pdn_ZrE >}}
 
 #  shorts 5 things you would teach a productowner apprentice. Part 4
@@ -25,6 +50,5 @@ aliases:
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=M5U-Pdn_ZrE)
-
 
 

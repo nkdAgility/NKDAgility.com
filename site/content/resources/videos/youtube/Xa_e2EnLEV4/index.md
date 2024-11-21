@@ -14,10 +14,17 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Kanban
+- Kanban training
+- Kanban method
+- Kanban approach
+- Kanban coach
+- Kanban consultant
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube Xa_e2EnLEV4 >}}
 
 ### The Danger of Ignoring Problems in Your Kanban Strategy
@@ -113,6 +120,8 @@ Implementing a Kanban strategy effectively requires proactive problem-solving:
 Ignoring problems can derail your Kanban strategy and lead to significant issues. By developing the discipline and courage to address problems head-on, you can maintain an effective workflow and continuously improve your processes.
 
 If you’re struggling to implement a Kanban strategy, we can help or connect you with someone who can. Click the link below to get in touch.
+
+
 
 
 

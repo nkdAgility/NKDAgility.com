@@ -15,10 +15,20 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Scrum Training
+- Scrum Certification
+- Scrum.Org
+- Scrum courses
+- Scrum workshops
+- Continuous learning
+- Continuous improvement
+- professional scrum trainer
+- PST
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube ZXDBoq7JUSw >}}
 
 ## Level Up Your Game: 3 Unbeatable Reasons to Enhance Your Skills
@@ -66,6 +76,8 @@ I firmly believe that each of you has the potential to transcend the boundaries 
 I invite you to join me in my Agile and Scrum courses, where we will cultivate an environment of continuous growth and learning together.
 
 Let's foster a culture where professionalism isn't just a title but a lived experience.
+
+
 
 
 

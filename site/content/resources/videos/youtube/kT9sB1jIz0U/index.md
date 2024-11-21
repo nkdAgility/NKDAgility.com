@@ -2,20 +2,22 @@
 title: Why I love hierarchies of competence
 date: 2023-05-03T09:30:09Z
 videoId: kT9sB1jIz0U
-url: /resources/videos/why-i-love-hierarchies-of-competence
+url: /resources/videos/:slug
+slug: why-i-love-hierarchies-of-competence
 canonicalUrl: https://www.youtube.com/watch?v=kT9sB1jIz0U
+aliases:
+- /resources/videos/kT9sB1jIz0U
 preview: https://i.ytimg.com/vi/kT9sB1jIz0U/maxresdefault.jpg
 duration: 62
 isShort: false
+tags: 
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/kT9sB1jIz0U
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube kT9sB1jIz0U >}}
 
 # Why I love hierarchies of competence
@@ -41,6 +43,5 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=kT9sB1jIz0U)
-
 
 

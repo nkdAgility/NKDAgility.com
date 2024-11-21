@@ -14,10 +14,17 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile Coach
+- Agile Consultant
+- Professional Coach
+- Coach
+- Agile
+- Scrum
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube LkphLIbmjkI >}}
 
 ## Limits of Professional Coaching
@@ -59,6 +66,8 @@ Sharpen Your Skills with Our Agile and Scrum Courses 🌟
 Want to delve deeper into the technical aspects that make Scrum and Agile successful?
 
 Our comprehensive range of courses is just what you need. Don't wait—enrol today!
+
+
 
 
 

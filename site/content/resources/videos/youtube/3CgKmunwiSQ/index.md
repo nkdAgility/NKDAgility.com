@@ -14,10 +14,21 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- EBM
+- Evidence Based Management
+- Agile Project Management
+- Project Management
+- Project Manager
+- Product Management
+- Agile Product Management
+- Product Manager
+- Product Owner
+- Scrum Master
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube 3CgKmunwiSQ >}}
 
 ## **What Is Traditional Management?**
@@ -147,6 +158,8 @@ Evidence-based management is not just a buzzword; it's a way to make smarter, mo
 - **A culture of continuous improvement** 📈
 
 The next time you're faced with a decision, ask yourself: Are you relying on evidence, or are you just making it up? Embrace the challenge, and you’ll see the difference it makes for your team and organization. 🌟
+
+
 
 
 

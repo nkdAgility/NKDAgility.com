@@ -14,10 +14,18 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Product Vision
+- Product Goal
+- Product Development
+- Scrum
+- Agile
+- Agile Project Management
+- Agile Product Development
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube Xs-gf093GbI >}}
 
 ## The essence of a Product is 'The Vision'
@@ -65,6 +73,8 @@ It's the heartbeat that keeps the product alive and thriving.
 For those wanting a deep dive into building and understanding effective product visions, I encourage you to check out our Agile and Scrum courses.
 
 Let's embark on this journey of discovery and alignment together.
+
+
 
 
 

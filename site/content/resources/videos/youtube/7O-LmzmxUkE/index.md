@@ -14,10 +14,36 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Sprint Backlog
+- Product Backlog
+- Backlog
+- Sprint
+- Scrum
+- Scrum Product Development
+- Scrum Project Management
+- Agile
+- Agile Product Development
+- Agile Project Management
+- Product Development
+- Project Management
+- product team
+- agile coach
+- agile coaching
+- agile consultant
+- agile consulting
+- DevOps
+- DevOps consultant
+- DevOps consulting
+- DevOps coach
+- DevOps coaching
+- Agile leadership
+- Agile leader
+- Leadership
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube 7O-LmzmxUkE >}}
 
 # Demystifying Scrum: Beyond Meetings to Meaningful Events 🚀
@@ -55,6 +81,8 @@ The essence of Scrum lies in its ability to turn routine engagements into meanin
 Remember, the goal of implementing Scrum isn't to fill your calendar with meetings but to create a rhythm of inspection, adaptation, and progress that moves your team closer to its goals with every cycle.
 
 _If you've enjoyed this demystification of Scrum events and are eager to dive deeper into Agile, Scrum, or DevOps, don't hesitate to reach out. Let's continue the conversation over a coffee chat and explore how we can bring the true spirit of empiricism to life in your teams._
+
+
 
 
 

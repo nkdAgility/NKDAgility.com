@@ -14,10 +14,34 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Scrum
+- agile project management
+- agile product development
+- agile product management
+- project management
+- product development
+- product management
+- professional scrum trainer
+- scrum training
+- scrum certification
+- scrum.org
+- DevOps consultant
+- DevOps coach
+- DevOps engineer
+- agile coach
+- agile consultant
+- agile trainer
+- scrum framework
+- scrum methodology
+- scrum approach
+- agile leadership
+- leadership.
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube sxXzOFn7iZI >}}
 
 When it comes to hiring an Agile coach, there are a few key things to consider. It's not just about finding someone who can coach individuals or teams. The role of an Agile coach is far more comprehensive than that. You need someone who can **teach, mentor, and inspire** people in your organization to greatness, helping them embrace Agile principles and adopt the practices that drive success.
@@ -131,6 +155,8 @@ So, when you're hiring an Agile coach, ask yourself: are they just a coach, or a
 🌟 **Inspiration.**
 
 That’s what makes a truly great Agile coach.
+
+
 
 
 

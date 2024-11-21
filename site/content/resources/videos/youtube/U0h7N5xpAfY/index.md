@@ -14,10 +14,34 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Scrum
+- agile project management
+- agile product development
+- agile product management
+- project management
+- product development
+- product management
+- professional scrum trainer
+- scrum training
+- scrum certification
+- scrum.org
+- DevOps consultant
+- DevOps coach
+- DevOps engineer
+- agile coach
+- agile consultant
+- agile trainer
+- scrum framework
+- scrum methodology
+- scrum approach
+- agile leadership
+- leadership.
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube U0h7N5xpAfY >}}
 
 Many Scrum Masters step into their role without fully understanding what it entails. Often, the title of Scrum Master is simply handed to them by their organization, and the expectations within the organization can be quite different from the true accountability of the role within the framework of Scrum.
@@ -141,6 +165,8 @@ To be an effective Scrum Master, you must go beyond the basics. It’s not just 
 - Continuously improve through formal training and learning.
 
 If you’re ready to take your skills to the next level, consider joining one of our immersive classes or booking a one-on-one call to discuss your unique challenges.
+
+
 
 
 

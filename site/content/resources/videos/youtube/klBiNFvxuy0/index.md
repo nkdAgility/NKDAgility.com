@@ -14,10 +14,18 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Scrum
+- Scrum Training
+- Scrum.Org
+- PSM
+- PSM II
+- APS
+- Scrum Certification
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube klBiNFvxuy0 >}}
 
 What is the most common Aha moment people have in a scrum course?
@@ -105,6 +113,8 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
+
 
 
 

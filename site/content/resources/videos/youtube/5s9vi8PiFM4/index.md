@@ -15,10 +15,18 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Scrum
+- Scrum journey
+- scrum master
+- product owner
+- scrum developer
+- scrum experience
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube 5s9vi8PiFM4 >}}
 
 ## The Missing Piece in My Initial Scrum Journey
@@ -48,6 +56,8 @@ Don't wait 7 or 8 years to discover this powerful combination, like I did!
 Let's walk this rewarding path together, integrating the social technology of Scrum with the data-driven insights of Lean, paving the way for a journey characterized by success and innovation.
 
 Join my Agile and Scrum courses to equip yourself with the knowledge and skills to blend these two potent methodologies into your professional journey seamlessly.
+
+
 
 
 

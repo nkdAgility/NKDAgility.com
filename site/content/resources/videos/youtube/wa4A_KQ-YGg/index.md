@@ -15,10 +15,19 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Scrum
+- Scrum Training
+- Scrum Course
+- Immersive Scrum Course
+- Immersive Scrum Training
+- Scrum Certification
+- Agile
+- Agile Scrum Training
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube wa4A_KQ-YGg >}}
 
 **What are immersive training courses?**
@@ -72,6 +81,8 @@ Hashtags:        #ImmersiveLearning #FlippedLearning #Agile #Scrum
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
+
 
 
 

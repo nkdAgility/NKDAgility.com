@@ -15,10 +15,33 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Sprint Backlog
+- Product Backlog
+- Backlog
+- Sprint
+- Scrum
+- Scrum Product Development
+- Scrum Project Management
+- Agile
+- Agile Product Development
+- Agile Project Management
+- Product Development
+- Project Management
+- product team
+- agile coach
+- agile coaching
+- agile consultant
+- agile consulting
+- DevOps
+- DevOps consultant
+- DevOps consulting
+- DevOps coach
+- DevOps coaching
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube qXsjLuss22Y >}}
 
 ## What's a Sprint Goal and Why Does It Matter?
@@ -90,6 +113,8 @@ Then my Agile and Scrum courses are just the thing for you!
 Let's continue this journey towards Scrum mastery together.
 
 About NKD Agility
+
+
 
 
 

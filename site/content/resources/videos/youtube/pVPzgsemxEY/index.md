@@ -14,10 +14,20 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Kanban
+- Kanban training
+- Kanban courses
+- Kanban coach
+- Kanban consultant
+- Agile
+- Agile framework
+- Agile project management
+- Agile product development
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube pVPzgsemxEY >}}
 
 In the world of Scrum, Agile, and Kanban, we often borrow terms from other languages to express important principles. One such term is **Kaizen** – a Japanese word that signifies continuous improvement. While we may not always use the word exactly as intended in its native language, the underlying concept is something we should all embrace in our professional lives.
@@ -113,6 +123,8 @@ Kaizen isn’t about rigid processes or frameworks. It’s about adapting to the
 At the end of the day, **Kaizen** isn’t just a principle we apply to work – it’s a mindset. It’s about embracing continuous improvement in all areas of our lives, not just in Scrum. By making small, incremental changes, we can achieve significant improvements over time.
 
 So, whether you’re a Scrum Master looking to improve your team’s performance, a Product Owner optimizing the backlog, or a developer seeking more efficient ways to code, remember the power of **Kaizen**. It’s the key to long-term success in Scrum and beyond. Let’s commit to continuous improvement, one small step at a time. 🚀
+
+
 
 
 

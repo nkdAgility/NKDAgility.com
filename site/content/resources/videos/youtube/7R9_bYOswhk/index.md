@@ -16,10 +16,20 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Scrum Master
+- ScrumMaster
+- Professional Agile Leadership
+- Professional Agile Leadership Essentials
+- Professional Agile Leadership course
+- Professional Agile Leadership certification
+- Scrum Training
+- Leadership Training
+- Leadership essentials
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube 7R9_bYOswhk >}}
 
 ## Ascending the Leadership Ladder
@@ -71,6 +81,8 @@ Let's converse if any of this resonates with you or triggers a tiny spark of cur
 If you wish to engage in anything Agile, Scrum, or DevOps, please grab a coffee slot with me through Naked Agility.
 
 Continue soaring and embracing the unending journey of learning! 🌠
+
+
 
 
 

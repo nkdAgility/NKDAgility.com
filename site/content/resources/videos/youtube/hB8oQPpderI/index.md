@@ -15,10 +15,17 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Scrum
+- Agile Scrum Training
+- Scrum Training
+- Agile Courses
+- Scrum Certification
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube hB8oQPpderI >}}
 
 **One limitation of reading a book vs attending a course**
@@ -62,6 +69,8 @@ Hashtags:        #AgileLearning #Scrum #InteractiveCourses #CollaborativeL
 General
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
+
 
 
 

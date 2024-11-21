@@ -14,10 +14,16 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Scrum
+- Scrum Training
+- Scrum Coach
+- Scrum Consultant
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube zSQSQPFsy-o >}}
 
 Why is Scrum so easy to understand but incredibly hard to master?
@@ -185,6 +191,8 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
+
 
 
 

@@ -14,10 +14,18 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile consultant
+- Agile Consulting
+- Agile
+- Agile Project Management
+- Agile Product Development
+- Scrum
+- Agile Coach
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube oBnvr7vOkg8 >}}
 
 **How does someone become an Agile consultant?**
@@ -107,6 +115,8 @@ Hashtags:        #AgileConsulting #AgilePractices #AgileJourney #AgileandS
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
+
 
 
 

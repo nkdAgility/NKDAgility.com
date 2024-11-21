@@ -2,20 +2,48 @@
 title: Plague - 7 Harbingers agile apocalypse. But shorter!
 date: 2023-11-01T09:42:43Z
 videoId: HFFSrQx-wbQ
-url: /resources/videos/plague-7-harbingers-agile-apocalypse-but-shorter!
+url: /resources/videos/:slug
+slug: plague-7-harbingers-agile-apocalypse-but-shorter!
 canonicalUrl: https://www.youtube.com/watch?v=HFFSrQx-wbQ
+aliases:
+- /resources/videos/HFFSrQx-wbQ
 preview: https://i.ytimg.com/vi/HFFSrQx-wbQ/maxresdefault.jpg
 duration: 64
 isShort: false
+tags:
+- 7 signs
+- Agile
+- agile coach
+- agile consultant
+- agile leadership
+- agile product development
+- agile product management
+- agile project management
+- agile trainer
+- agile-apocalypse
+- agile-pocalypse
+- DevOps coach
+- DevOps consultant
+- DevOps engineer
+- leadership.
+- product development
+- product management
+- professional scrum trainer
+- project management
+- Scrum
+- scrum approach
+- scrum certification
+- scrum framework
+- scrum methodology
+- scrum training
+- scrum.org
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/HFFSrQx-wbQ
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube HFFSrQx-wbQ >}}
 
 # Plague - 7 Harbingers agile apocalypse. But shorter!
@@ -42,6 +70,5 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=HFFSrQx-wbQ)
-
 
 

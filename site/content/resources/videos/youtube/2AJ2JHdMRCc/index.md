@@ -14,10 +14,16 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- DevOps
+- devops
+- Software Engineering
+- Agile
+- Agile Product Development
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube 2AJ2JHdMRCc >}}
 
 ## Game-Changer in Software Engineering!
@@ -49,6 +55,8 @@ Let's harness the power of DevOps together!
 Let's create, innovate and iterate faster! 🚀
 
 Reach out to learn more.
+
+
 
 
 

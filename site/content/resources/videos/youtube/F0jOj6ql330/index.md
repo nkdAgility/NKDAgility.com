@@ -14,10 +14,16 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Developer
+- Scrum developer
+- Agile Developer
+- Agile Software Engineering
+- Agile Software Development
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube F0jOj6ql330 >}}
 
 ## The Joy of Being a Scrum Developer
@@ -55,6 +61,8 @@ The next time you embark on a project or work, remember to ask: Does this matter
 For those intrigued by this journey or looking to delve deeper into the intricacies of Scrum development, join me in my Agile and Scrum courses.
 
 Let's champion the cause of meaningful work together!
+
+
 
 
 

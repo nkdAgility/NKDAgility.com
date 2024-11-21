@@ -2,20 +2,45 @@
 title: 7 signs of the agile apocalypse. Chaos
 date: 2023-11-09T10:45:01Z
 videoId: ItvOiaC32Hs
-url: /resources/videos/7-signs-of-the-agile-apocalypse-chaos
+url: /resources/videos/:slug
+slug: 7-signs-of-the-agile-apocalypse-chaos
 canonicalUrl: https://www.youtube.com/watch?v=ItvOiaC32Hs
+aliases:
+- /resources/videos/ItvOiaC32Hs
 preview: https://i.ytimg.com/vi/ItvOiaC32Hs/maxresdefault.jpg
 duration: 50
 isShort: true
+tags:
+- Agile
+- agile coach
+- agile consultant
+- agile leadership
+- agile product development
+- agile product management
+- agile project management
+- agile trainer
+- DevOps coach
+- DevOps consultant
+- DevOps engineer
+- leadership.
+- product development
+- product management
+- professional scrum trainer
+- project management
+- Scrum
+- scrum approach
+- scrum certification
+- scrum framework
+- scrum methodology
+- scrum training
+- scrum.org
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/ItvOiaC32Hs
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube ItvOiaC32Hs >}}
 
 # 7 signs of the agile apocalypse. Chaos
@@ -36,6 +61,5 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ItvOiaC32Hs)
-
 
 

@@ -14,10 +14,17 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Kanban
+- Kanban courses
+- Kanban training
+- Kanban coach
+- Kanban consultant
+- Kanban trainer
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube NeGch-lQkPA >}}
 
 ### Applying Flow Metrics for Scrum: Enhancing Value Delivery with Kanban
@@ -115,6 +122,8 @@ The "Applying Flow Metrics for Scrum" course offers a powerful way to enhance yo
 - **Consulting Services**: Need help implementing Kanban? Our experts are here to guide you.
 
 - **Further Reading**: Explore more about Kanban and agile methodologies on our blog.
+
+
 
 
 

@@ -2,20 +2,45 @@
 title: Why is training such a critical element in a productowner journey
 date: 2023-11-27T11:00:56Z
 videoId: xLUsgKWzkUM
-url: /resources/videos/why-is-training-such-a-critical-element-in-a-productowner-journey
+url: /resources/videos/:slug
+slug: why-is-training-such-a-critical-element-in-a-productowner-journey
 canonicalUrl: https://www.youtube.com/watch?v=xLUsgKWzkUM
+aliases:
+- /resources/videos/xLUsgKWzkUM
 preview: https://i.ytimg.com/vi/xLUsgKWzkUM/maxresdefault.jpg
 duration: 36
 isShort: true
+tags:
+- Agile
+- agile coach
+- agile consultant
+- agile leadership
+- agile product development
+- agile product management
+- agile project management
+- agile trainer
+- DevOps coach
+- DevOps consultant
+- DevOps engineer
+- leadership.
+- product development
+- product management
+- professional scrum trainer
+- project management
+- Scrum
+- scrum approach
+- scrum certification
+- scrum framework
+- scrum methodology
+- scrum training
+- scrum.org
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/xLUsgKWzkUM
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube xLUsgKWzkUM >}}
 
 # Why is training such a critical element in a productowner journey
@@ -36,6 +61,5 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=xLUsgKWzkUM)
-
 
 

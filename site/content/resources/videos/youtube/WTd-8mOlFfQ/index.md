@@ -16,10 +16,17 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Scrum
+- Scrum Master
+- Scrum Master mistakes
+- Newbie scrum master
+- Scrum Master tips
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube WTd-8mOlFfQ >}}
 
 ## Escaping the Administrative Vortex: Insights for Scrum Masters - Part 2
@@ -69,6 +76,8 @@ I'm here to guide you with my Agile and Scrum courses.  🎓
 Equip yourself with the knowledge and skills to avoid these common mistakes and be a Scrum Master who truly catalyses team success!
 
 Let's start this learning journey together!
+
+
 
 
 

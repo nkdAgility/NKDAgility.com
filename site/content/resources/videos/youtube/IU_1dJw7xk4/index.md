@@ -14,10 +14,20 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Kanban
+- Kanban approach
+- Kanban method
+- Kanban traning
+- Kanban consulting
+- Kanban coaching
+- Kanban coach
+- Kanban consultant
+- Kanban courses
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube IU_1dJw7xk4 >}}
 
 ### Transitioning from Traditional Project Management to Kanban
@@ -107,6 +117,8 @@ Transitioning from traditional project management to Kanban doesn't have to be d
 - **Consulting Services**: Need help implementing Kanban? Our experts are here to guide you.
 
 - **Further Reading**: Explore more about Kanban and agile methodologies on our blog.
+
+
 
 
 

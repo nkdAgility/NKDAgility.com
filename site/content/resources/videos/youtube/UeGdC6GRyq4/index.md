@@ -15,10 +15,17 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Scrum Training
+- Scrum.Org training
+- Agile Scrum Training
+- Scrum Certification
+- Scrum Courses
+- Scrum Course
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube UeGdC6GRyq4 >}}
 
 ## It's Your Time to Shine: Pay 30% Up Front, Balance When You Land the Job 
@@ -102,6 +109,8 @@ Why Does This Work? 
 - **Real Results**: Just like those who’ve walked this path before you, success is not just possible; it's expected. 
 
 - **Empowerment**: This isn’t charity; it’s empowerment. You’re not given a fish; you’re learning to fish in grander seas.
+
+
 
 
 

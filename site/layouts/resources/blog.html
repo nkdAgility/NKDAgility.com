@@ -2,6 +2,7 @@
   <section class="container my-2" style="max-width: 700px !important">
     <div class="row p-2">
       <div class="col-12">
+        {{- partial "publications/resourceType.html" . }}
         <h1 class="mb-4 nkda-heading-primary">{{- .Title | markdownify }}</h1>
         {{- if .Params.subtitle }}
           <h2 class="mb-4 nkda-heading-secondary">{{- .Params.subtitle | markdownify }}</h2>
@@ -16,6 +17,11 @@
 {{- define "main" }}
   <section class="container my-5" style="max-width: 700px !important">
     {{- .Content }}
+
+  </section>
+
+  <section class="container my-5" style="max-width: 700px !important">
+    {{- partial "publications/tag-cloud.html" . }}
   </section>
 
   <section class="container my-5" style="max-width: 700px !important">

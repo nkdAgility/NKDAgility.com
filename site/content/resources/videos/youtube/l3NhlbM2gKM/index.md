@@ -14,10 +14,36 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Sprint Backlog
+- Product Backlog
+- Backlog
+- Sprint
+- Scrum
+- Scrum Product Development
+- Scrum Project Management
+- Agile
+- Agile Product Development
+- Agile Project Management
+- Product Development
+- Project Management
+- product team
+- agile coach
+- agile coaching
+- agile consultant
+- agile consulting
+- DevOps
+- DevOps consultant
+- DevOps consulting
+- DevOps coach
+- DevOps coaching
+- Agile leadership
+- Agile leader
+- Leadership
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube l3NhlbM2gKM >}}
 
 # Unraveling the Story Point Myth in Scrum: A Path to Clarity 🚀
@@ -63,6 +89,8 @@ The story point myth highlights a broader challenge within Agile practices: the 
 Remember, the true measure of success in Scrum isn't how accurately we estimate complexity but how well we deliver value to our customers through collaborative effort and continuous learning.
 
 _If you've found this exploration of the story point myth enlightening and wish to delve deeper into Agile, Scrum, or DevOps practices, don't hesitate to reach out. Let's continue the conversation over a coffee chat and uncover more ways to enhance our Agile journeys together._
+
+
 
 
 

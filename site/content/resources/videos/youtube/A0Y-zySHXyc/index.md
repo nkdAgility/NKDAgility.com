@@ -14,10 +14,20 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Developers
+- Product Owner
+- scrum product owner
+- scrum
+- agile project management
+- agile product development
+- agile product management
+- project management
+- product ownership
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube A0Y-zySHXyc >}}
 
 ## Bridging the Gap Between Developers and Product Owners 🌉 
@@ -93,6 +103,8 @@ A Product Owner collaborates with a stakeholder, only for the latter to change s
 To ensure seamless collaboration, addressing the issue of accountability is paramount.  
 
 Let's conclude by revisiting the significance of fostering respect and open communication.
+
+
 
 
 

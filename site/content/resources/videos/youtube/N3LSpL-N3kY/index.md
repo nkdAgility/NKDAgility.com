@@ -14,10 +14,15 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- PSPO
+- Scrum.Org
+- Immersive Learning Experience
+- 8 Week PSPO course
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube N3LSpL-N3kY >}}
 
 ## The Product Owner Journey
@@ -99,6 +104,8 @@ It boils down to your learning style, pace, and how you wish to integrate this k
 Hungry for More Agile Insights?
 
 Join me on my Agile and Scrum courses, where we unpack these discussions further, ensuring you're equipped with the knowledge to make informed decisions for your Agile journey.
+
+
 
 
 

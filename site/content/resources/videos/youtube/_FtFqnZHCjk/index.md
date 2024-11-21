@@ -13,10 +13,16 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Agile product management
+- Product Management
+- Product Management Mentorship
+- Product Management Mentorship program
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube _FtFqnZHCjk >}}
 
 Product management has always revolved around one fundamental goal: **maximizing business value**. However, with the advent of Agile methodologies, there’s been a significant shift in how this goal is achieved. While the core tools and techniques remain largely unchanged, the approach to their application has evolved, leading to a more dynamic and responsive process.
@@ -120,6 +126,8 @@ Transitioning to Agile product management requires more than just adopting new p
     - Building quality into the product from the start reduces the need for extensive testing and ensures a smoother, more reliable delivery process.
 
 By adopting these principles, organizations can unlock new levels of efficiency, innovation, and customer satisfaction, ultimately driving greater business value.
+
+
 
 
 

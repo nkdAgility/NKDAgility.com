@@ -2,20 +2,27 @@
 title: What is your primary role in a DevOps consulting gig?
 date: 2023-05-02T07:00:00Z
 videoId: 0fz91w-_6vE
-url: /resources/videos/what-is-your-primary-role-in-a-devops-consulting-gig-
+url: /resources/videos/:slug
+slug: what-is-your-primary-role-in-a-devops-consulting-gig-
 canonicalUrl: https://www.youtube.com/watch?v=0fz91w-_6vE
+aliases:
+- /resources/videos/0fz91w-_6vE
 preview: https://i.ytimg.com/vi/0fz91w-_6vE/maxresdefault.jpg
 duration: 138
 isShort: false
+tags:
+- Agile Consultant
+- Agile Consulting
+- DevOps
+- DevOps Consultant
+- DevOps Consulting
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/0fz91w-_6vE
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube 0fz91w-_6vE >}}
 
 # What is your primary role in a DevOps consulting gig?
@@ -41,6 +48,5 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=0fz91w-_6vE)
-
 
 

@@ -15,10 +15,22 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Agile
+- Agile coach
+- Agile coaching
+- Agile consultant
+- Agile consulting
+- Agile project management
+- Agile product management
+- Agile product development
+- product development
+- project management
+- product management
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube g1GBes-dVzE >}}
 
 ## Why a Deep Understanding is Non-Negotiable
@@ -50,6 +62,8 @@ It's about guiding, it's about challenging, and yes, it's about pushing the team
 Ready to deepen your understanding of Agile, Scrum, and the intricate art of effective Agile Coaching? 🌟
 
 Enroll in our comprehensive courses today and elevate your Agile Coaching game to the next level.
+
+
 
 
 

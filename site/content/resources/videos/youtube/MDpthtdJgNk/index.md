@@ -14,10 +14,17 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Kanban
+- Kanban method
+- Kanban approach
+- Kanban training
+- Kanban consulting
+- Kanban coaching
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube MDpthtdJgNk >}}
 
 ### Embracing Kanban: A Creative Approach to Workflow Optimization
@@ -123,6 +130,8 @@ Kanban is an incredibly versatile and powerful strategy for optimizing workflows
 - **Further Reading**: Explore more about Kanban and agile methodologies on our blog.
 
 * * *
+
+
 
 
 

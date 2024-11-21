@@ -14,10 +14,35 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Evidence-based management
+- Agile
+- Scrum
+- agile project management
+- agile product development
+- agile product management
+- project management
+- product development
+- product management
+- professional scrum trainer
+- scrum training
+- scrum certification
+- scrum.org
+- DevOps consultant
+- DevOps coach
+- DevOps engineer
+- agile coach
+- agile consultant
+- agile trainer
+- scrum framework
+- scrum methodology
+- scrum approach
+- agile leadership
+- leadership.
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube VkTnZmJGf98 >}}
 
 In the world of agile transformation, it’s easy to get caught up in the methods, frameworks, and terminology. But the real question is: Are these changes actually making your organization more successful? That’s where evidence-based management (EBM) comes in. Instead of focusing on delivering agile for the sake of agile, we need to turn our attention to **achieving business success**—with agile as a tool to help us get there.
@@ -141,6 +166,8 @@ Forget about just "doing agile"—focus on **adapting your organization** to be 
 At the end of the day, evidence-based management isn’t just a tool for tracking progress—it’s a **strategy for success**. By leveraging data, organizations can make smarter decisions, adapt to market changes, and drive real business value.
 
 If you're ready to start using EBM to transform your organization, don’t hesitate to get in touch. We offer both immersive and traditional public classes, where you can learn more about how to implement these principles effectively. Let’s stop focusing on "delivering agile" and start **delivering success**.
+
+
 
 
 

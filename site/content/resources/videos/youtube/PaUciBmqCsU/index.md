@@ -14,10 +14,20 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Kanban
+- Kanban training
+- Kanban courses
+- Kanban coaching
+- Kanban consulting
+- Agile
+- Agile framework
+- Agile project management
+- Agile product development
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube PaUciBmqCsU >}}
 
 If you're talking about Kanban versus Scrum, chances are you might not fully understand what Kanban is all about. Kanban isn’t a rival or alternative to Scrum—it’s a strategy that can complement any system or process. Whether you’re working with Scrum or any other system, integrating Kanban can help you gain deeper insights and improve the overall flow of value.
@@ -141,6 +151,8 @@ Kanban isn’t here to replace Scrum—it’s here to **enhance it**. By bringin
 If you’re struggling to keep up with sprint goals or feel like your team isn’t as efficient as it could be, try implementing Kanban principles. You’ll gain deeper insights into your workflow, improve decision-making, and ultimately increase the flow of value through your system.
 
 **Remember**: It’s always Scrum _and_ Kanban, not one or the other. 🌟 **Take Action**: Set up a Kanban board with your team today and start experimenting. You might be surprised by how quickly you see results!
+
+
 
 
 

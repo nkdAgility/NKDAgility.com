@@ -14,10 +14,15 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+tags:
+- Scrum Master
+- ScrumMaster
+- Scrum
+- Scrum Master Traits
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube -pW6YDYEO20 >}}
 
 **Worst trait in unskilled scrum masters?**
@@ -75,6 +80,8 @@ Let's connect and elevate your Scrum game together! 🙌
 Hashtags:        #ScrumMaster  #Micromanagement #Misconceptions, #ElevateYourGame
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
+
 
 
 

@@ -2,20 +2,22 @@
 title: NKD Agility Mission and Purpose
 date: 2024-05-10T06:45:01Z
 videoId: yCyjGBNaRqI
-url: /resources/videos/nkd-agility-mission-and-purpose
+url: /resources/videos/:slug
+slug: nkd-agility-mission-and-purpose
 canonicalUrl: https://www.youtube.com/watch?v=yCyjGBNaRqI
+aliases:
+- /resources/videos/yCyjGBNaRqI
 preview: https://i.ytimg.com/vi/yCyjGBNaRqI/maxresdefault.jpg
 duration: 174
 isShort: false
+tags: 
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/yCyjGBNaRqI
+resourceTypes:
+- video
 
 ---
-
-
 {{< youtube yCyjGBNaRqI >}}
 
 # NKD Agility Mission and Purpose
@@ -29,6 +31,5 @@ The reason we do what we do and how we do what we do.
 Visit https://www.nkdagility.com
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yCyjGBNaRqI)
-
 
 
