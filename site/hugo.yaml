@@ -60,6 +60,12 @@ taxonomies:
   people-ability: people-abilities
   resourceTypes: resourceTypes
 
+cascade:
+  - _target:
+      path: /tags/**
+    _build:
+      render: never
+
 permalinks:
   taxonomy:
     resourceTypes: "/resources/types/:slug/"
