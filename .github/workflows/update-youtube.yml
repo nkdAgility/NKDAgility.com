@@ -26,10 +26,10 @@ jobs:
 
       - name: Update-YoutubeChannelData
         shell: pwsh
-        run: ./.powershell/Update-YoutubeChannelData.ps1
+        run: ./.powershell/build/Update-YoutubeChannelData.ps1
       - name: Update-YoutubeMarkdownFiles
         shell: pwsh
-        run: ./.powershell/Update-YoutubeMarkdownFiles.ps1
+        run: ./.powershell/build/Update-YoutubeMarkdownFiles.ps1
 
       # Step 6: Create or update the pull request
       - name: Create or update Pull Request
