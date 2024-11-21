@@ -2,6 +2,15 @@
 $outputDir = "site\content\resources\videos\youtube"
 $excludedTags = @("martin hinshelwood", "nkd agility")  # List of tags to exclude
 
+# Ensure PowerShell-YAML module is available
+if (-not (Get-Module -ListAvailable -Name PowerShell-Yaml)) {
+    Install-Module -Name PowerShell-Yaml -Force -Scope CurrentUser
+    Import-Module -Name PowerShell-Yaml
+}
+else {
+    Import-Module -Name PowerShell-Yaml
+}
+
 # Function to generate markdown content for a video
 function Get-NewMarkdownContents {
     param (
