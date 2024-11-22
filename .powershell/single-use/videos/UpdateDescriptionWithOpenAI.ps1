@@ -6,7 +6,7 @@
 $outputDir = "site\content\resources\videos\youtube"
 
 # Get list of directories and select the first 10
-$videoFolders = Get-ChildItem -Path $outputDir -Directory | Select-Object -First 1
+$videoFolders = Get-ChildItem -Path $outputDir -Directory | Select-Object -First 10
 
 $videoFolders | ForEach-Object {
     $videoDir = $_.FullName
@@ -25,7 +25,7 @@ $videoFolders | ForEach-Object {
         $hugoMarkdown = Get-HugoMarkdown -Path $markdownFile
 
         # Update the description in the front matter
-        $updatedFrontMatter = Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'description' -fieldValue $description -addAfter 'title'
+        $updatedFrontMatter = Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'description' -fieldValue $description -addAfter 'title' -Overwrite
 
         # Save updated markdown
         $hugoMarkdown.FrontMatter = $updatedFrontMatter

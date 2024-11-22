@@ -1,5 +1,6 @@
 ---
 title: What is a product backlog?
+description: 'Discover the essentials of a product backlog! Learn how it helps agile teams prioritise tasks for successful product development with Martin Hinshelwood. #shorts'
 date: 2023-08-17
 videoId: _Eer3X3Z_LE
 url: /resources/videos/:slug
@@ -80,6 +81,7 @@ Hashtags:        #ProductBacklog #Agile #Scrum #BacklogManagement
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 
