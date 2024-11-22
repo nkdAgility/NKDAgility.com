@@ -1,5 +1,6 @@
 ---
 title: Silence - 7 signs of the agile apocalypse. But shorter!
+description: 'Discover the two types of silence in agile: one brings peace, the other signals impending disaster. Join Martin Hinshelwood in this insightful exploration!'
 date: 2023-11-02T11:30:10Z
 videoId: KHcSWD2tV6M
 url: /resources/videos/:slug
@@ -41,7 +42,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube KHcSWD2tV6M >}}
 
 # Silence - 7 signs of the agile apocalypse. But shorter!
@@ -66,3 +66,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=KHcSWD2tV6M)
+

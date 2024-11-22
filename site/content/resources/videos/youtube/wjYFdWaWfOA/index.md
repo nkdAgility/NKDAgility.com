@@ -1,5 +1,6 @@
 ---
 title: What is a scrum master? Why are they essential?
+description: "Discover the vital role of a Scrum Master in Agile leadership! Learn how they enhance team efficiency and drive value delivery in this insightful video. \U0001F680"
 date: 2023-05-22T14:00:41Z
 videoId: wjYFdWaWfOA
 url: /resources/videos/:slug
@@ -28,7 +29,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube wjYFdWaWfOA >}}
 
 # What is a scrum master? Why are they essential?
@@ -61,3 +61,4 @@ Because you don't just need agility, you need Naked Agility.
 #scrum #projectmanagement #agilecoach #agileconsultant #scrumtraining #scrumorg #scrummaster #productowner #devops
 
 [Watch on YouTube](https://www.youtube.com/watch?v=wjYFdWaWfOA)
+

@@ -1,5 +1,6 @@
 ---
 title: Why do you think the PSU course has become so popular for product development?
+description: Discover why the PSU course is transforming product development by integrating UX into Scrum teams, empowering them to create valuable customer solutions.
 date: 2023-03-31
 videoId: S7Xr1-qONmM
 url: /resources/videos/:slug
@@ -115,6 +116,7 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 
 

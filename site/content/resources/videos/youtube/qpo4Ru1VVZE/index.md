@@ -1,5 +1,6 @@
 ---
 title: DevOps Migration. Compatibility Problems
+description: Navigate compatibility challenges in migrating from TFS to Azure DevOps. Learn to manage customisations, data integrity, and on-prem build agents effectively!
 date: 2024-11-06T05:45:03Z
 videoId: qpo4Ru1VVZE
 url: /resources/videos/:slug
@@ -25,7 +26,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube qpo4Ru1VVZE >}}
 
 # DevOps Migration. Compatibility Problems
@@ -45,3 +45,4 @@ Video Chapters:
 👉 Watch the video to get expert insights on handling compatibility issues during your migration to Azure DevOps. Don’t forget to like, subscribe, and turn on notifications for more helpful DevOps migration tips and best practices! Visit https://nkdagility.com/capabilities/azure-devops-migration-services/ if you need help with #azure #azuredevops #azuredeveloper #devops #devopsmigration #devopstraining
 
 [Watch on YouTube](https://www.youtube.com/watch?v=qpo4Ru1VVZE)
+

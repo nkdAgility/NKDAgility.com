@@ -1,5 +1,6 @@
 ---
 title: 7 harbingers of the Agile apocalypse. War
+description: "Explore how internal 'wars' in organisations mirror Norse Ragnarök, revealing paths to innovation or downfall. Join Martin to navigate these conflicts! \U0001F6E1️⚔️"
 date: 2024-02-19
 videoId: wHGw1vmudNA
 url: /resources/videos/:slug
@@ -92,6 +93,7 @@ The journey toward agile transformation is complex and challenging, with conflic
 ## Conclusion: Steering Agile Teams Away from War
 
 Conflict, when navigated wisely, can be a force for positive change. However, left unchecked, it can lead to the agile apocalypse—an environment where progress is halted, and collaboration is replaced by competition. Agile teams and leaders must be vigilant, fostering a culture that values constructive conflict and rejects the destructive patterns that lead to war. By doing so, they can ensure that their agile journey is marked not by conflict and division but by collaboration, innovation, and sustained growth.
+
 
 
 

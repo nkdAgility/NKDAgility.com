@@ -1,5 +1,6 @@
 ---
 title: Most valuable lesson you learned as an agile consultant
+description: Discover the key lesson Martin Hinshelwood learned transitioning from agile practitioner to consultant, enhancing team collaboration and performance.
 date: 2023-06-22T07:00:15Z
 videoId: MutnPwNzyXM
 url: /resources/videos/:slug
@@ -23,7 +24,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube MutnPwNzyXM >}}
 
 # Most valuable lesson you learned as an agile consultant
@@ -47,3 +47,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=MutnPwNzyXM)
+

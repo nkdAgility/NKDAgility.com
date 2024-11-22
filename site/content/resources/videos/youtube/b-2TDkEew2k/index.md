@@ -1,5 +1,6 @@
 ---
 title: ' shorts 7 Virtues of agile. Temperance'
+description: 'Discover the virtue of Temperance in Agile! Join us for insights on fostering balance and harmony in your teams. #Agile #Scrum #Shorts'
 date: 2023-12-05T11:00:27Z
 videoId: b-2TDkEew2k
 url: /resources/videos/:slug
@@ -41,7 +42,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube b-2TDkEew2k >}}
 
 #  shorts 7 Virtues of agile. Temperance
@@ -60,3 +60,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=b-2TDkEew2k)
+

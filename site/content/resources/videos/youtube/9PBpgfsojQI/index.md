@@ -1,5 +1,6 @@
 ---
 title: 2023 is predicted to be a very tough year. What do you think will be needed to win and improve?
+description: Discover key strategies for thriving in 2023's challenges as Martin Hinshelwood explores the essentials for successful Agile leadership and adaptation.
 date: 2023-03-20
 videoId: 9PBpgfsojQI
 url: /resources/videos/:slug
@@ -113,6 +114,7 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 
 

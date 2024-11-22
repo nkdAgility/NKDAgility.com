@@ -1,5 +1,6 @@
 ---
 title: What should you do if your Sprint Review delivers harsh, scathing feedback?
+description: "Master Sprint reviews with confidence! Learn to turn harsh feedback into actionable insights and align with stakeholders for product success. \U0001F680"
 date: 2023-12-13
 videoId: LpiLOBG7WgI
 url: /resources/videos/:slug
@@ -108,6 +109,7 @@ Takeaways 
 Agile practices like Sprint reviews are about more than just ticking boxes; they're about creating a dynamic, responsive environment for product development.  
 
 So, take that harsh feedback and turn it into your most valuable asset! 🚀
+
 
 
 

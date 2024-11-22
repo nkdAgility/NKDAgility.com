@@ -1,5 +1,6 @@
 ---
 title: Why I love hierarchies of competence
+description: 'Discover why Martin Hinshelwood prefers hierarchies of competence over control, empowering experts to drive success in agile environments. #shorts #agile'
 date: 2023-05-03T09:30:09Z
 videoId: kT9sB1jIz0U
 url: /resources/videos/:slug
@@ -18,7 +19,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube kT9sB1jIz0U >}}
 
 # Why I love hierarchies of competence
@@ -44,3 +44,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=kT9sB1jIz0U)
+

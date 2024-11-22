@@ -1,5 +1,6 @@
 ---
 title: 'The Power of Community: Becoming an Awesome Agile Coach'
+description: 'Discover the fourth essential achievement for aspiring #AgileCoaches with Martin Hinshelwood. Elevate your skills and empower teams to thrive!'
 date: 2024-09-23
 videoId: hij5_aP_YN4
 url: /resources/videos/:slug
@@ -139,6 +140,7 @@ Remember:
 - **Continuously evolve**: Your growth as a coach directly impacts the value you bring to your clients.
 
 If you’re looking to connect, learn, or simply have a conversation about Agile, Scrum, or DevOps, feel free to **book a coffee chat with me** through Naked Agility. Let’s continue to grow, challenge, and support each other on this Agile journey. 🌟 **Like this post?** Feel free to comment, follow, or subscribe for more Agile insights!
+
 
 
 

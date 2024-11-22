@@ -1,5 +1,6 @@
 ---
 title: Agile Evolution - Live Site Culture & Site Reliability at Azure DevOps
+description: Explore Azure DevOps' journey to a robust live site culture, balancing engineering responsibilities with transparency and reliability in a SaaS environment.
 date: 2020-06-04T02:05:28Z
 videoId: 5bgcpPqcGlw
 url: /resources/videos/:slug
@@ -23,7 +24,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube 5bgcpPqcGlw >}}
 
 # Agile Evolution - Live Site Culture & Site Reliability at Azure DevOps
@@ -35,3 +35,4 @@ With the shift-left movement pushing more responsibility to the engineering team
 Techorama BE: https://techorama.be/speakers/session/agile-evolution-live-site-culture-site-reliability-at-azure-devops/
 
 [Watch on YouTube](https://www.youtube.com/watch?v=5bgcpPqcGlw)
+

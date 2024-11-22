@@ -1,5 +1,6 @@
 ---
 title: What is your favourite agile course to deliver and why?
+description: Join Martin Hinshelwood as he shares his favourite agile course, revealing why it’s a transformative experience for both him and his delegates.
 date: 2023-01-09T12:36:53Z
 videoId: vI2LBfMkPuk
 url: /resources/videos/:slug
@@ -24,7 +25,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube vI2LBfMkPuk >}}
 
 # What is your favourite agile course to deliver and why?
@@ -50,3 +50,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=vI2LBfMkPuk)
+

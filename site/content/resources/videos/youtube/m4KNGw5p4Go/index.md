@@ -1,5 +1,6 @@
 ---
 title: 'Transform Your Product Development: Unleash the Power of Experimentation and Collaboration'
+description: Unlock your product development potential! Discover strategies to enhance user value, reduce waste, and foster collaboration in our transformative PPDV course.
 date: 2024-11-11
 videoId: m4KNGw5p4Go
 url: /resources/videos/:slug
@@ -112,6 +113,7 @@ By focusing on increasing user value, reducing waste, embracing agility, unlocki
 Remember, the key to successful product development lies in experimentation, collaboration, and a relentless focus on creating value. So, take the lessons from this course and start making meaningful changes today!
 
 🚀 **Ready to take your product development to the next level? Let’s get started!**
+
 
 
 

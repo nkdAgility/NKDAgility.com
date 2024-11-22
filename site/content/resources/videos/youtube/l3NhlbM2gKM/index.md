@@ -1,5 +1,6 @@
 ---
 title: Scrum is like communism, it doesn't work. Myth 2.
+description: "Uncover the truth about story points in Scrum! Join Martin as he debunks myths and reveals their true purpose as a tool for team conversation. \U0001F680\U0001F4CA"
 date: 2024-02-28
 videoId: l3NhlbM2gKM
 url: /resources/videos/:slug
@@ -89,6 +90,7 @@ The story point myth highlights a broader challenge within Agile practices: the 
 Remember, the true measure of success in Scrum isn't how accurately we estimate complexity but how well we deliver value to our customers through collaborative effort and continuous learning.
 
 _If you've found this exploration of the story point myth enlightening and wish to delve deeper into Agile, Scrum, or DevOps practices, don't hesitate to reach out. Let's continue the conversation over a coffee chat and uncover more ways to enhance our Agile journeys together._
+
 
 
 

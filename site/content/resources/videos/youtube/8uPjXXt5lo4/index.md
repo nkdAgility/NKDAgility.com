@@ -1,5 +1,6 @@
 ---
 title: What is the most valuable thing you have learned through training people?
+description: Discover the key insights Martin Hinshelwood gained as a scrum trainer, transforming training experiences in agile environments. Join the journey!
 date: 2023-03-08
 videoId: 8uPjXXt5lo4
 url: /resources/videos/:slug
@@ -89,6 +90,7 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 
 

@@ -1,5 +1,6 @@
 ---
 title: ' shorts 7 Virtues of agile. Kindness'
+description: 'Discover the power of kindness in Agile! Join us as we explore one of the 7 virtues that fosters collaboration and inspires high-performing teams. #Agile #Shorts'
 date: 2023-12-11T11:00:47Z
 videoId: tPkqqaIbCtY
 url: /resources/videos/:slug
@@ -41,7 +42,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube tPkqqaIbCtY >}}
 
 #  shorts 7 Virtues of agile. Kindness
@@ -60,3 +60,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=tPkqqaIbCtY)
+

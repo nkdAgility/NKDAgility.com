@@ -1,5 +1,6 @@
 ---
 title: What is a sprint goal?
+description: "Unlock the secrets of sprint planning! Discover common pitfalls in agility and learn to empower your team for swift market responses. \U0001F680\U0001F4C8"
 date: 2023-10-10
 videoId: JVZzJZ5q0Hw
 url: /resources/videos/:slug
@@ -103,6 +104,7 @@ Then my Agile and Scrum courses are just the thing for you!
 Let's continue this journey towards Scrum mastery together.
 
 About NKD Agility
+
 
 
 

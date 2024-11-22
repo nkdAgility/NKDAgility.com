@@ -1,5 +1,6 @@
 ---
 title: What is your primary role in a DevOps consulting gig?
+description: Join Martin Hinshelwood as he explores his key role in DevOps consulting, addressing common challenges across diverse industries. Discover insights for success!
 date: 2023-05-02T07:00:00Z
 videoId: 0fz91w-_6vE
 url: /resources/videos/:slug
@@ -23,7 +24,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube 0fz91w-_6vE >}}
 
 # What is your primary role in a DevOps consulting gig?
@@ -49,3 +49,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=0fz91w-_6vE)
+

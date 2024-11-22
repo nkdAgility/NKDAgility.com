@@ -1,5 +1,6 @@
 ---
 title: 'Understanding the Difference: Traditional Management vs. Evidence-Based Management'
+description: Explore the key differences between Traditional Management and Evidence-Based Management (EBM) in decision-making for better organisational success!
 date: 2024-11-18
 videoId: 3CgKmunwiSQ
 url: /resources/videos/:slug
@@ -158,6 +159,7 @@ Evidence-based management is not just a buzzword; it's a way to make smarter, mo
 - **A culture of continuous improvement** 📈
 
 The next time you're faced with a decision, ask yourself: Are you relying on evidence, or are you just making it up? Embrace the challenge, and you’ll see the difference it makes for your team and organization. 🌟
+
 
 
 

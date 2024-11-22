@@ -1,5 +1,6 @@
 ---
 title: 'Agile Leadership: Empowering Managers with the Right Skills'
+description: Discover why training is essential for managers transitioning to agile leaders in a complex world. Join Martin Hinshelwood for insights on thriving teams!
 date: 2024-09-30
 videoId: W3cyrYFXDfg
 url: /resources/videos/:slug
@@ -106,6 +107,7 @@ If you’re a manager who’s transitioning into a leadership role or someone wh
 ## Final Thoughts
 
 Becoming an agile leader takes time, effort, and the right support. Don’t assume that leadership will come naturally without guidance. By investing in **Professional Agile Leadership** and **Evidence-Based Management** training, you’ll not only improve your own leadership skills but also contribute to the success of your entire organization. 🚀 Ready to take the next step in your leadership journey?
+
 
 
 

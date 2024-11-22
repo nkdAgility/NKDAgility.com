@@ -1,5 +1,6 @@
 ---
 title: Would you recommend the PSPO course to an entrepreneur and why?
+description: Discover how the PSPO course empowers entrepreneurs to create value and grow products that delight customers. Join Martin Hinshelwood for insights!
 date: 2023-05-16T14:00:07Z
 videoId: 9TbjaO1_Nz8
 url: /resources/videos/:slug
@@ -25,7 +26,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube 9TbjaO1_Nz8 >}}
 
 # Would you recommend the PSPO course to an entrepreneur and why?
@@ -48,3 +48,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=9TbjaO1_Nz8)
+

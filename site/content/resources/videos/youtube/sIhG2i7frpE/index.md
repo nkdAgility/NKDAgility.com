@@ -1,5 +1,6 @@
 ---
 title: Improving workflow with Kanban
+description: 'Discover how to enhance your workflow using Kanban in this insightful video. Streamline your processes and boost productivity! #agile #kanban'
 date: 2024-08-15T07:04:39Z
 videoId: sIhG2i7frpE
 url: /resources/videos/:slug
@@ -21,7 +22,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube sIhG2i7frpE >}}
 
 # Improving workflow with Kanban
@@ -29,3 +29,4 @@ source: youtube
 Improving workflow with #kanban. Visit https://www.nkdagility.com #agile #agileframework #kanban
 
 [Watch on YouTube](https://www.youtube.com/watch?v=sIhG2i7frpE)
+

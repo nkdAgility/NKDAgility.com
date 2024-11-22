@@ -1,5 +1,6 @@
 ---
 title: 7 Virtues of agile. Chastity
+description: Unlock Agile success! Discover the virtue of Chastity in our latest video and learn how thoughtful planning transforms your approach to business agility.
 date: 2023-12-04T08:39:06Z
 videoId: vftc6m70a0w
 url: /resources/videos/:slug
@@ -41,7 +42,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube vftc6m70a0w >}}
 
 # 7 Virtues of agile. Chastity
@@ -73,3 +73,4 @@ Expert Assistance: Learn how our team at Naked Agility can guide you through the
 ✨ Transform your approach to Agile today – Watch now and take the first step towards a more effective and inclusive Agile journey! ✨
 
 [Watch on YouTube](https://www.youtube.com/watch?v=vftc6m70a0w)
+

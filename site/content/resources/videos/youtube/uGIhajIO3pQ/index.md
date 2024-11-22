@@ -1,5 +1,6 @@
 ---
 title: 'Agile Scotland 2023: Why does this matter to you and why should people come to the event?'
+description: Join Martin Hinshelwood as he highlights why Agile Scotland 2023 is a must-attend event for anyone in Scotland's agile community!
 date: 2023-11-22
 videoId: uGIhajIO3pQ
 url: /resources/videos/:slug
@@ -56,6 +57,7 @@ Agile 2023, the Scotland experience, isn’t just a conference; it’s a testame
 - Community and collaboration are key to driving innovation. 
 
 - Never underestimate the value of local events for global insights.
+
 
 
 

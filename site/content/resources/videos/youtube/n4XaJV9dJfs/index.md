@@ -1,5 +1,6 @@
 ---
 title: What is the most useful element of the APS course for beginner Scrum Teams?
+description: "Unlock Scrum's secrets! \U0001F31F Join Martin as he explores complexity in agile, offering practical insights for beginner Scrum Teams. Dive in now!"
 date: 2023-11-15T07:00:28Z
 videoId: n4XaJV9dJfs
 url: /resources/videos/:slug
@@ -41,7 +42,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube n4XaJV9dJfs >}}
 
 # What is the most useful element of the APS course for beginner Scrum Teams?
@@ -74,3 +74,4 @@ Because you don't just need agility, you need Naked Agility.
 #scrum #agile #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg #scrummaster #productowner #kanban #continuousdelivery #devops #azuredevops
 
 [Watch on YouTube](https://www.youtube.com/watch?v=n4XaJV9dJfs)
+

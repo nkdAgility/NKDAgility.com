@@ -1,5 +1,6 @@
 ---
 title: Znaczenie znajomości terenu
+description: "Discover how understanding terrain enhances agility through Poland's unique mushroom foraging sport. Join us in exploring agile principles! \U0001F344✨"
 date: 2023-08-10T14:45:00Z
 videoId: IqWvURjrJVs
 url: /resources/videos/:slug
@@ -31,7 +32,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube IqWvURjrJVs >}}
 
 # Znaczenie znajomości terenu
@@ -53,3 +53,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=IqWvURjrJVs)
+

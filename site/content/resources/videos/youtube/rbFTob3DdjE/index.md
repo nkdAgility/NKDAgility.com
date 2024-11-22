@@ -1,5 +1,6 @@
 ---
 title: 5 tools that Scrum Masters love. Part 2
+description: "Discover 5 essential tools that Scrum Masters adore in Part 2! Boost your team's agility and performance with expert insights from NKD Agility. #Scrum #Agile"
 date: 2023-09-19T07:00:21Z
 videoId: rbFTob3DdjE
 url: /resources/videos/:slug
@@ -24,7 +25,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube rbFTob3DdjE >}}
 
 # 5 tools that Scrum Masters love. Part 2
@@ -45,3 +45,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=rbFTob3DdjE)
+

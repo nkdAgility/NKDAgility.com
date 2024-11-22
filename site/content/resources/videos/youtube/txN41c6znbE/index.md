@@ -1,5 +1,6 @@
 ---
 title: 'Where Agile Went Wrong: Understanding the Competence Crisis'
+description: "Explore the competence crisis in Agile! Discover why skilled Scrum Masters matter and how to bridge the gap for real-world success. \U0001F331\U0001F680 #AgileLeadership"
 date: 2024-11-21
 videoId: txN41c6znbE
 url: /resources/videos/:slug
@@ -142,6 +143,7 @@ The Agile community has come a long way since the early days, but we still face 
 - **Hire for context**: Understand that the right Scrum Master needs to align with the team’s needs, the product’s demands, and the organization’s vision.
 
 🚀 By focusing on these areas, we can build a future where Agile truly lives up to its promise—delivering value, adapting continuously, and empowering individuals and teams to thrive. Let’s get back on track, and make Agile what it was always meant to be!
+
 
 
 

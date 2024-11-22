@@ -1,5 +1,6 @@
 ---
 title: 'The Power of Kaizen: Continuous Improvement in Scrum and Beyond'
+description: Unlock the power of Kaizen in Kanban! Discover how continuous improvement can elevate your workflows and drive optimal results. Embrace the journey!
 date: 2024-10-31
 videoId: pVPzgsemxEY
 url: /resources/videos/:slug
@@ -123,6 +124,7 @@ Kaizen isn’t about rigid processes or frameworks. It’s about adapting to the
 At the end of the day, **Kaizen** isn’t just a principle we apply to work – it’s a mindset. It’s about embracing continuous improvement in all areas of our lives, not just in Scrum. By making small, incremental changes, we can achieve significant improvements over time.
 
 So, whether you’re a Scrum Master looking to improve your team’s performance, a Product Owner optimizing the backlog, or a developer seeking more efficient ways to code, remember the power of **Kaizen**. It’s the key to long-term success in Scrum and beyond. Let’s commit to continuous improvement, one small step at a time. 🚀
+
 
 
 

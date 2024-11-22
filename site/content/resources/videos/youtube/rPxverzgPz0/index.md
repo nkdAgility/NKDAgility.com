@@ -1,5 +1,6 @@
 ---
 title: Would you recommend the APS course to a newbie scrum team, and Why?
+description: 'Discover how the APS course can empower your newbie Scrum team to create value and thrive in an Agile environment. Watch now! #Scrum #Agile #Training'
 date: 2023-07-25
 videoId: rPxverzgPz0
 url: /resources/videos/:slug
@@ -97,6 +98,7 @@ Keywords:       Agile Practitioner Series, Scrum teams, Organizational Chan
 Hashtags         #Scrum #Agile #APS #OrganizationalChange
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

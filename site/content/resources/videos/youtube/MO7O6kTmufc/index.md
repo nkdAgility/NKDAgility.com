@@ -1,5 +1,6 @@
 ---
 title: Introduction to Evidence-based Management Excerpt 2
+description: 'Explore key insights on Evidence-based Management in this engaging excerpt, enhancing your agile leadership skills for effective decision-making. #Agile #EBM'
 date: 2024-09-12T13:46:15Z
 videoId: MO7O6kTmufc
 url: /resources/videos/:slug
@@ -23,7 +24,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube MO7O6kTmufc >}}
 
 # Introduction to Evidence-based Management Excerpt 2
@@ -31,3 +31,4 @@ source: youtube
 Introduction to Evidence-based Management Excerpt 2 #agile #evidencebasedleadership #evidencebasedmanagement #ebm #scrum #leadership #agileleadership
 
 [Watch on YouTube](https://www.youtube.com/watch?v=MO7O6kTmufc)
+

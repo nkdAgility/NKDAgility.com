@@ -1,5 +1,6 @@
 ---
 title: Reasons to do an APS Course in 60 Seconds
+description: 'Discover why an APS course is a game-changer for your career in just 60 seconds! Join Martin Hinshelwood and unlock your agile potential. #shorts #agile'
 date: 2023-11-16
 videoId: yKSkRhv_2Bs
 url: /resources/videos/:slug
@@ -85,6 +86,7 @@ Are you ready to kickstart or rejuvenate your Scrum journey?
 Let's set the ball rolling towards unparalleled Scrum proficiency.
 
 Join now, and let's embark on a transformative journey to Scrum excellence together and learn how to integrate it optimally within your organisation's framework.
+
 
 
 

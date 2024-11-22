@@ -1,5 +1,6 @@
 ---
 title: 'Detecting Agile BS: Lessons from the US Department of Defense'
+description: "Is your company truly Agile? \U0001F914 Discover a 6-question test inspired by the U.S. Department of Defense to assess and enhance your Agile practices!"
 date: 2024-11-07
 videoId: O6rYL3EDUxM
 url: /resources/videos/:slug
@@ -113,6 +114,7 @@ Remember, Agile is not just a set of practices—it’s a mindset. It requires a
 - **🚀** **Take action:** Start by focusing on one area where you can improve, and build momentum from there.
 
 Agile isn’t easy, but with the right mindset and approach, it’s achievable. And once you get there, you’ll never want to go back.
+
 
 
 

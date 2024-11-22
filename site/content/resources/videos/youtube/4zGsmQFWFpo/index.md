@@ -1,5 +1,6 @@
 ---
 title: 'Focusing Beyond "Agile": Building True Capability in Organizations'
+description: "Refocus your organisation! Discover how to build competence and value by improving hiring practices and fostering effective leadership. \U0001F331\U0001F4BC #LifelongLearning"
 date: 2024-11-21
 videoId: 4zGsmQFWFpo
 url: /resources/videos/:slug
@@ -181,6 +182,7 @@ Ready to build a team that thrives? Start with **competence**, **context**, and 
 * * *
 
 By focusing on the _how_ rather than just the _what_, we can create an environment where **Scrum Masters lead with insight**, **teams collaborate effectively**, and **businesses deliver true value**. That’s what agility is really about—being ready for anything, with the right people at the helm. 🌟
+
 
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Quotes: You can't connect the dots looking forward; you can only connect them looking backwards. Steve Jobs"
+description: "Explore Steve Jobs' insight on connecting the dots in product development with Martin Hinshelwood. Discover the power of agile with Naked Agility! #shorts"
 date: 2023-12-27
 videoId: hj31XHbmWbA
 url: /resources/videos/:slug
@@ -79,6 +80,7 @@ While looking back is insightful, it is not an infallible predictor of success. 
 **Balancing Past Insights with Agile Flexibility** 
 
 Steve Jobs’ perspective on connecting dots is a metaphor for the Agile journey. It's about understanding the past to navigate the future but also staying flexible and ready to pivot based on new insights and evidence. 🌟
+
 
 
 

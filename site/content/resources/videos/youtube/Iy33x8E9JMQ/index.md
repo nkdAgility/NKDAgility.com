@@ -1,5 +1,6 @@
 ---
 title: Dogma versus Empiricism in a consulting engagement
+description: 'Explore the clash between dogma and empiricism in Agile consulting. Learn how to navigate challenges for a more effective team dynamic! #Agile #Scrum #Consulting'
 date: 2023-12-06
 videoId: Iy33x8E9JMQ
 url: /resources/videos/:slug
@@ -78,6 +79,7 @@ Embracing Empiricism means we're flexible, responsive, and adaptive, ready to mo
 As we embrace the path of pragmatism and empirical adaptation, I invite you to enhance your Agile and Scrum knowledge with our comprehensive courses.
 
 Let's pave a path that fosters innovation, responsiveness, and success in the ever-evolving business landscape.
+
 
 
 

@@ -1,5 +1,6 @@
 ---
 title: How does a Scrum Master or Agile coach motivate a Scrum Team?
+description: "Unlock the secrets to motivating Scrum teams! Join us as we explore effective techniques for Scrum Masters and Agile Coaches to boost engagement and productivity. \U0001F680✨"
 date: 2023-12-14
 videoId: hFjoIf3KPeI
 url: /resources/videos/:slug
@@ -103,6 +104,7 @@ A key takeaway for Scrum Masters and Agile coaches is the understanding that mot
 The role of a Scrum Master or Agile coach extends beyond mere process facilitation. It's about nurturing a motivated, effective, and resilient team capable of delivering exceptional results.  
 
 By understanding and addressing the factors that affect team morale, setting achievable goals, promoting stakeholder engagement, and applying motivational theories in practice, Agile coaches can lead their teams to new heights of success and satisfaction.
+
 
 
 

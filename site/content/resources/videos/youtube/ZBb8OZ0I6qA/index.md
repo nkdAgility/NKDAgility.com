@@ -1,5 +1,6 @@
 ---
 title: Why its imposible to order a hierarchy, and what you can do instead!
+description: "Revolutionise your project management! Discover why rigid backlog hierarchies hinder agility and explore flexible, value-focused alternatives. \U0001F30D\U0001F4A1"
 date: 2024-03-26T10:56:26Z
 videoId: ZBb8OZ0I6qA
 url: /resources/videos/:slug
@@ -25,7 +26,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube ZBb8OZ0I6qA >}}
 
 # Why its imposible to order a hierarchy, and what you can do instead!
@@ -56,3 +56,4 @@ _Sign up for one of our upcoming professional Scrum classes: https://nkdagility.
 #azuredevops #planning #backlog #azureboards #epic
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ZBb8OZ0I6qA)
+

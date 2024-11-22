@@ -1,5 +1,6 @@
 ---
 title: Making Business Decisions with Evidence! What is evidence-based management?
+description: Unlock the power of evidence-based management! Learn to make data-driven decisions and enhance your leadership for sustainable business growth.
 date: 2024-01-25T07:00:13Z
 videoId: MCkSBdzRK_c
 url: /resources/videos/:slug
@@ -41,7 +42,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube MCkSBdzRK_c >}}
 
 # Making Business Decisions with Evidence! What is evidence-based management?
@@ -112,3 +112,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=MCkSBdzRK_c)
+

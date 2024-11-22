@@ -1,5 +1,6 @@
 ---
 title: ' shorts 5 kinds of Agile bandits. 5th kind'
+description: 'Discover the 5 Agile bandits with Martin Hinshelwood, featuring the toxic product owner. Learn how to tackle these challenges in your team! #Agile #Scrum'
 date: 2024-01-10T11:00:01Z
 videoId: 21k6OgxeKjo
 url: /resources/videos/:slug
@@ -41,7 +42,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube 21k6OgxeKjo >}}
 
 #  shorts 5 kinds of Agile bandits. 5th kind
@@ -62,3 +62,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=21k6OgxeKjo)
+

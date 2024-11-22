@@ -1,5 +1,6 @@
 ---
 title: What is Taylorism and how did it influence project management?
+description: "Discover how Taylorism revolutionised project management, shaping work dynamics from the Industrial Revolution to today's people-centric approaches. \U0001F4C8\U0001F570️"
 date: 2023-04-03
 videoId: wHYYfvAGFow
 url: /resources/videos/:slug
@@ -164,6 +165,7 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 
 

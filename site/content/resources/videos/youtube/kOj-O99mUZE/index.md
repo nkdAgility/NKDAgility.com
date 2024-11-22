@@ -1,5 +1,6 @@
 ---
 title: Overview of the 'scaling with portfolio Kanban' course
+description: Unlock organisational efficiency with our "Applying Scaling Portfolio Kanban" course! Learn to manage project portfolios effectively and enhance value delivery.
 date: 2024-06-30
 videoId: kOj-O99mUZE
 url: /resources/videos/:slug
@@ -127,6 +128,7 @@ The "Applying Scaling Portfolio Kanban" course is essential for leaders who want
 - **Further Reading**: Check out more articles on Kanban and agile methodologies on our blog.
 
 If your current system of work is failing you, then you would benefit from creating and applying a Kanban strategy. Our professional Kanban trainers and consultants are ready to help. Don't wait. The sooner you start, the sooner you'll improve. Get in touch below.
+
 
 
 

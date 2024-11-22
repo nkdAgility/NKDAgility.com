@@ -1,5 +1,6 @@
 ---
 title: Would you recommend a team APS workshop or an agile consultant?
+description: Discover whether an APS workshop or agile consultant is best for your team. Join Martin Hinshelwood as he shares insights on mastering Scrum for effective product development.
 date: 2023-04-05T07:00:03Z
 videoId: 76mGfF0KoD0
 url: /resources/videos/:slug
@@ -25,7 +26,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube 76mGfF0KoD0 >}}
 
 # Would you recommend a team APS workshop or an agile consultant?
@@ -51,3 +51,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=76mGfF0KoD0)
+

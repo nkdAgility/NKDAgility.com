@@ -1,5 +1,6 @@
 ---
 title: 5 tools that Scrum Masters love. Part 1
+description: "Discover the top 5 tools that Scrum Masters love in this engaging short! Boost your team's agility and performance with expert insights from NKD Agility. #Scrum #Agile"
 date: 2023-11-28
 videoId: Ce5pFwG5IAY
 url: /resources/videos/:slug
@@ -69,6 +70,7 @@ Scrum Masters using liberating structures report significant improvements in tea
 By incorporating liberating structures, Scrum Masters can expect their sessions to evolve from routine gatherings to powerful catalysts for team growth and innovation. It's about crafting a journey from ideas to action, ensuring each meeting is a step forward in the Agile journey. 🚀 
 
 Embrace these structures and witness the transformation in your Scrum meetings! 🌈
+
 
 
 

@@ -11,6 +11,36 @@ else {
     Import-Module -Name PowerShell-Yaml
 }
 
+function Get-Excerpt {
+    param (
+        [string]$InputString,
+        [int]$TargetLength = 100
+    )
+
+    # Remove newlines, #tags, and URLs
+    $cleanInput = $InputString -replace '\r\n|\r|\n', ' ' # Replace newlines with spaces
+    $cleanInput = $InputString -replace '#[^\s]+', ''                      # Remove #tags
+    $cleanInput = $InputString -replace 'https?://\S+|www\.\S+', ''      # Remove URLs
+    
+    # Match sentences ending with `.`, `!`, `?`
+    $matches = [regex]::Matches($cleanInput, '.*?[\.\!\?]')
+    $excerpt = ""
+
+    foreach ($match in $matches) {
+        # Add each match to the excerpt
+        $excerpt += $match.Value + " "
+        # Stop if we reach or exceed the target length
+        if ($excerpt.Length -ge $TargetLength) {
+            break
+        }
+    }
+
+    # Trim any extra spaces and return
+    return $excerpt.Trim()
+}
+
+
+
 # Function to generate markdown content for a video
 function Get-NewMarkdownContents {
     param (
@@ -57,6 +87,7 @@ function Get-NewMarkdownContents {
     # Create an ordered hash for the front matter
     $frontMatter = [ordered]@{
         title        = $title
+        description  = Get-Excerpt -InputString $videoSnippet.description
         date         = $publishedAt
         videoId      = $videoId
         url          = "/resources/videos/:slug"

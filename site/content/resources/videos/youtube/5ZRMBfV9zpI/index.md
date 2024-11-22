@@ -1,5 +1,6 @@
 ---
 title: Professional Scrum Master (PSM) training class from naked Agility with Martin Hinshelwood [mktng]
+description: Join Martin Hinshelwood for an interactive PSM training workshop, enhancing your Scrum Master skills and gaining valuable insights into Scrum principles!
 date: 2022-07-27T18:45:17Z
 videoId: 5ZRMBfV9zpI
 url: /resources/videos/:slug
@@ -18,7 +19,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube 5ZRMBfV9zpI >}}
 
 # Professional Scrum Master (PSM) training class from naked Agility with Martin Hinshelwood [mktng]
@@ -40,3 +40,4 @@ Our PSM class list: https://nkdagility.com/training/courses/professional-scrum-m
 MN Classroom Content Preview: https://community.nkdagility.com/courses/6859485/content
 
 [Watch on YouTube](https://www.youtube.com/watch?v=5ZRMBfV9zpI)
+

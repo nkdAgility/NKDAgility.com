@@ -1,5 +1,6 @@
 ---
 title: What is empiricism and why is it so critical to great Agile?
+description: "Unlock lean-agile secrets with Martin! Enhance value delivery and team dynamics in fast-paced projects. Dive in for expert insights! \U0001F680 #Agile #Scrum"
 date: 2023-12-10
 videoId: 7UZsdsD23rs
 url: /resources/videos/:slug
@@ -105,6 +106,7 @@ By wholeheartedly adopting the ethos of 'inspect and adapt', you'll discover tha
 - 🔄 **Champion Change**: Welcome directional shifts – they are the rungs on your ladder to the zenith. 
 
 In the Agile universe, inertia is the antithesis of success. To chart the unceasing ebb and flow of the market and organisational dynamics, you must be adaptable – and empiricism is your guide.
+
 
 
 

@@ -1,5 +1,6 @@
 ---
 title: 'DevOps: Elevating Your Organization’s Performance Through Bespoke Solutions'
+description: Explore tailored DevOps consulting services in this video, uncovering how organisations can optimise practices for better software delivery and quality.
 date: 2024-11-15
 videoId: sXmXT_MDXTo
 url: /resources/videos/:slug
@@ -141,6 +142,7 @@ DevOps is not a one-size-fits-all solution. Every organization is different, and
 - **Stay Compliant:** Meet compliance requirements without sacrificing the agility and benefits of DevOps.
 
 By following these principles, your organization can successfully navigate the complexities of DevOps and achieve a more streamlined, efficient, and effective software development process. 🚀
+
 
 
 

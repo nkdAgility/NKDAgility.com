@@ -1,5 +1,6 @@
 ---
 title: ' shorts 5 things you would teach a productowner apprentice. Part 3'
+description: 'Join Martin Hinshelwood in Part 3 as he shares essential lessons for aspiring product owners. Discover key insights to boost your agile journey! #shorts'
 date: 2023-12-15T11:00:17Z
 videoId: KhP_e26OSKs
 url: /resources/videos/:slug
@@ -41,7 +42,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube KhP_e26OSKs >}}
 
 #  shorts 5 things you would teach a productowner apprentice. Part 3
@@ -51,3 +51,4 @@ source: youtube
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=KhP_e26OSKs)
+

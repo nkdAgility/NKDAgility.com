@@ -1,5 +1,6 @@
 ---
 title: When is an APS course appropriate for a scrum team?
+description: 'Join Martin Hinshelwood as he shares his vision of the perfect agile consulting week, highlighting the power of inspired teams in #agile and #scrum.'
 date: 2023-10-11
 videoId: aathsp3IMfg
 url: /resources/videos/:slug
@@ -74,6 +75,7 @@ Engage, reflect, and elevate.   🌟
 I'm here to guide and collaborate with you along your Agile journey.
 
 Let's connect through Naked Agility and script your unique Scrum success narrative.
+
 
 
 

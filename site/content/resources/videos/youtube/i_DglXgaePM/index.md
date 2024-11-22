@@ -1,5 +1,6 @@
 ---
 title: Slaying the dragons and how to successfully descale at scale with BCS & FoWS
+description: Discover how successful organisations are overcoming the challenges of scaling agile. Learn the secrets to effective software delivery and transformation!
 date: 2020-03-25T21:07:01Z
 videoId: i_DglXgaePM
 url: /resources/videos/:slug
@@ -18,7 +19,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube i_DglXgaePM >}}
 
 # Slaying the dragons and how to successfully descale at scale with BCS & FoWS
@@ -36,3 +36,4 @@ Join Via Future of work Scotland: https://www.meetup.com/the-future-of-work-in-S
 Join via LinkedIn: https://www.linkedin.com/in/martinhinshelwood/
 
 [Watch on YouTube](https://www.youtube.com/watch?v=i_DglXgaePM)
+

@@ -1,5 +1,6 @@
 ---
 title: nkdAgility Healthgrades Interview CJSingh
+description: Join Martin Hinshelwood as he transforms Healthgrades with Scrum training, uniting teams and igniting a journey towards enhanced business agility!
 date: 2017-07-27T18:16:30Z
 videoId: Fm24oKNN--w
 url: /resources/videos/:slug
@@ -26,7 +27,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube Fm24oKNN--w >}}
 
 # nkdAgility Healthgrades Interview CJSingh
@@ -34,3 +34,4 @@ source: youtube
 Martin Hinshelwood trained over 150 people at Healthgrades in the fundamentals of Scrum. This got everyone on the same page, and since the course was practical it won over the most hardened detractors. At the end of the course we get an Organisational Change backlog that sets the entire organisation on a course of self correction to a higher degree of business agility.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Fm24oKNN--w)
+

@@ -1,5 +1,6 @@
 ---
 title: Judgement! 7 Harbingers agile apocalypse. But shorter!
+description: Discover how informed judgement shapes your agile journey! Join Martin Hinshelwood as he uncovers the pitfalls of poor decision-making.
 date: 2023-11-01T11:30:27Z
 videoId: xk11NhTA_V8
 url: /resources/videos/:slug
@@ -44,7 +45,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube xk11NhTA_V8 >}}
 
 # Judgement! 7 Harbingers agile apocalypse. But shorter!
@@ -71,3 +71,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=xk11NhTA_V8)
+

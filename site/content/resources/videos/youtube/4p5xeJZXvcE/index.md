@@ -1,5 +1,6 @@
 ---
 title: ' shorts 7 Virtues of agile. Patience'
+description: 'Discover the first of the 7 Agile virtues: Patience. Learn how it fosters collaboration and enhances team performance in Agile environments. #Agile #Scrum'
 date: 2023-12-08T11:00:09Z
 videoId: 4p5xeJZXvcE
 url: /resources/videos/:slug
@@ -41,7 +42,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube 4p5xeJZXvcE >}}
 
 #  shorts 7 Virtues of agile. Patience
@@ -60,3 +60,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=4p5xeJZXvcE)
+

@@ -1,5 +1,6 @@
 ---
 title: Why is Scrum so easy to understand but incredibly hard to master?
+description: "Uncover why Scrum is easy to grasp but tough to master! Join Martin as he shares insights and strategies for navigating its complexities. \U0001F680\U0001F4A1"
 date: 2023-04-12
 videoId: zSQSQPFsy-o
 url: /resources/videos/:slug
@@ -191,6 +192,7 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 
 

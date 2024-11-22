@@ -1,5 +1,6 @@
 ---
 title: 'The Key to a Kanban Strategy: Understanding WIP Limits'
+description: Discover how to optimise work flow with effective WIP limits! Learn critical factors for establishing them as a Kanban strategist. Watch now!
 date: 2024-10-26
 videoId: Ir8QiX7eAHU
 url: /resources/videos/:slug
@@ -113,6 +114,7 @@ WIP limits are crucial for any Kanban system. While the "perfect" WIP limit migh
 - Experiment and adjust as needed to find the Goldilocks zone for your team.
 
 With the right approach, you'll find that WIP limits not only improve flow but also foster better conversations and collaboration within your team.
+
 
 
 

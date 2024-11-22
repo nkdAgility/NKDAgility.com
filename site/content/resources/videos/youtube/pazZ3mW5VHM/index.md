@@ -1,5 +1,6 @@
 ---
 title: Most Common Thing You Hear in a PSPO Course?
+description: "Discover Simon Reindl's impact on Agile in this insightful short! Join Martin Hinshelwood as he highlights key figures in Scrum and Agile. #Agile #Scrum"
 date: 2023-11-15
 videoId: pazZ3mW5VHM
 url: /resources/videos/:slug
@@ -76,6 +77,7 @@ Are you a Product Owner feeling like you're benched on the sidelines?  ✨
 Feeling that your Product Owner role needs a boost?
 
 I invite you to delve deeper into the PSPO discourse with me.  Hop onto my Agile and Scrum courses, and together, let's align your role with the influence it deserves!🤝
+
 
 
 

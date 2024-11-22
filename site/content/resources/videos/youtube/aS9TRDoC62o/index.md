@@ -1,5 +1,6 @@
 ---
 title: If a client hasn't considered DevOps consulting as part of their Agile Consulting needs, why should they?
+description: Discover why integrating DevOps consulting into your Agile coaching can enhance team performance and streamline software delivery. Watch now!
 date: 2023-12-08
 videoId: aS9TRDoC62o
 url: /resources/videos/:slug
@@ -74,6 +75,7 @@ DevOps should never be an afterthought in the Agile process; it's a foundational
 By weaving DevOps consulting into the fabric of your Agile methodologies, you're not just embracing a trend; you're adopting a comprehensive approach that guarantees your software development process is robust, responsive, and relentlessly forward-moving. 🚀 
 
 It's an investment in not just maintaining pace with the industry but setting the pace. The message is clear: Agile and DevOps are better together, and your software delivery will thank you for it. 💡🎉
+
 
 
 

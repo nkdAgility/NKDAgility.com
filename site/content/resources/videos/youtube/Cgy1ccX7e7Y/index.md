@@ -1,5 +1,6 @@
 ---
 title: What would be an example of a great agile consulting outcome for a client?
+description: Discover how agile consulting can transform complex challenges into valuable outcomes, enhancing business agility and driving success in your organisation.
 date: 2023-02-23
 videoId: Cgy1ccX7e7Y
 url: /resources/videos/:slug
@@ -108,6 +109,7 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 
 

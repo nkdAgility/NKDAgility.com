@@ -1,5 +1,6 @@
 ---
 title: How big is the gap between an average developer and a great Agile Developer?
+description: "Unlock the secrets to becoming a great agile developer! Discover the power of self-investment, practice, and continuous learning. \U0001F4DA\U0001F4A1✨"
 date: 2023-10-13
 videoId: 96iDY11yOjc
 url: /resources/videos/:slug
@@ -87,6 +88,7 @@ Let's redefine what it means to be a developer in this agile era!
 I invite you to dive deep into this world of engaged and self-directed learning through my Agile and Scrum courses. 🚀
 
 It's a space where your passion meets our guidance, where your journey of transforming from an average developer to an agile maestro begins.
+
 
 
 

@@ -1,5 +1,6 @@
 ---
 title: Don’t put down to malevolence what can be explained by incompetence
+description: "Uncover how incompetence, not malevolence, often hinders agility in projects. Join Martin to transform your agile journey! \U0001F680 #agile #scrumtraining"
 date: 2023-09-29T07:00:14Z
 videoId: LxM_F_JJLeg
 url: /resources/videos/:slug
@@ -25,7 +26,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube LxM_F_JJLeg >}}
 
 # Don’t put down to malevolence what can be explained by incompetence
@@ -50,3 +50,4 @@ _Sign up for one of our upcoming professional Scrum classes:_ https://nkdagility
 Because you don't just need agility, you need Naked Agility.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=LxM_F_JJLeg)
+
