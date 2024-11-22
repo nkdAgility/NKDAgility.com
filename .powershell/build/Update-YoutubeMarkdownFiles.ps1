@@ -68,6 +68,7 @@ function Get-NewMarkdownContents {
         isShort      = $isShort
         tags         = $tags
         sitemap      = @{ filename = "sitemap.xml"; priority = 0.4 }
+        source       = "youtube"
     }
 
     # Convert ordered hash to YAML front matter
