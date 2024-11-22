@@ -18,8 +18,8 @@ tags:
 - Agile Consultant
 - Agile Consulting
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 
 ---
 

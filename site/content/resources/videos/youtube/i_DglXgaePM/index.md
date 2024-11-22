@@ -13,8 +13,8 @@ duration: 5631
 isShort: false
 tags: []
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 
 ---
 
