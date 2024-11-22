@@ -1,6 +1,6 @@
 ---
 title: ' shorts 5 kinds of Agile bandits. 1st Kind'
-description: '#shorts #shortvideo #shortsvideo Martin Hinshelwood walks us through the 5 kinds of #agile bandits.'
+description: 'Discover the 1st kind of Agile bandit with Martin Hinshelwood! Join us for insights on Agile practices and team evolution. #Agile #Scrum #Shorts'
 date: 2024-01-04T12:14:45Z
 videoId: uvZ9TGbMtnU
 url: /resources/videos/:slug
@@ -42,7 +42,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube uvZ9TGbMtnU >}}
 
 #  shorts 5 kinds of Agile bandits. 1st Kind
@@ -63,3 +62,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=uvZ9TGbMtnU)
+

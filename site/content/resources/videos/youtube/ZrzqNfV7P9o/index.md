@@ -1,5 +1,6 @@
 ---
 title: Learn Scrum with Minecraft Education Edition
+description: Discover how Minecraft enhances the APS course, fostering collaboration and creativity in Agile teams. Join Martin Hinshelwood for insights!
 date: 2022-12-19
 videoId: ZrzqNfV7P9o
 url: /resources/videos/:slug
@@ -82,6 +83,7 @@ _We encourage participants to use a non-work-restricted computer for all of our 
 - [FAQ: IT Admin Guide](IT Admin Guide)
 
 - [Licensing | Minecraft Education](https://education.minecraft.net/en-us/licensing)
+
 
 
 

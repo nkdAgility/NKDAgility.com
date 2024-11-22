@@ -1,6 +1,6 @@
 ---
 title: Why is training such a critical element in a productowner journey
-description: '#shorts #shortsvideo #shortvideo Many people are assigned the #productowner accountability without any formal #scrumtraining or skills development.'
+description: Discover why training is vital for product owners! Join Martin Hinshelwood as he highlights the importance of skills development in this insightful short.
 date: 2023-11-27T11:00:56Z
 videoId: xLUsgKWzkUM
 url: /resources/videos/:slug
@@ -42,7 +42,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube xLUsgKWzkUM >}}
 
 # Why is training such a critical element in a productowner journey
@@ -63,3 +62,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=xLUsgKWzkUM)
+

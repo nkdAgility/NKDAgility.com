@@ -1,6 +1,6 @@
 ---
 title: Product Management Mentor Program Final
-description: "#agile has come a long way since it's inception in 2001, and with that shift from #projectmanagement to #productdevelopment, #productmanagement has evolved significantly."
+description: Discover how NKD Agility's Product Management Mentoring program empowers product managers to thrive in complex environments. Join Martin Hinshelwood for insights!
 date: 2024-05-06T13:29:40Z
 videoId: ZcMcVL7mNGU
 url: /resources/videos/:slug
@@ -27,7 +27,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube ZcMcVL7mNGU >}}
 
 # Product Management Mentor Program Final
@@ -45,3 +44,4 @@ Visit https://nkdagility.com/global-consultancy-services/product-management-ment
 #productmanagement #agileproductmanagement #agileproductdevelopment #agiletraining #agilecoaching #agileprojectmanagement
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ZcMcVL7mNGU)
+

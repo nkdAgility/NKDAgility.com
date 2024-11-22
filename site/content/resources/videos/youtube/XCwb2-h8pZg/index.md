@@ -1,6 +1,6 @@
 ---
 title: Kanban with Team Foundation Service
-description: ""
+description: Discover how to effectively implement Kanban using Team Foundation Service to enhance your team's workflow and boost productivity.
 date: 2013-08-17T07:27:19Z
 videoId: XCwb2-h8pZg
 url: /resources/videos/:slug
@@ -19,7 +19,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube XCwb2-h8pZg >}}
 
 # Kanban with Team Foundation Service
@@ -27,3 +26,4 @@ source: youtube
 
 
 [Watch on YouTube](https://www.youtube.com/watch?v=XCwb2-h8pZg)
+

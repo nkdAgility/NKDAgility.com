@@ -1,6 +1,6 @@
 ---
 title: Biggest misconception about a scrum master
-description: 'Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.'
+description: 'Discover the biggest misconception about Scrum Masters with Martin Hinshelwood! Uncover insights that can transform your Agile journey. #Scrum #Agile #Shorts'
 date: 2023-06-21T11:00:52Z
 videoId: zs0q_zz8-JY
 url: /resources/videos/:slug
@@ -26,7 +26,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube zs0q_zz8-JY >}}
 
 # Biggest misconception about a scrum master
@@ -48,3 +47,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=zs0q_zz8-JY)
+

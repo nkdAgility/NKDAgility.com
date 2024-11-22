@@ -1,6 +1,6 @@
 ---
 title: What does failure look like as a product owner?
-description: Recognizing the Signs of a Failing Product Owner.  Uncover the indicators of a failing product owner!
+description: "Discover the signs of a failing product owner! Learn to distinguish perception from reality in product management. Don't miss this insightful video! \U0001F3AF\U0001F6AB"
 date: 2023-09-22T07:00:32Z
 videoId: uvU_ATou6QY
 url: /resources/videos/:slug
@@ -26,7 +26,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube uvU_ATou6QY >}}
 
 # What does failure look like as a product owner?
@@ -51,3 +50,4 @@ Because you don't just need agility, you need Naked Agility.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=uvU_ATou6QY)
+

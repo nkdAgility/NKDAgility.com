@@ -1,6 +1,6 @@
 ---
 title: Antichrist! 7 Harbingers agile apocalypse. But shorter!
-description: "Dive into the crux of Agile's biggest challenge: the rise of fake agilists, often termed as the Agile \"Antichrist."
+description: "Uncover the Agile \"Antichrist\" and the signs of the Agile-pocalypse! Learn to spot fake agilists and keep your Agile journey authentic. \U0001F32A️\U0001F680"
 date: 2023-10-30T07:00:13Z
 videoId: XZ1Swam_Cx0
 url: /resources/videos/:slug
@@ -45,7 +45,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube XZ1Swam_Cx0 >}}
 
 # Antichrist! 7 Harbingers agile apocalypse. But shorter!
@@ -77,3 +76,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=XZ1Swam_Cx0)
+

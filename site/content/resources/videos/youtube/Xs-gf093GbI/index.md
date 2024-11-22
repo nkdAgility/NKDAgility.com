@@ -1,5 +1,6 @@
 ---
 title: What is a product vision, and why does it matter?
+description: Discover the power of a strong product vision! Join Martin Hinshelwood as he explores its importance in agile and scrum for successful product development.
 date: 2023-10-10
 videoId: Xs-gf093GbI
 url: /resources/videos/:slug
@@ -73,6 +74,7 @@ It's the heartbeat that keeps the product alive and thriving.
 For those wanting a deep dive into building and understanding effective product visions, I encourage you to check out our Agile and Scrum courses.
 
 Let's embark on this journey of discovery and alignment together.
+
 
 
 

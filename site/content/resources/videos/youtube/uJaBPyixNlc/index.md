@@ -1,5 +1,6 @@
 ---
 title: How does Naked Agility select associate Scrum Trainers?
+description: Discover how Naked Agility selects top Scrum trainers with rigorous standards to ensure expert guidance in mastering the Scrum framework.
 date: 2023-01-16
 videoId: uJaBPyixNlc
 url: /resources/videos/:slug
@@ -102,6 +103,7 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 
 

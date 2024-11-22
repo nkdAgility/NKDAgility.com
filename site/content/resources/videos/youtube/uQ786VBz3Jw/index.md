@@ -1,6 +1,6 @@
 ---
 title: What is your 1 tip for effective sprint planning?
-description: 'A core focus of #projectmanagement is efficiency and resource utilization.  In other words, is everyone busy and are we as productive as we can be.'
+description: "Unlock effective sprint planning with Martin Hinshelwood's top tip! Focus on building value, not just productivity, for your #scrumteam. #agile #projectmanagement"
 date: 2023-05-26T14:00:37Z
 videoId: uQ786VBz3Jw
 url: /resources/videos/:slug
@@ -31,7 +31,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube uQ786VBz3Jw >}}
 
 # What is your 1 tip for effective sprint planning?
@@ -56,3 +55,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=uQ786VBz3Jw)
+

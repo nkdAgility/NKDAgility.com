@@ -1,6 +1,6 @@
 ---
 title: If you could distil the PAL e immersive learning experience into 3 major benefits, what are they?
-description: 'The new #immersivelearning experience from Scrum. Org is perfectly suited to the Professional Agile Leadership Essentials course.'
+description: 'Discover the top 3 benefits of the PAL-E immersive learning experience with Joanna Plaskonka and elevate your Agile leadership skills! #Agile #Scrum'
 date: 2023-07-13T12:20:07Z
 videoId: wawnGp8b2q8
 url: /resources/videos/:slug
@@ -27,7 +27,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube wawnGp8b2q8 >}}
 
 # If you could distil the PAL e immersive learning experience into 3 major benefits, what are they?
@@ -51,3 +50,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=wawnGp8b2q8)
+

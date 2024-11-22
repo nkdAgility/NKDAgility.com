@@ -1,6 +1,6 @@
 ---
 title: DevOps Migration. Downtime
-description: 'In this video, we tackle one of the most critical challenges in Azure DevOps data migration: minimizing downtime.'
+description: Discover strategies to minimise downtime during Azure DevOps migrations. Learn from real-world examples and expert tips for a seamless transition!
 date: 2024-11-05T06:00:34Z
 videoId: tzmbqdEULUY
 url: /resources/videos/:slug
@@ -24,7 +24,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube tzmbqdEULUY >}}
 
 # DevOps Migration. Downtime
@@ -44,3 +43,4 @@ Video Chapters:
 👉 Watch the video to discover proven strategies for reducing downtime in Azure DevOps migrations. Don’t forget to like, comment, and subscribe to our channel for more expert guidance on DevOps! Visit https://nkdagility.com/capabilities/azure-devops-migration-services/ if you need help with your #azuredevops or #devopsmigration
 
 [Watch on YouTube](https://www.youtube.com/watch?v=tzmbqdEULUY)
+

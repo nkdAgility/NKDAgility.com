@@ -1,6 +1,6 @@
 ---
 title: ' shorts 5 kinds of Agile bandits. 2nd kind'
-description: "#shorts #shortvideo #shortsvideo Martin Hinshelwood walks us through the 5 #agile bandits.  This video features 'say-do' metrics."
+description: "Discover the 2nd kind of Agile bandit with Martin Hinshelwood! Learn about 'say-do' metrics in this engaging #shorts video. #Agile #Scrum #NKDAgility"
 date: 2024-01-05T11:00:32Z
 videoId: UFCwbq00CEQ
 url: /resources/videos/:slug
@@ -42,7 +42,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube UFCwbq00CEQ >}}
 
 #  shorts 5 kinds of Agile bandits. 2nd kind
@@ -63,3 +62,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=UFCwbq00CEQ)
+

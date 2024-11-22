@@ -1,5 +1,6 @@
 ---
 title: 5 critical Skills to master as an Agile Consultant?  Part 1
+description: 'Master the essentials of agile consulting! Join Martin Hinshelwood in Part 1 of 5 critical skills every agile consultant should master. #Agile #Scrum #Shorts'
 date: 2023-12-03
 videoId: Ye016yOxvcs
 url: /resources/videos/:slug
@@ -68,6 +69,7 @@ And most importantly, never assume to fully know your customer's context, for it
 Embark on a journey of transformation and skill enhancement with my Agile and Scrum courses.
 
 Let's unravel the intricacies of being a successful Agile Consultant, nurturing a mindset that embraces learning, adaptation, and innovation.  🚀
+
 
 
 

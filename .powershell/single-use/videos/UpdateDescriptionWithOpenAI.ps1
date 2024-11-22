@@ -6,7 +6,7 @@
 $outputDir = "site\content\resources\videos\youtube"
 
 # Get list of directories and select the first 10
-$videoFolders = Get-ChildItem -Path $outputDir -Directory | Select-Object -First 10
+$videoFolders = Get-ChildItem -Path $outputDir -Directory #| Select-Object -First 10
 
 $videoFolders | ForEach-Object {
     $videoDir = $_.FullName
@@ -17,12 +17,12 @@ $videoFolders | ForEach-Object {
         # Load the video data from data.json
         $videoData = Get-Content -Path $jsonFilePath | ConvertFrom-Json
         
+        # Load markdown as HugoMarkdown object
+        $hugoMarkdown = Get-HugoMarkdown -Path $markdownFile
+        
         # Generate a new description using OpenAI
         $prompt = "Generate a concise, engaging description of no more than 160 characters for the following video: '$($videoData.snippet.title)'. The video details are: '$($videoData.snippet.description)'"
         $description = Get-OpenAIResponse -Prompt $prompt
-
-        # Load markdown as HugoMarkdown object
-        $hugoMarkdown = Get-HugoMarkdown -Path $markdownFile
 
         # Update the description in the front matter
         $updatedFrontMatter = Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'description' -fieldValue $description -addAfter 'title' -Overwrite
