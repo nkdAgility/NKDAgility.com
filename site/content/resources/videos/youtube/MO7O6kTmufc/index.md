@@ -18,8 +18,8 @@ tags:
 - Evidence based management
 - Scrum
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 
 ---
 

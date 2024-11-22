@@ -20,8 +20,8 @@ tags:
 - DevOps
 - DevOps migration
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 
 ---
 

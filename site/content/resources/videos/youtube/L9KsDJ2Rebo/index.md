@@ -23,8 +23,8 @@ tags:
 - Immersive Learning PSM course
 - Immersive Learning Professional Scrum Master course
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 
 ---
 

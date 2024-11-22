@@ -18,8 +18,8 @@ tags:
 - Agile consulting philosophy
 - Agile consulting approach
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 
 ---
 

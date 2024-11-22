@@ -25,8 +25,8 @@ tags:
 - LEAN UX
 - Lean Agile Product Development
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 
 ---
 

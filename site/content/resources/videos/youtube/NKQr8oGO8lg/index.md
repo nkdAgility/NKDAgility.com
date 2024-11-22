@@ -17,8 +17,8 @@ tags:
 - PAL-E course
 - PAL-E immersive learning experience
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 
 ---
 

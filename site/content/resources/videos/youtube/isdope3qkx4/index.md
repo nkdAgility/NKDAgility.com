@@ -18,8 +18,8 @@ tags:
 - Digital Dashboard
 - Remote Working
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 
 ---
 
