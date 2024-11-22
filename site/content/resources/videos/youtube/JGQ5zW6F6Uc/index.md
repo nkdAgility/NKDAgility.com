@@ -1,6 +1,6 @@
 ---
 title: 3 steps developers must follow if the product owner is incompetent
-description: Facing challenges with an ineffective product owner?  Learn how the Scrum Master and team can navigate this situation.
+description: "Struggling with an ineffective product owner? Discover 3 essential steps for developers to navigate this challenge and enhance team dynamics! \U0001F31F\U0001F6E0️"
 date: 2023-10-27T14:30:10Z
 videoId: JGQ5zW6F6Uc
 url: /resources/videos/:slug
@@ -42,7 +42,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube JGQ5zW6F6Uc >}}
 
 # 3 steps developers must follow if the product owner is incompetent
@@ -73,3 +72,4 @@ Because you don't just need agility, you need Naked Agility.
 #scrum #agile #scrummaster #productowner #agilecoach #agileconsultant #agiletraining #scrumtraining #projectmanagement #productdevelopment
 
 [Watch on YouTube](https://www.youtube.com/watch?v=JGQ5zW6F6Uc)
+

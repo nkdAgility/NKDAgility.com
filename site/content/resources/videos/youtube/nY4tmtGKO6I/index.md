@@ -1,6 +1,6 @@
 ---
 title: Why is training such a critical element in a scrummaster journey?
-description: "People assume that the #scrummaster accountability is a junior, administrative role when in fact, it's a #leadership and #agilecoaching accountability that requires a deeply skilled, committed individual at the helm."
+description: Discover why training is vital for Scrum Masters! Martin Hinshelwood highlights the leadership role and skills needed for success in agile coaching.
 date: 2023-11-28T11:00:49Z
 videoId: nY4tmtGKO6I
 url: /resources/videos/:slug
@@ -42,7 +42,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube nY4tmtGKO6I >}}
 
 # Why is training such a critical element in a scrummaster journey?
@@ -63,3 +62,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=nY4tmtGKO6I)
+

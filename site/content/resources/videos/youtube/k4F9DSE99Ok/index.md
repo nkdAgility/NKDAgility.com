@@ -1,6 +1,6 @@
 ---
 title: Famine! 7 Harbingers agile apocalypse. But shorter!
-description: 'One of the 7 signs of the #agile apocalypse is Famine. Famine happens when you are starved of feedback, reviews, and information that can help the team create products that truly delight customers.'
+description: Discover how Famine, one of the 7 signs of the agile apocalypse, can hinder your team's success. Learn to avoid feedback starvation!
 date: 2023-10-31T07:00:18Z
 videoId: k4F9DSE99Ok
 url: /resources/videos/:slug
@@ -45,7 +45,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube k4F9DSE99Ok >}}
 
 # Famine! 7 Harbingers agile apocalypse. But shorter!
@@ -70,3 +69,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=k4F9DSE99Ok)
+

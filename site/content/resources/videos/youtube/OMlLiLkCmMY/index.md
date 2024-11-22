@@ -1,6 +1,6 @@
 ---
 title: ' shorts 7 Virtues of Agile. Chastity'
-description: '#shorts #shortsvideo #shortvideo 7 virtues of #agile, presented by Martin Hinshelwood.  First virtue, #chastity.'
+description: "Discover the first virtue of Agile: Chastity. Join Martin Hinshelwood in this insightful #shorts video and unlock your team's potential!"
 date: 2023-12-04T11:00:23Z
 videoId: OMlLiLkCmMY
 url: /resources/videos/:slug
@@ -42,7 +42,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube OMlLiLkCmMY >}}
 
 #  shorts 7 Virtues of Agile. Chastity
@@ -61,3 +60,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=OMlLiLkCmMY)
+

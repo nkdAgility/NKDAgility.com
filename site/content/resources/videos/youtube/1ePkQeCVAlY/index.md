@@ -1,5 +1,6 @@
 ---
 title: What is the difference between resource efficiency and flow efficiency?
+description: Explore the vital differences between resource and flow efficiency in modern workplaces. Unlock strategies for a happier, more productive team!
 date: 2023-06-23
 videoId: 1ePkQeCVAlY
 url: /resources/videos/:slug
@@ -76,6 +77,7 @@ Keywords:       Resource efficiency, Flow efficiency, Optimisation, Agile p
 Specific:           #ResourceEfficiency, #FlowEfficiency, #Optimization, #AgileProcesses
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

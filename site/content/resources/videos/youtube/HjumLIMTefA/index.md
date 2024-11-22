@@ -1,5 +1,6 @@
 ---
 title: The Power of Immersive Learning in Agile Training
+description: 'Discover the top 5 reasons why immersive learning transforms Scrum training for students! Dive into the experience in this engaging short video. #Scrum #Agile'
 date: 2024-10-23
 videoId: HjumLIMTefA
 url: /resources/videos/:slug
@@ -133,6 +134,7 @@ Training shouldn’t end when the session does. Encourage participants to contin
 Immersive learning is more than just a training method; it’s a catalyst for organizational transformation. By promoting continuous learning, real-world application, and a culture of feedback, immersive learning gives participants the tools they need to drive lasting change within their organizations.
 
 So the next time you’re considering Agile training, ask yourself this: _Do I want to attend a training session, or do I want to create real change?_ With immersive learning, the answer is clear. 🚀
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: Mastering Azure DevOps Migration - A Comprehensive Guide by NKDAgility
-description: Unlock the potential of Azure DevOps migration tools with this comprehensive tutorial!  We dive deep into features, functionalities, and efficient practices.
+description: "Master Azure DevOps migration with NKDAgility! Discover tools, tips, and best practices in this comprehensive guide. Unlock your potential today! \U0001F680"
 date: 2019-10-17T19:16:03Z
 videoId: RCJsST0xBCE
 url: /resources/videos/:slug
@@ -21,7 +21,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube RCJsST0xBCE >}}
 
 # Mastering Azure DevOps Migration - A Comprehensive Guide by NKDAgility
@@ -57,3 +56,4 @@ Because you don't just need agility, you need Naked Agility.
 #azuredevops #agilecoach #agileconsultant #devops #scrummaster #productowner
 
 [Watch on YouTube](https://www.youtube.com/watch?v=RCJsST0xBCE)
+

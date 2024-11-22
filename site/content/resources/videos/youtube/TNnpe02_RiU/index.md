@@ -1,5 +1,6 @@
 ---
 title: What is Your Peeve in DevOps
+description: 'Join Martin Hinshelwood as he shares his top pet peeve in DevOps consulting, drawing from his extensive experience in Agile and DevOps. #DevOps #Agile #Consulting'
 date: 2023-06-28
 videoId: TNnpe02_RiU
 url: /resources/videos/:slug
@@ -79,6 +80,7 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 
 

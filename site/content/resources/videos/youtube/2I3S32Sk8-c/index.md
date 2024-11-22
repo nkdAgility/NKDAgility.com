@@ -1,5 +1,6 @@
 ---
 title: What would you advise a scrum team to do in their first 4 weeks?
+description: Kickstart your scrum journey! Join Martin Hinshelwood as he shares actionable goals for new scrum teams in their first 4 weeks. Embrace agile success!
 date: 2023-03-24
 videoId: 2I3S32Sk8-c
 url: /resources/videos/:slug
@@ -98,6 +99,7 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 
 

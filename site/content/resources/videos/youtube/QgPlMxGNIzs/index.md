@@ -1,5 +1,6 @@
 ---
 title: How do you think Agile is evolving since its inception in 2001?
+description: "Discover the evolution of Agile since 2001, its challenges, and the future of work in dynamic environments. Join Martin on this insightful journey! \U0001F310\U0001F680"
 date: 2023-03-22
 videoId: QgPlMxGNIzs
 url: /resources/videos/:slug
@@ -94,6 +95,7 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 
 

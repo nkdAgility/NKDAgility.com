@@ -1,5 +1,6 @@
 ---
 title: Scrum is like communism, it doesn't work. Myth 5.
+description: "Uncover the truth about Scrum governance! Join Martin as he debunks myths and reveals the balance between flexibility and compliance in product development. \U0001F680"
 date: 2024-03-04
 videoId: kORUKHu-64A
 url: /resources/videos/:slug
@@ -91,6 +92,7 @@ The narrative that Scrum disregards governance is a myth that oversimplifies the
 Remember, governance in the context of Scrum isn't about imposing unnecessary constraints; it's about empowering teams to deliver value effectively within the bounds of regulatory and organizational expectations. Let's navigate this balance together, leveraging governance as a foundation for innovation and success in our Agile endeavors.
 
 _If you found this discussion on Scrum and governance insightful and wish to explore more about Agile, Scrum, or DevOps practices, I'm here for a chat. Let's connect over a coffee chat and continue our journey towards Agile excellence together._
+
 
 
 

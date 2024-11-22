@@ -1,5 +1,6 @@
 ---
 title: What is the best application of Scrum in the world?
+description: "Discover the world's best Scrum application! Join Martin Hinshelwood as he shares inspiring case studies that transformed agile teams. #Scrum #Agile #Shorts"
 date: 2023-10-10
 videoId: mkgE6prwlj4
 url: /resources/videos/:slug
@@ -54,6 +55,7 @@ Now, this is an impressive prime example of how effective Scrum can be when impl
 Are you intrigued to unravel the secrets behind the effectiveness of Scrum and Agile?
 
 Explore my Agile and Scrum courses, which might revolutionise your perspective! 😉
+
 
 
 

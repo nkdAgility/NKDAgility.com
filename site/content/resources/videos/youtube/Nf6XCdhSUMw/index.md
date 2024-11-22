@@ -1,6 +1,6 @@
 ---
 title: Introduction to Evidence Based Management
-description: An introduction to Evidence Based Management.
+description: 'Discover the essentials of Evidence Based Management in this engaging introduction. Enhance your Agile practices today! #agile #scrum #ebm'
 date: 2024-08-14T07:12:45Z
 videoId: Nf6XCdhSUMw
 url: /resources/videos/:slug
@@ -22,7 +22,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube Nf6XCdhSUMw >}}
 
 # Introduction to Evidence Based Management
@@ -30,3 +29,4 @@ source: youtube
 An introduction to Evidence Based Management. Visit https://www.nkdagility.com #agile #scrum #ebm #evidencebasedmanagement #evidencebasedleadership #agileprojectmanagement #agileproductdevelopment
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Nf6XCdhSUMw)
+

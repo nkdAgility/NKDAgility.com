@@ -1,6 +1,6 @@
 ---
 title: My Journey into DevOps! From Web Developer to Author, Speaker, & Thought Leader.
-description: "\U0001F3AF Why Watch This Video? Explore the transformative journey of DevOps from its inception to its current critical role in efficient software delivery."
+description: "Join me on my DevOps journey from web developer to thought leader! Discover insights, challenges, and strategies for transforming software delivery. \U0001F680"
 date: 2024-04-04T11:34:59Z
 videoId: icX4XpolVLE
 url: /resources/videos/:slug
@@ -24,7 +24,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube icX4XpolVLE >}}
 
 # My Journey into DevOps! From Web Developer to Author, Speaker, & Thought Leader.
@@ -75,3 +74,4 @@ Share this video with peers and colleagues to spread the knowledge and benefits 
 Talks us through your journey with DevOps and how NKD Agility intends to help DevOps teams.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=icX4XpolVLE)
+

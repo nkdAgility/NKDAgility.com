@@ -1,5 +1,6 @@
 ---
 title: How good is the APSPO course in helping leaders determine product direction and Why?
+description: Discover how the PSPO-A course empowers managers to transition from project to product leadership, enhancing product vision and team alignment in Agile.
 date: 2023-07-24
 videoId: nTxn_izPBFQ
 url: /resources/videos/:slug
@@ -101,6 +102,7 @@ Keywords:       Agile Leadership, Product Owner, APSPOA Course, Agile Journ
 Hashtags         #AgileLeadership #ProductOwner #APSPOA #AgileJourney
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

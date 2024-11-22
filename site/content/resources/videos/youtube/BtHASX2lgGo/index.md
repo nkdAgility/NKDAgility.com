@@ -1,6 +1,6 @@
 ---
 title: 5 kinds of Agile bandits. Planning Bandits
-description: 'The Agile Illusion: Unmasking the Burndown Trap in Sprint Planning - Discover why traditional burndown charts might be misleading your Agile process.'
+description: "Unmask the burndown trap in Agile! Discover effective sprint planning strategies that prioritise value and adaptability. Watch now! \U0001F680✨"
 date: 2024-01-09T07:00:05Z
 videoId: BtHASX2lgGo
 url: /resources/videos/:slug
@@ -42,7 +42,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube BtHASX2lgGo >}}
 
 # 5 kinds of Agile bandits. Planning Bandits
@@ -74,3 +73,4 @@ Because you don't just need agility, you need Naked Agility.
 #Sprint, #ScrumTeam, #SprintPlanning, #ContinuousImprovement, #ProductBacklog
 
 [Watch on YouTube](https://www.youtube.com/watch?v=BtHASX2lgGo)
+

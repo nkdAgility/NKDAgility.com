@@ -1,6 +1,6 @@
 ---
 title: What is the most common epiphany in a PSM II course?
-description: 'The #PSMII or #advancedprofessionalscrummaster course from #scrumorg has been created to elevate the skills, competence, and capability of a #scrummaster from basic to advanced level.'
+description: Discover the key epiphanies from the PSM II course that transform Scrum Masters into advanced professionals. Elevate your agile skills today!
 date: 2023-04-27T07:00:00Z
 videoId: 1TaIjFL-0o8
 url: /resources/videos/:slug
@@ -26,7 +26,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube 1TaIjFL-0o8 >}}
 
 # What is the most common epiphany in a PSM II course?
@@ -52,3 +51,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=1TaIjFL-0o8)
+

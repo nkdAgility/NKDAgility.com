@@ -1,5 +1,6 @@
 ---
 title: Why do you trust Joanna to deliver Scrum.Org classes for NKD Agility?
+description: "Discover why Martin Hinshelwood trusts Joanna as a top Scrum trainer for NKD Agility. Elevate your team's performance with expert guidance! #Scrum #Agile"
 date: 2023-12-11
 videoId: 8gAWNn2RQgU
 url: /resources/videos/:slug
@@ -102,6 +103,7 @@ Embark on a transformative Agile journey with Joanna. Her classes are more than 
 So, are you ready to leap from good to great? 🌟 Joanna's training isn't just a class; it's the catalyst for your Agile evolution. 
 
 🔗 Secure your spot now and revolutionize the way you approach Scrum and Agile practices. #NKDAgility #AgileExcellence #ScrumMasterclass
+
 
 
 

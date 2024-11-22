@@ -1,5 +1,6 @@
 ---
 title: What is a Sprint Backlog?
+description: Discover the sprint backlog's role in Scrum! Join Martin Hinshelwood as he explains its importance for teams and stakeholders in this insightful video.
 date: 2023-10-10
 videoId: T-K7HC-ZGjM
 url: /resources/videos/:slug
@@ -86,6 +87,7 @@ It's a powerful tool, and when used right, it can be the key to unlocking unpara
 Embracing its nuances empowers teams to maintain an unwavering focus while still preserving the agility to pivot.
 
 Equip yourself to navigate these Agile and Scrum intricacies with my comprehensive courses.
+
 
 
 

@@ -1,5 +1,6 @@
 ---
 title: Biggest contribution from a Product Owner that you know of
+description: Discover the impactful role of a product owner in agile teams as Martin Hinshelwood shares a remarkable contribution that inspires product vision.
 date: 2023-11-20
 videoId: 2IuL2Qvvbfk
 url: /resources/videos/:slug
@@ -120,6 +121,7 @@ In conclusion, the contributions of Product Owners like Brian Harry and Aaron Bj
 It's a narrative that underlines the power of visionary leadership, relentless execution, and the ripple effect of pioneering change in the tech landscape. 🚀 
 
 As we continue to evolve in the Agile realm, stories like these remind us of the impact one or two individuals can have in steering the ship towards uncharted yet revolutionary waters.
+
 
 
 

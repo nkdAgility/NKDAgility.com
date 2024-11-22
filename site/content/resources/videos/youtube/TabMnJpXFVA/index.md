@@ -1,6 +1,6 @@
 ---
 title: Why are you going the immersive Scrum training route?
-description: 'scrum. org have pioneered a new format of #scrumtraining called #immersive learning, especially for #scrumcertification courses like the #professionalscrummaster and #professionalscrumproductowner courses.'
+description: Discover the benefits of immersive Scrum training with Martin Hinshelwood. Transform your skills in 4-8 day courses for real-time learning and growth!
 date: 2023-03-16T07:00:16Z
 videoId: TabMnJpXFVA
 url: /resources/videos/:slug
@@ -25,7 +25,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube TabMnJpXFVA >}}
 
 # Why are you going the immersive Scrum training route?
@@ -52,3 +51,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=TabMnJpXFVA)
+

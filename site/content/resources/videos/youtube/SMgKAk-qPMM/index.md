@@ -1,5 +1,6 @@
 ---
 title: 'Temperance in Agile: Why Less is More'
+description: "Master the art of balance in Agile with our video on Temperance! Discover how moderation maximises efficiency and elevates your Agile practices. \U0001F31F"
 date: 2024-10-05
 videoId: SMgKAk-qPMM
 url: /resources/videos/:slug
@@ -127,6 +128,7 @@ If you're ready to elevate your Agile practices and apply temperance to your bac
 - Seek help early if you struggle to find balance in your Agile processes.
 
 Agility isn’t just about moving fast—it’s about moving smart. 🌟 Find your balance, and your team will thank you for it.
+
 
 
 

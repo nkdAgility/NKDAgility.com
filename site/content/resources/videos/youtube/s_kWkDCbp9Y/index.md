@@ -1,5 +1,6 @@
 ---
 title: 'The Key to Being an Effective Agile Coach: Understanding the Team’s Context'
+description: 'Discover the fifth essential achievement for aspiring #AgileCoaches with Martin Hinshelwood. Elevate your skills and empower teams to thrive!'
 date: 2024-09-23
 videoId: s_kWkDCbp9Y
 url: /resources/videos/:slug
@@ -145,6 +146,7 @@ Remember:
 - **Continuous learning is essential** 📚.
 
 So, as you move forward in your Agile coaching journey, make it a point to dive deep into the work your teams are doing. The more you understand their world, the more effective you’ll be in helping them navigate the challenges of Agile. If you’d like to discuss Agile, Scrum, or anything else related to team dynamics, feel free to **book a coffee chat** with me. Let’s connect and share insights! ☕
+
 
 
 

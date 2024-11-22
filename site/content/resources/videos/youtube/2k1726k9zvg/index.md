@@ -1,6 +1,6 @@
 ---
 title: What is the difference between a newbie scrum master and a professional scrum master?
-description: Discover the true essence of a Scrum Master's role in our latest video.  Uncover the myths and realities of what it takes to lead effectively in a Scrum environment.
+description: "Uncover the true essence of a Scrum Master! Explore key differences between newbies and pros, and enhance your leadership skills in Scrum. \U0001F31F"
 date: 2023-03-31T07:00:03Z
 videoId: 2k1726k9zvg
 url: /resources/videos/:slug
@@ -26,7 +26,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube 2k1726k9zvg >}}
 
 # What is the difference between a newbie scrum master and a professional scrum master?
@@ -58,3 +57,4 @@ Because you don't just need agility, you need Naked Agility.
 #scrum, #agile, #projectmanagement, #productdevelopment, #agilecoach, #agileconsultant, #agiletraining, #scrumtraining, #scrumorg, #scrummaster, #productowner, #kanban, #continousdelivery, #devops, #azuredevops
 
 [Watch on YouTube](https://www.youtube.com/watch?v=2k1726k9zvg)
+

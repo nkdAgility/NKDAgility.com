@@ -1,6 +1,6 @@
 ---
 title: Making Data Driven Decisions - Decision making frameworks
-description: In this video, I explore why decision-making in agile environments is more complex than ever and why there’s no one-size-fits-all approach to using data, telemetry, or evidence-based management.
+description: Discover why agile decision-making requires flexibility and creativity in today's complex world. Embrace adaptation for success in product development!
 date: 2024-10-03T07:00:16Z
 videoId: RnMOINwjO84
 url: /resources/videos/:slug
@@ -23,7 +23,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube RnMOINwjO84 >}}
 
 # Making Data Driven Decisions - Decision making frameworks
@@ -60,3 +59,4 @@ If you found this video useful, please like, subscribe, and visit https://www.nk
 #evidencebasedmanagement #evidencebasedleadership #agile #productdevelopment #productmanager
 
 [Watch on YouTube](https://www.youtube.com/watch?v=RnMOINwjO84)
+

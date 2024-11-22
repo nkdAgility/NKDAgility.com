@@ -1,6 +1,6 @@
 ---
 title: Most destructive thing a client can do to an agile consultant?
-description: 'When #agile meets traditional #management and #projectmanagement environments, there is often a clash of culture.'
+description: Discover how traditional management practices can undermine agile consultants. Join Martin Hinshelwood as he reveals key pitfalls to avoid for success!
 date: 2023-05-01T07:00:05Z
 videoId: DceVQ5JQaUw
 url: /resources/videos/:slug
@@ -25,7 +25,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube DceVQ5JQaUw >}}
 
 # Most destructive thing a client can do to an agile consultant?
@@ -51,3 +50,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=DceVQ5JQaUw)
+

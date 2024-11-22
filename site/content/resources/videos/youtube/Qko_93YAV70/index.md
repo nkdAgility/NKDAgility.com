@@ -1,6 +1,6 @@
 ---
 title: Kanban Vs Scrum
-description: Kanban Vs Scrum.
+description: 'Explore the key differences between Kanban and Scrum in this insightful video. Discover which Agile framework suits your project best! #agile #scrum #kanban'
 date: 2024-08-13T07:04:49Z
 videoId: Qko_93YAV70
 url: /resources/videos/:slug
@@ -23,7 +23,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube Qko_93YAV70 >}}
 
 # Kanban Vs Scrum
@@ -31,3 +30,4 @@ source: youtube
 Kanban Vs Scrum. Visit https://www.nkdagility.com #agile #scrum #kanban #agileframework #agileprojectmanagement
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Qko_93YAV70)
+

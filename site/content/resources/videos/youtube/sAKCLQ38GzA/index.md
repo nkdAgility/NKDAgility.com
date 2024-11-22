@@ -1,5 +1,6 @@
 ---
 title: Does 'starting with why' - Simon Sinek - really matter?
+description: Explore the essence of motivation beyond money! Discover how 'starting with why' fuels intrinsic drive and purpose in the workplace.
 date: 2024-01-01
 videoId: sAKCLQ38GzA
 url: /resources/videos/:slug
@@ -91,6 +92,7 @@ But, what does it mean for an Agile team or a Scrum Master? Let's dive into this
 - 📈 **The Agile Advantage of Purpose**: In Agile environments, understanding and embracing the 'why' leads to more engaged teams, better products, and satisfied customers. 
 
 - 💬 **The Ongoing Journey**: The process of defining and following a purpose is an ongoing journey, requiring constant reassessment and realignment.
+
 
 
 

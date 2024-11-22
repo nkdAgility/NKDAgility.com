@@ -1,5 +1,6 @@
 ---
 title: What is the one thing a PSPO course forces you to focus on?
+description: Discover the key focus of the PSPO course and how it empowers product owners to drive value and customer satisfaction in Scrum environments.
 date: 2023-10-10
 videoId: GIq3LZUnWx4
 url: /resources/videos/:slug
@@ -76,6 +77,7 @@ Did this resonate with you?  If so, then join the conversation. 🌐 
 Your journey towards mastering the nuances of value starts here.
 
 Engage, question, and let's redefine value together.  Let's connect over coffee and discuss more.  You know where to find me - Naked Agility!
+
 
 
 

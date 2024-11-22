@@ -1,5 +1,6 @@
 ---
 title: '7 deadly sins of Agile: Pride'
+description: "Explore the dual nature of pride in Agile! Learn to harness it wisely while avoiding costly pitfalls. Join Martin for insights on data-driven success. \U0001F4CA\U0001F6AB"
 date: 2023-12-29
 videoId: BDFrmCV_c68
 url: /resources/videos/:slug
@@ -107,6 +108,7 @@ In Agile, pride must be tempered with humility and a commitment to continuous le
 - Focus on meaningful metrics, not just vanity metrics. 
 
 - Maintain a culture of humility and continuous learning.
+
 
 
 

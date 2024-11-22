@@ -1,6 +1,6 @@
 ---
 title: What is Agile?
-description: This is a video about applying agile philosophy to foster change and growth in both personal and professional realms.
+description: Discover how Agile philosophy can transform your personal and professional life. Join us for insights on growth, teamwork, and continuous improvement!
 date: 2022-10-07T10:41:41Z
 videoId: phv_2Bv2PrA
 url: /resources/videos/:slug
@@ -22,7 +22,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube phv_2Bv2PrA >}}
 
 # What is Agile?
@@ -49,3 +48,4 @@ Sign up for one of our upcoming professional Scrum classes: https://nkdagility.c
 #AgilePhilosophy, #TechnicalExcellence, #SelfOrganizingTeams, #SustainableDevelopment, #ContinuousImprovement
 
 [Watch on YouTube](https://www.youtube.com/watch?v=phv_2Bv2PrA)
+

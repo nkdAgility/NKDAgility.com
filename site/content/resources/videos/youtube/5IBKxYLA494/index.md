@@ -1,6 +1,6 @@
 ---
 title: Scrum With Azure DevOps!
-description: Uncover the secrets to transforming your Scrum and Agile practices with Azure DevOps.  From myth-busting to practical setup, embark on a journey to enhance your project's efficiency.
+description: "Transform your Scrum practices with Azure DevOps! Discover setup tips, myth-busting, and tools to boost your team's efficiency. Join the journey! \U0001F31F\U0001F6E0️"
 date: 2024-04-03T17:21:43Z
 videoId: 5IBKxYLA494
 url: /resources/videos/:slug
@@ -25,7 +25,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube 5IBKxYLA494 >}}
 
 # Scrum With Azure DevOps!
@@ -49,3 +48,4 @@ Join me as we explore the intricacies of setting up and customising Azure DevOps
 Avoid the Bug as Task anti-pattern in Azure DevOps: https://nkdagility.com/blog/avoid-bug-task-anti-pattern-azure-devops/
 
 [Watch on YouTube](https://www.youtube.com/watch?v=5IBKxYLA494)
+

@@ -1,5 +1,6 @@
 ---
 title: How much of an impact can a strong, skilled product owner have?
+description: Discover the vital role of a skilled product owner in driving team success and customer value, as Martin Hinshelwood shares insights on agile collaboration.
 date: 2023-02-27
 videoId: S3Xq6gCp7Hw
 url: /resources/videos/:slug
@@ -125,6 +126,7 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: 3rd June 2020 - Office Hours \ Ask Me Anything
-description: Bring your questions on any topic from DevOps to Agility and Martin will do his best to answer them.
+description: Join Martin, a Scrum Trainer and Azure DevOps MVP, for an engaging AMA on DevOps and Agility. Ask your questions live or submit them privately!
 date: 2020-06-04T05:33:42Z
 videoId: gc8Pq_5CepY
 url: /resources/videos/:slug
@@ -19,7 +19,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube gc8Pq_5CepY >}}
 
 # 3rd June 2020 - Office Hours \ Ask Me Anything
@@ -29,3 +28,4 @@ Bring your questions on any topic from DevOps to Agility and Martin will do his 
 If you have a sensitive question that you want answered but don’t want to ask publicly do so on https://nkdagility.net/ask
 
 [Watch on YouTube](https://www.youtube.com/watch?v=gc8Pq_5CepY)
+

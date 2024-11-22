@@ -1,6 +1,6 @@
 ---
 title: Ep 006 - Live Virtual Retrospective On PAL-e with Russell Miller
-description: This week Russell Miller and I co-taught a Professional Agile Leadership class as a Live Virtual Classroom with Microsoft Teams and Mural.
+description: Join Russell Miller and me as we discuss our experience co-teaching a Professional Agile Leadership class online, exploring tech choices and future improvements!
 date: 2020-04-25T02:29:57Z
 videoId: p3D5RjM5grA
 url: /resources/videos/:slug
@@ -24,7 +24,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube p3D5RjM5grA >}}
 
 # Ep 006 - Live Virtual Retrospective On PAL-e with Russell Miller
@@ -32,3 +31,4 @@ source: youtube
 This week Russell Miller and I co-taught a Professional Agile Leadership class as a Live Virtual Classroom with Microsoft Teams and Mural. We will be chatting about the experiance or running Live Virtual Classrooms as well as the pros and cons of the technology choices and changes that we would make for the next one.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=p3D5RjM5grA)
+

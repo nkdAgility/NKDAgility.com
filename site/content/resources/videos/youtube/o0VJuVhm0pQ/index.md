@@ -1,5 +1,6 @@
 ---
 title: In high competition markets, how does scrum product development help acquire and retain customers?
+description: "Unlock Scrum's potential in competitive markets! Discover how it enhances product development, boosts innovation, and drives customer retention. \U0001F680\U0001F4C8"
 date: 2023-03-17
 videoId: o0VJuVhm0pQ
 url: /resources/videos/:slug
@@ -140,6 +141,7 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 
 

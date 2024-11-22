@@ -1,6 +1,6 @@
 ---
 title: 3 core practices of Kanban Defining and visualizing a workflow
-description: Kanban is more than just a project management tool; it's a revolutionary approach that enhances visibility and collaboration across teams.
+description: "Unlock Kanban's potential! Learn to define and visualise workflows for enhanced efficiency, clarity, and team collaboration. Streamline your processes today! \U0001F680"
 date: 2024-02-27T07:00:31Z
 videoId: sbr8NkJSLPU
 url: /resources/videos/:slug
@@ -26,7 +26,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube sbr8NkJSLPU >}}
 
 # 3 core practices of Kanban Defining and visualizing a workflow
@@ -67,3 +66,4 @@ Struggling to implement or optimize your Kanban strategy? We're here to help! Wh
 👉 Visit NKD Agility for more insightful videos, articles, and how-to blogs designed to empower your team and elevate your project management game.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=sbr8NkJSLPU)
+

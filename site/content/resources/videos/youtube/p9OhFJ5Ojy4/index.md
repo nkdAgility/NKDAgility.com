@@ -1,6 +1,6 @@
 ---
 title: Agile in Nigeria 2020 - The Inevitability of change
-description: There is no such thing as an Agile Transformation, Digital Transformation, DevOps Transformation, or any of the Whatever Transformation that you can think of or have been sold.
+description: "Explore the essence of agility in Nigeria 2020: it's an evolution, not a transformation. Embrace continuous change for lasting organisational growth."
 date: 2020-07-22T10:08:06Z
 videoId: p9OhFJ5Ojy4
 url: /resources/videos/:slug
@@ -25,7 +25,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube p9OhFJ5Ojy4 >}}
 
 # Agile in Nigeria 2020 - The Inevitability of change
@@ -41,3 +40,4 @@ Transcript/Blog post: https://nkdagility.com/blog/evolution-not-transformation-t
 Agile Leadership Training: https://nkdagility.com/training/course-schedule/?course=11878
 
 [Watch on YouTube](https://www.youtube.com/watch?v=p9OhFJ5Ojy4)
+

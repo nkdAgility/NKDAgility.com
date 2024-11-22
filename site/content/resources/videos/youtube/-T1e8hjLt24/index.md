@@ -1,6 +1,6 @@
 ---
 title: ' shorts 5 things you would teach a produtowner apprentice. Part 5'
-description: '#shorts #shortsvideo #shortvideo Martin Hinshelwood walks us through the top 5 things he would teach a newbie #productowner.'
+description: 'Join Martin Hinshelwood in Part 5 as he shares essential lessons for aspiring product owners. Discover key insights to kickstart your journey! #shorts'
 date: 2023-12-19T11:00:00Z
 videoId: -T1e8hjLt24
 url: /resources/videos/:slug
@@ -42,7 +42,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube -T1e8hjLt24 >}}
 
 #  shorts 5 things you would teach a produtowner apprentice. Part 5
@@ -52,3 +51,4 @@ source: youtube
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=-T1e8hjLt24)
+

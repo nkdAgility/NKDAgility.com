@@ -1,5 +1,6 @@
 ---
 title: Can organisations run an Applying Professional Scrum workshop? How would that help them?
+description: Discover how an Applying Professional Scrum workshop can enhance your team's effectiveness and align with agile values for better outcomes.
 date: 2023-08-14
 videoId: olryF91pOEY
 url: /resources/videos/:slug
@@ -123,6 +124,7 @@ Hashtags:        #AgileConsulting #ScrumWorkshop #AgileTransformation #Pro
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

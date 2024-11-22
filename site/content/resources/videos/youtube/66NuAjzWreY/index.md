@@ -1,5 +1,6 @@
 ---
 title: 'Mastering Evidence-Based Management in Agile: Inform, Don’t Control'
+description: Discover how Evidence-Based Management (EBM) empowers organisations to make informed, data-driven decisions that enhance outcomes and drive success.
 date: 2024-11-18
 videoId: 66NuAjzWreY
 url: /resources/videos/:slug
@@ -161,6 +162,7 @@ Remember, it’s okay if the data doesn’t always tell you what you want to hea
 - **Use data to inform**—not dictate—your decisions.
 
 By following this approach, you can create a culture where data is a trusted advisor, not a demanding boss. This shift can lead to better decisions, more engaged teams, and ultimately, **greater value delivery** for your customers. 🚀 Now, go forth and let data be your guide—not your master!
+
 
 
 

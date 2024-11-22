@@ -1,5 +1,6 @@
 ---
 title: What is Kanban?
+description: Unlock the power of Kanban! Discover how to optimise workflows, visualise processes, and drive continuous improvement in this essential guide.
 date: 2024-06-27
 videoId: LMmKDlcIvWs
 url: /resources/videos/:slug
@@ -142,6 +143,7 @@ Kanban is more than just a method for managing work. It’s a powerful strategy 
 - **Further Reading**: Explore more about Kanban and agile methodologies on our blog.
 
 * * *
+
 
 
 

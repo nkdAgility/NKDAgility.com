@@ -1,5 +1,6 @@
 ---
 title: Why did so many of the early agile transformations fail?
+description: Discover why many early agile transformations failed and learn how to achieve success in your organisation with insights from Martin Hinshelwood.
 date: 2023-03-06
 videoId: 8nQ0VJ1CdqU
 url: /resources/videos/:slug
@@ -110,6 +111,7 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: 7 signs of the agile apocalypse. Chaos
-description: "#shorts #shortsvideo #shortvideo #agile thrives on complexity and uncertainty.  A place where you don't know the answer but you are taking a scientific, disciplined approach to discovering the right answer."
+description: "Discover the 7 signs of the #Agile apocalypse! Join Martin Hinshelwood as he explores why chaos can derail your team's success. #Agile #Scrum #Shorts"
 date: 2023-11-09T10:45:01Z
 videoId: ItvOiaC32Hs
 url: /resources/videos/:slug
@@ -42,7 +42,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube ItvOiaC32Hs >}}
 
 # 7 signs of the agile apocalypse. Chaos
@@ -63,3 +62,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ItvOiaC32Hs)
+

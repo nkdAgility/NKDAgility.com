@@ -1,6 +1,6 @@
 ---
 title: What makes a truly great scrum master?
-description: "There is a significant difference between a #projectmanager and a #scrummaster, and it's often hard for people to understand how a scrum master operates through influence, coaching, and mentoring rather than leveraging the authority and power of a traditional #projectmanager."
+description: Discover the key traits of an exceptional Scrum Master in this insightful video by Martin Hinshelwood, highlighting the power of influence over authority.
 date: 2023-03-13T07:00:19Z
 videoId: rHFhR3o849k
 url: /resources/videos/:slug
@@ -24,7 +24,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube rHFhR3o849k >}}
 
 # What makes a truly great scrum master?
@@ -49,3 +48,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=rHFhR3o849k)
+

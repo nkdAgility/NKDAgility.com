@@ -1,5 +1,6 @@
 ---
 title: How long does it take to transition from project management to Kanban?
+description: Transform your project management approach! Discover how to seamlessly transition to Kanban, optimise workflows, and embrace agile methodologies.
 date: 2024-06-28
 videoId: IU_1dJw7xk4
 url: /resources/videos/:slug
@@ -117,6 +118,7 @@ Transitioning from traditional project management to Kanban doesn't have to be d
 - **Consulting Services**: Need help implementing Kanban? Our experts are here to guide you.
 
 - **Further Reading**: Explore more about Kanban and agile methodologies on our blog.
+
 
 
 

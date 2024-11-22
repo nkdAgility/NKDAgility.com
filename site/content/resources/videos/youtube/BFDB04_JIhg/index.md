@@ -1,5 +1,6 @@
 ---
 title: 'Understanding Kanban: A Tool for Transparency and Continuous Improvement'
+description: Unlock the true power of Kanban! Discover its benefits, key metrics, and how to transform your workflows into a secret weapon for process improvement.
 date: 2024-10-27
 videoId: BFDB04_JIhg
 url: /resources/videos/:slug
@@ -151,6 +152,7 @@ Happy Kanban-ing! 😊
 - Start simple, use WIP limits, and regularly review metrics for success.
 
 🔗 **Want to learn more about Kanban and Agile practices? Reach out for personalized coaching or training sessions tailored to your team’s needs.**
+
 
 
 

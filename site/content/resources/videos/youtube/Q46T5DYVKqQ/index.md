@@ -1,6 +1,6 @@
 ---
 title: What is Empiricism
-description: '#shorts #shortsvideo #shortvideo #scrum is built on the foundation of #empiricism to help a #scrumteam learn and respond as they navigate complexity.'
+description: 'Discover the essence of empiricism in Scrum! Join Martin Hinshelwood as he explains how it empowers teams to learn and adapt in complexity. #Agile #Scrum #Shorts'
 date: 2023-08-17T07:00:09Z
 videoId: Q46T5DYVKqQ
 url: /resources/videos/:slug
@@ -28,7 +28,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube Q46T5DYVKqQ >}}
 
 # What is Empiricism
@@ -50,3 +49,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Q46T5DYVKqQ)
+

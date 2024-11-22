@@ -1,5 +1,6 @@
 ---
 title: How would you like to be remembered as a Professional Scrum Trainer?  What 3 things matter most to you?
+description: Discover how to leave a lasting legacy as a Professional Scrum Trainer and empower teams to thrive in agile environments. Join the journey!
 date: 2023-10-09
 videoId: Dl5v4j1f-WE
 url: /resources/videos/:slug
@@ -75,6 +76,7 @@ Interested in learning more about Scrum?
 Join me in my Agile and Scrum courses, where we deep-dive into these values and more.
 
 Can't wait to see you there! 🚀
+
 
 
 

@@ -1,5 +1,6 @@
 ---
 title: 'Quotes: In the past the man has been first; in the future the system must be first. Frederick Winslow Taylor'
+description: "Explore Frederick Taylor's insight on prioritising systems over individuals in management. Join Martin Hinshelwood as he unpacks this shift in thinking. #shorts"
 date: 2023-12-24
 videoId: KX1xViey_BA
 url: /resources/videos/:slug
@@ -87,6 +88,7 @@ How to ensure systems support, not stifle: 
 ## **Conclusion**  
 
 The Industrial Revolution taught us the value of systems in increasing productivity. However, in our modern Agile environments, it's crucial to remember that systems are there to serve people, not the other way around. Let’s strive for a balance where systems enhance collaboration and productivity, not hinder it.
+
 
 
 

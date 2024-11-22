@@ -1,5 +1,6 @@
 ---
 title: Why 'Definition of Done' is Crucial for Success in Scrum
+description: "Unlock the secrets of defining 'done' in agile projects with a fun bakery analogy! Perfect for scrum masters and agile teams seeking clarity. \U0001F369\U0001F956"
 date: 2024-09-20
 videoId: syzFdEP1Eso
 url: /resources/videos/:slug
@@ -135,6 +136,7 @@ Defining a strong DoD can seem tricky, especially when you're not entirely sure 
 The Definition of Done is a powerful tool in Scrum and software development. It’s not about defining the final solution but about ensuring that whatever you deliver is of the highest quality. Just like in a bakery, whether you're making donuts or baguettes, the standards you set ensure that your customers are happy, and your business thrives.
 
 So next time you’re working on a feature, remember: the Definition of Done is there to protect you, your team, and your customers. It’s not just a checklist—it’s a commitment to excellence. 🎉 **Happy baking... or coding!**
+
 
 
 

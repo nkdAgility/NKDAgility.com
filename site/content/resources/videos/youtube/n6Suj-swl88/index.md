@@ -1,6 +1,6 @@
 ---
 title: Who should lead the sprint review?
-description: '*Maximizing Sprint Review Impact: A Guide for Scrum Teams* - Discover key insights into leading a Sprint Review for maximized productivity and stakeholder engagement.'
+description: "Unlock the secrets to a successful Sprint Review! Join Martin as he guides Scrum teams on maximising productivity and stakeholder engagement. \U0001F680 #Scrum #Agile"
 date: 2023-09-06T07:00:15Z
 videoId: n6Suj-swl88
 url: /resources/videos/:slug
@@ -36,7 +36,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube n6Suj-swl88 >}}
 
 # Who should lead the sprint review?
@@ -69,3 +68,4 @@ Because you don't just need agility, you need Naked Agility.
 #scrum, #agile, #projectmanagement, #productdevelopment, #agilecoach, #agileconsultant, #agiletraining, #scrumtraining, #scrumorg, #scrummaster, #productowner, #kanban, #continuousdelivery, #devops, #azuredevops.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=n6Suj-swl88)
+

@@ -1,5 +1,6 @@
 ---
 title: Scrum Master versus seasoned Agile Coach?
+description: 'Discover the key differences between a Scrum Master and a seasoned Agile Coach with Martin Hinshelwood in this insightful short! #Agile #Scrum #Shorts'
 date: 2023-11-14
 videoId: 54-Zw2A7zEM
 url: /resources/videos/:slug
@@ -65,6 +66,7 @@ Both of these roles have their merits, but if you're seeking to deeply embed Agi
 Are you eager to learn more about Agile nuances, roles, and best practices?
 
 Check out my Agile and Scrum courses and learn how to harness the power of Agile for your organisation! 📚🔥
+
 
 
 

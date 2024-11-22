@@ -1,5 +1,6 @@
 ---
 title: 7 harbingers of the Agile apocalypse. Judgement.
+description: "Unlock the essence of Agile! \U0001F680 Join Martin as he explores core principles, pitfalls of prescriptive methods, and what truly motivates today's workforce."
 date: 2024-02-22
 videoId: FdQpGx-FW-0
 url: /resources/videos/:slug
@@ -102,6 +103,7 @@ The journey to true business agility is fraught with challenges, but by embracin
 Feeling inspired or want to dive deeper into Agile, Scrum, or DevOps discussions? Let's grab a virtual coffee and explore the endless possibilities together. Until next time, keep challenging the norm and driving towards excellence. 🚀
 
 _Enjoyed this exploration? Follow, subscribe, and engage for more insights on navigating the agile landscape._
+
 
 
 

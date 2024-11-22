@@ -1,6 +1,6 @@
 ---
 title: Advanced PSM II Immersive Learning Classes
-description: 'If your organization KNOW that you should be getting better outcomes from their #scrummaster now is a great time to invest in a private Advanced Professional Scrum Master immersive learning experience.'
+description: 'Unlock better outcomes with our Advanced PSM II immersive classes! Invest in your Scrum Master today. Discover more at nkdagility.com. #agile #scrum'
 date: 2024-09-20T11:04:29Z
 videoId: Bi4ToMME8Xs
 url: /resources/videos/:slug
@@ -25,7 +25,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube Bi4ToMME8Xs >}}
 
 # Advanced PSM II Immersive Learning Classes
@@ -33,3 +32,4 @@ source: youtube
 If your organization KNOW that you should be getting better outcomes from their #scrummaster now is a great time to invest in a private Advanced Professional Scrum Master immersive learning experience. Visit https://www.nkdagility.com to explore how we can help you. #agile #scrum
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Bi4ToMME8Xs)
+

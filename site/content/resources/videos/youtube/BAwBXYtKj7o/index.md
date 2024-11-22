@@ -1,6 +1,6 @@
 ---
 title: The Power of Automated Testing
-description: "\U0001F44B Hi, I’m Martin Hinshelwood from [NKD Agility]( and in this video, I dive into the critical role automated testing plays in modern software engineering."
+description: Discover how automated testing transforms software engineering, reducing errors and speeding up feedback for high-quality, efficient delivery.
 date: 2024-11-21T07:00:11Z
 videoId: BAwBXYtKj7o
 url: /resources/videos/:slug
@@ -30,7 +30,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube BAwBXYtKj7o >}}
 
 # The Power of Automated Testing
@@ -76,3 +75,4 @@ At [NKD Agility](https://www.nkdagility.com), we help teams implement modern eng
 #agile #agileproductdevelopment #agileprojectmanagement #agileproductmanagement #productdevelopment #productmanager #productowner #projectmanager #scrummasters
 
 [Watch on YouTube](https://www.youtube.com/watch?v=BAwBXYtKj7o)
+

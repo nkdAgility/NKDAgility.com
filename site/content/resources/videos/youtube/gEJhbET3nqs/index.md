@@ -1,6 +1,6 @@
 ---
 title: Professional Agile Leadership Essentials Overview
-description: You will understand where and how agility can help your organization improve, by addressing challenges you can solve in no other way.
+description: Unlock your organisation's potential with our Agile Leadership Essentials course. Learn to enhance agility, support teams, and measure success effectively.
 date: 2020-07-07T20:10:33Z
 videoId: gEJhbET3nqs
 url: /resources/videos/:slug
@@ -23,7 +23,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube gEJhbET3nqs >}}
 
 # Professional Agile Leadership Essentials Overview
@@ -34,3 +33,4 @@ Course Page: https://nkdagility.com/training/courses/professional-agile-leadersh
 Upcoming Classes: https://nkdagility.com/training/course-schedule/
 
 [Watch on YouTube](https://www.youtube.com/watch?v=gEJhbET3nqs)
+

@@ -1,6 +1,6 @@
 ---
 title: How is technology like AI changing the world we work in?
-description: Over the past 150 years, there have been significant periods of rapid change as a new technology is adopted and deployed into our work environments.
+description: Discover how AI and technology are transforming our work environments and why embracing these changes is essential for future success.
 date: 2023-07-05T14:49:20Z
 videoId: fcOSewXez3I
 url: /resources/videos/:slug
@@ -22,7 +22,6 @@ sitemap:
 source: youtube
 
 ---
-
 {{< youtube fcOSewXez3I >}}
 
 # How is technology like AI changing the world we work in?
@@ -45,3 +44,4 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=fcOSewXez3I)
+

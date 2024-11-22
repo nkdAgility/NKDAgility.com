@@ -1,5 +1,6 @@
 ---
 title: 3 best ways to wreck Kanban. Don't have a working agreement.
+description: Discover the top 3 pitfalls of Kanban adoption and learn why a working agreement is essential for team alignment and success in agile collaboration!
 date: 2024-07-03
 videoId: h6yumCOP-aE
 url: /resources/videos/:slug
@@ -109,6 +110,7 @@ Without a working agreement, teams operate in a state of total disarray:
 Establishing a working agreement is crucial for the success of any team, whether using Kanban, Scrum, or another methodology. By sitting down and agreeing on how to work together, teams can achieve alignment, efficiency, and ultimately, success.
 
 If you’re struggling to implement a Kanban strategy, we can help or connect you with someone who can. Click the link below and get in touch today.
+
 
 
 
