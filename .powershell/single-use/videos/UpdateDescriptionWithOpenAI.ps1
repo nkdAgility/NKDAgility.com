@@ -20,12 +20,17 @@ $videoFolders | ForEach-Object {
         # Load markdown as HugoMarkdown object
         $hugoMarkdown = Get-HugoMarkdown -Path $markdownFile
         
+        if ($hugoMarkdown.FrontMatter.description) {
+            Write-Host "Skipping folder: $videoDir (description already exists)"
+            return
+        }
+
         # Generate a new description using OpenAI
         $prompt = "Generate a concise, engaging description of no more than 160 characters for the following video: '$($videoData.snippet.title)'. The video details are: '$($videoData.snippet.description)'"
         $description = Get-OpenAIResponse -Prompt $prompt
 
         # Update the description in the front matter
-        $updatedFrontMatter = Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'description' -fieldValue $description -addAfter 'title' -Overwrite
+        $updatedFrontMatter = Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'description' -fieldValue $description -addAfter 'title'
 
         # Save updated markdown
         $hugoMarkdown.FrontMatter = $updatedFrontMatter
