@@ -1,5 +1,6 @@
 ---
 title: ' shorts 7 Virtues of agile. Temperance'
+description: '#shorts #shortvideo #shortsvideo 7 Virtues of #agile.  Temperance. Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.'
 date: 2023-12-05T11:00:27Z
 videoId: b-2TDkEew2k
 url: /resources/videos/:slug

@@ -1,5 +1,6 @@
 ---
 title: What you will be able to do after the PPDV course
+description: What you will be able to do after the PPDV course with Dr Joanna Plaskonka.  Visit  to register.
 date: 2024-08-27T07:07:18Z
 videoId: OFUsZq0TKoo
 url: /resources/videos/:slug

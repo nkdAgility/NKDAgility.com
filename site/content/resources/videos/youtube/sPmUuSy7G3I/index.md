@@ -1,5 +1,6 @@
 ---
 title: How does a scrum team plan and prioritize work effectively?
+description: 'In a #projectmanagement environment, the people doing the work are often separated from the customers and project stakeholders they are doing the work for.'
 date: 2023-03-24T07:00:30Z
 videoId: sPmUuSy7G3I
 url: /resources/videos/:slug

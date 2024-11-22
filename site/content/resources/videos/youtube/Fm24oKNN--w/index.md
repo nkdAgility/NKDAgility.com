@@ -1,5 +1,6 @@
 ---
 title: nkdAgility Healthgrades Interview CJSingh
+description: Martin Hinshelwood trained over 150 people at Healthgrades in the fundamentals of Scrum.  This got everyone on the same page, and since the course was practical it won over the most hardened detractors.
 date: 2017-07-27T18:16:30Z
 videoId: Fm24oKNN--w
 url: /resources/videos/:slug

@@ -1,5 +1,6 @@
 ---
 title: ' shorts 7 Virtues of Agile. Chastity'
+description: '#shorts #shortsvideo #shortvideo 7 virtues of #agile, presented by Martin Hinshelwood.  First virtue, #chastity.'
 date: 2023-12-04T11:00:23Z
 videoId: OMlLiLkCmMY
 url: /resources/videos/:slug

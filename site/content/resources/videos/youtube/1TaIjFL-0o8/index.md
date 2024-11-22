@@ -1,5 +1,6 @@
 ---
 title: What is the most common epiphany in a PSM II course?
+description: 'The #PSMII or #advancedprofessionalscrummaster course from #scrumorg has been created to elevate the skills, competence, and capability of a #scrummaster from basic to advanced level.'
 date: 2023-04-27T07:00:00Z
 videoId: 1TaIjFL-0o8
 url: /resources/videos/:slug

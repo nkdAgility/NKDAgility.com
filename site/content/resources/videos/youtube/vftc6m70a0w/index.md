@@ -1,5 +1,6 @@
 ---
 title: 7 Virtues of agile. Chastity
+description: "\U0001F680 Unlock the Secrets of Agile Success with \"The Seven Virtues of Agility: Embracing Chastity in Business\"!"
 date: 2023-12-04T08:39:06Z
 videoId: vftc6m70a0w
 url: /resources/videos/:slug

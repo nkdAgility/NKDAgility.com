@@ -1,5 +1,6 @@
 ---
 title: Famine! 7 Harbingers agile apocalypse. But shorter!
+description: 'One of the 7 signs of the #agile apocalypse is Famine. Famine happens when you are starved of feedback, reviews, and information that can help the team create products that truly delight customers.'
 date: 2023-10-31T07:00:18Z
 videoId: k4F9DSE99Ok
 url: /resources/videos/:slug

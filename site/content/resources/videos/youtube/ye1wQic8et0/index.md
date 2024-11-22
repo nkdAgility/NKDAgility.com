@@ -1,5 +1,6 @@
 ---
 title: It's said that you can reduce time to market by up to 50% simply by removing committees. True?
+description: Are committees slowing down your time to market?  Discover the impact of traditional management practices on your business's agility.
 date: 2023-10-02T07:00:33Z
 videoId: ye1wQic8et0
 url: /resources/videos/:slug

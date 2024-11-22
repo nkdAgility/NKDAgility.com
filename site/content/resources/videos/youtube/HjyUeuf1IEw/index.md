@@ -1,5 +1,6 @@
 ---
 title: 20th May 2020 - Office Hours \ Ask Me Anything
+description: Bring your questions on any topic from DevOps to Agility and Martin will do his best to answer them.
 date: 2020-05-21T05:26:17Z
 videoId: HjyUeuf1IEw
 url: /resources/videos/:slug

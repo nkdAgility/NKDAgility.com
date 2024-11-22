@@ -1,5 +1,6 @@
 ---
 title: Azure DevOps Migration services. Part 1
+description: DevOps Migration Services from NKD Agility.
 date: 2024-09-03T09:57:36Z
 videoId: 2Sal3OneFfo
 url: /resources/videos/:slug

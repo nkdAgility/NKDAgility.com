@@ -1,5 +1,6 @@
 ---
 title: Should Companies Take Money Off The Table - with Martin , Michael , & Rijon
+description: "### Panel Description: \"Should Companies Take Money Off the Table? In today's fast-paced business environment, the debate over the role of financial incentives in driving employee motivation is more relevant than ever."
 date: 2024-09-03T03:33:58Z
 videoId: f8q2fBkUez0
 url: /resources/videos/:slug

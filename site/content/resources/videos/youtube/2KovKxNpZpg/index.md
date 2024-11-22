@@ -1,5 +1,6 @@
 ---
 title: Pet Peeve in Scrum
+description: '#shorts As a #professionalscrumtrainer, #scrum expert, and #agileconsultant, Martin Hinshelwood has worked with multiple clients, in multiple applications of #scrum, in multiple geographies around the world.'
 date: 2023-04-28T09:30:00Z
 videoId: 2KovKxNpZpg
 url: /resources/videos/:slug

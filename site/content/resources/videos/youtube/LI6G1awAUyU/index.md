@@ -1,5 +1,6 @@
 ---
 title: What are the most common challenges you are contracted to solve in a DevOps consulting gig?
+description: "#devops is that mysterious partner to #agile in many environments.  It's something that has stumped many an #agilecoach or #agileconsultant, because it requires knowledge and practise in the environment to thrive."
 date: 2023-04-21T07:00:06Z
 videoId: LI6G1awAUyU
 url: /resources/videos/:slug

@@ -1,5 +1,6 @@
 ---
 title: What is the sprint planning workshop and how will it help organizations?
+description: '#sprintplanning is a critical event in #scrum.  Getting it right sets the tone for a great #sprint and ensures that the team are working on the most valuable work items.'
 date: 2023-06-29T07:00:19Z
 videoId: xJsuDbsFzlw
 url: /resources/videos/:slug

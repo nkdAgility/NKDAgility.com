@@ -1,5 +1,6 @@
 ---
 title: Silence - 7 signs of the agile apocalypse. But shorter!
+description: There's the kind of silence that brings peace into your world, the kind of silence that enables you to pause, reflect, and discover the deeper solutions that prove so elusive when you're running at full speed.
 date: 2023-11-02T11:30:10Z
 videoId: KHcSWD2tV6M
 url: /resources/videos/:slug

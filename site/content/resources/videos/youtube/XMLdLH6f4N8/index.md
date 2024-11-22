@@ -1,5 +1,6 @@
 ---
 title: nkdAgility Healthgrades Interview Katherine Maddox
+description: When you are teaching over 150 people at an organisation it is important that your Trainer fits with the culture that you are trying to create.
 date: 2017-07-28T11:55:30Z
 videoId: XMLdLH6f4N8
 url: /resources/videos/:slug

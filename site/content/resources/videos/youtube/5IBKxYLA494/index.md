@@ -1,5 +1,6 @@
 ---
 title: Scrum With Azure DevOps!
+description: Uncover the secrets to transforming your Scrum and Agile practices with Azure DevOps.  From myth-busting to practical setup, embark on a journey to enhance your project's efficiency.
 date: 2024-04-03T17:21:43Z
 videoId: 5IBKxYLA494
 url: /resources/videos/:slug

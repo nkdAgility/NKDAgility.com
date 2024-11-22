@@ -1,5 +1,6 @@
 ---
 title: Ep 007 - Running a Live Virtual Classroom
+description: Its important that Students in Live Virtual Classrooms are already familure with the technology that is going to be used by the instructors.
 date: 2020-05-02T16:34:05Z
 videoId: _bjNHN4PI9s
 url: /resources/videos/:slug

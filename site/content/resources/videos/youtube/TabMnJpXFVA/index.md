@@ -1,5 +1,6 @@
 ---
 title: Why are you going the immersive Scrum training route?
+description: 'scrum. org have pioneered a new format of #scrumtraining called #immersive learning, especially for #scrumcertification courses like the #professionalscrummaster and #professionalscrumproductowner courses.'
 date: 2023-03-16T07:00:16Z
 videoId: TabMnJpXFVA
 url: /resources/videos/:slug

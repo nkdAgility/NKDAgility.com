@@ -1,5 +1,6 @@
 ---
 title: Talk us through the new Product Backlog Management course from Scrum.org
+description: "#shorts #shortvideo #shortsvideo If you're interested in the new Professional Scrum Product Backlog Management course from @ScrumOrg you'll find this excerpt from Martin Hinshelwood talking about the new course valuable."
 date: 2023-11-30T11:00:31Z
 videoId: R8Ris5quXb8
 url: /resources/videos/:slug

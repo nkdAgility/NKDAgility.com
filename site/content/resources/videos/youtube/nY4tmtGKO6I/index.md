@@ -1,5 +1,6 @@
 ---
 title: Why is training such a critical element in a scrummaster journey?
+description: "People assume that the #scrummaster accountability is a junior, administrative role when in fact, it's a #leadership and #agilecoaching accountability that requires a deeply skilled, committed individual at the helm."
 date: 2023-11-28T11:00:49Z
 videoId: nY4tmtGKO6I
 url: /resources/videos/:slug

@@ -1,5 +1,6 @@
 ---
 title: Antichrist! 7 Harbingers agile apocalypse. But shorter!
+description: "Dive into the crux of Agile's biggest challenge: the rise of fake agilists, often termed as the Agile \"Antichrist."
 date: 2023-10-30T07:00:13Z
 videoId: XZ1Swam_Cx0
 url: /resources/videos/:slug

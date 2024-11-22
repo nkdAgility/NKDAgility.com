@@ -1,5 +1,6 @@
 ---
 title: Judgement! 7 Harbingers agile apocalypse. But shorter!
+description: If you're fortunate, your journey to wisdom and excellence is informed by learning, coaching, and mentoring.
 date: 2023-11-01T11:30:27Z
 videoId: xk11NhTA_V8
 url: /resources/videos/:slug

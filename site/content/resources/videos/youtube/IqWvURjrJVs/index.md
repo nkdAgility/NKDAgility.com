@@ -1,5 +1,6 @@
 ---
 title: Znaczenie znajomości terenu
+description: Znaczenie znajomości terenu.  Czego możemy się nauczyć o zwinności na podstawie narodowego polskiego sportu, czyli zbierania grzybów?
 date: 2023-08-10T14:45:00Z
 videoId: IqWvURjrJVs
 url: /resources/videos/:slug

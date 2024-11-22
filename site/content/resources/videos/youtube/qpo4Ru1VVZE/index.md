@@ -1,5 +1,6 @@
 ---
 title: DevOps Migration. Compatibility Problems
+description: In this video, we address compatibility concerns when migrating from TFS on-premises to Azure DevOps in the cloud.
 date: 2024-11-06T05:45:03Z
 videoId: qpo4Ru1VVZE
 url: /resources/videos/:slug

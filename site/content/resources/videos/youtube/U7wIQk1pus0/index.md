@@ -1,5 +1,6 @@
 ---
 title: Install TFS 2013 Basic
+description: I have not done an installation from scratch for a while so I thought that I would share a TFS basic install.
 date: 2014-01-14T17:18:19Z
 videoId: U7wIQk1pus0
 url: /resources/videos/:slug

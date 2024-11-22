@@ -1,5 +1,6 @@
 ---
 title: Can you talk about the Kanban workshop and why it's a great option for organizations
+description: '#scrum is a great solution for teams wanting to acquire an #agileframework to help navigate complexity in #productdevelopment.'
 date: 2023-08-23T07:00:10Z
 videoId: RSPw8pZ9NT8
 url: /resources/videos/:slug

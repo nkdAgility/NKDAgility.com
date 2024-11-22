@@ -1,5 +1,6 @@
 ---
 title: 7 signs of the agile apocalypse. War
+description: '#shorts #shortsvideo #shortvideo War is a terrible sign that your #agiletransformation is headed for disaster.'
 date: 2023-11-07T11:30:07Z
 videoId: GGtb7Yg8gHY
 url: /resources/videos/:slug

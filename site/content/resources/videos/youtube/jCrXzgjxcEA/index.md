@@ -1,5 +1,6 @@
 ---
 title: Kanban with Azure DevOps
+description: "Unlocking Kanban's Full Potential with Azure DevOps: A Deep Dive - Discover how Azure DevOps transforms Kanban for hybrid work environments, enhancing visualization, collaboration, and workflow efficiency."
 date: 2024-03-29T16:42:17Z
 videoId: jCrXzgjxcEA
 url: /resources/videos/:slug

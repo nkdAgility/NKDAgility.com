@@ -1,5 +1,6 @@
 ---
 title: What excites you most about the PAL e immersive learning journey for delegates?
+description: The Professional Agile Leadership - Essentials (PAL-E) course from Scrum. Org has just gone immersive!
 date: 2023-07-13T12:06:17Z
 videoId: OWvCS3xb7pQ
 url: /resources/videos/:slug

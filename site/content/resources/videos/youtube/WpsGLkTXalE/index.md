@@ -1,5 +1,6 @@
 ---
 title: 7 signs of the agile apocalypse. Silence
+description: '#shorts #shortsvideo #shortvideo Stillness is key to great work.  The ability to reflect, do the deep work, and remain calm is a super power.'
 date: 2023-11-10T06:45:01Z
 videoId: WpsGLkTXalE
 url: /resources/videos/:slug

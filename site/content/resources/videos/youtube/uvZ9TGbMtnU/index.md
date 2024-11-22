@@ -1,5 +1,6 @@
 ---
 title: ' shorts 5 kinds of Agile bandits. 1st Kind'
+description: '#shorts #shortvideo #shortsvideo Martin Hinshelwood walks us through the 5 kinds of #agile bandits.'
 date: 2024-01-04T12:14:45Z
 videoId: uvZ9TGbMtnU
 url: /resources/videos/:slug

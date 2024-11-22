@@ -1,5 +1,6 @@
 ---
 title: Biggest misconception about a scrum master
+description: 'Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.'
 date: 2023-06-21T11:00:52Z
 videoId: zs0q_zz8-JY
 url: /resources/videos/:slug

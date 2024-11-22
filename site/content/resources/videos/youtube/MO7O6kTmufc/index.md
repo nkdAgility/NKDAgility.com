@@ -1,5 +1,6 @@
 ---
 title: Introduction to Evidence-based Management Excerpt 2
+description: ""
 date: 2024-09-12T13:46:15Z
 videoId: MO7O6kTmufc
 url: /resources/videos/:slug

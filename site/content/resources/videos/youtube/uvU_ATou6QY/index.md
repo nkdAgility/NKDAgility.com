@@ -1,5 +1,6 @@
 ---
 title: What does failure look like as a product owner?
+description: Recognizing the Signs of a Failing Product Owner.  Uncover the indicators of a failing product owner!
 date: 2023-09-22T07:00:32Z
 videoId: uvU_ATou6QY
 url: /resources/videos/:slug

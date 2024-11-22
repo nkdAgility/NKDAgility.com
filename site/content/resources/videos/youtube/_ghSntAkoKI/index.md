@@ -1,5 +1,6 @@
 ---
 title: Live Virtual Professional Agile Leadership in 5 minutes!
+description: What is our training all about?  Maybe this timelapse overview of the full four half-days of training will help you.
 date: 2021-10-22T10:56:51Z
 videoId: _ghSntAkoKI
 url: /resources/videos/:slug

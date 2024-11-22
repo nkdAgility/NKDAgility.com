@@ -1,5 +1,6 @@
 ---
 title: Install TFS 2013 Release Management
+description: Have you seen how easy it is to install and configure a full release management suite with Visual Studio 2013?
 date: 2014-01-21T16:36:55Z
 videoId: NG9Y1_qQjvg
 url: /resources/videos/:slug

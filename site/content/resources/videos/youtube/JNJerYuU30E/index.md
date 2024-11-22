@@ -1,5 +1,6 @@
 ---
 title: Most Influential Person in Agile - Jerónimo Palacios
+description: '#shorts As we progress in our #agile career, we are often privileged to meet people who shape the trajectory of our career and experiences in meaningful, powerful ways.'
 date: 2023-05-04T07:00:07Z
 videoId: JNJerYuU30E
 url: /resources/videos/:slug

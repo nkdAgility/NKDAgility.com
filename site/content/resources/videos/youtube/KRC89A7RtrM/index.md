@@ -1,5 +1,6 @@
 ---
 title: Some of the features of Team Web Access are not available to you in TFS 2013
+description: Have you ever seen the massage "Some of the features of Team Web Access are not available to you" when you access TFS 2013?
 date: 2014-01-15T14:55:37Z
 videoId: KRC89A7RtrM
 url: /resources/videos/:slug

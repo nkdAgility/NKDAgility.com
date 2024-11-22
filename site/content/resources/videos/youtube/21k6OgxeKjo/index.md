@@ -1,5 +1,6 @@
 ---
 title: ' shorts 5 kinds of Agile bandits. 5th kind'
+description: '#shorts #shortsvideo #shortvideo Martin Hinshelwood walks us through the 5 #agile bandits. Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.'
 date: 2024-01-10T11:00:01Z
 videoId: 21k6OgxeKjo
 url: /resources/videos/:slug

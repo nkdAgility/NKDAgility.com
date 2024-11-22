@@ -1,5 +1,6 @@
 ---
 title: What is Agile?
+description: This is a video about applying agile philosophy to foster change and growth in both personal and professional realms.
 date: 2022-10-07T10:41:41Z
 videoId: phv_2Bv2PrA
 url: /resources/videos/:slug

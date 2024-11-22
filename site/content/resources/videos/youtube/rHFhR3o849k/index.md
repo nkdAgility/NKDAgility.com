@@ -1,5 +1,6 @@
 ---
 title: What makes a truly great scrum master?
+description: "There is a significant difference between a #projectmanager and a #scrummaster, and it's often hard for people to understand how a scrum master operates through influence, coaching, and mentoring rather than leveraging the authority and power of a traditional #projectmanager."
 date: 2023-03-13T07:00:19Z
 videoId: rHFhR3o849k
 url: /resources/videos/:slug

@@ -1,5 +1,6 @@
 ---
 title: Slaying the dragons and how to successfully descale at scale with BCS & FoWS
+description: Many organisations don’t really want to change how they do business and believe that they can continue on how they always have while still getting better at delivering software.
 date: 2020-03-25T21:07:01Z
 videoId: i_DglXgaePM
 url: /resources/videos/:slug

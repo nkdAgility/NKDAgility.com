@@ -1,5 +1,6 @@
 ---
 title: 5 October 2023 Agile Leader Webinar
+description: "\U0001F31F Exclusive Webcast: \"Agile Leadership & Agile Transformation\" with Dr. Dive into the world of Agile with two of the industry's foremost experts, Dr."
 date: 2023-09-28T10:27:47Z
 videoId: tPX-wc6pG7M
 url: /resources/videos/:slug

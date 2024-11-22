@@ -1,5 +1,6 @@
 ---
 title: Sloth! 7 deadly sins of Agile.
+description: Sloth, one of the seven deadly sins of Agile, can manifest in various ways across teams, organisations, and leadership.
 date: 2023-10-20T16:01:48Z
 videoId: uCFIW_lEFuc
 url: /resources/videos/:slug

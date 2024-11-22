@@ -1,5 +1,6 @@
 ---
 title: Favourite scrum course to teach and why?
+description: '#shorts #shortsvideo #shortvideo Martin Hinshelwood talks about his favourite #scrumcourse to teach, and why that #scrumtraining resonates so much.'
 date: 2023-09-05T07:00:12Z
 videoId: WIVDWzps4aY
 url: /resources/videos/:slug

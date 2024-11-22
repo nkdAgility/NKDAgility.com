@@ -1,5 +1,6 @@
 ---
 title: Agile Consulting Services overview
+description: '#agileconsulting can appear somewhat nebulous because of the adaptive and responsive nature of consulting engagements.'
 date: 2023-06-17T07:30:02Z
 videoId: 82_yTGt9pLM
 url: /resources/videos/:slug

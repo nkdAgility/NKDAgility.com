@@ -1,5 +1,6 @@
 ---
 title: ' shorts 7 Virtues of agile. Patience'
+description: '#shorts #shortsvideo #shortvideo 7 virtues of #agile.  Patience. Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.'
 date: 2023-12-08T11:00:09Z
 videoId: 4p5xeJZXvcE
 url: /resources/videos/:slug

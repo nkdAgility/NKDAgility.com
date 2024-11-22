@@ -1,5 +1,6 @@
 ---
 title: Compromises you need to think about for your azuredevops migration. Excerpt 2
+description: 'Compromises you need to think about for your #azuredevops migration.  Excerpt 2.  Watch the full video at  #agile #devops #devopsmigration Visit  if you need help with your migration.'
 date: 2024-09-19T11:05:27Z
 videoId: KzNbrrBCmdE
 url: /resources/videos/:slug

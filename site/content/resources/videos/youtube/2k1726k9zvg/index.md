@@ -1,5 +1,6 @@
 ---
 title: What is the difference between a newbie scrum master and a professional scrum master?
+description: Discover the true essence of a Scrum Master's role in our latest video.  Uncover the myths and realities of what it takes to lead effectively in a Scrum environment.
 date: 2023-03-31T07:00:03Z
 videoId: 2k1726k9zvg
 url: /resources/videos/:slug

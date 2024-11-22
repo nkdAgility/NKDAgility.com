@@ -1,5 +1,6 @@
 ---
 title: Professional Scrum Product Owner (PSPO) - Discover product management skills & practices
+description: The Professional Scrum Product Owner is a hands-on, activity-based course where students explore Professional Scrum and develop an understanding of the Product Owner’s critical role on the Scrum Team.
 date: 2022-08-23T17:22:20Z
 videoId: 6SSgETsq8IQ
 url: /resources/videos/:slug

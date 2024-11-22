@@ -1,5 +1,6 @@
 ---
 title: Mastering Azure DevOps Migration - A Comprehensive Guide by NKDAgility
+description: Unlock the potential of Azure DevOps migration tools with this comprehensive tutorial!  We dive deep into features, functionalities, and efficient practices.
 date: 2019-10-17T19:16:03Z
 videoId: RCJsST0xBCE
 url: /resources/videos/:slug

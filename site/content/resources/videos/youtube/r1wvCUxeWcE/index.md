@@ -1,5 +1,6 @@
 ---
 title: Kanban Boards
+description: Kanban Boards.
 date: 2024-08-16T07:04:15Z
 videoId: r1wvCUxeWcE
 url: /resources/videos/:slug

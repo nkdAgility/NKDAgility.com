@@ -1,5 +1,6 @@
 ---
 title: 5 kinds of Agile bandits. Planning Bandits
+description: 'The Agile Illusion: Unmasking the Burndown Trap in Sprint Planning - Discover why traditional burndown charts might be misleading your Agile process.'
 date: 2024-01-09T07:00:05Z
 videoId: BtHASX2lgGo
 url: /resources/videos/:slug

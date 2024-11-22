@@ -1,5 +1,6 @@
 ---
 title: Why do you think the Advanced PSPO course is a perfect fit for entrepreneurs?
+description: 'A great #productowner is a game-changer in the organization because they help shape and articulate the product vision, mission, and goals.'
 date: 2023-05-08T07:00:15Z
 videoId: spfK8bCulwU
 url: /resources/videos/:slug

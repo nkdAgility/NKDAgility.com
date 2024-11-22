@@ -1,5 +1,6 @@
 ---
 title: PPDV course overview with Dr Joanna Plaskonka
+description: Thinking of doing the PPDV course?  Here's a quick overview of the course from Dr Joanna Plaskonka.
 date: 2024-08-13T07:14:40Z
 videoId: fUj1k47pDg8
 url: /resources/videos/:slug

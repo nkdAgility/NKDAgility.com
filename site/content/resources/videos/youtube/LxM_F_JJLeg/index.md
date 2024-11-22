@@ -1,5 +1,6 @@
 ---
 title: Don’t put down to malevolence what can be explained by incompetence
+description: We often mistake incompetence for malevolence in our agile journeys.  Dive deep into how the system's incompetence can overshadow our efforts.
 date: 2023-09-29T07:00:14Z
 videoId: LxM_F_JJLeg
 url: /resources/videos/:slug

@@ -1,5 +1,6 @@
 ---
 title: Continuous Improvement with Kanban
+description: 'Continuous Improvement with #kanban.'
 date: 2024-08-14T07:04:17Z
 videoId: V44iUwv0Jcg
 url: /resources/videos/:slug

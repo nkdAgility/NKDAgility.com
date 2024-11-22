@@ -1,5 +1,6 @@
 ---
 title: What is a scrum master? Why are they essential?
+description: Unlock the full potential of your team with the insights from a Scrum Master expert.  Learn the crucial role they play in guiding teams towards high efficiency and value delivery in Agile environments.
 date: 2023-05-22T14:00:41Z
 videoId: wjYFdWaWfOA
 url: /resources/videos/:slug

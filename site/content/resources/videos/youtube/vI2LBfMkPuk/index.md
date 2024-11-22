@@ -1,5 +1,6 @@
 ---
 title: What is your favourite agile course to deliver and why?
+description: 'Martin Hinshelwood has deep experience as a #softwareengineer, #agilecoach, #agileconsultant, and #professionalscrumtrainer.'
 date: 2023-01-09T12:36:53Z
 videoId: vI2LBfMkPuk
 url: /resources/videos/:slug

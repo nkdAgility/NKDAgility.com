@@ -1,5 +1,6 @@
 ---
 title: Ep005 - Leading Agile Change
+description: Leading Agile Change is hard and many companies have already been through their agile evolution.  What learnings have they found to increase the value delivered.
 date: 2020-04-17T18:57:11Z
 videoId: r_Af7X25IDk
 url: /resources/videos/:slug

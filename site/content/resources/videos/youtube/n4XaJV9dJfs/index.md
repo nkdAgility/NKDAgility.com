@@ -1,5 +1,6 @@
 ---
 title: What is the most useful element of the APS course for beginner Scrum Teams?
+description: Unlock the secrets to navigating Scrum complexity with ease!  Dive into our insightful exploration of agile project landscapes.
 date: 2023-11-15T07:00:28Z
 videoId: n4XaJV9dJfs
 url: /resources/videos/:slug

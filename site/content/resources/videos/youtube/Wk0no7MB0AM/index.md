@@ -1,5 +1,6 @@
 ---
 title: War! 7 Harbingers agile apocalypse. But shorter!
+description: War is one of the seven signs of the Agile-pocolypse! As an Agile expert, I'm passionate about helping teams to succeed.
 date: 2023-10-30T14:30:10Z
 videoId: Wk0no7MB0AM
 url: /resources/videos/:slug

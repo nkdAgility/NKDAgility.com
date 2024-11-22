@@ -1,5 +1,6 @@
 ---
 title: How does the lack of basic skills among Scrum Masters impact teams and organizations
+description: Un this video, we’re diving into why Scrum Master competence is critical for team and organizational success.
 date: 2024-10-21T05:32:11Z
 videoId: r9aCEFpUHWU
 url: /resources/videos/:slug

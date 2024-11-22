@@ -1,5 +1,6 @@
 ---
 title: DevOps Migration. Incomplete Migrations
+description: 'In this video, I address a common concern in Azure DevOps migrations: the fear of incomplete migrations and data loss.'
 date: 2024-11-07T05:45:02Z
 videoId: x6a_BuQq580
 url: /resources/videos/:slug

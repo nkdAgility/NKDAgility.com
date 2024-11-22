@@ -1,5 +1,6 @@
 ---
 title: 3 steps developers must follow if the product owner is incompetent
+description: Facing challenges with an ineffective product owner?  Learn how the Scrum Master and team can navigate this situation.
 date: 2023-10-27T14:30:10Z
 videoId: JGQ5zW6F6Uc
 url: /resources/videos/:slug

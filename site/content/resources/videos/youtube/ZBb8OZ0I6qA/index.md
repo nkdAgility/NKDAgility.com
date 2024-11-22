@@ -1,5 +1,6 @@
 ---
 title: Why its imposible to order a hierarchy, and what you can do instead!
+description: Discover how to revolutionize your project management approach by ditching traditional backlog hierarchies for a more flexible, value-focused system.
 date: 2024-03-26T10:56:26Z
 videoId: ZBb8OZ0I6qA
 url: /resources/videos/:slug

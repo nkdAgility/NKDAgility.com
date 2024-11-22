@@ -1,5 +1,6 @@
 ---
 title: DevOps Migration. Lack of Expertise
+description: Migrating to Azure DevOps can be a one-time, complex project that often requires specialized expertise.
 date: 2024-11-08T05:45:01Z
 videoId: 4Tjc5uEtM7M
 url: /resources/videos/:slug

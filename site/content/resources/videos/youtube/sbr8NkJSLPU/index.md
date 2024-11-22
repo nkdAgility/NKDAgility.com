@@ -1,5 +1,6 @@
 ---
 title: 3 core practices of Kanban Defining and visualizing a workflow
+description: Kanban is more than just a project management tool; it's a revolutionary approach that enhances visibility and collaboration across teams.
 date: 2024-02-27T07:00:31Z
 videoId: sbr8NkJSLPU
 url: /resources/videos/:slug

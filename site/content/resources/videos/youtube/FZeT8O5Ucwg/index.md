@@ -1,5 +1,6 @@
 ---
 title: The Tyranny of Taylorism & how to detect Agile BS!
+description: Something very close to my heart is helping folks understand the origin of the practices that are commonly used in management today.
 date: 2020-03-18T13:56:05Z
 videoId: FZeT8O5Ucwg
 url: /resources/videos/:slug

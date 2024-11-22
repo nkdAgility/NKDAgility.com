@@ -1,5 +1,6 @@
 ---
 title: Unleash your team's full potential
+description: 'Quality Code: Achieving Engineering Excellence with NKD Agility.'
 date: 2024-11-20T08:02:36Z
 videoId: WEYf9jWG9wk
 url: /resources/videos/:slug

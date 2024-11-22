@@ -1,5 +1,6 @@
 ---
 title: Does a client tell an agile consultant what they need or does it work the other way around?
+description: "Making the transition from #projectmanagement to #agile #productdevelopment can be intimidating.  You don't know where to start, you aren't sure of what the top priorities are, and you may not even be 100% clear about what problems you are trying to solve."
 date: 2023-03-01T07:00:00Z
 videoId: -Mz9cH0uiTQ
 url: /resources/videos/:slug

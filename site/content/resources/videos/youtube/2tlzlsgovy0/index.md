@@ -1,5 +1,6 @@
 ---
 title: 6 things you didn't know about Agile Product Management but really should Part 2
+description: Visit  Is your team truly Agile?  Do your team members clearly understand the product vision and how their daily work contributes to your strategic goals?
 date: 2024-07-03T06:45:00Z
 videoId: 2tlzlsgovy0
 url: /resources/videos/:slug

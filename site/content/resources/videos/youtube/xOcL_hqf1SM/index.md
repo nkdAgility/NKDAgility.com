@@ -1,5 +1,6 @@
 ---
 title: What 5 things must you achieve before you call yourself an agilecoach. Part 3
+description: 'Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.'
 date: 2023-11-15T11:01:00Z
 videoId: xOcL_hqf1SM
 url: /resources/videos/:slug

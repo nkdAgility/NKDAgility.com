@@ -1,5 +1,6 @@
 ---
 title: What is your 1 tip for effective sprint planning?
+description: 'A core focus of #projectmanagement is efficiency and resource utilization.  In other words, is everyone busy and are we as productive as we can be.'
 date: 2023-05-26T14:00:37Z
 videoId: uQ786VBz3Jw
 url: /resources/videos/:slug

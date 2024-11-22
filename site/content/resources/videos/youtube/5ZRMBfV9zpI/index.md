@@ -1,5 +1,6 @@
 ---
 title: Professional Scrum Master (PSM) training class from naked Agility with Martin Hinshelwood [mktng]
+description: This workshop is for practitioners that are interested in starting a career as a Scrum Master, existing Scrum Masters, agile coaches, and consultants trying to improve their use of Scrum.
 date: 2022-07-27T18:45:17Z
 videoId: 5ZRMBfV9zpI
 url: /resources/videos/:slug

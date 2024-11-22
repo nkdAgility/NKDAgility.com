@@ -1,5 +1,6 @@
 ---
 title: How will a PSM II course challenge your assumptions the most?
+description: 'The #PSMII or #advancedprofessionalscrummaster course, developed by #scrumorg, has been designed to escalate the knowledge, skills, and capabilities of a #scrummaster to a more advanced, professional level.'
 date: 2023-05-12T14:00:02Z
 videoId: 3YBrq-cle_w
 url: /resources/videos/:slug

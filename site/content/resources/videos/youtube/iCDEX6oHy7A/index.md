@@ -1,5 +1,6 @@
 ---
 title: Ep 004 - Chat with Jim Sammons on professionalism and conflicting priorities
+description: Jim is a Professional Scrum Trainer and an active Agile consultant at Loop Agility.
 date: 2020-04-07T20:33:45Z
 videoId: iCDEX6oHy7A
 url: /resources/videos/:slug

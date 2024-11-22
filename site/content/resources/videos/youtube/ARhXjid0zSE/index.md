@@ -1,5 +1,6 @@
 ---
 title: 7 signs of the agile apocalypse. Famine
+description: '#shorts #shortsvideo #shortvideo #agile loves abundance.  An abundance of ideas, creativity, and collaboration.'
 date: 2023-11-08T06:45:00Z
 videoId: ARhXjid0zSE
 url: /resources/videos/:slug

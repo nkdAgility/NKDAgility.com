@@ -1,5 +1,6 @@
 ---
 title: Why did Healthgrades choose Martin Hinshelwood
+description: Its important to get the right fit for your organisation.  Is your trainer right for you?  Do they create the right level of infectious optimism?
 date: 2017-07-28T12:40:03Z
 videoId: DWL0PLkFazs
 url: /resources/videos/:slug

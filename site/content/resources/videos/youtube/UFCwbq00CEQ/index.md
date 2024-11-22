@@ -1,5 +1,6 @@
 ---
 title: ' shorts 5 kinds of Agile bandits. 2nd kind'
+description: "#shorts #shortvideo #shortsvideo Martin Hinshelwood walks us through the 5 #agile bandits.  This video features 'say-do' metrics."
 date: 2024-01-05T11:00:32Z
 videoId: UFCwbq00CEQ
 url: /resources/videos/:slug

@@ -1,5 +1,6 @@
 ---
 title: Advanced PSM II Immersive Learning Classes
+description: 'If your organization KNOW that you should be getting better outcomes from their #scrummaster now is a great time to invest in a private Advanced Professional Scrum Master immersive learning experience.'
 date: 2024-09-20T11:04:29Z
 videoId: Bi4ToMME8Xs
 url: /resources/videos/:slug

@@ -1,5 +1,6 @@
 ---
 title: Connecting Release Manageer to TFS 2013
+description: ""
 date: 2014-01-02T15:27:09Z
 videoId: 9CkvfRic8e0
 url: /resources/videos/:slug

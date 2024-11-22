@@ -1,5 +1,6 @@
 ---
 title: 7 signs of the agile apocalypse. Plague
+description: '#shorts #shortvideo #shortsvideo In deeply interconnected, integrated environments there is a lot that can go wrong.'
 date: 2023-11-08T11:00:53Z
 videoId: pDAL84mht3Y
 url: /resources/videos/:slug

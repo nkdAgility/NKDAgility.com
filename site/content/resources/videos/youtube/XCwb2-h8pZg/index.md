@@ -1,5 +1,6 @@
 ---
 title: Kanban with Team Foundation Service
+description: ""
 date: 2013-08-17T07:27:19Z
 videoId: XCwb2-h8pZg
 url: /resources/videos/:slug

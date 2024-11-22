@@ -1,5 +1,6 @@
 ---
 title: How is technology like AI changing the world we work in?
+description: Over the past 150 years, there have been significant periods of rapid change as a new technology is adopted and deployed into our work environments.
 date: 2023-07-05T14:49:20Z
 videoId: fcOSewXez3I
 url: /resources/videos/:slug

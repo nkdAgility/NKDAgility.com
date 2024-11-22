@@ -1,5 +1,6 @@
 ---
 title: Sending email from Office 365 for TFS 2013
+description: Have you ever tried to configure emails for an application to send through office 365?
 date: 2014-01-02T15:58:51Z
 videoId: oHH_ES7fNWY
 url: /resources/videos/:slug

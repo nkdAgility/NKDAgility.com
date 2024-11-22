@@ -1,5 +1,6 @@
 ---
 title: Making Business Decisions with Evidence! What is evidence-based management?
+description: "\U0001F680 Explore the Power of Evidence-Based Management in This Essential Video! Understand the concept of evidence-based management and its impact on leadership."
 date: 2024-01-25T07:00:13Z
 videoId: MCkSBdzRK_c
 url: /resources/videos/:slug

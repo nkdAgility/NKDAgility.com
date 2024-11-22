@@ -1,5 +1,6 @@
 ---
 title: Why is training such a critical element in a manager or leader journey?
+description: '#shorts #shortsvideo #shortvideo Transitioning from a #projectmanager or traditional #manager to an #agileleader can be super tricky, especially if you have never received training.'
 date: 2023-11-29T11:00:03Z
 videoId: 2-AyrLPg-8Y
 url: /resources/videos/:slug

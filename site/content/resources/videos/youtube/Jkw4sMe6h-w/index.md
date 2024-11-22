@@ -1,5 +1,6 @@
 ---
 title: How is Agile Leadership different to traditional management?
+description: 'Joanna Plaskonka talks about the difference between #agileleadership and traditional line #management.'
 date: 2023-08-09T13:43:27Z
 videoId: Jkw4sMe6h-w
 url: /resources/videos/:slug

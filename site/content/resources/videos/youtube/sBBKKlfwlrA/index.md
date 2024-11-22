@@ -1,5 +1,6 @@
 ---
 title: Professional Scrum with Nexus (SPS) with Certification - Learn skills to overcome scaling challenges
+description: The Scaled Professional Scrum is a hands-on, activity-based course where students develop a collection of skills that can be applied to overcome challenges when scaling Scrum.
 date: 2022-08-23T16:53:08Z
 videoId: sBBKKlfwlrA
 url: /resources/videos/:slug

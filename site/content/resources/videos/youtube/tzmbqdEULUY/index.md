@@ -1,5 +1,6 @@
 ---
 title: DevOps Migration. Downtime
+description: 'In this video, we tackle one of the most critical challenges in Azure DevOps data migration: minimizing downtime.'
 date: 2024-11-05T06:00:34Z
 videoId: tzmbqdEULUY
 url: /resources/videos/:slug

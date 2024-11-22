@@ -1,5 +1,6 @@
 ---
 title: What is Empiricism
+description: '#shorts #shortsvideo #shortvideo #scrum is built on the foundation of #empiricism to help a #scrumteam learn and respond as they navigate complexity.'
 date: 2023-08-17T07:00:09Z
 videoId: Q46T5DYVKqQ
 url: /resources/videos/:slug

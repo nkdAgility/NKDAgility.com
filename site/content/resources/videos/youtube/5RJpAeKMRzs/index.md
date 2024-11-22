@@ -1,5 +1,6 @@
 ---
 title: The 7 Deadly Sins of Agile!
+description: This video unravels the complex challenges of implementing an agile philosophy within organizations.
 date: 2024-04-14T12:17:16Z
 videoId: 5RJpAeKMRzs
 url: /resources/videos/:slug

@@ -1,5 +1,6 @@
 ---
 title: What should have been way more popular in Agile than it currently is?
+description: Discover the often-overlooked key to Agile success that goes beyond just tools and techniques.  Learn how principles, not tools, drive effective Agile practices.
 date: 2023-05-03T07:00:33Z
 videoId: y2TObrUi3m0
 url: /resources/videos/:slug

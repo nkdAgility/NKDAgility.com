@@ -3,7 +3,7 @@
       "@context": "https://schema.org",
       "@type": "VideoObject",
       "name": "{{$.Page.Title}}",
-      "description": "{{$.Page.Summary | plainify}}",
+      "description": "{{ ($.Page.Description | default $.Page.Summary) | plainify}}",
       "thumbnailUrl": [
         {{ $.Page.Params.preview | absURL }}
        ],

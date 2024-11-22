@@ -1,5 +1,6 @@
 ---
 title: Why is training such a critical element in a productowner journey
+description: '#shorts #shortsvideo #shortvideo Many people are assigned the #productowner accountability without any formal #scrumtraining or skills development.'
 date: 2023-11-27T11:00:56Z
 videoId: xLUsgKWzkUM
 url: /resources/videos/:slug

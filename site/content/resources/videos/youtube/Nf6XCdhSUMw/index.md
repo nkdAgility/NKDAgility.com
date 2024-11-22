@@ -1,5 +1,6 @@
 ---
 title: Introduction to Evidence Based Management
+description: An introduction to Evidence Based Management.
 date: 2024-08-14T07:12:45Z
 videoId: Nf6XCdhSUMw
 url: /resources/videos/:slug

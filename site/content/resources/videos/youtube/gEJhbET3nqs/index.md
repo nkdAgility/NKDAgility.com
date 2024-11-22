@@ -1,5 +1,6 @@
 ---
 title: Professional Agile Leadership Essentials Overview
+description: You will understand where and how agility can help your organization improve, by addressing challenges you can solve in no other way.
 date: 2020-07-07T20:10:33Z
 videoId: gEJhbET3nqs
 url: /resources/videos/:slug

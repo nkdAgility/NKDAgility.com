@@ -1,5 +1,6 @@
 ---
 title: Why did you embrace Agile over traditional project management as a developer?
+description: "Agile's Journey: A Developer's Transition from Traditional to Agile Practices - Explore a developer's insightful journey from traditional project management to the empowering world of Agile and DevOps."
 date: 2023-03-02T07:00:01Z
 videoId: 4FTEJ4tDQqU
 url: /resources/videos/:slug

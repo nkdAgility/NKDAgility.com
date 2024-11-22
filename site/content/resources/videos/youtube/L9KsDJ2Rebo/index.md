@@ -1,5 +1,6 @@
 ---
 title: What excites you most about the PSM immersive learning journey for delegates?
+description: As a Professional Scrum Trainer (PST), Kanban Dan is focused on helping delegates acquire the knowledge, skills, and capabilities they need to shine in the workplace.
 date: 2023-07-13T07:45:48Z
 videoId: L9KsDJ2Rebo
 url: /resources/videos/:slug

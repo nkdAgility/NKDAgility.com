@@ -1,5 +1,6 @@
 ---
 title: 05 October 2023 Agile Leadership Webinar
+description: '#shorts #shortsvideo #shortvideo Join Martin Hinshelwood and Dr Joanna Plaskonka for an 18-minute presentation on #agileleadership and #agileentrepreneurship in the 21st Century.'
 date: 2023-09-28T11:09:12Z
 videoId: E2OBcBqZGoA
 url: /resources/videos/:slug

@@ -1,5 +1,6 @@
 ---
 title: What was your worst day as an agile consultant?
+description: "#agileconsulting can be incredibly rewarding and fulfilling. You get to work with amazing clients and for the most part, you're the dreamweaver that empowers the team to successfully adopt #agile and rock with #productdevelopment."
 date: 2023-04-04T07:00:16Z
 videoId: sKYVNHcf1jg
 url: /resources/videos/:slug

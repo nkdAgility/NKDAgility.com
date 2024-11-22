@@ -1,5 +1,6 @@
 ---
 title: Is a scrum master an agile project manager?
+description: "#shorts #shortsvideo #agile doesn't have a #projectmanager role and neither does #scrum.  Sometimes, people think a #scrummaster is an #agileprojectmanager but they aren't."
 date: 2023-05-24T07:00:23Z
 videoId: QpK99s9uheM
 url: /resources/videos/:slug

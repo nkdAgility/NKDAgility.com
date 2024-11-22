@@ -1,5 +1,6 @@
 ---
 title: Installing TFS 2013 Standard
+description: Have you tried to install TFS 2013?  Its so ridiculously easy compared to early versions of TFS that you can do it in your sleep.
 date: 2014-01-15T13:38:13Z
 videoId: U69JMzIZXro
 url: /resources/videos/:slug

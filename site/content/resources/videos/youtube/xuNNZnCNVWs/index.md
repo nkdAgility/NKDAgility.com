@@ -1,5 +1,6 @@
 ---
 title: 1 critical skill for a scrum master and why?
+description: '#youtubeshorts presents Martin Hinshelwood raising 1 critical skill for a #scrummaster in under 60 seconds.'
 date: 2023-04-27T07:00:31Z
 videoId: xuNNZnCNVWs
 url: /resources/videos/:slug

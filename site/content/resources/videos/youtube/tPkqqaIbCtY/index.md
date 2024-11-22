@@ -1,5 +1,6 @@
 ---
 title: ' shorts 7 Virtues of agile. Kindness'
+description: '#shorts #shortsvideo #shortvideo 7 virtues of #agile. Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.'
 date: 2023-12-11T11:00:47Z
 videoId: tPkqqaIbCtY
 url: /resources/videos/:slug

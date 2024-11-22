@@ -1,5 +1,6 @@
 ---
 title: NKD Agility Consulting Approach
+description: "Due to the lack of regulation in the Agile industry, there are a number of people who have had poor experiences with people who claim to be an #agilecoach, but don't possess the skills, certifications, and experience to be one."
 date: 2024-05-09T06:45:00Z
 videoId: BJZdyEqHhXc
 url: /resources/videos/:slug

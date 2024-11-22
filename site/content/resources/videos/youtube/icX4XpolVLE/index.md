@@ -1,5 +1,6 @@
 ---
 title: My Journey into DevOps! From Web Developer to Author, Speaker, & Thought Leader.
+description: "\U0001F3AF Why Watch This Video? Explore the transformative journey of DevOps from its inception to its current critical role in efficient software delivery."
 date: 2024-04-04T11:34:59Z
 videoId: icX4XpolVLE
 url: /resources/videos/:slug

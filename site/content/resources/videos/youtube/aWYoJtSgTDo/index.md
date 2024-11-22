@@ -1,5 +1,6 @@
 ---
 title: The importance of knowing the territory.
+description: "#agileleadership is about sensing opportunities, responding to threats, and making valuable decisions even when you don't have all the information you need."
 date: 2023-08-10T13:30:01Z
 videoId: aWYoJtSgTDo
 url: /resources/videos/:slug

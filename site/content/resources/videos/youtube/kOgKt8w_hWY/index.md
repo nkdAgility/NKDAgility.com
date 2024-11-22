@@ -1,5 +1,6 @@
 ---
 title: Live Event - An Enterprise Evolution that Shows that You Can Too
+description: ""
 date: 2020-06-16T12:16:52Z
 videoId: kOgKt8w_hWY
 url: /resources/videos/:slug

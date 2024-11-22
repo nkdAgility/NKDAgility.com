@@ -1,5 +1,6 @@
 ---
 title: Considerations for your Azure DevOps migration. Excerpt 1
+description: 'Compromises you need to think about for your #azuredevops migration.  Excerpt 1.'
 date: 2024-09-18T11:59:33Z
 videoId: XEtys2DOkKU
 url: /resources/videos/:slug

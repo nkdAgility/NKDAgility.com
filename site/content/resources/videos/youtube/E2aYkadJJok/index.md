@@ -1,5 +1,6 @@
 ---
 title: Kanban Boards for Campaign Success - The Ultimate Guide to Visualizing Your Workflow
+description: Ready to supercharge your campaigns with Kanban?  This video dives into the essential role Kanban boards play in visualizing your workflow and maximizing campaign effectiveness.
 date: 2024-07-08T06:00:07Z
 videoId: E2aYkadJJok
 url: /resources/videos/:slug

@@ -1,5 +1,6 @@
 ---
 title: Most valuable lesson you learned as an agile consultant
+description: 'Making the transition from #agilepractitioner to #agileconsultant can be tough, mainly because you are now working with teams of #agile teams rather than your own work, or team environment.'
 date: 2023-06-22T07:00:15Z
 videoId: MutnPwNzyXM
 url: /resources/videos/:slug

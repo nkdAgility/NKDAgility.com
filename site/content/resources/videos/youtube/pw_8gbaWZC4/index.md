@@ -1,5 +1,6 @@
 ---
 title: How Top Teams Use Pull Systems!
+description: Discover the transformative power of Kanban in optimizing pull systems for continuous improvement.  This video unveils practical strategies and insights for enhancing workflow efficiency, identifying bottlenecks, and making data-driven decisions that propel productivity.
 date: 2024-03-08T07:00:31Z
 videoId: pw_8gbaWZC4
 url: /resources/videos/:slug

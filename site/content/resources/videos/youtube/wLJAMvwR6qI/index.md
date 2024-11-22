@@ -1,5 +1,6 @@
 ---
 title: PPDV learning outcomes with Dr Joanna Plaskonka
+description: Professional Product Discovery and Validation course learning outcomes.  Visit  to register.
 date: 2024-08-20T07:06:21Z
 videoId: wLJAMvwR6qI
 url: /resources/videos/:slug

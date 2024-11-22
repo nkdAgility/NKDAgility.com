@@ -1,5 +1,6 @@
 ---
 title: Kanban principles
+description: Kanban Principles.
 date: 2024-08-17T19:03:52Z
 videoId: 220tyMrhSFE
 url: /resources/videos/:slug

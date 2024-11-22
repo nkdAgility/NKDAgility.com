@@ -1,5 +1,6 @@
 ---
 title: 3rd June 2020 - Office Hours \ Ask Me Anything
+description: Bring your questions on any topic from DevOps to Agility and Martin will do his best to answer them.
 date: 2020-06-04T05:33:42Z
 videoId: gc8Pq_5CepY
 url: /resources/videos/:slug

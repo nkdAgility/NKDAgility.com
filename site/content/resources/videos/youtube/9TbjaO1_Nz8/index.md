@@ -1,5 +1,6 @@
 ---
 title: Would you recommend the PSPO course to an entrepreneur and why?
+description: 'The #PSPO or #ProfessionalScrumProductOwner course from #scrumorg has an intense focus on value creation, and how to effectively manage and grow a product in a way that delights customers and disrupts competitors.'
 date: 2023-05-16T14:00:07Z
 videoId: 9TbjaO1_Nz8
 url: /resources/videos/:slug

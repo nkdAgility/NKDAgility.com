@@ -1,5 +1,6 @@
 ---
 title: Overview of the 8-week Immersive learning experience
+description: '*Unlocking Real-World Value with Immersive Learning: A Scrum. org Insight* - Explore the transformative power of immersive learning in this insightful video.'
 date: 2023-06-08T07:00:30Z
 videoId: qrEqX_5FWM8
 url: /resources/videos/:slug

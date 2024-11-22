@@ -1,5 +1,6 @@
 ---
 title: Who should lead the sprint review?
+description: '*Maximizing Sprint Review Impact: A Guide for Scrum Teams* - Discover key insights into leading a Sprint Review for maximized productivity and stakeholder engagement.'
 date: 2023-09-06T07:00:15Z
 videoId: n6Suj-swl88
 url: /resources/videos/:slug

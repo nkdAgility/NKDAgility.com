@@ -1,5 +1,6 @@
 ---
 title: Redefining test driven development
+description: 'Redefining test driven development.  Excerpt from our "Quality Code: Achieving Engineering Excellence with NKD Agility" series.'
 date: 2024-11-19T16:55:41Z
 videoId: CWxkBJJduCE
 url: /resources/videos/:slug

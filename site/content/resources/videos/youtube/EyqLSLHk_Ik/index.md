@@ -1,5 +1,6 @@
 ---
 title: Product Development Mentoring Program
+description: How do you create a great product if you don't know what you can't possibly know?  How do you navigate uncertainty and complexity when there is so much at stake?
 date: 2024-05-07T11:02:49Z
 videoId: EyqLSLHk_Ik
 url: /resources/videos/:slug

@@ -1,5 +1,6 @@
 ---
 title: 5 tools that Scrum Masters love. Part 4
+description: '#shorts #shortsvideo #shortvideo 5 tools that a #scrummaster loves. Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting  to help teams evolve, integrate, and continuously improve.'
 date: 2023-09-26T07:00:02Z
 videoId: 79M9edUp_5c
 url: /resources/videos/:slug

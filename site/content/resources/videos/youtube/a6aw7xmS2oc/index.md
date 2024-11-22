@@ -1,5 +1,6 @@
 ---
 title: What are the top 3 things a product owner needs to bear in mind when adopting an entrepreneur stance
+description: 'The Entrepreneurial Stance: Key Considerations for Product Owners!  Dive into the entrepreneurial mindset of product owners!'
 date: 2023-09-20T07:00:00Z
 videoId: a6aw7xmS2oc
 url: /resources/videos/:slug

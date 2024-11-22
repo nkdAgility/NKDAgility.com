@@ -1,5 +1,6 @@
 ---
 title: 7 signs of the agile apocalypse. The Antichrist
+description: '#shorts #shortsvideo #shortvideo In the context of the #agile industry, the anti-christ represents fake experts who sell snake oil and hype up customer expectations.'
 date: 2023-11-07T07:36:21Z
 videoId: T07AK-1FAK4
 url: /resources/videos/:slug

@@ -1,5 +1,6 @@
 ---
 title: How much of a competitive edge will the immersive PSM course deliver to delegates?
+description: 'The immersive learning experiences were developed to help raise the standard of a #scrummaster entering the industry, and to provide additional value for organizations that wanted to really upskill their teams.'
 date: 2023-07-13T07:41:01Z
 videoId: cb6JpfomYRU
 url: /resources/videos/:slug

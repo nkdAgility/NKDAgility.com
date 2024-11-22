@@ -1,5 +1,6 @@
 ---
 title: Technical debt costs you more than you think
+description: Technical debt costs you more than you think.
 date: 2024-11-20T16:53:31Z
 videoId: 1M2_AVqoRbs
 url: /resources/videos/:slug

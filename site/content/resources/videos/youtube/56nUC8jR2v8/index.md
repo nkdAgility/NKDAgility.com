@@ -1,5 +1,6 @@
 ---
 title: The tyranny of Taylorism and how to spot agile lies
+description: ""
 date: 2020-06-24T17:48:17Z
 videoId: 56nUC8jR2v8
 url: /resources/videos/:slug

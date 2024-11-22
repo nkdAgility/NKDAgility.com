@@ -1,5 +1,6 @@
 ---
 title: 7 signs of the agile apocalypse. Judgement
+description: "#shorts #shortvideo #shortsvideo Sometimes, making mistakes isn't a bad thing because it is the path to continuous learning, improved decision-making, and ultimately, great judgement."
 date: 2023-11-09T06:45:04Z
 videoId: uRqsRNq-XRY
 url: /resources/videos/:slug

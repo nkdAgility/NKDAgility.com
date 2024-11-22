@@ -1,5 +1,6 @@
 ---
 title: Live Virtual Professional Scrum Product Owner in 5 minutes!
+description: What is our training all about?  Maybe this timelapse overview of the full four half-days of training will help you.
 date: 2021-10-22T10:52:48Z
 videoId: fayDa6ihe0g
 url: /resources/videos/:slug

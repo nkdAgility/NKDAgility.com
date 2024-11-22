@@ -1,5 +1,6 @@
 ---
 title: ' shorts 5 things you would teach a productowner apprentice. Part 4'
+description: '#shorts #shortvideo #shortsvideo Martin Hinshelwood walks us through the top 5 things he would teach a newbie #productowner.'
 date: 2023-12-18T11:00:15Z
 videoId: M5U-Pdn_ZrE
 url: /resources/videos/:slug

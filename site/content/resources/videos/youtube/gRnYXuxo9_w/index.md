@@ -1,5 +1,6 @@
 ---
 title: Scrum Value, Openness, What does it mean and why does it matter?
+description: Discover how openness revolutionizes team dynamics and drives success in Scrum.  Dive deep into the vital role of transparency and trust in this insightful discussion.
 date: 2023-04-28T07:00:30Z
 videoId: gRnYXuxo9_w
 url: /resources/videos/:slug

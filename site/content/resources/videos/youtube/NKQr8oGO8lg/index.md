@@ -1,5 +1,6 @@
 ---
 title: How much of a competitive edge will the immersive PAL e course deliver to delegates?
+description: '#leadership is always about developing practices, skills, and systems that help you acquire competitive advantage, and #agileleadership even more so because we work in a complex environment.'
 date: 2023-07-13T12:16:15Z
 videoId: NKQr8oGO8lg
 url: /resources/videos/:slug

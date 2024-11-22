@@ -1,5 +1,6 @@
 ---
 title: The Scrum Framework!
+description: Scrum is a lightweight framework that helps people, teams, and organizations generate value through adaptive solutions for complex problems.
 date: 2022-10-18T16:13:02Z
 videoId: Q2Fo3sM6BVo
 url: /resources/videos/:slug

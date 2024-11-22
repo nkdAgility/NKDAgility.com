@@ -1,5 +1,6 @@
 ---
 title: PPDV Course Overview
+description: Visit  to find out more about the PPDV course from Scrum.
 date: 2024-08-09T05:39:57Z
 videoId: YGyx4i3-4ss
 url: /resources/videos/:slug

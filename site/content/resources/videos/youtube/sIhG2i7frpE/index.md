@@ -1,5 +1,6 @@
 ---
 title: Improving workflow with Kanban
+description: 'Improving workflow with #kanban.'
 date: 2024-08-15T07:04:39Z
 videoId: sIhG2i7frpE
 url: /resources/videos/:slug

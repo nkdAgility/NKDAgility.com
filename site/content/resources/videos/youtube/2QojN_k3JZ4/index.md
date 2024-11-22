@@ -1,5 +1,6 @@
 ---
 title: ' shorts 7 Virtues of agile. Diligence'
+description: '#shorts #shortvideo #shortsvideo 7 virtues of #agile.  Diligence. Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.'
 date: 2023-12-07T11:00:05Z
 videoId: 2QojN_k3JZ4
 url: /resources/videos/:slug

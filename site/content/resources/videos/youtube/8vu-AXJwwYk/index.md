@@ -1,5 +1,6 @@
 ---
 title: How much of an impact can a great agile consultant have?
+description: 'In 2001, a group of brilliant #softwareengineers came together to define and articulate a new style of #productdevelopment based on their collective knowledge, experience, and experimentation with #agileframeworks.'
 date: 2023-01-24T07:30:02Z
 videoId: 8vu-AXJwwYk
 url: /resources/videos/:slug

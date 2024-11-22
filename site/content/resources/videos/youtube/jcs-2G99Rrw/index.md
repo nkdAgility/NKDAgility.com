@@ -1,5 +1,6 @@
 ---
 title: Top 4 Rookie Mistakes in Azure DevOps
+description: Unpack 4 critical Azure DevOps pitfalls that make the Azure DevOps product teams' toes curl! Enjoy this video?
 date: 2024-04-09T08:00:20Z
 videoId: jcs-2G99Rrw
 url: /resources/videos/:slug

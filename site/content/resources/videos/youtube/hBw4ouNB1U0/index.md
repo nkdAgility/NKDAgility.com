@@ -1,5 +1,6 @@
 ---
 title: The Kanban Key - How Continuous Improvement Transforms Your Workflow
+description: 'Tired of stagnant processes and lackluster results?  This video dives into the heart of Kanban: continuous improvement.'
 date: 2024-08-19T06:45:02Z
 videoId: hBw4ouNB1U0
 url: /resources/videos/:slug

@@ -1,5 +1,6 @@
 ---
 title: Shifting Left. Quality from the Start
+description: "\U0001F44B Hi, I’m Martin Hinshelwood from [NKD Agility]( and in this video, I explore the transformative concept of **shifting left** in modern software engineering."
 date: 2024-11-20T07:00:26Z
 videoId: s4h2K62V_d0
 url: /resources/videos/:slug

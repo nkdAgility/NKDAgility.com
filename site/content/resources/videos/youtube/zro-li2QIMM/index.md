@@ -1,5 +1,6 @@
 ---
 title: ' shorts 7 Virtues of agile. Charity'
+description: '#shorts #shortsvideo #shortvideo 7 virtues of #agile.  Charity. Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.'
 date: 2023-12-06T11:01:01Z
 videoId: zro-li2QIMM
 url: /resources/videos/:slug

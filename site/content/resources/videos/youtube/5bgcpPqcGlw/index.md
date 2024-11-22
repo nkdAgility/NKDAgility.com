@@ -1,5 +1,6 @@
 ---
 title: Agile Evolution - Live Site Culture & Site Reliability at Azure DevOps
+description: With the shift-left movement pushing more responsibility to the engineering teams what practices will help them cope with running a production site.
 date: 2020-06-04T02:05:28Z
 videoId: 5bgcpPqcGlw
 url: /resources/videos/:slug

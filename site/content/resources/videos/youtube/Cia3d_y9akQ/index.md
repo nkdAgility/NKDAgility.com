@@ -1,5 +1,6 @@
 ---
 title: What are some of the most common misconceptions you encounter about the Scrum Master role?
+description: In this video, I tackle the widespread misconceptions surrounding the role of a Scrum Master, especially the difference between organizational roles and the true accountabilities as defined by Scrum.
 date: 2024-10-25T07:02:17Z
 videoId: Cia3d_y9akQ
 url: /resources/videos/:slug
