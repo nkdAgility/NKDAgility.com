@@ -68,6 +68,7 @@ function Get-NewMarkdownContents {
         isShort      = $isShort
         tags         = $tags
         sitemap      = @{ filename = "sitemap.xml"; priority = 0.4 }
+        source       = "youtube"
     }
 
     # Convert ordered hash to YAML front matter
@@ -103,7 +104,7 @@ function Update-YoutubeMarkdownFiles {
             # If index.md does not exist, we should create it
             $shouldUpdate = $true
         }
-        elseif ((Test-Path $markdownFile) -and (Get-Content -Path $markdownFile -Raw) -match 'canonicalUrl:') {
+        elseif ((Test-Path $markdownFile) -and (Get-Content -Path $markdownFile -Raw) -match 'source: youtube') {
             # If index.md exists and contains 'canonicalUrl', we should update it
             $shouldUpdate = $true
         }

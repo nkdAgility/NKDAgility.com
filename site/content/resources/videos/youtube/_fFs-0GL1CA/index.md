@@ -22,6 +22,7 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+source: youtube
 
 ---
 
