@@ -16,7 +16,6 @@ tags:
 - Scrum Training
 - Agile
 - Agile Scrum Training
-- Scrum Certification
 - Scrum Master
 - Product Owner
 sitemap:
