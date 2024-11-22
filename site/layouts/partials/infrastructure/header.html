@@ -9,6 +9,8 @@
     | <a href="#debugArea" class="">Debug Info</a>
   </div>
 {{ end }}
+
+
 <header>
   <!-- Topbar Navigation -->
   <div class="container-fluid bg-brand-primary">
@@ -21,12 +23,12 @@
           <div class="d-lg-flex w-100 justify-content-between flex-column flex-lg-row">
             <!-- Left side of the navbar -->
             <div class="d-flex flex-column flex-lg-row">
-              <a class="navbar-brand navbar-brand-topbaritem" href="tel:+441413439621">+44 141 343 9621</a>
-              <a class="navbar-brand navbar-brand-topbaritem d-inline-flex align-items-center" href="https://wa.me/message/HUH4LD467QPTB1"><i class="fa-brands fa-whatsapp"></i><span class="d-none d-md-block">&nbsp;WhatsApp</span></a>
-              <a class="navbar-brand navbar-brand-topbaritem" href="mailto:contact@nkdagility.com">contact@nkdagility.com</a>
-              <a class="navbar-brand navbar-brand-topbaritem" href="#">Glasgow, Scotland</a>
+              <a class="navbar-brand navbar-brand-topbaritem" href="tel:+441413439621" title="Phone us on +44 141 343 9621"><i class="fa-regular fa-phone"></i></a>
+              <a class="navbar-brand navbar-brand-topbaritem d-inline-flex align-items-center" href="https://wa.me/message/HUH4LD467QPTB1" title="WhatsApp Us"><i class="fa-brands fa-whatsapp"></i><span class="d-none d-md-block"></span></a>
+              <a class="navbar-brand navbar-brand-topbaritem" href="mailto:contact@nkdagility.com" title="Email us on contact@nkdagility.com"><i class="fa-regular fa-envelope"></i></a>
+              {{/* <a class="navbar-brand navbar-brand-topbaritem" href="#">Glasgow, Scotland</a> */}}
             </div>
-
+            <div id="docsearch"></div>
             <!-- Right side of the navbar -->
             <div class="d-flex flex-column flex-lg-row text-uppercase">
               <a class="navbar-brand navbar-brand-topbaritem" href="/.auth/login/github?post_login_redirect_uri={{ .Site.BaseURL }}" title="Login with Github" id="signInButton"> Login </a>

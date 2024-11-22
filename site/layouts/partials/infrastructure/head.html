@@ -19,14 +19,14 @@
   content="© {{- now.Format "2006" }}
 naked Agility Limited. All content is copyrighted. No reproduction or distribution without permission." />
 
+<!-- app.termly.io must be first -->
+<script type="text/javascript" src="https://app.termly.io/resource-blocker/8bfd9df8-10f3-48d6-8543-802e916c4a5c?autoBlock=on"></script>
+
 <!--Boostrap -->
 <link async href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous" />
 
 <!--Font Awesome -->
 <script async data-search-pseudo-elements src="https://kit.fontawesome.com/3e6b2f4808.js" crossorigin="Access-Control-Allow-Origin"></script>
-
-<!-- algolia.com -->
-<link async rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@8.5.1/themes/reset-min.css" integrity="sha256-KvFgFCzgqSErAPu6y9gz/AhZAvzK48VJASu3DpNLCEQ=" crossorigin="anonymous" />
 
 <!-- Main css-->
 <link async rel="stylesheet" href="{{- "css/main.css" | relURL }}" />
@@ -47,9 +47,6 @@ naked Agility Limited. All content is copyrighted. No reproduction or distributi
   gtag("config", "G-44XG57BE28");
 </script>
 
-<!-- or include the full Satellite theme -->
-<link async rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@8.5.1/themes/satellite-min.css" integrity="sha256-woeV7a4SRDsjDc395qjBJ4+ZhDdFn8AqswN1rlTO64E=" crossorigin="anonymous" />
-
 <!-- shopifycdn -->
 {{/* <script src="https://sdks.shopifycdn.com/js-buy-sdk/v2/latest/index.umd.min.js"></script>
   <script src="https://cdn.shopify.com/s/assets/external/buy-button.js"></script>
@@ -64,3 +61,5 @@ naked Agility Limited. All content is copyrighted. No reproduction or distributi
 <script async src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 <!-- TrustBox script -->
 <script async type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async></script>
+<!-- algolia.com -->
+{{/* <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3" /> */}}
