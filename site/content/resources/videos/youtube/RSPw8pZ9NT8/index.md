@@ -22,8 +22,8 @@ tags:
 - Agile product management
 - Agile product development
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 
 ---
 

@@ -18,8 +18,8 @@ tags:
 - Most influential person in Agile
 - Most influential person in Agile Spain
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 
 ---
 

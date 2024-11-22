@@ -19,8 +19,8 @@ tags:
 - Kanban approach
 - Kanban method
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 
 ---
 

@@ -13,8 +13,8 @@ duration: 53
 isShort: true
 tags: Test driven development
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 
 ---
 
