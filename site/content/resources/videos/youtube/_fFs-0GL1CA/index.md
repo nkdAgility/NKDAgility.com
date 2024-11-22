@@ -21,7 +21,7 @@ tags:
 - Product Owner
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.3
 
 ---
 
