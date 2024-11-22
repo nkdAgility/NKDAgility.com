@@ -1,23 +1,25 @@
 
 
 class HugoMarkdown {
-    [hashtable]$FrontMatter
+    [System.Collections.Specialized.OrderedDictionary]$FrontMatter
     [string]$BodyContent
 
-    HugoMarkdown([hashtable]$frontMatter, [string]$bodyContent) {
+    HugoMarkdown([System.Collections.Specialized.OrderedDictionary]$frontMatter, [string]$bodyContent) {
+        # Directly assign the front matter to the class property
         $this.FrontMatter = $frontMatter
+        # Set the body content
         $this.BodyContent = $bodyContent
     }
 }
 
-
 function Get-HugoMarkdown {
     param (
-        [string]$MarkdownPath
+        [Parameter(Mandatory = $true)]
+        [string]$Path
     )
 
     # Read the entire content of the Markdown file
-    $content = Get-Content -Path $MarkdownPath -Raw
+    $content = Get-Content -Path $Path -Raw
 
     # Regular expression to match YAML front matter
     if ($content -match '^(?s)---\s*(.*?)\s*---\s*(.*)$') {
@@ -29,8 +31,8 @@ function Get-HugoMarkdown {
     }
     else {
         # If no front matter is found, set frontMatter to an empty ordered hash table
-        $frontMatter = [ordered]@{}
-        $bodyContent = $content
+        throw "The markdown file in $outputDir is junk"
+        exit 1
     }
 
     return [HugoMarkdown]::new($frontMatter, $bodyContent)
@@ -39,16 +41,27 @@ function Get-HugoMarkdown {
 # Function to update a  field in the front matter
 function Update-Field {
     param (
-        [hashtable]$frontMatter,
+        [Parameter(Mandatory = $true)]
+        [System.Collections.Specialized.OrderedDictionary]$frontMatter,
+        [Parameter(Mandatory = $true)]
         [string]$fieldName,
+        [Parameter(Mandatory = $true)]
         [object]$fieldValue,
         [string]$addAfter = $null,
-        [string]$addBefore = $null
+        [string]$addBefore = $null,
+        [switch]$Overwrite
     )
 
     # Check if the field already exists
     if ($frontMatter.Contains($fieldName)) {
-        Write-Host "$fieldName already exists"
+        if ($Overwrite) {
+            # Overwrite the existing value
+            $frontMatter[$fieldName] = $fieldValue
+            Write-Host "$fieldName overwritten"
+        }
+        else {
+            Write-Host "$fieldName already exists"
+        }
         return $frontMatter
     }
 
@@ -74,3 +87,19 @@ function Update-Field {
     Write-Host "$fieldName added"
     return $frontMatter
 }
+
+
+# Function to save updated HugoMarkdown to a file
+function Save-HugoMarkdown {
+    param (
+        [Parameter(Mandatory = $true)]
+        [HugoMarkdown]$hugoMarkdown,
+        [Parameter(Mandatory = $true)]
+        [string]$Path
+    )
+
+    $updatedContent = "---`n$(ConvertTo-Yaml $hugoMarkdown.FrontMatter)`n---`n$($hugoMarkdown.BodyContent)"
+    Set-Content -Path $Path -Value $updatedContent
+}
+
+Write-Host "HugoHelpers.ps1 loaded" -ForegroundColor Green

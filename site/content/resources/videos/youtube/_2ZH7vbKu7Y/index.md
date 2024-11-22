@@ -1,5 +1,6 @@
 ---
 title: 'Training: A Bridge to Knowledge and Growth'
+description: "Unlock your team's potential! Discover 3 key strategies for agile leaders to uplift underperforming teams in this insightful video. \U0001F331\U0001F680"
 date: 2024-09-18
 resourceTypes: video
 layout: video
@@ -123,6 +124,7 @@ Building a learning culture within your organization isn’t just a “nice-to-h
 Encourage learning, adapt to new technologies, and fix the system when it’s broken. By fostering a culture of growth and innovation, you’ll unlock the full potential of your team.
 
 And remember, learning isn’t just about acquiring knowledge—it’s about applying it in new and exciting ways. If you enjoyed this blog and want to dive deeper into Agile, Scrum, or DevOps, feel free to reach out and book a coffee chat with me through Naked Agility ☕.
+
 
 
 

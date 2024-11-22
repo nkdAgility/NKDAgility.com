@@ -79,8 +79,8 @@ function Get-OpenAIResponse {
         [string]$prompt,
     
         # OpenAI API Key
-        [Parameter(Mandatory = $true)]
-        [string]$OPEN_AI_KEY
+        [Parameter(Mandatory = $false)]
+        [string]$OPEN_AI_KEY = $env:OPENAI_API_KEY
     )
 
     Write-Host "==============Get-OpenAIResponse:START"
@@ -128,3 +128,5 @@ function Get-OpenAIResponse {
     
     return $fullResult
 }
+
+Write-Host "OpenAI.ps1 loaded" -ForegroundColor Green
