@@ -25,11 +25,18 @@ $blogs | ForEach-Object {
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'description' -fieldValue $description -addAfter 'title'
         }
 
+        $aliases = @()
         if ($hugoMarkdown.FrontMatter.Contains("slug")) {
             $slug = $hugoMarkdown.FrontMatter.slug
-            $aliases = @("/$slug", "/blog/$slug")
-            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliases' -values $aliases -addAfter 'slug'
+            $aliases += "/$slug"
+            $aliases += "/blog/$slug"
         }
+        if ($hugoMarkdown.FrontMatter.Contains("title")) {
+            $urlSafeTitle = ($hugoMarkdown.FrontMatter.title -replace '[:\/\\*?"<>|#%.!]', '-' -replace '\s+', '-').ToLower()
+            $aliases += "/$urlSafeTitle"
+            $aliases += "/blog/$urlSafeTitle"
+        }      
+        Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliases' -values $aliases -addAfter 'slug'
 
         
 
