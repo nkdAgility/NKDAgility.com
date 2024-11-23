@@ -1,6 +1,6 @@
 ---
 title: Harris Beach SDS Ultrabook Unbox
-description: Join us as we unbox the Harris Beach SDS Ultrabook! Discover its sleek design and features. Full review at nakedalm.com/review-harris-beach-sds-ultrabook.
+description: ""
 date: 2013-07-25T19:42:35Z
 videoId: msmlRibX2zE
 url: /resources/videos/:slug
@@ -19,11 +19,12 @@ tags:
 - Unbox
 - intel
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube msmlRibX2zE >}}
 
 # Harris Beach SDS Ultrabook Unbox
@@ -31,4 +32,3 @@ source: youtube
 You can find the full post on http://nakedalm.com/review-harris-beach-sds-ultrabook-from-intel-unboxing/
 
 [Watch on YouTube](https://www.youtube.com/watch?v=msmlRibX2zE)
-

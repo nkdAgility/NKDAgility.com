@@ -1,6 +1,6 @@
 ---
 title: Kanban Boards for Campaign Success - The Ultimate Guide to Visualizing Your Workflow
-description: Unlock campaign success with Kanban! Learn to visualise your workflow, optimise processes, and boost collaboration in this ultimate guide.
+description: Ready to supercharge your campaigns with Kanban?  This video dives into the essential role Kanban boards play in visualizing your workflow and maximizing campaign effectiveness.
 date: 2024-07-08T06:00:07Z
 videoId: E2aYkadJJok
 url: /resources/videos/:slug
@@ -17,11 +17,12 @@ tags:
 - Kanban training
 - Kanban coaching
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube E2aYkadJJok >}}
 
 # Kanban Boards for Campaign Success - The Ultimate Guide to Visualizing Your Workflow
@@ -44,4 +45,3 @@ Discover the secrets of using Kanban to optimize your campaigns. This video will
 Visit https://www.nkdagility.com for more information on Kanban courses and Kanban coaching / consulting to help you optimize your Kanban adoption.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=E2aYkadJJok)
-

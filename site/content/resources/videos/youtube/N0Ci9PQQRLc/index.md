@@ -1,6 +1,6 @@
 ---
 title: How does your real world experience translate into your training style?
-description: "Discover how Martin Hinshelwood's real-world experience shapes his unique #Scrum training style, making complex concepts accessible and impactful."
+description: '#scrum is defined as easy to understand, yet incredibly difficult to master by the co-creators of #scrum.'
 date: 2023-01-20T07:00:08Z
 videoId: N0Ci9PQQRLc
 url: /resources/videos/:slug
@@ -20,11 +20,12 @@ tags:
 - Agile Scrum Training
 - Scrum Certification
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube N0Ci9PQQRLc >}}
 
 # How does your real world experience translate into your training style?
@@ -54,4 +55,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=N0Ci9PQQRLc)
-

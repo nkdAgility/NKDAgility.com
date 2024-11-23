@@ -1,6 +1,6 @@
 ---
 title: Why Most Scrum Masters only have PSMI!
-description: "Uncover why many Scrum Masters stop at PSM I! Explore the passion behind true mastery in Scrum and the journey of continuous learning. \U0001F4DC\U0001F50D"
+description: "*Why do so few scrum masters progress to the PSM II and PSM III certifications? Discover why many Scrum Masters don't pursue advanced certifications like PSM2 or PSM3."
 date: 2023-04-07T07:00:20Z
 videoId: vWfebO_pwIU
 url: /resources/videos/:slug
@@ -23,11 +23,12 @@ tags:
 - Scrum.Org
 - Scrum Careers
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube vWfebO_pwIU >}}
 
 # Why Most Scrum Masters only have PSMI!
@@ -52,4 +53,3 @@ Because you don't just need agility, you need Naked Agility.
 #scrum, #agile, #scrumteam, #agilecoach, #scrumorg, #scrummaster, #agiletraining
 
 [Watch on YouTube](https://www.youtube.com/watch?v=vWfebO_pwIU)
-

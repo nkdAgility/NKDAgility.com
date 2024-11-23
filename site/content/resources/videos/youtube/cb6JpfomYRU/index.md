@@ -1,6 +1,6 @@
 ---
 title: How much of a competitive edge will the immersive PSM course deliver to delegates?
-description: Discover how our immersive 7-week Professional Scrum Master course gives you a competitive edge over traditional workshops. Elevate your team's skills today!
+description: 'The immersive learning experiences were developed to help raise the standard of a #scrummaster entering the industry, and to provide additional value for organizations that wanted to really upskill their teams.'
 date: 2023-07-13T07:41:01Z
 videoId: cb6JpfomYRU
 url: /resources/videos/:slug
@@ -23,11 +23,12 @@ tags:
 - Immersive Professional Scrum Master course
 - Immersive Professional Scrum Master Certification
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube cb6JpfomYRU >}}
 
 # How much of a competitive edge will the immersive PSM course deliver to delegates?
@@ -51,4 +52,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=cb6JpfomYRU)
-

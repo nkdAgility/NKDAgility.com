@@ -1,6 +1,6 @@
 ---
 title: What are the most common challenges you are contracted to solve in a DevOps consulting gig?
-description: Join Martin Hinshelwood as he uncovers common challenges faced in DevOps consulting, bridging the gap between Agile and effective product development.
+description: "#devops is that mysterious partner to #agile in many environments.  It's something that has stumped many an #agilecoach or #agileconsultant, because it requires knowledge and practise in the environment to thrive."
 date: 2023-04-21T07:00:06Z
 videoId: LI6G1awAUyU
 url: /resources/videos/:slug
@@ -24,11 +24,12 @@ tags:
 - Agile Consultant
 - Agile coaching
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube LI6G1awAUyU >}}
 
 # What are the most common challenges you are contracted to solve in a DevOps consulting gig?
@@ -54,4 +55,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=LI6G1awAUyU)
-

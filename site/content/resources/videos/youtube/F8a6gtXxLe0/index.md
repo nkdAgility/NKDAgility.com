@@ -1,6 +1,6 @@
 ---
 title: nkdAgility Healthgrades Interview Dave Frisch
-description: Join Dave Frisch as he shares his journey from resistance to acceptance in training at Healthgrades, revealing insights from his unique dinner strategy!
+description: I trained over 150 people at Healthgrades and not everyone liked the idea at the beginning.  Dave was very opposed to training everyone, so opposed that he took the organised out to dinner to try and get both his team, and himself, out of it.
 date: 2017-07-27T19:14:11Z
 videoId: F8a6gtXxLe0
 url: /resources/videos/:slug
@@ -20,11 +20,12 @@ tags:
 - Professional Scrum Foundations
 - Scrum.org
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube F8a6gtXxLe0 >}}
 
 # nkdAgility Healthgrades Interview Dave Frisch
@@ -32,4 +33,3 @@ source: youtube
 I trained over 150 people at Healthgrades and not everyone liked the idea at the beginning. Dave was very opposed to training everyone, so opposed that he took the organised out to dinner to try and get both his team, and himself, out of it. See how he got on...
 
 [Watch on YouTube](https://www.youtube.com/watch?v=F8a6gtXxLe0)
-

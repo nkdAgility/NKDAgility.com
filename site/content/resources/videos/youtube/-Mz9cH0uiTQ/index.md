@@ -1,6 +1,6 @@
 ---
 title: Does a client tell an agile consultant what they need or does it work the other way around?
-description: Discover whether clients guide agile consultants or vice versa. Martin Hinshelwood shares insights on navigating agile transitions effectively.
+description: "Making the transition from #projectmanagement to #agile #productdevelopment can be intimidating.  You don't know where to start, you aren't sure of what the top priorities are, and you may not even be 100% clear about what problems you are trying to solve."
 date: 2023-03-01T07:00:00Z
 videoId: -Mz9cH0uiTQ
 url: /resources/videos/:slug
@@ -19,11 +19,12 @@ tags:
 - Agile Transformation
 - Agile Adoption
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube -Mz9cH0uiTQ >}}
 
 # Does a client tell an agile consultant what they need or does it work the other way around?
@@ -49,5 +50,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=-Mz9cH0uiTQ)
-
-

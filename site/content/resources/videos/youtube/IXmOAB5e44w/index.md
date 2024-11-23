@@ -1,6 +1,6 @@
 ---
 title: Referral program. 20% of the course fee credited to your account.
-description: Join our referral program and earn 20% of the course fee! Discover how you can benefit while helping others thrive in agile training.
+description: We're blessed to have so many people coming through our NKD Agility doors because of a referral, and we deeply value and appreciate those referrals.
 date: 2023-06-15T07:00:06Z
 videoId: IXmOAB5e44w
 url: /resources/videos/:slug
@@ -19,11 +19,12 @@ tags:
 - Scrum
 - Scrum.org
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube IXmOAB5e44w >}}
 
 # Referral program. 20% of the course fee credited to your account.
@@ -49,4 +50,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=IXmOAB5e44w)
-

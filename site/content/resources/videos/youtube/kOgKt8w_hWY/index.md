@@ -1,6 +1,6 @@
 ---
 title: Live Event - An Enterprise Evolution that Shows that You Can Too
-description: Join us for a transformative live event showcasing enterprise evolution and inspiring you to embrace change in your own journey. Don't miss out!
+description: ""
 date: 2020-06-16T12:16:52Z
 videoId: kOgKt8w_hWY
 url: /resources/videos/:slug
@@ -14,11 +14,12 @@ duration: 35
 isShort: true
 tags: []
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube kOgKt8w_hWY >}}
 
 # Live Event - An Enterprise Evolution that Shows that You Can Too
@@ -26,4 +27,3 @@ source: youtube
 
 
 [Watch on YouTube](https://www.youtube.com/watch?v=kOgKt8w_hWY)
-

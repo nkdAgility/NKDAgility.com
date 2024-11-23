@@ -1,6 +1,6 @@
 ---
 title: How is Agile Leadership different to traditional management?
-description: Discover how Agile Leadership differs from traditional management with Joanna Plaskonka. Explore the need for adaptive leadership in complex environments!
+description: 'Joanna Plaskonka talks about the difference between #agileleadership and traditional line #management.'
 date: 2023-08-09T13:43:27Z
 videoId: Jkw4sMe6h-w
 url: /resources/videos/:slug
@@ -24,11 +24,12 @@ tags:
 - PAL-EBM
 - Leadership
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube Jkw4sMe6h-w >}}
 
 # How is Agile Leadership different to traditional management?
@@ -52,4 +53,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Jkw4sMe6h-w)
-

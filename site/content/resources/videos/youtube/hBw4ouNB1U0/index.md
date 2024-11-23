@@ -1,6 +1,6 @@
 ---
 title: The Kanban Key - How Continuous Improvement Transforms Your Workflow
-description: Unlock your workflow's potential! Discover how Kanban's continuous improvement can boost efficiency and drive outstanding results in this insightful video.
+description: 'Tired of stagnant processes and lackluster results?  This video dives into the heart of Kanban: continuous improvement.'
 date: 2024-08-19T06:45:02Z
 videoId: hBw4ouNB1U0
 url: /resources/videos/:slug
@@ -23,11 +23,12 @@ tags:
 - Agile project management
 - Agile product development
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube hBw4ouNB1U0 >}}
 
 # The Kanban Key - How Continuous Improvement Transforms Your Workflow
@@ -51,4 +52,3 @@ Don't settle for a static workflow. Embrace the power of Kanban's continuous imp
 Visit https://www.nkdagility.com for more information on Kanban training and Kanban coaching / consulting to help you optimize your Kanban adoption
 
 [Watch on YouTube](https://www.youtube.com/watch?v=hBw4ouNB1U0)
-

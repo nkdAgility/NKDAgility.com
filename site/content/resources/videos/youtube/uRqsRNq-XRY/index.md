@@ -1,6 +1,6 @@
 ---
 title: 7 signs of the agile apocalypse. Judgement
-description: 'Discover the 7 signs of the #Agile apocalypse! Learn how poor judgement can lead to doom and the importance of continuous improvement. #Agile #Scrum #Shorts'
+description: "#shorts #shortvideo #shortsvideo Sometimes, making mistakes isn't a bad thing because it is the path to continuous learning, improved decision-making, and ultimately, great judgement."
 date: 2023-11-09T06:45:04Z
 videoId: uRqsRNq-XRY
 url: /resources/videos/:slug
@@ -37,11 +37,12 @@ tags:
 - agile leadership
 - leadership.
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube uRqsRNq-XRY >}}
 
 # 7 signs of the agile apocalypse. Judgement
@@ -62,4 +63,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=uRqsRNq-XRY)
-

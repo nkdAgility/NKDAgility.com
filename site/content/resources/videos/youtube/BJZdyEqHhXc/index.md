@@ -1,6 +1,6 @@
 ---
 title: NKD Agility Consulting Approach
-description: Discover the NKD Agility approach to effective Agile consulting and coaching with Martin Hinshelwood. Learn how to choose the right Agile partner!
+description: "Due to the lack of regulation in the Agile industry, there are a number of people who have had poor experiences with people who claim to be an #agilecoach, but don't possess the skills, certifications, and experience to be one."
 date: 2024-05-09T06:45:00Z
 videoId: BJZdyEqHhXc
 url: /resources/videos/:slug
@@ -19,11 +19,12 @@ tags:
 - Agile consulting philosophy
 - Agile consulting approach
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube BJZdyEqHhXc >}}
 
 # NKD Agility Consulting Approach
@@ -35,4 +36,3 @@ It can be tough to know what you're getting, how that will help you, and what ki
 Visit https://www.nkdagility.com for more insights into our agile coaching, agile consulting, and agile training services.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=BJZdyEqHhXc)
-

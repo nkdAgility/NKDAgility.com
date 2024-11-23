@@ -1,6 +1,6 @@
 ---
 title: 7 signs of the agile apocalypse. Famine
-description: 'Discover the 7 signs of the #Agile apocalypse! In this short video, Martin Hinshelwood reveals how famine can signal impending doom for teams. #Agile #Shorts'
+description: '#shorts #shortsvideo #shortvideo #agile loves abundance.  An abundance of ideas, creativity, and collaboration.'
 date: 2023-11-08T06:45:00Z
 videoId: ARhXjid0zSE
 url: /resources/videos/:slug
@@ -37,11 +37,12 @@ tags:
 - agile leadership
 - leadership.
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube ARhXjid0zSE >}}
 
 # 7 signs of the agile apocalypse. Famine
@@ -62,4 +63,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ARhXjid0zSE)
-

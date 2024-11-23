@@ -1,6 +1,6 @@
 ---
 title: It's said that you can reduce time to market by up to 50% simply by removing committees. True?
-description: "Discover how removing committees can cut your time to market by 50%! Join Martin as he explores the impact of traditional management on agility. \U0001F680"
+description: Are committees slowing down your time to market?  Discover the impact of traditional management practices on your business's agility.
 date: 2023-10-02T07:00:33Z
 videoId: ye1wQic8et0
 url: /resources/videos/:slug
@@ -20,11 +20,12 @@ tags:
 - project manager
 - agile devops
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube ye1wQic8et0 >}}
 
 # It's said that you can reduce time to market by up to 50% simply by removing committees. True?
@@ -49,4 +50,3 @@ Because you don't just need agility, you need Naked Agility.
 #valuedelivery #projectmanagement #scrumorg #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #agiletraining #devops #agileconsultant #agilecoach #agiletraining
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ye1wQic8et0)
-

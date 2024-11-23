@@ -1,6 +1,6 @@
 ---
 title: How does a scrum team plan and prioritize work effectively?
-description: Discover how scrum teams can effectively plan and prioritise work by fostering collaboration with customers and stakeholders in this insightful video!
+description: 'In a #projectmanagement environment, the people doing the work are often separated from the customers and project stakeholders they are doing the work for.'
 date: 2023-03-24T07:00:30Z
 videoId: sPmUuSy7G3I
 url: /resources/videos/:slug
@@ -14,11 +14,12 @@ duration: 312
 isShort: false
 tags: []
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube sPmUuSy7G3I >}}
 
 # How does a scrum team plan and prioritize work effectively?
@@ -44,4 +45,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=sPmUuSy7G3I)
-

@@ -1,6 +1,6 @@
 ---
 title: Install & Configure 301 - Move your Active Directory domain to another server
-description: Learn how to seamlessly move your Active Directory domain to a new server, perfect for OS refreshes or rebuilding your domain controller.
+description: Have you ever had to rebuild your only domain controller?  Find out how to move your domain to another server to refresh the OS or just plane rebuild.
 date: 2014-01-16T20:22:36Z
 videoId: yrpAYB2yIZU
 url: /resources/videos/:slug
@@ -18,11 +18,12 @@ tags:
 - Windows Server 2012 R2
 - Windows Server
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube yrpAYB2yIZU >}}
 
 # Install & Configure 301 - Move your Active Directory domain to another server
@@ -32,4 +33,3 @@ Have you ever had to rebuild your only domain controller? Find out how to move y
 Visit http://nakedalm.com/blog for more posts and videos.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yrpAYB2yIZU)
-

@@ -1,6 +1,6 @@
 ---
 title: What 5 things must you achieve before you call yourself an agilecoach. Part 3
-description: 'Discover the third essential achievement for aspiring #AgileCoaches with Martin Hinshelwood. Elevate your skills and empower teams to thrive!'
+description: 'Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.'
 date: 2023-11-15T11:01:00Z
 videoId: xOcL_hqf1SM
 url: /resources/videos/:slug
@@ -37,11 +37,12 @@ tags:
 - agile leadership
 - leadership.
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube xOcL_hqf1SM >}}
 
 # What 5 things must you achieve before you call yourself an agilecoach. Part 3
@@ -62,4 +63,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=xOcL_hqf1SM)
-

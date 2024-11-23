@@ -1,6 +1,6 @@
 ---
 title: Kanban with Azure DevOps
-description: Unlock Kanban's potential with Azure DevOps! Join Martin Hinshelwood for expert tips on enhancing workflow and collaboration in hybrid environments.
+description: "Unlocking Kanban's Full Potential with Azure DevOps: A Deep Dive - Discover how Azure DevOps transforms Kanban for hybrid work environments, enhancing visualization, collaboration, and workflow efficiency."
 date: 2024-03-29T16:42:17Z
 videoId: jCrXzgjxcEA
 url: /resources/videos/:slug
@@ -19,11 +19,12 @@ tags:
 - TFS Service
 - Visual Studio Team System
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube jCrXzgjxcEA >}}
 
 # Kanban with Azure DevOps
@@ -58,4 +59,3 @@ Because you dont just need agility, you need Naked Agility.
 #KanbanBoard, #AzureDevOps, #VisualManagement, #WorkInProgress, #LeadTime #Kanban
 
 [Watch on YouTube](https://www.youtube.com/watch?v=jCrXzgjxcEA)
-

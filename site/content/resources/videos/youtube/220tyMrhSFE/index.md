@@ -1,6 +1,6 @@
 ---
 title: Kanban principles
-description: 'Discover the core principles of Kanban and enhance your Agile project management skills. Watch now! #agile #kanban #agileframework'
+description: Kanban Principles.
 date: 2024-08-17T19:03:52Z
 videoId: 220tyMrhSFE
 url: /resources/videos/:slug
@@ -16,11 +16,12 @@ tags:
 - Kanban
 - Kanban principles
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube 220tyMrhSFE >}}
 
 # Kanban principles
@@ -28,4 +29,3 @@ source: youtube
 Kanban Principles. Visit https://www.nkdagility.com #agile #agileprojectmanagement #agileproductdevelopment #kanban #agileframework
 
 [Watch on YouTube](https://www.youtube.com/watch?v=220tyMrhSFE)
-

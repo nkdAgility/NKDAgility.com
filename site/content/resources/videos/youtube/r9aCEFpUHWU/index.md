@@ -1,6 +1,6 @@
 ---
 title: How does the lack of basic skills among Scrum Masters impact teams and organizations
-description: Discover how competent Scrum Masters drive team success by bridging theory and practice, enhancing productivity, and delivering real business results.
+description: Un this video, we’re diving into why Scrum Master competence is critical for team and organizational success.
 date: 2024-10-21T05:32:11Z
 videoId: r9aCEFpUHWU
 url: /resources/videos/:slug
@@ -26,11 +26,12 @@ tags:
 - Agile project management
 - Agile product management
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube r9aCEFpUHWU >}}
 
 # How does the lack of basic skills among Scrum Masters impact teams and organizations
@@ -61,4 +62,3 @@ We can help your teams build competence, deliver valuable products, and achieve 
 #agile #scrum #scrummaster #productdevelopment #agileproductdevelopment #productowner #productmanager #productmanagement #projectmanagement #projectmanager
 
 [Watch on YouTube](https://www.youtube.com/watch?v=r9aCEFpUHWU)
-

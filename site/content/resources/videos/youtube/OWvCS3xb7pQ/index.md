@@ -1,6 +1,6 @@
 ---
 title: What excites you most about the PAL e immersive learning journey for delegates?
-description: Join Joanna Plaskonka as she shares her excitement about the immersive 7-week PAL-E course, transforming Agile learning for delegates!
+description: The Professional Agile Leadership - Essentials (PAL-E) course from Scrum. Org has just gone immersive!
 date: 2023-07-13T12:06:17Z
 videoId: OWvCS3xb7pQ
 url: /resources/videos/:slug
@@ -26,11 +26,12 @@ tags:
 - Agile leadership course
 - Agile Leadership certification
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube OWvCS3xb7pQ >}}
 
 # What excites you most about the PAL e immersive learning journey for delegates?
@@ -54,4 +55,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=OWvCS3xb7pQ)
-

@@ -1,6 +1,6 @@
 ---
 title: The Scrum Framework!
-description: Discover the Scrum Framework with Martin Hinshelwood! Learn its core values, accountabilities, artefacts, and events to tackle complex problems effectively.
+description: Scrum is a lightweight framework that helps people, teams, and organizations generate value through adaptive solutions for complex problems.
 date: 2022-10-18T16:13:02Z
 videoId: Q2Fo3sM6BVo
 url: /resources/videos/:slug
@@ -14,11 +14,12 @@ duration: 891
 isShort: false
 tags: []
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube Q2Fo3sM6BVo >}}
 
 # The Scrum Framework!
@@ -34,4 +35,3 @@ If you found this video insightful, please like this video and subscribe to our 
 Find us at https://nkdagility.com and use https://nkdagility.com/book-online to book a free consultation. We offer public and private training as well as consulting to help you get more from Scrum, Kanban, DevOps, and BetaCodex.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Q2Fo3sM6BVo)
-

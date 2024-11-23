@@ -1,6 +1,6 @@
 ---
 title: 5 tools that Scrum Masters love. Part 2
-description: "Discover 5 essential tools that Scrum Masters adore in Part 2! Boost your team's agility and performance with expert insights from NKD Agility. #Scrum #Agile"
+description: '#shorts #shortsvideo #shortvideo 5 tools that a #scrummaster loves. Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.'
 date: 2023-09-19T07:00:21Z
 videoId: rbFTob3DdjE
 url: /resources/videos/:slug
@@ -20,11 +20,12 @@ tags:
 - Scrum software
 - Scrum resources
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube rbFTob3DdjE >}}
 
 # 5 tools that Scrum Masters love. Part 2
@@ -45,4 +46,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=rbFTob3DdjE)
-

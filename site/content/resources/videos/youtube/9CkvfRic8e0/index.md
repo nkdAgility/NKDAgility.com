@@ -1,6 +1,6 @@
 ---
 title: Connecting Release Manageer to TFS 2013
-description: Learn to connect Release Management Client for Visual Studio 2013 to your Team Foundation Collection. Discover more at nakedalm.com/blog!
+description: ""
 date: 2014-01-02T15:27:09Z
 videoId: 9CkvfRic8e0
 url: /resources/videos/:slug
@@ -25,11 +25,12 @@ tags:
 - Release Management Server
 - Install & Configure 101
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube 9CkvfRic8e0 >}}
 
 # Connecting Release Manageer to TFS 2013
@@ -39,4 +40,3 @@ See how to connect to your Team Foundation Collection with Release Management Cl
 More videos and blogs on http://nakedalm.com/blog
 
 [Watch on YouTube](https://www.youtube.com/watch?v=9CkvfRic8e0)
-

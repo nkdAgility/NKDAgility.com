@@ -1,6 +1,6 @@
 ---
 title: Is the APS immersive learning experience the equivalent of having a hands on scrum coach?
-description: Discover how an immersive APS course can provide the hands-on scrum coaching your team needs to excel in agile practices.
+description: "Sometimes, you just need to learn how to do #scrum properly.  It isn't so much about learning the mechanics of #scrum, it's instead about how to apply #scrum professionally in your #scrumteam."
 date: 2023-08-16T07:00:03Z
 videoId: 6S9LGyxU2cQ
 url: /resources/videos/:slug
@@ -24,11 +24,12 @@ tags:
 - agile product management
 - agile product development
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube 6S9LGyxU2cQ >}}
 
 # Is the APS immersive learning experience the equivalent of having a hands on scrum coach?
@@ -54,4 +55,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=6S9LGyxU2cQ)
-

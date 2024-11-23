@@ -1,6 +1,6 @@
 ---
 title: Many folks say Scrum is like communism; it does not work! Are they right?
-description: Unpack the myths linking Scrum to communism! Discover 5 misconceptions that hinder Scrum adoption and learn how to embrace its true potential.
+description: This is a phrase I often hear from folks who have been unable to adapt their systems of work to incorporate the core philosophies, theories, and practices of Scrum.
 date: 2024-05-06T14:12:53Z
 videoId: 4YixczaREUw
 url: /resources/videos/:slug
@@ -14,11 +14,12 @@ duration: 1373
 isShort: false
 tags: []
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube 4YixczaREUw >}}
 
 # Many folks say Scrum is like communism; it does not work! Are they right?
@@ -50,4 +51,3 @@ Sign up for one of our upcoming professional Scrum classes: https://nkdagility.c
 Music from the Red Alert - The Music Album: the best and the most well-known song, Hell March.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=4YixczaREUw)
-

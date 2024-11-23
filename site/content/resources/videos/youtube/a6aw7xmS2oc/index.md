@@ -1,6 +1,6 @@
 ---
 title: What are the top 3 things a product owner needs to bear in mind when adopting an entrepreneur stance
-description: "Unlock the entrepreneurial mindset! Discover 3 key insights for product owners to connect teams to value and make evidence-based decisions. \U0001F680\U0001F4CA"
+description: 'The Entrepreneurial Stance: Key Considerations for Product Owners!  Dive into the entrepreneurial mindset of product owners!'
 date: 2023-09-20T07:00:00Z
 videoId: a6aw7xmS2oc
 url: /resources/videos/:slug
@@ -25,11 +25,12 @@ tags:
 - Agile project management
 - Agile product management
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube a6aw7xmS2oc >}}
 
 # What are the top 3 things a product owner needs to bear in mind when adopting an entrepreneur stance
@@ -54,4 +55,3 @@ Because you don't just need agility, you need Naked Agility.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment  #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=a6aw7xmS2oc)
-

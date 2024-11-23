@@ -1,6 +1,6 @@
 ---
 title: Continuous Improvement with Kanban
-description: 'Discover how to enhance your processes with Kanban in this insightful video on continuous improvement. Join us for agile transformation! #kanban #agile'
+description: 'Continuous Improvement with #kanban.'
 date: 2024-08-14T07:04:17Z
 videoId: V44iUwv0Jcg
 url: /resources/videos/:slug
@@ -17,11 +17,12 @@ tags:
 - Agile Project Management
 - Kanban
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube V44iUwv0Jcg >}}
 
 # Continuous Improvement with Kanban
@@ -29,4 +30,3 @@ source: youtube
 Continuous Improvement with #kanban. Visit https://www.nkdagility.com #agile #scrum #kaizen #kanban #agileframework
 
 [Watch on YouTube](https://www.youtube.com/watch?v=V44iUwv0Jcg)
-

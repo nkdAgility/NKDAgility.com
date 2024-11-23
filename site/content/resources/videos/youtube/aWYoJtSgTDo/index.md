@@ -1,6 +1,6 @@
 ---
 title: The importance of knowing the territory.
-description: Discover how navigating new territories, like mushroom foraging, parallels agile leadership in seizing opportunities and making informed decisions.
+description: "#agileleadership is about sensing opportunities, responding to threats, and making valuable decisions even when you don't have all the information you need."
 date: 2023-08-10T13:30:01Z
 videoId: aWYoJtSgTDo
 url: /resources/videos/:slug
@@ -28,11 +28,12 @@ tags:
 - Business Agility
 - Agility
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube aWYoJtSgTDo >}}
 
 # The importance of knowing the territory.
@@ -56,4 +57,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=aWYoJtSgTDo)
-

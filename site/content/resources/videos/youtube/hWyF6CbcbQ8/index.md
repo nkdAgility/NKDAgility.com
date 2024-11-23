@@ -1,6 +1,6 @@
 ---
 title: DevOps Migration. Data Integrity Issues
-description: Explore data integrity in Azure DevOps migrations! Discover the trade-offs between full and selective data transfers for optimal results.
+description: 'In this video, we dive into the essentials of data integrity and Azure DevOps migrations.  Migrating to Azure DevOps, especially from on-premises TFS (Team Foundation Server), presents a key decision: fidelity versus flexibility.'
 date: 2024-11-04T06:06:49Z
 videoId: hWyF6CbcbQ8
 url: /resources/videos/:slug
@@ -21,11 +21,12 @@ tags:
 - Microsoft MVP
 - Azure DevOps Migration
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube hWyF6CbcbQ8 >}}
 
 # DevOps Migration. Data Integrity Issues
@@ -47,4 +48,3 @@ Video Chapters:
 #azuredevops #azure #azureexpert #azureservices #devops #devopsconsultant #devopscoach #devopstraining
 
 [Watch on YouTube](https://www.youtube.com/watch?v=hWyF6CbcbQ8)
-

@@ -1,6 +1,6 @@
 ---
 title: ' shorts 5 kinds of Agile bandits. 3rd kind'
-description: "Discover the 3rd kind of Agile bandit with Martin Hinshelwood! Uncover insights on story points and boost your team's agility. #Agile #Scrum #Shorts"
+description: '#shorts #shortvideo #shortsvideo Martin Hinshelwood walks us through the 5 agile bandits. Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.'
 date: 2024-01-08T11:00:37Z
 videoId: eK8YscAACnE
 url: /resources/videos/:slug
@@ -37,11 +37,12 @@ tags:
 - agile leadership
 - leadership.
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube eK8YscAACnE >}}
 
 #  shorts 5 kinds of Agile bandits. 3rd kind
@@ -62,4 +63,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=eK8YscAACnE)
-

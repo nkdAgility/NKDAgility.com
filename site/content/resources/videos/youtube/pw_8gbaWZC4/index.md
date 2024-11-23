@@ -1,6 +1,6 @@
 ---
 title: How Top Teams Use Pull Systems!
-description: Unlock the power of Kanban! Discover strategies to optimise pull systems, enhance workflow, and drive continuous improvement in your team.
+description: Discover the transformative power of Kanban in optimizing pull systems for continuous improvement.  This video unveils practical strategies and insights for enhancing workflow efficiency, identifying bottlenecks, and making data-driven decisions that propel productivity.
 date: 2024-03-08T07:00:31Z
 videoId: pw_8gbaWZC4
 url: /resources/videos/:slug
@@ -20,11 +20,12 @@ tags:
 - Kanban approach
 - Kanban method
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube pw_8gbaWZC4 >}}
 
 # How Top Teams Use Pull Systems!
@@ -36,4 +37,3 @@ Visit https://www.nkdagility.com
 How does Kanban support continuous improvement in a pull based system?
 
 [Watch on YouTube](https://www.youtube.com/watch?v=pw_8gbaWZC4)
-

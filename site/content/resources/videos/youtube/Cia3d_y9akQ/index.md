@@ -1,6 +1,6 @@
 ---
 title: What are some of the most common misconceptions you encounter about the Scrum Master role?
-description: "Uncover the truth about the Scrum Master role! Join me as I debunk common misconceptions and highlight the importance of competence over mere practices. \U0001F331\U0001F680"
+description: In this video, I tackle the widespread misconceptions surrounding the role of a Scrum Master, especially the difference between organizational roles and the true accountabilities as defined by Scrum.
 date: 2024-10-25T07:02:17Z
 videoId: Cia3d_y9akQ
 url: /resources/videos/:slug
@@ -23,11 +23,12 @@ tags:
 - Product Management
 - Agile product management
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube Cia3d_y9akQ >}}
 
 # What are some of the most common misconceptions you encounter about the Scrum Master role?
@@ -61,4 +62,3 @@ Chapters
 Ready to move beyond the misconceptions and develop the deep competencies that make a great Scrum Master? 💪 Visit [NKD Agility](https://www.nkdagility.com) to learn how we can help you understand the core principles, philosophies, and theories that drive real success in Scrum. Don’t settle for surface-level practices—take your Scrum Mastery to the next level! 🚀 #ScrumMastery #AgileExcellence #NKDAgility
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Cia3d_y9akQ)
-

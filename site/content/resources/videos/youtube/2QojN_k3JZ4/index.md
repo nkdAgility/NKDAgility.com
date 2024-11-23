@@ -1,6 +1,6 @@
 ---
 title: ' shorts 7 Virtues of agile. Diligence'
-description: 'Discover the power of diligence in Agile! Join us as we explore one of the 7 virtues that drive high-performing teams. #Agile #Scrum #Shorts'
+description: '#shorts #shortvideo #shortsvideo 7 virtues of #agile.  Diligence. Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.'
 date: 2023-12-07T11:00:05Z
 videoId: 2QojN_k3JZ4
 url: /resources/videos/:slug
@@ -37,11 +37,12 @@ tags:
 - agile leadership
 - leadership.
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube 2QojN_k3JZ4 >}}
 
 #  shorts 7 Virtues of agile. Diligence
@@ -60,4 +61,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=2QojN_k3JZ4)
-

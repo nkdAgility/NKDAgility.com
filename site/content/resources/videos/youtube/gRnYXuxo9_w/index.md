@@ -1,6 +1,6 @@
 ---
 title: Scrum Value, Openness, What does it mean and why does it matter?
-description: "Unlock the power of openness in Scrum! Discover how transparency and trust transform team dynamics for success. Watch now! \U0001F31F\U0001F511 #Scrum #Agile"
+description: Discover how openness revolutionizes team dynamics and drives success in Scrum.  Dive deep into the vital role of transparency and trust in this insightful discussion.
 date: 2023-04-28T07:00:30Z
 videoId: gRnYXuxo9_w
 url: /resources/videos/:slug
@@ -21,11 +21,12 @@ tags:
 - scrum project management
 - agile scrum
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube gRnYXuxo9_w >}}
 
 # Scrum Value, Openness, What does it mean and why does it matter?
@@ -58,4 +59,3 @@ Because you don't just need agility, you need Naked Agility.
 #scrum #agile #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg #scrummaster #productowner #kanban #continousdelivery #devops #azuredevops
 
 [Watch on YouTube](https://www.youtube.com/watch?v=gRnYXuxo9_w)
-

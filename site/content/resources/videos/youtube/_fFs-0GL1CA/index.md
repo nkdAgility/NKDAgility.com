@@ -1,6 +1,6 @@
 ---
 title: Why do you encourage people to follow a certification path in their career journey?
-description: Discover why certification is essential for mastering Agile roles. Join Martin Hinshelwood as he guides you on the path to Scrum expertise!
+description: 'The world of #agile is inherently complex.  If building complex solutions or solving complex problems was a straightforward process of observing a formula, traditional #projectmanagement would do the trick and there would be no need for #agile or #scrum.'
 date: 2023-03-07T07:00:09Z
 videoId: _fFs-0GL1CA
 url: /resources/videos/:slug
@@ -21,11 +21,12 @@ tags:
 - Scrum Master
 - Product Owner
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube _fFs-0GL1CA >}}
 
 # Why do you encourage people to follow a certification path in their career journey?
@@ -51,5 +52,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=_fFs-0GL1CA)
-
-

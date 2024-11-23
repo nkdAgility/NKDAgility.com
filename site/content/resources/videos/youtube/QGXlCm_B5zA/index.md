@@ -1,6 +1,6 @@
 ---
 title: What will you learn on the PSM II course?
-description: Unlock your potential as a Scrum Master! Discover key skills and insights from the PSM II course to elevate your career and enhance team performance.
+description: 'The #PSM II or #professionalscrummaster course from Scrum. Org is designed to help a #scrummaster progress in their career from entry-level capability to more advanced capabilities.'
 date: 2023-03-06T07:00:14Z
 videoId: QGXlCm_B5zA
 url: /resources/videos/:slug
@@ -22,11 +22,12 @@ tags:
 - Professional Scrum Master
 - Advanced Professional Scrum Master
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube QGXlCm_B5zA >}}
 
 # What will you learn on the PSM II course?
@@ -54,4 +55,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=QGXlCm_B5zA)
-

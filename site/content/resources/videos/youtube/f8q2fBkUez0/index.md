@@ -1,6 +1,6 @@
 ---
 title: Should Companies Take Money Off The Table - with Martin , Michael , & Rijon
-description: Join our panel as we explore if companies should prioritise intrinsic motivation over financial incentives, inspired by Dan Pink's *Drive*.
+description: "### Panel Description: \"Should Companies Take Money Off the Table? In today's fast-paced business environment, the debate over the role of financial incentives in driving employee motivation is more relevant than ever."
 date: 2024-09-03T03:33:58Z
 videoId: f8q2fBkUez0
 url: /resources/videos/:slug
@@ -14,11 +14,12 @@ duration: 4859
 isShort: false
 tags: []
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube f8q2fBkUez0 >}}
 
 # Should Companies Take Money Off The Table - with Martin , Michael , & Rijon
@@ -38,4 +39,3 @@ Our panel of experts will discuss:
 Whether you're a leader, HR professional, or just curious about the future of work, this panel will offer valuable insights into how companies can foster a more motivated and engaged workforce by looking beyond the paycheck.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=f8q2fBkUez0)
-

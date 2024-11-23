@@ -1,6 +1,6 @@
 ---
 title: How much of an impact can a great agile consultant have?
-description: Discover how a skilled agile consultant can transform your team's approach to product development, navigating complexity and driving success in uncertain environments.
+description: 'In 2001, a group of brilliant #softwareengineers came together to define and articulate a new style of #productdevelopment based on their collective knowledge, experience, and experimentation with #agileframeworks.'
 date: 2023-01-24T07:30:02Z
 videoId: 8vu-AXJwwYk
 url: /resources/videos/:slug
@@ -20,11 +20,12 @@ tags:
 - Agile Project Management
 - Agile Product Development
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube 8vu-AXJwwYk >}}
 
 # How much of an impact can a great agile consultant have?
@@ -57,4 +58,3 @@ We would love to work with you.
 #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=8vu-AXJwwYk)
-

@@ -1,6 +1,6 @@
 ---
 title: NKD Agility Mission and Purpose
-description: Discover NKD Agility's mission and purpose with Martin Hinshelwood, as he reveals what drives our passion for Agile practices.
+description: What makes us tick?  Why do we exist? In this short video, Martin Hinshelwood - Principal Agile Consultant and Professional Scrum Trainer - walks us through the mission and purpose that drives NKD Agility.
 date: 2024-05-10T06:45:01Z
 videoId: yCyjGBNaRqI
 url: /resources/videos/:slug
@@ -14,11 +14,12 @@ duration: 174
 isShort: false
 tags: []
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube yCyjGBNaRqI >}}
 
 # NKD Agility Mission and Purpose
@@ -32,4 +33,3 @@ The reason we do what we do and how we do what we do.
 Visit https://www.nkdagility.com
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yCyjGBNaRqI)
-

@@ -1,6 +1,6 @@
 ---
 title: How much of a competitive edge will the immersive PAL e course deliver to delegates?
-description: Discover how the immersive PAL e-course can enhance your leadership skills and give your organisation a competitive edge in just 7 weeks!
+description: '#leadership is always about developing practices, skills, and systems that help you acquire competitive advantage, and #agileleadership even more so because we work in a complex environment.'
 date: 2023-07-13T12:16:15Z
 videoId: NKQr8oGO8lg
 url: /resources/videos/:slug
@@ -18,11 +18,12 @@ tags:
 - PAL-E course
 - PAL-E immersive learning experience
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube NKQr8oGO8lg >}}
 
 # How much of a competitive edge will the immersive PAL e course deliver to delegates?
@@ -46,4 +47,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=NKQr8oGO8lg)
-

@@ -1,6 +1,6 @@
 ---
 title: DevOps Migration. Incomplete Migrations
-description: Master Azure DevOps migrations! Learn to tackle incomplete migrations and data loss fears with expert tips for a seamless transition to the cloud.
+description: 'In this video, I address a common concern in Azure DevOps migrations: the fear of incomplete migrations and data loss.'
 date: 2024-11-07T05:45:02Z
 videoId: x6a_BuQq580
 url: /resources/videos/:slug
@@ -21,11 +21,12 @@ tags:
 - DevOps coach
 - DevOps training
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube x6a_BuQq580 >}}
 
 # DevOps Migration. Incomplete Migrations
@@ -46,4 +47,3 @@ Video Chapters:
 👉 Watch the video to learn how to prepare for a seamless Azure DevOps migration and eliminate concerns about incomplete migrations. Don’t forget to like, comment, and subscribe for more migration tips and DevOps insights! Visit https://nkdagility.com/capabilities/azure-devops-migration-services/ if you need help with #devopsmigration #azuredevops #devopsconsulting #devopscoach
 
 [Watch on YouTube](https://www.youtube.com/watch?v=x6a_BuQq580)
-

@@ -1,6 +1,6 @@
 ---
 title: Why do you trust Simon to deliver the APS course for NKD Agility
-description: 'Discover why Martin Hinshelwood trusts Simon as a top Professional Scrum Trainer for the APS course at NKD Agility. #agile #scrum #training'
+description: '#shorts #shortsvideo #shortvideo Martin Hinshelwood explains why Simon is one of the best Professional Scrum Trainers to deliver the APS or Applying Professional Scrum course in the world.'
 date: 2023-08-29T07:00:14Z
 videoId: dTE8-Z1ZgA4
 url: /resources/videos/:slug
@@ -14,11 +14,12 @@ duration: 49
 isShort: true
 tags: []
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube dTE8-Z1ZgA4 >}}
 
 # Why do you trust Simon to deliver the APS course for NKD Agility
@@ -40,4 +41,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=dTE8-Z1ZgA4)
-

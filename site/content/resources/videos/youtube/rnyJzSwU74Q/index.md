@@ -1,6 +1,6 @@
 ---
 title: Traditional vs Empirical! Whats the difference? Agile faces off agianst waterfall!
-description: "Explore the clash of Agile vs Waterfall! Discover how empirical models boost project success with visibility, adaptability, and continuous value delivery. \U0001F680"
+description: Discover how agile practices can significantly enhance project success rates.  Dive deep into the empirical model's advantages, including increased visibility, adaptability, reduced risk, and continuous value delivery.
 date: 2022-10-12T17:08:59Z
 videoId: rnyJzSwU74Q
 url: /resources/videos/:slug
@@ -14,11 +14,12 @@ duration: 866
 isShort: false
 tags: []
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube rnyJzSwU74Q >}}
 
 # Traditional vs Empirical! Whats the difference? Agile faces off agianst waterfall!
@@ -41,4 +42,3 @@ According to the Chaos Report from the Standish Group small projects of under 50
 Hopefully, this short video will help you identify the key differences that make this posible!
 
 [Watch on YouTube](https://www.youtube.com/watch?v=rnyJzSwU74Q)
-

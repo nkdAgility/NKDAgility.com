@@ -1,6 +1,6 @@
 ---
 title: Talk us through the new Product Backlog Management course from Scrum.org
-description: 'Discover insights from Martin Hinshelwood on the new Professional Scrum Product Backlog Management course by @ScrumOrg. Watch the full video! #shorts'
+description: "#shorts #shortvideo #shortsvideo If you're interested in the new Professional Scrum Product Backlog Management course from @ScrumOrg you'll find this excerpt from Martin Hinshelwood talking about the new course valuable."
 date: 2023-11-30T11:00:31Z
 videoId: R8Ris5quXb8
 url: /resources/videos/:slug
@@ -37,11 +37,12 @@ tags:
 - agile leadership
 - leadership.
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube R8Ris5quXb8 >}}
 
 # Talk us through the new Product Backlog Management course from Scrum.org
@@ -49,4 +50,3 @@ source: youtube
 #shorts #shortvideo #shortsvideo If you're interested in the new Professional Scrum Product Backlog Management course from @ScrumOrg you'll find this excerpt from Martin Hinshelwood talking about the new course valuable. To watch the full video, visit https://youtu.be/UOzrABhafx0
 
 [Watch on YouTube](https://www.youtube.com/watch?v=R8Ris5quXb8)
-

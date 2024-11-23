@@ -1,6 +1,6 @@
 ---
 title: Top 4 Rookie Mistakes in Azure DevOps
-description: "Discover the top 4 rookie mistakes in Azure DevOps that can derail your projects! Learn to simplify your approach and enhance your workflow. \U0001F680✨"
+description: Unpack 4 critical Azure DevOps pitfalls that make the Azure DevOps product teams' toes curl! Enjoy this video?
 date: 2024-04-09T08:00:20Z
 videoId: jcs-2G99Rrw
 url: /resources/videos/:slug
@@ -14,11 +14,12 @@ duration: 2034
 isShort: false
 tags: []
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube jcs-2G99Rrw >}}
 
 # Top 4 Rookie Mistakes in Azure DevOps
@@ -47,4 +48,3 @@ Sign up for one of our upcoming professional Scrum classes: https://nkdagility.c
 Remember, it's not just about agility; it's about embracing Naked Agility for truly effective project management.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=jcs-2G99Rrw)
-

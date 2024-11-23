@@ -1,6 +1,6 @@
 ---
 title: The Tyranny of Taylorism & how to detect Agile BS!
-description: Explore the roots of management practices in 'The Tyranny of Taylorism' and learn to spot Agile BS in today's workplaces. Change starts with understanding!
+description: Something very close to my heart is helping folks understand the origin of the practices that are commonly used in management today.
 date: 2020-03-18T13:56:05Z
 videoId: FZeT8O5Ucwg
 url: /resources/videos/:slug
@@ -18,11 +18,12 @@ tags:
 - Taylorism
 - Waterfall
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube FZeT8O5Ucwg >}}
 
 # The Tyranny of Taylorism & how to detect Agile BS!
@@ -44,4 +45,3 @@ View Presentation: https://nkdagility.net/30MVagF
 DIB Guide: Detecting Agile BS: https://nkdagility.net/DOD-Detecting​
 
 [Watch on YouTube](https://www.youtube.com/watch?v=FZeT8O5Ucwg)
-

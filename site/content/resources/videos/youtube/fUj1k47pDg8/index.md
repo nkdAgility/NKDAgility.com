@@ -1,6 +1,6 @@
 ---
 title: PPDV course overview with Dr Joanna Plaskonka
-description: Join Dr Joanna Plaskonka for a quick overview of the PPDV course and discover how to enhance your product discovery skills! Register now!
+description: Thinking of doing the PPDV course?  Here's a quick overview of the course from Dr Joanna Plaskonka.
 date: 2024-08-13T07:14:40Z
 videoId: fUj1k47pDg8
 url: /resources/videos/:slug
@@ -14,11 +14,12 @@ duration: 355
 isShort: false
 tags: []
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube fUj1k47pDg8 >}}
 
 # PPDV course overview with Dr Joanna Plaskonka
@@ -26,4 +27,3 @@ source: youtube
 Thinking of doing the PPDV course? Here's a quick overview of the course from Dr Joanna Plaskonka. Visit https://nkdagility.com/training-courses/product-training-courses/professional-product-discovery-and-validation-skills-ppdv/ to register. #agile #scrum #productowner #projectmanager #productmanager #productdiscovery #agileproductdevelopment
 
 [Watch on YouTube](https://www.youtube.com/watch?v=fUj1k47pDg8)
-

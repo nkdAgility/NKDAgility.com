@@ -1,6 +1,6 @@
 ---
 title: Unleash your team's full potential
-description: "Unlock your team's potential with NKD Agility! Discover how to achieve engineering excellence through quality code. Visit us now! #Agile #ProductDevelopment"
+description: 'Quality Code: Achieving Engineering Excellence with NKD Agility.'
 date: 2024-11-20T08:02:36Z
 videoId: WEYf9jWG9wk
 url: /resources/videos/:slug
@@ -25,11 +25,12 @@ tags:
 - project manager
 - scrum master
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube WEYf9jWG9wk >}}
 
 # Unleash your team's full potential
@@ -37,4 +38,3 @@ source: youtube
 Quality Code: Achieving Engineering Excellence with NKD Agility. Visit https://www.nkdagility.com #agile #agileproductdevelopment #agileproductmanagement #agileprojectmanagement #productdevelopment #productmanagement #projectmanagement #projectmanager #productowner #scrummaster
 
 [Watch on YouTube](https://www.youtube.com/watch?v=WEYf9jWG9wk)
-

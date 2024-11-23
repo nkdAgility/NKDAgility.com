@@ -1,6 +1,6 @@
 ---
 title: Overview of the 8-week Immersive learning experience
-description: "Discover the power of immersive learning in Scrum and project management! Join Martin as he explores real-world applications and transformative training. \U0001F30D✨"
+description: '*Unlocking Real-World Value with Immersive Learning: A Scrum. org Insight* - Explore the transformative power of immersive learning in this insightful video.'
 date: 2023-06-08T07:00:30Z
 videoId: qrEqX_5FWM8
 url: /resources/videos/:slug
@@ -23,11 +23,12 @@ tags:
 - Scrum Courses
 - Scrum Certification
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube qrEqX_5FWM8 >}}
 
 # Overview of the 8-week Immersive learning experience
@@ -68,4 +69,3 @@ If you are underemployed, we can also create custom payment plans to help you ou
 #scrum, #agile, #projectmanagement, #productdevelopment, #agilecoach, #agileconsultant, #agiletraining, #scrumtraining, #scrumorg, #scrummaster, #productowner
 
 [Watch on YouTube](https://www.youtube.com/watch?v=qrEqX_5FWM8)
-

@@ -1,6 +1,6 @@
 ---
 title: How will a PSM II course challenge your assumptions the most?
-description: Discover how the PSM II course challenges your assumptions and elevates your Scrum mastery with insights from Martin Hinshelwood at Naked Agility.
+description: 'The #PSMII or #advancedprofessionalscrummaster course, developed by #scrumorg, has been designed to escalate the knowledge, skills, and capabilities of a #scrummaster to a more advanced, professional level.'
 date: 2023-05-12T14:00:02Z
 videoId: 3YBrq-cle_w
 url: /resources/videos/:slug
@@ -22,11 +22,12 @@ tags:
 - Scrum Master
 - Scrum Master training
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---
+
 {{< youtube 3YBrq-cle_w >}}
 
 # How will a PSM II course challenge your assumptions the most?
@@ -51,4 +52,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=3YBrq-cle_w)
-
