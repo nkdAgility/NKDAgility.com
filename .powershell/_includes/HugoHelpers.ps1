@@ -138,7 +138,7 @@ function Save-HugoMarkdown {
         [string]$Path
     )
 
-    $updatedContent = "---`n$(ConvertTo-Yaml $hugoMarkdown.FrontMatter)`n---`n$($hugoMarkdown.BodyContent)"
+    $updatedContent = "---`n$(ConvertTo-Yaml $hugoMarkdown.FrontMatter)`n---`n$($hugoMarkdown.BodyContent.TrimEnd())"
     Set-Content -Path $Path -Value $updatedContent
 }
 

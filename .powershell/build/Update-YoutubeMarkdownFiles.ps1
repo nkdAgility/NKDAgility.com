@@ -124,9 +124,7 @@ function Update-YoutubeMarkdownFiles {
             }                 
             $hugoMarkdown.FrontMatter["sitemap"] = @{ filename = "sitemap.xml"; priority = $priority }  # Update sitemap filename
             # Save the updated HugoMarkdown to index.md
-            $frontMatterYaml = "---`n" + ($hugoMarkdown.FrontMatter | ConvertTo-Yaml) + "`n---`n"
-            $markdownContent = $frontMatterYaml + $hugoMarkdown.BodyContent
-            Set-Content -Path $markdownFile -Value $markdownContent.TrimEnd()
+            Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $markdownFile
             Write-Host "Markdown created or updated for video: $($videoSnippet.title)"
         }
     }
