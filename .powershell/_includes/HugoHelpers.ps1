@@ -1,4 +1,11 @@
-
+# Ensure PowerShell-YAML module is available
+if (-not (Get-Module -ListAvailable -Name PowerShell-Yaml)) {
+    Install-Module -Name PowerShell-Yaml -Force -Scope CurrentUser
+    Import-Module -Name PowerShell-Yaml
+}
+else {
+    Import-Module -Name PowerShell-Yaml
+}
 
 class HugoMarkdown {
     [System.Collections.Specialized.OrderedDictionary]$FrontMatter
@@ -54,13 +61,13 @@ function Update-Field {
 
     # Check if the field already exists
     if ($frontMatter.Contains($fieldName)) {
-        if ($Overwrite) {
+        if ($Overwrite -or ([string]::IsNullOrEmpty($frontMatter[$fieldName]))) {
             # Overwrite the existing value
             $frontMatter[$fieldName] = $fieldValue
             Write-Host "$fieldName overwritten"
         }
         else {
-            Write-Host "$fieldName already exists"
+            Write-Host "$fieldName already exists and is not empty"
         }
         return $frontMatter
     }
@@ -87,6 +94,43 @@ function Update-Field {
     Write-Host "$fieldName added"
     return $frontMatter
 }
+
+# Update-List function to have the same signature as Update-Field
+# Update-List -frontMatter $frontMatter -fieldName 'tags' -values ([list]@('DevOps', 'Agile', 'Scrum'))
+function Update-StringList {
+    param (
+        [Parameter(Mandatory = $true)]
+        [System.Collections.Specialized.OrderedDictionary]$frontMatter,
+        [Parameter(Mandatory = $true)]
+        [string]$fieldName,
+        [Parameter(Mandatory = $true)]
+        [System.Collections.Generic.List[string]]$values,
+        [string]$addAfter = $null,
+        [string]$addBefore = $null
+    )
+
+    if (-not $frontMatter.Contains($fieldName)) {
+        # Add property if it doesn't exist
+        $frontMatter[$fieldName] = $values
+        Write-Host "$fieldName added"
+    }
+    else {
+        # Update list if it already exists, adding only unique values
+        $existingValues = $frontMatter[$fieldName]
+        $newValues = $values | Where-Object { -not ($existingValues -contains $_) }
+        if ($newValues.Count -ne 0) {
+            $frontMatter[$fieldName].AddRange($newValues)
+            Write-Host "$fieldName updated with new unique values"
+        }
+        else {
+            Write-Host "$fieldName already contains all values"
+        }
+        
+        
+    }
+}
+
+
 
 
 # Function to save updated HugoMarkdown to a file
