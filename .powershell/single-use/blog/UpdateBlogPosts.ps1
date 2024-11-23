@@ -32,9 +32,12 @@ $blogs | ForEach-Object {
             $aliases += "/blog/$slug"
         }
         if ($hugoMarkdown.FrontMatter.Contains("title")) {
+            $slug = $hugoMarkdown.FrontMatter.slug
             $urlSafeTitle = ($hugoMarkdown.FrontMatter.title -replace '[:\/\\*?"<>|#%.!]', '-' -replace '\s+', '-').ToLower()
-            $aliases += "/$urlSafeTitle"
-            $aliases += "/blog/$urlSafeTitle"
+            if ($urlSafeTitle -ne $slug) {
+                $aliases += "/$urlSafeTitle"
+                $aliases += "/blog/$urlSafeTitle"
+            }           
         }      
         Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliases' -values $aliases -addAfter 'slug'
 

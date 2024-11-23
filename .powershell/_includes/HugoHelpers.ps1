@@ -125,6 +125,12 @@ function Update-StringList {
         else {
             Write-Host "$fieldName already contains all values"
         }
+        $duplicates = $array | Group-Object | Where-Object { $_.Count -gt 1 }
+        # Display the duplicate values
+        foreach ($duplicate in $duplicates) {
+            Write-Host "Duplicate value: $($duplicate.Name) appears $($duplicate.Count) times"
+            exit
+        }
     }
 }
 
