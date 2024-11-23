@@ -3,6 +3,7 @@ title: 1 thing you wish you knew at the start of your Scrum journey?
 description: 'Discover the key insight Martin Hinshelwood wishes he had at the start of his Scrum journey. Elevate your Agile experience with Naked Agility! #Scrum #Agile'
 date: 2023-12-02
 videoId: 5s9vi8PiFM4
+source: internal
 url: /resources/videos/:slug
 slug: 1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey
 preview: https://i.ytimg.com/vi/5s9vi8PiFM4/maxresdefault.jpg
@@ -57,6 +58,9 @@ Don't wait 7 or 8 years to discover this powerful combination, like I did!
 Let's walk this rewarding path together, integrating the social technology of Scrum with the data-driven insights of Lean, paving the way for a journey characterized by success and innovation.
 
 Join my Agile and Scrum courses to equip yourself with the knowledge and skills to blend these two potent methodologies into your professional journey seamlessly.
+
+
+
 
 
 

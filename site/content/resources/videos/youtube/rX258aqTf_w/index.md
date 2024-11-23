@@ -3,6 +3,7 @@ title: In what circumstances is agile consulting appropriate?
 description: Discover when to engage an agile consultant to enhance your team's collaboration and creativity in this insightful video with Martin Hinshelwood.
 date: 2023-01-25
 videoId: rX258aqTf_w
+source: internal
 url: /resources/videos/:slug
 slug: in-what-circumstances-is-agile-consulting-appropriate
 preview: https://i.ytimg.com/vi/rX258aqTf_w/maxresdefault.jpg
@@ -111,6 +112,7 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 
 

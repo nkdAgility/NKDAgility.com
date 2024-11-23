@@ -3,6 +3,7 @@ title: 'The Competence Crisis in Scrum Master Roles: A Call for Excellence'
 description: "Explore the competence crisis in Scrum Masters! Discover why many lack essential skills and how to elevate Agile practices in your organisation. \U0001F680"
 date: 2024-11-22
 videoId: GJFklM1U5Pc
+source: internal
 url: /resources/videos/:slug
 slug: the-competence-crisis-in-scrum-master-roles-a-call-for-excellence
 preview: https://i.ytimg.com/vi/GJFklM1U5Pc/maxresdefault.jpg
@@ -166,6 +167,7 @@ The competence crisis in Scrum Master roles is a reality, but it’s not without
 - Focus on practical experience and real-world application.
 
 By focusing on these areas, Scrum Masters can elevate their roles, deliver more value, and help their organizations thrive in this new age of agile.
+
 
 
 

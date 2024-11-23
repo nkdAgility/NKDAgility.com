@@ -3,6 +3,7 @@ title: The Importance of Patience and Trust in Building Agile Organizations
 description: "Unlock Agile success with patience! Discover how this vital virtue builds trust, navigates setbacks, and fosters a non-blame culture. Watch now! \U0001F31F"
 date: 2024-10-07
 videoId: 9VHasQBlQc8
+source: internal
 url: /resources/videos/:slug
 slug: the-importance-of-patience-and-trust-in-building-agile-organizations
 preview: https://i.ytimg.com/vi/9VHasQBlQc8/maxresdefault.jpg
@@ -128,6 +129,9 @@ Blame never leads to positive outcomes. Instead, focus on understanding the root
 Sometimes, it can be difficult to recognize when an organization has lost its way when it comes to trust and patience. That's where external help, like consultants or coaches, can be invaluable. At Naked Agility, we specialize in helping organizations realign with the Seven Virtues of Agility, including trust and patience.
 
 Our approach is grounded in helping teams foster better communication, patience, and trust through practical, hands-on guidance. If you're struggling with building trust within your teams, it might be time to seek outside help. 🌱 **Final Thought:** Trust and patience aren’t just "nice to have" values—they are critical to creating successful, sustainable Agile organizations.
+
+
+
 
 
 

@@ -41,3 +41,6 @@ MN Classroom Content Preview: https://community.nkdagility.com/courses/6859485/c
 
 [Watch on YouTube](https://www.youtube.com/watch?v=5ZRMBfV9zpI)
 
+
+
+

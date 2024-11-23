@@ -3,6 +3,7 @@ title: 'The Importance of Evaluating Direction: Are You Heading the Right Way?'
 description: "Evaluate your project's direction! \U0001F9ED Discover how to make informed choices and adapt in a changing world. Join us for insights and guidance! \U0001F4A1"
 date: 2024-10-02
 videoId: 17qTGonSsbM
+source: internal
 url: /resources/videos/:slug
 slug: the-importance-of-evaluating-direction-are-you-heading-the-right-way
 preview: https://i.ytimg.com/vi/17qTGonSsbM/maxresdefault.jpg
@@ -136,6 +137,9 @@ To recap:
 - **Organizations**: Stay flexible and open to change; otherwise, you risk driving off the cliff.
 
 It’s crucial to take a step back, evaluate, and be willing to adjust your course. As Lao Tzu suggests, if you don’t change direction, you may end up somewhere you don’t want to be. And nobody wants that, right? 🚫
+
+
+
 
 
 

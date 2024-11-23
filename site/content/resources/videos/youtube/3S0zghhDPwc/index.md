@@ -3,6 +3,7 @@ title: 'The Overlooked Virtue of Agility: Diligence'
 description: Unlock the power of diligence in Agile! Discover how attention to detail can elevate your projects and drive success. Watch now for essential insights!
 date: 2024-10-06
 videoId: 3S0zghhDPwc
+source: internal
 url: /resources/videos/:slug
 slug: the-overlooked-virtue-of-agility-diligence
 preview: https://i.ytimg.com/vi/3S0zghhDPwc/maxresdefault.jpg
@@ -140,6 +141,9 @@ Here’s how you can start cultivating diligence in your team:
 - **Prioritize Quality**: Don’t sacrifice long-term success for short-term speed.
 
 If you're finding it difficult to instill diligence in your team, don't hesitate to reach out for help. My team at NE Agility specializes in coaching teams to unlock the Seven Virtues of Agility, including diligence. Whether you need coaching, consulting, or training, we can help you get on the right track. Remember, it’s not just about being Agile—it’s about having naked agility. 🔥
+
+
+
 
 
 

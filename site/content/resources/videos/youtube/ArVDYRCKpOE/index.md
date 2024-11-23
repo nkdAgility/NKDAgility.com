@@ -3,6 +3,7 @@ title: 'Quotes: Fake it until you make it'
 description: 'Explore the pros and cons of "fake it until you make it" in Agile with Martin Hinshelwood. Discover insights for inspired, high-performing teams! #agile #scrum'
 date: 2023-12-24
 videoId: ArVDYRCKpOE
+source: internal
 url: /resources/videos/:slug
 slug: quotes-fake-it-until-you-make-it
 preview: https://i.ytimg.com/vi/ArVDYRCKpOE/maxresdefault.jpg
@@ -80,6 +81,9 @@ The key is to strike a balance: 
 - **Embrace Continuous Learning:** Encourage a mindset where team members are always expanding their skills. 📈 
 
 In summary, "Fake it till you make it" should be used with caution. It's a tool for building confidence and learning, not a substitute for real expertise. In our Agile teams, let’s foster environments where learning is ongoing and expertise is valued.
+
+
+
 
 
 

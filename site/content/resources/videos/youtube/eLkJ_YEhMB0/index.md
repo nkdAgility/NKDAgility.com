@@ -3,6 +3,7 @@ title: Overcoming the Ghost of Agile Certifications
 description: "Transform your Agile Scrum meetings from routine to value-driven! Discover strategies to boost productivity and avoid the ghosts of Agile past. \U0001F31F"
 date: 2024-10-19
 videoId: eLkJ_YEhMB0
+source: internal
 url: /resources/videos/:slug
 slug: overcoming-the-ghost-of-agile-certifications
 preview: https://i.ytimg.com/vi/eLkJ_YEhMB0/maxresdefault.jpg
@@ -128,6 +129,7 @@ If you’re struggling with the role that certifications play in your Agile jour
 - **Join us** – We offer immersive training that goes beyond certifications, helping you build real-world expertise.
 
 Remember, the journey to becoming a true Agile professional is about more than just passing a test. It’s about continuous learning, hands-on experience, and making a real impact within your teams. 🛠️ **Certifications aren’t the destination—they’re just the start!**
+
 
 
 

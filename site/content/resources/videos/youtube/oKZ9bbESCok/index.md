@@ -3,6 +3,7 @@ title: 'Say-Do Metrics: Avoiding Agile Banditry in Your Organization'
 description: "Uncover the truth behind say-do metrics in Agile! Join Martin as he reveals pitfalls and shares insights for genuine outcomes. \U0001F680\U0001F4CA #Agile #Transparency"
 date: 2024-10-16
 videoId: oKZ9bbESCok
+source: internal
 url: /resources/videos/:slug
 slug: say-do-metrics-avoiding-agile-banditry-in-your-organization
 preview: https://i.ytimg.com/vi/oKZ9bbESCok/maxresdefault.jpg
@@ -158,6 +159,7 @@ At the end of the day, say-do metrics are a tool of Agile banditry. They allow o
 - Embrace **transparency** and open communication.
 
 If your organization is grappling with Agile banditry and misleading metrics, my team at **Naked Agility** can help. We specialize in helping teams and organizations get back on track, focusing on delivering real value rather than playing games with data.
+
 
 
 

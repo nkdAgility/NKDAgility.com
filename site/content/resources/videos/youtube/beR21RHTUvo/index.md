@@ -3,6 +3,7 @@ title: 'Story Points: A Ghost of Agile Past'
 description: "Uncover the hidden challenges of story points in Agile! Join Martin as he explores their pitfalls and advocates for a value-driven approach. \U0001F47B\U0001F680 #AgileChallenges"
 date: 2024-10-18
 videoId: beR21RHTUvo
+source: internal
 url: /resources/videos/:slug
 slug: story-points-a-ghost-of-agile-past
 preview: https://i.ytimg.com/vi/beR21RHTUvo/maxresdefault.jpg
@@ -138,6 +139,7 @@ Here are some signs your team might be haunted by the ghost of story points:
 ## **Moving Forward with Flow**
 
 The future is bright, but only if we’re willing to let go of outdated methods like story points and embrace more meaningful metrics. **Flow metrics** provide us with the tools we need to move forward and focus on what truly matters: delivering value. 💬 **Don’t let the past hold you back**—let’s move towards a future where we measure what really matters.
+
 
 
 

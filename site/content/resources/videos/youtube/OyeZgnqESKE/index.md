@@ -3,6 +3,7 @@ title: Why Immersive Learning Keeps Scrum Students Excited and Engaged
 description: 'Discover why immersive learning transforms Scrum training! Join us for Part 2 as we explore the second reason to love this engaging experience. #Shorts'
 date: 2024-10-21
 videoId: OyeZgnqESKE
+source: internal
 url: /resources/videos/:slug
 slug: why-immersive-learning-keeps-scrum-students-excited-and-engaged
 preview: https://i.ytimg.com/vi/OyeZgnqESKE/maxresdefault.jpg
@@ -152,6 +153,7 @@ Through immersive learning, Scrum students:
 - Apply their knowledge in real-world situations, leading to **continuous improvement**.
 
 And the best part? This process not only keeps people **excited** about learning Scrum but also helps them to become **better practitioners**. So whether you’re a Scrum Master, an Agile coach, or a team member, remember: learning is never a one-time event. It’s a journey of continuous **growth** and **discovery**. Let’s make sure we enjoy the ride! 🚀
+
 
 
 

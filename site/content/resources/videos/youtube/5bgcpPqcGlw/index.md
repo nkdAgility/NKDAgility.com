@@ -36,3 +36,6 @@ Techorama BE: https://techorama.be/speakers/session/agile-evolution-live-site-cu
 
 [Watch on YouTube](https://www.youtube.com/watch?v=5bgcpPqcGlw)
 
+
+
+

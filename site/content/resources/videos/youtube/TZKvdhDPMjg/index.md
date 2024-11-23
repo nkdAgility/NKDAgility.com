@@ -3,6 +3,7 @@ title: One thing a client can do to ensure a successful Agile consulting engagem
 description: 'Discover the key action clients can take to empower their agile coaches for success in this insightful short video with Martin Hinshelwood. #Agile #Coaching'
 date: 2023-07-21
 videoId: TZKvdhDPMjg
+source: internal
 url: /resources/videos/:slug
 slug: one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement
 preview: https://i.ytimg.com/vi/TZKvdhDPMjg/maxresdefault.jpg
@@ -83,6 +84,7 @@ Hashtags:         #AgileConsulting #ChangeManagement #AgileMindset
 General
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

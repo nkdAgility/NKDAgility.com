@@ -3,6 +3,7 @@ title: What is the most interesting outcome you have achieved as an agile consul
 description: Discover the fascinating outcomes of agile consulting with Martin Hinshelwood as he shares insights on navigating complexity in project management.
 date: 2023-07-14
 videoId: zoAhqsEqShs
+source: internal
 url: /resources/videos/:slug
 slug: what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant
 preview: https://i.ytimg.com/vi/zoAhqsEqShs/maxresdefault.jpg
@@ -101,6 +102,7 @@ Hashtags:         #AgileConsulting, #ScrumTraining, #ContinuousDelivery, 
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

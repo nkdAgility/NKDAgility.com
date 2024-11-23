@@ -3,6 +3,7 @@ title: Why do you think that 4 half days is a better format than 2 full days?
 description: Discover why Martin Hinshelwood advocates for 4 half days of Scrum training over 2 full days, enhancing learning in agile environments.
 date: 2023-06-26
 videoId: jFU_4xtHzng
+source: internal
 url: /resources/videos/:slug
 slug: why-do-you-think-that-4-half-days-is-a-better-format-than-2-full-days
 preview: https://i.ytimg.com/vi/jFU_4xtHzng/maxresdefault.jpg
@@ -97,6 +98,7 @@ Specific:           #trainingdesign, #FlowEfficiency, #Optimization, #A
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

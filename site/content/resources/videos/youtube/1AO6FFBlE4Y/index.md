@@ -3,6 +3,7 @@ title: The Hidden Costs of Poor Quality Code—and How to Turn It Into a Superpo
 description: Discover the hidden costs of poor-quality code with Martin Hinshelwood. Learn how investing in quality boosts productivity and protects your brand.
 date: 2024-11-19T09:58:28Z
 videoId: 1AO6FFBlE4Y
+source: internal
 url: /resources/videos/:slug
 aliases:
 - /resources/videos/1AO6FFBlE4Y
@@ -23,8 +24,9 @@ tags:
 - Product Manager
 - Project manager
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
+slug: the-high-cost-of-poor-quality-code-
 
 ---
 {{< youtube 1AO6FFBlE4Y >}}
@@ -96,3 +98,6 @@ When you commit to high-quality code, the benefits are exponential:
 Investing in quality is like paying off a loan—you make small, consistent payments over time, but the payoff is enormous. With high-quality, working software delivered regularly, your organization can achieve its full potential.
 
 So, what’s holding you back? Start investing in your team’s engineering practices today, and watch as your organization transforms.
+
+
+

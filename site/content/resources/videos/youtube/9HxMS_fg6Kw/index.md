@@ -3,6 +3,7 @@ title: What are some big red flags when hiring an agile consultant?
 description: Discover key red flags to watch for when hiring an agile consultant to ensure a successful transformation from traditional project management.
 date: 2023-02-22
 videoId: 9HxMS_fg6Kw
+source: internal
 url: /resources/videos/:slug
 slug: what-are-some-big-red-flags-when-hiring-an-agile-consultant
 preview: https://i.ytimg.com/vi/9HxMS_fg6Kw/maxresdefault.jpg
@@ -109,6 +110,9 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
+
+
 
 
 

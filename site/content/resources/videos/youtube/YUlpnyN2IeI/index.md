@@ -3,6 +3,7 @@ title: Best Scrum advice you ever received?
 description: "Unlock Scrum's true potential! Embrace flexibility over dogma with expert insights from Martin. Discover adaptive practices for effective project management. \U0001F680"
 date: 2023-10-17
 videoId: YUlpnyN2IeI
+source: internal
 url: /resources/videos/:slug
 slug: best-scrum-advice-you-ever-received
 preview: https://i.ytimg.com/vi/YUlpnyN2IeI/maxresdefault.jpg
@@ -95,6 +96,7 @@ It encourages us to create our recipe for success, one that resonates with our u
 Are you ready to navigate these adaptive and iterative processes? I invite you to join my Agile and Scrum courses.  🚀
 
 Together, we can embark on a journey to redefine the contours of professionalism and agility in the industry.
+
 
 
 

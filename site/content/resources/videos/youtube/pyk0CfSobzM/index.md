@@ -3,6 +3,7 @@ title: How does a Scrum team estimate what can be delivered in a Sprint?
 description: "Master Sprint estimation in Scrum! Join Martin as he navigates the challenges of creative tasks and effective planning. Perfect for agile enthusiasts! \U0001F680"
 date: 2023-10-10
 videoId: pyk0CfSobzM
+source: internal
 url: /resources/videos/:slug
 slug: how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint
 preview: https://i.ytimg.com/vi/pyk0CfSobzM/maxresdefault.jpg
@@ -95,6 +96,7 @@ Remember, your Sprint goal should encompass only a portion of the Sprint, allowi
 I invite you to join my Agile and Scrum courses to delve even deeper into these nuances and cultivate a robust understanding. 🎓
 
 We will navigate the unpredictable yet exhilarating journey of Agile project management.  Let's learn, adapt, and grow together!
+
 
 
 

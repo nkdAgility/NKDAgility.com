@@ -3,6 +3,7 @@ title: 'The Power of Kindness in Agile: A Core Virtue for Success'
 description: "Discover how kindness transforms Agile! Explore empathy's role in boosting customer satisfaction and employee engagement for organisational success. \U0001F31F"
 date: 2024-10-07
 videoId: 4nhKXAgutZw
+source: internal
 url: /resources/videos/:slug
 slug: the-power-of-kindness-in-agile-a-core-virtue-for-success
 preview: https://i.ytimg.com/vi/4nhKXAgutZw/maxresdefault.jpg
@@ -138,6 +139,9 @@ If you’re ready to take the next step in your Agile journey, remember: **You d
 - Prioritize trust through benevolence and empathy.
 
 Create an environment where kindness is a core value.
+
+
+
 
 
 

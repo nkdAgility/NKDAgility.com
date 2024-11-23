@@ -3,6 +3,7 @@ title: How does someone become an Agile consultant?
 description: Discover how to become a powerful agile consultant with insights from Martin Hinshelwood. Transform organisations through effective coaching and training!
 date: 2023-07-18
 videoId: oBnvr7vOkg8
+source: internal
 url: /resources/videos/:slug
 slug: how-does-someone-become-an-agile-consultant
 preview: https://i.ytimg.com/vi/oBnvr7vOkg8/maxresdefault.jpg
@@ -116,6 +117,7 @@ Hashtags:        #AgileConsulting #AgilePractices #AgileJourney #AgileandS
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

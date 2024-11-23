@@ -3,6 +3,7 @@ title: What is Project Management?
 description: 'Discover the essence of project management in this short video! Learn how it evolved from manufacturing to enhance teamwork and efficiency. #agile #scrum'
 date: 2023-10-10
 videoId: jmU91ClcSqA
+source: internal
 url: /resources/videos/:slug
 slug: what-is-project-management
 preview: https://i.ytimg.com/vi/jmU91ClcSqA/maxresdefault.jpg
@@ -58,6 +59,7 @@ To help people know everything they're going to do, to plan the way forward and 
 - The ultimate aim – a know-it-all plan for action ✅
 
 If this information piques your curiosity and you're intrigued and ready to take the leap into the dynamic world of Project Management, I'd love to guide you on this journey with my Agile and Scrum courses 🚀
+
 
 
 

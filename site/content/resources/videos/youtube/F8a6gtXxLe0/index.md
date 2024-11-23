@@ -33,3 +33,4 @@ I trained over 150 people at Healthgrades and not everyone liked the idea at the
 
 [Watch on YouTube](https://www.youtube.com/watch?v=F8a6gtXxLe0)
 
+

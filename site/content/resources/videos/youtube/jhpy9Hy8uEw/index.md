@@ -3,6 +3,7 @@ title: Why did you choose the Scrum.Org track rather than the Scrum Alliance tra
 description: Explore why Scrum.org is the preferred choice for Scrum training over Scrum Alliance. Uncover insights from an insider's journey to effective certification!
 date: 2023-04-10
 videoId: jhpy9Hy8uEw
+source: internal
 url: /resources/videos/:slug
 slug: why-did-you-choose-the-scrum-org-track-rather-than-the-scrum-alliance-track
 preview: https://i.ytimg.com/vi/jhpy9Hy8uEw/maxresdefault.jpg
@@ -87,6 +88,7 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 
 

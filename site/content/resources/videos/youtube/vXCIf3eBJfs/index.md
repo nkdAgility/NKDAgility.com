@@ -3,6 +3,7 @@ title: How to Choose the Right Agile Coach for Your Business Success
 description: 'Discover 5 essential tips from Martin Hinshelwood on hiring the right #AgileCoach in this insightful video. Elevate your #Agile journey today!'
 date: 2024-09-28
 videoId: vXCIf3eBJfs
+source: internal
 url: /resources/videos/:slug
 slug: how-to-choose-the-right-agile-coach-for-your-business-success
 preview: https://i.ytimg.com/vi/vXCIf3eBJfs/maxresdefault.jpg
@@ -138,6 +139,7 @@ When considering an Agile coach, you want someone who is not only experienced bu
 An agnostic coach will help you navigate the complexities of Agile, choosing the right tools, technologies, and practices for your unique situation. Ultimately, the best Agile coaches put your business first, ensuring their guidance and strategies align with your specific goals, culture, and challenges.
 
 🚀 **Pro Tip**: When interviewing an Agile coach, make sure to ask about their experience in tailoring approaches to various industries. A coach who is versatile across different frameworks will have the adaptability your team needs to succeed. By focusing on these key qualities, you’ll find a coach who can help your business thrive in the Agile world — without being confined to just one way of thinking.
+
 
 
 

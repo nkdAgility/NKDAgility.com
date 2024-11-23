@@ -3,6 +3,7 @@ title: Is a Product Owner an Agile Project Manager?
 description: "Discover why a product owner isn't an agile project manager! Join Martin Hinshelwood as he explores the essence of agile in product development. #shorts"
 date: 2023-10-10
 videoId: HcoTwjPnLC0
+source: internal
 url: /resources/videos/:slug
 slug: is-a-scrum-master-an-agile-project-manager
 preview: https://i.ytimg.com/vi/HcoTwjPnLC0/maxresdefault.jpg
@@ -65,6 +66,7 @@ They have their unique responsibilities and clearly different areas of focus.  
 If you want to explore Agile, Scrum, or even becoming a Scrum Master or Product Owner, check out my Agile and Scrum courses.  📚
 
 You might just find what you're looking for. 👍
+
 
 
 

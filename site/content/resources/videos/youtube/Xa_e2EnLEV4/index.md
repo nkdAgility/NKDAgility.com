@@ -3,6 +3,7 @@ title: 3 best ways to wreck Kanban. Sweep problems under the rug.
 description: Discover the top 3 pitfalls that sabotage Kanban adoption. Learn why ignoring problems can derail your team's success and how to confront them effectively!
 date: 2024-07-04
 videoId: Xa_e2EnLEV4
+source: internal
 url: /resources/videos/:slug
 slug: 3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug
 preview: https://i.ytimg.com/vi/Xa_e2EnLEV4/maxresdefault.jpg
@@ -121,6 +122,7 @@ Implementing a Kanban strategy effectively requires proactive problem-solving:
 Ignoring problems can derail your Kanban strategy and lead to significant issues. By developing the discipline and courage to address problems head-on, you can maintain an effective workflow and continuously improve your processes.
 
 If you’re struggling to implement a Kanban strategy, we can help or connect you with someone who can. Click the link below to get in touch.
+
 
 
 

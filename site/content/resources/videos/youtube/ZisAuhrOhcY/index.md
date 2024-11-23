@@ -3,6 +3,7 @@ title: My journey with Kanban and why I actively recommend it to clients.
 description: Discover my Kanban journey and why I recommend it to clients! Learn how it enhances workflow, transparency, and predictability across all industries.
 date: 2024-07-01
 videoId: ZisAuhrOhcY
+source: internal
 url: /resources/videos/:slug
 slug: my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
 preview: https://i.ytimg.com/vi/ZisAuhrOhcY/maxresdefault.jpg
@@ -116,6 +117,7 @@ Kanban is a powerful strategy for any team, in any industry, aiming to optimize 
 - **Further Reading**: Check out more articles on Kanban and agile methodologies on our blog.
 
 If your current system of work is failing you, then you would benefit from creating and applying a Kanban strategy. Our professional Kanban trainers and consultants are ready to help. Don't wait. The sooner you start, the sooner you will improve. Get in touch below.
+
 
 
 

@@ -3,6 +3,7 @@ title: 'How to Overcome Agile Banditry: A Product Owner’s Journey'
 description: "Discover how to avoid rigid product ownership in Agile! Join Martin as he shares insights on fostering team engagement and achieving true Agile success. \U0001F680"
 date: 2024-10-17
 videoId: EoInrPvjBHo
+source: internal
 url: /resources/videos/:slug
 slug: how-to-overcome-agile-banditry-a-product-owners-journey
 preview: https://i.ytimg.com/vi/EoInrPvjBHo/maxresdefault.jpg
@@ -122,6 +123,7 @@ Agile Banditry doesn’t just hurt the Product Owner; it hurts the entire team a
 - **Trust your team** to deliver amazing results when they’re given autonomy and support.
 
 **Prioritize engagement**—happy, empowered teams build the best products.
+
 
 
 

@@ -3,6 +3,7 @@ title: Why I love heirarchies of competence
 description: 'Discover why Martin Hinshelwood champions hierarchies of competence over control, empowering teams to solve problems and drive success. #Agile #Scrum'
 date: 2023-08-08
 videoId: WVNiLx3QHLg
+source: internal
 url: /resources/videos/:slug
 slug: why-i-love-heirarchies-of-competence
 preview: https://i.ytimg.com/vi/WVNiLx3QHLg/maxresdefault.jpg
@@ -62,6 +63,7 @@ Hashtags:        #CompetenceOverPower, #LeadershipEvolution, #InformedDeci
 General
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

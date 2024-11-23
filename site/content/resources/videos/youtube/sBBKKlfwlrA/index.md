@@ -27,3 +27,4 @@ The Scaled Professional Scrum is a hands-on, activity-based course where student
 
 [Watch on YouTube](https://www.youtube.com/watch?v=sBBKKlfwlrA)
 
+

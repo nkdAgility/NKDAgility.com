@@ -3,6 +3,7 @@ title: 'Quotes: Dictatorship vs Democracy'
 description: "Explore the debate: Is a dictator or democracy better for product development? Join Martin Hinshelwood's insights in this engaging short! #agile #scrum"
 date: 2023-12-23
 videoId: utI-1HVpeSU
+source: internal
 url: /resources/videos/:slug
 slug: quotes-dictatorship-vs-democracy
 preview: https://i.ytimg.com/vi/utI-1HVpeSU/maxresdefault.jpg
@@ -84,6 +85,7 @@ So, how do we find the sweet spot between dictatorship and democracy in Agile le
 ## Conclusion  
 
 In Agile leadership, the key is not to veer too far towards dictatorship or democracy but to blend the best of both. A leader must provide strategic direction while empowering the team to work towards it collaboratively. This hybrid approach ensures efficient decision-making, innovation, and team engagement.
+
 
 
 

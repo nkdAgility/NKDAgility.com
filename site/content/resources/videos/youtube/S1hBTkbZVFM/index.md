@@ -3,6 +3,7 @@ title: 'The Key to Hiring the Right Agile Coach: Building Credibility with Teams
 description: "Discover 5 key considerations for hiring an #AgileCoach with Martin Hinshelwood in this insightful #shorts video. Elevate your team's performance today!"
 date: 2024-09-26
 videoId: S1hBTkbZVFM
+source: internal
 url: /resources/videos/:slug
 slug: the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership
 preview: https://i.ytimg.com/vi/S1hBTkbZVFM/maxresdefault.jpg
@@ -134,6 +135,7 @@ By focusing on these qualities, you’ll find an Agile coach who not only fits y
 * * *
 
 If you're ready to hire an Agile coach, remember to ask the right questions and dig into their experience with both teams and leadership. It's about finding someone who can build trust, foster collaboration, and create lasting change. **Good luck with your Agile journey!**
+
 
 
 

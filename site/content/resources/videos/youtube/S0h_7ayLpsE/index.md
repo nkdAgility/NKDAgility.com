@@ -3,6 +3,7 @@ title: Mastering Evidence-Based Management for Agile Success
 description: Unlock the power of Evidence-Based Management! Learn to gather and analyse data for better product decisions and boost customer satisfaction.
 date: 2024-11-19
 videoId: S0h_7ayLpsE
+source: internal
 url: /resources/videos/:slug
 slug: mastering-evidence-based-management-for-agile-success
 preview: https://i.ytimg.com/vi/S0h_7ayLpsE/maxresdefault.jpg
@@ -156,6 +157,7 @@ Evidence-Based Management isn’t just a methodology; it’s a powerful way to s
 * * *
 
 Start gathering your data today, analyze it, and use it to propel your team towards success! 🚀
+
 
 
 

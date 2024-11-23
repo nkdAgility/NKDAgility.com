@@ -3,6 +3,7 @@ title: How to Achieve Predictability in Business through Agile Principles
 description: "Unlock business predictability with Agile! Join Martin Hinshelwood as he explores strategies to overcome challenges and drive consistent success. \U0001F31F"
 date: 2024-11-20
 videoId: G1BQG2tsbYg
+source: internal
 url: /resources/videos/:slug
 slug: how-to-achieve-predictability-in-business-through-agile-principles
 preview: https://i.ytimg.com/vi/G1BQG2tsbYg/maxresdefault.jpg
@@ -160,6 +161,7 @@ Embarking on the path towards predictability through Agile practices will transf
 - **Higher Resilience:** Enabling your business to thrive in a rapidly changing environment.
 
 🔍 **Ready to increase predictability in your business?** Reach out to NKD Agility to explore how we can support your journey. Let’s work together to create a custom solution that drives your success! 🌟
+
 
 
 

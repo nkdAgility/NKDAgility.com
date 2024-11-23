@@ -3,6 +3,7 @@ title: 3 core practices of Kanban. Actively managing work items in a workflow.
 description: Unlock your team's potential with our guide to active workflow management in Kanban. Learn to optimise processes and prevent bottlenecks for seamless operations!
 date: 2024-07-02
 videoId: u56sOCe6G0A
+source: internal
 url: /resources/videos/:slug
 slug: 3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow
 preview: https://i.ytimg.com/vi/u56sOCe6G0A/maxresdefault.jpg
@@ -114,6 +115,7 @@ Here are some specific actions you can take to actively manage your workflow:
 Active management is a core practice in Kanban that ensures your workflow remains efficient and effective. By regularly reviewing your workflow, addressing bottlenecks, and optimizing the flow of work, you can maximize the value delivered to your customers.
 
 If you are struggling to implement a Kanban strategy, we can help or connect you with someone who can. Click on the link below to get in touch and start optimizing your workflow today.
+
 
 
 

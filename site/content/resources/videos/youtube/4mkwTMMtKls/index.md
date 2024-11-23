@@ -3,6 +3,7 @@ title: '7 deadly sins of Agile: Envy'
 description: "Explore the dangers of envy in Agile! Discover why copying others, like the Spotify model, can hinder your unique path to success. \U0001F6AB\U0001F4CB"
 date: 2023-12-27
 videoId: 4mkwTMMtKls
+source: internal
 url: /resources/videos/:slug
 slug: 7-deadly-sins-of-agile-envy
 preview: https://i.ytimg.com/vi/4mkwTMMtKls/maxresdefault.jpg
@@ -87,6 +88,9 @@ Agile is about crafting a journey that’s right for your team and your customer
 - **Key Insights for Agile Success**: 🗝️ Summarising the essential elements for a successful, individualized Agile approach. 
 
 - **Future-Focused Agile Practice**: 🚀 Encouraging continuous innovation, adaptation, and personalisation in Agile methodologies.
+
+
+
 
 
 

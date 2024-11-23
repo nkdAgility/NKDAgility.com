@@ -41,3 +41,4 @@ Agile Leadership Training: https://nkdagility.com/training/course-schedule/?cour
 
 [Watch on YouTube](https://www.youtube.com/watch?v=p9OhFJ5Ojy4)
 
+

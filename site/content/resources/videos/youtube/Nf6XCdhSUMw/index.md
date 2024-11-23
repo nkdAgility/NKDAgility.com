@@ -30,3 +30,4 @@ An introduction to Evidence Based Management. Visit https://www.nkdagility.com #
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Nf6XCdhSUMw)
 
+

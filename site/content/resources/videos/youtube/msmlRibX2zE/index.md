@@ -32,3 +32,4 @@ You can find the full post on http://nakedalm.com/review-harris-beach-sds-ultrab
 
 [Watch on YouTube](https://www.youtube.com/watch?v=msmlRibX2zE)
 
+

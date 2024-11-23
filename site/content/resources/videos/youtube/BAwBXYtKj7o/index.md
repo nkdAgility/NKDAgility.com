@@ -76,3 +76,6 @@ At [NKD Agility](https://www.nkdagility.com), we help teams implement modern eng
 
 [Watch on YouTube](https://www.youtube.com/watch?v=BAwBXYtKj7o)
 
+
+
+

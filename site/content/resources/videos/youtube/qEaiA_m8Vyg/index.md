@@ -3,6 +3,7 @@ title: Why have you decided to go all in on immersive learning experiences?
 description: "Discover how immersive learning transforms training into a journey of engagement and growth with Martin! Embrace a new way to learn. \U0001F331\U0001F4DA"
 date: 2023-11-27
 videoId: qEaiA_m8Vyg
+source: internal
 url: /resources/videos/:slug
 slug: why-have-you-decided-to-go-all-in-on-immersive-learning-experiences
 preview: https://i.ytimg.com/vi/qEaiA_m8Vyg/maxresdefault.jpg
@@ -140,6 +141,7 @@ By embracing the empirical process of learning, we commit to a cycle of action, 
 - Encourages a scientific approach to learning, enhancing efficacy and outcomes. 
 
 In conclusion, immersive learning experiences are the fertile ground in which the seeds of knowledge can blossom into wisdom. By nurturing these seeds with continuous care, support, and a community of learners, we ensure that they grow into strong, enduring understanding. This is why we're not just embracing immersive learning—we're living it.
+
 
 
 

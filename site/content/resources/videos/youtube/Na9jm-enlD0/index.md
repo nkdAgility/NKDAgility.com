@@ -3,6 +3,7 @@ title: Where is consensus valuable and where does it kill great product developm
 description: "Explore the balance of consensus in product development! Discover when it fuels progress and when it stifles innovation. Join Martin for insights! \U0001F680"
 date: 2023-12-18
 videoId: Na9jm-enlD0
+source: internal
 url: /resources/videos/:slug
 slug: where-is-consensus-valuable-and-where-does-it-kill-great-product-development
 preview: https://i.ytimg.com/vi/Na9jm-enlD0/maxresdefault.jpg
@@ -119,6 +120,7 @@ As we reflect on the journey through consensus in product development, it’s cl
 - **Adapting to Circumstances**: Recognizing when to seek consensus and when to make a decision is an art and science, contributing to the successful evolution of a product 🎨🔬. 
 
 In conclusion, consensus, while always valuable, manifests differently depending on circumstances. Embracing this complexity can lead to richer, more nuanced product development 💡.
+
 
 
 

@@ -3,6 +3,7 @@ title: How important is DevOps in continuous delivery of value to customers?
 description: Discover why DevOps is crucial for agile coaches in delivering continuous value to customers. Join Martin Hinshelwood for key insights!
 date: 2023-03-29
 videoId: XOaAKJpfHIo
+source: internal
 url: /resources/videos/:slug
 slug: how-important-is-devops-in-continuous-delivery-of-value-to-customers
 preview: https://i.ytimg.com/vi/XOaAKJpfHIo/maxresdefault.jpg
@@ -97,6 +98,7 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 
 

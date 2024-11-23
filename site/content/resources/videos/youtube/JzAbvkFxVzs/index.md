@@ -3,6 +3,7 @@ title: 'The Pitfalls of Routine Agile Questions: Avoiding the Ghosts of Agile Pa
 description: Explore the balance between pragmatism and dogmatism in Agile. Discover real stories that highlight the importance of flexibility for effective team management!
 date: 2024-10-20
 videoId: JzAbvkFxVzs
+source: internal
 url: /resources/videos/:slug
 slug: the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
 preview: https://i.ytimg.com/vi/JzAbvkFxVzs/maxresdefault.jpg
@@ -136,6 +137,7 @@ Remember:
 - Manage old tasks before they become bottlenecks.
 
 If your team is struggling with outdated practices, don’t let them haunt you. Reach out to a **Scrum trainer** or **Agile coach** who can help exorcise those phantoms. We’d be happy to assist you on your journey towards a more effective Agile process.
+
 
 
 

@@ -3,6 +3,7 @@ title: How Do You Know How Long It Takes to Deliver Value?
 description: 'Unlock the power of Evidence-Based Management! Discover 5 reasons why EBM is essential for enhancing your Time to Market and driving business success. #EBM #Shorts'
 date: 2024-10-15
 videoId: xaIDtZcoVXE
+source: internal
 url: /resources/videos/:slug
 slug: how-do-you-know-how-long-it-takes-to-deliver-value
 preview: https://i.ytimg.com/vi/xaIDtZcoVXE/maxresdefault.jpg
@@ -156,6 +157,7 @@ By leveraging the principles of **Evidence-Based Management**, you can make info
 - Always remember that speed is important, but **delivering value** is the ultimate goal.
 
 By optimizing your Time to Market, you set your organization up for success, ensuring that you’re delivering the right value at the right time. Keep measuring, keep improving, and keep delivering. 😊
+
 
 
 

@@ -31,3 +31,4 @@ Introduction to Evidence-based Management. Excerpt 1 #evidencebasedleadership #e
 
 [Watch on YouTube](https://www.youtube.com/watch?v=hu80qqzaDx0)
 
+

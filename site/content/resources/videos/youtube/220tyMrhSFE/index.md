@@ -29,3 +29,6 @@ Kanban Principles. Visit https://www.nkdagility.com #agile #agileprojectmanageme
 
 [Watch on YouTube](https://www.youtube.com/watch?v=220tyMrhSFE)
 
+
+
+

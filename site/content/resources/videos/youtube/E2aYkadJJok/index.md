@@ -45,3 +45,4 @@ Visit https://www.nkdagility.com for more information on Kanban courses and Kanb
 
 [Watch on YouTube](https://www.youtube.com/watch?v=E2aYkadJJok)
 
+

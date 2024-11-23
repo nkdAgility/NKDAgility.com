@@ -3,6 +3,7 @@ title: What is Scrum?
 description: 'Discover Scrum, an agile framework that empowers product development teams to tackle complex challenges. Join Martin Hinshelwood for insights! #Scrum #Agile'
 date: 2023-08-19
 videoId: o-wVeh3CIVI
+source: internal
 url: /resources/videos/:slug
 slug: what-is-scrum
 preview: https://i.ytimg.com/vi/o-wVeh3CIVI/maxresdefault.jpg
@@ -81,6 +82,7 @@ Hashtags:        #Scrum, #SocialTechnology, #Complexity, #TaskManagement
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 
 

@@ -3,6 +3,7 @@ title: 'The Strategic Imperative: Empowering Teams with Vision, Goals, and Direc
 description: Unlock your team's potential! Discover how a shared vision and clear goals drive organisational success and empower informed decision-making. Watch now!
 date: 2024-11-03
 videoId: KvZbBwzxSu4
+source: internal
 url: /resources/videos/:slug
 slug: the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
 preview: https://i.ytimg.com/vi/KvZbBwzxSu4/maxresdefault.jpg
@@ -148,6 +149,7 @@ By fostering a culture of empathy, engagement, and shared understanding, you can
 - Foster a culture of empathy, engagement, and shared understanding.
 
 By implementing these strategies, you can transform your organization into a cohesive, high-performing entity where every team member is aligned with the overall strategic direction.
+
 
 
 

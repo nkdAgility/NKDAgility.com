@@ -49,3 +49,6 @@ Avoid the Bug as Task anti-pattern in Azure DevOps: https://nkdagility.com/blog/
 
 [Watch on YouTube](https://www.youtube.com/watch?v=5IBKxYLA494)
 
+
+
+

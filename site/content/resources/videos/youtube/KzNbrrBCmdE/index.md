@@ -32,3 +32,4 @@ Compromises you need to think about for your #azuredevops migration. Excerpt 2. 
 
 [Watch on YouTube](https://www.youtube.com/watch?v=KzNbrrBCmdE)
 
+

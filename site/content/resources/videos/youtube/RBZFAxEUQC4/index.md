@@ -3,6 +3,7 @@ title: '7 deadly sins of Agile: Lust'
 description: "Discover why 'lust' for quick agile solutions can hinder transformation. Learn to tailor agile practices to your unique needs! \U0001F680\U0001F504 #Agile #Transformation"
 date: 2023-12-31
 videoId: RBZFAxEUQC4
+source: internal
 url: /resources/videos/:slug
 slug: 7-deadly-sins-of-agile-lust
 preview: https://i.ytimg.com/vi/RBZFAxEUQC4/maxresdefault.jpg
@@ -102,6 +103,7 @@ The true essence of Agile lies in its ability to adapt – and that requires mor
 - 🚀 Embrace the process of learning, adapting, and growing in your Agile journey. 
 
 Agile transformation isn't about lusting after a trendy methodology; it's about building a framework that resonates with the ethos of your organisation. It's a path of discovery, learning, and, most importantly, embracing change from within. 🌟
+
 
 
 

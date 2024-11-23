@@ -3,6 +3,7 @@ title: "Quotes: Don't scale Scrum! Pragmatic or defeatist?"
 description: 'Explore the debate: Is advising against scaling Scrum pragmatic wisdom or a defeatist mindset? Join the conversation on Agile coaching! #Agile #Scrum #Shorts'
 date: 2023-12-22
 videoId: Oj0ybFF12Rw
+source: internal
 url: /resources/videos/:slug
 slug: quotes-don-t-scale-scrum-pragmatic-or-defeatist
 preview: https://i.ytimg.com/vi/Oj0ybFF12Rw/maxresdefault.jpg
@@ -61,6 +62,7 @@ Let's explore this statement – is it pragmatic caution or simply defeatist? 
 🌟 The notion of "Don't scale Scrum" is not pragmatic wisdom; it's a defeatist attitude.  
 
 Scrum can and has been scaled successfully, delivering more value than ever.
+
 
 
 

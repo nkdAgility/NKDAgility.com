@@ -3,6 +3,7 @@ title: How Do You Know the Value Currently Delivered in Your Organization?
 description: "Unlock your organisation's potential with EBM! Discover 5 compelling reasons to embrace evidence-based management in your environment. #EBM #Shorts"
 date: 2024-10-13
 videoId: 5qtS7DYGi5Q
+source: internal
 url: /resources/videos/:slug
 slug: how-do-you-know-the-value-currently-delivered-in-your-organization
 preview: https://i.ytimg.com/vi/5qtS7DYGi5Q/maxresdefault.jpg
@@ -211,6 +212,9 @@ As your organization grows, the metrics you track may need to evolve. Stay flexi
 ## Conclusion
 
 **Evidence-Based Management** is a powerful tool for understanding and enhancing the value your organization delivers. By using data-driven insights, you can make smarter decisions, foster continuous improvement, and ultimately drive better outcomes for your customers and teams. So, how do you know the value you're currently delivering in your organization? With EBM, the answer lies in the evidence. 📊✔️
+
+
+
 
 
 

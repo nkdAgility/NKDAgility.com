@@ -32,3 +32,4 @@ This week Russell Miller and I co-taught a Professional Agile Leadership class a
 
 [Watch on YouTube](https://www.youtube.com/watch?v=p3D5RjM5grA)
 
+

@@ -3,6 +3,7 @@ title: How will the immersive learning experience help coach people on the job?
 description: 'Discover how immersive learning transforms #scrum training into practical on-the-job coaching, enhancing skills and boosting team performance.'
 date: 2024-02-14
 videoId: pU57BrP94-8
+source: internal
 url: /resources/videos/:slug
 slug: how-will-the-immersive-learning-experience-help-coach-people-on-the-job
 preview: https://i.ytimg.com/vi/pU57BrP94-8/maxresdefault.jpg
@@ -88,6 +89,7 @@ Explore the Immersive Journey with Me 
 For those eager to immerse themselves in a richer, more integrated Scrum experience, I invite you to embark on this learning journey with me.  
 
 Connect with me through Naked Agility, and let's craft your own unique Scrum immersive learning experience. 🌟
+
 
 
 

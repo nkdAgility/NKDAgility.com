@@ -3,6 +3,7 @@ title: 'The Art of Negotiation for Product Owners: Essential Skills to Master'
 description: Unlock essential negotiation skills for product owners! Learn strategies from an FBI expert to enhance your influence and success. Watch now!
 date: 2024-10-08
 videoId: DBa5_WhA68M
+source: internal
 url: /resources/videos/:slug
 slug: the-art-of-negotiation-for-product-owners-essential-skills-to-master
 preview: https://i.ytimg.com/vi/DBa5_WhA68M/maxresdefault.jpg
@@ -144,6 +145,7 @@ I once worked with a Product Owner who had trouble saying no to stakeholders. Th
 If you’re a Product Owner struggling with negotiation or just getting started, don’t wait. **Develop these skills now** to avoid being overwhelmed later. My team at Naked Agility can help you find the right training or coach to improve your negotiation skills. Check out the links in the description for more information!
 
 📈💡 **Remember:** Negotiation is a skill that grows over time. The more you practice, the better you’ll become at delivering maximum value while maintaining strong relationships.
+
 
 
 

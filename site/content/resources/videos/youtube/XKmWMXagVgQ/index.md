@@ -3,6 +3,7 @@ title: The Power of Continuous Learning for Product Owners
 description: "Unlock your potential as a product owner! Discover the power of continuous learning and stay ahead in the ever-evolving world of product management. \U0001F680"
 date: 2024-10-10
 videoId: XKmWMXagVgQ
+source: internal
 url: /resources/videos/:slug
 slug: the-power-of-continuous-learning-for-product-owners
 preview: https://i.ytimg.com/vi/XKmWMXagVgQ/maxresdefault.jpg
@@ -157,6 +158,7 @@ Continuous learning is not a sprint—it’s a **marathon**. As you grow in your
 - Engage with the product owner community, read widely, and take advantage of **professional training**.
 
 🌟 **Embrace learning. Stand out. Be in the top 10%.** 🌟
+
 
 
 

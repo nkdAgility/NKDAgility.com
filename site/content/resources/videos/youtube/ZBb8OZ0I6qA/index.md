@@ -57,3 +57,4 @@ _Sign up for one of our upcoming professional Scrum classes: https://nkdagility.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ZBb8OZ0I6qA)
 
+

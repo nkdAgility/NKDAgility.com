@@ -48,3 +48,4 @@ Remember, it's not just about agility; it's about embracing Naked Agility for tr
 
 [Watch on YouTube](https://www.youtube.com/watch?v=jcs-2G99Rrw)
 
+

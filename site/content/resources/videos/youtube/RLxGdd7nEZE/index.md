@@ -3,6 +3,7 @@ title: What is the Single Most Valuable Outcome a Consulting Engagement Can Prod
 description: 'Discover the key outcome of a consulting engagement with Martin Hinshelwood. Learn how to achieve clarity and focus in your #agile journey!'
 date: 2023-11-10
 videoId: RLxGdd7nEZE
+source: internal
 url: /resources/videos/:slug
 slug: what-is-the-single-most-valuable-outcome-a-consulting-engagement-can-produce
 preview: https://i.ytimg.com/vi/RLxGdd7nEZE/maxresdefault.jpg
@@ -68,6 +69,7 @@ Some systemic change to the system enables something some desire that the busine
 As we stand at the threshold of significant transformations, I invite you to deepen your understanding and skills in Agile and Scrum. Our expertly crafted courses are your gateway to nurturing an adaptable mindset, ready to evolve with the dynamic shifts in the business landscape. 🌟
 
 Become a change-maker in your organisation.
+
 
 
 

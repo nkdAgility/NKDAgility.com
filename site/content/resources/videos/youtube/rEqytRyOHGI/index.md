@@ -3,6 +3,7 @@ title: 'Special Sprints: Agile Banditry or Risk Management?'
 description: "Uncover the truth about special sprints in Agile! Join Martin as he reveals their pitfalls and impact on product delivery. \U0001F680\U0001F50D #Agile #SpecialSprints"
 date: 2024-10-15
 videoId: rEqytRyOHGI
+source: internal
 url: /resources/videos/:slug
 slug: special-sprints-agile-banditry-or-risk-management
 preview: https://i.ytimg.com/vi/rEqytRyOHGI/maxresdefault.jpg
@@ -140,6 +141,7 @@ If you're noticing that your team is falling into the trap of special sprints or
 ## **Agile Bandits Beware!**
 
 If you’re being ambushed by agile bandits in your organization—those pushing for special sprints or other shortcuts—stand your ground. Agile isn’t about taking risks; it’s about **mitigating them** by delivering small, usable, and valuable products every sprint. If you need help eliminating these pitfalls, feel free to reach out to my team at **Naked Agility**, or contact a consultant who can guide your team towards true agility. Together, we can create real value, sprint by sprint—**without any safety nets**.
+
 
 
 

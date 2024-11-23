@@ -3,6 +3,7 @@ title: What more needs to happen before traditional organisations consider Agile
 description: Discover why traditional organisations hesitate to adopt Agile in a complex world. Join Martin Hinshelwood for insights on evolving project management.
 date: 2023-11-26
 videoId: TzhiftXOJdw
+source: internal
 url: /resources/videos/:slug
 slug: what-more-needs-to-happen-before-traditional-organisations-consider-agile
 preview: https://i.ytimg.com/vi/TzhiftXOJdw/maxresdefault.jpg
@@ -83,6 +84,7 @@ Organisations that adopt Agile wholeheartedly can expect: 
 ## Closing Thoughts 
 
 For traditional organisations, the adoption of Agile is not merely about implementing new processes; it's about transforming your organisational soul. It's about cultivating a fertile ground for innovation, customer value, and employee satisfaction. It's about not just surviving but thriving in a market that waits for no one.
+
 
 
 

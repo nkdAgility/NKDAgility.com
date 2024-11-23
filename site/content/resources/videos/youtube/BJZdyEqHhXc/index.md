@@ -36,3 +36,4 @@ Visit https://www.nkdagility.com for more insights into our agile coaching, agil
 
 [Watch on YouTube](https://www.youtube.com/watch?v=BJZdyEqHhXc)
 
+

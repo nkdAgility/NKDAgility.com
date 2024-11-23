@@ -30,3 +30,4 @@ Continuous Improvement with #kanban. Visit https://www.nkdagility.com #agile #sc
 
 [Watch on YouTube](https://www.youtube.com/watch?v=V44iUwv0Jcg)
 
+

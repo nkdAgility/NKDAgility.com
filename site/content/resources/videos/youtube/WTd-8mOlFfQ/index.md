@@ -3,6 +3,7 @@ title: 'Part 2: Common Mistakes that Scrum Masters Make'
 description: "Discover common pitfalls for newbie Scrum Masters in part 2 of Martin Hinshelwood's 60-second insights. Elevate your agile journey with Naked Agility! #scrum #agile"
 date: 2023-11-16
 videoId: WTd-8mOlFfQ
+source: internal
 url: /resources/videos/:slug
 slug: part-2-common-mistakes-that-scrum-masters-make
 preview: https://i.ytimg.com/vi/WTd-8mOlFfQ/maxresdefault.jpg
@@ -77,6 +78,7 @@ I'm here to guide you with my Agile and Scrum courses.  🎓
 Equip yourself with the knowledge and skills to avoid these common mistakes and be a Scrum Master who truly catalyses team success!
 
 Let's start this learning journey together!
+
 
 
 

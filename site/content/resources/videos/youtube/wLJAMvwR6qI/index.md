@@ -27,3 +27,4 @@ Professional Product Discovery and Validation course learning outcomes. Visit ht
 
 [Watch on YouTube](https://www.youtube.com/watch?v=wLJAMvwR6qI)
 
+

@@ -52,3 +52,4 @@ Visit https://www.nkdagility.com for more information on Kanban training and Kan
 
 [Watch on YouTube](https://www.youtube.com/watch?v=hBw4ouNB1U0)
 
+

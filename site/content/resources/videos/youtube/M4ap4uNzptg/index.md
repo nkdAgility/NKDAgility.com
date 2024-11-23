@@ -3,6 +3,7 @@ title: 'Unlocking Agile’s Core: Questioning to Create Value'
 description: "Unlock the true potential of Agile! Discover how questioning and adaptability can transform your organisation and outpace competitors. Watch now! \U0001F31F"
 date: 2024-10-04
 videoId: M4ap4uNzptg
+source: internal
 url: /resources/videos/:slug
 slug: unlocking-agiles-core-questioning-to-create-value
 preview: https://i.ytimg.com/vi/M4ap4uNzptg/maxresdefault.jpg
@@ -160,6 +161,7 @@ To truly unlock the power of Agile:
 - **Continuously adapt**: Always be willing to pivot when necessary.
 
 Embrace these principles, and you’ll not only stay ahead but lead the way in your industry. 🚀
+
 
 
 

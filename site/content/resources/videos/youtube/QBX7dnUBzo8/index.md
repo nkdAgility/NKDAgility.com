@@ -3,6 +3,7 @@ title: Addressing Systemic Issues in Agile Organizations
 description: Unlock the secrets to startup success! Discover how agile techniques can transform your business and boost team performance in this must-watch video.
 date: 2024-10-04
 videoId: QBX7dnUBzo8
+source: internal
 url: /resources/videos/:slug
 slug: addressing-systemic-issues-in-agile-organizations
 preview: https://i.ytimg.com/vi/QBX7dnUBzo8/maxresdefault.jpg
@@ -142,6 +143,7 @@ At the heart of Agile is the concept of **systematic and continuous improvement*
 ## **Personalized Assistance and Learning**
 
 If you’re ready to address the **systemic issues** in your organization and make meaningful changes, I’d love to help.
+
 
 
 

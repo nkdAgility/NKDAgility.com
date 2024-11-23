@@ -5,6 +5,7 @@ date: 2024-09-18
 resourceTypes: video
 layout: video
 videoId: _2ZH7vbKu7Y
+source: internal
 url: /resources/videos/:slug
 slug: training-a-bridge-to-knowledge-and-growth
 preview: https://i.ytimg.com/vi/_2ZH7vbKu7Y/maxresdefault.jpg
@@ -124,6 +125,10 @@ Building a learning culture within your organization isn’t just a “nice-to-h
 Encourage learning, adapt to new technologies, and fix the system when it’s broken. By fostering a culture of growth and innovation, you’ll unlock the full potential of your team.
 
 And remember, learning isn’t just about acquiring knowledge—it’s about applying it in new and exciting ways. If you enjoyed this blog and want to dive deeper into Agile, Scrum, or DevOps, feel free to reach out and book a coffee chat with me through Naked Agility ☕.
+
+
+
+
 
 
 

@@ -3,6 +3,7 @@ title: Scrum doesn't solve problems, it reveals them. How, and why is that valua
 description: "Discover how Scrum reveals organisational challenges and enhances progress. Join Martin as he explores its true value in this insightful video! \U0001F680\U0001FA9E"
 date: 2023-12-18
 videoId: Ys0dWfKVSeA
+source: internal
 url: /resources/videos/:slug
 slug: scrum-doesn-t-solve-problems-it-reveals-them-how-and-why-is-that-valuable
 preview: https://i.ytimg.com/vi/Ys0dWfKVSeA/maxresdefault.jpg
@@ -130,6 +131,7 @@ Armed with insights gleaned from Scrum's revelations, teams are better positione
 - 🛠️ **Leverage Scrum for Business Goals**: Ensure every department understands that Scrum's revelations aim to support the business in making money. 
 
 In conclusion, Scrum acts as a mirror, revealing problems rather than solving them. By highlighting these issues it pushes organisations to innovate and iterate towards effective solutions. The revelations brought about by Scrum are the first step towards fostering a resilient, adaptable, and successful organisation.
+
 
 
 

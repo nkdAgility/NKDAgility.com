@@ -39,3 +39,6 @@ Technical debt costs you more than you think. Visit https://www.nkdagility.com #
 
 [Watch on YouTube](https://www.youtube.com/watch?v=1M2_AVqoRbs)
 
+
+
+

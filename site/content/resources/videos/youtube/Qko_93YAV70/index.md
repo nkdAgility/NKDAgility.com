@@ -31,3 +31,4 @@ Kanban Vs Scrum. Visit https://www.nkdagility.com #agile #scrum #kanban #agilefr
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Qko_93YAV70)
 
+

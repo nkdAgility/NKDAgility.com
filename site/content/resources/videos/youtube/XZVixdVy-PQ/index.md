@@ -3,6 +3,7 @@ title: 'Redefining Agile’s Core: Beyond Rituals and Procedures'
 description: "Discover the true essence of Agile with Ken Schwaber! Learn how to innovate software development beyond rituals for better results. \U0001F31F"
 date: 2024-10-03
 videoId: XZVixdVy-PQ
+source: internal
 url: /resources/videos/:slug
 slug: redefining-agiles-core-beyond-rituals-and-procedures
 preview: https://i.ytimg.com/vi/XZVixdVy-PQ/maxresdefault.jpg
@@ -148,6 +149,7 @@ That’s why I encourage you to book a call or visit us at [Naked Agility](https
 - For personalized help, consider reaching out for guidance or attending one of our Agile training sessions.
 
 Agile isn’t a one-size-fits-all solution—it’s a mindset. If you’re ready to move beyond rituals and unlock the full potential of Agile, let’s start the conversation.
+
 
 
 

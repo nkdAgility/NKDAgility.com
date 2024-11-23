@@ -27,3 +27,4 @@ Daniel Vacanti will be joining me for a Live chat about the upcoming Professiona
 
 [Watch on YouTube](https://www.youtube.com/watch?v=xaLNCbr9o3Y)
 
+

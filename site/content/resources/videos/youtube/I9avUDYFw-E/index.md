@@ -3,6 +3,7 @@ title: 'The Importance of Competence in Organizations: Building a Culture of Lea
 description: "Discover why investing in team competence is vital for innovation. Happy, skilled people create great products. Let's foster growth and excellence! \U0001F331\U0001F680"
 date: 2024-11-22
 videoId: I9avUDYFw-E
+source: internal
 url: /resources/videos/:slug
 slug: the-importance-of-competence-in-organizations-building-a-culture-of-learning-and-growth
 preview: https://i.ytimg.com/vi/I9avUDYFw-E/maxresdefault.jpg
@@ -147,6 +148,7 @@ By fostering a culture that prioritizes competence and supports its people, orga
 * * *
 
 This blog post highlights the essential role of competence in driving organizational success. By emphasizing the need for continuous learning and creating environments where employees can thrive, it offers actionable insights for leaders aiming to build a culture of growth and innovation. Optimize your team’s potential and watch the results unfold!
+
 
 
 

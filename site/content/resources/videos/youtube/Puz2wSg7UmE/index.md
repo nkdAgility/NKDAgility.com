@@ -3,6 +3,7 @@ title: How to Measure Your Organization's Ability to Improve Value Through Innov
 description: "Discover 5 compelling reasons to integrate Evidence-Based Management (EBM) into your agile environment and unlock your organisation's innovation potential! #EBM #Agile"
 date: 2024-10-14
 videoId: Puz2wSg7UmE
+source: internal
 url: /resources/videos/:slug
 slug: how-to-measure-your-organization-s-ability-to-improve-value-through-innovation
 preview: https://i.ytimg.com/vi/Puz2wSg7UmE/maxresdefault.jpg
@@ -138,6 +139,7 @@ Remember, it’s not just about tracking metrics—it’s about using them to ma
 - **Complexity overhead**: Simplify systems to remove barriers to innovation.
 
 By focusing on these areas, you'll set your organization up for long-term success, continuously improving the value you deliver through innovation.
+
 
 
 

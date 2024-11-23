@@ -3,6 +3,7 @@ title: What was your best day as an Agile consultant?
 description: Join Martin Hinshelwood as he shares his most impactful day as an agile consultant, highlighting the power of inspired teams in agile environments.
 date: 2023-08-09
 videoId: iT7ZtgNJbT0
+source: internal
 url: /resources/videos/:slug
 slug: what-was-your-best-day-as-an-agile-consultant
 preview: https://i.ytimg.com/vi/iT7ZtgNJbT0/maxresdefault.jpg
@@ -81,6 +82,7 @@ Explore our Agile and Scrum courses.  Because, who knows, it might just be the 
 Keywords:       Agile consulting, Scrum, transformative learning, catalyst for change         
 
 Hashtags:        #AgileConsulting #BestDay #Scrum #AgileTransformation
+
 
 
 

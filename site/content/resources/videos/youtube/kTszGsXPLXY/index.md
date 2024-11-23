@@ -3,6 +3,7 @@ title: Getting started with Kanban.
 description: Discover how to effortlessly launch a Kanban pilot in your organisation, tackle common challenges, and leverage metrics for workflow improvement!
 date: 2024-06-28
 videoId: kTszGsXPLXY
+source: internal
 url: /resources/videos/:slug
 slug: getting-started-with-kanban
 preview: https://i.ytimg.com/vi/kTszGsXPLXY/maxresdefault.jpg
@@ -133,6 +134,7 @@ Implementing a Kanban pilot in your organization is easier than you might think.
 - **Consulting Services**: Need help implementing Kanban? Our experts are here to guide you.
 
 - **Further Reading**: Explore more about Kanban and agile methodologies on our blog.
+
 
 
 
