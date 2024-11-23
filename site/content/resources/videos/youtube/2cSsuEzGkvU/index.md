@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=2cSsuEzGkvU
 aliases:
 - /resources/videos/2cSsuEzGkvU
 - /resources/videos/-shorts-7-virtues-of-agile-humility
+- /resources/-shorts-7-virtues-of-agile-humility
 preview: https://i.ytimg.com/vi/2cSsuEzGkvU/maxresdefault.jpg
 duration: 53
 isShort: true
@@ -60,7 +61,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=2cSsuEzGkvU)
-
-
-
-

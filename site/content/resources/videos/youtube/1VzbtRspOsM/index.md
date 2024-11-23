@@ -13,6 +13,7 @@ aliases:
 - /resources/how-immersive-learning-transforms-aspiring-agile-leaders
 - /resources/videos/why-is-the-pal-e-immersivelearning-experience-such-a-great-fit-for-aspiring-agileleaders-
 - /resources/videos/1VzbtRspOsM
+- /resources/why-is-the-pal-e-immersivelearning-experience-such-a-great-fit-for-aspiring-agileleaders-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -135,12 +136,3 @@ At the end of the day, the PAL-E class isn’t just about theory—it’s about 
 ## **Ready to Transform Your Leadership?**
 
 By focusing on **practical applications**, **peer feedback**, and **real-world experiments**, the PAL-E immersive class delivers a transformative experience for aspiring agile leaders. Start your journey today and unlock the full potential of your organization’s agile capabilities.
-
-
-
-
-
-
-
-
-

@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=aWYoJtSgTDo
 aliases:
 - /resources/videos/aWYoJtSgTDo
 - /resources/videos/the-importance-of-knowing-the-territory-
+- /resources/the-importance-of-knowing-the-territory-
 preview: https://i.ytimg.com/vi/aWYoJtSgTDo/maxresdefault.jpg
 duration: 204
 isShort: false
@@ -56,7 +57,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=aWYoJtSgTDo)
-
-
-
-

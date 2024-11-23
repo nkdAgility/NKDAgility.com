@@ -13,6 +13,7 @@ aliases:
 - /resources/how-does-a-scrum-team-create-a-sprint-goal
 - /resources/videos/how-does-a-scrum-team-create-a-sprint-goal-
 - /resources/videos/GJSBFyoHk8E
+- /resources/how-does-a-scrum-team-create-a-sprint-goal-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -83,10 +84,3 @@ Short and sweet, right?
 Sprint goal crafting is an art, and with practice, your Scrum team can master it.
 
 My Agile and Scrum courses are designed to equip you with the tools to achieve just that.  🎯
-
-
-
-
-
-
-

@@ -69,10 +69,3 @@ Together, let's redefine how we approach software engineering! 🌟
 Ready to elevate your game?  🎯
 
 Connect with me today.
-
-
-
-
-
-
-

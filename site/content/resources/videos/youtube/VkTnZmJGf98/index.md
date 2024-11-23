@@ -13,6 +13,7 @@ aliases:
 - /resources/evidence-based-management-the-key-to-agile-success
 - /resources/videos/why-evidence-based-management-how-has-it-improved-agile-
 - /resources/videos/VkTnZmJGf98
+- /resources/why-evidence-based-management-how-has-it-improved-agile-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -168,10 +169,3 @@ Forget about just "doing agile"—focus on **adapting your organization** to be 
 At the end of the day, evidence-based management isn’t just a tool for tracking progress—it’s a **strategy for success**. By leveraging data, organizations can make smarter decisions, adapt to market changes, and drive real business value.
 
 If you're ready to start using EBM to transform your organization, don’t hesitate to get in touch. We offer both immersive and traditional public classes, where you can learn more about how to implement these principles effectively. Let’s stop focusing on "delivering agile" and start **delivering success**.
-
-
-
-
-
-
-

@@ -13,6 +13,7 @@ aliases:
 - /resources/the-power-of-continuous-learning-for-product-owners
 - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-5
 - /resources/videos/XKmWMXagVgQ
+- /resources/5-things-you-would-teach-a-productowner-apprentice-part-5
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -158,10 +159,3 @@ Continuous learning is not a sprint—it’s a **marathon**. As you grow in your
 - Engage with the product owner community, read widely, and take advantage of **professional training**.
 
 🌟 **Embrace learning. Stand out. Be in the top 10%.** 🌟
-
-
-
-
-
-
-

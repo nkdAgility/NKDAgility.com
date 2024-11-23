@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=CWxkBJJduCE
 aliases:
 - /resources/videos/CWxkBJJduCE
 - /resources/videos/redefining-test-driven-development
+- /resources/redefining-test-driven-development
 preview: https://i.ytimg.com/vi/CWxkBJJduCE/maxresdefault.jpg
 duration: 53
 isShort: true
@@ -26,5 +27,3 @@ source: youtube
 Redefining test driven development. Excerpt from our "Quality Code: Achieving Engineering Excellence with NKD Agility" series. Visit https://www.nkdagility.com #agile #scrum #productdevelopment #agileproductdevelopment #agileproductmanagement #developer #projectmanager
 
 [Watch on YouTube](https://www.youtube.com/watch?v=CWxkBJJduCE)
-
-

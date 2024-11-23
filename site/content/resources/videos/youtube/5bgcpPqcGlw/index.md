@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=5bgcpPqcGlw
 aliases:
 - /resources/videos/5bgcpPqcGlw
 - /resources/videos/agile-evolution-live-site-culture-&-site-reliability-at-azure-devops
+- /resources/agile-evolution-live-site-culture-&-site-reliability-at-azure-devops
 preview: https://i.ytimg.com/vi/5bgcpPqcGlw/maxresdefault.jpg
 duration: 3386
 isShort: false
@@ -35,7 +36,3 @@ With the shift-left movement pushing more responsibility to the engineering team
 Techorama BE: https://techorama.be/speakers/session/agile-evolution-live-site-culture-site-reliability-at-azure-devops/
 
 [Watch on YouTube](https://www.youtube.com/watch?v=5bgcpPqcGlw)
-
-
-
-

@@ -14,6 +14,7 @@ aliases:
 - /resources/one-limitation-of-a-book-versus-a-scrum-course
 - /resources/videos/one-limitation-of-a-book-versus-a-scrum-course-
 - /resources/videos/hB8oQPpderI
+- /resources/one-limitation-of-a-book-versus-a-scrum-course-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -71,10 +72,3 @@ Hashtags:        #AgileLearning #Scrum #InteractiveCourses #CollaborativeL
 General
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
-
-
-
-
-
-
-

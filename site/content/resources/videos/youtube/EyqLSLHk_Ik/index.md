@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=EyqLSLHk_Ik
 aliases:
 - /resources/videos/EyqLSLHk_Ik
 - /resources/videos/product-development-mentoring-program
+- /resources/product-development-mentoring-program
 preview: https://i.ytimg.com/vi/EyqLSLHk_Ik/maxresdefault.jpg
 duration: 423
 isShort: false
@@ -35,5 +36,3 @@ NKD Agility have extensive experience in helping organizations create great prod
 Visit https://www.nkdagility.com for more information on this great program.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=EyqLSLHk_Ik)
-
-

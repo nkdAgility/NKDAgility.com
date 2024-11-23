@@ -13,6 +13,7 @@ aliases:
 - /resources/product-ownership-vs-product-management-busting-the-myth-that-theyre-separate-roles
 - /resources/videos/the-product-owner's-role-in-maximizing-value
 - /resources/videos/XF-yQmPdUME
+- /resources/the-product-owner's-role-in-maximizing-value
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -102,10 +103,3 @@ By understanding this relationship, organizations can avoid the pitfalls of misa
 - **Adapt and Thrive**: In a world where markets are constantly changing, the ability to adapt quickly is crucial. By embracing the principles of Scrum and Agile product management, you can ensure that your products remain relevant, valuable, and successful.
 
 🔍 **Remember**: Effective product ownership is just effective product management—tailored for the Scrum framework. Stay focused on value, stay agile, and always be ready to pivot as your market evolves.
-
-
-
-
-
-
-

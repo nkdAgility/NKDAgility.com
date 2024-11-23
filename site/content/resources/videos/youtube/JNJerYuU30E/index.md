@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=JNJerYuU30E
 aliases:
 - /resources/videos/JNJerYuU30E
 - /resources/videos/most-influential-person-in-agile-jerónimo-palacios
+- /resources/most-influential-person-in-agile-jerónimo-palacios
 preview: https://i.ytimg.com/vi/JNJerYuU30E/maxresdefault.jpg
 duration: 50
 isShort: true
@@ -47,5 +48,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=JNJerYuU30E)
-
-

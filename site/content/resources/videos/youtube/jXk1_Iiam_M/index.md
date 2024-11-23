@@ -13,6 +13,7 @@ aliases:
 - /resources/the-power-of-immersive-learning-elevating-scrum-mastery-in-your-organization
 - /resources/videos/do-you-think-training-departments-get-a-lot-more-bang-for-their-buck-with-immersive-learning-
 - /resources/videos/jXk1_Iiam_M
+- /resources/do-you-think-training-departments-get-a-lot-more-bang-for-their-buck-with-immersive-learning-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -141,10 +142,3 @@ At \[Your Company Name\], we specialize in immersive learning experiences that *
 * * *
 
 This approach to learning isn't just about knowledge—it's about **action** and **impact**. Your organization deserves training that sticks. Immersive learning does exactly that.
-
-
-
-
-
-
-

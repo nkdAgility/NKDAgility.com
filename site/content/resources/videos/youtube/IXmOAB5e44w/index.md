@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=IXmOAB5e44w
 aliases:
 - /resources/videos/IXmOAB5e44w
 - /resources/videos/referral-program-20-of-the-course-fee-credited-to-your-account-
+- /resources/referral-program-20-of-the-course-fee-credited-to-your-account-
 preview: https://i.ytimg.com/vi/IXmOAB5e44w/maxresdefault.jpg
 duration: 147
 isShort: false
@@ -49,5 +50,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=IXmOAB5e44w)
-
-

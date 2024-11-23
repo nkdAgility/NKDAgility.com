@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=qrEqX_5FWM8
 aliases:
 - /resources/videos/qrEqX_5FWM8
 - /resources/videos/overview-of-the-8-week-immersive-learning-experience
+- /resources/overview-of-the-8-week-immersive-learning-experience
 preview: https://i.ytimg.com/vi/qrEqX_5FWM8/maxresdefault.jpg
 duration: 354
 isShort: false
@@ -68,5 +69,3 @@ If you are underemployed, we can also create custom payment plans to help you ou
 #scrum, #agile, #projectmanagement, #productdevelopment, #agilecoach, #agileconsultant, #agiletraining, #scrumtraining, #scrumorg, #scrummaster, #productowner
 
 [Watch on YouTube](https://www.youtube.com/watch?v=qrEqX_5FWM8)
-
-

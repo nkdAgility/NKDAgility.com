@@ -84,10 +84,3 @@ Organisations that adopt Agile wholeheartedly can expect: 
 ## Closing Thoughts 
 
 For traditional organisations, the adoption of Agile is not merely about implementing new processes; it's about transforming your organisational soul. It's about cultivating a fertile ground for innovation, customer value, and employee satisfaction. It's about not just surviving but thriving in a market that waits for no one.
-
-
-
-
-
-
-

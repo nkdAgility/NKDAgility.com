@@ -14,6 +14,7 @@ aliases:
 - /resources/can-organizations-run-an-applying-professional-scrum-workshop-how-will-that-help-them
 - /resources/videos/can-organizations-run-an-applying-professional-scrum-workshop-how-will-that-help-them-
 - /resources/videos/olryF91pOEY
+- /resources/can-organizations-run-an-applying-professional-scrum-workshop-how-will-that-help-them-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -125,10 +126,3 @@ Hashtags:        #AgileConsulting #ScrumWorkshop #AgileTransformation #Pro
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
-
-
-
-
-
-
-

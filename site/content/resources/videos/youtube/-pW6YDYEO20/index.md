@@ -13,6 +13,7 @@ aliases:
 - /resources/worst-trait-in-unskilled-scrum-masters
 - /resources/videos/worst-trait-in-unskilled-scrum-masters-
 - /resources/videos/-pW6YDYEO20
+- /resources/worst-trait-in-unskilled-scrum-masters-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -82,12 +83,3 @@ Let's connect and elevate your Scrum game together! 🙌
 Hashtags:        #ScrumMaster  #Micromanagement #Misconceptions, #ElevateYourGame
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
-
-
-
-
-
-
-
-
-

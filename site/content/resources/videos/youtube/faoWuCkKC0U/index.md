@@ -71,10 +71,3 @@ Don't miss this opportunity to elevate your professional journey to new heights!
 Sign up for the PSPO-A course now and let's set the stage for unparalleled success!
 
 Let's innovate, collaborate, and lead the way in product management together! 🚀
-
-
-
-
-
-
-

@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=BhGThHrOc8Y
 aliases:
 - /resources/videos/BhGThHrOc8Y
 - /resources/videos/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
+- /resources/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
 preview: https://i.ytimg.com/vi/BhGThHrOc8Y/maxresdefault.jpg
 duration: 243
 isShort: false
@@ -53,5 +54,3 @@ Because you don't just need agility, you need Naked Agility.
 #devops #azuredevops #agilecoach #agileconsultant #continousdelivery #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=BhGThHrOc8Y)
-
-

@@ -14,6 +14,7 @@ aliases:
 - /resources/what-is-a-product-goal
 - /resources/videos/what-is-a-product-goal-
 - /resources/videos/qXsjLuss22Y
+- /resources/what-is-a-product-goal-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -115,10 +116,3 @@ Then my Agile and Scrum courses are just the thing for you!
 Let's continue this journey towards Scrum mastery together.
 
 About NKD Agility
-
-
-
-
-
-
-

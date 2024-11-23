@@ -14,6 +14,7 @@ aliases:
 - /resources/most-influential-person-in-agile-for-you-personally
 - /resources/videos/most-influential-person-in-agile-for-you-personally-
 - /resources/videos/eykcZoUdVO8
+- /resources/most-influential-person-in-agile-for-you-personally-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -57,10 +58,3 @@ And I'll confess, I've tried to do just that! I look up to his vision, and in ma
 Inspired by pioneers like Simon, my Agile and Scrum courses aim to give you the knowledge, spirit and ethos of true Agile thinking.
 
 Let's learn, evolve, and drive Agile transformations together! 🚀
-
-
-
-
-
-
-

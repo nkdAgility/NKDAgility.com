@@ -13,6 +13,7 @@ aliases:
 - /resources/the-importance-of-product-backlog-management-in-todays-agile-landscape
 - /resources/videos/why-is-product-backlog-management-getting-so-much-attention-right-now
 - /resources/videos/TYpgtgaOXv4
+- /resources/why-is-product-backlog-management-getting-so-much-attention-right-now
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -163,10 +164,3 @@ If your organization is struggling with backlog management, now is the time to m
 - **Involve the team**: This isn’t a one-person job.
 
 **Use data**: Let real-world insights guide your priorities.
-
-
-
-
-
-
-

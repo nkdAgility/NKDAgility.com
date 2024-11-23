@@ -13,6 +13,7 @@ aliases:
 - /resources/3-best-ways-to-wreck-kanban-use-vanity-metrics
 - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-using-vanity-metrics-
 - /resources/videos/S4zWfPiLAmc
+- /resources/3-best-ways-to-wreck-your-kanban-adoption-using-vanity-metrics-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -109,10 +110,3 @@ The true power of Kanban comes from using the data to make informed decisions an
 Avoiding common mistakes in Kanban involves focusing on the right metrics and actively using the data to drive improvements. By ditching vanity metrics and leveraging key Kanban metrics like WIP, cycle time, throughput, and work item age, you can create a transparent, efficient, and predictable workflow.
 
 If you’re struggling to implement a Kanban strategy, we can help or connect you with someone who can. Click the link below to get in touch and start optimizing your workflow today.
-
-
-
-
-
-
-

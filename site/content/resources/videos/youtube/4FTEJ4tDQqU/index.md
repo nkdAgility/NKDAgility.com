@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=4FTEJ4tDQqU
 aliases:
 - /resources/videos/4FTEJ4tDQqU
 - /resources/videos/why-did-you-embrace-agile-over-traditional-project-management-as-a-developer-
+- /resources/why-did-you-embrace-agile-over-traditional-project-management-as-a-developer-
 preview: https://i.ytimg.com/vi/4FTEJ4tDQqU/maxresdefault.jpg
 duration: 326
 isShort: false
@@ -56,7 +57,3 @@ Because you don't just need agility, you need Naked Agility.
 #scrum, #agile, #projectmanagement, #productdevelopment, #agilecoach, #agileconsultant, #agiletraining, #scrumtraining, #scrumorg, #scrummaster, #productowner,
 
 [Watch on YouTube](https://www.youtube.com/watch?v=4FTEJ4tDQqU)
-
-
-
-

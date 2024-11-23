@@ -14,6 +14,7 @@ aliases:
 - /resources/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed
 - /resources/videos/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed-
 - /resources/videos/UeGdC6GRyq4
+- /resources/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -111,10 +112,3 @@ Why Does This Work? 
 - **Real Results**: Just like those who’ve walked this path before you, success is not just possible; it's expected. 
 
 - **Empowerment**: This isn’t charity; it’s empowerment. You’re not given a fish; you’re learning to fish in grander seas.
-
-
-
-
-
-
-

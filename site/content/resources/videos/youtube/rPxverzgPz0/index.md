@@ -14,6 +14,7 @@ aliases:
 - /resources/would-you-recommend-the-aps-course-to-a-newbie-scrum-team
 - /resources/videos/would-you-recommend-the-aps-course-to-a-newbie-scrum-team-
 - /resources/videos/rPxverzgPz0
+- /resources/would-you-recommend-the-aps-course-to-a-newbie-scrum-team-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -99,10 +100,3 @@ Keywords:       Agile Practitioner Series, Scrum teams, Organizational Chan
 Hashtags         #Scrum #Agile #APS #OrganizationalChange
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
-
-
-
-
-
-
-

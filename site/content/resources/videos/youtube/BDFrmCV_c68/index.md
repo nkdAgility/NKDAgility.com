@@ -13,6 +13,7 @@ aliases:
 - /resources/7-deadly-sins-of-agile-pride
 - /resources/videos/pride!-7-deadly-sins-of-agile
 - /resources/videos/BDFrmCV_c68
+- /resources/pride!-7-deadly-sins-of-agile
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -109,11 +110,3 @@ In Agile, pride must be tempered with humility and a commitment to continuous le
 - Focus on meaningful metrics, not just vanity metrics. 
 
 - Maintain a culture of humility and continuous learning.
-
-
-
-
-
-
-
-

@@ -13,6 +13,7 @@ aliases:
 - /resources/mastering-evidence-based-management-ebm-for-product-owners-maximizing-value-delivery
 - /resources/videos/evidence-based-management-for-product-owners!-why-is-this-a-great-option-
 - /resources/videos/Af-wBYtyyRU
+- /resources/evidence-based-management-for-product-owners!-why-is-this-a-great-option-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -148,12 +149,3 @@ If you’re ready to elevate your product owner game and start making evidence-b
 * * *
 
 With EBM, you’ll be equipped to drive success through informed decisions, strong stakeholder engagement, and a focused team—all essential skills for any product owner aiming for the next level of excellence.
-
-
-
-
-
-
-
-
-

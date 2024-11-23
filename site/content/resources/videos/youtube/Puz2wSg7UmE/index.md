@@ -13,6 +13,7 @@ aliases:
 - /resources/how-to-measure-your-organizations-ability-to-improve-value-through-innovation
 - /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-4
 - /resources/videos/Puz2wSg7UmE
+- /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-4
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -139,10 +140,3 @@ Remember, it’s not just about tracking metrics—it’s about using them to ma
 - **Complexity overhead**: Simplify systems to remove barriers to innovation.
 
 By focusing on these areas, you'll set your organization up for long-term success, continuously improving the value you deliver through innovation.
-
-
-
-
-
-
-

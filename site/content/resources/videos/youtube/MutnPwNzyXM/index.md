@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=MutnPwNzyXM
 aliases:
 - /resources/videos/MutnPwNzyXM
 - /resources/videos/most-valuable-lesson-you-learned-as-an-agile-consultant
+- /resources/most-valuable-lesson-you-learned-as-an-agile-consultant
 preview: https://i.ytimg.com/vi/MutnPwNzyXM/maxresdefault.jpg
 duration: 263
 isShort: false
@@ -47,5 +48,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=MutnPwNzyXM)
-
-

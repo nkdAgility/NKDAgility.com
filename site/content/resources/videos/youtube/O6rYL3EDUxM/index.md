@@ -13,6 +13,7 @@ aliases:
 - /resources/detecting-agile-bs-lessons-from-the-us-department-of-defense
 - /resources/videos/6-questions-to-determine-if-your-company-is-really-agile-the-agile-reality-check-[1-6]
 - /resources/videos/O6rYL3EDUxM
+- /resources/6-questions-to-determine-if-your-company-is-really-agile-the-agile-reality-check-[1-6]
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -115,10 +116,3 @@ Remember, Agile is not just a set of practices—it’s a mindset. It requires a
 - **🚀** **Take action:** Start by focusing on one area where you can improve, and build momentum from there.
 
 Agile isn’t easy, but with the right mindset and approach, it’s achievable. And once you get there, you’ll never want to go back.
-
-
-
-
-
-
-

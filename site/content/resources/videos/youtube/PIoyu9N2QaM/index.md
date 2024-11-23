@@ -15,6 +15,7 @@ aliases:
 - /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned-experienced-scrum-master
 - /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned,-experienced-scrum-master-
 - /resources/videos/PIoyu9N2QaM
+- /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned,-experienced-scrum-master-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -94,10 +95,3 @@ Consider joining one of our Agile and Scrum courses to boost your knowledge and 
 Let's improve together and build Agile organisations! 🔥🔥🔥
 
 Until next time, stay Agile! 🚀
-
-
-
-
-
-
-

@@ -73,10 +73,3 @@ Dive into our immersive courses and emerge with insights and actionable strategi
 See you in class! 📖✌️
 
 Elevate your Scrum game! 🚀
-
-
-
-
-
-
-

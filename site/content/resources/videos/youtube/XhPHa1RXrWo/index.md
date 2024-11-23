@@ -13,6 +13,7 @@ aliases:
 - /resources/agile-is-not-new-a-journey-back-to-the-basics
 - /resources/videos/the-intention-of-agile-and-scrum
 - /resources/videos/XhPHa1RXrWo
+- /resources/the-intention-of-agile-and-scrum
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -148,10 +149,3 @@ Agile isn’t new, but our understanding of it continues to evolve. As we move f
 - **Stay true to the principles**: Agile is about people, not processes. Always keep that in mind.
 
 The future of Agile lies in our ability to learn from the past, adapt to the present, and build a path forward that’s grounded in competence, empathy, and a genuine desire to create value. 🚀 Ready to embrace the next chapter of Agile? It’s time to reset, refocus, and build a future that stays true to the heart of what Agile is all about.
-
-
-
-
-
-
-

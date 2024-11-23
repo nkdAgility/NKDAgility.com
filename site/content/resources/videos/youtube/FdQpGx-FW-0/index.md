@@ -13,6 +13,7 @@ aliases:
 - /resources/7-harbingers-of-the-agile-apocalypse-judgement
 - /resources/videos/judgement!-7-harbingers-agile-apocalypse
 - /resources/videos/FdQpGx-FW-0
+- /resources/judgement!-7-harbingers-agile-apocalypse
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -104,10 +105,3 @@ The journey to true business agility is fraught with challenges, but by embracin
 Feeling inspired or want to dive deeper into Agile, Scrum, or DevOps discussions? Let's grab a virtual coffee and explore the endless possibilities together. Until next time, keep challenging the norm and driving towards excellence. 🚀
 
 _Enjoyed this exploration? Follow, subscribe, and engage for more insights on navigating the agile landscape._
-
-
-
-
-
-
-

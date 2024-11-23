@@ -67,10 +67,3 @@ When we couple these formidable software engineering practices with the guiding 
 Eager to experience this synergy firsthand?
 
 Take a look at my Agile and Scrum courses, and together, let's revolutionise how we think about software development!
-
-
-
-
-
-
-

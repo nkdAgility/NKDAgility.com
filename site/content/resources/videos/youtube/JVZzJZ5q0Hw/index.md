@@ -14,6 +14,7 @@ aliases:
 - /resources/what-is-a-sprint-goal
 - /resources/videos/what-is-the-most-common-mistake-in-sprint-planning-
 - /resources/videos/JVZzJZ5q0Hw
+- /resources/what-is-the-most-common-mistake-in-sprint-planning-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -105,10 +106,3 @@ Then my Agile and Scrum courses are just the thing for you!
 Let's continue this journey towards Scrum mastery together.
 
 About NKD Agility
-
-
-
-
-
-
-

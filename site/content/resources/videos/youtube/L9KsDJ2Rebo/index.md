@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=L9KsDJ2Rebo
 aliases:
 - /resources/videos/L9KsDJ2Rebo
 - /resources/videos/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-
+- /resources/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-
 preview: https://i.ytimg.com/vi/L9KsDJ2Rebo/maxresdefault.jpg
 duration: 84
 isShort: false
@@ -54,5 +55,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=L9KsDJ2Rebo)
-
-

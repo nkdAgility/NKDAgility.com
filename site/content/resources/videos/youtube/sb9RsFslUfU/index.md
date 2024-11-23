@@ -13,6 +13,7 @@ aliases:
 - /resources/how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant
 - /resources/videos/how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant-
 - /resources/videos/sb9RsFslUfU
+- /resources/how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -92,10 +93,3 @@ Here's the blueprint:
 And as I always believe, it's not about _readiness_.  It's about being seen, being of value, and having a unique narrative to share.
 
 Together, let's dive into the intricacies of Agile and Scrum with my courses and set your trajectory towards excellence.
-
-
-
-
-
-
-

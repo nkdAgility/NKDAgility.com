@@ -13,6 +13,7 @@ aliases:
 - /resources/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-decision-maker
 - /resources/videos/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-word
 - /resources/videos/A0Y-zySHXyc
+- /resources/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-word
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -105,12 +106,3 @@ A Product Owner collaborates with a stakeholder, only for the latter to change s
 To ensure seamless collaboration, addressing the issue of accountability is paramount.  
 
 Let's conclude by revisiting the significance of fostering respect and open communication.
-
-
-
-
-
-
-
-
-

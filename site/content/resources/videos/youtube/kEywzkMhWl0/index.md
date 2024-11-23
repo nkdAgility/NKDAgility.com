@@ -14,6 +14,7 @@ aliases:
 - /resources/one-critical-skill-for-a-scrum-master-and-why
 - /resources/videos/1-critical-skill-for-a-scrum-master-and-why-
 - /resources/videos/kEywzkMhWl0
+- /resources/1-critical-skill-for-a-scrum-master-and-why-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -67,10 +68,3 @@ Connect with me today, and let's drive successful Agile change together! 🤝
 Hashtags:        #AgileTransformation #EffectiveTeaching #UnderstandingTheWhy
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
-
-
-
-
-
-
-

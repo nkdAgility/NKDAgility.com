@@ -14,6 +14,7 @@ aliases:
 - /resources/what-does-your-dream-agile-consulting-week-look-like
 - /resources/videos/what-does-your-dream-agile-consulting-week-look-like-
 - /resources/videos/aathsp3IMfg
+- /resources/what-does-your-dream-agile-consulting-week-look-like-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -76,12 +77,3 @@ Engage, reflect, and elevate.   🌟
 I'm here to guide and collaborate with you along your Agile journey.
 
 Let's connect through Naked Agility and script your unique Scrum success narrative.
-
-
-
-
-
-
-
-
-

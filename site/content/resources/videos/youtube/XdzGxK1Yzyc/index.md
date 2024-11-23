@@ -13,6 +13,7 @@ aliases:
 - /resources/what-is-a-product-owner-why-are-they-essential
 - /resources/videos/why-have-a-product-owner-
 - /resources/videos/XdzGxK1Yzyc
+- /resources/why-have-a-product-owner-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -95,10 +96,3 @@ That's the magic of a product owner.  💡 
 I'd love to share more insights and guidance for those intrigued by the intricacies of Scrum and Agile roles.
 
 Join me in my Agile and Scrum courses to uncover the depth and breadth of these roles.
-
-
-
-
-
-
-

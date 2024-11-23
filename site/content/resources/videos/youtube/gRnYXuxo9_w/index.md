@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=gRnYXuxo9_w
 aliases:
 - /resources/videos/gRnYXuxo9_w
 - /resources/videos/scrum-value,-openness,-what-does-it-mean-and-why-does-it-matter-
+- /resources/scrum-value,-openness,-what-does-it-mean-and-why-does-it-matter-
 preview: https://i.ytimg.com/vi/gRnYXuxo9_w/maxresdefault.jpg
 duration: 171
 isShort: false
@@ -58,5 +59,3 @@ Because you don't just need agility, you need Naked Agility.
 #scrum #agile #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg #scrummaster #productowner #kanban #continousdelivery #devops #azuredevops
 
 [Watch on YouTube](https://www.youtube.com/watch?v=gRnYXuxo9_w)
-
-

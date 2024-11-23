@@ -13,6 +13,7 @@ aliases:
 - /resources/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor
 - /resources/videos/quotes-in-the-past-the-man-has-been-first;-in-the-future-the-system-must-be-first-frederick-taylor
 - /resources/videos/KX1xViey_BA
+- /resources/quotes-in-the-past-the-man-has-been-first;-in-the-future-the-system-must-be-first-frederick-taylor
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -89,10 +90,3 @@ How to ensure systems support, not stifle: 
 ## **Conclusion**  
 
 The Industrial Revolution taught us the value of systems in increasing productivity. However, in our modern Agile environments, it's crucial to remember that systems are there to serve people, not the other way around. Let’s strive for a balance where systems enhance collaboration and productivity, not hinder it.
-
-
-
-
-
-
-

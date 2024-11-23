@@ -13,6 +13,7 @@ aliases:
 - /resources/7-deadly-sins-of-agile-envy
 - /resources/videos/envy!-one-of-the-7-deadly-sins-of-agile
 - /resources/videos/4mkwTMMtKls
+- /resources/envy!-one-of-the-7-deadly-sins-of-agile
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -88,12 +89,3 @@ Agile is about crafting a journey that’s right for your team and your customer
 - **Key Insights for Agile Success**: 🗝️ Summarising the essential elements for a successful, individualized Agile approach. 
 
 - **Future-Focused Agile Practice**: 🚀 Encouraging continuous innovation, adaptation, and personalisation in Agile methodologies.
-
-
-
-
-
-
-
-
-

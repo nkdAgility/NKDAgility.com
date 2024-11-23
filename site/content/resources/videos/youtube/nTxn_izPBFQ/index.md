@@ -14,6 +14,7 @@ aliases:
 - /resources/how-good-is-the-pspo-a-course-in-helping-determine-product-direction
 - /resources/videos/how-good-is-the-pspo-a-course-in-helping-determine-product-direction-
 - /resources/videos/nTxn_izPBFQ
+- /resources/how-good-is-the-pspo-a-course-in-helping-determine-product-direction-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -103,10 +104,3 @@ Keywords:       Agile Leadership, Product Owner, APSPOA Course, Agile Journ
 Hashtags         #AgileLeadership #ProductOwner #APSPOA #AgileJourney
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
-
-
-
-
-
-
-

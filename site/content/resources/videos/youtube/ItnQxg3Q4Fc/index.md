@@ -14,6 +14,7 @@ aliases:
 - /resources/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig
 - /resources/videos/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig-
 - /resources/videos/ItnQxg3Q4Fc
+- /resources/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -75,10 +76,3 @@ In summation, the need for senior leadership engagement is not an optional extra
 Ready to become an Agile powerhouse?
 
 Don't just deepen your understanding—transform it. Explore our comprehensive courses in Agile, Scrum, and transformative change to elevate your Agile skills to an expert level today! 🌟
-
-
-
-
-
-
-

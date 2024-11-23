@@ -14,6 +14,7 @@ aliases:
 - /resources/learn-scrum-with-minecraft
 - /resources/videos/why-does-minecraft-make-the-aps-course-so-awesome-
 - /resources/videos/ZrzqNfV7P9o
+- /resources/why-does-minecraft-make-the-aps-course-so-awesome-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -84,10 +85,3 @@ _We encourage participants to use a non-work-restricted computer for all of our 
 - [FAQ: IT Admin Guide](IT Admin Guide)
 
 - [Licensing | Minecraft Education](https://education.minecraft.net/en-us/licensing)
-
-
-
-
-
-
-

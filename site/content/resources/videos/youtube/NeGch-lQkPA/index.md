@@ -13,6 +13,7 @@ aliases:
 - /resources/overview-of-applying-flow-metrics-for-scrum-course
 - /resources/videos/overview-of-'applying-flow-metrics-for-scrum'-kanban-course-
 - /resources/videos/NeGch-lQkPA
+- /resources/overview-of-'applying-flow-metrics-for-scrum'-kanban-course-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -124,10 +125,3 @@ The "Applying Flow Metrics for Scrum" course offers a powerful way to enhance yo
 - **Consulting Services**: Need help implementing Kanban? Our experts are here to guide you.
 
 - **Further Reading**: Explore more about Kanban and agile methodologies on our blog.
-
-
-
-
-
-
-

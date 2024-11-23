@@ -13,6 +13,7 @@ aliases:
 - /resources/why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile
 - /resources/videos/why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile-
 - /resources/videos/Nw0bXiOqu0Q
+- /resources/why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -124,10 +125,3 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-
-
-
-
-
-

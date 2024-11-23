@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=uCFIW_lEFuc
 aliases:
 - /resources/videos/uCFIW_lEFuc
 - /resources/videos/sloth!-7-deadly-sins-of-agile-
+- /resources/sloth!-7-deadly-sins-of-agile-
 preview: https://i.ytimg.com/vi/uCFIW_lEFuc/maxresdefault.jpg
 duration: 498
 isShort: false
@@ -65,5 +66,3 @@ For those struggling to implement Agile principles or align their actions with i
 #agile #sloth #agileprinciples #nkdagility #scrum #teams #organisations #leadership #transparency
 
 [Watch on YouTube](https://www.youtube.com/watch?v=uCFIW_lEFuc)
-
-

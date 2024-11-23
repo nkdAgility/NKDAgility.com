@@ -14,6 +14,7 @@ aliases:
 - /resources/when-should-an-organization-consider-a-professional-agile-consultant
 - /resources/videos/when-should-an-organization-consider-a-professional-agile-consultant-
 - /resources/videos/y0yIAIqOv-Q
+- /resources/when-should-an-organization-consider-a-professional-agile-consultant-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -110,10 +111,3 @@ Hashtags:        \*\*#AgileTransformation #ScrumMastery #AgileConsultancy
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
-
-
-
-
-
-
-

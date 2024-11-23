@@ -13,6 +13,7 @@ aliases:
 - /resources/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development
 - /resources/videos/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development-
 - /resources/videos/S7Xr1-qONmM
+- /resources/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -117,10 +118,3 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-
-
-
-
-
-

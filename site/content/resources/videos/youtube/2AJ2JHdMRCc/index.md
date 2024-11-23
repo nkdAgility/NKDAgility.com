@@ -57,12 +57,3 @@ Let's harness the power of DevOps together!
 Let's create, innovate and iterate faster! 🚀
 
 Reach out to learn more.
-
-
-
-
-
-
-
-
-

@@ -82,10 +82,3 @@ Strategic Analogies 🗺️: Opt for metaphors and examples that do justice to t
 In understanding why Lego may not serve as the best conduit for Scrum training, it’s essential to recognize the need for aligning training tools with the realities of complex, uncharted endeavours.  
 
 Stay tuned for more insights in this exploration. 🌟🔄
-
-
-
-
-
-
-

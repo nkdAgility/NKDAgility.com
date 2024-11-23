@@ -13,6 +13,7 @@ aliases:
 - /resources/the-power-of-immersive-learning-in-scrum-training
 - /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-3
 - /resources/videos/bXb00GxJiCY
+- /resources/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-3
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -149,10 +150,3 @@ By embracing shorter, focused sessions and interactive content, Scrum Trainers c
 * * *
 
 With these strategies in mind, you’ll not only improve the learning experience for your Scrum teams but also empower them to truly embrace the Agile mindset. 💡 Ready to give immersive learning a try in your next Scrum training session? Let me know how it goes! 😊
-
-
-
-
-
-
-

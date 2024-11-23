@@ -13,6 +13,7 @@ aliases:
 - /resources/how-does-someone-become-an-agile-consultant
 - /resources/videos/how-does-someone-become-an-agile-consultant-
 - /resources/videos/oBnvr7vOkg8
+- /resources/how-does-someone-become-an-agile-consultant-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -117,10 +118,3 @@ Hashtags:        #AgileConsulting #AgilePractices #AgileJourney #AgileandS
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
-
-
-
-
-
-
-

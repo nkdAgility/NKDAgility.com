@@ -14,6 +14,7 @@ aliases:
 - /resources/what-are-immersive-training-scrum-courses
 - /resources/videos/what-are-immersive-training-scrum-courses-
 - /resources/videos/wa4A_KQ-YGg
+- /resources/what-are-immersive-training-scrum-courses-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -83,10 +84,3 @@ Hashtags:        #ImmersiveLearning #FlippedLearning #Agile #Scrum
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
-
-
-
-
-
-
-

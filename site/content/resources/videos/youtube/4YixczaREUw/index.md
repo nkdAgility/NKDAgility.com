@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=4YixczaREUw
 aliases:
 - /resources/videos/4YixczaREUw
 - /resources/videos/many-folks-say-scrum-is-like-communism;-it-does-not-work!-are-they-right-
+- /resources/many-folks-say-scrum-is-like-communism;-it-does-not-work!-are-they-right-
 preview: https://i.ytimg.com/vi/4YixczaREUw/maxresdefault.jpg
 duration: 1373
 isShort: false
@@ -50,7 +51,3 @@ Sign up for one of our upcoming professional Scrum classes: https://nkdagility.c
 Music from the Red Alert - The Music Album: the best and the most well-known song, Hell March.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=4YixczaREUw)
-
-
-
-

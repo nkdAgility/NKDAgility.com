@@ -13,6 +13,7 @@ aliases:
 - /resources/mastering-evidence-based-management-in-agile-inform-dont-control
 - /resources/videos/introduction-to-evidence-based-management
 - /resources/videos/66NuAjzWreY
+- /resources/introduction-to-evidence-based-management
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -163,12 +164,3 @@ Remember, it’s okay if the data doesn’t always tell you what you want to hea
 - **Use data to inform**—not dictate—your decisions.
 
 By following this approach, you can create a culture where data is a trusted advisor, not a demanding boss. This shift can lead to better decisions, more engaged teams, and ultimately, **greater value delivery** for your customers. 🚀 Now, go forth and let data be your guide—not your master!
-
-
-
-
-
-
-
-
-

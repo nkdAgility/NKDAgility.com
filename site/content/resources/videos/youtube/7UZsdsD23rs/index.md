@@ -107,12 +107,3 @@ By wholeheartedly adopting the ethos of 'inspect and adapt', you'll discover tha
 - 🔄 **Champion Change**: Welcome directional shifts – they are the rungs on your ladder to the zenith. 
 
 In the Agile universe, inertia is the antithesis of success. To chart the unceasing ebb and flow of the market and organisational dynamics, you must be adaptable – and empiricism is your guide.
-
-
-
-
-
-
-
-
-

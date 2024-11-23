@@ -13,6 +13,7 @@ aliases:
 - /resources/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs
 - /resources/videos/quotes-you-can't-connect-the-dots-looking-forward;-you-can-only-connect-them-looking-backwards
 - /resources/videos/hj31XHbmWbA
+- /resources/quotes-you-can't-connect-the-dots-looking-forward;-you-can-only-connect-them-looking-backwards
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -81,10 +82,3 @@ While looking back is insightful, it is not an infallible predictor of success. 
 **Balancing Past Insights with Agile Flexibility** 
 
 Steve Jobs’ perspective on connecting dots is a metaphor for the Agile journey. It's about understanding the past to navigate the future but also staying flexible and ready to pivot based on new insights and evidence. 🌟
-
-
-
-
-
-
-

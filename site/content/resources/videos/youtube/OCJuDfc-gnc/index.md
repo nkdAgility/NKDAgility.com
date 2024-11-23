@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=OCJuDfc-gnc
 aliases:
 - /resources/videos/OCJuDfc-gnc
 - /resources/videos/25th-march-2020-office-hours-ask-me-anything
+- /resources/25th-march-2020-office-hours-ask-me-anything
 preview: https://i.ytimg.com/vi/OCJuDfc-gnc/maxresdefault.jpg
 duration: 592
 isShort: false
@@ -34,5 +35,3 @@ We recommend joining on Youtube as there is less delay: https://www.youtube.com/
 If you have a sensitive question that you want to be answered but don’t want to ask publicly do so on https://nkdagility.net/ask
 
 [Watch on YouTube](https://www.youtube.com/watch?v=OCJuDfc-gnc)
-
-

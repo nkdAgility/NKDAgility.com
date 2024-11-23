@@ -13,6 +13,7 @@ aliases:
 - /resources/what-is-sprint-planning
 - /resources/videos/what-is-sprint-planning-
 - /resources/videos/nMkit8zBxG0
+- /resources/what-is-sprint-planning-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -94,10 +95,3 @@ It's the best of both worlds.  🌎 
 For those passionate about delving deeper into the world of Scrum, Kanban, or even Agile practices, I'd be thrilled to share more insights.
 
 Join me on my Agile and Scrum courses to journey into the world of efficient project management.
-
-
-
-
-
-
-

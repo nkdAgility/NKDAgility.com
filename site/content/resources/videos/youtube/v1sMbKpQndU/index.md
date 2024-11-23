@@ -14,6 +14,7 @@ aliases:
 - /resources/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
 - /resources/videos/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance-
 - /resources/videos/v1sMbKpQndU
+- /resources/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -129,10 +130,3 @@ Key takeaways include: 
 Agile coaching and the role of the Scrum Master are about much more than guiding teams through the mechanics of Agile methodologies. They are about fostering a mindset of continuous improvement, collaboration, and empowerment. 
 
 By understanding the nuances of these roles, you can effectively lead your teams to achieve remarkable results in the Agile world. 🌍✨
-
-
-
-
-
-
-

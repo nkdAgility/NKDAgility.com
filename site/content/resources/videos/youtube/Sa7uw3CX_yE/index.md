@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=Sa7uw3CX_yE
 aliases:
 - /resources/videos/Sa7uw3CX_yE
 - /resources/videos/the-tyranny-of-taylorism-and-how-to-spot-agile-lies-for-the-future-of-work-in-scotland
+- /resources/the-tyranny-of-taylorism-and-how-to-spot-agile-lies-for-the-future-of-work-in-scotland
 preview: https://i.ytimg.com/vi/Sa7uw3CX_yE/maxresdefault.jpg
 duration: 4809
 isShort: false
@@ -26,5 +27,3 @@ source: youtube
 
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Sa7uw3CX_yE)
-
-

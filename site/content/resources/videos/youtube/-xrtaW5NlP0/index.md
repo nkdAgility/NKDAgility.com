@@ -131,12 +131,3 @@ Here’s a brief 'how-to' concerto: 
 Kanban doesn’t just streamline; it leads. It transforms creative chaos into a coherent composition—collaborative, continuous, and always on cue. 
 
 As those in the creative sector embrace Kanban, an epiphany unfolds: a framework can indeed liberate creativity. And with Kanban, this framework is as adaptable as it is sturdy, resonating with the dynamic tempo of creative work.
-
-
-
-
-
-
-
-
-

@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=wNgfCTE7C6M
 aliases:
 - /resources/videos/wNgfCTE7C6M
 - /resources/videos/how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions-
+- /resources/how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions-
 preview: https://i.ytimg.com/vi/wNgfCTE7C6M/maxresdefault.jpg
 duration: 371
 isShort: false
@@ -49,5 +50,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=wNgfCTE7C6M)
-
-

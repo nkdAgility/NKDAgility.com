@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=T07AK-1FAK4
 aliases:
 - /resources/videos/T07AK-1FAK4
 - /resources/videos/7-signs-of-the-agile-apocalypse-the-antichrist
+- /resources/7-signs-of-the-agile-apocalypse-the-antichrist
 preview: https://i.ytimg.com/vi/T07AK-1FAK4/maxresdefault.jpg
 duration: 42
 isShort: true
@@ -62,5 +63,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=T07AK-1FAK4)
-
-

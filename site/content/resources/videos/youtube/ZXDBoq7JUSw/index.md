@@ -78,10 +78,3 @@ I firmly believe that each of you has the potential to transcend the boundaries 
 I invite you to join me in my Agile and Scrum courses, where we will cultivate an environment of continuous growth and learning together.
 
 Let's foster a culture where professionalism isn't just a title but a lived experience.
-
-
-
-
-
-
-

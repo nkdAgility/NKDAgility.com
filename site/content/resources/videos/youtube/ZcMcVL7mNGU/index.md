@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=ZcMcVL7mNGU
 aliases:
 - /resources/videos/ZcMcVL7mNGU
 - /resources/videos/product-management-mentor-program-final
+- /resources/product-management-mentor-program-final
 preview: https://i.ytimg.com/vi/ZcMcVL7mNGU/maxresdefault.jpg
 duration: 256
 isShort: false
@@ -44,5 +45,3 @@ Visit https://nkdagility.com/global-consultancy-services/product-management-ment
 #productmanagement #agileproductmanagement #agileproductdevelopment #agiletraining #agilecoaching #agileprojectmanagement
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ZcMcVL7mNGU)
-
-

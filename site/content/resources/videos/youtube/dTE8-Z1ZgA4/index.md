@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=dTE8-Z1ZgA4
 aliases:
 - /resources/videos/dTE8-Z1ZgA4
 - /resources/videos/why-do-you-trust-simon-to-deliver-the-aps-course-for-nkd-agility
+- /resources/why-do-you-trust-simon-to-deliver-the-aps-course-for-nkd-agility
 preview: https://i.ytimg.com/vi/dTE8-Z1ZgA4/maxresdefault.jpg
 duration: 49
 isShort: true
@@ -40,5 +41,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=dTE8-Z1ZgA4)
-
-

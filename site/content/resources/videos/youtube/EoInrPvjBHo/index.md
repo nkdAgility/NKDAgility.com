@@ -13,6 +13,7 @@ aliases:
 - /resources/how-to-overcome-agile-banditry-a-product-owners-journey
 - /resources/videos/5-kinds-of-agile-bandits-product-owner-bandits
 - /resources/videos/EoInrPvjBHo
+- /resources/5-kinds-of-agile-bandits-product-owner-bandits
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -123,10 +124,3 @@ Agile Banditry doesn’t just hurt the Product Owner; it hurts the entire team a
 - **Trust your team** to deliver amazing results when they’re given autonomy and support.
 
 **Prioritize engagement**—happy, empowered teams build the best products.
-
-
-
-
-
-
-

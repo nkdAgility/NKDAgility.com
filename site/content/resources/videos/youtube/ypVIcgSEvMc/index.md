@@ -70,10 +70,3 @@ It's a lifeline, a propellant, enabling them to fortify their skillset, ensuring
 If you've contemplated elevating your stature, transitioning from a practitioner to a consultant, or simply deepening your Agile and Scrum expertise, this is your cue.
 
 Engage, expand, and excel with our meticulously crafted courses. Remember, your odyssey with us is a treasured alliance. 🚀
-
-
-
-
-
-
-

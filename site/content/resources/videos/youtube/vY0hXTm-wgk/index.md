@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=vY0hXTm-wgk
 aliases:
 - /resources/videos/vY0hXTm-wgk
 - /resources/videos/professional-scrum-training-from-naked-agility-with-martin-hinshelwood
+- /resources/professional-scrum-training-from-naked-agility-with-martin-hinshelwood
 preview: https://i.ytimg.com/vi/vY0hXTm-wgk/maxresdefault.jpg
 duration: 142
 isShort: false
@@ -42,5 +43,3 @@ All participants gain complimentary access to the premium "Professional Scrum" s
 I hope to see you there; click the link below to find out more…
 
 [Watch on YouTube](https://www.youtube.com/watch?v=vY0hXTm-wgk)
-
-

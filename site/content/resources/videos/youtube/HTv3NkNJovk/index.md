@@ -13,6 +13,7 @@ aliases:
 - /resources/why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs
 - /resources/videos/why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs-
 - /resources/videos/HTv3NkNJovk
+- /resources/why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -129,10 +130,3 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-
-
-
-
-
-

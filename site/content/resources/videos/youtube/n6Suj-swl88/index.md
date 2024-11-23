@@ -10,6 +10,7 @@ aliases:
 - /resources/videos/n6Suj-swl88
 - /resources/videos/who-should-lead-the-sprint-review-
 - /resources/who-should-lead-the-sprint-review-why-how
+- /resources/who-should-lead-the-sprint-review-
 preview: https://i.ytimg.com/vi/n6Suj-swl88/maxresdefault.jpg
 duration: 286
 isShort: false
@@ -69,4 +70,3 @@ Because you don't just need agility, you need Naked Agility.
 #scrum, #agile, #projectmanagement, #productdevelopment, #agilecoach, #agileconsultant, #agiletraining, #scrumtraining, #scrumorg, #scrummaster, #productowner, #kanban, #continuousdelivery, #devops, #azuredevops.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=n6Suj-swl88)
-

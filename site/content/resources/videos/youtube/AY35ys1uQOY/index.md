@@ -13,6 +13,7 @@ aliases:
 - /resources/how-do-you-know-if-youve-got-a-great-sprint-goal
 - /resources/videos/how-do-you-know-if-you've-got-a-great-sprint-goal-
 - /resources/videos/AY35ys1uQOY
+- /resources/how-do-you-know-if-you've-got-a-great-sprint-goal-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -88,12 +89,3 @@ So, if your sprint goal is generating these kinds of responses and dialogues, yo
 Interested in learning more about Agile and Scrum?
 
 Check out my Agile and Scrum courses and let's unravel more Agile mysteries together – one sprint goal at a time! 🔍
-
-
-
-
-
-
-
-
-

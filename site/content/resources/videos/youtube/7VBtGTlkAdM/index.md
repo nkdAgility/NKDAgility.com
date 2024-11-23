@@ -70,6 +70,3 @@ Don't fall into the contract trap.  Equip yourself with the agility and foresig
 My Agile and Scrum courses offer this much-needed perspective.  Ready to redefine your consulting approach?  Enroll today! 🌟
 
 👉 Transform Your Consulting Career Now!
-
-
-

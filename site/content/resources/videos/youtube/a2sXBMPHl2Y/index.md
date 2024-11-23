@@ -14,6 +14,7 @@ aliases:
 - /resources/how-can-companies-derive-greater-benefit-from-training-by-investing-in-a-private-training-course
 - /resources/videos/how-can-companies-derive-greater-benefit-from-training-by-investing-in-a-private-training-course-
 - /resources/videos/a2sXBMPHl2Y
+- /resources/how-can-companies-derive-greater-benefit-from-training-by-investing-in-a-private-training-course-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -77,12 +78,3 @@ If you're poised to elevate your team's Agile and Scrum prowess, join one of our
 Whether public or private, our training sessions are meticulously designed to empower you. Keen on a tailored experience?
 
 Let's explore the boundless potential of private courses together.
-
-
-
-
-
-
-
-
-

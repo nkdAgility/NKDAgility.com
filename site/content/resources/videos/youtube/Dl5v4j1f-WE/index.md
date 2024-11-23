@@ -14,6 +14,7 @@ aliases:
 - /resources/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer
 - /resources/videos/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-
 - /resources/videos/Dl5v4j1f-WE
+- /resources/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -77,10 +78,3 @@ Interested in learning more about Scrum?
 Join me in my Agile and Scrum courses, where we deep-dive into these values and more.
 
 Can't wait to see you there! 🚀
-
-
-
-
-
-
-

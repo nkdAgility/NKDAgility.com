@@ -13,6 +13,7 @@ aliases:
 - /resources/how-critical-is-a-product-owner-in-developing-a-great-product-backlog
 - /resources/videos/how-critical-is-a-product-owner-in-developing-a-great-product-backlog-
 - /resources/videos/6cczVAbOMao
+- /resources/how-critical-is-a-product-owner-in-developing-a-great-product-backlog-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -92,12 +93,3 @@ Join me in my comprehensive Agile and Scrum courses, where we delve deep into th
 Let's cultivate the knack to create lean and directional product backlogs together!
 
 Remember, strong product leadership is the cornerstone of a successful product development cycle! 🚀
-
-
-
-
-
-
-
-
-

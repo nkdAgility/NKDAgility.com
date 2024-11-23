@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=OMlLiLkCmMY
 aliases:
 - /resources/videos/OMlLiLkCmMY
 - /resources/videos/-shorts-7-virtues-of-agile-chastity
+- /resources/-shorts-7-virtues-of-agile-chastity
 preview: https://i.ytimg.com/vi/OMlLiLkCmMY/maxresdefault.jpg
 duration: 24
 isShort: true
@@ -60,5 +61,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=OMlLiLkCmMY)
-
-

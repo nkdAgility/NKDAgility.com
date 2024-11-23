@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=IqWvURjrJVs
 aliases:
 - /resources/videos/IqWvURjrJVs
 - /resources/videos/znaczenie-znajomości-terenu
+- /resources/znaczenie-znajomości-terenu
 preview: https://i.ytimg.com/vi/IqWvURjrJVs/maxresdefault.jpg
 duration: 255
 isShort: false
@@ -53,5 +54,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=IqWvURjrJVs)
-
-

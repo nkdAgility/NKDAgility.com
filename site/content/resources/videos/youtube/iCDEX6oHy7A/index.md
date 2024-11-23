@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=iCDEX6oHy7A
 aliases:
 - /resources/videos/iCDEX6oHy7A
 - /resources/videos/ep-004-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
+- /resources/ep-004-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
 preview: https://i.ytimg.com/vi/iCDEX6oHy7A/maxresdefault.jpg
 duration: 5071
 isShort: false
@@ -35,5 +36,3 @@ Guest Jim Sammons: https://www.scrum.org/jim-sammons
 Martin Hinshelwood: https://nkdagility.com/company/about-martin-hinshelwood/
 
 [Watch on YouTube](https://www.youtube.com/watch?v=iCDEX6oHy7A)
-
-

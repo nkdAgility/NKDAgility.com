@@ -13,6 +13,7 @@ aliases:
 - /resources/mastering-evidence-based-management-for-agile-success
 - /resources/videos/evidence-based-management-gathering-and-analyzing-data
 - /resources/videos/S0h_7ayLpsE
+- /resources/evidence-based-management-gathering-and-analyzing-data
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -157,10 +158,3 @@ Evidence-Based Management isn’t just a methodology; it’s a powerful way to s
 * * *
 
 Start gathering your data today, analyze it, and use it to propel your team towards success! 🚀
-
-
-
-
-
-
-

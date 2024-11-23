@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=4kqM1U7y1ZM
 aliases:
 - /resources/videos/4kqM1U7y1ZM
 - /resources/videos/what-would-you-look-to-achieve-with-a-new-scrum-team-in-the-first-90-days-
+- /resources/what-would-you-look-to-achieve-with-a-new-scrum-team-in-the-first-90-days-
 preview: https://i.ytimg.com/vi/4kqM1U7y1ZM/maxresdefault.jpg
 duration: 239
 isShort: false
@@ -49,7 +50,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=4kqM1U7y1ZM)
-
-
-
-

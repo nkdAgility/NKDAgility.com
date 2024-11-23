@@ -13,6 +13,7 @@ aliases:
 - /resources/how-do-you-think-agile-is-evolving-since-its-inception-in-2001
 - /resources/videos/how-do-you-think-agile-is-evolving-since-its-inception-in-2001-
 - /resources/videos/QgPlMxGNIzs
+- /resources/how-do-you-think-agile-is-evolving-since-its-inception-in-2001-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -96,10 +97,3 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-
-
-
-
-
-

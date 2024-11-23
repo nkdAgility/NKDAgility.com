@@ -13,6 +13,7 @@ aliases:
 - /resources/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
 - /resources/videos/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
 - /resources/videos/KvZbBwzxSu4
+- /resources/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -149,10 +150,3 @@ By fostering a culture of empathy, engagement, and shared understanding, you can
 - Foster a culture of empathy, engagement, and shared understanding.
 
 By implementing these strategies, you can transform your organization into a cohesive, high-performing entity where every team member is aligned with the overall strategic direction.
-
-
-
-
-
-
-

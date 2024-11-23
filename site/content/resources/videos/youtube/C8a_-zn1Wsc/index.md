@@ -13,6 +13,7 @@ aliases:
 - /resources/unlocking-the-power-of-immersive-learning-in-agile-overcoming-cognitive-bias
 - /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-1
 - /resources/videos/C8a_-zn1Wsc
+- /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-1
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -133,10 +134,3 @@ Remember:
 - **Stay focused, reflect, and keep improving** to become a better Agile practitioner.
 
 If you’re ready to take your Agile skills to the next level, immersive learning is the way forward. Whether you’re a Scrum Master, Product Owner, or part of a development team, there’s always room to grow—so keep learning, keep doing, and keep improving! 😊
-
-
-
-
-
-
-

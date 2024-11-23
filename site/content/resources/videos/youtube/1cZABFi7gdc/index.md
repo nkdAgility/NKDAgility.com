@@ -13,6 +13,7 @@ aliases:
 - /resources/hiring-the-right-agile-coach-what-you-need-to-know
 - /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-4
 - /resources/videos/1cZABFi7gdc
+- /resources/5-things-to-consider-before-hiring-an-agilecoach-part-4
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -165,12 +166,3 @@ In summary:
 - **Look for personal traits like empathy, adaptability, and clear communication** – these make a great coach.
 
 Remember, the right Agile coach will not just guide your teams but empower your entire organization to embrace a culture of continuous improvement, collaboration, and flexibility. 🌟
-
-
-
-
-
-
-
-
-

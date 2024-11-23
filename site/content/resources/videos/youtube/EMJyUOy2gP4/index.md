@@ -13,6 +13,7 @@ aliases:
 - /resources/the-problem-with-incompetent-scrum-masters-why-lack-of-skills-in-team-context-results-in-poor-roi
 - /resources/videos/what-are-the-financial-implications-for-organizations-that-employ-under-skilled-scrum-masters
 - /resources/videos/EMJyUOy2gP4
+- /resources/what-are-the-financial-implications-for-organizations-that-employ-under-skilled-scrum-masters
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -158,10 +159,3 @@ Your Scrum Masters should be able to demonstrate their impact through improved m
 ## **Conclusion: Competence Is Key to Unlocking ROI**
 
 In today’s competitive landscape, a competent Scrum Master can be the difference between a team that merely gets by and one that thrives. It’s not just about having happier teams; it's about delivering more value to your customers. Measure, adjust, and ensure your investment in Scrum Masters pays off. 👉 **Final Thought**: Don't settle for mediocrity. Invest in Scrum Masters who can drive real change and watch your ROI soar.
-
-
-
-
-
-
-

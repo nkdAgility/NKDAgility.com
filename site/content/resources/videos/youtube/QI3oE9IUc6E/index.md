@@ -15,6 +15,7 @@ aliases:
 - /resources/how-effectively-does-an-aps-prepare-a-team-to-do-solid-professional-scrum
 - /resources/videos/how-effectively-does-an-aps-prepare-a-team-to-do-solid,-professional-scrum
 - /resources/videos/QI3oE9IUc6E
+- /resources/how-effectively-does-an-aps-prepare-a-team-to-do-solid,-professional-scrum
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -92,10 +93,3 @@ If Scrum is your chosen path, and you're seeking to optimise each step, I invite
 Engage, learn, transform. For those keen on exploring Agile further or simply keen to share their own Scrum tales, let's connect.
 
 Reach out via Naked Agility, and let's pen your Scrum success saga together.
-
-
-
-
-
-
-

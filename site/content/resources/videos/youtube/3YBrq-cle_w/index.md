@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=3YBrq-cle_w
 aliases:
 - /resources/videos/3YBrq-cle_w
 - /resources/videos/how-will-a-psm-ii-course-challenge-your-assumptions-the-most-
+- /resources/how-will-a-psm-ii-course-challenge-your-assumptions-the-most-
 preview: https://i.ytimg.com/vi/3YBrq-cle_w/maxresdefault.jpg
 duration: 132
 isShort: false
@@ -51,7 +52,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=3YBrq-cle_w)
-
-
-
-

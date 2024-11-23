@@ -14,6 +14,7 @@ aliases:
 - /resources/why-i-love-hierarchies-of-competence-2
 - /resources/videos/why-i-love-hierarchies-of-competence
 - /resources/videos/WVNiLx3QHLg
+- /resources/why-i-love-hierarchies-of-competence
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -63,10 +64,3 @@ Hashtags:        #CompetenceOverPower, #LeadershipEvolution, #InformedDeci
 General
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
-
-
-
-
-
-
-

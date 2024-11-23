@@ -13,6 +13,7 @@ aliases:
 - /resources/what-is-project-management
 - /resources/videos/what-is-project-management-
 - /resources/videos/jmU91ClcSqA
+- /resources/what-is-project-management-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -59,10 +60,3 @@ To help people know everything they're going to do, to plan the way forward and 
 - The ultimate aim – a know-it-all plan for action ✅
 
 If this information piques your curiosity and you're intrigued and ready to take the leap into the dynamic world of Project Management, I'd love to guide you on this journey with my Agile and Scrum courses 🚀
-
-
-
-
-
-
-

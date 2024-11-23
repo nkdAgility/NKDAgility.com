@@ -13,6 +13,7 @@ aliases:
 - /resources/hiring-an-agile-coach-what-to-look-for-in-both-technical-and-leadership-engagement
 - /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-2
 - /resources/videos/9z9BgSi2zeA
+- /resources/5-things-to-consider-before-hiring-an-agilecoach-part-2
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -166,12 +167,3 @@ Before you make your decision, ensure that the coach has both the technical chop
 * * *
 
 By carefully selecting an Agile coach who excels in both technical and leadership engagement, you’re setting your organization up for long-term success. You'll see not just improved processes, but stronger alignment between business goals and team execution, leading to tangible outcomes like higher innovation, faster delivery, and greater customer satisfaction.
-
-
-
-
-
-
-
-
-

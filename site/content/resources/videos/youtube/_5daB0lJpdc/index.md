@@ -12,6 +12,8 @@ isShort: false
 aliases:
 - /resources/introduction-to-agilitys-ghosts-shedding-dogma-and-embracing-pragmatism
 - /resources/videos/_5daB0lJpdc
+- /resources/videos/5-ghosts-of-agile-past-certification
+- /resources/5-ghosts-of-agile-past-certification
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -108,14 +110,3 @@ As we’ve seen, dogma can undermine the effectiveness of a team and stifle its 
 In Agile, we need to focus on pragmatism over dogmatism. Teams are made up of individuals with diverse backgrounds, skills, and experiences, and no single approach will work for everyone. Agile is about adaptability and finding the best path forward for your team, not rigidly following a set of rules.
 
 So, if you find yourself or your team stuck in dogmatic thinking, remember this: it’s not about the rules; it’s about delivering value and improving continuously. Don’t let the ghost of dogma haunt your Agile practice 👻. If you want to discuss your unique needs or situation, book a call or visit us at nakedagility.com. We’re here to help you clear the path to better agility, free from the specter of dogma.
-
-
-
-
-
-
-
-
-
-
-

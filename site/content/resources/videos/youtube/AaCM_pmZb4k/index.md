@@ -14,6 +14,7 @@ aliases:
 - /resources/what-are-hierarchies-of-competence-vs-control
 - /resources/videos/what-are-hierarchies-of-competence-vs-control-
 - /resources/videos/AaCM_pmZb4k
+- /resources/what-are-hierarchies-of-competence-vs-control-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -79,12 +80,3 @@ Consider transitioning towards a more competence-based hierarchy if your organis
 Ready to make your organisation more agile and efficient?
 
 Let's navigate the future of work together.
-
-
-
-
-
-
-
-
-

@@ -13,6 +13,7 @@ aliases:
 - /resources/no-go-zone-for-agile-consultants
 - /resources/videos/no-go-zone-for-agile-consultants-
 - /resources/videos/ZnXrAarX1Wg
+- /resources/no-go-zone-for-agile-consultants-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -71,10 +72,3 @@ Hashtags:         #AgileConsulting #Coaching #Teaching #Change
 General
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
-
-
-
-
-
-
-

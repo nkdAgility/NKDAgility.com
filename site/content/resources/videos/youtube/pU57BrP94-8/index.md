@@ -89,10 +89,3 @@ Explore the Immersive Journey with Me 
 For those eager to immerse themselves in a richer, more integrated Scrum experience, I invite you to embark on this learning journey with me.  
 
 Connect with me through Naked Agility, and let's craft your own unique Scrum immersive learning experience. 🌟
-
-
-
-
-
-
-

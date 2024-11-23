@@ -96,7 +96,7 @@ function Update-Field {
 }
 
 # Update-List function to have the same signature as Update-Field
-# Update-List -frontMatter $frontMatter -fieldName 'tags' -values ([list]@('DevOps', 'Agile', 'Scrum'))
+# Update-List -frontMatter $frontMatter -fieldName 'tags' -values @('DevOps', 'Agile', 'Scrum')
 function Update-StringList {
     param (
         [Parameter(Mandatory = $true)]
@@ -104,7 +104,7 @@ function Update-StringList {
         [Parameter(Mandatory = $true)]
         [string]$fieldName,
         [Parameter(Mandatory = $true)]
-        [System.Collections.Generic.List[string]]$values,
+        [string[]]$values,
         [string]$addAfter = $null,
         [string]$addBefore = $null
     )
@@ -119,18 +119,14 @@ function Update-StringList {
         $existingValues = $frontMatter[$fieldName]
         $newValues = $values | Where-Object { -not ($existingValues -contains $_) }
         if ($newValues.Count -ne 0) {
-            $frontMatter[$fieldName].AddRange($newValues)
+            $frontMatter[$fieldName] += $newValues
             Write-Host "$fieldName updated with new unique values"
         }
         else {
             Write-Host "$fieldName already contains all values"
         }
-        
-        
     }
 }
-
-
 
 
 # Function to save updated HugoMarkdown to a file

@@ -15,6 +15,7 @@ aliases:
 - /resources/common-mistakes-that-scrum-masters-make-part-2
 - /resources/videos/common-mistakes-that-scrum-masters-make-part-2-
 - /resources/videos/WTd-8mOlFfQ
+- /resources/common-mistakes-that-scrum-masters-make-part-2-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -78,10 +79,3 @@ I'm here to guide you with my Agile and Scrum courses.  🎓
 Equip yourself with the knowledge and skills to avoid these common mistakes and be a Scrum Master who truly catalyses team success!
 
 Let's start this learning journey together!
-
-
-
-
-
-
-

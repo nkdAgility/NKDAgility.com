@@ -14,6 +14,7 @@ aliases:
 - /resources/why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course
 - /resources/videos/why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course-
 - /resources/videos/EOs5kZv_7tg
+- /resources/why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -78,10 +79,3 @@ Our courses, curated with precision, await you.
 And if you ever want a detailed chat on any Agile, Scrum, or DevOps topic, feel free to book a coffee chat with me through Naked Agility.
 
 Stay agile, and continue sparking transformations! 🌠
-
-
-
-
-
-
-

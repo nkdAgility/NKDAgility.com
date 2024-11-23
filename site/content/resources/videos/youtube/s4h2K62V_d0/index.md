@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=s4h2K62V_d0
 aliases:
 - /resources/videos/s4h2K62V_d0
 - /resources/videos/shifting-left-quality-from-the-start
+- /resources/shifting-left-quality-from-the-start
 preview: https://i.ytimg.com/vi/s4h2K62V_d0/maxresdefault.jpg
 duration: 600
 isShort: false
@@ -75,5 +76,3 @@ Are you ready to embrace modern software engineering practices and unlock your t
 #agile #scrum #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #productdevelopment #projectmanagement #projectmanager #productmanager #developer
 
 [Watch on YouTube](https://www.youtube.com/watch?v=s4h2K62V_d0)
-
-

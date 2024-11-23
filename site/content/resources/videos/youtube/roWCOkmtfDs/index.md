@@ -13,6 +13,7 @@ aliases:
 - /resources/the-importance-of-validation-in-product-development-a-strategic-approach
 - /resources/videos/what-is-product-validation-and-why-does-it-matter
 - /resources/videos/roWCOkmtfDs
+- /resources/what-is-product-validation-and-why-does-it-matter
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -137,10 +138,3 @@ In today’s fast-paced product development environment, it’s easy to fall int
 - **Empower Product Managers**: Give them the tools and data they need to make evidence-based decisions.
 
 🚀 By following these principles, you can create products that not only close deals but also deliver sustained value to your customers and your business.
-
-
-
-
-
-
-

@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=YGyx4i3-4ss
 aliases:
 - /resources/videos/YGyx4i3-4ss
 - /resources/videos/ppdv-course-overview
+- /resources/ppdv-course-overview
 preview: https://i.ytimg.com/vi/YGyx4i3-4ss/maxresdefault.jpg
 duration: 53
 isShort: true
@@ -26,5 +27,3 @@ source: youtube
 Visit https://www.nkdagility.com to find out more about the PPDV course from Scrum.org #agile #scrum #productowner #productmanager #projectmanager #productdevelopment #projectmanagement
 
 [Watch on YouTube](https://www.youtube.com/watch?v=YGyx4i3-4ss)
-
-

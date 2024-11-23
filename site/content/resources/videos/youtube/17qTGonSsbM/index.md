@@ -13,6 +13,7 @@ aliases:
 - /resources/the-importance-of-evaluating-direction-are-you-heading-the-right-way
 - /resources/videos/“if-you-do-not-change-direction,-you-may-end-up-where-you-are-heading-”-–-lao-tzu
 - /resources/videos/17qTGonSsbM
+- /resources/“if-you-do-not-change-direction,-you-may-end-up-where-you-are-heading-”-–-lao-tzu
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -137,12 +138,3 @@ To recap:
 - **Organizations**: Stay flexible and open to change; otherwise, you risk driving off the cliff.
 
 It’s crucial to take a step back, evaluate, and be willing to adjust your course. As Lao Tzu suggests, if you don’t change direction, you may end up somewhere you don’t want to be. And nobody wants that, right? 🚫
-
-
-
-
-
-
-
-
-

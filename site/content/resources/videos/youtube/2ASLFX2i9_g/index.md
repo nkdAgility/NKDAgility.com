@@ -13,6 +13,7 @@ aliases:
 - /resources/7-deadly-sins-of-agile-gluttony
 - /resources/videos/gluttony!-7-deadly-sins-of-agile
 - /resources/videos/2ASLFX2i9_g
+- /resources/gluttony!-7-deadly-sins-of-agile
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -93,12 +94,3 @@ The key to avoiding gluttony in Agile and Scrum is recognising that more isn't a
 - **Embrace Value Delivery:** Ensure every feature and task adds real value. 
 
 - **Leverage Feedback:** Use insights from customers and team members to guide decisions.
-
-
-
-
-
-
-
-
-

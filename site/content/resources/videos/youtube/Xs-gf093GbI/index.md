@@ -13,6 +13,7 @@ aliases:
 - /resources/what-is-a-product-vision-and-why-does-it-matter
 - /resources/videos/what-is-a-product-vision-and-why-does-it-matter-
 - /resources/videos/Xs-gf093GbI
+- /resources/what-is-a-product-vision-and-why-does-it-matter-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -75,10 +76,3 @@ It's the heartbeat that keeps the product alive and thriving.
 For those wanting a deep dive into building and understanding effective product visions, I encourage you to check out our Agile and Scrum courses.
 
 Let's embark on this journey of discovery and alignment together.
-
-
-
-
-
-
-

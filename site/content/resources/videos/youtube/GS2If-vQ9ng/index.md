@@ -63,10 +63,3 @@ In contrast, Agile consulting zeroes in on specific pain points and challenges, 
 Whether you're new to Agile or a seasoned veteran, we have something to offer.  🌟
 
 Our training courses give you the foundational skills you need, while our consulting services provide customised solutions for your specific challenges.
-
-
-
-
-
-
-

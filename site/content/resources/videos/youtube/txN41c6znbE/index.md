@@ -13,6 +13,7 @@ aliases:
 - /resources/where-agile-went-wrong-understanding-the-competence-crisis
 - /resources/videos/the-difference-between-a-rock-solid,-deeply-competent-scrum-master-and-a-jira-jockey
 - /resources/videos/txN41c6znbE
+- /resources/the-difference-between-a-rock-solid,-deeply-competent-scrum-master-and-a-jira-jockey
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -144,10 +145,3 @@ The Agile community has come a long way since the early days, but we still face 
 - **Hire for context**: Understand that the right Scrum Master needs to align with the team’s needs, the product’s demands, and the organization’s vision.
 
 🚀 By focusing on these areas, we can build a future where Agile truly lives up to its promise—delivering value, adapting continuously, and empowering individuals and teams to thrive. Let’s get back on track, and make Agile what it was always meant to be!
-
-
-
-
-
-
-

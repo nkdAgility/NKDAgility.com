@@ -13,6 +13,7 @@ aliases:
 - /resources/what-is-kanban
 - /resources/videos/what-is-kanban-
 - /resources/videos/LMmKDlcIvWs
+- /resources/what-is-kanban-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -144,10 +145,3 @@ Kanban is more than just a method for managing work. It’s a powerful strategy 
 - **Further Reading**: Explore more about Kanban and agile methodologies on our blog.
 
 * * *
-
-
-
-
-
-
-

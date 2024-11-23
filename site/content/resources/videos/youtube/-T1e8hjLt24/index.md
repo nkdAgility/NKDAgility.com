@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=-T1e8hjLt24
 aliases:
 - /resources/videos/-T1e8hjLt24
 - /resources/videos/-shorts-5-things-you-would-teach-a-produtowner-apprentice-part-5
+- /resources/-shorts-5-things-you-would-teach-a-produtowner-apprentice-part-5
 preview: https://i.ytimg.com/vi/-T1e8hjLt24/maxresdefault.jpg
 duration: 58
 isShort: true
@@ -51,7 +52,3 @@ source: youtube
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=-T1e8hjLt24)
-
-
-
-

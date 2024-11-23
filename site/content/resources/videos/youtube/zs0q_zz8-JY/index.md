@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=zs0q_zz8-JY
 aliases:
 - /resources/videos/zs0q_zz8-JY
 - /resources/videos/biggest-misconception-about-a-scrum-master
+- /resources/biggest-misconception-about-a-scrum-master
 preview: https://i.ytimg.com/vi/zs0q_zz8-JY/maxresdefault.jpg
 duration: 46
 isShort: true
@@ -47,5 +48,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=zs0q_zz8-JY)
-
-

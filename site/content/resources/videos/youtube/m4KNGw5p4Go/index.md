@@ -13,6 +13,7 @@ aliases:
 - /resources/transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
 - /resources/videos/what-you-will-be-able-to-do-at-the-end-of-the-ppdv-course
 - /resources/videos/m4KNGw5p4Go
+- /resources/what-you-will-be-able-to-do-at-the-end-of-the-ppdv-course
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -114,10 +115,3 @@ By focusing on increasing user value, reducing waste, embracing agility, unlocki
 Remember, the key to successful product development lies in experimentation, collaboration, and a relentless focus on creating value. So, take the lessons from this course and start making meaningful changes today!
 
 🚀 **Ready to take your product development to the next level? Let’s get started!**
-
-
-
-
-
-
-

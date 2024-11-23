@@ -13,6 +13,7 @@ aliases:
 - /resources/unlocking-agiles-core-questioning-to-create-value
 - /resources/videos/agile-is-failing-organizations!
 - /resources/videos/M4ap4uNzptg
+- /resources/agile-is-failing-organizations!
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -161,10 +162,3 @@ To truly unlock the power of Agile:
 - **Continuously adapt**: Always be willing to pivot when necessary.
 
 Embrace these principles, and you’ll not only stay ahead but lead the way in your industry. 🚀
-
-
-
-
-
-
-

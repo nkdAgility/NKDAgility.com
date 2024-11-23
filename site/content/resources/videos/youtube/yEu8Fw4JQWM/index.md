@@ -13,6 +13,7 @@ aliases:
 - /resources/in-wip-less-is-more-why
 - /resources/videos/in-wip,-less-is-more,-why-
 - /resources/videos/yEu8Fw4JQWM
+- /resources/in-wip,-less-is-more,-why-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -101,10 +102,3 @@ Focus.  Finish.  Then move on.  ✅
 It's not about reducing quality or output but streamlining processes and focusing on completion rather than juggling.
 
 For those interested in diving deeper into Agile, Kanban, or Scrum and learning how to create a more efficient work environment, consider checking out our upcoming courses.
-
-
-
-
-
-
-

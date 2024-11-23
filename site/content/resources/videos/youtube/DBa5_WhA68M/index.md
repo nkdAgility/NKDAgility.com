@@ -13,6 +13,7 @@ aliases:
 - /resources/the-art-of-negotiation-for-product-owners-essential-skills-to-master
 - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-1
 - /resources/videos/DBa5_WhA68M
+- /resources/5-things-you-would-teach-a-productowner-apprentice-part-1
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -145,10 +146,3 @@ I once worked with a Product Owner who had trouble saying no to stakeholders. Th
 If you’re a Product Owner struggling with negotiation or just getting started, don’t wait. **Develop these skills now** to avoid being overwhelmed later. My team at Naked Agility can help you find the right training or coach to improve your negotiation skills. Check out the links in the description for more information!
 
 📈💡 **Remember:** Negotiation is a skill that grows over time. The more you practice, the better you’ll become at delivering maximum value while maintaining strong relationships.
-
-
-
-
-
-
-

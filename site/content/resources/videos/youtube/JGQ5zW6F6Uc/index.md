@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=JGQ5zW6F6Uc
 aliases:
 - /resources/videos/JGQ5zW6F6Uc
 - /resources/videos/3-steps-developers-must-follow-if-the-product-owner-is-incompetent
+- /resources/3-steps-developers-must-follow-if-the-product-owner-is-incompetent
 preview: https://i.ytimg.com/vi/JGQ5zW6F6Uc/maxresdefault.jpg
 duration: 407
 isShort: false
@@ -72,5 +73,3 @@ Because you don't just need agility, you need Naked Agility.
 #scrum #agile #scrummaster #productowner #agilecoach #agileconsultant #agiletraining #scrumtraining #projectmanagement #productdevelopment
 
 [Watch on YouTube](https://www.youtube.com/watch?v=JGQ5zW6F6Uc)
-
-

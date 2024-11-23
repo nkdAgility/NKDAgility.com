@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=Wk0no7MB0AM
 aliases:
 - /resources/videos/Wk0no7MB0AM
 - /resources/videos/war!-7-harbingers-agile-apocalypse-but-shorter!
+- /resources/war!-7-harbingers-agile-apocalypse-but-shorter!
 preview: https://i.ytimg.com/vi/Wk0no7MB0AM/maxresdefault.jpg
 duration: 59
 isShort: true
@@ -87,5 +88,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Wk0no7MB0AM)
-
-

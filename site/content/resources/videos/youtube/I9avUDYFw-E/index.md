@@ -13,6 +13,7 @@ aliases:
 - /resources/the-importance-of-competence-in-organizations-building-a-culture-of-learning-and-growth
 - /resources/videos/why-does-this-matter-why-is-it-critical-that-we-invest-in-competence-now
 - /resources/videos/I9avUDYFw-E
+- /resources/why-does-this-matter-why-is-it-critical-that-we-invest-in-competence-now
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -148,10 +149,3 @@ By fostering a culture that prioritizes competence and supports its people, orga
 * * *
 
 This blog post highlights the essential role of competence in driving organizational success. By emphasizing the need for continuous learning and creating environments where employees can thrive, it offers actionable insights for leaders aiming to build a culture of growth and innovation. Optimize your team’s potential and watch the results unfold!
-
-
-
-
-
-
-

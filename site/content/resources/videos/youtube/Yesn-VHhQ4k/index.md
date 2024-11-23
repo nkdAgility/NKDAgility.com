@@ -13,6 +13,7 @@ aliases:
 - /resources/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps
 - /resources/videos/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps-
 - /resources/videos/Yesn-VHhQ4k
+- /resources/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -118,10 +119,3 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-
-
-
-
-
-

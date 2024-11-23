@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=XEtys2DOkKU
 aliases:
 - /resources/videos/XEtys2DOkKU
 - /resources/videos/considerations-for-your-azure-devops-migration-excerpt-1
+- /resources/considerations-for-your-azure-devops-migration-excerpt-1
 preview: https://i.ytimg.com/vi/XEtys2DOkKU/maxresdefault.jpg
 duration: 36
 isShort: true
@@ -29,5 +30,3 @@ source: youtube
 Compromises you need to think about for your #azuredevops migration. Excerpt 1. Catch the full video on https://www.youtube.com/@nakedAgility #agile #devops #devopsmigration #microsoft #microsoftazure
 
 [Watch on YouTube](https://www.youtube.com/watch?v=XEtys2DOkKU)
-
-

@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=n4XaJV9dJfs
 aliases:
 - /resources/videos/n4XaJV9dJfs
 - /resources/videos/what-is-the-most-useful-element-of-the-aps-course-for-beginner-scrum-teams-
+- /resources/what-is-the-most-useful-element-of-the-aps-course-for-beginner-scrum-teams-
 preview: https://i.ytimg.com/vi/n4XaJV9dJfs/maxresdefault.jpg
 duration: 219
 isShort: false
@@ -74,5 +75,3 @@ Because you don't just need agility, you need Naked Agility.
 #scrum #agile #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg #scrummaster #productowner #kanban #continuousdelivery #devops #azuredevops
 
 [Watch on YouTube](https://www.youtube.com/watch?v=n4XaJV9dJfs)
-
-

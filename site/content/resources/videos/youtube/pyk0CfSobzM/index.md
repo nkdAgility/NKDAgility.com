@@ -13,6 +13,7 @@ aliases:
 - /resources/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint
 - /resources/videos/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint-
 - /resources/videos/pyk0CfSobzM
+- /resources/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -96,10 +97,3 @@ Remember, your Sprint goal should encompass only a portion of the Sprint, allowi
 I invite you to join my Agile and Scrum courses to delve even deeper into these nuances and cultivate a robust understanding. 🎓
 
 We will navigate the unpredictable yet exhilarating journey of Agile project management.  Let's learn, adapt, and grow together!
-
-
-
-
-
-
-

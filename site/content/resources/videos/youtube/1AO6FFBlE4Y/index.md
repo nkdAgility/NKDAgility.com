@@ -8,6 +8,7 @@ url: /resources/videos/:slug
 aliases:
 - /resources/videos/1AO6FFBlE4Y
 - /resources/videos/the-high-cost-of-poor-quality-code-
+- /resources/the-high-cost-of-poor-quality-code-
 preview: https://i.ytimg.com/vi/1AO6FFBlE4Y/maxresdefault.jpg
 duration: 600
 isShort: false
@@ -98,6 +99,3 @@ When you commit to high-quality code, the benefits are exponential:
 Investing in quality is like paying off a loan—you make small, consistent payments over time, but the payoff is enormous. With high-quality, working software delivered regularly, your organization can achieve its full potential.
 
 So, what’s holding you back? Start investing in your team’s engineering practices today, and watch as your organization transforms.
-
-
-

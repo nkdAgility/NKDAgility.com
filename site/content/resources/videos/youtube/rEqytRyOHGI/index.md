@@ -13,6 +13,7 @@ aliases:
 - /resources/special-sprints-agile-banditry-or-risk-management
 - /resources/videos/5-kinds-of-agile-bandits-special-sprints
 - /resources/videos/rEqytRyOHGI
+- /resources/5-kinds-of-agile-bandits-special-sprints
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -141,10 +142,3 @@ If you're noticing that your team is falling into the trap of special sprints or
 ## **Agile Bandits Beware!**
 
 If you’re being ambushed by agile bandits in your organization—those pushing for special sprints or other shortcuts—stand your ground. Agile isn’t about taking risks; it’s about **mitigating them** by delivering small, usable, and valuable products every sprint. If you need help eliminating these pitfalls, feel free to reach out to my team at **Naked Agility**, or contact a consultant who can guide your team towards true agility. Together, we can create real value, sprint by sprint—**without any safety nets**.
-
-
-
-
-
-
-

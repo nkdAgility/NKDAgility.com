@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=BtHASX2lgGo
 aliases:
 - /resources/videos/BtHASX2lgGo
 - /resources/videos/5-kinds-of-agile-bandits-planning-bandits
+- /resources/5-kinds-of-agile-bandits-planning-bandits
 preview: https://i.ytimg.com/vi/BtHASX2lgGo/maxresdefault.jpg
 duration: 324
 isShort: false
@@ -73,5 +74,3 @@ Because you don't just need agility, you need Naked Agility.
 #Sprint, #ScrumTeam, #SprintPlanning, #ContinuousImprovement, #ProductBacklog
 
 [Watch on YouTube](https://www.youtube.com/watch?v=BtHASX2lgGo)
-
-

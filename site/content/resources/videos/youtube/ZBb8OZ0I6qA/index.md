@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=ZBb8OZ0I6qA
 aliases:
 - /resources/videos/ZBb8OZ0I6qA
 - /resources/videos/why-its-imposible-to-order-a-hierarchy,-and-what-you-can-do-instead!
+- /resources/why-its-imposible-to-order-a-hierarchy,-and-what-you-can-do-instead!
 preview: https://i.ytimg.com/vi/ZBb8OZ0I6qA/maxresdefault.jpg
 duration: 1156
 isShort: false
@@ -56,5 +57,3 @@ _Sign up for one of our upcoming professional Scrum classes: https://nkdagility.
 #azuredevops #planning #backlog #azureboards #epic
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ZBb8OZ0I6qA)
-
-

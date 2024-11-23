@@ -13,6 +13,7 @@ aliases:
 - /resources/the-power-of-humility-in-agile-a-core-virtue-for-success
 - /resources/videos/7-virtues-of-agile-humility
 - /resources/videos/4scE4acfewk
+- /resources/7-virtues-of-agile-humility
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -141,12 +142,3 @@ Remember:
 - Collaboration creates successful products. 🏆
 
 If you’re ready to take your Agile practice to the next level, don’t wait. Get in touch with us today through the links below, and let’s work together to create a more humble, empathetic, and effective Agile team.
-
-
-
-
-
-
-
-
-

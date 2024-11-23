@@ -13,6 +13,7 @@ aliases:
 - /resources/the-overlooked-virtue-of-agility-diligence
 - /resources/videos/7-virtues-of-agile-diligence
 - /resources/videos/3S0zghhDPwc
+- /resources/7-virtues-of-agile-diligence
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -141,12 +142,3 @@ Here’s how you can start cultivating diligence in your team:
 - **Prioritize Quality**: Don’t sacrifice long-term success for short-term speed.
 
 If you're finding it difficult to instill diligence in your team, don't hesitate to reach out for help. My team at NE Agility specializes in coaching teams to unlock the Seven Virtues of Agility, including diligence. Whether you need coaching, consulting, or training, we can help you get on the right track. Remember, it’s not just about being Agile—it’s about having naked agility. 🔥
-
-
-
-
-
-
-
-
-

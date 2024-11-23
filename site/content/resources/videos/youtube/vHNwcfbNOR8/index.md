@@ -13,6 +13,7 @@ aliases:
 - /resources/what-is-your-feeling-on-creating-agile-apprenticeships
 - /resources/videos/what-is-your-feeling-on-creating-agile-apprenticeships-
 - /resources/videos/vHNwcfbNOR8
+- /resources/what-is-your-feeling-on-creating-agile-apprenticeships-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -70,10 +71,3 @@ Hashtags:        #AgileApprenticeships, #ImmersiveLearning, #Mentorship
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
-
-
-
-
-
-
-

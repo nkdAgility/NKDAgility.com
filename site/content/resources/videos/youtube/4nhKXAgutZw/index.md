@@ -13,6 +13,7 @@ aliases:
 - /resources/the-power-of-kindness-in-agile-a-core-virtue-for-success
 - /resources/videos/7-virtues-of-agile-kindness
 - /resources/videos/4nhKXAgutZw
+- /resources/7-virtues-of-agile-kindness
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -139,12 +140,3 @@ If you’re ready to take the next step in your Agile journey, remember: **You d
 - Prioritize trust through benevolence and empathy.
 
 Create an environment where kindness is a core value.
-
-
-
-
-
-
-
-
-

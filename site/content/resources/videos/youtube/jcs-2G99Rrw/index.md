@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=jcs-2G99Rrw
 aliases:
 - /resources/videos/jcs-2G99Rrw
 - /resources/videos/top-4-rookie-mistakes-in-azure-devops
+- /resources/top-4-rookie-mistakes-in-azure-devops
 preview: https://i.ytimg.com/vi/jcs-2G99Rrw/maxresdefault.jpg
 duration: 2034
 isShort: false
@@ -47,5 +48,3 @@ Sign up for one of our upcoming professional Scrum classes: https://nkdagility.c
 Remember, it's not just about agility; it's about embracing Naked Agility for truly effective project management.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=jcs-2G99Rrw)
-
-

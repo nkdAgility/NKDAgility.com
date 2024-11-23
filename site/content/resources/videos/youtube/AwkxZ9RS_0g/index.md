@@ -13,6 +13,7 @@ aliases:
 - /resources/how-does-your-consulting-experience-manifest-in-the-training-environment
 - /resources/videos/how-does-your-consulting-experience-manifest-in-the-training-environment-
 - /resources/videos/AwkxZ9RS_0g
+- /resources/how-does-your-consulting-experience-manifest-in-the-training-environment-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -80,12 +81,3 @@ Say no more.
 Enrol in my upcoming Agile and Scrum courses to experience this enriching blend of consulting wisdom and educational expertise.
 
 👉 Sign up now and supercharge your Agile and Scrum journey!
-
-
-
-
-
-
-
-
-

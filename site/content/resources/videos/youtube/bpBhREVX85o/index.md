@@ -13,6 +13,7 @@ aliases:
 - /resources/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on
 - /resources/videos/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on-
 - /resources/videos/bpBhREVX85o
+- /resources/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -79,10 +80,3 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-
-
-
-
-
-

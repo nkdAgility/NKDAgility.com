@@ -13,6 +13,7 @@ aliases:
 - /resources/what-is-a-product-backlog-2
 - /resources/videos/what-is-a-product-backlog-
 - /resources/videos/_Eer3X3Z_LE
+- /resources/what-is-a-product-backlog-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -82,14 +83,3 @@ Hashtags:        #ProductBacklog #Agile #Scrum #BacklogManagement
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
-
-
-
-
-
-
-
-
-
-
-

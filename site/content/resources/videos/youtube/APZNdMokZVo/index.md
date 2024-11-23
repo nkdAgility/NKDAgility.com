@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=APZNdMokZVo
 aliases:
 - /resources/videos/APZNdMokZVo
 - /resources/videos/what-is-a-definition-of-done-why-is-it-so-important-
+- /resources/what-is-a-definition-of-done-why-is-it-so-important-
 preview: https://i.ytimg.com/vi/APZNdMokZVo/maxresdefault.jpg
 duration: 360
 isShort: false
@@ -76,7 +77,3 @@ Because you don't just need agility, you need Naked Agility.
 #scrum, #agile, #projectmanagement, #productdevelopment, #agilecoach, #agileconsultant, #agiletraining, #scrumtraining, #scrumorg, #scrummaster, #productowner, #kanban, #continuousdelivery, #devops, #azuredevops
 
 [Watch on YouTube](https://www.youtube.com/watch?v=APZNdMokZVo)
-
-
-
-

@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=oHH_ES7fNWY
 aliases:
 - /resources/videos/oHH_ES7fNWY
 - /resources/videos/sending-email-from-office-365-for-tfs-2013
+- /resources/sending-email-from-office-365-for-tfs-2013
 preview: https://i.ytimg.com/vi/oHH_ES7fNWY/maxresdefault.jpg
 duration: 145
 isShort: false
@@ -41,5 +42,3 @@ Have you ever tried to configure emails for an application to send through offic
 More videos and blogs on http://nakedalm.com/blog
 
 [Watch on YouTube](https://www.youtube.com/watch?v=oHH_ES7fNWY)
-
-

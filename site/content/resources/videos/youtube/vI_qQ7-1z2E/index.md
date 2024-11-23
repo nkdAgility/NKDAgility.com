@@ -14,6 +14,7 @@ aliases:
 - /resources/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability
 - /resources/videos/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-
 - /resources/videos/vI_qQ7-1z2E
+- /resources/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -91,10 +92,3 @@ The course helps you understand the Scrum Master's accountability better and arm
 Interested in growing your skills as a Scrum Master? Check out my Agile and Scrum courses, or drop me a message. 
 
  Let's develop your capability as a Scrum Master together! 🌟
-
-
-
-
-
-
-

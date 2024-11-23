@@ -13,6 +13,7 @@ aliases:
 - /resources/what-does-an-ineffective-scrum-masters-day-look-like
 - /resources/videos/what-does-an-ineffective-scrum-master's-day-look-like-
 - /resources/videos/KjSRjkK6OL0
+- /resources/what-does-an-ineffective-scrum-master's-day-look-like-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -71,10 +72,3 @@ Identifying these pitfalls is essential.
 But here's a twist – what if you could master the right Scrum approach?
 
 Explore my Agile and Scrum courses, and let's transform these ineffective habits together!
-
-
-
-
-
-
-

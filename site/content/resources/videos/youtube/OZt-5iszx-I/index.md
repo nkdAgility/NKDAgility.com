@@ -13,6 +13,7 @@ aliases:
 - /resources/turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value
 - /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-3
 - /resources/videos/OZt-5iszx-I
+- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-3
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -97,10 +98,3 @@ In the world of Agile, speed is not just about how fast you can code or deploy�
 **Final Thoughts: Are You Truly Agile?**
 
 So, ask yourself: **how agile are you when it comes to feedback?** If there’s a lag between what your users want and what you deliver, it’s time to rethink your process. Engage with your users, act on their feedback swiftly, and watch your product’s value soar. 👉 **Remember**: The faster you turn feedback into action, the more valuable your product becomes. Stay agile, stay responsive, and always put your users first.
-
-
-
-
-
-
-

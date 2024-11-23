@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=9CkvfRic8e0
 aliases:
 - /resources/videos/9CkvfRic8e0
 - /resources/videos/connecting-release-manageer-to-tfs-2013
+- /resources/connecting-release-manageer-to-tfs-2013
 preview: https://i.ytimg.com/vi/9CkvfRic8e0/maxresdefault.jpg
 duration: 141
 isShort: false
@@ -39,7 +40,3 @@ See how to connect to your Team Foundation Collection with Release Management Cl
 More videos and blogs on http://nakedalm.com/blog
 
 [Watch on YouTube](https://www.youtube.com/watch?v=9CkvfRic8e0)
-
-
-
-

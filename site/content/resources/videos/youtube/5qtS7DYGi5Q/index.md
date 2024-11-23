@@ -13,6 +13,7 @@ aliases:
 - /resources/how-do-you-know-the-value-currently-delivered-in-your-organization
 - /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-2
 - /resources/videos/5qtS7DYGi5Q
+- /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-2
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -212,12 +213,3 @@ As your organization grows, the metrics you track may need to evolve. Stay flexi
 ## Conclusion
 
 **Evidence-Based Management** is a powerful tool for understanding and enhancing the value your organization delivers. By using data-driven insights, you can make smarter decisions, foster continuous improvement, and ultimately drive better outcomes for your customers and teams. So, how do you know the value you're currently delivering in your organization? With EBM, the answer lies in the evidence. 📊✔️
-
-
-
-
-
-
-
-
-

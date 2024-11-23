@@ -15,6 +15,7 @@ aliases:
 - /resources/videos/3-key-elements-for-an-agile-leader-to-consider-if-the-team-are-incompetent
 - /resources/training-a-bridge-to-knowledge-and-growth
 - /resources/videos/_2ZH7vbKu7Y
+- /resources/3-key-elements-for-an-agile-leader-to-consider-if-the-team-are-incompetent
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -125,15 +126,3 @@ Building a learning culture within your organization isn’t just a “nice-to-h
 Encourage learning, adapt to new technologies, and fix the system when it’s broken. By fostering a culture of growth and innovation, you’ll unlock the full potential of your team.
 
 And remember, learning isn’t just about acquiring knowledge—it’s about applying it in new and exciting ways. If you enjoyed this blog and want to dive deeper into Agile, Scrum, or DevOps, feel free to reach out and book a coffee chat with me through Naked Agility ☕.
-
-
-
-
-
-
-
-
-
-
-
-

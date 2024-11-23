@@ -60,10 +60,3 @@ Keen to navigate these challenges and harness the real power of Scrum?
 Chat with me about my Agile and Scrum courses to get your needed clarity and direction.  📚
 
 Connect with me, and let's dispel myths and set the course for genuine Agile and Scrum transformation! 🚀
-
-
-
-
-
-
-

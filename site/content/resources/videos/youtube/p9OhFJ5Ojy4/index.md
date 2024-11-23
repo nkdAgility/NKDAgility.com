@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=p9OhFJ5Ojy4
 aliases:
 - /resources/videos/p9OhFJ5Ojy4
 - /resources/videos/agile-in-nigeria-2020-the-inevitability-of-change
+- /resources/agile-in-nigeria-2020-the-inevitability-of-change
 preview: https://i.ytimg.com/vi/p9OhFJ5Ojy4/hqdefault.jpg
 duration: 2977
 isShort: false
@@ -40,5 +41,3 @@ Transcript/Blog post: https://nkdagility.com/blog/evolution-not-transformation-t
 Agile Leadership Training: https://nkdagility.com/training/course-schedule/?course=11878
 
 [Watch on YouTube](https://www.youtube.com/watch?v=p9OhFJ5Ojy4)
-
-

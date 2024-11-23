@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=2-AyrLPg-8Y
 aliases:
 - /resources/videos/2-AyrLPg-8Y
 - /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leader-journey-
+- /resources/why-is-training-such-a-critical-element-in-a-manager-or-leader-journey-
 preview: https://i.ytimg.com/vi/2-AyrLPg-8Y/maxresdefault.jpg
 duration: 17
 isShort: true
@@ -62,7 +63,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=2-AyrLPg-8Y)
-
-
-
-

@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=spfK8bCulwU
 aliases:
 - /resources/videos/spfK8bCulwU
 - /resources/videos/why-do-you-think-the-advanced-pspo-course-is-a-perfect-fit-for-entrepreneurs-
+- /resources/why-do-you-think-the-advanced-pspo-course-is-a-perfect-fit-for-entrepreneurs-
 preview: https://i.ytimg.com/vi/spfK8bCulwU/maxresdefault.jpg
 duration: 183
 isShort: false
@@ -56,5 +57,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=spfK8bCulwU)
-
-

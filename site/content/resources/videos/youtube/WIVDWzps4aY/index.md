@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=WIVDWzps4aY
 aliases:
 - /resources/videos/WIVDWzps4aY
 - /resources/videos/favourite-scrum-course-to-teach-and-why-
+- /resources/favourite-scrum-course-to-teach-and-why-
 preview: https://i.ytimg.com/vi/WIVDWzps4aY/maxresdefault.jpg
 duration: 24
 isShort: true
@@ -47,5 +48,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=WIVDWzps4aY)
-
-

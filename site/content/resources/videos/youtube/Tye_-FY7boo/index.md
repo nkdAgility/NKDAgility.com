@@ -13,6 +13,7 @@ aliases:
 - /resources/vision-value-and-validation-the-keys-to-successful-product-management
 - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-2
 - /resources/videos/Tye_-FY7boo
+- /resources/5-things-you-would-teach-a-productowner-apprentice-part-2
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -185,10 +186,3 @@ As a new Product Owner, filling the vacuum left by traditional project managemen
 If you're struggling to implement Vision, Value, and Validation in your organization, you're not alone. Many organizations face similar challenges when transitioning from project-focused to product-focused environments.
 
 💡 **Pro tip**: My team at Naked Agility is here to help you on this journey. We offer consulting and coaching services to guide you through the process of maximizing value creation in your organization. Don’t let confusion or a lack of clarity stall your progress—reach out for support, and we’ll help you turn your vision into a reality.
-
-
-
-
-
-
-

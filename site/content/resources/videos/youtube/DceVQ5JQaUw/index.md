@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=DceVQ5JQaUw
 aliases:
 - /resources/videos/DceVQ5JQaUw
 - /resources/videos/most-destructive-thing-a-client-can-do-to-an-agile-consultant-
+- /resources/most-destructive-thing-a-client-can-do-to-an-agile-consultant-
 preview: https://i.ytimg.com/vi/DceVQ5JQaUw/maxresdefault.jpg
 duration: 130
 isShort: false
@@ -50,5 +51,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=DceVQ5JQaUw)
-
-

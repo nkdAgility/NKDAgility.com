@@ -15,6 +15,7 @@ aliases:
 - /resources/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-course
 - /resources/videos/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-course-
 - /resources/videos/221BbTUqw7Q
+- /resources/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-course-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -87,12 +88,3 @@ Let's engage, connect, and share our passion for Scrum and Agile.
 Whether it's a question, a challenge, or a shared experience,
 
 I'm here to chat. Let's connect over a virtual coffee and chart a course towards Scrum excellence.
-
-
-
-
-
-
-
-
-

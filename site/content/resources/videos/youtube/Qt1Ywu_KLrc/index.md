@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=Qt1Ywu_KLrc
 aliases:
 - /resources/videos/Qt1Ywu_KLrc
 - /resources/videos/basic-work-item-migration-with-the-azure-devops-migration-tools
+- /resources/basic-work-item-migration-with-the-azure-devops-migration-tools
 preview: https://i.ytimg.com/vi/Qt1Ywu_KLrc/maxresdefault.jpg
 duration: 2020
 isShort: false
@@ -46,5 +47,3 @@ _Sign up for one of our upcoming professional Scrum classes: https://nkdagility.
 Because you don't just need agility, you need Naked Agility.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Qt1Ywu_KLrc)
-
-

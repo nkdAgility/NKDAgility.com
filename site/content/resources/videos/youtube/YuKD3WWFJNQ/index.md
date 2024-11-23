@@ -13,6 +13,7 @@ aliases:
 - /resources/7-harbingers-of-the-agile-apocalypse-silence
 - /resources/videos/silence!-7-harbingers-agile-apocalypse-
 - /resources/videos/YuKD3WWFJNQ
+- /resources/silence!-7-harbingers-agile-apocalypse-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -98,10 +99,3 @@ The agile apocalypse need not be heralded by silence. By embracing strategies th
 Remember, breaking the silence starts with us—product owners, scrum masters, and team members alike. Let's commit to fostering environments where every voice is valued, and every idea has the potential to propel us toward our North Star.
 
 _Enjoyed this exploration of breaking the silence in agile teams? Follow, subscribe, and engage for more insights on creating vibrant, engaged agile environments. Let's turn the silence into a symphony of collaboration and innovation._
-
-
-
-
-
-
-

@@ -100,10 +100,3 @@ A stakeholder-focused approach can revolutionise Sprint reviews, making them mor
 ## Your Takeaway: Mastering the Art of Engagement 🎖️ 
 
 The secret to a transformative Sprint review lies in how well you engage your stakeholders. By focusing on their interests and needs, you can foster a collaborative and effective Agile process.
-
-
-
-
-
-
-

@@ -14,6 +14,7 @@ aliases:
 - /resources/one-thing-an-agile-coach-must-do-to-be-successful
 - /resources/videos/one-thing-an-agile-coach-must-do-to-be-successful-
 - /resources/videos/g1GBes-dVzE
+- /resources/one-thing-an-agile-coach-must-do-to-be-successful-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -64,10 +65,3 @@ It's about guiding, it's about challenging, and yes, it's about pushing the team
 Ready to deepen your understanding of Agile, Scrum, and the intricate art of effective Agile Coaching? 🌟
 
 Enroll in our comprehensive courses today and elevate your Agile Coaching game to the next level.
-
-
-
-
-
-
-

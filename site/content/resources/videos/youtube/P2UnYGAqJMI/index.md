@@ -13,6 +13,7 @@ aliases:
 - /resources/the-pitfalls-of-agile-burndowns-stop-being-agile-bandits
 - /resources/videos/-shorts-5-kinds-of-agile-bandits-4th-kind
 - /resources/videos/P2UnYGAqJMI
+- /resources/-shorts-5-kinds-of-agile-bandits-4th-kind
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -129,10 +130,3 @@ Burndowns may seem like a good idea, but they’re often a trap, forcing teams i
 ### **How Can I Help?**
 
 If you’re feeling ambushed by Agile bandits in your organization, my team at **Naked Agility** can help. We specialize in helping teams break free from outdated Agile practices and focus on what truly delivers value. You can set up a **no-obligation consultation** by using the links below. Let’s work together to create a flow-based, value-driven Agile environment! 🚀 **Stop planning. Start delivering.** 🏃‍♂️
-
-
-
-
-
-
-

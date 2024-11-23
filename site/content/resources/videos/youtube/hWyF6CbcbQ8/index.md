@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=hWyF6CbcbQ8
 aliases:
 - /resources/videos/hWyF6CbcbQ8
 - /resources/videos/devops-migration-data-integrity-issues
+- /resources/devops-migration-data-integrity-issues
 preview: https://i.ytimg.com/vi/hWyF6CbcbQ8/maxresdefault.jpg
 duration: 124
 isShort: false
@@ -47,5 +48,3 @@ Video Chapters:
 #azuredevops #azure #azureexpert #azureservices #devops #devopsconsultant #devopscoach #devopstraining
 
 [Watch on YouTube](https://www.youtube.com/watch?v=hWyF6CbcbQ8)
-
-

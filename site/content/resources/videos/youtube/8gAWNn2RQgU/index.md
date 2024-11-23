@@ -104,12 +104,3 @@ Embark on a transformative Agile journey with Joanna. Her classes are more than 
 So, are you ready to leap from good to great? 🌟 Joanna's training isn't just a class; it's the catalyst for your Agile evolution. 
 
 🔗 Secure your spot now and revolutionize the way you approach Scrum and Agile practices. #NKDAgility #AgileExcellence #ScrumMasterclass
-
-
-
-
-
-
-
-
-

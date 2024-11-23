@@ -13,6 +13,7 @@ aliases:
 - /resources/redefining-agiles-core-beyond-rituals-and-procedures
 - /resources/videos/agile-is-not-about-rituals-it's-about-developing-software-in-a-different-way-ken-schwaber
 - /resources/videos/XZVixdVy-PQ
+- /resources/agile-is-not-about-rituals-it's-about-developing-software-in-a-different-way-ken-schwaber
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -149,10 +150,3 @@ That’s why I encourage you to book a call or visit us at [Naked Agility](https
 - For personalized help, consider reaching out for guidance or attending one of our Agile training sessions.
 
 Agile isn’t a one-size-fits-all solution—it’s a mindset. If you’re ready to move beyond rituals and unlock the full potential of Agile, let’s start the conversation.
-
-
-
-
-
-
-

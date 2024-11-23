@@ -13,6 +13,7 @@ aliases:
 - /resources/hiring-an-agile-coach-what-you-need-to-know
 - /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-3
 - /resources/videos/sxXzOFn7iZI
+- /resources/5-things-to-consider-before-hiring-an-agilecoach-part-3
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -157,10 +158,3 @@ So, when you're hiring an Agile coach, ask yourself: are they just a coach, or a
 🌟 **Inspiration.**
 
 That’s what makes a truly great Agile coach.
-
-
-
-
-
-
-

@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=1M2_AVqoRbs
 aliases:
 - /resources/videos/1M2_AVqoRbs
 - /resources/videos/technical-debt-costs-you-more-than-you-think
+- /resources/technical-debt-costs-you-more-than-you-think
 preview: https://i.ytimg.com/vi/1M2_AVqoRbs/maxresdefault.jpg
 duration: 36
 isShort: true
@@ -38,7 +39,3 @@ source: youtube
 Technical debt costs you more than you think. Visit https://www.nkdagility.com #agile #agileproductdevelopment #productdevelopment #agileprojectmanagement #projectmanagement #projectmanager #productowner #scrummaster #productmanager #developer #technicaldebt
 
 [Watch on YouTube](https://www.youtube.com/watch?v=1M2_AVqoRbs)
-
-
-
-

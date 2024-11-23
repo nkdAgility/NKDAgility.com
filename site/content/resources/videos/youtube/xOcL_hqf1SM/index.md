@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=xOcL_hqf1SM
 aliases:
 - /resources/videos/xOcL_hqf1SM
 - /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-3
+- /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-3
 preview: https://i.ytimg.com/vi/xOcL_hqf1SM/maxresdefault.jpg
 duration: 64
 isShort: false
@@ -62,5 +63,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=xOcL_hqf1SM)
-
-

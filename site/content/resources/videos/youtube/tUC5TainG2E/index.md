@@ -13,6 +13,7 @@ aliases:
 - /resources/how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft
 - /resources/videos/how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft-
 - /resources/videos/tUC5TainG2E
+- /resources/how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -87,10 +88,3 @@ So, the next time someone asks, "How did you...?" My answer will always be – t
 If you're keen to explore the realms of Agile, Scrum, and Microsoft tools, consider joining my upcoming courses.
 
 We challenge conventions and foster growth.
-
-
-
-
-
-
-
