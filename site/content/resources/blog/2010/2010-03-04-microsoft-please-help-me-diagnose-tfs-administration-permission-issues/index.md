@@ -1,6 +1,6 @@
 ---
 title: Microsoft, please help me diagnose TFS Administration permission issues!
-description: "Struggling with TFS 2010 admin permissions? Join Martin Hinshelwood as he shares his troubleshooting journey and tips to resolve common issues effectively!"
+description: Struggling with TFS 2010 admin permissions? Join Martin Hinshelwood as he shares his troubleshooting journey and tips to resolve common issues effectively!
 date: 2010-03-04
 creator: Martin Hinshelwood
 id: "67"
@@ -8,15 +8,18 @@ layout: blog
 resourceTypes: blog
 slug: microsoft-please-help-me-diagnose-tfs-administration-permission-issues
 aliases:
-  - /blog/microsoft-please-help-me-diagnose-tfs-administration-permission-issues
+- /blog/microsoft-please-help-me-diagnose-tfs-administration-permission-issues
+- /microsoft-please-help-me-diagnose-tfs-administration-permission-issues
+- /microsoft,-please-help-me-diagnose-tfs-administration-permission-issues-
+- /blog/microsoft,-please-help-me-diagnose-tfs-administration-permission-issues-
 tags:
-  - ssw
-  - tfs
-  - tfs2010
-  - tools
+- ssw
+- tfs
+- tfs2010
+- tools
 preview: metro-SSWLogo-128-link-1-1.png
----
 
+---
 I recently had a fun time trying to debug a permission issue I ran into using TFS 2010’s TfsConfig.
 
 Update 5th March 2010 – In its style of true excellence my company has added rant to its “[Suggestions for Better TFS](http://www.ssw.com.au/ssw/Standards/BetterSoftwareSuggestions/TeamFoundationServer.aspx#PermissionIssues)”.

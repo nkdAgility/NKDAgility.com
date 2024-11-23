@@ -1,6 +1,6 @@
 ---
 title: LinkedIn Woopsie with the Outlook 2010 Social Media Connector
-description: "Discover how a LinkedIn account suspension led to insights on the Outlook 2010 Social Media Connector. Learn from my experience and avoid pitfalls!"
+description: Discover how a LinkedIn account suspension led to insights on the Outlook 2010 Social Media Connector. Learn from my experience and avoid pitfalls!
 date: 2010-04-28
 creator: Martin Hinshelwood
 id: "47"
@@ -8,16 +8,17 @@ layout: blog
 resourceTypes: blog
 slug: linkedin-woopsie-with-the-outlook-2010-social-media-connector
 aliases:
-  - /blog/linkedin-woopsie-with-the-outlook-2010-social-media-connector
+- /blog/linkedin-woopsie-with-the-outlook-2010-social-media-connector
+- /linkedin-woopsie-with-the-outlook-2010-social-media-connector
 tags:
-  - fail
-  - linkedin
-  - outlook-2010
+- fail
+- linkedin
+- outlook-2010
 categories:
-  - me
+- me
 preview: nakedalm-logo-128-link-4-4.png
----
 
+---
 ![linkedin-logo](images/LinkedInAccountSuspended_F8E0-linkedin-logo_-2-2.jpg)I have always used the LinkedIn toolbar for Outlook to sort out, upload and sync my contacts. Because of this I have over 2000 contacts in my contacts list that I sync with my phone, Plaxo, live, Google and others.
 { .post-img }
 

@@ -1,6 +1,6 @@
 ---
 title: TFS Event Handler CTP 2 Released
-description: "Discover the newly released TFS Event Handler CTP 2, featuring enhanced functionality and tools for managing TFS events. Get involved and provide feedback!"
+description: Discover the newly released TFS Event Handler CTP 2, featuring enhanced functionality and tools for managing TFS events. Get involved and provide feedback!
 date: 2008-01-28
 creator: Martin Hinshelwood
 id: "260"
@@ -8,20 +8,21 @@ layout: blog
 resourceTypes: blog
 slug: tfs-event-handler-ctp-2-released
 aliases:
-  - /blog/tfs-event-handler-ctp-2-released
+- /blog/tfs-event-handler-ctp-2-released
+- /tfs-event-handler-ctp-2-released
 tags:
-  - code
-  - infrastructure
-  - service-oriented-architecture
-  - tfs
-  - tfs2008
-  - tools
-  - wit
+- code
+- infrastructure
+- service-oriented-architecture
+- tfs
+- tfs2008
+- tools
+- wit
 categories:
-  - code-and-complexity
+- code-and-complexity
 preview: metro-visual-studio-2005-128-link-1-1.png
----
 
+---
 I have just uploaded [CTP 2](http://www.codeplex.com/TFSEventHandler/Release/ProjectReleases.aspx) of the [TFS Event Handler](http://www.codeplex.com/TFSEventHandler).This is a fully functional version of the application and I will be releasing documentation for this in due course, but all configuration of team servers and events is handled through the [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") Event Handler Explorer, but all Event Handlers are setup manually.
 
 I have attached two executables:

@@ -1,6 +1,6 @@
 ---
 title: Amusing job requirements
-description: "Discover the absurdity of job requirements in tech! Join Martin Hinshelwood as he critiques a hilariously unrealistic skill set for an Analyst Programmer."
+description: Discover the absurdity of job requirements in tech! Join Martin Hinshelwood as he critiques a hilariously unrealistic skill set for an Analyst Programmer.
 date: 2007-10-06
 creator: Martin Hinshelwood
 id: "301"
@@ -8,16 +8,17 @@ layout: blog
 resourceTypes: blog
 slug: amusing-job-requirements
 aliases:
-  - /blog/amusing-job-requirements
+- /blog/amusing-job-requirements
+- /amusing-job-requirements
 tags:
-  - fail
-  - visual-studio
-  - vs2005
+- fail
+- visual-studio
+- vs2005
 categories:
-  - me
+- me
 preview: metro-visual-studio-2005-128-link-1-1.png
----
 
+---
 I recently received a job spec that had the most ridiculous "Required" skill set for an "Analyst Programmer". I though I should share it with you as I have just spent the last 10 minutes cleaning tea out of my keyboard with cotton bud's. Here is how it was presented in the email:
 
 > _\* C# Java Script Java  

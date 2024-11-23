@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=ARhXjid0zSE
 aliases:
 - /resources/videos/ARhXjid0zSE
 - /resources/videos/7-signs-of-the-agile-apocalypse-famine
+- /resources/7-signs-of-the-agile-apocalypse-famine
 preview: https://i.ytimg.com/vi/ARhXjid0zSE/maxresdefault.jpg
 duration: 32
 isShort: true
@@ -62,4 +63,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ARhXjid0zSE)
-

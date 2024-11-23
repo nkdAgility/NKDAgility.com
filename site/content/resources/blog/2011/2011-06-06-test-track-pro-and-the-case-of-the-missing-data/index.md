@@ -1,6 +1,6 @@
 ---
 title: Test Track Pro and the case of the missing data
-description: "Explore the challenges of creating a Test Track Pro Adapter for TFS Integration. Discover solutions to data retrieval issues and optimize your workflow!"
+description: Explore the challenges of creating a Test Track Pro Adapter for TFS Integration. Discover solutions to data retrieval issues and optimize your workflow!
 date: 2011-06-06
 creator: Martin Hinshelwood
 id: "3596"
@@ -8,15 +8,16 @@ layout: blog
 resourceTypes: blog
 slug: test-track-pro-and-the-case-of-the-missing-data
 aliases:
-  - /blog/test-track-pro-and-the-case-of-the-missing-data
+- /blog/test-track-pro-and-the-case-of-the-missing-data
+- /test-track-pro-and-the-case-of-the-missing-data
 tags:
-  - nwcadence
-  - ttp
-  - tfs
-  - tfs2010
-  - tools
----
+- nwcadence
+- ttp
+- tfs
+- tfs2010
+- tools
 
+---
 [![ttp2011_1](images/ttp2011_1_thumb-6-6.gif "ttp2011_1")](http://blog.hinshelwood.com/files/2011/06/ttp2011_1.gif)
 { .post-img }
 

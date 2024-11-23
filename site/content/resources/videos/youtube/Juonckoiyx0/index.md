@@ -3,6 +3,7 @@ title: What should be top of mind when a Scrum team prepare for a Sprint review?
 description: "Unlock effective stakeholder engagement in Scrum Sprint reviews! Discover strategies to align your team’s efforts for better project outcomes. \U0001F4C8\U0001F91D"
 date: 2023-12-12
 videoId: Juonckoiyx0
+source: internal
 url: /resources/videos/:slug
 slug: what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review
 preview: https://i.ytimg.com/vi/Juonckoiyx0/maxresdefault.jpg
@@ -99,9 +100,3 @@ A stakeholder-focused approach can revolutionise Sprint reviews, making them mor
 ## Your Takeaway: Mastering the Art of Engagement 🎖️ 
 
 The secret to a transformative Sprint review lies in how well you engage your stakeholders. By focusing on their interests and needs, you can foster a collaborative and effective Agile process.
-
-
-
-
-
-

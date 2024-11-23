@@ -1,6 +1,6 @@
 ---
-title: "Southparkify / Simpsonize : better with both!"
-description: "Explore the fun of Southparkify and Simpsonize! Discover how combining these two can create a unique representation of yourself. Join the creative journey!"
+title: 'Southparkify / Simpsonize : better with both!'
+description: Explore the fun of Southparkify and Simpsonize! Discover how combining these two can create a unique representation of yourself. Join the creative journey!
 date: 2007-07-31
 creator: Martin Hinshelwood
 id: "353"
@@ -8,15 +8,18 @@ layout: blog
 resourceTypes: blog
 slug: southparkify-simpsonize-better-with-both
 aliases:
-  - /blog/southparkify-simpsonize-better-with-both
+- /blog/southparkify-simpsonize-better-with-both
+- /southparkify-simpsonize-better-with-both
+- /southparkify---simpsonize---better-with-both-
+- /blog/southparkify---simpsonize---better-with-both-
 tags:
-  - moss2007
-  - sharepoint
+- moss2007
+- sharepoint
 categories:
-  - me
+- me
 preview: metro-sharepoint-128-link-1-1.png
----
 
+---
 [![image](images/SouthparkifySimposonizebetterwithboth_DA8A-image_thumb-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-SouthparkifySimposonizebetterwithboth_DA8A-image.png)
 { .post-img }
 

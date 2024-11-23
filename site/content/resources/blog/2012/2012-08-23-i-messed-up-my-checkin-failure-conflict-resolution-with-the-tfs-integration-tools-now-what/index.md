@@ -1,6 +1,6 @@
 ---
 title: I messed up my checkin failure conflict resolution with the TFS Integration Tools… Now what?
-description: "Struggling with TFS Integration Tools? Discover how to resolve check-in conflicts and streamline your migration process with expert insights and solutions."
+description: Struggling with TFS Integration Tools? Discover how to resolve check-in conflicts and streamline your migration process with expert insights and solutions.
 date: 2012-08-23
 creator: Martin Hinshelwood
 id: "7610"
@@ -8,17 +8,20 @@ layout: blog
 resourceTypes: blog
 slug: i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools-now-what
 aliases:
-  - /blog/i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools-now-what
+- /blog/i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools-now-what
+- /i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools-now-what
+- /i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools…-now-what-
+- /blog/i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools…-now-what-
 tags:
-  - code
-  - configuration
-  - tfs
-  - tfs-integration-platform
-  - tools
+- code
+- configuration
+- tfs
+- tfs-integration-platform
+- tools
 categories:
-  - code-and-complexity
----
+- code-and-complexity
 
+---
 If you say my post on “TFS Integration Tools - Issue: TF10141 No Files checked in as a result of a TFS check-in failure” which I just updated you will know that I messed up the conflict resolution by mixing up the “Source Version” and “Target Version”.
 
 [![image](images/image_thumb77-1-1.png "image")](http://blog.hinshelwood.com/files/2012/08/image77.png)  

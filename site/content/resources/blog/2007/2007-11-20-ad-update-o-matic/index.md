@@ -1,6 +1,6 @@
 ---
 title: AD Update-O-Matic
-description: "Discover how to automate Active Directory updates with a custom VB 9.0 application, enhancing organization for MOSS 2007 users. Dive into the details!"
+description: Discover how to automate Active Directory updates with a custom VB 9.0 application, enhancing organization for MOSS 2007 users. Dive into the details!
 date: 2007-11-20
 creator: Martin Hinshelwood
 id: "290"
@@ -8,18 +8,19 @@ layout: blog
 resourceTypes: blog
 slug: ad-update-o-matic
 aliases:
-  - /blog/ad-update-o-matic
+- /blog/ad-update-o-matic
+- /ad-update-o-matic
 tags:
-  - code
-  - infrastructure
-  - moss2007
-  - sharepoint
-  - tools
+- code
+- infrastructure
+- moss2007
+- sharepoint
+- tools
 categories:
-  - code-and-complexity
+- code-and-complexity
 preview: metro-sharepoint-128-link-1-1.png
----
 
+---
 In my quest to
 
 play with test VB 9.0 and it very cool  features I created a little application to update Active Directory. I was asked by my boss (Andre) to get some sense of order into Active Directory for the users that will be involved in the proof of concept for MOSS 2007. So I immediately thought of an application to automate this.

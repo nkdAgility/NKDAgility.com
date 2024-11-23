@@ -1,6 +1,6 @@
 ---
 title: What my father taught me about Evidence-based Management (34 years before it was invented!)
-description: "Discover how my father's insights on Evidence-based Management transformed a failing business 34 years before its inception. Learn to optimize value and agility!"
+description: Discover how my father's insights on Evidence-based Management transformed a failing business 34 years before its inception. Learn to optimize value and agility!
 date: 2014-03-20
 creator: Martin Hinshelwood
 id: "10446"
@@ -8,18 +8,21 @@ layout: blog
 resourceTypes: blog
 slug: what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented
 aliases:
-  - /blog/what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented
+- /blog/what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented
+- /what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented
+- /what-my-father-taught-me-about-evidence-based-management-(34-years-before-it-was-invented-)
+- /blog/what-my-father-taught-me-about-evidence-based-management-(34-years-before-it-was-invented-)
 tags:
-  - agile
-  - ebmgt
-  - evidence-based-management
-  - scrum
-  - scrum-org
+- agile
+- ebmgt
+- evidence-based-management
+- scrum
+- scrum-org
 categories:
-  - people-and-process
+- people-and-process
 preview: nakedalm-agility-index-7-7.png
----
 
+---
 A few weeks ago I headed out to the Scrum.org offices in Boston to participate in training to hone my skills as an Evidence-based Management Consultant. I was talking to my father about it when I got back and was surprised that he recognised many of the practices and tools.
 
 ![john-hinshelwood-agility-path](images/john-hinshelwood-agility-path-4-4.jpg)In the 1990's my father (John Hinshelwood) was a regional director of a large estate agency (realtor) in the UK. For many years he worked from a single shop in Glasgow running his own business. In 1988 he sold his business to a large Insurance company that was trying to get its ailing Estate Agency business to turn a profit. It was failing at this task, however it was not long before my father's talent for detail was noticed and within a few short months was appointed a directorship. Using evidence-based practices he turned a lossmaking business into a profiting business for over 5 years. Three months after he left they were making a loss again! They had not changed to embrace Evidence-based Management as an organisation and without my father's stewardship they slumped back into the old ways.

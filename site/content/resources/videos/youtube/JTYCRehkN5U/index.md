@@ -3,6 +3,7 @@ title: The Power of Technical Excellence in Agile Development
 description: Unlock the secrets of Agile success! Discover how prioritising technical excellence over speed can transform your software development and deliver exceptional value.
 date: 2024-10-31
 videoId: JTYCRehkN5U
+source: internal
 url: /resources/videos/:slug
 slug: the-power-of-technical-excellence-in-agile-development
 preview: https://i.ytimg.com/vi/JTYCRehkN5U/maxresdefault.jpg
@@ -12,6 +13,7 @@ aliases:
 - /resources/the-power-of-technical-excellence-in-agile-development
 - /resources/videos/the-critical-role-of-technical-excellence-in-agile-software-development
 - /resources/videos/JTYCRehkN5U
+- /resources/the-critical-role-of-technical-excellence-in-agile-software-development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -104,9 +106,3 @@ In today's competitive market, technical excellence is not just an option—it's
 - **Continuously Improve**: Like the Azure DevOps team, make technical excellence a priority and continuously work to improve your processes and product quality.
 
 🚀 **Build the best product you can, mitigate risks effectively, and maximize value for your customers.**
-
-
-
-
-
-

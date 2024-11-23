@@ -1,6 +1,6 @@
 ---
 title: You can't stack rank hierarchical work items?
-description: "Explore the challenges of stack ranking hierarchical work items in software development. Learn effective strategies to enhance your team's productivity and organization."
+description: Explore the challenges of stack ranking hierarchical work items in software development. Learn effective strategies to enhance your team's productivity and organization.
 date: 2012-03-02
 creator: Martin Hinshelwood
 id: "4773"
@@ -8,23 +8,26 @@ layout: blog
 resourceTypes: blog
 slug: you-cant-stack-rank-hierarchical-work-items
 aliases:
-  - /blog/you-cant-stack-rank-hierarchical-work-items
+- /blog/you-cant-stack-rank-hierarchical-work-items
+- /you-cant-stack-rank-hierarchical-work-items
+- /you-can't-stack-rank-hierarchical-work-items-
+- /blog/you-can't-stack-rank-hierarchical-work-items-
 tags:
-  - configuration
-  - infrastructure
-  - nwcadence
-  - process
-  - tfs2012
-  - tf-service
-  - tools
-  - visual-studio
-  - vs2012
+- configuration
+- infrastructure
+- nwcadence
+- process
+- tfs2012
+- tf-service
+- tools
+- visual-studio
+- vs2012
 categories:
-  - people-and-process
-  - tools-and-techniques
+- people-and-process
+- tools-and-techniques
 preview: nakedalm-experts-visual-studio-alm-14-14.png
----
 
+---
 At the MVP Summit I was appalled by the number of people who asked questions about new features for supporting hierarchical _tasks_! I shared a disgusted look with [Peter Provost](https://www.linkedin.com/in/peterprovost/) and we had a quick (and I mean really quick) conversation that resulted in this post. it really comes down to one thing:
 
 > You can't stack rank hierarchical work items?

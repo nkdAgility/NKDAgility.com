@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=nY4tmtGKO6I
 aliases:
 - /resources/videos/nY4tmtGKO6I
 - /resources/videos/why-is-training-such-a-critical-element-in-a-scrummaster-journey-
+- /resources/why-is-training-such-a-critical-element-in-a-scrummaster-journey-
 preview: https://i.ytimg.com/vi/nY4tmtGKO6I/maxresdefault.jpg
 duration: 30
 isShort: true
@@ -62,4 +63,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=nY4tmtGKO6I)
-

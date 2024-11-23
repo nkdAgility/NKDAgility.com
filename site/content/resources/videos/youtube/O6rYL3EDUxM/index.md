@@ -3,6 +3,7 @@ title: 'Detecting Agile BS: Lessons from the US Department of Defense'
 description: "Is your company truly Agile? \U0001F914 Discover a 6-question test inspired by the U.S. Department of Defense to assess and enhance your Agile practices!"
 date: 2024-11-07
 videoId: O6rYL3EDUxM
+source: internal
 url: /resources/videos/:slug
 slug: detecting-agile-bs-lessons-from-the-us-department-of-defense
 preview: https://i.ytimg.com/vi/O6rYL3EDUxM/maxresdefault.jpg
@@ -12,6 +13,7 @@ aliases:
 - /resources/detecting-agile-bs-lessons-from-the-us-department-of-defense
 - /resources/videos/6-questions-to-determine-if-your-company-is-really-agile-the-agile-reality-check-[1-6]
 - /resources/videos/O6rYL3EDUxM
+- /resources/6-questions-to-determine-if-your-company-is-really-agile-the-agile-reality-check-[1-6]
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -114,9 +116,3 @@ Remember, Agile is not just a set of practices—it’s a mindset. It requires a
 - **🚀** **Take action:** Start by focusing on one area where you can improve, and build momentum from there.
 
 Agile isn’t easy, but with the right mindset and approach, it’s achievable. And once you get there, you’ll never want to go back.
-
-
-
-
-
-

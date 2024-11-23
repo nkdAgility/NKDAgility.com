@@ -1,6 +1,6 @@
 ---
 title: TFS Gotcha (server name)
-description: "Discover how to tackle TFS installation issues in large networks with proxy servers. Follow our guide to ensure smooth access and setup for your team!"
+description: Discover how to tackle TFS installation issues in large networks with proxy servers. Follow our guide to ensure smooth access and setup for your team!
 date: 2007-03-19
 creator: Martin Hinshelwood
 id: "427"
@@ -8,10 +8,13 @@ layout: blog
 resourceTypes: blog
 slug: tfs-gotcha-server-name
 aliases:
-  - /blog/tfs-gotcha-server-name
+- /blog/tfs-gotcha-server-name
+- /tfs-gotcha-server-name
+- /tfs-gotcha-(server-name)
+- /blog/tfs-gotcha-(server-name)
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 If you are installing TFS in a large network that utilises proxy servers, especialy those that strip network credentials for what it thinks are internet sites, then you may run into problems..
 
 The instalation program always uses the netbios name of you server. But in my enviroment navigating to thsi in a browser produces a DNS error even on the local machiene.

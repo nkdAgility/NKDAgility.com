@@ -1,6 +1,6 @@
 ---
 title: Not just happy, but ecstatic
-description: "Discover how a consultant transformed a challenging deployment process into a streamlined success with TFS 2010, enhancing efficiency and collaboration."
+description: Discover how a consultant transformed a challenging deployment process into a streamlined success with TFS 2010, enhancing efficiency and collaboration.
 date: 2011-09-16
 creator: Martin Hinshelwood
 id: "3783"
@@ -8,14 +8,17 @@ layout: blog
 resourceTypes: blog
 slug: not-just-happy-but-ecstatic
 aliases:
-  - /blog/not-just-happy-but-ecstatic
+- /blog/not-just-happy-but-ecstatic
+- /not-just-happy-but-ecstatic
+- /not-just-happy,-but-ecstatic
+- /blog/not-just-happy,-but-ecstatic
 tags:
-  - tfs
-  - tfs2010
+- tfs
+- tfs2010
 categories:
-  - me
----
+- me
 
+---
 ![VS2008Upgraded_4](images/VS2008Upgraded_4-1-1.png "VS2008Upgraded_4")As a consultant I have customers. Unfortunately being a **consultant** rather than a **contractor** has the down side that I hardly ever here from my customers after my engagement ends.
 { .post-img }
 

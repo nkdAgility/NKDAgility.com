@@ -1,6 +1,6 @@
 ---
-title: "Review: The Professional Scrum Masters Handbook"
-description: "Explore the insights of 'The Professional Scrum Masters Handbook' with a critical review that highlights key takeaways for new Scrum Masters and Project Managers."
+title: 'Review: The Professional Scrum Masters Handbook'
+description: Explore the insights of 'The Professional Scrum Masters Handbook' with a critical review that highlights key takeaways for new Scrum Masters and Project Managers.
 date: 2013-08-28
 creator: Martin Hinshelwood
 id: "9967"
@@ -8,15 +8,18 @@ layout: blog
 resourceTypes: blog
 slug: review-the-professional-scrum-masters-handbook
 aliases:
-  - /blog/review-the-professional-scrum-masters-handbook
+- /blog/review-the-professional-scrum-masters-handbook
+- /review-the-professional-scrum-masters-handbook
+- /review--the-professional-scrum-masters-handbook
+- /blog/review--the-professional-scrum-masters-handbook
 tags:
-  - scrum
-  - scrum-master
+- scrum
+- scrum-master
 categories:
-  - news-and-reviews
+- news-and-reviews
 preview: nakedalm-experts-professional-scrum-1-1.png
----
 
+---
 I was asked recently to review The Professional Scrum Masters Handbook. As I read this book there were times that I shouted at it and I almost stopped reading in disgust around chapter 4.
 
 If you were beside me in the gym when I shouted “Noooooo”, “That is the dysfunction”, or “you can’t fix that that way” then I am sorry. If you make it past chapter four however there are some very helpful tips and tricks.

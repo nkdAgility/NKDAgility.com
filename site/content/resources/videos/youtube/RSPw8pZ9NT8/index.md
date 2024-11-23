@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=RSPw8pZ9NT8
 aliases:
 - /resources/videos/RSPw8pZ9NT8
 - /resources/videos/can-you-talk-about-the-kanban-workshop-and-why-it's-a-great-option-for-organizations
+- /resources/can-you-talk-about-the-kanban-workshop-and-why-it's-a-great-option-for-organizations
 preview: https://i.ytimg.com/vi/RSPw8pZ9NT8/maxresdefault.jpg
 duration: 466
 isShort: false
@@ -51,4 +52,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=RSPw8pZ9NT8)
-

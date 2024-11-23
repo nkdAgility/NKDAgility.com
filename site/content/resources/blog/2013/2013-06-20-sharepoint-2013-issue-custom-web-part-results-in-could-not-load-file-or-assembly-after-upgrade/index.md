@@ -1,6 +1,6 @@
 ---
 title: SharePoint 2013 Issue - Custom Web Part results in Could not load file or assembly after upgrade
-description: "Resolve SharePoint 2013 upgrade issues with custom web parts. Discover effective solutions to fix 'Could not load file or assembly' errors easily!"
+description: Resolve SharePoint 2013 upgrade issues with custom web parts. Discover effective solutions to fix 'Could not load file or assembly' errors easily!
 date: 2013-06-20
 creator: Martin Hinshelwood
 id: "9905"
@@ -8,18 +8,21 @@ layout: blog
 resourceTypes: blog
 slug: sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
 aliases:
-  - /blog/sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
+- /blog/sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
+- /sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
+- /sharepoint-2013-issue---custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
+- /blog/sharepoint-2013-issue---custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
 tags:
-  - configuration
-  - puzzles
-  - sharepoint
-  - sp2013
+- configuration
+- puzzles
+- sharepoint
+- sp2013
 categories:
-  - install-and-configuration
-  - problems-and-puzzles
+- install-and-configuration
+- problems-and-puzzles
 preview: metro-sharepoint-128-link-8-8.png
----
 
+---
 After an upgrade of a SharePoint 2010 content database to SharePoint 2013 you may get an error message “Could not load file or assembly ‘MyCustomWebPart, Version=1.0.0.0, Culture=neutral, Public Token=6912jju2191j213ggv10’ or one of its dependants. The system cannot find the file specified” when you try to access a page.
 
 This is fairly common when upgrading but the solution is very hard to find.

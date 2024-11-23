@@ -1,6 +1,6 @@
 ---
 title: Visual Studio Team Test Quick Reference Guide 1.0
-description: "Discover essential insights in the Visual Studio Team Test Quick Reference Guide 1.0, your go-to resource for troubleshooting and optimizing testing processes."
+description: Discover essential insights in the Visual Studio Team Test Quick Reference Guide 1.0, your go-to resource for troubleshooting and optimizing testing processes.
 date: 2009-04-01
 creator: Martin Hinshelwood
 id: "133"
@@ -8,13 +8,14 @@ layout: blog
 resourceTypes: blog
 slug: visual-studio-team-test-quick-reference-guide-1-0
 aliases:
-  - /blog/visual-studio-team-test-quick-reference-guide-1-0
+- /blog/visual-studio-team-test-quick-reference-guide-1-0
+- /visual-studio-team-test-quick-reference-guide-1-0
 tags:
-  - testing
-  - tools
+- testing
+- tools
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 If you are in any way involved in or thinking bout Testing code, Websites or Web Services then you should have a look at the [VSTT Quick Reference Guide 1.0](http://vstt2008qrg.codeplex.com/) which the [Visual Studio Team System](http://msdn2.microsoft.com/en-us/teamsystem/default.aspx "Visual Studio Team System") Rangers team has published on [CodePlex](http://www.codeplex.com "CodePlex").
 
 If only this had been published weeks ago when I was delving into the world of web and load test I would have had a much easier time as most of the problems that I encountered have solutions offered right here in this document.

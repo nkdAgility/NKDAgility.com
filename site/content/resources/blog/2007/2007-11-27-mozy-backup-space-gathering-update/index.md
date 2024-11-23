@@ -1,6 +1,6 @@
 ---
 title: Mozy Backup Space Gathering update
-description: "Join my quest for free Mozy backup space! Discover how referrals can boost your storage and get tips on maximizing your online backup experience."
+description: Join my quest for free Mozy backup space! Discover how referrals can boost your storage and get tips on maximizing your online backup experience.
 date: 2007-11-27
 creator: Martin Hinshelwood
 id: "286"
@@ -8,12 +8,13 @@ layout: blog
 resourceTypes: blog
 slug: mozy-backup-space-gathering-update
 aliases:
-  - /blog/mozy-backup-space-gathering-update
+- /blog/mozy-backup-space-gathering-update
+- /mozy-backup-space-gathering-update
 categories:
-  - me
+- me
 preview: nakedalm-logo-128-link-2-2.png
----
 
+---
 Well, I currently have two referrals :)
 
 Thanks to [Garrett Hoofman](http://geekswithblogs.net/gambit_sunob/Default.aspx "Garrett Hoofman") and _[Andrew Stifora](http://stifora.com/)_ who got their fingers out and [got backed up](http://blog.hinshelwood.com/archive/2007/11/26/Mozy-Backup.aspx)! Hopefully the others that have signed up with my referral link will complete a backup as well so we can all benefit (well me!) from the extra space.

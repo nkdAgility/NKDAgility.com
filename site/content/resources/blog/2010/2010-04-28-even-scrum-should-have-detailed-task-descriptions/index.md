@@ -1,6 +1,6 @@
 ---
 title: Even Scrum should have detailed Task descriptions
-description: "Discover why detailed task descriptions in Scrum are essential for project integrity. Learn how to enhance team collaboration and ensure project success."
+description: Discover why detailed task descriptions in Scrum are essential for project integrity. Learn how to enhance team collaboration and ensure project success.
 date: 2010-04-28
 creator: Martin Hinshelwood
 id: "46"
@@ -8,22 +8,23 @@ layout: blog
 resourceTypes: blog
 slug: even-scrum-should-have-detailed-task-descriptions
 aliases:
-  - /blog/even-scrum-should-have-detailed-task-descriptions
+- /blog/even-scrum-should-have-detailed-task-descriptions
+- /even-scrum-should-have-detailed-task-descriptions
 tags:
-  - agile
-  - people
-  - process
-  - scrum
-  - sharepoint
-  - spf2010
-  - ssw
-  - tfs
-  - tfs2010
+- agile
+- people
+- process
+- scrum
+- sharepoint
+- spf2010
+- ssw
+- tfs
+- tfs2010
 categories:
-  - people-and-process
+- people-and-process
 preview: metro-sharepoint-128-link-1-1.png
----
 
+---
 ![RulestoBetter](images/SSWScrumRuleDoyou_E91A-RulestoBetter_-5-5.gif)When you create tasks in Scrum you are doing this within a time box and you tend to add only the information you need to remember what the task is. And the entire Team was at the meeting and were involved in the discussions around the task, so why do you need more?
 { .post-img }
 

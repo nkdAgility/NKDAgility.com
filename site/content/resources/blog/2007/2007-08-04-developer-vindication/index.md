@@ -1,6 +1,6 @@
 ---
 title: Developer vindication
-description: "Discover my journey as a .Net developer and the unexpected opportunity from Microsoft. Join me as I navigate career changes and visa challenges!"
+description: Discover my journey as a .Net developer and the unexpected opportunity from Microsoft. Join me as I navigate career changes and visa challenges!
 date: 2007-08-04
 creator: Martin Hinshelwood
 id: "350"
@@ -8,12 +8,13 @@ layout: blog
 resourceTypes: blog
 slug: developer-vindication
 aliases:
-  - /blog/developer-vindication
+- /blog/developer-vindication
+- /developer-vindication
 categories:
-  - me
+- me
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 The biggest vindication of your .Net developer status would be if Microsoft wanted to employ you! And it happened to me...
 
 I recently blogged about maybe being [interested in a career change](http://blog.hinshelwood.com/archive/2007/07/16/Its-that-time-again.aspx), and [Siddharth Bhatia](http://blogs.msdn.com/sbhatia/default.aspx), a Group Program Manager from Microsoft posted a [comment](http://blog.martin.hinshelwood.com/archive/2007/07/16/Its-that-time-again.aspx#138860 "Siddharth Bhatia comment") asking to get in touch.

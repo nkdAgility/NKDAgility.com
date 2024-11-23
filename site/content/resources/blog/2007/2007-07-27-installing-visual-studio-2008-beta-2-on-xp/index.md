@@ -1,6 +1,6 @@
 ---
 title: Installing Visual Studio 2008 Beta 2 on XP
-description: "Learn how to successfully install Visual Studio 2008 Beta 2 on XP, troubleshoot common issues, and optimize your setup for Team Foundation Server."
+description: Learn how to successfully install Visual Studio 2008 Beta 2 on XP, troubleshoot common issues, and optimize your setup for Team Foundation Server.
 date: 2007-07-27
 creator: Martin Hinshelwood
 id: "358"
@@ -8,13 +8,14 @@ layout: blog
 resourceTypes: blog
 slug: installing-visual-studio-2008-beta-2-on-xp
 aliases:
-  - /blog/installing-visual-studio-2008-beta-2-on-xp
+- /blog/installing-visual-studio-2008-beta-2-on-xp
+- /installing-visual-studio-2008-beta-2-on-xp
 tags:
-  - visual-studio
-  - vs2008
+- visual-studio
+- vs2008
 preview: metro-visual-studio-2005-128-link-1-1.png
----
 
+---
 The first problem I have encountered in that in the past I have had various version of Office 2007 beta and other bits and bobs. You will need to remove these to install Visual Studio 2008 Beta 2.
 
 If your install fails on or just after "**Microsoft Web Designer Tools**" then you probably have this problem. If you download the [Windows Installer Cleanup Utility](http://support.microsoft.com/kb/290301) you will be able to clean anything that is Office 2007 and beta from you system.

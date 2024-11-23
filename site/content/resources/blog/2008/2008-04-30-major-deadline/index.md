@@ -1,6 +1,6 @@
 ---
 title: Major deadline
-description: "Discover the challenges of managing a SharePoint migration project and the urgent solutions needed to meet a tight deadline. Join the journey of innovation!"
+description: Discover the challenges of managing a SharePoint migration project and the urgent solutions needed to meet a tight deadline. Join the journey of innovation!
 date: 2008-04-30
 creator: Martin Hinshelwood
 id: "233"
@@ -8,16 +8,17 @@ layout: blog
 resourceTypes: blog
 slug: major-deadline
 aliases:
-  - /blog/major-deadline
+- /blog/major-deadline
+- /major-deadline
 tags:
-  - moss2007
-  - sharepoint
-  - sp2007
+- moss2007
+- sharepoint
+- sp2007
 categories:
-  - me
+- me
 preview: metro-sharepoint-128-link-5-5.png
----
 
+---
 ![image](images/Majordeadline_13060-image_thumb_6-4-4.png)Well the faeces hit the fan at work today...let me explain...
 { .post-img }
 

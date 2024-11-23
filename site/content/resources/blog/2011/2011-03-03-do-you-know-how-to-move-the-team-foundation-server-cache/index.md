@@ -1,6 +1,6 @@
 ---
 title: Do you know how to move the Team Foundation Server cache
-description: "Learn how to efficiently move the Team Foundation Server cache to optimize server space and improve performance with this easy step-by-step guide."
+description: Learn how to efficiently move the Team Foundation Server cache to optimize server space and improve performance with this easy step-by-step guide.
 date: 2011-03-03
 creator: Martin Hinshelwood
 id: "9894"
@@ -8,14 +8,15 @@ layout: blog
 resourceTypes: blog
 slug: do-you-know-how-to-move-the-team-foundation-server-cache
 aliases:
-  - /blog/do-you-know-how-to-move-the-team-foundation-server-cache
+- /blog/do-you-know-how-to-move-the-team-foundation-server-cache
+- /do-you-know-how-to-move-the-team-foundation-server-cache
 tags:
-  - nwcadence
-  - tfs
-  - tfs2010
-  - tools
----
+- nwcadence
+- tfs
+- tfs2010
+- tools
 
+---
 [![question mark](images/Do-you-know-how-to-move-the-Team-Foundat_DD94-ErrorOcurred1_thumb-1-1.jpg)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Do-you-know-how-to-move-the-Team-Foundat_DD94-ErrorOcurred1_2.jpg)There are a number of reasons why you may want to change the folder that you store the TFS Cache. It can take up “some” amount of room so moving it to another drive can be beneficial. This is the source control Cache that TFS uses to cache data from the database.
 { .post-img }
 

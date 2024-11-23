@@ -1,6 +1,6 @@
 ---
 title: Are technical skills required to be a Scrum Master?
-description: "Discover if technical skills are essential for a Scrum Master. Explore key masteries that enhance effectiveness in guiding teams and driving organizational change."
+description: Discover if technical skills are essential for a Scrum Master. Explore key masteries that enhance effectiveness in guiding teams and driving organizational change.
 date: 2019-09-01
 creator: Martin Hinshelwood
 id: "39894"
@@ -8,17 +8,20 @@ layout: blog
 resourceTypes: blog
 slug: are-technical-skills-required-to-be-a-scrum-master
 aliases:
-  - /blog/are-technical-skills-required-to-be-a-scrum-master
+- /blog/are-technical-skills-required-to-be-a-scrum-master
+- /are-technical-skills-required-to-be-a-scrum-master
+- /are-technical-skills-required-to-be-a-scrum-master-
+- /blog/are-technical-skills-required-to-be-a-scrum-master-
 tags:
-  - business-mastery
-  - organisational-transformational-mastery
-  - scrum-master
-  - technical-mastery
+- business-mastery
+- organisational-transformational-mastery
+- scrum-master
+- technical-mastery
 categories:
-  - agility
+- agility
 preview: 1029723898-1-1.jpg
----
 
+---
 As part of the Scrum.org webinar “Ask a Professional Scrum Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.
 
 In case you missed it, here is the recording of yesterday's Ask a Professional Scrum Trainer webinar with Martin Hinshelwood! Watch here: [http://ow.ly/ijiM50vwEkD](http://ow.ly/ijiM50vwEkD)

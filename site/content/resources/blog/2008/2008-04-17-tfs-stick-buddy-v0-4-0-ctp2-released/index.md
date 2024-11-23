@@ -1,6 +1,6 @@
 ---
 title: TFS Stick Buddy v0.4.0 CTP2 released
-description: "Discover the latest TFS Stick Buddy v0.4.0 CTP2 release! Customize your work item display and enhance your project management experience. Download now!"
+description: Discover the latest TFS Stick Buddy v0.4.0 CTP2 release! Customize your work item display and enhance your project management experience. Download now!
 date: 2008-04-17
 creator: Martin Hinshelwood
 id: "238"
@@ -8,19 +8,20 @@ layout: blog
 resourceTypes: blog
 slug: tfs-stick-buddy-v0-4-0-ctp2-released
 aliases:
-  - /blog/tfs-stick-buddy-v0-4-0-ctp2-released
+- /blog/tfs-stick-buddy-v0-4-0-ctp2-released
+- /tfs-stick-buddy-v0-4-0-ctp2-released
 tags:
-  - code
-  - tfs-sticky-buddy
-  - wit
-  - wpf
+- code
+- tfs-sticky-buddy
+- wit
+- wpf
 categories:
-  - code-and-complexity
-  - me
-  - tools-and-techniques
+- code-and-complexity
+- me
+- tools-and-techniques
 preview: metro-binary-vb-128-link-1-1.png
----
 
+---
 All to soon and it is that time again...I have been developing, hell bent on getting a [working sticky buddy](http://www.codeplex.com/TFSStickyBuddy) online, and here it is...
 
 [**Download TFS Stick Buddy v0.4.0 CTP2 Now**](http://www.codeplex.com/TFSStickyBuddy/Release/ProjectReleases.aspx)**...**

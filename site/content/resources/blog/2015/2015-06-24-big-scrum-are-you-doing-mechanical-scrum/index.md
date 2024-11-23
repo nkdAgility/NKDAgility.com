@@ -1,6 +1,6 @@
 ---
-title: "Big Scrum: Are you doing mechanical Scrum"
-description: "Explore the pitfalls of mechanical Scrum and discover how to achieve true agility with Professional Scrum for enhanced productivity and team effectiveness."
+title: 'Big Scrum: Are you doing mechanical Scrum'
+description: Explore the pitfalls of mechanical Scrum and discover how to achieve true agility with Professional Scrum for enhanced productivity and team effectiveness.
 date: 2015-06-24
 creator: Martin Hinshelwood
 id: "11355"
@@ -8,18 +8,21 @@ layout: blog
 resourceTypes: blog
 slug: big-scrum-are-you-doing-mechanical-scrum
 aliases:
-  - /blog/big-scrum-are-you-doing-mechanical-scrum
+- /blog/big-scrum-are-you-doing-mechanical-scrum
+- /big-scrum-are-you-doing-mechanical-scrum
+- /big-scrum--are-you-doing-mechanical-scrum
+- /blog/big-scrum--are-you-doing-mechanical-scrum
 tags:
-  - agile
-  - big-scrum
-  - scaled-agile
-  - scrum
-  - scrum-at-scale
+- agile
+- big-scrum
+- scaled-agile
+- scrum
+- scrum-at-scale
 categories:
-  - people-and-process
+- people-and-process
 preview: clip_image001-1-1.png
----
 
+---
 Last month I created an article for NDC Magazine on Scaling Scrum. The guys at NDC must have liked it as they decided to put it on the cover. This article is a discussion and investigation into what it means to be a Professional Scrum Team, why we need it, and how we can scale it.
 
 ![clip_image001](images/clip_image001-1-1.png "clip_image001")

@@ -1,6 +1,6 @@
 ---
 title: Running Android 2.2 (Frodo) on your HD2
-description: "Discover how to run Android 2.2 (Frodo) on your HD2 for a superior mobile experience. Step-by-step guide and tips for optimal performance await!"
+description: Discover how to run Android 2.2 (Frodo) on your HD2 for a superior mobile experience. Step-by-step guide and tips for optimal performance await!
 date: 2010-09-02
 creator: Martin Hinshelwood
 id: "29"
@@ -8,18 +8,21 @@ layout: blog
 resourceTypes: blog
 slug: running-android-2-2-frodo-on-your-hd2
 aliases:
-  - /blog/running-android-2-2-frodo-on-your-hd2
+- /blog/running-android-2-2-frodo-on-your-hd2
+- /running-android-2-2-frodo-on-your-hd2
+- /running-android-2-2-(frodo)-on-your-hd2
+- /blog/running-android-2-2-(frodo)-on-your-hd2
 tags:
-  - android
-  - mobile
-  - off-topic
-  - tools
-  - windows-mobile-6
+- android
+- mobile
+- off-topic
+- tools
+- windows-mobile-6
 categories:
-  - me
+- me
 preview: metro-android-1-1.png
----
 
+---
 ![image](images/RunningAndroid2.2FroDoonyourHD2_89C9-image_-6-6.png)While my HD2 was away getting fixed I had to slum it using an Android phone from Vodafone. It was a small cheap Vodafone 845 running Android 2.1 and you know what… I loved it.
 { .post-img }
 

@@ -1,6 +1,6 @@
 ---
 title: NetIDme
-description: "Explore NetIDme, a service for online identity verification that enhances user interaction and security across platforms like SharePoint and more. Discover the future!"
+description: Explore NetIDme, a service for online identity verification that enhances user interaction and security across platforms like SharePoint and more. Discover the future!
 date: 2007-06-15
 creator: Martin Hinshelwood
 id: "384"
@@ -8,14 +8,15 @@ layout: blog
 resourceTypes: blog
 slug: netidme
 aliases:
-  - /blog/netidme
+- /blog/netidme
+- /netidme
 tags:
-  - service-oriented-architecture
-  - sharepoint
-  - spf2010
+- service-oriented-architecture
+- sharepoint
+- spf2010
 preview: metro-sharepoint-128-link-1-1.png
----
 
+---
 I have just been made aware of a [new ('ish) service.](http://www.netidme.net/ "netidme") It allows you to verify the identity of those users you interact with online. This is a very usefully service for any online site or community where users are under 18, but is there any value for those of us that are not?
 
 Would more people interact with me if they could verify my identity? I am not sure.

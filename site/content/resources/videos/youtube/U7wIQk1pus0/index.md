@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=U7wIQk1pus0
 aliases:
 - /resources/videos/U7wIQk1pus0
 - /resources/videos/install-tfs-2013-basic
+- /resources/install-tfs-2013-basic
 preview: https://i.ytimg.com/vi/U7wIQk1pus0/maxresdefault.jpg
 duration: 722
 isShort: false
@@ -37,4 +38,3 @@ My fan kicked on half way through, hence the hiss... I have ordered a microphone
 More videos and blogs on http://nakedalm.com/blog
 
 [Watch on YouTube](https://www.youtube.com/watch?v=U7wIQk1pus0)
-

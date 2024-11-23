@@ -1,6 +1,6 @@
 ---
 title: Managing your Azure VM's with your Phone
-description: "Manage your Azure VMs effortlessly with your phone! Discover how the Mobile Azure Manager app simplifies cloud management on the go. Save time and costs!"
+description: Manage your Azure VMs effortlessly with your phone! Discover how the Mobile Azure Manager app simplifies cloud management on the go. Save time and costs!
 date: 2015-01-28
 creator: Martin Hinshelwood
 id: "11152"
@@ -8,15 +8,18 @@ layout: blog
 resourceTypes: blog
 slug: managing-azure-vms-phone
 aliases:
-  - /blog/managing-azure-vms-phone
+- /blog/managing-azure-vms-phone
+- /managing-azure-vms-phone
+- /managing-your-azure-vm's-with-your-phone
+- /blog/managing-your-azure-vm's-with-your-phone
 tags:
-  - azure
-  - windows-phone
+- azure
+- windows-phone
 categories:
-  - products-and-books
+- products-and-books
 preview: nakedalm-windows-logo-7-7.png
----
 
+---
 I have been doing quite a bit of [ALM Training](http://nkdagility.com/training/) recently and have been trying to figure out how best to manage my training VM's.
 
 [Download Mobile Azure Manager from US Store](http://www.windowsphone.com/en-us/store/app/mobile-azure-manager/5fa3d0e0-181c-4d0b-ad2c-e5b08d4658b6)

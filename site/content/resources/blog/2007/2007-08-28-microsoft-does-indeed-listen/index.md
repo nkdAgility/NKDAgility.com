@@ -1,6 +1,6 @@
 ---
 title: Microsoft does indeed listen
-description: "Discover how Microsoft is evolving TFS with hosted options, addressing user needs, and enhancing project management features. Join the conversation!"
+description: Discover how Microsoft is evolving TFS with hosted options, addressing user needs, and enhancing project management features. Join the conversation!
 date: 2007-08-28
 creator: Martin Hinshelwood
 id: "318"
@@ -8,13 +8,14 @@ layout: blog
 resourceTypes: blog
 slug: microsoft-does-indeed-listen
 aliases:
-  - /blog/microsoft-does-indeed-listen
+- /blog/microsoft-does-indeed-listen
+- /microsoft-does-indeed-listen
 tags:
-  - tfs
-  - tfs2005
+- tfs
+- tfs2005
 preview: metro-visual-studio-2005-128-link-1-1.png
----
 
+---
 When I posted my question "[Would anyone be interested in Hosted TFS?](http://www.linkedin.com/answers/technology/software-development/TCH_SFT/46649-1363184 "Would anyone be interested in hosted TFS?")" on linked in I was hopping for a response from potential users. I did not think that [Jim Lamb](http://blogs.msdn.com/jimlamb/archive/2007/05/30/hosted-tfs-pilot-program.aspx "Microsoft does indeed listen") would be reading it and blog about Microsoft's internal ambition to have a hosted model for [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server"). I have been quite excited about this subjects as I have worked for many companies that would find the cost of running an internal TFS server prohibitive, but for whom a hosted option would be perfect.
 
 To date there is only one hosted option and that is from [TFS Now](http://www.tfsnow.com/), if you are interested in hearing more about them then you should read their [blog](http://tfsnow.wordpress.com/2007/07/29/announcing-tfs-now-a-hosted-tfs-service/ "microsoft does indeed listen").

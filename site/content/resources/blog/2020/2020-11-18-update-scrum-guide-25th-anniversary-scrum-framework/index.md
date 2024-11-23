@@ -1,6 +1,6 @@
 ---
 title: Update to the Scrum Guide on the 25th Anniversary of the Scrum Framework
-description: "Discover the latest updates to the Scrum Guide on its 25th anniversary, simplifying Scrum for better team management and accountability. Read more!"
+description: Discover the latest updates to the Scrum Guide on its 25th anniversary, simplifying Scrum for better team management and accountability. Read more!
 date: 2020-11-18
 creator: Martin Hinshelwood
 id: "45077"
@@ -8,15 +8,18 @@ layout: blog
 resourceTypes: blog
 slug: update-scrum-guide-25th-anniversary-scrum-framework
 aliases:
-  - /blog/update-scrum-guide-25th-anniversary-scrum-framework
+- /blog/update-scrum-guide-25th-anniversary-scrum-framework
+- /update-scrum-guide-25th-anniversary-scrum-framework
+- /update-to-the-scrum-guide-on-the-25th-anniversary-of-the-scrum-framework
+- /blog/update-to-the-scrum-guide-on-the-25th-anniversary-of-the-scrum-framework
 tags:
-  - leadership-track
-  - scrum-theory
+- leadership-track
+- scrum-theory
 categories:
-  - news-and-reviews
+- news-and-reviews
 preview: naked-Agility-Scrum-Framework-3-2.jpg
----
 
+---
 It has been 25 years since Scrum was first created by Ken Schwaber and Jeff Sutherland and it has gone through many revisions. The last major revision was in 2017 and this update represents a simplification for 2020.
 
 [The 2020 Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/)

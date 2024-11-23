@@ -1,6 +1,6 @@
 ---
 title: Heat ITSM
-description: "Discover how to integrate Heat ITSM with TFS for efficient support call management. Streamline your workflow and enhance productivity with our insights!"
+description: Discover how to integrate Heat ITSM with TFS for efficient support call management. Streamline your workflow and enhance productivity with our insights!
 date: 2008-08-22
 creator: Martin Hinshelwood
 id: "207"
@@ -8,17 +8,18 @@ layout: blog
 resourceTypes: blog
 slug: heat-itsm
 aliases:
-  - /blog/heat-itsm
+- /blog/heat-itsm
+- /heat-itsm
 tags:
-  - tfs
-  - tfs2008
-  - tools
-  - wpf
+- tfs
+- tfs2008
+- tools
+- wpf
 categories:
-  - me
+- me
 preview: metro-visual-studio-2005-128-link-4-4.png
----
 
+---
 [![Heat ITSM Logo](images/HeatITSM_78C9-Logo_heat_thumb-3-3.jpg)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-HeatITSM_78C9-Logo_heat_2.jpg)In Aggreko we use a product called Heat ITSM to manage our support calls.  Now all of these calls are tracked using its tracking system, but we (Group Development) want to track using Team System. We need some way of moving and syncing items between these two systems.
 { .post-img }
 

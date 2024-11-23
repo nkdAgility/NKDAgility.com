@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=xaLNCbr9o3Y
 aliases:
 - /resources/videos/xaLNCbr9o3Y
 - /resources/videos/ep-003-daniel-vacanti-on-live-online-psk-in-edinburgh
+- /resources/ep-003-daniel-vacanti-on-live-online-psk-in-edinburgh
 preview: https://i.ytimg.com/vi/xaLNCbr9o3Y/maxresdefault.jpg
 duration: 1162
 isShort: false
@@ -26,4 +27,3 @@ source: youtube
 Daniel Vacanti will be joining me for a Live chat about the upcoming Professional Scrum with Kanban running in Edinburgh on 18th May 2020. We will discuss how we plan to approach the class and will take questions from anyone interested in comming along.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=xaLNCbr9o3Y)
-

@@ -1,6 +1,6 @@
 ---
 title: Does your company culture resemble Survivor?
-description: "Is your company culture a 'Survivor' game? Discover how fostering collaboration can enhance agility and team success in your organization."
+description: Is your company culture a 'Survivor' game? Discover how fostering collaboration can enhance agility and team success in your organization.
 date: 2013-07-10
 creator: Martin Hinshelwood
 id: "9716"
@@ -8,21 +8,24 @@ layout: blog
 resourceTypes: blog
 slug: does-your-company-culture-resemble-survivor
 aliases:
-  - /blog/does-your-company-culture-resemble-survivor
+- /blog/does-your-company-culture-resemble-survivor
+- /does-your-company-culture-resemble-survivor
+- /does-your-company-culture-resemble-survivor-
+- /blog/does-your-company-culture-resemble-survivor-
 tags:
-  - company-culture
-  - development-team
-  - improve
-  - people
-  - strategic
-  - team
-  - teams
+- company-culture
+- development-team
+- improve
+- people
+- strategic
+- team
+- teams
 categories:
-  - measure-and-learn
-  - people-and-process
+- measure-and-learn
+- people-and-process
 preview: nakedalm-experts-professional-scrum-1-1.png
----
 
+---
 Does your company culture resemble Survivor? Do you have a culture in your organisation where individuals that help others are considered slackers for not getting their own assignments complete?
 
 If you are trying to achieve agility it is imperative that your team members work together to solve problems. I am not saying that you have to do pair programming but you have to have a culture where collaboration and working together is the norm. This is one of the two main roadblocks to agility ( the other one being requirements management) that companies hit time and time again early in their agile adoptions.

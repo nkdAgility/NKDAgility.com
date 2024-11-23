@@ -1,6 +1,6 @@
 ---
 title: Log Elmah errors in Team Foundation Server
-description: "Learn how to log Elmah errors in Team Foundation Server effectively. Discover methods to streamline error tracking and enhance your development process."
+description: Learn how to log Elmah errors in Team Foundation Server effectively. Discover methods to streamline error tracking and enhance your development process.
 date: 2009-07-26
 creator: Martin Hinshelwood
 id: "97"
@@ -8,18 +8,19 @@ layout: blog
 resourceTypes: blog
 slug: log-elmah-errors-in-team-foundation-server
 aliases:
-  - /blog/log-elmah-errors-in-team-foundation-server
+- /blog/log-elmah-errors-in-team-foundation-server
+- /log-elmah-errors-in-team-foundation-server
 tags:
-  - aggreko
-  - code
-  - codeproject
-  - tfs
-  - tfs2010
-  - tools
-  - wit
+- aggreko
+- code
+- codeproject
+- tfs
+- tfs2010
+- tools
+- wit
 preview: metro-binary-vb-128-link-1-1.png
----
 
+---
 I am not sure if this is a good idea, but I was bored one day and decided to add a TFS Error Log provider for [Elmah](http://code.google.com/p/elmah/). There are 2 ways you can do this. You can create a new WorkItem type and log an error report for each of the errors or you can create one work item for each error type/title. To do this you can create a title that is the combination of error message and application name and then search TFS for an existing work item. If it exists then add the error to it, if it does not then create a work item for that instance. You can use any work item type, and the errors are added as [Elmah](http://code.google.com/p/elmah/) xml log files.
 
 There are a number of things you need to override when you inherit from [Elmah](http://code.google.com/p/elmah/).ErrorLog. The first is the Log method.

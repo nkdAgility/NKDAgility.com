@@ -1,6 +1,6 @@
 ---
 title: Guidance - Branching for each Sprint
-description: "Master your branching strategy for Scrum sprints! Discover how effective branching can streamline development and enhance collaboration in your projects."
+description: Master your branching strategy for Scrum sprints! Discover how effective branching can streamline development and enhance collaboration in your projects.
 date: 2010-04-08
 creator: Martin Hinshelwood
 id: "56"
@@ -8,24 +8,27 @@ layout: blog
 resourceTypes: blog
 slug: guidance-branching-for-each-sprint
 aliases:
-  - /blog/guidance-branching-for-each-sprint
+- /blog/guidance-branching-for-each-sprint
+- /guidance-branching-for-each-sprint
+- /guidance---branching-for-each-sprint
+- /blog/guidance---branching-for-each-sprint
 tags:
-  - configuration
-  - develop
-  - infrastructure
-  - practices
-  - process
-  - scrum
-  - ssw
-  - tfs
-  - tfs2008
-  - tfs2010
-  - version-control
+- configuration
+- develop
+- infrastructure
+- practices
+- process
+- scrum
+- ssw
+- tfs
+- tfs2008
+- tfs2010
+- version-control
 categories:
-  - tools-and-techniques
+- tools-and-techniques
 preview: metro-visual-studio-2005-128-link-1-1.png
----
 
+---
 There are a lot of developers using version control these days, but a feature of version control called branching is very poorly understood and remains unused by most developers in favour of Labels. Most developers think that branching is hard and complicated. Its not!
 
 What is hard and complicated is a bad branching strategy. Just like a bad software architecture a bad branch architecture, or one that is not adhered to can prove fatal to a project. We I was at Aggreko we had a fairly successful Feature branching strategy (although the developers hated it) that meant that we could have multiple feature teams working at the same time without impacting each other. Now, this had to be carefully orchestrated as it was a Business Intelligence team and many of the BI artefacts do not lend themselves to merging.

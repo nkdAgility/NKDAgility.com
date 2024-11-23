@@ -3,6 +3,7 @@ title: Why do you prefer agile consulting over agile coaching?
 description: Discover why Martin Hinshelwood prefers agile consulting over coaching in this insightful video, exploring the benefits of short-term engagements for agile teams.
 date: 2023-06-30
 videoId: FJjiCodxyK4
+source: internal
 url: /resources/videos/:slug
 slug: why-do-you-prefer-agile-consulting-over-agile-coaching
 preview: https://i.ytimg.com/vi/FJjiCodxyK4/maxresdefault.jpg
@@ -12,6 +13,7 @@ aliases:
 - /resources/why-do-you-prefer-agile-consulting-over-agile-coaching
 - /resources/videos/why-do-you-prefer-agile-consulting-over-agile-coaching-
 - /resources/videos/FJjiCodxyK4
+- /resources/why-do-you-prefer-agile-consulting-over-agile-coaching-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -88,9 +90,3 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-
-
-
-
-

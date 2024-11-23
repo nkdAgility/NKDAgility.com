@@ -1,6 +1,6 @@
 ---
 title: Scottish Visual Studio 2010 Launch event with Jason Zander
-description: "Join us for the Visual Studio 2010 launch in Edinburgh with Jason Zander. Discover new tools for Windows, Web, and Cloud development. Don't miss out!"
+description: Join us for the Visual Studio 2010 launch in Edinburgh with Jason Zander. Discover new tools for Windows, Web, and Cloud development. Don't miss out!
 date: 2010-03-31
 creator: Martin Hinshelwood
 id: "57"
@@ -8,20 +8,21 @@ layout: blog
 resourceTypes: blog
 slug: scottish-visual-studio-2010-launch-event-with-jason-zander
 aliases:
-  - /blog/scottish-visual-studio-2010-launch-event-with-jason-zander
+- /blog/scottish-visual-studio-2010-launch-event-with-jason-zander
+- /scottish-visual-studio-2010-launch-event-with-jason-zander
 tags:
-  - tfs
-  - tfs2010
-  - tools
-  - visual-studio
-  - vs2010
-  - wp7
+- tfs
+- tfs2010
+- tools
+- visual-studio
+- vs2010
+- wp7
 categories:
-  - events-and-presentations
-  - me
+- events-and-presentations
+- me
 preview: metro-visual-studio-2010-128-link-1-1.png
----
 
+---
 ![image](images/ScottishVisualStudio2010Launcheventwith_125AE-image_-2-2.png)_Microsoft are hosting a launch event for Visual Studio 2010 on **Friday 16th April in Edinburgh**. The have managed to convince one of the head honchos from the Visual Studio product team to come to Scotland. With [Scott Guthrie last week in Glasgow](http://blog.hinshelwood.com/archive/2010/03/29/scott-guthrie-in-glasgow.aspx) and now [**Jason Zander**](http://blogs.msdn.com/jasonz/), Global General Manager for Visual Studio will be arriving in Edinburgh for the Launch event._
 { .post-img }
 

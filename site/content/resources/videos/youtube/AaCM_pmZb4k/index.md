@@ -3,6 +3,7 @@ title: What are the hierarchies of competence vs control?  Why does this matter?
 description: Explore the contrast between empowering coaching and micromanagement in hierarchies of competence vs control with Martin Hinshelwood.
 date: 2023-10-09
 videoId: AaCM_pmZb4k
+source: internal
 url: /resources/videos/:slug
 slug: what-are-the-hierarchies-of-competence-vs-control-why-does-this-matter
 preview: https://i.ytimg.com/vi/AaCM_pmZb4k/maxresdefault.jpg
@@ -13,6 +14,7 @@ aliases:
 - /resources/what-are-hierarchies-of-competence-vs-control
 - /resources/videos/what-are-hierarchies-of-competence-vs-control-
 - /resources/videos/AaCM_pmZb4k
+- /resources/what-are-hierarchies-of-competence-vs-control-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -78,9 +80,3 @@ Consider transitioning towards a more competence-based hierarchy if your organis
 Ready to make your organisation more agile and efficient?
 
 Let's navigate the future of work together.
-
-
-
-
-
-

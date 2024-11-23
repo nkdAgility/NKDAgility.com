@@ -1,6 +1,6 @@
 ---
 title: Installing Visual Studio 2010 on Windows 8
-description: "Learn how to install Visual Studio 2010 on Windows 8 effortlessly. Discover tips for a smooth setup and optimize your development environment today!"
+description: Learn how to install Visual Studio 2010 on Windows 8 effortlessly. Discover tips for a smooth setup and optimize your development environment today!
 date: 2012-06-01
 creator: Martin Hinshelwood
 id: "5388"
@@ -8,20 +8,21 @@ layout: blog
 resourceTypes: blog
 slug: installing-visual-studio-2010-on-windows-8
 aliases:
-  - /blog/installing-visual-studio-2010-on-windows-8
+- /blog/installing-visual-studio-2010-on-windows-8
+- /installing-visual-studio-2010-on-windows-8
 tags:
-  - configuration
-  - infrastructure
-  - nwcadence
-  - tools
-  - visual-studio
-  - vs2012
-  - win8
+- configuration
+- infrastructure
+- nwcadence
+- tools
+- visual-studio
+- vs2012
+- win8
 categories:
-  - tools-and-techniques
+- tools-and-techniques
 preview: nakedalm-experts-visual-studio-alm-8-8.png
----
 
+---
 As I [have mentioned before I run all of my heavy weight software in a VM](http://blog.hinshelwood.com/installing-tfs-2012-on-server-2012-with-sql-2012/). That is one of the reasons that I love Windows 8… I can run Hyper-V. I want to be able to reinstall my local computer quickly, and to get back up and running fast.
 
 I run many apps on my local computer, but they are things like Outlook, Windows Live Writer, Camtasia, Snagit and Diablo as well as any coms apps I need. I run Visual Studio in a VM so that I can reinstall my host and get back working fast, and I can also reinstall my Visual Studio VM while using my current one ![Smile](images/wlEmoticon-smile1-10-10.png).

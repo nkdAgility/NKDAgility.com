@@ -1,6 +1,6 @@
 ---
 title: TFS Service Credential Viewer
-description: "Discover the TFS Service Credential Viewer to easily manage your Team Foundation Service credentials for automated connections. Simplify your workflow today!"
+description: Discover the TFS Service Credential Viewer to easily manage your Team Foundation Service credentials for automated connections. Simplify your workflow today!
 date: 2012-03-30
 creator: Martin Hinshelwood
 id: "5032"
@@ -8,21 +8,22 @@ layout: blog
 resourceTypes: blog
 slug: tfs-service-credential-viewer
 aliases:
-  - /blog/tfs-service-credential-viewer
+- /blog/tfs-service-credential-viewer
+- /tfs-service-credential-viewer
 tags:
-  - azure
-  - code
-  - configuration
-  - infrastructure
-  - tfs
-  - tf-service
-  - tools
+- azure
+- code
+- configuration
+- infrastructure
+- tfs
+- tf-service
+- tools
 categories:
-  - code-and-complexity
-  - tools-and-techniques
+- code-and-complexity
+- tools-and-techniques
 preview: metro-cloud-azure-link-4-4.png
----
 
+---
 If you want to connect to the Team Foundation Service (TFS Preview) API you are going to need some credentials in order to connect. That's right, where do you expect to store your Live ID for connecting? Do you expect to add it to the windows credentials store? What about having the user manually add it? Both these options suck… so introducing the TFS Service Credential Viewer.
 
 [![image](images/image_thumb21-1-1.png "image")](http://blog.hinshelwood.com/files/2012/03/image21.png)

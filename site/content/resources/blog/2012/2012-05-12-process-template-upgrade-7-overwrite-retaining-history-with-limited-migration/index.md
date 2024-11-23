@@ -1,6 +1,6 @@
 ---
-title: "Process Template Upgrade #7 – Rename Work Items and Import new ones"
-description: "Learn how to upgrade your TFS process template while preserving work item history. Follow these essential steps for a smooth transition and minimal disruption."
+title: 'Process Template Upgrade #7 – Rename Work Items and Import new ones'
+description: Learn how to upgrade your TFS process template while preserving work item history. Follow these essential steps for a smooth transition and minimal disruption.
 date: 2012-05-12
 creator: Martin Hinshelwood
 id: "5277"
@@ -8,17 +8,20 @@ layout: blog
 resourceTypes: blog
 slug: process-template-upgrade-7-overwrite-retaining-history-with-limited-migration
 aliases:
-  - /blog/process-template-upgrade-7-overwrite-retaining-history-with-limited-migration
+- /blog/process-template-upgrade-7-overwrite-retaining-history-with-limited-migration
+- /process-template-upgrade-7-overwrite-retaining-history-with-limited-migration
+- /process-template-upgrade--7-–-rename-work-items-and-import-new-ones
+- /blog/process-template-upgrade--7-–-rename-work-items-and-import-new-ones
 tags:
-  - configuration
-  - infrastructure
-  - tf400508
-  - tfs
-  - tools
+- configuration
+- infrastructure
+- tf400508
+- tfs
+- tools
 categories:
-  - upgrade-and-maintenance
----
+- upgrade-and-maintenance
 
+---
 A little while ago I was looking into the best options for [upgrading a process template but still keep your data intact](http://blog.hinshelwood.com/do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact/), but there is still a little bit of ambiguity on how that is achieved. Although the original list had only #6 options lets look at the #7 option…
 
 - Update 2013-06-18 [Neno](www.tfsblog.com/) pointed out that the code looks all squirrelly. Unfortunately I have tried a bunch of times to fix this one with no result. To see the code in readable form you can double-click the code blocks.

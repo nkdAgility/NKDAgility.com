@@ -1,6 +1,6 @@
 ---
 title: TFS Weekend Part 1 - Install
-description: "Join Martin Hinshelwood as he shares his TFS installation journey, tackling challenges and solutions for small companies. Discover tips for success!"
+description: Join Martin Hinshelwood as he shares his TFS installation journey, tackling challenges and solutions for small companies. Discover tips for success!
 date: 2007-03-19
 creator: Martin Hinshelwood
 id: "426"
@@ -8,10 +8,13 @@ layout: blog
 resourceTypes: blog
 slug: tfs-weekend-part-1-install
 aliases:
-  - /blog/tfs-weekend-part-1-install
+- /blog/tfs-weekend-part-1-install
+- /tfs-weekend-part-1-install
+- /tfs-weekend-part-1---install
+- /blog/tfs-weekend-part-1---install
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 I got a call from a friend of mine (Neil Ramsay) who was installing TFS for his company ([http://www.quantad.com](http://www.quantad.com)). Needless to say, he had a few problems, as everyone does when installing TFS. So he gave me a call and I road to the resque.
 
 The big advantage of installing TFS in a amall comapany, is that you can OWN the entire server. He gave me teh admin password and I had TFS eating out of my hand in about 20 minutes.

@@ -1,6 +1,6 @@
 ---
 title: Virtual Labs in the modern application lifecycle
-description: "Explore how virtual labs enhance the modern application lifecycle, enabling agile development and efficient testing in complex environments. Rise to the challenge!"
+description: Explore how virtual labs enhance the modern application lifecycle, enabling agile development and efficient testing in complex environments. Rise to the challenge!
 date: 2012-09-22
 creator: Martin Hinshelwood
 id: "8803"
@@ -8,26 +8,27 @@ layout: blog
 resourceTypes: blog
 slug: virtual-labs-in-the-modern-application-lifecycle
 aliases:
-  - /blog/virtual-labs-in-the-modern-application-lifecycle
+- /blog/virtual-labs-in-the-modern-application-lifecycle
+- /virtual-labs-in-the-modern-application-lifecycle
 tags:
-  - agile
-  - infrastructure
-  - modern-application-lifecycle
-  - practices
-  - process
-  - s30d
-  - tfs
-  - tfs2012
-  - the-new-normal
-  - tools
-  - virtual-labs
-  - visual-studio
-  - vs2012
+- agile
+- infrastructure
+- modern-application-lifecycle
+- practices
+- process
+- s30d
+- tfs
+- tfs2012
+- the-new-normal
+- tools
+- virtual-labs
+- visual-studio
+- vs2012
 categories:
-  - tools-and-techniques
+- tools-and-techniques
 preview: metro-lab-5-5.png
----
 
+---
 In the world of modern application development we have many more moving parts than we ever did before and it has become increasingly difficult for organisations to effectively simulate their environments with virtual labs.
 
 Add to that the demand from Development Teams to be able to have many times the environments that they ever had before and that they also want the ability to engage with any version of the software being supported. Both Operations Teams and Development Teams are already suffering under the yoke of complexity that modern applications demand and we are now bombarding them with an even greater immediacy of that need. As most organisations move towards delivering software to production at least every 30 days, with the increasing likelihood of continuous delivery both of these teams are ready to implode. While inevitable and required for survival, agility has a heavy price in change for your organisation, people, processes and tools.

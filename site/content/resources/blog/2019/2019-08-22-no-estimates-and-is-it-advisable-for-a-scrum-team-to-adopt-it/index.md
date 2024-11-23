@@ -1,6 +1,6 @@
 ---
 title: No Estimates and is it advisable for a Scrum Team to adopt it?
-description: "Explore the pros and cons of adopting No Estimates for Scrum Teams. Discover how to optimize your workflow and enhance team communication effectively."
+description: Explore the pros and cons of adopting No Estimates for Scrum Teams. Discover how to optimize your workflow and enhance team communication effectively.
 date: 2019-08-22
 creator: Martin Hinshelwood
 id: "39684"
@@ -8,19 +8,22 @@ layout: blog
 resourceTypes: blog
 slug: no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
 aliases:
-  - /blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
+- /blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
+- /no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
+- /no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it-
+- /blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it-
 tags:
-  - cycle-time
-  - flow
-  - product-backlog
-  - refinement
+- cycle-time
+- flow
+- product-backlog
+- refinement
 categories:
-  - agility
-  - measure-and-learn
-  - people-and-process
+- agility
+- measure-and-learn
+- people-and-process
 preview: iStock-847664136-1-1.jpg
----
 
+---
 As part of the Scrum.org webinar “Ask a Professional Scrum Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.
 
 In case you missed it, here is the recording of yesterday's Ask a Professional Scrum Trainer webinar with Martin Hinshelwood! Watch here: [http://ow.ly/ijiM50vwEkD](http://ow.ly/ijiM50vwEkD)

@@ -3,6 +3,7 @@ title: Do you think we are on the slope of enlightenment in Gartner's Hype Cycle
 description: "Explore Agile's journey from disillusionment to enlightenment with Martin as he uncovers truths, debunks myths, and sets realistic expectations. \U0001F680\U0001F4A1"
 date: 2023-11-26
 videoId: 3NtGxZfuBnU
+source: internal
 url: /resources/videos/:slug
 slug: do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner-s-hype-cycle
 preview: https://i.ytimg.com/vi/3NtGxZfuBnU/maxresdefault.jpg
@@ -12,6 +13,7 @@ aliases:
 - /resources/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartners-hype-cycle
 - /resources/videos/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner's-hype-cycle
 - /resources/videos/3NtGxZfuBnU
+- /resources/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner's-hype-cycle
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -82,9 +84,3 @@ How do we, as organizations, leaders, and teams, approach this journey toward en
 So, are we there yet?  
 
 In the broader landscape, perhaps not. But the slope of enlightenment is within sight. The more we focus on people, the closer we get to realizing the Agile dream. It's an uphill climb, but the view from the top promises a revolution in how we work, collaborate, and succeed. 🏔️🌄
-
-
-
-
-
-

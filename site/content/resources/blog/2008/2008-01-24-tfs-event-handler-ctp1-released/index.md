@@ -1,6 +1,6 @@
 ---
 title: TFS Event Handler CTP1 Released
-description: "Discover the newly released TFS Event Handler CTP1! Explore its features, limitations, and plans for future updates to enhance your development workflow."
+description: Discover the newly released TFS Event Handler CTP1! Explore its features, limitations, and plans for future updates to enhance your development workflow.
 date: 2008-01-24
 creator: Martin Hinshelwood
 id: "261"
@@ -8,21 +8,22 @@ layout: blog
 resourceTypes: blog
 slug: tfs-event-handler-ctp1-released
 aliases:
-  - /blog/tfs-event-handler-ctp1-released
+- /blog/tfs-event-handler-ctp1-released
+- /tfs-event-handler-ctp1-released
 tags:
-  - code
-  - infrastructure
-  - tfs
-  - tfs2008
-  - tools
-  - visual-studio
-  - vs2008
-  - wit
+- code
+- infrastructure
+- tfs
+- tfs2008
+- tools
+- visual-studio
+- vs2008
+- wit
 categories:
-  - code-and-complexity
+- code-and-complexity
 preview: metro-visual-studio-2005-128-link-4-1.png
----
 
+---
 I have just released a [new version](http://www.codeplex.com/TFSEventHandler/Release/ProjectReleases.aspx?ReleaseId=3910) of the [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") Event Handler. This is a really rough version and you should not be used in a production environment.
 
 Event handler system will work in this version, but a manual config is required, and the user interface is a bit flaky. Also all errors that occur in an individual handlers are ignored.

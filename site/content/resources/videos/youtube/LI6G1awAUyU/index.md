@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=LI6G1awAUyU
 aliases:
 - /resources/videos/LI6G1awAUyU
 - /resources/videos/what-are-the-most-common-challenges-you-are-contracted-to-solve-in-a-devops-consulting-gig-
+- /resources/what-are-the-most-common-challenges-you-are-contracted-to-solve-in-a-devops-consulting-gig-
 preview: https://i.ytimg.com/vi/LI6G1awAUyU/maxresdefault.jpg
 duration: 370
 isShort: false
@@ -54,4 +55,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=LI6G1awAUyU)
-

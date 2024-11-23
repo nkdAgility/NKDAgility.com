@@ -1,6 +1,6 @@
 ---
 title: List all files changed under an Iteration
-description: "Discover how to list all files changed under a specific iteration using TFS API calls. Streamline your version control process with this practical guide!"
+description: Discover how to list all files changed under a specific iteration using TFS API calls. Streamline your version control process with this practical guide!
 date: 2009-07-22
 creator: Martin Hinshelwood
 id: "99"
@@ -8,21 +8,22 @@ layout: blog
 resourceTypes: blog
 slug: list-all-files-changed-under-an-iteration
 aliases:
-  - /blog/list-all-files-changed-under-an-iteration
+- /blog/list-all-files-changed-under-an-iteration
+- /list-all-files-changed-under-an-iteration
 tags:
-  - code
-  - iteration
-  - tfs
-  - tfs2008
-  - tools
-  - version-control
-  - wit
+- code
+- iteration
+- tfs
+- tfs2008
+- tools
+- version-control
+- wit
 categories:
-  - code-and-complexity
-  - me
+- code-and-complexity
+- me
 preview: metro-visual-studio-2005-128-link-1-1.png
----
 
+---
 I was asked by a colleague to provide a list of all files that were changed under a particular iteration. Rather than delving into the data, I made a couple of API calls to TFS to output a text file with the list.
 
 This is probably not the most efficient method and it is hard coded, but it does output the goods:

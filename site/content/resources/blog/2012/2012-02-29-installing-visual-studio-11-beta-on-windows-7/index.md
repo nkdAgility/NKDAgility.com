@@ -1,6 +1,6 @@
 ---
 title: Installing Visual Studio 11 on Windows 7
-description: "Discover how to install Visual Studio 11 on Windows 7 effortlessly. Explore its new features and enjoy a streamlined setup for your development needs!"
+description: Discover how to install Visual Studio 11 on Windows 7 effortlessly. Explore its new features and enjoy a streamlined setup for your development needs!
 date: 2012-02-29
 creator: Martin Hinshelwood
 id: "4727"
@@ -8,14 +8,17 @@ layout: blog
 resourceTypes: blog
 slug: installing-visual-studio-11-beta-on-windows-7
 aliases:
-  - /blog/installing-visual-studio-11-beta-on-windows-7
+- /blog/installing-visual-studio-11-beta-on-windows-7
+- /installing-visual-studio-11-beta-on-windows-7
+- /installing-visual-studio-11-on-windows-7
+- /blog/installing-visual-studio-11-on-windows-7
 tags:
-  - nwcadence
-  - tools
-  - visual-studio
-  - vs2012
----
+- nwcadence
+- tools
+- visual-studio
+- vs2012
 
+---
 With the launch of Visual Studio 11 beta and that it is [fully supported in production](http://blog.nwcadence.com/go-live-with-visual-studio-11-beta-3/) I wanted to update my laptop with the bits. I have a presentation on Friday of [what's new in Visual Studio 11](http://blog.hinshelwood.com/events/) and I will show some of the new features there.
 
 [![image](images/image_thumb40-1-1.png "image")](http://blog.hinshelwood.com/files/2012/02/image40.png)  

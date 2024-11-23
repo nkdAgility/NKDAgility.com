@@ -1,6 +1,6 @@
 ---
 title: Searching for self-organisation
-description: "Explore the journey to self-organisation in teams. Discover strategies to foster accountability, identity, and high performance for agile success."
+description: Explore the journey to self-organisation in teams. Discover strategies to foster accountability, identity, and high performance for agile success.
 date: 2013-07-31
 creator: Martin Hinshelwood
 id: "9741"
@@ -8,21 +8,22 @@ layout: blog
 resourceTypes: blog
 slug: searching-for-self-organisation
 aliases:
-  - /blog/searching-for-self-organisation
+- /blog/searching-for-self-organisation
+- /searching-for-self-organisation
 tags:
-  - culture
-  - development-team
-  - improve
-  - project-manager
-  - self-organisation
-  - strategic
-  - team
-  - teams
+- culture
+- development-team
+- improve
+- project-manager
+- self-organisation
+- strategic
+- team
+- teams
 categories:
-  - people-and-process
+- people-and-process
 preview: nakedalm-experts-professional-scrum-1-1.png
----
 
+---
 Many companies have started searching for self-organisation. That ideal or nirvana where teams can figure out how to work together effectively with limited or little direction to solve problems.
 
 Many, including some of my colleagues, believe that this search for self-organisation is ultimately fruitless. While many of our customers don’t initially believe in its existence because they have never seen it my colleagues think it impossible because they see company after company fail to achieve it. This is mostly as companies that call use are not ding so because they are awesome but instead because they see that they have some problem that needs looking into. These companies, while realising the need to change, tend to have an organisational structure and culture that presents an anti-pattern for self organising teams to ever exist. Oh, you will occasionally find small pockets of self-organisation within an organisation but if anyone tries to roll this dynamic out, it is ultimately demonstrated as unworkable due to those anti-patterns and those required traits and patterns are then ground out of people.

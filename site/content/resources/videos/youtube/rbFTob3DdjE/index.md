@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=rbFTob3DdjE
 aliases:
 - /resources/videos/rbFTob3DdjE
 - /resources/videos/5-tools-that-scrum-masters-love-part-2
+- /resources/5-tools-that-scrum-masters-love-part-2
 preview: https://i.ytimg.com/vi/rbFTob3DdjE/maxresdefault.jpg
 duration: 39
 isShort: true
@@ -45,4 +46,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=rbFTob3DdjE)
-

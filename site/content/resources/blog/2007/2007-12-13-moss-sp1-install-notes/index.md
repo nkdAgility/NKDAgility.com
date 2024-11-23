@@ -1,6 +1,6 @@
 ---
 title: MOSS SP1 Install Notes
-description: "Explore essential installation notes for MOSS SP1, including prerequisites and download links, to ensure a smooth SharePoint upgrade experience."
+description: Explore essential installation notes for MOSS SP1, including prerequisites and download links, to ensure a smooth SharePoint upgrade experience.
 date: 2007-12-13
 creator: Martin Hinshelwood
 id: "277"
@@ -8,19 +8,20 @@ layout: blog
 resourceTypes: blog
 slug: moss-sp1-install-notes
 aliases:
-  - /blog/moss-sp1-install-notes
+- /blog/moss-sp1-install-notes
+- /moss-sp1-install-notes
 tags:
-  - infrastructure
-  - sharepoint
-  - sp2007
-  - spf2010
-  - tools
+- infrastructure
+- sharepoint
+- sp2007
+- spf2010
+- tools
 categories:
-  - products-and-books
-  - upgrade-and-maintenance
+- products-and-books
+- upgrade-and-maintenance
 preview: metro-sharepoint-128-link-1-1.png
----
 
+---
 I thought I should create this blog as I am going along because I usually forget some critical item that gubs my server if I try it again ![smile_nerd](images/smile_nerd-2-2.gif)
 { .post-img }
 

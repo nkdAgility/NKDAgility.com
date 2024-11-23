@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=1TaIjFL-0o8
 aliases:
 - /resources/videos/1TaIjFL-0o8
 - /resources/videos/what-is-the-most-common-epiphany-in-a-psm-ii-course-
+- /resources/what-is-the-most-common-epiphany-in-a-psm-ii-course-
 preview: https://i.ytimg.com/vi/1TaIjFL-0o8/maxresdefault.jpg
 duration: 220
 isShort: false
@@ -51,4 +52,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=1TaIjFL-0o8)
-

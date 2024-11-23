@@ -1,6 +1,6 @@
 ---
 title: What is Taylorism, and why Waterfall is just the tip of the iceberg!
-description: "Explore the roots of Taylorism and its impact on modern project management. Discover why traditional methods may hinder innovation and employee engagement."
+description: Explore the roots of Taylorism and its impact on modern project management. Discover why traditional methods may hinder innovation and employee engagement.
 date: 2021-01-18
 creator: Martin Hinshelwood
 id: "45392"
@@ -8,17 +8,20 @@ layout: blog
 resourceTypes: blog
 slug: what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
 aliases:
-  - /blog/what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
+- /blog/what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
+- /what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
+- /what-is-taylorism,-and-why-waterfall-is-just-the-tip-of-the-iceberg-
+- /blog/what-is-taylorism,-and-why-waterfall-is-just-the-tip-of-the-iceberg-
 tags:
-  - featured
-  - taylorism
-  - traditional-project-management
-  - waterfall
+- featured
+- taylorism
+- traditional-project-management
+- waterfall
 categories:
-  - people-and-process
+- people-and-process
 preview: naked-agility-with-martin-hinshelwood-iceberg-11-10.jpg
----
 
+---
 For many people the traditional project management methodologies (see PMI / PRINCE2) are the root of the problems that birthed Waterfall. I assert that this is the tip of the iceberg. These methodologies are just a symptom of a greater problem that has its roots in the changes made during the industrial revolution. These changes, while they generated great amounts of wealth and many jobs around the world,  dehumanised work and destroyed the essence of value and discovery that brought humanity to where it is now. It created processes that turned people into little more than sophisticated robots and enshrined that thinking into the very core of how we do things.
 
 **These practices, which spread like cancer, have been seeded around the world by the Master of Business Administration (MBA). These practices have been calcified in the malignant bureaucracy that can be likened to an iceberg that may very well sink your company.**

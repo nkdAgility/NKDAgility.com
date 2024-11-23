@@ -1,6 +1,6 @@
 ---
 title: Fail a build if tests fail
-description: "Learn how to configure TFS2008 to fail builds when tests fail, ensuring quality in your development process. Enhance your build management today!"
+description: Learn how to configure TFS2008 to fail builds when tests fail, ensuring quality in your development process. Enhance your build management today!
 date: 2009-05-01
 creator: Martin Hinshelwood
 id: "127"
@@ -8,15 +8,16 @@ layout: blog
 resourceTypes: blog
 slug: fail-a-build-if-tests-fail
 aliases:
-  - /blog/fail-a-build-if-tests-fail
+- /blog/fail-a-build-if-tests-fail
+- /fail-a-build-if-tests-fail
 tags:
-  - tfs-build
-  - tfs
-  - tfs2008
-  - tools
+- tfs-build
+- tfs
+- tfs2008
+- tools
 preview: metro-visual-studio-2005-128-link-1-1.png
----
 
+---
 It took me longer than I thought it would to find this, but is you are using TFS2008 and you want builds to fail if any of the tests fail then you can add the following to the tests properties group in your build project (TFSBuild.prof)
 
 ```

@@ -3,6 +3,7 @@ title: Why does project management not work in complex environments?
 description: 'Discover why traditional project management fails in complex environments. Martin Hinshelwood explains the need for agile solutions. #agile #projectmanagement'
 date: 2023-10-10
 videoId: lvg9gSLntqY
+source: internal
 url: /resources/videos/:slug
 slug: why-does-project-management-not-work-in-complex-environments
 preview: https://i.ytimg.com/vi/lvg9gSLntqY/maxresdefault.jpg
@@ -12,6 +13,7 @@ aliases:
 - /resources/why-does-project-management-not-work-in-complex-environments
 - /resources/videos/why-does-project-management-not-work-in-complex-environments-
 - /resources/videos/lvg9gSLntqY
+- /resources/why-does-project-management-not-work-in-complex-environments-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -61,9 +63,3 @@ The following types of Project Management show the different approaches that sho
 Struggling to manage projects in complex environments?  🔔
 
 Explore my Agile and Scrum courses for a fresh perspective and effective tools!
-
-
-
-
-
-

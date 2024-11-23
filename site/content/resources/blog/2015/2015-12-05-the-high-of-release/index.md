@@ -1,6 +1,6 @@
 ---
 title: The High of Release
-description: "Explore the new web-based Release Management tools from Microsoft, designed to enhance DevOps and streamline your release pipelines for engineering excellence."
+description: Explore the new web-based Release Management tools from Microsoft, designed to enhance DevOps and streamline your release pipelines for engineering excellence.
 date: 2015-12-05
 creator: Martin Hinshelwood
 id: "11398"
@@ -8,14 +8,15 @@ layout: blog
 resourceTypes: blog
 slug: the-high-of-release
 aliases:
-  - /blog/the-high-of-release
+- /blog/the-high-of-release
+- /the-high-of-release
 tags:
-  - developers
+- developers
 categories:
-  - news-and-reviews
+- news-and-reviews
 preview: 2016-01-04_15-52-31-1-1.png
----
 
+---
 Just a week or so ago I was at Microsoft Future Decoded event in London to talk about the new Release Management tools that will be made available at [Connect()](https://channel9.msdn.com/Events/Visual-Studio/Connect-event-2015/) and that might make it in to TFS 2015 Update 2. Here is hoping! The focus of the track was on DevOps and the focus of my session was on both Build and Release.
 
 Microsoft have created a rich set of web based tooling that can allow you to build reliable release pipelines that meet the needs of your teams striving towards engineering excellence. My favourite thing about the new tooling is that rather than focus on building full stack tools, they are focusing on orchestration and integration. If you want to use Chef, Puppet, or Docker to physically release your software then that's up to you. If you want to use PowerShell DSC, or just plain old PowerShell, then you can do that as well. And if you just want to build a custom task to deploy your software using PowerShell, ShellScript, or anything else you desire, then you can do that to.

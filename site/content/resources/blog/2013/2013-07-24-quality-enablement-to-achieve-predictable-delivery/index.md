@@ -1,6 +1,6 @@
 ---
 title: Quality enablement to achieve predictable delivery
-description: "Achieve predictable software delivery by establishing quality enablement. Learn key strategies to enhance your development process and reduce bugs."
+description: Achieve predictable software delivery by establishing quality enablement. Learn key strategies to enhance your development process and reduce bugs.
 date: 2013-07-24
 creator: Martin Hinshelwood
 id: "9737"
@@ -8,22 +8,23 @@ layout: blog
 resourceTypes: blog
 slug: quality-enablement-to-achieve-predictable-delivery
 aliases:
-  - /blog/quality-enablement-to-achieve-predictable-delivery
+- /blog/quality-enablement-to-achieve-predictable-delivery
+- /quality-enablement-to-achieve-predictable-delivery
 tags:
-  - definition-of-done
-  - develop
-  - improve
-  - measure
-  - predictable-quality
-  - quality-enablement
-  - strategic
-  - testing
+- definition-of-done
+- develop
+- improve
+- measure
+- predictable-quality
+- quality-enablement
+- strategic
+- testing
 categories:
-  - measure-and-learn
-  - people-and-process
+- measure-and-learn
+- people-and-process
 preview: nakedalm-experts-professional-scrum-2-2.png
----
 
+---
 You need quality enablement to achieve predictable delivery for your organisation which takes effort to achieve.
 
 I do a lot of ALM Assessments for companies and almost every customer that I speak to has unpredictable quality in the software delivery that they receive from their teams. This is not always the Development Teams fault and is often the result of an organisation that is finely tuned to minimise the ability to have a defined and predictable level of quality. In most cases this is due to a lack of a bar that quantifies the minimum things that need to be completed in order for and organisation to understand what i involved in each delivery.

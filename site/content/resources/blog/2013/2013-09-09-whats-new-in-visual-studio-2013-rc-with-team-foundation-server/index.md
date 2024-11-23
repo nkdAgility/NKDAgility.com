@@ -1,6 +1,6 @@
 ---
 title: What's new in Visual Studio 2013 and TFS 2013 RC
-description: "Discover the latest features in Visual Studio 2013 and TFS 2013 RC. Enhance your development experience with powerful tools and agile improvements!"
+description: Discover the latest features in Visual Studio 2013 and TFS 2013 RC. Enhance your development experience with powerful tools and agile improvements!
 date: 2013-09-09
 creator: Martin Hinshelwood
 id: "10019"
@@ -8,17 +8,20 @@ layout: blog
 resourceTypes: blog
 slug: whats-new-in-visual-studio-2013-rc-with-team-foundation-server
 aliases:
-  - /blog/whats-new-in-visual-studio-2013-rc-with-team-foundation-server
+- /blog/whats-new-in-visual-studio-2013-rc-with-team-foundation-server
+- /whats-new-in-visual-studio-2013-rc-with-team-foundation-server
+- /what's-new-in-visual-studio-2013-and-tfs-2013-rc
+- /blog/what's-new-in-visual-studio-2013-and-tfs-2013-rc
 tags:
-  - tfs
-  - tfs-2013
-  - whats-new
+- tfs
+- tfs-2013
+- whats-new
 categories:
-  - products-and-books
-  - tools-and-techniques
+- products-and-books
+- tools-and-techniques
 preview: nakedalm-experts-visual-studio-alm-13-13.png
----
 
+---
 As you may have noticed the Visual Studio team has just put out a Release Candidate to the log awaited Visual Studio 2013 and TFS 2013.
 
 If you have been [unable to install Visual Studio 2013 RC on Windows 8.1 Preview](http://nkdagility.com/unable-to-install-visual-studio-2013-rc-on-windows-8-1-preview/) then you want to immediately get to grips with the new features. I would recommend that you have a look at [What's new in Visual Studio 2013 Team Foundation Server Preview](http://nkdagility.com/get-visual-studio-2013-team-foundation-server-while-its-hot/) for two reasons. I am going to assume that you have seen the aforementioned features and it should give you some idea of the pace of features improvement you get by being on the same cadence as the TFS product team.

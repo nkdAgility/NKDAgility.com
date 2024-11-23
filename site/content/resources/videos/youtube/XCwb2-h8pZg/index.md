@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=XCwb2-h8pZg
 aliases:
 - /resources/videos/XCwb2-h8pZg
 - /resources/videos/kanban-with-team-foundation-service
+- /resources/kanban-with-team-foundation-service
 preview: https://i.ytimg.com/vi/XCwb2-h8pZg/maxresdefault.jpg
 duration: 254
 isShort: false
@@ -26,4 +27,3 @@ source: youtube
 
 
 [Watch on YouTube](https://www.youtube.com/watch?v=XCwb2-h8pZg)
-

@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=b-2TDkEew2k
 aliases:
 - /resources/videos/b-2TDkEew2k
 - /resources/videos/-shorts-7-virtues-of-agile-temperance
+- /resources/-shorts-7-virtues-of-agile-temperance
 preview: https://i.ytimg.com/vi/b-2TDkEew2k/maxresdefault.jpg
 duration: 59
 isShort: true
@@ -60,4 +61,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=b-2TDkEew2k)
-

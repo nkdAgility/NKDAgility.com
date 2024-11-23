@@ -1,6 +1,6 @@
 ---
 title: Solution - SEO permanent redirects for old URL’s?
-description: "Learn how to maintain your SEO rankings with permanent redirects for old URLs. Discover effective strategies to map old links to new ones seamlessly."
+description: Learn how to maintain your SEO rankings with permanent redirects for old URLs. Discover effective strategies to map old links to new ones seamlessly.
 date: 2010-01-04
 creator: Martin Hinshelwood
 id: "73"
@@ -8,19 +8,22 @@ layout: blog
 resourceTypes: blog
 slug: solution-seo-permanent-redirects-for-old-urls
 aliases:
-  - /blog/solution-seo-permanent-redirects-for-old-urls
+- /blog/solution-seo-permanent-redirects-for-old-urls
+- /solution-seo-permanent-redirects-for-old-urls
+- /solution---seo-permanent-redirects-for-old-url’s-
+- /blog/solution---seo-permanent-redirects-for-old-url’s-
 tags:
-  - code
-  - codeproject
-  - sharepoint
-  - spf2010
-  - ssw
-  - tools
+- code
+- codeproject
+- sharepoint
+- spf2010
+- ssw
+- tools
 categories:
-  - code-and-complexity
+- code-and-complexity
 preview: metro-sharepoint-128-link-1-1.png
----
 
+---
 From time to time, your website structure may change. When this happens, you do not want to have to start from scratch with your Google rankings, so you need to map all of your Old URLs to new ones.
 
 This may seem like a trivial thing, but it is essential to keep your current rankings, that you worked hard for, intact.

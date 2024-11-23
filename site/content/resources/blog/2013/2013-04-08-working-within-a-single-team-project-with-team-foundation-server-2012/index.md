@@ -1,6 +1,6 @@
 ---
 title: Working within a single Team Project with Team Foundation Server 2012
-description: "Explore best practices for managing a single Team Project in TFS 2012, enhancing collaboration and efficiency across teams while minimizing administrative overhead."
+description: Explore best practices for managing a single Team Project in TFS 2012, enhancing collaboration and efficiency across teams while minimizing administrative overhead.
 date: 2013-04-08
 creator: Martin Hinshelwood
 id: "9431"
@@ -8,31 +8,32 @@ layout: blog
 resourceTypes: blog
 slug: working-within-a-single-team-project-with-team-foundation-server-2012
 aliases:
-  - /blog/working-within-a-single-team-project-with-team-foundation-server-2012
+- /blog/working-within-a-single-team-project-with-team-foundation-server-2012
+- /working-within-a-single-team-project-with-team-foundation-server-2012
 tags:
-  - area-hierarchy
-  - configuration
-  - excel
-  - improve
-  - infrastructure
-  - iteration-hierarchy
-  - process
-  - product
-  - project
-  - project-administrator
-  - tactical
-  - team-project
-  - teams
-  - tfs
-  - tfs2012
-  - tfvc
-  - tools
-  - wiql
+- area-hierarchy
+- configuration
+- excel
+- improve
+- infrastructure
+- iteration-hierarchy
+- process
+- product
+- project
+- project-administrator
+- tactical
+- team-project
+- teams
+- tfs
+- tfs2012
+- tfvc
+- tools
+- wiql
 categories:
-  - tools-and-techniques
+- tools-and-techniques
 preview: nakedalm-experts-visual-studio-alm-5-5.png
----
 
+---
 Working within a single Team Project with Team Foundation Server 2012 provides a lot of benefits. There are however many design consideration for working within a single team project and we need to consider all of the complexities that is entails.
 
 One of the customers that I work with has over 200 departments in their organisation that are currently using TFS and each one of those supports one or more teams building multiple products in a single team project. They do not give any of those divisions “Project Administrator” on their Team Projects and in itself sounds like a management nightmare. Why? Well that means that ANY security change needs to go through a central administrator. In order to support this type of situation we need to create some workflow for making sure that everything is setup correctly and some automation so that we can build out the correct permissions without needing direct access. But before we do that we need to look at all of the angles and design our implementation to take advantage of the features in Team Foundation Server 2012.

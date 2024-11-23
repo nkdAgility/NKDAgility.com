@@ -1,6 +1,6 @@
 ---
 title: Create a VHD from the Windows 7 Image disk
-description: "Learn how to create a VHD from a Windows 7 image disk with step-by-step instructions. Simplify your setup and enhance your system's efficiency!"
+description: Learn how to create a VHD from a Windows 7 image disk with step-by-step instructions. Simplify your setup and enhance your system's efficiency!
 date: 2009-12-07
 creator: Martin Hinshelwood
 id: "77"
@@ -8,13 +8,14 @@ layout: blog
 resourceTypes: blog
 slug: create-a-vhd-from-the-windows-7-image-disk
 aliases:
-  - /blog/create-a-vhd-from-the-windows-7-image-disk
+- /blog/create-a-vhd-from-the-windows-7-image-disk
+- /create-a-vhd-from-the-windows-7-image-disk
 tags:
-  - ssw
-  - tools
+- ssw
+- tools
 preview: metro-SSWLogo-128-link-16-16.png
----
 
+---
 This being my first week at [SSW](http://ssw.com.au "SSW - Sydney's Leading Custom Software Consultants - .NET, SQL Server, Web, Windows and SharePoint and Database Development"), and still waiting for my nice shiny new laptop to arrive, I am sitting here at my Wife’s laptop (which is PINK, a requirement to keep the [WAF](http://en.wikipedia.org/wiki/Woman_acceptance_factor) high), until it arrives.
 
 [![image](images/ConvertSSW.WIMimagetoVHD_AAC5-image_thumb_7-13-13.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ConvertSSW.WIMimagetoVHD_AAC5-image_16.png)   

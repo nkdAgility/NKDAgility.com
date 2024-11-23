@@ -3,6 +3,7 @@ title: 'There’s No Such Thing as an Agile Transformation: Why You Should Focus
 description: Uncover the truth about Agile and culture transformation with Michael Sahota. Discover why changing culture is more complex than it seems!
 date: 2024-10-03
 videoId: Ca_0rw9AUlg
+source: internal
 url: /resources/videos/:slug
 slug: theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
 preview: https://i.ytimg.com/vi/Ca_0rw9AUlg/maxresdefault.jpg
@@ -12,6 +13,7 @@ aliases:
 - /resources/theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
 - /resources/videos/there's-no-such-thing-as-an-agile-transformation-it's-a-culture-transformation-michael-sahota
 - /resources/videos/Ca_0rw9AUlg
+- /resources/there's-no-such-thing-as-an-agile-transformation-it's-a-culture-transformation-michael-sahota
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -152,9 +154,3 @@ So, how can you start focusing on the system to bring about the cultural transfo
 ## **Conclusion: Culture Is an Outcome, Not a Lever**
 
 Remember, culture is not something you can change directly. It’s an outcome of the way your organization’s system operates. If you want to see long-lasting, meaningful changes in your organization, focus on **changing the system**. By doing so, you’ll naturally shift behaviors, and the culture will follow. 🚀 **Take action now**—small changes lead to big results!
-
-
-
-
-
-

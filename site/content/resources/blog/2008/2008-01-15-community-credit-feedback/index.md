@@ -1,6 +1,6 @@
 ---
 title: Community-Credit feedback
-description: "Join the discussion on enhancing Community Credit! Share your feedback and suggestions to improve features and user experience in this vibrant forum."
+description: Join the discussion on enhancing Community Credit! Share your feedback and suggestions to improve features and user experience in this vibrant forum.
 date: 2008-01-15
 creator: Martin Hinshelwood
 id: "264"
@@ -8,14 +8,15 @@ layout: blog
 resourceTypes: blog
 slug: community-credit-feedback
 aliases:
-  - /blog/community-credit-feedback
+- /blog/community-credit-feedback
+- /community-credit-feedback
 tags:
-  - silverlight
+- silverlight
 categories:
-  - me
+- me
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 [Community Credit](http://www.community-credit.com) is getting a face lift and [David Silverlight](http://www.community-credit.com/cs/blogs/default.aspx) (yes a man so great that an entire platform was named after him) is asking for [contributions](http://www.community-credit.com/cs/forums/107/ShowForum.aspx) to this... So head on over to the [community credit forum](http://www.community-credit.com/cs/forums/107/ShowForum.aspx) and get suggesting...
 
 My Suggestions:

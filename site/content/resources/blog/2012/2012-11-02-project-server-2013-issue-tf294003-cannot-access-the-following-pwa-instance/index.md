@@ -1,6 +1,6 @@
 ---
-title: "Project Server 2013 Issue - TF294003: Cannot access the following PWA instance"
-description: "Resolve the TF294003 error in Project Server 2013 with our step-by-step guide. Learn how to configure permissions for seamless integration with TFS 2012."
+title: 'Project Server 2013 Issue - TF294003: Cannot access the following PWA instance'
+description: Resolve the TF294003 error in Project Server 2013 with our step-by-step guide. Learn how to configure permissions for seamless integration with TFS 2012.
 date: 2012-11-02
 creator: Martin Hinshelwood
 id: "9096"
@@ -8,25 +8,28 @@ layout: blog
 resourceTypes: blog
 slug: project-server-2013-issue-tf294003-cannot-access-the-following-pwa-instance
 aliases:
-  - /blog/project-server-2013-issue-tf294003-cannot-access-the-following-pwa-instance
+- /blog/project-server-2013-issue-tf294003-cannot-access-the-following-pwa-instance
+- /project-server-2013-issue-tf294003-cannot-access-the-following-pwa-instance
+- /project-server-2013-issue---tf294003--cannot-access-the-following-pwa-instance
+- /blog/project-server-2013-issue---tf294003--cannot-access-the-following-pwa-instance
 tags:
-  - configuration
-  - infrastructure
-  - project-server
-  - ps2013
-  - puzzles
-  - sharepoint
-  - sp2013
-  - tf294003
-  - tfs
-  - tfs2012
-  - tools
+- configuration
+- infrastructure
+- project-server
+- ps2013
+- puzzles
+- sharepoint
+- sp2013
+- tf294003
+- tfs
+- tfs2012
+- tools
 categories:
-  - code-and-complexity
-  - problems-and-puzzles
+- code-and-complexity
+- problems-and-puzzles
 preview: metro-problem-icon-6-6.png
----
 
+---
 When you try to call the binding command to map a Team Project Collection in Team Foundation Server 2012 to a Project Server 2013 Web Instance you can get a “TF294003” error.
 
 [![ TF294003: Cannot access the following PWA instance](images/image_thumb21-1-1.png " TF294003: Cannot access the following PWA instance")](http://blog.hinshelwood.com/files/2012/11/image21.png)  

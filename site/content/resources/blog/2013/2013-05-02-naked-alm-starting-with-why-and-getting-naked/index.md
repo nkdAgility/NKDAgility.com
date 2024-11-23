@@ -1,6 +1,6 @@
 ---
-title: "Naked ALM: starting with why and getting naked"
-description: "Discover the essence of Application Lifecycle Management with Martin Hinshelwood. Learn to improve software delivery by starting with 'why' and embracing agility."
+title: 'Naked ALM: starting with why and getting naked'
+description: Discover the essence of Application Lifecycle Management with Martin Hinshelwood. Learn to improve software delivery by starting with 'why' and embracing agility.
 date: 2013-05-02
 creator: Martin Hinshelwood
 id: "9499"
@@ -8,19 +8,22 @@ layout: blog
 resourceTypes: blog
 slug: naked-alm-starting-with-why-and-getting-naked
 aliases:
-  - /blog/naked-alm-starting-with-why-and-getting-naked
+- /blog/naked-alm-starting-with-why-and-getting-naked
+- /naked-alm-starting-with-why-and-getting-naked
+- /naked-alm--starting-with-why-and-getting-naked
+- /blog/naked-alm--starting-with-why-and-getting-naked
 tags:
-  - golden-circle
-  - improve
-  - measure
-  - why
+- golden-circle
+- improve
+- measure
+- why
 categories:
-  - me
-  - measure-and-learn
-  - people-and-process
+- me
+- measure-and-learn
+- people-and-process
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 For a long time now I have been searching for that perfect domain that epitomised the vision, the why, of what I am trying to achieve with my customers and the industry at large. Now I have found it in [http://nkdagility.com](http://nkdagility.com)
 
 I have bought a number of domains over the years that caught my eye but none of them really resonated with me on a deeper level and I lost interest after only a few short weeks. There is a lot of pain and suffering with a healthy dose of monitoring in changing your domain. Its just hassle…and not one you want to take lightly.

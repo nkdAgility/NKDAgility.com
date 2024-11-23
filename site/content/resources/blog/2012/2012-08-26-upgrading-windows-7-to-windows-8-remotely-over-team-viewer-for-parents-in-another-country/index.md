@@ -1,6 +1,6 @@
 ---
 title: Upgrading Windows 7 to Windows 8 remotely over Team Viewer for parents in another country
-description: "Learn how to upgrade Windows 7 to Windows 8 remotely using Team Viewer, making tech support for your parents across the globe a breeze!"
+description: Learn how to upgrade Windows 7 to Windows 8 remotely using Team Viewer, making tech support for your parents across the globe a breeze!
 date: 2012-08-26
 creator: Martin Hinshelwood
 id: "7712"
@@ -8,15 +8,16 @@ layout: blog
 resourceTypes: blog
 slug: upgrading-windows-7-to-windows-8-remotely-over-team-viewer-for-parents-in-another-country
 aliases:
-  - /blog/upgrading-windows-7-to-windows-8-remotely-over-team-viewer-for-parents-in-another-country
+- /blog/upgrading-windows-7-to-windows-8-remotely-over-team-viewer-for-parents-in-another-country
+- /upgrading-windows-7-to-windows-8-remotely-over-team-viewer-for-parents-in-another-country
 tags:
-  - teamviewer
-  - win8
+- teamviewer
+- win8
 categories:
-  - me
+- me
 preview: nakedalm-logo-128-link-15-15.png
----
 
+---
 Do you have parents that could not install an application let alone and operating system? Do they live in a country other than the one that you are currently in? Well mine do and the thing that helps me most in helping them is a little app called Team Viewer.
 
 [![SNAGHTML60a890c](images/SNAGHTML60a890c_thumb-16-16.png "SNAGHTML60a890c")](http://blog.hinshelwood.com/files/2012/08/SNAGHTML60a890c.png)  

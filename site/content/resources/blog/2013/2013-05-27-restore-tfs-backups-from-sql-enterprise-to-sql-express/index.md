@@ -1,6 +1,6 @@
 ---
 title: Restore TFS backups from SQL Enterprise to SQL Express
-description: "Learn how to successfully restore TFS backups from SQL Enterprise to SQL Express by removing enterprise features. Troubleshoot errors and optimize your setup!"
+description: Learn how to successfully restore TFS backups from SQL Enterprise to SQL Express by removing enterprise features. Troubleshoot errors and optimize your setup!
 date: 2013-05-27
 creator: Martin Hinshelwood
 id: "9902"
@@ -8,31 +8,32 @@ layout: blog
 resourceTypes: blog
 slug: restore-tfs-backups-from-sql-enterprise-to-sql-express
 aliases:
-  - /blog/restore-tfs-backups-from-sql-enterprise-to-sql-express
+- /blog/restore-tfs-backups-from-sql-enterprise-to-sql-express
+- /restore-tfs-backups-from-sql-enterprise-to-sql-express
 tags:
-  - 2012-2
-  - backups
-  - code
-  - configuration
-  - database
-  - mssqlserver
-  - puzzles
-  - sql
-  - sql-enterprise
-  - sql-express
-  - sql-server
-  - sql-server-error
-  - team-project-collection
-  - tfs
-  - wit
+- 2012-2
+- backups
+- code
+- configuration
+- database
+- mssqlserver
+- puzzles
+- sql
+- sql-enterprise
+- sql-express
+- sql-server
+- sql-server-error
+- team-project-collection
+- tfs
+- wit
 categories:
-  - code-and-complexity
-  - install-and-configuration
-  - problems-and-puzzles
-  - upgrade-and-maintenance
+- code-and-complexity
+- install-and-configuration
+- problems-and-puzzles
+- upgrade-and-maintenance
 preview: lazy1-5-5.jpg
----
 
+---
 You can get an error when trying to restore TFS backups that certain features are only supported on SQL Server Enterprise Edition.
 
 If you try to restore a SQL Server database that you backed up from an Enterprise version of SQL Server (and that includes Developer Edition) you may encounter an error when trying to restore that database to another SQL Server that is Standard or Express edition.

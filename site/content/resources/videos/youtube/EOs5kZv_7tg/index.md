@@ -3,6 +3,7 @@ title: Why is Johanna a great teacher for the Professional Agile Leadership - Es
 description: Discover why Joanna Plaskonka is the ideal guide for the Professional Agile Leadership Essentials course, empowering leaders to embrace agile transformation!
 date: 2023-11-17
 videoId: EOs5kZv_7tg
+source: internal
 url: /resources/videos/:slug
 slug: why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility
 preview: https://i.ytimg.com/vi/EOs5kZv_7tg/maxresdefault.jpg
@@ -13,6 +14,7 @@ aliases:
 - /resources/why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course
 - /resources/videos/why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course-
 - /resources/videos/EOs5kZv_7tg
+- /resources/why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -77,9 +79,3 @@ Our courses, curated with precision, await you.
 And if you ever want a detailed chat on any Agile, Scrum, or DevOps topic, feel free to book a coffee chat with me through Naked Agility.
 
 Stay agile, and continue sparking transformations! 🌠
-
-
-
-
-
-

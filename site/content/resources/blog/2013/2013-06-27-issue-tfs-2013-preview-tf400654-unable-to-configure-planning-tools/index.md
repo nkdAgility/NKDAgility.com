@@ -1,6 +1,6 @@
 ---
-title: "Issue [ TFS 2013 Preview ] TF400654: Unable to configure Planning Tools"
-description: "Resolve the TF400654 error in TFS 2013 Preview with our step-by-step guide. Learn to configure Planning Tools and streamline your process template."
+title: 'Issue [ TFS 2013 Preview ] TF400654: Unable to configure Planning Tools'
+description: Resolve the TF400654 error in TFS 2013 Preview with our step-by-step guide. Learn to configure Planning Tools and streamline your process template.
 date: 2013-06-27
 creator: Martin Hinshelwood
 id: "9911"
@@ -8,17 +8,20 @@ layout: blog
 resourceTypes: blog
 slug: issue-tfs-2013-preview-tf400654-unable-to-configure-planning-tools
 aliases:
-  - /blog/issue-tfs-2013-preview-tf400654-unable-to-configure-planning-tools
+- /blog/issue-tfs-2013-preview-tf400654-unable-to-configure-planning-tools
+- /issue-tfs-2013-preview-tf400654-unable-to-configure-planning-tools
+- /issue-[-tfs-2013-preview-]-tf400654--unable-to-configure-planning-tools
+- /blog/issue-[-tfs-2013-preview-]-tf400654--unable-to-configure-planning-tools
 tags:
-  - process-template
-  - puzzles
-  - tf400654
-  - tfs-2013
+- process-template
+- puzzles
+- tf400654
+- tfs-2013
 categories:
-  - problems-and-puzzles
+- problems-and-puzzles
 preview: puzzle-issue-problem-128-link-2-2.png
----
 
+---
 If you have the ‘team field’ enabled you will receive a “TF400654: Unable to configure Planning Tools” when you try to use the automatic configuration.
 
 > \[Error\] TF400654: Unable to configure Planning Tools. The following element contains an error: TypeFields/TypeField\[type='Team'\]. TF400517: The value of this element is set to: HinshLabs.Team. You must set the value to a field that exists in all of the work item types that are defined in Microsoft.FeatureCategory. The field does not exist in the following work item types: Feature.

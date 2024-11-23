@@ -1,6 +1,6 @@
 ---
 title: Integrate SharePoint 2010 with Team Foundation Server 2010
-description: "Learn how to seamlessly integrate SharePoint 2010 with Team Foundation Server 2010 for enhanced project management and collaboration. Get started now!"
+description: Learn how to seamlessly integrate SharePoint 2010 with Team Foundation Server 2010 for enhanced project management and collaboration. Get started now!
 date: 2010-05-03
 creator: Martin Hinshelwood
 id: "44"
@@ -8,26 +8,27 @@ layout: blog
 resourceTypes: blog
 slug: integrate-sharepoint-2010-with-team-foundation-server-2010
 aliases:
-  - /blog/integrate-sharepoint-2010-with-team-foundation-server-2010
+- /blog/integrate-sharepoint-2010-with-team-foundation-server-2010
+- /integrate-sharepoint-2010-with-team-foundation-server-2010
 tags:
-  - codeproject
-  - configuration
-  - infrastructure
-  - moss2007
-  - sharepoint
-  - sp2007
-  - spf2010
-  - ssw
-  - tfs
-  - tfs2008
-  - tfs2010
-  - tools
+- codeproject
+- configuration
+- infrastructure
+- moss2007
+- sharepoint
+- sp2007
+- spf2010
+- ssw
+- tfs
+- tfs2008
+- tfs2010
+- tools
 categories:
-  - code-and-complexity
-  - upgrade-and-maintenance
+- code-and-complexity
+- upgrade-and-maintenance
 preview: metro-visual-studio-2010-128-link-15-15.png
----
 
+---
 Our client is using a brand new shiny installation of SharePoint 2010, so now we need to integrate SharePoint 2010 our upgraded Team Foundation Server 2010 instance into it.
 
 In order to do that you need to run the Team Foundation Server 2010 install on the SharePoint 2010 server and choose to install only the “Extensions for SharePoint Products and Technologies”. We want out [upgraded Team Project Collection](http://blog.hinshelwood.com/archive/2010/05/03/upgrading-team-foundation-server-2008-to-2010.aspx) to create any new portal in this SharePoint 2010 server farm.

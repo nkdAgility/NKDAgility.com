@@ -1,6 +1,6 @@
 ---
 title: Create a Portfolio Backlog hierarchy in Team Foundation Server 2013
-description: "Learn to create a Portfolio Backlog hierarchy in TFS 2013 with step-by-step guidance. Enhance your agile planning and streamline project management!"
+description: Learn to create a Portfolio Backlog hierarchy in TFS 2013 with step-by-step guidance. Enhance your agile planning and streamline project management!
 date: 2013-07-08
 creator: Martin Hinshelwood
 id: "9731"
@@ -8,22 +8,23 @@ layout: blog
 resourceTypes: blog
 slug: create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
 aliases:
-  - /blog/create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
+- /blog/create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
+- /create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
 tags:
-  - agile-planning-tools
-  - agile-portfolio-management
-  - code
-  - configuration
-  - portfolio-backlog
-  - powershell
-  - tfs
-  - tfs-2013
+- agile-planning-tools
+- agile-portfolio-management
+- code
+- configuration
+- portfolio-backlog
+- powershell
+- tfs
+- tfs-2013
 categories:
-  - install-and-configuration
-  - tools-and-techniques
+- install-and-configuration
+- tools-and-techniques
 preview: nakedalm-experts-visual-studio-alm-6-6.png
----
 
+---
 There are many reasons that you would want to Create a Portfolio Backlog hierarchy in Team Foundation Server 2013 not least of which is modelling your existing processes.
 
 You can have a hierarchy five items deep with a parent child relationship between them. You will get a backlog for each one as well as cumulative flow and a board. This is awesome as you may have, for instance, Goals that break down into Feature. These goals would be the company or product goals and the features would be those things that go to achieve them.

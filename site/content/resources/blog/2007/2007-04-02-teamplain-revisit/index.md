@@ -1,6 +1,6 @@
 ---
 title: TeamPlain - Revisit
-description: "Discover a clever workaround for long project names in TeamPlain. Enhance your project management with this practical JavaScript solution. Read more!"
+description: Discover a clever workaround for long project names in TeamPlain. Enhance your project management with this practical JavaScript solution. Read more!
 date: 2007-04-02
 creator: Martin Hinshelwood
 id: "419"
@@ -8,10 +8,13 @@ layout: blog
 resourceTypes: blog
 slug: teamplain-revisit
 aliases:
-  - /blog/teamplain-revisit
+- /blog/teamplain-revisit
+- /teamplain-revisit
+- /teamplain---revisit
+- /blog/teamplain---revisit
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 I ran into some problems that I blogged on in my [TeamPlain - Install and initial views](http://team.worldnet-dev.ml.com/workitem.aspx?id=185) post. I have got a work around for the long project name problem, but it only works when you really daft project names like ours:
 
 "XXEMEA-UK-Area-Dept-BusinessUnit-\[Project Name\]"

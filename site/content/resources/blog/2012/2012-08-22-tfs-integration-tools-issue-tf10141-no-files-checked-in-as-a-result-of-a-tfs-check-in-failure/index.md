@@ -1,6 +1,6 @@
 ---
-title: "TFS Integration Tools - Issue: TF10141 No Files checked in as a result of a TFS check-in failure"
-description: "Resolve TFS check-in failures with expert insights on TF10141. Learn to troubleshoot conflicts and ensure successful migrations in your projects."
+title: 'TFS Integration Tools - Issue: TF10141 No Files checked in as a result of a TFS check-in failure'
+description: Resolve TFS check-in failures with expert insights on TF10141. Learn to troubleshoot conflicts and ensure successful migrations in your projects.
 date: 2012-08-22
 creator: Martin Hinshelwood
 id: "7402"
@@ -8,19 +8,22 @@ layout: blog
 resourceTypes: blog
 slug: tfs-integration-tools-issue-tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
 aliases:
-  - /blog/tfs-integration-tools-issue-tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
+- /blog/tfs-integration-tools-issue-tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
+- /tfs-integration-tools-issue-tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
+- /tfs-integration-tools---issue--tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
+- /blog/tfs-integration-tools---issue--tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
 tags:
-  - puzzles
-  - tf10141
-  - tf14080
-  - tf14092
-  - tfs
-  - tfs-integration-platform
+- puzzles
+- tf10141
+- tf14080
+- tf14092
+- tfs
+- tfs-integration-platform
 categories:
-  - problems-and-puzzles
+- problems-and-puzzles
 preview: metro-problem-icon-12-12.png
----
 
+---
 If you encounter a TFS check-in failure conflict type and you try the first option of “Retry the action”.
 
 [![image](images/image_thumb66-1-1.png "image")](http://blog.hinshelwood.com/files/2012/08/image66.png)  

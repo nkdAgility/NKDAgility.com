@@ -1,6 +1,6 @@
 ---
 title: Create a Standard Environment for Release Management in Azure
-description: "Learn to create a standard environment for Release Management in Azure with Visual Studio. Streamline your deployment process and enhance your workflow!"
+description: Learn to create a standard environment for Release Management in Azure with Visual Studio. Streamline your deployment process and enhance your workflow!
 date: 2014-12-04
 creator: Martin Hinshelwood
 id: "10923"
@@ -8,24 +8,27 @@ layout: blog
 resourceTypes: blog
 slug: create-standard-environment-release-management-azure
 aliases:
-  - /blog/create-standard-environment-release-management-azure
+- /blog/create-standard-environment-release-management-azure
+- /create-standard-environment-release-management-azure
+- /create-a-standard-environment-for-release-management-in-azure
+- /blog/create-a-standard-environment-for-release-management-in-azure
 tags:
-  - application-insights
-  - azure
-  - cloud-service
-  - continious-value-delivery
-  - iaas
-  - release-management
-  - resource-group
-  - standard-environments
-  - virtual-network
-  - vsteamservices
+- application-insights
+- azure
+- cloud-service
+- continious-value-delivery
+- iaas
+- release-management
+- resource-group
+- standard-environments
+- virtual-network
+- vsteamservices
 categories:
-  - install-and-configuration
-  - tools-and-techniques
+- install-and-configuration
+- tools-and-techniques
 preview: nakedalm-windows-logo-16-16.png
----
 
+---
 Next week I will be [speaking at NDC London 2014](http://nkdagility.com/ndc-london-second-look-team-foundation-server-vso/) and I have been working on my demo. Since Connect() everything for a little bit easier and I need to create an environment for Release Management for Visual Studio 2013.
 
 I have been working on a new end to end (soup to nuts) demo for Visual Studio ALM that \[tells a story\] and shows what it can do. My presentation at NDC London is aimed at those folks that have used older versions of TFS in the past and kinda think it sucks. I think they are wrong, and I want to prove it. So for the last week I have been creating a demo using:

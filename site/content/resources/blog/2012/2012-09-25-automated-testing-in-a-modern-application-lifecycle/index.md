@@ -1,6 +1,6 @@
 ---
 title: Automated Testing in a modern application lifecycle
-description: "Discover the essential role of automated testing in modern application lifecycles. Learn how to enhance software quality and streamline your development process."
+description: Discover the essential role of automated testing in modern application lifecycles. Learn how to enhance software quality and streamline your development process.
 date: 2012-09-25
 creator: Martin Hinshelwood
 id: "8868"
@@ -8,26 +8,28 @@ layout: blog
 resourceTypes: blog
 slug: automated-testing-in-a-modern-application-lifecycle
 aliases:
-  - /blog/automated-testing-in-a-modern-application-lifecycle
+- /blog/automated-testing-in-a-modern-application-lifecycle
+- /automated-testing-in-a-modern-application-lifecycle/
+- /automated-testing-in-a-modern-application-lifecycle
 tags:
-  - agile
-  - automated-testing
-  - develop
-  - infrastructure
-  - modern-alm
-  - modern-application-lifecycle
-  - practices
-  - s30d
-  - tfs
-  - tfs2012
-  - the-new-normal
-  - tools
-  - vs2012
+- agile
+- automated-testing
+- develop
+- infrastructure
+- modern-alm
+- modern-application-lifecycle
+- practices
+- s30d
+- tfs
+- tfs2012
+- the-new-normal
+- tools
+- vs2012
 categories:
-  - tools-and-techniques
+- tools-and-techniques
 preview: metro-automated-test-icon-4-4.png
----
 
+---
 If we are building software in a modern application lifecycle there is no way that we would be able to deliver modern applications without some form of automated testing. Automated testing is the one thing that makes sure that we are able to deliver working software that meets the quality bar while still keeping the cycle time at an acceptable level.
 
 While we spend a disproportionate amount of time in manual testing we also spend an obscene amount of time maintaining and supporting any code automation that we create. These automated tests can represent at least the same amount of code that is required for our application but is often dismissed as an overhead to the solution.

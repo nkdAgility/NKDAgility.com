@@ -1,6 +1,6 @@
 ---
 title: Identity crisis
-description: "Explore how Microsoft's Identity Lifecycle Manager 2007 can streamline user identity management, enhance security, and boost operational efficiency for your business."
+description: Explore how Microsoft's Identity Lifecycle Manager 2007 can streamline user identity management, enhance security, and boost operational efficiency for your business.
 date: 2007-11-28
 creator: Martin Hinshelwood
 id: "285"
@@ -8,16 +8,17 @@ layout: blog
 resourceTypes: blog
 slug: identity-crisis
 aliases:
-  - /blog/identity-crisis
+- /blog/identity-crisis
+- /identity-crisis
 tags:
-  - infrastructure
-  - off-topic
-  - tools
+- infrastructure
+- off-topic
+- tools
 categories:
-  - code-and-complexity
+- code-and-complexity
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 I am having a look at Microsoft's [Identity Lifecycle Manager 2007](http://www.microsoft.com/windowsserver/ilm2007/default.mspx) as a solution to our disparate user identity problem. Some of the bigger companies out there have solved this problem, and in many of the smaller companies it just does not exist, but we have many system that hold meta data about our employees. From HR systems to Active Directory and custom web based address books. Because of Aggreko's unprecedented growth these systems have outgrown our capacity to maintain the consistency of the data, with small groups responsible for each repository and everyone not knowing where ALL the repository's are or who controls them.
 
 The idea of [ILM](http://www.microsoft.com/windowsserver/ilm2007/default.mspx) server is to provide a single "metaverse" where all of the data is stored that has agents and adapters for all of the systems that you have. These agents and adapters are responsible for pulling and pushing the data between the stores in a consistent manor, so if HR in France updates a users job title it gets pulled into the "metaverse" and then pushed out to all of other system connected to [ILM](http://www.microsoft.com/windowsserver/ilm2007/default.mspx).

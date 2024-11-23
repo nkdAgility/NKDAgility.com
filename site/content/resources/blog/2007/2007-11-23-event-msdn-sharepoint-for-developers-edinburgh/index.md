@@ -1,6 +1,6 @@
 ---
-title: "Event: MSDN: SharePoint for Developers (Edinburgh)"
-description: "Discover insights from the MSDN event on SharePoint for Developers in Edinburgh, featuring key takeaways on WSS3.0 and MOSS 2007 for all skill levels."
+title: 'Event: MSDN: SharePoint for Developers (Edinburgh)'
+description: Discover insights from the MSDN event on SharePoint for Developers in Edinburgh, featuring key takeaways on WSS3.0 and MOSS 2007 for all skill levels.
 date: 2007-11-23
 creator: Martin Hinshelwood
 id: "288"
@@ -8,21 +8,24 @@ layout: blog
 resourceTypes: blog
 slug: event-msdn-sharepoint-for-developers-edinburgh
 aliases:
-  - /blog/event-msdn-sharepoint-for-developers-edinburgh
+- /blog/event-msdn-sharepoint-for-developers-edinburgh
+- /event-msdn-sharepoint-for-developers-edinburgh
+- /event--msdn--sharepoint-for-developers-(edinburgh)
+- /blog/event--msdn--sharepoint-for-developers-(edinburgh)
 tags:
-  - infrastructure
-  - moss2007
-  - sharepoint
-  - sp2007
-  - tools
-  - visual-studio
-  - vs2005
-  - vs2008
+- infrastructure
+- moss2007
+- sharepoint
+- sp2007
+- tools
+- visual-studio
+- vs2005
+- vs2008
 categories:
-  - events-and-presentations
+- events-and-presentations
 preview: metro-visual-studio-2005-128-link-2-2.png
----
 
+---
 Better late than never, but I [attended](http://blog.hinshelwood.com/archive/2007/11/20/VS2008-Update.aspx) a [MSDN event](https://msevents.microsoft.com/cui/EventDetail.aspx?culture=en-GB&eventid=1032355353) on Tuesday night in Edinburgh. Although I eagerly signed up for it, I did not expect to learn a lot:
 
 **Windows SharePoint 3.0** - [Martin Parry](http://www.martinparry.com/)

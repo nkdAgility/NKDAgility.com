@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=p3D5RjM5grA
 aliases:
 - /resources/videos/p3D5RjM5grA
 - /resources/videos/ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller
+- /resources/ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller
 preview: https://i.ytimg.com/vi/p3D5RjM5grA/maxresdefault.jpg
 duration: 2961
 isShort: false
@@ -31,4 +32,3 @@ source: youtube
 This week Russell Miller and I co-taught a Professional Agile Leadership class as a Live Virtual Classroom with Microsoft Teams and Mural. We will be chatting about the experiance or running Live Virtual Classrooms as well as the pros and cons of the technology choices and changes that we would make for the next one.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=p3D5RjM5grA)
-

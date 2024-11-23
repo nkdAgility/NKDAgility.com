@@ -1,6 +1,6 @@
 ---
 title: Configuring a DC in Azure for AAD integrated Release Management
-description: "Learn how to configure a Domain Controller in Azure for AAD integrated Release Management, enhancing your cloud demo capabilities with practical insights."
+description: Learn how to configure a Domain Controller in Azure for AAD integrated Release Management, enhancing your cloud demo capabilities with practical insights.
 date: 2014-11-14
 creator: Martin Hinshelwood
 id: "10865"
@@ -8,18 +8,21 @@ layout: blog
 resourceTypes: blog
 slug: configuring-dc-azure-aad-integrated-release-management
 aliases:
-  - /blog/configuring-dc-azure-aad-integrated-release-management
+- /blog/configuring-dc-azure-aad-integrated-release-management
+- /configuring-dc-azure-aad-integrated-release-management
+- /configuring-a-dc-in-azure-for-aad-integrated-release-management
+- /blog/configuring-a-dc-in-azure-for-aad-integrated-release-management
 tags:
-  - active-directory
-  - azure
-  - azure-active-directory
-  - release-management
-  - release-management-server
+- active-directory
+- azure
+- azure-active-directory
+- release-management
+- release-management-server
 categories:
-  - install-and-configuration
+- install-and-configuration
 preview: nakedalm-windows-logo-22-22.png
----
 
+---
 I will be [speaking at NDC London: Second Look, Team Foundation Server & VSO](http://nkdagility.com/ndc-london-second-look-team-foundation-server-vso/) and I am planning to be a little adventurous with the demo. For this I will be configuring a DC in Azure for AAD integrated Release Management so that I can do cloud demos.
 
 While potentially similar to the [Brian Keller VM demos](http://blogs.msdn.com/b/briankel/archive/2013/08/02/visual-studio-2013-application-lifecycle-management-virtual-machine-and-hands-on-labs-demo-scripts.aspx) I wanted a more end to end solution that was a little more real world. I decided to run everything in Azure after the success of [configuring the BKVM in Azure for Training](http://nkdagility.com/creating-training-virtual-machines-azure/). I can make no guarantees that this will end up as the final demo, but it will be fun to build.

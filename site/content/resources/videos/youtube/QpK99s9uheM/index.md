@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=QpK99s9uheM
 aliases:
 - /resources/videos/QpK99s9uheM
 - /resources/videos/is-a-scrum-master-an-agile-project-manager-
+- /resources/is-a-scrum-master-an-agile-project-manager-
 preview: https://i.ytimg.com/vi/QpK99s9uheM/maxresdefault.jpg
 duration: 48
 isShort: true
@@ -46,4 +47,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=QpK99s9uheM)
-

@@ -1,6 +1,6 @@
 ---
 title: Installing Release Management Server for TFS 2013
-description: "Learn how to install the Release Management Server for TFS 2013 with this comprehensive guide. Simplify your setup and enhance your development workflow!"
+description: Learn how to install the Release Management Server for TFS 2013 with this comprehensive guide. Simplify your setup and enhance your development workflow!
 date: 2014-01-30
 creator: Martin Hinshelwood
 id: "10351"
@@ -8,18 +8,21 @@ layout: blog
 resourceTypes: blog
 slug: installing-release-management-server-tfs-2013
 aliases:
-  - /blog/installing-release-management-server-tfs-2013
+- /blog/installing-release-management-server-tfs-2013
+- /installing-release-management-server-tfs-2013
+- /installing-release-management-server-for-tfs-2013
+- /blog/installing-release-management-server-for-tfs-2013
 tags:
-  - inrelease
-  - install
-  - release-management
-  - release-management-server
-  - tfs
-  - tfs-2013
+- inrelease
+- install
+- release-management
+- release-management-server
+- tfs
+- tfs-2013
 categories:
-  - install-and-configuration
----
+- install-and-configuration
 
+---
 Unless you have been living under a rock you might have noticed that Microsoft has added a Release Management tool to its Visual Studio product line. I have been playing with it for a while now and I think I have it figured out. However as this is a new addition to the product it is extremely poorly documented.
 
 I have just finished writing for the Release Management chapter in Professional Application Lifecycle Management with Visual Studio 2013 \[[Amazon USA](http://www.amazon.com/gp/product/1118836588/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1118836588&linkCode=as2&tag=martinhinshe-20 "Professional Application Lifecycle Management with Visual Studio 2013 on Amazon USA") | [Amazon UK](http://www.amazon.co.uk/gp/product/1118836588/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1118836588&linkCode=as2&tag=marthinssblog-21 "Professional Application Lifecycle Management with Visual Studio 2013 on Amazon UK")\] and while I covered the ALM aspects I did not really cover how to install the components. So here goes...

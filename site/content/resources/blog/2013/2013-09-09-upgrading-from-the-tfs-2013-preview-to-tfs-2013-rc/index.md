@@ -1,6 +1,6 @@
 ---
 title: Upgrading from the TFS 2013 Preview to TFS 2013 RC
-description: "Learn how to smoothly upgrade from TFS 2013 Preview to TFS 2013 RC with expert tips and a step-by-step guide for a hassle-free transition."
+description: Learn how to smoothly upgrade from TFS 2013 Preview to TFS 2013 RC with expert tips and a step-by-step guide for a hassle-free transition.
 date: 2013-09-09
 creator: Martin Hinshelwood
 id: "10041"
@@ -8,16 +8,17 @@ layout: blog
 resourceTypes: blog
 slug: upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
 aliases:
-  - /blog/upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
+- /blog/upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
+- /upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
 tags:
-  - tfs
-  - tfs-2013
-  - upgrade
+- tfs
+- tfs-2013
+- upgrade
 categories:
-  - install-and-configuration
-  - upgrade-and-maintenance
----
+- install-and-configuration
+- upgrade-and-maintenance
 
+---
 With the [TFS 2013 RC](http://nkdagility.com/whats-new-in-visual-studio-2013-rc-with-team-foundation-server/) being made available I need to upgrade one of my main customers from the TFS 2013 Preview.
 
 I have been working with a fairly progressive customer that has no qualms to using the latest version of any software as long as it is supported. They have around 500 developers in Team Foundation Server and 2-3TB of data. No that was not a typo. Although they have 500 active engineers there are around 9000 user accounts that have permission to TFS. This is the [Engaging with complexity – TFS Edition](http://nkdagility.com/engaging-with-complexity-team-foundation-server-edition/) customer that was moving through many environments. They since managed to streamline their processes and I have been working with them for a while. We have done maybe 10 to 15 upgrades of the 2TB collection across five separate environments over the last few months practicing for the production move. All with Team Foundation Server 2013 Preview. And we have had no problems at all. Indeed when we moved to 2013 many of the issues that we had disappeared.

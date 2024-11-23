@@ -1,6 +1,6 @@
 ---
-title: "TFS Integration Tools – Issue: Access denied to Program Files"
-description: "Resolve the 'Access Denied' error in TFS Integration Tools with our expert tips. Learn how to adjust permissions and keep your integration running smoothly!"
+title: 'TFS Integration Tools – Issue: Access denied to Program Files'
+description: Resolve the 'Access Denied' error in TFS Integration Tools with our expert tips. Learn how to adjust permissions and keep your integration running smoothly!
 date: 2012-07-10
 creator: Martin Hinshelwood
 id: "6113"
@@ -8,17 +8,20 @@ layout: blog
 resourceTypes: blog
 slug: tfs-integration-platform-issue-access-denied-to-program-files
 aliases:
-  - /blog/tfs-integration-platform-issue-access-denied-to-program-files
+- /blog/tfs-integration-platform-issue-access-denied-to-program-files
+- /tfs-integration-platform-issue-access-denied-to-program-files
+- /tfs-integration-tools-–-issue--access-denied-to-program-files
+- /blog/tfs-integration-tools-–-issue--access-denied-to-program-files
 tags:
-  - kb
-  - puzzles
-  - tfs2012
-  - tfs-integration-platform
+- kb
+- puzzles
+- tfs2012
+- tfs-integration-platform
 categories:
-  - problems-and-puzzles
+- problems-and-puzzles
 preview: metro-problem-icon-1-1.png
----
 
+---
 You get a Unauthorised Access Exception when the TFS Integration Platform tries to write a file to the ‘C:Program Files (x86)Microsoft Team Foundation Server Integration Tools2768.txt’ folder.
 
 [![image](images/image_thumb9.png "image")](http://vsalm.blob.core.windows.net/blog-store/files/2012/07/image9.png)  

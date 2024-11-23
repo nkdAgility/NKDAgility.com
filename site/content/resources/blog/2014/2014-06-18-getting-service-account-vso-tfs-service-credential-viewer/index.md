@@ -1,6 +1,6 @@
 ---
 title: Getting a service account for VSO with TFS Service Credential Viewer
-description: "Learn how to obtain a service account for Visual Studio Online using the TFS Service Credential Viewer. Streamline your automation tasks effortlessly!"
+description: Learn how to obtain a service account for Visual Studio Online using the TFS Service Credential Viewer. Streamline your automation tasks effortlessly!
 date: 2014-06-18
 creator: Martin Hinshelwood
 id: "10596"
@@ -8,15 +8,18 @@ layout: blog
 resourceTypes: blog
 slug: getting-service-account-vso-tfs-service-credential-viewer
 aliases:
-  - /blog/getting-service-account-vso-tfs-service-credential-viewer
+- /blog/getting-service-account-vso-tfs-service-credential-viewer
+- /getting-service-account-vso-tfs-service-credential-viewer
+- /getting-a-service-account-for-vso-with-tfs-service-credential-viewer
+- /blog/getting-a-service-account-for-vso-with-tfs-service-credential-viewer
 tags:
-  - tfs
-  - vsteamservices
+- tfs
+- vsteamservices
 categories:
-  - tools-and-techniques
+- tools-and-techniques
 preview: nakedalm-experts-visual-studio-alm-1-1.png
----
 
+---
 Have you tried to get a service account for Visual Studio Online (VSO)? Did you know that you can use the TFS Service Credential Viewer to get it.
 
 When you join a local or azure build server to your VSO account you are asked to log in with an account that is an administrator to get credentials. However it cant continue to use your credentials as your Microsoft ID token expires after 2 days and you would have to login again. Not a good experience. However there is a little bit of code that the build server uses to get a basic service username and password that it uses instead. I have used this to create unit tests that hit the TFS API’s in VSO as well as do all sorts of automated tasks that I need.

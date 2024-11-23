@@ -1,6 +1,6 @@
 ---
 title: TFS Sticky Buddy Codeplex project
-description: "Explore the TFS Sticky Buddy project, a digital whiteboard solution for Team Foundation Server that enhances project visibility and team collaboration."
+description: Explore the TFS Sticky Buddy project, a digital whiteboard solution for Team Foundation Server that enhances project visibility and team collaboration.
 date: 2008-02-05
 creator: Martin Hinshelwood
 id: "250"
@@ -8,17 +8,18 @@ layout: blog
 resourceTypes: blog
 slug: tfs-sticky-buddy-codeplex-project
 aliases:
-  - /blog/tfs-sticky-buddy-codeplex-project
+- /blog/tfs-sticky-buddy-codeplex-project
+- /tfs-sticky-buddy-codeplex-project
 tags:
-  - code
-  - tfs-sticky-buddy
-  - wit
+- code
+- tfs-sticky-buddy
+- wit
 categories:
-  - code-and-complexity
-  - me
+- code-and-complexity
+- me
 preview: metro-binary-vb-128-link-1-1.png
----
 
+---
 I hade been looking with envy at the [digital whiteboard experiment](http://www.agilemanagement.net/Articles/Weblog/DigitalWhiteboardExperime.html), and with dismay at the lack of open source for the project. So...
 
 [![DigitalWhiteboardJune2007](images/TFSStickyBuddyCodeplexproject_9FDC-DigitalWhiteboardJune2007_thumb-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TFSStickyBuddyCodeplexproject_9FDC-DigitalWhiteboardJune2007_2.png) I will be creating a version of the [Sticky Buddy idea](http://www.visualbuilder.com/viewdetail.php?group_id=43&id=532&type=1) that will run off Team Foundation Server and allow teams to display information on the status of their development on one or many projects.

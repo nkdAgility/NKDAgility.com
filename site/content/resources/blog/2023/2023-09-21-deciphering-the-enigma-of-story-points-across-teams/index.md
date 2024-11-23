@@ -1,6 +1,6 @@
 ---
 title: Deciphering the Enigma of Story Points Across Teams
-description: "Explore how to effectively use Story Points in agile teams. Discover better metrics for performance and value delivery to enhance your team's success."
+description: Explore how to effectively use Story Points in agile teams. Discover better metrics for performance and value delivery to enhance your team's success.
 date: 2023-09-21
 creator: Martin Hinshelwood
 id: "49888"
@@ -8,15 +8,16 @@ layout: blog
 resourceTypes: blog
 slug: deciphering-the-enigma-of-story-points-across-teams
 aliases:
-  - /blog/deciphering-the-enigma-of-story-points-across-teams
+- /blog/deciphering-the-enigma-of-story-points-across-teams
+- /deciphering-the-enigma-of-story-points-across-teams
 tags:
-  - featured
-  - homepage
+- featured
+- homepage
 categories:
-  - agility
+- agility
 preview: naked-agility-technically-flow-not-velocity-5-5.jpg
----
 
+---
 Over the past decade, a recurring query has been echoing in my ears: "How can we normalise Story Points across teams so that we can look across and maybe compare teams?" It's high time we address this.
 
 ### TLDR;

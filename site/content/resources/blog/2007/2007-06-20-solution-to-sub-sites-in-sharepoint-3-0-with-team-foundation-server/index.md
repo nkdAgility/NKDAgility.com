@@ -1,6 +1,6 @@
 ---
 title: Solution to sub sites in Sharepoint 3.0 with Team Foundation Server
-description: "Discover a practical solution for creating sub sites in SharePoint 3.0 with Team Foundation Server. Streamline your project management today!"
+description: Discover a practical solution for creating sub sites in SharePoint 3.0 with Team Foundation Server. Streamline your project management today!
 date: 2007-06-20
 creator: Martin Hinshelwood
 id: "376"
@@ -8,12 +8,13 @@ layout: blog
 resourceTypes: blog
 slug: solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
 aliases:
-  - /blog/solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
+- /blog/solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
+- /solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
 tags:
-  - sp2007
+- sp2007
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 This subject goes back over a number of posts:
 
 - [](http://blog.hinshelwood.com/archive/2007/05/31/Team-Foundation-Server-amp-SharePoint-3.0.aspx "Click To View Entry")[Team Foundation Server & SharePoint 3.0](http://blog.hinshelwood.com/archive/2007/05/31/Team-Foundation-Server-amp-SharePoint-3.0.aspx)

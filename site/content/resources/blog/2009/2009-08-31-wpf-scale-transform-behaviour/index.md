@@ -1,6 +1,6 @@
 ---
 title: Wpf Scale Transform Behaviour
-description: "Discover how to implement WPF Scale Transform Behavior in MVVM applications, allowing dynamic control scaling with ease. Enhance your UI today!"
+description: Discover how to implement WPF Scale Transform Behavior in MVVM applications, allowing dynamic control scaling with ease. Enhance your UI today!
 date: 2009-08-31
 creator: Martin Hinshelwood
 id: "87"
@@ -8,18 +8,19 @@ layout: blog
 resourceTypes: blog
 slug: wpf-scale-transform-behaviour
 aliases:
-  - /blog/wpf-scale-transform-behaviour
+- /blog/wpf-scale-transform-behaviour
+- /wpf-scale-transform-behaviour
 tags:
-  - code
-  - codeproject
-  - mvvm
-  - tools
-  - wpf
+- code
+- codeproject
+- mvvm
+- tools
+- wpf
 categories:
-  - code-and-complexity
+- code-and-complexity
 preview: metro-binary-vb-128-link-1-1.png
----
 
+---
 Although this post is called Scale Transform Behaviour you could use any transform / animation in its place. The purpose is to have a slider control in a menu be able to alter the scale of any number of controls within [MVVM](http://joshsmithonwpf.wordpress.com/2008/12/01/the-philosophies-of-mvvm/) views.
 
 ![image](images/WpfScaleTransformBehaviour_7143-image_-2-2.png)

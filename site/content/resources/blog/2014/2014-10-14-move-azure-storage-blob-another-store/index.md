@@ -1,6 +1,6 @@
 ---
 title: Move an Azure storage blob to another store
-description: "Learn how to efficiently move Azure storage blobs between accounts using PowerShell. Simplify your VHD management with this step-by-step guide!"
+description: Learn how to efficiently move Azure storage blobs between accounts using PowerShell. Simplify your VHD management with this step-by-step guide!
 date: 2014-10-14
 creator: Martin Hinshelwood
 id: "10778"
@@ -8,19 +8,22 @@ layout: blog
 resourceTypes: blog
 slug: move-azure-storage-blob-another-store
 aliases:
-  - /blog/move-azure-storage-blob-another-store
+- /blog/move-azure-storage-blob-another-store
+- /move-azure-storage-blob-another-store
+- /move-an-azure-storage-blob-to-another-store
+- /blog/move-an-azure-storage-blob-to-another-store
 tags:
-  - azure
-  - blob
-  - start-azurestorageblobcopy
-  - storage
-  - vhd
+- azure
+- blob
+- start-azurestorageblobcopy
+- storage
+- vhd
 categories:
-  - install-and-configuration
-  - problems-and-puzzles
+- install-and-configuration
+- problems-and-puzzles
 preview: nakedalm-windows-logo-4-4.png
----
 
+---
 Move an Azure storage blob to another store took a little bit longer than I thought that it would. All I wanted to do was move a VHD from one storage account to another. However this is a little more complicated than it seems on the surface.
 
 I am working on teaching the [Managing Projects with Microsoft Visual Studio Team Foundation Server 2013](http://nkdagility.com/training/courses/managing-projects-microsoft-visual-studio-team-foundation-server-2013/) course in Cheltenham this week and have been [creating training virtual machines in Azure](http://nkdagility.com/creating-training-virtual-machines-azure/). My template is 80GB and it is quite an arduous task to upload it. I now want to move it to a new, less temporary, home.

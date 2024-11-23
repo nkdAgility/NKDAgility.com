@@ -1,6 +1,6 @@
 ---
 title: Mask password in Jenkins when calling TEE
-description: "Learn how to mask passwords in Jenkins when using Team Explorer Everywhere to enhance security and prevent sensitive data exposure in your build logs."
+description: Learn how to mask passwords in Jenkins when using Team Explorer Everywhere to enhance security and prevent sensitive data exposure in your build logs.
 date: 2014-05-21
 creator: Martin Hinshelwood
 id: "10538"
@@ -8,18 +8,19 @@ layout: blog
 resourceTypes: blog
 slug: mask-password-in-jenkins-when-calling-tee
 aliases:
-  - /blog/mask-password-in-jenkins-when-calling-tee
+- /blog/mask-password-in-jenkins-when-calling-tee
+- /mask-password-in-jenkins-when-calling-tee
 tags:
-  - jenkins
-  - maven
-  - tfs
-  - tfs2012
-  - tfs-2012-4
+- jenkins
+- maven
+- tfs
+- tfs2012
+- tfs-2012-4
 categories:
-  - tools-and-techniques
+- tools-and-techniques
 preview: naked-alm-jenkins-logo-7-7.png
----
 
+---
 When you use the release build plugin in Jenkins to create a new release the plugin inadvertently leaves your password in clear text in the log files. We need to be able to mask password in Jenkins when calling Team Explorer Everywhere (TEE) so that we meet security requirements.
 
 As you can imagine working at a bank, they get a little…squirmy… when they see or hear about passwords being stored on viewable in the clear. If you are using TFS to do builds from Jenkins then you are likely using the command line tools that come with Team Explorer Everywhere.

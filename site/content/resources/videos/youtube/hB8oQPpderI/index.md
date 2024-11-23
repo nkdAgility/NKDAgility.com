@@ -3,6 +3,7 @@ title: One limitation of reading a book vs attending a course
 description: 'Discover the key limitation of learning Scrum from books versus hands-on training in this insightful short with Martin Hinshelwood. #Agile #Scrum #Shorts'
 date: 2023-07-26
 videoId: hB8oQPpderI
+source: internal
 url: /resources/videos/:slug
 slug: one-limitation-of-reading-a-book-vs-attending-a-course
 preview: https://i.ytimg.com/vi/hB8oQPpderI/maxresdefault.jpg
@@ -13,6 +14,7 @@ aliases:
 - /resources/one-limitation-of-a-book-versus-a-scrum-course
 - /resources/videos/one-limitation-of-a-book-versus-a-scrum-course-
 - /resources/videos/hB8oQPpderI
+- /resources/one-limitation-of-a-book-versus-a-scrum-course-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -70,9 +72,3 @@ Hashtags:        #AgileLearning #Scrum #InteractiveCourses #CollaborativeL
 General
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
-
-
-
-
-
-

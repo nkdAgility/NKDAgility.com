@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=uRqsRNq-XRY
 aliases:
 - /resources/videos/uRqsRNq-XRY
 - /resources/videos/7-signs-of-the-agile-apocalypse-judgement
+- /resources/7-signs-of-the-agile-apocalypse-judgement
 preview: https://i.ytimg.com/vi/uRqsRNq-XRY/maxresdefault.jpg
 duration: 55
 isShort: true
@@ -62,4 +63,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=uRqsRNq-XRY)
-

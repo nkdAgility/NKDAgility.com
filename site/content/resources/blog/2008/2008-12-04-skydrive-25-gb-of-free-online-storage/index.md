@@ -1,6 +1,6 @@
 ---
-title: "SkyDrive: 25 GB of free online storage"
-description: "Discover SkyDrive's 25 GB of free online storage, seamlessly integrated with Windows Live services. Share and manage your files effortlessly!"
+title: 'SkyDrive: 25 GB of free online storage'
+description: Discover SkyDrive's 25 GB of free online storage, seamlessly integrated with Windows Live services. Share and manage your files effortlessly!
 date: 2008-12-04
 creator: Martin Hinshelwood
 id: "157"
@@ -8,14 +8,17 @@ layout: blog
 resourceTypes: blog
 slug: skydrive-25-gb-of-free-online-storage
 aliases:
-  - /blog/skydrive-25-gb-of-free-online-storage
+- /blog/skydrive-25-gb-of-free-online-storage
+- /skydrive-25-gb-of-free-online-storage
+- /skydrive--25-gb-of-free-online-storage
+- /blog/skydrive--25-gb-of-free-online-storage
 tags:
-  - live
+- live
 categories:
-  - products-and-books
+- products-and-books
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 [![SkyDrive25](images/SkyDrive25GBoffreeonlinestorage_7F5A-SkyDrive25_3-6-6.png)](http://skydrive.live.com)
 { .post-img }
 

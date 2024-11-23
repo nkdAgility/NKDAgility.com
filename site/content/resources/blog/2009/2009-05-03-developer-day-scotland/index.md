@@ -1,6 +1,6 @@
 ---
 title: Developer Day Scotland
-description: "Join Developer Day Scotland for insights on refactoring, dynamic languages, and MVVM in WPF. Enhance your coding skills and connect with fellow developers!"
+description: Join Developer Day Scotland for insights on refactoring, dynamic languages, and MVVM in WPF. Enhance your coding skills and connect with fellow developers!
 date: 2009-05-03
 creator: Martin Hinshelwood
 id: "125"
@@ -8,19 +8,20 @@ layout: blog
 resourceTypes: blog
 slug: developer-day-scotland
 aliases:
-  - /blog/developer-day-scotland
+- /blog/developer-day-scotland
+- /developer-day-scotland
 tags:
-  - code
-  - events-and-presentations
-  - mvvm
-  - wpf
+- code
+- events-and-presentations
+- mvvm
+- wpf
 categories:
-  - code-and-complexity
-  - events-and-presentations
-  - me
+- code-and-complexity
+- events-and-presentations
+- me
 preview: metro-event-128-link-1-1.png
----
 
+---
 The [Developer Developer Developer](http://developerdayscotland.com) event held at [Glasgow Caledonian University](http://www.gcal.ac.uk/) (my University) yesterday was excellent. Kudos to [Colin Angus Mackay](http://blog.colinmackay.net/) and the other organisers for all of the effort they have put in once again.
 
 **Everything you wanted to know about refactoring but were afraid to ask!**

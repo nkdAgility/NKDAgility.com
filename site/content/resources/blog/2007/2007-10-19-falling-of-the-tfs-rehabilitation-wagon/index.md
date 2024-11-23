@@ -1,6 +1,6 @@
 ---
 title: Falling of the TFS rehabilitation wagon...
-description: "Explore the challenges and solutions of implementing TFS for project management at Aggreko, blending SharePoint 2007 with powerful tracking capabilities."
+description: Explore the challenges and solutions of implementing TFS for project management at Aggreko, blending SharePoint 2007 with powerful tracking capabilities.
 date: 2007-10-19
 creator: Martin Hinshelwood
 id: "298"
@@ -8,16 +8,19 @@ layout: blog
 resourceTypes: blog
 slug: falling-of-the-tfs-rehabilitation-wagon
 aliases:
-  - /blog/falling-of-the-tfs-rehabilitation-wagon
+- /blog/falling-of-the-tfs-rehabilitation-wagon
+- /falling-of-the-tfs-rehabilitation-wagon
+- /falling-of-the-tfs-rehabilitation-wagon---
+- /blog/falling-of-the-tfs-rehabilitation-wagon---
 tags:
-  - sp2007
-  - tfs
-  - tfs2005
+- sp2007
+- tfs
+- tfs2005
 categories:
-  - tools-and-techniques
+- tools-and-techniques
 preview: metro-visual-studio-2005-128-link-1-1.png
----
 
+---
 And here I though I was waving good buy to [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") in the short term, but here I am Installing it for [Aggreko](http://www.aggreko.co.uk). My boss came to me a couple of days ago and asked for a Work Item Tracking system in SharePoint 2007. I did my best, but as the requirements got more complicated and the metrics that they wanted to report on exploded, I said that TFS was the answer...
 
 This is not just a deployment of TFS for the purposes of tracking development projects. Nor is it only to be used for non-IT projects, but across the board of our companies project management. If I can prove that it will work :)

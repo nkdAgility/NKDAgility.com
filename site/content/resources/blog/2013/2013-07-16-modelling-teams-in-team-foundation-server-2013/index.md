@@ -1,6 +1,6 @@
 ---
 title: Modelling Teams in Team Foundation Server 2013
-description: "Master Team Foundation Server 2013 with expert insights on modeling teams, managing projects, and optimizing source control for enhanced collaboration."
+description: Master Team Foundation Server 2013 with expert insights on modeling teams, managing projects, and optimizing source control for enhanced collaboration.
 date: 2013-07-16
 creator: Martin Hinshelwood
 id: "9777"
@@ -8,25 +8,26 @@ layout: blog
 resourceTypes: blog
 slug: modelling-teams-in-team-foundation-server-2013
 aliases:
-  - /blog/modelling-teams-in-team-foundation-server-2013
+- /blog/modelling-teams-in-team-foundation-server-2013
+- /modelling-teams-in-team-foundation-server-2013
 tags:
-  - area-path
-  - branching
-  - configuration
-  - permissions
-  - process
-  - source-control
-  - teams
-  - tfs
-  - tfs-2013
-  - tools
-  - version-control
+- area-path
+- branching
+- configuration
+- permissions
+- process
+- source-control
+- teams
+- tfs
+- tfs-2013
+- tools
+- version-control
 categories:
-  - install-and-configuration
-  - tools-and-techniques
+- install-and-configuration
+- tools-and-techniques
 preview: nakedalm-experts-visual-studio-alm-6-6.png
----
 
+---
 Do you know what to do with Areas, Iteration, Teams, Source Control, and Security when modelling Teams in Team Foundation Server 2013?
 
 There are a number of things that we need to take into consideration when modelling Teams in Team Foundation Server 2013 and enabling a method of work that supports all of our activities. Lets say that I have a single core product that is then further customised for many customers.  In this circumstance, I have a number of Projects that are run against a single Customer that may have one or more teams. Each of these Projects exists on a single branch off of the Production branch for that customer and all work on that Project is completed against that branch.

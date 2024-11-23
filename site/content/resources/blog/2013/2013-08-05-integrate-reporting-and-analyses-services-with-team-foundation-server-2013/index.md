@@ -1,6 +1,6 @@
 ---
 title: Integrate reporting and analyses services with Team Foundation Server 2013
-description: "Learn how to integrate reporting and analysis services with Team Foundation Server 2013 to enhance your project management and data insights. Get started now!"
+description: Learn how to integrate reporting and analysis services with Team Foundation Server 2013 to enhance your project management and data insights. Get started now!
 date: 2013-08-05
 creator: Martin Hinshelwood
 id: "9875"
@@ -8,18 +8,19 @@ layout: blog
 resourceTypes: blog
 slug: integrate-reporting-and-analyses-services-with-team-foundation-server-2013
 aliases:
-  - /blog/integrate-reporting-and-analyses-services-with-team-foundation-server-2013
+- /blog/integrate-reporting-and-analyses-services-with-team-foundation-server-2013
+- /integrate-reporting-and-analyses-services-with-team-foundation-server-2013
 tags:
-  - analysis-services
-  - reporting-services
-  - sql-server
-  - sql-server-2012
-  - tfs
-  - tfs-2013
+- analysis-services
+- reporting-services
+- sql-server
+- sql-server-2012
+- tfs
+- tfs-2013
 categories:
-  - install-and-configuration
----
+- install-and-configuration
 
+---
 Did you skip reporting and now you want to integrate reporting and analyses services with Team Foundation Server 2013?
 
 Lets assume for a minute that you did not install Reporting Servers or Analysis Services with your install of Team Foundation Server 2013. I often get asked if you can add it later… and the answer is a resounding yes. This might be the same procedure if you want to have Analysis Services and Reporting Services on separate server for performance or if you just choose not to install it or even if you started with TFS Basic.

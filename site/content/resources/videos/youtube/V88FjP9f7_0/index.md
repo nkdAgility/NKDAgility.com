@@ -3,6 +3,7 @@ title: 'Quotes: Less is More. True or False?'
 description: "Explore the truth behind \"Less is More\" with Martin Hinshelwood's insights on #agile. Discover how simplicity can drive team success! #shorts #scrum"
 date: 2023-12-29
 videoId: V88FjP9f7_0
+source: internal
 url: /resources/videos/:slug
 slug: quotes-less-is-more-true-or-false
 preview: https://i.ytimg.com/vi/V88FjP9f7_0/maxresdefault.jpg
@@ -12,6 +13,7 @@ aliases:
 - /resources/quotes-less-is-more-true-or-false
 - /resources/videos/quotes-less-is-more-true-or-false-
 - /resources/videos/V88FjP9f7_0
+- /resources/quotes-less-is-more-true-or-false-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -72,9 +74,3 @@ In the world of Agile and Kanban, the mantra 'less is more' isn't just a catchy 
 **Conclusion: The Power of Strategic Focus in Agile 🎯🌟** 
 
 In Agile, doing less to achieve more is about strategic focus - doing the right things, not just doing things right. By embracing this principle, Agile teams can enhance both their productivity and the quality of their work, leading to more successful outcomes.
-
-
-
-
-
-

@@ -3,6 +3,7 @@ title: How will the Immersive Learning experience change the game for people wit
 description: "Unlock your potential! Discover how immersive learning transforms skill enhancement for experienced professionals in our latest video. \U0001F393✨"
 date: 2023-11-18
 videoId: VjPslpF3fTc
+source: internal
 url: /resources/videos/:slug
 slug: how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-couple-of-years-experience-in-the-field
 preview: https://i.ytimg.com/vi/VjPslpF3fTc/maxresdefault.jpg
@@ -82,9 +83,3 @@ If you're intrigued by the prospects of immersive learning or wish to dive deepe
 Whether you're a newbie or someone with years under their belt, there's always more to discover.  
 
 Book a coffee chat with me through Naked Agility, and let's embark on this journey together.
-
-
-
-
-
-

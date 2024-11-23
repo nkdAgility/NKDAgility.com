@@ -1,6 +1,6 @@
 ---
 title: Its that time again
-description: "Explore the journey of a developer contemplating a shift to contracting amidst life changes. Discover insights on career growth and overcoming fears."
+description: Explore the journey of a developer contemplating a shift to contracting amidst life changes. Discover insights on career growth and overcoming fears.
 date: 2007-07-16
 creator: Martin Hinshelwood
 id: "370"
@@ -8,14 +8,15 @@ layout: blog
 resourceTypes: blog
 slug: its-that-time-again
 aliases:
-  - /blog/its-that-time-again
+- /blog/its-that-time-again
+- /its-that-time-again
 tags:
-  - sp2007
+- sp2007
 categories:
-  - me
+- me
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 With a new baby, new mortgage rate and declining job satisfaction I am getting that itchy feeling in my feet. There was a time that I was allowed to Code for a living and not just support applications and document deployment strategies. I have ended up filling my free time with my love of Coding and now, with the new baby, I find that my free time is drying up.
 
 My current thoughts are to expand into the field of contracting. That way when I get board I can just not renew my contract and find some greener pastures. The reason that I have not done this is the past is fear! Fear of having no income; fear of starting something new. I feel that it is time to bite the bullet and get on the Money ladder like 50% of my coworkers...

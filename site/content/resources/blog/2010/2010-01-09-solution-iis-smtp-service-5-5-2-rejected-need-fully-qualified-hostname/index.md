@@ -1,6 +1,6 @@
 ---
-title: "Solution - IIS SMTP Service 5.5.2 rejected: need fully qualified hostname"
-description: "Resolve the IIS SMTP Service 5.5.2 error with our step-by-step guide. Ensure successful email delivery by configuring a fully qualified hostname."
+title: 'Solution - IIS SMTP Service 5.5.2 rejected: need fully qualified hostname'
+description: Resolve the IIS SMTP Service 5.5.2 error with our step-by-step guide. Ensure successful email delivery by configuring a fully qualified hostname.
 date: 2010-01-09
 creator: Martin Hinshelwood
 id: "72"
@@ -8,14 +8,17 @@ layout: blog
 resourceTypes: blog
 slug: solution-iis-smtp-service-5-5-2-rejected-need-fully-qualified-hostname
 aliases:
-  - /blog/solution-iis-smtp-service-5-5-2-rejected-need-fully-qualified-hostname
+- /blog/solution-iis-smtp-service-5-5-2-rejected-need-fully-qualified-hostname
+- /solution-iis-smtp-service-5-5-2-rejected-need-fully-qualified-hostname
+- /solution---iis-smtp-service-5-5-2-rejected--need-fully-qualified-hostname
+- /blog/solution---iis-smtp-service-5-5-2-rejected--need-fully-qualified-hostname
 tags:
-  - network
-  - ssw
-  - tools
+- network
+- ssw
+- tools
 preview: metro-SSWLogo-128-link-5-5.png
----
 
+---
 We had a small problem today with a new site we were going live with. It was refusing to send emails in 90% of cases. Problems like these are always difficult to identify, but your first step is always to enable logging.
 
 ```

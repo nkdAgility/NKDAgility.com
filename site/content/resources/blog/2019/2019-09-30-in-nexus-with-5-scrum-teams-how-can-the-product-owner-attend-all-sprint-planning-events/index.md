@@ -1,6 +1,6 @@
 ---
 title: In Nexus with 5 Scrum teams, how can the Product Owner attend all Sprint Planning events?
-description: "Discover how a Product Owner can effectively manage Sprint Planning across multiple Scrum teams in a Nexus. Enhance your Agile practices today!"
+description: Discover how a Product Owner can effectively manage Sprint Planning across multiple Scrum teams in a Nexus. Enhance your Agile practices today!
 date: 2019-09-30
 creator: Martin Hinshelwood
 id: "39855"
@@ -8,14 +8,17 @@ layout: blog
 resourceTypes: blog
 slug: in-nexus-with-5-scrum-teams-how-can-the-product-owner-attend-all-sprint-planning-events
 aliases:
-  - /blog/in-nexus-with-5-scrum-teams-how-can-the-product-owner-attend-all-sprint-planning-events
+- /blog/in-nexus-with-5-scrum-teams-how-can-the-product-owner-attend-all-sprint-planning-events
+- /in-nexus-with-5-scrum-teams-how-can-the-product-owner-attend-all-sprint-planning-events
+- /in-nexus-with-5-scrum-teams,-how-can-the-product-owner-attend-all-sprint-planning-events-
+- /blog/in-nexus-with-5-scrum-teams,-how-can-the-product-owner-attend-all-sprint-planning-events-
 tags:
-  - product-owner
+- product-owner
 categories:
-  - measure-and-learn
+- measure-and-learn
 preview: 146713119-1-1.jpg
----
 
+---
 As part of the Scrum.org webinar “Ask a Professional Scrum Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.
 
 In case you missed it, here is the recording of yesterday's Ask a Professional Scrum Trainer webinar with Martin Hinshelwood! Watch here: [http://ow.ly/ijiM50vwEkD](http://ow.ly/ijiM50vwEkD)

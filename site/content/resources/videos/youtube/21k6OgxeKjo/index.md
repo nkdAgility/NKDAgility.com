@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=21k6OgxeKjo
 aliases:
 - /resources/videos/21k6OgxeKjo
 - /resources/videos/-shorts-5-kinds-of-agile-bandits-5th-kind
+- /resources/-shorts-5-kinds-of-agile-bandits-5th-kind
 preview: https://i.ytimg.com/vi/21k6OgxeKjo/maxresdefault.jpg
 duration: 38
 isShort: true
@@ -62,4 +63,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=21k6OgxeKjo)
-

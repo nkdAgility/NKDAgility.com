@@ -1,6 +1,6 @@
 ---
 title: My first Extension method...
-description: "Explore how to enhance your .NET skills by creating extension methods in VB.NET. Learn to add functionality to Xbox Live info with practical examples!"
+description: Explore how to enhance your .NET skills by creating extension methods in VB.NET. Learn to add functionality to Xbox Live info with practical examples!
 date: 2008-01-07
 creator: Martin Hinshelwood
 id: "269"
@@ -8,14 +8,17 @@ layout: blog
 resourceTypes: blog
 slug: my-first-extension-method
 aliases:
-  - /blog/my-first-extension-method
+- /blog/my-first-extension-method
+- /my-first-extension-method
+- /my-first-extension-method---
+- /blog/my-first-extension-method---
 tags:
-  - code
+- code
 categories:
-  - code-and-complexity
+- code-and-complexity
 preview: metro-binary-vb-128-link-1-1.png
----
 
+---
 I decided as part of my .NET 3.5 learning curve to rebuild [Duncan Mackenzie](http://duncanmackenzie.net/blog/connect-your-xbox-360-gamertag-to-twitter/default.aspx)'s [Xbox to Twitter application](http://www.duncanmackenzie.net/blog/using-the-xbox-to-twitter-app-please-update-your-client/default.aspx) just for fun...
 
 When you call his web service you get a XboxInfo class back that contains all of your Xbox Live Information. I wanted to be able to add a method to this called "ToInstanceString" that I would use to both display your Status, and to detect when it had changed.

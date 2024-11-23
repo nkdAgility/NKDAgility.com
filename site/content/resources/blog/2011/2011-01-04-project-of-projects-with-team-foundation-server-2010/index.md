@@ -1,6 +1,6 @@
 ---
 title: Project of Projects with team Foundation Server 2010
-description: "Discover best practices for using Team Foundation Server 2010 effectively. Learn to structure projects intuitively for enhanced collaboration and efficiency."
+description: Discover best practices for using Team Foundation Server 2010 effectively. Learn to structure projects intuitively for enhanced collaboration and efficiency.
 date: 2011-01-04
 creator: Martin Hinshelwood
 id: "18"
@@ -8,25 +8,26 @@ layout: blog
 resourceTypes: blog
 slug: project-of-projects-with-team-foundation-server-2010
 aliases:
-  - /blog/project-of-projects-with-team-foundation-server-2010
+- /blog/project-of-projects-with-team-foundation-server-2010
+- /project-of-projects-with-team-foundation-server-2010
 tags:
-  - configuration
-  - infrastructure
-  - nwcadence
-  - one-team-project-seriese
-  - practices
-  - tfs-build
-  - tfs
-  - tfs2010
-  - tools
-  - visual-studio
-  - vs2010
+- configuration
+- infrastructure
+- nwcadence
+- one-team-project-seriese
+- practices
+- tfs-build
+- tfs
+- tfs2010
+- tools
+- visual-studio
+- vs2010
 categories:
-  - code-and-complexity
-  - tools-and-techniques
+- code-and-complexity
+- tools-and-techniques
 preview: metro-visual-studio-2010-128-link-8-8.png
----
 
+---
 It is pretty much [accepted that you should use Areas](http://blog.hinshelwood.com/archive/2010/03/09/when-should-i-use-areas-in-tfs-instead-of-team.aspx) instead of having many small Team Projects when you are using Team Foundation Server 2010. I have implemented this scenario many times and this is the current iteration of layout and considerations.
 
 [Updated 2012-08-06](#collapseOne)

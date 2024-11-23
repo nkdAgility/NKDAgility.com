@@ -1,6 +1,6 @@
 ---
 title: Release planning and predictable delivery
-description: "Master release planning and achieve predictable delivery in agile environments. Discover strategies to enhance quality and streamline your software development process."
+description: Master release planning and achieve predictable delivery in agile environments. Discover strategies to enhance quality and streamline your software development process.
 date: 2020-11-24
 creator: Martin Hinshelwood
 id: "9714"
@@ -8,28 +8,29 @@ layout: blog
 resourceTypes: blog
 slug: release-planning-and-predictable-delivery
 aliases:
-  - /blog/release-planning-and-predictable-delivery
+- /blog/release-planning-and-predictable-delivery
+- /release-planning-and-predictable-delivery
 tags:
-  - backlog-management
-  - company-culture
-  - continuous-quality
-  - define
-  - devops
-  - dod
-  - forcast
-  - homepage
-  - improve
-  - iteration
-  - product-backlog
-  - product-planning
-  - release-planning
-  - strategic
-  - the-sprint
+- backlog-management
+- company-culture
+- continuous-quality
+- define
+- devops
+- dod
+- forcast
+- homepage
+- improve
+- iteration
+- product-backlog
+- product-planning
+- release-planning
+- strategic
+- the-sprint
 categories:
-  - people-and-process
+- people-and-process
 preview: nkdAgility-habits-16x9-1280-2-2.jpg
----
 
+---
 Many organisations wrestle with the seeming incompatibility between agile and release management, and they struggle with release planning and predictable delivery.
 
 [Updated to reflect the 2020 Scrum Guide!](https://nkdagility.com/the-2020-scrum-guide/)

@@ -1,6 +1,6 @@
 ---
 title: I do continuous deliver, why should I Sprint?
-description: "Explore why Sprints are essential in Scrum, even with continuous delivery. Discover how they enhance communication, predictability, and planning in software development."
+description: Explore why Sprints are essential in Scrum, even with continuous delivery. Discover how they enhance communication, predictability, and planning in software development.
 date: 2017-05-17
 creator: Martin Hinshelwood
 id: "11885"
@@ -8,16 +8,19 @@ layout: blog
 resourceTypes: blog
 slug: continuous-deliver-sprint
 aliases:
-  - /blog/continuous-deliver-sprint
+- /blog/continuous-deliver-sprint
+- /continuous-deliver-sprint
+- /i-do-continuous-deliver,-why-should-i-sprint-
+- /blog/i-do-continuous-deliver,-why-should-i-sprint-
 tags:
-  - continious-delivery
-  - the-sprint
+- continious-delivery
+- the-sprint
 categories:
-  - agility
-  - devops
+- agility
+- devops
 preview: Continous_Delivery_by_Jez_Humble_and_David_Farley-1-1.jpg
----
 
+---
 Many folks believe that a Sprint is an arbitrary length of time in which you create and release software. They look at their continuous delivery pipeline and say to themselves; _"Why would I limit myself to shipping only once every two weeks?"_
 
 _UPDATE: Scrum.org just posted my [Scrum Tapas - Scrum and Continuous Delivery](https://www.scrum.org/resources/scrum-and-continuous-delivery) which is posted inline below._

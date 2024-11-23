@@ -1,6 +1,6 @@
 ---
 title: Uncommitted changes messing up your sync in Git with Visual Studio
-description: "Learn how uncommitted changes in Git can disrupt your sync in Visual Studio. Discover effective strategies to manage your workflow and enhance productivity."
+description: Learn how uncommitted changes in Git can disrupt your sync in Visual Studio. Discover effective strategies to manage your workflow and enhance productivity.
 date: 2014-10-16
 creator: Martin Hinshelwood
 id: "10732"
@@ -8,18 +8,21 @@ layout: blog
 resourceTypes: blog
 slug: uncommitted-changes-messing-sync-git-visual-studio
 aliases:
-  - /blog/uncommitted-changes-messing-sync-git-visual-studio
+- /blog/uncommitted-changes-messing-sync-git-visual-studio
+- /uncommitted-changes-messing-sync-git-visual-studio
+- /uncommitted-changes-messing-up-your-sync-in-git-with-visual-studio
+- /blog/uncommitted-changes-messing-up-your-sync-in-git-with-visual-studio
 tags:
-  - dvcs
-  - git
-  - svcs
-  - visual-studio-2013
-  - visual-studio
+- dvcs
+- git
+- svcs
+- visual-studio-2013
+- visual-studio
 categories:
-  - tools-and-techniques
+- tools-and-techniques
 preview: naked-alm-git-2-2.png
----
 
+---
 Sometimes when you try to Pull changes from the server to your local repository you get a "cannot pull because there are uncommitted changes". This is uncommitted changes messing up your sync
 
 I have been onsite in Athens working with a customer that is moving from StarTeam to Git. When you are moving from one source control system to another there are always difficulties and a difference in workflow between the systems. A workflow that works well in StarTeam might not in TFVC. However when you add that you are moving from a Server version Control System (SVCS) to a Distributed Version Control System (DVCS) you are going to go through a paradigm shift.

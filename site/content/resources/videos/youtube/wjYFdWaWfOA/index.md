@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=wjYFdWaWfOA
 aliases:
 - /resources/videos/wjYFdWaWfOA
 - /resources/videos/what-is-a-scrum-master-why-are-they-essential-
+- /resources/what-is-a-scrum-master-why-are-they-essential-
 preview: https://i.ytimg.com/vi/wjYFdWaWfOA/maxresdefault.jpg
 duration: 299
 isShort: false
@@ -61,4 +62,3 @@ Because you don't just need agility, you need Naked Agility.
 #scrum #projectmanagement #agilecoach #agileconsultant #scrumtraining #scrumorg #scrummaster #productowner #devops
 
 [Watch on YouTube](https://www.youtube.com/watch?v=wjYFdWaWfOA)
-

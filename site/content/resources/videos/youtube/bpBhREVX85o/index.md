@@ -3,6 +3,7 @@ title: How does scrum help leadership teams pick the most valuable work to focus
 description: Discover how Scrum empowers leadership teams to prioritise valuable work in complex environments, enhancing customer focus and organisational efficiency.
 date: 2023-03-15
 videoId: bpBhREVX85o
+source: internal
 url: /resources/videos/:slug
 slug: how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on
 preview: https://i.ytimg.com/vi/bpBhREVX85o/maxresdefault.jpg
@@ -12,6 +13,7 @@ aliases:
 - /resources/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on
 - /resources/videos/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on-
 - /resources/videos/bpBhREVX85o
+- /resources/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -78,9 +80,3 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-
-
-
-
-

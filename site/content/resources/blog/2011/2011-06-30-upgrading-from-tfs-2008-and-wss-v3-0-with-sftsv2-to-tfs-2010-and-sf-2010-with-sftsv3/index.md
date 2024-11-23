@@ -1,6 +1,6 @@
 ---
 title: Upgrading from TFS 2008 and WSS v3.0 with SfTSv2 to TFS 2010 and SF 2010 with SfTSv3
-description: "Upgrade your TFS 2008 and WSS v3.0 to TFS 2010 and SF 2010 with our detailed guide. Streamline your process and enhance your team's productivity today!"
+description: Upgrade your TFS 2008 and WSS v3.0 to TFS 2010 and SF 2010 with our detailed guide. Streamline your process and enhance your team's productivity today!
 date: 2011-06-30
 creator: Martin Hinshelwood
 id: "3279"
@@ -8,29 +8,30 @@ layout: blog
 resourceTypes: blog
 slug: upgrading-from-tfs-2008-and-wss-v3-0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3
 aliases:
-  - /blog/upgrading-from-tfs-2008-and-wss-v3-0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3
+- /blog/upgrading-from-tfs-2008-and-wss-v3-0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3
+- /upgrading-from-tfs-2008-and-wss-v3-0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3
 tags:
-  - agile
-  - code
-  - configuration
-  - infrastructure
-  - nwcadence
-  - process
-  - scrum
-  - sfts
-  - sharepoint
-  - spf2010
-  - tfs
-  - tfs2008
-  - tfs2010
-  - tools
+- agile
+- code
+- configuration
+- infrastructure
+- nwcadence
+- process
+- scrum
+- sfts
+- sharepoint
+- spf2010
+- tfs
+- tfs2008
+- tfs2010
+- tools
 categories:
-  - code-and-complexity
-  - tools-and-techniques
-  - upgrade-and-maintenance
+- code-and-complexity
+- tools-and-techniques
+- upgrade-and-maintenance
 preview: metro-visual-studio-2005-128-link-33-33.png
----
 
+---
 [![VS2008Upgrade](images/VS2008Upgrade_thumb-36-36.gif "VS2008Upgrade")](http://blog.hinshelwood.com/files/2011/05/VS2008Upgrade.gif)
 { .post-img }
 

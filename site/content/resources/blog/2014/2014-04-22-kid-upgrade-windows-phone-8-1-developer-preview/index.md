@@ -1,6 +1,6 @@
 ---
 title: Be a kid again and upgrade to Windows Phone 8.1 Developer Preview
-description: "Rediscover the joy of technology with the Windows Phone 8.1 Developer Preview. Upgrade now for exciting features and a fresh experience!"
+description: Rediscover the joy of technology with the Windows Phone 8.1 Developer Preview. Upgrade now for exciting features and a fresh experience!
 date: 2014-04-22
 creator: Martin Hinshelwood
 id: "10515"
@@ -8,17 +8,20 @@ layout: blog
 resourceTypes: blog
 slug: kid-upgrade-windows-phone-8-1-developer-preview
 aliases:
-  - /blog/kid-upgrade-windows-phone-8-1-developer-preview
+- /blog/kid-upgrade-windows-phone-8-1-developer-preview
+- /kid-upgrade-windows-phone-8-1-developer-preview
+- /be-a-kid-again-and-upgrade-to-windows-phone-8-1-developer-preview
+- /blog/be-a-kid-again-and-upgrade-to-windows-phone-8-1-developer-preview
 tags:
-  - windows
-  - windows-phone-8
-  - windows-phone-8-1
-  - windows-phone
+- windows
+- windows-phone-8
+- windows-phone-8-1
+- windows-phone
 categories:
-  - news-and-reviews
+- news-and-reviews
 preview: nakedalm-windows-logo-6-6.png
----
 
+---
 I love new things not just because they are new but because they are exiting. Discovery is something that we lose as we get older but it should be nurtured so be a kid again and upgrade to Windows Phone 8.1.
 
 As with most people that use a Windows Phone I love it. I am however unusual in that I have had Windows running on my phone since the original Orange SPV (from HTC) arrived in 2001. That’s right… I have had a smartphone in my pocket for more than 10 years.

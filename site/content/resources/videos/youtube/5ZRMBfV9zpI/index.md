@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=5ZRMBfV9zpI
 aliases:
 - /resources/videos/5ZRMBfV9zpI
 - /resources/videos/professional-scrum-master-(psm)-training-class-from-naked-agility-with-martin-hinshelwood-[mktng]
+- /resources/professional-scrum-master-(psm)-training-class-from-naked-agility-with-martin-hinshelwood-[mktng]
 preview: https://i.ytimg.com/vi/5ZRMBfV9zpI/maxresdefault.jpg
 duration: 74
 isShort: false
@@ -40,4 +41,3 @@ Our PSM class list: https://nkdagility.com/training/courses/professional-scrum-m
 MN Classroom Content Preview: https://community.nkdagility.com/courses/6859485/content
 
 [Watch on YouTube](https://www.youtube.com/watch?v=5ZRMBfV9zpI)
-

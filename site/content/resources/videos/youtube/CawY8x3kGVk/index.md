@@ -3,6 +3,7 @@ title: Scrum is like communism, it doesn't work. Myth 3.
 description: "Uncover the truth behind Scrum myths! Join Martin as he debunks misconceptions about micromanagement and developer autonomy. \U0001F4A1\U0001F3C3 #Scrum #Agile"
 date: 2024-02-29
 videoId: CawY8x3kGVk
+source: internal
 url: /resources/videos/:slug
 slug: scrum-is-like-communism-it-doesn-t-work-myth-3
 preview: https://i.ytimg.com/vi/CawY8x3kGVk/maxresdefault.jpg
@@ -12,6 +13,7 @@ aliases:
 - /resources/scrum-is-like-communism-it-doesnt-work-myth-3
 - /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-3-micromanagement,-developer-autonomy,-and-more!
 - /resources/videos/CawY8x3kGVk
+- /resources/scrum-is-like-communism-it-doesn't-work-myth-3-micromanagement,-developer-autonomy,-and-more!
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -88,9 +90,3 @@ The myth of micromanagement in Scrum serves as a reminder of the importance of c
 Remember, the transition to Agile and Scrum is as much about a shift in mindset as it is about changing practices. Let's commit to guiding our organizations through this transformation with patience, understanding, and a steadfast dedication to the core values of Scrum.
 
 _If you found this exploration of the micromanagement myth in Scrum insightful and wish to dive deeper into Agile, Scrum, or DevOps practices, feel free to reach out. Let's continue the conversation over a coffee chat and discover more ways to enhance our Agile journeys together._
-
-
-
-
-
-

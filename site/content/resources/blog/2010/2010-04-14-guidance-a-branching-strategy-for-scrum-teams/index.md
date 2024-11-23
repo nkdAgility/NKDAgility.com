@@ -1,6 +1,6 @@
 ---
-title: "Guidance: A Branching strategy for Scrum Teams"
-description: "Discover effective branching strategies for Scrum teams to enhance code quality and streamline development processes. Optimize your workflow today!"
+title: 'Guidance: A Branching strategy for Scrum Teams'
+description: Discover effective branching strategies for Scrum teams to enhance code quality and streamline development processes. Optimize your workflow today!
 date: 2010-04-14
 creator: Martin Hinshelwood
 id: "50"
@@ -8,27 +8,30 @@ layout: blog
 resourceTypes: blog
 slug: guidance-a-branching-strategy-for-scrum-teams
 aliases:
-  - /blog/guidance-a-branching-strategy-for-scrum-teams
+- /blog/guidance-a-branching-strategy-for-scrum-teams
+- /guidance-a-branching-strategy-for-scrum-teams
+- /guidance--a-branching-strategy-for-scrum-teams
+- /blog/guidance--a-branching-strategy-for-scrum-teams
 tags:
-  - codeproject
-  - configuration
-  - develop
-  - infrastructure
-  - practices
-  - process
-  - scrum
-  - sharepoint
-  - spf2010
-  - ssw
-  - tfs
-  - tfs2010
-  - visual-studio
-  - vs2010
+- codeproject
+- configuration
+- develop
+- infrastructure
+- practices
+- process
+- scrum
+- sharepoint
+- spf2010
+- ssw
+- tfs
+- tfs2010
+- visual-studio
+- vs2010
 categories:
-  - tools-and-techniques
+- tools-and-techniques
 preview: metro-visual-studio-2010-128-link-18-18.png
----
 
+---
 ![vs2010alm](images/ABranchingstrategyfor_E931-vs2010alm_-16-16.png)![image](images/ABranchingstrategyfor_E931-image_-5-10.png)Having a good branching strategy will save your bacon, or at least your code. Be careful when deviating from your branching strategy because if you do, you may be worse off than when you started!
 { .post-img }
 

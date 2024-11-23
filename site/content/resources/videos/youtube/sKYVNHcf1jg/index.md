@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=sKYVNHcf1jg
 aliases:
 - /resources/videos/sKYVNHcf1jg
 - /resources/videos/what-was-your-worst-day-as-an-agile-consultant-
+- /resources/what-was-your-worst-day-as-an-agile-consultant-
 preview: https://i.ytimg.com/vi/sKYVNHcf1jg/maxresdefault.jpg
 duration: 280
 isShort: false
@@ -52,4 +53,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=sKYVNHcf1jg)
-

@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=sbr8NkJSLPU
 aliases:
 - /resources/videos/sbr8NkJSLPU
 - /resources/videos/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
+- /resources/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
 preview: https://i.ytimg.com/vi/sbr8NkJSLPU/maxresdefault.jpg
 duration: 218
 isShort: false
@@ -66,4 +67,3 @@ Struggling to implement or optimize your Kanban strategy? We're here to help! Wh
 👉 Visit NKD Agility for more insightful videos, articles, and how-to blogs designed to empower your team and elevate your project management game.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=sbr8NkJSLPU)
-

@@ -1,6 +1,6 @@
 ---
-title: "Review Part 2: Developing with Intel Haswell Harris Beach SDS Ultrabook"
-description: "Explore the Intel Haswell Harris Beach SDS Ultrabook in this detailed review. Discover its performance, features, and tips for developers using Windows 8."
+title: 'Review Part 2: Developing with Intel Haswell Harris Beach SDS Ultrabook'
+description: Explore the Intel Haswell Harris Beach SDS Ultrabook in this detailed review. Discover its performance, features, and tips for developers using Windows 8.
 date: 2013-09-02
 creator: Martin Hinshelwood
 id: "10081"
@@ -8,18 +8,21 @@ layout: blog
 resourceTypes: blog
 slug: review-developing-intel-haswell-harris-beach-sds-ultrabook
 aliases:
-  - /blog/review-developing-intel-haswell-harris-beach-sds-ultrabook
+- /blog/review-developing-intel-haswell-harris-beach-sds-ultrabook
+- /review-developing-intel-haswell-harris-beach-sds-ultrabook
+- /review-part-2--developing-with-intel-haswell-harris-beach-sds-ultrabook
+- /blog/review-part-2--developing-with-intel-haswell-harris-beach-sds-ultrabook
 tags:
-  - develop
-  - hardware
-  - harris-beach
-  - intel
-  - review
+- develop
+- hardware
+- harris-beach
+- intel
+- review
 categories:
-  - news-and-reviews
+- news-and-reviews
 preview: Web-Intel-Metro-icon-21-21.png
----
 
+---
 It has just over a month since I received my Intel Haswell Harris Beach SDS Ultrabook from Intel to review and I have to say that I love this little laptop. I have been trying to use it exclusively and have done pretty well.
 
 - [Review Part 1: Harris Beach SDS Ultrabook from Intel with Haswell](http://nkdagility.com/review-harris-beach-sds-ultrabook-from-intel-unboxing/)

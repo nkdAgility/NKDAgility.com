@@ -1,6 +1,6 @@
 ---
 title: Team Foundation Server SharePoint Integration
-description: "Explore the integration challenges between Team Foundation Server and SharePoint 2007. Discover insights on enhancing workflows and managing work items effectively."
+description: Explore the integration challenges between Team Foundation Server and SharePoint 2007. Discover insights on enhancing workflows and managing work items effectively.
 date: 2007-10-16
 creator: Martin Hinshelwood
 id: "300"
@@ -8,19 +8,20 @@ layout: blog
 resourceTypes: blog
 slug: team-foundation-server-sharepoint-integration
 aliases:
-  - /blog/team-foundation-server-sharepoint-integration
+- /blog/team-foundation-server-sharepoint-integration
+- /team-foundation-server-sharepoint-integration
 tags:
-  - fail
-  - sharepoint
-  - sp2007
-  - tfs
-  - tfs2005
+- fail
+- sharepoint
+- sp2007
+- tfs
+- tfs2005
 categories:
-  - code-and-complexity
-  - upgrade-and-maintenance
+- code-and-complexity
+- upgrade-and-maintenance
 preview: metro-visual-studio-2005-128-link-1-1.png
----
 
+---
 Why is there not more integration found in Team Foundation Server "out-of-the-box" with SharePoint 2007. It seams obvious to me that you would want to show your Work Items in SharePoint and integrate SharePoint Workflow into Team Foundation Server. It only make sense to be able to initially create a SharePoint Work item that is a request from a user into SharePoint, have some sort of approval workflow before assigning it to a project within [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server").
 
 I think that [Mike Glaser](http://bloggingabout.net/members/Mike-Glaser.aspx)'s blog [post](http://bloggingabout.net/blogs/mglaser/archive/2007/03/30/how-about-one-team-foundation-server-portal-i-had-a-dream.aspx) on _"_[_How about one Team Foundation Server portal? I had a dream!_](http://bloggingabout.net/blogs/mglaser/archive/2007/03/30/how-about-one-team-foundation-server-portal-i-had-a-dream.aspx)_"_ hits the nail exactly on the head. Why can we not view our bugs in SharePoint and create Change requests there?

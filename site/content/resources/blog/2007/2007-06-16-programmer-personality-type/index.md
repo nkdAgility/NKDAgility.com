@@ -1,6 +1,6 @@
 ---
 title: Programmer personality type
-description: "Discover your programmer personality type! Explore the DLTB traits of a Doer, Low-level coder, team player, and liBeral programmer. Unleash your potential!"
+description: Discover your programmer personality type! Explore the DLTB traits of a Doer, Low-level coder, team player, and liBeral programmer. Unleash your potential!
 date: 2007-06-16
 creator: Martin Hinshelwood
 id: "382"
@@ -8,12 +8,13 @@ layout: blog
 resourceTypes: blog
 slug: programmer-personality-type
 aliases:
-  - /blog/programmer-personality-type
+- /blog/programmer-personality-type
+- /programmer-personality-type
 categories:
-  - me
+- me
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 Get yours [here](http://www.doolwind.com/index.php?page=11 "Programmer Personality Test").
 
 My programmer personality type is:  

@@ -1,6 +1,6 @@
 ---
 title: Visual Studio Team System 2008 Database Edition GDR has been released!
-description: "Discover the new Visual Studio Team System 2008 Database Edition GDR, featuring enhanced scalability, extensibility, and a standalone deployment engine. Download now!"
+description: Discover the new Visual Studio Team System 2008 Database Edition GDR, featuring enhanced scalability, extensibility, and a standalone deployment engine. Download now!
 date: 2008-11-26
 creator: Martin Hinshelwood
 id: "162"
@@ -8,12 +8,15 @@ layout: blog
 resourceTypes: blog
 slug: visual-studio-team-system-2008-database-edition-gdr-has-been-released
 aliases:
-  - /blog/visual-studio-team-system-2008-database-edition-gdr-has-been-released
+- /blog/visual-studio-team-system-2008-database-edition-gdr-has-been-released
+- /visual-studio-team-system-2008-database-edition-gdr-has-been-released
+- /visual-studio-team-system-2008-database-edition-gdr-has-been-released-
+- /blog/visual-studio-team-system-2008-database-edition-gdr-has-been-released-
 tags:
-  - tfs
-  - tools
----
+- tfs
+- tools
 
+---
 What a mouthful! Has there ever been any products with names as long as the Team System toolset ;), Maybe thats why it is just called [Data Dude](http://www.microsoft.com/downloads/details.aspx?FamilyID=bb3ad767-5f69-4db9-b1c9-8f55759846ed&displaylang=en).
 
 Anyway, congratulations to the [Data Dude](http://www.microsoft.com/downloads/details.aspx?FamilyID=bb3ad767-5f69-4db9-b1c9-8f55759846ed&displaylang=en) team for this wonderful piece of work. I have been following the GDR for a while and I have been very impressed with the capabilities on offer.

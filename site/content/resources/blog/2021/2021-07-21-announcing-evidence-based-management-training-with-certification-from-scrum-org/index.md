@@ -1,6 +1,6 @@
 ---
 title: Announcing Professional Agile Leadership with Evidence-Based Management Training  (PAL-EBM) from Scrum.org
-description: "Join the Professional Agile Leadership with Evidence-Based Management Training from Scrum.org. Enhance your leadership skills and create tailored metrics for success!"
+description: Join the Professional Agile Leadership with Evidence-Based Management Training from Scrum.org. Enhance your leadership skills and create tailored metrics for success!
 date: 2021-07-21
 creator: Martin Hinshelwood
 id: "46257"
@@ -8,14 +8,17 @@ layout: blog
 resourceTypes: blog
 slug: announcing-evidence-based-management-training-with-certification-from-scrum-org
 aliases:
-  - /blog/announcing-evidence-based-management-training-with-certification-from-scrum-org
+- /blog/announcing-evidence-based-management-training-with-certification-from-scrum-org
+- /announcing-evidence-based-management-training-with-certification-from-scrum-org
+- /announcing-professional-agile-leadership-with-evidence-based-management-training-(pal-ebm)-from-scrum-org
+- /blog/announcing-professional-agile-leadership-with-evidence-based-management-training-(pal-ebm)-from-scrum-org
 tags:
-  - annoucement
+- annoucement
 categories:
-  - agility
+- agility
 preview: Professional-Agile-Leadership-Evidence-Based-Management-6-6.jpg
----
 
+---
 I have been an [accredited Evidence-based Management Expert with Scrum.org](https://www.scrum.org/ebm-experts) for the last 7 years and I have been using the [Evidence-based Management Guide](https://nkdagility.com/the-evidence-based-management-guide-measuring-value-to-enable-improvement-and-agility/) to encourage leaders to make decisions based on evidence instead of gut feel.
 
 For lots of reasons that program had been taking a back burner with Scrum.org over the years. The main reason is that there is a lot of thought and practical evaluation that needs to be done to validate the ideas contained within the guide. My fellow [EBM Experts](https://www.scrum.org/ebm-experts) and I have been evaluating it with customers big and small, from defence to [police services](https://nkdagility.com/blog/professional-organisational-change-ghana-police-service/), and media to [healthcare](https://nkdagility.com/blog/professional-scrum-everyone-organisation/), we have run the numbers, crunched the data and integrated the feedback. It's time to announce the latest course in the Agile Leadership series! A one-day event, the Professional Agile Leadership with Evidence-Based Management Training with Certification (PAL-EBM).

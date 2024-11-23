@@ -1,6 +1,6 @@
 ---
 title: I messed up my work items from Excel! What now?
-description: "Learn how to recover from Excel mistakes that altered your TFS work items. Discover effective solutions to fix errors and prevent future mishaps!"
+description: Learn how to recover from Excel mistakes that altered your TFS work items. Discover effective solutions to fix errors and prevent future mishaps!
 date: 2012-02-25
 creator: Martin Hinshelwood
 id: "4609"
@@ -8,24 +8,27 @@ layout: blog
 resourceTypes: blog
 slug: i-messed-up-my-work-items-from-excel-what-now
 aliases:
-  - /blog/i-messed-up-my-work-items-from-excel-what-now
+- /blog/i-messed-up-my-work-items-from-excel-what-now
+- /i-messed-up-my-work-items-from-excel-what-now
+- /i-messed-up-my-work-items-from-excel--what-now-
+- /blog/i-messed-up-my-work-items-from-excel--what-now-
 tags:
-  - configuration
-  - define
-  - excel
-  - infrastructure
-  - puzzles
-  - tfs
-  - tfs2010
-  - tools
-  - visual-studio
-  - vs2010
+- configuration
+- define
+- excel
+- infrastructure
+- puzzles
+- tfs
+- tfs2010
+- tools
+- visual-studio
+- vs2010
 categories:
-  - code-and-complexity
-  - problems-and-puzzles
+- code-and-complexity
+- problems-and-puzzles
 preview: metro-visual-studio-2010-128-link-4-4.png
----
 
+---
 When you do a lot of editing in Excel you will sometimes make mistakes. If you are in the unfortunate situation that ended up publishing back changes to 100+ work items that you did not want to change then you can be in a world of hurt. I have a customer who has done just that and I thought some guidance on how to fix (mitigate) this situation will help everyone.
 
 - **UPDATE 2012-02-26: There is some "undocumented features" described bellow that limit the ability to run time based queries in anything but the API (see WARNINGS below)**

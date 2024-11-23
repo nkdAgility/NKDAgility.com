@@ -1,6 +1,6 @@
 ---
 title: Use corporate identities with existing VSO accounts
-description: "Learn how to configure ADFS for seamless SSO with existing VSO accounts, ensuring continuity and easy access to Azure and Office 365. Get started now!"
+description: Learn how to configure ADFS for seamless SSO with existing VSO accounts, ensuring continuity and easy access to Azure and Office 365. Get started now!
 date: 2014-10-28
 creator: Martin Hinshelwood
 id: "10797"
@@ -8,20 +8,23 @@ layout: blog
 resourceTypes: blog
 slug: use-corporate-identities-existing-vso-accounts
 aliases:
-  - /blog/use-corporate-identities-existing-vso-accounts
+- /blog/use-corporate-identities-existing-vso-accounts
+- /use-corporate-identities-existing-vso-accounts
+- /use-corporate-identities-with-existing-vso-accounts
+- /blog/use-corporate-identities-with-existing-vso-accounts
 tags:
-  - adfs
-  - azure
-  - azure-active-directory
-  - microsoft-id
-  - organisation
-  - vsteamservices
+- adfs
+- azure
+- azure-active-directory
+- microsoft-id
+- organisation
+- vsteamservices
 categories:
-  - install-and-configuration
-  - upgrade-and-maintenance
+- install-and-configuration
+- upgrade-and-maintenance
 preview: nakedalm-experts-visual-studio-alm-11-11.png
----
 
+---
 If you configure Active Directory Federated Services (ADFS) you can use corporate identities with existing VSO accounts. Link to your internal domain and you can get a completely seamless Single-Sign-on from your local network to the cloud for Office 365, SharePoint Online, and now Visual Studio Online (VSO).
 
 I have Office 365 and now that I am starting to use Azure (I have training this week), I am running into the usual authentication issue as I do not have a "single-sign-on" but instead have two. I have a Microsoft ID (martin@nakedalm.com) and an OrgId (martin@nakedalm.com) and I am getting clashes. I get a little more as they both have the same name, but for VSO this is becoming a pain and I need to switch my VSO over to OrgID. This is actually a trivial task, but you want to make sure you have continuity.

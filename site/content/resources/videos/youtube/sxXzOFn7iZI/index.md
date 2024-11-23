@@ -3,6 +3,7 @@ title: 'Hiring an Agile Coach: What You Need to Know'
 description: 'Discover 5 key factors to consider before hiring an #AgileCoach in Part 3 of our series with Martin Hinshelwood. #Agile #Scrum #ProjectManagement'
 date: 2024-09-27
 videoId: sxXzOFn7iZI
+source: internal
 url: /resources/videos/:slug
 slug: hiring-an-agile-coach-what-you-need-to-know
 preview: https://i.ytimg.com/vi/sxXzOFn7iZI/maxresdefault.jpg
@@ -12,6 +13,7 @@ aliases:
 - /resources/hiring-an-agile-coach-what-you-need-to-know
 - /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-3
 - /resources/videos/sxXzOFn7iZI
+- /resources/5-things-to-consider-before-hiring-an-agilecoach-part-3
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -156,9 +158,3 @@ So, when you're hiring an Agile coach, ask yourself: are they just a coach, or a
 🌟 **Inspiration.**
 
 That’s what makes a truly great Agile coach.
-
-
-
-
-
-

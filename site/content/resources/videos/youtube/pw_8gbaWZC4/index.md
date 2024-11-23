@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=pw_8gbaWZC4
 aliases:
 - /resources/videos/pw_8gbaWZC4
 - /resources/videos/how-top-teams-use-pull-systems!
+- /resources/how-top-teams-use-pull-systems!
 preview: https://i.ytimg.com/vi/pw_8gbaWZC4/maxresdefault.jpg
 duration: 294
 isShort: false
@@ -36,4 +37,3 @@ Visit https://www.nkdagility.com
 How does Kanban support continuous improvement in a pull based system?
 
 [Watch on YouTube](https://www.youtube.com/watch?v=pw_8gbaWZC4)
-

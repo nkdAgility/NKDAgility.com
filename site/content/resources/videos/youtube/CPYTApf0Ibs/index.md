@@ -3,6 +3,7 @@ title: Does Your Team Truly Understand Your Product Vision and Goals?
 description: "Unlock your team's potential! Discover how a shared product vision drives Agile success and empowers decision-making in this insightful video. \U0001F680"
 date: 2024-11-07
 videoId: CPYTApf0Ibs
+source: internal
 url: /resources/videos/:slug
 slug: does-your-team-truly-understand-your-product-vision-and-goals
 preview: https://i.ytimg.com/vi/CPYTApf0Ibs/maxresdefault.jpg
@@ -12,6 +13,7 @@ aliases:
 - /resources/does-your-team-truly-understand-your-product-vision-and-goals
 - "/resources/videos/secret-to-unlocking-team-potential-and-product-success-\U0001F680-the-agile-reality-check-[2-6]"
 - /resources/videos/CPYTApf0Ibs
+- "/resources/secret-to-unlocking-team-potential-and-product-success-\U0001F680-the-agile-reality-check-[2-6]"
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -126,9 +128,3 @@ If the answer to any of these questions is "no," then your organization might st
 In the end, Agile isn’t just a set of practices or a methodology—it’s a mindset. And central to this mindset is the alignment of vision, goals, and daily work. By ensuring that every team member understands and internalizes the product vision and strategic goals, you set the stage for better decision-making, stronger collaboration, and ultimately, greater value creation for your customers.
 
 Remember, it’s not just about having a vision—it’s about living it every day, in every decision, and in every action your team takes. That’s the true essence of agility. 🚀 **Take Action:** Start today by asking your team the tough questions. Do they know the vision? Do they understand the goals? And do they see how their work contributes to the bigger picture? If not, it’s time to bridge that gap and unlock the full potential of Agile within your organization.
-
-
-
-
-
-

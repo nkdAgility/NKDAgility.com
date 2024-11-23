@@ -1,6 +1,6 @@
 ---
 title: Moderating for Community-Credit
-description: "Join me as I share my experience moderating submissions for Community-Credit, a platform that rewards honesty and community engagement. Sign up and win prizes!"
+description: Join me as I share my experience moderating submissions for Community-Credit, a platform that rewards honesty and community engagement. Sign up and win prizes!
 date: 2007-09-13
 creator: Martin Hinshelwood
 id: "313"
@@ -8,12 +8,13 @@ layout: blog
 resourceTypes: blog
 slug: moderating-for-community-credit
 aliases:
-  - /blog/moderating-for-community-credit
+- /blog/moderating-for-community-credit
+- /moderating-for-community-credit
 categories:
-  - me
+- me
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 Well, today I started a new part time job that I do not get paid for, but put just as much professional interest into as may main job.
 
 I will be moderating the submissions on a really cool site:

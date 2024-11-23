@@ -1,6 +1,6 @@
 ---
 title: Testing with Test Professional 2010 and Visual Studio 2010 Ultimate
-description: "Join our Testing with Test Professional 2010 course to enhance your skills in Visual Studio ALM. Limited seats available for this remote training!"
+description: Join our Testing with Test Professional 2010 course to enhance your skills in Visual Studio ALM. Limited seats available for this remote training!
 date: 2011-09-07
 creator: Martin Hinshelwood
 id: "3776"
@@ -8,17 +8,18 @@ layout: blog
 resourceTypes: blog
 slug: testing-with-test-professional-2010-and-visual-studio-2010-ultimate
 aliases:
-  - /blog/testing-with-test-professional-2010-and-visual-studio-2010-ultimate
+- /blog/testing-with-test-professional-2010-and-visual-studio-2010-ultimate
+- /testing-with-test-professional-2010-and-visual-studio-2010-ultimate
 tags:
-  - mtm
-  - nwcadence
-  - tfs
-  - tfs2010
-  - tools
+- mtm
+- nwcadence
+- tfs
+- tfs2010
+- tools
 categories:
-  - events-and-presentations
----
+- events-and-presentations
 
+---
 ![NWC tagline logo_transparent](images/NWC-tagline-logo_transparent-1-1.png "NWC tagline logo_transparent")On Monday 24th October one of our consultants, Dan Wood, is presenting our course on Testing with Visual Studio ALM. The course is running on **Monday 24th October** and I managed to get NWC to provide 10 additional seats for you guys at the discounted rate.
 { .post-img }
 

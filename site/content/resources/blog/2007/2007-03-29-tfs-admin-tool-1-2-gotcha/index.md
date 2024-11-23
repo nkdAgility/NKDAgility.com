@@ -8,11 +8,12 @@ layout: blog
 resourceTypes: blog
 slug: tfs-admin-tool-1-2-gotcha
 aliases:
-  - /blog/tfs-admin-tool-1-2-gotcha
+- /blog/tfs-admin-tool-1-2-gotcha
+- /tfs-admin-tool-1-2-gotcha
 tags:
-  - tfs
----
+- tfs
 
+---
 I ran into a small problem with the tfs admin tool.
 
 When you add a user to a project as "Contributer" then it adds only "Publisher" to the reporting services permissions.

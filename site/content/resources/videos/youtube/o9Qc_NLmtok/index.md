@@ -3,6 +3,7 @@ title: 8-Week Immersive Learning Course in 60 Seconds
 description: Discover NKDAgility's immersive 8-week Scrum training! Engage in practical learning, reflections, and innovative assignments. Book now for a transformative experience!
 date: 2023-11-07
 videoId: o9Qc_NLmtok
+source: internal
 url: /resources/videos/:slug
 slug: 8-week-immersive-learning-course-in-60-seconds
 preview: https://i.ytimg.com/vi/o9Qc_NLmtok/maxresdefault.jpg
@@ -72,9 +73,3 @@ Dive into our immersive courses and emerge with insights and actionable strategi
 See you in class! 📖✌️
 
 Elevate your Scrum game! 🚀
-
-
-
-
-
-

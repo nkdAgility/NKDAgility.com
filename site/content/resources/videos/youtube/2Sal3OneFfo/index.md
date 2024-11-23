@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=2Sal3OneFfo
 aliases:
 - /resources/videos/2Sal3OneFfo
 - /resources/videos/azure-devops-migration-services-part-1
+- /resources/azure-devops-migration-services-part-1
 preview: https://i.ytimg.com/vi/2Sal3OneFfo/maxresdefault.jpg
 duration: 59
 isShort: true
@@ -32,4 +33,3 @@ source: youtube
 DevOps Migration Services from NKD Agility. #azure #azuredevops #devopsmigration #devopsconsulting #devopsconsultant #devopscoach #devopstraining #migration #agile #productdevelopment #productmanagement #projectmanagement #informationtechnology
 
 [Watch on YouTube](https://www.youtube.com/watch?v=2Sal3OneFfo)
-

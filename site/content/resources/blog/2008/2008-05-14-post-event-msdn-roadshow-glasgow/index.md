@@ -1,6 +1,6 @@
 ---
-title: "Post Event: MSDN Roadshow (Glasgow)"
-description: "Join Martin Hinshelwood as he shares insights from the MSDN Roadshow in Glasgow, covering ADO.NET, Data Services, and Silverlight 2. Discover more!"
+title: 'Post Event: MSDN Roadshow (Glasgow)'
+description: Join Martin Hinshelwood as he shares insights from the MSDN Roadshow in Glasgow, covering ADO.NET, Data Services, and Silverlight 2. Discover more!
 date: 2008-05-14
 creator: Martin Hinshelwood
 id: "228"
@@ -8,14 +8,17 @@ layout: blog
 resourceTypes: blog
 slug: post-event-msdn-roadshow-glasgow
 aliases:
-  - /blog/post-event-msdn-roadshow-glasgow
+- /blog/post-event-msdn-roadshow-glasgow
+- /post-event-msdn-roadshow-glasgow
+- /post-event--msdn-roadshow-(glasgow)
+- /blog/post-event--msdn-roadshow-(glasgow)
 tags:
-  - silverlight
+- silverlight
 categories:
-  - me
+- me
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 Spent the day yesterday at the MSDN Roadshow in Glasgow. It was a very good day that provided me a deeper insight into the ADO.NET Entity Framework, Data Services and Silverlight 2 (Which I like even though I did not like Silverlight 1... no JavaScript![smile_regular](images/smile_regular-2-2.gif)).
 { .post-img }
 

@@ -1,6 +1,6 @@
 ---
-title: "Office 2010 gotcha 2: Visual Studio 2008 Locks"
-description: "Discover how to resolve Visual Studio 2008 locks after installing Office 2010. Follow this simple fix to enhance your development experience!"
+title: 'Office 2010 gotcha 2: Visual Studio 2008 Locks'
+description: Discover how to resolve Visual Studio 2008 locks after installing Office 2010. Follow this simple fix to enhance your development experience!
 date: 2009-07-19
 creator: Martin Hinshelwood
 id: "100"
@@ -8,16 +8,19 @@ layout: blog
 resourceTypes: blog
 slug: office-2010-gotcha-2-visual-studio-2008-locks
 aliases:
-  - /blog/office-2010-gotcha-2-visual-studio-2008-locks
+- /blog/office-2010-gotcha-2-visual-studio-2008-locks
+- /office-2010-gotcha-2-visual-studio-2008-locks
+- /office-2010-gotcha-2--visual-studio-2008-locks
+- /blog/office-2010-gotcha-2--visual-studio-2008-locks
 tags:
-  - aggreko
-  - office
-  - tools
-  - visual-studio
-  - vs2008
+- aggreko
+- office
+- tools
+- visual-studio
+- vs2008
 preview: metro-visual-studio-2005-128-link-2-1.png
----
 
+---
 I am having a little problem with Visual Studio 2008 that only started after I had installed Office 2010. I found this interesting post on [Visual Studio 2008 Locks or Freezes in ASPX](http://abdullin.com/journal/2009/5/12/visual-studio-2008-locks-or-freezes-in-aspx.html) from [Rinat Abdullin](http://abdullin.com/) that was a complete match to the problem I am having.
 
 Basically VS just bings at you whenever you click anywhere as if there is a model dialog open after opening and trying to edit an aspx file.

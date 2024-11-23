@@ -3,6 +3,7 @@ title: Does Kanban integrate into a Scrum environment?
 description: Discover how Kanban enhances Scrum with essential metrics and insights for better project visibility and predictability. Elevate your Agile game today!
 date: 2024-06-28
 videoId: zltmMb2EbDE
+source: internal
 url: /resources/videos/:slug
 slug: does-kanban-integrate-into-a-scrum-environment
 preview: https://i.ytimg.com/vi/zltmMb2EbDE/maxresdefault.jpg
@@ -12,6 +13,7 @@ aliases:
 - /resources/does-kanban-integrate-into-a-scrum-environment
 - /resources/videos/does-kanban-integrate-with-a-scrum-environment-
 - /resources/videos/zltmMb2EbDE
+- /resources/does-kanban-integrate-with-a-scrum-environment-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -129,9 +131,3 @@ Integrating Kanban with Scrum enhances your workflow by providing the metrics an
 - **Consulting Services**: Need help implementing Kanban? Our experts are here to guide you.
 
 - **Further Reading**: Explore more about Kanban and agile methodologies on our blog.
-
-
-
-
-
-

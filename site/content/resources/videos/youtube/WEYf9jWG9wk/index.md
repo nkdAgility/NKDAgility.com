@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=WEYf9jWG9wk
 aliases:
 - /resources/videos/WEYf9jWG9wk
 - /resources/videos/unleash-your-team's-full-potential
+- /resources/unleash-your-team's-full-potential
 preview: https://i.ytimg.com/vi/WEYf9jWG9wk/maxresdefault.jpg
 duration: 53
 isShort: true
@@ -37,4 +38,3 @@ source: youtube
 Quality Code: Achieving Engineering Excellence with NKD Agility. Visit https://www.nkdagility.com #agile #agileproductdevelopment #agileproductmanagement #agileprojectmanagement #productdevelopment #productmanagement #projectmanagement #projectmanager #productowner #scrummaster
 
 [Watch on YouTube](https://www.youtube.com/watch?v=WEYf9jWG9wk)
-

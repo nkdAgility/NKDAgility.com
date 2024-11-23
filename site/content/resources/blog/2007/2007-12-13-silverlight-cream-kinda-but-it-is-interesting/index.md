@@ -1,6 +1,6 @@
 ---
 title: Silverlight cream, kinda, but it is interesting!
-description: "Explore the intriguing world of Silverlight as Martin Hinshelwood shares insights on Microsoft's latest web innovations and tools. Dive in for more!"
+description: Explore the intriguing world of Silverlight as Martin Hinshelwood shares insights on Microsoft's latest web innovations and tools. Dive in for more!
 date: 2007-12-13
 creator: Martin Hinshelwood
 id: "278"
@@ -8,17 +8,20 @@ layout: blog
 resourceTypes: blog
 slug: silverlight-cream-kinda-but-it-is-interesting
 aliases:
-  - /blog/silverlight-cream-kinda-but-it-is-interesting
+- /blog/silverlight-cream-kinda-but-it-is-interesting
+- /silverlight-cream-kinda-but-it-is-interesting
+- /silverlight-cream,-kinda,-but-it-is-interesting-
+- /blog/silverlight-cream,-kinda,-but-it-is-interesting-
 tags:
-  - infrastructure
-  - silverlight
-  - sp2007
-  - tools
+- infrastructure
+- silverlight
+- sp2007
+- tools
 categories:
-  - news-and-reviews
+- news-and-reviews
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 Well, I was browsing the Microsoft downloads site looking for SP1 for SharePoint and a wee popup asked if I would like to see the [http://download.microsoft.com](http://download.microsoft.com) beta...
 
 [![image](images/Silverlightcreamkindabutitisinteresting_7C92-image_thumb-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Silverlightcreamkindabutitisinteresting_7C92-image_2.png)

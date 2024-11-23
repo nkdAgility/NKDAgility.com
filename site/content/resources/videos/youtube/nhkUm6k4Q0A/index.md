@@ -3,6 +3,7 @@ title: 'How to Be an Effective Agile Coach: Agnosticism in Practice'
 description: 'Discover the second essential achievement for aspiring #AgileCoaches with Martin Hinshelwood. Elevate your skills and empower teams to thrive!'
 date: 2024-09-22
 videoId: nhkUm6k4Q0A
+source: internal
 url: /resources/videos/:slug
 slug: how-to-be-an-effective-agile-coach-agnosticism-in-practice
 preview: https://i.ytimg.com/vi/nhkUm6k4Q0A/maxresdefault.jpg
@@ -12,6 +13,7 @@ aliases:
 - /resources/how-to-be-an-effective-agile-coach-agnosticism-in-practice
 - /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-2
 - /resources/videos/nhkUm6k4Q0A
+- /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-2
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -158,9 +160,3 @@ In summary:
 - Trust the team to choose their path.
 
 Remember, as a coach, your ultimate goal is to empower the team, not dictate their choices. When they succeed, so do you.
-
-
-
-
-
-

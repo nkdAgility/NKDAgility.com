@@ -1,6 +1,6 @@
 ---
 title: Live Framework
-description: "Explore the potential of Azure for WPF development with Live Framework. Discover how to enhance collaboration and streamline app configuration effortlessly!"
+description: Explore the potential of Azure for WPF development with Live Framework. Discover how to enhance collaboration and streamline app configuration effortlessly!
 date: 2008-12-04
 creator: Martin Hinshelwood
 id: "156"
@@ -8,15 +8,16 @@ layout: blog
 resourceTypes: blog
 slug: live-framework
 aliases:
-  - /blog/live-framework
+- /blog/live-framework
+- /live-framework
 tags:
-  - azure
-  - tools
-  - wit
-  - wpf
+- azure
+- tools
+- wit
+- wpf
 preview: metro-cloud-azure-link-2-2.png
----
 
+---
 I have been getting very interested in the new [Azure Services Platform](http://www.microsoft.com/azure/register.mspx) and how I can use it to facilitate WPF development.
 
 [![image](images/LiveFrameowrk_A25C-image_thumb-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-LiveFrameowrk_A25C-image_2.png)

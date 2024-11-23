@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=a6aw7xmS2oc
 aliases:
 - /resources/videos/a6aw7xmS2oc
 - /resources/videos/what-are-the-top-3-things-a-product-owner-needs-to-bear-in-mind-when-adopting-an-entrepreneur-stance
+- /resources/what-are-the-top-3-things-a-product-owner-needs-to-bear-in-mind-when-adopting-an-entrepreneur-stance
 preview: https://i.ytimg.com/vi/a6aw7xmS2oc/maxresdefault.jpg
 duration: 330
 isShort: false
@@ -54,4 +55,3 @@ Because you don't just need agility, you need Naked Agility.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment  #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=a6aw7xmS2oc)
-

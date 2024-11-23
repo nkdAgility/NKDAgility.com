@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=U69JMzIZXro
 aliases:
 - /resources/videos/U69JMzIZXro
 - /resources/videos/installing-tfs-2013-standard
+- /resources/installing-tfs-2013-standard
 preview: https://i.ytimg.com/vi/U69JMzIZXro/maxresdefault.jpg
 duration: 1219
 isShort: false
@@ -35,4 +36,3 @@ Have you tried to install TFS 2013? Its so ridiculously easy compared to early v
 More videos and blogs on http://nakedalm.com/blog
 
 [Watch on YouTube](https://www.youtube.com/watch?v=U69JMzIZXro)
-

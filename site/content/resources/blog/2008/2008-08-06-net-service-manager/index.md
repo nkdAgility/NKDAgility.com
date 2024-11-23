@@ -1,6 +1,6 @@
 ---
 title: .NET Service Manager
-description: "Discover the .NET Service Manager, a versatile tool for wrapping local and remote services. Download the source code and enhance your applications today!"
+description: Discover the .NET Service Manager, a versatile tool for wrapping local and remote services. Download the source code and enhance your applications today!
 date: 2008-08-06
 creator: Martin Hinshelwood
 id: "213"
@@ -8,15 +8,18 @@ layout: blog
 resourceTypes: blog
 slug: net-service-manager
 aliases:
-  - /blog/net-service-manager
+- /blog/net-service-manager
+- /net-service-manager
+- /-net-service-manager
+- /blog/-net-service-manager
 tags:
-  - tools
-  - wcf
+- tools
+- wcf
 categories:
-  - me
+- me
 preview: nakedalm-logo-128-link-2-2.png
----
 
+---
 A while a go I create a [Service Manager](http://blog.hinshelwood.com/articles/Creating-a-managed-service-factory-Article.aspx). A way of wrapping local and remote services (widgets, bits, things) for use in any application within your business or just in your own code…
 
 I made the source available before, but as I am now going to be using and updating it again, I have created a [Codeplex Project](http://codeplex.com/ServiceManager) for it and put it up on [my own site](http://hinshelwood.com/ServiceManager.aspx) and called it [.NET Service Manager](http://hinshelwood.com/ServiceManager.aspx).

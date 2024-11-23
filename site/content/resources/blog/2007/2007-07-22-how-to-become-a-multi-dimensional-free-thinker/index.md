@@ -1,6 +1,6 @@
 ---
 title: How to become a Multi-Dimensional Free Thinker
-description: "Unlock the power of dyslexia to become a multi-dimensional free thinker. Discover how unique thinking can enhance creativity and problem-solving skills."
+description: Unlock the power of dyslexia to become a multi-dimensional free thinker. Discover how unique thinking can enhance creativity and problem-solving skills.
 date: 2007-07-22
 creator: Martin Hinshelwood
 id: "364"
@@ -8,12 +8,13 @@ layout: blog
 resourceTypes: blog
 slug: how-to-become-a-multi-dimensional-free-thinker
 aliases:
-  - /blog/how-to-become-a-multi-dimensional-free-thinker
+- /blog/how-to-become-a-multi-dimensional-free-thinker
+- /how-to-become-a-multi-dimensional-free-thinker
 tags:
-  - dyslexia
+- dyslexia
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 All you have to do to become a multi-dimensional free thinker is to change the way you think of your dyslexia. The benefits of having dyslexia far outweigh the negatives: The concepts of multi-dimensional thinking are incredibly difficult to learn if you have not been born with the ability, and if you are dyslexic, you have.
 
 The advantages of Multi-Dimensional thinking is that you can visualize problems from all different angles and provide a solution that would not have occurred to a linear thinker. Although [Sigmund Void](http://www.sigmundvoid.com/?p=75 "The gift that keeps giving.") mentioned three dimensional thinking, the capability of thinking in more than three dimensions can assist you enormously if you are a software developer.

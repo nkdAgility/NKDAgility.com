@@ -1,6 +1,6 @@
 ---
 title: Creating a custom Activity for Team Foundation Build
-description: "Learn to create custom activities for Team Foundation Build with this step-by-step guide. Simplify your workflows and enhance your build processes today!"
+description: Learn to create custom activities for Team Foundation Build with this step-by-step guide. Simplify your workflows and enhance your build processes today!
 date: 2013-07-22
 creator: Martin Hinshelwood
 id: "9769"
@@ -8,19 +8,20 @@ layout: blog
 resourceTypes: blog
 slug: creating-a-custom-activity-for-team-foundation-build
 aliases:
-  - /blog/creating-a-custom-activity-for-team-foundation-build
+- /blog/creating-a-custom-activity-for-team-foundation-build
+- /creating-a-custom-activity-for-team-foundation-build
 tags:
-  - code
-  - configuration
-  - custom-activity
-  - tfs-build
-  - tools
-  - workflow
+- code
+- configuration
+- custom-activity
+- tfs-build
+- tools
+- workflow
 categories:
-  - code-and-complexity
-  - install-and-configuration
----
+- code-and-complexity
+- install-and-configuration
 
+---
 You can be creating a custom activity for Team Foundation Build in a few simple steps. There are always advanced steps but this will get you started.
 
 It is fairly simple to create a custom activity for Team Foundation Server build services. The first thing to do is to create a Class library  and add a reference to “System.Activities.CodeActivity.dll” you will be all set to start creating any build activities that you need. This class library can contain as many activities as you would like to create.

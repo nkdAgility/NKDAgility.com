@@ -1,6 +1,6 @@
 ---
 title: My.Unity.Resolve(Of Ninja)
-description: "Explore integrating Unity Application Block in WPF and ASP.NET with custom solutions. Discover tips and code examples to enhance your development skills!"
+description: Explore integrating Unity Application Block in WPF and ASP.NET with custom solutions. Discover tips and code examples to enhance your development skills!
 date: 2009-05-08
 creator: Martin Hinshelwood
 id: "123"
@@ -8,17 +8,20 @@ layout: blog
 resourceTypes: blog
 slug: my-unity-resolveof-ninja
 aliases:
-  - /blog/my-unity-resolveof-ninja
+- /blog/my-unity-resolveof-ninja
+- /my-unity-resolveof-ninja
+- /my-unity-resolve(of-ninja)
+- /blog/my-unity-resolve(of-ninja)
 tags:
-  - code
-  - codeproject
-  - tools
-  - wpf
+- code
+- codeproject
+- tools
+- wpf
 categories:
-  - code-and-complexity
+- code-and-complexity
 preview: metro-binary-vb-128-link-4-1.png
----
 
+---
 I have been attempting to integrate the Unity Application Block into my website to allow me to share the same base object code between a WPF and an ASP.NET application. I will let you know how I am getting along later as I am still knee deep in refactoring, but I have found something a little useful.
 
 I have created a custom “My” object in Visual Studio. This means that I can do “My.Unity.Container” to retrieve my UnityContainer object form anywhere is my code. I know it my be trivial to achieve in other ways, but I am a VB degenerate having fun, so leave me alone…

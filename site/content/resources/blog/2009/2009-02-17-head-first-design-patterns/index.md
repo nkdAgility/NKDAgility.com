@@ -1,6 +1,6 @@
 ---
 title: Head First Design Patterns
-description: "Discover how 'Head First Design Patterns' revolutionizes learning for developers, especially those with dyslexia, through engaging visuals and effective techniques."
+description: Discover how 'Head First Design Patterns' revolutionizes learning for developers, especially those with dyslexia, through engaging visuals and effective techniques.
 date: 2009-02-17
 creator: Martin Hinshelwood
 id: "137"
@@ -8,17 +8,18 @@ layout: blog
 resourceTypes: blog
 slug: head-first-design-patterns
 aliases:
-  - /blog/head-first-design-patterns
+- /blog/head-first-design-patterns
+- /head-first-design-patterns
 tags:
-  - code
-  - develop
-  - dyslexia
-  - practices
+- code
+- develop
+- dyslexia
+- practices
 categories:
-  - products-and-books
+- products-and-books
 preview: nakedalm-logo-128-link-2-2.png
----
 
+---
 [![HadFirstDesignPatterns](images/HeadFirstDesignPatterns_91E0-HadFirstDesignPatterns_thumb-1-1.jpg)](http://www.amazon.co.uk/gp/product/0596007124?ie=UTF8&tag=dyslexicdev-21&linkCode=as2&camp=1634&creative=6738&creativeASIN=0596007124)![](http://www.assoc-amazon.co.uk/e/ir?t=dyslexicdev-21&l=as2&o=2&a=0596007124)
 { .post-img }
 

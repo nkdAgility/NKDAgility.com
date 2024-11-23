@@ -1,6 +1,6 @@
 ---
 title: Release Management with Team Foundation Server 2012
-description: "Enhance your release management strategy with Team Foundation Server 2012. Discover automation techniques and best practices for seamless deployments."
+description: Enhance your release management strategy with Team Foundation Server 2012. Discover automation techniques and best practices for seamless deployments.
 date: 2013-04-24
 creator: Martin Hinshelwood
 id: "9468"
@@ -8,24 +8,25 @@ layout: blog
 resourceTypes: blog
 slug: release-management-with-team-foundation-server-2012
 aliases:
-  - /blog/release-management-with-team-foundation-server-2012
+- /blog/release-management-with-team-foundation-server-2012
+- /release-management-with-team-foundation-server-2012
 tags:
-  - develop
-  - lab-management
-  - octopus
-  - operate
-  - practices
-  - process
-  - standard-environments
-  - strategic
-  - tfs
-  - tools
+- develop
+- lab-management
+- octopus
+- operate
+- practices
+- process
+- standard-environments
+- strategic
+- tfs
+- tools
 categories:
-  - people-and-process
-  - tools-and-techniques
+- people-and-process
+- tools-and-techniques
 preview: nakedalm-experts-visual-studio-alm-8-8.png
----
 
+---
 Northwest Cadence has been working hard with customers to improve their release management in Team Foundation Server 2012. While on the surface it looks like TFS 2012 has little in the way of support for release management, you would be wrong. There are many features in Team Foundation Server, many of them added in TFS 2010 that can aid you in creating a release management strategy.
 
 > _A professional Development Team is supposed to create potentially shippable quality output that has no further work required for delivery._

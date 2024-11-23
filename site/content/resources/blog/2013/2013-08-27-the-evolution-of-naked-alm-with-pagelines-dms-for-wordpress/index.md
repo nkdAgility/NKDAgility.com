@@ -1,6 +1,6 @@
 ---
 title: The evolution of naked ALM with Pagelines DMS for Wordpress
-description: "Discover the evolution of naked ALM with Pagelines DMS for WordPress. Learn how to enhance your site’s customization and functionality effortlessly!"
+description: Discover the evolution of naked ALM with Pagelines DMS for WordPress. Learn how to enhance your site’s customization and functionality effortlessly!
 date: 2013-08-27
 creator: Martin Hinshelwood
 id: "9964"
@@ -8,19 +8,20 @@ layout: blog
 resourceTypes: blog
 slug: the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
 aliases:
-  - /blog/the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
+- /blog/the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
+- /the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
 tags:
-  - css
-  - dms
-  - multisite
-  - pagelines
-  - theme
-  - wordpress
+- css
+- dms
+- multisite
+- pagelines
+- theme
+- wordpress
 categories:
-  - news-and-reviews
+- news-and-reviews
 preview: metro-pagelines-11-11.png
----
 
+---
 The evolution of naked ALM with Pagelines DMS for Wordpress is a story of successful change. All you have to do is learn to compromise and aspire to the easy 80%.
 
 It has been a long time \[since I moved from geeks with blogs to Wordpress\] and I have been supremely happy with the platform. When Live Spaces wrapped up there was good reason that they moved everyone to Wordpress.  When I first moved to Wordpress I was struck by the simplicity of the platform, but if you are a geek like me you will very quickly want more. You will start with the thousands of plugins that already exist and you will switch theme constantly as you try out new looks feels and features. That is until you find [Pagelines](http://pln.so/dy).

@@ -3,6 +3,7 @@ title: 'Quotes: "I estimate that 75% of those organisations using Scrum will not
 description: "Discover why 75% of organisations struggle with Scrum success, as Martin Hinshelwood unpacks Ken Schwaber's insights in this engaging short video! #Scrum #Agile"
 date: 2023-12-22
 videoId: dT1_zHfzto0
+source: internal
 url: /resources/videos/:slug
 slug: quotes-i-estimate-that-75-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it-ken-schwaber
 preview: https://i.ytimg.com/vi/dT1_zHfzto0/maxresdefault.jpg
@@ -12,6 +13,7 @@ aliases:
 - /resources/quotes-i-estimate-that-75-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it-ken-schwaber
 - /resources/videos/75-of-those-organizations-using-scrum-will-not-succeed-in-getting-the-benefit-ken-schwaber
 - /resources/videos/dT1_zHfzto0
+- /resources/75-of-those-organizations-using-scrum-will-not-succeed-in-getting-the-benefit-ken-schwaber
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -83,9 +85,3 @@ Ensuring your organisation falls into the successful 10% is challenging yet achi
 ## Elevating Your Scrum Journey 🚀  
 
 Ken’s assertion provides a sobering perspective on Scrum adoption. However, by focusing on a holistic transformation and customer-centric delivery, organisations can defy the odds and join the successful minority.
-
-
-
-
-
-

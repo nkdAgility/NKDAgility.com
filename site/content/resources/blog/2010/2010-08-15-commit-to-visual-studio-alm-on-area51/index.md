@@ -1,6 +1,6 @@
 ---
 title: Commit to Visual Studio ALM on Area51
-description: "Join the Visual Studio ALM community on Area51! Help us reach the commitment stage and shape the future of ALM discussions. Your vote matters!"
+description: Join the Visual Studio ALM community on Area51! Help us reach the commitment stage and shape the future of ALM discussions. Your vote matters!
 date: 2010-08-15
 creator: Martin Hinshelwood
 id: "31"
@@ -8,27 +8,28 @@ layout: blog
 resourceTypes: blog
 slug: commit-to-visual-studio-alm-on-area51
 aliases:
-  - /blog/commit-to-visual-studio-alm-on-area51
+- /blog/commit-to-visual-studio-alm-on-area51
+- /commit-to-visual-studio-alm-on-area51
 tags:
-  - configuration
-  - define
-  - develop
-  - infrastructure
-  - operate
-  - people
-  - practices
-  - process
-  - tfs
-  - tfs2010
-  - tools
-  - visual-studio
-  - vs2010
+- configuration
+- define
+- develop
+- infrastructure
+- operate
+- people
+- practices
+- process
+- tfs
+- tfs2010
+- tools
+- visual-studio
+- vs2010
 categories:
-  - me
-  - tools-and-techniques
+- me
+- tools-and-techniques
 preview: metro-visual-studio-2010-128-link-1-1.png
----
 
+---
 ![image](images/VisualStudioALMonArea51_98A3-image_-3-3.png)
 { .post-img }
 

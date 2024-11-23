@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=4Tjc5uEtM7M
 aliases:
 - /resources/videos/4Tjc5uEtM7M
 - /resources/videos/devops-migration-lack-of-expertise
+- /resources/devops-migration-lack-of-expertise
 preview: https://i.ytimg.com/vi/4Tjc5uEtM7M/maxresdefault.jpg
 duration: 262
 isShort: false
@@ -47,4 +48,3 @@ Video Chapters:
 👉 Watch the video to learn why bringing in specialized help is key to a successful Azure DevOps migration. Like the video, subscribe to our channel, and stay tuned for more in-depth DevOps insights! Visit https://nkdagility.com/capabilities/azure-devops-migration-services/ if you need #azuredevops #devopsmigration #devopsconsultant #devopstraining
 
 [Watch on YouTube](https://www.youtube.com/watch?v=4Tjc5uEtM7M)
-

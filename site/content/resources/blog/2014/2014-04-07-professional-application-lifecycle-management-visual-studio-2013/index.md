@@ -1,6 +1,6 @@
 ---
 title: Professional Application Lifecycle Management with Visual Studio 2013
-description: "Discover the updated guide to Application Lifecycle Management with Visual Studio 2013. Enhance your software development with expert insights and new features!"
+description: Discover the updated guide to Application Lifecycle Management with Visual Studio 2013. Enhance your software development with expert insights and new features!
 date: 2014-04-07
 creator: Martin Hinshelwood
 id: "10482"
@@ -8,18 +8,21 @@ layout: blog
 resourceTypes: blog
 slug: professional-application-lifecycle-management-visual-studio-2013
 aliases:
-  - /blog/professional-application-lifecycle-management-visual-studio-2013
+- /blog/professional-application-lifecycle-management-visual-studio-2013
+- /professional-application-lifecycle-management-visual-studio-2013
+- /professional-application-lifecycle-management-with-visual-studio-2013
+- /blog/professional-application-lifecycle-management-with-visual-studio-2013
 tags:
-  - modern-alm
-  - tfs
-  - tfs-2013
-  - visual-studio-2013
-  - visual-studio
+- modern-alm
+- tfs
+- tfs-2013
+- visual-studio-2013
+- visual-studio
 categories:
-  - news-and-reviews
+- news-and-reviews
 preview: nakedalm-experts-visual-studio-alm-2-2.png
----
 
+---
 About 6 months ago I was approached by Mickey to help him on the third edition of Professional Application Lifecycle Management with Visual Studio 2013. I jumped at the chance, only to be in dismay at the amount of work, and now relieved that it is all over. I could not believe the amount of work that goes into producing a book of the calibre and while fun, deadlines were not...
 
 [![image](images/image8-1-1.png "image")](http://nkdalm.net/ProALMwithVS13)Professional Application Lifecycle Management with Visual Studio 2013 is now available in the USA from [Amazon.com](http://nkdalm.net/ProALMwithVS13). It will be available on 29th April 2014 in the UK on [Amazon.co.uk](http://nkdalm.net/ProALMwithVS13uk) who is currently taking pre-orders. This was a monumental effort and I would not have been able to without the support from Brian and Mickey who had both been through the trauma of writing a book before.

@@ -1,6 +1,6 @@
 ---
 title: Linked in VSTS Group
-description: "Join the LinkedIn VSTS Developer group to connect with fellow developers customizing Visual Studio Team System. Share insights and enhance your skills!"
+description: Join the LinkedIn VSTS Developer group to connect with fellow developers customizing Visual Studio Team System. Share insights and enhance your skills!
 date: 2008-05-15
 creator: Martin Hinshelwood
 id: "226"
@@ -8,18 +8,19 @@ layout: blog
 resourceTypes: blog
 slug: linked-in-vsts-group
 aliases:
-  - /blog/linked-in-vsts-group
+- /blog/linked-in-vsts-group
+- /linked-in-vsts-group
 tags:
-  - linkedin
-  - tfs
-  - tfs2005
-  - tfs2008
-  - tfs2010
+- linkedin
+- tfs
+- tfs2005
+- tfs2008
+- tfs2010
 categories:
-  - me
+- me
 preview: metro-visual-studio-2005-128-link-2-2.png
----
 
+---
 If you are a developer who customises or extends Visual Studio Team System then this LinkedIn group is for you...
 
 **VSTS Developer**

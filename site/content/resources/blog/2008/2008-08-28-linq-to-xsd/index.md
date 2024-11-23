@@ -1,6 +1,6 @@
 ---
 title: LINQ to XSD
-description: "Discover the power of LINQ to XSD for C# projects. Learn how to enhance your development with extra features and streamline your XSD handling."
+description: Discover the power of LINQ to XSD for C# projects. Learn how to enhance your development with extra features and streamline your XSD handling.
 date: 2008-08-28
 creator: Martin Hinshelwood
 id: "203"
@@ -8,16 +8,17 @@ layout: blog
 resourceTypes: blog
 slug: linq-to-xsd
 aliases:
-  - /blog/linq-to-xsd
+- /blog/linq-to-xsd
+- /linq-to-xsd
 tags:
-  - code
-  - tfs-build
-  - tools
+- code
+- tfs-build
+- tools
 categories:
-  - code-and-complexity
+- code-and-complexity
 preview: metro-binary-vb-128-link-2-2.png
----
 
+---
 Absolutely brilliant. That's what I think of Linq to XSD. Disappointed that is only works in C#, but having to use C# for a single project out of a solution it is a small price to pay to get the functionality.
 
 If you install the [_LINQ to XSD Preview_ Alpha 0.2 Refresh](http://www.microsoft.com/downloads/details.aspx?FamilyID=A45F58CD-FCFC-439E-B735-8182775560AF&displaylang=en) you get a couple of extra project definitions:

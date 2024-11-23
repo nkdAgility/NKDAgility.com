@@ -1,6 +1,6 @@
 ---
 title: Retrieving an identity from Team Foundation Server using only the display name
-description: "Learn how to retrieve identities from Team Foundation Server using display names. Simplify your TFS management with practical coding insights and tools."
+description: Learn how to retrieve identities from Team Foundation Server using display names. Simplify your TFS management with practical coding insights and tools.
 date: 2008-12-01
 creator: Martin Hinshelwood
 id: "159"
@@ -8,17 +8,18 @@ layout: blog
 resourceTypes: blog
 slug: retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
 aliases:
-  - /blog/retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
+- /blog/retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
+- /retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
 tags:
-  - code
-  - codeproject
-  - tfs2008
-  - tools
+- code
+- codeproject
+- tfs2008
+- tools
 categories:
-  - code-and-complexity
+- code-and-complexity
 preview: metro-visual-studio-2005-128-link-1-1.png
----
 
+---
 This is a lot harder than it sounds. At first you think there will be a built in option with the [Read Identities](http://msdn.microsoft.com/en-us/library/microsoft.teamfoundation.server.igroupsecurityservice.readidentities.aspx) method on the [IGroupSecurityService](http://msdn.microsoft.com/en-us/library/microsoft.teamfoundation.server.igroupsecurityservice.aspx) Interface, but you would be wrong!
 
 When capturing an event from Team Foundation Server you have access to a lot of information about the change, including the Display Name of the fields for Assigned To and Changed By.

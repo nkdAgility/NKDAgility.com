@@ -1,6 +1,6 @@
 ---
 title: Wakoopa
-description: "Explore Wakoopa, an app that tracks your software usage and provides insightful stats. Join the Microsoft MVP team and enhance your productivity today!"
+description: Explore Wakoopa, an app that tracks your software usage and provides insightful stats. Join the Microsoft MVP team and enhance your productivity today!
 date: 2008-10-27
 creator: Martin Hinshelwood
 id: "180"
@@ -8,15 +8,16 @@ layout: blog
 resourceTypes: blog
 slug: wakoopa
 aliases:
-  - /blog/wakoopa
+- /blog/wakoopa
+- /wakoopa
 tags:
-  - answers
-  - tfs
-  - tfs-sticky-buddy
+- answers
+- tfs
+- tfs-sticky-buddy
 categories:
-  - me
----
+- me
 
+---
 I am having a little bit of fun with this application and I though I would share. it logs all of the applications that you are using and gives you stats on it. How about joining the [Microsoft MVP](http://wakoopa.com/teams/MicrosoftMVP) (MVP’s only please) team, or creating your own…
 
 Here is my usage, which will be exactly the same as the MVP one at the moment as I am the only one there :(

@@ -1,6 +1,6 @@
 ---
 title: Testing in the modern application lifecycle
-description: "Explore modern manual testing in agile development. Learn to integrate tools and streamline processes for effective quality assurance in your application lifecycle."
+description: Explore modern manual testing in agile development. Learn to integrate tools and streamline processes for effective quality assurance in your application lifecycle.
 date: 2012-09-25
 creator: Martin Hinshelwood
 id: "8829"
@@ -8,27 +8,28 @@ layout: blog
 resourceTypes: blog
 slug: testing-in-the-modern-application-lifecycle
 aliases:
-  - /blog/testing-in-the-modern-application-lifecycle
+- /blog/testing-in-the-modern-application-lifecycle
+- /testing-in-the-modern-application-lifecycle
 tags:
-  - agile
-  - develop
-  - infrastructure
-  - manual-test
-  - modern-alm
-  - modern-application-lifecycle
-  - practices
-  - process
-  - s30d
-  - tfs
-  - tfs2012
-  - the-new-normal
-  - tools
-  - vs2012
+- agile
+- develop
+- infrastructure
+- manual-test
+- modern-alm
+- modern-application-lifecycle
+- practices
+- process
+- s30d
+- tfs
+- tfs2012
+- the-new-normal
+- tools
+- vs2012
 categories:
-  - tools-and-techniques
+- tools-and-techniques
 preview: metro-test-icon-7-7.png
----
 
+---
 Manual Testing in this new age of the modern application lifecycle has taken on new complexities that make it even more difficult to track and identify which tests are passing, which are failing and to which environment that data should be associated.
 
 - Update 2013-02-19 - Featured in [ALM Mag Vol 1 Issue 2](http://blog.hinshelwood.com/files/2013/02/Hinshelwood-ALMMag-Vol1Issue2.pdf). If you want to subscribe to future editions I have a [discount subscription](http://www.member.almmag.com/sales.php?coupon=foundingmember) that you can use.

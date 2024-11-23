@@ -1,6 +1,6 @@
 ---
 title: Building a release pipeline with Release Management with Visual Studio 2013
-description: "Learn to build a scalable release pipeline with Visual Studio 2013's integrated release management. Enhance your DevOps practices for continuous delivery success!"
+description: Learn to build a scalable release pipeline with Visual Studio 2013's integrated release management. Enhance your DevOps practices for continuous delivery success!
 date: 2014-02-18
 creator: Martin Hinshelwood
 id: "10372"
@@ -8,21 +8,24 @@ layout: blog
 resourceTypes: blog
 slug: building-release-pipeline-release-management-visual-studio-2013
 aliases:
-  - /blog/building-release-pipeline-release-management-visual-studio-2013
+- /blog/building-release-pipeline-release-management-visual-studio-2013
+- /building-release-pipeline-release-management-visual-studio-2013
+- /building-a-release-pipeline-with-release-management-with-visual-studio-2013
+- /blog/building-a-release-pipeline-with-release-management-with-visual-studio-2013
 tags:
-  - continious
-  - continious-value-delivery
-  - release
-  - release-management
-  - release-pipline
-  - tfs
-  - tfs-2013
-  - visual-studio-alm
+- continious
+- continious-value-delivery
+- release
+- release-management
+- release-pipline
+- tfs
+- tfs-2013
+- visual-studio-alm
 categories:
-  - tools-and-techniques
+- tools-and-techniques
 preview: nakedalm-experts-visual-studio-alm-4-4.png
----
 
+---
 With the release of Visual Studio 2013 we now have release management built right into the product that we can use to build a scalable release pipeline. It's not perfect but it does hit the spot.
 
 Unlike the other Application Lifecycle Management (ALM) tools on the market Visual Studio ALM actually lives up to the name. Most tools out there tend to concentrate on a single angle. Specialising in work item tracking, source control or build. Then there are tools like HP ALM or Rational that have many integrated tools within the Application Development Lifecycle Management (ADLM) world. They in effect concentrate on the development side of the process and don't look at deployment or operations. This i think is a critical gap as we bring DevOps into the fold and integrate the developers and operational work to provide better products. Indeed many of the most successful products out there were developed by the same folk that support it. Why do they continue to be successful? When there is no one else to blame for the mess you end up just cleaning it up.

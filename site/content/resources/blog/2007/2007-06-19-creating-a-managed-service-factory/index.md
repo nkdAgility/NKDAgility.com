@@ -1,6 +1,6 @@
 ---
 title: Creating a managed service factory
-description: "Discover how to create a managed service factory for seamless access to local and remote services. Enhance your enterprise solutions with this insightful guide!"
+description: Discover how to create a managed service factory for seamless access to local and remote services. Enhance your enterprise solutions with this insightful guide!
 date: 2007-06-19
 creator: Martin Hinshelwood
 id: "377"
@@ -8,16 +8,17 @@ layout: blog
 resourceTypes: blog
 slug: creating-a-managed-service-factory
 aliases:
-  - /blog/creating-a-managed-service-factory
+- /blog/creating-a-managed-service-factory
+- /creating-a-managed-service-factory
 tags:
-  - ml
-  - service-oriented-architecture
-  - tools
+- ml
+- service-oriented-architecture
+- tools
 categories:
-  - me
+- me
 preview: metro-merilllynch-128-link-3-3.png
----
 
+---
 I had a plan. I wanted to create a way of accessing services in multiple locations from any location. Each location could have one or more services which may be duplications or different. That is a really abstract way of thing about it, but I eventually came up with a solution.
 
 After using Reflector to view the Team Foundation Server source code, which gave ma many pointers for which I would like to thank the [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") Team At Microsoft, I came up with the following solution:

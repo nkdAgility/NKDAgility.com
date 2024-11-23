@@ -1,6 +1,6 @@
 ---
 title: Create a Build vNext build definition
-description: "Learn how to create a Build vNext definition on VSO with this comprehensive guide. Enhance your CI/CD process and streamline your development workflow!"
+description: Learn how to create a Build vNext definition on VSO with this comprehensive guide. Enhance your CI/CD process and streamline your development workflow!
 date: 2015-03-04
 creator: Martin Hinshelwood
 id: "11047"
@@ -8,29 +8,32 @@ layout: blog
 resourceTypes: blog
 slug: create-a-build-vnext-build-definition-on-vso
 aliases:
-  - /blog/create-a-build-vnext-build-definition-on-vso
+- /blog/create-a-build-vnext-build-definition-on-vso
+- /create-a-build-vnext-build-definition-on-vso
+- /create-a-build-vnext-build-definition
+- /blog/create-a-build-vnext-build-definition
 tags:
-  - android
-  - build
-  - cmake
-  - jake
-  - msbuild
-  - powershell
-  - preview
-  - tf-build
-  - tfs
-  - tfs-2015
-  - vnext
-  - visual-studio
-  - vsteamservices
-  - vstest
-  - xcode
+- android
+- build
+- cmake
+- jake
+- msbuild
+- powershell
+- preview
+- tf-build
+- tfs
+- tfs-2015
+- vnext
+- visual-studio
+- vsteamservices
+- vstest
+- xcode
 categories:
-  - install-and-configuration
-  - tools-and-techniques
+- install-and-configuration
+- tools-and-techniques
 preview: nakedalm-experts-visual-studio-alm-26-26.png
----
 
+---
 I am going to show how to create a Build vNext build definition on VSO. Microsoft recently announced the creation of a brand new build system for TFS and VSO at the Connect event last year. This new build system will eventually replace the current one and be much more modular and friendly. Happily I am in the early adopter program and the product team just made an early alfa of the service available for that program and I have been giving it a spin.
 
 #### Download Team Foundation Server 2015 today

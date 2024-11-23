@@ -3,6 +3,7 @@ title: 'Quotes: In the past the man has been first; in the future the system mus
 description: "Explore Frederick Taylor's insight on prioritising systems over individuals in management. Join Martin Hinshelwood as he unpacks this shift in thinking. #shorts"
 date: 2023-12-24
 videoId: KX1xViey_BA
+source: internal
 url: /resources/videos/:slug
 slug: quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor
 preview: https://i.ytimg.com/vi/KX1xViey_BA/maxresdefault.jpg
@@ -12,6 +13,7 @@ aliases:
 - /resources/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor
 - /resources/videos/quotes-in-the-past-the-man-has-been-first;-in-the-future-the-system-must-be-first-frederick-taylor
 - /resources/videos/KX1xViey_BA
+- /resources/quotes-in-the-past-the-man-has-been-first;-in-the-future-the-system-must-be-first-frederick-taylor
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -88,9 +90,3 @@ How to ensure systems support, not stifle: 
 ## **Conclusion**  
 
 The Industrial Revolution taught us the value of systems in increasing productivity. However, in our modern Agile environments, it's crucial to remember that systems are there to serve people, not the other way around. Let’s strive for a balance where systems enhance collaboration and productivity, not hinder it.
-
-
-
-
-
-

@@ -1,6 +1,6 @@
 ---
 title: Windows 7 Beta is Live!
-description: "Discover the Windows 7 Beta release! Download now and explore its stability and improvements over Vista. Limited licenses available—act fast!"
+description: Discover the Windows 7 Beta release! Download now and explore its stability and improvements over Vista. Limited licenses available—act fast!
 date: 2009-01-08
 creator: Martin Hinshelwood
 id: "149"
@@ -8,12 +8,15 @@ layout: blog
 resourceTypes: blog
 slug: windows-7-beta-is-live
 aliases:
-  - /blog/windows-7-beta-is-live
+- /blog/windows-7-beta-is-live
+- /windows-7-beta-is-live
+- /windows-7-beta-is-live-
+- /blog/windows-7-beta-is-live-
 tags:
-  - tools
+- tools
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 If you have an [MSDN](https://msdn.microsoft.com) account you will be able to download [Windows 7](http://www.microsoft.com/windows/windows-7/default.aspx) Beta today, but it should be available for anyone by the end of next week.
 
 If you have not seen anything about Windows 7 then you should take a look. I am not suggesting that you install it on a production computer, but even early adopters have had very stable installs.

@@ -3,6 +3,7 @@ title: One critical skill for a Scrum Master and why?
 description: 'Discover the one essential skill every Scrum Master must master for success in Agile! Join Martin Hinshelwood in this quick, insightful #shorts video.'
 date: 2023-06-21
 videoId: kEywzkMhWl0
+source: internal
 url: /resources/videos/:slug
 slug: 1-critical-skill-for-a-scrum-master-and-why
 preview: https://i.ytimg.com/vi/kEywzkMhWl0/maxresdefault.jpg
@@ -13,6 +14,7 @@ aliases:
 - /resources/one-critical-skill-for-a-scrum-master-and-why
 - /resources/videos/1-critical-skill-for-a-scrum-master-and-why-
 - /resources/videos/kEywzkMhWl0
+- /resources/1-critical-skill-for-a-scrum-master-and-why-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -66,9 +68,3 @@ Connect with me today, and let's drive successful Agile change together! 🤝
 Hashtags:        #AgileTransformation #EffectiveTeaching #UnderstandingTheWhy
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
-
-
-
-
-
-

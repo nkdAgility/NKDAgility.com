@@ -1,6 +1,6 @@
 ---
 title: Configuring Jenkins to talk to TFS 2013
-description: "Learn how to configure Jenkins to integrate with TFS 2013 seamlessly, ensuring a smooth transition for your Java teams. Enhance your build process today!"
+description: Learn how to configure Jenkins to integrate with TFS 2013 seamlessly, ensuring a smooth transition for your Java teams. Enhance your build process today!
 date: 2014-05-07
 creator: Martin Hinshelwood
 id: "10526"
@@ -8,18 +8,21 @@ layout: blog
 resourceTypes: blog
 slug: configuring-jenkins-talk-tfs-2013
 aliases:
-  - /blog/configuring-jenkins-talk-tfs-2013
+- /blog/configuring-jenkins-talk-tfs-2013
+- /configuring-jenkins-talk-tfs-2013
+- /configuring-jenkins-to-talk-to-tfs-2013
+- /blog/configuring-jenkins-to-talk-to-tfs-2013
 tags:
-  - java
-  - jenkins
-  - migration
-  - svn
-  - tfs
+- java
+- jenkins
+- migration
+- svn
+- tfs
 categories:
-  - install-and-configuration
+- install-and-configuration
 preview: naked-alm-jenkins-logo-9-9.png
----
 
+---
 I am working quite a lot with some Java teams at the moment who are using SVN and Jenkins. We are moving them over to TFS and TF Build and we wanted to make sure that we were minimally disruptive to first I need to configuring Jenkins to talk to TFS 2013.
 
 At the moment all of the source code, builds, and assets are owned outright by one individual and stored on a single Linux box. This will change over time as necessitates a scalable enterprise solution but for now I just want to move the source.

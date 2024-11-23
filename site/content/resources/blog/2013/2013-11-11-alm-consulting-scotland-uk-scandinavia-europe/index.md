@@ -1,6 +1,6 @@
 ---
 title: ALM Consulting in Scotland, UK, Scandinavia &amp; Europe
-description: "Discover expert ALM consulting across Scotland, the UK, and Europe. Enhance your software development processes with tailored training and coaching."
+description: Discover expert ALM consulting across Scotland, the UK, and Europe. Enhance your software development processes with tailored training and coaching.
 date: 2013-11-11
 creator: Martin Hinshelwood
 id: "10226"
@@ -8,33 +8,36 @@ layout: blog
 resourceTypes: blog
 slug: alm-consulting-scotland-uk-scandinavia-europe
 aliases:
-  - /blog/alm-consulting-scotland-uk-scandinavia-europe
+- /blog/alm-consulting-scotland-uk-scandinavia-europe
+- /alm-consulting-scotland-uk-scandinavia-europe
+- /alm-consulting-in-scotland,-uk,-scandinavia-&amp;-europe
+- /blog/alm-consulting-in-scotland,-uk,-scandinavia-&amp;-europe
 tags:
-  - automated-build
-  - automation
-  - build
-  - consulting
-  - dps
-  - europe
-  - lean
-  - lean-agile
-  - migration
-  - modern-alm
-  - scandinavia
-  - scotland
-  - tfs
-  - training
-  - uk
-  - upgrade
+- automated-build
+- automation
+- build
+- consulting
+- dps
+- europe
+- lean
+- lean-agile
+- migration
+- modern-alm
+- scandinavia
+- scotland
+- tfs
+- training
+- uk
+- upgrade
 categories:
-  - events-and-presentations
-  - install-and-configuration
-  - me
-  - news-and-reviews
-  - tools-and-techniques
+- events-and-presentations
+- install-and-configuration
+- me
+- news-and-reviews
+- tools-and-techniques
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 Well, that's me started ALM Consulting in Scotland, UK & Europe as naked ALM Consulting – Martin Hinshelwood. As I write this I am on a train on my way to my first engagement in the north of England is what looks to be and awesome group of folks to talk a little Scrum and Team Foundation Build.
 
 As of the first of November I am back in Scotland and will be basing naked ALM Consulting out of my home town of Glasgow. However I will be traveling around Europe doing consulting and training for lean-agile, TFS, Visual Studio and Scrum and working with a bunch of ALM Gold partners in various countries. As I have been talking to my contacts many folks have been asking what it is that I have been doing for the last 3 years and what it is that naked ALM Consulting does… and even what ALM means anyway. I especially get these questions from my family…

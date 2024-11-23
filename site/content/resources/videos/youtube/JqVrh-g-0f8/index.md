@@ -3,6 +3,7 @@ title: What Does a Poor Product Backlog Look Like?
 description: 'Discover the pitfalls of a poor product backlog in this quick video with Martin Hinshelwood. Learn what to avoid for effective agile project management! #shorts'
 date: 2023-11-11
 videoId: JqVrh-g-0f8
+source: internal
 url: /resources/videos/:slug
 slug: what-does-a-poor-product-backlog-look-like
 preview: https://i.ytimg.com/vi/JqVrh-g-0f8/maxresdefault.jpg
@@ -12,6 +13,7 @@ aliases:
 - /resources/what-does-a-poor-product-backlog-look-like
 - /resources/videos/what-does-a-poor-product-backlog-look-like-
 - /resources/videos/JqVrh-g-0f8
+- /resources/what-does-a-poor-product-backlog-look-like-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -55,9 +57,3 @@ Everyone is in sync.  They comprehend their roles, understand how to aid in the
 Let's elevate your product backlog lists together if you're keen to transition from a 'poor' to a 'good' backlog and unravel the intricacies of effective product management.
 
 Remember, whether you're a seasoned Agile pro or a newcomer, ensuring a well-maintained product backlog is pivotal.
-
-
-
-
-
-

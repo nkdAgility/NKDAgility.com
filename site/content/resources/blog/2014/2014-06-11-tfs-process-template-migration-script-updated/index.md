@@ -1,6 +1,6 @@
 ---
 title: TFS Process Template migration script updated
-description: "Discover how to easily migrate TFS process templates with our updated script. Follow five simple steps to streamline your Agile and Scrum processes!"
+description: Discover how to easily migrate TFS process templates with our updated script. Follow five simple steps to streamline your Agile and Scrum processes!
 date: 2014-06-11
 creator: Martin Hinshelwood
 id: "10558"
@@ -8,17 +8,18 @@ layout: blog
 resourceTypes: blog
 slug: tfs-process-template-migration-script-updated
 aliases:
-  - /blog/tfs-process-template-migration-script-updated
+- /blog/tfs-process-template-migration-script-updated
+- /tfs-process-template-migration-script-updated
 tags:
-  - agile
-  - process-template
-  - scrum
-  - tfs
+- agile
+- process-template
+- scrum
+- tfs
 categories:
-  - tools-and-techniques
+- tools-and-techniques
 preview: nakedalm-experts-visual-studio-alm-1-1.png
----
 
+---
 Did you know that you can quite easily to do a TFS process template migration? Did you notice I used the "quite" in there. Well if you think of the Process Template as the blueprints then the Team Project that you create is the concrete instance of that blueprint.
 
 Warning: naked ALM Consulting provide no warranties of any type, nor accepts any blame for things you do to your servers in your environments. We will however, at our [standard consulting rates](http://nkdalm.net/ALMTerms), provide best efforts to help you resolve any issues that you encounter.

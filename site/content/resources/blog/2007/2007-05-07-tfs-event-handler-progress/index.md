@@ -1,6 +1,6 @@
 ---
 title: TFS Event Handler Progress
-description: "Discover the latest progress on the TFS Event Handler project, tackling key work items and exploring WCF error handling solutions. Join the journey!"
+description: Discover the latest progress on the TFS Event Handler project, tackling key work items and exploring WCF error handling solutions. Join the journey!
 date: 2007-05-07
 creator: Martin Hinshelwood
 id: "402"
@@ -8,17 +8,18 @@ layout: blog
 resourceTypes: blog
 slug: tfs-event-handler-progress
 aliases:
-  - /blog/tfs-event-handler-progress
+- /blog/tfs-event-handler-progress
+- /tfs-event-handler-progress
 tags:
-  - code
-  - tfs-event-handler
-  - wcf
-  - wit
+- code
+- tfs-event-handler
+- wcf
+- wit
 categories:
-  - code-and-complexity
+- code-and-complexity
 preview: metro-binary-vb-128-link-1-1.png
----
 
+---
 I am making lots of progress with this project and I have only a couple of work items left for CTP1:
 
 - 138 [Security issues on uploaded assemblies](http://www.codeplex.com/TFSEventHandler/WorkItem/View.aspx?WorkItemId=138)

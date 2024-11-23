@@ -1,6 +1,6 @@
 ---
 title: Visual Studio 2012 RTM available & installed
-description: "Discover the benefits of upgrading to Visual Studio 2012 RTM. Learn about new features, installation tips, and how to enhance your development process."
+description: Discover the benefits of upgrading to Visual Studio 2012 RTM. Learn about new features, installation tips, and how to enhance your development process.
 date: 2012-08-15
 creator: Martin Hinshelwood
 id: "7149"
@@ -8,23 +8,26 @@ layout: blog
 resourceTypes: blog
 slug: visual-studio-2012-rtm-available-installed
 aliases:
-  - /blog/visual-studio-2012-rtm-available-installed
+- /blog/visual-studio-2012-rtm-available-installed
+- /visual-studio-2012-rtm-available-installed
+- /visual-studio-2012-rtm-available-&-installed
+- /blog/visual-studio-2012-rtm-available-&-installed
 tags:
-  - configuration
-  - develop
-  - nwcadence
-  - tfs
-  - tfs2012
-  - tools
-  - upgrade
-  - visual-studio
-  - vs2012
+- configuration
+- develop
+- nwcadence
+- tfs
+- tfs2012
+- tools
+- upgrade
+- visual-studio
+- vs2012
 categories:
-  - code-and-complexity
-  - tools-and-techniques
+- code-and-complexity
+- tools-and-techniques
 preview: nakedalm-experts-visual-studio-alm-3-3.png
----
 
+---
 With the availability of [Visual Studio 2012 RTM today on MSDN](http://msdn.microsoft.com/en-US/vstudio/) I wanted to let you know that Northwest Cadence just completed its first Production RTM installation for a customer.
 
 Do not fear this upgrade. If you are moving from TFS 2010 this is a simple upgrade although there are many new features and a brand new Web UI. Even from TFS 2008 this is a fairly straight forward and well documented process.

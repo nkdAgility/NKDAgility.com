@@ -3,6 +3,7 @@ title: What is a sprint goal?
 description: 'Discover the essence of a product goal! Join Martin Hinshelwood as he explains its importance in aligning team efforts with customer value. #Agile #Scrum'
 date: 2023-10-10
 videoId: qXsjLuss22Y
+source: internal
 url: /resources/videos/:slug
 slug: what-is-a-sprint-goal
 preview: https://i.ytimg.com/vi/qXsjLuss22Y/maxresdefault.jpg
@@ -13,6 +14,7 @@ aliases:
 - /resources/what-is-a-product-goal
 - /resources/videos/what-is-a-product-goal-
 - /resources/videos/qXsjLuss22Y
+- /resources/what-is-a-product-goal-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -114,9 +116,3 @@ Then my Agile and Scrum courses are just the thing for you!
 Let's continue this journey towards Scrum mastery together.
 
 About NKD Agility
-
-
-
-
-
-

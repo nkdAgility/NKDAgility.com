@@ -1,6 +1,6 @@
 ---
 title: Removing a dead Solution Deployment from MOSS 2007
-description: "Learn how to effectively remove a stuck solution deployment in MOSS 2007. Follow our step-by-step guide to resolve deployment issues with ease!"
+description: Learn how to effectively remove a stuck solution deployment in MOSS 2007. Follow our step-by-step guide to resolve deployment issues with ease!
 date: 2008-12-10
 creator: Martin Hinshelwood
 id: "155"
@@ -8,14 +8,15 @@ layout: blog
 resourceTypes: blog
 slug: removing-a-dead-solution-deployment-from-moss-2007
 aliases:
-  - /blog/removing-a-dead-solution-deployment-from-moss-2007
+- /blog/removing-a-dead-solution-deployment-from-moss-2007
+- /removing-a-dead-solution-deployment-from-moss-2007
 tags:
-  - moss2007
-  - sharepoint
-  - tools
+- moss2007
+- sharepoint
+- tools
 preview: metro-sharepoint-128-link-1-1.png
----
 
+---
 If, like me, you tried to deploy a solution to Microsoft Office SharePoint Server 2007 and it ether failed or hung you will need to remove it somehow. But once the status has moved to “deploying”, if you receive an error like this:
 
 > Error: The web.config is invalid on this IIS Web Site: C:InetpubwwwrootwssVirtualDirectoriessearch.xxx.xxx.biz80web.config.

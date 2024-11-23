@@ -3,6 +3,7 @@ title: What is a sprint goal?
 description: "Unlock the secrets of sprint planning! Discover common pitfalls in agility and learn to empower your team for swift market responses. \U0001F680\U0001F4C8"
 date: 2023-10-10
 videoId: JVZzJZ5q0Hw
+source: internal
 url: /resources/videos/:slug
 slug: what-is-the-most-common-mistake-in-sprint-planning
 preview: https://i.ytimg.com/vi/JVZzJZ5q0Hw/maxresdefault.jpg
@@ -13,6 +14,7 @@ aliases:
 - /resources/what-is-a-sprint-goal
 - /resources/videos/what-is-the-most-common-mistake-in-sprint-planning-
 - /resources/videos/JVZzJZ5q0Hw
+- /resources/what-is-the-most-common-mistake-in-sprint-planning-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -104,9 +106,3 @@ Then my Agile and Scrum courses are just the thing for you!
 Let's continue this journey towards Scrum mastery together.
 
 About NKD Agility
-
-
-
-
-
-

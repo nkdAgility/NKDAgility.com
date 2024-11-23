@@ -1,6 +1,6 @@
 ---
 title: New laptop and Windows 7
-description: "Discover our journey to find the perfect pink laptop running Windows 7! Join us as we explore features, performance, and the ultimate WAF boost."
+description: Discover our journey to find the perfect pink laptop running Windows 7! Join us as we explore features, performance, and the ultimate WAF boost.
 date: 2009-02-14
 creator: Martin Hinshelwood
 id: "139"
@@ -8,12 +8,13 @@ layout: blog
 resourceTypes: blog
 slug: new-laptop-and-windows-7
 aliases:
-  - /blog/new-laptop-and-windows-7
+- /blog/new-laptop-and-windows-7
+- /new-laptop-and-windows-7
 categories:
-  - me
+- me
 preview: nakedalm-logo-128-link-3-1.png
----
 
+---
 We have needed a new laptop in the Hinshelwood household for a while now. My old laptop was 8 years old, and although it was a mobile desktop, it ran Vista like a dog… Now the main use of a laptop in our household is for internet and pictures, but I defiantly wanted to run Windows 7.
 
 My wife's only caveat was that it had to be pink!
