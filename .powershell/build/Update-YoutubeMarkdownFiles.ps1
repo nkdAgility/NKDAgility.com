@@ -85,8 +85,8 @@ function Update-YoutubeMarkdownFiles {
             # Remove consecutive dashes
             $urlSafeTitle = $urlSafeTitle -replace '-+', '-'
 
+            $aliases = @("/resources/videos/$videoId", "/resources/videos/$urlSafeTitle", "/resources/$urlSafeTitle")
            
-
             # Get the tags from the snippet and filter out excluded tags
             $tags = @()
             if ($videoSnippet.tags) {
@@ -109,7 +109,7 @@ function Update-YoutubeMarkdownFiles {
                 $externalUrl = "https://www.youtube.com/watch?v=$videoId"
                 Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'canonicalUrl' -fieldValue $externalUrl
             }           
-            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliases' -values (@("/resources/videos/$videoId", "/resources/videos/$urlSafeTitle"))
+            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliases' -values $aliases
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'preview' -fieldValue $thumbnailUrl 
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'duration' -fieldValue $durationInSeconds
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'isShort' -fieldValue $isShort
@@ -126,7 +126,7 @@ function Update-YoutubeMarkdownFiles {
             # Save the updated HugoMarkdown to index.md
             $frontMatterYaml = "---`n" + ($hugoMarkdown.FrontMatter | ConvertTo-Yaml) + "`n---`n"
             $markdownContent = $frontMatterYaml + $hugoMarkdown.BodyContent
-            Set-Content -Path $markdownFile -Value $markdownContent
+            Set-Content -Path $markdownFile -Value $markdownContent.TrimEnd()
             Write-Host "Markdown created or updated for video: $($videoSnippet.title)"
         }
     }
