@@ -1,6 +1,6 @@
 ---
 title: Blogging about...
-description: "Join Martin Hinshelwood as he shares insights on TFS, Visual Studio, and personal reflections during his career transition. Discover his journey and tips!"
+description: Join Martin Hinshelwood as he shares insights on TFS, Visual Studio, and personal reflections during his career transition. Discover his journey and tips!
 date: 2007-09-12
 creator: Martin Hinshelwood
 id: "314"
@@ -8,18 +8,21 @@ layout: blog
 resourceTypes: blog
 slug: blogging-about
 aliases:
-  - /blog/blogging-about
+- /blog/blogging-about
+- /blogging-about
+- /blogging-about---
+- /blog/blogging-about---
 tags:
-  - tfs
-  - tfs2008
-  - visual-studio
-  - vs2008
-  - wcf
+- tfs
+- tfs2008
+- visual-studio
+- vs2008
+- wcf
 categories:
-  - me
+- me
 preview: metro-visual-studio-2005-128-link-1-1.png
----
 
+---
 Well, I have not done one of these is a while...I could say that I have been busy, but I have not been :)
 
 I have been finishing up at Merrill Lynch in lue of starting my new job at Aggreko, and as I finished up on Friday, and I don't start till Monday, you could say that I am currently Unemployed. If only for a week...

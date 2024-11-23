@@ -1,6 +1,6 @@
 ---
 title: It's that time again; get ready to upgrade to TFS 2015
-description: "Prepare for the TFS 2015 upgrade! Discover essential strategies and tips to ensure a smooth transition before support for TFS 2010 ends. Don't wait!"
+description: Prepare for the TFS 2015 upgrade! Discover essential strategies and tips to ensure a smooth transition before support for TFS 2010 ends. Don't wait!
 date: 2015-03-17
 creator: Martin Hinshelwood
 id: "11241"
@@ -8,21 +8,24 @@ layout: blog
 resourceTypes: blog
 slug: its-that-time-again-get-ready-to-upgrade-to-tfs-2015
 aliases:
-  - /blog/its-that-time-again-get-ready-to-upgrade-to-tfs-2015
+- /blog/its-that-time-again-get-ready-to-upgrade-to-tfs-2015
+- /its-that-time-again-get-ready-to-upgrade-to-tfs-2015
+- /it's-that-time-again;-get-ready-to-upgrade-to-tfs-2015
+- /blog/it's-that-time-again;-get-ready-to-upgrade-to-tfs-2015
 tags:
-  - tfs
-  - tfs2005
-  - tfs2008
-  - tfs2010
-  - tfs2012
-  - tfs-2013
-  - tfs-2015
-  - upgrade
+- tfs
+- tfs2005
+- tfs2008
+- tfs2010
+- tfs2012
+- tfs-2013
+- tfs-2015
+- upgrade
 categories:
-  - upgrade-and-maintenance
+- upgrade-and-maintenance
 preview: nakedalm-experts-visual-studio-alm-1-1.png
----
 
+---
 With the release of Team Foundation Server 2015 CTP you should be starting to plan your upgrade strategy. It's going to be a tough one but you should get ready to upgrade to TFS 2015 now.
 
 Mainstream support for TFS 2010 ends on 14/07/2015.

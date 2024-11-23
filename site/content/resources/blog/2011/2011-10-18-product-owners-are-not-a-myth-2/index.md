@@ -1,6 +1,6 @@
 ---
 title: Product Owners are not a myth
-description: "Discover the vital role of Product Owners in Scrum. Learn how they maximize value and manage backlogs effectively for successful agile development."
+description: Discover the vital role of Product Owners in Scrum. Learn how they maximize value and manage backlogs effectively for successful agile development.
 date: 2011-10-18
 creator: Martin Hinshelwood
 id: "3909"
@@ -8,20 +8,23 @@ layout: blog
 resourceTypes: blog
 slug: product-owners-are-not-a-myth-2
 aliases:
-  - /blog/product-owners-are-not-a-myth-2
+- /blog/product-owners-are-not-a-myth-2
+- /product-owners-are-not-a-myth-2
+- /product-owners-are-not-a-myth
+- /blog/product-owners-are-not-a-myth
 tags:
-  - agile
-  - define
-  - develop
-  - nwcadence
-  - people
-  - process
-  - scrum
+- agile
+- define
+- develop
+- nwcadence
+- people
+- process
+- scrum
 categories:
-  - people-and-process
+- people-and-process
 preview: nakedalm-experts-professional-scrum-1-1.png
----
 
+---
 ![PST Logo 2](images/PST-Logo-2-4-4.png "PST Logo 2")[Steven Borg](http://blog.nwcadence.com/author/stevenborg/) brought "[5 Reasons Why a Product Owner Team Might Be a Good Idea](http://blog.scrumphony.com/2011/10/5-reasons-why-a-product-owner-team-might-be-a-good-idea/)" to my attention which in turn lead me to read "[Is Scrum a –ism that doesn’t work for real?](http://www.marcusoft.net/2011/10/is-scrum-dead-is-scrum-aism.html)", and for me there seams to be a certain amount of “missing the point” and I wanted to try to find it.
 { .post-img }
 

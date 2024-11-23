@@ -1,6 +1,6 @@
 ---
 title: Visual Studio Team System 2008 Database Edition GDR Installation
-description: "Learn how to install Visual Studio Team System 2008 Database Edition GDR with essential tips and resources for a smooth setup. Get started now!"
+description: Learn how to install Visual Studio Team System 2008 Database Edition GDR with essential tips and resources for a smooth setup. Get started now!
 date: 2008-11-26
 creator: Martin Hinshelwood
 id: "161"
@@ -8,15 +8,16 @@ layout: blog
 resourceTypes: blog
 slug: visual-studio-team-system-2008-database-edition-gdr-installation
 aliases:
-  - /blog/visual-studio-team-system-2008-database-edition-gdr-installation
+- /blog/visual-studio-team-system-2008-database-edition-gdr-installation
+- /visual-studio-team-system-2008-database-edition-gdr-installation
 tags:
-  - tfs
-  - tools
-  - visual-studio
-  - vs2008
+- tfs
+- tools
+- visual-studio
+- vs2008
 preview: metro-visual-studio-2005-128-link-1-1.png
----
 
+---
 First, download the new Data Dude.
 
 > **Download page**  

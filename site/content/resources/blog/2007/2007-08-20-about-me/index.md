@@ -1,6 +1,6 @@
 ---
 title: About Me
-description: "Discover the journey of Martin Hinshelwood, a tech enthusiast sharing insights and experiences while striving to stand out in a world of football fame."
+description: Discover the journey of Martin Hinshelwood, a tech enthusiast sharing insights and experiences while striving to stand out in a world of football fame.
 date: 2007-08-20
 creator: Martin Hinshelwood
 id: "329"
@@ -8,12 +8,13 @@ layout: blog
 resourceTypes: blog
 slug: about-me
 aliases:
-  - /blog/about-me
+- /blog/about-me
+- /about-me
 categories:
-  - me
+- me
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 I thought I should take a leaf out of [Scott Dorman's](http://geekswithblogs.net/sdorman/archive/2007/08/15/About.aspx "About Scott Dorman") book and post some information about me:
 
 - [About Martin John Hinshelwood](http://blog.multidimensionalfreethinking.co.uk/archive/2007/08/20/About-Martin-John-Hinshelwood.aspx)

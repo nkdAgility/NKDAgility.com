@@ -1,6 +1,6 @@
 ---
-title: "NDC London: Second Look, Team Foundation Server &amp; VSO"
-description: "Join Martin Hinshelwood at NDC London for a deep dive into Team Foundation Server and VSO, showcasing powerful ALM features and live demos. Don't miss out!"
+title: 'NDC London: Second Look, Team Foundation Server &amp; VSO'
+description: Join Martin Hinshelwood at NDC London for a deep dive into Team Foundation Server and VSO, showcasing powerful ALM features and live demos. Don't miss out!
 date: 2014-10-15
 creator: Martin Hinshelwood
 id: "10811"
@@ -8,23 +8,26 @@ layout: blog
 resourceTypes: blog
 slug: ndc-london-second-look-team-foundation-server-vso
 aliases:
-  - /blog/ndc-london-second-look-team-foundation-server-vso
+- /blog/ndc-london-second-look-team-foundation-server-vso
+- /ndc-london-second-look-team-foundation-server-vso
+- /ndc-london--second-look,-team-foundation-server-&amp;-vso
+- /blog/ndc-london--second-look,-team-foundation-server-&amp;-vso
 tags:
-  - backlog-management
-  - code-sense
-  - codedui
-  - feedback-client
-  - my-work
-  - portfolio-management
-  - release-management
-  - storyboarding
-  - tfs-2013-3
-  - vsteamservices
+- backlog-management
+- code-sense
+- codedui
+- feedback-client
+- my-work
+- portfolio-management
+- release-management
+- storyboarding
+- tfs-2013-3
+- vsteamservices
 categories:
-  - events-and-presentations
+- events-and-presentations
 preview: metro-event-icon-7-7.png
----
 
+---
 While I have spoken at many events in the USA while I lived there, and even did a few keynotes for the Visual Studio 2012 launch, I have been trying to figure out the scene here in Europe. As such I submitted to a few events and got accepted to speak at NDC London.
 
 [![martin-hinshelwood-ndc-london-2014-tfs-vso](images/martin-hinshelwood-ndc-london-2014-tfs-vso-800x450-5-6.png)](http://www.ndcvideos.com/#/app/video/2641)

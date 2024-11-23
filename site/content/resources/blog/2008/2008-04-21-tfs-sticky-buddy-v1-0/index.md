@@ -1,6 +1,6 @@
 ---
 title: TFS Sticky Buddy v1.0
-description: "Discover TFS Sticky Buddy v1.0, a powerful tool for visualizing TFS Work Items with customizable templates. Enhance your project management today!"
+description: Discover TFS Sticky Buddy v1.0, a powerful tool for visualizing TFS Work Items with customizable templates. Enhance your project management today!
 date: 2008-04-21
 creator: Martin Hinshelwood
 id: "236"
@@ -8,19 +8,20 @@ layout: blog
 resourceTypes: blog
 slug: tfs-sticky-buddy-v1-0
 aliases:
-  - /blog/tfs-sticky-buddy-v1-0
+- /blog/tfs-sticky-buddy-v1-0
+- /tfs-sticky-buddy-v1-0
 tags:
-  - tfs
-  - tfs-sticky-buddy
-  - visual-studio
-  - vs2008
-  - wit
-  - wpf
+- tfs
+- tfs-sticky-buddy
+- visual-studio
+- vs2008
+- wit
+- wpf
 categories:
-  - me
+- me
 preview: metro-visual-studio-2005-128-link-2-1.png
----
 
+---
 This is the first [full release](http://www.codeplex.com/TFSStickyBuddy/Release/ProjectReleases.aspx) of the [TFS Sticky Buddy application](http://www.codeplex.com/TFSStickyBuddy) written in VB.NET 9 and WPF with Visual Studio 2008 Team Suit.
 
 [![image](images/TFSStickyBuddyv1.0_8FC3-image_thumb-1-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TFSStickyBuddyv1.0_8FC3-image_2.png)

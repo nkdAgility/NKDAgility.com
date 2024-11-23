@@ -1,6 +1,6 @@
 ---
 title: Execute Tests with Release Management for Visual Studio 2013
-description: "Learn to execute tests seamlessly with Release Management for Visual Studio 2013. Simplify your automated testing and deployment processes today!"
+description: Learn to execute tests seamlessly with Release Management for Visual Studio 2013. Simplify your automated testing and deployment processes today!
 date: 2014-01-27
 creator: Martin Hinshelwood
 id: "10342"
@@ -8,20 +8,23 @@ layout: blog
 resourceTypes: blog
 slug: execute-tests-release-management-visual-studio-2013
 aliases:
-  - /blog/execute-tests-release-management-visual-studio-2013
+- /blog/execute-tests-release-management-visual-studio-2013
+- /execute-tests-release-management-visual-studio-2013
+- /execute-tests-with-release-management-for-visual-studio-2013
+- /blog/execute-tests-with-release-management-for-visual-studio-2013
 tags:
-  - automated-testing
-  - release
-  - release-management
-  - release-pipline
-  - standard-environments
+- automated-testing
+- release
+- release-management
+- release-pipline
+- standard-environments
 categories:
-  - install-and-configuration
-  - test-and-validation
-  - tools-and-techniques
+- install-and-configuration
+- test-and-validation
+- tools-and-techniques
 preview: nakedalm-experts-visual-studio-alm-7-7.png
----
 
+---
 Last week I was onsite with a customer who was trying to do automated release and test with Lab Management. I showed him a better way by execute Tests with Release Management for Visual Studio 2013.
 
 UPDATE Make sure that your build name does not contain any spaces as there is a [bug in the PowerShell script used by Release Management](http://blogs.msdn.com/b/mpeder/archive/2014/03/03/fixing-error-in-release-management-when-using-quot-mtm-automated-tests-manager-quot-build-name-restriction.aspx)

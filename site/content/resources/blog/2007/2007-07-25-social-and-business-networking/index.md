@@ -1,6 +1,6 @@
 ---
 title: Social and Business Networking
-description: "Explore innovative solutions for social and business networking. Discover how a central system can streamline connections across platforms for enhanced collaboration."
+description: Explore innovative solutions for social and business networking. Discover how a central system can streamline connections across platforms for enhanced collaboration.
 date: 2007-07-25
 creator: Martin Hinshelwood
 id: "359"
@@ -8,12 +8,13 @@ layout: blog
 resourceTypes: blog
 slug: social-and-business-networking
 aliases:
-  - /blog/social-and-business-networking
+- /blog/social-and-business-networking
+- /social-and-business-networking
 tags:
-  - service-oriented-architecture
+- service-oriented-architecture
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 In the modern era networking is not just the preview of business men. There have been many sites created over the last few years but they only seam to implement one or maybe two if the strategies for providing either a community or business networking site. A [list of social networking sites](http://en.wikipedia.org/wiki/List_of_social_networking_websites "list of social networking sites") can be found on Wikipedia.
 
 The problem with the current [social networks](http://en.wikipedia.org/wiki/Social_network) is that you need to set all of them up separately, and although they provide ways to import your contacts it is time consuming and is prone to error if your contact details are out of date.

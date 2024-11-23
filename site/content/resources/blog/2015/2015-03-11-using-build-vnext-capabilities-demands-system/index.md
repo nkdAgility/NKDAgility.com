@@ -1,6 +1,6 @@
 ---
 title: Using the Build vNext capabilities and demands system
-description: "Explore the new Build vNext capabilities and demands system in TFS 2015. Simplify your build process with enhanced features and auto-detection. Learn more!"
+description: Explore the new Build vNext capabilities and demands system in TFS 2015. Simplify your build process with enhanced features and auto-detection. Learn more!
 date: 2015-03-11
 creator: Martin Hinshelwood
 id: "11081"
@@ -8,18 +8,21 @@ layout: blog
 resourceTypes: blog
 slug: using-build-vnext-capabilities-demands-system
 aliases:
-  - /blog/using-build-vnext-capabilities-demands-system
+- /blog/using-build-vnext-capabilities-demands-system
+- /using-build-vnext-capabilities-demands-system
+- /using-the-build-vnext-capabilities-and-demands-system
+- /blog/using-the-build-vnext-capabilities-and-demands-system
 tags:
-  - build
-  - build-vnext
-  - tfs
-  - tfs-2015
-  - vsteamservices
+- build
+- build-vnext
+- tfs
+- tfs-2015
+- vsteamservices
 categories:
-  - tools-and-techniques
+- tools-and-techniques
 preview: nakedalm-experts-visual-studio-alm-7-7.png
----
 
+---
 Using the Build vNext capabilities and demands in VSO is one of the new cool features of the vNext build system being developed by Microsoft on VSO.
 
 #### Download Team Foundation Server 2015 today

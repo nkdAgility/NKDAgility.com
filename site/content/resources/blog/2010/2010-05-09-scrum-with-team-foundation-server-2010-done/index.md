@@ -1,6 +1,6 @@
 ---
 title: Scrum with Team Foundation Server 2010 Done
-description: "Explore effective project management with Scrum and Team Foundation Server 2010. Discover insights from DDD Scotland and enhance your agile practices!"
+description: Explore effective project management with Scrum and Team Foundation Server 2010. Discover insights from DDD Scotland and enhance your agile practices!
 date: 2010-05-09
 creator: Martin Hinshelwood
 id: "43"
@@ -8,23 +8,24 @@ layout: blog
 resourceTypes: blog
 slug: scrum-with-team-foundation-server-2010-done
 aliases:
-  - /blog/scrum-with-team-foundation-server-2010-done
+- /blog/scrum-with-team-foundation-server-2010-done
+- /scrum-with-team-foundation-server-2010-done
 tags:
-  - agile
-  - develop
-  - events-and-presentations
-  - process
-  - scrum
-  - ssw
-  - tfs
-  - tfs2010
-  - tools
+- agile
+- develop
+- events-and-presentations
+- process
+- scrum
+- ssw
+- tfs
+- tfs2010
+- tools
 categories:
-  - tools-and-techniques
-  - upgrade-and-maintenance
+- tools-and-techniques
+- upgrade-and-maintenance
 preview: metro-event-128-link-3-3.png
----
 
+---
 [![DDD](images/2139dc5039e8_9EA4-DDD_thumb-2-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-2139dc5039e8_9EA4-DDD_2.png)Since I have joined SSW as a Solution Architect its Chief Architect, Adam Cogan, has been mentoring me and pushing me to do better. One of the things that I have been wanting to do since the first DDD Scotland was to present a session. For DDD Scotland 2010 Adam suggested that I submit he double session on “Better project Management with Team Foundation Server 2010”.
 { .post-img }
 

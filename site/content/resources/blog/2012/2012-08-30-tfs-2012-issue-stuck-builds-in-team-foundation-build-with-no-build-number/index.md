@@ -1,6 +1,6 @@
 ---
-title: "TFS 2012 - Issue: Stuck builds in Team Foundation Build with no build number"
-description: "Resolve stuck builds in TFS 2012 with our troubleshooting guide. Discover key insights and solutions to get your Team Foundation Build back on track!"
+title: 'TFS 2012 - Issue: Stuck builds in Team Foundation Build with no build number'
+description: Resolve stuck builds in TFS 2012 with our troubleshooting guide. Discover key insights and solutions to get your Team Foundation Build back on track!
 date: 2012-08-30
 creator: Martin Hinshelwood
 id: "7760"
@@ -8,17 +8,20 @@ layout: blog
 resourceTypes: blog
 slug: tfs-2012-issue-stuck-builds-in-team-foundation-build-with-no-build-number
 aliases:
-  - /blog/tfs-2012-issue-stuck-builds-in-team-foundation-build-with-no-build-number
+- /blog/tfs-2012-issue-stuck-builds-in-team-foundation-build-with-no-build-number
+- /tfs-2012-issue-stuck-builds-in-team-foundation-build-with-no-build-number
+- /tfs-2012---issue--stuck-builds-in-team-foundation-build-with-no-build-number
+- /blog/tfs-2012---issue--stuck-builds-in-team-foundation-build-with-no-build-number
 tags:
-  - puzzles
-  - tfs-build
-  - tfs
-  - tfs2012
+- puzzles
+- tfs-build
+- tfs
+- tfs2012
 categories:
-  - problems-and-puzzles
+- problems-and-puzzles
 preview: metro-problem-icon-7-7.png
----
 
+---
 When you queue a build you never get a build number and the build never completes. [![image](images/image_thumb109-1-1.png "image")](http://blog.hinshelwood.com/files/2012/08/image110.png)  
 { .post-img }
 **Figure: Stuck build**

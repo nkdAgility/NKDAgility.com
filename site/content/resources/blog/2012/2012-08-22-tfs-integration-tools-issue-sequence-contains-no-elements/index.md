@@ -1,6 +1,6 @@
 ---
-title: "TFS Integration Tools - Issue: Sequence contains no elements"
-description: "Discover solutions for the 'Sequence contains no elements' error in TFS Integration Tools. Learn effective workarounds to streamline your migration process!"
+title: 'TFS Integration Tools - Issue: Sequence contains no elements'
+description: Discover solutions for the 'Sequence contains no elements' error in TFS Integration Tools. Learn effective workarounds to streamline your migration process!
 date: 2012-08-22
 creator: Martin Hinshelwood
 id: "7377"
@@ -8,16 +8,19 @@ layout: blog
 resourceTypes: blog
 slug: tfs-integration-tools-issue-sequence-contains-no-elements
 aliases:
-  - /blog/tfs-integration-tools-issue-sequence-contains-no-elements
+- /blog/tfs-integration-tools-issue-sequence-contains-no-elements
+- /tfs-integration-tools-issue-sequence-contains-no-elements
+- /tfs-integration-tools---issue--sequence-contains-no-elements
+- /blog/tfs-integration-tools---issue--sequence-contains-no-elements
 tags:
-  - puzzles
-  - tfs
-  - tfs-integration-platform
+- puzzles
+- tfs
+- tfs-integration-platform
 categories:
-  - problems-and-puzzles
+- problems-and-puzzles
 preview: metro-problem-icon-3-3.png
----
 
+---
 According to [TFS Integration Tools – March 2012 Release](http://blogs.msdn.com/b/willy-peter_schaub/archive/2012/03/20/tfs-integration-tools-march-2012-release.aspx) there was a fix for “Resolving VC namespace conflicts results in System.InvalidOperationException: Sequence contains no elements” in the March release. I am using the March release and:
 
 [![image](images/image_thumb64-1-1.png "image")](http://blog.hinshelwood.com/files/2012/08/image64.png)  

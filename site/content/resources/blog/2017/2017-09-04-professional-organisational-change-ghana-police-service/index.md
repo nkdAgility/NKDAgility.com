@@ -1,6 +1,6 @@
 ---
 title: Professional Organisational Change at the Ghana Police Service
-description: "Explore the Ghana Police Service's transformative journey towards a world-class organization, embracing agile practices for lasting change and public trust."
+description: Explore the Ghana Police Service's transformative journey towards a world-class organization, embracing agile practices for lasting change and public trust.
 date: 2017-09-04
 creator: Martin Hinshelwood
 id: "12011"
@@ -8,17 +8,20 @@ layout: blog
 resourceTypes: blog
 slug: professional-organisational-change-ghana-police-service
 aliases:
-  - /blog/professional-organisational-change-ghana-police-service
+- /blog/professional-organisational-change-ghana-police-service
+- /professional-organisational-change-ghana-police-service
+- /professional-organisational-change-at-the-ghana-police-service
+- /blog/professional-organisational-change-at-the-ghana-police-service
 tags:
-  - ghana
-  - organisational-change
-  - police
-  - scrum
+- ghana
+- organisational-change
+- police
+- scrum
 categories:
-  - agility
+- agility
 preview: nkdagility-akaditi-ghana-police-scrum-board-4-3.jpg
----
 
+---
 The [Ghana Police Service](http://police.gov.gh/) is in trouble. Over the last few last few decades each new Police organisation and government has tried in various ways to carry out some change but most changes have been ad-hoc, temporary, not robust enough or strategic. The old problems return to haunt new administrations and many police officers and the Public have lost hope.
 
 In order to create any lasting and permanent change, a transformation is required. A departure from the old to a new modern and professional way to provide protective services to the public and uphold the law. For a permanent change to happen it requires 3 things.

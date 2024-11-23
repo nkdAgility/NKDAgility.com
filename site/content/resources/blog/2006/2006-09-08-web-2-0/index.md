@@ -1,6 +1,6 @@
 ---
 title: Web 2.0
-description: "Explore the essence of Web 2.0 and its impact on the internet landscape. Understand this buzzword and enhance your project discussions with confidence!"
+description: Explore the essence of Web 2.0 and its impact on the internet landscape. Understand this buzzword and enhance your project discussions with confidence!
 date: 2006-09-08
 creator: Martin Hinshelwood
 id: "463"
@@ -8,13 +8,14 @@ layout: blog
 resourceTypes: blog
 slug: web-2-0
 aliases:
-  - /blog/web-2-0
+- /blog/web-2-0
+- /web-2-0
 tags:
-  - off-topic
-  - web
+- off-topic
+- web
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 Over the last wee while I have been seeing a lot of talk of “Web 2.0” and I wondered what the hell it was! Was it .NET related? No. (Well kind of) So I set out on the onerous task of finding out. So I Googled it, and low and behold, the first result!
 
 [http://www.oreillynet.com/pub/a/oreilly/tim/news/2005/09/30/what-is-web-20.html](http://www.oreillynet.com/pub/a/oreilly/tim/news/2005/09/30/what-is-web-20.html)

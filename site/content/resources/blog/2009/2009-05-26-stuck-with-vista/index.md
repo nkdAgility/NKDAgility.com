@@ -1,6 +1,6 @@
 ---
 title: Stuck with Vista?
-description: "Stuck with Windows Vista? Discover the benefits of Service Pack 2 and how it can enhance your experience. Find solutions to common issues today!"
+description: Stuck with Windows Vista? Discover the benefits of Service Pack 2 and how it can enhance your experience. Find solutions to common issues today!
 date: 2009-05-26
 creator: Martin Hinshelwood
 id: "107"
@@ -8,12 +8,15 @@ layout: blog
 resourceTypes: blog
 slug: stuck-with-vista
 aliases:
-  - /blog/stuck-with-vista
+- /blog/stuck-with-vista
+- /stuck-with-vista
+- /stuck-with-vista-
+- /blog/stuck-with-vista-
 tags:
-  - tools
+- tools
 preview: nakedalm-logo-128-link-7-1.png
----
 
+---
 If, like me, you are stuck with the old and decrepit version of Windows that is Vista SP1 at work then you may be interested in Service Pack 2 which became available on the MS Download site today.
 
 [Windows Server 2008 Service Pack 2 and Windows Vista Service Pack 2 - Five Language Standalone (KB948465)](http://www.microsoft.com/downloads/details.aspx?FamilyID=a4dd31d5-f907-4406-9012-a5c3199ea2b3&DisplayLang=en)

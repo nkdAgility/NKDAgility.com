@@ -1,6 +1,6 @@
 ---
 title: The great Team Foundation Server 2013 Upgrade Weekend
-description: "Join the Team Foundation Server 2013 Upgrade Weekend on Sept 13-15 for expert support in upgrading and configuring TFS 2013. RSVP now for a smooth transition!"
+description: Join the Team Foundation Server 2013 Upgrade Weekend on Sept 13-15 for expert support in upgrading and configuring TFS 2013. RSVP now for a smooth transition!
 date: 2013-08-27
 creator: Martin Hinshelwood
 id: "9989"
@@ -8,17 +8,18 @@ layout: blog
 resourceTypes: blog
 slug: the-great-team-foundation-server-2013-upgrade-weekend
 aliases:
-  - /blog/the-great-team-foundation-server-2013-upgrade-weekend
+- /blog/the-great-team-foundation-server-2013-upgrade-weekend
+- /the-great-team-foundation-server-2013-upgrade-weekend
 tags:
-  - configuration
-  - install
-  - tfs
-  - tfs-2013
-  - upgrade
+- configuration
+- install
+- tfs
+- tfs-2013
+- upgrade
 categories:
-  - news-and-reviews
----
+- news-and-reviews
 
+---
 The product team have put some more engineering resources where their mouth is and the great Team Foundation Server 2013 Upgrade Weekend will be on September 13-15.
 
 [![](images/728x90_VSvNext_Border_EN_US1-1-1.gif)](http://nkdagility.com/vs2013Preview/)

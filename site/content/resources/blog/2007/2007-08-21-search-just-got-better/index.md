@@ -1,6 +1,6 @@
 ---
 title: Search just got better
-description: "Discover Tafiti, a revolutionary search tool designed for dyslexic users. Experience intuitive features that enhance your search efficiency and ease."
+description: Discover Tafiti, a revolutionary search tool designed for dyslexic users. Experience intuitive features that enhance your search efficiency and ease.
 date: 2007-08-21
 creator: Martin Hinshelwood
 id: "323"
@@ -8,15 +8,16 @@ layout: blog
 resourceTypes: blog
 slug: search-just-got-better
 aliases:
-  - /blog/search-just-got-better
+- /blog/search-just-got-better
+- /search-just-got-better
 tags:
-  - dyslexia
-  - live
+- dyslexia
+- live
 categories:
-  - products-and-books
+- products-and-books
 preview: nakedalm-logo-128-link-6-1.png
----
 
+---
 I just had to pick my jaw up off the floor. What made me gawk! [Tafiti](http://www.tafiti.com/) that's what.
 
 [![image](images/Searchjustgotbetter_12674-image_thumb_1-1-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Searchjustgotbetter_12674-image_1.png)

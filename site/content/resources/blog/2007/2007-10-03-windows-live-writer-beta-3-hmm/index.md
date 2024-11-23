@@ -1,6 +1,6 @@
 ---
 title: Windows Live Writer Beta 3 Hmm!
-description: "Explore the quirks of Windows Live Writer Beta 3 as I share my support experience and the hunt for the correct download link. Join the conversation!"
+description: Explore the quirks of Windows Live Writer Beta 3 as I share my support experience and the hunt for the correct download link. Join the conversation!
 date: 2007-10-03
 creator: Martin Hinshelwood
 id: "305"
@@ -8,14 +8,17 @@ layout: blog
 resourceTypes: blog
 slug: windows-live-writer-beta-3-hmm
 aliases:
-  - /blog/windows-live-writer-beta-3-hmm
+- /blog/windows-live-writer-beta-3-hmm
+- /windows-live-writer-beta-3-hmm
+- /windows-live-writer-beta-3-hmm-
+- /blog/windows-live-writer-beta-3-hmm-
 tags:
-  - live
+- live
 categories:
-  - products-and-books
+- products-and-books
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 I submitted a trouble ticket about my previous [post](http://blog.hinshelwood.com/archive/2007/10/02/Windows-Live-Writer-Beta-3.aspx) on [http://support.live.com](http://support.live.com) and got a prompt reply from Microsoft support giving me some directions for cleaning up beta bits of my system, and a URL for a direct download:
 
 Windows Live Writer 2008: [http://g.msn.com/4SAWLWENUS/WriterMSI](http://g.live.com/1rebeta/WLM_en-us)

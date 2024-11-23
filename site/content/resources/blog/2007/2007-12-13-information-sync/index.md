@@ -1,6 +1,6 @@
 ---
 title: Information Sync
-description: "Discover effective solutions for syncing contacts and calendars with Plaxo. Learn how to streamline your mobile and online tools for better organization!"
+description: Discover effective solutions for syncing contacts and calendars with Plaxo. Learn how to streamline your mobile and online tools for better organization!
 date: 2007-12-13
 creator: Martin Hinshelwood
 id: "279"
@@ -8,14 +8,15 @@ layout: blog
 resourceTypes: blog
 slug: information-sync
 aliases:
-  - /blog/information-sync
+- /blog/information-sync
+- /information-sync
 tags:
-  - windows-mobile-6
+- windows-mobile-6
 categories:
-  - me
+- me
 preview: nakedalm-logo-128-link-6-6.png
----
 
+---
 [![image](images/InformationSync_1CD-image_thumb_3-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-InformationSync_1CD-image_8.png)
 { .post-img }
 

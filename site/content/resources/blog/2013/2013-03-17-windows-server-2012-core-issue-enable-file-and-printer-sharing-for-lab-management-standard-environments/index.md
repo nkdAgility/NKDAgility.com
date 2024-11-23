@@ -1,6 +1,6 @@
 ---
-title: "Lab Management Issue: Enable File and Printer Sharing for Lab Management Standard Environments"
-description: "Resolve file and printer sharing issues in Visual Studio 2012 Lab Management on Windows 8 and Server 2012. Follow our guide for seamless integration!"
+title: 'Lab Management Issue: Enable File and Printer Sharing for Lab Management Standard Environments'
+description: Resolve file and printer sharing issues in Visual Studio 2012 Lab Management on Windows 8 and Server 2012. Follow our guide for seamless integration!
 date: 2013-03-17
 creator: Martin Hinshelwood
 id: "9288"
@@ -8,20 +8,23 @@ layout: blog
 resourceTypes: blog
 slug: windows-server-2012-core-issue-enable-file-and-printer-sharing-for-lab-management-standard-environments
 aliases:
-  - /blog/windows-server-2012-core-issue-enable-file-and-printer-sharing-for-lab-management-standard-environments
+- /blog/windows-server-2012-core-issue-enable-file-and-printer-sharing-for-lab-management-standard-environments
+- /windows-server-2012-core-issue-enable-file-and-printer-sharing-for-lab-management-standard-environments
+- /lab-management-issue--enable-file-and-printer-sharing-for-lab-management-standard-environments
+- /blog/lab-management-issue--enable-file-and-printer-sharing-for-lab-management-standard-environments
 tags:
-  - configuration
-  - core
-  - infrastructure
-  - tfs
-  - tfs2012-2
-  - tools
-  - windows-server
+- configuration
+- core
+- infrastructure
+- tfs
+- tfs2012-2
+- tools
+- windows-server
 categories:
-  - code-and-complexity
+- code-and-complexity
 preview: puzzle-issue-problem-128-link-6-6.png
----
 
+---
 If you try to add any servers to Standard Environments in Visual Studio 2012 Lab Management you get a message that you need to enable file and printer sharing and you are unable to configure or communicate with those machines.
 
 ![image](images/image11-1-1.png "image")  

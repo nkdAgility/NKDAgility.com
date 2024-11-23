@@ -1,6 +1,6 @@
 ---
-title: "TFS Event Handler: CTP 1 Delayed"
-description: "Discover the delays in the TFS Event Handler CTP 1 and explore enhancements made to improve functionality. Stay updated on development progress!"
+title: 'TFS Event Handler: CTP 1 Delayed'
+description: Discover the delays in the TFS Event Handler CTP 1 and explore enhancements made to improve functionality. Stay updated on development progress!
 date: 2007-06-17
 creator: Martin Hinshelwood
 id: "381"
@@ -8,15 +8,18 @@ layout: blog
 resourceTypes: blog
 slug: tfs-event-handler-ctp-1-delayed
 aliases:
-  - /blog/tfs-event-handler-ctp-1-delayed
+- /blog/tfs-event-handler-ctp-1-delayed
+- /tfs-event-handler-ctp-1-delayed
+- /tfs-event-handler--ctp-1-delayed
+- /blog/tfs-event-handler--ctp-1-delayed
 tags:
-  - tfs-event-handler
-  - wit
+- tfs-event-handler
+- wit
 categories:
-  - me
+- me
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 Due to a number of reasons:
 
 - My wife is due to give birth this week some time

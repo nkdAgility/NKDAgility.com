@@ -1,6 +1,6 @@
 ---
 title: Enabling Google Plus Profiles for Google Apps users in under 2 minutes
-description: "Learn how to enable Google+ profiles for Google Apps users in just 2 minutes. Follow our simple steps to unlock new features and enhance your experience!"
+description: Learn how to enable Google+ profiles for Google Apps users in just 2 minutes. Follow our simple steps to unlock new features and enhance your experience!
 date: 2011-11-03
 creator: Martin Hinshelwood
 id: "4016"
@@ -8,17 +8,18 @@ layout: blog
 resourceTypes: blog
 slug: enabling-google-plus-profiles-for-google-apps-users-in-under-2-minutes
 aliases:
-  - /blog/enabling-google-plus-profiles-for-google-apps-users-in-under-2-minutes
+- /blog/enabling-google-plus-profiles-for-google-apps-users-in-under-2-minutes
+- /enabling-google-plus-profiles-for-google-apps-users-in-under-2-minutes
 tags:
-  - google
-  - webcast-2
+- google
+- webcast-2
 categories:
-  - me
-  - products-and-books
-  - tools-and-techniques
+- me
+- products-and-books
+- tools-and-techniques
 preview: nakedalm-logo-128-link-2-2.png
----
 
+---
 It is finally here… just a short time ago Google enabled the ability to have Google Profiles and by extension Google+ on your customer Google Apps domain. However, you first need to enable it before you can use it.
 
 Google in its infinite wisdom had not yet implemented Google Profiles for Google Apps users. This is an oversight that has been harassing them for quite some time as many power users, their core audience for new things, could not use any of the services that depended on Profiles. Well they listened, and spent a monumental effort to get this working… phew…

@@ -1,6 +1,6 @@
 ---
 title: Integrate SharePoint 2013 with Team Foundation Server 2012
-description: "Learn how to seamlessly integrate SharePoint 2013 with Team Foundation Server 2012, ensuring a smooth deployment and enhanced collaboration for your projects."
+description: Learn how to seamlessly integrate SharePoint 2013 with Team Foundation Server 2012, ensuring a smooth deployment and enhanced collaboration for your projects.
 date: 2012-10-25
 creator: Martin Hinshelwood
 id: "8998"
@@ -8,20 +8,21 @@ layout: blog
 resourceTypes: blog
 slug: integrate-sharepoint-2013-with-team-foundation-server-2012
 aliases:
-  - /blog/integrate-sharepoint-2013-with-team-foundation-server-2012
+- /blog/integrate-sharepoint-2013-with-team-foundation-server-2012
+- /integrate-sharepoint-2013-with-team-foundation-server-2012
 tags:
-  - configuration
-  - infrastructure
-  - sharepoint
-  - sp2013
-  - tfs
-  - tfs2012
-  - tools
+- configuration
+- infrastructure
+- sharepoint
+- sp2013
+- tfs
+- tfs2012
+- tools
 categories:
-  - code-and-complexity
+- code-and-complexity
 preview: metro-sharepoint-128-link-25-25.png
----
 
+---
 Now that SharePoint 2013 is out I want to make sure that I can integrate SharePoint 2013 with Team Foundation Server 2012 without any trouble. I and some of my customers have been holding off on deploying SharePoint; waiting for this release.
 
 I previously posted on [Integrating SharePoint 2010 with Team Foundation Server 2010](http://blog.hinshelwood.com/integrate-sharepoint-2010-with-team-foundation-server-2010/) as it became available after the Team Foundation Server 2010 launch and now we are in the same position for SharePoint 2013. So what do you need to do to configure this integration… well not much. If you get the chance to install SharePoint 2013 first the Team Foundation Server 2012 installer will install and configure everything for you. So the only time you need to do this manually is if you are adding SharePoint 2013 to the mix post deployment.

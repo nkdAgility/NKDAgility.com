@@ -1,6 +1,6 @@
 ---
-title: "Evolution not Transformation: This is the Inevitability of change"
-description: "Discover why true agility is an evolution, not a transformation. Embrace continuous change to thrive in today's fast-paced business landscape."
+title: 'Evolution not Transformation: This is the Inevitability of change'
+description: Discover why true agility is an evolution, not a transformation. Embrace continuous change to thrive in today's fast-paced business landscape.
 date: 2020-07-13
 creator: Martin Hinshelwood
 id: "44511"
@@ -8,22 +8,25 @@ layout: blog
 resourceTypes: blog
 slug: evolution-not-transformation-this-is-the-inevitability-of-change
 aliases:
-  - /blog/evolution-not-transformation-this-is-the-inevitability-of-change
+- /blog/evolution-not-transformation-this-is-the-inevitability-of-change
+- /evolution-not-transformation-this-is-the-inevitability-of-change
+- /evolution-not-transformation--this-is-the-inevitability-of-change
+- /blog/evolution-not-transformation--this-is-the-inevitability-of-change
 tags:
-  - agileleadership
-  - daretochange
-  - featured
-  - leadership
-  - leadership-track
-  - scrum-theory
+- agileleadership
+- daretochange
+- featured
+- leadership
+- leadership-track
+- scrum-theory
 categories:
-  - discovery-ideation
-  - measure-and-learn
-  - people-and-process
-  - transparency-commitment
+- discovery-ideation
+- measure-and-learn
+- people-and-process
+- transparency-commitment
 preview: image-15-5-4.png
----
 
+---
 There is no such thing as an Agile Transformation, Digital Transformation, DevOps Transformation, or any of the Whatever Transformation that you can think of or have been sold. You can’t buy agility, and you certainly can't install it. There is no end state, no optimal outcome, No best practices. [We are no longer factory workers](https://nkdagility.com/blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs/).
 
 Instead, you have to grow, nurture, and prune agility as it grows organically inside your organization and eventually, you too will be able to take advantage of business opportunities as they arise in the ever-changing marketplace. This is continuous change…

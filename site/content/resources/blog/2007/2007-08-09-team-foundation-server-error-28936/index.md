@@ -1,6 +1,6 @@
 ---
 title: Team Foundation Server Error 28936
-description: "Discover how to resolve Team Foundation Server Error 28936 with expert tips on IIS configuration and troubleshooting. Get your TFS up and running smoothly!"
+description: Discover how to resolve Team Foundation Server Error 28936 with expert tips on IIS configuration and troubleshooting. Get your TFS up and running smoothly!
 date: 2007-08-09
 creator: Martin Hinshelwood
 id: "337"
@@ -8,15 +8,16 @@ layout: blog
 resourceTypes: blog
 slug: team-foundation-server-error-28936
 aliases:
-  - /blog/team-foundation-server-error-28936
+- /blog/team-foundation-server-error-28936
+- /team-foundation-server-error-28936
 tags:
-  - ml
-  - tools
-  - visual-studio
-  - vs2005
+- ml
+- tools
+- visual-studio
+- vs2005
 preview: metro-visual-studio-2005-128-link-1-1.png
----
 
+---
 Some of my colleagues in New York have been working on deploying Team Foundation Server as a change management system and they ran into a little error while installing to the QA (UAT) environment.
 
 > _Log file excerpt:_

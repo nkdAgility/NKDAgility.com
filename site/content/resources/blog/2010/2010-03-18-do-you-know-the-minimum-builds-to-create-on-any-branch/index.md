@@ -1,6 +1,6 @@
 ---
 title: Do you know the minimum builds to create on any branch?
-description: "Discover the essential builds for any branch in your project. Learn how to set up Gate, CI, and Nightly builds to ensure code quality and collaboration."
+description: Discover the essential builds for any branch in your project. Learn how to set up Gate, CI, and Nightly builds to ensure code quality and collaboration.
 date: 2010-03-18
 creator: Martin Hinshelwood
 id: "60"
@@ -8,17 +8,20 @@ layout: blog
 resourceTypes: blog
 slug: do-you-know-the-minimum-builds-to-create-on-any-branch
 aliases:
-  - /blog/do-you-know-the-minimum-builds-to-create-on-any-branch
+- /blog/do-you-know-the-minimum-builds-to-create-on-any-branch
+- /do-you-know-the-minimum-builds-to-create-on-any-branch
+- /do-you-know-the-minimum-builds-to-create-on-any-branch-
+- /blog/do-you-know-the-minimum-builds-to-create-on-any-branch-
 tags:
-  - automated-build
-  - ssw
-  - tfs-build
-  - tools
-  - visual-studio
-  - vs2010
+- automated-build
+- ssw
+- tfs-build
+- tools
+- visual-studio
+- vs2010
 preview: metro-visual-studio-2010-128-link-6-6.png
----
 
+---
 ![BuildIcon_Large](images/Doyouknowtheminimumbuildstocreate_CABD-BuildIcon_Large_-1-1.png)
 { .post-img }
 

@@ -1,6 +1,6 @@
 ---
 title: How Visual Studio 2010 and Team Foundation Server enable Compliance
-description: "Discover how Visual Studio 2010 and Team Foundation Server enhance compliance through powerful traceability, ensuring your team meets regulatory standards effortlessly."
+description: Discover how Visual Studio 2010 and Team Foundation Server enhance compliance through powerful traceability, ensuring your team meets regulatory standards effortlessly.
 date: 2011-02-09
 creator: Martin Hinshelwood
 id: "14"
@@ -8,27 +8,28 @@ layout: blog
 resourceTypes: blog
 slug: how-visual-studio-2010-and-team-foundation-server-enable-compliance
 aliases:
-  - /blog/how-visual-studio-2010-and-team-foundation-server-enable-compliance
+- /blog/how-visual-studio-2010-and-team-foundation-server-enable-compliance
+- /how-visual-studio-2010-and-team-foundation-server-enable-compliance
 tags:
-  - configuration
-  - define
-  - develop
-  - infrastructure
-  - nwcadence
-  - operate
-  - people
-  - practices
-  - process
-  - tfs
-  - tfs2010
-  - tools
-  - visual-studio
-  - vs2010
+- configuration
+- define
+- develop
+- infrastructure
+- nwcadence
+- operate
+- people
+- practices
+- process
+- tfs
+- tfs2010
+- tools
+- visual-studio
+- vs2010
 categories:
-  - tools-and-techniques
+- tools-and-techniques
 preview: metro-visual-studio-2010-128-link-30-30.png
----
 
+---
 [![Visual Studio 2010 ALM with the word Audit stamped accross it](images/Deep-traceability-in-Team-Foundation-Ser_7737-vs2010AuditLogo_thumb-5-29-29.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-vs2010AuditLogo_2.png)
 { .post-img }
 

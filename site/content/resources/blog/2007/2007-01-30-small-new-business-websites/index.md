@@ -1,6 +1,6 @@
 ---
 title: Small / New business websites
-description: "Discover essential tips for building a successful web presence for your small business. Learn about SEO, design, and more to enhance your online visibility!"
+description: Discover essential tips for building a successful web presence for your small business. Learn about SEO, design, and more to enhance your online visibility!
 date: 2007-01-30
 creator: Martin Hinshelwood
 id: "441"
@@ -8,15 +8,18 @@ layout: blog
 resourceTypes: blog
 slug: small-new-business-websites
 aliases:
-  - /blog/small-new-business-websites
+- /blog/small-new-business-websites
+- /small-new-business-websites
+- /small---new-business-websites
+- /blog/small---new-business-websites
 tags:
-  - off-topic
-  - seo
+- off-topic
+- seo
 categories:
-  - updated2019
+- updated2019
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 There are a number of challenges to overcome when developing a new business. One of the hardest to get right is your web presence. I have been involved with [Scottish Enterprise](http://www.scottish-enterprise.com/) before and recently got a question from my sister-in-law who has a new job over at [Islington Enterprise](http://www.islingtonenterprise.co.uk/), and questions are always asked about Websites, SEO, DNS, Blogs, Accessibility and other things that most Internet users just do not understand. The may appreciate the results, but they do not understand the complexities of producing it. I will answer a few questions here for all to see...
 
 # What is SEO?

@@ -1,6 +1,6 @@
 ---
 title: Enable Feedback support for users in Team Foundation Server 2012
-description: "Learn how to enable feedback support in Team Foundation Server 2012 with simple configurations and permissions. Enhance user engagement effortlessly!"
+description: Learn how to enable feedback support in Team Foundation Server 2012 with simple configurations and permissions. Enhance user engagement effortlessly!
 date: 2013-05-21
 creator: Martin Hinshelwood
 id: "9494"
@@ -8,21 +8,22 @@ layout: blog
 resourceTypes: blog
 slug: enable-feedback-support-for-users-in-team-foundation-server-2012
 aliases:
-  - /blog/enable-feedback-support-for-users-in-team-foundation-server-2012
+- /blog/enable-feedback-support-for-users-in-team-foundation-server-2012
+- /enable-feedback-support-for-users-in-team-foundation-server-2012
 tags:
-  - access-levels
-  - area-hierarchy
-  - configuration
-  - email-alert-settings
-  - feedback-client
-  - permissions
-  - security
-  - tf400264
-  - tools
+- access-levels
+- area-hierarchy
+- configuration
+- email-alert-settings
+- feedback-client
+- permissions
+- security
+- tf400264
+- tools
 categories:
-  - install-and-configuration
----
+- install-and-configuration
 
+---
 The focus of this article is to show you how to easily enable feedback support for users in Team Foundation Server 2012 with a few simple permissions. This works great with Team Foundation Server and even better with Team Foundation Service.
 
 Team Foundation Server works better because you have an on-premise installed on TFS 2012 therefore, those who you want to grant access require an Active Directory account in your domain. All of your internal users already have this, but you can also give VPN access for externals. However, this does not work for many publicly shippable applications. If however you are using Team Foundation Service from [http://tfs.visualstudio.com](http://tfs.visualstudio.com) all you need is a user Live ID and permission.

@@ -1,6 +1,6 @@
 ---
-title: "Issue [ TFS 2013 ] Value cannot be null. Parameter name: key"
-description: "Discover how to resolve the 'Value cannot be null' error in TFS 2013 when customizing work item tracking. Learn essential fixes and best practices!"
+title: 'Issue [ TFS 2013 ] Value cannot be null. Parameter name: key'
+description: Discover how to resolve the 'Value cannot be null' error in TFS 2013 when customizing work item tracking. Learn essential fixes and best practices!
 date: 2013-10-23
 creator: Martin Hinshelwood
 id: "10221"
@@ -8,23 +8,26 @@ layout: blog
 resourceTypes: blog
 slug: issue-tfs-2013-work-item-tracking-gives-you-value-cannot-be-null-parameter-name-key
 aliases:
-  - /blog/issue-tfs-2013-work-item-tracking-gives-you-value-cannot-be-null-parameter-name-key
+- /blog/issue-tfs-2013-work-item-tracking-gives-you-value-cannot-be-null-parameter-name-key
+- /issue-tfs-2013-work-item-tracking-gives-you-value-cannot-be-null-parameter-name-key
+- /issue-[-tfs-2013-]-value-cannot-be-null--parameter-name--key
+- /blog/issue-[-tfs-2013-]-value-cannot-be-null--parameter-name--key
 tags:
-  - argumentnullexception
-  - bug
-  - process-template
-  - team
-  - team-field
-  - tfs
-  - tfs2012
-  - tfs-2013
-  - work-item-type
+- argumentnullexception
+- bug
+- process-template
+- team
+- team-field
+- tfs
+- tfs2012
+- tfs-2013
+- work-item-type
 categories:
-  - code-and-complexity
-  - install-and-configuration
-  - problems-and-puzzles
----
+- code-and-complexity
+- install-and-configuration
+- problems-and-puzzles
 
+---
 When customising your process template work item tracking gives you an “ArgumentNullException: Value cannot be null. Parameter name: key” exception with no more details.
 
 I have been onsite at a customer creating a custom processes template and migrating their current data into the new format. Because they make extensive use of Area Path for documentation purposes we could not use it for Team. So I dutifully configured their [TFS for ‘team field’](http://nkdagility.com/team-foundation-server-2012-teams-without-areas/) as their client field so that they could create ‘teams’ that represent the work that is done for each client. All looked good for a few hours until the tester tried to edit one of their old work item; 2663.

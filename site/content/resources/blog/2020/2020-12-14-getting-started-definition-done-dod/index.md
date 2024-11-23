@@ -1,6 +1,6 @@
 ---
 title: Getting started with a Definition of Done (DoD)
-description: "Learn how to establish a robust Definition of Done (DoD) for your Scrum team to ensure quality and transparency in software delivery. Start improving today!"
+description: Learn how to establish a robust Definition of Done (DoD) for your Scrum team to ensure quality and transparency in software delivery. Start improving today!
 date: 2020-12-14
 creator: Martin Hinshelwood
 id: "38238"
@@ -8,20 +8,23 @@ layout: blog
 resourceTypes: blog
 slug: getting-started-definition-done-dod
 aliases:
-  - /blog/getting-started-definition-done-dod
+- /blog/getting-started-definition-done-dod
+- /getting-started-definition-done-dod
+- /getting-started-with-a-definition-of-done-(dod)
+- /blog/getting-started-with-a-definition-of-done-(dod)
 tags:
-  - agile
-  - definition-of-done
-  - engineering-excellence
-  - homepage
-  - scrum
-  - scrumble
+- agile
+- definition-of-done
+- engineering-excellence
+- homepage
+- scrum
+- scrumble
 categories:
-  - agility
-  - devops
+- agility
+- devops
 preview: naked-Agility-Scrum-Framework-Definition-of-Done-2-1.jpg
----
 
+---
 In my last post about [Professional software teams creating working software](https://nkdagility.com/blog/professional-scrum-teams-build-software-works/) [David Corbin](https://www.scrum.org/david-corbin) made a good point. How do you determining what "Free from fault or defect" means? Since that is different for each Product and may change over time you need to focus on Quality and reflecting that quality in a Definition of Done (DoD).
 
 [Updated to reflect the 2020 Scrum Guide!](https://nkdagility.com/blog/update-scrum-guide-25th-anniversary-scrum-framework/)

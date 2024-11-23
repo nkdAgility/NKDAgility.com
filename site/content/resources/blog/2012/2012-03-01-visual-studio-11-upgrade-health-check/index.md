@@ -1,6 +1,6 @@
 ---
 title: Visual Studio 11 Upgrade Health Check
-description: "Prepare for a smooth transition to Visual Studio 11 with our expert Health Check. Ensure your upgrade is seamless and unlock new features today!"
+description: Prepare for a smooth transition to Visual Studio 11 with our expert Health Check. Ensure your upgrade is seamless and unlock new features today!
 date: 2012-03-01
 creator: Martin Hinshelwood
 id: "4747"
@@ -8,21 +8,22 @@ layout: blog
 resourceTypes: blog
 slug: visual-studio-11-upgrade-health-check
 aliases:
-  - /blog/visual-studio-11-upgrade-health-check
+- /blog/visual-studio-11-upgrade-health-check
+- /visual-studio-11-upgrade-health-check
 tags:
-  - configuration
-  - infrastructure
-  - nwcadence
-  - tfs2012
-  - tools
-  - visual-studio
-  - vs2012
+- configuration
+- infrastructure
+- nwcadence
+- tfs2012
+- tools
+- visual-studio
+- vs2012
 categories:
-  - tools-and-techniques
-  - upgrade-and-maintenance
+- tools-and-techniques
+- upgrade-and-maintenance
 preview: nakedalm-experts-visual-studio-alm-2-2.png
----
 
+---
 With the launch of [Visual Studio 11 Team Foundation Server Beta](http://blog.hinshelwood.com/announcing-visual-studio-11-beta-will-launch-on-february-29th/) and the Go-Live licencing model you can go into production now. But what if you are not quite ready?
 
 [![image](images/image_thumb-1-1.png "image")](http://blog.hinshelwood.com/files/2012/03/image.png)  

@@ -1,6 +1,6 @@
 ---
 title: Issue [ TFS 2013 ] You need elevated privileges to install InRelease
-description: "Discover how to resolve the 'elevated privileges' error when installing InRelease 3 on TFS 2013. Follow our step-by-step guide for a smooth installation!"
+description: Discover how to resolve the 'elevated privileges' error when installing InRelease 3 on TFS 2013. Follow our step-by-step guide for a smooth installation!
 date: 2013-07-11
 creator: Martin Hinshelwood
 id: "9753"
@@ -8,18 +8,21 @@ layout: blog
 resourceTypes: blog
 slug: issue-tfs-2013-you-need-elevated-privileges-to-install-inrelease
 aliases:
-  - /blog/issue-tfs-2013-you-need-elevated-privileges-to-install-inrelease
+- /blog/issue-tfs-2013-you-need-elevated-privileges-to-install-inrelease
+- /issue-tfs-2013-you-need-elevated-privileges-to-install-inrelease
+- /issue-[-tfs-2013-]-you-need-elevated-privileges-to-install-inrelease
+- /blog/issue-[-tfs-2013-]-you-need-elevated-privileges-to-install-inrelease
 tags:
-  - elevated-privileges
-  - inrelease
-  - puzzles
-  - tfs
-  - tfs-2013
+- elevated-privileges
+- inrelease
+- puzzles
+- tfs
+- tfs-2013
 categories:
-  - problems-and-puzzles
+- problems-and-puzzles
 preview: puzzle-issue-problem-128-link-3-3.png
----
 
+---
 Installing InRelease 3 fails as you need elevated privileges to install InRelease
 
 When you try to install InRelease as part of your Team Foundation Server 2013 infrastructure you are allowed to fill out all of the fields and then you get a “you need elevated privileges to perform this installation. You can achieve this by running a command prompt”.

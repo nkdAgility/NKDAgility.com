@@ -1,6 +1,6 @@
 ---
 title: Slaying the Dragons and How to Successfully Descale at Scale
-description: "Discover how to effectively scale agile practices in your organization. Learn the secrets of successful companies and transform your software delivery!"
+description: Discover how to effectively scale agile practices in your organization. Learn the secrets of successful companies and transform your software delivery!
 date: 2020-03-30
 creator: Martin Hinshelwood
 id: "44209"
@@ -8,17 +8,20 @@ layout: blog
 resourceTypes: blog
 slug: live-webcast-slaying-the-dragons-and-how-to-successfully-descale-at-scale-agile-method
 aliases:
-  - /blog/live-webcast-slaying-the-dragons-and-how-to-successfully-descale-at-scale-agile-method
+- /blog/live-webcast-slaying-the-dragons-and-how-to-successfully-descale-at-scale-agile-method
+- /live-webcast-slaying-the-dragons-and-how-to-successfully-descale-at-scale-agile-method
+- /slaying-the-dragons-and-how-to-successfully-descale-at-scale
+- /blog/slaying-the-dragons-and-how-to-successfully-descale-at-scale
 tags:
-  - agile
-  - live-webcast
-  - scaled-agile
-  - scaled-professional-scrum
+- agile
+- live-webcast
+- scaled-agile
+- scaled-professional-scrum
 categories:
-  - agility
+- agility
 preview: 2020-03-27_21-36-13-1-1.jpg
----
 
+---
 Many organisations don't really want to change how they do business and believe that they can continue in the way they always have while still getting better at delivering software.
 
 **They are wrong!**

@@ -1,6 +1,6 @@
 ---
 title: TFS 2012 Update 1 - TF400432 We were unable to connect to the SharePoint Central Administration
-description: "Resolve the TF400432 error in TFS 2012 Update 1 and connect to SharePoint Central Administration effortlessly with our step-by-step troubleshooting guide."
+description: Resolve the TF400432 error in TFS 2012 Update 1 and connect to SharePoint Central Administration effortlessly with our step-by-step troubleshooting guide.
 date: 2012-12-31
 creator: Martin Hinshelwood
 id: "9196"
@@ -8,22 +8,25 @@ layout: blog
 resourceTypes: blog
 slug: tfs-2012-update-1-tf400432-we-were-unable-to-connect-to-the-sharepoint-central-administration
 aliases:
-  - /blog/tfs-2012-update-1-tf400432-we-were-unable-to-connect-to-the-sharepoint-central-administration
+- /blog/tfs-2012-update-1-tf400432-we-were-unable-to-connect-to-the-sharepoint-central-administration
+- /tfs-2012-update-1-tf400432-we-were-unable-to-connect-to-the-sharepoint-central-administration
+- /tfs-2012-update-1---tf400432-we-were-unable-to-connect-to-the-sharepoint-central-administration
+- /blog/tfs-2012-update-1---tf400432-we-were-unable-to-connect-to-the-sharepoint-central-administration
 tags:
-  - configuration
-  - infrastructure
-  - puzzles
-  - tf400432
-  - tfs
-  - tfs2012
-  - tfs2012-1
-  - tools
+- configuration
+- infrastructure
+- puzzles
+- tf400432
+- tfs
+- tfs2012
+- tfs2012-1
+- tools
 categories:
-  - code-and-complexity
-  - problems-and-puzzles
+- code-and-complexity
+- problems-and-puzzles
 preview: metro-problem-icon-3-3.png
----
 
+---
 When running the upgrade from Team Foundation Server 2012 to Team Foundation Server 2012 Update 1 you get a TF400432 error stating that the Team Foundation Server configuration was unable to connect to SharePoint administration site.
 
 [![TF400432 : We were unable to connect to the SharePoint Central Administration site](images/image23_thumb-2-2.png "TF400432 : We were unable to connect to the SharePoint Central Administration site")](http://blog.hinshelwood.com/files/2012/12/image23.png)  

@@ -1,6 +1,6 @@
 ---
 title: Windows Vista Pre-SP1 Performance and Reliability Updates Result
-description: "Discover how Windows Vista's pre-SP1 updates enhanced performance and reliability, making even older laptops run faster and smoother. Upgrade your experience!"
+description: Discover how Windows Vista's pre-SP1 updates enhanced performance and reliability, making even older laptops run faster and smoother. Upgrade your experience!
 date: 2007-08-08
 creator: Martin Hinshelwood
 id: "338"
@@ -8,15 +8,16 @@ layout: blog
 resourceTypes: blog
 slug: windows-vista-pre-sp1-performance-and-reliability-updates-result
 aliases:
-  - /blog/windows-vista-pre-sp1-performance-and-reliability-updates-result
+- /blog/windows-vista-pre-sp1-performance-and-reliability-updates-result
+- /windows-vista-pre-sp1-performance-and-reliability-updates-result
 tags:
-  - ml
-  - off-topic
-  - tools
-  - vista
+- ml
+- off-topic
+- tools
+- vista
 preview: metro-merilllynch-128-link-1-1.png
----
 
+---
 I had spotted these updates last night in a [post](http://www.windows-now.com/blogs/robert/archive/2007/08/07/windows-vista-pre-sp1-performance-and-reliability-updates-released.aspx "Windows Vista Pre-SP1 Performance and Reliability Updates Released") by [Robert McLaws](http://www.windows-now.com/blogs/robert/) and decided, what the heck, I'll give it a go...
 
 I had no trouble installing the updates, but they do take a while and require a reboot, but when Vista started again I could see that it was running faster than the normal fresh boot.

@@ -1,6 +1,6 @@
 ---
 title: Developer joins TFS Sticky Buddy project
-description: "Exciting news as Eric Willeke joins the TFS Sticky Buddy project! Discover how this addition aims to enhance development and tackle complex coding challenges."
+description: Exciting news as Eric Willeke joins the TFS Sticky Buddy project! Discover how this addition aims to enhance development and tackle complex coding challenges.
 date: 2008-04-07
 creator: Martin Hinshelwood
 id: "242"
@@ -8,18 +8,19 @@ layout: blog
 resourceTypes: blog
 slug: developer-joins-tfs-sticky-buddy-project
 aliases:
-  - /blog/developer-joins-tfs-sticky-buddy-project
+- /blog/developer-joins-tfs-sticky-buddy-project
+- /developer-joins-tfs-sticky-buddy-project
 tags:
-  - infrastructure
-  - tfs
-  - tfs-sticky-buddy
-  - tools
-  - wit
+- infrastructure
+- tfs
+- tfs-sticky-buddy
+- tools
+- wit
 categories:
-  - news-and-reviews
-  - products-and-books
----
+- news-and-reviews
+- products-and-books
 
+---
 I was pleasantly surprised to see a lot of interest in the [Sticky Buddy project](http://blog.hinshelwood.com/archive/2008/02/05/tfs-sticky-buddy-codeplex-project.aspx). I was particularly exited when Siddharth Bhatia contacted me, but disappointed that he could not get the proof of concept versions to work.
 
 Well, hopefully that is about to change with the addition of [Eric Willeke](http://manicprogrammer.com/cs/blogs/willeke/default.aspx) to the development team. if you have been following the project you will see that he has been a avid tester from the beginning and I would like to welcome him fully on board for the next leg of the project...

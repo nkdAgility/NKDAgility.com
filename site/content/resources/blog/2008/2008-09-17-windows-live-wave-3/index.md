@@ -1,6 +1,6 @@
 ---
 title: Windows Live Wave 3
-description: "Explore the features of Windows Live Wave 3, including Messenger 9 and Writer. Download the latest betas and enhance your live experience today!"
+description: Explore the features of Windows Live Wave 3, including Messenger 9 and Writer. Download the latest betas and enhance your live experience today!
 date: 2008-09-17
 creator: Martin Hinshelwood
 id: "192"
@@ -8,14 +8,15 @@ layout: blog
 resourceTypes: blog
 slug: windows-live-wave-3
 aliases:
-  - /blog/windows-live-wave-3
+- /blog/windows-live-wave-3
+- /windows-live-wave-3
 tags:
-  - live
+- live
 categories:
-  - news-and-reviews
+- news-and-reviews
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 With the new Windows Live Wave 3 betas now available I am looking forward to many of the features I have already previewed in the beta of Windows Live Messenger 9.
 
 These are the English installs, but [other languages are available](http://www.liveside.net/main/archive/2008/09/16/windows-live-wave-3-betas-download-now.aspx).

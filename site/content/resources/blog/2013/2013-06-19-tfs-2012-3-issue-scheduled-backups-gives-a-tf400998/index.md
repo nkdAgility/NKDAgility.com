@@ -1,6 +1,6 @@
 ---
 title: TFS 2012.3 Issue - Scheduled Backups gives a TF400998 when reconfigured
-description: "Resolve the TF400998 error in TFS 2012.3 when reconfiguring Scheduled Backups after migration. Discover solutions to streamline your backup process!"
+description: Resolve the TF400998 error in TFS 2012.3 when reconfiguring Scheduled Backups after migration. Discover solutions to streamline your backup process!
 date: 2013-06-19
 creator: Martin Hinshelwood
 id: "9904"
@@ -8,20 +8,23 @@ layout: blog
 resourceTypes: blog
 slug: tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
 aliases:
-  - /blog/tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
+- /blog/tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
+- /tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
+- /tfs-2012-3-issue---scheduled-backups-gives-a-tf400998-when-reconfigured
+- /blog/tfs-2012-3-issue---scheduled-backups-gives-a-tf400998-when-reconfigured
 tags:
-  - configuration
-  - puzzles
-  - scheduled-backup
-  - tf246017
-  - tf254027
-  - tf400998
+- configuration
+- puzzles
+- scheduled-backup
+- tf246017
+- tf254027
+- tf400998
 categories:
-  - install-and-configuration
-  - problems-and-puzzles
+- install-and-configuration
+- problems-and-puzzles
 preview: puzzle-issue-problem-128-link-3-3.png
----
 
+---
 After a server migration Scheduled Backups gives a TF400998 when you try to reconfigure it. You may also see timeouts and errors when trying to add Team Foundation Console Users.
 
 ![image](images/image-1-1.png "image")  

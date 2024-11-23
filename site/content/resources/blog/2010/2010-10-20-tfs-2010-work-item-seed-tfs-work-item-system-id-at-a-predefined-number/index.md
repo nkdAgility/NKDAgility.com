@@ -1,6 +1,6 @@
 ---
-title: "TFS 2010 Work Item Seed: TFS Work Item system.id at a predefined number"
-description: "Learn how to set TFS 2010 Work Item IDs to start at a predefined number, avoiding conflicts with existing systems. Discover a supported API method!"
+title: 'TFS 2010 Work Item Seed: TFS Work Item system.id at a predefined number'
+description: Learn how to set TFS 2010 Work Item IDs to start at a predefined number, avoiding conflicts with existing systems. Discover a supported API method!
 date: 2010-10-20
 creator: Martin Hinshelwood
 id: "21"
@@ -8,20 +8,23 @@ layout: blog
 resourceTypes: blog
 slug: tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
 aliases:
-  - /blog/tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
+- /blog/tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
+- /tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
+- /tfs-2010-work-item-seed--tfs-work-item-system-id-at-a-predefined-number
+- /blog/tfs-2010-work-item-seed--tfs-work-item-system-id-at-a-predefined-number
 tags:
-  - code
-  - codeproject
-  - mvvm
-  - nwcadence
-  - tfs
-  - tfs2010
-  - tools
+- code
+- codeproject
+- mvvm
+- nwcadence
+- tfs
+- tfs2010
+- tools
 categories:
-  - code-and-complexity
+- code-and-complexity
 preview: metro-binary-vb-128-link-5-5.png
----
 
+---
 This week my customer had a requirement to have all new work items created to have an ID greater than 40,000. They have another system that stores tickets and they don’t want any conflict.
 
 There have been a number of ways to achieve this through a database change, but it is not supported by Microsoft. This means that if you make the change and mess it up you are on your own.

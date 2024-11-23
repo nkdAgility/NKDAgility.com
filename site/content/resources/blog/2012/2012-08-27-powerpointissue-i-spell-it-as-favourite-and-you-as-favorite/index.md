@@ -1,6 +1,6 @@
 ---
 title: I spell it as Favourite and you as Favorite
-description: "Explore the nuances of British vs. American English in PowerPoint. Learn how to use macros for seamless spell-checking adjustments. Embrace your language!"
+description: Explore the nuances of British vs. American English in PowerPoint. Learn how to use macros for seamless spell-checking adjustments. Embrace your language!
 date: 2012-08-27
 creator: Martin Hinshelwood
 id: "7735"
@@ -8,19 +8,22 @@ layout: blog
 resourceTypes: blog
 slug: powerpointissue-i-spell-it-as-favourite-and-you-as-favorite
 aliases:
-  - /blog/powerpointissue-i-spell-it-as-favourite-and-you-as-favorite
+- /blog/powerpointissue-i-spell-it-as-favourite-and-you-as-favorite
+- /powerpointissue-i-spell-it-as-favourite-and-you-as-favorite
+- /i-spell-it-as-favourite-and-you-as-favorite
+- /blog/i-spell-it-as-favourite-and-you-as-favorite
 tags:
-  - code
-  - language
-  - macro
-  - powerpoint
-  - visual-basic
+- code
+- language
+- macro
+- powerpoint
+- visual-basic
 categories:
-  - code-and-complexity
-  - me
+- code-and-complexity
+- me
 preview: metro-binary-vb-128-link-6-6.png
----
 
+---
 On of the issues that we have had in the office recently is that the rest of the Office, through no fault of their own, speaks and uses American English. I however along with the majority of the English speaking world use British English.
 
 Microsoft have recognised this with the inclusion of Windows 8 (English-United Kingdom) as an edition of Windows that you can install.

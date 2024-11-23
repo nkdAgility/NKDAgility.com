@@ -1,6 +1,6 @@
 ---
 title: TFS Handover
-description: "Explore essential TFS handover documentation by Martin Hinshelwood, detailing installation tips and management insights for a smooth transition in your office."
+description: Explore essential TFS handover documentation by Martin Hinshelwood, detailing installation tips and management insights for a smooth transition in your office.
 date: 2007-08-28
 creator: Martin Hinshelwood
 id: "319"
@@ -8,16 +8,17 @@ layout: blog
 resourceTypes: blog
 slug: tfs-handover
 aliases:
-  - /blog/tfs-handover
+- /blog/tfs-handover
+- /tfs-handover
 tags:
-  - sp2007
-  - tfs
-  - tfs2005
+- sp2007
+- tfs
+- tfs2005
 categories:
-  - me
+- me
 preview: metro-visual-studio-2005-128-link-1-1.png
----
 
+---
 I am just writing some handover documentation for our [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") deployment in the office. Thank goodness that I wrote installation and disaster recovery documents when I originally deployed the system, other wise this would have been a very long process.
 
 All I really need to do is reference those documents in a wrapper document that details of all of the servers and any online resources that I use.

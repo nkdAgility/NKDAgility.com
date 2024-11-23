@@ -1,6 +1,6 @@
 ---
 title: Memories of a multi-dimensional free thinking software developer
-description: "Explore the unique journey of a dyslexic software developer and discover insights to empower gifted individuals and their employers. Join the conversation!"
+description: Explore the unique journey of a dyslexic software developer and discover insights to empower gifted individuals and their employers. Join the conversation!
 date: 2007-07-22
 creator: Martin Hinshelwood
 id: "365"
@@ -8,12 +8,13 @@ layout: blog
 resourceTypes: blog
 slug: memories-of-a-multi-dimensional-free-thinking-software-developer
 aliases:
-  - /blog/memories-of-a-multi-dimensional-free-thinking-software-developer
+- /blog/memories-of-a-multi-dimensional-free-thinking-software-developer
+- /memories-of-a-multi-dimensional-free-thinking-software-developer
 tags:
-  - dyslexia
+- dyslexia
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 I thought I should blog about my gift and how it has impacted my skills as a software developer. I want to do this for a number of reasons:
 
 - To help other so gifted developers

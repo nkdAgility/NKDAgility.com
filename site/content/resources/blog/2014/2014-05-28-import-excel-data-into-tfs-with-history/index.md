@@ -1,6 +1,6 @@
 ---
 title: Import Excel data into TFS with History
-description: "Learn how to import Excel data into TFS with history using VBA. Simplify your workflow and ensure data integrity with this step-by-step guide!"
+description: Learn how to import Excel data into TFS with history using VBA. Simplify your workflow and ensure data integrity with this step-by-step guide!
 date: 2014-05-28
 creator: Martin Hinshelwood
 id: "10541"
@@ -8,21 +8,22 @@ layout: blog
 resourceTypes: blog
 slug: import-excel-data-into-tfs-with-history
 aliases:
-  - /blog/import-excel-data-into-tfs-with-history
+- /blog/import-excel-data-into-tfs-with-history
+- /import-excel-data-into-tfs-with-history
 tags:
-  - excel
-  - import
-  - tfs
-  - tfs2012
-  - tfs-2012-4
-  - tfs-2013
-  - vba
+- excel
+- import
+- tfs
+- tfs2012
+- tfs-2012-4
+- tfs-2013
+- vba
 categories:
-  - tools-and-techniques
-  - upgrade-and-maintenance
+- tools-and-techniques
+- upgrade-and-maintenance
 preview: metro-office-128-link-3-3.png
----
 
+---
 Have you ever tried to push data into TFS with Excel? I have, and it can often be the opposite of sweetness and light. The idea is to import Excel data into TFS with History.
 
 I was working with a team this week who used a SharePoint list to store their Requests for Change (RFC). I was easily able to export them from SharePoint by using the built in functionality to export to Excel. I did however want to make sure that there was no data loss when I pushed that data into TFS. Now, short of adding all of the columns that they had into the RFC work item the only way to do this would be to add all of the data to the history.

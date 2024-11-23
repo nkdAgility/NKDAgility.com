@@ -1,6 +1,6 @@
 ---
 title: TFS Event Handler Prototype Feedback
-description: "Share your thoughts on the TFS Event Handler prototype! Discover its integration capabilities and help shape future versions with your feedback."
+description: Share your thoughts on the TFS Event Handler prototype! Discover its integration capabilities and help shape future versions with your feedback.
 date: 2007-07-16
 creator: Martin Hinshelwood
 id: "369"
@@ -8,17 +8,18 @@ layout: blog
 resourceTypes: blog
 slug: tfs-event-handler-prototype-feedback
 aliases:
-  - /blog/tfs-event-handler-prototype-feedback
+- /blog/tfs-event-handler-prototype-feedback
+- /tfs-event-handler-prototype-feedback
 tags:
-  - ml
-  - tfs-event-handler
-  - tools
-  - wit
+- ml
+- tfs-event-handler
+- tools
+- wit
 categories:
-  - me
+- me
 preview: metro-merilllynch-128-link-1-1.png
----
 
+---
 I would be interested in finding out if anyone is using the [TFS Event Handler](http://www.codeplex.com/TFSEventHandler) I created on [CodePlex](http://www.codeplex.com "CodePlex"). The main reason for this is to solicit feedback for the process and integration capabilities.
 
 The [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") Event Handler removes the need to integrate with the Team Foundation Server events. It provides a simple API for making decisions on what to do with event that are raised.

@@ -1,6 +1,6 @@
 ---
 title: Linked in Codeplex developers group
-description: "Join the Codeplex LinkedIn groups for developers and coordinators to connect, collaborate, and enhance your project experience. Get involved today!"
+description: Join the Codeplex LinkedIn groups for developers and coordinators to connect, collaborate, and enhance your project experience. Get involved today!
 date: 2008-05-15
 creator: Martin Hinshelwood
 id: "227"
@@ -8,12 +8,13 @@ layout: blog
 resourceTypes: blog
 slug: linked-in-codeplex-developers-group
 aliases:
-  - /blog/linked-in-codeplex-developers-group
+- /blog/linked-in-codeplex-developers-group
+- /linked-in-codeplex-developers-group
 categories:
-  - me
+- me
 preview: nakedalm-logo-128-link-3-3.png
----
 
+---
 If you are a developer on Codeplex then there are now two Codeplex LinkedIn groups for you to join.
 
 **Codeplex Developer**

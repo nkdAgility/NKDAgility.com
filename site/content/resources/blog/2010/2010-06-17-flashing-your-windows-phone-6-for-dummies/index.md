@@ -1,6 +1,6 @@
 ---
 title: Flashing your Windows Phone 6 for Dummies
-description: "Unlock your Windows Phone 6 with our step-by-step guide to flashing custom ROMs. Discover tips, tools, and risks to enhance your mobile experience!"
+description: Unlock your Windows Phone 6 with our step-by-step guide to flashing custom ROMs. Discover tips, tools, and risks to enhance your mobile experience!
 date: 2010-06-17
 creator: Martin Hinshelwood
 id: "38"
@@ -8,16 +8,17 @@ layout: blog
 resourceTypes: blog
 slug: flashing-your-windows-phone-6-for-dummies
 aliases:
-  - /blog/flashing-your-windows-phone-6-for-dummies
+- /blog/flashing-your-windows-phone-6-for-dummies
+- /flashing-your-windows-phone-6-for-dummies
 tags:
-  - mobile
-  - tools
-  - windows-mobile-6
+- mobile
+- tools
+- windows-mobile-6
 categories:
-  - me
+- me
 preview: nakedalm-logo-128-link-3-3.png
----
 
+---
 ![image](images/FlashingyourHTCHD2withWindow.5forDummies_A588-image_-1-1.png)
 { .post-img }
 

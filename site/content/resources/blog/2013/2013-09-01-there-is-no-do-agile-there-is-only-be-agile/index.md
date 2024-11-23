@@ -1,6 +1,6 @@
 ---
 title: There is no "do agile" there is only "be agile"
-description: "Discover why true agility is about being, not just doing. Embrace deep organizational change for lasting value in your agile journey. Learn more!"
+description: Discover why true agility is about being, not just doing. Embrace deep organizational change for lasting value in your agile journey. Learn more!
 date: 2013-09-01
 creator: Martin Hinshelwood
 id: "10058"
@@ -8,16 +8,19 @@ layout: blog
 resourceTypes: blog
 slug: there-is-no-do-agile-there-is-only-be-agile
 aliases:
-  - /blog/there-is-no-do-agile-there-is-only-be-agile
+- /blog/there-is-no-do-agile-there-is-only-be-agile
+- /there-is-no-do-agile-there-is-only-be-agile
+- /there-is-no--do-agile--there-is-only--be-agile-
+- /blog/there-is-no--do-agile--there-is-only--be-agile-
 tags:
-  - agile
-  - lean
-  - scrum
+- agile
+- lean
+- scrum
 categories:
-  - people-and-process
+- people-and-process
 preview: nakedalm-experts-professional-scrum-1-1.png
----
 
+---
 I commented on [Scrum is hard to adopt and disruptive to your organisation](http://nkdagility.com/scrum-is-hard-to-adopt-and-disruptive-to-your-organisation/) before and I think that for most companies this is just beyond their comprehension. They are fundamentally misunderstanding agile and trying to do agile rather than be agile.
 
 There are no trainings or certifications  or even processes that can provide you with that understanding There is nothing but deep organisational change and hard work that can create that lean-agile way of doing thins that provides many companies with so much value.

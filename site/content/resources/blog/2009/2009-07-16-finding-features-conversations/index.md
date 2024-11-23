@@ -1,6 +1,6 @@
 ---
-title: "Finding features: Conversations"
-description: "Explore the features of Office 2010 through engaging email conversations. Discover how to streamline your inbox and enhance your productivity today!"
+title: 'Finding features: Conversations'
+description: Explore the features of Office 2010 through engaging email conversations. Discover how to streamline your inbox and enhance your productivity today!
 date: 2009-07-16
 creator: Martin Hinshelwood
 id: "101"
@@ -8,13 +8,16 @@ layout: blog
 resourceTypes: blog
 slug: finding-features-conversations
 aliases:
-  - /blog/finding-features-conversations
+- /blog/finding-features-conversations
+- /finding-features-conversations
+- /finding-features--conversations
+- /blog/finding-features--conversations
 tags:
-  - office
-  - tools
+- office
+- tools
 preview: nakedalm-logo-128-link-5-5.png
----
 
+---
 Hey, well the dentist was fun! And I have had time to install Office 2010 on my wife's Windows 7 laptop. I will try to put together some of the interesting features…
 
 This is nice. Much better than the Google Mail one and is starting to make more sense the more I use it. I am connecting to my Google Mail via IMAP and this example illustrates the feature nicely.

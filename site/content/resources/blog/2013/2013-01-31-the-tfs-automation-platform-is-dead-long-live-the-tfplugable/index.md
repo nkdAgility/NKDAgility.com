@@ -1,6 +1,6 @@
 ---
 title: The TFS Automation Platform is dead, long live the TfPlugable
-description: "Discover the TfPlugable, a revolutionary solution for TFS automation. Simplify deployment and management of extensions with our innovative platform!"
+description: Discover the TfPlugable, a revolutionary solution for TFS automation. Simplify deployment and management of extensions with our innovative platform!
 date: 2013-01-31
 creator: Martin Hinshelwood
 id: "9229"
@@ -8,22 +8,25 @@ layout: blog
 resourceTypes: blog
 slug: the-tfs-automation-platform-is-dead-long-live-the-tfplugable
 aliases:
-  - /blog/the-tfs-automation-platform-is-dead-long-live-the-tfplugable
+- /blog/the-tfs-automation-platform-is-dead-long-live-the-tfplugable
+- /the-tfs-automation-platform-is-dead-long-live-the-tfplugable
+- /the-tfs-automation-platform-is-dead,-long-live-the-tfplugable
+- /blog/the-tfs-automation-platform-is-dead,-long-live-the-tfplugable
 tags:
-  - configuration
-  - develop
-  - infrastructure
-  - operate
-  - tfget
-  - tfplugable
-  - tfsap
-  - tools
+- configuration
+- develop
+- infrastructure
+- operate
+- tfget
+- tfplugable
+- tfsap
+- tools
 categories:
-  - code-and-complexity
-  - tools-and-techniques
+- code-and-complexity
+- tools-and-techniques
 preview: nakedalm-logo-128-link-3-3.png
----
 
+---
 The TFS Automation Platform is dead, long live the TfPlugable! It has been a long time since I have talked about the [TFS Automation Platform](http://blog.hinshelwood.com/what-is-the-tfs-automation-platform/) that I had almost forgotten about it myself. It was almost two years ago that I spoke to [Willy](http://blogs.msdn.com/b/willy-peter_schaub/) about an ALM Rangers project to build a solution to dynamically deploy plug-ins for TFS, kind of like Nuget for TFS Extensions.
 
 When we first attempted to get this off the ground way back in 2011 we had a [team of rock star Rangers](http://blogs.msdn.com/b/willy-peter_schaub/archive/2011/02/20/new-rangers-project-tfs-iteration-automation.aspx) that ended up having no bandwidth for yet another project and it faded and died after a few sprints. I was sad, but what can you do…

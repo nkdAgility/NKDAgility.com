@@ -1,6 +1,6 @@
 ---
-title: "TFS Integration Tools – Issue: Error occurred during the code review of change group"
-description: "Resolve the 'Error occurred during the code review of change group' in TFS Integration Tools with effective workarounds and insights from expert Martin Hinshelwood."
+title: 'TFS Integration Tools – Issue: Error occurred during the code review of change group'
+description: Resolve the 'Error occurred during the code review of change group' in TFS Integration Tools with effective workarounds and insights from expert Martin Hinshelwood.
 date: 2012-07-11
 creator: Martin Hinshelwood
 id: "6117"
@@ -8,17 +8,20 @@ layout: blog
 resourceTypes: blog
 slug: tfs-integration-tools-issue-error-occurred-during-the-code-review-of-change-group
 aliases:
-  - /blog/tfs-integration-tools-issue-error-occurred-during-the-code-review-of-change-group
+- /blog/tfs-integration-tools-issue-error-occurred-during-the-code-review-of-change-group
+- /tfs-integration-tools-issue-error-occurred-during-the-code-review-of-change-group
+- /tfs-integration-tools-–-issue--error-occurred-during-the-code-review-of-change-group
+- /blog/tfs-integration-tools-–-issue--error-occurred-during-the-code-review-of-change-group
 tags:
-  - kb
-  - puzzles
-  - tfs2012
-  - tfs-integration-platform
+- kb
+- puzzles
+- tfs2012
+- tfs-integration-platform
 categories:
-  - problems-and-puzzles
+- problems-and-puzzles
 preview: metro-problem-icon-2-2.png
----
 
+---
 As part of the Migration process the TFS Integration Platform does a whole bunch of checks to make sure that what is being written in indeed what we want to write and what the destination is excepting. as a result, on occasion you will get a “Error occurred during the code review of change group”.
 
 [![7-6-2012 12-52-15 PM](images/7-6-2012-12-52-15-PM_thumb1-1-1.png "7-6-2012 12-52-15 PM")](http://blog.hinshelwood.com/files/2012/07/7-6-2012-12-52-15-PM1.png)  

@@ -1,6 +1,6 @@
 ---
 title: Installing Team Explorer 2008 on Windows 7
-description: "Learn how to install Team Explorer 2008 on Windows 7, troubleshoot common issues, and enhance your development experience with helpful tips and tools."
+description: Learn how to install Team Explorer 2008 on Windows 7, troubleshoot common issues, and enhance your development experience with helpful tips and tools.
 date: 2009-01-13
 creator: Martin Hinshelwood
 id: "145"
@@ -8,12 +8,13 @@ layout: blog
 resourceTypes: blog
 slug: installing-team-explorer-2008-on-windows-7
 aliases:
-  - /blog/installing-team-explorer-2008-on-windows-7
+- /blog/installing-team-explorer-2008-on-windows-7
+- /installing-team-explorer-2008-on-windows-7
 tags:
-  - tfs
-  - tools
----
+- tfs
+- tools
 
+---
 I was a little lazy last time and did not install either Team Explorer, or SP1 on my visual studio instance. So, lets get to it…
 
 [![Installing Team Explorer 2008 on Windows 7](images/InstallingTeamExplorerandVisualStudio200_E718-image_thumb-7-7.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-InstallingTeamExplorerandVisualStudio200_E718-image_2.png)

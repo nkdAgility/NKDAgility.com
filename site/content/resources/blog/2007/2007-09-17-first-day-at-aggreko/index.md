@@ -1,6 +1,6 @@
 ---
 title: First day at Aggreko
-description: "Join me on my first day at Aggreko, where I dive into deploying SharePoint and experience their impressive efficiency. Discover my journey and insights!"
+description: Join me on my first day at Aggreko, where I dive into deploying SharePoint and experience their impressive efficiency. Discover my journey and insights!
 date: 2007-09-17
 creator: Martin Hinshelwood
 id: "310"
@@ -8,15 +8,16 @@ layout: blog
 resourceTypes: blog
 slug: first-day-at-aggreko
 aliases:
-  - /blog/first-day-at-aggreko
+- /blog/first-day-at-aggreko
+- /first-day-at-aggreko
 tags:
-  - aggreko
-  - sp2007
+- aggreko
+- sp2007
 categories:
-  - me
+- me
 preview: metro-aggreko-128-link-1-1.png
----
 
+---
 Well, its my first day at Aggreko, and I am loving their efficiency...I was handed a laptop uplon entering the office, and they had my login ready :)
 
 This is the first company that I have worked for that could get this right...

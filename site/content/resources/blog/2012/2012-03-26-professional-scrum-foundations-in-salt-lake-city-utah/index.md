@@ -1,6 +1,6 @@
 ---
 title: Professional Scrum Foundations in Salt Lake City, Utah
-description: "Join Martin Hinshelwood in Salt Lake City for an engaging Professional Scrum Foundations course, empowering teams to excel in Agile practices and collaboration."
+description: Join Martin Hinshelwood in Salt Lake City for an engaging Professional Scrum Foundations course, empowering teams to excel in Agile practices and collaboration.
 date: 2012-03-26
 creator: Martin Hinshelwood
 id: "4980"
@@ -8,21 +8,24 @@ layout: blog
 resourceTypes: blog
 slug: professional-scrum-foundations-in-salt-lake-city-utah
 aliases:
-  - /blog/professional-scrum-foundations-in-salt-lake-city-utah
+- /blog/professional-scrum-foundations-in-salt-lake-city-utah
+- /professional-scrum-foundations-in-salt-lake-city-utah
+- /professional-scrum-foundations-in-salt-lake-city,-utah
+- /blog/professional-scrum-foundations-in-salt-lake-city,-utah
 tags:
-  - agile
-  - define
-  - develop
-  - process
-  - psf
-  - scrum
+- agile
+- define
+- develop
+- process
+- psf
+- scrum
 categories:
-  - events-and-presentations
-  - measure-and-learn
-  - news-and-reviews
+- events-and-presentations
+- measure-and-learn
+- news-and-reviews
 preview: nakedalm-experts-professional-scrum-8-8.png
----
 
+---
 This week I have been filling in for [David Starr](http://elegantcode.com/author/dstarr/) at a customer and it has been an experience. David had a family emergency and tapped me of all people to take the gig from him. So not only did [Northwest Cadence](http://blog.hinshelwood.com) have to rearrange my schedule to make sure that I could do this, but I had to brave Salt Lake City and Utah…
 
 [![image](images/image_thumb14-1-1.png "image")](http://blog.hinshelwood.com/files/2012/03/image14.png)  

@@ -1,6 +1,6 @@
 ---
 title: There is no place like production
-description: "Discover why real user feedback in production is essential for delivering value. Learn to validate assumptions and enhance product success effectively."
+description: Discover why real user feedback in production is essential for delivering value. Learn to validate assumptions and enhance product success effectively.
 date: 2020-12-28
 creator: Martin Hinshelwood
 id: "45324"
@@ -8,16 +8,17 @@ layout: blog
 resourceTypes: blog
 slug: there-is-no-place-like-production
 aliases:
-  - /blog/there-is-no-place-like-production
+- /blog/there-is-no-place-like-production
+- /there-is-no-place-like-production
 tags:
-  - hypothesis-driven-development
-  - product-discovery
-  - product-owner
+- hypothesis-driven-development
+- product-discovery
+- product-owner
 categories:
-  - discovery-ideation
+- discovery-ideation
 preview: wizard-of-oz-ruby-slippers-2018-billboard-1548-2-2.jpg
----
 
+---
 Value is such a subjective thing that we will often be wrong, and there is no way around that wrongness. In order to minimise the wrongness and maximise the amount of value that we deliver we need to have a clear understanding of what our users need, how they are using the product, and validate our new value as soon as we can. Without validation we only have assumptions and assumptions can be dangerous.
 
 As a start we can collect some qualitative data to validate some of our assumptions:

@@ -1,6 +1,6 @@
 ---
 title: Mozy update
-description: "Discover how I expanded my Mozy storage to 4.3 GB and optimized my backup strategy. Learn tips for efficient online storage management!"
+description: Discover how I expanded my Mozy storage to 4.3 GB and optimized my backup strategy. Learn tips for efficient online storage management!
 date: 2007-12-02
 creator: Martin Hinshelwood
 id: "281"
@@ -8,12 +8,13 @@ layout: blog
 resourceTypes: blog
 slug: mozy-update
 aliases:
-  - /blog/mozy-update
+- /blog/mozy-update
+- /mozy-update
 categories:
-  - me
+- me
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 Well, due to my campaign to get lots of free bandwidth I now have an additional 2.3 GB on top of my initial free 2GB bringing the grand total to 4.3 GB of online storage with [Mozy](https://mozy.com/?code=8R96AG)!
 
 This is fantastic as I have more than enough room for all of my files. But, in the interest of keeping my consumption low, I have remove certain files from the backup:

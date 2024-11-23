@@ -1,6 +1,6 @@
 ---
-title: "Video: New with Visual Studio 2013: Manage portfolio backlogs to understand the scope of work"
-description: "Discover how to effectively manage portfolio backlogs in Visual Studio 2013 to enhance your project scope understanding. Watch the video for insights!"
+title: 'Video: New with Visual Studio 2013: Manage portfolio backlogs to understand the scope of work'
+description: Discover how to effectively manage portfolio backlogs in Visual Studio 2013 to enhance your project scope understanding. Watch the video for insights!
 date: 2013-07-18
 creator: Martin Hinshelwood
 id: "9718"
@@ -8,20 +8,23 @@ layout: blog
 resourceTypes: blog
 slug: video-new-with-visual-studio-2013-manage-portfolio-backlogs-to-understand-the-scope-of-work
 aliases:
-  - /blog/video-new-with-visual-studio-2013-manage-portfolio-backlogs-to-understand-the-scope-of-work
+- /blog/video-new-with-visual-studio-2013-manage-portfolio-backlogs-to-understand-the-scope-of-work
+- /video-new-with-visual-studio-2013-manage-portfolio-backlogs-to-understand-the-scope-of-work
+- /video--new-with-visual-studio-2013--manage-portfolio-backlogs-to-understand-the-scope-of-work
+- /blog/video--new-with-visual-studio-2013--manage-portfolio-backlogs-to-understand-the-scope-of-work
 tags:
-  - define
-  - improve
-  - operational
-  - portfolio-management
-  - practices
-  - process
-  - tfs-2013
+- define
+- improve
+- operational
+- portfolio-management
+- practices
+- process
+- tfs-2013
 categories:
-  - tools-and-techniques
+- tools-and-techniques
 preview: nakedalm-experts-visual-studio-alm-2-2.png
----
 
+---
 New with Visual Studio 2013 is the ability to manage portfolio backlogs to help you understand the scope of work that you have to do.
 
 In order to organise our work a little better we tend to create something called “Epics” that are representative of things that are too big for any single sprint and may be broken down into smaller items. However these ‘Epics” do not really continue to exist as all we really care about is the leaf nodes. We still need to understand things that are maybe always larger, like Features and Goals.

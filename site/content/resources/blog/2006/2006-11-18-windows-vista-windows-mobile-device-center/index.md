@@ -1,6 +1,6 @@
 ---
-title: "Windows Vista: windows mobile device center"
-description: "Learn how to install Windows Mobile Device Center on Vista 6000 RTM. Get essential tips and updates to enhance your mobile experience. Explore now!"
+title: 'Windows Vista: windows mobile device center'
+description: Learn how to install Windows Mobile Device Center on Vista 6000 RTM. Get essential tips and updates to enhance your mobile experience. Explore now!
 date: 2006-11-18
 creator: Martin Hinshelwood
 id: "455"
@@ -8,14 +8,17 @@ layout: blog
 resourceTypes: blog
 slug: windows-vista-windows-mobile-device-center
 aliases:
-  - /blog/windows-vista-windows-mobile-device-center
+- /blog/windows-vista-windows-mobile-device-center
+- /windows-vista-windows-mobile-device-center
+- /windows-vista--windows-mobile-device-center
+- /blog/windows-vista--windows-mobile-device-center
 tags:
-  - windows-mobile-6
+- windows-mobile-6
 categories:
-  - products-and-books
+- products-and-books
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 If you are trying to get windows mobile device center running on Vista 6000 RTM then you will need to install the beta as it is not actively released.
 
 Update 2006-12-20

@@ -1,6 +1,6 @@
 ---
 title: What to do when you dont have a working computer!
-description: "Discover practical tips for coping without a computer. Learn how to navigate daily tasks using mobile devices and software solutions effectively."
+description: Discover practical tips for coping without a computer. Learn how to navigate daily tasks using mobile devices and software solutions effectively.
 date: 2008-08-16
 creator: Martin Hinshelwood
 id: "208"
@@ -8,18 +8,21 @@ layout: blog
 resourceTypes: blog
 slug: what-to-do-when-you-dont-have-a-working-computer
 aliases:
-  - /blog/what-to-do-when-you-dont-have-a-working-computer
+- /blog/what-to-do-when-you-dont-have-a-working-computer
+- /what-to-do-when-you-dont-have-a-working-computer
+- /what-to-do-when-you-dont-have-a-working-computer-
+- /blog/what-to-do-when-you-dont-have-a-working-computer-
 tags:
-  - answers
-  - visual-studio
-  - vs2005
-  - vs2008
-  - windows-mobile-6
+- answers
+- visual-studio
+- vs2005
+- vs2008
+- windows-mobile-6
 categories:
-  - upgrade-and-maintenance
+- upgrade-and-maintenance
 preview: metro-visual-studio-2005-128-link-1-1.png
----
 
+---
 I have a little problem...I don't have a computer at home at the moment :( So I am writing this post from my Pocket PC using Diarist 2. I will come back to that, but first...
 
 The reason for my lack of my "can't live without accesory" is that my laptop has finaly given up the ghost. It is an 8 year old Dell desktop replacemnt, and in my infinite wisdom I desided to install Vista just after it went RTM. All was well for a while, but it was a litle slow. Add Visual Studio 2005 and things got a little slower...

@@ -1,6 +1,6 @@
 ---
 title: Create a VHD from the Windows Server 2008 R2 Image disk
-description: "Learn how to easily create a VHD from a Windows Server 2008 R2 image disk with step-by-step instructions and essential tools. Simplify your setup today!"
+description: Learn how to easily create a VHD from a Windows Server 2008 R2 image disk with step-by-step instructions and essential tools. Simplify your setup today!
 date: 2009-12-07
 creator: Martin Hinshelwood
 id: "75"
@@ -8,13 +8,14 @@ layout: blog
 resourceTypes: blog
 slug: create-a-vhd-from-the-windows-server-2008-r2-image-disk
 aliases:
-  - /blog/create-a-vhd-from-the-windows-server-2008-r2-image-disk
+- /blog/create-a-vhd-from-the-windows-server-2008-r2-image-disk
+- /create-a-vhd-from-the-windows-server-2008-r2-image-disk
 tags:
-  - ssw
-  - tools
+- ssw
+- tools
 preview: metro-SSWLogo-128-link-10-10.png
----
 
+---
 Previously I created this [the manual way](http://blog.hinshelwood.com/archive/2009/12/07/create-a-vhd-from-the-windows-7-image-disk.aspx), but if you have a fast internet connection and can take the 1.6gb download of the AIK, then this is a much easier way of getting started.
 
 This is not really the same as the SSW image that I created before, the SSW image was a lovely slipstreamed beauty with all the application I would ever need already preinstalled.. It was 32GB and took a very long time to setup. This will be sum what faster as it  only require a base Windows Server 2008 Setup…

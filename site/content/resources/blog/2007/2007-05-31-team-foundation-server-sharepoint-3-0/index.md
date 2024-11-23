@@ -1,6 +1,6 @@
 ---
 title: Team Foundation Server & SharePoint 3.0
-description: "Explore how to integrate SharePoint 3.0 with Team Foundation Server for a streamlined project management experience. Discover tips and best practices!"
+description: Explore how to integrate SharePoint 3.0 with Team Foundation Server for a streamlined project management experience. Discover tips and best practices!
 date: 2007-05-31
 creator: Martin Hinshelwood
 id: "391"
@@ -8,15 +8,18 @@ layout: blog
 resourceTypes: blog
 slug: team-foundation-server-sharepoint-3-0
 aliases:
-  - /blog/team-foundation-server-sharepoint-3-0
+- /blog/team-foundation-server-sharepoint-3-0
+- /team-foundation-server-sharepoint-3-0
+- /team-foundation-server-&-sharepoint-3-0
+- /blog/team-foundation-server-&-sharepoint-3-0
 tags:
-  - sp2007
-  - tfs
-  - visual-studio
-  - vs2005
+- sp2007
+- tfs
+- visual-studio
+- vs2005
 preview: metro-visual-studio-2005-128-link-1-1.png
----
 
+---
 I have managed to install SharePoint 3.0 on my dev Team server box in side by side mode by using  [Brian Keller's](http://blogs.msdn.com/briankel/default.aspx "Brian Keller: Technical Evangelist for Team System") blog on "[Configuring Visual Studio 2005 Team Foundation Server with Windows SharePoint Services 3.0](http://blogs.msdn.com/briankel/archive/2007/04/14/Configuring-Visual-Studio-2005-Team-Foundation-Server-with-Windows-SharePoint-Services-3.0.aspx "Team Foundation Server with Windows SharePoint Services 3.0")".
 
 I have not yet updated Team Server, but I got as far as having a working version of SharePoint 3.0 running side by side with 2.0. This has worked grate for me as I have had time to evaluate SharePoint as an Intranet for my department. What I would like to achieve is to have and intranet site on http://department.internal.company.com with a sub site called "projects". I would then like Team Server to create all of its sites under this Projects site so as to provide a mini portal for my projects with links to documentation, best practices and tools on the parent http://department.internal.company.com/Projects site along with a reporting services dashboard, with customer reports that cover all of the projects, like RAG reports among other things.

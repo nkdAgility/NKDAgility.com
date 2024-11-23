@@ -1,6 +1,6 @@
 ---
 title: Install of TFS 2013.3 with SharePoint 2013 on Windows Server 2012 R2 Update 1
-description: "Learn how to install TFS 2013.3 with SharePoint 2013 on Windows Server 2012 R2. Follow expert tips for a smooth setup and avoid common pitfalls!"
+description: Learn how to install TFS 2013.3 with SharePoint 2013 on Windows Server 2012 R2. Follow expert tips for a smooth setup and avoid common pitfalls!
 date: 2014-09-30
 creator: Martin Hinshelwood
 id: "10727"
@@ -8,22 +8,25 @@ layout: blog
 resourceTypes: blog
 slug: install-tfs-2013-3-sharepoint-2013-windows-server-2012-r2-update-1
 aliases:
-  - /blog/install-tfs-2013-3-sharepoint-2013-windows-server-2012-r2-update-1
+- /blog/install-tfs-2013-3-sharepoint-2013-windows-server-2012-r2-update-1
+- /install-tfs-2013-3-sharepoint-2013-windows-server-2012-r2-update-1
+- /install-of-tfs-2013-3-with-sharepoint-2013-on-windows-server-2012-r2-update-1
+- /blog/install-of-tfs-2013-3-with-sharepoint-2013-on-windows-server-2012-r2-update-1
 tags:
-  - windows-server-2012
-  - sharepoint-2013
-  - sharepoint-2013-sp1
-  - starteam
-  - tfs
-  - tfs-2013
-  - tfs-2013-3
-  - windows-server
-  - windows-server-2012-r2
+- windows-server-2012
+- sharepoint-2013
+- sharepoint-2013-sp1
+- starteam
+- tfs
+- tfs-2013
+- tfs-2013-3
+- windows-server
+- windows-server-2012-r2
 categories:
-  - install-and-configuration
+- install-and-configuration
 preview: nakedalm-experts-visual-studio-alm-27-27.png
----
 
+---
 I have been onsite in Athens for the last month to do a migration from StarTeam to TFS. We did an install of TFS 2013.3 with SharePoint 2013 on Windows Server 2012 R2 Update 1. This was my first install of TFS 2013.3 from scratch so I thought that it would be a good idea to walk through the process.
 
 When onsite customer's often think that it is a good idea to pre-install things like SQL and TFS. However it is not. Even if their infrastructure department is awesome they will not read the TFS install documentation and will not install SQL or TFS to spec. When I get onsite the perfect scenario is a clean copy of Windows with all of the Updated installed. And I do mean all of them… not just the ones that have been approved by your WSUS department.

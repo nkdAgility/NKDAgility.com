@@ -1,6 +1,6 @@
 ---
 title: SSRS vs SCVMM - The Kerberos token dispute
-description: "Explore the Kerberos token challenges in SSRS and SCVMM setups. Learn key solutions to enhance your TFS and Lab Management configurations effectively."
+description: Explore the Kerberos token challenges in SSRS and SCVMM setups. Learn key solutions to enhance your TFS and Lab Management configurations effectively.
 date: 2011-12-29
 creator: Martin Hinshelwood
 id: "4104"
@@ -8,17 +8,20 @@ layout: blog
 resourceTypes: blog
 slug: ssrs-vs-scvmm-the-kerberos-token-dispute
 aliases:
-  - /blog/ssrs-vs-scvmm-the-kerberos-token-dispute
+- /blog/ssrs-vs-scvmm-the-kerberos-token-dispute
+- /ssrs-vs-scvmm-the-kerberos-token-dispute
+- /ssrs-vs-scvmm---the-kerberos-token-dispute
+- /blog/ssrs-vs-scvmm---the-kerberos-token-dispute
 tags:
-  - kerberos
-  - nwcadence
-  - ssrs
-  - tfs
-  - tfs2010
-  - tfslab
-  - tools
----
+- kerberos
+- nwcadence
+- ssrs
+- tfs
+- tfs2010
+- tfslab
+- tools
 
+---
 I have been  working with one of my colleagues, Bryon, over the holidays in order to install both TFS and Lab management at a customer. Now that customer has some awesome hardware, but insisted on a physical TFS server. The DL320 with 18 cores, 42GB RAM and 2TB of storage make a pretty fast TFS server, but we did run into a couple of problems. The solution to the first problem caused the second problem.
 
 > **Conclusion: Never put the SCVMM Server on the same box as RS if you are using Domain Accounts**

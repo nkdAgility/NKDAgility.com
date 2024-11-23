@@ -1,6 +1,6 @@
 ---
 title: IHandlerFactory
-description: "Discover how to implement a BlogRedirectHandler in ASP.NET to manage URL redirects effectively, ensuring a smooth transition for your users."
+description: Discover how to implement a BlogRedirectHandler in ASP.NET to manage URL redirects effectively, ensuring a smooth transition for your users.
 date: 2008-08-05
 creator: Martin Hinshelwood
 id: "214"
@@ -8,15 +8,16 @@ layout: blog
 resourceTypes: blog
 slug: ihandlerfactory
 aliases:
-  - /blog/ihandlerfactory
+- /blog/ihandlerfactory
+- /ihandlerfactory
 tags:
-  - code
-  - tools
+- code
+- tools
 categories:
-  - code-and-complexity
+- code-and-complexity
 preview: metro-binary-vb-128-link-1-1.png
----
 
+---
 As you have probably noticed I have moved URL’s (sorry to all you feed readers with the duplicate entries). The reason I moved my blog was to free up the [http://hinshelwood.com](http://hinshelwood.com) URL for use as a personal site that then links to my blog. When you do this you need to consider all of your current users, bookmarks, feeds, links and all that malarkey.
 
 So, I created a WebRedirect (thanks to DynDNS.org) that means that all hinshelwood.com traffic is automatically redirected to blog.hinshelwood.com including all of the sub pages. This is fine until I actually put up a site on hinshelwood.com and brake all of the links… HttpHandler to the rescue…

@@ -1,6 +1,6 @@
 ---
 title: Deployment documentation
-description: "Explore effective deployment strategies for complex applications across multiple environments. Learn how to gain control and streamline updates with ease."
+description: Explore effective deployment strategies for complex applications across multiple environments. Learn how to gain control and streamline updates with ease.
 date: 2007-07-23
 creator: Martin Hinshelwood
 id: "363"
@@ -8,12 +8,13 @@ layout: blog
 resourceTypes: blog
 slug: deployment-documentation
 aliases:
-  - /blog/deployment-documentation
+- /blog/deployment-documentation
+- /deployment-documentation
 categories:
-  - code-and-complexity
+- code-and-complexity
 preview: metro-binary-vb-128-link-1-1.png
----
 
+---
 Over the past week I have been working on creating and documenting a deployment process for our new main business application. This application is very complicated and requires twenty servers per four environments. We need to track and control deployment to UAT, pre-production, production and C&R (disaster recovery site), but my company as a larger organization only requires control of production.
 
 Now at the moment all the deployments are done by the vendor and is done by updating Assemblies on various servers, then running a custom tool that updates the config files based on the version of the assembly that has been updated. All database updates are currently done manually, and I rather doubt that there is any pre scripted rollback for the schema changes.

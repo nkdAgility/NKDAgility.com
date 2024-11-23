@@ -1,6 +1,6 @@
 ---
 title: Merry Christmas
-description: "Celebrate the season with heartfelt eCards from the Hinshelwood family! Share joy and laughter this Christmas with fun ElfYourself creations."
+description: Celebrate the season with heartfelt eCards from the Hinshelwood family! Share joy and laughter this Christmas with fun ElfYourself creations.
 date: 2008-12-10
 creator: Martin Hinshelwood
 id: "154"
@@ -8,12 +8,13 @@ layout: blog
 resourceTypes: blog
 slug: merry-christmas
 aliases:
-  - /blog/merry-christmas
+- /blog/merry-christmas
+- /merry-christmas
 categories:
-  - me
+- me
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 With many people skipping off early for their holly bags, me included.. I thought I should send this out now…
 
 Send your own [ElfYourself](http://www.elfyourself.com) [eCards](http://sendables.jibjab.com/ecards)

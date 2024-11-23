@@ -1,6 +1,6 @@
 ---
 title: Windows Mobile 6 Black Shadow (4.0)
-description: "Discover the benefits of updating to Windows Mobile 6 Black Shadow (4.0) with expert tips and a step-by-step guide for a smooth installation experience!"
+description: Discover the benefits of updating to Windows Mobile 6 Black Shadow (4.0) with expert tips and a step-by-step guide for a smooth installation experience!
 date: 2007-06-21
 creator: Martin Hinshelwood
 id: "375"
@@ -8,14 +8,17 @@ layout: blog
 resourceTypes: blog
 slug: windows-mobile-6-black-shadow-4-0
 aliases:
-  - /blog/windows-mobile-6-black-shadow-4-0
+- /blog/windows-mobile-6-black-shadow-4-0
+- /windows-mobile-6-black-shadow-4-0
+- /windows-mobile-6-black-shadow-(4-0)
+- /blog/windows-mobile-6-black-shadow-(4-0)
 tags:
-  - windows-mobile-6
+- windows-mobile-6
 categories:
-  - products-and-books
+- products-and-books
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 I know that you are not supposed to do it, but I updated my phone to [Windows Mobile 6 Black](http://wmblack.info/), specifically Black 4 (Shadow). This is a fantastic ROM and, if you are not that technical, much better than trying to cook your own! It is described as a Hybrid OEM of [HTC Hermes](http://www.europe.htc.com/products/htctytn.html) and [Touch](http://www.htctouch.com/) designed specifically for the Hermes. This is good as the current [HTC Touch](http://www.europe.htc.com/products/htctouch.html) phone does not have 3G or a keyboard, it looks fantastic though. I knew the iPhone would be good for something, pushing HTC to advance the interface!
 
 I have to say that I enjoy updating my phone. I enjoy cooking my own ROM, I just don't always have the time, so this is a grate option. You still need to know some background to be able to do this, but there is an excellent tutorial from [Mr Vanx](http://www.mrvanx.org) called [Windows Mobile 6 Black Shadow (4.0)](http://www.mrvanx.org/cms/index.php?option=com_content&task=view&id=58&Itemid=26), which gives you step by step advice on what to do, which as this is only the sixth or seventh update I have done, I still needed to read every line thoroughly.

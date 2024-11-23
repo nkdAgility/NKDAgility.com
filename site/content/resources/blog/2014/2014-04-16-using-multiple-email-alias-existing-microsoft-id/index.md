@@ -1,6 +1,6 @@
 ---
 title: Using multiple email alias with your existing Microsoft ID
-description: "Learn how to manage multiple email aliases with your Microsoft ID, simplifying your online experience and keeping your accounts organized. Discover more!"
+description: Learn how to manage multiple email aliases with your Microsoft ID, simplifying your online experience and keeping your accounts organized. Discover more!
 date: 2014-04-16
 creator: Martin Hinshelwood
 id: "10496"
@@ -8,15 +8,18 @@ layout: blog
 resourceTypes: blog
 slug: using-multiple-email-alias-existing-microsoft-id
 aliases:
-  - /blog/using-multiple-email-alias-existing-microsoft-id
+- /blog/using-multiple-email-alias-existing-microsoft-id
+- /using-multiple-email-alias-existing-microsoft-id
+- /using-multiple-email-alias-with-your-existing-microsoft-id
+- /blog/using-multiple-email-alias-with-your-existing-microsoft-id
 tags:
-  - live-id
-  - microsoft-id
+- live-id
+- microsoft-id
 categories:
-  - news-and-reviews
+- news-and-reviews
 preview: nakedalm-windows-logo-7-7.png
----
 
+---
 Did you know that you can have multiple email alias associated with an existing Microsoft ID (formally Live ID). The first thing that you should do if you receive a new email address, wither corporate or personal, is associate it with your current Microsoft ID.
 
 How many Microsoft ID's are you currently managing? Do you really have a need for more than one, or was this forced upon you. I just started working with [Inmeta Consulting](http://inmeta.no) as a freelance consultant and while they gave me an email address I really don't want to have to create a new Microsoft ID when they add me to their Visual Studio Online account or other live services. They may also provide me with an MSDN account that we [all know needs to be assigned to an individual](http://nkdagility.com/do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn/) using a Microsoft ID.

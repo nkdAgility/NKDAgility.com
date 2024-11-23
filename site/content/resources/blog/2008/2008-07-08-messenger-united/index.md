@@ -1,6 +1,6 @@
 ---
 title: Messenger United
-description: "Discover Messenger United, an innovative application enhancing LinkedIn sync and integrating Microsoft services for seamless connectivity. Explore its features now!"
+description: Discover Messenger United, an innovative application enhancing LinkedIn sync and integrating Microsoft services for seamless connectivity. Explore its features now!
 date: 2008-07-08
 creator: Martin Hinshelwood
 id: "217"
@@ -8,13 +8,14 @@ layout: blog
 resourceTypes: blog
 slug: messenger-united
 aliases:
-  - /blog/messenger-united
+- /blog/messenger-united
+- /messenger-united
 tags:
-  - answers
-  - tools
+- answers
+- tools
 preview: nakedalm-logo-128-link-3-3.png
----
 
+---
 Although the site is a little skewed today…
 
 [![image](images/MessengerUnited_6E4C-image_3-1-1.png)](http://www.messengerunited.com/)

@@ -1,6 +1,6 @@
 ---
 title: Merge Team Projects into one in TFS
-description: "Learn how to merge multiple Team Projects in TFS effectively. Discover tools, tips, and strategies to streamline your workflow and reduce complexity."
+description: Learn how to merge multiple Team Projects in TFS effectively. Discover tools, tips, and strategies to streamline your workflow and reduce complexity.
 date: 2014-07-30
 creator: Martin Hinshelwood
 id: "10638"
@@ -8,20 +8,23 @@ layout: blog
 resourceTypes: blog
 slug: merge-many-team-projects-one-tfs
 aliases:
-  - /blog/merge-many-team-projects-one-tfs
+- /blog/merge-many-team-projects-one-tfs
+- /merge-many-team-projects-one-tfs
+- /merge-team-projects-into-one-in-tfs
+- /blog/merge-team-projects-into-one-in-tfs
 tags:
-  - migration
-  - team-project
-  - tfs
-  - tfs2012
-  - tfs-2013
-  - tfs-integration-platform
-  - workitemtracking
+- migration
+- team-project
+- tfs
+- tfs2012
+- tfs-2013
+- tfs-integration-platform
+- workitemtracking
 categories:
-  - tools-and-techniques
+- tools-and-techniques
 preview: nakedalm-experts-visual-studio-alm-8-8.png
----
 
+---
 In TFS 2012 the product team introduced the concept of Teams into TFS. Before this many organisations created multiple Team Projects and now want to merge Team Projects into one, or at least fewer. There are many reasons you might have done this in the past but there is no reason to live with this.
 
 The simplest way to merge Team Projects is to create a new Team Project, add all of your teams and start from scratch. However for many organisations this sort of disruption is just infeasible and they would rather work with the dysfunctional and limiting layout rather than start again. For them there is another way. I will however warn you now… pain and suffering lies ahead if you choose to proceed.

@@ -1,6 +1,6 @@
 ---
 title: Ooooh, RTM Delight
-description: "Discover the latest in Visual Studio 2008 and Team Foundation Server 2008 with performance boosts and new features that enhance your development experience!"
+description: Discover the latest in Visual Studio 2008 and Team Foundation Server 2008 with performance boosts and new features that enhance your development experience!
 date: 2008-08-12
 creator: Martin Hinshelwood
 id: "212"
@@ -8,17 +8,20 @@ layout: blog
 resourceTypes: blog
 slug: ooooh-rtm-delight
 aliases:
-  - /blog/ooooh-rtm-delight
+- /blog/ooooh-rtm-delight
+- /ooooh-rtm-delight
+- /ooooh,-rtm-delight
+- /blog/ooooh,-rtm-delight
 tags:
-  - tfs
-  - tfs2008
-  - tools
-  - visual-studio
-  - vs2008
-  - wpf
+- tfs
+- tfs2008
+- tools
+- visual-studio
+- vs2008
+- wpf
 preview: metro-visual-studio-2005-128-link-1-1.png
----
 
+---
 Well, MSDN will be busy today… Visual Studio 2008 Beta 1, Team Foundation Server 2008 Beta 1 and .NET Framework Beta 1 have all been released today. This is grate news as I have been using the Beta for about as long as it has been available and all those applications I have waiting in the wings can now go live :), Or at least get into the final phase of development.
 
 Can you imaging a better data capture application than one that builds itself ([**ASP.NET Dynamic Data**](http://www.asp.net/dynamicdata/)) or even a web service to expose your database to an application that you just tell it which bits of data you want to use ([**ADO.NET Data Services**](http://www.asp.net/learn/3.5-SP1/video-239.aspx)). How about the ability to create a conceptual model of your data from multiple databases that hides your application from database schema changes ([**ADO.NET Entity Framework**](http://www.asp.net/learn/3.5-SP1/video-245.aspx)). That's just in the [ASP.NET and ADO](http://www.asp.net/downloads/3.5-SP1/default.aspx) bags, not to mention the WPF performance improvements and the ClickOnce improved install process as well as being able to customise said process and the ability to deploy application with a cut down version of the .NET Framework that has a smaller footprint (20mb as opposed to 60mb) and have the full framework streamed down over time with BITS.

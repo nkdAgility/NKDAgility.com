@@ -1,6 +1,6 @@
 ---
 title: Least opportune time.
-description: "Frustrated by server outages while launching TFS Sticky Buddy v2.0? Join Martin Hinshelwood as he shares his challenges and insights in this engaging blog post!"
+description: Frustrated by server outages while launching TFS Sticky Buddy v2.0? Join Martin Hinshelwood as he shares his challenges and insights in this engaging blog post!
 date: 2008-11-20
 creator: Martin Hinshelwood
 id: "163"
@@ -8,16 +8,19 @@ layout: blog
 resourceTypes: blog
 slug: least-opportune-time
 aliases:
-  - /blog/least-opportune-time
+- /blog/least-opportune-time
+- /least-opportune-time
+- /least-opportune-time-
+- /blog/least-opportune-time-
 tags:
-  - tfs
-  - tfs2008
-  - wit
+- tfs
+- tfs2008
+- wit
 categories:
-  - me
+- me
 preview: metro-visual-studio-2005-128-link-4-4.png
----
 
+---
 [![codeplex](images/Leastopportunetime_CCCD-codeplex_thumb-2-2.jpg)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Leastopportunetime_CCCD-codeplex_2.jpg)
 { .post-img }
 

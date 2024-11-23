@@ -1,6 +1,6 @@
 ---
 title: VSTS Sync Migration Tool Update and Bugfix
-description: "Discover the latest updates and bug fixes for the VSTS Sync Migration Tool, enhancing your TFS and VSTS experience. Streamline your project migrations today!"
+description: Discover the latest updates and bug fixes for the VSTS Sync Migration Tool, enhancing your TFS and VSTS experience. Streamline your project migrations today!
 date: 2017-06-21
 creator: Martin Hinshelwood
 id: "11944"
@@ -8,17 +8,20 @@ layout: blog
 resourceTypes: blog
 slug: vsts-sync-migration-tool-update-bugfix
 aliases:
-  - /blog/vsts-sync-migration-tool-update-bugfix
+- /blog/vsts-sync-migration-tool-update-bugfix
+- /vsts-sync-migration-tool-update-bugfix
+- /vsts-sync-migration-tool-update-and-bugfix
+- /blog/vsts-sync-migration-tool-update-and-bugfix
 tags:
-  - migration
-  - sync
-  - tfs
-  - vsts
+- migration
+- sync
+- tfs
+- vsts
 categories:
-  - devops
+- devops
 preview: nkdagility-martin-hinshelwood-vsts-sync-migration-1-1.png
----
 
+---
 The [VSTS Sync Migration tools](https://marketplace.visualstudio.com/items?itemName=nkdagility.vsts-sync-migration) have been updated with new features and bug fixes for common issues reported by users.
 
 [![Chocolatey](https://camo.githubusercontent.com/30eda87c074e892c7b2126ffd0e6b1d3da7f710d/68747470733a2f2f696d672e736869656c64732e696f2f63686f636f6c617465792f762f767374732d73796e632d6d69677261746f722e737667)](https://chocolatey.org/packages/vsts-sync-migrator/)

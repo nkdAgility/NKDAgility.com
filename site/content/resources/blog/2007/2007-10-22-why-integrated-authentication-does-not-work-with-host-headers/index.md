@@ -1,6 +1,6 @@
 ---
 title: Why Integrated Authentication does not work with host headers!
-description: "Discover why Integrated Authentication fails with host headers in TFS and learn how to resolve the 401.1 error for smoother access. Get insights now!"
+description: Discover why Integrated Authentication fails with host headers in TFS and learn how to resolve the 401.1 error for smoother access. Get insights now!
 date: 2007-10-22
 creator: Martin Hinshelwood
 id: "296"
@@ -8,13 +8,16 @@ layout: blog
 resourceTypes: blog
 slug: why-integrated-authentication-does-not-work-with-host-headers
 aliases:
-  - /blog/why-integrated-authentication-does-not-work-with-host-headers
+- /blog/why-integrated-authentication-does-not-work-with-host-headers
+- /why-integrated-authentication-does-not-work-with-host-headers
+- /why-integrated-authentication-does-not-work-with-host-headers-
+- /blog/why-integrated-authentication-does-not-work-with-host-headers-
 tags:
-  - tfs
+- tfs
 categories:
-  - problems-and-puzzles
----
+- problems-and-puzzles
 
+---
 **You receive error 401.1 when you browse a [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") Web site that uses Integrated Authentication and is hosted on IIS 5.1 or IIS 6**
 
 This little problem occurs when you have Windows 2003 SP1 or later installed and you try to change your Team Foundation Server to a friendly name, like say tfs01.\[intranet\].\[company\].com.

@@ -1,6 +1,6 @@
 ---
 title: Ahhh, the fun of deploying Team System in a large corporation
-description: "Discover the challenges and solutions of deploying Team System in a large corporation. Learn tips and tricks to navigate server access issues effectively!"
+description: Discover the challenges and solutions of deploying Team System in a large corporation. Learn tips and tricks to navigate server access issues effectively!
 date: 2006-12-15
 creator: Martin Hinshelwood
 id: "447"
@@ -8,10 +8,13 @@ layout: blog
 resourceTypes: blog
 slug: ahhh-the-fun-of-deploying-team-system-in-a-large-corporation
 aliases:
-  - /blog/ahhh-the-fun-of-deploying-team-system-in-a-large-corporation
+- /blog/ahhh-the-fun-of-deploying-team-system-in-a-large-corporation
+- /ahhh-the-fun-of-deploying-team-system-in-a-large-corporation
+- /ahhh,-the-fun-of-deploying-team-system-in-a-large-corporation
+- /blog/ahhh,-the-fun-of-deploying-team-system-in-a-large-corporation
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 I can see that this project is going to be fun. I need to deploy team system within the investment bank that I work for. The DBA's will not let me access their servers! And the TFS installation needs to be run on them.
 
 However their is a way round this which a nice man called [Brian Keller](http://blogs.msdn.com/briankel/ "Brian Keller") let me in on, thanks Brian.

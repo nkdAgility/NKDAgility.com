@@ -1,6 +1,6 @@
 ---
 title: Metrics that matter with evidence-based management
-description: "Discover how Evidence-Based Management can enhance your metrics and KPIs for better decision-making in software development. Elevate your team's performance!"
+description: Discover how Evidence-Based Management can enhance your metrics and KPIs for better decision-making in software development. Elevate your team's performance!
 date: 2014-02-25
 creator: Martin Hinshelwood
 id: "10367"
@@ -8,21 +8,22 @@ layout: blog
 resourceTypes: blog
 slug: metrics-that-matter-with-evidence-based-management
 aliases:
-  - /blog/metrics-that-matter-with-evidence-based-management
+- /blog/metrics-that-matter-with-evidence-based-management
+- /metrics-that-matter-with-evidence-based-management
 tags:
-  - agile
-  - ebmgt
-  - evidence-based-management
-  - kpi
-  - merics
-  - scrum
-  - tfs
+- agile
+- ebmgt
+- evidence-based-management
+- kpi
+- merics
+- scrum
+- tfs
 categories:
-  - events-and-presentations
-  - people-and-process
+- events-and-presentations
+- people-and-process
 preview: nakedalm-agility-index-24-24.png
----
 
+---
 I was recently asked to speak at ALM Days in Dusseldorf and more specifically to create a talk on Metrics and KPI’s for Quality. As I have been working a lot recently with evidence-based management. I am pretty sure that my session title translates as “Test management and reporting – KIP’s for better decisions” so I am going to concentrate on reporting and KPI's as the session before mine is on Agile Testing.
 
 - slideshare [Metrics that matter with evidence-based management @ ALM Days in Dusseldorf](http://nkdalm.net/1eVh1UP)

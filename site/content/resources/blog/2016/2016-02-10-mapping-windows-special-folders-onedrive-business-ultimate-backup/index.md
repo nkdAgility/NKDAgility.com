@@ -1,6 +1,6 @@
 ---
 title: Mapping your Windows Special Folders to OneDrive for Business - Ultimate Backup
-description: "Learn how to map Windows special folders to OneDrive for Business for seamless backup and access across devices. Keep your files safe and synced effortlessly!"
+description: Learn how to map Windows special folders to OneDrive for Business for seamless backup and access across devices. Keep your files safe and synced effortlessly!
 date: 2016-02-10
 creator: Martin Hinshelwood
 id: "11430"
@@ -8,15 +8,18 @@ layout: blog
 resourceTypes: blog
 slug: mapping-windows-special-folders-onedrive-business-ultimate-backup
 aliases:
-  - /blog/mapping-windows-special-folders-onedrive-business-ultimate-backup
+- /blog/mapping-windows-special-folders-onedrive-business-ultimate-backup
+- /mapping-windows-special-folders-onedrive-business-ultimate-backup
+- /mapping-your-windows-special-folders-to-onedrive-for-business---ultimate-backup
+- /blog/mapping-your-windows-special-folders-to-onedrive-for-business---ultimate-backup
 tags:
-  - onedrive
-  - windows
+- onedrive
+- windows
 categories:
-  - install-and-configuration
+- install-and-configuration
 preview: clip_image001-1-1.png
----
 
+---
 Do you worry that you will lose files on your computer? Well you should! At any time your harddrive can fail, or your house could be hit by a meteor, or stolen. I keep everything on my computer encrypted with BitLocker and can remote wipe any of my data, however I want to be able to access it from anywhere. Everything needs to be in at least two locations to be called a backup, a local separate disk is only partial backup and realis on being at home to backup leading to stale data. That means that the only viable place to securely store your data is the cloud.
 
 I also tend to work on more than one computer. I have a number of tablets, from a Surface 4, Surface 3's to the Dell Venue, and even a couple of HP Stream 7's. I want to be able to edit a file on one, and pick that file back up on any of the other tablets. Or even on my phone, or on a friends PC.

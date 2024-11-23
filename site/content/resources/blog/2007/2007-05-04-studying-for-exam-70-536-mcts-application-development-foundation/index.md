@@ -1,6 +1,6 @@
 ---
-title: "Studying for Exam 70-536: MCTS Application Development Foundation"
-description: "Join Martin Hinshelwood on his journey to conquer Exam 70-536 for MCPD certification, sharing insights and resources for aspiring .NET developers."
+title: 'Studying for Exam 70-536: MCTS Application Development Foundation'
+description: Join Martin Hinshelwood on his journey to conquer Exam 70-536 for MCPD certification, sharing insights and resources for aspiring .NET developers.
 date: 2007-05-04
 creator: Martin Hinshelwood
 id: "404"
@@ -8,16 +8,19 @@ layout: blog
 resourceTypes: blog
 slug: studying-for-exam-70-536-mcts-application-development-foundation
 aliases:
-  - /blog/studying-for-exam-70-536-mcts-application-development-foundation
+- /blog/studying-for-exam-70-536-mcts-application-development-foundation
+- /studying-for-exam-70-536-mcts-application-development-foundation
+- /studying-for-exam-70-536--mcts-application-development-foundation
+- /blog/studying-for-exam-70-536--mcts-application-development-foundation
 tags:
-  - fail
-  - visual-studio
-  - vs2005
+- fail
+- visual-studio
+- vs2005
 categories:
-  - me
+- me
 preview: metro-visual-studio-2005-128-link-1-1.png
----
 
+---
 After my success with [Beta Exam 71-510: TS: Visual Studio 2005 Team Foundation Server](http://hinshelwood.com/archive/2007/04/25/Beta-Exam-71-510-TS-Visual-Studio-2005-Team-Foundation-Server.aspx) I now find myself thinking that I should get my developer exams sorted. I had never done them before as I would have had to pay for them myself. Which sucks...
 
 The company I am now working for (the first to have more than 30 employees, and has more than 70,000) has kindly decided that I get a training budget. Now, though the budget is large, it would only cover one and a half of the exam courses per year and I can't be bothered to take 4 years to do it, by which time they will be obsolete anyway, so I have decided to go for the self study approach.

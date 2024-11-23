@@ -1,6 +1,6 @@
 ---
 title: Installing TFS 2013 from scratch is easy
-description: "Learn how to easily install TFS 2013 from scratch with step-by-step videos. Discover basic and advanced setups for efficient configuration and management."
+description: Learn how to easily install TFS 2013 from scratch with step-by-step videos. Discover basic and advanced setups for efficient configuration and management.
 date: 2014-01-17
 creator: Martin Hinshelwood
 id: "10332"
@@ -8,17 +8,20 @@ layout: blog
 resourceTypes: blog
 slug: installing-tfs-2013-scratch-easy
 aliases:
-  - /blog/installing-tfs-2013-scratch-easy
+- /blog/installing-tfs-2013-scratch-easy
+- /installing-tfs-2013-scratch-easy
+- /installing-tfs-2013-from-scratch-is-easy
+- /blog/installing-tfs-2013-from-scratch-is-easy
 tags:
-  - configuration
-  - install
-  - tfs
-  - tfs-2013
-  - videos
+- configuration
+- install
+- tfs
+- tfs-2013
+- videos
 categories:
-  - install-and-configuration
----
+- install-and-configuration
 
+---
 It had been a while since I installed TFS from scratch and I had a few questions from a customer on the subject. So instead of creating yet another installing TFS post I decided to create a couple of videos instead.
 
 In the first video I used the Basic Install option. This installs TFS with SQL Express and is the easiest setup. Instead of having to do a bunch of manual steps you just click and go. Fully configured TFS in no time. On top of that it will even configure SharePoint Foundation 2013 for you (not supported on Server 2012 R2 until SP1.) The only thing that you are missing is Reporting and that is only because SQL Express does not support Reporting Services or Analysis Services. You can however upgrade later if you feel the need easily.

@@ -1,6 +1,6 @@
 ---
 title: Scaling Professional Scrum with Visual Studio Team Services
-description: "Discover how to scale Professional Scrum using Visual Studio Team Services. Learn strategies for effective team collaboration and automation in your projects."
+description: Discover how to scale Professional Scrum using Visual Studio Team Services. Learn strategies for effective team collaboration and automation in your projects.
 date: 2016-07-06
 creator: Martin Hinshelwood
 id: "11563"
@@ -8,21 +8,24 @@ layout: blog
 resourceTypes: blog
 slug: scaling-professional-scrum-visual-studio-team-services
 aliases:
-  - /blog/scaling-professional-scrum-visual-studio-team-services
+- /blog/scaling-professional-scrum-visual-studio-team-services
+- /scaling-professional-scrum-visual-studio-team-services
+- /scaling-professional-scrum-with-visual-studio-team-services
+- /blog/scaling-professional-scrum-with-visual-studio-team-services
 tags:
-  - homepage
-  - nexus-framework
-  - scaled-agile
-  - scaled-professional-scrum
-  - scrum
-  - tfs
-  - vsteamservices
+- homepage
+- nexus-framework
+- scaled-agile
+- scaled-professional-scrum
+- scrum
+- tfs
+- vsteamservices
 categories:
-  - agility
-  - events-and-presentations
+- agility
+- events-and-presentations
 preview: Scalled-Professional-Scrum-1280-2-2.jpg
----
 
+---
 Last week I was teaching a Professional Scrum Foundations in Farnborough and I had to make sure that I got a hotel with awesome internet access. As well as teaching the class I Have two additional tasks for the week. The first was to have the honour of talking on ScrumPulse, Scrum.org's webcast, and the second was to talk at the prestigious Dutch ALM Meetup.
 
 Both topics were the same with "Scaling Professional Scrum with Visual Studio Team Services" but the interactivity and available time was substantially different with only really 45 minutes in the webcast and nearly 3 hours for the workshop.

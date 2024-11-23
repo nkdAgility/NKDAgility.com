@@ -1,6 +1,6 @@
 ---
 title: What's in a burndown?
-description: "Discover the essentials of burndown charts in Agile. Learn how to visualize progress and enhance team communication for successful sprints."
+description: Discover the essentials of burndown charts in Agile. Learn how to visualize progress and enhance team communication for successful sprints.
 date: 2012-03-28
 creator: Martin Hinshelwood
 id: "5002"
@@ -8,19 +8,22 @@ layout: blog
 resourceTypes: blog
 slug: whats-in-a-burndown
 aliases:
-  - /blog/whats-in-a-burndown
+- /blog/whats-in-a-burndown
+- /whats-in-a-burndown
+- /what's-in-a-burndown-
+- /blog/what's-in-a-burndown-
 tags:
-  - agile
-  - configuration
-  - develop
-  - practices
-  - scrum
+- agile
+- configuration
+- develop
+- practices
+- scrum
 categories:
-  - people-and-process
-  - tools-and-techniques
+- people-and-process
+- tools-and-techniques
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 I was recently in [Park City, Utah to teach](http://blog.hinshelwood.com/professional-scrum-foundations-in-salt-lake-city-utah/) the [Professional Scrum Foundations](http://blog.hinshelwood.com/training/) course and i just got an email from one of the students. As I want to help everyone I will answer here:
 
 > If I recall from our training, you suggested teams could burn down their sprints using points or hours.  In your view is there a “better” answer in your opinion (pros/cons)?  

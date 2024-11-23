@@ -1,6 +1,6 @@
 ---
 title: Reuse your MSDN benefits with your Org ID
-description: "Learn how to transfer your MSDN benefits to your Org ID effortlessly. Follow our step-by-step guide to maximize your Azure subscription today!"
+description: Learn how to transfer your MSDN benefits to your Org ID effortlessly. Follow our step-by-step guide to maximize your Azure subscription today!
 date: 2014-10-21
 creator: Martin Hinshelwood
 id: "10786"
@@ -8,16 +8,19 @@ layout: blog
 resourceTypes: blog
 slug: reuse-msdn-benefits-org-id
 aliases:
-  - /blog/reuse-msdn-benefits-org-id
+- /blog/reuse-msdn-benefits-org-id
+- /reuse-msdn-benefits-org-id
+- /reuse-your-msdn-benefits-with-your-org-id
+- /blog/reuse-your-msdn-benefits-with-your-org-id
 tags:
-  - azure
-  - msdn
-  - subscription
+- azure
+- msdn
+- subscription
 categories:
-  - problems-and-puzzles
+- problems-and-puzzles
 preview: nakedalm-experts-visual-studio-alm-7-7.png
----
 
+---
 If you are trying to reuse your MSDN benefits with your Org ID but you previously activated against your Microsoft ID then you will need to cancel your subscription to reuse it.
 
 If, like me, you are moving all of your Microsoft ID (was Live ID) corporate stuff over to Organisational Id (Office 365) and you have previously activated your MSDN benefits against your Microsoft ID you have a bit of work to move those benefits over.

@@ -1,6 +1,6 @@
 ---
 title: Why should I use Visual Studio ALM
-description: "Discover why Visual Studio ALM is essential for effective application lifecycle management. Learn key considerations for tool selection and maximize your team's potential."
+description: Discover why Visual Studio ALM is essential for effective application lifecycle management. Learn key considerations for tool selection and maximize your team's potential.
 date: 2015-01-07
 creator: Martin Hinshelwood
 id: "10990"
@@ -8,25 +8,28 @@ layout: blog
 resourceTypes: blog
 slug: why-should-i-use-visual-studio-alm-whether-tfs-or-vso
 aliases:
-  - /blog/why-should-i-use-visual-studio-alm-whether-tfs-or-vso
+- /blog/why-should-i-use-visual-studio-alm-whether-tfs-or-vso
+- /why-should-i-use-visual-studio-alm-whether-tfs-or-vso
+- /why-should-i-use-visual-studio-alm
+- /blog/why-should-i-use-visual-studio-alm
 tags:
-  - analytics-management
-  - build-management
-  - change-management
-  - code-management
-  - lab-management
-  - project-management
-  - quality-management
-  - release-management
-  - requirements-management
-  - tfs
-  - visual-studio-alm
-  - vsteamservices
+- analytics-management
+- build-management
+- change-management
+- code-management
+- lab-management
+- project-management
+- quality-management
+- release-management
+- requirements-management
+- tfs
+- visual-studio-alm
+- vsteamservices
 categories:
-  - tools-and-techniques
+- tools-and-techniques
 preview: nakedalm-experts-visual-studio-alm-3-3.png
----
 
+---
 I see many organisations looking at TFS and trying to make the decision on why should I use Visual Studio ALM. Often you already have some tools and you want to move to TFS, or you have TFS and you are evaluating other tools as part of a reorganisation.
 
 I was contacted yesterday by a customer that, as part of a reorganisation, is looking to replace Visual Studio ALM with Git and Jenkins. This is very confusing to me as Visual Studio ALM does not equal Git and Jenkins. First, a Git and Jenkins combination provides only a small part of the platform that is Visual Studio ALM. Second, Visual Studio ALM provides Git as part of its platform. So in this case, with a move from Visual Studio ALM to Git and Jenkins we are removing over 90% of our available functionality for only getting whatever the difference between TF Build and Jenkins is. That does not seem like a good comparison, let alone a good decision…

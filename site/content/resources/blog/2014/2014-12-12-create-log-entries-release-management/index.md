@@ -1,6 +1,6 @@
 ---
 title: Create log entries in Release Management
-description: "Learn how to create effective log entries in Release Management using PowerShell. Enhance your deployment process and ensure success with detailed logs!"
+description: Learn how to create effective log entries in Release Management using PowerShell. Enhance your deployment process and ensure success with detailed logs!
 date: 2014-12-12
 creator: Martin Hinshelwood
 id: "10975"
@@ -8,16 +8,19 @@ layout: blog
 resourceTypes: blog
 slug: create-log-entries-release-management
 aliases:
-  - /blog/create-log-entries-release-management
+- /blog/create-log-entries-release-management
+- /create-log-entries-release-management
+- /create-log-entries-in-release-management
+- /blog/create-log-entries-in-release-management
 tags:
-  - deploy
-  - powershell
-  - release-management
+- deploy
+- powershell
+- release-management
 categories:
-  - install-and-configuration
+- install-and-configuration
 preview: nakedalm-experts-visual-studio-alm-5-5.png
----
 
+---
 I have been working through my demos for NDC London next week. And I found it almost impossible to create log entries in Release Management where I wanted.
 
 While in London for NDC 2014 I was in the same building as the filming of Mission Impossible 5. I worked on a TV show for my work experience at school and ended up with an [IMDB profile](http://www.imdb.com/name/nm4402255/) and what always struck me was how much time was spent getting one a few minutes or even seconds of footage. If you ever get a chance to even be in the audience for a 30 minute comedy show, be warned… you will be there for at least 6 hours to get only 25 minutes of air time.

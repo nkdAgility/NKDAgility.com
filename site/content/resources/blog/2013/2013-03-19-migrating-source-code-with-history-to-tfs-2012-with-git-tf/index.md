@@ -1,6 +1,6 @@
 ---
 title: Migrating source code with history to TFS 2012 with Git-Tf
-description: "Learn how to migrate source code with history to TFS 2012 using Git-Tf. Discover robust methods for seamless transitions and efficient version control."
+description: Learn how to migrate source code with history to TFS 2012 using Git-Tf. Discover robust methods for seamless transitions and efficient version control.
 date: 2013-03-19
 creator: Martin Hinshelwood
 id: "9313"
@@ -8,21 +8,22 @@ layout: blog
 resourceTypes: blog
 slug: migrating-source-code-with-history-to-tfs-2012-with-git-tf
 aliases:
-  - /blog/migrating-source-code-with-history-to-tfs-2012-with-git-tf
+- /blog/migrating-source-code-with-history-to-tfs-2012-with-git-tf
+- /migrating-source-code-with-history-to-tfs-2012-with-git-tf
 tags:
-  - configuration
-  - git
-  - git-tfs
-  - operate
-  - strategic
-  - tactical
-  - tfs
-  - tfs2012-2
-  - tools
+- configuration
+- git
+- git-tfs
+- operate
+- strategic
+- tactical
+- tfs
+- tfs2012-2
+- tools
 categories:
-  - code-and-complexity
----
+- code-and-complexity
 
+---
 Its hard to migrate source code even from one Visual Studio 2012 Team Foundation Server to another, especially when you also want to have your history. We have been forced in the past to use some hokie migration tools that only really partially work.
 
 - Update Anthony Borton gave me a hard time for not being able to get this working. However I had no problem with second set of code below.

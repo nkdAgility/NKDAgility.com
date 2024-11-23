@@ -1,6 +1,6 @@
 ---
-title: "TFS 2012 Update 1 - TF255430: the database was partially upgraded during a failed upgrade"
-description: "Resolve TFS 2012 Update 1 upgrade issues with expert insights on error TF255430. Learn how to restore your database and ensure a smooth upgrade process."
+title: 'TFS 2012 Update 1 - TF255430: the database was partially upgraded during a failed upgrade'
+description: Resolve TFS 2012 Update 1 upgrade issues with expert insights on error TF255430. Learn how to restore your database and ensure a smooth upgrade process.
 date: 2012-12-03
 creator: Martin Hinshelwood
 id: "9164"
@@ -8,26 +8,29 @@ layout: blog
 resourceTypes: blog
 slug: tfs-2012-update-1-tf255430-the-database-was-partially-upgraded-during-a-failed-upgrade
 aliases:
-  - /blog/tfs-2012-update-1-tf255430-the-database-was-partially-upgraded-during-a-failed-upgrade
+- /blog/tfs-2012-update-1-tf255430-the-database-was-partially-upgraded-during-a-failed-upgrade
+- /tfs-2012-update-1-tf255430-the-database-was-partially-upgraded-during-a-failed-upgrade
+- /tfs-2012-update-1---tf255430--the-database-was-partially-upgraded-during-a-failed-upgrade
+- /blog/tfs-2012-update-1---tf255430--the-database-was-partially-upgraded-during-a-failed-upgrade
 tags:
-  - configuration
-  - infrastructure
-  - tf246017
-  - tf254027
-  - tf255356
-  - tf255375
-  - tf255430
-  - tf400670
-  - tf400711
-  - tfs
-  - tfs2012
-  - tfs2012-1
-  - tools
+- configuration
+- infrastructure
+- tf246017
+- tf254027
+- tf255356
+- tf255375
+- tf255430
+- tf400670
+- tf400711
+- tfs
+- tfs2012
+- tfs2012-1
+- tools
 categories:
-  - code-and-complexity
+- code-and-complexity
 preview: metro-problem-icon-2-2.png
----
 
+---
 You get an error while upgrading Team Foundation Server 2012 to Update 1 with a “TF254027: You must correct all errors before you continue”, “TF255375: the configuration database that you specified cannot be used” and a “TF255430: the database was partially upgraded during a failed upgrade”.
 
 ![image](images/image-1-1.png "image")  

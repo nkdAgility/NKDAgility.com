@@ -1,6 +1,6 @@
 ---
 title: What's new in Visual Studio 2013 Team Foundation Server Preview
-description: "Discover the latest features in Visual Studio 2013 Team Foundation Server! Enhance your agile practices with powerful tools for collaboration and testing."
+description: Discover the latest features in Visual Studio 2013 Team Foundation Server! Enhance your agile practices with powerful tools for collaboration and testing.
 date: 2013-06-26
 creator: Martin Hinshelwood
 id: "9677"
@@ -8,29 +8,32 @@ layout: blog
 resourceTypes: blog
 slug: get-visual-studio-2013-team-foundation-server-while-its-hot
 aliases:
-  - /blog/get-visual-studio-2013-team-foundation-server-while-its-hot
+- /blog/get-visual-studio-2013-team-foundation-server-while-its-hot
+- /get-visual-studio-2013-team-foundation-server-while-its-hot
+- /what's-new-in-visual-studio-2013-team-foundation-server-preview
+- /blog/what's-new-in-visual-studio-2013-team-foundation-server-preview
 tags:
-  - agile-portfolio-management
-  - define
-  - improve
-  - infrastructure
-  - operational
-  - practices
-  - process
-  - strategic
-  - tactical
-  - team-rooms
-  - test-hub
-  - tfs-2013
-  - tools
+- agile-portfolio-management
+- define
+- improve
+- infrastructure
+- operational
+- practices
+- process
+- strategic
+- tactical
+- team-rooms
+- test-hub
+- tfs-2013
+- tools
 categories:
-  - news-and-reviews
-  - people-and-process
-  - products-and-books
-  - tools-and-techniques
+- news-and-reviews
+- people-and-process
+- products-and-books
+- tools-and-techniques
 preview: nakedalm-experts-visual-studio-alm-14-14.png
----
 
+---
 Steve Ballmer just announced the Visual Studio 2013 Go-Live preview at the Build summit not more than an hour ago so get Visual Studio 2013 Team Foundation Server while its hot! Remember that this Preview is covered by a Go-Live licence and is fully supported for production use.
 
 There are tones of new features in both Visual Studio 2013 and Team Foundation Server 2013 and we are all interested in the new Visual Studio ALM features.

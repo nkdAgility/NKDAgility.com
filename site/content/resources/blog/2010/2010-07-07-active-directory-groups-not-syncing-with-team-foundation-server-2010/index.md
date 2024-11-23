@@ -1,6 +1,6 @@
 ---
 title: Active Directory Groups not Syncing with Team Foundation Server 2010
-description: "Discover solutions for syncing Active Directory groups with Team Foundation Server 2010. Streamline your security and enhance user management effectively!"
+description: Discover solutions for syncing Active Directory groups with Team Foundation Server 2010. Streamline your security and enhance user management effectively!
 date: 2010-07-07
 creator: Martin Hinshelwood
 id: "32"
@@ -8,16 +8,17 @@ layout: blog
 resourceTypes: blog
 slug: active-directory-groups-not-syncing-with-team-foundation-server-2010
 aliases:
-  - /blog/active-directory-groups-not-syncing-with-team-foundation-server-2010
+- /blog/active-directory-groups-not-syncing-with-team-foundation-server-2010
+- /active-directory-groups-not-syncing-with-team-foundation-server-2010
 tags:
-  - codeproject
-  - ssw
-  - tfs
-  - tfs2010
-  - tools
+- codeproject
+- ssw
+- tfs
+- tfs2010
+- tools
 preview: metro-SSWLogo-128-link-7-7.png
----
 
+---
 ![](images/symbol-error.png)For a little while now I had been investigating an odd occurrence in Team Foundation Server. Users added to Active Directory groups have not been filtering back into the Team Foundation Server groups cache. The meant that we had to add users directly to Team Foundation Server in order to give them permission. While this was not ideal, it did not really inconvenience us that much, but we are now trying to streamline our security and need it fixed.
 { .post-img }
 

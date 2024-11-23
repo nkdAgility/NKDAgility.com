@@ -1,6 +1,6 @@
 ---
 title: Another day another Codeplex Project
-description: "Explore innovative SharePoint Designer custom workflows with Martin Hinshelwood. Discover solutions to enhance your projects and streamline your processes!"
+description: Explore innovative SharePoint Designer custom workflows with Martin Hinshelwood. Discover solutions to enhance your projects and streamline your processes!
 date: 2008-05-07
 creator: Martin Hinshelwood
 id: "232"
@@ -8,16 +8,17 @@ layout: blog
 resourceTypes: blog
 slug: another-day-another-codeplex-project
 aliases:
-  - /blog/another-day-another-codeplex-project
+- /blog/another-day-another-codeplex-project
+- /another-day-another-codeplex-project
 tags:
-  - moss2007
-  - sharepoint
-  - sp2007
+- moss2007
+- sharepoint
+- sp2007
 categories:
-  - me
+- me
 preview: metro-sharepoint-128-link-2-2.png
----
 
+---
 I have been using the [Useful Sharepoint Designer Custom Workflow Activities](http://www.codeplex.com/SPDActivities/) project on [CodePlex](http://www.codeplex.com "CodePlex") to augment the capabilities of SharePoint Designer to add such features as "Start another workflow" which is very useful for compartmentalising your workflow so as to not make it too complicated.
 
 [![image](images/AnotherdayanotherCodeplexProject_D58A-image_thumb-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-AnotherdayanotherCodeplexProject_D58A-image_2.png)

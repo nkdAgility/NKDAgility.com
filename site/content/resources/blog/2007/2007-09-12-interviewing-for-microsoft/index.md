@@ -1,6 +1,6 @@
 ---
 title: Interviewing for Microsoft
-description: "Explore my journey interviewing for a dream job at Microsoft, the challenges faced, and valuable lessons learned in software development and public speaking."
+description: Explore my journey interviewing for a dream job at Microsoft, the challenges faced, and valuable lessons learned in software development and public speaking.
 date: 2007-09-12
 creator: Martin Hinshelwood
 id: "315"
@@ -8,14 +8,15 @@ layout: blog
 resourceTypes: blog
 slug: interviewing-for-microsoft
 aliases:
-  - /blog/interviewing-for-microsoft
+- /blog/interviewing-for-microsoft
+- /interviewing-for-microsoft
 tags:
-  - wcf
+- wcf
 categories:
-  - me
+- me
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 I was not sure wither I was going to post this, but I am pretty crazy anyway, so...what the hell.
 
 Last week I interviewed for a job at Microsoft...You might be thinking, "You just got a new job?", and you would be right. But how often do you get to interview for your dream job...not often I think :)

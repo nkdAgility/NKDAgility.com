@@ -1,6 +1,6 @@
 ---
 title: One Team Project to rule them all
-description: "Explore the concept of a single Team Project in TFS to streamline multiple teams and projects, enhancing collaboration and efficiency in Agile environments."
+description: Explore the concept of a single Team Project in TFS to streamline multiple teams and projects, enhancing collaboration and efficiency in Agile environments.
 date: 2012-07-15
 creator: Martin Hinshelwood
 id: "6160"
@@ -8,20 +8,23 @@ layout: blog
 resourceTypes: blog
 slug: one-team-project
 aliases:
-  - /blog/one-team-project
+- /blog/one-team-project
+- /one-team-project
+- /one-team-project-to-rule-them-all
+- /blog/one-team-project-to-rule-them-all
 tags:
-  - configuration
-  - infrastructure
-  - one-team-project-seriese
-  - tfs
-  - tfs2010
-  - tfs2012
-  - tools
+- configuration
+- infrastructure
+- one-team-project-seriese
+- tfs
+- tfs2010
+- tfs2012
+- tools
 categories:
-  - tools-and-techniques
+- tools-and-techniques
 preview: nakedalm-experts-visual-studio-alm-8-8.png
----
 
+---
 [![image](images/image16-2-2.png "image")](http://nkdagility.com/wp-content/uploads/2012/07/image16-2-2.png)I have talked often of the idea of a [Project of Projects in Team Foundation Server](http://blog.hinshelwood.com/project-of-projects-with-team-foundation-server-2010/) and with the new feature in Visual Studio 2012 Team Foundation Server I though it would make sense to revisit. I will talk a little of the idea of the [Master or Hierarchical Backlogs](http://blogs.msdn.com/b/greggboer/archive/2012/01/27/tfs-vnext-configuring-your-project-to-have-a-master-backlog-and-sub-teams.aspx) using the new Agile Planning tools and I always find an example help with understanding so I will be using a recent engagement as a base. But first lets dispel a few myths.
 { .post-img }
 

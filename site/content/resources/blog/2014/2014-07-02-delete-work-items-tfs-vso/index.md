@@ -1,6 +1,6 @@
 ---
 title: How to delete work items from TFS or VSO
-description: "Learn how to efficiently delete work items from TFS or VSO with expert tips and code examples. Streamline your project management today!"
+description: Learn how to efficiently delete work items from TFS or VSO with expert tips and code examples. Streamline your project management today!
 date: 2014-07-02
 creator: Martin Hinshelwood
 id: "10597"
@@ -8,16 +8,19 @@ layout: blog
 resourceTypes: blog
 slug: delete-work-items-tfs-vso
 aliases:
-  - /blog/delete-work-items-tfs-vso
+- /blog/delete-work-items-tfs-vso
+- /delete-work-items-tfs-vso
+- /how-to-delete-work-items-from-tfs-or-vso
+- /blog/how-to-delete-work-items-from-tfs-or-vso
 tags:
-  - tfs
-  - tfs-2013
-  - vsteamservices
+- tfs
+- tfs-2013
+- vsteamservices
 categories:
-  - tools-and-techniques
+- tools-and-techniques
 preview: nakedalm-experts-visual-studio-alm-1-1.png
----
 
+---
 Have you ever created a bunch of work items that you decided later that you had to delete. Well I have… especially as a user of the TFS Integration Platform. And when things go wrong there they can really go wrong.
 
 Now while you can put stuff into the "removed" state it is still hanging around cluttering up the place. The only way out of the box to remove items is to give the ID for each work item that you want to delete and execute the command line for each one.:

@@ -1,6 +1,6 @@
 ---
 title: TFS Speed Problems
-description: "Struggling with Team Foundation Server speed issues? Discover tips to diagnose and improve performance for a smoother development experience!"
+description: Struggling with Team Foundation Server speed issues? Discover tips to diagnose and improve performance for a smoother development experience!
 date: 2007-05-28
 creator: Martin Hinshelwood
 id: "395"
@@ -8,10 +8,11 @@ layout: blog
 resourceTypes: blog
 slug: tfs-speed-problems
 aliases:
-  - /blog/tfs-speed-problems
+- /blog/tfs-speed-problems
+- /tfs-speed-problems
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 I am finding a lot of people who are having problems with the speed of Team Foundation Server! I have to say, that I have had none of these problems and I use both a locally hosted team server and [CodePlex](http://www.codeplex.com "CodePlex") hosted projects. I do have some users in the office who have a very slow connection to [Team Foundation Server](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server"), but they are on a remote network and use a 2mb link to the main network, so I am not surprised by this.
 
 If you are having problems with the speed or responsiveness of your team server there are a couple of things you can try!

@@ -1,6 +1,6 @@
 ---
 title: It's nice to be appreciated!
-description: "Discover the joy of recognition with Community Credit! Join Martin Hinshelwood as he shares his journey of tech involvement and the rewards of appreciation."
+description: Discover the joy of recognition with Community Credit! Join Martin Hinshelwood as he shares his journey of tech involvement and the rewards of appreciation.
 date: 2007-11-29
 creator: Martin Hinshelwood
 id: "283"
@@ -8,14 +8,17 @@ layout: blog
 resourceTypes: blog
 slug: its-nice-to-be-appreciated
 aliases:
-  - /blog/its-nice-to-be-appreciated
+- /blog/its-nice-to-be-appreciated
+- /its-nice-to-be-appreciated
+- /it's-nice-to-be-appreciated-
+- /blog/it's-nice-to-be-appreciated-
 tags:
-  - silverlight
+- silverlight
 categories:
-  - me
+- me
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 A few months ago I found a cool site called [Community Credit](http://www.community-credit.com). I did not understand the premise at first, but after seeing the prizes page, I thought, what the heak! Community Credit is the brain child of one David Silverlight, and yes, it is quite possible that "Silverlight" was named after him :). What is this wondrous site you may ask...Well, its part bragging, part recognition, and part prizes :)
 
 I thought, "this is fantastic, getting prizes for what I am doing anyway", and started posing all of the things I have been involved in to do with technology.

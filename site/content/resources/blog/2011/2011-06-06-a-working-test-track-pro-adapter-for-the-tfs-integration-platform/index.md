@@ -1,6 +1,6 @@
 ---
 title: A working Test Track Pro Adapter for the TFS Integration Platform
-description: "Discover a reliable Test Track Pro Adapter for the TFS Integration Platform, enabling seamless updates and efficient work item management. Learn more!"
+description: Discover a reliable Test Track Pro Adapter for the TFS Integration Platform, enabling seamless updates and efficient work item management. Learn more!
 date: 2011-06-06
 creator: Martin Hinshelwood
 id: "3606"
@@ -8,15 +8,16 @@ layout: blog
 resourceTypes: blog
 slug: a-working-test-track-pro-adapter-for-the-tfs-integration-platform
 aliases:
-  - /blog/a-working-test-track-pro-adapter-for-the-tfs-integration-platform
+- /blog/a-working-test-track-pro-adapter-for-the-tfs-integration-platform
+- /a-working-test-track-pro-adapter-for-the-tfs-integration-platform
 tags:
-  - nwcadence
-  - ttp
-  - tfs
-  - tfs2010
-  - tools
----
+- nwcadence
+- ttp
+- tfs
+- tfs2010
+- tools
 
+---
 [![ALMRangersLogo_Tiny](images/ALMRangersLogo_Tiny_thumb-1-1.png "ALMRangersLogo_Tiny")](http://blog.hinshelwood.com/files/2011/06/ALMRangersLogo_Tiny.png)
 { .post-img }
 

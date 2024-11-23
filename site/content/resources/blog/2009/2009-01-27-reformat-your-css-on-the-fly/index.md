@@ -1,6 +1,6 @@
 ---
 title: Reformat your CSS on the fly
-description: "Learn how to dynamically reformat your CSS for different environments using .NET. Simplify your web development process and enhance your workflow today!"
+description: Learn how to dynamically reformat your CSS for different environments using .NET. Simplify your web development process and enhance your workflow today!
 date: 2009-01-27
 creator: Martin Hinshelwood
 id: "142"
@@ -8,17 +8,18 @@ layout: blog
 resourceTypes: blog
 slug: reformat-your-css-on-the-fly
 aliases:
-  - /blog/reformat-your-css-on-the-fly
+- /blog/reformat-your-css-on-the-fly
+- /reformat-your-css-on-the-fly
 tags:
-  - aggreko
-  - code
-  - codeproject
-  - tools
+- aggreko
+- code
+- codeproject
+- tools
 categories:
-  - code-and-complexity
+- code-and-complexity
 preview: metro-binary-vb-128-link-2-1.png
----
 
+---
 Have you ever, when developing a website, been frustrated when you get a different result when you deploy your application to [http://site/](http://site/) and [http://site/app/](http://site/app/).
 
 [![iStock_000001095647XSmall](images/ReformatyourCSSonthefly_E44D-iStock_000001095647XSmall_thumb-3-3.jpg)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ReformatyourCSSonthefly_E44D-iStock_000001095647XSmall_2.jpg)

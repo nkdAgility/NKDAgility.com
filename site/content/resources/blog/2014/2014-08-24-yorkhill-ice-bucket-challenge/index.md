@@ -1,6 +1,6 @@
 ---
 title: Yorkhill Ice Bucket Challenge
-description: "Join Martin Hinshelwood in the Yorkhill Ice Bucket Challenge to support ALS and Yorkhill Children's Charity. Discover his inspiring journey and donate today!"
+description: Join Martin Hinshelwood in the Yorkhill Ice Bucket Challenge to support ALS and Yorkhill Children's Charity. Discover his inspiring journey and donate today!
 date: 2014-08-24
 creator: Martin Hinshelwood
 id: "10682"
@@ -8,14 +8,15 @@ layout: blog
 resourceTypes: blog
 slug: yorkhill-ice-bucket-challenge
 aliases:
-  - /blog/yorkhill-ice-bucket-challenge
+- /blog/yorkhill-ice-bucket-challenge
+- /yorkhill-ice-bucket-challenge
 tags:
-  - charity
+- charity
 categories:
-  - me
+- me
 preview: yorkhill-ice-bucket-challange-5-5.png
----
 
+---
 Yesterday [Buck Hodges](http://blogs.msdn.com/b/buckh/archive/2014/08/21/the-als-ice-bucket-challenge.aspx) took the ALS Ice Bucket Challenge. He was challenged by [Brian Harry](http://blogs.msdn.com/b/bharry/archive/2014/08/19/als-ice-bucket-challenge.aspx) who was in turn by [Adam Cogan](https://www.youtube.com/watch?v=P_4FM9laAl0). As I know all three of these folks it was only a matter of time before I got nominated. My torturer of the day is Buck. Really… how bad can it be? I did Tough Mudder this weekend my favourite obstacle is [Arctic Enema](https://toughmudder.co.uk/obstacles/arctic-enema) :p!!
 
 This ALS Ice Bucket Challenge has been around for a few weeks now it has been hugely successful for ALS. This is a good thing and I that it can benefit other charities as well. In 2010 [my son Kaiden had to have brain surgery](http://kaiden.hinshelwood.com/2010/07/operation.html). He had an arachnoid cyst that was blocking the drainage of fluid from his brain. This was effectively like a blocked sink, causing hydrocephalus, or 'water on the brain'.

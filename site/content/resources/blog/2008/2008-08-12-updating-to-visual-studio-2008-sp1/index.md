@@ -1,6 +1,6 @@
 ---
 title: Updating to Visual Studio 2008 SP1
-description: "Learn how to smoothly update to Visual Studio 2008 SP1 with essential tools and tips. Ensure a hassle-free installation process for your development needs!"
+description: Learn how to smoothly update to Visual Studio 2008 SP1 with essential tools and tips. Ensure a hassle-free installation process for your development needs!
 date: 2008-08-12
 creator: Martin Hinshelwood
 id: "211"
@@ -8,15 +8,16 @@ layout: blog
 resourceTypes: blog
 slug: updating-to-visual-studio-2008-sp1
 aliases:
-  - /blog/updating-to-visual-studio-2008-sp1
+- /blog/updating-to-visual-studio-2008-sp1
+- /updating-to-visual-studio-2008-sp1
 tags:
-  - aggreko
-  - tools
-  - visual-studio
-  - vs2008
+- aggreko
+- tools
+- visual-studio
+- vs2008
 preview: metro-visual-studio-2005-128-link-1-1.png
----
 
+---
 If you have Visual Studio 2008 SP1 Beta installed make sure that you run the [Visual Studio 2008 Service Pack Preparation Tool](http://www.microsoft.com/downloads/details.aspx?FamilyId=A494B0E0-EB07-4FF1-A21C-A4663E456D9D&displaylang=en) prior to the installation, Microsoft were trying to make this a [seamless process](http://blogs.msdn.com/heaths/archive/2008/05/14/the-release-of-visual-studio-2008-sp1-will-install-over-sp1-beta.aspx), but on [Heath Stewart's Blog](http://blogs.msdn.com/heaths/default.aspx) he mentions that this was [not possible in the end](http://blogs.msdn.com/heaths/archive/2008/08/11/vs-2008-sp1-beta-must-be-removed-prior-to-installing-the-release-of-vs-2008-sp1.aspx). The Preparation tool takes a while to run, but it is way better than having to uninstall everything :)
 
 You will need your Visual Studio 2008 Install files when running the Preparation tool, but you should always keep the ISO handy any how…

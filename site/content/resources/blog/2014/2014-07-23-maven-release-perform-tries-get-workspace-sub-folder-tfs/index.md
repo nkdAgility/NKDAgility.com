@@ -1,6 +1,6 @@
 ---
 title: Maven release perform tries to do a Get to a workspace sub folder in TFS
-description: "Discover how to resolve Maven release issues with TFS when switching from SVN. Learn best practices for a smoother build and release process."
+description: Discover how to resolve Maven release issues with TFS when switching from SVN. Learn best practices for a smoother build and release process.
 date: 2014-07-23
 creator: Martin Hinshelwood
 id: "10620"
@@ -8,19 +8,22 @@ layout: blog
 resourceTypes: blog
 slug: maven-release-perform-tries-get-workspace-sub-folder-tfs
 aliases:
-  - /blog/maven-release-perform-tries-get-workspace-sub-folder-tfs
+- /blog/maven-release-perform-tries-get-workspace-sub-folder-tfs
+- /maven-release-perform-tries-get-workspace-sub-folder-tfs
+- /maven-release-perform-tries-to-do-a-get-to-a-workspace-sub-folder-in-tfs
+- /blog/maven-release-perform-tries-to-do-a-get-to-a-workspace-sub-folder-in-tfs
 tags:
-  - java
-  - jenkins
-  - maven
-  - release
-  - tfs
+- java
+- jenkins
+- maven
+- release
+- tfs
 categories:
-  - problems-and-puzzles
-  - tools-and-techniques
+- problems-and-puzzles
+- tools-and-techniques
 preview: naked-alm-jenkins-logo-2-2.png
----
 
+---
 If you are using TFS and specifically switching from SVN to TFS then you might run into the issue that your Maven release perform tries to do a Get to a workspace sub folder. This will not work as TFS has a validation exception to trying to map a sub folder inside an existing workspace. That could be disastrous in a real situation.
 
 Could you imagine if, while in the middle of a compile, another build kicked off and overwrite your files? Worse if that other build was executing an only slightly different version of your codebase and it created a successful compile of goodness knows what disaster waiting to happen. (shiver.)

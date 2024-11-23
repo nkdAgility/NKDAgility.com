@@ -1,6 +1,6 @@
 ---
 title: Access denied for orchestration plan on Build
-description: "Troubleshoot TFS build errors with expert tips on resolving access denied issues for orchestration plans. Enhance your build system's performance today!"
+description: Troubleshoot TFS build errors with expert tips on resolving access denied issues for orchestration plans. Enhance your build system's performance today!
 date: 2015-12-16
 creator: Martin Hinshelwood
 id: "11411"
@@ -8,15 +8,18 @@ layout: blog
 resourceTypes: blog
 slug: access-denied-orchestration-plan-build
 aliases:
-  - /blog/access-denied-orchestration-plan-build
+- /blog/access-denied-orchestration-plan-build
+- /access-denied-orchestration-plan-build
+- /access-denied-for-orchestration-plan-on-build
+- /blog/access-denied-for-orchestration-plan-on-build
 tags:
-  - build
-  - tfs
+- build
+- tfs
 categories:
-  - install-and-configuration
+- install-and-configuration
 preview: clip_image004-4-4.png
----
 
+---
 I was trying to setup a Build Agent within one of my current customers. They do over 1 million builds a year through Team City and I need to demonstrate that the new TFS build system is awesome before they will consider it. So it never instils confidence when you get an error…
 
 ```

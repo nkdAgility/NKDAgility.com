@@ -1,6 +1,6 @@
 ---
 title: Kerberos and SharePoint 2007
-description: "Learn how to configure Kerberos authentication for SharePoint 2007, including essential SPN setup steps for a secure and efficient environment."
+description: Learn how to configure Kerberos authentication for SharePoint 2007, including essential SPN setup steps for a secure and efficient environment.
 date: 2008-01-31
 creator: Martin Hinshelwood
 id: "254"
@@ -8,22 +8,23 @@ layout: blog
 resourceTypes: blog
 slug: kerberos-and-sharepoint-2007
 aliases:
-  - /blog/kerberos-and-sharepoint-2007
+- /blog/kerberos-and-sharepoint-2007
+- /kerberos-and-sharepoint-2007
 tags:
-  - configuration
-  - infrastructure
-  - moss2007
-  - sharepoint
-  - sp2007
-  - spf2010
-  - tfs
-  - tools
+- configuration
+- infrastructure
+- moss2007
+- sharepoint
+- sp2007
+- spf2010
+- tfs
+- tools
 categories:
-  - code-and-complexity
-  - problems-and-puzzles
+- code-and-complexity
+- problems-and-puzzles
 preview: metro-sharepoint-128-link-1-1.png
----
 
+---
 If you want to use Kerberos authentication and not NTLM with SharePoint then there are some extra tasks that you need to get someone with Domain Admin privileges to perform. For EVERY dns / port combination a SPN needs to be added to Active Directory to tell it that it  is allowed to use Kerberos to authenticate a specific account or server to that URL. In a production environment with a farm of multiple server you will need to use the account option.
 
 The account option lets you create an Active Directory account called..say... svc_Sharepoint and add a bunch of SPN's to it. This account then needs to be used to run the application you are trying to connect to. So if it is an IIS website then the AppPool needs to run under that account. if it is SQL Server then the services need to run under that account.

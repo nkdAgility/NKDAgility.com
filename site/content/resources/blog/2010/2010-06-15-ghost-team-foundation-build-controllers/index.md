@@ -1,6 +1,6 @@
 ---
 title: Ghost build controllers in Team Foundation Server
-description: "Struggling with ghost build controllers in TFS? Discover effective solutions to identify and delete stubborn builds, ensuring a clean development environment."
+description: Struggling with ghost build controllers in TFS? Discover effective solutions to identify and delete stubborn builds, ensuring a clean development environment.
 date: 2010-06-15
 creator: Martin Hinshelwood
 id: "39"
@@ -8,16 +8,19 @@ layout: blog
 resourceTypes: blog
 slug: ghost-team-foundation-build-controllers
 aliases:
-  - /blog/ghost-team-foundation-build-controllers
+- /blog/ghost-team-foundation-build-controllers
+- /ghost-team-foundation-build-controllers
+- /ghost-build-controllers-in-team-foundation-server
+- /blog/ghost-build-controllers-in-team-foundation-server
 tags:
-  - ssw
-  - tfs-build
-  - tfs
-  - tfs2010
-  - tools
+- ssw
+- tfs-build
+- tfs
+- tfs2010
+- tools
 preview: metro-visual-studio-2010-128-link-4-4.png
----
 
+---
 Have you ever seen ghost build controllers in Team Foundation Server that you just can't seam to delete no matter what you do? Sometime there are builds left over in the system that were queued but never completed.
 
 - Update Ulf Jonson pointed out that the value for 'canceled' should be 16 and not 2 as I had stated. Thanks Ulf, updated.

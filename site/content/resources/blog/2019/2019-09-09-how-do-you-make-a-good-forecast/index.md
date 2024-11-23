@@ -1,6 +1,6 @@
 ---
 title: How do you make a good Forecast?
-description: "Learn how to create accurate forecasts in agile projects with expert insights from Martin Hinshelwood. Enhance predictability and budget planning effectively!"
+description: Learn how to create accurate forecasts in agile projects with expert insights from Martin Hinshelwood. Enhance predictability and budget planning effectively!
 date: 2019-09-09
 creator: Martin Hinshelwood
 id: "39852"
@@ -8,20 +8,23 @@ layout: blog
 resourceTypes: blog
 slug: how-do-you-make-a-good-forecast
 aliases:
-  - /blog/how-do-you-make-a-good-forecast
+- /blog/how-do-you-make-a-good-forecast
+- /how-do-you-make-a-good-forecast
+- /how-do-you-make-a-good-forecast-
+- /blog/how-do-you-make-a-good-forecast-
 tags:
-  - budget
-  - forcast
-  - roadmap
-  - scrum
-  - scrum-team
-  - sprint-review
+- budget
+- forcast
+- roadmap
+- scrum
+- scrum-team
+- sprint-review
 categories:
-  - agility
-  - measure-and-learn
+- agility
+- measure-and-learn
 preview: 993957510-1-1.jpg
----
 
+---
 As part of the Scrum.org webinar “Ask a Professional Scrum Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.
 
 In case you missed it, here is the recording of yesterday's Ask a Professional Scrum Trainer webinar with Martin Hinshelwood! Watch here: [http://ow.ly/ijiM50vwEkD](http://ow.ly/ijiM50vwEkD)

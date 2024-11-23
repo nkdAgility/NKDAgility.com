@@ -1,6 +1,6 @@
 ---
 title: Wpf Drag & Drop behaviour
-description: "Master WPF drag & drop with MVVM! Discover intuitive techniques and custom solutions to enhance your applications. Perfect for developers seeking efficiency."
+description: Master WPF drag & drop with MVVM! Discover intuitive techniques and custom solutions to enhance your applications. Perfect for developers seeking efficiency.
 date: 2009-08-14
 creator: Martin Hinshelwood
 id: "92"
@@ -8,20 +8,23 @@ layout: blog
 resourceTypes: blog
 slug: wpf-drag-drop-behaviour
 aliases:
-  - /blog/wpf-drag-drop-behaviour
+- /blog/wpf-drag-drop-behaviour
+- /wpf-drag-drop-behaviour
+- /wpf-drag-&-drop-behaviour
+- /blog/wpf-drag-&-drop-behaviour
 tags:
-  - code
-  - codeproject
-  - mvvm
-  - silverlight
-  - tools
-  - wpf
+- code
+- codeproject
+- mvvm
+- silverlight
+- tools
+- wpf
 categories:
-  - code-and-complexity
-  - me
+- code-and-complexity
+- me
 preview: metro-binary-vb-128-link-5-1.png
----
 
+---
 A colleague of mine was having a bit of trouble getting drag and drop working in a way that fitted well with the MVVM pattern. This is really quite simple once you have a certain level of understanding of Patterns, but is a complete nightmare if you do not.
 
 One of the founding principals of MVVM is that you should never be writing code in your code behind, it should all be encapsulated away and be bindable in XAML to achieve the result. Anyone who has tackled drag and drip will have suddenly found their code behind covered in code for handling both the drag and the drop, and multiplied up when dealing with multiple controls.

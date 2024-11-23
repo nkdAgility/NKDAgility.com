@@ -1,6 +1,6 @@
 ---
 title: Luddites have no place in the modern organisation
-description: "Discover why Luddites hinder modern organizations and learn how to foster a culture of agility and innovation. Embrace change for a thriving workplace!"
+description: Discover why Luddites hinder modern organizations and learn how to foster a culture of agility and innovation. Embrace change for a thriving workplace!
 date: 2020-07-06
 creator: Martin Hinshelwood
 id: "44507"
@@ -8,16 +8,17 @@ layout: blog
 resourceTypes: blog
 slug: luddites-have-no-place-in-the-modern-organisation
 aliases:
-  - /blog/luddites-have-no-place-in-the-modern-organisation
+- /blog/luddites-have-no-place-in-the-modern-organisation
+- /luddites-have-no-place-in-the-modern-organisation
 tags:
-  - leadership-track
-  - scrum-theory
+- leadership-track
+- scrum-theory
 categories:
-  - agility
-  - people-and-process
+- agility
+- people-and-process
 preview: image-3-3-3.png
----
 
+---
 In our [Professional Agile Leadership training](https://nkdagility.com/training/courses/professional-agile-leadership-essentials-training/), we talk about changing your organisations hiring practices to hire more of the right sort of people to create the company that you want, not the company that you have. Hire the right people also implies that you will have to, within your cultural constraints, de-hire the wrong people.
 
 <figure>

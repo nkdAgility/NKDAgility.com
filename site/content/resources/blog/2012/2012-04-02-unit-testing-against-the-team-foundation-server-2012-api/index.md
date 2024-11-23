@@ -1,6 +1,6 @@
 ---
 title: Unit Testing against the Team Foundation Server 2012 API
-description: "Learn how to effectively unit test against the Team Foundation Server 2012 API, tackling authentication challenges and enhancing your TDD practices."
+description: Learn how to effectively unit test against the Team Foundation Server 2012 API, tackling authentication challenges and enhancing your TDD practices.
 date: 2012-04-02
 creator: Martin Hinshelwood
 id: "5112"
@@ -8,25 +8,26 @@ layout: blog
 resourceTypes: blog
 slug: unit-testing-against-the-team-foundation-server-2012-api
 aliases:
-  - /blog/unit-testing-against-the-team-foundation-server-2012-api
+- /blog/unit-testing-against-the-team-foundation-server-2012-api
+- /unit-testing-against-the-team-foundation-server-2012-api
 tags:
-  - code
-  - configuration
-  - infrastructure
-  - practices
-  - tdd
-  - tfs2012
-  - tf-service
-  - tools
-  - unit-testing
-  - visual-studio
-  - vs2012
+- code
+- configuration
+- infrastructure
+- practices
+- tdd
+- tfs2012
+- tf-service
+- tools
+- unit-testing
+- visual-studio
+- vs2012
 categories:
-  - code-and-complexity
-  - tools-and-techniques
+- code-and-complexity
+- tools-and-techniques
 preview: nakedalm-experts-visual-studio-alm-3-3.png
----
 
+---
 I have been working a lot recently with the new Team Foundation Service (TFS Preview) that Microsoft is providing in Azure. I was building an application called TFS Field Annotate that allows you to spelunk a fields changes. One of the problems I ran into is how to Unit Test this. I have been doing a lot of work in Test Driven Development (TDD) recently and after running a Bowling Kata (thanks David Starr) for the last month I don’t want to work any other way.
 
 **Updated 2012-04-02 - [Patrick Carnahan](http://blogs.msdn.com/b/patcarna/) fixed my code below to work with TFS 11 on both local and build server environments.**

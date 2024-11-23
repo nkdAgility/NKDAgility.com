@@ -1,6 +1,6 @@
 ---
 title: Should I upgrade to TFS 2013 Update 2?
-description: "Discover the benefits of upgrading to TFS 2013 Update 2. Explore new features in backlog, test, and release management to enhance your development process!"
+description: Discover the benefits of upgrading to TFS 2013 Update 2. Explore new features in backlog, test, and release management to enhance your development process!
 date: 2014-04-03
 creator: Martin Hinshelwood
 id: "10479"
@@ -8,21 +8,24 @@ layout: blog
 resourceTypes: blog
 slug: upgrade-tfs-2013-update-2
 aliases:
-  - /blog/upgrade-tfs-2013-update-2
+- /blog/upgrade-tfs-2013-update-2
+- /upgrade-tfs-2013-update-2
+- /should-i-upgrade-to-tfs-2013-update-2-
+- /blog/should-i-upgrade-to-tfs-2013-update-2-
 tags:
-  - backlog-management
-  - release-management
-  - test-management
-  - tfs
-  - tfs-2013
-  - tfs-2013-2
+- backlog-management
+- release-management
+- test-management
+- tfs
+- tfs-2013
+- tfs-2013-2
 categories:
-  - news-and-reviews
-  - tools-and-techniques
-  - upgrade-and-maintenance
+- news-and-reviews
+- tools-and-techniques
+- upgrade-and-maintenance
 preview: nakedalm-experts-visual-studio-alm-7-7.png
----
 
+---
 With the launch at Build of Team Foundation Server 2013 Update 2 I wanted to make sure that the update goes seamlessly. So I am upgrading my demo box to both [Windows Server 2012 R2 Update 1](http://nkdagility.com/upgrade-server-windows-server-2012-r2-update-1/) and Team Foundation Server 2013 Update 2.
 
 Recently the TFS updates have become so run of the mill that it has not been worth talking about updates. I don’t mean that the features added as part of the update are simple, it is that the install and upgrade process is so straightforward that it is a non-event. I have customers that are on some of the craziest domain and network configurations that I have ever seen and still TFS is the one system that cuts through the complexity and delivers a flawless experience. But why would I take even this non-existent risk… one word… features:

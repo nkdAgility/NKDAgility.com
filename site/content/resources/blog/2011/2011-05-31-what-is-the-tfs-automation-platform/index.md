@@ -1,6 +1,6 @@
 ---
 title: What is the Tfs Automation Platform
-description: "Discover the TFS Automation Platform, designed to streamline iteration management and enhance automation in TFS. Unlock efficiency in your development process!"
+description: Discover the TFS Automation Platform, designed to streamline iteration management and enhance automation in TFS. Unlock efficiency in your development process!
 date: 2011-05-31
 creator: Martin Hinshelwood
 id: "3373"
@@ -8,19 +8,20 @@ layout: blog
 resourceTypes: blog
 slug: what-is-the-tfs-automation-platform
 aliases:
-  - /blog/what-is-the-tfs-automation-platform
+- /blog/what-is-the-tfs-automation-platform
+- /what-is-the-tfs-automation-platform
 tags:
-  - nwcadence
-  - tfs
-  - tfs2010
-  - tfsap
-  - tools
-  - visual-studio
-  - vs2010
-  - vsalmrangers
+- nwcadence
+- tfs
+- tfs2010
+- tfsap
+- tools
+- visual-studio
+- vs2010
+- vsalmrangers
 preview: metro-visual-studio-2010-128-link-2-2.png
----
 
+---
 [![Turk-Automaton](images/Turk-Automaton_thumb2-3-3.gif "Turk-Automaton")](http://blog.hinshelwood.com/files/2011/06/Turk-Automaton2.gif)The TFS Automation Platform is a project that will be developed initially as the [TFS Iteration Automation](http://blogs.msdn.com/b/willy-peter_schaub/archive/2011/02/20/new-rangers-project-tfs-iteration-automation.aspx) project for the Rangers, but which has a grander  vision to solve a need for customers to have things just happen within TFS.
 { .post-img }
 

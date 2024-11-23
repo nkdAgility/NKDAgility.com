@@ -1,6 +1,6 @@
 ---
 title: Experts Exchange Hell - The slowest site in the world.
-description: "Discover the frustrations of navigating Experts Exchange, the slowest site in the world. Join the conversation on web performance and user experience!"
+description: Discover the frustrations of navigating Experts Exchange, the slowest site in the world. Join the conversation on web performance and user experience!
 date: 2007-10-05
 creator: Martin Hinshelwood
 id: "302"
@@ -8,14 +8,17 @@ layout: blog
 resourceTypes: blog
 slug: experts-exchange-hell-the-slowest-site-in-the-world
 aliases:
-  - /blog/experts-exchange-hell-the-slowest-site-in-the-world
+- /blog/experts-exchange-hell-the-slowest-site-in-the-world
+- /experts-exchange-hell-the-slowest-site-in-the-world
+- /experts-exchange-hell---the-slowest-site-in-the-world-
+- /blog/experts-exchange-hell---the-slowest-site-in-the-world-
 tags:
-  - fail
+- fail
 categories:
-  - me
+- me
 preview: nakedalm-logo-128-link-3-3.png
----
 
+---
 I know a couple of people who have been complaining that Experts Exchange was getting rather slow, and I had noticed the same. So I thought I would investigate how big the pages really are.
 
 The first test is to save the page "Complete List of Zone Areas.mht" and see how big/ or small it is...Well my jaw hit the floor and here is why:

@@ -1,6 +1,6 @@
 ---
 title: Configure features in Team Foundation Server 2013
-description: "Unlock the full potential of Team Foundation Server 2013 by configuring essential features with our step-by-step guide. Enhance your project management today!"
+description: Unlock the full potential of Team Foundation Server 2013 by configuring essential features with our step-by-step guide. Enhance your project management today!
 date: 2013-06-26
 creator: Martin Hinshelwood
 id: "9912"
@@ -8,17 +8,18 @@ layout: blog
 resourceTypes: blog
 slug: configure-features-in-team-foundation-server-2013
 aliases:
-  - /blog/configure-features-in-team-foundation-server-2013
+- /blog/configure-features-in-team-foundation-server-2013
+- /configure-features-in-team-foundation-server-2013
 tags:
-  - configuration
-  - process-template
-  - tfs
-  - tfs-2013
-  - tools
+- configuration
+- process-template
+- tfs
+- tfs-2013
+- tools
 categories:
-  - install-and-configuration
----
+- install-and-configuration
 
+---
 So you have upgraded to Team Foundation Server 2013 but you still don’t have some of the features that you upgraded for. There is a wizard for that but it is not supper discoverable that allows you to configure features in Team Foundation Server 2013.
 
 Note If you want to completely replace your current process template with the new on you can follow [Upgrading to Visual Studio Scrum 3.0 process template](http://nkdagility.com/upgrading-to-visual-studio-scrum-3-0-process-template-in-tfs-2013/) instead.

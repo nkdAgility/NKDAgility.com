@@ -1,6 +1,6 @@
 ---
 title: Installing Visual Studio 2008 Team Foundation Server SP1
-description: "Learn how to install Visual Studio 2008 Team Foundation Server SP1 smoothly with expert tips, a detailed release plan, and troubleshooting advice."
+description: Learn how to install Visual Studio 2008 Team Foundation Server SP1 smoothly with expert tips, a detailed release plan, and troubleshooting advice.
 date: 2009-11-12
 creator: Martin Hinshelwood
 id: "79"
@@ -8,22 +8,23 @@ layout: blog
 resourceTypes: blog
 slug: installing-visual-studio-2008-team-foundation-server-sp1
 aliases:
-  - /blog/installing-visual-studio-2008-team-foundation-server-sp1
+- /blog/installing-visual-studio-2008-team-foundation-server-sp1
+- /installing-visual-studio-2008-team-foundation-server-sp1
 tags:
-  - moss2007
-  - sharepoint
-  - sp2007
-  - ssw
-  - tfs
-  - tfs2008
-  - tools
-  - upgrade
-  - visual-studio
-  - vs2005
-  - vs2008
+- moss2007
+- sharepoint
+- sp2007
+- ssw
+- tfs
+- tfs2008
+- tools
+- upgrade
+- visual-studio
+- vs2005
+- vs2008
 preview: metro-visual-studio-2005-128-link-10-10.png
----
 
+---
 I have been trying since SP1 was released to get it installed at Aggreko, but due to our global, three time zones, development team and release schedules it has been very difficult to get some time set aside for it.
 
 Now that I am leaving, last day is Tuesday 17th November, there was more of an apatite to take the hit on time and get it installed.

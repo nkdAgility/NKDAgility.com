@@ -1,6 +1,6 @@
 ---
 title: The future of software development
-description: "Explore the future of software development with insights on software factories and web services to enhance efficiency and client satisfaction. Read more!"
+description: Explore the future of software development with insights on software factories and web services to enhance efficiency and client satisfaction. Read more!
 date: 2007-07-14
 creator: Martin Hinshelwood
 id: "371"
@@ -8,12 +8,13 @@ layout: blog
 resourceTypes: blog
 slug: the-future-of-software-development
 aliases:
-  - /blog/the-future-of-software-development
+- /blog/the-future-of-software-development
+- /the-future-of-software-development
 tags:
-  - service-oriented-architecture
+- service-oriented-architecture
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 I have been thinking a lot recently about the future of software development and where I see it going. I have worked for seven companies since leaving university (two design studios, two software studios, one community startup, one Internet bank and one investment bank), and my conclusion is that all of the SSADM (Structured Systems Analysis and Design Methodologies), or Development Lifecycle, that I learned in university does not work in the real world. Yes, if you can charge your customers two million for an intranet that you will deliver over two years you can do what you like, but these days your customers business moves too quickly for this to work. A solution that was started last year, or the year before in my current company, is obsolete and has to be binned and started again. Or if the business has had its fingers in your specification from the get-go and if they have no idea what "signed-off" means you will get only one result; you will never finish and what you do finish will not meet the business need (80% syndrome).
 
 With all of this in mind we need to concentrate on Software Factories and web services that will allow us to reduce the time to market and increase the happiness of our clients. To do this you need two distinct teams and an interface between them.

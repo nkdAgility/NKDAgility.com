@@ -1,6 +1,6 @@
 ---
 title: Do you need an expert in Visual Studio ALM, TFS, or Scrum?
-description: "Looking for an expert in Visual Studio ALM, TFS, or Scrum? Martin Hinshelwood is available for consulting and training in February. Connect now!"
+description: Looking for an expert in Visual Studio ALM, TFS, or Scrum? Martin Hinshelwood is available for consulting and training in February. Connect now!
 date: 2015-01-21
 creator: Martin Hinshelwood
 id: "11120"
@@ -8,18 +8,21 @@ layout: blog
 resourceTypes: blog
 slug: need-expert-visual-studio-alm-tfs-scrum
 aliases:
-  - /blog/need-expert-visual-studio-alm-tfs-scrum
+- /blog/need-expert-visual-studio-alm-tfs-scrum
+- /need-expert-visual-studio-alm-tfs-scrum
+- /do-you-need-an-expert-in-visual-studio-alm,-tfs,-or-scrum-
+- /blog/do-you-need-an-expert-in-visual-studio-alm,-tfs,-or-scrum-
 tags:
-  - agile
-  - consulting
-  - scrum
-  - tfs
-  - training
+- agile
+- consulting
+- scrum
+- tfs
+- training
 categories:
-  - news-and-reviews
+- news-and-reviews
 preview: nakedalm-logo-260-5-5.png
----
 
+---
 Due to the decimation of the oil prices one of my larger customers has had to cancel our engagement for February. I am suddenly and surprisingly available in February!
 
 I usually have engagements booked out up to 3 months in advance and that makes for some difficult conversations with potential customers that want me onsite within two weeks. I have been trying to limit any one customer to no more than 2 consecutive weeks to mitigate this, but customers can be demanding. I did have an engagement booked in Oslo for February. I was going to be migrating over 20 Team Projects into a single uber Team Project. I was really looking forward to it… then a barrel of oil dropped to below $50…

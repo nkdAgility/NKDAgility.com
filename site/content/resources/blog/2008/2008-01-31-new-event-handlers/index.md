@@ -1,6 +1,6 @@
 ---
 title: New Event Handlers
-description: "Discover new event handlers for TFS that enhance work item tracking. Learn how to implement the Assigned To and Reassigned handlers easily!"
+description: Discover new event handlers for TFS that enhance work item tracking. Learn how to implement the Assigned To and Reassigned handlers easily!
 date: 2008-01-31
 creator: Martin Hinshelwood
 id: "258"
@@ -8,18 +8,19 @@ layout: blog
 resourceTypes: blog
 slug: new-event-handlers
 aliases:
-  - /blog/new-event-handlers
+- /blog/new-event-handlers
+- /new-event-handlers
 tags:
-  - code
-  - infrastructure
-  - tfs-event-handler
-  - tools
-  - wit
+- code
+- infrastructure
+- tfs-event-handler
+- tools
+- wit
 categories:
-  - code-and-complexity
+- code-and-complexity
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 I have added an extra event handler to the [TFS Event Handler (Prototype)](https://www.codeplex.com/Release/ProjectReleases.aspx?ProjectName=TFSEventHandler&ReleaseId=5057), and this makes two.
 
 **Assigned To Handler**

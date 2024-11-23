@@ -1,6 +1,6 @@
 ---
 title: Run a router on Hyper-V
-description: "Learn how to run a router on Hyper-V for seamless VM internet access in corporate and hotel networks. Discover efficient setup tips and solutions!"
+description: Learn how to run a router on Hyper-V for seamless VM internet access in corporate and hotel networks. Discover efficient setup tips and solutions!
 date: 2014-06-25
 creator: Martin Hinshelwood
 id: "10617"
@@ -8,19 +8,22 @@ layout: blog
 resourceTypes: blog
 slug: run-router-hyper-v
 aliases:
-  - /blog/run-router-hyper-v
+- /blog/run-router-hyper-v
+- /run-router-hyper-v
+- /run-a-router-on-hyper-v
+- /blog/run-a-router-on-hyper-v
 tags:
-  - hootoo-tripmate
-  - hyper-v
-  - network
-  - router
+- hootoo-tripmate
+- hyper-v
+- network
+- router
 categories:
-  - install-and-configuration
-  - problems-and-puzzles
-  - tools-and-techniques
+- install-and-configuration
+- problems-and-puzzles
+- tools-and-techniques
 preview: naked-alm-hyper-v-17-17.png
----
 
+---
 I want to run a router on Hyper-V so that I can run many VM's, each with internet access, on corporate and hotel networks. Microsoft touts Routing and Remote Access but there is no way I will go there. First it’s a total pain to setup and run. Second I need to run a whole Windows Server just to have basic DHCP and internet access. Overkill much! There must be a better way.
 
 The problem is that on most networks that I connect to there is some sort of one-MAC-one-IP rule. I am often onsite at companies on their Guest Wi-Fi and in hotel's. I am not sure how it is implemented but if there is a pay-wall or even just a terms and conditions acceptance then I get kicked off the network as soon as I spin up a VM. When that VM requests an IP address the network kicks all of my machines off. Poo…no internet access for me.

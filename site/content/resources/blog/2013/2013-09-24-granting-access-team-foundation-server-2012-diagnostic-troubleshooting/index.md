@@ -1,6 +1,6 @@
 ---
 title: Granting access to Team Foundation Server 2012 for diagnostic troubleshooting
-description: "Learn how to grant access to TFS 2012 for diagnostic troubleshooting without full admin rights. Enhance your efficiency with simple command line solutions!"
+description: Learn how to grant access to TFS 2012 for diagnostic troubleshooting without full admin rights. Enhance your efficiency with simple command line solutions!
 date: 2013-09-24
 creator: Martin Hinshelwood
 id: "10002"
@@ -8,17 +8,20 @@ layout: blog
 resourceTypes: blog
 slug: granting-access-team-foundation-server-2012-diagnostic-troubleshooting
 aliases:
-  - /blog/granting-access-team-foundation-server-2012-diagnostic-troubleshooting
+- /blog/granting-access-team-foundation-server-2012-diagnostic-troubleshooting
+- /granting-access-team-foundation-server-2012-diagnostic-troubleshooting
+- /granting-access-to-team-foundation-server-2012-for-diagnostic-troubleshooting
+- /blog/granting-access-to-team-foundation-server-2012-for-diagnostic-troubleshooting
 tags:
-  - tfs
-  - tfs2012
-  - tfs-2013
+- tfs
+- tfs2012
+- tfs-2013
 categories:
-  - problems-and-puzzles
-  - tools-and-techniques
+- problems-and-puzzles
+- tools-and-techniques
 preview: nakedalm-experts-visual-studio-alm-3-3.png
----
 
+---
 In TFS 2012 the product team added a way to get to the tbl_Command information without needing to connect directly to the SQL Server and having access to the tables. This was an awesome add as being able to diagnose server issues and troubleshoot user reported problems makes us a little more efficient.
 
 ![image](images/image11-1-1.png "image")  

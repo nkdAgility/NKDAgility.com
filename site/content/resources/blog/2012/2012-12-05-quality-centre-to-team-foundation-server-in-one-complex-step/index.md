@@ -1,6 +1,6 @@
 ---
 title: Quality Centre to Team Foundation Server in one complex step
-description: "Discover effective tools for migrating from Quality Centre to Team Foundation Server. Explore options and find the best solution for your ALM needs!"
+description: Discover effective tools for migrating from Quality Centre to Team Foundation Server. Explore options and find the best solution for your ALM needs!
 date: 2012-12-05
 creator: Martin Hinshelwood
 id: "9170"
@@ -8,22 +8,23 @@ layout: blog
 resourceTypes: blog
 slug: quality-centre-to-team-foundation-server-in-one-complex-step
 aliases:
-  - /blog/quality-centre-to-team-foundation-server-in-one-complex-step
+- /blog/quality-centre-to-team-foundation-server-in-one-complex-step
+- /quality-centre-to-team-foundation-server-in-one-complex-step
 tags:
-  - configuration
-  - infrastructure
-  - opshub
-  - qc
-  - scrat
-  - tasktop
-  - tfs
-  - tools
+- configuration
+- infrastructure
+- opshub
+- qc
+- scrat
+- tasktop
+- tfs
+- tools
 categories:
-  - code-and-complexity
-  - tools-and-techniques
+- code-and-complexity
+- tools-and-techniques
 preview: nakedalm-experts-visual-studio-alm-7-7.png
----
 
+---
 We have had a large number of customers over the years that desperately want to move from Quality Centre (now HP ALM) to… well… anything else to be honest. The current leader in the ALM space just happens to be my favourite tool, Team Foundation Server, and so I am continuously on the lookout for tools that can help us migrate from whatever the customer is using to Team Foundation Server.
 
 ![Gartner rates Team Foundation Server as top ALM tool](images/image3-3-3.png "Gartner rates Team Foundation Server as top ALM tool")  

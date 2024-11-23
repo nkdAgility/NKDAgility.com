@@ -1,6 +1,6 @@
 ---
 title: Configure a Build vNext Agent
-description: "Learn how to configure a Build vNext Agent on VSO with this comprehensive guide. Simplify your build process and enhance your development workflow today!"
+description: Learn how to configure a Build vNext Agent on VSO with this comprehensive guide. Simplify your build process and enhance your development workflow today!
 date: 2015-01-14
 creator: Martin Hinshelwood
 id: "11021"
@@ -8,18 +8,21 @@ layout: blog
 resourceTypes: blog
 slug: configure-a-build-vnext-agent-on-vso
 aliases:
-  - /blog/configure-a-build-vnext-agent-on-vso
+- /blog/configure-a-build-vnext-agent-on-vso
+- /configure-a-build-vnext-agent-on-vso
+- /configure-a-build-vnext-agent
+- /blog/configure-a-build-vnext-agent
 tags:
-  - build
-  - tfs
-  - tfs-2015
-  - visual-studio-2015
-  - vsteamservices
+- build
+- tfs
+- tfs-2015
+- visual-studio-2015
+- vsteamservices
 categories:
-  - tools-and-techniques
+- tools-and-techniques
 preview: nakedalm-experts-visual-studio-alm-27-27.png
----
 
+---
 I am going to show how to configure a Build vNext Agent on VSO. Microsoft recently announced the creation of a brand new build system for TFS and VSO at the Connect event last year. This new build system will eventually replace the current one and be much more modular and friendly. Happily I am in the early adopter program and the product team just made an early alpha of the service available for that program and I have been giving it a spin.
 
 #### Download Team Foundation Server 2015 today

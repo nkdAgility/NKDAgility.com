@@ -1,6 +1,6 @@
 ---
 title: You can't stop the signal! But you can ignore it!
-description: "Explore how Agile and Scrum illuminate challenges in teams and organizations, fostering a culture of continuous improvement and responsiveness to critical signals."
+description: Explore how Agile and Scrum illuminate challenges in teams and organizations, fostering a culture of continuous improvement and responsiveness to critical signals.
 date: 2024-04-17
 creator: Martin Hinshelwood
 id: "51389"
@@ -8,12 +8,15 @@ layout: blog
 resourceTypes: blog
 slug: you-cant-stop-the-signal-but-you-can-ignore-it
 aliases:
-  - /blog/you-cant-stop-the-signal-but-you-can-ignore-it
+- /blog/you-cant-stop-the-signal-but-you-can-ignore-it
+- /you-cant-stop-the-signal-but-you-can-ignore-it
+- /you-can't-stop-the-signal--but-you-can-ignore-it-
+- /blog/you-can't-stop-the-signal--but-you-can-ignore-it-
 categories:
-  - agility
+- agility
 preview: NKDAgility-technically-YouCantStopTheSignal-1-1.jpg
----
 
+---
 In organizational development and team dynamics, Agile (as the Agile Manifesto delineates) and Scrum (as the Scrum Guide outlines) guide teams not by solving their problems but by illuminating the issues that demand attention. These frameworks aim to identify and spotlight the challenges within a team or organization's processes, effectively saying, "This is wrong, go fix it!" when a team struggles to produce a working product due to various obstacles. These are clear signals!
 
 Yet, teams often overlook these clear signals. This raises the question: Why does such a disconnect exist between receiving these critical signals and acting on them? What barriers within teams and organizations prevent them from hearing and responding to these alerts?

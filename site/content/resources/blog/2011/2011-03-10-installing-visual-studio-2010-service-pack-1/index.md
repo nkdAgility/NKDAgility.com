@@ -1,6 +1,6 @@
 ---
 title: Installing Visual Studio 2010 Service Pack 1
-description: "Learn how to install Visual Studio 2010 Service Pack 1 smoothly with tips and insights from Martin Hinshelwood. Enhance your development experience today!"
+description: Learn how to install Visual Studio 2010 Service Pack 1 smoothly with tips and insights from Martin Hinshelwood. Enhance your development experience today!
 date: 2011-03-10
 creator: Martin Hinshelwood
 id: "9893"
@@ -8,15 +8,16 @@ layout: blog
 resourceTypes: blog
 slug: installing-visual-studio-2010-service-pack-1
 aliases:
-  - /blog/installing-visual-studio-2010-service-pack-1
+- /blog/installing-visual-studio-2010-service-pack-1
+- /installing-visual-studio-2010-service-pack-1
 tags:
-  - nwcadence
-  - tools
-  - visual-studio
-  - vs2010
+- nwcadence
+- tools
+- visual-studio
+- vs2010
 preview: metro-visual-studio-2010-128-link-13-13.png
----
 
+---
 [![vs2010logo_thumb[1]](images/Installing-Visual-Studio-2010-Service-Pa_77C9-vs2010logo_thumb1_thumb-11-11.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-2010-Service-Pa_77C9-vs2010logo_thumb1_2.png)As has become customary when the product team releases a new patch, SP or version I like to document the install. This post seams almost redundant as I had no problems, but I think that is as valuable to other thinking of installing the Service Pack as all the problems that we sometimes get.
 { .post-img }
 

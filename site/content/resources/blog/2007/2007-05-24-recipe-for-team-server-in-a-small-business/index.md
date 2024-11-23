@@ -1,6 +1,6 @@
 ---
 title: Recipe for Team Server in a small business
-description: "Discover cost-effective solutions for implementing Team Server in small businesses. Learn how to manage projects efficiently without breaking the bank!"
+description: Discover cost-effective solutions for implementing Team Server in small businesses. Learn how to manage projects efficiently without breaking the bank!
 date: 2007-05-24
 creator: Martin Hinshelwood
 id: "399"
@@ -8,13 +8,14 @@ layout: blog
 resourceTypes: blog
 slug: recipe-for-team-server-in-a-small-business
 aliases:
-  - /blog/recipe-for-team-server-in-a-small-business
+- /blog/recipe-for-team-server-in-a-small-business
+- /recipe-for-team-server-in-a-small-business
 tags:
-  - visual-studio
-  - vs2005
+- visual-studio
+- vs2005
 preview: metro-visual-studio-2005-128-link-1-1.png
----
 
+---
 If you have a small company, say 6 to 30 people, you will look at team server and think, cool...But what does it cost.
 
 Well, there are a number of costs, some hidden that you will need to pay. The bad news is that the VS2005 Team Editions are expensive, really expensive.

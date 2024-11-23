@@ -1,6 +1,6 @@
 ---
 title: SharePoint 3.0 TFS Sub-Site creation error.
-description: "Encountering issues with SharePoint 3.0 TFS sub-site creation? Discover solutions and share your experiences in this insightful blog post by Martin Hinshelwood."
+description: Encountering issues with SharePoint 3.0 TFS sub-site creation? Discover solutions and share your experiences in this insightful blog post by Martin Hinshelwood.
 date: 2007-06-07
 creator: Martin Hinshelwood
 id: "388"
@@ -8,16 +8,19 @@ layout: blog
 resourceTypes: blog
 slug: sharepoint-3-0-tfs-sub-site-creation-error
 aliases:
-  - /blog/sharepoint-3-0-tfs-sub-site-creation-error
+- /blog/sharepoint-3-0-tfs-sub-site-creation-error
+- /sharepoint-3-0-tfs-sub-site-creation-error
+- /sharepoint-3-0-tfs-sub-site-creation-error-
+- /blog/sharepoint-3-0-tfs-sub-site-creation-error-
 tags:
-  - sharepoint
-  - sp2007
-  - spf2010
-  - visual-studio
-  - vs2005
+- sharepoint
+- sp2007
+- spf2010
+- visual-studio
+- vs2005
 preview: metro-visual-studio-2005-128-link-1-1.png
----
 
+---
 As you will know from my previous [post](http://blog.hinshelwood.com/archive/2007/05/31/Setting-up-TFS-to-create-project-portals-as-child-sites.aspx "Setting up TFS to create project portals as child sites of an existing SharePoint 3.0 site (or sub site)") I have been trying to get TFS to create sub sites in SharePoint 3.0.
 
 I now have the hotfix specified by [Brian Keller](http://blogs.msdn.com/briankel/archive/2007/04/14/Configuring-Visual-Studio-2005-Team-Foundation-Server-with-Windows-SharePoint-Services-3.0.aspx "Configuring Visual Studio 2005 Team Foundation Server with Windows SharePoint Services 3.0") for my Team Explorer client that allows me to communicate with WSS3.0, but I am still having a problem with my sub site attempts!

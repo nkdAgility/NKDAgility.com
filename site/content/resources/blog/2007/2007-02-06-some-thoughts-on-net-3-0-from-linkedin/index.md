@@ -1,6 +1,6 @@
 ---
 title: Some thoughts on .NET 3.0 from LinkedIn
-description: "Explore insights on adopting .NET 3.0 for new applications, its advantages over existing technologies, and the future of Microsoft’s development tools."
+description: Explore insights on adopting .NET 3.0 for new applications, its advantages over existing technologies, and the future of Microsoft’s development tools.
 date: 2007-02-06
 creator: Martin Hinshelwood
 id: "436"
@@ -8,14 +8,17 @@ layout: blog
 resourceTypes: blog
 slug: some-thoughts-on-net-3-0-from-linkedin
 aliases:
-  - /blog/some-thoughts-on-net-3-0-from-linkedin
+- /blog/some-thoughts-on-net-3-0-from-linkedin
+- /some-thoughts-on-net-3-0-from-linkedin
+- /some-thoughts-on--net-3-0-from-linkedin
+- /blog/some-thoughts-on--net-3-0-from-linkedin
 tags:
-  - wpf
+- wpf
 categories:
-  - code-and-complexity
+- code-and-complexity
 preview: metro-binary-vb-128-link-1-1.png
----
 
+---
 I was asked on LinkedIn:
 
 > "Are you planning to adopt .NET 3.0 in H1 2007?

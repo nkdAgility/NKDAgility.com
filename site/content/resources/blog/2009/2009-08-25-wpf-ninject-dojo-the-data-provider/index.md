@@ -1,6 +1,6 @@
 ---
-title: "Wpf Ninject Dojo: The Data Provider"
-description: "Explore the power of Ninject for WPF dependency injection in MVVM projects. Learn to create a custom DataSourceProvider for seamless data management!"
+title: 'Wpf Ninject Dojo: The Data Provider'
+description: Explore the power of Ninject for WPF dependency injection in MVVM projects. Learn to create a custom DataSourceProvider for seamless data management!
 date: 2009-08-25
 creator: Martin Hinshelwood
 id: "88"
@@ -8,20 +8,23 @@ layout: blog
 resourceTypes: blog
 slug: wpf-ninject-dojo-the-data-provider
 aliases:
-  - /blog/wpf-ninject-dojo-the-data-provider
+- /blog/wpf-ninject-dojo-the-data-provider
+- /wpf-ninject-dojo-the-data-provider
+- /wpf-ninject-dojo--the-data-provider
+- /blog/wpf-ninject-dojo--the-data-provider
 tags:
-  - code
-  - codeproject
-  - mvvm
-  - tools
-  - visual-studio
-  - vs2010
-  - wpf
+- code
+- codeproject
+- mvvm
+- tools
+- visual-studio
+- vs2010
+- wpf
 categories:
-  - code-and-complexity
+- code-and-complexity
 preview: metro-visual-studio-2010-128-link-1-1.png
----
 
+---
 You have probably heard me go on about Unity a couple of times:
 
 - [My.Unity.Resolve(Of Ninja)](http://blog.hinshelwood.com/archive/2009/05/08/my.unity.resolveof-ninja.aspx)

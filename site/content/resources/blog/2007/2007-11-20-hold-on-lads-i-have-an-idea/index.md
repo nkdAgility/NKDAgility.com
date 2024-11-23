@@ -1,6 +1,6 @@
 ---
 title: Hold on lads, I have an idea!
-description: "Explore an innovative idea for managing hierarchical employee data with a user-friendly interface, enhancing organizational efficiency and collaboration."
+description: Explore an innovative idea for managing hierarchical employee data with a user-friendly interface, enhancing organizational efficiency and collaboration.
 date: 2007-11-20
 creator: Martin Hinshelwood
 id: "289"
@@ -8,17 +8,20 @@ layout: blog
 resourceTypes: blog
 slug: hold-on-lads-i-have-an-idea
 aliases:
-  - /blog/hold-on-lads-i-have-an-idea
+- /blog/hold-on-lads-i-have-an-idea
+- /hold-on-lads-i-have-an-idea
+- /hold-on-lads,-i-have-an-idea-
+- /blog/hold-on-lads,-i-have-an-idea-
 tags:
-  - code
-  - infrastructure
-  - tfs-sticky-buddy
-  - tools
+- code
+- infrastructure
+- tfs-sticky-buddy
+- tools
 categories:
-  - code-and-complexity
+- code-and-complexity
 preview: nakedalm-logo-128-link-3-3.png
----
 
+---
 ![lightbulb](images/lightbulb-2-2.gif) Something occured to me after seeing the [Family Show](http://www.vertigo.com/familyshow.aspx) application from [Vertigo](http://www.vertigo.com). If you have not seen this application it is definitely worth a look. What I want to achieve would be to display and allow the edit of company Higherarchical data through a similar interface to the one presented in Family Show.
 { .post-img }
 

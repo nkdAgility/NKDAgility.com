@@ -1,6 +1,6 @@
 ---
 title: How do you incorporate a Design Sprint in Scrum?
-description: "Discover how to effectively integrate Design Sprints into Scrum. Learn key strategies for collaboration and refinement to enhance your product development process."
+description: Discover how to effectively integrate Design Sprints into Scrum. Learn key strategies for collaboration and refinement to enhance your product development process.
 date: 2019-08-16
 creator: Martin Hinshelwood
 id: "39682"
@@ -8,18 +8,21 @@ layout: blog
 resourceTypes: blog
 slug: how-do-you-incorporate-a-design-sprint-in-scrum
 aliases:
-  - /blog/how-do-you-incorporate-a-design-sprint-in-scrum
+- /blog/how-do-you-incorporate-a-design-sprint-in-scrum
+- /how-do-you-incorporate-a-design-sprint-in-scrum
+- /how-do-you-incorporate-a-design-sprint-in-scrum-
+- /blog/how-do-you-incorporate-a-design-sprint-in-scrum-
 tags:
-  - design-sprint
-  - product-discovery
-  - refinement
-  - the-sprint
+- design-sprint
+- product-discovery
+- refinement
+- the-sprint
 categories:
-  - agility
-  - discovery-ideation
+- agility
+- discovery-ideation
 preview: 1130646316-1-1-1.jpg
----
 
+---
 As part of the Scrum.org webinar “Ask a Professional Scrum Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.
 
 > In case you missed it, here is the recording of yesterday's Ask a Professional Scrum Trainer webinar with Martin Hinshelwood! Watch here: [http://ow.ly/ijiM50vwEkD](http://ow.ly/ijiM50vwEkD)

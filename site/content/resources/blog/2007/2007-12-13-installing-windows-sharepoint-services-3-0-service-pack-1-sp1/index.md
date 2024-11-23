@@ -1,6 +1,6 @@
 ---
 title: Installing Windows SharePoint Services 3.0 Service Pack 1 (SP1)
-description: "Learn how to install Windows SharePoint Services 3.0 SP1 with ease. Troubleshoot common issues and enhance your SharePoint experience effectively!"
+description: Learn how to install Windows SharePoint Services 3.0 SP1 with ease. Troubleshoot common issues and enhance your SharePoint experience effectively!
 date: 2007-12-13
 creator: Martin Hinshelwood
 id: "275"
@@ -8,19 +8,22 @@ layout: blog
 resourceTypes: blog
 slug: installing-windows-sharepoint-services-3-0-service-pack-1-sp1
 aliases:
-  - /blog/installing-windows-sharepoint-services-3-0-service-pack-1-sp1
+- /blog/installing-windows-sharepoint-services-3-0-service-pack-1-sp1
+- /installing-windows-sharepoint-services-3-0-service-pack-1-sp1
+- /installing-windows-sharepoint-services-3-0-service-pack-1-(sp1)
+- /blog/installing-windows-sharepoint-services-3-0-service-pack-1-(sp1)
 tags:
-  - configuration
-  - infrastructure
-  - sharepoint
-  - sp2007
-  - tools
+- configuration
+- infrastructure
+- sharepoint
+- sp2007
+- tools
 categories:
-  - code-and-complexity
-  - upgrade-and-maintenance
+- code-and-complexity
+- upgrade-and-maintenance
 preview: metro-sharepoint-128-link-6-6.png
----
 
+---
 - wssv3sp1-kb936988-x86-fullfile-en-us.exe
 
 [http://www.microsoft.com/downloads/details.aspx?FamilyId=4191A531-A2E9-45E4-B71E-5B0B17108BD2&displaylang=en#filelist](http://www.microsoft.com/downloads/details.aspx?FamilyId=4191A531-A2E9-45E4-B71E-5B0B17108BD2&displaylang=en#filelist "http://www.microsoft.com/downloads/details.aspx?FamilyId=4191A531-A2E9-45E4-B71E-5B0B17108BD2&displaylang=en#filelist")
