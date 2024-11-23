@@ -9,6 +9,7 @@ resourceTypes: blog
 slug: the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
 aliases:
   - /blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
+  - /blog/why-most-scrum-masters-are-failing-and-what-they-should-know/
 tags:
   - Scrum Masters
 categories:

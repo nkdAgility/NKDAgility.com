@@ -9,6 +9,7 @@ resourceTypes: blog
 slug: automated-testing-in-a-modern-application-lifecycle
 aliases:
   - /blog/automated-testing-in-a-modern-application-lifecycle
+  - /automated-testing-in-a-modern-application-lifecycle/
 tags:
   - agile
   - automated-testing

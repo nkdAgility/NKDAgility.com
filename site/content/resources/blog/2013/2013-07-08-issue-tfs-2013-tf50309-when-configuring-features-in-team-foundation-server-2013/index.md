@@ -9,6 +9,7 @@ resourceTypes: blog
 slug: issue-tfs-2013-tf50309-when-configuring-features-in-team-foundation-server-2013
 aliases:
   - /blog/issue-tfs-2013-tf50309-when-configuring-features-in-team-foundation-server-2013
+  - /issue-tfs-2013-tf50309-when-configuring-features-in-team-foundation-server-2013/
 tags:
   - configuration
   - manage-process-template

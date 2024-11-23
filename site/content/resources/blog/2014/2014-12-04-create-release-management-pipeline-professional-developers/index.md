@@ -9,6 +9,7 @@ resourceTypes: blog
 slug: create-release-management-pipeline-professional-developers
 aliases:
   - /blog/create-release-management-pipeline-professional-developers
+  - /create-release-management-pipeline-professional-developers
 tags:
   - development-team
   - devops
