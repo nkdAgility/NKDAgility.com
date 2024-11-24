@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/MDpthtdJgNk
 - /resources/why-is-kanban-becoming-popular-with-creative-industries-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Kanban
 - Kanban method

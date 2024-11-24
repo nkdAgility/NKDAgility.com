@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/dT1_zHfzto0
 - /resources/75-of-those-organizations-using-scrum-will-not-succeed-in-getting-the-benefit-ken-schwaber
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Sprint Backlog
 - Product Backlog

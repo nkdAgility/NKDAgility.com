@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/P2UnYGAqJMI
 - /resources/-shorts-5-kinds-of-agile-bandits-4th-kind
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Scrum

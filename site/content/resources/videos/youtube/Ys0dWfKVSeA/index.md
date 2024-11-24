@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/Ys0dWfKVSeA
 - "/resources/scrum-the-mirror-to-organizational-challenges-\U0001FA9E"
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Scrum

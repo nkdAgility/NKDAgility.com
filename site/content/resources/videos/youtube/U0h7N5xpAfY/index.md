@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/U0h7N5xpAfY
 - /resources/why-is-training-such-a-critical-element-in-a-scrum-master's-journey
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Scrum

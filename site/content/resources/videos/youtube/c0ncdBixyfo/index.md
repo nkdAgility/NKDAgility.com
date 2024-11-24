@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/c0ncdBixyfo
 - /resources/what-is-the-one-thing-that-no-agile-team-can-survive-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - '#scrum'
 - '#agile'

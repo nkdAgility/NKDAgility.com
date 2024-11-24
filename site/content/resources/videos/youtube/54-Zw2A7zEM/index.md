@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/54-Zw2A7zEM
 - /resources/scrum-master-versus-seasoned-agile-coach-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Scrum Master
 - ScrumMaster

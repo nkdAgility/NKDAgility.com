@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/hij5_aP_YN4
 - /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-4
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Scrum

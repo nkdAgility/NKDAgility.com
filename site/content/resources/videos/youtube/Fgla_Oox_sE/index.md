@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/Fgla_Oox_sE
 - /resources/5-things-you-would-teach-a-productowner-apprentice-part-3
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Scrum

@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/2_CowcUpzAA
 - /resources/why-is-training-such-a-critical-element-in-a-product-owner-journey
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Scrum

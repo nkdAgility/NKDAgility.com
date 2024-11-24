@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/pet-peeve-in-devops
 - /resources/videos/TNnpe02_RiU
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - DevOps
 - DevOps consulting

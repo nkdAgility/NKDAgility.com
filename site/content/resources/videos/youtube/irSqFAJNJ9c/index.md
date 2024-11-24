@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/irSqFAJNJ9c
 - /resources/what-does-a-poor-scrum-team-look,-act-and-feel-like-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Scrum
 - Scrum Team

@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/isU2kPc5HFw
 - /resources/talk-us-through-your-experience-with-azure-devops
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Azure DevOps
 - DevOps

@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/y0dg0Sqs4xw
 - /resources/what-is-a-common-mistake-made-by-rookie-agile-consultants-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Agile Consultant

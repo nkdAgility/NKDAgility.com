@@ -20,8 +20,8 @@ tags:
 - Agile Transformation
 - Agile Adoption
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---

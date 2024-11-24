@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/3NtGxZfuBnU
 - /resources/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner's-hype-cycle
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Agile Consulting

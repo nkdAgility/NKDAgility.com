@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/FJjiCodxyK4
 - /resources/why-do-you-prefer-agile-consulting-over-agile-coaching-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Agile Consulting

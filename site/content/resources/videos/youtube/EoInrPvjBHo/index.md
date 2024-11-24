@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/EoInrPvjBHo
 - /resources/5-kinds-of-agile-bandits-product-owner-bandits
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Scrum

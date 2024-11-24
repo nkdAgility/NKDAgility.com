@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/G1BQG2tsbYg
 - /resources/outcome-increased-business-predictability
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Software engineering

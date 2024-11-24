@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/6D6QTjSrJ14
 - /resources/what-has-the-initial-response-been-to-the-immersive-learning-experiences-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Immersive Learning
 - Scrum.Org

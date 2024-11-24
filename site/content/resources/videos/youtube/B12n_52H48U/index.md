@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/B12n_52H48U
 - /resources/raise,-ante-up,-or-fold-the-ultimate-decision-in-business
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Agile project management

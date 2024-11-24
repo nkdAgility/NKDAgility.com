@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/KAqCTOIB4hk
 - /resources/how-does-the-incremental-learning-and-outcome-based-assignments-specifically-help-teams-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Scrum

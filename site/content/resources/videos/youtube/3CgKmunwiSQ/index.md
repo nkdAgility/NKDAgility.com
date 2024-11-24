@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/3CgKmunwiSQ
 - /resources/traditional-management-vs-evidence-based-management
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - EBM
 - Evidence Based Management

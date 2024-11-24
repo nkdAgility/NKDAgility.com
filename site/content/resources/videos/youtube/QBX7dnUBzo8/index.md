@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/QBX7dnUBzo8
 - /resources/agile-techniques-that-boost-startups!
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Scrum

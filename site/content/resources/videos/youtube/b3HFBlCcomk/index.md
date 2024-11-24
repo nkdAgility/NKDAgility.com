@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/b3HFBlCcomk
 - /resources/debunking-the-myth-agile-is-not-about-speed
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - velocity

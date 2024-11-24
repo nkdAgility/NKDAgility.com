@@ -21,8 +21,8 @@ tags:
 - UX
 - Product Development
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---

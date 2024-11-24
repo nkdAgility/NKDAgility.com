@@ -17,8 +17,8 @@ aliases:
 - /resources/videos/QI3oE9IUc6E
 - /resources/how-effectively-does-an-aps-prepare-a-team-to-do-solid,-professional-scrum
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - APS
 - Applying Professional Scrum

@@ -21,8 +21,8 @@ tags:
 - Team Foundation Server
 - Visual Studio Team System
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---

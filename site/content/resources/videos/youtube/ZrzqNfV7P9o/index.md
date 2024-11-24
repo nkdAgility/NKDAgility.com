@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/ZrzqNfV7P9o
 - /resources/why-does-minecraft-make-the-aps-course-so-awesome-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - APS
 - Applying Professional Scrum

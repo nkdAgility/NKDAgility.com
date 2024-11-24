@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/tUC5TainG2E
 - /resources/how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Microsoft
 - Agile at Microsoft

@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/Bjz6SwLDIY4
 - /resources/the-art-of-life-lies-in-a-constant-readjustment-to-our-surroundings
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Scrum

@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/how-will-the-immersive-learning-experience-help-coach-people-on-the-job
 - /resources/videos/pU57BrP94-8
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Immersive learning experience
 - Immersive learning scrum course

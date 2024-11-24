@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/3-reasons-why-you-should-level-up-your-knowledge-and-skills
 - /resources/videos/ZXDBoq7JUSw
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Scrum Training
 - Scrum Certification

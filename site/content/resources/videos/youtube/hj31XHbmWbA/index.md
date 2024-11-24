@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/hj31XHbmWbA
 - /resources/quotes-you-can't-connect-the-dots-looking-forward;-you-can-only-connect-them-looking-backwards
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Sprint Backlog
 - Product Backlog

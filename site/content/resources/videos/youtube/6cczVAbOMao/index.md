@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/6cczVAbOMao
 - /resources/how-critical-is-a-product-owner-in-developing-a-great-product-backlog-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Product Backlog
 - Backlog

@@ -19,8 +19,8 @@ tags:
 - Windows Server 2012 R2
 - Windows Server
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---

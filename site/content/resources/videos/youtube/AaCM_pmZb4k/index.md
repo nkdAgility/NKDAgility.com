@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/AaCM_pmZb4k
 - /resources/what-are-hierarchies-of-competence-vs-control-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Agile Leadership

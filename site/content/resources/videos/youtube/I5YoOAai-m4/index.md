@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/agile-coach-versus-professional-coach
 - /resources/videos/I5YoOAai-m4
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags: []
 resourceTypes:
 - video

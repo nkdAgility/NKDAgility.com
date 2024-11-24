@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/GIq3LZUnWx4
 - /resources/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - PSPO
 - Professional Scrum Product Owner

@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/L2u9Qojrvb8
 - /resources/how-do-you-tailor-your-devops-consulting-services-to-meet-the-unique-needs-of-different-organization
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Azure DevOps
 - Azure DevOps migration

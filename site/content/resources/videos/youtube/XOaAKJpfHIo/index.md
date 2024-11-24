@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/XOaAKJpfHIo
 - /resources/how-important-is-devops-in-continuous-delivery-of-value-to-customers-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - DevOps
 - Agile

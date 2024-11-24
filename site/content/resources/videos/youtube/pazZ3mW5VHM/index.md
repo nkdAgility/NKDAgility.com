@@ -17,8 +17,8 @@ aliases:
 - /resources/videos/most-influential-people-in-agile-simon-reindl
 - /resources/videos/pazZ3mW5VHM
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Agile leaders

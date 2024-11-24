@@ -14,8 +14,8 @@ aliases:
 - /resources/videos/quotes-dictatorship-vs-democracy
 - /resources/videos/utI-1HVpeSU
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Sprint Backlog
 - Product Backlog

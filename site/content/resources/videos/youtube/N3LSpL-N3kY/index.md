@@ -14,8 +14,8 @@ aliases:
 - /resources/videos/2-day-pspo-versus-8-week-pspo
 - /resources/videos/N3LSpL-N3kY
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - PSPO
 - Scrum.Org

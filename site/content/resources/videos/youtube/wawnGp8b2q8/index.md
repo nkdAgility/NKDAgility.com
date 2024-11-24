@@ -23,8 +23,8 @@ tags:
 - Professional Agile Leader certification
 - Professional Agile Leader Essentials Immersive learning course
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---

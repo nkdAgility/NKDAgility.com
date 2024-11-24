@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/GmLW6wNcI6k
 - /resources/what-does-the-assessment-phase-of-a-consulting-enagement-look-and-feel-like-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Agile Consulting

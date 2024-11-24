@@ -14,8 +14,8 @@ aliases:
 - /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-1
 - /resources/videos/f1cWND9Wsh0
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Lego
 - Scrum
