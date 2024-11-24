@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/I9avUDYFw-E
 - /resources/why-does-this-matter-why-is-it-critical-that-we-invest-in-competence-now
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags: []
 resourceTypes:
 - video

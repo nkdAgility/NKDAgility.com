@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/YuKD3WWFJNQ
 - /resources/silence!-7-harbingers-agile-apocalypse-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Sprint Backlog
 - Product Backlog

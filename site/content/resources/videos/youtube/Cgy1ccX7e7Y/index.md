@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/Cgy1ccX7e7Y
 - /resources/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Agile Consulting

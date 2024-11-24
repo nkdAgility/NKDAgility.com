@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/lvg9gSLntqY
 - /resources/why-does-project-management-not-work-in-complex-environments-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Project Management
 - Traditional Project Management

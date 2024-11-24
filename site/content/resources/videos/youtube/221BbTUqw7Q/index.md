@@ -17,8 +17,8 @@ aliases:
 - /resources/videos/221BbTUqw7Q
 - /resources/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-course-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - APS
 - Applying Professional Scrum

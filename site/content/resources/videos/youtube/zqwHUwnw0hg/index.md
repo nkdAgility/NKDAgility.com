@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/zqwHUwnw0hg
 - /resources/what-will-you-learn-on-the-professional-scrum-master-course-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Professional Scrum Master
 - PSM

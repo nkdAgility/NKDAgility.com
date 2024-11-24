@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/3XsOseKG57g
 - /resources/what-do-people-love-most-about-the-4-day-training-format-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Scrum
 - Scrum Training

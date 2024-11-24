@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/uCyHR_eU22A
 - /resources/how-do-you-select-the-most-valuable-items-for-the-sprint-backlog-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Sprint Backlog
 - Product Backlog

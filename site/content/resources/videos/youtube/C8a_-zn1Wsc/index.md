@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/C8a_-zn1Wsc
 - /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-1
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Scrum

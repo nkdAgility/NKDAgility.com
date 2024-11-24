@@ -22,8 +22,8 @@ tags:
 - scrum project management
 - agile scrum
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---

@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/8aIUldVDtGw
 - /resources/stop-starting-and-start-finishing!
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Scrum

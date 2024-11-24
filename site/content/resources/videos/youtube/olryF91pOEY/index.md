@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/olryF91pOEY
 - /resources/can-organizations-run-an-applying-professional-scrum-workshop-how-will-that-help-them-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Scrum
 - Professional Scrum

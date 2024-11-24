@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/F0jOj6ql330
 - /resources/most-rewarding-part-of-being-a-scrum-developer-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Developer
 - Scrum developer

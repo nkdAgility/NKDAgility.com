@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/UeisJt8U2_0
 - /resources/plague!-7-harbingers-agile-apocalypse
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Sprint Backlog
 - Product Backlog

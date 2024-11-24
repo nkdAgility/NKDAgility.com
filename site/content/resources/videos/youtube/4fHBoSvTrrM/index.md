@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/4fHBoSvTrrM
 - /resources/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - PSM
 - PSM II

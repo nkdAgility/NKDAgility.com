@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/hXieCawt-XE
 - /resources/work-less,-do-more-with-pull-in-kanban
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Kanban
 - Kanban training

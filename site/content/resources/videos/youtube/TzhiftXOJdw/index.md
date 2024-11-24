@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/what-more-needs-to-happen-before-traditional-organizations-consider-agile
 - /resources/videos/TzhiftXOJdw
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Agile Project Management

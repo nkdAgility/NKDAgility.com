@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/oKZ9bbESCok
 - /resources/5-kinds-of-agile-bandits-say-do-metrics
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Scrum

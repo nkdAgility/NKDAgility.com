@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/8F3SK4sPj3M
 - /resources/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - PSPO-A
 - Advanced Scrum Professional Product Owner

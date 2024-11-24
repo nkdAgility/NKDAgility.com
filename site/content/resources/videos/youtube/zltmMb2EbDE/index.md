@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/zltmMb2EbDE
 - /resources/does-kanban-integrate-with-a-scrum-environment-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Kanban
 - Kanban approach

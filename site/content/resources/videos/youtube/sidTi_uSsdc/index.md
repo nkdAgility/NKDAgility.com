@@ -14,8 +14,8 @@ aliases:
 - /resources/videos/discipline-versus-motivation
 - /resources/videos/sidTi_uSsdc
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - '#scrum'
 - agile

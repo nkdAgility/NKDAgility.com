@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/XhPHa1RXrWo
 - /resources/the-intention-of-agile-and-scrum
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Scrum

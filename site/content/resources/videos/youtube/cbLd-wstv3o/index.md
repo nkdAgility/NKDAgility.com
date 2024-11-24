@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/cbLd-wstv3o
 - /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-3
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Scrum

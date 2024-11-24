@@ -20,8 +20,8 @@ tags:
 - Agile Product Development
 - Scrum Master traits and characteristics
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---

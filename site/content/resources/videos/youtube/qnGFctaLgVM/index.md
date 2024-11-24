@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility
 - /resources/videos/qnGFctaLgVM
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - PST
 - Professional Scrum Trainer

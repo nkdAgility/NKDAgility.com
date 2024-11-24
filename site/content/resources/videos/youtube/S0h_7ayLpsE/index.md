@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/S0h_7ayLpsE
 - /resources/evidence-based-management-gathering-and-analyzing-data
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Evidence-based Management
 - EBM

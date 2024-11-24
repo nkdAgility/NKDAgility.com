@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/Srwxg7Etnr0
 - /resources/how-does-a-scrum-team-decide-on-a-sprint-goal-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Sprint goal
 - Sprint Backlog

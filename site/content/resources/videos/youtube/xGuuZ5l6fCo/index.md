@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/xGuuZ5l6fCo
 - /resources/are-you-truly-empowering-your-teams-to-respond-to-user-feedback-the-agile-reality-check-[5-6]
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Detecting Agile BS
 - Agile product management

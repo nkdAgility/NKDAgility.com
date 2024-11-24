@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/Ye016yOxvcs
 - /resources/5-critical-skill-to-master-as-an-agile-consultant,-part-1
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile consultant
 - Agile

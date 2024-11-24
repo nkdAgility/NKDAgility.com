@@ -22,8 +22,8 @@ tags:
 - Agile problem solving
 - Agile product development
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---

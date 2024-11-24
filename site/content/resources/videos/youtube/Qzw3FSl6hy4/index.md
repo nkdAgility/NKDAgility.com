@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/Qzw3FSl6hy4
 - /resources/what-is-product-discovery-and-how-does-it-differ-from-how-we've-always-developed-products-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Product discovery
 - Product Development

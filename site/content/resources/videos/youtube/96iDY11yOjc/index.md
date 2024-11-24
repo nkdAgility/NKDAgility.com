@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/96iDY11yOjc
 - /resources/what-makes-the-top-10-of-developers-good-agile-developer-to-great-agile-developer
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile Developer
 - Software Developer

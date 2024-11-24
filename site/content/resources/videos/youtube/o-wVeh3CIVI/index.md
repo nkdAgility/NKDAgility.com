@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/o-wVeh3CIVI
 - /resources/what-is-scrum-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Scrum
 - Scrum Framework

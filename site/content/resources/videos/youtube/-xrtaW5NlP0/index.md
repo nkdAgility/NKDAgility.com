@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
 - /resources/videos/-xrtaW5NlP0
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Kanban
 - Kanban workshops

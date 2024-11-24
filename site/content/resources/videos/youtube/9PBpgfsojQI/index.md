@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/9PBpgfsojQI
 - /resources/2023-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Agile Project Management

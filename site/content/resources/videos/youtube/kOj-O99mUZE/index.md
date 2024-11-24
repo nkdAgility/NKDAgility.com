@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/kOj-O99mUZE
 - /resources/overview-of-scaling-with-portfolio-kanban-course-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Kanban
 - Scaling Kanban

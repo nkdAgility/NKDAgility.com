@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/l3NhlbM2gKM
 - /resources/scrum-is-like-communism-it-doesn't-work-myth-2
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Sprint Backlog
 - Product Backlog

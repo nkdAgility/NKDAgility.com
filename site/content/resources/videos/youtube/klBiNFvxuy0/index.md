@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/klBiNFvxuy0
 - /resources/what-is-the-most-common-aha-moment-people-have-in-a-scrum-course-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Scrum
 - Scrum Training

@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/bpBhREVX85o
 - /resources/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Scrum
 - Agile

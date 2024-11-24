@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/YUlpnyN2IeI
 - /resources/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Scrum
 - Scrum Advice

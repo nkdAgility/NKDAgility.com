@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/CPYTApf0Ibs
 - "/resources/secret-to-unlocking-team-potential-and-product-success-\U0001F680-the-agile-reality-check-[2-6]"
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Detecting Agile BS
 - Agile

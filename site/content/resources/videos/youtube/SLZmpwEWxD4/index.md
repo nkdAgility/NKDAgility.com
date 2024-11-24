@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/SLZmpwEWxD4
 - /resources/kanban-visualisation-practices!-stratagies-or-best-practices-for-effectively-visualizing-workflow!
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Kanban
 - Kanban training

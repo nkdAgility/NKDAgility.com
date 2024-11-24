@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/LMmKDlcIvWs
 - /resources/what-is-kanban-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Kanban
 - Kanban method

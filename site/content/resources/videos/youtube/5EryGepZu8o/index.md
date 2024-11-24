@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/5EryGepZu8o
 - /resources/if-you-could-teach-just-one-thing-about-scrum,-what-would-it-be-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Scrum
 - Scrum Training

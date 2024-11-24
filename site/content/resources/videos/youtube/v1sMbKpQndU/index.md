@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/v1sMbKpQndU
 - /resources/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Scrum
 - Scrum Master

@@ -14,8 +14,8 @@ aliases:
 - /resources/videos/3-core-practices-of-kanban-improving-a-workflow
 - /resources/videos/qWHCBUwpOZk
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Kanban
 - Kanban training

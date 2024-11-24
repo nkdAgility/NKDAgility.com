@@ -14,8 +14,8 @@ aliases:
 - /resources/videos/hardest-part-of-adopting-scrum
 - /resources/videos/c6R8wo04LK4
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Scrum
 - Agile

@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey
 - /resources/videos/5s9vi8PiFM4
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Scrum

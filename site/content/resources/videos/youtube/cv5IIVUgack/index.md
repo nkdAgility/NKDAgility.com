@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/cv5IIVUgack
 - /resources/how-hard-is-it-to-transition-from-being-a-developer-to-a-scrum-developer-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Developer
 - Scrum Developer

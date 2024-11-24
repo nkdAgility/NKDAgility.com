@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/RBZFAxEUQC4
 - /resources/lust!-7-deadly-sins-of-agile
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Sprint Backlog
 - Product Backlog

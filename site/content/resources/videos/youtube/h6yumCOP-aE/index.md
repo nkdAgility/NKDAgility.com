@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/h6yumCOP-aE
 - /resources/3-best-ways-to-wreck-your-kanban-adoption-not-having-a-working-agreement-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Working agreements
 - Kanban

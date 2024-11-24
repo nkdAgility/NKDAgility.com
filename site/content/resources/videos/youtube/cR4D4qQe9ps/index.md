@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/cR4D4qQe9ps
 - /resources/-1-tip-for-a-scrum-master
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Scrum
 - Scrum Master

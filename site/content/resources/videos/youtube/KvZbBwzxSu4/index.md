@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/KvZbBwzxSu4
 - /resources/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Product Owner
 - Product Manager

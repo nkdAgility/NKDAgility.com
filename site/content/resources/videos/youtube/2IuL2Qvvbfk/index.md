@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/2IuL2Qvvbfk
 - /resources/biggest-contribution-from-a-product-owner-that-you-know-of-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Product Owner
 - Product Ownership

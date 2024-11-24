@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/O6rYL3EDUxM
 - /resources/6-questions-to-determine-if-your-company-is-really-agile-the-agile-reality-check-[1-6]
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Detecting Agile BS
 - Agile

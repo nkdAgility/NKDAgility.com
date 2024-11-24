@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/ZisAuhrOhcY
 - /resources/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Kanban
 - Kanban approach

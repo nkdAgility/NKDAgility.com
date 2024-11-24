@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/V88FjP9f7_0
 - /resources/quotes-less-is-more-true-or-false-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Sprint Backlog
 - Product Backlog

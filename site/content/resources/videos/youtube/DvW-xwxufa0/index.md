@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/DvW-xwxufa0
 - /resources/can-you-walk-us-through-your-consulting-process-what-methodologies-and-tools-do-you-employ-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Azure DevOps
 - Azure DevOps migration

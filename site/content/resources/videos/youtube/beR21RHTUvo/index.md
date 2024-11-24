@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/beR21RHTUvo
 - /resources/5-ghosts-of-agile-past-story-points
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Scrum
