@@ -1,0 +1,26 @@
+{{- $.Scratch.Add "routes" slice -}}
+{{- range $course := where .Site.RegularPages "Type" "course" -}}
+  {{- $alias := printf "%s*" $course.RelPermalink }}
+  {{- $.Scratch.Add "routes" (dict
+    "route" $course.Permalink
+    "redirect" $alias
+    "statusCode" 301
+    )
+  -}}
+{{- end }}
+{{- range $p := sort site.AllPages "Path" }}
+  {{- range $alias := sort $p.Aliases }}
+    {{- if not (strings.HasSuffix $alias "/") }}
+      {{- $alias = printf "%s/" $alias }}
+    {{- end }}
+    {{- $.Scratch.Add "routes" (dict
+      "route" $p.RelPermalink
+      "redirect" $alias
+      "statusCode" 301
+      )
+    -}}
+  {{- end }}
+{{- end }}
+{{- $routes := dict "routes" ($.Scratch.Get "routes") }}
+{{- $jsonOutput := $routes | jsonify }}
+{{- (resources.FromString "routes.json" $jsonOutput).Publish }}
