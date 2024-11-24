@@ -282,7 +282,7 @@ jobs:
       - name: Merge Configuration Files
         run: |
           # Find all files matching the pattern in a safe way
-          $files = Get-ChildItem -Path "./" -Filter "staticwebapp.*.json" -ErrorAction Stop
+          $files = Get-ChildItem -Path "./**" -recursive -Filter "staticwebapp.*.json" -ErrorAction Stop
 
           if ($files.Count -eq 0) {
               Write-Host "No files matching the pattern 'staticwebapp.*.json' were found."
