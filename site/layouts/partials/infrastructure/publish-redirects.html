@@ -2,7 +2,7 @@
 {{- range $course := where .Site.RegularPages "Type" "course" -}}
   {{- $alias := printf "%s*" $course.RelPermalink }}
   {{- $.Scratch.Add "routes" (dict
-    "route" $course.Permalink
+    "route" $course.RelPermalink
     "redirect" $alias
     "statusCode" 301
     )
