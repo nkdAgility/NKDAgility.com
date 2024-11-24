@@ -1,4 +1,7 @@
 <!doctype html>
+{{ if eq .Sites.Default.Home . }}
+  {{ partialCached "infrastructure/publish-redirects.html" . }}
+{{ end }}
 <html lang="{{- or site.Language.LanguageCode }}" dir="{{- or site.Language.LanguageDirection `ltr` }}">
   <head>
     {{- partial "infrastructure/head.html" . }}
