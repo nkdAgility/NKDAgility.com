@@ -158,6 +158,31 @@ jobs:
           "@
           echo $markdown >> $Env:GITHUB_STEP_SUMMARY
 
+  # Spellcheck
+  Spellcheck:
+    name: "Spellcheck Site"
+    runs-on: ubuntu-latest
+    if: ${{ success() }}
+    needs: [Setup]
+    env:
+      GitVersion_SemVer: ${{ needs.Setup.outputs.GitVersion_SemVer }}
+      GitVersion_AssemblySemVer: ${{ needs.Setup.outputs.GitVersion_AssemblySemVer }}
+      GitVersion_InformationalVersion: ${{ needs.Setup.outputs.GitVersion_InformationalVersion }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true # Fetch Hugo themes (true OR recursive)
+      - uses: igsekor/pyspelling-any@v1.0.4
+        id: spellcheck
+        name: Spellcheck
+        with:
+          args: --report report.json
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: spellcheck
+          path: ./report.json
+
   # Build Docs
   BuildSite:
     name: "Build Site"
@@ -184,11 +209,7 @@ jobs:
           GitVersion.SemVer: ${{ needs.Setup.outputs.GitVersion_SemVer }}
           nkdAgility_AzureSitesConfig: ${{ needs.Setup.outputs.nkdAgility_AzureSitesConfig }}
           PR_Number: ${{ github.event.number }}
-      - uses: igsekor/pyspelling-any@v1.0.4
-        id: spellcheck
-        name: Spellcheck
-        with:
-          args: --report report.json
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
@@ -262,7 +283,7 @@ jobs:
   Publsh:
     name: "Publish Site"
     runs-on: ubuntu-latest
-    needs: [Setup, BuildSite, BuildApi]
+    needs: [Setup, BuildSite, BuildApi, Spellcheck]
     if: ${{ success() }}
     steps:
       - uses: actions/checkout@v4
@@ -295,9 +316,9 @@ jobs:
           }
 
           # Paths to main and environment-specific config files
-          $rootConfig = "./staticwebapp.config.json"
-          $environmentConfig = "./staticwebapp.config.${{ (needs.Setup.outputs.nkdAgility_AzureSitesConfig) }}.json"
-          $routesConfig = "./_site/staticwebapp.routes.json"
+          $rootConfig = "./_site/staticwebapp.config.json"
+          $environmentConfig = "./_site/staticwebapp.config.${{ (needs.Setup.outputs.nkdAgility_AzureSitesConfig) }}.json"
+          $routesConfig = "./_site/staticwebapp.config.routes.json"
 
           # Check if both target files exist
           if ((Test-Path -Path $rootConfig -ErrorAction Stop) -and (Test-Path -Path $environmentConfig -ErrorAction Stop)) {
