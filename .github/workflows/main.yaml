@@ -297,7 +297,7 @@ jobs:
           # Paths to main and environment-specific config files
           $rootConfig = "./staticwebapp.config.json"
           $environmentConfig = "./staticwebapp.config.${{ (needs.Setup.outputs.nkdAgility_AzureSitesConfig) }}.json"
-          $routesConfig = "./staticwebapp.routes.json"
+          $routesConfig = "./_site/staticwebapp.routes.json"
 
           # Check if both target files exist
           if ((Test-Path -Path $rootConfig -ErrorAction Stop) -and (Test-Path -Path $environmentConfig -ErrorAction Stop)) {
