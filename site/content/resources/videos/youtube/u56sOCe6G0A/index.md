@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/u56sOCe6G0A
 - /resources/3-core-practices-of-kanban-actively-managing-items-in-a-workflow-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Kanban
 - Kanban training

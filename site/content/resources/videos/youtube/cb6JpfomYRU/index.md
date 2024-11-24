@@ -24,8 +24,8 @@ tags:
 - Immersive Professional Scrum Master course
 - Immersive Professional Scrum Master Certification
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---

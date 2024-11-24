@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/JTYCRehkN5U
 - /resources/the-critical-role-of-technical-excellence-in-agile-software-development
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Technical excellence
 - Agile

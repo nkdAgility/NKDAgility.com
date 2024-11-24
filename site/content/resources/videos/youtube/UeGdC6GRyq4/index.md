@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/UeGdC6GRyq4
 - /resources/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Scrum Training
 - Scrum.Org training

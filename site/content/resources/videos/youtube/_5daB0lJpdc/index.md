@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/5-ghosts-of-agile-past-certification
 - /resources/5-ghosts-of-agile-past-certification
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Scrum

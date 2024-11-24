@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/7VBtGTlkAdM
 - /blog//1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction/
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Agile coaching

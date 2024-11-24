@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/TZKvdhDPMjg
 - /resources/one-thing-a-client-can-do-ensure-a-successful-agile-engagement-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Agile Coach

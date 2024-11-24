@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/LpiLOBG7WgI
 - /resources/what-should-you-do-if-your-sprint-review-delivers-harsh,-scathing-feedback
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Sprint review
 - Sprint

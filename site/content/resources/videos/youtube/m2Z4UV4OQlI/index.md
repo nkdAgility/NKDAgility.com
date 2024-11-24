@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/m2Z4UV4OQlI
 - /resources/why-do-you-recommend-the-pal-ebm-course-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Evidence-based Management
 - Agile

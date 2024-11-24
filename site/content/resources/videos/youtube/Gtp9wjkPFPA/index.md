@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/Gtp9wjkPFPA
 - /resources/how-do-devops-and-agile-integrate-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - DevOps
 - Agile

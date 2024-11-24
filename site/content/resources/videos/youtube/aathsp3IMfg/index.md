@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/aathsp3IMfg
 - /resources/what-does-your-dream-agile-consulting-week-look-like-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Agile Consulting

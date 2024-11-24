@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/_Eer3X3Z_LE
 - /resources/what-is-a-product-backlog-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Product Backlog
 - Backlog

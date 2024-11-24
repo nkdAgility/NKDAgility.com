@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/a2sXBMPHl2Y
 - /resources/how-can-companies-derive-greater-benefit-from-training-by-investing-in-a-private-training-course-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Scrum Training
 - Scrum Courses

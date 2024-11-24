@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/HcoTwjPnLC0
 - /resources/is-a-product-owner-an-agile-project-manager-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Product Owner
 - Product Ownership

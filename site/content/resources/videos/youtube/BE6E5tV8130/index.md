@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/BE6E5tV8130
 - /resources/how-is-agile-product-development-different-to-waterfall-project-management-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Project Management

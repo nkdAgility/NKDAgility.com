@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/pyk0CfSobzM
 - /resources/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Work estimations
 - Estimation in scrum

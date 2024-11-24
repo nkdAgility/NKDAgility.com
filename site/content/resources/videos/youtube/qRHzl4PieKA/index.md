@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/qRHzl4PieKA
 - /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-4
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Product Management

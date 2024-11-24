@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/El__Y7CTcrY
 - /resources/5-reasons-why-i-love-the-immersive-learning-experience-for-students-part-1
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Scrum

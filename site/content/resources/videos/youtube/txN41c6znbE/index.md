@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/txN41c6znbE
 - /resources/the-difference-between-a-rock-solid,-deeply-competent-scrum-master-and-a-jira-jockey
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Scrum

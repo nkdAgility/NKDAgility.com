@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-few-years-experience
 - /resources/videos/VjPslpF3fTc
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags: []
 resourceTypes:
 - video

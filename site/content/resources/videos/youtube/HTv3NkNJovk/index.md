@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/HTv3NkNJovk
 - /resources/why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Agile Leadership

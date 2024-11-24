@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/HrJMsZZQl_g
 - /resources/when-is-an-aps-course-appropriate-for-a-scrum-team-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Sprint Backlog
 - Product Backlog

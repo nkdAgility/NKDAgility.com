@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/nMkit8zBxG0
 - /resources/what-is-sprint-planning-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Sprint Planning
 - Sprint

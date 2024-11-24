@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/DWOh_hRJ1uo
 - /resources/what-is-your-best-advice-for-becoming-a-scrum-master-outside-of-software-engineering-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Scrum
 - Scrum Master

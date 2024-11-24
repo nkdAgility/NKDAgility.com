@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/JqVrh-g-0f8
 - /resources/what-does-a-poor-product-backlog-look-like-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Scrum
 - Product Backlog

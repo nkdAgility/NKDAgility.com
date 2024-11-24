@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/XZVixdVy-PQ
 - /resources/agile-is-not-about-rituals-it's-about-developing-software-in-a-different-way-ken-schwaber
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Scrum

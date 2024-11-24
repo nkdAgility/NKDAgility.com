@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/S7Xr1-qONmM
 - /resources/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Scrum
 - UX

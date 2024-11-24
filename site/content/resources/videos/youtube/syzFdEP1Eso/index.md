@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/syzFdEP1Eso
 - /resources/how-do-you-define-a-definition-of-done-if-you-aren't-100-sure-what-the-solution-is-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Scrum

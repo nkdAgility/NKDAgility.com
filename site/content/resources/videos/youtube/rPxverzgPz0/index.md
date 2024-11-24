@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/rPxverzgPz0
 - /resources/would-you-recommend-the-aps-course-to-a-newbie-scrum-team-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - APS
 - Applying Professional Scrum

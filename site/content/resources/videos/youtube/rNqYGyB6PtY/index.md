@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/rNqYGyB6PtY
 - /resources/what-does-a-product-owner-do-if-the-team-are-incompetent-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Scrum

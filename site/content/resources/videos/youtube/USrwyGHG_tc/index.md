@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/USrwyGHG_tc
 - /resources/is-a-scrum-master-an-agile-micro-manager-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Scrum

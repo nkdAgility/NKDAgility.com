@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/4mkwTMMtKls
 - /resources/envy!-one-of-the-7-deadly-sins-of-agile
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Agile transformation

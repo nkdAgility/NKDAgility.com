@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/AY35ys1uQOY
 - /resources/how-do-you-know-if-you've-got-a-great-sprint-goal-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Sprint Goal
 - Scrum Goal

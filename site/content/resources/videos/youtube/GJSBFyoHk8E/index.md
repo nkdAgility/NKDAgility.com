@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/GJSBFyoHk8E
 - /resources/how-does-a-scrum-team-create-a-sprint-goal-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Sprint Goal
 - Creating A sprint goal

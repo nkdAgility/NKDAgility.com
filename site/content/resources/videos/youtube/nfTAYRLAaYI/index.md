@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/nfTAYRLAaYI
 - /resources/kanban-principles
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Kanban
 - Kanban training

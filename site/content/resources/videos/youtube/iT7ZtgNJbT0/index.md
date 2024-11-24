@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/iT7ZtgNJbT0
 - /resources/what-was-your-best-day-as-an-agile-consultant-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Agile Consultant

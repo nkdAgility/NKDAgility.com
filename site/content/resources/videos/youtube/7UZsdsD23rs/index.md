@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/what-is-empiricism-and-why-is-it-so-critical-to-great-agile
 - /resources/videos/7UZsdsD23rs
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Empiricism
 - Empirical Process Control

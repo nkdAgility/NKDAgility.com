@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/CawY8x3kGVk
 - /resources/scrum-is-like-communism-it-doesn't-work-myth-3-micromanagement,-developer-autonomy,-and-more!
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Sprint Backlog
 - Product Backlog

@@ -14,8 +14,8 @@ aliases:
 - /resources/videos/30-discount-for-existing-alumni-overview
 - /resources/videos/ypVIcgSEvMc
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Scrum Training
 - Scrum Certification

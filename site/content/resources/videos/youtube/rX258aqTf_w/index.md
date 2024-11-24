@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/rX258aqTf_w
 - /resources/in-what-circumstances-is-agile-consulting-appropriate-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Agile Consulting

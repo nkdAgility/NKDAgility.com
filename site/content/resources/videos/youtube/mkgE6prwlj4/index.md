@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/mkgE6prwlj4
 - /resources/best-application-of-scrum-in-the-world-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Scrum
 - Scrum framework

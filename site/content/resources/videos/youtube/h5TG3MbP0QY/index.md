@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/h5TG3MbP0QY
 - /resources/most-common-thing-you-hear-in-a-psm-1-course-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Scrum
 - PSM

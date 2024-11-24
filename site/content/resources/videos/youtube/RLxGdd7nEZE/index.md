@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/RLxGdd7nEZE
 - /resources/what-is-the-single-most-valuable-outcome-a-consulting-engagement-can-produce-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile Consulting
 - Agile Consultant

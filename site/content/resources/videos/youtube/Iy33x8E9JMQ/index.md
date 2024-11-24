@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/dogma-versus-empiricism-in-a-consulting-engagement
 - /resources/videos/Iy33x8E9JMQ
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Agile coaching

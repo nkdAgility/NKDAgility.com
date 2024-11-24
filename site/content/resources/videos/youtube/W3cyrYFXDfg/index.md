@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/W3cyrYFXDfg
 - /resources/why-is-training-such-a-critical-element-in-a-manager-or-leader's-journey
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags: []
 resourceTypes:
 - video

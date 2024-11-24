@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/EMJyUOy2gP4
 - /resources/what-are-the-financial-implications-for-organizations-that-employ-under-skilled-scrum-masters
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Scrum

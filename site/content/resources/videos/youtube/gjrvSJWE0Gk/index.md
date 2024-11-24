@@ -14,8 +14,8 @@ aliases:
 - /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course
 - /resources/videos/gjrvSJWE0Gk
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Kanban
 - Kanban course

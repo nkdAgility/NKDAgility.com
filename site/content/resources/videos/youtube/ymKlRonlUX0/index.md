@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/ymKlRonlUX0
 - /resources/5-ghosts-of-agile-past-burndown-charts
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Scrum

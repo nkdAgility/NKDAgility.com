@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/pVPzgsemxEY
 - /resources/kaizen-in-kanban-the-power-of-continuous-improvement-for-optimal-results
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Kanban
 - Kanban training

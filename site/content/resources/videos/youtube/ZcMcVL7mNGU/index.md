@@ -23,8 +23,8 @@ tags:
 - Product Developers
 - Project managers
 sitemap:
-  filename: sitemap.xml
   priority: 0.4
+  filename: sitemap.xml
 source: youtube
 
 ---

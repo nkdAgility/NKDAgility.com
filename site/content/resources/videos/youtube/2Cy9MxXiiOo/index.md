@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/2Cy9MxXiiOo
 - /resources/what-is-a-sprint-goal-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Sprint Goal
 - Goal

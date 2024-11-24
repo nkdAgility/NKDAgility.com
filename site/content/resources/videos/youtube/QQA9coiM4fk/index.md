@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/QQA9coiM4fk
 - /resources/devops-consulting-overview-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - DevOps consulting
 - Agile Consulting

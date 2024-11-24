@@ -17,8 +17,8 @@ aliases:
 - /resources/videos/WTd-8mOlFfQ
 - /resources/common-mistakes-that-scrum-masters-make-part-2-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile
 - Scrum

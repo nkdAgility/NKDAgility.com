@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/XdzGxK1Yzyc
 - /resources/why-have-a-product-owner-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Product Owner
 - Product Manager

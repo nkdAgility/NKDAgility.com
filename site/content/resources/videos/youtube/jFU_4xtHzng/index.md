@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/jFU_4xtHzng
 - /resources/why-do-you-think-that-4-half-days-is-a-better-format-than-2-full-days-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Scrum
 - Scrum.Org

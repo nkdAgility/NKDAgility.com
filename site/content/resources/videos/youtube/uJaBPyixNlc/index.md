@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/uJaBPyixNlc
 - /resources/how-does-naked-agility-select-scrum-trainers-
 sitemap:
-  filename: sitemap.xml
   priority: 0.6
+  filename: sitemap.xml
 tags:
 - Agile Training
 - Scrum Training
