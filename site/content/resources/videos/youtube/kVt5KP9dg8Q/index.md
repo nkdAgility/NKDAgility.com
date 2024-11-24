@@ -3,6 +3,7 @@ title: 'Detecting Agile BS: Lessons from the Department of Defense'
 description: "Is your development ecosystem truly Agile? Discover insights from the DoD and learn to eliminate bottlenecks for seamless, innovative delivery! \U0001F680"
 date: 2024-11-09
 videoId: kVt5KP9dg8Q
+source: internal
 url: /resources/videos/:slug
 slug: detecting-agile-bs-lessons-from-the-department-of-defense
 preview: https://i.ytimg.com/vi/kVt5KP9dg8Q/maxresdefault.jpg
@@ -12,6 +13,7 @@ aliases:
 - /resources/detecting-agile-bs-lessons-from-the-department-of-defense
 - /resources/videos/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-[6-6]
 - /resources/videos/kVt5KP9dg8Q
+- /resources/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-[6-6]
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -119,9 +121,3 @@ Remember, the journey to true agility is ongoing. By regularly evaluating your p
 - Regularly assess your processes using the six-question litmus test to identify areas for improvement.
 
 **Pro Tip:** If you find that your organization isn't fully Agile yet, don't worry. Use it as a chance to reflect, adapt, and continuously improve. After all, that's what agility is all about! 🚀
-
-
-
-
-
-

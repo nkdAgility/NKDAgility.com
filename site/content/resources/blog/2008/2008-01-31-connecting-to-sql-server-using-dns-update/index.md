@@ -1,6 +1,6 @@
 ---
 title: Connecting to SQL Server using DNS update
-description: "Learn how to connect to SQL Server using DNS updates and manage SPNs effectively for seamless database access. Enhance your infrastructure setup today!"
+description: Learn how to connect to SQL Server using DNS updates and manage SPNs effectively for seamless database access. Enhance your infrastructure setup today!
 date: 2008-01-31
 creator: Martin Hinshelwood
 id: "255"
@@ -8,17 +8,18 @@ layout: blog
 resourceTypes: blog
 slug: connecting-to-sql-server-using-dns-update
 aliases:
-  - /blog/connecting-to-sql-server-using-dns-update
+- /blog/connecting-to-sql-server-using-dns-update
+- /connecting-to-sql-server-using-dns-update
 tags:
-  - configuration
-  - infrastructure
-  - sp2007
-  - tools
+- configuration
+- infrastructure
+- sp2007
+- tools
 categories:
-  - code-and-complexity
+- code-and-complexity
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 OK, I now have the additional SPN's added to AD that I mentioned in [my post](http://blog.hinshelwood.com/archive/2008/01/31/connecting-to-sql-server-using-dns.aspx "Connecting to SQL Server using DNS") and a listing returns:
 
 > C:>setspn \[servername\]  

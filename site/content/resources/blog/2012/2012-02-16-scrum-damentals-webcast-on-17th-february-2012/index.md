@@ -1,6 +1,6 @@
 ---
 title: Scrum-damentals Webcast on 17th February 2012
-description: "Join the Scrum-damentals Webcast on February 17, 2012, to explore advanced Scrum strategies, challenges, and proven practices for successful implementation."
+description: Join the Scrum-damentals Webcast on February 17, 2012, to explore advanced Scrum strategies, challenges, and proven practices for successful implementation.
 date: 2012-02-16
 creator: Martin Hinshelwood
 id: "4389"
@@ -8,22 +8,23 @@ layout: blog
 resourceTypes: blog
 slug: scrum-damentals-webcast-on-17th-february-2012
 aliases:
-  - /blog/scrum-damentals-webcast-on-17th-february-2012
+- /blog/scrum-damentals-webcast-on-17th-february-2012
+- /scrum-damentals-webcast-on-17th-february-2012
 tags:
-  - agile
-  - develop
-  - events-and-presentations
-  - practices
-  - process
-  - scrum
-  - webcast
-  - webcast-2
+- agile
+- develop
+- events-and-presentations
+- practices
+- process
+- scrum
+- webcast
+- webcast-2
 categories:
-  - events-and-presentations
-  - news-and-reviews
+- events-and-presentations
+- news-and-reviews
 preview: metro-event-128-link-1-1.png
----
 
+---
 We often speak about the basics of scrum and rarely get into the problems and I wanted a session that represented the “next steps” after deciding that this Scrum thing was a good idea. I will, hopefully, be hitting this session at those that already understand Scrum, but are looking for a little implementation knowledge and guidance before they get stuck in.
 
 UPDATE: \[[Register for Scrum-damentals on 17th February 2012](https://www.clicktoattend.com/invitation.aspx?code=158652)\]

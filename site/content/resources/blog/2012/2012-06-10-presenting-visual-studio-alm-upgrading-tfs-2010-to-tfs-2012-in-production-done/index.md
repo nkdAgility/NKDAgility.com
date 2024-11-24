@@ -1,6 +1,6 @@
 ---
 title: Presenting Visual Studio ALM and upgrading TFS 2010 to TFS 2012 in production – Done
-description: "Discover how to successfully upgrade from TFS 2010 to TFS 2012 and unlock the full potential of Visual Studio ALM for your organization. Learn more!"
+description: Discover how to successfully upgrade from TFS 2010 to TFS 2012 and unlock the full potential of Visual Studio ALM for your organization. Learn more!
 date: 2012-06-10
 creator: Martin Hinshelwood
 id: "5432"
@@ -8,26 +8,29 @@ layout: blog
 resourceTypes: blog
 slug: presenting-visual-studio-alm-upgrading-tfs-2010-to-tfs-2012-in-production-done
 aliases:
-  - /blog/presenting-visual-studio-alm-upgrading-tfs-2010-to-tfs-2012-in-production-done
+- /blog/presenting-visual-studio-alm-upgrading-tfs-2010-to-tfs-2012-in-production-done
+- /presenting-visual-studio-alm-upgrading-tfs-2010-to-tfs-2012-in-production-done
+- /presenting-visual-studio-alm-and-upgrading-tfs-2010-to-tfs-2012-in-production-–-done
+- /blog/presenting-visual-studio-alm-and-upgrading-tfs-2010-to-tfs-2012-in-production-–-done
 tags:
-  - configuration
-  - infrastructure
-  - modern-alm
-  - practices
-  - process
-  - tfs
-  - tfs2010
-  - tfs2012
-  - tools
-  - visual-studio
-  - vs2010
-  - vs2012
+- configuration
+- infrastructure
+- modern-alm
+- practices
+- process
+- tfs
+- tfs2010
+- tfs2012
+- tools
+- visual-studio
+- vs2010
+- vs2012
 categories:
-  - tools-and-techniques
-  - upgrade-and-maintenance
+- tools-and-techniques
+- upgrade-and-maintenance
 preview: nakedalm-experts-visual-studio-alm-8-8.png
----
 
+---
 I was actually a little surprised by one of my customers this week. I was there to help them finalise their deployment of TFS 2010 (that they were currently using only for Source Control) and to present the features to them and ended up upgrading them to TFS 2012 as well!
 
 The first thing that they wanted was a management level presentation of the capabilities of TFS and how everything goes together. I have both a 2010 and a 2012 soup-to-nuts presentation so I though I would hybridise. With the Visual Studio 2012 Release Candidate being so recently launched and combining that with the knowledge that Windows 8 needs to be in stores for Christmas and the full production “Go-Live” licencing provided by Microsoft it is a no-brainer to use Visual Studio 2012 Team Foundation Server now rather than wait for RTM. In fact, if you are currently just using TFS for source control, or are in the process of deploying TFS 2010 now, I would wholeheartedly recommend jumping in with 2012. If you are using more features you will need to do a little more planning, but you should still consider it…

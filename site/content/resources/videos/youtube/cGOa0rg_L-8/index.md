@@ -3,6 +3,7 @@ title: Is Your Project Ecosystem Truly Agile?
 description: Unlock true agility in product management! Discover how to break down silos, embrace automation, and maximise stakeholder value in this insightful video.
 date: 2024-11-06
 videoId: cGOa0rg_L-8
+source: internal
 url: /resources/videos/:slug
 slug: is-your-project-ecosystem-truly-agile
 preview: https://i.ytimg.com/vi/cGOa0rg_L-8/maxresdefault.jpg
@@ -12,6 +13,7 @@ aliases:
 - /resources/is-your-project-ecosystem-truly-agile
 - /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-6
 - /resources/videos/cGOa0rg_L-8
+- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-6
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -110,9 +112,3 @@ By embracing automation, shortening feedback loops, and focusing on maximizing v
 5. **Engage Stakeholders:** Involve them early and often to ensure that your work remains aligned with their needs.
 
 By following these steps, you can ensure that your project ecosystem is not just Agile in name but in practice, delivering maximum value to your stakeholders with every iteration.
-
-
-
-
-
-

@@ -1,6 +1,6 @@
 ---
 title: Am I a stoner hippy?
-description: "Explore the journey of a 'multi-dimensional free thinker' grappling with dyslexia, creativity, and the challenges of traditional education. Discover the gift within!"
+description: Explore the journey of a 'multi-dimensional free thinker' grappling with dyslexia, creativity, and the challenges of traditional education. Discover the gift within!
 date: 2009-01-12
 creator: Martin Hinshelwood
 id: "146"
@@ -8,14 +8,17 @@ layout: blog
 resourceTypes: blog
 slug: am-i-a-stoner-hippy
 aliases:
-  - /blog/am-i-a-stoner-hippy
+- /blog/am-i-a-stoner-hippy
+- /am-i-a-stoner-hippy
+- /am-i-a-stoner-hippy-
+- /blog/am-i-a-stoner-hippy-
 tags:
-  - dyslexia
+- dyslexia
 categories:
-  - me
+- me
 preview: nakedalm-logo-128-link-3-3.png
----
 
+---
 In my email signature, and in the title of my blog, I have the phrase “multi-dimensional free thinker”, and I was recently pulled up for it…
 
 > _How do you "know" you are a "free thinker"?  You can't prove that maaaan – at least not to me!  

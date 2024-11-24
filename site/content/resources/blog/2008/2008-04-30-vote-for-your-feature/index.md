@@ -1,6 +1,6 @@
 ---
 title: Vote for your feature
-description: "Cast your vote for the next features in TFS Sticky Buddy! Help shape version 2.0 by selecting the enhancements you want to see. Join the discussion now!"
+description: Cast your vote for the next features in TFS Sticky Buddy! Help shape version 2.0 by selecting the enhancements you want to see. Join the discussion now!
 date: 2008-04-30
 creator: Martin Hinshelwood
 id: "234"
@@ -8,16 +8,17 @@ layout: blog
 resourceTypes: blog
 slug: vote-for-your-feature
 aliases:
-  - /blog/vote-for-your-feature
+- /blog/vote-for-your-feature
+- /vote-for-your-feature
 tags:
-  - tfs-sticky-buddy
-  - wit
-  - wpf
+- tfs-sticky-buddy
+- wit
+- wpf
 categories:
-  - me
+- me
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 I am currently taking votes for which features will make it into the next version of the [TFS Sticky Buddy](https://www.codeplex.com/TFSStickyBuddy) ([v1.1 CTP 1](https://www.codeplex.com/Release/ProjectReleases.aspx?ProjectName=TFSStickyBuddy&ReleaseId=12982)), which will move towards v2.0. The current list of features is slim, but specific.
 
 **Features (11 Votes) Click an item to submit your vote...**

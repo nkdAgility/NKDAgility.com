@@ -1,6 +1,6 @@
 ---
 title: Create your own path to Organisational Agility
-description: "Discover how to tailor your path to organisational agility with evidence-based strategies. Empower your team and drive meaningful change today!"
+description: Discover how to tailor your path to organisational agility with evidence-based strategies. Empower your team and drive meaningful change today!
 date: 2018-01-11
 creator: Martin Hinshelwood
 id: "11214"
@@ -8,24 +8,27 @@ layout: blog
 resourceTypes: blog
 slug: organisational-change-create-path
 aliases:
-  - /blog/organisational-change-create-path
+- /blog/organisational-change-create-path
+- /organisational-change-create-path
+- /create-your-own-path-to-organisational-agility
+- /blog/create-your-own-path-to-organisational-agility
 tags:
-  - agile
-  - agility
-  - business-agility
-  - ebm
-  - ebmgt
-  - evidence
-  - evidence-based-management
-  - homepage
-  - organisational-change-team
-  - scrum
-  - scrum-definition
+- agile
+- agility
+- business-agility
+- ebm
+- ebmgt
+- evidence
+- evidence-based-management
+- homepage
+- organisational-change-team
+- scrum
+- scrum-definition
 categories:
-  - people-and-process
+- people-and-process
 preview: nkdagility-create-your-own-path-to-agility-3-3.jpg
----
 
+---
 Other scaled agile frameworks employ a cookie-cutter approach to organisational agility. While I accept that they may have worked somewhere once, the likelihood that the same approach will work in your organisation is small. They were created to get a unique company from their existing state to their personal vision of where they wanted to be. To increase the likelihood of success you need a framework that guides you to change your organisation in an incremental and custom fashion towards your own vision. Cookie-cutter approaches will not work for you.
 
 ## TL;DR

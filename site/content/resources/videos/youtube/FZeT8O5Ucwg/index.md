@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=FZeT8O5Ucwg
 aliases:
 - /resources/videos/FZeT8O5Ucwg
 - /resources/videos/the-tyranny-of-taylorism-&-how-to-detect-agile-bs!
+- /resources/the-tyranny-of-taylorism-&-how-to-detect-agile-bs!
 preview: https://i.ytimg.com/vi/FZeT8O5Ucwg/maxresdefault.jpg
 duration: 2106
 isShort: false
@@ -44,4 +45,3 @@ View Presentation: https://nkdagility.net/30MVagF
 DIB Guide: Detecting Agile BS: https://nkdagility.net/DOD-Detecting​
 
 [Watch on YouTube](https://www.youtube.com/watch?v=FZeT8O5Ucwg)
-

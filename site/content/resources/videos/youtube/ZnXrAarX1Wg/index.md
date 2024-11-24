@@ -3,6 +3,7 @@ title: No go zone for Agile consultants
 description: 'Discover common pitfalls for new agile consultants and learn how to excel in your role with expert insights from Martin Hinshelwood. #Agile #Consulting #Shorts'
 date: 2023-07-31
 videoId: ZnXrAarX1Wg
+source: internal
 url: /resources/videos/:slug
 slug: no-go-zone-for-agile-consultants
 preview: https://i.ytimg.com/vi/ZnXrAarX1Wg/maxresdefault.jpg
@@ -12,6 +13,7 @@ aliases:
 - /resources/no-go-zone-for-agile-consultants
 - /resources/videos/no-go-zone-for-agile-consultants-
 - /resources/videos/ZnXrAarX1Wg
+- /resources/no-go-zone-for-agile-consultants-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -70,9 +72,3 @@ Hashtags:         #AgileConsulting #Coaching #Teaching #Change
 General
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
-
-
-
-
-
-

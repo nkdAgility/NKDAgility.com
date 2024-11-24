@@ -1,6 +1,6 @@
 ---
 title: Quality enablement with Visual Studio 2012
-description: "Discover how Visual Studio 2012 enables continuous quality in software development, helping you meet modern user expectations and enhance brand differentiation."
+description: Discover how Visual Studio 2012 enables continuous quality in software development, helping you meet modern user expectations and enhance brand differentiation.
 date: 2013-05-15
 creator: Martin Hinshelwood
 id: "9487"
@@ -8,20 +8,21 @@ layout: blog
 resourceTypes: blog
 slug: quality-enablement-with-visual-studio-2012
 aliases:
-  - /blog/quality-enablement-with-visual-studio-2012
+- /blog/quality-enablement-with-visual-studio-2012
+- /quality-enablement-with-visual-studio-2012
 tags:
-  - continious
-  - develop
-  - improve
-  - practices
-  - quality-enablement
-  - strategic
-  - tools
+- continious
+- develop
+- improve
+- practices
+- quality-enablement
+- strategic
+- tools
 categories:
-  - tools-and-techniques
+- tools-and-techniques
 preview: nakedalm-experts-visual-studio-alm-18-18.png
----
 
+---
 In the modern application lifecycle one of the key messages is one of quality enablement. Quality will be the key differentiator between you and your competitors over the next few years and the old excuses are just that… old.
 
 All companies are now software companies and require more and more to deliver software that is a level of quality that wows your users. Gone are the days when your employees have access to better technology in the office as they are now way ahead at home and upgrading at a faster pace. As this technology has infiltrated the home so the expectations of the consumers (your customers or employees) has increased.

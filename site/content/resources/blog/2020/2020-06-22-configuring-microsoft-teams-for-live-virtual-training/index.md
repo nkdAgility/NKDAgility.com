@@ -1,6 +1,6 @@
 ---
 title: Configuring Microsoft Teams for Live Virtual Training
-description: "Master Microsoft Teams for Live Virtual Training with expert tips on setup and configuration to enhance your students' learning experience. Get started now!"
+description: Master Microsoft Teams for Live Virtual Training with expert tips on setup and configuration to enhance your students' learning experience. Get started now!
 date: 2020-06-22
 creator: Martin Hinshelwood
 id: "44452"
@@ -8,13 +8,14 @@ layout: blog
 resourceTypes: blog
 slug: configuring-microsoft-teams-for-live-virtual-training
 aliases:
-  - /blog/configuring-microsoft-teams-for-live-virtual-training
+- /blog/configuring-microsoft-teams-for-live-virtual-training
+- /configuring-microsoft-teams-for-live-virtual-training
 categories:
-  - agility
-  - tools-and-techniques
+- agility
+- tools-and-techniques
 preview: image-14-4-4.png
----
 
+---
 Like most tools, if you want to run successful training in Microsoft Teams you need to do some homework and some configuration before your class. You can just jump in and wing it, but that will not provide a good experience for your students. Currently, I have run more than 6 Live Virtual Training in Microsoft Teams and in a few hours, my 7th will start. I have also recently had to set up Microsoft Teams for my good friend and colleague [Russell Miller](https://nkdagility.com/training/trainers/russell-miller/) so that he can also run classes on the platform.
 
 To date, I have facilitated a couple of Live Virtual F2F for the other trainers at Scrum.org to show them how it works, but we did not go into the configuration. This article will lead any Professional Scrum Trainer that wants to [Deliver Live Virtual Classes in Microsoft Teams](https://nkdagility.com/blog/delivering-live-virtual-classes-in-microsoft-teams-and-mural/) through the configuration required to do so.

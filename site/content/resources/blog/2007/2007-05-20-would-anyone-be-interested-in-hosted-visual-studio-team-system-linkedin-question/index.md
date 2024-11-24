@@ -1,6 +1,6 @@
 ---
 title: Would anyone be interested in hosted Visual Studio Team System (LinkedIn Question)
-description: "Explore the potential of a hosted Visual Studio Team System for small businesses. Discover customization options and ease of management for your projects!"
+description: Explore the potential of a hosted Visual Studio Team System for small businesses. Discover customization options and ease of management for your projects!
 date: 2007-05-20
 creator: Martin Hinshelwood
 id: "400"
@@ -8,13 +8,16 @@ layout: blog
 resourceTypes: blog
 slug: would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
 aliases:
-  - /blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
+- /blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
+- /would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
+- /would-anyone-be-interested-in-hosted-visual-studio-team-system-(linkedin-question)
+- /blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-(linkedin-question)
 tags:
-  - tfs
-  - tfs2008
+- tfs
+- tfs2008
 preview: metro-visual-studio-2005-128-link-1-1.png
----
 
+---
 View Full Question and Answers: [Would anyone be interested in hosted Visual Studio Team System](http://www.linkedin.com/answers/technology/software-development/TCH_SFT/46649-1363184)
 
 I have been thinking about the potential take-up of a private hosted [Visual Studio Team System](http://msdn2.microsoft.com/en-us/teamsystem/default.aspx "Visual Studio Team System") for small companies! This would be similar to [CodePlex](http://www.codeplex.com "CodePlex") but with much more control given to the project owners... i.e. custom Process templates, full work item suite and full customisation capabilities.

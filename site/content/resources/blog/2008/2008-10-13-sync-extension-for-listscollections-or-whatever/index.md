@@ -1,6 +1,6 @@
 ---
 title: Sync extension for Lists/Collections or whatever
-description: "Discover how to effortlessly sync two lists in .NET with a simple extension method. Enhance your coding skills and streamline your data management!"
+description: Discover how to effortlessly sync two lists in .NET with a simple extension method. Enhance your coding skills and streamline your data management!
 date: 2008-10-13
 creator: Martin Hinshelwood
 id: "188"
@@ -8,15 +8,18 @@ layout: blog
 resourceTypes: blog
 slug: sync-extension-for-listscollections-or-whatever
 aliases:
-  - /blog/sync-extension-for-listscollections-or-whatever
+- /blog/sync-extension-for-listscollections-or-whatever
+- /sync-extension-for-listscollections-or-whatever
+- /sync-extension-for-lists-collections-or-whatever
+- /blog/sync-extension-for-lists-collections-or-whatever
 tags:
-  - code
-  - tools
+- code
+- tools
 categories:
-  - code-and-complexity
+- code-and-complexity
 preview: metro-binary-vb-128-link-1-1.png
----
 
+---
 I recently found the need to Sync two lists. I have one list that is used for display, and I want to dynamically sync that list with a new one by applying a delta.
 
 I thought that this would be difficult, but I was surprised at its ease.

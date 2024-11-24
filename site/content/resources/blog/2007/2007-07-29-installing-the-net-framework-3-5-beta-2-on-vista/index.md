@@ -1,6 +1,6 @@
 ---
 title: Installing the .NET Framework 3.5 Beta 2 on Vista
-description: "Learn how to successfully install the .NET Framework 3.5 Beta 2 on Vista with step-by-step instructions and troubleshooting tips. Simplify your setup today!"
+description: Learn how to successfully install the .NET Framework 3.5 Beta 2 on Vista with step-by-step instructions and troubleshooting tips. Simplify your setup today!
 date: 2007-07-29
 creator: Martin Hinshelwood
 id: "357"
@@ -8,15 +8,18 @@ layout: blog
 resourceTypes: blog
 slug: installing-the-net-framework-3-5-beta-2-on-vista
 aliases:
-  - /blog/installing-the-net-framework-3-5-beta-2-on-vista
+- /blog/installing-the-net-framework-3-5-beta-2-on-vista
+- /installing-the-net-framework-3-5-beta-2-on-vista
+- /installing-the--net-framework-3-5-beta-2-on-vista
+- /blog/installing-the--net-framework-3-5-beta-2-on-vista
 tags:
-  - visual-studio
-  - vs2008
+- visual-studio
+- vs2008
 categories:
-  - code-and-complexity
+- code-and-complexity
 preview: metro-visual-studio-2005-128-link-1-1.png
----
 
+---
 As you may have seen from my previous [post](http://blog.hinshelwood.com/archive/2007/07/27/Installing-Visual-Studio-2008-Beta-2.aspx "Installing Visual Studio 2008 Beta 2 on XP"), I have just installed VS2008B2 onto my old work computer, well it is now time to hit my Vista laptop with it:
 
 I just tried to install Visual Studio 2008 Team Suit on my Vista laptop, but it failed on the first hurdle; installing the .NET Framework 3.5 Beta 2

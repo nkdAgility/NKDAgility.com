@@ -1,6 +1,6 @@
 ---
 title: Studying for the new job
-description: "Prepare for your new job by mastering essential technologies like BizTalk and SharePoint. Discover study tips and resources to enhance your skills!"
+description: Prepare for your new job by mastering essential technologies like BizTalk and SharePoint. Discover study tips and resources to enhance your skills!
 date: 2007-08-19
 creator: Martin Hinshelwood
 id: "330"
@@ -8,14 +8,15 @@ layout: blog
 resourceTypes: blog
 slug: studying-for-the-new-job
 aliases:
-  - /blog/studying-for-the-new-job
+- /blog/studying-for-the-new-job
+- /studying-for-the-new-job
 tags:
-  - moss2007
-  - sharepoint
-  - sp2007
+- moss2007
+- sharepoint
+- sp2007
 preview: metro-sharepoint-128-link-1-1.png
----
 
+---
 I will be [starting a new job](http://blog.hinshelwood.com/archive/2007/08/16/A-change-for-the-better.aspx) in around a month and I wanted to get up-to-speed with the technologies that the new company want to be using. To start with I have had a look at a number of certifications:
 
 - [Technology Specialist: BizTalk Server 2006](http://www.microsoft.com/learning/mcp/mcts/biztalk/)

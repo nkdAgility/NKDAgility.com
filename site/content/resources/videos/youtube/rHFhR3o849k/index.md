@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=rHFhR3o849k
 aliases:
 - /resources/videos/rHFhR3o849k
 - /resources/videos/what-makes-a-truly-great-scrum-master-
+- /resources/what-makes-a-truly-great-scrum-master-
 preview: https://i.ytimg.com/vi/rHFhR3o849k/maxresdefault.jpg
 duration: 237
 isShort: false
@@ -48,4 +49,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=rHFhR3o849k)
-

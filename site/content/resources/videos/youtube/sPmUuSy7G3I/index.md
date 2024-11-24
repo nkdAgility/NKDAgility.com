@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=sPmUuSy7G3I
 aliases:
 - /resources/videos/sPmUuSy7G3I
 - /resources/videos/how-does-a-scrum-team-plan-and-prioritize-work-effectively-
+- /resources/how-does-a-scrum-team-plan-and-prioritize-work-effectively-
 preview: https://i.ytimg.com/vi/sPmUuSy7G3I/maxresdefault.jpg
 duration: 312
 isShort: false
@@ -44,4 +45,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=sPmUuSy7G3I)
-

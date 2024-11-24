@@ -1,6 +1,6 @@
 ---
-title: "Found GDR Bug: At least I think it is."
-description: "Discover a potential GDR bug affecting SQL views and derived tables. Join the discussion and help improve Data Dude with your insights and votes!"
+title: 'Found GDR Bug: At least I think it is.'
+description: Discover a potential GDR bug affecting SQL views and derived tables. Join the discussion and help improve Data Dude with your insights and votes!
 date: 2008-09-04
 creator: Martin Hinshelwood
 id: "198"
@@ -8,13 +8,16 @@ layout: blog
 resourceTypes: blog
 slug: found-gdr-bug-at-least-i-think-it-is
 aliases:
-  - /blog/found-gdr-bug-at-least-i-think-it-is
+- /blog/found-gdr-bug-at-least-i-think-it-is
+- /found-gdr-bug-at-least-i-think-it-is
+- /found-gdr-bug--at-least-i-think-it-is-
+- /blog/found-gdr-bug--at-least-i-think-it-is-
 tags:
-  - aggreko
-  - tools
+- aggreko
+- tools
 preview: metro-aggreko-128-link-1-1.png
----
 
+---
 This is not isolated to GDR, but seams to exist in Data Dude as well. If you create the following SQL:
 
 ```

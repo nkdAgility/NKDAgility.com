@@ -1,6 +1,6 @@
 ---
 title: Continuous value delivery with modern business applications
-description: "Discover how modern business applications enable continuous value delivery, transforming software development practices for happier consumers and faster updates."
+description: Discover how modern business applications enable continuous value delivery, transforming software development practices for happier consumers and faster updates.
 date: 2012-11-27
 creator: Martin Hinshelwood
 id: "9149"
@@ -8,28 +8,29 @@ layout: blog
 resourceTypes: blog
 slug: continuous-value-delivery-with-modern-business-applications
 aliases:
-  - /blog/continuous-value-delivery-with-modern-business-applications
+- /blog/continuous-value-delivery-with-modern-business-applications
+- /continuous-value-delivery-with-modern-business-applications
 tags:
-  - continious-value-delivery
-  - define
-  - develop
-  - improve
-  - infrastructure
-  - measure
-  - operate
-  - people
-  - practices
-  - process
-  - tfs2012
-  - vs2012
-  - vs-2012-1
+- continious-value-delivery
+- define
+- develop
+- improve
+- infrastructure
+- measure
+- operate
+- people
+- practices
+- process
+- tfs2012
+- vs2012
+- vs-2012-1
 categories:
-  - measure-and-learn
-  - people-and-process
-  - tools-and-techniques
+- measure-and-learn
+- people-and-process
+- tools-and-techniques
 preview: nakedalm-experts-visual-studio-alm-2-2.png
----
 
+---
 I have talked before on the [new normal for software development](http://blog.hinshelwood.com/the-new-normal-of-the-modern-application-lifecycle/) as part of the Visual Studio 2012 launch events and Microsoft in itself is not immune to this change.
 
 We as consumers will no longer stand for applications that make us wait for 6 months for a new version let alone 2 years. New features need to be delivered much more frequently to the consumer and the biggest blocker to this is the culture of both the organisation releasing the software and their customers.

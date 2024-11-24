@@ -3,6 +3,7 @@ title: What is your favourite DevOps consulting outcome?
 description: Join Martin Hinshelwood as he shares his favourite DevOps consulting outcome, highlighting the transformative power of agile practices in diverse industries.
 date: 2023-10-09
 videoId: N58DvsSx4U8
+source: internal
 url: /resources/videos/:slug
 slug: what-is-your-favourite-devops-consulting-outcome
 preview: https://i.ytimg.com/vi/N58DvsSx4U8/maxresdefault.jpg
@@ -12,6 +13,7 @@ aliases:
 - /resources/what-is-your-favourite-devops-consulting-outcome
 - /resources/videos/what-is-your-favourite-devops-consulting-outcome-
 - /resources/videos/N58DvsSx4U8
+- /resources/what-is-your-favourite-devops-consulting-outcome-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -113,9 +115,3 @@ And the beauty of this journey is that all organisations, regardless of size or 
 Feeling inspired to embark on your Agile and Scrum journey?
 
 Explore my Agile and Scrum courses, and let's empower your team and revolutionise your organisation's productivity together!
-
-
-
-
-
-

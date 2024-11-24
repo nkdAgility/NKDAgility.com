@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=vWfebO_pwIU
 aliases:
 - /resources/videos/vWfebO_pwIU
 - /resources/videos/why-most-scrum-masters-only-have-psmi!
+- /resources/why-most-scrum-masters-only-have-psmi!
 preview: https://i.ytimg.com/vi/vWfebO_pwIU/maxresdefault.jpg
 duration: 291
 isShort: false
@@ -52,4 +53,3 @@ Because you don't just need agility, you need Naked Agility.
 #scrum, #agile, #scrumteam, #agilecoach, #scrumorg, #scrummaster, #agiletraining
 
 [Watch on YouTube](https://www.youtube.com/watch?v=vWfebO_pwIU)
-

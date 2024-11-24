@@ -1,6 +1,6 @@
 ---
 title: My journey into Professional Scrum
-description: "Explore my journey into Professional Scrum and discover how agile practices can transform software development and enhance business agility. Join me!"
+description: Explore my journey into Professional Scrum and discover how agile practices can transform software development and enhance business agility. Join me!
 date: 2015-02-04
 creator: Martin Hinshelwood
 id: "11115"
@@ -8,20 +8,23 @@ layout: blog
 resourceTypes: blog
 slug: journey-professional-scrum
 aliases:
-  - /blog/journey-professional-scrum
+- /blog/journey-professional-scrum
+- /journey-professional-scrum
+- /my-journey-into-professional-scrum
+- /blog/my-journey-into-professional-scrum
 tags:
-  - agile
-  - business-agility
-  - psd
-  - psf
-  - psm
-  - scrum
-  - sps
+- agile
+- business-agility
+- psd
+- psf
+- psm
+- scrum
+- sps
 categories:
-  - people-and-process
+- people-and-process
 preview: nakedalm-experts-professional-scrum-5-5.png
----
 
+---
 It has been just over a year since I returned from 3 years in the USA and started naked ALM Consulting, and things are going well.. So far. The key to success in software development is, I believe, Professional Scrum.
 
 A move into consulting was the next logical step for my career back in 2010 when I went to work for Adam Cogan's SSW in Sydney Australia. Here I learned to work in a team, Scrum, and how to be a Professional Scrum Developer. I also learned how to work remotely, as I lived a full 11 hours difference from the office.

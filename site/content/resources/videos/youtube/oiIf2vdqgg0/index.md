@@ -3,6 +3,7 @@ title: What is a product vision?
 description: Discover the essence of a product vision in Scrum! Join Martin Hinshelwood as he explains its importance and how to create one for your team.
 date: 2023-10-10
 videoId: oiIf2vdqgg0
+source: internal
 url: /resources/videos/:slug
 slug: what-is-a-product-vision
 preview: https://i.ytimg.com/vi/oiIf2vdqgg0/maxresdefault.jpg
@@ -12,6 +13,7 @@ aliases:
 - /resources/what-is-a-product-vision
 - /resources/videos/what-is-a-product-vision-
 - /resources/videos/oiIf2vdqgg0
+- /resources/what-is-a-product-vision-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -86,9 +88,3 @@ I invite you to join my Agile and Scrum courses, where we explore these concepts
 Can't wait to see you there!
 
 Remember, the future is what we make it. Let's create it together, starting today.
-
-
-
-
-
-

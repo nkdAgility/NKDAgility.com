@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=0fz91w-_6vE
 aliases:
 - /resources/videos/0fz91w-_6vE
 - /resources/videos/what-is-your-primary-role-in-a-devops-consulting-gig-
+- /resources/what-is-your-primary-role-in-a-devops-consulting-gig-
 preview: https://i.ytimg.com/vi/0fz91w-_6vE/maxresdefault.jpg
 duration: 138
 isShort: false
@@ -49,4 +50,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=0fz91w-_6vE)
-

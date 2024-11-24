@@ -1,6 +1,6 @@
 ---
-title: "Review Part 3: Two Months with Intel Haswell Harris Beach SDS Ultrabook"
-description: "Explore my two-month journey with the Intel Haswell Harris Beach SDS Ultrabook, highlighting performance, battery life, and Windows 8.1 updates. Read more!"
+title: 'Review Part 3: Two Months with Intel Haswell Harris Beach SDS Ultrabook'
+description: Explore my two-month journey with the Intel Haswell Harris Beach SDS Ultrabook, highlighting performance, battery life, and Windows 8.1 updates. Read more!
 date: 2013-10-15
 creator: Martin Hinshelwood
 id: "10209"
@@ -8,17 +8,20 @@ layout: blog
 resourceTypes: blog
 slug: review-two-months-intel-haswell-harris-beach-sds-ultrabook
 aliases:
-  - /blog/review-two-months-intel-haswell-harris-beach-sds-ultrabook
+- /blog/review-two-months-intel-haswell-harris-beach-sds-ultrabook
+- /review-two-months-intel-haswell-harris-beach-sds-ultrabook
+- /review-part-3--two-months-with-intel-haswell-harris-beach-sds-ultrabook
+- /blog/review-part-3--two-months-with-intel-haswell-harris-beach-sds-ultrabook
 tags:
-  - hardware
-  - harris-beach
-  - intel
-  - review
+- hardware
+- harris-beach
+- intel
+- review
 categories:
-  - news-and-reviews
+- news-and-reviews
 preview: Web-Intel-Metro-icon-3-3.png
----
 
+---
 Now that I have had two months with the Intel Haswell Harris Beach SDS Ultrabook I thought that it would be a good idea to give you an update. You can check out Part #1 & #2 below however in this post I want to concentrate on Windows 8.1 with the SDS.
 
 - [Review Part 1: Harris Beach SDS Ultrabook from Intel with Haswell](http://nkdagility.com/review-harris-beach-sds-ultrabook-from-intel-unboxing/)

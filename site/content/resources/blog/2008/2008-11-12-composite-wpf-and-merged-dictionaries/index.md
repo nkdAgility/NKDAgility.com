@@ -1,6 +1,6 @@
 ---
 title: Composite WPF and Merged Dictionaries
-description: "Explore how to effectively manage themes and resource files in WPF applications with practical code solutions and insights from Martin Hinshelwood."
+description: Explore how to effectively manage themes and resource files in WPF applications with practical code solutions and insights from Martin Hinshelwood.
 date: 2008-11-12
 creator: Martin Hinshelwood
 id: "170"
@@ -8,18 +8,19 @@ layout: blog
 resourceTypes: blog
 slug: composite-wpf-and-merged-dictionaries
 aliases:
-  - /blog/composite-wpf-and-merged-dictionaries
+- /blog/composite-wpf-and-merged-dictionaries
+- /composite-wpf-and-merged-dictionaries
 tags:
-  - code
-  - tfs-sticky-buddy
-  - tools
-  - wpf
-  - xaml
+- code
+- tfs-sticky-buddy
+- tools
+- wpf
+- xaml
 categories:
-  - code-and-complexity
+- code-and-complexity
 preview: metro-binary-vb-128-link-2-2.png
----
 
+---
 If, like me, you like to have changeable resource files in your application. Wither it is for changing the Theme, or interchanging templates you will need to take special care when using the
 
 [](http://www.codeplex.com/CompositeWPF)libraries.

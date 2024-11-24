@@ -1,6 +1,6 @@
 ---
 title: TFS Event Handler prototype Configuration Demystified
-description: "Unlock the secrets of TFS Event Handler configuration with this comprehensive guide. Perfect for developers seeking to streamline event management!"
+description: Unlock the secrets of TFS Event Handler configuration with this comprehensive guide. Perfect for developers seeking to streamline event management!
 date: 2007-06-18
 creator: Martin Hinshelwood
 id: "379"
@@ -8,17 +8,18 @@ layout: blog
 resourceTypes: blog
 slug: tfs-event-handler-prototype-configuration-demystified
 aliases:
-  - /blog/tfs-event-handler-prototype-configuration-demystified
+- /blog/tfs-event-handler-prototype-configuration-demystified
+- /tfs-event-handler-prototype-configuration-demystified
 tags:
-  - code
-  - tfs-event-handler
-  - tools
-  - wit
+- code
+- tfs-event-handler
+- tools
+- wit
 categories:
-  - code-and-complexity
+- code-and-complexity
 preview: metro-binary-vb-128-link-1-1.png
----
 
+---
 There are a number of config options for the [TFS Event Handler Prototype](http://www.codeplex.com/TFSEventHandler/Release/ProjectReleases.aspx?ReleaseId=5057). I will describe all of them in depth here. The first step is to set the [Windows Communication Foundation](http://wcf.netfx3.com "Windows Communication Foundation") service options, which really only requires you to change one value.
 
 ```

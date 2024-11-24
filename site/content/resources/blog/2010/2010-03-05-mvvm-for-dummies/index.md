@@ -1,6 +1,6 @@
 ---
 title: MVVM for Dummies
-description: "Master MVVM with this essential guide for developers. Learn best practices in WPF and Silverlight to achieve clean, maintainable code. Dive in now!"
+description: Master MVVM with this essential guide for developers. Learn best practices in WPF and Silverlight to achieve clean, maintainable code. Dive in now!
 date: 2010-03-05
 creator: Martin Hinshelwood
 id: "65"
@@ -8,19 +8,20 @@ layout: blog
 resourceTypes: blog
 slug: mvvm-for-dummies
 aliases:
-  - /blog/mvvm-for-dummies
+- /blog/mvvm-for-dummies
+- /mvvm-for-dummies
 tags:
-  - code
-  - mvvm
-  - silverlight
-  - ssw
-  - tools
-  - wpf
+- code
+- mvvm
+- silverlight
+- ssw
+- tools
+- wpf
 categories:
-  - code-and-complexity
+- code-and-complexity
 preview: metro-binary-vb-128-link-1-1.png
----
 
+---
 I think that I have found one of the best articles on MVVM that I have ever read:
 
 [http://jmorrill.hjtcentral.com/Home/tabid/428/EntryId/432/MVVM-for-Tarded-Folks-Like-Me-or-MVVM-and-What-it-Means-to-Me.aspx](http://jmorrill.hjtcentral.com/Home/tabid/428/EntryId/432/MVVM-for-Tarded-Folks-Like-Me-or-MVVM-and-What-it-Means-to-Me.aspx)

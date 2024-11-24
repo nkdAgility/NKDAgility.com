@@ -1,125 +1,29 @@
-# Define variables
+# Helpers
+. ./.powershell/_includes/OpenAI.ps1
+. ./.powershell/_includes/HugoHelpers.ps1
+
 $outputDir = "site\content\resources\videos\youtube"
 $excludedTags = @("martin hinshelwood", "nkd agility")  # List of tags to exclude
 
-# Ensure PowerShell-YAML module is available
-if (-not (Get-Module -ListAvailable -Name PowerShell-Yaml)) {
-    Install-Module -Name PowerShell-Yaml -Force -Scope CurrentUser
-    Import-Module -Name PowerShell-Yaml
-}
-else {
-    Import-Module -Name PowerShell-Yaml
-}
-
-function Get-Excerpt {
+# Function to use OpenAI to update the description if needed
+function Get-UpdatedDescription {
     param (
-        [string]$InputString,
-        [int]$TargetLength = 100
+        [pscustomobject]$videoData
     )
 
-    # Remove newlines, #tags, and URLs
-    $cleanInput = $InputString -replace '\r\n|\r|\n', ' ' # Replace newlines with spaces
-    $cleanInput = $InputString -replace '#[^\s]+', ''                      # Remove #tags
-    $cleanInput = $InputString -replace 'https?://\S+|www\.\S+', ''      # Remove URLs
-    
-    # Match sentences ending with `.`, `!`, `?`
-    $matches = [regex]::Matches($cleanInput, '.*?[\.\!\?]')
-    $excerpt = ""
-
-    foreach ($match in $matches) {
-        # Add each match to the excerpt
-        $excerpt += $match.Value + " "
-        # Stop if we reach or exceed the target length
-        if ($excerpt.Length -ge $TargetLength) {
-            break
-        }
+    # Check if the description needs updating
+    if (-not $description -or $description.Length -lt 100) {
+        # Generate a new or enhanced description using OpenAI
+        $prompt = "Generate a concise, engaging description of no more than 160 characters for the following video: '$($videoData.snippet.title)'. The video details are: '$($videoData.snippet.description)'"
+        $newDescription = Get-OpenAIResponse -Prompt $prompt
+        return $newDescription
     }
-
-    # Trim any extra spaces and return
-    return $excerpt.Trim()
+    else {
+        return $description
+    }
 }
 
-
-
-# Function to generate markdown content for a video
-function Get-NewMarkdownContents {
-    param (
-        [pscustomobject]$videoData,
-        [string]$videoId,
-        [string[]]$excludedTags
-    )
-
-    $videoSnippet = $videoData.snippet
-    $fullDescription = $videoSnippet.description
-    $durationISO = $videoData.contentDetails.duration
-
-    # Convert duration to seconds
-    $timeSpan = [System.Xml.XmlConvert]::ToTimeSpan($durationISO)
-    $durationInSeconds = $timeSpan.TotalSeconds
-
-    # Check if the video is a short (60 seconds or less)
-    $isShort = $durationInSeconds -le 60
-
-    # Get the highest resolution thumbnail
-    $thumbnails = $videoSnippet.thumbnails
-    $thumbnailUrl = $thumbnails.maxres.url
-    if (-not $thumbnailUrl) {
-        $thumbnailUrl = $thumbnails.high.url  # Fallback to high resolution
-    }
-
-    # Format the title to be URL-safe and remove invalid characters
-    $title = $videoSnippet.title -replace '[#"]', ' ' -replace ':', ' - ' -replace '\s+', ' '  # Ensure only one space in a row
-    $publishedAt = Get-Date $videoSnippet.publishedAt -Format "yyyy-MM-ddTHH:mm:ssZ"
-    $urlSafeTitle = ($title -replace '[:\/\\*?"<>|#%.]', '-' -replace '\s+', '-').ToLower()
-
-    # Remove consecutive dashes
-    $urlSafeTitle = $urlSafeTitle -replace '-+', '-'
-
-    # Create the external URL for the original video
-    $externalUrl = "https://www.youtube.com/watch?v=$videoId"
-
-    # Get the tags from the snippet and filter out excluded tags
-    $tags = @()
-    if ($videoSnippet.tags) {
-        $tags = $videoSnippet.tags | Where-Object { -not ($excludedTags -contains $_.ToLower()) }
-    }
-
-    # Create an ordered hash for the front matter
-    $frontMatter = [ordered]@{
-        title        = $title
-        description  = Get-Excerpt -InputString $videoSnippet.description
-        date         = $publishedAt
-        videoId      = $videoId
-        url          = "/resources/videos/:slug"
-        slug         = $urlSafeTitle
-        canonicalUrl = $externalUrl
-        aliases      = @("/resources/videos/$videoId", "/resources/videos/$urlSafeTitle")
-        preview      = $thumbnailUrl
-        duration     = $durationInSeconds
-        isShort      = $isShort
-        tags         = $tags
-        sitemap      = @{ filename = "sitemap.xml"; priority = 0.4 }
-        source       = "youtube"
-    }
-
-    # Convert ordered hash to YAML front matter
-    $frontMatterYaml = "---`n" + ($frontMatter | ConvertTo-Yaml) + "`n---`
-"
-
-    # Return the markdown content with front matter and content
-    return @"
-$frontMatterYaml
-{{< youtube $videoId >}}
-
-# $title
-
-$fullDescription
-
-[Watch on YouTube]($externalUrl)
-"@
-}
-
-# Function to generate markdown files from existing data.json files
+# Function to generate or update Hugo markdown content for a video
 function Update-YoutubeMarkdownFiles {
     param ()
 
@@ -129,32 +33,99 @@ function Update-YoutubeMarkdownFiles {
         $markdownFile = Join-Path $videoDir "index.md"
         $jsonFilePath = Join-Path $videoDir "data.json"
 
-        # Check if index.md exists and if it contains 'canonicalUrl'
-        $shouldUpdate = $false
-        if (-not (Test-Path $markdownFile)) {
-            # If index.md does not exist, we should create it
-            $shouldUpdate = $true
-        }
-        elseif ((Test-Path $markdownFile) -and (Get-Content -Path $markdownFile -Raw) -match 'source: youtube') {
-            # If index.md exists and contains 'canonicalUrl', we should update it
-            $shouldUpdate = $true
-        }
-        else {
-            Write-Host "Markdown file for video $($videoDir) has been customised. Skipping."
-        }
+        # Load the video data from data.json if available
+        if (Test-Path $jsonFilePath) {
 
-        # Proceed to update or create the markdown file if necessary
-        if ($shouldUpdate -and (Test-Path $jsonFilePath)) {
-            # Load the video data from data.json
+            $source = $null;
+            # Load existing markdown or create a new HugoMarkdown object
+            if (Test-Path $markdownFile) {
+                $hugoMarkdown = Get-HugoMarkdown -Path $markdownFile
+                if ($hugoMarkdown.FrontMatter.Contains("canonicalUrl")) {
+                    $source = "youtube"
+                }
+                else {
+                    $source = "internal"
+                }
+            }
+            else {
+                $frontMatter = [ordered]@{}
+                $hugoMarkdown = [HugoMarkdown]::new($frontMatter, "")
+                $source = "youtube"
+            }  
+
+            if ($source -eq $null) {
+                Write-Host "No source found for video: $($videoData.snippet.title)"
+                return
+            }
+
             $videoData = Get-Content -Path $jsonFilePath | ConvertFrom-Json
             $videoId = $videoData.id
+            $videoSnippet = $videoData.snippet
+            $durationISO = $videoData.contentDetails.duration
 
-            # Generate markdown content
-            $markdownContent = Get-NewMarkdownContents -videoData $videoData -videoId $videoId -excludedTags $excludedTags
+            # Convert duration to seconds
+            $timeSpan = [System.Xml.XmlConvert]::ToTimeSpan($durationISO)
+            $durationInSeconds = $timeSpan.TotalSeconds
 
-            # Write the markdown content to index.md
-            Set-Content -Path $markdownFile -Value $markdownContent
-            Write-Host "Markdown created or updated for video: $($videoData.snippet.title)"
+            # Check if the video is a short (60 seconds or less)
+            $isShort = $durationInSeconds -le 60
+
+            # Get the highest resolution thumbnail
+            $thumbnails = $videoSnippet.thumbnails
+            $thumbnailUrl = $thumbnails.maxres.url
+            if (-not $thumbnailUrl) {
+                $thumbnailUrl = $thumbnails.high.url  # Fallback to high resolution
+            }
+
+            # Format the title to be URL-safe and remove invalid characters
+            $title = $videoSnippet.title -replace '[#"]', ' ' -replace ':', ' - ' -replace '\s+', ' '  # Ensure only one space in a row
+            $publishedAt = Get-Date $videoSnippet.publishedAt -Format "yyyy-MM-ddTHH:mm:ssZ"
+            $urlSafeTitle = ($title -replace '[:\/\\*?"<>|#%.]', '-' -replace '\s+', '-').ToLower()
+
+            # Remove consecutive dashes
+            $urlSafeTitle = $urlSafeTitle -replace '-+', '-'
+
+            $aliases = @("/resources/videos/$videoId", "/resources/videos/$urlSafeTitle", "/resources/$urlSafeTitle")
+           
+            # Get the tags from the snippet and filter out excluded tags
+            $tags = @()
+            if ($videoSnippet.tags) {
+                $tags = $videoSnippet.tags | Where-Object { -not ($excludedTags -contains $_.ToLower()) }
+            }
+
+            # Use Update-Field from HugoHelpers.ps1 to update or add each field
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'title' -fieldValue $title 
+            if (-not $hugoMarkdown.FrontMatter.Contains("description")) {
+                # Update description using OpenAI if needed
+                $fullDescription = Get-UpdatedDescription -videoData $videoData
+                Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'description' -fieldValue (Get-Excerpt -InputString $fullDescription)
+            }
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'date' -fieldValue $publishedAt 
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'videoId' -fieldValue $videoId
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'source' -fieldValue $source -addAfter "videoId" 
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'url' -fieldValue "/resources/videos/:slug"
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'slug' -fieldValue $urlSafeTitle
+            if ($source -eq "youtube") {
+                $externalUrl = "https://www.youtube.com/watch?v=$videoId"
+                Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'canonicalUrl' -fieldValue $externalUrl
+            }           
+            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliases' -values $aliases
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'preview' -fieldValue $thumbnailUrl 
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'duration' -fieldValue $durationInSeconds
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'isShort' -fieldValue $isShort
+            if ($tags.Count -gt 0) {
+                Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values $tags -addAfter "isShort"
+            }
+            if ($source -eq "youtube") {
+                $priority = 0.4
+            }
+            else {
+                $priority = 0.6
+            }                 
+            $hugoMarkdown.FrontMatter["sitemap"] = @{ filename = "sitemap.xml"; priority = $priority }  # Update sitemap filename
+            # Save the updated HugoMarkdown to index.md
+            Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $markdownFile
+            Write-Host "Markdown created or updated for video: $($videoSnippet.title)"
         }
     }
 

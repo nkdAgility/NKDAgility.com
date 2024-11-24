@@ -1,6 +1,6 @@
 ---
 title: Bruce Lee on Scrum and Agile
-description: "Explore Bruce Lee's philosophy on Scrum and Agile, emphasizing simplicity and adaptability to enhance your organization's processes and customer satisfaction."
+description: Explore Bruce Lee's philosophy on Scrum and Agile, emphasizing simplicity and adaptability to enhance your organization's processes and customer satisfaction.
 date: 2014-10-07
 creator: Martin Hinshelwood
 id: "10800"
@@ -8,16 +8,17 @@ layout: blog
 resourceTypes: blog
 slug: bruce-lee-on-scrum-and-agile
 aliases:
-  - /blog/bruce-lee-on-scrum-and-agile
+- /blog/bruce-lee-on-scrum-and-agile
+- /bruce-lee-on-scrum-and-agile
 tags:
-  - agile
-  - philosophy
-  - scrum
+- agile
+- philosophy
+- scrum
 categories:
-  - people-and-process
+- people-and-process
 preview: nakedalm-experts-professional-scrum-2-2.png
----
 
+---
 There are wise people in this world and that wisdom often transcends the topic that they are intentionality addressing. Good philosophy can be applied beyond those bounds.
 
 ![bruce-lee-enterprises-3](images/bruce-lee-enterprises-3-1-1.jpg "bruce-lee-enterprises-3")As an example, here is Bruce Lee on Scrum and Agile:

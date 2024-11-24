@@ -1,6 +1,6 @@
 ---
 title: Installing TFS 2012 with Lab Management 2012
-description: "Learn to install TFS 2012 with Lab Management in a day. Follow expert tips and step-by-step guidance to streamline your deployment process effectively."
+description: Learn to install TFS 2012 with Lab Management in a day. Follow expert tips and step-by-step guidance to streamline your deployment process effectively.
 date: 2012-06-20
 creator: Martin Hinshelwood
 id: "5496"
@@ -8,26 +8,27 @@ layout: blog
 resourceTypes: blog
 slug: installing-tfs-2012-with-lab-management-2012
 aliases:
-  - /blog/installing-tfs-2012-with-lab-management-2012
+- /blog/installing-tfs-2012-with-lab-management-2012
+- /installing-tfs-2012-with-lab-management-2012
 tags:
-  - configuration
-  - infrastructure
-  - modern-alm
-  - tf22022
-  - tf255484
-  - tf259641
-  - tfs
-  - tfs2012
-  - tfslab
-  - tools
-  - visual-studio
-  - vs2012
+- configuration
+- infrastructure
+- modern-alm
+- tf22022
+- tf255484
+- tf259641
+- tfs
+- tfs2012
+- tfslab
+- tools
+- visual-studio
+- vs2012
 categories:
-  - tools-and-techniques
-  - upgrade-and-maintenance
+- tools-and-techniques
+- upgrade-and-maintenance
 preview: nakedalm-experts-visual-studio-alm-42-42.png
----
 
+---
 I have been onsite this week in California to deploy TFS 2012 and Lab Management for a company in the computer game industry. Because of limited time I am doing the full install in one day and thus will not be getting any of their builds or environments to work today. This is purely an install and test of the happy paths. I have loads of time over the rest of the week running workshops for the customer to bring their guys up to speed on how to do everything else.
 
 - **UPDATED 2012-06-20** – [Adam Cogan](http://www.adamcogan.com/) sent me a bunch of corrections that I incorporated. He also suggested a diagram or summary. How about both!

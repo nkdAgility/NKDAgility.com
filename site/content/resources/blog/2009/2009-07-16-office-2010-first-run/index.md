@@ -1,6 +1,6 @@
 ---
 title: Office 2010 First run
-description: "Discover the exciting first run of Office 2010! Join Martin Hinshelwood as he explores new features and user-friendly enhancements. Dive in now!"
+description: Discover the exciting first run of Office 2010! Join Martin Hinshelwood as he explores new features and user-friendly enhancements. Dive in now!
 date: 2009-07-16
 creator: Martin Hinshelwood
 id: "102"
@@ -8,13 +8,14 @@ layout: blog
 resourceTypes: blog
 slug: office-2010-first-run
 aliases:
-  - /blog/office-2010-first-run
+- /blog/office-2010-first-run
+- /office-2010-first-run
 tags:
-  - office
-  - tools
+- office
+- tools
 preview: metro-office-128-link-6-1.png
----
 
+---
 I will need to be quick, I have a dentists appointment (arg!), but I could not leave without at least a peek at Office 2010, so Outlook being my weapon of necessity, that the choice:
 
 [![image](images/Office2010Firstrun_E6A7-image_thumb-5-6.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Office2010Firstrun_E6A7-image_2.png)

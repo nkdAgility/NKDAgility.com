@@ -1,6 +1,6 @@
 ---
 title: A perfect match TFS and DLR
-description: "Discover how to streamline TFS check-in policies using the Dynamic Language Runtime. Simplify your development process with innovative solutions in Visual Studio 2010!"
+description: Discover how to streamline TFS check-in policies using the Dynamic Language Runtime. Simplify your development process with innovative solutions in Visual Studio 2010!
 date: 2009-07-27
 creator: Martin Hinshelwood
 id: "96"
@@ -8,19 +8,20 @@ layout: blog
 resourceTypes: blog
 slug: a-perfect-match-tfs-and-dlr
 aliases:
-  - /blog/a-perfect-match-tfs-and-dlr
+- /blog/a-perfect-match-tfs-and-dlr
+- /a-perfect-match-tfs-and-dlr
 tags:
-  - code
-  - tfs-event-handler
-  - tools
-  - visual-studio
-  - vs2010
+- code
+- tfs-event-handler
+- tools
+- visual-studio
+- vs2010
 categories:
-  - code-and-complexity
-  - me
+- code-and-complexity
+- me
 preview: metro-visual-studio-2010-128-link-3-3.png
----
 
+---
 [![ConfigurationRequired](images/Aperfictmatch_701B-ConfigurationRequired_thumb-2-2.jpg)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Aperfictmatch_701B-ConfigurationRequired_2.jpg) I have always been annoyed with the mechanics of the Team Foundation Server check-in policies. I understand the limitations, but having to have a specific policy installed on every developers computer before you can use it is slightly ridicules and practically unmanageable. Why is there not a way to have a single installation that allows you to select any policy you want and have it execute in the desired manor on every client, including web clients?
 { .post-img }
 

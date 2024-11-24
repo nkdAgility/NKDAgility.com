@@ -1,6 +1,6 @@
 ---
 title: Could not find mappings for all states defined in 'Test Suit' work item type
-description: "Resolve the 'Could not find mappings for all states' error in TFS 2013.3 with our expert solutions. Ensure smooth test management and avoid case issues!"
+description: Resolve the 'Could not find mappings for all states' error in TFS 2013.3 with our expert solutions. Ensure smooth test management and avoid case issues!
 date: 2014-11-11
 creator: Martin Hinshelwood
 id: "10899"
@@ -8,19 +8,22 @@ layout: blog
 resourceTypes: blog
 slug: find-mappings-states-defined-test-suit-work-item-type
 aliases:
-  - /blog/find-mappings-states-defined-test-suit-work-item-type
+- /blog/find-mappings-states-defined-test-suit-work-item-type
+- /find-mappings-states-defined-test-suit-work-item-type
+- /could-not-find-mappings-for-all-states-defined-in-'test-suit'-work-item-type
+- /blog/could-not-find-mappings-for-all-states-defined-in-'test-suit'-work-item-type
 tags:
-  - mtm
-  - test-management
-  - tf400860
-  - tfs2010
-  - tfs2012
-  - tfs-2013
+- mtm
+- test-management
+- tf400860
+- tfs2010
+- tfs2012
+- tfs-2013
 categories:
-  - problems-and-puzzles
+- problems-and-puzzles
 preview: nakedalm-experts-visual-studio-alm-3-3.png
----
 
+---
 After upgrading to TFS 2013.3 you get some reports of errors in MTM from your users. Specifically they get a "Could not find mappings for all states defined in 'Test Suit' work item type" error when connecting. I have also seen "TF400860: TestManagement: Version 19, MinVersion: 19" in some cases in the web access.
 
 ![clip_image001](images/clip-image001-1-1.jpg "clip_image001")

@@ -1,6 +1,6 @@
 ---
 title: Installing MOSS 2007 from scratch
-description: "Learn how to install Microsoft Office SharePoint Server 2007 from scratch, including essential updates and configurations for a successful setup."
+description: Learn how to install Microsoft Office SharePoint Server 2007 from scratch, including essential updates and configurations for a successful setup.
 date: 2008-01-31
 creator: Martin Hinshelwood
 id: "253"
@@ -8,20 +8,21 @@ layout: blog
 resourceTypes: blog
 slug: installing-moss-2007-from-scratch
 aliases:
-  - /blog/installing-moss-2007-from-scratch
+- /blog/installing-moss-2007-from-scratch
+- /installing-moss-2007-from-scratch
 tags:
-  - configuration
-  - infrastructure
-  - moss
-  - moss2007
-  - sp2007
-  - tools
+- configuration
+- infrastructure
+- moss
+- moss2007
+- sp2007
+- tools
 categories:
-  - code-and-complexity
-  - upgrade-and-maintenance
+- code-and-complexity
+- upgrade-and-maintenance
 preview: nakedalm-logo-128-link-7-7.png
----
 
+---
 I am having occasion to rebuild my Microsoft Office SharePoint Server (MOSS) development server. In fact, I killed it by adding a Business Data Catalog (BDC) that pointed to a table that had just over a million rows... Now, maybe this would not have caused a problem if I was not using a single server deployment with SQL server on the same box...
 
 That's the way the OS crumbles ![smile_regular](images/smile_regular-9-9.gif)

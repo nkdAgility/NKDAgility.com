@@ -1,6 +1,6 @@
 ---
 title: Removing ACL's for dead AD accounts
-description: "Learn how to effectively remove ACLs for inactive Active Directory accounts with a practical application and troubleshooting tips. Streamline your infrastructure now!"
+description: Learn how to effectively remove ACLs for inactive Active Directory accounts with a practical application and troubleshooting tips. Streamline your infrastructure now!
 date: 2008-01-22
 creator: Martin Hinshelwood
 id: "262"
@@ -8,16 +8,19 @@ layout: blog
 resourceTypes: blog
 slug: removing-acls-for-dead-ad-accounts
 aliases:
-  - /blog/removing-acls-for-dead-ad-accounts
+- /blog/removing-acls-for-dead-ad-accounts
+- /removing-acls-for-dead-ad-accounts
+- /removing-acl's-for-dead-ad-accounts
+- /blog/removing-acl's-for-dead-ad-accounts
 tags:
-  - code
-  - infrastructure
-  - tools
+- code
+- infrastructure
+- tools
 categories:
-  - code-and-complexity
+- code-and-complexity
 preview: metro-binary-vb-128-link-1-1.png
----
 
+---
 [![image](images/RemovingACLsfordeadADaccounts_C3E6-image_thumb-5-5.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-RemovingACLsfordeadADaccounts_C3E6-image_2.png) I have run into a very vexing problem with one of my applications. I was asked to provide an application that would fin all of the permissions set against Active Directory accounts that have been since removed. These normally show up in the permissions dialogs for folders as the full SID of the account as there is no longer nay way to look it up in Active Directory.
 { .post-img }
 

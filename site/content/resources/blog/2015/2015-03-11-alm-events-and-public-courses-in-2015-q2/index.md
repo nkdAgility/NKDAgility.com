@@ -1,6 +1,6 @@
 ---
 title: ALM Events and public courses in 2015 Q2
-description: "Join Martin Hinshelwood for live online ALM training courses in Q2 2015, covering DevOps, Scrum, and project management. Enhance your skills today!"
+description: Join Martin Hinshelwood for live online ALM training courses in Q2 2015, covering DevOps, Scrum, and project management. Enhance your skills today!
 date: 2015-03-11
 creator: Martin Hinshelwood
 id: "11248"
@@ -8,17 +8,18 @@ layout: blog
 resourceTypes: blog
 slug: alm-events-and-public-courses-in-2015-q2
 aliases:
-  - /blog/alm-events-and-public-courses-in-2015-q2
+- /blog/alm-events-and-public-courses-in-2015-q2
+- /alm-events-and-public-courses-in-2015-q2
 tags:
-  - agile-portfolio-management
-  - configuration
-  - devops
-  - project-management
+- agile-portfolio-management
+- configuration
+- devops
+- project-management
 categories:
-  - events-and-presentations
+- events-and-presentations
 preview: metro-event-icon-1-1.png
----
 
+---
 I have had a lot of folks asking for dates of the public courses that I will be running in the next few months.
 
 When I moved back from the USA and started consulting I initially alighted at my parents' house as the house I was in before moving out was still being rented. Well that house was sold and so, for my one day a week visit home between engagements, I have been staying at my parents. I know… I am sure there is a joke in there somewhere. I have been getting many requests for online live ALM training, and unfortunately my parents has had no room to run them.

@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=TabMnJpXFVA
 aliases:
 - /resources/videos/TabMnJpXFVA
 - /resources/videos/why-are-you-going-the-immersive-scrum-training-route-
+- /resources/why-are-you-going-the-immersive-scrum-training-route-
 preview: https://i.ytimg.com/vi/TabMnJpXFVA/maxresdefault.jpg
 duration: 287
 isShort: false
@@ -51,4 +52,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=TabMnJpXFVA)
-

@@ -1,6 +1,6 @@
 ---
 title: Installing Visual Studio 2008 Team Suite on Windows 7
-description: "Learn how to install Visual Studio 2008 Team Suite on Windows 7 with step-by-step guidance, troubleshooting tips, and insights for a smooth setup experience."
+description: Learn how to install Visual Studio 2008 Team Suite on Windows 7 with step-by-step guidance, troubleshooting tips, and insights for a smooth setup experience.
 date: 2009-01-09
 creator: Martin Hinshelwood
 id: "147"
@@ -8,14 +8,15 @@ layout: blog
 resourceTypes: blog
 slug: installing-visual-studio-2008-team-suite-on-windows-7
 aliases:
-  - /blog/installing-visual-studio-2008-team-suite-on-windows-7
+- /blog/installing-visual-studio-2008-team-suite-on-windows-7
+- /installing-visual-studio-2008-team-suite-on-windows-7
 tags:
-  - tools
-  - visual-studio
-  - vs2008
+- tools
+- visual-studio
+- vs2008
 preview: metro-visual-studio-2005-128-link-9-9.png
----
 
+---
 I am installing VS2008 in a virtual environment, so this may not be exactly what you would get, but the purpose is to identify if VS2008 does indeed work on Windows 7 and what the experience is like.
 
 The first problem is that the auto run does not seam to function.

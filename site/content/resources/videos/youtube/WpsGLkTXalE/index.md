@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=WpsGLkTXalE
 aliases:
 - /resources/videos/WpsGLkTXalE
 - /resources/videos/7-signs-of-the-agile-apocalypse-silence
+- /resources/7-signs-of-the-agile-apocalypse-silence
 preview: https://i.ytimg.com/vi/WpsGLkTXalE/maxresdefault.jpg
 duration: 50
 isShort: true
@@ -62,4 +63,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=WpsGLkTXalE)
-

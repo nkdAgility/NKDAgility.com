@@ -1,6 +1,6 @@
 ---
 title: An adoption strategy for testing with Visual Studio 2010
-description: "Discover effective adoption strategies for Microsoft Test Manager in Visual Studio 2010. Enhance collaboration between developers and testers for better results!"
+description: Discover effective adoption strategies for Microsoft Test Manager in Visual Studio 2010. Enhance collaboration between developers and testers for better results!
 date: 2012-01-25
 creator: Martin Hinshelwood
 id: "4223"
@@ -8,18 +8,19 @@ layout: blog
 resourceTypes: blog
 slug: an-adoption-strategy-for-testing-with-visual-studio-2010
 aliases:
-  - /blog/an-adoption-strategy-for-testing-with-visual-studio-2010
+- /blog/an-adoption-strategy-for-testing-with-visual-studio-2010
+- /an-adoption-strategy-for-testing-with-visual-studio-2010
 tags:
-  - mtm
-  - nwcadence
-  - practices
-  - tfs
-  - tfs2010
+- mtm
+- nwcadence
+- practices
+- tfs
+- tfs2010
 categories:
-  - tools-and-techniques
+- tools-and-techniques
 preview: nakedalm-experts-visual-studio-alm-3-3.png
----
 
+---
 Its hard for developers to work with testers and its hard for testers to work with developers. There are many tools out there to help teams break down those barriers between them and I really like both the features and workflow of Microsoft Test Manager (MTM). While I am not a tester, I am a developer and the rich bugs that are produced by MTM help me reproduce that evasive bug and improves my relationship with what should be my teammates.
 
 [![image](images/image_thumb-1-1.png "image")](http://blog.hinshelwood.com/files/2012/01/image.png)  

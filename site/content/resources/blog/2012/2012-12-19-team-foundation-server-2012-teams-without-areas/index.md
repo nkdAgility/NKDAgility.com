@@ -1,6 +1,6 @@
 ---
 title: Teams without areas using a team field in TFS
-description: "Discover how to configure Teams without areas in TFS for enhanced project management. Learn the steps to optimize your workflow and boost team efficiency!"
+description: Discover how to configure Teams without areas in TFS for enhanced project management. Learn the steps to optimize your workflow and boost team efficiency!
 date: 2012-12-19
 creator: Martin Hinshelwood
 id: "9188"
@@ -8,23 +8,26 @@ layout: blog
 resourceTypes: blog
 slug: team-foundation-server-2012-teams-without-areas
 aliases:
-  - /blog/team-foundation-server-2012-teams-without-areas
+- /blog/team-foundation-server-2012-teams-without-areas
+- /team-foundation-server-2012-teams-without-areas
+- /teams-without-areas-using-a-team-field-in-tfs
+- /blog/teams-without-areas-using-a-team-field-in-tfs
 tags:
-  - area-path
-  - configuration
-  - infrastructure
-  - team-field
-  - tf400512
-  - tfs
-  - tfs2012
-  - tfs2012-1
-  - tools
+- area-path
+- configuration
+- infrastructure
+- team-field
+- tf400512
+- tfs
+- tfs2012
+- tfs2012-1
+- tools
 categories:
-  - code-and-complexity
-  - tools-and-techniques
+- code-and-complexity
+- tools-and-techniques
 preview: nakedalm-experts-visual-studio-alm-16-16.png
----
 
+---
 Did you know that you can use Teams without areas using a team field in TFS? There are numerous reasons to do this but the decision should not be taken lightly.
 
 Although not the default it will give you greater versatility in configuring for a [single Team Project](http://blog.hinshelwood.com/one-team-project/) with the ability to then use area solely for Product. Lets say that you have a bunch of products and four teams that work on those products. No team particularly owns those Products as you have many more Products than Teams and you have a single backlog of ordered work that represents work across all of those products.

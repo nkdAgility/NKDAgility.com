@@ -1,6 +1,6 @@
 ---
 title: Software Development Industrial Revolution
-description: "Explore the software development industrial revolution and learn how Team Foundation Server can enhance collaboration and speed in IT projects. Join the change!"
+description: Explore the software development industrial revolution and learn how Team Foundation Server can enhance collaboration and speed in IT projects. Join the change!
 date: 2007-01-30
 creator: Martin Hinshelwood
 id: "416"
@@ -8,26 +8,27 @@ layout: blog
 resourceTypes: blog
 slug: software-development-industrial-revolution
 aliases:
-  - /blog/software-development-industrial-revolution
+- /blog/software-development-industrial-revolution
+- /software-development-industrial-revolution
 tags:
-  - code
-  - configuration
-  - define
-  - develop
-  - fail
-  - infrastructure
-  - operate
-  - people
-  - practices
-  - process
-  - tools
+- code
+- configuration
+- define
+- develop
+- fail
+- infrastructure
+- operate
+- people
+- practices
+- process
+- tools
 categories:
-  - measure-and-learn
-  - people-and-process
-  - tools-and-techniques
+- measure-and-learn
+- people-and-process
+- tools-and-techniques
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 I found out the other day that there is another implementation of TFS in the company. Not even the principal UK Architect, who recently visited the US knew of this. I do not think that it has been communicated outside of the department. That is an inevitable aspect of such a large company. The only way to get things working is to keep your head down until you have a viable solution, otherwise you get blown out of the water as soon as department z resizes that you product my do away with their solution for one part of of a larger system. Sillyness...
 
 The only way to get ahead in this industry is to get the software out of the door more quickly than the competition. Last year, our company made billions because they worked out a way to get the data to the traders 600 milliseconds faster than the competition! Now, this is an extreme example, but it highlights the speed of the industry.

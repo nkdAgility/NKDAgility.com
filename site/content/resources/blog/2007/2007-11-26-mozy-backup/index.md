@@ -1,6 +1,6 @@
 ---
 title: Mozy Backup
-description: "Discover Mozy Backup, an affordable online backup solution with 2GB free space. Simple setup and reliable service to protect your digital life. Try it now!"
+description: Discover Mozy Backup, an affordable online backup solution with 2GB free space. Simple setup and reliable service to protect your digital life. Try it now!
 date: 2007-11-26
 creator: Martin Hinshelwood
 id: "287"
@@ -8,12 +8,13 @@ layout: blog
 resourceTypes: blog
 slug: mozy-backup
 aliases:
-  - /blog/mozy-backup
+- /blog/mozy-backup
+- /mozy-backup
 categories:
-  - me
+- me
 preview: nakedalm-logo-128-link-3-3.png
----
 
+---
 I was looking for an online backup solution and [Scott Hanselman](http://www.hanselman.com/blog/OnLosingDataAndAFamilyBackupStrategy.aspx) provided it for me: Thanks Scott and good luck with all the [new stuff](http://www.hanselman.com/blog/NewJobNewHouseNewBabyAndDesigningATotallyNewHomeOffice.aspx) :).
 
 These days, with all of your...lets call it "stuff" being mostly digital. The photos of the kids, your correspondence, all your work... You need backup...

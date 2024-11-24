@@ -1,6 +1,6 @@
 ---
 title: Why I think VB.NET is a better choice than C#
-description: "Discover why VB.NET may be a superior choice over C# for readability, accessibility, and efficiency, especially for developers with dyslexia."
+description: Discover why VB.NET may be a superior choice over C# for readability, accessibility, and efficiency, especially for developers with dyslexia.
 date: 2007-08-06
 creator: Martin Hinshelwood
 id: "340"
@@ -8,17 +8,20 @@ layout: blog
 resourceTypes: blog
 slug: why-i-think-vb-net-is-a-better-choice-than-c
 aliases:
-  - /blog/why-i-think-vb-net-is-a-better-choice-than-c
+- /blog/why-i-think-vb-net-is-a-better-choice-than-c
+- /why-i-think-vb-net-is-a-better-choice-than-c
+- /why-i-think-vb-net-is-a-better-choice-than-c-
+- /blog/why-i-think-vb-net-is-a-better-choice-than-c-
 tags:
-  - dyslexia
-  - tools
-  - visual-basic
-  - visual-basic-9
+- dyslexia
+- tools
+- visual-basic
+- visual-basic-9
 categories:
-  - me
+- me
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 The reasons I think that VB.NET is better than C# are many, but I will try to put some of them down in a coherent manor unlike the usual C# developer that can only come up with "[vb is a language for mediocre programmers...anyway looks ugly and smells ugly..](http://blog.hinshelwood.com/archive/2007/08/05/114415.aspx#140605)" (Hmm, he must have thought long and hard to come up with that).
 
 **Reason 1 - Business sense**

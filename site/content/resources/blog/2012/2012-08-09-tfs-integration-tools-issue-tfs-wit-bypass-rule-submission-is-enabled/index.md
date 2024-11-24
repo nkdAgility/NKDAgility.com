@@ -1,6 +1,6 @@
 ---
-title: "TFS Integration Tools - Issue: TFS WIT bypass-rule submission is enabled"
-description: "Resolve TFS WIT bypass-rule submission errors with our guide. Learn how to add accounts to the Service Accounts Group and streamline your TFS Integration."
+title: 'TFS Integration Tools - Issue: TFS WIT bypass-rule submission is enabled'
+description: Resolve TFS WIT bypass-rule submission errors with our guide. Learn how to add accounts to the Service Accounts Group and streamline your TFS Integration.
 date: 2012-08-09
 creator: Martin Hinshelwood
 id: "7104"
@@ -8,16 +8,19 @@ layout: blog
 resourceTypes: blog
 slug: tfs-integration-tools-issue-tfs-wit-bypass-rule-submission-is-enabled
 aliases:
-  - /blog/tfs-integration-tools-issue-tfs-wit-bypass-rule-submission-is-enabled
+- /blog/tfs-integration-tools-issue-tfs-wit-bypass-rule-submission-is-enabled
+- /tfs-integration-tools-issue-tfs-wit-bypass-rule-submission-is-enabled
+- /tfs-integration-tools---issue--tfs-wit-bypass-rule-submission-is-enabled
+- /blog/tfs-integration-tools---issue--tfs-wit-bypass-rule-submission-is-enabled
 tags:
-  - puzzles
-  - tfs
-  - tfs-integration-platform
+- puzzles
+- tfs
+- tfs-integration-platform
 categories:
-  - problems-and-puzzles
+- problems-and-puzzles
 preview: metro-problem-icon-5-5.png
----
 
+---
 When you run the TFS Integration Platform for the first time with TFS WIT bypass-rule submission enabled you will likely get the following error:
 
 [![image](images/image_thumb37-2-2.png "image")](http://blog.hinshelwood.com/files/2012/09/image37.png)  

@@ -1,6 +1,6 @@
 ---
 title: What do you do with a Work Item History Not Found Conflict Type Details
-description: "Discover solutions for TFS migration conflicts in work item history. Learn how to tackle 'not found' errors and streamline your integration process."
+description: Discover solutions for TFS migration conflicts in work item history. Learn how to tackle 'not found' errors and streamline your integration process.
 date: 2011-06-04
 creator: Martin Hinshelwood
 id: "3460"
@@ -8,18 +8,19 @@ layout: blog
 resourceTypes: blog
 slug: what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
 aliases:
-  - /blog/what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
+- /blog/what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
+- /what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
 tags:
-  - code
-  - nwcadence
-  - tfs
-  - tfs2010
-  - tools
+- code
+- nwcadence
+- tfs
+- tfs2010
+- tools
 categories:
-  - code-and-complexity
+- code-and-complexity
 preview: metro-binary-vb-128-link-4-4.png
----
 
+---
 ![](images/image_thumb-1-1.png)
 { .post-img }
 

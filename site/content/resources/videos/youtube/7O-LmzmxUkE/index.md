@@ -3,6 +3,7 @@ title: Scrum is like communism, it doesn't work. Myth 1.
 description: "Uncover the truth behind Scrum myths! Join Martin as he reveals the real purpose of Scrum events and why they matter in agile. \U0001F3A5\U0001F680 #Scrum #Agile"
 date: 2024-02-27
 videoId: 7O-LmzmxUkE
+source: internal
 url: /resources/videos/:slug
 slug: scrum-is-like-communism-it-doesn-t-work-myth-1
 preview: https://i.ytimg.com/vi/7O-LmzmxUkE/maxresdefault.jpg
@@ -12,6 +13,7 @@ aliases:
 - /resources/scrum-is-like-communism-it-doesnt-work-myth-1
 - /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-1
 - /resources/videos/7O-LmzmxUkE
+- /resources/scrum-is-like-communism-it-doesn't-work-myth-1
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -82,9 +84,3 @@ The essence of Scrum lies in its ability to turn routine engagements into meanin
 Remember, the goal of implementing Scrum isn't to fill your calendar with meetings but to create a rhythm of inspection, adaptation, and progress that moves your team closer to its goals with every cycle.
 
 _If you've enjoyed this demystification of Scrum events and are eager to dive deeper into Agile, Scrum, or DevOps, don't hesitate to reach out. Let's continue the conversation over a coffee chat and explore how we can bring the true spirit of empiricism to life in your teams._
-
-
-
-
-
-

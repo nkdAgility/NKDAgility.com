@@ -1,6 +1,6 @@
 ---
 title: Creating a better TFS Sticky Buddy (Core)
-description: "Explore innovative techniques for enhancing TFS Sticky Buddy with WPF. Learn to manage hierarchical data effectively and improve your coding skills!"
+description: Explore innovative techniques for enhancing TFS Sticky Buddy with WPF. Learn to manage hierarchical data effectively and improve your coding skills!
 date: 2008-04-14
 creator: Martin Hinshelwood
 id: "241"
@@ -8,19 +8,22 @@ layout: blog
 resourceTypes: blog
 slug: creating-a-better-tfs-sticky-buddy-core
 aliases:
-  - /blog/creating-a-better-tfs-sticky-buddy-core
+- /blog/creating-a-better-tfs-sticky-buddy-core
+- /creating-a-better-tfs-sticky-buddy-core
+- /creating-a-better-tfs-sticky-buddy-(core)
+- /blog/creating-a-better-tfs-sticky-buddy-(core)
 tags:
-  - code
-  - infrastructure
-  - tfs-sticky-buddy
-  - tools
-  - wit
-  - wpf
+- code
+- infrastructure
+- tfs-sticky-buddy
+- tools
+- wit
+- wpf
 categories:
-  - code-and-complexity
+- code-and-complexity
 preview: metro-binary-vb-128-link-2-2.png
----
 
+---
 [![TFSStickyBuddy_Core_ClassDiagram](images/CreatingabetterTFSStickyBuddyCore_8719-TFSStickyBuddy_Core_ClassDiagram_thumb_1-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-CreatingabetterTFSStickyBuddyCore_8719-TFSStickyBuddy_Core_ClassDiagram_4.png) Over the last week I have been looking at the source for the [Family.Show](http://www.vertigo.com/familyshow.aspx) application from [Vertigo](http://www.vertigo.com/). I needed to look at methods of presentation of hierarchical information graphically using WPF and I saw this as a good representation of that sort of data. So I se about not only converting it to VB.NET but adding generics to the mix.
 { .post-img }
 

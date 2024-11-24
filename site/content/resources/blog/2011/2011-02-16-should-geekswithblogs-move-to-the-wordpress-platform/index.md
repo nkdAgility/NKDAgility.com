@@ -1,6 +1,6 @@
 ---
 title: Should GeeksWithBlogs move to the Wordpress Platform?
-description: "Explore the debate on migrating GeeksWithBlogs to WordPress. Join the conversation and vote for enhanced features and better blogging capabilities!"
+description: Explore the debate on migrating GeeksWithBlogs to WordPress. Join the conversation and vote for enhanced features and better blogging capabilities!
 date: 2011-02-16
 creator: Martin Hinshelwood
 id: "9895"
@@ -8,14 +8,17 @@ layout: blog
 resourceTypes: blog
 slug: should-geekswithblogs-move-to-the-wordpress-platform
 aliases:
-  - /blog/should-geekswithblogs-move-to-the-wordpress-platform
+- /blog/should-geekswithblogs-move-to-the-wordpress-platform
+- /should-geekswithblogs-move-to-the-wordpress-platform
+- /should-geekswithblogs-move-to-the-wordpress-platform-
+- /blog/should-geekswithblogs-move-to-the-wordpress-platform-
 tags:
-  - wordpress
+- wordpress
 categories:
-  - me
+- me
 preview: nakedalm-logo-128-link-4-4.png
----
 
+---
 [![](https://s3.amazonaws.com/uploads.uservoice.com/logo/subdomain/48516/original/gwb_small.gif?1274098879)](http://geekswithblogs.uservoice.com/forums/57394-suggestions-for-the-community/suggestions/1494319-move-to-wordpress-as-a-platform?ref=title)
 { .post-img }
 

@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=Q2Fo3sM6BVo
 aliases:
 - /resources/videos/Q2Fo3sM6BVo
 - /resources/videos/the-scrum-framework!
+- /resources/the-scrum-framework!
 preview: https://i.ytimg.com/vi/Q2Fo3sM6BVo/maxresdefault.jpg
 duration: 891
 isShort: false
@@ -34,4 +35,3 @@ If you found this video insightful, please like this video and subscribe to our 
 Find us at https://nkdagility.com and use https://nkdagility.com/book-online to book a free consultation. We offer public and private training as well as consulting to help you get more from Scrum, Kanban, DevOps, and BetaCodex.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Q2Fo3sM6BVo)
-

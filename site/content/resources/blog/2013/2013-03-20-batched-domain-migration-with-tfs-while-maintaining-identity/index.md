@@ -1,6 +1,6 @@
 ---
 title: Batched domain migration with TFS while maintaining Identity
-description: "Learn how to execute a batched domain migration with TFS while preserving user identities. Avoid pitfalls and ensure a smooth transition for your team."
+description: Learn how to execute a batched domain migration with TFS while preserving user identities. Avoid pitfalls and ensure a smooth transition for your team.
 date: 2013-03-20
 creator: Martin Hinshelwood
 id: "9324"
@@ -8,22 +8,23 @@ layout: blog
 resourceTypes: blog
 slug: batched-domain-migration-with-tfs-while-maintaining-identity
 aliases:
-  - /blog/batched-domain-migration-with-tfs-while-maintaining-identity
+- /blog/batched-domain-migration-with-tfs-while-maintaining-identity
+- /batched-domain-migration-with-tfs-while-maintaining-identity
 tags:
-  - active-directory
-  - configuration
-  - infrastructure
-  - operational
-  - tactical
-  - tfs
-  - tfs2012-2
-  - tools
+- active-directory
+- configuration
+- infrastructure
+- operational
+- tactical
+- tfs
+- tfs2012-2
+- tools
 categories:
-  - code-and-complexity
-  - tools-and-techniques
+- code-and-complexity
+- tools-and-techniques
 preview: nakedalm-experts-visual-studio-alm-5-5.png
----
 
+---
 If you are moving from one domain to another, but you have lots of users you may do a batched domain migration with Visual Studio 2012 Team Foundation Server. Make suer that you read all of the fine print and don't get caught with duplicate Identities and no traceability.
 
 In this case you need to carefully mange the users over to the new environment as Visual Studio 2012 Team Foundation Server actively syncs all domain accounts into its internal identity system. Why do you care? Well, lets suppose you have a domain group called domain1domaingroup1 and this group contains domain1user1 and domain1user2.

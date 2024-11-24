@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=N0Ci9PQQRLc
 aliases:
 - /resources/videos/N0Ci9PQQRLc
 - /resources/videos/how-does-your-real-world-experience-translate-into-your-training-style-
+- /resources/how-does-your-real-world-experience-translate-into-your-training-style-
 preview: https://i.ytimg.com/vi/N0Ci9PQQRLc/maxresdefault.jpg
 duration: 423
 isShort: false
@@ -54,4 +55,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=N0Ci9PQQRLc)
-

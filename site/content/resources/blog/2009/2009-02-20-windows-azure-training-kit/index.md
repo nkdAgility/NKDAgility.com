@@ -1,6 +1,6 @@
 ---
 title: Windows Azure Training Kit
-description: "Explore the Windows Azure Training Kit, featuring hands-on labs and demos to master Azure services. Elevate your cloud skills with expert guidance!"
+description: Explore the Windows Azure Training Kit, featuring hands-on labs and demos to master Azure services. Elevate your cloud skills with expert guidance!
 date: 2009-02-20
 creator: Martin Hinshelwood
 id: "136"
@@ -8,15 +8,16 @@ layout: blog
 resourceTypes: blog
 slug: windows-azure-training-kit
 aliases:
-  - /blog/windows-azure-training-kit
+- /blog/windows-azure-training-kit
+- /windows-azure-training-kit
 tags:
-  - azure
-  - tfs
-  - tools
-  - wpf
+- azure
+- tfs
+- tools
+- wpf
 preview: metro-cloud-azure-link-3-1.png
----
 
+---
 Microsoft has just released a new [Training Kit](http://go.microsoft.com/fwlink/?LinkID=130354)  for [Windows Azure](http://www.microsoft.com/azure/windowsazure.mspx) that updates the one released at the PDC. Not since [Windows Communication Foundation](http://wcf.netfx3.com "Windows Communication Foundation") and WPF have I been so exited about a new technology, but [Windows Azure](http://www.microsoft.com/azure/windowsazure.mspx) is it.
 
 [![servicesPlatform](images/WindowsAzureTrainingKit_7126-servicesPlatform_thumb-2-3.jpg)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-WindowsAzureTrainingKit_7126-servicesPlatform_2.jpg)

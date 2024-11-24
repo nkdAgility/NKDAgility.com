@@ -3,6 +3,7 @@ title: How does the APS course help people apply scrum effectively?
 description: Discover how the APS course transforms Scrum learning into a hands-on experience, empowering teams to tackle complex challenges effectively.
 date: 2023-01-26
 videoId: grJFd9-R5Pw
+source: internal
 url: /resources/videos/:slug
 slug: how-does-the-aps-course-help-people-apply-scrum-effectively
 preview: https://i.ytimg.com/vi/grJFd9-R5Pw/maxresdefault.jpg
@@ -12,6 +13,7 @@ aliases:
 - /resources/how-does-the-aps-course-help-people-apply-scrum-effectively
 - /resources/videos/how-does-the-aps-course-help-people-apply-scrum-effectively-
 - /resources/videos/grJFd9-R5Pw
+- /resources/how-does-the-aps-course-help-people-apply-scrum-effectively-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -102,9 +104,3 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-
-
-
-
-

@@ -1,6 +1,6 @@
 ---
-title: "Project Server 2013 Issue – TF294026: The following work item field does not exist"
-description: "Resolve the TF294026 error in Project Server 2013 with our guide. Learn how to add missing work item fields for seamless Team Foundation Server integration."
+title: 'Project Server 2013 Issue – TF294026: The following work item field does not exist'
+description: Resolve the TF294026 error in Project Server 2013 with our guide. Learn how to add missing work item fields for seamless Team Foundation Server integration.
 date: 2012-11-02
 creator: Martin Hinshelwood
 id: "9103"
@@ -8,25 +8,28 @@ layout: blog
 resourceTypes: blog
 slug: project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
 aliases:
-  - /blog/project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
+- /blog/project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
+- /project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
+- /project-server-2013-issue-–-tf294026--the-following-work-item-field-does-not-exist
+- /blog/project-server-2013-issue-–-tf294026--the-following-work-item-field-does-not-exist
 tags:
-  - configuration
-  - infrastructure
-  - project-server
-  - ps2013
-  - puzzles
-  - sharepoint
-  - sp2013
-  - tf294026
-  - tfs
-  - tfs2012
-  - tools
+- configuration
+- infrastructure
+- project-server
+- ps2013
+- puzzles
+- sharepoint
+- sp2013
+- tf294026
+- tfs
+- tfs2012
+- tools
 categories:
-  - code-and-complexity
-  - problems-and-puzzles
+- code-and-complexity
+- problems-and-puzzles
 preview: metro-problem-icon-3-3.png
----
 
+---
 When you try to upload the default field mappings for Project Server 2013 integration with Team Foundation Server 2012 you can encounter a TF294026: The following work item field does not exist error.
 
 [![TF294026: The following work item field does not exist](images/image_thumb26-1-1.png "TF294026: The following work item field does not exist")](http://blog.hinshelwood.com/files/2012/11/image26.png)  

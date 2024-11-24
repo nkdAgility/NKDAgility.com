@@ -1,6 +1,6 @@
 ---
 title: How might we implement the Change Iteration Automation for the Tfs Automation Platform
-description: "Explore the implementation of Change Iteration Automation for the TFS Automation Platform, enhancing efficiency in managing queries across sprints."
+description: Explore the implementation of Change Iteration Automation for the TFS Automation Platform, enhancing efficiency in managing queries across sprints.
 date: 2011-06-01
 creator: Martin Hinshelwood
 id: "3383"
@@ -8,19 +8,20 @@ layout: blog
 resourceTypes: blog
 slug: how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
 aliases:
-  - /blog/how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
+- /blog/how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
+- /how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
 tags:
-  - nwcadence
-  - tfs
-  - tfs2010
-  - tfsap
-  - tools
-  - visual-studio
-  - vs2010
-  - vsalmrangers
+- nwcadence
+- tfs
+- tfs2010
+- tfsap
+- tools
+- visual-studio
+- vs2010
+- vsalmrangers
 preview: metro-visual-studio-2010-128-link-4-4.png
----
 
+---
 [![Turk-Automaton](images/Turk-Automaton_thumb-5-5.gif "Turk-Automaton")](http://blog.hinshelwood.com/files/2011/06/Turk-Automaton.gif)
 { .post-img }
 

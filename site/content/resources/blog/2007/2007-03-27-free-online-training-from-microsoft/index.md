@@ -1,6 +1,6 @@
 ---
 title: Free Online training from Microsoft
-description: "Unlock your potential with free online training from Microsoft! Explore workshops and courses on Visual Studio 2005 and SQL Server 2005. Limited time only!"
+description: Unlock your potential with free online training from Microsoft! Explore workshops and courses on Visual Studio 2005 and SQL Server 2005. Limited time only!
 date: 2007-03-27
 creator: Martin Hinshelwood
 id: "423"
@@ -8,18 +8,19 @@ layout: blog
 resourceTypes: blog
 slug: free-online-training-from-microsoft
 aliases:
-  - /blog/free-online-training-from-microsoft
+- /blog/free-online-training-from-microsoft
+- /free-online-training-from-microsoft
 tags:
-  - tfs
-  - tfs2010
-  - tools
-  - visual-studio
-  - vs2005
+- tfs
+- tfs2010
+- tools
+- visual-studio
+- vs2005
 categories:
-  - me
+- me
 preview: metro-visual-studio-2005-128-link-1-1.png
----
 
+---
 Check out this blog from Steve. You will need to use the code in the comments as the other one is maxed out!
 
 [Free Online Training...](http://geekswithblogs.net/thesenator/archive/2007/03/26/109865.aspx)

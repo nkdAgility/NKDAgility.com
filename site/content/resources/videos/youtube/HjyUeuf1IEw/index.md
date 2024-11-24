@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=HjyUeuf1IEw
 aliases:
 - /resources/videos/HjyUeuf1IEw
 - /resources/videos/20th-may-2020-office-hours-ask-me-anything
+- /resources/20th-may-2020-office-hours-ask-me-anything
 preview: https://i.ytimg.com/vi/HjyUeuf1IEw/maxresdefault.jpg
 duration: 1331
 isShort: false
@@ -28,4 +29,3 @@ Bring your questions on any topic from DevOps to Agility and Martin will do his 
 If you have a sensitive question that you want answered but don’t want to ask publicly do so on https://nkdagility.net/ask
 
 [Watch on YouTube](https://www.youtube.com/watch?v=HjyUeuf1IEw)
-

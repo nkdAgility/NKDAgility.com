@@ -3,6 +3,7 @@ title: What is a common mistake made by rookie agile consultants?
 description: Discover rookie mistakes made by agile consultants and learn how to identify the right expert for your team's agile journey in this insightful video!
 date: 2023-03-27
 videoId: y0dg0Sqs4xw
+source: internal
 url: /resources/videos/:slug
 slug: what-is-a-common-mistake-made-by-rookie-agile-consultants
 preview: https://i.ytimg.com/vi/y0dg0Sqs4xw/maxresdefault.jpg
@@ -12,6 +13,7 @@ aliases:
 - /resources/what-is-a-common-mistake-made-by-rookie-agile-consultants
 - /resources/videos/what-is-a-common-mistake-made-by-rookie-agile-consultants-
 - /resources/videos/y0dg0Sqs4xw
+- /resources/what-is-a-common-mistake-made-by-rookie-agile-consultants-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -101,9 +103,3 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-
-
-
-
-

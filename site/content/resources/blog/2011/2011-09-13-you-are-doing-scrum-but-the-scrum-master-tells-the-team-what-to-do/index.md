@@ -1,6 +1,6 @@
 ---
 title: You are doing Scrum but the Scrum Master tells the team what to do!
-description: "Discover why a Scrum Master shouldn't dictate tasks to the team. Empower self-organization and enhance accountability for better project outcomes."
+description: Discover why a Scrum Master shouldn't dictate tasks to the team. Empower self-organization and enhance accountability for better project outcomes.
 date: 2011-09-13
 creator: Martin Hinshelwood
 id: "3778"
@@ -8,19 +8,22 @@ layout: blog
 resourceTypes: blog
 slug: you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do
 aliases:
-  - /blog/you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do
+- /blog/you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do
+- /you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do
+- /you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do-
+- /blog/you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do-
 tags:
-  - agile
-  - develop
-  - nwcadence
-  - people
-  - process
-  - scrum
+- agile
+- develop
+- nwcadence
+- people
+- process
+- scrum
 categories:
-  - people-and-process
+- people-and-process
 preview: nakedalm-experts-professional-scrum-1-1.png
----
 
+---
 If you are doing Scrum but the Scrum Master tells the team what to do then you may be missing the point.
 
 Ultimately the Scrum Master should never tell the Development Team what to do and they should make sure that the Development Team has both the knowledge and the skills to work things out for themselves. This is critical to the teams ability to self organise going forward because we all learn by the mistakes we make.

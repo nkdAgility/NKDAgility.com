@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=qnWVeumTKcE
 aliases:
 - /resources/videos/qnWVeumTKcE
 - /resources/videos/a-view-into-the-psm-training-from-scrum-org
+- /resources/a-view-into-the-psm-training-from-scrum-org
 preview: https://i.ytimg.com/vi/qnWVeumTKcE/maxresdefault.jpg
 duration: 622
 isShort: false
@@ -26,4 +27,3 @@ source: youtube
 
 
 [Watch on YouTube](https://www.youtube.com/watch?v=qnWVeumTKcE)
-

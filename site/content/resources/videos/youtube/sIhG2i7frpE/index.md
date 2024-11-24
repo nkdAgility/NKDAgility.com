@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=sIhG2i7frpE
 aliases:
 - /resources/videos/sIhG2i7frpE
 - /resources/videos/improving-workflow-with-kanban
+- /resources/improving-workflow-with-kanban
 preview: https://i.ytimg.com/vi/sIhG2i7frpE/maxresdefault.jpg
 duration: 50
 isShort: true
@@ -29,4 +30,3 @@ source: youtube
 Improving workflow with #kanban. Visit https://www.nkdagility.com #agile #agileframework #kanban
 
 [Watch on YouTube](https://www.youtube.com/watch?v=sIhG2i7frpE)
-

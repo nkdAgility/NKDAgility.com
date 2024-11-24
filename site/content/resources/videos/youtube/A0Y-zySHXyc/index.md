@@ -3,6 +3,7 @@ title: What are the barriers that prevent developers from fully accepting a Prod
 description: Explore the barriers hindering developers from accepting product owners' decisions. Discover the importance of respect and accountability in agile teams!
 date: 2023-12-20
 videoId: A0Y-zySHXyc
+source: internal
 url: /resources/videos/:slug
 slug: what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-decision-maker
 preview: https://i.ytimg.com/vi/A0Y-zySHXyc/maxresdefault.jpg
@@ -12,6 +13,7 @@ aliases:
 - /resources/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-decision-maker
 - /resources/videos/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-word
 - /resources/videos/A0Y-zySHXyc
+- /resources/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-word
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -104,9 +106,3 @@ A Product Owner collaborates with a stakeholder, only for the latter to change s
 To ensure seamless collaboration, addressing the issue of accountability is paramount.  
 
 Let's conclude by revisiting the significance of fostering respect and open communication.
-
-
-
-
-
-

@@ -1,6 +1,6 @@
 ---
 title: I always wanted to be an Admiral!
-description: "Join Martin Hinshelwood as he reflects on his dream of becoming an Admiral, inspired by Battlestar Galactica. Dive into personal insights and fun quizzes!"
+description: Join Martin Hinshelwood as he reflects on his dream of becoming an Admiral, inspired by Battlestar Galactica. Dive into personal insights and fun quizzes!
 date: 2008-02-03
 creator: Martin Hinshelwood
 id: "251"
@@ -8,12 +8,15 @@ layout: blog
 resourceTypes: blog
 slug: i-always-wanted-to-be-an-admiral
 aliases:
-  - /blog/i-always-wanted-to-be-an-admiral
+- /blog/i-always-wanted-to-be-an-admiral
+- /i-always-wanted-to-be-an-admiral
+- /i-always-wanted-to-be-an-admiral-
+- /blog/i-always-wanted-to-be-an-admiral-
 categories:
-  - me
+- me
 preview: nakedalm-logo-128-link-2-2.png
----
 
+---
 [Which Battlestar Galactica Character Are You?  
 ![](images/bsg-adama-1-1.jpg)](http://www.buddytv.com/closedquiz/closed-quiz.aspx?quiz=21)
 { .post-img }

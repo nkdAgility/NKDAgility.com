@@ -1,6 +1,6 @@
 ---
 title: Introduction to Visual Studio 11
-description: "Explore the features of Visual Studio 11 and TFS Preview with insights, demos, and tips from Martin Hinshelwood. Stay updated on modern development tools!"
+description: Explore the features of Visual Studio 11 and TFS Preview with insights, demos, and tips from Martin Hinshelwood. Stay updated on modern development tools!
 date: 2012-02-17
 creator: Martin Hinshelwood
 id: "4393"
@@ -8,23 +8,24 @@ layout: blog
 resourceTypes: blog
 slug: introduction-to-visual-studio-11
 aliases:
-  - /blog/introduction-to-visual-studio-11
+- /blog/introduction-to-visual-studio-11
+- /introduction-to-visual-studio-11
 tags:
-  - configuration
-  - develop
-  - infrastructure
-  - modern-alm
-  - nwcadence
-  - tfs2012
-  - tf-service
-  - tools
-  - visual-studio
-  - vs2012
+- configuration
+- develop
+- infrastructure
+- modern-alm
+- nwcadence
+- tfs2012
+- tf-service
+- tools
+- visual-studio
+- vs2012
 categories:
-  - tools-and-techniques
+- tools-and-techniques
 preview: nakedalm-experts-visual-studio-alm-2-2.png
----
 
+---
 [![image](images/image_thumb1.png)](http://blog.nwcadence.com/wp-content/uploads/2012/02/image1.png)Over on the Northwest Cadence blog we are doing a big push on Visual Studio 11 (dev11) content.  I and my colleagues will be delivering content on Visual Studio 11,  Visual Studio 11 Team Foundation Server & Visual Studio Team Foundation Service (AKA TFS Preview).
 { .post-img }
 

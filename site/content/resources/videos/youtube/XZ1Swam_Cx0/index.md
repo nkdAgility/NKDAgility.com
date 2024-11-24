@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=XZ1Swam_Cx0
 aliases:
 - /resources/videos/XZ1Swam_Cx0
 - /resources/videos/antichrist!-7-harbingers-agile-apocalypse-but-shorter!
+- /resources/antichrist!-7-harbingers-agile-apocalypse-but-shorter!
 preview: https://i.ytimg.com/vi/XZ1Swam_Cx0/maxresdefault.jpg
 duration: 59
 isShort: true
@@ -76,4 +77,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=XZ1Swam_Cx0)
-

@@ -1,6 +1,6 @@
 ---
 title: Upgrading Team Foundation Server 2008 to 2010
-description: "Learn how to upgrade Team Foundation Server 2008 to 2010 seamlessly. Follow expert tips and best practices to ensure a smooth transition for your team."
+description: Learn how to upgrade Team Foundation Server 2008 to 2010 seamlessly. Follow expert tips and best practices to ensure a smooth transition for your team.
 date: 2010-05-03
 creator: Martin Hinshelwood
 id: "45"
@@ -8,24 +8,25 @@ layout: blog
 resourceTypes: blog
 slug: upgrading-team-foundation-server-2008-to-2010
 aliases:
-  - /blog/upgrading-team-foundation-server-2008-to-2010
+- /blog/upgrading-team-foundation-server-2008-to-2010
+- /upgrading-team-foundation-server-2008-to-2010
 tags:
-  - scrum
-  - sharepoint
-  - spf2010
-  - ssw
-  - tfs
-  - tfs2005
-  - tfs2008
-  - tfs2010
-  - tools
-  - visual-studio
-  - vs2005
-  - vs2008
-  - vs2010
+- scrum
+- sharepoint
+- spf2010
+- ssw
+- tfs
+- tfs2005
+- tfs2008
+- tfs2010
+- tools
+- visual-studio
+- vs2005
+- vs2008
+- vs2010
 preview: metro-visual-studio-2010-128-link-1-1.png
----
 
+---
 ![vs2010alm](images/UpgradingtoTeamFoundationServer2010_C1D3-vs2010alm_-13-13.png)I am sure you will have seen my [posts on upgrading](http://blog.hinshelwood.com/archive/2010/04/12/_upgrading-from-tfs-2010-rc-to-tfs-2010-rtm-done.aspx) our internal Team Foundation Server from TFS2008 to TFS2010 Beta 2, RC and RTM, but what about a fresh upgrade of TFS2008 to TFS2010 using the RTM version of TFS. One of our clients is taking the plunge with TFS2010, so I have the job of doing the upgrade.
 { .post-img }
 

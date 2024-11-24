@@ -1,6 +1,6 @@
 ---
 title: The long wait is over
-description: "Discover the excitement of Windows 7's release! Learn how it outshines Vista and why it's the OS you've been waiting for. Upgrade your experience now!"
+description: Discover the excitement of Windows 7's release! Learn how it outshines Vista and why it's the OS you've been waiting for. Upgrade your experience now!
 date: 2009-08-06
 creator: Martin Hinshelwood
 id: "93"
@@ -8,14 +8,15 @@ layout: blog
 resourceTypes: blog
 slug: the-long-wait-is-over
 aliases:
-  - /blog/the-long-wait-is-over
+- /blog/the-long-wait-is-over
+- /the-long-wait-is-over
 tags:
-  - tools
+- tools
 categories:
-  - me
+- me
 preview: nakedalm-logo-128-link-2-2.png
----
 
+---
 Have you been waiting for a long time for [Windows 7](http://www.microsoft.com/windows/windows-7/)? Well I have.. I have been able to use Beta 1 and the RC for a good while now, and it surprised me that the Windows 7 Beta 1 was more stable, responsive and cleaner than Vista was after Service Pack 3.
 
 [![image](images/afdc55547e00_C28F-image_thumb-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-afdc55547e00_C28F-image_2.png)

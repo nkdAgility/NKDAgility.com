@@ -1,6 +1,6 @@
 ---
 title: The benefits of Visual Studio Online for the Enterprise
-description: "Discover the advantages of Visual Studio Online for enterprises. Learn how it enhances agility, streamlines processes, and supports cloud-based development."
+description: Discover the advantages of Visual Studio Online for enterprises. Learn how it enhances agility, streamlines processes, and supports cloud-based development.
 date: 2015-01-26
 creator: Martin Hinshelwood
 id: "11158"
@@ -8,17 +8,20 @@ layout: blog
 resourceTypes: blog
 slug: benefits-visual-studio-online-enterprise
 aliases:
-  - /blog/benefits-visual-studio-online-enterprise
+- /blog/benefits-visual-studio-online-enterprise
+- /benefits-visual-studio-online-enterprise
+- /the-benefits-of-visual-studio-online-for-the-enterprise
+- /blog/the-benefits-of-visual-studio-online-for-the-enterprise
 tags:
-  - enterprise
-  - tfs
-  - value
-  - vsteamservices
+- enterprise
+- tfs
+- value
+- vsteamservices
 categories:
-  - tools-and-techniques
+- tools-and-techniques
 preview: nakedalm-experts-visual-studio-alm-6-6.png
----
 
+---
 I last posted on [why you should use Visual Studio ALM](http://nkdagility.com/why-should-i-use-visual-studio-alm-whether-tfs-or-vso/) due to a customer ask, and now I have been asked to justify a move to Visual Studio Online for a company looking to use it for about 5,000 people.
 
 I had been concerned of late by the number of organisations implementing solutions without really understanding the benefits of what they have and what they will lose in the move. I used to do a bunch of Developer Tools Deployment Planning Services (DTDPS) engagements for Microsoft (you need to go through a Gold ALM Partner) and I would do the analysis for organisations. As you need at least 3 people to be an ALM Gold partner I have been working through 'proxies' to deliver these benefits in Europe.

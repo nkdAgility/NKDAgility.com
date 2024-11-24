@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=RCJsST0xBCE
 aliases:
 - /resources/videos/RCJsST0xBCE
 - /resources/videos/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
+- /resources/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
 preview: https://i.ytimg.com/vi/RCJsST0xBCE/maxresdefault.jpg
 duration: 2399
 isShort: false
@@ -56,4 +57,3 @@ Because you don't just need agility, you need Naked Agility.
 #azuredevops #agilecoach #agileconsultant #devops #scrummaster #productowner
 
 [Watch on YouTube](https://www.youtube.com/watch?v=RCJsST0xBCE)
-

@@ -3,6 +3,7 @@ title: 'Agile is Not New: A Journey Back to the Basics'
 description: "Explore Agile's rich history and its evolution in this insightful video by Martin Hinshelwood, revealing how to reclaim its true value in modern business. \U0001F30D\U0001F4A1"
 date: 2024-11-20
 videoId: XhPHa1RXrWo
+source: internal
 url: /resources/videos/:slug
 slug: agile-is-not-new-a-journey-back-to-the-basics
 preview: https://i.ytimg.com/vi/XhPHa1RXrWo/maxresdefault.jpg
@@ -12,6 +13,7 @@ aliases:
 - /resources/agile-is-not-new-a-journey-back-to-the-basics
 - /resources/videos/the-intention-of-agile-and-scrum
 - /resources/videos/XhPHa1RXrWo
+- /resources/the-intention-of-agile-and-scrum
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -147,9 +149,3 @@ Agile isn’t new, but our understanding of it continues to evolve. As we move f
 - **Stay true to the principles**: Agile is about people, not processes. Always keep that in mind.
 
 The future of Agile lies in our ability to learn from the past, adapt to the present, and build a path forward that’s grounded in competence, empathy, and a genuine desire to create value. 🚀 Ready to embrace the next chapter of Agile? It’s time to reset, refocus, and build a future that stays true to the heart of what Agile is all about.
-
-
-
-
-
-

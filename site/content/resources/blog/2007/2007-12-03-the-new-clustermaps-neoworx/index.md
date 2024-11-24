@@ -1,6 +1,6 @@
 ---
-title: "The new ClusterMaps: NeoWORX"
-description: "Discover NeoWORX, a powerful tool for visualizing global data in real-time. Learn how it can enhance corporate presentations and streamline operations."
+title: 'The new ClusterMaps: NeoWORX'
+description: Discover NeoWORX, a powerful tool for visualizing global data in real-time. Learn how it can enhance corporate presentations and streamline operations.
 date: 2007-12-03
 creator: Martin Hinshelwood
 id: "280"
@@ -8,14 +8,17 @@ layout: blog
 resourceTypes: blog
 slug: the-new-clustermaps-neoworx
 aliases:
-  - /blog/the-new-clustermaps-neoworx
+- /blog/the-new-clustermaps-neoworx
+- /the-new-clustermaps-neoworx
+- /the-new-clustermaps--neoworx
+- /blog/the-new-clustermaps--neoworx
 tags:
-  - wpf
+- wpf
 categories:
-  - me
+- me
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 I came across this amazing new service which is very similar to [ClusterMaps](http://www.clustermaps.com/), [NeoWORX](http://www.neoworx.net/). It is a bit of a pain in Flash as the system resources required for flash these days seams a little excessive, but I would like to see it running as a WPF XBAP.
 
 In fact I would go as far as to say, that would be something my company would pay money for. You see we have generators in service and at depots all over the world. that is our Fleet if you will, and our board members would eat up this kind of thing. If we could pass it some geographical data and plot all of our generators and coolers around the world in real time it would be a fantastic data presentation tool for the board.

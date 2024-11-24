@@ -1,6 +1,6 @@
 ---
 title: TFS Field Annotator
-description: "Discover the TFS Field Annotator to track changes in TFS Work Items effortlessly. Enhance your workflow with easy field history access. Download now!"
+description: Discover the TFS Field Annotator to track changes in TFS Work Items effortlessly. Enhance your workflow with easy field history access. Download now!
 date: 2012-03-30
 creator: Martin Hinshelwood
 id: "5061"
@@ -8,19 +8,20 @@ layout: blog
 resourceTypes: blog
 slug: tfs-field-annotator
 aliases:
-  - /blog/tfs-field-annotator
+- /blog/tfs-field-annotator
+- /tfs-field-annotator
 tags:
-  - azure
-  - code
-  - infrastructure
-  - tfs
-  - tf-service
-  - tools
+- azure
+- code
+- infrastructure
+- tfs
+- tf-service
+- tools
 categories:
-  - code-and-complexity
+- code-and-complexity
 preview: metro-cloud-azure-link-4-4.png
----
 
+---
 Do you make lots of edits to your TFS Work Items? Do you ever look at a field in the UI and think…
 
 > last time I looked that was a 4? Why is it a 6? Who changed it?

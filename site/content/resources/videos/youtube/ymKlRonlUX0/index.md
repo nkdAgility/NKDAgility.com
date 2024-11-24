@@ -3,6 +3,7 @@ title: 'The Ghosts of Agile Past: Why Burndown Charts Might Be Holding You Back'
 description: "Uncover the truth behind burndown charts in Agile! Join Martin from NKDAgility as he debunks myths and explores better alternatives. \U0001F4CA\U0001F4A1"
 date: 2024-10-18
 videoId: ymKlRonlUX0
+source: internal
 url: /resources/videos/:slug
 slug: the-ghosts-of-agile-past-why-burndown-charts-might-be-holding-you-back
 preview: https://i.ytimg.com/vi/ymKlRonlUX0/maxresdefault.jpg
@@ -12,6 +13,7 @@ aliases:
 - /resources/the-ghosts-of-agile-past-why-burndown-charts-might-be-holding-you-back
 - /resources/videos/5-ghosts-of-agile-past-burndown-charts
 - /resources/videos/ymKlRonlUX0
+- /resources/5-ghosts-of-agile-past-burndown-charts
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -128,9 +130,3 @@ Here’s what you can do:
 Burndown charts might seem like a useful tool, but they often hinder Agile teams more than they help. By focusing on rigid plans and fixed scopes, they ignore the fundamental principle of Agile: **adaptability**.
 
 So next time you find yourself clinging to a burndown chart, remember: it’s just one of the many ghosts of Agile past. And it’s time to let it go. 👉 **Ready to move beyond burndown charts?** Reach out today, and let’s get started on transforming your team’s approach to delivering value.
-
-
-
-
-
-

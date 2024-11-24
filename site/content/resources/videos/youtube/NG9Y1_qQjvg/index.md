@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=NG9Y1_qQjvg
 aliases:
 - /resources/videos/NG9Y1_qQjvg
 - /resources/videos/install-tfs-2013-release-management
+- /resources/install-tfs-2013-release-management
 preview: https://i.ytimg.com/vi/NG9Y1_qQjvg/maxresdefault.jpg
 duration: 438
 isShort: false
@@ -36,4 +37,3 @@ Have you seen how easy it is to install and configure a full release management 
 More videos and blogs on http://nakedalm.com/blog
 
 [Watch on YouTube](https://www.youtube.com/watch?v=NG9Y1_qQjvg)
-

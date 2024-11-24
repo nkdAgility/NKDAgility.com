@@ -1,6 +1,6 @@
 ---
 title: Disqus & Chrome with non-support
-description: "Struggling with Disqus comments not loading in Chrome? Discover troubleshooting tips and share your experiences in this engaging blog post by Martin Hinshelwood."
+description: Struggling with Disqus comments not loading in Chrome? Discover troubleshooting tips and share your experiences in this engaging blog post by Martin Hinshelwood.
 date: 2011-07-05
 creator: Martin Hinshelwood
 id: "3686"
@@ -8,14 +8,17 @@ layout: blog
 resourceTypes: blog
 slug: disqus-chrome-with-non-support
 aliases:
-  - /blog/disqus-chrome-with-non-support
+- /blog/disqus-chrome-with-non-support
+- /disqus-chrome-with-non-support
+- /disqus-&-chrome-with-non-support
+- /blog/disqus-&-chrome-with-non-support
 tags:
-  - off-topic
+- off-topic
 categories:
-  - me
+- me
 preview: nakedalm-logo-128-link-7-7.png
----
 
+---
 ![](images/disqus-logo-3-3.png)
 { .post-img }
 

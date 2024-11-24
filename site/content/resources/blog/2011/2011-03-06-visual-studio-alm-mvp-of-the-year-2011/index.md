@@ -1,6 +1,6 @@
 ---
 title: Visual Studio ALM MVP of the Year 2011
-description: "Discover Martin Hinshelwood's journey as the Visual Studio ALM MVP of the Year 2011, sharing insights and valuable resources for TFS enthusiasts."
+description: Discover Martin Hinshelwood's journey as the Visual Studio ALM MVP of the Year 2011, sharing insights and valuable resources for TFS enthusiasts.
 date: 2011-03-06
 creator: Martin Hinshelwood
 id: "9"
@@ -8,20 +8,21 @@ layout: blog
 resourceTypes: blog
 slug: visual-studio-alm-mvp-of-the-year-2011
 aliases:
-  - /blog/visual-studio-alm-mvp-of-the-year-2011
+- /blog/visual-studio-alm-mvp-of-the-year-2011
+- /visual-studio-alm-mvp-of-the-year-2011
 tags:
-  - awards
-  - nwcadence
-  - tfs
-  - tfs2010
-  - tools
-  - visual-studio
-  - vs2010
+- awards
+- nwcadence
+- tfs
+- tfs2010
+- tools
+- visual-studio
+- vs2010
 categories:
-  - me
+- me
 preview: metro-award-link-2-2.png
----
 
+---
 [![trophy](images/Visual-Studio-ALM-MVP-of-the-Year-2011_DD0A-trophy_thumb-1-1.jpg)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Visual-Studio-ALM-MVP-of-the-Year-2011_DD0A-trophy_2.jpg)
 { .post-img }
 

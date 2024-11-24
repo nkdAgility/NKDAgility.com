@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=yrpAYB2yIZU
 aliases:
 - /resources/videos/yrpAYB2yIZU
 - /resources/videos/install-&-configure-301-move-your-active-directory-domain-to-another-server
+- /resources/install-&-configure-301-move-your-active-directory-domain-to-another-server
 preview: https://i.ytimg.com/vi/yrpAYB2yIZU/maxresdefault.jpg
 duration: 922
 isShort: false
@@ -32,4 +33,3 @@ Have you ever had to rebuild your only domain controller? Find out how to move y
 Visit http://nakedalm.com/blog for more posts and videos.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yrpAYB2yIZU)
-

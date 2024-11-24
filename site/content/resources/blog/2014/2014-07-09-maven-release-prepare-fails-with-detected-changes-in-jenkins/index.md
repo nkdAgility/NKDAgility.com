@@ -1,6 +1,6 @@
 ---
 title: Maven release prepare fails with detected changes in Jenkins
-description: "Discover how to resolve Maven release prepare failures in Jenkins due to detected changes. Learn to use .tfignore for smoother TFS integration."
+description: Discover how to resolve Maven release prepare failures in Jenkins due to detected changes. Learn to use .tfignore for smoother TFS integration.
 date: 2014-07-09
 creator: Martin Hinshelwood
 id: "10579"
@@ -8,17 +8,18 @@ layout: blog
 resourceTypes: blog
 slug: maven-release-prepare-fails-with-detected-changes-in-jenkins
 aliases:
-  - /blog/maven-release-prepare-fails-with-detected-changes-in-jenkins
+- /blog/maven-release-prepare-fails-with-detected-changes-in-jenkins
+- /maven-release-prepare-fails-with-detected-changes-in-jenkins
 tags:
-  - jenkins
-  - maven
-  - tfignore
+- jenkins
+- maven
+- tfignore
 categories:
-  - problems-and-puzzles
-  - upgrade-and-maintenance
+- problems-and-puzzles
+- upgrade-and-maintenance
 preview: naked-alm-jenkins-logo-9-9.png
----
 
+---
 If you are using Team Explorer Everywhere 2012 or 2013 your Maven release prepare fails with detected changes, however it worked when you were using SVN.
 
 As you may have noticed I have had a few posts on Jenkins integration with TFS recently. My current customer is migrating away from SVN and Jenkins to TFS 2012 to take advantage of the cool ALM feature however we need to stage in, taking one thing at a time. They have quite a few builds in Jenkins and moving them will take time. The idea is that we can move all of the source over and it is a fairly simple process to re-point Jenkins and Maven to TFS. This allows the teams to take advantage of relating their Source and Work Item while allowing us to create parallel builds and validate the output.

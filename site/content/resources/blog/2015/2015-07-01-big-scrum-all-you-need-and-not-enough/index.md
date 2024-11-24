@@ -1,5 +1,5 @@
 ---
-title: "Big Scrum: All you need and not enough"
+title: 'Big Scrum: All you need and not enough'
 description: "Explore the challenges of scaling Scrum in 'Big Scrum: All you need and not enough.' Discover essential practices for achieving agility at scale."
 date: 2015-07-01
 creator: Martin Hinshelwood
@@ -8,19 +8,22 @@ layout: blog
 resourceTypes: blog
 slug: big-scrum-all-you-need-and-not-enough
 aliases:
-  - /blog/big-scrum-all-you-need-and-not-enough
+- /blog/big-scrum-all-you-need-and-not-enough
+- /big-scrum-all-you-need-and-not-enough
+- /big-scrum--all-you-need-and-not-enough
+- /blog/big-scrum--all-you-need-and-not-enough
 tags:
-  - agile
-  - ndc
-  - scaled-agile
-  - scaled-professional-scrum
-  - scrum
-  - scrum-at-scale
+- agile
+- ndc
+- scaled-agile
+- scaled-professional-scrum
+- scrum
+- scrum-at-scale
 categories:
-  - people-and-process
+- people-and-process
 preview: clip_image003-3-3.png
----
 
+---
 I was in Norway for NDC Oslo 2015 and I was there to talk about "Big Scrum: All you need and not enough" which is a kind of oxymoron as it really is enough, you just need to apply the values and principals at scale. I tried to cover what for me is a total 100% requirement for Scale.
 
 \[embed\]https://vimeo.com/131642789\[/embed\]

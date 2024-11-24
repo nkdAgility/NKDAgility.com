@@ -3,6 +3,7 @@ title: Worst trait in unskilled scrum masters?
 description: "Discover the worst trait in unskilled Scrum Masters! Martin Hinshelwood reveals why it's a critical no-go zone for effective Agile teams. #Scrum #Agile"
 date: 2023-06-20
 videoId: -pW6YDYEO20
+source: internal
 url: /resources/videos/:slug
 slug: worst-trait-in-unskilled-scrum-masters
 preview: https://i.ytimg.com/vi/-pW6YDYEO20/maxresdefault.jpg
@@ -12,6 +13,7 @@ aliases:
 - /resources/worst-trait-in-unskilled-scrum-masters
 - /resources/videos/worst-trait-in-unskilled-scrum-masters-
 - /resources/videos/-pW6YDYEO20
+- /resources/worst-trait-in-unskilled-scrum-masters-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -81,9 +83,3 @@ Let's connect and elevate your Scrum game together! 🙌
 Hashtags:        #ScrumMaster  #Micromanagement #Misconceptions, #ElevateYourGame
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
-
-
-
-
-
-

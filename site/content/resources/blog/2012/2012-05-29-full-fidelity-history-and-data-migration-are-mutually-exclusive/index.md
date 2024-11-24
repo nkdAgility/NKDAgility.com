@@ -1,6 +1,6 @@
 ---
 title: Full-fidelity history and data migration are mutually exclusive
-description: "Explore the challenges of data migration vs. full history upgrades in TFS. Learn how to maintain compliance and tractability in your software systems."
+description: Explore the challenges of data migration vs. full history upgrades in TFS. Learn how to maintain compliance and tractability in your software systems.
 date: 2012-05-29
 creator: Martin Hinshelwood
 id: "5288"
@@ -8,21 +8,22 @@ layout: blog
 resourceTypes: blog
 slug: full-fidelity-history-and-data-migration-are-mutually-exclusive
 aliases:
-  - /blog/full-fidelity-history-and-data-migration-are-mutually-exclusive
+- /blog/full-fidelity-history-and-data-migration-are-mutually-exclusive
+- /full-fidelity-history-and-data-migration-are-mutually-exclusive
 tags:
-  - configuration
-  - infrastructure
-  - nwcadence
-  - tfs
-  - tfs-integration-platform
-  - tools
-  - upgrade
+- configuration
+- infrastructure
+- nwcadence
+- tfs
+- tfs-integration-platform
+- tools
+- upgrade
 categories:
-  - tools-and-techniques
-  - upgrade-and-maintenance
+- tools-and-techniques
+- upgrade-and-maintenance
 preview: nakedalm-experts-visual-studio-alm-2-2.png
----
 
+---
 If you have ever had to migrate data from any system that contains lots of data and especially history then you will have run into this problem. Effectively you have two choices:
 
 - **Upgrade with full history, correct dates and uninterrupted reporting**

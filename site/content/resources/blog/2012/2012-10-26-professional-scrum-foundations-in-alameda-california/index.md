@@ -1,6 +1,6 @@
 ---
 title: Professional Scrum Foundations in Alameda, California
-description: "Join the Professional Scrum Foundations course in Alameda, CA, to enhance your team's agility and collaboration skills through practical, hands-on learning."
+description: Join the Professional Scrum Foundations course in Alameda, CA, to enhance your team's agility and collaboration skills through practical, hands-on learning.
 date: 2012-10-26
 creator: Martin Hinshelwood
 id: "8981"
@@ -8,22 +8,25 @@ layout: blog
 resourceTypes: blog
 slug: professional-scrum-foundations-in-alameda-california
 aliases:
-  - /blog/professional-scrum-foundations-in-alameda-california
+- /blog/professional-scrum-foundations-in-alameda-california
+- /professional-scrum-foundations-in-alameda-california
+- /professional-scrum-foundations-in-alameda,-california
+- /blog/professional-scrum-foundations-in-alameda,-california
 tags:
-  - agile
-  - improve
-  - measure
-  - process
-  - process-improvement
-  - psf
-  - s30d
-  - scrum
+- agile
+- improve
+- measure
+- process
+- process-improvement
+- psf
+- s30d
+- scrum
 categories:
-  - measure-and-learn
-  - people-and-process
+- measure-and-learn
+- people-and-process
 preview: nakedalm-experts-professional-scrum-1-1.png
----
 
+---
 Professional Scrum Foundations is my favourite course to teach as it balances fun and learning with practical experience.The [Professional Scrum Foundations](http://blog.hinshelwood.com/training/) course is from [Scrum.org](http://scrum.org) and, over two days covers all of the core concepts of Scrum.
 
 With the core learning objective being Self-Organisation, the course is broken into 4 sprints with respective lecture. But the value is in the order, the sprints always come first. Remember that this course is not just for coders, or even the Development Team. It is the venue for all of the people in your organisation, no mater where they are or what they do, that are involved in ay way, no mater how loosely , with the software development and delivery cycle to get a taste of what might be required of them for the process to be successful.

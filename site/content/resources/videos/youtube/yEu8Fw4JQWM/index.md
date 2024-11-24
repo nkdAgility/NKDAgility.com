@@ -3,6 +3,7 @@ title: In WIP, less is more.  Why?
 description: "Unlock productivity with 'Less is More' in Agile! Discover how minimalism transforms workflows and boosts efficiency. Watch now! \U0001F680"
 date: 2023-10-10
 videoId: yEu8Fw4JQWM
+source: internal
 url: /resources/videos/:slug
 slug: in-wip-less-is-more-why
 preview: https://i.ytimg.com/vi/yEu8Fw4JQWM/maxresdefault.jpg
@@ -12,6 +13,7 @@ aliases:
 - /resources/in-wip-less-is-more-why
 - /resources/videos/in-wip,-less-is-more,-why-
 - /resources/videos/yEu8Fw4JQWM
+- /resources/in-wip,-less-is-more,-why-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -100,9 +102,3 @@ Focus.  Finish.  Then move on.  ✅
 It's not about reducing quality or output but streamlining processes and focusing on completion rather than juggling.
 
 For those interested in diving deeper into Agile, Kanban, or Scrum and learning how to create a more efficient work environment, consider checking out our upcoming courses.
-
-
-
-
-
-

@@ -1,6 +1,6 @@
 ---
-title: "TFS Build reports Licencies.licx: unable to load type"
-description: "Discover solutions for the 'unable to load type' error in TFS build reports. Learn how to streamline your CI builds and enhance your development process."
+title: 'TFS Build reports Licencies.licx: unable to load type'
+description: Discover solutions for the 'unable to load type' error in TFS build reports. Learn how to streamline your CI builds and enhance your development process.
 date: 2014-10-23
 creator: Martin Hinshelwood
 id: "10730"
@@ -8,15 +8,18 @@ layout: blog
 resourceTypes: blog
 slug: tfs-build-reports-licencies-licx-unable-load-type
 aliases:
-  - /blog/tfs-build-reports-licencies-licx-unable-load-type
+- /blog/tfs-build-reports-licencies-licx-unable-load-type
+- /tfs-build-reports-licencies-licx-unable-load-type
+- /tfs-build-reports-licencies-licx--unable-to-load-type
+- /blog/tfs-build-reports-licencies-licx--unable-to-load-type
 tags:
-  - build
-  - tf-build
+- build
+- tf-build
 categories:
-  - problems-and-puzzles
+- problems-and-puzzles
 preview: nakedalm-experts-visual-studio-alm-3-3.png
----
 
+---
 When you do a build you can get an "unable to resolve type" message from the licencies.licx file that you have checked in. This prevents you from having a successful build in Team Build.
 
 I have been working with a team of coders in Athens moving them over from StarTeam to TFS with Git. We are now, for the first time ever, trying to configure a build for their 25k file project on an automated build server. The main solution has 66 projects and currently we need to do two passes to get a successful build locally. This is not the best place to be, but it is where we are. There are many things that they are going to have to do to improve their platform over the coming years, but they really need a CI build to help them stay on the right road.

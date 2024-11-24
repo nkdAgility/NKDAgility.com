@@ -1,6 +1,6 @@
 ---
 title: Windows Server 2012 Core for dummies
-description: "Master Windows Server 2012 Core with this beginner's guide. Learn essential command-line configurations for efficient server management and setup."
+description: Master Windows Server 2012 Core with this beginner's guide. Learn essential command-line configurations for efficient server management and setup.
 date: 2013-03-10
 creator: Martin Hinshelwood
 id: "9255"
@@ -8,18 +8,19 @@ layout: blog
 resourceTypes: blog
 slug: windows-server-2012-core-for-dummies
 aliases:
-  - /blog/windows-server-2012-core-for-dummies
+- /blog/windows-server-2012-core-for-dummies
+- /windows-server-2012-core-for-dummies
 tags:
-  - configuration
-  - core
-  - infrastructure
-  - tools
-  - windows-server
+- configuration
+- core
+- infrastructure
+- tools
+- windows-server
 categories:
-  - code-and-complexity
+- code-and-complexity
 preview: metro-server-instances-7-7.png
----
 
+---
 This is a short idiots guide to setting up Windows Server 2012 Core. Windows Server 2012 Core allows you to use less memory by getting rid of some peskie UI bits and bobs. Setting it up however is a little more challenging.
 
 - **Update 2013-03-18 -** After all my hard work Shad told me that this was the old-school way and why did I not use "sconfig".   

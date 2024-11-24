@@ -1,6 +1,6 @@
 ---
 title: Live Site Culture & Site Reliability Engineering
-description: "Explore how Live Site Culture and Site Reliability Engineering drive agility and DevOps practices, enabling rapid delivery and enhanced customer satisfaction."
+description: Explore how Live Site Culture and Site Reliability Engineering drive agility and DevOps practices, enabling rapid delivery and enhanced customer satisfaction.
 date: 2020-06-17
 creator: Martin Hinshelwood
 id: "44414"
@@ -8,13 +8,16 @@ layout: blog
 resourceTypes: blog
 slug: live-site-culture-site-reliability-engineering
 aliases:
-  - /blog/live-site-culture-site-reliability-engineering
+- /blog/live-site-culture-site-reliability-engineering
+- /live-site-culture-site-reliability-engineering
+- /live-site-culture-&-site-reliability-engineering
+- /blog/live-site-culture-&-site-reliability-engineering
 categories:
-  - agility
-  - devops
+- agility
+- devops
 preview: 2020-06-17_13-06-30-1-1.jpg
----
 
+---
 As more and more organisations move towards a higher degree of agility, they inevitably also move towards DevOps practices like Continuous Delivery to facilitate shortening the feedback loops.
 
 > **Firms today experience a much higher velocity of business change. Market opportunities appear or dissolve in months or weeks instead of years.**

@@ -1,6 +1,6 @@
 ---
 title: The great Xbox update
-description: "Discover the exciting new Xbox Live experience in this update! Get ready for fresh features and a smoother gaming journey. Don't miss out!"
+description: Discover the exciting new Xbox Live experience in this update! Get ready for fresh features and a smoother gaming journey. Don't miss out!
 date: 2008-11-18
 creator: Martin Hinshelwood
 id: "166"
@@ -8,15 +8,16 @@ layout: blog
 resourceTypes: blog
 slug: the-great-xbox-update
 aliases:
-  - /blog/the-great-xbox-update
+- /blog/the-great-xbox-update
+- /the-great-xbox-update
 tags:
-  - live
-  - xbox
+- live
+- xbox
 categories:
-  - me
+- me
 preview: metro-xbox-360-link-3-2.png
----
 
+---
 [![xbox live](images/ThegreatXboxupdate_AEC7-xbox-live_thumb-2-3.jpg)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ThegreatXboxupdate_AEC7-xbox-live_2.jpg)
 { .post-img }
 

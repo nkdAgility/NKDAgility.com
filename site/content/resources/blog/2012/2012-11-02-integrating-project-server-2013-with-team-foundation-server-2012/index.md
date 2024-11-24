@@ -1,6 +1,6 @@
 ---
 title: Integrating Project Server 2013 with Team Foundation Server 2012
-description: "Learn how to effectively integrate Project Server 2013 with Team Foundation Server 2012, enhancing project management and collaboration in your enterprise."
+description: Learn how to effectively integrate Project Server 2013 with Team Foundation Server 2012, enhancing project management and collaboration in your enterprise.
 date: 2012-11-02
 creator: Martin Hinshelwood
 id: "9075"
@@ -8,22 +8,23 @@ layout: blog
 resourceTypes: blog
 slug: integrating-project-server-2013-with-team-foundation-server-2012
 aliases:
-  - /blog/integrating-project-server-2013-with-team-foundation-server-2012
+- /blog/integrating-project-server-2013-with-team-foundation-server-2012
+- /integrating-project-server-2013-with-team-foundation-server-2012
 tags:
-  - configuration
-  - infrastructure
-  - project-server
-  - ps2013
-  - sharepoint
-  - sp2013
-  - tfs
-  - tfs2012
-  - tools
+- configuration
+- infrastructure
+- project-server
+- ps2013
+- sharepoint
+- sp2013
+- tfs
+- tfs2012
+- tools
 categories:
-  - code-and-complexity
+- code-and-complexity
 preview: metro-sharepoint-128-link-23-23.png
----
 
+---
 I have recently been playing a lot with the new Office 2013 release and part of that is Project Server 2013. With the new Project Server Extensions being an integral part of any enterprise Team Foundation Server deployment I thought that I should kick the tires.
 
 Update - I have figured out my blocking issue and resolved it. See [Project Server 2013 Issue – TF294012: Cannot access the following enterprise project](http://blog.hinshelwood.com/project-server-2013-issue-tf294012-cannot-access-the-following-enterprise-project/ "Project Server 2013 Issue – TF294012: Cannot access the following enterprise project")

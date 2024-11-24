@@ -1,6 +1,6 @@
 ---
 title: Office Mobile 2007
-description: "Discover the enhancements of Office Mobile 2007 on Windows Mobile 6, including RSS feeds and OneNote integration. Upgrade your mobile productivity today!"
+description: Discover the enhancements of Office Mobile 2007 on Windows Mobile 6, including RSS feeds and OneNote integration. Upgrade your mobile productivity today!
 date: 2007-08-04
 creator: Martin Hinshelwood
 id: "346"
@@ -8,15 +8,16 @@ layout: blog
 resourceTypes: blog
 slug: office-mobile-2007
 aliases:
-  - /blog/office-mobile-2007
+- /blog/office-mobile-2007
+- /office-mobile-2007
 tags:
-  - answers
-  - windows-mobile-6
+- answers
+- windows-mobile-6
 categories:
-  - products-and-books
+- products-and-books
 preview: metro-office-128-link-1-1.png
----
 
+---
 This week I installed Office Mobile 2007 on my Windows Mobile 6 ([Black Shadow](http://blog.martin.hinshelwood.com/archive/2007/06/21/Windows-Mobile-6-Black-Shadow-4.0.aspx)) SPV M3100, and I have to say, what changed?
 
 I can now see my RSS Feeds as part of Outlook Mobile 2007, but apart from that the only change was the addition of OneNote Mobile 2007.

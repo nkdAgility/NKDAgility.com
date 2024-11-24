@@ -1,6 +1,6 @@
 ---
-title: "Presenting Aplication Lifecycle Management: Precursor"
-description: "Join Martin Hinshelwood as he shares insights on Application Lifecycle Management (ALM) and his journey preparing for a pivotal presentation. Discover more!"
+title: 'Presenting Aplication Lifecycle Management: Precursor'
+description: Join Martin Hinshelwood as he shares insights on Application Lifecycle Management (ALM) and his journey preparing for a pivotal presentation. Discover more!
 date: 2008-09-10
 creator: Martin Hinshelwood
 id: "194"
@@ -8,15 +8,18 @@ layout: blog
 resourceTypes: blog
 slug: presenting-aplication-lifecycle-management-precursor
 aliases:
-  - /blog/presenting-aplication-lifecycle-management-precursor
+- /blog/presenting-aplication-lifecycle-management-precursor
+- /presenting-aplication-lifecycle-management-precursor
+- /presenting-aplication-lifecycle-management--precursor
+- /blog/presenting-aplication-lifecycle-management--precursor
 tags:
-  - aggreko
-  - tfs
-  - tools
-  - windows-mobile-6
+- aggreko
+- tfs
+- tools
+- windows-mobile-6
 preview: metro-aggreko-128-link-1-1.png
----
 
+---
 I am doing a presentation this afternoon on Application Lifecycle Management (ALM). This is the first time that I have ever presented on this topic, and I found out that I was doing it on Friday!
 
 I have put together a bunch of slides pulling information mostly from Wikipedia. I have another presentation afterwards on Visual Studio Team System (VSTS), but it is the ALM one that scares me. I already had canned slides for [Visual Studio Team System](http://msdn2.microsoft.com/en-us/teamsystem/default.aspx "Visual Studio Team System"), but ALM is something that I have really only begun to get a handle on. I know enough to know that I do not really know anything at all :)

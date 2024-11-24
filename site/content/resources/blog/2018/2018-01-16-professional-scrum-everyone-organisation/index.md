@@ -1,6 +1,6 @@
 ---
 title: Professional Scrum is for everyone in your organisation
-description: "Discover how Professional Scrum can empower everyone in your organization to enhance collaboration, drive value, and embrace agile transformation."
+description: Discover how Professional Scrum can empower everyone in your organization to enhance collaboration, drive value, and embrace agile transformation.
 date: 2018-01-16
 creator: Martin Hinshelwood
 id: "38287"
@@ -8,19 +8,22 @@ layout: blog
 resourceTypes: blog
 slug: professional-scrum-everyone-organisation
 aliases:
-  - /blog/professional-scrum-everyone-organisation
+- /blog/professional-scrum-everyone-organisation
+- /professional-scrum-everyone-organisation
+- /professional-scrum-is-for-everyone-in-your-organisation
+- /blog/professional-scrum-is-for-everyone-in-your-organisation
 tags:
-  - agile
-  - evidence-based-management
-  - professioal-scrum
-  - scrum
-  - scrum-definition
-  - training
+- agile
+- evidence-based-management
+- professioal-scrum
+- scrum
+- scrum-definition
+- training
 categories:
-  - agility
+- agility
 preview: nkdagility-professional-scrum-is-for-everyone-1-2-2.jpg
----
 
+---
 Recently I worked with a new customer in Denver to help them move towards a greater degree of Scrum in their software development. The idea that Scrum is for everyone in your organisation is kind of new, but it reflects the modern understanding of the way people work, and the rejection of Taylorism and command and control. You [cant use someone else approaches to get to agility](https://nkdagility.com/organisational-change-create-path/), but you can learn from it.
 
 Healthgrades have been doing Scrum for about 8 years but has recognised that they are struggling to [organise around the delivery of working software](https://nkdagility.com/professional-scrum-teams-build-software-works/). Like every other company, once you have something as complex as software to work on, and knowledge workers to do it, [the old management styles of the 20th century](https://nkdagility.com/professional-organisational-change-ghana-police-service/) are just like pouring water on a fat fire…

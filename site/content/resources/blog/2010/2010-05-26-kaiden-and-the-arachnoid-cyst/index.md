@@ -1,6 +1,6 @@
 ---
 title: Kaiden and the Arachnoid Cyst
-description: "Join us as we share Kaiden's journey with an arachnoid cyst, exploring his milestones and challenges. Discover our family's story and updates along the way."
+description: Join us as we share Kaiden's journey with an arachnoid cyst, exploring his milestones and challenges. Discover our family's story and updates along the way.
 date: 2010-05-26
 creator: Martin Hinshelwood
 id: "41"
@@ -8,12 +8,13 @@ layout: blog
 resourceTypes: blog
 slug: kaiden-and-the-arachnoid-cyst
 aliases:
-  - /blog/kaiden-and-the-arachnoid-cyst
+- /blog/kaiden-and-the-arachnoid-cyst
+- /kaiden-and-the-arachnoid-cyst
 categories:
-  - me
+- me
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 Some of you may remember when my son [Kaiden was born](http://blog.hinshelwood.com/archive/2009/02/14/the-delivery-mk-ii.aspx) I posted pictures of him and his sister. Kaiden is now 15 months old and is progressing perfectly in every area except that we had been worried that he was not walking yet. We were only really concerned because his sister was walking at 8 months.
 
 ![image](images/ThetroublewithKaidensbignoggin_E971-image_-2-2.png)![image](images/ThetroublewithKaidensbignoggin_E971-image_-3-3.png)

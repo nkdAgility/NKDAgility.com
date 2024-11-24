@@ -3,6 +3,7 @@ title: Navigating the Complex World of Azure DevOps Data Migration
 description: Discover essential insights for Azure DevOps migration! Learn about common pitfalls, best practices, and expert tips to ensure a smooth transition.
 date: 2024-11-14
 videoId: 3jYFD-6_kZk
+source: internal
 url: /resources/videos/:slug
 slug: navigating-the-complex-world-of-azure-devops-data-migration
 preview: https://i.ytimg.com/vi/3jYFD-6_kZk/maxresdefault.jpg
@@ -12,6 +13,7 @@ aliases:
 - /resources/navigating-the-complex-world-of-azure-devops-data-migration
 - /resources/videos/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops
 - /resources/videos/3jYFD-6_kZk
+- /resources/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -112,9 +114,3 @@ Despite the challenges, migrating to Azure DevOps doesn't have to be a nightmare
 ## **Conclusion**
 
 Migrating to Azure DevOps can be a daunting task, especially if you're dealing with legacy systems or outdated processes. However, with careful planning, attention to detail, and a thorough understanding of the potential pitfalls, you can ensure a successful migration. Remember, the key is in the preparation: plan your order of operations, align your identities, clean up your database, and always follow best practices for backups. With these steps, you can avoid the common pitfalls and ensure a smooth transition to Azure DevOps. 🚀
-
-
-
-
-
-

@@ -3,6 +3,7 @@ title: How would you help organizations pitch the opportunity of agile internall
 description: Discover how to effectively pitch agile within your organisation and inspire teams to embrace its transformative potential for continuous improvement.
 date: 2023-03-10
 videoId: 3AVlBmOATHA
+source: internal
 url: /resources/videos/:slug
 slug: how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
 preview: https://i.ytimg.com/vi/3AVlBmOATHA/maxresdefault.jpg
@@ -12,6 +13,7 @@ aliases:
 - /resources/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
 - /resources/videos/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally-
 - /resources/videos/3AVlBmOATHA
+- /resources/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -148,9 +150,3 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-
-
-
-
-

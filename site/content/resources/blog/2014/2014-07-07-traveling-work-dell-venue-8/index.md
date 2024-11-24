@@ -1,6 +1,6 @@
 ---
 title: Traveling for work and the Dell Venue 8
-description: "Discover how the Dell Venue 8 enhances travel productivity for professionals. Join Martin Hinshelwood as he shares tips and insights from his journeys."
+description: Discover how the Dell Venue 8 enhances travel productivity for professionals. Join Martin Hinshelwood as he shares tips and insights from his journeys.
 date: 2014-07-07
 creator: Martin Hinshelwood
 id: "10645"
@@ -8,18 +8,21 @@ layout: blog
 resourceTypes: blog
 slug: traveling-work-dell-venue-8
 aliases:
-  - /blog/traveling-work-dell-venue-8
+- /blog/traveling-work-dell-venue-8
+- /traveling-work-dell-venue-8
+- /traveling-for-work-and-the-dell-venue-8
+- /blog/traveling-for-work-and-the-dell-venue-8
 tags:
-  - consulting
-  - dell-venue-8
-  - surface-2
-  - surface-2-pro
-  - traveling
+- consulting
+- dell-venue-8
+- surface-2
+- surface-2-pro
+- traveling
 categories:
-  - news-and-reviews
+- news-and-reviews
 preview: nakedalm-windows-logo-4-4.png
----
 
+---
 I travel a lot and I have been carting around both a Surface 2 Pro and a Surface 2 on my travels. I have been feeling recently that this was a little silly and I wanted to reduce my load and increase my flexibility. So just last week I purchased a Dell Venue 8.
 
 When I say that I travel a lot I mean that I generally fly out to somewhere in Europe on Sunday afternoon and then back on Friday night. Every week... I have been doing this since November 2013 and apart from a few weeks it has been fairly constant. In my travels I have found a few things. The first is that stuff can be important and that its not when you travel occasionally. If I go for a few days I generally ditch all but the most essential of stuff. However if I, like now, am on my twenty-sixth back to back week away I tend to miss some of the home comforts. Home comforts for a geek tends to be cables and gadgets but as I have recently turned into a bit of a fitness guy as well it might also be other stuff. And thus I tend to pack heavy rather than light. I do however put that heavy bag in checked baggage and want my carry on to be light. Unfortunately there are things like Tablets, batteries, and hard disks that really can't go into checked baggage. So it has to go in my backpack. I have thus decided that the Surface 2, that I got at the MVP Summit last year, was just impractical when I also carry my Surface 2 Pro. My plan was to wait for the rumoured Surface Mini but as that did not happen my second choice was the Dell Venue 8.

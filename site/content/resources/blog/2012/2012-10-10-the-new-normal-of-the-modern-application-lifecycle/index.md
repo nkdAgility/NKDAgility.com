@@ -1,6 +1,6 @@
 ---
 title: The new normal of the modern application lifecycle
-description: "Explore the evolving landscape of software development in 'The New Normal of the Modern Application Lifecycle' and discover how to stay relevant in a fast-paced world."
+description: Explore the evolving landscape of software development in 'The New Normal of the Modern Application Lifecycle' and discover how to stay relevant in a fast-paced world.
 date: 2012-10-10
 creator: Martin Hinshelwood
 id: "8885"
@@ -8,24 +8,25 @@ layout: blog
 resourceTypes: blog
 slug: the-new-normal-of-the-modern-application-lifecycle
 aliases:
-  - /blog/the-new-normal-of-the-modern-application-lifecycle
+- /blog/the-new-normal-of-the-modern-application-lifecycle
+- /the-new-normal-of-the-modern-application-lifecycle
 tags:
-  - agile
-  - improve
-  - measure
-  - modern-alm
-  - process
-  - process-improvement
-  - s30d
-  - series-modern-application-lifecycle
-  - the-new-normal
+- agile
+- improve
+- measure
+- modern-alm
+- process
+- process-improvement
+- s30d
+- series-modern-application-lifecycle
+- the-new-normal
 categories:
-  - measure-and-learn
-  - people-and-process
-  - tools-and-techniques
+- measure-and-learn
+- people-and-process
+- tools-and-techniques
 preview: metro-new-normal-icon-28-28.png
----
 
+---
 The new normal for software development is the theme for the keynote at the [Visual Studio Launch Roadshows](http://blog.hinshelwood.com/visual-studio-2012-launch-roadshow-in-san-diego-and-irvine/) that I will be speaking at this week I have been doing a little research.
 
 It seams that there is, especially in the USA, an imperative to not push a message that you don’t think that the audience is ready for. Indeed I have heard of a few folks doing the keynote and not believing the message themselves. Well, I do and I also firmly believe that there is value in sowing the seeds of knowledge wherever it is lacking regardless of the likelihood of initial acceptance.

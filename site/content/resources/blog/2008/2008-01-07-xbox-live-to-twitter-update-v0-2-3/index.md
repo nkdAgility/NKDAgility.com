@@ -1,6 +1,6 @@
 ---
 title: Xbox  Live to Twitter Update (v0.2.3)
-description: "Discover the latest updates to the Xbox Live to Twitter app! Enhance your gaming experience with new features and customization options. Download now!"
+description: Discover the latest updates to the Xbox Live to Twitter app! Enhance your gaming experience with new features and customization options. Download now!
 date: 2008-01-07
 creator: Martin Hinshelwood
 id: "267"
@@ -8,17 +8,20 @@ layout: blog
 resourceTypes: blog
 slug: xbox-live-to-twitter-update-v0-2-3
 aliases:
-  - /blog/xbox-live-to-twitter-update-v0-2-3
+- /blog/xbox-live-to-twitter-update-v0-2-3
+- /xbox-live-to-twitter-update-v0-2-3
+- /xbox-live-to-twitter-update-(v0-2-3)
+- /blog/xbox-live-to-twitter-update-(v0-2-3)
 tags:
-  - code
-  - live
-  - xbox
+- code
+- live
+- xbox
 categories:
-  - code-and-complexity
-  - me
+- code-and-complexity
+- me
 preview: metro-xbox-360-link-1-1.png
----
 
+---
 I have updated the [Xbox Live to Twitter application](http://blog.hinshelwood.com/archive/2008/01/04/xbox-live-to-twitter.aspx) and it works quite well now. There are currently too many updates as you can see from my twitter on the left of my blog ![smile_omg](images/smile_omg-2-2.gif).
 { .post-img }
 

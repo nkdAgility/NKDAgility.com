@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=4p5xeJZXvcE
 aliases:
 - /resources/videos/4p5xeJZXvcE
 - /resources/videos/-shorts-7-virtues-of-agile-patience
+- /resources/-shorts-7-virtues-of-agile-patience
 preview: https://i.ytimg.com/vi/4p5xeJZXvcE/maxresdefault.jpg
 duration: 39
 isShort: true
@@ -60,4 +61,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=4p5xeJZXvcE)
-

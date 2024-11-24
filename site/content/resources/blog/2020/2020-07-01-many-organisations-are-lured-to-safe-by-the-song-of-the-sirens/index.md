@@ -1,6 +1,6 @@
 ---
 title: Many organisations are lured to SAFe by the song of the Sirens
-description: "Discover why many organizations fall for the allure of SAFe, risking true agility for a rigid framework. Learn to embrace evolution over imitation."
+description: Discover why many organizations fall for the allure of SAFe, risking true agility for a rigid framework. Learn to embrace evolution over imitation.
 date: 2020-07-01
 creator: Martin Hinshelwood
 id: "44502"
@@ -8,15 +8,16 @@ layout: blog
 resourceTypes: blog
 slug: many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
 aliases:
-  - /blog/many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
+- /blog/many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
+- /many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
 tags:
-  - leadership-track
-  - scrum-theory
+- leadership-track
+- scrum-theory
 categories:
-  - agility
+- agility
 preview: Siren-mermaids-25084952-1378-1045-6-5.jpg
----
 
+---
 These Sirens take advantage of the lack of understanding of what business agility is trying to change and lures unsuspecting C-suite executives into parting with their cash for what is effectively someone else's business process. They are changing their entire organisation, not because of a business challenge, but because they are told to.
 
 <figure>

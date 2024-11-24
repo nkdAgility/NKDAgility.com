@@ -1,6 +1,6 @@
 ---
 title: VSTS Sync Migration Tools
-description: "Discover VSTS Sync Migration Tools for seamless data migration from TFS to VSTS. Simplify your transition and enhance your DevOps processes today!"
+description: Discover VSTS Sync Migration Tools for seamless data migration from TFS to VSTS. Simplify your transition and enhance your DevOps processes today!
 date: 2016-10-26
 creator: Martin Hinshelwood
 id: "11634"
@@ -8,15 +8,16 @@ layout: blog
 resourceTypes: blog
 slug: vsts-sync-migration-tools
 aliases:
-  - /blog/vsts-sync-migration-tools
+- /blog/vsts-sync-migration-tools
+- /vsts-sync-migration-tools
 tags:
-  - migration
-  - vsteamservices
+- migration
+- vsteamservices
 categories:
-  - devops
+- devops
 preview: image_thumb-1-1.png
----
 
+---
 I have been working with a number of customers in the last year that want to move to VSTS. While many of them want to do the full Collection import, many do not.
 
 [![image](images/image_thumb-1-1.png "image")](https://nkdagility.com/wp-content/uploads/2016/10/image.png)

@@ -1,6 +1,6 @@
 ---
-title: "TeamPlain Error: TF14002"
-description: "Encountering the TF14002 error in TeamPlain? Discover insights and potential solutions to this common issue affecting source control access. Read more!"
+title: 'TeamPlain Error: TF14002'
+description: Encountering the TF14002 error in TeamPlain? Discover insights and potential solutions to this common issue affecting source control access. Read more!
 date: 2007-03-27
 creator: Martin Hinshelwood
 id: "424"
@@ -8,10 +8,13 @@ layout: blog
 resourceTypes: blog
 slug: teamplain-error-tf14002
 aliases:
-  - /blog/teamplain-error-tf14002
+- /blog/teamplain-error-tf14002
+- /teamplain-error-tf14002
+- /teamplain-error--tf14002
+- /blog/teamplain-error--tf14002
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 Some prople have encountered this error when viewing the source control tab in TeamPlain:
 
 > System.Web.Services.Protocols.SoapException: TF14002: The identity NT AUTHORITYNETWORK SERVICE is not a member of the Team Foundation Valid Users group.

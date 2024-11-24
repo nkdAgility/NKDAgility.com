@@ -3,6 +3,7 @@ title: What is your feeling on creating Agile apprenticeships?
 description: Explore the potential of agile apprenticeships with Martin Hinshelwood as he discusses their importance in empowering the next generation in product development.
 date: 2023-08-07
 videoId: vHNwcfbNOR8
+source: internal
 url: /resources/videos/:slug
 slug: what-is-your-feeling-on-creating-agile-apprenticeships
 preview: https://i.ytimg.com/vi/vHNwcfbNOR8/maxresdefault.jpg
@@ -12,6 +13,7 @@ aliases:
 - /resources/what-is-your-feeling-on-creating-agile-apprenticeships
 - /resources/videos/what-is-your-feeling-on-creating-agile-apprenticeships-
 - /resources/videos/vHNwcfbNOR8
+- /resources/what-is-your-feeling-on-creating-agile-apprenticeships-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -69,9 +71,3 @@ Hashtags:        #AgileApprenticeships, #ImmersiveLearning, #Mentorship
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
-
-
-
-
-
-

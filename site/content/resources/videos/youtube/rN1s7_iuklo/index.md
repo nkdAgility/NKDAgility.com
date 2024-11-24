@@ -3,6 +3,7 @@ title: Empowering Teams to Maximize Value and Return on Investment
 description: "Unlock your team's potential! Discover how empowering Agile teams boosts innovation, adaptability, and ROI in this insightful video. Click to learn more! \U0001F4BC\U0001F4C8"
 date: 2024-11-06
 videoId: rN1s7_iuklo
+source: internal
 url: /resources/videos/:slug
 slug: empowering-teams-to-maximize-value-and-return-on-investment
 preview: https://i.ytimg.com/vi/rN1s7_iuklo/maxresdefault.jpg
@@ -12,6 +13,7 @@ aliases:
 - /resources/empowering-teams-to-maximize-value-and-return-on-investment
 - /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-5
 - /resources/videos/rN1s7_iuklo
+- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-5
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -94,9 +96,3 @@ Based on these experiences, I recommend that leaders:
 Empowering your teams to change their processes based on what they learn is a critical component of Agile success. It enables teams to maximize their effectiveness, deliver greater value, and ultimately, provide a higher return on investment for stakeholders.
 
 Remember, Agile is not a one-size-fits-all approach. Each team is unique, and their processes should reflect that. By fostering a culture of continuous improvement, providing the right tools and support, and encouraging cross-team collaboration, you can create an environment where teams are truly empowered to succeed. Empower your teams, and watch as they transform challenges into opportunities, delivering exceptional value every step of the way. 🚀
-
-
-
-
-
-

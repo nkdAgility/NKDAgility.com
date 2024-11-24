@@ -3,6 +3,7 @@ title: 2-day PSPO Versus 8-week PSPO
 description: 'Discover the key differences between the 2-day and 8-week PSPO courses in this short video with Martin Hinshelwood. Elevate your Scrum journey! #PSPO #Scrum'
 date: 2023-11-07
 videoId: N3LSpL-N3kY
+source: internal
 url: /resources/videos/:slug
 slug: 2-day-pspo-versus-8-week-pspo
 preview: https://i.ytimg.com/vi/N3LSpL-N3kY/maxresdefault.jpg
@@ -105,9 +106,3 @@ It boils down to your learning style, pace, and how you wish to integrate this k
 Hungry for More Agile Insights?
 
 Join me on my Agile and Scrum courses, where we unpack these discussions further, ensuring you're equipped with the knowledge to make informed decisions for your Agile journey.
-
-
-
-
-
-

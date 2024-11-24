@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=8vu-AXJwwYk
 aliases:
 - /resources/videos/8vu-AXJwwYk
 - /resources/videos/how-much-of-an-impact-can-a-great-agile-consultant-have-
+- /resources/how-much-of-an-impact-can-a-great-agile-consultant-have-
 preview: https://i.ytimg.com/vi/8vu-AXJwwYk/maxresdefault.jpg
 duration: 554
 isShort: false
@@ -57,4 +58,3 @@ We would love to work with you.
 #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=8vu-AXJwwYk)
-

@@ -1,6 +1,6 @@
 ---
 title: Connect a Test Controller to Team Foundation Service
-description: "Learn how to connect a Test Controller to Team Foundation Service for streamlined automated deployment and testing. Simplify your configuration today!"
+description: Learn how to connect a Test Controller to Team Foundation Service for streamlined automated deployment and testing. Simplify your configuration today!
 date: 2013-03-27
 creator: Martin Hinshelwood
 id: "9348"
@@ -8,21 +8,22 @@ layout: blog
 resourceTypes: blog
 slug: connect-a-test-controller-to-team-foundation-service
 aliases:
-  - /blog/connect-a-test-controller-to-team-foundation-service
+- /blog/connect-a-test-controller-to-team-foundation-service
+- /connect-a-test-controller-to-team-foundation-service
 tags:
-  - configuration
-  - infrastructure
-  - operational
-  - standard-environments
-  - tactical
-  - test-controller
-  - tf400324
-  - tf-service
-  - tools
+- configuration
+- infrastructure
+- operational
+- standard-environments
+- tactical
+- test-controller
+- tf400324
+- tf-service
+- tools
 categories:
-  - code-and-complexity
----
+- code-and-complexity
 
+---
 Did you know that you can connect a Test Controller to Team Foundation Service? And if you can do that, can you create [standard environments for automated deployment and testing](http://blog.hinshelwood.com/standard-environments-for-automated-deployment-and-testing/ "Standard Environments for Automated Deployment and Testing") against the cloud?
 
 I did not realise that this was supported and I only stumbled across it as I was tinkering with my local Test Controller and saw my TF Service instance in the connection menu and wondered what would happen.

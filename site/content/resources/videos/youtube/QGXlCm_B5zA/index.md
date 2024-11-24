@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=QGXlCm_B5zA
 aliases:
 - /resources/videos/QGXlCm_B5zA
 - /resources/videos/what-will-you-learn-on-the-psm-ii-course-
+- /resources/what-will-you-learn-on-the-psm-ii-course-
 preview: https://i.ytimg.com/vi/QGXlCm_B5zA/maxresdefault.jpg
 duration: 280
 isShort: false
@@ -54,4 +55,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=QGXlCm_B5zA)
-

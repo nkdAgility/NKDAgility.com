@@ -1,6 +1,6 @@
 ---
 title: Access denied user needs label permission in TFS
-description: "Learn how to resolve the 'Access denied user needs label permission in TFS' error and optimize your TFS security settings for smoother project management."
+description: Learn how to resolve the 'Access denied user needs label permission in TFS' error and optimize your TFS security settings for smoother project management.
 date: 2014-06-04
 creator: Martin Hinshelwood
 id: "10546"
@@ -8,20 +8,23 @@ layout: blog
 resourceTypes: blog
 slug: access-denied-user-needs-label-permission-tfs
 aliases:
-  - /blog/access-denied-user-needs-label-permission-tfs
+- /blog/access-denied-user-needs-label-permission-tfs
+- /access-denied-user-needs-label-permission-tfs
+- /access-denied-user-needs-label-permission-in-tfs
+- /blog/access-denied-user-needs-label-permission-in-tfs
 tags:
-  - label
-  - one-team-project-seriese
-  - permissions
-  - tf14098
-  - tfs
-  - tfs2012
-  - tfs-2012-4
+- label
+- one-team-project-seriese
+- permissions
+- tf14098
+- tfs
+- tfs2012
+- tfs-2012-4
 categories:
-  - problems-and-puzzles
+- problems-and-puzzles
 preview: nakedalm-experts-visual-studio-alm-3-3.png
----
 
+---
 There is always something new to learn with TFS and today I learned something old. I had a user today that was constantly getting the message "Access denied user needs label permission in TFS".
 
 Although I have configured "one-team-project" for many organisation my current customer is the first that has insisted on draconian security measures. In this case I have removed contributors from the root of the Team Project and each team is granted rights by sub-folder. If each sub-folder represents an application then this makes perfect sense. Until you try to add a label using the Visual Studio IDE.

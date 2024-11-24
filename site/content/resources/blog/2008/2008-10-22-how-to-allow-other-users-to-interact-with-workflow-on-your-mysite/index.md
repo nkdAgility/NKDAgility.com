@@ -1,6 +1,6 @@
 ---
-title: "How-To: Allow other users to interact with workflow on your MySite"
-description: "Learn how to enable user interaction with workflows on MySite. This guide covers permissions, task lists, and best practices for effective collaboration."
+title: 'How-To: Allow other users to interact with workflow on your MySite'
+description: Learn how to enable user interaction with workflows on MySite. This guide covers permissions, task lists, and best practices for effective collaboration.
 date: 2008-10-22
 creator: Martin Hinshelwood
 id: "185"
@@ -8,16 +8,19 @@ layout: blog
 resourceTypes: blog
 slug: how-to-allow-other-users-to-interact-with-workflow-on-your-mysite
 aliases:
-  - /blog/how-to-allow-other-users-to-interact-with-workflow-on-your-mysite
+- /blog/how-to-allow-other-users-to-interact-with-workflow-on-your-mysite
+- /how-to-allow-other-users-to-interact-with-workflow-on-your-mysite
+- /how-to--allow-other-users-to-interact-with-workflow-on-your-mysite
+- /blog/how-to--allow-other-users-to-interact-with-workflow-on-your-mysite
 tags:
-  - answers
-  - moss2007
-  - sharepoint
-  - sp2007
-  - tools
+- answers
+- moss2007
+- sharepoint
+- sp2007
+- tools
 preview: metro-sharepoint-128-link-15-15.png
----
 
+---
 If you want to be able to use workflow on you're my site that will allow you to assign tasks to your colleagues, then you need to take a couple of thing into consideration. The most important is to give any users assigned tasks access to the tasks list that you are using for your workflow.
 
 You will need to think hard about wither the workflow you are considering would be better as part of your team's site, or as part of another site in the Sharepoint farm as adding permission to other people on your MySite is a security risk. But the benefit may well be worth the risk.

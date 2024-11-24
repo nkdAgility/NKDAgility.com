@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=uQ786VBz3Jw
 aliases:
 - /resources/videos/uQ786VBz3Jw
 - /resources/videos/what-is-your-1-tip-for-effective-sprint-planning-
+- /resources/what-is-your-1-tip-for-effective-sprint-planning-
 preview: https://i.ytimg.com/vi/uQ786VBz3Jw/maxresdefault.jpg
 duration: 246
 isShort: false
@@ -55,4 +56,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=uQ786VBz3Jw)
-

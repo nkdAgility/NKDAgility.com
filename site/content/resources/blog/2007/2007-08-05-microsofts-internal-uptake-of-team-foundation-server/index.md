@@ -1,6 +1,6 @@
 ---
 title: Microsoft's internal uptake of Team Foundation Server
-description: "Explore Microsoft's internal adoption of Team Foundation Server, showcasing its impact on development teams and the future of Visual Studio. Discover more!"
+description: Explore Microsoft's internal adoption of Team Foundation Server, showcasing its impact on development teams and the future of Visual Studio. Discover more!
 date: 2007-08-05
 creator: Martin Hinshelwood
 id: "343"
@@ -8,18 +8,21 @@ layout: blog
 resourceTypes: blog
 slug: microsofts-internal-uptake-of-team-foundation-server
 aliases:
-  - /blog/microsofts-internal-uptake-of-team-foundation-server
+- /blog/microsofts-internal-uptake-of-team-foundation-server
+- /microsofts-internal-uptake-of-team-foundation-server
+- /microsoft's-internal-uptake-of-team-foundation-server
+- /blog/microsoft's-internal-uptake-of-team-foundation-server
 tags:
-  - tfs
-  - tfs2008
-  - visual-studio
-  - vs2008
+- tfs
+- tfs2008
+- visual-studio
+- vs2008
 categories:
-  - news-and-reviews
-  - products-and-books
+- news-and-reviews
+- products-and-books
 preview: metro-visual-studio-2005-128-link-1-1.png
----
 
+---
 I am very encouraged by [Brain Harry's blog](http://blogs.msdn.com/bharry/archive/2007/07/24/update-on-adoption-of-tfs-at-microsoft.aspx "update on adoption of tfs at microsoft") on [dogfooding](http://en.wikipedia.org/wiki/Dogfooding) at Microsoft. In my battles to get my company to use Team Foundation Server I recently contacted the manager of the most highly regarded development team in the company.
 
 Apart from being initially disheartened by his initial question "Does it run on Unix?" the manager of the team's main reservation was that he is always dubious about a product from  Microsoft that they do not use internally...

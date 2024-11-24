@@ -1,6 +1,6 @@
 ---
-title: "Agility and Windows 10: Upgrading my Surface Pro 2"
-description: "Join Martin Hinshelwood as he shares his experience upgrading a Surface Pro 2 to Windows 10 Technical Preview, exploring agility and user feedback in tech."
+title: 'Agility and Windows 10: Upgrading my Surface Pro 2'
+description: Join Martin Hinshelwood as he shares his experience upgrading a Surface Pro 2 to Windows 10 Technical Preview, exploring agility and user feedback in tech.
 date: 2014-10-02
 creator: Martin Hinshelwood
 id: "10746"
@@ -8,20 +8,23 @@ layout: blog
 resourceTypes: blog
 slug: agility-windows-10-upgrading-surface-pro-2
 aliases:
-  - /blog/agility-windows-10-upgrading-surface-pro-2
+- /blog/agility-windows-10-upgrading-surface-pro-2
+- /agility-windows-10-upgrading-surface-pro-2
+- /agility-and-windows-10--upgrading-my-surface-pro-2
+- /blog/agility-and-windows-10--upgrading-my-surface-pro-2
 tags:
-  - agility
-  - dell-venue-8
-  - surface-2-pro
-  - windows
-  - windows-10
+- agility
+- dell-venue-8
+- surface-2-pro
+- windows
+- windows-10
 categories:
-  - install-and-configuration
-  - measure-and-learn
-  - news-and-reviews
+- install-and-configuration
+- measure-and-learn
+- news-and-reviews
 preview: nakedalm-windows-logo-12-12.png
----
 
+---
 You know me, I am always willing to take a little risk to get some gain. As such I will be upgrading my Surface Pro 2 to Windows 10 Technical Preview on the train on the way back from teaching the Professional Scrum Foundations in Cheltenham.
 
 Yesterday, 1st September 2014, Microsoft released the first Technical Preview for Windows 10 to the general population. Anyone can give it a spin by going to [http://preview.windows.com](http://preview.windows.com). This preview program, and Windows 10, is different from any other Windows release from Microsoft. They are moving to continuous delivery for Windows.

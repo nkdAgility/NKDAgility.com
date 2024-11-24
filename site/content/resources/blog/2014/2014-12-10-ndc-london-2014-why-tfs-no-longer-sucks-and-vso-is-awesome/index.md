@@ -1,6 +1,6 @@
 ---
-title: "NDC London 2014: Why TFS no longer sucks and VSO is awesome"
-description: "Discover why TFS has transformed and how VSO enhances your development process. Join Martin Hinshelwood's insights from NDC London 2014 for agile success!"
+title: 'NDC London 2014: Why TFS no longer sucks and VSO is awesome'
+description: Discover why TFS has transformed and how VSO enhances your development process. Join Martin Hinshelwood's insights from NDC London 2014 for agile success!
 date: 2014-12-10
 creator: Martin Hinshelwood
 id: "10980"
@@ -8,21 +8,24 @@ layout: blog
 resourceTypes: blog
 slug: ndc-london-2014-why-tfs-no-longer-sucks-and-vso-is-awesome
 aliases:
-  - /blog/ndc-london-2014-why-tfs-no-longer-sucks-and-vso-is-awesome
+- /blog/ndc-london-2014-why-tfs-no-longer-sucks-and-vso-is-awesome
+- /ndc-london-2014-why-tfs-no-longer-sucks-and-vso-is-awesome
+- /ndc-london-2014--why-tfs-no-longer-sucks-and-vso-is-awesome
+- /blog/ndc-london-2014--why-tfs-no-longer-sucks-and-vso-is-awesome
 tags:
-  - agile-planning-tools
-  - feedback-client
-  - git
-  - mtm
-  - ndc
-  - test-management
-  - tfs
-  - vsteamservices
+- agile-planning-tools
+- feedback-client
+- git
+- mtm
+- ndc
+- test-management
+- tfs
+- vsteamservices
 categories:
-  - news-and-reviews
+- news-and-reviews
 preview: nakedalm-experts-visual-studio-alm-3-3.png
----
 
+---
 I was in London last week to do a talk on why TFS no longer sucks entitled “[Second Look, Team Foundation Server & VSO](http://nkdagility.com/ndc-london-second-look-team-foundation-server-vso/)”. I had a tone of preparatory work to do too make the demos smooth. The great god Murphy was however not smiling, but he was not angry. Some errors occurred, but no blue screens.
 
 There are many folks that have used older versions of TFS and dismissed future versions on that basis. However I wanted to do an end to end demonstration (soup to nuts) to show what TFS can bring to the table since it was updated in 2012. TFS prior to 2010 was a cumbersome, enterprise only endeavour and now it really is not. I have done demos before with install and configure of a local TFS server in under 30 minutes, so that part is easy. With the launch of Visual Studio Online (VSO) which is effectively Team Foundation Server (TFS) on steroids in the cloud most of the issues are gone while the stigma remains.

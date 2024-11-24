@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=fUj1k47pDg8
 aliases:
 - /resources/videos/fUj1k47pDg8
 - /resources/videos/ppdv-course-overview-with-dr-joanna-plaskonka
+- /resources/ppdv-course-overview-with-dr-joanna-plaskonka
 preview: https://i.ytimg.com/vi/fUj1k47pDg8/maxresdefault.jpg
 duration: 355
 isShort: false
@@ -26,4 +27,3 @@ source: youtube
 Thinking of doing the PPDV course? Here's a quick overview of the course from Dr Joanna Plaskonka. Visit https://nkdagility.com/training-courses/product-training-courses/professional-product-discovery-and-validation-skills-ppdv/ to register. #agile #scrum #productowner #projectmanager #productmanager #productdiscovery #agileproductdevelopment
 
 [Watch on YouTube](https://www.youtube.com/watch?v=fUj1k47pDg8)
-

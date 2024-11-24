@@ -1,6 +1,6 @@
 ---
 title: Why Most Scrum Masters Are Failing and What They Should Know
-description: "Discover why many Scrum Masters fail and learn essential skills for success. Elevate your Agile practices and ensure your team's effectiveness today!"
+description: Discover why many Scrum Masters fail and learn essential skills for success. Elevate your Agile practices and ensure your team's effectiveness today!
 date: 2024-09-05
 creator: Martin Hinshelwood
 id: "51730"
@@ -8,14 +8,18 @@ layout: blog
 resourceTypes: blog
 slug: the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
 aliases:
-  - /blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
+- /blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
+- /blog/why-most-scrum-masters-are-failing-and-what-they-should-know/
+- /the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
+- /why-most-scrum-masters-are-failing-and-what-they-should-know
+- /blog/why-most-scrum-masters-are-failing-and-what-they-should-know
 tags:
-  - Scrum Masters
+- Scrum Masters
 categories:
-  - agility
+- agility
 preview: NKDAgility-technically-whymostscrummastersarefailing-2-2.jpg
----
 
+---
 As a DevOps consultant, Agile consultant, and trainer, I’ve worked with hundreds of companies to improve their software product development. It’s astonishing how many Scrum Masters lack even a basic understanding of Scrum, let alone the expertise required to support the teams they work with.
 
 A significant portion of Scrum Masters (about 61%\*) have either never read the Scrum Guide, lack technical proficiency relevant to their teams, or have only a superficial grasp of how to apply Scrum principles.

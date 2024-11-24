@@ -1,6 +1,6 @@
 ---
 title: Professional Scrum Foundations coming to Glasgow, Scotland in November 2013
-description: "Join the Professional Scrum Foundations course in Glasgow this November 2013. Enhance your team's understanding of Scrum and drive agile adoption effectively!"
+description: Join the Professional Scrum Foundations course in Glasgow this November 2013. Enhance your team's understanding of Scrum and drive agile adoption effectively!
 date: 2013-09-04
 creator: Martin Hinshelwood
 id: "10094"
@@ -8,19 +8,22 @@ layout: blog
 resourceTypes: blog
 slug: professional-scrum-foundations-coming-to-glasgow-scotland-in-november-2013
 aliases:
-  - /blog/professional-scrum-foundations-coming-to-glasgow-scotland-in-november-2013
+- /blog/professional-scrum-foundations-coming-to-glasgow-scotland-in-november-2013
+- /professional-scrum-foundations-coming-to-glasgow-scotland-in-november-2013
+- /professional-scrum-foundations-coming-to-glasgow,-scotland-in-november-2013
+- /blog/professional-scrum-foundations-coming-to-glasgow,-scotland-in-november-2013
 tags:
-  - psd
-  - psf
-  - psm
-  - scrum
-  - scrum-org
+- psd
+- psf
+- psm
+- scrum
+- scrum-org
 categories:
-  - events-and-presentations
-  - people-and-process
+- events-and-presentations
+- people-and-process
 preview: PSF_Badges-2-2.png
----
 
+---
 ![PST-Badge-v2-web-transparent](images/PST-Badge-v2-web-transparent-4-4.png "PST-Badge-v2-web-transparent")For too long has Scotland been ignored in Professional  Scrum Training. I am not sure if there has ever been a Scrum.org course held here as I could not find one and the last time Ken was here was way back in 2004.
 { .post-img }
 

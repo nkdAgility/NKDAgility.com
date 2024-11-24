@@ -1,6 +1,6 @@
 ---
 title: The Sprint is a container for Planning and not necessarily for Delivery
-description: "Explore how Scrum can enhance planning without strict delivery schedules. Learn to embrace Continuous Delivery for better software development practices."
+description: Explore how Scrum can enhance planning without strict delivery schedules. Learn to embrace Continuous Delivery for better software development practices.
 date: 2011-11-29
 creator: Martin Hinshelwood
 id: "4092"
@@ -8,15 +8,16 @@ layout: blog
 resourceTypes: blog
 slug: the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
 aliases:
-  - /blog/the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
+- /blog/the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
+- /the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
 tags:
-  - sprint-planning
+- sprint-planning
 categories:
-  - people-and-process
-  - tools-and-techniques
+- people-and-process
+- tools-and-techniques
 preview: nakedalm-logo-128-link-2-2.png
----
 
+---
 I have been told time and again in the office that Scrum is an inflexible platform for developing software as it is way too prescriptive. This is far from reality and represents an invalid interpretation in the rules of the game. This fault lies not with those that have been turned away from the light, but with the fanatics that have brandished the burning torch and pitchfork at your door chanting "that is not Scrum because...".
 
 [![Image(1)](images/Image1_thumb-1-1.png "Image(1)")](http://blog.hinshelwood.com/files/2011/11/Image1.png)  

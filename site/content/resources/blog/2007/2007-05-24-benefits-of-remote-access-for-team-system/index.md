@@ -1,6 +1,6 @@
 ---
 title: Benefits of remote access for Team System
-description: "Discover the advantages of remote access for Team System, enabling seamless collaboration with global teams while ensuring secure and efficient project management."
+description: Discover the advantages of remote access for Team System, enabling seamless collaboration with global teams while ensuring secure and efficient project management.
 date: 2007-05-24
 creator: Martin Hinshelwood
 id: "398"
@@ -8,10 +8,11 @@ layout: blog
 resourceTypes: blog
 slug: benefits-of-remote-access-for-team-system
 aliases:
-  - /blog/benefits-of-remote-access-for-team-system
+- /blog/benefits-of-remote-access-for-team-system
+- /benefits-of-remote-access-for-team-system
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 Remote access for Team Server is about disparate teams. This means that you can use those cheep contractors in eastern Europe without needing to give them a small project because of the difficulties in integrating their work.
 
 Essentially you use SSL with Active Directory to secure the services and sites while giving them controlled access to the system.

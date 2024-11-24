@@ -1,6 +1,6 @@
 ---
 title: What the 0x80072020?
-description: "Discover the 0x80072020 error in .NET 3.5 and learn how to securely access Active Directory with user credentials. Find solutions and insights here!"
+description: Discover the 0x80072020 error in .NET 3.5 and learn how to securely access Active Directory with user credentials. Find solutions and insights here!
 date: 2008-03-04
 creator: Martin Hinshelwood
 id: "243"
@@ -8,15 +8,18 @@ layout: blog
 resourceTypes: blog
 slug: what-the-0x80072020
 aliases:
-  - /blog/what-the-0x80072020
+- /blog/what-the-0x80072020
+- /what-the-0x80072020
+- /what-the-0x80072020-
+- /blog/what-the-0x80072020-
 tags:
-  - code
-  - wcf
+- code
+- wcf
 categories:
-  - code-and-complexity
+- code-and-complexity
 preview: metro-binary-vb-128-link-1-1.png
----
 
+---
 I have found a small bug (as in, "Not working as expected!") in the new .NET 3.5 PrincipalContext classes. When you are running on an ASP.NET site in impersonation mode you cannot retrieve information from active directory without the following error:
 
 > _System.Runtime.InteropServices.COMException (0x80072020): An operations error occurred. at System.DirectoryServices.DirectoryEntry.Bind(Boolean throwIfFail) at System.DirectoryServices.DirectoryEntry.Bind() at System.DirectoryServices.DirectoryEntry.get_AdsObject() at System.DirectoryServices.PropertyValueCollection.PopulateList() at System.DirectoryServices.PropertyValueCollection..ctor(DirectoryEntry entry, String propertyName) at System.DirectoryServices.PropertyCollection.get_Item(String propertyName) at System.DirectoryServices.AccountManagement.PrincipalContext.DoLDAPDirectoryInitNoContainer() at System.DirectoryServices.AccountManagement.PrincipalContext.DoDomainInit() at System.DirectoryServices.AccountManagement.PrincipalContext.Initialize() at System.DirectoryServices.AccountManagement.PrincipalContext.get_QueryCtx() at System.DirectoryServices.AccountManagement.Principal.FindByIdentityWithTypeHelper(PrincipalContext context, Type principalType, Nullable\`1 identityType, String identityValue, DateTime refDate) at System.DirectoryServices.AccountManagement.Principal.FindByIdentityWithType(PrincipalContext context, Type principalType, IdentityType identityType, String identityValue) at System.DirectoryServices.AccountManagement.UserPrincipal.FindByIdentity(PrincipalContext context, IdentityType identityType, String identityValue) at UI_Controls_SharepointControl.Page_Load(Object sender, EventArgs e)_

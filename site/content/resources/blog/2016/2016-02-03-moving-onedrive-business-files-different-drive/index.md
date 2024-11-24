@@ -1,6 +1,6 @@
 ---
 title: Moving OneDrive for Business files to a different drive
-description: "Learn how to efficiently move your OneDrive for Business files to a new drive, freeing up space and ensuring seamless access. Follow these easy steps!"
+description: Learn how to efficiently move your OneDrive for Business files to a new drive, freeing up space and ensuring seamless access. Follow these easy steps!
 date: 2016-02-03
 creator: Martin Hinshelwood
 id: "11440"
@@ -8,14 +8,17 @@ layout: blog
 resourceTypes: blog
 slug: moving-onedrive-business-files-different-drive
 aliases:
-  - /blog/moving-onedrive-business-files-different-drive
+- /blog/moving-onedrive-business-files-different-drive
+- /moving-onedrive-business-files-different-drive
+- /moving-onedrive-for-business-files-to-a-different-drive
+- /blog/moving-onedrive-for-business-files-to-a-different-drive
 tags:
-  - onedrive
+- onedrive
 categories:
-  - install-and-configuration
+- install-and-configuration
 preview: clip_image001-1-1-1.png
----
 
+---
 I recent ran into a problem where my OneDrive files were taking up too much space on my main drive and preventing Windows 10 updates on the Insider Program. This works for both OneDrive consumer application and the new OnDrive for Business beta application.
 
 ![clip_image001](images/clip_image001-1-1-1.png "clip_image001")

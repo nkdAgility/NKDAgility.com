@@ -3,6 +3,7 @@ title: 1 thing that sinks a consulting engagement before it starts gaining tract
 description: 'Discover the key factor that can derail your consulting engagement before it even begins. Join Martin Hinshelwood for essential insights! #agile #consulting #shorts'
 date: 2023-12-08
 videoId: 7VBtGTlkAdM
+source: internal
 url: /resources/videos/:slug
 slug: 1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
 preview: https://i.ytimg.com/vi/7VBtGTlkAdM/maxresdefault.jpg
@@ -13,6 +14,7 @@ aliases:
 - /resources/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
 - /resources/videos/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
 - /resources/videos/7VBtGTlkAdM
+- /blog//1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction/
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -68,9 +70,3 @@ Don't fall into the contract trap.  Equip yourself with the agility and foresig
 My Agile and Scrum courses offer this much-needed perspective.  Ready to redefine your consulting approach?  Enroll today! 🌟
 
 👉 Transform Your Consulting Career Now!
-
-
-
-
-
-

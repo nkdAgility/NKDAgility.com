@@ -1,6 +1,6 @@
 ---
 title: Where am I?
-description: "Explore the innovative Locator project using LINQ and .NET 3.5 to track user locations in real-time, enhancing connectivity and efficiency in your workplace."
+description: Explore the innovative Locator project using LINQ and .NET 3.5 to track user locations in real-time, enhancing connectivity and efficiency in your workplace.
 date: 2007-11-09
 creator: Martin Hinshelwood
 id: "294"
@@ -8,15 +8,18 @@ layout: blog
 resourceTypes: blog
 slug: where-am-i
 aliases:
-  - /blog/where-am-i
+- /blog/where-am-i
+- /where-am-i
+- /where-am-i-
+- /blog/where-am-i-
 tags:
-  - ml
-  - wcf
+- ml
+- wcf
 categories:
-  - me
+- me
 preview: metro-merilllynch-128-link-5-1.png
----
 
+---
 I decided that I should have a go at this LINQ thing, so as .NET 3.5 will be RTM at the end of the month I am using LINQ and .NET 3.5 in my new Locator project.
 
 The Locator project is just a small application that will run on a users computer and tell a central server where they are. In Aggreko we have the problem that people are moving about a lot (everyone has a laptop) and when you are looking for someone you need to be able to find them.

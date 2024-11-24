@@ -1,6 +1,6 @@
 ---
 title: The cause of dyslexia
-description: "Explore the genetic and neurological causes of dyslexia, uncovering its unique brain architecture and the strengths it can foster in individuals."
+description: Explore the genetic and neurological causes of dyslexia, uncovering its unique brain architecture and the strengths it can foster in individuals.
 date: 2007-08-11
 creator: Martin Hinshelwood
 id: "334"
@@ -8,14 +8,15 @@ layout: blog
 resourceTypes: blog
 slug: the-cause-of-dyslexia
 aliases:
-  - /blog/the-cause-of-dyslexia
+- /blog/the-cause-of-dyslexia
+- /the-cause-of-dyslexia
 tags:
-  - dyslexia
+- dyslexia
 categories:
-  - me
+- me
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 Rather than confuse the issue with my verbal dexterity (or excrement from my brain is more likely) I will quote from a source on the web:
 
 > [Dyslexia](http://www.dyslexia.tv/freethinkersu/dyslexic_dictionary.htm "Multi-dimensional FreeThinking") is an inherited condition. Researchers have determined that a gene on the short arm of chromosome #6 is responsible for [Dyslexia](http://www.dyslexia.tv/freethinkersu/dyslexic_dictionary.htm "Multi-dimensional FreeThinking"). That gene is dominant, making [Dyslexia](http://www.dyslexia.tv/freethinkersu/dyslexic_dictionary.htm "Multi-dimensional FreeThinking") highly heritable. It definitely runs in families.

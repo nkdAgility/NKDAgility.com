@@ -3,6 +3,7 @@ title: Why is Satya Nadella a better example of agile leadership than Steve Jobs
 description: Discover why Satya Nadella exemplifies agile leadership better than Steve Jobs, as Martin Hinshelwood explores vision and teamwork in this insightful video.
 date: 2023-03-01
 videoId: HTv3NkNJovk
+source: internal
 url: /resources/videos/:slug
 slug: why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs
 preview: https://i.ytimg.com/vi/HTv3NkNJovk/maxresdefault.jpg
@@ -12,6 +13,7 @@ aliases:
 - /resources/why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs
 - /resources/videos/why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs-
 - /resources/videos/HTv3NkNJovk
+- /resources/why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -128,9 +130,3 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-
-
-
-
-

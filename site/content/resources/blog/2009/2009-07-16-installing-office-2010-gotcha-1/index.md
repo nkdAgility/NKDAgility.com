@@ -1,6 +1,6 @@
 ---
 title: Installing Office 2010 gotcha 1
-description: "Discover the challenges of installing Office 2010 on a 64-bit system. Learn about upgrade limitations and tips to streamline your setup process."
+description: Discover the challenges of installing Office 2010 on a 64-bit system. Learn about upgrade limitations and tips to streamline your setup process.
 date: 2009-07-16
 creator: Martin Hinshelwood
 id: "104"
@@ -8,13 +8,14 @@ layout: blog
 resourceTypes: blog
 slug: installing-office-2010-gotcha-1
 aliases:
-  - /blog/installing-office-2010-gotcha-1
+- /blog/installing-office-2010-gotcha-1
+- /installing-office-2010-gotcha-1
 tags:
-  - office
-  - tools
+- office
+- tools
 preview: nakedalm-logo-128-link-2-2.png
----
 
+---
 I am installing office 2010, and I ran into my first gotcha!
 
 I have a 64 bit computer and I wanted to use the 64bit version of Office, but there is no upgrade option for this, you need to uninstall Office 2007 32bit (the only version there is) and put the 64bit on… Here is the message…

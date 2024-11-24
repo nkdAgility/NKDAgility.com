@@ -1,27 +1,28 @@
 ---
 title: Blocked Columns on Kanban Boards Obfuscate Workflow and Undermine Effectiveness
-description: "Discover how blocked columns on Kanban boards hinder workflow efficiency. Learn effective strategies to enhance transparency and accountability in your team."
+description: Discover how blocked columns on Kanban boards hinder workflow efficiency. Learn effective strategies to enhance transparency and accountability in your team.
 date: 2024-02-13
 creator: Martin Hinshelwood
 contributors:
-  - name: Will Seele
-    external: https://www.linkedin.com/in/wjseele/
+- name: Will Seele
+  external: https://www.linkedin.com/in/wjseele/
 id: "51208"
 layout: blog
 resourceTypes: blog
 slug: blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
 aliases:
-  - /blog/blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
+- /blog/blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
+- /blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
 tags:
-  - homepage
+- homepage
 categories:
-  - agility
-  - kanban
-  - measure-and-learn
-  - tools-and-techniques
+- agility
+- kanban
+- measure-and-learn
+- tools-and-techniques
 preview: NKDAgility-technically-BlockedColumns-7-7.jpg
----
 
+---
 The Boards in Azure DevOps are a powerful tool that your teams can leverage to enable transparent visualization of the current state of value delivery.
 
 However, the inclusion of Blocked columns can stealthily erode the very foundations of efficiency these boards are meant to uphold. By obfuscating the state of work-in-progress and breeding a culture of hands-off responsibility, Blocked columns can become the silent saboteurs in your workflow.

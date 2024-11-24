@@ -1,6 +1,6 @@
 ---
 title: Upgrading to Team Foundation Server 2013
-description: "Upgrade to Team Foundation Server 2013 effortlessly! Discover essential tips, backup strategies, and a smooth installation process for your TFS environment."
+description: Upgrade to Team Foundation Server 2013 effortlessly! Discover essential tips, backup strategies, and a smooth installation process for your TFS environment.
 date: 2013-06-26
 creator: Martin Hinshelwood
 id: "9907"
@@ -8,17 +8,18 @@ layout: blog
 resourceTypes: blog
 slug: upgrading-to-team-foundation-server-2013
 aliases:
-  - /blog/upgrading-to-team-foundation-server-2013
+- /blog/upgrading-to-team-foundation-server-2013
+- /upgrading-to-team-foundation-server-2013
 tags:
-  - configuration
-  - tf255193
-  - tfs
-  - tfs-2013
-  - tools
+- configuration
+- tf255193
+- tfs
+- tfs-2013
+- tools
 categories:
-  - install-and-configuration
----
+- install-and-configuration
 
+---
 With the release of Team Foundation Server 2013 I need to upgrade all of my servers. I have a few customer installs getting prepped and I wanted to get a look see.
 
 I run a TFS server locally to do demos; prove out the existence, or lack, of bugs; and to figure out what is going on under the covers. This server (Kraken) is a virtual machine running locally and can easily be backed up and restored. My recommendation is to never attempt an upgrade without a backup and preferably upgrade to a new server.

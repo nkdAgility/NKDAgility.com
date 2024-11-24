@@ -1,6 +1,6 @@
 ---
 title: No love between McAfee Enterprise and MOSS 2007
-description: "Discover the issues between McAfee Enterprise and MOSS 2007 that hinder SharePoint performance. Learn how to resolve conflicts for smoother operations."
+description: Discover the issues between McAfee Enterprise and MOSS 2007 that hinder SharePoint performance. Learn how to resolve conflicts for smoother operations.
 date: 2007-12-13
 creator: Martin Hinshelwood
 id: "274"
@@ -8,18 +8,19 @@ layout: blog
 resourceTypes: blog
 slug: no-love-between-mcafee-enterprise-and-moss-2007
 aliases:
-  - /blog/no-love-between-mcafee-enterprise-and-moss-2007
+- /blog/no-love-between-mcafee-enterprise-and-moss-2007
+- /no-love-between-mcafee-enterprise-and-moss-2007
 tags:
-  - infrastructure
-  - moss2007
-  - sharepoint
-  - sp2007
-  - tools
+- infrastructure
+- moss2007
+- sharepoint
+- sp2007
+- tools
 categories:
-  - code-and-complexity
+- code-and-complexity
 preview: metro-sharepoint-128-link-1-1.png
----
 
+---
 Well I think I have found the root of the problem with my Microsoft office SharePoint Server 2007 dev box! It was McAfee  plain and simple.
 
 > _Event Type:    Error  

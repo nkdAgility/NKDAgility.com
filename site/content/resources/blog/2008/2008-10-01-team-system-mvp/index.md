@@ -1,6 +1,6 @@
 ---
 title: Team System MVP
-description: "Join Martin Hinshelwood as he celebrates becoming a Team System MVP, sharing insights and gratitude for this prestigious recognition in the tech community."
+description: Join Martin Hinshelwood as he celebrates becoming a Team System MVP, sharing insights and gratitude for this prestigious recognition in the tech community.
 date: 2008-10-01
 creator: Martin Hinshelwood
 id: "189"
@@ -8,15 +8,16 @@ layout: blog
 resourceTypes: blog
 slug: team-system-mvp
 aliases:
-  - /blog/team-system-mvp
+- /blog/team-system-mvp
+- /team-system-mvp
 tags:
-  - awards
-  - tfs
+- awards
+- tfs
 categories:
-  - me
+- me
 preview: metro-award-link-1-1.png
----
 
+---
 Well, I have just joined the auspicious ranks of [Team System MVP’s](https://mvp.support.microsoft.com/communities/mvp.aspx?product=1&competency=Team+System), now numbering 73 worldwide. You can see [my profile](https://mvp.support.microsoft.com/profile/Martin.Hinshelwood) on the MVP site. My name will now appear along side [Mitch Denny](https://mvp.support.microsoft.com/profile=2975269C-7D9E-46AE-A9DF-3E410887F30E) and [Tiago Pascoal](https://mvp.support.microsoft.com/profile=1874DC2D-2365-499A-8BD5-BF2D4702F340). Wow… I have a lot to aspire to…
 
 I should really thank Tiago Pascoal as I have a sneaky suspicion that he was the one that nominated me :) Thanks Tiago…

@@ -3,6 +3,7 @@ title: '7 deadly sins of Agile: Gluttony'
 description: "Discover the pitfalls of gluttony in Agile! \U0001F354 Learn how bloated backlogs and overloaded sprints waste effort and hinder success. Watch now! \U0001F4CA✨"
 date: 2023-12-30
 videoId: 2ASLFX2i9_g
+source: internal
 url: /resources/videos/:slug
 slug: 7-deadly-sins-of-agile-gluttony
 preview: https://i.ytimg.com/vi/2ASLFX2i9_g/maxresdefault.jpg
@@ -12,6 +13,7 @@ aliases:
 - /resources/7-deadly-sins-of-agile-gluttony
 - /resources/videos/gluttony!-7-deadly-sins-of-agile
 - /resources/videos/2ASLFX2i9_g
+- /resources/gluttony!-7-deadly-sins-of-agile
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -92,9 +94,3 @@ The key to avoiding gluttony in Agile and Scrum is recognising that more isn't a
 - **Embrace Value Delivery:** Ensure every feature and task adds real value. 
 
 - **Leverage Feedback:** Use insights from customers and team members to guide decisions.
-
-
-
-
-
-

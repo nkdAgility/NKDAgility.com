@@ -1,6 +1,6 @@
 ---
 title: Avoid the pick-n-mix branching anti-pattern
-description: "Discover how to avoid the pick-n-mix branching anti-pattern in software development. Learn effective strategies to enhance code quality and team trust."
+description: Discover how to avoid the pick-n-mix branching anti-pattern in software development. Learn effective strategies to enhance code quality and team trust.
 date: 2014-07-14
 creator: Martin Hinshelwood
 id: "10649"
@@ -8,15 +8,18 @@ layout: blog
 resourceTypes: blog
 slug: avoid-pick-n-mix-branching-anti-pattern
 aliases:
-  - /blog/avoid-pick-n-mix-branching-anti-pattern
+- /blog/avoid-pick-n-mix-branching-anti-pattern
+- /avoid-pick-n-mix-branching-anti-pattern
+- /avoid-the-pick-n-mix-branching-anti-pattern
+- /blog/avoid-the-pick-n-mix-branching-anti-pattern
 tags:
-  - anti-pattern
-  - branching
+- anti-pattern
+- branching
 categories:
-  - tools-and-techniques
+- tools-and-techniques
 preview: nakedalm-experts-visual-studio-alm-4-4.png
----
 
+---
 For the last few days I have been working with a customer in the UK on a grass roots engagement to help them solve their source control issues. They have ended up with a pick-n-mix branching anti-pattern and could not see the way out.
 
 The pick-n-mix branching anti-pattern is something I encounter quite often and on the surface it looks like it should work and give the business flexibility. However the real result is lost code, failed releases, technical debt, unhappy customers, and an erosion of trust with the business.

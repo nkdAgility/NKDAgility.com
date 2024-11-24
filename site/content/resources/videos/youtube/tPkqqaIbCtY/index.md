@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=tPkqqaIbCtY
 aliases:
 - /resources/videos/tPkqqaIbCtY
 - /resources/videos/-shorts-7-virtues-of-agile-kindness
+- /resources/-shorts-7-virtues-of-agile-kindness
 preview: https://i.ytimg.com/vi/tPkqqaIbCtY/maxresdefault.jpg
 duration: 48
 isShort: true
@@ -60,4 +61,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=tPkqqaIbCtY)
-

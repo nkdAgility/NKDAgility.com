@@ -1,6 +1,6 @@
 ---
-title: "Issue SharePoint 2013: The username is invalid. The account must be a valid domain account"
-description: "Resolve the SharePoint 2013 username error with our step-by-step guide. Learn how to configure your farm using PowerShell for a smooth setup!"
+title: 'Issue SharePoint 2013: The username is invalid. The account must be a valid domain account'
+description: Resolve the SharePoint 2013 username error with our step-by-step guide. Learn how to configure your farm using PowerShell for a smooth setup!
 date: 2012-08-07
 creator: Martin Hinshelwood
 id: "7015"
@@ -8,15 +8,18 @@ layout: blog
 resourceTypes: blog
 slug: issue-sharepoint-2013-the-username-is-invalid-the-account-must-be-a-valid-domain-account
 aliases:
-  - /blog/issue-sharepoint-2013-the-username-is-invalid-the-account-must-be-a-valid-domain-account
+- /blog/issue-sharepoint-2013-the-username-is-invalid-the-account-must-be-a-valid-domain-account
+- /issue-sharepoint-2013-the-username-is-invalid-the-account-must-be-a-valid-domain-account
+- /issue-sharepoint-2013--the-username-is-invalid--the-account-must-be-a-valid-domain-account
+- /blog/issue-sharepoint-2013--the-username-is-invalid--the-account-must-be-a-valid-domain-account
 tags:
-  - puzzles
-  - sharepoint
+- puzzles
+- sharepoint
 categories:
-  - problems-and-puzzles
+- problems-and-puzzles
 preview: metro-problem-icon-5-5.png
----
 
+---
 When configuring SharePoint 2013 in “Complete” mode you get a “The username is invalid. The account mist be a valid domain account” when using a local account to configure the farm…
 
 [![image_thumb[15]](images/image_thumb15_thumb-1-1.png "image_thumb[15]")](http://blog.hinshelwood.com/files/2012/08/image_thumb151.png)  

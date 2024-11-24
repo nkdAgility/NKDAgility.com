@@ -1,6 +1,6 @@
 ---
 title: Festive holiday studying
-description: "Join Martin Hinshelwood as he shares his festive holiday plans, Xbox gaming, and insights on mastering WPF for .NET development. Embrace the holiday spirit!"
+description: Join Martin Hinshelwood as he shares his festive holiday plans, Xbox gaming, and insights on mastering WPF for .NET development. Embrace the holiday spirit!
 date: 2007-12-18
 creator: Martin Hinshelwood
 id: "273"
@@ -8,18 +8,19 @@ layout: blog
 resourceTypes: blog
 slug: festive-holiday-studying
 aliases:
-  - /blog/festive-holiday-studying
+- /blog/festive-holiday-studying
+- /festive-holiday-studying
 tags:
-  - sharepoint
-  - sp2007
-  - spf2010
-  - wpf
-  - xbox
+- sharepoint
+- sp2007
+- spf2010
+- wpf
+- xbox
 categories:
-  - me
+- me
 preview: metro-xbox-360-link-3-3.png
----
 
+---
 [![020](images/Festiveholidaystudying_12D57-020_thumb-1-1.jpg)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Festiveholidaystudying_12D57-020.jpg)
 { .post-img }
 

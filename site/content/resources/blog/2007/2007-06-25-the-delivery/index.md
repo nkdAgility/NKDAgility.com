@@ -1,6 +1,6 @@
 ---
 title: The Delivery
-description: "Join Martin Hinshelwood as he shares the unforgettable story of his daughter's birth, a moment that changed his life forever. Celebrate this special milestone!"
+description: Join Martin Hinshelwood as he shares the unforgettable story of his daughter's birth, a moment that changed his life forever. Celebrate this special milestone!
 date: 2007-06-25
 creator: Martin Hinshelwood
 id: "374"
@@ -8,12 +8,13 @@ layout: blog
 resourceTypes: blog
 slug: the-delivery
 aliases:
-  - /blog/the-delivery
+- /blog/the-delivery
+- /the-delivery
 categories:
-  - me
+- me
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 Well, this being my hundredth post I thought I should mention something special... Something that will change my world forever... Something that will keep me up at night...
 
 My daughter, Evangelina Jade Hinshelwood was born yesterday (24th June 2007) at the Southern General Hospital. Her due date was the 23rd June 2007.

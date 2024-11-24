@@ -1,6 +1,6 @@
 ---
 title: Requirement management in the modern application lifecycle with TFS
-description: "Explore effective requirement management in the modern application lifecycle with TFS. Discover tools and practices to enhance your team's productivity."
+description: Explore effective requirement management in the modern application lifecycle with TFS. Discover tools and practices to enhance your team's productivity.
 date: 2012-09-09
 creator: Martin Hinshelwood
 id: "8700"
@@ -8,23 +8,26 @@ layout: blog
 resourceTypes: blog
 slug: requirement-management-in-the-modern-application-lifecycle
 aliases:
-  - /blog/requirement-management-in-the-modern-application-lifecycle
+- /blog/requirement-management-in-the-modern-application-lifecycle
+- /requirement-management-in-the-modern-application-lifecycle
+- /requirement-management-in-the-modern-application-lifecycle-with-tfs
+- /blog/requirement-management-in-the-modern-application-lifecycle-with-tfs
 tags:
-  - define
-  - infrastructure
-  - modern-application-lifecycle
-  - practices
-  - process
-  - tfs
-  - tfs2012
-  - the-new-normal
-  - tools
-  - wit
+- define
+- infrastructure
+- modern-application-lifecycle
+- practices
+- process
+- tfs
+- tfs2012
+- the-new-normal
+- tools
+- wit
 categories:
-  - tools-and-techniques
+- tools-and-techniques
 preview: metro-requirements-icon-14-14.png
----
 
+---
 Managing requirements is hard and no single tool can tell you how to achieve that within your organisation. To that end, Visual Studio 2012 TFS stays out of the “where do your requirements come from” world and firmly in the “i have my requirements.. .what now?” world and indeed the tools built on top of the requirement management system stay in one niche.
 
 - Update 2013-01-08 - Featured in [ALM Mag Vol 1 Issue 1](http://blog.hinshelwood.com/files/2013/02/Hinshelwood-ALMMag-Vol1Issue1.pdf). If you want to subscribe to future editions I have a [discount subscription](http://www.member.almmag.com/sales.php?coupon=foundingmember) that you can use.

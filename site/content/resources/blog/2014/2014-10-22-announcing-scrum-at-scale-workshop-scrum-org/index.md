@@ -1,6 +1,6 @@
 ---
 title: Upcomming Scrum at Scale Workshop from Scrum.org
-description: "Join the Scrum at Scale Workshop by Scrum.org to drive agile transformation in your organization. Learn to implement effective change and improve culture!"
+description: Join the Scrum at Scale Workshop by Scrum.org to drive agile transformation in your organization. Learn to implement effective change and improve culture!
 date: 2014-10-22
 creator: Martin Hinshelwood
 id: "10824"
@@ -8,21 +8,24 @@ layout: blog
 resourceTypes: blog
 slug: announcing-scrum-at-scale-workshop-scrum-org
 aliases:
-  - /blog/announcing-scrum-at-scale-workshop-scrum-org
+- /blog/announcing-scrum-at-scale-workshop-scrum-org
+- /announcing-scrum-at-scale-workshop-scrum-org
+- /upcomming-scrum-at-scale-workshop-from-scrum-org
+- /blog/upcomming-scrum-at-scale-workshop-from-scrum-org
 tags:
-  - agile
-  - agility
-  - ebmgt
-  - evidence
-  - scrum
-  - scrum-at-scale
-  - scrum-org
+- agile
+- agility
+- ebmgt
+- evidence
+- scrum
+- scrum-at-scale
+- scrum-org
 categories:
-  - news-and-reviews
-  - people-and-process
+- news-and-reviews
+- people-and-process
 preview: nakedalm-experts-professional-scrum-2-2.png
----
 
+---
 If you are scaling agility in the enterprise through scrum then you will understand when I say that this can be a very difficult problem. And it's mostly about people and about culture and the [Scrum at Scale Workshop](http://nkdagility.com/training/courses/scrum-at-scale-workshop/) can help you.
 
 Scrum.org have long since recognised that many efforts to implement agile in the enterprise have failed or not resulted in the benefits that people were hoping for. This is almost universally due to a lack of commitment to change. And this in turn is the result of your current organisational culture that is finely tuned to produce the current situation. To move forward you need to change that culture.

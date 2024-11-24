@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=r9aCEFpUHWU
 aliases:
 - /resources/videos/r9aCEFpUHWU
 - /resources/videos/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
+- /resources/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
 preview: https://i.ytimg.com/vi/r9aCEFpUHWU/maxresdefault.jpg
 duration: 466
 isShort: false
@@ -61,4 +62,3 @@ We can help your teams build competence, deliver valuable products, and achieve 
 #agile #scrum #scrummaster #productdevelopment #agileproductdevelopment #productowner #productmanager #productmanagement #projectmanagement #projectmanager
 
 [Watch on YouTube](https://www.youtube.com/watch?v=r9aCEFpUHWU)
-

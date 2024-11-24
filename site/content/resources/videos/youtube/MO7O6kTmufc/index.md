@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=MO7O6kTmufc
 aliases:
 - /resources/videos/MO7O6kTmufc
 - /resources/videos/introduction-to-evidence-based-management-excerpt-2
+- /resources/introduction-to-evidence-based-management-excerpt-2
 preview: https://i.ytimg.com/vi/MO7O6kTmufc/maxresdefault.jpg
 duration: 36
 isShort: true
@@ -31,4 +32,3 @@ source: youtube
 Introduction to Evidence-based Management Excerpt 2 #agile #evidencebasedleadership #evidencebasedmanagement #ebm #scrum #leadership #agileleadership
 
 [Watch on YouTube](https://www.youtube.com/watch?v=MO7O6kTmufc)
-

@@ -3,6 +3,7 @@ title: Why Is It So Important that Senior Leadership Teams are Engaged During an
 description: Discover why senior leadership engagement is crucial for successful agile transformations. Join Martin Hinshelwood as he shares key insights!
 date: 2023-11-11
 videoId: ItnQxg3Q4Fc
+source: internal
 url: /resources/videos/:slug
 slug: why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-engagement
 preview: https://i.ytimg.com/vi/ItnQxg3Q4Fc/maxresdefault.jpg
@@ -13,6 +14,7 @@ aliases:
 - /resources/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig
 - /resources/videos/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig-
 - /resources/videos/ItnQxg3Q4Fc
+- /resources/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -74,9 +76,3 @@ In summation, the need for senior leadership engagement is not an optional extra
 Ready to become an Agile powerhouse?
 
 Don't just deepen your understanding—transform it. Explore our comprehensive courses in Agile, Scrum, and transformative change to elevate your Agile skills to an expert level today! 🌟
-
-
-
-
-
-

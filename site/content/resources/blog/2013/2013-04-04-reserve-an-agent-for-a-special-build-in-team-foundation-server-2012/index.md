@@ -1,6 +1,6 @@
 ---
 title: Reserve an Agent for a special build in Team Foundation Server 2012
-description: "Learn how to reserve a build agent in Team Foundation Server 2012 to streamline your build process and avoid conflicts. Optimize your CI/CD workflow now!"
+description: Learn how to reserve a build agent in Team Foundation Server 2012 to streamline your build process and avoid conflicts. Optimize your CI/CD workflow now!
 date: 2013-04-04
 creator: Martin Hinshelwood
 id: "9359"
@@ -8,28 +8,29 @@ layout: blog
 resourceTypes: blog
 slug: reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
 aliases:
-  - /blog/reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
+- /blog/reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
+- /reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
 tags:
-  - agent-scope
-  - build-agent
-  - code
-  - configuration
-  - infrastructure
-  - operational
-  - snapshot
-  - tactical
-  - tag
-  - tfs
-  - tfs2012
-  - tfs2012-2
-  - tools
-  - vm
+- agent-scope
+- build-agent
+- code
+- configuration
+- infrastructure
+- operational
+- snapshot
+- tactical
+- tag
+- tfs
+- tfs2012
+- tfs2012-2
+- tools
+- vm
 categories:
-  - code-and-complexity
-  - tools-and-techniques
+- code-and-complexity
+- tools-and-techniques
 preview: nakedalm-experts-visual-studio-alm-11-11.png
----
 
+---
 By the time you hit the AgentScope activity in a TF Build workflow you are already running on the agent and if you have things you need to configure you need to figure out some way to reserve an agent before you get there.
 
 - **Update 2013-04-04** - All three of the activities below have been added to the [TFS Community Build Extensions](http://tfsbuildextensions.codeplex.com/documentation) project on Codeplex and will be in a future release

@@ -1,6 +1,6 @@
 ---
 title: Do you have MSDN at work? Use Visual Studio Ultimate for free at home?
-description: "Unlock the full potential of your MSDN subscription! Discover how to use Visual Studio Ultimate for free at home and enhance your development skills."
+description: Unlock the full potential of your MSDN subscription! Discover how to use Visual Studio Ultimate for free at home and enhance your development skills.
 date: 2012-03-04
 creator: Martin Hinshelwood
 id: "4828"
@@ -8,22 +8,25 @@ layout: blog
 resourceTypes: blog
 slug: do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn
 aliases:
-  - /blog/do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn
+- /blog/do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn
+- /do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn
+- /do-you-have-msdn-at-work--use-visual-studio-ultimate-for-free-at-home-
+- /blog/do-you-have-msdn-at-work--use-visual-studio-ultimate-for-free-at-home-
 tags:
-  - configuration
-  - develop
-  - msdn
-  - nwcadence
-  - tools
-  - visual-studio
-  - vs2010
-  - vs2012
+- configuration
+- develop
+- msdn
+- nwcadence
+- tools
+- visual-studio
+- vs2010
+- vs2012
 categories:
-  - me
-  - tools-and-techniques
+- me
+- tools-and-techniques
 preview: nakedalm-experts-visual-studio-alm-3-3.png
----
 
+---
 Are you a professional developer? Do you get an MSDN from your organisation? Did you know that you can use it at home on both commercial and open source projects of your own!
 
 > MSDN subscriptions are licensed on a **per-user basis**.  One person can use the software to design, develop, test, or demonstrate his or her programs on **any number of devices**.  Each person who uses the software this way needs a license.  

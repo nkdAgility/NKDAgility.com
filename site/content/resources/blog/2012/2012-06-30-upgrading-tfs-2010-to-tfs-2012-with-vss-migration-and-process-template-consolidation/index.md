@@ -1,6 +1,6 @@
 ---
 title: Upgrading TFS 2010 to TFS 2012 with VSS Migration and Process Template consolidation
-description: "Upgrade your TFS from 2010 to 2012 seamlessly with expert insights on VSS migration and process template consolidation. Enhance your team's efficiency today!"
+description: Upgrade your TFS from 2010 to 2012 seamlessly with expert insights on VSS migration and process template consolidation. Enhance your team's efficiency today!
 date: 2012-06-30
 creator: Martin Hinshelwood
 id: "5702"
@@ -8,23 +8,24 @@ layout: blog
 resourceTypes: blog
 slug: upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation
 aliases:
-  - /blog/upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation
+- /blog/upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation
+- /upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation
 tags:
-  - configuration
-  - infrastructure
-  - tf54000
-  - tf60014
-  - tf60087
-  - tfs
-  - tfs2012
-  - tools
-  - visual-studio
-  - vs2012
+- configuration
+- infrastructure
+- tf54000
+- tf60014
+- tf60087
+- tfs
+- tfs2012
+- tools
+- visual-studio
+- vs2012
 categories:
-  - code-and-complexity
-  - upgrade-and-maintenance
----
+- code-and-complexity
+- upgrade-and-maintenance
 
+---
 Back in Seattle and another awesome engagement, this time with a local company to upgrade their version of TFS from 2010 to 2012 and migrate all of their legacy VSS databases. Additional they want to take advantage of the new team features of TFS 2012 and need to consolidate all of their team projects
 
 I have been looking forward to this engagement for a while and we have a lot to do and get through. I try to create documentation for each customer and for the Team Foundation Server 2012 timeframe I have been trying to feedback as many experiences as possible to Microsoft. To that end these posts are more documentation of experiences rather than full How-To’s and I always try to link to the documentation on MSDN or other blog posts that I used to figure things out. This post is a work in progress, so I will be posting updates as we work through the remaining items for migration…

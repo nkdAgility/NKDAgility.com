@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=ye1wQic8et0
 aliases:
 - /resources/videos/ye1wQic8et0
 - /resources/videos/it's-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true-
+- /resources/it's-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true-
 preview: https://i.ytimg.com/vi/ye1wQic8et0/maxresdefault.jpg
 duration: 408
 isShort: false
@@ -49,4 +50,3 @@ Because you don't just need agility, you need Naked Agility.
 #valuedelivery #projectmanagement #scrumorg #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #agiletraining #devops #agileconsultant #agilecoach #agiletraining
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ye1wQic8et0)
-

@@ -1,6 +1,6 @@
 ---
 title: Guide to ChangeServerId says mostly harmless
-description: "Discover the importance of ChangeServerId in TFS upgrades. Learn how to avoid GUID issues and ensure a smooth transition to your new environment."
+description: Discover the importance of ChangeServerId in TFS upgrades. Learn how to avoid GUID issues and ensure a smooth transition to your new environment.
 date: 2013-03-06
 creator: Martin Hinshelwood
 id: "9249"
@@ -8,19 +8,20 @@ layout: blog
 resourceTypes: blog
 slug: guide-to-changeserverid-says-mostly-harmless
 aliases:
-  - /blog/guide-to-changeserverid-says-mostly-harmless
+- /blog/guide-to-changeserverid-says-mostly-harmless
+- /guide-to-changeserverid-says-mostly-harmless
 tags:
-  - 2012-2
-  - configuration
-  - infrastructure
-  - tf30046
-  - tf31001
-  - tf50620
-  - tools
+- 2012-2
+- configuration
+- infrastructure
+- tf30046
+- tf31001
+- tf50620
+- tools
 categories:
-  - code-and-complexity
----
+- code-and-complexity
 
+---
 If you are cloning your TFS collection then you have to run ChangeServerId. It is reasonably well documented for this senario but what other reasons might you have to run it.
 
 Well if you are upgrading your TFS server you may want to create a duplicate of your environment, run the upgrade and have a few folks connect and try things out. This is where we need to talk about GUIDs. GUIDs are used everywhere in side TFS. Your server has a GUID, your collections have GUIDs and even your Team Projects have GUIDs.

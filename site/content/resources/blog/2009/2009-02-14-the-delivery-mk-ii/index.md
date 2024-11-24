@@ -1,6 +1,6 @@
 ---
-title: "The delivery Mk II"
-description: "Join us in celebrating the birth of Kaiden Ryan William Hinshelwood! Discover the heartwarming story of his quick arrival and family moments."
+title: The delivery Mk II
+description: Join us in celebrating the birth of Kaiden Ryan William Hinshelwood! Discover the heartwarming story of his quick arrival and family moments.
 date: 2009-02-14
 creator: Martin Hinshelwood
 id: "140"
@@ -8,12 +8,13 @@ layout: blog
 resourceTypes: blog
 slug: the-delivery-mk-ii
 aliases:
-  - /blog/the-delivery-mk-ii
+- /blog/the-delivery-mk-ii
+- /the-delivery-mk-ii
 categories:
-  - me
+- me
 preview: nakedalm-logo-128-link-4-1.png
----
 
+---
 We have just had another addition to the family… Kaiden Ryan William Hinshelwood was born at 12:01 on 5th February 2009.
 
 [![2009-02-05 008](images/TheDeliveryMkII_65F4-2009-02-05-008_thumb-1-2.jpg)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TheDeliveryMkII_65F4-2009-02-05-008.jpg)

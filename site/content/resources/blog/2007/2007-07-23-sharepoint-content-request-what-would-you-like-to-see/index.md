@@ -1,6 +1,6 @@
 ---
 title: SharePoint Content Request | What would you like to see?
-description: "Explore the potential of SharePoint and TFS integration! Share your ideas for features that enhance collaboration and streamline processes in your intranet."
+description: Explore the potential of SharePoint and TFS integration! Share your ideas for features that enhance collaboration and streamline processes in your intranet.
 date: 2007-07-23
 creator: Martin Hinshelwood
 id: "361"
@@ -8,10 +8,13 @@ layout: blog
 resourceTypes: blog
 slug: sharepoint-content-request-what-would-you-like-to-see
 aliases:
-  - /blog/sharepoint-content-request-what-would-you-like-to-see
+- /blog/sharepoint-content-request-what-would-you-like-to-see
+- /sharepoint-content-request-what-would-you-like-to-see
+- /sharepoint-content-request---what-would-you-like-to-see-
+- /blog/sharepoint-content-request---what-would-you-like-to-see-
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 [Jeff Julian](//geekswithblogs.net/jjulian/) who kindly provides my blog has been [blogging](http://geekswithblogs.net/jjulian/archive/2007/06/22/113388.aspx "SharePoint Content Request | What would you like to see?") about what features would be good in Sharepoint.
 
 I would like to see all of the capabilities of TeamPlain for Team Foundation Server built into Sharepoint. With versions for both technical and non technical people.  

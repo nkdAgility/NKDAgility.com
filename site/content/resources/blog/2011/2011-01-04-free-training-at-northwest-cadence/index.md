@@ -1,6 +1,6 @@
 ---
 title: Free training at Northwest Cadence
-description: "Discover free training sessions at Northwest Cadence! Join engaging Coffee Talks to enhance your skills in ALM and Quality Assurance. Don't miss out!"
+description: Discover free training sessions at Northwest Cadence! Join engaging Coffee Talks to enhance your skills in ALM and Quality Assurance. Don't miss out!
 date: 2011-01-04
 creator: Martin Hinshelwood
 id: "19"
@@ -8,15 +8,16 @@ layout: blog
 resourceTypes: blog
 slug: free-training-at-northwest-cadence
 aliases:
-  - /blog/free-training-at-northwest-cadence
+- /blog/free-training-at-northwest-cadence
+- /free-training-at-northwest-cadence
 tags:
-  - events-and-presentations
-  - nwcadence
+- events-and-presentations
+- nwcadence
 categories:
-  - events-and-presentations
+- events-and-presentations
 preview: metro-event-128-link-3-3.png
----
 
+---
 **[![NWCadence-Logo](images/d8a99e5b9476_9304-NWCadence-Logo_thumb-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-d8a99e5b9476_9304-NWCadence-Logo_2.png)**
 { .post-img }
 

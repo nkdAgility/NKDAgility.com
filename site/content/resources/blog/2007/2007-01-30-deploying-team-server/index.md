@@ -1,6 +1,6 @@
 ---
 title: Deploying Team Server
-description: "Explore the benefits of deploying TFS in your organization. Learn how a complete solution can enhance development efficiency and streamline project management."
+description: Explore the benefits of deploying TFS in your organization. Learn how a complete solution can enhance development efficiency and streamline project management.
 date: 2007-01-30
 creator: Martin Hinshelwood
 id: "440"
@@ -8,13 +8,14 @@ layout: blog
 resourceTypes: blog
 slug: deploying-team-server
 aliases:
-  - /blog/deploying-team-server
+- /blog/deploying-team-server
+- /deploying-team-server
 tags:
-  - service-oriented-architecture
-  - tfs-build
+- service-oriented-architecture
+- tfs-build
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 Sorry that I have not posted on this subject in a while, but I am lazy. After that last elongated post I am in the mood to write again...
 
 Our TFS implementation is moving forward. I did a presentation on Friday to my peers and  bosses on the need for TFS and the appropriate uses of it. This has all come about as the scope of the project I have been asked to undertake has increased. Instead of 6 developers an 4 project managers, I have been asked to spec for 10 developers and 20 other users. This requires the sourcing of desktops for all as not only do the current computers not have corporate builds (my company buys the windows source and does strange things with it) but the 20 users have thin clients, which will not support Office 2003 (physically yes, but our infrastructure requires Office 2000). More cost..

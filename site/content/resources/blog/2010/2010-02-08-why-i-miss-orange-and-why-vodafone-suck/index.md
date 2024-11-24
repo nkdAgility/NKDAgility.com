@@ -1,6 +1,6 @@
 ---
 title: Why I miss Orange and why Vodafone suck!
-description: "Discover why Martin Hinshelwood misses Orange and shares his frustrating experience with Vodafone's customer service. A must-read for mobile users!"
+description: Discover why Martin Hinshelwood misses Orange and shares his frustrating experience with Vodafone's customer service. A must-read for mobile users!
 date: 2010-02-08
 creator: Martin Hinshelwood
 id: "71"
@@ -8,15 +8,18 @@ layout: blog
 resourceTypes: blog
 slug: why-i-miss-orange-and-why-vodafone-suck
 aliases:
-  - /blog/why-i-miss-orange-and-why-vodafone-suck
+- /blog/why-i-miss-orange-and-why-vodafone-suck
+- /why-i-miss-orange-and-why-vodafone-suck
+- /why-i-miss-orange-and-why-vodafone-suck-
+- /blog/why-i-miss-orange-and-why-vodafone-suck-
 tags:
-  - fail
-  - mobile
+- fail
+- mobile
 categories:
-  - me
+- me
 preview: nakedalm-logo-128-link-2-2.png
----
 
+---
 <rant>
 
 ![logo](images/d7b5cd926c08_137EA-logo_-1-1.gif) I am currently in Sydney Australia attending some training and meeting my boss for the first time. I was having a fantastic time until my wife phoned to let me know that Vodafone had called to say that the bill was over some limit and that they would be cutting my phone off if I did not contact them to confirm. Now, I had done the right thing and told them I would be abroad and where I was going, but I had forgotten to add my wife to the account. Fair enough…

@@ -1,6 +1,6 @@
 ---
 title: Windows Live SkyDrive Beta
-description: "Explore the ease of using Windows Live SkyDrive Beta for file uploads and discover how it enhances your blogging experience. Share and manage your files effortlessly!"
+description: Explore the ease of using Windows Live SkyDrive Beta for file uploads and discover how it enhances your blogging experience. Share and manage your files effortlessly!
 date: 2007-08-11
 creator: Martin Hinshelwood
 id: "336"
@@ -8,14 +8,15 @@ layout: blog
 resourceTypes: blog
 slug: windows-live-skydrive-beta
 aliases:
-  - /blog/windows-live-skydrive-beta
+- /blog/windows-live-skydrive-beta
+- /windows-live-skydrive-beta
 tags:
-  - live
+- live
 categories:
-  - me
+- me
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 I was reading Mike Tautly's post on SkyDrive so I thought I should have a look.
 
 I found it extremely easy to use and solves the problem of my blog not supporting file uploads.

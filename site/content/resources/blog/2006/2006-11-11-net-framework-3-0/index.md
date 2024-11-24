@@ -1,6 +1,6 @@
 ---
 title: .NET Framework 3.0
-description: "Discover the power of .NET Framework 3.0! Learn how WCF enhances code quality and developer productivity with cleaner, more functional applications."
+description: Discover the power of .NET Framework 3.0! Learn how WCF enhances code quality and developer productivity with cleaner, more functional applications.
 date: 2006-11-11
 creator: Martin Hinshelwood
 id: "462"
@@ -8,14 +8,17 @@ layout: blog
 resourceTypes: blog
 slug: net-framework-3-0
 aliases:
-  - /blog/net-framework-3-0
+- /blog/net-framework-3-0
+- /net-framework-3-0
+- /-net-framework-3-0
+- /blog/-net-framework-3-0
 tags:
-  - code
-  - service-oriented-architecture
-  - wcf
+- code
+- service-oriented-architecture
+- wcf
 preview: metro-binary-vb-128-link-1-1.png
----
 
+---
 At last .NET Framework 3.0 is live! I have been desperate to use it in work ever since I got a book on Indigo as I can see so many applications for it that would increase developer productivity and consistency.
 
 I have upgraded my CodePlex project to use WCF, and what a difference it makes:

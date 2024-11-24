@@ -3,6 +3,7 @@ title: How do you decide whether to pivot or stay the course? (Nokia story)
 description: "Explore the pivotal choices in product management: when to pivot, persevere, or walk away. Join us for insights and real-world examples! \U0001F680"
 date: 2023-12-16
 videoId: B12n_52H48U
+source: internal
 url: /resources/videos/:slug
 slug: how-do-you-decide-whether-to-pivot-or-stay-the-course-nokia-story
 preview: https://i.ytimg.com/vi/B12n_52H48U/maxresdefault.jpg
@@ -13,6 +14,7 @@ aliases:
 - /resources/how-do-you-decide-whether-to-pivot-or-stay-the-course
 - /resources/videos/raise,-ante-up,-or-fold-the-ultimate-decision-in-business
 - /resources/videos/B12n_52H48U
+- /resources/raise,-ante-up,-or-fold-the-ultimate-decision-in-business
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -86,9 +88,3 @@ Key Takeaways: 
 - 🚫 Can you identify and avoid the sunk cost fallacy? 
 
 - 🤔 Are you ready to adopt an Agile mindset for navigating change?
-
-
-
-
-
-

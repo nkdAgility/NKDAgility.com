@@ -1,6 +1,6 @@
 ---
 title: Team Foundation server 2013 Update 2 RC is coming, are you ready?
-description: "Get ready for TFS 2013 Update 2 RC! Join Microsoft's Upgrade Weekend for expert support and discover new features to enhance your development experience."
+description: Get ready for TFS 2013 Update 2 RC! Join Microsoft's Upgrade Weekend for expert support and discover new features to enhance your development experience.
 date: 2014-02-20
 creator: Martin Hinshelwood
 id: "10381"
@@ -8,16 +8,19 @@ layout: blog
 resourceTypes: blog
 slug: team-foundation-server-2013-update-2-rc-coming-ready
 aliases:
-  - /blog/team-foundation-server-2013-update-2-rc-coming-ready
+- /blog/team-foundation-server-2013-update-2-rc-coming-ready
+- /team-foundation-server-2013-update-2-rc-coming-ready
+- /team-foundation-server-2013-update-2-rc-is-coming,-are-you-ready-
+- /blog/team-foundation-server-2013-update-2-rc-is-coming,-are-you-ready-
 tags:
-  - tfs
-  - tfs-2013
-  - upgrade
+- tfs
+- tfs-2013
+- upgrade
 categories:
-  - upgrade-and-maintenance
+- upgrade-and-maintenance
 preview: nakedalm-experts-visual-studio-alm-1-1.png
----
 
+---
 While naked ALM Consulting can help you install and configure TFS you may want to take advantage of the upcoming TFS Upgrade Weekend from Microsoft for free.
 
 Just as with the [TFS 2013 Preview](http://nkdagility.com/the-great-team-foundation-server-2013-upgrade-weekend/) Microsoft is putting its money where its mouth is and setting up a raft of experts that will be on hand to help you upgrade to TFS 2013 Update 2 RC. They are so confident that you will not have any problems that on Friday 28th February and Saturday 1st March they will have experts standing by to support you. All they ask is that you register for the [http://nkdalm.net/TFS13U2UpgradeWeekend](http://nkdalm.net/TFS13U2UpgradeWeekend) so that they know how many folks are taking advantage… you know… just in case.

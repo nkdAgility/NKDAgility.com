@@ -1,6 +1,6 @@
 ---
 title: HTC Touch / Black Shadow Weather
-description: "Unlock local weather on your HTC Touch with easy registry hacks! Follow our guide to customize your home screen and enjoy accurate forecasts today!"
+description: Unlock local weather on your HTC Touch with easy registry hacks! Follow our guide to customize your home screen and enjoy accurate forecasts today!
 date: 2007-08-01
 creator: Martin Hinshelwood
 id: "351"
@@ -8,14 +8,17 @@ layout: blog
 resourceTypes: blog
 slug: htc-touch-black-shadow-weather
 aliases:
-  - /blog/htc-touch-black-shadow-weather
+- /blog/htc-touch-black-shadow-weather
+- /htc-touch-black-shadow-weather
+- /htc-touch---black-shadow-weather
+- /blog/htc-touch---black-shadow-weather
 tags:
-  - windows-mobile-6
+- windows-mobile-6
 categories:
-  - products-and-books
+- products-and-books
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 If you want to have you city displayed in the HTC Weather Home screen then you need to do some editing!
 
 My colleague Ajay just purchased a HTC Touch yesterday from Orange and he was upset that Glasgow was not listed in the cities.

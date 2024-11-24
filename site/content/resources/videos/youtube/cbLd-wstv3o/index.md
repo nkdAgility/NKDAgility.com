@@ -3,6 +3,7 @@ title: How to Discover Unrealized Value in Your Product
 description: "Discover 5 compelling reasons to implement Evidence-Based Management (EBM) in your environment and unlock your product's unrealised potential! #EBM #Shorts"
 date: 2024-10-14
 videoId: cbLd-wstv3o
+source: internal
 url: /resources/videos/:slug
 slug: how-to-discover-unrealized-value-in-your-product
 preview: https://i.ytimg.com/vi/cbLd-wstv3o/maxresdefault.jpg
@@ -12,6 +13,7 @@ aliases:
 - /resources/how-to-discover-unrealized-value-in-your-product
 - /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-3
 - /resources/videos/cbLd-wstv3o
+- /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-3
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -132,9 +134,3 @@ Unrealized value is a reminder that there’s always room for improvement, no ma
 - Keep reviewing and improving your product based on ongoing feedback and data.
 
 🚀 **Pro Tip:** Always engage your stakeholders and team members in this process. Their input can provide new perspectives and help you make better decisions. By staying focused on delivering more value and embracing continuous improvement, you’ll position your product to achieve its full potential.
-
-
-
-
-
-

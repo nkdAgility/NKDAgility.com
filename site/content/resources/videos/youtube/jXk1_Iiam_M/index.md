@@ -3,6 +3,7 @@ title: 'The Power of Immersive Learning: Elevating Scrum Mastery in Your Organiz
 description: "Unlock your team's potential with immersive Scrum training! Discover practical insights and transform learning for effective team development. \U0001F31F\U0001F680"
 date: 2024-09-25
 videoId: jXk1_Iiam_M
+source: internal
 url: /resources/videos/:slug
 slug: the-power-of-immersive-learning-elevating-scrum-mastery-in-your-organization
 preview: https://i.ytimg.com/vi/jXk1_Iiam_M/maxresdefault.jpg
@@ -12,6 +13,7 @@ aliases:
 - /resources/the-power-of-immersive-learning-elevating-scrum-mastery-in-your-organization
 - /resources/videos/do-you-think-training-departments-get-a-lot-more-bang-for-their-buck-with-immersive-learning-
 - /resources/videos/jXk1_Iiam_M
+- /resources/do-you-think-training-departments-get-a-lot-more-bang-for-their-buck-with-immersive-learning-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -140,9 +142,3 @@ At \[Your Company Name\], we specialize in immersive learning experiences that *
 * * *
 
 This approach to learning isn't just about knowledge—it's about **action** and **impact**. Your organization deserves training that sticks. Immersive learning does exactly that.
-
-
-
-
-
-

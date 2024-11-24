@@ -1,6 +1,6 @@
 ---
-title: "Guidance: How to layout you files for an Ideal Solution"
-description: "Master the art of file layout for maintainable solutions in TFS. Discover best practices and enhance your development workflow with expert guidance."
+title: 'Guidance: How to layout you files for an Ideal Solution'
+description: Master the art of file layout for maintainable solutions in TFS. Discover best practices and enhance your development workflow with expert guidance.
 date: 2010-05-17
 creator: Martin Hinshelwood
 id: "42"
@@ -8,31 +8,34 @@ layout: blog
 resourceTypes: blog
 slug: guidance-how-to-layout-you-files-for-an-ideal-solution
 aliases:
-  - /blog/guidance-how-to-layout-you-files-for-an-ideal-solution
+- /blog/guidance-how-to-layout-you-files-for-an-ideal-solution
+- /guidance-how-to-layout-you-files-for-an-ideal-solution
+- /guidance--how-to-layout-you-files-for-an-ideal-solution
+- /blog/guidance--how-to-layout-you-files-for-an-ideal-solution
 tags:
-  - code
-  - codeproject
-  - configuration
-  - develop
-  - infrastructure
-  - practices
-  - scrum
-  - ssw
-  - tfs-build
-  - tfs
-  - tfs2005
-  - tfs2008
-  - tfs2010
-  - tools
-  - visual-studio
-  - vs2008
-  - vs2010
+- code
+- codeproject
+- configuration
+- develop
+- infrastructure
+- practices
+- scrum
+- ssw
+- tfs-build
+- tfs
+- tfs2005
+- tfs2008
+- tfs2010
+- tools
+- visual-studio
+- vs2008
+- vs2010
 categories:
-  - code-and-complexity
-  - tools-and-techniques
+- code-and-complexity
+- tools-and-techniques
 preview: metro-visual-studio-2010-128-link-11-11.png
----
 
+---
 ![vs2010alm](images/7129adaece20_EC32-vs2010alm_-10-10.png)Creating a solution and having it maintainable over time is an art and not a science. I like being pedantic and having a place for everything, no matter how small.
 { .post-img }
 

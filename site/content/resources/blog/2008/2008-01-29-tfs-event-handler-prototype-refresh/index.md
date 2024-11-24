@@ -1,6 +1,6 @@
 ---
 title: TFS Event Handler (Prototype) Refresh
-description: "Discover the refreshed TFS Event Handler Prototype by Martin Hinshelwood. Fix bugs, enhance your team's workflow, and explore new event handler ideas!"
+description: Discover the refreshed TFS Event Handler Prototype by Martin Hinshelwood. Fix bugs, enhance your team's workflow, and explore new event handler ideas!
 date: 2008-01-29
 creator: Martin Hinshelwood
 id: "259"
@@ -8,22 +8,25 @@ layout: blog
 resourceTypes: blog
 slug: tfs-event-handler-prototype-refresh
 aliases:
-  - /blog/tfs-event-handler-prototype-refresh
+- /blog/tfs-event-handler-prototype-refresh
+- /tfs-event-handler-prototype-refresh
+- /tfs-event-handler-(prototype)-refresh
+- /blog/tfs-event-handler-(prototype)-refresh
 tags:
-  - code
-  - infrastructure
-  - tfs
-  - tfs2008
-  - tfs-event-handler
-  - tools
-  - visual-studio
-  - vs2008
-  - wit
+- code
+- infrastructure
+- tfs
+- tfs2008
+- tfs-event-handler
+- tools
+- visual-studio
+- vs2008
+- wit
 categories:
-  - code-and-complexity
+- code-and-complexity
 preview: metro-visual-studio-2005-128-link-1-1.png
----
 
+---
 I found a couple of bugs in the [TFS Event Handler Prototype release](https://www.codeplex.com/Release/ProjectReleases.aspx?ProjectName=TFSEventHandler&ReleaseId=5057). As I am still supporting this release (many people use it in production) I have fixed the bugs and uploaded new installers.
 
 The config files have not changed, so you should make a copy of your config file before you uninstall the application. Then reinstall it and copy the config files back and you will be sorted. I have this version working on a server and sending emails with the default event handler.

@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=e7L0NFYUFSw
 aliases:
 - /resources/videos/e7L0NFYUFSw
 - /resources/videos/does-scrum-really-allow-you-to-do-twice-the-work-in-half-the-time-
+- /resources/does-scrum-really-allow-you-to-do-twice-the-work-in-half-the-time-
 preview: https://i.ytimg.com/vi/e7L0NFYUFSw/maxresdefault.jpg
 duration: 205
 isShort: false
@@ -51,4 +52,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=e7L0NFYUFSw)
-

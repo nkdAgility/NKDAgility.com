@@ -1,6 +1,6 @@
 ---
 title: The Sprint Goal is a commitment for the Sprint Backlog
-description: "Discover the importance of the Sprint Goal in Scrum. Learn how it fosters team focus and transparency, driving valuable outcomes in your projects."
+description: Discover the importance of the Sprint Goal in Scrum. Learn how it fosters team focus and transparency, driving valuable outcomes in your projects.
 date: 2020-11-27
 creator: Martin Hinshelwood
 id: "45088"
@@ -8,14 +8,15 @@ layout: blog
 resourceTypes: blog
 slug: the-sprint-goal-is-a-commitment-for-the-sprint-backlog
 aliases:
-  - /blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog
+- /blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog
+- /the-sprint-goal-is-a-commitment-for-the-sprint-backlog
 tags:
-  - sprint-goal
+- sprint-goal
 categories:
-  - transparency-commitment
+- transparency-commitment
 preview: naked-Agility-Scrum-Framework-Sprint-Goal-1-1.jpg
----
 
+---
 In [the 2020 Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/) Ken and Jeff augmented the idea of the [Sprint Goal](/the-2020-scrum-guide/#commitment-sprint-goal). The [](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal)[Sprint Goal](/the-2020-scrum-guide/#commitment-sprint-goal) is a commitment to ensure transparency and focus against progress during a Sprint.
 
 > The Sprint Goal is the single objective for the Sprint. Although the [Sprint Goa](/the-2020-scrum-guide/#commitment-sprint-goal)l is a commitment by the Developers, it provides flexibility in terms of the exact work needed to achieve it. The Sprint Goal also creates coherence and focus, encouraging the Scrum Team to work together rather than on separate initiatives.  

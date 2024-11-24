@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=Q46T5DYVKqQ
 aliases:
 - /resources/videos/Q46T5DYVKqQ
 - /resources/videos/what-is-empiricism
+- /resources/what-is-empiricism
 preview: https://i.ytimg.com/vi/Q46T5DYVKqQ/maxresdefault.jpg
 duration: 54
 isShort: true
@@ -49,4 +50,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Q46T5DYVKqQ)
-

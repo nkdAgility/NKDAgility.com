@@ -1,6 +1,6 @@
 ---
 title: Create a Release Management pipeline for Professional Developers
-description: "Learn to create a Release Management pipeline for developers, enhancing automation and deployment efficiency with Team Foundation Server. Dive in now!"
+description: Learn to create a Release Management pipeline for developers, enhancing automation and deployment efficiency with Team Foundation Server. Dive in now!
 date: 2014-12-04
 creator: Martin Hinshelwood
 id: "10970"
@@ -8,21 +8,24 @@ layout: blog
 resourceTypes: blog
 slug: create-release-management-pipeline-professional-developers
 aliases:
-  - /blog/create-release-management-pipeline-professional-developers
+- /blog/create-release-management-pipeline-professional-developers
+- /create-release-management-pipeline-professional-developers
+- /create-a-release-management-pipeline-for-professional-developers
+- /blog/create-a-release-management-pipeline-for-professional-developers
 tags:
-  - development-team
-  - devops
-  - release-management
-  - release-pipline
-  - tf-build
-  - tfs
-  - vsteamservices
+- development-team
+- devops
+- release-management
+- release-pipline
+- tf-build
+- tfs
+- vsteamservices
 categories:
-  - install-and-configuration
-  - tools-and-techniques
+- install-and-configuration
+- tools-and-techniques
 preview: nakedalm-experts-visual-studio-alm-46-46.png
----
 
+---
 Now that I have [it configured](http://nkdagility.com/create-standard-environment-release-management-azure/) I want to show how to create a Release Management pipeline for Professional Developers and Development Teams.
 
 I was speaking at NDC London 2014 this week and as my talk is all about how [Team Foundation Server does not suck](http://nkdagility.com/ndc-london-second-look-team-foundation-server-vso/) like it used to back before 2012 I need to demonstrate automatic environment deployments as part of my demos with a Release Management pipeline. This session is specifically geared towards users of 2005, 2008, or 2010 that got frustrated with the lack of some features. Specifically hierarchical work item relationships and teams among others. I want to show that the advances since the 2012 release of the product really make it worth considering again.

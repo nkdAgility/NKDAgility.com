@@ -1,6 +1,6 @@
 ---
 title: Creating training virtual machines in Azure
-description: "Learn to create training virtual machines in Azure effortlessly. This guide simplifies setup for technical courses, ensuring a smooth teaching experience."
+description: Learn to create training virtual machines in Azure effortlessly. This guide simplifies setup for technical courses, ensuring a smooth teaching experience.
 date: 2014-10-07
 creator: Martin Hinshelwood
 id: "10771"
@@ -8,20 +8,23 @@ layout: blog
 resourceTypes: blog
 slug: creating-training-virtual-machines-azure
 aliases:
-  - /blog/creating-training-virtual-machines-azure
+- /blog/creating-training-virtual-machines-azure
+- /creating-training-virtual-machines-azure
+- /creating-training-virtual-machines-in-azure
+- /blog/creating-training-virtual-machines-in-azure
 tags:
-  - azure
-  - hyper-v
-  - training
-  - vhd
-  - visual-studio-2013
-  - visual-studio-alm
+- azure
+- hyper-v
+- training
+- vhd
+- visual-studio-2013
+- visual-studio-alm
 categories:
-  - install-and-configuration
-  - tools-and-techniques
+- install-and-configuration
+- tools-and-techniques
 preview: nakedalm-windows-logo-16-16.png
----
 
+---
 I am teaching the [Managing Projects with Microsoft Visual Studio Team Foundation Server 2013](http://nkdagility.com/training/courses/managing-projects-microsoft-visual-studio-team-foundation-server-2013/) class next week in Cheltenham and for that I need 16 VM's based on the [Visual Studio 2013 Update 3 ALM Virtual Machine](http://aka.ms/vs13almvm). To make life easier I will be creating training virtual machines in Azure.
 
 If you have ever had to teach a training course, especially a technical one, it’s the equipment that is the most painful thing to configure. Azure has matured a lot over the last few years and although I have configured training in Amazon's AWS service I wanted to go all Microsoft.

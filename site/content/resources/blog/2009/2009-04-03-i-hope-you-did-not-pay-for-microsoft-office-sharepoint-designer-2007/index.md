@@ -1,6 +1,6 @@
 ---
 title: I hope you did not pay for Microsoft Office Sharepoint Designer 2007
-description: "Discover how to get Microsoft Office SharePoint Designer 2007 for free! Save money and enhance your business tools without the hassle of purchasing."
+description: Discover how to get Microsoft Office SharePoint Designer 2007 for free! Save money and enhance your business tools without the hassle of purchasing.
 date: 2009-04-03
 creator: Martin Hinshelwood
 id: "131"
@@ -8,15 +8,16 @@ layout: blog
 resourceTypes: blog
 slug: i-hope-you-did-not-pay-for-microsoft-office-sharepoint-designer-2007
 aliases:
-  - /blog/i-hope-you-did-not-pay-for-microsoft-office-sharepoint-designer-2007
+- /blog/i-hope-you-did-not-pay-for-microsoft-office-sharepoint-designer-2007
+- /i-hope-you-did-not-pay-for-microsoft-office-sharepoint-designer-2007
 tags:
-  - moss2007
-  - sharepoint
-  - sp2007
-  - tools
+- moss2007
+- sharepoint
+- sp2007
+- tools
 preview: metro-sharepoint-128-link-1-1.png
----
 
+---
 Coz its now free…
 
 Head over to the Microsoft Download site and get your copy:

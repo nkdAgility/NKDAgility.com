@@ -9,6 +9,7 @@ canonicalUrl: https://www.youtube.com/watch?v=fcOSewXez3I
 aliases:
 - /resources/videos/fcOSewXez3I
 - /resources/videos/how-is-technology-like-ai-changing-the-world-we-work-in-
+- /resources/how-is-technology-like-ai-changing-the-world-we-work-in-
 preview: https://i.ytimg.com/vi/fcOSewXez3I/maxresdefault.jpg
 duration: 263
 isShort: false
@@ -44,4 +45,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=fcOSewXez3I)
-

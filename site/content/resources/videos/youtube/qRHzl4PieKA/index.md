@@ -3,6 +3,7 @@ title: Are Your Teams Empowered to Change Requirements Based on User Feedback? I
 description: "Unlock the secrets of Agile Product Management! Discover how team empowerment and user feedback drive success in this insightful video. \U0001F4A1"
 date: 2024-11-05
 videoId: qRHzl4PieKA
+source: internal
 url: /resources/videos/:slug
 slug: are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile
 preview: https://i.ytimg.com/vi/qRHzl4PieKA/maxresdefault.jpg
@@ -12,6 +13,7 @@ aliases:
 - /resources/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile
 - /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-4
 - /resources/videos/qRHzl4PieKA
+- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-4
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -100,9 +102,3 @@ The people creating the product are not just executing a plan—they are an inte
 At the end of the day, the question you need to ask yourself is: Are you maximizing the value you deliver to your customers? If your teams aren’t empowered to change requirements based on user feedback, the answer is probably no.
 
 To be truly agile, you need to create an environment where the product team is fully engaged, the backlog is regularly updated, and requirements can be changed or deleted as needed. By doing so, you’ll ensure that your product remains relevant, valuable, and aligned with the needs of your users and the market. So, take a step back and evaluate your current processes. Are you empowering your teams to make these critical changes? If not, now is the time to start. 💡
-
-
-
-
-
-

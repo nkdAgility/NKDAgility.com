@@ -1,6 +1,6 @@
 ---
 title: Windows Live Writer Beta 3
-description: "Explore the challenges of installing Windows Live Writer Beta 3 in a corporate environment and discover the frustrations of bundled software installations."
+description: Explore the challenges of installing Windows Live Writer Beta 3 in a corporate environment and discover the frustrations of bundled software installations.
 date: 2007-10-02
 creator: Martin Hinshelwood
 id: "307"
@@ -8,15 +8,16 @@ layout: blog
 resourceTypes: blog
 slug: windows-live-writer-beta-3
 aliases:
-  - /blog/windows-live-writer-beta-3
+- /blog/windows-live-writer-beta-3
+- /windows-live-writer-beta-3
 tags:
-  - fail
-  - live
+- fail
+- live
 categories:
-  - products-and-books
+- products-and-books
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 Well, a new version of WLW, [Windows Live Writer Beta 3](http://windowslivewriter.spaces.live.com/blog/cns!D85741BB5E0BE8AA!1421.entry), is [available](http://windowslivewriter.spaces.live.com/blog/cns!D85741BB5E0BE8AA!1421.entry). Its just a pity that I can't install it. Why do Microsoft insist on writing these bundle application for installing many products at once? I can see the point for home users, but at work you always get something blocked. They should provide the choice of using the bulk installer or using a direct download link. This would allow companies to unblock a specific URL without allowing users to download and install one of the other, **banned**, applications.
 
 As it is, if even one of the applications in the installer is _**banned**_, then they have to block the whole thing. This is what has happened in my company with \_"WLInstaller.exe", b_ecause it installs Messenger. This punishes the rest of us who want to use one of the other pieces of software...
