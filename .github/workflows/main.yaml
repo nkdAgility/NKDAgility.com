@@ -297,12 +297,13 @@ jobs:
           # Paths to main and environment-specific config files
           $rootConfig = "./staticwebapp.config.json"
           $environmentConfig = "./staticwebapp.config.${{ (needs.Setup.outputs.nkdAgility_AzureSitesConfig) }}.json"
+          $routesConfig = "./staticwebapp.routes.json"
 
           # Check if both target files exist
           if ((Test-Path -Path $rootConfig -ErrorAction Stop) -and (Test-Path -Path $environmentConfig -ErrorAction Stop)) {
               try {
                   # Run jq to merge files and capture the output
-                  $mergedContent = & jq -s 'reduce .[] as $item ({}; . * $item)' $rootConfig $environmentConfig
+                  $mergedContent = & jq -s 'reduce .[] as $item ({}; . * $item)' $rootConfig $environmentConfig $routesConfig 
 
                   if ($mergedContent -ne "") {
                       # Write the merged content to the output file

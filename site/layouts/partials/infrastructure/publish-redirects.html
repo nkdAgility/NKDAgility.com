@@ -23,4 +23,4 @@
 {{- end }}
 {{- $routes := dict "routes" ($.Scratch.Get "routes") }}
 {{- $jsonOutput := $routes | jsonify }}
-{{- (resources.FromString "routes.json" $jsonOutput).Publish }}
+{{- (resources.FromString "staticwebapp.config.routes.json" $jsonOutput).Publish }}
