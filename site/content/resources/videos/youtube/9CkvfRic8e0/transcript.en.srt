@@ -1,0 +1,224 @@
+1
+00:00:06,000 --> 00:00:11,559
+I'm going to configure release
+
+2
+00:00:07,279 --> 00:00:13,280
+management to use um a a new uh Team
+
+3
+00:00:11,559 --> 00:00:16,080
+Foundation server so I'm going to go
+
+4
+00:00:13,280 --> 00:00:18,039
+ahead and open the release management
+
+5
+00:00:16,080 --> 00:00:20,279
+client I'm going to head over to the
+
+6
+00:00:18,039 --> 00:00:23,400
+administration
+
+7
+00:00:20,279 --> 00:00:25,680
+Tab and on here I've got a manage TFS
+
+8
+00:00:23,400 --> 00:00:29,039
+options let me go in there so you can
+
+9
+00:00:25,680 --> 00:00:30,759
+see we already have the Faber cam fiber
+
+10
+00:00:29,039 --> 00:00:33,680
+collection added I'm going to add the
+
+11
+00:00:30,759 --> 00:00:35,719
+tail spin toys one so if I click
+
+12
+00:00:33,680 --> 00:00:38,760
+new I can just put in the name of the
+
+13
+00:00:35,719 --> 00:00:40,320
+server here or I can put the full URL
+
+14
+00:00:38,760 --> 00:00:42,480
+you'll see that it kind of builds the
+
+15
+00:00:40,320 --> 00:00:44,440
+URL down at the bottom you can see at
+
+16
+00:00:42,480 --> 00:00:46,239
+the top as well I'm going to put the
+
+17
+00:00:44,440 --> 00:00:48,600
+collection name in which
+
+18
+00:00:46,239 --> 00:00:50,559
+is Tail
+
+19
+00:00:48,600 --> 00:00:53,239
+Spin
+
+20
+00:00:50,559 --> 00:00:55,239
+toys
+
+21
+00:00:53,239 --> 00:00:57,960
+collection and you'll see here I've got
+
+22
+00:00:55,239 --> 00:00:59,519
+the default path and port number and
+
+23
+00:00:57,960 --> 00:01:01,120
+this is just all on the default setup
+
+24
+00:00:59,519 --> 00:01:03,480
+and it's local to this box so I
+
+25
+00:01:01,120 --> 00:01:05,360
+shouldn't have any communication issues
+
+26
+00:01:03,480 --> 00:01:07,520
+however if I hit the verify button
+
+27
+00:01:05,360 --> 00:01:10,479
+you'll see I get a common error message
+
+28
+00:01:07,520 --> 00:01:12,400
+box pops up and this Box gives you
+
+29
+00:01:10,479 --> 00:01:14,640
+possible reasons for the communication
+
+30
+00:01:12,400 --> 00:01:16,680
+problem one is you you know you filled
+
+31
+00:01:14,640 --> 00:01:18,360
+it out correctly or the TFS server
+
+32
+00:01:16,680 --> 00:01:20,360
+unavailable and the other one is that
+
+33
+00:01:18,360 --> 00:01:23,479
+the password is incorrect which is the
+
+34
+00:01:20,360 --> 00:01:25,880
+case here I have no connect as account
+
+35
+00:01:23,479 --> 00:01:28,920
+name and password in um so I need to go
+
+36
+00:01:25,880 --> 00:01:30,600
+over here and I need to fill out
+
+37
+00:01:28,920 --> 00:01:33,720
+um
+
+38
+00:01:30,600 --> 00:01:36,000
+my user let me just check name there we
+
+39
+00:01:33,720 --> 00:01:37,680
+go and
+
+40
+00:01:36,000 --> 00:01:40,720
+my
+
+41
+00:01:37,680 --> 00:01:42,240
+password and click verify now if that
+
+42
+00:01:40,720 --> 00:01:45,560
+still doesn't work and you don't get a
+
+43
+00:01:42,240 --> 00:01:47,520
+green tick you might want to check uh
+
+44
+00:01:45,560 --> 00:01:49,920
+obvious things like the spelling of your
+
+45
+00:01:47,520 --> 00:01:52,159
+server and collection name and and
+
+46
+00:01:49,920 --> 00:01:54,799
+whether you can access those things the
+
+47
+00:01:52,159 --> 00:01:58,520
+easiest way to do that is to copy this
+
+48
+00:01:54,799 --> 00:02:01,520
+URL open it up in a browser paste it
+
+49
+00:01:58,520 --> 00:02:05,000
+in and see if you can actually access it
+
+50
+00:02:01,520 --> 00:02:06,439
+on that URL and indeed uh it can be much
+
+51
+00:02:05,000 --> 00:02:08,920
+easier to get access to it than just
+
+52
+00:02:06,439 --> 00:02:11,239
+copi it off and I can make it easier so
+
+53
+00:02:08,920 --> 00:02:15,760
+now that we have that I can hit save and
+
+54
+00:02:11,239 --> 00:02:18,760
+close and I now have two active uh uh
+
+55
+00:02:15,760 --> 00:02:18,760
+TFS
+
+56
+00:02:19,080 --> 00:02:22,080
+connections
+
