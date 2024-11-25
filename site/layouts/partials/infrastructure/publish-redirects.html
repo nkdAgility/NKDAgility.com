@@ -19,8 +19,8 @@
       "statusCode" 301
       )
     -}}
-  {{- end }}  */}}
-{{- end }}
+  {{- end }}  
+{{- end }}*/}}
 {{- $routes := dict "routes" ($.Scratch.Get "routes") }}
 {{- $jsonOutput := $routes | jsonify }}
 {{- (resources.FromString "staticwebapp.config.routes.json" $jsonOutput).Publish }}
