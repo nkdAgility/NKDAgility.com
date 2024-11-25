@@ -133,13 +133,13 @@
           {{- end }}
           "description": {{(.Description | default .Params.card.content) | plainify }},
           "sameAs": [
-            {{- $additional := slice .Permalink -}}
-            {{- $socialProfiles := .Params.socialProfiles -}}
-            {{- $allProfiles := $additional | append $socialProfiles -}}
-            {{- range $index, $profile := $allProfiles -}}
-              {{- if $index }}, {{ end }}{{ printf "%s" $profile }}
-            {{- end -}}
-            ]
+              {{- $additional := slice .Permalink -}}
+              {{- $socialProfiles := .Params.socialProfiles | default (slice) -}}
+              {{- $allProfiles := $additional | append $socialProfiles -}}
+              {{- range $index, $profile := $allProfiles -}}
+                  {{- if $index }}, {{ end }}{{ $profile }}
+              {{- end -}}
+          ]
         }
       },
       {{ else }}
