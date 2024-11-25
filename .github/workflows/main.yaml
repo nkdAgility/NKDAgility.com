@@ -283,7 +283,7 @@ jobs:
   Publsh:
     name: "Publish Site"
     runs-on: ubuntu-latest
-    needs: [Setup, BuildSite, BuildApi, Spellcheck]
+    needs: [Setup, BuildSite, Spellcheck]
     if: ${{ success() }}
     steps:
       - uses: actions/checkout@v4
