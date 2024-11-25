@@ -178,8 +178,6 @@
       equeue: [],
       client_key: "xobflbrha14pjdh0uo0lm396",
     };
-    /* OPTIONAL: email for identify request*/
-    window.sib.email_id = "contact@nkdagility.com";
     window.sendinblue = {};
     for (var j = ["track", "identify", "trackLink", "page"], i = 0; i < j.length; i++) {
       (function (k) {
@@ -217,14 +215,15 @@
   })(document, window, "BrevoConversations");
 </script>
 <!-- /Brevo Conversations {/literal} -->
-{{/* <!-- Algolia -->
+{{ if ne hugo.Environment "production" }}
+  <!-- Algolia -->
   <script src="https://cdn.jsdelivr.net/npm/@docsearch/js@3"></script>
   <script type="module">
-  docsearch({
-  container: "#docsearch",
-  appId: "RSKJJ82EIK",
-  apiKey: "23f76837b8d83b1c7b77f9e3142ed573",
-  indexName: "pages",
-  });
+    docsearch({
+      container: "#docsearch",
+      appId: "RSKJJ82EIK",
+      apiKey: "8b32e7e6c23096e5e958ddc581c14aee",
+      indexName: "pages",
+    });
   </script>
-*/}}
+{{ end }}

@@ -61,5 +61,7 @@ naked Agility Limited. All content is copyrighted. No reproduction or distributi
 <script async src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 <!-- TrustBox script -->
 <script async type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async></script>
-<!-- algolia.com -->
-{{/* <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3" /> */}}
+{{ if ne hugo.Environment "production" }}
+  <!-- algolia.com -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3" />
+{{ end }}
