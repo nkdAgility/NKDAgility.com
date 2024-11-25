@@ -8,7 +8,7 @@
     )
   -}}
 {{- end }}
-{{- range $p := sort site.AllPages "Path" }}
+{{/*  {{- range $p := sort site.AllPages "Path" }}
   {{- range $alias := sort $p.Aliases }}
     {{- if not (strings.HasSuffix $alias "/") }}
       {{- $alias = printf "%s/" $alias }}
@@ -19,7 +19,7 @@
       "statusCode" 301
       )
     -}}
-  {{- end }}
+  {{- end }}  */}}
 {{- end }}
 {{- $routes := dict "routes" ($.Scratch.Get "routes") }}
 {{- $jsonOutput := $routes | jsonify }}

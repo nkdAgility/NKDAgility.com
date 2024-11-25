@@ -254,7 +254,7 @@ jobs:
   BuildApi:
     name: "Build Api"
     runs-on: ubuntu-latest
-    if: ${{ success() }}
+    if: ${{ false }}
     needs: [Setup]
     env:
       GitVersion_SemVer: ${{ needs.Setup.outputs.GitVersion_SemVer }}
@@ -324,8 +324,7 @@ jobs:
           if ((Test-Path -Path $rootConfig -ErrorAction Stop) -and (Test-Path -Path $environmentConfig -ErrorAction Stop)) {
               try {
                   # Run jq to merge files and capture the output
-                  # $mergedContent = & jq -s 'reduce .[] as $item ({}; . * $item)' $rootConfig $environmentConfig $routesConfig 
-                  $mergedContent = & jq -s 'reduce .[] as $item ({}; . * $item)' $rootConfig $environmentConfig
+                  $mergedContent = & jq -s 'reduce .[] as $item ({}; . * $item)' $rootConfig $environmentConfig $routesConfig 
 
                   if ($mergedContent -ne "") {
                       # Write the merged content to the output file
