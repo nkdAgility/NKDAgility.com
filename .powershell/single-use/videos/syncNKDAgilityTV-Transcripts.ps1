@@ -1,60 +1,5 @@
-# Variables for OAuth credentials
-$clientId = $env:google_clientId
-$clientSecret = $env:google_clientSecret
-$redirectUri = "http://localhost:8080"
-$scope = "https://www.googleapis.com/auth/youtube.readonly https://www.googleapis.com/auth/youtube.force-ssl"
-$channelId = "UCkYqhFNmhCzkefHsHS652hw"
 $outputDir = "site\content\resources\videos\youtube"
-$maxResults = 1  # Limit the number of results per API call (page)
-$totalResultsLimit = 1  # Set a limit on the total number of results fetched
-
-# Function to get OAuth access token
-function Get-OAuthToken {
-    param (
-        [string]$clientId,
-        [string]$clientSecret,
-        [string]$redirectUri,
-        [string]$scope
-    )
-
-    # Step 1: Get authorization code
-    $authUrl = "https://accounts.google.com/o/oauth2/auth?client_id=$clientId&redirect_uri=$redirectUri&response_type=code&scope=$scope"
-    Write-Host "Open this URL in your browser to authorize the application:"
-    Write-Host $authUrl
-    Start-Process $authUrl
-
-    # Step 2: Set up a local web server to listen for the OAuth callback
-    $listener = New-Object System.Net.HttpListener
-    $listener.Prefixes.Add($redirectUri + "/")
-    $listener.Start()
-
-    Write-Host "Waiting for authorization response..."
-
-    # Step 3: Wait for the OAuth response and extract the authorization code
-    $context = $listener.GetContext()
-    $response = $context.Response
-    $authCode = ($context.Request.Url.Query -split 'code=')[1] -split '&'[0]
-
-    # Send a response to the browser
-    $responseString = "<html><body>Authorization successful. You can close this tab now.</body></html>"
-    $buffer = [System.Text.Encoding]::UTF8.GetBytes($responseString)
-    $response.ContentLength64 = $buffer.Length
-    $response.OutputStream.Write($buffer, 0, $buffer.Length)
-    $response.OutputStream.Close()
-    $listener.Stop()
-
-    # Step 4: Exchange the authorization code for an access token
-    $tokenRequestBody = @{
-        code          = $authCode[0]
-        client_id     = $clientId
-        client_secret = $clientSecret
-        redirect_uri  = $redirectUri
-        grant_type    = "authorization_code"
-    }
-
-    $tokenResponse = Invoke-RestMethod -Uri "https://oauth2.googleapis.com/token" -Method Post -Body $tokenRequestBody
-    return $tokenResponse.access_token
-}
+$downloadLimit = 10  # Set a limit for the number of transcripts to download
 
 # Function to get captions for a video
 function Get-YouTubeCaptions {
@@ -90,9 +35,11 @@ function Download-YouTubeCaption {
         # Save the caption content to a file
         [System.IO.File]::WriteAllBytes($outputPath, $response.Content)
         Write-Host "Caption saved to: $outputPath"
+        return $true  # Return true to indicate success
     }
     else {
         Write-Host "No caption content available for captionId: $captionId"
+        return $false  # Return false to indicate no content
     }
 }
 
@@ -103,37 +50,56 @@ function Download-AllYouTubeCaptions {
 
     # Get all folders in $outputDir
     $videoFolders = Get-ChildItem -Path $outputDir -Directory
+    $downloadCount = 0  # Initialize counter for downloaded transcripts
 
     foreach ($folder in $videoFolders) {
+        if ($downloadCount -ge $downloadLimit) {
+            Write-Host "Reached download limit of $downloadLimit transcripts. Stopping."
+            break
+        }
+
         $videoId = $folder.Name  # The folder name is assumed to be the videoId
         Write-Host "Processing video ID: $videoId"
+        $matchingFiles = Get-ChildItem -Path $folder -Filter "transcript.*.srt" -File
+
+        # Skip if there are already transcript files in the folder
+        if ($matchingFiles.Count -gt 0) {
+            Write-Host "Transcript files already exist for $videoId"
+            continue
+        }
 
         $captions = Get-YouTubeCaptions -videoId $videoId -accessToken $accessToken
 
         foreach ($caption in $captions) {
+            if ($downloadCount -ge $downloadLimit) {
+                Write-Host "Reached download limit of $downloadLimit transcripts. Stopping."
+                break
+            }
+
             $captionId = $caption.id
             $language = $caption.snippet.language
-           
             $outputPath = Join-Path $folder.FullName "transcript.$language.srt"
+
             # Check if the transcript already exists
             if (-not (Test-Path $outputPath)) {
                 Write-Host "Downloading Transcript in $language for $captionId"
-                Download-YouTubeCaption -captionId $captionId -accessToken $accessToken -outputPath $outputPath
+                $success = Download-YouTubeCaption -captionId $captionId -accessToken $accessToken -outputPath $outputPath
+
+                if ($success) {
+                    $downloadCount++
+                }
             }
             else {
                 Write-Host "Transcript in $language for $captionId already exists"
             }
         }
-
-       
     }
+
+    Write-Host "Downloaded $downloadCount transcript(s)."
 }
 
 # Main execution flow
 
-# Step 1: Get OAuth token
-$accessToken = Get-OAuthToken -clientId $clientId -clientSecret $clientSecret -redirectUri $redirectUri -scope $scope
-
 # Step 2: Download captions for all videos by iterating over folder names (which represent video IDs),
 # only downloading the transcript if it does not already exist
-Download-AllYouTubeCaptions -accessToken $accessToken
+Download-AllYouTubeCaptions -accessToken $env:GOOGLE_ACCESS_TOKEN
