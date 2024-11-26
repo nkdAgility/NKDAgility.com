@@ -1,0 +1,884 @@
+1
+00:00:00,080 --> 00:00:05,960
+it's a lot more expensive than you think
+
+2
+00:00:03,919 --> 00:00:09,000
+having poor quality
+
+3
+00:00:05,960 --> 00:00:13,280
+Cod there are lots of hidden impacts
+
+4
+00:00:09,000 --> 00:00:16,520
+you've got the the obvious stuff is the
+
+5
+00:00:13,280 --> 00:00:19,199
+cost of fixing bugs right because you've
+
+6
+00:00:16,520 --> 00:00:22,000
+got poor quality and people find issues
+
+7
+00:00:19,199 --> 00:00:24,119
+and that cost gets exponentially more
+
+8
+00:00:22,000 --> 00:00:26,480
+expensive the closer to production you
+
+9
+00:00:24,119 --> 00:00:27,960
+get right more expensive for to fix it
+
+10
+00:00:26,480 --> 00:00:29,720
+with the customers but you've also got
+
+11
+00:00:27,960 --> 00:00:34,040
+the cost of customer support that's
+
+12
+00:00:29,720 --> 00:00:38,879
+that's obvious stuff the the the things
+
+13
+00:00:34,040 --> 00:00:41,079
+that people generally don't think of is
+
+14
+00:00:38,879 --> 00:00:43,920
+thing things like brand
+
+15
+00:00:41,079 --> 00:00:46,760
+reputation right what what is the impact
+
+16
+00:00:43,920 --> 00:00:48,960
+on poor quality on brand reputation not
+
+17
+00:00:46,760 --> 00:00:52,280
+just poor quality in your product but
+
+18
+00:00:48,960 --> 00:00:54,719
+poor quality in the way you do things
+
+19
+00:00:52,280 --> 00:00:57,079
+the most recent one is crowd strike
+
+20
+00:00:54,719 --> 00:01:01,519
+right they they they they had poor
+
+21
+00:00:57,079 --> 00:01:05,159
+engineering practices that result Ed in
+
+22
+00:01:01,519 --> 00:01:08,759
+a massive Global impact when something
+
+23
+00:01:05,159 --> 00:01:10,640
+went wrong and all all they did was what
+
+24
+00:01:08,759 --> 00:01:12,520
+lots of companies do which is push
+
+25
+00:01:10,640 --> 00:01:14,320
+something to production and didn't
+
+26
+00:01:12,520 --> 00:01:16,200
+really think about controlling the blast
+
+27
+00:01:14,320 --> 00:01:17,840
+radius or any of the other modern
+
+28
+00:01:16,200 --> 00:01:20,280
+engineering practices that they might
+
+29
+00:01:17,840 --> 00:01:23,159
+have so you've get you've got you've got
+
+30
+00:01:20,280 --> 00:01:25,280
+L loss lost to your brand you've got
+
+31
+00:01:23,159 --> 00:01:28,040
+you've got productivity of your team
+
+32
+00:01:25,280 --> 00:01:32,240
+right if you've everybody's got to run
+
+33
+00:01:28,040 --> 00:01:35,520
+around trying to figure figure out what
+
+34
+00:01:32,240 --> 00:01:38,040
+the problem is because it's too
+
+35
+00:01:35,520 --> 00:01:40,200
+difficult to figure it out
+
+36
+00:01:38,040 --> 00:01:42,439
+then you're going to have a massive loss
+
+37
+00:01:40,200 --> 00:01:43,799
+of productivity not not just producct
+
+38
+00:01:42,439 --> 00:01:47,880
+there's lots of engineering practices
+
+39
+00:01:43,799 --> 00:01:49,960
+that people use that reduce quality but
+
+40
+00:01:47,880 --> 00:01:53,759
+they don't think it reduces quality one
+
+41
+00:01:49,960 --> 00:01:56,520
+of those is branching right having a a a
+
+42
+00:01:53,759 --> 00:01:59,320
+a a really large branching strategy I I
+
+43
+00:01:56,520 --> 00:02:04,560
+worked with a a company recently um that
+
+44
+00:01:59,320 --> 00:02:07,360
+had 96 teams and they had 96 branches 96
+
+45
+00:02:04,560 --> 00:02:08,879
+long running branches one for each team
+
+46
+00:02:07,360 --> 00:02:13,239
+and then each team created their own
+
+47
+00:02:08,879 --> 00:02:16,760
+branches of that um and the cost in Lost
+
+48
+00:02:13,239 --> 00:02:20,120
+productivity to maintain that to ensure
+
+49
+00:02:16,760 --> 00:02:23,959
+that you have working product is just
+
+50
+00:02:20,120 --> 00:02:26,720
+enormous and add to that if you're
+
+51
+00:02:23,959 --> 00:02:31,000
+maintaining multiple versions of your
+
+52
+00:02:26,720 --> 00:02:33,000
+product right this is a massive cost you
+
+53
+00:02:31,000 --> 00:02:35,640
+you in
+
+54
+00:02:33,000 --> 00:02:38,120
+general you should not be maintaining
+
+55
+00:02:35,640 --> 00:02:40,200
+multiple versions of your product you
+
+56
+00:02:38,120 --> 00:02:42,319
+should not be supporting multiple
+
+57
+00:02:40,200 --> 00:02:45,040
+versions of your product you should be
+
+58
+00:02:42,319 --> 00:02:47,720
+supporting the latest version of your
+
+59
+00:02:45,040 --> 00:02:51,760
+product and not anything
+
+60
+00:02:47,720 --> 00:02:53,000
+else in general there are I can off the
+
+61
+00:02:51,760 --> 00:02:54,920
+top of my head I can think of
+
+62
+00:02:53,000 --> 00:02:58,480
+circumstances where I might have two
+
+63
+00:02:54,920 --> 00:03:01,519
+versions of my product or maybe three
+
+64
+00:02:58,480 --> 00:03:03,920
+absolute tops but if you have more than
+
+65
+00:03:01,519 --> 00:03:06,120
+that perhaps you have a version of your
+
+66
+00:03:03,920 --> 00:03:09,879
+product per customer that's a very
+
+67
+00:03:06,120 --> 00:03:12,400
+common one that's a massive cost not
+
+68
+00:03:09,879 --> 00:03:16,080
+just to support and maintenance but in
+
+69
+00:03:12,400 --> 00:03:19,599
+in Lost productivity if I'm a developer
+
+70
+00:03:16,080 --> 00:03:21,920
+and I UND I I I fixed a problem I fix a
+
+71
+00:03:19,599 --> 00:03:25,760
+bug right could just be a bug let's take
+
+72
+00:03:21,920 --> 00:03:27,400
+that as an example I fix a bug in in in
+
+73
+00:03:25,760 --> 00:03:29,920
+the main version of our product the
+
+74
+00:03:27,400 --> 00:03:32,080
+latest version of our product but we
+
+75
+00:03:29,920 --> 00:03:33,519
+realize that it's in lots of customers
+
+76
+00:03:32,080 --> 00:03:37,120
+versions maybe there's 10 customer
+
+77
+00:03:33,519 --> 00:03:39,599
+versions have this this bug can I fix it
+
+78
+00:03:37,120 --> 00:03:42,360
+the same in all of those versions
+
+79
+00:03:39,599 --> 00:03:45,480
+probably not right because they diverge
+
+80
+00:03:42,360 --> 00:03:49,200
+over time and perhaps things that I used
+
+81
+00:03:45,480 --> 00:03:53,360
+to fix uh uh the product fix as part of
+
+82
+00:03:49,200 --> 00:03:56,439
+the fix in in the main version aren't
+
+83
+00:03:53,360 --> 00:03:58,519
+there in older versions or it's slightly
+
+84
+00:03:56,439 --> 00:04:02,599
+different or it's not quite the same
+
+85
+00:03:58,519 --> 00:04:05,360
+version or all kinds of that increases
+
+86
+00:04:02,599 --> 00:04:07,760
+the cognitive load on the engineers it
+
+87
+00:04:05,360 --> 00:04:09,079
+increases the likelihood of something
+
+88
+00:04:07,760 --> 00:04:12,879
+going wrong because you're increasing
+
+89
+00:04:09,079 --> 00:04:15,319
+that c cognitive load um and because you
+
+90
+00:04:12,879 --> 00:04:17,639
+have to backport all of those fixes
+
+91
+00:04:15,319 --> 00:04:19,840
+across all those different versions
+
+92
+00:04:17,639 --> 00:04:21,720
+what's the cost and missed opportunities
+
+93
+00:04:19,840 --> 00:04:25,840
+because your team's having to mess
+
+94
+00:04:21,720 --> 00:04:28,400
+around with lots of work that is
+
+95
+00:04:25,840 --> 00:04:30,560
+avoidable I'm going to put that in there
+
+96
+00:04:28,400 --> 00:04:32,160
+these are all avoidable losses in
+
+97
+00:04:30,560 --> 00:04:34,039
+productivity what are the missed
+
+98
+00:04:32,160 --> 00:04:36,240
+opportunities for your business what
+
+99
+00:04:34,039 --> 00:04:37,720
+features are you not able to ship
+
+100
+00:04:36,240 --> 00:04:41,280
+because it's harder for you to add
+
+101
+00:04:37,720 --> 00:04:43,919
+features a a great great fantastic my
+
+102
+00:04:41,280 --> 00:04:46,880
+favorite example is some data from the
+
+103
+00:04:43,919 --> 00:04:49,880
+Azure devox team the aure devops team
+
+104
+00:04:46,880 --> 00:04:52,120
+had a very long tail on figuring out
+
+105
+00:04:49,880 --> 00:04:54,400
+whether they they they'd been successful
+
+106
+00:04:52,120 --> 00:04:55,720
+in in in building the product right the
+
+107
+00:04:54,400 --> 00:04:57,199
+engineers have been successful in the
+
+108
+00:04:55,720 --> 00:04:59,440
+code that they write and having the test
+
+109
+00:04:57,199 --> 00:05:02,440
+and validation of those things done and
+
+110
+00:04:59,440 --> 00:05:05,320
+it was taking 48 to 72 hours to figure
+
+111
+00:05:02,440 --> 00:05:09,120
+that out they invested a bunch of time
+
+112
+00:05:05,320 --> 00:05:10,560
+and energy in paying back poor choices
+
+113
+00:05:09,120 --> 00:05:12,800
+they'd made in the past some of them
+
+114
+00:05:10,560 --> 00:05:15,919
+deliberate that's okay but poor choices
+
+115
+00:05:12,800 --> 00:05:17,560
+they'd made in the past and things they
+
+116
+00:05:15,919 --> 00:05:19,160
+didn't realize were poor choices in the
+
+117
+00:05:17,560 --> 00:05:22,600
+past that they now realize were poor
+
+118
+00:05:19,160 --> 00:05:26,000
+choices paying that back it took them
+
+119
+00:05:22,600 --> 00:05:29,360
+nearly four years of investment in that
+
+120
+00:05:26,000 --> 00:05:30,880
+story to pay it fully pay it back right
+
+121
+00:05:29,360 --> 00:05:33,000
+you know just like if you take out a
+
+122
+00:05:30,880 --> 00:05:34,680
+loan you pay it back over a longer
+
+123
+00:05:33,000 --> 00:05:36,400
+period of time a little piece at a time
+
+124
+00:05:34,680 --> 00:05:39,120
+so they were paying it back as they had
+
+125
+00:05:36,400 --> 00:05:40,759
+time they were prioritizing it so it was
+
+126
+00:05:39,120 --> 00:05:42,280
+important to them so they were spending
+
+127
+00:05:40,759 --> 00:05:45,039
+time on it but they're also doing other
+
+128
+00:05:42,280 --> 00:05:46,360
+things so not it's getting done over
+
+129
+00:05:45,039 --> 00:05:50,280
+time so it took them four years to pay
+
+130
+00:05:46,360 --> 00:05:54,080
+it back but that
+
+131
+00:05:50,280 --> 00:05:55,919
+plus fixing that problem refactoring
+
+132
+00:05:54,080 --> 00:05:57,560
+that problem re architecting that that
+
+133
+00:05:55,919 --> 00:06:00,720
+that part of the problem so that they
+
+134
+00:05:57,560 --> 00:06:02,720
+went from 72 hours that was the longest
+
+135
+00:06:00,720 --> 00:06:05,039
+72 hours to find out whether you'd
+
+136
+00:06:02,720 --> 00:06:07,280
+broken stuff to three and a half minutes
+
+137
+00:06:05,039 --> 00:06:09,560
+right so that's a massive shift so
+
+138
+00:06:07,280 --> 00:06:12,759
+shifting from long running system tests
+
+139
+00:06:09,560 --> 00:06:15,960
+to small discrete unit tests as their
+
+140
+00:06:12,759 --> 00:06:21,039
+measure of validation massively impacted
+
+141
+00:06:15,960 --> 00:06:26,000
+their productivity they went from
+
+142
+00:06:21,039 --> 00:06:31,560
+25ish features to production each year
+
+143
+00:06:26,000 --> 00:06:34,080
+with 650 people to over 800 features to
+
+144
+00:06:31,560 --> 00:06:35,560
+features to production with the same 600
+
+145
+00:06:34,080 --> 00:06:37,440
+people not quite the same right because
+
+146
+00:06:35,560 --> 00:06:40,960
+it's four years time but more or less
+
+147
+00:06:37,440 --> 00:06:45,080
+the same 600 people and even in the
+
+148
+00:06:40,960 --> 00:06:48,039
+first year when they had a really big
+
+149
+00:06:45,080 --> 00:06:50,800
+focus on paying that back although there
+
+150
+00:06:48,039 --> 00:06:53,319
+was a long tail right a really big focus
+
+151
+00:06:50,800 --> 00:06:57,080
+on paying it back they spent most of
+
+152
+00:06:53,319 --> 00:06:58,479
+their time in the first year focusing on
+
+153
+00:06:57,080 --> 00:07:00,319
+fixing a lot of these types of
+
+154
+00:06:58,479 --> 00:07:02,440
+architectural problems of dealing with
+
+155
+00:07:00,319 --> 00:07:04,240
+that they weren't focused on features
+
+156
+00:07:02,440 --> 00:07:06,520
+and they still managed to go from 24
+
+157
+00:07:04,240 --> 00:07:08,960
+features to production to like 60
+
+158
+00:07:06,520 --> 00:07:11,199
+something features to production almost
+
+159
+00:07:08,960 --> 00:07:12,360
+three times the number of features were
+
+160
+00:07:11,199 --> 00:07:14,479
+delivered to production at the end of
+
+161
+00:07:12,360 --> 00:07:16,599
+the first year and they weren't even
+
+162
+00:07:14,479 --> 00:07:19,360
+focused on delivering features they were
+
+163
+00:07:16,599 --> 00:07:22,319
+focused on building up engineering
+
+164
+00:07:19,360 --> 00:07:24,639
+Excellence fixing those older problems
+
+165
+00:07:22,319 --> 00:07:26,440
+that had crept in over time you know
+
+166
+00:07:24,639 --> 00:07:29,599
+it's like 15 years working on this
+
+167
+00:07:26,440 --> 00:07:32,919
+product and it had this massive massive
+
+168
+00:07:29,599 --> 00:07:36,000
+massive boost to not
+
+169
+00:07:32,919 --> 00:07:40,840
+just productivity right the productivity
+
+170
+00:07:36,000 --> 00:07:43,080
+of the team but brand reputation went up
+
+171
+00:07:40,840 --> 00:07:45,120
+because you're delivering more features
+
+172
+00:07:43,080 --> 00:07:48,840
+more experiments more things that your
+
+173
+00:07:45,120 --> 00:07:51,080
+customers need you're missing less
+
+174
+00:07:48,840 --> 00:07:53,520
+opportunities and you're having less
+
+175
+00:07:51,080 --> 00:07:56,120
+security breaches because if we're if
+
+176
+00:07:53,520 --> 00:07:58,280
+we're iterating much more quickly which
+
+177
+00:07:56,120 --> 00:08:00,800
+is what you're trying to do is reduce
+
+178
+00:07:58,280 --> 00:08:03,720
+those feedback loops
+
+179
+00:08:00,800 --> 00:08:06,759
+you're you can't leave security to the
+
+180
+00:08:03,720 --> 00:08:10,319
+end one one of the main reasons that
+
+181
+00:08:06,759 --> 00:08:11,879
+that companies get large scale high cost
+
+182
+00:08:10,319 --> 00:08:14,599
+security
+
+183
+00:08:11,879 --> 00:08:16,919
+breaches is that they they leave
+
+184
+00:08:14,599 --> 00:08:19,400
+security is an afterthought it's not
+
+185
+00:08:16,919 --> 00:08:20,879
+baked into the process and if security
+
+186
+00:08:19,400 --> 00:08:23,319
+is an
+
+187
+00:08:20,879 --> 00:08:25,720
+afterthought you find a problem in the
+
+188
+00:08:23,319 --> 00:08:28,199
+way you've architected your your
+
+189
+00:08:25,720 --> 00:08:30,720
+product it's a lot of work to go back
+
+190
+00:08:28,199 --> 00:08:34,120
+and fix that so most people in teams
+
+191
+00:08:30,720 --> 00:08:37,760
+don't because it's maybe hundreds
+
+192
+00:08:34,120 --> 00:08:39,279
+thousands of hours to go to go fix it or
+
+193
+00:08:37,760 --> 00:08:42,839
+we could get out the sticky tape and
+
+194
+00:08:39,279 --> 00:08:45,000
+super glue and stick over the top and
+
+195
+00:08:42,839 --> 00:08:47,240
+and and create something over the top
+
+196
+00:08:45,000 --> 00:08:51,120
+that prevents the hackers getting into
+
+197
+00:08:47,240 --> 00:08:52,959
+that that flaw but hackers spend copious
+
+198
+00:08:51,120 --> 00:08:56,240
+amounts of time figuring out how to peel
+
+199
+00:08:52,959 --> 00:08:58,279
+back the edges of those sticky things
+
+200
+00:08:56,240 --> 00:09:04,680
+and get underneath and and get it access
+
+201
+00:08:58,279 --> 00:09:07,120
+to the system so by paying back this
+
+202
+00:09:04,680 --> 00:09:09,399
+technical debt of increasing the level
+
+203
+00:09:07,120 --> 00:09:13,120
+of quality in your
+
+204
+00:09:09,399 --> 00:09:16,440
+product you have all kinds of
+
+205
+00:09:13,120 --> 00:09:19,279
+exponential benefits to your ability to
+
+206
+00:09:16,440 --> 00:09:21,720
+deliver product to your customer the
+
+207
+00:09:19,279 --> 00:09:24,720
+happiness of your customer and you're
+
+208
+00:09:21,720 --> 00:09:28,440
+able to not just reduce costs technical
+
+209
+00:09:24,720 --> 00:09:30,079
+debt is not just a cost it's a oh what
+
+210
+00:09:28,440 --> 00:09:32,480
+would you call it it missed
+
+211
+00:09:30,079 --> 00:09:35,600
+opportunities right how what money are
+
+212
+00:09:32,480 --> 00:09:38,839
+you leaving on the table because you
+
+213
+00:09:35,600 --> 00:09:40,440
+haven't had the ability to go uh tackle
+
+214
+00:09:38,839 --> 00:09:42,519
+those opportunities you haven't had the
+
+215
+00:09:40,440 --> 00:09:47,320
+ability to try those
+
+216
+00:09:42,519 --> 00:09:48,360
+things this is fundamentally why having
+
+217
+00:09:47,320 --> 00:09:51,160
+high
+
+218
+00:09:48,360 --> 00:09:55,399
+quality usable working product on a
+
+219
+00:09:51,160 --> 00:09:58,399
+regular Cadence is a superpower for your
+
+220
+00:09:55,399 --> 00:10:01,760
+teams and for your organization in your
+
+221
+00:09:58,399 --> 00:10:01,760
+ability to deliver Val you
+
