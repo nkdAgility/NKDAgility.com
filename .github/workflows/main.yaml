@@ -254,7 +254,7 @@ jobs:
   BuildApi:
     name: "Build Api"
     runs-on: ubuntu-latest
-    if: ${{ success() }}
+    if: ${{ false }}
     needs: [Setup]
     env:
       GitVersion_SemVer: ${{ needs.Setup.outputs.GitVersion_SemVer }}
@@ -283,7 +283,7 @@ jobs:
   Publsh:
     name: "Publish Site"
     runs-on: ubuntu-latest
-    needs: [Setup, BuildSite, BuildApi, Spellcheck]
+    needs: [Setup, BuildSite, Spellcheck]
     if: ${{ success() }}
     steps:
       - uses: actions/checkout@v4
@@ -295,6 +295,7 @@ jobs:
           name: Site
           path: ./_site
       - name: Download a single artifact
+        if: ${{ false }}
         uses: actions/download-artifact@v4
         with:
           name: API
@@ -324,8 +325,7 @@ jobs:
           if ((Test-Path -Path $rootConfig -ErrorAction Stop) -and (Test-Path -Path $environmentConfig -ErrorAction Stop)) {
               try {
                   # Run jq to merge files and capture the output
-                  # $mergedContent = & jq -s 'reduce .[] as $item ({}; . * $item)' $rootConfig $environmentConfig $routesConfig 
-                  $mergedContent = & jq -s 'reduce .[] as $item ({}; . * $item)' $rootConfig $environmentConfig
+                  $mergedContent = & jq -s 'reduce .[] as $item ({}; . * $item)' $rootConfig $environmentConfig $routesConfig 
 
                   if ($mergedContent -ne "") {
                       # Write the merged content to the output file

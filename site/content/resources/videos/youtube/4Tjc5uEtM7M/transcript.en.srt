@@ -1,0 +1,392 @@
+1
+00:00:00,359 --> 00:00:04,920
+one of the biggest issues with uh
+
+2
+00:00:02,560 --> 00:00:07,399
+migrating as your devops up to the cloud
+
+3
+00:00:04,920 --> 00:00:09,760
+is probably that you're only going to do
+
+4
+00:00:07,399 --> 00:00:12,679
+it once and because you're only going to
+
+5
+00:00:09,760 --> 00:00:15,519
+do it once um you're unlikely to have
+
+6
+00:00:12,679 --> 00:00:17,800
+the skills already in existence in house
+
+7
+00:00:15,519 --> 00:00:21,480
+uh to be able to do that migration and
+
+8
+00:00:17,800 --> 00:00:23,800
+it probably doesn't make sense to build
+
+9
+00:00:21,480 --> 00:00:25,680
+those build and maintain those skills in
+
+10
+00:00:23,800 --> 00:00:29,560
+house because it's something you're
+
+11
+00:00:25,680 --> 00:00:31,480
+probably only going to do once um so for
+
+12
+00:00:29,560 --> 00:00:35,879
+B
+
+13
+00:00:31,480 --> 00:00:37,320
+Microsoft's um um uh database migration
+
+14
+00:00:35,879 --> 00:00:39,680
+depending on the size of your database
+
+15
+00:00:37,320 --> 00:00:43,239
+it can get quite
+
+16
+00:00:39,680 --> 00:00:45,719
+complicated um doesn't quite hit complex
+
+17
+00:00:43,239 --> 00:00:48,239
+but when you start um running a lot of
+
+18
+00:00:45,719 --> 00:00:51,559
+the validation tools against it to make
+
+19
+00:00:48,239 --> 00:00:54,879
+sure that your environment is compliant
+
+20
+00:00:51,559 --> 00:00:58,559
+for moving up to Azure devops is when
+
+21
+00:00:54,879 --> 00:01:01,320
+you get a lot of wacky stuff um that
+
+22
+00:00:58,559 --> 00:01:03,079
+is there's rabbit holes you need to go
+
+23
+00:01:01,320 --> 00:01:07,040
+into to understand a lot of that stuff
+
+24
+00:01:03,079 --> 00:01:10,119
+because um there are things that perhaps
+
+25
+00:01:07,040 --> 00:01:13,479
+could have happened to your system if
+
+26
+00:01:10,119 --> 00:01:17,520
+for example in the past uh somebody had
+
+27
+00:01:13,479 --> 00:01:20,000
+a a particular version installed um and
+
+28
+00:01:17,520 --> 00:01:23,439
+Microsoft made a a mess up right and
+
+29
+00:01:20,000 --> 00:01:27,079
+they released a patch and
+
+30
+00:01:23,439 --> 00:01:29,400
+between the install and the patch um
+
+31
+00:01:27,079 --> 00:01:31,240
+somebody made the change that the patch
+
+32
+00:01:29,400 --> 00:01:36,079
+is supposed to fix but it didn't quite
+
+33
+00:01:31,240 --> 00:01:38,040
+fix the actual data then um you you're
+
+34
+00:01:36,079 --> 00:01:40,720
+left with a data and a little bit of a
+
+35
+00:01:38,040 --> 00:01:42,479
+inconsistent format and what you
+
+36
+00:01:40,720 --> 00:01:44,680
+normally need to do is run some commands
+
+37
+00:01:42,479 --> 00:01:46,159
+against the system um and understanding
+
+38
+00:01:44,680 --> 00:01:49,399
+those commands what they're actually
+
+39
+00:01:46,159 --> 00:01:52,119
+doing um can be can be quite a deep
+
+40
+00:01:49,399 --> 00:01:56,039
+Rabbit Hole to get into um but
+
+41
+00:01:52,119 --> 00:02:00,079
+ultimately um we've done hundreds of
+
+42
+00:01:56,039 --> 00:02:02,840
+migrations I've been working with aure
+
+43
+00:02:00,079 --> 00:02:06,360
+Ops since it was Visual Studio team
+
+44
+00:02:02,840 --> 00:02:09,039
+system and it launched back in 2005
+
+45
+00:02:06,360 --> 00:02:12,520
+2006 uh so i' been working with it for a
+
+46
+00:02:09,039 --> 00:02:15,879
+long time and I built the tools uh that
+
+47
+00:02:12,520 --> 00:02:17,760
+Microsoft recommend to do um the the
+
+48
+00:02:15,879 --> 00:02:19,519
+peace more peace bu migration like I
+
+49
+00:02:17,760 --> 00:02:21,800
+want to move one team I want to merge
+
+50
+00:02:19,519 --> 00:02:24,400
+projects I want to split projects uh
+
+51
+00:02:21,800 --> 00:02:28,480
+those types of migrations which that's a
+
+52
+00:02:24,400 --> 00:02:30,360
+lot even more deeper skills necessary to
+
+53
+00:02:28,480 --> 00:02:32,599
+be able to run that tool because it's
+
+54
+00:02:30,360 --> 00:02:35,360
+it's
+
+55
+00:02:32,599 --> 00:02:36,560
+um really really really flexible when
+
+56
+00:02:35,360 --> 00:02:38,560
+you have things that are really really
+
+57
+00:02:36,560 --> 00:02:41,239
+really flexible that increases the
+
+58
+00:02:38,560 --> 00:02:44,480
+complexity and the configurability of
+
+59
+00:02:41,239 --> 00:02:46,239
+that thing um so you you you need
+
+60
+00:02:44,480 --> 00:02:48,800
+somebody to spend a lot of time figuring
+
+61
+00:02:46,239 --> 00:02:51,720
+that out we we have that knowledge and
+
+62
+00:02:48,800 --> 00:02:55,239
+expertise because we built the Tool uh
+
+63
+00:02:51,720 --> 00:02:58,879
+so if you're going to
+
+64
+00:02:55,239 --> 00:03:01,080
+do one migration or a few migrations
+
+65
+00:02:58,879 --> 00:03:02,519
+over a small period of time time you're
+
+66
+00:03:01,080 --> 00:03:04,640
+probably better just hiring somebody to
+
+67
+00:03:02,519 --> 00:03:06,400
+do that work if you're going to do a
+
+68
+00:03:04,640 --> 00:03:09,799
+whole bunch of migrations over a long
+
+69
+00:03:06,400 --> 00:03:12,400
+period of time um I do also work with
+
+70
+00:03:09,799 --> 00:03:14,799
+customers where we we train people
+
+71
+00:03:12,400 --> 00:03:17,200
+within the organization to use the tools
+
+72
+00:03:14,799 --> 00:03:20,879
+and then we help them uh uh run the
+
+73
+00:03:17,200 --> 00:03:24,120
+tools on a continuous basis um help with
+
+74
+00:03:20,879 --> 00:03:26,319
+support because you always run into
+
+75
+00:03:24,120 --> 00:03:28,760
+crazy things that are specific to you as
+
+76
+00:03:26,319 --> 00:03:31,239
+a customer those data shapes that I
+
+77
+00:03:28,760 --> 00:03:34,120
+mentioned perhaps in the midsts of time
+
+78
+00:03:31,239 --> 00:03:36,159
+of your your TFS environment um your
+
+79
+00:03:34,120 --> 00:03:37,519
+environment the database was originally
+
+80
+00:03:36,159 --> 00:03:39,760
+controlled under the control of the
+
+81
+00:03:37,519 --> 00:03:42,360
+developers right because uh it's a
+
+82
+00:03:39,760 --> 00:03:44,560
+developer tool so maybe maybe operations
+
+83
+00:03:42,360 --> 00:03:50,319
+didn't really own it and the developers
+
+84
+00:03:44,560 --> 00:03:52,720
+decided to install TFS 2013 beta 1 uh
+
+85
+00:03:50,319 --> 00:03:56,640
+which was supported by Microsoft but can
+
+86
+00:03:52,720 --> 00:03:58,480
+cause lots of weird data things um and
+
+87
+00:03:56,640 --> 00:04:00,280
+then it's on track it's been handed over
+
+88
+00:03:58,480 --> 00:04:01,480
+to operations
+
+89
+00:04:00,280 --> 00:04:04,400
+uh but there's some weird ID
+
+90
+00:04:01,480 --> 00:04:06,599
+idiosyncrasies in there so bringing in
+
+91
+00:04:04,400 --> 00:04:07,959
+expertise for for those types of things
+
+92
+00:04:06,599 --> 00:04:09,159
+whether it's for training the people
+
+93
+00:04:07,959 --> 00:04:11,720
+that you have that you want to do
+
+94
+00:04:09,159 --> 00:04:14,120
+long-term lots of different migrations
+
+95
+00:04:11,720 --> 00:04:16,440
+or if you just want somebody to take it
+
+96
+00:04:14,120 --> 00:04:18,199
+off your hands and do it for you um
+
+97
+00:04:16,440 --> 00:04:22,759
+that's ultimately what we're here for
+
+98
+00:04:18,199 --> 00:04:22,759
+you don't need the expertise in house
+
