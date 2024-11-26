@@ -124,7 +124,7 @@ foreach ($video in $allVideosData) {
         foreach ($caption in $captionsData) {
             $captionId = $caption.captionId
             $language = $caption.language
-            $captionsFileName = "transcript.$language.srt"
+            $captionsFileName = "data.captions.$language.srt"
             $captionFilePath = Join-Path $videoDir $captionsFileName
             if (-not (Test-Path $captionFilePath)) {
                 if ($captionsDownloadCount -lt $captionsDownloadLimit) {
