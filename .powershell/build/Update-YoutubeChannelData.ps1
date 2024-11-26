@@ -1,109 +1,156 @@
-Write-Host "Running v2"
+# Helpers
+. ./.powershell/_includes/YoutubeAPI.ps1
 
-# Define variables
+Write-Host "Running v3"
 
-$apiKey = $env:YOUTUBE_API_KEY
-$channelId = "UCkYqhFNmhCzkefHsHS652hw"
-$outputDir = "site\content\resources\videos\youtube"
-$dataDirectory = ".\site\data"
-$refreshData = $false
-
-$maxResults = 800
 
 # Create the output directory if it doesn't exist
 if (-not (Test-Path $outputDir)) {
     New-Item -Path $outputDir -ItemType Directory
 }
 
-# Function to fetch video list from YouTube API and save a single youtube.json file
-function Fetch-YoutubeVideoList {
-    param ()
 
-    $nextPageToken = $null
-    $page = 1;
-    $allVideosData = @()
-
-    do {
-        # YouTube API endpoint to get videos from a channel, including nextPageToken
-        $searchApiUrl = "https://www.googleapis.com/youtube/v3/search?key=$apiKey&part=snippet&channelId=$channelId&type=video&maxResults=$maxResults&pageToken=$nextPageToken"
-
-        # Fetch video list
-        $searchResponse = Invoke-RestMethod -Uri $searchApiUrl -Method Get
-
-        $allVideosData += $searchResponse.items
-
-        # Get the nextPageToken to continue fetching more videos
-        $nextPageToken = $searchResponse.nextPageToken
-        $page++
-    } while ($nextPageToken)
-
-    # Save all video data to a single youtube.json file
-    $dataFilePath = Join-Path $dataDirectory "youtube.json"
-    $allVideosData | ConvertTo-Json -Depth 10 | Set-Content -Path $dataFilePath
-
-    Write-Host "All video data saved to youtube.json."
-}
-
-# Function to update data.json for a single video
-function Update-YoutubeDataFile {
+# Function to get captions for a video
+function Get-YouTubeCaptions {
     param (
-        [string]$videoId
+        [Parameter(Mandatory = $true)]
+        [string]$videoId,
+        [string]$accessToken
     )
 
+    $captionsApiUrl = "https://www.googleapis.com/youtube/v3/captions?part=id,snippet&videoId=$videoId"
+    $headers = @{"Authorization" = "Bearer $accessToken" }
+
+    $response = Invoke-RestMethod -Uri $captionsApiUrl -Headers $headers -Method Get
+    return $response.items
+}
+
+# Function to download a caption file with a check if $captionContent is empty
+function Get-YouTubeCaption {
+    param (
+        [Parameter(Mandatory = $true)]
+        [string]$captionId,
+        [Parameter(Mandatory = $true)]
+        [string]$accessToken
+    )
+
+    # Specify the format as SRT by adding 'tfmt=srt' to the URL
+    $downloadUrl = "https://www.googleapis.com/youtube/v3/captions/$captionId/?tfmt=srt"
+    $headers = @{"Authorization" = "Bearer $accessToken" }
+
+    # Use Invoke-WebRequest for binary or non-JSON/XML responses
+    $response = Invoke-WebRequest -Uri $downloadUrl -Headers $headers -Method Get
+
+    return $response.Content
+}
+
+# Define variables
+$channelId = "UCkYqhFNmhCzkefHsHS652hw"
+$outputDir = "site\content\resources\videos\youtube"
+$dataDirectory = ".\site\data"
+$refreshData = $false
+$captionsDownloadLimit = 0
+$videoUpdateLimit = 10
+$captionsManafestUpdateLimit = 10
+
+# 0. Get Youtube Video List
+$dataFilePath = Join-Path $dataDirectory "youtube.json"
+if (Test-FileAge -filePath $dataFilePath -hours 3) {
+    $allVideosData = Get-YoutubePublicChannelVideos -channelId $channelId -apiKey $env:YOUTUBE_API_KEY  # Call this to fetch video list and save to youtube.json
+    # Save all video data to a single youtube.json file
+    
+    $allVideosData | ConvertTo-Json -Depth 10 | Set-Content -Path $dataFilePath
+    Write-Host "$dataFilePath  saved with $($allVideosData.Count) videos."  -ForegroundColor Green
+}
+else {
+    Write-Host "$dataFilePath  is up to date."  -ForegroundColor Yellow
+}
+
+
+$videoUpdateCount = 0
+$captionsManafestUpdateCount = 0
+$captionsDownloadCount = 0
+foreach ($video in $allVideosData) {
+    
+    Write-Host "Processing $($video.id.videoId)"  -ForegroundColor Green
+
+    $videoId = $video.id.videoId
     # Create the directory named after the video ID
     $videoDir = Join-Path $outputDir $videoId
     if (-not (Test-Path $videoDir)) {
         New-Item -Path $videoDir -ItemType Directory
     }
 
-    # File path for data.json
-    $jsonFilePath = Join-Path $videoDir "data.json"
-    if ($videoId -eq "xo4jMxupIM0") {
-        Write-Host "Updating data.json for video: $videoId"
-    }
-    # Only update if $refreshData is true or data.json doesn't exist
-    if ($refreshData -or -not (Test-Path $jsonFilePath)) {
-        # Fetch full video details from YouTube API
-        $videoDetailsUrl = "https://www.googleapis.com/youtube/v3/videos?key=$apiKey&id=$videoId&part=snippet,contentDetails"
-        $videoDetails = Invoke-RestMethod -Uri $videoDetailsUrl -Method Get
-        $videoData = $videoDetails.items[0]
-
-        if ($videoData) {
+    # 1. Get Youtube Video Data
+    $jsonFilePathVideos = Join-Path $videoDir "data.json"
+    if ($refreshData -or -not (Test-Path $jsonFilePathVideos)) {
+        if ($videoUpdateCount -lt $videoUpdateLimit) {
+            # Call the function to update the data for a single video
+            $videoData = Get-YoutubeVideoData -videoId $videoId
             # Save updated video data to data.json
-            $videoData | ConvertTo-Json -Depth 10 | Set-Content -Path $jsonFilePath
-            Write-Host "Updated data.json for video: $videoId"
+            if ($videoData) {
+                $videoData | ConvertTo-Json -Depth 10 | Set-Content -Path $jsonFilePathVideos
+                Write-Host "  Updated data.json for video: $videoId"
+                $videoUpdateCount++;
+            }        
         }
         else {
-            Write-Host "No data found for video: $videoId"
+            Write-Host "  Reached video update limit of $videoUpdateLimit. skipping."
+        }       
+    }
+
+    # 2. Get Youtube Captions List
+    $jsonFilePathCaptions = Join-Path $videoDir "data.captions.json"
+    if ($refreshData -or -not (Test-Path $jsonFilePathCaptions)) {
+        if ($captionsManafestUpdateCount -lt $captionsManafestUpdateLimit) {
+            # Call the function to update the data for a single video
+            $captionListData = Get-YouTubeCaptionsData -videoId $videoId
+            # Save updated video data to data.json
+            if ($captionListData) {
+                $captionListData | ConvertTo-Json -Depth 10 | Set-Content -Path $jsonFilePathCaptions
+                Write-Host "  Updated data.captions.json for video: $videoId"
+                $captionsManafestUpdateCount++;
+            }        
         }
+        else {
+            Write-Host "  Reached capations manafest update limit of $captionsManafestUpdateLimit. skipping."
+        }
+       
+    }
+
+    # 3. Download Captions
+    if (Test-Path $jsonFilePathCaptions) {
+        $captionsData = Get-Content -Path $jsonFilePathCaptions | ConvertFrom-Json
+        foreach ($caption in $captionsData) {
+            $captionId = $caption.captionId
+            $language = $caption.language
+            $captionsFileName = "data.captions.$language.srt"
+            $captionFilePath = Join-Path $videoDir $captionsFileName
+            if (-not (Test-Path $captionFilePath)) {
+                if ($captionsDownloadCount -lt $captionsDownloadLimit) {
+                    $captionData = Get-YouTubeCaption -captionId $captionId -accessToken $env:GOOGLE_ACCESS_TOKEN
+                    $captionData | Set-Content -Path $captionFilePath
+                    Write-Host "  Updated $captionsFileName for video: $videoId"
+                    $captionsDownloadCount++
+                }
+                else {
+                    Write-Host "  Reached capations download limit of $captionsDownloadLimit. skipping."
+                }
+               
+            }
+        }
+
     }
     else {
-        Write-Host "Data for video $videoId is already up to date."
+        Write-Host "  No caption list data manafest. skipping."
     }
 }
 
-# Function to iterate through youtube.json and update data.json for each video
-function Update-YoutubeDataFilesFromJson {
-    param ()
 
-    $dataFilePath = Join-Path $dataDirectory "youtube.json"
-    if (-not (Test-Path $dataFilePath)) {
-        Write-Host "youtube.json file not found. Please run Fetch-YoutubeVideoList first."
-        return
-    }
 
-    # Load video list from youtube.json
-    $allVideosData = Get-Content -Path $dataFilePath | ConvertFrom-Json
 
-    foreach ($video in $allVideosData) {
-        $videoId = $video.id.videoId
+# Update-YoutubeDataFilesFromJson # Call this to update data.json files from youtube.json
 
-        # Call the function to update the data for a single video
-        Update-YoutubeDataFile -videoId $videoId
-    }
+#   # Set a limit for the number of transcripts to download
 
-    Write-Host "All video data files updated from youtube.json."
-}
-
-#Fetch-YoutubeVideoList          # Call this to fetch video list and save to youtube.json
-Update-YoutubeDataFilesFromJson # Call this to update data.json files from youtube.json
+# Download-AllYouTubeCaptions -accessToken $env:GOOGLE_ACCESS_TOKEN
