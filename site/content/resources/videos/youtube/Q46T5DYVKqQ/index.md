@@ -29,11 +29,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube Q46T5DYVKqQ >}}
-
-# What is Empiricism
-
-#shorts #shortsvideo #shortvideo #scrum is built on the foundation of #empiricism to help a #scrumteam learn and respond as they navigate complexity. In this short video, Martin Hinshelwood explains what #empircism is
+{{< youtube Q46T5DYVKqQ >}} 
+ #shorts #shortsvideo #shortvideo #scrum is built on the foundation of #empiricism to help a #scrumteam learn and respond as they navigate complexity. In this short video, Martin Hinshelwood explains what #empircism is
 
 About NKD Agility
 
@@ -47,6 +44,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=Q46T5DYVKqQ)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=Q46T5DYVKqQ)

@@ -28,11 +28,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube WIVDWzps4aY >}}
-
-# Favourite scrum course to teach and why?
-
-#shorts #shortsvideo #shortvideo Martin Hinshelwood talks about his favourite #scrumcourse to teach, and why that #scrumtraining resonates so much.
+{{< youtube WIVDWzps4aY >}} 
+ #shorts #shortsvideo #shortvideo Martin Hinshelwood talks about his favourite #scrumcourse to teach, and why that #scrumtraining resonates so much.
 
 About NKD Agility
 
@@ -45,6 +42,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=WIVDWzps4aY)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=WIVDWzps4aY)

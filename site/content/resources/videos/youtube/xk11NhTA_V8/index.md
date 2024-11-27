@@ -46,11 +46,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube xk11NhTA_V8 >}}
-
-# Judgement! 7 Harbingers agile apocalypse. But shorter!
-
-If you're fortunate, your journey to wisdom and excellence is informed by learning, coaching, and mentoring. In other words, your judgement is informed by experts who help guide you through the maze and onto solid ground.
+{{< youtube xk11NhTA_V8 >}} 
+ If you're fortunate, your journey to wisdom and excellence is informed by learning, coaching, and mentoring. In other words, your judgement is informed by experts who help guide you through the maze and onto solid ground.
 
 Full video: https://youtu.be/FdQpGx-FW-0
 
@@ -69,6 +66,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=xk11NhTA_V8)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=xk11NhTA_V8)

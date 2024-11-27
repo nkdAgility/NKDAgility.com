@@ -27,11 +27,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube ZBb8OZ0I6qA >}}
-
-# Why its imposible to order a hierarchy, and what you can do instead!
-
-Discover how to revolutionize your project management approach by ditching traditional backlog hierarchies for a more flexible, value-focused system.
+{{< youtube ZBb8OZ0I6qA >}} 
+ Discover how to revolutionize your project management approach by ditching traditional backlog hierarchies for a more flexible, value-focused system.
 
 *Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
 
@@ -54,6 +51,5 @@ _You can request a free consultation: https://nkdagility.com/agile-consulting-co
 _Sign up for one of our upcoming professional Scrum classes: https://nkdagility.com/training-courses_
 
 #ProductBacklog, #SprintPlanning, #ScrumTeam, #ContinuousImprovement, #VisualManagement
-#azuredevops #planning #backlog #azureboards #epic
-
-[Watch on YouTube](https://www.youtube.com/watch?v=ZBb8OZ0I6qA)
+#azuredevops #planning #backlog #azureboards #epic 
+ [Watch on Youtube](https://www.youtube.com/watch?v=ZBb8OZ0I6qA)

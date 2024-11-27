@@ -26,11 +26,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube vI2LBfMkPuk >}}
-
-# What is your favourite agile course to deliver and why?
-
-Martin Hinshelwood has deep experience as a #softwareengineer, #agilecoach, #agileconsultant, and #professionalscrumtrainer.
+{{< youtube vI2LBfMkPuk >}} 
+ Martin Hinshelwood has deep experience as a #softwareengineer, #agilecoach, #agileconsultant, and #professionalscrumtrainer.
 
 The years of experience working at the #agile coalface means that he is able to provide useful, real-world examples of how #agility works in a live environment and can provide war stories that help embed the knowledge and learning outcomes required for #scrumcertification.
 
@@ -48,6 +45,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you.
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=vI2LBfMkPuk)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=vI2LBfMkPuk)

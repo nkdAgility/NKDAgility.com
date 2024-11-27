@@ -43,11 +43,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube vftc6m70a0w >}}
-
-# 7 Virtues of agile. Chastity
-
-🚀 Unlock the Secrets of Agile Success with "The Seven Virtues of Agility: Embracing Chastity in Business"!
+{{< youtube vftc6m70a0w >}} 
+ 🚀 Unlock the Secrets of Agile Success with "The Seven Virtues of Agility: Embracing Chastity in Business"!
 
 🌟 Are you ready to revolutionize your approach to Agile? Dive into our latest video where we unravel the seldom-discussed virtue of Chastity in the Agile framework. Discover why slowing down and thoughtful planning are crucial for real Agile success.
 
@@ -71,6 +68,5 @@ Expert Assistance: Learn how our team at Naked Agility can guide you through the
 
 #AgileTransformation #BusinessAgility #NakedAgility #LeadershipDevelopment #OrganizationalChange #AgileCoaching
 
-✨ Transform your approach to Agile today – Watch now and take the first step towards a more effective and inclusive Agile journey! ✨
-
-[Watch on YouTube](https://www.youtube.com/watch?v=vftc6m70a0w)
+✨ Transform your approach to Agile today – Watch now and take the first step towards a more effective and inclusive Agile journey! ✨ 
+ [Watch on Youtube](https://www.youtube.com/watch?v=vftc6m70a0w)

@@ -43,11 +43,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube KHcSWD2tV6M >}}
-
-# Silence - 7 signs of the agile apocalypse. But shorter!
-
-There's the kind of silence that brings peace into your world, the kind of silence that enables you to pause, reflect, and discover the deeper solutions that prove so elusive when you're running at full speed.
+{{< youtube KHcSWD2tV6M >}} 
+ There's the kind of silence that brings peace into your world, the kind of silence that enables you to pause, reflect, and discover the deeper solutions that prove so elusive when you're running at full speed.
 
 Full Video: https://youtu.be/YuKD3WWFJNQ
 
@@ -64,6 +61,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=KHcSWD2tV6M)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=KHcSWD2tV6M)

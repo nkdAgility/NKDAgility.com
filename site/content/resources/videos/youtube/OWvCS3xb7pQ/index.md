@@ -32,11 +32,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube OWvCS3xb7pQ >}}
-
-# What excites you most about the PAL e immersive learning journey for delegates?
-
-The Professional Agile Leadership - Essentials (PAL-E) course from Scrum.Org has just gone immersive! From the traditional 2-day workshop format, we've now got a 7-week journey that empowers you to learn, apply, adapt and evolve more effectively.
+{{< youtube OWvCS3xb7pQ >}} 
+ The Professional Agile Leadership - Essentials (PAL-E) course from Scrum.Org has just gone immersive! From the traditional 2-day workshop format, we've now got a 7-week journey that empowers you to learn, apply, adapt and evolve more effectively.
 
 In this short video, Joanna Plaskonka - Professional Scrum Trainer and PAL-E course leader - walks us through some of the reasons why she is so excited to be delivering this class.
 
@@ -52,6 +49,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=OWvCS3xb7pQ)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=OWvCS3xb7pQ)

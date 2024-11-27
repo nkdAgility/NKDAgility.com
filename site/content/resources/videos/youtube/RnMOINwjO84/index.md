@@ -24,11 +24,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube RnMOINwjO84 >}}
-
-# Making Data Driven Decisions - Decision making frameworks
-
-Making Agile Decisions in a Complex World: Why There Are No Rules
+{{< youtube RnMOINwjO84 >}} 
+ Making Agile Decisions in a Complex World: Why There Are No Rules
 
 In this video, I explore why decision-making in agile environments is more complex than ever and why there’s no one-size-fits-all approach to using data, telemetry, or evidence-based management. 
 
@@ -57,6 +54,5 @@ By the end of this video, you’ll understand why agile decision-making is an on
 
 If you found this video useful, please like, subscribe, and visit https://www.nkdagility.com for more content on agility and decision-making.
 
-#evidencebasedmanagement #evidencebasedleadership #agile #productdevelopment #productmanager
-
-[Watch on YouTube](https://www.youtube.com/watch?v=RnMOINwjO84)
+#evidencebasedmanagement #evidencebasedleadership #agile #productdevelopment #productmanager 
+ [Watch on Youtube](https://www.youtube.com/watch?v=RnMOINwjO84)

@@ -28,11 +28,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube QGXlCm_B5zA >}}
-
-# What will you learn on the PSM II course?
-
-The #PSM II or #professionalscrummaster course from Scrum.Org is designed to help a #scrummaster progress in their career from entry-level capability to more advanced capabilities.
+{{< youtube QGXlCm_B5zA >}} 
+ The #PSM II or #professionalscrummaster course from Scrum.Org is designed to help a #scrummaster progress in their career from entry-level capability to more advanced capabilities.
 
 As a newbie #scrummaster, the focus tends to lie on helping the #developers through the #scrumframework and taking on a fairly strong administrative function within the team.
 
@@ -52,6 +49,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=QGXlCm_B5zA)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=QGXlCm_B5zA)

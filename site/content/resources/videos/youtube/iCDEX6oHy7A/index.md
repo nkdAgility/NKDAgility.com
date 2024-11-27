@@ -25,14 +25,10 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube iCDEX6oHy7A >}}
-
-# Ep 004 - Chat with Jim Sammons on professionalism and conflicting priorities
-
-Jim is a Professional Scrum Trainer and an active Agile consultant at Loop Agility. We will be chatting about professionalism and conflicting priorities at 20:00 on the 7th April 2020
+{{< youtube iCDEX6oHy7A >}} 
+ Jim is a Professional Scrum Trainer and an active Agile consultant at Loop Agility. We will be chatting about professionalism and conflicting priorities at 20:00 on the 7th April 2020
 
 Guest Jim Sammons: https://www.scrum.org/jim-sammons
 
-Martin Hinshelwood: https://nkdagility.com/company/about-martin-hinshelwood/
-
-[Watch on YouTube](https://www.youtube.com/watch?v=iCDEX6oHy7A)
+Martin Hinshelwood: https://nkdagility.com/company/about-martin-hinshelwood/ 
+ [Watch on Youtube](https://www.youtube.com/watch?v=iCDEX6oHy7A)

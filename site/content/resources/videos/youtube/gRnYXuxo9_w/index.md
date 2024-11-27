@@ -27,11 +27,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube gRnYXuxo9_w >}}
-
-# Scrum Value, Openness, What does it mean and why does it matter?
-
-*Unlocking Team Potential: The Power of Openness in Scrum*
+{{< youtube gRnYXuxo9_w >}} 
+ *Unlocking Team Potential: The Power of Openness in Scrum*
 
 Discover how openness revolutionizes team dynamics and drives success in Scrum. Dive deep into the vital role of transparency and trust in this insightful discussion. 🔐🌀💡
 
@@ -56,6 +53,5 @@ _Sign up for one of our upcoming professional Scrum classes: https://nkdagility.
 
 Because you don't just need agility, you need Naked Agility.
 
-#scrum #agile #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg #scrummaster #productowner #kanban #continousdelivery #devops #azuredevops
-
-[Watch on YouTube](https://www.youtube.com/watch?v=gRnYXuxo9_w)
+#scrum #agile #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg #scrummaster #productowner #kanban #continousdelivery #devops #azuredevops 
+ [Watch on Youtube](https://www.youtube.com/watch?v=gRnYXuxo9_w)

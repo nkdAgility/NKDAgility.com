@@ -33,11 +33,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube IqWvURjrJVs >}}
-
-# Znaczenie znajomości terenu
-
-Znaczenie znajomości terenu. Czego możemy się nauczyć o zwinności na podstawie narodowego polskiego sportu, czyli zbierania grzybów?
+{{< youtube IqWvURjrJVs >}} 
+ Znaczenie znajomości terenu. Czego możemy się nauczyć o zwinności na podstawie narodowego polskiego sportu, czyli zbierania grzybów?
 
 About NKD Agility
 
@@ -51,6 +48,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=IqWvURjrJVs)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=IqWvURjrJVs)

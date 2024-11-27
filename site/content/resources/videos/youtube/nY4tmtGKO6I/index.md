@@ -43,11 +43,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube nY4tmtGKO6I >}}
-
-# Why is training such a critical element in a scrummaster journey?
-
-People assume that the #scrummaster accountability is a junior, administrative role when in fact, it's a #leadership and #agilecoaching accountability that requires a deeply skilled, committed individual at the helm. This is a short extract from the video where Martin Hinshelwood talks about the importance of #scrumtraining for a Scrum Master. Watch the full video on https://youtu.be/U0h7N5xpAfY
+{{< youtube nY4tmtGKO6I >}} 
+ People assume that the #scrummaster accountability is a junior, administrative role when in fact, it's a #leadership and #agilecoaching accountability that requires a deeply skilled, committed individual at the helm. This is a short extract from the video where Martin Hinshelwood talks about the importance of #scrumtraining for a Scrum Master. Watch the full video on https://youtu.be/U0h7N5xpAfY
 
 About NKD Agility
 
@@ -60,6 +57,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=nY4tmtGKO6I)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=nY4tmtGKO6I)

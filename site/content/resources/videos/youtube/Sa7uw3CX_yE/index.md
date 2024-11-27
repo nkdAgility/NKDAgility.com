@@ -20,10 +20,6 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube Sa7uw3CX_yE >}}
-
-# The Tyranny of Taylorism and how to spot agile lies for The Future of Work in Scotland
-
-
-
-[Watch on YouTube](https://www.youtube.com/watch?v=Sa7uw3CX_yE)
+{{< youtube Sa7uw3CX_yE >}} 
+  
+ [Watch on Youtube](https://www.youtube.com/watch?v=Sa7uw3CX_yE)

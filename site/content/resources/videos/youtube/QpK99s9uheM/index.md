@@ -27,11 +27,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube QpK99s9uheM >}}
-
-# Is a scrum master an agile project manager?
-
-#shorts #shortsvideo #agile doesn't have a #projectmanager role and neither does #scrum. Sometimes, people think a #scrummaster is an #agileprojectmanager but they aren't. They perform a completely different role. Martin Hinshelwood explains.
+{{< youtube QpK99s9uheM >}} 
+ #shorts #shortsvideo #agile doesn't have a #projectmanager role and neither does #scrum. Sometimes, people think a #scrummaster is an #agileprojectmanager but they aren't. They perform a completely different role. Martin Hinshelwood explains.
 
 About NKD Agility
 
@@ -44,6 +41,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=QpK99s9uheM)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=QpK99s9uheM)

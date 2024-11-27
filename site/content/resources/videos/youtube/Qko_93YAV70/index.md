@@ -24,10 +24,6 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube Qko_93YAV70 >}}
-
-# Kanban Vs Scrum
-
-Kanban Vs Scrum. Visit https://www.nkdagility.com #agile #scrum #kanban #agileframework #agileprojectmanagement
-
-[Watch on YouTube](https://www.youtube.com/watch?v=Qko_93YAV70)
+{{< youtube Qko_93YAV70 >}} 
+ Kanban Vs Scrum. Visit https://www.nkdagility.com #agile #scrum #kanban #agileframework #agileprojectmanagement 
+ [Watch on Youtube](https://www.youtube.com/watch?v=Qko_93YAV70)

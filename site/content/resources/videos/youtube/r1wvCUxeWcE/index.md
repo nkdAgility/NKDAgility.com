@@ -22,10 +22,6 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube r1wvCUxeWcE >}}
-
-# Kanban Boards
-
-Kanban Boards. Visit https://www.nkdagility.com #agile #kanban #agileprojectmanagement #agileproductdevelopment
-
-[Watch on YouTube](https://www.youtube.com/watch?v=r1wvCUxeWcE)
+{{< youtube r1wvCUxeWcE >}} 
+ Kanban Boards. Visit https://www.nkdagility.com #agile #kanban #agileprojectmanagement #agileproductdevelopment 
+ [Watch on Youtube](https://www.youtube.com/watch?v=r1wvCUxeWcE)

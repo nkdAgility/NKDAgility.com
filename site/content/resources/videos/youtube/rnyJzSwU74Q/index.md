@@ -20,11 +20,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube rnyJzSwU74Q >}}
-
-# Traditional vs Empirical! Whats the difference? Agile faces off agianst waterfall!
-
-Discover how agile practices can significantly enhance project success rates. Dive deep into the empirical model's advantages, including increased visibility, adaptability, reduced risk, and continuous value delivery.
+{{< youtube rnyJzSwU74Q >}} 
+ Discover how agile practices can significantly enhance project success rates. Dive deep into the empirical model's advantages, including increased visibility, adaptability, reduced risk, and continuous value delivery.
 
 Enjoy this video? 🔔 Like and subscribe to our channel: https://www.youtube.com/@nakedAgility
 
@@ -39,6 +36,5 @@ Key Takeaways:
 
 According to the Chaos Report from the Standish Group small projects of under 50 participants are 30% more likely to be successful, and large projects of more than 50 people are over 200% more likely to be successful.
 
-Hopefully, this short video will help you identify the key differences that make this posible!
-
-[Watch on YouTube](https://www.youtube.com/watch?v=rnyJzSwU74Q)
+Hopefully, this short video will help you identify the key differences that make this posible! 
+ [Watch on Youtube](https://www.youtube.com/watch?v=rnyJzSwU74Q)

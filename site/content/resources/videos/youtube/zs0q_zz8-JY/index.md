@@ -27,11 +27,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube zs0q_zz8-JY >}}
-
-# Biggest misconception about a scrum master
-
-#shorts #shortsvideo #shortvideo Martin Hinshelwood explores one of the biggest misconceptions about a #scrummaster 
+{{< youtube zs0q_zz8-JY >}} 
+ #shorts #shortsvideo #shortvideo Martin Hinshelwood explores one of the biggest misconceptions about a #scrummaster 
 
 About NKD Agility
 
@@ -45,6 +42,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=zs0q_zz8-JY)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=zs0q_zz8-JY)
