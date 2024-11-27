@@ -99,7 +99,7 @@ function Update-YoutubeMarkdownFiles {
             if (-not $hugoMarkdown.FrontMatter.Contains("description")) {
                 # Update description using OpenAI if needed
                 $fullDescription = Get-UpdatedDescription -videoData $videoData
-                Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'description' -fieldValue (Get-Excerpt -InputString $fullDescription)
+                Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'description' -fieldValue $fullDescription -addAfter "title"
             }
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'date' -fieldValue $publishedAt 
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'videoId' -fieldValue $videoId
