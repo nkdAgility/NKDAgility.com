@@ -1,5 +1,6 @@
 ---
 title: Missed opportunities, the hidden cost of technical debt
+description: 'Explore the hidden costs of technical debt and how missed opportunities can impact your projects. Discover insights for agile success! #TechnicalDebt #Agile'
 date: 2024-11-21T17:01:52Z
 videoId: FFrTLuRhyVo
 source: youtube
