@@ -145,9 +145,9 @@ function Save-HugoMarkdown {
     )
 
     $updatedContent = "---`n$(ConvertTo-Yaml $hugoMarkdown.FrontMatter)`n---`n$($hugoMarkdown.BodyContent.TrimEnd())"
-    $updatedContent = $updatedContent -replace "`r`n", "`n"  # Normalize line endings
-    $updatedContent += "`n"
-    Set-Content -Path $Path -Value $updatedContent -Encoding UTF8NoBOM -NoNewline
+    #$updatedContent = $updatedContent -replace "`r`n", "`n"  # Normalize line endings
+    #$updatedContent += "`n"
+    Set-Content -Path $Path -Value $updatedContent #-Encoding UTF8NoBOM -NoNewline
 }
 
 Write-Host "HugoHelpers.ps1 loaded" -ForegroundColor Green
