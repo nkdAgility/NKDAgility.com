@@ -35,7 +35,8 @@ function Update-YoutubeMarkdownFiles {
 
         # Load the video data from data.json if available
         if (Test-Path $jsonFilePath) {
-
+            $videoData = Get-Content -Path $jsonFilePath | ConvertFrom-Json
+            $videoId = $videoData.id
             $source = $null;
             # Load existing markdown or create a new HugoMarkdown object
             if (Test-Path $markdownFile) {
@@ -58,8 +59,8 @@ function Update-YoutubeMarkdownFiles {
                 return
             }
 
-            $videoData = Get-Content -Path $jsonFilePath | ConvertFrom-Json
-            $videoId = $videoData.id
+            
+           
             $videoSnippet = $videoData.snippet
             $durationISO = $videoData.contentDetails.duration
 
@@ -123,6 +124,10 @@ function Update-YoutubeMarkdownFiles {
                 $priority = 0.6
             }                 
             $hugoMarkdown.FrontMatter["sitemap"] = @{ filename = "sitemap.xml"; priority = $priority }  # Update sitemap filename
+            if ($source -eq "youtube" -or [string]::IsNullOrWhiteSpace($hugoMarkdown.BodyContent)) {
+                # Ensure Content
+                $hugoMarkdown.BodyContent = "{{< youtube $videoId) >}} `n $($videoData.snippet.description) `n [Watch on Youtube](https://www.youtube.com/watch?v=$videoId)" 
+            }           
             # Save the updated HugoMarkdown to index.md
             Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $markdownFile
             Write-Host "Markdown created or updated for video: $($videoSnippet.title)"
