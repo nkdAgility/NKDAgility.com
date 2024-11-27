@@ -29,7 +29,7 @@ tags:
 - Scrum master
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 
 ---
 # Rethinking Code Reviews: From Manual Checks to Pre-Reviewed Excellence
