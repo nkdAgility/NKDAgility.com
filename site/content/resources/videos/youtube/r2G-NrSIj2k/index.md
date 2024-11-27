@@ -2,10 +2,9 @@
 title: Code Reviews for Quality Assurance
 date: 2024-11-27T06:00:25Z
 videoId: r2G-NrSIj2k
-source: youtube
+source: internal
 url: /resources/videos/:slug
 slug: code-reviews-for-quality-assurance
-canonicalUrl: https://www.youtube.com/watch?v=r2G-NrSIj2k
 aliases:
 - /resources/videos/r2G-NrSIj2k
 - /resources/videos/code-reviews-for-quality-assurance
@@ -33,4 +32,3 @@ sitemap:
   priority: 0.4
 
 ---
-
