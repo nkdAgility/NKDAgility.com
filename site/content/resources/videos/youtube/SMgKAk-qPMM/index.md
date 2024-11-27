@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/SMgKAk-qPMM
 - /resources/7-virtues-of-agile-temperance
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Agile
 - Scrum

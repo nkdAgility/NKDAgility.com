@@ -14,8 +14,8 @@ aliases:
 - /resources/videos/must-have-trait-in-an-agile-consultant
 - /resources/videos/agPLmBdXdbk
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Agile consultant
 - Agile consulting

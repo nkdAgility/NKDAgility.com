@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/reasons-to-do-an-aps-course-in-60-seconds
 - /resources/videos/yKSkRhv_2Bs
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - APS
 - Applying Professional Scrum

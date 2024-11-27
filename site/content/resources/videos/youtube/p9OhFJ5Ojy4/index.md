@@ -21,8 +21,8 @@ tags:
 - digital transformation
 - agile transformation
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---

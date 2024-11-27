@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/AwkxZ9RS_0g
 - /resources/how-does-your-consulting-experience-manifest-in-the-training-environment-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Scrum
 - Scrum Trainer

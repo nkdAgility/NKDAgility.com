@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/Xs-gf093GbI
 - /resources/what-is-a-product-vision-and-why-does-it-matter-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Product Vision
 - Product Goal

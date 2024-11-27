@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/aS9TRDoC62o
 - /resources/if-a-client-hasn't-considered-devops-consulting-as-part-of-their-agile-consulting-needs,-why-should
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - DevOps
 - DevOps consulting

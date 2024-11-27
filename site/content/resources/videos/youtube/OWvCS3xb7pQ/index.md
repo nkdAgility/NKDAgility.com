@@ -27,8 +27,8 @@ tags:
 - Agile leadership course
 - Agile Leadership certification
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---

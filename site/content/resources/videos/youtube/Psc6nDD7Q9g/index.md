@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/Psc6nDD7Q9g
 - /resources/unlocking-the-power-of-kanban-gaining-deep-insights-into-your-software-engineering-processes
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Kanban
 - Kanban training

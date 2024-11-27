@@ -23,8 +23,8 @@ tags:
 - Professional Scrum Master
 - Advanced Professional Scrum Master
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---

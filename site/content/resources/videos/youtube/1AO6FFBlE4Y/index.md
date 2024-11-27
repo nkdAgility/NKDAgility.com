@@ -25,8 +25,8 @@ tags:
 - Product Manager
 - Project manager
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 slug: the-high-cost-of-poor-quality-code-
 
 ---

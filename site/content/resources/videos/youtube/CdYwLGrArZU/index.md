@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/CdYwLGrArZU
 - /resources/most-common-thing-you-hear-in-a-pspo-course-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Product Owner
 - Scrum Product Owner

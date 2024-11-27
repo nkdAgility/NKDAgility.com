@@ -21,8 +21,8 @@ tags:
 - Agile approach
 - Agile Product Development
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---

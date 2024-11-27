@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/JzAbvkFxVzs
 - /resources/5-ghosts-of-agile-past-dogma
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Agile
 - Scrum

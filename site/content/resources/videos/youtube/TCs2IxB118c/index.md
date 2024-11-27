@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/TCs2IxB118c
 - /resources/the-power-of-engaged-teams-through-mentorship-programs
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Product Development
 - Agile Product Development

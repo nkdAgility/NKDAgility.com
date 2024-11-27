@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/4nhKXAgutZw
 - /resources/7-virtues-of-agile-kindness
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Agile
 - Scrum

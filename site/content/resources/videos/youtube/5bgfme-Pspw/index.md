@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/5bgfme-Pspw
 - /resources/momentum
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Momentum
 - Team performance

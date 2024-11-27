@@ -14,8 +14,8 @@ aliases:
 - /resources/videos/is-a-scrum-master-an-agile-micromanager
 - /resources/videos/FNFV4mp-0pg
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Scrum Master
 - ScrumMaster

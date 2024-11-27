@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/jhpy9Hy8uEw
 - /resources/choosing-scrum-org-over-scrum-alliance!
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Scrum.Org
 - Scrum Alliance

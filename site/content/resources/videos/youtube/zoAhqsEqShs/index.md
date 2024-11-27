@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/zoAhqsEqShs
 - /resources/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Agile consulting
 - Agile consultant

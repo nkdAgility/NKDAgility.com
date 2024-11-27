@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/ArVDYRCKpOE
 - /resources/quotes,-fake-it-until-you-make-it
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Sprint Backlog
 - Product Backlog

@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/ZQu2uSt1xxk
 - /resources/overview-of-applying-professional-kanban-course-1
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Applying Professional Kanban
 - Kanban course

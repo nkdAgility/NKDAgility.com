@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/vHNwcfbNOR8
 - /resources/what-is-your-feeling-on-creating-agile-apprenticeships-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Agile apprenticeship
 - Scrum Apprenticeship

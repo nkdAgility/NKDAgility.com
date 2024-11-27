@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/-xMY9Heanjk
 - /resources/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Scrum
 - Scrum Framework

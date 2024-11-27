@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/XF-yQmPdUME
 - /resources/the-product-owner's-role-in-maximizing-value
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Product Owner
 - Agile

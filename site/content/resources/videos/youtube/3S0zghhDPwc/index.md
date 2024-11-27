@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/3S0zghhDPwc
 - /resources/7-virtues-of-agile-diligence
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Agile
 - Scrum

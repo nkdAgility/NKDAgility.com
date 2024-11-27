@@ -14,8 +14,8 @@ aliases:
 - /resources/videos/8-week-immersive-learning-course-in-60-seconds
 - /resources/videos/o9Qc_NLmtok
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Immersive Learning
 - Scrum.Org

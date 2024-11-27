@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/kVt5KP9dg8Q
 - /resources/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-[6-6]
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Detecting Agile BS
 - Agile project management

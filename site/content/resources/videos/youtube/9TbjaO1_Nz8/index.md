@@ -22,8 +22,8 @@ tags:
 - Entrepreneur
 - Entrepreneur product management
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---

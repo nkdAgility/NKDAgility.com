@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/Frqfd0EPj_4
 - /resources/do-you-think-immersivelearning-is-the-future-of-scrum-training-if-so,-why-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Agile
 - Scrum

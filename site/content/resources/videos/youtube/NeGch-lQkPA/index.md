@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/NeGch-lQkPA
 - /resources/overview-of-'applying-flow-metrics-for-scrum'-kanban-course-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Kanban
 - Kanban courses

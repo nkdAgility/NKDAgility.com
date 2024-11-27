@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/S3Xq6gCp7Hw
 - /resources/how-much-of-an-impact-can-a-strong,-skilled-product-owner-have-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Product Owner
 - Scrum

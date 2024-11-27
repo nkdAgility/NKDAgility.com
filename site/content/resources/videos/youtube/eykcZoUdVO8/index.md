@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/eykcZoUdVO8
 - /resources/most-influential-person-in-agile-for-you-personally-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Agile
 - Agile leadership

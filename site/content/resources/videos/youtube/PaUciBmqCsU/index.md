@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/PaUciBmqCsU
 - /resources/kanban-vs-scrum-you're-asking-the-wrong-question!
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Kanban
 - Kanban training

@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/vXCIf3eBJfs
 - /resources/5-things-to-consider-before-hiring-an-agilecoach-part-5
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Agile
 - Scrum

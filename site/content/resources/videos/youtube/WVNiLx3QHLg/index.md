@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/WVNiLx3QHLg
 - /resources/why-i-love-hierarchies-of-competence
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Agile
 - Agile leadership

@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/wHYYfvAGFow
 - /resources/what-is-taylorism-and-how-did-it-influence-project-management-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Taylorism
 - Project Management

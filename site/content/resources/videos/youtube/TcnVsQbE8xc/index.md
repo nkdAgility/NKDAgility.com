@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/reasons-to-do-a-psm-ii-course-in-60-seconds
 - /resources/videos/TcnVsQbE8xc
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - PSM II
 - Professional Scrum Master II

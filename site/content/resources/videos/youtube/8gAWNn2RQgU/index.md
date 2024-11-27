@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/why-do-you-trust-joanna-to-deliver-scrum-courses-for-nkd-agility
 - /resources/videos/8gAWNn2RQgU
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - PST
 - Professional Scrum Trainer

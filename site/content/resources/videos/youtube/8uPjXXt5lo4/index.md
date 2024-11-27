@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/8uPjXXt5lo4
 - /resources/what-is-the-most-valuable-thing-you-have-learned-through-training-people-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Scrum
 - Scrum Training

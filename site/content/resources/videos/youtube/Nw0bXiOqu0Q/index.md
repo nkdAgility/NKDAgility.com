@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/Nw0bXiOqu0Q
 - /resources/why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Agile
 - Product Development

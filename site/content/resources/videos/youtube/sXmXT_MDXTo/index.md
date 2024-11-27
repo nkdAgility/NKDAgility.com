@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/sXmXT_MDXTo
 - /resources/can-you-provide-an-overview-of-your-devops-consulting-services-and-explain-who-can-benefit-the-most
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - DevOps
 - DevOps migration

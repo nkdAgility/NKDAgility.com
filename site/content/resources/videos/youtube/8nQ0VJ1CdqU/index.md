@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/8nQ0VJ1CdqU
 - /resources/why-did-so-many-of-the-early-agile-transformations-fail-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Agile Transformation
 - Agile
