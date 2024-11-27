@@ -45,7 +45,7 @@ $dataDirectory = ".\site\data"
 $refreshData = $false
 $captionsDownloadLimit = 0
 $videoUpdateLimit = 10
-$captionsManafestUpdateLimit = 10
+$captionsManafestUpdateLimit = 100
 $maxYoutubeSearchResults = 600
 
 # Create the output directory if it doesn't exist
