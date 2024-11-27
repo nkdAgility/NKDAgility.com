@@ -126,7 +126,7 @@ function Update-YoutubeMarkdownFiles {
             $hugoMarkdown.FrontMatter["sitemap"] = @{ filename = "sitemap.xml"; priority = $priority }  # Update sitemap filename
             if ($source -eq "youtube" -or [string]::IsNullOrWhiteSpace($hugoMarkdown.BodyContent)) {
                 # Ensure Content
-                $hugoMarkdown.BodyContent = "{{< youtube $videoId) >}} `n $($videoData.snippet.description) `n [Watch on Youtube](https://www.youtube.com/watch?v=$videoId)" 
+                $hugoMarkdown.BodyContent = "{{< youtube $videoId >}} `n $($videoData.snippet.description) `n [Watch on Youtube](https://www.youtube.com/watch?v=$videoId)" 
             }           
             # Save the updated HugoMarkdown to index.md
             Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $markdownFile

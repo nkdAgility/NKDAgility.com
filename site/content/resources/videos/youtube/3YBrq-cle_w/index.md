@@ -28,11 +28,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube 3YBrq-cle_w >}}
-
-# How will a PSM II course challenge your assumptions the most?
-
-The #PSMII or #advancedprofessionalscrummaster course, developed by #scrumorg, has been designed to escalate the knowledge, skills, and capabilities of a #scrummaster to a more advanced, professional level.
+{{< youtube 3YBrq-cle_w >}} 
+ The #PSMII or #advancedprofessionalscrummaster course, developed by #scrumorg, has been designed to escalate the knowledge, skills, and capabilities of a #scrummaster to a more advanced, professional level.
 
 Often, that means building on the rock-solid foundation of the #PSM or #professionalscrummaster course, but for some it's a brand new experience with the world of professional #scrum and challenges many of their assumptions about the accountability.
 
@@ -49,6 +46,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=3YBrq-cle_w)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=3YBrq-cle_w)

@@ -26,10 +26,6 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube 2Sal3OneFfo >}}
-
-# Azure DevOps Migration services. Part 1
-
-DevOps Migration Services from NKD Agility. #azure #azuredevops #devopsmigration #devopsconsulting #devopsconsultant #devopscoach #devopstraining #migration #agile #productdevelopment #productmanagement #projectmanagement #informationtechnology
-
-[Watch on YouTube](https://www.youtube.com/watch?v=2Sal3OneFfo)
+{{< youtube 2Sal3OneFfo >}} 
+ DevOps Migration Services from NKD Agility. #azure #azuredevops #devopsmigration #devopsconsulting #devopsconsultant #devopscoach #devopstraining #migration #agile #productdevelopment #productmanagement #projectmanagement #informationtechnology 
+ [Watch on Youtube](https://www.youtube.com/watch?v=2Sal3OneFfo)

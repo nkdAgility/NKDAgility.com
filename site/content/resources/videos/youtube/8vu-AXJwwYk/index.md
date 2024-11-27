@@ -26,11 +26,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube 8vu-AXJwwYk >}}
-
-# How much of an impact can a great agile consultant have?
-
-In 2001, a group of brilliant #softwareengineers came together to define and articulate a new style of #productdevelopment based on their collective knowledge, experience, and experimentation with #agileframeworks.
+{{< youtube 8vu-AXJwwYk >}} 
+ In 2001, a group of brilliant #softwareengineers came together to define and articulate a new style of #productdevelopment based on their collective knowledge, experience, and experimentation with #agileframeworks.
 
 It was a revolutionary new approach to #productdevelopment and #projectmanagement (for lack of a better word) that empowered teams to navigate complexity, uncertainty, volatility, and ambiguity.
 
@@ -55,6 +52,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 We would love to work with you. 
 
 #scrum #agile #scrumteam #agileprojectmanagement 
-#agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=8vu-AXJwwYk)
+#agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=8vu-AXJwwYk)

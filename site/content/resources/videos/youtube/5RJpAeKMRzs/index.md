@@ -20,11 +20,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube 5RJpAeKMRzs >}}
-
-# The 7 Deadly Sins of Agile!
-
-This video unravels the complex challenges of implementing an agile philosophy within organizations. Through a deep dive into the "Seven Deadly Sins of Agile," I share personal insights and experiences to guide you away from common pitfalls and towards a more effective and genuinely agile approach. From lust for quick fixes to the pride that blinds, we'll explore how these sins can derail your agile journey and what you can do to stay on the right path.
+{{< youtube 5RJpAeKMRzs >}} 
+ This video unravels the complex challenges of implementing an agile philosophy within organizations. Through a deep dive into the "Seven Deadly Sins of Agile," I share personal insights and experiences to guide you away from common pitfalls and towards a more effective and genuinely agile approach. From lust for quick fixes to the pride that blinds, we'll explore how these sins can derail your agile journey and what you can do to stay on the right path.
 
 Enjoy this video? 🔔 Like and subscribe to our channel: https://www.youtube.com/@nakedAgility
 
@@ -46,6 +43,5 @@ Sign up for one of our upcoming professional Scrum classes: https://nkdagility.c
 
 #AgileTransformation, #ScrumFramework, #AgilePhilosophy, #ContinuousImprovement, #CustomerCollaboration
 
-NNWTECIQ9X
-
-[Watch on YouTube](https://www.youtube.com/watch?v=5RJpAeKMRzs)
+NNWTECIQ9X 
+ [Watch on Youtube](https://www.youtube.com/watch?v=5RJpAeKMRzs)

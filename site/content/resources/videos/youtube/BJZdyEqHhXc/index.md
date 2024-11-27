@@ -25,14 +25,10 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube BJZdyEqHhXc >}}
-
-# NKD Agility Consulting Approach
-
-Due to the lack of regulation in the Agile industry, there are a number of people who have had poor experiences with people who claim to be an #agilecoach, but don't possess the skills, certifications, and experience to be one.
+{{< youtube BJZdyEqHhXc >}} 
+ Due to the lack of regulation in the Agile industry, there are a number of people who have had poor experiences with people who claim to be an #agilecoach, but don't possess the skills, certifications, and experience to be one.
 
 It can be tough to know what you're getting, how that will help you, and what kind of approach the #agileconsultant will take. In this short video, Martin Hinshelwood - Principal Agile Consultant and Professional Scrum Trainer - walks us through the NKD Agility approach to consulting and coaching.
 
-Visit https://www.nkdagility.com for more insights into our agile coaching, agile consulting, and agile training services.
-
-[Watch on YouTube](https://www.youtube.com/watch?v=BJZdyEqHhXc)
+Visit https://www.nkdagility.com for more insights into our agile coaching, agile consulting, and agile training services. 
+ [Watch on Youtube](https://www.youtube.com/watch?v=BJZdyEqHhXc)

@@ -27,11 +27,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube 2k1726k9zvg >}}
-
-# What is the difference between a newbie scrum master and a professional scrum master?
-
-*Unraveling the Scrum Master Role: Insights and Misconceptions*
+{{< youtube 2k1726k9zvg >}} 
+ *Unraveling the Scrum Master Role: Insights and Misconceptions*
 
 Discover the true essence of a Scrum Master's role in our latest video. Uncover the myths and realities of what it takes to lead effectively in a Scrum environment. First 120 characters: Dive into the Scrum Master role - myth vs. reality, effective leadership, and team dynamics.
 
@@ -55,6 +52,5 @@ _Sign up for one of our upcoming professional Scrum classes:_ https://nkdagility
 
 Because you don't just need agility, you need Naked Agility.
 
-#scrum, #agile, #projectmanagement, #productdevelopment, #agilecoach, #agileconsultant, #agiletraining, #scrumtraining, #scrumorg, #scrummaster, #productowner, #kanban, #continousdelivery, #devops, #azuredevops
-
-[Watch on YouTube](https://www.youtube.com/watch?v=2k1726k9zvg)
+#scrum, #agile, #projectmanagement, #productdevelopment, #agilecoach, #agileconsultant, #agiletraining, #scrumtraining, #scrumorg, #scrummaster, #productowner, #kanban, #continousdelivery, #devops, #azuredevops 
+ [Watch on Youtube](https://www.youtube.com/watch?v=2k1726k9zvg)

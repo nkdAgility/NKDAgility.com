@@ -23,11 +23,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube fcOSewXez3I >}}
-
-# How is technology like AI changing the world we work in?
-
-Over the past 150 years, there have been significant periods of rapid change as a new technology is adopted and deployed into our work environments. From electricity, to automobiles, to computers and the internet, it is pretty much a given that a new technology will shape every generation in a disruptive manner.
+{{< youtube fcOSewXez3I >}} 
+ Over the past 150 years, there have been significant periods of rapid change as a new technology is adopted and deployed into our work environments. From electricity, to automobiles, to computers and the internet, it is pretty much a given that a new technology will shape every generation in a disruptive manner.
 
 In this short video, Martin Hinshelwood explains how new technologies, like Artificial Intelligence, are shaping the way we work and why we need to embrace, rather than resist, these new technologies.
 
@@ -42,6 +39,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=fcOSewXez3I)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=fcOSewXez3I)

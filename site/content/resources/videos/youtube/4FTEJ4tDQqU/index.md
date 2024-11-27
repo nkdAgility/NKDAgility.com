@@ -25,11 +25,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube 4FTEJ4tDQqU >}}
-
-# Why did you embrace Agile over traditional project management as a developer?
-
-Agile's Journey: A Developer's Transition from Traditional to Agile Practices - Explore a developer's insightful journey from traditional project management to the empowering world of Agile and DevOps. Discover the transformative power of people over tools in this eye-opening video.
+{{< youtube 4FTEJ4tDQqU >}} 
+ Agile's Journey: A Developer's Transition from Traditional to Agile Practices - Explore a developer's insightful journey from traditional project management to the empowering world of Agile and DevOps. Discover the transformative power of people over tools in this eye-opening video.
 
 *Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
 
@@ -54,6 +51,5 @@ _Sign up for one of our upcoming professional Scrum classes: https://nkdagility.
 Because you don't just need agility, you need Naked Agility.
 
 
-#scrum, #agile, #projectmanagement, #productdevelopment, #agilecoach, #agileconsultant, #agiletraining, #scrumtraining, #scrumorg, #scrummaster, #productowner,
-
-[Watch on YouTube](https://www.youtube.com/watch?v=4FTEJ4tDQqU)
+#scrum, #agile, #projectmanagement, #productdevelopment, #agilecoach, #agileconsultant, #agiletraining, #scrumtraining, #scrumorg, #scrummaster, #productowner, 
+ [Watch on Youtube](https://www.youtube.com/watch?v=4FTEJ4tDQqU)

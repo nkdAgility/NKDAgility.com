@@ -26,11 +26,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube DceVQ5JQaUw >}}
-
-# Most destructive thing a client can do to an agile consultant?
-
-When #agile meets traditional #management and #projectmanagement environments, there is often a clash of culture. In one environment, we are interrogating the data and practices to discover probem areas and actively designing ways to improve and evolve. In the other, we're hiding problems to avoid blame and shifting the focus from collaboration to control.
+{{< youtube DceVQ5JQaUw >}} 
+ When #agile meets traditional #management and #projectmanagement environments, there is often a clash of culture. In one environment, we are interrogating the data and practices to discover probem areas and actively designing ways to improve and evolve. In the other, we're hiding problems to avoid blame and shifting the focus from collaboration to control.
 
 So, people are often the products of the systems and environments they serve, and sometimes clients can trip an #agileconsultant up simply through following best practice in the environment they serve.
 
@@ -48,6 +45,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=DceVQ5JQaUw)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=DceVQ5JQaUw)

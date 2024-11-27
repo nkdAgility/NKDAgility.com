@@ -43,11 +43,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube 4p5xeJZXvcE >}}
-
-#  shorts 7 Virtues of agile. Patience
-
-#shorts #shortsvideo #shortvideo 7 virtues of #agile. Patience. #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #projectmanagement #projectmanager #productmanagement #productmanager #agile #scrum 
+{{< youtube 4p5xeJZXvcE >}} 
+ #shorts #shortsvideo #shortvideo 7 virtues of #agile. Patience. #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #projectmanagement #projectmanager #productmanagement #productmanager #agile #scrum 
 
 Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
 
@@ -58,6 +55,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=4p5xeJZXvcE)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=4p5xeJZXvcE)

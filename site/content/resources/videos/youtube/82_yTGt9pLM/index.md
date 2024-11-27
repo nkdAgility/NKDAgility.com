@@ -24,11 +24,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube 82_yTGt9pLM >}}
-
-# Agile Consulting Services overview
-
-#agileconsulting can appear somewhat nebulous because of the adaptive and responsive nature of consulting engagements. That said, we all like to know what we are buying before making an investment in a service, so in this short video Martin Hinshelwood explains what NKD Agility Agile Consulting services look, sound, and feel like.
+{{< youtube 82_yTGt9pLM >}} 
+ #agileconsulting can appear somewhat nebulous because of the adaptive and responsive nature of consulting engagements. That said, we all like to know what we are buying before making an investment in a service, so in this short video Martin Hinshelwood explains what NKD Agility Agile Consulting services look, sound, and feel like.
 
 About NKD Agility
 
@@ -42,6 +39,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=82_yTGt9pLM)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=82_yTGt9pLM)
