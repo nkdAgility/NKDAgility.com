@@ -2,70 +2,123 @@
 title: Code Reviews for Quality Assurance
 date: 2024-11-27T06:00:25Z
 videoId: r2G-NrSIj2k
-source: youtube
+source: internal
 url: /resources/videos/:slug
 slug: code-reviews-for-quality-assurance
-canonicalUrl: https://www.youtube.com/watch?v=r2G-NrSIj2k
 aliases:
-- /resources/videos/r2G-NrSIj2k
-- /resources/videos/code-reviews-for-quality-assurance
-- /resources/code-reviews-for-quality-assurance
+  - /resources/videos/r2G-NrSIj2k
+  - /resources/videos/code-reviews-for-quality-assurance
+  - /resources/code-reviews-for-quality-assurance
 preview: https://i.ytimg.com/vi/r2G-NrSIj2k/maxresdefault.jpg
 duration: 116
 isShort: false
 tags:
-- Code reviews
-- Software engineering
-- Software development
-- Product Development
-- Project Management
-- Agile
-- Agile product development
-- Agile project management
-- Agile product management
-- Product management
-- Product manager
-- Project manager
-- Product owner
-- Scrum master
+  - Code reviews
+  - Software engineering
+  - Software development
+  - Product Development
+  - Project Management
+  - Agile
+  - Agile product development
+  - Agile project management
+  - Agile product management
+  - Product management
+  - Product manager
+  - Project manager
+  - Product owner
+  - Scrum master
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-
 ---
-{{< youtube r2G-NrSIj2k >}} 
- # Code Reviews Reimagined: Automate Quality and Shift Left | Martin Hinshelwood  
 
-👋 Hi, I’m Martin Hinshelwood from [NKD Agility](https://www.nkdagility.com), and in this video, I challenge traditional thinking about code reviews. While manual code reviews play a role in improving quality, shifting left opens the door to **pre-reviewed code** through automation, enabling teams to deliver value faster and with fewer bottlenecks. Let’s explore how to reimagine code reviews and pull requests for modern software development.
+{{< youtube r2G-NrSIj2k >}}
 
-**📌 Chapters:**  
-1. 00:00 – Introduction: The Role of Code Reviews  
-2. 02:15 – The Shift Left Approach to Pre-Reviewed Code  
-3. 05:30 – Automating Pull Request Validation  
-4. 08:45 – Best Practices for Code Reviews in GitHub and Azure DevOps  
-5. 12:00 – Why Automation Reduces Defects Early  
-6. 15:30 – Balancing Automation and Manual Review Needs  
+# Rethinking Code Reviews: From Manual Checks to Pre-Reviewed Excellence
 
-**🎯 Who This Video is For:**  
-- Developers and engineers looking to optimize their pull request workflows  
-- Teams struggling with slow or inefficient code review processes  
-- Organizations aiming to adopt automated quality checks to reduce defects  
-- Engineering leaders focused on improving development velocity and quality  
+Hi, I’m Martin Hinshelwood, and today I want to discuss a topic that often sparks debate: **code reviews**. Traditionally, code reviews are seen as a way to improve quality and reduce defects by having multiple people review the code before it’s merged. While this has value, as we embrace shift-left practices, there’s a new perspective to consider: **pre-reviewed code**.
 
-**📖 What You’ll Learn:**  
-- Why traditional manual code reviews are only part of the story  
-- The concept of pre-reviewed code and how it improves efficiency  
-- How automated validation can streamline pull requests  
-- Best practices for integrating automated checks in GitHub and Azure DevOps  
-- Strategies for shifting left to catch defects earlier in the process  
+What if your code were effectively "reviewed" before it even reached a pull request? Let’s explore this evolving approach and how it can streamline your development process without sacrificing quality.
 
-**💡 Key Takeaways:**  
-- Code reviews should enhance quality, but automation can do much of the heavy lifting.  
-- Pre-reviewed code allows teams to minimize blockers and deliver value faster.  
-- Automated validation checks in pull request workflows are essential for high-quality code.  
-- Shifting left with automation ensures defects are detected earlier, reducing rework and delays.  
- 
-At [NKD Agility](https://www.nkdagility.com), we help teams implement modern code review and automation practices to improve quality and accelerate delivery. Ready to optimize your development workflow? Visit us today and let’s build the future of your code review processes together.  
+## The Traditional View of Code Reviews
 
-#codereview #softwaredevelopment #softwareengineering #agile #productdevelopment #productmanagement #projectmanagement #projectmanager #project #productmanager #productowner #scrummasters 
- [Watch on Youtube](https://www.youtube.com/watch?v=r2G-NrSIj2k)
+For years, the primary argument for code reviews has been:
+
+- **Improved quality**: Multiple eyes on the code can catch errors or highlight better ways to implement a solution.
+- **Knowledge sharing**: Reviews help team members learn from one another, spreading knowledge about codebases and best practices.
+
+These benefits are real, but traditional code reviews can also introduce bottlenecks, especially if they rely too heavily on manual intervention.
+
+## Shifting Left: Pre-Reviewed Code
+
+As we move toward modern engineering practices, there’s a growing emphasis on **pre-reviewing code**. Here’s what that means:
+
+- **Automated validation**: By the time a developer submits a pull request, the code should already pass a suite of automated checks.
+- **Streamlined pull requests**: With automated checks in place, pull requests become less about catching defects and more about strategic discussions, like architectural decisions or ensuring alignment with business goals.
+
+## Why Pre-Reviewed Code Matters
+
+Shifting toward pre-reviewed code delivers several benefits:
+
+### 1. Faster Delivery
+
+- Automated checks reduce the back-and-forth of manual reviews.
+- Pull requests move through the pipeline more quickly, enabling faster delivery of value.
+
+### 2. Early Defect Detection
+
+- Automated tests and tools catch issues during development, not during the review phase.
+- Problems are addressed immediately, saving time and effort.
+
+### 3. Consistency and Quality
+
+- Automated processes ensure consistent validation across all pull requests.
+- Best practices are enforced without relying solely on individual reviewers.
+
+## Best Practices for Code Reviews in a Shift-Left World
+
+### 1. Automate Everything You Can
+
+- Use tools to catch defects, enforce coding standards, and validate functionality before the pull request is even submitted.
+- Examples of useful tools:
+  - **SonarQube/SonarCloud**: For code quality and vulnerability analysis.
+  - **GitHub Actions or Azure DevOps Pipelines**: For automated build and test processes.
+
+### 2. Make Pull Requests Mandatory
+
+- No code should be merged into the mainline branch without going through a pull request process.
+- Ensure that all pull requests pass automated checks before being eligible for review.
+
+### 3. Focus Manual Reviews on Strategy
+
+- Use code reviews to discuss architecture, business alignment, and other high-level considerations.
+- Minimize the focus on defects or style issues, as these should already be handled by automation.
+
+### 4. Use Validated Checks
+
+- Require that all pull requests pass:
+  - **Unit tests**
+  - **Integration tests**
+  - **Static code analysis**
+  - **Security checks**
+- These checks should run automatically and provide immediate feedback to developers.
+
+## How Naked Agility Can Help
+
+At **Naked Agility**, we’ve helped teams implement automated validation and streamlined code review processes. Here’s how we can support you:
+
+- **Designing automated pipelines**: Build automated checks into your CI/CD pipeline to catch defects early.
+- **Establishing best practices**: Create guidelines for pre-reviewed code and shift-left strategies tailored to your organization.
+- **Tool selection and integration**: Help you choose and implement the right tools for your development environment.
+
+Our goal is to help you deliver high-quality code faster while reducing manual effort and bottlenecks.
+
+## The Future of Code Reviews
+
+As engineering practices evolve, code reviews are becoming less about catching defects and more about fostering collaboration and alignment. By automating validation and shifting left, you can:
+
+- Accelerate delivery without compromising quality.
+- Empower developers with the tools and processes they need to write great code.
+- Focus manual reviews on what really matters—building better products.
+
+[Watch on Youtube](https://www.youtube.com/watch?v=r2G-NrSIj2k)
