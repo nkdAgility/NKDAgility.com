@@ -25,11 +25,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube e7L0NFYUFSw >}}
-
-# Does scrum really allow you to do twice the work in half the time?
-
-Jeff Sutherland, the co-creator of #scrum, titled his book 'How to do twice the work in half the time' and it's been a value proposition for the #scrumframework ever since.
+{{< youtube e7L0NFYUFSw >}} 
+ Jeff Sutherland, the co-creator of #scrum, titled his book 'How to do twice the work in half the time' and it's been a value proposition for the #scrumframework ever since.
 
 If you're a traditional organization using #projectmanagement, it can be a very attractive proposition because your focus lies in delivery - execution of a predetermined plan - and it's natural to assume that #scrum will enable your team to simply do more with less.
 
@@ -49,6 +46,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=e7L0NFYUFSw)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=e7L0NFYUFSw)

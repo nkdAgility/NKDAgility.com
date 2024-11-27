@@ -27,11 +27,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube 9TbjaO1_Nz8 >}}
-
-# Would you recommend the PSPO course to an entrepreneur and why?
-
-The #PSPO or #ProfessionalScrumProductOwner course from #scrumorg has an intense focus on value creation, and how to effectively manage and grow a product in a way that delights customers and disrupts competitors.
+{{< youtube 9TbjaO1_Nz8 >}} 
+ The #PSPO or #ProfessionalScrumProductOwner course from #scrumorg has an intense focus on value creation, and how to effectively manage and grow a product in a way that delights customers and disrupts competitors.
 
 In this short video, Martin Hinshelwood explains how the PSPO course from scrum.org helps focus attention on all the elements an entrepreneur should be focused on when building a product or business.
 
@@ -46,6 +43,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=9TbjaO1_Nz8)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=9TbjaO1_Nz8)

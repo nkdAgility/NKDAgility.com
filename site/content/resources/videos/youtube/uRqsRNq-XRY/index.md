@@ -43,11 +43,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube uRqsRNq-XRY >}}
-
-# 7 signs of the agile apocalypse. Judgement
-
-#shorts #shortvideo #shortsvideo Sometimes, making mistakes isn't a bad thing because it is the path to continuous learning, improved decision-making, and ultimately, great judgement. At other times, it's simply a sign of poor judgement and decision-making, and if there is no commitment to learn and improve, poor judgement can be a sign of impending doom.
+{{< youtube uRqsRNq-XRY >}} 
+ #shorts #shortvideo #shortsvideo Sometimes, making mistakes isn't a bad thing because it is the path to continuous learning, improved decision-making, and ultimately, great judgement. At other times, it's simply a sign of poor judgement and decision-making, and if there is no commitment to learn and improve, poor judgement can be a sign of impending doom.
 
 About NKD Agility
 
@@ -60,6 +57,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=uRqsRNq-XRY)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=uRqsRNq-XRY)

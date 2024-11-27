@@ -43,11 +43,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube xOcL_hqf1SM >}}
-
-# What 5 things must you achieve before you call yourself an agilecoach. Part 3
-
-Martin Hinshelwood walks us through the third thing you must achieve before you can call yourself an #agilecoach 
+{{< youtube xOcL_hqf1SM >}} 
+ Martin Hinshelwood walks us through the third thing you must achieve before you can call yourself an #agilecoach 
 
 About NKD Agility
 
@@ -60,6 +57,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=xOcL_hqf1SM)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=xOcL_hqf1SM)

@@ -46,11 +46,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube Wk0no7MB0AM >}}
-
-# War! 7 Harbingers agile apocalypse. But shorter!
-
-War is one of the seven signs of the Agile-pocolypse! ⚔️
+{{< youtube Wk0no7MB0AM >}} 
+ War is one of the seven signs of the Agile-pocolypse! ⚔️
 
 As an Agile expert, I'm passionate about helping teams to succeed. And that includes helping them to resolve conflict and create a positive and productive work environment.
 
@@ -85,6 +82,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=Wk0no7MB0AM)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=Wk0no7MB0AM)

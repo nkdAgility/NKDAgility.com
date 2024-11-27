@@ -43,11 +43,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube MCkSBdzRK_c >}}
-
-# Making Business Decisions with Evidence! What is evidence-based management?
-
-🚀 Explore the Power of Evidence-Based Management in This Essential Video! 🚀
+{{< youtube MCkSBdzRK_c >}} 
+ 🚀 Explore the Power of Evidence-Based Management in This Essential Video! 🚀
 
 👀 Why You Should Watch:
 
@@ -110,6 +107,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=MCkSBdzRK_c)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=MCkSBdzRK_c)

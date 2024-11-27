@@ -28,11 +28,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube 4kqM1U7y1ZM >}}
-
-# What would you look to achieve with a new scrum team in the first 90 days?
-
-#agileconsulting and #agilecoaching can seem somewhat nebulous at times because many coaches and consultants don't provide clear outcomes that a client can expect.
+{{< youtube 4kqM1U7y1ZM >}} 
+ #agileconsulting and #agilecoaching can seem somewhat nebulous at times because many coaches and consultants don't provide clear outcomes that a client can expect.
 
 In this short video, Martin Hinshelwood talks about what you could expect within 90 days of an #agileconsulting engagement with NKD Agility
 
@@ -47,6 +44,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=4kqM1U7y1ZM)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=4kqM1U7y1ZM)

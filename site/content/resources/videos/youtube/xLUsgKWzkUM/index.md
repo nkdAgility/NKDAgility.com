@@ -43,11 +43,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube xLUsgKWzkUM >}}
-
-# Why is training such a critical element in a productowner journey
-
-#shorts #shortsvideo #shortvideo Many people are assigned the #productowner accountability without any formal #scrumtraining or skills development. We've featured a short excerpt from a video where Martin Hinshelwood talks about the value of training for a product owner, you can watch the full video on  https://youtu.be/2_CowcUpzAA
+{{< youtube xLUsgKWzkUM >}} 
+ #shorts #shortsvideo #shortvideo Many people are assigned the #productowner accountability without any formal #scrumtraining or skills development. We've featured a short excerpt from a video where Martin Hinshelwood talks about the value of training for a product owner, you can watch the full video on  https://youtu.be/2_CowcUpzAA
 
 About NKD Agility
 
@@ -60,6 +57,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=xLUsgKWzkUM)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=xLUsgKWzkUM)

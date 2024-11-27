@@ -30,11 +30,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube 6S9LGyxU2cQ >}}
-
-# Is the APS immersive learning experience the equivalent of having a hands on scrum coach?
-
-Sometimes, you just need to learn how to do #scrum properly. It isn't so much about learning the mechanics of #scrum, it's instead about how to apply #scrum professionally in your #scrumteam.
+{{< youtube 6S9LGyxU2cQ >}} 
+ Sometimes, you just need to learn how to do #scrum properly. It isn't so much about learning the mechanics of #scrum, it's instead about how to apply #scrum professionally in your #scrumteam.
 
 It may feel like you need an #agilecoach to help you, but sometimes, all you need is to attend an #APS or #applyingprofessionalscrum course as a team to achieve a great outcome.
 
@@ -52,6 +49,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=6S9LGyxU2cQ)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=6S9LGyxU2cQ)

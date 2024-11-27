@@ -28,11 +28,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube uCFIW_lEFuc >}}
-
-# Sloth! 7 deadly sins of Agile.
-
-Navigating the Sin of Sloth in Agile
+{{< youtube uCFIW_lEFuc >}} 
+ Navigating the Sin of Sloth in Agile
 
 Sloth, one of the seven deadly sins of Agile, can manifest in various ways across teams, organisations, and leadership. In this video, Martin 🎥 delves deep into the pitfalls of not genuinely committing to Agile principles, even when we claim to be following them. 
 
@@ -63,6 +60,5 @@ Key Takeaways:
 
 For those struggling to implement Agile principles or align their actions with its values, NKDAgility is here to help! Dive into the video to learn more and avoid the pitfalls of Sloth in your Agile journey. 🚀
 
-#agile #sloth #agileprinciples #nkdagility #scrum #teams #organisations #leadership #transparency
-
-[Watch on YouTube](https://www.youtube.com/watch?v=uCFIW_lEFuc)
+#agile #sloth #agileprinciples #nkdagility #scrum #teams #organisations #leadership #transparency 
+ [Watch on Youtube](https://www.youtube.com/watch?v=uCFIW_lEFuc)

@@ -23,11 +23,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube E2aYkadJJok >}}
-
-# Kanban Boards for Campaign Success - The Ultimate Guide to Visualizing Your Workflow
-
-Ready to supercharge your campaigns with Kanban? This video dives into the essential role Kanban boards play in visualizing your workflow and maximizing campaign effectiveness.
+{{< youtube E2aYkadJJok >}} 
+ Ready to supercharge your campaigns with Kanban? This video dives into the essential role Kanban boards play in visualizing your workflow and maximizing campaign effectiveness.
 
 (00:00:00 - 00:08:16): Why Kanban boards are crucial for campaign visualization.
 (00:08:18 - 00:27:14): How to map your existing workflow onto a Kanban board:
@@ -42,6 +39,5 @@ Start by evaluating the columns you currently have on your board...
 
 Discover the secrets of using Kanban to optimize your campaigns. This video will guide you through creating and customizing a Kanban board that aligns with your specific processes, leading to improved visibility, collaboration, and results.
 
-Visit https://www.nkdagility.com for more information on Kanban courses and Kanban coaching / consulting to help you optimize your Kanban adoption.
-
-[Watch on YouTube](https://www.youtube.com/watch?v=E2aYkadJJok)
+Visit https://www.nkdagility.com for more information on Kanban courses and Kanban coaching / consulting to help you optimize your Kanban adoption. 
+ [Watch on Youtube](https://www.youtube.com/watch?v=E2aYkadJJok)

@@ -46,11 +46,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube k4F9DSE99Ok >}}
-
-# Famine! 7 Harbingers agile apocalypse. But shorter!
-
-One of the 7 signs of the #agile apocalypse is Famine. 
+{{< youtube k4F9DSE99Ok >}} 
+ One of the 7 signs of the #agile apocalypse is Famine. 
 
 Famine happens when you are starved of feedback, reviews, and information that can help the team create products that truly delight customers. For some teams, that famine may even extend to your #productowner failing to turn up for reviews and meetings.
 
@@ -67,6 +64,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=k4F9DSE99Ok)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=k4F9DSE99Ok)

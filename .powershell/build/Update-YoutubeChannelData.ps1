@@ -44,7 +44,7 @@ $outputDir = "site\content\resources\videos\youtube"
 $dataDirectory = ".\site\data"
 $refreshData = $false
 $captionsDownloadLimit = 0
-$videoUpdateLimit = 10
+$videoUpdateLimit = 50
 $captionsManafestUpdateLimit = 10
 $maxYoutubeSearchResults = 1000
 

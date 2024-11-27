@@ -26,11 +26,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube TabMnJpXFVA >}}
-
-# Why are you going the immersive Scrum training route?
-
-scrum.org have pioneered a new format of #scrumtraining called #immersive learning, especially for #scrumcertification courses like the #professionalscrummaster and #professionalscrumproductowner courses.
+{{< youtube TabMnJpXFVA >}} 
+ scrum.org have pioneered a new format of #scrumtraining called #immersive learning, especially for #scrumcertification courses like the #professionalscrummaster and #professionalscrumproductowner courses.
 
 It's a shift from the traditional 2-day course format to 4-day and 8-day course formats that include assignments, feedback sessions, and opportunities for people to ask questions about work they are implementing real-time.
 
@@ -49,6 +46,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=TabMnJpXFVA)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=TabMnJpXFVA)

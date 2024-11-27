@@ -29,11 +29,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube cb6JpfomYRU >}}
-
-# How much of a competitive edge will the immersive PSM course deliver to delegates?
-
-The immersive learning experiences were developed to help raise the standard of a #scrummaster entering the industry, and to provide additional value for organizations that wanted to really upskill their teams.
+{{< youtube cb6JpfomYRU >}} 
+ The immersive learning experiences were developed to help raise the standard of a #scrummaster entering the industry, and to provide additional value for organizations that wanted to really upskill their teams.
 
 In this short video, Kanban Dan talks about the competitive advantage you can achieve through the immersive learning 7-week Professional Scrum Master course when compared to a 2-day workshop.
 
@@ -49,6 +46,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=cb6JpfomYRU)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=cb6JpfomYRU)

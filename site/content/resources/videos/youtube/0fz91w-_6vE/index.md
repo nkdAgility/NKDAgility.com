@@ -25,11 +25,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube 0fz91w-_6vE >}}
-
-# What is your primary role in a DevOps consulting gig?
-
-As a #devops #consultant, Martin Hinshelwood has worked in multiple geographies, across multiple industry applications, and with a wide variety of clients.
+{{< youtube 0fz91w-_6vE >}} 
+ As a #devops #consultant, Martin Hinshelwood has worked in multiple geographies, across multiple industry applications, and with a wide variety of clients.
 
 Each of those unique environments requires their own special agenda and set of capabilities, but there are common problems shared by all companies in all #devops applications.
 
@@ -47,6 +44,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=0fz91w-_6vE)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=0fz91w-_6vE)

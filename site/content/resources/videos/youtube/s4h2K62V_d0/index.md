@@ -30,11 +30,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube s4h2K62V_d0 >}}
-
-# Shifting Left. Quality from the Start
-
-# Shift Left: Building Quality In From the Start | Martin Hinshelwood  
+{{< youtube s4h2K62V_d0 >}} 
+ # Shift Left: Building Quality In From the Start | Martin Hinshelwood  
 
 👋 Hi, I’m Martin Hinshelwood from [NKD Agility](https://www.nkdagility.com), and in this video, I explore the transformative concept of **shifting left** in modern software engineering. It’s about integrating quality, security, and testing into the earliest stages of development, empowering teams to build better products and avoid the pitfalls of technical debt. From test-driven development to pair programming, I’ll share actionable insights and real-world examples that demonstrate why shifting left is a game-changer.
 
@@ -73,6 +70,5 @@ source: youtube
 
 Are you ready to embrace modern software engineering practices and unlock your team’s potential? At [NKD Agility](https://www.nkdagility.com), we specialize in helping organizations implement effective strategies tailored to their context. Let’s shift left and build excellence together!  
 
-#agile #scrum #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #productdevelopment #projectmanagement #projectmanager #productmanager #developer
-
-[Watch on YouTube](https://www.youtube.com/watch?v=s4h2K62V_d0)
+#agile #scrum #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #productdevelopment #projectmanagement #projectmanager #productmanager #developer 
+ [Watch on Youtube](https://www.youtube.com/watch?v=s4h2K62V_d0)

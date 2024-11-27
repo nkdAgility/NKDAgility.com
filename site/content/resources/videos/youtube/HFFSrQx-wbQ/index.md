@@ -46,11 +46,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube HFFSrQx-wbQ >}}
-
-# Plague - 7 Harbingers agile apocalypse. But shorter!
-
-There's a lot of criticism for #projectmanagement in the #agile world, especially by zealots who read the #agilemanifesto but have very little experience in helping teams adopt and implement #agile effectively.
+{{< youtube HFFSrQx-wbQ >}} 
+ There's a lot of criticism for #projectmanagement in the #agile world, especially by zealots who read the #agilemanifesto but have very little experience in helping teams adopt and implement #agile effectively.
 
 Full video: https://youtu.be/UeisJt8U2_0
 
@@ -69,6 +66,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=HFFSrQx-wbQ)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=HFFSrQx-wbQ)

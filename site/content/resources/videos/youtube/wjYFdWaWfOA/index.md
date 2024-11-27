@@ -30,11 +30,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube wjYFdWaWfOA >}}
-
-# What is a scrum master? Why are they essential?
-
-*Unlocking the Secrets of the Scrum Master: A Guide to Agile Leadership*
+{{< youtube wjYFdWaWfOA >}} 
+ *Unlocking the Secrets of the Scrum Master: A Guide to Agile Leadership*
 
 Unlock the full potential of your team with the insights from a Scrum Master expert. Learn the crucial role they play in guiding teams towards high efficiency and value delivery in Agile environments.
 
@@ -59,6 +56,5 @@ _Sign up for one of our upcoming professional Scrum classes: https://nkdagility.
 
 Because you don't just need agility, you need Naked Agility.
 
-#scrum #projectmanagement #agilecoach #agileconsultant #scrumtraining #scrumorg #scrummaster #productowner #devops
-
-[Watch on YouTube](https://www.youtube.com/watch?v=wjYFdWaWfOA)
+#scrum #projectmanagement #agilecoach #agileconsultant #scrumtraining #scrumorg #scrummaster #productowner #devops 
+ [Watch on Youtube](https://www.youtube.com/watch?v=wjYFdWaWfOA)

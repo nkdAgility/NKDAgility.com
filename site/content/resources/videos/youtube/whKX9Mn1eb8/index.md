@@ -30,4 +30,6 @@ sitemap:
   priority: 0.4
 
 ---
-
+{{< youtube whKX9Mn1eb8 >}} 
+ The superpower of quality visit https://www.nkdagility.com #agile #agileproductdevelopment #agileproductmanagement #agileprojectmanagement #projectmanager #projectmanagement #productdevelopment #productmanagement #productowner #scrummaster #productmanager #scrum 
+ [Watch on Youtube](https://www.youtube.com/watch?v=whKX9Mn1eb8)

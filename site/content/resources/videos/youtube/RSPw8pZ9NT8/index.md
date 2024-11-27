@@ -29,11 +29,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube RSPw8pZ9NT8 >}}
-
-# Can you talk about the Kanban workshop and why it's a great option for organizations
-
-#scrum is a great solution for teams wanting to acquire an #agileframework to help navigate complexity in #productdevelopment. That said, some of the events and artefacts don't resonate with every team, and so #kanban has become an increasingly popular option for #productdevelopment teams that want to navigate complexity, grow agile capabilities, but don't want a #scrumframework in their environment.
+{{< youtube RSPw8pZ9NT8 >}} 
+ #scrum is a great solution for teams wanting to acquire an #agileframework to help navigate complexity in #productdevelopment. That said, some of the events and artefacts don't resonate with every team, and so #kanban has become an increasingly popular option for #productdevelopment teams that want to navigate complexity, grow agile capabilities, but don't want a #scrumframework in their environment.
 
 In this short video, Martin Hinshelwood talks about the #kanban workshops that NKD Agility run, and how they can help your team adopt #agile or implement #agile more effectively.
 
@@ -49,6 +46,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=RSPw8pZ9NT8)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=RSPw8pZ9NT8)

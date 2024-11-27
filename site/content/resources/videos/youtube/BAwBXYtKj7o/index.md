@@ -31,11 +31,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube BAwBXYtKj7o >}}
-
-# The Power of Automated Testing
-
-# The Power of Automated Testing in Modern Software Engineering | Martin Hinshelwood  
+{{< youtube BAwBXYtKj7o >}} 
+ # The Power of Automated Testing in Modern Software Engineering | Martin Hinshelwood  
 
 👋 Hi, I’m Martin Hinshelwood from [NKD Agility](https://www.nkdagility.com), and in this video, I dive into the critical role automated testing plays in modern software engineering. From reducing human error to speeding up feedback cycles, automated testing is a game-changer for delivering high-quality software that drives profit and value for your organization. Let’s explore how to automate smarter, not harder, and build a foundation of engineering excellence.
 
@@ -73,6 +70,5 @@ source: youtube
 
 At [NKD Agility](https://www.nkdagility.com), we help teams implement modern engineering practices, build robust testing strategies, and achieve engineering excellence. Ready to reduce errors and deliver faster? Visit us today to transform your software delivery pipeline. Let’s automate the future together!  
 
-#agile #agileproductdevelopment #agileprojectmanagement #agileproductmanagement #productdevelopment #productmanager #productowner #projectmanager #scrummasters
-
-[Watch on YouTube](https://www.youtube.com/watch?v=BAwBXYtKj7o)
+#agile #agileproductdevelopment #agileprojectmanagement #agileproductmanagement #productdevelopment #productmanager #productowner #projectmanager #scrummasters 
+ [Watch on Youtube](https://www.youtube.com/watch?v=BAwBXYtKj7o)

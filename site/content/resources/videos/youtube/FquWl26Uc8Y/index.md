@@ -29,4 +29,6 @@ sitemap:
   priority: 0.4
 
 ---
-
+{{< youtube FquWl26Uc8Y >}} 
+ Bad code isn't #technicaldebt, it's incompetence. https://www.nkdagility.com 
+ [Watch on Youtube](https://www.youtube.com/watch?v=FquWl26Uc8Y)

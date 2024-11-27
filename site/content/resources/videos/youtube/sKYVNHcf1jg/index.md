@@ -26,11 +26,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube sKYVNHcf1jg >}}
-
-# What was your worst day as an agile consultant?
-
-#agileconsulting can be incredibly rewarding and fulfilling.
+{{< youtube sKYVNHcf1jg >}} 
+ #agileconsulting can be incredibly rewarding and fulfilling.
 
 You get to work with amazing clients and for the most part, you're the dreamweaver that empowers the team to successfully adopt #agile and rock with #productdevelopment.
 
@@ -50,6 +47,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=sKYVNHcf1jg)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=sKYVNHcf1jg)

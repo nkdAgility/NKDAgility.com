@@ -20,11 +20,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube bvCU_N6iY_4 >}}
-
-# Business Agility Raw! - Ask me Anything Lean Coffee with Martin Hinshelwood [mktng]
-
-Join me monthy one the 4th Wednesday for Business Agility Raw. Come and discuss what matters most to you today with our lean coffee format. Check out the se3ssion Mural for this month's questions and add your own to the mix!
+{{< youtube bvCU_N6iY_4 >}} 
+ Join me monthy one the 4th Wednesday for Business Agility Raw. Come and discuss what matters most to you today with our lean coffee format. Check out the se3ssion Mural for this month's questions and add your own to the mix!
 
 The next "Business Agility Raw! - Ask me Anything Lean Coffee with Martin Hinshelwood" is on the 27th of August 2022!
 
@@ -36,6 +33,5 @@ Topics from the last session:
 ♦ When do you split a Scrum team? When do you merge Scrum teams?
 ♦ Any advice on how to write good PBIs?
 
-RSVP, Join the Community,  and add your questions: https://community.nkdagility.com/events/business-agility-raw-ask-me-anything-lean-coffee-with-martin-hinshelwood?instance_index=20220727T170000Z
-
-[Watch on YouTube](https://www.youtube.com/watch?v=bvCU_N6iY_4)
+RSVP, Join the Community,  and add your questions: https://community.nkdagility.com/events/business-agility-raw-ask-me-anything-lean-coffee-with-martin-hinshelwood?instance_index=20220727T170000Z 
+ [Watch on Youtube](https://www.youtube.com/watch?v=bvCU_N6iY_4)

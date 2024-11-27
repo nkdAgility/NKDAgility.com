@@ -43,11 +43,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube APZNdMokZVo >}}
-
-# What is a definition of done? Why is it so important?
-
-Unlocking the Power of Definition of Done in Scrum: A Deep Dive
+{{< youtube APZNdMokZVo >}} 
+ Unlocking the Power of Definition of Done in Scrum: A Deep Dive
 
 Dive deep into the essence of the 'Definition of Done' in Scrum and its pivotal role in Agile frameworks. Discover how it shapes product quality and risk mitigation in project management. 
 
@@ -74,6 +71,5 @@ Sign up for one of our upcoming professional Scrum classes:_ https://nkdagility.
 
 Because you don't just need agility, you need Naked Agility.
 
-#scrum, #agile, #projectmanagement, #productdevelopment, #agilecoach, #agileconsultant, #agiletraining, #scrumtraining, #scrumorg, #scrummaster, #productowner, #kanban, #continuousdelivery, #devops, #azuredevops
-
-[Watch on YouTube](https://www.youtube.com/watch?v=APZNdMokZVo)
+#scrum, #agile, #projectmanagement, #productdevelopment, #agilecoach, #agileconsultant, #agiletraining, #scrumtraining, #scrumorg, #scrummaster, #productowner, #kanban, #continuousdelivery, #devops, #azuredevops 
+ [Watch on Youtube](https://www.youtube.com/watch?v=APZNdMokZVo)

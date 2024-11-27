@@ -20,12 +20,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube ZPRvjlp9i0A >}}
+{{< youtube ZPRvjlp9i0A >}} 
+ Bring your questions on any topic from DevOps to Agility and Martin will do his best to answer them. Martin is a Professional Scrum Trainer with Scrum.org and a Microsoft MVP in Azure DevOps. Ask him anything!
 
-# 14th April 2020 - Office Hours \ Ask me Anything
-
-Bring your questions on any topic from DevOps to Agility and Martin will do his best to answer them. Martin is a Professional Scrum Trainer with Scrum.org and a Microsoft MVP in Azure DevOps. Ask him anything!
-
-If you have a sensitive question that you want answered but don’t want to ask publicly do so on https://nkdagility.net/ask
-
-[Watch on YouTube](https://www.youtube.com/watch?v=ZPRvjlp9i0A)
+If you have a sensitive question that you want answered but don’t want to ask publicly do so on https://nkdagility.net/ask 
+ [Watch on Youtube](https://www.youtube.com/watch?v=ZPRvjlp9i0A)

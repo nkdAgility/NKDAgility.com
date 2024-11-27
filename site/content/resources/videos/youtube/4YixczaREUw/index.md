@@ -20,11 +20,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube 4YixczaREUw >}}
-
-# Many folks say Scrum is like communism; it does not work! Are they right?
-
-This is a phrase I often hear from folks who have been unable to adapt their systems of work to incorporate the core philosophies, theories, and practices of Scrum. They sit and look at the signals coming from Scrum that things are broken and do nothing but say:
+{{< youtube 4YixczaREUw >}} 
+ This is a phrase I often hear from folks who have been unable to adapt their systems of work to incorporate the core philosophies, theories, and practices of Scrum. They sit and look at the signals coming from Scrum that things are broken and do nothing but say:
 
 “Scrum is like communism; it does not work!”
 
@@ -48,6 +45,5 @@ Sign up for one of our upcoming professional Scrum classes: https://nkdagility.c
 
 #Scrum, #Agile, #Sprint, #ScrumTeam, #continuousimprovement 
 
-Music from the Red Alert - The Music Album: the best and the most well-known song, Hell March.
-
-[Watch on YouTube](https://www.youtube.com/watch?v=4YixczaREUw)
+Music from the Red Alert - The Music Album: the best and the most well-known song, Hell March. 
+ [Watch on Youtube](https://www.youtube.com/watch?v=4YixczaREUw)

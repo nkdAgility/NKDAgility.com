@@ -25,11 +25,8 @@ sitemap:
 source: youtube
 
 ---
-{{< youtube icX4XpolVLE >}}
-
-# My Journey into DevOps! From Web Developer to Author, Speaker, & Thought Leader.
-
-🚀 Transform Your Workflow with DevOps: A Comprehensive Guide 🚀
+{{< youtube icX4XpolVLE >}} 
+ 🚀 Transform Your Workflow with DevOps: A Comprehensive Guide 🚀
 
 🎯 Why Watch This Video?
 
@@ -72,6 +69,5 @@ Share this video with peers and colleagues to spread the knowledge and benefits 
 
 #DevOpsJourney #ContinuousDelivery #SoftwareDevelopment #OperationalEfficiency #techinnovation 
 
-Talks us through your journey with DevOps and how NKD Agility intends to help DevOps teams.
-
-[Watch on YouTube](https://www.youtube.com/watch?v=icX4XpolVLE)
+Talks us through your journey with DevOps and how NKD Agility intends to help DevOps teams. 
+ [Watch on Youtube](https://www.youtube.com/watch?v=icX4XpolVLE)
