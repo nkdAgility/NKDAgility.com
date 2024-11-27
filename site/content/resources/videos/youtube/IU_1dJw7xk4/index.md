@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/IU_1dJw7xk4
 - /resources/how-long-would-it-take-to-transition-from-traditional-projectmanagement-to-kanban-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Kanban
 - Kanban approach

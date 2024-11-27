@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/eLkJ_YEhMB0
 - /resources/5-ghosts-of-agile-past-3-questions
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Agile
 - Scrum

@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/Na9jm-enlD0
 - /resources/where-is-consensus-valuable-and-where-does-it-kill-great-product-development-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Collaboration
 - Consensus

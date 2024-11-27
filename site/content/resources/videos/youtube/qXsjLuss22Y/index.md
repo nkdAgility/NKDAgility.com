@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/qXsjLuss22Y
 - /resources/what-is-a-product-goal-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Sprint Backlog
 - Product Backlog

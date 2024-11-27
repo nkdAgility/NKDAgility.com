@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/sAKCLQ38GzA
 - /resources/does-'starting-with-why'-simon-sinek-really-matter-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Sprint Backlog
 - Product Backlog

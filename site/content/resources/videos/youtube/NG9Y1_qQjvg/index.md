@@ -23,8 +23,8 @@ tags:
 - Install
 - Release Management Server
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---

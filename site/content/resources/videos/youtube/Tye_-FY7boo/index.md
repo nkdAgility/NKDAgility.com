@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/Tye_-FY7boo
 - /resources/5-things-you-would-teach-a-productowner-apprentice-part-2
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Agile
 - Scrum

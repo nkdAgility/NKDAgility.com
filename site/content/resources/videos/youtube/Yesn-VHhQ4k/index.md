@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/Yesn-VHhQ4k
 - /resources/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Agile
 - Agile Manifesto

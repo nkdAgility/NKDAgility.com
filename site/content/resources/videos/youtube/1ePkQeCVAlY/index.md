@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/1ePkQeCVAlY
 - /resources/what-is-the-difference-between-resource-efficiency-and-flow-efficiency-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Resource Efficiency
 - Flow Efficiency

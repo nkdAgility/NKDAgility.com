@@ -14,8 +14,8 @@ aliases:
 - /resources/videos/agile-training-versus-agile-consulting
 - /resources/videos/GS2If-vQ9ng
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Agile
 - Agile training

@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review
 - /resources/videos/Juonckoiyx0
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Sprint Review
 - Sprint

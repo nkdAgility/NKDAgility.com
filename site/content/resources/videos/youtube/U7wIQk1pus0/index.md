@@ -22,8 +22,8 @@ tags:
 - Install & Configure 101
 - Install & Configure
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---

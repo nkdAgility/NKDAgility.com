@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/j-mPdGP7BiU
 - /resources/ppdv-learning-outcomes
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - PPDV
 - PPDV course

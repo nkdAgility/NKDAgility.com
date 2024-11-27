@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/U18nA0YFgu0
 - /resources/wrath!-7-deadly-sins-of-agile
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - '#scrum'
 - '#agile'

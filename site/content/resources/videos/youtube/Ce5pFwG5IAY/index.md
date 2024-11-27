@@ -14,8 +14,8 @@ aliases:
 - /resources/videos/5-tools-that-scrum-masters-love-part-1
 - /resources/videos/Ce5pFwG5IAY
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Scrum
 - Scrum Master

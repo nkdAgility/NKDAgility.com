@@ -17,8 +17,8 @@ tags:
 - AzureDevOps
 - Azure DevOps Migration Tools
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---

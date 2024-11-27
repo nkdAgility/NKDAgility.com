@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/Ir8QiX7eAHU
 - /resources/wip-limits!-what-critical-factors-affect-them-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Kanban training
 - Kanban

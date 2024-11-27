@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/XZip9ZcLyDs
 - /resources/why-is-becoming-a-scrum-master-a-great-career-option-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Becoming a scrum master
 - scrum master

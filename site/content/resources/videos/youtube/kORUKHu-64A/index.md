@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/kORUKHu-64A
 - /resources/scrum-is-like-communism-it-doesn't-work-myth-5-balance-between-flexibility-&-compliance
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Sprint Backlog
 - Product Backlog

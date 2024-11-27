@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/BCWiKTm8hjg
 - /resources/7-virtues-of-agile-charity
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Agile
 - Scrum

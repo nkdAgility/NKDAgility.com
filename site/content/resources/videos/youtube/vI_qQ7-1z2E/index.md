@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/vI_qQ7-1z2E
 - /resources/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Scrum Training
 - Professional Scrum Master Advanced

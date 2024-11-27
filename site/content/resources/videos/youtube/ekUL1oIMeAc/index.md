@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/ekUL1oIMeAc
 - /resources/worst-contribution-from-a-product-owner-that-you-know-of-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Product Owner
 - Product Manager

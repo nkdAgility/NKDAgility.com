@@ -14,8 +14,8 @@ aliases:
 - /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-2
 - /resources/videos/mqgffRQi6bY
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Sprint Backlog
 - Product Backlog

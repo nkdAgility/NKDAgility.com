@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/JVZzJZ5q0Hw
 - /resources/what-is-the-most-common-mistake-in-sprint-planning-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Sprint planning
 - Planning

@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/grJFd9-R5Pw
 - /resources/how-does-the-aps-course-help-people-apply-scrum-effectively-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Applying Professional Scrum
 - APS

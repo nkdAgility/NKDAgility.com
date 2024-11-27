@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/nTxn_izPBFQ
 - /resources/how-good-is-the-pspo-a-course-in-helping-determine-product-direction-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Agile
 - Agile Leadership

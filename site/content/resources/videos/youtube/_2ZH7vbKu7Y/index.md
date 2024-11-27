@@ -17,8 +17,8 @@ aliases:
 - /resources/videos/_2ZH7vbKu7Y
 - /resources/3-key-elements-for-an-agile-leader-to-consider-if-the-team-are-incompetent
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Agile
 - Scrum

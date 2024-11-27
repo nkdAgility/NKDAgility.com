@@ -25,8 +25,8 @@ tags:
 - agile scrum training
 - agile scrum project management
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---

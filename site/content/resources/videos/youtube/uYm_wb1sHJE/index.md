@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/uYm_wb1sHJE
 - /resources/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Sprint Review workshops
 - Sprint Review

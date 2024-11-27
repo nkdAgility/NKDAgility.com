@@ -4,12 +4,6 @@
 Write-Host "Running v3"
 
 
-# Create the output directory if it doesn't exist
-if (-not (Test-Path $outputDir)) {
-    New-Item -Path $outputDir -ItemType Directory
-}
-
-
 # Function to get captions for a video
 function Get-YouTubeCaptions {
     param (
@@ -52,13 +46,23 @@ $refreshData = $false
 $captionsDownloadLimit = 0
 $videoUpdateLimit = 10
 $captionsManafestUpdateLimit = 10
+$maxYoutubeSearchResults = 1000
+
+# Create the output directory if it doesn't exist
+if (-not (Test-Path $outputDir)) {
+    New-Item -Path $outputDir -ItemType Directory
+}
+
 
 # 0. Get Youtube Video List
 $dataFilePath = Join-Path $dataDirectory "youtube.json"
-if (Test-FileAge -filePath $dataFilePath -hours 3) {
-    $allVideosData = Get-YoutubePublicChannelVideos -channelId $channelId -apiKey $env:YOUTUBE_API_KEY  # Call this to fetch video list and save to youtube.json
+if (Test-FileAge -filePath $dataFilePath -hours 1) {
+    $allVideosData = Get-YoutubePublicChannelVideos -channelId $channelId -maxResults $maxYoutubeSearchResults -apiKey $env:YOUTUBE_API_KEY  # Call this to fetch video list and save to youtube.json
     # Save all video data to a single youtube.json file
-    
+    if ($allVideosData -eq $null) {
+        Write-Host "ERROR No videos found. Exiting." -ForegroundColor Red
+        exit
+    }
     $allVideosData | ConvertTo-Json -Depth 10 | Set-Content -Path $dataFilePath
     Write-Host "$dataFilePath  saved with $($allVideosData.Count) videos."  -ForegroundColor Green
 }
@@ -86,7 +90,7 @@ foreach ($video in $allVideosData) {
     if ($refreshData -or -not (Test-Path $jsonFilePathVideos)) {
         if ($videoUpdateCount -lt $videoUpdateLimit) {
             # Call the function to update the data for a single video
-            $videoData = Get-YoutubeVideoData -videoId $videoId
+            $videoData = Get-YoutubeVideoData -videoId $videoId -apiKey $env:YOUTUBE_API_KEY
             # Save updated video data to data.json
             if ($videoData) {
                 $videoData | ConvertTo-Json -Depth 10 | Set-Content -Path $jsonFilePathVideos
@@ -104,7 +108,7 @@ foreach ($video in $allVideosData) {
     if ($refreshData -or -not (Test-Path $jsonFilePathCaptions)) {
         if ($captionsManafestUpdateCount -lt $captionsManafestUpdateLimit) {
             # Call the function to update the data for a single video
-            $captionListData = Get-YouTubeCaptionsData -videoId $videoId
+            $captionListData = Get-YouTubeCaptionsData -videoId $videoId -apiKey $env:YOUTUBE_API_KEY
             # Save updated video data to data.json
             if ($captionListData) {
                 $captionListData | ConvertTo-Json -Depth 10 | Set-Content -Path $jsonFilePathCaptions

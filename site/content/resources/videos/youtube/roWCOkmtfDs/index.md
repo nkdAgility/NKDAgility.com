@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/roWCOkmtfDs
 - /resources/what-is-product-validation-and-why-does-it-matter
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Product validation
 - Agile

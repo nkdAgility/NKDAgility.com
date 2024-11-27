@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/BDFrmCV_c68
 - /resources/pride!-7-deadly-sins-of-agile
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Sprint Backlog
 - Product Backlog

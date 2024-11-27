@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/hB8oQPpderI
 - /resources/one-limitation-of-a-book-versus-a-scrum-course-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Agile
 - Scrum

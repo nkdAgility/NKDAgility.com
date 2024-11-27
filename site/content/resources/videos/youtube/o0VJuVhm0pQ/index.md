@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/o0VJuVhm0pQ
 - /resources/in-high-competition-markets,-how-does-scrum-product-development-help-acquire-and-retain-customers-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Scrum
 - Product Development

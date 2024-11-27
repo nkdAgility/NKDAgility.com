@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/A0Y-zySHXyc
 - /resources/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-word
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Developers
 - Product Owner

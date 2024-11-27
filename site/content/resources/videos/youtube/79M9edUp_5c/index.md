@@ -24,8 +24,8 @@ tags:
 - agile project management software
 - agile project management tool
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---

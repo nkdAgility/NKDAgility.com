@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/VOUmfpB-d88
 - /resources/nkd-agility-training-approach
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Agile Training
 - Scrum Training

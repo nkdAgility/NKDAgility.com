@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/GJFklM1U5Pc
 - /resources/in-your-experience,-what-is-the-current-state-of-scrum-master-competence-in-the-product-development
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Scrum
 - Scrum Training

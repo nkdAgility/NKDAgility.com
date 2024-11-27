@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/T-K7HC-ZGjM
 - /resources/what-is-a-sprint-backlog-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Sprint Backlog
 - Product Backlog

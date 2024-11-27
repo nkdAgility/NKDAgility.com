@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/oBnvr7vOkg8
 - /resources/how-does-someone-become-an-agile-consultant-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Agile consultant
 - Agile Consulting

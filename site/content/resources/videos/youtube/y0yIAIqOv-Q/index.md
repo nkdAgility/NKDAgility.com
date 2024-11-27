@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/y0yIAIqOv-Q
 - /resources/when-should-an-organization-consider-a-professional-agile-consultant-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Agile
 - Agile Consulting

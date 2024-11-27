@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/sT44RQgin5A
 - /resources/the-four-key-value-areas-of-ebm
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Evidence-based Management
 - EBM

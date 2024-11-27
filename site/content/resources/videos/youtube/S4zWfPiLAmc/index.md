@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/S4zWfPiLAmc
 - /resources/3-best-ways-to-wreck-your-kanban-adoption-using-vanity-metrics-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Kanban
 - Kaban metrics

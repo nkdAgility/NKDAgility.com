@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/wa4A_KQ-YGg
 - /resources/what-are-immersive-training-scrum-courses-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Scrum
 - Scrum Training

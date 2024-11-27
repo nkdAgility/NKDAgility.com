@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/uGIhajIO3pQ
 - /resources/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags: Agile Scotland 2023
 resourceTypes:
 - video

@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/ItnQxg3Q4Fc
 - /resources/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Agile
 - Agile Adoption

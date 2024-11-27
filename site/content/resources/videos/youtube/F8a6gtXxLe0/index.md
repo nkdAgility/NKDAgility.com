@@ -21,8 +21,8 @@ tags:
 - Professional Scrum Foundations
 - Scrum.org
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---

@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/Oj0ybFF12Rw
 - /resources/quotes-don't-scale-scrum!-pragmatic-or-defeatist-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Agile
 - Scaling Agile

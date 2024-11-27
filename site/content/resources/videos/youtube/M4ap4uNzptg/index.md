@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/M4ap4uNzptg
 - /resources/agile-is-failing-organizations!
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Agile
 - Scrum

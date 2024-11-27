@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/jmU91ClcSqA
 - /resources/what-is-project-management-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Project Management
 - What is project management

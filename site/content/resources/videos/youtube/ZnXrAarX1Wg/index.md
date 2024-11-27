@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/ZnXrAarX1Wg
 - /resources/no-go-zone-for-agile-consultants-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Agile consultant
 - Agile consulting

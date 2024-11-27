@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/L6opxb0FYcU
 - /resources/worst-agile-advice-heard-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Agile Dogma
 - Worst agile advice

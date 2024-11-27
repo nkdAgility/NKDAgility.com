@@ -14,8 +14,8 @@ aliases:
 - /resources/videos/why-have-you-decided-to-go-all-in-on-immersive-learning-experiences
 - /resources/videos/qEaiA_m8Vyg
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Immersive learning experience
 - Scrum Training

@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/-pW6YDYEO20
 - /resources/worst-trait-in-unskilled-scrum-masters-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Scrum Master
 - ScrumMaster

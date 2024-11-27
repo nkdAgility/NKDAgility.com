@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/m4KNGw5p4Go
 - /resources/what-you-will-be-able-to-do-at-the-end-of-the-ppdv-course
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - PPDV
 - PPDV course
