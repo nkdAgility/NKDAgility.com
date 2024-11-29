@@ -1,7 +1,7 @@
 ---
 title: 'DevOps: Elevating Your Organization’s Performance Through Bespoke Solutions'
 description: Explore tailored DevOps consulting services in this video, uncovering how organisations can optimise practices for better software delivery and quality.
-date: 2024-11-15
+date: 2024-08-16T07:18:10Z
 videoId: sXmXT_MDXTo
 source: internal
 url: /resources/videos/:slug

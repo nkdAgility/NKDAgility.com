@@ -1,7 +1,7 @@
 ---
 title: How does a Scrum Master or Agile coach motivate a Scrum Team?
 description: "Unlock the secrets to motivating Scrum teams! Join us as we explore effective techniques for Scrum Masters and Agile Coaches to boost engagement and productivity. \U0001F680✨"
-date: 2023-12-14
+date: 2023-09-11T07:00:17Z
 videoId: hFjoIf3KPeI
 source: internal
 url: /resources/videos/:slug

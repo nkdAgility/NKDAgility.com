@@ -1,7 +1,7 @@
 ---
 title: Best Scrum advice you ever received?
 description: "Unlock Scrum's true potential! Embrace flexibility over dogma with expert insights from Martin. Discover adaptive practices for effective project management. \U0001F680"
-date: 2023-10-17
+date: 2023-06-05T07:00:20Z
 videoId: YUlpnyN2IeI
 source: internal
 url: /resources/videos/:slug

@@ -1,7 +1,7 @@
 ---
 title: 'The Key to a Kanban Strategy: Understanding WIP Limits'
 description: Discover how to optimise work flow with effective WIP limits! Learn critical factors for establishing them as a Kanban strategist. Watch now!
-date: 2024-10-26
+date: 2024-03-06T07:00:17Z
 videoId: Ir8QiX7eAHU
 source: internal
 url: /resources/videos/:slug

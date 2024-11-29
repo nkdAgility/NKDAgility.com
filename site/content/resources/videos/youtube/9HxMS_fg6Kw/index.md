@@ -1,7 +1,7 @@
 ---
 title: What are some big red flags when hiring an agile consultant?
 description: Discover key red flags to watch for when hiring an agile consultant to ensure a successful transformation from traditional project management.
-date: 2023-02-22
+date: 2023-01-25T07:30:02Z
 videoId: 9HxMS_fg6Kw
 source: internal
 url: /resources/videos/:slug

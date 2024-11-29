@@ -1,7 +1,7 @@
 ---
 title: Hardest Part of Adopting Scrum?
 description: 'Discover the toughest challenge in adopting Scrum as Martin Hinshelwood shares insights in this engaging short video. #Scrum #Agile #Shorts'
-date: 2023-11-09
+date: 2023-06-17T11:00:32Z
 videoId: c6R8wo04LK4
 source: internal
 url: /resources/videos/:slug

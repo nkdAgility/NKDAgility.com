@@ -1,7 +1,7 @@
 ---
 title: Why Cost-Cutting During Recessions Is Counterproductive
 description: Discover how to recession-proof your business by investing in people and processes. Learn Kanban strategies to boost effectiveness and thrive, not just survive!
-date: 2024-11-01
+date: 2024-07-04T06:45:04Z
 videoId: wiEH7vsfrSE
 source: internal
 url: /resources/videos/:slug

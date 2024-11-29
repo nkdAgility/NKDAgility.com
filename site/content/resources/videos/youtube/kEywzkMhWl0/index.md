@@ -1,7 +1,7 @@
 ---
 title: One critical skill for a Scrum Master and why?
 description: 'Discover the one essential skill every Scrum Master must master for success in Agile! Join Martin Hinshelwood in this quick, insightful #shorts video.'
-date: 2023-06-21
+date: 2023-04-25T07:00:15Z
 videoId: kEywzkMhWl0
 source: internal
 url: /resources/videos/:slug

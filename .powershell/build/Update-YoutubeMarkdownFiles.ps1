@@ -104,14 +104,14 @@ function Update-YoutubeMarkdownFiles {
                 Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'description' -fieldValue $fullDescription -addAfter "title"
             }
             # get the Dates right
-            [datetime]$publishDate = $null
+            $publishDate = $null
             if ($videoData.status.publishAt) {
                 $publishDate = Get-Date $videoData.status.publishAt -Format "yyyy-MM-ddTHH:mm:ssZ"
             }
             else {
                 $publishDate = Get-Date $videoSnippet.publishedAt -Format "yyyy-MM-ddTHH:mm:ssZ"
             }
-            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'date' -fieldValue $publishedAt -addAfter "description" -Overwrite
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'date' -fieldValue $publishDate -addAfter "description" -Overwrite
             # / Get the Dates right
 
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'videoId' -fieldValue $videoId

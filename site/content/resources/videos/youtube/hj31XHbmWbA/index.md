@@ -1,7 +1,7 @@
 ---
 title: "Quotes: You can't connect the dots looking forward; you can only connect them looking backwards. Steve Jobs"
 description: "Explore Steve Jobs' insight on connecting the dots in product development with Martin Hinshelwood. Discover the power of agile with Naked Agility! #shorts"
-date: 2023-12-27
+date: 2023-10-13T11:00:40Z
 videoId: hj31XHbmWbA
 source: internal
 url: /resources/videos/:slug

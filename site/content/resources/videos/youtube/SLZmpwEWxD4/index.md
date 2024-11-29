@@ -1,7 +1,7 @@
 ---
 title: The Importance of Visualizing Your Work in a Kanban Strategy
 description: Unlock the power of Kanban! Discover best practices for visualising workflows, optimising processes, and boosting team productivity in this insightful video.
-date: 2024-10-27
+date: 2024-03-07T07:00:10Z
 videoId: SLZmpwEWxD4
 source: internal
 url: /resources/videos/:slug

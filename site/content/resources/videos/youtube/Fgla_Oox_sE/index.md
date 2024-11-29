@@ -1,7 +1,7 @@
 ---
 title: 'Mastering the Art of Product Ownership: The Power of Marketing Your Vision'
 description: Unlock product ownership success! Discover how to market your vision, engage stakeholders, and deliver value in our latest video. Subscribe for expert tips!
-date: 2024-10-09
+date: 2023-12-15T07:00:05Z
 videoId: Fgla_Oox_sE
 source: internal
 url: /resources/videos/:slug

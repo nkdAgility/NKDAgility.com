@@ -1,7 +1,7 @@
 ---
 title: 7 Harbingers of the Agile Apocalypse. Famine.
 description: "Explore how resource scarcity in organisations mirrors the Aztec's Fourth Sun, Nahui-Atl. Discover insights and solutions to combat organisational famine! \U0001F30D\U0001F4BC"
-date: 2024-02-20
+date: 2023-10-19T15:00:30Z
 videoId: W3H9z28g9R8
 source: internal
 url: /resources/videos/:slug
