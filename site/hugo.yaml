@@ -32,6 +32,16 @@ outputs:
   term: [html, rss]
   page: [html]
 
+ignoreFiles:
+  - \.drawio$
+  - ^data\.yaml$
+  - ^wordpress\.*\.md\.import$
+  - ^wordpress\.*\.yaml$
+  - ^wordpress\.*\.*\.yaml$
+  - ^data\.captions\.*\.srt$
+  - ^data\.captions\.json$
+  - ^data\.json$
+
 outputFormats:
   json:
     mediaType: "application/json"
