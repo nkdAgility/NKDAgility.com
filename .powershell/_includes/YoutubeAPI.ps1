@@ -1,32 +1,68 @@
+# Define an AuthType enum
+enum GoogleAuthType {
+    AccessToken
+    ApiKey
+}
 
-# Function to fetch video list from YouTube API and save a single youtube.json file
-function Get-YoutubePublicChannelVideos {
+# Function to fetch video list from YouTube API using either AccessToken or ApiKey
+function Get-YoutubeChannelVideos {
     param (
         [string]$channelId,
-        [string]$apiKey,
+        [AuthType]$authType,
+        [string]$token, # Either AccessToken or ApiKey
         [int]$maxResults = 50
     )
 
-    Write-Host "Getting Video List for $channelId"
+    if (-not $token) {
+        Write-Error "Token is required. Provide either an API Key or Access Token based on AuthType."
+        return
+    }
+
+    Write-Host "Getting Video List for channel: $channelId using $authType"
+
     $nextPageToken = $null
-    $page = 1;
+    $page = 1
     $allVideosData = @()
+    $searchDate = Get-Date -Format "yyyy-MM-ddTHH:mm:ss" # ISO 8601 timestamp
 
     do {
-        # YouTube API endpoint to get videos from a channel, including nextPageToken
-        $searchApiUrl = "https://www.googleapis.com/youtube/v3/search?key=$apiKey&part=snippet&channelId=$channelId&type=video&maxResults=$maxResults&pageToken=$nextPageToken"
-        
-        # Fetch video list
-        $searchResponse = Invoke-RestMethod -Uri $searchApiUrl -Method Get
-        Write-Host "  Parsing Page $page with $($searchResponse.items.Count) videos and etag: $($searchResponse.etag)" 
-        $allVideosData += $searchResponse.items
+        # Build the appropriate API URL and headers based on AuthType
+        if ($authType -eq [AuthType]::AccessToken) {
+            $searchApiUrl = "https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=$channelId&type=video&maxResults=$maxResults&pageToken=$nextPageToken"
+            $headers = @{ Authorization = "Bearer $token" }
+        }
+        elseif ($authType -eq [AuthType]::ApiKey) {
+            $searchApiUrl = "https://www.googleapis.com/youtube/v3/search?key=$token&part=snippet&channelId=$channelId&type=video&maxResults=$maxResults&pageToken=$nextPageToken"
+            $headers = @{} # No headers needed for API key
+        }
+        else {
+            Write-Error "Invalid AuthType specified."
+            return
+        }
 
-        # Get the nextPageToken to continue fetching more videos
-        $nextPageToken = $searchResponse.nextPageToken
-        $page++
+        try {
+            # Fetch video list
+            $searchResponse = Invoke-RestMethod -Uri $searchApiUrl -Headers $headers -Method Get
+            Write-Host "  Parsing Page $page with $($searchResponse.items.Count) videos and etag: $($searchResponse.etag)"
+            $allVideosData += $searchResponse.items
+
+            # Get the nextPageToken to continue fetching more videos
+            $nextPageToken = $searchResponse.nextPageToken
+            $page++
+        }
+        catch {
+            Write-Error "Failed to fetch data: $($_.Exception.Message)"
+            break
+        }
     } while ($nextPageToken)
-    Write-Host " Found $($allVideosData.Count) videos"
-    return  $allVideosData;
+
+    Write-Host "Found $($allVideosData.Count) videos."
+
+    # Return an object containing the search date and video data
+    return @{
+        SearchDate = $searchDate
+        Videos     = $allVideosData
+    }
 }
 
 # Function to test if a file is older than a specified number of hours

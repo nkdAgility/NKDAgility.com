@@ -47,6 +47,7 @@ $captionsDownloadLimit = 0
 $videoUpdateLimit = 50
 $captionsManafestUpdateLimit = 10
 $maxYoutubeSearchResults = 1000
+$maxYoutubeDataAgeHours = 1
 
 # Create the output directory if it doesn't exist
 if (-not (Test-Path $outputDir)) {
@@ -56,15 +57,38 @@ if (-not (Test-Path $outputDir)) {
 
 # 0. Get Youtube Video List
 $dataFilePath = Join-Path $dataDirectory "youtube.json"
-if (Test-FileAge -filePath $dataFilePath -hours 1) {
-    $allVideosData = Get-YoutubePublicChannelVideos -channelId $channelId -maxResults $maxYoutubeSearchResults -apiKey $env:YOUTUBE_API_KEY  # Call this to fetch video list and save to youtube.json
+$fetchYoutubeChannelVideos = $false
+if (Test-Path $dataFilePath) {
+    # Load existing data
+    $existingData = Get-Content -Path $dataFilePath | ConvertFrom-Json
+
+    # Check SearchDate from existing data
+    $lastSearchDate = Get-Date $existingData.SearchDate
+    $fileAgeHours = (Get-Date) - $lastSearchDate
+    if ($fileAgeHours.TotalHours -lt $maxFileAgeHours) {
+        Write-Host "$dataFilePath is up to date (Last search: $lastSearchDate)." -ForegroundColor Yellow
+    }
+    else {
+        Write-Host "$dataFilePath is outdated (Last search: $lastSearchDate)." -ForegroundColor Cyan
+        $fetchYoutubeChannelVideos = $true
+    }
+}
+else {
+    Write-Host "$dataFilePath does not exist. Fetching data..." -ForegroundColor Magenta
+    $fetchYoutubeChannelVideos = $true
+}
+
+
+if ($fetchYoutubeChannelVideos) {
+    $searchResults = Get-YoutubeChannelVideos -channelId $channelId -authType AccessToken -maxResults $maxYoutubeSearchResults -token $env:GOOGLE_ACCESS_TOKEN  # Call this to fetch video list and save to youtube.json
+    #$searchResults = Get-YoutubeChannelVideos -channelId $channelId -authType ApiKey -maxResults $maxYoutubeSearchResults -token $env:YOUTUBE_API_KEY
     # Save all video data to a single youtube.json file
-    if ($allVideosData -eq $null) {
+    if ($searchResults -eq $null) {
         Write-Host "ERROR No videos found. Exiting." -ForegroundColor Red
         exit
     }
-    $allVideosData | ConvertTo-Json -Depth 10 | Set-Content -Path $dataFilePath
-    Write-Host "$dataFilePath  saved with $($allVideosData.Count) videos."  -ForegroundColor Green
+    $searchResults | ConvertTo-Json -Depth 10 | Set-Content -Path $dataFilePath
+    Write-Host "$dataFilePath  saved with $($searchResults.Videos.Count) videos."  -ForegroundColor Green
 }
 else {
     Write-Host "$dataFilePath  is up to date."  -ForegroundColor Yellow
