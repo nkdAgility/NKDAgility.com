@@ -113,6 +113,21 @@ function Update-YoutubeMarkdownFiles {
             }
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'date' -fieldValue $publishDate -addAfter "description" -Overwrite
             # / Get the Dates right
+            #ExpiryDate
+            if ($videoData.status.privacyStatus -eq "private" -and -not $videoData.status.publishAt) {
+                if ($videoData.snippet.publishedAt) {
+                    $ExpiryDate = $videoData.snippet.publishedAt
+                    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ExpiryDate' -fieldValue $ExpiryDate  -addAfter "description" -Overwrite
+                    Write-Host "ExpiryDate set to snippet.publishedAt: $($ExpiryDate )"
+                }
+                else {
+                    Write-Host "snippet.publishedAt is missing, cannot set ExpiryDate."
+                }
+            }
+            else {
+                Write-Host "!!REMOVE FILED!! Conditions not met. privacyStatus: $($videoData.status.privacyStatus), publishAt: $($jsonData.status.publishAt)" -ForegroundColor Yellow
+            }
+
 
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'videoId' -fieldValue $videoId
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'source' -fieldValue $source -addAfter "videoId" 
