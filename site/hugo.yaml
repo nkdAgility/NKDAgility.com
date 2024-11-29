@@ -32,15 +32,14 @@ outputs:
   term: [html, rss]
   page: [html]
 
-ignoreFiles:
-  - \.drawio$
-  - ^data\.yaml$
-  - ^wordpress\.*\.md\.import$
-  - ^wordpress\.*\.yaml$
-  - ^wordpress\.*\.*\.yaml$
-  - ^data\.captions\.*\.srt$
-  - ^data\.captions\.json$
-  - ^data\.json$
+module:
+  mounts:
+    - source: "content"
+      target: "content"
+      excludeFiles:
+        - "**/content/data.yaml"
+        - "**/content/wordpress*"
+        - "**/content/data.*"
 
 outputFormats:
   json:
