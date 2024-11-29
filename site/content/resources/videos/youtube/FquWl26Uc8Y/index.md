@@ -1,5 +1,6 @@
 ---
 title: Bad code isn't technical debt. It's incompetence
+description: 'Discover why bad code is a sign of incompetence, not just technical debt. Learn more in our insightful video! #Coding #SoftwareDevelopment'
 date: 2024-11-26T13:55:20Z
 videoId: FquWl26Uc8Y
 source: youtube
