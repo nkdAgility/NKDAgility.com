@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/kTszGsXPLXY
 - /resources/how-easy-is-it-to-create-a-kanban-pilot-in-the-organization-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Kanban
 - Kanban method

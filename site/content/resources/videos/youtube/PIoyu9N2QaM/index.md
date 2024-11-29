@@ -17,8 +17,8 @@ aliases:
 - /resources/videos/PIoyu9N2QaM
 - /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned,-experienced-scrum-master-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - scrum
 - scrum master

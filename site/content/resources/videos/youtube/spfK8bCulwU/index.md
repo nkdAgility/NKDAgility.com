@@ -25,16 +25,13 @@ tags:
 - Product Manager
 - Product Management
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube spfK8bCulwU >}}
-
-# Why do you think the Advanced PSPO course is a perfect fit for entrepreneurs?
-
-A great #productowner is a game-changer in the organization because they help shape and articulate the product vision, mission, and goals. People like Steve Jobs who create and sustain a standard of #productdevelopment that captures the imagination of an entire generation.
+{{< youtube spfK8bCulwU >}} 
+ A great #productowner is a game-changer in the organization because they help shape and articulate the product vision, mission, and goals. People like Steve Jobs who create and sustain a standard of #productdevelopment that captures the imagination of an entire generation.
 
 Everything that an entrepreneur needs to be, just on a smaller scale than Apple. So, how do you acquire the knowledge, skills, frameworks, and capabilities to be great at #productdevelopment and #productmanagement?
 
@@ -54,6 +51,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=spfK8bCulwU)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=spfK8bCulwU)

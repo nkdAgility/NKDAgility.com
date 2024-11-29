@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/yEu8Fw4JQWM
 - /resources/in-wip,-less-is-more,-why-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - WIP
 - Work in Progress

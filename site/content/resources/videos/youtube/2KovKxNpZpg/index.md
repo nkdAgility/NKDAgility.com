@@ -21,16 +21,13 @@ tags:
 - Scrum product development
 - Scrum project management
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube 2KovKxNpZpg >}}
-
-# Pet Peeve in Scrum
-
-#shorts As a #professionalscrumtrainer, #scrum expert, and #agileconsultant, Martin Hinshelwood has worked with multiple clients, in multiple applications of #scrum, in multiple geographies around the world.
+{{< youtube 2KovKxNpZpg >}} 
+ #shorts As a #professionalscrumtrainer, #scrum expert, and #agileconsultant, Martin Hinshelwood has worked with multiple clients, in multiple applications of #scrum, in multiple geographies around the world.
 
 in this short video, Martin talks about his pet peeve when it comes to #scrum consulting engagements. 
 
@@ -46,6 +43,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=2KovKxNpZpg)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=2KovKxNpZpg)

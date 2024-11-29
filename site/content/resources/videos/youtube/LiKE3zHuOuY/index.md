@@ -14,8 +14,8 @@ aliases:
 - /resources/videos/how-much-of-an-impact-can-scrum-have-in-a-devops-environment
 - /resources/videos/LiKE3zHuOuY
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - DevOps
 - devops

@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/g1GBes-dVzE
 - /resources/one-thing-an-agile-coach-must-do-to-be-successful-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Agile
 - Agile coach

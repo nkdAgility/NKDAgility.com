@@ -27,18 +27,14 @@ tags:
 - Release Management Server
 - Install & Configure 101
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube oHH_ES7fNWY >}}
-
-# Sending email from Office 365 for TFS 2013
-
-Have you ever tried to configure emails for an application to send through office 365?
+{{< youtube oHH_ES7fNWY >}} 
+ Have you ever tried to configure emails for an application to send through office 365?
 
 
-More videos and blogs on http://nakedalm.com/blog
-
-[Watch on YouTube](https://www.youtube.com/watch?v=oHH_ES7fNWY)
+More videos and blogs on http://nakedalm.com/blog 
+ [Watch on Youtube](https://www.youtube.com/watch?v=oHH_ES7fNWY)

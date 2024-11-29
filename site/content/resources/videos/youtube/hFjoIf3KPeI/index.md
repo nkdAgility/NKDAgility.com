@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/hFjoIf3KPeI
 - /resources/motivating-a-scrum-team-how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Scrum Master
 - Agile Coach

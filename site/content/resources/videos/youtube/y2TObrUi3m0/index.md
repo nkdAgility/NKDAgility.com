@@ -18,16 +18,13 @@ tags:
 - Agile product development
 - Agile project management
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube y2TObrUi3m0 >}}
-
-# What should have been way more popular in Agile than it currently is?
-
-*Unlocking Agile Success: Beyond Tools and Techniques*
+{{< youtube y2TObrUi3m0 >}} 
+ *Unlocking Agile Success: Beyond Tools and Techniques*
 
 Discover the often-overlooked key to Agile success that goes beyond just tools and techniques. Learn how principles, not tools, drive effective Agile practices.
 
@@ -52,6 +49,5 @@ _Sign up for one of our upcomming Professional Scrum classes: https://nkdagility
 
 Because you don't just need agility, you need Naked Agility.
 
-#agile, #projectmanagement, #agilecoach, #agileconsultant, #agiletraining, #scrumtraining, #scrumorg, #scrummaster, #productowner, #devops
-
-[Watch on YouTube](https://www.youtube.com/watch?v=y2TObrUi3m0)
+#agile, #projectmanagement, #agilecoach, #agileconsultant, #agiletraining, #scrumtraining, #scrumorg, #scrummaster, #productowner, #devops 
+ [Watch on Youtube](https://www.youtube.com/watch?v=y2TObrUi3m0)

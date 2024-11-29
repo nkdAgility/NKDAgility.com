@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/oiIf2vdqgg0
 - /resources/what-is-a-product-vision-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Product Vision
 - Sprint Backlog

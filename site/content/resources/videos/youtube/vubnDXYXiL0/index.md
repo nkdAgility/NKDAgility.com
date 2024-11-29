@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/vubnDXYXiL0
 - /resources/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - '#scrum'
 - '#agile'

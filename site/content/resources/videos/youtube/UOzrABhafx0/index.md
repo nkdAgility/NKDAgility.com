@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/UOzrABhafx0
 - /resources/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Agile
 - Scrum

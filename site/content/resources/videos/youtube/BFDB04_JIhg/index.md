@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/BFDB04_JIhg
 - /resources/introduction-to-kanban
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Kanban
 - Agile

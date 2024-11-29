@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/KjSRjkK6OL0
 - /resources/what-does-an-ineffective-scrum-master's-day-look-like-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - scrum
 - scrummaster

@@ -3,7 +3,8 @@
 function Get-YoutubePublicChannelVideos {
     param (
         [string]$channelId,
-        [string]$apiKey
+        [string]$apiKey,
+        [int]$maxResults = 50
     )
 
     Write-Host "Getting Video List for $channelId"
@@ -53,7 +54,9 @@ function Test-FileAge {
 function Get-YoutubeVideoData {
     param (
         [Parameter(Mandatory = $true)]
-        [string]$videoId
+        [string]$videoId,
+        [Parameter(Mandatory = $true)]
+        [string]$apiKey
     )
     
     # Ensure API key is defined
@@ -94,7 +97,9 @@ function Get-YoutubeVideoData {
 function Get-YouTubeCaptionsData {
     param (
         [Parameter(Mandatory = $true)]
-        [string]$videoId
+        [string]$videoId,
+        [Parameter(Mandatory = $true)]
+        [string]$apiKey
     )
 
     # Ensure API key is defined

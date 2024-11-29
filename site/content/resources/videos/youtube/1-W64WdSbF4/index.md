@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/1-W64WdSbF4
 - /resources/free-workshop-4-introduction-to-sprint-review!-[audio-fixed]
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Agility
 - Scrum

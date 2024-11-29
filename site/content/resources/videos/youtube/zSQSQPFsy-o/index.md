@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/zSQSQPFsy-o
 - /resources/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Agile
 - Scrum

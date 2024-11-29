@@ -23,16 +23,13 @@ tags:
 - Product Developers
 - Project managers
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube ZcMcVL7mNGU >}}
-
-# Product Management Mentor Program Final
-
-#agile has come a long way since it's inception in 2001, and with that shift from #projectmanagement to #productdevelopment, #productmanagement has evolved significantly.
+{{< youtube ZcMcVL7mNGU >}} 
+ #agile has come a long way since it's inception in 2001, and with that shift from #projectmanagement to #productdevelopment, #productmanagement has evolved significantly.
 
 In the beginning, a 2-day workshop was enough to help product managers make the shift to #agile and embed agile values, principles and practices in their approach to product development.
 
@@ -42,6 +39,5 @@ In this short video, Martin Hinshelwood walks us through the NKD Agility Product
 
 Visit https://nkdagility.com/global-consultancy-services/product-management-mentor-program/ for more in-depth information on the program and how your organization can thrive with this approach.
 
-#productmanagement #agileproductmanagement #agileproductdevelopment #agiletraining #agilecoaching #agileprojectmanagement
-
-[Watch on YouTube](https://www.youtube.com/watch?v=ZcMcVL7mNGU)
+#productmanagement #agileproductmanagement #agileproductdevelopment #agiletraining #agilecoaching #agileprojectmanagement 
+ [Watch on Youtube](https://www.youtube.com/watch?v=ZcMcVL7mNGU)

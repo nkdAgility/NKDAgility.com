@@ -25,16 +25,13 @@ tags:
 - Agile Consultant
 - Agile coaching
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube LI6G1awAUyU >}}
-
-# What are the most common challenges you are contracted to solve in a DevOps consulting gig?
-
-#devops is that mysterious partner to #agile in many environments. It's something that has stumped many an #agilecoach or #agileconsultant, because it requires knowledge and practise in the environment to thrive.
+{{< youtube LI6G1awAUyU >}} 
+ #devops is that mysterious partner to #agile in many environments. It's something that has stumped many an #agilecoach or #agileconsultant, because it requires knowledge and practise in the environment to thrive.
 
 Martin Hinshelwood has been a #devops expert for many years, and applied that skill as a #devopsconsultant for over a decade to help organizations achieve their #productdevelopment goals.
 
@@ -52,6 +49,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=LI6G1awAUyU)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=LI6G1awAUyU)

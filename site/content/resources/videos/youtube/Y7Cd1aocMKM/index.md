@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/Y7Cd1aocMKM
 - /resources/how-effective-is-scrum-training-via-digital-delivery-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Scrum
 - Scrum Training

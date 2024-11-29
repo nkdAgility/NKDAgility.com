@@ -15,15 +15,11 @@ duration: 622
 isShort: false
 tags: []
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube qnWVeumTKcE >}}
-
-# A view into the PSM Training from Scrum.org
-
-
-
-[Watch on YouTube](https://www.youtube.com/watch?v=qnWVeumTKcE)
+{{< youtube qnWVeumTKcE >}} 
+  
+ [Watch on Youtube](https://www.youtube.com/watch?v=qnWVeumTKcE)

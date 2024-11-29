@@ -38,16 +38,13 @@ tags:
 - agile leadership
 - leadership.
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube ARhXjid0zSE >}}
-
-# 7 signs of the agile apocalypse. Famine
-
-#shorts #shortsvideo #shortvideo #agile loves abundance. An abundance of ideas, creativity, and collaboration. That said, sometimes you experience #famine and in this short video, Martin Hinshelwood explains what that looks like and why it's a sign of impending doom.
+{{< youtube ARhXjid0zSE >}} 
+ #shorts #shortsvideo #shortvideo #agile loves abundance. An abundance of ideas, creativity, and collaboration. That said, sometimes you experience #famine and in this short video, Martin Hinshelwood explains what that looks like and why it's a sign of impending doom.
 
 About NKD Agility
 
@@ -60,6 +57,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=ARhXjid0zSE)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=ARhXjid0zSE)

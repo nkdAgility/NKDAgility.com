@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/3jYFD-6_kZk
 - /resources/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Azure DevOps
 - Azure DevOps Migration

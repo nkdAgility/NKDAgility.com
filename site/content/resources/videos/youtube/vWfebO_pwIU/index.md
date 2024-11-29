@@ -24,16 +24,13 @@ tags:
 - Scrum.Org
 - Scrum Careers
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube vWfebO_pwIU >}}
-
-# Why Most Scrum Masters only have PSMI!
-
-*Why do so few scrum masters progress to the PSM II and PSM III certifications?*
+{{< youtube vWfebO_pwIU >}} 
+ *Why do so few scrum masters progress to the PSM II and PSM III certifications?*
 Discover why many Scrum Masters don't pursue advanced certifications like PSM2 or PSM3. Dive into the motivations and passion behind true mastery in Scrum. 📜🔍
 
 *Enjoy this video? Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
@@ -50,6 +47,5 @@ _Sign up for one of our upcoming professional Scrum classes:_ https://nkdagility
 
 Because you don't just need agility, you need Naked Agility.
 
-#scrum, #agile, #scrumteam, #agilecoach, #scrumorg, #scrummaster, #agiletraining
-
-[Watch on YouTube](https://www.youtube.com/watch?v=vWfebO_pwIU)
+#scrum, #agile, #scrumteam, #agilecoach, #scrumorg, #scrummaster, #agiletraining 
+ [Watch on Youtube](https://www.youtube.com/watch?v=vWfebO_pwIU)

@@ -15,16 +15,13 @@ duration: 2034
 isShort: false
 tags: []
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube jcs-2G99Rrw >}}
-
-# Top 4 Rookie Mistakes in Azure DevOps
-
-Unpack 4 critical Azure DevOps pitfalls that make the Azure DevOps product teams' toes curl! 🛠️✨
+{{< youtube jcs-2G99Rrw >}} 
+ Unpack 4 critical Azure DevOps pitfalls that make the Azure DevOps product teams' toes curl! 🛠️✨
 
 Enjoy this video? 🔔 Like and subscribe to our channel: https://www.youtube.com/@nakedAgility
 
@@ -45,6 +42,5 @@ Don't let these challenges undermine your project's success. Finding the right h
 You can request a free consultation: https://nkdagility.com/agile-consulting-coaching/
 Sign up for one of our upcoming professional Scrum classes: https://nkdagility.com/training-courses
 
-Remember, it's not just about agility; it's about embracing Naked Agility for truly effective project management.
-
-[Watch on YouTube](https://www.youtube.com/watch?v=jcs-2G99Rrw)
+Remember, it's not just about agility; it's about embracing Naked Agility for truly effective project management. 
+ [Watch on Youtube](https://www.youtube.com/watch?v=jcs-2G99Rrw)

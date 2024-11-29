@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/KXvd_oyLe3Q
 - /resources/what-specific-outcomes-and-improvements-can-clients-expect-when-they-engage-with-your-devops-service
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Azure DevOps
 - Azure DevOps migration

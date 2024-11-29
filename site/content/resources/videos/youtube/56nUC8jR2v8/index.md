@@ -15,15 +15,11 @@ duration: 51
 isShort: true
 tags: []
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube 56nUC8jR2v8 >}}
-
-# The tyranny of Taylorism and how to spot agile lies
-
-Join us at Future of Work in Scotland: https://www.meetup.com/the-future-of-work-in-Scotland/events/270847429/
-
-[Watch on YouTube](https://www.youtube.com/watch?v=56nUC8jR2v8)
+{{< youtube 56nUC8jR2v8 >}} 
+ Join us at Future of Work in Scotland: https://www.meetup.com/the-future-of-work-in-Scotland/events/270847429/ 
+ [Watch on Youtube](https://www.youtube.com/watch?v=56nUC8jR2v8)

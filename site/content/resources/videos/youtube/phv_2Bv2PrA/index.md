@@ -18,16 +18,13 @@ tags:
 - Taylorism
 - Beta
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube phv_2Bv2PrA >}}
-
-# What is Agile?
-
-This is a video about applying agile philosophy to foster change and growth in both personal and professional realms. Dive in for transformative insights! 
+{{< youtube phv_2Bv2PrA >}} 
+ This is a video about applying agile philosophy to foster change and growth in both personal and professional realms. Dive in for transformative insights! 
 
 Enjoy this video? 🔔 Like and subscribe to our channel: https://www.youtube.com/@nakedAgility
 
@@ -46,6 +43,5 @@ You can request a free consultation: https://nkdagility.com/agile-consulting-coa
 Sign up for one of our upcoming professional Scrum classes: https://nkdagility.com/training-courses
 
 [hashtags]
-#AgilePhilosophy, #TechnicalExcellence, #SelfOrganizingTeams, #SustainableDevelopment, #ContinuousImprovement
-
-[Watch on YouTube](https://www.youtube.com/watch?v=phv_2Bv2PrA)
+#AgilePhilosophy, #TechnicalExcellence, #SelfOrganizingTeams, #SustainableDevelopment, #ContinuousImprovement 
+ [Watch on Youtube](https://www.youtube.com/watch?v=phv_2Bv2PrA)

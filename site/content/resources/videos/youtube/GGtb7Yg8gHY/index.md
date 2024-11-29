@@ -38,16 +38,13 @@ tags:
 - agile leadership
 - leadership.
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube GGtb7Yg8gHY >}}
-
-# 7 signs of the agile apocalypse. War
-
-#shorts #shortsvideo #shortvideo War is a terrible sign that your #agiletransformation is headed for disaster. #agile thrives on collaboration, a shared sense of purpose, and teamwork. In this short video, Martin Hinshelwood describes what war looks like,  in the context of #agile, and why it's a sign of impending disaster
+{{< youtube GGtb7Yg8gHY >}} 
+ #shorts #shortsvideo #shortvideo War is a terrible sign that your #agiletransformation is headed for disaster. #agile thrives on collaboration, a shared sense of purpose, and teamwork. In this short video, Martin Hinshelwood describes what war looks like,  in the context of #agile, and why it's a sign of impending disaster
 
 About NKD AGility
 
@@ -60,6 +57,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=GGtb7Yg8gHY)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=GGtb7Yg8gHY)

@@ -18,15 +18,11 @@ tags:
 - Agile framework
 - Kanban
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube sIhG2i7frpE >}}
-
-# Improving workflow with Kanban
-
-Improving workflow with #kanban. Visit https://www.nkdagility.com #agile #agileframework #kanban
-
-[Watch on YouTube](https://www.youtube.com/watch?v=sIhG2i7frpE)
+{{< youtube sIhG2i7frpE >}} 
+ Improving workflow with #kanban. Visit https://www.nkdagility.com #agile #agileframework #kanban 
+ [Watch on Youtube](https://www.youtube.com/watch?v=sIhG2i7frpE)

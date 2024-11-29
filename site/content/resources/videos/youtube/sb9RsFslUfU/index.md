@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/sb9RsFslUfU
 - /resources/how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - DevOps
 - DevOps Consulting

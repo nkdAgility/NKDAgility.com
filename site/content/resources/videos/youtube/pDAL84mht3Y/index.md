@@ -38,16 +38,13 @@ tags:
 - agile leadership
 - leadership.
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube pDAL84mht3Y >}}
-
-# 7 signs of the agile apocalypse. Plague
-
-#shorts #shortvideo #shortsvideo In deeply interconnected, integrated environments there is a lot that can go wrong. When it goes wrong, it tends to go wrong in spades. In this short video, Martin Hinshelwood explains what plague looks like, in the context of #agile, and why it's a sure sign of impending disaster.
+{{< youtube pDAL84mht3Y >}} 
+ #shorts #shortvideo #shortsvideo In deeply interconnected, integrated environments there is a lot that can go wrong. When it goes wrong, it tends to go wrong in spades. In this short video, Martin Hinshelwood explains what plague looks like, in the context of #agile, and why it's a sure sign of impending disaster.
 
 About NKD Agility
 
@@ -60,6 +57,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=pDAL84mht3Y)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=pDAL84mht3Y)

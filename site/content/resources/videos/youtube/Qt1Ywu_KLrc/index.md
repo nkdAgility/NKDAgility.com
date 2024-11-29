@@ -17,16 +17,13 @@ tags:
 - AzureDevOps
 - Azure DevOps Migration Tools
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube Qt1Ywu_KLrc >}}
-
-# Basic Work Item Migration with the Azure DevOps Migration Tools
-
-The Azure DevOps Migration Tools allow you to bulk edit and migrate data between Team Projects on both Microsoft Team Foundation Server (TFS) and Azure DevOps Services. Take a look at the documentation to find out how. This project is published as code on GitHub as well as a Winget package a nkdAgility.AzureDevOpsMigrationTools.
+{{< youtube Qt1Ywu_KLrc >}} 
+ The Azure DevOps Migration Tools allow you to bulk edit and migrate data between Team Projects on both Microsoft Team Foundation Server (TFS) and Azure DevOps Services. Take a look at the documentation to find out how. This project is published as code on GitHub as well as a Winget package a nkdAgility.AzureDevOpsMigrationTools.
 
 Ask Questions on Github: https://github.com/nkdAgility/azure-devops-migration-tools/discussions
 
@@ -44,6 +41,5 @@ Don't let issues derail your value delivery. Seek out help sooner rather than la
 _You can request a free consultation: https://nkdagility.com/agile-consulting-coaching/_
 _Sign up for one of our upcoming professional Scrum classes: https://nkdagility.com/training-courses_
 
-Because you don't just need agility, you need Naked Agility.
-
-[Watch on YouTube](https://www.youtube.com/watch?v=Qt1Ywu_KLrc)
+Because you don't just need agility, you need Naked Agility. 
+ [Watch on Youtube](https://www.youtube.com/watch?v=Qt1Ywu_KLrc)

@@ -38,16 +38,13 @@ tags:
 - agile leadership
 - leadership.
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube T07AK-1FAK4 >}}
-
-# 7 signs of the agile apocalypse. The Antichrist
-
-#shorts #shortsvideo #shortvideo In the context of the #agile industry, the anti-christ represents fake experts who sell snake oil and hype up customer expectations. In this short video, Martin Hinshelwood explains why they are a sign of the #agile apocalypse.
+{{< youtube T07AK-1FAK4 >}} 
+ #shorts #shortsvideo #shortvideo In the context of the #agile industry, the anti-christ represents fake experts who sell snake oil and hype up customer expectations. In this short video, Martin Hinshelwood explains why they are a sign of the #agile apocalypse.
 
 About NKD Agility
 
@@ -60,6 +57,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=T07AK-1FAK4)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=T07AK-1FAK4)

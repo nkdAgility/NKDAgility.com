@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/Wvdh1lJfcLM
 - /resources/talk-us-through-the-migration-services-you-offer-via-azure-devops
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Azure DevOps
 - DevOps

@@ -22,16 +22,13 @@ tags:
 - Agile project management
 - Agile product management
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube uvU_ATou6QY >}}
-
-# What does failure look like as a product owner?
-
-Recognizing the Signs of a Failing Product Owner. Uncover the indicators of a failing product owner! Learn how to differentiate between perception and reality in product management. 🎯🚫
+{{< youtube uvU_ATou6QY >}} 
+ Recognizing the Signs of a Failing Product Owner. Uncover the indicators of a failing product owner! Learn how to differentiate between perception and reality in product management. 🎯🚫
 
 *Enjoy this video? Like and subscribe to our channel: https://www.youtube.com/@nakedAgility*
 
@@ -48,6 +45,5 @@ Sign up for one of our upcoming professional Scrum classes: https://nkdagility.c
 
 Because you don't just need agility, you need Naked Agility.
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=uvU_ATou6QY)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=uvU_ATou6QY)

@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced
 - /resources/videos/7R9_bYOswhk
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Scrum Master
 - ScrumMaster

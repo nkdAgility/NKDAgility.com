@@ -22,16 +22,13 @@ tags:
 - Agile problem solving
 - Agile product development
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube LxM_F_JJLeg >}}
-
-# Don’t put down to malevolence what can be explained by incompetence
-
-*Don't Let Incompetence Mask as Malevolence*
+{{< youtube LxM_F_JJLeg >}} 
+ *Don't Let Incompetence Mask as Malevolence*
 
 We often mistake incompetence for malevolence in our agile journeys. Dive deep into how the system's incompetence can overshadow our efforts. 🚀 #productvision #agile #scrumtraining #scrumorg
 
@@ -48,6 +45,5 @@ If you have issues that are undermining the effectiveness of your value delivery
 _You can request a free consultation:_ https://nkdagility.com/agile-consulting-coaching/
 _Sign up for one of our upcoming professional Scrum classes:_ https://nkdagility.com/training-courses
 
-Because you don't just need agility, you need Naked Agility.
-
-[Watch on YouTube](https://www.youtube.com/watch?v=LxM_F_JJLeg)
+Because you don't just need agility, you need Naked Agility. 
+ [Watch on Youtube](https://www.youtube.com/watch?v=LxM_F_JJLeg)

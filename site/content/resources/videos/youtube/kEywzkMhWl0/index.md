@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/kEywzkMhWl0
 - /resources/1-critical-skill-for-a-scrum-master-and-why-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Scrum Master
 - Scrum Master Skills

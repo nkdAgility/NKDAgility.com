@@ -22,16 +22,13 @@ tags:
 - Agile product development
 - Agile product management
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube tPX-wc6pG7M >}}
-
-# 5 October 2023 Agile Leader Webinar
-
-🌟 Exclusive Webcast: "Agile Leadership & Agile Transformation" with Dr. Joanna Płaskonka & Martin Hinshelwood 🌟 
+{{< youtube tPX-wc6pG7M >}} 
+ 🌟 Exclusive Webcast: "Agile Leadership & Agile Transformation" with Dr. Joanna Płaskonka & Martin Hinshelwood 🌟 
 
 Register at https://events.teams.microsoft.com/event/18ce0eb6-2b89-4e62-bab0-4c78a27ee18e@686c55d4-ab81-4a17-9eef-6472a5633fab
 
@@ -53,6 +50,5 @@ Whether you're an executive, a manager, or an Agile enthusiast, this webcast is 
 📅 Reserve Your Spot!
 
 
-Spaces are limited, and this unique opportunity to learn from the best won't last long. Sign up now and embark on a journey that promises to elevate your Agile leadership and transformation strategies!
-
-[Watch on YouTube](https://www.youtube.com/watch?v=tPX-wc6pG7M)
+Spaces are limited, and this unique opportunity to learn from the best won't last long. Sign up now and embark on a journey that promises to elevate your Agile leadership and transformation strategies! 
+ [Watch on Youtube](https://www.youtube.com/watch?v=tPX-wc6pG7M)

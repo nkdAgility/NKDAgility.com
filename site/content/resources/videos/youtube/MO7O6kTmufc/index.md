@@ -20,15 +20,11 @@ tags:
 - Evidence based management
 - Scrum
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube MO7O6kTmufc >}}
-
-# Introduction to Evidence-based Management Excerpt 2
-
-Introduction to Evidence-based Management Excerpt 2 #agile #evidencebasedleadership #evidencebasedmanagement #ebm #scrum #leadership #agileleadership
-
-[Watch on YouTube](https://www.youtube.com/watch?v=MO7O6kTmufc)
+{{< youtube MO7O6kTmufc >}} 
+ Introduction to Evidence-based Management Excerpt 2 #agile #evidencebasedleadership #evidencebasedmanagement #ebm #scrum #leadership #agileleadership 
+ [Watch on Youtube](https://www.youtube.com/watch?v=MO7O6kTmufc)

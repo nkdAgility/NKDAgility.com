@@ -41,16 +41,13 @@ tags:
 - agile-pocalypse
 - agile-apocalypse
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube XZ1Swam_Cx0 >}}
-
-# Antichrist! 7 Harbingers agile apocalypse. But shorter!
-
-Beware the Agile-pocalypse: Decoding the Agile "Antichrist" 🌪️
+{{< youtube XZ1Swam_Cx0 >}} 
+ Beware the Agile-pocalypse: Decoding the Agile "Antichrist" 🌪️
 
 Full video: https://youtu.be/56hWAHhbrvs
 
@@ -74,6 +71,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=XZ1Swam_Cx0)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=XZ1Swam_Cx0)

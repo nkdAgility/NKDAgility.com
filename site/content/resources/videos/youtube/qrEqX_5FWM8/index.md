@@ -24,16 +24,13 @@ tags:
 - Scrum Courses
 - Scrum Certification
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube qrEqX_5FWM8 >}}
-
-# Overview of the 8-week Immersive learning experience
-
-*Unlocking Real-World Value with Immersive Learning: A Scrum.org Insight* - Explore the transformative power of immersive learning in this insightful video. Discover how it connects theory to real-world scenarios, enhancing practical skills in project management and Scrum.
+{{< youtube qrEqX_5FWM8 >}} 
+ *Unlocking Real-World Value with Immersive Learning: A Scrum.org Insight* - Explore the transformative power of immersive learning in this insightful video. Discover how it connects theory to real-world scenarios, enhancing practical skills in project management and Scrum.
 
 *Book today - https://nkdagility.com/training-courses/course-schedule/ -- Regional pricing, bulk discount, & alumni discounts available!*
 
@@ -66,6 +63,5 @@ Starting in 2024, we will be running immersive classes in bundles as Learning Jo
 
 If you are underemployed, we can also create custom payment plans to help you out. Just ask!
 
-#scrum, #agile, #projectmanagement, #productdevelopment, #agilecoach, #agileconsultant, #agiletraining, #scrumtraining, #scrumorg, #scrummaster, #productowner
-
-[Watch on YouTube](https://www.youtube.com/watch?v=qrEqX_5FWM8)
+#scrum, #agile, #projectmanagement, #productdevelopment, #agilecoach, #agileconsultant, #agiletraining, #scrumtraining, #scrumorg, #scrummaster, #productowner 
+ [Watch on Youtube](https://www.youtube.com/watch?v=qrEqX_5FWM8)

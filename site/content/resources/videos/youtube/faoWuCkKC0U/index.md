@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/reasons-to-do-a-pspo-a-course-in-60-seconds
 - /resources/videos/faoWuCkKC0U
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - PSPO A
 - Professional Scrum Product Owner

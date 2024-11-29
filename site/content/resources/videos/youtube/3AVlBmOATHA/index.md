@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/3AVlBmOATHA
 - /resources/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Agile
 - Agile Transformation

@@ -38,16 +38,13 @@ tags:
 - agile leadership
 - leadership.
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube 2-AyrLPg-8Y >}}
-
-# Why is training such a critical element in a manager or leader journey?
-
-#shorts #shortsvideo #shortvideo Transitioning from a #projectmanager or traditional #manager to an #agileleader can be super tricky, especially if you have never received training. In this short excerpt, Martin explains why #agileleadership training is critical. Watch the full video here: https://youtu.be/W3cyrYFXDfg
+{{< youtube 2-AyrLPg-8Y >}} 
+ #shorts #shortsvideo #shortvideo Transitioning from a #projectmanager or traditional #manager to an #agileleader can be super tricky, especially if you have never received training. In this short excerpt, Martin explains why #agileleadership training is critical. Watch the full video here: https://youtu.be/W3cyrYFXDfg
 
 About NKD Agility
 
@@ -60,6 +57,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=2-AyrLPg-8Y)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=2-AyrLPg-8Y)

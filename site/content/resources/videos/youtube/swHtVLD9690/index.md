@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/swHtVLD9690
 - /resources/what-common-challenges-do-organizations-face-when-adopting-devops-practices-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Azure DevOps
 - DevOps

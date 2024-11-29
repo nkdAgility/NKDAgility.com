@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/XFN4iXYLE3U
 - /resources/the-secret-power-of-kanban-why-limiting-work-in-progress-(wip)-is-key-to-success
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Kanban
 - Kanban training

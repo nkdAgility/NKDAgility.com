@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/Dl5v4j1f-WE
 - /resources/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Scrum
 - Scrum Trainer

@@ -14,8 +14,8 @@ aliases:
 - /resources/videos/why-is-devops-such-a-critical-element-of-software-engineering
 - /resources/videos/2AJ2JHdMRCc
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - DevOps
 - devops

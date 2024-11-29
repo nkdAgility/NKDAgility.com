@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/YGBrayIqm7k
 - /resources/agile-product-management-vs-product-development-understanding-the-crucial-partnership-for-success
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Agile
 - Agile product management

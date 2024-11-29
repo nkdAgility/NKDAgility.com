@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/VkTnZmJGf98
 - /resources/why-evidence-based-management-how-has-it-improved-agile-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Evidence-based management
 - Agile

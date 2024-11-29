@@ -38,16 +38,13 @@ tags:
 - agile leadership
 - leadership.
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube 2cSsuEzGkvU >}}
-
-#  shorts 7 Virtues of agile. Humility
-
-#shorts #shortsvideo #shortvideo 7 virtues of #agile. Humility. #agile #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #projectmanagement #productmanagement #productdevelopment #projectmanager #productmanager #developer #scrummaster #productowner #agilecoach #agileleadership 
+{{< youtube 2cSsuEzGkvU >}} 
+ #shorts #shortsvideo #shortvideo 7 virtues of #agile. Humility. #agile #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #projectmanagement #productmanagement #productdevelopment #projectmanager #productmanager #developer #scrummaster #productowner #agilecoach #agileleadership 
 
 Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
 
@@ -58,6 +55,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=2cSsuEzGkvU)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=2cSsuEzGkvU)

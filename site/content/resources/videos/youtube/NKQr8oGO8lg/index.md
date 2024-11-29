@@ -19,16 +19,13 @@ tags:
 - PAL-E course
 - PAL-E immersive learning experience
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube NKQr8oGO8lg >}}
-
-# How much of a competitive edge will the immersive PAL e course deliver to delegates?
-
-#leadership is always about developing practices, skills, and systems that help you acquire competitive advantage, and #agileleadership even more so because we work in a complex environment.
+{{< youtube NKQr8oGO8lg >}} 
+ #leadership is always about developing practices, skills, and systems that help you acquire competitive advantage, and #agileleadership even more so because we work in a complex environment.
 
 In this short video, Joanna Plaskonka - Professional Scrum Trainer and PAL-E Course Instructor - walks us through some of the ways that the new immersive learning experience over 7 weeks will help you optimize your learning experience and start creating value for your organization out the blocks.
 
@@ -44,6 +41,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=NKQr8oGO8lg)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=NKQr8oGO8lg)

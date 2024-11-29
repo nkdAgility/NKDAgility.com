@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/66NuAjzWreY
 - /resources/introduction-to-evidence-based-management
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Evidence-based Management
 - EBM

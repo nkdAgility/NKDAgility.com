@@ -22,16 +22,13 @@ tags:
 - Kanban method
 - ProKanban
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube sbr8NkJSLPU >}}
-
-# 3 core practices of Kanban Defining and visualizing a workflow
-
-Unlock the Power of Kanban: Streamline Your Workflow for Maximum Efficiency 🚀
+{{< youtube sbr8NkJSLPU >}} 
+ Unlock the Power of Kanban: Streamline Your Workflow for Maximum Efficiency 🚀
 
 Introduction to Kanban 📌
 
@@ -64,6 +61,5 @@ Embarking on the journey to refine your workflow with Kanban is a step toward un
 Need Assistance? 🆘
 Struggling to implement or optimize your Kanban strategy? We're here to help! Whether you need direct support or are looking for resources to get you on the right path, we've got you covered.
 
-👉 Visit NKD Agility for more insightful videos, articles, and how-to blogs designed to empower your team and elevate your project management game.
-
-[Watch on YouTube](https://www.youtube.com/watch?v=sbr8NkJSLPU)
+👉 Visit NKD Agility for more insightful videos, articles, and how-to blogs designed to empower your team and elevate your project management game. 
+ [Watch on Youtube](https://www.youtube.com/watch?v=sbr8NkJSLPU)

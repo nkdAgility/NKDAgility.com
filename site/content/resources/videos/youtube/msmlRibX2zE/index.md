@@ -20,15 +20,11 @@ tags:
 - Unbox
 - intel
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube msmlRibX2zE >}}
-
-# Harris Beach SDS Ultrabook Unbox
-
-You can find the full post on http://nakedalm.com/review-harris-beach-sds-ultrabook-from-intel-unboxing/
-
-[Watch on YouTube](https://www.youtube.com/watch?v=msmlRibX2zE)
+{{< youtube msmlRibX2zE >}} 
+ You can find the full post on http://nakedalm.com/review-harris-beach-sds-ultrabook-from-intel-unboxing/ 
+ [Watch on Youtube](https://www.youtube.com/watch?v=msmlRibX2zE)

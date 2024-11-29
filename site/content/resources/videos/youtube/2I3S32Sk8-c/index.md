@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/2I3S32Sk8-c
 - /resources/what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Agile
 - Scrum

@@ -22,17 +22,13 @@ tags:
 - PSF
 - Scrum.org
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube XMLdLH6f4N8 >}}
+{{< youtube XMLdLH6f4N8 >}} 
+ When you are teaching over 150 people at an organisation it is important that your Trainer fits with the culture that you are trying to create. 
 
-# nkdAgility Healthgrades Interview Katherine Maddox
-
-When you are teaching over 150 people at an organisation it is important that your Trainer fits with the culture that you are trying to create. 
-
-See what Katherine, Healthgrades lead Scrum Master, has to say about the training and the trainer.
-
-[Watch on YouTube](https://www.youtube.com/watch?v=XMLdLH6f4N8)
+See what Katherine, Healthgrades lead Scrum Master, has to say about the training and the trainer. 
+ [Watch on Youtube](https://www.youtube.com/watch?v=XMLdLH6f4N8)

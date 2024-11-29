@@ -15,15 +15,11 @@ duration: 35
 isShort: true
 tags: []
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube kOgKt8w_hWY >}}
-
-# Live Event - An Enterprise Evolution that Shows that You Can Too
-
-
-
-[Watch on YouTube](https://www.youtube.com/watch?v=kOgKt8w_hWY)
+{{< youtube kOgKt8w_hWY >}} 
+  
+ [Watch on Youtube](https://www.youtube.com/watch?v=kOgKt8w_hWY)

@@ -22,16 +22,13 @@ tags:
 - Agile Product Development
 - Agile Project Management
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube BhGThHrOc8Y >}}
-
-# People Drive Solutions, Tools Just Pave the Way! Agile and DevOps are about people, not tools.
-
-Unravel the true essence of DevOps beyond just tools! Dive deep into the philosophy, practices, and ideas that drive successful DevOps implementations. 🛠️🔄💡
+{{< youtube BhGThHrOc8Y >}} 
+ Unravel the true essence of DevOps beyond just tools! Dive deep into the philosophy, practices, and ideas that drive successful DevOps implementations. 🛠️🔄💡
 
 *Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
 
@@ -51,6 +48,5 @@ _Sign up for one of our upcoming professional Scrum classes: https://nkdagility.
 
 Because you don't just need agility, you need Naked Agility.
 
-#devops #azuredevops #agilecoach #agileconsultant #continousdelivery #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=BhGThHrOc8Y)
+#devops #azuredevops #agilecoach #agileconsultant #continousdelivery #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=BhGThHrOc8Y)

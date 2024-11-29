@@ -21,15 +21,11 @@ tags:
 - scrum master training
 - scrum training
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube Bi4ToMME8Xs >}}
-
-# Advanced PSM II Immersive Learning Classes
-
-If your organization KNOW that you should be getting better outcomes from their #scrummaster now is a great time to invest in a private Advanced Professional Scrum Master immersive learning experience. Visit https://www.nkdagility.com to explore how we can help you. #agile #scrum
-
-[Watch on YouTube](https://www.youtube.com/watch?v=Bi4ToMME8Xs)
+{{< youtube Bi4ToMME8Xs >}} 
+ If your organization KNOW that you should be getting better outcomes from their #scrummaster now is a great time to invest in a private Advanced Professional Scrum Master immersive learning experience. Visit https://www.nkdagility.com to explore how we can help you. #agile #scrum 
+ [Watch on Youtube](https://www.youtube.com/watch?v=Bi4ToMME8Xs)

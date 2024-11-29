@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/rEqytRyOHGI
 - /resources/5-kinds-of-agile-bandits-special-sprints
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Agile
 - Scrum

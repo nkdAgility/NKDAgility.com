@@ -20,16 +20,13 @@ tags:
 - Agile Transformation
 - Agile Adoption
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube -Mz9cH0uiTQ >}}
-
-# Does a client tell an agile consultant what they need or does it work the other way around?
-
-Making the transition from #projectmanagement to #agile #productdevelopment can be intimidating. You don't know where to start, you aren't sure of what the top priorities are, and you may not even be 100% clear about what problems you are trying to solve.
+{{< youtube -Mz9cH0uiTQ >}} 
+ Making the transition from #projectmanagement to #agile #productdevelopment can be intimidating. You don't know where to start, you aren't sure of what the top priorities are, and you may not even be 100% clear about what problems you are trying to solve.
 
 So, how do you move forward when it feels like you are in quicksand? Do you need to figure it all out before contracting an #agileconsultant or is that something that an #agileconsultant helps you identify and define?
 
@@ -47,6 +44,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=-Mz9cH0uiTQ)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=-Mz9cH0uiTQ)

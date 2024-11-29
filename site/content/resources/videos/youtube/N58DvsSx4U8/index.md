@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/N58DvsSx4U8
 - /resources/what-is-your-favourite-devops-consulting-outcome-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - DevOps
 - DevOps consulting

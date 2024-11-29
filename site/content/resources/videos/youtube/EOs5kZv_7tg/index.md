@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/EOs5kZv_7tg
 - /resources/why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Professional Agile Leadership
 - Professional Agile Leadership Essentials

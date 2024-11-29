@@ -17,16 +17,13 @@ tags:
 - Azure DevOps
 - Migration
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube RCJsST0xBCE >}}
-
-# Mastering Azure DevOps Migration - A Comprehensive Guide by NKDAgility
-
-Check out the latest version: https://youtu.be/Qt1Ywu_KLrc
+{{< youtube RCJsST0xBCE >}} 
+ Check out the latest version: https://youtu.be/Qt1Ywu_KLrc
 
 Unlock the potential of Azure DevOps migration tools with this comprehensive tutorial! We dive deep into features, functionalities, and efficient practices. 
 
@@ -54,6 +51,5 @@ _Sign up for one of our upcoming professional Scrum classes: https://nkdagility.
 
 Because you don't just need agility, you need Naked Agility.
 
-#azuredevops #agilecoach #agileconsultant #devops #scrummaster #productowner
-
-[Watch on YouTube](https://www.youtube.com/watch?v=RCJsST0xBCE)
+#azuredevops #agilecoach #agileconsultant #devops #scrummaster #productowner 
+ [Watch on Youtube](https://www.youtube.com/watch?v=RCJsST0xBCE)

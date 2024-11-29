@@ -21,16 +21,13 @@ tags:
 - Scrum training
 - Scrum coaching
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube xJsuDbsFzlw >}}
-
-# What is the sprint planning workshop and how will it help organizations?
-
-#sprintplanning is a critical event in #scrum. Getting it right sets the tone for a great #sprint and ensures that the team are working on the most valuable work items. Getting it wrong has serious consequences.
+{{< youtube xJsuDbsFzlw >}} 
+ #sprintplanning is a critical event in #scrum. Getting it right sets the tone for a great #sprint and ensures that the team are working on the most valuable work items. Getting it wrong has serious consequences.
 
 In this short video, Martin Hinshelwood talks about the new Sprint Planning workshops on offer from NKD Agility and how they can help your #scrumteam get off to a flying start out of the sprint gates.
 
@@ -46,6 +43,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=xJsuDbsFzlw)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=xJsuDbsFzlw)

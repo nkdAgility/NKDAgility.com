@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/what-are-some-of-the-most-common-reasons-why-companies-ask-you-to-do-a-migration-via-azure-devops
 - /resources/what-are-some-of-the-most-common-reasons-why-companies-ask-you-to-do-a-migration-via-azure-devops
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Azure DevOps
 - DevOps

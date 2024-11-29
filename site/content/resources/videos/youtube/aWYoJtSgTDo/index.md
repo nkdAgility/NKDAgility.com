@@ -29,16 +29,13 @@ tags:
 - Business Agility
 - Agility
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube aWYoJtSgTDo >}}
-
-# The importance of knowing the territory.
-
-#agileleadership is about sensing opportunities, responding to threats, and making valuable decisions even when you don't have all the information you need.
+{{< youtube aWYoJtSgTDo >}} 
+ #agileleadership is about sensing opportunities, responding to threats, and making valuable decisions even when you don't have all the information you need.
 
 Joanna Plaskonka - #professionalscrumtrainer and #agile expert - talks us through the similarities of navigating new territories and what she has learned through one of her favourite hobbies, mushroom foraging.
 
@@ -54,6 +51,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=aWYoJtSgTDo)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=aWYoJtSgTDo)

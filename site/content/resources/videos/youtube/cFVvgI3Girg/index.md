@@ -28,16 +28,13 @@ tags:
 - Agile courses
 - Agile trainining
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube cFVvgI3Girg >}}
-
-# Why is the Professional Agile Leadership Essentials course a natural evolution for a product owner
-
-A #productowner, especially in #scrum, is often referred to as the CEO of the product. Someone tasked with ensuring that the #scrumteam are building the most valuable product for customers, and the most viable product for the organization.
+{{< youtube cFVvgI3Girg >}} 
+ A #productowner, especially in #scrum, is often referred to as the CEO of the product. Someone tasked with ensuring that the #scrumteam are building the most valuable product for customers, and the most viable product for the organization.
 
 In this short video, Martin Hinshelwood talks about why the Professional Agile Leadership Essentials course is a natural evolution for a #productowner.
 
@@ -53,6 +50,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=cFVvgI3Girg)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=cFVvgI3Girg)

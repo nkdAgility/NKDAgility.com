@@ -38,16 +38,13 @@ tags:
 - agile leadership
 - leadership.
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube WpsGLkTXalE >}}
-
-# 7 signs of the agile apocalypse. Silence
-
-#shorts #shortsvideo #shortvideo Stillness is key to great work. The ability to reflect, do the deep work, and remain calm is a super power. That said, in the realms of #agile, Silence can be harbinger of disaster. Martin Hinshelwood explains why.
+{{< youtube WpsGLkTXalE >}} 
+ #shorts #shortsvideo #shortvideo Stillness is key to great work. The ability to reflect, do the deep work, and remain calm is a super power. That said, in the realms of #agile, Silence can be harbinger of disaster. Martin Hinshelwood explains why.
 
 About NKD Agility
 
@@ -60,6 +57,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=WpsGLkTXalE)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=WpsGLkTXalE)

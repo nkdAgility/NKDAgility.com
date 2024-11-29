@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/4zGsmQFWFpo
 - /resources/where-are-we-now-and-where-do-we-need-to-go-next
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Agile
 - Scrum

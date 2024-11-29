@@ -20,15 +20,11 @@ tags:
 - Product Owner
 - Scrum Team
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube p3D5RjM5grA >}}
-
-# Ep 006 - Live Virtual Retrospective On PAL-e with Russell Miller
-
-This week Russell Miller and I co-taught a Professional Agile Leadership class as a Live Virtual Classroom with Microsoft Teams and Mural. We will be chatting about the experiance or running Live Virtual Classrooms as well as the pros and cons of the technology choices and changes that we would make for the next one.
-
-[Watch on YouTube](https://www.youtube.com/watch?v=p3D5RjM5grA)
+{{< youtube p3D5RjM5grA >}} 
+ This week Russell Miller and I co-taught a Professional Agile Leadership class as a Live Virtual Classroom with Microsoft Teams and Mural. We will be chatting about the experiance or running Live Virtual Classrooms as well as the pros and cons of the technology choices and changes that we would make for the next one. 
+ [Watch on Youtube](https://www.youtube.com/watch?v=p3D5RjM5grA)

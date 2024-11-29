@@ -22,16 +22,13 @@ tags:
 - Microsoft MVP
 - Azure DevOps Migration
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube hWyF6CbcbQ8 >}}
-
-# DevOps Migration. Data Integrity Issues
-
-In this video, we dive into the essentials of data integrity and Azure DevOps migrations. Migrating to Azure DevOps, especially from on-premises TFS (Team Foundation Server), presents a key decision: fidelity versus flexibility. Do you migrate everything in one complete transfer, or selectively choose data sets based on your organizational needs? Each option offers unique benefits—and challenges.
+{{< youtube hWyF6CbcbQ8 >}} 
+ In this video, we dive into the essentials of data integrity and Azure DevOps migrations. Migrating to Azure DevOps, especially from on-premises TFS (Team Foundation Server), presents a key decision: fidelity versus flexibility. Do you migrate everything in one complete transfer, or selectively choose data sets based on your organizational needs? Each option offers unique benefits—and challenges.
 
 I'll walk you through the trade-offs, including how a complete database migration ensures higher fidelity but less flexibility, while selective data migration provides flexibility but requires replaying data, which may result in minor data loss. This video will help you understand the nuances of both approaches and how our tools can simplify and streamline your migration process.
 
@@ -45,6 +42,5 @@ Video Chapters:
 
 👉 Watch the video to gain insights into Azure DevOps migration strategies. Don’t forget to like the video and subscribe to our channel for more expert content on DevOps, Azure, and beyond!
 
-#azuredevops #azure #azureexpert #azureservices #devops #devopsconsultant #devopscoach #devopstraining
-
-[Watch on YouTube](https://www.youtube.com/watch?v=hWyF6CbcbQ8)
+#azuredevops #azure #azureexpert #azureservices #devops #devopsconsultant #devopscoach #devopstraining 
+ [Watch on Youtube](https://www.youtube.com/watch?v=hWyF6CbcbQ8)

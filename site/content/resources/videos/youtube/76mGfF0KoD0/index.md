@@ -22,16 +22,13 @@ tags:
 - Agile Consultant
 - Agile Consulting
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube 76mGfF0KoD0 >}}
-
-# Would you recommend a team APS workshop or an agile consultant?
-
-If a #scrummaster is battling to organize the team effectively and align them with customer and organizational objectives throughout the #productdevelopment process, what should you do?
+{{< youtube 76mGfF0KoD0 >}} 
+ If a #scrummaster is battling to organize the team effectively and align them with customer and organizational objectives throughout the #productdevelopment process, what should you do?
 
 What do you do if the team simply don't get #scrum or don't understand why they need to shift from traditional #projectmanagement to #agile in order to be more effective as a #productdevelopment team?
 
@@ -49,6 +46,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=76mGfF0KoD0)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=76mGfF0KoD0)

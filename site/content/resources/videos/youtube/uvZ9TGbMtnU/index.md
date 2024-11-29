@@ -38,16 +38,13 @@ tags:
 - agile leadership
 - leadership.
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube uvZ9TGbMtnU >}}
-
-#  shorts 5 kinds of Agile bandits. 1st Kind
-
-#shorts #shortvideo #shortsvideo Martin Hinshelwood walks us through the 5 kinds of #agile bandits. This video features #specialsprints
+{{< youtube uvZ9TGbMtnU >}} 
+ #shorts #shortvideo #shortsvideo Martin Hinshelwood walks us through the 5 kinds of #agile bandits. This video features #specialsprints
 
 About NKD Agility
 
@@ -60,6 +57,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=uvZ9TGbMtnU)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=uvZ9TGbMtnU)

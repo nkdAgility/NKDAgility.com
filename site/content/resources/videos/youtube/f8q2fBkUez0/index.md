@@ -15,16 +15,13 @@ duration: 4859
 isShort: false
 tags: []
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube f8q2fBkUez0 >}}
-
-# Should Companies Take Money Off The Table - with Martin , Michael , & Rijon
-
-### Panel Description: "Should Companies Take Money Off the Table? Exploring Motivation Beyond Financial Incentives"
+{{< youtube f8q2fBkUez0 >}} 
+ ### Panel Description: "Should Companies Take Money Off the Table? Exploring Motivation Beyond Financial Incentives"
 
 In today's fast-paced business environment, the debate over the role of financial incentives in driving employee motivation is more relevant than ever. Join us for an engaging panel discussion where we dive deep into the idea of "taking money off the table" as a motivator and explore the principles outlined in Dan Pink's groundbreaking work, *Drive*.
 
@@ -36,6 +33,5 @@ Our panel of experts will discuss:
 - **Practical Applications**: How can companies realistically "take money off the table" and still maintain a motivated workforce?
 - **Case Studies**: Success stories and challenges faced by organizations that have shifted focus away from financial incentives.
 
-Whether you're a leader, HR professional, or just curious about the future of work, this panel will offer valuable insights into how companies can foster a more motivated and engaged workforce by looking beyond the paycheck.
-
-[Watch on YouTube](https://www.youtube.com/watch?v=f8q2fBkUez0)
+Whether you're a leader, HR professional, or just curious about the future of work, this panel will offer valuable insights into how companies can foster a more motivated and engaged workforce by looking beyond the paycheck. 
+ [Watch on Youtube](https://www.youtube.com/watch?v=f8q2fBkUez0)

@@ -20,16 +20,13 @@ tags:
 - TFS Service
 - Visual Studio Team System
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube jCrXzgjxcEA >}}
-
-# Kanban with Azure DevOps
-
-Unlocking Kanban's Full Potential with Azure DevOps: A Deep Dive - Discover how Azure DevOps transforms Kanban for hybrid work environments, enhancing visualization, collaboration, and workflow efficiency.
+{{< youtube jCrXzgjxcEA >}} 
+ Unlocking Kanban's Full Potential with Azure DevOps: A Deep Dive - Discover how Azure DevOps transforms Kanban for hybrid work environments, enhancing visualization, collaboration, and workflow efficiency.
 
 Enjoy this video? 🔔 Like and subscribe to our channel: https://www.youtube.com/@nakedAgility
 
@@ -56,6 +53,5 @@ _Sign up for one of our mentor programs: https://nkdagility.com/global-consultan
 
 Because you dont just need agility, you need Naked Agility.
 
-#KanbanBoard, #AzureDevOps, #VisualManagement, #WorkInProgress, #LeadTime #Kanban
-
-[Watch on YouTube](https://www.youtube.com/watch?v=jCrXzgjxcEA)
+#KanbanBoard, #AzureDevOps, #VisualManagement, #WorkInProgress, #LeadTime #Kanban 
+ [Watch on Youtube](https://www.youtube.com/watch?v=jCrXzgjxcEA)

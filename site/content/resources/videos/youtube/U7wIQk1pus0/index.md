@@ -22,19 +22,15 @@ tags:
 - Install & Configure 101
 - Install & Configure
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube U7wIQk1pus0 >}}
-
-# Install TFS 2013 Basic
-
-I have not done an installation from scratch for a while so I thought that I would share a TFS basic install. For all those that think that installing and configuring TFS is hard or complicated this is for you.
+{{< youtube U7wIQk1pus0 >}} 
+ I have not done an installation from scratch for a while so I thought that I would share a TFS basic install. For all those that think that installing and configuring TFS is hard or complicated this is for you.
 
 My fan kicked on half way through, hence the hiss... I have ordered a microphone...
 
-More videos and blogs on http://nakedalm.com/blog
-
-[Watch on YouTube](https://www.youtube.com/watch?v=U7wIQk1pus0)
+More videos and blogs on http://nakedalm.com/blog 
+ [Watch on Youtube](https://www.youtube.com/watch?v=U7wIQk1pus0)

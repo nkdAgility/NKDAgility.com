@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/Af-wBYtyyRU
 - /resources/evidence-based-management-for-product-owners!-why-is-this-a-great-option-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Evidence-based management
 - Agile

@@ -38,17 +38,13 @@ tags:
 - agile leadership
 - leadership.
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube XF95kabzSeY >}}
+{{< youtube XF95kabzSeY >}} 
+ #shorts #shortvideo #shortsvideo Martin Hinshelwood walks us through the 5 things he would teach an apprenticeship #productowner. This is part 2. To watch the full video, visit https://youtu.be/Tye_-FY7boo
 
-#  shorts 5 things you would teach a productowner apprentice. Part 2
-
-#shorts #shortvideo #shortsvideo Martin Hinshelwood walks us through the 5 things he would teach an apprenticeship #productowner. This is part 2. To watch the full video, visit https://youtu.be/Tye_-FY7boo
-
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=XF95kabzSeY)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=XF95kabzSeY)

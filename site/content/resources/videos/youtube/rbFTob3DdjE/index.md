@@ -21,16 +21,13 @@ tags:
 - Scrum software
 - Scrum resources
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube rbFTob3DdjE >}}
-
-# 5 tools that Scrum Masters love. Part 2
-
-#shorts #shortsvideo #shortvideo 5 tools that a #scrummaster loves. #scrum tool 2
+{{< youtube rbFTob3DdjE >}} 
+ #shorts #shortsvideo #shortvideo 5 tools that a #scrummaster loves. #scrum tool 2
 
 About NKD Agility
 
@@ -43,6 +40,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=rbFTob3DdjE)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=rbFTob3DdjE)

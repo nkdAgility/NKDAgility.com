@@ -18,15 +18,11 @@ tags:
 - Agile Project Management
 - Kanban
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube V44iUwv0Jcg >}}
-
-# Continuous Improvement with Kanban
-
-Continuous Improvement with #kanban. Visit https://www.nkdagility.com #agile #scrum #kaizen #kanban #agileframework
-
-[Watch on YouTube](https://www.youtube.com/watch?v=V44iUwv0Jcg)
+{{< youtube V44iUwv0Jcg >}} 
+ Continuous Improvement with #kanban. Visit https://www.nkdagility.com #agile #scrum #kaizen #kanban #agileframework 
+ [Watch on Youtube](https://www.youtube.com/watch?v=V44iUwv0Jcg)

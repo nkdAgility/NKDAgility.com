@@ -38,16 +38,13 @@ tags:
 - agile leadership
 - leadership.
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube ItvOiaC32Hs >}}
-
-# 7 signs of the agile apocalypse. Chaos
-
-#shorts #shortsvideo #shortvideo #agile thrives on complexity and uncertainty. A place where you don't know the answer but you are taking a scientific, disciplined approach to discovering the right answer. Chaos, however, is a different kettle of fish and in this short video, Martin Hinshelwood explains why it isn't great for teams.
+{{< youtube ItvOiaC32Hs >}} 
+ #shorts #shortsvideo #shortvideo #agile thrives on complexity and uncertainty. A place where you don't know the answer but you are taking a scientific, disciplined approach to discovering the right answer. Chaos, however, is a different kettle of fish and in this short video, Martin Hinshelwood explains why it isn't great for teams.
 
 About NKD Agility
 
@@ -60,6 +57,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=ItvOiaC32Hs)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=ItvOiaC32Hs)

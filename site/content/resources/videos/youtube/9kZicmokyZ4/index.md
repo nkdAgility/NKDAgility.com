@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/9kZicmokyZ4
 - /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-1
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Evidence-based management
 - Agile

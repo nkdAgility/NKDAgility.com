@@ -20,16 +20,13 @@ tags:
 - Agile Product Development
 - Scrum Master traits and characteristics
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube rHFhR3o849k >}}
-
-# What makes a truly great scrum master?
-
-There is a significant difference between a #projectmanager and a #scrummaster, and it's often hard for people to understand how a scrum master operates through influence, coaching, and mentoring rather than leveraging the authority and power of a traditional #projectmanager.
+{{< youtube rHFhR3o849k >}} 
+ There is a significant difference between a #projectmanager and a #scrummaster, and it's often hard for people to understand how a scrum master operates through influence, coaching, and mentoring rather than leveraging the authority and power of a traditional #projectmanager.
 
 #agile is significantly different to #projectmanagement and so a whole different set of skills is required, but you still need to cover all the bases that a traditional #projectmanager would focus on via the #scrumteam.
 
@@ -46,6 +43,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=rHFhR3o849k)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=rHFhR3o849k)

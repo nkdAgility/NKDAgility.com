@@ -23,16 +23,13 @@ tags:
 - Professional Agile Leader certification
 - Professional Agile Leader Essentials Immersive learning course
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube wawnGp8b2q8 >}}
-
-# If you could distil the PAL e immersive learning experience into 3 major benefits, what are they?
-
-The new #immersivelearning experience from Scrum.Org is perfectly suited to the Professional Agile Leadership Essentials course. It gives you heaps of time to digest the information, apply what you have learned, and take advantage of the blend of coaching and teaching that the course entails.
+{{< youtube wawnGp8b2q8 >}} 
+ The new #immersivelearning experience from Scrum.Org is perfectly suited to the Professional Agile Leadership Essentials course. It gives you heaps of time to digest the information, apply what you have learned, and take advantage of the blend of coaching and teaching that the course entails.
 
 In this short video, Joanna Plaskonka - Professional Scrum Trainer and PAL-E course instructor - walks us through the 3 biggest benefits you will derive from attending the PAL-E immersive learning experience via NKD Agility.
 
@@ -48,6 +45,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=wawnGp8b2q8)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=wawnGp8b2q8)

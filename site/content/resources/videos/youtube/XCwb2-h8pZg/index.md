@@ -15,15 +15,11 @@ duration: 254
 isShort: false
 tags: []
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube XCwb2-h8pZg >}}
-
-# Kanban with Team Foundation Service
-
-
-
-[Watch on YouTube](https://www.youtube.com/watch?v=XCwb2-h8pZg)
+{{< youtube XCwb2-h8pZg >}} 
+  
+ [Watch on Youtube](https://www.youtube.com/watch?v=XCwb2-h8pZg)

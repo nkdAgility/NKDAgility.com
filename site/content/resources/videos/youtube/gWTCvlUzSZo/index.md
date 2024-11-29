@@ -15,16 +15,13 @@ duration: 45
 isShort: true
 tags: []
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube gWTCvlUzSZo >}}
-
-# 5 tools that Scrum Masters love. Part 3
-
-Dive into the importance of good cameras for Scrum Masters! Enhance team engagement and read body language effectively. 🎥 #scrum #scrummaster #scrumorg
+{{< youtube gWTCvlUzSZo >}} 
+ Dive into the importance of good cameras for Scrum Masters! Enhance team engagement and read body language effectively. 🎥 #scrum #scrummaster #scrumorg
 
 *Enjoy this video? Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
 
@@ -39,6 +36,5 @@ If you have issues that are undermining the effectiveness of your value delivery
 _You can request a free consultation:_ https://nkdagility.com/agile-consulting-coaching/
 _Sign up for one of our upcoming professional Scrum classes:_ https://nkdagility.com/training-courses/
 
-Because you don't just need agility, you need Naked Agility.
-
-[Watch on YouTube](https://www.youtube.com/watch?v=gWTCvlUzSZo)
+Because you don't just need agility, you need Naked Agility. 
+ [Watch on Youtube](https://www.youtube.com/watch?v=gWTCvlUzSZo)

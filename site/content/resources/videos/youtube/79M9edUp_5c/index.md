@@ -24,16 +24,13 @@ tags:
 - agile project management software
 - agile project management tool
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube 79M9edUp_5c >}}
-
-# 5 tools that Scrum Masters love. Part 4
-
-#shorts #shortsvideo #shortvideo 5 tools that a #scrummaster loves. #scrum tool 4
+{{< youtube 79M9edUp_5c >}} 
+ #shorts #shortsvideo #shortvideo 5 tools that a #scrummaster loves. #scrum tool 4
 
 About NKD Agility
 
@@ -46,6 +43,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=79M9edUp_5c)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=79M9edUp_5c)

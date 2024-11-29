@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/wiEH7vsfrSE
 - /resources/recession-proofing-your-business-with-kanban-investing-in-effectiveness,-not-cost-cutting
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Agile
 - Agile coach

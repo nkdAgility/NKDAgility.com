@@ -20,16 +20,13 @@ tags:
 - Scrum
 - Scrum.org
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube IXmOAB5e44w >}}
-
-# Referral program. 20% of the course fee credited to your account.
-
-We're blessed to have so many people coming through our NKD Agility doors because of a referral, and we deeply value and appreciate those referrals.
+{{< youtube IXmOAB5e44w >}} 
+ We're blessed to have so many people coming through our NKD Agility doors because of a referral, and we deeply value and appreciate those referrals.
 
 So much so, that we've created a referral program that benefits both you and the person you are referring to the tune of 20% of the course fee. That's right, 20%
 
@@ -47,6 +44,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=IXmOAB5e44w)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=IXmOAB5e44w)

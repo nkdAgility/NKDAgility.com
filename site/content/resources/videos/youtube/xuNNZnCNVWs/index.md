@@ -20,16 +20,13 @@ tags:
 - Critical Skills
 - Agile
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube xuNNZnCNVWs >}}
-
-# 1 critical skill for a scrum master and why?
-
-#youtubeshorts presents Martin Hinshelwood raising 1 critical skill for a #scrummaster in under 60 seconds. What is the one thing a #scrummaster should master to be successful in #agile?
+{{< youtube xuNNZnCNVWs >}} 
+ #youtubeshorts presents Martin Hinshelwood raising 1 critical skill for a #scrummaster in under 60 seconds. What is the one thing a #scrummaster should master to be successful in #agile?
 
 About NKD Agility
 
@@ -43,6 +40,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=xuNNZnCNVWs)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=xuNNZnCNVWs)

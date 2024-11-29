@@ -26,16 +26,13 @@ tags:
 - Agile project management
 - Agile product management
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube a6aw7xmS2oc >}}
-
-# What are the top 3 things a product owner needs to bear in mind when adopting an entrepreneur stance
-
-The Entrepreneurial Stance: Key Considerations for Product Owners! Dive into the entrepreneurial mindset of product owners! Discover how to connect teams to value and make evidence-based decisions. 🎯📊
+{{< youtube a6aw7xmS2oc >}} 
+ The Entrepreneurial Stance: Key Considerations for Product Owners! Dive into the entrepreneurial mindset of product owners! Discover how to connect teams to value and make evidence-based decisions. 🎯📊
 
 *Enjoy this video? Like and subscribe to our channel: https://www.youtube.com/@nakedAgility*
 
@@ -52,6 +49,5 @@ Sign up for one of our upcoming professional Scrum classes: https://nkdagility.c
 
 Because you don't just need agility, you need Naked Agility.
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment  #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=a6aw7xmS2oc)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment  #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=a6aw7xmS2oc)

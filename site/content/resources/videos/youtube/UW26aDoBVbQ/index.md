@@ -27,16 +27,13 @@ tags:
 - LEAN UX
 - Lean Agile Product Development
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube UW26aDoBVbQ >}}
-
-# 5 October 2023 Product Ownership and Lean Product Development Webinar
-
-#shorts #shortsvideo #shortvideo 🌟 Exclusive Webcast with Joanna Płaskonka, Ph.D. & Martin Hinshelwood: Dive Deep into Product Ownership & Lean Product Development! 🌟
+{{< youtube UW26aDoBVbQ >}} 
+ #shorts #shortsvideo #shortvideo 🌟 Exclusive Webcast with Joanna Płaskonka, Ph.D. & Martin Hinshelwood: Dive Deep into Product Ownership & Lean Product Development! 🌟
 
 Register at https://events.teams.microsoft.com/event/cc8555b2-77cc-466b-bf8a-1375f89873fd@686c55d4-ab81-4a17-9eef-6472a5633fab
 
@@ -56,6 +53,5 @@ Whether you're a budding product owner, an experienced developer, or someone pas
 
 Don't miss out on this opportunity to learn from the best in the business. Sign up now and be a part of an engaging discussion that could redefine the way you approach product development!
 
-Speakers (2)
-
-[Watch on YouTube](https://www.youtube.com/watch?v=UW26aDoBVbQ)
+Speakers (2) 
+ [Watch on Youtube](https://www.youtube.com/watch?v=UW26aDoBVbQ)

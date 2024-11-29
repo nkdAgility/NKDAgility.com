@@ -26,17 +26,13 @@ tags:
 - Release Management Server
 - Install & Configure 101
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube 9CkvfRic8e0 >}}
+{{< youtube 9CkvfRic8e0 >}} 
+ See how to connect to your Team Foundation Collection with Release Management Client for Visual Studio 2013
 
-# Connecting Release Manageer to TFS 2013
-
-See how to connect to your Team Foundation Collection with Release Management Client for Visual Studio 2013
-
-More videos and blogs on http://nakedalm.com/blog
-
-[Watch on YouTube](https://www.youtube.com/watch?v=9CkvfRic8e0)
+More videos and blogs on http://nakedalm.com/blog 
+ [Watch on Youtube](https://www.youtube.com/watch?v=9CkvfRic8e0)

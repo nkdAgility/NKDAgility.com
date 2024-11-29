@@ -22,16 +22,13 @@ tags:
 - Scrum Master
 - Product Owner
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube _fFs-0GL1CA >}}
-
-# Why do you encourage people to follow a certification path in their career journey?
-
-The world of #agile is inherently complex. If building complex solutions or solving complex problems was a straightforward process of observing a formula, traditional #projectmanagement would do the trick and there would be no need for #agile or #scrum.
+{{< youtube _fFs-0GL1CA >}} 
+ The world of #agile is inherently complex. If building complex solutions or solving complex problems was a straightforward process of observing a formula, traditional #projectmanagement would do the trick and there would be no need for #agile or #scrum.
 
 So, when you enter the working world as a #scrummaster or #productowner, you need guardrails that can help you progress on your journey through an apprenticeship and onto mastery. You need to invest a great deal of time and effort in learning, practicing, and receiving coaching if you are going to be great at what you do.
 
@@ -49,6 +46,5 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 
 We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=_fFs-0GL1CA)
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+ [Watch on Youtube](https://www.youtube.com/watch?v=_fFs-0GL1CA)

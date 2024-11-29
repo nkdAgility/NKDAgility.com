@@ -24,16 +24,13 @@ tags:
 - Product Management
 - Agile product management
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube Cia3d_y9akQ >}}
-
-# What are some of the most common misconceptions you encounter about the Scrum Master role?
-
-💡 Debunking Scrum Master Misconceptions: Why Competence is Key 🚀
+{{< youtube Cia3d_y9akQ >}} 
+ 💡 Debunking Scrum Master Misconceptions: Why Competence is Key 🚀
 
 In this video, I tackle the widespread misconceptions surrounding the role of a Scrum Master, especially the difference between organizational roles and the true accountabilities as defined by Scrum. 
 
@@ -59,6 +56,5 @@ Chapters
 10:35 - Misconceptions That Become Fact: Story Points and User Stories  
 10:57 - How to Approach Scrum: Research, Understand, and Adapt
 
-Ready to move beyond the misconceptions and develop the deep competencies that make a great Scrum Master? 💪 Visit [NKD Agility](https://www.nkdagility.com) to learn how we can help you understand the core principles, philosophies, and theories that drive real success in Scrum. Don’t settle for surface-level practices—take your Scrum Mastery to the next level! 🚀 #ScrumMastery #AgileExcellence #NKDAgility
-
-[Watch on YouTube](https://www.youtube.com/watch?v=Cia3d_y9akQ)
+Ready to move beyond the misconceptions and develop the deep competencies that make a great Scrum Master? 💪 Visit [NKD Agility](https://www.nkdagility.com) to learn how we can help you understand the core principles, philosophies, and theories that drive real success in Scrum. Don’t settle for surface-level practices—take your Scrum Mastery to the next level! 🚀 #ScrumMastery #AgileExcellence #NKDAgility 
+ [Watch on Youtube](https://www.youtube.com/watch?v=Cia3d_y9akQ)

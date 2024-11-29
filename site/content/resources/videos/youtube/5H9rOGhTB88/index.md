@@ -15,8 +15,8 @@ aliases:
 - /resources/videos/5H9rOGhTB88
 - /resources/are-your-teams-truly-empowered-to-adapt-their-processes-the-agile-reality-check-[4-6]
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Detecting Agile BS
 - Agile product management

@@ -21,16 +21,13 @@ tags:
 - project manager
 - agile devops
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube ye1wQic8et0 >}}
-
-# It's said that you can reduce time to market by up to 50% simply by removing committees. True?
-
-*Reducing Time to Market by Removing Committees*
+{{< youtube ye1wQic8et0 >}} 
+ *Reducing Time to Market by Removing Committees*
 Are committees slowing down your time to market? Discover the impact of traditional management practices on your business's agility. 🚀
 
 *Enjoy this video? Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
@@ -47,6 +44,5 @@ _Sign up for one of our upcoming professional Scrum classes:_ https://nkdagility
 
 Because you don't just need agility, you need Naked Agility.
 
-#valuedelivery #projectmanagement #scrumorg #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #agiletraining #devops #agileconsultant #agilecoach #agiletraining
-
-[Watch on YouTube](https://www.youtube.com/watch?v=ye1wQic8et0)
+#valuedelivery #projectmanagement #scrumorg #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #agiletraining #devops #agileconsultant #agilecoach #agiletraining 
+ [Watch on Youtube](https://www.youtube.com/watch?v=ye1wQic8et0)

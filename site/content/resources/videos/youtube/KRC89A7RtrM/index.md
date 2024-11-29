@@ -21,17 +21,13 @@ tags:
 - Install & Config
 - Install & Configure
 sitemap:
-  priority: 0.4
   filename: sitemap.xml
+  priority: 0.4
 source: youtube
 
 ---
-{{< youtube KRC89A7RtrM >}}
+{{< youtube KRC89A7RtrM >}} 
+ Have you ever seen the massage "Some of the features of Team Web Access are not available to you" when you access TFS 2013? Have you wondered how to get access to those features? Find out here.
 
-# Some of the features of Team Web Access are not available to you in TFS 2013
-
-Have you ever seen the massage "Some of the features of Team Web Access are not available to you" when you access TFS 2013? Have you wondered how to get access to those features? Find out here.
-
-More videos and blogs on http://nakedalm.com/blog
-
-[Watch on YouTube](https://www.youtube.com/watch?v=KRC89A7RtrM)
+More videos and blogs on http://nakedalm.com/blog 
+ [Watch on Youtube](https://www.youtube.com/watch?v=KRC89A7RtrM)

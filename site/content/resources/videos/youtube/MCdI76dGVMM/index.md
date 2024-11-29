@@ -16,8 +16,8 @@ aliases:
 - /resources/videos/MCdI76dGVMM
 - /resources/hardest-part-of-becoming-a-professional-scrummaster-
 sitemap:
-  priority: 0.6
   filename: sitemap.xml
+  priority: 0.6
 tags:
 - Professional Scrum Master
 - Professional ScrumMaster
