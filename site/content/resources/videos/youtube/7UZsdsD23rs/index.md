@@ -1,7 +1,7 @@
 ---
 title: What is empiricism and why is it so critical to great Agile?
 description: "Unlock lean-agile secrets with Martin! Enhance value delivery and team dynamics in fast-paced projects. Dive in for expert insights! \U0001F680 #Agile #Scrum"
-date: 2023-12-10
+date: 2023-08-30T07:00:05Z
 videoId: 7UZsdsD23rs
 source: internal
 url: /resources/videos/:slug

@@ -1,7 +1,7 @@
 ---
 title: 7 Harbingers of the Agile apocalypse. Chaos.
 description: "Master agile transformation! \U0001F31F Join Martin as he uncovers chaos pitfalls and the vital role of communication, direction, and alignment. \U0001F680"
-date: 2024-02-23
+date: 2023-10-23T07:00:21Z
 videoId: vhBsAXev014
 source: internal
 url: /resources/videos/:slug

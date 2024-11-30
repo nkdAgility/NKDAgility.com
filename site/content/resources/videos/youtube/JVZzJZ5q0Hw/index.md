@@ -1,7 +1,7 @@
 ---
 title: What is a sprint goal?
 description: "Unlock the secrets of sprint planning! Discover common pitfalls in agility and learn to empower your team for swift market responses. \U0001F680\U0001F4C8"
-date: 2023-10-10
+date: 2023-05-25T14:00:20Z
 videoId: JVZzJZ5q0Hw
 source: internal
 url: /resources/videos/:slug

@@ -1,7 +1,7 @@
 ---
 title: How would you help organizations pitch the opportunity of agile internally?
 description: Discover how to effectively pitch agile within your organisation and inspire teams to embrace its transformative potential for continuous improvement.
-date: 2023-03-10
+date: 2023-02-08T07:15:00Z
 videoId: 3AVlBmOATHA
 source: internal
 url: /resources/videos/:slug

@@ -1,7 +1,7 @@
 ---
 title: 'Mastering Product Backlog Management: Essential Skills for Product Owners'
 description: Master product backlog management with our expert guide! Learn essential strategies for new product owners to deliver maximum value. Subscribe for insights!
-date: 2024-10-10
+date: 2023-12-18T07:00:15Z
 videoId: il1GdfG7rWk
 source: internal
 url: /resources/videos/:slug

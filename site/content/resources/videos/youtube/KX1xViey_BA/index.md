@@ -1,7 +1,7 @@
 ---
 title: 'Quotes: In the past the man has been first; in the future the system must be first. Frederick Winslow Taylor'
 description: "Explore Frederick Taylor's insight on prioritising systems over individuals in management. Join Martin Hinshelwood as he unpacks this shift in thinking. #shorts"
-date: 2023-12-24
+date: 2023-10-12T11:00:15Z
 videoId: KX1xViey_BA
 source: internal
 url: /resources/videos/:slug

@@ -1,7 +1,7 @@
 ---
 title: Getting started with Kanban.
 description: Discover how to effortlessly launch a Kanban pilot in your organisation, tackle common challenges, and leverage metrics for workflow improvement!
-date: 2024-06-28
+date: 2024-02-14T07:00:19Z
 videoId: kTszGsXPLXY
 source: internal
 url: /resources/videos/:slug

@@ -1,7 +1,7 @@
 ---
 title: 'Part 2: Most influential people in Agile'
 description: 'Join Martin Hinshelwood as he shares his personal insights on the most influential figures in Agile. Discover the impact of Agile on teams! #agile #shorts'
-date: 2023-11-27
+date: 2023-08-09T07:00:14Z
 videoId: eykcZoUdVO8
 source: internal
 url: /resources/videos/:slug

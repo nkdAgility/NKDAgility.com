@@ -1,7 +1,7 @@
 ---
 title: '7 deadly sins of Agile: Wrath'
 description: "Explore the impact of wrath in agile teams! Discover how blame deflection and lack of accountability disrupt productivity. Watch now! \U0001F680\U0001F4CA"
-date: 2023-12-29
+date: 2023-10-16T11:00:31Z
 videoId: U18nA0YFgu0
 source: internal
 url: /resources/videos/:slug

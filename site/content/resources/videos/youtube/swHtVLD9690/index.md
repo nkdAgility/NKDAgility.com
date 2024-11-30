@@ -1,7 +1,7 @@
 ---
 title: The Common Challenges of Adopting DevOps Practices
 description: Discover the challenges organisations face in adopting DevOps practices and why real-world production testing is crucial for user experience success.
-date: 2024-11-15
+date: 2024-08-20T08:04:38Z
 videoId: swHtVLD9690
 source: internal
 url: /resources/videos/:slug

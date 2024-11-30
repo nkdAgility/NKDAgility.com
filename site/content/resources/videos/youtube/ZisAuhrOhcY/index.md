@@ -1,7 +1,7 @@
 ---
 title: My journey with Kanban and why I actively recommend it to clients.
 description: Discover my Kanban journey and why I recommend it to clients! Learn how it enhances workflow, transparency, and predictability across all industries.
-date: 2024-07-01
+date: 2024-02-23T07:00:12Z
 videoId: ZisAuhrOhcY
 source: internal
 url: /resources/videos/:slug

@@ -1,7 +1,7 @@
 ---
 title: 7 Harbingers of the Agile Apocalypse. Plague.
 description: "Explore the parallels between ancient myths and today's agile challenges as Martin tackles the plague of incompetent coaches. Join the journey! \U0001F32C️\U0001F412"
-date: 2024-02-21
+date: 2023-10-20T07:00:23Z
 videoId: UeisJt8U2_0
 source: internal
 url: /resources/videos/:slug

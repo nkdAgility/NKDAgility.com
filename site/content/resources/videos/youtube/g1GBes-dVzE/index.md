@@ -1,7 +1,7 @@
 ---
 title: One thing an Agile Coach MUST do to be successful?
 description: 'Discover the key to success for agile coaches! Martin Hinshelwood shares essential insights for thriving in agile consulting. #Agile #Coaching #Scrum'
-date: 2023-12-15
+date: 2023-08-31T07:00:17Z
 videoId: g1GBes-dVzE
 source: internal
 url: /resources/videos/:slug

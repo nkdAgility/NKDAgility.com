@@ -1,7 +1,7 @@
 ---
 title: 'Stop Starting and Start Finishing: The Key to Team Success'
 description: Unlock Agile success! Learn to "stop starting and start finishing" for enhanced productivity and team effectiveness. Watch now for valuable insights!
-date: 2024-10-20
+date: 2024-01-31T14:26:11Z
 videoId: 8aIUldVDtGw
 source: internal
 url: /resources/videos/:slug
