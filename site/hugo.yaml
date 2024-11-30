@@ -37,9 +37,9 @@ module:
     - source: "content"
       target: "content"
       excludeFiles:
-        - "**/content/data.yaml"
-        - "**/content/wordpress*"
-        - "**/content/data.*"
+        - "**/content/**/data.yaml"
+        - "**/content/**/wordpress*"
+        - "**/content/**/data.*"
 
 outputFormats:
   json:
