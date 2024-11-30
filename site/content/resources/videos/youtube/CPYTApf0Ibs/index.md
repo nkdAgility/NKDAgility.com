@@ -1,7 +1,7 @@
 ---
 title: Does Your Team Truly Understand Your Product Vision and Goals?
 description: "Unlock your team's potential! Discover how a shared product vision drives Agile success and empowers decision-making in this insightful video. \U0001F680"
-date: 2024-11-07
+date: 2024-07-12T06:45:00Z
 videoId: CPYTApf0Ibs
 source: internal
 url: /resources/videos/:slug

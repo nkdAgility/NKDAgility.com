@@ -1,7 +1,7 @@
 ---
 title: 3 core practices of Kanban. Improving a workflow.
 description: Unlock your workflow's potential with Kanban! Discover 3 core practices to visualise, manage, and continuously improve for peak efficiency.
-date: 2024-07-02
+date: 2024-02-28T07:00:19Z
 videoId: qWHCBUwpOZk
 source: internal
 url: /resources/videos/:slug

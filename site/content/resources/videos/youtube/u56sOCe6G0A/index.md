@@ -1,7 +1,7 @@
 ---
 title: 3 core practices of Kanban. Actively managing work items in a workflow.
 description: Unlock your team's potential with our guide to active workflow management in Kanban. Learn to optimise processes and prevent bottlenecks for seamless operations!
-date: 2024-07-02
+date: 2024-02-26T14:06:47Z
 videoId: u56sOCe6G0A
 source: internal
 url: /resources/videos/:slug

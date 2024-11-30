@@ -1,7 +1,7 @@
 ---
 title: 'Special Sprints: Agile Banditry or Risk Management?'
 description: "Uncover the truth about special sprints in Agile! Join Martin as he reveals their pitfalls and impact on product delivery. \U0001F680\U0001F50D #Agile #SpecialSprints"
-date: 2024-10-15
+date: 2024-01-04T11:09:15Z
 videoId: rEqytRyOHGI
 source: internal
 url: /resources/videos/:slug

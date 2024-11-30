@@ -1,7 +1,7 @@
 ---
 title: Scrum is like communism, it doesn't work. Myth 5.
 description: "Uncover the truth about Scrum governance! Join Martin as he debunks myths and reveals the balance between flexibility and compliance in product development. \U0001F680"
-date: 2024-03-04
+date: 2023-10-26T07:00:29Z
 videoId: kORUKHu-64A
 source: internal
 url: /resources/videos/:slug

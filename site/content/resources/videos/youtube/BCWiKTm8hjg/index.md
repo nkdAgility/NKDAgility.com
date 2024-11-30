@@ -1,7 +1,7 @@
 ---
 title: 'The Power of Charity in Agile: How Helping Others Elevates Teams and Organizations'
 description: "Discover how the virtue of charity can transform your Agile approach, fostering team success and community support. Watch now for powerful insights! \U0001F31F"
-date: 2024-10-06
+date: 2023-12-06T07:00:08Z
 videoId: BCWiKTm8hjg
 source: internal
 url: /resources/videos/:slug

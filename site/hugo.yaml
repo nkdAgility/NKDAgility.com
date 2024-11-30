@@ -32,6 +32,15 @@ outputs:
   term: [html, rss]
   page: [html]
 
+module:
+  mounts:
+    - source: "content"
+      target: "content"
+      excludeFiles:
+        - "**/data.yaml"
+        - "**/wordpress*"
+        - "**/data.*"
+
 outputFormats:
   json:
     mediaType: "application/json"

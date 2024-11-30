@@ -1,7 +1,7 @@
 ---
 title: The Power of Technical Excellence in Agile Development
 description: Unlock the secrets of Agile success! Discover how prioritising technical excellence over speed can transform your software development and deliver exceptional value.
-date: 2024-10-31
+date: 2024-06-27T06:45:00Z
 videoId: JTYCRehkN5U
 source: internal
 url: /resources/videos/:slug

@@ -80,7 +80,9 @@ function Update-YoutubeMarkdownFiles {
 
             # Format the title to be URL-safe and remove invalid characters
             $title = $videoSnippet.title -replace '[#"]', ' ' -replace ':', ' - ' -replace '\s+', ' '  # Ensure only one space in a row
-            $publishedAt = Get-Date $videoSnippet.publishedAt -Format "yyyy-MM-ddTHH:mm:ssZ"
+
+            
+
             $urlSafeTitle = ($title -replace '[:\/\\*?"<>|#%.]', '-' -replace '\s+', '-').ToLower()
 
             # Remove consecutive dashes
@@ -101,11 +103,39 @@ function Update-YoutubeMarkdownFiles {
                 $fullDescription = Get-UpdatedDescription -videoData $videoData
                 Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'description' -fieldValue $fullDescription -addAfter "title"
             }
-            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'date' -fieldValue $publishedAt 
+            # get the Dates right
+            $publishDate = $null
+            if ($videoData.status.publishAt) {
+                $publishDate = Get-Date $videoData.status.publishAt -Format "yyyy-MM-ddTHH:mm:ssZ"
+            }
+            else {
+                $publishDate = Get-Date $videoSnippet.publishedAt -Format "yyyy-MM-ddTHH:mm:ssZ"
+            }
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'date' -fieldValue $publishDate -addAfter "description" -Overwrite
+            # / Get the Dates right
+            #ExpiryDate
+            if ($videoData.status.privacyStatus -eq "private" -and -not $videoData.status.publishAt) {
+                if ($videoData.snippet.publishedAt) {
+                    $ExpiryDate = $videoData.snippet.publishedAt
+                    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ExpiryDate' -fieldValue $ExpiryDate  -addAfter "description" -Overwrite
+                    Write-Host "ExpiryDate set to snippet.publishedAt: $($ExpiryDate )"
+                }
+                else {
+                    Write-Host "snippet.publishedAt is missing, cannot set ExpiryDate."
+                }
+            }
+            else {
+                Write-Host "!!REMOVE FILED!! Conditions not met. privacyStatus: $($videoData.status.privacyStatus), publishAt: $($jsonData.status.publishAt)" -ForegroundColor Yellow
+            }
+
+
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'videoId' -fieldValue $videoId
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'source' -fieldValue $source -addAfter "videoId" 
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'url' -fieldValue "/resources/videos/:slug"
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'slug' -fieldValue $urlSafeTitle
+            if ($videoData.status.privacyStatus -eq "unlisted") {
+                Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'draft' -fieldValue $true -addAfter "slug" -Overwrite
+            }
             if ($source -eq "youtube") {
                 $externalUrl = "https://www.youtube.com/watch?v=$videoId"
                 Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'canonicalUrl' -fieldValue $externalUrl
@@ -123,7 +153,7 @@ function Update-YoutubeMarkdownFiles {
             else {
                 $priority = 0.6
             }                 
-            $hugoMarkdown.FrontMatter["sitemap"] = @{ filename = "sitemap.xml"; priority = $priority }  # Update sitemap filename
+            $hugoMarkdown.FrontMatter["sitemap"] = [ordered]@{ filename = "sitemap.xml"; priority = $priority }  # Update sitemap filename
             if ($source -eq "youtube" -or [string]::IsNullOrWhiteSpace($hugoMarkdown.BodyContent)) {
                 # Ensure Content
                 $hugoMarkdown.BodyContent = "{{< youtube $videoId >}} `n $($videoData.snippet.description) `n [Watch on Youtube](https://www.youtube.com/watch?v=$videoId)" 

@@ -1,7 +1,7 @@
 ---
 title: 'Continuous Adaptation: The Key to Success in a Dynamic Market'
 description: "Discover how adapting to change drives business success in our fast-paced world. Join us to learn key strategies for thriving amidst constant evolution! \U0001F30D✨"
-date: 2024-10-02
+date: 2024-01-19T06:08:37Z
 videoId: Bjz6SwLDIY4
 source: internal
 url: /resources/videos/:slug
