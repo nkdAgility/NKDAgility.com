@@ -1,18 +1,22 @@
 # Variables
 $LocalImagesPath = ".\public\"  # Local folder containing images and HTML files
-$BlobUrlBase = "https://nkdagilityblobs.blob.core.windows.net/`$web"  # Base URL for the blob storage
-$BlobPath = "blob"  # Path to be added for images in HTML
+$BlobUrl = "blob"  # URL to be used for rewriting - can be full URL or "blob" for relative paths
+$BlobUrlBase = "https://nkdagilityblobs.blob.core.windows.net/`$web"  # Base URL for Blob storage
 $LocalDebug = $true
 
 # Method 1: Upload image files using azcopy
 function Upload-ImageFiles {
     param (
+        [Parameter(Mandatory = $true)]
+        [string]$BlobUrlBase,
+        [Parameter(Mandatory = $true)]
         [string]$LocalPath,
+        [Parameter(Mandatory = $true)]
         [string]$AzureSASToken
     )
     try {
         Write-Host "Uploading image files to Azure Blob Storage using azcopy..."
-        azcopy sync $LocalPath "$BlobUrlBase$AzureSASToken" --recursive --include-pattern "*.jpg;*.jpeg;*.png;*.gif;*.webp"
+        azcopy sync $LocalPath "$BlobUrlBase`?$AzureSASToken" --recursive=true --include-pattern "*.jpg;*.jpeg;*.png;*.gif;*.webp"
         Write-Host "Upload complete."
     }
     catch {
@@ -46,13 +50,10 @@ function Delete-LocalImageFiles {
 function Rewrite-ImageLinks {
     param (
         [string]$LocalPath,
-        [string]$BlobPath,
-        [string]$BlobUrlBase   )
+        [string]$BlobUrl
+    )
     try {
         Write-Host "Rewriting image links in .html files using regex..."
-        if ($Debug) {
-            Write-Host "DEBUG MODE: All paths will use BlobUrlBase ($BlobUrlBase)"
-        }
 
         $HtmlFiles = Get-ChildItem -Path $LocalPath -Recurse -Include *.html
 
@@ -67,29 +68,30 @@ function Rewrite-ImageLinks {
 
                 foreach ($Match in $Matches) {
                     $OriginalPath = $Match.Groups[1].Value
-                    $Extension = $Match.Groups[2].Value
+                    $UpdatedPath = $OriginalPath
 
-                    # Skip if the path already contains 'blob' unless in debug mode
-                    if ($OriginalPath -notmatch 'blob/') {
-                        # Determine the updated path
-                        $UpdatedPath = $OriginalPath
+                    # Skip if the path already contains the BlobUrl
+                    if ($OriginalPath -match "^$BlobUrl") {
+                        continue
+                    }
 
-                        if ($OriginalPath.StartsWith("https://nkdagility.com") -or 
-                            $OriginalPath.StartsWith("https://preview.nkdagility.com") -or 
-                            $OriginalPath -match "^https:\/\/(yellow-pond-042d21b03|[a-z0-9-]+)\.azurestaticapps\.net") {
-                            # Add '/blob/' to supported domains
-                            $UpdatedPath = $OriginalPath -replace "^(https?:\/\/.*?)(\/|\/\/)", "`$1/$BlobPath/"
-                        }
-                        elseif ($OriginalPath.StartsWith("/")) {
-                            # Absolute path
-                            $UpdatedPath = "/$BlobPath" + $OriginalPath
-                        }
-                        elseif ($OriginalPath.StartsWith("./")) {
-                            # Relative path
-                            $UpdatedPath = "./$BlobPath" + $OriginalPath.Substring(1)
-                        }
+                    # Handle all paths using $BlobUrl
+                    if ($OriginalPath.StartsWith("https://") -or $OriginalPath.StartsWith("http://")) {
+                        # Replace existing domains
+                        $UpdatedPath = "$BlobUrl/" + $OriginalPath.Split('/')[3..-1] -join '/'
+                    }
+                    elseif ($OriginalPath.StartsWith("/")) {
+                        # Absolute paths
+                        $UpdatedPath = "$BlobUrl" + $OriginalPath
+                    }
+                    else {
+                        # Relative paths - Ensure consistency by converting to root-relative
+                        $RootRelativePath = (Resolve-Path -Path (Join-Path -Path (Split-Path -Path $HtmlFile.FullName -Parent) -ChildPath $OriginalPath)).Replace((Get-Item $LocalImagesPath).FullName, "").Replace("\", "/")
+                        $UpdatedPath = "$BlobUrl/$RootRelativePath"
+                    }
 
-                        # Replace the original path in the content
+                    # Replace the original path in the content
+                    if ($OriginalPath -ne $UpdatedPath) {
                         $FileContent = $FileContent -replace [regex]::Escape($OriginalPath), $UpdatedPath
                         Write-Host "Replaced: $OriginalPath -> $UpdatedPath"
                     }
@@ -110,17 +112,22 @@ function Rewrite-ImageLinks {
     }
 }
 
-
 cls
 
 # Main Execution
 $AzureSASToken = $env:AZURE_BLOB_STORAGE_SAS_TOKEN  # Environment variable for SAS token
 
 Write-Host "Starting process..."
-Upload-ImageFiles -LocalPath $LocalImagesPath -AzureSASToken $AzureSASToken
+Upload-ImageFiles -LocalPath $LocalImagesPath -BlobUrlBase $BlobUrlBase -AzureSASToken $AzureSASToken
+
+if ($LocalDebug) {
+    #$LocalImagesPath = ".\public\capabilities\azure-devops-migration-services"
+    $BlobUrl = $BlobUrlBase 
+}
+
+# Rewrite Links in HTML Files
+Rewrite-ImageLinks -LocalPath $LocalImagesPath -BlobUrl $BlobUrl
+
 Delete-LocalImageFiles -LocalPath $LocalImagesPath
 
-$LocalImagesPath = ".\public\capabilities\azure-devops-migration-services"  # Local folder containing images and HTML files
-
-#Rewrite-ImageLinks -LocalPath $LocalImagesPath -BlobPath $BlobPath
 Write-Host "Process complete!"
