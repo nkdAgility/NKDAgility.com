@@ -12,7 +12,7 @@ function Upload-ImageFiles {
     )
     try {
         Write-Host "Uploading image files to Azure Blob Storage using azcopy..."
-        azcopy sync $LocalPath $AzureSASToken --recursive --include-pattern "*.jpg;*.jpeg;*.png;*.gif;*.webp"
+        azcopy sync $LocalPath $BlobUrlBase $AzureSASToken --recursive --include-pattern "*.jpg;*.jpeg;*.png;*.gif;*.webp"
         Write-Host "Upload complete."
     }
     catch {
@@ -42,16 +42,12 @@ function Delete-LocalImageFiles {
     }
 }
 
-# Method 3: Rewrite image links in .html files
-# Method 3: Rewrite image links in .html files
 # Method 3: Rewrite image links in .html files using regex
 function Rewrite-ImageLinks {
     param (
         [string]$LocalPath,
         [string]$BlobPath,
-        [string]$BlobUrlBase,
-        [bool]$Debug = $false
-    )
+        [string]$BlobUrlBase   )
     try {
         Write-Host "Rewriting image links in .html files using regex..."
         if ($Debug) {
@@ -74,28 +70,15 @@ function Rewrite-ImageLinks {
                     $Extension = $Match.Groups[2].Value
 
                     # Skip if the path already contains 'blob' unless in debug mode
-                    if ($Debug -or $OriginalPath -notmatch 'blob/') {
+                    if ($OriginalPath -notmatch 'blob/') {
                         # Determine the updated path
                         $UpdatedPath = $OriginalPath
 
-                        if ($Debug) {
-                            # DEBUG MODE: Use BlobUrlBase for all paths
-                            if ($OriginalPath.StartsWith("https://") -or $OriginalPath.StartsWith("//")) {
-                                $UpdatedPath = $BlobUrlBase + $OriginalPath -replace "^(https?:\/\/|\/\/).*?\/", ""
-                            }
-                            else {
-                                $UpdatedPath = $BlobUrlBase + $OriginalPath.TrimStart("./")
-                            }
-                        }
-                        elseif ($OriginalPath.StartsWith("https://nkdagility.com") -or 
+                        if ($OriginalPath.StartsWith("https://nkdagility.com") -or 
                             $OriginalPath.StartsWith("https://preview.nkdagility.com") -or 
                             $OriginalPath -match "^https:\/\/(yellow-pond-042d21b03|[a-z0-9-]+)\.azurestaticapps\.net") {
                             # Add '/blob/' to supported domains
                             $UpdatedPath = $OriginalPath -replace "^(https?:\/\/.*?)(\/|\/\/)", "`$1/$BlobPath/"
-                        }
-                        elseif ($OriginalPath -match "//localhost:1313") {
-                            # Add full $BlobUrlBase for localhost paths
-                            $UpdatedPath = $BlobUrlBase + $OriginalPath -replace "//localhost:1313", ""
                         }
                         elseif ($OriginalPath.StartsWith("/")) {
                             # Absolute path
@@ -134,10 +117,10 @@ cls
 $AzureSASToken = $env:AZURE_BLOB_STORAGE_SAS_TOKEN  # Environment variable for SAS token
 
 Write-Host "Starting process..."
-#Upload-ImageFiles -LocalPath $LocalImagesPath -AzureSASToken $AzureSASToken
-#Delete-LocalImageFiles -LocalPath $LocalImagesPath
+Upload-ImageFiles -LocalPath $LocalImagesPath -AzureSASToken $AzureSASToken
+Delete-LocalImageFiles -LocalPath $LocalImagesPath
 
 $LocalImagesPath = ".\public\capabilities\azure-devops-migration-services"  # Local folder containing images and HTML files
 
-Rewrite-ImageLinks -LocalPath $LocalImagesPath -BlobPath $BlobPath -BlobUrlBase $BlobUrlBase -Debug $LocalDebug
+Rewrite-ImageLinks -LocalPath $LocalImagesPath -BlobPath $BlobPath
 Write-Host "Process complete!"
