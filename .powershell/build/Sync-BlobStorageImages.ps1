@@ -12,7 +12,7 @@ function Upload-ImageFiles {
     )
     try {
         Write-Host "Uploading image files to Azure Blob Storage using azcopy..."
-        azcopy sync $LocalPath $BlobUrlBase $AzureSASToken --recursive --include-pattern "*.jpg;*.jpeg;*.png;*.gif;*.webp"
+        azcopy sync $LocalPath "$BlobUrlBase$AzureSASToken" --recursive --include-pattern "*.jpg;*.jpeg;*.png;*.gif;*.webp"
         Write-Host "Upload complete."
     }
     catch {
@@ -122,5 +122,5 @@ Delete-LocalImageFiles -LocalPath $LocalImagesPath
 
 $LocalImagesPath = ".\public\capabilities\azure-devops-migration-services"  # Local folder containing images and HTML files
 
-Rewrite-ImageLinks -LocalPath $LocalImagesPath -BlobPath $BlobPath
+#Rewrite-ImageLinks -LocalPath $LocalImagesPath -BlobPath $BlobPath
 Write-Host "Process complete!"
