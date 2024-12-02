@@ -307,7 +307,10 @@ jobs:
         with:
           name: Site
           path: ./_site
-
+      - name: List folders
+        shell: pwsh
+        run: |
+          Get-ChildItem -Path "${{ github.workspace }}" -Directory -Force | Select-Object -ExpandProperty FullName
       - name: "Build NKDAgility Outputs"
         shell: pwsh
         id: nkdagility
