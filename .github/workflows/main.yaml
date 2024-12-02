@@ -365,7 +365,7 @@ jobs:
       - name: Download a single artifact
         uses: actions/download-artifact@v4
         with:
-          name: Site
+          name: Site-Blobbed
           path: ./_site
       - name: Download a single artifact
         if: ${{ false }}
