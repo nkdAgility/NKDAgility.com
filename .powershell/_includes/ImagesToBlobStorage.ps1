@@ -10,7 +10,7 @@ function Upload-ImageFiles {
     )
     try {
         Write-Host "Uploading image files to Azure Blob Storage using azcopy..."
-        azcopy sync $LocalPath "$BlobUrlBase`?$AzureSASToken" --recursive=true --include-pattern "*.jpg;*.jpeg;*.png;*.gif;*.webp" --compare-hash=MD5
+        azcopy sync $LocalPath "$BlobUrlBase`?$AzureSASToken" --recursive=true --include-pattern "*.jpg;*.jpeg;*.png;*.gif;*.webp;*.svg" --compare-hash=MD5
         Write-Host "Upload complete."
     }
     catch {
@@ -25,7 +25,7 @@ function Delete-LocalImageFiles {
     )
     try {
         Write-Host "Deleting all image files locally..."
-        Get-ChildItem -Path $LocalPath -Recurse -Include *.jpg, *.jpeg, *.png, *.gif, *.webp | ForEach-Object {
+        Get-ChildItem -Path $LocalPath -Recurse -Include *.jpg, *.jpeg, *.png, *.gif, *.webp, *.svg | ForEach-Object {
             try {
                 Remove-Item -Path $_.FullName -Force
                 Write-Host "Deleted: $($_.FullName)"
@@ -56,13 +56,15 @@ function Rewrite-ImageLinks {
             $FileContent = Get-Content -Path (Resolve-Path $HtmlFile.FullName) -Raw
 
             # Regex to match all src attributes with image paths
-            $ImageRegex = '["'']([^"'']*\.(jpg|jpeg|png|gif|webp))["'']'
+            $ImageRegex = '(["'']?)(?<url>(?:https?:\/\/|\/)?(?:[\w\-.\/]+\/)*[\w\-.]+\.(?:jpg|jpeg|png|gif|webp|svg|bmp|tif|jfif))\1'
             # Find all matches and make them distinct
             $Matches = [regex]::Matches($FileContent, $ImageRegex) | Select-Object -Unique
 
             foreach ($Match in $Matches) {
-                $OriginalPath = $Match.Groups[1].Value
+                $OriginalPath = $Match.Groups['url'].Value
                 $UpdatedPath = $OriginalPath
+
+           
 
                 # Skip if the path already contains the BlobUrl
                 if ($OriginalPath -like "$BlobUrl*") {
@@ -71,8 +73,17 @@ function Rewrite-ImageLinks {
 
                 # Handle all paths using $BlobUrl
                 if ($OriginalPath.StartsWith("https://") -or $OriginalPath.StartsWith("http://")) {
-                    # Replace existing domains
-                    $UpdatedPath = "$BlobUrl/" + $OriginalPath.Split('/')[3..-1] -join '/'
+                    # Define the regex pattern
+                    $allowedPattern = '^(?:https?:\/\/)?(?:nkdagility\.com|preview\.nkdagility\.com|yellow-pond-042d21b03.*\.westeurope\.5\.azurestaticapps\.net)(\/.*)?$'
+                    if ($OriginalUrl -match $allowedPattern) {
+                        continue
+                    }
+                
+                    $pattern = '^(?:https?:\/\/)?[^\/]+(?<path>\/.*)$'
+                    if ($OriginalUrl -match $pattern) {
+                        $path = $matches['path']
+                        $UpdatedPath = "$BlobUrl/" + $path -join '/'
+                    }                    
                 }
                 elseif ($OriginalPath.StartsWith("/")) {
                     # Absolute paths
