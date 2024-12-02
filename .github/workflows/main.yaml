@@ -307,7 +307,7 @@ jobs:
           AZURE_BLOB_STORAGE_SAS_TOKEN: ${{ secrets.AZURE_BLOB_STORAGE_SAS_TOKEN }}
       - uses: actions/upload-artifact@v4
         with:
-          name: Site-OfloadImages
+          name: Site-Blobbed
           path: ./_site/**/*
 
   # Release to Docs
