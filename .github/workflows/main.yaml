@@ -311,15 +311,40 @@ jobs:
         shell: pwsh
         run: |
           Get-ChildItem -Path "${{ github.workspace }}" -Directory -Force | Select-Object -ExpandProperty FullName
-      - name: "Build NKDAgility Outputs"
+      - name: "Sync Images to Blob Storage"
         shell: pwsh
-        id: nkdagility
-        run: ./.powershell/build/Sync-BlobStorageImages.ps1
+        run: |
+          . ./.powershell/_includes/ImagesToBlobStorage.ps1
+          Upload-ImageFiles -LocalPath $env:LOCAL_IMAGE_PATH -BlobUrlBase $env:BLOB_STORAGE_URL -AzureSASToken $env:AZURE_BLOB_STORAGE_SAS_TOKEN
+        env:
+          LOCAL_IMAGE_PATH: "./_site/"
+          BLOB_STORAGE_URL: "https://nkdagilityblobs.blob.core.windows.net/`$web"
+          AZURE_BLOB_STORAGE_SAS_TOKEN: ${{ secrets.AZURE_BLOB_STORAGE_SAS_TOKEN }}
+          AZCOPY_FAIL_ON_ERROR: "true"
+      - name: "Rewrite Image Links"
+        shell: pwsh
+        run: |
+          . ./.powershell/_includes/ImagesToBlobStorage.ps1
+          Rewrite-ImageLinks -LocalPath $env:LOCAL_IMAGE_PATH -BlobUrl $env:BLOB_URL_BIT
         env:
           LOCAL_IMAGE_PATH: "./_site/"
           BLOB_URL_BIT: "/blob"
-          BLOB_STORAGE_URL: "https://nkdagilityblobs.blob.core.windows.net/`$web"
-          AZURE_BLOB_STORAGE_SAS_TOKEN: ${{ secrets.AZURE_BLOB_STORAGE_SAS_TOKEN }}
+      - name: "Delete Local Images"
+        shell: pwsh
+        run: |
+          . ./.powershell/_includes/ImagesToBlobStorage.ps1
+          Delete-LocalImageFiles -LocalPath $env:LOCAL_IMAGE_PATH
+        env:
+          LOCAL_IMAGE_PATH: "./_site/"
+      # - name: "Build NKDAgility Outputs"
+      #   shell: pwsh
+      #   run: ./.powershell/build/Sync-BlobStorageImages.ps1
+      #   env:
+      #     LOCAL_IMAGE_PATH: "./_site/"
+      #     BLOB_URL_BIT: "/blob"
+      #     BLOB_STORAGE_URL: "https://nkdagilityblobs.blob.core.windows.net/`$web"
+      #     AZURE_BLOB_STORAGE_SAS_TOKEN: ${{ secrets.AZURE_BLOB_STORAGE_SAS_TOKEN }}
+      #     AZCOPY_FAIL_ON_ERROR: "true"
       - uses: actions/upload-artifact@v4
         with:
           name: Site-Blobbed
