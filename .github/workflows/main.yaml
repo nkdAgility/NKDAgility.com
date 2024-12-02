@@ -318,7 +318,7 @@ jobs:
         env:
           LOCAL_IMAGE_PATH: "./_site/"
           BLOB_URL_BIT: "/blob"
-          BLOB_STORAGE_URL: "https://nkdagit gilityblobs.blob.core.windows.net/`$web"
+          BLOB_STORAGE_URL: "https://nkdagilityblobs.blob.core.windows.net/`$web"
           AZURE_BLOB_STORAGE_SAS_TOKEN: ${{ secrets.AZURE_BLOB_STORAGE_SAS_TOKEN }}
       - uses: actions/upload-artifact@v4
         with:
