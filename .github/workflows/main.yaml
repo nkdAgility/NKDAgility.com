@@ -318,7 +318,7 @@ jobs:
           Upload-ImageFiles -LocalPath $env:LOCAL_IMAGE_PATH -BlobUrlBase $env:BLOB_STORAGE_URL -AzureSASToken $env:AZURE_BLOB_STORAGE_SAS_TOKEN
         env:
           LOCAL_IMAGE_PATH: "./_site/"
-          BLOB_STORAGE_URL: "https://nkdagilityblobs.blob.core.windows.net/`$web"
+          BLOB_STORAGE_URL: "https://nkdagilityblobs.blob.core.windows.net/$web"
           AZURE_BLOB_STORAGE_SAS_TOKEN: ${{ secrets.AZURE_BLOB_STORAGE_SAS_TOKEN }}
           AZCOPY_FAIL_ON_ERROR: "true"
       - name: "Rewrite Image Links"
