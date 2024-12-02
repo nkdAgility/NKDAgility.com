@@ -1,6 +1,6 @@
 # Variables
 $LocalImagesPath = ".\public\"  # Local folder containing images and HTML files
-$BlobUrl = "blob"  # URL to be used for rewriting - can be full URL or "blob" for relative paths
+$BlobUrl = "/blob"  # URL to be used for rewriting - can be full URL or "blob" for relative paths
 $BlobUrlBase = "https://nkdagilityblobs.blob.core.windows.net/`$web"  # Base URL for Blob storage
 $LocalDebug = $true
 
@@ -55,55 +55,79 @@ function Rewrite-ImageLinks {
     try {
         Write-Host "Rewriting image links in .html files using regex..."
 
-        $HtmlFiles = Get-ChildItem -Path $LocalPath -Recurse -Include *.html
+        #$HtmlFiles = Get-ChildItem -Path $LocalPath -Recurse -Include *.html
+        $HtmlFiles = Get-ChildItem -Path ".\public\capabilities\training-courses\" -File -Filter *.html
 
         foreach ($HtmlFile in $HtmlFiles) {
-            try {
-                $FileContent = Get-Content -Path (Resolve-Path $HtmlFile.FullName) -Raw
+           
+            $FileContent = Get-Content -Path (Resolve-Path $HtmlFile.FullName) -Raw
 
-                # Regex to match all src attributes with image paths
-                $ImageRegex = 'src=["'']([^"'']*\.(jpg|jpeg|png|gif|webp))["'']'
-                # Find all matches
-                $Matches = [regex]::Matches($FileContent, $ImageRegex)
+            # Regex to match all src attributes with image paths
+            $ImageRegex = '["'']([^"'']*\.(jpg|jpeg|png|gif|webp))["'']'
+            # Find all matches and make them distinct
+            $Matches = [regex]::Matches($FileContent, $ImageRegex) | Select-Object -Unique
 
-                foreach ($Match in $Matches) {
-                    $OriginalPath = $Match.Groups[1].Value
-                    $UpdatedPath = $OriginalPath
+            foreach ($Match in $Matches) {
+                $OriginalPath = $Match.Groups[1].Value
+                $UpdatedPath = $OriginalPath
 
-                    # Skip if the path already contains the BlobUrl
-                    if ($OriginalPath -match "^$BlobUrl") {
-                        continue
-                    }
+                # Skip if the path already contains the BlobUrl
+                if ($OriginalPath -like "$BlobUrl*") {
+                    continue
+                }
 
-                    # Handle all paths using $BlobUrl
-                    if ($OriginalPath.StartsWith("https://") -or $OriginalPath.StartsWith("http://")) {
-                        # Replace existing domains
-                        $UpdatedPath = "$BlobUrl/" + $OriginalPath.Split('/')[3..-1] -join '/'
-                    }
-                    elseif ($OriginalPath.StartsWith("/")) {
-                        # Absolute paths
-                        $UpdatedPath = "$BlobUrl" + $OriginalPath
-                    }
-                    else {
+                # Handle all paths using $BlobUrl
+                if ($OriginalPath.StartsWith("https://") -or $OriginalPath.StartsWith("http://")) {
+                    # Replace existing domains
+                    $UpdatedPath = "$BlobUrl/" + $OriginalPath.Split('/')[3..-1] -join '/'
+                }
+                elseif ($OriginalPath.StartsWith("/")) {
+                    # Absolute paths
+                    $UpdatedPath = "$BlobUrl" + $OriginalPath
+                }
+                else {
+                    try {
                         # Relative paths - Ensure consistency by converting to root-relative
-                        $RootRelativePath = (Resolve-Path -Path (Join-Path -Path (Split-Path -Path $HtmlFile.FullName -Parent) -ChildPath $OriginalPath)).Replace((Get-Item $LocalImagesPath).FullName, "").Replace("\", "/")
-                        $UpdatedPath = "$BlobUrl/$RootRelativePath"
-                    }
+                        # 1. Get the parent directory of the HTML file
+                        $ParentDirectory = Split-Path -Path $HtmlFile.FullName -Parent
+                        Write-Host "Parent Directory: $ParentDirectory"
 
-                    # Replace the original path in the content
-                    if ($OriginalPath -ne $UpdatedPath) {
-                        $FileContent = $FileContent -replace [regex]::Escape($OriginalPath), $UpdatedPath
-                        Write-Host "Replaced: $OriginalPath -> $UpdatedPath"
+                        # 2. Combine the parent directory with the original path
+                        $CombinedPath = Join-Path -Path $ParentDirectory -ChildPath $OriginalPath
+                        Write-Host "Combined Path: $CombinedPath"
+
+                        # 3. Resolve the full path
+                        $ResolvedPath = Resolve-Path -Path $CombinedPath
+                        Write-Host "Resolved Path: $ResolvedPath"
+
+                        # 4. Get the root-relative path
+                        $LocalImagesFullPath = (Get-Item $LocalImagesPath).FullName
+                        Write-Host "Local Images Full Path: $LocalImagesFullPath"
+
+                        $RootRelativePath = $ResolvedPath.Replace($LocalImagesFullPath, "").Replace("\", "/")
+                        Write-Host "Root Relative Path: $RootRelativePath"
+
+                        # 5. Construct the updated path
+                        $UpdatedPath = "$BlobUrl/$RootRelativePath"
+                        Write-Host "Updated Path: $UpdatedPath"
+                    }
+                    catch {
+                        Write-Host "Error resolving path: $_"
+                        continue;
                     }
                 }
 
-                # Save updated content back to the file
-                Set-Content -Path $HtmlFile.FullName -Value $FileContent
-                Write-Host "Updated: $($HtmlFile.FullName)"
+                # Replace the original path in the content
+                if ($OriginalPath -ne $UpdatedPath) {
+                    $FileContent = $FileContent -replace [regex]::Escape($OriginalPath), $UpdatedPath
+                    Write-Host "Replaced: $OriginalPath -> $UpdatedPath"
+                }
             }
-            catch {
-                Write-Host "Error processing file $($HtmlFile.FullName): $_"
-            }
+
+            # Save updated content back to the file
+            Set-Content -Path $HtmlFile.FullName -Value $FileContent
+            Write-Host "Updated: $($HtmlFile.FullName)"
+            
         }
         Write-Host "HTML link rewriting complete."
     }
@@ -118,10 +142,10 @@ cls
 $AzureSASToken = $env:AZURE_BLOB_STORAGE_SAS_TOKEN  # Environment variable for SAS token
 
 Write-Host "Starting process..."
-Upload-ImageFiles -LocalPath $LocalImagesPath -BlobUrlBase $BlobUrlBase -AzureSASToken $AzureSASToken
+#Upload-ImageFiles -LocalPath $LocalImagesPath -BlobUrlBase $BlobUrlBase -AzureSASToken $AzureSASToken
 
 if ($LocalDebug) {
-    #$LocalImagesPath = ".\public\capabilities\azure-devops-migration-services"
+    # $LocalImagesPath = ".\public\capabilities\azure-devops-migration-services"
     $BlobUrl = $BlobUrlBase 
 }
 
