@@ -22,11 +22,11 @@ if (-not $env:AZURE_BLOB_STORAGE_SAS_TOKEN) {
     exit 2
 }
 
-Upload-ImageFiles -LocalPath $env:LOCAL_IMAGE_PATH -BlobUrlBase $env:BLOB_STORAGE_URL -AzureSASToken $env:AZURE_BLOB_STORAGE_SAS_TOKEN
+#Upload-ImageFiles -LocalPath $env:LOCAL_IMAGE_PATH -BlobUrlBase $env:BLOB_STORAGE_URL -AzureSASToken $env:AZURE_BLOB_STORAGE_SAS_TOKEN
 
 # Rewrite Links in HTML Files
 Rewrite-ImageLinks -LocalPath $env:LOCAL_IMAGE_PATH -BlobUrl $env:BLOB_URL_BIT
 
-Delete-LocalImageFiles -LocalPath $env:LOCAL_IMAGE_PATH
+#Delete-LocalImageFiles -LocalPath $env:LOCAL_IMAGE_PATH
 
 Write-Host "Process complete!"

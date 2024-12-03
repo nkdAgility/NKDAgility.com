@@ -56,7 +56,8 @@ function Rewrite-ImageLinks {
             $FileContent = Get-Content -Path (Resolve-Path $HtmlFile.FullName) -Raw
 
             # Regex to match all src attributes with image paths
-            $ImageRegex = '(["'']?)(?<url>(?:https?:\/\/|\/)?(?:[\w\-.\/]+\/)*[\w\-.]+\.(?:jpg|jpeg|png|gif|webp|svg|bmp|tif|jfif))\1'
+            $ImageRegex = "(?i)(src|content|href)\s*=\s*([""']?)(?<url>[^\s""'>]+\.(jpg|jpeg|png|gif|webp|svg))\2"
+
             # Find all matches and make them distinct
             $Matches = [regex]::Matches($FileContent, $ImageRegex) | Select-Object -Unique
 
@@ -130,7 +131,7 @@ function Rewrite-ImageLinks {
 
             # Save updated content back to the file
             Set-Content -Path $HtmlFile.FullName -Value $FileContent
-            Write-Host "Updated: $($HtmlFile.FullName)"
+            Write-Host "Updated ($($Matches.count)): $($HtmlFile.FullName)"
             
         }
         Write-Host "HTML link rewriting complete."
