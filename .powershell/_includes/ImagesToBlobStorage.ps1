@@ -55,10 +55,8 @@ function Rewrite-ImageLinks {
 
     foreach ($HtmlFile in $HtmlFiles) {
        
-        $FileContent = Get-Content -Path (Resolve-Path $HtmlFile.FullName) -Raw
-
-
-
+        # $FileContent = Get-Content -Path (Resolve-Path $HtmlFile.FullName) -Raw
+        $FileContent = Get-Content -LiteralPath $HtmlFile.FullName -Raw
         # Regex to match all src attributes with image paths
         $ImageRegex = "(?i)(src|content|href)\s*=\s*([""']?)(?<url>[^\s""'>]+\.(jpg|jpeg|png|gif|webp|svg))\2"
 
