@@ -46,34 +46,40 @@ function Rewrite-ImageLinks {
         [string]$LocalPath,
         [string]$BlobUrl
     )
-    try {
-        Write-Host "Rewriting image links in .html files using regex..."
+  
+    Write-Host "Rewriting image links in .html files using regex..."
 
-        $HtmlFiles = Get-ChildItem -Path $LocalPath -Recurse -Include *.html
+    $HtmlFiles = Get-ChildItem -Path $LocalPath -Recurse -Include *.html
 
-        foreach ($HtmlFile in $HtmlFiles) {
+    $totalLinks = 0;
+
+    foreach ($HtmlFile in $HtmlFiles) {
+       
+        $FileContent = Get-Content -Path (Resolve-Path $HtmlFile.FullName) -Raw
+
+
+
+        # Regex to match all src attributes with image paths
+        $ImageRegex = "(?i)(src|content|href)\s*=\s*([""']?)(?<url>[^\s""'>]+\.(jpg|jpeg|png|gif|webp|svg))\2"
+
+        # Find all matches and make them distinct
+        $Matches = [regex]::Matches($FileContent, $ImageRegex) | Select-Object -Unique
+
+        foreach ($Match in $Matches) {
            
-            $FileContent = Get-Content -Path (Resolve-Path $HtmlFile.FullName) -Raw
-
-            # Regex to match all src attributes with image paths
-            $ImageRegex = "(?i)(src|content|href)\s*=\s*([""']?)(?<url>[^\s""'>]+\.(jpg|jpeg|png|gif|webp|svg))\2"
-
-            # Find all matches and make them distinct
-            $Matches = [regex]::Matches($FileContent, $ImageRegex) | Select-Object -Unique
-
-            foreach ($Match in $Matches) {
-                $OriginalPath = $Match.Groups['url'].Value
-                $UpdatedPath = $OriginalPath
+            $OriginalPath = $Match.Groups['url'].Value
+            $UpdatedPath = $OriginalPath
 
            
 
-                # Skip if the path already contains the BlobUrl
-                if ($OriginalPath -like "$BlobUrl*") {
-                    continue
-                }
+            # Skip if the path already contains the BlobUrl
+            if ($OriginalPath -like "$BlobUrl*") {
+                continue
+            }
 
-                # Handle all paths using $BlobUrl
-                if ($OriginalPath.StartsWith("https://") -or $OriginalPath.StartsWith("http://")) {
+            # Handle all paths using $BlobUrl
+            if ($OriginalPath.StartsWith("https://") -or $OriginalPath.StartsWith("http://")) {
+                try {
                     # Define the regex pattern
                     $allowedPattern = '^(?:https?:\/\/)?(?:nkdagility\.com|preview\.nkdagility\.com|yellow-pond-042d21b03.*\.westeurope\.5\.azurestaticapps\.net)(\/.*)?$'
                     if ($OriginalUrl -match $allowedPattern) {
@@ -84,59 +90,68 @@ function Rewrite-ImageLinks {
                     if ($OriginalUrl -match $pattern) {
                         $path = $matches['path']
                         $UpdatedPath = "$BlobUrl/" + $path -join '/'
-                    }                    
+                    }      
                 }
-                elseif ($OriginalPath.StartsWith("/")) {
-                    # Absolute paths
-                    $UpdatedPath = "$BlobUrl" + $OriginalPath
-                }
-                else {
-                    try {
-                        # Relative paths - Ensure consistency by converting to root-relative
-                        # 1. Get the parent directory of the HTML file
-                        $ParentDirectory = Split-Path -Path $HtmlFile.FullName -Parent
-                        Write-Host "Parent Directory: $ParentDirectory"
+                catch {
+                    Write-Host "  ERROR HTTP: $OriginalPath -> $UpdatedPath : $_" 
+                }              
+            }
+            elseif ($OriginalPath.StartsWith("/")) {
+                # Absolute paths
+                $UpdatedPath = "$BlobUrl" + $OriginalPath
 
-                        # 2. Combine the parent directory with the original path
-                        $CombinedPath = Join-Path -Path $ParentDirectory -ChildPath $OriginalPath
-                        Write-Host "Combined Path: $CombinedPath"
+            }
+            else {
+                try {
+                    # Relative paths - Ensure consistency by converting to root-relative
+                    # 1. Get the parent directory of the HTML file
+                    $ParentDirectory = Split-Path -Path $HtmlFile.FullName -Parent
+                    Write-Host "Parent Directory: $ParentDirectory"
 
-                        # 3. Resolve the full path
-                        $ResolvedPath = Resolve-Path -Path $CombinedPath
-                        Write-Host "Resolved Path: $ResolvedPath"
+                    # 2. Combine the parent directory with the original path
+                    $CombinedPath = Join-Path -Path $ParentDirectory -ChildPath $OriginalPath
+                    Write-Host "Combined Path: $CombinedPath"
 
-                        # 4. Get the root-relative path
-                        $LocalImagesFullPath = (Get-Item $LocalImagesPath).FullName
-                        Write-Host "Local Images Full Path: $LocalImagesFullPath"
-
-                        $RootRelativePath = $ResolvedPath.Replace($LocalImagesFullPath, "").Replace("\", "/")
-                        Write-Host "Root Relative Path: $RootRelativePath"
-
-                        # 5. Construct the updated path
-                        $UpdatedPath = "$BlobUrl/$RootRelativePath"
-                        Write-Host "Updated Path: $UpdatedPath"
-                    }
-                    catch {
-                        Write-Host "Error resolving path: $_"
+                    if (-not (Test-Path -Path $CombinedPath)) {
+                        Write-Host "  Path does not exist: $CombinedPath"
                         continue;
                     }
-                }
+                    # 3. Resolve the full path
+                    $ResolvedPath = Resolve-Path -Path $CombinedPath
+                    Write-Host "Resolved Path: $ResolvedPath"
 
-                # Replace the original path in the content
-                if ($OriginalPath -ne $UpdatedPath) {
-                    $FileContent = $FileContent -replace [regex]::Escape($OriginalPath), $UpdatedPath
-                    Write-Host "Replaced: $OriginalPath -> $UpdatedPath"
+                    # 4. Get the root-relative path
+                    $LocalImagesFullPath = (Get-Item $LocalImagesPath).FullName
+                    Write-Host "Local Images Full Path: $LocalImagesFullPath"
+
+                    $RootRelativePath = $ResolvedPath.Replace($LocalImagesFullPath, "").Replace("\", "/")
+                    Write-Host "Root Relative Path: $RootRelativePath"
+
+                    # 5. Construct the updated path
+                    $UpdatedPath = "$BlobUrl/$RootRelativePath"
+                    Write-Host "  Updated Path: $UpdatedPath"
+                }
+                catch {
+                    Write-Host "  Error resolving path: $_"
+                    continue;
                 }
             }
 
-            # Save updated content back to the file
-            Set-Content -Path $HtmlFile.FullName -Value $FileContent
-            Write-Host "Updated ($($Matches.count)): $($HtmlFile.FullName)"
+            # Replace the original path in the content
+            if ($OriginalPath -ne $UpdatedPath) {
+                $FileContent = $FileContent -replace [regex]::Escape($OriginalPath), $UpdatedPath
+                Write-Host "  Replaced: $OriginalPath -> $UpdatedPath"
+                $totalLinks += 1;
+            }
             
         }
-        Write-Host "HTML link rewriting complete."
+
+        # Save updated content back to the file
+        Set-Content -Path $HtmlFile.FullName -Value $FileContent
+        Write-Host "Updated ($($Matches.count)): $($HtmlFile.FullName)" -ForegroundColor Green
+            
     }
-    catch {
-        Write-Host "Error during HTML processing: $_"
-    }
+    Write-Host "HTML link  rewriting complete of $totalLinks."
+
+    
 }

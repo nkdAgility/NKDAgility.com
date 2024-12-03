@@ -5,7 +5,7 @@ Write-Host "Starting process..."
 
 # Variables
 if (-not $env:LOCAL_IMAGE_PATH) {
-    $env:LOCAL_IMAGE_PATH = ".\public\" # Local folder containing images and HTML files
+    $env:LOCAL_IMAGE_PATH = "C:\Users\MartinHinshelwoodNKD\Downloads\Site (5)\" # Local folder containing images and HTML files
     
 }
 Write-Host "Local Image Path: $env:LOCAL_IMAGE_PATH"
