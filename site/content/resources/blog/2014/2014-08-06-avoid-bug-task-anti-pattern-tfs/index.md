@@ -6,7 +6,6 @@ creator: Martin Hinshelwood
 id: "10662"
 layout: blog
 resourceTypes: blog
-slug: avoid-bug-task-anti-pattern-tfs
 aliases:
   - /blog/avoid-bug-task-anti-pattern-tfs
   - /avoid-bug-task-anti-pattern-tfs
