@@ -2,25 +2,26 @@
 {{- range $course := where .Site.RegularPages "Type" "course" -}}
   {{- $alias := printf "%s*" $course.RelPermalink }}
   {{- $.Scratch.Add "routes" (dict
-    "route" $alias 
+    "route" $alias
     "redirect" $course.RelPermalink
     "statusCode" 301
     )
   -}}
 {{- end }}
-{{/*  {{- range $p := sort site.AllPages "Path" }}
+{{- range $p := sort site.AllPages "Path" }}
   {{- range $alias := sort $p.Aliases }}
     {{- if not (strings.HasSuffix $alias "/") }}
       {{- $alias = printf "%s/" $alias }}
     {{- end }}
     {{- $.Scratch.Add "routes" (dict
       "route" $alias
-      "redirect" $p.RelPermalink 
+      "redirect" $p.RelPermalink
       "statusCode" 301
       )
     -}}
-  {{- end }}  
-{{- end }}*/}}
+  {{- end }}
+{{- end }}
 {{- $routes := dict "routes" ($.Scratch.Get "routes") }}
 {{- $jsonOutput := $routes | jsonify }}
 {{- (resources.FromString "staticwebapp.config.routes.json" $jsonOutput).Publish }}
+{{- (resources.FromString "routes.json" $jsonOutput).Publish }}

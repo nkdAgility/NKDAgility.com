@@ -43,11 +43,23 @@ jobs:
       nkdAgility_Ring: ${{ steps.nkdagility.outputs.Ring }}
       nkdAgility_AzureSitesEnvironment: ${{ steps.nkdagility.outputs.AzureSitesEnvironment }}
       nkdAgility_AzureSitesConfig: ${{ steps.nkdagility.outputs.AzureSitesConfig }}
+      nkdAgility_BLOB_URL_BIT: ${{ steps.nkdagility.outputs.BLOB_URL_BIT }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+      - name: List folders
+        shell: pwsh
+        run: |
+          Get-ChildItem -Path "${{ github.workspace }}" -Directory -Force | Select-Object -ExpandProperty FullName
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Scripts
+          path: "./.powershell/**"
+          if-no-files-found: error
+          include-hidden-files: true
       - name: Install GitVersion
         uses: gittools/actions/gitversion/setup@v3.0.0
         with:
@@ -93,6 +105,7 @@ jobs:
           $Ring = "Canary"
           $docs_deploy_folder = "./azure-devops-migration-tools/";
           $docs_baseURL = "/learn/azure-devops-migration-tools"
+          $BLOB_URL_BIT = "/blob"
           switch ($Env:GitVersion_PreReleaseLabel) {
               "" {
                   $Ring = "Production";
@@ -110,6 +123,7 @@ jobs:
                   $Ring = "Canary";
                   $AzureSitesEnvironment = "canary-${{ github.event.pull_request.number }}"
                   $AzureSitesConfig = "canary"
+                  $BLOB_URL_BIT = 'https://nkdagilityblobs.blob.core.windows.net/$web'
                   $docs_baseURL = "/canary/$branchSafeName"
               }
           }
@@ -122,14 +136,13 @@ jobs:
            Write-Output "We are running for the $AzureSitesConfig AzureSitesConfig!"
           echo "AzureSitesConfig=$AzureSitesConfig" >> $env:GITHUB_OUTPUT
 
+           Write-Output "We are running for the $BLOB_URL_BIT BLOB_URL_BIT!"
+          echo "BLOB_URL_BIT=$BLOB_URL_BIT" >> $env:GITHUB_OUTPUT
+
           Write-Output "docs_baseURL=$docs_baseURL"
           echo "docs_baseURL=$docs_baseURL" >> $env:GITHUB_OUTPUT
           Write-Output "-------------------------------------------"
           Write-Output "::endgroup::"
-      - uses: actions/upload-artifact@v4
-        with:
-          name: Scripts
-          path: ./.powershell/**
 
   # Setup Validator
   SetupSummeryStage:
@@ -147,7 +160,9 @@ jobs:
              ### NKDAgility
                - nkdAgility_Ring: ${{needs.Setup.outputs.nkdAgility_Ring}}
                - nkdAgility_AzureSitesEnvironment: ${{needs.Setup.outputs.nkdAgility_AzureSitesEnvironment}}
-                - nkdAgility_AzureSitesConfig: ${{needs.Setup.outputs.nkdAgility_AzureSitesConfig}}
+               - nkdAgility_AzureSitesConfig: ${{needs.Setup.outputs.nkdAgility_AzureSitesConfig}}
+               - nkdAgility_BLOB_URL_BIT: ${{needs.Setup.outputs.nkdAgility_BLOB_URL_BIT}}
+
              ### GitVersion
                - GitVersion_BranchName: ${{needs.Setup.outputs.GitVersion_BranchName}}
                - GitVersion_SemVer: ${{needs.Setup.outputs.GitVersion_SemVer}}
@@ -279,12 +294,78 @@ jobs:
           name: API
           path: ./api/**/*
 
+  # Offload Images
+  OffloadImages:
+    name: "Ofload Site Images to Blob Storage"
+    runs-on: ubuntu-latest
+    if: ${{ success() }}
+    needs: [BuildSite, Setup]
+    env:
+      GitVersion_SemVer: ${{ needs.Setup.outputs.GitVersion_SemVer }}
+      GitVersion_AssemblySemVer: ${{ needs.Setup.outputs.GitVersion_AssemblySemVer }}
+      GitVersion_InformationalVersion: ${{ needs.Setup.outputs.GitVersion_InformationalVersion }}
+    steps:
+      - name: Download a single artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: Scripts
+          path: ./.powershell/
+      - name: Download a single artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: Site
+          path: ./_site
+      - name: List folders
+        shell: pwsh
+        run: |
+          Get-ChildItem -Path "${{ github.workspace }}" -Directory -Force | Select-Object -ExpandProperty FullName
+      - name: "Sync Images to Blob Storage"
+        shell: pwsh
+        run: |
+          . ./.powershell/_includes/ImagesToBlobStorage.ps1
+          Upload-ImageFiles -LocalPath $env:LOCAL_IMAGE_PATH -BlobUrlBase $env:BLOB_STORAGE_URL -AzureSASToken $env:AZURE_BLOB_STORAGE_SAS_TOKEN
+        env:
+          LOCAL_IMAGE_PATH: "./_site/"
+          BLOB_STORAGE_URL: "https://nkdagilityblobs.blob.core.windows.net/$web"
+          AZURE_BLOB_STORAGE_SAS_TOKEN: ${{ secrets.AZURE_BLOB_STORAGE_SAS_TOKEN }}
+          AZCOPY_FAIL_ON_ERROR: "true"
+      - name: "Rewrite Image Links"
+        shell: pwsh
+        run: |
+          . ./.powershell/_includes/ImagesToBlobStorage.ps1
+          Rewrite-ImageLinks -LocalPath $env:LOCAL_IMAGE_PATH -BlobUrl $env:BLOB_URL_BIT
+        env:
+          LOCAL_IMAGE_PATH: "./_site/"
+          BLOB_URL_BIT: ${{needs.Setup.outputs.nkdAgility_BLOB_URL_BIT}}
+      - name: "Delete Local Images"
+        shell: pwsh
+        run: |
+          . ./.powershell/_includes/ImagesToBlobStorage.ps1
+          Delete-LocalImageFiles -LocalPath $env:LOCAL_IMAGE_PATH
+        env:
+          LOCAL_IMAGE_PATH: "./_site/"
+      # - name: "Build NKDAgility Outputs"
+      #   shell: pwsh
+      #   run: ./.powershell/build/Sync-BlobStorageImages.ps1
+      #   env:
+      #     LOCAL_IMAGE_PATH: "./_site/"
+      #     BLOB_URL_BIT: "/blob"
+      #     BLOB_STORAGE_URL: "https://nkdagilityblobs.blob.core.windows.net/`$web"
+      #     AZURE_BLOB_STORAGE_SAS_TOKEN: ${{ secrets.AZURE_BLOB_STORAGE_SAS_TOKEN }}
+      #     AZCOPY_FAIL_ON_ERROR: "true"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Site-Blobbed
+          path: ./_site/**/*
+
   # Release to Docs
   Publsh:
     name: "Publish Site"
     runs-on: ubuntu-latest
-    needs: [Setup, BuildSite, Spellcheck]
+    needs: [Setup, BuildSite, Spellcheck, OffloadImages]
     if: ${{ success() }}
+    outputs:
+      static_web_app_url: ${{ steps.azureDeploy.outputs.static_web_app_url }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -292,7 +373,7 @@ jobs:
       - name: Download a single artifact
         uses: actions/download-artifact@v4
         with:
-          name: Site
+          name: Site-Blobbed
           path: ./_site
       - name: Download a single artifact
         if: ${{ false }}
