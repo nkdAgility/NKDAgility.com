@@ -145,7 +145,7 @@ function Rewrite-ImageLinks {
         }
 
         # Save updated content back to the file
-        Set-Content -Path $HtmlFile.FullName -Value $FileContent
+        Set-Content -LiteralPath $HtmlFile.FullName -Value $FileContent
         Write-Host "Updated ($($Matches.count)): $($HtmlFile.FullName)" -ForegroundColor Green
             
     }
