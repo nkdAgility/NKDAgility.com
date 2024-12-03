@@ -74,6 +74,8 @@ cascade:
       path: /tags/**
     _build:
       render: never
+  - _build:
+      publishResources: false
 
 permalinks:
   taxonomy:
