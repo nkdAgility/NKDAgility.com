@@ -123,7 +123,7 @@ jobs:
                   $Ring = "Canary";
                   $AzureSitesEnvironment = "canary-${{ github.event.pull_request.number }}"
                   $AzureSitesConfig = "canary"
-                  $BLOB_URL_BIT = "https://nkdagilityblobs.blob.core.windows.net/``$web"
+                  $BLOB_URL_BIT = 'https://nkdagilityblobs.blob.core.windows.net/$web'
                   $docs_baseURL = "/canary/$branchSafeName"
               }
           }
