@@ -12,11 +12,9 @@ on:
     branches: ["main"]
   workflow_dispatch:
     inputs:
-      ForceRelease:
-        description: "Force a release! Use when changes hapen out of sync and `src` and `docs` folder changes are not detected."
+      environment:
+        description: "Overide the Production environemnt for the build."
         required: false
-        default: false
-        type: boolean
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
@@ -106,10 +104,11 @@ jobs:
           $docs_deploy_folder = "./azure-devops-migration-tools/";
           $docs_baseURL = "/learn/azure-devops-migration-tools"
           $BLOB_URL_BIT = "/blob"
+
           switch ($Env:GitVersion_PreReleaseLabel) {
               "" {
                   $Ring = "Production";
-                  $AzureSitesEnvironment = ""
+                  $AzureSitesEnvironment = "${{ github.event.inputs.environment }}"
                   $AzureSitesConfig = "production"
                   $docs_baseURL = "/"
               }    
