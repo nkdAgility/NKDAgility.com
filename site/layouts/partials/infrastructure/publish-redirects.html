@@ -8,6 +8,9 @@
     )
   -}}
 {{- end }}
+{{- $routes := dict "routes" ($.Scratch.Get "routes") }}
+{{- $jsonOutput := $routes | jsonify }}
+{{- (resources.FromString "routes.json" $jsonOutput).Publish }}
 {{- range $p := sort site.AllPages "Path" }}
   {{- range $alias := sort $p.Aliases }}
     {{- if not (strings.HasSuffix $alias "/") }}
@@ -24,4 +27,3 @@
 {{- $routes := dict "routes" ($.Scratch.Get "routes") }}
 {{- $jsonOutput := $routes | jsonify }}
 {{- (resources.FromString "staticwebapp.config.routes.json" $jsonOutput).Publish }}
-{{- (resources.FromString "routes.json" $jsonOutput).Publish }}
