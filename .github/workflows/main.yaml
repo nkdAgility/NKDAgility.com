@@ -11,10 +11,6 @@ on:
   pull_request:
     branches: ["main"]
   workflow_dispatch:
-    inputs:
-      environment:
-        description: "Overide the Production environemnt for the build."
-        required: false
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
@@ -108,7 +104,7 @@ jobs:
           switch ($Env:GitVersion_PreReleaseLabel) {
               "" {
                   $Ring = "Production";
-                  $AzureSitesEnvironment = "${{ github.event.inputs.environment }}"
+                  $AzureSitesEnvironment = "${{ vars.PRODUCTION_ENVIRONMENT_STATIC_SITES }}"
                   $AzureSitesConfig = "production"
                   $docs_baseURL = "/"
               }    
