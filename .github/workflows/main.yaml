@@ -11,12 +11,6 @@ on:
   pull_request:
     branches: ["main"]
   workflow_dispatch:
-    inputs:
-      ForceRelease:
-        description: "Force a release! Use when changes hapen out of sync and `src` and `docs` folder changes are not detected."
-        required: false
-        default: false
-        type: boolean
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
@@ -106,10 +100,11 @@ jobs:
           $docs_deploy_folder = "./azure-devops-migration-tools/";
           $docs_baseURL = "/learn/azure-devops-migration-tools"
           $BLOB_URL_BIT = "/blob"
+
           switch ($Env:GitVersion_PreReleaseLabel) {
               "" {
                   $Ring = "Production";
-                  $AzureSitesEnvironment = ""
+                  $AzureSitesEnvironment = "${{ vars.PRODUCTION_ENVIRONMENT_STATIC_SITES }}"
                   $AzureSitesConfig = "production"
                   $docs_baseURL = "/"
               }    
@@ -400,13 +395,13 @@ jobs:
           # Paths to main and environment-specific config files
           $rootConfig = "./_site/staticwebapp.config.json"
           $environmentConfig = "./_site/staticwebapp.config.${{ (needs.Setup.outputs.nkdAgility_AzureSitesConfig) }}.json"
-          $routesConfig = "./_site/staticwebapp.config.routes.json"
+          # $routesConfig = "./_site/staticwebapp.config.routes.json"
 
           # Check if both target files exist
           if ((Test-Path -Path $rootConfig -ErrorAction Stop) -and (Test-Path -Path $environmentConfig -ErrorAction Stop)) {
               try {
                   # Run jq to merge files and capture the output
-                  $mergedContent = & jq -s 'reduce .[] as $item ({}; . * $item)' $rootConfig $environmentConfig $routesConfig 
+                  $mergedContent = & jq -s 'reduce .[] as $item ({}; . * $item)' $rootConfig $environmentConfig # $routesConfig 
 
                   if ($mergedContent -ne "") {
                       # Write the merged content to the output file
