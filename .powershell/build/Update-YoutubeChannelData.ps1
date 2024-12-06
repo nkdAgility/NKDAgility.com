@@ -13,8 +13,8 @@ $videoUpdateLimit = 50
 $maxYoutubeSearchResults = 1000
 $maxYoutubeDataAgeHours = 8
 
-$captionsManafestUpdateLimit = 10
-$captionsDownloadLimit = 0
+$captionsManafestUpdateLimit = 50
+$captionsDownloadLimit = 50
 
 $accessToken = Get-OAuthTokenFromRefreshToken -clientId $env:GOOGLE_CLINET_ID -clientSecret $env:GOOGLE_CLINET_SECRET -refreshToken $env:GOOGLE_REFRESH_TOKEN
 
@@ -57,7 +57,7 @@ else {
 if ($fetchYoutubeChannelVideos) {
     $videoData = Get-YoutubeChannelVideos -channelId $channelId -authType AccessToken -maxResults $maxYoutubeSearchResults -token $accessToken
     # Save all video data to a single youtube.json file
-    if ($searchResults -eq $null) {
+    if ($videoData -eq $null) {
         Write-Host "ERROR No videos found. Exiting." -ForegroundColor Red
         exit
     }
@@ -75,6 +75,12 @@ $captionsDownloadCount = 0
 foreach ($video in $videoData.Videos) {
     
     Write-Host "Processing $($video.contentDetails.videoId)"  -ForegroundColor Green
+
+    if ($env:GOOGLE_QUOTA_OK -eq $false) {
+        Write-Host "  No Quota: Skipping" -ForegroundColor Yellow
+        continue;
+    }
+   
 
     $videoId = $video.contentDetails.videoId
     # Create the directory named after the video ID
@@ -129,10 +135,12 @@ foreach ($video in $videoData.Videos) {
             $captionFilePath = Join-Path $videoDir $captionsFileName
             if (-not (Test-Path $captionFilePath)) {
                 if ($captionsDownloadCount -lt $captionsDownloadLimit) {
-                    $captionData = Get-YouTubeCaption -captionId $captionId -accessToken $accessToken
-                    $captionData | Set-Content -Path $captionFilePath
-                    Write-Host "  Updated $captionsFileName for video: $videoId"
-                    $captionsDownloadCount++
+                    $captionData = Get-YouTubeCaption -captionId $captionId -token $accessToken
+                    if ($captionData) {
+                        $captionData | Set-Content -Path $captionFilePath
+                        Write-Host "  Updated $captionsFileName for video: $videoId"
+                        $captionsDownloadCount++
+                    }
                 }
                 else {
                     Write-Host "  Reached capations download limit of $captionsDownloadLimit. skipping."
