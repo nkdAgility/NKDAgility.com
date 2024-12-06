@@ -13,7 +13,7 @@ $videoUpdateLimit = 50
 $maxYoutubeSearchResults = 1000
 $maxYoutubeDataAgeHours = 8
 
-$captionsManafestUpdateLimit = 10
+$captionsManafestUpdateLimit = 100
 $captionsDownloadLimit = 0
 
 $accessToken = Get-OAuthTokenFromRefreshToken -clientId $env:GOOGLE_CLINET_ID -clientSecret $env:GOOGLE_CLINET_SECRET -refreshToken $env:GOOGLE_REFRESH_TOKEN
@@ -57,7 +57,7 @@ else {
 if ($fetchYoutubeChannelVideos) {
     $videoData = Get-YoutubeChannelVideos -channelId $channelId -authType AccessToken -maxResults $maxYoutubeSearchResults -token $accessToken
     # Save all video data to a single youtube.json file
-    if ($searchResults -eq $null) {
+    if ($videoData -eq $null) {
         Write-Host "ERROR No videos found. Exiting." -ForegroundColor Red
         exit
     }
