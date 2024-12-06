@@ -13,8 +13,8 @@ $videoUpdateLimit = 50
 $maxYoutubeSearchResults = 1000
 $maxYoutubeDataAgeHours = 8
 
-$captionsManafestUpdateLimit = 100
-$captionsDownloadLimit = 0
+$captionsManafestUpdateLimit = 50
+$captionsDownloadLimit = 50
 
 $accessToken = Get-OAuthTokenFromRefreshToken -clientId $env:GOOGLE_CLINET_ID -clientSecret $env:GOOGLE_CLINET_SECRET -refreshToken $env:GOOGLE_REFRESH_TOKEN
 
