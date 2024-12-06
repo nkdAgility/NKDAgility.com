@@ -129,7 +129,7 @@ foreach ($video in $videoData.Videos) {
             $captionFilePath = Join-Path $videoDir $captionsFileName
             if (-not (Test-Path $captionFilePath)) {
                 if ($captionsDownloadCount -lt $captionsDownloadLimit) {
-                    $captionData = Get-YouTubeCaption -captionId $captionId -accessToken $accessToken
+                    $captionData = Get-YouTubeCaption -captionId $captionId -token $accessToken
                     $captionData | Set-Content -Path $captionFilePath
                     Write-Host "  Updated $captionsFileName for video: $videoId"
                     $captionsDownloadCount++
