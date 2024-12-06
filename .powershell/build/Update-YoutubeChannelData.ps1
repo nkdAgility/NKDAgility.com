@@ -76,6 +76,12 @@ foreach ($video in $videoData.Videos) {
     
     Write-Host "Processing $($video.contentDetails.videoId)"  -ForegroundColor Green
 
+    if ($env:GOOGLE_QUOTA_OK -eq $false) {
+        Write-Host "  No Quota: Skipping" -ForegroundColor Yellow
+        continue;
+    }
+   
+
     $videoId = $video.contentDetails.videoId
     # Create the directory named after the video ID
     $videoDir = Join-Path $outputDir $videoId
