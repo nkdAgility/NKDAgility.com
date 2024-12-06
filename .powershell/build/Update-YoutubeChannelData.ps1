@@ -130,9 +130,11 @@ foreach ($video in $videoData.Videos) {
             if (-not (Test-Path $captionFilePath)) {
                 if ($captionsDownloadCount -lt $captionsDownloadLimit) {
                     $captionData = Get-YouTubeCaption -captionId $captionId -token $accessToken
-                    $captionData | Set-Content -Path $captionFilePath
-                    Write-Host "  Updated $captionsFileName for video: $videoId"
-                    $captionsDownloadCount++
+                    if ($captionData) {
+                        $captionData | Set-Content -Path $captionFilePath
+                        Write-Host "  Updated $captionsFileName for video: $videoId"
+                        $captionsDownloadCount++
+                    }
                 }
                 else {
                     Write-Host "  Reached capations download limit of $captionsDownloadLimit. skipping."
