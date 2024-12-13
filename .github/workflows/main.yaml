@@ -104,7 +104,12 @@ jobs:
           switch ($Env:GitVersion_PreReleaseLabel) {
               "" {
                   $Ring = "Production";
-                  $AzureSitesEnvironment = "${{ vars.PRODUCTION_ENVIRONMENT_STATIC_SITES }}"
+                  $PRODUCTION_ENVIRONMENT_STATIC_SITES = "${{ vars.PRODUCTION_ENVIRONMENT_STATIC_SITES }}"
+                  if ($PRODUCTION_ENVIRONMENT_STATIC_SITES -eq "production") {
+                    $AzureSitesEnvironment = ""
+                  } else {
+                    $AzureSitesEnvironment = $PRODUCTION_ENVIRONMENT_STATIC_SITES
+                  }
                   $AzureSitesConfig = "production"
                   $docs_baseURL = "/"
               }    
