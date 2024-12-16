@@ -228,7 +228,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: "latest"
+          hugo-version: "${{ vars.HUGO_BUILD_VERSION }}" 
           extended: true
 
       - name: Build
