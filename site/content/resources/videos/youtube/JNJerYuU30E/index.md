@@ -1,7 +1,8 @@
 ---
 title: Most Influential Person in Agile - Jerónimo Palacios
 description: 'Discover how Jerónimo Palacios, a key figure in Agile, has influenced careers in this insightful short by Martin Hinshelwood. #Agile #Scrum #Leadership'
-date: 2023-05-04T07:00:07Z
+date:
+  Length: 20
 videoId: JNJerYuU30E
 url: /resources/videos/:slug
 slug: most-influential-person-in-agile-jerónimo-palacios

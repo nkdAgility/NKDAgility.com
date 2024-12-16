@@ -1,7 +1,8 @@
 ---
 title: Why do you think the Advanced PSPO course is a perfect fit for entrepreneurs?
 description: Discover how the Advanced PSPO course empowers entrepreneurs to master product vision and management, shaping impactful product development strategies.
-date: 2023-05-08T07:00:15Z
+date:
+  Length: 20
 videoId: spfK8bCulwU
 url: /resources/videos/:slug
 slug: why-do-you-think-the-advanced-pspo-course-is-a-perfect-fit-for-entrepreneurs-

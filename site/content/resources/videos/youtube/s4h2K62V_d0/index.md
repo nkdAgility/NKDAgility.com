@@ -1,7 +1,8 @@
 ---
 title: Shifting Left. Quality from the Start
 description: Discover how to integrate quality from the start in software development with Martin Hinshelwood. Embrace shifting left for better products and reduced technical debt!
-date: 2024-11-20T07:00:26Z
+date:
+  Length: 20
 videoId: s4h2K62V_d0
 url: /resources/videos/:slug
 slug: shifting-left-quality-from-the-start

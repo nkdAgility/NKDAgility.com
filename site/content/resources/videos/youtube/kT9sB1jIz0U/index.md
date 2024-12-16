@@ -1,7 +1,8 @@
 ---
 title: Why I love hierarchies of competence
 description: 'Discover why Martin Hinshelwood prefers hierarchies of competence over control, empowering experts to drive success in agile environments. #shorts #agile'
-date: 2023-05-03T09:30:09Z
+date:
+  Length: 20
 videoId: kT9sB1jIz0U
 url: /resources/videos/:slug
 slug: why-i-love-hierarchies-of-competence

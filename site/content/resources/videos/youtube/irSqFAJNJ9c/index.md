@@ -1,7 +1,8 @@
 ---
 title: What does a poor scrum team look, act and feel like?
 description: Discover the signs of a struggling Scrum team and learn how to harness the full potential of the Scrum framework for better productivity and success.
-date: 2023-01-27T07:00:16Z
+date:
+  Length: 20
 videoId: irSqFAJNJ9c
 source: internal
 url: /resources/videos/:slug

@@ -1,7 +1,8 @@
 ---
 title: Performance Engineering for Optimal User Experience
 description: Discover how performance engineering enhances user experience! Join Martin Hinshelwood as he shares strategies for optimising software in production.
-date: 2024-11-23T07:00:12Z
+date:
+  Length: 20
 videoId: DSIXtHZTirA
 source: youtube
 url: /resources/videos/:slug

@@ -1,7 +1,8 @@
 ---
 title: How to Achieve Predictability in Business through Agile Principles
 description: "Unlock business predictability with Agile! Join Martin Hinshelwood as he explores strategies to overcome challenges and drive consistent success. \U0001F31F"
-date: 2024-10-08T10:33:32Z
+date:
+  Length: 20
 videoId: G1BQG2tsbYg
 source: internal
 url: /resources/videos/:slug

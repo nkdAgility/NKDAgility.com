@@ -1,7 +1,8 @@
 ---
 title: Overview of the 8-week Immersive learning experience
 description: "Discover the power of immersive learning in Scrum and project management! Join Martin as he explores real-world applications and transformative training. \U0001F30D✨"
-date: 2023-06-08T07:00:30Z
+date:
+  Length: 20
 videoId: qrEqX_5FWM8
 url: /resources/videos/:slug
 slug: overview-of-the-8-week-immersive-learning-experience

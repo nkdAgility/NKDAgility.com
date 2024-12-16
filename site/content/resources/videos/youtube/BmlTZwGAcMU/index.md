@@ -1,7 +1,8 @@
 ---
 title: 'Immersive Learning in Scrum: Why Theory and Experience Must Go Hand in Hand'
 description: Discover how immersive learning enhances your skills as a Scrum practitioner in this engaging video. Unlock your potential with NKD Agility!
-date: 2024-02-08T07:00:06Z
+date:
+  Length: 20
 videoId: BmlTZwGAcMU
 source: internal
 url: /resources/videos/:slug

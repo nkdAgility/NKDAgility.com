@@ -1,7 +1,8 @@
 ---
 title: Agile Consulting Services overview
 description: Discover NKD Agility's Agile Consulting services in this video, where Martin Hinshelwood explains how we empower teams to thrive in agile environments.
-date: 2023-06-17T07:30:02Z
+date:
+  Length: 20
 videoId: 82_yTGt9pLM
 url: /resources/videos/:slug
 slug: agile-consulting-services-overview

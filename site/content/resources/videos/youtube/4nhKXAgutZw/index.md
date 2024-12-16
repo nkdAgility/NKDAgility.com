@@ -1,7 +1,8 @@
 ---
 title: 'The Power of Kindness in Agile: A Core Virtue for Success'
 description: "Discover how kindness transforms Agile! Explore empathy's role in boosting customer satisfaction and employee engagement for organisational success. \U0001F31F"
-date: 2023-12-11T07:00:01Z
+date:
+  Length: 20
 videoId: 4nhKXAgutZw
 source: internal
 url: /resources/videos/:slug

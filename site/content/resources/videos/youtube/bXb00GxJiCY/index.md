@@ -1,7 +1,8 @@
 ---
 title: The Power of Immersive Learning in Scrum Training
 description: 'Discover the third reason why immersive learning transforms Scrum training for students! Dive into the experience with us. #immersivelearning #Scrum #shorts'
-date: 2024-02-02T07:00:16Z
+date:
+  Length: 20
 videoId: bXb00GxJiCY
 source: internal
 url: /resources/videos/:slug

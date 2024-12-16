@@ -1,7 +1,8 @@
 ---
 title: 5 tools that Scrum Masters love. Part 3
 description: "Discover why quality cameras are essential for Scrum Masters! Enhance engagement and decode body language for better team dynamics. \U0001F3A5 #scrum #scrummaster"
-date: 2023-09-21T07:00:14Z
+date:
+  Length: 20
 videoId: gWTCvlUzSZo
 url: /resources/videos/:slug
 slug: 5-tools-that-scrum-masters-love-part-3

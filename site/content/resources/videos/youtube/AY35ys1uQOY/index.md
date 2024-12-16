@@ -1,7 +1,8 @@
 ---
 title: How do you know if you've got a great Sprint Goal?
 description: 'Discover how to craft a valuable sprint goal in Scrum! Join Martin Hinshelwood for insights that align teams with strategic objectives. #Agile #Scrum #Shorts'
-date: 2023-06-02T11:00:12Z
+date:
+  Length: 20
 videoId: AY35ys1uQOY
 source: internal
 url: /resources/videos/:slug

@@ -1,7 +1,8 @@
 ---
 title: Why is Lego a shit idea for a scrum trainer - Part 3
 description: Martin Hinshelwood critiques the use of Lego in scrum training, arguing executives prefer valuable learning over play. Discover his insights in this short video!
-date: 2023-10-05T07:00:04Z
+date:
+  Length: 20
 videoId: AJ8-c0l7oRQ
 source: internal
 url: /resources/videos/:slug

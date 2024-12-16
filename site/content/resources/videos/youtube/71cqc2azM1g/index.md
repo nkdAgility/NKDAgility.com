@@ -1,7 +1,8 @@
 ---
 title: NKDA Webcast Product Ownership Lean Product Development 20231005 090457 Meeting Recording
 description: Join Dr. Joanna Płaskonka and Martin Hinshelwood in this 18-minute webcast as they explore Product Ownership and Lean Product Development insights!
-date: 2023-10-05T15:19:26Z
+date:
+  Length: 20
 videoId: 71cqc2azM1g
 source: youtube
 url: /resources/videos/:slug

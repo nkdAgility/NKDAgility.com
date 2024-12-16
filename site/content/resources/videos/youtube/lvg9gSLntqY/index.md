@@ -1,7 +1,8 @@
 ---
 title: Why does project management not work in complex environments?
 description: 'Discover why traditional project management fails in complex environments. Martin Hinshelwood explains the need for agile solutions. #agile #projectmanagement'
-date: 2023-05-23T07:00:30Z
+date:
+  Length: 20
 videoId: lvg9gSLntqY
 source: internal
 url: /resources/videos/:slug

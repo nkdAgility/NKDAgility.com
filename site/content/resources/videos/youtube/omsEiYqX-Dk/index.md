@@ -1,7 +1,8 @@
 ---
 title: How much competitive advantage does organizational agility offer versus traditional management?
 description: "Unlock the power of organizational agility! Discover how it outshines traditional management for swift market response and team empowerment. \U0001F680\U0001F4C8"
-date: 2023-09-01T07:00:18Z
+date:
+  Length: 20
 videoId: omsEiYqX-Dk
 source: youtube
 url: /resources/videos/:slug

@@ -1,7 +1,8 @@
 ---
 title: How good is the APSPO course in helping leaders determine product direction and Why?
 description: Discover how the PSPO-A course empowers managers to transition from project to product leadership, enhancing product vision and team alignment in Agile.
-date: 2023-03-22T07:00:17Z
+date:
+  Length: 20
 videoId: nTxn_izPBFQ
 source: internal
 url: /resources/videos/:slug

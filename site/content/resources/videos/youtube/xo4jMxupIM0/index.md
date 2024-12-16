@@ -1,7 +1,8 @@
 ---
 title: What makes the PSM immersive learning experience so unique
 description: Discover the power of PSM immersive learning! Martin Hinshelwood reveals how it elevates Scrum Masters to new heights in just two days.
-date: 2023-11-20T07:51:59Z
+date:
+  Length: 20
 videoId: xo4jMxupIM0
 source: youtube
 url: /resources/videos/what-makes-the-psm-immersive-learning-experience-so-unique

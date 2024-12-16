@@ -1,7 +1,8 @@
 ---
 title: Innovation does not need to cost a lot of money!
 description: Discover how affordable innovation can thrive! Learn how Scrum enables rapid prototyping without breaking the bank in this insightful video.
-date: 2022-01-03T13:18:35Z
+date:
+  Length: 20
 videoId: ki7fpThJiPw
 source: youtube
 url: /resources/videos/:slug

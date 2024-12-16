@@ -1,7 +1,8 @@
 ---
 title: Monitoring and Measuring for Success
 description: Discover how to shift from traditional budgeting to hypothesis-driven product development for maximum impact with Martin Hinshelwood from NKD Agility.
-date: 2024-12-11T06:30:00Z
+date:
+  Length: 20
 videoId: Ig-HpUfQr3M
 source: youtube
 url: /resources/videos/:slug

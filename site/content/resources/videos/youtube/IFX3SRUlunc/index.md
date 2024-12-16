@@ -1,7 +1,8 @@
 ---
 title: 5 October 2023 Product Ownership and Lean Product Development Workshop with Martin and Joanna
 description: "Join experts Joanna Płaskonka and Martin Hinshelwood in this 18-minute workshop to explore Product Ownership and Lean Product Development! \U0001F31F"
-date: 2023-09-28T08:29:48Z
+date:
+  Length: 20
 videoId: IFX3SRUlunc
 source: youtube
 url: /resources/videos/:slug

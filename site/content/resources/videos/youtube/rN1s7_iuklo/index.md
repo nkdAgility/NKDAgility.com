@@ -1,7 +1,8 @@
 ---
 title: Empowering Teams to Maximize Value and Return on Investment
 description: "Unlock your team's potential! Discover how empowering Agile teams boosts innovation, adaptability, and ROI in this insightful video. Click to learn more! \U0001F4BC\U0001F4C8"
-date: 2024-07-24T06:45:04Z
+date:
+  Length: 20
 videoId: rN1s7_iuklo
 source: internal
 url: /resources/videos/:slug

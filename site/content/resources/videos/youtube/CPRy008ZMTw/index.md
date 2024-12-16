@@ -1,7 +1,8 @@
 ---
 title: 31 December 2021
 description: Join us as we reflect on the highlights and memorable moments of 2021, capturing the essence of the year in a captivating visual journey.
-date: 2021-12-31T22:45:35Z
+date:
+  Length: 20
 videoId: CPRy008ZMTw
 source: youtube
 url: /resources/videos/:slug

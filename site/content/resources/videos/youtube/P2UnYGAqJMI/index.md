@@ -1,7 +1,8 @@
 ---
 title: 'The Pitfalls of Agile Burndowns: Stop Being Agile Bandits'
 description: 'Discover the 4th kind of Agile bandit with Martin Hinshelwood! Uncover insights on burndown charts and enhance your Agile journey. #Agile #Scrum #Shorts'
-date: 2024-01-09T11:00:51Z
+date:
+  Length: 20
 videoId: P2UnYGAqJMI
 source: internal
 url: /resources/videos/:slug

@@ -1,7 +1,8 @@
 ---
 title: Why Immersive Learning Keeps Scrum Students Excited and Engaged
 description: 'Discover why immersive learning transforms Scrum training! Join us for Part 2 as we explore the second reason to love this engaging experience. #Shorts'
-date: 2024-02-01T07:00:09Z
+date:
+  Length: 20
 videoId: OyeZgnqESKE
 source: internal
 url: /resources/videos/:slug

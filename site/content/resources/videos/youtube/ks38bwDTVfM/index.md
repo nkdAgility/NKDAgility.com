@@ -1,7 +1,8 @@
 ---
 title: What are 3 things you would recommend for a scrum team who are struggling to get work completed?
 description: "Master Sprint planning with expert tips on defining 'done', avoiding overload, and managing technical debt for a more agile team! \U0001F680 #Scrum #Agile"
-date: 2023-11-16T07:00:16Z
+date:
+  Length: 20
 videoId: ks38bwDTVfM
 source: youtube
 url: /resources/videos/:slug

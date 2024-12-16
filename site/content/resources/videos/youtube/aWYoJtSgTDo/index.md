@@ -1,7 +1,8 @@
 ---
 title: The importance of knowing the territory.
 description: Discover how navigating new territories, like mushroom foraging, parallels agile leadership in seizing opportunities and making informed decisions.
-date: 2023-08-10T13:30:01Z
+date:
+  Length: 20
 videoId: aWYoJtSgTDo
 url: /resources/videos/:slug
 slug: the-importance-of-knowing-the-territory-

@@ -1,7 +1,8 @@
 ---
 title: What is the one thing that no Agile team can survive?
 description: Discover how contempt for leadership can cripple agile teams. Learn to foster a positive culture and boost productivity in this insightful video!
-date: 2023-10-17T11:00:23Z
+date:
+  Length: 20
 videoId: c0ncdBixyfo
 source: internal
 url: /resources/videos/:slug

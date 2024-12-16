@@ -1,7 +1,8 @@
 ---
 title: War! 7 Harbingers agile apocalypse. But shorter!
 description: Discover how to de-escalate team conflict and foster collaboration in Agile environments. Learn valuable tips for creating a positive workplace! ⚔️✌️
-date: 2023-10-30T14:30:10Z
+date:
+  Length: 20
 videoId: Wk0no7MB0AM
 url: /resources/videos/:slug
 slug: war!-7-harbingers-agile-apocalypse-but-shorter!

@@ -1,7 +1,8 @@
 ---
 title: PSPO S1 2m
 description: Unlock the secrets of PSPO S1 in just 2 minutes! Dive into key insights and strategies to elevate your skills and knowledge. Don't miss out!
-date: 2021-10-07T19:39:35Z
+date:
+  Length: 20
 videoId: fErvo8yvVmo
 source: youtube
 url: /resources/videos/:slug

@@ -1,7 +1,8 @@
 ---
 title: 'Story Points: A Ghost of Agile Past'
 description: "Uncover the hidden challenges of story points in Agile! Join Martin as he explores their pitfalls and advocates for a value-driven approach. \U0001F47B\U0001F680 #AgileChallenges"
-date: 2023-12-29T07:00:14Z
+date:
+  Length: 20
 videoId: beR21RHTUvo
 source: internal
 url: /resources/videos/:slug

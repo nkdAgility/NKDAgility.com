@@ -1,7 +1,8 @@
 ---
 title: What would you look to achieve with a new scrum team in the first 90 days?
 description: 'Discover what to achieve with a new scrum team in 90 days! Join Martin Hinshelwood from NKD Agility for insights on effective agile consulting. #Agile #Scrum'
-date: 2023-06-27T07:00:06Z
+date:
+  Length: 20
 videoId: 4kqM1U7y1ZM
 url: /resources/videos/:slug
 slug: what-would-you-look-to-achieve-with-a-new-scrum-team-in-the-first-90-days-

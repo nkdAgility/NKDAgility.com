@@ -1,7 +1,8 @@
 ---
 title: Continuous Integration and Continuous Delivery CI CD for Quality
 description: Unlock the true potential of CI/CD! Join Martin Hinshelwood as he reveals best practices for Continuous Integration and Delivery to enhance quality and speed.
-date: 2024-11-22T07:00:08Z
+date:
+  Length: 20
 videoId: IZ-FlBbGaSY
 source: youtube
 url: /resources/videos/:slug

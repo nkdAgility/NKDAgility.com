@@ -1,7 +1,8 @@
 ---
 title: What are some of the most common misconceptions you encounter about the Scrum Master role?
 description: "Uncover the truth about the Scrum Master role! Join me as I debunk common misconceptions and highlight the importance of competence over mere practices. \U0001F331\U0001F680"
-date: 2024-10-25T07:02:17Z
+date:
+  Length: 20
 videoId: Cia3d_y9akQ
 url: /resources/videos/:slug
 slug: what-are-some-of-the-most-common-misconceptions-you-encounter-about-the-scrum-master-role-

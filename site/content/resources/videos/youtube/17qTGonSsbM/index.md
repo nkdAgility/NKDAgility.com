@@ -1,7 +1,8 @@
 ---
 title: 'The Importance of Evaluating Direction: Are You Heading the Right Way?'
 description: "Evaluate your project's direction! \U0001F9ED Discover how to make informed choices and adapt in a changing world. Join us for insights and guidance! \U0001F4A1"
-date: 2024-01-20T07:00:00Z
+date:
+  Length: 20
 videoId: 17qTGonSsbM
 source: internal
 url: /resources/videos/:slug

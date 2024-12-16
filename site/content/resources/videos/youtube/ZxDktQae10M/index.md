@@ -1,7 +1,8 @@
 ---
 title: 2018 VSTS Sync Migration Tools Overview
 description: Discover the VSTS Sync Migration Tools in this quick overview! Learn about installation, configuration, and how to run the tools effectively.
-date: 2017-12-30T18:57:40Z
+date:
+  Length: 20
 videoId: ZxDktQae10M
 url: /resources/videos/:slug
 slug: 2018-vsts-sync-migration-tools-overview

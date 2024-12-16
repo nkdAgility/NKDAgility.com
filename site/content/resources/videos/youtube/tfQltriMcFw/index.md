@@ -1,7 +1,8 @@
 ---
 title: Scrum Training 1
 description: 'Join us for Scrum Training #1, where we explore Scrum in action through engaging videos that enhance your understanding of agile methodologies!'
-date: 2017-05-22T14:42:15Z
+date:
+  Length: 20
 videoId: tfQltriMcFw
 source: youtube
 url: /resources/videos/:slug

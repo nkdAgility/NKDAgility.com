@@ -1,7 +1,8 @@
 ---
 title: Ep 003 - Daniel Vacanti on live online PSK in Edinburgh
 description: Join Daniel Vacanti for a live chat about the Professional Scrum with Kanban course in Edinburgh on 18th May 2020. Get insights and ask your questions!
-date: 2020-04-01T16:26:05Z
+date:
+  Length: 20
 videoId: xaLNCbr9o3Y
 url: /resources/videos/:slug
 slug: ep-003-daniel-vacanti-on-live-online-psk-in-edinburgh

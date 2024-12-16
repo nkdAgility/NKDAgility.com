@@ -1,7 +1,8 @@
 ---
 title: How does the lack of basic skills among Scrum Masters impact teams and organizations
 description: Discover how competent Scrum Masters drive team success by bridging theory and practice, enhancing productivity, and delivering real business results.
-date: 2024-10-21T05:32:11Z
+date:
+  Length: 20
 videoId: r9aCEFpUHWU
 url: /resources/videos/:slug
 slug: how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations

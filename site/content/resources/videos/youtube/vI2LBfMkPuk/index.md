@@ -1,7 +1,8 @@
 ---
 title: What is your favourite agile course to deliver and why?
 description: Join Martin Hinshelwood as he shares his favourite agile course, revealing why it’s a transformative experience for both him and his delegates.
-date: 2023-01-09T12:36:53Z
+date:
+  Length: 20
 videoId: vI2LBfMkPuk
 url: /resources/videos/:slug
 slug: what-is-your-favourite-agile-course-to-deliver-and-why-

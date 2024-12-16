@@ -1,7 +1,8 @@
 ---
 title: Most Rewarding Part of Being a Scrum Developer?
 description: 'Discover the most rewarding aspect of being a Scrum developer with Martin Hinshelwood. Join us for insights on teamwork and agile success! #scrum #agile #shorts'
-date: 2023-06-23T11:00:09Z
+date:
+  Length: 20
 videoId: F0jOj6ql330
 source: internal
 url: /resources/videos/:slug

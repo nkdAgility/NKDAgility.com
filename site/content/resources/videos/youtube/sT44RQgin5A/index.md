@@ -1,7 +1,8 @@
 ---
 title: 'Evidence-Based Management: The Four Key Value Areas in Scrum'
 description: Discover the four key value areas of Evidence-Based Management to optimise your organisation's success and drive innovation. Unlock your potential today!
-date: 2024-09-13T07:00:34Z
+date:
+  Length: 20
 videoId: sT44RQgin5A
 source: internal
 url: /resources/videos/:slug

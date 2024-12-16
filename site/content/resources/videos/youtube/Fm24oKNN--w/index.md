@@ -1,7 +1,8 @@
 ---
 title: nkdAgility Healthgrades Interview CJSingh
 description: Join Martin Hinshelwood as he transforms Healthgrades with Scrum training, uniting teams and igniting a journey towards enhanced business agility!
-date: 2017-07-27T18:16:30Z
+date:
+  Length: 20
 videoId: Fm24oKNN--w
 url: /resources/videos/:slug
 slug: nkdagility-healthgrades-interview-cjsingh

@@ -1,7 +1,8 @@
 ---
 title: My Journey into DevOps! From Web Developer to Author, Speaker, & Thought Leader.
 description: "Join me on my DevOps journey from web developer to thought leader! Discover insights, challenges, and strategies for transforming software delivery. \U0001F680"
-date: 2024-04-04T11:34:59Z
+date:
+  Length: 20
 videoId: icX4XpolVLE
 url: /resources/videos/:slug
 slug: my-journey-into-devops!-from-web-developer-to-author,-speaker,-&-thought-leader-

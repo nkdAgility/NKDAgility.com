@@ -1,7 +1,8 @@
 ---
 title: How to Make a Mobile Paper Prototype YouTube
 description: Learn to create a mobile paper prototype in this step-by-step YouTube tutorial, perfect for designers looking to visualise their app ideas quickly!
-date: 2022-01-03T11:14:25Z
+date:
+  Length: 20
 videoId: d0mG3YakfFQ
 source: youtube
 url: /resources/videos/:slug

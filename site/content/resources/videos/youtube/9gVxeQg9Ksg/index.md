@@ -2,7 +2,8 @@
 title: Discovery Martin Hinshelwood nkdAgility com Angelos Karastergios
 description: Join Martin Hinshelwood and Angelos Karastergios as they explore the innovative world of nkdAgility, uncovering insights and strategies for agile success.
 ExpiryDate: 2020-05-11T17:29:48.0000000Z
-date: 2020-05-11T17:29:48Z
+date:
+  Length: 20
 videoId: 9gVxeQg9Ksg
 source: youtube
 url: /resources/videos/:slug

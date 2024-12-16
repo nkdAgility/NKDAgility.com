@@ -1,7 +1,8 @@
 ---
 title: 5 October 2023 Product Ownership and Lean Product Development Webinar
 description: 'Join Dr. Joanna Płaskonka and Martin Hinshelwood in this 18-minute webinar to explore Product Ownership and Lean Product Development insights! #shorts'
-date: 2023-09-28T09:01:38Z
+date:
+  Length: 20
 videoId: UW26aDoBVbQ
 url: /resources/videos/:slug
 slug: 5-october-2023-product-ownership-and-lean-product-development-webinar

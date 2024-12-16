@@ -1,7 +1,8 @@
 ---
 title: Scrum With Azure DevOps!
 description: "Transform your Scrum practices with Azure DevOps! Discover setup tips, myth-busting, and tools to boost your team's efficiency. Join the journey! \U0001F31F\U0001F6E0️"
-date: 2024-04-03T17:21:43Z
+date:
+  Length: 20
 videoId: 5IBKxYLA494
 url: /resources/videos/:slug
 slug: scrum-with-azure-devops!

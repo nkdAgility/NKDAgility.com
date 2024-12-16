@@ -1,7 +1,8 @@
 ---
 title: Managing Technical Debt to Minimize Costs
 description: Discover how to manage technical debt effectively to reduce costs and enhance product quality. Learn key strategies and real-world examples in this insightful video!
-date: 2024-12-19T06:00:00Z
+date:
+  Length: 20
 videoId: npnQtdLEwQY
 source: youtube
 url: /resources/videos/:slug

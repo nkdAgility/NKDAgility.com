@@ -1,7 +1,8 @@
 ---
 title: The Cost Saving Power of Automation
 description: Discover how automation transforms software development by reducing errors and enhancing efficiency. Learn from Azure DevOps' rapid feedback success!
-date: 2024-12-18T06:45:00Z
+date:
+  Length: 20
 videoId: sdIPSpbeA9w
 source: youtube
 url: /resources/videos/:slug

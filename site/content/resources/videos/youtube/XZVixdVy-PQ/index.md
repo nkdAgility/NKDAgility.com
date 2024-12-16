@@ -1,7 +1,8 @@
 ---
 title: 'Redefining Agile’s Core: Beyond Rituals and Procedures'
 description: "Discover the true essence of Agile with Ken Schwaber! Learn how to innovate software development beyond rituals for better results. \U0001F31F"
-date: 2024-01-22T07:00:11Z
+date:
+  Length: 20
 videoId: XZVixdVy-PQ
 source: internal
 url: /resources/videos/:slug

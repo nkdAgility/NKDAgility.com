@@ -1,7 +1,8 @@
 ---
 title: Agile Evolution - Live Site Culture & Site Reliability at Azure DevOps
 description: Explore Azure DevOps' journey to a robust live site culture, balancing engineering responsibilities with transparency and reliability in a SaaS environment.
-date: 2020-06-04T02:05:28Z
+date:
+  Length: 20
 videoId: 5bgcpPqcGlw
 url: /resources/videos/:slug
 slug: agile-evolution-live-site-culture-&-site-reliability-at-azure-devops

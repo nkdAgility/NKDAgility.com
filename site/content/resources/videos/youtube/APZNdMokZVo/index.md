@@ -1,7 +1,8 @@
 ---
 title: What is a definition of done? Why is it so important?
 description: "Unlock the essence of 'Definition of Done' in Scrum! Discover its vital role in ensuring product quality and risk mitigation in Agile frameworks. \U0001F680\U0001F4C8"
-date: 2023-11-13T06:56:47Z
+date:
+  Length: 20
 videoId: APZNdMokZVo
 url: /resources/videos/:slug
 slug: what-is-a-definition-of-done-why-is-it-so-important-

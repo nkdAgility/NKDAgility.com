@@ -1,7 +1,8 @@
 ---
 title: Harris Beach SDS Ultrabook Unbox
 description: Join us as we unbox the Harris Beach SDS Ultrabook! Discover its sleek design and features. Full review at nakedalm.com/review-harris-beach-sds-ultrabook.
-date: 2013-07-25T19:42:35Z
+date:
+  Length: 20
 videoId: msmlRibX2zE
 url: /resources/videos/:slug
 slug: harris-beach-sds-ultrabook-unbox

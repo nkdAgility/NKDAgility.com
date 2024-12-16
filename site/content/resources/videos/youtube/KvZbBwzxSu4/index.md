@@ -1,7 +1,8 @@
 ---
 title: 'The Strategic Imperative: Empowering Teams with Vision, Goals, and Direction'
 description: Unlock your team's potential! Discover how a shared vision and clear goals drive organisational success and empower informed decision-making. Watch now!
-date: 2024-08-08T06:45:00Z
+date:
+  Length: 20
 videoId: KvZbBwzxSu4
 source: internal
 url: /resources/videos/:slug

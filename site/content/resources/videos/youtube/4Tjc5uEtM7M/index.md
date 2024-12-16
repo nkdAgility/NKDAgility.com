@@ -1,7 +1,8 @@
 ---
 title: DevOps Migration. Lack of Expertise
 description: Discover why expert help is crucial for a smooth Azure DevOps migration. Learn about complexities, data issues, and the benefits of professional guidance!
-date: 2024-11-08T05:45:01Z
+date:
+  Length: 20
 videoId: 4Tjc5uEtM7M
 url: /resources/videos/:slug
 slug: devops-migration-lack-of-expertise

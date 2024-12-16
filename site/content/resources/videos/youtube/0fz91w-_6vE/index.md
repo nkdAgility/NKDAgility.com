@@ -1,7 +1,8 @@
 ---
 title: What is your primary role in a DevOps consulting gig?
 description: Join Martin Hinshelwood as he explores his key role in DevOps consulting, addressing common challenges across diverse industries. Discover insights for success!
-date: 2023-05-02T07:00:00Z
+date:
+  Length: 20
 videoId: 0fz91w-_6vE
 url: /resources/videos/:slug
 slug: what-is-your-primary-role-in-a-devops-consulting-gig-

@@ -1,7 +1,8 @@
 ---
 title: Must have trait in an Agile Consultant
 description: 'Discover the essential trait every agile consultant needs to excel in solving complex problems quickly. Join Martin Hinshelwood in this insightful short! #Agile #Consulting'
-date: 2023-05-01T09:30:00Z
+date:
+  Length: 20
 videoId: agPLmBdXdbk
 source: internal
 url: /resources/videos/:slug

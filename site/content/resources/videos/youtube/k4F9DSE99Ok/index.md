@@ -1,7 +1,8 @@
 ---
 title: Famine! 7 Harbingers agile apocalypse. But shorter!
 description: Discover how Famine, one of the 7 signs of the agile apocalypse, can hinder your team's success. Learn to avoid feedback starvation!
-date: 2023-10-31T07:00:18Z
+date:
+  Length: 20
 videoId: k4F9DSE99Ok
 url: /resources/videos/:slug
 slug: famine!-7-harbingers-agile-apocalypse-but-shorter!

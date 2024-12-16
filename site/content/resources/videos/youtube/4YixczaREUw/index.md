@@ -1,7 +1,8 @@
 ---
 title: Many folks say Scrum is like communism; it does not work! Are they right?
 description: Unpack the myths linking Scrum to communism! Discover 5 misconceptions that hinder Scrum adoption and learn how to embrace its true potential.
-date: 2024-05-06T14:12:53Z
+date:
+  Length: 20
 videoId: 4YixczaREUw
 url: /resources/videos/:slug
 slug: many-folks-say-scrum-is-like-communism;-it-does-not-work!-are-they-right-

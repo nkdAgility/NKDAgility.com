@@ -1,7 +1,8 @@
 ---
 title: naked Agility with Martin Hinshelwood Live Stream
 description: Join Martin Hinshelwood in this live stream as he explores the principles of naked Agility, offering insights and practical tips for agile practices.
-date: 2020-10-23T21:29:50Z
+date:
+  Length: 20
 videoId: gy3SEB3Ygrs
 source: youtube
 url: /resources/videos/:slug

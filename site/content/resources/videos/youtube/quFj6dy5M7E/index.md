@@ -1,7 +1,8 @@
 ---
 title: Building a High Performance Delivery Engine
 description: Join Martin Hinshelwood as he uncovers the secrets to building a high-performance delivery engine, blending Agile, Lean, and DevOps for organisational excellence.
-date: 2024-12-03T06:30:00Z
+date:
+  Length: 20
 videoId: quFj6dy5M7E
 source: youtube
 url: /resources/videos/:slug

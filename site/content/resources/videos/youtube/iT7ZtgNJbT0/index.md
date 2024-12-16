@@ -1,7 +1,8 @@
 ---
 title: What was your best day as an Agile consultant?
 description: Join Martin Hinshelwood as he shares his most impactful day as an agile consultant, highlighting the power of inspired teams in agile environments.
-date: 2023-03-27T07:00:30Z
+date:
+  Length: 20
 videoId: iT7ZtgNJbT0
 source: internal
 url: /resources/videos/:slug

@@ -1,7 +1,8 @@
 ---
 title: Agile leader versus traditional manager
 description: 'Discover the key differences between an agile leader and a traditional manager in this insightful short video by Martin Hinshelwood. #Agile #Leadership'
-date: 2023-05-02T09:30:14Z
+date:
+  Length: 20
 videoId: ZQZeM20TO4c
 source: internal
 url: /resources/videos/:slug

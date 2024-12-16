@@ -1,7 +1,8 @@
 ---
 title: 'Detecting Agile BS: Lessons from the Department of Defense'
 description: "Is your development ecosystem truly Agile? Discover insights from the DoD and learn to eliminate bottlenecks for seamless, innovative delivery! \U0001F680"
-date: 2024-08-02T06:45:02Z
+date:
+  Length: 20
 videoId: kVt5KP9dg8Q
 source: internal
 url: /resources/videos/:slug

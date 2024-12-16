@@ -1,7 +1,8 @@
 ---
 title: Most destructive thing a client can do to an agile consultant?
 description: Discover how traditional management practices can undermine agile consultants. Join Martin Hinshelwood as he reveals key pitfalls to avoid for success!
-date: 2023-05-01T07:00:05Z
+date:
+  Length: 20
 videoId: DceVQ5JQaUw
 url: /resources/videos/:slug
 slug: most-destructive-thing-a-client-can-do-to-an-agile-consultant-

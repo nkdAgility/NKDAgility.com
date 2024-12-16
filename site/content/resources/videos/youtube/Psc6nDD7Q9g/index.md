@@ -1,7 +1,8 @@
 ---
 title: Maximizing Transparency and Improvement in Software Engineering with Kanban
 description: Unlock the power of Kanban! Discover how it enhances software engineering processes, boosts efficiency, and fosters team collaboration. Watch now!
-date: 2024-07-29T06:45:02Z
+date:
+  Length: 20
 videoId: Psc6nDD7Q9g
 source: internal
 url: /resources/videos/:slug

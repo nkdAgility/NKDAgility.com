@@ -1,7 +1,8 @@
 ---
 title: '7 deadly sins of Agile: Gluttony'
 description: "Discover the pitfalls of gluttony in Agile! \U0001F354 Learn how bloated backlogs and overloaded sprints waste effort and hinder success. Watch now! \U0001F4CA✨"
-date: 2023-10-11T11:35:09Z
+date:
+  Length: 20
 videoId: 2ASLFX2i9_g
 source: internal
 url: /resources/videos/:slug

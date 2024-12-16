@@ -1,7 +1,8 @@
 ---
 title: Scaled Professaional Scrum (SPS) with Nexus
 description: Master scaling Scrum with the Scaled Professional Scrum (SPS) course using the Nexus framework. Gain skills, tackle challenges, and earn your certification!
-date: 2022-08-18T15:24:30Z
+date:
+  Length: 20
 videoId: nxA1Jo4J0dg
 source: youtube
 url: /resources/videos/:slug

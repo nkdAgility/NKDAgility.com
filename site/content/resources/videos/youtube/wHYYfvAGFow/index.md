@@ -1,7 +1,8 @@
 ---
 title: What is Taylorism and how did it influence project management?
 description: "Discover how Taylorism revolutionised project management, shaping work dynamics from the Industrial Revolution to today's people-centric approaches. \U0001F4C8\U0001F570️"
-date: 2023-02-22T07:00:28Z
+date:
+  Length: 20
 videoId: wHYYfvAGFow
 source: internal
 url: /resources/videos/:slug

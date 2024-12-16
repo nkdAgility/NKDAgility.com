@@ -1,7 +1,8 @@
 ---
 title: The Power of Continuous Learning for Product Owners
 description: "Unlock your potential as a product owner! Discover the power of continuous learning and stay ahead in the ever-evolving world of product management. \U0001F680"
-date: 2023-12-19T07:00:11Z
+date:
+  Length: 20
 videoId: XKmWMXagVgQ
 source: internal
 url: /resources/videos/:slug

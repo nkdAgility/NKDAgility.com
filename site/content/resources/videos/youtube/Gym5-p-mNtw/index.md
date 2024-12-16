@@ -1,7 +1,8 @@
 ---
 title: Agile Your Secret Weapon for Cost Control
 description: Unlock the secrets of cost control in software development! Join Martin Hinshelwood as he reveals how agility and engineering excellence boost ROI.
-date: 2024-12-17T06:00:00Z
+date:
+  Length: 20
 videoId: Gym5-p-mNtw
 source: youtube
 url: /resources/videos/:slug

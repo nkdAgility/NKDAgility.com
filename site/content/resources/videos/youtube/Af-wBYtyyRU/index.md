@@ -1,7 +1,8 @@
 ---
 title: 'Mastering Evidence-Based Management (EBM) for Product Owners: Maximizing Value Delivery'
 description: Unlock product success with the PAL EBM course! Discover how evidence-based management empowers product owners to make informed decisions and maximise value.
-date: 2024-01-29T07:00:07Z
+date:
+  Length: 20
 videoId: Af-wBYtyyRU
 source: internal
 url: /resources/videos/:slug

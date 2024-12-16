@@ -1,7 +1,8 @@
 ---
 title: Kanban principles
 description: 'Discover the core principles of Kanban and enhance your Agile project management skills. Watch now! #agile #kanban #agileframework'
-date: 2024-08-17T19:03:52Z
+date:
+  Length: 20
 videoId: 220tyMrhSFE
 url: /resources/videos/:slug
 slug: kanban-principles

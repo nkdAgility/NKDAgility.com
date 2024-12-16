@@ -1,7 +1,8 @@
 ---
 title: Lean example from The Founder YouTube
 description: Explore the principles of Lean methodology through a captivating example from 'The Founder'. Discover efficiency and innovation in action!
-date: 2022-01-03T11:14:35Z
+date:
+  Length: 20
 videoId: DgIETaRjZWs
 source: youtube
 url: /resources/videos/:slug

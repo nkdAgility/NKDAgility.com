@@ -1,7 +1,8 @@
 ---
 title: No go zone for Agile consultants
 description: 'Discover common pitfalls for new agile consultants and learn how to excel in your role with expert insights from Martin Hinshelwood. #Agile #Consulting #Shorts'
-date: 2023-05-10T09:30:14Z
+date:
+  Length: 20
 videoId: ZnXrAarX1Wg
 source: internal
 url: /resources/videos/:slug

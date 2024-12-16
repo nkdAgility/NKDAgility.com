@@ -1,7 +1,8 @@
 ---
 title: The Power of Automated Testing
 description: Discover how automated testing transforms software engineering, reducing errors and speeding up feedback for high-quality, efficient delivery.
-date: 2024-11-21T07:00:11Z
+date:
+  Length: 20
 videoId: BAwBXYtKj7o
 url: /resources/videos/:slug
 slug: the-power-of-automated-testing

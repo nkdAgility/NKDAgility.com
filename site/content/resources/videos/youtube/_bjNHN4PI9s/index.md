@@ -1,7 +1,8 @@
 ---
 title: Ep 007 - Running a Live Virtual Classroom
 description: Discover how to maximise your experience in live virtual classrooms using Microsoft Teams and Mural. Get tech-savvy for successful learning!
-date: 2020-05-02T16:34:05Z
+date:
+  Length: 20
 videoId: _bjNHN4PI9s
 url: /resources/videos/:slug
 slug: ep-007-running-a-live-virtual-classroom

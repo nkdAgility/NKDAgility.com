@@ -1,7 +1,8 @@
 ---
 title: How Do You Know the Value Currently Delivered in Your Organization?
 description: "Unlock your organisation's potential with EBM! Discover 5 compelling reasons to embrace evidence-based management in your environment. #EBM #Shorts"
-date: 2024-01-23T11:00:05Z
+date:
+  Length: 20
 videoId: 5qtS7DYGi5Q
 source: internal
 url: /resources/videos/:slug

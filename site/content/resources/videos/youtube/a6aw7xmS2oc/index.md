@@ -1,7 +1,8 @@
 ---
 title: What are the top 3 things a product owner needs to bear in mind when adopting an entrepreneur stance
 description: "Unlock the entrepreneurial mindset! Discover 3 key insights for product owners to connect teams to value and make evidence-based decisions. \U0001F680\U0001F4CA"
-date: 2023-09-20T07:00:00Z
+date:
+  Length: 20
 videoId: a6aw7xmS2oc
 url: /resources/videos/:slug
 slug: what-are-the-top-3-things-a-product-owner-needs-to-bear-in-mind-when-adopting-an-entrepreneur-stance

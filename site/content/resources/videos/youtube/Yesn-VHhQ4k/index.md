@@ -1,7 +1,8 @@
 ---
 title: Why does Agile focus on values and principles rather than a prescribed set of steps?
 description: Discover why Agile prioritises values and principles over rigid steps, enabling teams to navigate complexity and uncertainty effectively.
-date: 2023-01-23T07:00:14Z
+date:
+  Length: 20
 videoId: Yesn-VHhQ4k
 source: internal
 url: /resources/videos/:slug

@@ -1,7 +1,8 @@
 ---
 title: 'Agile is Not New: A Journey Back to the Basics'
 description: "Explore Agile's rich history and its evolution in this insightful video by Martin Hinshelwood, revealing how to reclaim its true value in modern business. \U0001F30D\U0001F4A1"
-date: 2024-10-10T15:48:56Z
+date:
+  Length: 20
 videoId: XhPHa1RXrWo
 source: internal
 url: /resources/videos/:slug

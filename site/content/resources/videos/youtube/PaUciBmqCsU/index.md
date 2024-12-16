@@ -1,7 +1,8 @@
 ---
 title: Understanding the Power of Kanban in Scrum
 description: Discover why the Kanban vs. Scrum debate is misguided! Learn how Kanban can enhance your Scrum process and optimise any workflow for superior results.
-date: 2024-08-05T06:45:00Z
+date:
+  Length: 20
 videoId: PaUciBmqCsU
 source: internal
 url: /resources/videos/:slug

@@ -1,7 +1,8 @@
 ---
 title: Bitrate for Joshua Partogi
 description: Explore the intricacies of bitrate with Joshua Partogi as he breaks down its impact on video quality and streaming performance in this insightful video.
-date: 2020-06-29T14:01:55Z
+date:
+  Length: 20
 videoId: 7x7lsuwkcAs
 source: youtube
 url: /resources/videos/:slug

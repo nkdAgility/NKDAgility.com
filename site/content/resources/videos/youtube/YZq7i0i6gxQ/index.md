@@ -1,7 +1,8 @@
 ---
 title: Free Workshop 5 - Introduction to Agile Leadership!
 description: Join Martin Hinshelwood for a free 90m workshop on Agile Leadership, tailored for leaders managing Scrum Teams. Watch live or catch the replay!
-date: 2021-10-01T05:22:15Z
+date:
+  Length: 20
 videoId: YZq7i0i6gxQ
 source: youtube
 url: /resources/videos/:slug

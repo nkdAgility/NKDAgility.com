@@ -1,7 +1,8 @@
 ---
 title: Scrum doesn't solve problems, it reveals them. How, and why is that valuable?
 description: "Discover how Scrum reveals organisational challenges and enhances progress. Join Martin as he explores its true value in this insightful video! \U0001F680\U0001FA9E"
-date: 2023-09-27T07:00:29Z
+date:
+  Length: 20
 videoId: Ys0dWfKVSeA
 source: internal
 url: /resources/videos/:slug

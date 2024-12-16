@@ -1,7 +1,8 @@
 ---
 title: nkdagility mighty networks overview for PST
 description: Discover the power of nkdagility's Mighty Networks in this overview tailored for PST. Unlock community potential and enhance your networking experience!
-date: 2021-12-15T12:29:23Z
+date:
+  Length: 20
 videoId: ZMqxCD-va_I
 source: youtube
 url: /resources/videos/:slug

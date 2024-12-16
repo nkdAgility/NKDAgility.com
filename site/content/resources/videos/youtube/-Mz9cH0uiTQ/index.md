@@ -1,7 +1,8 @@
 ---
 title: Does a client tell an agile consultant what they need or does it work the other way around?
 description: Discover whether clients guide agile consultants or vice versa. Martin Hinshelwood shares insights on navigating agile transitions effectively.
-date: 2023-03-01T07:00:00Z
+date:
+  Length: 20
 videoId: -Mz9cH0uiTQ
 url: /resources/videos/:slug
 slug: does-a-client-tell-an-agile-consultant-what-they-need-or-does-it-work-the-other-way-around-

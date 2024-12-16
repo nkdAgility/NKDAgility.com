@@ -2,7 +2,8 @@
 title: 5/7/2020 1 - 01 - 14 PM
 description: Discover the highlights of our latest event in this engaging video recap, showcasing key moments and insights from 5/7/2020. Don't miss it!
 ExpiryDate: 2020-05-07T12:02:19.0000000Z
-date: 2020-05-07T12:02:19Z
+date:
+  Length: 20
 videoId: iRrEjx1mOgk
 source: youtube
 url: /resources/videos/:slug

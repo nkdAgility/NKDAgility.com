@@ -1,7 +1,8 @@
 ---
 title: Reasons to do a PSPO-A Course in 60 Seconds
 description: 'Discover why the Advanced PSPO-A course is a game-changer for your career in just 60 seconds! Join Martin Hinshelwood for insights. #Agile #Scrum #Shorts'
-date: 2023-07-11T14:00:32Z
+date:
+  Length: 20
 videoId: faoWuCkKC0U
 source: internal
 url: /resources/videos/:slug

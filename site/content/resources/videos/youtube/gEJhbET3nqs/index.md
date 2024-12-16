@@ -1,7 +1,8 @@
 ---
 title: Professional Agile Leadership Essentials Overview
 description: Unlock your organisation's potential with our Agile Leadership Essentials course. Learn to enhance agility, support teams, and measure success effectively.
-date: 2020-07-07T20:10:33Z
+date:
+  Length: 20
 videoId: gEJhbET3nqs
 url: /resources/videos/:slug
 slug: professional-agile-leadership-essentials-overview

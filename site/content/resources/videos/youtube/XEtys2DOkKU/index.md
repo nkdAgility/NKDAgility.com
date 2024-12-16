@@ -1,7 +1,8 @@
 ---
 title: Considerations for your Azure DevOps migration. Excerpt 1
 description: 'Explore key compromises to consider for your Azure DevOps migration in this insightful excerpt. Watch the full video on our channel! #agile #devops'
-date: 2024-09-18T11:59:33Z
+date:
+  Length: 20
 videoId: XEtys2DOkKU
 url: /resources/videos/:slug
 slug: considerations-for-your-azure-devops-migration-excerpt-1

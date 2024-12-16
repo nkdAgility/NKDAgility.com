@@ -1,7 +1,8 @@
 ---
 title: 30% Discount for Existing Alumni Overview
 description: 'Unlock a 30% discount on your learning journey! Join Martin Hinshelwood as he reveals how NKD Agility supports alumni with exclusive offers. #shorts'
-date: 2023-06-09T11:00:46Z
+date:
+  Length: 20
 videoId: ypVIcgSEvMc
 source: internal
 url: /resources/videos/:slug

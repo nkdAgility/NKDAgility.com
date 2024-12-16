@@ -1,7 +1,8 @@
 ---
 title: What should have been way more popular in Agile than it currently is?
 description: "Unlock the secret to Agile success! Discover why principles, not just tools, are key to effective practices in this insightful video with Martin. \U0001F31F"
-date: 2023-05-03T07:00:33Z
+date:
+  Length: 20
 videoId: y2TObrUi3m0
 url: /resources/videos/:slug
 slug: what-should-have-been-way-more-popular-in-agile-than-it-currently-is-

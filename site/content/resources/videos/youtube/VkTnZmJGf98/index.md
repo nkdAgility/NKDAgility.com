@@ -1,7 +1,8 @@
 ---
 title: 'Evidence-Based Management: The Key to Agile Success'
 description: Unlock the power of evidence-based management to enhance agility! Discover how data-driven strategies drive market success and organisational growth.
-date: 2024-01-26T07:00:25Z
+date:
+  Length: 20
 videoId: VkTnZmJGf98
 source: internal
 url: /resources/videos/:slug

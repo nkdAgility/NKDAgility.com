@@ -1,7 +1,8 @@
 ---
 title: PSM1 9 with subs
 description: Discover the essentials of PSM1 9 with subtitles, guiding you through key concepts and practical insights for mastering the subject. Perfect for learners!
-date: 2022-07-28T11:14:44Z
+date:
+  Length: 20
 videoId: 6KQQ4MLMnj0
 source: youtube
 url: /resources/videos/:slug
