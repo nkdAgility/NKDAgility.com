@@ -60,15 +60,23 @@ function Rewrite-ImageLinks {
         # Regex to match all src attributes with image paths
         $ImageRegex = "(?i)(src|content|href)\s*=\s*([""']?)(?<url>[^\s""'>]+\.(jpg|jpeg|png|gif|webp|svg))\2"
 
-        # Find all matches and make them distinct
-        $Matches = [regex]::Matches($FileContent, $ImageRegex) | Select-Object -Unique
+        # Find all matches and ensure uniqueness based on the 'url' group
+        $Matches = [regex]::Matches($FileContent, $ImageRegex)
+        $UniqueUrls = @()
 
         foreach ($Match in $Matches) {
-           
-            $OriginalPath = $Match.Groups['url'].Value
-            $UpdatedPath = $OriginalPath
+            $Url = $Match.Groups['url'].Value
+        
+            # Add the URL to the array if it's not already included
+            if ($Url -notin $UniqueUrls) {
+                $UniqueUrls += $Url
+            }
+        }    
 
+        foreach ($UniqueUrl in $UniqueUrls) {
            
+            $OriginalPath = $UniqueUrl
+            $UpdatedPath = $OriginalPath
 
             # Skip if the path already contains the BlobUrl
             if ($OriginalPath -like "$BlobUrl*") {
