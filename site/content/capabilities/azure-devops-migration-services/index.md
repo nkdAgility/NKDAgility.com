@@ -66,12 +66,6 @@ sections:
           - *Project manipulation*: We have experience in both TFS and Azure DevOps in splitting or merging projects within a collection/account or between them.
           - *Account / Collection Consolidation*: We can move a Project from one collection/account to another.
     source: inline
-  - title: Courses For Azure DevOps
-    content: Here is a list of courses related to Azure DevOps.
-    type: courses
-    related:
-      - /capabilities/training-courses/accentient-managing-projects-using-visual-studio-and-scrum
-    source: data
   - title: null
     content: null
     type: videos
@@ -80,6 +74,11 @@ sections:
       - resources/videos/youtube/_rJoehoYIVA
       - resources/videos/youtube/Wvdh1lJfcLM
       - resources/videos/youtube/3jYFD-6_kZk
+    source: data
+  - title: Methodology and Options
+    content: |
+      Within the context of any engagement, we will leverage our expertise to support you and your teams in becoming more effective. This may involve technical assistance, such as migrations, tactical workshops focused on team operations, or strategic workshops aimed at leadership and the PMO. Our approach is centered around enhancing processes, practices, and tools to optimize value delivery and enable effective monitoring of its impact. Depending on the level of assistance and engagement required, we propose three options:
+    type: options
     source: data
 ---
 
