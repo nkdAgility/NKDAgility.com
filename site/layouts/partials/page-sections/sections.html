@@ -22,6 +22,8 @@
           {{- partial "page-sections/sections-taxonomies.html" (dict "site" $site "context" $section) }}
         {{- else if eq $section.type "phases" }}
           {{- partial "page-sections/sections-phases.html" (dict "site" $site "context" $section) }}
+        {{- else if eq $section.type "options" }}
+          {{- partial "page-sections/sections-consulting-options.html" (dict "Page" $page "site" $site "context" $section) }}
         {{- else if eq $section.type "types" }}
           {{- partial "page-sections/sections-types.html" (dict "site" $site "context" $section) }}
         {{- else if eq $section.type "otherpages" }}
