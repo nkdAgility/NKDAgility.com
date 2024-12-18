@@ -9,7 +9,7 @@ menus:
       pre: <i class="fa-solid fa-code"></i>
       weight: 20
 aliases:
-  - /terms/
+  - /working/
 headline:
   cards: []
   title: Working with Us
@@ -20,7 +20,9 @@ We operate on a fixed-price model, removing the need for time tracking or seekin
 
 To ensure quality and focus, we limit the number of concurrent customers and never start more than one engagement at a time. This allows us to dedicate the time you need while understanding that we won’t be fully engaged for the entire timebox. Typically, this means we work for you around one-third of the time, but the first few days or weeks often require more focus as we kick off. We don’t track hours, and Iwe don’t overbook engagements.
 
-For your procurement needs, we provide [Supplier and Bank Account Details](/accounts), along with the general supplier and insurance information, as well as [Terms of Business](/terms) for the engagement.
+For your procurement needs, we provide [Supplier and Bank Account Details](/accounts), along with the general supplier and insurance information, as well as [Terms of Business](/terms) for the engagement. 
+
+As part of our partnership we want you to be able to [communicate with us](/communicate) as easily as posible. We use Microsoft Teams and the linked instructions will allow your IT department to configure your systems to allow us to communicate with you.
 
 We will provide a proposal for the engagement that contains the following sections:
 

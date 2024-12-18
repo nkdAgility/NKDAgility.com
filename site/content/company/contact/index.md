@@ -6,6 +6,7 @@ layout: booking
 aliases:
   - /book-online/
   - /contact/
+  - /book/
 headline:
   subtitle: Book a free consultation, training review, or just a chat
   cards: []
