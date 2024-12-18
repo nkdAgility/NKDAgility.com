@@ -36,7 +36,7 @@ To enable your users to communicate with nkdagility.com via Microsoft Teams, adj
 
 This configuration ensures that your users can communicate with users from nkdagility.com. 
 
-[Microsoft Learn: Manage external access in Microsoft Teams](https://learn.microsoft.com/en-us/microsoftteams/manage-external-access)
+[Microsoft Learn: Manage external access in Microsoft Teams](https://learn.microsoft.com/en-us/microsoftteams/trusted-organizations-external-meetings-chat)
 
 **2. Configuring Microsoft Entra ID (Azure Active Directory) for Cross-Tenant Access**
 
@@ -67,7 +67,7 @@ To establish a trusted relationship between your organisation and nkdagility.com
 
 These configurations establish a controlled and secure collaboration environment between your organisation and nkdagility.com. 
 
-[Microsoft Learn: Configure cross-tenant access settings in Azure Active Directory](https://learn.microsoft.com/en-us/azure/active-directory/external-identities/cross-tenant-access-settings)
+[Microsoft Learn: Configure cross-tenant access settings in Azure Active Directory](https://learn.microsoft.com/en-us/entra/external-id/cross-tenant-access-settings-b2b-collaboration)
 
 **3. Testing the Configuration**
 
