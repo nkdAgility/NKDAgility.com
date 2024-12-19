@@ -16,7 +16,7 @@ tags:
 - annoucement
 categories:
 - agility
-preview: Professional-Agile-Leadership-Evidence-Based-Management-6-6.jpg
+preview: images/Professional-Agile-Leadership-Evidence-Based-Management-6-6.jpg
 
 ---
 I have been an [accredited Evidence-based Management Expert with Scrum.org](https://www.scrum.org/ebm-experts) for the last 7 years and I have been using the [Evidence-based Management Guide](https://nkdagility.com/the-evidence-based-management-guide-measuring-value-to-enable-improvement-and-agility/) to encourage leaders to make decisions based on evidence instead of gut feel.
