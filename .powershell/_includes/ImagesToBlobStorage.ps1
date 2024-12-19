@@ -127,10 +127,10 @@ function Rewrite-ImageLinks {
                     Write-Host "Resolved Path: $ResolvedPath"
 
                     # 4. Get the root-relative path
-                    $LocalImagesFullPath = (Get-Item $LocalImagesPath).FullName
+                    $LocalImagesFullPath = (Get-Item $LocalPath).FullName
                     Write-Host "Local Images Full Path: $LocalImagesFullPath"
 
-                    $RootRelativePath = $ResolvedPath.Replace($LocalImagesFullPath, "").Replace("\", "/")
+                    $RootRelativePath = $ResolvedPath.Path.Replace($LocalImagesFullPath, "").Replace("\", "/")
                     Write-Host "Root Relative Path: $RootRelativePath"
 
                     # 5. Construct the updated path
