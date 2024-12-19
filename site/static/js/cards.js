@@ -1,31 +1,46 @@
 document.addEventListener("DOMContentLoaded", function () {
-  document.querySelectorAll(".card").forEach(function (card) {
+  console.log("DOM fully loaded and parsed.");
+
+  document.querySelectorAll(".card").forEach(function (card, index) {
+    console.log(`Processing card ${index + 1}`);
+
     var textContainer = card.querySelector(".card-text-expander");
-    if (textContainer) {
-      var paragraphs = textContainer ? textContainer.querySelectorAll("p") : [];
+    if (!textContainer) {
+      console.warn(`Card ${index + 1}: No text container found.`);
+      return; // Skip this card if no text container
+    }
 
-      // Find the "More" button
-      var showMoreButton = card.querySelector(".show-more");
+    console.log(`Card ${index + 1}: Text container found.`);
+    var paragraphs = textContainer.querySelectorAll("p");
+    console.log(`Card ${index + 1}: Found ${paragraphs.length} paragraph(s).`);
 
-      // Check if showMoreButton exists
-      if (showMoreButton && paragraphs.length <= 1) {
+    // Find the "More" button
+    var showMoreButton = card.querySelector(".show-more");
+    if (!showMoreButton) {
+      console.warn(`Card ${index + 1}: No "More" button found.`);
+    } else {
+      console.log(`Card ${index + 1}: "More" button found.`);
+      
+      if (paragraphs.length <= 1) {
         showMoreButton.style.display = "none"; // Hide the button if there's 1 or fewer paragraphs
-      } else if (showMoreButton) {
+        console.log(`Card ${index + 1}: Hiding "More" button.`);
+      } else {
         showMoreButton.style.display = "inline-block"; // Ensure button is visible when needed
+        console.log(`Card ${index + 1}: Displaying "More" button.`);
       }
 
       // Expand/collapse logic if the button exists
-      if (showMoreButton) {
-        showMoreButton.addEventListener("click", function () {
-          if (card.classList.contains("expanded")) {
-            card.classList.remove("expanded");
-            this.textContent = "details...";
-          } else {
-            card.classList.add("expanded");
-            this.textContent = "hide details...";
-          }
-        });
-      }
+      showMoreButton.addEventListener("click", function () {
+        if (card.classList.contains("expanded")) {
+          card.classList.remove("expanded");
+          this.textContent = "details...";
+          console.log(`Card ${index + 1}: Collapsed.`);
+        } else {
+          card.classList.add("expanded");
+          this.textContent = "hide details...";
+          console.log(`Card ${index + 1}: Expanded.`);
+        }
+      });
     }
   });
 });
