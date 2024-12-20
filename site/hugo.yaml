@@ -5,7 +5,6 @@ publishDir: ../public
 resourceDir: ../resources
 
 summaryLength: 30
-paginate: 20
 
 enableRobotsTXT: true
 enableGitInfo: true
@@ -19,6 +18,9 @@ params:
   og_image: "/images/og-image.jpg" # URL to the default Open Graph image
   twitter_handle: "@nkdagility" # Your Twitter handle for Twitter cards
   editURL: "https://github.com/nkdAgility/nkdagility.com/edit/main/site/content/" # URL to edit content on GitHub
+
+pagination:
+  pagerSize: 20
 
 # Enable sitemap and robots.txt
 sitemap:
