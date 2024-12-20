@@ -2,7 +2,10 @@
   {{- $resourceType := .CurrentSection.Params.resourceType }}
   {{- if .Params.preview }}
     {{- $isExternal := strings.HasPrefix .Params.preview "http" }}
-    {{- if $isExternal }}
+    <div>MOO: {{  .Params.videoId }}</div>
+    {{- if and (.Params.videoId) (or (not .PublishDate) (ge now .PublishDate)) -}}
+      <img class="img-fluid" loading="lazy" src="https://i.ytimg.com/vi/{{.Params.videoId}}/maxresdefault.jpg" alt="{{- .Title }}" />
+    {{- else if $isExternal }}
       <img class="img-fluid" loading="lazy" src="{{- .Params.preview }}" alt="{{- .Title }}" />
     {{- else }}
       {{- $image := .Resources.GetMatch (printf "images/%s" .Params.preview) }}
