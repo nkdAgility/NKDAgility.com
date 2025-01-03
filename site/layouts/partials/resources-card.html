@@ -7,7 +7,7 @@
     {{- else if $isExternal }}
       <img class="img-fluid" loading="lazy" src="{{- .Params.preview }}" alt="{{- .Title }}" />
     {{- else }}
-      {{- $image := .Resources.GetMatch (printf "images/%s" .Params.preview) }}
+      {{- $image := .Resources.GetMatch (printf "**/%s" .Params.preview) }}
       {{- if $image }}
         <img class="img-fluid" loading="lazy" src="{{- $image.RelPermalink }}" alt="{{- .Title }}" />
       {{- else }}
