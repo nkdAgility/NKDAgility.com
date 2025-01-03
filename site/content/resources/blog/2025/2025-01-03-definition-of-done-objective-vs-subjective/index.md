@@ -8,9 +8,10 @@ resourceTypes: blog
 slug: definition-of-done-objective-vs-subjective
 aliases:
 tags:
-- Scrum Masters
+- Definition of Done
 categories:
-- agility
+- Scrum
+- Product Delivery
 preview: 2025-01-03-definition-of-done-objective-vs-subjective.jpg
 ---
 
