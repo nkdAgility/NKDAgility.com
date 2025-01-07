@@ -5,6 +5,7 @@ date: 2023-06-21T11:00:52Z
 videoId: zs0q_zz8-JY
 url: /resources/videos/:slug
 slug: biggest-misconception-about-a-scrum-master
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=zs0q_zz8-JY
 aliases:
 - /resources/videos/zs0q_zz8-JY
@@ -25,6 +26,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube zs0q_zz8-JY >}} 

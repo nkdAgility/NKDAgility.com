@@ -37,6 +37,7 @@ tags:
 - Agility
 resourceTypes:
 - video
+layout: video
 
 ---
 {{< youtube 221BbTUqw7Q >}}

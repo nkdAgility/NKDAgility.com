@@ -5,6 +5,7 @@ date: 2023-09-28T11:09:12Z
 videoId: E2OBcBqZGoA
 url: /resources/videos/:slug
 slug: 05-october-2023-agile-leadership-webinar
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=E2OBcBqZGoA
 aliases:
 - /resources/videos/E2OBcBqZGoA
@@ -27,6 +28,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube E2OBcBqZGoA >}} 

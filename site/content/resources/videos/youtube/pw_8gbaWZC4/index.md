@@ -5,6 +5,7 @@ date: 2024-03-08T07:00:31Z
 videoId: pw_8gbaWZC4
 url: /resources/videos/:slug
 slug: how-top-teams-use-pull-systems!
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=pw_8gbaWZC4
 aliases:
 - /resources/videos/pw_8gbaWZC4
@@ -24,6 +25,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube pw_8gbaWZC4 >}} 

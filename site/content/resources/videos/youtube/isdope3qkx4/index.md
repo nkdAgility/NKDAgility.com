@@ -5,6 +5,7 @@ date: 2020-04-10T18:35:30Z
 videoId: isdope3qkx4
 url: /resources/videos/:slug
 slug: 11th-april-2020-office-hours-ask-me-anything
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=isdope3qkx4
 aliases:
 - /resources/videos/isdope3qkx4
@@ -23,6 +24,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube isdope3qkx4 >}} 

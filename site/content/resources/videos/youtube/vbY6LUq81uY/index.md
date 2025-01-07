@@ -6,6 +6,7 @@ videoId: vbY6LUq81uY
 source: youtube
 url: /resources/videos/:slug
 slug: maximizing-value-with-minimum-viable-products-mvps
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=vbY6LUq81uY
 aliases:
 - /resources/videos/vbY6LUq81uY
@@ -33,6 +34,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube vbY6LUq81uY >}} 

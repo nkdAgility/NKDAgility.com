@@ -6,6 +6,7 @@ videoId: Ir8QiX7eAHU
 source: internal
 url: /resources/videos/:slug
 slug: the-key-to-a-kanban-strategy-understanding-wip-limits
+layout: video
 preview: https://i.ytimg.com/vi/Ir8QiX7eAHU/maxresdefault.jpg
 duration: 464
 isShort: false

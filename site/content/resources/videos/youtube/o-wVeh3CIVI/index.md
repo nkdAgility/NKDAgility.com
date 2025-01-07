@@ -6,6 +6,7 @@ videoId: o-wVeh3CIVI
 source: internal
 url: /resources/videos/:slug
 slug: what-is-scrum
+layout: video
 preview: https://i.ytimg.com/vi/o-wVeh3CIVI/maxresdefault.jpg
 duration: 51
 isShort: true

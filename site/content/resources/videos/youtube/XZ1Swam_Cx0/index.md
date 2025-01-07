@@ -5,6 +5,7 @@ date: 2023-10-30T07:00:13Z
 videoId: XZ1Swam_Cx0
 url: /resources/videos/:slug
 slug: antichrist!-7-harbingers-agile-apocalypse-but-shorter!
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=XZ1Swam_Cx0
 aliases:
 - /resources/videos/XZ1Swam_Cx0
@@ -44,6 +45,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube XZ1Swam_Cx0 >}} 

@@ -5,6 +5,7 @@ date: 2020-04-14T19:09:07Z
 videoId: ZPRvjlp9i0A
 url: /resources/videos/:slug
 slug: 14th-april-2020-office-hours-ask-me-anything
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=ZPRvjlp9i0A
 aliases:
 - /resources/videos/ZPRvjlp9i0A
@@ -18,6 +19,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube ZPRvjlp9i0A >}} 

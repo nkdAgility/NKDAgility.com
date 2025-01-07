@@ -6,6 +6,7 @@ videoId: bpBhREVX85o
 source: internal
 url: /resources/videos/:slug
 slug: how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on
+layout: video
 preview: https://i.ytimg.com/vi/bpBhREVX85o/maxresdefault.jpg
 duration: 106
 isShort: false

@@ -6,6 +6,7 @@ videoId: LpiLOBG7WgI
 source: internal
 url: /resources/videos/:slug
 slug: what-should-you-do-if-your-sprint-review-delivers-harsh-scathing-feedback
+layout: video
 preview: https://i.ytimg.com/vi/LpiLOBG7WgI/maxresdefault.jpg
 duration: 224
 isShort: false

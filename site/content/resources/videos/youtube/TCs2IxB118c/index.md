@@ -6,6 +6,7 @@ videoId: TCs2IxB118c
 source: internal
 url: /resources/videos/:slug
 slug: boosting-team-morale-and-engagement-through-effective-mentorship-programs
+layout: video
 preview: https://i.ytimg.com/vi/TCs2IxB118c/maxresdefault.jpg
 duration: 540
 isShort: false

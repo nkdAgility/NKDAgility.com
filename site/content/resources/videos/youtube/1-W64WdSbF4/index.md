@@ -24,6 +24,7 @@ tags:
 - Sprint Review
 resourceTypes:
 - video
+layout: video
 
 ---
 {{< youtube 1-W64WdSbF4 >}}

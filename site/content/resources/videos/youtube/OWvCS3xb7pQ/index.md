@@ -5,6 +5,7 @@ date: 2023-07-13T12:06:17Z
 videoId: OWvCS3xb7pQ
 url: /resources/videos/:slug
 slug: what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=OWvCS3xb7pQ
 aliases:
 - /resources/videos/OWvCS3xb7pQ
@@ -30,6 +31,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube OWvCS3xb7pQ >}} 

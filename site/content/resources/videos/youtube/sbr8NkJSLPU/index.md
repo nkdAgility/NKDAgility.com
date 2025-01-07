@@ -5,6 +5,7 @@ date: 2024-02-27T07:00:31Z
 videoId: sbr8NkJSLPU
 url: /resources/videos/:slug
 slug: 3-core-practices-of-kanban-defining-and-visualizing-a-workflow
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=sbr8NkJSLPU
 aliases:
 - /resources/videos/sbr8NkJSLPU
@@ -25,6 +26,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube sbr8NkJSLPU >}} 

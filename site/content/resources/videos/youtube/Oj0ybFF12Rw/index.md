@@ -6,6 +6,7 @@ videoId: Oj0ybFF12Rw
 source: internal
 url: /resources/videos/:slug
 slug: quotes-don-t-scale-scrum-pragmatic-or-defeatist
+layout: video
 preview: https://i.ytimg.com/vi/Oj0ybFF12Rw/maxresdefault.jpg
 duration: 50
 isShort: true

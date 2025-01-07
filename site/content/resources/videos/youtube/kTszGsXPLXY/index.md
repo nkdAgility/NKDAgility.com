@@ -6,6 +6,7 @@ videoId: kTszGsXPLXY
 source: internal
 url: /resources/videos/:slug
 slug: getting-started-with-kanban
+layout: video
 preview: https://i.ytimg.com/vi/kTszGsXPLXY/maxresdefault.jpg
 duration: 331
 isShort: false

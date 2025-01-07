@@ -27,6 +27,9 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+layout: video
+resourceTypes:
+- video
 
 ---
 {{< youtube 3nSV-v2cK-w >}} 

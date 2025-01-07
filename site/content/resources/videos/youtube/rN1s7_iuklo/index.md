@@ -6,6 +6,7 @@ videoId: rN1s7_iuklo
 source: internal
 url: /resources/videos/:slug
 slug: empowering-teams-to-maximize-value-and-return-on-investment
+layout: video
 preview: https://i.ytimg.com/vi/rN1s7_iuklo/maxresdefault.jpg
 duration: 56
 isShort: true

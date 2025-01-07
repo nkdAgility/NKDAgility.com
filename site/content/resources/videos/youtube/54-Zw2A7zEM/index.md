@@ -25,6 +25,7 @@ tags:
 - Agile
 resourceTypes:
 - video
+layout: video
 
 ---
 {{< youtube 54-Zw2A7zEM >}}

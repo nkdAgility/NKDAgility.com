@@ -6,6 +6,7 @@ videoId: sT44RQgin5A
 source: internal
 url: /resources/videos/:slug
 slug: evidence-based-management-the-four-key-value-areas-in-scrum
+layout: video
 preview: https://i.ytimg.com/vi/sT44RQgin5A/maxresdefault.jpg
 duration: 1652
 isShort: false

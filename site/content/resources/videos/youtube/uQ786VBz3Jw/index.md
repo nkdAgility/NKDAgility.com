@@ -5,6 +5,7 @@ date: 2023-05-26T14:00:37Z
 videoId: uQ786VBz3Jw
 url: /resources/videos/:slug
 slug: what-is-your-1-tip-for-effective-sprint-planning-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=uQ786VBz3Jw
 aliases:
 - /resources/videos/uQ786VBz3Jw
@@ -30,6 +31,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube uQ786VBz3Jw >}} 

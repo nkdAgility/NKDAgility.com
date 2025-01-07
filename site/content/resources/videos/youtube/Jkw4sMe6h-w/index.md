@@ -5,6 +5,7 @@ date: 2023-08-09T13:43:27Z
 videoId: Jkw4sMe6h-w
 url: /resources/videos/:slug
 slug: how-is-agile-leadership-different-to-traditional-management-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=Jkw4sMe6h-w
 aliases:
 - /resources/videos/Jkw4sMe6h-w
@@ -28,6 +29,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube Jkw4sMe6h-w >}} 

@@ -6,6 +6,7 @@ videoId: Af-wBYtyyRU
 source: internal
 url: /resources/videos/:slug
 slug: mastering-evidence-based-management-ebm-for-product-owners-maximizing-value-delivery
+layout: video
 preview: https://i.ytimg.com/vi/Af-wBYtyyRU/maxresdefault.jpg
 duration: 178
 isShort: false

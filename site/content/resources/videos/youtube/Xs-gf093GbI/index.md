@@ -6,6 +6,7 @@ videoId: Xs-gf093GbI
 source: internal
 url: /resources/videos/:slug
 slug: what-is-a-product-vision-and-why-does-it-matter
+layout: video
 preview: https://i.ytimg.com/vi/Xs-gf093GbI/maxresdefault.jpg
 duration: 141
 isShort: false

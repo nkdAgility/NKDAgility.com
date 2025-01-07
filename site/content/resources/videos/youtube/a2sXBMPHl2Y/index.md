@@ -6,6 +6,7 @@ videoId: a2sXBMPHl2Y
 source: internal
 url: /resources/videos/:slug
 slug: how-can-companies-derive-greater-benefits-from-training-by-investing-in-a-private-training-course
+layout: video
 preview: https://i.ytimg.com/vi/a2sXBMPHl2Y/maxresdefault.jpg
 duration: 212
 isShort: false

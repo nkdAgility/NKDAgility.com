@@ -6,6 +6,7 @@ videoId: u56sOCe6G0A
 source: internal
 url: /resources/videos/:slug
 slug: 3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow
+layout: video
 preview: https://i.ytimg.com/vi/u56sOCe6G0A/maxresdefault.jpg
 duration: 234
 isShort: false

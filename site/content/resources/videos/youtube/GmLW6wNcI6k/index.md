@@ -6,6 +6,7 @@ videoId: GmLW6wNcI6k
 source: internal
 url: /resources/videos/:slug
 slug: what-does-the-assessment-phase-of-a-consulting-engagement-look-and-feel-like
+layout: video
 preview: https://i.ytimg.com/vi/GmLW6wNcI6k/maxresdefault.jpg
 duration: 275
 isShort: false

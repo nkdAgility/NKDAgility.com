@@ -6,6 +6,7 @@ videoId: DNCDdWjYis8
 source: youtube
 url: /resources/videos/:slug
 slug: worst-trait-in-unskilled-scrum-masters-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=DNCDdWjYis8
 aliases:
 - /resources/videos/DNCDdWjYis8
@@ -17,6 +18,8 @@ isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube DNCDdWjYis8 >}} 

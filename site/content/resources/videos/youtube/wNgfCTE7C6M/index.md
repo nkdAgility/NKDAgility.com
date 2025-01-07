@@ -5,6 +5,7 @@ date: 2023-04-10T07:00:18Z
 videoId: wNgfCTE7C6M
 url: /resources/videos/:slug
 slug: how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=wNgfCTE7C6M
 aliases:
 - /resources/videos/wNgfCTE7C6M
@@ -24,6 +25,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube wNgfCTE7C6M >}} 

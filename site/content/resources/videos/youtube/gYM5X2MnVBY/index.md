@@ -6,6 +6,7 @@ videoId: gYM5X2MnVBY
 source: youtube
 url: /resources/videos/:slug
 slug: broken-the-7-deadly-sins-of-agile!
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=gYM5X2MnVBY
 aliases:
@@ -18,6 +19,8 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube gYM5X2MnVBY >}} 

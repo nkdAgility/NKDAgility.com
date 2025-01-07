@@ -6,6 +6,7 @@ videoId: uYm_wb1sHJE
 source: internal
 url: /resources/videos/:slug
 slug: what-is-the-sprint-review-workshop-and-how-will-it-help-organisations
+layout: video
 preview: https://i.ytimg.com/vi/uYm_wb1sHJE/maxresdefault.jpg
 duration: 158
 isShort: false

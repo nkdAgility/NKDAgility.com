@@ -6,6 +6,7 @@ videoId: COUE296XnWc
 source: youtube
 url: /resources/videos/:slug
 slug: nkda-webcast-agile-leadership-agile-transformation-20231005-130313-meeting-recording-1
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=COUE296XnWc
 aliases:
@@ -18,6 +19,8 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube COUE296XnWc >}} 

@@ -6,6 +6,7 @@ videoId: Gym5-p-mNtw
 source: youtube
 url: /resources/videos/:slug
 slug: agile-your-secret-weapon-for-cost-control
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=Gym5-p-mNtw
 aliases:
 - /resources/videos/Gym5-p-mNtw
@@ -33,6 +34,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube Gym5-p-mNtw >}} 

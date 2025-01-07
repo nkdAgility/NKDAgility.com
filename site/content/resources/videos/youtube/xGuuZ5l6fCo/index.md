@@ -6,6 +6,7 @@ videoId: xGuuZ5l6fCo
 source: internal
 url: /resources/videos/:slug
 slug: empowering-agile-teams-the-critical-role-of-user-feedback-in-requirement-changes
+layout: video
 preview: https://i.ytimg.com/vi/xGuuZ5l6fCo/maxresdefault.jpg
 duration: 412
 isShort: false

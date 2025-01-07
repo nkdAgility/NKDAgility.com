@@ -6,6 +6,7 @@ videoId: VnSmFq7d7sM
 source: youtube
 url: /resources/videos/:slug
 slug: 2022-02-04_13-54-21
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=VnSmFq7d7sM
 aliases:
@@ -18,6 +19,8 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube VnSmFq7d7sM >}} 

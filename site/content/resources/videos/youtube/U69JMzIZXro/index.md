@@ -5,6 +5,7 @@ date: 2014-01-15T13:38:13Z
 videoId: U69JMzIZXro
 url: /resources/videos/:slug
 slug: installing-tfs-2013-standard
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=U69JMzIZXro
 aliases:
 - /resources/videos/U69JMzIZXro
@@ -25,6 +26,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube U69JMzIZXro >}} 

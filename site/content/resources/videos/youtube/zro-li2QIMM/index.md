@@ -5,6 +5,7 @@ date: 2023-12-06T11:01:01Z
 videoId: zro-li2QIMM
 url: /resources/videos/:slug
 slug: -shorts-7-virtues-of-agile-charity
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=zro-li2QIMM
 aliases:
 - /resources/videos/zro-li2QIMM
@@ -41,6 +42,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube zro-li2QIMM >}} 

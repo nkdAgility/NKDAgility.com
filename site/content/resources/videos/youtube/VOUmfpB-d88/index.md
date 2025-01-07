@@ -6,6 +6,7 @@ videoId: VOUmfpB-d88
 source: internal
 url: /resources/videos/:slug
 slug: transforming-training-the-power-of-immersive-learning-in-scrum
+layout: video
 preview: https://i.ytimg.com/vi/VOUmfpB-d88/maxresdefault.jpg
 duration: 430
 isShort: false

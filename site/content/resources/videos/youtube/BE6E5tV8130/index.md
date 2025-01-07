@@ -6,6 +6,7 @@ videoId: BE6E5tV8130
 source: internal
 url: /resources/videos/:slug
 slug: how-is-agile-product-development-different-to-waterfall-project-management
+layout: video
 preview: https://i.ytimg.com/vi/BE6E5tV8130/maxresdefault.jpg
 duration: 385
 isShort: false

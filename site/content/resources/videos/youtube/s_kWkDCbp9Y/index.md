@@ -6,6 +6,7 @@ videoId: s_kWkDCbp9Y
 source: internal
 url: /resources/videos/:slug
 slug: the-key-to-being-an-effective-agile-coach-understanding-the-teams-context
+layout: video
 preview: https://i.ytimg.com/vi/s_kWkDCbp9Y/maxresdefault.jpg
 duration: 69
 isShort: false

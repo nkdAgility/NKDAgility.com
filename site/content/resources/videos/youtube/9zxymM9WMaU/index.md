@@ -6,6 +6,7 @@ videoId: 9zxymM9WMaU
 source: youtube
 url: /resources/videos/:slug
 slug: crown-estate-introduction-to-scrum
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=9zxymM9WMaU
 aliases:
@@ -18,6 +19,8 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube 9zxymM9WMaU >}} 

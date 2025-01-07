@@ -5,6 +5,7 @@ date: 2023-05-16T14:00:07Z
 videoId: 9TbjaO1_Nz8
 url: /resources/videos/:slug
 slug: would-you-recommend-the-pspo-course-to-an-entrepreneur-and-why-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=9TbjaO1_Nz8
 aliases:
 - /resources/videos/9TbjaO1_Nz8
@@ -25,6 +26,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube 9TbjaO1_Nz8 >}} 

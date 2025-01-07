@@ -6,6 +6,7 @@ videoId: YUlpnyN2IeI
 source: internal
 url: /resources/videos/:slug
 slug: best-scrum-advice-you-ever-received
+layout: video
 preview: https://i.ytimg.com/vi/YUlpnyN2IeI/maxresdefault.jpg
 duration: 298
 isShort: false

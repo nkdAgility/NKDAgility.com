@@ -6,6 +6,7 @@ videoId: sdIPSpbeA9w
 source: youtube
 url: /resources/videos/:slug
 slug: the-cost-saving-power-of-automation
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=sdIPSpbeA9w
 aliases:
 - /resources/videos/sdIPSpbeA9w
@@ -31,6 +32,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube sdIPSpbeA9w >}} 

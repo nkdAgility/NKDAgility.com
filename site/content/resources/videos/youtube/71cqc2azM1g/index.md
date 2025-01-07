@@ -18,6 +18,9 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+layout: video
+resourceTypes:
+- video
 
 ---
 {{< youtube 71cqc2azM1g >}} 

@@ -6,6 +6,7 @@ videoId: QQA9coiM4fk
 source: internal
 url: /resources/videos/:slug
 slug: devops-consulting-overview
+layout: video
 preview: https://i.ytimg.com/vi/QQA9coiM4fk/maxresdefault.jpg
 duration: 356
 isShort: false

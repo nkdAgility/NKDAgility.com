@@ -5,6 +5,7 @@ date: 2023-10-20T16:01:48Z
 videoId: uCFIW_lEFuc
 url: /resources/videos/:slug
 slug: sloth!-7-deadly-sins-of-agile-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=uCFIW_lEFuc
 aliases:
 - /resources/videos/uCFIW_lEFuc
@@ -26,6 +27,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube uCFIW_lEFuc >}} 

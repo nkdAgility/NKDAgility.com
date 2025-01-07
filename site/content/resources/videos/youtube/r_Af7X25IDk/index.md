@@ -5,6 +5,7 @@ date: 2020-04-17T18:57:11Z
 videoId: r_Af7X25IDk
 url: /resources/videos/:slug
 slug: ep005-leading-agile-change
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=r_Af7X25IDk
 aliases:
 - /resources/videos/r_Af7X25IDk
@@ -22,6 +23,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube r_Af7X25IDk >}} 

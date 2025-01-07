@@ -6,6 +6,7 @@ videoId: bXb00GxJiCY
 source: internal
 url: /resources/videos/:slug
 slug: the-power-of-immersive-learning-in-scrum-training
+layout: video
 preview: https://i.ytimg.com/vi/bXb00GxJiCY/maxresdefault.jpg
 duration: 41
 isShort: true

@@ -6,6 +6,7 @@ videoId: El__Y7CTcrY
 source: internal
 url: /resources/videos/:slug
 slug: the-power-of-immersive-learning-in-scrum-training-why-less-is-more
+layout: video
 preview: https://i.ytimg.com/vi/El__Y7CTcrY/maxresdefault.jpg
 duration: 43
 isShort: true

@@ -6,6 +6,7 @@ videoId: rPxverzgPz0
 source: internal
 url: /resources/videos/:slug
 slug: would-you-recommend-the-aps-course-to-a-newbie-scrum-team-and-why
+layout: video
 preview: https://i.ytimg.com/vi/rPxverzgPz0/maxresdefault.jpg
 duration: 304
 isShort: false

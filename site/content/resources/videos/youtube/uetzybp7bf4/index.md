@@ -6,6 +6,7 @@ videoId: uetzybp7bf4
 source: youtube
 url: /resources/videos/:slug
 slug: building-a-culture-of-continuous-improvement
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=uetzybp7bf4
 aliases:
 - /resources/videos/uetzybp7bf4
@@ -32,6 +33,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube uetzybp7bf4 >}} 

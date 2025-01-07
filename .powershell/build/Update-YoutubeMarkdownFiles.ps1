@@ -136,6 +136,7 @@ function Update-YoutubeMarkdownFiles {
             if ($videoData.status.privacyStatus -eq "unlisted") {
                 Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'draft' -fieldValue $true -addAfter "slug" -Overwrite
             }
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'layout' -fieldValue "video" -addAfter "slug"
             if ($source -eq "youtube") {
                 $externalUrl = "https://www.youtube.com/watch?v=$videoId"
                 Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'canonicalUrl' -fieldValue $externalUrl
@@ -147,6 +148,7 @@ function Update-YoutubeMarkdownFiles {
             if ($tags.Count -gt 0) {
                 Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values $tags -addAfter "isShort"
             }
+            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'resourceTypes' -values "video" -addAfter "duration"
             if ($source -eq "youtube") {
                 $priority = 0.4
             }

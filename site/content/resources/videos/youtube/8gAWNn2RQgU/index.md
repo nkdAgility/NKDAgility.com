@@ -6,6 +6,7 @@ videoId: 8gAWNn2RQgU
 source: internal
 url: /resources/videos/:slug
 slug: why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility
+layout: video
 preview: https://i.ytimg.com/vi/8gAWNn2RQgU/maxresdefault.jpg
 duration: 45
 isShort: true

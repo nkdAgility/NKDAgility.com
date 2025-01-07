@@ -6,6 +6,7 @@ videoId: J3Z2xU5ditc
 source: youtube
 url: /resources/videos/:slug
 slug: scrum-is-like-communism-it-doesn't-work-myth-4
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=J3Z2xU5ditc
 aliases:
 - /resources/videos/J3Z2xU5ditc
@@ -41,6 +42,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube J3Z2xU5ditc >}} 

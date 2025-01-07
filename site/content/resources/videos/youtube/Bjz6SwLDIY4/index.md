@@ -6,6 +6,7 @@ videoId: Bjz6SwLDIY4
 source: internal
 url: /resources/videos/:slug
 slug: continuous-adaptation-the-key-to-success-in-a-dynamic-market
+layout: video
 preview: https://i.ytimg.com/vi/Bjz6SwLDIY4/maxresdefault.jpg
 duration: 344
 isShort: false

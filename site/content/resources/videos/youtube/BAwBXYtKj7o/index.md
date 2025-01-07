@@ -1,11 +1,12 @@
 ---
 title: Technical Debt Management for Long-Term Quality
-
 description: Discover how automated testing transforms software engineering, reducing errors and speeding up feedback for high-quality, efficient delivery.
 date: 2024-11-21T07:00:11Z
 videoId: BAwBXYtKj7o
+source: internal
 url: /resources/videos/:slug
 slug: technical-debt-management-for-long-term-quality
+layout: video
 aliases:
 - /resources/videos/BAwBXYtKj7o
 - /resources/videos/the-power-of-automated-testing
@@ -28,6 +29,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+resourceTypes:
+- video
 
 ---
 {{< youtube BAwBXYtKj7o >}} 

@@ -6,6 +6,7 @@ videoId: 8Fu6k2S1Iwo
 source: youtube
 url: /resources/videos/:slug
 slug: continuous-delivery
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=8Fu6k2S1Iwo
 aliases:
@@ -18,6 +19,8 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube 8Fu6k2S1Iwo >}} 

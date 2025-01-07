@@ -5,6 +5,7 @@ date: 2023-06-08T07:00:30Z
 videoId: qrEqX_5FWM8
 url: /resources/videos/:slug
 slug: overview-of-the-8-week-immersive-learning-experience
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=qrEqX_5FWM8
 aliases:
 - /resources/videos/qrEqX_5FWM8
@@ -27,6 +28,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube qrEqX_5FWM8 >}} 

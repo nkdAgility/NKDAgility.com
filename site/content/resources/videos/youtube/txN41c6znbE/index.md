@@ -6,6 +6,7 @@ videoId: txN41c6znbE
 source: internal
 url: /resources/videos/:slug
 slug: where-agile-went-wrong-understanding-the-competence-crisis
+layout: video
 preview: https://i.ytimg.com/vi/txN41c6znbE/maxresdefault.jpg
 duration: 1604
 isShort: false

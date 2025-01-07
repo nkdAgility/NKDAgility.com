@@ -6,6 +6,7 @@ videoId: RiWIHIE1JIw
 source: youtube
 url: /resources/videos/:slug
 slug: scrum-is-like-communism;-it-does-not-work!-[sd-only]
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=RiWIHIE1JIw
 aliases:
@@ -18,6 +19,8 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube RiWIHIE1JIw >}} 

@@ -5,6 +5,7 @@ date: 2023-11-01T11:30:27Z
 videoId: xk11NhTA_V8
 url: /resources/videos/:slug
 slug: judgement!-7-harbingers-agile-apocalypse-but-shorter!
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=xk11NhTA_V8
 aliases:
 - /resources/videos/xk11NhTA_V8
@@ -44,6 +45,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube xk11NhTA_V8 >}} 

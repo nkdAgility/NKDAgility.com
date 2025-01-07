@@ -6,6 +6,7 @@ videoId: wHGw1vmudNA
 source: internal
 url: /resources/videos/:slug
 slug: 7-harbingers-of-the-agile-apocalypse-war
+layout: video
 preview: https://i.ytimg.com/vi/wHGw1vmudNA/maxresdefault.jpg
 duration: 158
 isShort: false

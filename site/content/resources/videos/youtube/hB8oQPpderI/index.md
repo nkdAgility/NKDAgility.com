@@ -6,6 +6,7 @@ videoId: hB8oQPpderI
 source: internal
 url: /resources/videos/:slug
 slug: one-limitation-of-reading-a-book-vs-attending-a-course
+layout: video
 preview: https://i.ytimg.com/vi/hB8oQPpderI/maxresdefault.jpg
 duration: 56
 isShort: true

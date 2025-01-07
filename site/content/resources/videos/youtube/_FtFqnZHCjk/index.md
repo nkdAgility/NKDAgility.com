@@ -25,6 +25,7 @@ tags:
 - Product Management Mentorship program
 resourceTypes:
 - video
+layout: video
 
 ---
 {{< youtube _FtFqnZHCjk >}}

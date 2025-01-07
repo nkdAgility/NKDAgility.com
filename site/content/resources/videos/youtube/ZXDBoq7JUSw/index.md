@@ -6,6 +6,7 @@ videoId: ZXDBoq7JUSw
 source: internal
 url: /resources/videos/:slug
 slug: 3-reasons-why-you-should-level-up-your-knowledge-and-skills
+layout: video
 preview: https://i.ytimg.com/vi/ZXDBoq7JUSw/maxresdefault.jpg
 duration: 37
 isShort: true

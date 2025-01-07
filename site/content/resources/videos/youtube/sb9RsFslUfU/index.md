@@ -6,6 +6,7 @@ videoId: sb9RsFslUfU
 source: internal
 url: /resources/videos/:slug
 slug: how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant
+layout: video
 preview: https://i.ytimg.com/vi/sb9RsFslUfU/maxresdefault.jpg
 duration: 186
 isShort: false

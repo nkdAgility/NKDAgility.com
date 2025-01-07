@@ -5,6 +5,7 @@ date: 2022-08-23T16:53:08Z
 videoId: sBBKKlfwlrA
 url: /resources/videos/:slug
 slug: professional-scrum-with-nexus-(sps)-with-certification-learn-skills-to-overcome-scaling-challenges
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=sBBKKlfwlrA
 aliases:
 - /resources/videos/sBBKKlfwlrA
@@ -18,6 +19,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube sBBKKlfwlrA >}} 

@@ -5,6 +5,7 @@ date: 2023-10-31T07:00:18Z
 videoId: k4F9DSE99Ok
 url: /resources/videos/:slug
 slug: famine!-7-harbingers-agile-apocalypse-but-shorter!
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=k4F9DSE99Ok
 aliases:
 - /resources/videos/k4F9DSE99Ok
@@ -44,6 +45,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube k4F9DSE99Ok >}} 

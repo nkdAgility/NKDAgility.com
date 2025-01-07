@@ -6,6 +6,7 @@ videoId: ARWK1wvXYGY
 source: youtube
 url: /resources/videos/:slug
 slug: ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=ARWK1wvXYGY
 aliases:
@@ -18,6 +19,8 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube ARWK1wvXYGY >}} 

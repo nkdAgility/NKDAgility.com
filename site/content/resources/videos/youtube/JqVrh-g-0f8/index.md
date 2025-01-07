@@ -6,6 +6,7 @@ videoId: JqVrh-g-0f8
 source: internal
 url: /resources/videos/:slug
 slug: what-does-a-poor-product-backlog-look-like
+layout: video
 preview: https://i.ytimg.com/vi/JqVrh-g-0f8/maxresdefault.jpg
 duration: 42
 isShort: true

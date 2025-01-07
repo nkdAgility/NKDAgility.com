@@ -5,6 +5,7 @@ date: 2024-08-16T07:04:15Z
 videoId: r1wvCUxeWcE
 url: /resources/videos/:slug
 slug: kanban-boards
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=r1wvCUxeWcE
 aliases:
 - /resources/videos/r1wvCUxeWcE
@@ -20,6 +21,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube r1wvCUxeWcE >}} 

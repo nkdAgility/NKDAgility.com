@@ -6,6 +6,7 @@ videoId: TZKvdhDPMjg
 source: internal
 url: /resources/videos/:slug
 slug: one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement
+layout: video
 preview: https://i.ytimg.com/vi/TZKvdhDPMjg/maxresdefault.jpg
 duration: 56
 isShort: true

@@ -6,6 +6,7 @@ videoId: 8PViHnzs_-s
 source: youtube
 url: /resources/videos/:slug
 slug: free-workshop-07-commitment-in-scrum,-what-do-we-commit-to-and-why
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=8PViHnzs_-s
 aliases:
@@ -18,6 +19,8 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube 8PViHnzs_-s >}} 

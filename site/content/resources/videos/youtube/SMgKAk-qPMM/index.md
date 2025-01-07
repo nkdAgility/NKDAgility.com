@@ -6,6 +6,7 @@ videoId: SMgKAk-qPMM
 source: internal
 url: /resources/videos/:slug
 slug: temperance-in-agile-why-less-is-more
+layout: video
 preview: https://i.ytimg.com/vi/SMgKAk-qPMM/maxresdefault.jpg
 duration: 154
 isShort: false

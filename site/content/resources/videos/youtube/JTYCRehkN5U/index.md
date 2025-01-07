@@ -6,6 +6,7 @@ videoId: JTYCRehkN5U
 source: internal
 url: /resources/videos/:slug
 slug: the-power-of-technical-excellence-in-agile-development
+layout: video
 preview: https://i.ytimg.com/vi/JTYCRehkN5U/maxresdefault.jpg
 duration: 1219
 isShort: false

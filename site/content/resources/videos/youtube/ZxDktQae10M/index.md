@@ -5,6 +5,7 @@ date: 2017-12-30T18:57:40Z
 videoId: ZxDktQae10M
 url: /resources/videos/:slug
 slug: 2018-vsts-sync-migration-tools-overview
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=ZxDktQae10M
 aliases:
 - /resources/videos/ZxDktQae10M
@@ -21,6 +22,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube ZxDktQae10M >}} 

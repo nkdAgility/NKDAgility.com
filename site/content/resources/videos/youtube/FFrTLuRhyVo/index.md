@@ -6,6 +6,7 @@ videoId: FFrTLuRhyVo
 source: youtube
 url: /resources/videos/:slug
 slug: missed-opportunities,-the-hidden-cost-of-technical-debt
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=FFrTLuRhyVo
 aliases:
 - /resources/videos/FFrTLuRhyVo
@@ -28,6 +29,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube FFrTLuRhyVo >}} 

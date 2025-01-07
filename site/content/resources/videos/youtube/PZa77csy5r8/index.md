@@ -6,6 +6,7 @@ videoId: PZa77csy5r8
 source: youtube
 url: /resources/videos/:slug
 slug: technical-debt-management-for-long-term-quality
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=PZa77csy5r8
 aliases:
 - /resources/videos/PZa77csy5r8
@@ -29,6 +30,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube PZa77csy5r8 >}} 

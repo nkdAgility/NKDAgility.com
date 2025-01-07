@@ -5,6 +5,7 @@ date: 2020-06-16T12:16:52Z
 videoId: kOgKt8w_hWY
 url: /resources/videos/:slug
 slug: live-event-an-enterprise-evolution-that-shows-that-you-can-too
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=kOgKt8w_hWY
 aliases:
 - /resources/videos/kOgKt8w_hWY
@@ -18,6 +19,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube kOgKt8w_hWY >}} 

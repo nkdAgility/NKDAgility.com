@@ -6,6 +6,7 @@ videoId: MDpthtdJgNk
 source: internal
 url: /resources/videos/:slug
 slug: why-is-kanban-becoming-increasingly-popular-in-creative-industries
+layout: video
 preview: https://i.ytimg.com/vi/MDpthtdJgNk/maxresdefault.jpg
 duration: 581
 isShort: false

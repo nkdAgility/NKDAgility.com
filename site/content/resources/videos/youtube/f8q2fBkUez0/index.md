@@ -5,6 +5,7 @@ date: 2024-09-03T03:33:58Z
 videoId: f8q2fBkUez0
 url: /resources/videos/:slug
 slug: should-companies-take-money-off-the-table-with-martin-,-michael-,-&-rijon
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=f8q2fBkUez0
 aliases:
 - /resources/videos/f8q2fBkUez0
@@ -18,6 +19,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube f8q2fBkUez0 >}} 

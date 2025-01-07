@@ -6,6 +6,7 @@ videoId: QWUUSbGXm94
 source: youtube
 url: /resources/videos/:slug
 slug: fortnite
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=QWUUSbGXm94
 aliases:
@@ -18,6 +19,8 @@ isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube QWUUSbGXm94 >}} 

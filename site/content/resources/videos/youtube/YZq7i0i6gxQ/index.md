@@ -6,6 +6,7 @@ videoId: YZq7i0i6gxQ
 source: youtube
 url: /resources/videos/:slug
 slug: free-workshop-5-introduction-to-agile-leadership!
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=YZq7i0i6gxQ
 aliases:
@@ -18,6 +19,8 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube YZq7i0i6gxQ >}} 

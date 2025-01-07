@@ -48,6 +48,7 @@ tags:
 - agile-apocalypse
 resourceTypes:
 - video
+layout: video
 
 ---
 {{< youtube 56hWAHhbrvs >}}

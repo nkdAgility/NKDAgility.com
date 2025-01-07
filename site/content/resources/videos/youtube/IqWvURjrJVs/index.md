@@ -5,6 +5,7 @@ date: 2023-08-10T14:45:00Z
 videoId: IqWvURjrJVs
 url: /resources/videos/:slug
 slug: znaczenie-znajomości-terenu
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=IqWvURjrJVs
 aliases:
 - /resources/videos/IqWvURjrJVs
@@ -31,6 +32,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube IqWvURjrJVs >}} 

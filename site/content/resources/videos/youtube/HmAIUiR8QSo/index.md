@@ -6,6 +6,7 @@ videoId: HmAIUiR8QSo
 source: youtube
 url: /resources/videos/:slug
 slug: building-a-culture-of-quality
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=HmAIUiR8QSo
 aliases:
 - /resources/videos/HmAIUiR8QSo
@@ -32,6 +33,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube HmAIUiR8QSo >}} 

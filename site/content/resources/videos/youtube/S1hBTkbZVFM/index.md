@@ -6,6 +6,7 @@ videoId: S1hBTkbZVFM
 source: internal
 url: /resources/videos/:slug
 slug: the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership
+layout: video
 preview: https://i.ytimg.com/vi/S1hBTkbZVFM/maxresdefault.jpg
 duration: 43
 isShort: true

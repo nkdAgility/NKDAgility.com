@@ -6,6 +6,7 @@ videoId: npnQtdLEwQY
 source: youtube
 url: /resources/videos/:slug
 slug: managing-technical-debt-to-minimize-costs
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=npnQtdLEwQY
 aliases:
 - /resources/videos/npnQtdLEwQY
@@ -33,6 +34,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube npnQtdLEwQY >}} 

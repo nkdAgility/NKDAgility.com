@@ -6,6 +6,7 @@ videoId: tdOSrPOlyAI
 source: youtube
 url: /resources/videos/:slug
 slug: nkd-agility-your-partner-in-engineering-excellence
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=tdOSrPOlyAI
 aliases:
 - /resources/videos/tdOSrPOlyAI
@@ -31,6 +32,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube tdOSrPOlyAI >}} 

@@ -5,6 +5,7 @@ date: 2024-11-19T16:55:41Z
 videoId: CWxkBJJduCE
 url: /resources/videos/:slug
 slug: redefining-test-driven-development
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=CWxkBJJduCE
 aliases:
 - /resources/videos/CWxkBJJduCE
@@ -18,6 +19,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube CWxkBJJduCE >}} 

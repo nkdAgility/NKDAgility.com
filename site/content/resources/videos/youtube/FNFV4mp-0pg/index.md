@@ -6,6 +6,7 @@ videoId: FNFV4mp-0pg
 source: internal
 url: /resources/videos/:slug
 slug: is-a-scrum-master-an-agile-micromanager
+layout: video
 preview: https://i.ytimg.com/vi/FNFV4mp-0pg/maxresdefault.jpg
 duration: 41
 isShort: true

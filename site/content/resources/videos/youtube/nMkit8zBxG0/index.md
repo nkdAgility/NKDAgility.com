@@ -6,6 +6,7 @@ videoId: nMkit8zBxG0
 source: internal
 url: /resources/videos/:slug
 slug: what-is-sprint-planning
+layout: video
 preview: https://i.ytimg.com/vi/nMkit8zBxG0/maxresdefault.jpg
 duration: 464
 isShort: false

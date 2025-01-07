@@ -6,6 +6,7 @@ videoId: QBX7dnUBzo8
 source: internal
 url: /resources/videos/:slug
 slug: addressing-systemic-issues-in-agile-organizations
+layout: video
 preview: https://i.ytimg.com/vi/QBX7dnUBzo8/maxresdefault.jpg
 duration: 349
 isShort: false

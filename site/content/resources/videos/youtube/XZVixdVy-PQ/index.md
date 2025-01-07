@@ -6,6 +6,7 @@ videoId: XZVixdVy-PQ
 source: internal
 url: /resources/videos/:slug
 slug: redefining-agiles-core-beyond-rituals-and-procedures
+layout: video
 preview: https://i.ytimg.com/vi/XZVixdVy-PQ/maxresdefault.jpg
 duration: 223
 isShort: false

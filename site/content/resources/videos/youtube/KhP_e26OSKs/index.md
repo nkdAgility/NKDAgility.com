@@ -5,6 +5,7 @@ date: 2023-12-15T11:00:17Z
 videoId: KhP_e26OSKs
 url: /resources/videos/:slug
 slug: -shorts-5-things-you-would-teach-a-productowner-apprentice-part-3
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=KhP_e26OSKs
 aliases:
 - /resources/videos/KhP_e26OSKs
@@ -41,6 +42,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube KhP_e26OSKs >}} 

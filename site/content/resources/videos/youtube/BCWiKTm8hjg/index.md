@@ -6,6 +6,7 @@ videoId: BCWiKTm8hjg
 source: internal
 url: /resources/videos/:slug
 slug: the-power-of-charity-in-agile-how-helping-others-elevates-teams-and-organizations
+layout: video
 preview: https://i.ytimg.com/vi/BCWiKTm8hjg/maxresdefault.jpg
 duration: 162
 isShort: false

@@ -6,6 +6,7 @@ videoId: C8LaupSojEA
 source: youtube
 url: /resources/videos/:slug
 slug: the-crown-estate-writing-better-user-stories
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=C8LaupSojEA
 aliases:
@@ -18,6 +19,8 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube C8LaupSojEA >}} 

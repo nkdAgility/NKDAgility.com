@@ -6,6 +6,7 @@ videoId: dT1_zHfzto0
 source: internal
 url: /resources/videos/:slug
 slug: quotes-i-estimate-that-75-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it-ken-schwaber
+layout: video
 preview: https://i.ytimg.com/vi/dT1_zHfzto0/maxresdefault.jpg
 duration: 38
 isShort: true

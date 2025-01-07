@@ -6,6 +6,7 @@ videoId: 96iDY11yOjc
 source: internal
 url: /resources/videos/:slug
 slug: how-big-is-the-gap-between-an-average-developer-and-a-great-agile-developer
+layout: video
 preview: https://i.ytimg.com/vi/96iDY11yOjc/maxresdefault.jpg
 duration: 349
 isShort: false

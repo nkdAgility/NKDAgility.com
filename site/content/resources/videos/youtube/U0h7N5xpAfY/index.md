@@ -6,6 +6,7 @@ videoId: U0h7N5xpAfY
 source: internal
 url: /resources/videos/:slug
 slug: understanding-the-true-role-of-a-scrum-master
+layout: video
 preview: https://i.ytimg.com/vi/U0h7N5xpAfY/maxresdefault.jpg
 duration: 233
 isShort: false

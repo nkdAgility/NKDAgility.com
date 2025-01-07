@@ -5,6 +5,7 @@ date: 2023-09-22T07:00:32Z
 videoId: uvU_ATou6QY
 url: /resources/videos/:slug
 slug: what-does-failure-look-like-as-a-product-owner-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=uvU_ATou6QY
 aliases:
 - /resources/videos/uvU_ATou6QY
@@ -25,6 +26,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube uvU_ATou6QY >}} 

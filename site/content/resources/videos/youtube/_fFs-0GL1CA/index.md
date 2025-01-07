@@ -25,6 +25,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+layout: video
+resourceTypes:
+- video
 
 ---
 {{< youtube _fFs-0GL1CA >}} 

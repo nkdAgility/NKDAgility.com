@@ -5,6 +5,7 @@ date: 2023-08-10T13:30:01Z
 videoId: aWYoJtSgTDo
 url: /resources/videos/:slug
 slug: the-importance-of-knowing-the-territory-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=aWYoJtSgTDo
 aliases:
 - /resources/videos/aWYoJtSgTDo
@@ -32,6 +33,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube aWYoJtSgTDo >}} 

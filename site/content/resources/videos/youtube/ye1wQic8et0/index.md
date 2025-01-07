@@ -5,6 +5,7 @@ date: 2023-10-02T07:00:33Z
 videoId: ye1wQic8et0
 url: /resources/videos/:slug
 slug: it's-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=ye1wQic8et0
 aliases:
 - /resources/videos/ye1wQic8et0
@@ -24,6 +25,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube ye1wQic8et0 >}} 

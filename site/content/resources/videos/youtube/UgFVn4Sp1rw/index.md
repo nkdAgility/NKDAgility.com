@@ -6,6 +6,7 @@ videoId: UgFVn4Sp1rw
 source: youtube
 url: /resources/videos/:slug
 slug: measuring-and-monitoring-costs-for-continuous-improvement
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=UgFVn4Sp1rw
 aliases:
 - /resources/videos/UgFVn4Sp1rw
@@ -26,6 +27,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube UgFVn4Sp1rw >}} 

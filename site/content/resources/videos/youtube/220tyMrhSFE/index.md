@@ -20,6 +20,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+layout: video
+resourceTypes:
+- video
 
 ---
 {{< youtube 220tyMrhSFE >}} 

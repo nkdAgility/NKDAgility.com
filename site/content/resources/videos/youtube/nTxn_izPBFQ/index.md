@@ -6,6 +6,7 @@ videoId: nTxn_izPBFQ
 source: internal
 url: /resources/videos/:slug
 slug: how-good-is-the-apspo-course-in-helping-leaders-determine-product-direction-and-why
+layout: video
 preview: https://i.ytimg.com/vi/nTxn_izPBFQ/maxresdefault.jpg
 duration: 378
 isShort: false

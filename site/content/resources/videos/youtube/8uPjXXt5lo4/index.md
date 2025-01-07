@@ -6,6 +6,7 @@ videoId: 8uPjXXt5lo4
 source: internal
 url: /resources/videos/:slug
 slug: what-is-the-most-valuable-thing-you-have-learned-through-training-people
+layout: video
 preview: https://i.ytimg.com/vi/8uPjXXt5lo4/maxresdefault.jpg
 duration: 166
 isShort: false

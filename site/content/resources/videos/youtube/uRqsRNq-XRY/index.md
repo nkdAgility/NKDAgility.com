@@ -5,6 +5,7 @@ date: 2023-11-09T06:45:04Z
 videoId: uRqsRNq-XRY
 url: /resources/videos/:slug
 slug: 7-signs-of-the-agile-apocalypse-judgement
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=uRqsRNq-XRY
 aliases:
 - /resources/videos/uRqsRNq-XRY
@@ -41,6 +42,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube uRqsRNq-XRY >}} 

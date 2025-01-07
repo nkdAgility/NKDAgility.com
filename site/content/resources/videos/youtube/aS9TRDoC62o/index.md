@@ -6,6 +6,7 @@ videoId: aS9TRDoC62o
 source: internal
 url: /resources/videos/:slug
 slug: if-a-client-hasn-t-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
+layout: video
 preview: https://i.ytimg.com/vi/aS9TRDoC62o/maxresdefault.jpg
 duration: 198
 isShort: false

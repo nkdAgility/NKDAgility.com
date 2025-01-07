@@ -5,6 +5,7 @@ date: 2023-11-07T11:30:07Z
 videoId: GGtb7Yg8gHY
 url: /resources/videos/:slug
 slug: 7-signs-of-the-agile-apocalypse-war
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=GGtb7Yg8gHY
 aliases:
 - /resources/videos/GGtb7Yg8gHY
@@ -41,6 +42,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube GGtb7Yg8gHY >}} 

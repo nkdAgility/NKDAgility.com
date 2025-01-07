@@ -5,6 +5,7 @@ date: 2020-07-22T10:08:06Z
 videoId: p9OhFJ5Ojy4
 url: /resources/videos/:slug
 slug: agile-in-nigeria-2020-the-inevitability-of-change
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=p9OhFJ5Ojy4
 aliases:
 - /resources/videos/p9OhFJ5Ojy4
@@ -24,6 +25,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube p9OhFJ5Ojy4 >}} 

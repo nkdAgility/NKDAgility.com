@@ -5,6 +5,7 @@ date: 2023-05-01T07:00:05Z
 videoId: DceVQ5JQaUw
 url: /resources/videos/:slug
 slug: most-destructive-thing-a-client-can-do-to-an-agile-consultant-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=DceVQ5JQaUw
 aliases:
 - /resources/videos/DceVQ5JQaUw
@@ -24,6 +25,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube DceVQ5JQaUw >}} 

@@ -6,6 +6,7 @@ videoId: pyk0CfSobzM
 source: internal
 url: /resources/videos/:slug
 slug: how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint
+layout: video
 preview: https://i.ytimg.com/vi/pyk0CfSobzM/maxresdefault.jpg
 duration: 244
 isShort: false

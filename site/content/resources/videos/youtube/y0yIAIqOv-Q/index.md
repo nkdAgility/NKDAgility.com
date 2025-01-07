@@ -6,6 +6,7 @@ videoId: y0yIAIqOv-Q
 source: internal
 url: /resources/videos/:slug
 slug: when-should-an-organisation-consider-a-professional-agile-consultant
+layout: video
 preview: https://i.ytimg.com/vi/y0yIAIqOv-Q/maxresdefault.jpg
 duration: 258
 isShort: false

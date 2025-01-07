@@ -6,6 +6,7 @@ videoId: KhKFVRcdbGo
 source: youtube
 url: /resources/videos/:slug
 slug: nkd-agility-your-partner-in-cost-effective-software-development
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=KhKFVRcdbGo
 aliases:
 - /resources/videos/KhKFVRcdbGo
@@ -17,6 +18,8 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube KhKFVRcdbGo >}} 

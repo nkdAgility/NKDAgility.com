@@ -5,6 +5,7 @@ date: 2014-01-14T17:18:19Z
 videoId: U7wIQk1pus0
 url: /resources/videos/:slug
 slug: install-tfs-2013-basic
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=U7wIQk1pus0
 aliases:
 - /resources/videos/U7wIQk1pus0
@@ -25,6 +26,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube U7wIQk1pus0 >}} 

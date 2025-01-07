@@ -6,6 +6,7 @@ videoId: rzw7aPbz_sg
 source: youtube
 url: /resources/videos/:slug
 slug: pal-class-of-23-july-2020-for-everyone-in-est
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=rzw7aPbz_sg
 aliases:
@@ -18,6 +19,8 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube rzw7aPbz_sg >}} 

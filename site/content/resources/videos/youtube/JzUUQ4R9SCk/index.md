@@ -6,6 +6,7 @@ videoId: JzUUQ4R9SCk
 source: youtube
 url: /resources/videos/:slug
 slug: free-workshop-2-introduction-to-scrum-&-empiricism
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=JzUUQ4R9SCk
 aliases:
@@ -21,6 +22,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube JzUUQ4R9SCk >}} 

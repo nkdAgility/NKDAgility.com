@@ -5,6 +5,7 @@ date: 2023-07-13T07:41:01Z
 videoId: cb6JpfomYRU
 url: /resources/videos/:slug
 slug: how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=cb6JpfomYRU
 aliases:
 - /resources/videos/cb6JpfomYRU
@@ -27,6 +28,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube cb6JpfomYRU >}} 

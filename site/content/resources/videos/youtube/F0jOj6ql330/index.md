@@ -6,6 +6,7 @@ videoId: F0jOj6ql330
 source: internal
 url: /resources/videos/:slug
 slug: most-rewarding-part-of-being-a-scrum-developer
+layout: video
 preview: https://i.ytimg.com/vi/F0jOj6ql330/maxresdefault.jpg
 duration: 46
 isShort: true

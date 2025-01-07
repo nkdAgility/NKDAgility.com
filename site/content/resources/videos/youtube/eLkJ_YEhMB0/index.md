@@ -6,6 +6,7 @@ videoId: eLkJ_YEhMB0
 source: internal
 url: /resources/videos/:slug
 slug: overcoming-the-ghost-of-agile-certifications
+layout: video
 preview: https://i.ytimg.com/vi/eLkJ_YEhMB0/maxresdefault.jpg
 duration: 371
 isShort: false

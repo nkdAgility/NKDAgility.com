@@ -5,6 +5,7 @@ date: 2023-06-09T07:00:27Z
 videoId: vQBYdfLwJ3g
 url: /resources/videos/:slug
 slug: why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=vQBYdfLwJ3g
 aliases:
 - /resources/videos/vQBYdfLwJ3g
@@ -28,6 +29,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube vQBYdfLwJ3g >}} 

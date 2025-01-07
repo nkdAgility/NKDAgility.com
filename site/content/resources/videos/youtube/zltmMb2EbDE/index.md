@@ -6,6 +6,7 @@ videoId: zltmMb2EbDE
 source: internal
 url: /resources/videos/:slug
 slug: does-kanban-integrate-into-a-scrum-environment
+layout: video
 preview: https://i.ytimg.com/vi/zltmMb2EbDE/maxresdefault.jpg
 duration: 343
 isShort: false

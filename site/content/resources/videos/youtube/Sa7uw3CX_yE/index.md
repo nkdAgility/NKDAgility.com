@@ -5,6 +5,7 @@ date: 2020-07-21T18:00:53Z
 videoId: Sa7uw3CX_yE
 url: /resources/videos/:slug
 slug: the-tyranny-of-taylorism-and-how-to-spot-agile-lies-for-the-future-of-work-in-scotland
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=Sa7uw3CX_yE
 aliases:
 - /resources/videos/Sa7uw3CX_yE
@@ -18,6 +19,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube Sa7uw3CX_yE >}} 

@@ -6,6 +6,7 @@ videoId: qNJ2suVslzE
 source: youtube
 url: /resources/videos/:slug
 slug: taming-scope-creep-with-agile
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=qNJ2suVslzE
 aliases:
 - /resources/videos/qNJ2suVslzE
@@ -32,6 +33,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube qNJ2suVslzE >}} 

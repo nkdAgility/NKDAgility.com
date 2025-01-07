@@ -6,6 +6,7 @@ videoId: HZxho4-wvHc
 source: youtube
 url: /resources/videos/:slug
 slug: pal-in-2-minutes
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=HZxho4-wvHc
 aliases:
@@ -18,6 +19,8 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube HZxho4-wvHc >}} 

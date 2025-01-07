@@ -6,6 +6,7 @@ videoId: utI-1HVpeSU
 source: internal
 url: /resources/videos/:slug
 slug: quotes-dictatorship-vs-democracy
+layout: video
 preview: https://i.ytimg.com/vi/utI-1HVpeSU/maxresdefault.jpg
 duration: 57
 isShort: true

@@ -5,6 +5,7 @@ date: 2024-08-15T07:04:39Z
 videoId: sIhG2i7frpE
 url: /resources/videos/:slug
 slug: improving-workflow-with-kanban
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=sIhG2i7frpE
 aliases:
 - /resources/videos/sIhG2i7frpE
@@ -21,6 +22,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube sIhG2i7frpE >}} 

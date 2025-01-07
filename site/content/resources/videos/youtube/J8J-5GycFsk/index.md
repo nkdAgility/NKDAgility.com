@@ -6,6 +6,7 @@ videoId: J8J-5GycFsk
 source: youtube
 url: /resources/videos/:slug
 slug: nkdagility-waiting-2-small
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=J8J-5GycFsk
 aliases:
@@ -18,6 +19,8 @@ isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube J8J-5GycFsk >}} 

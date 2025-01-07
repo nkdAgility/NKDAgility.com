@@ -6,6 +6,7 @@ videoId: atV8TIupSsg
 source: youtube
 url: /resources/videos/:slug
 slug: live-virtual-pal-on-27-–-30-july-,-2020-in-cest
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=atV8TIupSsg
 aliases:
@@ -24,6 +25,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube atV8TIupSsg >}} 

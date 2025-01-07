@@ -6,6 +6,7 @@ videoId: Wvdh1lJfcLM
 source: internal
 url: /resources/videos/:slug
 slug: mastering-the-migration-seamlessly-transitioning-from-tfs-to-azure-devops
+layout: video
 preview: https://i.ytimg.com/vi/Wvdh1lJfcLM/maxresdefault.jpg
 duration: 188
 isShort: false

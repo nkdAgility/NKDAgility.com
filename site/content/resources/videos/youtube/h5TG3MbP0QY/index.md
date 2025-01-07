@@ -6,6 +6,7 @@ videoId: h5TG3MbP0QY
 source: internal
 url: /resources/videos/:slug
 slug: most-common-thing-you-hear-in-a-psm-1-course
+layout: video
 preview: https://i.ytimg.com/vi/h5TG3MbP0QY/maxresdefault.jpg
 duration: 56
 isShort: true

@@ -7,6 +7,7 @@ videoId: 9ut4YZSkDg8
 source: youtube
 url: /resources/videos/:slug
 slug: pspo-in-40m
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=9ut4YZSkDg8
 aliases:
 - /resources/videos/9ut4YZSkDg8
@@ -18,6 +19,8 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube 9ut4YZSkDg8 >}} 

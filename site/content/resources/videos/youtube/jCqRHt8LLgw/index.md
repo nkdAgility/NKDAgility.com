@@ -5,6 +5,7 @@ date: 2020-05-13T05:03:57Z
 videoId: jCqRHt8LLgw
 url: /resources/videos/:slug
 slug: 12th-may-2020-office-hours-ask-me-anything
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=jCqRHt8LLgw
 aliases:
 - /resources/videos/jCqRHt8LLgw
@@ -18,6 +19,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube jCqRHt8LLgw >}} 

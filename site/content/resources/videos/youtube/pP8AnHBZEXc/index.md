@@ -5,6 +5,7 @@ date: 2020-05-28T05:34:33Z
 videoId: pP8AnHBZEXc
 url: /resources/videos/:slug
 slug: 27th-may-2020-office-hours-ask-me-anything
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=pP8AnHBZEXc
 aliases:
 - /resources/videos/pP8AnHBZEXc
@@ -18,6 +19,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube pP8AnHBZEXc >}} 

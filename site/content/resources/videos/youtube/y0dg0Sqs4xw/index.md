@@ -6,6 +6,7 @@ videoId: y0dg0Sqs4xw
 source: internal
 url: /resources/videos/:slug
 slug: what-is-a-common-mistake-made-by-rookie-agile-consultants
+layout: video
 preview: https://i.ytimg.com/vi/y0dg0Sqs4xw/maxresdefault.jpg
 duration: 114
 isShort: false

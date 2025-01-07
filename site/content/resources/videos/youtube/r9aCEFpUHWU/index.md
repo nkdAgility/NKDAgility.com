@@ -5,6 +5,7 @@ date: 2024-10-21T05:32:11Z
 videoId: r9aCEFpUHWU
 url: /resources/videos/:slug
 slug: how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=r9aCEFpUHWU
 aliases:
 - /resources/videos/r9aCEFpUHWU
@@ -30,6 +31,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube r9aCEFpUHWU >}} 

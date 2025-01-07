@@ -5,6 +5,7 @@ date: 2023-08-23T07:00:10Z
 videoId: RSPw8pZ9NT8
 url: /resources/videos/:slug
 slug: can-you-talk-about-the-kanban-workshop-and-why-it's-a-great-option-for-organizations
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=RSPw8pZ9NT8
 aliases:
 - /resources/videos/RSPw8pZ9NT8
@@ -27,6 +28,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube RSPw8pZ9NT8 >}} 

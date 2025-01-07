@@ -6,6 +6,7 @@ videoId: XF-yQmPdUME
 source: internal
 url: /resources/videos/:slug
 slug: product-ownership-vs-product-management-busting-the-myth-that-they-re-separate-roles
+layout: video
 preview: https://i.ytimg.com/vi/XF-yQmPdUME/maxresdefault.jpg
 duration: 601
 isShort: false

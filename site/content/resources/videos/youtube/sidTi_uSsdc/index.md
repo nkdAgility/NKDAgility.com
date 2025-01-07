@@ -6,6 +6,7 @@ videoId: sidTi_uSsdc
 source: internal
 url: /resources/videos/:slug
 slug: discipline-versus-motivation
+layout: video
 preview: https://i.ytimg.com/vi/sidTi_uSsdc/maxresdefault.jpg
 duration: 28
 isShort: true

@@ -6,6 +6,7 @@ videoId: nDX_N-dllEQ
 source: youtube
 url: /resources/videos/:slug
 slug: free-workshop-3-introduction-to-kanban-&-batch-size
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=nDX_N-dllEQ
 aliases:
@@ -20,6 +21,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube nDX_N-dllEQ >}} 

@@ -6,6 +6,7 @@ videoId: sXmXT_MDXTo
 source: internal
 url: /resources/videos/:slug
 slug: devops-elevating-your-organizations-performance-through-bespoke-solutions
+layout: video
 preview: https://i.ytimg.com/vi/sXmXT_MDXTo/maxresdefault.jpg
 duration: 584
 isShort: false

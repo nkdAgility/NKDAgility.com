@@ -6,6 +6,7 @@ videoId: yKSkRhv_2Bs
 source: internal
 url: /resources/videos/:slug
 slug: reasons-to-do-an-aps-course-in-60-seconds
+layout: video
 preview: https://i.ytimg.com/vi/yKSkRhv_2Bs/maxresdefault.jpg
 duration: 53
 isShort: true

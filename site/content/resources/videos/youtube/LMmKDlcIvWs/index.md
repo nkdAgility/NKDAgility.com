@@ -6,6 +6,7 @@ videoId: LMmKDlcIvWs
 source: internal
 url: /resources/videos/:slug
 slug: what-is-kanban
+layout: video
 preview: https://i.ytimg.com/vi/LMmKDlcIvWs/maxresdefault.jpg
 duration: 553
 isShort: false

@@ -6,6 +6,7 @@ videoId: Psc6nDD7Q9g
 source: internal
 url: /resources/videos/:slug
 slug: maximizing-transparency-and-improvement-in-software-engineering-with-kanban
+layout: video
 preview: https://i.ytimg.com/vi/Psc6nDD7Q9g/maxresdefault.jpg
 duration: 57
 isShort: true
