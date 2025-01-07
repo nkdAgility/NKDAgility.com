@@ -1,10 +1,10 @@
 ---
-title: Continuous Integration and Continuous Delivery CI CD for Quality
+title: Building a culture of Quality
 description: Unlock the true potential of CI/CD! Join Martin Hinshelwood as he reveals best practices for Continuous Integration and Delivery to enhance quality and speed.
 date: 2024-11-22T07:00:08Z
 videoId: IZ-FlBbGaSY
 url: /resources/videos/:slug
-slug: continuous-integration-and-continuous-delivery-ci-cd-for-quality
+slug: building-a-culture-of-quality
 aliases:
 - /resources/videos/IZ-FlBbGaSY
 - /resources/videos/continuous-integration-and-continuous-delivery-ci-cd-for-quality
@@ -28,41 +28,33 @@ sitemap:
 
 ---
 {{< youtube IZ-FlBbGaSY >}} 
-   📍  📍 if we want to improve the quality of our product and reduce risk, part of our automation story is going to be CI, CD pipelines. It's, it's worth noting  that most  Most teams don't use CICD for CICD. They use it for an automated build.  Okay?  I see very few  teams  applying engineering excellence and doing CI, CD as it's intended to be done.
+ # Building a culture of quality | Martin Hinshelwood  
 
-Just to clarify a little bit, continuous integration  is  coupled with mainline branching.  It's not integrated if it's not In the main line in with the rest of your code. So if you've got a CI continuous integration on a separate branch. Right? That's not actually a CI. That's just a continuous build on your separate branch, which is great.
+  📍  📍 Building a culture of quality within your organisation is absolutely not something that you can do on your own. It's not something that any individual can do.  Each individual within the context of your organisation needs to be able to  Demonstrate their own  technical excellence, their technical leadership, their, their engineering capability if they demonstrate their own  other people around them will see a way of behaving  that.
 
-Definitely have that. But we want continuous integration. We want to be continuously pulling things into the one true version so we have fewer and fewer integration problems. We have fewer and fewer other problems coming off that because we're having to support multiple versions of our product. If you get DevTest live in branches,  you're just fundamentally doing it wrong.
+Hopefully they want to copy. The more people in your organization behave that way, the quicker other people in your organization will see that as the way to behave. I was trying to think of an example there of  that being true, and I really keep coming back to the opposite being true,  and that's the Boeing story.
 
-You might have an older product. I definitely  don't  judge the decisions that led to that in the past, right? You might have made that choice 20 years ago in your product. But you shouldn't be making that choice today. DevTest Live with branches,  nobody, no product anywhere should be making that choice today.
+If you've been following the Boeing story, Really  many years the Boeing story's been, been going on when Boeing,  before Boeing bought McDonnell Douglas, Boeing's focus was on engineering excellence, technical leadership, and they built that mantra. of if it's not Boeing, I'm not going. I, theirs were the best planes.
 
-We should be doing continuous integration and continuous delivery. Continuous integration is where you have mainline branching and things are continuously integrating. Into that mainline branch, right? Everything, all the work of all the engineers that are working on your product are continuously integrated every day.
+They were the best build qualities. They were the least likely to fall out the sky. They were, they were the standard for quality in the entire aviation industry.  And then, and they had that culture. Engineering excellence and, and technical leadership.  And then they moved, they bought McDonnell Douglas.
 
-Google is notorious for this one. They have one source control repository for the whole company. Every product, everywhere in the company. is on that one main line. Okay. So that, that,  that's a little bit extreme. That's a mono repo. That's a little bit extreme, but at least for a product you want to have that main line branching model where you're continuously integrating every day.
+And through some weird happenings, which I don't fully understand, McDonnell  Douglas came out on top of being in charge, right? McDonnell Douglas leadership. And their focus was on revenue extraction.  That was their focus. We're, we're not built here to build value. We're here to extract money for our shareholders and for ourselves.
 
-You should not, I would object to a branch that's around for longer than a day. I'd strenuously, strenuously object to a branch that's around for more than a couple of days. Right. Yeah. Yeah. I'm not saying that they wouldn't happen. It's possible. But I'm just trying to lay objective where people work, right?
+That's what we're here for. And over the next 20 years, I think it's been 20 years. I might be a little bit out there, 15, 20 years. They've,  Decimated that culture, that culture of quality inside of Boeing completely and utterly destroyed it so much so that that you might have seen seen videos of Boeing employees saying, you know, yes, I'd fly in this plane.
 
-People are adding new things, adding new capability  don't shouldn't exist for very long. So that's CI continuous integration.  Continuous delivery is when it hits the main line,  it's going to production.  That, that's, that's continuous delivery is not I'm continuously delivering to my test environment. It's I'm continuously delivering to production, to real users. 
+But yeah, I've got a death wish, right? That's not if you're going to be flying in a, in a, in a plane. That's not what you want to do. The culture you want within the context of the engineers that are building it. So why would you want it within the context of the software that you're purchasing? The software that you're using and how much of the software that we use is actually life critical or actually has a substantive, substantive, substantive  impact on our quality of life, on our, on the world around us.
 
-Now, you might use a ring based deployment model where you're protecting and, and limiting the blast radius of any problems behind an audience. Perhaps it could be audience based rings that enable you to, to have your high risk customers in a later ring. So you find the problems first with lower risk customers or, or, or, or, yeah, lower risk customers, but continuous delivery, the delivery part and continuous delivery is production. 
+And we, we want. those products to be built within the context of a culture of quality, of delivering the right thing, of doing the right thing and providing us with value, not  let's cut all the corners we possibly can to deliver more revenue to our shareholders, right? So if you want to build amazing products rather than mediocre or even dangerous products.
 
-Should be real users really using your product. So if you're doing continuous delivery, you should be seeing every commit to the main repo or a particular branch, right? Let's call it a branch. Could be called main, could be called master, could be called hunk, whatever it's going to be called, is, is, ends up in production.
+We need to focus on the things that really matter. And you know, Agile, Agile, Agile fra People talk about Agile frameworks all the time, and how Agile frameworks were the solution, and Agile frameworks are now the problem. None of those things are true.  Agile frameworks are just a tool. tools that we use.
 
-And that's where people continuously integrate. So you see, I. into that, and then you CD from there to production. And most teams in most organizations don't seem to do that. They say they're doing CI CD but they're just using the terminology and the tools that are part of it to do something. Else, which is just an automated build, which is also fine, right?
+It's the culture within our organization that leverages those tools in a positive or negative way. A hammer is just a tool, but you can use it to hit a nail or you can use it to smack somebody around the head. And which one is going to add value and which one's going to land you in jail. Right. So building those, those, those cultures of quality, can you,  what world of culture of quality did a Volkswagen engineer write code  determined whether a car was in a test condition and faked the results, right?
 
-You gotta have the right technology for the right thing.  I recommend CICD, I recommend continuous integration, mainline branching, and continuous delivery into production. For example, on products that I use that I build I might not use true cd. I think I'm almost, almost there. I'm not quite there.
+Changed the way the, didn't fake the results. They changed the way the engine operated in order to get the results they wanted and the engine operated differently on the road. Right? What world of quality.  Does anybody in your organization make that sort of decision? No world of quality. If you have a culture of quality, you're not going to have people make that decision, and that's what we need to focus on.
 
-I think my, it's a little bit too much risk for me, but because of my ability to test, right? But continuous, you know,  I continuously integrate to main and, no, it ships to production. I have CD on, on main, ships to production. It's a preview, so the smaller number of users, so controlling the blast radius.
+We need to focus on building a culture of engineering excellence, the technical leadership to set that direction and go in that direction, and we need to build within our organization, the, the knowledge. and understanding of the theories behind the reasons that things work the way they work,  and how we can then apply our empirical learnings within our context, so every organization's different,  with the knowledge of those theories, To then extrapolate what's the next best decision that we can make.
 
-And then when I feel like preview has enough telemetry to tell me that it's good, that it's Not, I don't have a lot, a larger number of errors. I don't have people not being able to do the stuff that they, they're supposed to be able to do in the tool. When I have enough data then I push the button and it, it rolls out to the next ring, which is everybody.
-
-So I effectively have a two ring system pre or CD system preview, which is a smaller subset of people that opt in to be using the preview version. And then everybody else, and I'll sometimes.  Somebody asks for a new thing, I'll get it into preview and I'll tell them it's in preview and they can try it there and kick the tires, right?
-
-So I'll bring new stuff that's never been tried into preview, people will come and kick the tires and then it will only go to, to The rest of the world once it's been successful, and that's generally how windows works. That's generally how Microsoft teams works. Office 365  all of most of most of Microsoft's products are now in a ring based.
-
-Audience based deployment model and that seems to be the most effective for services that you deliver to your customers. I think websites are a little bit different for like commercial websites, but  again, these are all things that we can talk about and figure out what the most effective model is.
-
-CD might not be the most effective model for you. CI might not be the most effective model. We might just want some. automated builds.  Having the expertise to understand your product, understand its architecture, understand what the business is trying to achieve with the product will help create that indication of how Naked Agility can support you in creating CI, CD, or just some automation to enable you to be as effective as possible and increase the your release frequency and reduce your cost of deployment.
+And this is something that Naked Agility can help  you and your organization do. We cannot do it for you, but we can be there to help you understand the theories and practices, how they apply within your context, and what are good engineering decisions and what are bad engineering decisions.  Build engineering excellence and technical leadership within your organization.
 
 At [NKD Agility](https://www.nkdagility.com), we specialize in helping organizations design and implement CI/CD pipelines that fit their needs. Whether it’s full automation, ring-based deployments, or just a reliable build system, we can help you optimize your processes and deliver better software, faster. Visit us today to get started!  
 
