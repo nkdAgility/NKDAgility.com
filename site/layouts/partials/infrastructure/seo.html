@@ -28,7 +28,13 @@
 <meta property="og:locale" content="en_GB" />
 <meta property="og:title" content="{{- .Title | plainify -}}" />
 <meta property="og:description" content="{{- (.Description | default .Summary) | plainify -}}" />
-<meta property="og:image" content="{{- .Params.preview | default .Site.Params.og_image -}}" />
+{{- $image := .Resources.GetMatch (printf "**/%s" .Params.preview) }}
+{{- if $image }}
+  <meta property="og:image" content="{{- $image.RelPermalink }}" />
+{{- else }}
+  <meta property="og:image" content="{{- .Site.Params.og_image -}}" />
+{{- end }}
+
 <meta property="og:url" content="{{- $canonicalUrl }}" />
 <meta property="og:site_name" content="naked Agility with Martin Hinshelwood" />
 
@@ -49,7 +55,12 @@
 <meta name="twitter:site" content="@nkdagility" />
 <meta name="twitter:title" content="{{- .Title -}}" />
 <meta name="twitter:description" content="{{- (.Description | default .Summary) | plainify -}}" />
-<meta name="twitter:image" content="{{- .Params.preview | default .Site.Params.og_image -}}" />
+{{- $image := .Resources.GetMatch (printf "**/%s" .Params.preview) }}
+{{- if $image }}
+  <meta name="twitter:image" content="{{- $image.RelPermalink }}" />
+{{- else }}
+  <meta name="twitter:image" content="{{- .Site.Params.og_image -}}" />
+{{- end }}
 <meta name="twitter:label1" content="Estimated reading time" />
 <meta name="twitter:data1" content="{{- .ReadingTime -}} minutes" />
 
