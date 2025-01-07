@@ -5,7 +5,7 @@ description: Discover how automated testing transforms software engineering, red
 date: 2024-11-21T07:00:11Z
 videoId: BAwBXYtKj7o
 url: /resources/videos/:slug
-slug: Technical-Debt-Management-for-Long-Term-Quality
+slug: technical-debt-management-for-long-term-quality
 aliases:
 - /resources/videos/BAwBXYtKj7o
 - /resources/videos/the-power-of-automated-testing
