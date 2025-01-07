@@ -39,7 +39,6 @@ We, we, we need to not manage technical debt, but. Pay it back, deal with it, de
 
 Your purpose is creating value for your customers.  Our purpose is value creation for you through building the technical leadership and engineering excellence that enables your value creation. And that's what Naked Agility can help you with.
 
-
 At [NKD Agility](https://www.nkdagility.com), we specialize in helping teams adopt modern engineering practices like performance engineering, testing in production, and audience-based deployments. Ready to build high-quality, high-performance software? Visit us today to learn how we can support your journey to engineering excellence.  
 
 #agile #scrum #agileproductdevelopment #agileprojectmanagement #projectmanagement #projectmanager #productdevelopment #productmanager #productowner #scrummasters 
