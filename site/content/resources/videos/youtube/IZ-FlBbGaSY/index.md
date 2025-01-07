@@ -56,8 +56,6 @@ We need to focus on building a culture of engineering excellence, the technical 
 
 And this is something that Naked Agility can help  you and your organization do. We cannot do it for you, but we can be there to help you understand the theories and practices, how they apply within your context, and what are good engineering decisions and what are bad engineering decisions.  Build engineering excellence and technical leadership within your organization.
 
-
 At [NKD Agility](https://www.nkdagility.com), we specialize in helping organizations design and implement CI/CD pipelines that fit their needs. Whether it’s full automation, ring-based deployments, or just a reliable build system, we can help you optimize your processes and deliver better software, faster. Visit us today to get started!  
 
 #agile #agileproductdevelopment #agileprojectmanagement #productdevelopment #productmanagement #productmanager #projectmanager #continuousimprovement #continuousintegration 
- [Watch on Youtube](https://www.youtube.com/watch?v=IZ-FlBbGaSY)
