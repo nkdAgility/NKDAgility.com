@@ -1,0 +1,869 @@
+1
+00:00:00,080 --> 00:00:09,559
+automation is a huge part of
+
+2
+00:00:05,759 --> 00:00:13,599
+enabling the building of software to be
+
+3
+00:00:09,559 --> 00:00:16,640
+more effective more standardized
+
+4
+00:00:13,599 --> 00:00:18,840
+more efficient I don't like that word
+
+5
+00:00:16,640 --> 00:00:23,800
+but it it certainly fits
+
+6
+00:00:18,840 --> 00:00:27,320
+here the difficulty is that anytime
+
+7
+00:00:23,800 --> 00:00:29,080
+you've got a human doing something
+
+8
+00:00:27,320 --> 00:00:30,480
+you're go you're going to have mistakes
+
+9
+00:00:29,080 --> 00:00:34,680
+you're going to have mistakes you're
+
+10
+00:00:30,480 --> 00:00:36,719
+going to have steps missed you're go
+
+11
+00:00:34,680 --> 00:00:38,800
+things are going to go wrong two two two
+
+12
+00:00:36,719 --> 00:00:40,440
+kind of examples one's a commercial
+
+13
+00:00:38,800 --> 00:00:43,200
+example and one's just an interesting
+
+14
+00:00:40,440 --> 00:00:47,879
+one so one of the interesting ones do
+
+15
+00:00:43,200 --> 00:00:51,640
+that one first is that I used to teach a
+
+16
+00:00:47,879 --> 00:00:53,879
+bunch of testers how to use the Azure
+
+17
+00:00:51,640 --> 00:00:56,199
+devops test tools uh when there was a
+
+18
+00:00:53,879 --> 00:00:58,320
+separate apps was quite some time ago
+
+19
+00:00:56,199 --> 00:01:02,320
+and you would
+
+20
+00:00:58,320 --> 00:01:04,600
+think that the superpower of testers
+
+21
+00:01:02,320 --> 00:01:06,880
+would be that they could follow a test
+
+22
+00:01:04,600 --> 00:01:08,360
+script right they're going to spend a
+
+23
+00:01:06,880 --> 00:01:09,640
+bunch of work creating the test script
+
+24
+00:01:08,360 --> 00:01:11,600
+but then they're going to follow that
+
+25
+00:01:09,640 --> 00:01:14,960
+test script to run the test running a
+
+26
+00:01:11,600 --> 00:01:17,360
+manual test
+
+27
+00:01:14,960 --> 00:01:19,720
+and follow those steps right so there's
+
+28
+00:01:17,360 --> 00:01:21,560
+10 steps in the test they follow those
+
+29
+00:01:19,720 --> 00:01:25,280
+10 steps and it either passes or it
+
+30
+00:01:21,560 --> 00:01:27,720
+fails right well in this training we had
+
+31
+00:01:25,280 --> 00:01:31,240
+workshops we had labs and they had to
+
+32
+00:01:27,720 --> 00:01:34,640
+follow a set of steps on the lab
+
+33
+00:01:31,240 --> 00:01:36,520
+and I kept getting feedback from loads
+
+34
+00:01:34,640 --> 00:01:38,240
+of people in the room loads of instances
+
+35
+00:01:36,520 --> 00:01:40,880
+of the training I would get feedback all
+
+36
+00:01:38,240 --> 00:01:43,759
+the time that the labs were wrong that
+
+37
+00:01:40,880 --> 00:01:45,719
+the labs didn't work that that the they
+
+38
+00:01:43,759 --> 00:01:46,960
+were following the steps and the lab
+
+39
+00:01:45,719 --> 00:01:50,439
+doesn't work it doesn't do what it's
+
+40
+00:01:46,960 --> 00:01:54,079
+supposed to do and this was false they
+
+41
+00:01:50,439 --> 00:01:55,960
+just weren't following the steps they
+
+42
+00:01:54,079 --> 00:01:58,159
+were either missing something or
+
+43
+00:01:55,960 --> 00:02:01,840
+clicking the wrong button or not
+
+44
+00:01:58,159 --> 00:02:01,840
+whatever it was right
+
+45
+00:02:02,479 --> 00:02:10,319
+so those
+
+46
+00:02:05,039 --> 00:02:12,400
+testers whose job it is to I'm I'm I'm
+
+47
+00:02:10,319 --> 00:02:17,120
+being a little bit factious here whose
+
+48
+00:02:12,400 --> 00:02:21,200
+job it is to uh create and then run sets
+
+49
+00:02:17,120 --> 00:02:25,120
+of steps manually perhaps um to validate
+
+50
+00:02:21,200 --> 00:02:28,120
+whether something is built correctly or
+
+51
+00:02:25,120 --> 00:02:30,080
+manifestly unable to successfully and
+
+52
+00:02:28,120 --> 00:02:32,720
+consistently run through a set of St
+
+53
+00:02:30,080 --> 00:02:34,920
+steps and this is just part of Being
+
+54
+00:02:32,720 --> 00:02:37,560
+Human it's not a slight on them it's not
+
+55
+00:02:34,920 --> 00:02:40,400
+a tester thing it's a human thing the
+
+56
+00:02:37,560 --> 00:02:42,640
+commercial example is the KN cap capital
+
+57
+00:02:40,400 --> 00:02:45,400
+Group which you might have heard of or
+
+58
+00:02:42,640 --> 00:02:47,720
+maybe not but they went bankrupt because
+
+59
+00:02:45,400 --> 00:02:49,440
+somebody couldn't follow a set of steps
+
+60
+00:02:47,720 --> 00:02:51,680
+they had a they had a deployment of a
+
+61
+00:02:49,440 --> 00:02:54,840
+new version of their product there were
+
+62
+00:02:51,680 --> 00:02:56,120
+Stock Exchange Management trading
+
+63
+00:02:54,840 --> 00:02:58,319
+software so you can imagine when
+
+64
+00:02:56,120 --> 00:03:01,120
+something goes wrong the cost of
+
+65
+00:02:58,319 --> 00:03:05,200
+something goes wrong is pretty enormous
+
+66
+00:03:01,120 --> 00:03:07,239
+and with $400 million in the bank at the
+
+67
+00:03:05,200 --> 00:03:11,120
+beginning of the day a deployment
+
+68
+00:03:07,239 --> 00:03:12,480
+happened it went wrong because the the
+
+69
+00:03:11,120 --> 00:03:13,879
+the person running the deployment
+
+70
+00:03:12,480 --> 00:03:16,080
+deployed to eight out of the nine
+
+71
+00:03:13,879 --> 00:03:17,560
+servers and because not all the servers
+
+72
+00:03:16,080 --> 00:03:19,519
+had the latest version of the code some
+
+73
+00:03:17,560 --> 00:03:20,799
+weird stuff started happening it took
+
+74
+00:03:19,519 --> 00:03:23,159
+them till the end of the day to figure
+
+75
+00:03:20,799 --> 00:03:26,040
+out what the problem was which was steps
+
+76
+00:03:23,159 --> 00:03:30,879
+missed and by that time they had to
+
+77
+00:03:26,040 --> 00:03:35,159
+declare bankruptcy they were done right
+
+78
+00:03:30,879 --> 00:03:38,760
+um the cost of these types of mistakes
+
+79
+00:03:35,159 --> 00:03:44,519
+is enormous the that one is a a very
+
+80
+00:03:38,760 --> 00:03:47,400
+extreme example but the cost of somebody
+
+81
+00:03:44,519 --> 00:03:50,040
+who's running a set of steps and this
+
+82
+00:03:47,400 --> 00:03:53,319
+could be a tester it could be a coder it
+
+83
+00:03:50,040 --> 00:03:55,959
+could be uat right could be a user they
+
+84
+00:03:53,319 --> 00:04:00,799
+walk through a set of steps and then
+
+85
+00:03:55,959 --> 00:04:00,799
+they communicate back that it was wrong
+
+86
+00:04:01,000 --> 00:04:03,400
+it didn't
+
+87
+00:04:03,599 --> 00:04:10,799
+work that cost is in investigation from
+
+88
+00:04:08,439 --> 00:04:12,159
+the engineers in loss of focus on new
+
+89
+00:04:10,799 --> 00:04:13,799
+because they're not building new stuff
+
+90
+00:04:12,159 --> 00:04:17,519
+for you when they're having to go look
+
+91
+00:04:13,799 --> 00:04:20,519
+at this erroneous problem and what we
+
+92
+00:04:17,519 --> 00:04:23,680
+want instead is automation the solution
+
+93
+00:04:20,519 --> 00:04:27,160
+to both of these problems is automation
+
+94
+00:04:23,680 --> 00:04:30,639
+there is an expression I use that if it
+
+95
+00:04:27,160 --> 00:04:33,840
+can be automated it should should be
+
+96
+00:04:30,639 --> 00:04:37,120
+automated and if it can't be automated
+
+97
+00:04:33,840 --> 00:04:37,120
+it should be rearchitecturing
+
+98
+00:04:59,720 --> 00:05:05,160
+close the feedback look think about if
+
+99
+00:05:02,120 --> 00:05:06,840
+you were you were telling a story I'm
+
+100
+00:05:05,160 --> 00:05:08,880
+thinking codes kind of like telling a
+
+101
+00:05:06,840 --> 00:05:12,000
+story you're telling a story you're
+
+102
+00:05:08,880 --> 00:05:15,520
+working on part of this story and then
+
+103
+00:05:12,000 --> 00:05:18,000
+you get you submit it to your your your
+
+104
+00:05:15,520 --> 00:05:20,039
+your publisher and the publisher takes
+
+105
+00:05:18,000 --> 00:05:21,960
+six months to come back with feedback
+
+106
+00:05:20,039 --> 00:05:23,720
+and the feedback is this didn't work
+
+107
+00:05:21,960 --> 00:05:27,039
+that doesn't work can you change this
+
+108
+00:05:23,720 --> 00:05:28,520
+can you reformat this now you're much
+
+109
+00:05:27,039 --> 00:05:29,960
+further along in the story you're
+
+110
+00:05:28,520 --> 00:05:31,360
+working on a different part of it and
+
+111
+00:05:29,960 --> 00:05:34,120
+now you have to come back to this
+
+112
+00:05:31,360 --> 00:05:36,960
+previous part of the story and get into
+
+113
+00:05:34,120 --> 00:05:39,199
+the mindset of this part of the story
+
+114
+00:05:36,960 --> 00:05:41,120
+and try and ignore the things you
+
+115
+00:05:39,199 --> 00:05:43,199
+learned during the Future Part of the
+
+116
+00:05:41,120 --> 00:05:45,720
+story right the character development
+
+117
+00:05:43,199 --> 00:05:47,680
+has changed and you have to go back to
+
+118
+00:05:45,720 --> 00:05:51,120
+this old version of the character with
+
+119
+00:05:47,680 --> 00:05:52,039
+older style of of how that character
+
+120
+00:05:51,120 --> 00:05:56,080
+does
+
+121
+00:05:52,039 --> 00:05:58,680
+things and now this you need to do this
+
+122
+00:05:56,080 --> 00:06:01,280
+differently so now we're trying to make
+
+123
+00:05:58,680 --> 00:06:03,840
+a change back here in the
+
+124
+00:06:01,280 --> 00:06:05,960
+past when we have understanding from the
+
+125
+00:06:03,840 --> 00:06:07,880
+future that would impact how we would do
+
+126
+00:06:05,960 --> 00:06:10,240
+this but we can't let that impact what
+
+127
+00:06:07,880 --> 00:06:13,240
+we're doing it's huge cognitive load
+
+128
+00:06:10,240 --> 00:06:15,599
+right and that's that's in code it's
+
+129
+00:06:13,240 --> 00:06:18,560
+exactly the same exactly the same thing
+
+130
+00:06:15,599 --> 00:06:20,840
+happens when you have to do that so not
+
+131
+00:06:18,560 --> 00:06:23,440
+only do we want Automation in our
+
+132
+00:06:20,840 --> 00:06:27,880
+process to automate tests so that we
+
+133
+00:06:23,440 --> 00:06:30,880
+don't have as many false positives of of
+
+134
+00:06:27,880 --> 00:06:33,400
+test failing or false negatives H anyway
+
+135
+00:06:30,880 --> 00:06:36,840
+false negatives probably good and false
+
+136
+00:06:33,400 --> 00:06:40,840
+positives right but we also want to have
+
+137
+00:06:36,840 --> 00:06:44,080
+those tests run as quickly as possible
+
+138
+00:06:40,840 --> 00:06:45,360
+so that we get that feedback loop closed
+
+139
+00:06:44,080 --> 00:06:49,039
+as quickly as
+
+140
+00:06:45,360 --> 00:06:51,160
+possible preferably I'm talking about
+
+141
+00:06:49,039 --> 00:06:53,759
+minutes that's what I'm talking about
+
+142
+00:06:51,160 --> 00:06:57,039
+here is we want automation that runs in
+
+143
+00:06:53,759 --> 00:06:59,080
+minutes that tells us whether we've
+
+144
+00:06:57,039 --> 00:07:02,720
+preferably seconds right or milliseconds
+
+145
+00:06:59,080 --> 00:07:04,319
+but minutes at the most at the outside
+
+146
+00:07:02,720 --> 00:07:07,319
+um a great example of that is the Azure
+
+147
+00:07:04,319 --> 00:07:09,919
+devops team uh they used to have very
+
+148
+00:07:07,319 --> 00:07:13,000
+long automation to find out whether
+
+149
+00:07:09,919 --> 00:07:14,520
+they'd broken something it was 48 to 72
+
+150
+00:07:13,000 --> 00:07:17,280
+hours because they had to run on a bunch
+
+151
+00:07:14,520 --> 00:07:19,520
+of servers because they had long running
+
+152
+00:07:17,280 --> 00:07:22,080
+they had automated tests but they were
+
+153
+00:07:19,520 --> 00:07:24,120
+long running system tests those are the
+
+154
+00:07:22,080 --> 00:07:25,599
+wrong types of automation so not all
+
+155
+00:07:24,120 --> 00:07:28,360
+types of automation are the right type
+
+156
+00:07:25,599 --> 00:07:31,319
+of automation they were certainly better
+
+157
+00:07:28,360 --> 00:07:34,360
+than trying to do it man ually right but
+
+158
+00:07:31,319 --> 00:07:36,560
+those types of tests tend to be flaky
+
+159
+00:07:34,360 --> 00:07:39,560
+tend to have a lot of false positives
+
+160
+00:07:36,560 --> 00:07:43,520
+tend to be difficult so they embarked on
+
+161
+00:07:39,560 --> 00:07:46,000
+an Endeavor to invert that triangle of
+
+162
+00:07:43,520 --> 00:07:49,400
+tests right so if you think about you've
+
+163
+00:07:46,000 --> 00:07:51,120
+got you've got fast running unit tests
+
+164
+00:07:49,400 --> 00:07:54,080
+that your developers are creating that's
+
+165
+00:07:51,120 --> 00:07:56,800
+testing just the smallest unit of work
+
+166
+00:07:54,080 --> 00:08:00,240
+all the way down to Long running system
+
+167
+00:07:56,800 --> 00:08:03,400
+tests at the bottom and they had
+
+168
+00:08:00,240 --> 00:08:06,840
+38,000 long running system tests and a
+
+169
+00:08:03,400 --> 00:08:09,000
+very small number of of of unit tests at
+
+170
+00:08:06,840 --> 00:08:13,360
+the top so their pyramid was the wrong
+
+171
+00:08:09,000 --> 00:08:15,759
+way up right so what they did was they
+
+172
+00:08:13,360 --> 00:08:18,720
+spent a whole bunch of time money and
+
+173
+00:08:15,759 --> 00:08:21,720
+effort flipping that pyramid round and
+
+174
+00:08:18,720 --> 00:08:24,960
+working through moving all of those
+
+175
+00:08:21,720 --> 00:08:27,360
+tests to fast slick Automation and they
+
+176
+00:08:24,960 --> 00:08:29,560
+got from 24 to 48 hours to find out
+
+177
+00:08:27,360 --> 00:08:32,800
+whether something is wrong all the way
+
+178
+00:08:29,560 --> 00:08:36,200
+down to 3 and 1 half minutes to run the
+
+179
+00:08:32,800 --> 00:08:38,599
+their entire test infrastructure locally
+
+180
+00:08:36,200 --> 00:08:40,599
+um on the developer workstation so you
+
+181
+00:08:38,599 --> 00:08:44,360
+close those feedback loops you shorten
+
+182
+00:08:40,599 --> 00:08:46,760
+those Cycles manual is the longest cycle
+
+183
+00:08:44,360 --> 00:08:49,680
+anything manual whether it's deployments
+
+184
+00:08:46,760 --> 00:08:51,920
+whether it's testing anything manual is
+
+185
+00:08:49,680 --> 00:08:54,279
+is prone to mistakes so you get false
+
+186
+00:08:51,920 --> 00:08:57,120
+positives and negatives but it also
+
+187
+00:08:54,279 --> 00:08:59,440
+takes time it's timec consuming and it's
+
+188
+00:08:57,120 --> 00:09:01,680
+costly I oh I worked with an organ
+
+189
+00:08:59,440 --> 00:09:03,279
+organization years ago that's the only
+
+190
+00:09:01,680 --> 00:09:05,360
+organization I've ever encountered like
+
+191
+00:09:03,279 --> 00:09:08,160
+this so it is unusual it's an outlier
+
+192
+00:09:05,360 --> 00:09:11,680
+but they had twice as many testers as
+
+193
+00:09:08,160 --> 00:09:14,240
+coders their quality was so bad in their
+
+194
+00:09:11,680 --> 00:09:17,000
+software that they had to do I think it
+
+195
+00:09:14,240 --> 00:09:19,399
+was n and a half thous hours of manual
+
+196
+00:09:17,000 --> 00:09:21,160
+QA to validate whether any change the
+
+197
+00:09:19,399 --> 00:09:24,320
+developers had made would actually work
+
+198
+00:09:21,160 --> 00:09:29,880
+in the system so they had 600 testers
+
+199
+00:09:24,320 --> 00:09:32,839
+and 300 coders um in their teams and
+
+200
+00:09:29,880 --> 00:09:34,079
+that it was all manual tests and that is
+
+201
+00:09:32,839 --> 00:09:36,480
+just
+
+202
+00:09:34,079 --> 00:09:39,839
+unsustainable think of the cost of
+
+203
+00:09:36,480 --> 00:09:42,240
+having all of those people versus having
+
+204
+00:09:39,839 --> 00:09:46,040
+fast tight
+
+205
+00:09:42,240 --> 00:09:49,800
+secure easy to understand easy to Val
+
+206
+00:09:46,040 --> 00:09:52,360
+automation that could run and check your
+
+207
+00:09:49,800 --> 00:09:54,279
+software on a regular Cadence you will
+
+208
+00:09:52,360 --> 00:09:57,160
+build more
+
+209
+00:09:54,279 --> 00:09:59,120
+features you will build those features
+
+210
+00:09:57,160 --> 00:10:01,360
+with a higher level of quality so you'll
+
+211
+00:09:59,120 --> 00:10:03,120
+have happier customers and if you're
+
+212
+00:10:01,360 --> 00:10:04,920
+building more features you're having
+
+213
+00:10:03,120 --> 00:10:06,320
+happier customers you're doing more
+
+214
+00:10:04,920 --> 00:10:08,560
+experiments right because you're
+
+215
+00:10:06,320 --> 00:10:10,560
+building more features you're more
+
+216
+00:10:08,560 --> 00:10:14,360
+likely to open out new markets and
+
+217
+00:10:10,560 --> 00:10:14,360
+you're more likely to make a profit
+
+
