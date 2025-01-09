@@ -1,0 +1,1 @@
+And that is the diligence that your organisation expects. The reason organisations and businesses don't really talk about the definition of done from a leadership perspective is because it's just expected that we'll have a level of quality that they're able to use. That's just the default. But unfortunately, it's not the default in many teams.

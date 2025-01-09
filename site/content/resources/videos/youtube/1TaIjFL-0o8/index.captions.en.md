@@ -1,0 +1,15 @@
+So what is the most common Epiphany in the PSM2 course? I think there's more than one, and I think it depends on what level you're playing at when you come into the class, which Epiphany you get.
+
+So probably the biggest Epiphany is the realisation that the Scrum Master is not just focused on the team. That's the big Epiphany for most folks because I think, even though it's very explicit in the Scrum Guide, it absolutely states here's the Scrum Master's accountability to the team, and here's the accountability of the Product Owner, and here's the accountability to the organisation. Most people seem to forget or kind of gloss over that bit for the accountability for the organisation. 
+
+When we start kind of double-clicking on that and expanding it and figuring out what the implications are of those accountabilities for how the Scrum Master purports themselves within the organisation, I think it changes that dynamic. It expands those ideas, and they really have that realisation that they perhaps need to be doing more, that they need to be poking at some of those, asking difficult questions. Right? That's something that I find is very important as a Scrum Master. 
+
+Even if all that difficult question is, is why? Right? Something happens a particular way in the organisation that is getting in the way of the team. Why? Right? Because you do find, depending on the organisation, that there can be rules in place that are ancient rules. 
+
+I have been doing a little bit of digging recently on the Royal Bank of Scotland, and they have these rules in place for how their teams work. But there are 200-plus-year-old bank rules, right? There are rules in place because they were a great rule 100 years ago for whatever context they were created in. But are they still relevant today? That's kind of like your organisational package and your organisational craft, and who's going to take care of that? Who looks at that craft? 
+
+So I think that that's one of the big epiphanies at that level. Then there's the meta Epiphany in the PSM2 that I think is really important for those people in the room that are also facilitators. So they kind of get a double Epiphany, and that's how to engage with people and have more people participate in the discussions. 
+
+Like, how to become a two-dimensional Scrum Master rather than that one-dimensional of just looking at Scrum. How do I start bringing in additional tools and practices in the way that they do things and demonstrate their own behaviour in order to facilitate change of the people and participation in the events?
+
+Thanks for watching the video. If you enjoyed it, please like, follow, and subscribe. I always reply to comments, and if you want to have a chat about this or anything else Agile, Scrum, or DevOps, then please book a coffee with me through Naked Agility.

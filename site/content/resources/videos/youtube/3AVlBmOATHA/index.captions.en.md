@@ -1,0 +1,25 @@
+Foreign. How do I help organisations pitch the idea of Agile internally? I guess it depends whether you're managing up or you're managing down, right? 
+
+Um, so if you're managing up, i.e. you're working on a team or with a team or at some level where you're building products and you want to do Agile but your organisation is not yet there, yet is not yet understanding what the difference is or what the impact is, um, then having conversations with them in their language is the most important thing you can do. 
+
+Um, you need to, like, there's no point in talking about Agile or Scrum up the organisation because they're words that then you then have to explain, right? The other person's like, "Well, what the heck is this crap?" Right? I need to, you need to tell me what it is then, and you end up having to stop all the time. So you need to use their language. 
+
+So if you're talking to people with, uh, um, like a business value focus, then talk about, um, delivering more of the right things, less of the wrong things. Um, talk about, uh, responding to the market more quickly. I'll talk about, um, how to, um, deliver happier, more engaged customers, right? That's probably what they're focused on; that's probably what their metrics push. 
+
+But find out what their metrics are, right? What are they measuring as success in the business? And go look at that. If you're, um, business, if you look at those metrics and your business is a totally fiscally focused, right? Apart from just being screwed, right? You also need, you need to look at, um, what are the benefits from a fiscal perspective that you can get from Agile. 
+
+I feel like if your company's focused on just fiscal stuff, then that's not a good thing anyway, right? That's revenue extraction rather than value creation. But, um, that's, that's, you can only get to that conversation once you convince them. So you want to be talking about reducing fiscal risk. You want to be talking about, because quick, fast iterations of actual value they provide reduces operational risk, reduces fiscal risk. 
+
+Um, it increases the value that you've delivered, and in most countries, there are tax benefits to write down capital expenditures, right? For example, here's a simple argument: I'm going to spend, uh, uh, 12 million dollars capital expenditure to build a product. Um, at the end of 12 months, I'm going to deliver that product into production, and at that point, and like, I can start writing down that capital expenditure, right? From a tax perspective, normally you can only start writing down so it depreciates over time, right? You can write that down and claim tax benefits for it. Most countries, I don't know about all countries, but UK, US definitely have these things in there. 
+
+But if you remember in school when you do that, uh, um, compound interest calculation, right? And you're always looking at how big the money grows, the opposite is true for, um, writing things down. So at the end of, if you're delivering monthly, right, to production, it's costing you a million dollars a month on a 12 million dollar yearly gig. At the end of the first month, you can just, you can start writing down that million dollars. 
+
+And then at the end of the second month, you've already had a month of writing down a million dollars, and you start writing down the second million dollars. And then at the end of the third month, you've had two months of writing down the first million dollars, two, sorry, three months of writing down the first million dollars, two months of the second, and you're getting into the third, right? So you end up with this compound, right? 
+
+I've never met a CFO, um, who you can't convince that Agile's a good idea if you use their language. What data are they looking at? How could being more Agile shift those metrics? And use their words to describe it. So that's managing up. 
+
+Um, if you're in leadership in your organisation and you're looking down in your organisation and you're trying to figure out how do I, um, engage all of these people in this change activity in moving towards a different way of working, um, and the answer is get them involved in that process. You need to create an event whereby you're asking them what it is that we need to do differently, getting them to agree what the action steps are to move forward, getting them to choose the processes and practices that you're going to use. 
+
+Because only by them choosing it, them being involved, and them deciding will they care enough about the change to get behind it and support it and help, help, help make that change. Otherwise, they'll, they're not in, they don't care about your objectives, right? They care about their objectives. You have to make it their objective or help encourage it to be their objective. 
+
+So I use things like, um, open space Agile, and there's a concrete implementation called Open Space Beta, which helps with that as well. Um, so yeah, it just depends whether you're managing up or managing down.
