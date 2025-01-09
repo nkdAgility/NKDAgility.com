@@ -6,6 +6,7 @@ videoId: rEqytRyOHGI
 source: internal
 url: /resources/videos/:slug
 slug: special-sprints-agile-banditry-or-risk-management
+layout: video
 preview: https://i.ytimg.com/vi/rEqytRyOHGI/maxresdefault.jpg
 duration: 291
 isShort: false

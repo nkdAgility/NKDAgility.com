@@ -6,6 +6,7 @@ videoId: Ce5pFwG5IAY
 source: internal
 url: /resources/videos/:slug
 slug: 5-tools-that-scrum-masters-love-part-1
+layout: video
 preview: https://i.ytimg.com/vi/Ce5pFwG5IAY/maxresdefault.jpg
 duration: 43
 isShort: true

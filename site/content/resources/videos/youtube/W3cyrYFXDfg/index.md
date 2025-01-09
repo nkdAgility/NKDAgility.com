@@ -6,6 +6,7 @@ videoId: W3cyrYFXDfg
 source: internal
 url: /resources/videos/:slug
 slug: agile-leadership-empowering-managers-with-the-right-skills
+layout: video
 preview: https://i.ytimg.com/vi/W3cyrYFXDfg/maxresdefault.jpg
 duration: 205
 isShort: false

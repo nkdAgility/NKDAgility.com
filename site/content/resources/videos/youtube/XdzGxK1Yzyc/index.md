@@ -6,6 +6,7 @@ videoId: XdzGxK1Yzyc
 source: internal
 url: /resources/videos/:slug
 slug: what-is-a-product-owner-why-are-they-essential
+layout: video
 preview: https://i.ytimg.com/vi/XdzGxK1Yzyc/maxresdefault.jpg
 duration: 319
 isShort: false

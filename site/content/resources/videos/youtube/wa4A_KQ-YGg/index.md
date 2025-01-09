@@ -6,6 +6,7 @@ videoId: wa4A_KQ-YGg
 source: internal
 url: /resources/videos/:slug
 slug: what-are-immersive-training-courses
+layout: video
 preview: https://i.ytimg.com/vi/wa4A_KQ-YGg/maxresdefault.jpg
 duration: 367
 isShort: false

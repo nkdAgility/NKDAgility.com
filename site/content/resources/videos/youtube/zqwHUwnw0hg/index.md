@@ -6,6 +6,7 @@ videoId: zqwHUwnw0hg
 source: internal
 url: /resources/videos/:slug
 slug: what-will-you-learn-on-the-professional-scrum-master-course
+layout: video
 preview: https://i.ytimg.com/vi/zqwHUwnw0hg/maxresdefault.jpg
 duration: 326
 isShort: false

@@ -5,6 +5,7 @@ date: 2022-10-18T16:13:02Z
 videoId: Q2Fo3sM6BVo
 url: /resources/videos/:slug
 slug: the-scrum-framework!
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=Q2Fo3sM6BVo
 aliases:
 - /resources/videos/Q2Fo3sM6BVo
@@ -18,6 +19,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube Q2Fo3sM6BVo >}} 

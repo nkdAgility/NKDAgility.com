@@ -6,6 +6,7 @@ videoId: jhpy9Hy8uEw
 source: internal
 url: /resources/videos/:slug
 slug: why-did-you-choose-the-scrum-org-track-rather-than-the-scrum-alliance-track
+layout: video
 preview: https://i.ytimg.com/vi/jhpy9Hy8uEw/maxresdefault.jpg
 duration: 303
 isShort: false

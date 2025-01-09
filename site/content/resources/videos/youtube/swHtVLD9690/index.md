@@ -6,6 +6,7 @@ videoId: swHtVLD9690
 source: internal
 url: /resources/videos/:slug
 slug: the-common-challenges-of-adopting-devops-practices
+layout: video
 preview: https://i.ytimg.com/vi/swHtVLD9690/maxresdefault.jpg
 duration: 438
 isShort: false

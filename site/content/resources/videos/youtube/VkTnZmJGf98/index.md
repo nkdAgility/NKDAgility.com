@@ -6,6 +6,7 @@ videoId: VkTnZmJGf98
 source: internal
 url: /resources/videos/:slug
 slug: evidence-based-management-the-key-to-agile-success
+layout: video
 preview: https://i.ytimg.com/vi/VkTnZmJGf98/maxresdefault.jpg
 duration: 323
 isShort: false

@@ -6,6 +6,7 @@ videoId: UeGdC6GRyq4
 source: internal
 url: /resources/videos/:slug
 slug: under-employed-30-upfront-balance-when-you-are-employed
+layout: video
 preview: https://i.ytimg.com/vi/UeGdC6GRyq4/maxresdefault.jpg
 duration: 257
 isShort: false

@@ -5,6 +5,7 @@ date: 2023-06-15T07:00:06Z
 videoId: IXmOAB5e44w
 url: /resources/videos/:slug
 slug: referral-program-20-of-the-course-fee-credited-to-your-account-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=IXmOAB5e44w
 aliases:
 - /resources/videos/IXmOAB5e44w
@@ -23,6 +24,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube IXmOAB5e44w >}} 

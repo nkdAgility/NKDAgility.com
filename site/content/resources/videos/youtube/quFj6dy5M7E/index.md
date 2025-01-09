@@ -6,6 +6,7 @@ videoId: quFj6dy5M7E
 source: youtube
 url: /resources/videos/:slug
 slug: building-a-high-performance-delivery-engine
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=quFj6dy5M7E
 aliases:
 - /resources/videos/quFj6dy5M7E
@@ -32,6 +33,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube quFj6dy5M7E >}} 

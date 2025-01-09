@@ -6,6 +6,7 @@ videoId: GIq3LZUnWx4
 source: internal
 url: /resources/videos/:slug
 slug: what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on
+layout: video
 preview: https://i.ytimg.com/vi/GIq3LZUnWx4/maxresdefault.jpg
 duration: 116
 isShort: false

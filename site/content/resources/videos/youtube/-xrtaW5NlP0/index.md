@@ -32,6 +32,7 @@ tags:
 - agile product management
 resourceTypes:
 - video
+layout: video
 
 ---
 {{< youtube -xrtaW5NlP0 >}}

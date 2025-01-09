@@ -5,6 +5,7 @@ date: 2023-06-29T07:00:19Z
 videoId: xJsuDbsFzlw
 url: /resources/videos/:slug
 slug: what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=xJsuDbsFzlw
 aliases:
 - /resources/videos/xJsuDbsFzlw
@@ -24,6 +25,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube xJsuDbsFzlw >}} 

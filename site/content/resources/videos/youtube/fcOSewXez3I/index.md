@@ -5,6 +5,7 @@ date: 2023-07-05T14:49:20Z
 videoId: fcOSewXez3I
 url: /resources/videos/:slug
 slug: how-is-technology-like-ai-changing-the-world-we-work-in-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=fcOSewXez3I
 aliases:
 - /resources/videos/fcOSewXez3I
@@ -21,6 +22,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube fcOSewXez3I >}} 

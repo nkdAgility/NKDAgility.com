@@ -6,6 +6,7 @@ videoId: HO_XLWhJv1s
 source: youtube
 url: /resources/videos/:slug
 slug: professional-scrum-product-owner-(pspo)-overview-to-discover-product-management-skills-&-practices
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=HO_XLWhJv1s
 aliases:
@@ -18,6 +19,8 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube HO_XLWhJv1s >}} 

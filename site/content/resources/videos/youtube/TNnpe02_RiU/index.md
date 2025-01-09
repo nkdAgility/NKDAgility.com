@@ -6,6 +6,7 @@ videoId: TNnpe02_RiU
 source: internal
 url: /resources/videos/:slug
 slug: what-is-your-peeve-in-devops
+layout: video
 preview: https://i.ytimg.com/vi/TNnpe02_RiU/maxresdefault.jpg
 duration: 31
 isShort: true

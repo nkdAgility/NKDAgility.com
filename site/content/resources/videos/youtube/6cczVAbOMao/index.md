@@ -42,6 +42,7 @@ tags:
 - DevOps coaching
 resourceTypes:
 - video
+layout: video
 
 ---
 {{< youtube 6cczVAbOMao >}}

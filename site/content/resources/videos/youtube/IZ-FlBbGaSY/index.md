@@ -3,8 +3,10 @@ title: Building a culture of Quality
 description: Unlock the true potential of CI/CD! Join Martin Hinshelwood as he reveals best practices for Continuous Integration and Delivery to enhance quality and speed.
 date: 2024-11-22T07:00:08Z
 videoId: IZ-FlBbGaSY
+source: internal
 url: /resources/videos/:slug
 slug: building-a-culture-of-quality
+layout: video
 aliases:
 - /resources/videos/IZ-FlBbGaSY
 - /resources/videos/continuous-integration-and-continuous-delivery-ci-cd-for-quality
@@ -25,6 +27,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+resourceTypes:
+- video
 
 ---
 {{< youtube IZ-FlBbGaSY >}} 
@@ -58,4 +62,4 @@ And this is something that Naked Agility can help  you and your organization do.
 
 At [NKD Agility](https://www.nkdagility.com), we specialize in helping organizations design and implement CI/CD pipelines that fit their needs. Whether it’s full automation, ring-based deployments, or just a reliable build system, we can help you optimize your processes and deliver better software, faster. Visit us today to get started!  
 
-#agile #agileproductdevelopment #agileprojectmanagement #productdevelopment #productmanagement #productmanager #projectmanager #continuousimprovement #continuousintegration 
+#agile #agileproductdevelopment #agileprojectmanagement #productdevelopment #productmanagement #productmanager #projectmanager #continuousimprovement #continuousintegration

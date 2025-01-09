@@ -6,6 +6,7 @@ videoId: WTd-8mOlFfQ
 source: internal
 url: /resources/videos/:slug
 slug: part-2-common-mistakes-that-scrum-masters-make
+layout: video
 preview: https://i.ytimg.com/vi/WTd-8mOlFfQ/maxresdefault.jpg
 duration: 37
 isShort: true

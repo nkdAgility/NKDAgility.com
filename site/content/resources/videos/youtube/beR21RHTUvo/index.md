@@ -6,6 +6,7 @@ videoId: beR21RHTUvo
 source: internal
 url: /resources/videos/:slug
 slug: story-points-a-ghost-of-agile-past
+layout: video
 preview: https://i.ytimg.com/vi/beR21RHTUvo/maxresdefault.jpg
 duration: 433
 isShort: false

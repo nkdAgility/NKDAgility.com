@@ -6,6 +6,7 @@ videoId: hj31XHbmWbA
 source: internal
 url: /resources/videos/:slug
 slug: quotes-you-can-t-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs
+layout: video
 preview: https://i.ytimg.com/vi/hj31XHbmWbA/maxresdefault.jpg
 duration: 46
 isShort: true

@@ -6,6 +6,7 @@ videoId: c6R8wo04LK4
 source: internal
 url: /resources/videos/:slug
 slug: hardest-part-of-adopting-scrum
+layout: video
 preview: https://i.ytimg.com/vi/c6R8wo04LK4/maxresdefault.jpg
 duration: 36
 isShort: true

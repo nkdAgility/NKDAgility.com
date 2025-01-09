@@ -6,6 +6,7 @@ videoId: Ye016yOxvcs
 source: internal
 url: /resources/videos/:slug
 slug: 5-critical-skills-to-master-as-an-agile-consultant-part-1
+layout: video
 preview: https://i.ytimg.com/vi/Ye016yOxvcs/maxresdefault.jpg
 duration: 51
 isShort: true

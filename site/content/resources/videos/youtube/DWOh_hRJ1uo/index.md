@@ -6,6 +6,7 @@ videoId: DWOh_hRJ1uo
 source: internal
 url: /resources/videos/:slug
 slug: what-is-your-best-advice-for-becoming-a-scrum-master-outside-software-engineering
+layout: video
 preview: https://i.ytimg.com/vi/DWOh_hRJ1uo/maxresdefault.jpg
 duration: 202
 isShort: false

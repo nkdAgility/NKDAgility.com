@@ -1,0 +1,9 @@
+The question is, why is the Professional Agile Leadership Essentials class a kind of core evolution for a Scrum Master? I think, again, there are two great reasons. The first one is that it enables a Scrum Master to hear the questions that leaders and managers have about Scrum, about the context that we're talking about, right? They get to hear some of the other ways that it's important to them or that we can solve problems for them.
+
+But also, I think of the Scrum Master as being the first rung on the leadership track, right? This idea that I call them kind of gold shirts, right? Like the Star Trek idea. You get people that are on the leadership track, and you get people that aren't really interested in the leadership track. There are loads of people out there who are quite happy being software engineers, right? They're quite happy being Scotty, running these engineering departments. They don't want to be in charge of the ship at all.
+
+So, we need to be able to cater for both of those groups, and the Scrum Master is a natural position of leadership. They're a leader who serves the team. Then the next level up is the leader who serves a bunch of teams, and the next level up is the leader who serves a part of the organisation or the leader who serves the actual organisation, right?
+
+So, that gives you that kind of leadership track of the organisation. For the Scrum Master, learning the language, the lexicon, the problems that the leaders see at those levels will help them better serve people at those different levels in the organisation.
+
+Thanks for watching the video! If you enjoyed it, please like, follow, and subscribe. I always reply to comments, and if you want to have a chat about this or anything else Agile, Scrum, or DevOps, then please book a coffee with me through Naked Agility.

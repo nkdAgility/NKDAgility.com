@@ -6,6 +6,7 @@ videoId: LWRAX3OyO28
 source: youtube
 url: /resources/videos/:slug
 slug: the-power-of-continuous-delivery
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=LWRAX3OyO28
 aliases:
 - /resources/videos/LWRAX3OyO28
@@ -32,6 +33,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube LWRAX3OyO28 >}} 

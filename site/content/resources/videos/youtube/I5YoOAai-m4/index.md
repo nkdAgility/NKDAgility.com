@@ -6,6 +6,7 @@ videoId: I5YoOAai-m4
 source: internal
 url: /resources/videos/:slug
 slug: agile-coach-versus-professional-coach
+layout: video
 preview: https://i.ytimg.com/vi/I5YoOAai-m4/maxresdefault.jpg
 duration: 57
 isShort: true

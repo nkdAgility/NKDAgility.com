@@ -6,6 +6,7 @@ videoId: ekUL1oIMeAc
 source: internal
 url: /resources/videos/:slug
 slug: worst-contribution-from-a-product-owner-that-you-know-of
+layout: video
 preview: https://i.ytimg.com/vi/ekUL1oIMeAc/maxresdefault.jpg
 duration: 48
 isShort: true

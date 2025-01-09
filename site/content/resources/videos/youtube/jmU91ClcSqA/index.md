@@ -6,6 +6,7 @@ videoId: jmU91ClcSqA
 source: internal
 url: /resources/videos/:slug
 slug: what-is-project-management
+layout: video
 preview: https://i.ytimg.com/vi/jmU91ClcSqA/maxresdefault.jpg
 duration: 52
 isShort: true

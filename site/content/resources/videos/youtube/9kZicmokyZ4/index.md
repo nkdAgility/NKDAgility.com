@@ -6,6 +6,7 @@ videoId: 9kZicmokyZ4
 source: internal
 url: /resources/videos/:slug
 slug: the-importance-of-evidence-based-management-in-agile-environments
+layout: video
 preview: https://i.ytimg.com/vi/9kZicmokyZ4/maxresdefault.jpg
 duration: 29
 isShort: true

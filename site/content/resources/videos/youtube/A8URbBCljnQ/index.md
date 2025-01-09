@@ -5,6 +5,7 @@ date: 2020-04-10T18:30:42Z
 videoId: A8URbBCljnQ
 url: /resources/videos/:slug
 slug: 27th-march-2020-office-hours-ask-me-anything
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=A8URbBCljnQ
 aliases:
 - /resources/videos/A8URbBCljnQ
@@ -18,6 +19,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube A8URbBCljnQ >}} 

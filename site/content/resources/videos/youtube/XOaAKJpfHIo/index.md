@@ -6,6 +6,7 @@ videoId: XOaAKJpfHIo
 source: internal
 url: /resources/videos/:slug
 slug: how-important-is-devops-in-continuous-delivery-of-value-to-customers
+layout: video
 preview: https://i.ytimg.com/vi/XOaAKJpfHIo/maxresdefault.jpg
 duration: 186
 isShort: false

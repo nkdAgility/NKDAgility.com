@@ -6,6 +6,7 @@ videoId: hXieCawt-XE
 source: internal
 url: /resources/videos/:slug
 slug: mastering-kanban-creating-a-pull-based-system-for-workflow-efficiency
+layout: video
 preview: https://i.ytimg.com/vi/hXieCawt-XE/maxresdefault.jpg
 duration: 599
 isShort: false

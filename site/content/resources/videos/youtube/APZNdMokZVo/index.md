@@ -5,6 +5,7 @@ date: 2023-11-13T06:56:47Z
 videoId: APZNdMokZVo
 url: /resources/videos/:slug
 slug: what-is-a-definition-of-done-why-is-it-so-important-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=APZNdMokZVo
 aliases:
 - /resources/videos/APZNdMokZVo
@@ -41,6 +42,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube APZNdMokZVo >}} 

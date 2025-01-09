@@ -6,6 +6,7 @@ videoId: il1GdfG7rWk
 source: internal
 url: /resources/videos/:slug
 slug: mastering-product-backlog-management-essential-skills-for-product-owners
+layout: video
 preview: https://i.ytimg.com/vi/il1GdfG7rWk/maxresdefault.jpg
 duration: 387
 isShort: false

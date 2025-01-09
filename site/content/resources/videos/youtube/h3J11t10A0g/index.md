@@ -6,6 +6,7 @@ videoId: h3J11t10A0g
 source: youtube
 url: /resources/videos/:slug
 slug: escaping-the-deadline-death-spiral
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=h3J11t10A0g
 aliases:
 - /resources/videos/h3J11t10A0g
@@ -32,6 +33,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube h3J11t10A0g >}} 

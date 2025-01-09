@@ -6,6 +6,7 @@ videoId: qEaiA_m8Vyg
 source: internal
 url: /resources/videos/:slug
 slug: why-have-you-decided-to-go-all-in-on-immersive-learning-experiences
+layout: video
 preview: https://i.ytimg.com/vi/qEaiA_m8Vyg/maxresdefault.jpg
 duration: 345
 isShort: false

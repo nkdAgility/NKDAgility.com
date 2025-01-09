@@ -5,6 +5,7 @@ date: 2023-04-21T07:00:06Z
 videoId: LI6G1awAUyU
 url: /resources/videos/:slug
 slug: what-are-the-most-common-challenges-you-are-contracted-to-solve-in-a-devops-consulting-gig-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=LI6G1awAUyU
 aliases:
 - /resources/videos/LI6G1awAUyU
@@ -28,6 +29,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube LI6G1awAUyU >}} 

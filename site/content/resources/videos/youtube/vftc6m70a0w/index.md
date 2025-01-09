@@ -5,6 +5,7 @@ date: 2023-12-04T08:39:06Z
 videoId: vftc6m70a0w
 url: /resources/videos/:slug
 slug: 7-virtues-of-agile-chastity
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=vftc6m70a0w
 aliases:
 - /resources/videos/vftc6m70a0w
@@ -41,6 +42,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube vftc6m70a0w >}} 

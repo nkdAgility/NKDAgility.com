@@ -6,6 +6,7 @@ videoId: A0Y-zySHXyc
 source: internal
 url: /resources/videos/:slug
 slug: what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-decision-maker
+layout: video
 preview: https://i.ytimg.com/vi/A0Y-zySHXyc/maxresdefault.jpg
 duration: 315
 isShort: false

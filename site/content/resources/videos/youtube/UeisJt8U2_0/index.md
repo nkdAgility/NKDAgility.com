@@ -6,6 +6,7 @@ videoId: UeisJt8U2_0
 source: internal
 url: /resources/videos/:slug
 slug: 7-harbingers-of-the-agile-apocalypse-plague
+layout: video
 preview: https://i.ytimg.com/vi/UeisJt8U2_0/maxresdefault.jpg
 duration: 422
 isShort: false

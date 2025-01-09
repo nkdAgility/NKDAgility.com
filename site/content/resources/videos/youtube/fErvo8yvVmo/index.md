@@ -6,6 +6,7 @@ videoId: fErvo8yvVmo
 source: youtube
 url: /resources/videos/:slug
 slug: pspo-s1-2m
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=fErvo8yvVmo
 aliases:
@@ -18,6 +19,8 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube fErvo8yvVmo >}} 

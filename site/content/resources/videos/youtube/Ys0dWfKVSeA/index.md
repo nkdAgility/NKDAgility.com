@@ -6,6 +6,7 @@ videoId: Ys0dWfKVSeA
 source: internal
 url: /resources/videos/:slug
 slug: scrum-doesn-t-solve-problems-it-reveals-them-how-and-why-is-that-valuable
+layout: video
 preview: https://i.ytimg.com/vi/Ys0dWfKVSeA/maxresdefault.jpg
 duration: 584
 isShort: false

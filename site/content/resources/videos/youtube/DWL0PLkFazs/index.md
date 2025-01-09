@@ -5,6 +5,7 @@ date: 2017-07-28T12:40:03Z
 videoId: DWL0PLkFazs
 url: /resources/videos/:slug
 slug: why-did-healthgrades-choose-martin-hinshelwood
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=DWL0PLkFazs
 aliases:
 - /resources/videos/DWL0PLkFazs
@@ -22,6 +23,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube DWL0PLkFazs >}} 

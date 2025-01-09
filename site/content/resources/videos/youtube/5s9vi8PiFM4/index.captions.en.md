@@ -1,0 +1,3 @@
+The one thing I really wish that I knew, understood, or was exposed to at the beginning of my Scrum journey was also having a Lean journey, a Lean story as well. I didn't encounter Lean until about seven or eight years into my Scrum story, and it took me that long to really truly understand how it changed the dynamic. 
+
+Scrum is the social technology that helps us work together more effectively. Lean is the data and understanding of how we're doing that thing that enables us to be even more successful.

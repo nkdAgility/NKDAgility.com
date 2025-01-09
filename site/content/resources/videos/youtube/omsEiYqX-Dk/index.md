@@ -6,6 +6,7 @@ videoId: omsEiYqX-Dk
 source: youtube
 url: /resources/videos/:slug
 slug: how-much-competitive-advantage-does-organizational-agility-offer-versus-traditional-management-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=omsEiYqX-Dk
 aliases:
 - /resources/videos/omsEiYqX-Dk
@@ -26,6 +27,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube omsEiYqX-Dk >}} 

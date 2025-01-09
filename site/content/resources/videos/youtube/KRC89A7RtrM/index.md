@@ -5,6 +5,7 @@ date: 2014-01-15T14:55:37Z
 videoId: KRC89A7RtrM
 url: /resources/videos/:slug
 slug: some-of-the-features-of-team-web-access-are-not-available-to-you-in-tfs-2013
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=KRC89A7RtrM
 aliases:
 - /resources/videos/KRC89A7RtrM
@@ -24,6 +25,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube KRC89A7RtrM >}} 

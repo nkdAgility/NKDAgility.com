@@ -6,6 +6,7 @@ videoId: CPYTApf0Ibs
 source: internal
 url: /resources/videos/:slug
 slug: does-your-team-truly-understand-your-product-vision-and-goals
+layout: video
 preview: https://i.ytimg.com/vi/CPYTApf0Ibs/maxresdefault.jpg
 duration: 411
 isShort: false

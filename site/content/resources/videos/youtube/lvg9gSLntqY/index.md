@@ -6,6 +6,7 @@ videoId: lvg9gSLntqY
 source: internal
 url: /resources/videos/:slug
 slug: why-does-project-management-not-work-in-complex-environments
+layout: video
 preview: https://i.ytimg.com/vi/lvg9gSLntqY/maxresdefault.jpg
 duration: 53
 isShort: true

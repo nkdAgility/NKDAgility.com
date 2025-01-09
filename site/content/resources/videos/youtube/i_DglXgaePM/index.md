@@ -5,6 +5,7 @@ date: 2020-03-25T21:07:01Z
 videoId: i_DglXgaePM
 url: /resources/videos/:slug
 slug: slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-&-fows
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=i_DglXgaePM
 aliases:
 - /resources/videos/i_DglXgaePM
@@ -18,6 +19,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube i_DglXgaePM >}} 

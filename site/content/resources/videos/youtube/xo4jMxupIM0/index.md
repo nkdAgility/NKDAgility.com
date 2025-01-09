@@ -19,6 +19,7 @@ aliases:
 resourceTypes:
 - video
 slug: what-makes-the-psm-immersive-learning-experience-so-unique
+layout: video
 tags:
 - Agile
 - Scrum

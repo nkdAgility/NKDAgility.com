@@ -5,6 +5,7 @@ date: 2024-11-05T06:00:34Z
 videoId: tzmbqdEULUY
 url: /resources/videos/:slug
 slug: devops-migration-downtime
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=tzmbqdEULUY
 aliases:
 - /resources/videos/tzmbqdEULUY
@@ -23,6 +24,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube tzmbqdEULUY >}} 

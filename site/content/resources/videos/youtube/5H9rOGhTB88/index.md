@@ -24,6 +24,7 @@ tags:
 - agile project management
 resourceTypes:
 - video
+layout: video
 
 ---
 {{< youtube 5H9rOGhTB88 >}}

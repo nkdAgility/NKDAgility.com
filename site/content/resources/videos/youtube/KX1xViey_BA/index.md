@@ -6,6 +6,7 @@ videoId: KX1xViey_BA
 source: internal
 url: /resources/videos/:slug
 slug: quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor
+layout: video
 preview: https://i.ytimg.com/vi/KX1xViey_BA/maxresdefault.jpg
 duration: 48
 isShort: true

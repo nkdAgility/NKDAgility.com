@@ -6,6 +6,7 @@ videoId: S0h_7ayLpsE
 source: internal
 url: /resources/videos/:slug
 slug: mastering-evidence-based-management-for-agile-success
+layout: video
 preview: https://i.ytimg.com/vi/S0h_7ayLpsE/maxresdefault.jpg
 duration: 1714
 isShort: false

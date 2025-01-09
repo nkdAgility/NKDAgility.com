@@ -6,6 +6,7 @@ videoId: Qzw3FSl6hy4
 source: internal
 url: /resources/videos/:slug
 slug: understanding-product-discovery-why-it-matters-more-than-ever
+layout: video
 preview: https://i.ytimg.com/vi/Qzw3FSl6hy4/maxresdefault.jpg
 duration: 711
 isShort: false

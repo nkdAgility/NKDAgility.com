@@ -6,6 +6,7 @@ videoId: vhBsAXev014
 source: internal
 url: /resources/videos/:slug
 slug: 7-harbingers-of-the-agile-apocalypse-chaos
+layout: video
 preview: https://i.ytimg.com/vi/vhBsAXev014/maxresdefault.jpg
 duration: 525
 isShort: false

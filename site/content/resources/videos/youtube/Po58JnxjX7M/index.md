@@ -6,6 +6,7 @@ videoId: Po58JnxjX7M
 source: internal
 url: /resources/videos/:slug
 slug: before-you-call-yourself-an-agile-coach-the-importance-of-real-experience
+layout: video
 preview: https://i.ytimg.com/vi/Po58JnxjX7M/maxresdefault.jpg
 duration: 62
 isShort: false

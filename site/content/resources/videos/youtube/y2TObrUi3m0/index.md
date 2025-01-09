@@ -5,6 +5,7 @@ date: 2023-05-03T07:00:33Z
 videoId: y2TObrUi3m0
 url: /resources/videos/:slug
 slug: what-should-have-been-way-more-popular-in-agile-than-it-currently-is-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=y2TObrUi3m0
 aliases:
 - /resources/videos/y2TObrUi3m0
@@ -21,6 +22,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube y2TObrUi3m0 >}} 

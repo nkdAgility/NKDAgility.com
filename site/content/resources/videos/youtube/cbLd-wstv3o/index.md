@@ -6,6 +6,7 @@ videoId: cbLd-wstv3o
 source: internal
 url: /resources/videos/:slug
 slug: how-to-discover-unrealized-value-in-your-product
+layout: video
 preview: https://i.ytimg.com/vi/cbLd-wstv3o/maxresdefault.jpg
 duration: 53
 isShort: true

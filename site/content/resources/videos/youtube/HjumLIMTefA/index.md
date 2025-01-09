@@ -6,6 +6,7 @@ videoId: HjumLIMTefA
 source: internal
 url: /resources/videos/:slug
 slug: the-power-of-immersive-learning-in-agile-training
+layout: video
 preview: https://i.ytimg.com/vi/HjumLIMTefA/maxresdefault.jpg
 duration: 43
 isShort: true

@@ -6,6 +6,7 @@ videoId: Gtp9wjkPFPA
 source: internal
 url: /resources/videos/:slug
 slug: how-do-devops-and-agile-integrate
+layout: video
 preview: https://i.ytimg.com/vi/Gtp9wjkPFPA/maxresdefault.jpg
 duration: 51
 isShort: true

@@ -6,6 +6,7 @@ videoId: MCdI76dGVMM
 source: internal
 url: /resources/videos/:slug
 slug: hardest-part-of-becoming-a-professional-scrum-master
+layout: video
 preview: https://i.ytimg.com/vi/MCdI76dGVMM/maxresdefault.jpg
 duration: 32
 isShort: true

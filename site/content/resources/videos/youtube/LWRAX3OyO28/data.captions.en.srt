@@ -1,0 +1,489 @@
+1
+00:00:00,399 --> 00:00:06,960
+if you're trying to unlock the power of
+
+2
+00:00:03,199 --> 00:00:08,880
+continuous delivery then you've probably
+
+3
+00:00:06,960 --> 00:00:11,360
+considered the type of benefits that you
+
+4
+00:00:08,880 --> 00:00:15,320
+get from it and perhaps perhaps they're
+
+5
+00:00:11,360 --> 00:00:18,680
+not the benefits you think while it is
+
+6
+00:00:15,320 --> 00:00:22,039
+true that continuous delivery can help
+
+7
+00:00:18,680 --> 00:00:25,680
+you become faster that's a lagging side
+
+8
+00:00:22,039 --> 00:00:28,439
+effect of um the work that you would do
+
+9
+00:00:25,680 --> 00:00:31,199
+the real benefit of continuous delivery
+
+10
+00:00:28,439 --> 00:00:34,079
+is the requirement for automation within
+
+11
+00:00:31,199 --> 00:00:35,840
+the context of devops and the real value
+
+12
+00:00:34,079 --> 00:00:37,960
+of automation within the context of
+
+13
+00:00:35,840 --> 00:00:40,160
+devops is you've not got a person doing
+
+14
+00:00:37,960 --> 00:00:42,360
+the deployment you've got an automated
+
+15
+00:00:40,160 --> 00:00:44,239
+tool during the deployment so you gain
+
+16
+00:00:42,360 --> 00:00:46,960
+consistency and
+
+17
+00:00:44,239 --> 00:00:49,320
+reliability of what is happening and
+
+18
+00:00:46,960 --> 00:00:51,480
+that consistency and reliability reduces
+
+19
+00:00:49,320 --> 00:00:55,000
+your risk if you're interested in how
+
+20
+00:00:51,480 --> 00:00:57,719
+much risk that is there are there's one
+
+21
+00:00:55,000 --> 00:01:00,120
+example that I always used to use which
+
+22
+00:00:57,719 --> 00:01:02,199
+was the the night Capital group which
+
+23
+00:01:00,120 --> 00:01:04,879
+was a a financially traded stock
+
+24
+00:01:02,199 --> 00:01:07,799
+exchange e organization in the US that
+
+25
+00:01:04,879 --> 00:01:11,560
+did a deployment of their software it
+
+26
+00:01:07,799 --> 00:01:14,479
+failed and due to various
+
+27
+00:01:11,560 --> 00:01:17,000
+reasons mostly to do with automated I
+
+28
+00:01:14,479 --> 00:01:19,840
+sorry manual deployments they ended up
+
+29
+00:01:17,000 --> 00:01:22,119
+losing about $10,000 an hour or a minute
+
+30
+00:01:19,840 --> 00:01:24,200
+or whatever it was but at the end of the
+
+31
+00:01:22,119 --> 00:01:25,880
+day they had to file for bankruptcy and
+
+32
+00:01:24,200 --> 00:01:27,520
+at the beginning of the day they had 450
+
+33
+00:01:25,880 --> 00:01:30,439
+million in the bank so that's the
+
+34
+00:01:27,520 --> 00:01:34,600
+example I usually use probably today I
+
+35
+00:01:30,439 --> 00:01:39,360
+would say crowd strike right if if
+
+36
+00:01:34,600 --> 00:01:42,040
+you've got unn automation that checks
+
+37
+00:01:39,360 --> 00:01:45,439
+that your system that what it is you've
+
+38
+00:01:42,040 --> 00:01:47,719
+created your teams have created is good
+
+39
+00:01:45,439 --> 00:01:50,280
+and meets the minimum bar for the
+
+40
+00:01:47,719 --> 00:01:52,840
+business right what's what's your risk
+
+41
+00:01:50,280 --> 00:01:56,960
+level that that's the power of
+
+42
+00:01:52,840 --> 00:02:01,280
+continuous delivery is cons consistency
+
+43
+00:01:56,960 --> 00:02:04,560
+and limiting risk you can
+
+44
+00:02:01,280 --> 00:02:06,000
+ensure that within your continuous
+
+45
+00:02:04,560 --> 00:02:09,879
+delivery
+
+46
+00:02:06,000 --> 00:02:13,120
+process you have the checks that you as
+
+47
+00:02:09,879 --> 00:02:15,080
+a business require to protect your
+
+48
+00:02:13,120 --> 00:02:17,239
+business right so there's there's
+
+49
+00:02:15,080 --> 00:02:19,640
+protecting your business protecting your
+
+50
+00:02:17,239 --> 00:02:22,200
+brand protecting your employees and
+
+51
+00:02:19,640 --> 00:02:26,480
+protecting your customers all of those
+
+52
+00:02:22,200 --> 00:02:28,280
+things can mostly be automated almost
+
+53
+00:02:26,480 --> 00:02:30,879
+all of those things that could possibly
+
+54
+00:02:28,280 --> 00:02:32,879
+go wrong can be automated you you can't
+
+55
+00:02:30,879 --> 00:02:35,800
+it's very difficult to automate legal
+
+56
+00:02:32,879 --> 00:02:38,360
+stuff so you would still have to there's
+
+57
+00:02:35,800 --> 00:02:40,760
+some some things in there but from the
+
+58
+00:02:38,360 --> 00:02:43,159
+context of I don't want my software to
+
+59
+00:02:40,760 --> 00:02:45,400
+fail I don't want it to send money to
+
+60
+00:02:43,159 --> 00:02:48,800
+the wrong place I don't want all of
+
+61
+00:02:45,400 --> 00:02:51,400
+those things we use testing we use
+
+62
+00:02:48,800 --> 00:02:53,560
+automation we use continuous delivery
+
+63
+00:02:51,400 --> 00:02:55,959
+continuous everything continuous testing
+
+64
+00:02:53,560 --> 00:02:58,959
+continuous deployment continuous
+
+65
+00:02:55,959 --> 00:03:01,800
+delivery right those are the things that
+
+66
+00:02:58,959 --> 00:03:03,480
+help you get faster feedback because if
+
+67
+00:03:01,800 --> 00:03:05,280
+it's an automated process you can go
+
+68
+00:03:03,480 --> 00:03:08,200
+around that Loop and the developers can
+
+69
+00:03:05,280 --> 00:03:09,920
+find out that it it it it that it's
+
+70
+00:03:08,200 --> 00:03:12,360
+broken or it's not doing the right thing
+
+71
+00:03:09,920 --> 00:03:15,000
+much faster uh great example of that is
+
+72
+00:03:12,360 --> 00:03:18,400
+the Azure devops team at Microsoft went
+
+73
+00:03:15,000 --> 00:03:21,760
+from delivering who 12 features to
+
+74
+00:03:18,400 --> 00:03:23,720
+production per year for per 600 people
+
+75
+00:03:21,760 --> 00:03:26,480
+uh to delivering
+
+76
+00:03:23,720 --> 00:03:29,840
+280 features to
+
+77
+00:03:26,480 --> 00:03:31,439
+production per year per 600 people right
+
+78
+00:03:29,840 --> 00:03:34,360
+so the number of people didn't change
+
+79
+00:03:31,439 --> 00:03:38,799
+but massively increased the the the
+
+80
+00:03:34,360 --> 00:03:40,959
+number of features delivered but part of
+
+81
+00:03:38,799 --> 00:03:42,799
+doing that was changing the feedback
+
+82
+00:03:40,959 --> 00:03:46,120
+loop right making the feedback loop
+
+83
+00:03:42,799 --> 00:03:49,239
+faster they went from an automated build
+
+84
+00:03:46,120 --> 00:03:52,200
+that would take days to get a response
+
+85
+00:03:49,239 --> 00:03:54,480
+from to one that took minutes and
+
+86
+00:03:52,200 --> 00:03:56,200
+seconds to get a response from they were
+
+87
+00:03:54,480 --> 00:03:59,879
+able to they used to have to run their
+
+88
+00:03:56,200 --> 00:04:02,120
+full full Suite of tests in I think it
+
+89
+00:03:59,879 --> 00:04:04,920
+was four or five days to actually get a
+
+90
+00:04:02,120 --> 00:04:07,319
+response for a particular thing and now
+
+91
+00:04:04,920 --> 00:04:10,640
+it's 3 and a half minutes for the entire
+
+92
+00:04:07,319 --> 00:04:15,799
+test Suite that level of feedback makes
+
+93
+00:04:10,640 --> 00:04:17,759
+feedback faster costs less reduces risk
+
+94
+00:04:15,799 --> 00:04:19,440
+increases Effectiveness right that's
+
+95
+00:04:17,759 --> 00:04:21,959
+that that that shortened the feedback
+
+96
+00:04:19,440 --> 00:04:23,240
+loop if you're also deploying and
+
+97
+00:04:21,959 --> 00:04:25,520
+getting your feature in front of
+
+98
+00:04:23,240 --> 00:04:27,360
+customers that continuous delivery piece
+
+99
+00:04:25,520 --> 00:04:29,160
+so continuous delivery means you're
+
+100
+00:04:27,360 --> 00:04:31,400
+getting your product in front of real
+
+101
+00:04:29,160 --> 00:04:34,479
+customers your moving to production on a
+
+102
+00:04:31,400 --> 00:04:35,800
+continuous basis even the windows team
+
+103
+00:04:34,479 --> 00:04:38,759
+which is probably the biggest most
+
+104
+00:04:35,800 --> 00:04:41,560
+complicated product on the planet is 24
+
+105
+00:04:38,759 --> 00:04:43,360
+hours they're 24 hours or less doing
+
+106
+00:04:41,560 --> 00:04:45,280
+continuous delivery from developer
+
+107
+00:04:43,360 --> 00:04:47,800
+cutting code to being in the hands of
+
+108
+00:04:45,280 --> 00:04:50,919
+real production users albe it inside of
+
+109
+00:04:47,800 --> 00:04:52,840
+Microsoft it's 24 hours it's a week
+
+110
+00:04:50,919 --> 00:04:54,840
+they've got it in front of real external
+
+111
+00:04:52,840 --> 00:04:57,720
+users it's a month they've got it in
+
+112
+00:04:54,840 --> 00:04:59,160
+front of 20 million external users and
+
+113
+00:04:57,720 --> 00:05:01,600
+then it's three months they've got it in
+
+114
+00:04:59,160 --> 00:05:05,360
+front of I don't know 850 million
+
+115
+00:05:01,600 --> 00:05:08,160
+external users if crowd strike was doing
+
+116
+00:05:05,360 --> 00:05:12,280
+what the windows team does they would
+
+117
+00:05:08,160 --> 00:05:14,800
+not have caused the errors that they did
+
+118
+00:05:12,280 --> 00:05:16,600
+continuous delivery the practices within
+
+119
+00:05:14,800 --> 00:05:19,479
+the context of devops that enable
+
+120
+00:05:16,600 --> 00:05:22,080
+continuous delivery are the things that
+
+121
+00:05:19,479 --> 00:05:25,680
+reduce risk increase Effectiveness and
+
+122
+00:05:22,080 --> 00:05:25,680
+give you faster feedback
+
+

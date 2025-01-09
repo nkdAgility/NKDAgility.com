@@ -6,6 +6,7 @@ videoId: Yesn-VHhQ4k
 source: internal
 url: /resources/videos/:slug
 slug: why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps
+layout: video
 preview: https://i.ytimg.com/vi/Yesn-VHhQ4k/maxresdefault.jpg
 duration: 386
 isShort: false

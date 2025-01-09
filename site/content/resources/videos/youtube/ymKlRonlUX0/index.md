@@ -6,6 +6,7 @@ videoId: ymKlRonlUX0
 source: internal
 url: /resources/videos/:slug
 slug: the-ghosts-of-agile-past-why-burndown-charts-might-be-holding-you-back
+layout: video
 preview: https://i.ytimg.com/vi/ymKlRonlUX0/maxresdefault.jpg
 duration: 419
 isShort: false

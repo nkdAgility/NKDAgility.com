@@ -5,6 +5,7 @@ date: 2024-05-06T13:29:40Z
 videoId: ZcMcVL7mNGU
 url: /resources/videos/:slug
 slug: product-management-mentor-program-final
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=ZcMcVL7mNGU
 aliases:
 - /resources/videos/ZcMcVL7mNGU
@@ -26,6 +27,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube ZcMcVL7mNGU >}} 

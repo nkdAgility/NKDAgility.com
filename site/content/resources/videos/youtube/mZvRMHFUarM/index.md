@@ -6,6 +6,7 @@ videoId: mZvRMHFUarM
 source: youtube
 url: /resources/videos/:slug
 slug: estimating-with-confidence
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=mZvRMHFUarM
 aliases:
 - /resources/videos/mZvRMHFUarM
@@ -32,6 +33,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube mZvRMHFUarM >}} 

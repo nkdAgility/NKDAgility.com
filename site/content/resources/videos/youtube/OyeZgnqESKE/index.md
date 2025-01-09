@@ -6,6 +6,7 @@ videoId: OyeZgnqESKE
 source: internal
 url: /resources/videos/:slug
 slug: why-immersive-learning-keeps-scrum-students-excited-and-engaged
+layout: video
 preview: https://i.ytimg.com/vi/OyeZgnqESKE/maxresdefault.jpg
 duration: 38
 isShort: true

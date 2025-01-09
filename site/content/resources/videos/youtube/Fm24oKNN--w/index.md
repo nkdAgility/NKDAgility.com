@@ -5,6 +5,7 @@ date: 2017-07-27T18:16:30Z
 videoId: Fm24oKNN--w
 url: /resources/videos/:slug
 slug: nkdagility-healthgrades-interview-cjsingh
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=Fm24oKNN--w
 aliases:
 - /resources/videos/Fm24oKNN--w
@@ -26,6 +27,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube Fm24oKNN--w >}} 

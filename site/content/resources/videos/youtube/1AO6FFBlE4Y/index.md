@@ -28,6 +28,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 slug: the-high-cost-of-poor-quality-code-
+layout: video
+resourceTypes:
+- video
 
 ---
 {{< youtube 1AO6FFBlE4Y >}}

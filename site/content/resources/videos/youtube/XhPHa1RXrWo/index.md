@@ -6,6 +6,7 @@ videoId: XhPHa1RXrWo
 source: internal
 url: /resources/videos/:slug
 slug: agile-is-not-new-a-journey-back-to-the-basics
+layout: video
 preview: https://i.ytimg.com/vi/XhPHa1RXrWo/maxresdefault.jpg
 duration: 659
 isShort: false

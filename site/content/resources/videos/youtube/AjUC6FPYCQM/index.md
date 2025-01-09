@@ -6,6 +6,7 @@ videoId: AjUC6FPYCQM
 source: youtube
 url: /resources/videos/:slug
 slug: do-teams-really-understand-the-power-of-applying-scrum-professionally-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=AjUC6FPYCQM
 aliases:
 - /resources/videos/AjUC6FPYCQM
@@ -22,6 +23,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube AjUC6FPYCQM >}} 

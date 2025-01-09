@@ -6,6 +6,7 @@ videoId: GfB3nB_PMyY
 source: internal
 url: /resources/videos/:slug
 slug: the-power-of-immersive-learning-bridging-theory-and-experience
+layout: video
 preview: https://i.ytimg.com/vi/GfB3nB_PMyY/maxresdefault.jpg
 duration: 50
 isShort: true

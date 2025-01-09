@@ -5,6 +5,7 @@ date: 2020-05-21T05:26:17Z
 videoId: HjyUeuf1IEw
 url: /resources/videos/:slug
 slug: 20th-may-2020-office-hours-ask-me-anything
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=HjyUeuf1IEw
 aliases:
 - /resources/videos/HjyUeuf1IEw
@@ -18,6 +19,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube HjyUeuf1IEw >}} 

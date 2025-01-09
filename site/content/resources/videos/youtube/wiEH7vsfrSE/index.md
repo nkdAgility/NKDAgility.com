@@ -6,6 +6,7 @@ videoId: wiEH7vsfrSE
 source: internal
 url: /resources/videos/:slug
 slug: why-cost-cutting-during-recessions-is-counterproductive
+layout: video
 preview: https://i.ytimg.com/vi/wiEH7vsfrSE/maxresdefault.jpg
 duration: 1046
 isShort: false

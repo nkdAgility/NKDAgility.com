@@ -6,6 +6,7 @@ videoId: qXsjLuss22Y
 source: internal
 url: /resources/videos/:slug
 slug: what-is-a-sprint-goal
+layout: video
 preview: https://i.ytimg.com/vi/qXsjLuss22Y/maxresdefault.jpg
 duration: 45
 isShort: true

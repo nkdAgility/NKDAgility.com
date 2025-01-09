@@ -6,6 +6,7 @@ videoId: OlzXHZihQzI
 source: internal
 url: /resources/videos/:slug
 slug: unlocking-the-power-of-immersive-learning-in-agile
+layout: video
 preview: https://i.ytimg.com/vi/OlzXHZihQzI/maxresdefault.jpg
 duration: 45
 isShort: true

@@ -6,6 +6,7 @@ videoId: GJFklM1U5Pc
 source: internal
 url: /resources/videos/:slug
 slug: the-competence-crisis-in-scrum-master-roles-a-call-for-excellence
+layout: video
 preview: https://i.ytimg.com/vi/GJFklM1U5Pc/maxresdefault.jpg
 duration: 1313
 isShort: false

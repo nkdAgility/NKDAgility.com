@@ -6,6 +6,7 @@ videoId: sAKCLQ38GzA
 source: internal
 url: /resources/videos/:slug
 slug: does-starting-with-why-simon-sinek-really-matter
+layout: video
 preview: https://i.ytimg.com/vi/sAKCLQ38GzA/maxresdefault.jpg
 duration: 602
 isShort: false

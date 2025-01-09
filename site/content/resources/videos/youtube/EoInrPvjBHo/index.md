@@ -6,6 +6,7 @@ videoId: EoInrPvjBHo
 source: internal
 url: /resources/videos/:slug
 slug: how-to-overcome-agile-banditry-a-product-owners-journey
+layout: video
 preview: https://i.ytimg.com/vi/EoInrPvjBHo/maxresdefault.jpg
 duration: 197
 isShort: false

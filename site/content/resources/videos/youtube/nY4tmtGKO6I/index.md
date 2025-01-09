@@ -5,6 +5,7 @@ date: 2023-11-28T11:00:49Z
 videoId: nY4tmtGKO6I
 url: /resources/videos/:slug
 slug: why-is-training-such-a-critical-element-in-a-scrummaster-journey-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=nY4tmtGKO6I
 aliases:
 - /resources/videos/nY4tmtGKO6I
@@ -41,6 +42,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube nY4tmtGKO6I >}} 

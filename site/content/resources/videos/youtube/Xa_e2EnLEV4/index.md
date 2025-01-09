@@ -6,6 +6,7 @@ videoId: Xa_e2EnLEV4
 source: internal
 url: /resources/videos/:slug
 slug: 3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug
+layout: video
 preview: https://i.ytimg.com/vi/Xa_e2EnLEV4/maxresdefault.jpg
 duration: 277
 isShort: false

@@ -6,6 +6,7 @@ videoId: mkgE6prwlj4
 source: internal
 url: /resources/videos/:slug
 slug: what-is-the-best-application-of-scrum-in-the-world
+layout: video
 preview: https://i.ytimg.com/vi/mkgE6prwlj4/maxresdefault.jpg
 duration: 55
 isShort: true

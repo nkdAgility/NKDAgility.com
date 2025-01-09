@@ -6,6 +6,7 @@ videoId: Fgla_Oox_sE
 source: internal
 url: /resources/videos/:slug
 slug: mastering-the-art-of-product-ownership-the-power-of-marketing-your-vision
+layout: video
 preview: https://i.ytimg.com/vi/Fgla_Oox_sE/maxresdefault.jpg
 duration: 227
 isShort: false

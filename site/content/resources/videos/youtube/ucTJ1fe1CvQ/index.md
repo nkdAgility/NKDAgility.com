@@ -6,6 +6,7 @@ videoId: ucTJ1fe1CvQ
 source: internal
 url: /resources/videos/:slug
 slug: unlocking-the-power-of-assumptions-in-product-development-why-the-ppdv-course-is-a-game-changer
+layout: video
 preview: https://i.ytimg.com/vi/ucTJ1fe1CvQ/maxresdefault.jpg
 duration: 355
 isShort: false

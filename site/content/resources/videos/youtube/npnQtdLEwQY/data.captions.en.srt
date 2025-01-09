@@ -1,0 +1,1029 @@
+1
+00:00:00,040 --> 00:00:08,960
+technical debt is something that adds a
+
+2
+00:00:05,200 --> 00:00:11,639
+massive cost to your product and the way
+
+3
+00:00:08,960 --> 00:00:14,599
+you do things but I want to be really
+
+4
+00:00:11,639 --> 00:00:17,320
+clear that I'm including multiple things
+
+5
+00:00:14,599 --> 00:00:20,080
+in technical debt because that's how
+
+6
+00:00:17,320 --> 00:00:23,359
+people see it so from a technical
+
+7
+00:00:20,080 --> 00:00:25,679
+standpoint technical debt is is like
+
+8
+00:00:23,359 --> 00:00:30,080
+it's the implied
+
+9
+00:00:25,679 --> 00:00:32,800
+cost of future rework
+
+10
+00:00:30,080 --> 00:00:36,200
+because we prioritized speed over
+
+11
+00:00:32,800 --> 00:00:38,079
+long-term design right so that's where
+
+12
+00:00:36,200 --> 00:00:39,680
+we we we're we've come to a decision
+
+13
+00:00:38,079 --> 00:00:42,079
+point we have to we're building a
+
+14
+00:00:39,680 --> 00:00:44,399
+feature and we can either do it the fast
+
+15
+00:00:42,079 --> 00:00:46,879
+way or the right way and we choose the
+
+16
+00:00:44,399 --> 00:00:51,039
+fast way right that's that's that's
+
+17
+00:00:46,879 --> 00:00:54,239
+technical debt it's usually deliberately
+
+18
+00:00:51,039 --> 00:00:56,039
+incurred right was choices that we make
+
+19
+00:00:54,239 --> 00:00:59,039
+it's either deliberate by the engineer
+
+20
+00:00:56,039 --> 00:01:00,840
+deliberate by product leadership or
+
+21
+00:00:59,039 --> 00:01:04,280
+deliberate by the by the
+
+22
+00:01:00,840 --> 00:01:08,280
+organization there's also an an
+
+23
+00:01:04,280 --> 00:01:10,600
+unintentional technical debt that isn't
+
+24
+00:01:08,280 --> 00:01:12,320
+generally I mean in general people
+
+25
+00:01:10,600 --> 00:01:16,000
+characterize it as technical debt for
+
+26
+00:01:12,320 --> 00:01:18,479
+sure but technically it's not technical
+
+27
+00:01:16,000 --> 00:01:21,640
+debt trying to get my my brain around
+
+28
+00:01:18,479 --> 00:01:24,079
+that but it's it's poor
+
+29
+00:01:21,640 --> 00:01:27,640
+quality poor quality is not technical
+
+30
+00:01:24,079 --> 00:01:29,560
+debt po quality is just poor quality so
+
+31
+00:01:27,640 --> 00:01:31,320
+when people talk about technical debt
+
+32
+00:01:29,560 --> 00:01:34,000
+and they talk about we've got a lot of
+
+33
+00:01:31,320 --> 00:01:35,560
+bugs in the system they're probably not
+
+34
+00:01:34,000 --> 00:01:37,240
+talking about technical debt they're
+
+35
+00:01:35,560 --> 00:01:39,680
+probably talking about poor quality but
+
+36
+00:01:37,240 --> 00:01:41,680
+they don't want to call it poor quality
+
+37
+00:01:39,680 --> 00:01:45,159
+because that makes them look bad why did
+
+38
+00:01:41,680 --> 00:01:47,960
+you deliver poor quality says the CTO I
+
+39
+00:01:45,159 --> 00:01:50,520
+understand why you made decisions to
+
+40
+00:01:47,960 --> 00:01:52,960
+expediate a feature in order to ship
+
+41
+00:01:50,520 --> 00:01:56,039
+more quickly to our customers but why
+
+42
+00:01:52,960 --> 00:02:00,079
+did you ship per quality right you will
+
+43
+00:01:56,039 --> 00:02:02,840
+generally find that se Suite is not
+
+44
+00:02:00,079 --> 00:02:05,360
+interested in poor quality they want
+
+45
+00:02:02,840 --> 00:02:08,520
+high quality they want their product to
+
+46
+00:02:05,360 --> 00:02:10,959
+work and they want users to be
+
+47
+00:02:08,520 --> 00:02:13,560
+happy but they would be happy to make
+
+48
+00:02:10,959 --> 00:02:16,480
+design decisions that that expediate
+
+49
+00:02:13,560 --> 00:02:21,319
+right that get things done faster
+
+50
+00:02:16,480 --> 00:02:21,319
+so the problem is that
+
+51
+00:02:22,360 --> 00:02:27,599
+most I'm maybe being a bit jaded here
+
+52
+00:02:26,040 --> 00:02:30,480
+but I would say
+
+53
+00:02:27,599 --> 00:02:32,879
+most engineering
+
+54
+00:02:30,480 --> 00:02:35,920
+groups I'm using the word group very
+
+55
+00:02:32,879 --> 00:02:38,959
+specifically there like Department group
+
+56
+00:02:35,920 --> 00:02:41,000
+perhaps team depends on your context
+
+57
+00:02:38,959 --> 00:02:43,800
+they they they characterize po quality
+
+58
+00:02:41,000 --> 00:02:45,599
+as technical debt like it's a choice I
+
+59
+00:02:43,800 --> 00:02:47,400
+mean it is a choice they deliberately
+
+60
+00:02:45,599 --> 00:02:49,159
+didn't do the stuff they needed to do in
+
+61
+00:02:47,400 --> 00:02:52,680
+order to maintain the quality of the
+
+62
+00:02:49,159 --> 00:02:54,760
+product and that builds up over time so
+
+63
+00:02:52,680 --> 00:02:57,319
+technical debt builds up over time and
+
+64
+00:02:54,760 --> 00:03:00,879
+po quality builds up over time uh poor
+
+65
+00:02:57,319 --> 00:03:02,760
+quality is by far your bus biggest
+
+66
+00:03:00,879 --> 00:03:04,560
+killer
+
+67
+00:03:02,760 --> 00:03:10,040
+um
+
+68
+00:03:04,560 --> 00:03:14,239
+both create rework both qu create higher
+
+69
+00:03:10,040 --> 00:03:16,519
+costs of Maintenance both create slower
+
+70
+00:03:14,239 --> 00:03:19,040
+development it's harder to add features
+
+71
+00:03:16,519 --> 00:03:23,120
+to your product because you made what we
+
+72
+00:03:19,040 --> 00:03:24,440
+now realize is subpar design decisions
+
+73
+00:03:23,120 --> 00:03:25,840
+right we might have made the right
+
+74
+00:03:24,440 --> 00:03:27,120
+decision at the time but now it's the
+
+75
+00:03:25,840 --> 00:03:30,319
+wrong decision because the world's
+
+76
+00:03:27,120 --> 00:03:32,560
+changed or the Market's changed or we
+
+77
+00:03:30,319 --> 00:03:36,840
+shipped a bunch of crap to production
+
+78
+00:03:32,560 --> 00:03:39,040
+which is which is what I see quite often
+
+79
+00:03:36,840 --> 00:03:41,120
+I I I don't understand it but I see it
+
+80
+00:03:39,040 --> 00:03:45,239
+quite often with with teams and with
+
+81
+00:03:41,120 --> 00:03:46,959
+products um that we we we don't deliver
+
+82
+00:03:45,239 --> 00:03:49,959
+high quality usable product to
+
+83
+00:03:46,959 --> 00:03:52,319
+production we deliver barely functioning
+
+84
+00:03:49,959 --> 00:03:55,640
+product to production and when you build
+
+85
+00:03:52,319 --> 00:03:57,319
+new features on top of new barely
+
+86
+00:03:55,640 --> 00:03:59,879
+functioning features on top of old
+
+87
+00:03:57,319 --> 00:04:02,360
+barely functioning features you're going
+
+88
+00:03:59,879 --> 00:04:05,400
+to have barely functioning squared and
+
+89
+00:04:02,360 --> 00:04:07,480
+it starts to become excessive cost I use
+
+90
+00:04:05,400 --> 00:04:11,120
+an example in one of my other videos of
+
+91
+00:04:07,480 --> 00:04:13,720
+a a company I worked with that had uh
+
+92
+00:04:11,120 --> 00:04:16,400
+manual testers to 300
+
+93
+00:04:13,720 --> 00:04:19,120
+coders that was because of per
+
+94
+00:04:16,400 --> 00:04:20,880
+quality definitely some of it was to do
+
+95
+00:04:19,120 --> 00:04:23,479
+with technical debt but most of it was
+
+96
+00:04:20,880 --> 00:04:25,919
+to do with per quality it was horrendous
+
+97
+00:04:23,479 --> 00:04:29,320
+so
+
+98
+00:04:25,919 --> 00:04:32,039
+so this has a massive cost it has so
+
+99
+00:04:29,320 --> 00:04:34,759
+much cost and it's especially it's
+
+100
+00:04:32,039 --> 00:04:36,440
+especially easy for it to happen when
+
+101
+00:04:34,759 --> 00:04:38,880
+you take longer to ship your product to
+
+102
+00:04:36,440 --> 00:04:41,960
+production right so if you have a really
+
+103
+00:04:38,880 --> 00:04:46,680
+long product cycle let's say two years
+
+104
+00:04:41,960 --> 00:04:50,360
+between releases then you the last six
+
+105
+00:04:46,680 --> 00:04:52,000
+months is what they say is bug fixing
+
+106
+00:04:50,360 --> 00:04:53,680
+right but it's not really it's you're
+
+107
+00:04:52,000 --> 00:04:56,800
+out with the sticky tape and the super
+
+108
+00:04:53,680 --> 00:05:00,039
+glue patching it up to a to a state
+
+109
+00:04:56,800 --> 00:05:04,479
+where it can be shipped if it's patched
+
+110
+00:05:00,039 --> 00:05:07,360
+up that means it's not right okay that
+
+111
+00:05:04,479 --> 00:05:10,160
+some of that might be technical debt and
+
+112
+00:05:07,360 --> 00:05:12,199
+some of that might be low quality it's
+
+113
+00:05:10,160 --> 00:05:16,080
+the reason
+
+114
+00:05:12,199 --> 00:05:20,400
+that windows for example
+
+115
+00:05:16,080 --> 00:05:23,080
+is so much more stable now than it ever
+
+116
+00:05:20,400 --> 00:05:28,160
+was in the past in the past they used to
+
+117
+00:05:23,080 --> 00:05:31,360
+have a 6ear ship cycle right and and
+
+118
+00:05:28,160 --> 00:05:33,800
+that incurred massive amounts of debt
+
+119
+00:05:31,360 --> 00:05:36,880
+and cost and then when they came back
+
+120
+00:05:33,800 --> 00:05:38,960
+around at the end to clean things up
+
+121
+00:05:36,880 --> 00:05:40,520
+some things were now fundamental to the
+
+122
+00:05:38,960 --> 00:05:42,280
+product and they couldn't clean them up
+
+123
+00:05:40,520 --> 00:05:45,000
+they have to paper over them right
+
+124
+00:05:42,280 --> 00:05:47,759
+you've got the paper masche over the top
+
+125
+00:05:45,000 --> 00:05:51,000
+making it like a lovely glossy product
+
+126
+00:05:47,759 --> 00:05:53,520
+um but then hackers and nefarious people
+
+127
+00:05:51,000 --> 00:05:56,639
+come along and start peeling back at the
+
+128
+00:05:53,520 --> 00:06:01,120
+edges to get underneath and and and
+
+129
+00:05:56,639 --> 00:06:02,680
+exploit things in it with the new model
+
+130
+00:06:01,120 --> 00:06:04,720
+that the windows team work in where
+
+131
+00:06:02,680 --> 00:06:07,080
+they're delivering continuously to
+
+132
+00:06:04,720 --> 00:06:09,599
+production every member of every team is
+
+133
+00:06:07,080 --> 00:06:12,800
+in charge of quality or or part of that
+
+134
+00:06:09,599 --> 00:06:16,360
+story of quality of of
+
+135
+00:06:12,800 --> 00:06:19,720
+security they go back and fix things on
+
+136
+00:06:16,360 --> 00:06:22,160
+a continuous basis they don't build up
+
+137
+00:06:19,720 --> 00:06:25,000
+that technical debt anymore they keep on
+
+138
+00:06:22,160 --> 00:06:27,680
+top of it and the way you keep on top of
+
+139
+00:06:25,000 --> 00:06:30,160
+technical debt is to
+
+140
+00:06:27,680 --> 00:06:32,160
+continuously deal with it you're
+
+141
+00:06:30,160 --> 00:06:35,479
+continuously refactoring you're
+
+142
+00:06:32,160 --> 00:06:38,199
+continuously rearching your product when
+
+143
+00:06:35,479 --> 00:06:40,919
+things happen that you find you need to
+
+144
+00:06:38,199 --> 00:06:42,240
+deal with ah great example when the the
+
+145
+00:06:40,919 --> 00:06:43,880
+Azure devop I have a lot of stories from
+
+146
+00:06:42,240 --> 00:06:47,720
+the Azure devops team but the Azure
+
+147
+00:06:43,880 --> 00:06:50,960
+devops team ran into an issue that
+
+148
+00:06:47,720 --> 00:06:53,680
+the they'd moved to the cloud they got a
+
+149
+00:06:50,960 --> 00:06:55,720
+bunch of smaller Services one of those
+
+150
+00:06:53,680 --> 00:06:57,039
+Services was the profile service right
+
+151
+00:06:55,720 --> 00:06:58,840
+where you give it an email address and
+
+152
+00:06:57,039 --> 00:07:00,520
+it comes back with your profile data
+
+153
+00:06:58,840 --> 00:07:02,800
+like your picture and your friendly name
+
+154
+00:07:00,520 --> 00:07:04,199
+and all of those kind of things and the
+
+155
+00:07:02,800 --> 00:07:07,080
+profil something went wrong with the
+
+156
+00:07:04,199 --> 00:07:09,240
+profile service and because the profile
+
+157
+00:07:07,080 --> 00:07:11,919
+service wasn't responding the entire
+
+158
+00:07:09,240 --> 00:07:14,840
+system didn't work you couldn't change
+
+159
+00:07:11,919 --> 00:07:16,840
+work items you couldn't commit code you
+
+160
+00:07:14,840 --> 00:07:18,160
+couldn't do any of the things that that
+
+161
+00:07:16,840 --> 00:07:20,000
+anytime it called the Prof you couldn't
+
+162
+00:07:18,160 --> 00:07:21,720
+even view code because it was calling
+
+163
+00:07:20,000 --> 00:07:22,879
+the profile service to get the friendly
+
+164
+00:07:21,720 --> 00:07:24,800
+names for the people that were
+
+165
+00:07:22,879 --> 00:07:26,960
+committing the code right the in the
+
+166
+00:07:24,800 --> 00:07:28,080
+history and stuff or the work items
+
+167
+00:07:26,960 --> 00:07:29,919
+right you couldn't see anything in the
+
+168
+00:07:28,080 --> 00:07:31,319
+work items
+
+169
+00:07:29,919 --> 00:07:33,800
+I so but
+
+170
+00:07:31,319 --> 00:07:35,319
+why right I I if there's something wrong
+
+171
+00:07:33,800 --> 00:07:37,160
+with the profile service just show the
+
+172
+00:07:35,319 --> 00:07:40,120
+email address you don't need to go get
+
+173
+00:07:37,160 --> 00:07:42,000
+the friendly name I I might I I as a
+
+174
+00:07:40,120 --> 00:07:44,639
+user might go uh why is it just showing
+
+175
+00:07:42,000 --> 00:07:48,080
+me the email address but I can still use
+
+176
+00:07:44,639 --> 00:07:50,000
+the system but I can still work right
+
+177
+00:07:48,080 --> 00:07:54,639
+and that
+
+178
+00:07:50,000 --> 00:07:56,479
+that was there because they they they
+
+179
+00:07:54,639 --> 00:07:58,440
+made architectural
+
+180
+00:07:56,479 --> 00:08:02,080
+decisions
+
+181
+00:07:58,440 --> 00:08:04,039
+that were perhaps done for expediency
+
+182
+00:08:02,080 --> 00:08:05,759
+perhaps done deliberately but also could
+
+183
+00:08:04,039 --> 00:08:08,240
+be done accidentally right didn't
+
+184
+00:08:05,759 --> 00:08:10,479
+realize this was going to be a problem
+
+185
+00:08:08,240 --> 00:08:12,479
+in the future but as soon as they figure
+
+186
+00:08:10,479 --> 00:08:15,039
+that out they realized this technical
+
+187
+00:08:12,479 --> 00:08:18,319
+debt we had a production incident
+
+188
+00:08:15,039 --> 00:08:20,960
+because of our design choices right that
+
+189
+00:08:18,319 --> 00:08:23,560
+this this service was to tightly coupled
+
+190
+00:08:20,960 --> 00:08:24,879
+and we need to figure out what was the
+
+191
+00:08:23,560 --> 00:08:27,199
+cause of the problem well it's this
+
+192
+00:08:24,879 --> 00:08:28,960
+tightly coupling this what do we need to
+
+193
+00:08:27,199 --> 00:08:32,120
+do about it well we need to go re
+
+194
+00:08:28,960 --> 00:08:35,200
+architect and anywhere that calls this
+
+195
+00:08:32,120 --> 00:08:36,399
+service we need to introduce in this
+
+196
+00:08:35,200 --> 00:08:39,760
+case it was introduced the circuit
+
+197
+00:08:36,399 --> 00:08:42,399
+breaker pattern so that when it's not
+
+198
+00:08:39,760 --> 00:08:43,599
+working it just turns it off and doesn't
+
+199
+00:08:42,399 --> 00:08:45,120
+oh sorry turns it off that way and
+
+200
+00:08:43,599 --> 00:08:47,880
+doesn't keep trying to call it it just
+
+201
+00:08:45,120 --> 00:08:50,640
+stops calling it and then maybe every 10
+
+202
+00:08:47,880 --> 00:08:53,480
+seconds it goes is it working no is it
+
+203
+00:08:50,640 --> 00:08:54,839
+working no okay wait a minute is it
+
+204
+00:08:53,480 --> 00:08:56,320
+working oh yeah it's working now so we
+
+205
+00:08:54,839 --> 00:09:00,200
+can reconnect it right that's a circuit
+
+206
+00:08:56,320 --> 00:09:03,399
+breaker pattern in in in
+
+207
+00:09:00,200 --> 00:09:05,760
+so they did that so that they would
+
+208
+00:09:03,399 --> 00:09:09,320
+never have that problem again it would
+
+209
+00:09:05,760 --> 00:09:13,240
+never happen that this the the profile
+
+210
+00:09:09,320 --> 00:09:16,240
+service going out would result in
+
+211
+00:09:13,240 --> 00:09:18,680
+another service not working right so
+
+212
+00:09:16,240 --> 00:09:20,160
+that's paying back some of that
+
+213
+00:09:18,680 --> 00:09:22,800
+technical debt that you either
+
+214
+00:09:20,160 --> 00:09:25,079
+deliberately incurred or you found later
+
+215
+00:09:22,800 --> 00:09:27,360
+right you realized you'd got into into
+
+216
+00:09:25,079 --> 00:09:30,480
+debt over your head and you need to fix
+
+217
+00:09:27,360 --> 00:09:32,640
+it but you need to fix it you need to go
+
+218
+00:09:30,480 --> 00:09:36,279
+back and refactor it and there's a cost
+
+219
+00:09:32,640 --> 00:09:38,839
+to that right it's engineering work it's
+
+220
+00:09:36,279 --> 00:09:40,959
+time it's possible mistakes it's
+
+221
+00:09:38,839 --> 00:09:44,120
+reworking tests it's all of those things
+
+222
+00:09:40,959 --> 00:09:47,240
+to make that work and then I think a
+
+223
+00:09:44,120 --> 00:09:48,399
+year later they had a similar problem
+
+224
+00:09:47,240 --> 00:09:51,000
+with another
+
+225
+00:09:48,399 --> 00:09:53,000
+service so they took the decision at
+
+226
+00:09:51,000 --> 00:09:55,440
+that point to go and introduce the
+
+227
+00:09:53,000 --> 00:09:57,399
+circuit breaker pattern in all the
+
+228
+00:09:55,440 --> 00:09:59,399
+communication across their entire
+
+229
+00:09:57,399 --> 00:10:01,680
+service and then they never had that
+
+230
+00:09:59,399 --> 00:10:01,680
+problem
+
+231
+00:10:01,959 --> 00:10:08,279
+again so you're always going to incur
+
+232
+00:10:06,320 --> 00:10:10,880
+technical debt whether you choose to do
+
+233
+00:10:08,279 --> 00:10:13,360
+it deliberately or you discover it later
+
+234
+00:10:10,880 --> 00:10:15,240
+you should never have poor quality that
+
+235
+00:10:13,360 --> 00:10:17,600
+that you should have an absolute minimum
+
+236
+00:10:15,240 --> 00:10:20,040
+Quality Bar that's set by the
+
+237
+00:10:17,600 --> 00:10:22,240
+organization to protect the business the
+
+238
+00:10:20,040 --> 00:10:24,040
+brand your employees and your customers
+
+239
+00:10:22,240 --> 00:10:25,760
+right that's that's your your
+
+240
+00:10:24,040 --> 00:10:28,040
+organizations we I would call it a
+
+241
+00:10:25,760 --> 00:10:30,079
+definition of done right what's the
+
+242
+00:10:28,040 --> 00:10:32,440
+minimum quality level required by your
+
+243
+00:10:30,079 --> 00:10:34,040
+business but from a technical debt
+
+244
+00:10:32,440 --> 00:10:38,440
+perspective we still need to go back and
+
+245
+00:10:34,040 --> 00:10:41,519
+pay it back and it pays back dividends
+
+246
+00:10:38,440 --> 00:10:45,279
+when we go fix these things because it
+
+247
+00:10:41,519 --> 00:10:47,200
+pays it back in making it easier for us
+
+248
+00:10:45,279 --> 00:10:49,279
+to add new features to the product it
+
+249
+00:10:47,200 --> 00:10:51,920
+pays it back because our customers have
+
+250
+00:10:49,279 --> 00:10:53,800
+less issues so they're happier they're
+
+251
+00:10:51,920 --> 00:10:55,880
+they they they think better of our
+
+252
+00:10:53,800 --> 00:10:58,639
+product and if they think better of our
+
+253
+00:10:55,880 --> 00:11:00,760
+product then we tend to make more money
+
+254
+00:10:58,639 --> 00:11:03,200
+it's a lagging indicator but we tend to
+
+255
+00:11:00,760 --> 00:11:06,079
+make more money so managing technical
+
+256
+00:11:03,200 --> 00:11:09,079
+debt minimizes your costs and maximizes
+
+257
+00:11:06,079 --> 00:11:09,079
+your profit
+
+

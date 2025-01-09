@@ -6,6 +6,7 @@ videoId: NeGch-lQkPA
 source: internal
 url: /resources/videos/:slug
 slug: overview-of-applying-flow-metrics-for-scrum-course
+layout: video
 preview: https://i.ytimg.com/vi/NeGch-lQkPA/maxresdefault.jpg
 duration: 125
 isShort: false

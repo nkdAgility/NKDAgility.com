@@ -6,6 +6,7 @@ videoId: uCyHR_eU22A
 source: internal
 url: /resources/videos/:slug
 slug: how-do-you-select-the-most-valuable-items-for-the-sprint-backlog
+layout: video
 preview: https://i.ytimg.com/vi/uCyHR_eU22A/maxresdefault.jpg
 duration: 152
 isShort: false

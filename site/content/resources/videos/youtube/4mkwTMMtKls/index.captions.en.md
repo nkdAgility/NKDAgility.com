@@ -1,0 +1,23 @@
+One of the seven deadly sins of Agile is envy, and for me, I think envy in Agile looks like just copying other people's stuff. That's one of the ways it manifests. We believe that if somebody else is getting success with something, then of course we will get success with something. The difficulty is that that's not necessarily true at all. 
+
+I'm going to rephrase that: it might be possible on a small scale. You're working with a team, and one of your colleagues, another Scrum Master or another Product Owner, is using a practice that they're like, "Oh, this is great! We do this and this, and we have this value stream, and we're able to get good stuff from that." You're like, "Okay, I'd like to try that." That's not really what I consider envy; that's just trying stuff. 
+
+Envy would be looking at a great example of envy, the Spotify model. The Spotify model is a fantastic example of envy. There is no such thing as the Spotify model. There was a presentation and a paper that a couple of folks who were leaders at Spotify did at a conference. I think they did a couple of conferences talking about what Spotify was doing, what their journey was, and where they currently were on their journey. That was them telling an example of how they did things, and everybody went, "Ooh, the Spotify model! Let's do that!" 
+
+They absorbed that into their organisation, but what folks don't realise is six weeks later, Spotify were doing it differently. They weren't doing what was defined in the Spotify model. A year later, they got rid of the idea of tribes and guilds and whatever else they were doing because it didn't work for them. They tried something, and it didn't work for them. 
+
+That envy of, "Oh, they're doing this awesome thing, so we need to be doing that awesome thing," I think results in a lot of FOMO, if you've heard that expression: fear of missing out. That's kind of part of envy. Other people are getting stuff, and you want the same stuff. That's where, at many levels, organisations fail. They fail at the process level because you look at a Spotify model, or you look at SAFe, or you look at any of those big models and say, "I want that! I want to install that in my organisation!" Then you pay lots of money to get it installed and then wonder why you're not getting the benefit. 
+
+There's the application level. I talked about this recently on a podcast. Installing an application that enshrines somebody else's business processes into your organisation is not necessarily going to be successful for you. The example I used before was SAP. SAP is a massive application tool, very common in our industry. If you adopt an SAP tool, it comes with a bunch of different capabilities. 
+
+Let's say it's invoice processing. SAP has a workflow for invoice processing that comes out of the box. It has certain ways that it does things, and you're giving up the way your organisation does things in order to adopt the way SAP does things. Does that kind of make sense? There are some things that you can adapt in SAP, but only within the bounds of what the developers that created it allow. 
+
+When you see some of your competitors perhaps installing SAP and building their whole procurement processes in SAP, you think, "Oh, we need to do that! If they're doing that, we need to do that!" Or if our competitors are adding these features to our product, we need to add those features to our product. That's following; that's envy. That's following, not building your own path. 
+
+Simon Sinek does a great video on this topic, and he talks about the "why." He talks about going to two conferences: one is a Microsoft conference under Ballmer, and one is an Apple conference. At the Microsoft conference, everybody wanted to know what their competitors were doing. What are their competitors doing? What are their competitors saying? What are they launching? What features do they have? 
+
+At the Apple conference, they didn't give a crap about what the competitors were doing. They were like, "This is the way we're going. We're doing this." It fits within our belief model: generosity, comfort, confidence, contentedness, friendliness, goodwill, kindness, benevolence, friendship. Those are the opposites of envy. 
+
+I think that if you can put aside what everybody else is doing and focus on what you need to do and what your customers need, you'll have a lot better time both in the process space, in the tool space, and in your organisational structure space. 
+
+Thanks for watching the video! If you enjoyed it, please like, follow, and subscribe. I always reply to comments, and if you want to have a chat about this or anything else Agile, Scrum, or DevOps, then please book a coffee with me through Naked Agility.

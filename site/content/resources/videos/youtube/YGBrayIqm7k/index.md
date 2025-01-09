@@ -6,6 +6,7 @@ videoId: YGBrayIqm7k
 source: internal
 url: /resources/videos/:slug
 slug: the-synergy-between-product-management-and-product-development-in-agile-environments
+layout: video
 preview: https://i.ytimg.com/vi/YGBrayIqm7k/maxresdefault.jpg
 duration: 539
 isShort: false

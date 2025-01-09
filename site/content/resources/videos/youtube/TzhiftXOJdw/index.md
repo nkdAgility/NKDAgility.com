@@ -6,6 +6,7 @@ videoId: TzhiftXOJdw
 source: internal
 url: /resources/videos/:slug
 slug: what-more-needs-to-happen-before-traditional-organisations-consider-agile
+layout: video
 preview: https://i.ytimg.com/vi/TzhiftXOJdw/maxresdefault.jpg
 duration: 240
 isShort: false

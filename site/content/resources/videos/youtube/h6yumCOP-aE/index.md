@@ -6,6 +6,7 @@ videoId: h6yumCOP-aE
 source: internal
 url: /resources/videos/:slug
 slug: 3-best-ways-to-wreck-kanban-don-t-have-a-working-agreement
+layout: video
 preview: https://i.ytimg.com/vi/h6yumCOP-aE/maxresdefault.jpg
 duration: 302
 isShort: false

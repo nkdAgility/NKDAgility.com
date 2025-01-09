@@ -6,6 +6,7 @@ videoId: vXCIf3eBJfs
 source: internal
 url: /resources/videos/:slug
 slug: how-to-choose-the-right-agile-coach-for-your-business-success
+layout: video
 preview: https://i.ytimg.com/vi/vXCIf3eBJfs/maxresdefault.jpg
 duration: 35
 isShort: true

@@ -5,6 +5,7 @@ date: 2024-07-08T06:00:07Z
 videoId: E2aYkadJJok
 url: /resources/videos/:slug
 slug: kanban-boards-for-campaign-success-the-ultimate-guide-to-visualizing-your-workflow
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=E2aYkadJJok
 aliases:
 - /resources/videos/E2aYkadJJok
@@ -21,6 +22,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube E2aYkadJJok >}} 

@@ -6,6 +6,7 @@ videoId: EMJyUOy2gP4
 source: internal
 url: /resources/videos/:slug
 slug: the-problem-with-incompetent-scrum-masters-why-lack-of-skills-in-team-context-results-in-poor-roi
+layout: video
 preview: https://i.ytimg.com/vi/EMJyUOy2gP4/maxresdefault.jpg
 duration: 491
 isShort: false

@@ -247,7 +247,7 @@ function Get-YouTubeCaptions {
     }
 }
 
-# Function to download a caption file with a check if $captionContent is empty
+# Function to download a caption file with a check if $captionContent is empty and decode if necessary
 function Get-YouTubeCaption {
     param (
         [Parameter(Mandatory = $true)]
@@ -263,13 +263,33 @@ function Get-YouTubeCaption {
     # Use Invoke-WebRequest for binary or non-JSON/XML responses
     try {
         $response = Invoke-WebRequest -Uri $downloadUrl -Headers $headers -Method Get
-        return $response.Content
+        $captionContent = $response.Content
+
+        # Check if the content is potentially ASCII-encoded (only contains numbers and whitespace)
+        if ($captionContent -match '^(\d+(\s\d+)*\r?\n?)+$') {
+            Write-Host "Content appears to be ASCII-encoded. Decoding..." -ForegroundColor Yellow
+
+            # Decode the ASCII-encoded content
+            $decodedContent = ""
+            foreach ($line in $captionContent -split "`n") {
+                if ($line -match '^\d+$') {
+                    $decodedContent += [char][int]$line
+                } else {
+                    $decodedContent += "`n" + $line
+                }
+            }
+
+            return $decodedContent
+        } else {
+            Write-Host "Content is already decoded." -ForegroundColor Green
+            return $captionContent
+        }
     }
     catch {
         if ($_.ErrorDetails) {
             # Parse the error response from the error details
             $errorObject = $_.ErrorDetails | ConvertFrom-Json
-    
+
             # Extract the "reason" field
             $reason = $errorObject.error.errors[0].reason
             Write-Host "Error Reason: $reason"
@@ -277,13 +297,13 @@ function Get-YouTubeCaption {
                 Write-Host "Quota Exceeded. Set GOOGLE_QUOTA_OK to false to stop further requests." -ForegroundColor Red
                 $env:GOOGLE_QUOTA_OK = $false
             }
-        }
-        else {
+        } else {
             Write-Host "Error downloading caption: $($_.Exception.Message)" -ForegroundColor Red
         }
         return $null
     }
 }
+
 
 # Function to get authorization code from user
 function Get-AuthorizationCode {

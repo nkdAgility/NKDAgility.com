@@ -29,6 +29,7 @@ tags:
 - Scrum Courses
 resourceTypes:
 - video
+layout: video
 
 ---
 {{< youtube 4fHBoSvTrrM >}}

@@ -6,6 +6,7 @@ videoId: syzFdEP1Eso
 source: internal
 url: /resources/videos/:slug
 slug: why-definition-of-done-is-crucial-for-success-in-scrum
+layout: video
 preview: https://i.ytimg.com/vi/syzFdEP1Eso/maxresdefault.jpg
 duration: 352
 isShort: false

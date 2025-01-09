@@ -6,6 +6,7 @@ videoId: Puz2wSg7UmE
 source: internal
 url: /resources/videos/:slug
 slug: how-to-measure-your-organization-s-ability-to-improve-value-through-innovation
+layout: video
 preview: https://i.ytimg.com/vi/Puz2wSg7UmE/maxresdefault.jpg
 duration: 54
 isShort: true

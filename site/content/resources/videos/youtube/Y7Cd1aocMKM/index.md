@@ -6,6 +6,7 @@ videoId: Y7Cd1aocMKM
 source: internal
 url: /resources/videos/:slug
 slug: how-effective-is-scrum-training-via-digital-delivery
+layout: video
 preview: https://i.ytimg.com/vi/Y7Cd1aocMKM/maxresdefault.jpg
 duration: 384
 isShort: false

@@ -6,6 +6,7 @@ videoId: gImXmxjn_1g
 source: youtube
 url: /resources/videos/:slug
 slug: what-are-3-top-tips-for-a-new-agile-consultant-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=gImXmxjn_1g
 aliases:
 - /resources/videos/gImXmxjn_1g
@@ -23,6 +24,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube gImXmxjn_1g >}} 

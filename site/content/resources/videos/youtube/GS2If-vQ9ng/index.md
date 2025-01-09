@@ -6,6 +6,7 @@ videoId: GS2If-vQ9ng
 source: internal
 url: /resources/videos/:slug
 slug: agile-training-versus-agile-consulting
+layout: video
 preview: https://i.ytimg.com/vi/GS2If-vQ9ng/maxresdefault.jpg
 duration: 49
 isShort: true

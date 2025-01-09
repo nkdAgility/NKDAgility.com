@@ -1,0 +1,3 @@
+Joanna is one of the most competent trainers in the ScrumDog space I've ever worked with. I think part of it is her background; she has deep technical expertise, a PhD in robotics, which puts the rest of us to shame. 
+
+But she just has this way of communicating, and the way she cuts through the BS in classes is just amazing. She has this great way of communicating, and her knowledge and depth of understanding of agile leadership, user experience, and all of these tools and techniques that we talk about is just beyond compare.

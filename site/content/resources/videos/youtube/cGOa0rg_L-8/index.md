@@ -6,6 +6,7 @@ videoId: cGOa0rg_L-8
 source: internal
 url: /resources/videos/:slug
 slug: is-your-project-ecosystem-truly-agile
+layout: video
 preview: https://i.ytimg.com/vi/cGOa0rg_L-8/maxresdefault.jpg
 duration: 46
 isShort: true

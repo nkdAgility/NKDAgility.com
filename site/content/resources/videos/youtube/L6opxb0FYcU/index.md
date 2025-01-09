@@ -6,6 +6,7 @@ videoId: L6opxb0FYcU
 source: internal
 url: /resources/videos/:slug
 slug: worst-agile-advice-you-ve-ever-heard
+layout: video
 preview: https://i.ytimg.com/vi/L6opxb0FYcU/maxresdefault.jpg
 duration: 57
 isShort: true

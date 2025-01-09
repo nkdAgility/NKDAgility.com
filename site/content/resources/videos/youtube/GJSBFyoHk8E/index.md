@@ -6,6 +6,7 @@ videoId: GJSBFyoHk8E
 source: internal
 url: /resources/videos/:slug
 slug: how-does-a-scrum-team-create-a-sprint-goal
+layout: video
 preview: https://i.ytimg.com/vi/GJSBFyoHk8E/maxresdefault.jpg
 duration: 53
 isShort: true

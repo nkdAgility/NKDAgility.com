@@ -6,6 +6,7 @@ videoId: ZQu2uSt1xxk
 source: internal
 url: /resources/videos/:slug
 slug: overview-of-applying-professional-kanban-course
+layout: video
 preview: https://i.ytimg.com/vi/ZQu2uSt1xxk/maxresdefault.jpg
 duration: 104
 isShort: false

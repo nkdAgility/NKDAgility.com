@@ -5,6 +5,7 @@ date: 2020-07-07T20:10:33Z
 videoId: gEJhbET3nqs
 url: /resources/videos/:slug
 slug: professional-agile-leadership-essentials-overview
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=gEJhbET3nqs
 aliases:
 - /resources/videos/gEJhbET3nqs
@@ -22,6 +23,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube gEJhbET3nqs >}} 

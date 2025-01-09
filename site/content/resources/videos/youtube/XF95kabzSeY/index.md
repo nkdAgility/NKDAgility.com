@@ -5,6 +5,7 @@ date: 2023-12-14T11:00:22Z
 videoId: XF95kabzSeY
 url: /resources/videos/:slug
 slug: -shorts-5-things-you-would-teach-a-productowner-apprentice-part-2
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=XF95kabzSeY
 aliases:
 - /resources/videos/XF95kabzSeY
@@ -41,6 +42,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube XF95kabzSeY >}} 

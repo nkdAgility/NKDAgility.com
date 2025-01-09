@@ -6,6 +6,7 @@ videoId: rNqYGyB6PtY
 source: internal
 url: /resources/videos/:slug
 slug: what-should-a-product-owner-do-with-an-incompetent-team
+layout: video
 preview: https://i.ytimg.com/vi/rNqYGyB6PtY/maxresdefault.jpg
 duration: 386
 isShort: false

@@ -1,0 +1,9 @@
+So what we don't need is any more Scrum Masters that don't have the experience and understanding to be able to help the teams that they work with. We don't need any more Scrum Masters that actively inhibit the maximisation of value and the effectiveness of teams because of their lack of knowledge. 
+
+I think the Scrum Master immersive class is a perfect opportunity for people who are aspiring to be Scrum Masters to truly try and understand what it takes to be a Scrum Master. Now, don't get me wrong, if you're thinking of being a Scrum Master and you're not actually a Scrum Master yet, the immersive class is probably not going to work out very well for you. 
+
+Mainly because you, as an aspiring Scrum Master, are going to have difficulty in enacting and working through the assignments which are specifically designed for people who are already working as a Scrum Master, regardless of their knowledge level. Already working as a Scrum Master and focus on them becoming more effective at what they do, at helping their teams be more effective. 
+
+So really, if you're looking to be a Scrum Master, then probably the immersive class is not for you. But if you are already a Scrum Master, regardless of your skill level, then the immersive class is an absolute perfect fit to enable you to really deepen the knowledge that you need to perhaps become a great Scrum Master. 
+
+If you want to have a discussion about how immersive classes can revolutionise your training experience, then please book a call on our website. Alternatively, you can find all of our public immersive classes listed there as well, and we would love to hear from you.

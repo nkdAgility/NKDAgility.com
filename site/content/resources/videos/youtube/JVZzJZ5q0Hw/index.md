@@ -6,6 +6,7 @@ videoId: JVZzJZ5q0Hw
 source: internal
 url: /resources/videos/:slug
 slug: what-is-the-most-common-mistake-in-sprint-planning
+layout: video
 preview: https://i.ytimg.com/vi/JVZzJZ5q0Hw/maxresdefault.jpg
 duration: 505
 isShort: false

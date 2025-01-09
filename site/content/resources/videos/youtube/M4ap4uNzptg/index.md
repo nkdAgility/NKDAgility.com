@@ -6,6 +6,7 @@ videoId: M4ap4uNzptg
 source: internal
 url: /resources/videos/:slug
 slug: unlocking-agiles-core-questioning-to-create-value
+layout: video
 preview: https://i.ytimg.com/vi/M4ap4uNzptg/maxresdefault.jpg
 duration: 241
 isShort: false

@@ -5,6 +5,7 @@ date: 2023-05-04T07:00:07Z
 videoId: JNJerYuU30E
 url: /resources/videos/:slug
 slug: most-influential-person-in-agile-jerónimo-palacios
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=JNJerYuU30E
 aliases:
 - /resources/videos/JNJerYuU30E
@@ -23,6 +24,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube JNJerYuU30E >}} 

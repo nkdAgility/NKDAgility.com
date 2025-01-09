@@ -27,6 +27,7 @@ tags:
 - scrum experience
 resourceTypes:
 - video
+layout: video
 
 ---
 {{< youtube 5s9vi8PiFM4 >}}

@@ -6,6 +6,7 @@ videoId: Srwxg7Etnr0
 source: internal
 url: /resources/videos/:slug
 slug: how-does-a-scrum-team-decide-on-a-sprint-goal
+layout: video
 preview: https://i.ytimg.com/vi/Srwxg7Etnr0/maxresdefault.jpg
 duration: 152
 isShort: false

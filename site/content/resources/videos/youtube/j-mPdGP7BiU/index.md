@@ -6,6 +6,7 @@ videoId: j-mPdGP7BiU
 source: internal
 url: /resources/videos/:slug
 slug: mastering-product-development-from-assumptions-to-hypotheses
+layout: video
 preview: https://i.ytimg.com/vi/j-mPdGP7BiU/maxresdefault.jpg
 duration: 302
 isShort: false

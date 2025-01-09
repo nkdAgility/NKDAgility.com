@@ -6,6 +6,7 @@ videoId: V88FjP9f7_0
 source: internal
 url: /resources/videos/:slug
 slug: quotes-less-is-more-true-or-false
+layout: video
 preview: https://i.ytimg.com/vi/V88FjP9f7_0/maxresdefault.jpg
 duration: 37
 isShort: true

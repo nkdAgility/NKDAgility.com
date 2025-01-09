@@ -6,6 +6,7 @@ videoId: 9lBvhLXW8xY
 source: youtube
 url: /resources/videos/:slug
 slug: update-youtube-video-pages
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=9lBvhLXW8xY
 aliases:
@@ -18,6 +19,8 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube 9lBvhLXW8xY >}} 

@@ -6,6 +6,7 @@ videoId: Ig-HpUfQr3M
 source: youtube
 url: /resources/videos/:slug
 slug: monitoring-and-measuring-for-success
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=Ig-HpUfQr3M
 aliases:
 - /resources/videos/Ig-HpUfQr3M
@@ -33,6 +34,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube Ig-HpUfQr3M >}} 

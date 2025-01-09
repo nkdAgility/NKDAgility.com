@@ -6,6 +6,7 @@ videoId: dg-Cq4mqj8E
 source: youtube
 url: /resources/videos/:slug
 slug: virtual-f2f-running-lvc-in-microsoft-teams-take2
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=dg-Cq4mqj8E
 aliases:
@@ -18,6 +19,8 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube dg-Cq4mqj8E >}} 

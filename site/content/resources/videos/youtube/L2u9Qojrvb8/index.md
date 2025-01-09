@@ -6,6 +6,7 @@ videoId: L2u9Qojrvb8
 source: internal
 url: /resources/videos/:slug
 slug: navigating-devops-crafting-unique-solutions-for-unique-organizations
+layout: video
 preview: https://i.ytimg.com/vi/L2u9Qojrvb8/maxresdefault.jpg
 duration: 198
 isShort: false

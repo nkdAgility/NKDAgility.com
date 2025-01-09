@@ -6,6 +6,7 @@ videoId: CdYwLGrArZU
 source: internal
 url: /resources/videos/:slug
 slug: most-common-thing-you-hear-in-a-pspo-course
+layout: video
 preview: https://i.ytimg.com/vi/CdYwLGrArZU/maxresdefault.jpg
 duration: 56
 isShort: true

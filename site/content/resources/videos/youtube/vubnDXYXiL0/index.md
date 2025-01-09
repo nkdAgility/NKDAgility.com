@@ -6,6 +6,7 @@ videoId: vubnDXYXiL0
 source: internal
 url: /resources/videos/:slug
 slug: are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum
+layout: video
 preview: https://i.ytimg.com/vi/vubnDXYXiL0/maxresdefault.jpg
 duration: 328
 isShort: false

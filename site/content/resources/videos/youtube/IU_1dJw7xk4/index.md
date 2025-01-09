@@ -6,6 +6,7 @@ videoId: IU_1dJw7xk4
 source: internal
 url: /resources/videos/:slug
 slug: how-long-does-it-take-to-transition-from-project-management-to-kanban
+layout: video
 preview: https://i.ytimg.com/vi/IU_1dJw7xk4/maxresdefault.jpg
 duration: 438
 isShort: false

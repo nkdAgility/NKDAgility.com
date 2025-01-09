@@ -6,6 +6,7 @@ videoId: yQlrN2OviCU
 source: internal
 url: /resources/videos/:slug
 slug: the-power-of-peer-feedback-in-immersive-learning
+layout: video
 preview: https://i.ytimg.com/vi/yQlrN2OviCU/maxresdefault.jpg
 duration: 47
 isShort: true

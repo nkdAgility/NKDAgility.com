@@ -1,0 +1,3 @@
+The thing that will completely sink your consulting engagement before it gets started is the contract. If your contract states exactly what needs to be delivered, when, on what cadence, and how much it's going to cost, you're already screwed. That’s not the reality of the unpredictable nature of building products that don't exist yet. 
+
+If you sign up to those contracts, you're just gonna have a bad time. Make sure that you think about how you don't want anything in your contract that specifies exactly what you're going to deliver and when. You want to be talking about the outcome: what is it you're trying to achieve and what value are you going to deliver to the customer? Everything else is irrelevant.

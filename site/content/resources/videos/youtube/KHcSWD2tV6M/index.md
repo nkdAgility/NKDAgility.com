@@ -5,6 +5,7 @@ date: 2023-11-02T11:30:10Z
 videoId: KHcSWD2tV6M
 url: /resources/videos/:slug
 slug: silence-7-signs-of-the-agile-apocalypse-but-shorter!
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=KHcSWD2tV6M
 aliases:
 - /resources/videos/KHcSWD2tV6M
@@ -41,6 +42,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube KHcSWD2tV6M >}} 

@@ -6,6 +6,7 @@ videoId: U18nA0YFgu0
 source: internal
 url: /resources/videos/:slug
 slug: 7-deadly-sins-of-agile-wrath
+layout: video
 preview: https://i.ytimg.com/vi/U18nA0YFgu0/maxresdefault.jpg
 duration: 262
 isShort: false

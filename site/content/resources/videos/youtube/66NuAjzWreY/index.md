@@ -25,6 +25,7 @@ tags:
 - Agile leadership
 resourceTypes:
 - video
+layout: video
 
 ---
 {{< youtube 66NuAjzWreY >}}

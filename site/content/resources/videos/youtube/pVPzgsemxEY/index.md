@@ -6,6 +6,7 @@ videoId: pVPzgsemxEY
 source: internal
 url: /resources/videos/:slug
 slug: the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond
+layout: video
 preview: https://i.ytimg.com/vi/pVPzgsemxEY/maxresdefault.jpg
 duration: 56
 isShort: true

@@ -6,6 +6,7 @@ videoId: roWCOkmtfDs
 source: internal
 url: /resources/videos/:slug
 slug: the-importance-of-validation-in-product-development-a-strategic-approach
+layout: video
 preview: https://i.ytimg.com/vi/roWCOkmtfDs/maxresdefault.jpg
 duration: 843
 isShort: false

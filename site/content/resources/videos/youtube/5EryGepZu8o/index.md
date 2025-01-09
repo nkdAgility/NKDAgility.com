@@ -24,6 +24,7 @@ tags:
 - Scrum Certification
 resourceTypes:
 - video
+layout: video
 
 ---
 {{< youtube 5EryGepZu8o >}}

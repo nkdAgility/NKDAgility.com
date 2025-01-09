@@ -6,6 +6,7 @@ videoId: tUC5TainG2E
 source: internal
 url: /resources/videos/:slug
 slug: how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft
+layout: video
 preview: https://i.ytimg.com/vi/tUC5TainG2E/maxresdefault.jpg
 duration: 271
 isShort: false

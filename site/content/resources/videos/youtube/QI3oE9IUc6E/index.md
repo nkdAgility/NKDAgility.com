@@ -6,6 +6,7 @@ videoId: QI3oE9IUc6E
 source: internal
 url: /resources/videos/:slug
 slug: how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum
+layout: video
 preview: https://i.ytimg.com/vi/QI3oE9IUc6E/maxresdefault.jpg
 duration: 315
 isShort: false

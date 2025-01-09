@@ -6,6 +6,7 @@ videoId: kOj-O99mUZE
 source: internal
 url: /resources/videos/:slug
 slug: overview-of-the-scaling-with-portfolio-kanban-course
+layout: video
 preview: https://i.ytimg.com/vi/kOj-O99mUZE/maxresdefault.jpg
 duration: 146
 isShort: false

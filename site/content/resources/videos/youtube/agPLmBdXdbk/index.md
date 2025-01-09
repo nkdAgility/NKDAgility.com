@@ -6,6 +6,7 @@ videoId: agPLmBdXdbk
 source: internal
 url: /resources/videos/:slug
 slug: must-have-trait-in-an-agile-consultant
+layout: video
 preview: https://i.ytimg.com/vi/agPLmBdXdbk/maxresdefault.jpg
 duration: 39
 isShort: true

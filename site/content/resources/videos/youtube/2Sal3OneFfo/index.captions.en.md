@@ -1,0 +1,3 @@
+There's a number of migration services that we offer. They're kind of related as two sets of tools. There's Martin as your DevOps migration tools, which is on GitHub and available for people to use, but we help people use it. We do it for customers when they don't want to learn it themselves. So that's the more targeted migration tool. 
+
+I want to move, I want to stuff, I want to merge stuff. So that's the actual moving individual work items around. That's what I want to do. Then that's one of our services. The other one is a kind of managed import into Azure DevOps. Microsoft have a tool called the Azure DevOps data migration tool, and that data migration tool takes the whole thing.

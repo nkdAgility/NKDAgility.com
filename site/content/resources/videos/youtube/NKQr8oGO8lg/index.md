@@ -5,6 +5,7 @@ date: 2023-07-13T12:16:15Z
 videoId: NKQr8oGO8lg
 url: /resources/videos/:slug
 slug: how-much-of-a-competitive-edge-will-the-immersive-pal-e-course-deliver-to-delegates-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=NKQr8oGO8lg
 aliases:
 - /resources/videos/NKQr8oGO8lg
@@ -22,6 +23,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube NKQr8oGO8lg >}} 

@@ -6,6 +6,7 @@ videoId: FJjiCodxyK4
 source: internal
 url: /resources/videos/:slug
 slug: why-do-you-prefer-agile-consulting-over-agile-coaching
+layout: video
 preview: https://i.ytimg.com/vi/FJjiCodxyK4/maxresdefault.jpg
 duration: 213
 isShort: false

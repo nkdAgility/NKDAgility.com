@@ -6,6 +6,7 @@ videoId: Frqfd0EPj_4
 source: internal
 url: /resources/videos/:slug
 slug: the-future-of-scrum-training-immersive-learning-for-lasting-change
+layout: video
 preview: https://i.ytimg.com/vi/Frqfd0EPj_4/maxresdefault.jpg
 duration: 134
 isShort: false

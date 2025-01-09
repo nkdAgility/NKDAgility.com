@@ -1,0 +1,9 @@
+Most organisations that I encounter really suffer from missed deadlines and budget overruns for their software projects. It's probably the most common issue that I see happening in organisations, and it can be really unpredictable. You can think that you've got this one in the bag, but the bag just melts, and it starts dropping out the bottom all over the street. 
+
+This is something that is a fundamental reality of the world of complexity, right? What we know is less than what we don't know; therefore, we have a high degree of unpredictability. The things we use to mitigate that are effectively technical leadership and engineering excellence. We need our engineers to be building products that are of a high enough quality that we can pivot as needed at any moment. 
+
+We need our leadership within our organisation, who have a controlling interest in the product delivery, to have enough of an understanding of the technical realities—not just of doing the work, but of ideation and futurism. What are the possibilities for this product to enable better decisions to be made within the context of the product? 
+
+This is super hard because we like to think that there's one right way to do something. There's a best practice, and that's a fallacy. We like to think that all of the awesome engineers we've hired just know how to solve the problem, and that can quite often be a fallacy as well. 
+
+So, we need tools and capabilities around that to help us be more effective. The principles and philosophies behind Agile and Scrum—those ideas of iterative development, continuous delivery, continuous feedback, continuous testing—pretty much anything with "continuous" in front of it in the modern software engineering space are those things that will enable us to be more effective, to make better decisions, to encourage technical leadership, and to encourage engineering excellence.

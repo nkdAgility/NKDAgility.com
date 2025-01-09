@@ -6,6 +6,7 @@ videoId: LiKE3zHuOuY
 source: internal
 url: /resources/videos/:slug
 slug: how-much-of-an-impact-can-scrum-have-in-a-devops-environment
+layout: video
 preview: https://i.ytimg.com/vi/LiKE3zHuOuY/maxresdefault.jpg
 duration: 29
 isShort: true

@@ -26,6 +26,7 @@ tags:
 - Agile Consulting
 resourceTypes:
 - video
+layout: video
 
 ---
 {{< youtube 2I3S32Sk8-c >}}

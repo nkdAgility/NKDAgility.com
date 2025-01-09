@@ -5,6 +5,7 @@ date: 2014-01-02T15:58:51Z
 videoId: oHH_ES7fNWY
 url: /resources/videos/:slug
 slug: sending-email-from-office-365-for-tfs-2013
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=oHH_ES7fNWY
 aliases:
 - /resources/videos/oHH_ES7fNWY
@@ -30,6 +31,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube oHH_ES7fNWY >}} 

@@ -25,6 +25,7 @@ tags:
 - DevOps coach
 resourceTypes:
 - video
+layout: video
 
 ---
 {{< youtube _rJoehoYIVA >}}

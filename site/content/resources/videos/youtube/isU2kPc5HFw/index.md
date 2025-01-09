@@ -6,6 +6,7 @@ videoId: isU2kPc5HFw
 source: internal
 url: /resources/videos/:slug
 slug: the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
+layout: video
 preview: https://i.ytimg.com/vi/isU2kPc5HFw/maxresdefault.jpg
 duration: 998
 isShort: false

@@ -6,6 +6,7 @@ videoId: OZt-5iszx-I
 source: internal
 url: /resources/videos/:slug
 slug: turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value
+layout: video
 preview: https://i.ytimg.com/vi/OZt-5iszx-I/maxresdefault.jpg
 duration: 56
 isShort: true

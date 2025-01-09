@@ -5,6 +5,7 @@ date: 2024-11-06T05:45:03Z
 videoId: qpo4Ru1VVZE
 url: /resources/videos/:slug
 slug: devops-migration-compatibility-problems
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=qpo4Ru1VVZE
 aliases:
 - /resources/videos/qpo4Ru1VVZE
@@ -25,6 +26,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube qpo4Ru1VVZE >}} 

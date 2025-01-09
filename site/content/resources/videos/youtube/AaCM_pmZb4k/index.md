@@ -6,6 +6,7 @@ videoId: AaCM_pmZb4k
 source: internal
 url: /resources/videos/:slug
 slug: what-are-the-hierarchies-of-competence-vs-control-why-does-this-matter
+layout: video
 preview: https://i.ytimg.com/vi/AaCM_pmZb4k/maxresdefault.jpg
 duration: 567
 isShort: false

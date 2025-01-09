@@ -6,6 +6,7 @@ videoId: whKX9Mn1eb8
 source: youtube
 url: /resources/videos/:slug
 slug: the-superpower-of-quality-engineering
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=whKX9Mn1eb8
 aliases:
 - /resources/videos/whKX9Mn1eb8
@@ -29,6 +30,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube whKX9Mn1eb8 >}} 

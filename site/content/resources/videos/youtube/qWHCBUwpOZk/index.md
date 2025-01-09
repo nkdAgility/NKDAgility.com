@@ -6,6 +6,7 @@ videoId: qWHCBUwpOZk
 source: internal
 url: /resources/videos/:slug
 slug: 3-core-practices-of-kanban-improving-a-workflow
+layout: video
 preview: https://i.ytimg.com/vi/qWHCBUwpOZk/maxresdefault.jpg
 duration: 307
 isShort: false

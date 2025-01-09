@@ -6,6 +6,7 @@ videoId: klBiNFvxuy0
 source: internal
 url: /resources/videos/:slug
 slug: what-is-the-most-common-aha-moment-people-have-in-a-scrum-course
+layout: video
 preview: https://i.ytimg.com/vi/klBiNFvxuy0/maxresdefault.jpg
 duration: 301
 isShort: false

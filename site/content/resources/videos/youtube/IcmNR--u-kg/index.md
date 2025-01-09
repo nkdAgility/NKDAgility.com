@@ -6,6 +6,7 @@ videoId: IcmNR--u-kg
 source: youtube
 url: /resources/videos/:slug
 slug: how-will-the-immersive-learning-experience-change-the-game-in-terms-of-entry-level-capabilities-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=IcmNR--u-kg
 aliases:
 - /resources/videos/IcmNR--u-kg
@@ -29,6 +30,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube IcmNR--u-kg >}} 

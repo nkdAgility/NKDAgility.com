@@ -5,6 +5,7 @@ date: 2024-11-04T06:06:49Z
 videoId: hWyF6CbcbQ8
 url: /resources/videos/:slug
 slug: devops-migration-data-integrity-issues
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=hWyF6CbcbQ8
 aliases:
 - /resources/videos/hWyF6CbcbQ8
@@ -25,6 +26,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube hWyF6CbcbQ8 >}} 

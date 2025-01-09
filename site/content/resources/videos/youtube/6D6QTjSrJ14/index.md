@@ -31,6 +31,7 @@ tags:
 - immersive learning courses
 resourceTypes:
 - video
+layout: video
 
 ---
 {{< youtube 6D6QTjSrJ14 >}}

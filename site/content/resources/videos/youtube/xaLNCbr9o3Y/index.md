@@ -5,6 +5,7 @@ date: 2020-04-01T16:26:05Z
 videoId: xaLNCbr9o3Y
 url: /resources/videos/:slug
 slug: ep-003-daniel-vacanti-on-live-online-psk-in-edinburgh
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=xaLNCbr9o3Y
 aliases:
 - /resources/videos/xaLNCbr9o3Y
@@ -18,6 +19,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube xaLNCbr9o3Y >}} 

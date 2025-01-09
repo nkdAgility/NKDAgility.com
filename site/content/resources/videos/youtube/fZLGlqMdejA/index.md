@@ -6,6 +6,7 @@ videoId: fZLGlqMdejA
 source: internal
 url: /resources/videos/:slug
 slug: 7-deadly-sins-of-agile-greed
+layout: video
 preview: https://i.ytimg.com/vi/fZLGlqMdejA/maxresdefault.jpg
 duration: 380
 isShort: false

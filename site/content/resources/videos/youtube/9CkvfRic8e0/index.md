@@ -5,6 +5,7 @@ date: 2014-01-02T15:27:09Z
 videoId: 9CkvfRic8e0
 url: /resources/videos/:slug
 slug: connecting-release-manageer-to-tfs-2013
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=9CkvfRic8e0
 aliases:
 - /resources/videos/9CkvfRic8e0
@@ -29,6 +30,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube 9CkvfRic8e0 >}} 

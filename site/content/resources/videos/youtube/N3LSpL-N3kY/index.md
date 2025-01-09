@@ -6,6 +6,7 @@ videoId: N3LSpL-N3kY
 source: internal
 url: /resources/videos/:slug
 slug: 2-day-pspo-versus-8-week-pspo
+layout: video
 preview: https://i.ytimg.com/vi/N3LSpL-N3kY/maxresdefault.jpg
 duration: 52
 isShort: true

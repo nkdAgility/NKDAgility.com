@@ -5,6 +5,7 @@ date: 2024-11-07T05:45:02Z
 videoId: x6a_BuQq580
 url: /resources/videos/:slug
 slug: devops-migration-incomplete-migrations
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=x6a_BuQq580
 aliases:
 - /resources/videos/x6a_BuQq580
@@ -25,6 +26,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube x6a_BuQq580 >}} 

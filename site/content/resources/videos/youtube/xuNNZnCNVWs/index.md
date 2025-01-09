@@ -5,6 +5,7 @@ date: 2023-04-27T07:00:31Z
 videoId: xuNNZnCNVWs
 url: /resources/videos/:slug
 slug: 1-critical-skill-for-a-scrum-master-and-why-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=xuNNZnCNVWs
 aliases:
 - /resources/videos/xuNNZnCNVWs
@@ -23,6 +24,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube xuNNZnCNVWs >}} 

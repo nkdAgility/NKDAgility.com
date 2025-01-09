@@ -5,6 +5,7 @@ date: 2024-05-07T11:02:49Z
 videoId: EyqLSLHk_Ik
 url: /resources/videos/:slug
 slug: product-development-mentoring-program
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=EyqLSLHk_Ik
 aliases:
 - /resources/videos/EyqLSLHk_Ik
@@ -23,6 +24,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube EyqLSLHk_Ik >}} 

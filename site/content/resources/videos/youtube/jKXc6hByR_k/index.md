@@ -6,6 +6,7 @@ videoId: jKXc6hByR_k
 source: youtube
 url: /resources/videos/:slug
 slug: your-partner-in-on-time,-on-budget-delivery
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=jKXc6hByR_k
 aliases:
 - /resources/videos/jKXc6hByR_k
@@ -34,6 +35,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube jKXc6hByR_k >}} 

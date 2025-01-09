@@ -6,6 +6,7 @@ videoId: v1sMbKpQndU
 source: internal
 url: /resources/videos/:slug
 slug: what-are-the-top-3-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
+layout: video
 preview: https://i.ytimg.com/vi/v1sMbKpQndU/maxresdefault.jpg
 duration: 164
 isShort: false

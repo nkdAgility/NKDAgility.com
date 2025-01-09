@@ -6,6 +6,7 @@ videoId: Nw0bXiOqu0Q
 source: internal
 url: /resources/videos/:slug
 slug: why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile
+layout: video
 preview: https://i.ytimg.com/vi/Nw0bXiOqu0Q/maxresdefault.jpg
 duration: 246
 isShort: false

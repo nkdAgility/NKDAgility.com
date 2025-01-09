@@ -6,6 +6,7 @@ videoId: qnGFctaLgVM
 source: internal
 url: /resources/videos/:slug
 slug: why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility
+layout: video
 preview: https://i.ytimg.com/vi/qnGFctaLgVM/maxresdefault.jpg
 duration: 48
 isShort: true

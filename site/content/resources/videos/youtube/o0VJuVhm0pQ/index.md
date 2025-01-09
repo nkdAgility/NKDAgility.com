@@ -6,6 +6,7 @@ videoId: o0VJuVhm0pQ
 source: internal
 url: /resources/videos/:slug
 slug: in-high-competition-markets-how-does-scrum-product-development-help-acquire-and-retain-customers
+layout: video
 preview: https://i.ytimg.com/vi/o0VJuVhm0pQ/maxresdefault.jpg
 duration: 407
 isShort: false

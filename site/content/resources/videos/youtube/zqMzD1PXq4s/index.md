@@ -6,6 +6,7 @@ videoId: zqMzD1PXq4s
 source: youtube
 url: /resources/videos/:slug
 slug: the-cost-of-chaos-the-impact-of-poor-technical-leadership
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=zqMzD1PXq4s
 aliases:
 - /resources/videos/zqMzD1PXq4s
@@ -30,6 +31,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube zqMzD1PXq4s >}} 

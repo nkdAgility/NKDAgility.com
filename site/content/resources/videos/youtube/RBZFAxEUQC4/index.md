@@ -6,6 +6,7 @@ videoId: RBZFAxEUQC4
 source: internal
 url: /resources/videos/:slug
 slug: 7-deadly-sins-of-agile-lust
+layout: video
 preview: https://i.ytimg.com/vi/RBZFAxEUQC4/maxresdefault.jpg
 duration: 177
 isShort: false

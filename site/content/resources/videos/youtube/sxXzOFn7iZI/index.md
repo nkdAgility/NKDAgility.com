@@ -6,6 +6,7 @@ videoId: sxXzOFn7iZI
 source: internal
 url: /resources/videos/:slug
 slug: hiring-an-agile-coach-what-you-need-to-know
+layout: video
 preview: https://i.ytimg.com/vi/sxXzOFn7iZI/maxresdefault.jpg
 duration: 40
 isShort: true

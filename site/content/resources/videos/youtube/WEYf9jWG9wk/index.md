@@ -5,6 +5,7 @@ date: 2024-11-20T08:02:36Z
 videoId: WEYf9jWG9wk
 url: /resources/videos/:slug
 slug: unleash-your-team's-full-potential
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=WEYf9jWG9wk
 aliases:
 - /resources/videos/WEYf9jWG9wk
@@ -29,6 +30,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube WEYf9jWG9wk >}} 

@@ -6,6 +6,7 @@ videoId: BmlTZwGAcMU
 source: internal
 url: /resources/videos/:slug
 slug: immersive-learning-in-scrum-why-theory-and-experience-must-go-hand-in-hand
+layout: video
 preview: https://i.ytimg.com/vi/BmlTZwGAcMU/maxresdefault.jpg
 duration: 35
 isShort: true

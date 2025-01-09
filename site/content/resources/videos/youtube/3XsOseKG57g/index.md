@@ -26,6 +26,7 @@ tags:
 - Immersive training
 resourceTypes:
 - video
+layout: video
 
 ---
 {{< youtube 3XsOseKG57g >}}

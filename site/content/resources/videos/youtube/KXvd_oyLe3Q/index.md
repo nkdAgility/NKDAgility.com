@@ -6,6 +6,7 @@ videoId: KXvd_oyLe3Q
 source: internal
 url: /resources/videos/:slug
 slug: the-crucible-of-learning-transforming-organizational-effectiveness-through-devops
+layout: video
 preview: https://i.ytimg.com/vi/KXvd_oyLe3Q/maxresdefault.jpg
 duration: 832
 isShort: false

@@ -7,6 +7,7 @@ videoId: iRrEjx1mOgk
 source: youtube
 url: /resources/videos/:slug
 slug: 5-7-2020-1-01-14-pm
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=iRrEjx1mOgk
 aliases:
 - /resources/videos/iRrEjx1mOgk
@@ -18,6 +19,8 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube iRrEjx1mOgk >}} 

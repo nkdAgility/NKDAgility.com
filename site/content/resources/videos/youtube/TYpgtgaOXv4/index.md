@@ -6,6 +6,7 @@ videoId: TYpgtgaOXv4
 source: internal
 url: /resources/videos/:slug
 slug: the-importance-of-product-backlog-management-in-today-s-agile-landscape
+layout: video
 preview: https://i.ytimg.com/vi/TYpgtgaOXv4/maxresdefault.jpg
 duration: 75
 isShort: false

@@ -6,6 +6,7 @@ videoId: BDFrmCV_c68
 source: internal
 url: /resources/videos/:slug
 slug: 7-deadly-sins-of-agile-pride
+layout: video
 preview: https://i.ytimg.com/vi/BDFrmCV_c68/maxresdefault.jpg
 duration: 251
 isShort: false

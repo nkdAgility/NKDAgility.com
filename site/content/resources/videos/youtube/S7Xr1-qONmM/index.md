@@ -6,6 +6,7 @@ videoId: S7Xr1-qONmM
 source: internal
 url: /resources/videos/:slug
 slug: why-do-you-think-the-psu-course-has-become-so-popular-for-product-development
+layout: video
 preview: https://i.ytimg.com/vi/S7Xr1-qONmM/maxresdefault.jpg
 duration: 294
 isShort: false

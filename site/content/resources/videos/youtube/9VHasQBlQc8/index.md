@@ -6,6 +6,7 @@ videoId: 9VHasQBlQc8
 source: internal
 url: /resources/videos/:slug
 slug: the-importance-of-patience-and-trust-in-building-agile-organizations
+layout: video
 preview: https://i.ytimg.com/vi/9VHasQBlQc8/maxresdefault.jpg
 duration: 156
 isShort: false

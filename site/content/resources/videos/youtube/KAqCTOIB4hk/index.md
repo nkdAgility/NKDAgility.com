@@ -6,6 +6,7 @@ videoId: KAqCTOIB4hk
 source: internal
 url: /resources/videos/:slug
 slug: unlocking-the-power-of-immersive-learning-for-product-management
+layout: video
 preview: https://i.ytimg.com/vi/KAqCTOIB4hk/maxresdefault.jpg
 duration: 574
 isShort: false

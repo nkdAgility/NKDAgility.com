@@ -6,6 +6,7 @@ videoId: cR4D4qQe9ps
 source: internal
 url: /resources/videos/:slug
 slug: 1-tip-for-a-new-scrum-master
+layout: video
 preview: https://i.ytimg.com/vi/cR4D4qQe9ps/maxresdefault.jpg
 duration: 35
 isShort: true

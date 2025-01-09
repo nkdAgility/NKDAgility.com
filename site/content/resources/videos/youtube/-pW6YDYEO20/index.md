@@ -24,6 +24,7 @@ tags:
 - Scrum Master Traits
 resourceTypes:
 - video
+layout: video
 
 ---
 {{< youtube -pW6YDYEO20 >}}

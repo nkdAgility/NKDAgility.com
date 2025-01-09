@@ -6,6 +6,7 @@ videoId: 8aIUldVDtGw
 source: internal
 url: /resources/videos/:slug
 slug: stop-starting-and-start-finishing-the-key-to-team-success
+layout: video
 preview: https://i.ytimg.com/vi/8aIUldVDtGw/maxresdefault.jpg
 duration: 496
 isShort: false

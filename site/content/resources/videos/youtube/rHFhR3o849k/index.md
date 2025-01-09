@@ -5,6 +5,7 @@ date: 2023-03-13T07:00:19Z
 videoId: rHFhR3o849k
 url: /resources/videos/:slug
 slug: what-makes-a-truly-great-scrum-master-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=rHFhR3o849k
 aliases:
 - /resources/videos/rHFhR3o849k
@@ -23,6 +24,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube rHFhR3o849k >}} 

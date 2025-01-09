@@ -5,6 +5,7 @@ date: 2020-06-04T05:33:42Z
 videoId: gc8Pq_5CepY
 url: /resources/videos/:slug
 slug: 3rd-june-2020-office-hours-ask-me-anything
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=gc8Pq_5CepY
 aliases:
 - /resources/videos/gc8Pq_5CepY
@@ -18,6 +19,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube gc8Pq_5CepY >}} 

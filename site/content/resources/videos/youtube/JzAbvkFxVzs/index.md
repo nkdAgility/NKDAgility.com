@@ -6,6 +6,7 @@ videoId: JzAbvkFxVzs
 source: internal
 url: /resources/videos/:slug
 slug: the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
+layout: video
 preview: https://i.ytimg.com/vi/JzAbvkFxVzs/maxresdefault.jpg
 duration: 299
 isShort: false

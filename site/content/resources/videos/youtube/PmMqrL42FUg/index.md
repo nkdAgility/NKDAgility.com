@@ -6,6 +6,7 @@ videoId: PmMqrL42FUg
 source: youtube
 url: /resources/videos/:slug
 slug: 7-deadly-sins-of-agile-sloth-updated
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=PmMqrL42FUg
 aliases:
@@ -28,6 +29,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube PmMqrL42FUg >}} 

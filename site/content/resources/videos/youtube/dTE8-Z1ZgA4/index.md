@@ -5,6 +5,7 @@ date: 2023-08-29T07:00:14Z
 videoId: dTE8-Z1ZgA4
 url: /resources/videos/:slug
 slug: why-do-you-trust-simon-to-deliver-the-aps-course-for-nkd-agility
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=dTE8-Z1ZgA4
 aliases:
 - /resources/videos/dTE8-Z1ZgA4
@@ -18,6 +19,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube dTE8-Z1ZgA4 >}} 

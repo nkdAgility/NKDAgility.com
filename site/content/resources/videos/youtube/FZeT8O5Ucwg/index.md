@@ -5,6 +5,7 @@ date: 2020-03-18T13:56:05Z
 videoId: FZeT8O5Ucwg
 url: /resources/videos/:slug
 slug: the-tyranny-of-taylorism-&-how-to-detect-agile-bs!
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=FZeT8O5Ucwg
 aliases:
 - /resources/videos/FZeT8O5Ucwg
@@ -22,6 +23,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube FZeT8O5Ucwg >}} 

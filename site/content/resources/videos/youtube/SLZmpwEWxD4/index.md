@@ -6,6 +6,7 @@ videoId: SLZmpwEWxD4
 source: internal
 url: /resources/videos/:slug
 slug: the-importance-of-visualizing-your-work-in-a-kanban-strategy
+layout: video
 preview: https://i.ytimg.com/vi/SLZmpwEWxD4/maxresdefault.jpg
 duration: 267
 isShort: false

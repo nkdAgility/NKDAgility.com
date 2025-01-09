@@ -5,6 +5,7 @@ date: 2024-01-04T12:14:45Z
 videoId: uvZ9TGbMtnU
 url: /resources/videos/:slug
 slug: -shorts-5-kinds-of-agile-bandits-1st-kind
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=uvZ9TGbMtnU
 aliases:
 - /resources/videos/uvZ9TGbMtnU
@@ -41,6 +42,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube uvZ9TGbMtnU >}} 

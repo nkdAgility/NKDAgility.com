@@ -6,6 +6,7 @@ videoId: USrwyGHG_tc
 source: internal
 url: /resources/videos/:slug
 slug: is-a-scrum-master-an-agile-micromanager
+layout: video
 preview: https://i.ytimg.com/vi/USrwyGHG_tc/maxresdefault.jpg
 duration: 45
 isShort: true

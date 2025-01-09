@@ -6,6 +6,7 @@ videoId: XFN4iXYLE3U
 source: internal
 url: /resources/videos/:slug
 slug: why-limiting-work-in-progress-is-key-to-success-in-kanban
+layout: video
 preview: https://i.ytimg.com/vi/XFN4iXYLE3U/maxresdefault.jpg
 duration: 54
 isShort: true

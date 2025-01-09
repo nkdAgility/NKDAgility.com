@@ -1,0 +1,23 @@
+What is empiricism and why is it so critical? 
+
+Yeah, I think in empiricism, so what is empiricism? That is a great question. So, empiricism is effectively inspecting and adapting. We hear that a lot in the agile space, and empiricism is we need to—something happens, we need to be able to see what happened, right? We will look at the data; that's the transparency piece, right? We can see what's going on—really what's going on, not vanity metrics, not all of that [ __ ], right? We can actually see what's going on.
+
+And then we're going to— we're actually going to look at it. So it's not good enough just to have the transparency; you have to go look, right? You have to go and analyse the data. You know, all those reports that you create that nobody ever looks at, they're all crap, right? You want to be actually—what data do you need in order to make different decisions? So we have the data, the transparency, right? Or what's going on—look at it, and then we change the way we do things. We change something, right? And that could be lots of different inspect and adapt loops. There's a bunch of inspecting and adapting loops, for example, baked into Scrum. That's why they call it an empirical process, right? It's implementing a number of different inspect and adapt loops.
+
+One of those loops is the daily, right? You've got a Sprint backlog; your Sprint backlog represents your transparency of the present—what's going on just now. And then every day, you're adapting, inspecting and adapting that backlog, continually adapting that plan towards completion of the Sprints. 
+
+You've also got the Sprint review, right? Continually adapting the product backlog and the product goal towards whatever direction you're going. That way, you're able to kind of steer in different directions as you close those feedback loops. 
+
+And then you get the Retro, which is the feedback loop for the process itself—our working agreement, right? Our definition of workflow. And every—at the end of every Sprint, we're going to get together and figure out what happened during the Sprint and how can we change this to make our lives in the next Sprint a little bit better, or my—our lives five Sprints down the line a little bit better.
+
+So there's three inspect and adapt loops just in that part of the process, and the entire Sprint is another inspect and adapt loop. Your customer, right? The stakeholders are engaging in that inspect and adapt process at the end of every single Sprint. They can see what you've done and can decide whether they want to invest in another Sprint, right? Do I—am I getting enough value, or is there enough potential value that it's worth me spending money for another Sprint, or are we done? 
+
+Right? Perhaps it was a bad idea, right? We're quite early in the process, and we had a cool idea, but it doesn't turn out it's very good. Or perhaps we're going in slightly the wrong direction and they need to twitch it over somewhere else—pivot, right? At the end of the Sprint, and figure out where we're going next. 
+
+That's the real power of inspect and adapt, and that's why organisations that have large hierarchies and the people that are making decisions are too far away from this actual work that's going on and aren't able to respond quickly enough to the market, right? Because either your market is either a commercial market, right? Your business is doing business with other people, or potentially for a product, your market is inside of the organisation, right? It's another part of the business that is delivering something. 
+
+And as their needs change or the market needs change, you need to continually adapt the features that you're creating, the direction that you're going, what you're supporting in order to best meet those needs because they're serving some other market as well that's constantly changing. So that's why we need those feedback loops. That's why we need empiricism, because we actually don't know where we're going. We might know what we want to—what we think up front we want to create for this product, right? 
+
+But what about who we're providing that product for? Is their capability, business direction stagnant, or is it constantly changing? What about what those people are creating their outputs for? Is that stagnant or constantly changing? And how quickly can we close those feedback loops? That's really what agile is all about.
+
+Thanks for watching the video. If you enjoyed it, please like, follow and subscribe. I always reply to comments, and if you want to have a chat about this or anything else—agile, Scrum or DevOps—then please book a coffee with me through Naked Agility.

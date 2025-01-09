@@ -6,6 +6,7 @@ videoId: NgoP5W5y7Gs
 source: internal
 url: /resources/videos/:slug
 slug: security-by-design-building-secure-software
+layout: video
 aliases:
 - /resources/videos/NgoP5W5y7Gs
 - /resources/videos/security-by-design-building-secure-software
@@ -28,6 +29,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+resourceTypes:
+- video
 
 ---
 # Shift Left: Building Quality and Security From the Start

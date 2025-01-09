@@ -6,6 +6,7 @@ videoId: DgIETaRjZWs
 source: youtube
 url: /resources/videos/:slug
 slug: lean-example-from-the-founder-youtube
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=DgIETaRjZWs
 aliases:
@@ -18,6 +19,8 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube DgIETaRjZWs >}} 

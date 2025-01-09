@@ -6,6 +6,7 @@ videoId: kXhJrisYofU
 source: youtube
 url: /resources/videos/:slug
 slug: agile-budgeting-for-predictable-costs
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=kXhJrisYofU
 aliases:
 - /resources/videos/kXhJrisYofU
@@ -32,6 +33,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
 {{< youtube kXhJrisYofU >}} 

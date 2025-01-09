@@ -6,6 +6,7 @@ videoId: yEu8Fw4JQWM
 source: internal
 url: /resources/videos/:slug
 slug: in-wip-less-is-more-why
+layout: video
 preview: https://i.ytimg.com/vi/yEu8Fw4JQWM/maxresdefault.jpg
 duration: 263
 isShort: false

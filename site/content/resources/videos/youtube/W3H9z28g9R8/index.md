@@ -6,6 +6,7 @@ videoId: W3H9z28g9R8
 source: internal
 url: /resources/videos/:slug
 slug: 7-harbingers-of-the-agile-apocalypse-famine
+layout: video
 preview: https://i.ytimg.com/vi/W3H9z28g9R8/maxresdefault.jpg
 duration: 448
 isShort: false

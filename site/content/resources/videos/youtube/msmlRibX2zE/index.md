@@ -5,6 +5,7 @@ date: 2013-07-25T19:42:35Z
 videoId: msmlRibX2zE
 url: /resources/videos/:slug
 slug: harris-beach-sds-ultrabook-unbox
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=msmlRibX2zE
 aliases:
 - /resources/videos/msmlRibX2zE
@@ -23,6 +24,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
 {{< youtube msmlRibX2zE >}} 
