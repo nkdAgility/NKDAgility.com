@@ -6,6 +6,7 @@ videoId: nhkUm6k4Q0A
 source: internal
 url: /resources/videos/:slug
 slug: how-to-be-an-effective-agile-coach-agnosticism-in-practice
+layout: video
 preview: https://i.ytimg.com/vi/nhkUm6k4Q0A/maxresdefault.jpg
 duration: 61
 isShort: false

@@ -6,6 +6,7 @@ videoId: DK3axj21R4U
 source: youtube
 url: /resources/videos/:slug
 slug: fortnite
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=DK3axj21R4U
 aliases:
@@ -18,8 +19,9 @@ isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube DK3axj21R4U >}} 
   
  [Watch on Youtube](https://www.youtube.com/watch?v=DK3axj21R4U)

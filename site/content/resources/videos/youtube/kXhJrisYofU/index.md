@@ -6,6 +6,7 @@ videoId: kXhJrisYofU
 source: youtube
 url: /resources/videos/:slug
 slug: agile-budgeting-for-predictable-costs
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=kXhJrisYofU
 aliases:
 - /resources/videos/kXhJrisYofU
@@ -32,9 +33,10 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube kXhJrisYofU >}} 
  Beyond Budgeting: Adapting to Modern Product Development | Martin Hinshelwood
 
 👋 Hi, I’m Martin Hinshelwood from NKD Agility, and in this video, I discuss how traditional budgeting methods are holding organizations back in dynamic, fast-changing markets. Instead of rigid, annual budgets, we explore how Beyond Budgeting principles enable more adaptive, flexible, and value-driven financial management aligned with modern product development practices.

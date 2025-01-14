@@ -6,6 +6,7 @@ videoId: omsEiYqX-Dk
 source: youtube
 url: /resources/videos/:slug
 slug: how-much-competitive-advantage-does-organizational-agility-offer-versus-traditional-management-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=omsEiYqX-Dk
 aliases:
 - /resources/videos/omsEiYqX-Dk
@@ -26,9 +27,10 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube omsEiYqX-Dk >}} 
  *Unlocking Organizational Agility: Mastering Market Response* - Discover how to harness organizational agility for competitive advantage. Learn to respond swiftly to market changes and empower your team for success. 
 
 *Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility

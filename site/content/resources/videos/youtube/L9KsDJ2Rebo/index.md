@@ -5,6 +5,7 @@ date: 2023-07-13T07:45:48Z
 videoId: L9KsDJ2Rebo
 url: /resources/videos/:slug
 slug: what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=L9KsDJ2Rebo
 aliases:
 - /resources/videos/L9KsDJ2Rebo
@@ -28,9 +29,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube L9KsDJ2Rebo >}} 
  As a Professional Scrum Trainer (PST), Kanban Dan is focused on helping delegates acquire the knowledge, skills, and capabilities they need to shine in the workplace. 
 
 The 2-day Professional Scrum Master course does a great job of preparing newbie scrum masters, but the 7-week immersive learning experience offers a whole new dimension that ensures more skilled, knowledgeable, and practised scrum masters in the industry.

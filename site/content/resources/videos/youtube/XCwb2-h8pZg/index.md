@@ -5,6 +5,7 @@ date: 2013-08-17T07:27:19Z
 videoId: XCwb2-h8pZg
 url: /resources/videos/:slug
 slug: kanban-with-team-foundation-service
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=XCwb2-h8pZg
 aliases:
 - /resources/videos/XCwb2-h8pZg
@@ -18,8 +19,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube XCwb2-h8pZg >}} 
   
  [Watch on Youtube](https://www.youtube.com/watch?v=XCwb2-h8pZg)

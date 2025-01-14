@@ -5,6 +5,7 @@ date: 2023-09-28T10:27:47Z
 videoId: tPX-wc6pG7M
 url: /resources/videos/:slug
 slug: 5-october-2023-agile-leader-webinar
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=tPX-wc6pG7M
 aliases:
 - /resources/videos/tPX-wc6pG7M
@@ -25,9 +26,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube tPX-wc6pG7M >}} 
  🌟 Exclusive Webcast: "Agile Leadership & Agile Transformation" with Dr. Joanna Płaskonka & Martin Hinshelwood 🌟 
 
 Register at https://events.teams.microsoft.com/event/18ce0eb6-2b89-4e62-bab0-4c78a27ee18e@686c55d4-ab81-4a17-9eef-6472a5633fab

@@ -28,6 +28,7 @@ tags:
 - Sprint Backlog
 resourceTypes:
 - video
+layout: video
 
 ---
 {{< youtube _Eer3X3Z_LE >}}

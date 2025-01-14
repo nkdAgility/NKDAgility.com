@@ -6,6 +6,7 @@ videoId: G1BQG2tsbYg
 source: internal
 url: /resources/videos/:slug
 slug: how-to-achieve-predictability-in-business-through-agile-principles
+layout: video
 preview: https://i.ytimg.com/vi/G1BQG2tsbYg/maxresdefault.jpg
 duration: 1259
 isShort: false

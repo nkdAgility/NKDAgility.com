@@ -5,6 +5,7 @@ date: 2023-03-16T07:00:16Z
 videoId: TabMnJpXFVA
 url: /resources/videos/:slug
 slug: why-are-you-going-the-immersive-scrum-training-route-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=TabMnJpXFVA
 aliases:
 - /resources/videos/TabMnJpXFVA
@@ -24,9 +25,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube TabMnJpXFVA >}} 
  scrum.org have pioneered a new format of #scrumtraining called #immersive learning, especially for #scrumcertification courses like the #professionalscrummaster and #professionalscrumproductowner courses.
 
 It's a shift from the traditional 2-day course format to 4-day and 8-day course formats that include assignments, feedback sessions, and opportunities for people to ask questions about work they are implementing real-time.

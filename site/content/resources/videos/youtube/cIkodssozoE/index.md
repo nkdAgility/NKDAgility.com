@@ -6,6 +6,7 @@ videoId: cIkodssozoE
 source: youtube
 url: /resources/videos/:slug
 slug: free-workshop-08-introduction-to-user-stories
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=cIkodssozoE
 aliases:
@@ -18,9 +19,10 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube cIkodssozoE >}} 
  In this 90 minutes free Workshop, we will cover an  "Introduction to User Stories" with some interactive sessions around building good user stories and when to break them down.
 
 Join Live and Interactive on: 

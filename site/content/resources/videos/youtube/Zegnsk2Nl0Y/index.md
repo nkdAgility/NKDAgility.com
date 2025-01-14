@@ -5,6 +5,7 @@ date: 2023-09-28T07:00:22Z
 videoId: Zegnsk2Nl0Y
 url: /resources/videos/:slug
 slug: 5-tools-that-scrum-masters-love-part-5
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=Zegnsk2Nl0Y
 aliases:
 - /resources/videos/Zegnsk2Nl0Y
@@ -29,9 +30,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube Zegnsk2Nl0Y >}} 
  #shorts #shortsvideo #shortvideo 5 tools that a #scrummaster loves. #scrum tool 5
 
 About NKD Agility

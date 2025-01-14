@@ -7,6 +7,7 @@ videoId: 9gVxeQg9Ksg
 source: youtube
 url: /resources/videos/:slug
 slug: discovery-martin-hinshelwood-nkdagility-com-angelos-karastergios
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=9gVxeQg9Ksg
 aliases:
 - /resources/videos/9gVxeQg9Ksg
@@ -18,8 +19,9 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube 9gVxeQg9Ksg >}} 
   
  [Watch on Youtube](https://www.youtube.com/watch?v=9gVxeQg9Ksg)

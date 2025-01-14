@@ -6,6 +6,7 @@ videoId: npnQtdLEwQY
 source: youtube
 url: /resources/videos/:slug
 slug: managing-technical-debt-to-minimize-costs
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=npnQtdLEwQY
 aliases:
 - /resources/videos/npnQtdLEwQY
@@ -33,9 +34,10 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube npnQtdLEwQY >}} 
  Understanding and Managing Technical Debt: Lessons for Every Organization | Martin Hinshelwood
 
 In this video, I explore the real cost of technical debt and how organizations can identify, manage, and pay it back effectively. From intentional design compromises for speed to the unintended consequences of poor architectural decisions, technical debt adds hidden costs that can spiral out of control if not addressed.

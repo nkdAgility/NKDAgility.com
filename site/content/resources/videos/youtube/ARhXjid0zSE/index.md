@@ -5,6 +5,7 @@ date: 2023-11-08T06:45:00Z
 videoId: ARhXjid0zSE
 url: /resources/videos/:slug
 slug: 7-signs-of-the-agile-apocalypse-famine
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=ARhXjid0zSE
 aliases:
 - /resources/videos/ARhXjid0zSE
@@ -41,9 +42,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube ARhXjid0zSE >}} 
  #shorts #shortsvideo #shortvideo #agile loves abundance. An abundance of ideas, creativity, and collaboration. That said, sometimes you experience #famine and in this short video, Martin Hinshelwood explains what that looks like and why it's a sign of impending doom.
 
 About NKD Agility

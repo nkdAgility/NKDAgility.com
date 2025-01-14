@@ -6,6 +6,7 @@ videoId: YuKD3WWFJNQ
 source: internal
 url: /resources/videos/:slug
 slug: 7-harbingers-of-the-agile-apocalypse-silence
+layout: video
 preview: https://i.ytimg.com/vi/YuKD3WWFJNQ/maxresdefault.jpg
 duration: 436
 isShort: false

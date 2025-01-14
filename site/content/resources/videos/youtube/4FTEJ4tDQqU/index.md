@@ -23,9 +23,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+layout: video
+resourceTypes:
+- video
 
 ---
-{{< youtube 4FTEJ4tDQqU >}} 
  Agile's Journey: A Developer's Transition from Traditional to Agile Practices - Explore a developer's insightful journey from traditional project management to the empowering world of Agile and DevOps. Discover the transformative power of people over tools in this eye-opening video.
 
 *Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility

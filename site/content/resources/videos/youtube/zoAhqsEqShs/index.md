@@ -6,6 +6,7 @@ videoId: zoAhqsEqShs
 source: internal
 url: /resources/videos/:slug
 slug: what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant
+layout: video
 preview: https://i.ytimg.com/vi/zoAhqsEqShs/maxresdefault.jpg
 duration: 558
 isShort: false

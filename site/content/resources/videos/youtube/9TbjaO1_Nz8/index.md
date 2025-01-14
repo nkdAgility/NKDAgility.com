@@ -5,6 +5,7 @@ date: 2023-05-16T14:00:07Z
 videoId: 9TbjaO1_Nz8
 url: /resources/videos/:slug
 slug: would-you-recommend-the-pspo-course-to-an-entrepreneur-and-why-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=9TbjaO1_Nz8
 aliases:
 - /resources/videos/9TbjaO1_Nz8
@@ -25,9 +26,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube 9TbjaO1_Nz8 >}} 
  The #PSPO or #ProfessionalScrumProductOwner course from #scrumorg has an intense focus on value creation, and how to effectively manage and grow a product in a way that delights customers and disrupts competitors.
 
 In this short video, Martin Hinshelwood explains how the PSPO course from scrum.org helps focus attention on all the elements an entrepreneur should be focused on when building a product or business.

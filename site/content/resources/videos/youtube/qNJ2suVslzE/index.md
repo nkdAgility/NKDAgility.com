@@ -6,6 +6,7 @@ videoId: qNJ2suVslzE
 source: youtube
 url: /resources/videos/:slug
 slug: taming-scope-creep-with-agile
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=qNJ2suVslzE
 aliases:
 - /resources/videos/qNJ2suVslzE
@@ -32,9 +33,10 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube qNJ2suVslzE >}} 
  Overcoming Scope Creep: Focus on Value, Not Fixed Scope | Martin Hinshelwood
 
 👋 Hi, I’m Martin Hinshelwood from NKD Agility, and in this video, I address a common challenge in project and product management: scope creep. The problem often lies in using outdated practices designed for low-variance environments, where the plan is predictable. I’ll show you how shifting to an Agile mindset and focusing on value delivery—rather than rigid scope and deadlines—can help you adapt to change and stay on track.

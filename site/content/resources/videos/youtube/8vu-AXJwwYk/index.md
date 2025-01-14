@@ -5,6 +5,7 @@ date: 2023-01-24T07:30:02Z
 videoId: 8vu-AXJwwYk
 url: /resources/videos/:slug
 slug: how-much-of-an-impact-can-a-great-agile-consultant-have-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=8vu-AXJwwYk
 aliases:
 - /resources/videos/8vu-AXJwwYk
@@ -24,9 +25,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube 8vu-AXJwwYk >}} 
  In 2001, a group of brilliant #softwareengineers came together to define and articulate a new style of #productdevelopment based on their collective knowledge, experience, and experimentation with #agileframeworks.
 
 It was a revolutionary new approach to #productdevelopment and #projectmanagement (for lack of a better word) that empowered teams to navigate complexity, uncertainty, volatility, and ambiguity.

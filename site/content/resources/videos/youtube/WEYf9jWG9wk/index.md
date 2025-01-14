@@ -5,6 +5,7 @@ date: 2024-11-20T08:02:36Z
 videoId: WEYf9jWG9wk
 url: /resources/videos/:slug
 slug: unleash-your-team's-full-potential
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=WEYf9jWG9wk
 aliases:
 - /resources/videos/WEYf9jWG9wk
@@ -29,8 +30,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube WEYf9jWG9wk >}} 
  Quality Code: Achieving Engineering Excellence with NKD Agility. Visit https://www.nkdagility.com #agile #agileproductdevelopment #agileproductmanagement #agileprojectmanagement #productdevelopment #productmanagement #projectmanagement #projectmanager #productowner #scrummaster 
  [Watch on Youtube](https://www.youtube.com/watch?v=WEYf9jWG9wk)

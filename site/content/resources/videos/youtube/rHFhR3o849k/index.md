@@ -5,6 +5,7 @@ date: 2023-03-13T07:00:19Z
 videoId: rHFhR3o849k
 url: /resources/videos/:slug
 slug: what-makes-a-truly-great-scrum-master-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=rHFhR3o849k
 aliases:
 - /resources/videos/rHFhR3o849k
@@ -23,9 +24,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube rHFhR3o849k >}} 
  There is a significant difference between a #projectmanager and a #scrummaster, and it's often hard for people to understand how a scrum master operates through influence, coaching, and mentoring rather than leveraging the authority and power of a traditional #projectmanager.
 
 #agile is significantly different to #projectmanagement and so a whole different set of skills is required, but you still need to cover all the bases that a traditional #projectmanager would focus on via the #scrumteam.

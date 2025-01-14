@@ -18,8 +18,10 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+layout: video
+resourceTypes:
+- video
 
 ---
-{{< youtube 3E_NKzHDvig >}} 
   
  [Watch on Youtube](https://www.youtube.com/watch?v=3E_NKzHDvig)

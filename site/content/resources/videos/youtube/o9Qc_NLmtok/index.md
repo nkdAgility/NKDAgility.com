@@ -6,6 +6,7 @@ videoId: o9Qc_NLmtok
 source: internal
 url: /resources/videos/:slug
 slug: 8-week-immersive-learning-course-in-60-seconds
+layout: video
 preview: https://i.ytimg.com/vi/o9Qc_NLmtok/maxresdefault.jpg
 duration: 50
 isShort: true

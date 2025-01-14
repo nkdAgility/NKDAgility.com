@@ -6,6 +6,7 @@ videoId: qRHzl4PieKA
 source: internal
 url: /resources/videos/:slug
 slug: are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile
+layout: video
 preview: https://i.ytimg.com/vi/qRHzl4PieKA/maxresdefault.jpg
 duration: 59
 isShort: true

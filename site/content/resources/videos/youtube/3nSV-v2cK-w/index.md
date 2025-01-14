@@ -27,9 +27,11 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+layout: video
+resourceTypes:
+- video
 
 ---
-{{< youtube 3nSV-v2cK-w >}} 
  If you're comparing the 2-day Professional Scrum Master course with the 7-week immersive learning experience, Kanban Dan has some great insights into some additional benefits you can pick up from the immersive learning experience. 
 
 Register for the 6 September 2023 PSM course on https://nkdagility.com/training-courses/scrum-training-courses/professional-scrum-master-psm-with-certification/

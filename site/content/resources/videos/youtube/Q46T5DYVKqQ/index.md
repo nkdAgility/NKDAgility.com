@@ -5,6 +5,7 @@ date: 2023-08-17T07:00:09Z
 videoId: Q46T5DYVKqQ
 url: /resources/videos/:slug
 slug: what-is-empiricism
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=Q46T5DYVKqQ
 aliases:
 - /resources/videos/Q46T5DYVKqQ
@@ -27,9 +28,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube Q46T5DYVKqQ >}} 
  #shorts #shortsvideo #shortvideo #scrum is built on the foundation of #empiricism to help a #scrumteam learn and respond as they navigate complexity. In this short video, Martin Hinshelwood explains what #empircism is
 
 About NKD Agility

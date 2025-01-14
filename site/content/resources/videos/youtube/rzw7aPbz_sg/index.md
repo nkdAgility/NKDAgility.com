@@ -6,6 +6,7 @@ videoId: rzw7aPbz_sg
 source: youtube
 url: /resources/videos/:slug
 slug: pal-class-of-23-july-2020-for-everyone-in-est
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=rzw7aPbz_sg
 aliases:
@@ -18,9 +19,10 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube rzw7aPbz_sg >}} 
  This Professional Agile Leadership workshop is open to the public and delivered over 2 full days from  23 – 24 July 2020 at:
 
 -0600-1400 PST

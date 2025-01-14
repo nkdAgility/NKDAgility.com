@@ -5,6 +5,7 @@ date: 2024-01-09T07:00:05Z
 videoId: BtHASX2lgGo
 url: /resources/videos/:slug
 slug: 5-kinds-of-agile-bandits-planning-bandits
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=BtHASX2lgGo
 aliases:
 - /resources/videos/BtHASX2lgGo
@@ -41,9 +42,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube BtHASX2lgGo >}} 
  The Agile Illusion: Unmasking the Burndown Trap in Sprint Planning - Discover why traditional burndown charts might be misleading your Agile process. Join us as we explore more effective ways to plan and execute sprints. 
 
 Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility

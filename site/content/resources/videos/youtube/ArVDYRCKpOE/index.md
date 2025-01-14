@@ -6,6 +6,7 @@ videoId: ArVDYRCKpOE
 source: internal
 url: /resources/videos/:slug
 slug: quotes-fake-it-until-you-make-it
+layout: video
 preview: https://i.ytimg.com/vi/ArVDYRCKpOE/maxresdefault.jpg
 duration: 64
 isShort: false

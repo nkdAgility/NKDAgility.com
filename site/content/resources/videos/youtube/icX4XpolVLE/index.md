@@ -5,6 +5,7 @@ date: 2024-04-04T11:34:59Z
 videoId: icX4XpolVLE
 url: /resources/videos/:slug
 slug: my-journey-into-devops!-from-web-developer-to-author,-speaker,-&-thought-leader-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=icX4XpolVLE
 aliases:
 - /resources/videos/icX4XpolVLE
@@ -23,9 +24,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube icX4XpolVLE >}} 
  🚀 Transform Your Workflow with DevOps: A Comprehensive Guide 🚀
 
 🎯 Why Watch This Video?

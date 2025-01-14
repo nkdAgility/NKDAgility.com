@@ -5,6 +5,7 @@ date: 2021-10-22T10:52:48Z
 videoId: fayDa6ihe0g
 url: /resources/videos/:slug
 slug: live-virtual-professional-scrum-product-owner-in-5-minutes!
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=fayDa6ihe0g
 aliases:
 - /resources/videos/fayDa6ihe0g
@@ -18,8 +19,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube fayDa6ihe0g >}} 
  What is our training all about? Maybe this timelapse overview of the full four half-days of training will help you. If not, check out our free live-streamed workshops on our channel. 
  [Watch on Youtube](https://www.youtube.com/watch?v=fayDa6ihe0g)

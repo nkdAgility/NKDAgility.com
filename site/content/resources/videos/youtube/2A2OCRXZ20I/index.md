@@ -18,9 +18,11 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+layout: video
+resourceTypes:
+- video
 
 ---
-{{< youtube 2A2OCRXZ20I >}} 
  This is a live interactive workshop where we will dive into the Daily Scrum, why it's there, and how to run one.
 
 Join: https://community.nkdagility.com/events/free-workshop-09-how-to-run-a-daily-scrum?instance_index=20211125T173000Z 

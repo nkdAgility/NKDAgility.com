@@ -5,6 +5,7 @@ date: 2024-09-20T11:04:29Z
 videoId: Bi4ToMME8Xs
 url: /resources/videos/:slug
 slug: advanced-psm-ii-immersive-learning-classes
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=Bi4ToMME8Xs
 aliases:
 - /resources/videos/Bi4ToMME8Xs
@@ -24,8 +25,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube Bi4ToMME8Xs >}} 
  If your organization KNOW that you should be getting better outcomes from their #scrummaster now is a great time to invest in a private Advanced Professional Scrum Master immersive learning experience. Visit https://www.nkdagility.com to explore how we can help you. #agile #scrum 
  [Watch on Youtube](https://www.youtube.com/watch?v=Bi4ToMME8Xs)

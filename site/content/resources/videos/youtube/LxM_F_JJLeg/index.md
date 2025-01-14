@@ -5,6 +5,7 @@ date: 2023-09-29T07:00:14Z
 videoId: LxM_F_JJLeg
 url: /resources/videos/:slug
 slug: don’t-put-down-to-malevolence-what-can-be-explained-by-incompetence
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=LxM_F_JJLeg
 aliases:
 - /resources/videos/LxM_F_JJLeg
@@ -25,9 +26,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube LxM_F_JJLeg >}} 
  *Don't Let Incompetence Mask as Malevolence*
 
 We often mistake incompetence for malevolence in our agile journeys. Dive deep into how the system's incompetence can overshadow our efforts. 🚀 #productvision #agile #scrumtraining #scrumorg

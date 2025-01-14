@@ -5,6 +5,7 @@ date: 2023-04-07T07:00:20Z
 videoId: vWfebO_pwIU
 url: /resources/videos/:slug
 slug: why-most-scrum-masters-only-have-psmi!
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=vWfebO_pwIU
 aliases:
 - /resources/videos/vWfebO_pwIU
@@ -27,9 +28,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube vWfebO_pwIU >}} 
  *Why do so few scrum masters progress to the PSM II and PSM III certifications?*
 Discover why many Scrum Masters don't pursue advanced certifications like PSM2 or PSM3. Dive into the motivations and passion behind true mastery in Scrum. 📜🔍
 

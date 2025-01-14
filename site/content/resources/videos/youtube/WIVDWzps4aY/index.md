@@ -5,6 +5,7 @@ date: 2023-09-05T07:00:12Z
 videoId: WIVDWzps4aY
 url: /resources/videos/:slug
 slug: favourite-scrum-course-to-teach-and-why-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=WIVDWzps4aY
 aliases:
 - /resources/videos/WIVDWzps4aY
@@ -26,9 +27,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube WIVDWzps4aY >}} 
  #shorts #shortsvideo #shortvideo Martin Hinshelwood talks about his favourite #scrumcourse to teach, and why that #scrumtraining resonates so much.
 
 About NKD Agility

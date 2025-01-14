@@ -6,6 +6,7 @@ videoId: b3HFBlCcomk
 source: internal
 url: /resources/videos/:slug
 slug: the-fallacy-of-equating-agility-with-speed-what-agile-really-means
+layout: video
 preview: https://i.ytimg.com/vi/b3HFBlCcomk/maxresdefault.jpg
 duration: 494
 isShort: false

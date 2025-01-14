@@ -5,6 +5,7 @@ date: 2022-10-12T17:08:59Z
 videoId: rnyJzSwU74Q
 url: /resources/videos/:slug
 slug: traditional-vs-empirical!-whats-the-difference-agile-faces-off-agianst-waterfall!
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=rnyJzSwU74Q
 aliases:
 - /resources/videos/rnyJzSwU74Q
@@ -18,9 +19,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube rnyJzSwU74Q >}} 
  Discover how agile practices can significantly enhance project success rates. Dive deep into the empirical model's advantages, including increased visibility, adaptability, reduced risk, and continuous value delivery.
 
 Enjoy this video? 🔔 Like and subscribe to our channel: https://www.youtube.com/@nakedAgility

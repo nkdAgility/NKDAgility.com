@@ -5,6 +5,7 @@ date: 2020-07-22T10:08:06Z
 videoId: p9OhFJ5Ojy4
 url: /resources/videos/:slug
 slug: agile-in-nigeria-2020-the-inevitability-of-change
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=p9OhFJ5Ojy4
 aliases:
 - /resources/videos/p9OhFJ5Ojy4
@@ -24,9 +25,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube p9OhFJ5Ojy4 >}} 
  There is no such thing as an Agile Transformation, Digital Transformation, DevOps Transformation, or any of the Whatever Transformation that you can think of or have been sold. You can’t buy agility, and you certainly can’t install it. There is no end state, no optimal outcome, No best practices. We are no longer factory workers.
 
 Instead, you have to grow, nurture, and prune agility as it grows organically inside your organization and eventually, you too will be able to take advantage of business opportunities as they arise in the ever-changing marketplace. This is continuous change…

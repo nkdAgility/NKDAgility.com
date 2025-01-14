@@ -5,6 +5,7 @@ date: 2023-10-20T16:01:48Z
 videoId: uCFIW_lEFuc
 url: /resources/videos/:slug
 slug: sloth!-7-deadly-sins-of-agile-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=uCFIW_lEFuc
 aliases:
 - /resources/videos/uCFIW_lEFuc
@@ -26,9 +27,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube uCFIW_lEFuc >}} 
  Navigating the Sin of Sloth in Agile
 
 Sloth, one of the seven deadly sins of Agile, can manifest in various ways across teams, organisations, and leadership. In this video, Martin 🎥 delves deep into the pitfalls of not genuinely committing to Agile principles, even when we claim to be following them. 

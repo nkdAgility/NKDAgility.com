@@ -5,6 +5,7 @@ date: 2023-07-13T12:06:17Z
 videoId: OWvCS3xb7pQ
 url: /resources/videos/:slug
 slug: what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=OWvCS3xb7pQ
 aliases:
 - /resources/videos/OWvCS3xb7pQ
@@ -30,9 +31,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube OWvCS3xb7pQ >}} 
  The Professional Agile Leadership - Essentials (PAL-E) course from Scrum.Org has just gone immersive! From the traditional 2-day workshop format, we've now got a 7-week journey that empowers you to learn, apply, adapt and evolve more effectively.
 
 In this short video, Joanna Plaskonka - Professional Scrum Trainer and PAL-E course leader - walks us through some of the reasons why she is so excited to be delivering this class.

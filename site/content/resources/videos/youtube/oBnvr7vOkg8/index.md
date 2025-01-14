@@ -6,6 +6,7 @@ videoId: oBnvr7vOkg8
 source: internal
 url: /resources/videos/:slug
 slug: how-does-someone-become-an-agile-consultant
+layout: video
 preview: https://i.ytimg.com/vi/oBnvr7vOkg8/maxresdefault.jpg
 duration: 400
 isShort: false

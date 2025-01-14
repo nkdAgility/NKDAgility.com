@@ -6,6 +6,7 @@ videoId: Tye_-FY7boo
 source: internal
 url: /resources/videos/:slug
 slug: vision-value-and-validation-the-keys-to-successful-product-management
+layout: video
 preview: https://i.ytimg.com/vi/Tye_-FY7boo/maxresdefault.jpg
 duration: 293
 isShort: false

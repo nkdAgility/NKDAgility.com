@@ -5,6 +5,7 @@ date: 2023-08-10T13:30:01Z
 videoId: aWYoJtSgTDo
 url: /resources/videos/:slug
 slug: the-importance-of-knowing-the-territory-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=aWYoJtSgTDo
 aliases:
 - /resources/videos/aWYoJtSgTDo
@@ -32,9 +33,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube aWYoJtSgTDo >}} 
  #agileleadership is about sensing opportunities, responding to threats, and making valuable decisions even when you don't have all the information you need.
 
 Joanna Plaskonka - #professionalscrumtrainer and #agile expert - talks us through the similarities of navigating new territories and what she has learned through one of her favourite hobbies, mushroom foraging.

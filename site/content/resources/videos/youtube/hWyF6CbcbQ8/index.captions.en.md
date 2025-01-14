@@ -1,0 +1,7 @@
+Here's what you need to know about data integrity and your DevOps migrations. You can't have everything depending on what it is you want to do. So there's a balance to be had between the fidelity of the data that you're migrating and the flexibility that you want as part of your migration process.
+
+As your DevOps on-prem was TFS, it has a database-based architecture. Right? So you have a whole database of data. If you're taking that whole database, the collection in TFS and Azure DevOps, if you're taking that up to Azure DevOps services in the cloud, as one thing, the whole thing, we're taking it together, then we have the highest fidelity possible. Right? We're effectively taking the entire database up with everything in it, in exactly the same format that it is just now.
+
+But for many organisations, that's not what they want to do. They have a couple of teams that want to go, or they have some teams that are able to go and other teams that aren't. So part of that migration process, we've built a bunch of tools that allow you to selectively slice out the data that you want to take. But it does mean lower fidelity because we're effectively replaying the story of the data against the new environment. Right? So we're not importing the database; we're replaying what happened with the data, and that means that there is a little bit of data loss. Things don't always go perfectly.
+
+But within that context of taking your choice of data, pick and mix from one place to another, it is the most flexible approach you can have.

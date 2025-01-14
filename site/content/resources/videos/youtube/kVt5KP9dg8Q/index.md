@@ -6,6 +6,7 @@ videoId: kVt5KP9dg8Q
 source: internal
 url: /resources/videos/:slug
 slug: detecting-agile-bs-lessons-from-the-department-of-defense
+layout: video
 preview: https://i.ytimg.com/vi/kVt5KP9dg8Q/maxresdefault.jpg
 duration: 346
 isShort: false

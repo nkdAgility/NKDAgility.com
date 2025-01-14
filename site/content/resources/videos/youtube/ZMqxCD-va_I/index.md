@@ -6,6 +6,7 @@ videoId: ZMqxCD-va_I
 source: youtube
 url: /resources/videos/:slug
 slug: nkdagility-mighty-networks-overview-for-pst
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=ZMqxCD-va_I
 aliases:
@@ -18,8 +19,9 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube ZMqxCD-va_I >}} 
  nkdagility mighty networks overview for PST 
  [Watch on Youtube](https://www.youtube.com/watch?v=ZMqxCD-va_I)

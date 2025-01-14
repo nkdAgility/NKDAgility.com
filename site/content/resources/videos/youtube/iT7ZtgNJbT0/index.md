@@ -6,6 +6,7 @@ videoId: iT7ZtgNJbT0
 source: internal
 url: /resources/videos/:slug
 slug: what-was-your-best-day-as-an-agile-consultant
+layout: video
 preview: https://i.ytimg.com/vi/iT7ZtgNJbT0/maxresdefault.jpg
 duration: 174
 isShort: false

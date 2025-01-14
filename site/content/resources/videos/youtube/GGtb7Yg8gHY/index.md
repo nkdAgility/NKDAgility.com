@@ -5,6 +5,7 @@ date: 2023-11-07T11:30:07Z
 videoId: GGtb7Yg8gHY
 url: /resources/videos/:slug
 slug: 7-signs-of-the-agile-apocalypse-war
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=GGtb7Yg8gHY
 aliases:
 - /resources/videos/GGtb7Yg8gHY
@@ -41,9 +42,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube GGtb7Yg8gHY >}} 
  #shorts #shortsvideo #shortvideo War is a terrible sign that your #agiletransformation is headed for disaster. #agile thrives on collaboration, a shared sense of purpose, and teamwork. In this short video, Martin Hinshelwood describes what war looks like,  in the context of #agile, and why it's a sign of impending disaster
 
 About NKD AGility

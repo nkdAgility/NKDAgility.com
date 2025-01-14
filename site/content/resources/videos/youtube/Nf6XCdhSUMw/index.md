@@ -5,6 +5,7 @@ date: 2024-08-14T07:12:45Z
 videoId: Nf6XCdhSUMw
 url: /resources/videos/:slug
 slug: introduction-to-evidence-based-management
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=Nf6XCdhSUMw
 aliases:
 - /resources/videos/Nf6XCdhSUMw
@@ -21,8 +22,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube Nf6XCdhSUMw >}} 
  An introduction to Evidence Based Management. Visit https://www.nkdagility.com #agile #scrum #ebm #evidencebasedmanagement #evidencebasedleadership #agileprojectmanagement #agileproductdevelopment 
  [Watch on Youtube](https://www.youtube.com/watch?v=Nf6XCdhSUMw)

@@ -6,6 +6,7 @@ videoId: r2G-NrSIj2k
 source: internal
 url: /resources/videos/:slug
 slug: code-reviews-for-quality-assurance
+layout: video
 aliases:
 - /resources/videos/r2G-NrSIj2k
 - /resources/videos/code-reviews-for-quality-assurance
@@ -31,6 +32,8 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+resourceTypes:
+- video
 
 ---
 {{< youtube r2G-NrSIj2k >}}

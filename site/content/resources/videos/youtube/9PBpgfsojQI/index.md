@@ -6,6 +6,7 @@ videoId: 9PBpgfsojQI
 source: internal
 url: /resources/videos/:slug
 slug: 2023-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve
+layout: video
 preview: https://i.ytimg.com/vi/9PBpgfsojQI/maxresdefault.jpg
 duration: 288
 isShort: false

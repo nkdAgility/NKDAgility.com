@@ -5,6 +5,7 @@ date: 2023-12-04T11:00:23Z
 videoId: OMlLiLkCmMY
 url: /resources/videos/:slug
 slug: -shorts-7-virtues-of-agile-chastity
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=OMlLiLkCmMY
 aliases:
 - /resources/videos/OMlLiLkCmMY
@@ -41,9 +42,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube OMlLiLkCmMY >}} 
  #shorts #shortsvideo #shortvideo 7 virtues of #agile, presented by Martin Hinshelwood. First virtue, #chastity. Visit https://www.nkdagility.com
 
 Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 

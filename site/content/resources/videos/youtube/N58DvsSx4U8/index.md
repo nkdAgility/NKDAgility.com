@@ -6,6 +6,7 @@ videoId: N58DvsSx4U8
 source: internal
 url: /resources/videos/:slug
 slug: what-is-your-favourite-devops-consulting-outcome
+layout: video
 preview: https://i.ytimg.com/vi/N58DvsSx4U8/maxresdefault.jpg
 duration: 497
 isShort: false

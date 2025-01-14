@@ -1,0 +1,937 @@
+1
+00:00:00,240 --> 00:00:06,680
+so one of one of the key practices that
+
+2
+00:00:03,719 --> 00:00:09,840
+I think is hugely valuable for for
+
+3
+00:00:06,680 --> 00:00:11,679
+organizations if they're moving towards
+
+4
+00:00:09,840 --> 00:00:13,040
+that more frequent delivery if they're
+
+5
+00:00:11,679 --> 00:00:14,719
+starting to get things in front of
+
+6
+00:00:13,040 --> 00:00:16,600
+customers as quickly as possible Right
+
+7
+00:00:14,719 --> 00:00:18,640
+you want to if you want to be able to do
+
+8
+00:00:16,600 --> 00:00:21,920
+be doing continuous
+
+9
+00:00:18,640 --> 00:00:25,039
+delivery you're going to
+
+10
+00:00:21,920 --> 00:00:27,359
+accept that you're going to be deploying
+
+11
+00:00:25,039 --> 00:00:30,279
+features new features to
+
+12
+00:00:27,359 --> 00:00:31,640
+production that you're not you're not
+
+13
+00:00:30,279 --> 00:00:33,120
+you're might be the product manager or
+
+14
+00:00:31,640 --> 00:00:37,239
+you might be the developers that you're
+
+15
+00:00:33,120 --> 00:00:39,600
+not ready for customers to use yet right
+
+16
+00:00:37,239 --> 00:00:42,000
+you might need you might have a feature
+
+17
+00:00:39,600 --> 00:00:44,600
+that takes multiple deployments to get
+
+18
+00:00:42,000 --> 00:00:48,199
+to the point where you're happy to be
+
+19
+00:00:44,600 --> 00:00:51,800
+able to to to have more more have it in
+
+20
+00:00:48,199 --> 00:00:54,000
+production right even if it's the end of
+
+21
+00:00:51,800 --> 00:00:57,480
+the feature is much further down the
+
+22
+00:00:54,000 --> 00:01:00,760
+line you've got 10% you want to do
+
+23
+00:00:57,480 --> 00:01:02,760
+before um you want
+
+24
+00:01:00,760 --> 00:01:04,479
+the majority of users to be accessing it
+
+25
+00:01:02,760 --> 00:01:07,680
+but you're going to be delivering 1% at
+
+26
+00:01:04,479 --> 00:01:11,439
+a time right just as a as a random
+
+27
+00:01:07,680 --> 00:01:14,439
+example a great example of uh
+
+28
+00:01:11,439 --> 00:01:17,439
+this again the Azure devops team do a
+
+29
+00:01:14,439 --> 00:01:21,320
+great job of this you can go open up
+
+30
+00:01:17,439 --> 00:01:22,479
+dev. your.com and when you're logged in
+
+31
+00:01:21,320 --> 00:01:24,600
+you'll see that there's a button in the
+
+32
+00:01:22,479 --> 00:01:27,079
+top right with a a picture of you or a
+
+33
+00:01:24,600 --> 00:01:29,000
+blank but picture of you you click on
+
+34
+00:01:27,079 --> 00:01:30,680
+that and it'll have a preview features
+
+35
+00:01:29,000 --> 00:01:33,320
+option and when when you click that it
+
+36
+00:01:30,680 --> 00:01:36,640
+will list all of the feature flags that
+
+37
+00:01:33,320 --> 00:01:38,479
+are available okay so what what they
+
+38
+00:01:36,640 --> 00:01:43,200
+effectively
+
+39
+00:01:38,479 --> 00:01:47,280
+do is they they write all of if they're
+
+40
+00:01:43,200 --> 00:01:49,119
+writing an update to an existing feature
+
+41
+00:01:47,280 --> 00:01:52,320
+that's in production it's just going to
+
+42
+00:01:49,119 --> 00:01:54,000
+go unless they're replacing a whole
+
+43
+00:01:52,320 --> 00:01:55,759
+feature like they did recently with as
+
+44
+00:01:54,000 --> 00:01:57,759
+your boards they had old boards and new
+
+45
+00:01:55,759 --> 00:01:59,280
+boards they wanted they were doing a big
+
+46
+00:01:57,759 --> 00:02:00,399
+update and they had a feature flag for
+
+47
+00:01:59,280 --> 00:02:03,159
+that right
+
+48
+00:02:00,399 --> 00:02:06,000
+typically if you're adding functionality
+
+49
+00:02:03,159 --> 00:02:07,600
+to an existing feature you're probably
+
+50
+00:02:06,000 --> 00:02:10,080
+just shipping it right because it's a
+
+51
+00:02:07,600 --> 00:02:12,360
+smaller change but if you're adding a
+
+52
+00:02:10,080 --> 00:02:14,200
+net new functionality to your product a
+
+53
+00:02:12,360 --> 00:02:16,560
+new feature a new capability a new
+
+54
+00:02:14,200 --> 00:02:19,200
+different thing then they hide it behind
+
+55
+00:02:16,560 --> 00:02:21,760
+a feature flag feature Flags the feature
+
+56
+00:02:19,200 --> 00:02:24,200
+flag would then be turned on in their
+
+57
+00:02:21,760 --> 00:02:25,519
+environment they have a the developers
+
+58
+00:02:24,200 --> 00:02:28,640
+themselves environment in their
+
+59
+00:02:25,519 --> 00:02:30,400
+environment for testing would be for
+
+60
+00:02:28,640 --> 00:02:32,599
+their once they're happy with their
+
+61
+00:02:30,400 --> 00:02:34,480
+testing they're going to turn it on for
+
+62
+00:02:32,599 --> 00:02:35,920
+the product group right so the
+
+63
+00:02:34,480 --> 00:02:38,319
+environment that they're working in
+
+64
+00:02:35,920 --> 00:02:39,800
+their account has that new feature and
+
+65
+00:02:38,319 --> 00:02:42,400
+they're going to be looking at the
+
+66
+00:02:39,800 --> 00:02:44,040
+Telemetry the developers that built the
+
+67
+00:02:42,400 --> 00:02:48,080
+feature are going to be looking at the
+
+68
+00:02:44,040 --> 00:02:50,519
+Telemetry so it's off for 99% of all the
+
+69
+00:02:48,080 --> 00:02:53,959
+users in the system it's on Just for
+
+70
+00:02:50,519 --> 00:02:55,760
+their own engineering team and then
+
+71
+00:02:53,959 --> 00:02:57,680
+they're looking at the Telemetry is this
+
+72
+00:02:55,760 --> 00:03:00,000
+performing is it doing the right thing
+
+73
+00:02:57,680 --> 00:03:02,280
+is it causing a lot of exceptions
+
+74
+00:03:00,000 --> 00:03:05,519
+they're looking at all of that data once
+
+75
+00:03:02,280 --> 00:03:08,280
+they're happy that that's uh good they
+
+76
+00:03:05,519 --> 00:03:11,159
+maybe open that up to everybody within
+
+77
+00:03:08,280 --> 00:03:13,360
+within Microsoft that's opted in to to
+
+78
+00:03:11,159 --> 00:03:14,799
+to see those things so then everybody
+
+79
+00:03:13,360 --> 00:03:16,560
+inside of Microsoft can turn on that
+
+80
+00:03:14,799 --> 00:03:18,599
+feature and can turn off that feature
+
+81
+00:03:16,560 --> 00:03:20,959
+the feature flag's visible if you turn
+
+82
+00:03:18,599 --> 00:03:22,400
+off a feature flag it asks you why
+
+83
+00:03:20,959 --> 00:03:27,159
+you're turning it off and if it's okay
+
+84
+00:03:22,400 --> 00:03:30,040
+to contact you very prudent I always
+
+85
+00:03:27,159 --> 00:03:33,200
+give a message and I always tick the Box
+
+86
+00:03:30,040 --> 00:03:35,200
+to say it's okay to contact me and I do
+
+87
+00:03:33,200 --> 00:03:36,680
+get contact from those teams because
+
+88
+00:03:35,200 --> 00:03:38,879
+they're interested in like why are you
+
+89
+00:03:36,680 --> 00:03:40,319
+turning it off oh you've said why it is
+
+90
+00:03:38,879 --> 00:03:42,040
+but I don't quite understand what you
+
+91
+00:03:40,319 --> 00:03:43,159
+mean and then they'll contact you and
+
+92
+00:03:42,040 --> 00:03:45,640
+try and figure it
+
+93
+00:03:43,159 --> 00:03:48,200
+out what's missing right what's missing
+
+94
+00:03:45,640 --> 00:03:51,879
+that you need is there a expectations
+
+95
+00:03:48,200 --> 00:03:54,640
+Gap is there a it's bad right it's not
+
+96
+00:03:51,879 --> 00:03:56,799
+what I need is it causing errors and
+
+97
+00:03:54,640 --> 00:03:58,560
+Performing badly on my machine right
+
+98
+00:03:56,799 --> 00:04:01,040
+those are all could be reasons why I
+
+99
+00:03:58,560 --> 00:04:03,319
+want to turn it off but at some point
+
+100
+00:04:01,040 --> 00:04:06,040
+they're going to want to open it out to
+
+101
+00:04:03,319 --> 00:04:09,519
+a wider audience more people in the
+
+102
+00:04:06,040 --> 00:04:13,280
+world so what they typically do is they
+
+103
+00:04:09,519 --> 00:04:16,160
+publish a blog post on their their team
+
+104
+00:04:13,280 --> 00:04:18,680
+aure devops blog that says here's a new
+
+105
+00:04:16,160 --> 00:04:21,160
+feature we're working on we're looking
+
+106
+00:04:18,680 --> 00:04:23,440
+for people to help us kick the tires and
+
+107
+00:04:21,160 --> 00:04:25,800
+kick the tires is just a euphemism for
+
+108
+00:04:23,440 --> 00:04:28,320
+try it out and see see if it
+
+109
+00:04:25,800 --> 00:04:30,039
+works and they give an email address for
+
+110
+00:04:28,320 --> 00:04:31,680
+you to email with your account account
+
+111
+00:04:30,039 --> 00:04:33,120
+and they'll enable it for your account
+
+112
+00:04:31,680 --> 00:04:34,960
+then on your account you'll get that
+
+113
+00:04:33,120 --> 00:04:37,840
+feature flag and you can it will be off
+
+114
+00:04:34,960 --> 00:04:39,199
+by default and you can go turn it on
+
+115
+00:04:37,840 --> 00:04:40,960
+again they're looking for people turning
+
+116
+00:04:39,199 --> 00:04:43,440
+it off and feedback they're looking for
+
+117
+00:04:40,960 --> 00:04:45,720
+Telemetry of people leaving it on is it
+
+118
+00:04:43,440 --> 00:04:49,400
+performing well that's their private
+
+119
+00:04:45,720 --> 00:04:51,520
+preview so you have to explicitly opt in
+
+120
+00:04:49,400 --> 00:04:53,800
+to that capability and that means that
+
+121
+00:04:51,520 --> 00:04:55,160
+you're limiting your audience right they
+
+122
+00:04:53,800 --> 00:04:56,680
+they'll they have an idea they'll be
+
+123
+00:04:55,160 --> 00:04:58,240
+able to look across all of the times
+
+124
+00:04:56,680 --> 00:05:00,440
+they've done this and have an idea how
+
+125
+00:04:58,240 --> 00:05:02,520
+many people they're going to get
+
+126
+00:05:00,440 --> 00:05:04,280
+with that number of people they're then
+
+127
+00:05:02,520 --> 00:05:06,680
+monitoring the Telemetry and looking at
+
+128
+00:05:04,280 --> 00:05:07,800
+do we have enough people using it is it
+
+129
+00:05:06,680 --> 00:05:09,520
+because they might have to do another
+
+130
+00:05:07,800 --> 00:05:11,479
+blog post right or another way to get
+
+131
+00:05:09,520 --> 00:05:14,000
+people in and do we have enough people
+
+132
+00:05:11,479 --> 00:05:16,840
+using it do does the Telemetry look good
+
+133
+00:05:14,000 --> 00:05:19,800
+is this viable for the next stage so the
+
+134
+00:05:16,840 --> 00:05:22,560
+next stage after that might be a public
+
+135
+00:05:19,800 --> 00:05:25,400
+preview and a public preview is that
+
+136
+00:05:22,560 --> 00:05:28,479
+switch that feature flag then becomes
+
+137
+00:05:25,400 --> 00:05:30,680
+visible to everybody on the service and
+
+138
+00:05:28,479 --> 00:05:32,680
+they put it out in a blog post saying
+
+139
+00:05:30,680 --> 00:05:35,000
+this is now available to everybody we'd
+
+140
+00:05:32,680 --> 00:05:36,759
+like you to try and kick the tires so
+
+141
+00:05:35,000 --> 00:05:39,039
+people that want to then go switch it on
+
+142
+00:05:36,759 --> 00:05:40,840
+it's now easy they don't have to email
+
+143
+00:05:39,039 --> 00:05:42,840
+it's just there they can go turn it on
+
+144
+00:05:40,840 --> 00:05:44,600
+and see what it's like some people just
+
+145
+00:05:42,840 --> 00:05:47,720
+Discover It other people they're reading
+
+146
+00:05:44,600 --> 00:05:49,440
+the blogs and and they find it and again
+
+147
+00:05:47,720 --> 00:05:51,319
+they're looking at Telemetry do we have
+
+148
+00:05:49,440 --> 00:05:53,960
+enough people using it do we need to
+
+149
+00:05:51,319 --> 00:05:56,840
+promote it again do users care do they
+
+150
+00:05:53,960 --> 00:05:59,120
+use this feature is it performing well
+
+151
+00:05:56,840 --> 00:06:00,199
+all of that type of data they're looking
+
+152
+00:05:59,120 --> 00:06:02,120
+at on whether whether they need to
+
+153
+00:06:00,199 --> 00:06:04,080
+invest more in that feature whether
+
+154
+00:06:02,120 --> 00:06:07,400
+anybody cares about that feature whether
+
+155
+00:06:04,080 --> 00:06:08,759
+they just need to stop right or so it's
+
+156
+00:06:07,400 --> 00:06:13,680
+it's
+
+157
+00:06:08,759 --> 00:06:16,759
+pivot H uh anti up or call right that's
+
+158
+00:06:13,680 --> 00:06:18,919
+your your the poker analogy right you're
+
+159
+00:06:16,759 --> 00:06:22,000
+you're is this feature
+
+160
+00:06:18,919 --> 00:06:25,680
+viable if they get enough Telemetry and
+
+161
+00:06:22,000 --> 00:06:29,039
+everything looks good the next stage is
+
+162
+00:06:25,680 --> 00:06:30,759
+they turn on the feature for everybody
+
+163
+00:06:29,039 --> 00:06:33,599
+on the server but they leave that
+
+164
+00:06:30,759 --> 00:06:35,479
+feature flag to be able to turn it off
+
+165
+00:06:33,599 --> 00:06:37,080
+so they're interested in that feedback
+
+166
+00:06:35,479 --> 00:06:38,960
+who's turning it off why are they
+
+167
+00:06:37,080 --> 00:06:40,759
+turning it off can we have a chat with
+
+168
+00:06:38,960 --> 00:06:42,680
+them and find out what's missing what do
+
+169
+00:06:40,759 --> 00:06:44,960
+they need right you're engaging with
+
+170
+00:06:42,680 --> 00:06:47,240
+your customers this is the development
+
+171
+00:06:44,960 --> 00:06:49,759
+team the engineering team that built
+
+172
+00:06:47,240 --> 00:06:53,000
+that functionality is continuously
+
+173
+00:06:49,759 --> 00:06:55,680
+engaging with with real real customers
+
+174
+00:06:53,000 --> 00:06:57,400
+in production either through Telemetry
+
+175
+00:06:55,680 --> 00:06:58,919
+or actually talking to them because you
+
+176
+00:06:57,400 --> 00:07:01,319
+want to find out what's going on I I've
+
+177
+00:06:58,919 --> 00:07:04,280
+turned off a Fe before cuz I didn't like
+
+178
+00:07:01,319 --> 00:07:06,560
+it and said I didn't like it this is bad
+
+179
+00:07:04,280 --> 00:07:08,720
+it's not working for me take the box hit
+
+180
+00:07:06,560 --> 00:07:12,759
+submit and a couple of days later I've
+
+181
+00:07:08,720 --> 00:07:14,919
+got a a a communication from the product
+
+182
+00:07:12,759 --> 00:07:16,919
+manager for that feature the person
+
+183
+00:07:14,919 --> 00:07:19,360
+who's moning that feature and bringing
+
+184
+00:07:16,919 --> 00:07:21,599
+it through to basically ask what's it
+
+185
+00:07:19,360 --> 00:07:23,400
+need what's missing why' you not like it
+
+186
+00:07:21,599 --> 00:07:25,080
+all useful and do we need to make keep
+
+187
+00:07:23,400 --> 00:07:28,360
+continue to make changes to it before it
+
+188
+00:07:25,080 --> 00:07:30,440
+goes goes live so at any point in that
+
+189
+00:07:28,360 --> 00:07:31,960
+story you can pull that feature you can
+
+190
+00:07:30,440 --> 00:07:33,120
+just disappear that feature flag and
+
+191
+00:07:31,960 --> 00:07:34,680
+it's gone for everybody because it's
+
+192
+00:07:33,120 --> 00:07:37,520
+performing badly because and you can
+
+193
+00:07:34,680 --> 00:07:39,000
+automate that as well so you could have
+
+194
+00:07:37,520 --> 00:07:41,000
+automation that checks for performance
+
+195
+00:07:39,000 --> 00:07:43,080
+and then automatically let's get rid of
+
+196
+00:07:41,000 --> 00:07:44,599
+that feature if it if it's impacting the
+
+197
+00:07:43,080 --> 00:07:46,080
+system right that should be it should be
+
+198
+00:07:44,599 --> 00:07:49,639
+just built into the
+
+199
+00:07:46,080 --> 00:07:52,400
+system and then once everybody's got it
+
+200
+00:07:49,639 --> 00:07:54,759
+turned on people aren't turning it off
+
+201
+00:07:52,400 --> 00:07:56,400
+there's probably a few lards there's
+
+202
+00:07:54,759 --> 00:07:57,879
+probably a few unhappy people when you
+
+203
+00:07:56,400 --> 00:08:00,240
+change things right you move their
+
+204
+00:07:57,879 --> 00:08:02,960
+cheese that's just the cost of doing
+
+205
+00:08:00,240 --> 00:08:06,599
+business but everything's generally
+
+206
+00:08:02,960 --> 00:08:08,360
+okay then feature flags on for everybody
+
+207
+00:08:06,599 --> 00:08:09,840
+you start removing that feature flag
+
+208
+00:08:08,360 --> 00:08:12,400
+from the system and that features just
+
+209
+00:08:09,840 --> 00:08:15,080
+in production so that could be a very
+
+210
+00:08:12,400 --> 00:08:17,479
+long time I know that when the Azure
+
+211
+00:08:15,080 --> 00:08:19,879
+devops team did their boards the new
+
+212
+00:08:17,479 --> 00:08:21,960
+boards old boards it took them nearly
+
+213
+00:08:19,879 --> 00:08:25,360
+two and a half years nearly three years
+
+214
+00:08:21,960 --> 00:08:27,800
+to get everybody over to the new
+
+215
+00:08:25,360 --> 00:08:29,599
+boards because they kept hitting missing
+
+216
+00:08:27,800 --> 00:08:31,479
+functionality they kept hitting some
+
+217
+00:08:29,599 --> 00:08:35,680
+performance problems and then they had
+
+218
+00:08:31,479 --> 00:08:38,279
+to kind of old boards rewrite that new
+
+219
+00:08:35,680 --> 00:08:41,159
+boards again and it took them a long
+
+220
+00:08:38,279 --> 00:08:43,640
+time to to to to get
+
+221
+00:08:41,159 --> 00:08:46,920
+from where we need to replace the boards
+
+222
+00:08:43,640 --> 00:08:50,320
+to it's done it was a very long time and
+
+223
+00:08:46,920 --> 00:08:52,480
+so feature flags and how you enable
+
+224
+00:08:50,320 --> 00:08:54,080
+feature Flags so they can be behind the
+
+225
+00:08:52,480 --> 00:08:56,800
+scenes they can be something that you
+
+226
+00:08:54,080 --> 00:09:00,959
+give actual users access
+
+227
+00:08:56,800 --> 00:09:03,519
+to these this is one of the the core
+
+228
+00:09:00,959 --> 00:09:06,959
+practices that enable you to do
+
+229
+00:09:03,519 --> 00:09:09,360
+continuous delivery to production while
+
+230
+00:09:06,959 --> 00:09:12,240
+protecting your system protecting your
+
+231
+00:09:09,360 --> 00:09:14,120
+users and enabling you to get the
+
+232
+00:09:12,240 --> 00:09:15,640
+Telemetry you need to understand whether
+
+233
+00:09:14,120 --> 00:09:18,079
+you've built the right thing in
+
+234
+00:09:15,640 --> 00:09:18,079
+production
+
+

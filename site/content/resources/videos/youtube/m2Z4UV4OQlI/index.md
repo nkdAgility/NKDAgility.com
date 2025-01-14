@@ -6,6 +6,7 @@ videoId: m2Z4UV4OQlI
 source: internal
 url: /resources/videos/:slug
 slug: the-power-of-metrics-why-pal-ebm-is-essential-for-your-organization
+layout: video
 preview: https://i.ytimg.com/vi/m2Z4UV4OQlI/maxresdefault.jpg
 duration: 373
 isShort: false

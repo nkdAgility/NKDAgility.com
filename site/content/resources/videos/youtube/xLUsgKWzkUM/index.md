@@ -5,6 +5,7 @@ date: 2023-11-27T11:00:56Z
 videoId: xLUsgKWzkUM
 url: /resources/videos/:slug
 slug: why-is-training-such-a-critical-element-in-a-productowner-journey
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=xLUsgKWzkUM
 aliases:
 - /resources/videos/xLUsgKWzkUM
@@ -41,9 +42,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube xLUsgKWzkUM >}} 
  #shorts #shortsvideo #shortvideo Many people are assigned the #productowner accountability without any formal #scrumtraining or skills development. We've featured a short excerpt from a video where Martin Hinshelwood talks about the value of training for a product owner, you can watch the full video on  https://youtu.be/2_CowcUpzAA
 
 About NKD Agility

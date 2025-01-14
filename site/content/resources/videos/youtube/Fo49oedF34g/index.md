@@ -6,6 +6,7 @@ videoId: Fo49oedF34g
 source: youtube
 url: /resources/videos/:slug
 slug: czym-różni-się-zwinne-przywództwo-od-tradycyjnego-zarządzania
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=Fo49oedF34g
 aliases:
 - /resources/videos/Fo49oedF34g
@@ -30,9 +31,10 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube Fo49oedF34g >}} 
  Czym różni się zwinne przywództwo od tradycyjnego zarządzania?
 
 About NKD Agility

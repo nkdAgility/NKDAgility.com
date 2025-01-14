@@ -6,6 +6,7 @@ videoId: ks38bwDTVfM
 source: youtube
 url: /resources/videos/:slug
 slug: what-are-3-things-you-would-recommend-for-a-scrum-team-who-are-struggling-to-get-work-completed-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=ks38bwDTVfM
 aliases:
 - /resources/videos/ks38bwDTVfM
@@ -41,9 +42,10 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube ks38bwDTVfM >}} 
  Sprint Planning Mastery: Avoiding Overload & Perfecting Your Process
 
 Discover the key to seamless Sprint planning with our expert tips on defining 'done', balancing workload, and strategic foresight.

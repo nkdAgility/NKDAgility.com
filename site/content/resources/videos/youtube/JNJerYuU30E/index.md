@@ -5,6 +5,7 @@ date: 2023-05-04T07:00:07Z
 videoId: JNJerYuU30E
 url: /resources/videos/:slug
 slug: most-influential-person-in-agile-jerónimo-palacios
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=JNJerYuU30E
 aliases:
 - /resources/videos/JNJerYuU30E
@@ -23,9 +24,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube JNJerYuU30E >}} 
  #shorts As we progress in our #agile career, we are often privileged to meet people who shape the trajectory of our career and experiences in meaningful, powerful ways. People who take the time to teach, coach, and mentor us in our journey to #agile and #scrum mastery.
 
 In this short video, Martin Hinshelwood talks about one of his 5 most influential people in #agile, Jerónimo Palacios, a #PST and #agileexpert based in Spain.

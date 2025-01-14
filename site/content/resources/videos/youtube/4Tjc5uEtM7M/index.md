@@ -26,9 +26,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+layout: video
+resourceTypes:
+- video
 
 ---
-{{< youtube 4Tjc5uEtM7M >}} 
  Migrating to Azure DevOps can be a one-time, complex project that often requires specialized expertise. In this video, I discuss why it’s typically better to bring in experienced professionals for your migration rather than trying to build skills in-house. Migration is often a deep, technical process, especially when handling data inconsistencies or navigating older TFS setups with unique quirks.
 
 With years of experience in DevOps and as the creator of Microsoft’s recommended migration tools, I’ve seen firsthand how expertise can make or break a smooth migration. For organizations planning multiple migrations, I also offer training and support for in-house teams, ensuring they’re equipped to handle ongoing transitions.

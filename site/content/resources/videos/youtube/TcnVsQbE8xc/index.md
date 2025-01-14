@@ -6,6 +6,7 @@ videoId: TcnVsQbE8xc
 source: internal
 url: /resources/videos/:slug
 slug: reasons-to-do-a-psm-ii-course-in-60-seconds
+layout: video
 preview: https://i.ytimg.com/vi/TcnVsQbE8xc/maxresdefault.jpg
 duration: 50
 isShort: true

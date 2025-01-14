@@ -6,6 +6,7 @@ videoId: tfQltriMcFw
 source: youtube
 url: /resources/videos/:slug
 slug: scrum-training-1
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=tfQltriMcFw
 aliases:
@@ -20,8 +21,9 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube tfQltriMcFw >}} 
  A collection is videos of Scrum training in Action 
  [Watch on Youtube](https://www.youtube.com/watch?v=tfQltriMcFw)

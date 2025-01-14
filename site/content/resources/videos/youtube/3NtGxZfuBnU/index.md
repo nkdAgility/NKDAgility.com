@@ -25,6 +25,7 @@ tags:
 - Slope of enlightenment
 resourceTypes:
 - video
+layout: video
 
 ---
 {{< youtube 3NtGxZfuBnU >}}

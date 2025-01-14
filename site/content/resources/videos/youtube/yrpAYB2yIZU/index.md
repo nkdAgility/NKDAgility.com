@@ -5,6 +5,7 @@ date: 2014-01-16T20:22:36Z
 videoId: yrpAYB2yIZU
 url: /resources/videos/:slug
 slug: install-&-configure-301-move-your-active-directory-domain-to-another-server
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=yrpAYB2yIZU
 aliases:
 - /resources/videos/yrpAYB2yIZU
@@ -22,9 +23,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube yrpAYB2yIZU >}} 
  Have you ever had to rebuild your only domain controller? Find out how to move your domain to another server to refresh the OS or just plane rebuild...
 
 Visit http://nakedalm.com/blog for more posts and videos. 

@@ -6,6 +6,7 @@ videoId: X2WJzWV_GiI
 source: youtube
 url: /resources/videos/:slug
 slug: free-workshop-1-introduction-to-agility-and-building-awesome-teams
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=X2WJzWV_GiI
 aliases:
@@ -18,9 +19,10 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube X2WJzWV_GiI >}} 
  00:00:00 Preamble
 00:04:24 Introduction
 00:11:30 10 Questions to Break the Ice

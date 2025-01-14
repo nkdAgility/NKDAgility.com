@@ -30,8 +30,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+layout: video
+resourceTypes:
+- video
 
 ---
-{{< youtube 1M2_AVqoRbs >}} 
  Technical debt costs you more than you think. Visit https://www.nkdagility.com #agile #agileproductdevelopment #productdevelopment #agileprojectmanagement #projectmanagement #projectmanager #productowner #scrummaster #productmanager #developer #technicaldebt 
  [Watch on Youtube](https://www.youtube.com/watch?v=1M2_AVqoRbs)

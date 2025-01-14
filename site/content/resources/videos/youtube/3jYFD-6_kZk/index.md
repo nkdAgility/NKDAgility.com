@@ -23,6 +23,7 @@ tags:
 - Migration challenges
 resourceTypes:
 - video
+layout: video
 
 ---
 {{< youtube 3jYFD-6_kZk >}}

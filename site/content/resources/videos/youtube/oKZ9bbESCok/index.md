@@ -6,6 +6,7 @@ videoId: oKZ9bbESCok
 source: internal
 url: /resources/videos/:slug
 slug: say-do-metrics-avoiding-agile-banditry-in-your-organization
+layout: video
 preview: https://i.ytimg.com/vi/oKZ9bbESCok/maxresdefault.jpg
 duration: 411
 isShort: false

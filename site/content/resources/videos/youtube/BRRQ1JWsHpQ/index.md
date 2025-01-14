@@ -6,6 +6,7 @@ videoId: BRRQ1JWsHpQ
 source: youtube
 url: /resources/videos/:slug
 slug: the-tools-you-use-to-train-are-awesome-how-do-people-transfer-their-training-experience-with-these-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=BRRQ1JWsHpQ
 aliases:
 - /resources/videos/BRRQ1JWsHpQ
@@ -25,9 +26,10 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube BRRQ1JWsHpQ >}} 
  In 2020 when #covid19 hit with full force, many teams were thrown into disarray as working remotely became the norm rather than the exception.
 
 It also impacted #scrumtraining something fierce with #professionalscrumtrainers now delivering courses remotely rather than in-person in classrooms.

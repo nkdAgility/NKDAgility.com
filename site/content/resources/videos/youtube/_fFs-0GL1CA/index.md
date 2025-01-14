@@ -25,9 +25,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+layout: video
+resourceTypes:
+- video
 
 ---
-{{< youtube _fFs-0GL1CA >}} 
  The world of #agile is inherently complex. If building complex solutions or solving complex problems was a straightforward process of observing a formula, traditional #projectmanagement would do the trick and there would be no need for #agile or #scrum.
 
 So, when you enter the working world as a #scrummaster or #productowner, you need guardrails that can help you progress on your journey through an apprenticeship and onto mastery. You need to invest a great deal of time and effort in learning, practicing, and receiving coaching if you are going to be great at what you do.

@@ -6,6 +6,7 @@ videoId: ItnQxg3Q4Fc
 source: internal
 url: /resources/videos/:slug
 slug: why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-engagement
+layout: video
 preview: https://i.ytimg.com/vi/ItnQxg3Q4Fc/maxresdefault.jpg
 duration: 285
 isShort: false

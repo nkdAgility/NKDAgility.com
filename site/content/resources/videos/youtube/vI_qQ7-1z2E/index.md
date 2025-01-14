@@ -6,6 +6,7 @@ videoId: vI_qQ7-1z2E
 source: internal
 url: /resources/videos/:slug
 slug: is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-as-a-scrum-master
+layout: video
 preview: https://i.ytimg.com/vi/vI_qQ7-1z2E/maxresdefault.jpg
 duration: 330
 isShort: false

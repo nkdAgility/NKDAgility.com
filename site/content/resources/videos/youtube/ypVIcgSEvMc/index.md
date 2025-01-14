@@ -6,6 +6,7 @@ videoId: ypVIcgSEvMc
 source: internal
 url: /resources/videos/:slug
 slug: 30-discount-for-existing-alumni-overview
+layout: video
 preview: https://i.ytimg.com/vi/ypVIcgSEvMc/maxresdefault.jpg
 duration: 43
 isShort: true

@@ -6,6 +6,7 @@ videoId: 9z9BgSi2zeA
 source: internal
 url: /resources/videos/:slug
 slug: hiring-an-agile-coach-what-to-look-for-in-both-technical-and-leadership-engagement
+layout: video
 preview: https://i.ytimg.com/vi/9z9BgSi2zeA/maxresdefault.jpg
 duration: 47
 isShort: true

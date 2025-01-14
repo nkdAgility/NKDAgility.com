@@ -6,6 +6,7 @@ videoId: tYDWv--taWI
 source: youtube
 url: /resources/videos/:slug
 slug: story-points-velocity-martin-hinshelwood
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=tYDWv--taWI
 aliases:
@@ -18,8 +19,9 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube tYDWv--taWI >}} 
   
  [Watch on Youtube](https://www.youtube.com/watch?v=tYDWv--taWI)

@@ -6,6 +6,7 @@ videoId: faoWuCkKC0U
 source: internal
 url: /resources/videos/:slug
 slug: reasons-to-do-a-pspo-a-course-in-60-seconds
+layout: video
 preview: https://i.ytimg.com/vi/faoWuCkKC0U/maxresdefault.jpg
 duration: 46
 isShort: true

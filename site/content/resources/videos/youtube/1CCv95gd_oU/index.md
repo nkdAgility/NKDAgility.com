@@ -21,8 +21,10 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+layout: video
+resourceTypes:
+- video
 
 ---
-{{< youtube 1CCv95gd_oU >}} 
   
  [Watch on Youtube](https://www.youtube.com/watch?v=1CCv95gd_oU)

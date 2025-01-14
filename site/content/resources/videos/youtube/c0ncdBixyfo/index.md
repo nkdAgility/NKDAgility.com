@@ -6,6 +6,7 @@ videoId: c0ncdBixyfo
 source: internal
 url: /resources/videos/:slug
 slug: what-is-the-one-thing-that-no-agile-team-can-survive
+layout: video
 preview: https://i.ytimg.com/vi/c0ncdBixyfo/maxresdefault.jpg
 duration: 505
 isShort: false

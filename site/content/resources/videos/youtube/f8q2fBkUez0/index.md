@@ -5,6 +5,7 @@ date: 2024-09-03T03:33:58Z
 videoId: f8q2fBkUez0
 url: /resources/videos/:slug
 slug: should-companies-take-money-off-the-table-with-martin-,-michael-,-&-rijon
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=f8q2fBkUez0
 aliases:
 - /resources/videos/f8q2fBkUez0
@@ -18,9 +19,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube f8q2fBkUez0 >}} 
  ### Panel Description: "Should Companies Take Money Off the Table? Exploring Motivation Beyond Financial Incentives"
 
 In today's fast-paced business environment, the debate over the role of financial incentives in driving employee motivation is more relevant than ever. Join us for an engaging panel discussion where we dive deep into the idea of "taking money off the table" as a motivator and explore the principles outlined in Dan Pink's groundbreaking work, *Drive*.

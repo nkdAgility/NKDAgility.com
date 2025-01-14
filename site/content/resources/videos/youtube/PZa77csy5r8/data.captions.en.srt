@@ -1,0 +1,685 @@
+1
+00:00:00,080 --> 00:00:08,000
+technical debt is a huge problem for for
+
+2
+00:00:05,160 --> 00:00:11,599
+organizations I want to quickly Define
+
+3
+00:00:08,000 --> 00:00:15,199
+technical debt technical debt is future
+
+4
+00:00:11,599 --> 00:00:18,600
+cost that you incur
+
+5
+00:00:15,199 --> 00:00:22,199
+when you or your team
+
+6
+00:00:18,600 --> 00:00:25,359
+prioritize quick shortterm Solutions
+
+7
+00:00:22,199 --> 00:00:30,000
+over more robust long-term approaches
+
+8
+00:00:25,359 --> 00:00:33,600
+right so anytime you you make a choice
+
+9
+00:00:30,000 --> 00:00:35,800
+to do something fast but wrong because
+
+10
+00:00:33,600 --> 00:00:39,079
+you need it fast you're you're
+
+11
+00:00:35,800 --> 00:00:41,680
+introducing known you're KN knowingly
+
+12
+00:00:39,079 --> 00:00:45,640
+introducing technical debt you can also
+
+13
+00:00:41,680 --> 00:00:48,000
+unknowingly introduce technical debt I.E
+
+14
+00:00:45,640 --> 00:00:50,520
+we made some architectural choices they
+
+15
+00:00:48,000 --> 00:00:52,719
+were good choices at the time but now
+
+16
+00:00:50,520 --> 00:00:57,320
+they're no longer good choices technical
+
+17
+00:00:52,719 --> 00:01:00,840
+debt can appear over time
+
+18
+00:00:57,320 --> 00:01:02,800
+uh I'm thinking of a transactions system
+
+19
+00:01:00,840 --> 00:01:06,040
+and we supported X number of
+
+20
+00:01:02,800 --> 00:01:10,280
+transactions per second and our platform
+
+21
+00:01:06,040 --> 00:01:12,720
+of choice uh was reasonably priced was
+
+22
+00:01:10,280 --> 00:01:14,360
+able to support well beyond what we
+
+23
+00:01:12,720 --> 00:01:16,320
+thought we were going to transact but
+
+24
+00:01:14,360 --> 00:01:17,640
+now we're transacting a lot more than
+
+25
+00:01:16,320 --> 00:01:20,320
+that and we're reaching the limits of
+
+26
+00:01:17,640 --> 00:01:23,520
+the system that we chose a great example
+
+27
+00:01:20,320 --> 00:01:26,840
+a great example of that is the the Azure
+
+28
+00:01:23,520 --> 00:01:31,640
+devops team when they originally
+
+29
+00:01:26,840 --> 00:01:35,200
+envisaged work item tracking Fields so a
+
+30
+00:01:31,640 --> 00:01:37,640
+a a a work item was a row in a database
+
+31
+00:01:35,200 --> 00:01:39,920
+and Fields were a
+
+32
+00:01:37,640 --> 00:01:41,119
+column and those of you who are software
+
+33
+00:01:39,920 --> 00:01:43,079
+Engineers have already figured out what
+
+34
+00:01:41,119 --> 00:01:46,799
+the problem would be with that in that
+
+35
+00:01:43,079 --> 00:01:50,920
+you can only have 1024 columns in a sqls
+
+36
+00:01:46,799 --> 00:01:53,320
+database so they they not quickly but
+
+37
+00:01:50,920 --> 00:01:54,880
+they did hit limitations on the number
+
+38
+00:01:53,320 --> 00:01:57,479
+of columns that you could have for
+
+39
+00:01:54,880 --> 00:02:00,479
+custom Fields because who would have
+
+40
+00:01:57,479 --> 00:02:03,799
+more than a thousand fields
+
+41
+00:02:00,479 --> 00:02:06,360
+on a work item but yeah people do they
+
+42
+00:02:03,799 --> 00:02:09,280
+do exist and people do that and it was a
+
+43
+00:02:06,360 --> 00:02:11,200
+th000 totally within the system so they
+
+44
+00:02:09,280 --> 00:02:12,560
+thought we' never have a th fields or
+
+45
+00:02:11,200 --> 00:02:14,440
+somebody made that decision just like
+
+46
+00:02:12,560 --> 00:02:18,400
+the two-digit date decision back in the
+
+47
+00:02:14,440 --> 00:02:21,879
+day um so they had a lot of work to go
+
+48
+00:02:18,400 --> 00:02:25,200
+back and refactor not just refactor the
+
+49
+00:02:21,879 --> 00:02:28,599
+system but write the capabilities to
+
+50
+00:02:25,200 --> 00:02:32,519
+refactor the data on upgrade for their
+
+51
+00:02:28,599 --> 00:02:34,640
+customers in into a format where each
+
+52
+00:02:32,519 --> 00:02:36,200
+field was a row right in a database
+
+53
+00:02:34,640 --> 00:02:38,840
+rather in a column so then you have
+
+54
+00:02:36,200 --> 00:02:43,720
+unlimited capability um for fields and
+
+55
+00:02:38,840 --> 00:02:47,440
+data and those types of decisions either
+
+56
+00:02:43,720 --> 00:02:49,280
+knowingly made decisions that result in
+
+57
+00:02:47,440 --> 00:02:53,239
+something that's not not quite the way
+
+58
+00:02:49,280 --> 00:02:56,720
+it needs to be or unknown ones are where
+
+59
+00:02:53,239 --> 00:02:59,280
+most technical debt comes from there are
+
+60
+00:02:56,720 --> 00:03:00,760
+other issues that people call technical
+
+61
+00:02:59,280 --> 00:03:02,840
+debt which AR aren't necessarily
+
+62
+00:03:00,760 --> 00:03:04,480
+technical debt but most people lump it
+
+63
+00:03:02,840 --> 00:03:07,319
+all together and say technical debt I
+
+64
+00:03:04,480 --> 00:03:10,400
+think I often do as well and that's I've
+
+65
+00:03:07,319 --> 00:03:12,200
+written bad code and shipped it that's
+
+66
+00:03:10,400 --> 00:03:16,080
+not technical debt that's
+
+67
+00:03:12,200 --> 00:03:18,680
+incompetence right so so within the
+
+68
+00:03:16,080 --> 00:03:20,239
+context of a competent team there's
+
+69
+00:03:18,680 --> 00:03:22,200
+known technical debt and unknown
+
+70
+00:03:20,239 --> 00:03:23,519
+technical debt but there's another thing
+
+71
+00:03:22,200 --> 00:03:26,480
+that we call technical debt which is
+
+72
+00:03:23,519 --> 00:03:28,720
+just shipping bad code making poor
+
+73
+00:03:26,480 --> 00:03:30,840
+choices knowing that they're poor
+
+74
+00:03:28,720 --> 00:03:32,879
+choices and not doing anything about it
+
+75
+00:03:30,840 --> 00:03:34,799
+right shipping bad code stop shipping
+
+76
+00:03:32,879 --> 00:03:37,319
+stop shipping bad code would be the way
+
+77
+00:03:34,799 --> 00:03:40,400
+you pay that one back but for technical
+
+78
+00:03:37,319 --> 00:03:42,400
+debt you need to pay it back you need to
+
+79
+00:03:40,400 --> 00:03:45,480
+prioritize paying back that technical
+
+80
+00:03:42,400 --> 00:03:47,879
+debt uh think of it more as an unhedged
+
+81
+00:03:45,480 --> 00:03:52,159
+fund rather than a debt like a credit
+
+82
+00:03:47,879 --> 00:03:54,480
+card um most debt is secured against
+
+83
+00:03:52,159 --> 00:03:57,000
+something secured against an asset if
+
+84
+00:03:54,480 --> 00:03:58,879
+you stop paying your mortgage then the
+
+85
+00:03:57,000 --> 00:04:01,480
+bank comes and repossesses your house
+
+86
+00:03:58,879 --> 00:04:03,239
+and gets their money back right and
+
+87
+00:04:01,480 --> 00:04:06,799
+maybe you get some leftovers because you
+
+88
+00:04:03,239 --> 00:04:10,319
+paid some of your mortgage
+
+89
+00:04:06,799 --> 00:04:13,319
+but who's who's
+
+90
+00:04:10,319 --> 00:04:15,360
+ensuring your product quality who's
+
+91
+00:04:13,319 --> 00:04:18,519
+uring your product against your
+
+92
+00:04:15,360 --> 00:04:20,919
+technical debt there's no insurance it's
+
+93
+00:04:18,519 --> 00:04:23,440
+uninsured uh from from from that
+
+94
+00:04:20,919 --> 00:04:26,000
+perspective um nobody can magically come
+
+95
+00:04:23,440 --> 00:04:28,919
+along and pay back all the all the debt
+
+96
+00:04:26,000 --> 00:04:30,680
+it's not insured at all um or sell
+
+97
+00:04:28,919 --> 00:04:33,960
+something and pay back back we claim an
+
+98
+00:04:30,680 --> 00:04:35,600
+asset so it's something you're going to
+
+99
+00:04:33,960 --> 00:04:37,080
+have to deal with and you can't let get
+
+100
+00:04:35,600 --> 00:04:39,240
+out of control and there's a lot of
+
+101
+00:04:37,080 --> 00:04:41,960
+unknown technical debt I mean that
+
+102
+00:04:39,240 --> 00:04:44,639
+that's that's like I I mean I use the
+
+103
+00:04:41,960 --> 00:04:46,360
+eure devops team a lot as an example and
+
+104
+00:04:44,639 --> 00:04:50,000
+but they'd been a waterfall team for
+
+105
+00:04:46,360 --> 00:04:52,639
+many years shipping once every two years
+
+106
+00:04:50,000 --> 00:04:56,160
+and then they moved to a more continuous
+
+107
+00:04:52,639 --> 00:04:57,880
+delivery 3-we model and they found that
+
+108
+00:04:56,160 --> 00:05:00,400
+they they they made lots of poor
+
+109
+00:04:57,880 --> 00:05:02,160
+decisions right that didn't weren't
+
+110
+00:05:00,400 --> 00:05:05,600
+necessarily poor decisions within the
+
+111
+00:05:02,160 --> 00:05:08,639
+context of twoe but they couldn't really
+
+112
+00:05:05,600 --> 00:05:11,400
+see the impact
+
+113
+00:05:08,639 --> 00:05:13,199
+of the technical debt the choices that
+
+114
+00:05:11,400 --> 00:05:15,320
+they'd made deliberate and N deliberate
+
+115
+00:05:13,199 --> 00:05:16,880
+right on on their ability to deliver
+
+116
+00:05:15,320 --> 00:05:19,080
+product and their ability to deliver
+
+117
+00:05:16,880 --> 00:05:23,120
+value but I have a I have a I have a
+
+118
+00:05:19,080 --> 00:05:26,400
+graph um of I think it's 2010 through to
+
+119
+00:05:23,120 --> 00:05:28,520
+2018 for for that product team so eight
+
+120
+00:05:26,400 --> 00:05:31,280
+years of development and they
+
+121
+00:05:28,520 --> 00:05:34,400
+effectively go by moving to continuous
+
+122
+00:05:31,280 --> 00:05:36,479
+delivery moving to uh 3-we Sprints
+
+123
+00:05:34,400 --> 00:05:39,319
+moving to that faster cycle from a
+
+124
+00:05:36,479 --> 00:05:41,720
+two-yearly cycle and running into issues
+
+125
+00:05:39,319 --> 00:05:44,880
+with that and every issue they're
+
+126
+00:05:41,720 --> 00:05:46,960
+running into paying it back right paying
+
+127
+00:05:44,880 --> 00:05:49,280
+back the reason that they made those
+
+128
+00:05:46,960 --> 00:05:51,199
+choices which were perhaps valid reasons
+
+129
+00:05:49,280 --> 00:05:52,360
+at the time but you still need to pay it
+
+130
+00:05:51,199 --> 00:05:54,919
+back it doesn't matter whether it was a
+
+131
+00:05:52,360 --> 00:05:57,520
+valid reason or not and and paying it
+
+132
+00:05:54,919 --> 00:06:00,960
+back and doing the work they
+
+133
+00:05:57,520 --> 00:06:04,360
+actually went from 25 features to
+
+134
+00:06:00,960 --> 00:06:07,120
+production each year in 2010 to
+
+135
+00:06:04,360 --> 00:06:11,360
+something like 360 features to
+
+136
+00:06:07,120 --> 00:06:14,360
+production in 2018 so by by focusing on
+
+137
+00:06:11,360 --> 00:06:17,720
+paying back their technical debt of
+
+138
+00:06:14,360 --> 00:06:19,840
+enabling their Engineers to close the
+
+139
+00:06:17,720 --> 00:06:22,639
+feedback loops then shorten the feedback
+
+140
+00:06:19,840 --> 00:06:24,280
+loops three ways of devops right closing
+
+141
+00:06:22,639 --> 00:06:26,360
+the feedback loops first then shortening
+
+142
+00:06:24,280 --> 00:06:29,840
+them and that act of shortening the
+
+143
+00:06:26,360 --> 00:06:31,720
+feedback loops can massively increase
+
+144
+00:06:29,840 --> 00:06:34,360
+the amount of value that you can deliver
+
+145
+00:06:31,720 --> 00:06:36,039
+long term and that's the value of paying
+
+146
+00:06:34,360 --> 00:06:39,800
+back technical debt of managing
+
+147
+00:06:36,039 --> 00:06:43,599
+technical debt well is that you can go
+
+148
+00:06:39,800 --> 00:06:46,120
+from th removing those limitations to
+
+149
+00:06:43,599 --> 00:06:48,280
+maximizing the value that you deliver in
+
+150
+00:06:46,120 --> 00:06:50,440
+your product with the same number of
+
+151
+00:06:48,280 --> 00:06:52,599
+people that was the Azure devops team
+
+152
+00:06:50,440 --> 00:06:55,919
+literally went from 25 features to
+
+153
+00:06:52,599 --> 00:06:58,680
+production each year in 2010 worked very
+
+154
+00:06:55,919 --> 00:07:01,720
+hard to pay back technical debt um and
+
+155
+00:06:58,680 --> 00:07:03,599
+were able to even in the first year of
+
+156
+00:07:01,720 --> 00:07:06,039
+focusing on paying back technical debt
+
+157
+00:07:03,599 --> 00:07:08,919
+to get their new way of working up and
+
+158
+00:07:06,039 --> 00:07:12,160
+running they went from 25 features to
+
+159
+00:07:08,919 --> 00:07:14,560
+production to 68 features to production
+
+160
+00:07:12,160 --> 00:07:16,599
+within that one year and they weren't
+
+161
+00:07:14,560 --> 00:07:18,400
+even focused on delivering more features
+
+162
+00:07:16,599 --> 00:07:20,479
+they were focused on let's deal with our
+
+163
+00:07:18,400 --> 00:07:22,160
+crap and let's figure out how we deal
+
+164
+00:07:20,479 --> 00:07:24,440
+with those problems and they still
+
+165
+00:07:22,160 --> 00:07:26,800
+delivered more features that's the
+
+166
+00:07:24,440 --> 00:07:28,919
+benefit of paying back technical debt
+
+167
+00:07:26,800 --> 00:07:30,680
+that's the benefit of having a slick
+
+168
+00:07:28,919 --> 00:07:33,599
+Easy System system to add features to
+
+169
+00:07:30,680 --> 00:07:37,560
+your product and that's what everybody
+
+170
+00:07:33,599 --> 00:07:39,960
+needs don't manage technical Debt Pay It
+
+171
+00:07:37,560 --> 00:07:39,960
+Back
+
+

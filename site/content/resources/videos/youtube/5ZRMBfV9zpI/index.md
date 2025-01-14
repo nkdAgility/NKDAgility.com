@@ -18,9 +18,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+layout: video
+resourceTypes:
+- video
 
 ---
-{{< youtube 5ZRMBfV9zpI >}} 
  This workshop is for practitioners that are interested in starting a career as a Scrum Master, existing Scrum Masters, agile coaches, and consultants trying to improve their use of Scrum.
 
 The Professional Scrum Master is an engaging, enjoyable learning experience where students gain a deep understanding of Scrum theory and principles, the Scrum Master accountabilities and why each element of the Scrum framework is important.

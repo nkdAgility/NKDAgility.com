@@ -5,6 +5,7 @@ date: 2023-07-13T12:20:07Z
 videoId: wawnGp8b2q8
 url: /resources/videos/:slug
 slug: if-you-could-distil-the-pal-e-immersive-learning-experience-into-3-major-benefits,-what-are-they-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=wawnGp8b2q8
 aliases:
 - /resources/videos/wawnGp8b2q8
@@ -26,9 +27,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube wawnGp8b2q8 >}} 
  The new #immersivelearning experience from Scrum.Org is perfectly suited to the Professional Agile Leadership Essentials course. It gives you heaps of time to digest the information, apply what you have learned, and take advantage of the blend of coaching and teaching that the course entails.
 
 In this short video, Joanna Plaskonka - Professional Scrum Trainer and PAL-E course instructor - walks us through the 3 biggest benefits you will derive from attending the PAL-E immersive learning experience via NKD Agility.

@@ -6,6 +6,7 @@ videoId: VjPslpF3fTc
 source: internal
 url: /resources/videos/:slug
 slug: how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-couple-of-years-experience-in-the-field
+layout: video
 preview: https://i.ytimg.com/vi/VjPslpF3fTc/maxresdefault.jpg
 duration: 122
 isShort: false

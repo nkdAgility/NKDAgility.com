@@ -7,6 +7,7 @@ videoId: CQHxyhm4k8k
 source: youtube
 url: /resources/videos/:slug
 slug: psop-in-5m
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=CQHxyhm4k8k
 aliases:
 - /resources/videos/CQHxyhm4k8k
@@ -18,8 +19,9 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube CQHxyhm4k8k >}} 
   
  [Watch on Youtube](https://www.youtube.com/watch?v=CQHxyhm4k8k)

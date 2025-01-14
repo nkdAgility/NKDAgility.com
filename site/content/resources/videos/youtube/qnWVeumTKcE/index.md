@@ -5,6 +5,7 @@ date: 2021-07-24T07:58:47Z
 videoId: qnWVeumTKcE
 url: /resources/videos/:slug
 slug: a-view-into-the-psm-training-from-scrum-org
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=qnWVeumTKcE
 aliases:
 - /resources/videos/qnWVeumTKcE
@@ -18,8 +19,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube qnWVeumTKcE >}} 
   
  [Watch on Youtube](https://www.youtube.com/watch?v=qnWVeumTKcE)

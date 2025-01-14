@@ -5,6 +5,7 @@ date: 2023-03-06T07:00:14Z
 videoId: QGXlCm_B5zA
 url: /resources/videos/:slug
 slug: what-will-you-learn-on-the-psm-ii-course-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=QGXlCm_B5zA
 aliases:
 - /resources/videos/QGXlCm_B5zA
@@ -26,9 +27,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube QGXlCm_B5zA >}} 
  The #PSM II or #professionalscrummaster course from Scrum.Org is designed to help a #scrummaster progress in their career from entry-level capability to more advanced capabilities.
 
 As a newbie #scrummaster, the focus tends to lie on helping the #developers through the #scrumframework and taking on a fairly strong administrative function within the team.

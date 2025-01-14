@@ -6,6 +6,7 @@ videoId: xaIDtZcoVXE
 source: internal
 url: /resources/videos/:slug
 slug: how-do-you-know-how-long-it-takes-to-deliver-value
+layout: video
 preview: https://i.ytimg.com/vi/xaIDtZcoVXE/maxresdefault.jpg
 duration: 33
 isShort: true

@@ -1,0 +1,565 @@
+1
+00:00:00,280 --> 00:00:05,359
+when we don't
+
+2
+00:00:02,480 --> 00:00:08,480
+deploy very frequently there are a
+
+3
+00:00:05,359 --> 00:00:11,799
+number of dysfunctional behaviors that
+
+4
+00:00:08,480 --> 00:00:14,799
+don't have to be there but tend to creep
+
+5
+00:00:11,799 --> 00:00:17,800
+in when when we're deploying bigger
+
+6
+00:00:14,799 --> 00:00:20,920
+chunks of work one of those things is
+
+7
+00:00:17,800 --> 00:00:22,519
+that we tackle bigger chunks of work
+
+8
+00:00:20,920 --> 00:00:25,279
+instead of taking a big thing and
+
+9
+00:00:22,519 --> 00:00:27,519
+breaking it down to smaller things um we
+
+10
+00:00:25,279 --> 00:00:29,679
+try and tackle that big thing and
+
+11
+00:00:27,519 --> 00:00:32,960
+because we tackled that big thing and
+
+12
+00:00:29,679 --> 00:00:38,399
+then we deploy it maybe after a couple
+
+13
+00:00:32,960 --> 00:00:41,039
+of months um maybe after a year that is
+
+14
+00:00:38,399 --> 00:00:43,399
+unlikely to be edited right we're not
+
+15
+00:00:41,039 --> 00:00:45,320
+going back around and editing that code
+
+16
+00:00:43,399 --> 00:00:46,840
+again and again and again maybe in 5
+
+17
+00:00:45,320 --> 00:00:49,160
+years time somebody will come back
+
+18
+00:00:46,840 --> 00:00:53,280
+around and add something to that
+
+19
+00:00:49,160 --> 00:00:56,399
+feature but if we're deploying more
+
+20
+00:00:53,280 --> 00:01:01,680
+frequently if we're deploying
+
+21
+00:00:56,399 --> 00:01:04,239
+faster then our deployment window
+
+22
+00:01:01,680 --> 00:01:07,400
+is smaller than the features that we're
+
+23
+00:01:04,239 --> 00:01:11,040
+delivering so we're thinking about how
+
+24
+00:01:07,400 --> 00:01:13,960
+do I take this big chunk of work and
+
+25
+00:01:11,040 --> 00:01:14,799
+break it down into smaller things that
+
+26
+00:01:13,960 --> 00:01:17,600
+have
+
+27
+00:01:14,799 --> 00:01:20,200
+value and if I'm deploying that smaller
+
+28
+00:01:17,600 --> 00:01:22,360
+thing that has value I'm probably going
+
+29
+00:01:20,200 --> 00:01:24,840
+to be thinking about well if customers
+
+30
+00:01:22,360 --> 00:01:27,079
+are using it I can look at the data of
+
+31
+00:01:24,840 --> 00:01:29,280
+how customers are using it and perhaps
+
+32
+00:01:27,079 --> 00:01:30,600
+change the way I build it so that's one
+
+33
+00:01:29,280 --> 00:01:32,720
+advantage
+
+34
+00:01:30,600 --> 00:01:34,360
+but the main advantage from a technical
+
+35
+00:01:32,720 --> 00:01:36,280
+debt that's from from a product value
+
+36
+00:01:34,360 --> 00:01:37,520
+standpoint the main advantage from a
+
+37
+00:01:36,280 --> 00:01:40,960
+technical debt
+
+38
+00:01:37,520 --> 00:01:41,840
+perspective is that when I'm writing
+
+39
+00:01:40,960 --> 00:01:44,759
+that
+
+40
+00:01:41,840 --> 00:01:47,360
+code I know that I'm going to have to go
+
+41
+00:01:44,759 --> 00:01:50,320
+edit it tomorrow to add the next
+
+42
+00:01:47,360 --> 00:01:53,600
+slice and perhaps edit it the day after
+
+43
+00:01:50,320 --> 00:01:58,680
+that to add the slice after that so I'm
+
+44
+00:01:53,600 --> 00:02:00,399
+thinking more about how do I make sure
+
+45
+00:01:58,680 --> 00:02:03,039
+that this code is
+
+46
+00:02:00,399 --> 00:02:06,039
+maintainable and supportable and
+
+47
+00:02:03,039 --> 00:02:08,479
+adaptable because either me myself or
+
+48
+00:02:06,039 --> 00:02:10,800
+one of my colleagues is going to be
+
+49
+00:02:08,479 --> 00:02:13,200
+coming and editing it tomorrow and you
+
+50
+00:02:10,800 --> 00:02:14,640
+don't want to I guess there's a little
+
+51
+00:02:13,200 --> 00:02:16,440
+bit of peer pressure right you don't
+
+52
+00:02:14,640 --> 00:02:18,519
+want to look bad in front like I shipped
+
+53
+00:02:16,440 --> 00:02:21,200
+some really bad code and my colleague
+
+54
+00:02:18,519 --> 00:02:23,959
+now has to go clean up my mess that's
+
+55
+00:02:21,200 --> 00:02:26,560
+that's not polite right because they've
+
+56
+00:02:23,959 --> 00:02:28,959
+got to go go go edit it again but even
+
+57
+00:02:26,560 --> 00:02:31,160
+if I'm doing it myself I'm editing it
+
+58
+00:02:28,959 --> 00:02:32,560
+again tomorrow I I don't know if you've
+
+59
+00:02:31,160 --> 00:02:36,000
+ever been in this position but quite
+
+60
+00:02:32,560 --> 00:02:37,720
+often when you find some some nasty code
+
+61
+00:02:36,000 --> 00:02:39,480
+something that's written very badly and
+
+62
+00:02:37,720 --> 00:02:41,599
+you want to go look up the blame tool to
+
+63
+00:02:39,480 --> 00:02:43,560
+find out who do I blame usually it's
+
+64
+00:02:41,599 --> 00:02:46,280
+yourself right you're the one who made
+
+65
+00:02:43,560 --> 00:02:49,720
+the made the mess and you don't remember
+
+66
+00:02:46,280 --> 00:02:52,040
+so even if you don't want to see
+
+67
+00:02:49,720 --> 00:02:55,040
+yourself that way as writing that that
+
+68
+00:02:52,040 --> 00:02:57,440
+messy code then we take a little bit
+
+69
+00:02:55,040 --> 00:02:59,400
+more care it's it's also worth noting
+
+70
+00:02:57,440 --> 00:03:01,200
+that if we're doing hypothesis driven
+
+71
+00:02:59,400 --> 00:03:03,879
+engineering in practices right so that
+
+72
+00:03:01,200 --> 00:03:05,080
+we can um collect Telemetry and data and
+
+73
+00:03:03,879 --> 00:03:08,440
+then validate whether we're actually
+
+74
+00:03:05,080 --> 00:03:10,680
+building the right thing then we're
+
+75
+00:03:08,440 --> 00:03:12,080
+perhaps only going to invest in the
+
+76
+00:03:10,680 --> 00:03:15,480
+second
+
+77
+00:03:12,080 --> 00:03:18,360
+slice if it's worth investing in it if
+
+78
+00:03:15,480 --> 00:03:20,280
+users are connecting to it if they still
+
+79
+00:03:18,360 --> 00:03:23,239
+desire to continue to invest in that
+
+80
+00:03:20,280 --> 00:03:27,879
+feature so quite sometimes it's going to
+
+81
+00:03:23,239 --> 00:03:31,120
+say quite often but sometimes we we we
+
+82
+00:03:27,879 --> 00:03:33,400
+actually want to do a quick job on the
+
+83
+00:03:31,120 --> 00:03:36,879
+First Slice so there's going we're
+
+84
+00:03:33,400 --> 00:03:38,319
+choosing to incur technical debt knowing
+
+85
+00:03:36,879 --> 00:03:40,799
+that we're going to be looking at the
+
+86
+00:03:38,319 --> 00:03:42,519
+Telemetry looking at the outcome and
+
+87
+00:03:40,799 --> 00:03:44,200
+seeing whether it resonates with users
+
+88
+00:03:42,519 --> 00:03:47,400
+and whether we continue to invest in it
+
+89
+00:03:44,200 --> 00:03:52,000
+or we take that chunk back out right so
+
+90
+00:03:47,400 --> 00:03:53,200
+so this frequent deployments can not
+
+91
+00:03:52,000 --> 00:03:56,000
+only help
+
+92
+00:03:53,200 --> 00:03:58,599
+developers tackle technical debt issues
+
+93
+00:03:56,000 --> 00:04:00,760
+because it just makes it harder to incur
+
+94
+00:03:58,599 --> 00:04:04,879
+technical debt right we we make it
+
+95
+00:04:00,760 --> 00:04:07,000
+easier to write good code because if
+
+96
+00:04:04,879 --> 00:04:08,480
+you're deploying to production at the
+
+97
+00:04:07,000 --> 00:04:11,000
+end of the
+
+98
+00:04:08,480 --> 00:04:12,120
+day it needs to be production ready by
+
+99
+00:04:11,000 --> 00:04:14,200
+the end of the day it needs to be
+
+100
+00:04:12,120 --> 00:04:15,680
+production ready ready every time I edit
+
+101
+00:04:14,200 --> 00:04:16,959
+the code it needs to be needs to be
+
+102
+00:04:15,680 --> 00:04:19,479
+production ready you're potentially
+
+103
+00:04:16,959 --> 00:04:21,759
+doing continuous delivery right every
+
+104
+00:04:19,479 --> 00:04:24,960
+every every thing that makes it into
+
+105
+00:04:21,759 --> 00:04:28,560
+main ends up in production every commit
+
+106
+00:04:24,960 --> 00:04:31,360
+perhaps makes it into production so
+
+107
+00:04:28,560 --> 00:04:34,720
+reducing those those those gaps enables
+
+108
+00:04:31,360 --> 00:04:37,120
+us to reduce technical debt because we
+
+109
+00:04:34,720 --> 00:04:39,560
+know we have to do a better job it
+
+110
+00:04:37,120 --> 00:04:41,600
+enables us to understand our customers
+
+111
+00:04:39,560 --> 00:04:44,120
+needs better because we can see them
+
+112
+00:04:41,600 --> 00:04:46,639
+interacting with the thing the partial
+
+113
+00:04:44,120 --> 00:04:49,919
+thing we have built in order to get
+
+114
+00:04:46,639 --> 00:04:53,280
+Telemetry and feedback and these small
+
+115
+00:04:49,919 --> 00:04:56,600
+changes help build confidence not only
+
+116
+00:04:53,280 --> 00:05:00,280
+in with the customer but build
+
+117
+00:04:56,600 --> 00:05:01,919
+confidence in the the the build
+
+118
+00:05:00,280 --> 00:05:04,440
+confidence in the product itself build
+
+119
+00:05:01,919 --> 00:05:07,440
+confidence in our ability to deliver and
+
+120
+00:05:04,440 --> 00:05:09,560
+continuously deliver those small changes
+
+121
+00:05:07,440 --> 00:05:12,320
+so when the systems that we're working
+
+122
+00:05:09,560 --> 00:05:13,680
+on are big and complex and have lots of
+
+123
+00:05:12,320 --> 00:05:15,840
+interactive
+
+124
+00:05:13,680 --> 00:05:17,880
+parts that's when we want to be
+
+125
+00:05:15,840 --> 00:05:20,639
+delivering smaller and smaller changes
+
+126
+00:05:17,880 --> 00:05:23,720
+so we can see immediately when things go
+
+127
+00:05:20,639 --> 00:05:26,520
+wrong obviously we need Telemetry and we
+
+128
+00:05:23,720 --> 00:05:30,880
+need observability of our system to be
+
+129
+00:05:26,520 --> 00:05:34,039
+able to do that but this is one of the
+
+130
+00:05:30,880 --> 00:05:36,840
+core practical steps that any
+
+131
+00:05:34,039 --> 00:05:40,600
+engineering team any developer can take
+
+132
+00:05:36,840 --> 00:05:42,400
+is make the batch size smaller right and
+
+133
+00:05:40,600 --> 00:05:43,720
+this works in a lot of cases but in this
+
+134
+00:05:42,400 --> 00:05:47,000
+particular case if you're delivering
+
+135
+00:05:43,720 --> 00:05:50,240
+code to production reduce the batch size
+
+136
+00:05:47,000 --> 00:05:52,960
+increase the frequency of delivery
+
+137
+00:05:50,240 --> 00:05:55,319
+deployment to production and you will
+
+138
+00:05:52,960 --> 00:05:57,960
+see an improvement in the code you will
+
+139
+00:05:55,319 --> 00:06:00,600
+see an improvement in the product and
+
+140
+00:05:57,960 --> 00:06:03,199
+hopefully that will result in happier
+
+141
+00:06:00,600 --> 00:06:03,199
+customers
+
+

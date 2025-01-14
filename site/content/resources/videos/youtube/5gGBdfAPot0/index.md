@@ -18,8 +18,10 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+layout: video
+resourceTypes:
+- video
 
 ---
-{{< youtube 5gGBdfAPot0 >}} 
   
  [Watch on Youtube](https://www.youtube.com/watch?v=5gGBdfAPot0)

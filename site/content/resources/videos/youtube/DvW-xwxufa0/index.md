@@ -6,6 +6,7 @@ videoId: DvW-xwxufa0
 source: internal
 url: /resources/videos/:slug
 slug: the-limits-of-self-taught-learning-why-external-perspectives-matter
+layout: video
 preview: https://i.ytimg.com/vi/DvW-xwxufa0/maxresdefault.jpg
 duration: 339
 isShort: false

@@ -6,6 +6,7 @@ videoId: pazZ3mW5VHM
 source: internal
 url: /resources/videos/:slug
 slug: part-2-most-influential-people-in-agile
+layout: video
 preview: https://i.ytimg.com/vi/pazZ3mW5VHM/maxresdefault.jpg
 duration: 47
 isShort: true

@@ -5,6 +5,7 @@ date: 2024-08-14T07:04:17Z
 videoId: V44iUwv0Jcg
 url: /resources/videos/:slug
 slug: continuous-improvement-with-kanban
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=V44iUwv0Jcg
 aliases:
 - /resources/videos/V44iUwv0Jcg
@@ -21,8 +22,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube V44iUwv0Jcg >}} 
  Continuous Improvement with #kanban. Visit https://www.nkdagility.com #agile #scrum #kaizen #kanban #agileframework 
  [Watch on Youtube](https://www.youtube.com/watch?v=V44iUwv0Jcg)

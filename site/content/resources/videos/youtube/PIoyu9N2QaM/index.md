@@ -6,6 +6,7 @@ videoId: PIoyu9N2QaM
 source: internal
 url: /resources/videos/:slug
 slug: transform-your-software-team-with-expert-product-development-mentoring
+layout: video
 preview: https://i.ytimg.com/vi/PIoyu9N2QaM/maxresdefault.jpg
 duration: 363
 isShort: false

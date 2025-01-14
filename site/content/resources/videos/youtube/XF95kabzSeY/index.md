@@ -5,6 +5,7 @@ date: 2023-12-14T11:00:22Z
 videoId: XF95kabzSeY
 url: /resources/videos/:slug
 slug: -shorts-5-things-you-would-teach-a-productowner-apprentice-part-2
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=XF95kabzSeY
 aliases:
 - /resources/videos/XF95kabzSeY
@@ -41,9 +42,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube XF95kabzSeY >}} 
  #shorts #shortvideo #shortsvideo Martin Hinshelwood walks us through the 5 things he would teach an apprenticeship #productowner. This is part 2. To watch the full video, visit https://youtu.be/Tye_-FY7boo
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 

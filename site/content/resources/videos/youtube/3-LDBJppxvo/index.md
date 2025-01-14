@@ -23,6 +23,7 @@ tags:
 - Product Management
 resourceTypes:
 - video
+layout: video
 
 ---
 {{< youtube 3-LDBJppxvo >}}

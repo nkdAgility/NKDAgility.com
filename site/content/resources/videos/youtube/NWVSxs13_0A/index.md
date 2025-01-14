@@ -6,6 +6,7 @@ videoId: NWVSxs13_0A
 source: youtube
 url: /resources/videos/:slug
 slug: pal-in-40-minutes
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=NWVSxs13_0A
 aliases:
@@ -18,8 +19,9 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube NWVSxs13_0A >}} 
   
  [Watch on Youtube](https://www.youtube.com/watch?v=NWVSxs13_0A)

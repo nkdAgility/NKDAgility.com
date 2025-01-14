@@ -5,6 +5,7 @@ date: 2023-05-08T07:00:15Z
 videoId: spfK8bCulwU
 url: /resources/videos/:slug
 slug: why-do-you-think-the-advanced-pspo-course-is-a-perfect-fit-for-entrepreneurs-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=spfK8bCulwU
 aliases:
 - /resources/videos/spfK8bCulwU
@@ -28,9 +29,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube spfK8bCulwU >}} 
  A great #productowner is a game-changer in the organization because they help shape and articulate the product vision, mission, and goals. People like Steve Jobs who create and sustain a standard of #productdevelopment that captures the imagination of an entire generation.
 
 Everything that an entrepreneur needs to be, just on a smaller scale than Apple. So, how do you acquire the knowledge, skills, frameworks, and capabilities to be great at #productdevelopment and #productmanagement?

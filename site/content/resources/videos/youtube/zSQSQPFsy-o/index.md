@@ -6,6 +6,7 @@ videoId: zSQSQPFsy-o
 source: internal
 url: /resources/videos/:slug
 slug: why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
+layout: video
 preview: https://i.ytimg.com/vi/zSQSQPFsy-o/maxresdefault.jpg
 duration: 389
 isShort: false

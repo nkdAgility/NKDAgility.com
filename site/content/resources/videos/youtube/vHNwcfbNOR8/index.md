@@ -6,6 +6,7 @@ videoId: vHNwcfbNOR8
 source: internal
 url: /resources/videos/:slug
 slug: what-is-your-feeling-on-creating-agile-apprenticeships
+layout: video
 preview: https://i.ytimg.com/vi/vHNwcfbNOR8/maxresdefault.jpg
 duration: 251
 isShort: false

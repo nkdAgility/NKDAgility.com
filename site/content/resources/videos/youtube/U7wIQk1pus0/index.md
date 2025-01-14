@@ -5,6 +5,7 @@ date: 2014-01-14T17:18:19Z
 videoId: U7wIQk1pus0
 url: /resources/videos/:slug
 slug: install-tfs-2013-basic
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=U7wIQk1pus0
 aliases:
 - /resources/videos/U7wIQk1pus0
@@ -25,9 +26,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube U7wIQk1pus0 >}} 
  I have not done an installation from scratch for a while so I thought that I would share a TFS basic install. For all those that think that installing and configuring TFS is hard or complicated this is for you.
 
 My fan kicked on half way through, hence the hiss... I have ordered a microphone...

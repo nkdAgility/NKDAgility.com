@@ -5,6 +5,7 @@ date: 2017-07-28T11:55:30Z
 videoId: XMLdLH6f4N8
 url: /resources/videos/:slug
 slug: nkdagility-healthgrades-interview-katherine-maddox
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=XMLdLH6f4N8
 aliases:
 - /resources/videos/XMLdLH6f4N8
@@ -25,9 +26,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube XMLdLH6f4N8 >}} 
  When you are teaching over 150 people at an organisation it is important that your Trainer fits with the culture that you are trying to create. 
 
 See what Katherine, Healthgrades lead Scrum Master, has to say about the training and the trainer. 

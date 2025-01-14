@@ -5,6 +5,7 @@ date: 2020-04-07T20:33:45Z
 videoId: iCDEX6oHy7A
 url: /resources/videos/:slug
 slug: ep-004-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=iCDEX6oHy7A
 aliases:
 - /resources/videos/iCDEX6oHy7A
@@ -23,9 +24,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube iCDEX6oHy7A >}} 
  Jim is a Professional Scrum Trainer and an active Agile consultant at Loop Agility. We will be chatting about professionalism and conflicting priorities at 20:00 on the 7th April 2020
 
 Guest Jim Sammons: https://www.scrum.org/jim-sammons

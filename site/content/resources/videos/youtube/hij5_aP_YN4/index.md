@@ -6,6 +6,7 @@ videoId: hij5_aP_YN4
 source: internal
 url: /resources/videos/:slug
 slug: the-power-of-community-becoming-an-awesome-agile-coach
+layout: video
 preview: https://i.ytimg.com/vi/hij5_aP_YN4/maxresdefault.jpg
 duration: 55
 isShort: true

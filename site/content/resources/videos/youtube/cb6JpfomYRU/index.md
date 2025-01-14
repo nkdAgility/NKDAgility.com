@@ -5,6 +5,7 @@ date: 2023-07-13T07:41:01Z
 videoId: cb6JpfomYRU
 url: /resources/videos/:slug
 slug: how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=cb6JpfomYRU
 aliases:
 - /resources/videos/cb6JpfomYRU
@@ -27,9 +28,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube cb6JpfomYRU >}} 
  The immersive learning experiences were developed to help raise the standard of a #scrummaster entering the industry, and to provide additional value for organizations that wanted to really upskill their teams.
 
 In this short video, Kanban Dan talks about the competitive advantage you can achieve through the immersive learning 7-week Professional Scrum Master course when compared to a 2-day workshop.

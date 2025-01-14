@@ -6,6 +6,7 @@ videoId: EfogGslFkBQ
 source: internal
 url: /resources/videos/:slug
 slug: avoiding-agile-banditry-why-story-points-and-velocity-are-misleading-metrics
+layout: video
 preview: https://i.ytimg.com/vi/EfogGslFkBQ/maxresdefault.jpg
 duration: 293
 isShort: false

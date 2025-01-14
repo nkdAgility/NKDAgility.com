@@ -24,6 +24,7 @@ tags:
 - Scrum Team
 resourceTypes:
 - video
+layout: video
 
 ---
 {{< youtube -xMY9Heanjk >}}

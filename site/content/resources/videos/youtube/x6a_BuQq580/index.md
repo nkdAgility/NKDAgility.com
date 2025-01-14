@@ -5,6 +5,7 @@ date: 2024-11-07T05:45:02Z
 videoId: x6a_BuQq580
 url: /resources/videos/:slug
 slug: devops-migration-incomplete-migrations
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=x6a_BuQq580
 aliases:
 - /resources/videos/x6a_BuQq580
@@ -25,9 +26,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube x6a_BuQq580 >}} 
  In this video, I address a common concern in Azure DevOps migrations: the fear of incomplete migrations and data loss. With experience in hundreds of migrations using Microsoft’s database import tool, I can confidently say that data loss is extremely rare, and any limitations or adjustments are fully manageable with the right preparation.
 
 We’ll discuss factors like attachment sizes, performance limits, and how to manage these constraints when moving to the cloud. Microsoft provides robust tools to help identify potential issues ahead of time, so you can plan effectively and avoid any unexpected surprises.

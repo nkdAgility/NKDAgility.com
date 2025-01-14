@@ -6,6 +6,7 @@ videoId: gYM5X2MnVBY
 source: youtube
 url: /resources/videos/:slug
 slug: broken-the-7-deadly-sins-of-agile!
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=gYM5X2MnVBY
 aliases:
@@ -18,9 +19,10 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube gYM5X2MnVBY >}} 
  Fixed Video: https://youtu.be/5RJpAeKMRzs
 
 This video unravels the complex challenges of implementing an agile philosophy within organizations. Through a deep dive into the "Seven Deadly Sins of Agile," I share personal insights and experiences to guide you away from common pitfalls and towards a more effective and genuinely agile approach. From lust for quick fixes to the pride that blinds, we'll explore how these sins can derail your agile journey and what you can do to stay on the right path.

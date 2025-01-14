@@ -5,6 +5,7 @@ date: 2023-12-11T11:00:47Z
 videoId: tPkqqaIbCtY
 url: /resources/videos/:slug
 slug: -shorts-7-virtues-of-agile-kindness
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=tPkqqaIbCtY
 aliases:
 - /resources/videos/tPkqqaIbCtY
@@ -41,9 +42,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube tPkqqaIbCtY >}} 
  #shorts #shortsvideo #shortvideo 7 virtues of #agile. Kindness #agile #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #projectmanagement #projectmanager #productdevelopment #developer #productmanager #productmanagement 
 
 Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 

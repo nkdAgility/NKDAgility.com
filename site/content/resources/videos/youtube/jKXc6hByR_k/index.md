@@ -6,6 +6,7 @@ videoId: jKXc6hByR_k
 source: youtube
 url: /resources/videos/:slug
 slug: your-partner-in-on-time,-on-budget-delivery
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=jKXc6hByR_k
 aliases:
 - /resources/videos/jKXc6hByR_k
@@ -34,9 +35,10 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube jKXc6hByR_k >}} 
  Building High-Value Teams and Maximizing ROI with Naked Agility | Martin Hinshelwood
 
 👋 Hi, I’m Martin Hinshelwood from NKD Agility, and in this video, I explore how organizations can maximize their return on investment (ROI) by fostering high-quality work and hypothesis-driven practices across all levels—from engineering teams to executive leadership. If you’re looking to turn your software products into organizational assets that continuously deliver value, this video is for you.

@@ -6,6 +6,7 @@ videoId: Cgy1ccX7e7Y
 source: internal
 url: /resources/videos/:slug
 slug: what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client
+layout: video
 preview: https://i.ytimg.com/vi/Cgy1ccX7e7Y/maxresdefault.jpg
 duration: 389
 isShort: false

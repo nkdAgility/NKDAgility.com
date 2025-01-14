@@ -6,6 +6,7 @@ videoId: vBz2aWiNvAQ
 source: youtube
 url: /resources/videos/:slug
 slug: free-workshop-4-introduction-to-the-sprint-review!
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=vBz2aWiNvAQ
 aliases:
@@ -18,9 +19,10 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube vBz2aWiNvAQ >}} 
  This is a Free Live Virtual 90m "How to run a Sprint Review" from Martin Hinshelwood.
 The purpose of the Sprint Review is to figure out what to do next based on what has changed since the last one. Are you getting the feedback that you need? Come and see a recipe for a Sprint Review that might be a good starting place.
 

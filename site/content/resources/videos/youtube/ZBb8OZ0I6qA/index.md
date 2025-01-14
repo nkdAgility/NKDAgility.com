@@ -5,6 +5,7 @@ date: 2024-03-26T10:56:26Z
 videoId: ZBb8OZ0I6qA
 url: /resources/videos/:slug
 slug: why-its-imposible-to-order-a-hierarchy,-and-what-you-can-do-instead!
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=ZBb8OZ0I6qA
 aliases:
 - /resources/videos/ZBb8OZ0I6qA
@@ -25,9 +26,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube ZBb8OZ0I6qA >}} 
  Discover how to revolutionize your project management approach by ditching traditional backlog hierarchies for a more flexible, value-focused system.
 
 *Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility

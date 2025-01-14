@@ -43,6 +43,7 @@ tags:
 - leadership.
 resourceTypes:
 - video
+layout: video
 
 ---
 {{< youtube 3S0zghhDPwc >}}

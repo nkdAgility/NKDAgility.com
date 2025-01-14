@@ -5,6 +5,7 @@ date: 2019-10-17T19:16:03Z
 videoId: RCJsST0xBCE
 url: /resources/videos/:slug
 slug: mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=RCJsST0xBCE
 aliases:
 - /resources/videos/RCJsST0xBCE
@@ -20,9 +21,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube RCJsST0xBCE >}} 
  Check out the latest version: https://youtu.be/Qt1Ywu_KLrc
 
 Unlock the potential of Azure DevOps migration tools with this comprehensive tutorial! We dive deep into features, functionalities, and efficient practices. 

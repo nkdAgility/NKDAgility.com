@@ -6,6 +6,7 @@ videoId: Iy33x8E9JMQ
 source: internal
 url: /resources/videos/:slug
 slug: dogma-versus-empiricism-in-a-consulting-engagement
+layout: video
 preview: https://i.ytimg.com/vi/Iy33x8E9JMQ/maxresdefault.jpg
 duration: 48
 isShort: true

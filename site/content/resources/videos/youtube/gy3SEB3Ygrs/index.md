@@ -6,6 +6,7 @@ videoId: gy3SEB3Ygrs
 source: youtube
 url: /resources/videos/:slug
 slug: naked-agility-with-martin-hinshelwood-live-stream
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=gy3SEB3Ygrs
 aliases:
@@ -18,8 +19,9 @@ isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube gy3SEB3Ygrs >}} 
   
  [Watch on Youtube](https://www.youtube.com/watch?v=gy3SEB3Ygrs)

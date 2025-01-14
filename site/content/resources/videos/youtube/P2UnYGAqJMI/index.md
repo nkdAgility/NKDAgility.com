@@ -6,6 +6,7 @@ videoId: P2UnYGAqJMI
 source: internal
 url: /resources/videos/:slug
 slug: the-pitfalls-of-agile-burndowns-stop-being-agile-bandits
+layout: video
 preview: https://i.ytimg.com/vi/P2UnYGAqJMI/maxresdefault.jpg
 duration: 46
 isShort: true

@@ -5,6 +5,7 @@ date: 2023-10-27T14:30:10Z
 videoId: JGQ5zW6F6Uc
 url: /resources/videos/:slug
 slug: 3-steps-developers-must-follow-if-the-product-owner-is-incompetent
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=JGQ5zW6F6Uc
 aliases:
 - /resources/videos/JGQ5zW6F6Uc
@@ -41,9 +42,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube JGQ5zW6F6Uc >}} 
  Facing challenges with an ineffective product owner? Learn how the Scrum Master and team can navigate this situation. Dive into the intricacies of organizational politics, communication, and role allocation. 🌟
 
 *Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility

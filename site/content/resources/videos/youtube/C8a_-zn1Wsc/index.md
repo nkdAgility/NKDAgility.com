@@ -6,6 +6,7 @@ videoId: C8a_-zn1Wsc
 source: internal
 url: /resources/videos/:slug
 slug: unlocking-the-power-of-immersive-learning-in-agile-overcoming-cognitive-bias
+layout: video
 preview: https://i.ytimg.com/vi/C8a_-zn1Wsc/maxresdefault.jpg
 duration: 48
 isShort: true

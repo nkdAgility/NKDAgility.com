@@ -6,6 +6,7 @@ videoId: d0mG3YakfFQ
 source: youtube
 url: /resources/videos/:slug
 slug: how-to-make-a-mobile-paper-prototype-youtube
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=d0mG3YakfFQ
 aliases:
@@ -18,8 +19,9 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube d0mG3YakfFQ >}} 
   
  [Watch on Youtube](https://www.youtube.com/watch?v=d0mG3YakfFQ)

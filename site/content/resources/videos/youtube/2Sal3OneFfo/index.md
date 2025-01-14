@@ -24,8 +24,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+layout: video
+resourceTypes:
+- video
 
 ---
-{{< youtube 2Sal3OneFfo >}} 
  DevOps Migration Services from NKD Agility. #azure #azuredevops #devopsmigration #devopsconsulting #devopsconsultant #devopscoach #devopstraining #migration #agile #productdevelopment #productmanagement #projectmanagement #informationtechnology 
  [Watch on Youtube](https://www.youtube.com/watch?v=2Sal3OneFfo)

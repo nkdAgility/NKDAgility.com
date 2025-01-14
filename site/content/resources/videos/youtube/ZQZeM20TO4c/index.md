@@ -6,6 +6,7 @@ videoId: ZQZeM20TO4c
 source: internal
 url: /resources/videos/:slug
 slug: agile-leader-versus-traditional-manager
+layout: video
 preview: https://i.ytimg.com/vi/ZQZeM20TO4c/maxresdefault.jpg
 duration: 69
 isShort: false

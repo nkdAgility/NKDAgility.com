@@ -18,9 +18,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+layout: video
+resourceTypes:
+- video
 
 ---
-{{< youtube 6SSgETsq8IQ >}} 
  The Professional Scrum Product Owner is a hands-on, activity-based course where students explore Professional Scrum and develop an understanding of the Product Owner’s critical role on the Scrum Team. Being a professional Product Owner encompasses more than writing requirements or managing a Product Backlog. Product Owners need to have a concrete understanding of all product management aspects, including but not limited to product ownership, that drives value from their products.
 
 Being a Product Owner is a key position that sets the tone for product leadership and the definition of success in the organization. As a Product Owner, modern product management practices and mindsets are expected to be put into practice daily. The Product Owner is accountable for and has the authority to maximize the value of the product and the effectiveness of the Product Backlog.

@@ -30,6 +30,7 @@ tags:
 - Leadership essentials
 resourceTypes:
 - video
+layout: video
 
 ---
 {{< youtube 7R9_bYOswhk >}}

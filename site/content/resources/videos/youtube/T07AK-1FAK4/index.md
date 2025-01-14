@@ -5,6 +5,7 @@ date: 2023-11-07T07:36:21Z
 videoId: T07AK-1FAK4
 url: /resources/videos/:slug
 slug: 7-signs-of-the-agile-apocalypse-the-antichrist
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=T07AK-1FAK4
 aliases:
 - /resources/videos/T07AK-1FAK4
@@ -41,9 +42,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube T07AK-1FAK4 >}} 
  #shorts #shortsvideo #shortvideo In the context of the #agile industry, the anti-christ represents fake experts who sell snake oil and hype up customer expectations. In this short video, Martin Hinshelwood explains why they are a sign of the #agile apocalypse.
 
 About NKD Agility

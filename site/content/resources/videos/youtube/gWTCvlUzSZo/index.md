@@ -5,6 +5,7 @@ date: 2023-09-21T07:00:14Z
 videoId: gWTCvlUzSZo
 url: /resources/videos/:slug
 slug: 5-tools-that-scrum-masters-love-part-3
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=gWTCvlUzSZo
 aliases:
 - /resources/videos/gWTCvlUzSZo
@@ -18,9 +19,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube gWTCvlUzSZo >}} 
  Dive into the importance of good cameras for Scrum Masters! Enhance team engagement and read body language effectively. 🎥 #scrum #scrummaster #scrumorg
 
 *Enjoy this video? Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility

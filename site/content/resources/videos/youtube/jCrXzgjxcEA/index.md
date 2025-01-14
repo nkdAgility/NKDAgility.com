@@ -5,6 +5,7 @@ date: 2024-03-29T16:42:17Z
 videoId: jCrXzgjxcEA
 url: /resources/videos/:slug
 slug: kanban-with-azure-devops
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=jCrXzgjxcEA
 aliases:
 - /resources/videos/jCrXzgjxcEA
@@ -23,9 +24,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube jCrXzgjxcEA >}} 
  Unlocking Kanban's Full Potential with Azure DevOps: A Deep Dive - Discover how Azure DevOps transforms Kanban for hybrid work environments, enhancing visualization, collaboration, and workflow efficiency.
 
 Enjoy this video? 🔔 Like and subscribe to our channel: https://www.youtube.com/@nakedAgility

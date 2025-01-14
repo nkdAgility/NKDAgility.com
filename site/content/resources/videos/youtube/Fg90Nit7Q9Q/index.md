@@ -6,6 +6,7 @@ videoId: Fg90Nit7Q9Q
 source: internal
 url: /resources/videos/:slug
 slug: can-you-align-devops-and-software-engineering-teams-through-scrum
+layout: video
 preview: https://i.ytimg.com/vi/Fg90Nit7Q9Q/maxresdefault.jpg
 duration: 36
 isShort: true

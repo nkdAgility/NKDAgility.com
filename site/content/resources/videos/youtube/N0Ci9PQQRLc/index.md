@@ -5,6 +5,7 @@ date: 2023-01-20T07:00:08Z
 videoId: N0Ci9PQQRLc
 url: /resources/videos/:slug
 slug: how-does-your-real-world-experience-translate-into-your-training-style-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=N0Ci9PQQRLc
 aliases:
 - /resources/videos/N0Ci9PQQRLc
@@ -24,9 +25,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube N0Ci9PQQRLc >}} 
  #scrum is defined as easy to understand, yet incredibly difficult to master by the co-creators of #scrum. The #scrumguide is less than 20 pages long and so you could move through the theory in a couple of hours, at most.
 
 So, if it's incredibly easy to understand and you're able to flick through the guide in less than 60 minutes, why do we have intensive #scrummaster, #productowner, and #agilecoach training? Why does it take people years to master #scrum and become an effective #agilecoach or #agileconsultant?

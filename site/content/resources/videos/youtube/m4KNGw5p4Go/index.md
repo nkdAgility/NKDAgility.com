@@ -6,6 +6,7 @@ videoId: m4KNGw5p4Go
 source: internal
 url: /resources/videos/:slug
 slug: transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
+layout: video
 preview: https://i.ytimg.com/vi/m4KNGw5p4Go/maxresdefault.jpg
 duration: 269
 isShort: false

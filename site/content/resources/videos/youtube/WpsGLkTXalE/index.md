@@ -5,6 +5,7 @@ date: 2023-11-10T06:45:01Z
 videoId: WpsGLkTXalE
 url: /resources/videos/:slug
 slug: 7-signs-of-the-agile-apocalypse-silence
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=WpsGLkTXalE
 aliases:
 - /resources/videos/WpsGLkTXalE
@@ -41,9 +42,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube WpsGLkTXalE >}} 
  #shorts #shortsvideo #shortvideo Stillness is key to great work. The ability to reflect, do the deep work, and remain calm is a super power. That said, in the realms of #agile, Silence can be harbinger of disaster. Martin Hinshelwood explains why.
 
 About NKD Agility

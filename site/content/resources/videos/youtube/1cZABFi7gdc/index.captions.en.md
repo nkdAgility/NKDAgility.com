@@ -1,0 +1,3 @@
+If you're hiring an agile coach, make sure you take a look at their track record. What have they done in the past? What organisations have they worked with? Is it within the same context that you're in? Is it the same scale that you're in? Do they have references? Is there somebody you can go speak to that they've worked with in the past that can tell you about how they do the things that they do? 
+
+So, in order to maximise your ability to move towards a greater degree of agility, you need a coach with experience.

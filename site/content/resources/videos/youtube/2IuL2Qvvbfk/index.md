@@ -26,6 +26,7 @@ tags:
 - Agile Product Development
 resourceTypes:
 - video
+layout: video
 
 ---
 {{< youtube 2IuL2Qvvbfk >}}

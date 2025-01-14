@@ -6,6 +6,7 @@ videoId: FquWl26Uc8Y
 source: youtube
 url: /resources/videos/:slug
 slug: bad-code-isn't-technical-debt-it's-incompetence
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=FquWl26Uc8Y
 aliases:
 - /resources/videos/FquWl26Uc8Y
@@ -28,8 +29,9 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube FquWl26Uc8Y >}} 
  Bad code isn't #technicaldebt, it's incompetence. https://www.nkdagility.com 
  [Watch on Youtube](https://www.youtube.com/watch?v=FquWl26Uc8Y)

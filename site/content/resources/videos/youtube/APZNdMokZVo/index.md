@@ -5,6 +5,7 @@ date: 2023-11-13T06:56:47Z
 videoId: APZNdMokZVo
 url: /resources/videos/:slug
 slug: what-is-a-definition-of-done-why-is-it-so-important-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=APZNdMokZVo
 aliases:
 - /resources/videos/APZNdMokZVo
@@ -41,9 +42,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube APZNdMokZVo >}} 
  Unlocking the Power of Definition of Done in Scrum: A Deep Dive
 
 Dive deep into the essence of the 'Definition of Done' in Scrum and its pivotal role in Agile frameworks. Discover how it shapes product quality and risk mitigation in project management. 

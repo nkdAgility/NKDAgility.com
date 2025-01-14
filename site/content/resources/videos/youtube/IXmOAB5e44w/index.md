@@ -5,6 +5,7 @@ date: 2023-06-15T07:00:06Z
 videoId: IXmOAB5e44w
 url: /resources/videos/:slug
 slug: referral-program-20-of-the-course-fee-credited-to-your-account-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=IXmOAB5e44w
 aliases:
 - /resources/videos/IXmOAB5e44w
@@ -23,9 +24,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube IXmOAB5e44w >}} 
  We're blessed to have so many people coming through our NKD Agility doors because of a referral, and we deeply value and appreciate those referrals.
 
 So much so, that we've created a referral program that benefits both you and the person you are referring to the tune of 20% of the course fee. That's right, 20%

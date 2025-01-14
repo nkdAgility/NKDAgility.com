@@ -21,9 +21,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+layout: video
+resourceTypes:
+- video
 
 ---
-{{< youtube 2tlzlsgovy0 >}} 
  Visit https://www.nkdagility.com Is your team truly Agile? Do your team members clearly understand the product vision and how their daily work contributes to your strategic goals? 🎯
 
 In this video, we dive deep into the importance of aligning your team with a clear product vision and strategic goals. We'll discuss:

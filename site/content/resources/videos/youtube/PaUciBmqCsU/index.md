@@ -6,6 +6,7 @@ videoId: PaUciBmqCsU
 source: internal
 url: /resources/videos/:slug
 slug: understanding-the-power-of-kanban-in-scrum
+layout: video
 preview: https://i.ytimg.com/vi/PaUciBmqCsU/maxresdefault.jpg
 duration: 50
 isShort: true

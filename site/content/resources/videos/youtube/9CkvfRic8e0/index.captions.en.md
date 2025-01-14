@@ -1,0 +1,9 @@
+I'm going to configure release management to use a new Team Foundation server. So I'm going to go ahead and open the release management client. I'm going to head over to the administration tab, and on here I've got a manage TFS options. Let me go in there. 
+
+So you can see we already have the Faber cam fiber collection added. I'm going to add the Tail Spin Toys one. So if I click new, I can just put in the name of the server here, or I can put the full URL. You'll see that it kind of builds the URL down at the bottom; you can see at the top as well. I'm going to put the collection name in, which is Tail Spin Toys collection. 
+
+And you'll see here I've got the default path and port number, and this is just all on the default setup, and it's local to this box, so I shouldn't have any communication issues. However, if I hit the verify button, you'll see I get a common error message box pops up, and this box gives you possible reasons for the communication problem. One is you filled it out correctly, or the TFS server is unavailable, and the other one is that the password is incorrect, which is the case here. 
+
+I have no connect as account name and password in, so I need to go over here and I need to fill out my user. Let me just check name; there we go, and my password, and click verify. Now, if that still doesn't work and you don't get a green tick, you might want to check obvious things like the spelling of your server and collection name and whether you can access those things. 
+
+The easiest way to do that is to copy this URL, open it up in a browser, paste it in, and see if you can actually access it on that URL. Indeed, it can be much easier to get access to it than just copying it off, and I can make it easier. So now that we have that, I can hit save and close, and I now have two active TFS connections.

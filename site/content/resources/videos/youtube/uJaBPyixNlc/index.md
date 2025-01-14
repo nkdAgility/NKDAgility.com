@@ -6,6 +6,7 @@ videoId: uJaBPyixNlc
 source: internal
 url: /resources/videos/:slug
 slug: how-does-naked-agility-select-associate-scrum-trainers
+layout: video
 preview: https://i.ytimg.com/vi/uJaBPyixNlc/maxresdefault.jpg
 duration: 270
 isShort: false

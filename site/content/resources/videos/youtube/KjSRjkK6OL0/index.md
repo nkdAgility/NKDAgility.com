@@ -6,6 +6,7 @@ videoId: KjSRjkK6OL0
 source: internal
 url: /resources/videos/:slug
 slug: what-does-an-ineffective-scrum-master-s-day-look-like
+layout: video
 preview: https://i.ytimg.com/vi/KjSRjkK6OL0/maxresdefault.jpg
 duration: 45
 isShort: true

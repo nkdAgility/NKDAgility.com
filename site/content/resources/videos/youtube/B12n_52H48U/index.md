@@ -6,6 +6,7 @@ videoId: B12n_52H48U
 source: internal
 url: /resources/videos/:slug
 slug: how-do-you-decide-whether-to-pivot-or-stay-the-course-nokia-story
+layout: video
 preview: https://i.ytimg.com/vi/B12n_52H48U/maxresdefault.jpg
 duration: 313
 isShort: false

@@ -23,6 +23,7 @@ tags:
 - Competence
 resourceTypes:
 - video
+layout: video
 
 ---
 {{< youtube 4zGsmQFWFpo >}}

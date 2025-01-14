@@ -6,6 +6,7 @@ videoId: S4zWfPiLAmc
 source: internal
 url: /resources/videos/:slug
 slug: 3-best-ways-to-wreck-kanban-use-vanity-metrics
+layout: video
 preview: https://i.ytimg.com/vi/S4zWfPiLAmc/maxresdefault.jpg
 duration: 226
 isShort: false

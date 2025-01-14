@@ -1,0 +1,3 @@
+We need to focus on building a culture of engineering excellence. The technical leadership must set that direction and go in that direction. We need to build within our organisation the knowledge and understanding of the theories behind the reasons things work the way they work, and how we can then apply our empirical learnings within our context. 
+
+Every organisation is different, and with the knowledge of those theories, we can then extrapolate what the next best decision is that we can make.

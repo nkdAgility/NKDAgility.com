@@ -6,6 +6,7 @@ videoId: ARWK1wvXYGY
 source: youtube
 url: /resources/videos/:slug
 slug: ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=ARWK1wvXYGY
 aliases:
@@ -18,9 +19,10 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube ARWK1wvXYGY >}} 
  Bring your questions on any topic from DevOps to Agility and Martin will do his best to answer them. Martin is a Professional Scrum Trainer with Scrum.org and a Microsoft MVP in Azure DevOps. Ask him anything!
 
 If you have a sensitive question that you want answered but don’t want to ask publicly do so on https://nkdagility.net/ask 

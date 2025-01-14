@@ -6,6 +6,7 @@ videoId: atV8TIupSsg
 source: youtube
 url: /resources/videos/:slug
 slug: live-virtual-pal-on-27-–-30-july-,-2020-in-cest
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=atV8TIupSsg
 aliases:
@@ -24,9 +25,10 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube atV8TIupSsg >}} 
  This Professional Agile Leadership workshop is open to the public and delivered over 4 1/2 days from  27 – 30 July 2020 at:
 
 -0800-1130 BST

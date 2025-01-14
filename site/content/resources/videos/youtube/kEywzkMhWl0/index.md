@@ -6,6 +6,7 @@ videoId: kEywzkMhWl0
 source: internal
 url: /resources/videos/:slug
 slug: 1-critical-skill-for-a-scrum-master-and-why
+layout: video
 preview: https://i.ytimg.com/vi/kEywzkMhWl0/maxresdefault.jpg
 duration: 50
 isShort: true

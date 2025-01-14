@@ -5,6 +5,7 @@ date: 2024-05-06T13:29:40Z
 videoId: ZcMcVL7mNGU
 url: /resources/videos/:slug
 slug: product-management-mentor-program-final
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=ZcMcVL7mNGU
 aliases:
 - /resources/videos/ZcMcVL7mNGU
@@ -26,9 +27,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube ZcMcVL7mNGU >}} 
  #agile has come a long way since it's inception in 2001, and with that shift from #projectmanagement to #productdevelopment, #productmanagement has evolved significantly.
 
 In the beginning, a 2-day workshop was enough to help product managers make the shift to #agile and embed agile values, principles and practices in their approach to product development.

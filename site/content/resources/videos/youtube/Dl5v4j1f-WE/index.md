@@ -6,6 +6,7 @@ videoId: Dl5v4j1f-WE
 source: internal
 url: /resources/videos/:slug
 slug: how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-what-3-things-matter-most-to-you
+layout: video
 preview: https://i.ytimg.com/vi/Dl5v4j1f-WE/maxresdefault.jpg
 duration: 537
 isShort: false

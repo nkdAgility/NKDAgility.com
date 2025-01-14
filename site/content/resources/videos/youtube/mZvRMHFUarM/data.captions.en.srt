@@ -1,0 +1,285 @@
+1
+00:00:00,080 --> 00:00:07,280
+one of the big struggles within the
+
+2
+00:00:02,960 --> 00:00:11,000
+context of software projects is
+
+3
+00:00:07,280 --> 00:00:13,599
+estimation um most organizations try and
+
+4
+00:00:11,000 --> 00:00:16,960
+do some form of estimation either
+
+5
+00:00:13,599 --> 00:00:19,800
+they're using um absolute estimation so
+
+6
+00:00:16,960 --> 00:00:22,160
+we're we're talking errors here um or
+
+7
+00:00:19,800 --> 00:00:25,039
+they're using some kind kind of relative
+
+8
+00:00:22,160 --> 00:00:28,039
+estimation tool it's really difficult
+
+9
+00:00:25,039 --> 00:00:31,720
+because we feel like we need estimates
+
+10
+00:00:28,039 --> 00:00:32,800
+to understand what we're going to do we
+
+11
+00:00:31,720 --> 00:00:34,399
+actually
+
+12
+00:00:32,800 --> 00:00:37,200
+don't
+
+13
+00:00:34,399 --> 00:00:41,600
+but what we do
+
+14
+00:00:37,200 --> 00:00:45,199
+need is the ability to forecast out into
+
+15
+00:00:41,600 --> 00:00:49,320
+the future with some kind of probability
+
+16
+00:00:45,199 --> 00:00:52,440
+right so the the
+
+17
+00:00:49,320 --> 00:00:54,239
+the when we're talking about software
+
+18
+00:00:52,440 --> 00:00:56,680
+delivery where we have really high
+
+19
+00:00:54,239 --> 00:00:59,440
+variance it's still really difficult
+
+20
+00:00:56,680 --> 00:01:01,680
+there is there is no tool when you have
+
+21
+00:00:59,440 --> 00:01:05,640
+more than 50%
+
+22
+00:01:01,680 --> 00:01:08,960
+unknown that you can use to accurately
+
+23
+00:01:05,640 --> 00:01:12,080
+predict the future right accuracy is is
+
+24
+00:01:08,960 --> 00:01:14,640
+not a thing you can have so what's the
+
+25
+00:01:12,080 --> 00:01:17,360
+best we can get right we want to be
+
+26
+00:01:14,640 --> 00:01:18,880
+looking at probabil abilities and
+
+27
+00:01:17,360 --> 00:01:23,960
+probabilistic
+
+28
+00:01:18,880 --> 00:01:25,439
+forecasting so what we tend to do is use
+
+29
+00:01:23,960 --> 00:01:28,520
+some kind of
+
+30
+00:01:25,439 --> 00:01:30,759
+forecasting simulation tool to look
+
+31
+00:01:28,520 --> 00:01:33,600
+forward into the future based B on what
+
+32
+00:01:30,759 --> 00:01:36,680
+actually happened so we're never
+
+33
+00:01:33,600 --> 00:01:40,000
+actually effectively estimating an
+
+34
+00:01:36,680 --> 00:01:42,759
+individual item within our backlog we're
+
+35
+00:01:40,000 --> 00:01:45,000
+just saying that we can deliver let's
+
+36
+00:01:42,759 --> 00:01:48,040
+say in the next 30 days we'll deliver
+
+37
+00:01:45,000 --> 00:01:50,600
+another 50 items with a with a
+
+38
+00:01:48,040 --> 00:01:52,880
+85% likelihood that that's going to
+
+39
+00:01:50,600 --> 00:01:56,479
+happen that leaves wiggle room for
+
+40
+00:01:52,880 --> 00:01:58,880
+things not happening the way you think
+
+41
+00:01:56,479 --> 00:02:00,840
+and it doesn't require the people on
+
+42
+00:01:58,880 --> 00:02:04,360
+your teams to spend spend a significant
+
+43
+00:02:00,840 --> 00:02:07,520
+amount of time estimating it doesn't
+
+44
+00:02:04,360 --> 00:02:09,640
+require any actual numbers to come out
+
+45
+00:02:07,520 --> 00:02:13,160
+of the team it still
+
+46
+00:02:09,640 --> 00:02:16,760
+requires the people doing the work to
+
+47
+00:02:13,160 --> 00:02:19,720
+analyze the work and break it down into
+
+48
+00:02:16,760 --> 00:02:22,680
+smaller chunks right that's reducing the
+
+49
+00:02:19,720 --> 00:02:24,720
+batch size of each individual item that
+
+50
+00:02:22,680 --> 00:02:27,040
+is still required that is something you
+
+51
+00:02:24,720 --> 00:02:28,879
+want to spend time on because it builds
+
+52
+00:02:27,040 --> 00:02:30,440
+understanding within the context of what
+
+53
+00:02:28,879 --> 00:02:31,720
+it is that we're delivering in right we
+
+54
+00:02:30,440 --> 00:02:35,200
+want to understand the thing we're
+
+55
+00:02:31,720 --> 00:02:37,400
+delivering and that understanding is the
+
+56
+00:02:35,200 --> 00:02:42,280
+main
+
+57
+00:02:37,400 --> 00:02:48,080
+impactor of our ability to execute on
+
+58
+00:02:42,280 --> 00:02:50,159
+those things so in in this new new world
+
+59
+00:02:48,080 --> 00:02:52,319
+there isn't really estimation but we
+
+60
+00:02:50,159 --> 00:02:55,159
+still have confidence and we put an
+
+61
+00:02:52,319 --> 00:02:57,519
+actual probability on our confidence I
+
+62
+00:02:55,159 --> 00:03:00,519
+usually encourage teams and departments
+
+63
+00:02:57,519 --> 00:03:04,920
+and organizations to look at about an
+
+64
+00:03:00,519 --> 00:03:08,200
+85% confidence level um being that what
+
+65
+00:03:04,920 --> 00:03:10,920
+70% of all startups fail so probably
+
+66
+00:03:08,200 --> 00:03:13,599
+relates a little bit to 70% of all ideas
+
+67
+00:03:10,920 --> 00:03:14,879
+are going to be unsuccessful right so
+
+68
+00:03:13,599 --> 00:03:16,760
+what's your confidence level of being
+
+69
+00:03:14,879 --> 00:03:19,400
+able to deliver as long as it's higher
+
+70
+00:03:16,760 --> 00:03:22,599
+than 70% it's probably a good bet and we
+
+71
+00:03:19,400 --> 00:03:22,599
+can figure it out from there
+
+

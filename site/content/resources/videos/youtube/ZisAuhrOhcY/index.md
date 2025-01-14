@@ -6,6 +6,7 @@ videoId: ZisAuhrOhcY
 source: internal
 url: /resources/videos/:slug
 slug: my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
+layout: video
 preview: https://i.ytimg.com/vi/ZisAuhrOhcY/maxresdefault.jpg
 duration: 321
 isShort: false

@@ -5,6 +5,7 @@ date: 2017-07-27T19:14:11Z
 videoId: F8a6gtXxLe0
 url: /resources/videos/:slug
 slug: nkdagility-healthgrades-interview-dave-frisch
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=F8a6gtXxLe0
 aliases:
 - /resources/videos/F8a6gtXxLe0
@@ -24,8 +25,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube F8a6gtXxLe0 >}} 
  I trained over 150 people at Healthgrades and not everyone liked the idea at the beginning. Dave was very opposed to training everyone, so opposed that he took the organised out to dinner to try and get both his team, and himself, out of it. See how he got on... 
  [Watch on Youtube](https://www.youtube.com/watch?v=F8a6gtXxLe0)

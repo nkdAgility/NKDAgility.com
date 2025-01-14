@@ -6,6 +6,7 @@ videoId: UOzrABhafx0
 source: internal
 url: /resources/videos/:slug
 slug: mastering-product-backlog-management-insights-from-the-new-scrum-org-course
+layout: video
 preview: https://i.ytimg.com/vi/UOzrABhafx0/maxresdefault.jpg
 duration: 114
 isShort: false

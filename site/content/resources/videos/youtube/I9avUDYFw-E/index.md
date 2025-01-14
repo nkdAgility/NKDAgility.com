@@ -6,6 +6,7 @@ videoId: I9avUDYFw-E
 source: internal
 url: /resources/videos/:slug
 slug: the-importance-of-competence-in-organizations-building-a-culture-of-learning-and-growth
+layout: video
 preview: https://i.ytimg.com/vi/I9avUDYFw-E/maxresdefault.jpg
 duration: 112
 isShort: false

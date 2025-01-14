@@ -6,6 +6,7 @@ videoId: RzWFeLfSnP0
 source: youtube
 url: /resources/videos/:slug
 slug: why-is-done-so-important-in-the-reporting-&-data-space-
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=RzWFeLfSnP0
 aliases:
@@ -18,9 +19,10 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube RzWFeLfSnP0 >}} 
  Why is done so important in the Reporting & Data Space?
 
 With Mark Noneman - Mark focuses on helping organisations apply lean and agile principals and practices to improve quality, increase productivity and deliver value faster. 

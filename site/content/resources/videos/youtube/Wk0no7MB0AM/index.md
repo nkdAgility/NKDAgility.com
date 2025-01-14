@@ -5,6 +5,7 @@ date: 2023-10-30T14:30:10Z
 videoId: Wk0no7MB0AM
 url: /resources/videos/:slug
 slug: war!-7-harbingers-agile-apocalypse-but-shorter!
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=Wk0no7MB0AM
 aliases:
 - /resources/videos/Wk0no7MB0AM
@@ -44,9 +45,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube Wk0no7MB0AM >}} 
  War is one of the seven signs of the Agile-pocolypse! ⚔️
 
 As an Agile expert, I'm passionate about helping teams to succeed. And that includes helping them to resolve conflict and create a positive and productive work environment.

@@ -5,6 +5,7 @@ date: 2023-04-04T07:00:16Z
 videoId: sKYVNHcf1jg
 url: /resources/videos/:slug
 slug: what-was-your-worst-day-as-an-agile-consultant-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=sKYVNHcf1jg
 aliases:
 - /resources/videos/sKYVNHcf1jg
@@ -24,9 +25,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube sKYVNHcf1jg >}} 
  #agileconsulting can be incredibly rewarding and fulfilling.
 
 You get to work with amazing clients and for the most part, you're the dreamweaver that empowers the team to successfully adopt #agile and rock with #productdevelopment.

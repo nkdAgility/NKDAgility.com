@@ -6,6 +6,7 @@ videoId: T-K7HC-ZGjM
 source: internal
 url: /resources/videos/:slug
 slug: what-is-a-sprint-backlog
+layout: video
 preview: https://i.ytimg.com/vi/T-K7HC-ZGjM/maxresdefault.jpg
 duration: 296
 isShort: false

@@ -6,6 +6,7 @@ videoId: DBa5_WhA68M
 source: internal
 url: /resources/videos/:slug
 slug: the-art-of-negotiation-for-product-owners-essential-skills-to-master
+layout: video
 preview: https://i.ytimg.com/vi/DBa5_WhA68M/maxresdefault.jpg
 duration: 330
 isShort: false

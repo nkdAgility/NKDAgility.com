@@ -5,6 +5,7 @@ date: 2023-11-28T11:00:49Z
 videoId: nY4tmtGKO6I
 url: /resources/videos/:slug
 slug: why-is-training-such-a-critical-element-in-a-scrummaster-journey-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=nY4tmtGKO6I
 aliases:
 - /resources/videos/nY4tmtGKO6I
@@ -41,9 +42,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube nY4tmtGKO6I >}} 
  People assume that the #scrummaster accountability is a junior, administrative role when in fact, it's a #leadership and #agilecoaching accountability that requires a deeply skilled, committed individual at the helm. This is a short extract from the video where Martin Hinshelwood talks about the importance of #scrumtraining for a Scrum Master. Watch the full video on https://youtu.be/U0h7N5xpAfY
 
 About NKD Agility

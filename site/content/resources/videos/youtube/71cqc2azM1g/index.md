@@ -18,9 +18,11 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+layout: video
+resourceTypes:
+- video
 
 ---
-{{< youtube 71cqc2azM1g >}} 
  🌟 Exclusive Webcast Highlight on https://www.youtube.com/@nakedAgility  🌟
 
 Dr. Joanna Płaskonka and Martin Hinshelwood dive deep into Product Ownership & Lean Product Development in this enlightening 18-minute journey. Witness two of the industry's leading experts unravel the complexities of the subject.

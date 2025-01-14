@@ -6,6 +6,7 @@ videoId: 8Fu6k2S1Iwo
 source: youtube
 url: /resources/videos/:slug
 slug: continuous-delivery
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=8Fu6k2S1Iwo
 aliases:
@@ -18,9 +19,10 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube 8Fu6k2S1Iwo >}} 
  Martin and Simon discuss the intricacies of Scrum and Continuous Delivery. They delve into practical scenarios, share insights, and provide actionable takeaways for teams looking to optimize their agile journey. 📘📈
 
 

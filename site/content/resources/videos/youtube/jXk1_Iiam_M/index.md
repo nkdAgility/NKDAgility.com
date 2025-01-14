@@ -6,6 +6,7 @@ videoId: jXk1_Iiam_M
 source: internal
 url: /resources/videos/:slug
 slug: the-power-of-immersive-learning-elevating-scrum-mastery-in-your-organization
+layout: video
 preview: https://i.ytimg.com/vi/jXk1_Iiam_M/maxresdefault.jpg
 duration: 331
 isShort: false

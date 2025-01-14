@@ -6,6 +6,7 @@ videoId: S3Xq6gCp7Hw
 source: internal
 url: /resources/videos/:slug
 slug: how-much-of-an-impact-can-a-strong-skilled-product-owner-have
+layout: video
 preview: https://i.ytimg.com/vi/S3Xq6gCp7Hw/maxresdefault.jpg
 duration: 353
 isShort: false

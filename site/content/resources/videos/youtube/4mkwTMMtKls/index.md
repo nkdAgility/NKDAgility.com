@@ -32,6 +32,7 @@ tags:
 - Product development
 resourceTypes:
 - video
+layout: video
 
 ---
 {{< youtube 4mkwTMMtKls >}}

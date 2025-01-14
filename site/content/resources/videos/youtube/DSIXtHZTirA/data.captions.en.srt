@@ -1,0 +1,1105 @@
+1
+00:00:00,080 --> 00:00:06,120
+if you want to be able to ensure that
+
+2
+00:00:02,600 --> 00:00:08,880
+your software performs well and creates
+
+3
+00:00:06,120 --> 00:00:11,639
+a great user experience you're going to
+
+4
+00:00:08,880 --> 00:00:14,120
+have to put in a lot of effort in making
+
+5
+00:00:11,639 --> 00:00:16,240
+that happen it is not going to M you're
+
+6
+00:00:14,120 --> 00:00:18,760
+not going to magically has have awesome
+
+7
+00:00:16,240 --> 00:00:21,600
+software with an awesome experience and
+
+8
+00:00:18,760 --> 00:00:24,080
+F and and fast and responsive without
+
+9
+00:00:21,600 --> 00:00:28,400
+actually putting in the effort to figure
+
+10
+00:00:24,080 --> 00:00:31,759
+out how to do that and performance
+
+11
+00:00:28,400 --> 00:00:34,079
+engineering has a huge impact on user
+
+12
+00:00:31,759 --> 00:00:38,239
+satisfaction and and the business goals
+
+13
+00:00:34,079 --> 00:00:40,360
+you're trying to achieve right without a
+
+14
+00:00:38,239 --> 00:00:44,320
+focus on performance engineering and
+
+15
+00:00:40,360 --> 00:00:46,440
+this is also shifting left right towards
+
+16
+00:00:44,320 --> 00:00:49,760
+where the the the the team is doing the
+
+17
+00:00:46,440 --> 00:00:52,960
+work without without that you're
+
+18
+00:00:49,760 --> 00:00:54,039
+not you're not going to be able to build
+
+19
+00:00:52,960 --> 00:00:56,359
+you're not going to be able to build a
+
+20
+00:00:54,039 --> 00:00:57,480
+product that suits your customers
+
+21
+00:00:56,359 --> 00:00:59,160
+customers are going to leave because it
+
+22
+00:00:57,480 --> 00:01:01,039
+doesn't perform well or customers are
+
+23
+00:00:59,160 --> 00:01:02,519
+going to leave because it doesn't do
+
+24
+00:01:01,039 --> 00:01:06,479
+what they need it to do or customers are
+
+25
+00:01:02,519 --> 00:01:09,159
+going to leave because it's it's it's
+
+26
+00:01:06,479 --> 00:01:12,000
+buggy and doesn't you're not getting
+
+27
+00:01:09,159 --> 00:01:15,159
+things there fast enough right so
+
+28
+00:01:12,000 --> 00:01:19,000
+performance engineering where we're
+
+29
+00:01:15,159 --> 00:01:21,759
+looking at how
+
+30
+00:01:19,000 --> 00:01:24,040
+quickly users are able to do things and
+
+31
+00:01:21,759 --> 00:01:26,600
+that some of that some of that could be
+
+32
+00:01:24,040 --> 00:01:29,920
+user experience based taking steps out
+
+33
+00:01:26,600 --> 00:01:32,280
+of the process and some of it can be
+
+34
+00:01:29,920 --> 00:01:36,759
+does the software actually function at
+
+35
+00:01:32,280 --> 00:01:39,640
+speed does it function at load and while
+
+36
+00:01:36,759 --> 00:01:43,759
+some of these things can be load and
+
+37
+00:01:39,640 --> 00:01:47,200
+stress tested um I'm going to quote um
+
+38
+00:01:43,759 --> 00:01:50,200
+one of my favorite product managers and
+
+39
+00:01:47,200 --> 00:01:51,159
+Brian Harry who said there's no place
+
+40
+00:01:50,200 --> 00:01:54,360
+like
+
+41
+00:01:51,159 --> 00:01:56,039
+production no matter how
+
+42
+00:01:54,360 --> 00:02:00,880
+much
+
+43
+00:01:56,039 --> 00:02:03,640
+testing you do prior to production
+
+44
+00:02:00,880 --> 00:02:07,079
+you're going to have problems that only
+
+45
+00:02:03,640 --> 00:02:10,239
+exist in production you you can't
+
+46
+00:02:07,079 --> 00:02:13,440
+simulate real users it's not possible
+
+47
+00:02:10,239 --> 00:02:16,560
+you can only uh synthetically simulate
+
+48
+00:02:13,440 --> 00:02:18,560
+users so no matter how much of that
+
+49
+00:02:16,560 --> 00:02:20,640
+stuff you do you're going to have
+
+50
+00:02:18,560 --> 00:02:23,319
+problems when you hit production they
+
+51
+00:02:20,640 --> 00:02:26,080
+can be performance problems they can be
+
+52
+00:02:23,319 --> 00:02:28,040
+the way people use it problems right the
+
+53
+00:02:26,080 --> 00:02:29,959
+order that people do things or the
+
+54
+00:02:28,040 --> 00:02:31,280
+amount they do this particular thing is
+
+55
+00:02:29,959 --> 00:02:33,959
+different from what we had in the
+
+56
+00:02:31,280 --> 00:02:35,760
+simulation and that's where you run into
+
+57
+00:02:33,959 --> 00:02:37,800
+a lot of your your your Major
+
+58
+00:02:35,760 --> 00:02:39,840
+Performance
+
+59
+00:02:37,800 --> 00:02:41,560
+problems
+
+60
+00:02:39,840 --> 00:02:45,440
+My
+
+61
+00:02:41,560 --> 00:02:48,640
+Philosophy is that we want to get into
+
+62
+00:02:45,440 --> 00:02:52,239
+production as quickly as possible so
+
+63
+00:02:48,640 --> 00:02:55,000
+that we can figure out the impact of the
+
+64
+00:02:52,239 --> 00:02:56,720
+changes that we've made
+
+65
+00:02:55,000 --> 00:03:00,360
+and
+
+66
+00:02:56,720 --> 00:03:04,000
+analyze the load and stress test
+
+67
+00:03:00,360 --> 00:03:07,200
+within the context of real usage real
+
+68
+00:03:04,000 --> 00:03:10,799
+users using it for real and this is this
+
+69
+00:03:07,200 --> 00:03:13,120
+is the story of of testing in production
+
+70
+00:03:10,799 --> 00:03:17,400
+which doesn't mean you're not testing
+
+71
+00:03:13,120 --> 00:03:19,879
+before production holy moly no don't
+
+72
+00:03:17,400 --> 00:03:24,000
+ship stuff that's not tested to
+
+73
+00:03:19,879 --> 00:03:25,680
+production that's a bad idea right but
+
+74
+00:03:24,000 --> 00:03:27,360
+we need to get into production as
+
+75
+00:03:25,680 --> 00:03:30,920
+quickly as possible which means we need
+
+76
+00:03:27,360 --> 00:03:34,879
+to automate and create fast Sleek
+
+77
+00:03:30,920 --> 00:03:37,959
+automated testing for all of the normal
+
+78
+00:03:34,879 --> 00:03:39,840
+stuff that we need to test right does
+
+79
+00:03:37,959 --> 00:03:42,959
+the software actually function the way
+
+80
+00:03:39,840 --> 00:03:46,959
+we expect it to and then we want a ring
+
+81
+00:03:42,959 --> 00:03:50,439
+based or audience-based deployment model
+
+82
+00:03:46,959 --> 00:03:53,200
+so that we can control the exposure of
+
+83
+00:03:50,439 --> 00:03:55,879
+these new capabilities and features and
+
+84
+00:03:53,200 --> 00:03:59,840
+we do load and stress testing
+
+85
+00:03:55,879 --> 00:04:01,159
+effectively in production so what that
+
+86
+00:03:59,840 --> 00:04:03,879
+might look like I'm going to use an
+
+87
+00:04:01,159 --> 00:04:05,920
+example because I I I love the way that
+
+88
+00:04:03,879 --> 00:04:08,079
+they've done this so I I've worked a lot
+
+89
+00:04:05,920 --> 00:04:11,200
+in the past with the Azure devops team
+
+90
+00:04:08,079 --> 00:04:15,000
+at Microsoft um as your devops seeing
+
+91
+00:04:11,200 --> 00:04:16,840
+how they do things has been really
+
+92
+00:04:15,000 --> 00:04:18,799
+really really enlightening because they
+
+93
+00:04:16,840 --> 00:04:20,680
+they've got quite a big product it's
+
+94
+00:04:18,799 --> 00:04:23,560
+quite a big scaling problem they've got
+
+95
+00:04:20,680 --> 00:04:26,199
+millions of users and what they
+
+96
+00:04:23,560 --> 00:04:30,320
+effectively do
+
+97
+00:04:26,199 --> 00:04:33,680
+is they have some some of the rings that
+
+98
+00:04:30,320 --> 00:04:34,759
+you're deploying to are physical Rings
+
+99
+00:04:33,680 --> 00:04:37,440
+like
+
+100
+00:04:34,759 --> 00:04:41,440
+environments but even once you've
+
+101
+00:04:37,440 --> 00:04:43,000
+deployed a new capability to all of your
+
+102
+00:04:41,440 --> 00:04:44,639
+production environments let's say you
+
+103
+00:04:43,000 --> 00:04:47,039
+have
+
+104
+00:04:44,639 --> 00:04:50,639
+six areas around the world you've
+
+105
+00:04:47,039 --> 00:04:54,440
+deployed to them all those features that
+
+106
+00:04:50,639 --> 00:04:57,160
+are deployed might not be accessible by
+
+107
+00:04:54,440 --> 00:05:00,240
+people right so they're not impacting
+
+108
+00:04:57,160 --> 00:05:02,919
+production in any way they're off
+
+109
+00:05:00,240 --> 00:05:05,360
+feature flag is
+
+110
+00:05:02,919 --> 00:05:08,080
+off but
+
+111
+00:05:05,360 --> 00:05:10,360
+then they the team that owns that
+
+112
+00:05:08,080 --> 00:05:13,479
+feature that's deploying that feature
+
+113
+00:05:10,360 --> 00:05:16,600
+wants to ensure that that feature is
+
+114
+00:05:13,479 --> 00:05:18,800
+load tested stress tested is the right
+
+115
+00:05:16,600 --> 00:05:21,039
+and you've also got is the right thing
+
+116
+00:05:18,800 --> 00:05:22,960
+right is the right thing resonates with
+
+117
+00:05:21,039 --> 00:05:27,840
+customers provides the right capability
+
+118
+00:05:22,960 --> 00:05:32,600
+but also works load tested stress tested
+
+119
+00:05:27,840 --> 00:05:35,520
+and we agreed well I agreed uh that we
+
+120
+00:05:32,600 --> 00:05:38,919
+can't do load testing and stress testing
+
+121
+00:05:35,520 --> 00:05:40,960
+very well not in production so what we
+
+122
+00:05:38,919 --> 00:05:43,960
+need to be able to do is we need to a be
+
+123
+00:05:40,960 --> 00:05:46,600
+able to limit the number of users that
+
+124
+00:05:43,960 --> 00:05:48,680
+are accessing this new feature and then
+
+125
+00:05:46,600 --> 00:05:51,280
+expand it over time so there's various
+
+126
+00:05:48,680 --> 00:05:54,639
+ways to do that what they would do is
+
+127
+00:05:51,280 --> 00:05:56,199
+their first ring that they would create
+
+128
+00:05:54,639 --> 00:05:57,680
+and this is actually a ring for each
+
+129
+00:05:56,199 --> 00:05:59,639
+feature
+
+130
+00:05:57,680 --> 00:06:01,280
+so they they're creating an
+
+131
+00:05:59,639 --> 00:06:02,800
+audience-based deployment model per
+
+132
+00:06:01,280 --> 00:06:05,000
+feature if it's big enough right you
+
+133
+00:06:02,800 --> 00:06:06,440
+might have features that you just ship
+
+134
+00:06:05,000 --> 00:06:07,840
+you might have changes that you just
+
+135
+00:06:06,440 --> 00:06:10,560
+ship you don't do this with everything
+
+136
+00:06:07,840 --> 00:06:12,840
+this is expensive right but what they do
+
+137
+00:06:10,560 --> 00:06:14,639
+is the team will go ah we want to start
+
+138
+00:06:12,840 --> 00:06:17,000
+getting real users into kicking the
+
+139
+00:06:14,639 --> 00:06:19,240
+tires on this feature it's just us so
+
+140
+00:06:17,000 --> 00:06:20,960
+far just internal people so what we're
+
+141
+00:06:19,240 --> 00:06:23,440
+going to do is we're going to publish a
+
+142
+00:06:20,960 --> 00:06:25,639
+blog post so they publish a blog post
+
+143
+00:06:23,440 --> 00:06:27,960
+that says we're working on this new
+
+144
+00:06:25,639 --> 00:06:29,840
+feature it's it's it's going to provide
+
+145
+00:06:27,960 --> 00:06:33,599
+this capability here's what it Curr
+
+146
+00:06:29,840 --> 00:06:36,520
+looks like and if you would like to help
+
+147
+00:06:33,599 --> 00:06:38,880
+us kick the tires send an email to this
+
+148
+00:06:36,520 --> 00:06:41,360
+email address and we'll we'll with your
+
+149
+00:06:38,880 --> 00:06:43,800
+account name and and your your either
+
+150
+00:06:41,360 --> 00:06:45,039
+org an account or just org or just
+
+151
+00:06:43,800 --> 00:06:47,080
+account depending on how they're how
+
+152
+00:06:45,039 --> 00:06:49,199
+they're doing it so you give them the
+
+153
+00:06:47,080 --> 00:06:52,880
+data of who you are and then they enable
+
+154
+00:06:49,199 --> 00:06:54,560
+it for you so you can then go in the
+
+155
+00:06:52,880 --> 00:06:56,039
+tool you would then have a little
+
+156
+00:06:54,560 --> 00:06:57,680
+feature flag that you can turn on and
+
+157
+00:06:56,039 --> 00:06:59,720
+off so you can choose to turn it off and
+
+158
+00:06:57,680 --> 00:07:02,240
+when you turn choose to turn it off when
+
+159
+00:06:59,720 --> 00:07:04,280
+you choose to turn it off it's you get
+
+160
+00:07:02,240 --> 00:07:05,960
+asked for a comment and it goes to the
+
+161
+00:07:04,280 --> 00:07:07,960
+the team right so they can find out why
+
+162
+00:07:05,960 --> 00:07:11,360
+you don't like it right why you're not
+
+163
+00:07:07,960 --> 00:07:12,360
+using it it's slow it's this it's that
+
+164
+00:07:11,360 --> 00:07:14,560
+and then they can go look at the
+
+165
+00:07:12,360 --> 00:07:17,400
+Telemetry but that's that's a very
+
+166
+00:07:14,560 --> 00:07:21,800
+private preview right people have to
+
+167
+00:07:17,400 --> 00:07:24,000
+actively opt in once they have enough
+
+168
+00:07:21,800 --> 00:07:25,960
+data to say that they think this is a
+
+169
+00:07:24,000 --> 00:07:27,560
+good feature they think it performs well
+
+170
+00:07:25,960 --> 00:07:30,479
+at least with the small number of users
+
+171
+00:07:27,560 --> 00:07:33,840
+once we have enough telemetry they then
+
+172
+00:07:30,479 --> 00:07:37,319
+open it out and they'll turn it they'll
+
+173
+00:07:33,840 --> 00:07:40,039
+have it off for everybody that's using
+
+174
+00:07:37,319 --> 00:07:41,800
+the service but with the feature flag
+
+175
+00:07:40,039 --> 00:07:43,199
+enabled for everybody so everybody can
+
+176
+00:07:41,800 --> 00:07:45,120
+go turn it on and they'll do another
+
+177
+00:07:43,199 --> 00:07:46,639
+blog post that says we're now ready for
+
+178
+00:07:45,120 --> 00:07:48,199
+more people to try this you don't have
+
+179
+00:07:46,639 --> 00:07:49,919
+to email us anymore you can just go
+
+180
+00:07:48,199 --> 00:07:52,240
+switch it on go try it out and tell us
+
+181
+00:07:49,919 --> 00:07:54,520
+what you think so that encourages a
+
+182
+00:07:52,240 --> 00:07:56,039
+bunch of people to go turn it on and
+
+183
+00:07:54,520 --> 00:07:57,680
+then they get a bunch of telemetry for
+
+184
+00:07:56,039 --> 00:07:59,520
+people using it and either people then
+
+185
+00:07:57,680 --> 00:08:01,360
+continue to use it or they turn it off
+
+186
+00:07:59,520 --> 00:08:04,720
+because they don't like it right maybe
+
+187
+00:08:01,360 --> 00:08:05,800
+it overrides the existing functionality
+
+188
+00:08:04,720 --> 00:08:07,000
+and they don't like the way it is
+
+189
+00:08:05,800 --> 00:08:08,639
+because something's missing so they got
+
+190
+00:08:07,000 --> 00:08:10,680
+to turn it off they're asked what the
+
+191
+00:08:08,639 --> 00:08:12,039
+problem is they type in I don't like it
+
+192
+00:08:10,680 --> 00:08:13,360
+because it's slow I don't like it
+
+193
+00:08:12,039 --> 00:08:15,520
+because there's features missing I don't
+
+194
+00:08:13,360 --> 00:08:17,800
+like it because I don't like my cheese
+
+195
+00:08:15,520 --> 00:08:20,680
+being moved whatever the reason is
+
+196
+00:08:17,800 --> 00:08:23,120
+right and that's they then collecting
+
+197
+00:08:20,680 --> 00:08:25,840
+more Telemetry and if they get enough
+
+198
+00:08:23,120 --> 00:08:27,840
+data they maybe go to the next stage or
+
+199
+00:08:25,840 --> 00:08:30,599
+maybe they need to do more things more
+
+200
+00:08:27,840 --> 00:08:32,360
+iterations on the the the capabilities
+
+201
+00:08:30,599 --> 00:08:33,839
+improve the performance maybe they need
+
+202
+00:08:32,360 --> 00:08:35,959
+to turn it off because it's not
+
+203
+00:08:33,839 --> 00:08:37,120
+performing well and then they need to do
+
+204
+00:08:35,959 --> 00:08:40,159
+some performance improvements and then
+
+205
+00:08:37,120 --> 00:08:42,320
+turn it back on again eventually if
+
+206
+00:08:40,159 --> 00:08:45,720
+they've got enough Telemetry they'll
+
+207
+00:08:42,320 --> 00:08:47,240
+turn it on by default for everybody with
+
+208
+00:08:45,720 --> 00:08:50,000
+the option for people to go in and turn
+
+209
+00:08:47,240 --> 00:08:51,000
+it off so everybody gets it forcibly
+
+210
+00:08:50,000 --> 00:08:54,320
+turned
+
+211
+00:08:51,000 --> 00:08:56,080
+on and then we're collecting data and
+
+212
+00:08:54,320 --> 00:08:59,240
+Telemetry from the people that turn it
+
+213
+00:08:56,080 --> 00:09:01,200
+off to find out why they don't like it
+
+214
+00:08:59,240 --> 00:09:04,000
+why why do they go turn it off what do
+
+215
+00:09:01,200 --> 00:09:06,959
+we need to do to get those folks on
+
+216
+00:09:04,000 --> 00:09:08,200
+board once they have enough Telemetry
+
+217
+00:09:06,959 --> 00:09:09,959
+they see there's not so many people
+
+218
+00:09:08,200 --> 00:09:11,480
+turning it off there always going to be
+
+219
+00:09:09,959 --> 00:09:14,880
+people that don't like what you're doing
+
+220
+00:09:11,480 --> 00:09:18,560
+right so you can't it's not a unanimous
+
+221
+00:09:14,880 --> 00:09:20,959
+thing they then have it on by default
+
+222
+00:09:18,560 --> 00:09:23,560
+you can't turn it off right they maybe
+
+223
+00:09:20,959 --> 00:09:25,040
+disable the option to turn it off see
+
+224
+00:09:23,560 --> 00:09:27,320
+what complaints roll in for people that
+
+225
+00:09:25,040 --> 00:09:29,120
+want to be able to turn it off and then
+
+226
+00:09:27,320 --> 00:09:31,079
+eventually they get rid of the feature
+
+227
+00:09:29,120 --> 00:09:33,480
+FL and it's on for everybody in
+
+228
+00:09:31,079 --> 00:09:38,079
+production that's
+
+229
+00:09:33,480 --> 00:09:40,560
+a modern software engineering
+
+230
+00:09:38,079 --> 00:09:42,959
+implementation of continuous delivery to
+
+231
+00:09:40,560 --> 00:09:45,600
+production and then an audience-based
+
+232
+00:09:42,959 --> 00:09:47,680
+roll out and expansion and testing story
+
+233
+00:09:45,600 --> 00:09:50,000
+to allow you to do load testing and
+
+234
+00:09:47,680 --> 00:09:51,760
+performance testing and stress testing
+
+235
+00:09:50,000 --> 00:09:55,839
+in
+
+236
+00:09:51,760 --> 00:09:57,480
+production that takes discipline that
+
+237
+00:09:55,839 --> 00:09:59,839
+takes
+
+238
+00:09:57,480 --> 00:10:02,360
+effort it's definitely
+
+239
+00:09:59,839 --> 00:10:04,880
+has a cost right there's a lot of things
+
+240
+00:10:02,360 --> 00:10:06,399
+that had to happen there and things that
+
+241
+00:10:04,880 --> 00:10:07,320
+had to be organized and things that had
+
+242
+00:10:06,399 --> 00:10:09,920
+to be
+
+243
+00:10:07,320 --> 00:10:13,079
+done but aure
+
+244
+00:10:09,920 --> 00:10:16,600
+devops using that capability that they
+
+245
+00:10:13,079 --> 00:10:20,600
+built into the system using that story
+
+246
+00:10:16,600 --> 00:10:24,120
+they created a massive following from
+
+247
+00:10:20,600 --> 00:10:27,720
+their users that their users expected
+
+248
+00:10:24,120 --> 00:10:29,959
+Excellence expected new things expected
+
+249
+00:10:27,720 --> 00:10:31,640
+those new things to work and and as
+
+250
+00:10:29,959 --> 00:10:33,880
+those new things rolled out cuz you have
+
+251
+00:10:31,640 --> 00:10:36,079
+an expectation if you op opt into a
+
+252
+00:10:33,880 --> 00:10:38,519
+private preview that there might be some
+
+253
+00:10:36,079 --> 00:10:41,519
+you know things that don't work quite as
+
+254
+00:10:38,519 --> 00:10:45,560
+well or we don't know yet right so
+
+255
+00:10:41,519 --> 00:10:48,440
+you're not testing in production with
+
+256
+00:10:45,560 --> 00:10:51,760
+users that haven't chosen to be part of
+
+257
+00:10:48,440 --> 00:10:55,279
+that test story right you're soliciting
+
+258
+00:10:51,760 --> 00:10:57,279
+for people to come in and help you and
+
+259
+00:10:55,279 --> 00:10:59,000
+because they want to help you one
+
+260
+00:10:57,279 --> 00:11:01,000
+they're more forgiving and they'll give
+
+261
+00:10:59,000 --> 00:11:03,440
+more feedback right because they're
+
+262
+00:11:01,000 --> 00:11:07,560
+choosing to be there and that's how you
+
+263
+00:11:03,440 --> 00:11:09,480
+create a a story of performance
+
+264
+00:11:07,560 --> 00:11:13,519
+improvements and enhancing user
+
+265
+00:11:09,480 --> 00:11:16,120
+experience in a progressive modern
+
+266
+00:11:13,519 --> 00:11:18,800
+engineering Excellence Manner and this
+
+267
+00:11:16,120 --> 00:11:21,800
+is something that naked agility can help
+
+268
+00:11:18,800 --> 00:11:24,360
+you build within your teams build within
+
+269
+00:11:21,800 --> 00:11:26,519
+your product don't expect it to be
+
+270
+00:11:24,360 --> 00:11:29,360
+magically overnight these things take
+
+271
+00:11:26,519 --> 00:11:34,480
+effort they take discipline sometimes
+
+272
+00:11:29,360 --> 00:11:37,360
+mistakes are made but with uh a focus on
+
+273
+00:11:34,480 --> 00:11:40,440
+delivering high quality usable working
+
+274
+00:11:37,360 --> 00:11:42,639
+product continuously to our users we can
+
+275
+00:11:40,440 --> 00:11:45,200
+build some of the best products you've
+
+276
+00:11:42,639 --> 00:11:45,200
+ever seen
+
+

@@ -6,6 +6,7 @@ videoId: zqMzD1PXq4s
 source: youtube
 url: /resources/videos/:slug
 slug: the-cost-of-chaos-the-impact-of-poor-technical-leadership
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=zqMzD1PXq4s
 aliases:
 - /resources/videos/zqMzD1PXq4s
@@ -30,9 +31,10 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube zqMzD1PXq4s >}} 
  Chaos Costs Money: How Engineering Excellence Controls Chaos and Boosts Productivity | Martin Hinshelwood
 
 👋 Hi, I’m Martin Hinshelwood from NKD Agility, and in this video, we’ll explore how engineering mediocrity and technical debt contribute to chaos and waste in software delivery—and how investing in technical leadership and engineering excellence can transform your organization.

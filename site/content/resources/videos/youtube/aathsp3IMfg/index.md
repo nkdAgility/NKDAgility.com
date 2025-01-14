@@ -6,6 +6,7 @@ videoId: aathsp3IMfg
 source: internal
 url: /resources/videos/:slug
 slug: when-is-an-aps-course-appropriate-for-a-scrum-team
+layout: video
 preview: https://i.ytimg.com/vi/aathsp3IMfg/maxresdefault.jpg
 duration: 194
 isShort: false

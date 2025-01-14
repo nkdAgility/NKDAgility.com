@@ -6,6 +6,7 @@ videoId: XKmWMXagVgQ
 source: internal
 url: /resources/videos/:slug
 slug: the-power-of-continuous-learning-for-product-owners
+layout: video
 preview: https://i.ytimg.com/vi/XKmWMXagVgQ/maxresdefault.jpg
 duration: 267
 isShort: false

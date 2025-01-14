@@ -41,9 +41,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+layout: video
+resourceTypes:
+- video
 
 ---
-{{< youtube 21k6OgxeKjo >}} 
  #shorts #shortsvideo #shortvideo Martin Hinshelwood walks us through the 5 #agile bandits. This video features a toxic #productowner 
 
 About NKD Agility

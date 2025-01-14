@@ -5,6 +5,7 @@ date: 2023-09-28T09:01:38Z
 videoId: UW26aDoBVbQ
 url: /resources/videos/:slug
 slug: 5-october-2023-product-ownership-and-lean-product-development-webinar
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=UW26aDoBVbQ
 aliases:
 - /resources/videos/UW26aDoBVbQ
@@ -30,9 +31,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube UW26aDoBVbQ >}} 
  #shorts #shortsvideo #shortvideo 🌟 Exclusive Webcast with Joanna Płaskonka, Ph.D. & Martin Hinshelwood: Dive Deep into Product Ownership & Lean Product Development! 🌟
 
 Register at https://events.teams.microsoft.com/event/cc8555b2-77cc-466b-bf8a-1375f89873fd@686c55d4-ab81-4a17-9eef-6472a5633fab

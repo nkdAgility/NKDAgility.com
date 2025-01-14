@@ -6,6 +6,7 @@ videoId: JzUUQ4R9SCk
 source: youtube
 url: /resources/videos/:slug
 slug: free-workshop-2-introduction-to-scrum-&-empiricism
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=JzUUQ4R9SCk
 aliases:
@@ -21,9 +22,10 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube JzUUQ4R9SCk >}} 
  00:09:30 Icebreaker
 00:24:58 What is needed for Scrum? [1-2-4-ALL]
 00:38:27 Scrum Values Circuit [Shift & Share]

@@ -45,6 +45,7 @@ tags:
 - Leadership
 resourceTypes:
 - video
+layout: video
 
 ---
 {{< youtube 2ASLFX2i9_g >}}

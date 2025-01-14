@@ -25,9 +25,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+layout: video
+resourceTypes:
+- video
 
 ---
-{{< youtube 1TaIjFL-0o8 >}} 
  The #PSMII or #advancedprofessionalscrummaster course from #scrumorg has been created to elevate the skills, competence, and capability of a #scrummaster from basic to advanced level.
 
 It's a skills development and validation certification that is designed to equip a #scrummaster with the competencies and capabilities necessary to serve the #scrumteam, #productowner, and organization effectively in a complex #agile #productdevelopment environment.

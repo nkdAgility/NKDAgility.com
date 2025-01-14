@@ -6,6 +6,7 @@ videoId: nfTAYRLAaYI
 source: internal
 url: /resources/videos/:slug
 slug: mastering-kanban-a-simple-guide-to-its-core-principles
+layout: video
 preview: https://i.ytimg.com/vi/nfTAYRLAaYI/maxresdefault.jpg
 duration: 49
 isShort: true

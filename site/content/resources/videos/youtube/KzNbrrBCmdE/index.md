@@ -5,6 +5,7 @@ date: 2024-09-19T11:05:27Z
 videoId: KzNbrrBCmdE
 url: /resources/videos/:slug
 slug: compromises-you-need-to-think-about-for-your-azuredevops-migration-excerpt-2
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=KzNbrrBCmdE
 aliases:
 - /resources/videos/KzNbrrBCmdE
@@ -23,8 +24,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube KzNbrrBCmdE >}} 
  Compromises you need to think about for your #azuredevops migration. Excerpt 2. Watch the full video at https://www.youtube.com/@nakedAgility #agile #devops #devopsmigration Visit https://www.nkdagility.com if you need help with your migration. 
  [Watch on Youtube](https://www.youtube.com/watch?v=KzNbrrBCmdE)

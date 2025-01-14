@@ -6,6 +6,7 @@ videoId: oiIf2vdqgg0
 source: internal
 url: /resources/videos/:slug
 slug: what-is-a-product-vision
+layout: video
 preview: https://i.ytimg.com/vi/oiIf2vdqgg0/maxresdefault.jpg
 duration: 41
 isShort: true

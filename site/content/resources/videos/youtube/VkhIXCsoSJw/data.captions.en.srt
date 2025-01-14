@@ -1,0 +1,857 @@
+1
+00:00:00,160 --> 00:00:09,759
+when you are working on very complex
+
+2
+00:00:04,160 --> 00:00:13,280
+products one of the the the main steps
+
+3
+00:00:09,759 --> 00:00:17,279
+developers and Engineering groups can
+
+4
+00:00:13,280 --> 00:00:19,640
+take is is automating everything I mean
+
+5
+00:00:17,279 --> 00:00:21,960
+that's that's probably along with
+
+6
+00:00:19,640 --> 00:00:25,000
+reducing the backat size so making the
+
+7
+00:00:21,960 --> 00:00:27,080
+things that you're delivering smaller so
+
+8
+00:00:25,000 --> 00:00:30,359
+that you can you can do more of them and
+
+9
+00:00:27,080 --> 00:00:31,719
+you're iterating on them right um one of
+
+10
+00:00:30,359 --> 00:00:33,280
+the
+
+11
+00:00:31,719 --> 00:00:37,239
+key
+
+12
+00:00:33,280 --> 00:00:39,280
+things that enable your engineering team
+
+13
+00:00:37,239 --> 00:00:41,800
+to have the
+
+14
+00:00:39,280 --> 00:00:44,840
+confidence that they can continuously
+
+15
+00:00:41,800 --> 00:00:47,520
+deploy to production those small things
+
+16
+00:00:44,840 --> 00:00:50,160
+is to to automate automate everything
+
+17
+00:00:47,520 --> 00:00:52,160
+you you should have automated testing
+
+18
+00:00:50,160 --> 00:00:54,280
+you should have automated deployment you
+
+19
+00:00:52,160 --> 00:00:56,359
+should have Auto aut as much as you can
+
+20
+00:00:54,280 --> 00:00:59,199
+automated validation there are are
+
+21
+00:00:56,359 --> 00:01:01,000
+automated validations you can do
+
+22
+00:00:59,199 --> 00:01:03,079
+especially if you're collecting telemu
+
+23
+00:01:01,000 --> 00:01:06,960
+in your product a a great a great
+
+24
+00:01:03,079 --> 00:01:10,680
+example of that was um the Azure devops
+
+25
+00:01:06,960 --> 00:01:13,040
+team when they first started deploying
+
+26
+00:01:10,680 --> 00:01:15,080
+their Cloud version of the product they
+
+27
+00:01:13,040 --> 00:01:17,000
+they didn't have you know they'd been
+
+28
+00:01:15,080 --> 00:01:19,680
+used to doing two yearly deliveries and
+
+29
+00:01:17,000 --> 00:01:23,320
+suddenly they were doing 3we deliveries
+
+30
+00:01:19,680 --> 00:01:27,439
+and they had H H technical debt they had
+
+31
+00:01:23,320 --> 00:01:29,439
+poor quality code they had uh um Big
+
+32
+00:01:27,439 --> 00:01:30,640
+gnarly chunks that were very difficult
+
+33
+00:01:29,439 --> 00:01:34,159
+to edit
+
+34
+00:01:30,640 --> 00:01:37,079
+um and they had automation that took a
+
+35
+00:01:34,159 --> 00:01:39,520
+very long time to run so one of the
+
+36
+00:01:37,079 --> 00:01:42,200
+there was kind of two big focuses big
+
+37
+00:01:39,520 --> 00:01:45,240
+engineering pushes that they made in
+
+38
+00:01:42,200 --> 00:01:47,320
+that team that I I think had the biggest
+
+39
+00:01:45,240 --> 00:01:50,880
+impacts on me observing their their
+
+40
+00:01:47,320 --> 00:01:53,640
+their improvements and the first one was
+
+41
+00:01:50,880 --> 00:01:57,479
+that they
+
+42
+00:01:53,640 --> 00:02:02,719
+reduced as much as possible that cycle
+
+43
+00:01:57,479 --> 00:02:04,280
+time right they wanted to time to learn
+
+44
+00:02:02,719 --> 00:02:06,520
+they wanted to reduce that time to learn
+
+45
+00:02:04,280 --> 00:02:09,360
+as much as possible and time to learn is
+
+46
+00:02:06,520 --> 00:02:11,680
+is all the way from I come up with a an
+
+47
+00:02:09,360 --> 00:02:13,800
+idea for a feature it gets all the way
+
+48
+00:02:11,680 --> 00:02:15,440
+through being built or some of it being
+
+49
+00:02:13,800 --> 00:02:17,400
+built being deployed to production or
+
+50
+00:02:15,440 --> 00:02:19,160
+some of it being deployed to production
+
+51
+00:02:17,400 --> 00:02:21,280
+and collecting Telemetry and then
+
+52
+00:02:19,160 --> 00:02:22,879
+feeding that back all the way around to
+
+53
+00:02:21,280 --> 00:02:24,760
+to to the next Loop that's that's time
+
+54
+00:02:22,879 --> 00:02:28,800
+to to learn all the way
+
+55
+00:02:24,760 --> 00:02:31,800
+around so what figuring out what the
+
+56
+00:02:28,800 --> 00:02:31,800
+biggest
+
+57
+00:02:32,000 --> 00:02:38,920
+time suck is in that space and tackle
+
+58
+00:02:36,120 --> 00:02:41,519
+that so for the for the Azure devops
+
+59
+00:02:38,920 --> 00:02:43,280
+team they they found a number of things
+
+60
+00:02:41,519 --> 00:02:45,040
+one of those things was their their
+
+61
+00:02:43,280 --> 00:02:48,319
+testing infrastructure their testing
+
+62
+00:02:45,040 --> 00:02:51,080
+infrastructure was was for one of a
+
+63
+00:02:48,319 --> 00:02:55,400
+better expression terrible it
+
+64
+00:02:51,080 --> 00:02:57,560
+took as I understand about 48 hours to
+
+65
+00:02:55,400 --> 00:02:59,840
+find out for developers if they made a
+
+66
+00:02:57,560 --> 00:03:01,720
+code change whether it was successful
+
+67
+00:02:59,840 --> 00:03:04,560
+their time to self test right their
+
+68
+00:03:01,720 --> 00:03:07,640
+ability to test uh uh for themselves was
+
+69
+00:03:04,560 --> 00:03:10,920
+incredibly long that's 40 48 hours to 72
+
+70
+00:03:07,640 --> 00:03:13,560
+hours and the time to run the the
+
+71
+00:03:10,920 --> 00:03:15,799
+regression Suite was even longer than
+
+72
+00:03:13,560 --> 00:03:17,519
+that it was Perhaps Perhaps a week to
+
+73
+00:03:15,799 --> 00:03:20,400
+get that done because they had long
+
+74
+00:03:17,519 --> 00:03:24,480
+running regression tests and one of the
+
+75
+00:03:20,400 --> 00:03:28,319
+biggest focuses biggest pushies they had
+
+76
+00:03:24,480 --> 00:03:30,599
+was on converting all of those long
+
+77
+00:03:28,319 --> 00:03:35,040
+running functional tests
+
+78
+00:03:30,599 --> 00:03:38,799
+into short code tests right
+
+79
+00:03:35,040 --> 00:03:40,080
+so they were topheavy on their largest
+
+80
+00:03:38,799 --> 00:03:41,519
+number of tests were these long running
+
+81
+00:03:40,080 --> 00:03:44,239
+functional tests their smallest number
+
+82
+00:03:41,519 --> 00:03:46,200
+of tests was unit tests and they flipped
+
+83
+00:03:44,239 --> 00:03:47,760
+that pyramid over it took them four
+
+84
+00:03:46,200 --> 00:03:49,920
+years because remember they've been
+
+85
+00:03:47,760 --> 00:03:54,040
+working on this product for for six to
+
+86
+00:03:49,920 --> 00:03:55,680
+eight years in a waterfall way and they
+
+87
+00:03:54,040 --> 00:03:57,560
+built this massive test infrastructure
+
+88
+00:03:55,680 --> 00:03:59,159
+so it took them four years of doing a
+
+89
+00:03:57,560 --> 00:04:00,360
+little bit at a time paying back that
+
+90
+00:03:59,159 --> 00:04:02,760
+technical de
+
+91
+00:04:00,360 --> 00:04:05,480
+to get to the point where they'd flipped
+
+92
+00:04:02,760 --> 00:04:07,640
+that that that pyramid over and in fact
+
+93
+00:04:05,480 --> 00:04:09,120
+they' just removed whole layers of that
+
+94
+00:04:07,640 --> 00:04:11,680
+pyramid and they ended up with all of
+
+95
+00:04:09,120 --> 00:04:12,560
+these fast running unit tests so instead
+
+96
+00:04:11,680 --> 00:04:16,320
+of
+
+97
+00:04:12,560 --> 00:04:19,600
+80,000 long running automated tests they
+
+98
+00:04:16,320 --> 00:04:24,080
+had 880,000 short tests and they they
+
+99
+00:04:19,600 --> 00:04:25,919
+they moved that number from 48 hours to
+
+100
+00:04:24,080 --> 00:04:27,199
+to find out if a developer had done
+
+101
+00:04:25,919 --> 00:04:30,800
+something wrong to three and a half
+
+102
+00:04:27,199 --> 00:04:32,440
+minutes they could run the whole
+
+103
+00:04:30,800 --> 00:04:35,000
+test Suite in three and a half minutes
+
+104
+00:04:32,440 --> 00:04:38,560
+on their local machine they could stand
+
+105
+00:04:35,000 --> 00:04:41,320
+up via command line calls any parts of
+
+106
+00:04:38,560 --> 00:04:45,360
+the system that they needed in order to
+
+107
+00:04:41,320 --> 00:04:47,919
+be able to do functional tests locally
+
+108
+00:04:45,360 --> 00:04:49,720
+on their machine that was one of the
+
+109
+00:04:47,919 --> 00:04:51,919
+other changes that they made how how do
+
+110
+00:04:49,720 --> 00:04:54,520
+we enable that so that developers can
+
+111
+00:04:51,919 --> 00:04:56,720
+just run a command and it's sets up the
+
+112
+00:04:54,520 --> 00:04:59,000
+bits they need to test the stuff that
+
+113
+00:04:56,720 --> 00:05:01,520
+they're working on locally so that they
+
+114
+00:04:59,000 --> 00:05:03,919
+can have a copy of the system running
+
+115
+00:05:01,520 --> 00:05:05,280
+locally and walk through it and that
+
+116
+00:05:03,919 --> 00:05:07,320
+they they they build all of that
+
+117
+00:05:05,280 --> 00:05:09,919
+functionality it took them a long time
+
+118
+00:05:07,320 --> 00:05:13,600
+to get there but that
+
+119
+00:05:09,919 --> 00:05:16,160
+investment helped improve their
+
+120
+00:05:13,600 --> 00:05:18,800
+confidence in their ability not just as
+
+121
+00:05:16,160 --> 00:05:20,400
+individuals but as a group to be able to
+
+122
+00:05:18,800 --> 00:05:23,479
+to deploy and build features in the
+
+123
+00:05:20,400 --> 00:05:25,600
+product and improve the confidence of
+
+124
+00:05:23,479 --> 00:05:27,440
+their customers right their customers
+
+125
+00:05:25,600 --> 00:05:30,319
+had greater confidence that this is a
+
+126
+00:05:27,440 --> 00:05:32,000
+good product it's a solid product um yes
+
+127
+00:05:30,319 --> 00:05:33,840
+we've seen things go wrong but when
+
+128
+00:05:32,000 --> 00:05:35,840
+things go wrong they own up to them they
+
+129
+00:05:33,840 --> 00:05:38,960
+fix them they move forward they don't
+
+130
+00:05:35,840 --> 00:05:41,039
+make that mistake again so that that
+
+131
+00:05:38,960 --> 00:05:42,880
+building because it's it's okay to make
+
+132
+00:05:41,039 --> 00:05:45,280
+mistakes if if you've got a customer
+
+133
+00:05:42,880 --> 00:05:47,039
+that that you make a mistake and they
+
+134
+00:05:45,280 --> 00:05:50,360
+throw a throw a tantrum and they throw
+
+135
+00:05:47,039 --> 00:05:52,080
+their toys out the pram um it's because
+
+136
+00:05:50,360 --> 00:05:53,560
+they're used to working with vendors
+
+137
+00:05:52,080 --> 00:05:55,080
+that they have low confidence in and
+
+138
+00:05:53,560 --> 00:05:57,479
+they have low confidence in you fixing
+
+139
+00:05:55,080 --> 00:05:59,360
+it so they believe that they have to
+
+140
+00:05:57,479 --> 00:06:02,600
+throw that tantrum in order for you to
+
+141
+00:05:59,360 --> 00:06:04,880
+fix that thing so if you need to build
+
+142
+00:06:02,600 --> 00:06:07,280
+their confidence in you and in your
+
+143
+00:06:04,880 --> 00:06:09,440
+product and then they'll stop doing that
+
+144
+00:06:07,280 --> 00:06:11,400
+they'll they'll accept oh something went
+
+145
+00:06:09,440 --> 00:06:13,000
+wrong you messed up but we know you're
+
+146
+00:06:11,400 --> 00:06:15,880
+going to fix it we know you're going to
+
+147
+00:06:13,000 --> 00:06:17,440
+do a good job and we know um that you're
+
+148
+00:06:15,880 --> 00:06:19,039
+you're you're not going to do it again
+
+149
+00:06:17,440 --> 00:06:21,360
+right or it's unlikely that you'll do it
+
+150
+00:06:19,039 --> 00:06:23,440
+again that's confidence and when you're
+
+151
+00:06:21,360 --> 00:06:25,639
+working in big complex systems like uh
+
+152
+00:06:23,440 --> 00:06:28,360
+as your devops or or other types of
+
+153
+00:06:25,639 --> 00:06:30,639
+systems that that you have you need that
+
+154
+00:06:28,360 --> 00:06:32,400
+level of confidence not just at the
+
+155
+00:06:30,639 --> 00:06:35,400
+whole product level but at every
+
+156
+00:06:32,400 --> 00:06:37,639
+individual Team level I as a I working
+
+157
+00:06:35,400 --> 00:06:39,840
+on a team need to have confidence that
+
+158
+00:06:37,639 --> 00:06:41,240
+if I'm using capabilities delivered by
+
+159
+00:06:39,840 --> 00:06:42,479
+another team that they're going to be
+
+160
+00:06:41,240 --> 00:06:44,599
+solid that they're going to work that
+
+161
+00:06:42,479 --> 00:06:46,880
+they're going to meet that quality bar
+
+162
+00:06:44,599 --> 00:06:50,039
+that I need in order to do my work and
+
+163
+00:06:46,880 --> 00:06:53,599
+I'm not going to be your crutch right to
+
+164
+00:06:50,039 --> 00:06:56,479
+enable functionality so this is really
+
+165
+00:06:53,599 --> 00:06:58,919
+really important to have that underlying
+
+166
+00:06:56,479 --> 00:07:01,319
+attention to detail attention to Quality
+
+167
+00:06:58,919 --> 00:07:04,440
+shorten those feedback loops build up
+
+168
+00:07:01,319 --> 00:07:06,440
+that automation automate everything
+
+169
+00:07:04,440 --> 00:07:08,000
+there should be no manual tests one of
+
+170
+00:07:06,440 --> 00:07:09,759
+my favorite examples of that is the
+
+171
+00:07:08,000 --> 00:07:11,759
+Azure devops team they had poor
+
+172
+00:07:09,759 --> 00:07:14,639
+Telemetry in their product when they
+
+173
+00:07:11,759 --> 00:07:16,319
+first moved to this Cloud environment
+
+174
+00:07:14,639 --> 00:07:18,520
+and they were deploying through regions
+
+175
+00:07:16,319 --> 00:07:20,800
+so they would deploy to a region and
+
+176
+00:07:18,520 --> 00:07:22,520
+then they would check to see that
+
+177
+00:07:20,800 --> 00:07:24,280
+everything was working properly they
+
+178
+00:07:22,520 --> 00:07:26,240
+would check to see whether they
+
+179
+00:07:24,280 --> 00:07:28,160
+adversely affected users they' do this
+
+180
+00:07:26,240 --> 00:07:30,879
+all manually and then they would deploy
+
+181
+00:07:28,160 --> 00:07:34,440
+to the next region and one of the the
+
+182
+00:07:30,879 --> 00:07:35,800
+developers in intern for fun developed
+
+183
+00:07:34,440 --> 00:07:38,680
+something they called the Twitter
+
+184
+00:07:35,800 --> 00:07:42,039
+sentiment bot so this was a little a
+
+185
+00:07:38,680 --> 00:07:45,080
+little bot that trolled Twitter trolled
+
+186
+00:07:42,039 --> 00:07:47,080
+Twitter for negative comments about your
+
+187
+00:07:45,080 --> 00:07:48,520
+product so what they would do is they
+
+188
+00:07:47,080 --> 00:07:50,479
+would do a deployment to a particular
+
+189
+00:07:48,520 --> 00:07:53,800
+region and then the Twitter sentiment
+
+190
+00:07:50,479 --> 00:07:57,120
+bot would monitor Twitter for a couple
+
+191
+00:07:53,800 --> 00:07:59,800
+of hours to see whether people started
+
+192
+00:07:57,120 --> 00:08:02,720
+the the level of negativity about your
+
+193
+00:07:59,800 --> 00:08:03,960
+product increased in any way you're
+
+194
+00:08:02,720 --> 00:08:05,759
+always going to have a baseline of
+
+195
+00:08:03,960 --> 00:08:09,520
+people that are unhappy with stuff right
+
+196
+00:08:05,759 --> 00:08:10,919
+so if it increased in a certain way then
+
+197
+00:08:09,520 --> 00:08:13,360
+they would automatically stop the
+
+198
+00:08:10,919 --> 00:08:15,360
+deployment and flag that there something
+
+199
+00:08:13,360 --> 00:08:19,800
+that need to be look
+
+200
+00:08:15,360 --> 00:08:21,840
+at that's a crutch right that's a a a
+
+201
+00:08:19,800 --> 00:08:23,280
+way to automate something that isn't
+
+202
+00:08:21,840 --> 00:08:25,400
+automatable because of the way you built
+
+203
+00:08:23,280 --> 00:08:28,800
+your system they eventually didn't need
+
+204
+00:08:25,400 --> 00:08:31,039
+that bot anymore because they had those
+
+205
+00:08:28,800 --> 00:08:33,279
+full automations built into the system
+
+206
+00:08:31,039 --> 00:08:35,479
+but you need crutches while you get
+
+207
+00:08:33,279 --> 00:08:38,000
+there to be able to push those
+
+208
+00:08:35,479 --> 00:08:40,479
+boundaries and keep pushing for
+
+209
+00:08:38,000 --> 00:08:43,200
+continuous delivery keep pushing um to
+
+210
+00:08:40,479 --> 00:08:45,000
+do things faster keep pushing to improve
+
+211
+00:08:43,200 --> 00:08:46,440
+your code and improve your quality and
+
+212
+00:08:45,000 --> 00:08:48,160
+improve your engagement with your
+
+213
+00:08:46,440 --> 00:08:50,680
+customers and you'll get there
+
+214
+00:08:48,160 --> 00:08:50,680
+eventually
+
+

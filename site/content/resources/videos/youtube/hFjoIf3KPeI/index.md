@@ -6,6 +6,7 @@ videoId: hFjoIf3KPeI
 source: internal
 url: /resources/videos/:slug
 slug: how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team
+layout: video
 preview: https://i.ytimg.com/vi/hFjoIf3KPeI/maxresdefault.jpg
 duration: 318
 isShort: false

@@ -5,6 +5,7 @@ date: 2024-08-13T07:04:49Z
 videoId: Qko_93YAV70
 url: /resources/videos/:slug
 slug: kanban-vs-scrum
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=Qko_93YAV70
 aliases:
 - /resources/videos/Qko_93YAV70
@@ -22,8 +23,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube Qko_93YAV70 >}} 
  Kanban Vs Scrum. Visit https://www.nkdagility.com #agile #scrum #kanban #agileframework #agileprojectmanagement 
  [Watch on Youtube](https://www.youtube.com/watch?v=Qko_93YAV70)

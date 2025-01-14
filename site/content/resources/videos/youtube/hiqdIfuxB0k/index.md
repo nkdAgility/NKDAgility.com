@@ -6,6 +6,7 @@ videoId: hiqdIfuxB0k
 source: youtube
 url: /resources/videos/:slug
 slug: naked-agility-professional-scrum-generic-v1
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=hiqdIfuxB0k
 aliases:
@@ -18,8 +19,9 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube hiqdIfuxB0k >}} 
   
  [Watch on Youtube](https://www.youtube.com/watch?v=hiqdIfuxB0k)

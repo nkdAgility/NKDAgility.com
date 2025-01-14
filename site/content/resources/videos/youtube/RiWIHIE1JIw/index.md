@@ -6,6 +6,7 @@ videoId: RiWIHIE1JIw
 source: youtube
 url: /resources/videos/:slug
 slug: scrum-is-like-communism;-it-does-not-work!-[sd-only]
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=RiWIHIE1JIw
 aliases:
@@ -18,9 +19,10 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube RiWIHIE1JIw >}} 
  This is a phrase I often hear from folks who have been unable to adapt their systems of work to incorporate the core philosophies, theories, and practices of Scrum. They sit and look at the signals coming from Scrum that things are broken and do nothing but say:
 
 “Scrum is like communism; it does not work!”

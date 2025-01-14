@@ -6,6 +6,7 @@ videoId: gjrvSJWE0Gk
 source: internal
 url: /resources/videos/:slug
 slug: overview-of-applying-metrics-for-predictability-kanban-course
+layout: video
 preview: https://i.ytimg.com/vi/gjrvSJWE0Gk/maxresdefault.jpg
 duration: 124
 isShort: false

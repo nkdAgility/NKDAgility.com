@@ -6,6 +6,7 @@ videoId: pU57BrP94-8
 source: internal
 url: /resources/videos/:slug
 slug: how-will-the-immersive-learning-experience-help-coach-people-on-the-job
+layout: video
 preview: https://i.ytimg.com/vi/pU57BrP94-8/maxresdefault.jpg
 duration: 133
 isShort: false

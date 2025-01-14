@@ -24,9 +24,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+layout: video
+resourceTypes:
+- video
 
 ---
-{{< youtube 2KovKxNpZpg >}} 
  #shorts As a #professionalscrumtrainer, #scrum expert, and #agileconsultant, Martin Hinshelwood has worked with multiple clients, in multiple applications of #scrum, in multiple geographies around the world.
 
 in this short video, Martin talks about his pet peeve when it comes to #scrum consulting engagements. 

@@ -6,6 +6,7 @@ videoId: wHYYfvAGFow
 source: internal
 url: /resources/videos/:slug
 slug: what-is-taylorism-and-how-did-it-influence-project-management
+layout: video
 preview: https://i.ytimg.com/vi/wHYYfvAGFow/maxresdefault.jpg
 duration: 483
 isShort: false

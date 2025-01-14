@@ -5,6 +5,7 @@ date: 2023-06-07T07:00:02Z
 videoId: BhGThHrOc8Y
 url: /resources/videos/:slug
 slug: people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=BhGThHrOc8Y
 aliases:
 - /resources/videos/BhGThHrOc8Y
@@ -25,9 +26,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube BhGThHrOc8Y >}} 
  Unravel the true essence of DevOps beyond just tools! Dive deep into the philosophy, practices, and ideas that drive successful DevOps implementations. 🛠️🔄💡
 
 *Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility

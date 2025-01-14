@@ -6,6 +6,7 @@ videoId: X4QzM00onL4
 source: youtube
 url: /resources/videos/:slug
 slug: chaos-7-harbingers-agile-apocalypse-but-shorter!
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=X4QzM00onL4
 aliases:
 - /resources/videos/X4QzM00onL4
@@ -33,9 +34,10 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube X4QzM00onL4 >}} 
  #agile proved a revolutionary idea because it helped #softwareengineers navigate complexity and uncertainty effectively. It gave them a framework to move forward with intention and precision, even though they couldn't see the whole staircase in front of them.
 
 Full video: https://youtu.be/vhBsAXev014?si=_Udd_nUhxZuIf9_E

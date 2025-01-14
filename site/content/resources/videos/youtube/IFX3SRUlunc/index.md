@@ -6,6 +6,7 @@ videoId: IFX3SRUlunc
 source: youtube
 url: /resources/videos/:slug
 slug: 5-october-2023-product-ownership-and-lean-product-development-workshop-with-martin-and-joanna
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=IFX3SRUlunc
 aliases:
 - /resources/videos/IFX3SRUlunc
@@ -23,9 +24,10 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube IFX3SRUlunc >}} 
  🌟 Exclusive Webcast with Joanna Płaskonka, Ph.D. & Martin Hinshelwood: Dive Deep into Product Ownership & Lean Product Development! 🌟
 
 Join us for an enlightening 18-minute journey with two of the industry's leading experts, Dr. Joanna Płaskonka and Martin Hinshelwood, as they unravel the intricacies of Product Ownership and Lean Product Development.

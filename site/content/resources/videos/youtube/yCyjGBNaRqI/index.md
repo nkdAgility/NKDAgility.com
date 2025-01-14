@@ -5,6 +5,7 @@ date: 2024-05-10T06:45:01Z
 videoId: yCyjGBNaRqI
 url: /resources/videos/:slug
 slug: nkd-agility-mission-and-purpose
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=yCyjGBNaRqI
 aliases:
 - /resources/videos/yCyjGBNaRqI
@@ -18,9 +19,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube yCyjGBNaRqI >}} 
  What makes us tick? Why do we exist?
 
 In this short video, Martin Hinshelwood - Principal Agile Consultant and Professional Scrum Trainer - walks us through the mission and purpose that drives NKD Agility.

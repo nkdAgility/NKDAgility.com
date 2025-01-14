@@ -30,6 +30,7 @@ tags:
 - Scrum Master
 resourceTypes:
 - video
+layout: video
 
 ---
 {{< youtube 3CgKmunwiSQ >}}

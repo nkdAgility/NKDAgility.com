@@ -5,6 +5,7 @@ date: 2022-10-07T10:41:41Z
 videoId: phv_2Bv2PrA
 url: /resources/videos/:slug
 slug: what-is-agile-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=phv_2Bv2PrA
 aliases:
 - /resources/videos/phv_2Bv2PrA
@@ -21,9 +22,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube phv_2Bv2PrA >}} 
  This is a video about applying agile philosophy to foster change and growth in both personal and professional realms. Dive in for transformative insights! 
 
 Enjoy this video? 🔔 Like and subscribe to our channel: https://www.youtube.com/@nakedAgility

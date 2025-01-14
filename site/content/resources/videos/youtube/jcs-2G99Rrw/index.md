@@ -5,6 +5,7 @@ date: 2024-04-09T08:00:20Z
 videoId: jcs-2G99Rrw
 url: /resources/videos/:slug
 slug: top-4-rookie-mistakes-in-azure-devops
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=jcs-2G99Rrw
 aliases:
 - /resources/videos/jcs-2G99Rrw
@@ -18,9 +19,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube jcs-2G99Rrw >}} 
  Unpack 4 critical Azure DevOps pitfalls that make the Azure DevOps product teams' toes curl! 🛠️✨
 
 Enjoy this video? 🔔 Like and subscribe to our channel: https://www.youtube.com/@nakedAgility

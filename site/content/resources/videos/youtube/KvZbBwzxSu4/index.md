@@ -6,6 +6,7 @@ videoId: KvZbBwzxSu4
 source: internal
 url: /resources/videos/:slug
 slug: the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
+layout: video
 preview: https://i.ytimg.com/vi/KvZbBwzxSu4/maxresdefault.jpg
 duration: 591
 isShort: false

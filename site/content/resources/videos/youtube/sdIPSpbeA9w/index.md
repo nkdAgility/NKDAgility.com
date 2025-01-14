@@ -6,6 +6,7 @@ videoId: sdIPSpbeA9w
 source: youtube
 url: /resources/videos/:slug
 slug: the-cost-saving-power-of-automation
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=sdIPSpbeA9w
 aliases:
 - /resources/videos/sdIPSpbeA9w
@@ -31,9 +32,10 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube sdIPSpbeA9w >}} 
  Why Automation Is Key to Reducing Mistakes and Maximizing Efficiency in Software Development | Martin Hinshelwood
 
 In this video, I discuss how automation plays a critical role in reducing human error and improving efficiency in software development. From minimizing the impact of missed steps to closing feedback loops quickly, automation is crucial for building high-quality software faster and more reliably.

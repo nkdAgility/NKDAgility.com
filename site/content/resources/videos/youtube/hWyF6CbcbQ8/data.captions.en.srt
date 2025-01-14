@@ -1,0 +1,169 @@
+1
+00:00:00,080 --> 00:00:04,480
+here's what you need to know about data
+
+2
+00:00:02,560 --> 00:00:08,679
+integrity and is your devops
+
+3
+00:00:04,480 --> 00:00:10,800
+migrations um you can't have everything
+
+4
+00:00:08,679 --> 00:00:13,519
+depending on what it is you want to do
+
+5
+00:00:10,800 --> 00:00:15,279
+so there's a balance to be had between
+
+6
+00:00:13,519 --> 00:00:18,560
+Fidelity of the data that you're
+
+7
+00:00:15,279 --> 00:00:21,600
+migrating and the flexibility that you
+
+8
+00:00:18,560 --> 00:00:27,679
+want as part of your migration process
+
+9
+00:00:21,600 --> 00:00:30,519
+um so as your devops on Prem was TFS um
+
+10
+00:00:27,679 --> 00:00:32,600
+has a a database based architecture
+
+11
+00:00:30,519 --> 00:00:35,160
+right so you have a whole database of
+
+12
+00:00:32,600 --> 00:00:38,600
+data if you're taking that whole
+
+13
+00:00:35,160 --> 00:00:41,000
+Database The Collection um in in TFS and
+
+14
+00:00:38,600 --> 00:00:44,280
+Azure devops if you're taking that up to
+
+15
+00:00:41,000 --> 00:00:46,399
+Azure devops services in the cloud um as
+
+16
+00:00:44,280 --> 00:00:49,280
+one thing the whole thing we're taking
+
+17
+00:00:46,399 --> 00:00:51,840
+it together then we have the highest
+
+18
+00:00:49,280 --> 00:00:54,039
+Fidelity possible right we're we're
+
+19
+00:00:51,840 --> 00:00:56,199
+effectively taking the entire database
+
+20
+00:00:54,039 --> 00:01:00,160
+up with everything in it's in exactly
+
+21
+00:00:56,199 --> 00:01:02,640
+the same format that it is just now um
+
+22
+00:01:00,160 --> 00:01:04,960
+but for many organizations that's not
+
+23
+00:01:02,640 --> 00:01:07,240
+what they want to do they have a couple
+
+24
+00:01:04,960 --> 00:01:09,240
+of teams that want to go or they have
+
+25
+00:01:07,240 --> 00:01:13,960
+some teams that are able to go and other
+
+26
+00:01:09,240 --> 00:01:16,600
+teams that aren't um so part of that
+
+27
+00:01:13,960 --> 00:01:19,640
+migration uh uh process we've built a
+
+28
+00:01:16,600 --> 00:01:22,520
+bunch of tools that allow you to
+
+29
+00:01:19,640 --> 00:01:26,000
+selectively slice out the data that you
+
+30
+00:01:22,520 --> 00:01:31,399
+want to take uh but it does mean like
+
+31
+00:01:26,000 --> 00:01:35,799
+lower Fidelity because we're effectively
+
+32
+00:01:31,399 --> 00:01:38,759
+replaying the story of the data um
+
+33
+00:01:35,799 --> 00:01:42,560
+against the new environment right so
+
+34
+00:01:38,759 --> 00:01:45,960
+we're not importing the database we're
+
+35
+00:01:42,560 --> 00:01:47,320
+um replaying what happened with the data
+
+36
+00:01:45,960 --> 00:01:49,880
+and that means that there is a little
+
+37
+00:01:47,320 --> 00:01:53,759
+bit of data loss things don't always go
+
+38
+00:01:49,880 --> 00:01:57,119
+perfectly um but within that context of
+
+39
+00:01:53,759 --> 00:01:59,960
+taking uh the the the your choice of
+
+40
+00:01:57,119 --> 00:02:02,200
+data pick and mix uh from one place to
+
+41
+00:01:59,960 --> 00:02:05,320
+another it is the most flexible um
+
+42
+00:02:02,200 --> 00:02:05,320
+approach you can have
+
+
