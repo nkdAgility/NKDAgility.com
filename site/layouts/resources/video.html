@@ -14,7 +14,58 @@
   </section>
 {{- end }}
 {{- define "main" }}
-  <section class="container my-5" style="max-width: 700px !important">{{- .Content }}</section>
+<section class="container my-5" style="max-width: 700px !important">
+  <div class="ratio ratio-16x9 mb-4">
+      <iframe 
+          src="https://www.youtube.com/embed/{{.Params.videoId}}" 
+          title="YouTube video player" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+      </iframe>
+  </div>
+
+  {{ $resource := .Resources.GetMatch "index.captions.md" }}
+
+  <ul class="nav nav-tabs" id="myTab" role="tablist">
+    <li class="nav-item" role="presentation">
+        <button class="nav-link active" id="content-tab" data-bs-toggle="tab" data-bs-target="#content" type="button" role="tab" aria-controls="content" aria-selected="true">Content</button>
+    </li>
+    {{ with $resource }}
+      <li class="nav-item" role="presentation">
+        <button class="nav-link" id="transcript-tab" data-bs-toggle="tab" data-bs-target="#{{ .Name }}" type="button" role="tab" aria-controls="transcript" aria-selected="false">Transcript (EN)</button>
+      </li>
+    {{ end }}
+    {{ $resources := .Resources.Match "index.captions.*.md" }}
+    {{ range $resources }}
+      {{ $langCode := replace .File.BaseFileName "index.captions." "" }}
+      <li class="nav-item" role="presentation">
+        <button class="nav-link" id="transcript-tab" data-bs-toggle="tab" data-bs-target="#{{ .Name }}" type="button" role="tab" aria-controls="transcript" aria-selected="false">Transcript ({{ $langCode }})</button>
+      </li>
+    {{ end }}
+</ul>
+
+<div class="tab-content mt-3" id="myTabContent">
+    <div class="tab-pane fade show active" id="content" role="tabpanel" aria-labelledby="content-tab">
+      {{- .Content }}
+    </div>
+    {{ with $resource }}
+      <div class="tab-pane fade" id="{{ .Name }}" role="tabpanel" aria-labelledby="transcript-tab" lang="en">
+        {{- .Content }}
+      </div>
+    {{ end }}
+    {{ range $resources }}
+      {{ $langCode := replace .File.BaseFileName "index.captions." "" }}
+      <div class="tab-pane fade" id="{{ .Name }}" role="tabpanel" aria-labelledby="transcript-tab" lang="{{ $langCode }}">
+        {{- .Content }}
+      </div>
+    {{ end }}
+</div>
+
+
+</section>
+  
+
+
   <section class="container my-5" style="max-width: 700px !important">
     {{- partial "publications/tag-cloud.html" . }}
   </section>
