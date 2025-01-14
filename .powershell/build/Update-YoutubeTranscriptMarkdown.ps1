@@ -39,6 +39,9 @@ function Update-YoutubeTranscriptMarkdown {
                 Set-Content -Path $markdownFile -Value $captionsText -Encoding UTF8NoBOM -NoNewline
                 Write-Host "Markdown created or updated for video: $videoId"
             }  
+            else {
+                Write-Host "Markdown exists: $videoId"
+            }
 
             
         }
