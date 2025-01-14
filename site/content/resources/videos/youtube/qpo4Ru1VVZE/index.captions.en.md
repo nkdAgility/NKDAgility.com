@@ -1,0 +1,11 @@
+If you're worried about compatibility problems once you've moved from TFS on-prem to Azure DevOps, I probably really wouldn't worry that much about it. Everything that works on-prem works in Azure DevOps. It's more the other way; not everything that works in Azure DevOps works on-prem, where there's more likely to be compatibility issues. 
+
+But there are certainly, if you're on an older version of Team Foundation Server, we did a migration recently for TFS 2010, and they had some customisations that they built. They had some customisations that they bought that are just no longer a thing. They're no longer a thing in newer versions of on-prem TFS, so we had to plan around what they were going to do differently when they moved to the new location. 
+
+Right, because even just an upgrade of TFS, they're going to lose that functionality, and they have to upgrade. TFS 2010, I think, was out of support five years ago, maybe longer. So they were really hurting from that perspective. They need to be in compliance if you want support, data integrity. These are the systems that hold your company's IP. 
+
+Right, you need the code to be able to build your product, and that needs to be safe and secure. This is your organisational asset. If you have any building of software going on, this is a very expensive asset to work on, so you need to make sure that it all works. 
+
+As you move up to the cloud, you will still have a bunch of on-prem stuff going on. You probably have on-prem build agents; you probably have other things locally. Those can largely just continue to function as is. The agents will just connect to Azure DevOps in the cloud, and it's a one-way system. So the agents talk to the cloud; the cloud never talks to the agent, so you don't need to punch any holes through your firewall. 
+
+And then you've got to consider all of your own in-house customisations that you've created. It's very easy and has been for 14, 15 years to create extensions, plugins, and other systems that bounce off TFS. So you'll need to take into consideration what they are going to do in the new model of working with the cloud. These are all things that you can just resolve; they're not that difficult.

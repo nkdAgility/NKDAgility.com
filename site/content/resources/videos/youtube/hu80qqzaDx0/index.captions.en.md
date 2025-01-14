@@ -1,0 +1,3 @@
+The way we measure people informs the way they behave. So whenever you're working within an organisation and you find somebody's working against you or somebody's not being as involved as you think they should be involved, and you're wondering why, there's probably some organisational measure or metric, something being levied against them, that enables that behaviour, that ensures or encourages that behaviour in that person. 
+
+So the best way to figure out why somebody is doing something in a particular way that maybe you feel has a negative impact on the way your things need to happen is to figure out how they're measured.
