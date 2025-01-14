@@ -1,0 +1,317 @@
+1
+00:00:00,120 --> 00:00:09,160
+when you're doing a migration of data um
+
+2
+00:00:04,160 --> 00:00:12,120
+for your devops um downtime isn't of
+
+3
+00:00:09,160 --> 00:00:15,080
+always great concern for organizations
+
+4
+00:00:12,120 --> 00:00:17,560
+if you've got 5,000 software engineers
+
+5
+00:00:15,080 --> 00:00:19,840
+in your collection um you don't want it
+
+6
+00:00:17,560 --> 00:00:23,039
+to be down for an extended period of
+
+7
+00:00:19,840 --> 00:00:24,800
+time and your your engineers not able to
+
+8
+00:00:23,039 --> 00:00:26,240
+not able to work I'm going to put that
+
+9
+00:00:24,800 --> 00:00:29,240
+in air quotes because it's not really
+
+10
+00:00:26,240 --> 00:00:30,480
+true not able to work uh for that period
+
+11
+00:00:29,240 --> 00:00:32,399
+of time so there's a couple of things
+
+12
+00:00:30,480 --> 00:00:37,360
+that you do need to kind of understand
+
+13
+00:00:32,399 --> 00:00:39,719
+in this this this context um even if TFS
+
+14
+00:00:37,360 --> 00:00:43,640
+slz devops is
+
+15
+00:00:39,719 --> 00:00:47,239
+down like offline your engineers can
+
+16
+00:00:43,640 --> 00:00:50,160
+still work it's just more difficult for
+
+17
+00:00:47,239 --> 00:00:52,920
+them to collaborate together uh so if
+
+18
+00:00:50,160 --> 00:00:55,120
+they're using git as the source control
+
+19
+00:00:52,920 --> 00:00:58,359
+system which is the primary source
+
+20
+00:00:55,120 --> 00:01:00,920
+control system in Azure devops and TFS
+
+21
+00:00:58,359 --> 00:01:06,360
+then um
+
+22
+00:01:00,920 --> 00:01:08,080
+they're able to even share code in a way
+
+23
+00:01:06,360 --> 00:01:10,200
+that works within the context of the
+
+24
+00:01:08,080 --> 00:01:12,240
+tool even when they're offline um that's
+
+25
+00:01:10,200 --> 00:01:14,040
+how Linux was created there was no
+
+26
+00:01:12,240 --> 00:01:16,880
+Central Source control system and they
+
+27
+00:01:14,040 --> 00:01:20,119
+sent patches to each other over email
+
+28
+00:01:16,880 --> 00:01:21,960
+right uh so get fully supports that
+
+29
+00:01:20,119 --> 00:01:24,439
+obviously they wouldn't have access to
+
+30
+00:01:21,960 --> 00:01:26,520
+the work items uh so they would need to
+
+31
+00:01:24,439 --> 00:01:29,079
+have you know know what it is we're
+
+32
+00:01:26,520 --> 00:01:32,799
+working on for the time that it's down
+
+33
+00:01:29,079 --> 00:01:36,840
+but um I will point out that if you plan
+
+34
+00:01:32,799 --> 00:01:39,880
+it right uh downtime can be absolutely
+
+35
+00:01:36,840 --> 00:01:44,399
+minimal uh the largest migration we have
+
+36
+00:01:39,880 --> 00:01:47,520
+done was uh uh 2.5 terabytes uh
+
+37
+00:01:44,399 --> 00:01:51,960
+collection that we moved up from on Prem
+
+38
+00:01:47,520 --> 00:01:55,719
+in Europe uh on Prem to asure devops and
+
+39
+00:01:51,960 --> 00:01:57,640
+we took the system offline because it
+
+40
+00:01:55,719 --> 00:01:59,159
+needs to be offline to do the final part
+
+41
+00:01:57,640 --> 00:02:01,560
+of the migration we're actually moving
+
+42
+00:01:59,159 --> 00:02:06,039
+up to the cloud uh we took it offline at
+
+43
+00:02:01,560 --> 00:02:09,520
+5:00 p.m. on Friday um and we were back
+
+44
+00:02:06,039 --> 00:02:11,680
+online uh Sunday morning uh the
+
+45
+00:02:09,520 --> 00:02:14,200
+engineers came in over the weekend to
+
+46
+00:02:11,680 --> 00:02:15,680
+validate uh that things looked good
+
+47
+00:02:14,200 --> 00:02:17,239
+right they did their cursory checks you
+
+48
+00:02:15,680 --> 00:02:18,519
+everything's in the right place that
+
+49
+00:02:17,239 --> 00:02:21,200
+that that's working this is working
+
+50
+00:02:18,519 --> 00:02:24,000
+that's kind of thing um and we they were
+
+51
+00:02:21,200 --> 00:02:27,280
+back up and running Monday morning so
+
+52
+00:02:24,000 --> 00:02:29,599
+that's probably one of there be very few
+
+53
+00:02:27,280 --> 00:02:33,080
+people out there that have collections
+
+54
+00:02:29,599 --> 00:02:37,160
+that big um but if you plan it right and
+
+55
+00:02:33,080 --> 00:02:40,519
+that took in order to do a 2.5 terabyte
+
+56
+00:02:37,160 --> 00:02:45,239
+uh um system in that time we probably
+
+57
+00:02:40,519 --> 00:02:48,040
+took 3 to six months of planning and dry
+
+58
+00:02:45,239 --> 00:02:51,159
+runs and validations and making sure
+
+59
+00:02:48,040 --> 00:02:52,760
+everything's good in the data um dry
+
+60
+00:02:51,159 --> 00:02:55,800
+runs are really important for that sorry
+
+61
+00:02:52,760 --> 00:02:57,800
+that's practice runs right um to get the
+
+62
+00:02:55,800 --> 00:02:59,400
+data out of the data center in a timely
+
+63
+00:02:57,800 --> 00:03:01,680
+manner get it up to the cloud in a
+
+64
+00:02:59,400 --> 00:03:04,120
+timely manner or get it processed cuz
+
+65
+00:03:01,680 --> 00:03:06,080
+that can be quite failure prone you want
+
+66
+00:03:04,120 --> 00:03:08,560
+to have done a dry run so that that
+
+67
+00:03:06,080 --> 00:03:10,440
+always you know that's going to work um
+
+68
+00:03:08,560 --> 00:03:13,280
+and perhaps have Microsoft on hand to
+
+69
+00:03:10,440 --> 00:03:15,480
+help out if if there are any issues um
+
+70
+00:03:13,280 --> 00:03:17,080
+so that that was minimal downtime I
+
+71
+00:03:15,480 --> 00:03:19,799
+think that was about 5 and a half
+
+72
+00:03:17,080 --> 00:03:22,400
+thousand software Engineers um and they
+
+73
+00:03:19,799 --> 00:03:25,879
+really really had no downtime 5:00 P p.m
+
+74
+00:03:22,400 --> 00:03:28,120
+on Friday uh back up uh uh uh in the
+
+75
+00:03:25,879 --> 00:03:30,080
+morning but they were a global company
+
+76
+00:03:28,120 --> 00:03:33,040
+so there was some downtime for some
+
+77
+00:03:30,080 --> 00:03:35,599
+engineers in some regions um right
+
+78
+00:03:33,040 --> 00:03:39,439
+because that's just unavoidable but we
+
+79
+00:03:35,599 --> 00:03:39,439
+minimized it as much as possible
+
+

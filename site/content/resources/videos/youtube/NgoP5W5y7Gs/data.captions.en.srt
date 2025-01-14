@@ -1,0 +1,545 @@
+1
+00:00:00,120 --> 00:00:08,000
+many companies make the mistake of
+
+2
+00:00:04,319 --> 00:00:10,840
+security as an afterthought doing
+
+3
+00:00:08,000 --> 00:00:14,080
+security validation and Security checks
+
+4
+00:00:10,840 --> 00:00:16,279
+at the end of the
+
+5
+00:00:14,080 --> 00:00:18,160
+process this is
+
+6
+00:00:16,279 --> 00:00:20,880
+not a
+
+7
+00:00:18,160 --> 00:00:22,760
+small company problem it's not a big
+
+8
+00:00:20,880 --> 00:00:26,320
+company problem it's an all company
+
+9
+00:00:22,760 --> 00:00:29,519
+problem and some of the largest tech
+
+10
+00:00:26,320 --> 00:00:31,800
+companies have resolved this with
+
+11
+00:00:29,519 --> 00:00:34,559
+something you'll probably hear about in
+
+12
+00:00:31,800 --> 00:00:38,760
+in Dora in the Dora report which is
+
+13
+00:00:34,559 --> 00:00:41,320
+shift left shifting left shifting
+
+14
+00:00:38,760 --> 00:00:42,760
+everything as left as you can as close
+
+15
+00:00:41,320 --> 00:00:45,239
+to the developers as close to the
+
+16
+00:00:42,760 --> 00:00:47,120
+engineers as possible is how you resolve
+
+17
+00:00:45,239 --> 00:00:51,000
+these issues because what has been
+
+18
+00:00:47,120 --> 00:00:53,199
+happening is that we will do many years
+
+19
+00:00:51,000 --> 00:00:55,520
+of work on a product could be months
+
+20
+00:00:53,199 --> 00:00:57,559
+could be years could be weeks we do a
+
+21
+00:00:55,520 --> 00:01:00,680
+whole bunch of work on a product and
+
+22
+00:00:57,559 --> 00:01:02,440
+then we ship it to pen testing or
+
+23
+00:01:00,680 --> 00:01:05,159
+somebody who's going to do some security
+
+24
+00:01:02,440 --> 00:01:06,760
+validation for your for your product
+
+25
+00:01:05,159 --> 00:01:09,400
+even if it's yourselves doing it but you
+
+26
+00:01:06,760 --> 00:01:11,759
+just do it at the end and you find a
+
+27
+00:01:09,400 --> 00:01:15,000
+whole bunch of problems and some of
+
+28
+00:01:11,759 --> 00:01:16,680
+those problems are going to
+
+29
+00:01:15,000 --> 00:01:19,119
+be
+
+30
+00:01:16,680 --> 00:01:21,680
+systemic to to how you've built your
+
+31
+00:01:19,119 --> 00:01:24,479
+product in the first place right we we
+
+32
+00:01:21,680 --> 00:01:27,920
+we we oh right in order to fix that
+
+33
+00:01:24,479 --> 00:01:27,920
+we're going to have to rearchitecturing
+
+34
+00:01:30,079 --> 00:01:34,680
+if we're late in the game we're ready to
+
+35
+00:01:32,280 --> 00:01:37,159
+ship everybody's asking us when when's
+
+36
+00:01:34,680 --> 00:01:40,200
+it going live so we need to get out we
+
+37
+00:01:37,159 --> 00:01:42,799
+need to blue blue Peter the heck out of
+
+38
+00:01:40,200 --> 00:01:45,159
+that and we get out our super glue our
+
+39
+00:01:42,799 --> 00:01:47,600
+sticky tape and we go figure out how do
+
+40
+00:01:45,159 --> 00:01:49,719
+we paper over the cracks in our product
+
+41
+00:01:47,600 --> 00:01:51,880
+to prevent the hackers getting in and
+
+42
+00:01:49,719 --> 00:01:54,640
+the problem is that hackers are super
+
+43
+00:01:51,880 --> 00:01:57,680
+good at peeling away the edges of those
+
+44
+00:01:54,640 --> 00:02:00,240
+things to get underneath um and prevent
+
+45
+00:01:57,680 --> 00:02:03,840
+those get access to your system and take
+
+46
+00:02:00,240 --> 00:02:07,799
+it over um I
+
+47
+00:02:03,840 --> 00:02:10,920
+I've been involved with um some
+
+48
+00:02:07,799 --> 00:02:13,000
+exercises that the Azure devops team did
+
+49
+00:02:10,920 --> 00:02:16,120
+where they hired a team of professional
+
+50
+00:02:13,000 --> 00:02:17,920
+hackers this is red blue exercises hire
+
+51
+00:02:16,120 --> 00:02:21,080
+a team of professional hackers brought
+
+52
+00:02:17,920 --> 00:02:23,640
+them in and their job they're the red
+
+53
+00:02:21,080 --> 00:02:27,400
+team their job is to hike the system and
+
+54
+00:02:23,640 --> 00:02:29,959
+the blue team's job is to a detect them
+
+55
+00:02:27,400 --> 00:02:31,519
+and B do something about them right
+
+56
+00:02:29,959 --> 00:02:34,680
+either prevent them getting in or push
+
+57
+00:02:31,519 --> 00:02:36,879
+them out or all of those things and the
+
+58
+00:02:34,680 --> 00:02:39,200
+red team always wins that's the thing
+
+59
+00:02:36,879 --> 00:02:40,959
+you have to realize is eventually the
+
+60
+00:02:39,200 --> 00:02:42,400
+red team is always going to win they're
+
+61
+00:02:40,959 --> 00:02:45,879
+going to find a flaw they're going to
+
+62
+00:02:42,400 --> 00:02:49,599
+find ways to peel up that that tape and
+
+63
+00:02:45,879 --> 00:02:53,000
+the only way for you to prevent those
+
+64
+00:02:49,599 --> 00:02:55,480
+things is to not have vulnerable code in
+
+65
+00:02:53,000 --> 00:02:58,400
+the first place not have vulnerable
+
+66
+00:02:55,480 --> 00:03:00,400
+architectures in the first place and the
+
+67
+00:02:58,400 --> 00:03:02,360
+only way to do that is to ref Factor the
+
+68
+00:03:00,400 --> 00:03:05,120
+heck out of your system to make those
+
+69
+00:03:02,360 --> 00:03:07,120
+things go away and then stop those
+
+70
+00:03:05,120 --> 00:03:09,599
+things from happening in the first place
+
+71
+00:03:07,120 --> 00:03:12,120
+so for example the Azure devops team
+
+72
+00:03:09,599 --> 00:03:16,200
+they do these red blue exercises and
+
+73
+00:03:12,120 --> 00:03:19,480
+then the red team's job is to go around
+
+74
+00:03:16,200 --> 00:03:22,720
+all of the teams in the organization and
+
+75
+00:03:19,480 --> 00:03:26,000
+show them how the red team was able to
+
+76
+00:03:22,720 --> 00:03:28,480
+use their code to get access to the
+
+77
+00:03:26,000 --> 00:03:30,560
+system and how they could have coded it
+
+78
+00:03:28,480 --> 00:03:32,599
+differently or architect it differently
+
+79
+00:03:30,560 --> 00:03:35,760
+or changed the way they do something in
+
+80
+00:03:32,599 --> 00:03:37,519
+order to prevent hackers getting in that
+
+81
+00:03:35,760 --> 00:03:39,319
+that's security by Design that's
+
+82
+00:03:37,519 --> 00:03:42,439
+security from the start that security
+
+83
+00:03:39,319 --> 00:03:44,920
+baked into the problem this is true for
+
+84
+00:03:42,439 --> 00:03:47,400
+a lot of different facets of software
+
+85
+00:03:44,920 --> 00:03:50,560
+engineering is that it's every team
+
+86
+00:03:47,400 --> 00:03:54,040
+member's problem right what the business
+
+87
+00:03:50,560 --> 00:03:56,200
+wants is every team member's problem how
+
+88
+00:03:54,040 --> 00:03:58,599
+much it's going to cost is every team
+
+89
+00:03:56,200 --> 00:04:00,799
+member's problem the customer's worries
+
+90
+00:03:58,599 --> 00:04:04,680
+are every team member problem and
+
+91
+00:04:00,799 --> 00:04:08,519
+security is every team member's problem
+
+92
+00:04:04,680 --> 00:04:11,079
+so building Security in rather than
+
+93
+00:04:08,519 --> 00:04:14,000
+testing it in building quality in rather
+
+94
+00:04:11,079 --> 00:04:16,959
+than testing it in is about shifting
+
+95
+00:04:14,000 --> 00:04:20,959
+left getting as many of those skills
+
+96
+00:04:16,959 --> 00:04:24,120
+that you need for your context um into
+
+97
+00:04:20,959 --> 00:04:26,320
+the hands of the developers that are
+
+98
+00:04:24,120 --> 00:04:29,440
+doing the work and there are a bunch of
+
+99
+00:04:26,320 --> 00:04:33,479
+tools out there that can help with that
+
+100
+00:04:29,440 --> 00:04:36,280
+there sonar sonar Cube and sonar Cloud
+
+101
+00:04:33,479 --> 00:04:39,600
+which enable your developers to analyze
+
+102
+00:04:36,280 --> 00:04:42,039
+their code and find and perhaps
+
+103
+00:04:39,600 --> 00:04:44,160
+hopefully deal with vulnerabilities um
+
+104
+00:04:42,039 --> 00:04:47,680
+there are known vulnerabilities that
+
+105
+00:04:44,160 --> 00:04:49,960
+happen in the code you can also use
+
+106
+00:04:47,680 --> 00:04:52,880
+GitHub which is part of they have a an
+
+107
+00:04:49,960 --> 00:04:54,639
+advanced security protection system uh
+
+108
+00:04:52,880 --> 00:04:58,000
+which you can use in GitHub or as part
+
+109
+00:04:54,639 --> 00:05:01,639
+of aure devops and to again analyze the
+
+110
+00:04:58,000 --> 00:05:03,840
+code find problems poke at it it's why
+
+111
+00:05:01,639 --> 00:05:08,440
+when if you're a developer and you try
+
+112
+00:05:03,840 --> 00:05:10,840
+and upload um some code that has a pat
+
+113
+00:05:08,440 --> 00:05:13,320
+token or other thing that looks like a
+
+114
+00:05:10,840 --> 00:05:16,199
+security token or a password into the
+
+115
+00:05:13,320 --> 00:05:18,120
+system you will be prevented from
+
+116
+00:05:16,199 --> 00:05:19,800
+checking in that code from committing
+
+117
+00:05:18,120 --> 00:05:23,080
+that code from the repo from doing a
+
+118
+00:05:19,800 --> 00:05:24,720
+push to production by GitHub and as your
+
+119
+00:05:23,080 --> 00:05:26,440
+devops because the advanced threat
+
+120
+00:05:24,720 --> 00:05:28,280
+protection is detecting that and
+
+121
+00:05:26,440 --> 00:05:30,680
+preventing it from getting into the
+
+122
+00:05:28,280 --> 00:05:34,360
+system in the first place shifting as
+
+123
+00:05:30,680 --> 00:05:37,080
+far left as we possibly can to validate
+
+124
+00:05:34,360 --> 00:05:39,360
+that those things are not going to cause
+
+125
+00:05:37,080 --> 00:05:42,000
+those vulnerabilities a really common
+
+126
+00:05:39,360 --> 00:05:44,319
+vulnerability is is developers on dev
+
+127
+00:05:42,000 --> 00:05:47,280
+machines putting passwords in text files
+
+128
+00:05:44,319 --> 00:05:51,560
+right on dev machines there's all sorts
+
+129
+00:05:47,280 --> 00:05:54,960
+of vectors uh that hackers can use my
+
+130
+00:05:51,560 --> 00:05:58,080
+advice are capability to help you is
+
+131
+00:05:54,960 --> 00:06:00,720
+within the context of Shifting left and
+
+132
+00:05:58,080 --> 00:06:03,280
+enabling your teams to have the
+
+133
+00:06:00,720 --> 00:06:06,400
+knowledge and skills they need to be
+
+134
+00:06:03,280 --> 00:06:08,360
+able to prevent and remove as many of
+
+135
+00:06:06,400 --> 00:06:10,880
+these issues as possible before they
+
+136
+00:06:08,360 --> 00:06:10,880
+become an
+
+

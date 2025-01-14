@@ -1,0 +1,693 @@
+1
+00:00:00,080 --> 00:00:07,439
+automated testing is extremely important
+
+2
+00:00:04,120 --> 00:00:08,760
+to our ability to use modern software
+
+3
+00:00:07,439 --> 00:00:11,639
+engineering
+
+4
+00:00:08,760 --> 00:00:13,639
+to benefit our organization and and
+
+5
+00:00:11,639 --> 00:00:15,719
+increase our our our profit increase our
+
+6
+00:00:13,639 --> 00:00:19,080
+margins increase our capability and
+
+7
+00:00:15,719 --> 00:00:22,880
+deliver better quality higher value
+
+8
+00:00:19,080 --> 00:00:24,439
+software to our to our customers so
+
+9
+00:00:22,880 --> 00:00:28,480
+automated testing comes in lots of
+
+10
+00:00:24,439 --> 00:00:30,560
+different flavors there and I'm
+
+11
+00:00:28,480 --> 00:00:32,840
+definitely going to stretch the term
+
+12
+00:00:30,560 --> 00:00:34,000
+automated testing maybe from your tra
+
+13
+00:00:32,840 --> 00:00:37,160
+traditional
+
+14
+00:00:34,000 --> 00:00:39,399
+concept um one of the things that
+
+15
+00:00:37,160 --> 00:00:43,280
+automated testing does is it reduces
+
+16
+00:00:39,399 --> 00:00:46,039
+human errors right you would think I
+
+17
+00:00:43,280 --> 00:00:49,039
+used to teach uh a training class I I
+
+18
+00:00:46,039 --> 00:00:52,239
+still have it on my my um list of things
+
+19
+00:00:49,039 --> 00:00:56,399
+for manual testers to use as your devops
+
+20
+00:00:52,239 --> 00:00:59,120
+test tools and you would we had labs in
+
+21
+00:00:56,399 --> 00:01:00,800
+it you would think that if there was one
+
+22
+00:00:59,120 --> 00:01:03,800
+group of people
+
+23
+00:01:00,800 --> 00:01:07,280
+that were awesome at following a set of
+
+24
+00:01:03,800 --> 00:01:08,880
+steps from a from set of steps and
+
+25
+00:01:07,280 --> 00:01:11,080
+validating whether that they worked or
+
+26
+00:01:08,880 --> 00:01:13,560
+not you would think that a group of
+
+27
+00:01:11,080 --> 00:01:15,479
+testers would be that that magical group
+
+28
+00:01:13,560 --> 00:01:19,159
+of people that would be able to do that
+
+29
+00:01:15,479 --> 00:01:22,320
+and it's absolutely not not the case
+
+30
+00:01:19,159 --> 00:01:25,680
+most of the groups that were doing the
+
+31
+00:01:22,320 --> 00:01:28,360
+labs failed to follow the steps and
+
+32
+00:01:25,680 --> 00:01:30,560
+resulted in the this lab's not working
+
+33
+00:01:28,360 --> 00:01:32,479
+this lab doesn't work right and it's
+
+34
+00:01:30,560 --> 00:01:34,079
+like yeah it does it does did you follow
+
+35
+00:01:32,479 --> 00:01:36,560
+all the steps yes yes yes we followed
+
+36
+00:01:34,079 --> 00:01:37,880
+all the steps and then you sit with them
+
+37
+00:01:36,560 --> 00:01:39,880
+and they walk through it and I'm like
+
+38
+00:01:37,880 --> 00:01:41,320
+you missed step four you didn't do step
+
+39
+00:01:39,880 --> 00:01:42,840
+four or you didn't do the second part of
+
+40
+00:01:41,320 --> 00:01:45,920
+step four or whatever it is right you
+
+41
+00:01:42,840 --> 00:01:49,000
+didn't follow the instruction and this
+
+42
+00:01:45,920 --> 00:01:52,439
+is just a human thing this is not
+
+43
+00:01:49,000 --> 00:01:57,079
+a an assassination attempt on testers
+
+44
+00:01:52,439 --> 00:01:59,719
+it's just how humans work right so you
+
+45
+00:01:57,079 --> 00:02:02,039
+cannot expect somebody to follow a set
+
+46
+00:01:59,719 --> 00:02:05,479
+of steps and do it the same every time
+
+47
+00:02:02,039 --> 00:02:07,560
+that's not how humans function so the
+
+48
+00:02:05,479 --> 00:02:11,760
+that's how computers function so we want
+
+49
+00:02:07,560 --> 00:02:15,160
+to take those things that make
+
+50
+00:02:11,760 --> 00:02:18,040
+sense and convert them into automated
+
+51
+00:02:15,160 --> 00:02:20,360
+tests now that's not we're not looking
+
+52
+00:02:18,040 --> 00:02:22,400
+for a particular level of code coverage
+
+53
+00:02:20,360 --> 00:02:25,160
+although node code coverage is probably
+
+54
+00:02:22,400 --> 00:02:26,840
+bad chasing code coverage is always a
+
+55
+00:02:25,160 --> 00:02:28,760
+bad idea because you'll just have lots
+
+56
+00:02:26,840 --> 00:02:30,360
+of people writing terrible tests that
+
+57
+00:02:28,760 --> 00:02:32,239
+get you good code coverage but don't
+
+58
+00:02:30,360 --> 00:02:34,239
+actually validate your product right so
+
+59
+00:02:32,239 --> 00:02:37,000
+don't don't chase code coverage or test
+
+60
+00:02:34,239 --> 00:02:39,440
+coverage but it is a way for us to get
+
+61
+00:02:37,000 --> 00:02:43,120
+faster feedback right we want to have
+
+62
+00:02:39,440 --> 00:02:44,879
+fast running automated tests that we can
+
+63
+00:02:43,120 --> 00:02:48,400
+validate the changes that we make on a
+
+64
+00:02:44,879 --> 00:02:51,760
+continuous basis tdd results in some of
+
+65
+00:02:48,400 --> 00:02:54,000
+those right some tests out of TD are
+
+66
+00:02:51,760 --> 00:02:56,519
+like that most tests out of tdd validate
+
+67
+00:02:54,000 --> 00:02:58,720
+that that at least the product does what
+
+68
+00:02:56,519 --> 00:03:01,000
+the software engineer intended it to do
+
+69
+00:02:58,720 --> 00:03:03,080
+and validates that we've we've got an
+
+70
+00:03:01,000 --> 00:03:06,360
+architecture that probably is a little
+
+71
+00:03:03,080 --> 00:03:09,519
+bit better that's hopefully part of that
+
+72
+00:03:06,360 --> 00:03:11,720
+that that testing mode but the value in
+
+73
+00:03:09,519 --> 00:03:15,360
+automated testing is it happens the same
+
+74
+00:03:11,720 --> 00:03:18,120
+every time you do need to balance this
+
+75
+00:03:15,360 --> 00:03:20,239
+idea of test infrastructure right
+
+76
+00:03:18,120 --> 00:03:23,120
+because when we write test automation we
+
+77
+00:03:20,239 --> 00:03:24,879
+have a body of tests and whenever we
+
+78
+00:03:23,120 --> 00:03:27,000
+make a change to our product is going to
+
+79
+00:03:24,879 --> 00:03:29,920
+have an impact on those tests they used
+
+80
+00:03:27,000 --> 00:03:31,920
+to be a great feature in in azure devops
+
+81
+00:03:29,920 --> 00:03:34,040
+that had something called test impact
+
+82
+00:03:31,920 --> 00:03:36,840
+analysis and you could make a change in
+
+83
+00:03:34,040 --> 00:03:39,480
+the code and it would tell you exactly
+
+84
+00:03:36,840 --> 00:03:42,319
+which code paths had changed and tell
+
+85
+00:03:39,480 --> 00:03:44,200
+you which tests were impacted I think
+
+86
+00:03:42,319 --> 00:03:47,319
+there was a lot of false negatives which
+
+87
+00:03:44,200 --> 00:03:49,959
+is why it's not well thought of but it
+
+88
+00:03:47,319 --> 00:03:52,200
+it it was a great idea right a great
+
+89
+00:03:49,959 --> 00:03:54,760
+idea how do we know what tests we need
+
+90
+00:03:52,200 --> 00:03:57,879
+to run well let's look at what's changed
+
+91
+00:03:54,760 --> 00:03:59,840
+and what the tests hit and are we
+
+92
+00:03:57,879 --> 00:04:02,360
+missing something and which tests need
+
+93
+00:03:59,840 --> 00:04:04,799
+be rerun in order to to to know reducing
+
+94
+00:04:02,360 --> 00:04:04,799
+your test
+
+95
+00:04:05,319 --> 00:04:11,200
+Matrix but because that fundamentally
+
+96
+00:04:08,680 --> 00:04:12,959
+doesn't work because of complexity right
+
+97
+00:04:11,200 --> 00:04:15,040
+that's what got in the way complexity of
+
+98
+00:04:12,959 --> 00:04:16,840
+software engineering we need to run them
+
+99
+00:04:15,040 --> 00:04:17,759
+all which means they all need to be
+
+100
+00:04:16,840 --> 00:04:21,359
+super
+
+101
+00:04:17,759 --> 00:04:23,600
+fast we need we need unit tests not end
+
+102
+00:04:21,359 --> 00:04:26,240
+to end tests not integration tests we
+
+103
+00:04:23,600 --> 00:04:28,759
+need unit tests that run really really
+
+104
+00:04:26,240 --> 00:04:31,960
+quickly and thousands of them in
+
+105
+00:04:28,759 --> 00:04:34,639
+milliseconds the Azure devops team moved
+
+106
+00:04:31,960 --> 00:04:37,400
+from long running end to end tests to
+
+107
+00:04:34,639 --> 00:04:39,759
+fast running unit tests and took their
+
+108
+00:04:37,400 --> 00:04:42,840
+test strategy their test infrastructure
+
+109
+00:04:39,759 --> 00:04:45,520
+from 72 hours down to 3 and a half
+
+110
+00:04:42,840 --> 00:04:47,280
+minutes almost to run their entire test
+
+111
+00:04:45,520 --> 00:04:49,039
+infrastructure that's what you're
+
+112
+00:04:47,280 --> 00:04:52,080
+looking to be able to do and that's that
+
+113
+00:04:49,039 --> 00:04:54,919
+there's something like 60 100 between 60
+
+114
+00:04:52,080 --> 00:04:57,039
+and 100,000 tests being run to validate
+
+115
+00:04:54,919 --> 00:04:59,320
+that their product still works that's
+
+116
+00:04:57,039 --> 00:05:02,759
+the story that you're looking for you're
+
+117
+00:04:59,320 --> 00:05:06,039
+you're looking for small lean discrete
+
+118
+00:05:02,759 --> 00:05:08,440
+tests that don't have impact across the
+
+119
+00:05:06,039 --> 00:05:09,960
+entire platform so that when you make a
+
+120
+00:05:08,440 --> 00:05:11,520
+change in this part of the system you
+
+121
+00:05:09,960 --> 00:05:13,039
+only need to change the tests in that
+
+122
+00:05:11,520 --> 00:05:14,960
+part of the system all the other tests
+
+123
+00:05:13,039 --> 00:05:17,440
+should still pass because you've not
+
+124
+00:05:14,960 --> 00:05:18,800
+broken what they're expecting in other
+
+125
+00:05:17,440 --> 00:05:23,240
+parts of the system and it gives you a
+
+126
+00:05:18,800 --> 00:05:25,800
+good indication so so having this tight
+
+127
+00:05:23,240 --> 00:05:28,919
+test infrastructure shifting left as
+
+128
+00:05:25,800 --> 00:05:31,840
+much as you can can and automating
+
+129
+00:05:28,919 --> 00:05:34,400
+everything the phrase I usually say is
+
+130
+00:05:31,840 --> 00:05:37,280
+if it can be automated it should be
+
+131
+00:05:34,400 --> 00:05:39,680
+automated and if it can't be automated
+
+132
+00:05:37,280 --> 00:05:43,440
+it should be refactored so that it can
+
+133
+00:05:39,680 --> 00:05:46,560
+right automate everything you should not
+
+134
+00:05:43,440 --> 00:05:48,840
+have any
+
+135
+00:05:46,560 --> 00:05:52,199
+manual
+
+136
+00:05:48,840 --> 00:05:56,280
+steps between developer cutting code and
+
+137
+00:05:52,199 --> 00:05:59,720
+production the only thing that I'd say
+
+138
+00:05:56,280 --> 00:06:02,840
+was a valid place where you put a a a a
+
+139
+00:05:59,720 --> 00:06:05,360
+a block a human between those things is
+
+140
+00:06:02,840 --> 00:06:07,639
+maybe an approval but I would prefer for
+
+141
+00:06:05,360 --> 00:06:10,840
+those approvals to be automated right on
+
+142
+00:06:07,639 --> 00:06:13,960
+what basis does this human decide
+
+143
+00:06:10,840 --> 00:06:15,680
+whether we're a go no go for release
+
+144
+00:06:13,960 --> 00:06:17,960
+well they do they look at this data well
+
+145
+00:06:15,680 --> 00:06:19,639
+we can automate that they they they they
+
+146
+00:06:17,960 --> 00:06:21,680
+look at the calendar and they only do it
+
+147
+00:06:19,639 --> 00:06:24,000
+on these days well we can we can look at
+
+148
+00:06:21,680 --> 00:06:26,120
+that we can say we only release on on on
+
+149
+00:06:24,000 --> 00:06:28,400
+Monday mornings right to give us maximum
+
+150
+00:06:26,120 --> 00:06:30,479
+amount of time to deal with any problems
+
+151
+00:06:28,400 --> 00:06:32,919
+never release on Friday don't do that CL
+
+152
+00:06:30,479 --> 00:06:35,039
+strike did that don't do that we can do
+
+153
+00:06:32,919 --> 00:06:39,039
+all of those things we can automate
+
+154
+00:06:35,039 --> 00:06:42,160
+everything so that we have that
+
+155
+00:06:39,039 --> 00:06:44,280
+engineering Excellence modern software
+
+156
+00:06:42,160 --> 00:06:45,639
+engineering Excellence built into our
+
+157
+00:06:44,280 --> 00:06:49,520
+entire
+
+158
+00:06:45,639 --> 00:06:51,240
+story so that we can then spend the time
+
+159
+00:06:49,520 --> 00:06:52,960
+that we would have spent doing all those
+
+160
+00:06:51,240 --> 00:06:55,120
+things manually and fixing all those
+
+161
+00:06:52,960 --> 00:06:57,440
+problems focusing on delivering the
+
+162
+00:06:55,120 --> 00:06:59,599
+value that's going to generate the
+
+163
+00:06:57,440 --> 00:07:02,400
+revenue that we need to grow and create
+
+164
+00:06:59,599 --> 00:07:06,000
+create more that's what we should be
+
+165
+00:07:02,400 --> 00:07:09,560
+focusing on and test automation is a
+
+166
+00:07:06,000 --> 00:07:11,520
+huge part of that to reduce the number
+
+167
+00:07:09,560 --> 00:07:13,840
+of problems that make it through to
+
+168
+00:07:11,520 --> 00:07:17,199
+production to reduce the amount of time
+
+169
+00:07:13,840 --> 00:07:21,400
+it takes to detect that you've injected
+
+170
+00:07:17,199 --> 00:07:26,160
+problems into the system and we can help
+
+171
+00:07:21,400 --> 00:07:27,599
+you create those strategies build that
+
+172
+00:07:26,160 --> 00:07:32,160
+engineering Excellence within your
+
+173
+00:07:27,599 --> 00:07:32,160
+organization and ultimately build better
+
+

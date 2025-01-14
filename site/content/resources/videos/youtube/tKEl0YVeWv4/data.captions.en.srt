@@ -1,0 +1,737 @@
+1
+00:00:00,080 --> 00:00:08,360
+automation plays a massive role in
+
+2
+00:00:04,400 --> 00:00:11,599
+enabling your your your your teams to
+
+3
+00:00:08,360 --> 00:00:15,640
+develop faster and more effectively
+
+4
+00:00:11,599 --> 00:00:19,600
+right automation is almost
+
+5
+00:00:15,640 --> 00:00:22,320
+the the thing that supports your ability
+
+6
+00:00:19,600 --> 00:00:25,080
+to do that and you should automate
+
+7
+00:00:22,320 --> 00:00:27,800
+everything if it can be automated it
+
+8
+00:00:25,080 --> 00:00:30,519
+should be automated if it can't be
+
+9
+00:00:27,800 --> 00:00:33,760
+automated you want to do the work in
+
+10
+00:00:30,519 --> 00:00:36,840
+your product to enable that thing to be
+
+11
+00:00:33,760 --> 00:00:39,680
+automated right so automated deployments
+
+12
+00:00:36,840 --> 00:00:41,280
+automated testing I I use aure devops as
+
+13
+00:00:39,680 --> 00:00:42,760
+as an example a lot because they've done
+
+14
+00:00:41,280 --> 00:00:44,840
+a lot of this work and hit a lot of
+
+15
+00:00:42,760 --> 00:00:48,120
+these problems one of the things that
+
+16
+00:00:44,840 --> 00:00:50,719
+they started doing was they wanted to
+
+17
+00:00:48,120 --> 00:00:55,039
+automate the the the changing of
+
+18
+00:00:50,719 --> 00:00:58,239
+security right so on every deployment
+
+19
+00:00:55,039 --> 00:01:00,760
+every security key every certificate
+
+20
+00:00:58,239 --> 00:01:03,239
+everything is refreshed
+
+21
+00:01:00,760 --> 00:01:05,840
+every environment every server you know
+
+22
+00:01:03,239 --> 00:01:08,400
+so infrastructure is code everything is
+
+23
+00:01:05,840 --> 00:01:11,640
+refreshed so you never
+
+24
+00:01:08,400 --> 00:01:15,799
+deploy they never deploy to upgrade the
+
+25
+00:01:11,640 --> 00:01:18,720
+version of their service on an existing
+
+26
+00:01:15,799 --> 00:01:20,439
+environment they build a new environment
+
+27
+00:01:18,720 --> 00:01:23,360
+and put that in and take the old
+
+28
+00:01:20,439 --> 00:01:25,240
+environment out right and these these
+
+29
+00:01:23,360 --> 00:01:30,159
+sorts of
+
+30
+00:01:25,240 --> 00:01:31,880
+automations enable you to continuously
+
+31
+00:01:30,159 --> 00:01:35,560
+be as slick as
+
+32
+00:01:31,880 --> 00:01:37,680
+possible right and it means
+
+33
+00:01:35,560 --> 00:01:41,799
+that one thing that's really important
+
+34
+00:01:37,680 --> 00:01:44,079
+to understand is that humans suck at
+
+35
+00:01:41,799 --> 00:01:46,479
+following a set of steps in the same way
+
+36
+00:01:44,079 --> 00:01:48,560
+every time that's what robots are for
+
+37
+00:01:46,479 --> 00:01:50,680
+right robots follow a set of steps
+
+38
+00:01:48,560 --> 00:01:52,960
+continuously that's what automation is
+
+39
+00:01:50,680 --> 00:01:55,119
+automation follows a set of steps and
+
+40
+00:01:52,960 --> 00:01:58,360
+always follows it the same way and
+
+41
+00:01:55,119 --> 00:02:00,640
+always follows all of the steps right so
+
+42
+00:01:58,360 --> 00:02:03,560
+if you get an exception or you a problem
+
+43
+00:02:00,640 --> 00:02:05,600
+there's a problem with the steps right
+
+44
+00:02:03,560 --> 00:02:09,200
+um when humans are following a set of
+
+45
+00:02:05,600 --> 00:02:11,480
+steps manually for example then you
+
+46
+00:02:09,200 --> 00:02:14,720
+don't know whether the problem is with
+
+47
+00:02:11,480 --> 00:02:16,480
+the set of steps or the problem is with
+
+48
+00:02:14,720 --> 00:02:20,440
+the human following the
+
+49
+00:02:16,480 --> 00:02:22,879
+steps and that's a risk you don't need
+
+50
+00:02:20,440 --> 00:02:24,879
+it's absolutely a risk you don't need so
+
+51
+00:02:22,879 --> 00:02:27,440
+a great example of that is the night
+
+52
+00:02:24,879 --> 00:02:31,120
+Capital group in the US it was a company
+
+53
+00:02:27,440 --> 00:02:33,319
+in the US they had 450 million in the
+
+54
+00:02:31,120 --> 00:02:36,000
+bank at the beginning of the day and
+
+55
+00:02:33,319 --> 00:02:38,800
+they were doing a deployment of of of a
+
+56
+00:02:36,000 --> 00:02:41,000
+new new version of their system and a
+
+57
+00:02:38,800 --> 00:02:43,120
+lot of a lot of things were not quite
+
+58
+00:02:41,000 --> 00:02:46,080
+right they were repurposing some some
+
+59
+00:02:43,120 --> 00:02:48,280
+code in their product they were H doing
+
+60
+00:02:46,080 --> 00:02:51,480
+doing a bunch of silly things because
+
+61
+00:02:48,280 --> 00:02:54,280
+they didn't have good quality but they
+
+62
+00:02:51,480 --> 00:02:56,319
+also were doing a manual deployment and
+
+63
+00:02:54,280 --> 00:02:59,319
+the the engineer that did the deployment
+
+64
+00:02:56,319 --> 00:03:00,800
+deployed to six out of the seven servers
+
+65
+00:02:59,319 --> 00:03:03,319
+that they had
+
+66
+00:03:00,800 --> 00:03:06,239
+so the system then started behaving
+
+67
+00:03:03,319 --> 00:03:08,159
+oddly because six of the servers had the
+
+68
+00:03:06,239 --> 00:03:09,799
+correct code and one of the servers
+
+69
+00:03:08,159 --> 00:03:12,519
+didn't have the correct code so if you
+
+70
+00:03:09,799 --> 00:03:13,760
+can imagine a load balancing situation
+
+71
+00:03:12,519 --> 00:03:15,959
+where you're trying to you're trying
+
+72
+00:03:13,760 --> 00:03:17,760
+you're looking at the system it's not
+
+73
+00:03:15,959 --> 00:03:19,560
+working it's not functioning properly
+
+74
+00:03:17,760 --> 00:03:22,400
+but you can't figure out why cuz some
+
+75
+00:03:19,560 --> 00:03:24,040
+calls are working and some calls are not
+
+76
+00:03:22,400 --> 00:03:25,720
+and it looks kind of random because it's
+
+77
+00:03:24,040 --> 00:03:28,319
+the load balancer that's load balancing
+
+78
+00:03:25,720 --> 00:03:31,280
+between the servers it took them all day
+
+79
+00:03:28,319 --> 00:03:34,519
+to figure it out but they'd started
+
+80
+00:03:31,280 --> 00:03:37,120
+losing thousands of dollars every second
+
+81
+00:03:34,519 --> 00:03:38,920
+and with 450 million in the bank at the
+
+82
+00:03:37,120 --> 00:03:40,640
+beginning of the day by the end of the
+
+83
+00:03:38,920 --> 00:03:41,959
+day they had to file for chapter 11
+
+84
+00:03:40,640 --> 00:03:44,040
+bankruptcy they were listed in the New
+
+85
+00:03:41,959 --> 00:03:45,360
+York Stock Exchange which is why we know
+
+86
+00:03:44,040 --> 00:03:49,040
+what the problem was because they had to
+
+87
+00:03:45,360 --> 00:03:51,799
+file that as part of their bankruptcy
+
+88
+00:03:49,040 --> 00:03:55,360
+filing that would have been
+
+89
+00:03:51,799 --> 00:03:57,720
+prevented by automation it would have
+
+90
+00:03:55,360 --> 00:03:59,360
+been prevented by automated testing it
+
+91
+00:03:57,720 --> 00:04:00,360
+would have been prevented by automated
+
+92
+00:03:59,360 --> 00:04:01,480
+deployment
+
+93
+00:04:00,360 --> 00:04:04,519
+it would have been prevented by
+
+94
+00:04:01,480 --> 00:04:07,480
+automated checks a more recent one that
+
+95
+00:04:04,519 --> 00:04:09,799
+had a massive Global impact was Cloud
+
+96
+00:04:07,480 --> 00:04:12,040
+strike right that would have been
+
+97
+00:04:09,799 --> 00:04:14,400
+prevented by automation it would have
+
+98
+00:04:12,040 --> 00:04:16,759
+prevented by automated deployment it
+
+99
+00:04:14,400 --> 00:04:20,840
+would have been prevented by automated
+
+100
+00:04:16,759 --> 00:04:22,600
+checks it would have been prevented by
+
+101
+00:04:20,840 --> 00:04:25,400
+these types of capabilities that we're
+
+102
+00:04:22,600 --> 00:04:28,960
+talking about as you increase the number
+
+103
+00:04:25,400 --> 00:04:32,240
+of deployments that you do you're forced
+
+104
+00:04:28,960 --> 00:04:34,240
+to deal with these types of scenarios
+
+105
+00:04:32,240 --> 00:04:36,160
+right how do I roll out to a smaller
+
+106
+00:04:34,240 --> 00:04:38,479
+group of people so that I can figure out
+
+107
+00:04:36,160 --> 00:04:40,360
+whether one of my favorite quotes is
+
+108
+00:04:38,479 --> 00:04:42,080
+from a gentleman called Brian Harry
+
+109
+00:04:40,360 --> 00:04:43,960
+Brian Harry was the product unit manager
+
+110
+00:04:42,080 --> 00:04:46,039
+for the Azure devops team so he ran that
+
+111
+00:04:43,960 --> 00:04:50,600
+whole developer division at Microsoft
+
+112
+00:04:46,039 --> 00:04:53,320
+for many years and his his one of his
+
+113
+00:04:50,600 --> 00:04:55,720
+mantras was that there's no place like
+
+114
+00:04:53,320 --> 00:04:57,680
+production you know like kind of Dorothy
+
+115
+00:04:55,720 --> 00:05:01,240
+type of thing clicking The Red
+
+116
+00:04:57,680 --> 00:05:03,199
+Shoes there's no place like produ
+
+117
+00:05:01,240 --> 00:05:05,000
+no matter how much testing you do no
+
+118
+00:05:03,199 --> 00:05:06,919
+matter how much validation no matter how
+
+119
+00:05:05,000 --> 00:05:08,560
+much money you throw that throw at that
+
+120
+00:05:06,919 --> 00:05:10,639
+no matter how much time you throw at
+
+121
+00:05:08,560 --> 00:05:12,759
+that you're going to have production
+
+122
+00:05:10,639 --> 00:05:15,479
+issues you're going to have production
+
+123
+00:05:12,759 --> 00:05:17,639
+issues because you can't simulate
+
+124
+00:05:15,479 --> 00:05:19,680
+production it's not fundamentally
+
+125
+00:05:17,639 --> 00:05:21,240
+possible you can do your best and you
+
+126
+00:05:19,680 --> 00:05:23,520
+can spend an awful lot of money trying
+
+127
+00:05:21,240 --> 00:05:26,160
+to figure out how to simulate production
+
+128
+00:05:23,520 --> 00:05:28,520
+as much as possible but there's always
+
+129
+00:05:26,160 --> 00:05:30,000
+gaps it's not possible to simulate
+
+130
+00:05:28,520 --> 00:05:32,080
+production to simulate the type of
+
+131
+00:05:30,000 --> 00:05:36,720
+transaction simulate simulate what users
+
+132
+00:05:32,080 --> 00:05:40,560
+do it's not possible so a better
+
+133
+00:05:36,720 --> 00:05:43,560
+strategy than testing quality in is to
+
+134
+00:05:40,560 --> 00:05:46,639
+build quality in and if you're building
+
+135
+00:05:43,560 --> 00:05:49,440
+quality in you want to get that product
+
+136
+00:05:46,639 --> 00:05:53,280
+in front of real customers in production
+
+137
+00:05:49,440 --> 00:05:55,199
+as quickly as possible I I Google Google
+
+138
+00:05:53,280 --> 00:05:57,400
+does no Facebook it's Facebook I was
+
+139
+00:05:55,199 --> 00:05:59,639
+thinking of Facebook do a really
+
+140
+00:05:57,400 --> 00:06:02,360
+interesting thing where when a
+
+141
+00:05:59,639 --> 00:06:05,840
+developers rolling out their their new
+
+142
+00:06:02,360 --> 00:06:10,720
+version of the the the the product they
+
+143
+00:06:05,840 --> 00:06:14,639
+have a point in time when a call into
+
+144
+00:06:10,720 --> 00:06:16,800
+Facebook is executed twice it's executed
+
+145
+00:06:14,639 --> 00:06:20,199
+with the current production version and
+
+146
+00:06:16,800 --> 00:06:22,080
+then it's executed with the new version
+
+147
+00:06:20,199 --> 00:06:24,280
+that's not in production yet so it
+
+148
+00:06:22,080 --> 00:06:26,319
+execute execute execute execute execute
+
+149
+00:06:24,280 --> 00:06:29,120
+execute and then they can turn up the
+
+150
+00:06:26,319 --> 00:06:31,759
+dial and go from a small like 10,000
+
+151
+00:06:29,120 --> 00:06:35,039
+users up to 10 million users up to 100
+
+152
+00:06:31,759 --> 00:06:37,039
+million users doing this and developers
+
+153
+00:06:35,039 --> 00:06:39,520
+can see the
+
+154
+00:06:37,039 --> 00:06:42,280
+Telemetry for what's happening with this
+
+155
+00:06:39,520 --> 00:06:45,319
+is it is it performing well is it doing
+
+156
+00:06:42,280 --> 00:06:48,039
+the right thing is it having similar you
+
+157
+00:06:45,319 --> 00:06:50,160
+know comparing the output from the two
+
+158
+00:06:48,039 --> 00:06:52,680
+and what they what they they actually do
+
+159
+00:06:50,160 --> 00:06:54,440
+is they do it completely automated so
+
+160
+00:06:52,680 --> 00:06:58,280
+the time from a developer committing a
+
+161
+00:06:54,440 --> 00:07:01,199
+new capability to it replacing this
+
+162
+00:06:58,280 --> 00:07:04,479
+production capability that's there is as
+
+163
+00:07:01,199 --> 00:07:07,160
+I understand about 13 12 to 13 minutes
+
+164
+00:07:04,479 --> 00:07:10,800
+and that's with full test Suite full
+
+165
+00:07:07,160 --> 00:07:12,560
+regression full validation of do they
+
+166
+00:07:10,800 --> 00:07:14,599
+operate the same way do they have the
+
+167
+00:07:12,560 --> 00:07:17,039
+same output that we need do they work in
+
+168
+00:07:14,599 --> 00:07:19,080
+that contact do they perform and scaled
+
+169
+00:07:17,039 --> 00:07:21,960
+out across the entire platform in about
+
+170
+00:07:19,080 --> 00:07:24,319
+13 minutes so they can have these small
+
+171
+00:07:21,960 --> 00:07:25,720
+changes small fixes go out really
+
+172
+00:07:24,319 --> 00:07:27,360
+quickly and then when they work on
+
+173
+00:07:25,720 --> 00:07:28,759
+bigger things perhaps they're using
+
+174
+00:07:27,360 --> 00:07:30,039
+feature Flags or they're using other
+
+175
+00:07:28,759 --> 00:07:33,840
+capability
+
+176
+00:07:30,039 --> 00:07:36,560
+so automation that's an automated
+
+177
+00:07:33,840 --> 00:07:40,199
+process automation is
+
+178
+00:07:36,560 --> 00:07:46,440
+absolutely critical to your ability and
+
+179
+00:07:40,199 --> 00:07:48,800
+your product's ability to to have fast
+
+180
+00:07:46,440 --> 00:07:51,039
+reliable the fast reliable ability to
+
+181
+00:07:48,800 --> 00:07:52,599
+add features fast reliable ability to
+
+182
+00:07:51,039 --> 00:07:54,960
+deal with problems to deal with
+
+183
+00:07:52,599 --> 00:07:58,680
+surprises and opportunities as they
+
+184
+00:07:54,960 --> 00:07:58,680
+arise in your Market
+
+
