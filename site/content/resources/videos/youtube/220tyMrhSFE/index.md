@@ -25,6 +25,5 @@ resourceTypes:
 - video
 
 ---
-{{< youtube 220tyMrhSFE >}} 
  Kanban Principles. Visit https://www.nkdagility.com #agile #agileprojectmanagement #agileproductdevelopment #kanban #agileframework 
  [Watch on Youtube](https://www.youtube.com/watch?v=220tyMrhSFE)

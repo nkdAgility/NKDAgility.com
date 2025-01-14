@@ -23,6 +23,5 @@ resourceTypes:
 - video
 
 ---
-{{< youtube _ghSntAkoKI >}} 
  What is our training all about? Maybe this timelapse overview of the full four half-days of training will help you. If not, check out our free live-streamed workshops on our channel. 
  [Watch on Youtube](https://www.youtube.com/watch?v=_ghSntAkoKI)

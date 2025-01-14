@@ -33,7 +33,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube LI6G1awAUyU >}} 
  #devops is that mysterious partner to #agile in many environments. It's something that has stumped many an #agilecoach or #agileconsultant, because it requires knowledge and practise in the environment to thrive.
 
 Martin Hinshelwood has been a #devops expert for many years, and applied that skill as a #devopsconsultant for over a decade to help organizations achieve their #productdevelopment goals.

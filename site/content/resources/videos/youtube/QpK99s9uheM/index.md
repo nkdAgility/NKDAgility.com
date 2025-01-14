@@ -30,7 +30,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube QpK99s9uheM >}} 
  #shorts #shortsvideo #agile doesn't have a #projectmanager role and neither does #scrum. Sometimes, people think a #scrummaster is an #agileprojectmanager but they aren't. They perform a completely different role. Martin Hinshelwood explains.
 
 About NKD Agility

@@ -23,6 +23,5 @@ resourceTypes:
 - video
 
 ---
-{{< youtube ZMqxCD-va_I >}} 
  nkdagility mighty networks overview for PST 
  [Watch on Youtube](https://www.youtube.com/watch?v=ZMqxCD-va_I)

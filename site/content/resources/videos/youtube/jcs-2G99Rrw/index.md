@@ -23,7 +23,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube jcs-2G99Rrw >}} 
  Unpack 4 critical Azure DevOps pitfalls that make the Azure DevOps product teams' toes curl! 🛠️✨
 
 Enjoy this video? 🔔 Like and subscribe to our channel: https://www.youtube.com/@nakedAgility

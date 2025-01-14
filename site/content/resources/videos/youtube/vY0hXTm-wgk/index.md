@@ -23,7 +23,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube vY0hXTm-wgk >}} 
  naked Agility Limited is a professional company that offers training, coaching, mentoring, and facilitation to help people and teams evolve, integrate, and continuously improve.
 
 To allow us to focus on reflecting and practising in the classroom, our training courses leverage a flipped learning approach that delivers some or all of the theory as self-study.

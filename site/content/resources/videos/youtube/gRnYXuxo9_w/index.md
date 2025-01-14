@@ -30,7 +30,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube gRnYXuxo9_w >}} 
  *Unlocking Team Potential: The Power of Openness in Scrum*
 
 Discover how openness revolutionizes team dynamics and drives success in Scrum. Dive deep into the vital role of transparency and trust in this insightful discussion. 🔐🌀💡

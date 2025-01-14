@@ -28,7 +28,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube jCrXzgjxcEA >}} 
  Unlocking Kanban's Full Potential with Azure DevOps: A Deep Dive - Discover how Azure DevOps transforms Kanban for hybrid work environments, enhancing visualization, collaboration, and workflow efficiency.
 
 Enjoy this video? 🔔 Like and subscribe to our channel: https://www.youtube.com/@nakedAgility

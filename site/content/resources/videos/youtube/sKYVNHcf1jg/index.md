@@ -29,7 +29,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube sKYVNHcf1jg >}} 
  #agileconsulting can be incredibly rewarding and fulfilling.
 
 You get to work with amazing clients and for the most part, you're the dreamweaver that empowers the team to successfully adopt #agile and rock with #productdevelopment.

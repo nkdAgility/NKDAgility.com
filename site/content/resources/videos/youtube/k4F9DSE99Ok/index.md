@@ -49,7 +49,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube k4F9DSE99Ok >}} 
  One of the 7 signs of the #agile apocalypse is Famine. 
 
 Famine happens when you are starved of feedback, reviews, and information that can help the team create products that truly delight customers. For some teams, that famine may even extend to your #productowner failing to turn up for reviews and meetings.

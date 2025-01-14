@@ -46,7 +46,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube MCkSBdzRK_c >}} 
  🚀 Explore the Power of Evidence-Based Management in This Essential Video! 🚀
 
 👀 Why You Should Watch:

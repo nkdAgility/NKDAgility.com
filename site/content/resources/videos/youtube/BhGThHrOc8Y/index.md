@@ -30,7 +30,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube BhGThHrOc8Y >}} 
  Unravel the true essence of DevOps beyond just tools! Dive deep into the philosophy, practices, and ideas that drive successful DevOps implementations. 🛠️🔄💡
 
 *Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility

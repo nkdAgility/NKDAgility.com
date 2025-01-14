@@ -23,7 +23,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube cIkodssozoE >}} 
  In this 90 minutes free Workshop, we will cover an  "Introduction to User Stories" with some interactive sessions around building good user stories and when to break them down.
 
 Join Live and Interactive on: 

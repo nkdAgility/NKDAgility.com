@@ -46,7 +46,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube JGQ5zW6F6Uc >}} 
  Facing challenges with an ineffective product owner? Learn how the Scrum Master and team can navigate this situation. Dive into the intricacies of organizational politics, communication, and role allocation. 🌟
 
 *Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility

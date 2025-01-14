@@ -30,7 +30,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube U7wIQk1pus0 >}} 
  I have not done an installation from scratch for a while so I thought that I would share a TFS basic install. For all those that think that installing and configuring TFS is hard or complicated this is for you.
 
 My fan kicked on half way through, hence the hiss... I have ordered a microphone...

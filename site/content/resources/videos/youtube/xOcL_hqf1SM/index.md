@@ -46,7 +46,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube xOcL_hqf1SM >}} 
  Martin Hinshelwood walks us through the third thing you must achieve before you can call yourself an #agilecoach 
 
 About NKD Agility

@@ -36,7 +36,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube tdOSrPOlyAI >}} 
  # Partnering for Engineering Excellence and Technical Leadership | Martin Hinshelwood  
 
 👋 Hi, I’m Martin Hinshelwood from [NKD Agility](https://www.nkdagility.com), and in this video, I wrap up our series on **engineering excellence** and **technical leadership** by discussing how Naked Agility can be your partner in achieving these goals. From addressing poor-quality products to shifting left across all aspects of development, I’ll show you how building a culture of quality and accountability can unlock value for your customers and your organization.

@@ -30,7 +30,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube 2k1726k9zvg >}} 
  *Unraveling the Scrum Master Role: Insights and Misconceptions*
 
 Discover the true essence of a Scrum Master's role in our latest video. Uncover the myths and realities of what it takes to lead effectively in a Scrum environment. First 120 characters: Dive into the Scrum Master role - myth vs. reality, effective leadership, and team dynamics.

@@ -46,7 +46,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube OMlLiLkCmMY >}} 
  #shorts #shortsvideo #shortvideo 7 virtues of #agile, presented by Martin Hinshelwood. First virtue, #chastity. Visit https://www.nkdagility.com
 
 Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 

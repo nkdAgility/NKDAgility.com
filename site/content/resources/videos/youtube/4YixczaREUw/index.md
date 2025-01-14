@@ -23,7 +23,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube 4YixczaREUw >}} 
  This is a phrase I often hear from folks who have been unable to adapt their systems of work to incorporate the core philosophies, theories, and practices of Scrum. They sit and look at the signals coming from Scrum that things are broken and do nothing but say:
 
 “Scrum is like communism; it does not work!”

@@ -29,7 +29,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube KRC89A7RtrM >}} 
  Have you ever seen the massage "Some of the features of Team Web Access are not available to you" when you access TFS 2013? Have you wondered how to get access to those features? Find out here.
 
 More videos and blogs on http://nakedalm.com/blog 

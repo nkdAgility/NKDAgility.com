@@ -46,7 +46,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube APZNdMokZVo >}} 
  Unlocking the Power of Definition of Done in Scrum: A Deep Dive
 
 Dive deep into the essence of the 'Definition of Done' in Scrum and its pivotal role in Agile frameworks. Discover how it shapes product quality and risk mitigation in project management. 

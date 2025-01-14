@@ -27,7 +27,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube AjUC6FPYCQM >}} 
  *Unveiling the Secrets of Professional Scrum: A Journey Beyond the Basics*
 
 Explore the depths of professional Scrum application with insights that challenge conventional approaches. Dive into a transformative discourse on evolving from basic Scrum practices to mastering its profound impacts on teams and organizations.

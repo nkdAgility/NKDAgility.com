@@ -28,6 +28,5 @@ resourceTypes:
 - video
 
 ---
-{{< youtube MO7O6kTmufc >}} 
  Introduction to Evidence-based Management Excerpt 2 #agile #evidencebasedleadership #evidencebasedmanagement #ebm #scrum #leadership #agileleadership 
  [Watch on Youtube](https://www.youtube.com/watch?v=MO7O6kTmufc)

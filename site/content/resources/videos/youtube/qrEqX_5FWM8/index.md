@@ -32,7 +32,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube qrEqX_5FWM8 >}} 
  *Unlocking Real-World Value with Immersive Learning: A Scrum.org Insight* - Explore the transformative power of immersive learning in this insightful video. Discover how it connects theory to real-world scenarios, enhancing practical skills in project management and Scrum.
 
 *Book today - https://nkdagility.com/training-courses/course-schedule/ -- Regional pricing, bulk discount, & alumni discounts available!*

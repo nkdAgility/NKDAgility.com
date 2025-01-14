@@ -30,7 +30,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube zs0q_zz8-JY >}} 
  #shorts #shortsvideo #shortvideo Martin Hinshelwood explores one of the biggest misconceptions about a #scrummaster 
 
 About NKD Agility

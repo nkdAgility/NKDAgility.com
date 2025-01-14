@@ -38,7 +38,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube Gym5-p-mNtw >}} 
  Engineering Excellence: Eliminating Waste and Maximizing ROI | Martin Hinshelwood
 
 👋 Hi, I’m Martin Hinshelwood from NKD Agility, and in this video, I dive into the hidden costs of waste within software development and how a focus on engineering excellence can help organizations improve their return on investment (ROI). From understanding key metrics like innovation rate, on-product index, and usage index, to leveraging agility and DevOps practices, this video covers actionable steps to optimize your value delivery pipeline.

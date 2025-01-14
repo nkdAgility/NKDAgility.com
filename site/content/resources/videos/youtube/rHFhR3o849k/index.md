@@ -28,7 +28,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube rHFhR3o849k >}} 
  There is a significant difference between a #projectmanager and a #scrummaster, and it's often hard for people to understand how a scrum master operates through influence, coaching, and mentoring rather than leveraging the authority and power of a traditional #projectmanager.
 
 #agile is significantly different to #projectmanagement and so a whole different set of skills is required, but you still need to cover all the bases that a traditional #projectmanager would focus on via the #scrumteam.

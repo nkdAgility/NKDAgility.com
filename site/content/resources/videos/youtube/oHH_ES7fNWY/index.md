@@ -35,7 +35,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube oHH_ES7fNWY >}} 
  Have you ever tried to configure emails for an application to send through office 365?
 
 

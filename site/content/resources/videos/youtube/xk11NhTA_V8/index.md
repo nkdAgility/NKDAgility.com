@@ -49,7 +49,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube xk11NhTA_V8 >}} 
  If you're fortunate, your journey to wisdom and excellence is informed by learning, coaching, and mentoring. In other words, your judgement is informed by experts who help guide you through the maze and onto solid ground.
 
 Full video: https://youtu.be/FdQpGx-FW-0

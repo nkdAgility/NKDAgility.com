@@ -49,7 +49,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube HFFSrQx-wbQ >}} 
  There's a lot of criticism for #projectmanagement in the #agile world, especially by zealots who read the #agilemanifesto but have very little experience in helping teams adopt and implement #agile effectively.
 
 Full video: https://youtu.be/UeisJt8U2_0

@@ -31,7 +31,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube 4kqM1U7y1ZM >}} 
  #agileconsulting and #agilecoaching can seem somewhat nebulous at times because many coaches and consultants don't provide clear outcomes that a client can expect.
 
 In this short video, Martin Hinshelwood talks about what you could expect within 90 days of an #agileconsulting engagement with NKD Agility

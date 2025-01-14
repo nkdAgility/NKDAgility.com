@@ -23,6 +23,5 @@ resourceTypes:
 - video
 
 ---
-{{< youtube CWxkBJJduCE >}} 
  Redefining test driven development. Excerpt from our "Quality Code: Achieving Engineering Excellence with NKD Agility" series. Visit https://www.nkdagility.com #agile #scrum #productdevelopment #agileproductdevelopment #agileproductmanagement #developer #projectmanager 
  [Watch on Youtube](https://www.youtube.com/watch?v=CWxkBJJduCE)

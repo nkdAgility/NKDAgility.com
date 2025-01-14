@@ -37,7 +37,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube aWYoJtSgTDo >}} 
  #agileleadership is about sensing opportunities, responding to threats, and making valuable decisions even when you don't have all the information you need.
 
 Joanna Plaskonka - #professionalscrumtrainer and #agile expert - talks us through the similarities of navigating new territories and what she has learned through one of her favourite hobbies, mushroom foraging.

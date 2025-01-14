@@ -31,7 +31,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube NG9Y1_qQjvg >}} 
  Have you seen how easy it is to install and configure a full release management suite with Visual Studio 2013? See Martin install and configure the new Visual Studio 2013 Release Management Server, Client, and Deployment Agent in under 10 minutes.
 
 More videos and blogs on http://nakedalm.com/blog 

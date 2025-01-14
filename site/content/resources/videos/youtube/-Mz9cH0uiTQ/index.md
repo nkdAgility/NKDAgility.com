@@ -28,7 +28,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube -Mz9cH0uiTQ >}} 
  Making the transition from #projectmanagement to #agile #productdevelopment can be intimidating. You don't know where to start, you aren't sure of what the top priorities are, and you may not even be 100% clear about what problems you are trying to solve.
 
 So, how do you move forward when it feels like you are in quicksand? Do you need to figure it all out before contracting an #agileconsultant or is that something that an #agileconsultant helps you identify and define?

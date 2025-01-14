@@ -27,7 +27,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube NKQr8oGO8lg >}} 
  #leadership is always about developing practices, skills, and systems that help you acquire competitive advantage, and #agileleadership even more so because we work in a complex environment.
 
 In this short video, Joanna Plaskonka - Professional Scrum Trainer and PAL-E Course Instructor - walks us through some of the ways that the new immersive learning experience over 7 weeks will help you optimize your learning experience and start creating value for your organization out the blocks.

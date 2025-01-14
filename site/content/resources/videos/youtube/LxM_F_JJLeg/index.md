@@ -30,7 +30,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube LxM_F_JJLeg >}} 
  *Don't Let Incompetence Mask as Malevolence*
 
 We often mistake incompetence for malevolence in our agile journeys. Dive deep into how the system's incompetence can overshadow our efforts. 🚀 #productvision #agile #scrumtraining #scrumorg

@@ -34,7 +34,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube PZa77csy5r8 >}} 
  # Understanding and Managing Technical Debt: Lessons from Azure DevOps | Martin Hinshelwood  
 
 👋 Hi, I’m Martin Hinshelwood from [NKD Agility](https://www.nkdagility.com), and in this video, I break down the concept of **technical debt**, how it affects your team’s ability to deliver value, and why paying it back is essential. Using real-world examples, including insights from the Azure DevOps team, I’ll show you how managing technical debt can transform your product development process and unlock long-term productivity gains.

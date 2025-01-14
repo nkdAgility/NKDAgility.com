@@ -28,6 +28,5 @@ resourceTypes:
 - video
 
 ---
-{{< youtube msmlRibX2zE >}} 
  You can find the full post on http://nakedalm.com/review-harris-beach-sds-ultrabook-from-intel-unboxing/ 
  [Watch on Youtube](https://www.youtube.com/watch?v=msmlRibX2zE)

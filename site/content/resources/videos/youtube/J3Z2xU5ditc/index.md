@@ -46,7 +46,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube J3Z2xU5ditc >}} 
  Demystifying Scrum: It's All About Planning! 📅 Dive deep into the world of Scrum and unravel the myth that Agile means no planning. 
 
 *Enjoy this video? Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility

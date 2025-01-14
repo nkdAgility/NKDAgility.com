@@ -23,7 +23,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube 8PViHnzs_-s >}} 
  Dive into commitment in Scrum, what do we commit to and why. Engage with Ana, Martin, and the other participants in an interactive workshop on commitment.
 
 Can you commit?

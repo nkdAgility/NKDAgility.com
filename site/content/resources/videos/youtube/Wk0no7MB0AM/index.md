@@ -49,7 +49,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube Wk0no7MB0AM >}} 
  War is one of the seven signs of the Agile-pocolypse! ⚔️
 
 As an Agile expert, I'm passionate about helping teams to succeed. And that includes helping them to resolve conflict and create a positive and productive work environment.

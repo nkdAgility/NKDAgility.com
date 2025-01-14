@@ -32,7 +32,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube vWfebO_pwIU >}} 
  *Why do so few scrum masters progress to the PSM II and PSM III certifications?*
 Discover why many Scrum Masters don't pursue advanced certifications like PSM2 or PSM3. Dive into the motivations and passion behind true mastery in Scrum. 📜🔍
 

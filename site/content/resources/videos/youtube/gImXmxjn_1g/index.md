@@ -28,7 +28,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube gImXmxjn_1g >}} 
  Congratulations, you've earned your stripes as an #agilepractitioner and now it's time to bring your expertise, skills, and experience into the realm of #consulting. #agileconsulting to be precise.
 
 What should your initial focus be? What are the three top tips you should follow to make that first #agileconsulting engagement rock?

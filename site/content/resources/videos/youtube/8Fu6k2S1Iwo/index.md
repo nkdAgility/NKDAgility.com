@@ -23,7 +23,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube 8Fu6k2S1Iwo >}} 
  Martin and Simon discuss the intricacies of Scrum and Continuous Delivery. They delve into practical scenarios, share insights, and provide actionable takeaways for teams looking to optimize their agile journey. 📘📈
 
 

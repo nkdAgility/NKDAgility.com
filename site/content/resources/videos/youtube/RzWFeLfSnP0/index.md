@@ -23,7 +23,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube RzWFeLfSnP0 >}} 
  Why is done so important in the Reporting & Data Space?
 
 With Mark Noneman - Mark focuses on helping organisations apply lean and agile principals and practices to improve quality, increase productivity and deliver value faster. 

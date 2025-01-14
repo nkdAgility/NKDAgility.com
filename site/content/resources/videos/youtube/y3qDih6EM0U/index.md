@@ -23,6 +23,5 @@ sitemap:
   priority: 0.4
 
 ---
-{{< youtube y3qDih6EM0U >}} 
   
  [Watch on Youtube](https://www.youtube.com/watch?v=y3qDih6EM0U)

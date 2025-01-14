@@ -23,7 +23,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube f8q2fBkUez0 >}} 
  ### Panel Description: "Should Companies Take Money Off the Table? Exploring Motivation Beyond Financial Incentives"
 
 In today's fast-paced business environment, the debate over the role of financial incentives in driving employee motivation is more relevant than ever. Join us for an engaging panel discussion where we dive deep into the idea of "taking money off the table" as a motivator and explore the principles outlined in Dan Pink's groundbreaking work, *Drive*.

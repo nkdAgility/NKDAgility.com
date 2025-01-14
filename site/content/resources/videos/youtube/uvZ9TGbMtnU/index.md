@@ -46,7 +46,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube uvZ9TGbMtnU >}} 
  #shorts #shortvideo #shortsvideo Martin Hinshelwood walks us through the 5 kinds of #agile bandits. This video features #specialsprints
 
 About NKD Agility

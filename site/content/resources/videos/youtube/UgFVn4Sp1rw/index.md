@@ -31,7 +31,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube UgFVn4Sp1rw >}} 
  Understanding Product Costs and Maximizing Value | Martin Hinshelwood
 In this video, we dive into the complexities of product costs and how to evaluate the return on investment (ROI) of your software development efforts. From understanding cost per sprint to leveraging evidence-based management for decision-making, this discussion highlights the importance of empowering every team member to think like an entrepreneur.
 ________________________________________

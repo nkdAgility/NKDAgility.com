@@ -46,7 +46,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube UFCwbq00CEQ >}} 
  #shorts #shortvideo #shortsvideo Martin Hinshelwood walks us through the 5 #agile bandits. This video features 'say-do' metrics.
 
 About NKD Agility

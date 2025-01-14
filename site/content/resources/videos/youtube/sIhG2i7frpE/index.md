@@ -26,6 +26,5 @@ resourceTypes:
 - video
 
 ---
-{{< youtube sIhG2i7frpE >}} 
  Improving workflow with #kanban. Visit https://www.nkdagility.com #agile #agileframework #kanban 
  [Watch on Youtube](https://www.youtube.com/watch?v=sIhG2i7frpE)

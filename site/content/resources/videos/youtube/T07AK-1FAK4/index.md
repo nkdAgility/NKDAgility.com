@@ -46,7 +46,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube T07AK-1FAK4 >}} 
  #shorts #shortsvideo #shortvideo In the context of the #agile industry, the anti-christ represents fake experts who sell snake oil and hype up customer expectations. In this short video, Martin Hinshelwood explains why they are a sign of the #agile apocalypse.
 
 About NKD Agility

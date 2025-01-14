@@ -26,6 +26,5 @@ resourceTypes:
 - video
 
 ---
-{{< youtube V44iUwv0Jcg >}} 
  Continuous Improvement with #kanban. Visit https://www.nkdagility.com #agile #scrum #kaizen #kanban #agileframework 
  [Watch on Youtube](https://www.youtube.com/watch?v=V44iUwv0Jcg)

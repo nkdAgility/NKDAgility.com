@@ -29,7 +29,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube rbFTob3DdjE >}} 
  #shorts #shortsvideo #shortvideo 5 tools that a #scrummaster loves. #scrum tool 2
 
 About NKD Agility

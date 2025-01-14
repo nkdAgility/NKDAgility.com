@@ -23,6 +23,5 @@ resourceTypes:
 - video
 
 ---
-{{< youtube 56nUC8jR2v8 >}} 
  Join us at Future of Work in Scotland: https://www.meetup.com/the-future-of-work-in-Scotland/events/270847429/ 
  [Watch on Youtube](https://www.youtube.com/watch?v=56nUC8jR2v8)

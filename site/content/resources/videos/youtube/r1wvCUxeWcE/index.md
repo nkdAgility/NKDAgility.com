@@ -25,6 +25,5 @@ resourceTypes:
 - video
 
 ---
-{{< youtube r1wvCUxeWcE >}} 
  Kanban Boards. Visit https://www.nkdagility.com #agile #kanban #agileprojectmanagement #agileproductdevelopment 
  [Watch on Youtube](https://www.youtube.com/watch?v=r1wvCUxeWcE)

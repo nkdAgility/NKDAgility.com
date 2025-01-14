@@ -38,7 +38,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube Ig-HpUfQr3M >}} 
  Hypothesis-Driven Product Development: Allocating Budget for Maximum Impact | Martin Hinshelwood
 
 👋 Hi, I’m Martin Hinshelwood from NKD Agility, and in this video, I explore the critical shift organizations need to make from traditional budgeting to hypothesis-driven product development. Instead of focusing on “staying within budget,” this approach emphasizes iterative learning, informed decision-making, and maximizing value by testing ideas early and often.

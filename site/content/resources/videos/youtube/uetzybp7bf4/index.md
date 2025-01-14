@@ -37,7 +37,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube uetzybp7bf4 >}} 
  Empowering Teams with Financial Transparency: Maximizing ROI in Product Development | Martin Hinshelwood
 
 👋 Hi, I’m Martin Hinshelwood from NKD Agility, and in this video, I discuss how empowering teams with financial context and transparency can significantly improve decision-making and ROI in product development. By fostering a culture of ownership and enabling teams to understand the value and cost of their work, organizations can create a powerful foundation for continuous improvement and smarter investments.

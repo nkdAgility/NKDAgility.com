@@ -28,7 +28,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube icX4XpolVLE >}} 
  🚀 Transform Your Workflow with DevOps: A Comprehensive Guide 🚀
 
 🎯 Why Watch This Video?

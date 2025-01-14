@@ -29,7 +29,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube 8vu-AXJwwYk >}} 
  In 2001, a group of brilliant #softwareengineers came together to define and articulate a new style of #productdevelopment based on their collective knowledge, experience, and experimentation with #agileframeworks.
 
 It was a revolutionary new approach to #productdevelopment and #projectmanagement (for lack of a better word) that empowered teams to navigate complexity, uncertainty, volatility, and ambiguity.

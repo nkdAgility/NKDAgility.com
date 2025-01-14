@@ -33,7 +33,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube vQBYdfLwJ3g >}} 
  The Professional Scrum Product Owner or PSPO course from Scrum.Org is a great fit for the new 8-week immersive learning experience because it enables you to learn, work, and transform the classroom environment into a real-world learning experience.
 
 In this short video, Martin Hinshelwood explains how you can combine your work and immersive learning experience to truly master product ownership.

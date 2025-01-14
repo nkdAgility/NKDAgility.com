@@ -46,7 +46,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube WpsGLkTXalE >}} 
  #shorts #shortsvideo #shortvideo Stillness is key to great work. The ability to reflect, do the deep work, and remain calm is a super power. That said, in the realms of #agile, Silence can be harbinger of disaster. Martin Hinshelwood explains why.
 
 About NKD Agility

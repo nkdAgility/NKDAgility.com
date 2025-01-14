@@ -25,6 +25,5 @@ resourceTypes:
 - video
 
 ---
-{{< youtube tfQltriMcFw >}} 
  A collection is videos of Scrum training in Action 
  [Watch on Youtube](https://www.youtube.com/watch?v=tfQltriMcFw)

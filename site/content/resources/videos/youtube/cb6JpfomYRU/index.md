@@ -32,7 +32,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube cb6JpfomYRU >}} 
  The immersive learning experiences were developed to help raise the standard of a #scrummaster entering the industry, and to provide additional value for organizations that wanted to really upskill their teams.
 
 In this short video, Kanban Dan talks about the competitive advantage you can achieve through the immersive learning 7-week Professional Scrum Master course when compared to a 2-day workshop.

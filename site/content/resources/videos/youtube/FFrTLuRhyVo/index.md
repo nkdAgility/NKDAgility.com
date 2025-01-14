@@ -33,6 +33,5 @@ resourceTypes:
 - video
 
 ---
-{{< youtube FFrTLuRhyVo >}} 
  Missed opportunities, the hidden cost of #technicaldebt visit https://www.nkdagility.com #agile #productdevelopment #productmanagement #projectmanagement #agileproductdevelopment #agileprojectmanagement #agileproductmanagement #projectmanager #productowner #scrummaster 
  [Watch on Youtube](https://www.youtube.com/watch?v=FFrTLuRhyVo)

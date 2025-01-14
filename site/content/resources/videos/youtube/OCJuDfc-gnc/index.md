@@ -27,7 +27,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube OCJuDfc-gnc >}} 
  Bring your questions on any topic from DevOps to Agility and Martin will do his best to answer them. Martin is a Professional Scrum Trainer with Scrum.org and a Microsoft MVP in Azure DevOps. Ask him anything!
 
 We recommend joining on Youtube as there is less delay: https://www.youtube.com/c/nakedAgilityLimitedMartinHinshelwood 

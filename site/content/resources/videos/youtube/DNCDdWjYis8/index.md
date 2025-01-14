@@ -22,7 +22,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube DNCDdWjYis8 >}} 
  *Unmasking the Role of Scrum Masters: Myths vs Reality*
 
 Explore the often misunderstood role of Scrum Masters. Uncover the truth behind common misconceptions and learn effective strategies for team collaboration.

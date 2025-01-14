@@ -31,7 +31,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube 6L2r8YrehWc >}} 
  *Unlocking Scrum Mastery: Beyond Authority and Power* - Discover the essence of effective Scrum leadership without relying on authority. Explore how respect, value, and skill foster team success. Dive in now! 🚀
 
 *Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility

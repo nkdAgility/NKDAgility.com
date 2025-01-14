@@ -37,7 +37,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube h3J11t10A0g >}} 
  Solving Missed Deadlines and Budget Overruns in Software Projects | Martin Hinshelwood  
 
 👋 Hi, I’m Martin Hinshelwood from [NKD Agility](https://www.nkdagility.com), and in this video, I discuss one of the most common challenges organizations face: *missed deadlines* and *budget overruns* in software projects. These issues stem from the inherent unpredictability of working in complex environments. I’ll share insights on how *technical leadership*, *engineering excellence*, and modern Agile principles can help teams navigate these challenges and deliver better outcomes.

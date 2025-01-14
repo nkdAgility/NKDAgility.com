@@ -35,7 +35,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube Fo49oedF34g >}} 
  Czym różni się zwinne przywództwo od tradycyjnego zarządzania?
 
 About NKD Agility

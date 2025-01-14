@@ -29,7 +29,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube wNgfCTE7C6M >}} 
  Scrum.Org recently launched the PSU (Professional Scrum with User Experience) course that intends to help bring product designers, user experience specialists, and scrum development teams closer together.
 
 it is an absolutely awesome course and will show you how to integrate design and engineering into #productdevelopment on an iterative and continuous basis rather than the chicken and the egg dilemma it currently faces.

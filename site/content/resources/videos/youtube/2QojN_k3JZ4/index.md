@@ -46,7 +46,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube 2QojN_k3JZ4 >}} 
  #shorts #shortvideo #shortsvideo 7 virtues of #agile. Diligence. #agile #scrum #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #projectmanagement #projectmanager #agilecoach #scrummaster #productowner #agileleader #developer 
 
 Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 

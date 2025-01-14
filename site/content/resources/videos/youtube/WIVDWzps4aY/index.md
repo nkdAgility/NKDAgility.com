@@ -31,7 +31,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube WIVDWzps4aY >}} 
  #shorts #shortsvideo #shortvideo Martin Hinshelwood talks about his favourite #scrumcourse to teach, and why that #scrumtraining resonates so much.
 
 About NKD Agility

@@ -32,7 +32,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube hBw4ouNB1U0 >}} 
  Tired of stagnant processes and lackluster results? This video dives into the heart of Kanban: continuous improvement. Discover how Kanban empowers you to evolve your workflows, boost efficiency, and achieve outstanding outcomes.
 
 (00:00:00 - 00:10:09): The cornerstone of Kanban: making incremental improvements and changes to your system to drive positive results.

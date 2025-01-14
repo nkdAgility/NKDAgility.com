@@ -23,7 +23,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube 03gLr3LUq4o >}} 
  Use: https://youtu.be/Qt1Ywu_KLrc
 
 This video is broek atabout 20m in.

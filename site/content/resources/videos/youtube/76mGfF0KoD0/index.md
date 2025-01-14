@@ -30,7 +30,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube 76mGfF0KoD0 >}} 
  If a #scrummaster is battling to organize the team effectively and align them with customer and organizational objectives throughout the #productdevelopment process, what should you do?
 
 What do you do if the team simply don't get #scrum or don't understand why they need to shift from traditional #projectmanagement to #agile in order to be more effective as a #productdevelopment team?

@@ -30,7 +30,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube tPX-wc6pG7M >}} 
  🌟 Exclusive Webcast: "Agile Leadership & Agile Transformation" with Dr. Joanna Płaskonka & Martin Hinshelwood 🌟 
 
 Register at https://events.teams.microsoft.com/event/18ce0eb6-2b89-4e62-bab0-4c78a27ee18e@686c55d4-ab81-4a17-9eef-6472a5633fab

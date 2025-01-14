@@ -46,7 +46,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube ARhXjid0zSE >}} 
  #shorts #shortsvideo #shortvideo #agile loves abundance. An abundance of ideas, creativity, and collaboration. That said, sometimes you experience #famine and in this short video, Martin Hinshelwood explains what that looks like and why it's a sign of impending doom.
 
 About NKD Agility

@@ -23,7 +23,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube X2WJzWV_GiI >}} 
  00:00:00 Preamble
 00:04:24 Introduction
 00:11:30 10 Questions to Break the Ice

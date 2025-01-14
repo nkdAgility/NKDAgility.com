@@ -30,7 +30,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube ZBb8OZ0I6qA >}} 
  Discover how to revolutionize your project management approach by ditching traditional backlog hierarchies for a more flexible, value-focused system.
 
 *Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility

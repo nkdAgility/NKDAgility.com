@@ -26,7 +26,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube E2aYkadJJok >}} 
  Ready to supercharge your campaigns with Kanban? This video dives into the essential role Kanban boards play in visualizing your workflow and maximizing campaign effectiveness.
 
 (00:00:00 - 00:08:16): Why Kanban boards are crucial for campaign visualization.

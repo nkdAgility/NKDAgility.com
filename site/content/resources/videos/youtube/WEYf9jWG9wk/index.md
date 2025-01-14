@@ -34,6 +34,5 @@ resourceTypes:
 - video
 
 ---
-{{< youtube WEYf9jWG9wk >}} 
  Quality Code: Achieving Engineering Excellence with NKD Agility. Visit https://www.nkdagility.com #agile #agileproductdevelopment #agileproductmanagement #agileprojectmanagement #productdevelopment #productmanagement #projectmanagement #projectmanager #productowner #scrummaster 
  [Watch on Youtube](https://www.youtube.com/watch?v=WEYf9jWG9wk)

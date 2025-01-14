@@ -31,7 +31,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube omsEiYqX-Dk >}} 
  *Unlocking Organizational Agility: Mastering Market Response* - Discover how to harness organizational agility for competitive advantage. Learn to respond swiftly to market changes and empower your team for success. 
 
 *Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility

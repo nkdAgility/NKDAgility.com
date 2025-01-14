@@ -27,7 +27,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube RnMOINwjO84 >}} 
  Making Agile Decisions in a Complex World: Why There Are No Rules
 
 In this video, I explore why decision-making in agile environments is more complex than ever and why there’s no one-size-fits-all approach to using data, telemetry, or evidence-based management. 

@@ -41,7 +41,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube n6Suj-swl88 >}} 
  *Maximizing Sprint Review Impact: A Guide for Scrum Teams* - Discover key insights into leading a Sprint Review for maximized productivity and stakeholder engagement. Dive deep into the role of a Product Owner and effective review strategies.
 
 *Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility

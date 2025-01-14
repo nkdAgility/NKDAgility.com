@@ -33,7 +33,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube PmMqrL42FUg >}} 
  For some reason, this video got cut off! 
 
 We have created and uploaded a new full-length copy:  https://youtu.be/uCFIW_lEFuc 

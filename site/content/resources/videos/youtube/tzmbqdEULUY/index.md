@@ -28,7 +28,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube tzmbqdEULUY >}} 
  In this video, we tackle one of the most critical challenges in Azure DevOps data migration: minimizing downtime. For organizations with thousands of engineers, even a short downtime can disrupt productivity. However, careful planning, strategic use of dry runs, and effective teamwork can help minimize downtime to almost zero.
 
 We discuss how Git, as a decentralized source control, allows engineers to work even during migration downtime. Plus, I share insights from a real-world case where we successfully migrated a massive 2.5TB TFS collection with minimal downtime by executing the migration on a Friday evening and restoring operations by Monday morning. Planning, validation, and collaboration were the keys to a smooth transition!

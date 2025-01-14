@@ -26,7 +26,6 @@ sitemap:
   priority: 0.4
 
 ---
-{{< youtube tKEl0YVeWv4 >}} 
  Automate Everything: Building Reliable, Fast, and Scalable Products
 
 Automation is the backbone of modern software development, enabling teams to build, deploy, and validate faster while maintaining quality. In this video, I explain how automating everything—deployments, testing, validations, and more—helps reduce risk, improve reliability, and allow your team to respond quickly to both opportunities and challenges.

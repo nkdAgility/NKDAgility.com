@@ -33,7 +33,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube 6S9LGyxU2cQ >}} 
  Sometimes, you just need to learn how to do #scrum properly. It isn't so much about learning the mechanics of #scrum, it's instead about how to apply #scrum professionally in your #scrumteam.
 
 It may feel like you need an #agilecoach to help you, but sometimes, all you need is to attend an #APS or #applyingprofessionalscrum course as a team to achieve a great outcome.

@@ -23,6 +23,5 @@ resourceTypes:
 - video
 
 ---
-{{< youtube tYDWv--taWI >}} 
   
  [Watch on Youtube](https://www.youtube.com/watch?v=tYDWv--taWI)

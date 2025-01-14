@@ -26,7 +26,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube JzUUQ4R9SCk >}} 
  00:09:30 Icebreaker
 00:24:58 What is needed for Scrum? [1-2-4-ALL]
 00:38:27 Scrum Values Circuit [Shift & Share]

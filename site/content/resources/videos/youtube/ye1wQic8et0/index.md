@@ -29,7 +29,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube ye1wQic8et0 >}} 
  *Reducing Time to Market by Removing Committees*
 Are committees slowing down your time to market? Discover the impact of traditional management practices on your business's agility. 🚀
 

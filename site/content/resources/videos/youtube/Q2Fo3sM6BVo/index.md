@@ -23,7 +23,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube Q2Fo3sM6BVo >}} 
  Scrum is a lightweight framework that helps people, teams, and organizations generate value through adaptive solutions for complex problems. The Scrum Framework is made up of five values, three Accountabilities, three artefacts, and five events. 
 
 In this video, I'll go through an overview of each one, explaining what they are for and why they are there. The focus will be on the process itself, and we will leave the complementary practices until later.

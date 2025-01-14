@@ -30,7 +30,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube uvU_ATou6QY >}} 
  Recognizing the Signs of a Failing Product Owner. Uncover the indicators of a failing product owner! Learn how to differentiate between perception and reality in product management. 🎯🚫
 
 *Enjoy this video? Like and subscribe to our channel: https://www.youtube.com/@nakedAgility*

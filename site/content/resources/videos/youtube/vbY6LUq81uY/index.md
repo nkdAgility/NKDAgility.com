@@ -38,7 +38,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube vbY6LUq81uY >}} 
  Funding Products Like an Entrepreneur: Hypothesis-Driven Development | Martin Hinshelwood
 
 👋 Hi, I’m Martin Hinshelwood from NKD Agility, and in this video, I explore how building products is akin to launching a startup. When your team is writing code, they’re doing something that’s never been done before—and that requires a mindset shift. By thinking like entrepreneurs and funding products as venture capitalists would, you can maximize your return on investment while minimizing risks.

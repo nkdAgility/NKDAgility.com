@@ -23,7 +23,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube yCyjGBNaRqI >}} 
  What makes us tick? Why do we exist?
 
 In this short video, Martin Hinshelwood - Principal Agile Consultant and Professional Scrum Trainer - walks us through the mission and purpose that drives NKD Agility.

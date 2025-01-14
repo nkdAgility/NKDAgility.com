@@ -29,7 +29,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube vI2LBfMkPuk >}} 
  Martin Hinshelwood has deep experience as a #softwareengineer, #agilecoach, #agileconsultant, and #professionalscrumtrainer.
 
 The years of experience working at the #agile coalface means that he is able to provide useful, real-world examples of how #agility works in a live environment and can provide war stories that help embed the knowledge and learning outcomes required for #scrumcertification.

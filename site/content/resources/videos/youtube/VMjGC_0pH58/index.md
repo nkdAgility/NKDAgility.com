@@ -23,7 +23,6 @@ sitemap:
   priority: 0.4
 
 ---
-{{< youtube VMjGC_0pH58 >}} 
  Unlock the secrets of ethical agility! Martin Hinshelwood and Simon Reindl dive deep into the world of agile ethics, personal values, and the implications of our actions in today's fast-paced professional landscape. From civilisations' first steps to the challenges of modern organisations, join the journey of reflection and discovery. 🌍🔍💼
 
 

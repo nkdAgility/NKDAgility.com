@@ -46,7 +46,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube 2-AyrLPg-8Y >}} 
  #shorts #shortsvideo #shortvideo Transitioning from a #projectmanager or traditional #manager to an #agileleader can be super tricky, especially if you have never received training. In this short excerpt, Martin explains why #agileleadership training is critical. Watch the full video here: https://youtu.be/W3cyrYFXDfg
 
 About NKD Agility

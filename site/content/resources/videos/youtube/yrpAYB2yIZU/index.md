@@ -27,7 +27,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube yrpAYB2yIZU >}} 
  Have you ever had to rebuild your only domain controller? Find out how to move your domain to another server to refresh the OS or just plane rebuild...
 
 Visit http://nakedalm.com/blog for more posts and videos. 

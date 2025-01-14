@@ -23,7 +23,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube rnyJzSwU74Q >}} 
  Discover how agile practices can significantly enhance project success rates. Dive deep into the empirical model's advantages, including increased visibility, adaptability, reduced risk, and continuous value delivery.
 
 Enjoy this video? 🔔 Like and subscribe to our channel: https://www.youtube.com/@nakedAgility

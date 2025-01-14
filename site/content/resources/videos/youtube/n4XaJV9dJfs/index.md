@@ -46,7 +46,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube n4XaJV9dJfs >}} 
  Mastering Scrum Complexity: Navigate the Agile Landscape
 
 Unlock the secrets to navigating Scrum complexity with ease! Dive into our insightful exploration of agile project landscapes. Learn to adapt and thrive in a world of change.

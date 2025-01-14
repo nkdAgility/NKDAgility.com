@@ -26,7 +26,6 @@ sitemap:
   priority: 0.4
 
 ---
-{{< youtube YVrGU0oZmc0 >}} 
  Unlocking Continuous Delivery with Feature Flags: The Key to Faster, Safer Deployments
 
 Feature flags are a game-changer for teams moving towards continuous delivery. In this video, I dive deep into how feature flags empower engineering teams to deploy faster, gather actionable feedback, and reduce risks while delivering value to customers incrementally. Whether you're building small updates or tackling major overhauls, feature flags are an essential tool to succeed in fast-paced development environments.

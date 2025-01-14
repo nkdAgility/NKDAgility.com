@@ -31,7 +31,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube QGXlCm_B5zA >}} 
  The #PSM II or #professionalscrummaster course from Scrum.Org is designed to help a #scrummaster progress in their career from entry-level capability to more advanced capabilities.
 
 As a newbie #scrummaster, the focus tends to lie on helping the #developers through the #scrumframework and taking on a fairly strong administrative function within the team.

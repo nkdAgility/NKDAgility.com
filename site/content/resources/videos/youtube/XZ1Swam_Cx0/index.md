@@ -49,7 +49,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube XZ1Swam_Cx0 >}} 
  Beware the Agile-pocalypse: Decoding the Agile "Antichrist" 🌪️
 
 Full video: https://youtu.be/56hWAHhbrvs

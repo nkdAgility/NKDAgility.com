@@ -23,6 +23,5 @@ resourceTypes:
 - video
 
 ---
-{{< youtube HZxho4-wvHc >}} 
   
  [Watch on Youtube](https://www.youtube.com/watch?v=HZxho4-wvHc)

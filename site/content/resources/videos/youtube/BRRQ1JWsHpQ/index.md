@@ -30,7 +30,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube BRRQ1JWsHpQ >}} 
  In 2020 when #covid19 hit with full force, many teams were thrown into disarray as working remotely became the norm rather than the exception.
 
 It also impacted #scrumtraining something fierce with #professionalscrumtrainers now delivering courses remotely rather than in-person in classrooms.

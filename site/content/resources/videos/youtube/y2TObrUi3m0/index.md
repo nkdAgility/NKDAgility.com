@@ -26,7 +26,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube y2TObrUi3m0 >}} 
  *Unlocking Agile Success: Beyond Tools and Techniques*
 
 Discover the often-overlooked key to Agile success that goes beyond just tools and techniques. Learn how principles, not tools, drive effective Agile practices.

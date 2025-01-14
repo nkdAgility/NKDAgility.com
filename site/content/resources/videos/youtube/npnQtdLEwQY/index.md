@@ -38,7 +38,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube npnQtdLEwQY >}} 
  Understanding and Managing Technical Debt: Lessons for Every Organization | Martin Hinshelwood
 
 In this video, I explore the real cost of technical debt and how organizations can identify, manage, and pay it back effectively. From intentional design compromises for speed to the unintended consequences of poor architectural decisions, technical debt adds hidden costs that can spiral out of control if not addressed.

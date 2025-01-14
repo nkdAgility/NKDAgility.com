@@ -26,7 +26,6 @@ sitemap:
   priority: 0.4
 
 ---
-{{< youtube D1wz-J1jklQ >}} 
  The Power of Frequent Deployments: Reducing Technical Debt and Delivering Better Products
 
 Frequent deployments are more than just a technical approach—they're a game-changer for your engineering practices, product quality, and customer satisfaction. In this video, I dive into why smaller, more frequent deployments help developers write better code, reduce technical debt, and create better products through faster feedback loops and continuous delivery.

@@ -23,7 +23,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube gWTCvlUzSZo >}} 
  Dive into the importance of good cameras for Scrum Masters! Enhance team engagement and read body language effectively. 🎥 #scrum #scrummaster #scrumorg
 
 *Enjoy this video? Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility

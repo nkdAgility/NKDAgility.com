@@ -34,7 +34,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube a6aw7xmS2oc >}} 
  The Entrepreneurial Stance: Key Considerations for Product Owners! Dive into the entrepreneurial mindset of product owners! Discover how to connect teams to value and make evidence-based decisions. 🎯📊
 
 *Enjoy this video? Like and subscribe to our channel: https://www.youtube.com/@nakedAgility*

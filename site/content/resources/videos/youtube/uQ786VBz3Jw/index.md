@@ -35,7 +35,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube uQ786VBz3Jw >}} 
  A core focus of #projectmanagement is efficiency and resource utilization. In other words, is everyone busy and are we as productive as we can be. In #agile or #scrum, we are more concerned with being effective than efficient.
 
 If we aren't building the most valuable products or features, it doesn't matter how many of them we build, we still won't be capturing value for our customers or organization. So, we need to focus on building the right thing, at the right time, in the right way. Productivity is a secondary concern.

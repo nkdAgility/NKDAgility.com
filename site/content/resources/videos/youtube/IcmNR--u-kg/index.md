@@ -34,7 +34,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube IcmNR--u-kg >}} 
  *Revolutionizing Workforce Skills: The Power of Immersive Learning* - Discover how immersive learning transforms entry-level capabilities in our latest video. Dive deep into practical skills application and real-world problem-solving with our innovative approach. 
 
 *Book today - https://nkdagility.com/training-courses/course-schedule/ -- Regional pricing, bulk discount, & alumni discounts available!*

@@ -28,7 +28,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube 0fz91w-_6vE >}} 
  As a #devops #consultant, Martin Hinshelwood has worked in multiple geographies, across multiple industry applications, and with a wide variety of clients.
 
 Each of those unique environments requires their own special agenda and set of capabilities, but there are common problems shared by all companies in all #devops applications.

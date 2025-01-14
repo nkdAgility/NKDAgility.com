@@ -32,7 +32,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube Cia3d_y9akQ >}} 
  💡 Debunking Scrum Master Misconceptions: Why Competence is Key 🚀
 
 In this video, I tackle the widespread misconceptions surrounding the role of a Scrum Master, especially the difference between organizational roles and the true accountabilities as defined by Scrum. 

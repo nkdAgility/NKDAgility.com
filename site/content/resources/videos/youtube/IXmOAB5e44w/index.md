@@ -28,7 +28,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube IXmOAB5e44w >}} 
  We're blessed to have so many people coming through our NKD Agility doors because of a referral, and we deeply value and appreciate those referrals.
 
 So much so, that we've created a referral program that benefits both you and the person you are referring to the tune of 20% of the course fee. That's right, 20%

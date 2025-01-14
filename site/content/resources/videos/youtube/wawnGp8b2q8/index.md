@@ -31,7 +31,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube wawnGp8b2q8 >}} 
  The new #immersivelearning experience from Scrum.Org is perfectly suited to the Professional Agile Leadership Essentials course. It gives you heaps of time to digest the information, apply what you have learned, and take advantage of the blend of coaching and teaching that the course entails.
 
 In this short video, Joanna Plaskonka - Professional Scrum Trainer and PAL-E course instructor - walks us through the 3 biggest benefits you will derive from attending the PAL-E immersive learning experience via NKD Agility.

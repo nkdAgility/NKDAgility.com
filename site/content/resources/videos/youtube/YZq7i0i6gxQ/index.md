@@ -23,7 +23,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube YZq7i0i6gxQ >}} 
  This is a Free Live Virtual 90m "Introduction to Agile Leadership! " from Martin Hinshelwood.
 
 This session will focus on the needs of Leaders who do not work directly on Scrum Teams but may manage them.

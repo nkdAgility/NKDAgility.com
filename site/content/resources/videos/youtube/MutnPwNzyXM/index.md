@@ -28,7 +28,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube MutnPwNzyXM >}} 
  Making the transition from #agilepractitioner to #agileconsultant can be tough, mainly because you are now working with teams of #agile teams rather than your own work, or team environment.
 
 It is a steep learning curve and significantly increases your knowledge, understanding, and capability with #agile and #scrum. In this short video, Martin Hinshelwood talks about the single most valuable lesson he has learned as an #agileconsultant.

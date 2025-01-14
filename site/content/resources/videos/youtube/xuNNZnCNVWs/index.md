@@ -28,7 +28,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube xuNNZnCNVWs >}} 
  #youtubeshorts presents Martin Hinshelwood raising 1 critical skill for a #scrummaster in under 60 seconds. What is the one thing a #scrummaster should master to be successful in #agile?
 
 About NKD Agility

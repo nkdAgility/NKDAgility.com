@@ -23,7 +23,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube kT9sB1jIz0U >}} 
  #shorts Traditional #management environments tend to be based on hierarchies of control. X individual is the leader of the organization and everything flows down from there, from the highest rank to the lowest rank.
 
 hierarchies of competence are based on experts making the decisions that they are best suited to, and actively empowering and enabling people around them to excel in the environment.

@@ -26,7 +26,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube fcOSewXez3I >}} 
  Over the past 150 years, there have been significant periods of rapid change as a new technology is adopted and deployed into our work environments. From electricity, to automobiles, to computers and the internet, it is pretty much a given that a new technology will shape every generation in a disruptive manner.
 
 In this short video, Martin Hinshelwood explains how new technologies, like Artificial Intelligence, are shaping the way we work and why we need to embrace, rather than resist, these new technologies.

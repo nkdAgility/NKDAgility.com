@@ -30,7 +30,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube sbr8NkJSLPU >}} 
  Unlock the Power of Kanban: Streamline Your Workflow for Maximum Efficiency 🚀
 
 Introduction to Kanban 📌

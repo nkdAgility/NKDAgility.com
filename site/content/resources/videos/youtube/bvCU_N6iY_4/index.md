@@ -23,7 +23,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube bvCU_N6iY_4 >}} 
  Join me monthy one the 4th Wednesday for Business Agility Raw. Come and discuss what matters most to you today with our lean coffee format. Check out the se3ssion Mural for this month's questions and add your own to the mix!
 
 The next "Business Agility Raw! - Ask me Anything Lean Coffee with Martin Hinshelwood" is on the 27th of August 2022!

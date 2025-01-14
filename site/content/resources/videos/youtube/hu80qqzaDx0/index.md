@@ -27,6 +27,5 @@ resourceTypes:
 - video
 
 ---
-{{< youtube hu80qqzaDx0 >}} 
  Introduction to Evidence-based Management. Excerpt 1 #evidencebasedleadership #evidencebasedmanagement #ebm #agile #agileproductdevelopment #agileprojectmanagement #agileproductdevelopment #projectmanagement #projectmanager #productmanagement #productmanager #productowner 
  [Watch on Youtube](https://www.youtube.com/watch?v=hu80qqzaDx0)

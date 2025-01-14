@@ -37,7 +37,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube HmAIUiR8QSo >}} 
  # Building a Culture of Quality and Engineering Excellence | Martin Hinshelwood  
 
 👋 Hi, I’m Martin Hinshelwood from [NKD Agility](https://www.nkdagility.com), and in this video, I explore how to build a **culture of quality** within your organization. Delivering great products isn’t just about tools or processes—it’s about fostering technical leadership, engineering excellence, and shared accountability across your teams. Using real-world examples, including lessons from Boeing and Volkswagen, I’ll show you why culture is the foundation of innovation and trust.

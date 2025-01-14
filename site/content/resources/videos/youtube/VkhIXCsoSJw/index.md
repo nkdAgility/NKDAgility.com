@@ -26,7 +26,6 @@ sitemap:
   priority: 0.4
 
 ---
-{{< youtube VkhIXCsoSJw >}} 
  Automate Everything: Boosting Engineering Excellence and Building Confidence
 
 Automation is the cornerstone of engineering excellence. Whether you're developing simple features or managing complex systems like Azure DevOps, automation helps you build better products, faster—and with more confidence. In this video, I discuss why automating everything, from testing to deployment, is key to shortening feedback loops, improving code quality, and gaining customer trust.

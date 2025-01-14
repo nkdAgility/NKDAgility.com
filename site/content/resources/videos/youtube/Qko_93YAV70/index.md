@@ -27,6 +27,5 @@ resourceTypes:
 - video
 
 ---
-{{< youtube Qko_93YAV70 >}} 
  Kanban Vs Scrum. Visit https://www.nkdagility.com #agile #scrum #kanban #agileframework #agileprojectmanagement 
  [Watch on Youtube](https://www.youtube.com/watch?v=Qko_93YAV70)

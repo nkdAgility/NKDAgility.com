@@ -26,6 +26,5 @@ resourceTypes:
 - video
 
 ---
-{{< youtube XEtys2DOkKU >}} 
  Compromises you need to think about for your #azuredevops migration. Excerpt 1. Catch the full video on https://www.youtube.com/@nakedAgility #agile #devops #devopsmigration #microsoft #microsoftazure 
  [Watch on Youtube](https://www.youtube.com/watch?v=XEtys2DOkKU)

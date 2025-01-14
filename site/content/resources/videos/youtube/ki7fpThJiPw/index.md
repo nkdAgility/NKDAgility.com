@@ -23,7 +23,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube ki7fpThJiPw >}} 
  Innovation does not need to cost a lot of money!
 
 Scrum does not prohibit fast prototyping. 

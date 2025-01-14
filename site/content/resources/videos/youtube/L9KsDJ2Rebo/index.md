@@ -33,7 +33,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube L9KsDJ2Rebo >}} 
  As a Professional Scrum Trainer (PST), Kanban Dan is focused on helping delegates acquire the knowledge, skills, and capabilities they need to shine in the workplace. 
 
 The 2-day Professional Scrum Master course does a great job of preparing newbie scrum masters, but the 7-week immersive learning experience offers a whole new dimension that ensures more skilled, knowledgeable, and practised scrum masters in the industry.

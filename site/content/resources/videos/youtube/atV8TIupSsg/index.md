@@ -29,7 +29,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube atV8TIupSsg >}} 
  This Professional Agile Leadership workshop is open to the public and delivered over 4 1/2 days from  27 – 30 July 2020 at:
 
 -0800-1130 BST

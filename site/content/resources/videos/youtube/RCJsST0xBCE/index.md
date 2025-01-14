@@ -25,7 +25,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube RCJsST0xBCE >}} 
  Check out the latest version: https://youtu.be/Qt1Ywu_KLrc
 
 Unlock the potential of Azure DevOps migration tools with this comprehensive tutorial! We dive deep into features, functionalities, and efficient practices. 

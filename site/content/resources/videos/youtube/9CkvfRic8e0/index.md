@@ -34,7 +34,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube 9CkvfRic8e0 >}} 
  See how to connect to your Team Foundation Collection with Release Management Client for Visual Studio 2013
 
 More videos and blogs on http://nakedalm.com/blog 

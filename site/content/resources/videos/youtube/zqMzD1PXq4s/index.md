@@ -35,7 +35,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube zqMzD1PXq4s >}} 
  Chaos Costs Money: How Engineering Excellence Controls Chaos and Boosts Productivity | Martin Hinshelwood
 
 👋 Hi, I’m Martin Hinshelwood from NKD Agility, and in this video, we’ll explore how engineering mediocrity and technical debt contribute to chaos and waste in software delivery—and how investing in technical leadership and engineering excellence can transform your organization.

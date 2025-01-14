@@ -46,7 +46,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube M5U-Pdn_ZrE >}} 
  #shorts #shortvideo #shortsvideo Martin Hinshelwood walks us through the top 5 things he would teach a newbie #productowner. This  is part 4. To watch the full video, visit https://youtu.be/il1GdfG7rWk
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 

@@ -36,6 +36,5 @@ resourceTypes:
 - video
 
 ---
-{{< youtube CXOrndz5lN4 >}} 
  Building a culture of #engineering excellence. https://www.nkdagility.com #agile #agileproductdevelopment #agileproductmanagement #agileprojectmanagement #projectmanagement #projectmanager #agileproductdevelopment #productmanagement 
  [Watch on Youtube](https://www.youtube.com/watch?v=CXOrndz5lN4)

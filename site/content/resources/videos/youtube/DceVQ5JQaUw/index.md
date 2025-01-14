@@ -29,7 +29,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube DceVQ5JQaUw >}} 
  When #agile meets traditional #management and #projectmanagement environments, there is often a clash of culture. In one environment, we are interrogating the data and practices to discover probem areas and actively designing ways to improve and evolve. In the other, we're hiding problems to avoid blame and shifting the focus from collaboration to control.
 
 So, people are often the products of the systems and environments they serve, and sometimes clients can trip an #agileconsultant up simply through following best practice in the environment they serve.

@@ -23,7 +23,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube dTE8-Z1ZgA4 >}} 
  #shorts #shortsvideo #shortvideo Martin Hinshelwood explains why Simon is one of the best Professional Scrum Trainers to deliver the APS or Applying Professional Scrum course in the world.
 
 About NKD Agility 
