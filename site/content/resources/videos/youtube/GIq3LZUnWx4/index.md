@@ -31,7 +31,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube GIq3LZUnWx4 >}}
+
 
 ## The Core of PSPO: Unearthing the Essence of Value
 

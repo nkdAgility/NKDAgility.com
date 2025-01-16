@@ -26,7 +26,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube RLxGdd7nEZE >}}
+
 
 ## Exploring the Apex of Consulting Engagements: Unlocking Systemic Change
 

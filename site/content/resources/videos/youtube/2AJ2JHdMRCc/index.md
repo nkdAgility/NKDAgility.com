@@ -27,8 +27,6 @@ resourceTypes:
 layout: video
 
 ---
-
-
 ## Game-Changer in Software Engineering!
 
 In the ever-evolving world of software engineering, there's one term that has taken the spotlight, yes, you guessed it - DevOps.

@@ -23,7 +23,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube I5YoOAai-m4 >}}
+
 
 ## Agile Coach vs. Professional Coach
 

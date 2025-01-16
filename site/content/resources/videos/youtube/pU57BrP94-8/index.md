@@ -31,7 +31,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube pU57BrP94-8 >}}
+
 
 ## Immersive Learning: Revolutionising On-the-Job Agile Learning
 

@@ -38,7 +38,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube Na9jm-enlD0 >}}
+
 
 ## Understanding the Dynamics of Consensus 🤔 
 

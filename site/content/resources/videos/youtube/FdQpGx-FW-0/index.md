@@ -51,7 +51,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube FdQpGx-FW-0 >}}
+
 
 # Escaping the Judgment Trap in Agile Transformation 🚀
 

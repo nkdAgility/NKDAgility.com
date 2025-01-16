@@ -48,7 +48,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube BDFrmCV_c68 >}}
+
 
 **The Peril of Pride in Agile: A Cautionary Tale** 
 

@@ -46,7 +46,7 @@ resourceTypes:
 layout: video
 
 ---
-{{< youtube _WplvWtaxtQ >}}
+
 
 In the world of Scrum, being a Scrum Master is about more than just following the process or scheduling meetings. It's about truly understanding the role, maximizing value, and driving the effectiveness of the teams you work with. Yet, too often, we encounter Scrum Masters who, due to a lack of experience or depth of knowledge, unintentionally inhibit the potential of their teams.
 

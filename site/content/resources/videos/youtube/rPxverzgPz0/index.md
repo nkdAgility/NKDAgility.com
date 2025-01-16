@@ -32,7 +32,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube rPxverzgPz0 >}}
+
 
 **Would you recommend the APS course to a newbie scrum team, and Why?**
 

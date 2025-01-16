@@ -46,7 +46,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube XZVixdVy-PQ >}}
+
 
 There’s a quote from Ken Schwaber, one of the co-creators of Scrum, that goes:
 

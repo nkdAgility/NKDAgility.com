@@ -27,7 +27,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube AwkxZ9RS_0g >}}
+
 
 ## Synergy Between Consulting and Training
 

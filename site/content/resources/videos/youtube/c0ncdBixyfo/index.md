@@ -32,7 +32,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube c0ncdBixyfo >}}
+
 
 # Overcoming the Culture of Contempt in Agile Teams
 

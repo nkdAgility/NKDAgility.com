@@ -48,7 +48,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube KX1xViey_BA >}}
+
 
 ## People, Systems, and Finding the Balance 
 

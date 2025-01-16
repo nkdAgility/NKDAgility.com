@@ -46,7 +46,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube Ca_0rw9AUlg >}}
+
 
 Agile transformations are often heralded as the magical solution to organizational dysfunction, promising faster delivery, happier teams, and better outcomes. However, there's a quote that resonates deeply with many Agile professionals: “There’s no such thing as an Agile transformation, it’s a cultural transformation.”
 

@@ -46,7 +46,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube JzAbvkFxVzs >}}
+
 
 In the world of Agile, we often hear about the famous "three questions" used during the daily Scrum or retrospective sessions:
 

@@ -29,8 +29,6 @@ resourceTypes:
 layout: video
 
 ---
-
-
 What would you advise a scrum team to do in their first 4 weeks?
 
 That’s an interesting question because it depends on the intention of the team. In my opinion, if their intention is to try **scrum**, then that is what they should focus on in the first 4 weeks.

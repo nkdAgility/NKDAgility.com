@@ -27,7 +27,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube JqVrh-g-0f8 >}}
+
 
 ## The Order of Product Backlogs
 

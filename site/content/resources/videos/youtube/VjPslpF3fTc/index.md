@@ -23,7 +23,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube VjPslpF3fTc >}}
+
 
 ## Elevating Experienced Agile Practitioners with Immersive Learning 
 

@@ -34,7 +34,7 @@ resourceTypes:
 layout: video
 
 ---
-{{< youtube 6D6QTjSrJ14 >}}
+
 
 ## Embracing the Shift: Why Immersive Learning is the Future of Professional Development 
 

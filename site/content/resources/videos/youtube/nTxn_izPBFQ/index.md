@@ -32,7 +32,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube nTxn_izPBFQ >}}
+
 
 **How good is the APSPO course in helping leaders determine product direction and Why?**
 

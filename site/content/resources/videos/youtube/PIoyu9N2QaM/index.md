@@ -31,7 +31,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube PIoyu9N2QaM >}}
+
 
 ## Unpacking the Differences
 

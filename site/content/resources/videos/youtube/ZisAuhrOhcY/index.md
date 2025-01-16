@@ -32,7 +32,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube ZisAuhrOhcY >}}
+
 
 ### Embracing Kanban for Enhanced Workflow and Predictability
 

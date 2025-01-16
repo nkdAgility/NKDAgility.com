@@ -33,7 +33,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube nMkit8zBxG0 >}}
+
 
 ## Setting the Tone for Success
 

@@ -35,7 +35,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube g1GBes-dVzE >}}
+
 
 ## Why a Deep Understanding is Non-Negotiable
 

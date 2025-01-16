@@ -27,7 +27,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube qEaiA_m8Vyg >}}
+
 
 ## Why Have You Decided to Go All-In on Immersive Learning Experiences? 
 

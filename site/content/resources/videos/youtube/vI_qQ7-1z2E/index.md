@@ -30,7 +30,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube vI_qQ7-1z2E >}}
+
 
 ## Beyond Certification: A Deeper Dive Into the PSM II Course
 

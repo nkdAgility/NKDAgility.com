@@ -48,7 +48,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube sAKCLQ38GzA >}}
+
 
 **The Power of Purpose: How 'Start with Why' Drives Agile Success** 
 

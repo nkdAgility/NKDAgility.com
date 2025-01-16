@@ -33,7 +33,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube LMmKDlcIvWs >}}
+
 
 ### Demystifying Kanban: A Strategy for Continuous Improvement
 

@@ -28,7 +28,7 @@ resourceTypes:
 layout: video
 
 ---
-{{< youtube 54-Zw2A7zEM >}}
+
 
 ## Scrum Master vs. Seasoned Agile Coach: What Sets Them Apart?
 

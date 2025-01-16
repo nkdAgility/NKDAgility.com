@@ -51,7 +51,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube wHGw1vmudNA >}}
+
 
 # Navigating the Treacherous Waters of Conflict: The Second Harbinger of the Agile Apocalypse
 

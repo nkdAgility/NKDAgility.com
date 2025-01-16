@@ -29,7 +29,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube y0dg0Sqs4xw >}}
+
 
 What is a common mistake made by rookie agile consultants?
 

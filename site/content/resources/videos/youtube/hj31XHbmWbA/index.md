@@ -48,7 +48,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube hj31XHbmWbA >}}
+
 
 **Steve Jobs and the Art of Connecting Dots in Agile Environments** 
 

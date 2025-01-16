@@ -46,7 +46,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube qXsjLuss22Y >}}
+
 
 ## What's a Sprint Goal and Why Does It Matter?
 

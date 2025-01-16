@@ -30,7 +30,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube h6yumCOP-aE >}}
+
 
 ### Achieving Team Alignment with Kanban: The Importance of a Working Agreement
 

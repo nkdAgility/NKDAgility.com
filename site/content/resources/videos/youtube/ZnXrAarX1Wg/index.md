@@ -30,7 +30,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube ZnXrAarX1Wg >}}
+
 
 **No go zone for Agile consultants**
 

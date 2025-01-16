@@ -30,7 +30,7 @@ resourceTypes:
 layout: video
 
 ---
-{{< youtube 5bgfme-Pspw >}}
+
 
 **Momentum**
 

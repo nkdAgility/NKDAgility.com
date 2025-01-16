@@ -27,7 +27,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube vHNwcfbNOR8 >}}
+
 
 **What is your feeling on creating Agile apprenticeships?**
 

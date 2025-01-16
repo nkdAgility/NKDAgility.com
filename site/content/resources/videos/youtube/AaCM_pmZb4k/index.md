@@ -28,7 +28,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube AaCM_pmZb4k >}}
+
 
 ## Hierarchies of Competence Vs Control: Insights & Relevance
 

@@ -46,8 +46,6 @@ resourceTypes:
 layout: video
 
 ---
-
-
 Finding the right Agile coach can make or break your organization's journey toward greater agility. While the Agile landscape is filled with talented coaches, not all will suit your organization’s unique needs. Whether you're a small startup looking to scale or a large enterprise seeking to enhance its agility, finding the right coach is essential.
 
 In this blog post, I will walk you through some key factors to consider when hiring an Agile coach. We’ll cover how to evaluate their experience, their track record, and how well they align with your context and organizational scale. I’ll also provide some personal insights and advice on what to look for in your search for the perfect coach.

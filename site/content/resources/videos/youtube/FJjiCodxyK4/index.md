@@ -30,7 +30,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube FJjiCodxyK4 >}}
+
 
 **Why do you prefer agile consulting over agile coaching?**
 

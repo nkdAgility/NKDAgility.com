@@ -29,7 +29,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube QgPlMxGNIzs >}}
+
 
 How do you think Agile is evolving since its inception in 2001?
 

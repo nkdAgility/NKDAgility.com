@@ -34,7 +34,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube kOj-O99mUZE >}}
+
 
 ### Scaling Portfolio Kanban: Enhancing Flow and Predictability at the Organizational Level
 

@@ -48,7 +48,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube V88FjP9f7_0 >}}
+
 
 **Embracing 'Less is More' in Agile: Maximising Value, Minimising Waste 🚀🌟** 
 

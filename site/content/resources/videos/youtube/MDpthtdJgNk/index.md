@@ -29,7 +29,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube MDpthtdJgNk >}}
+
 
 ### Embracing Kanban: A Creative Approach to Workflow Optimization
 

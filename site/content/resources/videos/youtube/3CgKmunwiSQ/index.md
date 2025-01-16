@@ -33,7 +33,7 @@ resourceTypes:
 layout: video
 
 ---
-{{< youtube 3CgKmunwiSQ >}}
+
 
 ## **What Is Traditional Management?**
 

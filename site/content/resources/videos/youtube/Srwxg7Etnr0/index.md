@@ -46,7 +46,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube Srwxg7Etnr0 >}}
+
 
 ## Deciphering the Sprint Goal Enigma **🎯**  
 

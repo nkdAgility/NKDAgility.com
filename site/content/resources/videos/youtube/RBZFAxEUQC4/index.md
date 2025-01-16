@@ -48,7 +48,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube RBZFAxEUQC4 >}}
+
 
 **Unravelling the Lust of Agile: Why There's No Quick Fix in Transformation** 
 

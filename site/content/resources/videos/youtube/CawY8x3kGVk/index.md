@@ -48,7 +48,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube CawY8x3kGVk >}}
+
 
 # Scrum and Micromanagement: Dispelling the Myth 🚀
 

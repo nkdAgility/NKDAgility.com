@@ -30,7 +30,7 @@ resourceTypes:
 layout: video
 
 ---
-{{< youtube 5s9vi8PiFM4 >}}
+
 
 ## The Missing Piece in My Initial Scrum Journey
 

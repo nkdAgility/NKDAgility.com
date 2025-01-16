@@ -32,7 +32,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube IU_1dJw7xk4 >}}
+
 
 ### Transitioning from Traditional Project Management to Kanban
 

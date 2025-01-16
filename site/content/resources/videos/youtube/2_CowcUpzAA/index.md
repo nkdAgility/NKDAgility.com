@@ -46,7 +46,7 @@ resourceTypes:
 layout: video
 
 ---
-{{< youtube 2_CowcUpzAA >}}
+
 
 When most people hear the term "Product Owner," they typically think about managing a product backlog and making sure the team works through it. While this is part of the job, it’s a very small piece of the puzzle. In reality, the Product Owner role is far more significant, with broader responsibilities and accountability. Let’s dive deeper into what it means to be a true Product Owner in an Agile environment, and why many who take on the role often find themselves surprised by its complexity.
 

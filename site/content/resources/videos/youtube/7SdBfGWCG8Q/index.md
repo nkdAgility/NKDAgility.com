@@ -46,7 +46,7 @@ resourceTypes:
 layout: video
 
 ---
-{{< youtube 7SdBfGWCG8Q >}}
+
 
 In today’s fast-paced world, learning isn’t just about acquiring knowledge—it’s about building lasting connections. This is especially true when it comes to immersive learning, where relationships formed with fellow learners play a pivotal role in enhancing the overall experience. As a Scrum Trainer, I’ve witnessed firsthand how these connections can elevate a practitioner’s journey, allowing them to not only learn but grow alongside their peers.
 

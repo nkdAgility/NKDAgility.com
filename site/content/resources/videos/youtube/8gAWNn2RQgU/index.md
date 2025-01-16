@@ -30,7 +30,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube 8gAWNn2RQgU >}}
+
 
 ## A Tale of Expertise and Authenticity: Meet Joanna, the Agile Maestro 🚀 
 

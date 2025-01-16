@@ -27,7 +27,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube QQA9coiM4fk >}}
+
 
 ## Navigating the Complexities with Expert Guidance 
 

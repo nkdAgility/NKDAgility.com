@@ -32,7 +32,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube XdzGxK1Yzyc >}}
+
 
 ## Decoding the Role of the Product Owner
 

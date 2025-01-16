@@ -32,7 +32,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube s4h2K62V_d0 >}} 
+ 
  # Code reviews for quality assurance | Martin Hinshelwood  
 
   📍  📍  Are multiple schools of thought.  One school of thought is that code reviews help us improve our code quality, help reduce defects because we get multiple eyes looking at the product. But I think that's only part of the story.  As we shift left, another school of thought starts to come to the forefront, which is our code should be pre reviewed. 

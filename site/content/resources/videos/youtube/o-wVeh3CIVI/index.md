@@ -33,7 +33,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube o-wVeh3CIVI >}}
+
 
 **What is Scrum?**
 

@@ -51,7 +51,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube vhBsAXev014 >}}
+
 
 # Steering Through the Agile Apocalypse: Navigating Chaos 🌪️
 

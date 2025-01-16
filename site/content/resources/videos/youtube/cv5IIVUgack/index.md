@@ -29,7 +29,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube cv5IIVUgack >}}
+
 
 ## From Developer to Scrum Developer: A Journey of Continuous Learning
 

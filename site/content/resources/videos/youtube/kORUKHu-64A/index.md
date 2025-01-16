@@ -48,7 +48,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube kORUKHu-64A >}}
+
 
 # Scrum and Governance: Navigating the Balance for Agile Success 🚀
 

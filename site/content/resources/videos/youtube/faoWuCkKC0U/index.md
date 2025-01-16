@@ -29,7 +29,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube faoWuCkKC0U >}}
+
 
 ## Step Up Your Game with the PSPO-A Course
 

@@ -28,7 +28,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube zSQSQPFsy-o >}}
+
 
 Why is Scrum so easy to understand but incredibly hard to master?
 

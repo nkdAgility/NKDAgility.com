@@ -45,7 +45,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube dT1_zHfzto0 >}}
+
 
 ## The Reality of Scrum Adoption 🤔  
 

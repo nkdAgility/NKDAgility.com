@@ -39,7 +39,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube LpiLOBG7WgI >}}
+
 
 ## Navigating Harsh Feedback in Sprint Reviews – An Agile Approach🚀 
 

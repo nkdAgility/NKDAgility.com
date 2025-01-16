@@ -29,7 +29,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube y0yIAIqOv-Q >}}
+
 
 **When should an organisation consider a professional agile consultant?**
 

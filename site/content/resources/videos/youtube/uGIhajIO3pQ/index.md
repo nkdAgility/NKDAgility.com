@@ -23,7 +23,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube uGIhajIO3pQ >}}
+
 
 ## Scotland’s Agile Revolution: What’s on the Horizon 
 

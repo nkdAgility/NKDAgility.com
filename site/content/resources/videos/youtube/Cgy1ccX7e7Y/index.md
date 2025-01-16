@@ -29,7 +29,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube Cgy1ccX7e7Y >}}
+
 
 What would be an example of a great agile consulting outcome for a client?
 

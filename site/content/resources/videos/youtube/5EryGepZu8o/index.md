@@ -27,8 +27,6 @@ resourceTypes:
 layout: video
 
 ---
-
-
 If you could teach just one thing about Scrum, what would it be?
 
 I wouldn’t teach anything about **Scrum** if I only had one thing to teach, I would focus on the underlying principles that underpin scrum. **Empiricism** and navigating complexity effectively.

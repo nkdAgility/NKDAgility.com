@@ -47,7 +47,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube utI-1HVpeSU >}}
+
 
 ## Democracy vs. Dictatorship in Agile Leadership: Finding the Middle Ground 
 

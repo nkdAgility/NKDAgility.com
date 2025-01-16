@@ -26,7 +26,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube f1cWND9Wsh0 >}}
+
 
 ## Debunking the Lego Approach 
 

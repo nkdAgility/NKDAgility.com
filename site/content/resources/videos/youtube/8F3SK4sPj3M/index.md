@@ -31,7 +31,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube 8F3SK4sPj3M >}}
+
 
 ## Stepping Up Your Game as a Product Owner
 

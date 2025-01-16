@@ -26,7 +26,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube 8uPjXXt5lo4 >}}
+
 
 What is the most valuable thing you have learned through training people?
 

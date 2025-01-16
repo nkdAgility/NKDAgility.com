@@ -32,7 +32,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube XZip9ZcLyDs >}}
+
 
 **Why is becoming a Scrum Master a great career option?**
 

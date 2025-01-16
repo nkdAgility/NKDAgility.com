@@ -28,7 +28,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube 96iDY11yOjc >}}
+
 
 ## Bridging the Chasm: From Average to Agile Excellence in Development
 

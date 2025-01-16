@@ -35,7 +35,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube EOs5kZv_7tg >}}
+
 
 ## Power of Passion
 

@@ -30,7 +30,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube UeGdC6GRyq4 >}}
+
 
 ## It's Your Time to Shine: Pay 30% Up Front, Balance When You Land the Job 
 

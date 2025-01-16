@@ -27,7 +27,7 @@ resourceTypes:
 layout: video
 
 ---
-{{< youtube 1-W64WdSbF4 >}}
+
 
 This workshop was delivered on 16th September 2021 and focused on introducing the core concepts of the Sprint Review and its empirical nature. I used a combination of Liberating Structures, Microsoft Teams, and Mural to deliver an interactive session. This session went really well however we had some technical issues on the live stream!
 

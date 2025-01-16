@@ -36,7 +36,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube Juonckoiyx0 >}}
+
 
 ## Unleashing the Power of Stakeholder Engagement in Sprint Reviews 💡**🔍** 
 

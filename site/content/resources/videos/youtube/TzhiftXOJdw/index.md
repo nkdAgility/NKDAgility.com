@@ -28,7 +28,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube TzhiftXOJdw >}}
+
 
 ## The Agile Imperative: How Traditional Organisations Can Embrace Change 
 

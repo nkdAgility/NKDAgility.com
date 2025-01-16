@@ -27,8 +27,6 @@ resourceTypes:
 layout: video
 
 ---
-
-
 What is the hardest part of working with a brand-new scrum team?
 
 It’s an interesting question and I’m going to view this through the lens of being an **agile coach** contracted to work with a new **scrum team**, as well as from the perspective of a **scrum master** who joins an existing scrum team for the first time.

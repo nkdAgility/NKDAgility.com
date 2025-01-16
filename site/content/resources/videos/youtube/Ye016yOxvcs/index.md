@@ -33,7 +33,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube Ye016yOxvcs >}}
+
 
 ## The Journey to Understanding
 

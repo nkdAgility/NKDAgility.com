@@ -29,7 +29,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube LiKE3zHuOuY >}}
+
 
 ## Scrum in a DevOps World: A Game Changer!
 

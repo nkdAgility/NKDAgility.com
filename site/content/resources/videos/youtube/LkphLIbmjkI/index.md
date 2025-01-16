@@ -29,7 +29,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube LkphLIbmjkI >}}
+
 
 ## Limits of Professional Coaching
 

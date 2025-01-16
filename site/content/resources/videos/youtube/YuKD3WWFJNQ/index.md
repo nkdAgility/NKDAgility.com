@@ -51,7 +51,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube YuKD3WWFJNQ >}}
+
 
 # Breaking the Silence: Sparking Engagement in Agile Teams 🚀
 

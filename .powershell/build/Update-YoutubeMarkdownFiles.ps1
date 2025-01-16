@@ -159,7 +159,10 @@ function Update-YoutubeMarkdownFiles {
             if ($source -eq "youtube" -or [string]::IsNullOrWhiteSpace($hugoMarkdown.BodyContent)) {
                 # Ensure Content
                 $hugoMarkdown.BodyContent = " $($videoData.snippet.description) `n [Watch on Youtube](https://www.youtube.com/watch?v=$videoId)" 
-            }           
+            }
+            if ($source -eq "internal") {
+                $hugoMarkdown.BodyContent = $hugoMarkdown.BodyContent.Replace("{{< youtube $videoId >}}", "")
+            }
             # Save the updated HugoMarkdown to index.md
             Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $markdownFile
             Write-Host "Markdown created or updated for video: $($videoSnippet.title)"

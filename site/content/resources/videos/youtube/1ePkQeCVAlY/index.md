@@ -29,8 +29,6 @@ resourceTypes:
 layout: video
 
 ---
-
-
 **What is the difference between resource efficiency and flow efficiency?**
 
 As a Lean-Agile & DevOps Consultant, I frequently encounter individuals grappling with a pivotal question, which is: "What is the difference between resource efficiency and flow efficiency?" 🤔

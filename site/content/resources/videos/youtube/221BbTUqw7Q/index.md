@@ -40,8 +40,6 @@ resourceTypes:
 layout: video
 
 ---
-
-
 ## Scrum's True Potential: A Journey Through the APS Immersive Class
 
 In the evolving landscape of Scrum, nothing quite stands out like the Applied Professional Scrum (APS) immersive experience.  ✨

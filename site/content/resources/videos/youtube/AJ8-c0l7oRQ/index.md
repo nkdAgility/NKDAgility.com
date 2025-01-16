@@ -44,7 +44,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube AJ8-c0l7oRQ >}}
+
 
 ## Finding the Right Balance between Simplicity and Complexity 🧱 
 

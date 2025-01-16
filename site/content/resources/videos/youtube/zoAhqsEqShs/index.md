@@ -29,7 +29,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube zoAhqsEqShs >}}
+
 
 **What is the most interesting outcome you have achieved as an agile consultant?**
 

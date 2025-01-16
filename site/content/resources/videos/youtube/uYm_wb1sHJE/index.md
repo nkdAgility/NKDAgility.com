@@ -33,7 +33,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube uYm_wb1sHJE >}}
+
 
 ## 🚀 Demystifying the Sprint Review Workshop 
 

@@ -49,7 +49,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube pyk0CfSobzM >}}
+
 
 ## Navigating the Uncertainties of Sprint Estimations in Scrum Teams
 

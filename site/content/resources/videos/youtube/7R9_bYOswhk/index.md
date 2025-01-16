@@ -33,7 +33,7 @@ resourceTypes:
 layout: video
 
 ---
-{{< youtube 7R9_bYOswhk >}}
+
 
 ## Ascending the Leadership Ladder
 

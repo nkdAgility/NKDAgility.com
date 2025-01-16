@@ -30,7 +30,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube oBnvr7vOkg8 >}}
+
 
 **How does someone become an Agile consultant?**
 

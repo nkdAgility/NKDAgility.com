@@ -31,7 +31,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube HcoTwjPnLC0 >}}
+
 
 ## Defining Roles in Agile
 

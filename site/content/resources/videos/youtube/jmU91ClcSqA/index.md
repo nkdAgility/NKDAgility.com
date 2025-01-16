@@ -32,7 +32,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube jmU91ClcSqA >}}
+
 
 ## Unpacking Project Management
 

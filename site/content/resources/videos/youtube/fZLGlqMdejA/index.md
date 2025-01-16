@@ -48,7 +48,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube fZLGlqMdejA >}}
+
 
 **Overcoming Greed in Agile: A Path to Value and Efficiency** 
 

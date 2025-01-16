@@ -29,7 +29,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube KXvd_oyLe3Q >}}
+
 
 When organizations engage with us for DevOps consulting, it's rarely by chance. Typically, they've identified a problem—a problem that's grown too big to ignore, a problem that requires expertise beyond their current capabilities. As a DevOps consultant, I’ve seen this scenario play out many times. One of the most significant engagements I’ve experienced involved a large organization in the oil and gas industry. This case illustrates the complexity and challenges organizations face when they try to implement DevOps, and the transformational impact that a well-executed DevOps strategy can have.
 

@@ -29,7 +29,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube sb9RsFslUfU >}}
+
 
 ## From Practitioner to Consultant
 
