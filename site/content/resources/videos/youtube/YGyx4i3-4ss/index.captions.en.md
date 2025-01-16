@@ -1,0 +1,3 @@
+Maybe we have insufficient user understanding. Maybe we believe that what our users say is the truth. Well, this is what they say, but guess what? Do we really understand what the need is? Do we have all the data evidence to find the best ways to bring solutions to fulfil users' needs? This is a valid question. 
+
+Maybe we are facing reactionary development. Okay, customers want it because competitors did it. Is it really so? That's another question. Maybe we are facing insufficient collaboration with our stakeholders, and this is not healthy.

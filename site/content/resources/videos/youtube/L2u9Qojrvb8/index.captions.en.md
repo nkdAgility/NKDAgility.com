@@ -1,0 +1,11 @@
+In order to meet the unique needs of all the different organizations that we work with, and we've worked with medical device organizations, military organizations, all the way through to internet startups and web organizations, whatever the organization, the intrinsic philosophies of DevOps are the same. 
+
+But how they're solved within the context of your organization is completely unique. It will always be unique in every organization. Although a lot of the stories sound the same, right? There's a lot of stories that you'll hear about DevOps and DevOps implementations that kind of sound the same. The devil's in the details, right? The way that it's solved, the tools that are used, the limitations those bring will be different in every organization. 
+
+The value of engaging with us is that we're generally going to be focused on that big picture, right? That state of DevOps: where are we right now, where do we want to go, and how do we maintain progress on that route? We do a lot more work at the start, and then there's a lot of work that has to be done by the people within the context that are doing it. 
+
+We can help keep progress in a particular direction. We can help engage with them over the longer term to coach them around some of these gnarly issues that they run into. Right? You want to solve a particular problem and you don't understand how to do it, but you need to try some things and then perhaps get some advice from somebody who's been doing it a long time. If you don't have those skills in your organization, sometimes you need to look outside of your organization for those additional skills. 
+
+Because every organization is unique, every solution is unique, and we can't tell you how to solve your problems, but we can tell you about how other people have solved similar problems to give you ideas for things to try. 
+
+Creating this philosophy inside of our organization, where we're able to take little pieces of what works for us within our context, sometimes we need to adapt our context but keep moving forward, keep adapting to the needs of the market, and continually increase our capability to deliver software within our organization is where we can help you understand that direction and how it sits within those DevOps philosophies.
