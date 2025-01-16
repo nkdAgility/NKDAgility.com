@@ -27,7 +27,7 @@ resourceTypes:
 layout: video
 
 ---
-{{< youtube -xMY9Heanjk >}}
+
 
 What is the hardest part of working with a brand-new scrum team?
 

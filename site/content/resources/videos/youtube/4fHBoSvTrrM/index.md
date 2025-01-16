@@ -32,7 +32,7 @@ resourceTypes:
 layout: video
 
 ---
-{{< youtube 4fHBoSvTrrM >}}
+
 
 ## PSM II: The Game-Changer for Scrum Masters
 

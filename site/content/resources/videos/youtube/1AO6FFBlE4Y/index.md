@@ -33,7 +33,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube 1AO6FFBlE4Y >}}
+
 
 # The Hidden Costs of Poor Quality Code—and How to Turn It Into a Superpower
 

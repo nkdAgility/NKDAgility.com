@@ -28,7 +28,7 @@ resourceTypes:
 layout: video
 
 ---
-{{< youtube 3AVlBmOATHA >}}
+
 
 How would you help organizations pitch the opportunity of agile internally?
 

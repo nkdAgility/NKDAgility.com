@@ -48,7 +48,7 @@ resourceTypes:
 layout: video
 
 ---
-{{< youtube 2ASLFX2i9_g >}}
+
 
 ## Mastering Agility: Steering Clear of the Gluttony Trap in Agile and Scrum 🌟 
 

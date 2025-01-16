@@ -29,7 +29,7 @@ resourceTypes:
 layout: video
 
 ---
-{{< youtube 2I3S32Sk8-c >}}
+
 
 What would you advise a scrum team to do in their first 4 weeks?
 

@@ -40,7 +40,7 @@ resourceTypes:
 layout: video
 
 ---
-{{< youtube 221BbTUqw7Q >}}
+
 
 ## Scrum's True Potential: A Journey Through the APS Immersive Class
 

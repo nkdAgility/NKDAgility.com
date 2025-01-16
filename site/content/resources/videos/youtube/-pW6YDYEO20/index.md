@@ -27,7 +27,6 @@ resourceTypes:
 layout: video
 
 ---
-{{< youtube -pW6YDYEO20 >}}
 
 **Worst trait in unskilled scrum masters?**
 

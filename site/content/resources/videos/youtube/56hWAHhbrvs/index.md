@@ -51,7 +51,7 @@ resourceTypes:
 layout: video
 
 ---
-{{< youtube 56hWAHhbrvs >}}
+
 
 # Navigating the Agile Apocalypse: Overcoming the Alpha Organizational Structure
 

@@ -27,7 +27,7 @@ resourceTypes:
 layout: video
 
 ---
-{{< youtube 2AJ2JHdMRCc >}}
+
 
 ## Game-Changer in Software Engineering!
 

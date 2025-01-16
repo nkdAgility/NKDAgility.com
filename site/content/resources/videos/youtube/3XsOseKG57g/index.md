@@ -29,7 +29,7 @@ resourceTypes:
 layout: video
 
 ---
-{{< youtube 3XsOseKG57g >}}
+
 
 ## The Magic of the 4-Day Training Format!
 

@@ -47,7 +47,7 @@ resourceTypes:
 layout: video
 
 ---
-{{< youtube 2Cy9MxXiiOo >}}
+
 
 ## What's a Sprint Goal and Why Does It Matter?
 
