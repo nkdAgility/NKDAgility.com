@@ -27,8 +27,6 @@ resourceTypes:
 layout: video
 
 ---
-{{< youtube -pW6YDYEO20 >}}
-
 **Worst trait in unskilled scrum masters?**
 
 Do you picture a Scrum Master as a stern taskmaster, a zealous micromanager, or even an omnipotent boss? If that's a 'yes', prepare to flip your perceptions upside down! 🔄

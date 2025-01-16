@@ -29,7 +29,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube agPLmBdXdbk >}}
+
 
 **Must have trait in an Agile Consultant**
 

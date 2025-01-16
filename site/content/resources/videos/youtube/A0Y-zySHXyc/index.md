@@ -32,7 +32,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube A0Y-zySHXyc >}}
+
 
 ## Bridging the Gap Between Developers and Product Owners 🌉 
 

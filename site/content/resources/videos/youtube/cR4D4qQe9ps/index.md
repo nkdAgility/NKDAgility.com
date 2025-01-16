@@ -32,7 +32,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube cR4D4qQe9ps >}}
+
 
 **#1 tip for a new Scrum Master**
 

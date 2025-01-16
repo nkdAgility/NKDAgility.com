@@ -37,7 +37,7 @@ resourceTypes:
 
 Hi, I’m Martin Hinshelwood, and today I want to explore the concept of "shifting left" in modern software engineering—a principle that’s all about building quality, security, and reliability into your software from the very start. It’s a transformative approach that not only enhances your product but also revolutionizes how your team works. Let me share some insights, personal experiences, and practical advice to help you embrace this mindset.
 
-{{< youtube NgoP5W5y7Gs >}}
+
 
 ## **What Does “Shift Left” Mean?**
 

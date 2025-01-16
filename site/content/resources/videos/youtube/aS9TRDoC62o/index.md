@@ -31,7 +31,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube aS9TRDoC62o >}}
+
 
 ## Why Agile Alone Isn't Enough Without DevOps Consulting 
 

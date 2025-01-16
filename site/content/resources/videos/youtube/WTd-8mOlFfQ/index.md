@@ -31,7 +31,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube WTd-8mOlFfQ >}}
+
 
 ## Escaping the Administrative Vortex: Insights for Scrum Masters - Part 2
 

@@ -26,7 +26,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube eykcZoUdVO8 >}}
+
 
 ## Spotlight on Agile Influencers: The Simon Randell Effect
 

@@ -45,7 +45,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube uCyHR_eU22A >}}
+
 
 ## Navigating Sprint Backlog Selection
 

@@ -24,7 +24,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube sidTi_uSsdc >}}
+
 
 **Discipline versus motivation?**
 

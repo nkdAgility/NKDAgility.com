@@ -30,7 +30,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube hB8oQPpderI >}}
+
 
 **One limitation of reading a book vs attending a course**
 

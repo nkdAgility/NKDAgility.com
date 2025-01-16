@@ -46,7 +46,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube C8a_-zn1Wsc >}}
+
 
 In the ever-evolving world of Agile and Scrum, one of the most valuable approaches to mastering the methodologies is immersive learning. It’s a technique that not only sharpens your understanding but also combats the cognitive biases we unknowingly harbor. As Agile practitioners, we often think we know more than we do about the framework. Immersive learning helps dismantle that illusion, forcing us to confront the reality of how much we still have to discover.
 

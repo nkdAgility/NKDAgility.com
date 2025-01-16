@@ -46,7 +46,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube oiIf2vdqgg0 >}}
+
 
 ## It's All About Direction
 

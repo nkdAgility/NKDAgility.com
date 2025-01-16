@@ -28,7 +28,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube L6opxb0FYcU >}}
+
 
 **Worst agile advice you've ever heard?**
 

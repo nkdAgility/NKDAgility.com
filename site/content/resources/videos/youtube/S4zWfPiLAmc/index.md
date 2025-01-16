@@ -32,7 +32,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube S4zWfPiLAmc >}}
+
 
 ### Avoiding Common Mistakes in Your Kanban Strategy
 

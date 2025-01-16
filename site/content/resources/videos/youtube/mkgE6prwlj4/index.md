@@ -31,7 +31,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube mkgE6prwlj4 >}}
+
 
 ## Spotlight on Outstanding Scrum Application
 

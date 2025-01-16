@@ -48,8 +48,6 @@ resourceTypes:
 layout: video
 
 ---
-{{< youtube 2ASLFX2i9_g >}}
-
 ## Mastering Agility: Steering Clear of the Gluttony Trap in Agile and Scrum 🌟 
 
 In the Agile realm, 'gluttony' extends beyond mere overconsumption. It's a metaphor for the excessive accumulation of backlogs and products, often paralysing the agility of teams.

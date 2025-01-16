@@ -28,7 +28,7 @@ resourceTypes:
 layout: video
 
 ---
-{{< youtube 66NuAjzWreY >}}
+
 
 ## **What is Evidence-Based Management?**
 

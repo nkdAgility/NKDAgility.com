@@ -29,7 +29,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube USrwyGHG_tc >}}
+
 
 ## Introduction: Facilitating, Not Dictating 🕵️‍♂️ 
 

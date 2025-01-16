@@ -28,7 +28,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube ItnQxg3Q4Fc >}}
+
 
 ## Why Senior Leadership is Non-Negotiable in an Agile Consulting Journey
 

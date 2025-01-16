@@ -36,7 +36,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube r2G-NrSIj2k >}}
+
 
 # Rethinking Code Reviews: From Manual Checks to Pre-Reviewed Excellence
 

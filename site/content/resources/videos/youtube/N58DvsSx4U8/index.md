@@ -27,7 +27,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube N58DvsSx4U8 >}}
+
 
 ## A Journey to DevOps Success
 

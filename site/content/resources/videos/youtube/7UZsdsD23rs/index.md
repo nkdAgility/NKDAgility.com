@@ -31,7 +31,7 @@ resourceTypes:
 layout: video
 
 ---
-{{< youtube 7UZsdsD23rs >}}
+
 
 ## The Keystone of Lean-Agile: Empiricism Unravelled 🧬 
 

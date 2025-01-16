@@ -29,7 +29,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube o9Qc_NLmtok >}}
+
 
 ## Immersive Learning: 8 Weeks of Deep Engagement
 

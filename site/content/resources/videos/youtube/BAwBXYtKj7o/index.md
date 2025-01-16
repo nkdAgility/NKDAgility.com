@@ -33,7 +33,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube BAwBXYtKj7o >}} 
+ 
  # Technical Debt Management for Long-Term Quality | Martin Hinshelwood  
 
   📍  📍 Technical debt is a huge problem for, for organizations. I want to quickly define technical debt. Technical debt is

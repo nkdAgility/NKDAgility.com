@@ -35,7 +35,7 @@ resourceTypes:
 layout: video
 
 ---
-{{< youtube 4mkwTMMtKls >}}
+
 
 #### Steering Clear of Envy in Agile: A Roadmap for Authentic Success 🗺️✨ 
 

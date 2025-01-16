@@ -32,7 +32,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube vubnDXYXiL0 >}}
+
 
 # Tailoring Scrum to Scale: Building Your Own Framework for Success
 

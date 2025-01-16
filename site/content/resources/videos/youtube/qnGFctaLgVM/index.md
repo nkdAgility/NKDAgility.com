@@ -31,7 +31,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube qnGFctaLgVM >}}
+
 
 ## Why Russell is the Go-To PSPO Trainer for NKD Agility 🏆 
 

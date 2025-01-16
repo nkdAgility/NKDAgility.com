@@ -31,7 +31,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube TcnVsQbE8xc >}}
+
 
 ## 🕒 Think a Minute Isn’t Much?  
 

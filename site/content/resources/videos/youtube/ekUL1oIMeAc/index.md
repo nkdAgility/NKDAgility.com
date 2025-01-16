@@ -47,7 +47,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube ekUL1oIMeAc >}}
+
 
 ## Product Owner's Misstep
 

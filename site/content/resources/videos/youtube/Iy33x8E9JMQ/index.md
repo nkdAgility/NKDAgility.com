@@ -36,7 +36,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube Iy33x8E9JMQ >}}
+
 
 ## The Thin Line: Dogma vs Empiricism in Consulting Engagements
 

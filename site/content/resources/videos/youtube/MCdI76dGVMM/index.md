@@ -39,7 +39,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube MCdI76dGVMM >}}
+
 
 ## Navigating the Journey to Professionalism in the Agile World
 

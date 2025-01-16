@@ -27,7 +27,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube GmLW6wNcI6k >}}
+
 
 ## The Reality of the Assessment Phase in a Consulting Engagement
 

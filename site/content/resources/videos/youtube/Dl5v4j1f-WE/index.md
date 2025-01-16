@@ -28,7 +28,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube Dl5v4j1f-WE >}}
+
 
 ## My Professional Scrum Trainer Legacy: What Matters Most to Me?
 

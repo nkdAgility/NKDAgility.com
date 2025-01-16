@@ -48,7 +48,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube GJSBFyoHk8E >}}
+
 
 ## The Art of Sprint Goal Creation
 

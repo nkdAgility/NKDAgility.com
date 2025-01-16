@@ -29,7 +29,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube NeGch-lQkPA >}}
+
 
 ### Applying Flow Metrics for Scrum: Enhancing Value Delivery with Kanban
 

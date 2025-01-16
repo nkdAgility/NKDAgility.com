@@ -26,7 +26,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube N3LSpL-N3kY >}}
+
 
 ## The Product Owner Journey
 

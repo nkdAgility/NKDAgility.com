@@ -28,7 +28,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube ypVIcgSEvMc >}}
+
 
 ## The DevOps Evolution: More Than a Simple Shift
 

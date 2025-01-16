@@ -51,8 +51,6 @@ resourceTypes:
 layout: video
 
 ---
-{{< youtube 56hWAHhbrvs >}}
-
 # Navigating the Agile Apocalypse: Overcoming the Alpha Organizational Structure
 
 In the quest for agility within organizations, one formidable adversary stands out, often referred to as the "Antichrist of Agile." This adversary is none other than the Alpha organizational structure—the traditional, hierarchical management framework that stifles the very essence of agility. This piece delves into the challenges posed by such structures and outlines strategies for overcoming them, marking the first in a series dedicated to navigating the harbingers of the agile apocalypse.

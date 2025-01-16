@@ -37,7 +37,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube QI3oE9IUc6E >}}
+
 
 ## The APS Advantage: Exploring Professional Scrum Mastery
 

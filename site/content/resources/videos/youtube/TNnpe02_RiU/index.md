@@ -29,7 +29,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube TNnpe02_RiU >}}
+
 
 **What is Your Peeve in DevOps**
 

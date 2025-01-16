@@ -30,7 +30,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube Xs-gf093GbI >}}
+
 
 ## The essence of a Product is 'The Vision'
 

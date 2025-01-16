@@ -28,7 +28,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube Gtp9wjkPFPA >}}
+
 
 ## DevOps & Agile: Two Sides of the Same Coin 🪙
 

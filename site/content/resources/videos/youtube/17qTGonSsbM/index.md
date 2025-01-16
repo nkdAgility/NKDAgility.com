@@ -46,8 +46,6 @@ resourceTypes:
 layout: video
 
 ---
-{{< youtube 17qTGonSsbM >}}
-
 As Lao Tzu wisely said, _“If you do not change direction, you may end up where you are heading.”_ This quote resonates deeply with me, both as a professional Scrum trainer and a practitioner. Whether you're a developer writing code or an organization strategizing for the future, it's vital to continuously ask yourself: **Are we heading in the right direction?** 🛤️
 
 In this post, we’ll explore why it’s crucial to evaluate your direction regularly at different levels—individual, team, and organizational—and how you can pivot when necessary to achieve better outcomes.

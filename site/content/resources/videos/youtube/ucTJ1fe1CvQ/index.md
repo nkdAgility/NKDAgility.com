@@ -32,7 +32,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube ucTJ1fe1CvQ >}}
+
 
 ## **Why the PPDV Course Was Created**
 

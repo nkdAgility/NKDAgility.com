@@ -30,7 +30,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube klBiNFvxuy0 >}}
+
 
 What is the most common Aha moment people have in a scrum course?
 

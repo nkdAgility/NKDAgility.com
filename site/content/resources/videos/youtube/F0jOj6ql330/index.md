@@ -28,7 +28,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube F0jOj6ql330 >}}
+
 
 ## The Joy of Being a Scrum Developer
 

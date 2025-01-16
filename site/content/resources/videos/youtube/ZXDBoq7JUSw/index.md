@@ -32,7 +32,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube ZXDBoq7JUSw >}}
+
 
 ## Level Up Your Game: 3 Unbeatable Reasons to Enhance Your Skills
 

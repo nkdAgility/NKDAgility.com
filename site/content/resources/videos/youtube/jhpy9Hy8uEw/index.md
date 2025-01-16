@@ -27,7 +27,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube jhpy9Hy8uEw >}}
+
 
 Why did you choose the Scrum.Org track rather than the Scrum Alliance track?
 

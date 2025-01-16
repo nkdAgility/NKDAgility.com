@@ -34,7 +34,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube v1sMbKpQndU >}}
+
 
 ## The Agile Landscape: A Guide to Effective Coaching and Leadership 
 

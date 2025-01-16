@@ -29,7 +29,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube uJaBPyixNlc >}}
+
 
 How does Naked Agility select associate Scrum Trainers?
 

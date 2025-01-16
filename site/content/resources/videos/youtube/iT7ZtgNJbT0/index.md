@@ -31,7 +31,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube iT7ZtgNJbT0 >}}
+
 
 **What was your best day as an Agile consultant?**
 

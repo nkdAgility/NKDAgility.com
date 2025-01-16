@@ -48,7 +48,7 @@ resourceTypes:
 layout: video
 
 ---
-{{< youtube 7O-LmzmxUkE >}}
+
 
 # Demystifying Scrum: Beyond Meetings to Meaningful Events 🚀
 

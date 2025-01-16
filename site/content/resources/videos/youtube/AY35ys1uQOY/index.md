@@ -47,7 +47,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube AY35ys1uQOY >}}
+
 
 ## Is Your Sprint Goal Hitting the Mark?
 

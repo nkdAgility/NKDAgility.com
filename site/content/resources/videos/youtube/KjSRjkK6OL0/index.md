@@ -26,7 +26,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube KjSRjkK6OL0 >}}
+
 
 ## Spotting an Ineffective Scrum Master's Day
 

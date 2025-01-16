@@ -32,7 +32,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube ZQu2uSt1xxk >}}
+
 
 ### Understanding and Applying Kanban: The Professional Kanban Course
 

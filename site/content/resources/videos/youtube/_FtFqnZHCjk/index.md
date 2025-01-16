@@ -28,7 +28,7 @@ resourceTypes:
 layout: video
 
 ---
-{{< youtube _FtFqnZHCjk >}}
+
 
 Product management has always revolved around one fundamental goal: **maximizing business value**. However, with the advent of Agile methodologies, there’s been a significant shift in how this goal is achieved. While the core tools and techniques remain largely unchanged, the approach to their application has evolved, leading to a more dynamic and responsive process.
 

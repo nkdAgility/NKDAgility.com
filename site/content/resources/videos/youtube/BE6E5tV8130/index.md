@@ -29,7 +29,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube BE6E5tV8130 >}}
+
 
 How is agile product development different to waterfall project management?
 

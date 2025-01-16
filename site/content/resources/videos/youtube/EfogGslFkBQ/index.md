@@ -46,7 +46,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube EfogGslFkBQ >}}
+
 
 **Introduction to Agile Metrics: The Pitfall of Story Points and Velocity**
 

@@ -46,7 +46,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube oKZ9bbESCok >}}
+
 
 In Agile environments, there’s often a temptation to rely on metrics that seem to offer clarity and control over a project’s progress. One such metric is the "say-do" metric, which measures what a team says they will do versus what they actually accomplish. While this may appear useful on the surface, it's often a slippery slope that leads to vanity metrics, reduced psychological safety, and, ultimately, a focus on outputs rather than outcomes.
 

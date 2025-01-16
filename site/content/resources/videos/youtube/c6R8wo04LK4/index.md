@@ -28,7 +28,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube c6R8wo04LK4 >}}
+
 
 ## Debunking the "Magic" Myth
 

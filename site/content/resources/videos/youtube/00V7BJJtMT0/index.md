@@ -27,8 +27,6 @@ resourceTypes:
 layout: video
 
 ---
-{{< youtube 00V7BJJtMT0 >}}
-
 What is DevOps and how is it different to Agile?
 
 Fundamentally, **DevOps** is no different to **Agile** at all.

@@ -43,7 +43,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube YUlpnyN2IeI >}}
+
 
 ## The Golden Nugget of Scrum Advice I've Ever Received
 

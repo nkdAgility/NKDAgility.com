@@ -28,7 +28,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube grJFd9-R5Pw >}}
+
 
 How does the APS course help people apply scrum effectively?
 

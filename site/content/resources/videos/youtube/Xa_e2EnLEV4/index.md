@@ -29,7 +29,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube Xa_e2EnLEV4 >}}
+
 
 ### The Danger of Ignoring Problems in Your Kanban Strategy
 

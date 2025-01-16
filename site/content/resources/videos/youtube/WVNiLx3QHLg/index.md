@@ -30,7 +30,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube WVNiLx3QHLg >}}
+
 
 **Why I love heirarchies of competence**
 

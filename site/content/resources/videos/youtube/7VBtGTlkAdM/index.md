@@ -32,7 +32,7 @@ resourceTypes:
 layout: video
 
 ---
-{{< youtube 7VBtGTlkAdM >}}
+
 
 ## The Double-Edged Sword of Consulting Contracts
 

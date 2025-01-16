@@ -32,7 +32,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube Ce5pFwG5IAY >}}
+
 
 **Scrum Masters: Unlocking the Power of Liberating Structures 🚀** 
 

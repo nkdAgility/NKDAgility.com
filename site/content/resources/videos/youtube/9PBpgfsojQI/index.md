@@ -26,7 +26,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube 9PBpgfsojQI >}}
+
 
 2023 is predicted to be a very tough year. What do you think will be needed to win and improve?
 

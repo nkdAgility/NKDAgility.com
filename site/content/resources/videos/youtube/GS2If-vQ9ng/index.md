@@ -35,7 +35,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube GS2If-vQ9ng >}}
+
 
 ## Why Both Are Hard-Hitting but in Different Ways
 

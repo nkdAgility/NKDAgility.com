@@ -36,7 +36,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube B12n_52H48U >}}
+
 
 ## The Role of the Product Owner: Navigating the Agile Seas 🌊 
 

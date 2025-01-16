@@ -27,7 +27,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube Oj0ybFF12Rw >}}
+
 
 ## "Don't scale scrum" - A Common Refrain 
 

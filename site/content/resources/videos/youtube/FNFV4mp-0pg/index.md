@@ -26,7 +26,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube FNFV4mp-0pg >}}
+
 
 **Is a scrum master an agile micromanager?**
 

@@ -48,7 +48,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube ArVDYRCKpOE >}}
+
 
 ## Navigating its Limits in Agile Work Environments 
 

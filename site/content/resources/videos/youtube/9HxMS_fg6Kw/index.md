@@ -29,7 +29,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube 9HxMS_fg6Kw >}}
+
 
 What are some big red flags when hiring an agile consultant?
 

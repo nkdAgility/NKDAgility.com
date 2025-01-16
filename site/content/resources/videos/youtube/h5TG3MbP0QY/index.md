@@ -30,7 +30,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube h5TG3MbP0QY >}}
+
 
 ## "But in the Real World..."
 

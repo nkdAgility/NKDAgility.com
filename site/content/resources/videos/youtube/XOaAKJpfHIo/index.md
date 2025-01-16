@@ -27,7 +27,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube XOaAKJpfHIo >}}
+
 
 How important is DevOps in continuous delivery of value to customers?
 

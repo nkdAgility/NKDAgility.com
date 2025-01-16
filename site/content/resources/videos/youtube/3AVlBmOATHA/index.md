@@ -28,8 +28,6 @@ resourceTypes:
 layout: video
 
 ---
-{{< youtube 3AVlBmOATHA >}}
-
 How would you help organizations pitch the opportunity of agile internally?
 
 It depends on whether you are managing up or down.

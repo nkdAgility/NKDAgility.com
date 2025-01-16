@@ -36,7 +36,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube hFjoIf3KPeI >}}
+
 
 ## Reinvigorating Your Scrum Team: The Agile Coach's Playbook 🚀 
 

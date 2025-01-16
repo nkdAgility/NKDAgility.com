@@ -29,7 +29,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube Fg90Nit7Q9Q >}}
+
 
 ## Bridging DevOps & Software Engineering Through Scrum! 🔥
 

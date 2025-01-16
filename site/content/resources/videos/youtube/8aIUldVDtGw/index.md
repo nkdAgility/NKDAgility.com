@@ -46,7 +46,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube 8aIUldVDtGw >}}
+
 
 In today's fast-paced business environment, there's often a misconception that the more tasks we juggle, the more productive we are. However, as many successful teams have realized, this couldn't be further from the truth. A popular quote from Lean methodology sums it up perfectly: **"Stop starting and start finishing."** This philosophy emphasizes the importance of focusing on completing work, rather than constantly starting new tasks.
 

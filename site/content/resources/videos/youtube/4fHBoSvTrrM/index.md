@@ -32,8 +32,6 @@ resourceTypes:
 layout: video
 
 ---
-{{< youtube 4fHBoSvTrrM >}}
-
 ## PSM II: The Game-Changer for Scrum Masters
 
 Today, I want to tackle an important question I often receive, "How will a PSM II course challenge your assumptions the most?

@@ -47,8 +47,6 @@ resourceTypes:
 layout: video
 
 ---
-{{< youtube 2Cy9MxXiiOo >}}
-
 ## What's a Sprint Goal and Why Does It Matter?
 
 I think it's essential to ask what a sprint goal is and look deeper into why it matters. 

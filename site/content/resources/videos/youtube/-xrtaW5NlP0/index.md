@@ -35,8 +35,6 @@ resourceTypes:
 layout: video
 
 ---
-{{< youtube -xrtaW5NlP0 >}}
-
 Creativity, with its boundless landscape, where every spark of inspiration has the potential to morph into a magnum opus, often thrives in a state of organised chaos.  
 
 But when the whirlwind of creative brilliance threatens to scatter ideas like leaves in a storm, Kanban steps forward as the beacon of method in the madness. 🎨 

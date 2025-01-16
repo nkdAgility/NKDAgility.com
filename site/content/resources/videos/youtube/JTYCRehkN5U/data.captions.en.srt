@@ -1,0 +1,1817 @@
+1
+00:00:00,080 --> 00:00:06,319
+technical Excellence is one of the most
+
+2
+00:00:02,960 --> 00:00:09,559
+important Concepts When You're Building
+
+3
+00:00:06,319 --> 00:00:12,599
+Products uh scrum talks about this in
+
+4
+00:00:09,559 --> 00:00:15,400
+that um you're you should always have a
+
+5
+00:00:12,599 --> 00:00:18,520
+usable working product at the end of
+
+6
+00:00:15,400 --> 00:00:24,400
+every iteration um agile talks about
+
+7
+00:00:18,520 --> 00:00:27,519
+this um the idea is that in order to
+
+8
+00:00:24,400 --> 00:00:30,560
+mitigate risk we need to create usable
+
+9
+00:00:27,519 --> 00:00:34,640
+working product so in
+
+10
+00:00:30,560 --> 00:00:37,559
+the the the the more linear model right
+
+11
+00:00:34,640 --> 00:00:39,360
+where we know lots of stuff up front
+
+12
+00:00:37,559 --> 00:00:42,360
+let's say we were going to build three
+
+13
+00:00:39,360 --> 00:00:44,239
+300 houses on a on a construction site
+
+14
+00:00:42,360 --> 00:00:46,239
+um we know a lot up front we know
+
+15
+00:00:44,239 --> 00:00:47,920
+exactly what designs of the houses we're
+
+16
+00:00:46,239 --> 00:00:49,719
+going to have we've probably had to get
+
+17
+00:00:47,920 --> 00:00:53,320
+planning permission right so these
+
+18
+00:00:49,719 --> 00:00:55,120
+things a lot of that is locked in um for
+
+19
+00:00:53,320 --> 00:00:56,879
+what it is we're going to do so we know
+
+20
+00:00:55,120 --> 00:00:59,000
+how much materials how much wood how
+
+21
+00:00:56,879 --> 00:01:01,480
+much plaster we know when we're going to
+
+22
+00:00:59,000 --> 00:01:03,280
+do certain things on s or mostly when
+
+23
+00:01:01,480 --> 00:01:06,600
+right there's some variant but not a lot
+
+24
+00:01:03,280 --> 00:01:10,479
+of variants so when there's low variance
+
+25
+00:01:06,600 --> 00:01:13,040
+we mitigate Risk by doing more planning
+
+26
+00:01:10,479 --> 00:01:16,000
+right we we we we we plan up front we
+
+27
+00:01:13,040 --> 00:01:21,000
+create a bunch of documents around that
+
+28
+00:01:16,000 --> 00:01:23,960
+planning um we um create here's a list
+
+29
+00:01:21,000 --> 00:01:26,119
+of risks that might happen um if this
+
+30
+00:01:23,960 --> 00:01:27,560
+risk happens here's the mitigating
+
+31
+00:01:26,119 --> 00:01:29,280
+action we're going to have here's the
+
+32
+00:01:27,560 --> 00:01:31,320
+percentage likelihood that that risk is
+
+33
+00:01:29,280 --> 00:01:36,399
+going to happen um and we'll maintain
+
+34
+00:01:31,320 --> 00:01:39,520
+that data over time right so um we
+
+35
+00:01:36,399 --> 00:01:42,000
+create this whole body of material and
+
+36
+00:01:39,520 --> 00:01:43,960
+planning and dates and things around
+
+37
+00:01:42,000 --> 00:01:47,840
+that story and that's great when
+
+38
+00:01:43,960 --> 00:01:49,880
+variance is low um and that allows us to
+
+39
+00:01:47,840 --> 00:01:53,119
+mitigate the risk right because if
+
+40
+00:01:49,880 --> 00:01:55,360
+you're going to spend I don't know uh 20
+
+41
+00:01:53,119 --> 00:02:00,200
+million uh building
+
+42
+00:01:55,360 --> 00:02:03,799
+this area of houses um then then need to
+
+43
+00:02:00,200 --> 00:02:05,640
+plan for that but even even then you're
+
+44
+00:02:03,799 --> 00:02:07,000
+going to take a little bit of an agile
+
+45
+00:02:05,640 --> 00:02:08,640
+approach right you're not going to build
+
+46
+00:02:07,000 --> 00:02:10,679
+all the houses at once and then sell
+
+47
+00:02:08,640 --> 00:02:12,239
+them all at once you're going to build a
+
+48
+00:02:10,679 --> 00:02:13,440
+few houses and sell them and a few
+
+49
+00:02:12,239 --> 00:02:15,599
+houses and sell them because you're
+
+50
+00:02:13,440 --> 00:02:17,959
+testing the market and you're seeing and
+
+51
+00:02:15,599 --> 00:02:19,040
+you might then even need to apply for
+
+52
+00:02:17,959 --> 00:02:20,680
+different planning permission to change
+
+53
+00:02:19,040 --> 00:02:22,640
+your mind so there's still a lot of
+
+54
+00:02:20,680 --> 00:02:25,640
+variance in that story I do get that for
+
+55
+00:02:22,640 --> 00:02:28,280
+those that um are in that industry but
+
+56
+00:02:25,640 --> 00:02:29,879
+in general right old school you're
+
+57
+00:02:28,280 --> 00:02:30,879
+you're you're kind of making that those
+
+58
+00:02:29,879 --> 00:02:33,920
+decisions up
+
+59
+00:02:30,879 --> 00:02:36,200
+front but when we have high variants
+
+60
+00:02:33,920 --> 00:02:37,519
+which as I just noted can happen in the
+
+61
+00:02:36,200 --> 00:02:42,879
+building industry as well but when we
+
+62
+00:02:37,519 --> 00:02:45,560
+have high variants we um can't mitigate
+
+63
+00:02:42,879 --> 00:02:47,720
+Risk by writing everything down and
+
+64
+00:02:45,560 --> 00:02:49,800
+creating a story for every single thing
+
+65
+00:02:47,720 --> 00:02:51,800
+that might maybe happen because every
+
+66
+00:02:49,800 --> 00:02:54,280
+single thing that might maybe happen is
+
+67
+00:02:51,800 --> 00:02:55,599
+going to change every day right think of
+
+68
+00:02:54,280 --> 00:02:58,319
+the
+
+69
+00:02:55,599 --> 00:03:00,720
+the I like to I like to think of the the
+
+70
+00:02:58,319 --> 00:03:02,560
+the the Multiverse right you've got all
+
+71
+00:03:00,720 --> 00:03:05,080
+those decision points that happen and
+
+72
+00:03:02,560 --> 00:03:08,560
+every time you make a decision and go
+
+73
+00:03:05,080 --> 00:03:11,319
+down A New Path a whole different set of
+
+74
+00:03:08,560 --> 00:03:14,959
+decision points and problem points and
+
+75
+00:03:11,319 --> 00:03:16,599
+issue points occur so every time you
+
+76
+00:03:14,959 --> 00:03:18,200
+made one of those decisions every time
+
+77
+00:03:16,599 --> 00:03:20,400
+you made one of those little changes you
+
+78
+00:03:18,200 --> 00:03:22,239
+would need to rebuild all of that body
+
+79
+00:03:20,400 --> 00:03:25,000
+of asset and it's just not reasonable to
+
+80
+00:03:22,239 --> 00:03:29,040
+do that it puts too much of a um
+
+81
+00:03:25,000 --> 00:03:30,480
+overhead on uh uh people time everything
+
+82
+00:03:29,040 --> 00:03:33,280
+and you end up
+
+83
+00:03:30,480 --> 00:03:36,040
+with that story of the plan not being
+
+84
+00:03:33,280 --> 00:03:38,200
+able to the plan itself not being able
+
+85
+00:03:36,040 --> 00:03:39,799
+to keep up with the reality of the world
+
+86
+00:03:38,200 --> 00:03:41,159
+therefore we then make bad decisions
+
+87
+00:03:39,799 --> 00:03:43,920
+because we can't really see what's going
+
+88
+00:03:41,159 --> 00:03:46,080
+on and so we're not mitigating risk at
+
+89
+00:03:43,920 --> 00:03:50,280
+all
+
+90
+00:03:46,080 --> 00:03:54,079
+but in that high variance world we
+
+91
+00:03:50,280 --> 00:03:57,239
+mitigate Risk by creating a usable
+
+92
+00:03:54,079 --> 00:04:00,079
+working product on a regular Cadence
+
+93
+00:03:57,239 --> 00:04:03,760
+right that's how we mitigate the risk we
+
+94
+00:04:00,079 --> 00:04:06,159
+deliver something we create that thing
+
+95
+00:04:03,760 --> 00:04:09,239
+that the customer is looking for and we
+
+96
+00:04:06,159 --> 00:04:10,680
+offer it to them for inspection so they
+
+97
+00:04:09,239 --> 00:04:12,480
+can look at it and see yeah yeah yeah
+
+98
+00:04:10,680 --> 00:04:13,840
+you're doing the right thing or oh what
+
+99
+00:04:12,480 --> 00:04:15,319
+I don't understand why you made those
+
+100
+00:04:13,840 --> 00:04:19,160
+decisions great that's a great
+
+101
+00:04:15,319 --> 00:04:21,120
+conversation right so in order to be
+
+102
+00:04:19,160 --> 00:04:24,479
+able to have a usable working product at
+
+103
+00:04:21,120 --> 00:04:27,320
+the end of every iteration and I I do
+
+104
+00:04:24,479 --> 00:04:31,160
+want to point out this this is not a
+
+105
+00:04:27,320 --> 00:04:34,600
+pipe dream this is not a ideal World
+
+106
+00:04:31,160 --> 00:04:36,840
+thing um I I I want you to all go look
+
+107
+00:04:34,600 --> 00:04:41,639
+up um the
+
+108
+00:04:36,840 --> 00:04:44,880
+DI uh the US Department of Defense di
+
+109
+00:04:41,639 --> 00:04:47,080
+article on detecting agile [Â __Â ] um
+
+110
+00:04:44,880 --> 00:04:51,120
+it was an article that a paper that was
+
+111
+00:04:47,080 --> 00:04:54,880
+sent out to every procurement officer in
+
+112
+00:04:51,120 --> 00:04:58,600
+the the the I think it was the Air Force
+
+113
+00:04:54,880 --> 00:05:00,320
+um to let them know what they need to
+
+114
+00:04:58,600 --> 00:05:02,520
+look for
+
+115
+00:05:00,320 --> 00:05:04,320
+when they're working with vendors right
+
+116
+00:05:02,520 --> 00:05:07,479
+when they're buying stuff from
+
+117
+00:05:04,320 --> 00:05:10,080
+vendors so that they can make better
+
+118
+00:05:07,479 --> 00:05:12,000
+purchasing decisions this vendor is
+
+119
+00:05:10,080 --> 00:05:14,120
+telling me telling me that they're agile
+
+120
+00:05:12,000 --> 00:05:17,080
+how do I know that they're agile I'm a
+
+121
+00:05:14,120 --> 00:05:18,560
+Layman I don't understand necessarily
+
+122
+00:05:17,080 --> 00:05:20,160
+understand agile I don't necessarily
+
+123
+00:05:18,560 --> 00:05:22,280
+understand that new world how do I
+
+124
+00:05:20,160 --> 00:05:24,319
+ensure that I'm buying the right thing
+
+125
+00:05:22,280 --> 00:05:28,639
+and this article lays out a whole bunch
+
+126
+00:05:24,319 --> 00:05:31,360
+of questions um that enable that person
+
+127
+00:05:28,639 --> 00:05:33,720
+to at least start getting some insight
+
+128
+00:05:31,360 --> 00:05:36,319
+and one of the key questions um and this
+
+129
+00:05:33,720 --> 00:05:42,479
+is like the first one for for for
+
+130
+00:05:36,319 --> 00:05:44,120
+leadership was um are H uh versions do
+
+131
+00:05:42,479 --> 00:05:46,840
+you have a working version of your
+
+132
+00:05:44,120 --> 00:05:48,639
+product every iteration including the
+
+133
+00:05:46,840 --> 00:05:52,919
+first that gets into the hands of real
+
+134
+00:05:48,639 --> 00:05:55,919
+users real users not uat not fake users
+
+135
+00:05:52,919 --> 00:05:59,240
+not test environments real
+
+136
+00:05:55,919 --> 00:06:00,680
+users every iteration including the
+
+137
+00:05:59,240 --> 00:06:03,880
+first
+
+138
+00:06:00,680 --> 00:06:06,800
+so if you're doing two we iterations um
+
+139
+00:06:03,880 --> 00:06:09,680
+then at the end of the first two weeks
+
+140
+00:06:06,800 --> 00:06:12,880
+you should have a usable working
+
+141
+00:06:09,680 --> 00:06:18,039
+product that's how we mitigate risk in
+
+142
+00:06:12,880 --> 00:06:22,240
+the agile and scrum space that's how we
+
+143
+00:06:18,039 --> 00:06:24,639
+ensure that um when people give us money
+
+144
+00:06:22,240 --> 00:06:28,919
+we're actually delivering something that
+
+145
+00:06:24,639 --> 00:06:31,199
+will be valuable for them right um and
+
+146
+00:06:28,919 --> 00:06:33,720
+that's really hard hard if our our our
+
+147
+00:06:31,199 --> 00:06:35,720
+software our product the quality of our
+
+148
+00:06:33,720 --> 00:06:38,520
+product is terrible that's that's really
+
+149
+00:06:35,720 --> 00:06:41,919
+hard can you can you imagine trying even
+
+150
+00:06:38,520 --> 00:06:45,080
+if you were building houses right uh and
+
+151
+00:06:41,919 --> 00:06:47,039
+um you're you're there's there's broken
+
+152
+00:06:45,080 --> 00:06:49,160
+broken joists there's things not
+
+153
+00:06:47,039 --> 00:06:51,400
+attached properly there's leaky pipes
+
+154
+00:06:49,160 --> 00:06:53,800
+there's flooding we've not built the
+
+155
+00:06:51,400 --> 00:06:55,759
+house properly and we're trying to hand
+
+156
+00:06:53,800 --> 00:06:57,560
+that house over to the customer and have
+
+157
+00:06:55,759 --> 00:06:59,240
+the customer come in and look at it and
+
+158
+00:06:57,560 --> 00:07:01,960
+the customer's like well this is this is
+
+159
+00:06:59,240 --> 00:07:05,039
+Terri what I'm not going to buy
+
+160
+00:07:01,960 --> 00:07:06,879
+this that that's where engineering
+
+161
+00:07:05,039 --> 00:07:10,000
+Excellence comes in that's where
+
+162
+00:07:06,879 --> 00:07:14,560
+technical Excellence comes in um we want
+
+163
+00:07:10,000 --> 00:07:17,960
+to build things that actually work we
+
+164
+00:07:14,560 --> 00:07:20,120
+want to deliver less stuff up front
+
+165
+00:07:17,960 --> 00:07:23,520
+right in the in the fictional you know
+
+166
+00:07:20,120 --> 00:07:26,800
+that old phrase um
+
+167
+00:07:23,520 --> 00:07:29,039
+20% so is it 80% of the work takes 20%
+
+168
+00:07:26,800 --> 00:07:30,400
+of the time and the last 20% takes 80%
+
+169
+00:07:29,039 --> 00:07:34,800
+of the time
+
+170
+00:07:30,400 --> 00:07:37,080
+that is because our quality was bad
+
+171
+00:07:34,800 --> 00:07:39,639
+that's because we didn't have technical
+
+172
+00:07:37,080 --> 00:07:43,599
+excellence in what it was that we were
+
+173
+00:07:39,639 --> 00:07:45,800
+doing so we got that 80% of the
+
+174
+00:07:43,599 --> 00:07:48,080
+functionality we've done it looks like
+
+175
+00:07:45,800 --> 00:07:51,759
+it works but actually behind the scenes
+
+176
+00:07:48,080 --> 00:07:54,039
+it's a total mess spaghetti absolute
+
+177
+00:07:51,759 --> 00:07:56,159
+garbage and the customer comes along and
+
+178
+00:07:54,039 --> 00:07:57,720
+tries to use it and they're like oh we
+
+179
+00:07:56,159 --> 00:08:00,400
+need to fix this we need to fix that and
+
+180
+00:07:57,720 --> 00:08:02,479
+you end up hatching right you're getting
+
+181
+00:08:00,400 --> 00:08:04,120
+out the sticky tape and super glue and
+
+182
+00:08:02,479 --> 00:08:05,720
+trying to figure out how do we patch
+
+183
+00:08:04,120 --> 00:08:07,720
+this together and then they're like oh I
+
+184
+00:08:05,720 --> 00:08:08,960
+don't like the way this works you can't
+
+185
+00:08:07,720 --> 00:08:11,080
+rebuild it because it's part of the
+
+186
+00:08:08,960 --> 00:08:14,680
+fundamental architecture so you have to
+
+187
+00:08:11,080 --> 00:08:16,599
+add another layer of uh OB Fusion on top
+
+188
+00:08:14,680 --> 00:08:18,080
+to make it look like it works the way
+
+189
+00:08:16,599 --> 00:08:19,840
+the customer wanted it to work but
+
+190
+00:08:18,080 --> 00:08:22,039
+actually behind the scenes it just works
+
+191
+00:08:19,840 --> 00:08:24,680
+the way the developers originally built
+
+192
+00:08:22,039 --> 00:08:27,080
+it to work and now we've got extra
+
+193
+00:08:24,680 --> 00:08:29,159
+complexity we've got something that is
+
+194
+00:08:27,080 --> 00:08:31,159
+more difficult to maintain more
+
+195
+00:08:29,159 --> 00:08:34,880
+difficult to understand and you can
+
+196
+00:08:31,159 --> 00:08:37,800
+imagine that over time that builds up on
+
+197
+00:08:34,880 --> 00:08:42,640
+top and you end up with massive amounts
+
+198
+00:08:37,800 --> 00:08:45,680
+of funking layers appar effectively that
+
+199
+00:08:42,640 --> 00:08:47,640
+um inhibit your ability to deliver value
+
+200
+00:08:45,680 --> 00:08:51,640
+and that's something that I I would I
+
+201
+00:08:47,640 --> 00:08:55,440
+would quantify um with some some
+
+202
+00:08:51,640 --> 00:08:58,040
+some data I do a lot of presentations on
+
+203
+00:08:55,440 --> 00:09:00,640
+how the Azure devops team that's the
+
+204
+00:08:58,040 --> 00:09:04,839
+team at Microsoft that built the Azure
+
+205
+00:09:00,640 --> 00:09:06,560
+devops product um they in 2012 they were
+
+206
+00:09:04,839 --> 00:09:08,600
+technically a waterfall team they were
+
+207
+00:09:06,560 --> 00:09:11,000
+delivering once every two years to
+
+208
+00:09:08,600 --> 00:09:13,600
+production and they moved almost
+
+209
+00:09:11,000 --> 00:09:17,120
+overnight towards uh uh continuous
+
+210
+00:09:13,600 --> 00:09:18,240
+delivery and uh uh 3- week iterations
+
+211
+00:09:17,120 --> 00:09:19,760
+right so they were delivering usable
+
+212
+00:09:18,240 --> 00:09:21,279
+working product every three weeks they
+
+213
+00:09:19,760 --> 00:09:24,320
+were shipping to production every 3
+
+214
+00:09:21,279 --> 00:09:26,519
+weeks um and they've delivered every 3
+
+215
+00:09:24,320 --> 00:09:30,600
+weeks for the past I don't know
+
+216
+00:09:26,519 --> 00:09:35,279
+26 3 week Sprints right um
+
+217
+00:09:30,600 --> 00:09:37,839
+so back in 2012 with 650 people they
+
+218
+00:09:35,279 --> 00:09:40,320
+were delivering around 24 features to
+
+219
+00:09:37,839 --> 00:09:43,640
+production each year and part of the
+
+220
+00:09:40,320 --> 00:09:46,839
+reason that that number is quite low 24
+
+221
+00:09:43,640 --> 00:09:51,519
+features is that one the features were
+
+222
+00:09:46,839 --> 00:09:55,880
+really big but also the
+
+223
+00:09:51,519 --> 00:09:57,880
+the difficulty in adding the
+
+224
+00:09:55,880 --> 00:10:01,079
+features and
+
+225
+00:09:57,880 --> 00:10:03,120
+interacting with the code base in order
+
+226
+00:10:01,079 --> 00:10:06,600
+to get the product to do the things that
+
+227
+00:10:03,120 --> 00:10:08,640
+you wanted it to do was really difficult
+
+228
+00:10:06,600 --> 00:10:10,560
+because you had all those little layers
+
+229
+00:10:08,640 --> 00:10:11,839
+of things that had built on top and this
+
+230
+00:10:10,560 --> 00:10:14,839
+doesn't quite work the way it was
+
+231
+00:10:11,839 --> 00:10:17,279
+supposed to I think aure devops was
+
+232
+00:10:14,839 --> 00:10:19,959
+originally team Foundation server if you
+
+233
+00:10:17,279 --> 00:10:23,600
+remember those days and team Foundation
+
+234
+00:10:19,959 --> 00:10:26,440
+server was originally a bunch of other
+
+235
+00:10:23,600 --> 00:10:29,920
+products that were Native inside of
+
+236
+00:10:26,440 --> 00:10:31,920
+Microsoft um they had Source control
+
+237
+00:10:29,920 --> 00:10:34,160
+uh in-house Source control products they
+
+238
+00:10:31,920 --> 00:10:36,800
+had in-house work item tracking products
+
+239
+00:10:34,160 --> 00:10:39,920
+they had in-house other stuff um and
+
+240
+00:10:36,800 --> 00:10:44,639
+that was kind of cooled together in
+
+241
+00:10:39,920 --> 00:10:47,200
+order to um create the first version of
+
+242
+00:10:44,639 --> 00:10:49,480
+Team Foundation server now I'm sure so
+
+243
+00:10:47,200 --> 00:10:51,120
+lots of stuff was Rewritten and but
+
+244
+00:10:49,480 --> 00:10:53,680
+you've got that
+
+245
+00:10:51,120 --> 00:10:55,839
+fundamental architectural mindset right
+
+246
+00:10:53,680 --> 00:10:57,839
+even though you're rewriting something
+
+247
+00:10:55,839 --> 00:11:00,519
+you you're you're taking something else
+
+248
+00:10:57,839 --> 00:11:04,399
+so actually the the the genetics of that
+
+249
+00:11:00,519 --> 00:11:06,040
+product is is is quite long quite old um
+
+250
+00:11:04,399 --> 00:11:07,480
+and then you get to that point where
+
+251
+00:11:06,040 --> 00:11:11,120
+you're switching
+
+252
+00:11:07,480 --> 00:11:13,920
+from needing two years to get a piece of
+
+253
+00:11:11,120 --> 00:11:16,920
+functionality working
+
+254
+00:11:13,920 --> 00:11:18,360
+um to needed three weeks to get a piece
+
+255
+00:11:16,920 --> 00:11:21,839
+of functionality
+
+256
+00:11:18,360 --> 00:11:24,800
+working so they moved to this new model
+
+257
+00:11:21,839 --> 00:11:27,720
+and in uh 2012 they're delivering about
+
+258
+00:11:24,800 --> 00:11:30,720
+24 features to production um they then
+
+259
+00:11:27,720 --> 00:11:30,720
+focused
+
+260
+00:11:31,560 --> 00:11:36,800
+absolutely the majority of their
+
+261
+00:11:34,480 --> 00:11:41,639
+time maybe going majority is probably
+
+262
+00:11:36,800 --> 00:11:44,360
+too much their primary focus was on um
+
+263
+00:11:41,639 --> 00:11:47,200
+paying back technical debt building in
+
+264
+00:11:44,360 --> 00:11:49,839
+technical Excellence solving those
+
+265
+00:11:47,200 --> 00:11:51,760
+Effectiveness problems right of of
+
+266
+00:11:49,839 --> 00:11:53,920
+moving to that new model both in both in
+
+267
+00:11:51,760 --> 00:11:56,920
+their process and in in the product as
+
+268
+00:11:53,920 --> 00:11:59,120
+well and by 2018 they were delivering
+
+269
+00:11:56,920 --> 00:12:01,160
+280 features to production each year
+
+270
+00:11:59,120 --> 00:12:03,200
+with with the same number of people so
+
+271
+00:12:01,160 --> 00:12:06,040
+from 24 features to production 24
+
+272
+00:12:03,200 --> 00:12:08,160
+experiments 24 new features to try and
+
+273
+00:12:06,040 --> 00:12:10,360
+see if the customer likes to
+
+274
+00:12:08,160 --> 00:12:12,160
+280 new features the customer
+
+275
+00:12:10,360 --> 00:12:14,880
+experiments to try things that might
+
+276
+00:12:12,160 --> 00:12:17,440
+work and might help the customer now yes
+
+277
+00:12:14,880 --> 00:12:19,120
+those things were smaller right um but
+
+278
+00:12:17,440 --> 00:12:21,199
+they were also delivered
+
+279
+00:12:19,120 --> 00:12:25,360
+faster um
+
+280
+00:12:21,199 --> 00:12:29,240
+and that focus on technical Excellence
+
+281
+00:12:25,360 --> 00:12:30,880
+enables us to do that um if we don't
+
+282
+00:12:29,240 --> 00:12:33,399
+have technical excellence in the way we
+
+283
+00:12:30,880 --> 00:12:36,279
+do things then it just doesn't work I I
+
+284
+00:12:33,399 --> 00:12:38,880
+did a recent interview with Dan Helm who
+
+285
+00:12:36,279 --> 00:12:40,800
+was who is the the he runs as your
+
+286
+00:12:38,880 --> 00:12:42,240
+boards the work item tracking part of
+
+287
+00:12:40,800 --> 00:12:46,600
+the part of the
+
+288
+00:12:42,240 --> 00:12:49,399
+system and when uh he was quizzed on
+
+289
+00:12:46,600 --> 00:12:51,079
+definition of done and how that works he
+
+290
+00:12:49,399 --> 00:12:54,920
+didn't really have a solid answer and
+
+291
+00:12:51,079 --> 00:12:58,760
+that's because technical Excellence is
+
+292
+00:12:54,920 --> 00:13:01,399
+so baked into the way they do everything
+
+293
+00:12:58,760 --> 00:13:03,680
+at that level like all the engineers
+
+294
+00:13:01,399 --> 00:13:07,040
+know what it is they need to do what
+
+295
+00:13:03,680 --> 00:13:10,959
+level of quality is required um they
+
+296
+00:13:07,040 --> 00:13:15,199
+know um all of those all of those
+
+297
+00:13:10,959 --> 00:13:16,959
+things that they don't need to um they
+
+298
+00:13:15,199 --> 00:13:20,000
+don't need to focus on it right it's
+
+299
+00:13:16,959 --> 00:13:24,040
+just the way they do Business technical
+
+300
+00:13:20,000 --> 00:13:27,199
+Excellence engineering quality is just
+
+301
+00:13:24,040 --> 00:13:29,279
+the norm it's not an exception which
+
+302
+00:13:27,199 --> 00:13:32,279
+means that they can then focus on on
+
+303
+00:13:29,279 --> 00:13:34,600
+delivering value to the customer they've
+
+304
+00:13:32,279 --> 00:13:36,440
+reduced risk and they can focus on
+
+305
+00:13:34,600 --> 00:13:38,440
+delivering value they can focus on those
+
+306
+00:13:36,440 --> 00:13:41,160
+other things that's what technical
+
+307
+00:13:38,440 --> 00:13:42,320
+Excellence brings for um a product for
+
+308
+00:13:41,160 --> 00:13:44,399
+product management for product
+
+309
+00:13:42,320 --> 00:13:47,880
+leadership is the ability for them to
+
+310
+00:13:44,399 --> 00:13:50,800
+stop focusing on fighting fires on
+
+311
+00:13:47,880 --> 00:13:53,639
+fixing bugs on struggling with
+
+312
+00:13:50,800 --> 00:13:55,360
+complexity on being frustrated that they
+
+313
+00:13:53,639 --> 00:13:56,839
+can't get certain features done because
+
+314
+00:13:55,360 --> 00:13:58,680
+it's just too hard to do within the
+
+315
+00:13:56,839 --> 00:14:00,880
+architecture of the product and you
+
+316
+00:13:58,680 --> 00:14:03,079
+start focusing on the art of the
+
+317
+00:14:00,880 --> 00:14:05,320
+possible what is it we can do where are
+
+318
+00:14:03,079 --> 00:14:07,240
+we going what are we trying to achieve
+
+319
+00:14:05,320 --> 00:14:09,320
+you can then let go of those things
+
+320
+00:14:07,240 --> 00:14:11,560
+because you're no longer having to ride
+
+321
+00:14:09,320 --> 00:14:11,560
+that
+
+322
+00:14:12,000 --> 00:14:16,040
+quality that's a terrible analogy but
+
+323
+00:14:14,320 --> 00:14:18,480
+you're no longer having to to hold on
+
+324
+00:14:16,040 --> 00:14:20,759
+for dear life uh while this product
+
+325
+00:14:18,480 --> 00:14:23,160
+bucks around um you're you're you're
+
+326
+00:14:20,759 --> 00:14:26,000
+you're now in the in in the groove it's
+
+327
+00:14:23,160 --> 00:14:27,839
+smooth it's we're adding features we're
+
+328
+00:14:26,000 --> 00:14:29,720
+building capabilities we're we're we're
+
+329
+00:14:27,839 --> 00:14:32,120
+building an awesome product and that
+
+330
+00:14:29,720 --> 00:14:36,320
+that's part of that that that story of
+
+331
+00:14:32,120 --> 00:14:39,880
+mitigating risk building te technical
+
+332
+00:14:36,320 --> 00:14:41,720
+Excellence there's a myth as well
+
+333
+00:14:39,880 --> 00:14:44,639
+there's a huge myth in the software
+
+334
+00:14:41,720 --> 00:14:48,399
+industry that it's okay to sacrifice
+
+335
+00:14:44,639 --> 00:14:51,680
+some quality in order to go faster and
+
+336
+00:14:48,399 --> 00:14:54,480
+meet the market need um there's a recent
+
+337
+00:14:51,680 --> 00:14:57,320
+article I think it was a har Business
+
+338
+00:14:54,480 --> 00:14:59,199
+review article it might not have been
+
+339
+00:14:57,320 --> 00:15:03,040
+but it might have been a Forbes article
+
+340
+00:14:59,199 --> 00:15:07,040
+um but there's some studies done around
+
+341
+00:15:03,040 --> 00:15:10,040
+that idea of and what happens when we
+
+342
+00:15:07,040 --> 00:15:11,800
+cut quality in order to go faster right
+
+343
+00:15:10,040 --> 00:15:15,839
+and what's the trade-offs involved in
+
+344
+00:15:11,800 --> 00:15:20,680
+that and the ultimate outcome was that
+
+345
+00:15:15,839 --> 00:15:24,079
+it it it's not a valid tradeoff you have
+
+346
+00:15:20,680 --> 00:15:27,639
+M the the the impact of that reduction
+
+347
+00:15:24,079 --> 00:15:29,600
+in quality is much higher than the
+
+348
+00:15:27,639 --> 00:15:34,000
+benefit you get from being able to go
+
+349
+00:15:29,600 --> 00:15:37,800
+fast over the short term um so that a
+
+350
+00:15:34,000 --> 00:15:40,480
+cruel cuz a cruel of let's call let's
+
+351
+00:15:37,800 --> 00:15:42,880
+let's call it two things there's undone
+
+352
+00:15:40,480 --> 00:15:44,240
+work stuff that you need to do in order
+
+353
+00:15:42,880 --> 00:15:46,279
+for your product to run in production
+
+354
+00:15:44,240 --> 00:15:47,959
+that hasn't been done yet right that's
+
+355
+00:15:46,279 --> 00:15:50,079
+that 8020 thing that's where that pit
+
+356
+00:15:47,959 --> 00:15:53,000
+comes from and then there's technical
+
+357
+00:15:50,079 --> 00:15:56,399
+debt which is
+
+358
+00:15:53,000 --> 00:16:01,440
+shortcuts that deliberate shortcuts that
+
+359
+00:15:56,399 --> 00:16:03,360
+we make in order uh um that we do things
+
+360
+00:16:01,440 --> 00:16:07,880
+in a suboptimal way within the product
+
+361
+00:16:03,360 --> 00:16:09,839
+that's technical debt right um so both
+
+362
+00:16:07,880 --> 00:16:13,759
+of those things added together don't
+
+363
+00:16:09,839 --> 00:16:15,839
+acre linearly right it's an exponential
+
+364
+00:16:13,759 --> 00:16:17,600
+acre and that's where that Azure devops
+
+365
+00:16:15,839 --> 00:16:20,079
+team was at the start they were at the
+
+366
+00:16:17,600 --> 00:16:22,120
+top of that exponential curve only
+
+367
+00:16:20,079 --> 00:16:26,120
+delivering 24 features to production
+
+368
+00:16:22,120 --> 00:16:29,680
+each year but in focusing
+
+369
+00:16:26,120 --> 00:16:34,519
+almost H um
+
+370
+00:16:29,680 --> 00:16:36,880
+religiously Zealot like on paying back
+
+371
+00:16:34,519 --> 00:16:39,440
+that technical debt of getting rid of
+
+372
+00:16:36,880 --> 00:16:43,079
+all of that undone work and bringing
+
+373
+00:16:39,440 --> 00:16:46,600
+that curve back down to a manageable
+
+374
+00:16:43,079 --> 00:16:49,199
+level right and Beyond get it towards
+
+375
+00:16:46,600 --> 00:16:51,839
+trending towards zero right we want to
+
+376
+00:16:49,199 --> 00:16:55,920
+have as high quality effective a product
+
+377
+00:16:51,839 --> 00:16:58,440
+as possible they they actually in one
+
+378
+00:16:55,920 --> 00:17:01,360
+year nearly tripled the number of
+
+379
+00:16:58,440 --> 00:17:04,120
+features delivered to production even
+
+380
+00:17:01,360 --> 00:17:05,760
+though their main focus was on let's do
+
+381
+00:17:04,120 --> 00:17:08,319
+it right let's pay back the technical
+
+382
+00:17:05,760 --> 00:17:12,400
+debt they actually delivered more stuff
+
+383
+00:17:08,319 --> 00:17:16,679
+so that goes go reduced quality to go
+
+384
+00:17:12,400 --> 00:17:19,480
+fast is a losing prop proposition it
+
+385
+00:17:16,679 --> 00:17:21,319
+always has been a losing proposition
+
+386
+00:17:19,480 --> 00:17:24,000
+definitely do that what you want to do
+
+387
+00:17:21,319 --> 00:17:27,640
+is focus on technical Excellence if you
+
+388
+00:17:24,000 --> 00:17:29,880
+don't have a definition of done create
+
+389
+00:17:27,640 --> 00:17:30,760
+one if
+
+390
+00:17:29,880 --> 00:17:32,799
+your
+
+391
+00:17:30,760 --> 00:17:35,600
+organization doesn't have a definition
+
+392
+00:17:32,799 --> 00:17:37,960
+of done which it should your
+
+393
+00:17:35,600 --> 00:17:40,640
+organization um should be thinking about
+
+394
+00:17:37,960 --> 00:17:43,440
+from a technical Excellence perspective
+
+395
+00:17:40,640 --> 00:17:45,080
+what is the minimum level of quality we
+
+396
+00:17:43,440 --> 00:17:49,840
+as a business
+
+397
+00:17:45,080 --> 00:17:53,160
+require in order to have a product that
+
+398
+00:17:49,840 --> 00:17:56,000
+is fit for Mar fit for purpose right um
+
+399
+00:17:53,160 --> 00:17:58,360
+protects our brand our business as a
+
+400
+00:17:56,000 --> 00:18:00,799
+whole this product is representing our
+
+401
+00:17:58,360 --> 00:18:03,880
+brand or is or or or however that works
+
+402
+00:18:00,799 --> 00:18:05,919
+representing your brand um protecting
+
+403
+00:18:03,880 --> 00:18:10,320
+the people that are using it and
+
+404
+00:18:05,919 --> 00:18:12,320
+protecting like uh the the the um uh
+
+405
+00:18:10,320 --> 00:18:14,080
+post office scandal in the UK right
+
+406
+00:18:12,320 --> 00:18:16,400
+protecting the people that are using it
+
+407
+00:18:14,080 --> 00:18:18,360
+protecting your employees and your
+
+408
+00:18:16,400 --> 00:18:20,559
+developers right to make sure that
+
+409
+00:18:18,360 --> 00:18:23,480
+there's there that everything's done
+
+410
+00:18:20,559 --> 00:18:25,200
+right that right you don't want um like
+
+411
+00:18:23,480 --> 00:18:29,320
+think about boing right the reduction in
+
+412
+00:18:25,200 --> 00:18:31,960
+quality is just now seeping out um and
+
+413
+00:18:29,320 --> 00:18:33,919
+what what else do you need in order to
+
+414
+00:18:31,960 --> 00:18:35,960
+have a viable product in your Market in
+
+415
+00:18:33,919 --> 00:18:39,240
+your situation right so different levels
+
+416
+00:18:35,960 --> 00:18:42,640
+for different markets that's the
+
+417
+00:18:39,240 --> 00:18:45,280
+business's requirement for done and
+
+418
+00:18:42,640 --> 00:18:46,799
+we're not talking about feature there's
+
+419
+00:18:45,280 --> 00:18:50,960
+there's a big
+
+420
+00:18:46,799 --> 00:18:54,840
+um conflation I think
+
+421
+00:18:50,960 --> 00:18:57,799
+between features being feature complete
+
+422
+00:18:54,840 --> 00:19:00,159
+and quality engineering Excellence is
+
+423
+00:18:57,799 --> 00:19:02,440
+about quality it's not about having the
+
+424
+00:19:00,159 --> 00:19:04,760
+features right so let's take that put
+
+425
+00:19:02,440 --> 00:19:06,280
+that aside the what we're building we're
+
+426
+00:19:04,760 --> 00:19:08,240
+going to take that aside and we're going
+
+427
+00:19:06,280 --> 00:19:10,520
+to focus on the how we're building it do
+
+428
+00:19:08,240 --> 00:19:12,720
+we have the level of quality required to
+
+429
+00:19:10,520 --> 00:19:16,799
+meet compliance do we have the level of
+
+430
+00:19:12,720 --> 00:19:19,360
+quality required um to meet the the the
+
+431
+00:19:16,799 --> 00:19:21,000
+the the testing level that we we want do
+
+432
+00:19:19,360 --> 00:19:23,080
+we have the amount of telemetry in there
+
+433
+00:19:21,000 --> 00:19:25,280
+to see what's going on all of those
+
+434
+00:19:23,080 --> 00:19:27,799
+things are part of that that definition
+
+435
+00:19:25,280 --> 00:19:30,440
+of done which has nothing to do with the
+
+436
+00:19:27,799 --> 00:19:33,679
+features on only focusing on the quality
+
+437
+00:19:30,440 --> 00:19:35,360
+of the product um and that enshrines
+
+438
+00:19:33,679 --> 00:19:37,640
+your engineering Excellence so if the
+
+439
+00:19:35,360 --> 00:19:40,679
+organization doesn't have that standard
+
+440
+00:19:37,640 --> 00:19:43,280
+um it's the developers the scrum team
+
+441
+00:19:40,679 --> 00:19:47,240
+that or the developers that are charged
+
+442
+00:19:43,280 --> 00:19:49,600
+with creating one that is relevant for
+
+443
+00:19:47,240 --> 00:19:51,240
+your product um and significant enough
+
+444
+00:19:49,600 --> 00:19:53,840
+that you're going to be able to create a
+
+445
+00:19:51,240 --> 00:19:54,799
+usable working product every Sprint and
+
+446
+00:19:53,840 --> 00:19:57,960
+the reason you have a more usable
+
+447
+00:19:54,799 --> 00:20:01,000
+working product is to mitigate that risk
+
+448
+00:19:57,960 --> 00:20:04,600
+and um build out your engineering
+
+449
+00:20:01,000 --> 00:20:08,720
+Excellence so don't get left behind
+
+450
+00:20:04,600 --> 00:20:11,679
+don't get bugged down in the Quagmire of
+
+451
+00:20:08,720 --> 00:20:15,039
+engineering inferiority focus on
+
+452
+00:20:11,679 --> 00:20:17,679
+engineering Excellence build the best
+
+453
+00:20:15,039 --> 00:20:20,799
+product you can and maximize the value
+
+454
+00:20:17,679 --> 00:20:20,799
+to your customers
+
+

@@ -32,7 +32,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube U18nA0YFgu0 >}}
+
 
 **Addressing Wrath in Agile Teams: From Blame to Accountability 🌪️🛠️** 
 

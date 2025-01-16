@@ -32,7 +32,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube wa4A_KQ-YGg >}}
+
 
 **What are immersive training courses?**
 

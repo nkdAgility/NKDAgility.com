@@ -31,7 +31,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube IZ-FlBbGaSY >}} 
+ 
  # Building a culture of quality | Martin Hinshelwood  
 
   📍  📍 Building a culture of quality within your organisation is absolutely not something that you can do on your own. It's not something that any individual can do.  Each individual within the context of your organisation needs to be able to  Demonstrate their own  technical excellence, their technical leadership, their, their engineering capability if they demonstrate their own  other people around them will see a way of behaving  that.

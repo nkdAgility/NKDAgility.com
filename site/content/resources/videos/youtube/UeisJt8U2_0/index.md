@@ -51,7 +51,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube UeisJt8U2_0 >}}
+
 
 # Navigating the Plague of Incompetence in Agile Coaching 🚧
 

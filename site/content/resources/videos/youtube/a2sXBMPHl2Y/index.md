@@ -30,7 +30,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube a2sXBMPHl2Y >}}
+
 
 ## Private Training Courses: A Game Changer for Companies?
 

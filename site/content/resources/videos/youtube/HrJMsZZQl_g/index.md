@@ -49,7 +49,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube HrJMsZZQl_g >}}
+
 
 ## Empowering Teams with the APS Approach: Elevating Your Scrum Journey
 

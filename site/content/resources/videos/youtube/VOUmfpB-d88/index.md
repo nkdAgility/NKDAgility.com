@@ -30,7 +30,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube VOUmfpB-d88 >}}
+
 
 ## **The Shift from Traditional to Immersive Learning**
 

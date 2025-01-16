@@ -35,7 +35,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube T-K7HC-ZGjM >}}
+
 
 ## Interpreting the Sprint Backlog
 

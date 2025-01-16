@@ -44,7 +44,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube mqgffRQi6bY >}}
+
 
 ## Confronting Complexity 
 

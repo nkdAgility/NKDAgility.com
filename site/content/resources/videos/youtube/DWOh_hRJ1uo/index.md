@@ -30,7 +30,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube DWOh_hRJ1uo >}}
+
 
 **What is your best advice for becoming a Scrum Master outside software engineering?**
 

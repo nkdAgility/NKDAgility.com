@@ -36,7 +36,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube Ys0dWfKVSeA >}}
+
 
 ## Reflecting on Scrum's Mirror  
 

@@ -27,7 +27,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube 8nQ0VJ1CdqU >}}
+
 
 Why did so many of the early agile transformations fail?
 

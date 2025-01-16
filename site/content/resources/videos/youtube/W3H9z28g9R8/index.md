@@ -51,7 +51,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube W3H9z28g9R8 >}}
+
 
 # Conquering Famine in Agile Organizations: A Blueprint for Success 🚀
 

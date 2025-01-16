@@ -1,0 +1,825 @@
+1
+00:00:00,040 --> 00:00:07,760
+we've been doing
+
+2
+00:00:02,199 --> 00:00:11,519
+devops for quite some time um
+
+3
+00:00:07,760 --> 00:00:15,400
+the it's really difficult to
+
+4
+00:00:11,519 --> 00:00:17,240
+provide an overview of our devop
+
+5
+00:00:15,400 --> 00:00:21,600
+services
+
+6
+00:00:17,240 --> 00:00:24,680
+because our devop services tend to be
+
+7
+00:00:21,600 --> 00:00:28,920
+bespoke for every single customer that
+
+8
+00:00:24,680 --> 00:00:31,119
+uses them there's there's not there's
+
+9
+00:00:28,920 --> 00:00:33,920
+some patterns but there's not that many
+
+10
+00:00:31,119 --> 00:00:36,040
+formulas that work everywhere every
+
+11
+00:00:33,920 --> 00:00:39,000
+company is different every group of
+
+12
+00:00:36,040 --> 00:00:42,399
+people is different every outcome that
+
+13
+00:00:39,000 --> 00:00:44,239
+they're trying to achieve with uh uh the
+
+14
+00:00:42,399 --> 00:00:45,480
+the philosophy that is devops right
+
+15
+00:00:44,239 --> 00:00:47,840
+every outcome that they're trying to
+
+16
+00:00:45,480 --> 00:00:50,320
+achieve is different so but there are
+
+17
+00:00:47,840 --> 00:00:54,359
+some patterns that do kind of make
+
+18
+00:00:50,320 --> 00:00:55,879
+sense um one of those is um one of the
+
+19
+00:00:54,359 --> 00:01:00,079
+patterns we use quite often is a state
+
+20
+00:00:55,879 --> 00:01:01,519
+of devops report um so the idea is the
+
+21
+00:01:00,079 --> 00:01:06,320
+you want to understand as an
+
+22
+00:01:01,519 --> 00:01:09,479
+organization like where based on Modern
+
+23
+00:01:06,320 --> 00:01:11,880
+engineering and devops
+
+24
+00:01:09,479 --> 00:01:15,600
+practices where are we where are we
+
+25
+00:01:11,880 --> 00:01:19,320
+where do we sit because it's difficult
+
+26
+00:01:15,600 --> 00:01:21,240
+to understand where you want to go
+
+27
+00:01:19,320 --> 00:01:23,520
+unless you know where you are right now
+
+28
+00:01:21,240 --> 00:01:25,479
+that's the first thing you do when you
+
+29
+00:01:23,520 --> 00:01:26,840
+have a map and you're trying to figure
+
+30
+00:01:25,479 --> 00:01:29,240
+out how to get somewhere you have to
+
+31
+00:01:26,840 --> 00:01:31,520
+find out where you are so you can then
+
+32
+00:01:29,240 --> 00:01:34,159
+figure out what the direction to go um
+
+33
+00:01:31,520 --> 00:01:37,360
+so that kind of state of devops state of
+
+34
+00:01:34,159 --> 00:01:41,360
+agile state of devops where are we right
+
+35
+00:01:37,360 --> 00:01:43,600
+now um in in our our understanding of or
+
+36
+00:01:41,360 --> 00:01:46,640
+our application of what of devops
+
+37
+00:01:43,600 --> 00:01:50,399
+practices so um we might talk about
+
+38
+00:01:46,640 --> 00:01:55,119
+things like H how how are products being
+
+39
+00:01:50,399 --> 00:01:58,399
+released um we might talk about things
+
+40
+00:01:55,119 --> 00:02:03,280
+um like wow wow how are how are products
+
+41
+00:01:58,399 --> 00:02:06,479
+been released um what sort of um tools
+
+42
+00:02:03,280 --> 00:02:08,679
+are being used within that context of of
+
+43
+00:02:06,479 --> 00:02:11,800
+releasing products um I worked with an
+
+44
+00:02:08,679 --> 00:02:14,640
+organization that had 13 different
+
+45
+00:02:11,800 --> 00:02:16,879
+Source control systems in use for one
+
+46
+00:02:14,640 --> 00:02:21,879
+product right so there's there's a lot
+
+47
+00:02:16,879 --> 00:02:24,360
+of waste there that can be identified um
+
+48
+00:02:21,879 --> 00:02:27,040
+what what are we actually doing how do
+
+49
+00:02:24,360 --> 00:02:29,080
+we how do we take the ideas that we've
+
+50
+00:02:27,040 --> 00:02:31,480
+created in our product and and how how
+
+51
+00:02:29,080 --> 00:02:33,519
+do they actually get into production and
+
+52
+00:02:31,480 --> 00:02:35,560
+not just what leadership thinks is
+
+53
+00:02:33,519 --> 00:02:39,239
+happening but what's actually happening
+
+54
+00:02:35,560 --> 00:02:41,239
+on the ground um so we tend to interview
+
+55
+00:02:39,239 --> 00:02:43,200
+a bunch of people in the organization
+
+56
+00:02:41,239 --> 00:02:44,680
+usually try and do solo interviews
+
+57
+00:02:43,200 --> 00:02:46,480
+because people are more willing to speak
+
+58
+00:02:44,680 --> 00:02:49,200
+when there's not somebody else and this
+
+59
+00:02:46,480 --> 00:02:51,879
+kind of anonymous uh uh
+
+60
+00:02:49,200 --> 00:02:54,519
+information and we find out all sorts of
+
+61
+00:02:51,879 --> 00:02:57,480
+things like I worked with an
+
+62
+00:02:54,519 --> 00:02:59,840
+organization that was their team
+
+63
+00:02:57,480 --> 00:03:01,720
+understood their team of 30 engineers
+
+64
+00:02:59,840 --> 00:03:03,519
+understood branching but they didn't
+
+65
+00:03:01,720 --> 00:03:07,360
+understand automatic merging so they
+
+66
+00:03:03,519 --> 00:03:10,280
+were manually copying code with a a text
+
+67
+00:03:07,360 --> 00:03:13,720
+diffing to between branches in order to
+
+68
+00:03:10,280 --> 00:03:17,360
+merge code which is just mental um I
+
+69
+00:03:13,720 --> 00:03:20,280
+worked with an organization that had
+
+70
+00:03:17,360 --> 00:03:23,159
+built a custom tool because the business
+
+71
+00:03:20,280 --> 00:03:24,720
+had asked for a capability they built a
+
+72
+00:03:23,159 --> 00:03:27,560
+custom tool that allowed product
+
+73
+00:03:24,720 --> 00:03:30,959
+managers to pick
+
+74
+00:03:27,560 --> 00:03:33,200
+features and create a build of the
+
+75
+00:03:30,959 --> 00:03:36,680
+product that only had those features
+
+76
+00:03:33,200 --> 00:03:38,599
+merged together into the product um
+
+77
+00:03:36,680 --> 00:03:40,000
+which might sound like a good idea if
+
+78
+00:03:38,599 --> 00:03:43,080
+you're on the business side but from an
+
+79
+00:03:40,000 --> 00:03:46,360
+engineering standpoint and creating a a
+
+80
+00:03:43,080 --> 00:03:49,640
+cohesive valid high quality usable high
+
+81
+00:03:46,360 --> 00:03:53,840
+value product that's that's totally
+
+82
+00:03:49,640 --> 00:03:55,480
+insane um there's all sorts of
+
+83
+00:03:53,840 --> 00:03:59,840
+things
+
+84
+00:03:55,480 --> 00:04:01,720
+that are non dysfunctional behaviors I
+
+85
+00:03:59,840 --> 00:04:03,079
+tend to call them opportunities for
+
+86
+00:04:01,720 --> 00:04:04,920
+improvement right because it's a little
+
+87
+00:04:03,079 --> 00:04:07,799
+bit more positive but the reality is
+
+88
+00:04:04,920 --> 00:04:10,000
+they're dysfunctional behaviors that are
+
+89
+00:04:07,799 --> 00:04:13,439
+really common in the industry and have
+
+90
+00:04:10,000 --> 00:04:16,720
+been for many years because people are
+
+91
+00:04:13,439 --> 00:04:18,600
+pushed towards solving a problem and
+
+92
+00:04:16,720 --> 00:04:22,560
+they don't necessarily know that there
+
+93
+00:04:18,600 --> 00:04:24,840
+are known logical ways to solve that
+
+94
+00:04:22,560 --> 00:04:26,639
+problem already and even if they do know
+
+95
+00:04:24,840 --> 00:04:28,600
+about those non-logical ways to solve
+
+96
+00:04:26,639 --> 00:04:33,199
+that problem somebody in the business
+
+97
+00:04:28,600 --> 00:04:36,240
+has an objection to to it uh a great one
+
+98
+00:04:33,199 --> 00:04:38,880
+is automatic deployments right uh and
+
+99
+00:04:36,240 --> 00:04:42,080
+the the the the objection might be that
+
+100
+00:04:38,880 --> 00:04:45,680
+oh are we're under socks audit you know
+
+101
+00:04:42,080 --> 00:04:49,440
+we we're we're sarban Oxley compliant
+
+102
+00:04:45,680 --> 00:04:52,360
+therefore um we we need a separation of
+
+103
+00:04:49,440 --> 00:04:53,800
+developers from uh the people who do
+
+104
+00:04:52,360 --> 00:04:56,000
+develop the code the people who do
+
+105
+00:04:53,800 --> 00:04:58,560
+releasing the code
+
+106
+00:04:56,000 --> 00:05:00,800
+and that means that we can't have
+
+107
+00:04:58,560 --> 00:05:04,080
+developers with access to
+
+108
+00:05:00,800 --> 00:05:08,160
+production that's actually not true with
+
+109
+00:05:04,080 --> 00:05:11,039
+SARS B Oxley not true at all but because
+
+110
+00:05:08,160 --> 00:05:14,680
+somebody believes it is you then end up
+
+111
+00:05:11,039 --> 00:05:17,720
+with these ideas where development and
+
+112
+00:05:14,680 --> 00:05:20,520
+operations is a separate
+
+113
+00:05:17,720 --> 00:05:24,479
+thing one of the
+
+114
+00:05:20,520 --> 00:05:27,039
+biggest values that we bring biggest
+
+115
+00:05:24,479 --> 00:05:29,840
+benefit that we bring to
+
+116
+00:05:27,039 --> 00:05:32,919
+organizations when we're talking about
+
+117
+00:05:29,840 --> 00:05:36,039
+the devops philosophy bringing the
+
+118
+00:05:32,919 --> 00:05:37,960
+practices that help fulfill that Pro
+
+119
+00:05:36,039 --> 00:05:42,720
+that philosophy into
+
+120
+00:05:37,960 --> 00:05:45,840
+organizations is that ability for um
+
+121
+00:05:42,720 --> 00:05:50,080
+higher quality more frequent
+
+122
+00:05:45,840 --> 00:05:54,720
+delivery less friction in your ability
+
+123
+00:05:50,080 --> 00:05:56,560
+to get software out the door and that
+
+124
+00:05:54,720 --> 00:05:59,319
+idea
+
+125
+00:05:56,560 --> 00:06:01,199
+that it's really it's some of it's about
+
+126
+00:05:59,319 --> 00:06:03,919
+just about ownership that idea of
+
+127
+00:06:01,199 --> 00:06:06,840
+ownership if if if it's you you have an
+
+128
+00:06:03,919 --> 00:06:09,360
+idea you're going to build that idea
+
+129
+00:06:06,840 --> 00:06:11,720
+you're going to deploy that idea you're
+
+130
+00:06:09,360 --> 00:06:13,960
+going to monitor that idea and you're
+
+131
+00:06:11,720 --> 00:06:17,400
+responsible for the upkeep of that idea
+
+132
+00:06:13,960 --> 00:06:20,759
+the support and and and continued uh um
+
+133
+00:06:17,400 --> 00:06:23,840
+value ad of that idea and that should
+
+134
+00:06:20,759 --> 00:06:28,120
+all be within the control of a of the
+
+135
+00:06:23,840 --> 00:06:31,400
+group the team right um so
+
+136
+00:06:28,120 --> 00:06:33,919
+so IDE all the way through to deployment
+
+137
+00:06:31,400 --> 00:06:35,360
+and closing those feedback loops um
+
+138
+00:06:33,919 --> 00:06:36,759
+should be part of that story and that's
+
+139
+00:06:35,360 --> 00:06:38,919
+very difficult to do within a lot of
+
+140
+00:06:36,759 --> 00:06:41,080
+organizations so what are the steps that
+
+141
+00:06:38,919 --> 00:06:44,680
+you can do to get towards that what are
+
+142
+00:06:41,080 --> 00:06:47,080
+the tools that you can use to ensure
+
+143
+00:06:44,680 --> 00:06:50,960
+that you meet the compliance that you
+
+144
+00:06:47,080 --> 00:06:53,800
+need to meet right in order to continue
+
+145
+00:06:50,960 --> 00:06:56,360
+to meet your compliance but do these new
+
+146
+00:06:53,800 --> 00:06:59,000
+uh things and how do you maintain
+
+147
+00:06:56,360 --> 00:07:02,560
+quality right how do you maintain the
+
+148
+00:06:59,000 --> 00:07:05,080
+level of quality um if for example
+
+149
+00:07:02,560 --> 00:07:07,160
+you're not doing uat because uat is a
+
+150
+00:07:05,080 --> 00:07:09,840
+cost center not a Value Center for for
+
+151
+00:07:07,160 --> 00:07:12,120
+software engineering if if your uat is a
+
+152
+00:07:09,840 --> 00:07:14,720
+a Value Center because it finds stuff
+
+153
+00:07:12,120 --> 00:07:17,280
+and protects your business then we've
+
+154
+00:07:14,720 --> 00:07:20,000
+not got high enough quality delivery of
+
+155
+00:07:17,280 --> 00:07:22,080
+our product um but if we we create that
+
+156
+00:07:20,000 --> 00:07:23,720
+high enough quality and uat becomes a
+
+157
+00:07:22,080 --> 00:07:27,479
+cost center we want to get rid of those
+
+158
+00:07:23,720 --> 00:07:31,080
+cost centers what how do we
+
+159
+00:07:27,479 --> 00:07:33,599
+ensure um that we don't end up up with
+
+160
+00:07:31,080 --> 00:07:36,960
+um in the same situation as crowd strike
+
+161
+00:07:33,599 --> 00:07:39,240
+right um there's a great example of an
+
+162
+00:07:36,960 --> 00:07:41,000
+organization recently in the news that
+
+163
+00:07:39,240 --> 00:07:42,599
+caused massive disruption I think
+
+164
+00:07:41,000 --> 00:07:46,240
+they're going to be sued by Delta for
+
+165
+00:07:42,599 --> 00:07:48,319
+for 500 million dollars that Delta has
+
+166
+00:07:46,240 --> 00:07:50,240
+lost over the week that they had a
+
+167
+00:07:48,319 --> 00:07:54,319
+problem which which part of that is
+
+168
+00:07:50,240 --> 00:07:56,720
+their own problem with devops um but
+
+169
+00:07:54,319 --> 00:07:59,000
+what what could crowd strike have done
+
+170
+00:07:56,720 --> 00:08:00,400
+differently well they didn't one of the
+
+171
+00:07:59,000 --> 00:08:03,720
+things they didn't do was control the
+
+172
+00:08:00,400 --> 00:08:06,280
+blast radius right you don't just deploy
+
+173
+00:08:03,720 --> 00:08:08,879
+to production you don't just deploy to
+
+174
+00:08:06,280 --> 00:08:11,599
+100 I I'm not sure exactly how many
+
+175
+00:08:08,879 --> 00:08:13,639
+machines run at crowd strike but you
+
+176
+00:08:11,599 --> 00:08:15,759
+don't deploy to all of them at the same
+
+177
+00:08:13,639 --> 00:08:20,400
+time that's
+
+178
+00:08:15,759 --> 00:08:22,840
+Insanity uh even Windows who have very
+
+179
+00:08:20,400 --> 00:08:25,560
+high quality in the in the product that
+
+180
+00:08:22,840 --> 00:08:28,319
+they ship um they deploy to a small
+
+181
+00:08:25,560 --> 00:08:32,000
+number of people first right they
+
+182
+00:08:28,319 --> 00:08:36,760
+control the last radius what are are
+
+183
+00:08:32,000 --> 00:08:38,360
+what are our lowest impact customers or
+
+184
+00:08:36,760 --> 00:08:40,560
+customers that would be impacted the
+
+185
+00:08:38,360 --> 00:08:44,000
+least by an outage and deploy to them
+
+186
+00:08:40,560 --> 00:08:46,560
+first perhaps deploy to our own systems
+
+187
+00:08:44,000 --> 00:08:50,160
+first and run it for a few days see if
+
+188
+00:08:46,560 --> 00:08:51,800
+there's are any problems monitoring
+
+189
+00:08:50,160 --> 00:08:53,680
+right monitoring that that feature and
+
+190
+00:08:51,800 --> 00:08:56,880
+that capability that's being deployed
+
+191
+00:08:53,680 --> 00:08:58,839
+not deploying on a Friday the best time
+
+192
+00:08:56,880 --> 00:09:00,160
+to deploy is Monday morning when
+
+193
+00:08:58,839 --> 00:09:02,399
+everybody comes in because you get a
+
+194
+00:09:00,160 --> 00:09:06,200
+whole week to fix any problems deploying
+
+195
+00:09:02,399 --> 00:09:09,640
+on Friday is probably not the best idea
+
+196
+00:09:06,200 --> 00:09:12,040
+um there's all kinds of things that make
+
+197
+00:09:09,640 --> 00:09:18,240
+logical sense and are within the context
+
+198
+00:09:12,040 --> 00:09:21,920
+of this devop story that we can help um
+
+199
+00:09:18,240 --> 00:09:25,079
+educate uh coach and engage with your
+
+200
+00:09:21,920 --> 00:09:27,680
+team your engineers as well as with your
+
+201
+00:09:25,079 --> 00:09:31,000
+business and your leadership to
+
+202
+00:09:27,680 --> 00:09:34,079
+understand what these things are what
+
+203
+00:09:31,000 --> 00:09:37,040
+value you get from them and how you
+
+204
+00:09:34,079 --> 00:09:40,800
+maintain your ability to control risk
+
+205
+00:09:37,040 --> 00:09:44,600
+within this new world of continuous
+
+206
+00:09:40,800 --> 00:09:44,600
+delivery to production
+
+

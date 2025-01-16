@@ -28,7 +28,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube kEywzkMhWl0 >}}
+
 
 **1 critical skill for a Scrum Master and why?**
 

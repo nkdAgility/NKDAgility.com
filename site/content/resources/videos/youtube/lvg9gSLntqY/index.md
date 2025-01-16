@@ -29,7 +29,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube lvg9gSLntqY >}}
+
 
 ## Project Management in Intricate Environments
 

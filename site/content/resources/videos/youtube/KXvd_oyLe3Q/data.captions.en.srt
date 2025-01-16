@@ -1,0 +1,1313 @@
+1
+00:00:00,040 --> 00:00:07,319
+so when when customers engage with us
+
+2
+00:00:03,279 --> 00:00:09,400
+they're quite often in a place where
+
+3
+00:00:07,319 --> 00:00:12,120
+they they've identified a problem
+
+4
+00:00:09,400 --> 00:00:14,519
+themselves right um they don't they
+
+5
+00:00:12,120 --> 00:00:17,600
+don't they don't call a devops
+
+6
+00:00:14,519 --> 00:00:19,439
+Consulting service um randomly they have
+
+7
+00:00:17,600 --> 00:00:21,600
+some kind of problem that they've
+
+8
+00:00:19,439 --> 00:00:24,119
+identified and they W help figuring it
+
+9
+00:00:21,600 --> 00:00:26,480
+out and and what's the next thing to do
+
+10
+00:00:24,119 --> 00:00:28,960
+um probably the
+
+11
+00:00:26,480 --> 00:00:33,559
+biggest
+
+12
+00:00:28,960 --> 00:00:36,480
+um engagement I guess that I I saw was
+
+13
+00:00:33,559 --> 00:00:39,800
+with a a really large organization in
+
+14
+00:00:36,480 --> 00:00:42,360
+the oil and gas world and they had a a
+
+15
+00:00:39,800 --> 00:00:45,000
+product um that would I think it's
+
+16
+00:00:42,360 --> 00:00:47,879
+$50,000 a license for this product so
+
+17
+00:00:45,000 --> 00:00:52,960
+it's a desktop product and the pro the
+
+18
+00:00:47,879 --> 00:00:54,680
+main problem that they had was that um
+
+19
+00:00:52,960 --> 00:00:56,039
+okay I guess what they thought their
+
+20
+00:00:54,680 --> 00:00:57,160
+main problem was and what actually the
+
+21
+00:00:56,039 --> 00:00:59,559
+main problem was might be different
+
+22
+00:00:57,160 --> 00:01:01,600
+things this is this is I'm thinking from
+
+23
+00:00:59,559 --> 00:01:03,600
+retros ECT right because I've been been
+
+24
+00:01:01,600 --> 00:01:05,840
+through it and one of one of the main
+
+25
+00:01:03,600 --> 00:01:07,880
+problems that they had was that um they
+
+26
+00:01:05,840 --> 00:01:11,159
+had they had 90
+
+27
+00:01:07,880 --> 00:01:12,799
+teams in 13 locations in nine different
+
+28
+00:01:11,159 --> 00:01:15,360
+countries working on this
+
+29
+00:01:12,799 --> 00:01:18,799
+product each of those teams had their
+
+30
+00:01:15,360 --> 00:01:21,840
+own long-term branch that they worked on
+
+31
+00:01:18,799 --> 00:01:23,960
+so things would diverge um and they were
+
+32
+00:01:21,840 --> 00:01:26,040
+really could diverge for quite some time
+
+33
+00:01:23,960 --> 00:01:28,880
+could be as much as a year and they were
+
+34
+00:01:26,040 --> 00:01:33,079
+trying to mitigate that with an
+
+35
+00:01:28,880 --> 00:01:35,360
+application of force that's probably the
+
+36
+00:01:33,079 --> 00:01:36,799
+way I would think about it they they
+
+37
+00:01:35,360 --> 00:01:39,320
+they tried to solve the problem with an
+
+38
+00:01:36,799 --> 00:01:42,399
+application of force so what what they
+
+39
+00:01:39,320 --> 00:01:45,119
+did was they spun up um they spun up a
+
+40
+00:01:42,399 --> 00:01:46,920
+devops team right a dedicated devops
+
+41
+00:01:45,119 --> 00:01:49,680
+team here's our devops Engineers they're
+
+42
+00:01:46,920 --> 00:01:52,360
+in this Central area right some of you
+
+43
+00:01:49,680 --> 00:01:54,640
+have already spotted the problem um and
+
+44
+00:01:52,360 --> 00:01:57,920
+then they have they're not they they
+
+45
+00:01:54,640 --> 00:02:00,119
+can't change what all of these teams are
+
+46
+00:01:57,920 --> 00:02:01,560
+doing but they have to figure out how
+
+47
+00:02:00,119 --> 00:02:05,039
+they solved the problem of we want
+
+48
+00:02:01,560 --> 00:02:07,360
+continuous delivery we want to to have a
+
+49
+00:02:05,039 --> 00:02:12,239
+daily build of our product that was
+
+50
+00:02:07,360 --> 00:02:14,040
+their goal so they ended up creating a
+
+51
+00:02:12,239 --> 00:02:15,959
+bunch of infrastructure to allow them to
+
+52
+00:02:14,040 --> 00:02:18,720
+do that and managing that infrastructure
+
+53
+00:02:15,959 --> 00:02:20,920
+and they would manage it right the teams
+
+54
+00:02:18,720 --> 00:02:22,640
+didn't have to do anything and if the
+
+55
+00:02:20,920 --> 00:02:26,319
+teams changed something that was their
+
+56
+00:02:22,640 --> 00:02:28,760
+problem to go fix right um so you had
+
+57
+00:02:26,319 --> 00:02:30,120
+this team I think it was I think it was
+
+58
+00:02:28,760 --> 00:02:31,720
+eight or nine might have been his many
+
+59
+00:02:30,120 --> 00:02:34,200
+as 10 people but I think it was eight or
+
+60
+00:02:31,720 --> 00:02:37,080
+eight or nine people on this team and
+
+61
+00:02:34,200 --> 00:02:40,319
+their whole job was building this
+
+62
+00:02:37,080 --> 00:02:43,560
+product um so in order to do that they
+
+63
+00:02:40,319 --> 00:02:47,560
+ended up building a system um
+
+64
+00:02:43,560 --> 00:02:48,959
+that facilitated about 11,000 build
+
+65
+00:02:47,560 --> 00:02:53,440
+executions a
+
+66
+00:02:48,959 --> 00:02:55,360
+day that's 1.2 million build executions
+
+67
+00:02:53,440 --> 00:02:57,959
+a year and that was just to have a
+
+68
+00:02:55,360 --> 00:03:00,360
+working product every day so they would
+
+69
+00:02:57,959 --> 00:03:02,319
+have these uh temporary brand bres where
+
+70
+00:03:00,360 --> 00:03:04,640
+they brought the code together and like
+
+71
+00:03:02,319 --> 00:03:06,959
+automated merging of code from all of
+
+72
+00:03:04,640 --> 00:03:09,319
+these different branches all of those
+
+73
+00:03:06,959 --> 00:03:11,080
+different teams these 90 teams were all
+
+74
+00:03:09,319 --> 00:03:13,799
+on different Source Control Systems
+
+75
+00:03:11,080 --> 00:03:16,000
+different not only systems but platforms
+
+76
+00:03:13,799 --> 00:03:19,200
+as well so they might have
+
+77
+00:03:16,000 --> 00:03:21,879
+had might have had 10 teams on git 10
+
+78
+00:03:19,200 --> 00:03:23,480
+teams on team Foundation Version Control
+
+79
+00:03:21,879 --> 00:03:25,959
+they might have had 10 teams on sub
+
+80
+00:03:23,480 --> 00:03:27,680
+version another 10 teams doing something
+
+81
+00:03:25,959 --> 00:03:29,959
+else another 10 teams doing doing
+
+82
+00:03:27,680 --> 00:03:31,239
+another thing um so they all had
+
+83
+00:03:29,959 --> 00:03:32,760
+different capabilities different
+
+84
+00:03:31,239 --> 00:03:35,400
+branching capabilities different merging
+
+85
+00:03:32,760 --> 00:03:38,040
+capabilities and their build system
+
+86
+00:03:35,400 --> 00:03:40,000
+their build engine had to go reach out
+
+87
+00:03:38,040 --> 00:03:42,680
+to all of these systems and pull
+
+88
+00:03:40,000 --> 00:03:45,480
+together a version of the code and then
+
+89
+00:03:42,680 --> 00:03:47,920
+build it to be able to then uh create
+
+90
+00:03:45,480 --> 00:03:50,799
+this this unified version of the product
+
+91
+00:03:47,920 --> 00:03:53,439
+it was insanely complicated insanely
+
+92
+00:03:50,799 --> 00:03:55,640
+complicated and super expensive I think
+
+93
+00:03:53,439 --> 00:03:57,159
+in order to for a developer to work on
+
+94
+00:03:55,640 --> 00:03:59,439
+the product on their workstation in fact
+
+95
+00:03:57,159 --> 00:04:00,920
+to run it in production as well um you
+
+96
+00:03:59,439 --> 00:04:04,120
+had to have
+
+97
+00:04:00,920 --> 00:04:07,879
+like 100 cores I can't remember exactly
+
+98
+00:04:04,120 --> 00:04:10,079
+what but it was 128 gig ram uh lots and
+
+99
+00:04:07,879 --> 00:04:14,840
+lots and lots of cores 24 core machine
+
+100
+00:04:10,079 --> 00:04:16,919
+type of thing um it it was just obscene
+
+101
+00:04:14,840 --> 00:04:18,519
+the the the the the speed of the machine
+
+102
+00:04:16,919 --> 00:04:20,639
+required because it was a massive
+
+103
+00:04:18,519 --> 00:04:23,600
+complicated product and you couldn't
+
+104
+00:04:20,639 --> 00:04:25,720
+just build parts of it you had to build
+
+105
+00:04:23,600 --> 00:04:27,600
+the the the whole thing to make sure it
+
+106
+00:04:25,720 --> 00:04:29,560
+worked the whole platform and all all
+
+107
+00:04:27,600 --> 00:04:32,360
+the things that were built on top of it
+
+108
+00:04:29,560 --> 00:04:37,199
+um and it was just hugely
+
+109
+00:04:32,360 --> 00:04:39,039
+unwieldly so we did we did a a devops
+
+110
+00:04:37,199 --> 00:04:41,560
+assessment state of devops assessment
+
+111
+00:04:39,039 --> 00:04:43,240
+for them um we identified those key
+
+112
+00:04:41,560 --> 00:04:44,800
+areas everybody's on different Source
+
+113
+00:04:43,240 --> 00:04:47,120
+Control Systems everybody's doing
+
+114
+00:04:44,800 --> 00:04:49,639
+everything differently um they had some
+
+115
+00:04:47,120 --> 00:04:52,199
+limitations because each I think there
+
+116
+00:04:49,639 --> 00:04:54,400
+was 13 different funding routes for this
+
+117
+00:04:52,199 --> 00:04:57,240
+product so they didn't have full control
+
+118
+00:04:54,400 --> 00:05:00,560
+of the the the whole thing but what we
+
+119
+00:04:57,240 --> 00:05:01,880
+were able to do was over and it was a
+
+120
+00:05:00,560 --> 00:05:03,560
+number of years because it's a really
+
+121
+00:05:01,880 --> 00:05:05,199
+big product a really big organization I
+
+122
+00:05:03,560 --> 00:05:08,400
+think there was something like six six
+
+123
+00:05:05,199 --> 00:05:10,280
+700 people working on it um and in
+
+124
+00:05:08,400 --> 00:05:13,400
+different locations and they weren't in
+
+125
+00:05:10,280 --> 00:05:14,800
+our in in the same reporting structure
+
+126
+00:05:13,400 --> 00:05:16,479
+right so you can't just tell them to do
+
+127
+00:05:14,800 --> 00:05:19,120
+stuff
+
+128
+00:05:16,479 --> 00:05:24,039
+and it took four
+
+129
+00:05:19,120 --> 00:05:27,919
+years to get everything Al lined into a
+
+130
+00:05:24,039 --> 00:05:30,680
+single Source control system right so
+
+131
+00:05:27,919 --> 00:05:32,400
+that we had we could do one build out of
+
+132
+00:05:30,680 --> 00:05:34,840
+this sord control system and result in
+
+133
+00:05:32,400 --> 00:05:36,840
+one version of the product and then how
+
+134
+00:05:34,840 --> 00:05:38,600
+do we fold down the branches so that
+
+135
+00:05:36,840 --> 00:05:40,720
+they don't have so many branches working
+
+136
+00:05:38,600 --> 00:05:43,720
+towards that model how do we work
+
+137
+00:05:40,720 --> 00:05:47,280
+towards this idea of Mainline
+
+138
+00:05:43,720 --> 00:05:50,919
+development right um it's these types of
+
+139
+00:05:47,280 --> 00:05:52,479
+ideas these types of outcomes that that
+
+140
+00:05:50,919 --> 00:05:54,600
+vastly
+
+141
+00:05:52,479 --> 00:05:56,880
+simplify the problem that companies are
+
+142
+00:05:54,600 --> 00:05:58,280
+trying to solve and it it people don't
+
+143
+00:05:56,880 --> 00:06:00,240
+get into these positions from a
+
+144
+00:05:58,280 --> 00:06:03,919
+nefarious intent
+
+145
+00:06:00,240 --> 00:06:06,599
+right um when this in this particular
+
+146
+00:06:03,919 --> 00:06:08,720
+example this product had been built and
+
+147
+00:06:06,599 --> 00:06:10,800
+worked on for 25
+
+148
+00:06:08,720 --> 00:06:13,639
+years they had
+
+149
+00:06:10,800 --> 00:06:16,440
+bought anybody who tried to compete with
+
+150
+00:06:13,639 --> 00:06:19,120
+them so bring that puzzle into that
+
+151
+00:06:16,440 --> 00:06:21,840
+piece into the puzzle right and you end
+
+152
+00:06:19,120 --> 00:06:24,000
+up with a massive product with a very
+
+153
+00:06:21,840 --> 00:06:25,400
+complicated architecture that's very
+
+154
+00:06:24,000 --> 00:06:27,639
+difficult in timeconsuming to work on so
+
+155
+00:06:25,400 --> 00:06:29,160
+you need lots of people that's very
+
+156
+00:06:27,639 --> 00:06:30,759
+distributed because all of these
+
+157
+00:06:29,160 --> 00:06:33,440
+different parts of the puzzle were
+
+158
+00:06:30,759 --> 00:06:35,240
+brought in from different different
+
+159
+00:06:33,440 --> 00:06:38,800
+entities that now all work for the same
+
+160
+00:06:35,240 --> 00:06:40,280
+company and they hadn't I'm I'm actually
+
+161
+00:06:38,800 --> 00:06:42,120
+going to get a phrase I'm going to
+
+162
+00:06:40,280 --> 00:06:44,440
+phrase it this way they hadn't taken the
+
+163
+00:06:42,120 --> 00:06:47,680
+time to pay back their technical debt
+
+164
+00:06:44,440 --> 00:06:50,280
+they'd acred debt you know you take we
+
+165
+00:06:47,680 --> 00:06:54,080
+we we use git we take on a company that
+
+166
+00:06:50,280 --> 00:06:56,960
+uses sub verion and instead of lets help
+
+167
+00:06:54,080 --> 00:06:58,919
+them migrate all of their stuff into get
+
+168
+00:06:56,960 --> 00:07:00,440
+and and fix all of the stuff that we
+
+169
+00:06:58,919 --> 00:07:02,199
+need to fix in order to bring it into
+
+170
+00:07:00,440 --> 00:07:04,879
+our system we're just going to leave
+
+171
+00:07:02,199 --> 00:07:06,639
+them as is and we're going to plug into
+
+172
+00:07:04,879 --> 00:07:08,879
+them and pull their stuff out and and
+
+173
+00:07:06,639 --> 00:07:10,440
+integrate it into our system so rather
+
+174
+00:07:08,879 --> 00:07:13,639
+than doing that work because it seemed
+
+175
+00:07:10,440 --> 00:07:16,360
+insurmountable at the time um they they
+
+176
+00:07:13,639 --> 00:07:19,199
+they they didn't do that they they just
+
+177
+00:07:16,360 --> 00:07:23,400
+pulled the stuff in and on top of that
+
+178
+00:07:19,199 --> 00:07:25,319
+perhaps things didn't exist 25 years ago
+
+179
+00:07:23,400 --> 00:07:28,599
+so they have a lot had a lot of teams
+
+180
+00:07:25,319 --> 00:07:31,319
+that were on their own custom inhouse
+
+181
+00:07:28,599 --> 00:07:33,800
+built Source control system because when
+
+182
+00:07:31,319 --> 00:07:37,319
+they started working on this product
+
+183
+00:07:33,800 --> 00:07:40,879
+there were no large scale Source Control
+
+184
+00:07:37,319 --> 00:07:45,080
+Systems you were probably talking about
+
+185
+00:07:40,879 --> 00:07:46,680
+s h visual Source safe at the time but
+
+186
+00:07:45,080 --> 00:07:49,159
+visual Source safe was developed at the
+
+187
+00:07:46,680 --> 00:07:51,599
+time of Noel networks and had a Max size
+
+188
+00:07:49,159 --> 00:07:55,520
+of about 5 gig this thing was
+
+189
+00:07:51,599 --> 00:07:56,840
+ginormous right so how how how do you
+
+190
+00:07:55,520 --> 00:07:59,120
+manage that well you have to build your
+
+191
+00:07:56,840 --> 00:08:01,479
+own systems when you go to try and
+
+192
+00:07:59,120 --> 00:08:03,080
+create an automated build perhaps there
+
+193
+00:08:01,479 --> 00:08:05,400
+isn't a commercial automated build
+
+194
+00:08:03,080 --> 00:08:07,159
+system so you build your own and then
+
+195
+00:08:05,400 --> 00:08:09,440
+once a commercial automated build system
+
+196
+00:08:07,159 --> 00:08:11,120
+becomes available you you adapt into
+
+197
+00:08:09,440 --> 00:08:13,680
+that but you're actually just calling
+
+198
+00:08:11,120 --> 00:08:15,520
+out to your existing thing because
+
+199
+00:08:13,680 --> 00:08:17,680
+you've not taken the time to rewrite
+
+200
+00:08:15,520 --> 00:08:21,319
+everything because that's an inable task
+
+201
+00:08:17,680 --> 00:08:23,159
+so we integrate it rather than refactor
+
+202
+00:08:21,319 --> 00:08:26,199
+right we're missing all of those
+
+203
+00:08:23,159 --> 00:08:28,159
+refactors over time and it just gets
+
+204
+00:08:26,199 --> 00:08:30,280
+bigger and bigger and bigger and more
+
+205
+00:08:28,159 --> 00:08:33,080
+unwieldly and more wieldly and more
+
+206
+00:08:30,280 --> 00:08:34,680
+unwieldly and sometimes it's difficult
+
+207
+00:08:33,080 --> 00:08:35,839
+that's a terrible expression but
+
+208
+00:08:34,680 --> 00:08:39,159
+difficult to see the forest for the
+
+209
+00:08:35,839 --> 00:08:41,519
+trees right all of these things like
+
+210
+00:08:39,159 --> 00:08:43,719
+what should we go fix where should we go
+
+211
+00:08:41,519 --> 00:08:45,480
+look where should we start what's the
+
+212
+00:08:43,719 --> 00:08:47,959
+what's our biggest bang for our buck
+
+213
+00:08:45,480 --> 00:08:49,360
+that we can go go fix and figure out and
+
+214
+00:08:47,959 --> 00:08:51,600
+perhaps lots of little things we need to
+
+215
+00:08:49,360 --> 00:08:54,120
+fix around the edge
+
+216
+00:08:51,600 --> 00:08:57,800
+so what I would
+
+217
+00:08:54,120 --> 00:08:59,800
+expect an organization to get what's
+
+218
+00:08:57,800 --> 00:09:02,440
+what's like the outcome and Improvement
+
+219
+00:08:59,800 --> 00:09:06,399
+that that our customers can
+
+220
+00:09:02,440 --> 00:09:09,760
+expect it's a more effective process
+
+221
+00:09:06,399 --> 00:09:11,880
+right we're talking about taking what
+
+222
+00:09:09,760 --> 00:09:13,680
+the organization is doing right now
+
+223
+00:09:11,880 --> 00:09:15,000
+within usually within the context of a
+
+224
+00:09:13,680 --> 00:09:17,040
+product when you're talking about devops
+
+225
+00:09:15,000 --> 00:09:20,120
+but it could be holistically across an
+
+226
+00:09:17,040 --> 00:09:24,640
+organization and figuring out how do we
+
+227
+00:09:20,120 --> 00:09:24,640
+eliminate waste how do
+
+228
+00:09:24,720 --> 00:09:30,000
+we ensure that we have automation that
+
+229
+00:09:28,079 --> 00:09:32,320
+we can automate
+
+230
+00:09:30,000 --> 00:09:33,440
+that that automation is effective right
+
+231
+00:09:32,320 --> 00:09:35,240
+because it's also you can have
+
+232
+00:09:33,440 --> 00:09:38,040
+ineffective automation like that massive
+
+233
+00:09:35,240 --> 00:09:42,600
+build system I was talking about um and
+
+234
+00:09:38,040 --> 00:09:44,360
+how do we simplify simplify simplify so
+
+235
+00:09:42,600 --> 00:09:47,480
+what I would expect the outcomes to be
+
+236
+00:09:44,360 --> 00:09:50,720
+would be reduced cost to deliver new
+
+237
+00:09:47,480 --> 00:09:53,360
+features reduced time to deliver new
+
+238
+00:09:50,720 --> 00:09:58,040
+features um
+
+239
+00:09:53,360 --> 00:09:59,760
+improved H um happiness of the people
+
+240
+00:09:58,040 --> 00:10:03,279
+that are building in the product because
+
+241
+00:09:59,760 --> 00:10:05,839
+they're spending less time struggling
+
+242
+00:10:03,279 --> 00:10:08,440
+with the complexity that we've created
+
+243
+00:10:05,839 --> 00:10:09,880
+over time and more time focusing on
+
+244
+00:10:08,440 --> 00:10:13,839
+solving the business
+
+245
+00:10:09,880 --> 00:10:16,519
+problem so the these are are
+
+246
+00:10:13,839 --> 00:10:19,920
+multipliers for your capability to
+
+247
+00:10:16,519 --> 00:10:22,399
+deliver a great example of those
+
+248
+00:10:19,920 --> 00:10:25,720
+multipliers is actually the Azure devops
+
+249
+00:10:22,399 --> 00:10:28,160
+team at Microsoft right so they create a
+
+250
+00:10:25,720 --> 00:10:30,839
+product called Azure devops used to be
+
+251
+00:10:28,160 --> 00:10:36,600
+team Foundation server when it was local
+
+252
+00:10:30,839 --> 00:10:39,720
+and back in 2010 before they started uh
+
+253
+00:10:36,600 --> 00:10:41,920
+doing much more frequent deliveries and
+
+254
+00:10:39,720 --> 00:10:43,720
+all the Automation and focusing on these
+
+255
+00:10:41,920 --> 00:10:46,920
+things before they brought devops into
+
+256
+00:10:43,720 --> 00:10:49,000
+their story um they were delivering
+
+257
+00:10:46,920 --> 00:10:51,720
+about 25 features to production each
+
+258
+00:10:49,000 --> 00:10:53,000
+year and that was with 600 people
+
+259
+00:10:51,720 --> 00:10:55,920
+working on it and they were delivering
+
+260
+00:10:53,000 --> 00:10:57,959
+about 25 new features lots of bug fixies
+
+261
+00:10:55,920 --> 00:11:00,079
+lots of little tweaks but 25 new
+
+262
+00:10:57,959 --> 00:11:03,440
+features to production each year
+
+263
+00:11:00,079 --> 00:11:06,480
+um fast forward to five years
+
+264
+00:11:03,440 --> 00:11:09,160
+later they'd spend a huge amount of time
+
+265
+00:11:06,480 --> 00:11:11,880
+investing in
+
+266
+00:11:09,160 --> 00:11:14,760
+um reducing the amount of time it takes
+
+267
+00:11:11,880 --> 00:11:17,600
+them to build their product from I think
+
+268
+00:11:14,760 --> 00:11:22,240
+wow I think it was like three or 4 days
+
+269
+00:11:17,600 --> 00:11:24,120
+7 72 hours plus to build their product
+
+270
+00:11:22,240 --> 00:11:27,760
+down to 3 and a half
+
+271
+00:11:24,120 --> 00:11:30,560
+minutes right those types of
+
+272
+00:11:27,760 --> 00:11:33,680
+capabilities enabl to go from 25
+
+273
+00:11:30,560 --> 00:11:36,560
+features to production each year to
+
+274
+00:11:33,680 --> 00:11:38,680
+nearly 300 features to production each
+
+275
+00:11:36,560 --> 00:11:40,240
+year with the same number of people and
+
+276
+00:11:38,680 --> 00:11:44,240
+the same people it's not different
+
+277
+00:11:40,240 --> 00:11:47,480
+people it's the same people right so so
+
+278
+00:11:44,240 --> 00:11:50,120
+what we're talking about is holistically
+
+279
+00:11:47,480 --> 00:11:51,920
+scaling up all of the people that we
+
+280
+00:11:50,120 --> 00:11:54,079
+have within our context so that
+
+281
+00:11:51,920 --> 00:11:56,320
+everybody understands devops everybody
+
+282
+00:11:54,079 --> 00:11:59,560
+understand refactoring and clean code
+
+283
+00:11:56,320 --> 00:12:01,720
+and what the impact is on all all of
+
+284
+00:11:59,560 --> 00:12:06,480
+these things so that we can make them
+
+285
+00:12:01,720 --> 00:12:08,120
+more effective over time um and yeah you
+
+286
+00:12:06,480 --> 00:12:10,360
+you will be you'll be faster you'll be
+
+287
+00:12:08,120 --> 00:12:11,920
+Slicker and it will be cheaper right
+
+288
+00:12:10,360 --> 00:12:14,399
+that's that's what we're talking about
+
+289
+00:12:11,920 --> 00:12:16,279
+when we talk about bringing devops and
+
+290
+00:12:14,399 --> 00:12:20,040
+the devops philosophy into an
+
+291
+00:12:16,279 --> 00:12:22,360
+organization but it takes skill we can't
+
+292
+00:12:20,040 --> 00:12:25,360
+install devops in your
+
+293
+00:12:22,360 --> 00:12:28,839
+organization you still have to do the
+
+294
+00:12:25,360 --> 00:12:31,440
+work if you can find a consultancy that
+
+295
+00:12:28,839 --> 00:12:34,720
+say is that they will do all the work
+
+296
+00:12:31,440 --> 00:12:37,720
+for you your people are not going to
+
+297
+00:12:34,720 --> 00:12:40,560
+learn anything they're not going to have
+
+298
+00:12:37,720 --> 00:12:42,120
+gone through the pain of actually fixing
+
+299
+00:12:40,560 --> 00:12:45,560
+their problems it's like getting a
+
+300
+00:12:42,120 --> 00:12:48,040
+cleaner in to clean your teenager's room
+
+301
+00:12:45,560 --> 00:12:51,320
+right is your te has your teenager
+
+302
+00:12:48,040 --> 00:12:52,480
+learned to clean up their room no no
+
+303
+00:12:51,320 --> 00:12:54,120
+they haven't they're just going to do
+
+304
+00:12:52,480 --> 00:12:56,880
+the same thing over and over and over
+
+305
+00:12:54,120 --> 00:12:58,760
+again when you do those big rewrites of
+
+306
+00:12:56,880 --> 00:13:00,440
+your product and you take the same
+
+307
+00:12:58,760 --> 00:13:03,120
+people and get them to rewrite your
+
+308
+00:13:00,440 --> 00:13:04,000
+product what do you think is going to be
+
+309
+00:13:03,120 --> 00:13:06,959
+the
+
+310
+00:13:04,000 --> 00:13:08,920
+outcome except a Rewritten product
+
+311
+00:13:06,959 --> 00:13:10,600
+that's in exactly the same state over
+
+312
+00:13:08,920 --> 00:13:12,279
+time as your existing product because
+
+313
+00:13:10,600 --> 00:13:15,320
+they've not gone through that Crucible
+
+314
+00:13:12,279 --> 00:13:17,519
+of learning the pain of actually
+
+315
+00:13:15,320 --> 00:13:21,560
+cleaning up the pain of pulling that
+
+316
+00:13:17,519 --> 00:13:24,040
+moldy plate out from under the bed and I
+
+317
+00:13:21,560 --> 00:13:27,120
+have to deal with this moldy plate and
+
+318
+00:13:24,040 --> 00:13:29,120
+maybe next time I won't leave the plate
+
+319
+00:13:27,120 --> 00:13:31,680
+because I don't want to deal with that
+
+320
+00:13:29,120 --> 00:13:33,240
+moldy plate right that that's what we're
+
+321
+00:13:31,680 --> 00:13:36,040
+talking about with engineering practices
+
+322
+00:13:33,240 --> 00:13:37,720
+we're talking about upskilling dealing
+
+323
+00:13:36,040 --> 00:13:41,120
+with our own
+
+324
+00:13:37,720 --> 00:13:43,560
+crap right dealing with it ourselves so
+
+325
+00:13:41,120 --> 00:13:46,240
+that we make less of that stuff in the
+
+326
+00:13:43,560 --> 00:13:48,760
+future that we do things in a in a
+
+327
+00:13:46,240 --> 00:13:52,519
+better way that enables us to be Slicker
+
+328
+00:13:48,760 --> 00:13:52,519
+and more effective
+
+

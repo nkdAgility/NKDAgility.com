@@ -29,7 +29,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube zqwHUwnw0hg >}}
+
 
 What will you learn on the professional scrum master course?
 

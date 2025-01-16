@@ -28,7 +28,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube pazZ3mW5VHM >}}
+
 
 ## Common Comments from the PSPO Course
 

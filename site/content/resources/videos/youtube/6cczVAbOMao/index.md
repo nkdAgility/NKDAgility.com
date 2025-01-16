@@ -45,7 +45,7 @@ resourceTypes:
 layout: video
 
 ---
-{{< youtube 6cczVAbOMao >}}
+
 
 ## The Pivotal Role of a Product Owner in Cultivating a Stellar Product Backlog
 

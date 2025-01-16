@@ -30,7 +30,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube qWHCBUwpOZk >}}
+
 
 ### Improving Your Workflow in a Kanban Strategy
 

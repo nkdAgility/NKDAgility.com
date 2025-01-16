@@ -29,8 +29,6 @@ resourceTypes:
 layout: video
 
 ---
-{{< youtube 3XsOseKG57g >}}
-
 ## The Magic of the 4-Day Training Format!
 
 Ever wondered what makes the 4-day training format stand out?  📅

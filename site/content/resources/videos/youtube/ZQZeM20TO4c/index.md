@@ -28,7 +28,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube ZQZeM20TO4c >}}
+
 
 Product of Conventional Practices
 

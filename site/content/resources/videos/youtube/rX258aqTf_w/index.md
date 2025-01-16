@@ -27,7 +27,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube rX258aqTf_w >}}
+
 
 In what circumstances is agile consulting appropriate?
 

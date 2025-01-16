@@ -48,7 +48,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube l3NhlbM2gKM >}}
+
 
 # Unraveling the Story Point Myth in Scrum: A Path to Clarity 🚀
 

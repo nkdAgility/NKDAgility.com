@@ -30,7 +30,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube S7Xr1-qONmM >}}
+
 
 Why do you think the PSU course has become so popular for product development?
 

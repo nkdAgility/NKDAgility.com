@@ -46,7 +46,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube bXb00GxJiCY >}}
+
 
 One of the greatest benefits of immersive learning, particularly in Scrum training, is the reduced cognitive load and the increase in overall engagement. Traditional learning methods, like long video conferencing sessions, often lead to fatigue and burnout, which impacts how much participants can absorb. By contrast, immersive learning methods allow for shorter, focused sessions, creating a more exciting and engaging experience.
 

@@ -28,7 +28,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube S3Xq6gCp7Hw >}}
+
 
 In my opinion, it’s the whole ball game.
 

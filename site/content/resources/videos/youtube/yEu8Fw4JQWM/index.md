@@ -34,7 +34,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube yEu8Fw4JQWM >}}
+
 
 ## Why Less is Always More When It Comes to WIP
 

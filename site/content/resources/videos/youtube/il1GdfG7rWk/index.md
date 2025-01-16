@@ -46,7 +46,7 @@ resourceTypes:
 - video
 
 ---
-{{< youtube il1GdfG7rWk >}}
+
 
 As a new product owner, one of the most crucial responsibilities you'll face is managing your product backlog. It’s the backbone of successful product delivery. The product backlog is more than a to-do list—it's the foundation for delivering maximum value. In this post, we'll walk you through the key elements of product backlog management, provide actionable insights, and share practical tips for mastering this essential skill.
 
