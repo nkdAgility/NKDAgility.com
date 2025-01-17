@@ -1,0 +1,21 @@
+The third most powerful practice in Kaman is improving your workflow. It's all well and good to have your visualisation so you can see everything that's going on. It's all well and good to actively manage the works through the system, but if your system's broken or your system could be improved and you don't do anything, that's not going to bode well for the future, right? 
+
+So improving the workflow, making changes to the system in order to maximise the flow of value through the system can help us prevent things like blockages and things backing up in the system, things getting old in the system. Once you've identified why those things are happening, you need to actually do something. You need to actually change the system in order to make those things more effective. 
+
+So many, so many, so many teams will just sit there and they'll understand that there's a problem with the system and they'll just say, "Well, we can't do anything about it. That's Bob. Bob is getting in the way and Bob is not doing something he's supposed to do in a regular cadence." 
+
+I worked with a team in the US and we had the Kaman board on the wall, right? And we couldn't change this part of the system, okay? Because it was our Kaman, but we had a dependency, right? That might be something you actively manage away. We had a dependency on somebody else and it was basically an approval state, right? So stuff would go through our system and then at this point it had to be approved and then it would continue through our system. 
+
+The person who did the approvals didn't want to look at the board every day, didn't want to approve stuff every day, so he did weekly approvals. He would, every, I can't remember what day it was, let's say it's Monday, every Monday he opens up the board, Monday morning, he opens up the board and approves the things that need approved. But what if we finish something Monday afternoon that sits there for seven days before it gets approved? 
+
+So what we started doing with our board was this: we were quite lucky, our board was on the wall in the main area of our business, right? In the corridor where everybody was going past, like everybody, the CEO, CFO, everybody would go past this board. And what we did was in that column, just at the bottom of that column, we started adding Post-its in there that listed financial numbers. 
+
+We kind of came up with a calculation. This was part of our actively managing how much does it cost for things to be sitting waiting to be approved. And we started putting that cost in there and those numbers would go up towards the end of the week and then they would go to zero on Monday and then they would start building up again and go to zero and start building up again. 
+
+We had a little graph showing that flow of that bad flow of work through the system and at some point that person whose job it was to approve walked past that board and kind of had a double take and kind of went, "What are these numbers?" And we just explained, "That's the cost of these items sitting there and waiting. That's our wait time cost." 
+
+So we thought we would put it on the board because this is where one of our bigger costs is. And what happened? That person changed their behaviour almost immediately and started checking every morning for anything that was blocked or needed approved. In fact, I think at one point they were checking every morning and every end of day so that everything was just flowing through the system. 
+
+And that was the single biggest cost benefit that that team had in a six-month period was reducing that cost of delay of things sitting there and not being approved when they were in fact valid, they were in fact approvable, i.e., they would be approved and just waiting. 
+
+So changing your workflow or creating a situation within which that workflow is changed is one of the three most important principles of a Kaman strategy that the things you have to have in Kaman. If you're struggling to implement a Kaman strategy, we can help or we can find somebody who can. Click the link below and get in touch.
