@@ -1,0 +1,381 @@
+1
+00:00:00,120 --> 00:00:06,319
+a hugely important technique for any
+
+2
+00:00:03,480 --> 00:00:08,880
+implementation of a cand strategy is to
+
+3
+00:00:06,319 --> 00:00:10,599
+visualize your work right you need to be
+
+4
+00:00:08,880 --> 00:00:13,120
+able to see what's going on you need to
+
+5
+00:00:10,599 --> 00:00:15,719
+be able to visualize that I'm a big user
+
+6
+00:00:13,120 --> 00:00:20,160
+of aure devops I know jira has these
+
+7
+00:00:15,719 --> 00:00:23,160
+features as well um but being able to
+
+8
+00:00:20,160 --> 00:00:25,519
+visually see your cards moving across
+
+9
+00:00:23,160 --> 00:00:27,000
+the board the the units of value we
+
+10
+00:00:25,519 --> 00:00:28,720
+don't really care about tasks at this
+
+11
+00:00:27,000 --> 00:00:31,279
+point right but your smallest unit of
+
+12
+00:00:28,720 --> 00:00:34,440
+value to see see them flow across the
+
+13
+00:00:31,279 --> 00:00:36,399
+board see where things are so if
+
+14
+00:00:34,440 --> 00:00:37,960
+somebody asks you oh where's this what's
+
+15
+00:00:36,399 --> 00:00:43,320
+that what's going on with this is it's
+
+16
+00:00:37,960 --> 00:00:43,320
+very obvious where and what it is
+
+17
+00:00:44,039 --> 00:00:48,559
+um that
+
+18
+00:00:46,320 --> 00:00:51,079
+visualization while super important is
+
+19
+00:00:48,559 --> 00:00:54,760
+actually super difficult to create
+
+20
+00:00:51,079 --> 00:00:59,120
+because we generally make assumptions as
+
+21
+00:00:54,760 --> 00:01:00,719
+a team about what each other think the
+
+22
+00:00:59,120 --> 00:01:03,879
+system is
+
+23
+00:01:00,719 --> 00:01:07,119
+okay so I'll think the system works like
+
+24
+00:01:03,879 --> 00:01:09,920
+this and another team member will think
+
+25
+00:01:07,119 --> 00:01:12,080
+it works like that but we'll think we're
+
+26
+00:01:09,920 --> 00:01:14,240
+on the same page we'll think we
+
+27
+00:01:12,080 --> 00:01:16,119
+understand each other on how the system
+
+28
+00:01:14,240 --> 00:01:18,240
+works but because we've never sat down
+
+29
+00:01:16,119 --> 00:01:21,920
+and had that conversation about how this
+
+30
+00:01:18,240 --> 00:01:24,240
+system works then we don't uh think
+
+31
+00:01:21,920 --> 00:01:26,360
+think about I I have a I don't know if
+
+32
+00:01:24,240 --> 00:01:30,720
+you've noticed but I kind of like board
+
+33
+00:01:26,360 --> 00:01:34,040
+games um if you were to take any one of
+
+34
+00:01:30,720 --> 00:01:37,200
+these board games off my shelf and throw
+
+35
+00:01:34,040 --> 00:01:41,119
+away the rule book and get four people
+
+36
+00:01:37,200 --> 00:01:44,280
+together to um decide they're each going
+
+37
+00:01:41,119 --> 00:01:46,399
+to decide how they're going to use the
+
+38
+00:01:44,280 --> 00:01:49,159
+pieces and move them around in order to
+
+39
+00:01:46,399 --> 00:01:51,759
+get points and then you're going to work
+
+40
+00:01:49,159 --> 00:01:53,479
+together to solve the problem that is
+
+41
+00:01:51,759 --> 00:01:56,360
+the board game you pick a Cooperative
+
+42
+00:01:53,479 --> 00:02:01,360
+one but we don't agree what the rules
+
+43
+00:01:56,360 --> 00:02:03,799
+are then how could we possibly have a
+
+44
+00:02:01,360 --> 00:02:05,920
+successful game right we're not all
+
+45
+00:02:03,799 --> 00:02:08,800
+playing the same game because we all
+
+46
+00:02:05,920 --> 00:02:11,959
+have not agreed what the rules are
+
+47
+00:02:08,800 --> 00:02:15,120
+that's why games come with a rule book
+
+48
+00:02:11,959 --> 00:02:18,400
+the first part of implementing a cand
+
+49
+00:02:15,120 --> 00:02:22,879
+strategy is you need to write your rule
+
+50
+00:02:18,400 --> 00:02:24,760
+book what are the rules of your system
+
+51
+00:02:22,879 --> 00:02:27,840
+how are you going to decide how things
+
+52
+00:02:24,760 --> 00:02:30,400
+work so even one of the first decisions
+
+53
+00:02:27,840 --> 00:02:31,800
+is what are we going to visual ize on
+
+54
+00:02:30,400 --> 00:02:34,840
+this what we actually going to put on
+
+55
+00:02:31,800 --> 00:02:38,480
+the board is it only things on our
+
+56
+00:02:34,840 --> 00:02:40,000
+backlog or is it bugs as well what is it
+
+57
+00:02:38,480 --> 00:02:44,560
+that's going to go on there and how does
+
+58
+00:02:40,000 --> 00:02:46,159
+it move through this system so creating
+
+59
+00:02:44,560 --> 00:02:48,159
+uh uh that visualization is super
+
+60
+00:02:46,159 --> 00:02:51,440
+important so what what I recommend that
+
+61
+00:02:48,159 --> 00:02:53,959
+you do is uh do a do a workshop get
+
+62
+00:02:51,440 --> 00:02:56,519
+everybody together sit down and just
+
+63
+00:02:53,959 --> 00:03:00,040
+build a board whether you're building it
+
+64
+00:02:56,519 --> 00:03:05,640
+in aure devops or you're building it in
+
+65
+00:03:00,040 --> 00:03:08,200
+um jira or Trello or just pop open mural
+
+66
+00:03:05,640 --> 00:03:09,680
+or Myro and use a digital whiteboard
+
+67
+00:03:08,200 --> 00:03:13,680
+right totally free
+
+68
+00:03:09,680 --> 00:03:16,640
+form make the decisions write the notes
+
+69
+00:03:13,680 --> 00:03:19,519
+and document your system how does your
+
+70
+00:03:16,640 --> 00:03:22,440
+system work and agree as a team when you
+
+71
+00:03:19,519 --> 00:03:26,440
+find differences on how your system is
+
+72
+00:03:22,440 --> 00:03:31,680
+supposed to work then at the very
+
+73
+00:03:26,440 --> 00:03:33,840
+least even if we've still got a system
+
+74
+00:03:31,680 --> 00:03:35,519
+that might not be optimal right because
+
+75
+00:03:33,840 --> 00:03:38,400
+this is where we are right now this is
+
+76
+00:03:35,519 --> 00:03:41,159
+what we're doing right now we at the
+
+77
+00:03:38,400 --> 00:03:43,200
+very least have a system that we all
+
+78
+00:03:41,159 --> 00:03:46,000
+agree is the same
+
+79
+00:03:43,200 --> 00:03:48,480
+system right because if we want to play
+
+80
+00:03:46,000 --> 00:03:50,879
+together we want to play as a team and
+
+81
+00:03:48,480 --> 00:03:52,599
+we want to be successful together we
+
+82
+00:03:50,879 --> 00:03:54,640
+need to Define what those things are we
+
+83
+00:03:52,599 --> 00:03:57,760
+need to Define how the system works and
+
+84
+00:03:54,640 --> 00:04:00,200
+we all need to be playing in the same
+
+85
+00:03:57,760 --> 00:04:03,239
+system if you're struggling
+
+86
+00:04:00,200 --> 00:04:06,000
+uh to decide how your system works and
+
+87
+00:04:03,239 --> 00:04:08,879
+create a definition of workflow then we
+
+88
+00:04:06,000 --> 00:04:11,480
+can help you we provide worldclass
+
+89
+00:04:08,879 --> 00:04:14,040
+camand training from Pro caman as well
+
+90
+00:04:11,480 --> 00:04:17,199
+as Consulting and coaching for teams
+
+91
+00:04:14,040 --> 00:04:19,799
+trying to implement a cand strategy if
+
+92
+00:04:17,199 --> 00:04:22,040
+you're a scrum team then we always
+
+93
+00:04:19,799 --> 00:04:24,520
+recommend bringing in flow metrics as a
+
+94
+00:04:22,040 --> 00:04:28,479
+complimentary practice and have cbang
+
+95
+00:04:24,520 --> 00:04:28,479
+classes from scrum the door
+
+
