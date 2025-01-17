@@ -1,0 +1,3 @@
+One of my favourite quotes is from Denning: "Without theory, experience has no meaning. Without theory, one has no questions to ask; hence, without theory, there is no learning." 
+
+One of the purposes of our immersive classes is that we're able to give you the tools that you need to ask the right questions, to figure out what you need to learn, what you don't understand, and that is the value of immersive learning.

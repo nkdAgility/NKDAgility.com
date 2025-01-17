@@ -1,0 +1,893 @@
+1
+00:00:00,120 --> 00:00:06,359
+when you're implementing a caman
+
+2
+00:00:02,600 --> 00:00:08,360
+strategy we're effectively creating uh a
+
+3
+00:00:06,359 --> 00:00:10,840
+pool-based system of
+
+4
+00:00:08,360 --> 00:00:14,440
+work so
+
+5
+00:00:10,840 --> 00:00:17,840
+um cban kind of does this there there's
+
+6
+00:00:14,440 --> 00:00:20,960
+three core practices to caman defining
+
+7
+00:00:17,840 --> 00:00:23,359
+and visualizing your workflow actively
+
+8
+00:00:20,960 --> 00:00:28,640
+managing items in that workflow and then
+
+9
+00:00:23,359 --> 00:00:31,599
+improving that workflow and our
+
+10
+00:00:28,640 --> 00:00:35,000
+ability to Define and visualize that
+
+11
+00:00:31,599 --> 00:00:37,640
+workflow as part of creating that caman
+
+12
+00:00:35,000 --> 00:00:39,840
+system we need to decide what is the
+
+13
+00:00:37,640 --> 00:00:44,000
+system that we're going to use caman a
+
+14
+00:00:39,840 --> 00:00:46,320
+caman strategy to monitor right so we
+
+15
+00:00:44,000 --> 00:00:48,640
+Define generally and you'll see this a
+
+16
+00:00:46,320 --> 00:00:50,520
+lot with teams as they'll Define columns
+
+17
+00:00:48,640 --> 00:00:53,840
+if they just stop there it's probably
+
+18
+00:00:50,520 --> 00:00:55,600
+not a caman system yet right it's not a
+
+19
+00:00:53,840 --> 00:00:57,559
+cand strategy if they just Define The
+
+20
+00:00:55,600 --> 00:00:59,000
+Columns and then we're done there's a
+
+21
+00:00:57,559 --> 00:01:01,519
+little bit more to it than that and some
+
+22
+00:00:59,000 --> 00:01:04,199
+of the minimum things things uh uh that
+
+23
+00:01:01,519 --> 00:01:06,760
+you kind of need at a minimum you should
+
+24
+00:01:04,199 --> 00:01:07,759
+have whip limits right at Absolute
+
+25
+00:01:06,760 --> 00:01:08,960
+minimum you should have whip limits
+
+26
+00:01:07,759 --> 00:01:10,600
+those other things we should have but
+
+27
+00:01:08,960 --> 00:01:12,400
+definitely if you don't have whip limits
+
+28
+00:01:10,600 --> 00:01:13,840
+definitely not not don't have a cand
+
+29
+00:01:12,400 --> 00:01:17,240
+system yet
+
+30
+00:01:13,840 --> 00:01:19,720
+but what we're able to do is we're able
+
+31
+00:01:17,240 --> 00:01:22,479
+to decide what of the stages that our
+
+32
+00:01:19,720 --> 00:01:25,200
+work flows through but we also want to
+
+33
+00:01:22,479 --> 00:01:31,000
+think about what are our weight States
+
+34
+00:01:25,200 --> 00:01:34,159
+and weight states are places where work
+
+35
+00:01:31,000 --> 00:01:36,799
+stops because the next thing that needs
+
+36
+00:01:34,159 --> 00:01:42,040
+to happen the next activity the next
+
+37
+00:01:36,799 --> 00:01:45,719
+stage in the process is um is full right
+
+38
+00:01:42,040 --> 00:01:48,960
+there's no no capacity if you think
+
+39
+00:01:45,719 --> 00:01:51,840
+about um I'm trying to trying to think
+
+40
+00:01:48,960 --> 00:01:54,759
+of a of a good example good example is
+
+41
+00:01:51,840 --> 00:01:56,560
+uh if you go to the hospital and you go
+
+42
+00:01:54,759 --> 00:01:59,360
+to the waiting room and there are no
+
+43
+00:01:56,560 --> 00:02:00,759
+seats left quite often there'll be a
+
+44
+00:01:59,360 --> 00:02:03,640
+another
+
+45
+00:02:00,759 --> 00:02:06,280
+overflow waiting room uh where where
+
+46
+00:02:03,640 --> 00:02:09,239
+people can go and wait to get into that
+
+47
+00:02:06,280 --> 00:02:12,239
+that that situation and then the people
+
+48
+00:02:09,239 --> 00:02:14,400
+running that department in the hospital
+
+49
+00:02:12,239 --> 00:02:17,000
+are going to be looking at well how many
+
+50
+00:02:14,400 --> 00:02:19,120
+people end up in this overflow they're
+
+51
+00:02:17,000 --> 00:02:20,879
+they're all wait they're they're waiting
+
+52
+00:02:19,120 --> 00:02:22,280
+longer than we expect because
+
+53
+00:02:20,879 --> 00:02:24,680
+everybody's waiting longer than we
+
+54
+00:02:22,280 --> 00:02:27,160
+expect and we don't want too many things
+
+55
+00:02:24,680 --> 00:02:30,840
+in the system perhaps we need to reduce
+
+56
+00:02:27,160 --> 00:02:34,280
+the number of people that we uh Book on
+
+57
+00:02:30,840 --> 00:02:36,239
+a particular schedule right in order to
+
+58
+00:02:34,280 --> 00:02:38,000
+Maxim minimize the amount of time people
+
+59
+00:02:36,239 --> 00:02:40,360
+wait and maximize the amount of people
+
+60
+00:02:38,000 --> 00:02:42,080
+we get through the system um and they
+
+61
+00:02:40,360 --> 00:02:43,519
+well that's more difficult for hospitals
+
+62
+00:02:42,080 --> 00:02:45,000
+because they have to take into account
+
+63
+00:02:43,519 --> 00:02:48,040
+people that cancel people that don't
+
+64
+00:02:45,000 --> 00:02:51,640
+turn up all of those kind of things so
+
+65
+00:02:48,040 --> 00:02:54,800
+um yeah that's that's fun but this this
+
+66
+00:02:51,640 --> 00:02:58,680
+idea of um the weight state is really
+
+67
+00:02:54,800 --> 00:03:00,680
+important so quite often for a stage
+
+68
+00:02:58,680 --> 00:03:04,000
+let's let's use a really
+
+69
+00:03:00,680 --> 00:03:07,760
+simple visualization uh where you've got
+
+70
+00:03:04,000 --> 00:03:10,680
+some kind of analysis Discovery happens
+
+71
+00:03:07,760 --> 00:03:12,879
+then some sort of development or doing
+
+72
+00:03:10,680 --> 00:03:16,280
+happens and then some kind of validation
+
+73
+00:03:12,879 --> 00:03:20,319
+or testing happens and then things are
+
+74
+00:03:16,280 --> 00:03:23,360
+finished you want to be able to indicate
+
+75
+00:03:20,319 --> 00:03:26,480
+on your board in your visualization in
+
+76
+00:03:23,360 --> 00:03:29,720
+your system visualizing your system when
+
+77
+00:03:26,480 --> 00:03:34,560
+things are complete from the perspective
+
+78
+00:03:29,720 --> 00:03:35,760
+Ive of analysis right um but they've
+
+79
+00:03:34,560 --> 00:03:43,120
+we've not yet
+
+80
+00:03:35,760 --> 00:03:47,360
+started development doing work on it so
+
+81
+00:03:43,120 --> 00:03:50,599
+if the analysis team just put it into
+
+82
+00:03:47,360 --> 00:03:52,720
+the development teams and I'm using
+
+83
+00:03:50,599 --> 00:03:55,200
+teams badly here but the people doing
+
+84
+00:03:52,720 --> 00:03:57,439
+analysis put it into the backlog of the
+
+85
+00:03:55,200 --> 00:03:59,239
+people doing development they're
+
+86
+00:03:57,439 --> 00:04:00,920
+committing to that work on that other
+
+87
+00:03:59,239 --> 00:04:04,079
+group's BAS behalf right they're putting
+
+88
+00:04:00,920 --> 00:04:05,799
+it in their system inside of their view
+
+89
+00:04:04,079 --> 00:04:07,319
+um without permission they're just put
+
+90
+00:04:05,799 --> 00:04:08,599
+dropping it in there even if they ask
+
+91
+00:04:07,319 --> 00:04:11,159
+they're they're kind of pushing that
+
+92
+00:04:08,599 --> 00:04:14,200
+system that's a push system if we want
+
+93
+00:04:11,159 --> 00:04:16,280
+to create a pool system then the folks
+
+94
+00:04:14,200 --> 00:04:18,160
+in the stage before so in this case
+
+95
+00:04:16,280 --> 00:04:20,799
+analysis they want to kind of have an
+
+96
+00:04:18,160 --> 00:04:23,360
+analysis doing and an analysis done
+
+97
+00:04:20,799 --> 00:04:27,600
+indication and that analysis done is a
+
+98
+00:04:23,360 --> 00:04:30,880
+weight State for the the the the the
+
+99
+00:04:27,600 --> 00:04:32,560
+next stage to look at that list of
+
+100
+00:04:30,880 --> 00:04:34,759
+things that are done from the previous
+
+101
+00:04:32,560 --> 00:04:37,440
+stage and then pull them in but it still
+
+102
+00:04:34,759 --> 00:04:40,759
+counts as time in that previous stage
+
+103
+00:04:37,440 --> 00:04:43,720
+that way we can see when visually see
+
+104
+00:04:40,759 --> 00:04:45,360
+when work piles up and see when we need
+
+105
+00:04:43,720 --> 00:04:47,320
+to do something about it like the
+
+106
+00:04:45,360 --> 00:04:50,240
+Overflow in the waiting room at the
+
+107
+00:04:47,320 --> 00:04:52,680
+hospital we want to be able to take
+
+108
+00:04:50,240 --> 00:04:54,160
+action right we want to actively manage
+
+109
+00:04:52,680 --> 00:04:56,000
+the items in the workflow which means
+
+110
+00:04:54,160 --> 00:04:57,840
+we're going to be looking for those
+
+111
+00:04:56,000 --> 00:05:01,600
+weight States we're going to be looking
+
+112
+00:04:57,840 --> 00:05:03,479
+for work piling up and you might find if
+
+113
+00:05:01,600 --> 00:05:07,120
+we're limiting work in process which we
+
+114
+00:05:03,479 --> 00:05:09,600
+should be in a cband system then if the
+
+115
+00:05:07,120 --> 00:05:12,919
+the the
+
+116
+00:05:09,600 --> 00:05:16,160
+development activity has four things
+
+117
+00:05:12,919 --> 00:05:20,440
+that they can take and the analysis
+
+118
+00:05:16,160 --> 00:05:24,600
+activity has four things then perhaps
+
+119
+00:05:20,440 --> 00:05:28,240
+the analysis work stops because they
+
+120
+00:05:24,600 --> 00:05:30,720
+have four things in done and the
+
+121
+00:05:28,240 --> 00:05:34,440
+development activity has more things in
+
+122
+00:05:30,720 --> 00:05:36,880
+progress slash done and we can't take on
+
+123
+00:05:34,440 --> 00:05:39,880
+anymore and Analysis can't take anymore
+
+124
+00:05:36,880 --> 00:05:43,240
+cuz their whip is four and they then
+
+125
+00:05:39,880 --> 00:05:46,639
+stop working and they say
+
+126
+00:05:43,240 --> 00:05:50,600
+to the system we don't have anything
+
+127
+00:05:46,639 --> 00:05:53,759
+left to do we we can't start new work
+
+128
+00:05:50,600 --> 00:05:56,880
+because we don't have room in our
+
+129
+00:05:53,759 --> 00:05:58,880
+system right and you might think that
+
+130
+00:05:56,880 --> 00:06:00,520
+well surely they can just take on
+
+131
+00:05:58,880 --> 00:06:02,360
+something else
+
+132
+00:06:00,520 --> 00:06:05,960
+but what if they keep doing that and
+
+133
+00:06:02,360 --> 00:06:08,919
+don't stop and put up the flag and alert
+
+134
+00:06:05,960 --> 00:06:12,120
+that we've stopped work what if they
+
+135
+00:06:08,919 --> 00:06:14,680
+just keep going so they keep pulling
+
+136
+00:06:12,120 --> 00:06:16,360
+work and dropping it into their done
+
+137
+00:06:14,680 --> 00:06:19,360
+column and their done column just gets
+
+138
+00:06:16,360 --> 00:06:22,240
+bigger and bigger and bigger and bigger
+
+139
+00:06:19,360 --> 00:06:24,840
+and perhaps the next stage can't pull
+
+140
+00:06:22,240 --> 00:06:27,639
+from that list very quickly and it means
+
+141
+00:06:24,840 --> 00:06:29,080
+that the weight time the amount of total
+
+142
+00:06:27,639 --> 00:06:31,039
+time in the system for all of those
+
+143
+00:06:29,080 --> 00:06:32,599
+things that are in that weight state is
+
+144
+00:06:31,039 --> 00:06:36,160
+getting longer and longer and longer and
+
+145
+00:06:32,599 --> 00:06:38,440
+it's just waste wouldn't it be better if
+
+146
+00:06:36,160 --> 00:06:41,479
+though that group in analysis just put
+
+147
+00:06:38,440 --> 00:06:44,080
+up the red flag and said uh We've
+
+148
+00:06:41,479 --> 00:06:46,960
+stopped because we've got no more room
+
+149
+00:06:44,080 --> 00:06:49,919
+in our system the next stage has not
+
+150
+00:06:46,960 --> 00:06:51,919
+filtered more down what should we do
+
+151
+00:06:49,919 --> 00:06:53,520
+right now in reality if you're a
+
+152
+00:06:51,919 --> 00:06:55,879
+engineering team working together
+
+153
+00:06:53,520 --> 00:06:58,280
+perhaps they go help the next stage down
+
+154
+00:06:55,879 --> 00:07:00,720
+the r line right maybe they can help out
+
+155
+00:06:58,280 --> 00:07:04,440
+and help make that FAS faster or perhaps
+
+156
+00:07:00,720 --> 00:07:06,240
+we need to bring this up as a a bigger
+
+157
+00:07:04,440 --> 00:07:08,479
+thing for leadership and say we've got
+
+158
+00:07:06,240 --> 00:07:10,199
+some kind of problem in the system and
+
+159
+00:07:08,479 --> 00:07:11,759
+we need to change the system in order to
+
+160
+00:07:10,199 --> 00:07:13,720
+make it more effective so the things
+
+161
+00:07:11,759 --> 00:07:16,080
+that we bring into the system flow
+
+162
+00:07:13,720 --> 00:07:19,599
+through the system more quickly so by
+
+163
+00:07:16,080 --> 00:07:21,199
+creating a pool system um we actually
+
+164
+00:07:19,599 --> 00:07:24,840
+create a
+
+165
+00:07:21,199 --> 00:07:28,440
+system within which we can see we can
+
+166
+00:07:24,840 --> 00:07:30,280
+visually see when we're not when the
+
+167
+00:07:28,440 --> 00:07:32,400
+system's not flowing properly when the
+
+168
+00:07:30,280 --> 00:07:35,000
+engine's not working properly it will
+
+169
+00:07:32,400 --> 00:07:36,759
+back up and it will back up all the way
+
+170
+00:07:35,000 --> 00:07:39,639
+to a point where we're like okay
+
+171
+00:07:36,759 --> 00:07:43,039
+everybody in this line of all every
+
+172
+00:07:39,639 --> 00:07:45,000
+single activity is is effectively
+
+173
+00:07:43,039 --> 00:07:47,919
+blocked right it's not a blocked thing
+
+174
+00:07:45,000 --> 00:07:50,039
+but everything is constrained and then
+
+175
+00:07:47,919 --> 00:07:51,479
+oh this is where it's constrained
+
+176
+00:07:50,039 --> 00:07:53,800
+because they're still working and
+
+177
+00:07:51,479 --> 00:07:56,360
+everybody after them has stopped what's
+
+178
+00:07:53,800 --> 00:07:58,039
+the problem do we not have enough people
+
+179
+00:07:56,360 --> 00:08:01,400
+here to be able to process the amount of
+
+180
+00:07:58,039 --> 00:08:03,280
+work that's going on um are we taking on
+
+181
+00:08:01,400 --> 00:08:05,520
+too much work into the system so it's
+
+182
+00:08:03,280 --> 00:08:08,720
+flowing through too quickly for this
+
+183
+00:08:05,520 --> 00:08:12,000
+whatever the constraint is in this area
+
+184
+00:08:08,720 --> 00:08:16,159
+and we need to figure out what it is and
+
+185
+00:08:12,000 --> 00:08:16,159
+go fix it so
+
+186
+00:08:16,240 --> 00:08:24,639
+this Dynamic applies both for a caman
+
+187
+00:08:22,599 --> 00:08:26,639
+strategy right you want to be looking
+
+188
+00:08:24,639 --> 00:08:28,840
+for those stages and thinking about how
+
+189
+00:08:26,639 --> 00:08:30,879
+do we visualize them uh but it also
+
+190
+00:08:28,840 --> 00:08:34,760
+applies in the the scrum world as well
+
+191
+00:08:30,879 --> 00:08:37,039
+scrum has a weight State H built in um
+
+192
+00:08:34,760 --> 00:08:39,039
+because the developers select work
+
+193
+00:08:37,039 --> 00:08:41,640
+during Sprint planning right so that's
+
+194
+00:08:39,039 --> 00:08:43,680
+their moment for for pulling work into
+
+195
+00:08:41,640 --> 00:08:45,000
+the system and then the system runs and
+
+196
+00:08:43,680 --> 00:08:47,120
+we see what comes out the other end so
+
+197
+00:08:45,000 --> 00:08:50,640
+we can apply a cband strategy on top of
+
+198
+00:08:47,120 --> 00:08:52,320
+that as well in addition to uh the work
+
+199
+00:08:50,640 --> 00:08:54,880
+limited pool system that's implemented
+
+200
+00:08:52,320 --> 00:08:56,959
+by scrum and add additional work limited
+
+201
+00:08:54,880 --> 00:08:59,320
+pool systems so that inside of the
+
+202
+00:08:56,959 --> 00:09:02,519
+system that scrum creates we can break
+
+203
+00:08:59,320 --> 00:09:05,519
+it up into other activities that in
+
+204
+00:09:02,519 --> 00:09:09,000
+order allow us to see what's going on in
+
+205
+00:09:05,519 --> 00:09:11,839
+those activities and where within the
+
+206
+00:09:09,000 --> 00:09:14,160
+system that's implemented by scrum where
+
+207
+00:09:11,839 --> 00:09:16,519
+the actual activities are are are
+
+208
+00:09:14,160 --> 00:09:18,959
+blocked are stuck are constrained that
+
+209
+00:09:16,519 --> 00:09:22,720
+we need to take action and we need to
+
+210
+00:09:18,959 --> 00:09:25,200
+fulfill that final part of a cand
+
+211
+00:09:22,720 --> 00:09:27,360
+strategy uh which is improving the
+
+212
+00:09:25,200 --> 00:09:30,399
+workflow not just actively managing it
+
+213
+00:09:27,360 --> 00:09:34,120
+but improving it so we need to go uh
+
+214
+00:09:30,399 --> 00:09:36,839
+take action and make a change if you're
+
+215
+00:09:34,120 --> 00:09:40,360
+struggling to create a pool-based system
+
+216
+00:09:36,839 --> 00:09:43,560
+of work then we can help you we provide
+
+217
+00:09:40,360 --> 00:09:45,640
+worldcast cran training from Pro caman
+
+218
+00:09:43,560 --> 00:09:48,079
+as well as Consulting and coaching for
+
+219
+00:09:45,640 --> 00:09:51,200
+teams trying to implement a caman
+
+220
+00:09:48,079 --> 00:09:53,440
+strategy if you're a scrum team then we
+
+221
+00:09:51,200 --> 00:09:56,000
+always recommend bringing in flow
+
+222
+00:09:53,440 --> 00:10:00,839
+metrics as a complimentary practice and
+
+223
+00:09:56,000 --> 00:10:00,839
+have cang classes from scrum.org as well
+
+
