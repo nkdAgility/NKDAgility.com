@@ -29,8 +29,6 @@ resourceTypes:
 - video
 
 ---
-
-
 **When should an organisation consider a professional agile consultant?**
 
 Hello Agile enthusiasts! 🙌

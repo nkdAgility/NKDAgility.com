@@ -28,8 +28,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Why Senior Leadership is Non-Negotiable in an Agile Consulting Journey
 
 Unlocking the full potential of Agile transformation hinges on one critical factor: the active engagement of senior leadership. In this article, let's discuss why their role is important and non-negotiable in any Agile consulting journey.  🎯

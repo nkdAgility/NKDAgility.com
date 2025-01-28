@@ -29,8 +29,6 @@ resourceTypes:
 - video
 
 ---
-
-
 What is a common mistake made by rookie agile consultants?
 
 I think the most common mistake made by a **rookie agile consultant** is the belief that simply by following the rules or processes of whatever agile framework they recommend; positive results and outcomes will be achieved.

@@ -31,8 +31,6 @@ resourceTypes:
 - video
 
 ---
-
-
 **What was your best day as an Agile consultant?**
 
 ## The Game Changer

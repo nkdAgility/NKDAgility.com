@@ -30,8 +30,6 @@ resourceTypes:
 - video
 
 ---
-
-
 **How does someone become an Agile consultant?**
 
 ## Navigating the Journey to Becoming an Agile Consultant

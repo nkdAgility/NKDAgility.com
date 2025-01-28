@@ -47,8 +47,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Democracy vs. Dictatorship in Agile Leadership: Finding the Middle Ground 
 
 Hello, Agile enthusiasts. It's Martin here. Let's delve into a topic that's sparked much debate in management circles: the tug-of-war between dictatorship and democracy in leadership, particularly within the Agile framework. 🤔⚖️ 

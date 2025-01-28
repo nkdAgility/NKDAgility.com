@@ -29,8 +29,6 @@ resourceTypes:
 - video
 
 ---
-
-
 How do you think Agile is evolving since its inception in 2001?
 
 I think **agile** has been evolving steadily, although not always in the way we would like to see.

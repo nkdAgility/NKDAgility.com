@@ -28,8 +28,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Debunking the "Magic" Myth
 
 A question that often pops up in my discussions is, "What is the hardest part of adopting Scrum?

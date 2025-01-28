@@ -47,8 +47,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Is Your Sprint Goal Hitting the Mark?
 
 Hello, Agile aficionados!

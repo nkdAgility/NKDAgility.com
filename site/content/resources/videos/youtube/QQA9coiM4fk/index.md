@@ -27,8 +27,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Navigating the Complexities with Expert Guidance 
 
 When I embarked on my journey as a DevOps consultant, I discovered that the vast landscape of DevOps could be as complex as it is fascinating. Brimming with potential for transformative change, this field is more than just a set of practices; it's a gateway to operational excellence. 🚀 

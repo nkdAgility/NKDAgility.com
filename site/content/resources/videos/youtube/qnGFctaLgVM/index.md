@@ -31,8 +31,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Why Russell is the Go-To PSPO Trainer for NKD Agility 🏆 
 
 ## Russell: A Software Sage with a Maverick Edge 🛠 

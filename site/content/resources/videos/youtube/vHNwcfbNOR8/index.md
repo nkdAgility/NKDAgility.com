@@ -27,8 +27,6 @@ resourceTypes:
 - video
 
 ---
-
-
 **What is your feeling on creating Agile apprenticeships?**
 
 ## Forging Agile Apprenticeships

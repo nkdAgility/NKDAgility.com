@@ -32,8 +32,6 @@ resourceTypes:
 - video
 
 ---
-
-
 **Scrum Masters: Unlocking the Power of Liberating Structures 🚀** 
 
 In the dynamic world of Agile and Scrum, Scrum Masters are continuously seeking innovative ways to enhance collaboration and effectiveness within their teams. 

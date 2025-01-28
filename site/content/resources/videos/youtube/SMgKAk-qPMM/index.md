@@ -46,8 +46,6 @@ resourceTypes:
 - video
 
 ---
-
-
 In the fast-paced world of Agile, it's easy to fall into the trap of doing too much. Whether it's overloading your backlog, over-refining, or over-planning, too much of anything can be a bad thing. One of the key virtues that we embrace in Agile is **temperance**—the art of taking everything in moderation.
 
 The principle of temperance reminds us that we must balance our efforts, focus on what truly matters, and avoid overcomplicating processes. This is particularly relevant when it comes to managing our backlogs and planning our sprints. In this post, we’ll dive deeper into what it means to apply temperance in Agile and share practical insights on how to strike the perfect balance in your Scrum practices.

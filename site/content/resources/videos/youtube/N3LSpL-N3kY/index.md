@@ -26,8 +26,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## The Product Owner Journey
 
 Journeying through Product Owner training and navigating the vast landscape of Product Owner courses can be daunting.

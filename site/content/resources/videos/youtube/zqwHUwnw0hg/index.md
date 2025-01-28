@@ -29,8 +29,6 @@ resourceTypes:
 - video
 
 ---
-
-
 What will you learn on the professional scrum master course?
 
 The [Professional Scrum Master](https://nkdagility.com/training/courses/professional-scrum-master-psm-live-virtual-learning-experience-with-certification/) (PSM) course has a large degree of theory relating to scrum than something like the [Applying Professional Scrum](https://nkdagility.com/training/courses/applying-professional-scrum-aps-live-virtual-learning-experience-with-certification/) (APS) course.

@@ -28,8 +28,6 @@ resourceTypes:
 - video
 
 ---
-
-
 **Worst agile advice you've ever heard?**
 
 The Worst Scrum Master's Advice -  Ever! 🚫

@@ -30,8 +30,6 @@ resourceTypes:
 - video
 
 ---
-
-
 What is the most common Aha moment people have in a scrum course?
 
 It depends on the scrum course they are attending. The content presented in the [Applying Professional Scrum](https://nkdagility.com/training/courses/applying-professional-scrum-aps-live-virtual-learning-experience-with-certification/) (APS) course leads to very different epiphanies when compared to the content presented on an [Advanced Professional Scrum Master](https://nkdagility.com/training/courses/professional-scrum-master-advanced-psm-a-training-experience-with-certification-an-advanced-scrum-master-class/) (PSM II) course.

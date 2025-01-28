@@ -36,8 +36,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## The Thin Line: Dogma vs Empiricism in Consulting Engagements
 
 In my journey, I've come to firmly grasp the undeniable truth that dogma holds no ground, especially when it comes to consulting engagements.

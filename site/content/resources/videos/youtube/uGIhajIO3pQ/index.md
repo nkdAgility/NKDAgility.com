@@ -23,8 +23,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Scotland’s Agile Revolution: What’s on the Horizon 
 
 Ah, Scotland – a land not just of captivating highlands and historical marvels but also a burgeoning hub for Agile methodologies!  

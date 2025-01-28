@@ -31,8 +31,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Escaping the Administrative Vortex: Insights for Scrum Masters - Part 2
 
 So I'm back to shed light on another prevalent issue in the world of Scrum Masters, and it's a rather eye-opening issue, which is inadvertently morphing into the team's secretary.

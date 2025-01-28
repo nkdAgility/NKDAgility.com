@@ -32,8 +32,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ### Transitioning from Traditional Project Management to Kanban
 
 **Introduction**

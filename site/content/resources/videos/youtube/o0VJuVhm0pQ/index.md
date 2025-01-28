@@ -27,8 +27,6 @@ resourceTypes:
 - video
 
 ---
-
-
 In high competition markets, how does scrum product development help acquire and retain customers?
 
 It depends.

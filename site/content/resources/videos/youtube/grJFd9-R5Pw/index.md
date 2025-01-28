@@ -28,8 +28,6 @@ resourceTypes:
 - video
 
 ---
-
-
 How does the APS course help people apply scrum effectively?
 
 The APS (Applying Professional Scrum) course helps people apply scrum effectively in a number of ways.

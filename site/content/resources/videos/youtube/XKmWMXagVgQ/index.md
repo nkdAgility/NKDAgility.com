@@ -46,8 +46,6 @@ resourceTypes:
 - video
 
 ---
-
-
 As a new product owner, you’re likely bombarded with information, advice, and endless techniques. So, where do you start? What’s the single most important thing you should focus on to ensure your success in this challenging role? The answer is simple: **continuous learning**.
 
 In this post, I’ll break down why continuous learning is the key to standing out as a product owner, the tools and techniques you should explore, and personal advice to help you maximize your potential.

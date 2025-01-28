@@ -31,8 +31,6 @@ resourceTypes:
 layout: video
 
 ---
-
-
 **What is a product backlog?**
 
 Demystifying the Product Backlog 📝

@@ -39,8 +39,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Navigating Harsh Feedback in Sprint Reviews – An Agile Approach🚀 
 
 In the Agile world, Sprint reviews are pivotal events where feedback can be a gold mine... or a minefield.  

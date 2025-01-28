@@ -46,8 +46,6 @@ resourceTypes:
 - video
 
 ---
-
-
 **Introduction to Agile Metrics: The Pitfall of Story Points and Velocity**
 
 When it comes to Agile teams, many fall into the trap of focusing on **story points** and **velocity** as key metrics for success. While they may seem helpful, they often lead to inefficiency and distraction from what truly matters—delivering value to customers.

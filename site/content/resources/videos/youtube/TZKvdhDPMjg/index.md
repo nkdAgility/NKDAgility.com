@@ -31,8 +31,6 @@ resourceTypes:
 - video
 
 ---
-
-
 **One thing a client can do to ensure a successful Agile consulting engagement**
 
 So, the first thing that comes to mind when asked this question is a one-word answer: ' provoke'.  🤔

@@ -23,8 +23,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Agile Coach vs. Professional Coach
 
 Have you ever wondered what sets an Agile Coach apart from a Professional Coach and what the crucial difference is?

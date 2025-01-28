@@ -29,8 +29,6 @@ resourceTypes:
 - video
 
 ---
-
-
 **Must have trait in an Agile Consultant**
 
 What's the one must have trait that an Agile Consultant absolutely needs? Whilst there are many important traits that are important, I’d say it has to be tenacity! 💪

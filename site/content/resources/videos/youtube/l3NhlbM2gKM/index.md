@@ -48,8 +48,6 @@ resourceTypes:
 - video
 
 ---
-
-
 # Unraveling the Story Point Myth in Scrum: A Path to Clarity 🚀
 
 Hello, Agile practitioners! Today, I'm tackling a pervasive myth that has become a common stumbling block in Scrum teams: **the Story Point Conundrum**. This myth often manifests as confusion and frustration around the use of story points, with many questioning their value and relevance in Scrum. Let's dive deep into this myth, understand its origins, and explore how we can navigate beyond it to foster more effective and meaningful Agile practices. 🌟

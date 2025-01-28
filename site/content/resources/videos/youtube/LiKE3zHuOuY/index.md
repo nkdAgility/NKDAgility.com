@@ -29,8 +29,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Scrum in a DevOps World: A Game Changer!
 
 Ever wondered about the impact of Scrum in a DevOps environment? 🎯

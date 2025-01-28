@@ -29,8 +29,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Introduction: Facilitating, Not Dictating 🕵️‍♂️ 
 
 Picture this: a Scrum Master hovering over the development team, controlling each move they make, dictating every line of code.

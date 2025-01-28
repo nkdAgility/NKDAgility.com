@@ -27,8 +27,6 @@ resourceTypes:
 - video
 
 ---
-
-
 In what circumstances is agile consulting appropriate?
 
 Agile consulting is almost always my first and favourite approach when working with customers.

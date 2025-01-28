@@ -36,8 +36,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Reinvigorating Your Scrum Team: The Agile Coach's Playbook 🚀 
 
 In the dynamic and often challenging world of Agile project management, the role of a Scrum Master or Agile coach in maintaining the motivation and effectiveness of a Scrum team is pivotal. 

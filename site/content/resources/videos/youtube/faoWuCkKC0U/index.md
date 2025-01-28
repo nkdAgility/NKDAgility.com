@@ -29,8 +29,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Step Up Your Game with the PSPO-A Course
 
 Today, I am here to share some good 'reasons' and golden insights into why enrolling in a PSPO-A course could be a game-changer for you, especially if you find yourself in the vibrant world of product management and aspire to deepen your skills therein.

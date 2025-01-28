@@ -35,8 +35,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ### Getting Started with Kanban: A Guide to Initiating Your First Kanban Pilot
 
 **Introduction**

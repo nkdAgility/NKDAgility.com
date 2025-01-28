@@ -48,8 +48,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Navigating its Limits in Agile Work Environments 
 
 Hello, Agile practitioners and enthusiasts. Today, let's chat about a well-known phrase in our professional lexicon: "Fake it till you make it." 🚀  

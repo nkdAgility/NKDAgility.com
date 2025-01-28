@@ -47,8 +47,6 @@ resourceTypes:
 - video
 
 ---
-
-
 In today's fast-paced world, organizations often struggle to find the right metrics that drive success. Whether you're a manager, product owner, Scrum Master, or CEO, the **Professional Agile Leadership - Evidence-Based Management (PAL-EBM)** class provides valuable insights into how to navigate this critical aspect of your leadership journey.
 
 From personal experience as a Scrum Trainer, I can wholeheartedly recommend the PAL-EBM class to anyone in a leadership role who is committed to steering their organization toward success. This class is not just for managers; it's for anyone in a position of influence who is seeking to understand how to use metrics effectively to foster growth and collaboration.

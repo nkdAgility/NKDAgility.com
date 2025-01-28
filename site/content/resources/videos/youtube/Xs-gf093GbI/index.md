@@ -30,8 +30,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## The essence of a Product is 'The Vision'
 
 "What is a product vision and why does it matter?"  🌟

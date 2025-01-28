@@ -27,8 +27,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## The Order of Product Backlogs
 
 In the world of Agile and Scrum, a question I often encounter is, "What does a poor product backlog look like?"

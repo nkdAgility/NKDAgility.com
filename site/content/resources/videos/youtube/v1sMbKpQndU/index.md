@@ -34,8 +34,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## The Agile Landscape: A Guide to Effective Coaching and Leadership 
 
 Agile methodologies have transformed the landscape of project management and team dynamics, emphasising adaptability, collaboration, and continuous improvement.  

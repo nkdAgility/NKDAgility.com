@@ -28,8 +28,6 @@ resourceTypes:
 - video
 
 ---
-
-
 This is a great question, although I imagine I might pick up a bit of flack because of the hordes of people who love [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) and think of him as one of the most iconic leaders of the past century.
 
 Steve is great, but in terms of **Agile leadership**, he doesn’t touch sides – in my opinion – to **Satya Nadella**. You can see the difficulty he created within [Apple](https://www.apple.com/) because all innovation, product development, and so forth stemmed from him rather than a culture of innovation that permeates throughout the organization.

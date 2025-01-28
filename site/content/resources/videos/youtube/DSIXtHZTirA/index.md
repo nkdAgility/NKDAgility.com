@@ -30,8 +30,7 @@ resourceTypes:
 - video
 
 ---
- 
- # Performance Engineering and Testing in Production: A Modern Approach | Martin Hinshelwood  
+# Performance Engineering and Testing in Production: A Modern Approach | Martin Hinshelwood  
 
   📍  📍 Naked Agility can be your partner in creating engineering excellence and technical leadership within your organization. In the last few videos we've talked about a number of different ways or things that we focus on that are part of, part of that story. We talked about that, that High cost of, of, of bad quality of mediocre product, right?
 

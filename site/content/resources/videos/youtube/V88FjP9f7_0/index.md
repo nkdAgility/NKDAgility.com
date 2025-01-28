@@ -48,8 +48,6 @@ resourceTypes:
 - video
 
 ---
-
-
 **Embracing 'Less is More' in Agile: Maximising Value, Minimising Waste 🚀🌟** 
 
 In the world of Agile and Kanban, the mantra 'less is more' isn't just a catchy phrase; it's a core principle that drives efficiency and value. The Agile Manifesto itself highlights the importance of maximising work not done, urging teams to focus on what truly adds value and to discard the superfluous. 

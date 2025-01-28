@@ -28,8 +28,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## The Joy of Being a Scrum Developer
 
 When attempting to unravel the heart of Scrum Development, now and then, I'm asked one question: "What truly drives a Scrum Developer?"

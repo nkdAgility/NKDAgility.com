@@ -32,8 +32,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ### Actively Managing Your Workflow in a Kanban Strategy
 
 **Introduction**

@@ -36,8 +36,6 @@ resourceTypes:
 - video
 
 ---
-
-
 # Rethinking Code Reviews: From Manual Checks to Pre-Reviewed Excellence
 
 Hi, I’m Martin Hinshelwood, and today I want to discuss a topic that often sparks debate: **code reviews**. Traditionally, code reviews are seen as a way to improve quality and reduce defects by having multiple people review the code before it’s merged. While this has value, as we embrace shift-left practices, there’s a new perspective to consider: **pre-reviewed code**.

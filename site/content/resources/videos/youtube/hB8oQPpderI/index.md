@@ -30,8 +30,6 @@ resourceTypes:
 - video
 
 ---
-
-
 **One limitation of reading a book vs attending a course**
 
 ## Books vs Interaction

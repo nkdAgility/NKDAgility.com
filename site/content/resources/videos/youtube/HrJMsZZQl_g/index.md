@@ -49,8 +49,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Empowering Teams with the APS Approach: Elevating Your Scrum Journey
 
 In the dynamic and ever-evolving realm of Scrum, where teams and organisations strive to harness their full potential, the Applied Professional Scrum (APS) stands out as a guiding light for authentic Scrum Mastery.  💡

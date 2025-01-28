@@ -29,8 +29,6 @@ resourceTypes:
 - video
 
 ---
-
-
 What would be an example of a great agile consulting outcome for a client?
 
 It’s an interesting question because a valuable outcome looks different for every customer.

@@ -44,8 +44,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Finding the Right Balance between Simplicity and Complexity 🧱 
 
 In our pursuit to find effective tools for Scrum training, we've pondered over various alternatives. Lego, while popular, is noticeably absent from our toolkit. This choice isn't arbitrary; it's a deliberate decision stemming from our commitment to creating a realistic and impactful learning experience. While Lego's structured simplicity may seem appealing for illustrating concepts, it often falls short in conveying the dynamic and often chaotic world of Scrum.  

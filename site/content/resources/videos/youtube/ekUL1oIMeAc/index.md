@@ -47,8 +47,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Product Owner's Misstep
 
 There's never a good time for a Scrum Team to be slanted, unsupported or left feeling surprised.  A Scrum Team is all about transparency, dependability and teamwork throughout good and bad situations.

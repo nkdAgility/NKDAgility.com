@@ -30,8 +30,6 @@ resourceTypes:
 - video
 
 ---
-
-
 **Why do you prefer agile consulting over agile coaching?**
 
 💡"Why do I gravitate towards Agile Consulting over Agile Coaching?"

@@ -30,8 +30,6 @@ resourceTypes:
 layout: video
 
 ---
-
-
 ## The Missing Piece in My Initial Scrum Journey
 
 Discovering the 'Lean' Approach Sooner 🌟

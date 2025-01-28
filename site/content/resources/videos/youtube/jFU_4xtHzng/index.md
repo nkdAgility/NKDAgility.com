@@ -29,8 +29,6 @@ resourceTypes:
 - video
 
 ---
-
-
 **Why do you think that 4 half days is a better format than 2 full days?**
 
 Unpacking the Benefits of Four Half-Days Over Two Full Days

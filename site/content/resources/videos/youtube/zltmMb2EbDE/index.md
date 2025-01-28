@@ -33,8 +33,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ### Integrating Kanban with Scrum: Enhancing Your Workflow
 
 **Introduction**

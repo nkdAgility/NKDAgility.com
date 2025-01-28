@@ -29,8 +29,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## From Practitioner to Consultant
 
 When asked how I knew I was poised for the leap from DevOps practitioner to consultant, my initial instinct and honest answer was that I didn't have a definitive 'Aha!' moment.

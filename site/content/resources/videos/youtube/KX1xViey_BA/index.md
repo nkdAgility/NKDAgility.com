@@ -48,8 +48,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## People, Systems, and Finding the Balance 
 
 Let’s dive into a historical perspective to understand our current work environments better. Let's talk about the Industrial Revolution, its focus shift from people to systems, and what it means for us in the Agile world. 🏭🌐 

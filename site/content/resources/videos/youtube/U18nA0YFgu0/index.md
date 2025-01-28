@@ -32,8 +32,6 @@ resourceTypes:
 - video
 
 ---
-
-
 **Addressing Wrath in Agile Teams: From Blame to Accountability 🌪️🛠️** 
 
 In the dynamic world of Agile, wrath often lurks in the shadows, manifesting as an intolerance for mistakes and a culture of blame. This can severely impede the growth and innovation of teams. Understanding and addressing the sin of wrath in Agile environments is crucial for fostering a culture where mistakes are seen as opportunities for learning and growth rather than as failings to be punished. 

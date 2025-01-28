@@ -29,8 +29,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Limits of Professional Coaching
 
 I often come across a compelling question: "Why is a Scrum team better served by an Agile consultant rather than a professional coach?" 🤔

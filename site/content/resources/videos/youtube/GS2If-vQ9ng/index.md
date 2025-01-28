@@ -35,8 +35,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Why Both Are Hard-Hitting but in Different Ways
 
 Have you ever thought about how Agile Training and Agile Consulting each deliver impactful results but target distinct aspects of organisational improvement?  🤔

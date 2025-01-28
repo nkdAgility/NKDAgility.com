@@ -33,8 +33,6 @@ resourceTypes:
 - video
 
 ---
-
-
 **What is Scrum?**
 
 Interpreting Scrum

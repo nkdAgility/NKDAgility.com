@@ -32,8 +32,6 @@ resourceTypes:
 - video
 
 ---
-
-
 **What are immersive training courses?**
 
 Dive into the buzz around immersive training courses with me, Martin Hinshelwood! This form of Agile training is making waves, offering a dynamic and transformative learning experience.

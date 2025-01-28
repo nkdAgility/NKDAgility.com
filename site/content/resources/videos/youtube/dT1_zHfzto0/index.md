@@ -45,8 +45,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## The Reality of Scrum Adoption 🤔  
 
 Ken Schwaber once declared that a staggering 75% of organisations utilising Scrum won't reap the benefits they anticipate.  

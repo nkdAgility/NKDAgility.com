@@ -51,8 +51,6 @@ resourceTypes:
 - video
 
 ---
-
-
 # Breaking the Silence: Sparking Engagement in Agile Teams 🚀
 
 Hello, Agile champions! Today, we delve into a critical yet often overlooked herald of the agile apocalypse: **Silence**. This eerie quietude, especially prevalent during sprint reviews, signals a deeper issue within our agile transformations. It's not just about stakeholders skipping meetings or the tumbleweed moments when feedback is solicited; it's about the profound impact of silence on the effectiveness and direction of our projects. Let's explore how we can shatter this cone of silence and foster vibrant, engaged agile environments. 🌟

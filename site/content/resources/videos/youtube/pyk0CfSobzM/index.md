@@ -49,8 +49,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Navigating the Uncertainties of Sprint Estimations in Scrum Teams
 
 Today, let's delve deep into a fascinating question which is, "How does a scrum team estimate what can be delivered in a single Sprint?"

@@ -38,8 +38,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Understanding the Dynamics of Consensus 🤔 
 
 The question of where consensus is valuable and where it impedes product development is a nuanced one. At its core, consensus means a general agreement among a group, but the journey towards that agreement can either drive success or lead to stagnation. 

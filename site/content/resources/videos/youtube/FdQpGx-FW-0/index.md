@@ -51,8 +51,6 @@ resourceTypes:
 - video
 
 ---
-
-
 # Escaping the Judgment Trap in Agile Transformation 🚀
 
 Hey there, Agile adventurers! Today, I'm tackling another harrowing harbinger of the agile apocalypse: **Judgment**. This formidable foe manifests through prescriptive, one-size-fits-all methodologies that strangle creativity and innovation. It's a world where “Thou shalt do Scrum” becomes more of a commandment than a guideline, and where deviation from the prescribed path attracts criticism rather than curiosity. Let's dive into why this mindset is detrimental and how we can pivot towards a more principle-driven approach. 🌪️

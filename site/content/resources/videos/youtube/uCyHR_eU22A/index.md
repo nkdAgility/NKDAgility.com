@@ -45,8 +45,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Navigating Sprint Backlog Selection
 
 I think it's time we decode the Sprint Backlog selection and that we take some time for a reality check when it comes to the Sprint Backlog.  ✨

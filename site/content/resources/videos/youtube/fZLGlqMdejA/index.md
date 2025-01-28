@@ -48,8 +48,6 @@ resourceTypes:
 - video
 
 ---
-
-
 **Overcoming Greed in Agile: A Path to Value and Efficiency** 
 
 In Agile environments, the concept of greed often manifests as an overwhelming focus on resource utilisation, overshadowing the core Agile principle of delivering value. 

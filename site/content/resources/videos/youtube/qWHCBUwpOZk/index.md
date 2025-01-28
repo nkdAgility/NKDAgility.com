@@ -30,8 +30,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ### Improving Your Workflow in a Kanban Strategy
 
 **Introduction**

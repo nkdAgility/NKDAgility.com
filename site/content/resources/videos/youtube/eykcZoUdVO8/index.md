@@ -26,8 +26,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Spotlight on Agile Influencers: The Simon Randell Effect
 
 Diving into Part 2 of our series on the most influential figures in Agile, I'm eager to delve deeper into our ongoing exploration of the stalwarts in the Agile world, and today, I want to focus on an individual who's been a pillar of influence for me.

@@ -29,8 +29,6 @@ resourceTypes:
 - video
 
 ---
-
-
 Sure, there are poor practices that impact **scrum teams**, but I tend to focus on the outcomes to determine whether a **scrum team** is failing or progressing.
 
 <figure>

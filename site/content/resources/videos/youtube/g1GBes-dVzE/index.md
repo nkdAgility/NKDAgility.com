@@ -35,8 +35,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Why a Deep Understanding is Non-Negotiable
 
 When I talk about the one thing that an Agile Coach must possess to truly excel, I always come back to one point: you must have a deep understanding of the processes, practices, and tools of the teams you work with.  🛠

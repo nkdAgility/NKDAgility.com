@@ -29,8 +29,6 @@ resourceTypes:
 - video
 
 ---
-
-
 How does Naked Agility select associate Scrum Trainers?
 
 A big part of the selection process is co-training with a certified, **Professional Scrum Trainer** (PST) over a variety of [scrum.org](https://www.scrum.org/) certified courses, in a variety of different applications.

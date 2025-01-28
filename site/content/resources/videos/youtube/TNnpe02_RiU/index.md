@@ -29,8 +29,6 @@ resourceTypes:
 - video
 
 ---
-
-
 **What is Your Peeve in DevOps**
 
 **Debunking DevOps Peeves**

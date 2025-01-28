@@ -29,8 +29,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## From Developer to Scrum Developer: A Journey of Continuous Learning
 
 In the tech world, the roles we embrace often define our paths, yet they can be more fluid than one might expect. 🌍

@@ -39,8 +39,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Navigating the Journey to Professionalism in the Agile World
 
 If I were to pinpoint the toughest segment in the journey of evolving into a top-notch Scrum Master, it would unequivocally be the lack of peers embracing the 'professional' aspect wholeheartedly. 💼

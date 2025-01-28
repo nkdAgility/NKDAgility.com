@@ -28,8 +28,6 @@ resourceTypes:
 - video
 
 ---
-
-
 In my opinion, it’s the whole ball game.
 
 <figure>

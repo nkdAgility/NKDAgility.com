@@ -46,8 +46,6 @@ resourceTypes:
 - video
 
 ---
-
-
 One of my favorite quotes is from the legendary Peter Drucker: **"Without theory, experience has no meaning. Without theory, one has no questions to ask. Hence, without theory, there is no learning."** This profound idea resonates deeply with my approach to immersive learning, especially in the context of **Scrum** and **Agile**.
 
 In today's fast-paced world, where information is abundant and available at our fingertips, it's easy to get caught up in endless experiences without taking the time to connect the dots. Immersive learning, especially when training Scrum Masters, is not about fire-hosing participants with endless information but about helping them ask the right questions. Through theory and experience combined, learners are better equipped to navigate the complexity of their roles and continuously improve.

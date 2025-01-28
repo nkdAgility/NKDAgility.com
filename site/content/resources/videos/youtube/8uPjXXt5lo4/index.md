@@ -26,8 +26,6 @@ resourceTypes:
 - video
 
 ---
-
-
 What is the most valuable thing you have learned through training people?
 
 I’ve learned that no matter where you are in the world, everyone faces the same primary problems.

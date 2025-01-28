@@ -32,8 +32,6 @@ resourceTypes:
 - video
 
 ---
-
-
 **Can organisations run an Applying Professional Scrum workshop? How would that help them?**
 
 Is Your Organisation Seeking Professional Agile Guidance

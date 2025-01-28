@@ -23,8 +23,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Elevating Experienced Agile Practitioners with Immersive Learning 
 
 In Agile methodologies' fast-evolving realm, immersive learning's value is increasingly evident.  

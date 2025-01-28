@@ -31,8 +31,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Why Agile Alone Isn't Enough Without DevOps Consulting 
 
 When you think of Agile, you might envision a fast-paced environment where features are delivered in a swift, iterative manner.  
