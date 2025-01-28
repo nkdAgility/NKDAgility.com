@@ -198,10 +198,10 @@ blockquote {
 blockquote::before {
   content: "\201C";
   color: #78c0a8;
-  font-size: 1.2em;
+  font-size: 2em;
   position: absolute;
   left: 10px;
-  top: -10px;
+  top: 0px;
 }
 
 blockquote::after {
