@@ -33,8 +33,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## 🚀 Demystifying the Sprint Review Workshop 
 
 In the vibrant realm of Agile development, the Sprint Review is a pivotal milestone, directing teams towards market relevance and collaborative progress.  

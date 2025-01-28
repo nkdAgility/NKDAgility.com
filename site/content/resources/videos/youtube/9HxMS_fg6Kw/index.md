@@ -29,8 +29,6 @@ resourceTypes:
 - video
 
 ---
-
-
 What are some big red flags when hiring an agile consultant?
 
 For me there are a few red flags to look out for.

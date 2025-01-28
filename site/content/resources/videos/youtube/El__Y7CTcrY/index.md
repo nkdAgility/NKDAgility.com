@@ -46,8 +46,6 @@ resourceTypes:
 - video
 
 ---
-
-
 One of the most rewarding aspects of teaching Scrum is watching students _truly_ absorb what they’re learning. But let’s be honest, traditional learning methods can sometimes feel overwhelming, especially in intensive courses. Have you ever heard the term “drinking from a fire hose”? It’s a phrase I hear often in relation to training, and I’ll admit, it’s accurate.
 
 But here’s the thing—I’ve found a better way. Let’s explore the magic of immersive learning and why **bite-sized** learning experiences make all the difference.

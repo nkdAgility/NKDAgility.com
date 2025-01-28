@@ -48,8 +48,6 @@ resourceTypes:
 - video
 
 ---
-
-
 **The Power of Purpose: How 'Start with Why' Drives Agile Success** 
 
 In the world of Agile and Scrum, the concept of starting with 'why' is pivotal. Simon Sinek's insightful exploration of this idea demonstrates its crucial role in motivating people and driving success.  

@@ -30,8 +30,6 @@ resourceTypes:
 - video
 
 ---
-
-
 Why do you think the PSU course has become so popular for product development?
 
 Because there is a gap. A massive gap.

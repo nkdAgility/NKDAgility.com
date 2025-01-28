@@ -31,8 +31,6 @@ resourceTypes:
 - video
 
 ---
-
-
 They offer very different experiences, each with their own set of unique pros and cons, but to answer the question simply, no, a live-online class is not as effective as in-person delivery.
 
 In-person delivery offers:

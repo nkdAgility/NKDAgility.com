@@ -27,8 +27,6 @@ resourceTypes:
 - video
 
 ---
-
-
 Why did so many of the early agile transformations fail?
 
 I think a better question is to ask why so many **agile transformations** fail, period, because the early **agile transformations** failed for the same reasons current agile transformations fail.

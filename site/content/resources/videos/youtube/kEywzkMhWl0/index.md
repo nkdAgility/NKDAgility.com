@@ -28,8 +28,6 @@ resourceTypes:
 - video
 
 ---
-
-
 **1 critical skill for a Scrum Master and why?**
 
 When you think of the role of a Scrum Master, I bet teaching isn't the first thing that comes to mind. Most view Scrum Masters as facilitators, project managers, or even referees. 

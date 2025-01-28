@@ -34,8 +34,6 @@ resourceTypes:
 layout: video
 
 ---
-
-
 ## Embracing the Shift: Why Immersive Learning is the Future of Professional Development 
 
 The landscape of professional development is undergoing a seismic shift, and the tremors are all about immersive learning. In a world where two-day workshops are increasingly feeling like archaic relics of a bygone era, this innovative approach is changing the game – and for good reason. 🌍💼 

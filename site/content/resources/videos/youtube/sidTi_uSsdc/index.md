@@ -24,8 +24,6 @@ resourceTypes:
 - video
 
 ---
-
-
 **Discipline versus motivation?**
 
 A Crucial Agile Debate

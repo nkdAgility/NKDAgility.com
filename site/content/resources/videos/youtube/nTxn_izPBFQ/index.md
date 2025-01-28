@@ -32,8 +32,6 @@ resourceTypes:
 - video
 
 ---
-
-
 **How good is the APSPO course in helping leaders determine product direction and Why?**
 
 For me, this is one of those questions that I have a straightforward answer: ' _Leaders_ should determine product direction because for the simple fact that any course isn't going to tell them how to do that.'

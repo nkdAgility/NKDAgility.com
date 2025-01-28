@@ -26,8 +26,6 @@ resourceTypes:
 - video
 
 ---
-
-
 **Is a scrum master an agile micromanager?**
 
 Today, let's tackle a common misconception in the Agile world that crops up often:  is a Scrum Master an Agile micromanager? 🤔

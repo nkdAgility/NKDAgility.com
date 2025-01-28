@@ -46,8 +46,6 @@ resourceTypes:
 - video
 
 ---
-
-
 When we talk about Scrum, one of the most critical elements that often gets overlooked is the **Definition of Done**. It's one of those terms that seem straightforward on the surface, but once you dig into it, there's a lot more than meets the eye. Today, we’ll explore why the Definition of Done is crucial, how it’s independent of the solution you're working on, and how it can be applied universally to different projects—whether you're developing software or running a bakery!
 
 ## **What is the Definition of Done?**

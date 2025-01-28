@@ -33,8 +33,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## The Journey to Understanding
 
 In our journey as Agile consultants, one fundamental truth remains - understanding the nuances of your customer's context is a complex yet critical endeavour.

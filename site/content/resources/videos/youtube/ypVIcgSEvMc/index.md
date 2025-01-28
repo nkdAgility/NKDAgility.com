@@ -28,8 +28,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## The DevOps Evolution: More Than a Simple Shift
 
 The path from a DevOps practitioner to a DevOps consultant is one wrapped in curiosity and complexity. It's a testament to growth, an emblem of one's desire to know more and do more.

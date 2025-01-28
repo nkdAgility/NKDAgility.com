@@ -37,8 +37,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## The APS Advantage: Exploring Professional Scrum Mastery
 
 Navigating the Scrum world, it's impossible not to acknowledge the weight of the Applied Professional Scrum (APS).  🚀

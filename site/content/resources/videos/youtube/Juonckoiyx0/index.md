@@ -36,8 +36,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Unleashing the Power of Stakeholder Engagement in Sprint Reviews 💡**🔍** 
 
 In the Agile landscape, effective stakeholder engagement during Sprint reviews can be a defining factor for success.  

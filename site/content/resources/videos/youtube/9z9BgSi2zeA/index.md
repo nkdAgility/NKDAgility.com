@@ -46,8 +46,6 @@ resourceTypes:
 - video
 
 ---
-
-
 Hiring the right Agile coach is one of the most critical decisions an organization can make on its journey to becoming more Agile. It's not just about their ability to understand Scrum or Agile frameworks—it's about their ability to deeply engage with both the technical teams and leadership. They must gain credibility in both arenas to effectively drive the transformation.
 
 In this post, we'll explore the key traits to look for when hiring an Agile coach, focusing on their ability to work with both technical staff and leadership. I'll share personal experiences, practical advice, and a few tips to help you make the right choice for your organization.

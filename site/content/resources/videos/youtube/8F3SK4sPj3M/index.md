@@ -31,8 +31,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Stepping Up Your Game as a Product Owner
 
 The Agile landscape is a vast expanse of roles, responsibilities, and possibilities and the realm of product ownership in Agile is ever-evolving.

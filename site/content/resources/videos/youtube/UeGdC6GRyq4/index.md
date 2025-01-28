@@ -30,8 +30,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## It's Your Time to Shine: Pay 30% Up Front, Balance When You Land the Job 
 
 Have you ever felt like a race car stuck in traffic? 🏎️ You've got the horsepower – the skills, the degree, maybe even the experience – but somehow, you're not zooming along the career highway as you should be. Welcome to the world of the underemployed. It's more common than you think and, boy, does it sting. 

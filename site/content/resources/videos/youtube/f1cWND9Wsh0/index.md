@@ -26,8 +26,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Debunking the Lego Approach 
 
 Let's unravel a common myth in Scrum training: Is using Lego as a teaching tool the ideal approach?  

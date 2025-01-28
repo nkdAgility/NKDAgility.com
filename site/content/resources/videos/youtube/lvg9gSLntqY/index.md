@@ -29,8 +29,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Project Management in Intricate Environments
 
 As Agile Consultants, we know that Project Management can falter in complex environments, so I wanted to spend a little time discussing _why_ traditional Project Management might not be the best fit for complex environments.

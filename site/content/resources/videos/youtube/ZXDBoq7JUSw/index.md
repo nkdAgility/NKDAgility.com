@@ -32,8 +32,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Level Up Your Game: 3 Unbeatable Reasons to Enhance Your Skills
 
 As we all navigate our paths in the ever-evolving industry landscape, I often get asked, "What are the reasons one should constantly seek to enhance their knowledge and skills?"

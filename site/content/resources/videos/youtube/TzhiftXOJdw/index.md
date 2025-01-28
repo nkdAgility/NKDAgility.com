@@ -28,8 +28,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## The Agile Imperative: How Traditional Organisations Can Embrace Change 
 
 In an era where the winds of change are ever more capricious, traditional organisations stand at a crossroads. 🌬️🛣️ The question that looms large is not just about adopting Agile methodologies but rather about how deeply they're willing to let change then percolate through their hierarchies and processes. 

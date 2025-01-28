@@ -31,8 +31,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## The Core of PSPO: Unearthing the Essence of Value
 
 Recently, I pondered a vital question, "What's the one thing that a PSPO course compels you to zone in on?"

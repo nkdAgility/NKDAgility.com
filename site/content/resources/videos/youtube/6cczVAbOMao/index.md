@@ -45,8 +45,6 @@ resourceTypes:
 layout: video
 
 ---
-
-
 ## The Pivotal Role of a Product Owner in Cultivating a Stellar Product Backlog
 
 I'd like to clarify a vital question in the Agile world, "How critical is a product owner in developing a great product backlog?".  💫

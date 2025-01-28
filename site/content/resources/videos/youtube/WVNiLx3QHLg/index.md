@@ -30,8 +30,6 @@ resourceTypes:
 - video
 
 ---
-
-
 **Why I love heirarchies of competence**
 
 ## Competence-Based Hierarchies

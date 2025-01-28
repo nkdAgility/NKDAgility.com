@@ -29,8 +29,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Unlock the Full Potential of Scrum with APS Courses
 
 I'm thrilled to bring your attention to the pivotal role an APS (Agile Professional Scrum) course can play in steering your team towards mastering Scrum practices.  🌟

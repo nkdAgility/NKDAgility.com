@@ -35,8 +35,6 @@ resourceTypes:
 layout: video
 
 ---
-
-
 #### Steering Clear of Envy in Agile: A Roadmap for Authentic Success 🗺️✨ 
 
 Agile practices are a journey of discovery and adaptation, unique to each team.

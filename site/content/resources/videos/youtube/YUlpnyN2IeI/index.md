@@ -43,8 +43,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## The Golden Nugget of Scrum Advice I've Ever Received
 
 Today, I am bringing to the table a reflective question that hovers persistently in the Scrum sphere, which is,  "What's the best Scrum advice you've ever received?" ✨

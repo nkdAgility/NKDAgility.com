@@ -33,8 +33,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Setting the Tone for Success
 
 The age-old question that many present to me is pretty simple, "What is sprint planning?"

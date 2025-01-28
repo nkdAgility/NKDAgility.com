@@ -46,8 +46,6 @@ resourceTypes:
 - video
 
 ---
-
-
 In the world of Agile, we often hear about the famous "three questions" used during the daily Scrum or retrospective sessions:
 
 - **What did I do yesterday?**

@@ -30,8 +30,6 @@ resourceTypes:
 layout: video
 
 ---
-
-
 **Momentum**
 
 Driving Force Behind Every Successful Team 🚀

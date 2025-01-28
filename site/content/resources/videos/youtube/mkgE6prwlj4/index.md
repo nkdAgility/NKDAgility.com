@@ -31,8 +31,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Spotlight on Outstanding Scrum Application
 
 What might you consider to be the best application of Scrum in the world?

@@ -31,8 +31,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Defining Roles in Agile
 
 So, from the get-go, I think it's important to set the record straight on this question 'is a Product Owner an Agile Project Manager? 🎯

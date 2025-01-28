@@ -26,8 +26,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Spotting an Ineffective Scrum Master's Day
 
 Have you ever stopped to ponder over the happenings in an ineffective Scrum Master's daily routine?

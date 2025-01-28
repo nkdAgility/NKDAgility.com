@@ -28,8 +28,6 @@ resourceTypes:
 layout: video
 
 ---
-
-
 ## Scrum Master vs. Seasoned Agile Coach: What Sets Them Apart?
 
 The Scrum Master and the Agile Coach are two roles integral to the Agile universe.

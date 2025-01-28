@@ -48,8 +48,6 @@ resourceTypes:
 layout: video
 
 ---
-
-
 # Demystifying Scrum: Beyond Meetings to Meaningful Events 🚀
 
 Hey there, Agile enthusiasts! Today, I'm tackling a pervasive myth that's been haunting the corridors of Scrum practice: **the belief that Scrum equals endless talking and not enough doing.** It's a misconception that can turn teams away from the true essence and benefits of Scrum. Let's dive into why Scrum's so-called "ceremonies" are much more than just meetings, and how each event is designed to foster empiricism and action. 🌟

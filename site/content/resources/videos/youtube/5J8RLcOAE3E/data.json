@@ -1,0 +1,77 @@
+{
+  "kind": "youtube#video",
+  "etag": "yv98Q31uJwtaRoCe5lHtwQm9hn0",
+  "id": "5J8RLcOAE3E",
+  "snippet": {
+    "publishedAt": "2025-01-23T06:30:03Z",
+    "channelId": "UCkYqhFNmhCzkefHsHS652hw",
+    "title": "Continuous Delivery Without Compromise: Why Best Practices Don’t Exist in Complex Systems",
+    "description": "In this video, I dive into a question I often get: *What are the best practices for enabling continuous delivery?* The answer may surprise you—there are no best practices in complex environments. Instead, there are *adequate practices* that must adapt to the ever-changing dynamics of your team, product, and market. Watch as I explore the philosophies and techniques that can support your organization in delivering quality software continuously while maintaining user trust and system reliability.\n\n 📚 *Chapters*  \n1. *00:00 Introduction* – Why best practices don’t exist in complex environments.  \n2. *02:15 Adequate Practices, Not Best Practices* – Adapting to your unique context.  \n3. *05:00 Audience-Based Delivery vs. Environment-Based Delivery* – Moving away from traditional Dev-Test-Staging-Production models.  \n4. *08:45 Testing in Production* – Embracing the reality of modern systems.  \n5. *11:30 Real-World Example: Azure DevOps Team* – How audience-based delivery transformed deployment.  \n6. *16:00 The Role of Telemetry in Continuous Delivery* – Monitoring, feedback, and decision-making.  \n7. *19:30 Circuit Breaker Pattern and System Resilience* – Ensuring users can work even when parts of the system fail.  \n8. *25:00 Fix It, Find It, and Fix It Again* – A philosophy for evolving automated checks.  \n9. *29:00 Final Thoughts* – Continuous improvement as a relentless pursuit.  \n\n\n 🎯 *Who This Video is For*  \n- *Engineering Teams & Leaders*: Seeking ways to support frequent, high-quality deployments.  \n- *Delivery Managers & Product Owners*: Balancing user experience with delivery speed.  \n- *CTOs & System Architects*: Adopting adaptive philosophies in system design.  \n- *Software Teams Moving to Continuous Delivery*: Transitioning to modern deployment strategies.  \n\n 🌟 *What You’ll Learn*  \n- Why best practices don’t apply to complex systems and what to use instead.  \n- How audience-based delivery models enable better testing in production.  \n- The importance of telemetry and feedback loops in continuous delivery.  \n- How the Azure DevOps team leveraged audience-based delivery and automation to evolve their systems.  \n- Why resilience patterns like the circuit breaker are critical for maintaining user trust during system failures.  \n\n 💡 *Key Takeaways*  \n- *No Best Practices*: Instead, focus on adaptable, adequate practices suited to your unique context.  \n- *Audience-Based Delivery Works*: Deploy small changes to select users and expand iteratively.  \n- *Testing in Production is Necessary*: There’s no substitute for real-world validation in complex systems.  \n- *Resilience is Key*: Implement strategies like the circuit breaker pattern to ensure continued usability.  \n- **Relentless Improvement**: Continuously update your practices and systems to support quality and stability.  \n\n 🔗 *Ready to Enable Continuous Delivery for Your Team?*  \nAt **Naked Agility**, we help organizations embrace modern practices, adopt adaptive philosophies, and deliver quality software with confidence. Visit **[www.nkdagility.com](https://www.nkdagility.com)** to learn more about how we can support your journey to continuous delivery. Let’s create systems that evolve with your needs!",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/5J8RLcOAE3E/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/5J8RLcOAE3E/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/5J8RLcOAE3E/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/5J8RLcOAE3E/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/5J8RLcOAE3E/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "naked Agility with Martin Hinshelwood.",
+    "tags": [
+      "DevOps",
+      "Deployment Frequency",
+      "Agile"
+    ],
+    "categoryId": "28",
+    "liveBroadcastContent": "none",
+    "localized": {
+      "title": "Continuous Delivery Without Compromise: Why Best Practices Don’t Exist in Complex Systems",
+      "description": "In this video, I dive into a question I often get: *What are the best practices for enabling continuous delivery?* The answer may surprise you—there are no best practices in complex environments. Instead, there are *adequate practices* that must adapt to the ever-changing dynamics of your team, product, and market. Watch as I explore the philosophies and techniques that can support your organization in delivering quality software continuously while maintaining user trust and system reliability.\n\n 📚 *Chapters*  \n1. *00:00 Introduction* – Why best practices don’t exist in complex environments.  \n2. *02:15 Adequate Practices, Not Best Practices* – Adapting to your unique context.  \n3. *05:00 Audience-Based Delivery vs. Environment-Based Delivery* – Moving away from traditional Dev-Test-Staging-Production models.  \n4. *08:45 Testing in Production* – Embracing the reality of modern systems.  \n5. *11:30 Real-World Example: Azure DevOps Team* – How audience-based delivery transformed deployment.  \n6. *16:00 The Role of Telemetry in Continuous Delivery* – Monitoring, feedback, and decision-making.  \n7. *19:30 Circuit Breaker Pattern and System Resilience* – Ensuring users can work even when parts of the system fail.  \n8. *25:00 Fix It, Find It, and Fix It Again* – A philosophy for evolving automated checks.  \n9. *29:00 Final Thoughts* – Continuous improvement as a relentless pursuit.  \n\n\n 🎯 *Who This Video is For*  \n- *Engineering Teams & Leaders*: Seeking ways to support frequent, high-quality deployments.  \n- *Delivery Managers & Product Owners*: Balancing user experience with delivery speed.  \n- *CTOs & System Architects*: Adopting adaptive philosophies in system design.  \n- *Software Teams Moving to Continuous Delivery*: Transitioning to modern deployment strategies.  \n\n 🌟 *What You’ll Learn*  \n- Why best practices don’t apply to complex systems and what to use instead.  \n- How audience-based delivery models enable better testing in production.  \n- The importance of telemetry and feedback loops in continuous delivery.  \n- How the Azure DevOps team leveraged audience-based delivery and automation to evolve their systems.  \n- Why resilience patterns like the circuit breaker are critical for maintaining user trust during system failures.  \n\n 💡 *Key Takeaways*  \n- *No Best Practices*: Instead, focus on adaptable, adequate practices suited to your unique context.  \n- *Audience-Based Delivery Works*: Deploy small changes to select users and expand iteratively.  \n- *Testing in Production is Necessary*: There’s no substitute for real-world validation in complex systems.  \n- *Resilience is Key*: Implement strategies like the circuit breaker pattern to ensure continued usability.  \n- **Relentless Improvement**: Continuously update your practices and systems to support quality and stability.  \n\n 🔗 *Ready to Enable Continuous Delivery for Your Team?*  \nAt **Naked Agility**, we help organizations embrace modern practices, adopt adaptive philosophies, and deliver quality software with confidence. Visit **[www.nkdagility.com](https://www.nkdagility.com)** to learn more about how we can support your journey to continuous delivery. Let’s create systems that evolve with your needs!"
+    },
+    "defaultAudioLanguage": "en-GB"
+  },
+  "contentDetails": {
+    "duration": "PT14M51S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular",
+    "hasCustomThumbnail": true
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false
+  },
+  "statistics": {
+    "viewCount": "31",
+    "likeCount": "1",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  }
+}

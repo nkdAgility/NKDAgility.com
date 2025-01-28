@@ -32,8 +32,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Bridging the Gap Between Developers and Product Owners 🌉 
 
 In the realm of software development, the relationship between developers and Product Owners is a critical one. Let's explore why sometimes this relationship is strained and how to mend it. 

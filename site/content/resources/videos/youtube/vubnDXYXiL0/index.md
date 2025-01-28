@@ -32,8 +32,6 @@ resourceTypes:
 - video
 
 ---
-
-
 # Tailoring Scrum to Scale: Building Your Own Framework for Success
 
 Scaling Scrum within an organization presents unique challenges and opportunities. While there is no one-size-fits-all course that teaches you how to scale Scrum, there are courses available that equip you with the tools and techniques necessary to create a scaling framework tailored to your organization's needs. This approach ensures that the framework you develop is perfectly suited to your organization’s context, products, and teams.

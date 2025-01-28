@@ -28,8 +28,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Common Comments from the PSPO Course
 
 Over the years teaching the PSPO course, I've heard one recurring sentiment from many Product Owners that goes something like this: "We don't have that kind of control."

@@ -28,8 +28,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## My Professional Scrum Trainer Legacy: What Matters Most to Me?
 
 Hello to all my Agile and Scrum enthusiasts!

@@ -48,8 +48,6 @@ resourceTypes:
 - video
 
 ---
-
-
 # Scrum and Micromanagement: Dispelling the Myth 🚀
 
 Hello, Agile advocates! Today, we're diving into a contentious topic that's sparked debate across many Scrum teams: **The Myth of Micromanagement in Scrum**. This myth perpetuates the notion that Scrum inherently fosters an environment ripe for micromanagement. However, is this truly an attribute of Scrum, or is it a manifestation of how some organizations misapply its principles? Let's unravel this myth and explore how we can cultivate genuine Agile environments that empower, rather than constrain, teams. 🌟

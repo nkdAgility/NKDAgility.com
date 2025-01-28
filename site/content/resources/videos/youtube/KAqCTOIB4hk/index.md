@@ -33,8 +33,6 @@ resourceTypes:
 - video
 
 ---
-
-
 In today's fast-paced business environment, continuous learning is not just a luxury—it's a necessity. But how do we move beyond traditional learning methods to something that truly makes an impact? Enter **immersive learning**, a game-changing approach designed to not only impart knowledge but also drive real-world application and transformation within organizations.
 
 ## **What is Immersive Learning?**

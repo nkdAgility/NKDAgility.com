@@ -29,8 +29,6 @@ resourceTypes:
 - video
 
 ---
-
-
 **What is the most interesting outcome you have achieved as an agile consultant?**
 
 ## Insights from an Agile Consultant

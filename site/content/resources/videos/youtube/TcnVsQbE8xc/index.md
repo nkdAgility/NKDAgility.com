@@ -31,8 +31,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## 🕒 Think a Minute Isn’t Much?  
 
 It’s enough to learn why the PSM II (Professional Scrum Master II) course can significantly boost your Scrum Master skills and career. 🚀 

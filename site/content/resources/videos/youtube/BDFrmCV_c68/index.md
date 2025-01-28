@@ -48,8 +48,6 @@ resourceTypes:
 - video
 
 ---
-
-
 **The Peril of Pride in Agile: A Cautionary Tale** 
 
 Pride, in moderation, fuels our drive for quality and achievement. However, in the Agile world, there's a thin line between healthy pride and its excessive, blinding counterpart.  

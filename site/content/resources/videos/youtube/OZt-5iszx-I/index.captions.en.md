@@ -1,0 +1,3 @@
+Is feedback from users turned into concrete work items for teams on timelines shorter than one month? We need to engage with our users. We need to take the feedback that they give us and turn it into something that we can actually action in a very short period of time. If we don't, then we're probably not very agile. 
+
+How long does it take for you to get feedback from your customers into your backlog, changing those work items that you're delivering so that you can deliver something else, something better, or more of the same? Maximise the value that you deliver in your product by collecting feedback from your users and doing something with it.

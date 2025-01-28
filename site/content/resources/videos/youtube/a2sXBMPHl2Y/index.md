@@ -30,8 +30,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Private Training Courses: A Game Changer for Companies?
 
 Navigating the realm of Agile and DevOps can be daunting.

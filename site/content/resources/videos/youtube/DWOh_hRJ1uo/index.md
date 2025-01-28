@@ -30,8 +30,6 @@ resourceTypes:
 - video
 
 ---
-
-
 **What is your best advice for becoming a Scrum Master outside software engineering?**
 
 I'm a Lean-Agile & DevOps Consultant at NKD Agility, and I've spent countless hours navigating the intricate pathways of the Agile world! 🌎 My journey has given me a treasure trove of insights and experiences, which I am always eager to share.

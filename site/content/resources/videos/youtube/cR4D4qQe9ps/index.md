@@ -32,8 +32,6 @@ resourceTypes:
 - video
 
 ---
-
-
 **#1 tip for a new Scrum Master**
 
 It’s Back to Basics

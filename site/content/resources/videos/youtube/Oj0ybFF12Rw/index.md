@@ -27,8 +27,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## "Don't scale scrum" - A Common Refrain 
 
 🙄 The phrase "Don't scale scrum!" is something I've heard quite frequently. 

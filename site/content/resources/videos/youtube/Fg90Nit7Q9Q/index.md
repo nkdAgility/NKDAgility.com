@@ -29,8 +29,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Bridging DevOps & Software Engineering Through Scrum! 🔥
 
 Hello Agile enthusiasts! 🌟

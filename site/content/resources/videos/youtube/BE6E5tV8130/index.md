@@ -29,8 +29,6 @@ resourceTypes:
 - video
 
 ---
-
-
 How is agile product development different to waterfall project management?
 
 Defining the difference between agile product development and waterfall project management is actually a very difficult task because most agile teams that I encounter are agile but under a waterfall project management environment.

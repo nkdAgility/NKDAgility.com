@@ -31,8 +31,6 @@ resourceTypes:
 - video
 
 ---
-
-
 When implementing a Kanban strategy, we're essentially creating a pull-based system of work. This methodology, which originated in lean manufacturing, offers teams a structured way to visualize, manage, and improve their workflow. If you're struggling with bottlenecks, work piling up, or inefficiencies in your process, Kanban might be exactly what you need.
 
 In this post, I'll dive into the three core practices of Kanban, how to define and visualize workflows effectively, and the importance of work-in-progress (WIP) limits. I’ll also share personal advice on how to overcome some common challenges teams face when implementing a Kanban strategy.

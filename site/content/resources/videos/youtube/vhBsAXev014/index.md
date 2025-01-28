@@ -51,8 +51,6 @@ resourceTypes:
 - video
 
 ---
-
-
 # Steering Through the Agile Apocalypse: Navigating Chaos 🌪️
 
 Hello, Agile navigators! Today, I dive deep into the tempest that is chaos—one of the seven ominous signs of the agile apocalypse. It’s a storm that brews in the midst of digital and agile transformations, threatening to engulf organizations in confusion and disarray. Let’s unpack this chaos, its origins, and chart a course towards clarity and coherence. ⛵

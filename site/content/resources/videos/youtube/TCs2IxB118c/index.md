@@ -30,8 +30,6 @@ resourceTypes:
 - video
 
 ---
-
-
 In today's fast-paced work environment, it's crucial to recognize that a team's morale directly impacts their engagement and, consequently, the success of the organization. When people are unhappy or disengaged, their productivity and creativity suffer. But how do we ensure our teams are not just engaged but also motivated to deliver their best work? The answer lies in understanding the core drivers of human motivation and leveraging mentorship programs to elevate team performance.
 
 ## **The Importance of Team Morale**

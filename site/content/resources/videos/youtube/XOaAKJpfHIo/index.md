@@ -27,8 +27,6 @@ resourceTypes:
 - video
 
 ---
-
-
 How important is DevOps in continuous delivery of value to customers?
 
 **DevOps** is imperative. It is exactly the same thing as **agile**, but from a different perspective.

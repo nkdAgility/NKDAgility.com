@@ -26,8 +26,6 @@ resourceTypes:
 - video
 
 ---
-
-
 2023 is predicted to be a very tough year. What do you think will be needed to win and improve?
 
 Businesses will need to be far more astute than they are now.

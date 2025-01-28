@@ -30,8 +30,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## A Tale of Expertise and Authenticity: Meet Joanna, the Agile Maestro 🚀 
 
 🤖 There's an art to mastering Scrum, and Joanna is our resident artist. Not all heroes wear capes; some wield whiteboards and possess a PhD in Robotics.  

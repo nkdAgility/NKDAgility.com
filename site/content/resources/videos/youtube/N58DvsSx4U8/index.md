@@ -27,8 +27,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## A Journey to DevOps Success
 
 I've been asked to share my favourite DevOps consulting outcome, and this question immediately led me straight down memory lane to a unique project that went from chaos to one engineering system with an exceptional client.  🎯

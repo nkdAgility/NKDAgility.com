@@ -46,8 +46,6 @@ resourceTypes:
 - video
 
 ---
-
-
 Agile transformations are often heralded as the magical solution to organizational dysfunction, promising faster delivery, happier teams, and better outcomes. However, there's a quote that resonates deeply with many Agile professionals: “There’s no such thing as an Agile transformation, it’s a cultural transformation.”
 
 But let me be honest—I half agree with this. While I support the idea that Agile transformation as a standalone concept doesn’t exist, I also disagree with the idea of a cultural transformation. Why? Because culture isn’t something you can directly change. In fact, it’s the outcome of a much deeper process.

@@ -35,8 +35,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Power of Passion
 
 One of the things that immediately stands out about Johanna's approach to the Professional Agile Leadership class is her unbridled passion. I've heard her say, more than once, that this is her favourite class to teach.  📌

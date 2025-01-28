@@ -31,8 +31,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Unpacking the Differences
 
 A newbie vs professional Scrum Master could be considered a misconception.

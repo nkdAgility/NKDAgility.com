@@ -33,8 +33,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ### Enhancing Team Predictability with Kanban: The "Applying Metrics for Predictability" Course
 
 **Introduction**

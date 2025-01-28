@@ -32,8 +32,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Unpacking Project Management
 
 Ever found yourself wondering, "What exactly is project management?" 🎯

@@ -46,8 +46,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## It's All About Direction
 
 Greetings, fellow agile enthusiasts!

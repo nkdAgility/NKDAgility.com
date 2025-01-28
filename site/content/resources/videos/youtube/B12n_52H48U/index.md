@@ -36,8 +36,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## The Role of the Product Owner: Navigating the Agile Seas 🌊 
 
 In the ever-changing waters of Agile project management, the role of a product owner is both challenging and exhilarating.  

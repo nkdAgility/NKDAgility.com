@@ -48,8 +48,6 @@ resourceTypes:
 - video
 
 ---
-
-
 **Unravelling the Lust of Agile: Why There's No Quick Fix in Transformation** 
 
 In a world where rapid market evolution is the norm, many organisations find themselves facing the 70-year itch, desperately seeking a solution in Agile transformations.  

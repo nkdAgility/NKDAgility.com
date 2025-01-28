@@ -34,8 +34,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Why Less is Always More When It Comes to WIP
 
 I'm sure most of you in the Agile world have heard the acronym WIP, which stands for 'work in progress'. 🤔

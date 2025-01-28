@@ -51,8 +51,6 @@ resourceTypes:
 - video
 
 ---
-
-
 # Navigating the Treacherous Waters of Conflict: The Second Harbinger of the Agile Apocalypse
 
 The agile journey, while transformative, is fraught with challenges, one of which is the specter of conflict. Dubbed the second harbinger of the agile apocalypse, conflict, if left unchecked, can escalate into a war-like state within organizations, undermining the very essence of agility. This exploration delves into the nature of conflict in agile environments, distinguishing between constructive disagreements that fuel innovation and destructive wars that thwart collaboration.

@@ -33,8 +33,6 @@ resourceTypes:
 layout: video
 
 ---
-
-
 ## Ascending the Leadership Ladder
 
 A recurring question I've been getting, which is both pertinent and insightful in the Agile world, is: "Why is the Professional Agile Leadership Essentials class viewed as the core evolution for a seasoned Scrum Master?"

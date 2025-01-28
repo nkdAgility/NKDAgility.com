@@ -27,8 +27,6 @@ resourceTypes:
 - video
 
 ---
-
-
 Why did you choose the Scrum.Org track rather than the Scrum Alliance track?
 
 The initial decision to go with [www.scrum.org](http://www.scrum.org) or with [www.scrumalliance.org](http://www.scrumalliance.org) wasn’t really a decision at all, I kind of fell into the scrum.org track and pursued my skills development from there.

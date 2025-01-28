@@ -48,8 +48,6 @@ resourceTypes:
 - video
 
 ---
-
-
 **Steve Jobs and the Art of Connecting Dots in Agile Environments** 
 
 In the dynamic realm of Agile practices, Steve Jobs' profound assertion, "You can't connect the dots looking forward; you can only connect them looking backwards," resonates deeply. This philosophy underscores the importance of reflective learning in Agile methodologies.  

@@ -30,8 +30,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## **The Shift from Traditional to Immersive Learning**
 
 In the world of Agile and Scrum, training is not just about passing on knowledge—it's about creating real, actionable change in organizations. Our approach has evolved significantly, from traditional two-day workshops to a more engaging and practical immersive learning format. This shift is crucial for achieving lasting transformation in organizations.

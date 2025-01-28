@@ -44,8 +44,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Confronting Complexity 
 
 In Part 2 of this exploration, we dive deeper into another pivotal reason that makes Lego a less-than-ideal tool in Scrum training.  

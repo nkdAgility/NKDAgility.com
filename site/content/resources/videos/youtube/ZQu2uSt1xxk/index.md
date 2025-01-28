@@ -32,8 +32,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ### Understanding and Applying Kanban: The Professional Kanban Course
 
 **Introduction**

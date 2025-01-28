@@ -28,8 +28,6 @@ resourceTypes:
 - video
 
 ---
-
-
 In the fast-paced world of Agile, decision-making can often feel like a daunting task. How do you know if you're on the right track? How can you ensure that your product delivers value while staying competitive? This is where **Evidence-Based Management (EBM)** comes into play. By leveraging data to drive decisions, EBM helps organizations make informed choices that align with their goals.
 
 In this blog post, we'll explore the fundamentals of Evidence-Based Management, focusing on its four key value areas, how to collect and analyze data, and how this process leads to more successful outcomes. Whether you're a Scrum Master, Product Owner, or manager, this guide will show you how EBM can elevate your decision-making process.

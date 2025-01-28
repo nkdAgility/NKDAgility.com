@@ -27,8 +27,6 @@ resourceTypes:
 - video
 
 ---
-
-
 What is Taylorism and how did it influence project management?
 
 ## Taylorism

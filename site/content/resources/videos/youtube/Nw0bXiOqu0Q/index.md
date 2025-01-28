@@ -29,8 +29,6 @@ resourceTypes:
 - video
 
 ---
-
-
 Why are recessions a great time for organizations to evaluate the opportunity of agile?
 
 I think it’s a bit deeper than simply exploring agile.

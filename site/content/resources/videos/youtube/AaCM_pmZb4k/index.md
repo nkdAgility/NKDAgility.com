@@ -28,8 +28,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Hierarchies of Competence Vs Control: Insights & Relevance
 
 Have you ever wondered about the difference between hierarchies of competence and control?

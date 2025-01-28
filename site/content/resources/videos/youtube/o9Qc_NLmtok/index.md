@@ -29,8 +29,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Immersive Learning: 8 Weeks of Deep Engagement
 
 Hey, Agile enthusiasts! 🚀

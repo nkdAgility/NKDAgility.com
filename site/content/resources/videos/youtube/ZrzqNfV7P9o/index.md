@@ -29,8 +29,6 @@ resourceTypes:
 - video
 
 ---
-
-
 In the Applying Professional Scrum (APS) with Certification classroom, the **Minecraft Campsite** case study provides the best experience for students and more connections to how they work currently. Practice Scrum in Minecraft's complex and chaotic environment to experience the high-variance world of complex product development. We use Minecraft Education Edition to bring complexity to life in a scenario everyone can experience regardless of their technical ability.
 
 ## Why use Minecraft Education?

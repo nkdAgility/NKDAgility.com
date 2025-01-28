@@ -27,8 +27,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Why Have You Decided to Go All-In on Immersive Learning Experiences? 
 
 In an era where knowledge is abundant, yet attention is scarce, traditional learning methods are losing their edge. I've taken a deep dive into the realm of immersive learning experiences because I've seen firsthand how they cultivate profound understanding and retention.  

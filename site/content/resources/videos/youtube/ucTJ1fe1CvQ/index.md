@@ -32,8 +32,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## **Why the PPDV Course Was Created**
 
 In the fast-paced world of product development, there’s a strong emphasis on delivery. Teams are often laser-focused on producing product increments at the end of every sprint. However, this approach, while essential, is not enough. **Why?** Because we’re not just delivering products; we’re solving complex problems.

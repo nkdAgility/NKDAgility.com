@@ -28,8 +28,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Bridging the Chasm: From Average to Agile Excellence in Development
 
 Today, I aim to clarify a pressing query that seems to linger persistently in the development ecosystem and has been on my mind for quite some time: "How big is the gap between an average developer and a great Agile Developer?"

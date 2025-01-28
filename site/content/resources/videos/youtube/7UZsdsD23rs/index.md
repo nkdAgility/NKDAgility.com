@@ -31,8 +31,6 @@ resourceTypes:
 layout: video
 
 ---
-
-
 ## The Keystone of Lean-Agile: Empiricism Unravelled 🧬 
 
 Have you ever wondered what fuels the vigour of the agile framework? It's a concept that may seem shrouded in the enigma of scientific complexity – Empiricism.  

@@ -46,8 +46,6 @@ resourceTypes:
 - video
 
 ---
-
-
 In order for organizations to succeed, they must cultivate trust. Trust doesn't happen overnight; it's built on the foundation of patience. Patience with people, processes, and, most importantly, patience with outcomes that may not always align with expectations.
 
 Agility is not just about speed or flexibility; it's about creating an environment where trust and empiricism can flourish. And to do that, your organization needs patience.

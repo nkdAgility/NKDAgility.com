@@ -30,8 +30,6 @@ resourceTypes:
 - video
 
 ---
-
-
 **No go zone for Agile consultants**
 
 Being an Agile Consultant Goes Beyond Being a Coach

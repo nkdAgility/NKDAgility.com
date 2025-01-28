@@ -32,8 +32,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Decoding the Role of the Product Owner
 
 A common question I often encounter is,  "What exactly is a product owner?"

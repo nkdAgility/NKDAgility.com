@@ -48,8 +48,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## The Art of Sprint Goal Creation
 
 I'm back here again to discuss another fascinating aspect of the Scrum universe, which is the Scrum team's journey in the art of creating a Sprint Goal.🎯

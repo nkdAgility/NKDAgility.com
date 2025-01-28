@@ -27,8 +27,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## The Reality of the Assessment Phase in a Consulting Engagement
 
 So, as a Scrum Master, I often find myself grappling with an intriguing question - what does the assessment phase of a consulting engagement look like?"

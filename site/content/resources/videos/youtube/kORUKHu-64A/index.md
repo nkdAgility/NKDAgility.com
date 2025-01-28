@@ -48,8 +48,6 @@ resourceTypes:
 - video
 
 ---
-
-
 # Scrum and Governance: Navigating the Balance for Agile Success 🚀
 
 Hello, Agile aficionados! Today, let's debunk a common myth that often surfaces in discussions around Scrum: **the belief that Scrum equates to a lack of governance**. This misconception suggests that embracing Scrum means throwing all forms of planning, compliance, and organizational standards out the window. However, this view couldn't be further from the truth. Let's explore the nuanced relationship between Scrum and governance and how striking the right balance can propel your Agile journey forward. 🌟

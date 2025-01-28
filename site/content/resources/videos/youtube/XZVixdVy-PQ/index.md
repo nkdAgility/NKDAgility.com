@@ -46,8 +46,6 @@ resourceTypes:
 - video
 
 ---
-
-
 There’s a quote from Ken Schwaber, one of the co-creators of Scrum, that goes:
 
 “Agile is not about rituals; it’s about developing software in a different way.”

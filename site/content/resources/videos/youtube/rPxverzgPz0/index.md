@@ -32,8 +32,6 @@ resourceTypes:
 - video
 
 ---
-
-
 **Would you recommend the APS course to a newbie scrum team, and Why?**
 
 Why the APS Course is a Must for Newbie Scrum Teams

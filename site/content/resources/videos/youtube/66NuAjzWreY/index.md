@@ -28,8 +28,6 @@ resourceTypes:
 layout: video
 
 ---
-
-
 ## **What is Evidence-Based Management?**
 
 **Evidence-Based Management (EBM)** is the strategic use of data to inform decision-making processes at both the strategic and tactical levels of an organization. It’s about using data as a guide—not a dictator—to shape behaviors and drive outcomes that benefit your business.

@@ -36,8 +36,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Reflecting on Scrum's Mirror  
 
 There's an old adage often echoed by agile enthusiasts: Scrum is like a mirror. But what does this mirror reveal?  

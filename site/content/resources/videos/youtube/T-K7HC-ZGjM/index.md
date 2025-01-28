@@ -35,8 +35,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Interpreting the Sprint Backlog
 
 One of the most common inquiries I encounter is, "What is a Sprint Backlog?"  📝

@@ -51,8 +51,6 @@ resourceTypes:
 - video
 
 ---
-
-
 # Conquering Famine in Agile Organizations: A Blueprint for Success 🚀
 
 Hello, Agile enthusiasts! Today, I'm diving into a topic that resonates deeply with many of us in the Agile world—famine. No, not the kind you're thinking of, but rather the scarcity of essential resources within organizations that hampers our journey to success. This famine manifests through a lack of tools, trust, training, and sometimes, the financial backing necessary to propel our teams and products forward. 🌪️

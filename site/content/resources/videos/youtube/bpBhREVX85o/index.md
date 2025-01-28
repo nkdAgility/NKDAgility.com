@@ -28,8 +28,6 @@ resourceTypes:
 - video
 
 ---
-
-
 How does scrum help leadership teams pick the most valuable work to focus on?
 
 It doesn’t.

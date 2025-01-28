@@ -28,8 +28,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## DevOps & Agile: Two Sides of the Same Coin 🪙
 
 Have you ever been curious about how DevOps and Agile integrate and truly mesh?"

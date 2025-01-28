@@ -28,8 +28,6 @@ resourceTypes:
 layout: video
 
 ---
-
-
 Are we collectively ascending the slope of enlightenment, or are we still mired in the trough of disillusionment?  
 
 This question echoes across the corridors of enterprises attempting to decode the Agile enigma. 🧗‍♂️🤔 

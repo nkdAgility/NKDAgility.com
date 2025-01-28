@@ -30,8 +30,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## "But in the Real World..."
 
 I've been guiding numerous students through the nuances of PSM 1, and there's a recurring phrase I often hear, which is, "But in the real world..." 🌍

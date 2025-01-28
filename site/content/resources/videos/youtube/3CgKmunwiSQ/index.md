@@ -33,8 +33,6 @@ resourceTypes:
 layout: video
 
 ---
-
-
 ## **What Is Traditional Management?**
 
 Traditional management is a term often used to describe the approach many managers have used for decades, if not centuries. While the term "traditional" might seem outdated, it's a method that many still rely on. In essence, traditional management practices are:

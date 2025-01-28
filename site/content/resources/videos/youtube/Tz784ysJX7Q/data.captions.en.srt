@@ -1,0 +1,737 @@
+1
+00:00:00,040 --> 00:00:06,839
+so one of the questions I often get is
+
+2
+00:00:04,200 --> 00:00:09,120
+how how do we potentially as delivery
+
+3
+00:00:06,839 --> 00:00:11,120
+managers how do we balance the
+
+4
+00:00:09,120 --> 00:00:13,519
+difference between speed and
+
+5
+00:00:11,120 --> 00:00:16,320
+stability right when you're under
+
+6
+00:00:13,519 --> 00:00:19,039
+pressure for tight tight
+
+7
+00:00:16,320 --> 00:00:20,600
+deadlights and I'd assert that there's a
+
+8
+00:00:19,039 --> 00:00:21,519
+there's there's a fundamental problem
+
+9
+00:00:20,600 --> 00:00:24,080
+with the
+
+10
+00:00:21,519 --> 00:00:26,560
+question and that's that we're under
+
+11
+00:00:24,080 --> 00:00:31,399
+tight why are we under tight deadlines
+
+12
+00:00:26,560 --> 00:00:33,520
+we tend to be cuz let's be honest
+
+13
+00:00:31,399 --> 00:00:35,480
+most
+
+14
+00:00:33,520 --> 00:00:38,800
+deadlines
+
+15
+00:00:35,480 --> 00:00:42,399
+exist because people don't believe you
+
+16
+00:00:38,800 --> 00:00:44,320
+can meet them that's why a deadline this
+
+17
+00:00:42,399 --> 00:00:45,840
+this is the ridiculous thing about about
+
+18
+00:00:44,320 --> 00:00:49,079
+about
+
+19
+00:00:45,840 --> 00:00:51,800
+deadlines so there are some deadlines
+
+20
+00:00:49,079 --> 00:00:53,920
+which are they're not even real
+
+21
+00:00:51,800 --> 00:00:57,079
+deadlines that that are coming the
+
+22
+00:00:53,920 --> 00:01:00,160
+external deadlines right so let's say
+
+23
+00:00:57,079 --> 00:01:01,840
+you've got a a a a business you're
+
+24
+00:01:00,160 --> 00:01:04,000
+something within the context of let's
+
+25
+00:01:01,840 --> 00:01:05,640
+say a regulated thing something's
+
+26
+00:01:04,000 --> 00:01:07,400
+regulated by the government the
+
+27
+00:01:05,640 --> 00:01:09,560
+government brings in a new
+
+28
+00:01:07,400 --> 00:01:12,119
+rule and your software does not
+
+29
+00:01:09,560 --> 00:01:15,360
+currently comply with that rule and the
+
+30
+00:01:12,119 --> 00:01:18,000
+government says by this date if you
+
+31
+00:01:15,360 --> 00:01:20,560
+don't have compliance we're going to
+
+32
+00:01:18,000 --> 00:01:26,040
+start finding you x amount of money for
+
+33
+00:01:20,560 --> 00:01:30,960
+every day that you're not compliant
+
+34
+00:01:26,040 --> 00:01:32,880
+right that that for many businesses
+
+35
+00:01:30,960 --> 00:01:35,759
+they would decide that that's just an
+
+36
+00:01:32,880 --> 00:01:37,640
+absolute deadline but the reality is
+
+37
+00:01:35,759 --> 00:01:41,000
+that's not even an absolute deadline
+
+38
+00:01:37,640 --> 00:01:42,759
+either we can pay the fine right we can
+
+39
+00:01:41,000 --> 00:01:45,159
+pay the fine how much is it going to
+
+40
+00:01:42,759 --> 00:01:47,759
+cost to build a
+
+41
+00:01:45,159 --> 00:01:50,240
+feature how long is it going to
+
+42
+00:01:47,759 --> 00:01:53,640
+take and what are the
+
+43
+00:01:50,240 --> 00:01:56,840
+implications of trying to
+
+44
+00:01:53,640 --> 00:01:59,399
+push for that feature to come out faster
+
+45
+00:01:56,840 --> 00:02:00,880
+than we are able to deliver that feature
+
+46
+00:01:59,399 --> 00:02:02,119
+right
+
+47
+00:02:00,880 --> 00:02:03,640
+people are going to start tripping over
+
+48
+00:02:02,119 --> 00:02:05,880
+their feet if we start pushing them too
+
+49
+00:02:03,640 --> 00:02:07,000
+hard they're going to fall in their face
+
+50
+00:02:05,880 --> 00:02:09,000
+and if they fall in their face the
+
+51
+00:02:07,000 --> 00:02:11,560
+software is going to fall in its vase
+
+52
+00:02:09,000 --> 00:02:14,920
+what's the impact of that on our brand
+
+53
+00:02:11,560 --> 00:02:18,560
+and our business and is it worth the
+
+54
+00:02:14,920 --> 00:02:21,000
+fine normally the find's a lot smaller
+
+55
+00:02:18,560 --> 00:02:22,680
+than the cost implications of going too
+
+56
+00:02:21,000 --> 00:02:25,800
+fast
+
+57
+00:02:22,680 --> 00:02:28,400
+so longterm you're probably not wanting
+
+58
+00:02:25,800 --> 00:02:30,239
+to pay all those fines right but
+
+59
+00:02:28,400 --> 00:02:31,720
+shortterm
+
+60
+00:02:30,239 --> 00:02:34,239
+you need to build the feature in the
+
+61
+00:02:31,720 --> 00:02:36,840
+right way with the right capabilities um
+
+62
+00:02:34,239 --> 00:02:39,319
+with the right level of quality
+
+63
+00:02:36,840 --> 00:02:41,920
+otherwise you're going to start
+
+64
+00:02:39,319 --> 00:02:43,519
+eroding your customers's confidence in
+
+65
+00:02:41,920 --> 00:02:48,319
+your product you're going to start
+
+66
+00:02:43,519 --> 00:02:50,360
+eroding the the the the brand awareness
+
+67
+00:02:48,319 --> 00:02:52,760
+the your brand of your company this this
+
+68
+00:02:50,360 --> 00:02:56,120
+is not okay right it's not okay to ship
+
+69
+00:02:52,760 --> 00:02:58,720
+poor quality um unstable product under
+
+70
+00:02:56,120 --> 00:03:00,440
+any almost any circumstances the only
+
+71
+00:02:58,720 --> 00:03:03,040
+circumstance I can think
+
+72
+00:03:00,440 --> 00:03:05,480
+even even even so the circumstance I
+
+73
+00:03:03,040 --> 00:03:07,480
+think about is our company will go out
+
+74
+00:03:05,480 --> 00:03:09,879
+of business next week if we don't have
+
+75
+00:03:07,480 --> 00:03:11,480
+this feature I think that's totally
+
+76
+00:03:09,879 --> 00:03:14,120
+arbitrary but I've heard I've heard that
+
+77
+00:03:11,480 --> 00:03:15,879
+one but if we ship that feature and we
+
+78
+00:03:14,120 --> 00:03:18,640
+have that feature but it doesn't work
+
+79
+00:03:15,879 --> 00:03:20,840
+properly and it's buggy is that actually
+
+80
+00:03:18,640 --> 00:03:23,120
+going to help us right is that actually
+
+81
+00:03:20,840 --> 00:03:26,120
+going to help us stay in business I I I
+
+82
+00:03:23,120 --> 00:03:28,879
+would be jub as to as to that maybe we
+
+83
+00:03:26,120 --> 00:03:31,400
+can try and hide it a good example of of
+
+84
+00:03:28,879 --> 00:03:35,000
+that being successful is is zoom during
+
+85
+00:03:31,400 --> 00:03:37,000
+the pandemic right they and they they
+
+86
+00:03:35,000 --> 00:03:38,480
+they succeeded I actually don't
+
+87
+00:03:37,000 --> 00:03:40,599
+understand why they didn't get more crap
+
+88
+00:03:38,480 --> 00:03:43,439
+for it but what they what they what they
+
+89
+00:03:40,599 --> 00:03:44,720
+did was when the pandemic happened and
+
+90
+00:03:43,439 --> 00:03:47,560
+everybody started working from home
+
+91
+00:03:44,720 --> 00:03:49,080
+their user base massively multiplied
+
+92
+00:03:47,560 --> 00:03:51,599
+right very very quickly massively
+
+93
+00:03:49,080 --> 00:03:53,760
+multiplied and what they found was that
+
+94
+00:03:51,599 --> 00:03:55,840
+they couldn't they just could their
+
+95
+00:03:53,760 --> 00:04:00,079
+systems could not support that number of
+
+96
+00:03:55,840 --> 00:04:02,760
+users but if you start capping users
+
+97
+00:04:00,079 --> 00:04:05,000
+right and saying to people no we can't
+
+98
+00:04:02,760 --> 00:04:06,079
+have another user on the system they're
+
+99
+00:04:05,000 --> 00:04:07,239
+going to go somewhere else they're going
+
+100
+00:04:06,079 --> 00:04:09,200
+to go to your competitors they're going
+
+101
+00:04:07,239 --> 00:04:11,720
+to go to teams they're going to go to
+
+102
+00:04:09,200 --> 00:04:16,079
+WebEx they're going to go to somebody
+
+103
+00:04:11,720 --> 00:04:19,479
+else so you don't want to do that right
+
+104
+00:04:16,079 --> 00:04:22,440
+good business practice is sorry what
+
+105
+00:04:19,479 --> 00:04:25,000
+good that's one of those could be either
+
+106
+00:04:22,440 --> 00:04:27,199
+way um moral and ethical business
+
+107
+00:04:25,000 --> 00:04:29,720
+practice would have you either cap the
+
+108
+00:04:27,199 --> 00:04:31,680
+number of users until you can um
+
+109
+00:04:29,720 --> 00:04:34,160
+increase capacity and bring on bring on
+
+110
+00:04:31,680 --> 00:04:37,160
+more more people bring on more
+
+111
+00:04:34,160 --> 00:04:41,400
+capability right but Zoom chose a
+
+112
+00:04:37,160 --> 00:04:43,199
+different route they decided that
+
+113
+00:04:41,400 --> 00:04:45,720
+maintaining that user curve and
+
+114
+00:04:43,199 --> 00:04:48,240
+supporting it was more important so they
+
+115
+00:04:45,720 --> 00:04:50,360
+started
+
+116
+00:04:48,240 --> 00:04:54,759
+systematically building features more
+
+117
+00:04:50,360 --> 00:04:57,720
+quickly at lower quality they started
+
+118
+00:04:54,759 --> 00:04:59,960
+ignoring security concerns cuz security
+
+119
+00:04:57,720 --> 00:05:02,520
+is a lot of your cost right for building
+
+120
+00:04:59,960 --> 00:05:04,320
+stuff validating and checking so let's
+
+121
+00:05:02,520 --> 00:05:07,280
+not let's cut all of that and then we
+
+122
+00:05:04,320 --> 00:05:10,800
+can we can build more stuff and they
+
+123
+00:05:07,280 --> 00:05:13,440
+deliberately turned off
+
+124
+00:05:10,800 --> 00:05:16,199
+encryption so Zoom one of zoom's selling
+
+125
+00:05:13,440 --> 00:05:20,160
+points was end to endend encryption of
+
+126
+00:05:16,199 --> 00:05:24,280
+of Cs but into encryption adds about 40%
+
+127
+00:05:20,160 --> 00:05:26,840
+load I I'm just ballparking that I'm
+
+128
+00:05:24,280 --> 00:05:29,800
+sure there's all sorts of variations
+
+129
+00:05:26,840 --> 00:05:32,520
+there but 40% load so they can
+
+130
+00:05:29,800 --> 00:05:34,240
+immediately have 40% more users stable
+
+131
+00:05:32,520 --> 00:05:36,120
+on the system by turning off
+
+132
+00:05:34,240 --> 00:05:37,800
+encryption but they didn't want to turn
+
+133
+00:05:36,120 --> 00:05:39,199
+off encryption and tell their users they
+
+134
+00:05:37,800 --> 00:05:40,680
+were turning off encryption because that
+
+135
+00:05:39,199 --> 00:05:42,759
+was a huge selling point for the product
+
+136
+00:05:40,680 --> 00:05:44,840
+having encryption and what would
+
+137
+00:05:42,759 --> 00:05:46,880
+existing users do if they were told that
+
+138
+00:05:44,840 --> 00:05:50,199
+it was encrypted so there was a little
+
+139
+00:05:46,880 --> 00:05:51,720
+green light in the corner of zoom and it
+
+140
+00:05:50,199 --> 00:05:53,960
+was the encryption light and it would go
+
+141
+00:05:51,720 --> 00:05:55,800
+green uh when the communication was
+
+142
+00:05:53,960 --> 00:05:57,080
+encrypted they turned off the encryption
+
+143
+00:05:55,800 --> 00:06:00,360
+but they changed the code so the light
+
+144
+00:05:57,080 --> 00:06:02,240
+continued to be green right that's
+
+145
+00:06:00,360 --> 00:06:05,560
+that's that's a reduction in quality
+
+146
+00:06:02,240 --> 00:06:08,039
+that's a massive massive business risk
+
+147
+00:06:05,560 --> 00:06:10,240
+and they were caught and that had a
+
+148
+00:06:08,039 --> 00:06:11,919
+massive impact to to their brand
+
+149
+00:06:10,240 --> 00:06:14,479
+awareness and a massive impact to their
+
+150
+00:06:11,919 --> 00:06:17,599
+business there are still companies today
+
+151
+00:06:14,479 --> 00:06:19,240
+that have zoom blocked as a product
+
+152
+00:06:17,599 --> 00:06:21,319
+within their organizational Network that
+
+153
+00:06:19,240 --> 00:06:23,520
+they will not allow it to be used and
+
+154
+00:06:21,319 --> 00:06:26,240
+it's because of
+
+155
+00:06:23,520 --> 00:06:28,720
+that moral and ethical decision that was
+
+156
+00:06:26,240 --> 00:06:34,319
+made at senior levels of that
+
+157
+00:06:28,720 --> 00:06:37,800
+organization to to reduce quality reduce
+
+158
+00:06:34,319 --> 00:06:40,759
+stability of of features that users
+
+159
+00:06:37,800 --> 00:06:42,039
+expected to work effectively they did
+
+160
+00:06:40,759 --> 00:06:44,440
+they were even worse they kind of lied
+
+161
+00:06:42,039 --> 00:06:47,639
+it's kind of like the the Volkswagen
+
+162
+00:06:44,440 --> 00:06:51,400
+Scandal a little bit right and except I
+
+163
+00:06:47,639 --> 00:06:54,639
+don't think anybody died but
+
+164
+00:06:51,400 --> 00:06:58,520
+don't reduce
+
+165
+00:06:54,639 --> 00:07:01,599
+quality in order to ship features
+
+166
+00:06:58,520 --> 00:07:04,120
+quicker it has an impact and it has
+
+167
+00:07:01,599 --> 00:07:06,479
+because we're building complex systems
+
+168
+00:07:04,120 --> 00:07:09,720
+it often has an impact you're not
+
+169
+00:07:06,479 --> 00:07:12,800
+expecting it often pushes you into a
+
+170
+00:07:09,720 --> 00:07:15,160
+corner and you're then left with those
+
+171
+00:07:12,800 --> 00:07:17,479
+moral and ethical decisions and you have
+
+172
+00:07:15,160 --> 00:07:20,240
+to go a particular way one's going to
+
+173
+00:07:17,479 --> 00:07:22,160
+suck and one's going to be nefarious and
+
+174
+00:07:20,240 --> 00:07:24,720
+quite often we as humans pick the
+
+175
+00:07:22,160 --> 00:07:27,199
+nefarious one because it's easier
+
+176
+00:07:24,720 --> 00:07:29,560
+cheaper more manageable in order to do
+
+177
+00:07:27,199 --> 00:07:31,280
+that so how do you strike a balance
+
+178
+00:07:29,560 --> 00:07:33,400
+between speed and
+
+179
+00:07:31,280 --> 00:07:36,319
+stability stability is more important
+
+180
+00:07:33,400 --> 00:07:39,879
+than speed much much much more important
+
+181
+00:07:36,319 --> 00:07:42,240
+than speed stability and quality is much
+
+182
+00:07:39,879 --> 00:07:45,199
+more important to than speed pay the
+
+183
+00:07:42,240 --> 00:07:50,159
+fine if you have to pay the fine but do
+
+184
+00:07:45,199 --> 00:07:50,159
+things well and do things properly
+
+

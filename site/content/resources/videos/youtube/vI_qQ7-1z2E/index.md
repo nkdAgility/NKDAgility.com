@@ -30,8 +30,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ## Beyond Certification: A Deeper Dive Into the PSM II Course
 
 Again, I'm answering a commonly asked question: ' Is the PSM II course (Professional Scrum Master II) simply a validation of your skills, or does it help to develop your abilities and competencies as a Scrum Master?'

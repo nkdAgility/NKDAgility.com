@@ -32,8 +32,6 @@ resourceTypes:
 - video
 
 ---
-
-
 ### Avoiding Common Mistakes in Your Kanban Strategy
 
 **Introduction**

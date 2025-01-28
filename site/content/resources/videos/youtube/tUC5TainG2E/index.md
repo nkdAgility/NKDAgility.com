@@ -28,8 +28,6 @@ resourceTypes:
 - video
 
 ---
-
-
 Many of you have asked,  "How did I become the third Scrum training provider for Microsoft?"
 
 One thing is for sure: I can say it's been a journey deeply rooted in building relationships and continually developing expertise.
