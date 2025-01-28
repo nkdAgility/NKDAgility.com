@@ -6,6 +6,8 @@ creator: Martin Hinshelwood
 contributors:
   - name: Ryan Ripley
     external: https://www.linkedin.com/in/ryanripley
+  - name: Elle Anderson
+    external: http://www.linkedin.com/in/anderelle
 layout: blog
 resourceTypes: blog
 slug: the-scrum-master-is-accountable-for-delivery
@@ -30,9 +32,11 @@ The success of a Scrum Team begins with their accountability for delivering a us
 
 Effectiveness is More Than Delivery, but Delivery is a Minimum.
 
+> "Let the record show that I believe if you’re in the kind of org that will still fund scrum masters despite a long in the tooth scrum adoption, then you bet your ass the scrum master is accountable for delivery. And that’s because they should be facilitating the aha moments required of the team to address things like capacity understanding and level setting with product and stakeholders when goals are just too big or infeasible." - Elle
+
 ### **The accountability of the Scrum Master for delivery**
 
-At the heart of this process lies the Scrum Master, who holds a pivotal accountability: enabling an environment where delivery becomes not just possible but inevitable. This accountability isn’t about executing the work but ensuring the team has the resources, strategies, and support needed to thrive.
+At the heart of this framework lies the Scrum Master, who holds a pivotal accountability: enabling an environment where delivery becomes not just possible but inevitable. This accountability isn’t about executing the work but ensuring the team has the resources, strategies, and support needed to thrive.
 
 The Scrum Master is accountable for the effectiveness of the Scrum Team, and to achieve that, they need to have a level of authority that fits the context of the Scrum Team and the organisation. Ideally, they can pursue this accountability using influence and leadership, but in many organisations, this is impossible without an appropriate level of authority.
 
