@@ -10,6 +10,8 @@ contributors:
     external: http://www.linkedin.com/in/anderelle
   - name: Sathpal Singh
     external: https://www.linkedin.com/in/sathpal/
+  - name: Ralph Jocham
+    external: https://www.linkedin.com/in/ralphjocham/
 layout: blog
 resourceTypes: blog
 slug: the-scrum-master-is-accountable-for-delivery
