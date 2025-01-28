@@ -3,43 +3,33 @@ title: Hiring a Professional Scrum Master
 description: Discover essential insights for hiring a Scrum Master. Learn key skills, certifications, and role expectations to find the perfect fit for your team.
 date: 2021-03-15
 creator: Martin Hinshelwood
-id: "46053"
 layout: blog
 resourceTypes: blog
 slug: hiring-a-professional-scrum-master
 aliases:
-- /blog/hiring-a-professional-scrum-master
-- /hiring-a-professional-scrum-master
+  - /blog/hiring-a-professional-scrum-master
+  - /hiring-a-professional-scrum-master
 tags:
-- featured
-- scrum-master
-- scrum-masters
+  - scrum-master
+  - scrum-masters
 categories:
-- news-and-reviews
-- people-and-process
+  - news-and-reviews
+  - people-and-process
 preview: Wide-screen-scrum-master-3-3.jpg
-
 ---
+
 One of my customers is hiring for the Scrum Master Role and asked if I had a handy-dandy Scrum Master Job Spec that they could use. I did not, but there have been a few good ones floating around in the ether so I thought that pulling one together would be a good idea anyway. Here is my best effort to use the existing job postings, and combine them with the latest version of the Scrum Guide.
 
 <figure>
-
 ![](images/Wide-screen-scrum-master-1280x720-2-2.jpg)
 { .post-img }
-
-<figcaption>
-
-Professional Scrum Master
-
-</figcaption>
-
-</figure>
+<figcaption>Professional Scrum Master</figcaption></figure>
 
 ## Hiring a Professional Scrum Master
 
 The Scrum Master is a challenging position to hire for and finding the right person is even more difficult. Ultimately the Scrum Master is accountable for the effectiveness of the Scrum Team. That means that they need to have some level of knowledge of both the relevant business domain to help the Product Owner, as well as enough technical knowledge to help the Scrum Team.
 
-- [Are technical skills required to be a Scrum Master?](https://nkdagility.com/blog/are-technical-skills-required-to-be-a-scrum-master/)
+- [Are technical skills required to be a Scrum Master?]({{< ref "/resources/blog/2019/2019-09-01-are-technical-skills-required-to-be-a-scrum-master" >}})
 
 While there is no need for a Scrum Master to be technical, they do need to understand what effective looks like within the product and the technical domain within which you are creating the product. Ultimately it's worth remembering that certification is not an indication of competence, but may be used as a simple bar to reduce the load on interviews and assert a minimum level of knowledge. At $200 for a PSM I assessment and $250 for the PSM II assessment, and with a reputation in the industry of not being totally easy, these are a no-brainer for any aspiring or experienced Scrum Master. At the time of writing there are more than [350k people with PSM I and 11k people with PSM II](https://www.scrum.org/professional-scrum-certifications/count).
 
@@ -48,7 +38,7 @@ While there is no need for a Scrum Master to be technical, they do need to under
 
 ## A Scrum Master Job Spec
 
-The [Scrum Master](https://nkdagility.com/training/audiences/scrum-masters/) is accountable for establishing Scrum as defined in the Scrum Guide. They do this by helping everyone understand Scrum theory and practice, both within the [Scrum Team](https://nkdagility.com/training/audiences/teams/) and the organization. The [Scrum Master](https://nkdagility.com/training/audiences/scrum-masters/) is accountable for the [Scrum Team](https://nkdagility.com/training/audiences/teams/)’s effectiveness. They do this by enabling the [Scrum Team](https://nkdagility.com/training/audiences/teams/) to improve its practices, within the Scrum framework. [Scrum Masters](https://nkdagility.com/training/audiences/scrum-masters/) are true leaders who serve the [Scrum Team](https://nkdagility.com/training/audiences/teams/) and the larger organization.
+The [Scrum Master]({{< ref "/delivery-audiences/lean-agile-practitioners" >}}) is accountable for establishing Scrum as defined in the Scrum Guide. They do this by helping everyone understand Scrum theory and practice, both within the [Scrum Team]({{< ref "/delivery-audiences/teams" >}}) and the organization. The [Scrum Master]({{< ref "/delivery-audiences/lean-agile-practitioners" >}}) is accountable for the [Scrum Team]({{< ref "/delivery-audiences/teams" >}})’s effectiveness. They do this by enabling the [Scrum Team]({{< ref "/delivery-audiences/teams" >}}) to improve its practices, within the Scrum framework. [Scrum Masters]({{< ref "/delivery-audiences/lean-agile-practitioners" >}}) are true leaders who serve the [Scrum Team]({{< ref "/delivery-audiences/teams" >}}) and the larger organization.
 
 ### Role Summary
 
@@ -62,9 +52,9 @@ This Scrum Master position is a leadership role that is accountable for the effe
 
 - Coaching the team members in self-management and cross-functionality;
 
-- Helping the [Scrum Team](https://nkdagility.com/training/audiences/teams/) focus on creating high-value Increments that meet the Definition of Done;
+- Helping the [Scrum Team]({{< ref "/delivery-audiences/teams" >}}) focus on creating high-value Increments that meet the Definition of Done;
 
-- Causing the removal of impediments to the [Scrum Team](https://nkdagility.com/training/audiences/teams/)’s progress;
+- Causing the removal of impediments to the [Scrum Team]({{< ref "/delivery-audiences/teams" >}})’s progress;
 
 - Ensuring that all Scrum events take place and are positive, productive, and kept within the timebox.
 
@@ -125,7 +115,5 @@ If the Scrum Master is successful then the Scrum Team will have the following ch
 Sources:
 
 - [Scrum Guide | Scrum Guides](https://scrumguides.org/scrum-guide.html#scrum-master)
-
 - [Scrum Master job description | Scrum.org](https://www.scrum.org/forum/scrum-forum/5366/scrum-master-job-description)
-
 - [Scrum Master job description - The Ultimate Description (luis-goncalves.com)](https://luis-goncalves.com/scrum-master-job-description/)

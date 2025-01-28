@@ -1,186 +1,266 @@
 /* Define branding color variables */
 :root {
-    --primary-color: #713183; /* Primary branding color */
-    --primary-color-light: #dbb0e6; /* Primary branding color */
-    --secondary-color: #007acc; /* Secondary branding color */
-    --secondary-color-light: #9fd2f4; /* Secondary branding color */
-    --accent-color: #e37f01; /* Accent color */
-    --accent-color-light: #ffcd35; /* Accent color */
-    --background-color: #ecf0f1; /* Background color */
-    --primary-color-text: #ffffff; /* Primary text color */
-  }
-
-  body {
-    font-family: 'Calibri', 'Open Sans', sans-serif;
-    font-size: clamp(0.8rem, 1vw + 1rem, 1.2rem);
-    line-height: 1.6;
-  }
-
-
-h1, h2, h3, h4, h5, h6 {
-    color: var(--primary-color);
-  }
-
-/* More specific selector */
-.nkd-heading-primary-light h1, .nkd-heading-primary-light h2, .nkd-heading-primary-light h3, .nkd-heading-primary-light h4, .nkd-heading-primary-light h5, .nkd-heading-primary-light h6 {
-    color: whitesmoke;
+  --primary-color: #713183; /* Primary branding color */
+  --primary-color-light: #dbb0e6; /* Primary branding color */
+  --secondary-color: #007acc; /* Secondary branding color */
+  --secondary-color-light: #9fd2f4; /* Secondary branding color */
+  --accent-color: #e37f01; /* Accent color */
+  --accent-color-light: #ffcd35; /* Accent color */
+  --background-color: #ecf0f1; /* Background color */
+  --primary-color-text: #ffffff; /* Primary text color */
 }
 
+body {
+  font-family: "Calibri", "Open Sans", sans-serif;
+  font-size: clamp(0.8rem, 1vw + 1rem, 1.2rem);
+  line-height: 1.6;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--primary-color);
+}
+
+/* More specific selector */
+.nkd-heading-primary-light h1,
+.nkd-heading-primary-light h2,
+.nkd-heading-primary-light h3,
+.nkd-heading-primary-light h4,
+.nkd-heading-primary-light h5,
+.nkd-heading-primary-light h6 {
+  color: whitesmoke;
+}
 
 .nkda-heading-primary {
-    color: var(--primary-color);
-    font-size: clamp(1rem, 4vw + 1rem, 2.5rem);
+  color: var(--primary-color);
+  font-size: clamp(1rem, 4vw + 1rem, 2.5rem);
 }
 
 .nkda-heading-primary-content {
-    font-size: clamp(0.8rem, 2vw + 1rem, 1.2rem);
+  font-size: clamp(0.8rem, 2vw + 1rem, 1.2rem);
 }
 
 .nkda-heading-secondary {
-    color: initial;
-    font-size: clamp(0.8rem, 2vw + 1rem, 1.2rem);
+  color: initial;
+  font-size: clamp(0.8rem, 2vw + 1rem, 1.2rem);
 }
 
-.mainContainer
-{
-    max-width: 1768px;
-    margin-left: auto;
-    margin-right: auto;
+.mainContainer {
+  max-width: 1768px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-.bg-brand-primary
-{
-    background-color: #713183;
+.bg-brand-primary {
+  background-color: #713183;
 }
 .bg-brand-secondary {
-    background-color: #54595F;
+  background-color: #54595f;
 }
 
 .bg-brand-development {
-    background-color: green;
-    color: white;
+  background-color: green;
+  color: white;
 }
 
 .bg-brand-canary {
-    background-color: darkgoldenrod;
-    color: white;
+  background-color: darkgoldenrod;
+  color: white;
 }
 
 .bg-brand-preview {
-    background-color: darkorange;
-    color: white;
+  background-color: darkorange;
+  color: white;
 }
 
-
-.bg-brand-menu
-{
-    background-color: #43464c;
+.bg-brand-menu {
+  background-color: #43464c;
 }
 
 pre {
-    max-width: 1024px;;
+  max-width: 1024px;
 }
-
 
 /* navigration start */
 
 .navbar-brand-topbaritem {
-    font-size: 0.9em;
+  font-size: 0.9em;
 }
 
 .nkda-text-primary {
-    color: #713183;
+  color: #713183;
 }
 
 .bg-nkdagility-primary {
-    background-color: var(--primary-color) !important;
+  background-color: var(--primary-color) !important;
 }
 
 .bg-nkdagility-accent {
-    background-color: var(--accent-color) !important;
+  background-color: var(--accent-color) !important;
 }
 
 .btn-nkdprimary {
-    background-color: #713183;
-    color: white;
+  background-color: #713183;
+  color: white;
 }
 
 .btn-nkdprimary:hover {
-    background-color: #54595F;
-    color: white;
+  background-color: #54595f;
+  color: white;
 }
 
 .text-bg-nkdagility-primary {
-    color: #ffffff; /* Custom text color */
-    background-color: var(--primary-color); /* Custom background color */
-  }
-
+  color: #ffffff; /* Custom text color */
+  background-color: var(--primary-color); /* Custom background color */
+}
 
 /* buttons */
 
 .btn-nkdagility-primary {
-    background-color: var(--primary-color);
-    color: white;
+  background-color: var(--primary-color);
+  color: white;
 }
 
 .btn-nkdagility-primary:hover {
-    background-color: var(--primary-color-light);
-    color: white;
+  background-color: var(--primary-color-light);
+  color: white;
 }
 
 .btn-nkdagility-primary-light {
-    background-color: var(--primary-color-light);
-    color: white;
+  background-color: var(--primary-color-light);
+  color: white;
 }
 
 .btn-nkdagility-primary-light:hover {
-    background-color: var(--primary-color);
-    color: white;
+  background-color: var(--primary-color);
+  color: white;
 }
 
 .btn-nkdagility-secondary {
-    background-color: var(--secondary-color);
-    color: white;
+  background-color: var(--secondary-color);
+  color: white;
 }
 
 .btn-nkdagility-secondary:hover {
-    background-color: var(--secondary-color-light);
-    color: white;
+  background-color: var(--secondary-color-light);
+  color: white;
 }
 
 .btn-nkdagility-secondary-light {
-    background-color: var(--secondary-color-light);
-    color: white;
+  background-color: var(--secondary-color-light);
+  color: white;
 }
 
 .btn-nkdagility-secondary-light:hover {
-    background-color: var(--secondary-color);
-    color: white;
+  background-color: var(--secondary-color);
+  color: white;
 }
-
-
 
 /* end buttons */
 
-
-
 .post-img {
-    text-align: center; /* Centers the image inside the .post-img container */
+  text-align: center; /* Centers the image inside the .post-img container */
 }
 
 .post-img img {
-    max-width: 50%; /* Ensures the image will not exceed 50% of the container width */
-    height: auto; /* Maintains the aspect ratio of the image */
-    display: block; /* Makes the image a block-level element */
-    margin: 0 auto; /* Centers the block element horizontally */
+  max-width: 50%; /* Ensures the image will not exceed 50% of the container width */
+  height: auto; /* Maintains the aspect ratio of the image */
+  display: block; /* Makes the image a block-level element */
+  margin: 0 auto; /* Centers the block element horizontally */
 }
 
 img {
-    max-width: 100%; /* Ensures the image will not exceed the width of its container */
-    height: auto; /* Maintains the aspect ratio of the image */
-    display: block; /* Removes any inline-block gap */
-  }
-
-  .text-bg-nkdagility-primary {
-    background-color: var(--primary-color);
+  max-width: 100%; /* Ensures the image will not exceed the width of its container */
+  height: auto; /* Maintains the aspect ratio of the image */
+  display: block; /* Removes any inline-block gap */
 }
+
+.text-bg-nkdagility-primary {
+  background-color: var(--primary-color);
+}
+
+/* BLOCKQUOTE */
+
+.blockquote {
+  padding: 60px 80px 40px;
+  position: relative;
+}
+.blockquote p {
+  font-family: "Utopia-italic";
+  font-size: 35px;
+  font-weight: 700px;
+  text-align: center;
+}
+
+/*blockquote p::before {
+    content: "\f095"; 
+    font-family: FontAwesome;
+   display: inline-block;
+   padding-right: 6px;
+   vertical-align: middle;
+  font-size: 180px;
+ }*/
+
+.blockquote:before {
+  position: absolute;
+  font-family: "FontAwesome";
+  top: 0;
+
+  content: "\f10d";
+  font-size: 200px;
+  color: rgba(0, 0, 0, 0.1);
+}
+
+.blockquote::after {
+  content: "";
+  top: 20px;
+  left: 50%;
+  margin-left: -100px;
+  position: absolute;
+  border-bottom: 3px solid #bf0024;
+  height: 3px;
+  width: 200px;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic);
+.otro-blockquote {
+  font-size: 1.4em;
+  width: 60%;
+  margin: 50px auto;
+  font-family: Open Sans;
+  font-style: italic;
+  color: #555555;
+  padding: 1.2em 30px 1.2em 75px;
+  border-left: 8px solid #78c0a8;
+  line-height: 1.6;
+  position: relative;
+  background: #ededed;
+}
+
+.otro-blockquote::before {
+  font-family: Arial;
+  content: "\201C";
+  color: #78c0a8;
+  font-size: 4em;
+  position: absolute;
+  left: 10px;
+  top: -10px;
+}
+
+.otro-blockquote::after {
+  content: "";
+}
+
+.otro-blockquote span {
+  display: block;
+  color: #333333;
+  font-style: normal;
+  font-weight: bold;
+  margin-top: 1em;
+}
+
+/* //BLOCKQUOTE */
