@@ -66,6 +66,10 @@ Effectiveness in a Scrum context spans far beyond simply delivering increments o
 
 3. **Empowering Autonomous Teams:** The hallmark of an effective Scrum Master is the ability to cultivate a team that self-manages and self-optimises. This requires creating psychological safety, enabling conflict resolution, and empowering the team to make decisions.
 
+4. **Collaborating with Adjacent Teams:** Effective Scrum Masters actively work with and enable adjacent teams to align efforts, remove cross-team dependencies, and foster organisational coherence. By promoting collaboration across teams, they ensure a seamless flow of value delivery across the organisation.
+
+5. **Fulfilling Organisational Accountability:** The Scrum Master has an accountability to the organisation beyond the team. This involves educating leadership about Scrum, advocating for systemic improvements, and helping the organisation embrace new ways of working. By bridging the team and the broader organisation, Scrum Masters enhance alignment and drive strategic value.
+
 ## **Why Delivery Is the Minimum Bar**
 
 Here’s the reality: without delivery, there is no effectiveness to measure. Consider the [Agile Manifesto’s]({{< ref "/resources/guides/manifesto-for-agile-software-development" >}}) first principle: _"Our highest priority is to satisfy the customer through early and continuous delivery of valuable software."_ Delivery is not the _end-all-be-all_, but it is the minimum bar of competence for a Scrum Team. A team that consistently fails to deliver usable increments cannot claim to be effective, no matter how skilled or engaged they are.
