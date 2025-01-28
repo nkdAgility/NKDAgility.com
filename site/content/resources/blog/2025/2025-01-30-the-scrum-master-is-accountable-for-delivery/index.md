@@ -36,7 +36,7 @@ It's entirely likely that [your next Scrum Master will be your manager](https://
 
 ## **But what about the Scrum Team’s Shared Accountability for Delivery?**
 
-The [Scrum Guide (2020)]({{< relref "/resources/guides/scrum-guide" >}}) makes it clear: the entire Scrum Team is accountable for delivering a valuable, useful increment every sprint. That said, while delivery is a collective responsibility, the role of the Scrum Master has a unique slant: they are not _players_ on the field but the _coach_. Their accountability lies in fostering an environment where effective delivery can happen consistently.
+The [Scrum Guide (2020)]({{< ref "/resources/guides/scrum-guide" >}}) makes it clear: the entire Scrum Team is accountable for delivering a valuable, useful increment every sprint. That said, while delivery is a collective responsibility, the role of the Scrum Master has a unique slant: they are not _players_ on the field but the _coach_. Their accountability lies in fostering an environment where effective delivery can happen consistently.
 
 Using a football analogy, the coach is ultimately held accountable for the team’s performance. They are responsible for strategy, facilitation, and ensuring the team has the resources and focus needed to succeed. The players, however, still own the execution. In Scrum, the Scrum Master is similarly accountable for enabling outcomes—not by doing the work themselves but by ensuring that the Scrum framework is effectively applied and the team functions optimally.
 
@@ -54,7 +54,7 @@ Effectiveness in a Scrum context spans far beyond simply delivering increments o
 
 ## **Why Delivery Is the Minimum Bar**
 
-Here’s the reality: without delivery, there is no effectiveness to measure. Consider the [Agile Manifesto’s]({{< relref "/resources/guides/manifesto-for-agile-software-development" >}}) first principle: _"Our highest priority is to satisfy the customer through early and continuous delivery of valuable software."_ Delivery is not the _end-all-be-all_, but it is the minimum bar of competence for a Scrum Team. A team that consistently fails to deliver usable increments cannot claim to be effective, no matter how skilled or engaged they are.
+Here’s the reality: without delivery, there is no effectiveness to measure. Consider the [Agile Manifesto’s]({{< ref "/resources/guides/manifesto-for-agile-software-development" >}}) first principle: _"Our highest priority is to satisfy the customer through early and continuous delivery of valuable software."_ Delivery is not the _end-all-be-all_, but it is the minimum bar of competence for a Scrum Team. A team that consistently fails to deliver usable increments cannot claim to be effective, no matter how skilled or engaged they are.
 
 Although from a single instance, this quote embodies the common failure of Scrum Teams to even meet this minimum bar:
 
@@ -66,11 +66,11 @@ Effectiveness requires delivery, but delivery itself is not the sole measure of 
 
 ## **The Scrum Master’s Accountability in Delivery**
 
-The Scrum Master is a lean-agile practitioner with technical mastery, business mastery, and organisational evolutionary mastery that can provide training, coaching, & mentoring as needed within the context of the team, the product, and the organisation. This is [not an entry-level position but represents an experienced product professional]({{< relref "/resources/blog/2021/2021-03-15-hiring-a-professional-scrum-master" >}}) who can enable the whole Scrum Team to take accountability for delivery by:
+The Scrum Master is a lean-agile practitioner with technical mastery, business mastery, and organisational evolutionary mastery that can provide training, coaching, & mentoring as needed within the context of the team, the product, and the organisation. This is [not an entry-level position but represents an experienced product professional]({{< ref "/resources/blog/2021/2021-03-15-hiring-a-professional-scrum-master" >}}) who can enable the whole Scrum Team to take accountability for delivery by:
 
 - **Ensuring Transparency:** Helping the team and stakeholders maintain clarity on progress, impediments, and value delivery through well-facilitated events and effective artefacts.
 - **Removing Impediments:** Proactively identifying and enabling the removal of blockers that hinder the team’s ability to deliver.
-- **Enabling Technical Excellence:** The Scrum Master should have [sufficient technical skills within the Scrum Teams' work context]({{< relref "/resources/blog/2019/2019-09-01-are-technical-skills-required-to-be-a-scrum-master" >}}) to advocate for and enable practices like design patterns, Test-Driven Development (TDD), automated testing, and continuous integration—all of which are critical for sustainable delivery. Great Scrum Masters will also be bale to teach these techniques.
+- **Enabling Technical Excellence:** The Scrum Master should have [sufficient technical skills within the Scrum Teams' work context]({{< ref "/resources/blog/2019/2019-09-01-are-technical-skills-required-to-be-a-scrum-master" >}}) to advocate for and enable practices like design patterns, Test-Driven Development (TDD), automated testing, and continuous integration—all of which are critical for sustainable delivery. Great Scrum Masters will also be bale to teach these techniques.
 - **Facilitating Empiricism:** Supporting the team in working empirically by fostering a cadence of inspect and adapt cycles, ensuring that learning is continuously integrated into delivery.
 
 When delivery falters, stakeholders naturally look to the Scrum Master to understand and address the root causes. By taking ownership of systemic issues and facilitating improvements, the Scrum Master ensures the team’s consistent ability to deliver effectively.
