@@ -34,6 +34,39 @@
   <section class="container my-5 p-2" style="max-width: 700px !important">
     {{- partial "publications/comments.html" . }}
   </section>
+
+  <section class="container my-5 p-2" style="max-width: 700px !important">
+    {{ $related := .Site.RegularPages.Related . }}
+    {{ $blogs := where $related ".Params.resourceTypes" "blog" | first 5 }}
+    {{ with $blogs }}
+      <h3>Related blog posts</h3>
+      <ul>
+        {{ range . }}
+          <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+        {{ end }}
+      </ul>
+    {{ else }}
+      <p>No related blog posts found.</p>
+    {{ end }}
+  </section>
+
+  <section class="container my-5 p-2" style="max-width: 700px !important">
+    {{ $videos := where $related ".Params.layout" "video" | first 4 }}
+    {{ with $videos }}
+      <h3>Related videos</h3>
+      <div class="row">
+        {{ range . }}
+          <div class="col-md-12 col-xl-6 d-flex p-2">
+            <div class="ratio ratio-16x9">
+              <iframe class="w-100" src="https://www.youtube.com/embed/{{ .Params.videoId }}" title="{{ .LinkTitle }}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+          </div>
+        {{ end }}
+      </div>
+    {{ else }}
+      <p>No related videos found.</p>
+    {{ end }}
+  </section>
 {{- end }}
 
 {{- define "template" }}

@@ -8,6 +8,8 @@ contributors:
     external: https://www.linkedin.com/in/ryanripley
   - name: Elle Anderson
     external: http://www.linkedin.com/in/anderelle
+  - name: Sathpal Singh
+    external: https://www.linkedin.com/in/sathpal/
 layout: blog
 resourceTypes: blog
 slug: the-scrum-master-is-accountable-for-delivery
