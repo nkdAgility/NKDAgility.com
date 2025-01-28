@@ -1,0 +1,1373 @@
+1
+00:00:00,080 --> 00:00:07,319
+I often get asked about best practices
+
+2
+00:00:03,919 --> 00:00:10,599
+that help teams do continuous delivery
+
+3
+00:00:07,319 --> 00:00:12,400
+how do how one of the best practices and
+
+4
+00:00:10,599 --> 00:00:14,000
+I'm I'm going to start right up front by
+
+5
+00:00:12,400 --> 00:00:16,400
+saying there's no such thing as best
+
+6
+00:00:14,000 --> 00:00:18,359
+practices when you work in the complex
+
+7
+00:00:16,400 --> 00:00:20,840
+environment there's no such thing as
+
+8
+00:00:18,359 --> 00:00:23,720
+best practices best practices are for
+
+9
+00:00:20,840 --> 00:00:26,720
+simple work in simple environments where
+
+10
+00:00:23,720 --> 00:00:29,240
+you can have a procedure and you follow
+
+11
+00:00:26,720 --> 00:00:30,960
+it continuously it becomes the best
+
+12
+00:00:29,240 --> 00:00:32,960
+practice the best way to do it and you
+
+13
+00:00:30,960 --> 00:00:35,680
+get the same results every time that's
+
+14
+00:00:32,960 --> 00:00:38,360
+not the world that we live in so the the
+
+15
+00:00:35,680 --> 00:00:40,200
+phrase I quite often use which is I
+
+16
+00:00:38,360 --> 00:00:42,520
+guess a little bit passive
+
+17
+00:00:40,200 --> 00:00:44,160
+aggressive there's there's no best
+
+18
+00:00:42,520 --> 00:00:46,680
+practices there are only adequate
+
+19
+00:00:44,160 --> 00:00:49,840
+practices for the situation at hand and
+
+20
+00:00:46,680 --> 00:00:52,000
+the situation might change right that's
+
+21
+00:00:49,840 --> 00:00:54,239
+that's fundamentally what we're talking
+
+22
+00:00:52,000 --> 00:00:58,920
+about but there are a bunch of
+
+23
+00:00:54,239 --> 00:01:01,440
+practices that we see many organizations
+
+24
+00:00:58,920 --> 00:01:04,640
+leveraging and getting success
+
+25
+00:01:01,440 --> 00:01:07,840
+from and we should try them and see if
+
+26
+00:01:04,640 --> 00:01:10,360
+they work for us that maybe that may be
+
+27
+00:01:07,840 --> 00:01:13,880
+makes more sense than than than best
+
+28
+00:01:10,360 --> 00:01:17,119
+practices so the question usually is and
+
+29
+00:01:13,880 --> 00:01:20,280
+if I take out the word best there what
+
+30
+00:01:17,119 --> 00:01:22,280
+practices enable cross functional
+
+31
+00:01:20,280 --> 00:01:25,159
+collaboration to support continuous
+
+32
+00:01:22,280 --> 00:01:28,320
+delivery without compromising quality
+
+33
+00:01:25,159 --> 00:01:30,640
+one one of those practices is some way
+
+34
+00:01:28,320 --> 00:01:33,320
+to control
+
+35
+00:01:30,640 --> 00:01:35,680
+what code ends up in production or not
+
+36
+00:01:33,320 --> 00:01:38,200
+that's a that's a very powerful practice
+
+37
+00:01:35,680 --> 00:01:39,960
+or what code is enabled for people
+
+38
+00:01:38,200 --> 00:01:43,560
+that's probably a better way to just say
+
+39
+00:01:39,960 --> 00:01:46,320
+it most most organizations most
+
+40
+00:01:43,560 --> 00:01:48,280
+products are have moved or are moving
+
+41
+00:01:46,320 --> 00:01:50,840
+towards or are thinking of moving
+
+42
+00:01:48,280 --> 00:01:53,439
+towards more of an audience-based
+
+43
+00:01:50,840 --> 00:01:54,920
+deployment pattern or delivery pattern
+
+44
+00:01:53,439 --> 00:01:58,159
+rather than an environment-based
+
+45
+00:01:54,920 --> 00:02:00,640
+delivery pattern right and so there is
+
+46
+00:01:58,159 --> 00:02:03,799
+still environments within the context of
+
+47
+00:02:00,640 --> 00:02:06,240
+this depending on how it's set up but
+
+48
+00:02:03,799 --> 00:02:09,360
+one of the the I think one of the core
+
+49
+00:02:06,240 --> 00:02:11,680
+practices that supports this idea of
+
+50
+00:02:09,360 --> 00:02:16,040
+continuous delivery that supports this
+
+51
+00:02:11,680 --> 00:02:18,519
+idea of continuous quality in in in
+
+52
+00:02:16,040 --> 00:02:22,480
+production is is definitely moving
+
+53
+00:02:18,519 --> 00:02:24,720
+towards audience-based delivery strategy
+
+54
+00:02:22,480 --> 00:02:31,080
+so in the old the old in the ye olden
+
+55
+00:02:24,720 --> 00:02:33,720
+days the delivery strategy was Dev test
+
+56
+00:02:31,080 --> 00:02:36,920
+staging production right Dev test
+
+57
+00:02:33,720 --> 00:02:39,040
+staging production kind of thing and
+
+58
+00:02:36,920 --> 00:02:41,599
+everything was done in Dev the
+
+59
+00:02:39,040 --> 00:02:43,519
+developers built all the stuff and then
+
+60
+00:02:41,599 --> 00:02:47,159
+it got pushed
+
+61
+00:02:43,519 --> 00:02:50,280
+to test testers tested all the stuff and
+
+62
+00:02:47,159 --> 00:02:52,319
+then it get pushed to staging and
+
+63
+00:02:50,280 --> 00:02:53,599
+something else usually load testing
+
+64
+00:02:52,319 --> 00:02:55,599
+there and then it got pushed to
+
+65
+00:02:53,599 --> 00:02:58,519
+production maybe if you're deploying to
+
+66
+00:02:55,599 --> 00:03:01,760
+customers they have in the way right
+
+67
+00:02:58,519 --> 00:03:04,000
+there also a uat enironment um these are
+
+68
+00:03:01,760 --> 00:03:06,840
+all costs these are all at costs and
+
+69
+00:03:04,000 --> 00:03:09,239
+they're extreme costs and they're not
+
+70
+00:03:06,840 --> 00:03:11,680
+worth it costs they they they not only
+
+71
+00:03:09,239 --> 00:03:13,560
+have a cost to actually do at the time
+
+72
+00:03:11,680 --> 00:03:15,400
+they have massive massive cost
+
+73
+00:03:13,560 --> 00:03:17,239
+implications on our ability to build the
+
+74
+00:03:15,400 --> 00:03:20,319
+right thing they have massive cost
+
+75
+00:03:17,239 --> 00:03:22,720
+implications on um the cost of fixing
+
+76
+00:03:20,319 --> 00:03:24,239
+stuff later and they have massive cost
+
+77
+00:03:22,720 --> 00:03:26,239
+implications because we're we're
+
+78
+00:03:24,239 --> 00:03:27,840
+effectively testing quality in rather
+
+79
+00:03:26,239 --> 00:03:30,640
+than building it in right testing
+
+80
+00:03:27,840 --> 00:03:33,959
+quality in is the most expensive way to
+
+81
+00:03:30,640 --> 00:03:37,200
+gain gain quality building quality in is
+
+82
+00:03:33,959 --> 00:03:40,599
+is how how we should be doing that so
+
+83
+00:03:37,200 --> 00:03:43,799
+this this practice of audience-based
+
+84
+00:03:40,599 --> 00:03:47,920
+right audience-based delivery means we
+
+85
+00:03:43,799 --> 00:03:51,040
+switch to a model and I'm I'm going to
+
+86
+00:03:47,920 --> 00:03:53,920
+use the words I'm going to use make it
+
+87
+00:03:51,040 --> 00:03:55,040
+sound like we're testing in production
+
+88
+00:03:53,920 --> 00:03:58,040
+and in
+
+89
+00:03:55,040 --> 00:04:00,360
+fact that's one of the the terminologies
+
+90
+00:03:58,040 --> 00:04:03,200
+that that we do use in that context is
+
+91
+00:04:00,360 --> 00:04:06,200
+testing and production right and the
+
+92
+00:04:03,200 --> 00:04:08,840
+reality of the world in which we live in
+
+93
+00:04:06,200 --> 00:04:12,439
+Building these complex interconnected
+
+94
+00:04:08,840 --> 00:04:14,879
+systems that we all build and work on is
+
+95
+00:04:12,439 --> 00:04:17,199
+that there is no place like
+
+96
+00:04:14,879 --> 00:04:20,239
+production there's there's no way to
+
+97
+00:04:17,199 --> 00:04:23,120
+simulate production there's no way to
+
+98
+00:04:20,239 --> 00:04:25,040
+truly validate that What You've Done
+
+99
+00:04:23,120 --> 00:04:28,280
+Works in production until you get to
+
+100
+00:04:25,040 --> 00:04:31,639
+production so wouldn't it be better is
+
+101
+00:04:28,280 --> 00:04:35,240
+if we can get a small change quickly
+
+102
+00:04:31,639 --> 00:04:39,400
+into production for a small set of
+
+103
+00:04:35,240 --> 00:04:43,840
+users and then be able to
+
+104
+00:04:39,400 --> 00:04:46,199
+increase or decrease that user set on
+
+105
+00:04:43,840 --> 00:04:48,880
+demand so that we can validate that the
+
+106
+00:04:46,199 --> 00:04:51,199
+product works in real world and real
+
+107
+00:04:48,880 --> 00:04:54,440
+real scenarios and that's effectively
+
+108
+00:04:51,199 --> 00:04:58,400
+what what what we talk about with this
+
+109
+00:04:54,440 --> 00:05:00,240
+set of practices this idea of of
+
+110
+00:04:58,400 --> 00:05:02,840
+Shifting left and
+
+111
+00:05:00,240 --> 00:05:04,120
+continuous continuous delivery and
+
+112
+00:05:02,840 --> 00:05:05,360
+there's a lot of practices that help
+
+113
+00:05:04,120 --> 00:05:08,800
+with that so so audience-based
+
+114
+00:05:05,360 --> 00:05:10,919
+deployment model is probably um the the
+
+115
+00:05:08,800 --> 00:05:12,800
+the the main thing and if you're
+
+116
+00:05:10,919 --> 00:05:14,919
+thinking oh our product is too big and
+
+117
+00:05:12,800 --> 00:05:18,440
+too complicated to be able to do that
+
+118
+00:05:14,919 --> 00:05:20,759
+the windows team move to that Windows is
+
+119
+00:05:18,440 --> 00:05:24,319
+deployed on an audience-based
+
+120
+00:05:20,759 --> 00:05:26,840
+model rather than more traditional
+
+121
+00:05:24,319 --> 00:05:28,720
+environment based model there's because
+
+122
+00:05:26,840 --> 00:05:31,120
+there's is a physical product that's
+
+123
+00:05:28,720 --> 00:05:34,160
+physically deployed to people there's
+
+124
+00:05:31,120 --> 00:05:37,400
+still a little bit of the old school
+
+125
+00:05:34,160 --> 00:05:39,199
+environment in there for sure so it's
+
+126
+00:05:37,400 --> 00:05:44,600
+not a complete
+
+127
+00:05:39,199 --> 00:05:49,880
+thing Cloud products you can go complete
+
+128
+00:05:44,600 --> 00:05:53,680
+but they go their their time from uh
+
+129
+00:05:49,880 --> 00:05:57,840
+cutting code to it being in production
+
+130
+00:05:53,680 --> 00:06:00,240
+with real users is only I I I think for
+
+131
+00:05:57,840 --> 00:06:03,680
+themselves it's only a few hours like
+
+132
+00:06:00,240 --> 00:06:05,759
+internal to the windows team but nightly
+
+133
+00:06:03,680 --> 00:06:08,800
+as I understand at least nightly they're
+
+134
+00:06:05,759 --> 00:06:11,319
+deploying new versions of Windows out to
+
+135
+00:06:08,800 --> 00:06:13,039
+all of the participants within Microsoft
+
+136
+00:06:11,319 --> 00:06:16,199
+so if you're inside of Microsoft and you
+
+137
+00:06:13,039 --> 00:06:18,840
+take a a BG it that's their internal it
+
+138
+00:06:16,199 --> 00:06:22,280
+Department BG build of Windows like
+
+139
+00:06:18,840 --> 00:06:24,479
+you're not self-managing BG build then
+
+140
+00:06:22,280 --> 00:06:26,919
+um you you're you're getting nightly
+
+141
+00:06:24,479 --> 00:06:29,080
+builds of Windows or or I think many
+
+142
+00:06:26,919 --> 00:06:30,880
+people are that means that what the
+
+143
+00:06:29,080 --> 00:06:32,520
+Developers wrote yesterday you're
+
+144
+00:06:30,880 --> 00:06:34,919
+testing today and it's in production
+
+145
+00:06:32,520 --> 00:06:37,240
+because you're you know you're a manager
+
+146
+00:06:34,919 --> 00:06:38,919
+in Microsoft um you're doing your day
+
+147
+00:06:37,240 --> 00:06:41,160
+job which is managing people you might
+
+148
+00:06:38,919 --> 00:06:43,840
+be a mar managing marketing people right
+
+149
+00:06:41,160 --> 00:06:47,400
+inside of Microsoft uh or managing
+
+150
+00:06:43,840 --> 00:06:48,840
+Consultants or managing whatever and
+
+151
+00:06:47,400 --> 00:06:50,599
+your machine has the latest version of
+
+152
+00:06:48,840 --> 00:06:52,240
+Windows you're you're using it in
+
+153
+00:06:50,599 --> 00:06:54,560
+production so that's getting into
+
+154
+00:06:52,240 --> 00:06:56,599
+production as quickly as possible and
+
+155
+00:06:54,560 --> 00:06:59,080
+then what they're doing the engineering
+
+156
+00:06:56,599 --> 00:07:01,280
+team is they're monitoring the Telemetry
+
+157
+00:06:59,080 --> 00:07:03,319
+this is the audience-based deployment
+
+158
+00:07:01,280 --> 00:07:05,039
+model they're monitoring the Telemetry
+
+159
+00:07:03,319 --> 00:07:08,960
+and deciding what whether they want to
+
+160
+00:07:05,039 --> 00:07:10,400
+open that particular build out to more
+
+161
+00:07:08,960 --> 00:07:14,319
+people um and when they open it out to
+
+162
+00:07:10,400 --> 00:07:16,080
+more people the next ring they I guess
+
+163
+00:07:14,319 --> 00:07:17,440
+Microsoft called them Rings ring based
+
+164
+00:07:16,080 --> 00:07:20,360
+deployment model right but it's really
+
+165
+00:07:17,440 --> 00:07:22,639
+audience-based each ring has an audience
+
+166
+00:07:20,360 --> 00:07:24,280
+of people and they're they're all
+
+167
+00:07:22,639 --> 00:07:26,319
+production and they're just opening it
+
+168
+00:07:24,280 --> 00:07:28,240
+out to more and more people that's
+
+169
+00:07:26,319 --> 00:07:30,919
+that's a pretty simple version because
+
+170
+00:07:28,240 --> 00:07:32,919
+it is a physical product that's deployed
+
+171
+00:07:30,919 --> 00:07:34,879
+on your machine right physical which
+
+172
+00:07:32,919 --> 00:07:37,919
+your operating system so so it's it's
+
+173
+00:07:34,879 --> 00:07:42,560
+got to run on bare metal and in Cloud
+
+174
+00:07:37,919 --> 00:07:44,800
+but it runs on metal right but if if you
+
+175
+00:07:42,560 --> 00:07:48,639
+look at something like Microsoft teams
+
+176
+00:07:44,800 --> 00:07:50,440
+Office 365 right they they have the
+
+177
+00:07:48,639 --> 00:07:53,840
+ability to switch on and off features
+
+178
+00:07:50,440 --> 00:07:57,560
+for specific users so regardless of what
+
+179
+00:07:53,840 --> 00:08:01,360
+build is shipped in Microsoft teams for
+
+180
+00:07:57,560 --> 00:08:03,840
+example and I have I'm in the tap
+
+181
+00:08:01,360 --> 00:08:07,000
+program for teams basically their
+
+182
+00:08:03,840 --> 00:08:10,400
+version of the Insiders and I get
+
+183
+00:08:07,000 --> 00:08:13,520
+features before the general public the
+
+184
+00:08:10,400 --> 00:08:16,080
+the the everybody gets features and that
+
+185
+00:08:13,520 --> 00:08:19,479
+can be specific to me as an individual
+
+186
+00:08:16,080 --> 00:08:23,840
+user within my company or all users
+
+187
+00:08:19,479 --> 00:08:27,639
+within my company and that enables that
+
+188
+00:08:23,840 --> 00:08:30,800
+choice right so you even as a customer
+
+189
+00:08:27,639 --> 00:08:32,839
+in the tap program I can choose that I
+
+190
+00:08:30,800 --> 00:08:35,159
+get the oh my goodness me The Cutting
+
+191
+00:08:32,839 --> 00:08:37,080
+Edge latest and greatest and somebody
+
+192
+00:08:35,159 --> 00:08:40,760
+else in my business gets
+
+193
+00:08:37,080 --> 00:08:42,880
+the reasonably reasonably stable they're
+
+194
+00:08:40,760 --> 00:08:45,399
+kicking the tires ready for for moving
+
+195
+00:08:42,880 --> 00:08:47,720
+to wider audience more general public
+
+196
+00:08:45,399 --> 00:08:50,560
+audience and then general public have a
+
+197
+00:08:47,720 --> 00:08:54,880
+way to opt into some extra features and
+
+198
+00:08:50,560 --> 00:08:56,399
+things so it it we're all able to
+
+199
+00:08:54,880 --> 00:08:59,800
+communicate with each other right we can
+
+200
+00:08:56,399 --> 00:09:02,640
+all join the same call and some people
+
+201
+00:08:59,800 --> 00:09:04,399
+are using more different features from
+
+202
+00:09:02,640 --> 00:09:06,079
+other people within the context of that
+
+203
+00:09:04,399 --> 00:09:08,560
+call some of them have new capabilities
+
+204
+00:09:06,079 --> 00:09:11,440
+whole new code bases that are that are
+
+205
+00:09:08,560 --> 00:09:13,320
+running their part of that that story
+
+206
+00:09:11,440 --> 00:09:15,839
+and it's really interesting because I I
+
+207
+00:09:13,320 --> 00:09:18,120
+I do I do do calls with Folks at
+
+208
+00:09:15,839 --> 00:09:20,079
+Microsoft and I've had Folks at
+
+209
+00:09:18,120 --> 00:09:21,680
+Microsoft who are on much earlier builds
+
+210
+00:09:20,079 --> 00:09:24,320
+than me because they're choosing to help
+
+211
+00:09:21,680 --> 00:09:27,440
+out that team or they work on that team
+
+212
+00:09:24,320 --> 00:09:29,399
+and yeah occasionally their call drops
+
+213
+00:09:27,440 --> 00:09:33,720
+and they have to log back in like oh
+
+214
+00:09:29,399 --> 00:09:36,680
+sorry early build I got a bug and
+
+215
+00:09:33,720 --> 00:09:40,120
+that's there's a risk benefit analysis
+
+216
+00:09:36,680 --> 00:09:42,079
+there if you're working in a company and
+
+217
+00:09:40,120 --> 00:09:45,880
+you
+
+218
+00:09:42,079 --> 00:09:48,480
+want to take the earlier features so
+
+219
+00:09:45,880 --> 00:09:50,800
+that you can pre validate them for your
+
+220
+00:09:48,480 --> 00:09:52,720
+company understand what they are to help
+
+221
+00:09:50,800 --> 00:09:54,160
+with training and whatnot of people in
+
+222
+00:09:52,720 --> 00:09:57,040
+your company understand what's coming
+
+223
+00:09:54,160 --> 00:09:58,399
+down the pipeline then you can choose to
+
+224
+00:09:57,040 --> 00:09:59,800
+do that but you're choosing to take a
+
+225
+00:09:58,399 --> 00:10:01,600
+little bit of risk right because it's
+
+226
+00:09:59,800 --> 00:10:03,079
+going to be a little bit less stable
+
+227
+00:10:01,600 --> 00:10:05,720
+it's going to be a little bit L this is
+
+228
+00:10:03,079 --> 00:10:07,920
+this idea of testing in production I'm
+
+229
+00:10:05,720 --> 00:10:10,560
+not expecting a complete crash of
+
+230
+00:10:07,920 --> 00:10:12,640
+everything and nothing works right but
+
+231
+00:10:10,560 --> 00:10:15,000
+the occasional glitch the occasional
+
+232
+00:10:12,640 --> 00:10:17,079
+weirdness I'm good with that I teach
+
+233
+00:10:15,000 --> 00:10:18,680
+training classes on Microsoft teams I
+
+234
+00:10:17,079 --> 00:10:20,160
+teach all my classes on Microsoft teams
+
+235
+00:10:18,680 --> 00:10:21,880
+using Microsoft teams breakout rooms
+
+236
+00:10:20,160 --> 00:10:24,519
+using all those things I'm in the tap
+
+237
+00:10:21,880 --> 00:10:26,079
+program I have an earlier capability
+
+238
+00:10:24,519 --> 00:10:28,279
+occasionally things go a little bit
+
+239
+00:10:26,079 --> 00:10:30,040
+weird for me that's just a teaching
+
+240
+00:10:28,279 --> 00:10:32,480
+moment in the class cuz we're talking
+
+241
+00:10:30,040 --> 00:10:34,959
+about how we deliver software and how we
+
+242
+00:10:32,480 --> 00:10:38,839
+deliver products and part of that is
+
+243
+00:10:34,959 --> 00:10:41,000
+accepting that there are going to be um
+
+244
+00:10:38,839 --> 00:10:42,839
+some mistakes they're going to be if
+
+245
+00:10:41,000 --> 00:10:45,040
+you're doing continuous delivery to
+
+246
+00:10:42,839 --> 00:10:47,760
+production there are going to be things
+
+247
+00:10:45,040 --> 00:10:50,279
+that get past your your automated Gates
+
+248
+00:10:47,760 --> 00:10:53,920
+Right and and end up in production it's
+
+249
+00:10:50,279 --> 00:10:57,959
+what you do with that information that's
+
+250
+00:10:53,920 --> 00:11:00,160
+one of the best complimentary practices
+
+251
+00:10:57,959 --> 00:11:03,600
+I'm I'm going to use the word best there
+
+252
+00:11:00,160 --> 00:11:05,120
+is is that philosophy and how you do in
+
+253
+00:11:03,600 --> 00:11:07,440
+fact it's not even a practice it's a
+
+254
+00:11:05,120 --> 00:11:10,839
+philosophy you need to have a philosophy
+
+255
+00:11:07,440 --> 00:11:13,040
+of fix it find it and fix it so if
+
+256
+00:11:10,839 --> 00:11:15,399
+something does make it past into
+
+257
+00:11:13,040 --> 00:11:17,920
+production and you're doing continuous
+
+258
+00:11:15,399 --> 00:11:21,200
+delivery you need to figure
+
+259
+00:11:17,920 --> 00:11:22,600
+out how why how did this get past my
+
+260
+00:11:21,200 --> 00:11:25,600
+automated
+
+261
+00:11:22,600 --> 00:11:27,880
+checks and how can I change my automated
+
+262
+00:11:25,600 --> 00:11:29,800
+checks to be able to catch those things
+
+263
+00:11:27,880 --> 00:11:32,399
+that's that's that's that's it
+
+264
+00:11:29,800 --> 00:11:34,040
+if you find oh it's not possible to
+
+265
+00:11:32,399 --> 00:11:35,959
+change our automated checks because of
+
+266
+00:11:34,040 --> 00:11:38,600
+the way we've architected the system and
+
+267
+00:11:35,959 --> 00:11:39,959
+this you might be ask I would expect a
+
+268
+00:11:38,600 --> 00:11:41,760
+team to be asking themselves the
+
+269
+00:11:39,959 --> 00:11:43,880
+question should we be changing our
+
+270
+00:11:41,760 --> 00:11:47,720
+architecture so that these types of
+
+271
+00:11:43,880 --> 00:11:50,240
+problems can't make it into production
+
+272
+00:11:47,720 --> 00:11:52,920
+and how long is that going to take a
+
+273
+00:11:50,240 --> 00:11:54,720
+great example the aure devops team had a
+
+274
+00:11:52,920 --> 00:11:58,880
+a bunch of
+
+275
+00:11:54,720 --> 00:12:01,320
+incidents where one service that really
+
+276
+00:11:58,880 --> 00:12:03,600
+shouldn't be mandatory took out the
+
+277
+00:12:01,320 --> 00:12:06,560
+entire platform right so they're running
+
+278
+00:12:03,600 --> 00:12:09,560
+a an online platform and for example the
+
+279
+00:12:06,560 --> 00:12:11,680
+profile service this is the the this was
+
+280
+00:12:09,560 --> 00:12:16,160
+their first example the profile service
+
+281
+00:12:11,680 --> 00:12:19,279
+stops working does it matter that you're
+
+282
+00:12:16,160 --> 00:12:22,199
+showing like the ID of the user or the
+
+283
+00:12:19,279 --> 00:12:26,079
+good of the user versus
+
+284
+00:12:22,199 --> 00:12:27,760
+The Friendly name of the user because
+
+285
+00:12:26,079 --> 00:12:29,199
+the pro you get that friendly name I've
+
+286
+00:12:27,760 --> 00:12:30,800
+got the gooded I get the friendly name
+
+287
+00:12:29,199 --> 00:12:33,040
+name from the profile service and now I
+
+288
+00:12:30,800 --> 00:12:35,360
+can display the friendly name but what
+
+289
+00:12:33,040 --> 00:12:37,639
+if that profile service is down would
+
+290
+00:12:35,360 --> 00:12:39,839
+you rather your entire system was down
+
+291
+00:12:37,639 --> 00:12:42,680
+or it showed a good in place of a
+
+292
+00:12:39,839 --> 00:12:44,920
+username in some cases right some small
+
+293
+00:12:42,680 --> 00:12:46,519
+number of cases I'd rather it showed the
+
+294
+00:12:44,920 --> 00:12:48,800
+good and the system still worked because
+
+295
+00:12:46,519 --> 00:12:51,800
+then my users can still do their job my
+
+296
+00:12:48,800 --> 00:12:57,120
+users can still use the system they just
+
+297
+00:12:51,800 --> 00:12:58,600
+see a a small controlled glitch right
+
+298
+00:12:57,120 --> 00:13:00,639
+and then when that profile service comes
+
+299
+00:12:58,600 --> 00:13:03,360
+back up or we fix it that turns back on
+
+300
+00:13:00,639 --> 00:13:05,160
+again and there's a pattern a coding
+
+301
+00:13:03,360 --> 00:13:07,360
+pattern called the circuit breaker
+
+302
+00:13:05,160 --> 00:13:10,079
+pattern and it's exactly what you think
+
+303
+00:13:07,360 --> 00:13:12,480
+it is when one of the services stops
+
+304
+00:13:10,079 --> 00:13:16,120
+working it breaks the circuit and then
+
+305
+00:13:12,480 --> 00:13:18,760
+every so often it tries the circuit to
+
+306
+00:13:16,120 --> 00:13:20,440
+see if it's back up and if it's not up
+
+307
+00:13:18,760 --> 00:13:22,279
+it just breaks the circuit again and
+
+308
+00:13:20,440 --> 00:13:24,760
+then Waits a little bit longer and then
+
+309
+00:13:22,279 --> 00:13:26,600
+tries the circuit if it still doesn't
+
+310
+00:13:24,760 --> 00:13:28,760
+work breaks the circuit and waits a
+
+311
+00:13:26,600 --> 00:13:32,000
+little bit longer so this service on
+
+312
+00:13:28,760 --> 00:13:34,079
+this site is not down because it can't
+
+313
+00:13:32,000 --> 00:13:35,680
+connect to this service and the Azure
+
+314
+00:13:34,079 --> 00:13:37,199
+devops team had this problem that the
+
+315
+00:13:35,680 --> 00:13:39,880
+profile service took out the entire
+
+316
+00:13:37,199 --> 00:13:41,839
+system so millions of developers all
+
+317
+00:13:39,880 --> 00:13:43,480
+over the world were unable to look at
+
+318
+00:13:41,839 --> 00:13:44,839
+their code do their work items do all
+
+319
+00:13:43,480 --> 00:13:46,440
+these things because the friendly name
+
+320
+00:13:44,839 --> 00:13:47,760
+couldn't be displayed i' mean a bit
+
+321
+00:13:46,440 --> 00:13:48,880
+factious with that but the profile
+
+322
+00:13:47,760 --> 00:13:51,800
+service was
+
+323
+00:13:48,880 --> 00:13:55,440
+down that's insane so one of one of the
+
+324
+00:13:51,800 --> 00:13:58,120
+practices that you need to think about
+
+325
+00:13:55,440 --> 00:13:59,320
+is one of the let's call it philosophy
+
+326
+00:13:58,120 --> 00:14:02,680
+the philosophy you have to think think
+
+327
+00:13:59,320 --> 00:14:06,240
+about is no we need to change it we need
+
+328
+00:14:02,680 --> 00:14:09,880
+we need to we need to look at the impact
+
+329
+00:14:06,240 --> 00:14:12,600
+to our users and make decisions based on
+
+330
+00:14:09,880 --> 00:14:15,519
+our ability to maintain our service
+
+331
+00:14:12,600 --> 00:14:17,880
+maintain high levels of quality maintain
+
+332
+00:14:15,519 --> 00:14:20,519
+the ability for people to continue to
+
+333
+00:14:17,880 --> 00:14:23,560
+work within the context of our product
+
+334
+00:14:20,519 --> 00:14:25,240
+even when the unavoidable happens which
+
+335
+00:14:23,560 --> 00:14:28,360
+is systems are going to break systems
+
+336
+00:14:25,240 --> 00:14:31,079
+are going to be down how do you uh cope
+
+337
+00:14:28,360 --> 00:14:33,959
+with that that's probably if I was to
+
+338
+00:14:31,079 --> 00:14:35,839
+say there's a best practice it's not a
+
+339
+00:14:33,959 --> 00:14:40,279
+best practice it's maybe a best
+
+340
+00:14:35,839 --> 00:14:44,320
+philosophy and that's to to continuously
+
+341
+00:14:40,279 --> 00:14:48,000
+seek to better your product better its
+
+342
+00:14:44,320 --> 00:14:52,000
+ability to support its users and do that
+
+343
+00:14:48,000 --> 00:14:52,000
+continuously and relentlessly
+
+
