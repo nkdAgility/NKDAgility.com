@@ -24,6 +24,12 @@ The success of a Scrum Team begins with their accountability for delivering a us
 
 Effectiveness is More Than Delivery, but Delivery is a Minimum.
 
+## TLDR;
+
+Ultimately, the Scrum Master is accountable for the Scrum Team's success. This includes product delivery, product success, Sprint outcomes, the team's ability, and ensuring the team has the resources, skills, and ethos needed to succeed. While the entire Scrum Team shares accountability for delivery, the Scrum Master’s role is to create the conditions for effective delivery and continuous improvement. Delivery is the minimum bar for effectiveness—without it, the team cannot measure or realise value. Without delivery, there is no increment, no feedback, and no way to empirically assess value. A Scrum Team that delivers without value is ineffective but still functional. A Scrum Team that fails to deliver anything cannot be considered effective under any measure.
+
+Scrum Masters should embrace their accountability for creating an environment where delivery is not just possible but inevitable. Effectiveness begins with delivery—then expands to encompass value, learning, and continuous improvement. This dual focus ensures that the Scrum Team not only meets the minimum bar but thrives well beyond it.
+
 ### **The accountability of the Scrum Master for delivery**
 
 At the heart of this process lies the Scrum Master, who holds a pivotal accountability: enabling an environment where delivery becomes not just possible but inevitable. This accountability isn’t about executing the work but ensuring the team has the resources, strategies, and support needed to thrive.
@@ -76,13 +82,3 @@ The Scrum Master is a lean-agile practitioner with technical mastery, business m
 When delivery falters, stakeholders naturally look to the Scrum Master to understand and address the root causes. By taking ownership of systemic issues and facilitating improvements, the Scrum Master ensures the team’s consistent ability to deliver effectively.
 
 They take accountability for delivery!
-
-## Effectiveness Starts with Delivery
-
-The phrase that encapsulates this entire discussion is simple: _Effectiveness is more than delivery, but delivery is a minimum._ Without delivery, there is no increment, no feedback, and no way to empirically assess value. A Scrum Team that delivers without value is ineffective but still functional. A Scrum Team that fails to deliver anything cannot be considered effective under any measure.
-
-Scrum Masters should embrace their accountability for creating an environment where delivery is not just possible but inevitable. Effectiveness begins with delivery—then expands to encompass value, learning, and continuous improvement. This dual focus ensures that the Scrum Team not only meets the minimum bar but thrives well beyond it.
-
-## Conclusion
-
-Ultimately, the Scrum Master is accountable for the Scrum Team's success. This includes product delivery, product success, Sprint outcomes, the team's ability, and ensuring the team has the resources, skills, and ethos needed to succeed. While the entire Scrum Team shares accountability for delivery, the Scrum Master’s role is to create the conditions for effective delivery and continuous improvement. Delivery is the minimum bar for effectiveness—without it, the team cannot measure or realise value.
