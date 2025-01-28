@@ -24,6 +24,8 @@ preview: 2025-01-30-the-scrum-master-is-accountable-for-delivery.jpg
 
 Ultimately, the Scrum Master is accountable for the Scrum Team's success. This includes product delivery, product success, Sprint outcomes, the team's ability, and ensuring the team has the resources, skills, and ethos needed to succeed. While the entire Scrum Team shares accountability for delivery, the Scrum Master’s role is to create the conditions for effective delivery and continuous improvement. Delivery is the minimum bar for effectiveness—without it, the team cannot measure or realise value. Without delivery, there is no increment, no feedback, and no way to empirically assess value. A Scrum Team that delivers without value is ineffective but still functional. A Scrum Team that fails to deliver anything cannot be considered effective under any measure.
 
+> "Let the record show that I believe that, if you’re in the kind of organisation that will still fund Scrum Masters despite a long-in-the-tooth Scrum adoption, then you can bet your ass the Scrum Master is accountable for delivery. That’s because they should be facilitating the “aha” moments required of the team to address things like capacity, understanding, and level-setting with product and stakeholders when goals are just too big or infeasible." - [Elle Anderson](http://www.linkedin.com/in/anderelle)
+
 Scrum Masters should embrace their accountability for creating an environment where delivery is not just possible but inevitable. Effectiveness begins with delivery—then expands to encompass value, learning, and continuous improvement. This dual focus ensures that the Scrum Team not only meets the minimum bar but thrives well beyond it.
 
 ## The Scrum Master is accountable for Delivery
@@ -31,8 +33,6 @@ Scrum Masters should embrace their accountability for creating an environment wh
 The success of a Scrum Team begins with their accountability for delivering a usable, working product at the end of every sprint—including the very first one. This principle is the backbone of Scrum's empirical process, ensuring the team generates valuable feedback for continuous improvement of their product and the system. A working increment is non-negotiable; without it, there’s no way to inspect and adapt effectively or measure progress towards the team's goals. By focusing on delivery as the minimum bar for effectiveness, the Scrum Team builds a foundation that doesn’t just deliver but delivers value consistently.
 
 Effectiveness is More Than Delivery, but Delivery is a Minimum.
-
-> "Let the record show that I believe if you’re in the kind of org that will still fund scrum masters despite a long in the tooth scrum adoption, then you bet your ass the scrum master is accountable for delivery. And that’s because they should be facilitating the aha moments required of the team to address things like capacity understanding and level setting with product and stakeholders when goals are just too big or infeasible." - Elle
 
 ### **The accountability of the Scrum Master for delivery**
 
