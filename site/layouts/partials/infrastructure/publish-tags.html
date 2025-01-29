@@ -1,0 +1,11 @@
+{{- $.Scratch.Add "tags" slice -}}
+{{ range $tag, $pages := .Site.Taxonomies.tags }}
+  {{- $.Scratch.Add "tags" (dict
+    "name" $tag
+    "slug" ($tag | urlize)
+    )
+  -}}
+{{- end }}
+{{- $tags := dict "tags" ($.Scratch.Get "tags") }}
+{{- $jsonOutput := $tags | jsonify }}
+{{- (resources.FromString "tags.json" $jsonOutput).Publish }}

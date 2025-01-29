@@ -1,5 +1,5 @@
 
-
+$OutputEncoding = [System.Text.Encoding]::UTF8
 function Call-OpenAI {
     param (
         [Parameter(Mandatory = $false)]
@@ -37,11 +37,11 @@ function Call-OpenAI {
         )
         "temperature" = 0
         "max_tokens"  = 16000  # Based on model's max output capacity
-    } | ConvertTo-Json
+    } | ConvertTo-Json 
     
     # Send the request to the ChatGPT API
     $response = Invoke-RestMethod -Uri $apiUrl -Method Post -Headers @{
-        "Content-Type"  = "application/json"
+        "Content-Type"  = "application/json; charset=utf-8"
         "Authorization" = "Bearer $OPEN_AI_KEY"
     } -Body $body
 

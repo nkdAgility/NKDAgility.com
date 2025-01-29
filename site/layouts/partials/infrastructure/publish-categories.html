@@ -1,0 +1,11 @@
+{{- $.Scratch.Add "categories" slice -}}
+{{ range $category, $pages := .Site.Taxonomies.categories }}
+  {{- $.Scratch.Add "categories" (dict
+    "name" $category
+    "slug" ($category | urlize)
+    )
+  -}}
+{{- end }}
+{{- $categories := dict "categories" ($.Scratch.Get "categories") }}
+{{- $jsonOutput := $categories | jsonify }}
+{{- (resources.FromString "categories.json" $jsonOutput).Publish }}

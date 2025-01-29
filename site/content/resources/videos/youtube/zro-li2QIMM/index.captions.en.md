@@ -1,0 +1,3 @@
+And I do that both in the technical space and in the agile space. If you want to have a chat, you can go to my website and book a coffee, and we can talk about agile. We can talk about the things that are happening in your organization, and if in half an hour I can fix your problem, that's great. We've had a coffee, we've had a chat, and you get something to try that might result in success. 
+
+Right, I don't do that for direct remuneration. I do that because I like helping people. I like other people being successful. I want organizations to be successful in agile because that helps all of us, all the employees of the company, the entire thing, the entire ecosystem. And that's charity.
