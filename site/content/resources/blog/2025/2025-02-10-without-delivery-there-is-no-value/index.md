@@ -19,7 +19,7 @@ tags:
 categories:
   - Delivery
   - People & Teams
-preview: 2025-02-03-delivery-as-the-ultimate-measure-of-progress.jpg
+preview: 2025-02-10-without-delivery-no-value.jpg
 ---
 
 ### **Without Delivery, There Is No Value**
