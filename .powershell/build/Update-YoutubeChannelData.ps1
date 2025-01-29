@@ -72,6 +72,7 @@ else {
 $videoUpdateCount = 0
 $captionsManafestUpdateCount = 0
 $captionsDownloadCount = 0
+$captionsDownloadMissing = 0
 foreach ($video in $videoData.Videos) {
     
     Write-Host "Processing $($video.contentDetails.videoId)"  -ForegroundColor Green
@@ -143,6 +144,7 @@ foreach ($video in $videoData.Videos) {
                     }
                 }
                 else {
+                    $captionsDownloadMissing++
                     Write-Host "  Reached capations download limit of $captionsDownloadLimit. skipping."
                 }
                
@@ -153,4 +155,11 @@ foreach ($video in $videoData.Videos) {
     else {
         Write-Host "  No caption list data manafest. skipping."
     }
+
+
 }
+
+Write-Host "Video Update Count: $videoUpdateCount"
+Write-Host "Captions Manafest Update Count: $captionsManafestUpdateCount"
+Write-Host "Captions Download Count: $captionsDownloadCount"
+Write-Host "Captions Download Missing: $captionsDownloadMissing"
