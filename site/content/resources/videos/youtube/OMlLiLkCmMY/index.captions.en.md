@@ -1,0 +1,1 @@
+You need to think about how you're going to change your organisation. You need to involve the people in your organisation in that story; otherwise, they're not going to be interested in what it is you're trying to achieve. Nobody really cares about your goals; they care about their own goals. The way you get them to care about your goals is you make their goals your goals.
