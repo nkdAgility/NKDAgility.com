@@ -9,6 +9,8 @@ summaryLength: 30
 enableRobotsTXT: true
 enableGitInfo: true
 
+timezone: "Europe/London"
+
 # Site-wide parameters
 params:
   description: "Technical leadership and engineering excellence for software teams. We deliver measurable outcomes through Lean, Agile, DevOps, and evidence-based methods. Experts in Azure DevOps, GitHub, .NET, Azure, and AI, we optimise value and enable smarter decisions."
@@ -77,7 +79,6 @@ cascade:
       path: /tags/**
     _build:
       render: never
-
 
 permalinks:
   taxonomy:
