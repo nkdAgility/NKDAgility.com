@@ -1,6 +1,8 @@
 <!doctype html>
 {{ if eq .Sites.Default.Home . }}
   {{ partialCached "infrastructure/publish-redirects.html" . }}
+  {{ partialCached "infrastructure/publish-tags.html" . }}
+  {{ partialCached "infrastructure/publish-categories.html" . }}
 {{ end }}
 <html lang="{{- or site.Language.LanguageCode }}" dir="{{- or site.Language.LanguageDirection `ltr` }}">
   <head>

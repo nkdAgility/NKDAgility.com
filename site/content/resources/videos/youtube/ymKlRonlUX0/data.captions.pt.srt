@@ -1,0 +1,548 @@
+1
+00:00:00,200 --> 00:00:05,240
+Outro fantasma do passado
+do Agile sÃ£o os grÃ¡ficos burndown.
+
+2
+00:00:06,500 --> 00:00:10,711
+Sabe, eu sempre tive problemas
+com grÃ¡ficos burndown.
+
+3
+00:00:10,711 --> 00:00:15,636
+Sempre me incomodava o fato
+de que havia algo errado com eles.
+
+4
+00:00:15,636 --> 00:00:19,767
+Todo mundo parecia falar
+que eles eram o Santo Graal
+
+5
+00:00:19,767 --> 00:00:22,230
+do monitoramento de uma equipe.
+
+6
+00:00:22,230 --> 00:00:26,983
+Mas quando se comeÃ§a
+a pensar em planejamento just-in-time,
+
+7
+00:00:26,983 --> 00:00:30,931
+o planejamento just-in-time
+nÃ£o se estende apenas
+
+8
+00:00:30,931 --> 00:00:35,362
+ao backlog do produto,
+mas tambÃ©m ao backlog do sprint.
+
+9
+00:00:35,362 --> 00:00:40,276
+E se fizermos o planejamento
+just-in-time, como serÃ¡ possÃ­vel
+
+10
+00:00:40,276 --> 00:00:44,787
+ter um burndown que reflita
+a equipe, o trabalho no qual
+
+11
+00:00:44,787 --> 00:00:46,882
+a equipe estÃ¡ trabalhando?
+
+12
+00:00:46,882 --> 00:00:47,849
+Pense nisso.
+
+13
+00:00:47,849 --> 00:00:51,393
+A forma como um burndown
+funciona Ã© do canto
+
+14
+00:00:51,393 --> 00:00:55,260
+superior esquerdo para
+o canto inferior direito.
+
+15
+00:00:55,260 --> 00:01:00,336
+Ele vai de uma lista de todas
+as coisas que precisamos entregar
+
+16
+00:01:00,336 --> 00:01:05,250
+atÃ© uma trajetÃ³ria em
+que jÃ¡ entregamos tudo o que estÃ¡ nela.
+
+17
+00:01:05,250 --> 00:01:09,930
+Para fazer isso, precisamos
+entender todas as coisas
+
+18
+00:01:09,930 --> 00:01:13,890
+que entrarÃ£o no backlog
+do sprint no inÃ­cio.
+
+19
+00:01:13,890 --> 00:01:18,765
+Ã por isso que vocÃª vÃª muitas equipes
+e organizaÃ§Ãµes fixadas na ideia de que,
+
+20
+00:01:18,765 --> 00:01:21,868
+depois de colocar
+as coisas no backlog do sprint,
+
+21
+00:01:21,868 --> 00:01:23,894
+nÃ£o Ã© possÃ­vel alterar o escopo.
+
+22
+00:01:23,894 --> 00:01:25,160
+Que besteira, nÃ£o Ã©?
+
+23
+00:01:26,300 --> 00:01:31,293
+A ideia de que nÃ£o se pode,
+de que se vocÃª for remover algo
+
+24
+00:01:31,293 --> 00:01:38,062
+do backlog do sprint, terÃ¡ de trazer algo
+do mesmo tamanho e todas essas coisas,
+
+25
+00:01:38,062 --> 00:01:43,901
+na verdade, Ã© apenas um reflexo
+do pensamento tradicional de projeto,
+
+26
+00:01:43,901 --> 00:01:50,163
+certo, temos um escopo, queremos mantÃª-lo,
+queremos controlÃ¡-lo, portanto,
+
+27
+00:01:50,163 --> 00:01:56,510
+teremos esse burndown que queremos
+estar nessa linha e isso Ã© uma porcaria.
+
+28
+00:01:56,510 --> 00:02:01,694
+A pior forma de fazer burndowns
+Ã© se vocÃª gastar horas em tarefas.
+
+29
+00:02:01,694 --> 00:02:06,956
+Essa Ã© provavelmente a pior forma,
+porque implica que criamos todas
+
+30
+00:02:06,956 --> 00:02:10,884
+as tarefas com todas
+as horas no inÃ­cio do sprint.
+
+31
+00:02:10,884 --> 00:02:13,711
+E nÃ£o estou falando de todas, certo?
+
+32
+00:02:13,711 --> 00:02:17,324
+HÃ¡ pelo menos uma pessoa
+pensando, mas Martin,
+
+33
+00:02:17,324 --> 00:02:20,859
+nÃ£o planejamos tudo isso,
+mas talvez tenhamos
+
+34
+00:02:20,859 --> 00:02:22,901
+90% do caminho percorrido.
+
+35
+00:02:22,901 --> 00:02:25,179
+Estou dizendo que 90% Ã© ruim.
+
+36
+00:02:25,179 --> 00:02:27,456
+Estou dizendo que 70% Ã© ruim.
+
+37
+00:02:27,456 --> 00:02:30,834
+Estou dizendo que 50%
+provavelmente Ã© ruim,
+
+38
+00:02:30,834 --> 00:02:31,305
+certo?
+
+39
+00:02:31,305 --> 00:02:35,782
+Descobrimos mais fazendo
+do que pensando antecipadamente.
+
+40
+00:02:35,782 --> 00:02:38,845
+Esse Ã© o contexto fundamental do Agile.
+
+41
+00:02:38,845 --> 00:02:42,851
+E qualquer pessoa
+que pense que pode criar produtos
+
+42
+00:02:42,851 --> 00:02:48,585
+que ainda nÃ£o existem e ter mais
+de 50% de probabilidade de que as coisas
+
+43
+00:02:48,585 --> 00:02:52,512
+que vocÃª traz sejam
+as coisas de que vocÃª precisa,
+
+44
+00:02:52,512 --> 00:02:57,460
+nÃ£o sei o que estÃ¡ fumando,
+mas seria Ã³timo ter um pouco disso.
+
+45
+00:02:57,460 --> 00:03:00,602
+Porque nÃ£o Ã© assim que o mundo funciona.
+
+46
+00:03:00,602 --> 00:03:02,330
+Como o mundo funciona.
+
+47
+00:03:02,330 --> 00:03:05,024
+Quando temos esse alto grau
+de probabilidade
+
+48
+00:03:05,024 --> 00:03:09,370
+de que as coisas serÃ£o diferentes,
+baixa previsibilidade do que achamos
+
+49
+00:03:09,370 --> 00:03:12,187
+que vai acontecer
+e do que realmente acontece,
+
+50
+00:03:12,187 --> 00:03:15,860
+precisamos de uma maneira diferente
+de gerenciar o trabalho.
+
+51
+00:03:15,860 --> 00:03:18,800
+Precisamos gerenciar
+o trabalho empiricamente e,
+
+52
+00:03:18,800 --> 00:03:23,089
+em qualquer processo empÃ­rico,
+no qual o Scrum se baseia no empirismo,
+
+53
+00:03:23,089 --> 00:03:25,906
+a maior parte do Agile
+se baseia no empirismo,
+
+54
+00:03:25,906 --> 00:03:29,337
+em qualquer processo empÃ­rico vocÃª
+nÃ£o saberÃ¡ o que serÃ¡
+
+55
+00:03:29,337 --> 00:03:30,991
+necessÃ¡rio para fazer algo.
+
+56
+00:03:30,991 --> 00:03:32,461
+Essa Ã© a primeira parte.
+
+57
+00:03:32,461 --> 00:03:35,524
+Portanto, se estivermos
+pensando que podemos criar
+
+58
+00:03:35,524 --> 00:03:38,342
+uma lista enorme de horas
+no inÃ­cio e, depois,
+
+59
+00:03:38,342 --> 00:03:42,140
+verificar se estamos nessa trajetÃ³ria,
+isso nÃ£o vai acontecer.
+
+60
+00:03:44,240 --> 00:03:47,938
+Portanto, uma soluÃ§Ã£o para isso
+que muitas equipes tentaram ou
+
+61
+00:03:47,938 --> 00:03:50,741
+que muitas equipes que eu
+vi tentaram Ã© queimar
+
+62
+00:03:50,741 --> 00:03:54,498
+em pontos de histÃ³ria,
+de modo que, em vez de queimar as horas,
+
+63
+00:03:54,498 --> 00:03:59,031
+eles queimam os pontos de histÃ³ria,
+de modo que seja um pouco menos granular
+
+64
+00:03:59,031 --> 00:04:01,774
+ou ainda menos granular
+e queime em histÃ³rias,
+
+65
+00:04:01,774 --> 00:04:06,367
+de modo que vocÃª obtenha essa linha mais
+irregular em vez de uma linha suave,
+
+66
+00:04:06,367 --> 00:04:10,542
+mas real e um pouco melhor,
+pelo menos se estivermos a 50% do caminho.
+
+67
+00:04:10,542 --> 00:04:13,583
+pelo menos se estivermos a 50%
+do sprint e tivermos
+
+68
+00:04:13,583 --> 00:04:16,863
+50% de valor entregue,
+isso provavelmente serÃ¡ o melhor
+
+69
+00:04:16,863 --> 00:04:20,979
+que o burndown conseguirÃ¡ nesse mundo
+em que trouxemos 10 coisas para
+
+70
+00:04:20,979 --> 00:04:24,557
+o sprint e vamos entregar 10 coisas,
+se estivermos na metade
+
+71
+00:04:24,557 --> 00:04:29,507
+do sprint e tivermos entregue cinco delas,
+as coisas estarÃ£o indo bem se estivermos
+
+72
+00:04:29,507 --> 00:04:32,549
+na metade do sprint
+e tivermos entregue trÃªs delas,
+
+73
+00:04:32,549 --> 00:04:34,696
+as coisas nÃ£o estÃ£o indo bem, certo?
+
+74
+00:04:34,696 --> 00:04:39,408
+Provavelmente, hÃ¡ muitas suposiÃ§Ãµes de
+que as coisas sÃ£o de tamanho semelhante,
+
+75
+00:04:39,408 --> 00:04:42,807
+hÃ¡ todos os tipos de suposiÃ§Ãµes,
+mas esse Ã© provavelmente
+
+76
+00:04:42,807 --> 00:04:44,000
+o melhor dos mundos.
+
+77
+00:04:45,060 --> 00:04:48,044
+Mas a realidade
+Ã© que todas elas se baseiam
+
+78
+00:04:48,044 --> 00:04:52,276
+na ideia de que vocÃª jÃ¡ decidiu o
+que Ã© essa coisa no inÃ­cio.
+
+79
+00:04:52,276 --> 00:04:56,786
+VocÃª jÃ¡ decidiu quantas dessas
+coisas vocÃª vai trazer de antemÃ£o.
+
+80
+00:04:56,786 --> 00:05:00,950
+E nÃ£o importa se sÃ£o horas,
+pontos de histÃ³ria ou histÃ³rias,
+
+81
+00:05:00,950 --> 00:05:02,684
+nÃ£o Ã© assim que funciona.
+
+82
+00:05:02,684 --> 00:05:06,570
+A maioria das equipes
+tem um grau maior de volatilidade.
+
+83
+00:05:06,570 --> 00:05:10,471
+Elas nÃ£o estÃ£o pensando apenas
+no valor entregue no sprint,
+
+84
+00:05:10,471 --> 00:05:11,662
+na meta de sprint.
+
+85
+00:05:11,662 --> 00:05:15,960
+Elas tambÃ©m estÃ£o pensando
+na dÃ­vida tÃ©cnica que temos que pagar?
+
+86
+00:05:15,960 --> 00:05:19,465
+Na refatoraÃ§Ã£o que talvez tenhamos
+que fazer enquanto
+
+87
+00:05:19,465 --> 00:05:21,118
+construÃ­mos esse produto.
+
+88
+00:05:21,118 --> 00:05:24,556
+Eles estÃ£o pensando
+nos pequenos bugs que continuam,
+
+89
+00:05:24,556 --> 00:05:28,458
+aquele fluxo constante
+de pequenos defeitos inconsequentes,
+
+90
+00:05:28,458 --> 00:05:31,433
+mas valiosos, que continuam
+a ser corrigidos,
+
+91
+00:05:31,433 --> 00:05:34,541
+pequenos defeitos
+inconsequentes, mas valiosos,
+
+92
+00:05:34,541 --> 00:05:39,302
+que continuam chegando ao sistema,
+vocÃª nÃ£o quer que eles se acumulem e,
+
+93
+00:05:39,302 --> 00:05:42,609
+portanto, tem que assumir
+alguns deles e responder
+
+94
+00:05:42,609 --> 00:05:47,899
+aos negÃ³cios e aos negÃ³cios que precisam
+de algo e ser capaz de responder a eles
+
+95
+00:05:47,899 --> 00:05:51,205
+ou a problemas de produÃ§Ã£o
+ou hÃ¡ muitos problemas,
+
+96
+00:05:51,205 --> 00:05:55,040
+a realidade Ã© que Ã© melhor
+se concentrar no fluxo de valor
+
+97
+00:05:55,040 --> 00:05:59,140
+por meio do sistema e manter
+um fluxo constante e consistente,
+
+98
+00:05:59,140 --> 00:06:03,835
+tanto quanto possÃ­vel, dentro dos limites
+do trabalho que estÃ¡ fazendo,
+
+99
+00:06:03,835 --> 00:06:06,811
+do que tentar atender
+a um grÃ¡fico arbitrÃ¡rio
+
+100
+00:06:06,811 --> 00:06:10,315
+do topo da esquerda para
+o fundo da direita, queimar.
+
+101
+00:06:10,315 --> 00:06:13,820
+Isso Ã© ridÃ­culo e Ã© um dos
+fantasmas do passado Ã¡gil.
+
+102
+00:06:15,580 --> 00:06:20,014
+Se vocÃª estiver sendo assombrado
+por esses fantasmas do passado Ã¡gil,
+
+103
+00:06:20,014 --> 00:06:23,612
+podemos ajudÃ¡-lo a exercitÃ¡-los
+ou a encontrar um coach,
+
+104
+00:06:23,612 --> 00:06:26,246
+consultor ou instrutor que possa fazÃª-lo.
+
+105
+00:06:26,246 --> 00:06:31,194
+NÃ£o deixe que esses fantasmas prejudiquem
+a eficÃ¡cia de sua entrega de valor.
+
+106
+00:06:31,194 --> 00:06:34,599
+Quanto mais tempo eles
+permanecerem, mais assombrarÃ£o
+
+107
+00:06:34,599 --> 00:06:36,270
+o progresso da sua equipe.
+
+108
+00:06:36,270 --> 00:06:39,835
+Envie-me um e-mail para
+martin arroba nkdagility.com
+
+109
+00:06:39,835 --> 00:06:43,127
+e nÃ³s o ajudaremos
+a chegar ao fundo da questÃ£o.
+
+110
+00:06:43,127 --> 00:06:46,075
+Se quiser conversar
+sobre suas necessidades
+
+111
+00:06:46,075 --> 00:06:49,229
+ou sua situaÃ§Ã£o especÃ­fica,
+agende uma ligaÃ§Ã£o
+
+112
+00:06:49,229 --> 00:06:51,560
+ou visite-nos em nakedagility.com.
+
+113
+00:06:51,560 --> 00:06:54,577
+TambÃ©m temos nossas
+aulas pÃºblicas imersivas
+
+114
+00:06:54,577 --> 00:06:58,760
+e tradicionais em nosso site
+e adorarÃ­amos ouvir sua opiniÃ£o.
+
+
