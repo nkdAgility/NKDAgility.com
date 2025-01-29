@@ -9,9 +9,9 @@
           <div class="video-container ratio ratio-16x9">
             <img class="card-img-top" src="https://i.ytimg.com/vi/{{ .Params.videoId }}/maxresdefault.jpg" loading="lazy" alt="{{ .Title }}" />
             <a href="{{ .Permalink }}" class="video-overlay">
-              <div class="overlay-content" style="align-items: center; padding: 5px; max-width: 90%;">
-                <img src="/images/play-square.png" class="play-button" alt="Play Button" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 0;" />
-                <h5 style="margin-top: 5px; position: relative; z-index: 1; text-align: center;">{{ .Title }}</h5>
+              <div class="overlay-content">
+                <img src="/images/play-square.png" class="play-button" alt="Play Button" />
+                <h5>{{ .Title }}</h5>
               </div>
             </a>
           </div>
@@ -76,14 +76,16 @@
     max-width: 90%;
     align-items: center;
     position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }
 
-  .video-overlay h5,
-  .video-overlay p {
-    margin-bottom: 5px;
-    padding: 0 5px;
+  .video-overlay h5 {
+    margin-top: 5px;
     color: white;
-    font-size: clamp(0.8rem, 2.5cqw + 0.8rem, 1.8rem); /* Scales based on card width */
+    font-size: clamp(0.8rem, calc(0.5em + 0.5rem), 1.8rem);
     position: relative;
     z-index: 1;
     text-align: center;
