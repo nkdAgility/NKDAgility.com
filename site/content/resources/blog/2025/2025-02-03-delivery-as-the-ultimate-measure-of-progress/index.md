@@ -59,7 +59,7 @@ A feature sitting on a shelf has the same business impact as a feature that was 
 
 ### How to Ensure Delivery Becomes the Default
 
-Scrum Teams must reframe their Definition of Done to include deployment. Every Sprint should result in increments that go into production. Here’s how teams can bridge the gap:
+Scrum Teams must reframe their Definition of Done to include deployment while ensuring that they [don't inadvertently compromise]({{< ref "/resources/blog/2025/2025-01-03-definition-of-done-objective-vs-subjective" >}}) it. Every Sprint should result in increments that go into production. Here’s how teams can bridge the gap:
 
 1. **Automate Everything**
 
@@ -80,6 +80,8 @@ Scrum Teams must reframe their Definition of Done to include deployment. Every S
 5. **Make Undelivered Work Visible**
 
    Track work that is "Done but not Delivered." If work is piling up, ask why. This is an issue of flow, not just completion.
+
+Remember [usable working product is how we manage risk and deliver value]({{< ref "/resources/blog/2023/2023-07-20-how-usable-working-products-are-your-ultimate-weapon-against-risks" >}}). If you are not delivering, you are not managing risk, and you are not delivering value.
 
 ### Conclusion
 
