@@ -1,5 +1,5 @@
 {{ $related := .Site.RegularPages.Related . }}
-{{ $videos := where $related ".Params.layout" "video" | first 4 }}
+{{ $videos := where (where $related ".Params.layout" "video") ".Params.isShort" "ne" true | first 4 }}
 {{ with $videos }}
   <h3>Related videos</h3>
   <div class="row">
@@ -9,9 +9,9 @@
           <div class="video-container ratio ratio-16x9">
             <img class="card-img-top" src="https://i.ytimg.com/vi/{{ .Params.videoId }}/maxresdefault.jpg" loading="lazy" alt="{{ .Title }}" />
             <a href="{{ .Permalink }}" class="video-overlay">
-              <div class="overlay-content" style="align-items: flex-start; padding-top: 0;">
-                <h5 style="margin-top: 5px;">{{ .Title }}</h5>
-                <img src="/images/play-square.png" class="play-button" alt="Play Button" />
+              <div class="overlay-content" style="align-items: center; padding: 5px; max-width: 90%;">
+                <img src="/images/play-square.png" class="play-button" alt="Play Button" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 0;" />
+                <h5 style="margin-top: 5px; position: relative; z-index: 1; text-align: center;">{{ .Title }}</h5>
               </div>
             </a>
           </div>
@@ -56,7 +56,7 @@
     height: 100%;
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
+    justify-content: center;
     align-items: center;
     text-align: center;
     background: rgba(0, 0, 0, 0.5);
@@ -64,7 +64,7 @@
     text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.8);
     text-decoration: none;
     transition: background 0.3s ease-in-out;
-    padding-top: 0;
+    padding: 0;
   }
 
   .video-overlay:hover {
@@ -72,24 +72,33 @@
   }
 
   .overlay-content {
-    padding: 10px;
-    max-width: 80%;
-    align-items: flex-start;
+    padding: 5px;
+    max-width: 90%;
+    align-items: center;
+    position: relative;
   }
 
   .video-overlay h5,
   .video-overlay p {
     margin-bottom: 5px;
-    padding: 0 10px;
+    padding: 0 5px;
     color: white;
-    font-size: clamp(0.6rem, 1vw + 0.6rem, 1.2rem);
+    font-size: clamp(0.8rem, 2.5cqw + 0.8rem, 1.8rem); /* Scales based on card width */
+    position: relative;
+    z-index: 1;
+    text-align: center;
   }
 
   .play-button {
-    width: 40%; /* Adjust based on container size to maintain 16:9 aspect ratio */
+    width: 40%;
     height: auto;
     opacity: 0.9;
     transition: opacity 0.3s ease-in-out;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 0;
   }
 
   .video-card:hover .play-button {
