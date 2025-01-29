@@ -1,0 +1,98 @@
+{{ $related := .Site.RegularPages.Related . }}
+{{ $videos := where $related ".Params.layout" "video" | first 4 }}
+{{ with $videos }}
+  <h3>Related videos</h3>
+  <div class="row">
+    {{ range . }}
+      <div class="col-md-12 col-xl-6 p-2">
+        <div class="card video-card">
+          <div class="video-container ratio ratio-16x9">
+            <img class="card-img-top" src="https://i.ytimg.com/vi/{{ .Params.videoId }}/maxresdefault.jpg" loading="lazy" alt="{{ .Title }}" />
+            <a href="{{ .Permalink }}" class="video-overlay">
+              <div class="overlay-content" style="align-items: flex-start; padding-top: 0;">
+                <h5 style="margin-top: 5px;">{{ .Title }}</h5>
+                <img src="/images/play-square.png" class="play-button" alt="Play Button" />
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    {{ end }}
+  </div>
+{{ else }}
+  <p>No related videos found.</p>
+{{ end }}
+
+
+<style>
+  .video-card {
+    border: none;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .video-container {
+    position: relative;
+    width: 100%;
+  }
+
+  .video-container .ratio {
+    width: 100%;
+    height: auto;
+  }
+
+  .video-container img.card-img-top {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  .video-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.8);
+    text-decoration: none;
+    transition: background 0.3s ease-in-out;
+    padding-top: 0;
+  }
+
+  .video-overlay:hover {
+    background: rgba(0, 0, 0, 0.7);
+  }
+
+  .overlay-content {
+    padding: 10px;
+    max-width: 80%;
+    align-items: flex-start;
+  }
+
+  .video-overlay h5,
+  .video-overlay p {
+    margin-bottom: 5px;
+    padding: 0 10px;
+    color: white;
+    font-size: clamp(0.6rem, 1vw + 0.6rem, 1.2rem);
+  }
+
+  .play-button {
+    width: 40%; /* Adjust based on container size to maintain 16:9 aspect ratio */
+    height: auto;
+    opacity: 0.9;
+    transition: opacity 0.3s ease-in-out;
+  }
+
+  .video-card:hover .play-button {
+    opacity: 1;
+  }
+</style>
