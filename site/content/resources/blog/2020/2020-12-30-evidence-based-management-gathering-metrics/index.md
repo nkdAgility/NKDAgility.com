@@ -1,30 +1,31 @@
 ---
-title: 'Evidence-based Management: Gathering the metrics'
+title: "Evidence-based Management: Gathering the metrics"
 description: Discover how to effectively gather metrics for Evidence-based Management in software organizations to enhance value delivery and drive agile success.
 date: 2020-12-30
+AudioNative: true
 creator: Martin Hinshelwood
 id: "10528"
 layout: blog
 resourceTypes: blog
 slug: evidence-based-management-gathering-metrics
 aliases:
-- /blog/evidence-based-management-gathering-metrics
-- /evidence-based-management-gathering-metrics
-- /evidence-based-management--gathering-the-metrics
-- /blog/evidence-based-management--gathering-the-metrics
+  - /blog/evidence-based-management-gathering-metrics
+  - /evidence-based-management-gathering-metrics
+  - /evidence-based-management--gathering-the-metrics
+  - /blog/evidence-based-management--gathering-the-metrics
 tags:
-- ebmgt
-- evidence
-- evidence-based-management
-- featured
-- leadership-track
-- merics
+  - ebmgt
+  - evidence
+  - evidence-based-management
+  - featured
+  - leadership-track
+  - merics
 categories:
-- measure-and-learn
-- people-and-process
+  - measure-and-learn
+  - people-and-process
 preview: naked-agility-evidence-based-management-1-1.jpg
-
 ---
+
 Gathering the metrics for Evidence-based Management in software organisations can be a strenuous task and I have a number of customers that are fretting on what to collect and from where. Here I try to create an understanding of the 'what' that we need to collect.
 
 [Updated to reflect the 2020 Scrum Guide!](https://nkdagility.com/the-2020-scrum-guide/)
