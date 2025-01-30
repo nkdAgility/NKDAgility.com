@@ -1,6 +1,7 @@
 ---
 title: Free Online training from Microsoft
 description: Unlock your potential with free online training from Microsoft! Explore workshops and courses on Visual Studio 2005 and SQL Server 2005. Limited time only!
+ResourceId: BGC7JkOCdJs
 date: 2007-03-27
 creator: Martin Hinshelwood
 id: "423"
@@ -10,6 +11,7 @@ slug: free-online-training-from-microsoft
 aliases:
 - /blog/free-online-training-from-microsoft
 - /free-online-training-from-microsoft
+- /resources/BGC7JkOCdJs
 tags:
 - tfs
 - tfs2010

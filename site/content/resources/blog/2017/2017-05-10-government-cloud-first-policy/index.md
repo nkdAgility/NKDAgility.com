@@ -1,6 +1,7 @@
 ---
 title: Government Cloud First policy
 description: Explore the UK Government's Cloud First policy and its impact on public sector cloud adoption. Discover how cloud solutions drive business agility and digital transformation.
+ResourceId: 6VDaSknKBPu
 date: 2017-05-10
 creator: Martin Hinshelwood
 id: "11882"
@@ -10,6 +11,7 @@ slug: government-cloud-first-policy
 aliases:
 - /blog/government-cloud-first-policy
 - /government-cloud-first-policy
+- /resources/6VDaSknKBPu
 tags:
 - agile
 - business-agility

@@ -1,6 +1,7 @@
 ---
 title: Windows CardSpace gets Firefox support
 description: Discover how Windows CardSpace now supports Firefox with a new plug-in, enhancing digital identity management. Download it today for seamless integration!
+ResourceId: S4ZOLBDIh7u
 date: 2006-12-14
 creator: Martin Hinshelwood
 id: "458"
@@ -10,6 +11,7 @@ slug: windows-cardspace-gets-firefox-support
 aliases:
 - /blog/windows-cardspace-gets-firefox-support
 - /windows-cardspace-gets-firefox-support
+- /resources/S4ZOLBDIh7u
 tags:
 - code
 preview: metro-binary-vb-128-link-1-1.png

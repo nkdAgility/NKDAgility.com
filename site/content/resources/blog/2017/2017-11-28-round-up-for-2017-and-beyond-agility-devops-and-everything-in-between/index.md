@@ -1,6 +1,7 @@
 ---
 title: 'Round up for 2017 and beyond: Agility, DevOps, and Everything In-between'
 description: Explore insights from 2017's top conferences on Agility and DevOps. Join Martin Hinshelwood as he shares experiences and valuable training opportunities.
+ResourceId: J0HjcdNvqGW
 date: 2017-11-28
 creator: Martin Hinshelwood
 id: "12146"
@@ -12,6 +13,7 @@ aliases:
 - /round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
 - /round-up-for-2017-and-beyond--agility,-devops,-and-everything-in-between
 - /blog/round-up-for-2017-and-beyond--agility,-devops,-and-everything-in-between
+- /resources/J0HjcdNvqGW
 categories:
 - agility
 - devops

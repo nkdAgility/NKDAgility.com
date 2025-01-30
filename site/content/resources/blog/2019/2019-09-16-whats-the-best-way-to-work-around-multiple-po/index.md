@@ -1,6 +1,7 @@
 ---
 title: What's the best way to work around multiple PO?
 description: Discover effective strategies for managing multiple Product Owners and enhancing backlog ownership to drive value delivery in your Scrum team.
+ResourceId: KIG3LzjF3zK
 date: 2019-09-16
 creator: Martin Hinshelwood
 id: "39853"
@@ -12,6 +13,7 @@ aliases:
 - /whats-the-best-way-to-work-around-multiple-po
 - /what's-the-best-way-to-work-around-multiple-po-
 - /blog/what's-the-best-way-to-work-around-multiple-po-
+- /resources/KIG3LzjF3zK
 tags:
 - product-owner
 categories:

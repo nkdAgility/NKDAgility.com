@@ -1,6 +1,7 @@
 ---
 title: The Product Goal is a commitment for the Product Backlog
 description: Discover the importance of the Product Goal in Scrum. Learn how it drives focus and transparency for your team’s success. Is your Product Goal defined?
+ResourceId: sVDzuTFDLSJ
 date: 2020-11-23
 creator: Martin Hinshelwood
 id: "45086"
@@ -10,6 +11,7 @@ slug: the-product-goal-is-a-commitment-for-the-product-backlog
 aliases:
 - /blog/the-product-goal-is-a-commitment-for-the-product-backlog
 - /the-product-goal-is-a-commitment-for-the-product-backlog
+- /resources/sVDzuTFDLSJ
 tags:
 - product-goal
 categories:

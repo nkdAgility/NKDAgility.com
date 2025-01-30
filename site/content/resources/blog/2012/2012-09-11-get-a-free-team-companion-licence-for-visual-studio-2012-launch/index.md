@@ -1,6 +1,7 @@
 ---
 title: Get a free Team Companion licence for Visual Studio 2012 Launch?
 description: Claim your free Team Companion license for Visual Studio 2012! Join the celebration and enhance your TFS experience with this powerful tool. Act fast!
+ResourceId: kl2QemMiXN4
 date: 2012-09-11
 creator: Martin Hinshelwood
 id: "8715"
@@ -12,6 +13,7 @@ aliases:
 - /get-a-free-team-companion-licence-for-visual-studio-2012-launch
 - /get-a-free-team-companion-licence-for-visual-studio-2012-launch-
 - /blog/get-a-free-team-companion-licence-for-visual-studio-2012-launch-
+- /resources/kl2QemMiXN4
 tags:
 - events-and-presentations
 - tfs

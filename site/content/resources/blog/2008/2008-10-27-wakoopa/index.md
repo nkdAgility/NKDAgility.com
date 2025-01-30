@@ -1,6 +1,7 @@
 ---
 title: Wakoopa
 description: Explore Wakoopa, an app that tracks your software usage and provides insightful stats. Join the Microsoft MVP team and enhance your productivity today!
+ResourceId: -dqfdSPfCHx
 date: 2008-10-27
 creator: Martin Hinshelwood
 id: "180"
@@ -10,6 +11,7 @@ slug: wakoopa
 aliases:
 - /blog/wakoopa
 - /wakoopa
+- /resources/-dqfdSPfCHx
 tags:
 - answers
 - tfs

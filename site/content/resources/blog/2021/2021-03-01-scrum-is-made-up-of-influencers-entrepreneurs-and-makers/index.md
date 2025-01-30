@@ -1,6 +1,7 @@
 ---
 title: Scrum is made up of Influencers, Entrepreneurs, and Makers
 description: Explore how Scrum thrives on the synergy of Influencers, Entrepreneurs, and Makers. Discover key roles and training for maximizing product value!
+ResourceId: DdQ1nKvk-hv
 date: 2021-03-01
 AudioNative: true
 creator: Martin Hinshelwood
@@ -9,21 +10,22 @@ layout: blog
 resourceTypes: blog
 slug: scrum-is-made-up-of-influencers-entrepreneurs-and-makers
 aliases:
-  - /blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
-  - /scrum-is-made-up-of-influencers-entrepreneurs-and-makers
-  - /scrum-is-made-up-of-influencers,-entrepreneurs,-and-makers
-  - /blog/scrum-is-made-up-of-influencers,-entrepreneurs,-and-makers
+- /blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
+- /scrum-is-made-up-of-influencers-entrepreneurs-and-makers
+- /scrum-is-made-up-of-influencers,-entrepreneurs,-and-makers
+- /blog/scrum-is-made-up-of-influencers,-entrepreneurs,-and-makers
+- /resources/DdQ1nKvk-hv
 tags:
-  - entrepreneurs
-  - leadership
-  - leadership-track
-  - technical-track
-  - value-track
+- entrepreneurs
+- leadership
+- leadership-track
+- technical-track
+- value-track
 categories:
-  - news-and-reviews
+- news-and-reviews
 preview: image-4-5-5.png
----
 
+---
 In the empirical world, we have 3 key skill areas of accountability that are needed to effectively deliver products of the highest possible value! We need Influencers that can provide leadership and create environments within which groups of people can organise the work. I consider this the Leadership Track where you have Scrum Masters, Coaches, and CEO. We need Entrepreneurs who can have a vision and project knowledge and understanding of that vision to the people that need to make that vision happen. This is the Value Track and may be made up of Product Owners, Analysts, and Subject Matter Experts. Last we have the Makers who are the ones who do the work that brings the product to life. They are on the Technical Track and focus on turning the vision into a reality. They have many skills and may have coders, testers, and other experts...
 
 ![](images/image-4-1280x720-4-4.png)

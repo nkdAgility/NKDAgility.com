@@ -2,6 +2,7 @@
 title: Unlocking the Power of Immersive Learning for Product Management
 description: Unlock real change in product development! Discover how immersive learning and outcome-based assignments empower teams to apply knowledge effectively.
 date: 2024-08-12T10:03:43Z
+ResourceId: KAqCTOIB4hk
 videoId: KAqCTOIB4hk
 source: internal
 url: /resources/videos/:slug

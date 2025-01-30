@@ -1,6 +1,7 @@
 ---
 title: Ahhh, the fun of deploying Team System in a large corporation
 description: Discover the challenges and solutions of deploying Team System in a large corporation. Learn tips and tricks to navigate server access issues effectively!
+ResourceId: w548lro11wJ
 date: 2006-12-15
 creator: Martin Hinshelwood
 id: "447"
@@ -12,6 +13,7 @@ aliases:
 - /ahhh-the-fun-of-deploying-team-system-in-a-large-corporation
 - /ahhh,-the-fun-of-deploying-team-system-in-a-large-corporation
 - /blog/ahhh,-the-fun-of-deploying-team-system-in-a-large-corporation
+- /resources/w548lro11wJ
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

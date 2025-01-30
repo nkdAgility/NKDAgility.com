@@ -2,6 +2,7 @@
 title: Automate Everything - Building Reliable, Fast, and Scalable Products
 description: Discover how automation transforms software development, enhancing reliability and speed. Learn to build scalable products and outpace competitors!
 date: 2025-01-15T06:45:00Z
+ResourceId: tKEl0YVeWv4
 videoId: tKEl0YVeWv4
 source: youtube
 url: /resources/videos/:slug

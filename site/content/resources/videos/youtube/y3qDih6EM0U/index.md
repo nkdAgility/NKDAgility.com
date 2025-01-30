@@ -2,6 +2,7 @@
 title: TechCheck Live Virtual PSF for Workday in Dublin on 25th May 2020
 description: Join us for TechCheck's Live Virtual PSF for Workday in Dublin on 25th May 2020, where innovation meets collaboration in the tech industry!
 date: 2020-05-22T12:18:17Z
+ResourceId: y3qDih6EM0U
 videoId: y3qDih6EM0U
 source: youtube
 url: /resources/videos/:slug

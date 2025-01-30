@@ -2,6 +2,7 @@
 title: The tools you use to train are awesome How do people transfer their training experience with these?
 description: Discover how digital tools enhance remote Scrum training, fostering collaboration and long-term learning in this insightful video with Martin Hinshelwood.
 date: 2023-04-24T07:00:03Z
+ResourceId: BRRQ1JWsHpQ
 videoId: BRRQ1JWsHpQ
 source: youtube
 url: /resources/videos/:slug

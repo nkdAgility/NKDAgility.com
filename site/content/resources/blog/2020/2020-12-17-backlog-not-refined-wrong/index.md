@@ -1,6 +1,7 @@
 ---
 title: If your backlog is not refined then you are doing it wrong
 description: Ensure your Scrum team's success by refining your Product Backlog. Discover effective strategies to enhance clarity and quality in Sprint Planning.
+ResourceId: 4ukwclfJlXy
 date: 2020-12-17
 AudioNative: true
 creator: Martin Hinshelwood
@@ -9,21 +10,22 @@ layout: blog
 resourceTypes: blog
 slug: backlog-not-refined-wrong
 aliases:
-  - /blog/backlog-not-refined-wrong
-  - /backlog-not-refined-wrong
-  - /if-your-backlog-is-not-refined-then-you-are-doing-it-wrong
-  - /blog/if-your-backlog-is-not-refined-then-you-are-doing-it-wrong
+- /blog/backlog-not-refined-wrong
+- /backlog-not-refined-wrong
+- /if-your-backlog-is-not-refined-then-you-are-doing-it-wrong
+- /blog/if-your-backlog-is-not-refined-then-you-are-doing-it-wrong
+- /resources/4ukwclfJlXy
 tags:
-  - product-backlog
-  - product-discovery
-  - refinement
+- product-backlog
+- product-discovery
+- refinement
 categories:
-  - agility
-  - discovery-ideation
-  - people-and-process
+- agility
+- discovery-ideation
+- people-and-process
 preview: naked-Agility-Scrum-Framework-Product-Backlog-2-1.jpg
----
 
+---
 Most [Scrum Teams](/the-2020-scrum-guide/#scrum-team) that I encounter don’t do refinement of their [Product Backlog](/the-2020-scrum-guide/#product-backlog) and try to work on things that they don’t understand correctly. However, if you get to the Sprint Planning event and your backlog is not ready, then you are doing it wrong. If what you build is not of good quality then you should [read about Defenition of Done](/blog/getting-started-definition-done-dod/).
 
 [Updated to reflect the 2020 Scrum Guide!](https://nkdagility.com/the-2020-scrum-guide/)

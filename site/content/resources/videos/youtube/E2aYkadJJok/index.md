@@ -2,6 +2,7 @@
 title: Kanban Boards for Campaign Success - The Ultimate Guide to Visualizing Your Workflow
 description: Unlock campaign success with Kanban! Learn to visualise your workflow, optimise processes, and boost collaboration in this ultimate guide.
 date: 2024-07-08T06:00:07Z
+ResourceId: E2aYkadJJok
 videoId: E2aYkadJJok
 url: /resources/videos/:slug
 slug: kanban-boards-for-campaign-success-the-ultimate-guide-to-visualizing-your-workflow

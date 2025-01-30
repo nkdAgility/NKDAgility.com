@@ -1,6 +1,7 @@
 ---
 title: Team Foundation server 2013 Update 2 RC is coming, are you ready?
 description: Get ready for TFS 2013 Update 2 RC! Join Microsoft's Upgrade Weekend for expert support and discover new features to enhance your development experience.
+ResourceId: VV_h0xkmY8J
 date: 2014-02-20
 creator: Martin Hinshelwood
 id: "10381"
@@ -12,6 +13,7 @@ aliases:
 - /team-foundation-server-2013-update-2-rc-coming-ready
 - /team-foundation-server-2013-update-2-rc-is-coming,-are-you-ready-
 - /blog/team-foundation-server-2013-update-2-rc-is-coming,-are-you-ready-
+- /resources/VV_h0xkmY8J
 tags:
 - tfs
 - tfs-2013

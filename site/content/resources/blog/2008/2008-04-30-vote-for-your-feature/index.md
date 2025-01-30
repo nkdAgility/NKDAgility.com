@@ -1,6 +1,7 @@
 ---
 title: Vote for your feature
 description: Cast your vote for the next features in TFS Sticky Buddy! Help shape version 2.0 by selecting the enhancements you want to see. Join the discussion now!
+ResourceId: 0gvfwOdoE6v
 date: 2008-04-30
 creator: Martin Hinshelwood
 id: "234"
@@ -10,6 +11,7 @@ slug: vote-for-your-feature
 aliases:
 - /blog/vote-for-your-feature
 - /vote-for-your-feature
+- /resources/0gvfwOdoE6v
 tags:
 - tfs-sticky-buddy
 - wit

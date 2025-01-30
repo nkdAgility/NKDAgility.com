@@ -1,6 +1,7 @@
 ---
-title: "The 7 Deadly Sins of Agile: A Grecian Odyssey through Modern Software Development"
+title: 'The 7 Deadly Sins of Agile: A Grecian Odyssey through Modern Software Development'
 description: Explore the 7 Deadly Sins of Agile through ancient Greek wisdom. Learn to navigate modern software challenges and foster a culture of growth and collaboration.
+ResourceId: DgJV3wMMjWr
 date: 2023-10-17
 AudioNative: true
 creator: Martin Hinshelwood
@@ -9,17 +10,18 @@ layout: blog
 resourceTypes: blog
 slug: the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
 aliases:
-  - /blog/the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
-  - /the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
-  - /the-7-deadly-sins-of-agile--a-grecian-odyssey-through-modern-software-development
-  - /blog/the-7-deadly-sins-of-agile--a-grecian-odyssey-through-modern-software-development
+- /blog/the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
+- /the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
+- /the-7-deadly-sins-of-agile--a-grecian-odyssey-through-modern-software-development
+- /blog/the-7-deadly-sins-of-agile--a-grecian-odyssey-through-modern-software-development
+- /resources/DgJV3wMMjWr
 tags:
-  - homepage
+- homepage
 categories:
-  - agility
+- agility
 preview: NKDAgility-technically-7DeadlySins-16-15.jpg
----
 
+---
 In the rich tapestry of ancient Greek philosophy, the concept of the seven deadly sins stands out as a profound exploration of human nature and morality. Deeply rooted in Greek thought, these sins were not seen as fleeting transgressions. Instead, they were formidable obstacles, barriers between individuals and a virtuous, fulfilling life.
 
 ![](images/NKDAgility-technically-7DeadlySins-jpg-15-16.webp)

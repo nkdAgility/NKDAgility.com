@@ -2,6 +2,7 @@
 title: ' shorts 7 Virtues of agile. Humility'
 description: 'Discover the power of humility in Agile! Join us as we explore one of the 7 virtues that drive successful teams. #Agile #Shorts #NakedAgility'
 date: 2023-12-12T11:00:04Z
+ResourceId: 2cSsuEzGkvU
 videoId: 2cSsuEzGkvU
 url: /resources/videos/:slug
 slug: -shorts-7-virtues-of-agile-humility

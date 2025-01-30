@@ -2,6 +2,7 @@
 title: What is the difference between a newbie scrum master and a professional scrum master?
 description: "Uncover the true essence of a Scrum Master! Explore key differences between newbies and pros, and enhance your leadership skills in Scrum. \U0001F31F"
 date: 2023-03-31T07:00:03Z
+ResourceId: 2k1726k9zvg
 videoId: 2k1726k9zvg
 url: /resources/videos/:slug
 slug: what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master-

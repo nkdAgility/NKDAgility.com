@@ -1,6 +1,7 @@
 ---
 title: SharePoint 3.0 TFS Sub-Site creation error.
 description: Encountering issues with SharePoint 3.0 TFS sub-site creation? Discover solutions and share your experiences in this insightful blog post by Martin Hinshelwood.
+ResourceId: x5FZPMNJgBF
 date: 2007-06-07
 creator: Martin Hinshelwood
 id: "388"
@@ -12,6 +13,7 @@ aliases:
 - /sharepoint-3-0-tfs-sub-site-creation-error
 - /sharepoint-3-0-tfs-sub-site-creation-error-
 - /blog/sharepoint-3-0-tfs-sub-site-creation-error-
+- /resources/x5FZPMNJgBF
 tags:
 - sharepoint
 - sp2007

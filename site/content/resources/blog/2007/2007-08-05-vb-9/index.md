@@ -1,6 +1,7 @@
 ---
 title: VB 9
 description: Explore the debate on Visual Basic vs. C# with insights from Martin Hinshelwood. Discover why VB 9 is considered superior in this engaging blog post!
+ResourceId: vaweB_aRVhL
 date: 2007-08-05
 creator: Martin Hinshelwood
 id: "341"
@@ -10,6 +11,7 @@ slug: vb-9
 aliases:
 - /blog/vb-9
 - /vb-9
+- /resources/vaweB_aRVhL
 tags:
 - tools
 - visual-basic

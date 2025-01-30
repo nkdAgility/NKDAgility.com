@@ -1,6 +1,7 @@
 ---
 title: SharePoint Content Request | What would you like to see?
 description: Explore the potential of SharePoint and TFS integration! Share your ideas for features that enhance collaboration and streamline processes in your intranet.
+ResourceId: pyKCdDNWdPB
 date: 2007-07-23
 creator: Martin Hinshelwood
 id: "361"
@@ -10,7 +11,13 @@ slug: sharepoint-content-request-what-would-you-like-to-see
 aliases:
 - /blog/sharepoint-content-request-what-would-you-like-to-see
 - /sharepoint-content-request-what-would-you-like-to-see
+- /sharepoint-content-request
 - /sharepoint-content-request---what-would-you-like-to-see-
+- /blog/sharepoint-content-request---what-would-you-like-to-see-
+- /resources/pyKCdDNWdPB
+
+---
+what-would-you-like-to-see-
 - /blog/sharepoint-content-request---what-would-you-like-to-see-
 preview: nakedalm-logo-128-link-1-1.png
 

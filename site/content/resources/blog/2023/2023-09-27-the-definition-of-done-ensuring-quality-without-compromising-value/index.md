@@ -1,6 +1,7 @@
 ---
-title: "The Definition of Done: Ensuring Quality without Compromising Value"
+title: 'The Definition of Done: Ensuring Quality without Compromising Value'
 description: Discover the importance of the Definition of Done in agile practices. Ensure quality and transparency in your projects with insights from NKDAgility. Learn more!
+ResourceId: DcwDyX1ZGUP
 date: 2023-09-27
 AudioNative: true
 creator: Martin Hinshelwood
@@ -9,18 +10,19 @@ layout: blog
 resourceTypes: blog
 slug: the-definition-of-done-ensuring-quality-without-compromising-value
 aliases:
-  - /blog/the-definition-of-done-ensuring-quality-without-compromising-value
-  - /the-definition-of-done-ensuring-quality-without-compromising-value
-  - /the-definition-of-done--ensuring-quality-without-compromising-value
-  - /blog/the-definition-of-done--ensuring-quality-without-compromising-value
+- /blog/the-definition-of-done-ensuring-quality-without-compromising-value
+- /the-definition-of-done-ensuring-quality-without-compromising-value
+- /the-definition-of-done--ensuring-quality-without-compromising-value
+- /blog/the-definition-of-done--ensuring-quality-without-compromising-value
+- /resources/DcwDyX1ZGUP
 tags:
-  - featured
-  - homepage
+- featured
+- homepage
 categories:
-  - agility
+- agility
 preview: NKDAgility-technically-DOD-Not-AC-3-1-1-1.jpg
----
 
+---
 The Definition of Done (DoD) is a sacrosanct measure of quality, ensuring that every piece of work meets the standards necessary for release. On the other hand, acceptance criteria focus on the work's content. Merging the two can risk the integrity of a working, usable product. This article delves into the nuances of maintaining the sanctity of the DoD while ensuring the delivery of valuable increments.
 
 ### Why having Acceptance Criteria on the Definition of Done risks the sanctity of the working usable product

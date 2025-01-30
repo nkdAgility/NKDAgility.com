@@ -2,6 +2,7 @@
 title: If you could distil the PAL e immersive learning experience into 3 major benefits, what are they?
 description: 'Discover the top 3 benefits of the PAL-E immersive learning experience with Joanna Plaskonka and elevate your Agile leadership skills! #Agile #Scrum'
 date: 2023-07-13T12:20:07Z
+ResourceId: wawnGp8b2q8
 videoId: wawnGp8b2q8
 url: /resources/videos/:slug
 slug: if-you-could-distil-the-pal-e-immersive-learning-experience-into-3-major-benefits,-what-are-they-

@@ -1,6 +1,7 @@
 ---
 title: Removing a dead Solution Deployment from MOSS 2007
 description: Learn how to effectively remove a stuck solution deployment in MOSS 2007. Follow our step-by-step guide to resolve deployment issues with ease!
+ResourceId: JD6-7WEsi2d
 date: 2008-12-10
 creator: Martin Hinshelwood
 id: "155"
@@ -10,6 +11,7 @@ slug: removing-a-dead-solution-deployment-from-moss-2007
 aliases:
 - /blog/removing-a-dead-solution-deployment-from-moss-2007
 - /removing-a-dead-solution-deployment-from-moss-2007
+- /resources/JD6-7WEsi2d
 tags:
 - moss2007
 - sharepoint

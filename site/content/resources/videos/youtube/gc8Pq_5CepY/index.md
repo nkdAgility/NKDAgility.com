@@ -2,6 +2,7 @@
 title: 3rd June 2020 - Office Hours \ Ask Me Anything
 description: Join Martin, a Scrum Trainer and Azure DevOps MVP, for an engaging AMA on DevOps and Agility. Ask your questions live or submit them privately!
 date: 2020-06-04T05:33:42Z
+ResourceId: gc8Pq_5CepY
 videoId: gc8Pq_5CepY
 url: /resources/videos/:slug
 slug: 3rd-june-2020-office-hours-ask-me-anything

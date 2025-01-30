@@ -1,6 +1,7 @@
 ---
 title: MSN Cartoon (Beta)
 description: Explore the MSN Cartoon Beta and learn how to create custom avatars with this fun guide. Unleash your creativity and share your unique cartoon self!
+ResourceId: fFkCnlj8PXW
 date: 2007-08-04
 creator: Martin Hinshelwood
 id: "347"
@@ -12,6 +13,7 @@ aliases:
 - /msn-cartoon-beta
 - /msn-cartoon-(beta)
 - /blog/msn-cartoon-(beta)
+- /resources/fFkCnlj8PXW
 tags:
 - answers
 categories:

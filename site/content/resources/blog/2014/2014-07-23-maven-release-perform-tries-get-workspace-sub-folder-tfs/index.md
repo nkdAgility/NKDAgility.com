@@ -1,6 +1,7 @@
 ---
 title: Maven release perform tries to do a Get to a workspace sub folder in TFS
 description: Discover how to resolve Maven release issues with TFS when switching from SVN. Learn best practices for a smoother build and release process.
+ResourceId: yXZtGRWsXfS
 date: 2014-07-23
 creator: Martin Hinshelwood
 id: "10620"
@@ -12,6 +13,7 @@ aliases:
 - /maven-release-perform-tries-get-workspace-sub-folder-tfs
 - /maven-release-perform-tries-to-do-a-get-to-a-workspace-sub-folder-in-tfs
 - /blog/maven-release-perform-tries-to-do-a-get-to-a-workspace-sub-folder-in-tfs
+- /resources/yXZtGRWsXfS
 tags:
 - java
 - jenkins

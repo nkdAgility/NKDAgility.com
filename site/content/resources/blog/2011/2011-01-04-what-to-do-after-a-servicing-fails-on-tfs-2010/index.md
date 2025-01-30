@@ -1,6 +1,7 @@
 ---
 title: What to do after a servicing fails on TFS 2010
 description: Discover essential steps to take when a servicing fails on TFS 2010. Learn from real-world challenges and expert solutions to ensure a smooth upgrade.
+ResourceId: 3MtCtNaIpU3
 date: 2011-01-04
 creator: Martin Hinshelwood
 id: "20"
@@ -10,6 +11,7 @@ slug: what-to-do-after-a-servicing-fails-on-tfs-2010
 aliases:
 - /blog/what-to-do-after-a-servicing-fails-on-tfs-2010
 - /what-to-do-after-a-servicing-fails-on-tfs-2010
+- /resources/3MtCtNaIpU3
 tags:
 - nwcadence
 - tf254078

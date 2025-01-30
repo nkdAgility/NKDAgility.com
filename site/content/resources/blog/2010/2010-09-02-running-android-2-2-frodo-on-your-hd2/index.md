@@ -1,6 +1,7 @@
 ---
 title: Running Android 2.2 (Frodo) on your HD2
 description: Discover how to run Android 2.2 (Frodo) on your HD2 for a superior mobile experience. Step-by-step guide and tips for optimal performance await!
+ResourceId: pEjQq9m7081
 date: 2010-09-02
 creator: Martin Hinshelwood
 id: "29"
@@ -12,6 +13,7 @@ aliases:
 - /running-android-2-2-frodo-on-your-hd2
 - /running-android-2-2-(frodo)-on-your-hd2
 - /blog/running-android-2-2-(frodo)-on-your-hd2
+- /resources/pEjQq9m7081
 tags:
 - android
 - mobile

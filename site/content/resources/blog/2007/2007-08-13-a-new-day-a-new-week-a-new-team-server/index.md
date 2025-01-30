@@ -1,6 +1,7 @@
 ---
 title: A new day, a new week, a new Team Server
 description: Discover the seamless upgrade to TFS2008 and explore new project capabilities with Visual Studio 2005. Enhance your development environment today!
+ResourceId: 6c2D94gL-Fn
 date: 2007-08-13
 creator: Martin Hinshelwood
 id: "333"
@@ -12,6 +13,7 @@ aliases:
 - /a-new-day-a-new-week-a-new-team-server
 - /a-new-day,-a-new-week,-a-new-team-server
 - /blog/a-new-day,-a-new-week,-a-new-team-server
+- /resources/6c2D94gL-Fn
 tags:
 - ml
 - tfs

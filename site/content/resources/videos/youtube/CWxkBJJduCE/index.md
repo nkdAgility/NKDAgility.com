@@ -2,6 +2,7 @@
 title: Redefining test driven development
 description: Explore innovative approaches to test-driven development in this insightful excerpt from our "Quality Code" series. Elevate your engineering excellence!
 date: 2024-11-19T16:55:41Z
+ResourceId: CWxkBJJduCE
 videoId: CWxkBJJduCE
 url: /resources/videos/:slug
 slug: redefining-test-driven-development

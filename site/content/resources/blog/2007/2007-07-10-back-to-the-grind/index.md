@@ -1,6 +1,7 @@
 ---
 title: Back to the grind
 description: Join Martin Hinshelwood as he reflects on his paternity leave and the joy of welcoming his baby girl, before diving back into the work grind.
+ResourceId: dcAyw0f562g
 date: 2007-07-10
 creator: Martin Hinshelwood
 id: "373"
@@ -10,6 +11,7 @@ slug: back-to-the-grind
 aliases:
 - /blog/back-to-the-grind
 - /back-to-the-grind
+- /resources/dcAyw0f562g
 categories:
 - me
 preview: nakedalm-logo-128-link-2-2.png

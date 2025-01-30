@@ -1,6 +1,7 @@
 ---
 title: Hiring a Professional Scrum Master
 description: Discover essential insights for hiring a Scrum Master. Learn key skills, certifications, and role expectations to find the perfect fit for your team.
+ResourceId: 1EEAZ-ldcTz
 date: 2021-03-15
 AudioNative: true
 creator: Martin Hinshelwood
@@ -8,17 +9,18 @@ layout: blog
 resourceTypes: blog
 slug: hiring-a-professional-scrum-master
 aliases:
-  - /blog/hiring-a-professional-scrum-master
-  - /hiring-a-professional-scrum-master
+- /blog/hiring-a-professional-scrum-master
+- /hiring-a-professional-scrum-master
+- /resources/1EEAZ-ldcTz
 tags:
-  - scrum-master
-  - scrum-masters
+- scrum-master
+- scrum-masters
 categories:
-  - news-and-reviews
-  - people-and-process
+- news-and-reviews
+- people-and-process
 preview: Wide-screen-scrum-master-3-3.jpg
----
 
+---
 One of my customers is hiring for the Scrum Master Role and asked if I had a handy-dandy Scrum Master Job Spec that they could use. I did not, but there have been a few good ones floating around in the ether so I thought that pulling one together would be a good idea anyway. Here is my best effort to use the existing job postings, and combine them with the latest version of the Scrum Guide.
 
 <figure>

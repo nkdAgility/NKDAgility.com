@@ -1,6 +1,7 @@
 ---
 title: First day at Aggreko
 description: Join me on my first day at Aggreko, where I dive into deploying SharePoint and experience their impressive efficiency. Discover my journey and insights!
+ResourceId: cUlDU2EJV6s
 date: 2007-09-17
 creator: Martin Hinshelwood
 id: "310"
@@ -10,6 +11,7 @@ slug: first-day-at-aggreko
 aliases:
 - /blog/first-day-at-aggreko
 - /first-day-at-aggreko
+- /resources/cUlDU2EJV6s
 tags:
 - aggreko
 - sp2007

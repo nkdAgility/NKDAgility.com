@@ -1,6 +1,7 @@
 ---
 title: Do you know about the Visual Studio 2010 Architecture Guidance?
 description: Discover the Visual Studio 2010 Architecture Guidance! Enhance your development skills with practical tips, hands-on labs, and easy access to essential tools.
+ResourceId: _88PkXdkKu8
 date: 2011-02-04
 creator: Martin Hinshelwood
 id: "16"
@@ -12,6 +13,7 @@ aliases:
 - /do-you-know-about-the-visual-studio-2010-architecture-guidance
 - /do-you-know-about-the-visual-studio-2010-architecture-guidance-
 - /blog/do-you-know-about-the-visual-studio-2010-architecture-guidance-
+- /resources/_88PkXdkKu8
 tags:
 - nwcadence
 - tools

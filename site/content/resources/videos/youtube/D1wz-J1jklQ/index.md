@@ -2,6 +2,7 @@
 title: The Power of Frequent Deployments - Reducing Technical Debt and Delivering Better Products
 description: Unlock the power of frequent deployments! Discover how smaller releases reduce technical debt, enhance product quality, and boost customer satisfaction.
 date: 2025-01-13T06:45:00Z
+ResourceId: D1wz-J1jklQ
 videoId: D1wz-J1jklQ
 source: youtube
 url: /resources/videos/:slug

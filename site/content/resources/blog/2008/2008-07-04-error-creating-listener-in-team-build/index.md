@@ -1,6 +1,7 @@
 ---
 title: Error creating listener in Team Build
 description: Resolve the 'AddressAccessDeniedException' error in Team Build by granting the right permissions to your service account. Get expert tips and solutions!
+ResourceId: Eonka3snrWz
 date: 2008-07-04
 creator: Martin Hinshelwood
 id: "218"
@@ -10,6 +11,7 @@ slug: error-creating-listener-in-team-build
 aliases:
 - /blog/error-creating-listener-in-team-build
 - /error-creating-listener-in-team-build
+- /resources/Eonka3snrWz
 tags:
 - tools
 preview: nakedalm-logo-128-link-1-1.png

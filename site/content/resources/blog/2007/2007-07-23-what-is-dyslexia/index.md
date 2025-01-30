@@ -1,6 +1,7 @@
 ---
 title: What is dyslexia?
 description: Discover the multifaceted world of dyslexia, exploring its challenges and unique strengths. Learn how dyslexic individuals can thrive with their abilities!
+ResourceId: 97Evnsuws6e
 date: 2007-07-23
 creator: Martin Hinshelwood
 id: "360"
@@ -12,6 +13,7 @@ aliases:
 - /what-is-dyslexia
 - /what-is-dyslexia-
 - /blog/what-is-dyslexia-
+- /resources/97Evnsuws6e
 tags:
 - dyslexia
 preview: nakedalm-logo-128-link-1-1.png

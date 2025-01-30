@@ -2,6 +2,7 @@
 title: PAL Class Of 23 July 2020 for Everyone in EST
 description: Join our Professional Agile Leadership workshop on 23-24 July 2020! Open to all, learn key skills in a live virtual format. Register now!
 date: 2020-07-12T11:06:57Z
+ResourceId: rzw7aPbz_sg
 videoId: rzw7aPbz_sg
 source: youtube
 url: /resources/videos/:slug

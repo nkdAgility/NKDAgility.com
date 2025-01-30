@@ -2,6 +2,7 @@
 title: Would you recommend a team APS workshop or an agile consultant?
 description: Discover whether an APS workshop or agile consultant is best for your team. Join Martin Hinshelwood as he shares insights on mastering Scrum for effective product development.
 date: 2023-04-05T07:00:03Z
+ResourceId: 76mGfF0KoD0
 videoId: 76mGfF0KoD0
 url: /resources/videos/:slug
 slug: would-you-recommend-a-team-aps-workshop-or-an-agile-consultant-

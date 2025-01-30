@@ -1,6 +1,7 @@
 ---
 title: 'Scrum with Visual Studio 11: Creating a Scrum team identity'
 description: Discover how to create a Scrum team identity with Visual Studio 11. Enhance your workflow and collaboration in this insightful guide by Martin Hinshelwood.
+ResourceId: lcqmvIZfw-_
 date: 2011-10-25
 creator: Martin Hinshelwood
 id: "3831"
@@ -12,6 +13,7 @@ aliases:
 - /scrum-with-dev11-creating-a-scrum-team-identity
 - /scrum-with-visual-studio-11--creating-a-scrum-team-identity
 - /blog/scrum-with-visual-studio-11--creating-a-scrum-team-identity
+- /resources/lcqmvIZfw-_
 tags:
 - nwcadence
 - process

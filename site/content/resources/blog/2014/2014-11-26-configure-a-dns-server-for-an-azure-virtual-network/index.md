@@ -1,6 +1,7 @@
 ---
 title: Configure a DNS server for an Azure Virtual Network
 description: Learn how to configure a DNS server for your Azure Virtual Network, ensuring seamless domain integration and network management. Enhance your cloud setup today!
+ResourceId: sQQqpuZV5xQ
 date: 2014-11-26
 creator: Martin Hinshelwood
 id: "10878"
@@ -10,6 +11,7 @@ slug: configure-a-dns-server-for-an-azure-virtual-network
 aliases:
 - /blog/configure-a-dns-server-for-an-azure-virtual-network
 - /configure-a-dns-server-for-an-azure-virtual-network
+- /resources/sQQqpuZV5xQ
 tags:
 - azure
 - dns

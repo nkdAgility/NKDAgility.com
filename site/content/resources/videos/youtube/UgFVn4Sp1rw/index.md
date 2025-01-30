@@ -2,6 +2,7 @@
 title: Measuring and Monitoring Costs for Continuous Improvement
 description: Unlock the secrets of product costs and ROI in software development. Empower your team with financial insights for continuous improvement!
 date: 2024-12-20T07:00:00Z
+ResourceId: UgFVn4Sp1rw
 videoId: UgFVn4Sp1rw
 source: youtube
 url: /resources/videos/:slug

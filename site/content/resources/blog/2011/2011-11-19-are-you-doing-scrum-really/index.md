@@ -1,6 +1,7 @@
 ---
 title: Are you doing Scrum? Really?
 description: Explore the evolving landscape of Scrum and discover a simple checklist to ensure you're truly practicing it. Embrace adaptability for better results!
+ResourceId: X1Hm4PJt0CV
 date: 2011-11-19
 creator: Martin Hinshelwood
 id: "4049"
@@ -12,6 +13,7 @@ aliases:
 - /are-you-doing-scrum-really
 - /are-you-doing-scrum--really-
 - /blog/are-you-doing-scrum--really-
+- /resources/X1Hm4PJt0CV
 tags:
 - develop
 - nwcadence

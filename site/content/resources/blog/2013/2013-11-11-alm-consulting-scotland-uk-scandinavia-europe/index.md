@@ -1,6 +1,7 @@
 ---
 title: ALM Consulting in Scotland, UK, Scandinavia &amp; Europe
 description: Discover expert ALM consulting across Scotland, the UK, and Europe. Enhance your software development processes with tailored training and coaching.
+ResourceId: ETl5K8OQ9kV
 date: 2013-11-11
 creator: Martin Hinshelwood
 id: "10226"
@@ -12,6 +13,7 @@ aliases:
 - /alm-consulting-scotland-uk-scandinavia-europe
 - /alm-consulting-in-scotland,-uk,-scandinavia-&amp;-europe
 - /blog/alm-consulting-in-scotland,-uk,-scandinavia-&amp;-europe
+- /resources/ETl5K8OQ9kV
 tags:
 - automated-build
 - automation

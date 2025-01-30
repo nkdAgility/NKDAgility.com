@@ -1,6 +1,7 @@
 ---
 title: Hosted Sticky Buddy
 description: Discover the hosted TFS Sticky Buddy, a fast deployment tool for .NET 3.5 and Team Explorer 2008 users. Enhance your workflow with ease!
+ResourceId: 4r5fzbQPMir
 date: 2008-08-04
 creator: Martin Hinshelwood
 id: "215"
@@ -10,6 +11,7 @@ slug: hosted-sticky-buddy
 aliases:
 - /blog/hosted-sticky-buddy
 - /hosted-sticky-buddy
+- /resources/4r5fzbQPMir
 tags:
 - tfs-sticky-buddy
 - tools

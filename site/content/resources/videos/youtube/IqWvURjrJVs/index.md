@@ -2,6 +2,7 @@
 title: Znaczenie znajomości terenu
 description: "Discover how understanding terrain enhances agility through Poland's unique mushroom foraging sport. Join us in exploring agile principles! \U0001F344✨"
 date: 2023-08-10T14:45:00Z
+ResourceId: IqWvURjrJVs
 videoId: IqWvURjrJVs
 url: /resources/videos/:slug
 slug: znaczenie-znajomości-terenu

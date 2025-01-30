@@ -1,6 +1,7 @@
 ---
 title: Update to the Scrum Guide on the 25th Anniversary of the Scrum Framework
 description: Discover the latest updates to the Scrum Guide on its 25th anniversary, simplifying Scrum for better team management and accountability. Read more!
+ResourceId: 7CqdvOa9t4c
 date: 2020-11-18
 creator: Martin Hinshelwood
 id: "45077"
@@ -12,6 +13,7 @@ aliases:
 - /update-scrum-guide-25th-anniversary-scrum-framework
 - /update-to-the-scrum-guide-on-the-25th-anniversary-of-the-scrum-framework
 - /blog/update-to-the-scrum-guide-on-the-25th-anniversary-of-the-scrum-framework
+- /resources/7CqdvOa9t4c
 tags:
 - leadership-track
 - scrum-theory

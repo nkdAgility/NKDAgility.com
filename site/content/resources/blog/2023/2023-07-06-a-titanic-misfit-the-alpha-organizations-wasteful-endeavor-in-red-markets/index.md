@@ -1,6 +1,7 @@
 ---
 title: "A Titanic Misfit: The Alpha Organization's Wasteful Endeavor in Red Markets"
 description: Explore how Alpha organizations waste resources in fast-paced red markets and discover the agile Beta model as the key to thriving in today's economy.
+ResourceId: jW4sFDdDkvn
 date: 2023-07-06
 AudioNative: true
 creator: Martin Hinshelwood
@@ -9,18 +10,19 @@ layout: blog
 resourceTypes: blog
 slug: a-titanic-misfit-the-alpha-organizations-wasteful-endeavor-in-red-markets
 aliases:
-  - /blog/a-titanic-misfit-the-alpha-organizations-wasteful-endeavor-in-red-markets
-  - /a-titanic-misfit-the-alpha-organizations-wasteful-endeavor-in-red-markets
-  - /a-titanic-misfit--the-alpha-organization's-wasteful-endeavor-in-red-markets
-  - /blog/a-titanic-misfit--the-alpha-organization's-wasteful-endeavor-in-red-markets
+- /blog/a-titanic-misfit-the-alpha-organizations-wasteful-endeavor-in-red-markets
+- /a-titanic-misfit-the-alpha-organizations-wasteful-endeavor-in-red-markets
+- /a-titanic-misfit--the-alpha-organization's-wasteful-endeavor-in-red-markets
+- /blog/a-titanic-misfit--the-alpha-organization's-wasteful-endeavor-in-red-markets
+- /resources/jW4sFDdDkvn
 tags:
-  - featured
-  - homepage
+- featured
+- homepage
 categories:
-  - organisational-change
+- organisational-change
 preview: image-1.jpg
----
 
+---
 Under the ruthless canopy of the red market, I find myself staring at the bloated behemoth of an Alpha organisation, huffing and puffing in a vain attempt to keep up with the frenzied pace of the modern world. The Alpha model, once a paragon of order and efficiency in the leisurely blue market era, has now morphed into a lumbering dinosaur, with its hierarchical structures and rigid command and control systems looking out of place in the high-speed, unpredictable red markets.
 
 > Alpha Organizations: Born in the Industrial Age, they are hierarchical and less adaptable.

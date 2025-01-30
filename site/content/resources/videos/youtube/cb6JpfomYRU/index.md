@@ -2,6 +2,7 @@
 title: How much of a competitive edge will the immersive PSM course deliver to delegates?
 description: Discover how our immersive 7-week Professional Scrum Master course gives you a competitive edge over traditional workshops. Elevate your team's skills today!
 date: 2023-07-13T07:41:01Z
+ResourceId: cb6JpfomYRU
 videoId: cb6JpfomYRU
 url: /resources/videos/:slug
 slug: how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates-

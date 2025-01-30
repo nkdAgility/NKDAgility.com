@@ -1,6 +1,7 @@
 ---
 title: ALM Events and public courses in 2015 Q2
 description: Join Martin Hinshelwood for live online ALM training courses in Q2 2015, covering DevOps, Scrum, and project management. Enhance your skills today!
+ResourceId: ag9EVTamt5M
 date: 2015-03-11
 creator: Martin Hinshelwood
 id: "11248"
@@ -10,6 +11,7 @@ slug: alm-events-and-public-courses-in-2015-q2
 aliases:
 - /blog/alm-events-and-public-courses-in-2015-q2
 - /alm-events-and-public-courses-in-2015-q2
+- /resources/ag9EVTamt5M
 tags:
 - agile-portfolio-management
 - configuration

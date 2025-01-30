@@ -1,6 +1,7 @@
 ---
 title: The search for a single point of truth
 description: Discover effective strategies for syncing your contacts across platforms and achieving a single point of truth. Streamline your connections today!
+ResourceId: nWNc5jUb0Up
 date: 2010-07-07
 creator: Martin Hinshelwood
 id: "34"
@@ -10,6 +11,7 @@ slug: the-search-for-a-single-point-of-truth
 aliases:
 - /blog/the-search-for-a-single-point-of-truth
 - /the-search-for-a-single-point-of-truth
+- /resources/nWNc5jUb0Up
 tags:
 - linkedin
 - off-topic

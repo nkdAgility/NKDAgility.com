@@ -2,6 +2,7 @@
 title: DevOps Migration. Downtime
 description: Discover strategies to minimise downtime during Azure DevOps migrations. Learn from real-world examples and expert tips for a seamless transition!
 date: 2024-11-05T06:00:34Z
+ResourceId: tzmbqdEULUY
 videoId: tzmbqdEULUY
 url: /resources/videos/:slug
 slug: devops-migration-downtime

@@ -1,6 +1,7 @@
 ---
 title: Where am I?
 description: Explore the innovative Locator project using LINQ and .NET 3.5 to track user locations in real-time, enhancing connectivity and efficiency in your workplace.
+ResourceId: LIBAeHbeyk9
 date: 2007-11-09
 creator: Martin Hinshelwood
 id: "294"
@@ -12,6 +13,7 @@ aliases:
 - /where-am-i
 - /where-am-i-
 - /blog/where-am-i-
+- /resources/LIBAeHbeyk9
 tags:
 - ml
 - wcf

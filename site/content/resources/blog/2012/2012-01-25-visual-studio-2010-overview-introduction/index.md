@@ -1,6 +1,7 @@
 ---
 title: Visual Studio 2010 Overview - Introduction
 description: Explore the features of Visual Studio 2010 in this overview, designed to enhance your understanding of ALM and guide you to deeper-dive sessions. Watch now!
+ResourceId: 2d6IQ5TVE-_
 date: 2012-01-25
 creator: Martin Hinshelwood
 id: "4131"
@@ -10,7 +11,13 @@ slug: visual-studio-2010-overview-introduction
 aliases:
 - /blog/visual-studio-2010-overview-introduction
 - /visual-studio-2010-overview-introduction
+- /visual-studio-2010-overview
 - /visual-studio-2010-overview---introduction
+- /blog/visual-studio-2010-overview---introduction
+- /resources/2d6IQ5TVE-_
+
+---
+introduction
 - /blog/visual-studio-2010-overview---introduction
 tags:
 - modern-alm

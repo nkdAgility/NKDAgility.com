@@ -1,6 +1,7 @@
 ---
 title: 'Project Server 2013 Issue – TF294026: The following work item field does not exist'
 description: Resolve the TF294026 error in Project Server 2013 with our guide. Learn how to add missing work item fields for seamless Team Foundation Server integration.
+ResourceId: zTaVoXPnTVP
 date: 2012-11-02
 creator: Martin Hinshelwood
 id: "9103"
@@ -12,6 +13,7 @@ aliases:
 - /project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
 - /project-server-2013-issue-–-tf294026--the-following-work-item-field-does-not-exist
 - /blog/project-server-2013-issue-–-tf294026--the-following-work-item-field-does-not-exist
+- /resources/zTaVoXPnTVP
 tags:
 - configuration
 - infrastructure

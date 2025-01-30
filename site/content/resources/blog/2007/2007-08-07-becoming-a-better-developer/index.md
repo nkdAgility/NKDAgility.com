@@ -1,6 +1,7 @@
 ---
 title: Becoming a better developer...
 description: Explore practical tips and personal insights on becoming a better developer, including studying, tools, and embracing dyslexia as a strength.
+ResourceId: BonYegnhwPu
 date: 2007-08-07
 creator: Martin Hinshelwood
 id: "339"
@@ -10,7 +11,12 @@ slug: becoming-a-better-developer
 aliases:
 - /blog/becoming-a-better-developer
 - /becoming-a-better-developer
+- /becoming-a-better-developer
 - /becoming-a-better-developer---
+- /blog/becoming-a-better-developer---
+- /resources/BonYegnhwPu
+
+---
 - /blog/becoming-a-better-developer---
 tags:
 - dyslexia

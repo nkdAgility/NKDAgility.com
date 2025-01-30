@@ -1,6 +1,7 @@
 ---
 title: How to rename a Team Project in TFS 2015
 description: Learn how to easily rename a Team Project in TFS 2015 with our step-by-step guide. Ensure a smooth transition and minimal impact on your workflow!
+ResourceId: ysF0Hy8v8Rf
 date: 2015-04-30
 creator: Martin Hinshelwood
 id: "11317"
@@ -10,6 +11,7 @@ slug: how-to-rename-a-team-project-in-tfs-2015
 aliases:
 - /blog/how-to-rename-a-team-project-in-tfs-2015
 - /how-to-rename-a-team-project-in-tfs-2015
+- /resources/ysF0Hy8v8Rf
 tags:
 - team-project
 - tfs

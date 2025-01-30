@@ -1,6 +1,7 @@
 ---
 title: Time That Task VSTS Check-In Policy
 description: Explore the challenges of VSTS check-in policies and discover innovative solutions for developers to manage tasks effectively. Join the discussion now!
+ResourceId: 3-mqIx3Xkgv
 date: 2006-12-19
 creator: Martin Hinshelwood
 id: "446"
@@ -10,6 +11,7 @@ slug: time-that-task-vsts-check-in-policy
 aliases:
 - /blog/time-that-task-vsts-check-in-policy
 - /time-that-task-vsts-check-in-policy
+- /resources/3-mqIx3Xkgv
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

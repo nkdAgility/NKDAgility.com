@@ -1,6 +1,7 @@
 ---
 title: There is no "do agile" there is only "be agile"
 description: Discover why true agility is about being, not just doing. Embrace deep organizational change for lasting value in your agile journey. Learn more!
+ResourceId: QIFsyx_OqLG
 date: 2013-09-01
 creator: Martin Hinshelwood
 id: "10058"
@@ -12,6 +13,7 @@ aliases:
 - /there-is-no-do-agile-there-is-only-be-agile
 - /there-is-no--do-agile--there-is-only--be-agile-
 - /blog/there-is-no--do-agile--there-is-only--be-agile-
+- /resources/QIFsyx_OqLG
 tags:
 - agile
 - lean

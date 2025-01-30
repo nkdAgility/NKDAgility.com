@@ -1,6 +1,7 @@
 ---
 title: 'Studying for Exam 70-536: MCTS Application Development Foundation'
 description: Join Martin Hinshelwood on his journey to conquer Exam 70-536 for MCPD certification, sharing insights and resources for aspiring .NET developers.
+ResourceId: pVQvZ2ZSyk-
 date: 2007-05-04
 creator: Martin Hinshelwood
 id: "404"
@@ -12,6 +13,7 @@ aliases:
 - /studying-for-exam-70-536-mcts-application-development-foundation
 - /studying-for-exam-70-536--mcts-application-development-foundation
 - /blog/studying-for-exam-70-536--mcts-application-development-foundation
+- /resources/pVQvZ2ZSyk-
 tags:
 - fail
 - visual-studio

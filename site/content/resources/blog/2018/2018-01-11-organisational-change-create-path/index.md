@@ -1,6 +1,7 @@
 ---
 title: Create your own path to Organisational Agility
 description: Discover how to tailor your path to organisational agility with evidence-based strategies. Empower your team and drive meaningful change today!
+ResourceId: RdwxVidD26i
 date: 2018-01-11
 creator: Martin Hinshelwood
 id: "11214"
@@ -12,6 +13,7 @@ aliases:
 - /organisational-change-create-path
 - /create-your-own-path-to-organisational-agility
 - /blog/create-your-own-path-to-organisational-agility
+- /resources/RdwxVidD26i
 tags:
 - agile
 - agility

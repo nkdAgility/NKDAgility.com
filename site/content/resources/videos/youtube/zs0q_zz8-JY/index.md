@@ -2,6 +2,7 @@
 title: Biggest misconception about a scrum master
 description: 'Discover the biggest misconception about Scrum Masters with Martin Hinshelwood! Uncover insights that can transform your Agile journey. #Scrum #Agile #Shorts'
 date: 2023-06-21T11:00:52Z
+ResourceId: zs0q_zz8-JY
 videoId: zs0q_zz8-JY
 url: /resources/videos/:slug
 slug: biggest-misconception-about-a-scrum-master

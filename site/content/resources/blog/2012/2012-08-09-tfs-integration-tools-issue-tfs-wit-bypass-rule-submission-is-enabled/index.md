@@ -1,6 +1,7 @@
 ---
 title: 'TFS Integration Tools - Issue: TFS WIT bypass-rule submission is enabled'
 description: Resolve TFS WIT bypass-rule submission errors with our guide. Learn how to add accounts to the Service Accounts Group and streamline your TFS Integration.
+ResourceId: sb9e7R72Ioq
 date: 2012-08-09
 creator: Martin Hinshelwood
 id: "7104"
@@ -10,7 +11,13 @@ slug: tfs-integration-tools-issue-tfs-wit-bypass-rule-submission-is-enabled
 aliases:
 - /blog/tfs-integration-tools-issue-tfs-wit-bypass-rule-submission-is-enabled
 - /tfs-integration-tools-issue-tfs-wit-bypass-rule-submission-is-enabled
+- /tfs-integration-tools
 - /tfs-integration-tools---issue--tfs-wit-bypass-rule-submission-is-enabled
+- /blog/tfs-integration-tools---issue--tfs-wit-bypass-rule-submission-is-enabled
+- /resources/sb9e7R72Ioq
+
+---
+issue--tfs-wit-bypass-rule-submission-is-enabled
 - /blog/tfs-integration-tools---issue--tfs-wit-bypass-rule-submission-is-enabled
 tags:
 - puzzles

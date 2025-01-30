@@ -1,6 +1,7 @@
 ---
 title: Access denied for orchestration plan on Build
 description: Troubleshoot TFS build errors with expert tips on resolving access denied issues for orchestration plans. Enhance your build system's performance today!
+ResourceId: l331AonWBuN
 date: 2015-12-16
 creator: Martin Hinshelwood
 id: "11411"
@@ -12,6 +13,7 @@ aliases:
 - /access-denied-orchestration-plan-build
 - /access-denied-for-orchestration-plan-on-build
 - /blog/access-denied-for-orchestration-plan-on-build
+- /resources/l331AonWBuN
 tags:
 - build
 - tfs

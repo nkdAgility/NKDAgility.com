@@ -1,6 +1,7 @@
 ---
 title: Become the leader that you were meant to to be
 description: Unlock your leadership potential! Discover how to inspire and lead effectively in modern organizations. Become the leader you were meant to be!
+ResourceId: -Oo9b3G-8Zw
 date: 2021-02-04
 AudioNative: true
 creator: Martin Hinshelwood
@@ -9,16 +10,17 @@ layout: blog
 resourceTypes: blog
 slug: become-the-leader-that-you-were-meant-to-to-be
 aliases:
-  - /blog/become-the-leader-that-you-were-meant-to-to-be
-  - /become-the-leader-that-you-were-meant-to-to-be
+- /blog/become-the-leader-that-you-were-meant-to-to-be
+- /become-the-leader-that-you-were-meant-to-to-be
+- /resources/-Oo9b3G-8Zw
 tags:
-  - featured
-  - leadership-track
+- featured
+- leadership-track
 categories:
-  - news-and-reviews
+- news-and-reviews
 preview: image-2-2.png
----
 
+---
 Leadership is not about control, but about inspiring those around you.
 
 ## Managers transition to Leaders

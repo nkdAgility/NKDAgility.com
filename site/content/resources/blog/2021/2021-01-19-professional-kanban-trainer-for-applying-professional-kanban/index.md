@@ -1,6 +1,7 @@
 ---
 title: Professional Kanban Trainer for Applying Professional Kanban
 description: Become a certified Professional Kanban Trainer with expert guidance from Martin Hinshelwood. Learn to optimize value flow and enhance your Scrum practices!
+ResourceId: ZQi3U9gnXj3
 date: 2021-01-19
 AudioNative: true
 creator: Martin Hinshelwood
@@ -9,18 +10,19 @@ layout: blog
 resourceTypes: blog
 slug: professional-kanban-trainer-for-applying-professional-kanban
 aliases:
-  - /blog/professional-kanban-trainer-for-applying-professional-kanban
-  - /professional-kanban-trainer-for-applying-professional-kanban
+- /blog/professional-kanban-trainer-for-applying-professional-kanban
+- /professional-kanban-trainer-for-applying-professional-kanban
+- /resources/ZQi3U9gnXj3
 tags:
-  - kanban
-  - kanban-theory
-  - professional-kanban
-  - professional-scrum-with-kanban
+- kanban
+- kanban-theory
+- professional-kanban
+- professional-scrum-with-kanban
 categories:
-  - news-and-reviews
+- news-and-reviews
 preview: applying-professional-kanban-background-logo-2-2.jpg
----
 
+---
 The [Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/) only contains the minimum necessary to create an e**mpirical process control system for managing risk**. The new [Kanban Guide](https://nkdagility.com/the-kanban-guide/) reflects the minimum that you need to do to create a **strategy for optimizing the flow of value through a visual, pull-based system**.
 
 ![](images/applying-professional-kanban-background-logo-1280x611-1-1.jpg)

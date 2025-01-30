@@ -1,6 +1,7 @@
 ---
 title: 'Review: The Professional Scrum Masters Handbook'
 description: Explore the insights of 'The Professional Scrum Masters Handbook' with a critical review that highlights key takeaways for new Scrum Masters and Project Managers.
+ResourceId: Truj03gqwvW
 date: 2013-08-28
 creator: Martin Hinshelwood
 id: "9967"
@@ -12,6 +13,7 @@ aliases:
 - /review-the-professional-scrum-masters-handbook
 - /review--the-professional-scrum-masters-handbook
 - /blog/review--the-professional-scrum-masters-handbook
+- /resources/Truj03gqwvW
 tags:
 - scrum
 - scrum-master

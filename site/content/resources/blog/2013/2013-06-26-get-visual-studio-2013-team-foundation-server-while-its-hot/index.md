@@ -1,6 +1,7 @@
 ---
 title: What's new in Visual Studio 2013 Team Foundation Server Preview
 description: Discover the latest features in Visual Studio 2013 Team Foundation Server! Enhance your agile practices with powerful tools for collaboration and testing.
+ResourceId: V5OQtr0U1IS
 date: 2013-06-26
 creator: Martin Hinshelwood
 id: "9677"
@@ -12,6 +13,7 @@ aliases:
 - /get-visual-studio-2013-team-foundation-server-while-its-hot
 - /what's-new-in-visual-studio-2013-team-foundation-server-preview
 - /blog/what's-new-in-visual-studio-2013-team-foundation-server-preview
+- /resources/V5OQtr0U1IS
 tags:
 - agile-portfolio-management
 - define

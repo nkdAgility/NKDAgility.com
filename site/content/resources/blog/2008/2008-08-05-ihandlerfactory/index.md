@@ -1,6 +1,7 @@
 ---
 title: IHandlerFactory
 description: Discover how to implement a BlogRedirectHandler in ASP.NET to manage URL redirects effectively, ensuring a smooth transition for your users.
+ResourceId: kYNSKaqUYb7
 date: 2008-08-05
 creator: Martin Hinshelwood
 id: "214"
@@ -10,6 +11,7 @@ slug: ihandlerfactory
 aliases:
 - /blog/ihandlerfactory
 - /ihandlerfactory
+- /resources/kYNSKaqUYb7
 tags:
 - code
 - tools

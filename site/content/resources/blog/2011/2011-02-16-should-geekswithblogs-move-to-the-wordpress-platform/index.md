@@ -1,6 +1,7 @@
 ---
 title: Should GeeksWithBlogs move to the Wordpress Platform?
 description: Explore the debate on migrating GeeksWithBlogs to WordPress. Join the conversation and vote for enhanced features and better blogging capabilities!
+ResourceId: INzImndgeUG
 date: 2011-02-16
 creator: Martin Hinshelwood
 id: "9895"
@@ -12,6 +13,7 @@ aliases:
 - /should-geekswithblogs-move-to-the-wordpress-platform
 - /should-geekswithblogs-move-to-the-wordpress-platform-
 - /blog/should-geekswithblogs-move-to-the-wordpress-platform-
+- /resources/INzImndgeUG
 tags:
 - wordpress
 categories:

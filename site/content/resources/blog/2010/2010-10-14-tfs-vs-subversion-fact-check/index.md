@@ -1,6 +1,7 @@
 ---
 title: TFS vs. Subversion fact check
 description: Explore the key differences between TFS and Subversion in this insightful fact check. Discover solutions to common SVN user challenges with TFS 2010.
+ResourceId: Tpk1xLI-Ygd
 date: 2010-10-14
 creator: Martin Hinshelwood
 id: "22"
@@ -12,6 +13,7 @@ aliases:
 - /tfs-vs-subversion-fact-check
 - /tfs-vs--subversion-fact-check
 - /blog/tfs-vs--subversion-fact-check
+- /resources/Tpk1xLI-Ygd
 tags:
 - codeproject
 - nwcadence

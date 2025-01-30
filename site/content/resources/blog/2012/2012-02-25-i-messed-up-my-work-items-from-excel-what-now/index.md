@@ -1,6 +1,7 @@
 ---
 title: I messed up my work items from Excel! What now?
 description: Learn how to recover from Excel mistakes that altered your TFS work items. Discover effective solutions to fix errors and prevent future mishaps!
+ResourceId: jZw9emMhGRh
 date: 2012-02-25
 creator: Martin Hinshelwood
 id: "4609"
@@ -12,6 +13,7 @@ aliases:
 - /i-messed-up-my-work-items-from-excel-what-now
 - /i-messed-up-my-work-items-from-excel--what-now-
 - /blog/i-messed-up-my-work-items-from-excel--what-now-
+- /resources/jZw9emMhGRh
 tags:
 - configuration
 - define

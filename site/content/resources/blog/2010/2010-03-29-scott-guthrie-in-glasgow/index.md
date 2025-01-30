@@ -1,6 +1,7 @@
 ---
 title: Scott Guthrie in Glasgow
 description: Join Scott Guthrie in Glasgow as he unveils the latest in Visual Studio 2010, Silverlight 4, and Windows Phone 7. Discover key insights and innovations!
+ResourceId: JkUaXsGbwTq
 date: 2010-03-29
 creator: Martin Hinshelwood
 id: "58"
@@ -10,6 +11,7 @@ slug: scott-guthrie-in-glasgow
 aliases:
 - /blog/scott-guthrie-in-glasgow
 - /scott-guthrie-in-glasgow
+- /resources/JkUaXsGbwTq
 tags:
 - silverlight
 - visual-studio

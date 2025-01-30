@@ -1,6 +1,7 @@
 ---
 title: Team System Web Access finally released
 description: Discover the release of Team System Web Access, featuring enhanced stability and new features. Learn how it improves TFS usability for developers!
+ResourceId: 8tIDL2NtDSj
 date: 2007-07-31
 creator: Martin Hinshelwood
 id: "354"
@@ -10,6 +11,7 @@ slug: team-system-web-access-finally-released
 aliases:
 - /blog/team-system-web-access-finally-released
 - /team-system-web-access-finally-released
+- /resources/8tIDL2NtDSj
 tags:
 - tfs
 - tfs2005

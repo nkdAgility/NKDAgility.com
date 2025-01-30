@@ -1,6 +1,7 @@
 ---
 title: Why Handoffs Are Killing Your Agility
 description: Explore the detrimental impact of handoffs in software development and discover strategies to eliminate them for better agility.
+ResourceId: pDvDdIEi9sj
 date: 2025-01-13
 AudioNative: true
 creator: Martin Hinshelwood
@@ -8,18 +9,21 @@ layout: blog
 resourceTypes: blog
 slug: why-handoffs-are-killing-your-agility
 aliases:
+- /why-handoffs-are-killing-your-agility
+- /blog/why-handoffs-are-killing-your-agility
+- /resources/pDvDdIEi9sj
 tags:
-  - handoffs
-  - lean
-  - devops
-  - agile
-  - cross-functional-teams
+- handoffs
+- lean
+- devops
+- agile
+- cross-functional-teams
 categories:
-  - agility
-  - people-and-process
+- agility
+- people-and-process
 preview: 2025-01-11-why-handoffs-are-killing-your-agility.jpg
----
 
+---
 Many organisations attempt to adopt Lean practices without fully understanding their implications in software development. This often leads to excessive handoffs, which fragment communication and reduce agility.
 
 Here's the kicker: handoffs are _not_ Lean, Agile, or DevOps. They are an anti-pattern that introduces waste, increases cycle time, and makes collaboration difficult.

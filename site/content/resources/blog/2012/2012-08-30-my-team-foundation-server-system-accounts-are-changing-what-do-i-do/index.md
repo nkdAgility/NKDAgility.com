@@ -1,6 +1,7 @@
 ---
 title: My Team Foundation Server system accounts are changing? What do I do?
 description: Learn how to manage changing TFS 2012 system accounts effectively. Follow our guide to ensure your service accounts remain operational and secure.
+ResourceId: GJOGgre5lz-
 date: 2012-08-30
 creator: Martin Hinshelwood
 id: "8031"
@@ -12,6 +13,7 @@ aliases:
 - /my-team-foundation-server-system-accounts-are-changing-what-do-i-do
 - /my-team-foundation-server-system-accounts-are-changing--what-do-i-do-
 - /blog/my-team-foundation-server-system-accounts-are-changing--what-do-i-do-
+- /resources/GJOGgre5lz-
 tags:
 - configuration
 - infrastructure

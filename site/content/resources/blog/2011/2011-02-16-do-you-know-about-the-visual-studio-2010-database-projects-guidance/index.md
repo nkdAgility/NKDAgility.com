@@ -1,6 +1,7 @@
 ---
 title: Do you know about the Visual Studio 2010 Database Projects Guidance?
 description: Discover essential guidance for Visual Studio 2010 Database Projects, enhancing your team's database management and deployment strategies. Unlock your potential!
+ResourceId: 84KSaMagvy0
 date: 2011-02-16
 creator: Martin Hinshelwood
 id: "9896"
@@ -12,6 +13,7 @@ aliases:
 - /do-you-know-about-the-visual-studio-2010-database-projects-guidance
 - /do-you-know-about-the-visual-studio-2010-database-projects-guidance-
 - /blog/do-you-know-about-the-visual-studio-2010-database-projects-guidance-
+- /resources/84KSaMagvy0
 tags:
 - nwcadence
 - tfs

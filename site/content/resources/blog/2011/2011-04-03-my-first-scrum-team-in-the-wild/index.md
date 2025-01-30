@@ -1,6 +1,7 @@
 ---
 title: My first Scrum team in the wild
 description: Discover insights from my first Scrum team experience, highlighting key practices and lessons learned to enhance your agile journey. Join the conversation!
+ResourceId: ov2kV0DI9xR
 date: 2011-04-03
 creator: Martin Hinshelwood
 id: "9892"
@@ -10,6 +11,7 @@ slug: my-first-scrum-team-in-the-wild
 aliases:
 - /blog/my-first-scrum-team-in-the-wild
 - /my-first-scrum-team-in-the-wild
+- /resources/ov2kV0DI9xR
 tags:
 - agile
 - develop

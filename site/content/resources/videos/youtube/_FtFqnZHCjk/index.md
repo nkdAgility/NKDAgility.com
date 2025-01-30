@@ -2,6 +2,7 @@
 title: The Evolution of Product Management in the Agile Era
 description: Explore the key differences between Agile and traditional product management. Learn how Agile's faster cycles and feedback loops enhance value delivery!
 date: 2024-07-18T06:45:01Z
+ResourceId: _FtFqnZHCjk
 videoId: _FtFqnZHCjk
 source: internal
 url: /resources/videos/:slug

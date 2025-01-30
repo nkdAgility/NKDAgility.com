@@ -1,6 +1,7 @@
 ---
 title: My first ALM and second VSTS presentaton!
 description: Join Martin Hinshelwood as he reflects on his first ALM and VSTS presentations, sharing insights on preparation, delivery, and the evolving tech landscape.
+ResourceId: v3tFzfmLkHa
 date: 2008-09-11
 creator: Martin Hinshelwood
 id: "193"
@@ -12,6 +13,7 @@ aliases:
 - /my-first-alm-and-second-vsts-presentaton
 - /my-first-alm-and-second-vsts-presentaton-
 - /blog/my-first-alm-and-second-vsts-presentaton-
+- /resources/v3tFzfmLkHa
 categories:
 - me
 preview: nakedalm-logo-128-link-1-1.png

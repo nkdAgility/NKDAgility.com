@@ -1,6 +1,7 @@
 ---
 title: Wpf Drag & Drop behaviour
 description: Master WPF drag & drop with MVVM! Discover intuitive techniques and custom solutions to enhance your applications. Perfect for developers seeking efficiency.
+ResourceId: -BCzcrYA0j8
 date: 2009-08-14
 creator: Martin Hinshelwood
 id: "92"
@@ -12,6 +13,7 @@ aliases:
 - /wpf-drag-drop-behaviour
 - /wpf-drag-&-drop-behaviour
 - /blog/wpf-drag-&-drop-behaviour
+- /resources/-BCzcrYA0j8
 tags:
 - code
 - codeproject

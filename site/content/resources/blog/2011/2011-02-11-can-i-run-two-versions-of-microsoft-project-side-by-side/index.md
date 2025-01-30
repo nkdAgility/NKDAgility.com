@@ -1,6 +1,7 @@
 ---
 title: Can I run two versions of Microsoft Project side-by-side?
 description: Discover the challenges of running multiple Microsoft Project versions side-by-side. Learn key insights and workarounds to optimize your project management.
+ResourceId: BPWVrzpIhxt
 date: 2011-02-11
 creator: Martin Hinshelwood
 id: "13"
@@ -12,6 +13,7 @@ aliases:
 - /can-i-run-two-versions-of-microsoft-project-side-by-side
 - /can-i-run-two-versions-of-microsoft-project-side-by-side-
 - /blog/can-i-run-two-versions-of-microsoft-project-side-by-side-
+- /resources/BPWVrzpIhxt
 tags:
 - caveat-utilitor
 - office

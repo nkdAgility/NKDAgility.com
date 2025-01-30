@@ -1,6 +1,7 @@
 ---
 title: What is your perspective on collocation?
 description: Explore the debate on collocation in Scrum teams. Discover insights from Martin Hinshelwood on optimizing team communication and performance.
+ResourceId: AcwMGmMo7iU
 date: 2019-10-21
 creator: Martin Hinshelwood
 id: "39960"
@@ -12,6 +13,7 @@ aliases:
 - /what-is-your-perspective-on-collocation
 - /what-is-your-perspective-on-collocation-
 - /blog/what-is-your-perspective-on-collocation-
+- /resources/AcwMGmMo7iU
 tags:
 - collocation
 - scrum-team

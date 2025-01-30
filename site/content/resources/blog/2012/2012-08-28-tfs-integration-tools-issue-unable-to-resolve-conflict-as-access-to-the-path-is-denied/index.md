@@ -1,6 +1,7 @@
 ---
 title: 'TFS Integration Tools - Issue: Unable to resolve conflict as Access to the path is denied'
 description: Resolve TFS Integration Tools conflicts effortlessly! Learn how to fix 'Access to the path is denied' errors by adjusting permissions in your configuration.
+ResourceId: 5Bzu9VOxj_C
 date: 2012-08-28
 creator: Martin Hinshelwood
 id: "7744"
@@ -10,7 +11,13 @@ slug: tfs-integration-tools-issue-unable-to-resolve-conflict-as-access-to-the-pa
 aliases:
 - /blog/tfs-integration-tools-issue-unable-to-resolve-conflict-as-access-to-the-path-is-denied
 - /tfs-integration-tools-issue-unable-to-resolve-conflict-as-access-to-the-path-is-denied
+- /tfs-integration-tools
 - /tfs-integration-tools---issue--unable-to-resolve-conflict-as-access-to-the-path-is-denied
+- /blog/tfs-integration-tools---issue--unable-to-resolve-conflict-as-access-to-the-path-is-denied
+- /resources/5Bzu9VOxj_C
+
+---
+issue--unable-to-resolve-conflict-as-access-to-the-path-is-denied
 - /blog/tfs-integration-tools---issue--unable-to-resolve-conflict-as-access-to-the-path-is-denied
 tags:
 - puzzles

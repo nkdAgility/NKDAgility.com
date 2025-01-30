@@ -1,6 +1,7 @@
 ---
 title: Vista Mobile Device Center
 description: Explore the challenges of syncing podcasts with Windows Vista Mobile Device Center. Discover insights and solutions for a smoother mobile experience!
+ResourceId: Lqpn7ILc1mg
 date: 2006-12-20
 creator: Martin Hinshelwood
 id: "456"
@@ -10,6 +11,7 @@ slug: vista-mobile-device-center
 aliases:
 - /blog/vista-mobile-device-center
 - /vista-mobile-device-center
+- /resources/Lqpn7ILc1mg
 tags:
 - answers
 - windows-mobile-6

@@ -1,8 +1,9 @@
 # Helpers
 . ./.powershell/_includes/OpenAI.ps1
 . ./.powershell/_includes/HugoHelpers.ps1
+. ./.powershell/_includes/ResourceHelpers.ps1
 
-# Iterate through each video folder and update markdown files
+# Iterate through each blog folder and update markdown files
 $outputDir = "site\content\resources\blog\"
 
 # Get list of directories and select the first 10
@@ -24,6 +25,15 @@ $blogs | ForEach-Object {
             # Update the description in the front matter
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'description' -fieldValue $description -addAfter 'title'
         }
+        $ResourceId = $null;
+        if ($hugoMarkdown.FrontMatter.Contains("ResourceId")) {
+            $ResourceId = $hugoMarkdown.FrontMatter.ResourceId
+        }
+        else {
+            $ResourceId = New-ResourceId
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceId' -fieldValue $ResourceId -addAfter 'description'
+        }
+
 
         $aliases = @()
         if ($hugoMarkdown.FrontMatter.Contains("slug")) {
@@ -38,7 +48,10 @@ $blogs | ForEach-Object {
                 $aliases += "/$urlSafeTitle"
                 $aliases += "/blog/$urlSafeTitle"
             }           
-        }      
+        }
+        if ($hugoMarkdown.FrontMatter.Contains("ResourceId")) {
+            $aliases += "/resources/$($hugoMarkdown.FrontMatter.ResourceId)"
+        }
         Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliases' -values $aliases -addAfter 'slug'
 
         

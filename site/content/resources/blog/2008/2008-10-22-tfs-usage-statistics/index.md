@@ -1,6 +1,7 @@
 ---
 title: TFS Usage Statistics
 description: Explore TFS usage statistics, including user activity, work items, and version control metrics. Discover insights to enhance your team's productivity!
+ResourceId: s5nBJ6ec37-
 date: 2008-10-22
 creator: Martin Hinshelwood
 id: "187"
@@ -10,6 +11,7 @@ slug: tfs-usage-statistics
 aliases:
 - /blog/tfs-usage-statistics
 - /tfs-usage-statistics
+- /resources/s5nBJ6ec37-
 tags:
 - tools
 preview: nakedalm-logo-128-link-1-1.png

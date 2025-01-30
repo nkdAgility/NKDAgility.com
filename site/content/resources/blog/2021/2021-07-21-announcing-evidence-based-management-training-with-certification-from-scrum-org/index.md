@@ -1,6 +1,7 @@
 ---
 title: Announcing Professional Agile Leadership with Evidence-Based Management Training  (PAL-EBM) from Scrum.org
 description: Join the Professional Agile Leadership with Evidence-Based Management Training from Scrum.org. Enhance your leadership skills and create tailored metrics for success!
+ResourceId: XuePm2RAZa0
 date: 2021-07-21
 creator: Martin Hinshelwood
 id: "46257"
@@ -12,6 +13,7 @@ aliases:
 - /announcing-evidence-based-management-training-with-certification-from-scrum-org
 - /announcing-professional-agile-leadership-with-evidence-based-management-training-(pal-ebm)-from-scrum-org
 - /blog/announcing-professional-agile-leadership-with-evidence-based-management-training-(pal-ebm)-from-scrum-org
+- /resources/XuePm2RAZa0
 tags:
 - annoucement
 categories:

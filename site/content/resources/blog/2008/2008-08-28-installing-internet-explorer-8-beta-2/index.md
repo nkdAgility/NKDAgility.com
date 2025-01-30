@@ -1,6 +1,7 @@
 ---
 title: Installing Internet Explorer 8 Beta 2
 description: Discover how to install Internet Explorer 8 Beta 2 with essential links and guidance for a smooth setup. Get started on your upgrade today!
+ResourceId: JYf3i9TAak5
 date: 2008-08-28
 creator: Martin Hinshelwood
 id: "204"
@@ -10,6 +11,7 @@ slug: installing-internet-explorer-8-beta-2
 aliases:
 - /blog/installing-internet-explorer-8-beta-2
 - /installing-internet-explorer-8-beta-2
+- /resources/JYf3i9TAak5
 tags:
 - ie8
 - off-topic

@@ -1,6 +1,7 @@
 ---
 title: Release Management with Team Foundation Server 2012
 description: Enhance your release management strategy with Team Foundation Server 2012. Discover automation techniques and best practices for seamless deployments.
+ResourceId: GqwYV8fekzQ
 date: 2013-04-24
 creator: Martin Hinshelwood
 id: "9468"
@@ -10,6 +11,7 @@ slug: release-management-with-team-foundation-server-2012
 aliases:
 - /blog/release-management-with-team-foundation-server-2012
 - /release-management-with-team-foundation-server-2012
+- /resources/GqwYV8fekzQ
 tags:
 - develop
 - lab-management

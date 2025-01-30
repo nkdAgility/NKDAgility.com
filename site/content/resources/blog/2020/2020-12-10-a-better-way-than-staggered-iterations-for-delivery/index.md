@@ -1,7 +1,9 @@
 ---
 title: A better way than staggered iterations for delivery
 description: Discover a superior approach to delivery that enhances agility and reduces technical debt. Learn how to implement effective cross-functional teams today!
+ResourceId: DOMFzBBMzfq
 date: 2020-12-10
+AudioNative: true
 creator: Martin Hinshelwood
 id: "9915"
 layout: blog
@@ -10,6 +12,7 @@ slug: a-better-way-than-staggered-iterations-for-delivery
 aliases:
 - /blog/a-better-way-than-staggered-iterations-for-delivery
 - /a-better-way-than-staggered-iterations-for-delivery
+- /resources/DOMFzBBMzfq
 tags:
 - asynchronous-development
 - cross-functional-teams

@@ -2,6 +2,7 @@
 title: Introduction to Evidence Based Management
 description: 'Discover the essentials of Evidence Based Management in this engaging introduction. Enhance your Agile practices today! #agile #scrum #ebm'
 date: 2024-08-14T07:12:45Z
+ResourceId: Nf6XCdhSUMw
 videoId: Nf6XCdhSUMw
 url: /resources/videos/:slug
 slug: introduction-to-evidence-based-management

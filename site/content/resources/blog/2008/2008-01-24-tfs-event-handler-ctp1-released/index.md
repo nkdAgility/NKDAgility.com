@@ -1,6 +1,7 @@
 ---
 title: TFS Event Handler CTP1 Released
 description: Discover the newly released TFS Event Handler CTP1! Explore its features, limitations, and plans for future updates to enhance your development workflow.
+ResourceId: iC_oZlW88n0
 date: 2008-01-24
 creator: Martin Hinshelwood
 id: "261"
@@ -10,6 +11,7 @@ slug: tfs-event-handler-ctp1-released
 aliases:
 - /blog/tfs-event-handler-ctp1-released
 - /tfs-event-handler-ctp1-released
+- /resources/iC_oZlW88n0
 tags:
 - code
 - infrastructure

@@ -1,6 +1,7 @@
 ---
 title: TFS Event Handler in .NET 3.5 Part 2 - Handling Team Foundation Server Events
 description: Learn to create a resilient TFS Event Handler in .NET 3.5. This guide covers handling events effectively, enhancing your development workflow.
+ResourceId: 8LCPn1m44qL
 date: 2007-09-07
 creator: Martin Hinshelwood
 id: "3469"
@@ -10,7 +11,13 @@ slug: tfs-event-handler-in-net-3-5-part-2-handling-team-foundation-server-events
 aliases:
 - /blog/tfs-event-handler-in-net-3-5-part-2-handling-team-foundation-server-events
 - /tfs-event-handler-in-net-3-5-part-2-handling-team-foundation-server-events
+- /tfs-event-handler-in--net-3-5-part-2
 - /tfs-event-handler-in--net-3-5-part-2---handling-team-foundation-server-events
+- /blog/tfs-event-handler-in--net-3-5-part-2---handling-team-foundation-server-events
+- /resources/8LCPn1m44qL
+
+---
+handling-team-foundation-server-events
 - /blog/tfs-event-handler-in--net-3-5-part-2---handling-team-foundation-server-events
 tags:
 - tfs

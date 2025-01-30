@@ -2,6 +2,7 @@
 title: DevOps Migration. Data Integrity Issues
 description: Explore data integrity in Azure DevOps migrations! Discover the trade-offs between full and selective data transfers for optimal results.
 date: 2024-11-04T06:06:49Z
+ResourceId: hWyF6CbcbQ8
 videoId: hWyF6CbcbQ8
 url: /resources/videos/:slug
 slug: devops-migration-data-integrity-issues

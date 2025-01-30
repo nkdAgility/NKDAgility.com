@@ -1,6 +1,7 @@
 ---
 title: Issue [ TFS 2013 ] You get TF400324 when connecting InRelease to TFS
 description: Resolve the TF400324 error when connecting InRelease to TFS 2013 with effective solutions and PowerShell scripts. Get your TFS running smoothly!
+ResourceId: mpyXOBzFWc3
 date: 2013-07-11
 creator: Martin Hinshelwood
 id: "9749"
@@ -12,6 +13,7 @@ aliases:
 - /issue-tfs-2013-inrelease-you-get-tf400324-when-connecting-inrelease-to-tfs
 - /issue-[-tfs-2013-]-you-get-tf400324-when-connecting-inrelease-to-tfs
 - /blog/issue-[-tfs-2013-]-you-get-tf400324-when-connecting-inrelease-to-tfs
+- /resources/mpyXOBzFWc3
 tags:
 - inrelease
 - puzzles

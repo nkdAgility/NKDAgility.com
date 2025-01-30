@@ -1,6 +1,7 @@
 ---
-title: "Without Delivery, There Is No Value"
-description: "Everything before delivery is an assumption, and all non-delivered product represents a cost of delay. Learn why frequent delivery is critical to maximising value."
+title: Without Delivery, There Is No Value
+description: Everything before delivery is an assumption, and all non-delivered product represents a cost of delay. Learn why frequent delivery is critical to maximising value.
+ResourceId: UfdnQrxv5iF
 date: 2025-02-10T09:00:00
 AudioNative: true
 creator: Martin Hinshelwood
@@ -8,21 +9,26 @@ layout: blog
 resourceTypes: blog
 slug: without-delivery-no-value
 aliases:
+- /without-delivery-no-value
+- /blog/without-delivery-no-value
+- /without-delivery,-there-is-no-value
+- /blog/without-delivery,-there-is-no-value
+- /resources/UfdnQrxv5iF
 tags:
-  - Delivery
-  - Accountability
-  - Scrum
-  - Done
-  - value delivery
-  - frequent releases
-  - delivery costs
-  - agility
+- Delivery
+- Accountability
+- Scrum
+- Done
+- value delivery
+- frequent releases
+- delivery costs
+- agility
 categories:
-  - Delivery
-  - People & Teams
+- Delivery
+- People & Teams
 preview: 2025-02-10-without-delivery-no-value.jpg
----
 
+---
 Before delivery, all ideas and strategies remain theoretical. They are assumptions - educated guesses that may or may not align with actual needs or expectations. **Delivery is the only mechanism** through which these assumptions are validated, transforming theory into tangible outcomes that can be measured, tested, and improved.
 
 > Value exists only when it is realised, and the only way to realise the value in software is to release it.

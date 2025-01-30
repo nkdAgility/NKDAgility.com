@@ -1,6 +1,7 @@
 ---
 title: Recipe for Team Server in a small business
 description: Discover cost-effective solutions for implementing Team Server in small businesses. Learn how to manage projects efficiently without breaking the bank!
+ResourceId: wOQl29WfTz6
 date: 2007-05-24
 creator: Martin Hinshelwood
 id: "399"
@@ -10,6 +11,7 @@ slug: recipe-for-team-server-in-a-small-business
 aliases:
 - /blog/recipe-for-team-server-in-a-small-business
 - /recipe-for-team-server-in-a-small-business
+- /resources/wOQl29WfTz6
 tags:
 - visual-studio
 - vs2005

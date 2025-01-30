@@ -2,6 +2,7 @@
 title: Sloth! 7 deadly sins of Agile.
 description: "Explore the sin of Sloth in Agile! Martin reveals pitfalls and the need for honesty in practices. Avoid complacency and align with Agile values! \U0001F680\U0001F40C"
 date: 2023-10-20T16:01:48Z
+ResourceId: uCFIW_lEFuc
 videoId: uCFIW_lEFuc
 url: /resources/videos/:slug
 slug: sloth!-7-deadly-sins-of-agile-

@@ -1,6 +1,7 @@
 ---
 title: Custom UI colour scheme for Windows Forms .NET
 description: Learn how to customize your Windows Forms UI with a unique color scheme using .NET. Enhance your application's look effortlessly with our step-by-step guide!
+ResourceId: 2vSr2gsP4Rt
 date: 2006-06-22
 creator: Martin Hinshelwood
 id: "466"
@@ -12,6 +13,7 @@ aliases:
 - /custom-ui-colour-scheme-for-windows-forms-net
 - /custom-ui-colour-scheme-for-windows-forms--net
 - /blog/custom-ui-colour-scheme-for-windows-forms--net
+- /resources/2vSr2gsP4Rt
 tags:
 - code
 categories:

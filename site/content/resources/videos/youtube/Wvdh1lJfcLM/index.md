@@ -2,6 +2,7 @@
 title: 'Mastering the Migration: Seamlessly Transitioning from TFS to Azure DevOps'
 description: Master Azure DevOps migration with expert insights! Discover pitfalls, best practices, and strategies for a seamless transition. Perfect for IT and DevOps teams!
 date: 2024-07-31T11:58:11Z
+ResourceId: Wvdh1lJfcLM
 videoId: Wvdh1lJfcLM
 source: internal
 url: /resources/videos/:slug

@@ -1,6 +1,7 @@
 ---
 title: Database corruption in TFS 2005 causes TF246017 during upgrade
 description: Discover how to resolve TF246017 during TFS 2005 to 2010 upgrades. Learn about database corruption fixes to ensure a smooth transition. Read more!
+ResourceId: YVhqKOWo2QQ
 date: 2010-09-29
 creator: Martin Hinshelwood
 id: "24"
@@ -10,6 +11,7 @@ slug: database-corruption-in-tfs-2005-causes-tf246017-during-upgrade
 aliases:
 - /blog/database-corruption-in-tfs-2005-causes-tf246017-during-upgrade
 - /database-corruption-in-tfs-2005-causes-tf246017-during-upgrade
+- /resources/YVhqKOWo2QQ
 tags:
 - modern-alm
 - tf246017

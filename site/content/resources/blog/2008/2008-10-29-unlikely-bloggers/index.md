@@ -1,6 +1,7 @@
 ---
 title: Unlikely bloggers…
 description: Discover the inspiring journey of unlikely bloggers like Eric McCarthy and join the conversation in the blogosphere. Everyone has a voice—share yours!
+ResourceId: cFVF2mb9dJ8
 date: 2008-10-29
 creator: Martin Hinshelwood
 id: "177"
@@ -12,6 +13,7 @@ aliases:
 - /unlikely-bloggers
 - /unlikely-bloggers…
 - /blog/unlikely-bloggers…
+- /resources/cFVF2mb9dJ8
 tags:
 - fail
 categories:

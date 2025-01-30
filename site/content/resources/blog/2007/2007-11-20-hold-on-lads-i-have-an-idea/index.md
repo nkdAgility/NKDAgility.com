@@ -1,6 +1,7 @@
 ---
 title: Hold on lads, I have an idea!
 description: Explore an innovative idea for managing hierarchical employee data with a user-friendly interface, enhancing organizational efficiency and collaboration.
+ResourceId: foVNVdAmeyw
 date: 2007-11-20
 creator: Martin Hinshelwood
 id: "289"
@@ -12,6 +13,7 @@ aliases:
 - /hold-on-lads-i-have-an-idea
 - /hold-on-lads,-i-have-an-idea-
 - /blog/hold-on-lads,-i-have-an-idea-
+- /resources/foVNVdAmeyw
 tags:
 - code
 - infrastructure

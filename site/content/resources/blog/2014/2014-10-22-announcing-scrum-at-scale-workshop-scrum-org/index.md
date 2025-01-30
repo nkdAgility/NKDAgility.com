@@ -1,6 +1,7 @@
 ---
 title: Upcomming Scrum at Scale Workshop from Scrum.org
 description: Join the Scrum at Scale Workshop by Scrum.org to drive agile transformation in your organization. Learn to implement effective change and improve culture!
+ResourceId: eSPePG8uDaZ
 date: 2014-10-22
 creator: Martin Hinshelwood
 id: "10824"
@@ -12,6 +13,7 @@ aliases:
 - /announcing-scrum-at-scale-workshop-scrum-org
 - /upcomming-scrum-at-scale-workshop-from-scrum-org
 - /blog/upcomming-scrum-at-scale-workshop-from-scrum-org
+- /resources/eSPePG8uDaZ
 tags:
 - agile
 - agility

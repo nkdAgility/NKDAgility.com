@@ -1,6 +1,7 @@
 ---
 title: Customise the colours in Team Foundation Server 2013 Agile Planning Tools
 description: Learn how to customize colors in Team Foundation Server 2013 Agile Planning Tools for better visibility and organization of work items. Enhance your workflow now!
+ResourceId: 2kvi44Dp0xl
 date: 2013-06-27
 creator: Martin Hinshelwood
 id: "9682"
@@ -10,6 +11,7 @@ slug: customise-the-colours-in-team-foundation-server-2013-agile-planning-tools
 aliases:
 - /blog/customise-the-colours-in-team-foundation-server-2013-agile-planning-tools
 - /customise-the-colours-in-team-foundation-server-2013-agile-planning-tools
+- /resources/2kvi44Dp0xl
 tags:
 - agile-planning-tools
 - agile-portfolio-management

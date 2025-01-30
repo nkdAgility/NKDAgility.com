@@ -1,6 +1,7 @@
 ---
 title: TFS Event Handler Progress
 description: Discover the latest progress on the TFS Event Handler project, tackling key work items and exploring WCF error handling solutions. Join the journey!
+ResourceId: MY8gn3hmXhh
 date: 2007-05-07
 creator: Martin Hinshelwood
 id: "402"
@@ -10,6 +11,7 @@ slug: tfs-event-handler-progress
 aliases:
 - /blog/tfs-event-handler-progress
 - /tfs-event-handler-progress
+- /resources/MY8gn3hmXhh
 tags:
 - code
 - tfs-event-handler

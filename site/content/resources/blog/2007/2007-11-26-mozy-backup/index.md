@@ -1,6 +1,7 @@
 ---
 title: Mozy Backup
 description: Discover Mozy Backup, an affordable online backup solution with 2GB free space. Simple setup and reliable service to protect your digital life. Try it now!
+ResourceId: w40y2iYjQLv
 date: 2007-11-26
 creator: Martin Hinshelwood
 id: "287"
@@ -10,6 +11,7 @@ slug: mozy-backup
 aliases:
 - /blog/mozy-backup
 - /mozy-backup
+- /resources/w40y2iYjQLv
 categories:
 - me
 preview: nakedalm-logo-128-link-3-3.png

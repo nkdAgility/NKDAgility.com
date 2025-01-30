@@ -2,6 +2,7 @@
 title: Agile Budgeting for Predictable Costs
 description: Discover how Beyond Budgeting transforms financial management for agile teams, enabling flexibility and value-driven decisions in dynamic markets.
 date: 2024-12-09T06:30:00Z
+ResourceId: kXhJrisYofU
 videoId: kXhJrisYofU
 source: youtube
 url: /resources/videos/:slug

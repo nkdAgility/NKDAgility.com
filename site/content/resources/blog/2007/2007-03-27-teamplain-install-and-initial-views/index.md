@@ -1,6 +1,7 @@
 ---
 title: TeamPlain - Install and initial views
 description: Discover how to quickly install TeamPlain and explore its features for enhanced web access. Overcome project name challenges and improve user experience!
+ResourceId: SlsFZ5kO1Jc
 date: 2007-03-27
 creator: Martin Hinshelwood
 id: "421"
@@ -10,7 +11,19 @@ slug: teamplain-install-and-initial-views
 aliases:
 - /blog/teamplain-install-and-initial-views
 - /teamplain-install-and-initial-views
+- /teamplain
+- /teamplain
 - /teamplain---install-and-initial-views
+- /blog/teamplain---install-and-initial-views
+- /resources/SlsFZ5kO1Jc
+
+---
+install-and-initial-views
+- /blog/teamplain---install-and-initial-views
+- /resources/SlsFZ5kO1Jc
+
+---
+install-and-initial-views
 - /blog/teamplain---install-and-initial-views
 tags:
 - vs2005

@@ -2,6 +2,7 @@
 title: Unlocking Continuous Delivery with Feature Flags - The Key to Faster, Safer Deployments
 description: Discover how feature flags revolutionise continuous delivery, enabling faster, safer deployments and enhanced customer feedback. Unlock your team's potential!
 date: 2025-01-16T06:45:00Z
+ResourceId: YVrGU0oZmc0
 videoId: YVrGU0oZmc0
 source: youtube
 url: /resources/videos/:slug

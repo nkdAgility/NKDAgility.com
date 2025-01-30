@@ -2,6 +2,7 @@
 title: The Scrum Framework!
 description: Discover the Scrum Framework with Martin Hinshelwood! Learn its core values, accountabilities, artefacts, and events to tackle complex problems effectively.
 date: 2022-10-18T16:13:02Z
+ResourceId: Q2Fo3sM6BVo
 videoId: Q2Fo3sM6BVo
 url: /resources/videos/:slug
 slug: the-scrum-framework!

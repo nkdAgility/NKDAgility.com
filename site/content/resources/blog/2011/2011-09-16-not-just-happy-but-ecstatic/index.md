@@ -1,6 +1,7 @@
 ---
 title: Not just happy, but ecstatic
 description: Discover how a consultant transformed a challenging deployment process into a streamlined success with TFS 2010, enhancing efficiency and collaboration.
+ResourceId: C7FpzXTFpU_
 date: 2011-09-16
 creator: Martin Hinshelwood
 id: "3783"
@@ -12,6 +13,7 @@ aliases:
 - /not-just-happy-but-ecstatic
 - /not-just-happy,-but-ecstatic
 - /blog/not-just-happy,-but-ecstatic
+- /resources/C7FpzXTFpU_
 tags:
 - tfs
 - tfs2010

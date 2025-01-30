@@ -2,6 +2,7 @@
 title: PAL In 5m
 description: Discover the essentials of PAL in just 5 minutes! This quick guide breaks down key concepts for easy understanding. Perfect for beginners!
 date: 2021-10-17T11:09:02Z
+ResourceId: 3E_NKzHDvig
 videoId: 3E_NKzHDvig
 source: youtube
 url: /resources/videos/:slug

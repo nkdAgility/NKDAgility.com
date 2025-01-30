@@ -1,6 +1,7 @@
 ---
 title: Windows Azure Training Kit
 description: Explore the Windows Azure Training Kit, featuring hands-on labs and demos to master Azure services. Elevate your cloud skills with expert guidance!
+ResourceId: 5GEKVUBfbi2
 date: 2009-02-20
 creator: Martin Hinshelwood
 id: "136"
@@ -10,6 +11,7 @@ slug: windows-azure-training-kit
 aliases:
 - /blog/windows-azure-training-kit
 - /windows-azure-training-kit
+- /resources/5GEKVUBfbi2
 tags:
 - azure
 - tfs

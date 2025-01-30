@@ -2,6 +2,7 @@
 title: The Power of Building Relationships Through Immersive Learning in Scrum
 description: Discover how immersive learning enhances your skills as a Scrum practitioner in Part 2 of our series. Elevate your Agile journey with NKD Agility!
 date: 2024-02-06T07:00:03Z
+ResourceId: 7SdBfGWCG8Q
 videoId: 7SdBfGWCG8Q
 source: internal
 url: /resources/videos/:slug

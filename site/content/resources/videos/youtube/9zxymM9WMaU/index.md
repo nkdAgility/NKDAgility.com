@@ -2,6 +2,7 @@
 title: Crown Estate - Introduction to Scrum
 description: Discover the fundamentals of Scrum in this engaging introduction by Crown Estate, perfect for beginners looking to enhance their project management skills!
 date: 2021-09-30T10:08:10Z
+ResourceId: 9zxymM9WMaU
 videoId: 9zxymM9WMaU
 source: youtube
 url: /resources/videos/:slug

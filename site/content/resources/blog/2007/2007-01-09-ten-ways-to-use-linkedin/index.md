@@ -1,6 +1,7 @@
 ---
 title: Ten Ways to Use LinkedIn
 description: Discover ten innovative ways to leverage LinkedIn for networking, job hunting, and partnerships. Unlock the full potential of your professional connections!
+ResourceId: f_wB3o4HlXs
 date: 2007-01-09
 creator: Martin Hinshelwood
 id: "451"
@@ -10,6 +11,7 @@ slug: ten-ways-to-use-linkedin
 aliases:
 - /blog/ten-ways-to-use-linkedin
 - /ten-ways-to-use-linkedin
+- /resources/f_wB3o4HlXs
 tags:
 - linkedin
 - off-topic

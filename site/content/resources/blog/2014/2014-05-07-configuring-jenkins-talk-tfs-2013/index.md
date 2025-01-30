@@ -1,6 +1,7 @@
 ---
 title: Configuring Jenkins to talk to TFS 2013
 description: Learn how to configure Jenkins to integrate with TFS 2013 seamlessly, ensuring a smooth transition for your Java teams. Enhance your build process today!
+ResourceId: ynMjy3Tn7hl
 date: 2014-05-07
 creator: Martin Hinshelwood
 id: "10526"
@@ -12,6 +13,7 @@ aliases:
 - /configuring-jenkins-talk-tfs-2013
 - /configuring-jenkins-to-talk-to-tfs-2013
 - /blog/configuring-jenkins-to-talk-to-tfs-2013
+- /resources/ynMjy3Tn7hl
 tags:
 - java
 - jenkins

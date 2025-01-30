@@ -1,6 +1,7 @@
 ---
 title: "Rethinking 'User Stories': A Call for Clarity in Product Backlog Management"
 description: Discover why 'User Stories' may hinder product development and learn to embrace 'Product Backlog Items' for clearer, more effective communication.
+ResourceId: E2aOGiRDnuG
 date: 2023-08-31
 AudioNative: true
 creator: Martin Hinshelwood
@@ -9,22 +10,23 @@ layout: blog
 resourceTypes: blog
 slug: rethinking-user-stories-a-call-for-clarity-in-product-backlog-management
 aliases:
-  - /blog/rethinking-user-stories-a-call-for-clarity-in-product-backlog-management
-  - /rethinking-user-stories-a-call-for-clarity-in-product-backlog-management
-  - /rethinking-'user-stories'--a-call-for-clarity-in-product-backlog-management
-  - /blog/rethinking-'user-stories'--a-call-for-clarity-in-product-backlog-management
+- /blog/rethinking-user-stories-a-call-for-clarity-in-product-backlog-management
+- /rethinking-user-stories-a-call-for-clarity-in-product-backlog-management
+- /rethinking-'user-stories'--a-call-for-clarity-in-product-backlog-management
+- /blog/rethinking-'user-stories'--a-call-for-clarity-in-product-backlog-management
+- /resources/E2aOGiRDnuG
 tags:
-  - featured
-  - homepage
-  - product-backlog-item
-  - product-backlog-management
-  - user-stories
+- featured
+- homepage
+- product-backlog-item
+- product-backlog-management
+- user-stories
 categories:
-  - agility
-  - discovery-ideation
+- agility
+- discovery-ideation
 preview: naked-agility-technically-rethinkinguserstories-1-1-1.jpg
----
 
+---
 As someone who has spent a fair amount of time in the trenches of product development, I've realised that the language we use to describe our work can profoundly shape our approach to it. One term that I believe has been misused and misunderstood to the point of causing more harm than good is "User Stories".
 
 ### TLDR;

@@ -1,6 +1,7 @@
 ---
 title: Modelling Teams in Team Foundation Server 2013
 description: Master Team Foundation Server 2013 with expert insights on modeling teams, managing projects, and optimizing source control for enhanced collaboration.
+ResourceId: Km0aNB0A6C1
 date: 2013-07-16
 creator: Martin Hinshelwood
 id: "9777"
@@ -10,6 +11,7 @@ slug: modelling-teams-in-team-foundation-server-2013
 aliases:
 - /blog/modelling-teams-in-team-foundation-server-2013
 - /modelling-teams-in-team-foundation-server-2013
+- /resources/Km0aNB0A6C1
 tags:
 - area-path
 - branching

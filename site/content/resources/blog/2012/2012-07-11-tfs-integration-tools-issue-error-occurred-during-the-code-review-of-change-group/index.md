@@ -1,6 +1,7 @@
 ---
 title: 'TFS Integration Tools – Issue: Error occurred during the code review of change group'
 description: Resolve the 'Error occurred during the code review of change group' in TFS Integration Tools with effective workarounds and insights from expert Martin Hinshelwood.
+ResourceId: De3YYSzEfJk
 date: 2012-07-11
 creator: Martin Hinshelwood
 id: "6117"
@@ -12,6 +13,7 @@ aliases:
 - /tfs-integration-tools-issue-error-occurred-during-the-code-review-of-change-group
 - /tfs-integration-tools-–-issue--error-occurred-during-the-code-review-of-change-group
 - /blog/tfs-integration-tools-–-issue--error-occurred-during-the-code-review-of-change-group
+- /resources/De3YYSzEfJk
 tags:
 - kb
 - puzzles

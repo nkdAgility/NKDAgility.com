@@ -1,6 +1,7 @@
 ---
 title: Ooooh, RTM Delight
 description: Discover the latest in Visual Studio 2008 and Team Foundation Server 2008 with performance boosts and new features that enhance your development experience!
+ResourceId: i8GZ_Yop1t_
 date: 2008-08-12
 creator: Martin Hinshelwood
 id: "212"
@@ -12,6 +13,7 @@ aliases:
 - /ooooh-rtm-delight
 - /ooooh,-rtm-delight
 - /blog/ooooh,-rtm-delight
+- /resources/i8GZ_Yop1t_
 tags:
 - tfs
 - tfs2008

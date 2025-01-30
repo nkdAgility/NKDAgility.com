@@ -2,6 +2,7 @@
 title: Continuous Delivery
 description: "Join Martin and Simon as they explore Scrum and Continuous Delivery, sharing insights and practical tips to enhance your agile journey. \U0001F4D8\U0001F4C8"
 date: 2023-11-24T08:58:57Z
+ResourceId: 8Fu6k2S1Iwo
 videoId: 8Fu6k2S1Iwo
 source: youtube
 url: /resources/videos/:slug

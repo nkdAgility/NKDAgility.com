@@ -2,6 +2,7 @@
 title: Install & Configure 301 - Move your Active Directory domain to another server
 description: Learn how to seamlessly move your Active Directory domain to a new server, perfect for OS refreshes or rebuilding your domain controller.
 date: 2014-01-16T20:22:36Z
+ResourceId: yrpAYB2yIZU
 videoId: yrpAYB2yIZU
 url: /resources/videos/:slug
 slug: install-&-configure-301-move-your-active-directory-domain-to-another-server

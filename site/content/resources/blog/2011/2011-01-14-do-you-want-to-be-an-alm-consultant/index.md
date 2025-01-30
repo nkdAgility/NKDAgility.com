@@ -1,6 +1,7 @@
 ---
 title: Do you want to be an ALM Consultant?
 description: Join Northwest Cadence as an ALM Consultant! Leverage your expertise in software development and help clients build better software efficiently.
+ResourceId: VWFF90m9BYG
 date: 2011-01-14
 creator: Martin Hinshelwood
 id: "17"
@@ -12,6 +13,7 @@ aliases:
 - /do-you-want-to-be-an-alm-consultant
 - /do-you-want-to-be-an-alm-consultant-
 - /blog/do-you-want-to-be-an-alm-consultant-
+- /resources/VWFF90m9BYG
 tags:
 - agile
 - code

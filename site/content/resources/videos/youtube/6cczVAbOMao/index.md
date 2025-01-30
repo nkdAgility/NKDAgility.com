@@ -2,6 +2,7 @@
 title: How critical is a Product Owner in developing a great Product Backlog?
 description: "Unlock the secrets of a successful product backlog! Join Martin as he highlights the crucial role of the Product Owner in Scrum. \U0001F680\U0001F3AF"
 date: 2023-05-31T07:00:05Z
+ResourceId: 6cczVAbOMao
 videoId: 6cczVAbOMao
 source: internal
 url: /resources/videos/:slug

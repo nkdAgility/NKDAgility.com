@@ -1,6 +1,7 @@
 ---
 title: SharePoint 2013 Issue - After migration from 2010 user permission not working
 description: Resolve SharePoint 2013 migration issues with user permissions. Discover effective PowerShell solutions to ensure seamless access and authentication.
+ResourceId: M-S-kXIX-ar
 date: 2013-06-21
 creator: Martin Hinshelwood
 id: "9906"
@@ -10,7 +11,13 @@ slug: sharepoint-2013-issue-after-migration-from-2010-user-permission-not-workin
 aliases:
 - /blog/sharepoint-2013-issue-after-migration-from-2010-user-permission-not-working
 - /sharepoint-2013-issue-after-migration-from-2010-user-permission-not-working
+- /sharepoint-2013-issue
 - /sharepoint-2013-issue---after-migration-from-2010-user-permission-not-working
+- /blog/sharepoint-2013-issue---after-migration-from-2010-user-permission-not-working
+- /resources/M-S-kXIX-ar
+
+---
+after-migration-from-2010-user-permission-not-working
 - /blog/sharepoint-2013-issue---after-migration-from-2010-user-permission-not-working
 tags:
 - code

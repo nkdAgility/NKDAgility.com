@@ -1,6 +1,7 @@
 ---
 title: 'Microsoft Surface: Wow'
 description: Discover the excitement of Microsoft Surface technology! Explore how this innovative device could revolutionize entertainment and your digital experience.
+ResourceId: FWXk82xEnqi
 date: 2007-06-07
 creator: Martin Hinshelwood
 id: "387"
@@ -12,6 +13,7 @@ aliases:
 - /microsoft-surface-wow
 - /microsoft-surface--wow
 - /blog/microsoft-surface--wow
+- /resources/FWXk82xEnqi
 tags:
 - off-topic
 preview: nakedalm-logo-128-link-1-1.png

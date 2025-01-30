@@ -1,6 +1,7 @@
 ---
 title: TF200035 Sync error for identity with TFS 2010
 description: Explore the TF200035 sync error in TFS 2010 and discover troubleshooting steps, insights, and workarounds to enhance your identity management experience.
+ResourceId: gX9PNx9Qnrt
 date: 2012-02-12
 creator: Martin Hinshelwood
 id: "4309"
@@ -10,6 +11,7 @@ slug: tf200035-sync-error-for-identity-with-tfs-2010
 aliases:
 - /blog/tf200035-sync-error-for-identity-with-tfs-2010
 - /tf200035-sync-error-for-identity-with-tfs-2010
+- /resources/gX9PNx9Qnrt
 tags:
 - nwcadence
 - tf200035

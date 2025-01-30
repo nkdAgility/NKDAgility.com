@@ -1,6 +1,7 @@
 ---
 title: TFS Feature Wish (TFS Checkin Notifier)
 description: Discover the TFS Checkin Notifier, an essential add-in for Team Explorer that streamlines file access requests and enhances collaboration in source control.
+ResourceId: 1QNKNnc1Mvj
 date: 2007-05-24
 creator: Martin Hinshelwood
 id: "397"
@@ -12,6 +13,7 @@ aliases:
 - /tfs-feature-wish-tfs-checkin-notifier
 - /tfs-feature-wish-(tfs-checkin-notifier)
 - /blog/tfs-feature-wish-(tfs-checkin-notifier)
+- /resources/1QNKNnc1Mvj
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

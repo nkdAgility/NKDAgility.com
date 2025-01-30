@@ -1,6 +1,7 @@
 ---
 title: All technical debt is a risk to the product and to your business.
 description: Discover how technical debt poses risks to your product and business. Learn strategies to manage it effectively and ensure quality delivery. Read more!
+ResourceId: ZSqNF7v9vSR
 date: 2021-01-25
 AudioNative: true
 creator: Martin Hinshelwood
@@ -9,21 +10,22 @@ layout: blog
 resourceTypes: blog
 slug: all-technical-debt-is-a-risk-to-the-product-and-to-your-business
 aliases:
-  - /blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business
-  - /all-technical-debt-is-a-risk-to-the-product-and-to-your-business
-  - /all-technical-debt-is-a-risk-to-the-product-and-to-your-business-
-  - /blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business-
+- /blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business
+- /all-technical-debt-is-a-risk-to-the-product-and-to-your-business
+- /all-technical-debt-is-a-risk-to-the-product-and-to-your-business-
+- /blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business-
+- /resources/ZSqNF7v9vSR
 tags:
-  - continuous-quality
-  - definition-of-done
-  - featured
-  - predictable-quality
+- continuous-quality
+- definition-of-done
+- featured
+- predictable-quality
 categories:
-  - code-and-complexity
-  - transparency-commitment
+- code-and-complexity
+- transparency-commitment
 preview: All-technical-debt-is-risk-to-the-product-and-to-your-business-2-2.jpg
----
 
+---
 If you were buying a car, or a TV, you as the purchaser would do your best to understand the product that you are buying, the quality tradeoffs, and the capabilities.
 
 <figure>

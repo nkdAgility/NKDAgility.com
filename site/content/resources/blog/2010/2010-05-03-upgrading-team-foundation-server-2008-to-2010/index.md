@@ -1,6 +1,7 @@
 ---
 title: Upgrading Team Foundation Server 2008 to 2010
 description: Learn how to upgrade Team Foundation Server 2008 to 2010 seamlessly. Follow expert tips and best practices to ensure a smooth transition for your team.
+ResourceId: eKRnTeo9UMp
 date: 2010-05-03
 creator: Martin Hinshelwood
 id: "45"
@@ -10,6 +11,7 @@ slug: upgrading-team-foundation-server-2008-to-2010
 aliases:
 - /blog/upgrading-team-foundation-server-2008-to-2010
 - /upgrading-team-foundation-server-2008-to-2010
+- /resources/eKRnTeo9UMp
 tags:
 - scrum
 - sharepoint

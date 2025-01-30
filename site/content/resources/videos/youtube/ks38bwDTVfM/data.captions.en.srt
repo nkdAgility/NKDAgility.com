@@ -1,0 +1,537 @@
+1
+00:00:00,040 --> 00:00:04,839
+number one have a definition of done
+
+2
+00:00:02,200 --> 00:00:07,640
+that would be great right know the
+
+3
+00:00:04,839 --> 00:00:09,599
+amount of work you need to do in order
+
+4
+00:00:07,640 --> 00:00:11,880
+to get to done that's part of the
+
+5
+00:00:09,599 --> 00:00:13,960
+purpose of the definition of done how do
+
+6
+00:00:11,880 --> 00:00:16,320
+you know how does every member of your
+
+7
+00:00:13,960 --> 00:00:18,160
+team know when they're thinking about
+
+8
+00:00:16,320 --> 00:00:20,279
+how much work they can take on in a
+
+9
+00:00:18,160 --> 00:00:22,480
+Sprint what they actually need to do to
+
+10
+00:00:20,279 --> 00:00:24,720
+get there right that's your your your
+
+11
+00:00:22,480 --> 00:00:26,640
+definition of done helps enable
+
+12
+00:00:24,720 --> 00:00:31,960
+that
+
+13
+00:00:26,640 --> 00:00:34,320
+so also the second thing is probably uh
+
+14
+00:00:31,960 --> 00:00:37,280
+stop taking on too much work that's
+
+15
+00:00:34,320 --> 00:00:41,200
+always a good one um most teams will
+
+16
+00:00:37,280 --> 00:00:44,200
+take on um the amount of work that they
+
+17
+00:00:41,200 --> 00:00:46,440
+feel will fit in a Sprint and that's
+
+18
+00:00:44,200 --> 00:00:48,199
+wrong right you shouldn't take on the
+
+19
+00:00:46,440 --> 00:00:52,359
+amount of work that should fit in a
+
+20
+00:00:48,199 --> 00:00:56,680
+Sprint you need to think first about how
+
+21
+00:00:52,359 --> 00:00:59,480
+much time you need to reserve for other
+
+22
+00:00:56,680 --> 00:01:01,280
+things okay so there are a number of
+
+23
+00:00:59,480 --> 00:01:05,360
+other things you need to reserve time
+
+24
+00:01:01,280 --> 00:01:07,200
+for in the Sprint one is uh how much
+
+25
+00:01:05,360 --> 00:01:10,640
+time do you have to spend paying back
+
+26
+00:01:07,200 --> 00:01:12,720
+technical debt that's one uh perhaps
+
+27
+00:01:10,640 --> 00:01:15,640
+you've got some some refactors or re
+
+28
+00:01:12,720 --> 00:01:17,799
+architectures to do there's work around
+
+29
+00:01:15,640 --> 00:01:19,560
+that uh perhaps there's been some
+
+30
+00:01:17,799 --> 00:01:21,840
+production issues and you want to go
+
+31
+00:01:19,560 --> 00:01:23,759
+figure out and rework some of the way
+
+32
+00:01:21,840 --> 00:01:26,280
+you've done things in order to make
+
+33
+00:01:23,759 --> 00:01:28,479
+those production issues less likely
+
+34
+00:01:26,280 --> 00:01:30,360
+there's a bunch of work perhaps there's
+
+35
+00:01:28,479 --> 00:01:33,079
+just some bugs you need to go fix
+
+36
+00:01:30,360 --> 00:01:36,240
+there's things that that customers have
+
+37
+00:01:33,079 --> 00:01:38,360
+asked for or feedback uh that are small
+
+38
+00:01:36,240 --> 00:01:40,079
+things you'd never have a whole Sprint
+
+39
+00:01:38,360 --> 00:01:43,280
+just on those things but you've got a
+
+40
+00:01:40,079 --> 00:01:49,119
+bunch of bunch of stuff there um and
+
+41
+00:01:43,280 --> 00:01:54,040
+then you need to think about um how
+
+42
+00:01:49,119 --> 00:01:56,240
+much work do you think is left in order
+
+43
+00:01:54,040 --> 00:01:59,840
+to fulfill your Sprint backlog this is
+
+44
+00:01:56,240 --> 00:02:02,640
+your net new work uh that goes to
+
+45
+00:01:59,840 --> 00:02:03,960
+towards your your Sprint goal uh that
+
+46
+00:02:02,640 --> 00:02:07,840
+you're going to do the Sprint so this is
+
+47
+00:02:03,960 --> 00:02:09,720
+the high complexity work usually fixing
+
+48
+00:02:07,840 --> 00:02:11,440
+above can be really simple or it can be
+
+49
+00:02:09,720 --> 00:02:14,440
+really hard right you don't you don't
+
+50
+00:02:11,440 --> 00:02:16,400
+know but all of net new functionality is
+
+51
+00:02:14,440 --> 00:02:19,560
+generally really complex and very
+
+52
+00:02:16,400 --> 00:02:21,840
+unknown so you need to have enough space
+
+53
+00:02:19,560 --> 00:02:24,800
+to take on a piece of work that might
+
+54
+00:02:21,840 --> 00:02:26,840
+expand to fill that space right and
+
+55
+00:02:24,800 --> 00:02:29,120
+there's one thing which is the third
+
+56
+00:02:26,840 --> 00:02:31,840
+thing that I've not talked about and
+
+57
+00:02:29,120 --> 00:02:34,239
+that's ref refinement how much time do
+
+58
+00:02:31,840 --> 00:02:36,519
+you need to think about refinement that
+
+59
+00:02:34,239 --> 00:02:40,040
+needs reserved cuz the third thing
+
+60
+00:02:36,519 --> 00:02:44,040
+refinement you need to understand the
+
+61
+00:02:40,040 --> 00:02:46,720
+future to some degree right a lot of
+
+62
+00:02:44,040 --> 00:02:49,280
+folks talk about oh we're doing agile we
+
+63
+00:02:46,720 --> 00:02:51,800
+don't need to do planning anymore that's
+
+64
+00:02:49,280 --> 00:02:54,480
+crap you need to do more planning and
+
+65
+00:02:51,800 --> 00:02:57,319
+more often and one of those things that
+
+66
+00:02:54,480 --> 00:03:00,879
+we do we call refinement which is any
+
+67
+00:02:57,319 --> 00:03:03,760
+work that you do as a team that is
+
+68
+00:03:00,879 --> 00:03:06,280
+looking at the product backlog not
+
+69
+00:03:03,760 --> 00:03:08,440
+adding capability to your increment
+
+70
+00:03:06,280 --> 00:03:11,000
+right so if you're looking out into the
+
+71
+00:03:08,440 --> 00:03:13,239
+future and you're saying uh what are the
+
+72
+00:03:11,000 --> 00:03:15,360
+things that are coming up in the backlog
+
+73
+00:03:13,239 --> 00:03:17,720
+are they the right size maybe we need to
+
+74
+00:03:15,360 --> 00:03:20,480
+break them down um do they have
+
+75
+00:03:17,720 --> 00:03:23,440
+dependencies that we need to plan for
+
+76
+00:03:20,480 --> 00:03:25,640
+right if you get into Sprint planning
+
+77
+00:03:23,440 --> 00:03:29,040
+and you realize that you need a firewall
+
+78
+00:03:25,640 --> 00:03:30,840
+change uh that has a 6 week lead time
+
+79
+00:03:29,040 --> 00:03:32,720
+you're already screwed right that's not
+
+80
+00:03:30,840 --> 00:03:34,400
+happening this Sprint even though that's
+
+81
+00:03:32,720 --> 00:03:36,840
+when it needs to happen because we've
+
+82
+00:03:34,400 --> 00:03:39,439
+got this firewall change whereas if
+
+83
+00:03:36,840 --> 00:03:42,280
+we're looking out 6 weeks into the
+
+84
+00:03:39,439 --> 00:03:44,959
+future in our product backlog and
+
+85
+00:03:42,280 --> 00:03:46,519
+anticipating trying to anticipate as
+
+86
+00:03:44,959 --> 00:03:48,959
+best we can you're never going to be
+
+87
+00:03:46,519 --> 00:03:50,840
+perfect but as best you can what's
+
+88
+00:03:48,959 --> 00:03:52,439
+coming up that we need to deal with
+
+89
+00:03:50,840 --> 00:03:54,599
+those dependencies those different
+
+90
+00:03:52,439 --> 00:03:56,840
+activities that we need to request stuff
+
+91
+00:03:54,599 --> 00:03:59,680
+or do stuff you know could be servers
+
+92
+00:03:56,840 --> 00:04:01,720
+could be environments could be all sort
+
+93
+00:03:59,680 --> 00:04:04,519
+sorts of things uh that could get in the
+
+94
+00:04:01,720 --> 00:04:07,959
+way what do you need to know now you can
+
+95
+00:04:04,519 --> 00:04:11,239
+mitigate a lot of that by your scrum
+
+96
+00:04:07,959 --> 00:04:13,760
+Masters should be thinking about well
+
+97
+00:04:11,239 --> 00:04:15,680
+why do we have to look out 6 weeks for
+
+98
+00:04:13,760 --> 00:04:17,639
+firewall changes well it's because this
+
+99
+00:04:15,680 --> 00:04:19,600
+team over here takes six weeks to action
+
+100
+00:04:17,639 --> 00:04:21,040
+a firewall change perhaps that's
+
+101
+00:04:19,600 --> 00:04:23,120
+something you want to go fix so you
+
+102
+00:04:21,040 --> 00:04:25,639
+don't have to look out so far on your
+
+103
+00:04:23,120 --> 00:04:28,479
+product back clug and you can bring that
+
+104
+00:04:25,639 --> 00:04:31,280
+range in right because you want how far
+
+105
+00:04:28,479 --> 00:04:33,800
+out you look should be minimal but
+
+106
+00:04:31,280 --> 00:04:35,759
+sufficient right you got that goldilock
+
+107
+00:04:33,800 --> 00:04:37,240
+zone of how far do we need to look out
+
+108
+00:04:35,759 --> 00:04:39,840
+and you want it to be as short as
+
+109
+00:04:37,240 --> 00:04:41,840
+possible so any other activities you can
+
+110
+00:04:39,840 --> 00:04:46,000
+do to make that shorter so those are the
+
+111
+00:04:41,840 --> 00:04:48,520
+three things uh that a team who
+
+112
+00:04:46,000 --> 00:04:50,560
+struggling to get work completing the
+
+113
+00:04:48,520 --> 00:04:52,160
+Sprint Sprint need to think about you
+
+114
+00:04:50,560 --> 00:04:55,039
+need to think about doing good
+
+115
+00:04:52,160 --> 00:04:57,360
+refinement if you understand things a
+
+116
+00:04:55,039 --> 00:05:00,800
+little bit more you'd be surprised how
+
+117
+00:04:57,360 --> 00:05:04,600
+much more easily they fit in a Sprint
+
+118
+00:05:00,800 --> 00:05:07,120
+you need to not plan the whole Sprint
+
+119
+00:05:04,600 --> 00:05:09,639
+just plan the
+
+120
+00:05:07,120 --> 00:05:11,960
+bit that that that you believe you can
+
+121
+00:05:09,639 --> 00:05:13,680
+do and take into account those other
+
+122
+00:05:11,960 --> 00:05:15,960
+activities that you need to do every
+
+123
+00:05:13,680 --> 00:05:18,840
+Sprint don't fill the whole thing that's
+
+124
+00:05:15,960 --> 00:05:21,199
+mental um and the other one was having a
+
+125
+00:05:18,840 --> 00:05:23,080
+definition of done so that you
+
+126
+00:05:21,199 --> 00:05:26,720
+understand the amount of work that is
+
+127
+00:05:23,080 --> 00:05:28,880
+required to complete each thing thanks
+
+128
+00:05:26,720 --> 00:05:31,319
+for watching the video If you enjoyed it
+
+129
+00:05:28,880 --> 00:05:33,880
+please like follow And subscribe I
+
+130
+00:05:31,319 --> 00:05:36,360
+always reply to comments and if you want
+
+131
+00:05:33,880 --> 00:05:39,199
+to have a chat about this or anything
+
+132
+00:05:36,360 --> 00:05:42,160
+else agile scrum or devops then please
+
+133
+00:05:39,199 --> 00:05:45,160
+book a coffee with me through naked
+
+134
+00:05:42,160 --> 00:05:45,160
+agility
+
+

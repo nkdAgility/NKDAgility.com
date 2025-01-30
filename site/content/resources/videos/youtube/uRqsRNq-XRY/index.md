@@ -2,6 +2,7 @@
 title: 7 signs of the agile apocalypse. Judgement
 description: 'Discover the 7 signs of the #Agile apocalypse! Learn how poor judgement can lead to doom and the importance of continuous improvement. #Agile #Scrum #Shorts'
 date: 2023-11-09T06:45:04Z
+ResourceId: uRqsRNq-XRY
 videoId: uRqsRNq-XRY
 url: /resources/videos/:slug
 slug: 7-signs-of-the-agile-apocalypse-judgement

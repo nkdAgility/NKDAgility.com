@@ -1,6 +1,7 @@
 ---
 title: Scrum for Team Foundation Server 2010
 description: Join Martin Hinshelwood to explore Scrum with TFS 2010, enhancing your software development process with Visual Studio ALM tools. Learn key strategies today!
+ResourceId: rDtXzVuotXt
 date: 2010-04-09
 creator: Martin Hinshelwood
 id: "55"
@@ -10,6 +11,7 @@ slug: scrum-for-team-foundation-server-2010
 aliases:
 - /blog/scrum-for-team-foundation-server-2010
 - /scrum-for-team-foundation-server-2010
+- /resources/rDtXzVuotXt
 tags:
 - configuration
 - define

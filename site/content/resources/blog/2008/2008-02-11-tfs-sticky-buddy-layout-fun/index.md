@@ -1,6 +1,7 @@
 ---
 title: TFS Sticky Buddy layout fun...
 description: Explore the challenges and triumphs of developing the TFS Sticky Buddy with Windows Forms and WPF. Join Martin Hinshelwood on this coding adventure!
+ResourceId: kiOEzMLUa0k
 date: 2008-02-11
 creator: Martin Hinshelwood
 id: "249"
@@ -10,7 +11,12 @@ slug: tfs-sticky-buddy-layout-fun
 aliases:
 - /blog/tfs-sticky-buddy-layout-fun
 - /tfs-sticky-buddy-layout-fun
+- /tfs-sticky-buddy-layout-fun
 - /tfs-sticky-buddy-layout-fun---
+- /blog/tfs-sticky-buddy-layout-fun---
+- /resources/kiOEzMLUa0k
+
+---
 - /blog/tfs-sticky-buddy-layout-fun---
 tags:
 - code

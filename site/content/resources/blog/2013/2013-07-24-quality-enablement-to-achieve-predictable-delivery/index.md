@@ -1,6 +1,7 @@
 ---
 title: Quality enablement to achieve predictable delivery
 description: Achieve predictable software delivery by establishing quality enablement. Learn key strategies to enhance your development process and reduce bugs.
+ResourceId: Qvzmat4E5NB
 date: 2013-07-24
 creator: Martin Hinshelwood
 id: "9737"
@@ -10,6 +11,7 @@ slug: quality-enablement-to-achieve-predictable-delivery
 aliases:
 - /blog/quality-enablement-to-achieve-predictable-delivery
 - /quality-enablement-to-achieve-predictable-delivery
+- /resources/Qvzmat4E5NB
 tags:
 - definition-of-done
 - develop

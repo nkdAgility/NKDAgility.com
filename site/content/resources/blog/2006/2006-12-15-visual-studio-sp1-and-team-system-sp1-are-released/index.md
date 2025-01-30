@@ -1,6 +1,7 @@
 ---
 title: Visual Studio SP1 and Team System SP1 are Released!
 description: Discover the latest updates with Visual Studio SP1 and Team System SP1! Get insights, download links, and bug fixes to enhance your development experience.
+ResourceId: t2k1Rx5nmd9
 date: 2006-12-15
 creator: Martin Hinshelwood
 id: "453"
@@ -12,6 +13,7 @@ aliases:
 - /visual-studio-sp1-and-team-system-sp1-are-released
 - /visual-studio-sp1-and-team-system-sp1-are-released-
 - /blog/visual-studio-sp1-and-team-system-sp1-are-released-
+- /resources/t2k1Rx5nmd9
 preview: nakedalm-logo-128-link-1-1.png
 
 ---
