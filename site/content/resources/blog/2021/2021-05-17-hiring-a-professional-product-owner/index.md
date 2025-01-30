@@ -2,40 +2,41 @@
 title: Hiring a Professional Product Owner
 description: Discover the essential qualities of a Professional Product Owner. Learn how to maximize product value and enhance team collaboration for success.
 date: 2021-05-17
+AudioNative: true
 creator: Martin Hinshelwood
 contributors:
-- name: Fredrik Wendt
-  external: https://www.scrum.org/fredrik-wendt
-- name: Ralph Jocham
-  external: https://www.scrum.org/ralph-jocham
-- name: Andy Hiles
-  external: https://www.scrum.org/andy-hiles
-- name: Maarten Dalmijn
-  external: https://www.linkedin.com/in/maarten-dalmijn/
-- name: Jim Sammons
-  external: https://www.scrum.org/jim-sammons
-- name: Victoria Pent
-  external: https://www.linkedin.com/in/victoria-pent-627a6b61/
-- name: James Powis
-  external: https://www.linkedin.com/in/james-powis-agile-product-owner/
+  - name: Fredrik Wendt
+    external: https://www.scrum.org/fredrik-wendt
+  - name: Ralph Jocham
+    external: https://www.scrum.org/ralph-jocham
+  - name: Andy Hiles
+    external: https://www.scrum.org/andy-hiles
+  - name: Maarten Dalmijn
+    external: https://www.linkedin.com/in/maarten-dalmijn/
+  - name: Jim Sammons
+    external: https://www.scrum.org/jim-sammons
+  - name: Victoria Pent
+    external: https://www.linkedin.com/in/victoria-pent-627a6b61/
+  - name: James Powis
+    external: https://www.linkedin.com/in/james-powis-agile-product-owner/
 id: "46138"
 layout: blog
 resourceTypes: blog
 slug: hiring-a-professional-product-owner
 aliases:
-- /blog/hiring-a-professional-product-owner
-- /hiring-a-professional-product-owner
+  - /blog/hiring-a-professional-product-owner
+  - /hiring-a-professional-product-owner
 tags:
-- featured
-- product-discovery
-- product-owner
+  - featured
+  - product-discovery
+  - product-owner
 categories:
-- discovery-ideation
-- news-and-reviews
-- people-and-process
+  - discovery-ideation
+  - news-and-reviews
+  - people-and-process
 preview: image-3-3.png
-
 ---
+
 One of my customers is asking me about the accountabilities of a Product Owner and how they break down. While I had seen many things around the Scrum Master for my post on [Hiring a Professional Scrum Master](https://nkdagility.com/blog/hiring-a-professional-scrum-master/), this was a little bit more of a discovery session, which is why I asked some of my trusted colleagues at Scrum.org to help out.
 
 This represents my best efforts to pull together a specification of the Product Owner accountability from the Scrum Guide, agile practitioners, and a little bit of experience.

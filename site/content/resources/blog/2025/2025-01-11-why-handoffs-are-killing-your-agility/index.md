@@ -2,20 +2,21 @@
 title: Why Handoffs Are Killing Your Agility
 description: Explore the detrimental impact of handoffs in software development and discover strategies to eliminate them for better agility.
 date: 2025-01-13
+AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
 slug: why-handoffs-are-killing-your-agility
 aliases:
 tags:
-- handoffs
-- lean
-- devops
-- agile
-- cross-functional-teams
+  - handoffs
+  - lean
+  - devops
+  - agile
+  - cross-functional-teams
 categories:
-- agility
-- people-and-process
+  - agility
+  - people-and-process
 preview: 2025-01-11-why-handoffs-are-killing-your-agility.jpg
 ---
 
@@ -62,7 +63,8 @@ Eliminating handoffs requires a mix of modern engineering practices and a commit
 To achieve true agility, a focus on eliminating handoffs is necessary by implementing cross-functional teams and optimising flow. Here's how:
 
 1. **Create Cross-Functional Teams** - Bring together individuals with all the skills needed to deliver end-to-end value. A cross-functional team might include developers, testers, designers, and operations personnel working collaboratively towards a shared goal. No sub-teams. No silos.
-> **Pro Tip:** Co-locate teams in timezones and use collaboration tools like Microsoft Teams or Slack to ensure seamless communication.
+
+   > **Pro Tip:** Co-locate teams in timezones and use collaboration tools like Microsoft Teams or Slack to ensure seamless communication.
 
 2. **Adopt Continuous Delivery Practices** - Automation is a cornerstone of Continuous Delivery (CD). By integrating automated testing, deployment, and monitoring into your pipeline, you ensure quality at every step while reducing manual intervention. Moving towards "testing in production" becomes a natural evolution of this strategy, allowing teams to gather real-world feedback quickly and address issues proactively.
 
@@ -90,6 +92,5 @@ Remember: every handoff is an opportunity for waste. Eliminate them, and watch y
 4. Martin Hinshelwood, _If your backlog is not refined then you are doing it wrong_ - [NKD Agility](https://nkdagility.com/blog/if-your-backlog-is-not-refined-then-you-are-doing-it-wrong/)
 5. The Agile Manifesto - [AgileManifesto.org](https://agilemanifesto.org/)
 6. Don Reinertsen, _Principles of Product Development Flow_
-
 
 **What challenges has your team faced in eliminating handoffs?** _Share your experiences and thoughts in the comments below._ Let’s start a conversation about how we can all build better, faster, and more collaborative teams!

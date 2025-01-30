@@ -1,25 +1,26 @@
 ---
-title: 'Embrace Uniqueness: Why Creating Your Own Scaling Practices Leads to Business Success'
+title: "Embrace Uniqueness: Why Creating Your Own Scaling Practices Leads to Business Success"
 description: Discover how creating unique scaling practices can drive your business success. Embrace your distinctiveness and foster agility for sustainable growth.
 date: 2023-06-21
+AudioNative: true
 creator: Martin Hinshelwood
 id: "49480"
 layout: blog
 resourceTypes: blog
 slug: embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
 aliases:
-- /blog/embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
-- /embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
-- /embrace-uniqueness--why-creating-your-own-scaling-practices-leads-to-business-success
-- /blog/embrace-uniqueness--why-creating-your-own-scaling-practices-leads-to-business-success
+  - /blog/embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
+  - /embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
+  - /embrace-uniqueness--why-creating-your-own-scaling-practices-leads-to-business-success
+  - /blog/embrace-uniqueness--why-creating-your-own-scaling-practices-leads-to-business-success
 tags:
-- featured
-- homepage
+  - featured
+  - homepage
 categories:
-- agility
+  - agility
 preview: naked-agility-technically-agile-Blog-EmbraceUniqueness-1-1-1.jpg
-
 ---
+
 Business Leaders face a key challenge when scaling their organisations effectively while maintaining the distinctiveness that made us successful in the first place. Many frameworks and methodologies, such as Scaled Agile Framework (SAFe) or the Spotify Model, promise a structured approach to scaling, but do they genuinely fit our unique needs? In this post, I aim to highlight the importance of creating our own scaling practices, highlighting that successful commercial software organizations have thrived by embracing their distinctiveness rather than adopting standardized approaches.
 
 Unique DNA of Success: Every successful organisation has its DNA, a unique combination of values, culture, and practices contributing to its achievements. These characteristics differentiate us from our competitors and have played a significant role in our success thus far. Implementing someone else's scaling practices, like SAFe or the Spotify Model, may seem tempting, but it risks diluting our distinctive DNA and eroding the competitive edge we've worked so hard to build.
