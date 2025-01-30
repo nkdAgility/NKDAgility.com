@@ -17,11 +17,11 @@
 
 {{- define "main" }}
 
-  {{ if or (gt .PublishDate (now.AddDate -1 0 0)) (.Params.AudioNative) }}
+  <!-- Change this date as needed -->
+  {{ if .Params.AudioNative }}
     <section class="container my-5" style="max-width: 700px !important">
       {{- if ne hugo.Environment "production" }}
         <div>RENDER AUDIO NATIVE from Eleven Labs (Production only)</div>
-        <div>PublishDate: {{ .PublishDate }} | {{ (gt .PublishDate (now.AddDate -1 0 0)) }}</div>
         <div>AudioNative: {{ .Params.AudioNative }}</div>
       {{- else -}}
         <div id="elevenlabs-audionative-widget" data-height="90" data-width="100%" data-frameborder="no" data-scrolling="no" data-publicuserid="71edc96043fbd75e5e1bd94d997b31cfa7932b5e94d7296094d7bc2906e081ab" data-playerurl="https://elevenlabs.io/player/index.html">Loading the <a href="https://elevenlabs.io/text-to-speech" target="_blank" rel="noopener">Elevenlabs Text to Speech</a> AudioNative Player...</div>
