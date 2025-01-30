@@ -2,6 +2,7 @@
 title: Live Virtual PAL on 27 – 30 July , 2020 in CEST
 description: Join our Professional Agile Leadership workshop from 27-30 July 2020! Enhance your skills in a live virtual format. Register now!
 date: 2020-07-07T22:16:33Z
+ResourceId: atV8TIupSsg
 videoId: atV8TIupSsg
 source: youtube
 url: /resources/videos/:slug

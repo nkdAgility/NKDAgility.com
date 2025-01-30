@@ -2,6 +2,7 @@
 title: Why did you embrace Agile over traditional project management as a developer?
 description: "Join Martin as he shares his transformative journey from traditional project management to Agile, highlighting the power of people in software development. \U0001F680✨"
 date: 2023-03-02T07:00:01Z
+ResourceId: 4FTEJ4tDQqU
 videoId: 4FTEJ4tDQqU
 url: /resources/videos/:slug
 slug: why-did-you-embrace-agile-over-traditional-project-management-as-a-developer-

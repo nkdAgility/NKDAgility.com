@@ -2,6 +2,7 @@
 title: NKD Agility Consulting Approach
 description: Discover the NKD Agility approach to effective Agile consulting and coaching with Martin Hinshelwood. Learn how to choose the right Agile partner!
 date: 2024-05-09T06:45:00Z
+ResourceId: BJZdyEqHhXc
 videoId: BJZdyEqHhXc
 url: /resources/videos/:slug
 slug: nkd-agility-consulting-approach

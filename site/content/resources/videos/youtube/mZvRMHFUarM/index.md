@@ -2,6 +2,7 @@
 title: Estimating with Confidence
 description: Unlock reliable software project estimates with Martin Hinshelwood! Discover the power of probabilistic forecasting for confident, accurate planning.
 date: 2024-12-05T06:30:00Z
+ResourceId: mZvRMHFUarM
 videoId: mZvRMHFUarM
 source: youtube
 url: /resources/videos/:slug

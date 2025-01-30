@@ -2,6 +2,7 @@
 title: Why are you going the immersive Scrum training route?
 description: Discover the benefits of immersive Scrum training with Martin Hinshelwood. Transform your skills in 4-8 day courses for real-time learning and growth!
 date: 2023-03-16T07:00:16Z
+ResourceId: TabMnJpXFVA
 videoId: TabMnJpXFVA
 url: /resources/videos/:slug
 slug: why-are-you-going-the-immersive-scrum-training-route-

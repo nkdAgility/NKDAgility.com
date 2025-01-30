@@ -3,6 +3,7 @@ title: PSPO In 40m
 description: Unlock the secrets of the PSPO exam in just 40 minutes! Join us for essential tips and strategies to ace your certification with confidence.
 ExpiryDate: 2021-10-21T16:15:47.0000000Z
 date: 2021-10-21T16:15:47Z
+ResourceId: 9ut4YZSkDg8
 videoId: 9ut4YZSkDg8
 source: youtube
 url: /resources/videos/:slug

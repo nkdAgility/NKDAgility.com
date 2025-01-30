@@ -2,6 +2,7 @@
 title: How does a Scrum team decide on a Sprint goal?
 description: "Unlock the secrets of effective Sprint goal setting in Scrum! Join Martin as he clarifies myths and enhances team collaboration for impactful planning. \U0001F3AF"
 date: 2023-06-02T07:00:09Z
+ResourceId: Srwxg7Etnr0
 videoId: Srwxg7Etnr0
 source: internal
 url: /resources/videos/:slug

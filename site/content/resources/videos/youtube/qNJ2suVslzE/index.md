@@ -2,6 +2,7 @@
 title: Taming Scope Creep with Agile
 description: Master scope creep with Agile! Join Martin Hinshelwood as he reveals strategies to focus on value delivery and adapt to change in project management.
 date: 2024-12-04T06:00:00Z
+ResourceId: qNJ2suVslzE
 videoId: qNJ2suVslzE
 source: youtube
 url: /resources/videos/:slug

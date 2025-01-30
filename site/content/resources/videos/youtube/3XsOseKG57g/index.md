@@ -2,6 +2,7 @@
 title: What do people love most about the 4-day training format?
 description: Discover why learners love the immersive 4-day training format! Join Martin Hinshelwood as he shares insights on enhancing your Scrum journey.
 date: 2023-05-11T12:00:02Z
+ResourceId: 3XsOseKG57g
 videoId: 3XsOseKG57g
 source: internal
 url: /resources/videos/:slug

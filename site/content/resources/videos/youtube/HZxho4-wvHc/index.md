@@ -2,6 +2,7 @@
 title: PAL In 2 minutes
 description: Discover the essence of PAL in just 2 minutes! Uncover its key features and benefits in a quick, engaging overview. Perfect for a fast-paced understanding!
 date: 2021-10-17T10:46:04Z
+ResourceId: HZxho4-wvHc
 videoId: HZxho4-wvHc
 source: youtube
 url: /resources/videos/:slug

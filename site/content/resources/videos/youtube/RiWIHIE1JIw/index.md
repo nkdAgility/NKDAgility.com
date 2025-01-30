@@ -2,6 +2,7 @@
 title: Scrum is like communism; it does not work! [SD Only]
 description: Unpack the myths that hinder Scrum adoption and discover why it’s not like communism! Join us as we debunk misconceptions and enhance your Agile journey.
 date: 2024-05-06T10:49:15Z
+ResourceId: RiWIHIE1JIw
 videoId: RiWIHIE1JIw
 source: youtube
 url: /resources/videos/:slug

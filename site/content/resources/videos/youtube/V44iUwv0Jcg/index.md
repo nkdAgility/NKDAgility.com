@@ -2,6 +2,7 @@
 title: Continuous Improvement with Kanban
 description: 'Discover how to enhance your processes with Kanban in this insightful video on continuous improvement. Join us for agile transformation! #kanban #agile'
 date: 2024-08-14T07:04:17Z
+ResourceId: V44iUwv0Jcg
 videoId: V44iUwv0Jcg
 url: /resources/videos/:slug
 slug: continuous-improvement-with-kanban

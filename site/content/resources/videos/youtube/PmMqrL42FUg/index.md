@@ -2,6 +2,7 @@
 title: 7 deadly sins of Agile - Sloth UPDATED
 description: "Discover the 7 deadly sins of Agile in our updated video! Don't miss the full-length version here: https://youtu.be/uCFIW_lEFuc."
 date: 2023-10-16T07:00:11Z
+ResourceId: PmMqrL42FUg
 videoId: PmMqrL42FUg
 source: youtube
 url: /resources/videos/:slug

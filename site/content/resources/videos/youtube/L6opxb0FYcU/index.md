@@ -2,6 +2,7 @@
 title: Worst agile advice you've ever heard?
 description: 'Discover the worst agile advice ever! Join Martin Hinshelwood as he highlights the pitfalls of focusing on agile mechanics over core values. #agile #scrum #shorts'
 date: 2023-05-09T09:30:04Z
+ResourceId: L6opxb0FYcU
 videoId: L6opxb0FYcU
 source: internal
 url: /resources/videos/:slug

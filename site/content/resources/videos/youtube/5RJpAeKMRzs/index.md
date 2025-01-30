@@ -2,6 +2,7 @@
 title: The 7 Deadly Sins of Agile!
 description: Discover the 7 Deadly Sins of Agile and learn how to avoid common pitfalls in your agile journey. Transform your approach for lasting success!
 date: 2024-04-14T12:17:16Z
+ResourceId: 5RJpAeKMRzs
 videoId: 5RJpAeKMRzs
 url: /resources/videos/:slug
 slug: the-7-deadly-sins-of-agile!

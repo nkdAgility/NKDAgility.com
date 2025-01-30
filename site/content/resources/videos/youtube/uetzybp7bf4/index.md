@@ -2,6 +2,7 @@
 title: Building a Culture of Continuous Improvement
 description: Empower your teams with financial transparency! Discover how to enhance decision-making and ROI in product development for continuous improvement.
 date: 2024-12-12T06:30:00Z
+ResourceId: uetzybp7bf4
 videoId: uetzybp7bf4
 source: youtube
 url: /resources/videos/:slug

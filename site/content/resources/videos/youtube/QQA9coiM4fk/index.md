@@ -2,6 +2,7 @@
 title: DevOps Consulting Overview
 description: Discover how DevOps consulting can transform your software delivery with insights from expert Martin Hinshelwood. Elevate your agile journey today!
 date: 2023-06-16T07:00:14Z
+ResourceId: QQA9coiM4fk
 videoId: QQA9coiM4fk
 source: internal
 url: /resources/videos/:slug

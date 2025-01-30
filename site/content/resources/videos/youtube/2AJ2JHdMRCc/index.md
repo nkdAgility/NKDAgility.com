@@ -2,6 +2,7 @@
 title: Why is DevOps such a Critical Element of Software Engineering?
 description: 'Discover why DevOps is essential in software engineering! Join Martin Hinshelwood as he unravels its critical role in delivering client solutions. #DevOps #shorts'
 date: 2023-06-14T14:30:02Z
+ResourceId: 2AJ2JHdMRCc
 videoId: 2AJ2JHdMRCc
 source: internal
 url: /resources/videos/:slug

@@ -2,6 +2,7 @@
 title: Traditional vs Empirical! Whats the difference? Agile faces off agianst waterfall!
 description: "Explore the clash of Agile vs Waterfall! Discover how empirical models boost project success with visibility, adaptability, and continuous value delivery. \U0001F680"
 date: 2022-10-12T17:08:59Z
+ResourceId: rnyJzSwU74Q
 videoId: rnyJzSwU74Q
 url: /resources/videos/:slug
 slug: traditional-vs-empirical!-whats-the-difference-agile-faces-off-agianst-waterfall!

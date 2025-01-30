@@ -2,6 +2,7 @@
 title: Balancing Speed and Stability in Delivery
 description: Discover how to prioritise quality over speed in software delivery. Learn the true costs of rushing and why stability builds trust.
 date: 2025-01-24T06:30:21Z
+ResourceId: Tz784ysJX7Q
 videoId: Tz784ysJX7Q
 source: youtube
 url: /resources/videos/:slug

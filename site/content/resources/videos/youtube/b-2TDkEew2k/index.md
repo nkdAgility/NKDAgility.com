@@ -2,6 +2,7 @@
 title: ' shorts 7 Virtues of agile. Temperance'
 description: 'Discover the virtue of Temperance in Agile! Join us for insights on fostering balance and harmony in your teams. #Agile #Scrum #Shorts'
 date: 2023-12-05T11:00:27Z
+ResourceId: b-2TDkEew2k
 videoId: b-2TDkEew2k
 url: /resources/videos/:slug
 slug: -shorts-7-virtues-of-agile-temperance

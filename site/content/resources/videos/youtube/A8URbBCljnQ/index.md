@@ -2,6 +2,7 @@
 title: 27th March 2020 - Office Hours \ Ask Me Anything
 description: Join Martin, a Scrum Trainer and Microsoft MVP, for an engaging AMA on DevOps and Agility. Ask your questions live or submit them privately!
 date: 2020-04-10T18:30:42Z
+ResourceId: A8URbBCljnQ
 videoId: A8URbBCljnQ
 url: /resources/videos/:slug
 slug: 27th-march-2020-office-hours-ask-me-anything

@@ -2,6 +2,7 @@
 title: 'Hiring an Agile Coach: What to Look For in Both Technical and Leadership Engagement'
 description: 'Discover 5 essential tips for hiring an #AgileCoach with Martin Hinshelwood in this insightful #shorts video. Make informed decisions for your team!'
 date: 2023-11-21T11:00:08Z
+ResourceId: 9z9BgSi2zeA
 videoId: 9z9BgSi2zeA
 source: internal
 url: /resources/videos/:slug

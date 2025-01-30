@@ -2,6 +2,7 @@
 title: How much of a competitive edge will the immersive PAL e course deliver to delegates?
 description: Discover how the immersive PAL e-course can enhance your leadership skills and give your organisation a competitive edge in just 7 weeks!
 date: 2023-07-13T12:16:15Z
+ResourceId: NKQr8oGO8lg
 videoId: NKQr8oGO8lg
 url: /resources/videos/:slug
 slug: how-much-of-a-competitive-edge-will-the-immersive-pal-e-course-deliver-to-delegates-

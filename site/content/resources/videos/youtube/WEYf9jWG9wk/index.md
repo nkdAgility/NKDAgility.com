@@ -2,6 +2,7 @@
 title: Unleash your team's full potential
 description: "Unlock your team's potential with NKD Agility! Discover how to achieve engineering excellence through quality code. Visit us now! #Agile #ProductDevelopment"
 date: 2024-11-20T08:02:36Z
+ResourceId: WEYf9jWG9wk
 videoId: WEYf9jWG9wk
 url: /resources/videos/:slug
 slug: unleash-your-team's-full-potential

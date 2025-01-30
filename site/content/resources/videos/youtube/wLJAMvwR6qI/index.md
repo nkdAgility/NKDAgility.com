@@ -2,6 +2,7 @@
 title: PPDV learning outcomes with Dr Joanna Plaskonka
 description: Discover key learning outcomes from the PPDV course with Dr Joanna Plaskonka. Enhance your skills in product discovery and validation today!
 date: 2024-08-20T07:06:21Z
+ResourceId: wLJAMvwR6qI
 videoId: wLJAMvwR6qI
 url: /resources/videos/:slug
 slug: ppdv-learning-outcomes-with-dr-joanna-plaskonka

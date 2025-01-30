@@ -2,6 +2,7 @@
 title: Virtual F2F Running LVC In Microsoft Teams Take2
 description: Join us for an engaging virtual face-to-face running session in Microsoft Teams! Discover tips and tricks to enhance your online collaboration experience.
 date: 2020-05-20T16:18:43Z
+ResourceId: dg-Cq4mqj8E
 videoId: dg-Cq4mqj8E
 source: youtube
 url: /resources/videos/:slug

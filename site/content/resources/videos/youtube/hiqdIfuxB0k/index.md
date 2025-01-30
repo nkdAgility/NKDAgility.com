@@ -2,6 +2,7 @@
 title: naked agility Professional Scrum Generic v1
 description: "Explore the essence of Agile with 'Naked Agility: Professional Scrum Generic v1'. Discover key principles and practices for effective Scrum implementation."
 date: 2022-09-07T15:10:37Z
+ResourceId: hiqdIfuxB0k
 videoId: hiqdIfuxB0k
 source: youtube
 url: /resources/videos/:slug

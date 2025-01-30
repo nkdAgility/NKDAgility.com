@@ -2,6 +2,7 @@
 title: What are 3 top tips for a new agile consultant?
 description: Unlock your potential as an agile consultant! Discover three essential tips from Martin Hinshelwood to elevate your first consulting engagement.
 date: 2023-04-14T07:00:24Z
+ResourceId: gImXmxjn_1g
 videoId: gImXmxjn_1g
 source: youtube
 url: /resources/videos/:slug

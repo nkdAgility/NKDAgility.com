@@ -2,6 +2,7 @@
 title: 'The Importance of Competence in Organizations: Building a Culture of Learning and Growth'
 description: "Discover why investing in team competence is vital for innovation. Happy, skilled people create great products. Let's foster growth and excellence! \U0001F331\U0001F680"
 date: 2024-10-15T06:45:00Z
+ResourceId: I9avUDYFw-E
 videoId: I9avUDYFw-E
 source: internal
 url: /resources/videos/:slug

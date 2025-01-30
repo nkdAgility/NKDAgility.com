@@ -2,6 +2,7 @@
 title: Under employed - 30% upfront, balance when you are employed
 description: Struggling to find your dream job? Discover NKD Agility's unique pricing for the under employed—30% upfront, balance upon employment. Watch now!
 date: 2023-06-14T07:00:18Z
+ResourceId: UeGdC6GRyq4
 videoId: UeGdC6GRyq4
 source: internal
 url: /resources/videos/:slug

@@ -2,6 +2,7 @@
 title: Free Workshop 6 - Introduction to the Definition of Done!
 description: Join our free workshop to explore the Definition of Done! Learn how to create one with your team and enhance your project success. Don't miss out!
 date: 2021-10-15T05:13:22Z
+ResourceId: HMmCr5eMK3U
 videoId: HMmCr5eMK3U
 source: youtube
 url: /resources/videos/:slug

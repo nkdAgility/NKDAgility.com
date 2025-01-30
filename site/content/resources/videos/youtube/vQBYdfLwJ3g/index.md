@@ -2,6 +2,7 @@
 title: Why is the PSPO a great fit for the 8-week immersive learning experience?
 description: Discover how the PSPO course enhances the 8-week immersive learning experience, blending work and education for mastering product ownership.
 date: 2023-06-09T07:00:27Z
+ResourceId: vQBYdfLwJ3g
 videoId: vQBYdfLwJ3g
 url: /resources/videos/:slug
 slug: why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience-

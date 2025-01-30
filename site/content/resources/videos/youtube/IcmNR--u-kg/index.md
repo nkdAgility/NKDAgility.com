@@ -2,6 +2,7 @@
 title: How will the immersive learning experience change the game in terms of entry level capabilities?
 description: "Explore how immersive learning revolutionises entry-level skills, enhancing practical application and problem-solving in workforce development. \U0001F31F\U0001F680"
 date: 2023-07-31T07:00:12Z
+ResourceId: IcmNR--u-kg
 videoId: IcmNR--u-kg
 source: youtube
 url: /resources/videos/:slug

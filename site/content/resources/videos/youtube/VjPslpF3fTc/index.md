@@ -2,6 +2,7 @@
 title: How will the Immersive Learning experience change the game for people with a couple of years experience in the field?
 description: "Unlock your potential! Discover how immersive learning transforms skill enhancement for experienced professionals in our latest video. \U0001F393✨"
 date: 2023-08-01T07:00:19Z
+ResourceId: VjPslpF3fTc
 videoId: VjPslpF3fTc
 source: internal
 url: /resources/videos/:slug

@@ -2,6 +2,7 @@
 title: 7 signs of the agile apocalypse. Silence
 description: 'Discover the 7 signs of the #Agile apocalypse! Silence can signal disaster in #Agile. Join Martin Hinshelwood to learn why stillness matters. #shorts'
 date: 2023-11-10T06:45:01Z
+ResourceId: WpsGLkTXalE
 videoId: WpsGLkTXalE
 url: /resources/videos/:slug
 slug: 7-signs-of-the-agile-apocalypse-silence

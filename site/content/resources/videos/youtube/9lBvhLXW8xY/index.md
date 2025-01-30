@@ -2,6 +2,7 @@
 title: Update Youtube Video Pages
 description: Enhance your YouTube experience! Discover the latest updates to video pages, featuring improved navigation and user-friendly design. Watch now!
 date: 2024-11-21T17:13:01Z
+ResourceId: 9lBvhLXW8xY
 videoId: 9lBvhLXW8xY
 source: youtube
 url: /resources/videos/:slug

@@ -2,6 +2,7 @@
 title: PPDV Course Overview
 description: 'Discover the PPDV course from Scrum.org! Enhance your skills in agile product development. Visit nkdagility.com for more details. #agile #scrum'
 date: 2024-08-09T05:39:57Z
+ResourceId: YGyx4i3-4ss
 videoId: YGyx4i3-4ss
 url: /resources/videos/:slug
 slug: ppdv-course-overview

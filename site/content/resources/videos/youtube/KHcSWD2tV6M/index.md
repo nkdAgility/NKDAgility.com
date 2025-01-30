@@ -2,6 +2,7 @@
 title: Silence - 7 signs of the agile apocalypse. But shorter!
 description: 'Discover the two types of silence in agile: one brings peace, the other signals impending disaster. Join Martin Hinshelwood in this insightful exploration!'
 date: 2023-11-02T11:30:10Z
+ResourceId: KHcSWD2tV6M
 videoId: KHcSWD2tV6M
 url: /resources/videos/:slug
 slug: silence-7-signs-of-the-agile-apocalypse-but-shorter!

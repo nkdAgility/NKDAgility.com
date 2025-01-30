@@ -2,6 +2,7 @@
 title: PSM 1 Rock Music
 description: Dive into the electrifying world of rock music with 'PSM 1 Rock Music'! Discover iconic riffs, legendary bands, and the genre's vibrant history.
 date: 2022-07-30T12:14:34Z
+ResourceId: 5myUBqzRiXk
 videoId: 5myUBqzRiXk
 source: youtube
 url: /resources/videos/:slug

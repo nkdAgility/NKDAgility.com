@@ -2,6 +2,7 @@
 title: ' shorts 5 things you would teach a productowner apprentice. Part 4'
 description: Join Martin Hinshelwood in Part 4 as he shares essential lessons for aspiring product owners. Discover key insights for success in agile project management!
 date: 2023-12-18T11:00:15Z
+ResourceId: M5U-Pdn_ZrE
 videoId: M5U-Pdn_ZrE
 url: /resources/videos/:slug
 slug: -shorts-5-things-you-would-teach-a-productowner-apprentice-part-4

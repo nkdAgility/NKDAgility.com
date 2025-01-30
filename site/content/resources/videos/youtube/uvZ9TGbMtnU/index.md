@@ -2,6 +2,7 @@
 title: ' shorts 5 kinds of Agile bandits. 1st Kind'
 description: 'Discover the 1st kind of Agile bandit with Martin Hinshelwood! Join us for insights on Agile practices and team evolution. #Agile #Scrum #Shorts'
 date: 2024-01-04T12:14:45Z
+ResourceId: uvZ9TGbMtnU
 videoId: uvZ9TGbMtnU
 url: /resources/videos/:slug
 slug: -shorts-5-kinds-of-agile-bandits-1st-kind

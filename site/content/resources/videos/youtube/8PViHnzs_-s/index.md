@@ -2,6 +2,7 @@
 title: Free Workshop 07 - Commitment in Scrum, what do we commit to and why
 description: Join Ana and Martin in an interactive workshop exploring commitment in Scrum. Discover what we commit to and why. Can you commit? Sign up now!
 date: 2021-10-29T05:24:03Z
+ResourceId: 8PViHnzs_-s
 videoId: 8PViHnzs_-s
 source: youtube
 url: /resources/videos/:slug

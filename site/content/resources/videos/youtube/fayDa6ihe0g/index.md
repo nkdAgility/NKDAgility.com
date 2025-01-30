@@ -2,6 +2,7 @@
 title: Live Virtual Professional Scrum Product Owner in 5 minutes!
 description: Discover our Scrum Product Owner training in just 5 minutes! Watch a timelapse of four half-days and explore free workshops on our channel.
 date: 2021-10-22T10:52:48Z
+ResourceId: fayDa6ihe0g
 videoId: fayDa6ihe0g
 url: /resources/videos/:slug
 slug: live-virtual-professional-scrum-product-owner-in-5-minutes!

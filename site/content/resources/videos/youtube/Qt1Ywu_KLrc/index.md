@@ -2,6 +2,7 @@
 title: Basic Work Item Migration with the Azure DevOps Migration Tools
 description: Discover how to effortlessly migrate and bulk edit work items in Azure DevOps with our comprehensive guide on the Migration Tools.
 date: 2023-11-16T12:47:09Z
+ResourceId: Qt1Ywu_KLrc
 videoId: Qt1Ywu_KLrc
 url: /resources/videos/:slug
 slug: basic-work-item-migration-with-the-azure-devops-migration-tools

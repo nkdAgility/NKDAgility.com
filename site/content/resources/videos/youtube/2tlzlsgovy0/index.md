@@ -2,6 +2,7 @@
 title: 6 things you didn't know about Agile Product Management but really should Part 2
 description: "Unlock your team's potential! Discover 6 crucial insights on Agile Product Management to align vision and strategy for maximum impact. \U0001F3AF\U0001F4C8"
 date: 2024-07-03T06:45:00Z
+ResourceId: 2tlzlsgovy0
 videoId: 2tlzlsgovy0
 url: /resources/videos/:slug
 slug: 6-things-you-didn't-know-about-agile-product-management-but-really-should-part-2

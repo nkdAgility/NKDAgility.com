@@ -3,6 +3,7 @@ title: PSOP In 5m
 description: Discover the essentials of PSOP in just 5 minutes! This quick guide breaks down key concepts for a clear understanding. Perfect for busy learners!
 ExpiryDate: 2021-10-21T16:13:46.0000000Z
 date: 2021-10-21T16:13:46Z
+ResourceId: CQHxyhm4k8k
 videoId: CQHxyhm4k8k
 source: youtube
 url: /resources/videos/:slug

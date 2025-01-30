@@ -2,6 +2,7 @@
 title: Why isn't a scrum master given any real power or authority in the scrum guide?
 description: "Unlock the true essence of Scrum leadership! Discover how respect and skill, not authority, drive team success. Join the journey to effective Scrum mastery! \U0001F680"
 date: 2023-09-15T07:00:06Z
+ResourceId: 6L2r8YrehWc
 videoId: 6L2r8YrehWc
 source: youtube
 url: /resources/videos/:slug

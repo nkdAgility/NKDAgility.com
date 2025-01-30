@@ -2,6 +2,7 @@
 title: 7 signs of the agile apocalypse. War
 description: 'Discover the 7 signs of the #agile apocalypse in this short video. Learn why conflict signals disaster for your #agile transformation. #shorts'
 date: 2023-11-07T11:30:07Z
+ResourceId: GGtb7Yg8gHY
 videoId: GGtb7Yg8gHY
 url: /resources/videos/:slug
 slug: 7-signs-of-the-agile-apocalypse-war
