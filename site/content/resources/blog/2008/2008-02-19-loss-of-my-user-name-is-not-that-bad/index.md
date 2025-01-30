@@ -1,6 +1,7 @@
 ---
 title: Loss of My.User.Name is not that bad...
 description: Discover how to effectively manage user identities in WPF with Active Directory using .NET 3.5. Simplify your development process today!
+ResourceId: 2iThCwSc5Qx
 date: 2008-02-19
 creator: Martin Hinshelwood
 id: "245"
@@ -10,7 +11,12 @@ slug: loss-of-my-user-name-is-not-that-bad
 aliases:
 - /blog/loss-of-my-user-name-is-not-that-bad
 - /loss-of-my-user-name-is-not-that-bad
+- /loss-of-my-user-name-is-not-that-bad
 - /loss-of-my-user-name-is-not-that-bad---
+- /blog/loss-of-my-user-name-is-not-that-bad---
+- /resources/2iThCwSc5Qx
+
+---
 - /blog/loss-of-my-user-name-is-not-that-bad---
 tags:
 - code

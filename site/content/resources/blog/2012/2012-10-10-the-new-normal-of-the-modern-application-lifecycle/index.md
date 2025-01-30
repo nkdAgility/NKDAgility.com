@@ -1,6 +1,7 @@
 ---
 title: The new normal of the modern application lifecycle
 description: Explore the evolving landscape of software development in 'The New Normal of the Modern Application Lifecycle' and discover how to stay relevant in a fast-paced world.
+ResourceId: 4xvg8avKMPA
 date: 2012-10-10
 creator: Martin Hinshelwood
 id: "8885"
@@ -10,6 +11,7 @@ slug: the-new-normal-of-the-modern-application-lifecycle
 aliases:
 - /blog/the-new-normal-of-the-modern-application-lifecycle
 - /the-new-normal-of-the-modern-application-lifecycle
+- /resources/4xvg8avKMPA
 tags:
 - agile
 - improve

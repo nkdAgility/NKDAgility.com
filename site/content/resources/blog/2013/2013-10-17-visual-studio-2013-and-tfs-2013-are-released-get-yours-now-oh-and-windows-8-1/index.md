@@ -1,6 +1,7 @@
 ---
 title: Visual Studio 2013 and TFS 2013 are released, get yours now! Oh and Windows 8.1&hellip;
 description: Discover the powerful features of Visual Studio 2013 and TFS 2013, now available for download! Upgrade your development experience with the latest tools.
+ResourceId: 6g2Cp_ZpsHo
 date: 2013-10-17
 creator: Martin Hinshelwood
 id: "10214"
@@ -12,6 +13,7 @@ aliases:
 - /visual-studio-2013-and-tfs-2013-are-released-get-yours-now-oh-and-windows-8-1
 - /visual-studio-2013-and-tfs-2013-are-released,-get-yours-now--oh-and-windows-8-1&hellip;
 - /blog/visual-studio-2013-and-tfs-2013-are-released,-get-yours-now--oh-and-windows-8-1&hellip;
+- /resources/6g2Cp_ZpsHo
 tags:
 - release
 - rtm

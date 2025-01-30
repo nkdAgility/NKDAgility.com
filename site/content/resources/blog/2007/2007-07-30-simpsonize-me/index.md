@@ -1,6 +1,7 @@
 ---
 title: Simpsonize Me!
 description: Discover how to 'Simpsonize' yourself! Join Martin Hinshelwood as he shares his fun experience and tips for creating your own animated character.
+ResourceId: vThsgxwl-Tv
 date: 2007-07-30
 creator: Martin Hinshelwood
 id: "355"
@@ -12,6 +13,7 @@ aliases:
 - /simpsonize-me
 - /simpsonize-me-
 - /blog/simpsonize-me-
+- /resources/vThsgxwl-Tv
 categories:
 - me
 preview: nakedalm-logo-128-link-2-1.png

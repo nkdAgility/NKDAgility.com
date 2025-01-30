@@ -1,6 +1,7 @@
 ---
 title: Configuring Microsoft Teams for Live Virtual Training
 description: Master Microsoft Teams for Live Virtual Training with expert tips on setup and configuration to enhance your students' learning experience. Get started now!
+ResourceId: Xc0Lh3NbXfK
 date: 2020-06-22
 creator: Martin Hinshelwood
 id: "44452"
@@ -10,6 +11,7 @@ slug: configuring-microsoft-teams-for-live-virtual-training
 aliases:
 - /blog/configuring-microsoft-teams-for-live-virtual-training
 - /configuring-microsoft-teams-for-live-virtual-training
+- /resources/Xc0Lh3NbXfK
 categories:
 - agility
 - tools-and-techniques

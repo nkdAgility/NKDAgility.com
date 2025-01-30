@@ -1,6 +1,7 @@
 ---
 title: Hosted Team Foundation Server
 description: Explore the challenges of Hosted Team Foundation Server and discover solutions for project partitioning. Learn about TFS Now and upcoming improvements!
+ResourceId: uP5FXaFL6Lx
 date: 2007-08-05
 creator: Martin Hinshelwood
 id: "342"
@@ -10,6 +11,7 @@ slug: hosted-team-foundation-server
 aliases:
 - /blog/hosted-team-foundation-server
 - /hosted-team-foundation-server
+- /resources/uP5FXaFL6Lx
 tags:
 - tfs
 categories:

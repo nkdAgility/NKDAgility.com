@@ -1,6 +1,7 @@
 ---
 title: Configure features in Team Foundation Server 2013
 description: Unlock the full potential of Team Foundation Server 2013 by configuring essential features with our step-by-step guide. Enhance your project management today!
+ResourceId: MbkXNCfuEU2
 date: 2013-06-26
 creator: Martin Hinshelwood
 id: "9912"
@@ -10,6 +11,7 @@ slug: configure-features-in-team-foundation-server-2013
 aliases:
 - /blog/configure-features-in-team-foundation-server-2013
 - /configure-features-in-team-foundation-server-2013
+- /resources/MbkXNCfuEU2
 tags:
 - configuration
 - process-template

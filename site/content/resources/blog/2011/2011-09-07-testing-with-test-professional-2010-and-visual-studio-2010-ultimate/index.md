@@ -1,6 +1,7 @@
 ---
 title: Testing with Test Professional 2010 and Visual Studio 2010 Ultimate
 description: Join our Testing with Test Professional 2010 course to enhance your skills in Visual Studio ALM. Limited seats available for this remote training!
+ResourceId: SPcXGSE8VUI
 date: 2011-09-07
 creator: Martin Hinshelwood
 id: "3776"
@@ -10,6 +11,7 @@ slug: testing-with-test-professional-2010-and-visual-studio-2010-ultimate
 aliases:
 - /blog/testing-with-test-professional-2010-and-visual-studio-2010-ultimate
 - /testing-with-test-professional-2010-and-visual-studio-2010-ultimate
+- /resources/SPcXGSE8VUI
 tags:
 - mtm
 - nwcadence

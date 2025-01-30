@@ -1,6 +1,7 @@
 ---
 title: VSTS Sync Migration Tool Update and Bugfix
 description: Discover the latest updates and bug fixes for the VSTS Sync Migration Tool, enhancing your TFS and VSTS experience. Streamline your project migrations today!
+ResourceId: QO9MQIxxcoy
 date: 2017-06-21
 creator: Martin Hinshelwood
 id: "11944"
@@ -12,6 +13,7 @@ aliases:
 - /vsts-sync-migration-tool-update-bugfix
 - /vsts-sync-migration-tool-update-and-bugfix
 - /blog/vsts-sync-migration-tool-update-and-bugfix
+- /resources/QO9MQIxxcoy
 tags:
 - migration
 - sync

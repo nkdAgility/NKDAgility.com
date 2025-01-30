@@ -1,6 +1,7 @@
 ---
 title: Choosing a Process Template for your Team Project
 description: Discover the best process template for your agile team project. Learn why the Scrum template minimizes friction and enhances your development workflow.
+ResourceId: dGSGEOYRJAo
 date: 2017-05-16
 creator: Martin Hinshelwood
 id: "10356"
@@ -10,6 +11,7 @@ slug: choosing-a-process-template-for-your-team-project
 aliases:
 - /blog/choosing-a-process-template-for-your-team-project
 - /choosing-a-process-template-for-your-team-project
+- /resources/dGSGEOYRJAo
 tags:
 - microsoft-visual-studio-scrum
 - msf

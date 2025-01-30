@@ -1,6 +1,7 @@
 ---
 title: Metrics that matter with evidence-based management
 description: Discover how Evidence-Based Management can enhance your metrics and KPIs for better decision-making in software development. Elevate your team's performance!
+ResourceId: ezNZJBiEwYA
 date: 2014-02-25
 creator: Martin Hinshelwood
 id: "10367"
@@ -10,6 +11,7 @@ slug: metrics-that-matter-with-evidence-based-management
 aliases:
 - /blog/metrics-that-matter-with-evidence-based-management
 - /metrics-that-matter-with-evidence-based-management
+- /resources/ezNZJBiEwYA
 tags:
 - agile
 - ebmgt

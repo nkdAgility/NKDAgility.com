@@ -1,6 +1,7 @@
 ---
 title: 'The SharePoint Plan: Database move headache mitigation'
 description: Discover effective strategies to mitigate database move headaches in SharePoint. Learn how to simplify SQL Server migrations and save time with our expert plan!
+ResourceId: 8G7jFUB3MHo
 date: 2008-01-31
 creator: Martin Hinshelwood
 id: "257"
@@ -12,6 +13,7 @@ aliases:
 - /the-sharepoint-plan-database-move-headache-mitigation
 - /the-sharepoint-plan--database-move-headache-mitigation
 - /blog/the-sharepoint-plan--database-move-headache-mitigation
+- /resources/8G7jFUB3MHo
 tags:
 - configuration
 - fail

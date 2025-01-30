@@ -1,6 +1,7 @@
 ---
 title: Xbox Live To Twitter
 description: Discover how to connect your Xbox Live updates to Twitter with a custom application. Download the source code and enhance your gaming experience!
+ResourceId: 7DGS8UR6dab
 date: 2008-01-04
 creator: Martin Hinshelwood
 id: "271"
@@ -10,6 +11,7 @@ slug: xbox-live-to-twitter
 aliases:
 - /blog/xbox-live-to-twitter
 - /xbox-live-to-twitter
+- /resources/7DGS8UR6dab
 tags:
 - xbox
 categories:

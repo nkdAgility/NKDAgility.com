@@ -1,6 +1,7 @@
 ---
 title: How 'e' are you?
 description: Discover your e-score and see how you rank in the digital world! Join the fun and find out how 'e' you really are with our engaging quiz.
+ResourceId: YDrhk8yEGQa
 date: 2007-07-16
 creator: Martin Hinshelwood
 id: "368"
@@ -12,6 +13,7 @@ aliases:
 - /how-e-are-you
 - /how-'e'-are-you-
 - /blog/how-'e'-are-you-
+- /resources/YDrhk8yEGQa
 tags:
 - moss2007
 - sharepoint

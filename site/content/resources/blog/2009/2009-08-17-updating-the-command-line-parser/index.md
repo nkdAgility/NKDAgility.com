@@ -1,6 +1,7 @@
 ---
 title: Updating the Command Line Parser
 description: Discover how to enhance your command line applications with a versatile parser in VB.NET. Streamline multiple commands and improve your coding efficiency!
+ResourceId: ZMPPpD1TIuP
 date: 2009-08-17
 creator: Martin Hinshelwood
 id: "91"
@@ -10,6 +11,7 @@ slug: updating-the-command-line-parser
 aliases:
 - /blog/updating-the-command-line-parser
 - /updating-the-command-line-parser
+- /resources/ZMPPpD1TIuP
 tags:
 - code
 - codeproject

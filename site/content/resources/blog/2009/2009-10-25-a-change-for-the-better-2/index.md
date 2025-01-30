@@ -1,6 +1,7 @@
 ---
 title: 'A change for the better #2 - Aggreko to SSW'
 description: Discover my journey from Aggreko to SSW as a Senior Software Architect, embracing change and productivity through innovative rules and practices.
+ResourceId: 4gwofOJZOmj
 date: 2009-10-25
 creator: Martin Hinshelwood
 id: "82"
@@ -10,7 +11,13 @@ slug: a-change-for-the-better-2
 aliases:
 - /blog/a-change-for-the-better-2
 - /a-change-for-the-better-2
+- /a-change-for-the-better--2
 - /a-change-for-the-better--2---aggreko-to-ssw
+- /blog/a-change-for-the-better--2---aggreko-to-ssw
+- /resources/4gwofOJZOmj
+
+---
+aggreko-to-ssw
 - /blog/a-change-for-the-better--2---aggreko-to-ssw
 tags:
 - aggreko

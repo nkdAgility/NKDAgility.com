@@ -1,6 +1,7 @@
 ---
 title: 'Issue [ TFS 2013 Preview ] TF400654: Unable to configure Planning Tools'
 description: Resolve the TF400654 error in TFS 2013 Preview with our step-by-step guide. Learn to configure Planning Tools and streamline your process template.
+ResourceId: vjwgG3uy0lI
 date: 2013-06-27
 creator: Martin Hinshelwood
 id: "9911"
@@ -12,6 +13,7 @@ aliases:
 - /issue-tfs-2013-preview-tf400654-unable-to-configure-planning-tools
 - /issue-[-tfs-2013-preview-]-tf400654--unable-to-configure-planning-tools
 - /blog/issue-[-tfs-2013-preview-]-tf400654--unable-to-configure-planning-tools
+- /resources/vjwgG3uy0lI
 tags:
 - process-template
 - puzzles

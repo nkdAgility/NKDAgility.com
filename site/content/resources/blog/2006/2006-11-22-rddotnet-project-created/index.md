@@ -1,6 +1,7 @@
 ---
 title: RDdotNET Project Created
 description: Discover the RD.NET Community Foundation, a powerful new project enhancing service-oriented architecture with globalisation, relationship, and shell services.
+ResourceId: cD1LS3C3pX0
 date: 2006-11-22
 creator: Martin Hinshelwood
 id: "460"
@@ -10,6 +11,7 @@ slug: rddotnet-project-created
 aliases:
 - /blog/rddotnet-project-created
 - /rddotnet-project-created
+- /resources/cD1LS3C3pX0
 tags:
 - service-oriented-architecture
 preview: nakedalm-logo-128-link-1-1.png

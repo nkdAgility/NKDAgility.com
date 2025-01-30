@@ -1,6 +1,7 @@
 ---
 title: LINQ to XSD
 description: Discover the power of LINQ to XSD for C# projects. Learn how to enhance your development with extra features and streamline your XSD handling.
+ResourceId: 6v73sdkKVTr
 date: 2008-08-28
 creator: Martin Hinshelwood
 id: "203"
@@ -10,6 +11,7 @@ slug: linq-to-xsd
 aliases:
 - /blog/linq-to-xsd
 - /linq-to-xsd
+- /resources/6v73sdkKVTr
 tags:
 - code
 - tfs-build

@@ -1,6 +1,7 @@
 ---
 title: VSTS Sync Migration Tools
 description: Discover VSTS Sync Migration Tools for seamless data migration from TFS to VSTS. Simplify your transition and enhance your DevOps processes today!
+ResourceId: UjyqYjINUfp
 date: 2016-10-26
 creator: Martin Hinshelwood
 id: "11634"
@@ -10,6 +11,7 @@ slug: vsts-sync-migration-tools
 aliases:
 - /blog/vsts-sync-migration-tools
 - /vsts-sync-migration-tools
+- /resources/UjyqYjINUfp
 tags:
 - migration
 - vsteamservices

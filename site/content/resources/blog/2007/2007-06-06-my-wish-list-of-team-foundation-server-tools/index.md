@@ -1,6 +1,7 @@
 ---
 title: My Wish List of Team Foundation Server Tools
 description: Explore essential Team Foundation Server tools in my wish list, designed to enhance workflow and collaboration for developers. Join the conversation!
+ResourceId: ew4cQCgRYB0
 date: 2007-06-06
 creator: Martin Hinshelwood
 id: "389"
@@ -10,6 +11,7 @@ slug: my-wish-list-of-team-foundation-server-tools
 aliases:
 - /blog/my-wish-list-of-team-foundation-server-tools
 - /my-wish-list-of-team-foundation-server-tools
+- /resources/ew4cQCgRYB0
 tags:
 - visual-studio
 - vs2005

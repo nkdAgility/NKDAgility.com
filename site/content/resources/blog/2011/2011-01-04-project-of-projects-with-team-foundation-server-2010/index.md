@@ -1,6 +1,7 @@
 ---
 title: Project of Projects with team Foundation Server 2010
 description: Discover best practices for using Team Foundation Server 2010 effectively. Learn to structure projects intuitively for enhanced collaboration and efficiency.
+ResourceId: qiY3IH2aMYV
 date: 2011-01-04
 creator: Martin Hinshelwood
 id: "18"
@@ -10,6 +11,7 @@ slug: project-of-projects-with-team-foundation-server-2010
 aliases:
 - /blog/project-of-projects-with-team-foundation-server-2010
 - /project-of-projects-with-team-foundation-server-2010
+- /resources/qiY3IH2aMYV
 tags:
 - configuration
 - infrastructure

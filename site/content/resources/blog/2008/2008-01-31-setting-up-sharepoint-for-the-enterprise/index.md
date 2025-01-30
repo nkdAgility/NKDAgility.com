@@ -1,6 +1,7 @@
 ---
 title: Setting up SharePoint for the Enterprise
 description: Learn how to effectively set up SharePoint for a global enterprise. Discover essential strategies for deployment across multiple continents and enhance collaboration.
+ResourceId: q0Nsf_xfijz
 date: 2008-01-31
 creator: Martin Hinshelwood
 id: "252"
@@ -10,6 +11,7 @@ slug: setting-up-sharepoint-for-the-enterprise
 aliases:
 - /blog/setting-up-sharepoint-for-the-enterprise
 - /setting-up-sharepoint-for-the-enterprise
+- /resources/q0Nsf_xfijz
 tags:
 - develop
 - infrastructure

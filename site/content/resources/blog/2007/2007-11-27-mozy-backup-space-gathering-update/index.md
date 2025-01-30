@@ -1,6 +1,7 @@
 ---
 title: Mozy Backup Space Gathering update
 description: Join my quest for free Mozy backup space! Discover how referrals can boost your storage and get tips on maximizing your online backup experience.
+ResourceId: Ijl3My1sDG-
 date: 2007-11-27
 creator: Martin Hinshelwood
 id: "286"
@@ -10,6 +11,7 @@ slug: mozy-backup-space-gathering-update
 aliases:
 - /blog/mozy-backup-space-gathering-update
 - /mozy-backup-space-gathering-update
+- /resources/Ijl3My1sDG-
 categories:
 - me
 preview: nakedalm-logo-128-link-2-2.png

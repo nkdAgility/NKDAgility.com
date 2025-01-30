@@ -1,6 +1,7 @@
 ---
 title: Upgrading Visual Studio 2010
 description: Learn how to easily upgrade from Visual Studio 2010 RC to RTM with step-by-step instructions and tips for a smooth installation process. Start coding today!
+ResourceId: PqP_zdmb8WX
 date: 2010-04-12
 creator: Martin Hinshelwood
 id: "54"
@@ -10,6 +11,7 @@ slug: upgrading-visual-studio-2010
 aliases:
 - /blog/upgrading-visual-studio-2010
 - /upgrading-visual-studio-2010
+- /resources/PqP_zdmb8WX
 tags:
 - ssw
 - tools

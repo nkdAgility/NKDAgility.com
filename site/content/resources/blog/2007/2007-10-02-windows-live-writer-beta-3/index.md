@@ -1,6 +1,7 @@
 ---
 title: Windows Live Writer Beta 3
 description: Explore the challenges of installing Windows Live Writer Beta 3 in a corporate environment and discover the frustrations of bundled software installations.
+ResourceId: 7OIuDx9W3kb
 date: 2007-10-02
 creator: Martin Hinshelwood
 id: "307"
@@ -10,6 +11,7 @@ slug: windows-live-writer-beta-3
 aliases:
 - /blog/windows-live-writer-beta-3
 - /windows-live-writer-beta-3
+- /resources/7OIuDx9W3kb
 tags:
 - fail
 - live

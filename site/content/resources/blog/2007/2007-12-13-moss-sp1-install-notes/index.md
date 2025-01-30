@@ -1,6 +1,7 @@
 ---
 title: MOSS SP1 Install Notes
 description: Explore essential installation notes for MOSS SP1, including prerequisites and download links, to ensure a smooth SharePoint upgrade experience.
+ResourceId: s8EZNFYedNl
 date: 2007-12-13
 creator: Martin Hinshelwood
 id: "277"
@@ -10,6 +11,7 @@ slug: moss-sp1-install-notes
 aliases:
 - /blog/moss-sp1-install-notes
 - /moss-sp1-install-notes
+- /resources/s8EZNFYedNl
 tags:
 - infrastructure
 - sharepoint

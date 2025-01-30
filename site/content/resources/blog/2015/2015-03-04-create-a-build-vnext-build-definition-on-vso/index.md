@@ -1,6 +1,7 @@
 ---
 title: Create a Build vNext build definition
 description: Learn how to create a Build vNext definition on VSO with this comprehensive guide. Enhance your CI/CD process and streamline your development workflow!
+ResourceId: ey-p-MBUzgQ
 date: 2015-03-04
 creator: Martin Hinshelwood
 id: "11047"
@@ -12,6 +13,7 @@ aliases:
 - /create-a-build-vnext-build-definition-on-vso
 - /create-a-build-vnext-build-definition
 - /blog/create-a-build-vnext-build-definition
+- /resources/ey-p-MBUzgQ
 tags:
 - android
 - build

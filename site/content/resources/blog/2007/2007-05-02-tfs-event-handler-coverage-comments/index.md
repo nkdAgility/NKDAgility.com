@@ -1,6 +1,7 @@
 ---
 title: 'TFS Event Handler: Coverage & Comments'
 description: Explore the TFS Event Handler project, addressing security and assembly issues for internal teams. Join the discussion and enhance your development process!
+ResourceId: PEksFd3ugtL
 date: 2007-05-02
 creator: Martin Hinshelwood
 id: "406"
@@ -12,6 +13,7 @@ aliases:
 - /tfs-event-handler-coverage-comments
 - /tfs-event-handler--coverage-&-comments
 - /blog/tfs-event-handler--coverage-&-comments
+- /resources/PEksFd3ugtL
 tags:
 - tfs
 - tfs2005

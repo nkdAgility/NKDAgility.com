@@ -1,6 +1,7 @@
 ---
 title: Merry Christmas
 description: Celebrate the season with heartfelt eCards from the Hinshelwood family! Share joy and laughter this Christmas with fun ElfYourself creations.
+ResourceId: MUY1jFEETH6
 date: 2008-12-10
 creator: Martin Hinshelwood
 id: "154"
@@ -10,6 +11,7 @@ slug: merry-christmas
 aliases:
 - /blog/merry-christmas
 - /merry-christmas
+- /resources/MUY1jFEETH6
 categories:
 - me
 preview: nakedalm-logo-128-link-1-1.png

@@ -1,6 +1,7 @@
 ---
 title: Join a machine to your azure hosted domain controller
 description: Learn how to join a machine to your Azure-hosted domain controller with our step-by-step guide. Simplify your setup and enhance your network management!
+ResourceId: 7RVNi9gLHYY
 date: 2014-12-31
 creator: Martin Hinshelwood
 id: "10892"
@@ -12,6 +13,7 @@ aliases:
 - /join-machine-azure-hosted-domain-controller
 - /join-a-machine-to-your-azure-hosted-domain-controller
 - /blog/join-a-machine-to-your-azure-hosted-domain-controller
+- /resources/7RVNi9gLHYY
 tags:
 - active-directory
 - azure

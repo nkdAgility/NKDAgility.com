@@ -1,6 +1,7 @@
 ---
 title: Retrieving an identity from Team Foundation Server using only the display name
 description: Learn how to retrieve identities from Team Foundation Server using display names. Simplify your TFS management with practical coding insights and tools.
+ResourceId: oz3cfvmwtph
 date: 2008-12-01
 creator: Martin Hinshelwood
 id: "159"
@@ -10,6 +11,7 @@ slug: retrieving-an-identity-from-team-foundation-server-using-only-the-display-
 aliases:
 - /blog/retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
 - /retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
+- /resources/oz3cfvmwtph
 tags:
 - code
 - codeproject

@@ -1,6 +1,7 @@
 ---
 title: Installing Visual Studio 11 on Windows 7
 description: Discover how to install Visual Studio 11 on Windows 7 effortlessly. Explore its new features and enjoy a streamlined setup for your development needs!
+ResourceId: 5vsN0oSbwHe
 date: 2012-02-29
 creator: Martin Hinshelwood
 id: "4727"
@@ -12,6 +13,7 @@ aliases:
 - /installing-visual-studio-11-beta-on-windows-7
 - /installing-visual-studio-11-on-windows-7
 - /blog/installing-visual-studio-11-on-windows-7
+- /resources/5vsN0oSbwHe
 tags:
 - nwcadence
 - tools

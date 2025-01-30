@@ -1,6 +1,7 @@
 ---
 title: Visual Studio 2010 Beta 2 is available Now!
 description: Discover the new features of Visual Studio 2010 Beta 2 now available for download! Simplify your development process with enhanced tools and editions.
+ResourceId: 8vMRaXfImnd
 date: 2009-10-19
 creator: Martin Hinshelwood
 id: "86"
@@ -12,6 +13,7 @@ aliases:
 - /visual-studio-2010-beta-2-is-available-now
 - /visual-studio-2010-beta-2-is-available-now-
 - /blog/visual-studio-2010-beta-2-is-available-now-
+- /resources/8vMRaXfImnd
 tags:
 - aggreko
 - tfs

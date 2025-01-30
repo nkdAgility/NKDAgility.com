@@ -1,6 +1,7 @@
 ---
 title: TFS Event Handler v1.3 released
 description: Discover the enhanced TFS Event Handler v1.3, simplifying notifications for Team Foundation Server users. Streamline alerts and improve team collaboration!
+ResourceId: 5utkJgImhFT
 date: 2008-12-02
 creator: Martin Hinshelwood
 id: "158"
@@ -10,6 +11,7 @@ slug: tfs-event-handler-v1-3-released
 aliases:
 - /blog/tfs-event-handler-v1-3-released
 - /tfs-event-handler-v1-3-released
+- /resources/5utkJgImhFT
 tags:
 - tfs-event-handler
 - tools

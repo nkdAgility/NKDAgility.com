@@ -1,6 +1,7 @@
 ---
 title: Uncommitted changes messing up your sync in Git with Visual Studio
 description: Learn how uncommitted changes in Git can disrupt your sync in Visual Studio. Discover effective strategies to manage your workflow and enhance productivity.
+ResourceId: CuWpL0GPBwN
 date: 2014-10-16
 creator: Martin Hinshelwood
 id: "10732"
@@ -12,6 +13,7 @@ aliases:
 - /uncommitted-changes-messing-sync-git-visual-studio
 - /uncommitted-changes-messing-up-your-sync-in-git-with-visual-studio
 - /blog/uncommitted-changes-messing-up-your-sync-in-git-with-visual-studio
+- /resources/CuWpL0GPBwN
 tags:
 - dvcs
 - git

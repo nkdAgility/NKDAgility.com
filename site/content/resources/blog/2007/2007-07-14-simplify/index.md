@@ -1,6 +1,7 @@
 ---
 title: Simplify
 description: Discover how I simplified my blog categories for better organization and clarity. Join the conversation and share your thoughts on enhancing user experience!
+ResourceId: CEZVS03cb-9
 date: 2007-07-14
 creator: Martin Hinshelwood
 id: "372"
@@ -10,6 +11,7 @@ slug: simplify
 aliases:
 - /blog/simplify
 - /simplify
+- /resources/CEZVS03cb-9
 categories:
 - me
 preview: nakedalm-logo-128-link-1-1.png

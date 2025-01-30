@@ -1,6 +1,7 @@
 ---
 title: Screenshots of Vista from 2002 to Today
 description: Explore the evolution of Vista from its 2002 Alpha release to today's features, showcasing the journey of innovation and design in this engaging visual retrospective.
+ResourceId: jKVJOS1VMWK
 date: 2007-01-09
 creator: Martin Hinshelwood
 id: "450"
@@ -10,6 +11,7 @@ slug: screenshots-of-vista-from-2002-to-today
 aliases:
 - /blog/screenshots-of-vista-from-2002-to-today
 - /screenshots-of-vista-from-2002-to-today
+- /resources/jKVJOS1VMWK
 tags:
 - off-topic
 - vista

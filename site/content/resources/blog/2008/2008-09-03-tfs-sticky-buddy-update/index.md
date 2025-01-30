@@ -1,6 +1,7 @@
 ---
 title: TFS Sticky Buddy Update
 description: Discover the latest updates for TFS Sticky Buddy, including fixes for key issues. Enhance your workflow with version 1.6 and improve your productivity!
+ResourceId: 6FP0Axpic3s
 date: 2008-09-03
 creator: Martin Hinshelwood
 id: "200"
@@ -10,6 +11,7 @@ slug: tfs-sticky-buddy-update
 aliases:
 - /blog/tfs-sticky-buddy-update
 - /tfs-sticky-buddy-update
+- /resources/6FP0Axpic3s
 tags:
 - aggreko
 - tfs-sticky-buddy

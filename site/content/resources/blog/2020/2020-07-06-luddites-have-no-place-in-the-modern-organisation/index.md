@@ -1,6 +1,7 @@
 ---
 title: Luddites have no place in the modern organisation
 description: Discover why Luddites hinder modern organizations and learn how to foster a culture of agility and innovation. Embrace change for a thriving workplace!
+ResourceId: dyxqF7lrHmn
 date: 2020-07-06
 creator: Martin Hinshelwood
 id: "44507"
@@ -10,6 +11,7 @@ slug: luddites-have-no-place-in-the-modern-organisation
 aliases:
 - /blog/luddites-have-no-place-in-the-modern-organisation
 - /luddites-have-no-place-in-the-modern-organisation
+- /resources/dyxqF7lrHmn
 tags:
 - leadership-track
 - scrum-theory

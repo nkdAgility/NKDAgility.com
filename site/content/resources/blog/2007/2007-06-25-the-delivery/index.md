@@ -1,6 +1,7 @@
 ---
 title: The Delivery
 description: Join Martin Hinshelwood as he shares the unforgettable story of his daughter's birth, a moment that changed his life forever. Celebrate this special milestone!
+ResourceId: Cy6oTqwpH2P
 date: 2007-06-25
 creator: Martin Hinshelwood
 id: "374"
@@ -10,6 +11,7 @@ slug: the-delivery
 aliases:
 - /blog/the-delivery
 - /the-delivery
+- /resources/Cy6oTqwpH2P
 categories:
 - me
 preview: nakedalm-logo-128-link-1-1.png

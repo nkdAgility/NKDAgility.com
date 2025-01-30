@@ -1,6 +1,7 @@
 ---
 title: Calculating the Rank of your blog posts or pages
 description: Discover how to rank your blog posts using an innovative algorithm that leverages social media metrics and Google Page Rank to enhance content visibility.
+ResourceId: DrHRcRNSIRX
 date: 2010-09-10
 creator: Martin Hinshelwood
 id: "26"
@@ -10,6 +11,7 @@ slug: calculating-the-rank-of-your-blog-posts-or-pages
 aliases:
 - /blog/calculating-the-rank-of-your-blog-posts-or-pages
 - /calculating-the-rank-of-your-blog-posts-or-pages
+- /resources/DrHRcRNSIRX
 tags:
 - code
 - codeproject

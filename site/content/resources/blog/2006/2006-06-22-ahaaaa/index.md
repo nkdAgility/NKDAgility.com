@@ -1,6 +1,7 @@
 ---
 title: Ahaaaa!
 description: Join Martin Hinshelwood as he navigates the challenges of coding in his blog post 'Ahaaaa!' and shares his journey to mastering the art of blogging.
+ResourceId: E3cUOS0i5ul
 date: 2006-06-22
 creator: Martin Hinshelwood
 id: "469"
@@ -12,6 +13,7 @@ aliases:
 - /ahaaaa
 - /ahaaaa-
 - /blog/ahaaaa-
+- /resources/E3cUOS0i5ul
 tags:
 - off-topic
 preview: nakedalm-logo-128-link-1-1.png

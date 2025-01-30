@@ -1,6 +1,7 @@
 ---
 title: If you had a choice!
 description: Join the discussion on your preferred platform for Visual Studio 2008! Share your choice among XP, Vista, and more. Let's find out what .NET developers love!
+ResourceId: 689UIOKlBfJ
 date: 2008-08-13
 creator: Martin Hinshelwood
 id: "209"
@@ -12,6 +13,7 @@ aliases:
 - /if-you-had-a-choice
 - /if-you-had-a-choice-
 - /blog/if-you-had-a-choice-
+- /resources/689UIOKlBfJ
 tags:
 - visual-studio
 - vs2008

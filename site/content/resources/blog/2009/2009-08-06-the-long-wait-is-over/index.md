@@ -1,6 +1,7 @@
 ---
 title: The long wait is over
 description: Discover the excitement of Windows 7's release! Learn how it outshines Vista and why it's the OS you've been waiting for. Upgrade your experience now!
+ResourceId: Ahz5CpOOGZl
 date: 2009-08-06
 creator: Martin Hinshelwood
 id: "93"
@@ -10,6 +11,7 @@ slug: the-long-wait-is-over
 aliases:
 - /blog/the-long-wait-is-over
 - /the-long-wait-is-over
+- /resources/Ahz5CpOOGZl
 tags:
 - tools
 categories:

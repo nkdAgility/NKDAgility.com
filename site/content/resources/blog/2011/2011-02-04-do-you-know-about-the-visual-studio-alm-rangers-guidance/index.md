@@ -1,6 +1,7 @@
 ---
 title: Do you know about the Visual Studio ALM Rangers Guidance?
 description: Discover the Visual Studio ALM Rangers Guidance for 2010. Explore valuable insights and resources to enhance your development experience and tools.
+ResourceId: X_Bw0WdCwEc
 date: 2011-02-04
 creator: Martin Hinshelwood
 id: "15"
@@ -12,6 +13,7 @@ aliases:
 - /do-you-know-about-the-visual-studio-alm-rangers-guidance
 - /do-you-know-about-the-visual-studio-alm-rangers-guidance-
 - /blog/do-you-know-about-the-visual-studio-alm-rangers-guidance-
+- /resources/X_Bw0WdCwEc
 tags:
 - nwcadence
 - tools

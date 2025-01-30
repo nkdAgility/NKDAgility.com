@@ -1,6 +1,7 @@
 ---
 title: Cool new feature in IE8
 description: Discover the game-changing address bar enhancements in IE8 that boost efficiency and make browsing easier. Upgrade your experience today!
+ResourceId: wd7JhsgRpbS
 date: 2008-08-28
 creator: Martin Hinshelwood
 id: "202"
@@ -10,6 +11,7 @@ slug: cool-new-feature-in-ie8
 aliases:
 - /blog/cool-new-feature-in-ie8
 - /cool-new-feature-in-ie8
+- /resources/wd7JhsgRpbS
 tags:
 - ie8
 - off-topic

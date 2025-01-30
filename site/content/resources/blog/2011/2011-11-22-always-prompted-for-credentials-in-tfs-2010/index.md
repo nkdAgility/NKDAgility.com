@@ -1,6 +1,7 @@
 ---
 title: Always prompted for credentials in TFS 2010?
 description: Struggling with constant credential prompts in TFS 2010? Discover effective solutions and tips to streamline your authentication process effortlessly!
+ResourceId: fESk_RDaaIB
 date: 2011-11-22
 creator: Martin Hinshelwood
 id: "4071"
@@ -12,6 +13,7 @@ aliases:
 - /always-prompted-for-credentials-in-tfs-2010
 - /always-prompted-for-credentials-in-tfs-2010-
 - /blog/always-prompted-for-credentials-in-tfs-2010-
+- /resources/fESk_RDaaIB
 tags:
 - nwcadence
 - tfs

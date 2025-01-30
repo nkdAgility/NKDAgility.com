@@ -1,6 +1,7 @@
 ---
 title: The value of an independent Scotland for me
 description: Explore the personal value of an independent Scotland through self-determination, economic control, and a brighter future for generations. Join the debate!
+ResourceId: kmgdXtKVzGS
 date: 2014-07-13
 creator: Martin Hinshelwood
 id: "10655"
@@ -12,6 +13,7 @@ aliases:
 - /the-value-of-an-independent-scotland
 - /the-value-of-an-independent-scotland-for-me
 - /blog/the-value-of-an-independent-scotland-for-me
+- /resources/kmgdXtKVzGS
 tags:
 - indyref
 - iscotland

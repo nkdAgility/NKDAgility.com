@@ -1,6 +1,7 @@
 ---
 title: Community-Credit feedback
 description: Join the discussion on enhancing Community Credit! Share your feedback and suggestions to improve features and user experience in this vibrant forum.
+ResourceId: HElvJm048ib
 date: 2008-01-15
 creator: Martin Hinshelwood
 id: "264"
@@ -10,6 +11,7 @@ slug: community-credit-feedback
 aliases:
 - /blog/community-credit-feedback
 - /community-credit-feedback
+- /resources/HElvJm048ib
 tags:
 - silverlight
 categories:

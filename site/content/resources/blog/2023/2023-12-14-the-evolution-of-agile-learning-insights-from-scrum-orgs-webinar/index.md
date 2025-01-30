@@ -1,6 +1,7 @@
 ---
 title: "The Evolution of Agile Learning: Insights from Scrum.org's Webinar"
 description: Discover the future of Agile training with immersive learning insights from Scrum.org's webinar. Enhance your skills and drive real change in your organization!
+ResourceId: Ax5c4JFICyO
 date: 2023-12-14
 AudioNative: true
 creator: Martin Hinshelwood
@@ -9,18 +10,19 @@ layout: blog
 resourceTypes: blog
 slug: the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
 aliases:
-  - /blog/the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
-  - /the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
-  - /the-evolution-of-agile-learning--insights-from-scrum-org's-webinar
-  - /blog/the-evolution-of-agile-learning--insights-from-scrum-org's-webinar
+- /blog/the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
+- /the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
+- /the-evolution-of-agile-learning--insights-from-scrum-org's-webinar
+- /blog/the-evolution-of-agile-learning--insights-from-scrum-org's-webinar
+- /resources/Ax5c4JFICyO
 tags:
-  - featured
-  - homepage
+- featured
+- homepage
 categories:
-  - agility
+- agility
 preview: NKDAgility-technically-TheEvolutionofAgileLearning-1-1-16-16.jpg
----
 
+---
 This week, I participated in a [Scrum.org](http://scrum.org/) Webinar hosted by Sabrina Love (Scrum.org Product Owner) as well as my colleagues, [Joanna Płaskonka, Ph.D.](https://www.linkedin.com/article/edit/7140678898370928640/?author=urn%3Ali%3Afsd_profile%3AACoAAAAUzPABQyVbo7yoAY7fK8HpaEwXfTa5iCY#) and [Alex Ballarin](https://www.linkedin.com/article/edit/7140678898370928640/?author=urn%3Ali%3Afsd_profile%3AACoAAAAUzPABQyVbo7yoAY7fK8HpaEwXfTa5iCY#) to discuss the state of learning and how immersive learning is the future of training.
 
 You can watch the video below to hear what we say, but it's also worth framing the problem and the need for change here. I welcome all feedback!

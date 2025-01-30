@@ -1,6 +1,7 @@
 ---
 title: Professional Scrum Training for the Ghana Police Service
 description: Join the Ghana Police Service in pioneering Scrum training for effective organizational change. Discover agile practices that empower officers to innovate!
+ResourceId: ozXMaDX0lvp
 date: 2017-10-30
 creator: Martin Hinshelwood
 id: "12095"
@@ -12,6 +13,7 @@ aliases:
 - /professional-scrum-training-ghana-police-service
 - /professional-scrum-training-for-the-ghana-police-service
 - /blog/professional-scrum-training-for-the-ghana-police-service
+- /resources/ozXMaDX0lvp
 tags:
 - agile
 - introduction-to-scrum

@@ -1,6 +1,7 @@
 ---
 title: Solution to connecting to TFS using HTTPS over the Internet from behind ISA
 description: Discover how to connect to TFS over HTTPS from behind ISA with Visual Studio 2010. Follow our simple registry fix for a seamless experience!
+ResourceId: 4uyTp0ETt2H
 date: 2009-05-20
 creator: Martin Hinshelwood
 id: "112"
@@ -10,6 +11,7 @@ slug: solution-to-connecting-to-tfs-using-https-over-the-internet-from-behind-is
 aliases:
 - /blog/solution-to-connecting-to-tfs-using-https-over-the-internet-from-behind-isa
 - /solution-to-connecting-to-tfs-using-https-over-the-internet-from-behind-isa
+- /resources/4uyTp0ETt2H
 tags:
 - aggreko
 - tools

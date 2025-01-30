@@ -1,6 +1,7 @@
 ---
 title: Using Corporate ID's with Visual Studio 2012 Team Foundation Service
 description: Learn how to manage Live IDs for Visual Studio 2012 Team Foundation Service with custom domains, ensuring secure and efficient user authentication.
+ResourceId: Cx5_dJr48V5
 date: 2012-02-21
 creator: Martin Hinshelwood
 id: "4474"
@@ -12,6 +13,7 @@ aliases:
 - /using-corporate-ids-with-visual-studio-11-team-foundation-service
 - /using-corporate-id's-with-visual-studio-2012-team-foundation-service
 - /blog/using-corporate-id's-with-visual-studio-2012-team-foundation-service
+- /resources/Cx5_dJr48V5
 tags:
 - configuration
 - infrastructure

@@ -1,6 +1,7 @@
 ---
 title: TFS Sticky Buddy v1.0
 description: Discover TFS Sticky Buddy v1.0, a powerful tool for visualizing TFS Work Items with customizable templates. Enhance your project management today!
+ResourceId: aLPelZ6_wNc
 date: 2008-04-21
 creator: Martin Hinshelwood
 id: "236"
@@ -10,6 +11,7 @@ slug: tfs-sticky-buddy-v1-0
 aliases:
 - /blog/tfs-sticky-buddy-v1-0
 - /tfs-sticky-buddy-v1-0
+- /resources/aLPelZ6_wNc
 tags:
 - tfs
 - tfs-sticky-buddy

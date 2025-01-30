@@ -1,6 +1,7 @@
 ---
 title: Integrating Project Server 2013 with Team Foundation Server 2012
 description: Learn how to effectively integrate Project Server 2013 with Team Foundation Server 2012, enhancing project management and collaboration in your enterprise.
+ResourceId: fk1Jv6RyesT
 date: 2012-11-02
 creator: Martin Hinshelwood
 id: "9075"
@@ -10,6 +11,7 @@ slug: integrating-project-server-2013-with-team-foundation-server-2012
 aliases:
 - /blog/integrating-project-server-2013-with-team-foundation-server-2012
 - /integrating-project-server-2013-with-team-foundation-server-2012
+- /resources/fk1Jv6RyesT
 tags:
 - configuration
 - infrastructure

@@ -1,6 +1,7 @@
 ---
 title: Sharepoint 3.0 TFS Sub-Site creation investigation result
 description: Explore the challenges of automating SharePoint 3.0 TFS sub-site creation. Discover insights and manual workarounds to streamline your project setup.
+ResourceId: eel2kPfabid
 date: 2007-06-16
 creator: Martin Hinshelwood
 id: "383"
@@ -10,6 +11,7 @@ slug: sharepoint-3-0-tfs-sub-site-creation-investigation-result
 aliases:
 - /blog/sharepoint-3-0-tfs-sub-site-creation-investigation-result
 - /sharepoint-3-0-tfs-sub-site-creation-investigation-result
+- /resources/eel2kPfabid
 tags:
 - sharepoint
 - sp2007

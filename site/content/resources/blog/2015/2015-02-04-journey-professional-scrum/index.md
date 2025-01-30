@@ -1,6 +1,7 @@
 ---
 title: My journey into Professional Scrum
 description: Explore my journey into Professional Scrum and discover how agile practices can transform software development and enhance business agility. Join me!
+ResourceId: PqEhZ1JIcDe
 date: 2015-02-04
 creator: Martin Hinshelwood
 id: "11115"
@@ -12,6 +13,7 @@ aliases:
 - /journey-professional-scrum
 - /my-journey-into-professional-scrum
 - /blog/my-journey-into-professional-scrum
+- /resources/PqEhZ1JIcDe
 tags:
 - agile
 - business-agility

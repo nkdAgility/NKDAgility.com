@@ -1,6 +1,7 @@
 ---
 title: Feedburner, no Google…
 description: Explore the transition from Feedburner to Google and learn how to update your feed URLs for better performance and accuracy. Get insights and tips here!
+ResourceId: W90U2-3Up25
 date: 2009-01-19
 creator: Martin Hinshelwood
 id: "144"
@@ -12,6 +13,7 @@ aliases:
 - /feedburner-no-google
 - /feedburner,-no-google…
 - /blog/feedburner,-no-google…
+- /resources/W90U2-3Up25
 categories:
 - me
 preview: nakedalm-logo-128-link-2-2.png

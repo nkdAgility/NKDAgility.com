@@ -1,6 +1,7 @@
 ---
 title: HTC Touch / Black Shadow Weather
 description: Unlock local weather on your HTC Touch with easy registry hacks! Follow our guide to customize your home screen and enjoy accurate forecasts today!
+ResourceId: zGbUhq_phsz
 date: 2007-08-01
 creator: Martin Hinshelwood
 id: "351"
@@ -10,7 +11,13 @@ slug: htc-touch-black-shadow-weather
 aliases:
 - /blog/htc-touch-black-shadow-weather
 - /htc-touch-black-shadow-weather
+- /htc-touch
 - /htc-touch---black-shadow-weather
+- /blog/htc-touch---black-shadow-weather
+- /resources/zGbUhq_phsz
+
+---
+black-shadow-weather
 - /blog/htc-touch---black-shadow-weather
 tags:
 - windows-mobile-6

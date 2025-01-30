@@ -1,6 +1,7 @@
 ---
-title: "The Race for Market Responsiveness: A Fresh Perspective on Organisational Agility"
+title: 'The Race for Market Responsiveness: A Fresh Perspective on Organisational Agility'
 description: Discover how to enhance your organization's agility and market responsiveness. Learn to pivot swiftly and seize opportunities faster than competitors.
+ResourceId: Jz5uZMzPiRx
 date: 2023-09-07
 AudioNative: true
 creator: Martin Hinshelwood
@@ -9,21 +10,22 @@ layout: blog
 resourceTypes: blog
 slug: the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
 aliases:
-  - /blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
-  - /the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
-  - /the-race-for-market-responsiveness--a-fresh-perspective-on-organisational-agility
-  - /blog/the-race-for-market-responsiveness--a-fresh-perspective-on-organisational-agility
+- /blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
+- /the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
+- /the-race-for-market-responsiveness--a-fresh-perspective-on-organisational-agility
+- /blog/the-race-for-market-responsiveness--a-fresh-perspective-on-organisational-agility
+- /resources/Jz5uZMzPiRx
 tags:
-  - betacodex
-  - featured
-  - homepage
-  - organisational-physics
-  - organisational-transformational-mastery
+- betacodex
+- featured
+- homepage
+- organisational-physics
+- organisational-transformational-mastery
 categories:
-  - agility
+- agility
 preview: naked-agility-technically-survivalisoptional-1-1.jpg
----
 
+---
 As I sit here, sipping my morning cup of tea, I ponder the current state of organisational agility. I've been in this game long enough to have seen the rise and fall of various methodologies, each promising to be the silver bullet that will solve all of an organisation's woes. I was initially an ALM consultant, then DevOps. But, as I've often found, the reality is far from the promise.
 
 ### TLDR;

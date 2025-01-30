@@ -1,6 +1,7 @@
 ---
 title: Installing Office 2010 gotcha 1
 description: Discover the challenges of installing Office 2010 on a 64-bit system. Learn about upgrade limitations and tips to streamline your setup process.
+ResourceId: cbNAkHnRhAW
 date: 2009-07-16
 creator: Martin Hinshelwood
 id: "104"
@@ -10,6 +11,7 @@ slug: installing-office-2010-gotcha-1
 aliases:
 - /blog/installing-office-2010-gotcha-1
 - /installing-office-2010-gotcha-1
+- /resources/cbNAkHnRhAW
 tags:
 - office
 - tools

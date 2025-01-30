@@ -1,6 +1,7 @@
 ---
 title: Naming your servers in an enterprise environment
 description: Discover effective server naming strategies for enterprise environments. Learn how to create meaningful, consistent names that enhance identification and management.
+ResourceId: LahLCH4hO9O
 date: 2007-10-18
 creator: Martin Hinshelwood
 id: "299"
@@ -10,6 +11,7 @@ slug: naming-your-servers-in-an-enterprise-environment
 aliases:
 - /blog/naming-your-servers-in-an-enterprise-environment
 - /naming-your-servers-in-an-enterprise-environment
+- /resources/LahLCH4hO9O
 tags:
 - configuration
 - fail

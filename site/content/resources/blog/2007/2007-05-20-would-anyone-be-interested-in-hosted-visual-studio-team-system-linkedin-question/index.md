@@ -1,6 +1,7 @@
 ---
 title: Would anyone be interested in hosted Visual Studio Team System (LinkedIn Question)
 description: Explore the potential of a hosted Visual Studio Team System for small businesses. Discover customization options and ease of management for your projects!
+ResourceId: aGh8Dn3evEi
 date: 2007-05-20
 creator: Martin Hinshelwood
 id: "400"
@@ -12,6 +13,7 @@ aliases:
 - /would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
 - /would-anyone-be-interested-in-hosted-visual-studio-team-system-(linkedin-question)
 - /blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-(linkedin-question)
+- /resources/aGh8Dn3evEi
 tags:
 - tfs
 - tfs2008

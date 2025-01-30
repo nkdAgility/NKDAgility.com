@@ -1,6 +1,7 @@
 ---
 title: An Application Deployment
 description: Explore the challenges of application deployment and the pitfalls of poor documentation. Learn how to navigate complex installations effectively.
+ResourceId: UnvdJlF863n
 date: 2007-08-04
 creator: Martin Hinshelwood
 id: "349"
@@ -10,6 +11,7 @@ slug: an-application-deployment
 aliases:
 - /blog/an-application-deployment
 - /an-application-deployment
+- /resources/UnvdJlF863n
 tags:
 - fail
 preview: nakedalm-logo-128-link-1-1.png

@@ -1,6 +1,7 @@
 ---
 title: Installing TFS 2012 with Lab Management 2012
 description: Learn to install TFS 2012 with Lab Management in a day. Follow expert tips and step-by-step guidance to streamline your deployment process effectively.
+ResourceId: BKHVPKrqv3h
 date: 2012-06-20
 creator: Martin Hinshelwood
 id: "5496"
@@ -10,6 +11,7 @@ slug: installing-tfs-2012-with-lab-management-2012
 aliases:
 - /blog/installing-tfs-2012-with-lab-management-2012
 - /installing-tfs-2012-with-lab-management-2012
+- /resources/BKHVPKrqv3h
 tags:
 - configuration
 - infrastructure

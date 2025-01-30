@@ -1,6 +1,7 @@
 ---
 title: Microsoft's internal uptake of Team Foundation Server
 description: Explore Microsoft's internal adoption of Team Foundation Server, showcasing its impact on development teams and the future of Visual Studio. Discover more!
+ResourceId: 1NIc24-e5FY
 date: 2007-08-05
 creator: Martin Hinshelwood
 id: "343"
@@ -12,6 +13,7 @@ aliases:
 - /microsofts-internal-uptake-of-team-foundation-server
 - /microsoft's-internal-uptake-of-team-foundation-server
 - /blog/microsoft's-internal-uptake-of-team-foundation-server
+- /resources/1NIc24-e5FY
 tags:
 - tfs
 - tfs2008

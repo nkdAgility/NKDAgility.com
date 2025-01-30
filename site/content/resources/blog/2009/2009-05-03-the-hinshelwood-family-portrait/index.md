@@ -1,6 +1,7 @@
 ---
 title: The Hinshelwood Family Portrait
 description: Discover the joy of family photography with The Hinshelwood Family Portrait. Explore stunning shots and heartfelt moments captured by Perfect Expressions.
+ResourceId: HklqA9qkC3L
 date: 2009-05-03
 creator: Martin Hinshelwood
 id: "124"
@@ -10,6 +11,7 @@ slug: the-hinshelwood-family-portrait
 aliases:
 - /blog/the-hinshelwood-family-portrait
 - /the-hinshelwood-family-portrait
+- /resources/HklqA9qkC3L
 categories:
 - me
 preview: nakedalm-logo-128-link-2-1.png

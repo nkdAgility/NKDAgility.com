@@ -1,6 +1,7 @@
 ---
 title: The great Xbox update
 description: Discover the exciting new Xbox Live experience in this update! Get ready for fresh features and a smoother gaming journey. Don't miss out!
+ResourceId: X8DVH4Nrsye
 date: 2008-11-18
 creator: Martin Hinshelwood
 id: "166"
@@ -10,6 +11,7 @@ slug: the-great-xbox-update
 aliases:
 - /blog/the-great-xbox-update
 - /the-great-xbox-update
+- /resources/X8DVH4Nrsye
 tags:
 - live
 - xbox

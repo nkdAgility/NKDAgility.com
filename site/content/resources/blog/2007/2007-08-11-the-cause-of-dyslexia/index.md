@@ -1,6 +1,7 @@
 ---
 title: The cause of dyslexia
 description: Explore the genetic and neurological causes of dyslexia, uncovering its unique brain architecture and the strengths it can foster in individuals.
+ResourceId: W_2y81Yg8QB
 date: 2007-08-11
 creator: Martin Hinshelwood
 id: "334"
@@ -10,6 +11,7 @@ slug: the-cause-of-dyslexia
 aliases:
 - /blog/the-cause-of-dyslexia
 - /the-cause-of-dyslexia
+- /resources/W_2y81Yg8QB
 tags:
 - dyslexia
 categories:

@@ -1,6 +1,7 @@
 ---
 title: Windows Live Wave 3
 description: Explore the features of Windows Live Wave 3, including Messenger 9 and Writer. Download the latest betas and enhance your live experience today!
+ResourceId: V2MkZWsiMbX
 date: 2008-09-17
 creator: Martin Hinshelwood
 id: "192"
@@ -10,6 +11,7 @@ slug: windows-live-wave-3
 aliases:
 - /blog/windows-live-wave-3
 - /windows-live-wave-3
+- /resources/V2MkZWsiMbX
 tags:
 - live
 categories:

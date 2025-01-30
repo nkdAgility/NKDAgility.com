@@ -1,6 +1,7 @@
 ---
 title: Online is the new co-located
 description: Explore how online participation redefines co-location in agile practices. Embrace video engagement for effective communication and collaboration in virtual events.
+ResourceId: QnZVgaG90q_
 date: 2020-11-16
 creator: Martin Hinshelwood
 id: "44487"
@@ -10,6 +11,7 @@ slug: online-is-the-new-co-located
 aliases:
 - /blog/online-is-the-new-co-located
 - /online-is-the-new-co-located
+- /resources/QnZVgaG90q_
 tags:
 - featured
 - leadership-track

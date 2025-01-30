@@ -1,6 +1,7 @@
 ---
 title: Deep vein thrombosis (DVT) Update
 description: Discover the latest updates on deep vein thrombosis (DVT) advocacy, including a family's petition for better screening and awareness. Join the cause today!
+ResourceId: X8m1aVRWGUa
 date: 2007-10-02
 creator: Martin Hinshelwood
 id: "306"
@@ -12,6 +13,7 @@ aliases:
 - /deep-vein-thrombosis-dvt-update
 - /deep-vein-thrombosis-(dvt)-update
 - /blog/deep-vein-thrombosis-(dvt)-update
+- /resources/X8m1aVRWGUa
 categories:
 - me
 preview: nakedalm-logo-128-link-1-1.png

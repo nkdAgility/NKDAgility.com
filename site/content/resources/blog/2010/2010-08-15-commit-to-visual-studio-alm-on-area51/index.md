@@ -1,6 +1,7 @@
 ---
 title: Commit to Visual Studio ALM on Area51
 description: Join the Visual Studio ALM community on Area51! Help us reach the commitment stage and shape the future of ALM discussions. Your vote matters!
+ResourceId: czqyZFQxRrp
 date: 2010-08-15
 creator: Martin Hinshelwood
 id: "31"
@@ -10,6 +11,7 @@ slug: commit-to-visual-studio-alm-on-area51
 aliases:
 - /blog/commit-to-visual-studio-alm-on-area51
 - /commit-to-visual-studio-alm-on-area51
+- /resources/czqyZFQxRrp
 tags:
 - configuration
 - define

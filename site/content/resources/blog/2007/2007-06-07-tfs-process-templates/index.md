@@ -1,6 +1,7 @@
 ---
 title: TFS Process Templates
 description: Explore the extensibility of TFS process templates and learn how to configure them effectively for your projects. Enhance your development process today!
+ResourceId: gJqTAngPe0a
 date: 2007-06-07
 creator: Martin Hinshelwood
 id: "386"
@@ -10,6 +11,7 @@ slug: tfs-process-templates
 aliases:
 - /blog/tfs-process-templates
 - /tfs-process-templates
+- /resources/gJqTAngPe0a
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

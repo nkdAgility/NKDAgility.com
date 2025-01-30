@@ -1,6 +1,7 @@
 ---
 title: Xbox 360 Elite
 description: Discover my journey trading in a crashing Xbox 360 for the Elite model. Dive into my gaming experiences with Bioshock and more! Join the fun!
+ResourceId: ELz8sUhrCKr
 date: 2007-09-17
 creator: Martin Hinshelwood
 id: "311"
@@ -10,6 +11,7 @@ slug: xbox-360-elite
 aliases:
 - /blog/xbox-360-elite
 - /xbox-360-elite
+- /resources/ELz8sUhrCKr
 tags:
 - live
 - xbox

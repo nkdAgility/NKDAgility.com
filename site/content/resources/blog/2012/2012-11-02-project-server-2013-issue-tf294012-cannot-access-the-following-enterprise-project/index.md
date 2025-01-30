@@ -1,6 +1,7 @@
 ---
 title: 'Project Server 2013 Issue - TF294012: Cannot access the following enterprise project'
 description: Resolve the TF294012 error in Project Server 2013 with our step-by-step guide. Learn how to manage permissions and access your enterprise projects effectively.
+ResourceId: B7vlHTIj_jT
 date: 2012-11-02
 creator: Martin Hinshelwood
 id: "9138"
@@ -10,7 +11,13 @@ slug: project-server-2013-issue-tf294012-cannot-access-the-following-enterprise-
 aliases:
 - /blog/project-server-2013-issue-tf294012-cannot-access-the-following-enterprise-project
 - /project-server-2013-issue-tf294012-cannot-access-the-following-enterprise-project
+- /project-server-2013-issue
 - /project-server-2013-issue---tf294012--cannot-access-the-following-enterprise-project
+- /blog/project-server-2013-issue---tf294012--cannot-access-the-following-enterprise-project
+- /resources/B7vlHTIj_jT
+
+---
+tf294012--cannot-access-the-following-enterprise-project
 - /blog/project-server-2013-issue---tf294012--cannot-access-the-following-enterprise-project
 tags:
 - infrastructure

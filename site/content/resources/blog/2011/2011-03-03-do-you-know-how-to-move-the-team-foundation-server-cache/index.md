@@ -1,6 +1,7 @@
 ---
 title: Do you know how to move the Team Foundation Server cache
 description: Learn how to efficiently move the Team Foundation Server cache to optimize server space and improve performance with this easy step-by-step guide.
+ResourceId: aF0H8q5h-Yg
 date: 2011-03-03
 creator: Martin Hinshelwood
 id: "9894"
@@ -10,6 +11,7 @@ slug: do-you-know-how-to-move-the-team-foundation-server-cache
 aliases:
 - /blog/do-you-know-how-to-move-the-team-foundation-server-cache
 - /do-you-know-how-to-move-the-team-foundation-server-cache
+- /resources/aF0H8q5h-Yg
 tags:
 - nwcadence
 - tfs

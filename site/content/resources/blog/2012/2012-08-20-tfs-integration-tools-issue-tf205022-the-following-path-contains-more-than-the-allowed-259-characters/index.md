@@ -1,6 +1,7 @@
 ---
 title: 'TFS Integration Tools - Issue: TF205022: The following path contains more than the allowed 259 characters'
 description: Resolve the TF205022 error in TFS Integration Tools by shortening path lengths. Discover practical solutions to streamline your migration process effectively!
+ResourceId: gkD4iN7ZkP4
 date: 2012-08-20
 creator: Martin Hinshelwood
 id: "7255"
@@ -10,7 +11,13 @@ slug: tfs-integration-tools-issue-tf205022-the-following-path-contains-more-than
 aliases:
 - /blog/tfs-integration-tools-issue-tf205022-the-following-path-contains-more-than-the-allowed-259-characters
 - /tfs-integration-tools-issue-tf205022-the-following-path-contains-more-than-the-allowed-259-characters
+- /tfs-integration-tools
 - /tfs-integration-tools---issue--tf205022--the-following-path-contains-more-than-the-allowed-259-characters
+- /blog/tfs-integration-tools---issue--tf205022--the-following-path-contains-more-than-the-allowed-259-characters
+- /resources/gkD4iN7ZkP4
+
+---
+issue--tf205022--the-following-path-contains-more-than-the-allowed-259-characters
 - /blog/tfs-integration-tools---issue--tf205022--the-following-path-contains-more-than-the-allowed-259-characters
 tags:
 - puzzles

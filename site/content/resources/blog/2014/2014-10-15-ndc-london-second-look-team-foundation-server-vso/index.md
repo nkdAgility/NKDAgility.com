@@ -1,6 +1,7 @@
 ---
 title: 'NDC London: Second Look, Team Foundation Server &amp; VSO'
 description: Join Martin Hinshelwood at NDC London for a deep dive into Team Foundation Server and VSO, showcasing powerful ALM features and live demos. Don't miss out!
+ResourceId: bI6ySrK2G51
 date: 2014-10-15
 creator: Martin Hinshelwood
 id: "10811"
@@ -12,6 +13,7 @@ aliases:
 - /ndc-london-second-look-team-foundation-server-vso
 - /ndc-london--second-look,-team-foundation-server-&amp;-vso
 - /blog/ndc-london--second-look,-team-foundation-server-&amp;-vso
+- /resources/bI6ySrK2G51
 tags:
 - backlog-management
 - code-sense

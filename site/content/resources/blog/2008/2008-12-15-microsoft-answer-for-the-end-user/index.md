@@ -1,6 +1,7 @@
 ---
 title: Microsoft Answer for the end-user
 description: Discover the new Microsoft Answers forum for Windows Vista users, offering straightforward support and real solutions without the technical jargon. Join now!
+ResourceId: KIMZ-rpIxds
 date: 2008-12-15
 creator: Martin Hinshelwood
 id: "151"
@@ -10,6 +11,7 @@ slug: microsoft-answer-for-the-end-user
 aliases:
 - /blog/microsoft-answer-for-the-end-user
 - /microsoft-answer-for-the-end-user
+- /resources/KIMZ-rpIxds
 categories:
 - me
 preview: nakedalm-logo-128-link-1-1.png

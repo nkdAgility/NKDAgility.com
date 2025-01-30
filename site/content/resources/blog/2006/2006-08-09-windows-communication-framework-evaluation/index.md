@@ -1,6 +1,7 @@
 ---
 title: Windows Communication Framework Evaluation
 description: Explore the evaluation of Windows Communication Framework (WCF) and its revolutionary features for web service projects. Discover its benefits for your company!
+ResourceId: piNenAHpFYq
 date: 2006-08-09
 creator: Martin Hinshelwood
 id: "464"
@@ -10,6 +11,7 @@ slug: windows-communication-framework-evaluation
 aliases:
 - /blog/windows-communication-framework-evaluation
 - /windows-communication-framework-evaluation
+- /resources/piNenAHpFYq
 tags:
 - code
 - wcf

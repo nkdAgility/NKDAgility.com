@@ -1,6 +1,7 @@
 ---
 title: A better way than staggered iterations for delivery
 description: Discover a superior approach to delivery that enhances agility and reduces technical debt. Learn how to implement effective cross-functional teams today!
+ResourceId: DOMFzBBMzfq
 date: 2020-12-10
 AudioNative: true
 creator: Martin Hinshelwood
@@ -9,23 +10,24 @@ layout: blog
 resourceTypes: blog
 slug: a-better-way-than-staggered-iterations-for-delivery
 aliases:
-  - /blog/a-better-way-than-staggered-iterations-for-delivery
-  - /a-better-way-than-staggered-iterations-for-delivery
+- /blog/a-better-way-than-staggered-iterations-for-delivery
+- /a-better-way-than-staggered-iterations-for-delivery
+- /resources/DOMFzBBMzfq
 tags:
-  - asynchronous-development
-  - cross-functional-teams
-  - culture
-  - cycle
-  - improve
-  - increment
-  - strategic
-  - test-first
-  - working-software
+- asynchronous-development
+- cross-functional-teams
+- culture
+- cycle
+- improve
+- increment
+- strategic
+- test-first
+- working-software
 categories:
-  - people-and-process
+- people-and-process
 preview: staggered-iterations-for-delivery1-2-2.png
----
 
+---
 There is a better way than staggered iterations for delivery that will keep you on the path to agility. Staggered iterations lead to more technical debt and lower quality software.
 
 [Updated to reflect the 2020 Scrum Guide!](https://nkdagility.com/the-2020-scrum-guide/)

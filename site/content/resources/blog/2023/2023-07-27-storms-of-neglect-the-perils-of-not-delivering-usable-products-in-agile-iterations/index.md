@@ -1,6 +1,7 @@
 ---
 title: Storms of Neglect The Perils of Not Delivering Usable Products in Agile Iterations
 description: Explore the critical consequences of neglecting usable products in Agile iterations. Learn how to maintain trust, adaptability, and team morale for success.
+ResourceId: G1N1dQ6DNEV
 date: 2023-07-27
 AudioNative: true
 creator: Martin Hinshelwood
@@ -9,17 +10,18 @@ layout: blog
 resourceTypes: blog
 slug: storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
 aliases:
-  - /blog/storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
-  - /storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
+- /blog/storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
+- /storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
+- /resources/G1N1dQ6DNEV
 tags:
-  - featured
-  - homepage
+- featured
+- homepage
 categories:
-  - discovery-ideation
-  - transparency-commitment
+- discovery-ideation
+- transparency-commitment
 preview: image-1.jpg
----
 
+---
 In light of the importance professional teams place on delivering usable, working products, I find myself compelled to address the woes that befall teams that need to adhere to this crucial tenet. We understand the need for working products; now, let us dissect the perils of straying from this righteous path.
 
 ### TL;DR;

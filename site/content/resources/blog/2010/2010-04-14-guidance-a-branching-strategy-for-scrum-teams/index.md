@@ -1,6 +1,7 @@
 ---
 title: 'Guidance: A Branching strategy for Scrum Teams'
 description: Discover effective branching strategies for Scrum teams to enhance code quality and streamline development processes. Optimize your workflow today!
+ResourceId: kxyZ3s8u340
 date: 2010-04-14
 creator: Martin Hinshelwood
 id: "50"
@@ -12,6 +13,7 @@ aliases:
 - /guidance-a-branching-strategy-for-scrum-teams
 - /guidance--a-branching-strategy-for-scrum-teams
 - /blog/guidance--a-branching-strategy-for-scrum-teams
+- /resources/kxyZ3s8u340
 tags:
 - codeproject
 - configuration

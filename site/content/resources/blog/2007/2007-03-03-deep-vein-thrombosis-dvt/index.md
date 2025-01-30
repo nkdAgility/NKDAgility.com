@@ -1,6 +1,7 @@
 ---
 title: Deep vein thrombosis (DVT)
 description: Discover the urgent need for DVT awareness and support a petition for genetic testing to prevent future tragedies. Join the fight for change today!
+ResourceId: _7Yp1RZb_8I
 date: 2007-03-03
 creator: Martin Hinshelwood
 id: "433"
@@ -12,6 +13,7 @@ aliases:
 - /deep-vein-thrombosis-dvt
 - /deep-vein-thrombosis-(dvt)
 - /blog/deep-vein-thrombosis-(dvt)
+- /resources/_7Yp1RZb_8I
 categories:
 - me
 preview: nakedalm-logo-128-link-1-1.png

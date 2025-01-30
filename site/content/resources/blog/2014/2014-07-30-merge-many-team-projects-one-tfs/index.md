@@ -1,6 +1,7 @@
 ---
 title: Merge Team Projects into one in TFS
 description: Learn how to merge multiple Team Projects in TFS effectively. Discover tools, tips, and strategies to streamline your workflow and reduce complexity.
+ResourceId: -0YnGYCeikc
 date: 2014-07-30
 creator: Martin Hinshelwood
 id: "10638"
@@ -12,6 +13,7 @@ aliases:
 - /merge-many-team-projects-one-tfs
 - /merge-team-projects-into-one-in-tfs
 - /blog/merge-team-projects-into-one-in-tfs
+- /resources/-0YnGYCeikc
 tags:
 - migration
 - team-project

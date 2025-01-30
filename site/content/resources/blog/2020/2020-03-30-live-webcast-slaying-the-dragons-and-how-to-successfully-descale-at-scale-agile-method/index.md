@@ -1,6 +1,7 @@
 ---
 title: Slaying the Dragons and How to Successfully Descale at Scale
 description: Discover how to effectively scale agile practices in your organization. Learn the secrets of successful companies and transform your software delivery!
+ResourceId: PLxBb5FqtO-
 date: 2020-03-30
 creator: Martin Hinshelwood
 id: "44209"
@@ -12,6 +13,7 @@ aliases:
 - /live-webcast-slaying-the-dragons-and-how-to-successfully-descale-at-scale-agile-method
 - /slaying-the-dragons-and-how-to-successfully-descale-at-scale
 - /blog/slaying-the-dragons-and-how-to-successfully-descale-at-scale
+- /resources/PLxBb5FqtO-
 tags:
 - agile
 - live-webcast

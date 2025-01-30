@@ -1,6 +1,7 @@
 ---
 title: Standard Environments for Automated Deployment and Testing
 description: Discover how to automate deployment and testing with Standard Environments in Visual Studio 2012 TFS, enhancing your DevOps practices for seamless delivery.
+ResourceId: Xmo3nfcFGmv
 date: 2013-03-17
 creator: Martin Hinshelwood
 id: "9308"
@@ -10,6 +11,7 @@ slug: standard-environments-for-automated-deployment-and-testing
 aliases:
 - /blog/standard-environments-for-automated-deployment-and-testing
 - /standard-environments-for-automated-deployment-and-testing
+- /resources/Xmo3nfcFGmv
 tags:
 - configuration
 - develop

@@ -1,6 +1,7 @@
 ---
 title: 'Guidance: How to layout you files for an Ideal Solution'
 description: Master the art of file layout for maintainable solutions in TFS. Discover best practices and enhance your development workflow with expert guidance.
+ResourceId: qHU7H_raZge
 date: 2010-05-17
 creator: Martin Hinshelwood
 id: "42"
@@ -12,6 +13,7 @@ aliases:
 - /guidance-how-to-layout-you-files-for-an-ideal-solution
 - /guidance--how-to-layout-you-files-for-an-ideal-solution
 - /blog/guidance--how-to-layout-you-files-for-an-ideal-solution
+- /resources/qHU7H_raZge
 tags:
 - code
 - codeproject

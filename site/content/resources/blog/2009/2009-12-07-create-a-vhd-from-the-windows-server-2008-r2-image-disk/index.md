@@ -1,6 +1,7 @@
 ---
 title: Create a VHD from the Windows Server 2008 R2 Image disk
 description: Learn how to easily create a VHD from a Windows Server 2008 R2 image disk with step-by-step instructions and essential tools. Simplify your setup today!
+ResourceId: drLuFfVqIJ7
 date: 2009-12-07
 creator: Martin Hinshelwood
 id: "75"
@@ -10,6 +11,7 @@ slug: create-a-vhd-from-the-windows-server-2008-r2-image-disk
 aliases:
 - /blog/create-a-vhd-from-the-windows-server-2008-r2-image-disk
 - /create-a-vhd-from-the-windows-server-2008-r2-image-disk
+- /resources/drLuFfVqIJ7
 tags:
 - ssw
 - tools

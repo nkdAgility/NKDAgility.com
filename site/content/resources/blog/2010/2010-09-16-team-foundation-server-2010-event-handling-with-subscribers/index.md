@@ -1,6 +1,7 @@
 ---
 title: Team Foundation Server 2010 Event Handling with Subscribers
 description: Explore event handling in TFS 2010 with subscribers. Learn to create complex handlers and enhance your development process with this comprehensive guide.
+ResourceId: FzwWmNio6fH
 date: 2010-09-16
 creator: Martin Hinshelwood
 id: "25"
@@ -10,6 +11,7 @@ slug: team-foundation-server-2010-event-handling-with-subscribers
 aliases:
 - /blog/team-foundation-server-2010-event-handling-with-subscribers
 - /team-foundation-server-2010-event-handling-with-subscribers
+- /resources/FzwWmNio6fH
 tags:
 - code
 - codeproject

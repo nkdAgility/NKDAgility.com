@@ -1,6 +1,7 @@
 ---
 title: SharePoint 3.0 and MOSS 2007 Service Pack 1 Update
 description: Discover solutions for SharePoint 3.0 and MOSS 2007 SP1 installation issues. Learn how to resolve errors and optimize your server performance effectively.
+ResourceId: f9uWaQLg8wR
 date: 2007-12-31
 creator: Martin Hinshelwood
 id: "272"
@@ -10,6 +11,7 @@ slug: sharepoint-3-0-and-moss-2007-service-pack-1-update
 aliases:
 - /blog/sharepoint-3-0-and-moss-2007-service-pack-1-update
 - /sharepoint-3-0-and-moss-2007-service-pack-1-update
+- /resources/f9uWaQLg8wR
 tags:
 - infrastructure
 - sharepoint
