@@ -65,6 +65,8 @@ The idea that a Scrum Master should “learn on the job” is dangerous. A Scrum
 
 This is not about gatekeeping—it’s about effectiveness. If a Scrum Master is learning the fundamentals while on the job, they are **not serving the team—they are hindering it**.
 
+This is also why hiring a Scrum Master should be an intentional and rigorous process. As outlined in [Hiring a Professional Scrum Master]({{< ref "/resources/blog/2021/2021-03-15-hiring-a-professional-scrum-master" >}}), organisations often make the mistake of prioritising certifications over experience, failing to assess whether a candidate truly embodies the role. A Scrum Master is not someone who simply “facilitates” but someone who **actively drives effectiveness, navigates complexity, and enables continuous delivery of value**.
+
 ## Conclusion: Scrum Masters Are Born Fully Formed
 
 A Scrum Master is not a role that should be taken lightly. It is not a career ladder step, nor is it something one can simply “train” into without prior deep experience. The best Scrum Masters **emerge naturally** from within the team, already demonstrating the mastery required before they ever assume accountability formally.
