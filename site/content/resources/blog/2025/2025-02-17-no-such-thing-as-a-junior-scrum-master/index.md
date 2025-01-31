@@ -5,6 +5,9 @@ ResourceId: f2RQh2UCwqB
 date: 2025-02-17T09:00:00
 AudioNative: true
 creator: Martin Hinshelwood
+Contributors:
+  - name: Dave ("Dungeon" Dave) Smith
+    external: https://www.linkedin.com/in/dungeon-dave-smith/
 layout: blog
 resourceTypes: blog
 slug: no-such-thing-as-a-junior-scrum-master
@@ -19,9 +22,7 @@ categories:
 preview: 2025-02-10-no-such-thing-as-a-junior-scrum-master.jpg
 ---
 
-# There Is No Such Thing as a “Junior” Scrum Master
-
-The idea of a “junior” Scrum Master is a fallacy. The Scrum Master is not an entry-level position, nor is it something that should be handed out as a career stepping stone. A Scrum Master **should be born fully formed**, emerging from the Scrum Team as a practitioner who has already demonstrated technical mastery, business mastery, and organisational evolutionary mastery. They should be **elevated by the team, not assigned by management.**
+Would you ever hire a **Junior CISO** or a **Junior Financial Director**? Of course not. These positions, by definition, require demonstrated mastery of their respective domains, alongside the authority and responsibility to enact meaningful change. The same should be true of a Scrum Master. The idea of a “junior” Scrum Master is a fallacy. The Scrum Master is not an entry-level position, nor is it something that should be handed out as a career stepping stone. A Scrum Master **should be born fully formed**, emerging from the Scrum Team as a practitioner who has already demonstrated technical mastery, business mastery, and organisational evolutionary mastery. They should be **elevated by the team, not assigned by management.**
 
 ## The Myth of the Junior Scrum Master
 
@@ -29,11 +30,19 @@ Too often, organisations treat the Scrum Master role as a checkbox on a hiring m
 
 This aligns with the points made in [The Incompetent Scrum Master]({{< ref "/resources/blog/2024/2024-09-05-the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know" >}}), which highlights that many Scrum Masters lack the depth of knowledge and experience necessary to be effective. The best Scrum Masters are not those who simply “get certified” but those who have lived and breathed Scrum within a team, demonstrating real-world competence before stepping into the role.
 
+Additionally, a Scrum Master **must have first-hand experience** of working within a Scrum Team. This doesn’t mean they **have to been a coder**; Scrum Teams are made up of Business Analysts, Testers, Flow Designers, and many other roles that contribute to delivering great products. But they must have seen what a cohesive team looks and feels like, and they must have experienced how a great Scrum Master and Product Owner operate.
+
+That said, I believe that a Scrum Master for a Scrum Team delivering software **should be able to code**. They should be able to understand and critique the quality of the work being done in order to understand and affect the Scrum Team's effectiveness. While they may not be writing production code daily, their ability to engage meaningfully with developers on code quality, DevOps practices, and architectural decisions is invaluable. Without this understanding, how can they genuinely support the team in delivering high-quality software?
+
 The best Scrum Masters:
 
 - Have worked within a Scrum Team for years, developing their craft as a Developer, Product Owner, or another key role.
 - Have demonstrated their ability not just to deliver work but to enable agility through lean thinking, continuous improvement, and servant leadership.
 - Possess **technical mastery, business mastery, and organisational evolutionary mastery**—the three pillars of a truly competent Scrum Master.
+
+A person whose knowledge of Scrum is limited to a **two-day certification course** will struggle to land a real Scrum Master job; and rightly so. Just as a company wouldn’t trust its entire departmental finances to someone who just completed a “Financial Mastery in Two Days” course, they shouldn’t entrust the success of a multi-million-dollar project to someone whose entire experience is a “Professional Scrum Mastery” online session.
+
+Additionally, many organisations attempt to cut costs by hiring a “junior” Scrum Master at half the salary, while expecting full performance. The result? A Jira lackey and reporting serf, someone who is bullied into administrative tasks rather than empowered to drive agility. It’s the equivalent of hiring a “junior” chef at a discount and making them sweep the yard before every shift—then blaming the methodology when the food is awful.
 
 ## Scrum Masters Are Chosen by the Team, Not Imposed by Management
 
@@ -49,13 +58,13 @@ If a team does not trust or respect their Scrum Master, they won’t follow them
 
 ## The Accountability of the Scrum Master Is Heavy—And It Requires Mastery
 
-Scrum Masters, as all leaders, **should not lead only through authority**—they should lead through influence. That influence comes from **mastery of three key domains**:
+Scrum Masters, as all leaders, **should not lead only through authority**—they should lead through influence. That influence comes from **mastery of three key domains**:
 
 1. **Technical Mastery** – A deep understanding of software development, DevOps, modern engineering practices, and the realities of delivering high-quality products. This doesn’t mean they have to code daily, but they must understand how technical decisions impact agility.
 2. **Business Mastery** – The ability to align Scrum Teams with the broader business strategy, ensuring that the work they facilitate delivers real, measurable value. This does not take away from the Product Owner but instead supports it.
 3. **Organisational Evolutionary Mastery** – The skill to enable systemic change, remove organisational impediments, and cultivate a culture of agility **beyond the team level**.
 
-While Scrum Masters should lead through influence and servant leadership, they are not powerless. The concept of intent-based leadership—where they also hold authority—can be incredibly effective. The best Scrum Masters [know when to serve and when to step up with authority](https://www.scrum.org/resources/blog/your-next-scrum-master-should-be-your-manager) to drive change. They wield the accountability of the role not just as a facilitator but as a true leader, ensuring that agility is not merely an aspiration but a reality.
+While Scrum Masters should lead through influence and servant leadership, they are not powerless. The concept of intent-based leadership, where they also hold authority, can be incredibly effective. The best Scrum Masters [know when to serve and when to step up with authority](https://www.scrum.org/resources/blog/your-next-scrum-master-should-be-your-manager) to drive change. They wield the accountability of the role not just as a facilitator but as a true leader, ensuring that agility is not merely an aspiration but a reality.
 
 This concept is further reinforced in [The Scrum Master is Accountable for Delivery]({{< ref "/resources/blog/2025/2025-01-30-the-scrum-master-is-accountable-for-delivery" >}}), which highlights how Scrum Masters must take ownership of delivery effectiveness and drive the team towards meaningful outcomes. Does this still sound like a junior position?
 
