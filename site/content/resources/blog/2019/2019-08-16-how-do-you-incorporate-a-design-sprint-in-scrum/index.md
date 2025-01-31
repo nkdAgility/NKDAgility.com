@@ -2,6 +2,10 @@
 title: How do you incorporate a Design Sprint in Scrum?
 description: Discover how to effectively integrate Design Sprints into Scrum. Learn key strategies for collaboration and refinement to enhance your product development process.
 ResourceId: MHeGFYrasBx
+ResourceImport: true
+ResourceImportId: 39682
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2019-08-16
 creator: Martin Hinshelwood
 id: "39682"
@@ -14,6 +18,11 @@ aliases:
 - /how-do-you-incorporate-a-design-sprint-in-scrum-
 - /blog/how-do-you-incorporate-a-design-sprint-in-scrum-
 - /resources/MHeGFYrasBx
+aliasesFor404:
+- /how-do-you-incorporate-a-design-sprint-in-scrum
+- /blog/how-do-you-incorporate-a-design-sprint-in-scrum
+- /how-do-you-incorporate-a-design-sprint-in-scrum-
+- /blog/how-do-you-incorporate-a-design-sprint-in-scrum-
 tags:
 - design-sprint
 - product-discovery

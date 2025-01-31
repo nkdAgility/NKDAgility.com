@@ -2,6 +2,10 @@
 title: Installing Windows 7
 description: Discover the step-by-step process of installing Windows 7 in a virtual environment. Join Martin Hinshelwood for tips and insights on a smooth setup experience!
 ResourceId: il4oYdn6wqL
+ResourceImport: true
+ResourceImportId: 148
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-01-09
 creator: Martin Hinshelwood
 id: "148"
@@ -12,6 +16,9 @@ aliases:
 - /blog/installing-windows-7
 - /installing-windows-7
 - /resources/il4oYdn6wqL
+aliasesFor404:
+- /installing-windows-7
+- /blog/installing-windows-7
 tags:
 - tools
 preview: nakedalm-logo-128-link-18-18.png

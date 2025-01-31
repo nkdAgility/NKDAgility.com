@@ -2,6 +2,10 @@
 title: 'TFS Integration Tools – Issue: Access denied to Program Files'
 description: Resolve the 'Access Denied' error in TFS Integration Tools with our expert tips. Learn how to adjust permissions and keep your integration running smoothly!
 ResourceId: wzTZxQrjbzO
+ResourceImport: true
+ResourceImportId: 6113
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2012-07-10
 creator: Martin Hinshelwood
 id: "6113"
@@ -14,6 +18,11 @@ aliases:
 - /tfs-integration-tools-–-issue--access-denied-to-program-files
 - /blog/tfs-integration-tools-–-issue--access-denied-to-program-files
 - /resources/wzTZxQrjbzO
+aliasesFor404:
+- /tfs-integration-platform-issue-access-denied-to-program-files
+- /blog/tfs-integration-platform-issue-access-denied-to-program-files
+- /tfs-integration-tools-–-issue--access-denied-to-program-files
+- /blog/tfs-integration-tools-–-issue--access-denied-to-program-files
 tags:
 - kb
 - puzzles

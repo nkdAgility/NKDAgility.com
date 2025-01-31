@@ -2,6 +2,10 @@
 title: TFS Event Handler (Prototype) Refresh
 description: Discover the refreshed TFS Event Handler Prototype by Martin Hinshelwood. Fix bugs, enhance your team's workflow, and explore new event handler ideas!
 ResourceId: RcunqCP6sF8
+ResourceImport: true
+ResourceImportId: 259
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-01-29
 creator: Martin Hinshelwood
 id: "259"
@@ -14,6 +18,11 @@ aliases:
 - /tfs-event-handler-(prototype)-refresh
 - /blog/tfs-event-handler-(prototype)-refresh
 - /resources/RcunqCP6sF8
+aliasesFor404:
+- /tfs-event-handler-prototype-refresh
+- /blog/tfs-event-handler-prototype-refresh
+- /tfs-event-handler-(prototype)-refresh
+- /blog/tfs-event-handler-(prototype)-refresh
 tags:
 - code
 - infrastructure

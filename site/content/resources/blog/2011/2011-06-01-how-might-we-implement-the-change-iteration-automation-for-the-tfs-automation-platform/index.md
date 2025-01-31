@@ -2,6 +2,10 @@
 title: How might we implement the Change Iteration Automation for the Tfs Automation Platform
 description: Explore the implementation of Change Iteration Automation for the TFS Automation Platform, enhancing efficiency in managing queries across sprints.
 ResourceId: sE7yYXG4Th_
+ResourceImport: true
+ResourceImportId: 3383
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2011-06-01
 creator: Martin Hinshelwood
 id: "3383"
@@ -12,6 +16,9 @@ aliases:
 - /blog/how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
 - /how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
 - /resources/sE7yYXG4Th_
+aliasesFor404:
+- /how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
+- /blog/how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
 tags:
 - nwcadence
 - tfs

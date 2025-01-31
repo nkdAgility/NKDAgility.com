@@ -8,8 +8,7 @@ creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
 slug: definition-of-done-objective-vs-subjective
-aliases:
-- /resources/-Z5GGUOjc-d
+aliases: /resources/-Z5GGUOjc-d
 tags:
 - Definition of Done
 categories:

@@ -2,6 +2,10 @@
 title: Upgrade to Visual Studio 11 Team Foundation Service - Done
 description: Discover the benefits of upgrading to Visual Studio 11 Team Foundation Service. Learn how cloud solutions simplify management and enhance your development experience!
 ResourceId: qZoGIj62YP4
+ResourceImport: true
+ResourceImportId: 4573
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2012-02-24
 creator: Martin Hinshelwood
 id: "4573"
@@ -15,6 +19,11 @@ aliases:
 - /upgrade-to-visual-studio-11-team-foundation-service---done
 - /blog/upgrade-to-visual-studio-11-team-foundation-service---done
 - /resources/qZoGIj62YP4
+aliasesFor404:
+- /upgrade-to-visual-studio-11-team-foundation-service-done
+- /blog/upgrade-to-visual-studio-11-team-foundation-service-done
+- /upgrade-to-visual-studio-11-team-foundation-service---done
+- /blog/upgrade-to-visual-studio-11-team-foundation-service---done
 tags:
 - configuration
 - infrastructure

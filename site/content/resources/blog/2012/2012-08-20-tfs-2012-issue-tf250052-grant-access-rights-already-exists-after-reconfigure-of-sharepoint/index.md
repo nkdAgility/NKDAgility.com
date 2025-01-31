@@ -2,6 +2,10 @@
 title: 'TFS 2012 - Issue: TF250052: Grant access rights already exists after reconfigure of SharePoint'
 description: Resolve the TF250052 error in TFS 2012 after SharePoint reconfiguration. Discover the simple refresh solution to access rights issues. Get help now!
 ResourceId: KWHN3dnM-5A
+ResourceImport: true
+ResourceImportId: 7247
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2012-08-20
 creator: Martin Hinshelwood
 id: "7247"
@@ -15,6 +19,11 @@ aliases:
 - /tfs-2012---issue--tf250052--grant-access-rights-already-exists-after-reconfigure-of-sharepoint
 - /blog/tfs-2012---issue--tf250052--grant-access-rights-already-exists-after-reconfigure-of-sharepoint
 - /resources/KWHN3dnM-5A
+aliasesFor404:
+- /tfs-2012-issue-tf250052-grant-access-rights-already-exists-after-reconfigure-of-sharepoint
+- /blog/tfs-2012-issue-tf250052-grant-access-rights-already-exists-after-reconfigure-of-sharepoint
+- /tfs-2012---issue--tf250052--grant-access-rights-already-exists-after-reconfigure-of-sharepoint
+- /blog/tfs-2012---issue--tf250052--grant-access-rights-already-exists-after-reconfigure-of-sharepoint
 tags:
 - puzzles
 - sharepoint

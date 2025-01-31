@@ -8,8 +8,7 @@ creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
 slug: without-delivery-no-value
-aliases:
-- /resources/UfdnQrxv5iF
+aliases: /resources/UfdnQrxv5iF
 tags:
 - Delivery
 - Accountability

@@ -2,6 +2,10 @@
 title: We’re sorry, but you won’t be able to download Internet Explorer 8 for Windows 7 Beta at this time
 description: Discover why Windows 7 users can't download Internet Explorer 8 yet, and explore the benefits of this powerful browser compared to others. Join the conversation!
 ResourceId: sjUCMYPEzTd
+ResourceImport: true
+ResourceImportId: 135
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-03-19
 creator: Martin Hinshelwood
 id: "135"
@@ -14,6 +18,13 @@ aliases:
 - /we’re-sorry,-but-you-won’t-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
 - /blog/we’re-sorry,-but-you-won’t-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
 - /resources/sjUCMYPEzTd
+- /we’re-sorry--but-you-won’t-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
+- /blog/we’re-sorry--but-you-won’t-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
+aliasesFor404:
+- /were-sorry-but-you-wont-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
+- /blog/were-sorry-but-you-wont-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
+- /we’re-sorry,-but-you-won’t-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
+- /blog/we’re-sorry,-but-you-won’t-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
 tags:
 - tools
 preview: nakedalm-logo-128-link-2-2.png

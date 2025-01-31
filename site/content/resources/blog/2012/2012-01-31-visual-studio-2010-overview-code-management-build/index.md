@@ -2,6 +2,10 @@
 title: Visual Studio 2010 Overview - Code Management and Build
 description: Explore Visual Studio 2010's code management and build features. Learn effective branching strategies and enhance your team's software delivery process.
 ResourceId: 1hC0IZyRA0c
+ResourceImport: true
+ResourceImportId: 4182
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2012-01-31
 creator: Martin Hinshelwood
 id: "4182"
@@ -15,6 +19,11 @@ aliases:
 - /visual-studio-2010-overview---code-management-and-build
 - /blog/visual-studio-2010-overview---code-management-and-build
 - /resources/1hC0IZyRA0c
+aliasesFor404:
+- /visual-studio-2010-overview-code-management-build
+- /blog/visual-studio-2010-overview-code-management-build
+- /visual-studio-2010-overview---code-management-and-build
+- /blog/visual-studio-2010-overview---code-management-and-build
 
 ---
 code-management-and-build

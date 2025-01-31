@@ -2,6 +2,10 @@
 title: Migration from TF Service to TF Server with the TFS Integration Platform
 description: Learn how to seamlessly migrate from TF Service to TF Server using the TFS Integration Platform. Ensure compliance and protect your data effectively!
 ResourceId: M3QCV-Dusfq
+ResourceImport: true
+ResourceImportId: 9443
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2013-04-18
 creator: Martin Hinshelwood
 id: "9443"
@@ -12,6 +16,9 @@ aliases:
 - /blog/migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
 - /migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
 - /resources/M3QCV-Dusfq
+aliasesFor404:
+- /migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
+- /blog/migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
 tags:
 - code
 - migration

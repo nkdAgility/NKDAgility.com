@@ -2,6 +2,10 @@
 title: How to Set and Achieve Effective Sprint Goals
 description: Unlock the power of effective Sprint Goals in Scrum! Learn to craft clear, actionable objectives that drive team success and stakeholder trust. Start now!
 ResourceId: gWfr1oRgAIq
+ResourceImport: true
+ResourceImportId: 50115
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2023-09-29
 AudioNative: true
 creator: Martin Hinshelwood
@@ -16,6 +20,9 @@ aliases:
 - /blog/how-to-set-and-achieve-effective-sprint-goals
 - /how-to-set-and-achieve-effective-sprint-goals
 - /resources/gWfr1oRgAIq
+aliasesFor404:
+- /how-to-set-and-achieve-effective-sprint-goals
+- /blog/how-to-set-and-achieve-effective-sprint-goals
 tags:
 - featured
 - homepage

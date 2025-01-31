@@ -2,6 +2,10 @@
 title: Installing Visual Studio 2010 Team Foundation Server on Windows Vista in 3 minutes
 description: Learn to install Visual Studio 2010 Team Foundation Server on Windows Vista in just 3 minutes. Simplify your setup with our step-by-step guide!
 ResourceId: 1915ua1v0mc
+ResourceImport: true
+ResourceImportId: 84
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-10-20
 creator: Martin Hinshelwood
 id: "84"
@@ -12,6 +16,9 @@ aliases:
 - /blog/installing-visual-studio-2010-team-foundation-server-on-windows-vista-in-3-minutes
 - /installing-visual-studio-2010-team-foundation-server-on-windows-vista-in-3-minutes
 - /resources/1915ua1v0mc
+aliasesFor404:
+- /installing-visual-studio-2010-team-foundation-server-on-windows-vista-in-3-minutes
+- /blog/installing-visual-studio-2010-team-foundation-server-on-windows-vista-in-3-minutes
 tags:
 - aggreko
 - codeproject

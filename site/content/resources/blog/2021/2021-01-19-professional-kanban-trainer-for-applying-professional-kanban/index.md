@@ -2,6 +2,10 @@
 title: Professional Kanban Trainer for Applying Professional Kanban
 description: Become a certified Professional Kanban Trainer with expert guidance from Martin Hinshelwood. Learn to optimize value flow and enhance your Scrum practices!
 ResourceId: ZQi3U9gnXj3
+ResourceImport: true
+ResourceImportId: 45694
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2021-01-19
 AudioNative: true
 creator: Martin Hinshelwood
@@ -13,6 +17,9 @@ aliases:
 - /blog/professional-kanban-trainer-for-applying-professional-kanban
 - /professional-kanban-trainer-for-applying-professional-kanban
 - /resources/ZQi3U9gnXj3
+aliasesFor404:
+- /professional-kanban-trainer-for-applying-professional-kanban
+- /blog/professional-kanban-trainer-for-applying-professional-kanban
 tags:
 - kanban
 - kanban-theory

@@ -2,6 +2,10 @@
 title: Linked in VSTS Group
 description: Join the LinkedIn VSTS Developer group to connect with fellow developers customizing Visual Studio Team System. Share insights and enhance your skills!
 ResourceId: HSVy1vwtnsH
+ResourceImport: true
+ResourceImportId: 226
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-05-15
 creator: Martin Hinshelwood
 id: "226"
@@ -12,6 +16,9 @@ aliases:
 - /blog/linked-in-vsts-group
 - /linked-in-vsts-group
 - /resources/HSVy1vwtnsH
+aliasesFor404:
+- /linked-in-vsts-group
+- /blog/linked-in-vsts-group
 tags:
 - linkedin
 - tfs

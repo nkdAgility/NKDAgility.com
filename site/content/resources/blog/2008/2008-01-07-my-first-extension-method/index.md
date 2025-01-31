@@ -2,6 +2,10 @@
 title: My first Extension method...
 description: Explore how to enhance your .NET skills by creating extension methods in VB.NET. Learn to add functionality to Xbox Live info with practical examples!
 ResourceId: QJ6lF5ONMCD
+ResourceImport: true
+ResourceImportId: 269
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-01-07
 creator: Martin Hinshelwood
 id: "269"
@@ -14,6 +18,11 @@ aliases:
 - /blog/my-first-extension-method---
 - /resources/QJ6lF5ONMCD
 - /my-first-extension-method
+aliasesFor404:
+- /my-first-extension-method
+- /blog/my-first-extension-method
+- /my-first-extension-method---
+- /blog/my-first-extension-method---
 tags:
 - code
 categories:

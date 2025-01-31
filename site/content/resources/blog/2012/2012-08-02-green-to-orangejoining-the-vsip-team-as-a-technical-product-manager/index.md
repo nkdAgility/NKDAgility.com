@@ -2,6 +2,10 @@
 title: Green to Orange–Joining the VSIP team as a Technical Product Manager
 description: Join Martin Hinshelwood as he embarks on a new journey as a Technical Product Manager with the VSIP team, enhancing Visual Studio's partner ecosystem.
 ResourceId: P0ESCmC9VhB
+ResourceImport: true
+ResourceImportId: 6914
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2012-08-02
 creator: Martin Hinshelwood
 id: "6914"
@@ -14,6 +18,11 @@ aliases:
 - /green-to-orange–joining-the-vsip-team-as-a-technical-product-manager
 - /blog/green-to-orange–joining-the-vsip-team-as-a-technical-product-manager
 - /resources/P0ESCmC9VhB
+aliasesFor404:
+- /green-to-orangejoining-the-vsip-team-as-a-technical-product-manager
+- /blog/green-to-orangejoining-the-vsip-team-as-a-technical-product-manager
+- /green-to-orange–joining-the-vsip-team-as-a-technical-product-manager
+- /blog/green-to-orange–joining-the-vsip-team-as-a-technical-product-manager
 tags:
 - nwcadence
 - visual-studio

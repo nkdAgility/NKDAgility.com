@@ -2,6 +2,10 @@
 title: Issue [ TFS 2013 ] InRelease account requires make requests on behalf of others
 description: Resolve the TFS 2013 InRelease error requiring 'make requests on behalf of others' with our step-by-step guide to configure permissions effectively.
 ResourceId: SYCGxfoMPjw
+ResourceImport: true
+ResourceImportId: 9759
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2013-07-11
 creator: Martin Hinshelwood
 id: "9759"
@@ -14,6 +18,11 @@ aliases:
 - /issue-[-tfs-2013-]-inrelease-account-requires-make-requests-on-behalf-of-others
 - /blog/issue-[-tfs-2013-]-inrelease-account-requires-make-requests-on-behalf-of-others
 - /resources/SYCGxfoMPjw
+aliasesFor404:
+- /issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
+- /blog/issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
+- /issue-[-tfs-2013-]-inrelease-account-requires-make-requests-on-behalf-of-others
+- /blog/issue-[-tfs-2013-]-inrelease-account-requires-make-requests-on-behalf-of-others
 tags:
 - code
 - configuration

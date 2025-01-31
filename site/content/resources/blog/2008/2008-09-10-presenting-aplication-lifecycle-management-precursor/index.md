@@ -2,6 +2,10 @@
 title: 'Presenting Aplication Lifecycle Management: Precursor'
 description: Join Martin Hinshelwood as he shares insights on Application Lifecycle Management (ALM) and his journey preparing for a pivotal presentation. Discover more!
 ResourceId: 896VMaXqzu_
+ResourceImport: true
+ResourceImportId: 194
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-09-10
 creator: Martin Hinshelwood
 id: "194"
@@ -14,6 +18,11 @@ aliases:
 - /presenting-aplication-lifecycle-management--precursor
 - /blog/presenting-aplication-lifecycle-management--precursor
 - /resources/896VMaXqzu_
+aliasesFor404:
+- /presenting-aplication-lifecycle-management-precursor
+- /blog/presenting-aplication-lifecycle-management-precursor
+- /presenting-aplication-lifecycle-management--precursor
+- /blog/presenting-aplication-lifecycle-management--precursor
 tags:
 - aggreko
 - tfs

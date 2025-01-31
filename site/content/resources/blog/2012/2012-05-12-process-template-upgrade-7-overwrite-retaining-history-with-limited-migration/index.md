@@ -2,6 +2,10 @@
 title: 'Process Template Upgrade #7 – Rename Work Items and Import new ones'
 description: Learn how to upgrade your TFS process template while preserving work item history. Follow these essential steps for a smooth transition and minimal disruption.
 ResourceId: 8bwduNxH7WG
+ResourceImport: true
+ResourceImportId: 5277
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2012-05-12
 creator: Martin Hinshelwood
 id: "5277"
@@ -14,6 +18,11 @@ aliases:
 - /process-template-upgrade--7-–-rename-work-items-and-import-new-ones
 - /blog/process-template-upgrade--7-–-rename-work-items-and-import-new-ones
 - /resources/8bwduNxH7WG
+aliasesFor404:
+- /process-template-upgrade-7-overwrite-retaining-history-with-limited-migration
+- /blog/process-template-upgrade-7-overwrite-retaining-history-with-limited-migration
+- /process-template-upgrade--7-–-rename-work-items-and-import-new-ones
+- /blog/process-template-upgrade--7-–-rename-work-items-and-import-new-ones
 tags:
 - configuration
 - infrastructure

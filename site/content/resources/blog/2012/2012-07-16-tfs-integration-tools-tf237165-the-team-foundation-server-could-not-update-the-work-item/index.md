@@ -2,6 +2,10 @@
 title: 'TFS Integration Tools: TF237165: The Team Foundation Server could not update the work item'
 description: Resolve the TF237165 error in TFS Integration Tools with effective troubleshooting tips. Learn how to fix validation issues and streamline your workflow!
 ResourceId: -dhZywZGtrn
+ResourceImport: true
+ResourceImportId: 6179
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2012-07-16
 creator: Martin Hinshelwood
 id: "6179"
@@ -14,6 +18,11 @@ aliases:
 - /tfs-integration-tools--tf237165--the-team-foundation-server-could-not-update-the-work-item
 - /blog/tfs-integration-tools--tf237165--the-team-foundation-server-could-not-update-the-work-item
 - /resources/-dhZywZGtrn
+aliasesFor404:
+- /tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item
+- /blog/tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item
+- /tfs-integration-tools--tf237165--the-team-foundation-server-could-not-update-the-work-item
+- /blog/tfs-integration-tools--tf237165--the-team-foundation-server-could-not-update-the-work-item
 tags:
 - puzzles
 - tf237165

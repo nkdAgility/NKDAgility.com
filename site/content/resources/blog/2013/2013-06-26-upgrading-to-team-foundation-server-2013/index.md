@@ -2,6 +2,10 @@
 title: Upgrading to Team Foundation Server 2013
 description: Upgrade to Team Foundation Server 2013 effortlessly! Discover essential tips, backup strategies, and a smooth installation process for your TFS environment.
 ResourceId: Ni5lk4V30pb
+ResourceImport: true
+ResourceImportId: 9907
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2013-06-26
 creator: Martin Hinshelwood
 id: "9907"
@@ -12,6 +16,9 @@ aliases:
 - /blog/upgrading-to-team-foundation-server-2013
 - /upgrading-to-team-foundation-server-2013
 - /resources/Ni5lk4V30pb
+aliasesFor404:
+- /upgrading-to-team-foundation-server-2013
+- /blog/upgrading-to-team-foundation-server-2013
 tags:
 - configuration
 - tf255193

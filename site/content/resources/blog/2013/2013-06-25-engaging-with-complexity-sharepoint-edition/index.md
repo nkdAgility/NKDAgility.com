@@ -2,6 +2,10 @@
 title: Engaging with complexity - SharePoint Edition
 description: Explore complex SharePoint migrations with expert insights on consolidation and upgrades to SharePoint 2013. Simplify your transition today!
 ResourceId: Lzmlul_Elhj
+ResourceImport: true
+ResourceImportId: 9909
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2013-06-25
 creator: Martin Hinshelwood
 id: "9909"
@@ -15,6 +19,11 @@ aliases:
 - /engaging-with-complexity---sharepoint-edition
 - /blog/engaging-with-complexity---sharepoint-edition
 - /resources/Lzmlul_Elhj
+aliasesFor404:
+- /engaging-with-complexity-sharepoint-edition
+- /blog/engaging-with-complexity-sharepoint-edition
+- /engaging-with-complexity---sharepoint-edition
+- /blog/engaging-with-complexity---sharepoint-edition
 tags:
 - advfirewall
 - code

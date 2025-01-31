@@ -2,6 +2,10 @@
 title: Agile in Africa 2016
 description: Join the Agile in Africa 2016 event in Accra, Ghana, and discover how to enhance development practices while connecting with industry experts. Sign up now!
 ResourceId: YQ8HMmx0-kz
+ResourceImport: true
+ResourceImportId: 11450
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2016-01-27
 creator: Martin Hinshelwood
 id: "11450"
@@ -14,6 +18,11 @@ aliases:
 - /agile-in-africa-2016
 - /blog/agile-in-africa-2016
 - /resources/YQ8HMmx0-kz
+aliasesFor404:
+- /agile-africa-2016
+- /blog/agile-africa-2016
+- /agile-in-africa-2016
+- /blog/agile-in-africa-2016
 tags:
 - agile-in-africa
 - scrum

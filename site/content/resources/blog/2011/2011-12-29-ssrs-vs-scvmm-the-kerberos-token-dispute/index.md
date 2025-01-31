@@ -2,6 +2,10 @@
 title: SSRS vs SCVMM - The Kerberos token dispute
 description: Explore the Kerberos token challenges in SSRS and SCVMM setups. Learn key solutions to enhance your TFS and Lab Management configurations effectively.
 ResourceId: o4bErdW-aL2
+ResourceImport: true
+ResourceImportId: 4104
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2011-12-29
 creator: Martin Hinshelwood
 id: "4104"
@@ -14,6 +18,11 @@ aliases:
 - /ssrs-vs-scvmm---the-kerberos-token-dispute
 - /blog/ssrs-vs-scvmm---the-kerberos-token-dispute
 - /resources/o4bErdW-aL2
+aliasesFor404:
+- /ssrs-vs-scvmm-the-kerberos-token-dispute
+- /blog/ssrs-vs-scvmm-the-kerberos-token-dispute
+- /ssrs-vs-scvmm---the-kerberos-token-dispute
+- /blog/ssrs-vs-scvmm---the-kerberos-token-dispute
 tags:
 - kerberos
 - nwcadence

@@ -2,6 +2,10 @@
 title: Enabling Google Plus Profiles for Google Apps users in under 2 minutes
 description: Learn how to enable Google+ profiles for Google Apps users in just 2 minutes. Follow our simple steps to unlock new features and enhance your experience!
 ResourceId: iTuGd858pI6
+ResourceImport: true
+ResourceImportId: 4016
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2011-11-03
 creator: Martin Hinshelwood
 id: "4016"
@@ -12,6 +16,9 @@ aliases:
 - /blog/enabling-google-plus-profiles-for-google-apps-users-in-under-2-minutes
 - /enabling-google-plus-profiles-for-google-apps-users-in-under-2-minutes
 - /resources/iTuGd858pI6
+aliasesFor404:
+- /enabling-google-plus-profiles-for-google-apps-users-in-under-2-minutes
+- /blog/enabling-google-plus-profiles-for-google-apps-users-in-under-2-minutes
 tags:
 - google
 - webcast-2

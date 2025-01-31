@@ -2,6 +2,10 @@
 title: 'DDD Scotland v2.0: 2nd of May 2009'
 description: Join us for Developer Day Scotland 2009! Discover insights, connect with peers, and enjoy a fantastic event in Glasgow. Will you be there?
 ResourceId: 6LNVlHaSuxS
+ResourceImport: true
+ResourceImportId: 169
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-11-14
 creator: Martin Hinshelwood
 id: "169"
@@ -14,6 +18,11 @@ aliases:
 - /ddd-scotland-v2-0--2nd-of-may-2009
 - /blog/ddd-scotland-v2-0--2nd-of-may-2009
 - /resources/6LNVlHaSuxS
+aliasesFor404:
+- /ddd-scotland-v2-0-2nd-of-may-2009
+- /blog/ddd-scotland-v2-0-2nd-of-may-2009
+- /ddd-scotland-v2-0--2nd-of-may-2009
+- /blog/ddd-scotland-v2-0--2nd-of-may-2009
 categories:
 - me
 preview: nakedalm-logo-128-link-2-2.png

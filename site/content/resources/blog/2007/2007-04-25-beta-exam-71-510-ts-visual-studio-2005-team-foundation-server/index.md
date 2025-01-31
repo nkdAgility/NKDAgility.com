@@ -2,6 +2,10 @@
 title: 'Beta Exam 71-510: TS: Visual Studio 2005 Team Foundation Server'
 description: Discover my journey to passing the Beta Exam 71-510 for Visual Studio 2005 Team Foundation Server and my next steps towards MCPD certification!
 ResourceId: KuQewTMxwar
+ResourceImport: true
+ResourceImportId: 414
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-04-25
 creator: Martin Hinshelwood
 id: "414"
@@ -14,6 +18,11 @@ aliases:
 - /beta-exam-71-510--ts--visual-studio-2005-team-foundation-server
 - /blog/beta-exam-71-510--ts--visual-studio-2005-team-foundation-server
 - /resources/KuQewTMxwar
+aliasesFor404:
+- /beta-exam-71-510-ts-visual-studio-2005-team-foundation-server
+- /blog/beta-exam-71-510-ts-visual-studio-2005-team-foundation-server
+- /beta-exam-71-510--ts--visual-studio-2005-team-foundation-server
+- /blog/beta-exam-71-510--ts--visual-studio-2005-team-foundation-server
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

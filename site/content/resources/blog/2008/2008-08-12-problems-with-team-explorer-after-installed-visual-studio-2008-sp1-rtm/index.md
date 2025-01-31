@@ -2,6 +2,10 @@
 title: Problems with Team Explorer after installed Visual Studio 2008 SP1 RTM
 description: Discover solutions for Team Explorer issues after installing Visual Studio 2008 SP1 RTM. Troubleshoot effectively and regain access to version control!
 ResourceId: DLSNF8iLvfk
+ResourceImport: true
+ResourceImportId: 210
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-08-12
 creator: Martin Hinshelwood
 id: "210"
@@ -12,6 +16,9 @@ aliases:
 - /blog/problems-with-team-explorer-after-installed-visual-studio-2008-sp1-rtm
 - /problems-with-team-explorer-after-installed-visual-studio-2008-sp1-rtm
 - /resources/DLSNF8iLvfk
+aliasesFor404:
+- /problems-with-team-explorer-after-installed-visual-studio-2008-sp1-rtm
+- /blog/problems-with-team-explorer-after-installed-visual-studio-2008-sp1-rtm
 tags:
 - aggreko
 - tools

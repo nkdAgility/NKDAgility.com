@@ -2,6 +2,10 @@
 title: 'Agility and Windows 10: Upgrading my Surface Pro 2'
 description: Join Martin Hinshelwood as he shares his experience upgrading a Surface Pro 2 to Windows 10 Technical Preview, exploring agility and user feedback in tech.
 ResourceId: yn8SQ53TMaP
+ResourceImport: true
+ResourceImportId: 10746
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2014-10-02
 creator: Martin Hinshelwood
 id: "10746"
@@ -14,6 +18,11 @@ aliases:
 - /agility-and-windows-10--upgrading-my-surface-pro-2
 - /blog/agility-and-windows-10--upgrading-my-surface-pro-2
 - /resources/yn8SQ53TMaP
+aliasesFor404:
+- /agility-windows-10-upgrading-surface-pro-2
+- /blog/agility-windows-10-upgrading-surface-pro-2
+- /agility-and-windows-10--upgrading-my-surface-pro-2
+- /blog/agility-and-windows-10--upgrading-my-surface-pro-2
 tags:
 - agility
 - dell-venue-8

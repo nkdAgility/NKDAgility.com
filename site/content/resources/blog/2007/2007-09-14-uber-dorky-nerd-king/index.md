@@ -2,6 +2,10 @@
 title: Uber-Dorky Nerd King
 description: Discover the fun side of being a nerd with the 'Uber-Dorky Nerd King' post! Join Martin Hinshelwood as he explores personal geekiness and self-identity.
 ResourceId: Ujdt5B-Adqp
+ResourceImport: true
+ResourceImportId: 312
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-09-14
 creator: Martin Hinshelwood
 id: "312"
@@ -12,6 +16,9 @@ aliases:
 - /blog/uber-dorky-nerd-king
 - /uber-dorky-nerd-king
 - /resources/Ujdt5B-Adqp
+aliasesFor404:
+- /uber-dorky-nerd-king
+- /blog/uber-dorky-nerd-king
 categories:
 - me
 preview: nakedalm-logo-128-link-1-1.png

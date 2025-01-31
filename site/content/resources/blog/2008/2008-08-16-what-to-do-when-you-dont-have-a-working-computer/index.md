@@ -2,6 +2,10 @@
 title: What to do when you dont have a working computer!
 description: Discover practical tips for coping without a computer. Learn how to navigate daily tasks using mobile devices and software solutions effectively.
 ResourceId: nD4pBeQgpZK
+ResourceImport: true
+ResourceImportId: 208
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-08-16
 creator: Martin Hinshelwood
 id: "208"
@@ -14,6 +18,11 @@ aliases:
 - /what-to-do-when-you-dont-have-a-working-computer-
 - /blog/what-to-do-when-you-dont-have-a-working-computer-
 - /resources/nD4pBeQgpZK
+aliasesFor404:
+- /what-to-do-when-you-dont-have-a-working-computer
+- /blog/what-to-do-when-you-dont-have-a-working-computer
+- /what-to-do-when-you-dont-have-a-working-computer-
+- /blog/what-to-do-when-you-dont-have-a-working-computer-
 tags:
 - answers
 - visual-studio

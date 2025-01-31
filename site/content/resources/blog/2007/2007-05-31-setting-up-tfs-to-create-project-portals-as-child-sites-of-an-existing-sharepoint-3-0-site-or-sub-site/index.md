@@ -2,6 +2,10 @@
 title: Setting up TFS to create project portals as child sites of an existing SharePoint 3.0 site (or sub site)
 description: Learn how to set up TFS for project portals as child sites of SharePoint 3.0, enhancing integration and collaboration for your team. Discover best practices!
 ResourceId: jFAz7uP6k-J
+ResourceImport: true
+ResourceImportId: 390
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-05-31
 creator: Martin Hinshelwood
 id: "390"
@@ -14,6 +18,11 @@ aliases:
 - /setting-up-tfs-to-create-project-portals-as-child-sites-of-an-existing-sharepoint-3-0-site-(or-sub-site)
 - /blog/setting-up-tfs-to-create-project-portals-as-child-sites-of-an-existing-sharepoint-3-0-site-(or-sub-site)
 - /resources/jFAz7uP6k-J
+aliasesFor404:
+- /setting-up-tfs-to-create-project-portals-as-child-sites-of-an-existing-sharepoint-3-0-site-or-sub-site
+- /blog/setting-up-tfs-to-create-project-portals-as-child-sites-of-an-existing-sharepoint-3-0-site-or-sub-site
+- /setting-up-tfs-to-create-project-portals-as-child-sites-of-an-existing-sharepoint-3-0-site-(or-sub-site)
+- /blog/setting-up-tfs-to-create-project-portals-as-child-sites-of-an-existing-sharepoint-3-0-site-(or-sub-site)
 tags:
 - sp2007
 - tfs

@@ -2,6 +2,10 @@
 title: DOD has made it illegal to do waterfall
 description: Discover how the DOD's new procurement rules outlaw waterfall methods, paving the way for agile practices that enhance efficiency and success in IT projects.
 ResourceId: dnmT3QDhGxx
+ResourceImport: true
+ResourceImportId: 10204
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2018-05-01
 creator: Martin Hinshelwood
 id: "10204"
@@ -12,6 +16,9 @@ aliases:
 - /blog/dod-has-made-it-illegal-to-do-waterfall
 - /dod-has-made-it-illegal-to-do-waterfall
 - /resources/dnmT3QDhGxx
+aliasesFor404:
+- /dod-has-made-it-illegal-to-do-waterfall
+- /blog/dod-has-made-it-illegal-to-do-waterfall
 tags:
 - agile
 - lean

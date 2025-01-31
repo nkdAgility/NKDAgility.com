@@ -2,6 +2,10 @@
 title: Composite WPF and Merged Dictionaries
 description: Explore how to effectively manage themes and resource files in WPF applications with practical code solutions and insights from Martin Hinshelwood.
 ResourceId: rVJ3HWMCFYD
+ResourceImport: true
+ResourceImportId: 170
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-11-12
 creator: Martin Hinshelwood
 id: "170"
@@ -12,6 +16,9 @@ aliases:
 - /blog/composite-wpf-and-merged-dictionaries
 - /composite-wpf-and-merged-dictionaries
 - /resources/rVJ3HWMCFYD
+aliasesFor404:
+- /composite-wpf-and-merged-dictionaries
+- /blog/composite-wpf-and-merged-dictionaries
 tags:
 - code
 - tfs-sticky-buddy

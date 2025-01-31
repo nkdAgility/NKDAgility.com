@@ -2,6 +2,10 @@
 title: Major deadline
 description: Discover the challenges of managing a SharePoint migration project and the urgent solutions needed to meet a tight deadline. Join the journey of innovation!
 ResourceId: qNeovUSRj-o
+ResourceImport: true
+ResourceImportId: 233
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-04-30
 creator: Martin Hinshelwood
 id: "233"
@@ -12,6 +16,9 @@ aliases:
 - /blog/major-deadline
 - /major-deadline
 - /resources/qNeovUSRj-o
+aliasesFor404:
+- /major-deadline
+- /blog/major-deadline
 tags:
 - moss2007
 - sharepoint

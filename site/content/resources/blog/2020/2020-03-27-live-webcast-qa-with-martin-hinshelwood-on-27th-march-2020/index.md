@@ -2,6 +2,10 @@
 title: 'Live Webcast: Q&amp;A with Martin Hinshelwood on 27th March 2020'
 description: Join Martin Hinshelwood for a live Q&A on incorporating UX into Scrum teams. Discover insights and strategies to enhance your agile practices!
 ResourceId: s7bwajkP-HP
+ResourceImport: true
+ResourceImportId: 44210
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2020-03-27
 creator: Martin Hinshelwood
 id: "44210"
@@ -14,6 +18,11 @@ aliases:
 - /live-webcast--q&amp;a-with-martin-hinshelwood-on-27th-march-2020
 - /blog/live-webcast--q&amp;a-with-martin-hinshelwood-on-27th-march-2020
 - /resources/s7bwajkP-HP
+aliasesFor404:
+- /live-webcast-qa-with-martin-hinshelwood-on-27th-march-2020
+- /blog/live-webcast-qa-with-martin-hinshelwood-on-27th-march-2020
+- /live-webcast--q&amp;a-with-martin-hinshelwood-on-27th-march-2020
+- /blog/live-webcast--q&amp;a-with-martin-hinshelwood-on-27th-march-2020
 tags:
 - live-webcast
 - qa

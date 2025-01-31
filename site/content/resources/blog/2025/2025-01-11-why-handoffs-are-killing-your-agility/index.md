@@ -8,8 +8,7 @@ creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
 slug: why-handoffs-are-killing-your-agility
-aliases:
-- /resources/pDvDdIEi9sj
+aliases: /resources/pDvDdIEi9sj
 tags:
 - handoffs
 - lean

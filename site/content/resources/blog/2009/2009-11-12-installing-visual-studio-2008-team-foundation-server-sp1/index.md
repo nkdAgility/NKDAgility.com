@@ -2,6 +2,10 @@
 title: Installing Visual Studio 2008 Team Foundation Server SP1
 description: Learn how to install Visual Studio 2008 Team Foundation Server SP1 smoothly with expert tips, a detailed release plan, and troubleshooting advice.
 ResourceId: DLfCYd5JcOQ
+ResourceImport: true
+ResourceImportId: 79
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-11-12
 creator: Martin Hinshelwood
 id: "79"
@@ -12,6 +16,9 @@ aliases:
 - /blog/installing-visual-studio-2008-team-foundation-server-sp1
 - /installing-visual-studio-2008-team-foundation-server-sp1
 - /resources/DLfCYd5JcOQ
+aliasesFor404:
+- /installing-visual-studio-2008-team-foundation-server-sp1
+- /blog/installing-visual-studio-2008-team-foundation-server-sp1
 tags:
 - moss2007
 - sharepoint

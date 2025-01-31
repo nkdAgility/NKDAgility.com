@@ -2,6 +2,10 @@
 title: The High of Release
 description: Explore the new web-based Release Management tools from Microsoft, designed to enhance DevOps and streamline your release pipelines for engineering excellence.
 ResourceId: akntzjbRQe2
+ResourceImport: true
+ResourceImportId: 11398
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2015-12-05
 creator: Martin Hinshelwood
 id: "11398"
@@ -12,6 +16,9 @@ aliases:
 - /blog/the-high-of-release
 - /the-high-of-release
 - /resources/akntzjbRQe2
+aliasesFor404:
+- /the-high-of-release
+- /blog/the-high-of-release
 tags:
 - developers
 categories:

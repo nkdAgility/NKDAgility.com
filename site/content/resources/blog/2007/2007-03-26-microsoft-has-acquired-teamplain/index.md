@@ -2,6 +2,10 @@
 title: Microsoft has acquired TeamPlain
 description: Discover how Microsoft’s acquisition of TeamPlain offers free access to powerful tools for enhancing your Visual Studio 2005 experience. Download now!
 ResourceId: uXJxvyaVhda
+ResourceImport: true
+ResourceImportId: 425
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-03-26
 creator: Martin Hinshelwood
 id: "425"
@@ -12,6 +16,9 @@ aliases:
 - /blog/microsoft-has-acquired-teamplain
 - /microsoft-has-acquired-teamplain
 - /resources/uXJxvyaVhda
+aliasesFor404:
+- /microsoft-has-acquired-teamplain
+- /blog/microsoft-has-acquired-teamplain
 tags:
 - tfs
 - tfs2005

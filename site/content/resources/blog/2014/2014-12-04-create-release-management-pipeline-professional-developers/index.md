@@ -2,6 +2,10 @@
 title: Create a Release Management pipeline for Professional Developers
 description: Learn to create a Release Management pipeline for developers, enhancing automation and deployment efficiency with Team Foundation Server. Dive in now!
 ResourceId: WYBOx1X0R-3
+ResourceImport: true
+ResourceImportId: 10970
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2014-12-04
 creator: Martin Hinshelwood
 id: "10970"
@@ -14,6 +18,11 @@ aliases:
 - /create-a-release-management-pipeline-for-professional-developers
 - /blog/create-a-release-management-pipeline-for-professional-developers
 - /resources/WYBOx1X0R-3
+aliasesFor404:
+- /create-release-management-pipeline-professional-developers
+- /blog/create-release-management-pipeline-professional-developers
+- /create-a-release-management-pipeline-for-professional-developers
+- /blog/create-a-release-management-pipeline-for-professional-developers
 tags:
 - development-team
 - devops

@@ -2,6 +2,10 @@
 title: TFS Sticky Buddy v2.0
 description: Discover the new features of TFS Sticky Buddy v2.0! Explore its improved interface and modular design, and share your ideas on Codeplex today!
 ResourceId: fxUFeDoOsrZ
+ResourceImport: true
+ResourceImportId: 174
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-11-03
 creator: Martin Hinshelwood
 id: "174"
@@ -12,6 +16,9 @@ aliases:
 - /blog/tfs-sticky-buddy-v2-0
 - /tfs-sticky-buddy-v2-0
 - /resources/fxUFeDoOsrZ
+aliasesFor404:
+- /tfs-sticky-buddy-v2-0
+- /blog/tfs-sticky-buddy-v2-0
 tags:
 - tfs-sticky-buddy
 - tools

@@ -2,6 +2,10 @@
 title: 'TFS EventHandler: Now on CodePlex'
 description: Discover the TFS EventHandler now on CodePlex! Join the development journey as it transitions to a more reliable system. Get involved and share your thoughts!
 ResourceId: 24Qmd0tzO5s
+ResourceImport: true
+ResourceImportId: 408
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-04-30
 creator: Martin Hinshelwood
 id: "408"
@@ -14,6 +18,11 @@ aliases:
 - /tfs-eventhandler--now-on-codeplex
 - /blog/tfs-eventhandler--now-on-codeplex
 - /resources/24Qmd0tzO5s
+aliasesFor404:
+- /tfs-eventhandler-now-on-codeplex
+- /blog/tfs-eventhandler-now-on-codeplex
+- /tfs-eventhandler--now-on-codeplex
+- /blog/tfs-eventhandler--now-on-codeplex
 tags:
 - tfs-event-handler
 - wit

@@ -2,6 +2,10 @@
 title: What is the Tfs Automation Platform
 description: Discover the TFS Automation Platform, designed to streamline iteration management and enhance automation in TFS. Unlock efficiency in your development process!
 ResourceId: AavdFKxGJg9
+ResourceImport: true
+ResourceImportId: 3373
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2011-05-31
 creator: Martin Hinshelwood
 id: "3373"
@@ -12,6 +16,9 @@ aliases:
 - /blog/what-is-the-tfs-automation-platform
 - /what-is-the-tfs-automation-platform
 - /resources/AavdFKxGJg9
+aliasesFor404:
+- /what-is-the-tfs-automation-platform
+- /blog/what-is-the-tfs-automation-platform
 tags:
 - nwcadence
 - tfs

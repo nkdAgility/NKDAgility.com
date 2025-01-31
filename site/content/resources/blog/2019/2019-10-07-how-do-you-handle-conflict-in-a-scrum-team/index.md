@@ -2,6 +2,10 @@
 title: How do you handle conflict in a Scrum Team?
 description: Discover effective strategies for resolving conflicts in Scrum teams. Learn from expert Martin Hinshelwood on fostering collaboration and team harmony.
 ResourceId: xIWBb8Cy_Rv
+ResourceImport: true
+ResourceImportId: 39851
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2019-10-07
 creator: Martin Hinshelwood
 id: "39851"
@@ -14,6 +18,11 @@ aliases:
 - /how-do-you-handle-conflict-in-a-scrum-team-
 - /blog/how-do-you-handle-conflict-in-a-scrum-team-
 - /resources/xIWBb8Cy_Rv
+aliasesFor404:
+- /how-do-you-handle-conflict-in-a-scrum-team
+- /blog/how-do-you-handle-conflict-in-a-scrum-team
+- /how-do-you-handle-conflict-in-a-scrum-team-
+- /blog/how-do-you-handle-conflict-in-a-scrum-team-
 tags:
 - scrum-master
 categories:

@@ -2,6 +2,10 @@
 title: 'Windows 8 Issue: Local network is detected as public'
 description: Discover how to resolve Windows 8's issue of local networks being misidentified as public. Learn effective workarounds for Hyper-V users to enhance connectivity.
 ResourceId: Ws3mtPZiqjo
+ResourceImport: true
+ResourceImportId: 6924
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2012-08-02
 creator: Martin Hinshelwood
 id: "6924"
@@ -14,6 +18,11 @@ aliases:
 - /windows-8-issue--local-network-is-detected-as-public
 - /blog/windows-8-issue--local-network-is-detected-as-public
 - /resources/Ws3mtPZiqjo
+aliasesFor404:
+- /windows-8-issue-local-network-is-detected-as-public
+- /blog/windows-8-issue-local-network-is-detected-as-public
+- /windows-8-issue--local-network-is-detected-as-public
+- /blog/windows-8-issue--local-network-is-detected-as-public
 tags:
 - puzzles
 - vsip

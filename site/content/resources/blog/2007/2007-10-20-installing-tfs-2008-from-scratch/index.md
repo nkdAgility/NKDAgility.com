@@ -2,6 +2,10 @@
 title: Installing TFS 2008 from scratch
 description: Learn how to install TFS 2008 from scratch with expert tips on setup, reporting, and SharePoint integration. Simplify your deployment process today!
 ResourceId: 90J7b6pXQm3
+ResourceImport: true
+ResourceImportId: 297
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-10-20
 creator: Martin Hinshelwood
 id: "297"
@@ -12,6 +16,9 @@ aliases:
 - /blog/installing-tfs-2008-from-scratch
 - /installing-tfs-2008-from-scratch
 - /resources/90J7b6pXQm3
+aliasesFor404:
+- /installing-tfs-2008-from-scratch
+- /blog/installing-tfs-2008-from-scratch
 tags:
 - sp2007
 - tfs

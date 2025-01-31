@@ -2,6 +2,10 @@
 title: Windows 7 RC
 description: Discover the Windows 7 Release Candidate, available soon for developers. Get insights, updates, and tips for installation from the Windows Team Blog!
 ResourceId: Rb281yyb0Cl
+ResourceImport: true
+ResourceImportId: 128
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-05-01
 creator: Martin Hinshelwood
 id: "128"
@@ -12,6 +16,9 @@ aliases:
 - /blog/windows-7-rc
 - /windows-7-rc
 - /resources/Rb281yyb0Cl
+aliasesFor404:
+- /windows-7-rc
+- /blog/windows-7-rc
 tags:
 - tools
 preview: nakedalm-logo-128-link-1-1.png

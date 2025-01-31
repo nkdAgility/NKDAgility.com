@@ -11,8 +11,7 @@ contributors:
 layout: blog
 resourceTypes: blog
 slug: delivery-is-the-only-measure-of-progress
-aliases:
-- /resources/jBIyK6NW3ZB
+aliases: /resources/jBIyK6NW3ZB
 tags:
 - Delivery
 - Accountability

@@ -2,6 +2,10 @@
 title: Visual Studio 2008 Team Edition for Architects
 description: Explore the limitations of Visual Studio 2008 Team Edition for Architects, focusing on the lack of WCF support in the application diagram. Discover insights now!
 ResourceId: wPAkb39sRlH
+ResourceImport: true
+ResourceImportId: 324
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-21
 creator: Martin Hinshelwood
 id: "324"
@@ -12,6 +16,9 @@ aliases:
 - /blog/visual-studio-2008-team-edition-for-architects
 - /visual-studio-2008-team-edition-for-architects
 - /resources/wPAkb39sRlH
+aliasesFor404:
+- /visual-studio-2008-team-edition-for-architects
+- /blog/visual-studio-2008-team-edition-for-architects
 tags:
 - visual-studio
 - vs2008

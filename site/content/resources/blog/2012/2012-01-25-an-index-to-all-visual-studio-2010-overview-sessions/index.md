@@ -2,6 +2,10 @@
 title: Visual Studio 2010 Overview Webcasts
 description: Explore essential webcasts on Visual Studio 2010 and Team Foundation Server features. Enhance your ALM knowledge with engaging overviews and insights!
 ResourceId: _EPy7wea5xE
+ResourceImport: true
+ResourceImportId: 4128
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2012-01-25
 creator: Martin Hinshelwood
 id: "4128"
@@ -14,6 +18,11 @@ aliases:
 - /visual-studio-2010-overview-webcasts
 - /blog/visual-studio-2010-overview-webcasts
 - /resources/_EPy7wea5xE
+aliasesFor404:
+- /an-index-to-all-visual-studio-2010-overview-sessions
+- /blog/an-index-to-all-visual-studio-2010-overview-sessions
+- /visual-studio-2010-overview-webcasts
+- /blog/visual-studio-2010-overview-webcasts
 tags:
 - modern-alm
 - nwcadence

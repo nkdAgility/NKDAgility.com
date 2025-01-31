@@ -2,6 +2,10 @@
 title: 'TFS Event Handler: CTP 1 Delayed'
 description: Discover the delays in the TFS Event Handler CTP 1 and explore enhancements made to improve functionality. Stay updated on development progress!
 ResourceId: m_vdrvzZrol
+ResourceImport: true
+ResourceImportId: 381
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-06-17
 creator: Martin Hinshelwood
 id: "381"
@@ -14,6 +18,11 @@ aliases:
 - /tfs-event-handler--ctp-1-delayed
 - /blog/tfs-event-handler--ctp-1-delayed
 - /resources/m_vdrvzZrol
+aliasesFor404:
+- /tfs-event-handler-ctp-1-delayed
+- /blog/tfs-event-handler-ctp-1-delayed
+- /tfs-event-handler--ctp-1-delayed
+- /blog/tfs-event-handler--ctp-1-delayed
 tags:
 - tfs-event-handler
 - wit

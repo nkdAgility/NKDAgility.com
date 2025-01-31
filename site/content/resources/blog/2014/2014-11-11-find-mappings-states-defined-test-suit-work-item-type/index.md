@@ -2,6 +2,10 @@
 title: Could not find mappings for all states defined in 'Test Suit' work item type
 description: Resolve the 'Could not find mappings for all states' error in TFS 2013.3 with our expert solutions. Ensure smooth test management and avoid case issues!
 ResourceId: tAug7ZHHqTM
+ResourceImport: true
+ResourceImportId: 10899
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2014-11-11
 creator: Martin Hinshelwood
 id: "10899"
@@ -14,6 +18,11 @@ aliases:
 - /could-not-find-mappings-for-all-states-defined-in-'test-suit'-work-item-type
 - /blog/could-not-find-mappings-for-all-states-defined-in-'test-suit'-work-item-type
 - /resources/tAug7ZHHqTM
+aliasesFor404:
+- /find-mappings-states-defined-test-suit-work-item-type
+- /blog/find-mappings-states-defined-test-suit-work-item-type
+- /could-not-find-mappings-for-all-states-defined-in-'test-suit'-work-item-type
+- /blog/could-not-find-mappings-for-all-states-defined-in-'test-suit'-work-item-type
 tags:
 - mtm
 - test-management

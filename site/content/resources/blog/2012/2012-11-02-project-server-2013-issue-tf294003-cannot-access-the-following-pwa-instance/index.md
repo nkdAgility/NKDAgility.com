@@ -2,6 +2,10 @@
 title: 'Project Server 2013 Issue - TF294003: Cannot access the following PWA instance'
 description: Resolve the TF294003 error in Project Server 2013 with our step-by-step guide. Learn how to configure permissions for seamless integration with TFS 2012.
 ResourceId: YXA8oHuhkaD
+ResourceImport: true
+ResourceImportId: 9096
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2012-11-02
 creator: Martin Hinshelwood
 id: "9096"
@@ -15,6 +19,11 @@ aliases:
 - /project-server-2013-issue---tf294003--cannot-access-the-following-pwa-instance
 - /blog/project-server-2013-issue---tf294003--cannot-access-the-following-pwa-instance
 - /resources/YXA8oHuhkaD
+aliasesFor404:
+- /project-server-2013-issue-tf294003-cannot-access-the-following-pwa-instance
+- /blog/project-server-2013-issue-tf294003-cannot-access-the-following-pwa-instance
+- /project-server-2013-issue---tf294003--cannot-access-the-following-pwa-instance
+- /blog/project-server-2013-issue---tf294003--cannot-access-the-following-pwa-instance
 tags:
 - configuration
 - infrastructure

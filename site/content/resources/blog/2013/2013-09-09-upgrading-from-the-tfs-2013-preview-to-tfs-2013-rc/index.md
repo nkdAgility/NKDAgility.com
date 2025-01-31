@@ -2,6 +2,10 @@
 title: Upgrading from the TFS 2013 Preview to TFS 2013 RC
 description: Learn how to smoothly upgrade from TFS 2013 Preview to TFS 2013 RC with expert tips and a step-by-step guide for a hassle-free transition.
 ResourceId: WlTNhsC5jek
+ResourceImport: true
+ResourceImportId: 10041
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2013-09-09
 creator: Martin Hinshelwood
 id: "10041"
@@ -12,6 +16,9 @@ aliases:
 - /blog/upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
 - /upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
 - /resources/WlTNhsC5jek
+aliasesFor404:
+- /upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
+- /blog/upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
 tags:
 - tfs
 - tfs-2013

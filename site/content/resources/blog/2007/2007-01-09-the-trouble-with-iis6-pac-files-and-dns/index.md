@@ -2,6 +2,10 @@
 title: The trouble with IIS6, .pac files and DNS
 description: Explore the challenges of using IIS6 with .pac files and DNS. Learn practical solutions to common proxy server issues in this insightful blog post.
 ResourceId: R2MUioX4tLG
+ResourceImport: true
+ResourceImportId: 448
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-01-09
 creator: Martin Hinshelwood
 id: "448"
@@ -14,6 +18,13 @@ aliases:
 - /the-trouble-with-iis6,--pac-files-and-dns
 - /blog/the-trouble-with-iis6,--pac-files-and-dns
 - /resources/R2MUioX4tLG
+- /the-trouble-with-iis6---pac-files-and-dns
+- /blog/the-trouble-with-iis6---pac-files-and-dns
+aliasesFor404:
+- /the-trouble-with-iis6-pac-files-and-dns
+- /blog/the-trouble-with-iis6-pac-files-and-dns
+- /the-trouble-with-iis6,--pac-files-and-dns
+- /blog/the-trouble-with-iis6,--pac-files-and-dns
 tags:
 - network
 preview: nakedalm-logo-128-link-1-1.png

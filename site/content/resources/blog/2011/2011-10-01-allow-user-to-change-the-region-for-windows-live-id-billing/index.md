@@ -2,6 +2,10 @@
 title: Allow user to change the region for Windows Live ID billing
 description: Discover how to navigate the challenges of changing your Windows Live ID billing region. Learn from real experiences and advocate for better solutions!
 ResourceId: v_DNTz1r6-H
+ResourceImport: true
+ResourceImportId: 3830
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2011-10-01
 creator: Martin Hinshelwood
 id: "3830"
@@ -12,6 +16,9 @@ aliases:
 - /blog/allow-user-to-change-the-region-for-windows-live-id-billing
 - /allow-user-to-change-the-region-for-windows-live-id-billing
 - /resources/v_DNTz1r6-H
+aliasesFor404:
+- /allow-user-to-change-the-region-for-windows-live-id-billing
+- /blog/allow-user-to-change-the-region-for-windows-live-id-billing
 tags:
 - tfs
 - win8

@@ -2,6 +2,10 @@
 title: Do you know the minimum builds to create on any branch?
 description: Discover the essential builds for any branch in your project. Learn how to set up Gate, CI, and Nightly builds to ensure code quality and collaboration.
 ResourceId: wPA1p1UQ6Bi
+ResourceImport: true
+ResourceImportId: 60
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-18
 creator: Martin Hinshelwood
 id: "60"
@@ -14,6 +18,11 @@ aliases:
 - /do-you-know-the-minimum-builds-to-create-on-any-branch-
 - /blog/do-you-know-the-minimum-builds-to-create-on-any-branch-
 - /resources/wPA1p1UQ6Bi
+aliasesFor404:
+- /do-you-know-the-minimum-builds-to-create-on-any-branch
+- /blog/do-you-know-the-minimum-builds-to-create-on-any-branch
+- /do-you-know-the-minimum-builds-to-create-on-any-branch-
+- /blog/do-you-know-the-minimum-builds-to-create-on-any-branch-
 tags:
 - automated-build
 - ssw

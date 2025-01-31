@@ -2,6 +2,10 @@
 title: Branch madness!
 description: Explore the chaos of branching in TFS and learn how to regain control of your source code. Discover essential steps to streamline your development process!
 ResourceId: s2fykp0ti2Y
+ResourceImport: true
+ResourceImportId: 186
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-10-22
 creator: Martin Hinshelwood
 id: "186"
@@ -14,6 +18,11 @@ aliases:
 - /branch-madness-
 - /blog/branch-madness-
 - /resources/s2fykp0ti2Y
+aliasesFor404:
+- /branch-madness
+- /blog/branch-madness
+- /branch-madness-
+- /blog/branch-madness-
 tags:
 - tools
 preview: nakedalm-logo-128-link-2-1.png

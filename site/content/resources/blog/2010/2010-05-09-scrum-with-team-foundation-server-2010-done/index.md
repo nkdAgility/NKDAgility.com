@@ -2,6 +2,10 @@
 title: Scrum with Team Foundation Server 2010 Done
 description: Explore effective project management with Scrum and Team Foundation Server 2010. Discover insights from DDD Scotland and enhance your agile practices!
 ResourceId: FjHIetvnkDz
+ResourceImport: true
+ResourceImportId: 43
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-05-09
 creator: Martin Hinshelwood
 id: "43"
@@ -12,6 +16,9 @@ aliases:
 - /blog/scrum-with-team-foundation-server-2010-done
 - /scrum-with-team-foundation-server-2010-done
 - /resources/FjHIetvnkDz
+aliasesFor404:
+- /scrum-with-team-foundation-server-2010-done
+- /blog/scrum-with-team-foundation-server-2010-done
 tags:
 - agile
 - develop

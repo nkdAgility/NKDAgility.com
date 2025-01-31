@@ -2,6 +2,10 @@
 title: Head First Design Patterns
 description: Discover how 'Head First Design Patterns' revolutionizes learning for developers, especially those with dyslexia, through engaging visuals and effective techniques.
 ResourceId: EFWY-8yQI--
+ResourceImport: true
+ResourceImportId: 137
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-02-17
 creator: Martin Hinshelwood
 id: "137"
@@ -12,6 +16,9 @@ aliases:
 - /blog/head-first-design-patterns
 - /head-first-design-patterns
 - /resources/EFWY-8yQI--
+aliasesFor404:
+- /head-first-design-patterns
+- /blog/head-first-design-patterns
 tags:
 - code
 - develop

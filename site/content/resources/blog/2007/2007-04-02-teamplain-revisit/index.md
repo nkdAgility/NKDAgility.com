@@ -2,6 +2,10 @@
 title: TeamPlain - Revisit
 description: Discover a clever workaround for long project names in TeamPlain. Enhance your project management with this practical JavaScript solution. Read more!
 ResourceId: 74iowBMHVfu
+ResourceImport: true
+ResourceImportId: 419
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-04-02
 creator: Martin Hinshelwood
 id: "419"
@@ -14,6 +18,11 @@ aliases:
 - /teamplain---revisit
 - /blog/teamplain---revisit
 - /resources/74iowBMHVfu
+aliasesFor404:
+- /teamplain-revisit
+- /blog/teamplain-revisit
+- /teamplain---revisit
+- /blog/teamplain---revisit
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

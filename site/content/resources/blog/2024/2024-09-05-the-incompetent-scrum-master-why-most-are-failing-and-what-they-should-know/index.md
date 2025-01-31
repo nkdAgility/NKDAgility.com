@@ -2,6 +2,10 @@
 title: Why Most Scrum Masters Are Failing and What They Should Know
 description: Discover why many Scrum Masters fail and learn essential skills for success. Elevate your Agile practices and ensure your team's effectiveness today!
 ResourceId: VTjU5Wl2XWU
+ResourceImport: true
+ResourceImportId: 51730
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2024-09-05
 AudioNative: true
 creator: Martin Hinshelwood
@@ -16,6 +20,11 @@ aliases:
 - /why-most-scrum-masters-are-failing-and-what-they-should-know
 - /blog/why-most-scrum-masters-are-failing-and-what-they-should-know
 - /resources/VTjU5Wl2XWU
+aliasesFor404:
+- /the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
+- /blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
+- /why-most-scrum-masters-are-failing-and-what-they-should-know
+- /blog/why-most-scrum-masters-are-failing-and-what-they-should-know
 tags:
 - Scrum Masters
 categories:

@@ -2,6 +2,10 @@
 title: Upgrading to Team Foundation Server 2012 Update 1
 description: Upgrade your Team Foundation Server to 2012 Update 1 effortlessly with our step-by-step guide. Ensure a smooth transition and enhance your development environment!
 ResourceId: vKHJlHHjnpC
+ResourceImport: true
+ResourceImportId: 9161
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2012-11-30
 creator: Martin Hinshelwood
 id: "9161"
@@ -12,6 +16,9 @@ aliases:
 - /blog/upgrading-to-team-foundation-server-2012-update-1
 - /upgrading-to-team-foundation-server-2012-update-1
 - /resources/vKHJlHHjnpC
+aliasesFor404:
+- /upgrading-to-team-foundation-server-2012-update-1
+- /blog/upgrading-to-team-foundation-server-2012-update-1
 tags:
 - configuration
 - infrastructure

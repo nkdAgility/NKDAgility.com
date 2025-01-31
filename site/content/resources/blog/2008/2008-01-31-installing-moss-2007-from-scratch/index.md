@@ -2,6 +2,10 @@
 title: Installing MOSS 2007 from scratch
 description: Learn how to install Microsoft Office SharePoint Server 2007 from scratch, including essential updates and configurations for a successful setup.
 ResourceId: JkKTE2p0wpo
+ResourceImport: true
+ResourceImportId: 253
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-01-31
 creator: Martin Hinshelwood
 id: "253"
@@ -12,6 +16,9 @@ aliases:
 - /blog/installing-moss-2007-from-scratch
 - /installing-moss-2007-from-scratch
 - /resources/JkKTE2p0wpo
+aliasesFor404:
+- /installing-moss-2007-from-scratch
+- /blog/installing-moss-2007-from-scratch
 tags:
 - configuration
 - infrastructure

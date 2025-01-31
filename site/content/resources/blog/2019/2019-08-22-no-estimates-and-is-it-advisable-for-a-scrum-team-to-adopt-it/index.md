@@ -2,6 +2,10 @@
 title: No Estimates and is it advisable for a Scrum Team to adopt it?
 description: Explore the pros and cons of adopting No Estimates for Scrum Teams. Discover how to optimize your workflow and enhance team communication effectively.
 ResourceId: Lv1CLfk5cPM
+ResourceImport: true
+ResourceImportId: 39684
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2019-08-22
 creator: Martin Hinshelwood
 id: "39684"
@@ -14,6 +18,11 @@ aliases:
 - /no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it-
 - /blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it-
 - /resources/Lv1CLfk5cPM
+aliasesFor404:
+- /no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
+- /blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
+- /no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it-
+- /blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it-
 tags:
 - cycle-time
 - flow

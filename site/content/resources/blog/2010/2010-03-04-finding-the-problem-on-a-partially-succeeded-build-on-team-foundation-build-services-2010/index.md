@@ -2,6 +2,10 @@
 title: Finding the problem on a partially succeeded build on Team Foundation Build Services 2010
 description: Discover how to troubleshoot partially succeeded builds in TFS 2010. Learn effective strategies to identify and resolve issues for smoother development.
 ResourceId: YBExXvBtNAN
+ResourceImport: true
+ResourceImportId: 66
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-04
 creator: Martin Hinshelwood
 id: "66"
@@ -12,6 +16,9 @@ aliases:
 - /blog/finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
 - /finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
 - /resources/YBExXvBtNAN
+aliasesFor404:
+- /finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
+- /blog/finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
 tags:
 - automated-build
 - scrum

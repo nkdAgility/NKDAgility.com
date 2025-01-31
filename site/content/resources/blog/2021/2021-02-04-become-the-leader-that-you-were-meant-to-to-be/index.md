@@ -2,6 +2,10 @@
 title: Become the leader that you were meant to to be
 description: Unlock your leadership potential! Discover how to inspire and lead effectively in modern organizations. Become the leader you were meant to be!
 ResourceId: -Oo9b3G-8Zw
+ResourceImport: true
+ResourceImportId: 45806
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2021-02-04
 AudioNative: true
 creator: Martin Hinshelwood
@@ -13,6 +17,9 @@ aliases:
 - /blog/become-the-leader-that-you-were-meant-to-to-be
 - /become-the-leader-that-you-were-meant-to-to-be
 - /resources/-Oo9b3G-8Zw
+aliasesFor404:
+- /become-the-leader-that-you-were-meant-to-to-be
+- /blog/become-the-leader-that-you-were-meant-to-to-be
 tags:
 - featured
 - leadership-track

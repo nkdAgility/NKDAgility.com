@@ -2,6 +2,10 @@
 title: Disable a timer at every level of your ASP.NET control hierarchy
 description: Learn how to disable timers in your ASP.NET control hierarchy effortlessly. Discover a simple extension method to enhance user experience on your web pages!
 ResourceId: DPQr4iigMBP
+ResourceImport: true
+ResourceImportId: 98
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-07-22
 creator: Martin Hinshelwood
 id: "98"
@@ -12,6 +16,9 @@ aliases:
 - /blog/disable-a-timer-at-every-level-of-your-asp-net-control-hierarchy
 - /disable-a-timer-at-every-level-of-your-asp-net-control-hierarchy
 - /resources/DPQr4iigMBP
+aliasesFor404:
+- /disable-a-timer-at-every-level-of-your-asp-net-control-hierarchy
+- /blog/disable-a-timer-at-every-level-of-your-asp-net-control-hierarchy
 tags:
 - aggreko
 - code

@@ -2,6 +2,10 @@
 title: Information Sync
 description: Discover effective solutions for syncing contacts and calendars with Plaxo. Learn how to streamline your mobile and online tools for better organization!
 ResourceId: 8wFrWRJNJT9
+ResourceImport: true
+ResourceImportId: 279
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-12-13
 creator: Martin Hinshelwood
 id: "279"
@@ -12,6 +16,9 @@ aliases:
 - /blog/information-sync
 - /information-sync
 - /resources/8wFrWRJNJT9
+aliasesFor404:
+- /information-sync
+- /blog/information-sync
 tags:
 - windows-mobile-6
 categories:

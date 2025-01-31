@@ -17,8 +17,7 @@ contributors:
 layout: blog
 resourceTypes: blog
 slug: the-scrum-master-is-accountable-for-delivery
-aliases:
-- /resources/yMnia2DLI6q
+aliases: /resources/yMnia2DLI6q
 tags:
 - Scrum Master
 - Delivery

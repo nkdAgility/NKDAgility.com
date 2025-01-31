@@ -2,6 +2,10 @@
 title: Creating nested teams in Visual Studio ALM
 description: Learn how to create nested teams in Visual Studio ALM for better organization and reporting. Enhance your agile processes with expert insights from Martin Hinshelwood.
 ResourceId: wu1tvjyyrZU
+ResourceImport: true
+ResourceImportId: 11068
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2015-01-13
 creator: Martin Hinshelwood
 id: "11068"
@@ -14,6 +18,11 @@ aliases:
 - /creating-nested-teams-in-visual-studio-alm
 - /blog/creating-nested-teams-in-visual-studio-alm
 - /resources/wu1tvjyyrZU
+aliasesFor404:
+- /creating-nested-teams-visual-studio-alm
+- /blog/creating-nested-teams-visual-studio-alm
+- /creating-nested-teams-in-visual-studio-alm
+- /blog/creating-nested-teams-in-visual-studio-alm
 tags:
 - team-field
 - teams

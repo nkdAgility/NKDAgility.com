@@ -2,6 +2,10 @@
 title: 'Naked ALM: starting with why and getting naked'
 description: Discover the essence of Application Lifecycle Management with Martin Hinshelwood. Learn to improve software delivery by starting with 'why' and embracing agility.
 ResourceId: SrQHWVkcvAL
+ResourceImport: true
+ResourceImportId: 9499
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2013-05-02
 creator: Martin Hinshelwood
 id: "9499"
@@ -14,6 +18,11 @@ aliases:
 - /naked-alm--starting-with-why-and-getting-naked
 - /blog/naked-alm--starting-with-why-and-getting-naked
 - /resources/SrQHWVkcvAL
+aliasesFor404:
+- /naked-alm-starting-with-why-and-getting-naked
+- /blog/naked-alm-starting-with-why-and-getting-naked
+- /naked-alm--starting-with-why-and-getting-naked
+- /blog/naked-alm--starting-with-why-and-getting-naked
 tags:
 - golden-circle
 - improve

@@ -2,6 +2,10 @@
 title: 100,000 Visits
 description: Celebrate the milestone of 100,000 visits! Discover insights on site traffic, browser share, and global reach from a Glasgow developer's perspective.
 ResourceId: gnzE3Qr_jz-
+ResourceImport: true
+ResourceImportId: 167
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-11-18
 creator: Martin Hinshelwood
 id: "167"
@@ -14,6 +18,13 @@ aliases:
 - /100,000-visits
 - /blog/100,000-visits
 - /resources/gnzE3Qr_jz-
+- /100-000-visits
+- /blog/100-000-visits
+aliasesFor404:
+- /100000-visits
+- /blog/100000-visits
+- /100,000-visits
+- /blog/100,000-visits
 tags:
 - answers
 categories:

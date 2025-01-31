@@ -2,6 +2,10 @@
 title: Removing ACL's for dead AD accounts
 description: Learn how to effectively remove ACLs for inactive Active Directory accounts with a practical application and troubleshooting tips. Streamline your infrastructure now!
 ResourceId: l3dnUvBZV8r
+ResourceImport: true
+ResourceImportId: 262
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-01-22
 creator: Martin Hinshelwood
 id: "262"
@@ -14,6 +18,11 @@ aliases:
 - /removing-acl's-for-dead-ad-accounts
 - /blog/removing-acl's-for-dead-ad-accounts
 - /resources/l3dnUvBZV8r
+aliasesFor404:
+- /removing-acls-for-dead-ad-accounts
+- /blog/removing-acls-for-dead-ad-accounts
+- /removing-acl's-for-dead-ad-accounts
+- /blog/removing-acl's-for-dead-ad-accounts
 tags:
 - code
 - infrastructure

@@ -2,6 +2,10 @@
 title: .NET Framework 3.0
 description: Discover the power of .NET Framework 3.0! Learn how WCF enhances code quality and developer productivity with cleaner, more functional applications.
 ResourceId: 8jxki9iqNyC
+ResourceImport: true
+ResourceImportId: 462
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2006-11-11
 creator: Martin Hinshelwood
 id: "462"
@@ -14,6 +18,11 @@ aliases:
 - /-net-framework-3-0
 - /blog/-net-framework-3-0
 - /resources/8jxki9iqNyC
+aliasesFor404:
+- /net-framework-3-0
+- /blog/net-framework-3-0
+- /-net-framework-3-0
+- /blog/-net-framework-3-0
 tags:
 - code
 - service-oriented-architecture

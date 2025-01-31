@@ -2,6 +2,10 @@
 title: TeamPlain - Install and initial views
 description: Discover how to quickly install TeamPlain and explore its features for enhanced web access. Overcome project name challenges and improve user experience!
 ResourceId: SlsFZ5kO1Jc
+ResourceImport: true
+ResourceImportId: 421
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-03-27
 creator: Martin Hinshelwood
 id: "421"
@@ -14,6 +18,11 @@ aliases:
 - /teamplain---install-and-initial-views
 - /blog/teamplain---install-and-initial-views
 - /resources/SlsFZ5kO1Jc
+aliasesFor404:
+- /teamplain-install-and-initial-views
+- /blog/teamplain-install-and-initial-views
+- /teamplain---install-and-initial-views
+- /blog/teamplain---install-and-initial-views
 tags:
 - vs2005
 categories:
