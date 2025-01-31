@@ -8,13 +8,14 @@ creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
 slug: no-such-thing-as-a-junior-scrum-master
-aliases:
-  - /resources/f2RQh2UCwqB
+aliases: /resources/f2RQh2UCwqB
 tags:
-  - Scrum Master
-  - Scrum
-  - Competence
+- Scrum Master
+- Scrum
+- Competence
 categories:
-  - People & Teams
+- People & Teams
 preview: 2025-02-10-no-such-thing-as-a-junior-scrum-master.jpg
+
 ---
+
