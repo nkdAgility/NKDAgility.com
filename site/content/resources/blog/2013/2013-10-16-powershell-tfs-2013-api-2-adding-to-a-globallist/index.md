@@ -1,5 +1,5 @@
 ---
-title: 'PowerShell TFS 2013 API #2 - Adding to a GlobalList'
+title: "PowerShell TFS 2013 API #2 - Adding to a GlobalList"
 description: Learn how to enhance your TFS 2013 Global List using PowerShell. Automate team field additions effortlessly with our step-by-step guide and reusable functions.
 ResourceId: Y2XTGIaY_Os
 date: 2013-10-16
@@ -9,27 +9,23 @@ layout: blog
 resourceTypes: blog
 slug: powershell-tfs-2013-api-2-adding-to-a-globallist
 aliases:
-- /blog/powershell-tfs-2013-api-2-adding-to-a-globallist
-- /powershell-tfs-2013-api-2-adding-to-a-globallist
-- /powershell-tfs-2013-api--2
-- /powershell-tfs-2013-api--2---adding-to-a-globallist
-- /blog/powershell-tfs-2013-api--2---adding-to-a-globallist
-- /resources/Y2XTGIaY_Os
-
----
-adding-to-a-globallist
-- /blog/powershell-tfs-2013-api--2---adding-to-a-globallist
+  - /blog/powershell-tfs-2013-api-2-adding-to-a-globallist
+  - /powershell-tfs-2013-api-2-adding-to-a-globallist
+  - /powershell-tfs-2013-api--2
+  - /powershell-tfs-2013-api--2---adding-to-a-globallist
+  - /blog/powershell-tfs-2013-api--2---adding-to-a-globallist
+  - /resources/Y2XTGIaY_Os
 tags:
-- globallist
-- powershell
-- tfs
-- tfs-2013
-- workitemstore
+  - globallist
+  - powershell
+  - tfs
+  - tfs-2013
+  - workitemstore
 categories:
-- code-and-complexity
+  - code-and-complexity
 preview: metro-powershell-logo-1-1.png
-
 ---
+
 Using the TFS 2013 API along with a little PowerShell we can add a ‘team field’ to our global list.
 
 I have been working a lot with PowerShell recently and I have been stuck by its flexibility even when calling standard .NET API’s.  You should start with g[eting the TFS Collection](http://nkdagility.com/powershell-tfs-2013-api-0-get-tfscollection-and-tfs-services/ "Get TFS Collection") which will give you basic connectivity and imports required to get started. If we want to use 'team field' we may want to automate some of the activities that we need to make it happen slickly. You will have created a Global List for your 'team field' and you will want to add new entries. You can add them manually, or you can hit the TFS API to give you a leg up...

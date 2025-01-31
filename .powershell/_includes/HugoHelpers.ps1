@@ -29,7 +29,7 @@ function Get-HugoMarkdown {
     $content = Get-Content -Path $Path -Raw
 
     # Regular expression to match YAML front matter
-    if ($content -match '^(?s)---\s*(.*?)\s*---\s*(.*)$') {
+    if ($content -match '^(?s)---\s*\n(.*?)\n---\s*\n(.*)$') {
         $frontMatterContent = $matches[1]
         $bodyContent = $matches[2]
 

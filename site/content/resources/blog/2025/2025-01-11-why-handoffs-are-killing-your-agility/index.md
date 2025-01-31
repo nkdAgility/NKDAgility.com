@@ -9,8 +9,6 @@ layout: blog
 resourceTypes: blog
 slug: why-handoffs-are-killing-your-agility
 aliases:
-- /why-handoffs-are-killing-your-agility
-- /blog/why-handoffs-are-killing-your-agility
 - /resources/pDvDdIEi9sj
 tags:
 - handoffs

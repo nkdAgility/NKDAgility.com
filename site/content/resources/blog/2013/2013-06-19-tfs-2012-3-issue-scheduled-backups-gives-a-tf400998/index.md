@@ -9,29 +9,25 @@ layout: blog
 resourceTypes: blog
 slug: tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
 aliases:
-- /blog/tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
-- /tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
-- /tfs-2012-3-issue
-- /tfs-2012-3-issue---scheduled-backups-gives-a-tf400998-when-reconfigured
-- /blog/tfs-2012-3-issue---scheduled-backups-gives-a-tf400998-when-reconfigured
-- /resources/_XqGOC9TbpP
-
----
-scheduled-backups-gives-a-tf400998-when-reconfigured
-- /blog/tfs-2012-3-issue---scheduled-backups-gives-a-tf400998-when-reconfigured
+  - /blog/tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
+  - /tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
+  - /tfs-2012-3-issue
+  - /tfs-2012-3-issue---scheduled-backups-gives-a-tf400998-when-reconfigured
+  - /blog/tfs-2012-3-issue---scheduled-backups-gives-a-tf400998-when-reconfigured
+  - /resources/_XqGOC9TbpP
 tags:
-- configuration
-- puzzles
-- scheduled-backup
-- tf246017
-- tf254027
-- tf400998
+  - configuration
+  - puzzles
+  - scheduled-backup
+  - tf246017
+  - tf254027
+  - tf400998
 categories:
-- install-and-configuration
-- problems-and-puzzles
+  - install-and-configuration
+  - problems-and-puzzles
 preview: puzzle-issue-problem-128-link-3-3.png
-
 ---
+
 After a server migration Scheduled Backups gives a TF400998 when you try to reconfigure it. You may also see timeouts and errors when trying to add Team Foundation Console Users.
 
 ![image](images/image-1-1.png "image")  

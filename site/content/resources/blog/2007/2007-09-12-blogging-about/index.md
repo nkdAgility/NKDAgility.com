@@ -9,26 +9,21 @@ layout: blog
 resourceTypes: blog
 slug: blogging-about
 aliases:
-- /blog/blogging-about
-- /blogging-about
-- /blogging-about
-- /blogging-about---
-- /blog/blogging-about---
-- /resources/mYU-gZ_KBo3
-
----
-- /blog/blogging-about---
+  - /blog/blogging-about
+  - /blogging-about---
+  - /blog/blogging-about---
+  - /resources/mYU-gZ_KBo3
 tags:
-- tfs
-- tfs2008
-- visual-studio
-- vs2008
-- wcf
+  - tfs
+  - tfs2008
+  - visual-studio
+  - vs2008
+  - wcf
 categories:
-- me
+  - me
 preview: metro-visual-studio-2005-128-link-1-1.png
-
 ---
+
 Well, I have not done one of these is a while...I could say that I have been busy, but I have not been :)
 
 I have been finishing up at Merrill Lynch in lue of starting my new job at Aggreko, and as I finished up on Friday, and I don't start till Monday, you could say that I am currently Unemployed. If only for a week...

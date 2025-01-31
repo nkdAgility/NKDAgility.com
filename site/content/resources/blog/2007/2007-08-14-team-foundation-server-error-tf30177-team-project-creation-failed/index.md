@@ -1,5 +1,5 @@
 ---
-title: 'Team Foundation Server Error TF30177 : Team Project Creation Failed'
+title: "Team Foundation Server Error TF30177 : Team Project Creation Failed"
 description: Resolve the TF30177 error in Team Foundation Server with our step-by-step guide. Learn how to fix project creation issues and optimize your TFS setup.
 ResourceId: ovERk0hj1XD
 date: 2007-08-14
@@ -9,25 +9,20 @@ layout: blog
 resourceTypes: blog
 slug: team-foundation-server-error-tf30177-team-project-creation-failed
 aliases:
-- /blog/team-foundation-server-error-tf30177-team-project-creation-failed
-- /team-foundation-server-error-tf30177-team-project-creation-failed
-- /team-foundation-server-error-tf30177
-- /team-foundation-server-error-tf30177---team-project-creation-failed
-- /blog/team-foundation-server-error-tf30177---team-project-creation-failed
-- /resources/ovERk0hj1XD
-
----
-team-project-creation-failed
-- /blog/team-foundation-server-error-tf30177---team-project-creation-failed
+  - /blog/team-foundation-server-error-tf30177-team-project-creation-failed
+  - /team-foundation-server-error-tf30177-team-project-creation-failed
+  - /team-foundation-server-error-tf30177---team-project-creation-failed
+  - /blog/team-foundation-server-error-tf30177---team-project-creation-failed
+  - /resources/ovERk0hj1XD
 tags:
-- ml
-- tfs
-- tools
-- visual-studio
-- vs2005
+  - ml
+  - tfs
+  - tools
+  - visual-studio
+  - vs2005
 preview: metro-visual-studio-2005-128-link-1-1.png
-
 ---
+
 When you create your first project, you may get an error during the creation process. When you look at the log file and see a "proxy error" message detail it may be to do with the way that TFS installs.
 
 I  many large networks you can't connect to the server in the browser if you use the server name. This is because the proxy server is checking DNS for the name and unless you get every server in your company added to the proxy PAC file, you will get an error. To see if this is the issue try putting the server name into the browser:

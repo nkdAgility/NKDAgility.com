@@ -12,7 +12,12 @@ aliases:
 - /blog/team-server-event-handlers-made-easy
 - /team-server-event-handlers-made-easy
 - /team-server-event-handlers-made-easy
+- /team-server-event-handlers-made-easy
 - /team-server-event-handlers-made-easy---
+- /blog/team-server-event-handlers-made-easy---
+- /resources/NjGpMY3aKfH
+
+---
 - /blog/team-server-event-handlers-made-easy---
 - /resources/NjGpMY3aKfH
 

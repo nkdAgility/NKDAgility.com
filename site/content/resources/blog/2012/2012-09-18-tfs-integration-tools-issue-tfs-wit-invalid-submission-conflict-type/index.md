@@ -1,5 +1,5 @@
 ---
-title: 'TFS Integration Tools - Issue: TFS WIT invalid submission conflict type'
+title: "TFS Integration Tools - Issue: TFS WIT invalid submission conflict type"
 description: Resolve TFS WIT invalid submission conflicts with expert tips on configuration and permissions. Ensure smooth integration with TFS Integration Tools today!
 ResourceId: vrpjXVvhpYA
 date: 2012-09-18
@@ -9,25 +9,21 @@ layout: blog
 resourceTypes: blog
 slug: tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
 aliases:
-- /blog/tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
-- /tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
-- /tfs-integration-tools
-- /tfs-integration-tools---issue--tfs-wit-invalid-submission-conflict-type
-- /blog/tfs-integration-tools---issue--tfs-wit-invalid-submission-conflict-type
-- /resources/vrpjXVvhpYA
-
----
-issue--tfs-wit-invalid-submission-conflict-type
-- /blog/tfs-integration-tools---issue--tfs-wit-invalid-submission-conflict-type
+  - /blog/tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
+  - /tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
+  - /tfs-integration-tools
+  - /tfs-integration-tools---issue--tfs-wit-invalid-submission-conflict-type
+  - /blog/tfs-integration-tools---issue--tfs-wit-invalid-submission-conflict-type
+  - /resources/vrpjXVvhpYA
 tags:
-- puzzles
-- tfs2012
-- tfs-integration-platform
+  - puzzles
+  - tfs2012
+  - tfs-integration-platform
 categories:
-- problems-and-puzzles
+  - problems-and-puzzles
 preview: metro-problem-icon-2-2.png
-
 ---
+
 Immediately after configuring the TFS Integration Tools you receive a  TFS WIT invalid submission conflict type that states that the source item is invalid.
 
 [![image](images/image_thumb32-1-1.png "image")](http://blog.hinshelwood.com/files/2012/09/image32.png)  

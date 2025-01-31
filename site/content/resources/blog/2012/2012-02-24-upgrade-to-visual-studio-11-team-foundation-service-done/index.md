@@ -9,30 +9,26 @@ layout: blog
 resourceTypes: blog
 slug: upgrade-to-visual-studio-11-team-foundation-service-done
 aliases:
-- /blog/upgrade-to-visual-studio-11-team-foundation-service-done
-- /upgrade-to-visual-studio-11-team-foundation-service-done
-- /upgrade-to-visual-studio-11-team-foundation-service
-- /upgrade-to-visual-studio-11-team-foundation-service---done
-- /blog/upgrade-to-visual-studio-11-team-foundation-service---done
-- /resources/qZoGIj62YP4
-
----
-done
-- /blog/upgrade-to-visual-studio-11-team-foundation-service---done
+  - /blog/upgrade-to-visual-studio-11-team-foundation-service-done
+  - /upgrade-to-visual-studio-11-team-foundation-service-done
+  - /upgrade-to-visual-studio-11-team-foundation-service
+  - /upgrade-to-visual-studio-11-team-foundation-service---done
+  - /blog/upgrade-to-visual-studio-11-team-foundation-service---done
+  - /resources/qZoGIj62YP4
 tags:
-- configuration
-- infrastructure
-- modern-alm
-- nwcadence
-- tfs
-- tfs2012
-- tools
-- visual-studio
-- vs2012
+  - configuration
+  - infrastructure
+  - modern-alm
+  - nwcadence
+  - tfs
+  - tfs2012
+  - tools
+  - visual-studio
+  - vs2012
 categories:
-- upgrade-and-maintenance
-
+  - upgrade-and-maintenance
 ---
+
 Jason Zander has just announced that the Visual Studio 11 & Visual Studio 11 Team Foundation Server Beta **will be available on the 29th February 2012**. I am really looking forward to this launch as it embodies the phrase “spit & polish” and really lowers the bar for entry into the Team Foundation Server world.
 
 Unless you have been living under a rock you should also be aware of [http://tfspreview.com](http://tfspreview.com), the cloud based version of Visual Studio 11 Team Foundation Server that has been running in beta for a while. As well as the on-premises version of TFS offering Go-Live with Visual Studio 11 Beta, the cloud version has been offering Go-Live for a while now.

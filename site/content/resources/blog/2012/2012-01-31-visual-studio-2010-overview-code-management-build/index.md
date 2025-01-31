@@ -9,17 +9,19 @@ layout: blog
 resourceTypes: blog
 slug: visual-studio-2010-overview-code-management-build
 aliases:
-- /blog/visual-studio-2010-overview-code-management-build
-- /visual-studio-2010-overview-code-management-build
-- /visual-studio-2010-overview
-- /visual-studio-2010-overview---code-management-and-build
+  - /blog/visual-studio-2010-overview-code-management-build
+  - /visual-studio-2010-overview-code-management-build
+  - /visual-studio-2010-overview
+  - /visual-studio-2010-overview---code-management-and-build
+  - /blog/visual-studio-2010-overview---code-management-and-build
+  - /resources/1hC0IZyRA0c
+---
+
+code-management-and-build
+
 - /blog/visual-studio-2010-overview---code-management-and-build
 - /resources/1hC0IZyRA0c
-
----
-code-management-and-build
-- /blog/visual-studio-2010-overview---code-management-and-build
-tags:
+  tags:
 - modern-alm
 - nwcadence
 - tfs
@@ -28,9 +30,10 @@ tags:
 - visual-studio
 - vs2010
 - webcast-2
-preview: metro-visual-studio-2010-128-link-1-1.png
+  preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---
+
 Branching Merging and Build are two parts of the overall software development cycle. In the Branching and Merging session, we cover industries standard approaches to branching and merging, the pros and Cons of the standard approaches, and how each strategy might fit your company needs. In the Build section we cover how to setup a build to help teams deliver quality software. We also cover how the build and branching & merging (or Code Lines) are all integrated within Visual Studio 2010. We also cover the new features and tools that Visual Studio has to offer.
 
 WARNING: This video stops at 21 minutes :( There was a problem with the encoding of the original and I can't fix it. You can however get this session live below.

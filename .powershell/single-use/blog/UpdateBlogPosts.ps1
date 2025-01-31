@@ -36,18 +36,20 @@ $blogs | ForEach-Object {
 
 
         $aliases = @()
-        if ($hugoMarkdown.FrontMatter.Contains("slug")) {
-            $slug = $hugoMarkdown.FrontMatter.slug
-            $aliases += "/$slug"
-            $aliases += "/blog/$slug"
-        }
-        if ($hugoMarkdown.FrontMatter.Contains("title")) {
-            $slug = $hugoMarkdown.FrontMatter.slug
-            $urlSafeTitle = ($hugoMarkdown.FrontMatter.title -replace '[:\/\\*?"<>|#%.!]', '-' -replace '\s+', '-').ToLower()
-            if ($urlSafeTitle -ne $slug) {
-                $aliases += "/$urlSafeTitle"
-                $aliases += "/blog/$urlSafeTitle"
-            }           
+        if ($hugoMarkdown.FrontMatter.Contains("id")) {
+            if ($hugoMarkdown.FrontMatter.Contains("slug")) {
+                $slug = $hugoMarkdown.FrontMatter.slug
+                $aliases += "/$slug"
+                $aliases += "/blog/$slug"
+            }
+            if ($hugoMarkdown.FrontMatter.Contains("title")) {
+                $slug = $hugoMarkdown.FrontMatter.slug
+                $urlSafeTitle = ($hugoMarkdown.FrontMatter.title -replace '[:\/\\*?"<>|#%.!]', '-' -replace '\s+', '-').ToLower()
+                if ($urlSafeTitle -ne $slug) {
+                    $aliases += "/$urlSafeTitle"
+                    $aliases += "/blog/$urlSafeTitle"
+                }           
+            }
         }
         if ($hugoMarkdown.FrontMatter.Contains("ResourceId")) {
             $aliases += "/resources/$($hugoMarkdown.FrontMatter.ResourceId)"

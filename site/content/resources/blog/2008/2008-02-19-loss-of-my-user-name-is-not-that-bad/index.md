@@ -9,24 +9,19 @@ layout: blog
 resourceTypes: blog
 slug: loss-of-my-user-name-is-not-that-bad
 aliases:
-- /blog/loss-of-my-user-name-is-not-that-bad
-- /loss-of-my-user-name-is-not-that-bad
-- /loss-of-my-user-name-is-not-that-bad
-- /loss-of-my-user-name-is-not-that-bad---
-- /blog/loss-of-my-user-name-is-not-that-bad---
-- /resources/2iThCwSc5Qx
-
----
-- /blog/loss-of-my-user-name-is-not-that-bad---
+  - /blog/loss-of-my-user-name-is-not-that-bad
+  - /loss-of-my-user-name-is-not-that-bad---
+  - /blog/loss-of-my-user-name-is-not-that-bad---
+  - /resources/2iThCwSc5Qx
 tags:
-- code
-- develop
-- wpf
+  - code
+  - develop
+  - wpf
 categories:
-- code-and-complexity
+  - code-and-complexity
 preview: metro-binary-vb-128-link-2-2.png
-
 ---
+
 ```
 Imports System.DirectoryServices.AccountManagement
 ```

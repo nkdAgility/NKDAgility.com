@@ -9,28 +9,23 @@ layout: blog
 resourceTypes: blog
 slug: tfs-sticky-buddy-layout-fun
 aliases:
-- /blog/tfs-sticky-buddy-layout-fun
-- /tfs-sticky-buddy-layout-fun
-- /tfs-sticky-buddy-layout-fun
-- /tfs-sticky-buddy-layout-fun---
-- /blog/tfs-sticky-buddy-layout-fun---
-- /resources/kiOEzMLUa0k
-
----
-- /blog/tfs-sticky-buddy-layout-fun---
+  - /blog/tfs-sticky-buddy-layout-fun
+  - /tfs-sticky-buddy-layout-fun---
+  - /blog/tfs-sticky-buddy-layout-fun---
+  - /resources/kiOEzMLUa0k
 tags:
-- code
-- develop
-- infrastructure
-- tfs-sticky-buddy
-- tools
-- wit
-- wpf
+  - code
+  - develop
+  - infrastructure
+  - tfs-sticky-buddy
+  - tools
+  - wit
+  - wpf
 categories:
-- code-and-complexity
+  - code-and-complexity
 preview: metro-binary-vb-128-link-3-1.png
-
 ---
+
 [![TFS Sticky Buddy (WinForms) Screenshot](images/TFSStickyBuddylayoutfun_782F-image_thumb-2-8.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TFSStickyBuddylayoutfun_782F-image_2.png) I had a lot of fun trying to lay out my [TFS Sticky Buddy](http://www.codeplex.com/TFSStickyBuddy) project using Windows Forms, and eventually decided that it was way to fiddle doing it in a Forms based application. It was not just that tables and panels don't work as I expected, but that there were way to many bits that were more difficult than they should be. This is mostly down to my inexperience and down right ineptitude with graphics and UI's, but it still should not be this hard. ![smile_baringteeth](images/smile_baringteeth-4-2.gif)
 { .post-img }
 

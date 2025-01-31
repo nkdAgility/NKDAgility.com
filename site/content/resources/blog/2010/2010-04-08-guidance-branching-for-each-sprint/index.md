@@ -12,7 +12,13 @@ aliases:
 - /blog/guidance-branching-for-each-sprint
 - /guidance-branching-for-each-sprint
 - /guidance
+- /guidance
 - /guidance---branching-for-each-sprint
+- /blog/guidance---branching-for-each-sprint
+- /resources/hPGpt57lpYZ
+
+---
+branching-for-each-sprint
 - /blog/guidance---branching-for-each-sprint
 - /resources/hPGpt57lpYZ
 

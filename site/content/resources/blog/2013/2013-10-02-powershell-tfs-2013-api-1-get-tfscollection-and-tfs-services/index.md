@@ -1,5 +1,5 @@
 ---
-title: 'PowerShell TFS 2013 API #1 - Get TfsCollection and TFS Services'
+title: "PowerShell TFS 2013 API #1 - Get TfsCollection and TFS Services"
 description: Learn to harness PowerShell with the TFS 2013 API in this comprehensive guide. Discover essential functions to manage TFS collections and services effectively!
 ResourceId: kaEC07NAXT7
 date: 2013-10-02
@@ -9,29 +9,25 @@ layout: blog
 resourceTypes: blog
 slug: powershell-tfs-2013-api-1-get-tfscollection-and-tfs-services
 aliases:
-- /blog/powershell-tfs-2013-api-1-get-tfscollection-and-tfs-services
-- /powershell-tfs-2013-api-1-get-tfscollection-and-tfs-services
-- /powershell-tfs-2013-api--1
-- /powershell-tfs-2013-api--1---get-tfscollection-and-tfs-services
-- /blog/powershell-tfs-2013-api--1---get-tfscollection-and-tfs-services
-- /resources/kaEC07NAXT7
-
----
-get-tfscollection-and-tfs-services
-- /blog/powershell-tfs-2013-api--1---get-tfscollection-and-tfs-services
+  - /blog/powershell-tfs-2013-api-1-get-tfscollection-and-tfs-services
+  - /powershell-tfs-2013-api-1-get-tfscollection-and-tfs-services
+  - /powershell-tfs-2013-api--1
+  - /powershell-tfs-2013-api--1---get-tfscollection-and-tfs-services
+  - /blog/powershell-tfs-2013-api--1---get-tfscollection-and-tfs-services
+  - /resources/kaEC07NAXT7
 tags:
-- powershell
-- processconfiguration
-- projectmanagement
-- tfs
-- tfs-2013
-- versioncontrol
-- workitemtracking
+  - powershell
+  - processconfiguration
+  - projectmanagement
+  - tfs
+  - tfs-2013
+  - versioncontrol
+  - workitemtracking
 categories:
-- code-and-complexity
+  - code-and-complexity
 preview: metro-powershell-logo-1-1.png
-
 ---
+
 Have you ever wanted to use PowerShell to interact with the TFS 2013 API? Well I have been working through a few scenarios and wanted to get them to you so that I can get some feedback.
 
 This will likely be a series of PowerShell posts as I build up my library of PowerShell statements. In order to interact with the TFS API with PowerShell, the first things we need to do is import the types that we are going to use. As there are no real PowerShell comandlets for TFS out of the box we need to import the actual assemblies and then wrap a bunch of functions that we want to use.

@@ -12,7 +12,13 @@ aliases:
 - /blog/southparkify-simpsonize-better-with-both
 - /southparkify-simpsonize-better-with-both
 - /southparkify
+- /southparkify
 - /southparkify---simpsonize---better-with-both-
+- /blog/southparkify---simpsonize---better-with-both-
+- /resources/PEl4lRY2qjH
+
+---
+simpsonize---better-with-both-
 - /blog/southparkify---simpsonize---better-with-both-
 - /resources/PEl4lRY2qjH
 

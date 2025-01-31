@@ -1,5 +1,5 @@
 ---
-title: 'A change for the better #4 - Homecoming'
+title: "A change for the better #4 - Homecoming"
 description: Join Martin Hinshelwood on his journey back to Scotland, balancing family life and ALM consulting. Discover insights on agile practices and more!
 ResourceId: yryUrqeINBG
 date: 2013-08-19
@@ -9,26 +9,22 @@ layout: blog
 resourceTypes: blog
 slug: a-change-for-the-better-4
 aliases:
-- /blog/a-change-for-the-better-4
-- /a-change-for-the-better-4
-- /a-change-for-the-better--4
-- /a-change-for-the-better--4---homecoming
-- /blog/a-change-for-the-better--4---homecoming
-- /resources/yryUrqeINBG
-
----
-homecoming
-- /blog/a-change-for-the-better--4---homecoming
+  - /blog/a-change-for-the-better-4
+  - /a-change-for-the-better-4
+  - /a-change-for-the-better--4
+  - /a-change-for-the-better--4---homecoming
+  - /blog/a-change-for-the-better--4---homecoming
+  - /resources/yryUrqeINBG
 tags:
-- change
-- change-for-the-better
-- modern-alm
-- northwest-cadence
+  - change
+  - change-for-the-better
+  - modern-alm
+  - northwest-cadence
 categories:
-- news-and-reviews
+  - news-and-reviews
 preview: nakedalm-logo-128-link-4-4.png
-
 ---
+
 Yet another change for the better as I move in a few months back to Scotland to join my family. My flights are booked.
 
 As a family we decided not to stay in the USA and while we had financial obligation here we also needed to make sure that the kids got back into the right point in School. In the UK School starts just after 4 years old where as in the USA its 5. As our kids are 4 and 6 now they started in the USA and were already a year behind. My wife and I decided that it would be best to get them into the last school year and so in January I sadly bid farewell to them all and have been relegated to Skype since then…

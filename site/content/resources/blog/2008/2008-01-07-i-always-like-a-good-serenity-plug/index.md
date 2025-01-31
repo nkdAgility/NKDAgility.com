@@ -9,20 +9,15 @@ layout: blog
 resourceTypes: blog
 slug: i-always-like-a-good-serenity-plug
 aliases:
-- /blog/i-always-like-a-good-serenity-plug
-- /i-always-like-a-good-serenity-plug
-- /i-always-like-a-good-serenity-plug
-- /i-always-like-a-good-serenity-plug---
-- /blog/i-always-like-a-good-serenity-plug---
-- /resources/5Grofbh67Vs
-
----
-- /blog/i-always-like-a-good-serenity-plug---
+  - /blog/i-always-like-a-good-serenity-plug
+  - /i-always-like-a-good-serenity-plug---
+  - /blog/i-always-like-a-good-serenity-plug---
+  - /resources/5Grofbh67Vs
 categories:
-- me
+  - me
 preview: nakedalm-logo-128-link-1-1.png
-
 ---
+
 Your results:  
 **You are Dr. Simon Tam (Ship Medic)**
 

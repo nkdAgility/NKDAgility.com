@@ -12,7 +12,13 @@ aliases:
 - /blog/sharepoint-content-request-what-would-you-like-to-see
 - /sharepoint-content-request-what-would-you-like-to-see
 - /sharepoint-content-request
+- /sharepoint-content-request
 - /sharepoint-content-request---what-would-you-like-to-see-
+- /blog/sharepoint-content-request---what-would-you-like-to-see-
+- /resources/pyKCdDNWdPB
+
+---
+what-would-you-like-to-see-
 - /blog/sharepoint-content-request---what-would-you-like-to-see-
 - /resources/pyKCdDNWdPB
 

@@ -1,5 +1,5 @@
 ---
-title: 'A change for the better #1 - Merrill Lynch to Aggreko'
+title: "A change for the better #1 - Merrill Lynch to Aggreko"
 description: Join Martin Hinshelwood as he shares his pivotal career shift from Merrill Lynch to Aggreko, embracing new technology and expanding his expertise.
 ResourceId: _UxrL9mWMdL
 date: 2007-08-16
@@ -9,26 +9,21 @@ layout: blog
 resourceTypes: blog
 slug: a-change-for-the-better-1
 aliases:
-- /blog/a-change-for-the-better-1
-- /a-change-for-the-better-1
-- /a-change-for-the-better--1
-- /a-change-for-the-better--1---merrill-lynch-to-aggreko
-- /blog/a-change-for-the-better--1---merrill-lynch-to-aggreko
-- /resources/_UxrL9mWMdL
-
----
-merrill-lynch-to-aggreko
-- /blog/a-change-for-the-better--1---merrill-lynch-to-aggreko
+  - /blog/a-change-for-the-better-1
+  - /a-change-for-the-better-1
+  - /a-change-for-the-better--1---merrill-lynch-to-aggreko
+  - /blog/a-change-for-the-better--1---merrill-lynch-to-aggreko
+  - /resources/_UxrL9mWMdL
 tags:
-- aggreko
-- change
-- change-for-the-better
-- ml
+  - aggreko
+  - change
+  - change-for-the-better
+  - ml
 categories:
-- me
+  - me
 preview: metro-aggreko-128-link-1-1.png
-
 ---
+
 Well, that's me in my last month at [Merrill Lynch](http://www.ml.com/) after a nice run as a developer. My reasons for moving I have [stated](http://blog.hinshelwood.com/archive/2007/07/16/Its-that-time-again.aspx) before, but I have decided that the contractor business is just too risky for me at the moment.
 
 So I have accepted an offer from [Aggreko](http://www.aggreko.co.uk/)! They have managed to woo me with their culture of embracing new technology that even the highest echelons of the company promotes with their insatiable appetite for new things.
