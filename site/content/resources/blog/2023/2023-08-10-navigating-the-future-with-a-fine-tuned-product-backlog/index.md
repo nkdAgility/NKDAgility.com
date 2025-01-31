@@ -2,6 +2,10 @@
 title: Navigating the Future with a Fine-Tuned Product Backlog
 description: Discover how a well-ordered Product Backlog can guide your Agile projects to success. Learn essential strategies for effective backlog management today!
 ResourceId: hWDjTSSBUJh
+ResourceImport: true
+ResourceImportId: 49510
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2023-08-10
 AudioNative: true
 creator: Martin Hinshelwood
@@ -13,6 +17,10 @@ aliases:
 - /blog/navigating-the-future-with-a-fine-tuned-product-backlog
 - /navigating-the-future-with-a-fine-tuned-product-backlog
 - /resources/hWDjTSSBUJh
+- /resources/blog/navigating-the-future-with-a-fine-tuned-product-backlog
+aliasesFor404:
+- /navigating-the-future-with-a-fine-tuned-product-backlog
+- /blog/navigating-the-future-with-a-fine-tuned-product-backlog
 tags:
 - featured
 - homepage

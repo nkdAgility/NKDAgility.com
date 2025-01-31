@@ -2,6 +2,10 @@
 title: Connecting to SQL Server using DNS update
 description: Learn how to connect to SQL Server using DNS updates and manage SPNs effectively for seamless database access. Enhance your infrastructure setup today!
 ResourceId: P0XjI6SRWz-
+ResourceImport: true
+ResourceImportId: 255
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-01-31
 creator: Martin Hinshelwood
 id: "255"
@@ -12,6 +16,10 @@ aliases:
 - /blog/connecting-to-sql-server-using-dns-update
 - /connecting-to-sql-server-using-dns-update
 - /resources/P0XjI6SRWz-
+- /resources/blog/connecting-to-sql-server-using-dns-update
+aliasesFor404:
+- /connecting-to-sql-server-using-dns-update
+- /blog/connecting-to-sql-server-using-dns-update
 tags:
 - configuration
 - infrastructure

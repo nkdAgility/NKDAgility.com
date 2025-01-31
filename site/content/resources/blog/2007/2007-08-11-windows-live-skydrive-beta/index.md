@@ -2,6 +2,10 @@
 title: Windows Live SkyDrive Beta
 description: Explore the ease of using Windows Live SkyDrive Beta for file uploads and discover how it enhances your blogging experience. Share and manage your files effortlessly!
 ResourceId: oN9JK2ZkXJ3
+ResourceImport: true
+ResourceImportId: 336
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-11
 creator: Martin Hinshelwood
 id: "336"
@@ -12,6 +16,10 @@ aliases:
 - /blog/windows-live-skydrive-beta
 - /windows-live-skydrive-beta
 - /resources/oN9JK2ZkXJ3
+- /resources/blog/windows-live-skydrive-beta
+aliasesFor404:
+- /windows-live-skydrive-beta
+- /blog/windows-live-skydrive-beta
 tags:
 - live
 categories:

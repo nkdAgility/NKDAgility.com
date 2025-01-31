@@ -2,6 +2,10 @@
 title: The future of software development
 description: Explore the future of software development with insights on software factories and web services to enhance efficiency and client satisfaction. Read more!
 ResourceId: y4gWKp3Fy4v
+ResourceImport: true
+ResourceImportId: 371
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-07-14
 creator: Martin Hinshelwood
 id: "371"
@@ -12,6 +16,10 @@ aliases:
 - /blog/the-future-of-software-development
 - /the-future-of-software-development
 - /resources/y4gWKp3Fy4v
+- /resources/blog/the-future-of-software-development
+aliasesFor404:
+- /the-future-of-software-development
+- /blog/the-future-of-software-development
 tags:
 - service-oriented-architecture
 preview: nakedalm-logo-128-link-1-1.png

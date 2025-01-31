@@ -2,6 +2,10 @@
 title: Visual Studio 2010 Overview - A day in the life of ... Plan, Code & Test
 description: Explore a day in the life of developers, testers, and program managers using TFS 2010. Learn planning, coding, and testing strategies in this insightful overview!
 ResourceId: oXATaMW00Ct
+ResourceImport: true
+ResourceImportId: 4142
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2012-01-25
 creator: Martin Hinshelwood
 id: "4142"
@@ -15,9 +19,13 @@ aliases:
 - /visual-studio-2010-overview---a-day-in-the-life-of-----plan,-code-&-test
 - /blog/visual-studio-2010-overview---a-day-in-the-life-of-----plan,-code-&-test
 - /resources/oXATaMW00Ct
-
----
-a-day-in-the-life-of-----plan,-code-&-test
+- /visual-studio-2010-overview---a-day-in-the-life-of-----plan--code-&-test
+- /blog/visual-studio-2010-overview---a-day-in-the-life-of-----plan--code-&-test
+- /resources/blog/visual-studio-2010-overview-a-day-in-the-life-of
+aliasesFor404:
+- /visual-studio-2010-overview-a-day-in-the-life-of
+- /blog/visual-studio-2010-overview-a-day-in-the-life-of
+- /visual-studio-2010-overview---a-day-in-the-life-of-----plan,-code-&-test
 - /blog/visual-studio-2010-overview---a-day-in-the-life-of-----plan,-code-&-test
 tags:
 - agile

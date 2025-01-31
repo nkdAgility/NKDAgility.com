@@ -2,6 +2,10 @@
 title: Installing Team Explorer 2008 on Windows 7
 description: Learn how to install Team Explorer 2008 on Windows 7, troubleshoot common issues, and enhance your development experience with helpful tips and tools.
 ResourceId: eriIolF997p
+ResourceImport: true
+ResourceImportId: 145
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-01-13
 creator: Martin Hinshelwood
 id: "145"
@@ -12,6 +16,10 @@ aliases:
 - /blog/installing-team-explorer-2008-on-windows-7
 - /installing-team-explorer-2008-on-windows-7
 - /resources/eriIolF997p
+- /resources/blog/installing-team-explorer-2008-on-windows-7
+aliasesFor404:
+- /installing-team-explorer-2008-on-windows-7
+- /blog/installing-team-explorer-2008-on-windows-7
 tags:
 - tfs
 - tools

@@ -2,6 +2,10 @@
 title: Delving into SharePoint 3.0
 description: Explore the features of SharePoint 3.0 with Martin Hinshelwood as he shares insights on setting up an effective intranet and navigating its complexities.
 ResourceId: jXG5yABSps4
+ResourceImport: true
+ResourceImportId: 396
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-05-25
 creator: Martin Hinshelwood
 id: "396"
@@ -12,6 +16,10 @@ aliases:
 - /blog/delving-into-sharepoint-3-0
 - /delving-into-sharepoint-3-0
 - /resources/jXG5yABSps4
+- /resources/blog/delving-into-sharepoint-3-0
+aliasesFor404:
+- /delving-into-sharepoint-3-0
+- /blog/delving-into-sharepoint-3-0
 tags:
 - sp2007
 preview: nakedalm-logo-128-link-1-1.png

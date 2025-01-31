@@ -2,6 +2,10 @@
 title: New laptop and Windows 7
 description: Discover our journey to find the perfect pink laptop running Windows 7! Join us as we explore features, performance, and the ultimate WAF boost.
 ResourceId: XCiJC8QfDPG
+ResourceImport: true
+ResourceImportId: 139
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-02-14
 creator: Martin Hinshelwood
 id: "139"
@@ -12,6 +16,10 @@ aliases:
 - /blog/new-laptop-and-windows-7
 - /new-laptop-and-windows-7
 - /resources/XCiJC8QfDPG
+- /resources/blog/new-laptop-and-windows-7
+aliasesFor404:
+- /new-laptop-and-windows-7
+- /blog/new-laptop-and-windows-7
 categories:
 - me
 preview: nakedalm-logo-128-link-3-1.png

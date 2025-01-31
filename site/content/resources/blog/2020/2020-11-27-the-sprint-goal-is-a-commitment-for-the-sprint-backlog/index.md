@@ -2,6 +2,10 @@
 title: The Sprint Goal is a commitment for the Sprint Backlog
 description: Discover the importance of the Sprint Goal in Scrum. Learn how it fosters team focus and transparency, driving valuable outcomes in your projects.
 ResourceId: 99LDtXqmRu5
+ResourceImport: true
+ResourceImportId: 45088
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2020-11-27
 creator: Martin Hinshelwood
 id: "45088"
@@ -12,6 +16,10 @@ aliases:
 - /blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog
 - /the-sprint-goal-is-a-commitment-for-the-sprint-backlog
 - /resources/99LDtXqmRu5
+- /resources/blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog
+aliasesFor404:
+- /the-sprint-goal-is-a-commitment-for-the-sprint-backlog
+- /blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog
 tags:
 - sprint-goal
 categories:

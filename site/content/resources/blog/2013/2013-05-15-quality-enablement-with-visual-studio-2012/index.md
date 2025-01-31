@@ -2,6 +2,10 @@
 title: Quality enablement with Visual Studio 2012
 description: Discover how Visual Studio 2012 enables continuous quality in software development, helping you meet modern user expectations and enhance brand differentiation.
 ResourceId: YcLApPV4Zgj
+ResourceImport: true
+ResourceImportId: 9487
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2013-05-15
 creator: Martin Hinshelwood
 id: "9487"
@@ -12,6 +16,10 @@ aliases:
 - /blog/quality-enablement-with-visual-studio-2012
 - /quality-enablement-with-visual-studio-2012
 - /resources/YcLApPV4Zgj
+- /resources/blog/quality-enablement-with-visual-studio-2012
+aliasesFor404:
+- /quality-enablement-with-visual-studio-2012
+- /blog/quality-enablement-with-visual-studio-2012
 tags:
 - continious
 - develop

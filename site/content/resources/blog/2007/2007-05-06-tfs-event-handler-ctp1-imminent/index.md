@@ -2,6 +2,10 @@
 title: 'TFS Event Handler: CTP1 Imminent'
 description: Discover the upcoming TFS Event Handler CTP1 release! Join Martin Hinshelwood as he shares insights and updates on this essential tool for developers.
 ResourceId: VWTrf8PCadG
+ResourceImport: true
+ResourceImportId: 403
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-05-06
 creator: Martin Hinshelwood
 id: "403"
@@ -14,6 +18,12 @@ aliases:
 - /tfs-event-handler--ctp1-imminent
 - /blog/tfs-event-handler--ctp1-imminent
 - /resources/VWTrf8PCadG
+- /resources/blog/tfs-event-handler-ctp1-imminent
+aliasesFor404:
+- /tfs-event-handler-ctp1-imminent
+- /blog/tfs-event-handler-ctp1-imminent
+- /tfs-event-handler--ctp1-imminent
+- /blog/tfs-event-handler--ctp1-imminent
 tags:
 - tfs-event-handler
 - wit

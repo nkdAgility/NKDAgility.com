@@ -2,6 +2,10 @@
 title: What about hosting the Tfs Automation Platform
 description: Explore the hosting options for the TFS Automation Platform, balancing functionality and server-side components for optimal performance in cloud environments.
 ResourceId: je145Y3qB7P
+ResourceImport: true
+ResourceImportId: 3365
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2011-05-31
 creator: Martin Hinshelwood
 id: "3365"
@@ -14,6 +18,12 @@ aliases:
 - /what-about-hosting-the-tfs-automation-platform
 - /blog/what-about-hosting-the-tfs-automation-platform
 - /resources/je145Y3qB7P
+- /resources/blog/what-about-hosting-the-tfs-automation-platform-2
+aliasesFor404:
+- /what-about-hosting-the-tfs-automation-platform-2
+- /blog/what-about-hosting-the-tfs-automation-platform-2
+- /what-about-hosting-the-tfs-automation-platform
+- /blog/what-about-hosting-the-tfs-automation-platform
 tags:
 - nwcadence
 - tfs

@@ -2,6 +2,10 @@
 title: Solution - SEO permanent redirects for old URL’s?
 description: Learn how to maintain your SEO rankings with permanent redirects for old URLs. Discover effective strategies to map old links to new ones seamlessly.
 ResourceId: 2x0w1Oay2UF
+ResourceImport: true
+ResourceImportId: 73
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-01-04
 creator: Martin Hinshelwood
 id: "73"
@@ -11,13 +15,14 @@ slug: solution-seo-permanent-redirects-for-old-urls
 aliases:
 - /blog/solution-seo-permanent-redirects-for-old-urls
 - /solution-seo-permanent-redirects-for-old-urls
-- /solution
 - /solution---seo-permanent-redirects-for-old-url’s-
 - /blog/solution---seo-permanent-redirects-for-old-url’s-
 - /resources/2x0w1Oay2UF
-
----
-seo-permanent-redirects-for-old-url’s-
+- /resources/blog/solution-seo-permanent-redirects-for-old-urls
+aliasesFor404:
+- /solution-seo-permanent-redirects-for-old-urls
+- /blog/solution-seo-permanent-redirects-for-old-urls
+- /solution---seo-permanent-redirects-for-old-url’s-
 - /blog/solution---seo-permanent-redirects-for-old-url’s-
 tags:
 - code

@@ -2,6 +2,10 @@
 title: Kerberos problems
 description: Explore common Kerberos double hop issues and discover useful resources for troubleshooting. Join the journey to resolve your network security challenges!
 ResourceId: 0Of8b0Njxtf
+ResourceImport: true
+ResourceImportId: 235
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-04-28
 creator: Martin Hinshelwood
 id: "235"
@@ -12,6 +16,10 @@ aliases:
 - /blog/kerberos-problems
 - /kerberos-problems
 - /resources/0Of8b0Njxtf
+- /resources/blog/kerberos-problems
+aliasesFor404:
+- /kerberos-problems
+- /blog/kerberos-problems
 tags:
 - infrastructure
 - kerberos

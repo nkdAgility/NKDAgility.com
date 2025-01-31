@@ -2,6 +2,10 @@
 title: I spell it as Favourite and you as Favorite
 description: Explore the nuances of British vs. American English in PowerPoint. Learn how to use macros for seamless spell-checking adjustments. Embrace your language!
 ResourceId: nIpxDPFtjBE
+ResourceImport: true
+ResourceImportId: 7735
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2012-08-27
 creator: Martin Hinshelwood
 id: "7735"
@@ -14,6 +18,12 @@ aliases:
 - /i-spell-it-as-favourite-and-you-as-favorite
 - /blog/i-spell-it-as-favourite-and-you-as-favorite
 - /resources/nIpxDPFtjBE
+- /resources/blog/powerpointissue-i-spell-it-as-favourite-and-you-as-favorite
+aliasesFor404:
+- /powerpointissue-i-spell-it-as-favourite-and-you-as-favorite
+- /blog/powerpointissue-i-spell-it-as-favourite-and-you-as-favorite
+- /i-spell-it-as-favourite-and-you-as-favorite
+- /blog/i-spell-it-as-favourite-and-you-as-favorite
 tags:
 - code
 - language

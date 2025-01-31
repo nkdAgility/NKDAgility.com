@@ -2,6 +2,10 @@
 title: Professional Scrum teams build software that works
 description: Discover how Professional Scrum Teams can deliver high-quality software that works. Learn to enhance accountability and trust in your development process.
 ResourceId: vCeqzJIgF1F
+ResourceImport: true
+ResourceImportId: 22774
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2020-12-03
 creator: Martin Hinshelwood
 id: "22774"
@@ -14,6 +18,12 @@ aliases:
 - /professional-scrum-teams-build-software-that-works
 - /blog/professional-scrum-teams-build-software-that-works
 - /resources/vCeqzJIgF1F
+- /resources/blog/professional-scrum-teams-build-software-works
+aliasesFor404:
+- /professional-scrum-teams-build-software-works
+- /blog/professional-scrum-teams-build-software-works
+- /professional-scrum-teams-build-software-that-works
+- /blog/professional-scrum-teams-build-software-that-works
 tags:
 - agile
 - increment

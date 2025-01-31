@@ -2,6 +2,10 @@
 title: 'Jadie Hinshelwood: A yummy mummy is born!'
 description: Join Jadie Hinshelwood on her heartfelt journey to motherhood, sharing experiences of pregnancy and loss. Support her blog, 'A Yummy Mummy is Born'!
 ResourceId: zcpMYmgu_vJ
+ResourceImport: true
+ResourceImportId: 309
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-09-21
 creator: Martin Hinshelwood
 id: "309"
@@ -14,6 +18,12 @@ aliases:
 - /jadie-hinshelwood--a-yummy-mummy-is-born-
 - /blog/jadie-hinshelwood--a-yummy-mummy-is-born-
 - /resources/zcpMYmgu_vJ
+- /resources/blog/jadie-hinshelwood-a-yummy-mummy-is-born
+aliasesFor404:
+- /jadie-hinshelwood-a-yummy-mummy-is-born
+- /blog/jadie-hinshelwood-a-yummy-mummy-is-born
+- /jadie-hinshelwood--a-yummy-mummy-is-born-
+- /blog/jadie-hinshelwood--a-yummy-mummy-is-born-
 categories:
 - me
 preview: nakedalm-logo-128-link-3-3.png

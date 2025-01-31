@@ -2,6 +2,10 @@
 title: Access to Team Foundation Server
 description: Discover how to enhance your TFS skills at home, overcoming limitations of hosted solutions. Unlock the full potential of Team Foundation Server today!
 ResourceId: ttgv7j3g-kW
+ResourceImport: true
+ResourceImportId: 366
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-07-21
 creator: Martin Hinshelwood
 id: "366"
@@ -12,6 +16,10 @@ aliases:
 - /blog/access-to-team-foundation-server
 - /access-to-team-foundation-server
 - /resources/ttgv7j3g-kW
+- /resources/blog/access-to-team-foundation-server
+aliasesFor404:
+- /access-to-team-foundation-server
+- /blog/access-to-team-foundation-server
 tags:
 - tfs
 

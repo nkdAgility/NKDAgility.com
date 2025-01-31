@@ -2,6 +2,10 @@
 title: Issue [ TFS2012.2 ] TF30063 You are not authorized to access
 description: Discover how to resolve the TF30063 authorization error in TFS 2012.2 after moving environments. Upgrade to 2012.3 for a seamless experience!
 ResourceId: 6o-nqY9A5OP
+ResourceImport: true
+ResourceImportId: 9910
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2013-06-23
 creator: Martin Hinshelwood
 id: "9910"
@@ -14,6 +18,12 @@ aliases:
 - /issue-[-tfs2012-2-]-tf30063-you-are-not-authorized-to-access
 - /blog/issue-[-tfs2012-2-]-tf30063-you-are-not-authorized-to-access
 - /resources/6o-nqY9A5OP
+- /resources/blog/issue-tfs2012-2-tf30063-you-are-not-authorized-to-access
+aliasesFor404:
+- /issue-tfs2012-2-tf30063-you-are-not-authorized-to-access
+- /blog/issue-tfs2012-2-tf30063-you-are-not-authorized-to-access
+- /issue-[-tfs2012-2-]-tf30063-you-are-not-authorized-to-access
+- /blog/issue-[-tfs2012-2-]-tf30063-you-are-not-authorized-to-access
 tags:
 - configuration
 - puzzles

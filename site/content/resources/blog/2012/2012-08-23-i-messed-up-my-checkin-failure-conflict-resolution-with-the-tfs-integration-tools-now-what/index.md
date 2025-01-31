@@ -2,6 +2,10 @@
 title: I messed up my checkin failure conflict resolution with the TFS Integration Tools… Now what?
 description: Struggling with TFS Integration Tools? Discover how to resolve check-in conflicts and streamline your migration process with expert insights and solutions.
 ResourceId: r5ID4-DiAy7
+ResourceImport: true
+ResourceImportId: 7610
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2012-08-23
 creator: Martin Hinshelwood
 id: "7610"
@@ -14,6 +18,12 @@ aliases:
 - /i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools…-now-what-
 - /blog/i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools…-now-what-
 - /resources/r5ID4-DiAy7
+- /resources/blog/i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools-now-what
+aliasesFor404:
+- /i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools-now-what
+- /blog/i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools-now-what
+- /i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools…-now-what-
+- /blog/i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools…-now-what-
 tags:
 - code
 - configuration

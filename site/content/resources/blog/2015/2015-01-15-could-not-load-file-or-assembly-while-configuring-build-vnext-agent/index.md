@@ -2,6 +2,10 @@
 title: Could not load file or assembly while configuring Build vNext Agent
 description: Encountering 'Could not load file or assembly' errors while configuring the Build vNext Agent? Discover solutions and tips to resolve this issue effectively.
 ResourceId: zd3C3XiE0H4
+ResourceImport: true
+ResourceImportId: 11072
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2015-01-15
 creator: Martin Hinshelwood
 id: "11072"
@@ -12,6 +16,10 @@ aliases:
 - /blog/could-not-load-file-or-assembly-while-configuring-build-vnext-agent
 - /could-not-load-file-or-assembly-while-configuring-build-vnext-agent
 - /resources/zd3C3XiE0H4
+- /resources/blog/could-not-load-file-or-assembly-while-configuring-build-vnext-agent
+aliasesFor404:
+- /could-not-load-file-or-assembly-while-configuring-build-vnext-agent
+- /blog/could-not-load-file-or-assembly-while-configuring-build-vnext-agent
 tags:
 - build
 - build-agent

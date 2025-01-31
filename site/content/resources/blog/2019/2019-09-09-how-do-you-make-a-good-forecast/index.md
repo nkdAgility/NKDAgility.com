@@ -2,6 +2,10 @@
 title: How do you make a good Forecast?
 description: Learn how to create accurate forecasts in agile projects with expert insights from Martin Hinshelwood. Enhance predictability and budget planning effectively!
 ResourceId: fm9Rt6R7JZz
+ResourceImport: true
+ResourceImportId: 39852
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2019-09-09
 creator: Martin Hinshelwood
 id: "39852"
@@ -14,6 +18,12 @@ aliases:
 - /how-do-you-make-a-good-forecast-
 - /blog/how-do-you-make-a-good-forecast-
 - /resources/fm9Rt6R7JZz
+- /resources/blog/how-do-you-make-a-good-forecast
+aliasesFor404:
+- /how-do-you-make-a-good-forecast
+- /blog/how-do-you-make-a-good-forecast
+- /how-do-you-make-a-good-forecast-
+- /blog/how-do-you-make-a-good-forecast-
 tags:
 - budget
 - forcast

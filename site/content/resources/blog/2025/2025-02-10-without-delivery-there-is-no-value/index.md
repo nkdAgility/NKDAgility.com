@@ -9,10 +9,6 @@ layout: blog
 resourceTypes: blog
 slug: without-delivery-no-value
 aliases:
-- /without-delivery-no-value
-- /blog/without-delivery-no-value
-- /without-delivery,-there-is-no-value
-- /blog/without-delivery,-there-is-no-value
 - /resources/UfdnQrxv5iF
 tags:
 - Delivery

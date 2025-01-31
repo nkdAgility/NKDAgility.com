@@ -2,6 +2,10 @@
 title: Reformat your CSS on the fly
 description: Learn how to dynamically reformat your CSS for different environments using .NET. Simplify your web development process and enhance your workflow today!
 ResourceId: elcSY_VSAVs
+ResourceImport: true
+ResourceImportId: 142
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-01-27
 creator: Martin Hinshelwood
 id: "142"
@@ -12,6 +16,10 @@ aliases:
 - /blog/reformat-your-css-on-the-fly
 - /reformat-your-css-on-the-fly
 - /resources/elcSY_VSAVs
+- /resources/blog/reformat-your-css-on-the-fly
+aliasesFor404:
+- /reformat-your-css-on-the-fly
+- /blog/reformat-your-css-on-the-fly
 tags:
 - aggreko
 - code

@@ -2,6 +2,10 @@
 title: Installing Eclipse on Windows 8 and connecting to TFS 2012
 description: Learn how to install Eclipse on Windows 8 and connect to TFS 2012 effortlessly. Perfect for Java developers looking to enhance their ALM strategy!
 ResourceId: vuVjEWsY5Av
+ResourceImport: true
+ResourceImportId: 5415
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2012-06-02
 creator: Martin Hinshelwood
 id: "5415"
@@ -12,6 +16,10 @@ aliases:
 - /blog/installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
 - /installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
 - /resources/vuVjEWsY5Av
+- /resources/blog/installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
+aliasesFor404:
+- /installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
+- /blog/installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
 tags:
 - configuration
 - eclipse

@@ -2,6 +2,10 @@
 title: Constructing a framework for the TFS Automation Platform
 description: Explore the framework for the TFS Automation Platform, designed to guide developers in building efficient tools and automations. Start your journey today!
 ResourceId: w6AaB_5-1gr
+ResourceImport: true
+ResourceImportId: 3641
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2011-06-12
 creator: Martin Hinshelwood
 id: "3641"
@@ -12,6 +16,10 @@ aliases:
 - /blog/constructing-a-framework-for-the-tfs-automation-platform
 - /constructing-a-framework-for-the-tfs-automation-platform
 - /resources/w6AaB_5-1gr
+- /resources/blog/constructing-a-framework-for-the-tfs-automation-platform
+aliasesFor404:
+- /constructing-a-framework-for-the-tfs-automation-platform
+- /blog/constructing-a-framework-for-the-tfs-automation-platform
 tags:
 - nwcadence
 - tfs

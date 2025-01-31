@@ -2,6 +2,10 @@
 title: Windows Live Writer
 description: Discover Windows Live Writer, the ultimate offline blogging tool that simplifies content creation and publishing. Perfect for bloggers on the go!
 ResourceId: yZ8am0NWB2S
+ResourceImport: true
+ResourceImportId: 457
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2006-12-15
 creator: Martin Hinshelwood
 id: "457"
@@ -12,6 +16,10 @@ aliases:
 - /blog/windows-live-writer
 - /windows-live-writer
 - /resources/yZ8am0NWB2S
+- /resources/blog/windows-live-writer
+aliasesFor404:
+- /windows-live-writer
+- /blog/windows-live-writer
 categories:
 - products-and-books
 preview: nakedalm-logo-128-link-1-1.png

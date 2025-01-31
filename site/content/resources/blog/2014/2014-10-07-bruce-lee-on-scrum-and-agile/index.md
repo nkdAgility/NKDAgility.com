@@ -2,6 +2,10 @@
 title: Bruce Lee on Scrum and Agile
 description: Explore Bruce Lee's philosophy on Scrum and Agile, emphasizing simplicity and adaptability to enhance your organization's processes and customer satisfaction.
 ResourceId: mDZ9tLsZEI-
+ResourceImport: true
+ResourceImportId: 10800
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2014-10-07
 creator: Martin Hinshelwood
 id: "10800"
@@ -12,6 +16,10 @@ aliases:
 - /blog/bruce-lee-on-scrum-and-agile
 - /bruce-lee-on-scrum-and-agile
 - /resources/mDZ9tLsZEI-
+- /resources/blog/bruce-lee-on-scrum-and-agile
+aliasesFor404:
+- /bruce-lee-on-scrum-and-agile
+- /blog/bruce-lee-on-scrum-and-agile
 tags:
 - agile
 - philosophy

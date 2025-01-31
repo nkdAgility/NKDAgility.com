@@ -2,6 +2,10 @@
 title: Team Foundation Server 2013 is production ready
 description: Discover why Team Foundation Server 2013 is production-ready! Learn about its agile journey, major improvements, and why you should upgrade now.
 ResourceId: HxDL5HRMiX4
+ResourceImport: true
+ResourceImportId: 9917
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2013-07-23
 creator: Martin Hinshelwood
 id: "9917"
@@ -12,6 +16,10 @@ aliases:
 - /blog/team-foundation-server-2013-is-production-ready
 - /team-foundation-server-2013-is-production-ready
 - /resources/HxDL5HRMiX4
+- /resources/blog/team-foundation-server-2013-is-production-ready
+aliasesFor404:
+- /team-foundation-server-2013-is-production-ready
+- /blog/team-foundation-server-2013-is-production-ready
 tags:
 - tfs
 - tfs2012

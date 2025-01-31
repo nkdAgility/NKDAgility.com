@@ -2,6 +2,10 @@
 title: 'Post event: Developer Day Scotland...'
 description: Discover insights from Developer Day Scotland, featuring expert talks on ADO.NET, Anti-Patterns, and Test Driven Development. Join the conversation!
 ResourceId: gVVlURec7mu
+ResourceImport: true
+ResourceImportId: 229
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-05-12
 creator: Martin Hinshelwood
 id: "229"
@@ -11,12 +15,14 @@ slug: post-event-developer-day-scotland
 aliases:
 - /blog/post-event-developer-day-scotland
 - /post-event-developer-day-scotland
-- /post-event--developer-day-scotland
 - /post-event--developer-day-scotland---
 - /blog/post-event--developer-day-scotland---
 - /resources/gVVlURec7mu
-
----
+- /resources/blog/post-event-developer-day-scotland
+aliasesFor404:
+- /post-event-developer-day-scotland
+- /blog/post-event-developer-day-scotland
+- /post-event--developer-day-scotland---
 - /blog/post-event--developer-day-scotland---
 categories:
 - me

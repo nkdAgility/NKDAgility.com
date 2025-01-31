@@ -2,6 +2,10 @@
 title: Professional Scrum Foundations in Salt Lake City, Utah
 description: Join Martin Hinshelwood in Salt Lake City for an engaging Professional Scrum Foundations course, empowering teams to excel in Agile practices and collaboration.
 ResourceId: f7cHTAGDbeh
+ResourceImport: true
+ResourceImportId: 4980
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2012-03-26
 creator: Martin Hinshelwood
 id: "4980"
@@ -14,6 +18,14 @@ aliases:
 - /professional-scrum-foundations-in-salt-lake-city,-utah
 - /blog/professional-scrum-foundations-in-salt-lake-city,-utah
 - /resources/f7cHTAGDbeh
+- /professional-scrum-foundations-in-salt-lake-city--utah
+- /blog/professional-scrum-foundations-in-salt-lake-city--utah
+- /resources/blog/professional-scrum-foundations-in-salt-lake-city-utah
+aliasesFor404:
+- /professional-scrum-foundations-in-salt-lake-city-utah
+- /blog/professional-scrum-foundations-in-salt-lake-city-utah
+- /professional-scrum-foundations-in-salt-lake-city,-utah
+- /blog/professional-scrum-foundations-in-salt-lake-city,-utah
 tags:
 - agile
 - define

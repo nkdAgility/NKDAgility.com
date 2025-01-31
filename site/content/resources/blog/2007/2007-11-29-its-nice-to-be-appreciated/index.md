@@ -2,6 +2,10 @@
 title: It's nice to be appreciated!
 description: Discover the joy of recognition with Community Credit! Join Martin Hinshelwood as he shares his journey of tech involvement and the rewards of appreciation.
 ResourceId: Kmtwkw7RD0K
+ResourceImport: true
+ResourceImportId: 283
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-11-29
 creator: Martin Hinshelwood
 id: "283"
@@ -14,6 +18,12 @@ aliases:
 - /it's-nice-to-be-appreciated-
 - /blog/it's-nice-to-be-appreciated-
 - /resources/Kmtwkw7RD0K
+- /resources/blog/its-nice-to-be-appreciated
+aliasesFor404:
+- /its-nice-to-be-appreciated
+- /blog/its-nice-to-be-appreciated
+- /it's-nice-to-be-appreciated-
+- /blog/it's-nice-to-be-appreciated-
 tags:
 - silverlight
 categories:

@@ -12,10 +12,6 @@ layout: blog
 resourceTypes: blog
 slug: delivery-is-the-only-measure-of-progress
 aliases:
-- /delivery-is-the-only-measure-of-progress
-- /blog/delivery-is-the-only-measure-of-progress
-- /delivery-is-the-only-measure-of-progress-in-scrum
-- /blog/delivery-is-the-only-measure-of-progress-in-scrum
 - /resources/jBIyK6NW3ZB
 tags:
 - Delivery

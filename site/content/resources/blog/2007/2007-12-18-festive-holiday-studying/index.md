@@ -2,6 +2,10 @@
 title: Festive holiday studying
 description: Join Martin Hinshelwood as he shares his festive holiday plans, Xbox gaming, and insights on mastering WPF for .NET development. Embrace the holiday spirit!
 ResourceId: tUIp9FEu7QH
+ResourceImport: true
+ResourceImportId: 273
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-12-18
 creator: Martin Hinshelwood
 id: "273"
@@ -12,6 +16,10 @@ aliases:
 - /blog/festive-holiday-studying
 - /festive-holiday-studying
 - /resources/tUIp9FEu7QH
+- /resources/blog/festive-holiday-studying
+aliasesFor404:
+- /festive-holiday-studying
+- /blog/festive-holiday-studying
 tags:
 - sharepoint
 - sp2007

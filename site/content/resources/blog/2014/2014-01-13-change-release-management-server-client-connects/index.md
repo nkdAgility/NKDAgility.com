@@ -2,6 +2,10 @@
 title: Change the Release Management Server that your Client connects to
 description: Learn how to easily change the Release Management Server your client connects to, ensuring smooth transitions between different environments. Get started now!
 ResourceId: zTjRpmZ5cJQ
+ResourceImport: true
+ResourceImportId: 10329
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2014-01-13
 creator: Martin Hinshelwood
 id: "10329"
@@ -14,6 +18,12 @@ aliases:
 - /change-the-release-management-server-that-your-client-connects-to
 - /blog/change-the-release-management-server-that-your-client-connects-to
 - /resources/zTjRpmZ5cJQ
+- /resources/blog/change-release-management-server-client-connects
+aliasesFor404:
+- /change-release-management-server-client-connects
+- /blog/change-release-management-server-client-connects
+- /change-the-release-management-server-that-your-client-connects-to
+- /blog/change-the-release-management-server-that-your-client-connects-to
 tags:
 - inrelease
 - release

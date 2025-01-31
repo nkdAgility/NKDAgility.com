@@ -2,6 +2,10 @@
 title: Project Natal available soon
 description: Exciting news for Xbox fans! Project Natal is rumored to launch before Christmas for £121. Don't miss out—get ready to pre-order!
 ResourceId: DomKUWOAmyb
+ResourceImport: true
+ResourceImportId: 106
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-06-29
 creator: Martin Hinshelwood
 id: "106"
@@ -12,6 +16,10 @@ aliases:
 - /blog/project-natal-available-soon
 - /project-natal-available-soon
 - /resources/DomKUWOAmyb
+- /resources/blog/project-natal-available-soon
+aliasesFor404:
+- /project-natal-available-soon
+- /blog/project-natal-available-soon
 tags:
 - xbox
 categories:

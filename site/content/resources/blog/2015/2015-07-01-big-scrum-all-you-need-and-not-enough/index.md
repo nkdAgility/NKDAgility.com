@@ -2,6 +2,10 @@
 title: 'Big Scrum: All you need and not enough'
 description: "Explore the challenges of scaling Scrum in 'Big Scrum: All you need and not enough.' Discover essential practices for achieving agility at scale."
 ResourceId: yCJ5ERuJHUU
+ResourceImport: true
+ResourceImportId: 11361
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2015-07-01
 creator: Martin Hinshelwood
 id: "11361"
@@ -14,6 +18,12 @@ aliases:
 - /big-scrum--all-you-need-and-not-enough
 - /blog/big-scrum--all-you-need-and-not-enough
 - /resources/yCJ5ERuJHUU
+- /resources/blog/big-scrum-all-you-need-and-not-enough
+aliasesFor404:
+- /big-scrum-all-you-need-and-not-enough
+- /blog/big-scrum-all-you-need-and-not-enough
+- /big-scrum--all-you-need-and-not-enough
+- /blog/big-scrum--all-you-need-and-not-enough
 tags:
 - agile
 - ndc

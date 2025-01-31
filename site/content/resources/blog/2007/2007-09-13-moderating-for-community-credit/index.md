@@ -2,6 +2,10 @@
 title: Moderating for Community-Credit
 description: Join me as I share my experience moderating submissions for Community-Credit, a platform that rewards honesty and community engagement. Sign up and win prizes!
 ResourceId: ChsE6EP6OC4
+ResourceImport: true
+ResourceImportId: 313
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-09-13
 creator: Martin Hinshelwood
 id: "313"
@@ -12,6 +16,10 @@ aliases:
 - /blog/moderating-for-community-credit
 - /moderating-for-community-credit
 - /resources/ChsE6EP6OC4
+- /resources/blog/moderating-for-community-credit
+aliasesFor404:
+- /moderating-for-community-credit
+- /blog/moderating-for-community-credit
 categories:
 - me
 preview: nakedalm-logo-128-link-1-1.png

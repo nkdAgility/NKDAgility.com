@@ -2,6 +2,10 @@
 title: SharePoint 2013 Issue - Custom Web Part results in Could not load file or assembly after upgrade
 description: Resolve SharePoint 2013 upgrade issues with custom web parts. Discover effective solutions to fix 'Could not load file or assembly' errors easily!
 ResourceId: dOYcFVzZg42
+ResourceImport: true
+ResourceImportId: 9905
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2013-06-20
 creator: Martin Hinshelwood
 id: "9905"
@@ -15,9 +19,11 @@ aliases:
 - /sharepoint-2013-issue---custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
 - /blog/sharepoint-2013-issue---custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
 - /resources/dOYcFVzZg42
-
----
-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
+- /resources/blog/sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
+aliasesFor404:
+- /sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
+- /blog/sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
+- /sharepoint-2013-issue---custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
 - /blog/sharepoint-2013-issue---custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
 tags:
 - configuration

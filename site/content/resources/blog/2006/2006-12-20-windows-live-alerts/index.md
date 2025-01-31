@@ -2,6 +2,10 @@
 title: Windows Live Alerts
 description: Stay updated with Windows Live Alerts! Sign up to receive notifications for new blog posts and enjoy free features with a touch of advertising.
 ResourceId: kr2gucSHKSd
+ResourceImport: true
+ResourceImportId: 454
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2006-12-20
 creator: Martin Hinshelwood
 id: "454"
@@ -12,6 +16,10 @@ aliases:
 - /blog/windows-live-alerts
 - /windows-live-alerts
 - /resources/kr2gucSHKSd
+- /resources/blog/windows-live-alerts
+aliasesFor404:
+- /windows-live-alerts
+- /blog/windows-live-alerts
 tags:
 - live
 categories:

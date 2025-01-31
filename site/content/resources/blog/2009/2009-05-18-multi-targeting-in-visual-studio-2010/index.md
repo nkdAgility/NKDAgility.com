@@ -2,6 +2,10 @@
 title: Multi-Targeting in Visual Studio 2010
 description: Explore the enhanced multi-targeting capabilities in Visual Studio 2010, allowing seamless development across .NET versions. Upgrade your coding experience!
 ResourceId: j92AlbTRvDq
+ResourceImport: true
+ResourceImportId: 117
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-05-18
 creator: Martin Hinshelwood
 id: "117"
@@ -12,6 +16,10 @@ aliases:
 - /blog/multi-targeting-in-visual-studio-2010
 - /multi-targeting-in-visual-studio-2010
 - /resources/j92AlbTRvDq
+- /resources/blog/multi-targeting-in-visual-studio-2010
+aliasesFor404:
+- /multi-targeting-in-visual-studio-2010
+- /blog/multi-targeting-in-visual-studio-2010
 tags:
 - code
 - tools

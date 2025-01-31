@@ -2,6 +2,10 @@
 title: 'Wpf Ninject Dojo: The Data Provider'
 description: Explore the power of Ninject for WPF dependency injection in MVVM projects. Learn to create a custom DataSourceProvider for seamless data management!
 ResourceId: fiHZn7VEOpq
+ResourceImport: true
+ResourceImportId: 88
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-08-25
 creator: Martin Hinshelwood
 id: "88"
@@ -14,6 +18,12 @@ aliases:
 - /wpf-ninject-dojo--the-data-provider
 - /blog/wpf-ninject-dojo--the-data-provider
 - /resources/fiHZn7VEOpq
+- /resources/blog/wpf-ninject-dojo-the-data-provider
+aliasesFor404:
+- /wpf-ninject-dojo-the-data-provider
+- /blog/wpf-ninject-dojo-the-data-provider
+- /wpf-ninject-dojo--the-data-provider
+- /blog/wpf-ninject-dojo--the-data-provider
 tags:
 - code
 - codeproject

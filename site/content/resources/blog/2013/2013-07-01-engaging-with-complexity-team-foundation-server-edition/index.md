@@ -2,6 +2,10 @@
 title: Engaging with complexity - Team Foundation Server Edition
 description: Explore the complexities of Team Foundation Server migrations in Silicon Valley. Learn strategies to streamline processes and enhance development efficiency.
 ResourceId: xr1jtRnRNvp
+ResourceImport: true
+ResourceImportId: 9703
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2013-07-01
 creator: Martin Hinshelwood
 id: "9703"
@@ -15,9 +19,11 @@ aliases:
 - /engaging-with-complexity---team-foundation-server-edition
 - /blog/engaging-with-complexity---team-foundation-server-edition
 - /resources/xr1jtRnRNvp
-
----
-team-foundation-server-edition
+- /resources/blog/engaging-with-complexity-team-foundation-server-edition
+aliasesFor404:
+- /engaging-with-complexity-team-foundation-server-edition
+- /blog/engaging-with-complexity-team-foundation-server-edition
+- /engaging-with-complexity---team-foundation-server-edition
 - /blog/engaging-with-complexity---team-foundation-server-edition
 tags:
 - infrastructure

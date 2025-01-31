@@ -2,6 +2,10 @@
 title: The great Team Foundation Server 2013 Upgrade Weekend
 description: Join the Team Foundation Server 2013 Upgrade Weekend on Sept 13-15 for expert support in upgrading and configuring TFS 2013. RSVP now for a smooth transition!
 ResourceId: vBfV--PVVr7
+ResourceImport: true
+ResourceImportId: 9989
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2013-08-27
 creator: Martin Hinshelwood
 id: "9989"
@@ -12,6 +16,10 @@ aliases:
 - /blog/the-great-team-foundation-server-2013-upgrade-weekend
 - /the-great-team-foundation-server-2013-upgrade-weekend
 - /resources/vBfV--PVVr7
+- /resources/blog/the-great-team-foundation-server-2013-upgrade-weekend
+aliasesFor404:
+- /the-great-team-foundation-server-2013-upgrade-weekend
+- /blog/the-great-team-foundation-server-2013-upgrade-weekend
 tags:
 - configuration
 - install

@@ -2,6 +2,10 @@
 title: TFS Event Handler prototype Configuration Demystified
 description: Unlock the secrets of TFS Event Handler configuration with this comprehensive guide. Perfect for developers seeking to streamline event management!
 ResourceId: ENx7u9d6Q6z
+ResourceImport: true
+ResourceImportId: 379
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-06-18
 creator: Martin Hinshelwood
 id: "379"
@@ -12,6 +16,10 @@ aliases:
 - /blog/tfs-event-handler-prototype-configuration-demystified
 - /tfs-event-handler-prototype-configuration-demystified
 - /resources/ENx7u9d6Q6z
+- /resources/blog/tfs-event-handler-prototype-configuration-demystified
+aliasesFor404:
+- /tfs-event-handler-prototype-configuration-demystified
+- /blog/tfs-event-handler-prototype-configuration-demystified
 tags:
 - code
 - tfs-event-handler

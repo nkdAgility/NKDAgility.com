@@ -2,6 +2,10 @@
 title: Migrating to office 365 from Google Mail
 description: Navigate the challenges of migrating from Google Mail to Office 365 with expert tips and PowerShell solutions. Simplify your transition today!
 ResourceId: w2vG6eEu5BH
+ResourceImport: true
+ResourceImportId: 10502
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2014-04-30
 creator: Martin Hinshelwood
 id: "10502"
@@ -12,6 +16,10 @@ aliases:
 - /blog/migrating-to-office-365-from-google-mail
 - /migrating-to-office-365-from-google-mail
 - /resources/w2vG6eEu5BH
+- /resources/blog/migrating-to-office-365-from-google-mail
+aliasesFor404:
+- /migrating-to-office-365-from-google-mail
+- /blog/migrating-to-office-365-from-google-mail
 tags:
 - google
 - google-mail

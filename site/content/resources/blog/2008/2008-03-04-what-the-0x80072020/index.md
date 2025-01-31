@@ -2,6 +2,10 @@
 title: What the 0x80072020?
 description: Discover the 0x80072020 error in .NET 3.5 and learn how to securely access Active Directory with user credentials. Find solutions and insights here!
 ResourceId: ts3nKVfoy1j
+ResourceImport: true
+ResourceImportId: 243
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-03-04
 creator: Martin Hinshelwood
 id: "243"
@@ -14,6 +18,12 @@ aliases:
 - /what-the-0x80072020-
 - /blog/what-the-0x80072020-
 - /resources/ts3nKVfoy1j
+- /resources/blog/what-the-0x80072020
+aliasesFor404:
+- /what-the-0x80072020
+- /blog/what-the-0x80072020
+- /what-the-0x80072020-
+- /blog/what-the-0x80072020-
 tags:
 - code
 - wcf

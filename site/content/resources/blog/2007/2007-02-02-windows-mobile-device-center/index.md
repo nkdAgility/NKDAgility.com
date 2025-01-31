@@ -2,6 +2,10 @@
 title: Windows Mobile Device Center
 description: Discover the Windows Mobile Device Center, the essential tool for Vista users to sync devices effortlessly. Download the latest version and enhance your experience!
 ResourceId: yQwInotryjQ
+ResourceImport: true
+ResourceImportId: 437
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-02-02
 creator: Martin Hinshelwood
 id: "437"
@@ -12,6 +16,10 @@ aliases:
 - /blog/windows-mobile-device-center
 - /windows-mobile-device-center
 - /resources/yQwInotryjQ
+- /resources/blog/windows-mobile-device-center
+aliasesFor404:
+- /windows-mobile-device-center
+- /blog/windows-mobile-device-center
 tags:
 - windows-mobile-6
 categories:

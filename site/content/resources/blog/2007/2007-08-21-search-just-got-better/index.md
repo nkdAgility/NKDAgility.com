@@ -2,6 +2,10 @@
 title: Search just got better
 description: Discover Tafiti, a revolutionary search tool designed for dyslexic users. Experience intuitive features that enhance your search efficiency and ease.
 ResourceId: TUpvQFU0NSg
+ResourceImport: true
+ResourceImportId: 323
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-21
 creator: Martin Hinshelwood
 id: "323"
@@ -12,6 +16,10 @@ aliases:
 - /blog/search-just-got-better
 - /search-just-got-better
 - /resources/TUpvQFU0NSg
+- /resources/blog/search-just-got-better
+aliasesFor404:
+- /search-just-got-better
+- /blog/search-just-got-better
 tags:
 - dyslexia
 - live

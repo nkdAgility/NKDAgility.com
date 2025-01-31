@@ -2,6 +2,10 @@
 title: TFS Event Handler v1.1 released
 description: Discover the TFS Event Handler v1.1, enhancing notifications for Team Foundation Server 2008. Simplify alerts and streamline your workflow today!
 ResourceId: 8nsd44WYVDF
+ResourceImport: true
+ResourceImportId: 160
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-11-28
 creator: Martin Hinshelwood
 id: "160"
@@ -12,6 +16,10 @@ aliases:
 - /blog/tfs-event-handler-v1-1-released
 - /tfs-event-handler-v1-1-released
 - /resources/8nsd44WYVDF
+- /resources/blog/tfs-event-handler-v1-1-released
+aliasesFor404:
+- /tfs-event-handler-v1-1-released
+- /blog/tfs-event-handler-v1-1-released
 tags:
 - tfs
 - tfs2008

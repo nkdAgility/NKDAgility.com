@@ -2,6 +2,10 @@
 title: 'TFS Integration Tools–Issue: AnalysisProvider not found'
 description: Resolve the 'AnalysisProvider not found' issue in TFS Integration Tools with our expert workaround. Upgrade your .NET settings for a smooth experience!
 ResourceId: 8A-nFDUhe2o
+ResourceImport: true
+ResourceImportId: 6136
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2012-07-12
 creator: Martin Hinshelwood
 id: "6136"
@@ -14,6 +18,12 @@ aliases:
 - /tfs-integration-tools–issue--analysisprovider-not-found
 - /blog/tfs-integration-tools–issue--analysisprovider-not-found
 - /resources/8A-nFDUhe2o
+- /resources/blog/tfs-integration-toolsissue-analysisprovider-not-found
+aliasesFor404:
+- /tfs-integration-toolsissue-analysisprovider-not-found
+- /blog/tfs-integration-toolsissue-analysisprovider-not-found
+- /tfs-integration-tools–issue--analysisprovider-not-found
+- /blog/tfs-integration-tools–issue--analysisprovider-not-found
 tags:
 - kb
 - puzzles

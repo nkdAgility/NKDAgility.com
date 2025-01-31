@@ -2,6 +2,10 @@
 title: 'TFS Preview - Issue: TF400898 The underlying connection was closed'
 description: Encountering TF400898 in TFS Preview? Discover solutions to the 'underlying connection was closed' issue and ensure smooth file management. Read more!
 ResourceId: 0O-R50XIwUP
+ResourceImport: true
+ResourceImportId: 7161
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2012-08-16
 creator: Martin Hinshelwood
 id: "7161"
@@ -15,9 +19,11 @@ aliases:
 - /tfs-preview---issue--tf400898-the-underlying-connection-was-closed
 - /blog/tfs-preview---issue--tf400898-the-underlying-connection-was-closed
 - /resources/0O-R50XIwUP
-
----
-issue--tf400898-the-underlying-connection-was-closed
+- /resources/blog/tfs-preview-issue-tf400898-the-underlying-connection-was-closed
+aliasesFor404:
+- /tfs-preview-issue-tf400898-the-underlying-connection-was-closed
+- /blog/tfs-preview-issue-tf400898-the-underlying-connection-was-closed
+- /tfs-preview---issue--tf400898-the-underlying-connection-was-closed
 - /blog/tfs-preview---issue--tf400898-the-underlying-connection-was-closed
 tags:
 - puzzles

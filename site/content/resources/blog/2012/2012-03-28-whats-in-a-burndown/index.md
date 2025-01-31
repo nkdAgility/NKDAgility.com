@@ -2,6 +2,10 @@
 title: What's in a burndown?
 description: Discover the essentials of burndown charts in Agile. Learn how to visualize progress and enhance team communication for successful sprints.
 ResourceId: SdYtGr9X2KV
+ResourceImport: true
+ResourceImportId: 5002
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2012-03-28
 creator: Martin Hinshelwood
 id: "5002"
@@ -14,6 +18,12 @@ aliases:
 - /what's-in-a-burndown-
 - /blog/what's-in-a-burndown-
 - /resources/SdYtGr9X2KV
+- /resources/blog/whats-in-a-burndown
+aliasesFor404:
+- /whats-in-a-burndown
+- /blog/whats-in-a-burndown
+- /what's-in-a-burndown-
+- /blog/what's-in-a-burndown-
 tags:
 - agile
 - configuration

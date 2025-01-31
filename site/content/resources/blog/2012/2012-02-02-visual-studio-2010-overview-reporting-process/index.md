@@ -2,6 +2,10 @@
 title: Visual Studio 2010 Overview - Reporting & Process
 description: Explore Visual Studio 2010's reporting and process templates to enhance team collaboration and continuous improvement. Unlock your development potential today!
 ResourceId: Ryiemqc7hnZ
+ResourceImport: true
+ResourceImportId: 4138
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2012-02-02
 creator: Martin Hinshelwood
 id: "4138"
@@ -15,9 +19,11 @@ aliases:
 - /visual-studio-2010-overview---reporting-&-process
 - /blog/visual-studio-2010-overview---reporting-&-process
 - /resources/Ryiemqc7hnZ
-
----
-reporting-&-process
+- /resources/blog/visual-studio-2010-overview-reporting-process
+aliasesFor404:
+- /visual-studio-2010-overview-reporting-process
+- /blog/visual-studio-2010-overview-reporting-process
+- /visual-studio-2010-overview---reporting-&-process
 - /blog/visual-studio-2010-overview---reporting-&-process
 tags:
 - modern-alm

@@ -2,6 +2,10 @@
 title: New Event Handlers
 description: Discover new event handlers for TFS that enhance work item tracking. Learn how to implement the Assigned To and Reassigned handlers easily!
 ResourceId: kofEeioSTH9
+ResourceImport: true
+ResourceImportId: 258
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-01-31
 creator: Martin Hinshelwood
 id: "258"
@@ -12,6 +16,10 @@ aliases:
 - /blog/new-event-handlers
 - /new-event-handlers
 - /resources/kofEeioSTH9
+- /resources/blog/new-event-handlers
+aliasesFor404:
+- /new-event-handlers
+- /blog/new-event-handlers
 tags:
 - code
 - infrastructure

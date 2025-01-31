@@ -2,6 +2,10 @@
 title: Deployment documentation
 description: Explore effective deployment strategies for complex applications across multiple environments. Learn how to gain control and streamline updates with ease.
 ResourceId: 154BNVcnbaU
+ResourceImport: true
+ResourceImportId: 363
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-07-23
 creator: Martin Hinshelwood
 id: "363"
@@ -12,6 +16,10 @@ aliases:
 - /blog/deployment-documentation
 - /deployment-documentation
 - /resources/154BNVcnbaU
+- /resources/blog/deployment-documentation
+aliasesFor404:
+- /deployment-documentation
+- /blog/deployment-documentation
 categories:
 - code-and-complexity
 preview: metro-binary-vb-128-link-1-1.png

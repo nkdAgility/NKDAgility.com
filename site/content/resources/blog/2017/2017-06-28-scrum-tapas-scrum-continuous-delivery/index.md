@@ -2,6 +2,10 @@
 title: 'Scrum Tapas: Scrum and Continuous Delivery'
 description: Discover how Scrum and Continuous Delivery work together in this insightful video by Martin Hinshelwood. Enhance your agile practices today!
 ResourceId: LoRDIqNuwD-
+ResourceImport: true
+ResourceImportId: 11946
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2017-06-28
 creator: Martin Hinshelwood
 id: "11946"
@@ -14,6 +18,12 @@ aliases:
 - /scrum-tapas--scrum-and-continuous-delivery
 - /blog/scrum-tapas--scrum-and-continuous-delivery
 - /resources/LoRDIqNuwD-
+- /resources/blog/scrum-tapas-scrum-continuous-delivery
+aliasesFor404:
+- /scrum-tapas-scrum-continuous-delivery
+- /blog/scrum-tapas-scrum-continuous-delivery
+- /scrum-tapas--scrum-and-continuous-delivery
+- /blog/scrum-tapas--scrum-and-continuous-delivery
 tags:
 - continious-delivery
 - continious-value-delivery

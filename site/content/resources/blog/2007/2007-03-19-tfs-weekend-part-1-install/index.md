@@ -2,6 +2,10 @@
 title: TFS Weekend Part 1 - Install
 description: Join Martin Hinshelwood as he shares his TFS installation journey, tackling challenges and solutions for small companies. Discover tips for success!
 ResourceId: B1LQBjDfDfF
+ResourceImport: true
+ResourceImportId: 426
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-03-19
 creator: Martin Hinshelwood
 id: "426"
@@ -12,18 +16,14 @@ aliases:
 - /blog/tfs-weekend-part-1-install
 - /tfs-weekend-part-1-install
 - /tfs-weekend-part-1
-- /tfs-weekend-part-1
 - /tfs-weekend-part-1---install
 - /blog/tfs-weekend-part-1---install
 - /resources/B1LQBjDfDfF
-
----
-install
-- /blog/tfs-weekend-part-1---install
-- /resources/B1LQBjDfDfF
-
----
-install
+- /resources/blog/tfs-weekend-part-1-install
+aliasesFor404:
+- /tfs-weekend-part-1-install
+- /blog/tfs-weekend-part-1-install
+- /tfs-weekend-part-1---install
 - /blog/tfs-weekend-part-1---install
 preview: nakedalm-logo-128-link-1-1.png
 

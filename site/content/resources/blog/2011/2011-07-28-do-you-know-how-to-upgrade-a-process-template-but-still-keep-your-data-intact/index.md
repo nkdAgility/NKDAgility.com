@@ -2,6 +2,10 @@
 title: Upgrading your Process Template in Team Foundation Server
 description: Master the art of upgrading your Team Foundation Server process templates with expert tips and strategies to retain data and enhance your workflow.
 ResourceId: o6VvFIPoyTU
+ResourceImport: true
+ResourceImportId: 3717
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2011-07-28
 creator: Martin Hinshelwood
 id: "3717"
@@ -14,6 +18,12 @@ aliases:
 - /upgrading-your-process-template-in-team-foundation-server
 - /blog/upgrading-your-process-template-in-team-foundation-server
 - /resources/o6VvFIPoyTU
+- /resources/blog/do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact
+aliasesFor404:
+- /do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact
+- /blog/do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact
+- /upgrading-your-process-template-in-team-foundation-server
+- /blog/upgrading-your-process-template-in-team-foundation-server
 tags:
 - configuration
 - infrastructure

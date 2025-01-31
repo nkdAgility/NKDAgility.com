@@ -2,6 +2,10 @@
 title: Office 2010 First run
 description: Discover the exciting first run of Office 2010! Join Martin Hinshelwood as he explores new features and user-friendly enhancements. Dive in now!
 ResourceId: muFdzg1ck3Q
+ResourceImport: true
+ResourceImportId: 102
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-07-16
 creator: Martin Hinshelwood
 id: "102"
@@ -12,6 +16,10 @@ aliases:
 - /blog/office-2010-first-run
 - /office-2010-first-run
 - /resources/muFdzg1ck3Q
+- /resources/blog/office-2010-first-run
+aliasesFor404:
+- /office-2010-first-run
+- /blog/office-2010-first-run
 tags:
 - office
 - tools

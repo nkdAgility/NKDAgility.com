@@ -2,6 +2,10 @@
 title: 'TFS 2012 Issue: TF255507: The security identifier (SID) for the following SQL Server login conflicts'
 description: Resolve the TF255507 error in TFS 2012 caused by SQL Server login conflicts. Follow our expert solutions to ensure a smooth installation process.
 ResourceId: xEMKWWn-mv3
+ResourceImport: true
+ResourceImportId: 7074
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2012-08-07
 creator: Martin Hinshelwood
 id: "7074"
@@ -14,6 +18,12 @@ aliases:
 - /tfs-2012-issue--tf255507--the-security-identifier-(sid)-for-the-following-sql-server-login-conflicts
 - /blog/tfs-2012-issue--tf255507--the-security-identifier-(sid)-for-the-following-sql-server-login-conflicts
 - /resources/xEMKWWn-mv3
+- /resources/blog/tfs-2012-issue-tf255507-the-security-identifier-sid-for-the-following-sql-server-login-conflicts
+aliasesFor404:
+- /tfs-2012-issue-tf255507-the-security-identifier-sid-for-the-following-sql-server-login-conflicts
+- /blog/tfs-2012-issue-tf255507-the-security-identifier-sid-for-the-following-sql-server-login-conflicts
+- /tfs-2012-issue--tf255507--the-security-identifier-(sid)-for-the-following-sql-server-login-conflicts
+- /blog/tfs-2012-issue--tf255507--the-security-identifier-(sid)-for-the-following-sql-server-login-conflicts
 tags:
 - puzzles
 - sql-server

@@ -2,6 +2,10 @@
 title: 'Found GDR Bug: At least I think it is.'
 description: Discover a potential GDR bug affecting SQL views and derived tables. Join the discussion and help improve Data Dude with your insights and votes!
 ResourceId: LjS_IaGaE9R
+ResourceImport: true
+ResourceImportId: 198
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-09-04
 creator: Martin Hinshelwood
 id: "198"
@@ -14,6 +18,12 @@ aliases:
 - /found-gdr-bug--at-least-i-think-it-is-
 - /blog/found-gdr-bug--at-least-i-think-it-is-
 - /resources/LjS_IaGaE9R
+- /resources/blog/found-gdr-bug-at-least-i-think-it-is
+aliasesFor404:
+- /found-gdr-bug-at-least-i-think-it-is
+- /blog/found-gdr-bug-at-least-i-think-it-is
+- /found-gdr-bug--at-least-i-think-it-is-
+- /blog/found-gdr-bug--at-least-i-think-it-is-
 tags:
 - aggreko
 - tools

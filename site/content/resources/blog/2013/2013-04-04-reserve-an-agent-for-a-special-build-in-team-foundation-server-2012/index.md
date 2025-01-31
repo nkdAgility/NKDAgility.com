@@ -2,6 +2,10 @@
 title: Reserve an Agent for a special build in Team Foundation Server 2012
 description: Learn how to reserve a build agent in Team Foundation Server 2012 to streamline your build process and avoid conflicts. Optimize your CI/CD workflow now!
 ResourceId: SrsgdgZeWGm
+ResourceImport: true
+ResourceImportId: 9359
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2013-04-04
 creator: Martin Hinshelwood
 id: "9359"
@@ -12,6 +16,10 @@ aliases:
 - /blog/reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
 - /reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
 - /resources/SrsgdgZeWGm
+- /resources/blog/reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
+aliasesFor404:
+- /reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
+- /blog/reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
 tags:
 - agent-scope
 - build-agent

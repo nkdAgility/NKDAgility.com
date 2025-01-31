@@ -2,6 +2,10 @@
 title: Anatomy of an Automation for the Tfs Automation Platform
 description: Explore the anatomy of automations for the TFS Automation Platform. Learn how to integrate and deploy extensions effectively for enhanced productivity.
 ResourceId: 5naWQQ14MHe
+ResourceImport: true
+ResourceImportId: 3361
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2011-06-01
 creator: Martin Hinshelwood
 id: "3361"
@@ -12,6 +16,10 @@ aliases:
 - /blog/anatomy-of-an-automation-for-the-tfs-automation-platform
 - /anatomy-of-an-automation-for-the-tfs-automation-platform
 - /resources/5naWQQ14MHe
+- /resources/blog/anatomy-of-an-automation-for-the-tfs-automation-platform
+aliasesFor404:
+- /anatomy-of-an-automation-for-the-tfs-automation-platform
+- /blog/anatomy-of-an-automation-for-the-tfs-automation-platform
 tags:
 - nwcadence
 - tfs

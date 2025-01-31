@@ -9,10 +9,6 @@ layout: blog
 resourceTypes: blog
 slug: definition-of-done-objective-vs-subjective
 aliases:
-- /definition-of-done-objective-vs-subjective
-- /blog/definition-of-done-objective-vs-subjective
-- /definition-of-done---objective-vs-subjective
-- /blog/definition-of-done---objective-vs-subjective
 - /resources/-Z5GGUOjc-d
 tags:
 - Definition of Done

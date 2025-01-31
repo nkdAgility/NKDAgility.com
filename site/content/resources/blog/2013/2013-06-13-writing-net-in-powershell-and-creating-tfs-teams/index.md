@@ -2,6 +2,10 @@
 title: Writing .NET in PowerShell and creating TFS Teams
 description: Discover how to leverage PowerShell for .NET and TFS API to create teams programmatically. Unlock new coding possibilities with practical insights!
 ResourceId: 52GnS0fI67Q
+ResourceImport: true
+ResourceImportId: 9903
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2013-06-13
 creator: Martin Hinshelwood
 id: "9903"
@@ -14,6 +18,12 @@ aliases:
 - /writing--net-in-powershell-and-creating-tfs-teams
 - /blog/writing--net-in-powershell-and-creating-tfs-teams
 - /resources/52GnS0fI67Q
+- /resources/blog/writing-net-in-powershell-and-creating-tfs-teams
+aliasesFor404:
+- /writing-net-in-powershell-and-creating-tfs-teams
+- /blog/writing-net-in-powershell-and-creating-tfs-teams
+- /writing--net-in-powershell-and-creating-tfs-teams
+- /blog/writing--net-in-powershell-and-creating-tfs-teams
 tags:
 - api
 - code

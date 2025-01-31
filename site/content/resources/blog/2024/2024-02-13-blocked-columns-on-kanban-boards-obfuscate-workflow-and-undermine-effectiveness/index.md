@@ -2,6 +2,10 @@
 title: Blocked Columns on Kanban Boards Obfuscate Workflow and Undermine Effectiveness
 description: Discover how blocked columns on Kanban boards hinder workflow efficiency. Learn effective strategies to enhance transparency and accountability in your team.
 ResourceId: 7JJaRr4g-KA
+ResourceImport: true
+ResourceImportId: 51208
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2024-02-13
 AudioNative: true
 creator: Martin Hinshelwood
@@ -16,6 +20,10 @@ aliases:
 - /blog/blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
 - /blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
 - /resources/7JJaRr4g-KA
+- /resources/blog/blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
+aliasesFor404:
+- /blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
+- /blog/blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
 tags:
 - homepage
 categories:

@@ -2,6 +2,10 @@
 title: Avoid the Bug as Task anti-pattern in Azure DevOps
 description: Learn to avoid the Bug as Task anti-pattern in Azure DevOps to enhance team communication, transparency, and software quality. Improve your agile processes now!
 ResourceId: ppfe8CkVNf0
+ResourceImport: true
+ResourceImportId: 10662
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2014-08-06
 creator: Martin Hinshelwood
 id: "10662"
@@ -14,6 +18,10 @@ aliases:
 - /blog/avoid-the-bug-as-task-anti-pattern-in-azure-devops
 - /blog/avoid-bug-task-anti-pattern-azure-devops/
 - /resources/ppfe8CkVNf0
+- /resources/blog/
+aliasesFor404:
+- /avoid-the-bug-as-task-anti-pattern-in-azure-devops
+- /blog/avoid-the-bug-as-task-anti-pattern-in-azure-devops
 tags:
 - anti-pattern
 - bug

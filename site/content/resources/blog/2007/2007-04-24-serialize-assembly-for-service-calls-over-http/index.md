@@ -2,6 +2,10 @@
 title: Serialize Assembly for Service calls over Http
 description: Discover how to serialize .NET assemblies for WCF service calls without byte streams. Join the discussion and find solutions to your coding challenges!
 ResourceId: TgSz2FK5KBK
+ResourceImport: true
+ResourceImportId: 415
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-04-24
 creator: Martin Hinshelwood
 id: "415"
@@ -12,6 +16,10 @@ aliases:
 - /blog/serialize-assembly-for-service-calls-over-http
 - /serialize-assembly-for-service-calls-over-http
 - /resources/TgSz2FK5KBK
+- /resources/blog/serialize-assembly-for-service-calls-over-http
+aliasesFor404:
+- /serialize-assembly-for-service-calls-over-http
+- /blog/serialize-assembly-for-service-calls-over-http
 tags:
 - code
 - ml

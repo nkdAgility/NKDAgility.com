@@ -2,6 +2,10 @@
 title: Team Foundation Server & SharePoint 3.0
 description: Explore how to integrate SharePoint 3.0 with Team Foundation Server for a streamlined project management experience. Discover tips and best practices!
 ResourceId: vIsHKPxOtz-
+ResourceImport: true
+ResourceImportId: 391
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-05-31
 creator: Martin Hinshelwood
 id: "391"
@@ -14,6 +18,12 @@ aliases:
 - /team-foundation-server-&-sharepoint-3-0
 - /blog/team-foundation-server-&-sharepoint-3-0
 - /resources/vIsHKPxOtz-
+- /resources/blog/team-foundation-server-sharepoint-3-0
+aliasesFor404:
+- /team-foundation-server-sharepoint-3-0
+- /blog/team-foundation-server-sharepoint-3-0
+- /team-foundation-server-&-sharepoint-3-0
+- /blog/team-foundation-server-&-sharepoint-3-0
 tags:
 - sp2007
 - tfs
