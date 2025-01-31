@@ -110,7 +110,7 @@ function Update-StringList {
     )
 
     # Ensure the input values are unique
-    $values = $values | Select-Object -Unique
+    $values = @($values | Select-Object -Unique)
 
     if (-not $frontMatter.Contains($fieldName)) {
         # Add property if it doesn't exist with position logic
@@ -132,6 +132,10 @@ function Update-StringList {
         Write-Host "$fieldName added"
     }
     else {
+        # Ensure the field is always an array
+        if (-not ($frontMatter[$fieldName] -is [System.Collections.IEnumerable] -and $frontMatter[$fieldName] -isnot [string])) {
+            $frontMatter[$fieldName] = @($frontMatter[$fieldName])
+        }
         # Update list if it already exists, adding only unique values
         $existingValues = $frontMatter[$fieldName]
         $newValues = $values | Where-Object { -not ($existingValues -icontains $_) }
