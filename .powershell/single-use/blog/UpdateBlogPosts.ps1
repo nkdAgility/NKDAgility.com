@@ -4,7 +4,7 @@
 . ./.powershell/_includes/ResourceHelpers.ps1
 
 # Iterate through each blog folder and update markdown files
-$outputDir = "site\content\resources\blog\2025"
+$outputDir = "site\content\resources\blog\"
 
 # Get list of directories and select the first 10
 $blogs = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md" #| Select-Object -First 10
@@ -86,7 +86,10 @@ $blogs | ForEach-Object {
                 }           
             }
         }
-        Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliasesFor404' -values $404aliases -addAfter 'aliases'
+        if ($404aliases -is [array] -and $404aliases.Count -gt 0) {
+            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliasesFor404' -values $404aliases -addAfter 'aliases'
+        }
+        
         
 
         Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $markdownFile

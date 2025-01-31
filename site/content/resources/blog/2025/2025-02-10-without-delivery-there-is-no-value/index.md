@@ -8,22 +8,23 @@ creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
 slug: without-delivery-no-value
-aliases: /resources/UfdnQrxv5iF
+aliases:
+  - /resources/UfdnQrxv5iF
 tags:
-- Delivery
-- Accountability
-- Scrum
-- Done
-- value delivery
-- frequent releases
-- delivery costs
-- agility
+  - Delivery
+  - Accountability
+  - Scrum
+  - Done
+  - value delivery
+  - frequent releases
+  - delivery costs
+  - agility
 categories:
-- Delivery
-- People & Teams
+  - Delivery
+  - People & Teams
 preview: 2025-02-10-without-delivery-no-value.jpg
-
 ---
+
 Before delivery, all ideas and strategies remain theoretical. They are assumptions - educated guesses that may or may not align with actual needs or expectations. **Delivery is the only mechanism** through which these assumptions are validated, transforming theory into tangible outcomes that can be measured, tested, and improved.
 
 > Value exists only when it is realised, and the only way to realise the value in software is to release it.
