@@ -18,6 +18,7 @@ aliases:
 - /a-problem-with-diarist-2-
 - /blog/a-problem-with-diarist-2-
 - /resources/Pq0Hdy2qZ05
+- /resources/blog/a-problem-with-diarist-2
 aliasesFor404:
 - /a-problem-with-diarist-2
 - /blog/a-problem-with-diarist-2

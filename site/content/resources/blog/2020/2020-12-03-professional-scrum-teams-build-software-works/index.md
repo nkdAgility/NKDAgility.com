@@ -18,6 +18,7 @@ aliases:
 - /professional-scrum-teams-build-software-that-works
 - /blog/professional-scrum-teams-build-software-that-works
 - /resources/vCeqzJIgF1F
+- /resources/blog/professional-scrum-teams-build-software-works
 aliasesFor404:
 - /professional-scrum-teams-build-software-works
 - /blog/professional-scrum-teams-build-software-works

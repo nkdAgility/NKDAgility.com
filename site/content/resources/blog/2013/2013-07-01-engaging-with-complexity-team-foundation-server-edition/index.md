@@ -19,6 +19,7 @@ aliases:
 - /engaging-with-complexity---team-foundation-server-edition
 - /blog/engaging-with-complexity---team-foundation-server-edition
 - /resources/xr1jtRnRNvp
+- /resources/blog/engaging-with-complexity-team-foundation-server-edition
 aliasesFor404:
 - /engaging-with-complexity-team-foundation-server-edition
 - /blog/engaging-with-complexity-team-foundation-server-edition

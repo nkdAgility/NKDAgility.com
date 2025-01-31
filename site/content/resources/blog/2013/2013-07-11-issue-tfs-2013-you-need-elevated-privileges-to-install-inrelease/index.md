@@ -18,6 +18,7 @@ aliases:
 - /issue-[-tfs-2013-]-you-need-elevated-privileges-to-install-inrelease
 - /blog/issue-[-tfs-2013-]-you-need-elevated-privileges-to-install-inrelease
 - /resources/8WoqmaS6v99
+- /resources/blog/issue-tfs-2013-you-need-elevated-privileges-to-install-inrelease
 aliasesFor404:
 - /issue-tfs-2013-you-need-elevated-privileges-to-install-inrelease
 - /blog/issue-tfs-2013-you-need-elevated-privileges-to-install-inrelease

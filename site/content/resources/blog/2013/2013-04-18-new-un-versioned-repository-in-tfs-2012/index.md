@@ -16,6 +16,7 @@ aliases:
 - /blog/new-un-versioned-repository-in-tfs-2012
 - /new-un-versioned-repository-in-tfs-2012
 - /resources/AoTaD6481iE
+- /resources/blog/new-un-versioned-repository-in-tfs-2012
 aliasesFor404:
 - /new-un-versioned-repository-in-tfs-2012
 - /blog/new-un-versioned-repository-in-tfs-2012

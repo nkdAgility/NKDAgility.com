@@ -19,6 +19,7 @@ aliases:
 - /visual-studio-2010-overview---microsoft-test-manager
 - /blog/visual-studio-2010-overview---microsoft-test-manager
 - /resources/6a-Qtjtf94G
+- /resources/blog/visual-studio-2010-overview-microsoft-test-manager
 aliasesFor404:
 - /visual-studio-2010-overview-microsoft-test-manager
 - /blog/visual-studio-2010-overview-microsoft-test-manager

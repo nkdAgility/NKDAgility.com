@@ -18,6 +18,7 @@ aliases:
 - /guidance--how-to-layout-you-files-for-an-ideal-solution
 - /blog/guidance--how-to-layout-you-files-for-an-ideal-solution
 - /resources/qHU7H_raZge
+- /resources/blog/guidance-how-to-layout-you-files-for-an-ideal-solution
 aliasesFor404:
 - /guidance-how-to-layout-you-files-for-an-ideal-solution
 - /blog/guidance-how-to-layout-you-files-for-an-ideal-solution

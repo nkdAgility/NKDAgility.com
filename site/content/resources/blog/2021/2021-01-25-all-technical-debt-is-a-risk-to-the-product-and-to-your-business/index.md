@@ -19,6 +19,7 @@ aliases:
 - /all-technical-debt-is-a-risk-to-the-product-and-to-your-business-
 - /blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business-
 - /resources/ZSqNF7v9vSR
+- /resources/blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business
 aliasesFor404:
 - /all-technical-debt-is-a-risk-to-the-product-and-to-your-business
 - /blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business

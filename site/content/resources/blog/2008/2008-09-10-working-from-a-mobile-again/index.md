@@ -18,6 +18,7 @@ aliases:
 - /working-from-a-mobile-again-
 - /blog/working-from-a-mobile-again-
 - /resources/xI-FYcMl1lT
+- /resources/blog/working-from-a-mobile-again
 aliasesFor404:
 - /working-from-a-mobile-again
 - /blog/working-from-a-mobile-again

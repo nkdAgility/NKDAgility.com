@@ -8,7 +8,7 @@ creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
 slug: without-delivery-no-value
-aliases: /resources/UfdnQrxv5iF
+aliases: /resources/UfdnQrxv5iF/resources/blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
 tags:
 - Delivery
 - Accountability

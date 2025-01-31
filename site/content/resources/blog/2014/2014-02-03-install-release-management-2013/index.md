@@ -16,6 +16,7 @@ aliases:
 - /blog/install-release-management-2013
 - /install-release-management-2013
 - /resources/1m73SCOy0k9
+- /resources/blog/install-release-management-2013
 aliasesFor404:
 - /install-release-management-2013
 - /blog/install-release-management-2013

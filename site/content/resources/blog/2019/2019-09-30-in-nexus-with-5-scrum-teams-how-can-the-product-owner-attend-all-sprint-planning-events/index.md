@@ -20,6 +20,7 @@ aliases:
 - /resources/As4R5dKsJtU
 - /in-nexus-with-5-scrum-teams--how-can-the-product-owner-attend-all-sprint-planning-events-
 - /blog/in-nexus-with-5-scrum-teams--how-can-the-product-owner-attend-all-sprint-planning-events-
+- /resources/blog/in-nexus-with-5-scrum-teams-how-can-the-product-owner-attend-all-sprint-planning-events
 aliasesFor404:
 - /in-nexus-with-5-scrum-teams-how-can-the-product-owner-attend-all-sprint-planning-events
 - /blog/in-nexus-with-5-scrum-teams-how-can-the-product-owner-attend-all-sprint-planning-events

@@ -18,6 +18,7 @@ aliases:
 - /product-owners-are-not-a-myth
 - /blog/product-owners-are-not-a-myth
 - /resources/pgJ89XqQPZe
+- /resources/blog/product-owners-are-not-a-myth-2
 aliasesFor404:
 - /product-owners-are-not-a-myth-2
 - /blog/product-owners-are-not-a-myth-2

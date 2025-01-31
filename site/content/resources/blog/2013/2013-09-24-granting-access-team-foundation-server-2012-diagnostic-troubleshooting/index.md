@@ -18,6 +18,7 @@ aliases:
 - /granting-access-to-team-foundation-server-2012-for-diagnostic-troubleshooting
 - /blog/granting-access-to-team-foundation-server-2012-for-diagnostic-troubleshooting
 - /resources/8N31NtGZFyB
+- /resources/blog/granting-access-team-foundation-server-2012-diagnostic-troubleshooting
 aliasesFor404:
 - /granting-access-team-foundation-server-2012-diagnostic-troubleshooting
 - /blog/granting-access-team-foundation-server-2012-diagnostic-troubleshooting

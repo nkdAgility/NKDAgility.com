@@ -16,6 +16,7 @@ aliases:
 - /blog/migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform
 - /migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform
 - /resources/aEBNMpag_Cn
+- /resources/blog/migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform
 aliasesFor404:
 - /migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform
 - /blog/migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform

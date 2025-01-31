@@ -17,6 +17,7 @@ aliases:
 - /blog/become-the-leader-that-you-were-meant-to-to-be
 - /become-the-leader-that-you-were-meant-to-to-be
 - /resources/-Oo9b3G-8Zw
+- /resources/blog/become-the-leader-that-you-were-meant-to-to-be
 aliasesFor404:
 - /become-the-leader-that-you-were-meant-to-to-be
 - /blog/become-the-leader-that-you-were-meant-to-to-be

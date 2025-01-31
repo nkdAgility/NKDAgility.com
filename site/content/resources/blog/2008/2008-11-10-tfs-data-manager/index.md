@@ -16,6 +16,7 @@ aliases:
 - /blog/tfs-data-manager
 - /tfs-data-manager
 - /resources/0STlzaSKK3X
+- /resources/blog/tfs-data-manager
 aliasesFor404:
 - /tfs-data-manager
 - /blog/tfs-data-manager

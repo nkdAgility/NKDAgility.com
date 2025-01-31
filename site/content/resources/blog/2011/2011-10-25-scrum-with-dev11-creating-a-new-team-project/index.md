@@ -18,6 +18,7 @@ aliases:
 - /scrum-with-visual-studio-11---creating-a-new-team-project
 - /blog/scrum-with-visual-studio-11---creating-a-new-team-project
 - /resources/04eLjqdYkiX
+- /resources/blog/scrum-with-dev11-creating-a-new-team-project
 aliasesFor404:
 - /scrum-with-dev11-creating-a-new-team-project
 - /blog/scrum-with-dev11-creating-a-new-team-project

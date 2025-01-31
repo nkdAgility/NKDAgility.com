@@ -18,6 +18,7 @@ aliases:
 - /how-'e'-are-you-
 - /blog/how-'e'-are-you-
 - /resources/YDrhk8yEGQa
+- /resources/blog/how-e-are-you
 aliasesFor404:
 - /how-e-are-you
 - /blog/how-e-are-you

@@ -16,6 +16,7 @@ aliases:
 - /blog/commit-to-visual-studio-alm-on-area51
 - /commit-to-visual-studio-alm-on-area51
 - /resources/czqyZFQxRrp
+- /resources/blog/commit-to-visual-studio-alm-on-area51
 aliasesFor404:
 - /commit-to-visual-studio-alm-on-area51
 - /blog/commit-to-visual-studio-alm-on-area51

@@ -16,6 +16,7 @@ aliases:
 - /blog/microsoft-myphone-service-available-to-the-public
 - /microsoft-myphone-service-available-to-the-public
 - /resources/NJdlXIZJJyN
+- /resources/blog/microsoft-myphone-service-available-to-the-public
 aliasesFor404:
 - /microsoft-myphone-service-available-to-the-public
 - /blog/microsoft-myphone-service-available-to-the-public

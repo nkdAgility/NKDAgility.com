@@ -18,6 +18,7 @@ aliases:
 - /tfs-2010-work-item-seed--tfs-work-item-system-id-at-a-predefined-number
 - /blog/tfs-2010-work-item-seed--tfs-work-item-system-id-at-a-predefined-number
 - /resources/rRCNKBm5xct
+- /resources/blog/tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
 aliasesFor404:
 - /tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
 - /blog/tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number

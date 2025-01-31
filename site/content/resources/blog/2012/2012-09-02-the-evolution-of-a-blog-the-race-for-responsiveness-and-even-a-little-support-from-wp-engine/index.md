@@ -20,6 +20,7 @@ aliases:
 - /resources/6-_05CBAsbh
 - /the-evolution-of-a-blog--the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
 - /blog/the-evolution-of-a-blog--the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
+- /resources/blog/the-evolution-of-a-blog-the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
 aliasesFor404:
 - /the-evolution-of-a-blog-the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
 - /blog/the-evolution-of-a-blog-the-race-for-responsiveness-and-even-a-little-support-from-wp-engine

@@ -18,6 +18,7 @@ aliases:
 - /does-your-company-culture-resemble-survivor-
 - /blog/does-your-company-culture-resemble-survivor-
 - /resources/1VbvpOX1Hg0
+- /resources/blog/does-your-company-culture-resemble-survivor
 aliasesFor404:
 - /does-your-company-culture-resemble-survivor
 - /blog/does-your-company-culture-resemble-survivor

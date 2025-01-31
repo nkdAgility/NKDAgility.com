@@ -18,6 +18,7 @@ aliases:
 - /tfs-event-handler-(prototype)-refresh
 - /blog/tfs-event-handler-(prototype)-refresh
 - /resources/RcunqCP6sF8
+- /resources/blog/tfs-event-handler-prototype-refresh
 aliasesFor404:
 - /tfs-event-handler-prototype-refresh
 - /blog/tfs-event-handler-prototype-refresh

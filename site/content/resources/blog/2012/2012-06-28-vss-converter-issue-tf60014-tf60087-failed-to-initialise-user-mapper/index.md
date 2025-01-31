@@ -18,6 +18,7 @@ aliases:
 - /vss-converter-–-issue--tf60014-&-tf60087--failed-to-initialise-user-mapper
 - /blog/vss-converter-–-issue--tf60014-&-tf60087--failed-to-initialise-user-mapper
 - /resources/a2ptmGZFk8P
+- /resources/blog/vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper
 aliasesFor404:
 - /vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper
 - /blog/vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper

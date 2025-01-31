@@ -20,6 +20,7 @@ aliases:
 - /why-most-scrum-masters-are-failing-and-what-they-should-know
 - /blog/why-most-scrum-masters-are-failing-and-what-they-should-know
 - /resources/VTjU5Wl2XWU
+- /resources/blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
 aliasesFor404:
 - /the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
 - /blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know

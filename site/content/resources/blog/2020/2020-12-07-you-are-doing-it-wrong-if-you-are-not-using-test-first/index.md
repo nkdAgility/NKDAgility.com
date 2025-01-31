@@ -17,6 +17,7 @@ aliases:
 - /blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
 - /you-are-doing-it-wrong-if-you-are-not-using-test-first
 - /resources/yqHaiUlMNTP
+- /resources/blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
 aliasesFor404:
 - /you-are-doing-it-wrong-if-you-are-not-using-test-first
 - /blog/you-are-doing-it-wrong-if-you-are-not-using-test-first

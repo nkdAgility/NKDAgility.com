@@ -18,6 +18,7 @@ aliases:
 - /team-server-hmm-
 - /blog/team-server-hmm-
 - /resources/_HIn465Bu9n
+- /resources/blog/team-server-hmm
 aliasesFor404:
 - /team-server-hmm
 - /blog/team-server-hmm

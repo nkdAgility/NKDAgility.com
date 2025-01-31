@@ -16,6 +16,7 @@ aliases:
 - /blog/visual-studio-11-upgrade-health-check
 - /visual-studio-11-upgrade-health-check
 - /resources/A8N6LXr-4Ql
+- /resources/blog/visual-studio-11-upgrade-health-check
 aliasesFor404:
 - /visual-studio-11-upgrade-health-check
 - /blog/visual-studio-11-upgrade-health-check

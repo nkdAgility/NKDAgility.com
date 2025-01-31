@@ -16,6 +16,7 @@ aliases:
 - /blog/team-foundation-server-2013-is-production-ready
 - /team-foundation-server-2013-is-production-ready
 - /resources/HxDL5HRMiX4
+- /resources/blog/team-foundation-server-2013-is-production-ready
 aliasesFor404:
 - /team-foundation-server-2013-is-production-ready
 - /blog/team-foundation-server-2013-is-production-ready

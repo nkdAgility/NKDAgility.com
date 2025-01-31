@@ -16,6 +16,7 @@ aliases:
 - /blog/configure-a-dns-server-for-an-azure-virtual-network
 - /configure-a-dns-server-for-an-azure-virtual-network
 - /resources/sQQqpuZV5xQ
+- /resources/blog/configure-a-dns-server-for-an-azure-virtual-network
 aliasesFor404:
 - /configure-a-dns-server-for-an-azure-virtual-network
 - /blog/configure-a-dns-server-for-an-azure-virtual-network

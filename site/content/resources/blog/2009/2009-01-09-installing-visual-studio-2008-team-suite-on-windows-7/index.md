@@ -16,6 +16,7 @@ aliases:
 - /blog/installing-visual-studio-2008-team-suite-on-windows-7
 - /installing-visual-studio-2008-team-suite-on-windows-7
 - /resources/xxZKrAlxQiH
+- /resources/blog/installing-visual-studio-2008-team-suite-on-windows-7
 aliasesFor404:
 - /installing-visual-studio-2008-team-suite-on-windows-7
 - /blog/installing-visual-studio-2008-team-suite-on-windows-7

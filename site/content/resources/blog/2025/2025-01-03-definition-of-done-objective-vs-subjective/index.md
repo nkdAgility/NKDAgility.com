@@ -8,7 +8,7 @@ creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
 slug: definition-of-done-objective-vs-subjective
-aliases: /resources/-Z5GGUOjc-d
+aliases: /resources/-Z5GGUOjc-d/resources/blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
 tags:
 - Definition of Done
 categories:

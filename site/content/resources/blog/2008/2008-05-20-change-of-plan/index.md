@@ -16,6 +16,7 @@ aliases:
 - /blog/change-of-plan
 - /change-of-plan
 - /resources/KfLCHLNio90
+- /resources/blog/change-of-plan
 aliasesFor404:
 - /change-of-plan
 - /blog/change-of-plan

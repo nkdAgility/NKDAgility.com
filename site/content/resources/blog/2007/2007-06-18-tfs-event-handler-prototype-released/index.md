@@ -18,6 +18,7 @@ aliases:
 - /tfs-event-handler--prototype-released
 - /blog/tfs-event-handler--prototype-released
 - /resources/bfZgaw94nbj
+- /resources/blog/tfs-event-handler-prototype-released
 aliasesFor404:
 - /tfs-event-handler-prototype-released
 - /blog/tfs-event-handler-prototype-released

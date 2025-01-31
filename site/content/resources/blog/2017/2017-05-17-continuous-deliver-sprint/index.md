@@ -20,6 +20,7 @@ aliases:
 - /resources/nIIA3IUtX_z
 - /i-do-continuous-deliver--why-should-i-sprint-
 - /blog/i-do-continuous-deliver--why-should-i-sprint-
+- /resources/blog/continuous-deliver-sprint
 aliasesFor404:
 - /continuous-deliver-sprint
 - /blog/continuous-deliver-sprint

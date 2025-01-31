@@ -18,6 +18,7 @@ aliases:
 - /unable-to-load-task-handler-powershell-for-task-vsbuild
 - /blog/unable-to-load-task-handler-powershell-for-task-vsbuild
 - /resources/Rqhhvr6lAQK
+- /resources/blog/unable-load-task-handler-powershell-task-vsbuild
 aliasesFor404:
 - /unable-load-task-handler-powershell-task-vsbuild
 - /blog/unable-load-task-handler-powershell-task-vsbuild

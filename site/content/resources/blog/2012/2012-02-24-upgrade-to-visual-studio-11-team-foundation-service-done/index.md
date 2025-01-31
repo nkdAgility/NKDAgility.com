@@ -19,6 +19,7 @@ aliases:
 - /upgrade-to-visual-studio-11-team-foundation-service---done
 - /blog/upgrade-to-visual-studio-11-team-foundation-service---done
 - /resources/qZoGIj62YP4
+- /resources/blog/upgrade-to-visual-studio-11-team-foundation-service-done
 aliasesFor404:
 - /upgrade-to-visual-studio-11-team-foundation-service-done
 - /blog/upgrade-to-visual-studio-11-team-foundation-service-done

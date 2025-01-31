@@ -18,6 +18,7 @@ aliases:
 - /video--new-with-visual-studio-2013--manage-portfolio-backlogs-to-understand-the-scope-of-work
 - /blog/video--new-with-visual-studio-2013--manage-portfolio-backlogs-to-understand-the-scope-of-work
 - /resources/i-oFFVJd0PN
+- /resources/blog/video-new-with-visual-studio-2013-manage-portfolio-backlogs-to-understand-the-scope-of-work
 aliasesFor404:
 - /video-new-with-visual-studio-2013-manage-portfolio-backlogs-to-understand-the-scope-of-work
 - /blog/video-new-with-visual-studio-2013-manage-portfolio-backlogs-to-understand-the-scope-of-work

@@ -20,6 +20,7 @@ aliases:
 - /resources/eDmNn28RPGH
 - /loosing-the-battle--but-the-war-goes-on
 - /blog/loosing-the-battle--but-the-war-goes-on
+- /resources/blog/loosing-the-battle-but-the-war-goes-on
 aliasesFor404:
 - /loosing-the-battle-but-the-war-goes-on
 - /blog/loosing-the-battle-but-the-war-goes-on

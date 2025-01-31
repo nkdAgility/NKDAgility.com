@@ -16,6 +16,7 @@ aliases:
 - /blog/development-and-database-combined
 - /development-and-database-combined
 - /resources/9u4z7lAsHAh
+- /resources/blog/development-and-database-combined
 aliasesFor404:
 - /development-and-database-combined
 - /blog/development-and-database-combined

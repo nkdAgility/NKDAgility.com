@@ -18,6 +18,7 @@ aliases:
 - /what-the-0x80072020-
 - /blog/what-the-0x80072020-
 - /resources/ts3nKVfoy1j
+- /resources/blog/what-the-0x80072020
 aliasesFor404:
 - /what-the-0x80072020
 - /blog/what-the-0x80072020

@@ -18,6 +18,7 @@ aliases:
 - /teamplain---install-and-initial-views
 - /blog/teamplain---install-and-initial-views
 - /resources/SlsFZ5kO1Jc
+- /resources/blog/teamplain-install-and-initial-views
 aliasesFor404:
 - /teamplain-install-and-initial-views
 - /blog/teamplain-install-and-initial-views

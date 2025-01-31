@@ -16,6 +16,7 @@ aliases:
 - /blog/anatomy-of-an-automation-for-the-tfs-automation-platform
 - /anatomy-of-an-automation-for-the-tfs-automation-platform
 - /resources/5naWQQ14MHe
+- /resources/blog/anatomy-of-an-automation-for-the-tfs-automation-platform
 aliasesFor404:
 - /anatomy-of-an-automation-for-the-tfs-automation-platform
 - /blog/anatomy-of-an-automation-for-the-tfs-automation-platform

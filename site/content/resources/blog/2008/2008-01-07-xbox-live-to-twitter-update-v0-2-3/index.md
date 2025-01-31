@@ -18,6 +18,7 @@ aliases:
 - /xbox-live-to-twitter-update-(v0-2-3)
 - /blog/xbox-live-to-twitter-update-(v0-2-3)
 - /resources/4kh61B4o7T1
+- /resources/blog/xbox-live-to-twitter-update-v0-2-3
 aliasesFor404:
 - /xbox-live-to-twitter-update-v0-2-3
 - /blog/xbox-live-to-twitter-update-v0-2-3

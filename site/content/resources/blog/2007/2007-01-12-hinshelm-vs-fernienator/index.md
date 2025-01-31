@@ -16,6 +16,7 @@ aliases:
 - /blog/hinshelm-vs-fernienator
 - /hinshelm-vs-fernienator
 - /resources/RqLAuKHYWAJ
+- /resources/blog/hinshelm-vs-fernienator
 aliasesFor404:
 - /hinshelm-vs-fernienator
 - /blog/hinshelm-vs-fernienator

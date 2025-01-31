@@ -20,6 +20,7 @@ aliases:
 - /resources/SO1wlCfiUu4
 - /professional-scrum-foundations-coming-to-glasgow--scotland-in-november-2013
 - /blog/professional-scrum-foundations-coming-to-glasgow--scotland-in-november-2013
+- /resources/blog/professional-scrum-foundations-coming-to-glasgow-scotland-in-november-2013
 aliasesFor404:
 - /professional-scrum-foundations-coming-to-glasgow-scotland-in-november-2013
 - /blog/professional-scrum-foundations-coming-to-glasgow-scotland-in-november-2013

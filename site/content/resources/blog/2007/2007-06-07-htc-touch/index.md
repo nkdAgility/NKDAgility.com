@@ -16,6 +16,7 @@ aliases:
 - /blog/htc-touch
 - /htc-touch
 - /resources/nPextmaNube
+- /resources/blog/htc-touch
 aliasesFor404:
 - /htc-touch
 - /blog/htc-touch

@@ -18,6 +18,7 @@ aliases:
 - /tfs-event-handler--coverage-&-comments
 - /blog/tfs-event-handler--coverage-&-comments
 - /resources/PEksFd3ugtL
+- /resources/blog/tfs-event-handler-coverage-comments
 aliasesFor404:
 - /tfs-event-handler-coverage-comments
 - /blog/tfs-event-handler-coverage-comments

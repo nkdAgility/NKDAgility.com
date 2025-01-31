@@ -19,6 +19,7 @@ aliases:
 - /project-server-2013-issue---tf294003--cannot-access-the-following-pwa-instance
 - /blog/project-server-2013-issue---tf294003--cannot-access-the-following-pwa-instance
 - /resources/YXA8oHuhkaD
+- /resources/blog/project-server-2013-issue-tf294003-cannot-access-the-following-pwa-instance
 aliasesFor404:
 - /project-server-2013-issue-tf294003-cannot-access-the-following-pwa-instance
 - /blog/project-server-2013-issue-tf294003-cannot-access-the-following-pwa-instance

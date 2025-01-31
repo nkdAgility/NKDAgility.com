@@ -18,6 +18,7 @@ aliases:
 - /wpf-drag-&-drop-behaviour
 - /blog/wpf-drag-&-drop-behaviour
 - /resources/-BCzcrYA0j8
+- /resources/blog/wpf-drag-drop-behaviour
 aliasesFor404:
 - /wpf-drag-drop-behaviour
 - /blog/wpf-drag-drop-behaviour

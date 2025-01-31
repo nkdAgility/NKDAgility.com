@@ -18,6 +18,7 @@ aliases:
 - /tfs-eventhandler--msmq-refactor
 - /blog/tfs-eventhandler--msmq-refactor
 - /resources/1monS4nfW6w
+- /resources/blog/tfs-eventhandler-msmq-refactor
 aliasesFor404:
 - /tfs-eventhandler-msmq-refactor
 - /blog/tfs-eventhandler-msmq-refactor

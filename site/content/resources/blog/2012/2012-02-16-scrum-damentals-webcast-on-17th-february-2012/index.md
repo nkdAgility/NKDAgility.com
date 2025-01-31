@@ -16,6 +16,7 @@ aliases:
 - /blog/scrum-damentals-webcast-on-17th-february-2012
 - /scrum-damentals-webcast-on-17th-february-2012
 - /resources/bUSVyRUNCl3
+- /resources/blog/scrum-damentals-webcast-on-17th-february-2012
 aliasesFor404:
 - /scrum-damentals-webcast-on-17th-february-2012
 - /blog/scrum-damentals-webcast-on-17th-february-2012

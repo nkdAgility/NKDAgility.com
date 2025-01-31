@@ -18,6 +18,7 @@ aliases:
 - /who-broke-the-build-
 - /blog/who-broke-the-build-
 - /resources/SVgPQgwftag
+- /resources/blog/who-broke-the-build
 aliasesFor404:
 - /who-broke-the-build
 - /blog/who-broke-the-build

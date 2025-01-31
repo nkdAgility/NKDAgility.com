@@ -16,6 +16,7 @@ aliases:
 - /blog/connecting-vs2010-to-tfs-2008
 - /connecting-vs2010-to-tfs-2008
 - /resources/LrLP9ghLVoC
+- /resources/blog/connecting-vs2010-to-tfs-2008
 aliasesFor404:
 - /connecting-vs2010-to-tfs-2008
 - /blog/connecting-vs2010-to-tfs-2008

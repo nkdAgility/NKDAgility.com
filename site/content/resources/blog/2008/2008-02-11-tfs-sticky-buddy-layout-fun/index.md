@@ -18,6 +18,7 @@ aliases:
 - /blog/tfs-sticky-buddy-layout-fun---
 - /resources/kiOEzMLUa0k
 - /tfs-sticky-buddy-layout-fun
+- /resources/blog/tfs-sticky-buddy-layout-fun
 aliasesFor404:
 - /tfs-sticky-buddy-layout-fun
 - /blog/tfs-sticky-buddy-layout-fun

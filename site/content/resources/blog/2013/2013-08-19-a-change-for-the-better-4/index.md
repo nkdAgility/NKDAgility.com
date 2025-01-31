@@ -19,6 +19,7 @@ aliases:
 - /a-change-for-the-better--4---homecoming
 - /blog/a-change-for-the-better--4---homecoming
 - /resources/yryUrqeINBG
+- /resources/blog/a-change-for-the-better-4
 aliasesFor404:
 - /a-change-for-the-better-4
 - /blog/a-change-for-the-better-4

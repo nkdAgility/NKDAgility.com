@@ -18,6 +18,7 @@ aliases:
 - /coffee-talk--scrum-versus-kanban
 - /blog/coffee-talk--scrum-versus-kanban
 - /resources/1VmIrtnFKy7
+- /resources/blog/coffee-talk-scrum-versus-kanban
 aliasesFor404:
 - /coffee-talk-scrum-versus-kanban
 - /blog/coffee-talk-scrum-versus-kanban

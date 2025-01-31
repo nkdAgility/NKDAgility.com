@@ -16,6 +16,7 @@ aliases:
 - /blog/creating-a-custom-activity-for-team-foundation-build
 - /creating-a-custom-activity-for-team-foundation-build
 - /resources/mgwL4ERT1N3
+- /resources/blog/creating-a-custom-activity-for-team-foundation-build
 aliasesFor404:
 - /creating-a-custom-activity-for-team-foundation-build
 - /blog/creating-a-custom-activity-for-team-foundation-build

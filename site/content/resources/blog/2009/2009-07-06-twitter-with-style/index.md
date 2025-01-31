@@ -16,6 +16,7 @@ aliases:
 - /blog/twitter-with-style
 - /twitter-with-style
 - /resources/eIU0OIoHUfa
+- /resources/blog/twitter-with-style
 aliasesFor404:
 - /twitter-with-style
 - /blog/twitter-with-style

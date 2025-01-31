@@ -18,6 +18,7 @@ aliases:
 - /investigation---seo-permanent-redirects-for-old-url’s-
 - /blog/investigation---seo-permanent-redirects-for-old-url’s-
 - /resources/roXmyU8SYFJ
+- /resources/blog/investigation-seo-permanent-redirects-for-old-urls
 aliasesFor404:
 - /investigation-seo-permanent-redirects-for-old-urls
 - /blog/investigation-seo-permanent-redirects-for-old-urls

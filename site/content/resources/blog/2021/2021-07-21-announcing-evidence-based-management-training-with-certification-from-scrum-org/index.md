@@ -18,6 +18,7 @@ aliases:
 - /announcing-professional-agile-leadership-with-evidence-based-management-training-(pal-ebm)-from-scrum-org
 - /blog/announcing-professional-agile-leadership-with-evidence-based-management-training-(pal-ebm)-from-scrum-org
 - /resources/XuePm2RAZa0
+- /resources/blog/announcing-evidence-based-management-training-with-certification-from-scrum-org
 aliasesFor404:
 - /announcing-evidence-based-management-training-with-certification-from-scrum-org
 - /blog/announcing-evidence-based-management-training-with-certification-from-scrum-org

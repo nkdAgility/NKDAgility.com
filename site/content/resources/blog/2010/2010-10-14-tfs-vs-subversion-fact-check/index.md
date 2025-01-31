@@ -18,6 +18,7 @@ aliases:
 - /tfs-vs--subversion-fact-check
 - /blog/tfs-vs--subversion-fact-check
 - /resources/Tpk1xLI-Ygd
+- /resources/blog/tfs-vs-subversion-fact-check
 aliasesFor404:
 - /tfs-vs-subversion-fact-check
 - /blog/tfs-vs-subversion-fact-check

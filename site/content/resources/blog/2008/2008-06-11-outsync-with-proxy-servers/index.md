@@ -16,6 +16,7 @@ aliases:
 - /blog/outsync-with-proxy-servers
 - /outsync-with-proxy-servers
 - /resources/juUxY8REuRz
+- /resources/blog/outsync-with-proxy-servers
 aliasesFor404:
 - /outsync-with-proxy-servers
 - /blog/outsync-with-proxy-servers

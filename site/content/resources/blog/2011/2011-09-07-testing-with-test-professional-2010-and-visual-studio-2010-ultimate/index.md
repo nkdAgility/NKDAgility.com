@@ -16,6 +16,7 @@ aliases:
 - /blog/testing-with-test-professional-2010-and-visual-studio-2010-ultimate
 - /testing-with-test-professional-2010-and-visual-studio-2010-ultimate
 - /resources/SPcXGSE8VUI
+- /resources/blog/testing-with-test-professional-2010-and-visual-studio-2010-ultimate
 aliasesFor404:
 - /testing-with-test-professional-2010-and-visual-studio-2010-ultimate
 - /blog/testing-with-test-professional-2010-and-visual-studio-2010-ultimate

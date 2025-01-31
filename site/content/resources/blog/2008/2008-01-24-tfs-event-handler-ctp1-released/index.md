@@ -16,6 +16,7 @@ aliases:
 - /blog/tfs-event-handler-ctp1-released
 - /tfs-event-handler-ctp1-released
 - /resources/iC_oZlW88n0
+- /resources/blog/tfs-event-handler-ctp1-released
 aliasesFor404:
 - /tfs-event-handler-ctp1-released
 - /blog/tfs-event-handler-ctp1-released

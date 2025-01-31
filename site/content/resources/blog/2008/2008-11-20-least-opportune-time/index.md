@@ -18,6 +18,7 @@ aliases:
 - /least-opportune-time-
 - /blog/least-opportune-time-
 - /resources/wBoC9CmdiGq
+- /resources/blog/least-opportune-time
 aliasesFor404:
 - /least-opportune-time
 - /blog/least-opportune-time

@@ -18,6 +18,7 @@ aliases:
 - /can-the-definition-of-done-change-per-sprint-
 - /blog/can-the-definition-of-done-change-per-sprint-
 - /resources/LdmZbBlwgM-
+- /resources/blog/can-the-definition-of-done-change-per-sprint
 aliasesFor404:
 - /can-the-definition-of-done-change-per-sprint
 - /blog/can-the-definition-of-done-change-per-sprint

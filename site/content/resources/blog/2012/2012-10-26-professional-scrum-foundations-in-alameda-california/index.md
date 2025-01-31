@@ -20,6 +20,7 @@ aliases:
 - /resources/If3c0gr1udB
 - /professional-scrum-foundations-in-alameda--california
 - /blog/professional-scrum-foundations-in-alameda--california
+- /resources/blog/professional-scrum-foundations-in-alameda-california
 aliasesFor404:
 - /professional-scrum-foundations-in-alameda-california
 - /blog/professional-scrum-foundations-in-alameda-california

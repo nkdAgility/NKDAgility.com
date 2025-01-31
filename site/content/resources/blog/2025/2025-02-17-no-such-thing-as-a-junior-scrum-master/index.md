@@ -8,7 +8,7 @@ creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
 slug: no-such-thing-as-a-junior-scrum-master
-aliases: /resources/f2RQh2UCwqB
+aliases: /resources/f2RQh2UCwqB/resources/blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
 tags:
 - Scrum Master
 - Scrum

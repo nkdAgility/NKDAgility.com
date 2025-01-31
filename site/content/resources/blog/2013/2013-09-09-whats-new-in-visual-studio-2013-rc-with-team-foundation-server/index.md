@@ -18,6 +18,7 @@ aliases:
 - /what's-new-in-visual-studio-2013-and-tfs-2013-rc
 - /blog/what's-new-in-visual-studio-2013-and-tfs-2013-rc
 - /resources/_YCdFNYKYcM
+- /resources/blog/whats-new-in-visual-studio-2013-rc-with-team-foundation-server
 aliasesFor404:
 - /whats-new-in-visual-studio-2013-rc-with-team-foundation-server
 - /blog/whats-new-in-visual-studio-2013-rc-with-team-foundation-server

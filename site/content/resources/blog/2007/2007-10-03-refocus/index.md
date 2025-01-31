@@ -18,6 +18,7 @@ aliases:
 - /blog/refocus---
 - /resources/ofk0IF885SJ
 - /refocus
+- /resources/blog/refocus
 aliasesFor404:
 - /refocus
 - /blog/refocus

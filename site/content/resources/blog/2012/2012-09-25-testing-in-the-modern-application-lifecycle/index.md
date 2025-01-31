@@ -16,6 +16,7 @@ aliases:
 - /blog/testing-in-the-modern-application-lifecycle
 - /testing-in-the-modern-application-lifecycle
 - /resources/o-EY2NAQQSe
+- /resources/blog/testing-in-the-modern-application-lifecycle
 aliasesFor404:
 - /testing-in-the-modern-application-lifecycle
 - /blog/testing-in-the-modern-application-lifecycle

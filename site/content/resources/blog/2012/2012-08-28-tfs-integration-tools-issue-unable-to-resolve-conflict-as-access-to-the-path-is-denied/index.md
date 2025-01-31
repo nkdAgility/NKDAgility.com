@@ -19,6 +19,7 @@ aliases:
 - /tfs-integration-tools---issue--unable-to-resolve-conflict-as-access-to-the-path-is-denied
 - /blog/tfs-integration-tools---issue--unable-to-resolve-conflict-as-access-to-the-path-is-denied
 - /resources/5Bzu9VOxj_C
+- /resources/blog/tfs-integration-tools-issue-unable-to-resolve-conflict-as-access-to-the-path-is-denied
 aliasesFor404:
 - /tfs-integration-tools-issue-unable-to-resolve-conflict-as-access-to-the-path-is-denied
 - /blog/tfs-integration-tools-issue-unable-to-resolve-conflict-as-access-to-the-path-is-denied

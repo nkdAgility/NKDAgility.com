@@ -16,6 +16,7 @@ aliases:
 - /blog/tfs-process-template-migration-script-updated
 - /tfs-process-template-migration-script-updated
 - /resources/__k7mlKoTxt
+- /resources/blog/tfs-process-template-migration-script-updated
 aliasesFor404:
 - /tfs-process-template-migration-script-updated
 - /blog/tfs-process-template-migration-script-updated

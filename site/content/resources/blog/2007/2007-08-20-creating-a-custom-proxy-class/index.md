@@ -16,6 +16,7 @@ aliases:
 - /blog/creating-a-custom-proxy-class
 - /creating-a-custom-proxy-class
 - /resources/S4XG-Is-FHq
+- /resources/blog/creating-a-custom-proxy-class
 aliasesFor404:
 - /creating-a-custom-proxy-class
 - /blog/creating-a-custom-proxy-class

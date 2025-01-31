@@ -18,6 +18,7 @@ aliases:
 - /blog/i-always-like-a-good-serenity-plug---
 - /resources/5Grofbh67Vs
 - /i-always-like-a-good-serenity-plug
+- /resources/blog/i-always-like-a-good-serenity-plug
 aliasesFor404:
 - /i-always-like-a-good-serenity-plug
 - /blog/i-always-like-a-good-serenity-plug

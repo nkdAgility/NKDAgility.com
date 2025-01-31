@@ -16,6 +16,7 @@ aliases:
 - /blog/kerberos-and-sharepoint-2007
 - /kerberos-and-sharepoint-2007
 - /resources/REHiKbbVOD8
+- /resources/blog/kerberos-and-sharepoint-2007
 aliasesFor404:
 - /kerberos-and-sharepoint-2007
 - /blog/kerberos-and-sharepoint-2007

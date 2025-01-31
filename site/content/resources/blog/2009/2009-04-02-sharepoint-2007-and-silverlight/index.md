@@ -16,6 +16,7 @@ aliases:
 - /blog/sharepoint-2007-and-silverlight
 - /sharepoint-2007-and-silverlight
 - /resources/sHgkQlcvb2R
+- /resources/blog/sharepoint-2007-and-silverlight
 aliasesFor404:
 - /sharepoint-2007-and-silverlight
 - /blog/sharepoint-2007-and-silverlight

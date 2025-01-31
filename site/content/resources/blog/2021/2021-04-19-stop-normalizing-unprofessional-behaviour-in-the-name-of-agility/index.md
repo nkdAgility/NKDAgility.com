@@ -17,6 +17,7 @@ aliases:
 - /blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
 - /stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
 - /resources/mqbD3iIhRg4
+- /resources/blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
 aliasesFor404:
 - /stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
 - /blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility

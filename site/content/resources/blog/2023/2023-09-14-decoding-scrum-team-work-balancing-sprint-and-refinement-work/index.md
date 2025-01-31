@@ -19,6 +19,7 @@ aliases:
 - /decoding-scrum-team-work--balancing-sprint-and-refinement-work
 - /blog/decoding-scrum-team-work--balancing-sprint-and-refinement-work
 - /resources/RCMVmNzZDfV
+- /resources/blog/decoding-scrum-team-work-balancing-sprint-and-refinement-work
 aliasesFor404:
 - /decoding-scrum-team-work-balancing-sprint-and-refinement-work
 - /blog/decoding-scrum-team-work-balancing-sprint-and-refinement-work

@@ -16,6 +16,7 @@ aliases:
 - /blog/continuous-value-delivery-with-modern-business-applications
 - /continuous-value-delivery-with-modern-business-applications
 - /resources/Bqw3QI4cP_9
+- /resources/blog/continuous-value-delivery-with-modern-business-applications
 aliasesFor404:
 - /continuous-value-delivery-with-modern-business-applications
 - /blog/continuous-value-delivery-with-modern-business-applications

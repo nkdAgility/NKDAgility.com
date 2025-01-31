@@ -16,6 +16,7 @@ aliases:
 - /blog/recipe-for-team-server-in-a-small-business
 - /recipe-for-team-server-in-a-small-business
 - /resources/wOQl29WfTz6
+- /resources/blog/recipe-for-team-server-in-a-small-business
 aliasesFor404:
 - /recipe-for-team-server-in-a-small-business
 - /blog/recipe-for-team-server-in-a-small-business

@@ -16,6 +16,7 @@ aliases:
 - /blog/another-day-another-codeplex-project
 - /another-day-another-codeplex-project
 - /resources/Jk2Pp119tUF
+- /resources/blog/another-day-another-codeplex-project
 aliasesFor404:
 - /another-day-another-codeplex-project
 - /blog/another-day-another-codeplex-project

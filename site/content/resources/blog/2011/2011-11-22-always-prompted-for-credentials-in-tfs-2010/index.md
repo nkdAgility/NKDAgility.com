@@ -18,6 +18,7 @@ aliases:
 - /always-prompted-for-credentials-in-tfs-2010-
 - /blog/always-prompted-for-credentials-in-tfs-2010-
 - /resources/fESk_RDaaIB
+- /resources/blog/always-prompted-for-credentials-in-tfs-2010
 aliasesFor404:
 - /always-prompted-for-credentials-in-tfs-2010
 - /blog/always-prompted-for-credentials-in-tfs-2010

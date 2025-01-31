@@ -16,6 +16,7 @@ aliases:
 - /blog/deploying-team-server
 - /deploying-team-server
 - /resources/BcNPa5LLzLX
+- /resources/blog/deploying-team-server
 aliasesFor404:
 - /deploying-team-server
 - /blog/deploying-team-server

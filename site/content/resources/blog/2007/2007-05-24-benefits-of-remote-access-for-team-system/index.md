@@ -16,6 +16,7 @@ aliases:
 - /blog/benefits-of-remote-access-for-team-system
 - /benefits-of-remote-access-for-team-system
 - /resources/FOg_cOXZKmA
+- /resources/blog/benefits-of-remote-access-for-team-system
 aliasesFor404:
 - /benefits-of-remote-access-for-team-system
 - /blog/benefits-of-remote-access-for-team-system

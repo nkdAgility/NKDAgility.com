@@ -18,6 +18,7 @@ aliases:
 - /some-thoughts-on--net-3-0-from-linkedin
 - /blog/some-thoughts-on--net-3-0-from-linkedin
 - /resources/L_rhObh8cmE
+- /resources/blog/some-thoughts-on-net-3-0-from-linkedin
 aliasesFor404:
 - /some-thoughts-on-net-3-0-from-linkedin
 - /blog/some-thoughts-on-net-3-0-from-linkedin

@@ -19,6 +19,7 @@ aliases:
 - /windows-8-1-preview-issue---the-update-is-not-applicable-to-your-computer
 - /blog/windows-8-1-preview-issue---the-update-is-not-applicable-to-your-computer
 - /resources/a6j_DLQHNUq
+- /resources/blog/windows-8-1-preview-issue-the-update-is-not-applicable-to-your-computer
 aliasesFor404:
 - /windows-8-1-preview-issue-the-update-is-not-applicable-to-your-computer
 - /blog/windows-8-1-preview-issue-the-update-is-not-applicable-to-your-computer

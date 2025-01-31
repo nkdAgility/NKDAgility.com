@@ -16,6 +16,7 @@ aliases:
 - /blog/the-future-of-software-development
 - /the-future-of-software-development
 - /resources/y4gWKp3Fy4v
+- /resources/blog/the-future-of-software-development
 aliasesFor404:
 - /the-future-of-software-development
 - /blog/the-future-of-software-development

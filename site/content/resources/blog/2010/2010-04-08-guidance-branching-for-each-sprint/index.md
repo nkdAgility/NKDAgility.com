@@ -19,6 +19,7 @@ aliases:
 - /guidance---branching-for-each-sprint
 - /blog/guidance---branching-for-each-sprint
 - /resources/hPGpt57lpYZ
+- /resources/blog/guidance-branching-for-each-sprint
 aliasesFor404:
 - /guidance-branching-for-each-sprint
 - /blog/guidance-branching-for-each-sprint

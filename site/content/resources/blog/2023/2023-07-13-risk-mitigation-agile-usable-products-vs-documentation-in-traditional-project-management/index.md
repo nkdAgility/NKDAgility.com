@@ -19,6 +19,7 @@ aliases:
 - /risk-mitigation--agile-usable-products-vs-documentation-in-traditional-project-management
 - /blog/risk-mitigation--agile-usable-products-vs-documentation-in-traditional-project-management
 - /resources/vkqr5T9YVsf
+- /resources/blog/risk-mitigation-agile-usable-products-vs-documentation-in-traditional-project-management
 aliasesFor404:
 - /risk-mitigation-agile-usable-products-vs-documentation-in-traditional-project-management
 - /blog/risk-mitigation-agile-usable-products-vs-documentation-in-traditional-project-management

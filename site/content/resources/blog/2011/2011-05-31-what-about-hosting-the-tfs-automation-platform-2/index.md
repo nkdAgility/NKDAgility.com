@@ -18,6 +18,7 @@ aliases:
 - /what-about-hosting-the-tfs-automation-platform
 - /blog/what-about-hosting-the-tfs-automation-platform
 - /resources/je145Y3qB7P
+- /resources/blog/what-about-hosting-the-tfs-automation-platform-2
 aliasesFor404:
 - /what-about-hosting-the-tfs-automation-platform-2
 - /blog/what-about-hosting-the-tfs-automation-platform-2

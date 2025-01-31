@@ -18,6 +18,7 @@ aliases:
 - /use-corporate-identities-with-existing-vso-accounts
 - /blog/use-corporate-identities-with-existing-vso-accounts
 - /resources/yIJgOpFCdJE
+- /resources/blog/use-corporate-identities-existing-vso-accounts
 aliasesFor404:
 - /use-corporate-identities-existing-vso-accounts
 - /blog/use-corporate-identities-existing-vso-accounts

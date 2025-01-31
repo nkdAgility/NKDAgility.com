@@ -16,6 +16,7 @@ aliases:
 - /blog/the-delivery
 - /the-delivery
 - /resources/Cy6oTqwpH2P
+- /resources/blog/the-delivery
 aliasesFor404:
 - /the-delivery
 - /blog/the-delivery

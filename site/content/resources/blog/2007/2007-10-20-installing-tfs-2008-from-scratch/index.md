@@ -16,6 +16,7 @@ aliases:
 - /blog/installing-tfs-2008-from-scratch
 - /installing-tfs-2008-from-scratch
 - /resources/90J7b6pXQm3
+- /resources/blog/installing-tfs-2008-from-scratch
 aliasesFor404:
 - /installing-tfs-2008-from-scratch
 - /blog/installing-tfs-2008-from-scratch

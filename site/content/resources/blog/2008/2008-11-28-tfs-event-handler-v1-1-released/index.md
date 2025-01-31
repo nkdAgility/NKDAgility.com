@@ -16,6 +16,7 @@ aliases:
 - /blog/tfs-event-handler-v1-1-released
 - /tfs-event-handler-v1-1-released
 - /resources/8nsd44WYVDF
+- /resources/blog/tfs-event-handler-v1-1-released
 aliasesFor404:
 - /tfs-event-handler-v1-1-released
 - /blog/tfs-event-handler-v1-1-released

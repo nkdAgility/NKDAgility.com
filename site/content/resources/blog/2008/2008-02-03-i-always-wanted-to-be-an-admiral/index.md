@@ -18,6 +18,7 @@ aliases:
 - /i-always-wanted-to-be-an-admiral-
 - /blog/i-always-wanted-to-be-an-admiral-
 - /resources/GsQob9JDjYK
+- /resources/blog/i-always-wanted-to-be-an-admiral
 aliasesFor404:
 - /i-always-wanted-to-be-an-admiral
 - /blog/i-always-wanted-to-be-an-admiral

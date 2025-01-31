@@ -18,6 +18,7 @@ aliases:
 - /are-technical-skills-required-to-be-a-scrum-master-
 - /blog/are-technical-skills-required-to-be-a-scrum-master-
 - /resources/foi9MYyc1vq
+- /resources/blog/are-technical-skills-required-to-be-a-scrum-master
 aliasesFor404:
 - /are-technical-skills-required-to-be-a-scrum-master
 - /blog/are-technical-skills-required-to-be-a-scrum-master

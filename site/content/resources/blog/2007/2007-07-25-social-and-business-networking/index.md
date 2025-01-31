@@ -16,6 +16,7 @@ aliases:
 - /blog/social-and-business-networking
 - /social-and-business-networking
 - /resources/wm96r47cCGV
+- /resources/blog/social-and-business-networking
 aliasesFor404:
 - /social-and-business-networking
 - /blog/social-and-business-networking

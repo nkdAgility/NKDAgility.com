@@ -18,6 +18,7 @@ aliases:
 - /why-i-miss-orange-and-why-vodafone-suck-
 - /blog/why-i-miss-orange-and-why-vodafone-suck-
 - /resources/5uRWOuzPVbV
+- /resources/blog/why-i-miss-orange-and-why-vodafone-suck
 aliasesFor404:
 - /why-i-miss-orange-and-why-vodafone-suck
 - /blog/why-i-miss-orange-and-why-vodafone-suck

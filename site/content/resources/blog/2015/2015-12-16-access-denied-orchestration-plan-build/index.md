@@ -18,6 +18,7 @@ aliases:
 - /access-denied-for-orchestration-plan-on-build
 - /blog/access-denied-for-orchestration-plan-on-build
 - /resources/l331AonWBuN
+- /resources/blog/access-denied-orchestration-plan-build
 aliasesFor404:
 - /access-denied-orchestration-plan-build
 - /blog/access-denied-orchestration-plan-build

@@ -18,6 +18,7 @@ aliases:
 - /installing-the-2007-microsoft-office-servers-service-pack-1-(sp1)----again---
 - /blog/installing-the-2007-microsoft-office-servers-service-pack-1-(sp1)----again---
 - /resources/RgZYSYc6tNy
+- /resources/blog/installing-the-2007-microsoft-office-servers-service-pack-1-sp1-again
 aliasesFor404:
 - /installing-the-2007-microsoft-office-servers-service-pack-1-sp1-again
 - /blog/installing-the-2007-microsoft-office-servers-service-pack-1-sp1-again

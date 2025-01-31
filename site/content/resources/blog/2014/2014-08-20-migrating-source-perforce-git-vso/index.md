@@ -18,6 +18,7 @@ aliases:
 - /migrating-source-from-perforce-to-git-on-vso
 - /blog/migrating-source-from-perforce-to-git-on-vso
 - /resources/bvuzuOYg8gs
+- /resources/blog/migrating-source-perforce-git-vso
 aliasesFor404:
 - /migrating-source-perforce-git-vso
 - /blog/migrating-source-perforce-git-vso

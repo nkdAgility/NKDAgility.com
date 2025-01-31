@@ -18,6 +18,7 @@ aliases:
 - /tfs-gotcha-(server-name)
 - /blog/tfs-gotcha-(server-name)
 - /resources/l7s81fXVkty
+- /resources/blog/tfs-gotcha-server-name
 aliasesFor404:
 - /tfs-gotcha-server-name
 - /blog/tfs-gotcha-server-name

@@ -18,6 +18,7 @@ aliases:
 - /coffee-talk--scrum-versus-kanban-(re-match)-----thursday-at-high-noon-
 - /blog/coffee-talk--scrum-versus-kanban-(re-match)-----thursday-at-high-noon-
 - /resources/KtZxhtX0v9O
+- /resources/blog/coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon
 aliasesFor404:
 - /coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon
 - /blog/coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon

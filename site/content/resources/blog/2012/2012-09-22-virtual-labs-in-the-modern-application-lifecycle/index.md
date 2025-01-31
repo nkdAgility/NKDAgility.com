@@ -16,6 +16,7 @@ aliases:
 - /blog/virtual-labs-in-the-modern-application-lifecycle
 - /virtual-labs-in-the-modern-application-lifecycle
 - /resources/SXJ7aTQkyMj
+- /resources/blog/virtual-labs-in-the-modern-application-lifecycle
 aliasesFor404:
 - /virtual-labs-in-the-modern-application-lifecycle
 - /blog/virtual-labs-in-the-modern-application-lifecycle

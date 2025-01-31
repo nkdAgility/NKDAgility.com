@@ -18,6 +18,7 @@ aliases:
 - /blog/waffling-on-sharepoint---
 - /resources/O3FNfeA_FB8
 - /waffling-on-sharepoint
+- /resources/blog/waffling-on-sharepoint
 aliasesFor404:
 - /waffling-on-sharepoint
 - /blog/waffling-on-sharepoint

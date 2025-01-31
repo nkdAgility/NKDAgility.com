@@ -18,6 +18,7 @@ aliases:
 - /do-you-know-about-the-visual-studio-2010-database-projects-guidance-
 - /blog/do-you-know-about-the-visual-studio-2010-database-projects-guidance-
 - /resources/84KSaMagvy0
+- /resources/blog/do-you-know-about-the-visual-studio-2010-database-projects-guidance
 aliasesFor404:
 - /do-you-know-about-the-visual-studio-2010-database-projects-guidance
 - /blog/do-you-know-about-the-visual-studio-2010-database-projects-guidance

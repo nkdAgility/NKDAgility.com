@@ -16,6 +16,7 @@ aliases:
 - /blog/creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
 - /creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
 - /resources/9fVxqpOPzX8
+- /resources/blog/creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
 aliasesFor404:
 - /creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
 - /blog/creating-a-backup-in-team-foundation-server-2010-using-the-power-tools

@@ -19,6 +19,7 @@ aliases:
 - /project-server-2013-issue---tf294012--cannot-access-the-following-enterprise-project
 - /blog/project-server-2013-issue---tf294012--cannot-access-the-following-enterprise-project
 - /resources/B7vlHTIj_jT
+- /resources/blog/project-server-2013-issue-tf294012-cannot-access-the-following-enterprise-project
 aliasesFor404:
 - /project-server-2013-issue-tf294012-cannot-access-the-following-enterprise-project
 - /blog/project-server-2013-issue-tf294012-cannot-access-the-following-enterprise-project

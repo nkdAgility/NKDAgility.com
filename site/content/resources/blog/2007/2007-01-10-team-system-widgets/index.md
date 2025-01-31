@@ -16,6 +16,7 @@ aliases:
 - /blog/team-system-widgets
 - /team-system-widgets
 - /resources/P5ilJfzSeMk
+- /resources/blog/team-system-widgets
 aliasesFor404:
 - /team-system-widgets
 - /blog/team-system-widgets

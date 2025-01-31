@@ -16,6 +16,7 @@ aliases:
 - /blog/wakoopa
 - /wakoopa
 - /resources/-dqfdSPfCHx
+- /resources/blog/wakoopa
 aliasesFor404:
 - /wakoopa
 - /blog/wakoopa

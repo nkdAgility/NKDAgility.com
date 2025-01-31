@@ -18,6 +18,7 @@ aliases:
 - /change-the-release-management-server-that-your-client-connects-to
 - /blog/change-the-release-management-server-that-your-client-connects-to
 - /resources/zTjRpmZ5cJQ
+- /resources/blog/change-release-management-server-client-connects
 aliasesFor404:
 - /change-release-management-server-client-connects
 - /blog/change-release-management-server-client-connects

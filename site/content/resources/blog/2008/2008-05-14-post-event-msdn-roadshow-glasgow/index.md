@@ -18,6 +18,7 @@ aliases:
 - /post-event--msdn-roadshow-(glasgow)
 - /blog/post-event--msdn-roadshow-(glasgow)
 - /resources/yCxWv4R5Eps
+- /resources/blog/post-event-msdn-roadshow-glasgow
 aliasesFor404:
 - /post-event-msdn-roadshow-glasgow
 - /blog/post-event-msdn-roadshow-glasgow

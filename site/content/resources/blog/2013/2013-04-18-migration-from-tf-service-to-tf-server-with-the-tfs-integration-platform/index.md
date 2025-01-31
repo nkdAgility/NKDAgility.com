@@ -16,6 +16,7 @@ aliases:
 - /blog/migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
 - /migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
 - /resources/M3QCV-Dusfq
+- /resources/blog/migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
 aliasesFor404:
 - /migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
 - /blog/migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform

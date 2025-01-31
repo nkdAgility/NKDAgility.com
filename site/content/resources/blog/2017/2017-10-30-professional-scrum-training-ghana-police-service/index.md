@@ -18,6 +18,7 @@ aliases:
 - /professional-scrum-training-for-the-ghana-police-service
 - /blog/professional-scrum-training-for-the-ghana-police-service
 - /resources/ozXMaDX0lvp
+- /resources/blog/professional-scrum-training-ghana-police-service
 aliasesFor404:
 - /professional-scrum-training-ghana-police-service
 - /blog/professional-scrum-training-ghana-police-service

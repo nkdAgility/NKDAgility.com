@@ -18,6 +18,7 @@ aliases:
 - /no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it-
 - /blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it-
 - /resources/Lv1CLfk5cPM
+- /resources/blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
 aliasesFor404:
 - /no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
 - /blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it

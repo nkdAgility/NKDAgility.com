@@ -16,6 +16,7 @@ aliases:
 - /blog/project-of-projects-with-team-foundation-server-2010
 - /project-of-projects-with-team-foundation-server-2010
 - /resources/qiY3IH2aMYV
+- /resources/blog/project-of-projects-with-team-foundation-server-2010
 aliasesFor404:
 - /project-of-projects-with-team-foundation-server-2010
 - /blog/project-of-projects-with-team-foundation-server-2010

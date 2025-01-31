@@ -18,6 +18,7 @@ aliases:
 - /create-a-build-vnext-build-definition
 - /blog/create-a-build-vnext-build-definition
 - /resources/ey-p-MBUzgQ
+- /resources/blog/create-a-build-vnext-build-definition-on-vso
 aliasesFor404:
 - /create-a-build-vnext-build-definition-on-vso
 - /blog/create-a-build-vnext-build-definition-on-vso

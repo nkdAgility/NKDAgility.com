@@ -19,6 +19,7 @@ aliases:
 - /work-can-flow-across-the-sprint-boundary
 - /blog/work-can-flow-across-the-sprint-boundary
 - /resources/a7UMLdZeVYq
+- /resources/blog/work-can-flow-across-sprint-boundary
 aliasesFor404:
 - /work-can-flow-across-sprint-boundary
 - /blog/work-can-flow-across-sprint-boundary

@@ -16,6 +16,7 @@ aliases:
 - /blog/software-development-industrial-revolution
 - /software-development-industrial-revolution
 - /resources/3YR-l0WfbLK
+- /resources/blog/software-development-industrial-revolution
 aliasesFor404:
 - /software-development-industrial-revolution
 - /blog/software-development-industrial-revolution

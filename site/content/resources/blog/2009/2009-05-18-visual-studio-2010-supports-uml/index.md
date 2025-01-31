@@ -16,6 +16,7 @@ aliases:
 - /blog/visual-studio-2010-supports-uml
 - /visual-studio-2010-supports-uml
 - /resources/KVyRCUy-XJW
+- /resources/blog/visual-studio-2010-supports-uml
 aliasesFor404:
 - /visual-studio-2010-supports-uml
 - /blog/visual-studio-2010-supports-uml

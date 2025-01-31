@@ -18,6 +18,7 @@ aliases:
 - /adventures-in-scrum--lesson-2---for-the-record
 - /blog/adventures-in-scrum--lesson-2---for-the-record
 - /resources/ycDsUu_-hNR
+- /resources/blog/adventures-in-scrum-lesson-2-for-the-record
 aliasesFor404:
 - /adventures-in-scrum-lesson-2-for-the-record
 - /blog/adventures-in-scrum-lesson-2-for-the-record

@@ -18,6 +18,7 @@ aliases:
 - /wpf-ninject-dojo--the-data-provider
 - /blog/wpf-ninject-dojo--the-data-provider
 - /resources/fiHZn7VEOpq
+- /resources/blog/wpf-ninject-dojo-the-data-provider
 aliasesFor404:
 - /wpf-ninject-dojo-the-data-provider
 - /blog/wpf-ninject-dojo-the-data-provider

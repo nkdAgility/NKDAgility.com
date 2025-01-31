@@ -18,6 +18,7 @@ aliases:
 - /why-should-i-use-visual-studio-alm
 - /blog/why-should-i-use-visual-studio-alm
 - /resources/btixjSyu9NI
+- /resources/blog/why-should-i-use-visual-studio-alm-whether-tfs-or-vso
 aliasesFor404:
 - /why-should-i-use-visual-studio-alm-whether-tfs-or-vso
 - /blog/why-should-i-use-visual-studio-alm-whether-tfs-or-vso

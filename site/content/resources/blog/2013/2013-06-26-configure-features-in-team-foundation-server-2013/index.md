@@ -16,6 +16,7 @@ aliases:
 - /blog/configure-features-in-team-foundation-server-2013
 - /configure-features-in-team-foundation-server-2013
 - /resources/MbkXNCfuEU2
+- /resources/blog/configure-features-in-team-foundation-server-2013
 aliasesFor404:
 - /configure-features-in-team-foundation-server-2013
 - /blog/configure-features-in-team-foundation-server-2013

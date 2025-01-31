@@ -16,6 +16,7 @@ aliases:
 - /blog/delving-into-sharepoint-3-0
 - /delving-into-sharepoint-3-0
 - /resources/jXG5yABSps4
+- /resources/blog/delving-into-sharepoint-3-0
 aliasesFor404:
 - /delving-into-sharepoint-3-0
 - /blog/delving-into-sharepoint-3-0

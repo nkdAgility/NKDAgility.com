@@ -16,6 +16,7 @@ aliases:
 - /blog/windows-7-rc
 - /windows-7-rc
 - /resources/Rb281yyb0Cl
+- /resources/blog/windows-7-rc
 aliasesFor404:
 - /windows-7-rc
 - /blog/windows-7-rc

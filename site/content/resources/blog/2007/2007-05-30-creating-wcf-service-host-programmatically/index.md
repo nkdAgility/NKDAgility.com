@@ -16,6 +16,7 @@ aliases:
 - /blog/creating-wcf-service-host-programmatically
 - /creating-wcf-service-host-programmatically
 - /resources/z78UlmtJAzV
+- /resources/blog/creating-wcf-service-host-programmatically
 aliasesFor404:
 - /creating-wcf-service-host-programmatically
 - /blog/creating-wcf-service-host-programmatically

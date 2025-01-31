@@ -18,6 +18,7 @@ aliases:
 - /branch-policies-for-tfvc
 - /blog/branch-policies-for-tfvc
 - /resources/_26VFOA-vCe
+- /resources/blog/branch-policies-tfvc
 aliasesFor404:
 - /branch-policies-tfvc
 - /blog/branch-policies-tfvc

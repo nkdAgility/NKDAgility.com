@@ -16,6 +16,7 @@ aliases:
 - /blog/tfs-event-handler-progress
 - /tfs-event-handler-progress
 - /resources/MY8gn3hmXhh
+- /resources/blog/tfs-event-handler-progress
 aliasesFor404:
 - /tfs-event-handler-progress
 - /blog/tfs-event-handler-progress

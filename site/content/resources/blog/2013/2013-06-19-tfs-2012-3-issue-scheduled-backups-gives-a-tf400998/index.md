@@ -19,6 +19,7 @@ aliases:
 - /tfs-2012-3-issue---scheduled-backups-gives-a-tf400998-when-reconfigured
 - /blog/tfs-2012-3-issue---scheduled-backups-gives-a-tf400998-when-reconfigured
 - /resources/_XqGOC9TbpP
+- /resources/blog/tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
 aliasesFor404:
 - /tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
 - /blog/tfs-2012-3-issue-scheduled-backups-gives-a-tf400998

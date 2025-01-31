@@ -18,6 +18,7 @@ aliases:
 - /simpsonize-me-
 - /blog/simpsonize-me-
 - /resources/vThsgxwl-Tv
+- /resources/blog/simpsonize-me
 aliasesFor404:
 - /simpsonize-me
 - /blog/simpsonize-me

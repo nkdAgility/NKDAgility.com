@@ -16,6 +16,7 @@ aliases:
 - /blog/rtm-confusion
 - /rtm-confusion
 - /resources/S8tFRw6ao4M
+- /resources/blog/rtm-confusion
 aliasesFor404:
 - /rtm-confusion
 - /blog/rtm-confusion

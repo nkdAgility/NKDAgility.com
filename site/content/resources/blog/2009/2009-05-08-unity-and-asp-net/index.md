@@ -16,6 +16,7 @@ aliases:
 - /blog/unity-and-asp-net
 - /unity-and-asp-net
 - /resources/ga9A29v5JJk
+- /resources/blog/unity-and-asp-net
 aliasesFor404:
 - /unity-and-asp-net
 - /blog/unity-and-asp-net

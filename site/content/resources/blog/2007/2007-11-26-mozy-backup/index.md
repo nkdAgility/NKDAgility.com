@@ -16,6 +16,7 @@ aliases:
 - /blog/mozy-backup
 - /mozy-backup
 - /resources/w40y2iYjQLv
+- /resources/blog/mozy-backup
 aliasesFor404:
 - /mozy-backup
 - /blog/mozy-backup

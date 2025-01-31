@@ -19,6 +19,7 @@ aliases:
 - /embrace-uniqueness--why-creating-your-own-scaling-practices-leads-to-business-success
 - /blog/embrace-uniqueness--why-creating-your-own-scaling-practices-leads-to-business-success
 - /resources/rMAdB_yEwWb
+- /resources/blog/embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
 aliasesFor404:
 - /embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
 - /blog/embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success

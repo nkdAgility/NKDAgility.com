@@ -18,6 +18,7 @@ aliases:
 - /would-anyone-be-interested-in-hosted-visual-studio-team-system-(linkedin-question)
 - /blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-(linkedin-question)
 - /resources/aGh8Dn3evEi
+- /resources/blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
 aliasesFor404:
 - /would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
 - /blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question

@@ -18,6 +18,7 @@ aliases:
 - /found-gdr-bug--at-least-i-think-it-is-
 - /blog/found-gdr-bug--at-least-i-think-it-is-
 - /resources/LjS_IaGaE9R
+- /resources/blog/found-gdr-bug-at-least-i-think-it-is
 aliasesFor404:
 - /found-gdr-bug-at-least-i-think-it-is
 - /blog/found-gdr-bug-at-least-i-think-it-is

@@ -20,6 +20,7 @@ aliases:
 - /resources/bI6ySrK2G51
 - /ndc-london--second-look--team-foundation-server-&amp;-vso
 - /blog/ndc-london--second-look--team-foundation-server-&amp;-vso
+- /resources/blog/ndc-london-second-look-team-foundation-server-vso
 aliasesFor404:
 - /ndc-london-second-look-team-foundation-server-vso
 - /blog/ndc-london-second-look-team-foundation-server-vso

@@ -16,6 +16,7 @@ aliases:
 - /blog/microsoft-has-acquired-teamplain
 - /microsoft-has-acquired-teamplain
 - /resources/uXJxvyaVhda
+- /resources/blog/microsoft-has-acquired-teamplain
 aliasesFor404:
 - /microsoft-has-acquired-teamplain
 - /blog/microsoft-has-acquired-teamplain

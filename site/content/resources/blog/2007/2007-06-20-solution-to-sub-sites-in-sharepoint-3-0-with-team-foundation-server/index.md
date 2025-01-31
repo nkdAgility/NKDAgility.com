@@ -16,6 +16,7 @@ aliases:
 - /blog/solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
 - /solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
 - /resources/B1bu87flA8w
+- /resources/blog/solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
 aliasesFor404:
 - /solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
 - /blog/solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server

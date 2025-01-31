@@ -18,6 +18,7 @@ aliases:
 - /office-2010-gotcha-2--visual-studio-2008-locks
 - /blog/office-2010-gotcha-2--visual-studio-2008-locks
 - /resources/nGYbw5F1t5Y
+- /resources/blog/office-2010-gotcha-2-visual-studio-2008-locks
 aliasesFor404:
 - /office-2010-gotcha-2-visual-studio-2008-locks
 - /blog/office-2010-gotcha-2-visual-studio-2008-locks

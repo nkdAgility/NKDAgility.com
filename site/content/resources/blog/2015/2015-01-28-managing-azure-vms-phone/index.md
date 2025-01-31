@@ -18,6 +18,7 @@ aliases:
 - /managing-your-azure-vm's-with-your-phone
 - /blog/managing-your-azure-vm's-with-your-phone
 - /resources/N-rk9OlMyUm
+- /resources/blog/managing-azure-vms-phone
 aliasesFor404:
 - /managing-azure-vms-phone
 - /blog/managing-azure-vms-phone

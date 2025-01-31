@@ -16,6 +16,7 @@ aliases:
 - /blog/visual-studio-2008-beta-2-team-explorer
 - /visual-studio-2008-beta-2-team-explorer
 - /resources/x3OxJIEMgFJ
+- /resources/blog/visual-studio-2008-beta-2-team-explorer
 aliasesFor404:
 - /visual-studio-2008-beta-2-team-explorer
 - /blog/visual-studio-2008-beta-2-team-explorer

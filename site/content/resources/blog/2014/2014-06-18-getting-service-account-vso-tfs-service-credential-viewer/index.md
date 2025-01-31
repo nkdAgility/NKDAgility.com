@@ -18,6 +18,7 @@ aliases:
 - /getting-a-service-account-for-vso-with-tfs-service-credential-viewer
 - /blog/getting-a-service-account-for-vso-with-tfs-service-credential-viewer
 - /resources/i10guK3jvON
+- /resources/blog/getting-service-account-vso-tfs-service-credential-viewer
 aliasesFor404:
 - /getting-service-account-vso-tfs-service-credential-viewer
 - /blog/getting-service-account-vso-tfs-service-credential-viewer

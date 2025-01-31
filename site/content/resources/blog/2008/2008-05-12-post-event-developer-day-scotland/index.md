@@ -18,6 +18,7 @@ aliases:
 - /post-event--developer-day-scotland---
 - /blog/post-event--developer-day-scotland---
 - /resources/gVVlURec7mu
+- /resources/blog/post-event-developer-day-scotland
 aliasesFor404:
 - /post-event-developer-day-scotland
 - /blog/post-event-developer-day-scotland

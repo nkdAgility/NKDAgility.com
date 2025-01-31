@@ -16,6 +16,7 @@ aliases:
 - /blog/tfs-event-handler-for-team-foundation-server-2010
 - /tfs-event-handler-for-team-foundation-server-2010
 - /resources/_WmwS96RyDS
+- /resources/blog/tfs-event-handler-for-team-foundation-server-2010
 aliasesFor404:
 - /tfs-event-handler-for-team-foundation-server-2010
 - /blog/tfs-event-handler-for-team-foundation-server-2010

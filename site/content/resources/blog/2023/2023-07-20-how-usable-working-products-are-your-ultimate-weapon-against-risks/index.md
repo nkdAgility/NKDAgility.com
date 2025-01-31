@@ -17,6 +17,7 @@ aliases:
 - /blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
 - /how-usable-working-products-are-your-ultimate-weapon-against-risks
 - /resources/UnSs37BlBV7
+- /resources/blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
 aliasesFor404:
 - /how-usable-working-products-are-your-ultimate-weapon-against-risks
 - /blog/how-usable-working-products-are-your-ultimate-weapon-against-risks

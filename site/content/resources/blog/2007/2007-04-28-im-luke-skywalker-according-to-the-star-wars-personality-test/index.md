@@ -18,6 +18,7 @@ aliases:
 - /i'm-luke-skywalker-according-to-the-star-wars-personality-test-
 - /blog/i'm-luke-skywalker-according-to-the-star-wars-personality-test-
 - /resources/q9eDYUo8WyX
+- /resources/blog/im-luke-skywalker-according-to-the-star-wars-personality-test
 aliasesFor404:
 - /im-luke-skywalker-according-to-the-star-wars-personality-test
 - /blog/im-luke-skywalker-according-to-the-star-wars-personality-test

@@ -18,6 +18,7 @@ aliases:
 - /tfs-eventhandler--now-on-codeplex
 - /blog/tfs-eventhandler--now-on-codeplex
 - /resources/24Qmd0tzO5s
+- /resources/blog/tfs-eventhandler-now-on-codeplex
 aliasesFor404:
 - /tfs-eventhandler-now-on-codeplex
 - /blog/tfs-eventhandler-now-on-codeplex

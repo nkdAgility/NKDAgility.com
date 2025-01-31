@@ -16,6 +16,7 @@ aliases:
 - /blog/release-management-with-team-foundation-server-2012
 - /release-management-with-team-foundation-server-2012
 - /resources/GqwYV8fekzQ
+- /resources/blog/release-management-with-team-foundation-server-2012
 aliasesFor404:
 - /release-management-with-team-foundation-server-2012
 - /blog/release-management-with-team-foundation-server-2012

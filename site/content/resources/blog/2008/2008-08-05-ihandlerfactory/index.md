@@ -16,6 +16,7 @@ aliases:
 - /blog/ihandlerfactory
 - /ihandlerfactory
 - /resources/kYNSKaqUYb7
+- /resources/blog/ihandlerfactory
 aliasesFor404:
 - /ihandlerfactory
 - /blog/ihandlerfactory

@@ -20,6 +20,7 @@ aliases:
 - /resources/FoFh5MvtoSA
 - /silverlight-cream--kinda--but-it-is-interesting-
 - /blog/silverlight-cream--kinda--but-it-is-interesting-
+- /resources/blog/silverlight-cream-kinda-but-it-is-interesting
 aliasesFor404:
 - /silverlight-cream-kinda-but-it-is-interesting
 - /blog/silverlight-cream-kinda-but-it-is-interesting

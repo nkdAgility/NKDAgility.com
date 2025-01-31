@@ -18,6 +18,7 @@ aliases:
 - /blogging-from-2500-meters
 - /blog/blogging-from-2500-meters
 - /resources/uxd-czfPeHg
+- /resources/blog/blogging-2500-meters
 aliasesFor404:
 - /blogging-2500-meters
 - /blog/blogging-2500-meters

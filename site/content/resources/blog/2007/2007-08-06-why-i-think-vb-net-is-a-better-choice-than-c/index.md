@@ -18,6 +18,7 @@ aliases:
 - /why-i-think-vb-net-is-a-better-choice-than-c-
 - /blog/why-i-think-vb-net-is-a-better-choice-than-c-
 - /resources/1Vt6-eiRtjI
+- /resources/blog/why-i-think-vb-net-is-a-better-choice-than-c
 aliasesFor404:
 - /why-i-think-vb-net-is-a-better-choice-than-c
 - /blog/why-i-think-vb-net-is-a-better-choice-than-c

@@ -20,6 +20,7 @@ aliases:
 - /resources/gnzE3Qr_jz-
 - /100-000-visits
 - /blog/100-000-visits
+- /resources/blog/100000-visits
 aliasesFor404:
 - /100000-visits
 - /blog/100000-visits

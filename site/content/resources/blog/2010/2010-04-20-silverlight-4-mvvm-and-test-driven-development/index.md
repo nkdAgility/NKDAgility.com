@@ -20,6 +20,7 @@ aliases:
 - /resources/n9sGWuBTtUf
 - /silverlight-4--mvvm-and-test-driven-development
 - /blog/silverlight-4--mvvm-and-test-driven-development
+- /resources/blog/silverlight-4-mvvm-and-test-driven-development
 aliasesFor404:
 - /silverlight-4-mvvm-and-test-driven-development
 - /blog/silverlight-4-mvvm-and-test-driven-development

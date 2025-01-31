@@ -18,6 +18,7 @@ aliases:
 - /get-your-twitter-feed-as-a-badge-on-your-email-
 - /blog/get-your-twitter-feed-as-a-badge-on-your-email-
 - /resources/RIgnx9Matxd
+- /resources/blog/get-your-twitter-feed-as-a-badge-on-your-email
 aliasesFor404:
 - /get-your-twitter-feed-as-a-badge-on-your-email
 - /blog/get-your-twitter-feed-as-a-badge-on-your-email

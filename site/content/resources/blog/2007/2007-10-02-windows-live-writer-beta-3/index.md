@@ -16,6 +16,7 @@ aliases:
 - /blog/windows-live-writer-beta-3
 - /windows-live-writer-beta-3
 - /resources/7OIuDx9W3kb
+- /resources/blog/windows-live-writer-beta-3
 aliasesFor404:
 - /windows-live-writer-beta-3
 - /blog/windows-live-writer-beta-3

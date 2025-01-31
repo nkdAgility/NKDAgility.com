@@ -16,6 +16,7 @@ aliases:
 - /blog/tfs-process-templates
 - /tfs-process-templates
 - /resources/gJqTAngPe0a
+- /resources/blog/tfs-process-templates
 aliasesFor404:
 - /tfs-process-templates
 - /blog/tfs-process-templates

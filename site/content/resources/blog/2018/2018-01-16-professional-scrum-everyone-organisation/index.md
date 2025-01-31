@@ -19,6 +19,7 @@ aliases:
 - /professional-scrum-is-for-everyone-in-your-organisation
 - /blog/professional-scrum-is-for-everyone-in-your-organisation
 - /resources/Cr7wjIJ8Uvb
+- /resources/blog/professional-scrum-everyone-organisation
 aliasesFor404:
 - /professional-scrum-everyone-organisation
 - /blog/professional-scrum-everyone-organisation

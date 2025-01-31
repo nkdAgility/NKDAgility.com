@@ -18,6 +18,7 @@ aliases:
 - /live-webcast--q&amp;a-with-martin-hinshelwood-on-27th-march-2020
 - /blog/live-webcast--q&amp;a-with-martin-hinshelwood-on-27th-march-2020
 - /resources/s7bwajkP-HP
+- /resources/blog/live-webcast-qa-with-martin-hinshelwood-on-27th-march-2020
 aliasesFor404:
 - /live-webcast-qa-with-martin-hinshelwood-on-27th-march-2020
 - /blog/live-webcast-qa-with-martin-hinshelwood-on-27th-march-2020

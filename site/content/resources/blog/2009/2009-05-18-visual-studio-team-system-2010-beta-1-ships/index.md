@@ -16,6 +16,7 @@ aliases:
 - /blog/visual-studio-team-system-2010-beta-1-ships
 - /visual-studio-team-system-2010-beta-1-ships
 - /resources/-TRUW1RsR2n
+- /resources/blog/visual-studio-team-system-2010-beta-1-ships
 aliasesFor404:
 - /visual-studio-team-system-2010-beta-1-ships
 - /blog/visual-studio-team-system-2010-beta-1-ships

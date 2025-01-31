@@ -18,6 +18,7 @@ aliases:
 - /merge-team-projects-into-one-in-tfs
 - /blog/merge-team-projects-into-one-in-tfs
 - /resources/-0YnGYCeikc
+- /resources/blog/merge-many-team-projects-one-tfs
 aliasesFor404:
 - /merge-many-team-projects-one-tfs
 - /blog/merge-many-team-projects-one-tfs

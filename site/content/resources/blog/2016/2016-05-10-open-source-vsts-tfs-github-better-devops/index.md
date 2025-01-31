@@ -18,6 +18,7 @@ aliases:
 - /open-source-with-vsts-or-tfs-and-github-for-better-devops
 - /blog/open-source-with-vsts-or-tfs-and-github-for-better-devops
 - /resources/LWHiaHn3CWF
+- /resources/blog/open-source-vsts-tfs-github-better-devops
 aliasesFor404:
 - /open-source-vsts-tfs-github-better-devops
 - /blog/open-source-vsts-tfs-github-better-devops

@@ -18,6 +18,7 @@ aliases:
 - /how-to--allow-other-users-to-interact-with-workflow-on-your-mysite
 - /blog/how-to--allow-other-users-to-interact-with-workflow-on-your-mysite
 - /resources/JUQrPR1RNmh
+- /resources/blog/how-to-allow-other-users-to-interact-with-workflow-on-your-mysite
 aliasesFor404:
 - /how-to-allow-other-users-to-interact-with-workflow-on-your-mysite
 - /blog/how-to-allow-other-users-to-interact-with-workflow-on-your-mysite

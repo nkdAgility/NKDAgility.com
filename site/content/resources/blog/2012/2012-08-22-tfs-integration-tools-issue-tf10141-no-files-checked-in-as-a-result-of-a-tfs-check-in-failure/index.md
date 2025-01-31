@@ -19,6 +19,7 @@ aliases:
 - /tfs-integration-tools---issue--tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
 - /blog/tfs-integration-tools---issue--tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
 - /resources/BPBvfH-1wzW
+- /resources/blog/tfs-integration-tools-issue-tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
 aliasesFor404:
 - /tfs-integration-tools-issue-tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
 - /blog/tfs-integration-tools-issue-tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure

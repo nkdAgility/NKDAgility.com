@@ -18,6 +18,7 @@ aliases:
 - /are-you-doing-scrum--really-
 - /blog/are-you-doing-scrum--really-
 - /resources/X1Hm4PJt0CV
+- /resources/blog/are-you-doing-scrum-really
 aliasesFor404:
 - /are-you-doing-scrum-really
 - /blog/are-you-doing-scrum-really

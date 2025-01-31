@@ -18,6 +18,7 @@ aliases:
 - /tfs-build-reports-licencies-licx--unable-to-load-type
 - /blog/tfs-build-reports-licencies-licx--unable-to-load-type
 - /resources/om6UWMd_ONd
+- /resources/blog/tfs-build-reports-licencies-licx-unable-load-type
 aliasesFor404:
 - /tfs-build-reports-licencies-licx-unable-load-type
 - /blog/tfs-build-reports-licencies-licx-unable-load-type

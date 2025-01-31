@@ -18,6 +18,7 @@ aliases:
 - /upgrading-your-process-template-in-team-foundation-server
 - /blog/upgrading-your-process-template-in-team-foundation-server
 - /resources/o6VvFIPoyTU
+- /resources/blog/do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact
 aliasesFor404:
 - /do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact
 - /blog/do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact

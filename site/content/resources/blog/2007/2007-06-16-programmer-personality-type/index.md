@@ -16,6 +16,7 @@ aliases:
 - /blog/programmer-personality-type
 - /programmer-personality-type
 - /resources/ruFX2_EJk4k
+- /resources/blog/programmer-personality-type
 aliasesFor404:
 - /programmer-personality-type
 - /blog/programmer-personality-type

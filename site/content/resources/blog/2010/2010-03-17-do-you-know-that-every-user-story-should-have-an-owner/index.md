@@ -18,6 +18,7 @@ aliases:
 - /do-you-know-that-every-user-story-should-have-an-owner-
 - /blog/do-you-know-that-every-user-story-should-have-an-owner-
 - /resources/OOCAnXLzP9r
+- /resources/blog/do-you-know-that-every-user-story-should-have-an-owner
 aliasesFor404:
 - /do-you-know-that-every-user-story-should-have-an-owner
 - /blog/do-you-know-that-every-user-story-should-have-an-owner

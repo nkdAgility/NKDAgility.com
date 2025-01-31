@@ -16,6 +16,7 @@ aliases:
 - /blog/fail-a-build-if-tests-fail
 - /fail-a-build-if-tests-fail
 - /resources/VuY5udPg1uD
+- /resources/blog/fail-a-build-if-tests-fail
 aliasesFor404:
 - /fail-a-build-if-tests-fail
 - /blog/fail-a-build-if-tests-fail

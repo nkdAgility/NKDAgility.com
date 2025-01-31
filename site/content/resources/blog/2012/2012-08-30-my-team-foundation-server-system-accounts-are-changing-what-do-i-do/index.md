@@ -18,6 +18,7 @@ aliases:
 - /my-team-foundation-server-system-accounts-are-changing--what-do-i-do-
 - /blog/my-team-foundation-server-system-accounts-are-changing--what-do-i-do-
 - /resources/GJOGgre5lz-
+- /resources/blog/my-team-foundation-server-system-accounts-are-changing-what-do-i-do
 aliasesFor404:
 - /my-team-foundation-server-system-accounts-are-changing-what-do-i-do
 - /blog/my-team-foundation-server-system-accounts-are-changing-what-do-i-do

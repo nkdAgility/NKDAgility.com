@@ -20,6 +20,7 @@ aliases:
 - /resources/w548lro11wJ
 - /ahhh--the-fun-of-deploying-team-system-in-a-large-corporation
 - /blog/ahhh--the-fun-of-deploying-team-system-in-a-large-corporation
+- /resources/blog/ahhh-the-fun-of-deploying-team-system-in-a-large-corporation
 aliasesFor404:
 - /ahhh-the-fun-of-deploying-team-system-in-a-large-corporation
 - /blog/ahhh-the-fun-of-deploying-team-system-in-a-large-corporation

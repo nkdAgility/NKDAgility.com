@@ -16,6 +16,7 @@ aliases:
 - /blog/using-visual-studio-2008
 - /using-visual-studio-2008
 - /resources/lO6Rlwe1r6f
+- /resources/blog/using-visual-studio-2008
 aliasesFor404:
 - /using-visual-studio-2008
 - /blog/using-visual-studio-2008

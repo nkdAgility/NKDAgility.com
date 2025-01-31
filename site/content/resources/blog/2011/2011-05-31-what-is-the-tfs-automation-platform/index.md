@@ -16,6 +16,7 @@ aliases:
 - /blog/what-is-the-tfs-automation-platform
 - /what-is-the-tfs-automation-platform
 - /resources/AavdFKxGJg9
+- /resources/blog/what-is-the-tfs-automation-platform
 aliasesFor404:
 - /what-is-the-tfs-automation-platform
 - /blog/what-is-the-tfs-automation-platform

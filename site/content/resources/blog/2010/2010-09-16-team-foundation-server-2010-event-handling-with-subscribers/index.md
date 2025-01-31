@@ -16,6 +16,7 @@ aliases:
 - /blog/team-foundation-server-2010-event-handling-with-subscribers
 - /team-foundation-server-2010-event-handling-with-subscribers
 - /resources/FzwWmNio6fH
+- /resources/blog/team-foundation-server-2010-event-handling-with-subscribers
 aliasesFor404:
 - /team-foundation-server-2010-event-handling-with-subscribers
 - /blog/team-foundation-server-2010-event-handling-with-subscribers

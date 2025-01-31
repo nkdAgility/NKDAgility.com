@@ -18,6 +18,7 @@ aliases:
 - /bug-in-observablecollection-
 - /blog/bug-in-observablecollection-
 - /resources/L9aNTno7QM3
+- /resources/blog/bug-in-observablecollection
 aliasesFor404:
 - /bug-in-observablecollection
 - /blog/bug-in-observablecollection

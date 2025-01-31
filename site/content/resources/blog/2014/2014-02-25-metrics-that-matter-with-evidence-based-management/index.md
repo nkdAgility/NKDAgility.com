@@ -16,6 +16,7 @@ aliases:
 - /blog/metrics-that-matter-with-evidence-based-management
 - /metrics-that-matter-with-evidence-based-management
 - /resources/ezNZJBiEwYA
+- /resources/blog/metrics-that-matter-with-evidence-based-management
 aliasesFor404:
 - /metrics-that-matter-with-evidence-based-management
 - /blog/metrics-that-matter-with-evidence-based-management

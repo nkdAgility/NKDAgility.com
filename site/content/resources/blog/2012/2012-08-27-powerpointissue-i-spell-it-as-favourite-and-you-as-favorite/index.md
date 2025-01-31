@@ -18,6 +18,7 @@ aliases:
 - /i-spell-it-as-favourite-and-you-as-favorite
 - /blog/i-spell-it-as-favourite-and-you-as-favorite
 - /resources/nIpxDPFtjBE
+- /resources/blog/powerpointissue-i-spell-it-as-favourite-and-you-as-favorite
 aliasesFor404:
 - /powerpointissue-i-spell-it-as-favourite-and-you-as-favorite
 - /blog/powerpointissue-i-spell-it-as-favourite-and-you-as-favorite

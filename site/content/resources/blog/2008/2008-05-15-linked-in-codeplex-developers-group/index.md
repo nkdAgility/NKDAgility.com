@@ -16,6 +16,7 @@ aliases:
 - /blog/linked-in-codeplex-developers-group
 - /linked-in-codeplex-developers-group
 - /resources/UJU5tO1-TLi
+- /resources/blog/linked-in-codeplex-developers-group
 aliasesFor404:
 - /linked-in-codeplex-developers-group
 - /blog/linked-in-codeplex-developers-group

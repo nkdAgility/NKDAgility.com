@@ -16,6 +16,7 @@ aliases:
 - /blog/quality-enablement-with-visual-studio-2012
 - /quality-enablement-with-visual-studio-2012
 - /resources/YcLApPV4Zgj
+- /resources/blog/quality-enablement-with-visual-studio-2012
 aliasesFor404:
 - /quality-enablement-with-visual-studio-2012
 - /blog/quality-enablement-with-visual-studio-2012

@@ -16,6 +16,7 @@ aliases:
 - /blog/infragistics-wpf
 - /infragistics-wpf
 - /resources/qNzd15yz5fn
+- /resources/blog/infragistics-wpf
 aliasesFor404:
 - /infragistics-wpf
 - /blog/infragistics-wpf

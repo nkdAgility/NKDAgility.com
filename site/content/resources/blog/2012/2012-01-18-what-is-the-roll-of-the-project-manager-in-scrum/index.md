@@ -18,6 +18,7 @@ aliases:
 - /what-is-the-roll-of-the-project-manager-in-scrum-
 - /blog/what-is-the-roll-of-the-project-manager-in-scrum-
 - /resources/nEmEarH66B7
+- /resources/blog/what-is-the-roll-of-the-project-manager-in-scrum
 aliasesFor404:
 - /what-is-the-roll-of-the-project-manager-in-scrum
 - /blog/what-is-the-roll-of-the-project-manager-in-scrum

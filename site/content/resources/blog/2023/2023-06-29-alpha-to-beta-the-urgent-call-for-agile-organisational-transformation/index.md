@@ -19,6 +19,7 @@ aliases:
 - /the-urgent-call-for-agile-organisational-transformation
 - /blog/the-urgent-call-for-agile-organisational-transformation
 - /resources/aeNTMpquEZ5
+- /resources/blog/alpha-to-beta-the-urgent-call-for-agile-organisational-transformation
 aliasesFor404:
 - /alpha-to-beta-the-urgent-call-for-agile-organisational-transformation
 - /blog/alpha-to-beta-the-urgent-call-for-agile-organisational-transformation

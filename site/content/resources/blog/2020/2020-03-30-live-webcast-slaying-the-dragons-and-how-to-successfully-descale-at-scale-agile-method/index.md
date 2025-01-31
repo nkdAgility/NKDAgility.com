@@ -18,6 +18,7 @@ aliases:
 - /slaying-the-dragons-and-how-to-successfully-descale-at-scale
 - /blog/slaying-the-dragons-and-how-to-successfully-descale-at-scale
 - /resources/PLxBb5FqtO-
+- /resources/blog/live-webcast-slaying-the-dragons-and-how-to-successfully-descale-at-scale-agile-method
 aliasesFor404:
 - /live-webcast-slaying-the-dragons-and-how-to-successfully-descale-at-scale-agile-method
 - /blog/live-webcast-slaying-the-dragons-and-how-to-successfully-descale-at-scale-agile-method

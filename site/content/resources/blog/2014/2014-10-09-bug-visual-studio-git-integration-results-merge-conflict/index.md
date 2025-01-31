@@ -18,6 +18,7 @@ aliases:
 - /bug-in-the-visual-studio-git-integration-that-results-in-a-merge-conflict
 - /blog/bug-in-the-visual-studio-git-integration-that-results-in-a-merge-conflict
 - /resources/GSH94xtzGy6
+- /resources/blog/bug-visual-studio-git-integration-results-merge-conflict
 aliasesFor404:
 - /bug-visual-studio-git-integration-results-merge-conflict
 - /blog/bug-visual-studio-git-integration-results-merge-conflict

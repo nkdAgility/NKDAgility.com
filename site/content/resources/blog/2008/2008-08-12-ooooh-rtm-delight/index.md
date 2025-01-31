@@ -20,6 +20,7 @@ aliases:
 - /resources/i8GZ_Yop1t_
 - /ooooh--rtm-delight
 - /blog/ooooh--rtm-delight
+- /resources/blog/ooooh-rtm-delight
 aliasesFor404:
 - /ooooh-rtm-delight
 - /blog/ooooh-rtm-delight

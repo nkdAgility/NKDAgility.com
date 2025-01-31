@@ -16,6 +16,7 @@ aliases:
 - /blog/reformat-your-css-on-the-fly
 - /reformat-your-css-on-the-fly
 - /resources/elcSY_VSAVs
+- /resources/blog/reformat-your-css-on-the-fly
 aliasesFor404:
 - /reformat-your-css-on-the-fly
 - /blog/reformat-your-css-on-the-fly

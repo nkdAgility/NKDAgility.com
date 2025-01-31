@@ -19,6 +19,7 @@ aliases:
 - /rethinking-'user-stories'--a-call-for-clarity-in-product-backlog-management
 - /blog/rethinking-'user-stories'--a-call-for-clarity-in-product-backlog-management
 - /resources/E2aOGiRDnuG
+- /resources/blog/rethinking-user-stories-a-call-for-clarity-in-product-backlog-management
 aliasesFor404:
 - /rethinking-user-stories-a-call-for-clarity-in-product-backlog-management
 - /blog/rethinking-user-stories-a-call-for-clarity-in-product-backlog-management

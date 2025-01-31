@@ -19,6 +19,7 @@ aliases:
 - /engaging-with-complexity---sharepoint-edition
 - /blog/engaging-with-complexity---sharepoint-edition
 - /resources/Lzmlul_Elhj
+- /resources/blog/engaging-with-complexity-sharepoint-edition
 aliasesFor404:
 - /engaging-with-complexity-sharepoint-edition
 - /blog/engaging-with-complexity-sharepoint-edition

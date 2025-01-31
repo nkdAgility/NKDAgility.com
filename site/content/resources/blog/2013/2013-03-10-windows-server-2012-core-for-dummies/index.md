@@ -16,6 +16,7 @@ aliases:
 - /blog/windows-server-2012-core-for-dummies
 - /windows-server-2012-core-for-dummies
 - /resources/qtma311iiMY
+- /resources/blog/windows-server-2012-core-for-dummies
 aliasesFor404:
 - /windows-server-2012-core-for-dummies
 - /blog/windows-server-2012-core-for-dummies

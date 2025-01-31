@@ -18,6 +18,7 @@ aliases:
 - /tfs-event-handler-in--net-3-5
 - /blog/tfs-event-handler-in--net-3-5
 - /resources/z7Ypxiu5Trd
+- /resources/blog/tfs-event-handler-in-net-3-5
 aliasesFor404:
 - /tfs-event-handler-in-net-3-5
 - /blog/tfs-event-handler-in-net-3-5

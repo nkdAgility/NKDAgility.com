@@ -16,6 +16,7 @@ aliases:
 - /blog/linkedin-woopsie-with-the-outlook-2010-social-media-connector
 - /linkedin-woopsie-with-the-outlook-2010-social-media-connector
 - /resources/4lmIuDVmx2V
+- /resources/blog/linkedin-woopsie-with-the-outlook-2010-social-media-connector
 aliasesFor404:
 - /linkedin-woopsie-with-the-outlook-2010-social-media-connector
 - /blog/linkedin-woopsie-with-the-outlook-2010-social-media-connector

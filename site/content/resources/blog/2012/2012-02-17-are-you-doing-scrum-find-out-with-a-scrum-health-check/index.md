@@ -18,6 +18,7 @@ aliases:
 - /are-you-doing-scrum--find-out-with-a-scrum-health-check-
 - /blog/are-you-doing-scrum--find-out-with-a-scrum-health-check-
 - /resources/sd5d5KYoXsO
+- /resources/blog/are-you-doing-scrum-find-out-with-a-scrum-health-check
 aliasesFor404:
 - /are-you-doing-scrum-find-out-with-a-scrum-health-check
 - /blog/are-you-doing-scrum-find-out-with-a-scrum-health-check

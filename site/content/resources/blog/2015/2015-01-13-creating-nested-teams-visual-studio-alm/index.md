@@ -18,6 +18,7 @@ aliases:
 - /creating-nested-teams-in-visual-studio-alm
 - /blog/creating-nested-teams-in-visual-studio-alm
 - /resources/wu1tvjyyrZU
+- /resources/blog/creating-nested-teams-visual-studio-alm
 aliasesFor404:
 - /creating-nested-teams-visual-studio-alm
 - /blog/creating-nested-teams-visual-studio-alm

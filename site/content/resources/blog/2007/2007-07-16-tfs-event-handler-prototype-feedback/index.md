@@ -16,6 +16,7 @@ aliases:
 - /blog/tfs-event-handler-prototype-feedback
 - /tfs-event-handler-prototype-feedback
 - /resources/J5YgyYAO9sM
+- /resources/blog/tfs-event-handler-prototype-feedback
 aliasesFor404:
 - /tfs-event-handler-prototype-feedback
 - /blog/tfs-event-handler-prototype-feedback

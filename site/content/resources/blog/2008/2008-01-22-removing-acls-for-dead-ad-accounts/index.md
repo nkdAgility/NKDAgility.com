@@ -18,6 +18,7 @@ aliases:
 - /removing-acl's-for-dead-ad-accounts
 - /blog/removing-acl's-for-dead-ad-accounts
 - /resources/l3dnUvBZV8r
+- /resources/blog/removing-acls-for-dead-ad-accounts
 aliasesFor404:
 - /removing-acls-for-dead-ad-accounts
 - /blog/removing-acls-for-dead-ad-accounts

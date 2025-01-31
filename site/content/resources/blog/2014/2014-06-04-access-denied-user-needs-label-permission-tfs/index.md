@@ -18,6 +18,7 @@ aliases:
 - /access-denied-user-needs-label-permission-in-tfs
 - /blog/access-denied-user-needs-label-permission-in-tfs
 - /resources/jdpPpvEHzGa
+- /resources/blog/access-denied-user-needs-label-permission-tfs
 aliasesFor404:
 - /access-denied-user-needs-label-permission-tfs
 - /blog/access-denied-user-needs-label-permission-tfs

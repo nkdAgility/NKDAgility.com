@@ -16,6 +16,7 @@ aliases:
 - /blog/composite-wpf-and-merged-dictionaries
 - /composite-wpf-and-merged-dictionaries
 - /resources/rVJ3HWMCFYD
+- /resources/blog/composite-wpf-and-merged-dictionaries
 aliasesFor404:
 - /composite-wpf-and-merged-dictionaries
 - /blog/composite-wpf-and-merged-dictionaries

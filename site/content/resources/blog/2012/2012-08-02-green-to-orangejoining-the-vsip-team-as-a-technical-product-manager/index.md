@@ -18,6 +18,7 @@ aliases:
 - /green-to-orange–joining-the-vsip-team-as-a-technical-product-manager
 - /blog/green-to-orange–joining-the-vsip-team-as-a-technical-product-manager
 - /resources/P0ESCmC9VhB
+- /resources/blog/green-to-orangejoining-the-vsip-team-as-a-technical-product-manager
 aliasesFor404:
 - /green-to-orangejoining-the-vsip-team-as-a-technical-product-manager
 - /blog/green-to-orangejoining-the-vsip-team-as-a-technical-product-manager

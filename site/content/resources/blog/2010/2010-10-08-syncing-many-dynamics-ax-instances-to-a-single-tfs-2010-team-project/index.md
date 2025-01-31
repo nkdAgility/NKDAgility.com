@@ -16,6 +16,7 @@ aliases:
 - /blog/syncing-many-dynamics-ax-instances-to-a-single-tfs-2010-team-project
 - /syncing-many-dynamics-ax-instances-to-a-single-tfs-2010-team-project
 - /resources/cYRmqyXmGQf
+- /resources/blog/syncing-many-dynamics-ax-instances-to-a-single-tfs-2010-team-project
 aliasesFor404:
 - /syncing-many-dynamics-ax-instances-to-a-single-tfs-2010-team-project
 - /blog/syncing-many-dynamics-ax-instances-to-a-single-tfs-2010-team-project

@@ -19,6 +19,7 @@ aliases:
 - /tfs-integration-tools---issue--tfs-wit-invalid-submission-conflict-type
 - /blog/tfs-integration-tools---issue--tfs-wit-invalid-submission-conflict-type
 - /resources/vrpjXVvhpYA
+- /resources/blog/tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
 aliasesFor404:
 - /tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
 - /blog/tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type

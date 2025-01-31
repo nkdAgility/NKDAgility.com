@@ -16,6 +16,7 @@ aliases:
 - /blog/the-search-for-a-single-point-of-truth
 - /the-search-for-a-single-point-of-truth
 - /resources/nWNc5jUb0Up
+- /resources/blog/the-search-for-a-single-point-of-truth
 aliasesFor404:
 - /the-search-for-a-single-point-of-truth
 - /blog/the-search-for-a-single-point-of-truth

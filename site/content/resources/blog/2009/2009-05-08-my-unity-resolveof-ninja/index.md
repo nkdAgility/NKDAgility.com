@@ -18,6 +18,7 @@ aliases:
 - /my-unity-resolve(of-ninja)
 - /blog/my-unity-resolve(of-ninja)
 - /resources/whj_VeMcGAL
+- /resources/blog/my-unity-resolveof-ninja
 aliasesFor404:
 - /my-unity-resolveof-ninja
 - /blog/my-unity-resolveof-ninja

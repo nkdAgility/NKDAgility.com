@@ -18,6 +18,7 @@ aliases:
 - /teamplain---revisit
 - /blog/teamplain---revisit
 - /resources/74iowBMHVfu
+- /resources/blog/teamplain-revisit
 aliasesFor404:
 - /teamplain-revisit
 - /blog/teamplain-revisit

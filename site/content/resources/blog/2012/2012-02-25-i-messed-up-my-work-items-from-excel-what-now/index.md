@@ -18,6 +18,7 @@ aliases:
 - /i-messed-up-my-work-items-from-excel--what-now-
 - /blog/i-messed-up-my-work-items-from-excel--what-now-
 - /resources/jZw9emMhGRh
+- /resources/blog/i-messed-up-my-work-items-from-excel-what-now
 aliasesFor404:
 - /i-messed-up-my-work-items-from-excel-what-now
 - /blog/i-messed-up-my-work-items-from-excel-what-now

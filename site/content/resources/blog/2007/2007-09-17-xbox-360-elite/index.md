@@ -16,6 +16,7 @@ aliases:
 - /blog/xbox-360-elite
 - /xbox-360-elite
 - /resources/ELz8sUhrCKr
+- /resources/blog/xbox-360-elite
 aliasesFor404:
 - /xbox-360-elite
 - /blog/xbox-360-elite

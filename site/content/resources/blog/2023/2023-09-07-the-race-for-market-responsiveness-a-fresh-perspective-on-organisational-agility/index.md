@@ -19,6 +19,7 @@ aliases:
 - /the-race-for-market-responsiveness--a-fresh-perspective-on-organisational-agility
 - /blog/the-race-for-market-responsiveness--a-fresh-perspective-on-organisational-agility
 - /resources/Jz5uZMzPiRx
+- /resources/blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
 aliasesFor404:
 - /the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
 - /blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility

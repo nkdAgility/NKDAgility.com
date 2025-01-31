@@ -16,6 +16,7 @@ aliases:
 - /blog/proxy-server-settings-for-sharepoint-2007
 - /proxy-server-settings-for-sharepoint-2007
 - /resources/5_4fz8bD4UU
+- /resources/blog/proxy-server-settings-for-sharepoint-2007
 aliasesFor404:
 - /proxy-server-settings-for-sharepoint-2007
 - /blog/proxy-server-settings-for-sharepoint-2007

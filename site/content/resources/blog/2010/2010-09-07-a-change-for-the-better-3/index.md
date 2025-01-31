@@ -18,6 +18,7 @@ aliases:
 - /a-change-for-the-better--3---ssw-to-northwest-cadence
 - /blog/a-change-for-the-better--3---ssw-to-northwest-cadence
 - /resources/a_PdCAmRAp9
+- /resources/blog/a-change-for-the-better-3
 aliasesFor404:
 - /a-change-for-the-better-3
 - /blog/a-change-for-the-better-3

@@ -20,6 +20,7 @@ aliases:
 - /resources/f7cHTAGDbeh
 - /professional-scrum-foundations-in-salt-lake-city--utah
 - /blog/professional-scrum-foundations-in-salt-lake-city--utah
+- /resources/blog/professional-scrum-foundations-in-salt-lake-city-utah
 aliasesFor404:
 - /professional-scrum-foundations-in-salt-lake-city-utah
 - /blog/professional-scrum-foundations-in-salt-lake-city-utah

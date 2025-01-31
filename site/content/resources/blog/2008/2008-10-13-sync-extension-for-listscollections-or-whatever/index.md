@@ -18,6 +18,7 @@ aliases:
 - /sync-extension-for-lists-collections-or-whatever
 - /blog/sync-extension-for-lists-collections-or-whatever
 - /resources/hDlrQdNzLp1
+- /resources/blog/sync-extension-for-listscollections-or-whatever
 aliasesFor404:
 - /sync-extension-for-listscollections-or-whatever
 - /blog/sync-extension-for-listscollections-or-whatever

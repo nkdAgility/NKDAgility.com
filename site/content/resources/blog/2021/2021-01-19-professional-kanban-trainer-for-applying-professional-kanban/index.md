@@ -17,6 +17,7 @@ aliases:
 - /blog/professional-kanban-trainer-for-applying-professional-kanban
 - /professional-kanban-trainer-for-applying-professional-kanban
 - /resources/ZQi3U9gnXj3
+- /resources/blog/professional-kanban-trainer-for-applying-professional-kanban
 aliasesFor404:
 - /professional-kanban-trainer-for-applying-professional-kanban
 - /blog/professional-kanban-trainer-for-applying-professional-kanban

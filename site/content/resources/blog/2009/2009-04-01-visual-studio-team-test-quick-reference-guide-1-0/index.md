@@ -16,6 +16,7 @@ aliases:
 - /blog/visual-studio-team-test-quick-reference-guide-1-0
 - /visual-studio-team-test-quick-reference-guide-1-0
 - /resources/FhliT2Rp-7y
+- /resources/blog/visual-studio-team-test-quick-reference-guide-1-0
 aliasesFor404:
 - /visual-studio-team-test-quick-reference-guide-1-0
 - /blog/visual-studio-team-test-quick-reference-guide-1-0

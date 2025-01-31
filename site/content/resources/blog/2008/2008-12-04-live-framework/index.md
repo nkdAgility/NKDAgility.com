@@ -16,6 +16,7 @@ aliases:
 - /blog/live-framework
 - /live-framework
 - /resources/Z0HJqKyl85C
+- /resources/blog/live-framework
 aliasesFor404:
 - /live-framework
 - /blog/live-framework

@@ -18,6 +18,7 @@ aliases:
 - /using-corporate-id's-with-visual-studio-2012-team-foundation-service
 - /blog/using-corporate-id's-with-visual-studio-2012-team-foundation-service
 - /resources/Cx5_dJr48V5
+- /resources/blog/using-corporate-ids-with-visual-studio-11-team-foundation-service
 aliasesFor404:
 - /using-corporate-ids-with-visual-studio-11-team-foundation-service
 - /blog/using-corporate-ids-with-visual-studio-11-team-foundation-service

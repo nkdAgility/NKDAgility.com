@@ -21,6 +21,7 @@ aliases:
 - /resources/DdQ1nKvk-hv
 - /scrum-is-made-up-of-influencers--entrepreneurs--and-makers
 - /blog/scrum-is-made-up-of-influencers--entrepreneurs--and-makers
+- /resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
 aliasesFor404:
 - /scrum-is-made-up-of-influencers-entrepreneurs-and-makers
 - /blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers

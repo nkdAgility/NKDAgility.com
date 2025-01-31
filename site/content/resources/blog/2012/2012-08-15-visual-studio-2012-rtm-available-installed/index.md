@@ -18,6 +18,7 @@ aliases:
 - /visual-studio-2012-rtm-available-&-installed
 - /blog/visual-studio-2012-rtm-available-&-installed
 - /resources/1pWQ2Krlit5
+- /resources/blog/visual-studio-2012-rtm-available-installed
 aliasesFor404:
 - /visual-studio-2012-rtm-available-installed
 - /blog/visual-studio-2012-rtm-available-installed

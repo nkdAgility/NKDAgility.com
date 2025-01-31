@@ -16,6 +16,7 @@ aliases:
 - /blog/install-sharepoint-2013-on-windows-server-2012-without-a-domain
 - /install-sharepoint-2013-on-windows-server-2012-without-a-domain
 - /resources/nNzrXud9z_l
+- /resources/blog/install-sharepoint-2013-on-windows-server-2012-without-a-domain
 aliasesFor404:
 - /install-sharepoint-2013-on-windows-server-2012-without-a-domain
 - /blog/install-sharepoint-2013-on-windows-server-2012-without-a-domain

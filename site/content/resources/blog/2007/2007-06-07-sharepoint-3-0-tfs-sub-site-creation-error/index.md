@@ -18,6 +18,7 @@ aliases:
 - /sharepoint-3-0-tfs-sub-site-creation-error-
 - /blog/sharepoint-3-0-tfs-sub-site-creation-error-
 - /resources/x5FZPMNJgBF
+- /resources/blog/sharepoint-3-0-tfs-sub-site-creation-error
 aliasesFor404:
 - /sharepoint-3-0-tfs-sub-site-creation-error
 - /blog/sharepoint-3-0-tfs-sub-site-creation-error

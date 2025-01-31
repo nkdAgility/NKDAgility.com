@@ -18,6 +18,7 @@ aliases:
 - /blog/my-first-extension-method---
 - /resources/QJ6lF5ONMCD
 - /my-first-extension-method
+- /resources/blog/my-first-extension-method
 aliasesFor404:
 - /my-first-extension-method
 - /blog/my-first-extension-method

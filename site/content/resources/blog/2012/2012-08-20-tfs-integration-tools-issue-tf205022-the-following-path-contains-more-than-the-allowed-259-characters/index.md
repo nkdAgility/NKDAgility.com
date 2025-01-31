@@ -19,6 +19,7 @@ aliases:
 - /tfs-integration-tools---issue--tf205022--the-following-path-contains-more-than-the-allowed-259-characters
 - /blog/tfs-integration-tools---issue--tf205022--the-following-path-contains-more-than-the-allowed-259-characters
 - /resources/gkD4iN7ZkP4
+- /resources/blog/tfs-integration-tools-issue-tf205022-the-following-path-contains-more-than-the-allowed-259-characters
 aliasesFor404:
 - /tfs-integration-tools-issue-tf205022-the-following-path-contains-more-than-the-allowed-259-characters
 - /blog/tfs-integration-tools-issue-tf205022-the-following-path-contains-more-than-the-allowed-259-characters

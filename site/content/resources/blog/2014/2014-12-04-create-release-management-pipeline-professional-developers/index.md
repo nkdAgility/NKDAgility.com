@@ -18,6 +18,7 @@ aliases:
 - /create-a-release-management-pipeline-for-professional-developers
 - /blog/create-a-release-management-pipeline-for-professional-developers
 - /resources/WYBOx1X0R-3
+- /resources/blog/create-release-management-pipeline-professional-developers
 aliasesFor404:
 - /create-release-management-pipeline-professional-developers
 - /blog/create-release-management-pipeline-professional-developers

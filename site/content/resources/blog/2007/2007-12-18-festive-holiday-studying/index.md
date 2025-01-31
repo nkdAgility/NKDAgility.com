@@ -16,6 +16,7 @@ aliases:
 - /blog/festive-holiday-studying
 - /festive-holiday-studying
 - /resources/tUIp9FEu7QH
+- /resources/blog/festive-holiday-studying
 aliasesFor404:
 - /festive-holiday-studying
 - /blog/festive-holiday-studying

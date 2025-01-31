@@ -18,6 +18,7 @@ aliases:
 - /team-foundation-server-error-tf30177--team-project-creation-failed---part-2
 - /blog/team-foundation-server-error-tf30177--team-project-creation-failed---part-2
 - /resources/-H--7dlWeGE
+- /resources/blog/team-foundation-server-error-tf30177-team-project-creation-failed-part-2
 aliasesFor404:
 - /team-foundation-server-error-tf30177-team-project-creation-failed-part-2
 - /blog/team-foundation-server-error-tf30177-team-project-creation-failed-part-2

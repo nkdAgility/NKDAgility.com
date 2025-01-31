@@ -16,6 +16,7 @@ aliases:
 - /blog/new-event-handlers
 - /new-event-handlers
 - /resources/kofEeioSTH9
+- /resources/blog/new-event-handlers
 aliasesFor404:
 - /new-event-handlers
 - /blog/new-event-handlers

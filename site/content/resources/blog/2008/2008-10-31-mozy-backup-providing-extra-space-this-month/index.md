@@ -16,6 +16,7 @@ aliases:
 - /blog/mozy-backup-providing-extra-space-this-month
 - /mozy-backup-providing-extra-space-this-month
 - /resources/VgEgURg3LhB
+- /resources/blog/mozy-backup-providing-extra-space-this-month
 aliasesFor404:
 - /mozy-backup-providing-extra-space-this-month
 - /blog/mozy-backup-providing-extra-space-this-month

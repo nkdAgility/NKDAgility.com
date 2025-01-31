@@ -16,6 +16,7 @@ aliases:
 - /blog/developer-vindication
 - /developer-vindication
 - /resources/YexFt6yC4wk
+- /resources/blog/developer-vindication
 aliasesFor404:
 - /developer-vindication
 - /blog/developer-vindication

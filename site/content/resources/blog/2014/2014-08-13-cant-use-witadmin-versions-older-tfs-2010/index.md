@@ -18,6 +18,7 @@ aliases:
 - /you-can't-use-witadmin-on-versions-older-than-tfs-2010
 - /blog/you-can't-use-witadmin-on-versions-older-than-tfs-2010
 - /resources/UF4o8raFE4r
+- /resources/blog/cant-use-witadmin-versions-older-tfs-2010
 aliasesFor404:
 - /cant-use-witadmin-versions-older-tfs-2010
 - /blog/cant-use-witadmin-versions-older-tfs-2010

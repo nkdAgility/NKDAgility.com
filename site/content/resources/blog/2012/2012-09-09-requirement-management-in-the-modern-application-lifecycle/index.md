@@ -18,6 +18,7 @@ aliases:
 - /requirement-management-in-the-modern-application-lifecycle-with-tfs
 - /blog/requirement-management-in-the-modern-application-lifecycle-with-tfs
 - /resources/xCKZmk2o5Me
+- /resources/blog/requirement-management-in-the-modern-application-lifecycle
 aliasesFor404:
 - /requirement-management-in-the-modern-application-lifecycle
 - /blog/requirement-management-in-the-modern-application-lifecycle

@@ -18,6 +18,7 @@ aliases:
 - /how-to--display-your-outlook-calendar-on-you’re-my-site
 - /blog/how-to--display-your-outlook-calendar-on-you’re-my-site
 - /resources/9eJE-0v9BjB
+- /resources/blog/how-to-display-your-outlook-calendar-on-youre-my-site
 aliasesFor404:
 - /how-to-display-your-outlook-calendar-on-youre-my-site
 - /blog/how-to-display-your-outlook-calendar-on-youre-my-site

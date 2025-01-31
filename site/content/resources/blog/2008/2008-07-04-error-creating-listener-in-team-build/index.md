@@ -16,6 +16,7 @@ aliases:
 - /blog/error-creating-listener-in-team-build
 - /error-creating-listener-in-team-build
 - /resources/Eonka3snrWz
+- /resources/blog/error-creating-listener-in-team-build
 aliasesFor404:
 - /error-creating-listener-in-team-build
 - /blog/error-creating-listener-in-team-build

@@ -18,6 +18,7 @@ aliases:
 - /you-can't-stack-rank-hierarchical-work-items-
 - /blog/you-can't-stack-rank-hierarchical-work-items-
 - /resources/u9Eh1rXDhGE
+- /resources/blog/you-cant-stack-rank-hierarchical-work-items
 aliasesFor404:
 - /you-cant-stack-rank-hierarchical-work-items
 - /blog/you-cant-stack-rank-hierarchical-work-items

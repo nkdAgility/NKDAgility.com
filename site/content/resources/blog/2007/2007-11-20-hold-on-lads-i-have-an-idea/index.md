@@ -20,6 +20,7 @@ aliases:
 - /resources/foVNVdAmeyw
 - /hold-on-lads--i-have-an-idea-
 - /blog/hold-on-lads--i-have-an-idea-
+- /resources/blog/hold-on-lads-i-have-an-idea
 aliasesFor404:
 - /hold-on-lads-i-have-an-idea
 - /blog/hold-on-lads-i-have-an-idea

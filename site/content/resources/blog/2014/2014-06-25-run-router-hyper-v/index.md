@@ -18,6 +18,7 @@ aliases:
 - /run-a-router-on-hyper-v
 - /blog/run-a-router-on-hyper-v
 - /resources/0Ly3betXY-6
+- /resources/blog/run-router-hyper-v
 aliasesFor404:
 - /run-router-hyper-v
 - /blog/run-router-hyper-v

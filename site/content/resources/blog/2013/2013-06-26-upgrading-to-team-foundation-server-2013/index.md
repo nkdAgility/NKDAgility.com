@@ -16,6 +16,7 @@ aliases:
 - /blog/upgrading-to-team-foundation-server-2013
 - /upgrading-to-team-foundation-server-2013
 - /resources/Ni5lk4V30pb
+- /resources/blog/upgrading-to-team-foundation-server-2013
 aliasesFor404:
 - /upgrading-to-team-foundation-server-2013
 - /blog/upgrading-to-team-foundation-server-2013

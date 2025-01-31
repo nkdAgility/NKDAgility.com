@@ -18,6 +18,7 @@ aliases:
 - /does-test-driven-development-speed-up-development-
 - /blog/does-test-driven-development-speed-up-development-
 - /resources/ASBKRFatUhc
+- /resources/blog/does-test-driven-development-speed-up-development
 aliasesFor404:
 - /does-test-driven-development-speed-up-development
 - /blog/does-test-driven-development-speed-up-development

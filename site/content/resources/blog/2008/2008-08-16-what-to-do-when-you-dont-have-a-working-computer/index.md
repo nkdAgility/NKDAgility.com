@@ -18,6 +18,7 @@ aliases:
 - /what-to-do-when-you-dont-have-a-working-computer-
 - /blog/what-to-do-when-you-dont-have-a-working-computer-
 - /resources/nD4pBeQgpZK
+- /resources/blog/what-to-do-when-you-dont-have-a-working-computer
 aliasesFor404:
 - /what-to-do-when-you-dont-have-a-working-computer
 - /blog/what-to-do-when-you-dont-have-a-working-computer

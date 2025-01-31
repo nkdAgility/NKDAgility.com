@@ -16,6 +16,7 @@ aliases:
 - /blog/microsoft-uk-team-system-blog
 - /microsoft-uk-team-system-blog
 - /resources/7sufhYTYvt-
+- /resources/blog/microsoft-uk-team-system-blog
 aliasesFor404:
 - /microsoft-uk-team-system-blog
 - /blog/microsoft-uk-team-system-blog

@@ -16,6 +16,7 @@ aliases:
 - /blog/scrum-for-team-foundation-server-2010
 - /scrum-for-team-foundation-server-2010
 - /resources/rDtXzVuotXt
+- /resources/blog/scrum-for-team-foundation-server-2010
 aliasesFor404:
 - /scrum-for-team-foundation-server-2010
 - /blog/scrum-for-team-foundation-server-2010

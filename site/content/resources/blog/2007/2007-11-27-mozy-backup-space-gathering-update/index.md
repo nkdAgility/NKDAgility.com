@@ -16,6 +16,7 @@ aliases:
 - /blog/mozy-backup-space-gathering-update
 - /mozy-backup-space-gathering-update
 - /resources/Ijl3My1sDG-
+- /resources/blog/mozy-backup-space-gathering-update
 aliasesFor404:
 - /mozy-backup-space-gathering-update
 - /blog/mozy-backup-space-gathering-update

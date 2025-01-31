@@ -18,6 +18,7 @@ aliases:
 - /ssw-brain-quest--team-foundation-server-and-sharepoint-2010-(london)
 - /blog/ssw-brain-quest--team-foundation-server-and-sharepoint-2010-(london)
 - /resources/8OkQ_qWcpPi
+- /resources/blog/ssw-brain-quest-team-foundation-server-and-sharepoint-2010-london
 aliasesFor404:
 - /ssw-brain-quest-team-foundation-server-and-sharepoint-2010-london
 - /blog/ssw-brain-quest-team-foundation-server-and-sharepoint-2010-london

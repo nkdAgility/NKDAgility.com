@@ -16,6 +16,7 @@ aliases:
 - /blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog
 - /the-sprint-goal-is-a-commitment-for-the-sprint-backlog
 - /resources/99LDtXqmRu5
+- /resources/blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog
 aliasesFor404:
 - /the-sprint-goal-is-a-commitment-for-the-sprint-backlog
 - /blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog

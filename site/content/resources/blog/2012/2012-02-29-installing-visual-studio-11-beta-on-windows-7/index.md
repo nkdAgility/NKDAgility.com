@@ -18,6 +18,7 @@ aliases:
 - /installing-visual-studio-11-on-windows-7
 - /blog/installing-visual-studio-11-on-windows-7
 - /resources/5vsN0oSbwHe
+- /resources/blog/installing-visual-studio-11-beta-on-windows-7
 aliasesFor404:
 - /installing-visual-studio-11-beta-on-windows-7
 - /blog/installing-visual-studio-11-beta-on-windows-7

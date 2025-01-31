@@ -18,6 +18,7 @@ aliases:
 - /beta-exam-71-510--ts--visual-studio-2005-team-foundation-server
 - /blog/beta-exam-71-510--ts--visual-studio-2005-team-foundation-server
 - /resources/KuQewTMxwar
+- /resources/blog/beta-exam-71-510-ts-visual-studio-2005-team-foundation-server
 aliasesFor404:
 - /beta-exam-71-510-ts-visual-studio-2005-team-foundation-server
 - /blog/beta-exam-71-510-ts-visual-studio-2005-team-foundation-server

@@ -16,6 +16,7 @@ aliases:
 - /blog/the-high-of-release
 - /the-high-of-release
 - /resources/akntzjbRQe2
+- /resources/blog/the-high-of-release
 aliasesFor404:
 - /the-high-of-release
 - /blog/the-high-of-release

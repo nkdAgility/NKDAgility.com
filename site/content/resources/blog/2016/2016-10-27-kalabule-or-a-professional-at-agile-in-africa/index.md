@@ -16,6 +16,7 @@ aliases:
 - /blog/kalabule-or-a-professional-at-agile-in-africa
 - /kalabule-or-a-professional-at-agile-in-africa
 - /resources/yUp0v2lyPX6
+- /resources/blog/kalabule-or-a-professional-at-agile-in-africa
 aliasesFor404:
 - /kalabule-or-a-professional-at-agile-in-africa
 - /blog/kalabule-or-a-professional-at-agile-in-africa

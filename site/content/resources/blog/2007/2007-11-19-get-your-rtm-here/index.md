@@ -18,6 +18,7 @@ aliases:
 - /get-your-rtm-here-
 - /blog/get-your-rtm-here-
 - /resources/8gqTTHiRrpk
+- /resources/blog/get-your-rtm-here
 aliasesFor404:
 - /get-your-rtm-here
 - /blog/get-your-rtm-here

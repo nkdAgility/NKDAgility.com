@@ -18,6 +18,7 @@ aliases:
 - /does-your-organisation-have-both-project-mangers-as-well-as-product-owners-
 - /blog/does-your-organisation-have-both-project-mangers-as-well-as-product-owners-
 - /resources/2s_5i0e0NBx
+- /resources/blog/organisation-project-mangers-well-product-owners
 aliasesFor404:
 - /organisation-project-mangers-well-product-owners
 - /blog/organisation-project-mangers-well-product-owners

@@ -16,6 +16,7 @@ aliases:
 - /blog/create-a-vhd-from-the-windows-7-image-disk
 - /create-a-vhd-from-the-windows-7-image-disk
 - /resources/5Um1AiEyIZr
+- /resources/blog/create-a-vhd-from-the-windows-7-image-disk
 aliasesFor404:
 - /create-a-vhd-from-the-windows-7-image-disk
 - /blog/create-a-vhd-from-the-windows-7-image-disk

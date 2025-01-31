@@ -18,6 +18,7 @@ aliases:
 - /custom-ui-colour-scheme-for-windows-forms--net
 - /blog/custom-ui-colour-scheme-for-windows-forms--net
 - /resources/2vSr2gsP4Rt
+- /resources/blog/custom-ui-colour-scheme-for-windows-forms-net
 aliasesFor404:
 - /custom-ui-colour-scheme-for-windows-forms-net
 - /blog/custom-ui-colour-scheme-for-windows-forms-net

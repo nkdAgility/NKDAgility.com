@@ -16,6 +16,7 @@ aliases:
 - /blog/the-product-goal-is-a-commitment-for-the-product-backlog
 - /the-product-goal-is-a-commitment-for-the-product-backlog
 - /resources/sVDzuTFDLSJ
+- /resources/blog/the-product-goal-is-a-commitment-for-the-product-backlog
 aliasesFor404:
 - /the-product-goal-is-a-commitment-for-the-product-backlog
 - /blog/the-product-goal-is-a-commitment-for-the-product-backlog

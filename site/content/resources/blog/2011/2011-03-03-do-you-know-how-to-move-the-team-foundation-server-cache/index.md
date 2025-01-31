@@ -16,6 +16,7 @@ aliases:
 - /blog/do-you-know-how-to-move-the-team-foundation-server-cache
 - /do-you-know-how-to-move-the-team-foundation-server-cache
 - /resources/aF0H8q5h-Yg
+- /resources/blog/do-you-know-how-to-move-the-team-foundation-server-cache
 aliasesFor404:
 - /do-you-know-how-to-move-the-team-foundation-server-cache
 - /blog/do-you-know-how-to-move-the-team-foundation-server-cache

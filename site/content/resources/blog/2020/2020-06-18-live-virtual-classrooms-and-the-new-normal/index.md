@@ -18,6 +18,7 @@ aliases:
 - /live-virtual-classroom's-and-the-new-normal
 - /blog/live-virtual-classroom's-and-the-new-normal
 - /resources/wS3GaFbyzDv
+- /resources/blog/live-virtual-classrooms-and-the-new-normal
 aliasesFor404:
 - /live-virtual-classrooms-and-the-new-normal
 - /blog/live-virtual-classrooms-and-the-new-normal

@@ -20,6 +20,7 @@ aliases:
 - /resources/ETl5K8OQ9kV
 - /alm-consulting-in-scotland--uk--scandinavia-&amp;-europe
 - /blog/alm-consulting-in-scotland--uk--scandinavia-&amp;-europe
+- /resources/blog/alm-consulting-scotland-uk-scandinavia-europe
 aliasesFor404:
 - /alm-consulting-scotland-uk-scandinavia-europe
 - /blog/alm-consulting-scotland-uk-scandinavia-europe

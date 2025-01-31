@@ -17,6 +17,7 @@ aliases:
 - /automated-testing-in-a-modern-application-lifecycle/
 - /automated-testing-in-a-modern-application-lifecycle
 - /resources/IOUOjgnp-hB
+- /resources/blog/automated-testing-in-a-modern-application-lifecycle
 aliasesFor404:
 - /automated-testing-in-a-modern-application-lifecycle
 - /blog/automated-testing-in-a-modern-application-lifecycle

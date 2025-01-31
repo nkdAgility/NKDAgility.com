@@ -18,6 +18,7 @@ aliases:
 - /process-template-upgrade--7-–-rename-work-items-and-import-new-ones
 - /blog/process-template-upgrade--7-–-rename-work-items-and-import-new-ones
 - /resources/8bwduNxH7WG
+- /resources/blog/process-template-upgrade-7-overwrite-retaining-history-with-limited-migration
 aliasesFor404:
 - /process-template-upgrade-7-overwrite-retaining-history-with-limited-migration
 - /blog/process-template-upgrade-7-overwrite-retaining-history-with-limited-migration

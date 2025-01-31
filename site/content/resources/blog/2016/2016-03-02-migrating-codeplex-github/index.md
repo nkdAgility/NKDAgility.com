@@ -18,6 +18,7 @@ aliases:
 - /migrating-from-codeplex-to-github
 - /blog/migrating-from-codeplex-to-github
 - /resources/kgtNo8tGkjS
+- /resources/blog/migrating-codeplex-github
 aliasesFor404:
 - /migrating-codeplex-github
 - /blog/migrating-codeplex-github

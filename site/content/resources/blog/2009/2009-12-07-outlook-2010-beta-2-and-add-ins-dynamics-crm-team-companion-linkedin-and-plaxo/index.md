@@ -20,6 +20,7 @@ aliases:
 - /resources/YxOe4jYxLpj
 - /outlook-2010-beta-2-and-add-ins--dynamics-crm--team-companion--linkedin-and-plaxo
 - /blog/outlook-2010-beta-2-and-add-ins--dynamics-crm--team-companion--linkedin-and-plaxo
+- /resources/blog/outlook-2010-beta-2-and-add-ins-dynamics-crm-team-companion-linkedin-and-plaxo
 aliasesFor404:
 - /outlook-2010-beta-2-and-add-ins-dynamics-crm-team-companion-linkedin-and-plaxo
 - /blog/outlook-2010-beta-2-and-add-ins-dynamics-crm-team-companion-linkedin-and-plaxo

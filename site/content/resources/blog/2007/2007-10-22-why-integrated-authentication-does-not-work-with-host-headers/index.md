@@ -18,6 +18,7 @@ aliases:
 - /why-integrated-authentication-does-not-work-with-host-headers-
 - /blog/why-integrated-authentication-does-not-work-with-host-headers-
 - /resources/WqcZtyTF5t3
+- /resources/blog/why-integrated-authentication-does-not-work-with-host-headers
 aliasesFor404:
 - /why-integrated-authentication-does-not-work-with-host-headers
 - /blog/why-integrated-authentication-does-not-work-with-host-headers

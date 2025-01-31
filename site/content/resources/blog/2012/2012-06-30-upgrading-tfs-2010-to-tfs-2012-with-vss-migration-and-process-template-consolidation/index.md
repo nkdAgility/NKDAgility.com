@@ -16,6 +16,7 @@ aliases:
 - /blog/upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation
 - /upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation
 - /resources/XIuPwzheKMA
+- /resources/blog/upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation
 aliasesFor404:
 - /upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation
 - /blog/upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation

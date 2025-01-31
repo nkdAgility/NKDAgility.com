@@ -19,6 +19,7 @@ aliases:
 - /visual-studio-2010-overview---reporting-&-process
 - /blog/visual-studio-2010-overview---reporting-&-process
 - /resources/Ryiemqc7hnZ
+- /resources/blog/visual-studio-2010-overview-reporting-process
 aliasesFor404:
 - /visual-studio-2010-overview-reporting-process
 - /blog/visual-studio-2010-overview-reporting-process

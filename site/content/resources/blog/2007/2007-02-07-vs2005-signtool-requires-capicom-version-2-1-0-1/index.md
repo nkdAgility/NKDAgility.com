@@ -19,6 +19,7 @@ aliases:
 - /vs2005---signtool-requires-capicom-version-2-1-0-1
 - /blog/vs2005---signtool-requires-capicom-version-2-1-0-1
 - /resources/XiAV2LaArje
+- /resources/blog/vs2005-signtool-requires-capicom-version-2-1-0-1
 aliasesFor404:
 - /vs2005-signtool-requires-capicom-version-2-1-0-1
 - /blog/vs2005-signtool-requires-capicom-version-2-1-0-1

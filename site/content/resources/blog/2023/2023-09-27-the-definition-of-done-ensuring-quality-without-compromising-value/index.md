@@ -19,6 +19,7 @@ aliases:
 - /the-definition-of-done--ensuring-quality-without-compromising-value
 - /blog/the-definition-of-done--ensuring-quality-without-compromising-value
 - /resources/DcwDyX1ZGUP
+- /resources/blog/the-definition-of-done-ensuring-quality-without-compromising-value
 aliasesFor404:
 - /the-definition-of-done-ensuring-quality-without-compromising-value
 - /blog/the-definition-of-done-ensuring-quality-without-compromising-value

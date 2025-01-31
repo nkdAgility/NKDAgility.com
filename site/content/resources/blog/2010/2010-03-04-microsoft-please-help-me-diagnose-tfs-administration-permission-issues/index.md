@@ -20,6 +20,7 @@ aliases:
 - /resources/ueNhR-7dVyg
 - /microsoft--please-help-me-diagnose-tfs-administration-permission-issues-
 - /blog/microsoft--please-help-me-diagnose-tfs-administration-permission-issues-
+- /resources/blog/microsoft-please-help-me-diagnose-tfs-administration-permission-issues
 aliasesFor404:
 - /microsoft-please-help-me-diagnose-tfs-administration-permission-issues
 - /blog/microsoft-please-help-me-diagnose-tfs-administration-permission-issues

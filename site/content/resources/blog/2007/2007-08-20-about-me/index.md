@@ -16,6 +16,7 @@ aliases:
 - /blog/about-me
 - /about-me
 - /resources/sLyEoCihMuc
+- /resources/blog/about-me
 aliasesFor404:
 - /about-me
 - /blog/about-me

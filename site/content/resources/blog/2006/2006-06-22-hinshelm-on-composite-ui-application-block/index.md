@@ -18,6 +18,7 @@ aliases:
 - /adding-toolstrippanel-ui-adapter-support-to-the-composite-ui-application-block
 - /blog/adding-toolstrippanel-ui-adapter-support-to-the-composite-ui-application-block
 - /resources/y_vlPh65_5Q
+- /resources/blog/hinshelm-on-composite-ui-application-block
 aliasesFor404:
 - /hinshelm-on-composite-ui-application-block
 - /blog/hinshelm-on-composite-ui-application-block

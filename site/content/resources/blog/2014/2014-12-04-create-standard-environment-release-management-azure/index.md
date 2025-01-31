@@ -18,6 +18,7 @@ aliases:
 - /create-a-standard-environment-for-release-management-in-azure
 - /blog/create-a-standard-environment-for-release-management-in-azure
 - /resources/iI7MvY2p7RU
+- /resources/blog/create-standard-environment-release-management-azure
 aliasesFor404:
 - /create-standard-environment-release-management-azure
 - /blog/create-standard-environment-release-management-azure

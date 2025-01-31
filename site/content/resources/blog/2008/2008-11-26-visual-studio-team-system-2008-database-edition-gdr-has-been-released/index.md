@@ -18,6 +18,7 @@ aliases:
 - /visual-studio-team-system-2008-database-edition-gdr-has-been-released-
 - /blog/visual-studio-team-system-2008-database-edition-gdr-has-been-released-
 - /resources/VkCGOULM8GF
+- /resources/blog/visual-studio-team-system-2008-database-edition-gdr-has-been-released
 aliasesFor404:
 - /visual-studio-team-system-2008-database-edition-gdr-has-been-released
 - /blog/visual-studio-team-system-2008-database-edition-gdr-has-been-released

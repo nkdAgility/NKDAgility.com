@@ -18,6 +18,7 @@ aliases:
 - /msn-cartoon-(beta)
 - /blog/msn-cartoon-(beta)
 - /resources/fFkCnlj8PXW
+- /resources/blog/msn-cartoon-beta
 aliasesFor404:
 - /msn-cartoon-beta
 - /blog/msn-cartoon-beta

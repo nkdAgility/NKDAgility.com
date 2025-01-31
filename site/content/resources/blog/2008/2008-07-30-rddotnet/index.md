@@ -16,6 +16,7 @@ aliases:
 - /blog/rddotnet
 - /rddotnet
 - /resources/gihU6AH59yn
+- /resources/blog/rddotnet
 aliasesFor404:
 - /rddotnet
 - /blog/rddotnet

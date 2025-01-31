@@ -20,6 +20,7 @@ aliases:
 - /resources/C7FpzXTFpU_
 - /not-just-happy--but-ecstatic
 - /blog/not-just-happy--but-ecstatic
+- /resources/blog/not-just-happy-but-ecstatic
 aliasesFor404:
 - /not-just-happy-but-ecstatic
 - /blog/not-just-happy-but-ecstatic

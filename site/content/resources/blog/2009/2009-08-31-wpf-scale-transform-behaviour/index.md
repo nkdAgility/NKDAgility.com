@@ -16,6 +16,7 @@ aliases:
 - /blog/wpf-scale-transform-behaviour
 - /wpf-scale-transform-behaviour
 - /resources/PXeY0Nggg1B
+- /resources/blog/wpf-scale-transform-behaviour
 aliasesFor404:
 - /wpf-scale-transform-behaviour
 - /blog/wpf-scale-transform-behaviour

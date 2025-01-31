@@ -20,6 +20,7 @@ aliases:
 - /resources/W90U2-3Up25
 - /feedburner--no-google…
 - /blog/feedburner--no-google…
+- /resources/blog/feedburner-no-google
 aliasesFor404:
 - /feedburner-no-google
 - /blog/feedburner-no-google

@@ -16,6 +16,7 @@ aliases:
 - /blog/tfs-event-handler-update
 - /tfs-event-handler-update
 - /resources/4sQLWkddZE1
+- /resources/blog/tfs-event-handler-update
 aliasesFor404:
 - /tfs-event-handler-update
 - /blog/tfs-event-handler-update

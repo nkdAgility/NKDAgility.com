@@ -20,6 +20,7 @@ aliases:
 - /resources/6c2D94gL-Fn
 - /a-new-day--a-new-week--a-new-team-server
 - /blog/a-new-day--a-new-week--a-new-team-server
+- /resources/blog/a-new-day-a-new-week-a-new-team-server
 aliasesFor404:
 - /a-new-day-a-new-week-a-new-team-server
 - /blog/a-new-day-a-new-week-a-new-team-server

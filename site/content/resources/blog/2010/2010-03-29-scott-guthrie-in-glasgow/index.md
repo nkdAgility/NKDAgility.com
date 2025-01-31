@@ -16,6 +16,7 @@ aliases:
 - /blog/scott-guthrie-in-glasgow
 - /scott-guthrie-in-glasgow
 - /resources/JkUaXsGbwTq
+- /resources/blog/scott-guthrie-in-glasgow
 aliasesFor404:
 - /scott-guthrie-in-glasgow
 - /blog/scott-guthrie-in-glasgow

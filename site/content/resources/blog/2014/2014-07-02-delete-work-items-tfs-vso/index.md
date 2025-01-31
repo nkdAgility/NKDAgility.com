@@ -18,6 +18,7 @@ aliases:
 - /how-to-delete-work-items-from-tfs-or-vso
 - /blog/how-to-delete-work-items-from-tfs-or-vso
 - /resources/MYXrtTYV2UD
+- /resources/blog/delete-work-items-tfs-vso
 aliasesFor404:
 - /delete-work-items-tfs-vso
 - /blog/delete-work-items-tfs-vso

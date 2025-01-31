@@ -16,6 +16,7 @@ aliases:
 - /blog/sharepoint-3-0-tfs-sub-site-creation-investigation-result
 - /sharepoint-3-0-tfs-sub-site-creation-investigation-result
 - /resources/eel2kPfabid
+- /resources/blog/sharepoint-3-0-tfs-sub-site-creation-investigation-result
 aliasesFor404:
 - /sharepoint-3-0-tfs-sub-site-creation-investigation-result
 - /blog/sharepoint-3-0-tfs-sub-site-creation-investigation-result

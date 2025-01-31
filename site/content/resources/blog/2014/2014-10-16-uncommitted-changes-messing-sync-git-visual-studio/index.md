@@ -18,6 +18,7 @@ aliases:
 - /uncommitted-changes-messing-up-your-sync-in-git-with-visual-studio
 - /blog/uncommitted-changes-messing-up-your-sync-in-git-with-visual-studio
 - /resources/CuWpL0GPBwN
+- /resources/blog/uncommitted-changes-messing-sync-git-visual-studio
 aliasesFor404:
 - /uncommitted-changes-messing-sync-git-visual-studio
 - /blog/uncommitted-changes-messing-sync-git-visual-studio

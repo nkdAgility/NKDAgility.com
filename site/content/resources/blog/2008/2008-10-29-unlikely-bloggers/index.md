@@ -18,6 +18,7 @@ aliases:
 - /unlikely-bloggers…
 - /blog/unlikely-bloggers…
 - /resources/cFVF2mb9dJ8
+- /resources/blog/unlikely-bloggers
 aliasesFor404:
 - /unlikely-bloggers
 - /blog/unlikely-bloggers

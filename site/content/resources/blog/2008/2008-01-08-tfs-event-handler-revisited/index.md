@@ -16,6 +16,7 @@ aliases:
 - /blog/tfs-event-handler-revisited
 - /tfs-event-handler-revisited
 - /resources/QSQv7s8SaaD
+- /resources/blog/tfs-event-handler-revisited
 aliasesFor404:
 - /tfs-event-handler-revisited
 - /blog/tfs-event-handler-revisited

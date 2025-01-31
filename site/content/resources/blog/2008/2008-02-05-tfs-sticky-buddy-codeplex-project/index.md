@@ -16,6 +16,7 @@ aliases:
 - /blog/tfs-sticky-buddy-codeplex-project
 - /tfs-sticky-buddy-codeplex-project
 - /resources/g0bjuq5cIqX
+- /resources/blog/tfs-sticky-buddy-codeplex-project
 aliasesFor404:
 - /tfs-sticky-buddy-codeplex-project
 - /blog/tfs-sticky-buddy-codeplex-project

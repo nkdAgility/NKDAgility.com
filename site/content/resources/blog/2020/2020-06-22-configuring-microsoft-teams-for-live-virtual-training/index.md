@@ -16,6 +16,7 @@ aliases:
 - /blog/configuring-microsoft-teams-for-live-virtual-training
 - /configuring-microsoft-teams-for-live-virtual-training
 - /resources/Xc0Lh3NbXfK
+- /resources/blog/configuring-microsoft-teams-for-live-virtual-training
 aliasesFor404:
 - /configuring-microsoft-teams-for-live-virtual-training
 - /blog/configuring-microsoft-teams-for-live-virtual-training

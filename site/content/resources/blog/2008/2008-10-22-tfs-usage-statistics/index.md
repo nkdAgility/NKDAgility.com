@@ -16,6 +16,7 @@ aliases:
 - /blog/tfs-usage-statistics
 - /tfs-usage-statistics
 - /resources/s5nBJ6ec37-
+- /resources/blog/tfs-usage-statistics
 aliasesFor404:
 - /tfs-usage-statistics
 - /blog/tfs-usage-statistics

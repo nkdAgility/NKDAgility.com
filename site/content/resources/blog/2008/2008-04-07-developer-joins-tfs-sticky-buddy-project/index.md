@@ -16,6 +16,7 @@ aliases:
 - /blog/developer-joins-tfs-sticky-buddy-project
 - /developer-joins-tfs-sticky-buddy-project
 - /resources/ghXEm8qg1Pz
+- /resources/blog/developer-joins-tfs-sticky-buddy-project
 aliasesFor404:
 - /developer-joins-tfs-sticky-buddy-project
 - /blog/developer-joins-tfs-sticky-buddy-project

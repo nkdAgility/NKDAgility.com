@@ -16,6 +16,7 @@ aliases:
 - /blog/migrating-source-code-with-history-to-tfs-2012-with-git-tf
 - /migrating-source-code-with-history-to-tfs-2012-with-git-tf
 - /resources/tiIa1A7zPP-
+- /resources/blog/migrating-source-code-with-history-to-tfs-2012-with-git-tf
 aliasesFor404:
 - /migrating-source-code-with-history-to-tfs-2012-with-git-tf
 - /blog/migrating-source-code-with-history-to-tfs-2012-with-git-tf

@@ -20,6 +20,7 @@ aliases:
 - /resources/cMYx4JN2az5
 - /the-tfs-automation-platform-is-dead--long-live-the-tfplugable
 - /blog/the-tfs-automation-platform-is-dead--long-live-the-tfplugable
+- /resources/blog/the-tfs-automation-platform-is-dead-long-live-the-tfplugable
 aliasesFor404:
 - /the-tfs-automation-platform-is-dead-long-live-the-tfplugable
 - /blog/the-tfs-automation-platform-is-dead-long-live-the-tfplugable

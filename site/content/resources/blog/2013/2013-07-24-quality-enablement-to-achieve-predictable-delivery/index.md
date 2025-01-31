@@ -16,6 +16,7 @@ aliases:
 - /blog/quality-enablement-to-achieve-predictable-delivery
 - /quality-enablement-to-achieve-predictable-delivery
 - /resources/Qvzmat4E5NB
+- /resources/blog/quality-enablement-to-achieve-predictable-delivery
 aliasesFor404:
 - /quality-enablement-to-achieve-predictable-delivery
 - /blog/quality-enablement-to-achieve-predictable-delivery

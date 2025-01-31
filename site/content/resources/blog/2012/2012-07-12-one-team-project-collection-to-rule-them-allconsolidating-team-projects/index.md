@@ -19,6 +19,7 @@ aliases:
 - /one-team-project-collection-to-rule-them-all---consolidating-team-projects
 - /blog/one-team-project-collection-to-rule-them-all---consolidating-team-projects
 - /resources/xzuqsTxb7UD
+- /resources/blog/one-team-project-collection-to-rule-them-allconsolidating-team-projects
 aliasesFor404:
 - /one-team-project-collection-to-rule-them-allconsolidating-team-projects
 - /blog/one-team-project-collection-to-rule-them-allconsolidating-team-projects

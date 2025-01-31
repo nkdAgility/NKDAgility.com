@@ -16,6 +16,7 @@ aliases:
 - /blog/multi-targeting-in-visual-studio-2010
 - /multi-targeting-in-visual-studio-2010
 - /resources/j92AlbTRvDq
+- /resources/blog/multi-targeting-in-visual-studio-2010
 aliasesFor404:
 - /multi-targeting-in-visual-studio-2010
 - /blog/multi-targeting-in-visual-studio-2010

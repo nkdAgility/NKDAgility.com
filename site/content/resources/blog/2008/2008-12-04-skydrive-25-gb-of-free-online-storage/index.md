@@ -18,6 +18,7 @@ aliases:
 - /skydrive--25-gb-of-free-online-storage
 - /blog/skydrive--25-gb-of-free-online-storage
 - /resources/MxQH0mzNWaj
+- /resources/blog/skydrive-25-gb-of-free-online-storage
 aliasesFor404:
 - /skydrive-25-gb-of-free-online-storage
 - /blog/skydrive-25-gb-of-free-online-storage

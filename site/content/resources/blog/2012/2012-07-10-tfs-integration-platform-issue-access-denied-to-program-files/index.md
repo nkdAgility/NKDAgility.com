@@ -18,6 +18,7 @@ aliases:
 - /tfs-integration-tools-–-issue--access-denied-to-program-files
 - /blog/tfs-integration-tools-–-issue--access-denied-to-program-files
 - /resources/wzTZxQrjbzO
+- /resources/blog/tfs-integration-platform-issue-access-denied-to-program-files
 aliasesFor404:
 - /tfs-integration-platform-issue-access-denied-to-program-files
 - /blog/tfs-integration-platform-issue-access-denied-to-program-files

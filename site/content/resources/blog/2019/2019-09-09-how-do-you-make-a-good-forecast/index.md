@@ -18,6 +18,7 @@ aliases:
 - /how-do-you-make-a-good-forecast-
 - /blog/how-do-you-make-a-good-forecast-
 - /resources/fm9Rt6R7JZz
+- /resources/blog/how-do-you-make-a-good-forecast
 aliasesFor404:
 - /how-do-you-make-a-good-forecast
 - /blog/how-do-you-make-a-good-forecast

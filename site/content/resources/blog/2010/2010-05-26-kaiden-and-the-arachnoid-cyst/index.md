@@ -16,6 +16,7 @@ aliases:
 - /blog/kaiden-and-the-arachnoid-cyst
 - /kaiden-and-the-arachnoid-cyst
 - /resources/LjGohC1Hzfv
+- /resources/blog/kaiden-and-the-arachnoid-cyst
 aliasesFor404:
 - /kaiden-and-the-arachnoid-cyst
 - /blog/kaiden-and-the-arachnoid-cyst

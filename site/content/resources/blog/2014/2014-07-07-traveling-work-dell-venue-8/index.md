@@ -18,6 +18,7 @@ aliases:
 - /traveling-for-work-and-the-dell-venue-8
 - /blog/traveling-for-work-and-the-dell-venue-8
 - /resources/Y8cHV08YFNc
+- /resources/blog/traveling-work-dell-venue-8
 aliasesFor404:
 - /traveling-work-dell-venue-8
 - /blog/traveling-work-dell-venue-8

@@ -16,6 +16,7 @@ aliases:
 - /blog/team-foundation-server-sharepoint-integration
 - /team-foundation-server-sharepoint-integration
 - /resources/Dn2_7F_mhyC
+- /resources/blog/team-foundation-server-sharepoint-integration
 aliasesFor404:
 - /team-foundation-server-sharepoint-integration
 - /blog/team-foundation-server-sharepoint-integration

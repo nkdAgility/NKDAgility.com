@@ -18,6 +18,7 @@ aliases:
 - /fun-with-virgin+
 - /blog/fun-with-virgin+
 - /resources/PHUHjUVq45E
+- /resources/blog/fun-with-virgin
 aliasesFor404:
 - /fun-with-virgin
 - /blog/fun-with-virgin

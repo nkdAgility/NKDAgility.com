@@ -16,6 +16,7 @@ aliases:
 - /blog/connect-a-test-controller-to-team-foundation-service
 - /connect-a-test-controller-to-team-foundation-service
 - /resources/D5NhnVpHAwD
+- /resources/blog/connect-a-test-controller-to-team-foundation-service
 aliasesFor404:
 - /connect-a-test-controller-to-team-foundation-service
 - /blog/connect-a-test-controller-to-team-foundation-service

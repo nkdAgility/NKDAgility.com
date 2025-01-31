@@ -16,6 +16,7 @@ aliases:
 - /blog/creating-a-work-item-with-defaults-in-team-foundation-server
 - /creating-a-work-item-with-defaults-in-team-foundation-server
 - /resources/v1HLcU8PfsS
+- /resources/blog/creating-a-work-item-with-defaults-in-team-foundation-server
 aliasesFor404:
 - /creating-a-work-item-with-defaults-in-team-foundation-server
 - /blog/creating-a-work-item-with-defaults-in-team-foundation-server

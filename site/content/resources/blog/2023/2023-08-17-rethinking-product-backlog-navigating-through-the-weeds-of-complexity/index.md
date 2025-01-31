@@ -19,6 +19,7 @@ aliases:
 - /rethinking-product-backlog--navigating-through-the-weeds-of-complexity
 - /blog/rethinking-product-backlog--navigating-through-the-weeds-of-complexity
 - /resources/PmLDnMEBzBQ
+- /resources/blog/rethinking-product-backlog-navigating-through-the-weeds-of-complexity
 aliasesFor404:
 - /rethinking-product-backlog-navigating-through-the-weeds-of-complexity
 - /blog/rethinking-product-backlog-navigating-through-the-weeds-of-complexity

@@ -18,6 +18,7 @@ aliases:
 - /-net-framework-3-0
 - /blog/-net-framework-3-0
 - /resources/8jxki9iqNyC
+- /resources/blog/net-framework-3-0
 aliasesFor404:
 - /net-framework-3-0
 - /blog/net-framework-3-0

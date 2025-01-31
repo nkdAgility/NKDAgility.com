@@ -18,6 +18,7 @@ aliases:
 - /tfs-integration-tools--tf237165--the-team-foundation-server-could-not-update-the-work-item
 - /blog/tfs-integration-tools--tf237165--the-team-foundation-server-could-not-update-the-work-item
 - /resources/-dhZywZGtrn
+- /resources/blog/tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item
 aliasesFor404:
 - /tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item
 - /blog/tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item

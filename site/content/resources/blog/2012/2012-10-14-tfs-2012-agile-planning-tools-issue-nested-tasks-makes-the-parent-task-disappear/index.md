@@ -19,6 +19,7 @@ aliases:
 - /tfs-2012-agile-planning-tools-issue---nested-tasks-makes-the-parent-task-disappear
 - /blog/tfs-2012-agile-planning-tools-issue---nested-tasks-makes-the-parent-task-disappear
 - /resources/YhKqO4gdGiv
+- /resources/blog/tfs-2012-agile-planning-tools-issue-nested-tasks-makes-the-parent-task-disappear
 aliasesFor404:
 - /tfs-2012-agile-planning-tools-issue-nested-tasks-makes-the-parent-task-disappear
 - /blog/tfs-2012-agile-planning-tools-issue-nested-tasks-makes-the-parent-task-disappear

@@ -16,6 +16,7 @@ aliases:
 - /blog/free-online-training-from-microsoft
 - /free-online-training-from-microsoft
 - /resources/BGC7JkOCdJs
+- /resources/blog/free-online-training-from-microsoft
 aliasesFor404:
 - /free-online-training-from-microsoft
 - /blog/free-online-training-from-microsoft

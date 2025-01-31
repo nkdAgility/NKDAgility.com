@@ -18,6 +18,7 @@ aliases:
 - /tfs-integration-tools–issue--analysisprovider-not-found
 - /blog/tfs-integration-tools–issue--analysisprovider-not-found
 - /resources/8A-nFDUhe2o
+- /resources/blog/tfs-integration-toolsissue-analysisprovider-not-found
 aliasesFor404:
 - /tfs-integration-toolsissue-analysisprovider-not-found
 - /blog/tfs-integration-toolsissue-analysisprovider-not-found

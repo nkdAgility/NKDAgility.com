@@ -16,6 +16,7 @@ aliases:
 - /blog/connecting-to-sql-server-using-dns-update
 - /connecting-to-sql-server-using-dns-update
 - /resources/P0XjI6SRWz-
+- /resources/blog/connecting-to-sql-server-using-dns-update
 aliasesFor404:
 - /connecting-to-sql-server-using-dns-update
 - /blog/connecting-to-sql-server-using-dns-update

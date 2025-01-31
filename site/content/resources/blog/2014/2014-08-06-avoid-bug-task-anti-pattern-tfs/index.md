@@ -18,6 +18,7 @@ aliases:
 - /blog/avoid-the-bug-as-task-anti-pattern-in-azure-devops
 - /blog/avoid-bug-task-anti-pattern-azure-devops/
 - /resources/ppfe8CkVNf0
+- /resources/blog/
 aliasesFor404:
 - /avoid-the-bug-as-task-anti-pattern-in-azure-devops
 - /blog/avoid-the-bug-as-task-anti-pattern-in-azure-devops

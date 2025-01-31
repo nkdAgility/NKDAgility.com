@@ -18,6 +18,7 @@ aliases:
 - /what's-in-a-burndown-
 - /blog/what's-in-a-burndown-
 - /resources/SdYtGr9X2KV
+- /resources/blog/whats-in-a-burndown
 aliasesFor404:
 - /whats-in-a-burndown
 - /blog/whats-in-a-burndown

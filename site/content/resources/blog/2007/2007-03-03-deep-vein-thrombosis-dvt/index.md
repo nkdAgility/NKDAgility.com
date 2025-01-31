@@ -18,6 +18,7 @@ aliases:
 - /deep-vein-thrombosis-(dvt)
 - /blog/deep-vein-thrombosis-(dvt)
 - /resources/_7Yp1RZb_8I
+- /resources/blog/deep-vein-thrombosis-dvt
 aliasesFor404:
 - /deep-vein-thrombosis-dvt
 - /blog/deep-vein-thrombosis-dvt

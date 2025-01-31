@@ -18,6 +18,7 @@ aliases:
 - /tfs-gotcha-(exception-handling)
 - /blog/tfs-gotcha-(exception-handling)
 - /resources/OMGmyApgm0G
+- /resources/blog/tfs-gotcha-exception-handling
 aliasesFor404:
 - /tfs-gotcha-exception-handling
 - /blog/tfs-gotcha-exception-handling

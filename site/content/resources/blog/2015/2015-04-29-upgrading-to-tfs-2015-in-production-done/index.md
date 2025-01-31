@@ -19,6 +19,7 @@ aliases:
 - /upgrading-to-tfs-2015-in-production---done
 - /blog/upgrading-to-tfs-2015-in-production---done
 - /resources/lJiwJaztYBO
+- /resources/blog/upgrading-to-tfs-2015-in-production-done
 aliasesFor404:
 - /upgrading-to-tfs-2015-in-production-done
 - /blog/upgrading-to-tfs-2015-in-production-done

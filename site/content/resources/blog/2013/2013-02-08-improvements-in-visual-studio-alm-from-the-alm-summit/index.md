@@ -16,6 +16,7 @@ aliases:
 - /blog/improvements-in-visual-studio-alm-from-the-alm-summit
 - /improvements-in-visual-studio-alm-from-the-alm-summit
 - /resources/E9mwcXKPJ0C
+- /resources/blog/improvements-in-visual-studio-alm-from-the-alm-summit
 aliasesFor404:
 - /improvements-in-visual-studio-alm-from-the-alm-summit
 - /blog/improvements-in-visual-studio-alm-from-the-alm-summit

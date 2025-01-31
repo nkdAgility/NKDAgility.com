@@ -16,6 +16,7 @@ aliases:
 - /blog/visual-studio-team-system-blogs
 - /visual-studio-team-system-blogs
 - /resources/de7b3FE-UNO
+- /resources/blog/visual-studio-team-system-blogs
 aliasesFor404:
 - /visual-studio-team-system-blogs
 - /blog/visual-studio-team-system-blogs

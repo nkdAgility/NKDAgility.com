@@ -18,6 +18,7 @@ aliases:
 - /i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools…-now-what-
 - /blog/i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools…-now-what-
 - /resources/r5ID4-DiAy7
+- /resources/blog/i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools-now-what
 aliasesFor404:
 - /i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools-now-what
 - /blog/i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools-now-what

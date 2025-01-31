@@ -16,6 +16,7 @@ aliases:
 - /blog/move-your-active-directory-domain-to-another-server
 - /move-your-active-directory-domain-to-another-server
 - /resources/koQQ-rllpsw
+- /resources/blog/move-your-active-directory-domain-to-another-server
 aliasesFor404:
 - /move-your-active-directory-domain-to-another-server
 - /blog/move-your-active-directory-domain-to-another-server

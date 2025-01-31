@@ -18,6 +18,7 @@ aliases:
 - /do-you-know-the-minimum-builds-to-create-on-any-branch-
 - /blog/do-you-know-the-minimum-builds-to-create-on-any-branch-
 - /resources/wPA1p1UQ6Bi
+- /resources/blog/do-you-know-the-minimum-builds-to-create-on-any-branch
 aliasesFor404:
 - /do-you-know-the-minimum-builds-to-create-on-any-branch
 - /blog/do-you-know-the-minimum-builds-to-create-on-any-branch

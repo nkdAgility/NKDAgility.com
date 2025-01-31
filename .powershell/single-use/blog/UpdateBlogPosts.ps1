@@ -68,6 +68,7 @@ $blogs | ForEach-Object {
         if ($hugoMarkdown.FrontMatter.Contains("ResourceId")) {
             $aliases += "/resources/$($hugoMarkdown.FrontMatter.ResourceId)"
         }
+        $aliases += "/resources/blog/$slug"
         Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliases' -values $aliases -addAfter 'slug'
 
         $404aliases = @()

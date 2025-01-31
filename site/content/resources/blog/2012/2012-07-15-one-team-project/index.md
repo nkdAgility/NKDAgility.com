@@ -18,6 +18,7 @@ aliases:
 - /one-team-project-to-rule-them-all
 - /blog/one-team-project-to-rule-them-all
 - /resources/8AfjJ-2eCEV
+- /resources/blog/one-team-project
 aliasesFor404:
 - /one-team-project
 - /blog/one-team-project

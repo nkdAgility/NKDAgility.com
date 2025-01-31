@@ -18,6 +18,7 @@ aliases:
 - /tfs-sticky-buddy-2-0-development-started…
 - /blog/tfs-sticky-buddy-2-0-development-started…
 - /resources/TxY4h-j1YTB
+- /resources/blog/tfs-sticky-buddy-2-0-development-started
 aliasesFor404:
 - /tfs-sticky-buddy-2-0-development-started
 - /blog/tfs-sticky-buddy-2-0-development-started

@@ -16,6 +16,7 @@ aliases:
 - /blog/many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
 - /many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
 - /resources/kmQceaX7e-O
+- /resources/blog/many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
 aliasesFor404:
 - /many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
 - /blog/many-organisations-are-lured-to-safe-by-the-song-of-the-sirens

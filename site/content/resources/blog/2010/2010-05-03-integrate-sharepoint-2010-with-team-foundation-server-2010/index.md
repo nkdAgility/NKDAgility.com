@@ -16,6 +16,7 @@ aliases:
 - /blog/integrate-sharepoint-2010-with-team-foundation-server-2010
 - /integrate-sharepoint-2010-with-team-foundation-server-2010
 - /resources/rZaFJwqThDs
+- /resources/blog/integrate-sharepoint-2010-with-team-foundation-server-2010
 aliasesFor404:
 - /integrate-sharepoint-2010-with-team-foundation-server-2010
 - /blog/integrate-sharepoint-2010-with-team-foundation-server-2010

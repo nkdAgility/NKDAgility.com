@@ -16,6 +16,7 @@ aliases:
 - /blog/an-application-deployment
 - /an-application-deployment
 - /resources/UnvdJlF863n
+- /resources/blog/an-application-deployment
 aliasesFor404:
 - /an-application-deployment
 - /blog/an-application-deployment

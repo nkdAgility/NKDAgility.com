@@ -18,6 +18,7 @@ aliases:
 - /am-i-a-stoner-hippy-
 - /blog/am-i-a-stoner-hippy-
 - /resources/CNzLcasBQF9
+- /resources/blog/am-i-a-stoner-hippy
 aliasesFor404:
 - /am-i-a-stoner-hippy
 - /blog/am-i-a-stoner-hippy

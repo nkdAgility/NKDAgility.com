@@ -18,6 +18,7 @@ aliases:
 - /it's-that-time-again;-get-ready-to-upgrade-to-tfs-2015
 - /blog/it's-that-time-again;-get-ready-to-upgrade-to-tfs-2015
 - /resources/7gr-fTIcGUp
+- /resources/blog/its-that-time-again-get-ready-to-upgrade-to-tfs-2015
 aliasesFor404:
 - /its-that-time-again-get-ready-to-upgrade-to-tfs-2015
 - /blog/its-that-time-again-get-ready-to-upgrade-to-tfs-2015

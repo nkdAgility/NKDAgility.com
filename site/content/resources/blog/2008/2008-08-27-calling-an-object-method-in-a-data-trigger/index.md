@@ -16,6 +16,7 @@ aliases:
 - /blog/calling-an-object-method-in-a-data-trigger
 - /calling-an-object-method-in-a-data-trigger
 - /resources/qw2arcsyX7a
+- /resources/blog/calling-an-object-method-in-a-data-trigger
 aliasesFor404:
 - /calling-an-object-method-in-a-data-trigger
 - /blog/calling-an-object-method-in-a-data-trigger

@@ -16,6 +16,7 @@ aliases:
 - /blog/gears-of-war-update-starting-9-jan-2007
 - /gears-of-war-update-starting-9-jan-2007
 - /resources/M-6kKMAcLiM
+- /resources/blog/gears-of-war-update-starting-9-jan-2007
 aliasesFor404:
 - /gears-of-war-update-starting-9-jan-2007
 - /blog/gears-of-war-update-starting-9-jan-2007

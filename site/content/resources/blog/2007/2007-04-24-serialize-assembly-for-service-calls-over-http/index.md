@@ -16,6 +16,7 @@ aliases:
 - /blog/serialize-assembly-for-service-calls-over-http
 - /serialize-assembly-for-service-calls-over-http
 - /resources/TgSz2FK5KBK
+- /resources/blog/serialize-assembly-for-service-calls-over-http
 aliasesFor404:
 - /serialize-assembly-for-service-calls-over-http
 - /blog/serialize-assembly-for-service-calls-over-http

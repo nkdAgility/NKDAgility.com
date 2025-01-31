@@ -18,6 +18,7 @@ aliases:
 - /ssrs-vs-scvmm---the-kerberos-token-dispute
 - /blog/ssrs-vs-scvmm---the-kerberos-token-dispute
 - /resources/o4bErdW-aL2
+- /resources/blog/ssrs-vs-scvmm-the-kerberos-token-dispute
 aliasesFor404:
 - /ssrs-vs-scvmm-the-kerberos-token-dispute
 - /blog/ssrs-vs-scvmm-the-kerberos-token-dispute

@@ -16,6 +16,7 @@ aliases:
 - /blog/major-deadline
 - /major-deadline
 - /resources/qNeovUSRj-o
+- /resources/blog/major-deadline
 aliasesFor404:
 - /major-deadline
 - /blog/major-deadline

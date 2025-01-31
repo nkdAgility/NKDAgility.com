@@ -17,7 +17,7 @@ contributors:
 layout: blog
 resourceTypes: blog
 slug: the-scrum-master-is-accountable-for-delivery
-aliases: /resources/yMnia2DLI6q
+aliases: /resources/yMnia2DLI6q/resources/blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
 tags:
 - Scrum Master
 - Delivery

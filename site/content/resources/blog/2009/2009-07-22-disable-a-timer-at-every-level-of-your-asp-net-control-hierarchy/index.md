@@ -16,6 +16,7 @@ aliases:
 - /blog/disable-a-timer-at-every-level-of-your-asp-net-control-hierarchy
 - /disable-a-timer-at-every-level-of-your-asp-net-control-hierarchy
 - /resources/DPQr4iigMBP
+- /resources/blog/disable-a-timer-at-every-level-of-your-asp-net-control-hierarchy
 aliasesFor404:
 - /disable-a-timer-at-every-level-of-your-asp-net-control-hierarchy
 - /blog/disable-a-timer-at-every-level-of-your-asp-net-control-hierarchy

@@ -16,6 +16,7 @@ aliases:
 - /blog/hosted-team-foundation-server
 - /hosted-team-foundation-server
 - /resources/uP5FXaFL6Lx
+- /resources/blog/hosted-team-foundation-server
 aliasesFor404:
 - /hosted-team-foundation-server
 - /blog/hosted-team-foundation-server

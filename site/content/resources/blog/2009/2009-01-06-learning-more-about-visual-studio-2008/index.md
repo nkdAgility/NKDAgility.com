@@ -16,6 +16,7 @@ aliases:
 - /blog/learning-more-about-visual-studio-2008
 - /learning-more-about-visual-studio-2008
 - /resources/DI9tjIOOa_M
+- /resources/blog/learning-more-about-visual-studio-2008
 aliasesFor404:
 - /learning-more-about-visual-studio-2008
 - /blog/learning-more-about-visual-studio-2008

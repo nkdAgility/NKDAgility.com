@@ -18,6 +18,7 @@ aliases:
 - /evolution-not-transformation--this-is-the-inevitability-of-change
 - /blog/evolution-not-transformation--this-is-the-inevitability-of-change
 - /resources/WvUOpSMqawD
+- /resources/blog/evolution-not-transformation-this-is-the-inevitability-of-change
 aliasesFor404:
 - /evolution-not-transformation-this-is-the-inevitability-of-change
 - /blog/evolution-not-transformation-this-is-the-inevitability-of-change

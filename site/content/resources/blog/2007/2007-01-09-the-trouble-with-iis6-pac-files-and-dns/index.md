@@ -20,6 +20,7 @@ aliases:
 - /resources/R2MUioX4tLG
 - /the-trouble-with-iis6---pac-files-and-dns
 - /blog/the-trouble-with-iis6---pac-files-and-dns
+- /resources/blog/the-trouble-with-iis6-pac-files-and-dns
 aliasesFor404:
 - /the-trouble-with-iis6-pac-files-and-dns
 - /blog/the-trouble-with-iis6-pac-files-and-dns

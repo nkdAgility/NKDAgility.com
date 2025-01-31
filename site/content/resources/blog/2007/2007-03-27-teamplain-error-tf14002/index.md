@@ -18,6 +18,7 @@ aliases:
 - /teamplain-error--tf14002
 - /blog/teamplain-error--tf14002
 - /resources/PHs0D35ZIo4
+- /resources/blog/teamplain-error-tf14002
 aliasesFor404:
 - /teamplain-error-tf14002
 - /blog/teamplain-error-tf14002

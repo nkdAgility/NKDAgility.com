@@ -16,6 +16,7 @@ aliases:
 - /blog/problems-with-team-explorer-after-installed-visual-studio-2008-sp1-rtm
 - /problems-with-team-explorer-after-installed-visual-studio-2008-sp1-rtm
 - /resources/DLSNF8iLvfk
+- /resources/blog/problems-with-team-explorer-after-installed-visual-studio-2008-sp1-rtm
 aliasesFor404:
 - /problems-with-team-explorer-after-installed-visual-studio-2008-sp1-rtm
 - /blog/problems-with-team-explorer-after-installed-visual-studio-2008-sp1-rtm

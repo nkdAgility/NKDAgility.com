@@ -16,6 +16,7 @@ aliases:
 - /blog/migrating-to-office-365-from-google-mail
 - /migrating-to-office-365-from-google-mail
 - /resources/w2vG6eEu5BH
+- /resources/blog/migrating-to-office-365-from-google-mail
 aliasesFor404:
 - /migrating-to-office-365-from-google-mail
 - /blog/migrating-to-office-365-from-google-mail

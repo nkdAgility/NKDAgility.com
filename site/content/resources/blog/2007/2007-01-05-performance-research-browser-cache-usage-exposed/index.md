@@ -21,6 +21,7 @@ aliases:
 - /resources/UF1mz0nza4p
 - /performance-research--browser-cache-usage---exposed-
 - /blog/performance-research--browser-cache-usage---exposed-
+- /resources/blog/performance-research-browser-cache-usage-exposed
 aliasesFor404:
 - /performance-research-browser-cache-usage-exposed
 - /blog/performance-research-browser-cache-usage-exposed

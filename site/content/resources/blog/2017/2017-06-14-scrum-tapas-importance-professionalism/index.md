@@ -18,6 +18,7 @@ aliases:
 - /scrum-tapas--the-importance-of-professionalism
 - /blog/scrum-tapas--the-importance-of-professionalism
 - /resources/sdlfWR5wHx7
+- /resources/blog/scrum-tapas-importance-professionalism
 aliasesFor404:
 - /scrum-tapas-importance-professionalism
 - /blog/scrum-tapas-importance-professionalism

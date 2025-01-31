@@ -16,6 +16,7 @@ aliases:
 - /blog/release-planning-and-predictable-delivery
 - /release-planning-and-predictable-delivery
 - /resources/2cOXevMnGb_
+- /resources/blog/release-planning-and-predictable-delivery
 aliasesFor404:
 - /release-planning-and-predictable-delivery
 - /blog/release-planning-and-predictable-delivery

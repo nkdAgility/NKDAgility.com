@@ -18,6 +18,7 @@ aliases:
 - /tfs-eventhandler--message-queuing
 - /blog/tfs-eventhandler--message-queuing
 - /resources/SLkPRSid1iJ
+- /resources/blog/tfs-eventhandler-message-queuing
 aliasesFor404:
 - /tfs-eventhandler-message-queuing
 - /blog/tfs-eventhandler-message-queuing

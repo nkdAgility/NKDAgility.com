@@ -16,6 +16,7 @@ aliases:
 - /blog/luddites-have-no-place-in-the-modern-organisation
 - /luddites-have-no-place-in-the-modern-organisation
 - /resources/dyxqF7lrHmn
+- /resources/blog/luddites-have-no-place-in-the-modern-organisation
 aliasesFor404:
 - /luddites-have-no-place-in-the-modern-organisation
 - /blog/luddites-have-no-place-in-the-modern-organisation

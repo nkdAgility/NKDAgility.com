@@ -21,6 +21,7 @@ aliases:
 - /resources/oXATaMW00Ct
 - /visual-studio-2010-overview---a-day-in-the-life-of-----plan--code-&-test
 - /blog/visual-studio-2010-overview---a-day-in-the-life-of-----plan--code-&-test
+- /resources/blog/visual-studio-2010-overview-a-day-in-the-life-of
 aliasesFor404:
 - /visual-studio-2010-overview-a-day-in-the-life-of
 - /blog/visual-studio-2010-overview-a-day-in-the-life-of

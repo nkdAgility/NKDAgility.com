@@ -18,6 +18,7 @@ aliases:
 - /what's-the-best-way-to-work-around-multiple-po-
 - /blog/what's-the-best-way-to-work-around-multiple-po-
 - /resources/KIG3LzjF3zK
+- /resources/blog/whats-the-best-way-to-work-around-multiple-po
 aliasesFor404:
 - /whats-the-best-way-to-work-around-multiple-po
 - /blog/whats-the-best-way-to-work-around-multiple-po

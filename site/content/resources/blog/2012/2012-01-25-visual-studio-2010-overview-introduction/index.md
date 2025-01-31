@@ -19,6 +19,7 @@ aliases:
 - /visual-studio-2010-overview---introduction
 - /blog/visual-studio-2010-overview---introduction
 - /resources/2d6IQ5TVE-_
+- /resources/blog/visual-studio-2010-overview-introduction
 aliasesFor404:
 - /visual-studio-2010-overview-introduction
 - /blog/visual-studio-2010-overview-introduction

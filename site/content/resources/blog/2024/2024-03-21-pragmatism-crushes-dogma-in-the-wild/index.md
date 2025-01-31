@@ -17,6 +17,7 @@ aliases:
 - /blog/pragmatism-crushes-dogma-in-the-wild
 - /pragmatism-crushes-dogma-in-the-wild
 - /resources/mkdhLrKu8sh
+- /resources/blog/pragmatism-crushes-dogma-in-the-wild
 aliasesFor404:
 - /pragmatism-crushes-dogma-in-the-wild
 - /blog/pragmatism-crushes-dogma-in-the-wild

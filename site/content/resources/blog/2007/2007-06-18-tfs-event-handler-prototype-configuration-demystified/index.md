@@ -16,6 +16,7 @@ aliases:
 - /blog/tfs-event-handler-prototype-configuration-demystified
 - /tfs-event-handler-prototype-configuration-demystified
 - /resources/ENx7u9d6Q6z
+- /resources/blog/tfs-event-handler-prototype-configuration-demystified
 aliasesFor404:
 - /tfs-event-handler-prototype-configuration-demystified
 - /blog/tfs-event-handler-prototype-configuration-demystified

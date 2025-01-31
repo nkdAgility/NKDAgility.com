@@ -18,6 +18,7 @@ aliases:
 - /-net-service-manager
 - /blog/-net-service-manager
 - /resources/tzY7cIvFnOc
+- /resources/blog/net-service-manager
 aliasesFor404:
 - /net-service-manager
 - /blog/net-service-manager

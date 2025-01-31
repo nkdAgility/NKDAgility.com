@@ -18,6 +18,7 @@ aliases:
 - /writing--net-in-powershell-and-creating-tfs-teams
 - /blog/writing--net-in-powershell-and-creating-tfs-teams
 - /resources/52GnS0fI67Q
+- /resources/blog/writing-net-in-powershell-and-creating-tfs-teams
 aliasesFor404:
 - /writing-net-in-powershell-and-creating-tfs-teams
 - /blog/writing-net-in-powershell-and-creating-tfs-teams

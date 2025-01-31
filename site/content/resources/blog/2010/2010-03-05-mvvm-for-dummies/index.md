@@ -16,6 +16,7 @@ aliases:
 - /blog/mvvm-for-dummies
 - /mvvm-for-dummies
 - /resources/__7oXNKjdWP
+- /resources/blog/mvvm-for-dummies
 aliasesFor404:
 - /mvvm-for-dummies
 - /blog/mvvm-for-dummies

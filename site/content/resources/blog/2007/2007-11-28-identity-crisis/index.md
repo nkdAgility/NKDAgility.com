@@ -16,6 +16,7 @@ aliases:
 - /blog/identity-crisis
 - /identity-crisis
 - /resources/mY6h9tz2JRJ
+- /resources/blog/identity-crisis
 aliasesFor404:
 - /identity-crisis
 - /blog/identity-crisis

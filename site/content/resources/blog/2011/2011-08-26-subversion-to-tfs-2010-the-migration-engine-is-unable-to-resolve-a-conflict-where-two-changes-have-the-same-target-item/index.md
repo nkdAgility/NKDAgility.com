@@ -18,6 +18,7 @@ aliases:
 - /subversion-to-tfs-2010--the-migration-engine-is-unable-to-resolve-a-conflict-where-two-changes-have-the-same-target-item
 - /blog/subversion-to-tfs-2010--the-migration-engine-is-unable-to-resolve-a-conflict-where-two-changes-have-the-same-target-item
 - /resources/z1EKAHhrUI7
+- /resources/blog/subversion-to-tfs-2010-the-migration-engine-is-unable-to-resolve-a-conflict-where-two-changes-have-the-same-target-item
 aliasesFor404:
 - /subversion-to-tfs-2010-the-migration-engine-is-unable-to-resolve-a-conflict-where-two-changes-have-the-same-target-item
 - /blog/subversion-to-tfs-2010-the-migration-engine-is-unable-to-resolve-a-conflict-where-two-changes-have-the-same-target-item

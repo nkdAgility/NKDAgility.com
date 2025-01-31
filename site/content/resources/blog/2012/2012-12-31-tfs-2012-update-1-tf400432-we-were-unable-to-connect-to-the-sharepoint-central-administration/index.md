@@ -19,6 +19,7 @@ aliases:
 - /tfs-2012-update-1---tf400432-we-were-unable-to-connect-to-the-sharepoint-central-administration
 - /blog/tfs-2012-update-1---tf400432-we-were-unable-to-connect-to-the-sharepoint-central-administration
 - /resources/68-m_aV0Njz
+- /resources/blog/tfs-2012-update-1-tf400432-we-were-unable-to-connect-to-the-sharepoint-central-administration
 aliasesFor404:
 - /tfs-2012-update-1-tf400432-we-were-unable-to-connect-to-the-sharepoint-central-administration
 - /blog/tfs-2012-update-1-tf400432-we-were-unable-to-connect-to-the-sharepoint-central-administration

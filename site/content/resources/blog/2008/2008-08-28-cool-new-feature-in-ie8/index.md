@@ -16,6 +16,7 @@ aliases:
 - /blog/cool-new-feature-in-ie8
 - /cool-new-feature-in-ie8
 - /resources/wd7JhsgRpbS
+- /resources/blog/cool-new-feature-in-ie8
 aliasesFor404:
 - /cool-new-feature-in-ie8
 - /blog/cool-new-feature-in-ie8

@@ -18,6 +18,7 @@ aliases:
 - /should-i-upgrade-to-tfs-2013-update-2-
 - /blog/should-i-upgrade-to-tfs-2013-update-2-
 - /resources/_FVuS9sZSA2
+- /resources/blog/upgrade-tfs-2013-update-2
 aliasesFor404:
 - /upgrade-tfs-2013-update-2
 - /blog/upgrade-tfs-2013-update-2

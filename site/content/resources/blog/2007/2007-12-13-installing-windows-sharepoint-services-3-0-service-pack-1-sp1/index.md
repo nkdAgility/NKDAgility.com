@@ -18,6 +18,7 @@ aliases:
 - /installing-windows-sharepoint-services-3-0-service-pack-1-(sp1)
 - /blog/installing-windows-sharepoint-services-3-0-service-pack-1-(sp1)
 - /resources/kTx0ZCg43dC
+- /resources/blog/installing-windows-sharepoint-services-3-0-service-pack-1-sp1
 aliasesFor404:
 - /installing-windows-sharepoint-services-3-0-service-pack-1-sp1
 - /blog/installing-windows-sharepoint-services-3-0-service-pack-1-sp1

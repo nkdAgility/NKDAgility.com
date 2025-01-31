@@ -8,7 +8,7 @@ creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
 slug: why-handoffs-are-killing-your-agility
-aliases: /resources/pDvDdIEi9sj
+aliases: /resources/pDvDdIEi9sj/resources/blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
 tags:
 - handoffs
 - lean

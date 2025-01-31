@@ -16,6 +16,7 @@ aliases:
 - /blog/tfs-handover
 - /tfs-handover
 - /resources/pHZwP7oD5dE
+- /resources/blog/tfs-handover
 aliasesFor404:
 - /tfs-handover
 - /blog/tfs-handover

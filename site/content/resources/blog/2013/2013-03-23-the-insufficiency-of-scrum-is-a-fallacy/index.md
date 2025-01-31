@@ -16,6 +16,7 @@ aliases:
 - /blog/the-insufficiency-of-scrum-is-a-fallacy
 - /the-insufficiency-of-scrum-is-a-fallacy
 - /resources/n9OhtpbJs0-
+- /resources/blog/the-insufficiency-of-scrum-is-a-fallacy
 aliasesFor404:
 - /the-insufficiency-of-scrum-is-a-fallacy
 - /blog/the-insufficiency-of-scrum-is-a-fallacy

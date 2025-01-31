@@ -18,6 +18,7 @@ aliases:
 - /branch-madness-
 - /blog/branch-madness-
 - /resources/s2fykp0ti2Y
+- /resources/blog/branch-madness
 aliasesFor404:
 - /branch-madness
 - /blog/branch-madness

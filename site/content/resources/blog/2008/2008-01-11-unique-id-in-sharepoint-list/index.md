@@ -16,6 +16,7 @@ aliases:
 - /blog/unique-id-in-sharepoint-list
 - /unique-id-in-sharepoint-list
 - /resources/IydVW3AXWCp
+- /resources/blog/unique-id-in-sharepoint-list
 aliasesFor404:
 - /unique-id-in-sharepoint-list
 - /blog/unique-id-in-sharepoint-list

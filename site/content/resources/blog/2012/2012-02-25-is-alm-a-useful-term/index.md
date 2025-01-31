@@ -18,6 +18,7 @@ aliases:
 - /is-alm-a-useful-term-
 - /blog/is-alm-a-useful-term-
 - /resources/hnvOLuqmQk7
+- /resources/blog/is-alm-a-useful-term
 aliasesFor404:
 - /is-alm-a-useful-term
 - /blog/is-alm-a-useful-term

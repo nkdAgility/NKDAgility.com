@@ -16,6 +16,7 @@ aliases:
 - /blog/project-natal-available-soon
 - /project-natal-available-soon
 - /resources/DomKUWOAmyb
+- /resources/blog/project-natal-available-soon
 aliasesFor404:
 - /project-natal-available-soon
 - /blog/project-natal-available-soon

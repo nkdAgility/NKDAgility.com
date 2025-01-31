@@ -18,6 +18,7 @@ aliases:
 - /ghost-build-controllers-in-team-foundation-server
 - /blog/ghost-build-controllers-in-team-foundation-server
 - /resources/ks3BqiRqWAK
+- /resources/blog/ghost-team-foundation-build-controllers
 aliasesFor404:
 - /ghost-team-foundation-build-controllers
 - /blog/ghost-team-foundation-build-controllers

@@ -16,6 +16,7 @@ aliases:
 - /blog/integrating-project-server-2013-with-team-foundation-server-2012
 - /integrating-project-server-2013-with-team-foundation-server-2012
 - /resources/fk1Jv6RyesT
+- /resources/blog/integrating-project-server-2013-with-team-foundation-server-2012
 aliasesFor404:
 - /integrating-project-server-2013-with-team-foundation-server-2012
 - /blog/integrating-project-server-2013-with-team-foundation-server-2012

@@ -16,6 +16,7 @@ aliases:
 - /blog/installing-visual-studio-2008-beta-2-on-xp
 - /installing-visual-studio-2008-beta-2-on-xp
 - /resources/QyRk0KkQYbz
+- /resources/blog/installing-visual-studio-2008-beta-2-on-xp
 aliasesFor404:
 - /installing-visual-studio-2008-beta-2-on-xp
 - /blog/installing-visual-studio-2008-beta-2-on-xp

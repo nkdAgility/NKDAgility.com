@@ -16,6 +16,7 @@ aliases:
 - /blog/delivering-live-virtual-classes-in-microsoft-teams-and-mural
 - /delivering-live-virtual-classes-in-microsoft-teams-and-mural
 - /resources/fyJ8PxhOEZz
+- /resources/blog/delivering-live-virtual-classes-in-microsoft-teams-and-mural
 aliasesFor404:
 - /delivering-live-virtual-classes-in-microsoft-teams-and-mural
 - /blog/delivering-live-virtual-classes-in-microsoft-teams-and-mural

@@ -18,6 +18,7 @@ aliases:
 - /do-you-know-when-to-send-a-done-email-in-scrum-
 - /blog/do-you-know-when-to-send-a-done-email-in-scrum-
 - /resources/iHdkPl8gwwm
+- /resources/blog/do-you-know-when-to-send-a-done-email-in-scrum
 aliasesFor404:
 - /do-you-know-when-to-send-a-done-email-in-scrum
 - /blog/do-you-know-when-to-send-a-done-email-in-scrum

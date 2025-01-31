@@ -18,6 +18,7 @@ aliases:
 - /naked-alm--starting-with-why-and-getting-naked
 - /blog/naked-alm--starting-with-why-and-getting-naked
 - /resources/SrQHWVkcvAL
+- /resources/blog/naked-alm-starting-with-why-and-getting-naked
 aliasesFor404:
 - /naked-alm-starting-with-why-and-getting-naked
 - /blog/naked-alm-starting-with-why-and-getting-naked

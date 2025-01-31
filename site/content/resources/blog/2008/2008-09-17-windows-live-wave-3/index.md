@@ -16,6 +16,7 @@ aliases:
 - /blog/windows-live-wave-3
 - /windows-live-wave-3
 - /resources/V2MkZWsiMbX
+- /resources/blog/windows-live-wave-3
 aliasesFor404:
 - /windows-live-wave-3
 - /blog/windows-live-wave-3

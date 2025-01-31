@@ -20,6 +20,7 @@ aliases:
 - /resources/i3ovxH1TSqK
 - /microsoft--forget-about-paypal--how-about-a-mastercard-killer-
 - /blog/microsoft--forget-about-paypal--how-about-a-mastercard-killer-
+- /resources/blog/microsoft-forget-about-paypal-how-about-a-mastercard-killer
 aliasesFor404:
 - /microsoft-forget-about-paypal-how-about-a-mastercard-killer
 - /blog/microsoft-forget-about-paypal-how-about-a-mastercard-killer

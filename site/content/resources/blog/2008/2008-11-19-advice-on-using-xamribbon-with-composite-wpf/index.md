@@ -16,6 +16,7 @@ aliases:
 - /blog/advice-on-using-xamribbon-with-composite-wpf
 - /advice-on-using-xamribbon-with-composite-wpf
 - /resources/gEnb0c6i-3I
+- /resources/blog/advice-on-using-xamribbon-with-composite-wpf
 aliasesFor404:
 - /advice-on-using-xamribbon-with-composite-wpf
 - /blog/advice-on-using-xamribbon-with-composite-wpf

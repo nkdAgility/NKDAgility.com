@@ -18,6 +18,7 @@ aliases:
 - /tfs-2012-issue--some-features-of-team-web-access-are-not-visible-to-you
 - /blog/tfs-2012-issue--some-features-of-team-web-access-are-not-visible-to-you
 - /resources/bqwr6oBwO6C
+- /resources/blog/tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you
 aliasesFor404:
 - /tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you
 - /blog/tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you

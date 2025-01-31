@@ -18,6 +18,7 @@ aliases:
 - /blog/blogging-about---
 - /resources/mYU-gZ_KBo3
 - /blogging-about
+- /resources/blog/blogging-about
 aliasesFor404:
 - /blogging-about
 - /blog/blogging-about

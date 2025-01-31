@@ -18,6 +18,7 @@ aliases:
 - /there-is-no--do-agile--there-is-only--be-agile-
 - /blog/there-is-no--do-agile--there-is-only--be-agile-
 - /resources/QIFsyx_OqLG
+- /resources/blog/there-is-no-do-agile-there-is-only-be-agile
 aliasesFor404:
 - /there-is-no-do-agile-there-is-only-be-agile
 - /blog/there-is-no-do-agile-there-is-only-be-agile

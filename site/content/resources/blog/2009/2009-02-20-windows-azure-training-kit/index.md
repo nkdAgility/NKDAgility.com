@@ -16,6 +16,7 @@ aliases:
 - /blog/windows-azure-training-kit
 - /windows-azure-training-kit
 - /resources/5GEKVUBfbi2
+- /resources/blog/windows-azure-training-kit
 aliasesFor404:
 - /windows-azure-training-kit
 - /blog/windows-azure-training-kit

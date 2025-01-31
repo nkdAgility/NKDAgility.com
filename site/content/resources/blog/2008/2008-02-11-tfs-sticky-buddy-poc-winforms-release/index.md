@@ -18,6 +18,7 @@ aliases:
 - /tfs-sticky-buddy-poc-(winforms)-release
 - /blog/tfs-sticky-buddy-poc-(winforms)-release
 - /resources/FSoIFwapvMt
+- /resources/blog/tfs-sticky-buddy-poc-winforms-release
 aliasesFor404:
 - /tfs-sticky-buddy-poc-winforms-release
 - /blog/tfs-sticky-buddy-poc-winforms-release

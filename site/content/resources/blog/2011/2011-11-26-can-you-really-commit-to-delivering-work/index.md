@@ -18,6 +18,7 @@ aliases:
 - /can-you-really-commit-to-delivering-work-
 - /blog/can-you-really-commit-to-delivering-work-
 - /resources/uvzKTaweOnW
+- /resources/blog/can-you-really-commit-to-delivering-work
 aliasesFor404:
 - /can-you-really-commit-to-delivering-work
 - /blog/can-you-really-commit-to-delivering-work

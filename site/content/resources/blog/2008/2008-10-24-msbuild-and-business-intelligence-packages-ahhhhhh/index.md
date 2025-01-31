@@ -20,6 +20,7 @@ aliases:
 - /resources/lttzdaIlzel
 - /msbuild-and-business-intelligence-packages--ahhhhhh-
 - /blog/msbuild-and-business-intelligence-packages--ahhhhhh-
+- /resources/blog/msbuild-and-business-intelligence-packages-ahhhhhh
 aliasesFor404:
 - /msbuild-and-business-intelligence-packages-ahhhhhh
 - /blog/msbuild-and-business-intelligence-packages-ahhhhhh

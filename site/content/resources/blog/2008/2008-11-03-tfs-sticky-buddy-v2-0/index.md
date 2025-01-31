@@ -16,6 +16,7 @@ aliases:
 - /blog/tfs-sticky-buddy-v2-0
 - /tfs-sticky-buddy-v2-0
 - /resources/fxUFeDoOsrZ
+- /resources/blog/tfs-sticky-buddy-v2-0
 aliasesFor404:
 - /tfs-sticky-buddy-v2-0
 - /blog/tfs-sticky-buddy-v2-0

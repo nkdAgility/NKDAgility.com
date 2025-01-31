@@ -18,6 +18,7 @@ aliases:
 - /what's-new-in-visual-studio-2013-team-foundation-server-preview
 - /blog/what's-new-in-visual-studio-2013-team-foundation-server-preview
 - /resources/V5OQtr0U1IS
+- /resources/blog/get-visual-studio-2013-team-foundation-server-while-its-hot
 aliasesFor404:
 - /get-visual-studio-2013-team-foundation-server-while-its-hot
 - /blog/get-visual-studio-2013-team-foundation-server-while-its-hot

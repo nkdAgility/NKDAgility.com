@@ -18,6 +18,7 @@ aliases:
 - /configuring-jenkins-to-talk-to-tfs-2013
 - /blog/configuring-jenkins-to-talk-to-tfs-2013
 - /resources/ynMjy3Tn7hl
+- /resources/blog/configuring-jenkins-talk-tfs-2013
 aliasesFor404:
 - /configuring-jenkins-talk-tfs-2013
 - /blog/configuring-jenkins-talk-tfs-2013

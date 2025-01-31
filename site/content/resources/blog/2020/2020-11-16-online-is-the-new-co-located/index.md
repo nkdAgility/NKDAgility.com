@@ -16,6 +16,7 @@ aliases:
 - /blog/online-is-the-new-co-located
 - /online-is-the-new-co-located
 - /resources/QnZVgaG90q_
+- /resources/blog/online-is-the-new-co-located
 aliasesFor404:
 - /online-is-the-new-co-located
 - /blog/online-is-the-new-co-located

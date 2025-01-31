@@ -18,6 +18,7 @@ aliases:
 - /using-multiple-email-alias-with-your-existing-microsoft-id
 - /blog/using-multiple-email-alias-with-your-existing-microsoft-id
 - /resources/3drabM1j0WE
+- /resources/blog/using-multiple-email-alias-existing-microsoft-id
 aliasesFor404:
 - /using-multiple-email-alias-existing-microsoft-id
 - /blog/using-multiple-email-alias-existing-microsoft-id

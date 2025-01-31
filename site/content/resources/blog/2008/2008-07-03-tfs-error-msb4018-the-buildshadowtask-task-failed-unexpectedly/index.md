@@ -18,6 +18,7 @@ aliases:
 - /tfs-error--msb4018-the--buildshadowtask--task-failed-unexpectedly
 - /blog/tfs-error--msb4018-the--buildshadowtask--task-failed-unexpectedly
 - /resources/xi_wQ8zFW_U
+- /resources/blog/tfs-error-msb4018-the-buildshadowtask-task-failed-unexpectedly
 aliasesFor404:
 - /tfs-error-msb4018-the-buildshadowtask-task-failed-unexpectedly
 - /blog/tfs-error-msb4018-the-buildshadowtask-task-failed-unexpectedly

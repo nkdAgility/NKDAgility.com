@@ -16,6 +16,7 @@ aliases:
 - /blog/deployment-documentation
 - /deployment-documentation
 - /resources/154BNVcnbaU
+- /resources/blog/deployment-documentation
 aliasesFor404:
 - /deployment-documentation
 - /blog/deployment-documentation

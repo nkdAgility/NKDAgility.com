@@ -19,6 +19,7 @@ aliases:
 - /visual-studio-2010-overview---intellitrace-and-test-impact-analysis
 - /blog/visual-studio-2010-overview---intellitrace-and-test-impact-analysis
 - /resources/AzpXVrfEwZ1
+- /resources/blog/visual-studio-2010-overview-intellitrace-and-test-impact-analysis
 aliasesFor404:
 - /visual-studio-2010-overview-intellitrace-and-test-impact-analysis
 - /blog/visual-studio-2010-overview-intellitrace-and-test-impact-analysis

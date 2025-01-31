@@ -18,6 +18,7 @@ aliases:
 - /configure-a-build-vnext-agent
 - /blog/configure-a-build-vnext-agent
 - /resources/hyJFelRdglq
+- /resources/blog/configure-a-build-vnext-agent-on-vso
 aliasesFor404:
 - /configure-a-build-vnext-agent-on-vso
 - /blog/configure-a-build-vnext-agent-on-vso

@@ -18,6 +18,7 @@ aliases:
 - /tfs-event-handler--ctp-1-delayed
 - /blog/tfs-event-handler--ctp-1-delayed
 - /resources/m_vdrvzZrol
+- /resources/blog/tfs-event-handler-ctp-1-delayed
 aliasesFor404:
 - /tfs-event-handler-ctp-1-delayed
 - /blog/tfs-event-handler-ctp-1-delayed

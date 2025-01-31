@@ -16,6 +16,7 @@ aliases:
 - /blog/retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
 - /retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
 - /resources/oz3cfvmwtph
+- /resources/blog/retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
 aliasesFor404:
 - /retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
 - /blog/retrieving-an-identity-from-team-foundation-server-using-only-the-display-name

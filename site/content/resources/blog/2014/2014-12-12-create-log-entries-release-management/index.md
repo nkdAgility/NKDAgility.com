@@ -18,6 +18,7 @@ aliases:
 - /create-log-entries-in-release-management
 - /blog/create-log-entries-in-release-management
 - /resources/1jC1jE7shiY
+- /resources/blog/create-log-entries-release-management
 aliasesFor404:
 - /create-log-entries-release-management
 - /blog/create-log-entries-release-management

@@ -19,6 +19,7 @@ aliases:
 - /tfs-integration-tools---issue--unable-to-find-a-unique-local-path
 - /blog/tfs-integration-tools---issue--unable-to-find-a-unique-local-path
 - /resources/-dAwZr3zpgy
+- /resources/blog/tfs-integration-tools-issue-unable-to-find-a-unique-local-path
 aliasesFor404:
 - /tfs-integration-tools-issue-unable-to-find-a-unique-local-path
 - /blog/tfs-integration-tools-issue-unable-to-find-a-unique-local-path

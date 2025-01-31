@@ -18,6 +18,7 @@ aliases:
 - /team-server-event-handlers-made-easy---
 - /blog/team-server-event-handlers-made-easy---
 - /resources/NjGpMY3aKfH
+- /resources/blog/team-server-event-handlers-made-easy
 aliasesFor404:
 - /team-server-event-handlers-made-easy
 - /blog/team-server-event-handlers-made-easy

@@ -18,6 +18,7 @@ aliases:
 - /live-site-culture-&-site-reliability-engineering
 - /blog/live-site-culture-&-site-reliability-engineering
 - /resources/c_gS0nlQD9E
+- /resources/blog/live-site-culture-site-reliability-engineering
 aliasesFor404:
 - /live-site-culture-site-reliability-engineering
 - /blog/live-site-culture-site-reliability-engineering

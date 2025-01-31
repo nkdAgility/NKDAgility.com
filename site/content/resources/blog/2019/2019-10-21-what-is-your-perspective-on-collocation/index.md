@@ -18,6 +18,7 @@ aliases:
 - /what-is-your-perspective-on-collocation-
 - /blog/what-is-your-perspective-on-collocation-
 - /resources/AcwMGmMo7iU
+- /resources/blog/what-is-your-perspective-on-collocation
 aliasesFor404:
 - /what-is-your-perspective-on-collocation
 - /blog/what-is-your-perspective-on-collocation

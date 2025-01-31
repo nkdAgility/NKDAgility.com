@@ -19,6 +19,7 @@ aliases:
 - /southparkify---simpsonize---better-with-both-
 - /blog/southparkify---simpsonize---better-with-both-
 - /resources/PEl4lRY2qjH
+- /resources/blog/southparkify-simpsonize-better-with-both
 aliasesFor404:
 - /southparkify-simpsonize-better-with-both
 - /blog/southparkify-simpsonize-better-with-both

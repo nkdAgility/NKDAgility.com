@@ -18,6 +18,7 @@ aliases:
 - /small---new-business-websites
 - /blog/small---new-business-websites
 - /resources/w2k6P2xrp7B
+- /resources/blog/small-new-business-websites
 aliasesFor404:
 - /small-new-business-websites
 - /blog/small-new-business-websites

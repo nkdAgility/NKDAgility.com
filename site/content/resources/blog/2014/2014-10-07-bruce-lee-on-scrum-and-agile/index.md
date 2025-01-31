@@ -16,6 +16,7 @@ aliases:
 - /blog/bruce-lee-on-scrum-and-agile
 - /bruce-lee-on-scrum-and-agile
 - /resources/mDZ9tLsZEI-
+- /resources/blog/bruce-lee-on-scrum-and-agile
 aliasesFor404:
 - /bruce-lee-on-scrum-and-agile
 - /blog/bruce-lee-on-scrum-and-agile

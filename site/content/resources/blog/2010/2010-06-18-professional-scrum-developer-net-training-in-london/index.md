@@ -18,6 +18,7 @@ aliases:
 - /professional-scrum-developer-(-net)-training-in-london
 - /blog/professional-scrum-developer-(-net)-training-in-london
 - /resources/3N171wqPaTf
+- /resources/blog/professional-scrum-developer-net-training-in-london
 aliasesFor404:
 - /professional-scrum-developer-net-training-in-london
 - /blog/professional-scrum-developer-net-training-in-london

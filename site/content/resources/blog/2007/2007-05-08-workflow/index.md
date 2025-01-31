@@ -16,6 +16,7 @@ aliases:
 - /blog/workflow
 - /workflow
 - /resources/X7LXRyvtNg0
+- /resources/blog/workflow
 aliasesFor404:
 - /workflow
 - /blog/workflow

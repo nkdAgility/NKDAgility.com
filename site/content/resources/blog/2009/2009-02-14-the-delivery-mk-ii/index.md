@@ -16,6 +16,7 @@ aliases:
 - /blog/the-delivery-mk-ii
 - /the-delivery-mk-ii
 - /resources/g5GoTmk3aI4
+- /resources/blog/the-delivery-mk-ii
 aliasesFor404:
 - /the-delivery-mk-ii
 - /blog/the-delivery-mk-ii

@@ -18,6 +18,7 @@ aliases:
 - /my-journey-into-professional-scrum
 - /blog/my-journey-into-professional-scrum
 - /resources/PqEhZ1JIcDe
+- /resources/blog/journey-professional-scrum
 aliasesFor404:
 - /journey-professional-scrum
 - /blog/journey-professional-scrum

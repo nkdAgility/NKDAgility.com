@@ -16,6 +16,7 @@ aliases:
 - /blog/when-should-i-use-areas-in-tfs-instead-of-team-projects-in-team-foundation-server-2010
 - /when-should-i-use-areas-in-tfs-instead-of-team-projects-in-team-foundation-server-2010
 - /resources/vrUQdaxyOTf
+- /resources/blog/when-should-i-use-areas-in-tfs-instead-of-team-projects-in-team-foundation-server-2010
 aliasesFor404:
 - /when-should-i-use-areas-in-tfs-instead-of-team-projects-in-team-foundation-server-2010
 - /blog/when-should-i-use-areas-in-tfs-instead-of-team-projects-in-team-foundation-server-2010

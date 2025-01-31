@@ -19,6 +19,7 @@ aliases:
 - /the-7-deadly-sins-of-agile--a-grecian-odyssey-through-modern-software-development
 - /blog/the-7-deadly-sins-of-agile--a-grecian-odyssey-through-modern-software-development
 - /resources/DgJV3wMMjWr
+- /resources/blog/the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
 aliasesFor404:
 - /the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
 - /blog/the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development

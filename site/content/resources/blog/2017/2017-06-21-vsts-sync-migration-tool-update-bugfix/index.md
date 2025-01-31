@@ -18,6 +18,7 @@ aliases:
 - /vsts-sync-migration-tool-update-and-bugfix
 - /blog/vsts-sync-migration-tool-update-and-bugfix
 - /resources/QO9MQIxxcoy
+- /resources/blog/vsts-sync-migration-tool-update-bugfix
 aliasesFor404:
 - /vsts-sync-migration-tool-update-bugfix
 - /blog/vsts-sync-migration-tool-update-bugfix

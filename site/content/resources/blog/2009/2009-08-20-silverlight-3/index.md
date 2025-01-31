@@ -16,6 +16,7 @@ aliases:
 - /blog/silverlight-3
 - /silverlight-3
 - /resources/RkVikquup-u
+- /resources/blog/silverlight-3
 aliasesFor404:
 - /silverlight-3
 - /blog/silverlight-3

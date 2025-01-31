@@ -16,6 +16,7 @@ aliases:
 - /blog/what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
 - /what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
 - /resources/XOt3b4gzyH8
+- /resources/blog/what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
 aliasesFor404:
 - /what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
 - /blog/what-do-you-do-with-a-work-item-history-not-found-conflict-type-details

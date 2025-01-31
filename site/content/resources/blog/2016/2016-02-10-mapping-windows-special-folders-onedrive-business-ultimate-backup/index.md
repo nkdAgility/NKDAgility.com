@@ -19,6 +19,7 @@ aliases:
 - /mapping-your-windows-special-folders-to-onedrive-for-business---ultimate-backup
 - /blog/mapping-your-windows-special-folders-to-onedrive-for-business---ultimate-backup
 - /resources/mKq16PgA7Ks
+- /resources/blog/mapping-windows-special-folders-onedrive-business-ultimate-backup
 aliasesFor404:
 - /mapping-windows-special-folders-onedrive-business-ultimate-backup
 - /blog/mapping-windows-special-folders-onedrive-business-ultimate-backup

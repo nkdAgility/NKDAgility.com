@@ -16,6 +16,7 @@ aliases:
 - /blog/dyslexia-awareness-week
 - /dyslexia-awareness-week
 - /resources/mj1JwJ9LpG8
+- /resources/blog/dyslexia-awareness-week
 aliasesFor404:
 - /dyslexia-awareness-week
 - /blog/dyslexia-awareness-week

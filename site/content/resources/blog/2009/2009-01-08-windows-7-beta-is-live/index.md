@@ -18,6 +18,7 @@ aliases:
 - /windows-7-beta-is-live-
 - /blog/windows-7-beta-is-live-
 - /resources/KpwfCU1oWjz
+- /resources/blog/windows-7-beta-is-live
 aliasesFor404:
 - /windows-7-beta-is-live
 - /blog/windows-7-beta-is-live

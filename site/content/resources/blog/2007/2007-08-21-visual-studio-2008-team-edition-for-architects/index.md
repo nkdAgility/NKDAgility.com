@@ -16,6 +16,7 @@ aliases:
 - /blog/visual-studio-2008-team-edition-for-architects
 - /visual-studio-2008-team-edition-for-architects
 - /resources/wPAkb39sRlH
+- /resources/blog/visual-studio-2008-team-edition-for-architects
 aliasesFor404:
 - /visual-studio-2008-team-edition-for-architects
 - /blog/visual-studio-2008-team-edition-for-architects

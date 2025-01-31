@@ -16,6 +16,7 @@ aliases:
 - /blog/flashing-your-windows-phone-6-for-dummies
 - /flashing-your-windows-phone-6-for-dummies
 - /resources/1tC2VKI3OMf
+- /resources/blog/flashing-your-windows-phone-6-for-dummies
 aliasesFor404:
 - /flashing-your-windows-phone-6-for-dummies
 - /blog/flashing-your-windows-phone-6-for-dummies

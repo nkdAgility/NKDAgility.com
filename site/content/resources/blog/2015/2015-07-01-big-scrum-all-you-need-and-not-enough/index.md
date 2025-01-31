@@ -18,6 +18,7 @@ aliases:
 - /big-scrum--all-you-need-and-not-enough
 - /blog/big-scrum--all-you-need-and-not-enough
 - /resources/yCJ5ERuJHUU
+- /resources/blog/big-scrum-all-you-need-and-not-enough
 aliasesFor404:
 - /big-scrum-all-you-need-and-not-enough
 - /blog/big-scrum-all-you-need-and-not-enough

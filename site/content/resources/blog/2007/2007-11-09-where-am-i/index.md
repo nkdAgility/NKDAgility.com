@@ -18,6 +18,7 @@ aliases:
 - /where-am-i-
 - /blog/where-am-i-
 - /resources/LIBAeHbeyk9
+- /resources/blog/where-am-i
 aliasesFor404:
 - /where-am-i
 - /blog/where-am-i

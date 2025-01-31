@@ -18,6 +18,7 @@ aliases:
 - /professional-application-lifecycle-management-with-visual-studio-2013
 - /blog/professional-application-lifecycle-management-with-visual-studio-2013
 - /resources/xeEpDhzecta
+- /resources/blog/professional-application-lifecycle-management-visual-studio-2013
 aliasesFor404:
 - /professional-application-lifecycle-management-visual-studio-2013
 - /blog/professional-application-lifecycle-management-visual-studio-2013

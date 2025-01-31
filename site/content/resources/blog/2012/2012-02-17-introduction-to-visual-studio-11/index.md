@@ -16,6 +16,7 @@ aliases:
 - /blog/introduction-to-visual-studio-11
 - /introduction-to-visual-studio-11
 - /resources/jo0zeQr1paY
+- /resources/blog/introduction-to-visual-studio-11
 aliasesFor404:
 - /introduction-to-visual-studio-11
 - /blog/introduction-to-visual-studio-11

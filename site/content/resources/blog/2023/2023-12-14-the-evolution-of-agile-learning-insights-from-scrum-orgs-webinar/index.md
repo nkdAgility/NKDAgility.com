@@ -19,6 +19,7 @@ aliases:
 - /the-evolution-of-agile-learning--insights-from-scrum-org's-webinar
 - /blog/the-evolution-of-agile-learning--insights-from-scrum-org's-webinar
 - /resources/Ax5c4JFICyO
+- /resources/blog/the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
 aliasesFor404:
 - /the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
 - /blog/the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar

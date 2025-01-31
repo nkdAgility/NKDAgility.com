@@ -16,6 +16,7 @@ aliases:
 - /blog/custom-wcf-proxy
 - /custom-wcf-proxy
 - /resources/hfv2zp8Q-i4
+- /resources/blog/custom-wcf-proxy
 aliasesFor404:
 - /custom-wcf-proxy
 - /blog/custom-wcf-proxy

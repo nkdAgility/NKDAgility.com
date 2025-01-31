@@ -16,6 +16,7 @@ aliases:
 - /blog/creating-a-managed-service-factory
 - /creating-a-managed-service-factory
 - /resources/dfhN35mUMDl
+- /resources/blog/creating-a-managed-service-factory
 aliasesFor404:
 - /creating-a-managed-service-factory
 - /blog/creating-a-managed-service-factory

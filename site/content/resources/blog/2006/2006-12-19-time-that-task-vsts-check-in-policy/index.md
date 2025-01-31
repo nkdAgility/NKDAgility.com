@@ -16,6 +16,7 @@ aliases:
 - /blog/time-that-task-vsts-check-in-policy
 - /time-that-task-vsts-check-in-policy
 - /resources/3-mqIx3Xkgv
+- /resources/blog/time-that-task-vsts-check-in-policy
 aliasesFor404:
 - /time-that-task-vsts-check-in-policy
 - /blog/time-that-task-vsts-check-in-policy

@@ -18,6 +18,7 @@ aliases:
 - /tfs-2012-issue--tf215097-an-error-occurred-while-initializing-a-build-for-build-definition
 - /blog/tfs-2012-issue--tf215097-an-error-occurred-while-initializing-a-build-for-build-definition
 - /resources/Esy-i2Fcamk
+- /resources/blog/tfs-2012-issue-tf215097-an-error-occurred-while-initializing-a-build-for-build-definition
 aliasesFor404:
 - /tfs-2012-issue-tf215097-an-error-occurred-while-initializing-a-build-for-build-definition
 - /blog/tfs-2012-issue-tf215097-an-error-occurred-while-initializing-a-build-for-build-definition

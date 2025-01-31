@@ -18,6 +18,7 @@ aliases:
 - /introducing-kanban-for-professional-scrum-teams
 - /blog/introducing-kanban-for-professional-scrum-teams
 - /resources/CucU7DN-fJ7
+- /resources/blog/introducing-kanban-professional-scrum-teams
 aliasesFor404:
 - /introducing-kanban-professional-scrum-teams
 - /blog/introducing-kanban-professional-scrum-teams

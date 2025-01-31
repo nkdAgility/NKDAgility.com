@@ -18,6 +18,7 @@ aliases:
 - /tfs-gotcha-(sp1)
 - /blog/tfs-gotcha-(sp1)
 - /resources/ZlJuM9fduW9
+- /resources/blog/tfs-gotcha-sp1
 aliasesFor404:
 - /tfs-gotcha-sp1
 - /blog/tfs-gotcha-sp1

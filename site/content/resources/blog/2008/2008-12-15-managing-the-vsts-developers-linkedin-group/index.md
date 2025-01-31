@@ -18,6 +18,7 @@ aliases:
 - /managing-the-“vsts-developers”-linkedin-group-
 - /blog/managing-the-“vsts-developers”-linkedin-group-
 - /resources/FNNPsRLDXlu
+- /resources/blog/managing-the-vsts-developers-linkedin-group
 aliasesFor404:
 - /managing-the-vsts-developers-linkedin-group
 - /blog/managing-the-vsts-developers-linkedin-group

@@ -18,6 +18,7 @@ aliases:
 - /tfs-event-handler-in--net-3-5-part-1---the-architecture
 - /blog/tfs-event-handler-in--net-3-5-part-1---the-architecture
 - /resources/LZnn3eQy53a
+- /resources/blog/tfs-event-handler-in-net-3-5-part-1-the-architecture
 aliasesFor404:
 - /tfs-event-handler-in-net-3-5-part-1-the-architecture
 - /blog/tfs-event-handler-in-net-3-5-part-1-the-architecture

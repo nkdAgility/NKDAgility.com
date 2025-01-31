@@ -18,6 +18,7 @@ aliases:
 - /the-value-of-an-independent-scotland-for-me
 - /blog/the-value-of-an-independent-scotland-for-me
 - /resources/kmgdXtKVzGS
+- /resources/blog/the-value-of-an-independent-scotland
 aliasesFor404:
 - /the-value-of-an-independent-scotland
 - /blog/the-value-of-an-independent-scotland

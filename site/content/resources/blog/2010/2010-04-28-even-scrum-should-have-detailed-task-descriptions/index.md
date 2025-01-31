@@ -16,6 +16,7 @@ aliases:
 - /blog/even-scrum-should-have-detailed-task-descriptions
 - /even-scrum-should-have-detailed-task-descriptions
 - /resources/7J9zEPmBq-C
+- /resources/blog/even-scrum-should-have-detailed-task-descriptions
 aliasesFor404:
 - /even-scrum-should-have-detailed-task-descriptions
 - /blog/even-scrum-should-have-detailed-task-descriptions

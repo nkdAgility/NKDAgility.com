@@ -16,6 +16,7 @@ aliases:
 - /blog/advanced-email-content
 - /advanced-email-content
 - /resources/h1xQYYoWfnY
+- /resources/blog/advanced-email-content
 aliasesFor404:
 - /advanced-email-content
 - /blog/advanced-email-content

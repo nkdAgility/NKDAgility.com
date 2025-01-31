@@ -16,6 +16,7 @@ aliases:
 - /blog/connecting-vs2008-to-any-tfs2010-project-collection
 - /connecting-vs2008-to-any-tfs2010-project-collection
 - /resources/f6DE_mA4Fk1
+- /resources/blog/connecting-vs2008-to-any-tfs2010-project-collection
 aliasesFor404:
 - /connecting-vs2008-to-any-tfs2010-project-collection
 - /blog/connecting-vs2008-to-any-tfs2010-project-collection

@@ -18,6 +18,7 @@ aliases:
 - /microsoft's-internal-uptake-of-team-foundation-server
 - /blog/microsoft's-internal-uptake-of-team-foundation-server
 - /resources/1NIc24-e5FY
+- /resources/blog/microsofts-internal-uptake-of-team-foundation-server
 aliasesFor404:
 - /microsofts-internal-uptake-of-team-foundation-server
 - /blog/microsofts-internal-uptake-of-team-foundation-server

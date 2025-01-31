@@ -16,6 +16,7 @@ aliases:
 - /blog/team-build-error
 - /team-build-error
 - /resources/hLCFRDIvAXj
+- /resources/blog/team-build-error
 aliasesFor404:
 - /team-build-error
 - /blog/team-build-error

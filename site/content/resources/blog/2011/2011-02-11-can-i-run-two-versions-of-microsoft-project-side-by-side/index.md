@@ -18,6 +18,7 @@ aliases:
 - /can-i-run-two-versions-of-microsoft-project-side-by-side-
 - /blog/can-i-run-two-versions-of-microsoft-project-side-by-side-
 - /resources/BPWVrzpIhxt
+- /resources/blog/can-i-run-two-versions-of-microsoft-project-side-by-side
 aliasesFor404:
 - /can-i-run-two-versions-of-microsoft-project-side-by-side
 - /blog/can-i-run-two-versions-of-microsoft-project-side-by-side

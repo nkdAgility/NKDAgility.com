@@ -16,6 +16,7 @@ aliases:
 - /blog/constructing-a-framework-for-the-tfs-automation-platform
 - /constructing-a-framework-for-the-tfs-automation-platform
 - /resources/w6AaB_5-1gr
+- /resources/blog/constructing-a-framework-for-the-tfs-automation-platform
 aliasesFor404:
 - /constructing-a-framework-for-the-tfs-automation-platform
 - /blog/constructing-a-framework-for-the-tfs-automation-platform

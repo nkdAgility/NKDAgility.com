@@ -18,6 +18,7 @@ aliases:
 - /do-you-want-to-be-an-alm-consultant-
 - /blog/do-you-want-to-be-an-alm-consultant-
 - /resources/VWFF90m9BYG
+- /resources/blog/do-you-want-to-be-an-alm-consultant
 aliasesFor404:
 - /do-you-want-to-be-an-alm-consultant
 - /blog/do-you-want-to-be-an-alm-consultant

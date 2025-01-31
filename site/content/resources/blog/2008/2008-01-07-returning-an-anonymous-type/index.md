@@ -18,6 +18,7 @@ aliases:
 - /blog/returning-an-anonymous-type---
 - /resources/ZD6hMyXVz9s
 - /returning-an-anonymous-type
+- /resources/blog/returning-an-anonymous-type
 aliasesFor404:
 - /returning-an-anonymous-type
 - /blog/returning-an-anonymous-type

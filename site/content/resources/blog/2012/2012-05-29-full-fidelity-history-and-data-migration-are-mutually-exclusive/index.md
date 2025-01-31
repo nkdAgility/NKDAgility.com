@@ -16,6 +16,7 @@ aliases:
 - /blog/full-fidelity-history-and-data-migration-are-mutually-exclusive
 - /full-fidelity-history-and-data-migration-are-mutually-exclusive
 - /resources/V6qWqBrh4kv
+- /resources/blog/full-fidelity-history-and-data-migration-are-mutually-exclusive
 aliasesFor404:
 - /full-fidelity-history-and-data-migration-are-mutually-exclusive
 - /blog/full-fidelity-history-and-data-migration-are-mutually-exclusive

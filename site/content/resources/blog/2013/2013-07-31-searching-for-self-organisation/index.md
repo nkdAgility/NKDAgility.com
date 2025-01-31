@@ -16,6 +16,7 @@ aliases:
 - /blog/searching-for-self-organisation
 - /searching-for-self-organisation
 - /resources/EjoEHTWiJtf
+- /resources/blog/searching-for-self-organisation
 aliasesFor404:
 - /searching-for-self-organisation
 - /blog/searching-for-self-organisation

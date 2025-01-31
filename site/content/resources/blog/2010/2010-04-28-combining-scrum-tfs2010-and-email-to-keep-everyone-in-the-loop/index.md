@@ -20,6 +20,7 @@ aliases:
 - /resources/aU3PspgaeEN
 - /combining-scrum--tfs2010-and-email-to-keep-everyone-in-the-loop
 - /blog/combining-scrum--tfs2010-and-email-to-keep-everyone-in-the-loop
+- /resources/blog/combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop
 aliasesFor404:
 - /combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop
 - /blog/combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop

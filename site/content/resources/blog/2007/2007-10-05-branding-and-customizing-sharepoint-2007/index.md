@@ -16,6 +16,7 @@ aliases:
 - /blog/branding-and-customizing-sharepoint-2007
 - /branding-and-customizing-sharepoint-2007
 - /resources/1j-4XNo1AAo
+- /resources/blog/branding-and-customizing-sharepoint-2007
 aliasesFor404:
 - /branding-and-customizing-sharepoint-2007
 - /blog/branding-and-customizing-sharepoint-2007

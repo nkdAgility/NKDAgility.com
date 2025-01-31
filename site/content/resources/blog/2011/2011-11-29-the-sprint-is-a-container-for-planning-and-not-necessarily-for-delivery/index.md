@@ -16,6 +16,7 @@ aliases:
 - /blog/the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
 - /the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
 - /resources/6USQKO75YgH
+- /resources/blog/the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
 aliasesFor404:
 - /the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
 - /blog/the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery

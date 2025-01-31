@@ -16,6 +16,7 @@ aliases:
 - /blog/configuring-visual-studio-2010-team-foundation-server-on-vista-in-12-minutes
 - /configuring-visual-studio-2010-team-foundation-server-on-vista-in-12-minutes
 - /resources/4Rw-WfXaIBU
+- /resources/blog/configuring-visual-studio-2010-team-foundation-server-on-vista-in-12-minutes
 aliasesFor404:
 - /configuring-visual-studio-2010-team-foundation-server-on-vista-in-12-minutes
 - /blog/configuring-visual-studio-2010-team-foundation-server-on-vista-in-12-minutes

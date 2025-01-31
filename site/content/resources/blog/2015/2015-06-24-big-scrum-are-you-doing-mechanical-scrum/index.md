@@ -18,6 +18,7 @@ aliases:
 - /big-scrum--are-you-doing-mechanical-scrum
 - /blog/big-scrum--are-you-doing-mechanical-scrum
 - /resources/8wFtoutYII0
+- /resources/blog/big-scrum-are-you-doing-mechanical-scrum
 aliasesFor404:
 - /big-scrum-are-you-doing-mechanical-scrum
 - /blog/big-scrum-are-you-doing-mechanical-scrum

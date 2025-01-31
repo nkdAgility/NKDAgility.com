@@ -18,6 +18,7 @@ aliases:
 - /tfs-sticky-buddy-poc-(wpf)-release
 - /blog/tfs-sticky-buddy-poc-(wpf)-release
 - /resources/y9N2dVYGwK3
+- /resources/blog/tfs-sticky-buddy-poc-wpf-release
 aliasesFor404:
 - /tfs-sticky-buddy-poc-wpf-release
 - /blog/tfs-sticky-buddy-poc-wpf-release

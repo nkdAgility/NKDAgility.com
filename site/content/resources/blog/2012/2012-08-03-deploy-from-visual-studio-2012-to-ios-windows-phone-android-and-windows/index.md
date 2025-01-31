@@ -20,6 +20,7 @@ aliases:
 - /resources/n5gPXqsSzYn
 - /deploy-from-visual-studio-2012-to-ios--windows-phone--android-and-windows
 - /blog/deploy-from-visual-studio-2012-to-ios--windows-phone--android-and-windows
+- /resources/blog/deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows
 aliasesFor404:
 - /deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows
 - /blog/deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows

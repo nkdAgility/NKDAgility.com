@@ -20,6 +20,7 @@ aliases:
 - /blog/blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
 - /blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
 - /resources/7JJaRr4g-KA
+- /resources/blog/blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
 aliasesFor404:
 - /blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
 - /blog/blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness

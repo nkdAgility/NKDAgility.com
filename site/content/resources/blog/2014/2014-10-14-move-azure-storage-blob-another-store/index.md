@@ -18,6 +18,7 @@ aliases:
 - /move-an-azure-storage-blob-to-another-store
 - /blog/move-an-azure-storage-blob-to-another-store
 - /resources/b5bHXT2rLoN
+- /resources/blog/move-azure-storage-blob-another-store
 aliasesFor404:
 - /move-azure-storage-blob-another-store
 - /blog/move-azure-storage-blob-another-store

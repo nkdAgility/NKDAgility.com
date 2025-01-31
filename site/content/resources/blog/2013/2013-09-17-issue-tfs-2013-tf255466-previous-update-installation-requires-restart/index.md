@@ -18,6 +18,7 @@ aliases:
 - /issue-[-tfs-2013-]-tf255466-a-previous-update-or-installation-requires-a-restart
 - /blog/issue-[-tfs-2013-]-tf255466-a-previous-update-or-installation-requires-a-restart
 - /resources/Crf5MJ60PGe
+- /resources/blog/issue-tfs-2013-tf255466-previous-update-installation-requires-restart
 aliasesFor404:
 - /issue-tfs-2013-tf255466-previous-update-installation-requires-restart
 - /blog/issue-tfs-2013-tf255466-previous-update-installation-requires-restart

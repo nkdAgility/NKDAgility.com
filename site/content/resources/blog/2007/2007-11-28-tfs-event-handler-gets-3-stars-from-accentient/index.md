@@ -16,6 +16,7 @@ aliases:
 - /blog/tfs-event-handler-gets-3-stars-from-accentient
 - /tfs-event-handler-gets-3-stars-from-accentient
 - /resources/CfR2sFbofzG
+- /resources/blog/tfs-event-handler-gets-3-stars-from-accentient
 aliasesFor404:
 - /tfs-event-handler-gets-3-stars-from-accentient
 - /blog/tfs-event-handler-gets-3-stars-from-accentient

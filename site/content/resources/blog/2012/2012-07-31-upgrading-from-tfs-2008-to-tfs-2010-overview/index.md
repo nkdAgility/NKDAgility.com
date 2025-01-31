@@ -16,6 +16,7 @@ aliases:
 - /blog/upgrading-from-tfs-2008-to-tfs-2010-overview
 - /upgrading-from-tfs-2008-to-tfs-2010-overview
 - /resources/sN8_s0-PGBm
+- /resources/blog/upgrading-from-tfs-2008-to-tfs-2010-overview
 aliasesFor404:
 - /upgrading-from-tfs-2008-to-tfs-2010-overview
 - /blog/upgrading-from-tfs-2008-to-tfs-2010-overview

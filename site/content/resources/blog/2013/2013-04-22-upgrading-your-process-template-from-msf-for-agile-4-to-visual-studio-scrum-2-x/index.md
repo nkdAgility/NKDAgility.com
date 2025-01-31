@@ -16,6 +16,7 @@ aliases:
 - /blog/upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2-x
 - /upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2-x
 - /resources/tT1kPVxzv3D
+- /resources/blog/upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2-x
 aliasesFor404:
 - /upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2-x
 - /blog/upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2-x

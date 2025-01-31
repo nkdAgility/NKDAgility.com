@@ -16,6 +16,7 @@ aliases:
 - /blog/scrum-is-hard-to-adopt-and-disruptive-to-your-organisation
 - /scrum-is-hard-to-adopt-and-disruptive-to-your-organisation
 - /resources/TRgmAScsBJs
+- /resources/blog/scrum-is-hard-to-adopt-and-disruptive-to-your-organisation
 aliasesFor404:
 - /scrum-is-hard-to-adopt-and-disruptive-to-your-organisation
 - /blog/scrum-is-hard-to-adopt-and-disruptive-to-your-organisation
