@@ -109,7 +109,7 @@ function Update-StringList {
         [string]$addBefore = $null
     )
 
-    # Ensure the input values are unique
+    # Ensure the input values are unique and always an array
     $values = @($values | Select-Object -Unique)
 
     if (-not $frontMatter.Contains($fieldName)) {
@@ -136,6 +136,7 @@ function Update-StringList {
         if (-not ($frontMatter[$fieldName] -is [System.Collections.IEnumerable] -and $frontMatter[$fieldName] -isnot [string])) {
             $frontMatter[$fieldName] = @($frontMatter[$fieldName])
         }
+        
         # Update list if it already exists, adding only unique values
         $existingValues = $frontMatter[$fieldName]
         $newValues = $values | Where-Object { -not ($existingValues -icontains $_) }
@@ -147,8 +148,13 @@ function Update-StringList {
             Write-Host "$fieldName already contains all values"
         }
     }
+    
+    $frontMatter[$fieldName] = @($frontMatter[$fieldName] | Select-Object -Unique)
 
-    $frontMatter[$fieldName] = $frontMatter[$fieldName] | Select-Object -Unique
+    # Ensure the field remains an array even if it has only one value
+    if ($frontMatter[$fieldName] -isnot [array]) {
+        $frontMatter[$fieldName] = @($frontMatter[$fieldName])
+    }
     
     # Check for duplicates in the updated array
     $duplicates = $frontMatter[$fieldName] | Group-Object | Where-Object { $_.Count -gt 1 }
