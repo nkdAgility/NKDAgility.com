@@ -9,28 +9,28 @@ layout: blog
 resourceTypes: blog
 slug: engaging-with-complexity-sharepoint-edition
 aliases:
-  - /blog/engaging-with-complexity-sharepoint-edition
-  - /engaging-with-complexity-sharepoint-edition
-  - /engaging-with-complexity
-  - /engaging-with-complexity---sharepoint-edition
-  - /blog/engaging-with-complexity---sharepoint-edition
-  - /resources/Lzmlul_Elhj
+- /blog/engaging-with-complexity-sharepoint-edition
+- /engaging-with-complexity-sharepoint-edition
+- /engaging-with-complexity
+- /engaging-with-complexity---sharepoint-edition
+- /blog/engaging-with-complexity---sharepoint-edition
+- /resources/Lzmlul_Elhj
 tags:
-  - advfirewall
-  - code
-  - configuration
-  - mount-spcontentdatabase
-  - move-spuser
-  - netsh
-  - sharepoint
-  - sharepoint-2013
-  - tools
+- advfirewall
+- code
+- configuration
+- mount-spcontentdatabase
+- move-spuser
+- netsh
+- sharepoint
+- sharepoint-2013
+- tools
 categories:
-  - install-and-configuration
-  - tools-and-techniques
+- install-and-configuration
+- tools-and-techniques
 preview: metro-sharepoint-128-link-2-2.png
----
 
+---
 I have been working with a company in Silicon Valley that is doing one of the most complex Team Foundation Server migrations that I think I have ever seen. Just to pile on the complexity they also threw a SharePoint consolidation at me so I caught that as well.
 
 As with the previous TFS Edition we are moving SharePoint data through multiple environments and in the case of SharePoint we are only worried about consolidation. There are many SharePoint sites used by this organisation that are strung around the corporate network and we first need to consolidate them onto a single server so that we can easily migrate them to SharePoint 2013.

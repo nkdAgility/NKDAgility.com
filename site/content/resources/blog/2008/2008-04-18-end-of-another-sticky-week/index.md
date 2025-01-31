@@ -9,19 +9,20 @@ layout: blog
 resourceTypes: blog
 slug: end-of-another-sticky-week
 aliases:
-  - /blog/end-of-another-sticky-week
-  - /end-of-another-sticky-week---
-  - /blog/end-of-another-sticky-week---
-  - /resources/hIIqffRyh3i
+- /blog/end-of-another-sticky-week
+- /end-of-another-sticky-week---
+- /blog/end-of-another-sticky-week---
+- /resources/hIIqffRyh3i
+- /end-of-another-sticky-week
 tags:
-  - tfs-sticky-buddy
-  - wit
-  - wpf
+- tfs-sticky-buddy
+- wit
+- wpf
 categories:
-  - me
+- me
 preview: nakedalm-logo-128-link-3-3.png
----
 
+---
 As you have probably noticed I have been soldiering on with the [TFS Sticky Buddy](http://www.codeplex.com/TFSStickyBuddy) project, and I though I would share.
 
 [![image](images/EndofanotherStickyweek_F60A-image_thumb-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-EndofanotherStickyweek_F60A-image_2.png)

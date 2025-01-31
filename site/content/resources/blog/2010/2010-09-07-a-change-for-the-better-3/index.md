@@ -1,5 +1,5 @@
 ---
-title: "A change for the better #3 - SSW to Northwest Cadence"
+title: 'A change for the better #3 - SSW to Northwest Cadence'
 description: Join Martin Hinshelwood as he shares his journey from SSW to Northwest Cadence, highlighting key lessons in Agile, Scrum, and ALM. Discover his insights!
 ResourceId: a_PdCAmRAp9
 date: 2010-09-07
@@ -9,26 +9,26 @@ layout: blog
 resourceTypes: blog
 slug: a-change-for-the-better-3
 aliases:
-  - /blog/a-change-for-the-better-3
-  - /a-change-for-the-better-3
-  - /a-change-for-the-better--3---ssw-to-northwest-cadence
-  - /blog/a-change-for-the-better--3---ssw-to-northwest-cadence
-  - /resources/a_PdCAmRAp9
+- /blog/a-change-for-the-better-3
+- /a-change-for-the-better-3
+- /a-change-for-the-better--3---ssw-to-northwest-cadence
+- /blog/a-change-for-the-better--3---ssw-to-northwest-cadence
+- /resources/a_PdCAmRAp9
 tags:
-  - agile
-  - change
-  - change-for-the-better
-  - jobs
-  - nwcadence
-  - scrum
-  - ssw
-  - tfs
-  - tfs2010
+- agile
+- change
+- change-for-the-better
+- jobs
+- nwcadence
+- scrum
+- ssw
+- tfs
+- tfs2010
 categories:
-  - me
+- me
 preview: metro-nwc-128-link-2-2.png
----
 
+---
 Over the last 11 months, I have worked for a fantastic group of people at SSW and on a fantastic array of projects. However, the time has now come to specialise in one specific area. I have worked with Visual Studio ALM since its launch in 2005 and more recently with Scrum and the Professional Scrum Developer course that launched in April. Therefore, to this end I am leaving my job as a Solution Architect at [SSW](http://ssw.com.au) for an ALM Consultant role at [Northwest Cadence](http://nwcadence.com).   
  As you may or may not know, my last day at SSW is Friday 10th September and I want to express my thanks to Adam, Anastasia and the rest of the guys for making me welcome, even with the disability of being Scottish.
 

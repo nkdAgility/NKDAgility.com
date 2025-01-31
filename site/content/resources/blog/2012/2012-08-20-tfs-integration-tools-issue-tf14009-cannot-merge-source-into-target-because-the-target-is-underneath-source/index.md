@@ -1,5 +1,5 @@
 ---
-title: "TFS Integration Tools - Issue: TF14009: Cannot merge source into target because the target is underneath source"
+title: 'TFS Integration Tools - Issue: TF14009: Cannot merge source into target because the target is underneath source'
 description: Discover solutions for the TF14009 error in TFS integration. Learn effective workarounds to ensure smooth source code migration between projects.
 ResourceId: pwygxmIIHOc
 date: 2012-08-20
@@ -9,23 +9,23 @@ layout: blog
 resourceTypes: blog
 slug: tfs-integration-tools-issue-tf14009-cannot-merge-source-into-target-because-the-target-is-underneath-source
 aliases:
-  - /blog/tfs-integration-tools-issue-tf14009-cannot-merge-source-into-target-because-the-target-is-underneath-source
-  - /tfs-integration-tools-issue-tf14009-cannot-merge-source-into-target-because-the-target-is-underneath-source
-  - /tfs-integration-tools
-  - /tfs-integration-tools---issue--tf14009--cannot-merge-source-into-target-because-the-target-is-underneath-source
-  - /blog/tfs-integration-tools---issue--tf14009--cannot-merge-source-into-target-because-the-target-is-underneath-source
-  - /resources/pwygxmIIHOc
+- /blog/tfs-integration-tools-issue-tf14009-cannot-merge-source-into-target-because-the-target-is-underneath-source
+- /tfs-integration-tools-issue-tf14009-cannot-merge-source-into-target-because-the-target-is-underneath-source
+- /tfs-integration-tools
+- /tfs-integration-tools---issue--tf14009--cannot-merge-source-into-target-because-the-target-is-underneath-source
+- /blog/tfs-integration-tools---issue--tf14009--cannot-merge-source-into-target-because-the-target-is-underneath-source
+- /resources/pwygxmIIHOc
 tags:
-  - puzzles
-  - tf14009
-  - tfs
-  - tfs2012
-  - tfs-integration-platform
+- puzzles
+- tf14009
+- tfs
+- tfs2012
+- tfs-integration-platform
 categories:
-  - problems-and-puzzles
+- problems-and-puzzles
 preview: metro-problem-icon-5-5.png
----
 
+---
 If you are moving source from one team project to another (I am doing a migration of Source Code from “TeamProjectA” to “TeamProjectBTeamProjectA” in the same collection) you can get a TF14009 if there is a bad check-in in TFS from a previous version. In this case  a folder was branched from itself into a sub folder.
 
 [![image](images/image_thumb56-1-1.png "image")](http://blog.hinshelwood.com/files/2012/08/image56.png)  

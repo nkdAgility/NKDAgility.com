@@ -9,24 +9,24 @@ layout: blog
 resourceTypes: blog
 slug: visual-studio-2010-overview-microsoft-test-manager
 aliases:
-  - /blog/visual-studio-2010-overview-microsoft-test-manager
-  - /visual-studio-2010-overview-microsoft-test-manager
-  - /visual-studio-2010-overview
-  - /visual-studio-2010-overview---microsoft-test-manager
-  - /blog/visual-studio-2010-overview---microsoft-test-manager
-  - /resources/6a-Qtjtf94G
+- /blog/visual-studio-2010-overview-microsoft-test-manager
+- /visual-studio-2010-overview-microsoft-test-manager
+- /visual-studio-2010-overview
+- /visual-studio-2010-overview---microsoft-test-manager
+- /blog/visual-studio-2010-overview---microsoft-test-manager
+- /resources/6a-Qtjtf94G
 tags:
-  - modern-alm
-  - nwcadence
-  - tfs
-  - tfs2010
-  - tools
-  - visual-studio
-  - vs2010
-  - webcast-2
+- modern-alm
+- nwcadence
+- tfs
+- tfs2010
+- tools
+- visual-studio
+- vs2010
+- webcast-2
 preview: metro-visual-studio-2010-128-link-1-1.png
----
 
+---
 Microsoft Test Manager (MTM), AKA Test Professional, is a new testing system that team can use to create manual and Automation test quickly. The real advantage and strength of MTM is the integration with TFS and Visual Studio 2010 and how it can leverage the ALM tools and practices. In the demo, we show:
 
 1. Explain the architecture of MTM

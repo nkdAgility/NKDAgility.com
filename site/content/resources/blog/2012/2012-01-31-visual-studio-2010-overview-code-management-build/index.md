@@ -9,14 +9,14 @@ layout: blog
 resourceTypes: blog
 slug: visual-studio-2010-overview-code-management-build
 aliases:
-  - /blog/visual-studio-2010-overview-code-management-build
-  - /visual-studio-2010-overview-code-management-build
-  - /visual-studio-2010-overview
-  - /visual-studio-2010-overview---code-management-and-build
-  - /blog/visual-studio-2010-overview---code-management-and-build
-  - /resources/1hC0IZyRA0c
----
+- /blog/visual-studio-2010-overview-code-management-build
+- /visual-studio-2010-overview-code-management-build
+- /visual-studio-2010-overview
+- /visual-studio-2010-overview---code-management-and-build
+- /blog/visual-studio-2010-overview---code-management-and-build
+- /resources/1hC0IZyRA0c
 
+---
 code-management-and-build
 
 - /blog/visual-studio-2010-overview---code-management-and-build

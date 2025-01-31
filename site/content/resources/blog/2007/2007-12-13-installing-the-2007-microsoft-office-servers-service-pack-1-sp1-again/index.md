@@ -9,23 +9,23 @@ layout: blog
 resourceTypes: blog
 slug: installing-the-2007-microsoft-office-servers-service-pack-1-sp1-again
 aliases:
-  - /blog/installing-the-2007-microsoft-office-servers-service-pack-1-sp1-again
-  - /installing-the-2007-microsoft-office-servers-service-pack-1-sp1-again
-  - /installing-the-2007-microsoft-office-servers-service-pack-1-(sp1)----again---
-  - /blog/installing-the-2007-microsoft-office-servers-service-pack-1-(sp1)----again---
-  - /resources/RgZYSYc6tNy
+- /blog/installing-the-2007-microsoft-office-servers-service-pack-1-sp1-again
+- /installing-the-2007-microsoft-office-servers-service-pack-1-sp1-again
+- /installing-the-2007-microsoft-office-servers-service-pack-1-(sp1)----again---
+- /blog/installing-the-2007-microsoft-office-servers-service-pack-1-(sp1)----again---
+- /resources/RgZYSYc6tNy
 tags:
-  - infrastructure
-  - moss2007
-  - sharepoint
-  - sp2007
-  - spf2010
-  - tools
+- infrastructure
+- moss2007
+- sharepoint
+- sp2007
+- spf2010
+- tools
 categories:
-  - upgrade-and-maintenance
+- upgrade-and-maintenance
 preview: metro-office-128-link-1-1.png
----
 
+---
 So far it is exactly the same show as with the WSS update. Installing updates before moving onto the main feature... And it did not ask me to install WSS SP1 this time.. That is another one of those mixed signs...
 
 The installation for MOSS SP1 is identical to that of WSS SP1 so I foresee no problems...

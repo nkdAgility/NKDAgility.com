@@ -9,21 +9,21 @@ layout: blog
 resourceTypes: blog
 slug: performance-research-browser-cache-usage-exposed
 aliases:
-  - /blog/performance-research-browser-cache-usage-exposed
-  - /performance-research-browser-cache-usage-exposed
-  - /performance-research,-browser-cache-usage
-  - /performance-research,-browser-cache-usage
-  - /performance-research,-browser-cache-usage
-  - /performance-research,-browser-cache-usage
-  - /performance-research,-browser-cache-usage---exposed-
-  - /blog/performance-research,-browser-cache-usage---exposed-
-  - /resources/UF1mz0nza4p
+- /blog/performance-research-browser-cache-usage-exposed
+- /performance-research-browser-cache-usage-exposed
+- /performance-research,-browser-cache-usage
+- /performance-research,-browser-cache-usage
+- /performance-research,-browser-cache-usage
+- /performance-research,-browser-cache-usage
+- /performance-research,-browser-cache-usage---exposed-
+- /blog/performance-research,-browser-cache-usage---exposed-
+- /resources/UF1mz0nza4p
 tags:
-  - off-topic
-  - web
+- off-topic
+- web
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 "Since browsers spend 80% of the time fetching external components including scripts, stylesheets and images, reducing the number of HTTP requests has the biggest impact on reducing response time. But shouldn ’t everything be saved in the browser’s cache anyway?"
 
 A very interesting article from a web perspective...

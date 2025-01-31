@@ -9,26 +9,26 @@ layout: blog
 resourceTypes: blog
 slug: engaging-with-complexity-team-foundation-server-edition
 aliases:
-  - /blog/engaging-with-complexity-team-foundation-server-edition
-  - /engaging-with-complexity-team-foundation-server-edition
-  - /engaging-with-complexity
-  - /engaging-with-complexity---team-foundation-server-edition
-  - /blog/engaging-with-complexity---team-foundation-server-edition
-  - /resources/xr1jtRnRNvp
+- /blog/engaging-with-complexity-team-foundation-server-edition
+- /engaging-with-complexity-team-foundation-server-edition
+- /engaging-with-complexity
+- /engaging-with-complexity---team-foundation-server-edition
+- /blog/engaging-with-complexity---team-foundation-server-edition
+- /resources/xr1jtRnRNvp
 tags:
-  - infrastructure
-  - operational
-  - tfs
-  - tfs2012
-  - tfs2012-2
-  - tfs-2012-3
-  - tfs-2013
-  - tools
+- infrastructure
+- operational
+- tfs
+- tfs2012
+- tfs2012-2
+- tfs-2012-3
+- tfs-2013
+- tools
 categories:
-  - tools-and-techniques
+- tools-and-techniques
 preview: nakedalm-experts-visual-studio-alm-2-2.png
----
 
+---
 I have been engaging with complexity for a company in Silicon Valley that is doing one of the most complex Team Foundation Server migrations that I think I have ever seen.
 
 When large companies sell parts of themselves there is a complicated ‘remediation’ process that is required to make sure that they only take the assets that have been purchased with them. Developers tend to be very greedy when writing software and your code picks up all kinds of references that you may not even know about. This causes problems within the development process as we may use source code for applications that are not being sold as components within the ones that are. They need to remove all of the assets that they are not taking with them and then reload the thing that have been approved by legal.

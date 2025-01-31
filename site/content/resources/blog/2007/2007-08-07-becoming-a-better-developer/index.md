@@ -9,19 +9,20 @@ layout: blog
 resourceTypes: blog
 slug: becoming-a-better-developer
 aliases:
-  - /blog/becoming-a-better-developer
-  - /becoming-a-better-developer---
-  - /blog/becoming-a-better-developer---
-  - /resources/BonYegnhwPu
+- /blog/becoming-a-better-developer
+- /becoming-a-better-developer---
+- /blog/becoming-a-better-developer---
+- /resources/BonYegnhwPu
+- /becoming-a-better-developer
 tags:
-  - dyslexia
-  - ml
-  - tools
+- dyslexia
+- ml
+- tools
 categories:
-  - me
+- me
 preview: metro-merilllynch-128-link-1-1.png
----
 
+---
 [Steve Clements](http://geekswithblogs.net/steveclements/archive/2007/07/26/114182.aspx "Becoming a better developer...") has tagged me (thanks Steve) about how to become a [better developer](http://graysmatter.codivation.com/HowIAmBecomingABetterDeveloperPart1OfInfinity.aspx), he thinks tagging me 'would make an interesting read'..Hmm, no pressure:
 
 - **Actually study for my** [**MCPD: Enterprise Applications Developer**](http://www.microsoft.com/learning/mcp/mcpd/entapp/default.mspx) **like I said I would.** I [posted](http://blog.hinshelwood.com/archive/2007/05/04/Studying-for-Exam-70-536-MCTS-Application-Development-Foundation.aspx) earlier in the year that I was going to study for my [MCPD: Enterprise Applications Developer](http://www.microsoft.com/learning/mcp/mcpd/entapp/default.mspx) and that I was going to start with [Exam 70–536](http://www.microsoft.com/learning/exams/70-536.asp): TS: Microsoft .NET Framework 2.0 - Application Development Foundation. Well I got 80% through the book, got board, and stopped... I even managed to get my company to buy me all of the books for the MCPD and they are just sitting on the shelve at home. I have tried to kid myself that the reason I failed was that the books are heavy, _well they are_, but that is no excuse, _well maybe not a good one_... So I resolve to pull my finger out and get reading...

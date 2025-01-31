@@ -9,26 +9,26 @@ layout: blog
 resourceTypes: blog
 slug: visual-studio-2010-overview-a-day-in-the-life-of
 aliases:
-  - /blog/visual-studio-2010-overview-a-day-in-the-life-of
-  - /visual-studio-2010-overview-a-day-in-the-life-of
-  - /visual-studio-2010-overview
-  - /visual-studio-2010-overview---a-day-in-the-life-of-----plan,-code-&-test
-  - /blog/visual-studio-2010-overview---a-day-in-the-life-of-----plan,-code-&-test
-  - /resources/oXATaMW00Ct
+- /blog/visual-studio-2010-overview-a-day-in-the-life-of
+- /visual-studio-2010-overview-a-day-in-the-life-of
+- /visual-studio-2010-overview
+- /visual-studio-2010-overview---a-day-in-the-life-of-----plan,-code-&-test
+- /blog/visual-studio-2010-overview---a-day-in-the-life-of-----plan,-code-&-test
+- /resources/oXATaMW00Ct
 tags:
-  - agile
-  - modern-alm
-  - nwcadence
-  - scrum
-  - tfs
-  - tfs2010
-  - tools
-  - visual-studio
-  - vs2010
-  - webcast-2
+- agile
+- modern-alm
+- nwcadence
+- scrum
+- tfs
+- tfs2010
+- tools
+- visual-studio
+- vs2010
+- webcast-2
 preview: metro-visual-studio-2010-128-link-1-1.png
----
 
+---
 This session shows the Day in the Life of a project using TFS from the context of a Developer, Tester, and Program Manager. The purpose of this session is to give a clear picture of how someone in the role of the Developer, the Tester and Program Manager would use TFS in his/her role.
 
 - _**Update 2012-01-27** - The original video was poor quality and has been replaced but I am still having some issues. It looks like Videopress downscaled when it is uploaded._

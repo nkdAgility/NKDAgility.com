@@ -1,5 +1,5 @@
 ---
-title: "Team Foundation Server Error TF30177: Team Project Creation Failed  - Part 2"
+title: 'Team Foundation Server Error TF30177: Team Project Creation Failed  - Part 2'
 description: Troubleshoot Team Foundation Server error TF30177 with expert insights. Learn to resolve project creation issues in SharePoint effectively. Read more!
 ResourceId: -H--7dlWeGE
 date: 2007-08-20
@@ -9,20 +9,20 @@ layout: blog
 resourceTypes: blog
 slug: team-foundation-server-error-tf30177-team-project-creation-failed-part-2
 aliases:
-  - /blog/team-foundation-server-error-tf30177-team-project-creation-failed-part-2
-  - /team-foundation-server-error-tf30177-team-project-creation-failed-part-2
-  - /team-foundation-server-error-tf30177--team-project-creation-failed---part-2
-  - /blog/team-foundation-server-error-tf30177--team-project-creation-failed---part-2
-  - /resources/-H--7dlWeGE
+- /blog/team-foundation-server-error-tf30177-team-project-creation-failed-part-2
+- /team-foundation-server-error-tf30177-team-project-creation-failed-part-2
+- /team-foundation-server-error-tf30177--team-project-creation-failed---part-2
+- /blog/team-foundation-server-error-tf30177--team-project-creation-failed---part-2
+- /resources/-H--7dlWeGE
 tags:
-  - sharepoint
-  - sp2007
-  - spf2010
+- sharepoint
+- sp2007
+- spf2010
 categories:
-  - problems-and-puzzles
+- problems-and-puzzles
 preview: metro-sharepoint-128-link-1-1.png
----
 
+---
 If you are trying to get team server to talk to another Sharepoint farm this is something to watch out for. I fell into this one myself, and now my American colleagues have hot the same problem (I have changed things like server, account and company names to protect the, erm, servers?). The key things to look for in the log file are the creation details:
 
 > 2007-08-17 13:06:33Z | Module: WSS | Thread: 7 | Language id: 1033  

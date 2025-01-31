@@ -9,23 +9,23 @@ layout: blog
 resourceTypes: blog
 slug: solution-seo-permanent-redirects-for-old-urls
 aliases:
-  - /blog/solution-seo-permanent-redirects-for-old-urls
-  - /solution-seo-permanent-redirects-for-old-urls
-  - /solution---seo-permanent-redirects-for-old-url’s-
-  - /blog/solution---seo-permanent-redirects-for-old-url’s-
-  - /resources/2x0w1Oay2UF
+- /blog/solution-seo-permanent-redirects-for-old-urls
+- /solution-seo-permanent-redirects-for-old-urls
+- /solution---seo-permanent-redirects-for-old-url’s-
+- /blog/solution---seo-permanent-redirects-for-old-url’s-
+- /resources/2x0w1Oay2UF
 tags:
-  - code
-  - codeproject
-  - sharepoint
-  - spf2010
-  - ssw
-  - tools
+- code
+- codeproject
+- sharepoint
+- spf2010
+- ssw
+- tools
 categories:
-  - code-and-complexity
+- code-and-complexity
 preview: metro-sharepoint-128-link-1-1.png
----
 
+---
 From time to time, your website structure may change. When this happens, you do not want to have to start from scratch with your Google rankings, so you need to map all of your Old URLs to new ones.
 
 This may seem like a trivial thing, but it is essential to keep your current rankings, that you worked hard for, intact.

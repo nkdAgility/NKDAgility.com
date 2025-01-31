@@ -9,22 +9,22 @@ layout: blog
 resourceTypes: blog
 slug: investigation-seo-permanent-redirects-for-old-urls
 aliases:
-  - /blog/investigation-seo-permanent-redirects-for-old-urls
-  - /investigation-seo-permanent-redirects-for-old-urls
-  - /investigation---seo-permanent-redirects-for-old-url’s-
-  - /blog/investigation---seo-permanent-redirects-for-old-url’s-
-  - /resources/roXmyU8SYFJ
+- /blog/investigation-seo-permanent-redirects-for-old-urls
+- /investigation-seo-permanent-redirects-for-old-urls
+- /investigation---seo-permanent-redirects-for-old-url’s-
+- /blog/investigation---seo-permanent-redirects-for-old-url’s-
+- /resources/roXmyU8SYFJ
 tags:
-  - code
-  - sharepoint
-  - spf2010
-  - ssw
-  - tools
+- code
+- sharepoint
+- spf2010
+- ssw
+- tools
 categories:
-  - code-and-complexity
+- code-and-complexity
 preview: metro-sharepoint-128-link-4-4.png
----
 
+---
 On the project I am currently working on we want to change the nasty [http://northwind.com/products.aspx?ProductId=1](http://northwind.com/products.aspx?ProductId=1) to a nice friendly URL on the website. This is pretty easy and can result in nice URL’s like [http://northwind.com/products/BigGreenTeddyBaresFromParis.aspx](http://northwind.com/products/BigGreenTeddyBaresFromParis.aspx).
 
 See Also – [Solution - SEO permanent redirects for old URL’s?](http://blog.hinshelwood.com/archive/2010/01/04/do-you-know-how-to-maintain-your-google-ranking-while.aspx)

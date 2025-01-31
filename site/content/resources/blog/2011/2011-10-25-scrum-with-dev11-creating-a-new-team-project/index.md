@@ -9,20 +9,20 @@ layout: blog
 resourceTypes: blog
 slug: scrum-with-dev11-creating-a-new-team-project
 aliases:
-  - /blog/scrum-with-dev11-creating-a-new-team-project
-  - /scrum-with-dev11-creating-a-new-team-project
-  - /scrum-with-visual-studio-11---creating-a-new-team-project
-  - /blog/scrum-with-visual-studio-11---creating-a-new-team-project
-  - /resources/04eLjqdYkiX
+- /blog/scrum-with-dev11-creating-a-new-team-project
+- /scrum-with-dev11-creating-a-new-team-project
+- /scrum-with-visual-studio-11---creating-a-new-team-project
+- /blog/scrum-with-visual-studio-11---creating-a-new-team-project
+- /resources/04eLjqdYkiX
 tags:
-  - agile
-  - nwcadence
-  - scrum
-  - tfs
-  - tools
-  - webcast-2
----
+- agile
+- nwcadence
+- scrum
+- tfs
+- tools
+- webcast-2
 
+---
 Creating a Team Project in the cloud could be daunting, but it is very simple. Just fire up your web browser and you can be up an running asynchronously in no time.
 
 \[wpvideo 7j9ZdEQ8\]

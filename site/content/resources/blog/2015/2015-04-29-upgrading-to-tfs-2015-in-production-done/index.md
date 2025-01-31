@@ -9,22 +9,22 @@ layout: blog
 resourceTypes: blog
 slug: upgrading-to-tfs-2015-in-production-done
 aliases:
-  - /blog/upgrading-to-tfs-2015-in-production-done
-  - /upgrading-to-tfs-2015-in-production-done
-  - /upgrading-to-tfs-2015-in-production
-  - /upgrading-to-tfs-2015-in-production---done
-  - /blog/upgrading-to-tfs-2015-in-production---done
-  - /resources/lJiwJaztYBO
+- /blog/upgrading-to-tfs-2015-in-production-done
+- /upgrading-to-tfs-2015-in-production-done
+- /upgrading-to-tfs-2015-in-production
+- /upgrading-to-tfs-2015-in-production---done
+- /blog/upgrading-to-tfs-2015-in-production---done
+- /resources/lJiwJaztYBO
 tags:
-  - tfs
-  - tfs-2013-4
-  - tfs-2015
-  - upgrade
+- tfs
+- tfs-2013-4
+- tfs-2015
+- upgrade
 categories:
-  - install-and-configuration
+- install-and-configuration
 preview: nakedalm-experts-visual-studio-alm-22-22.png
----
 
+---
 I am onsite today with a customer in London to do an upgrade of their production system to TFS 2015. We have a backup of the databases and a snapshot of the VM and are good to go.
 
 It looks like this may have been the [first upgrade to TFS 2015 in production](http://blogs.msdn.com/b/bharry/archive/2015/04/27/first-tfs-2015-rc-production-upgrade-i-know-of.aspx), at least beyond internal consulting company's.

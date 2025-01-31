@@ -9,17 +9,17 @@ layout: blog
 resourceTypes: blog
 slug: tfs-event-handler-in-net-3-5-part-1-the-architecture
 aliases:
-  - /blog/tfs-event-handler-in-net-3-5-part-1-the-architecture
-  - /tfs-event-handler-in-net-3-5-part-1-the-architecture
-  - /tfs-event-handler-in--net-3-5-part-1---the-architecture
-  - /blog/tfs-event-handler-in--net-3-5-part-1---the-architecture
-  - /resources/LZnn3eQy53a
+- /blog/tfs-event-handler-in-net-3-5-part-1-the-architecture
+- /tfs-event-handler-in-net-3-5-part-1-the-architecture
+- /tfs-event-handler-in--net-3-5-part-1---the-architecture
+- /blog/tfs-event-handler-in--net-3-5-part-1---the-architecture
+- /resources/LZnn3eQy53a
 tags:
-  - tfs-event-handler
-  - tools
+- tfs-event-handler
+- tools
 preview: nakedalm-logo-128-link-1-1.png
----
 
+---
 I have decided to have a little go at creating a Team Foundation Server Event Handler in .NET 3.5 that is resilient and scaleable. I will be using as many of the features of Team Suit as I can, but bear with me as there are a few things that are new to me. I am going to create everything under source control in CodePlex.
 
 **TFS Event Handler in .NET 3.5 Articles**

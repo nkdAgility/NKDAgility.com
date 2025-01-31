@@ -9,24 +9,24 @@ layout: blog
 resourceTypes: blog
 slug: visual-studio-2010-overview-introduction
 aliases:
-  - /blog/visual-studio-2010-overview-introduction
-  - /visual-studio-2010-overview-introduction
-  - /visual-studio-2010-overview
-  - /visual-studio-2010-overview---introduction
-  - /blog/visual-studio-2010-overview---introduction
-  - /resources/2d6IQ5TVE-_
+- /blog/visual-studio-2010-overview-introduction
+- /visual-studio-2010-overview-introduction
+- /visual-studio-2010-overview
+- /visual-studio-2010-overview---introduction
+- /blog/visual-studio-2010-overview---introduction
+- /resources/2d6IQ5TVE-_
 tags:
-  - modern-alm
-  - nwcadence
-  - tfs
-  - tfs2010
-  - tools
-  - visual-studio
-  - vs2010
-  - webcast-2
+- modern-alm
+- nwcadence
+- tfs
+- tfs2010
+- tools
+- visual-studio
+- vs2010
+- webcast-2
 preview: metro-visual-studio-2010-128-link-1-1.png
----
 
+---
 A high-level overview of ALM and how the features in Visual Studio 2010 support ALM. This presentation touches on all the features shown in the rest of the deeper-dive sessions. If attendees don't know which other sessions they want, watching this presentation might help them decide.
 
 _This post is part of a series of Visual Studio ALM webcasts that were delivered through 2010 and 2011 as part of an introduction to Visual Studio ALM. See [An index to all Visual Studio 2010 Overview webcasts](http://blog.hinshelwood.com/an-index-to-all-visual-studio-2010-overview-sessions/) for a full list of webcasts.If you want a custom set of webcasts just for your company so that you can ask the hard questions you can as part of the [Microsoft’s ALM Catalyst](http://sharepoint.microsoft.com/almcatalyst/Pages/partnerdetails.aspx?PartnerID=2) program._
