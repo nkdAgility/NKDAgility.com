@@ -1,0 +1,183 @@
+- id: Nf6XCdhSUMw
+  title: Introduction to Evidence Based Management
+  description: 'Discover the essentials of Evidence Based Management in this engaging introduction. Enhance your Agile practices today! #agile #scrum #ebm'
+  captions: |-
+    Evidence-based management is the application of evidence-based practices at the strategic and tactical levels in an organisation. It involves using data to inform but not control the actions and behaviours that have been shown to impact outcomes. So what that means is that we're going to collect a bunch of data within the organisation. The way we measure people informs the way they behave. So whenever you're working within an organisation and you find somebody's working against you or somebody's not being as involved as you think they should be involved, and you're wondering why, there's probably some organisational measure or metric something being levied against them that enables, ensures, encourages that behaviour in that person.
+
+    So the best way to figure out why somebody is doing something in a particular way that maybe you feel has a negative impact on the way your things need to happen is to figure out how they're measured. That can be difficult, but if you can glean that information, you can figure out why they're behaving the way they're behaving, why they're taking the actions that they're taking. We want to try and have more behaviours and actions that impact our outcomes positively. We want to deliver more value to our customers. 
+
+    What other outcomes might your business want? Well, they might want more revenue. They might want more value for their customers. They might want to save money. What else might be good impactful outcomes for our business? We might want to increase our capability within a particular market. It's difficult without a specific instance to have a specific outcome that you're trying to achieve. 
+
+    Once you've figured out what your outcomes are, you need to figure out what metrics are going to help you measure progress towards those outcomes. These can be super tactical things that help you move towards those outcomes. It can be leading or lagging measures; there's all kinds of things that come into that. But evidence-based management is that application of practices within the context of that data to help you make decisions. 
+
+    One of the reasons I very specifically said inform but not control is that the data is not always going to result in a specific action. So what's a good example of that? Let's say I had a metric for my team or teams. I've got a group of teams I'm working with, and my metric is the number of live site incidents that last or exist for longer than two sprints—let's call it three sprints. We're running a live service; we're going to have outages and issues and things that happen in the live service. When those things happen, we're going to create live site incidents or live site incident mitigating actions—things we're going to change in the product in order to not have that type of live site incident happen again.
+
+    So we've done our analysis, we've come up with these ideas, and then we expect our metric is that we expect teams to clear those off within three sprints. If I expect them to clear it off within three sprints, I maybe want to have a measure, a team dashboard, and I'm going to have a measure that says what is the number of live site incidents that have been existing for longer than three sprints and what is the trend of that number? Is it trending up or is it trending down? 
+
+    You may see your list of teams, and you see the numbers, and they're all good apart from this one team that has these four outstanding live site issues that have been there for longer than, let's say, six or seven sprints. That doesn't mean there's something wrong in that team. These are indications, these are flags, pieces of evidence that you use to inform your decision-making. So you'll probably need to go ask them how it's going, and maybe there's a team that they're waiting on something else to happen. They can't fix their thing until some other third party that they don't control and we have limited influence over needs to do something. 
+
+    So we can't make them do it; they're going to do it in their own time. It's on their backlog; it keeps getting pushed, and we can't resolve our issue until they've resolved their stuff that they need to do. So the team, that data looks bad, but the team's doing fine. They're chasing it on a regular basis; they're putting pressure on that other group on a continuous basis. It's just taking time to get resolved. 
+
+    That's why it informs but does not control. But we're making decisions based on the evidence. We're collecting a bunch of evidence; we're extrapolating what we don't know or don't understand. The evidence is going to have gaps in it, and then we're making an informed decision based on our understanding of the current situation. That's evidence-based management in a nutshell.
+- id: nfTAYRLAaYI
+  title: 'Mastering Kanban: A Simple Guide to Its Core Principles'
+  description: Unlock peak productivity with Kanban! Discover 3 essential principles to simplify workflows and enhance efficiency in this must-watch video.
+  captions: |-
+    There are three core principles of Caman. To keep it really simple, there's defining and visualising your workflow. That's like creating your rule book as a team. How are you going to function? What does your system look like? Right, so defining and visualising a workflow.
+
+    The second core principle is to actively manage the items in the workflow. So now that you can see them, you can see what's going on. You have a visualisation; you're going to actively take action. So you're not just going to passively look at it; actively take action.
+
+    And then the third principle is improving your workflow. You want to make changes to the workflow in order to make things a little bit better, to make things flow better through your system.
+- id: NG9Y1_qQjvg
+  title: Install TFS 2013 Release Management
+  description: Learn to install and configure TFS 2013 Release Management in under 10 minutes with Martin. Streamline your deployment process effortlessly!
+  captions: ""
+- id: NgoP5W5y7Gs
+  title: Security by Design Building Secure Software
+  description: Learn to embed security from the start in software development. Join Martin Hinshelwood as he explores shifting left for resilient, secure software.
+  captions: |-
+    Many companies make the mistake of treating security as an afterthought, doing security validation and security checks at the end of the process. This is not a small company problem; it's not a big company problem; it's an all-company problem. Some of the largest tech companies have resolved this with something you'll probably hear about in the Dora report, which is shift left. Shifting left means shifting everything as left as you can, as close to the developers and engineers as possible, to resolve these issues.
+
+    What has been happening is that we will do many years of work on a product—could be months, could be years, could be weeks. We do a whole bunch of work on a product and then we ship it to pen testing or someone who's going to do some security validation for your product, even if it's yourselves doing it. But you just do it at the end, and you find a whole bunch of problems. Some of those problems are going to be systemic to how you've built your product in the first place. In order to fix that, we're going to have to rearchitect.
+
+    If we're late in the game, we're ready to ship, and everybody's asking us when it's going live, we need to get out. We need to blue Peter the heck out of that, and we get out our super glue, our sticky tape, and we go figure out how to paper over the cracks in our product to prevent the hackers from getting in. The problem is that hackers are super good at peeling away the edges of those things to get underneath and gain access to your system and take it over.
+
+    I've been involved with some exercises that the Azure DevOps team did, where they hired a team of professional hackers. This is a red-blue exercise: hire a team of professional hackers, bring them in, and their job—the red team's job—is to hack the system. The blue team's job is to detect them and do something about them, either prevent them from getting in or push them out, or all of those things. The red team always wins. That's the thing you have to realise: eventually, the red team is always going to win. They're going to find a flaw; they're going to find ways to peel up that tape. The only way for you to prevent those things is to not have vulnerable code in the first place, not have vulnerable architectures in the first place. 
+
+    The only way to do that is to refactor the heck out of your system to make those things go away and then stop those things from happening in the first place. For example, the Azure DevOps team does these red-blue exercises, and the red team's job is to go around all of the teams in the organisation and show them how the red team was able to use their code to get access to the system and how they could have coded it differently or architected it differently or changed the way they do something in order to prevent hackers from getting in. That's security by design; that's security from the start; that's security baked into the problem.
+
+    This is true for a lot of different facets of software engineering: it's every team member's problem. What the business wants is every team member's problem. How much it's going to cost is every team member's problem. The customer's worries are every team member's problem, and security is every team member's problem. So building security in rather than testing it in, building quality in rather than testing it in, is about shifting left, getting as many of those skills that you need for your context into the hands of the developers that are doing the work.
+
+    There are a bunch of tools out there that can help with that. There’s SonarQube and SonarCloud, which enable your developers to analyse their code and find and hopefully deal with vulnerabilities. There are known vulnerabilities that happen in the code. You can also use GitHub, which has an advanced security protection system that you can use in GitHub or as part of Azure DevOps to again analyse the code, find problems, and poke at it. 
+
+    It's why, if you're a developer and you try to upload some code that has a PAT token or something that looks like a security token or a password into the system, you will be prevented from checking in that code, from committing that code, from the repo, from doing a push to production by GitHub and Azure DevOps, because the advanced threat protection is detecting that and preventing it from getting into the system in the first place. Shifting as far left as we possibly can to validate that those things are not going to cause vulnerabilities.
+
+    A really common vulnerability is developers on dev machines putting passwords in text files. On dev machines, there are all sorts of vectors that hackers can use. My advice is to help you within the context of shifting left and enabling your teams to have the knowledge and skills they need to be able to prevent and remove as many of these issues as possible before they become a problem.
+- id: nhkUm6k4Q0A
+  title: 'How to Be an Effective Agile Coach: Agnosticism in Practice'
+  description: 'Discover the second essential achievement for aspiring #AgileCoaches with Martin Hinshelwood. Elevate your skills and empower teams to thrive!'
+  captions: ""
+- id: NKQr8oGO8lg
+  title: How much of a competitive edge will the immersive PAL e course deliver to delegates?
+  description: Discover how the immersive PAL e-course can enhance your leadership skills and give your organisation a competitive edge in just 7 weeks!
+  captions: ""
+- id: nMkit8zBxG0
+  title: What is Sprint Planning?
+  description: Discover the essentials of sprint planning in Scrum! Join Martin Hinshelwood as he explains its importance and effective strategies for your team.
+  captions: ""
+- id: npnQtdLEwQY
+  title: Managing Technical Debt to Minimize Costs
+  description: Discover how to manage technical debt effectively to reduce costs and enhance product quality. Learn key strategies and real-world examples in this insightful video!
+  captions: |-
+    Technical debt is something that adds a massive cost to your product and the way you do things. But I want to be really clear that I'm including multiple things in technical debt because that's how people see it. So from a technical standpoint, technical debt is like it's the implied cost of future rework because we prioritised speed over long-term design. Right, so that's where we come to a decision point. We have to, we're building a feature and we can either do it the fast way or the right way, and we choose the fast way. Right, that's technical debt. It's usually deliberately incurred, right, with choices that we make. It's either deliberate by the engineer, deliberate by product leadership, or deliberate by the organisation.
+
+    There's also an unintentional technical debt that isn't generally, I mean, in general, people characterise it as technical debt for sure, but technically it's not technical debt. Trying to get my brain around that, but it's poor quality. Poor quality is not technical debt; poor quality is just poor quality. So when people talk about technical debt and they talk about, "We've got a lot of bugs in the system," they're probably not talking about technical debt; they're probably talking about poor quality. But they don't want to call it poor quality because that makes them look bad. "Why did you deliver poor quality?" says the CTO. I understand why you made decisions to expedite a feature in order to ship more quickly to our customers, but why did you ship poor quality?
+
+    Right, you will generally find that C-suite is not interested in poor quality. They want high quality; they want their product to work, and they want users to be happy. But they would be happy to make design decisions that expedite, right, that get things done faster. So the problem is that, maybe I'm being a bit jaded here, but I would say most engineering groups—I'm using the word group very specifically there, like department, group, perhaps team, depends on your context—they characterise poor quality as technical debt, like it's a choice. I mean, it is a choice. They deliberately didn't do the stuff they needed to do in order to maintain the quality of the product, and that builds up over time.
+
+    So technical debt builds up over time, and poor quality builds up over time. Poor quality is by far your biggest killer. Both create rework, both create higher costs of maintenance, both create slower development. It's harder to add features to your product because you made what we now realise are subpar design decisions. Right, we might have made the right decision at the time, but now it's the wrong decision because the world's changed, or the market's changed, or we shipped a bunch of crap to production, which is what I see quite often. I don't understand it, but I see it quite often with teams and with products that we don't deliver high-quality usable product to production. We deliver barely functioning product to production, and when you build new features on top of new barely functioning features on top of old barely functioning features, you're going to have barely functioning squared, and it starts to become excessive cost.
+
+    I use an example in one of my other videos of a company I worked with that had manual testers to 300 coders. That was because of poor quality. Definitely, some of it was to do with technical debt, but most of it was to do with poor quality. It was horrendous. So this has a massive cost. It has so much cost, and it's especially easy for it to happen when you take longer to ship your product to production. Right, so if you have a really long product cycle, let's say two years between releases, then the last six months is what they say is bug fixing. Right, but it's not really; you're out with the sticky tape and the super glue patching it up to a state where it can be shipped. If it's patched up, that means it's not right.
+
+    Okay, that some of that might be technical debt, and some of that might be low quality. It's the reason that Windows, for example, is so much more stable now than it ever was in the past. In the past, they used to have a six-year ship cycle, right, and that incurred massive amounts of debt and cost. And then when they came back around at the end to clean things up, some things were now fundamental to the product, and they couldn't clean them up; they had to paper over them. Right, you've got the paper mache over the top making it like a lovely glossy product. But then hackers and nefarious people come along and start peeling back at the edges to get underneath and exploit things in it.
+
+    With the new model that the Windows team work in, where they're delivering continuously to production, every member of every team is in charge of quality or part of that story of quality, of security. They go back and fix things on a continuous basis. They don't build up that technical debt anymore; they keep on top of it. And the way you keep on top of technical debt is to continuously deal with it. You're continuously refactoring; you're continuously re-architecting your product when things happen that you find you need to deal with.
+
+    A great example is when the Azure DevOps team ran into an issue that they'd moved to the cloud. They got a bunch of smaller services. One of those services was the profile service, right, where you give it an email address and it comes back with your profile data, like your picture and your friendly name and all of those kind of things. And something went wrong with the profile service, and because the profile service wasn't responding, the entire system didn't work. You couldn't change work items; you couldn't commit code; you couldn't do any of the things that, anytime it called the profile service, you couldn't even view code because it was calling the profile service to get the friendly names for the people that were committing the code, right, in the history and stuff, or the work items. Right, you couldn't see anything in the work items.
+
+    So, but why? Right, if there's something wrong with the profile service, just show the email address. You don't need to go get the friendly name. I, as a user, might go, "Why is it just showing me the email address?" But I can still use the system; I can still work. Right? And that was there because they made architectural decisions that were perhaps done for expediency, perhaps done deliberately, but also could be done accidentally. Right? They didn't realise this was going to be a problem in the future. But as soon as they figured that out, they realised this technical debt. We had a production incident because of our design choices, right? This service was too tightly coupled, and we need to figure out what was the cause of the problem. Well, it's this tightly coupling. What do we need to do about it? Well, we need to go re-architect, and anywhere that calls this service, we need to introduce—in this case, it was introduced the circuit breaker pattern. So that when it's not working, it just turns it off and doesn't keep trying to call it. It just stops calling it, and then maybe every ten seconds it goes, "Is it working? No. Is it working? No. Okay, wait a minute. Is it working? Oh yeah, it's working now," so we can reconnect it. Right? That's a circuit breaker pattern.
+
+    So they did that so that they would never have that problem again. It would never happen that the profile service going out would result in another service not working. Right? So that's paying back some of that technical debt that you either deliberately incurred or you found later. Right? You realised you'd got into debt over your head, and you need to fix it. But you need to fix it; you need to go back and refactor it, and there's a cost to that. Right? It's engineering work; it's time; it's possible mistakes; it's reworking tests; it's all of those things to make that work.
+
+    And then I think a year later, they had a similar problem with another service, so they took the decision at that point to go and introduce the circuit breaker pattern in all the communication across their entire service, and then they never had that problem again. So you're always going to incur technical debt, whether you choose to do it deliberately or you discover it later. You should never have poor quality. You should have an absolute minimum quality bar that's set by the organisation to protect the business, the brand, your employees, and your customers. Right? That's your organisation's—we I would call it a definition of done. Right? What's the minimum quality level required by your business? But from a technical debt perspective, we still need to go back and pay it back, and it pays back dividends when we go fix these things because it pays it back in making it easier for us to add new features to the product. It pays it back because our customers have less issues, so they're happier. They think better of our product, and if they think better of our product, then we tend to make more money. It's a lagging indicator, but we tend to make more money. So managing technical debt minimises your costs and maximises your profit.
+- id: nTxn_izPBFQ
+  title: How good is the APSPO course in helping leaders determine product direction and Why?
+  description: Discover how the PSPO-A course empowers managers to transition from project to product leadership, enhancing product vision and team alignment in Agile.
+  captions: ""
+- id: Nw0bXiOqu0Q
+  title: Why are recessions a great time for organizations to evaluate the opportunity of agile?
+  description: Discover why recessions spark a shift towards agile methodologies, enabling organisations to adapt and thrive in turbulent times. Join Martin Hinshelwood!
+  captions: ""
+- id: NWVSxs13_0A
+  title: PAL In 40 Minutes
+  description: Discover the essentials of PAL in just 40 minutes! This video breaks down key concepts and practical insights for a quick yet comprehensive understanding.
+  captions: ""
+- id: nxA1Jo4J0dg
+  title: Scaled Professaional Scrum (SPS) with Nexus
+  description: Master scaling Scrum with the Scaled Professional Scrum (SPS) course using the Nexus framework. Gain skills, tackle challenges, and earn your certification!
+  captions: ""
+- id: nY4tmtGKO6I
+  title: Why is training such a critical element in a scrummaster journey?
+  description: Discover why training is vital for Scrum Masters! Martin Hinshelwood highlights the leadership role and skills needed for success in agile coaching.
+  captions: There's lots of things out with Scrum that a Scrum Master needs to understand in order to be as effective as possible. But if you have a brand new Scrum team that have never done Scrum before, they're just starting out. The first thing that a Scrum Master is accountable for is the knowledge that the team have, their understanding of Scrum, their understanding of empiricism, the Scrum values. Teaching those things is really important for a Scrum Master.
+- id: o-wVeh3CIVI
+  title: What is Scrum?
+  description: 'Discover Scrum, an agile framework that empowers product development teams to tackle complex challenges. Join Martin Hinshelwood for insights! #Scrum #Agile'
+  captions: ""
+- id: o0VJuVhm0pQ
+  title: In high competition markets, how does scrum product development help acquire and retain customers?
+  description: "Unlock Scrum's potential in competitive markets! Discover how it enhances product development, boosts innovation, and drives customer retention. \U0001F680\U0001F4C8"
+  captions: ""
+- id: O6rYL3EDUxM
+  title: 'Detecting Agile BS: Lessons from the US Department of Defense'
+  description: "Is your company truly Agile? \U0001F914 Discover a 6-question test inspired by the U.S. Department of Defense to assess and enhance your Agile practices!"
+  captions: ""
+- id: o9Qc_NLmtok
+  title: 8-Week Immersive Learning Course in 60 Seconds
+  description: Discover NKDAgility's immersive 8-week Scrum training! Engage in practical learning, reflections, and innovative assignments. Book now for a transformative experience!
+  captions: ""
+- id: oBnvr7vOkg8
+  title: How does someone become an Agile consultant?
+  description: Discover how to become a powerful agile consultant with insights from Martin Hinshelwood. Transform organisations through effective coaching and training!
+  captions: ""
+- id: OCJuDfc-gnc
+  title: 25th March 2020 - Office Hours \ Ask me Anything
+  description: Join Martin, a Scrum Trainer and Microsoft MVP, for an engaging Q&A on DevOps and Agility. Ask anything and get expert insights!
+  captions: ""
+- id: OFUsZq0TKoo
+  title: What you will be able to do after the PPDV course
+  description: 'Unlock your potential with the PPDV course! Learn essential skills for product discovery and validation. Register now! #agile #scrum #productmanagement'
+  captions: |-
+    The course will definitely change your product development game. First point, you will be able to increase user value. Why? Because you are going to deliberately design experiments to better understand user needs and find effective ways how to address them. So we believe this is the best way to increase user value.
+
+    Second point, because you will be able to increase user value and have this process more conscious with a lot of learning, you are definitely on your path to decrease waste. As a result, you will also improve return on investment when it comes to what the team is working on. You will invest based on evidence; you can adjust your budgeting based on experiments, based on the results, based on the data that you get. And at the end of the day, thanks to that, you can embrace the agility principle of simplicity. So in that process, you will also be maximising the amount of work that is creating little or no value.
+
+    Another important point: we, as human beings, really often jump into solution space immediately or just by briefly presenting the problem. In this class, we want to unlock creativity by thinking in problems and showing a different perspective on that. So hold your horses and let's try different experiments to make sure that we truly understand what the problem is. You might be amazed how many different solutions may be finally created when we first pay a lot of attention to understanding the problem.
+
+    Another point: some of the customers, some of the teams, companies complain when it comes to collaboration with stakeholders. With this class, you actually might be equipped with some tools and ideas on how to improve collaboration between the teams and between the stakeholders. This collaboration may change completely because if you invite others and show them this different perspective, your product development may start with using data, not opinions. In that case, it might also be easier for you to get a green light from important stakeholders, but also to show them that certain paths, certain ideas are not worth investing in.
+
+    Finally, I believe it's also a class that is improving our toolbox, our product development toolbox. Because after the class, you will have a bunch of valuable practices, techniques, and ideas when it comes to discovery and validation, and you can start using them immediately after you leave the class. So it might be a great beginning of changes that you will start very soon, just after you say goodbye in our class.
+- id: oHH_ES7fNWY
+  title: Sending email from Office 365 for TFS 2013
+  description: Learn how to configure email notifications in TFS 2013 using Office 365. Enhance your app's communication effortlessly! More at nakedalm.com/blog.
+  captions: ""
+- id: oiIf2vdqgg0
+  title: What is a product vision?
+  description: Discover the essence of a product vision in Scrum! Join Martin Hinshelwood as he explains its importance and how to create one for your team.
+  captions: ""
+- id: Oj0ybFF12Rw
+  title: "Quotes: Don't scale Scrum! Pragmatic or defeatist?"
+  description: 'Explore the debate: Is advising against scaling Scrum pragmatic wisdom or a defeatist mindset? Join the conversation on Agile coaching! #Agile #Scrum #Shorts'
+  captions: ""
+- id: oKZ9bbESCok
+  title: 'Say-Do Metrics: Avoiding Agile Banditry in Your Organization'
+  description: "Uncover the truth behind say-do metrics in Agile! Join Martin as he reveals pitfalls and shares insights for genuine outcomes. \U0001F680\U0001F4CA #Agile #Transparency"
+  captions: |-
+    One of the agile practices that puts us clearly and explicitly in the category of agile banditry is using say-do metrics. That's metrics where you're looking at what people say they were going to do and then what they actually did. A great example of that is, oh, I guess my favourite example is from an organisation that I worked with many years ago. The head of PMO brought me into his office to show me some of the metrics that they presented up to leadership in the organisation. For each of the projects, this was many years ago, each of the projects that they had underway, I think there were five projects they had underway, they had an original estimate versus actual. That's the quintessential say-do, original estimate and actuals for each of the projects, and they were in the thousands of hours, right, like 5,000 hours.
+
+    Something I noticed right away when he showed me this presentation, it was a presentation to show the leadership, was that of the five projects, all of them were within 20%. But if you know your BCKs and you know your statistics, you'll probably know from the Chaos Report of the Standish Group that 65% of the features that we think we're going to build change during the life of the project. So how could it possibly be only a 20% deviation between the amount of time we think it's going to take and the amount of time actually going to take? So that was my first clue that something was up.
+
+    My second clue was that three of the projects were within 15%, two of them were within 10%, and then I noticed that one project that said 5,232 hours original estimate, 5,232 hours actuals. I just turned the graph around, pointed at that one and said, "But this is BS. How could you possibly have these numbers be the same?" He said, "Well, right, you know there's something bad coming when somebody does that well." Last year, we created this report with what happened, and we gave it to leadership, and they had a tantrum and threw their toys out the pram and shouted at us, and made our lives a misery. So this year, we made a change to the system and we allowed project managers to make a change request to their original estimate. That project manager just got his change request in just before we completed the report, before the deadline. So the original estimate had been changed more than once in order to get the graphs to look like they did. 
+
+    So they're going to go and present this to leadership, and leadership is potentially going to make decisions on what they fund, what they don't fund, based on this type of data, this data that is complete fiction. It's just complete fiction. So you don't want that in organisations. If you have a monitor say-do metrics, there are many other types of say-do metrics, but the most common one is original estimate and actuals. Monitoring say-do metrics reduces psychological safety. The PMO of a big organisation didn't feel safe enough to show leadership the real data; they had to create vanity metrics in order to make them happy.
+
+    We tend to focus on output rather than outcome. Well, you said you were going to deliver 10 things, but you only actually delivered nine things. You suck! Whereas in actual fact, we delivered nine of the most valuable things. Wasn't that better if we delivered nine things that were more valuable than the 10 things that were asked for? Or you delivered zero of the things we asked. I remember being at an MVP Summit at Microsoft, where they invited us to come and talk about the product. The year before, we’d done a whole bunch of stats and learnings on what are the most valuable features that we as MVPs believe as your DevOps needs as a product. I think it was TFS service at the time. What are the cool features we need? We did days, like five days of figuring out what that was and came up with a list of here's the top five things that we believe all of our customers need in the product.
+
+    The very first thing, the next year when Brian Harry got up to do his keynote, starting presentation to kick the next Summit off, he said, "Here's a list of the five things that you said were the best things we could build, and I'll tell you now we've built none of them. Here's what we did build." Instead of building the things that we thought were the most valuable, he went off and totally blew our socks off with all the things he did build that were much more valuable to our customers. If we'd held them to the say-do metric, they delivered nothing that we asked for, and that is absolutely not the case. 
+
+    So don't focus on output over outcome. You want to be focusing on the outcomes, what it is you're trying to achieve. That overemphasis that comes from it on estimation is key to that negative feeling that people have when you monitor them with say-do metrics. Just stop doing say-do metrics. Don't be a bandit and give up on that agile banditry of say-do metrics. If you're being ambushed by agile bandits in your organisation, then my team at Naked Agility can help you or help you find a consultant or expert who can set up a no-obligation consultation using the links below. And don't forget to like and subscribe if you enjoyed this video.
+- id: olryF91pOEY
+  title: Can organisations run an Applying Professional Scrum workshop? How would that help them?
+  description: Discover how an Applying Professional Scrum workshop can enhance your team's effectiveness and align with agile values for better outcomes.
+  captions: ""
+

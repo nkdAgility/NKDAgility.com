@@ -1,0 +1,180 @@
+id: 5IBKxYLA494
+title: Scrum With Azure DevOps!
+description: "Transform your Scrum practices with Azure DevOps! Discover setup tips, myth-busting, and tools to boost your team's efficiency. Join the journey! \U0001F31F\U0001F6E0️"
+captions: |-
+  As your DevOps was built for agile teams by agile teams, there are many ways you can use it to support your agile practices. Here I'll show you how to use Azure DevOps to support your Scrum process from the perspective of Scrum.org and the teams at Microsoft that created it. The focus will be on using the Scrum framework coupled with value-focused, hypothesis-driven, flow-based practices.
+
+  Hi, I'm Martin Henwood, owner and principal consultant at Naked Agility. I'm a professional Scrum trainer with Scrum.org, a professional Kanban trainer with Pro Kanban, and I've been a Microsoft MVP in GitHub and Azure DevOps for 15 years.
+
+  Would it surprise you that there are no metrics in the Scrum Guide? Would it further surprise you if there were no user stories, story points, planning poker, or burndown charts that were part of Scrum? These are and always were optional practices that many people found value in their way of working, but that you don't have to have. Just because you use a tool or practice in a previous context doesn't mean that it will fit a future context. The practices that you use and how you use a tool to support your team's practices and behaviours will add or detract from achieving the outcome and impact that you're trying to achieve. Scrum is just a container for other practices, which can be helpful or unhelpful.
+
+  I'm generally pedantic when teaching and pragmatic when implementing, so everything you see here would be guidance based on the common cause, not just rules to follow, with some pragmatism for Azure DevOps' own idioms. It's important to realise that everyone and every team will have dumb ideas that sound good at the start. The most effective teams are the ones that are able to let go of an idea when they find that the evidence does not support it.
+
+  So let's take a look at how we can use Azure DevOps within the context of professional Scrum for teams that build software products. In order to understand how I've got this set up in Azure DevOps, we're going to take a look at how Azure DevOps constructs what it is we're going to be looking at. In Azure DevOps, you have an organisation; you can see my list of organisations on the left-hand side here, and inside of each organisation, you have a set of projects. 
+
+  When you create a new project, you are able to select what process to use. Now I've got a bunch of custom processes here to select from. I've created one based on the Scrum Guide, which I'm going to show you a project that's created with that one. The way that's constructed, you will all be able to see this even if you can't edit it, but if you open the organisational settings on the bottom left and go to process, you'll then see all of the processes that are available. 
+
+  Out of the box, there are core processes of Basic, Agile, Scrum, and CMMI. Those ones are locked; you can't edit them, but you can create inherited processes. I've created a process based on it, and this one here I'm actually going to make the default. That should be set as the default process; it's my custom process that I've created based on the Scrum Guide. 
+
+  What I've done is I have disabled Epic and Feature. I don't want those things; I don't want any hierarchy in my backlog. A product backlog is a flat list of things to be done, and Epics and Features and User Stories are just states of a product backlog item. They're things that a product backlog item can be. 
+
+  If you check on the backlog levels, I can't remove Epics and Features on the backlog levels. I'll show you how I've disabled them, but I've disabled the work items so they can't be created. On here, at the same backlog level, I've got backlog product backlog item, and I also have Bug, which I've put at that level as well. I know that you'll see there somewhere else you set that. I have tasks too if teams want to use tasks, but in general, it's whatever they want to do. 
+
+  Each of these backlog items, if I go back to the work items and I open up the actual work item, has a set of fields. I've added one custom field; you'll see that in a moment. I've added one custom state and removed an existing state. I don't want it to say committed; I don't think that reflects the new Scrum Guide. I know it used to say committed in it, and it's a little thing, but "In Progress" is a much better state. 
+
+  Because I have Bugs and Product Backlog Items at the same level, I've also made exactly the same change for Bugs as well so that they're going to be the same at the same level. That's the custom process that I've created. I'm going to click on my Scrum demo and open up my project. 
+
+  What you will most likely be concerned about, if you're an engineer, is whether you're going to have access to all of these other things as well. But for most people that are not engineers, we're going to be talking about boards, so I'm just going to click on that and open boards. By default, it's just going to show me all the work items, and you can see when I click "New Work Item," I have Bug, Impediment, Product Backlog Item, Risk, Task, and Test Case. Those are just the basic work items. I've removed Feature and Epic.
+
+  In Azure DevOps, there's a bunch of tools built on top of the basic work item tracking system. So what we're going to take a look at is how we can do some of the things that we would normally expect to do as a Scrum team within the context of Azure DevOps. 
+
+  First off, there are some logistics that we want to set up before we get started. This is where this is something that maybe your admin will do. I prefer that everybody on the team has permission to do the things that I'm going to show you, but in the context of the project, there are two things that you definitely want to configure: one's area path and one's iteration path. These are very confusing, brand new, possibly terminologies, but area path is the breakdown of teams and what that looks like, and iteration path is a time-based breakdown.
+
+  I'm going to open project settings; just going to pop open there in the top right. So we're going to the project settings, and you can see the name of the process, remember Scrum 2020 there as well. On here, on the left-hand side, there's project configuration, so I'm going to go into project configuration first. You can see that my current Sprint setup, which may or may not be a good idea, but what I have is a season-based model set up here. 
+
+  I have two halves to the year; I have the first half and the second half of the year, and inside of that half, I've got the 11 Sprints that make up that half. I've just started adding a couple of Sprints in here, and you'll see that each of these Sprints has a start and an end date. That's a subset of this higher-level item. I've set it up like that; it might be a bad idea, but that's what I've done. 
+
+  I then have three teams; well, technically I have four teams. I have a Kanban team, which is the area path, and this is the team that it's assigned to. I'll show you where that happens in a second. So I've got Scrum Team 1 and Scrum Team 2 and Kanban Team 1, and then I've got Scrum demo, which is the top level of this setup. 
+
+  That's my areas and iterations that I have set up. I then go to my team configuration just to validate that things are all in the right place. This is where you can see the Epics, Features, and Backlog Items. By default, when you create a team, it's Backlog Items and Features. I'm going to take that Features out, and now that will not be shown for this Scrum team at all. 
+
+  Down the bottom here, you can see how I'm going to work with Bugs. I always pick Bugs to be managed with requirements. I have a blog post called the "Bug as a Task Anti-Pattern" blog post that I'll put in the comments that you should go take a look at and make a decision. I've decided that I want Bugs managed with requirements. You can also choose Bugs to be managed with tasks, and you can also choose we're not going to manage Bugs on the backlog or boards at all; we're going to keep them separate. 
+
+  I don't recommend that either; Bugs are just backlog items that we need to work with and deliver and do stuff with. But in this context, you can see at the top here I've got the context of my team, and what I've got is I've got iterations that are assigned to this team. This is irrespective of the iterations that we've created; this is which ones are assigned to this team. 
+
+  I've gone ahead and assigned iterations 1 to 10 to this team, and you can see the dates don't overlap there. If I click on areas, you'll see I have one area assigned to this team; it's the default area, and it's for Scrum Team 2, which matches the team name. So that's very straightforward and very simple in there. 
+
+  If I were to switch to the kind of parent team that is looking down across everything, I have the main area path, which is the same as the project name here, and I've got sub-areas included. This team will be able to see all of the sub-areas, and in the iterations, instead of adding the individual Sprints, because this is like the higher-level overview, I'm adding the seasons. 
+
+  If we're planning the seasons, we go to this level; if we're planning the Sprints, we go to the lower level. Now you have an understanding of hopefully where to go look to find the configurations, where to set up some of the things that will manage the way your team looks. Each team has its own area inside of this project, and you can control what columns are available on your backlog, what columns are available on your boards, how things are laid out per team. 
+
+  The states on the work items are the same across everybody, so if we were doing reporting across a bunch of Scrum teams, we would use the state-based transition. If we're doing reporting on one Scrum team, we would just use the column-based transition. 
+
+  I'm going to just go to the backlog first for this team, which team I am Scrum Team 2. Perfect, that's the one I want to be looking at. The first thing that we're probably going to look at is refinement. How do we do refinement in Azure DevOps? Well, refinement is all of the work that we do against the product backlog items as opposed to the in-Sprint work, which is against the product itself, right? That results in the increment. 
+
+  Everybody on the team, the product owner, the developers, perhaps other people involved in this story, are going to be doing both of those things all of the time. Some people will spend more time in refinement and less time in delivery; some teams will spend more time in delivery and less time in refinement, and perhaps it will change over time. That's just the way it is. 
+
+  During refinement, you're going to be looking at these backlog items; you're going to be understanding what's coming up next, right? How far into the future are you looking? You might do some long-term planning; you might do some dependency management around these items, and your main friend here is the tagging system. This is your main friend; we want to be able to manage this backlog by filtering the items. 
+
+  Filtering is hugely important because it allows us to group items that might not be together in importance but are together in another context, another type of slicing. For example, in here, I have a bunch of tags already added to these items, so I have a bunch of items that are associated with a particular product that we're integrating in. These are integration points. 
+
+  I have some different categorizations of work that might have more importance for certain groups of people in here as well, so they can filter by their slice. I have some work in here that is to do with a particular feature that we might be working on, and I have some external stakeholders to our team. We've got some external stakeholders to our team, and some of them are running projects that go across the entire organisation and a bunch of different products. Our product might have some work in it that we're doing to support them with our product, and they want to be able to see what's going on, ask us questions, and we want to collaborate on those items. 
+
+  So I'm going to show you how I can do some of those things in here. Right now, this is my backlog. This is an ordered list; no two have the same order number, and I can drag and drop these around and put them in a different area. If I have a really big backlog, don't have one of those; practice lean inventory control. But I can select a bunch of items, and I can move to a particular position, like send to the top or send to somewhere where we're going to then do some fine-grained checking. 
+
+  Don't have that many items that need to do that. If you can't actually grab it and drag it and scroll, you probably have too many items in your backlog. That's probably a good litmus test there. So here I'm going to be filtering. Over on the right-hand side here, there's a filter button; you can see that highlighting. I'm going to click on filter, and I'm going to do refinement, and we want to filter by the thing that we're looking at. 
+
+  The project manager who's running this cross-cutting project has been feeding some items into our backlog and is asking us, can we collaborate on some items? Can we figure out if we can, you know, they need to be different, break them down? Do we have the right thing? We want to have a conversation, so we're going to get in a room, do a little bit of refinement, and I'm going to click on tags, and I'm going to find Project A. There it is, and I'm going to filter by those items, and we're going to have a conversation about them. 
+
+  It will show the actual order relative to right, so this is number 11 on the total backlog. Number one and two are not part of this project. If I turn the filter off, take the filter off, and take like, where's Project A? I'm going to put it way down here, and then I'm going to filter by Project A again. There we go; you'll see there's that 24, 10, and 24 because I just moved that item further down. 
+
+  So now we can have a conversation about relative to the rest of the backlog where these things are. I can't drag and drop these things around anymore; it won't actually let me do that. I'll drop it, and nothing will happen, but I can have a conversation around these items. We can open them up; we can edit them; we can break one down into smaller ones; we can delete that other one. We can do anything we want at this. 
+
+  We might do some forward planning; we might assign them to different Sprints, so it's quite easy to do that. On the right-hand side, I have a planning panel. If I click on more actions, view options, I can turn on and off planning down here. Planning is quite useful, so I might say that these two are in Sprint 7. These ones here I probably can't; oh, I can do that. There we go; they're going to be in Sprint 8, and these two are going to be in Sprint N. 
+
+  That's through the conversation we've been working with the whole team. We've taken a guess at what these things are, so this is not, they're not actually going to be in that Sprint. The team still has to have a conversation during Sprint planning, but I might be looking out a little bit into the future, seeing what's going on, figuring out what's happening. 
+
+  Now my filtering is way more powerful than that. I'm going to take off Project A. What I might have is I might say, well, I want to see Feature A, and here's Feature A here, and I want to say, and Compliance Check, there it is. There's only one item in Feature A for Compliance Check, but if I take off it, you can see the rest of the Compliance Check items here. 
+
+  So you can create multiple slices; you can do ORs or ANDs in how you view these slices in your backlog so that you can decide what it is you're doing, what you're opening up, what you're editing, and what you're doing in here. You can tag people and have conversations and track those things as you're going through. This is a really powerful tool for storing the result of your refinement. You still have to do the refinement.
+
+  The first event that you're going to do as a Scrum team is Sprint planning. When you're planning your Sprint, just as in refinement, you're going to need to look at the contents of your Sprint. You're going to need to have a conversation about what your Sprint goal is going to be. You're perhaps going to store your Sprint goal somewhere, and then you're going to have a conversation about what do we need to do to fulfil that Sprint goal and then what other sorts of work are we going to take into the Sprint. 
+
+  Azure DevOps is going to store the outcome of that conversation, but you still need to have that conversation, facilitate that conversation as a team. We might decide that in order to facilitate this next Sprint, the most important thing that we can be working on is the group of work that results in Feature A. We think we've got enough together to be able to create something viable value that we can ship in our product, and we think it fits quite snugly into our Sprint with lots of other room for other things that we're going to do. 
+
+  So I'm going to filter to Feature A, and here are the items that we're going to do. We can see there's a couple of items that are left over from the previous Sprint. Sprint 6 was the last Sprint; our current Sprint that we're going to be working on is Sprint 7. What I actually want to do is move all of these items into Sprint 7, so I'm just going to drag and drop, and you can see that's updated that iteration path. 
+
+  So you can see there's what, 1, 2, 3, 4, 5, 6, sixish items, but we have 11 items total in the Sprint. That's fine; these are the things that are going to be our Sprint goal. We're going to commit to our Sprint goal. If anything happens that's unto, we're going to focus on the Sprint goal, and other things drop away. This is our one most important thing that we're going to do. 
+
+  You might have multiple things that you're going to do in a Sprint, but pick one as this is the one that we're going to prioritise over all other things. If we have to make choices, hopefully everything goes great and we don't have to make choices, but not everything always goes great, right? 
+
+  So those have been moved into the Sprint. I can actually now click on Sprints on the left there, and it should default to Sprint 7, which is our current Sprint, and now I can see just the work that has been assigned to the Sprint. These things should be approved; I've not actually done that yet, so I'm just going to edit that state and move them to approved state. 
+
+  Because why would you bring stuff that's not approved into the Sprint, right? That's data cleanliness problems creeping in, and you'll see that a few times as we go through. I'll always try and fix it as I go because the demo gods, right? So we do have a couple of items that were brought over from the previous Sprint. This is totally fine if you have a flow focus, and you're modelling the flow of work. 
+
+  Sprint planning is the end of the Sprint; it's not like a hard deadline. You're going to have activities; you're going to have changes that are going to take multiple Sprints to be able to deliver. If you're three days before the end of a Sprint and there's the next most important thing that's the product owner, there we have a conversation. The next most important thing is a six-day task. Sure, we can start it, and that's totally fine, and it will just flow into the next Sprint. 
+
+  That is predicated on us having awesome engineering practices where we can hide that behind feature flags so we can still continuously ship to production. We still have a usable working increment, at least for the Sprint review, while still continuing to do work. But maybe we take that cut of the usable working increment if that's how we're working. We take that cut prior to starting that work, and that's the version that we're going to show at the Sprint review, and then we're going to start some more work that is going to lead into the next point. 
+
+  That's totally, totally fine; do it as you see fit as long as you have that usable working increment that's of value to somebody to show at the Sprint review. All of that is okay; it's okay to do that. 
+
+  So here I have these items; we can reorder them inside of this Sprint backlog. That will affect the product backlog, so just be careful with that. We can maybe create some kind of plan to complete these items. If I add, I should be able to add tags on here. Tags. Oh joy, that's... I don't know why I did that. Joys of JavaScript. 
+
+  Lovely. So we'll be able to see what features we've got. I should be able to filter these by tags, so there's the important stuff for Feature A, and then there's all of the stuff that we're going to be working on during this Sprint. Great, we're going to create a plan to complete those items. That could just be a whiteboard plan that we agree as a team, or if you do want, you can create subtasks for these items. 
+
+  You can do that by clicking on the taskboard here, and in the taskboard, you'll see the items pinned to the left, and you're able to add tasks to this board. You don't have to do tasks; I generally don't recommend using this board apart from for planning purposes. It's quite useful for that. In general, I'm going to be focusing on the flow of value through the system. 
+
+  But during Sprint planning, I might indeed use some of these ideas. The second event that you're going to hit, and you're going to hit it loads of times, is your daily Scrum. When you get into your daily Scrum, probably one of the better views is the board view. So you're going to be looking at this board and seeing what's happening with the flow of work, trying to identify if there are any issues in your board. 
+
+  You can remember if I marked all those items as active and I've hit the WIP limit because I'm silly and I haven't built my board very well at the moment, but this is just the default board. If you remember the states on the work items: new, approved, in progress, done. If you're using flow metrics, then the flow metrics that come out of the box in Azure DevOps, if I do this, the flow metrics start at a particular time. 
+
+  You've got cycle time and lead time. Now we all know that lead time is a special type of cycle time, and they're all cycle times. If I do into approved to leaving approved, that's a cycle time, but those words have been defined within the context of Azure DevOps for their reporting. If you put on a cycle time graph, the cycle time graph is between these two points. 
+
+  When it moves into in progress, the cycle time timer will start. When it moves out of in progress, the cycle time start timer will finish, and this line over here is the lead time. So as soon as it crosses into new, your timer is starting. That's not always ideal. I do recommend using a tool called Actionable Agile; I'll cover that in another video. 
+
+  But it does allow you a lot more flexibility in how you want to report on this data and how it gives you more insights into what's going on. But for this video, I'm going to show you the out-of-the-box capabilities. So one of the things that we would expect to do as a team is have perhaps a more interesting board, a little bit more planning going on, a little bit more decision rather than just using the out-of-the-box states. 
+
+  These are the minimum states that work goes through. I highly recommend not adding more states to the process but instead just columns to the board. If you have a state that has to be true across that every work item will go through that state and you want it to be applied to every team, then add a customisation. But don't do a customisation for blocked; that should be a tag. Don't do a customisation for on hold or any intermittent states that a piece of work might not enter. 
+
+  The states on your board should be a card that should flow from left to right through all of the states ideally. This should be the common cause, and then we can deal with exceptions separately, preferably using tags. I'll show you that in a minute. But what I want to do for my daily, I'm going to be looking at the things that are in progress. 
+
+  You'll remember that I had some stuff that's approved that we haven't started yet. If we've not augmented this board, I would probably move all of those items to in progress as soon as they hit the Sprint, but I don't want to do that. That seems to me a little bit basic. So what I want to do instead is I want to take this in progress column, and I want to split it into multiple columns. 
+
+  So I'm going to do that now. If you go over to the little cog on the top right, this is for my daily. You're going to see lots of options. Now we can customise the fields that are available on the work item, so we can add additional fields. We can customise and add some style rules that can apply either to the colour of the card or titles. We can apply style rules based on field values on whatever it is we want. 
+
+  We can add tag colours. My favourite one is I've always... oh, I don't have a block; I haven't added blocks to anything. But I'm going to add a blocked colour, make it like some really bright red. That's going to be my... that's going to highlight any blocked items on my board, give you a visual indicator. You have some annotations; subtasks can be added on here as well. I've got that added; I'll show you how that works for creating the plan or changing the plan. 
+
+  What we're going to do is we're going to add an additional column. So I want to take in progress, and I kind of want to split it. I want to... what am I going to do? Let's split it into options, I guess. So let's change this to options because we want things to be coming into our Sprint, and then we're going to pick from those options, and then we're going to replenish those options during Sprint planning, right? That's our general cycle. 
+
+  We can replenish any time, but that's our general cycle. So this is going to be in the in progress state. There you can see the mapping of the states on the work item to the name of the column. So what I'm going to do is I'm going to add a new column. I'm going to insert right, and this new column is also going to be for in progress for both work items. But what are we going to call it? 
+
+  Let's call this develop. I can't spell; let's just call it develop. I definitely can't spell, so you'll see that as well throughout. Develop, and then we're going to put a new one to the right called validate. Develop is going to be split into doing and done columns, but validate isn't. Yeah, that's what I'm going to do. 
+
+  So now, obviously, this would not be done arbitrarily; your team would get together and have an agreement on what this is. But now I have my options column, so what I'm going to do is I'm going to move all of those items that I wanted in this Sprint into the options column. Yeah, that's what I'm going to do for this one. I actually have an idea for how I would set this up, but again, that should come out in the wash. 
+
+  So I'm going to move all of these states to in progress. This is me starting all the work at the beginning of the Sprint. Not always the best one for flow, but you can plan around that. So see everything's jumped over into options. Now we can say I'm going to pull this into doing for develop, and we're going to have a few items in there. 
+
+  I'm going to push a few items in here just so the board looks a bit nicer, just for fun. As things move across the board, I've got my options, which is my Sprint backlog. I'm going to pull things into develop, and I'm going to do something in there. Okay, and then as things move into develop, we think it's finished, and then at some point, we're going to pull things from done into validate, and somebody's going to do some validation. 
+
+  It could be any member of the team. The basic validation that we do is we check against the definition of done. Let's double-check; let's double make sure that things meet the definition of done. If it does meet the definition of done, we then push it into done. I don't know if you saw that, but as soon as I pushed it into done, the states changed to done. 
+
+  So the columns here, if I'm just going to take an item, I'm going to highlight it. Let's highlight it as blocked because I just want you to be able to see it. There we go; so I have this red, this is the red card, right? It's in approved in this column, and when I move it into options, it moves to in progress. 
+
+  As soon as I move it into develop, the in progress doesn't change because these three columns are all in progress. Validate... oh, see, this is how... why you test stuff. I put that... let's move that back, fix that validate column. I did that wrong. Approved in... oh, in progress, yes, I know. Save that; there we go. 
+
+  Now I can take that column and put it in validate, and it ends up in progress. There we go, perfect. Now I can look at this board during my daily. I can see what's going on; I can see the work flowing across the board. The next event in Scrum is the Sprint review. 
+
+  There are some data points that you might want to look at in the Sprint review. Most of those I would get actually from Actionable Agile again, but there are probably some things that I'm going to look at. I might jump over to my Sprint, and I'm going to say what of these items is done, and I'm going to cheat. I'm going to change the tag to that, not Project A, Feature A, and we're going to mark all of those things as done. 
+
+  There we go, and then I'm going to... so during this Sprint, we managed to get all of the things for our Sprint goal completed, so they're all marked as done. We're all good to go. That's what we're going to show the stakeholders, and separately, we're going to do perhaps we're going to do a demo. 
+
+  We're going to show what was created against what we've got in here, but then the next part of our Sprint review, which is arguably the most important part, is we need to figure out whether our product backlog still reflects transparency of the future, still reflects the work we have to do next. So we're going to have conversations with the stakeholders that come to our Sprint review with the team. 
+
+  We're going to collaborate on what's happening in the business, what's happening in the market, what's happened in the product, what are the choices that we've made. We're going to put that all together in a big melting pot, and we're going to go update the product backlog, which it looks like I have. Oh, because it's got a filter on there; that's why. 
+
+  There we go; we're going to go update the product backlog. So the product backlog is not going to include any of the items that are already done; it's going to include the items that are still to do. Since these are in progress, I might like to actually just stick them up the top. There we go, and now we're probably definitely going to do these things. They've already been started. 
+
+  I'll perhaps show you how to not have to have them started, and then I've got some work here that is coming up next. This has been approved; we need to go refine these items. We need to have this conversation during Sprint review where we talk about what needs to change here. 
+
+  I would like to see physical changes in the product backlog during that event because the next thing we do after a Sprint review is we're going to go into the retro, and then we're going to go into next Sprint planning. Who's going to update the product backlog between those items? Probably nobody. 
+
+  So this is the last moment we have to get those changes in. I'd be opening these items; I'd be making changes. We'd be talking to the stakeholders about it. Does this still reflect what it is we need to do? Are there changes that we've learned? Maybe the stakeholders have gone and talked to additional people in the organisation, and they want to bring in some changes. 
+
+  These are all... maybe there's a whole body of new work that needs to go in here. We can start creating it now so that we have the best possible product backlog for going into the next Sprint planning. If there's a bunch of stuff we really don't understand, perhaps they need to be able to go on a list of we're going to need to get together with these stakeholders and discuss and refine more things into the product backlog during the next Sprint because that's work that happens all the time. 
+
+  Refinement happens all the time, but what's the important stuff we need to update here to get straight into the next Sprint? Feedback or core changes, anything like that should be in there. The last event in Scrum is our Sprint retrospective. I'm probably not going to spend as much time in Azure DevOps during my retrospective. 
+
+  We might have a conversation about things that happened during the Sprint, things that were left over, things that were difficult. We might need to go look at some items in the product backlog and discuss why they were so difficult, what did we not understand, and we might do some root cause analysis on that. But in general, we're probably going to be having separate conversations: people, processes, tools, relationships, all of those things are on the table for the Sprint retrospective. 
+
+  I wanted to show you a board that was done a little bit differently. So here I have a board where I have the backlog on the left-hand side. So I have a column for backlog, so that's the new state. If you remember, we had the approved state, and I've renamed the approved state to Discovery and set it as doing and done. 
+
+  So I have that doing and done in here. I've colour-coded these items because they're too big, so I've got a field called item size, and it has unsized, right-sized, and oversized, with unsized being the default. So if it's oversized, then it's going to highlight that we need to do some refinement work, and that's where in this discovery column doing, I wouldn't expect to see anything with this orange title any further. 
+
+  This needs to be broken down, refined a little bit more. This might split into multiple items before we start bringing it into that discovery done column. This is where we might do some usability analysis; we might do some user studies; we might do paper prototyping. 
+
+  All of those things in this column, if you're doing a lot of those things, you might split it out into multiple columns for how you're going to process that work. Then it moves into analysis at the beginning of the Sprint. If you remember our timer starting for... oh, that's not the right one. That one, our timer for cycle time is between these two lines within this box. 
+
+  Cycle time starts here at analysis, whereas lead time starts all the way over here, and that's for the built-in stats. Hopefully, this gave you some ideas about how you can use Azure DevOps to support your Scrum environment. If you're more interested in the board and the columns, I have a Kanban session that goes a lot more in-depth into that story as well. 
+
+  If you do have any questions, put them in the comments below and get in touch if you need any help.
+
