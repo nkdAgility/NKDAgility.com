@@ -126,11 +126,11 @@ function Generate-CombinedCaptions {
     Write-Host "Saved full JSON file: $jsonFilePath"
 
     # Split into word count-based chunks and generate index files
-    Write-Host "Splitting YAML file into word-based chunks..."
-    Split-Data -data $captionsData -baseName "collection.captions" -extension "yml" -wordLimit $maxWordCount
+    #Write-Host "Splitting YAML file into word-based chunks..."
+    #Split-Data -data $captionsData -baseName "collection.captions" -extension "yml" -wordLimit $maxWordCount
 
-    Write-Host "Splitting JSON file into word-based chunks..."
-    Split-Data -data $captionsData -baseName "collection.captions" -extension "json" -wordLimit $maxWordCount
+    #Write-Host "Splitting JSON file into word-based chunks..."
+    #Split-Data -data $captionsData -baseName "collection.captions" -extension "json" -wordLimit $maxWordCount
 
     Write-Host "Caption processing completed."
 }
