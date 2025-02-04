@@ -2,7 +2,7 @@
 title: Without Delivery, There Is No Value
 description: Everything before delivery is an assumption, and all non-delivered product represents a cost of delay. Learn why frequent delivery is critical to maximising value.
 ResourceId: UfdnQrxv5iF
-ResourceImport: true
+ResourceImport: false
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2025-02-10T09:00:00
