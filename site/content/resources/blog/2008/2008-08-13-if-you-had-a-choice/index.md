@@ -2,6 +2,7 @@
 title: If you had a choice!
 description: Join the discussion on your preferred platform for Visual Studio 2008! Share your choice among XP, Vista, and more. Let's find out what .NET developers love!
 ResourceId: 689UIOKlBfJ
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 209
 ResourceImportSource: Wordpress

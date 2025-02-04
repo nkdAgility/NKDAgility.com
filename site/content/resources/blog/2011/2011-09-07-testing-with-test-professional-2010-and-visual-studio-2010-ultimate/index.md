@@ -2,6 +2,7 @@
 title: Testing with Test Professional 2010 and Visual Studio 2010 Ultimate
 description: Join our Testing with Test Professional 2010 course to enhance your skills in Visual Studio ALM. Limited seats available for this remote training!
 ResourceId: SPcXGSE8VUI
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 3776
 ResourceImportSource: Wordpress

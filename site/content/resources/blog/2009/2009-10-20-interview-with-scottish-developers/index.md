@@ -2,6 +2,7 @@
 title: Interview with Scottish Developers
 description: Join Martin Hinshelwood as he shares insights from his interview with Scottish Developers, exploring the tech scene and personal reflections. Read more!
 ResourceId: -9zhZou8GwO
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 85
 ResourceImportSource: Wordpress

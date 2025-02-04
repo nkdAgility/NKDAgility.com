@@ -2,6 +2,7 @@
 title: Should the Scrum Master always remove impediments?
 description: Explore whether a Scrum Master should always remove impediments. Discover key insights to empower your team and enhance self-sufficiency in Scrum.
 ResourceId: xPJL0I4sjDJ
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 39856
 ResourceImportSource: Wordpress

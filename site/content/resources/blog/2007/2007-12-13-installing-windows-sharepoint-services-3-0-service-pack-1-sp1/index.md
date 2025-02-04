@@ -2,6 +2,7 @@
 title: Installing Windows SharePoint Services 3.0 Service Pack 1 (SP1)
 description: Learn how to install Windows SharePoint Services 3.0 SP1 with ease. Troubleshoot common issues and enhance your SharePoint experience effectively!
 ResourceId: kTx0ZCg43dC
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 275
 ResourceImportSource: Wordpress

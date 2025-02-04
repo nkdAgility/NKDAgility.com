@@ -2,6 +2,7 @@
 title: What's new in Visual Studio 2013 Team Foundation Server Preview
 description: Discover the latest features in Visual Studio 2013 Team Foundation Server! Enhance your agile practices with powerful tools for collaboration and testing.
 ResourceId: V5OQtr0U1IS
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 9677
 ResourceImportSource: Wordpress

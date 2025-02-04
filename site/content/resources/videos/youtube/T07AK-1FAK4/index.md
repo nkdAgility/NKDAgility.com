@@ -3,6 +3,9 @@ title: 7 signs of the agile apocalypse. The Antichrist
 description: 'Discover the 7 signs of the #Agile apocalypse! Martin Hinshelwood reveals how fake experts threaten true #Agile success. #Shorts #AgileTraining'
 date: 2023-11-07T07:36:21Z
 ResourceId: T07AK-1FAK4
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: T07AK-1FAK4
 url: /resources/videos/:slug
 slug: 7-signs-of-the-agile-apocalypse-the-antichrist
@@ -12,6 +15,7 @@ aliases:
 - /resources/videos/T07AK-1FAK4
 - /resources/videos/7-signs-of-the-agile-apocalypse-the-antichrist
 - /resources/7-signs-of-the-agile-apocalypse-the-antichrist
+- /resources/T07AK-1FAK4
 preview: https://i.ytimg.com/vi/T07AK-1FAK4/maxresdefault.jpg
 duration: 42
 isShort: true

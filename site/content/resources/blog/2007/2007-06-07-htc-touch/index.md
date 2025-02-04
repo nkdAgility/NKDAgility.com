@@ -2,6 +2,7 @@
 title: HTC Touch
 description: Discover the HTC Touch, a groundbreaking competitor to the iPhone, blending functionality and style for mobile enthusiasts. Find out why it's a must-have!
 ResourceId: nPextmaNube
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 385
 ResourceImportSource: Wordpress

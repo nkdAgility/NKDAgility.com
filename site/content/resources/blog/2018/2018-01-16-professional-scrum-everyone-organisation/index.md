@@ -2,6 +2,7 @@
 title: Professional Scrum is for everyone in your organisation
 description: Discover how Professional Scrum can empower everyone in your organization to enhance collaboration, drive value, and embrace agile transformation.
 ResourceId: Cr7wjIJ8Uvb
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 38287
 ResourceImportSource: Wordpress

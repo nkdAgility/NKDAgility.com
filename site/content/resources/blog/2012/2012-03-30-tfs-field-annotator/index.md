@@ -2,6 +2,7 @@
 title: TFS Field Annotator
 description: Discover the TFS Field Annotator to track changes in TFS Work Items effortlessly. Enhance your workflow with easy field history access. Download now!
 ResourceId: Nb7mmrBQDyM
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 5061
 ResourceImportSource: Wordpress

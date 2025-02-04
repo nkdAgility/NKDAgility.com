@@ -2,6 +2,7 @@
 title: TFS Speed Problems
 description: Struggling with Team Foundation Server speed issues? Discover tips to diagnose and improve performance for a smoother development experience!
 ResourceId: OeHyC7ftjHo
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 395
 ResourceImportSource: Wordpress

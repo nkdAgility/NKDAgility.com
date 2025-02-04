@@ -2,6 +2,7 @@
 title: 'Finding features: Conversations'
 description: Explore the features of Office 2010 through engaging email conversations. Discover how to streamline your inbox and enhance your productivity today!
 ResourceId: hqtW-w7ZTE1
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 101
 ResourceImportSource: Wordpress

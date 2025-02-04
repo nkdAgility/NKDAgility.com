@@ -2,6 +2,7 @@
 title: Loosing the battle, but the war goes on
 description: Join Martin Hinshelwood as he navigates the challenges of promoting TFS over Jira and Subversion, sharing insights on team dynamics and project management.
 ResourceId: eDmNn28RPGH
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 367
 ResourceImportSource: Wordpress
@@ -26,6 +27,8 @@ aliasesFor404:
 - /blog/loosing-the-battle-but-the-war-goes-on
 - /loosing-the-battle,-but-the-war-goes-on
 - /blog/loosing-the-battle,-but-the-war-goes-on
+- /loosing-the-battle--but-the-war-goes-on
+- /blog/loosing-the-battle--but-the-war-goes-on
 tags:
 - fail
 - tfs

@@ -3,6 +3,9 @@ title: People Drive Solutions, Tools Just Pave the Way! Agile and DevOps are abo
 description: "Discover the true essence of DevOps! Join Martin as he explores the people-driven philosophy behind successful implementations, beyond just tools. \U0001F680\U0001F4A1"
 date: 2023-06-07T07:00:02Z
 ResourceId: BhGThHrOc8Y
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: BhGThHrOc8Y
 url: /resources/videos/:slug
 slug: people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
@@ -12,6 +15,7 @@ aliases:
 - /resources/videos/BhGThHrOc8Y
 - /resources/videos/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
 - /resources/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
+- /resources/BhGThHrOc8Y
 preview: https://i.ytimg.com/vi/BhGThHrOc8Y/maxresdefault.jpg
 duration: 243
 isShort: false

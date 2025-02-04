@@ -2,6 +2,7 @@
 title: 'The Race for Market Responsiveness: A Fresh Perspective on Organisational Agility'
 description: Discover how to enhance your organization's agility and market responsiveness. Learn to pivot swiftly and seize opportunities faster than competitors.
 ResourceId: Jz5uZMzPiRx
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 49732
 ResourceImportSource: Wordpress

@@ -2,6 +2,7 @@
 title: I hope you did not pay for Microsoft Office Sharepoint Designer 2007
 description: Discover how to get Microsoft Office SharePoint Designer 2007 for free! Save money and enhance your business tools without the hassle of purchasing.
 ResourceId: RQY0XkuFgIq
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 131
 ResourceImportSource: Wordpress

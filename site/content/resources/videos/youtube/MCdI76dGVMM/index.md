@@ -3,6 +3,9 @@ title: Hardest part of becoming a professional Scrum Master?
 description: 'Discover the toughest challenge in becoming a professional Scrum Master with Martin Hinshelwood. Join us for insights on agile success! #Scrum #Agile #Shorts'
 date: 2023-08-02T07:00:12Z
 ResourceId: MCdI76dGVMM
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: MCdI76dGVMM
 source: internal
 url: /resources/videos/:slug
@@ -17,6 +20,7 @@ aliases:
 - /resources/videos/hardest-part-of-becoming-a-professional-scrummaster-
 - /resources/videos/MCdI76dGVMM
 - /resources/hardest-part-of-becoming-a-professional-scrummaster-
+- /resources/MCdI76dGVMM
 sitemap:
   filename: sitemap.xml
   priority: 0.6

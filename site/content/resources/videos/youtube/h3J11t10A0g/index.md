@@ -3,6 +3,9 @@ title: Escaping the Deadline Death Spiral
 description: Join Martin Hinshelwood as he tackles missed deadlines and budget overruns in software projects, sharing Agile insights for better outcomes.
 date: 2024-12-02T06:00:00Z
 ResourceId: h3J11t10A0g
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: h3J11t10A0g
 source: youtube
 url: /resources/videos/:slug
@@ -13,6 +16,7 @@ aliases:
 - /resources/videos/h3J11t10A0g
 - /resources/videos/escaping-the-deadline-death-spiral
 - /resources/escaping-the-deadline-death-spiral
+- /resources/h3J11t10A0g
 preview: https://i9.ytimg.com/vi/h3J11t10A0g/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAhUizbYFa1tDhewD44yi7B6ksFVQ
 duration: 169
 isShort: false

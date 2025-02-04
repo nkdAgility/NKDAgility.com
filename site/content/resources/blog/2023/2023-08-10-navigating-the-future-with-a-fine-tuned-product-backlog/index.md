@@ -2,6 +2,7 @@
 title: Navigating the Future with a Fine-Tuned Product Backlog
 description: Discover how a well-ordered Product Backlog can guide your Agile projects to success. Learn essential strategies for effective backlog management today!
 ResourceId: hWDjTSSBUJh
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 49510
 ResourceImportSource: Wordpress

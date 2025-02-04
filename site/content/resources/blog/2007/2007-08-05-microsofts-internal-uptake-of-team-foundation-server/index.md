@@ -2,6 +2,7 @@
 title: Microsoft's internal uptake of Team Foundation Server
 description: Explore Microsoft's internal adoption of Team Foundation Server, showcasing its impact on development teams and the future of Visual Studio. Discover more!
 ResourceId: 1NIc24-e5FY
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 343
 ResourceImportSource: Wordpress

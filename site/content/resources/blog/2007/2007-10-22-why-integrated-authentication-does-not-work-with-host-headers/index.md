@@ -2,6 +2,7 @@
 title: Why Integrated Authentication does not work with host headers!
 description: Discover why Integrated Authentication fails with host headers in TFS and learn how to resolve the 401.1 error for smoother access. Get insights now!
 ResourceId: WqcZtyTF5t3
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 296
 ResourceImportSource: Wordpress

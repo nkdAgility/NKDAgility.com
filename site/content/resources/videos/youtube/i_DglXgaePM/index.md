@@ -3,6 +3,9 @@ title: Slaying the dragons and how to successfully descale at scale with BCS & F
 description: Discover how successful organisations are overcoming the challenges of scaling agile. Learn the secrets to effective software delivery and transformation!
 date: 2020-03-25T21:07:01Z
 ResourceId: i_DglXgaePM
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: i_DglXgaePM
 url: /resources/videos/:slug
 slug: slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-&-fows
@@ -12,6 +15,7 @@ aliases:
 - /resources/videos/i_DglXgaePM
 - /resources/videos/slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-&-fows
 - /resources/slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-&-fows
+- /resources/i_DglXgaePM
 preview: https://i.ytimg.com/vi/i_DglXgaePM/maxresdefault.jpg
 duration: 5631
 isShort: false

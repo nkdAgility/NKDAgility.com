@@ -3,6 +3,9 @@ title: 'The Power of Immersive Learning: Elevating Scrum Mastery in Your Organiz
 description: "Unlock your team's potential with immersive Scrum training! Discover practical insights and transform learning for effective team development. \U0001F31F\U0001F680"
 date: 2023-11-22T07:00:18Z
 ResourceId: jXk1_Iiam_M
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: jXk1_Iiam_M
 source: internal
 url: /resources/videos/:slug
@@ -16,6 +19,7 @@ aliases:
 - /resources/videos/do-you-think-training-departments-get-a-lot-more-bang-for-their-buck-with-immersive-learning-
 - /resources/videos/jXk1_Iiam_M
 - /resources/do-you-think-training-departments-get-a-lot-more-bang-for-their-buck-with-immersive-learning-
+- /resources/jXk1_Iiam_M
 sitemap:
   filename: sitemap.xml
   priority: 0.6

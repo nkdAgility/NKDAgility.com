@@ -3,6 +3,9 @@ title: 5 tools that Scrum Masters love. Part 4
 description: 'Discover the 4th must-have tool for Scrum Masters! Join us for insights from NKD Agility and elevate your agile journey. #Scrum #Agile #Shorts'
 date: 2023-09-26T07:00:02Z
 ResourceId: 79M9edUp_5c
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: 79M9edUp_5c
 url: /resources/videos/:slug
 slug: 5-tools-that-scrum-masters-love-part-4
@@ -11,6 +14,7 @@ aliases:
 - /resources/videos/79M9edUp_5c
 - /resources/videos/5-tools-that-scrum-masters-love-part-4
 - /resources/5-tools-that-scrum-masters-love-part-4
+- /resources/79M9edUp_5c
 preview: https://i.ytimg.com/vi/79M9edUp_5c/maxresdefault.jpg
 duration: 46
 isShort: true

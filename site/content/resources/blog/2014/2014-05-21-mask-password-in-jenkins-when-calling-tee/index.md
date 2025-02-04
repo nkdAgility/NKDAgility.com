@@ -2,6 +2,7 @@
 title: Mask password in Jenkins when calling TEE
 description: Learn how to mask passwords in Jenkins when using Team Explorer Everywhere to enhance security and prevent sensitive data exposure in your build logs.
 ResourceId: rG_NN58PQym
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 10538
 ResourceImportSource: Wordpress

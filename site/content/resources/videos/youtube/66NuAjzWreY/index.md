@@ -3,6 +3,9 @@ title: 'Mastering Evidence-Based Management in Agile: Inform, Don’t Control'
 description: Discover how Evidence-Based Management (EBM) empowers organisations to make informed, data-driven decisions that enhance outcomes and drive success.
 date: 2024-09-11T13:36:29Z
 ResourceId: 66NuAjzWreY
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: 66NuAjzWreY
 source: internal
 url: /resources/videos/:slug
@@ -15,6 +18,7 @@ aliases:
 - /resources/videos/introduction-to-evidence-based-management
 - /resources/videos/66NuAjzWreY
 - /resources/introduction-to-evidence-based-management
+- /resources/66NuAjzWreY
 sitemap:
   filename: sitemap.xml
   priority: 0.6

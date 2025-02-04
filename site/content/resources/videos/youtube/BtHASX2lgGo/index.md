@@ -3,6 +3,9 @@ title: 5 kinds of Agile bandits. Planning Bandits
 description: "Unmask the burndown trap in Agile! Discover effective sprint planning strategies that prioritise value and adaptability. Watch now! \U0001F680✨"
 date: 2024-01-09T07:00:05Z
 ResourceId: BtHASX2lgGo
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: BtHASX2lgGo
 url: /resources/videos/:slug
 slug: 5-kinds-of-agile-bandits-planning-bandits
@@ -12,6 +15,7 @@ aliases:
 - /resources/videos/BtHASX2lgGo
 - /resources/videos/5-kinds-of-agile-bandits-planning-bandits
 - /resources/5-kinds-of-agile-bandits-planning-bandits
+- /resources/BtHASX2lgGo
 preview: https://i.ytimg.com/vi/BtHASX2lgGo/maxresdefault.jpg
 duration: 324
 isShort: false

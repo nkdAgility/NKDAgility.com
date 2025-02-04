@@ -2,6 +2,7 @@
 title: Move your Azure VM to a Virtual Network
 description: Learn how to move your Azure VM to a virtual network with this step-by-step guide. Optimize your setup for better performance and connectivity!
 ResourceId: nTSBTp1_gBy
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 10874
 ResourceImportSource: Wordpress

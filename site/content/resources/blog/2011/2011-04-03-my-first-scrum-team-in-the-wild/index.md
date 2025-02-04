@@ -2,6 +2,7 @@
 title: My first Scrum team in the wild
 description: Discover insights from my first Scrum team experience, highlighting key practices and lessons learned to enhance your agile journey. Join the conversation!
 ResourceId: ov2kV0DI9xR
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 9892
 ResourceImportSource: Wordpress

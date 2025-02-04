@@ -2,6 +2,7 @@
 title: Solution to sub sites in Sharepoint 3.0 with Team Foundation Server
 description: Discover a practical solution for creating sub sites in SharePoint 3.0 with Team Foundation Server. Streamline your project management today!
 ResourceId: B1bu87flA8w
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 376
 ResourceImportSource: Wordpress

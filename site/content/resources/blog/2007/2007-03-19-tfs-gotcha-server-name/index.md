@@ -2,6 +2,7 @@
 title: TFS Gotcha (server name)
 description: Discover how to tackle TFS installation issues in large networks with proxy servers. Follow our guide to ensure smooth access and setup for your team!
 ResourceId: l7s81fXVkty
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 427
 ResourceImportSource: Wordpress

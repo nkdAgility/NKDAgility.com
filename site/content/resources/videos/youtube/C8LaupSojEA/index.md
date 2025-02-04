@@ -3,6 +3,9 @@ title: The Crown Estate - Writing Better User Stories
 description: Discover how to craft effective user stories with insights from The Crown Estate. Enhance your agile practices and drive better outcomes!
 date: 2021-10-14T13:04:27Z
 ResourceId: C8LaupSojEA
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: C8LaupSojEA
 source: youtube
 url: /resources/videos/:slug
@@ -14,6 +17,7 @@ aliases:
 - /resources/videos/C8LaupSojEA
 - /resources/videos/the-crown-estate-writing-better-user-stories
 - /resources/the-crown-estate-writing-better-user-stories
+- /resources/C8LaupSojEA
 preview: https://i.ytimg.com/vi/C8LaupSojEA/maxresdefault.jpg
 duration: 5380
 isShort: false

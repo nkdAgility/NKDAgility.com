@@ -2,6 +2,7 @@
 title: 'The new ClusterMaps: NeoWORX'
 description: Discover NeoWORX, a powerful tool for visualizing global data in real-time. Learn how it can enhance corporate presentations and streamline operations.
 ResourceId: _tT2jcz-s4u
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 280
 ResourceImportSource: Wordpress

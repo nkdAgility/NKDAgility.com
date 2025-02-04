@@ -3,6 +3,9 @@ title: Pet Peeve in Scrum
 description: 'Join Martin Hinshelwood, Scrum expert, as he shares his biggest pet peeve in Scrum consulting. Discover insights to enhance your Agile journey! #Scrum #Agile #Shorts'
 date: 2023-04-28T09:30:00Z
 ResourceId: 2KovKxNpZpg
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: 2KovKxNpZpg
 url: /resources/videos/:slug
 slug: pet-peeve-in-scrum
@@ -11,6 +14,7 @@ aliases:
 - /resources/videos/2KovKxNpZpg
 - /resources/videos/pet-peeve-in-scrum
 - /resources/pet-peeve-in-scrum
+- /resources/2KovKxNpZpg
 preview: https://i.ytimg.com/vi/2KovKxNpZpg/maxresdefault.jpg
 duration: 32
 isShort: true

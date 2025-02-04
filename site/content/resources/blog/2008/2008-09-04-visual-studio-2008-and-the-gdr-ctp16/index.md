@@ -2,6 +2,7 @@
 title: Visual Studio 2008 and the GDR CTP16
 description: Explore the challenges of using Visual Studio 2008 with GDR CTP16, including dependency issues and solutions for smoother database imports. Dive in!
 ResourceId: BgrdMISXI4W
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 199
 ResourceImportSource: Wordpress

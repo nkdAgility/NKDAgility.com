@@ -2,6 +2,7 @@
 title: What is Taylorism, and why Waterfall is just the tip of the iceberg!
 description: Explore the roots of Taylorism and its impact on modern project management. Discover why traditional methods may hinder innovation and employee engagement.
 ResourceId: wYwQygBrmgx
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 45392
 ResourceImportSource: Wordpress
@@ -27,6 +28,8 @@ aliasesFor404:
 - /blog/what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
 - /what-is-taylorism,-and-why-waterfall-is-just-the-tip-of-the-iceberg-
 - /blog/what-is-taylorism,-and-why-waterfall-is-just-the-tip-of-the-iceberg-
+- /what-is-taylorism--and-why-waterfall-is-just-the-tip-of-the-iceberg-
+- /blog/what-is-taylorism--and-why-waterfall-is-just-the-tip-of-the-iceberg-
 tags:
 - featured
 - taylorism

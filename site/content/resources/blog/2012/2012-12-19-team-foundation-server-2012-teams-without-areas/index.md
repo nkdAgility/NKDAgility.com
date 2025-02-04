@@ -2,6 +2,7 @@
 title: Teams without areas using a team field in TFS
 description: Discover how to configure Teams without areas in TFS for enhanced project management. Learn the steps to optimize your workflow and boost team efficiency!
 ResourceId: 5IipWQTVLEo
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 9188
 ResourceImportSource: Wordpress

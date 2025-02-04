@@ -2,6 +2,7 @@
 title: Slaying the Dragons and How to Successfully Descale at Scale
 description: Discover how to effectively scale agile practices in your organization. Learn the secrets of successful companies and transform your software delivery!
 ResourceId: PLxBb5FqtO-
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 44209
 ResourceImportSource: Wordpress

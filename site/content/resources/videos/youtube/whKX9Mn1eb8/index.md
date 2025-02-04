@@ -3,6 +3,9 @@ title: The superpower of quality engineering
 description: "Discover how quality engineering can transform your projects into success stories. Unlock your team's potential with agile methodologies! #Agile #QualityEngineering"
 date: 2024-11-22T14:04:14Z
 ResourceId: whKX9Mn1eb8
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: whKX9Mn1eb8
 source: youtube
 url: /resources/videos/:slug
@@ -13,6 +16,7 @@ aliases:
 - /resources/videos/whKX9Mn1eb8
 - /resources/videos/the-superpower-of-quality-engineering
 - /resources/the-superpower-of-quality-engineering
+- /resources/whKX9Mn1eb8
 preview: https://i.ytimg.com/vi/whKX9Mn1eb8/maxresdefault.jpg
 duration: 48
 isShort: true

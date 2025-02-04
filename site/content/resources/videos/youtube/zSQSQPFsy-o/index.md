@@ -3,6 +3,9 @@ title: Why is Scrum so easy to understand but incredibly hard to master?
 description: "Uncover why Scrum is easy to grasp but tough to master! Join Martin as he shares insights and strategies for navigating its complexities. \U0001F680\U0001F4A1"
 date: 2023-02-28T07:00:18Z
 ResourceId: zSQSQPFsy-o
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: zSQSQPFsy-o
 source: internal
 url: /resources/videos/:slug
@@ -16,6 +19,7 @@ aliases:
 - /resources/videos/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master-
 - /resources/videos/zSQSQPFsy-o
 - /resources/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master-
+- /resources/zSQSQPFsy-o
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -3,6 +3,9 @@ title: Your Partner in On Time, On Budget Delivery
 description: Unlock your team's potential! Join Martin Hinshelwood as he reveals how to maximise ROI through high-quality work and agile practices.
 date: 2024-12-13T06:30:00Z
 ResourceId: jKXc6hByR_k
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: jKXc6hByR_k
 source: youtube
 url: /resources/videos/:slug
@@ -13,6 +16,7 @@ aliases:
 - /resources/videos/jKXc6hByR_k
 - /resources/videos/your-partner-in-on-time,-on-budget-delivery
 - /resources/your-partner-in-on-time,-on-budget-delivery
+- /resources/jKXc6hByR_k
 preview: https://i9.ytimg.com/vi/jKXc6hByR_k/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLC_neJQ7HQOO8CRb5RGMzl5ZAqXnA
 duration: 172
 isShort: false

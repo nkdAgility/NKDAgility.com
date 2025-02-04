@@ -3,6 +3,9 @@ title: Accelerating Time to Market with a Tight Feedback Loop
 description: Unlock faster market delivery! Discover how to optimise deployment frequency, eliminate bottlenecks, and enhance customer trust in this insightful video.
 date: 2025-01-22T14:16:54Z
 ResourceId: 1-jUmFcyiI8
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: 1-jUmFcyiI8
 source: youtube
 url: /resources/videos/:slug
@@ -13,6 +16,7 @@ aliases:
 - /resources/videos/1-jUmFcyiI8
 - /resources/videos/accelerating-time-to-market-with-a-tight-feedback-loop
 - /resources/accelerating-time-to-market-with-a-tight-feedback-loop
+- /resources/1-jUmFcyiI8
 preview: https://i.ytimg.com/vi/1-jUmFcyiI8/maxresdefault.jpg
 duration: 551
 isShort: false

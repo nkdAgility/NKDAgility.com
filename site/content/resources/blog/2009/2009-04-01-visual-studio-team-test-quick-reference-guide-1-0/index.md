@@ -2,6 +2,7 @@
 title: Visual Studio Team Test Quick Reference Guide 1.0
 description: Discover essential insights in the Visual Studio Team Test Quick Reference Guide 1.0, your go-to resource for troubleshooting and optimizing testing processes.
 ResourceId: FhliT2Rp-7y
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 133
 ResourceImportSource: Wordpress

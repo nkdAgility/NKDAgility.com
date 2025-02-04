@@ -3,6 +3,9 @@ title: Ep 006 - Live Virtual Retrospective on PAL-e with Russell Miller
 description: Join Russell Miller for a live retrospective on PAL-e! Ask Martin, a Scrum Trainer and Azure DevOps MVP, anything from DevOps to Agility.
 date: 2020-04-21T18:01:36Z
 ResourceId: ARWK1wvXYGY
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: ARWK1wvXYGY
 source: youtube
 url: /resources/videos/:slug
@@ -14,6 +17,7 @@ aliases:
 - /resources/videos/ARWK1wvXYGY
 - /resources/videos/ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller
 - /resources/ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller
+- /resources/ARWK1wvXYGY
 preview: https://i.ytimg.com/vi/ARWK1wvXYGY/maxresdefault.jpg
 duration: 1913
 isShort: false

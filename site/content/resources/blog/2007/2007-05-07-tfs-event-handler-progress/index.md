@@ -2,6 +2,7 @@
 title: TFS Event Handler Progress
 description: Discover the latest progress on the TFS Event Handler project, tackling key work items and exploring WCF error handling solutions. Join the journey!
 ResourceId: MY8gn3hmXhh
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 402
 ResourceImportSource: Wordpress

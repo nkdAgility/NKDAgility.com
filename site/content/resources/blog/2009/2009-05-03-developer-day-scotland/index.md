@@ -2,6 +2,7 @@
 title: Developer Day Scotland
 description: Join Developer Day Scotland for insights on refactoring, dynamic languages, and MVVM in WPF. Enhance your coding skills and connect with fellow developers!
 ResourceId: qtc58tBJRtL
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 125
 ResourceImportSource: Wordpress

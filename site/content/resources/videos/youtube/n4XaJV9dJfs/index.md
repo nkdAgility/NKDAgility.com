@@ -3,6 +3,9 @@ title: What is the most useful element of the APS course for beginner Scrum Team
 description: "Unlock Scrum's secrets! \U0001F31F Join Martin as he explores complexity in agile, offering practical insights for beginner Scrum Teams. Dive in now!"
 date: 2023-11-15T07:00:28Z
 ResourceId: n4XaJV9dJfs
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: n4XaJV9dJfs
 url: /resources/videos/:slug
 slug: what-is-the-most-useful-element-of-the-aps-course-for-beginner-scrum-teams-
@@ -12,6 +15,7 @@ aliases:
 - /resources/videos/n4XaJV9dJfs
 - /resources/videos/what-is-the-most-useful-element-of-the-aps-course-for-beginner-scrum-teams-
 - /resources/what-is-the-most-useful-element-of-the-aps-course-for-beginner-scrum-teams-
+- /resources/n4XaJV9dJfs
 preview: https://i.ytimg.com/vi/n4XaJV9dJfs/maxresdefault.jpg
 duration: 219
 isShort: false

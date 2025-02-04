@@ -2,6 +2,7 @@
 title: MSN Cartoon (Beta)
 description: Explore the MSN Cartoon Beta and learn how to create custom avatars with this fun guide. Unleash your creativity and share your unique cartoon self!
 ResourceId: fFkCnlj8PXW
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 347
 ResourceImportSource: Wordpress

@@ -2,6 +2,7 @@
 title: Change of plan
 description: Explore the evolution of a SharePoint project as Martin Hinshelwood rethinks his approach, focusing on debugging and testing for better results.
 ResourceId: KfLCHLNio90
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 224
 ResourceImportSource: Wordpress

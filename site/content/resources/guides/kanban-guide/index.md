@@ -1,16 +1,18 @@
 ---
 title: Kanban Guide
 description: Kanban is a strategy for optimizing the flow of value through a process that uses a visual, pull-based system.
+ResourceId: uD_5MdHKu1Q
 resourceTypes: guide
 layout: guide
 aliases:
-  - /learn/agile-delivery-kit/guides/kanban-guide
+- /learn/agile-delivery-kit/guides/kanban-guide
+- /resources/uD_5MdHKu1Q
 references:
-  - title: The Kanban Guide
-    url: https://kanbanguides.org/english/
+- title: The Kanban Guide
+  url: https://kanbanguides.org/english/
 recommendedContent:
-  - collection: practices
-    path: _practices/service-level-expectation-sle.md
+- collection: practices
+  path: _practices/service-level-expectation-sle.md
 date: 2024-09-17
 creator: Martin Hinshelwood
 card:
@@ -18,8 +20,8 @@ card:
     content: Learn More
   content: Discover more about Kanban Guide and how it can help you in your Agile journey!
   title: Kanban Guide
----
 
+---
 December 2020
 
 By reducing Kanban to its essential components, the hope is that this guide will be a unifying reference for the community. By building upon Kanban fundamentals, the strategy presented here can accommodate the full spectrum of value delivery and organizational challenges.

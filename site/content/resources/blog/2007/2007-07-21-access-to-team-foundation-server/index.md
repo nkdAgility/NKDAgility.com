@@ -2,6 +2,7 @@
 title: Access to Team Foundation Server
 description: Discover how to enhance your TFS skills at home, overcoming limitations of hosted solutions. Unlock the full potential of Team Foundation Server today!
 ResourceId: ttgv7j3g-kW
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 366
 ResourceImportSource: Wordpress

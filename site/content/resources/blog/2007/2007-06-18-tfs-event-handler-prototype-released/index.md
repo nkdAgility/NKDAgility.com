@@ -2,6 +2,7 @@
 title: 'TFS Event Handler: Prototype Released'
 description: Discover the prototype release of the TFS Event Handler by Martin Hinshelwood. Get ready to configure and extend your TFS experience with this innovative tool!
 ResourceId: bfZgaw94nbj
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 380
 ResourceImportSource: Wordpress

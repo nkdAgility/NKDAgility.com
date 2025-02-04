@@ -3,6 +3,9 @@ title: DevOps Migration. Incomplete Migrations
 description: Master Azure DevOps migrations! Learn to tackle incomplete migrations and data loss fears with expert tips for a seamless transition to the cloud.
 date: 2024-11-07T05:45:02Z
 ResourceId: x6a_BuQq580
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: x6a_BuQq580
 url: /resources/videos/:slug
 slug: devops-migration-incomplete-migrations
@@ -12,6 +15,7 @@ aliases:
 - /resources/videos/x6a_BuQq580
 - /resources/videos/devops-migration-incomplete-migrations
 - /resources/devops-migration-incomplete-migrations
+- /resources/x6a_BuQq580
 preview: https://i.ytimg.com/vi/x6a_BuQq580/maxresdefault.jpg
 duration: 186
 isShort: false

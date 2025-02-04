@@ -2,6 +2,7 @@
 title: Developing Peer-To-Peer Applications With WCF
 description: Explore the challenges and insights of developing peer-to-peer applications with WCF. Join Martin Hinshelwood as he shares his presentation experience and tips.
 ResourceId: SlusLOwCCkg
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 317
 ResourceImportSource: Wordpress

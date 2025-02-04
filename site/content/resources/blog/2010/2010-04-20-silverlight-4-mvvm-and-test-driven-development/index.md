@@ -2,6 +2,7 @@
 title: Silverlight 4, MVVM and Test-Driven Development
 description: Join Jesse Liberty in Edinburgh to explore Silverlight 4, MVVM, and test-driven development. Enhance your coding skills and register now!
 ResourceId: n9sGWuBTtUf
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 49
 ResourceImportSource: Wordpress
@@ -26,6 +27,8 @@ aliasesFor404:
 - /blog/silverlight-4-mvvm-and-test-driven-development
 - /silverlight-4,-mvvm-and-test-driven-development
 - /blog/silverlight-4,-mvvm-and-test-driven-development
+- /silverlight-4--mvvm-and-test-driven-development
+- /blog/silverlight-4--mvvm-and-test-driven-development
 tags:
 - code
 - mvvm

@@ -2,6 +2,7 @@
 title: Ghost build controllers in Team Foundation Server
 description: Struggling with ghost build controllers in TFS? Discover effective solutions to identify and delete stubborn builds, ensuring a clean development environment.
 ResourceId: ks3BqiRqWAK
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 39
 ResourceImportSource: Wordpress

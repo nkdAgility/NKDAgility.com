@@ -3,6 +3,9 @@ title: Why is the Professional Agile Leadership Essentials course a natural evol
 description: Discover why the Professional Agile Leadership Essentials course is essential for product owners, enhancing their role in driving value and team success.
 date: 2023-07-28T07:00:14Z
 ResourceId: cFVvgI3Girg
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: cFVvgI3Girg
 url: /resources/videos/:slug
 slug: why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-a-product-owner
@@ -12,6 +15,7 @@ aliases:
 - /resources/videos/cFVvgI3Girg
 - /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-a-product-owner
 - /resources/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-a-product-owner
+- /resources/cFVvgI3Girg
 preview: https://i.ytimg.com/vi/cFVvgI3Girg/maxresdefault.jpg
 duration: 159
 isShort: false

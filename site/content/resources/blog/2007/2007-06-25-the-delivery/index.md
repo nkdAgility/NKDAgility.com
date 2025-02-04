@@ -2,6 +2,7 @@
 title: The Delivery
 description: Join Martin Hinshelwood as he shares the unforgettable story of his daughter's birth, a moment that changed his life forever. Celebrate this special milestone!
 ResourceId: Cy6oTqwpH2P
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 374
 ResourceImportSource: Wordpress

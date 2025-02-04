@@ -3,6 +3,9 @@ title: Advanced PSM II Immersive Learning Classes
 description: 'Unlock better outcomes with our Advanced PSM II immersive classes! Invest in your Scrum Master today. Discover more at nkdagility.com. #agile #scrum'
 date: 2024-09-20T11:04:29Z
 ResourceId: Bi4ToMME8Xs
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: Bi4ToMME8Xs
 url: /resources/videos/:slug
 slug: advanced-psm-ii-immersive-learning-classes
@@ -12,6 +15,7 @@ aliases:
 - /resources/videos/Bi4ToMME8Xs
 - /resources/videos/advanced-psm-ii-immersive-learning-classes
 - /resources/advanced-psm-ii-immersive-learning-classes
+- /resources/Bi4ToMME8Xs
 preview: https://i.ytimg.com/vi/Bi4ToMME8Xs/maxresdefault.jpg
 duration: 20
 isShort: true

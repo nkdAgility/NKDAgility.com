@@ -3,6 +3,9 @@ title: 'Vision, Value, and Validation: The Keys to Successful Product Management
 description: "Unlock the secrets of successful product ownership! Discover Vision, Value, and Validation in our essential guide for aspiring product owners. \U0001F680✨"
 date: 2023-12-14T06:45:02Z
 ResourceId: Tye_-FY7boo
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: Tye_-FY7boo
 source: internal
 url: /resources/videos/:slug
@@ -16,6 +19,7 @@ aliases:
 - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-2
 - /resources/videos/Tye_-FY7boo
 - /resources/5-things-you-would-teach-a-productowner-apprentice-part-2
+- /resources/Tye_-FY7boo
 sitemap:
   filename: sitemap.xml
   priority: 0.6

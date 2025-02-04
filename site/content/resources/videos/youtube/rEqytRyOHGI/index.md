@@ -3,6 +3,9 @@ title: 'Special Sprints: Agile Banditry or Risk Management?'
 description: "Uncover the truth about special sprints in Agile! Join Martin as he reveals their pitfalls and impact on product delivery. \U0001F680\U0001F50D #Agile #SpecialSprints"
 date: 2024-01-04T11:09:15Z
 ResourceId: rEqytRyOHGI
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: rEqytRyOHGI
 source: internal
 url: /resources/videos/:slug
@@ -16,6 +19,7 @@ aliases:
 - /resources/videos/5-kinds-of-agile-bandits-special-sprints
 - /resources/videos/rEqytRyOHGI
 - /resources/5-kinds-of-agile-bandits-special-sprints
+- /resources/rEqytRyOHGI
 sitemap:
   filename: sitemap.xml
   priority: 0.6

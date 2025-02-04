@@ -3,6 +3,9 @@ title: NKD Agility. Your Partner in Cost Effective Software Development
 description: Transform your organisation's value delivery with Naked Agility. Discover strategies for engineering excellence and cost-effective software development.
 date: 2024-12-21T06:00:00Z
 ResourceId: KhKFVRcdbGo
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: KhKFVRcdbGo
 source: youtube
 url: /resources/videos/:slug
@@ -13,6 +16,7 @@ aliases:
 - /resources/videos/KhKFVRcdbGo
 - /resources/videos/nkd-agility-your-partner-in-cost-effective-software-development
 - /resources/nkd-agility-your-partner-in-cost-effective-software-development
+- /resources/KhKFVRcdbGo
 preview: https://i9.ytimg.com/vi/KhKFVRcdbGo/maxresdefault.jpg?sqp=CKzMp7oG&rs=AOn4CLCRuKU6K3gPE5C6uZZipWu40oSNPg
 duration: 150
 isShort: false

@@ -3,6 +3,9 @@ title: PPDV course overview with Dr Joanna Plaskonka
 description: Join Dr Joanna Plaskonka for a quick overview of the PPDV course and discover how to enhance your product discovery skills! Register now!
 date: 2024-08-13T07:14:40Z
 ResourceId: fUj1k47pDg8
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: fUj1k47pDg8
 url: /resources/videos/:slug
 slug: ppdv-course-overview-with-dr-joanna-plaskonka
@@ -12,6 +15,7 @@ aliases:
 - /resources/videos/fUj1k47pDg8
 - /resources/videos/ppdv-course-overview-with-dr-joanna-plaskonka
 - /resources/ppdv-course-overview-with-dr-joanna-plaskonka
+- /resources/fUj1k47pDg8
 preview: https://i.ytimg.com/vi/fUj1k47pDg8/maxresdefault.jpg
 duration: 355
 isShort: false

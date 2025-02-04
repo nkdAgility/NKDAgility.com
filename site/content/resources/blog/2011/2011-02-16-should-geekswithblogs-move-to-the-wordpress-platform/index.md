@@ -2,6 +2,7 @@
 title: Should GeeksWithBlogs move to the Wordpress Platform?
 description: Explore the debate on migrating GeeksWithBlogs to WordPress. Join the conversation and vote for enhanced features and better blogging capabilities!
 ResourceId: INzImndgeUG
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 9895
 ResourceImportSource: Wordpress

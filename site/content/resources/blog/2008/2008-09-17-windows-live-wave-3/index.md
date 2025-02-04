@@ -2,6 +2,7 @@
 title: Windows Live Wave 3
 description: Explore the features of Windows Live Wave 3, including Messenger 9 and Writer. Download the latest betas and enhance your live experience today!
 ResourceId: V2MkZWsiMbX
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 192
 ResourceImportSource: Wordpress

@@ -2,6 +2,7 @@
 title: The Sprint Goal is a commitment for the Sprint Backlog
 description: Discover the importance of the Sprint Goal in Scrum. Learn how it fosters team focus and transparency, driving valuable outcomes in your projects.
 ResourceId: 99LDtXqmRu5
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 45088
 ResourceImportSource: Wordpress

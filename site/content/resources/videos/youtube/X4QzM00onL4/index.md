@@ -3,6 +3,9 @@ title: Chaos - 7 Harbingers agile apocalypse. But shorter!
 description: Discover why chaos threatens agile success! Martin Hinshelwood reveals the pitfalls of chaos in software development. Watch now!
 date: 2023-11-03T05:11:45Z
 ResourceId: X4QzM00onL4
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: X4QzM00onL4
 source: youtube
 url: /resources/videos/:slug
@@ -13,6 +16,7 @@ aliases:
 - /resources/videos/X4QzM00onL4
 - /resources/videos/chaos-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/chaos-7-harbingers-agile-apocalypse-but-shorter!
+- /resources/X4QzM00onL4
 preview: https://i.ytimg.com/vi/X4QzM00onL4/maxresdefault.jpg
 duration: 66
 isShort: false

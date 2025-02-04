@@ -1,0 +1,9 @@
+So the immersive learning experience helps coach people on the job because it's done over a number of weeks. Usually, I think the PSM is eight weeks, the PSPO is seven weeks, and the EPS is ten weeks. So we have one session a week at the beginning of the week, like four hours, and then at the end of that session, you get an assignment that you're able to then do within your organization.
+
+So because you're doing it within your organization, you're then going to come to the next session the next week with, you know, stuff that didn't work out so well, or maybe it was all awesome, right? But be able to get feedback and iterate on some of those ideas.
+
+So at the beginning of each session, apart from the first one obviously, we have a debrief for that exercise, which is why the immersive classes tend to be a little bit smaller, right? Because we've got to go through everybody's debrief and make sure everybody's good and okay. But you're also going to have maybe up to 12, well, 11 other people as well as myself for the trainer that you are able to have a conversation with, right? And see what did they try, right? If everybody had the same assignment, what worked in other organizations? Maybe there's more than one of you from your organization, and you find out that they were successful and you were unsuccessful. And then you can figure out, well, so what did you do differently in the organization that worked out, and what did I do differently that didn't? And how do we share that knowledge and share that experience?
+
+So that's that iterative double loop learning that you get so that you can collaborate not just within your organization but without in the immersive class experience.
+
+Thanks for watching the video. If you enjoyed it, please like, follow, and subscribe. I always reply to comments, and if you want to have a chat about this or anything else agile, scrum, or DevOps, then please book a coffee with me through Naked Agility.

@@ -2,6 +2,7 @@
 title: Why I think VB.NET is a better choice than C#
 description: Discover why VB.NET may be a superior choice over C# for readability, accessibility, and efficiency, especially for developers with dyslexia.
 ResourceId: 1Vt6-eiRtjI
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 340
 ResourceImportSource: Wordpress

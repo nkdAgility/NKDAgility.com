@@ -3,6 +3,9 @@ title: 'Unlocking the Power of Assumptions in Product Development: Why the PPDV 
 description: Unlock the secrets to impactful product development! Join me as I explore the importance of addressing assumptions and creating user-centred solutions.
 date: 2024-08-09T05:27:35Z
 ResourceId: ucTJ1fe1CvQ
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: ucTJ1fe1CvQ
 source: internal
 url: /resources/videos/:slug
@@ -16,6 +19,7 @@ aliases:
 - /resources/videos/ppdv-course-overview
 - /resources/videos/ucTJ1fe1CvQ
 - /resources/ppdv-course-overview
+- /resources/ucTJ1fe1CvQ
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -3,6 +3,9 @@ title: Install TFS 2013 Basic
 description: Join me as I guide you through a straightforward TFS 2013 installation. Perfect for beginners! Apologies for the fan noise—new mic on the way!
 date: 2014-01-14T17:18:19Z
 ResourceId: U7wIQk1pus0
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: U7wIQk1pus0
 url: /resources/videos/:slug
 slug: install-tfs-2013-basic
@@ -12,6 +15,7 @@ aliases:
 - /resources/videos/U7wIQk1pus0
 - /resources/videos/install-tfs-2013-basic
 - /resources/install-tfs-2013-basic
+- /resources/U7wIQk1pus0
 preview: https://i.ytimg.com/vi/U7wIQk1pus0/maxresdefault.jpg
 duration: 722
 isShort: false

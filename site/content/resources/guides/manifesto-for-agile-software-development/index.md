@@ -1,15 +1,17 @@
 ---
 title: Manifesto for Agile Software Development
 description: We are uncovering better ways of developing software by doing it and helping others do it. These are our values and principles.
+ResourceId: poyC7fUGitC
 resourceTypes: guide
 layout: guide
 aliases:
-  - guides/manifesto-for-agile-software-developmen/
-  - /learn/agile-delivery-kit/guides/manifesto-for-agile-software-development
+- guides/manifesto-for-agile-software-developmen/
+- /learn/agile-delivery-kit/guides/manifesto-for-agile-software-development
+- /resources/poyC7fUGitC
 references:
-  - title: Manifesto for Agile Software Development
-    url: https://agilemanifesto.org/
-recommendedContent:
+- title: Manifesto for Agile Software Development
+  url: https://agilemanifesto.org/
+recommendedContent: 
 date: 2024-09-17
 creator: Martin Hinshelwood
 card:
@@ -17,8 +19,8 @@ card:
     content: Learn More
   content: Discover more about Manifesto for Agile Software Development and how it can help you in your Agile journey!
   title: Manifesto for Agile Software Development
----
 
+---
 We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:
 
 - **Individuals and interactions** over _processes and tools_

@@ -2,6 +2,7 @@
 title: Screenshots of Vista from 2002 to Today
 description: Explore the evolution of Vista from its 2002 Alpha release to today's features, showcasing the journey of innovation and design in this engaging visual retrospective.
 ResourceId: jKVJOS1VMWK
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 450
 ResourceImportSource: Wordpress

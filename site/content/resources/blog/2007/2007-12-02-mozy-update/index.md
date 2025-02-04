@@ -2,6 +2,7 @@
 title: Mozy update
 description: Discover how I expanded my Mozy storage to 4.3 GB and optimized my backup strategy. Learn tips for efficient online storage management!
 ResourceId: Tb5vwyZh7DY
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 281
 ResourceImportSource: Wordpress

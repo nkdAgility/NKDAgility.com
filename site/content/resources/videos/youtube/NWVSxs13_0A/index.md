@@ -3,6 +3,9 @@ title: PAL In 40 Minutes
 description: Discover the essentials of PAL in just 40 minutes! This video breaks down key concepts and practical insights for a quick yet comprehensive understanding.
 date: 2021-10-17T10:46:39Z
 ResourceId: NWVSxs13_0A
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: NWVSxs13_0A
 source: youtube
 url: /resources/videos/:slug
@@ -14,6 +17,7 @@ aliases:
 - /resources/videos/NWVSxs13_0A
 - /resources/videos/pal-in-40-minutes
 - /resources/pal-in-40-minutes
+- /resources/NWVSxs13_0A
 preview: https://i.ytimg.com/vi/NWVSxs13_0A/maxresdefault.jpg
 duration: 2309
 isShort: false

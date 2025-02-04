@@ -3,6 +3,9 @@ title: How would you like to be remembered as a Professional Scrum Trainer?  Wh
 description: Discover how to leave a lasting legacy as a Professional Scrum Trainer and empower teams to thrive in agile environments. Join the journey!
 date: 2023-04-19T07:00:06Z
 ResourceId: Dl5v4j1f-WE
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: Dl5v4j1f-WE
 source: internal
 url: /resources/videos/:slug
@@ -17,6 +20,7 @@ aliases:
 - /resources/videos/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-
 - /resources/videos/Dl5v4j1f-WE
 - /resources/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-
+- /resources/Dl5v4j1f-WE
 sitemap:
   filename: sitemap.xml
   priority: 0.6

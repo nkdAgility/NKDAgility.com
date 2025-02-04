@@ -2,6 +2,7 @@
 title: Benefits of remote access for Team System
 description: Discover the advantages of remote access for Team System, enabling seamless collaboration with global teams while ensuring secure and efficient project management.
 ResourceId: FOg_cOXZKmA
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 398
 ResourceImportSource: Wordpress

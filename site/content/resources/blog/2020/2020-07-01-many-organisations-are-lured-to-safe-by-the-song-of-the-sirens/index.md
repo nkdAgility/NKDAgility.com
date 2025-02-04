@@ -2,6 +2,7 @@
 title: Many organisations are lured to SAFe by the song of the Sirens
 description: Discover why many organizations fall for the allure of SAFe, risking true agility for a rigid framework. Learn to embrace evolution over imitation.
 ResourceId: kmQceaX7e-O
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 44502
 ResourceImportSource: Wordpress

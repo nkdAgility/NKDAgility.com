@@ -3,6 +3,9 @@ title: What excites you most about the PAL e immersive learning journey for dele
 description: Join Joanna Plaskonka as she shares her excitement about the immersive 7-week PAL-E course, transforming Agile learning for delegates!
 date: 2023-07-13T12:06:17Z
 ResourceId: OWvCS3xb7pQ
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: OWvCS3xb7pQ
 url: /resources/videos/:slug
 slug: what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates-
@@ -12,6 +15,7 @@ aliases:
 - /resources/videos/OWvCS3xb7pQ
 - /resources/videos/what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates-
 - /resources/what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates-
+- /resources/OWvCS3xb7pQ
 preview: https://i.ytimg.com/vi/OWvCS3xb7pQ/maxresdefault.jpg
 duration: 181
 isShort: false

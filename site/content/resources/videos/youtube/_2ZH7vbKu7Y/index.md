@@ -3,7 +3,11 @@ title: 'Training: A Bridge to Knowledge and Growth'
 description: "Unlock your team's potential! Discover 3 key strategies for agile leaders to uplift underperforming teams in this insightful video. \U0001F331\U0001F680"
 date: 2023-10-27T07:00:14Z
 ResourceId: _2ZH7vbKu7Y
-resourceTypes: video
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
+resourceTypes:
+- video
 layout: video
 videoId: _2ZH7vbKu7Y
 source: internal
@@ -17,6 +21,7 @@ aliases:
 - /resources/training-a-bridge-to-knowledge-and-growth
 - /resources/videos/_2ZH7vbKu7Y
 - /resources/3-key-elements-for-an-agile-leader-to-consider-if-the-team-are-incompetent
+- /resources/_2ZH7vbKu7Y
 sitemap:
   filename: sitemap.xml
   priority: 0.6

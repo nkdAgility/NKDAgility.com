@@ -3,6 +3,9 @@ title: What is Agile?
 description: Discover how Agile philosophy can transform your personal and professional life. Join us for insights on growth, teamwork, and continuous improvement!
 date: 2022-10-07T10:41:41Z
 ResourceId: phv_2Bv2PrA
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: phv_2Bv2PrA
 url: /resources/videos/:slug
 slug: what-is-agile-
@@ -12,6 +15,7 @@ aliases:
 - /resources/videos/phv_2Bv2PrA
 - /resources/videos/what-is-agile-
 - /resources/what-is-agile-
+- /resources/phv_2Bv2PrA
 preview: https://i.ytimg.com/vi/phv_2Bv2PrA/maxresdefault.jpg
 duration: 1755
 isShort: false

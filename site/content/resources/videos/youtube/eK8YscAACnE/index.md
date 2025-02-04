@@ -3,6 +3,9 @@ title: ' shorts 5 kinds of Agile bandits. 3rd kind'
 description: "Discover the 3rd kind of Agile bandit with Martin Hinshelwood! Uncover insights on story points and boost your team's agility. #Agile #Scrum #Shorts"
 date: 2024-01-08T11:00:37Z
 ResourceId: eK8YscAACnE
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: eK8YscAACnE
 url: /resources/videos/:slug
 slug: -shorts-5-kinds-of-agile-bandits-3rd-kind
@@ -12,6 +15,7 @@ aliases:
 - /resources/videos/eK8YscAACnE
 - /resources/videos/-shorts-5-kinds-of-agile-bandits-3rd-kind
 - /resources/-shorts-5-kinds-of-agile-bandits-3rd-kind
+- /resources/eK8YscAACnE
 preview: https://i.ytimg.com/vi/eK8YscAACnE/maxresdefault.jpg
 duration: 37
 isShort: true

@@ -1,0 +1,17 @@
+So the question is, what does the assessment phase of a consulting engagement look like? I think ideally there isn't one, or not quite, that it's asynchronous. A consultant should be continually assessing the needs of the business that they're working with, and quite often having that. If we agree that we work in the complex space, right, we know less upfront than we discover by doing. 
+
+So anything that you do in an assessment phase, probably a lot of it is throwaway because as you start engaging with the customer, as you start doing stuff, you start realising that that wasn't true or it wasn't quite right, or a completely different thing is happening anyway. 
+
+Lots of customers like an assessment phase because then you come in, you assess what it is that they're doing, and then they decide whether they want your help in fixing whatever it is that you've identified. But in actual fact, I think there's more value in just helping, just getting started, just engaging with teams, just engaging with people, and learn what the current state of the organisation is by that engagement, right? 
+
+So while I do sometimes do that kind of assessment phase, I would probably say it's not something that I would recommend to a customer. I just want to get started, I just want to help them, I just want to get going. So if we can get away without it, that's awesome. If we have to do it, it might be there's a great phrase like how much backlog do you need? It's the same idea: how much of an assessment do you need to do up front? 
+
+And the answer is always the same: as much as you need to convince the customer to work with you, right? So if you're going to do an assessment, do just enough but not more than is needed to get the customer to understand enough to convince them to bring you on, get some help, and then as you start helping them and demonstrating your competence, we can start saying, "Well, all that stuff we thought up front is kind of irrelevant now," and let's get started. 
+
+I did a lot of work early on in DevOps engagements. I worked in the US for three years for our DevOps consultancy, and one of the things that I always found weird at the time because I didn't understand it, but they would say if they didn't understand what the customer wanted, right, they got on a call, they tried to understand what the customer wanted, tried to understand what they needed, and they just like either we don't know or we think it's very different from what they said, right? Because that happens as well. 
+
+Then they would parachute me in to go figure out what the customer needs because sometimes, if we were doing very short engagements with customers, right, I would have a week max with the customer. Five days. In those five days, I have to figure out what the customer needs and deliver it. And it's not like we can extend it because on Friday I fly out, and on Monday I'm at a different customer somewhere else in the country. So it all has to be done within that time period. 
+
+So how do you dynamically adapt to those changing needs? Well, you can't really have that huge plan up front. You have an idea, right? You have an idea of what you need to do, you have an idea of what's going on, but once you hit the ground, you have to continuously adapt to what's going on. 
+
+Thanks for watching the video. If you enjoyed it, please like, follow, and subscribe. I always reply to comments, and if you want to have a chat about this or anything else, Agile, Scrum, or DevOps, then please book a coffee with me through Naked Agility.

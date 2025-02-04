@@ -3,6 +3,9 @@ title: 'Unlocking the Power of Immersive Learning in Agile: Overcoming Cognitive
 description: "Discover 5 ways immersive learning enhances your skills as a Scrum practitioner. Elevate your practice with NKD Agility's expert insights! #Scrum #Agile"
 date: 2024-02-05T07:00:03Z
 ResourceId: C8a_-zn1Wsc
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: C8a_-zn1Wsc
 source: internal
 url: /resources/videos/:slug
@@ -16,6 +19,7 @@ aliases:
 - /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-1
 - /resources/videos/C8a_-zn1Wsc
 - /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-1
+- /resources/C8a_-zn1Wsc
 sitemap:
   filename: sitemap.xml
   priority: 0.6

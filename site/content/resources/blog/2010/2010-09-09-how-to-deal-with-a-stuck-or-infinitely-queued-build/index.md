@@ -2,6 +2,7 @@
 title: How to deal with a stuck or infinitely queued build
 description: Learn how to troubleshoot stuck or infinitely queued builds in Team Foundation Server. Optimize your build process and ensure timely completions with expert tips!
 ResourceId: gfvOPIZKbEI
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 27
 ResourceImportSource: Wordpress

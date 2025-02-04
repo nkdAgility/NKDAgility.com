@@ -1,0 +1,1 @@
+One of the seven signs of the agile apocalypse is famine, and in our context of Scrum, that famine manifests as a lack of feedback, a lack of engagement with stakeholders, perhaps even a lack of engagement with your product owner. Um, that famine results in a lack of care and attention. If the business doesn't care to turn up and provide feedback, why should your team care?

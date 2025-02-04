@@ -2,6 +2,7 @@
 title: Major deadline
 description: Discover the challenges of managing a SharePoint migration project and the urgent solutions needed to meet a tight deadline. Join the journey of innovation!
 ResourceId: qNeovUSRj-o
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 233
 ResourceImportSource: Wordpress

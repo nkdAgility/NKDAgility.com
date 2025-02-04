@@ -1,0 +1,3 @@
+If you're hiring an agile coach, you need to consider that they're not just going to be coaching people. They're an agile coach, not just a professional coach. They're going to have to be able to mentor and teach people how to do particular processes, practices, or perhaps tools in the activities that you're doing. 
+
+So, in order to become better at agile, you need a coach who is able to teach, engage, and inspire your teams and people to greatness.

@@ -3,6 +3,9 @@ title: ' shorts 7 Virtues of agile. Diligence'
 description: 'Discover the power of diligence in Agile! Join us as we explore one of the 7 virtues that drive high-performing teams. #Agile #Scrum #Shorts'
 date: 2023-12-07T11:00:05Z
 ResourceId: 2QojN_k3JZ4
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: 2QojN_k3JZ4
 url: /resources/videos/:slug
 slug: -shorts-7-virtues-of-agile-diligence
@@ -11,6 +14,7 @@ aliases:
 - /resources/videos/2QojN_k3JZ4
 - /resources/videos/-shorts-7-virtues-of-agile-diligence
 - /resources/-shorts-7-virtues-of-agile-diligence
+- /resources/2QojN_k3JZ4
 preview: https://i.ytimg.com/vi/2QojN_k3JZ4/maxresdefault.jpg
 duration: 25
 isShort: true

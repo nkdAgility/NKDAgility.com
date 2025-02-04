@@ -2,6 +2,7 @@
 title: Hold on lads, I have an idea!
 description: Explore an innovative idea for managing hierarchical employee data with a user-friendly interface, enhancing organizational efficiency and collaboration.
 ResourceId: foVNVdAmeyw
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 289
 ResourceImportSource: Wordpress
@@ -26,6 +27,8 @@ aliasesFor404:
 - /blog/hold-on-lads-i-have-an-idea
 - /hold-on-lads,-i-have-an-idea-
 - /blog/hold-on-lads,-i-have-an-idea-
+- /hold-on-lads--i-have-an-idea-
+- /blog/hold-on-lads--i-have-an-idea-
 tags:
 - code
 - infrastructure

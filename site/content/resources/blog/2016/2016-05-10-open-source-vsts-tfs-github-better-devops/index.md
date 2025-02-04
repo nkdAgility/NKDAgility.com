@@ -2,6 +2,7 @@
 title: Open-source with VSTS or TFS and Github for better DevOps
 description: Discover how to sync your code between VSTS and GitHub for seamless DevOps. Leverage open-source benefits while maximizing VSTS capabilities. Learn more!
 ResourceId: LWHiaHn3CWF
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 11491
 ResourceImportSource: Wordpress

@@ -2,6 +2,7 @@
 title: Creating a managed service factory
 description: Discover how to create a managed service factory for seamless access to local and remote services. Enhance your enterprise solutions with this insightful guide!
 ResourceId: dfhN35mUMDl
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 377
 ResourceImportSource: Wordpress

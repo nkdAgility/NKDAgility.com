@@ -1,25 +1,26 @@
 ---
 title: Detecting Agile BS
 description: The purpose of this document is to provide guidance to DoD program executives and acquisition professionals on how to detect software projects that are really using agile development versus those that are simply waterfall or spiral development in agile clothing.
+ResourceId: Tt8SPr3xJER
 resourceTypes: guide
 layout: guide
 image: https://nkdagility.com/wp-content/uploads/2020/12/image-2.png
 references:
-  - title: DIB Guide - Detecting Agile BS
-    url: https://media.defense.gov/2019/May/02/2002127286/-1/-1/0/DIBGUIDEDETECTINGAGILEBS.PDF
-  - title: Defense Innovation Board Ten Commandments of Software
-    url: https://media.defense.gov/2018/Apr/22/2001906836/-1/-1/0/DEFENSEINNOVATIONBOARD_TEN_COMMANDMENTS_OF_SOFTWARE_2018.04.20.PDF
-  - title: Defense Innovation Board Metrics for Software Development
-    url: https://media.defense.gov/2018/Jul/10/2001940937/-1/-1/0/DIB_METRICS_FOR_SOFTWARE_DEVELOPMENT_V0.9_2018.07.10.PDF
-  - title: Defense Innovation Board Do’s and Don’ts for Software
-    url: https://media.defense.gov/2018/Oct/09/2002049593/-1/-1/0/DIB_DOS_DONTS_SOFTWARE_2018.10.05.PDF
+- title: DIB Guide - Detecting Agile BS
+  url: https://media.defense.gov/2019/May/02/2002127286/-1/-1/0/DIBGUIDEDETECTINGAGILEBS.PDF
+- title: Defense Innovation Board Ten Commandments of Software
+  url: https://media.defense.gov/2018/Apr/22/2001906836/-1/-1/0/DEFENSEINNOVATIONBOARD_TEN_COMMANDMENTS_OF_SOFTWARE_2018.04.20.PDF
+- title: Defense Innovation Board Metrics for Software Development
+  url: https://media.defense.gov/2018/Jul/10/2001940937/-1/-1/0/DIB_METRICS_FOR_SOFTWARE_DEVELOPMENT_V0.9_2018.07.10.PDF
+- title: Defense Innovation Board Do’s and Don’ts for Software
+  url: https://media.defense.gov/2018/Oct/09/2002049593/-1/-1/0/DIB_DOS_DONTS_SOFTWARE_2018.10.05.PDF
 videos:
-  - title: stackconf 2021 | The Tyranny of Taylorism and how to spot Agile BS
-    embed: https://www.youtube.com/embed/OJ-7YVekG2s
-  - title: "stackconf online 2020 | Agile Evolution: An Enterprise transformation that shows that you can too"
-    embed: https://www.youtube.com/embed/6D7ZC5Yq8rU
-  - title: "Agile Evolution: Live Site Culture & Site Reliability at Azure DevOps"
-    embed: https://www.youtube.com/embed/5bgcpPqcGlw
+- title: stackconf 2021 | The Tyranny of Taylorism and how to spot Agile BS
+  embed: https://www.youtube.com/embed/OJ-7YVekG2s
+- title: 'stackconf online 2020 | Agile Evolution: An Enterprise transformation that shows that you can too'
+  embed: https://www.youtube.com/embed/6D7ZC5Yq8rU
+- title: 'Agile Evolution: Live Site Culture & Site Reliability at Azure DevOps'
+  embed: https://www.youtube.com/embed/5bgcpPqcGlw
 date: 2024-09-17
 creator: Martin Hinshelwood
 card:
@@ -28,10 +29,11 @@ card:
   content: Discover more about Detecting Agile BS and how it can help you in your Agile journey!
   title: Detecting Agile BS
 aliases:
-  - /Guides/Detecting-Agile-BS.html
-  - /learn/agile-delivery-kit/guides/detecting-agile-bs
----
+- /Guides/Detecting-Agile-BS.html
+- /learn/agile-delivery-kit/guides/detecting-agile-bs
+- /resources/Tt8SPr3xJER
 
+---
 Agile is a buzzword of software development, and so all DoD software development projects are, almost by default, now declared to be “agile.” The purpose of this document is to provide guidance to DoD program executives and acquisition professionals on how to detect software projects that are really using agile development versus those that are simply waterfall or spiral development in agile clothing (“agile-scrum-fall”).
 
 ![Detecting Agile BS](https://nkdagility.com/wp-content/uploads/2020/12/image-2.png){: .responsiveImage}

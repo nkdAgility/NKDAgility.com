@@ -1,0 +1,3 @@
+Scrum Masters love digital whiteboards. It doesn't matter what flavour; you can use any flavour you like. There's Mural, there's Miro, there's Lucid Spark, there's Clarkson, and there's a bunch of other ones out there, like Microsoft Whiteboards. 
+
+Whatever one it is, building compelling interactive experiences for teams, for groups of people, for workshops, or just your daily scrum is something that you can do in a digital whiteboard. It really helps provide those kinds of information radiators and engagement with people. Digital whiteboards.

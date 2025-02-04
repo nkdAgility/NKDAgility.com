@@ -2,6 +2,7 @@
 title: 'TFS Event Handler: Coverage & Comments'
 description: Explore the TFS Event Handler project, addressing security and assembly issues for internal teams. Join the discussion and enhance your development process!
 ResourceId: PEksFd3ugtL
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 406
 ResourceImportSource: Wordpress

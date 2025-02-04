@@ -1,0 +1,3 @@
+The most common thing I hear in the PSM class is, "But in the real world." Um, and usually around the point when we're talking about moral flexibility. What we talk about in the PSM is the inflexibility of our moral obligation to our customer to tell the truth. 
+
+You hear many people in that class say, "But in the real world, we have to tell our customer how long it will take and how much it will cost up front." Right? And that, the moral flexibility there, is that that's a lie. Right? You just lied to your customer. You sold them a squirrel burger. Um, a roadkill burger. Right? It's not what you just said it was, and perhaps they bought it based on that understanding.

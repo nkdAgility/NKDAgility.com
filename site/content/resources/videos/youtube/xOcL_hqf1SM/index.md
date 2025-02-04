@@ -3,6 +3,9 @@ title: What 5 things must you achieve before you call yourself an agilecoach. Pa
 description: 'Discover the third essential achievement for aspiring #AgileCoaches with Martin Hinshelwood. Elevate your skills and empower teams to thrive!'
 date: 2023-11-15T11:01:00Z
 ResourceId: xOcL_hqf1SM
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: xOcL_hqf1SM
 url: /resources/videos/:slug
 slug: what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-3
@@ -12,6 +15,7 @@ aliases:
 - /resources/videos/xOcL_hqf1SM
 - /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-3
 - /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-3
+- /resources/xOcL_hqf1SM
 preview: https://i.ytimg.com/vi/xOcL_hqf1SM/maxresdefault.jpg
 duration: 64
 isShort: false

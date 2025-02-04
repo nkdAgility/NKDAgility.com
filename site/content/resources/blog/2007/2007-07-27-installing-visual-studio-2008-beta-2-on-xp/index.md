@@ -2,6 +2,7 @@
 title: Installing Visual Studio 2008 Beta 2 on XP
 description: Learn how to successfully install Visual Studio 2008 Beta 2 on XP, troubleshoot common issues, and optimize your setup for Team Foundation Server.
 ResourceId: QyRk0KkQYbz
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 358
 ResourceImportSource: Wordpress

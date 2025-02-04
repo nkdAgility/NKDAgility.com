@@ -3,6 +3,9 @@ title: Free Workshop 2 - Introduction to Scrum & Empiricism
 description: Join Martin Hinshelwood for an interactive workshop on Scrum & Empiricism. Discover Scrum essentials, values, and engage in discussions. Register now!
 date: 2021-08-20T04:55:25Z
 ResourceId: JzUUQ4R9SCk
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: JzUUQ4R9SCk
 source: youtube
 url: /resources/videos/:slug
@@ -14,6 +17,7 @@ aliases:
 - /resources/videos/JzUUQ4R9SCk
 - /resources/videos/free-workshop-2-introduction-to-scrum-&-empiricism
 - /resources/free-workshop-2-introduction-to-scrum-&-empiricism
+- /resources/JzUUQ4R9SCk
 preview: https://i.ytimg.com/vi/JzUUQ4R9SCk/maxresdefault.jpg
 duration: 6841
 isShort: false

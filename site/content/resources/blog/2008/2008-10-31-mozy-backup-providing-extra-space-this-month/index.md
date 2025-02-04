@@ -2,6 +2,7 @@
 title: Mozy Backup providing extra space this month
 description: Discover how Mozy Backup is doubling your referral space this month! Learn why this reliable backup solution is essential for your data safety.
 ResourceId: VgEgURg3LhB
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 176
 ResourceImportSource: Wordpress

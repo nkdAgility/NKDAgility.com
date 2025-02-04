@@ -1,36 +1,39 @@
 ---
-title: "The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty"
+title: 'The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty'
 description: Evidence-Based Management (EBM) is an empirical approach that helps organizations to continuously improve customer outcomes, organizational capabilities, and business results under conditions of uncertainty.
+ResourceId: Rv0ZjvwYVy5
 resourceTypes: guide
 layout: guide
 aliesses:
-  - /learn/agile-delivery-kit/guides/evidence-based-management-guide-2020
-  - practices/evidence-based-management-guide-2020
-  - practices/evidence-based-management-guide-2020.html
-  - guides/evidence-based-management-guide-2020
-  - guides/evidence-based-management-guide-2020.html
+- /learn/agile-delivery-kit/guides/evidence-based-management-guide-2020
+- practices/evidence-based-management-guide-2020
+- practices/evidence-based-management-guide-2020.html
+- guides/evidence-based-management-guide-2020
+- guides/evidence-based-management-guide-2020.html
 references:
-  - title: The Evidence-Based Management Guide | Scrum.org
-    url: https://scrum.org/resources/evidence-based-management-guide
-  - title: "Evidence-based Management: Gathering the metrics"
-    url: https://nkdagility.com/blog/evidence-based-management-gathering-metrics/
-  - title: "Metrics that matter with evidence-based management"
-    url: https://nkdagility.com/blog/metrics-that-matter-with-evidence-based-management/
-  - title: "Evidence-based Management: Gathering the metrics"
-    url: https://nkdagility.com/blog/evidence-based-management-gathering-metrics/
-  - title: Professional Agile Leadership with Evidence-Based Management (PAL-EBM)
-    url: https://nkdagility.com/training/courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-training-experience-with-certification-measuring-value-to-enable-improvement-and-agility/
-recommendedContent:
-videos:
+- title: The Evidence-Based Management Guide | Scrum.org
+  url: https://scrum.org/resources/evidence-based-management-guide
+- title: 'Evidence-based Management: Gathering the metrics'
+  url: https://nkdagility.com/blog/evidence-based-management-gathering-metrics/
+- title: Metrics that matter with evidence-based management
+  url: https://nkdagility.com/blog/metrics-that-matter-with-evidence-based-management/
+- title: 'Evidence-based Management: Gathering the metrics'
+  url: https://nkdagility.com/blog/evidence-based-management-gathering-metrics/
+- title: Professional Agile Leadership with Evidence-Based Management (PAL-EBM)
+  url: https://nkdagility.com/training/courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-training-experience-with-certification-measuring-value-to-enable-improvement-and-agility/
+recommendedContent: 
+videos: 
 date: 2024-09-17
 creator: Martin Hinshelwood
 card:
   button:
     content: Learn More
   content: Discover more about "The Evidence-Based Management Guide and how it can help you in your Agile journey!
-  title: "The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty"
----
+  title: 'The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty'
+aliases:
+- /resources/Rv0ZjvwYVy5
 
+---
 Evidence-Based Management (EBM) is an empirical approach that helps organizations to continuously improve customer outcomes, organizational capabilities, and business results under conditions of uncertainty. It provides a framework for organizations to improve their ability to deliver value in an uncertain world, seeking a path toward strategic goals. Using intentional experimentation and evidence (measures), EBM enables organizations to systematically improve their performance over time and refine their goals based on better information
 By measuring current conditions, setting performance goals, forming small experiments for improvement that can be run quickly, measuring the effect of the experiment, and inspecting and adapting goals and next steps, EBM helps organizations to take into account the best available evidence to help them make decisions on ways to improve.
 

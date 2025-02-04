@@ -3,6 +3,9 @@ title: What is the sprint planning workshop and how will it help organizations?
 description: 'Discover how Sprint Planning workshops from NKD Agility can empower your Scrum team for success and enhance project outcomes. #Agile #Scrum'
 date: 2023-06-29T07:00:19Z
 ResourceId: xJsuDbsFzlw
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: xJsuDbsFzlw
 url: /resources/videos/:slug
 slug: what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations-
@@ -12,6 +15,7 @@ aliases:
 - /resources/videos/xJsuDbsFzlw
 - /resources/videos/what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations-
 - /resources/what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations-
+- /resources/xJsuDbsFzlw
 preview: https://i.ytimg.com/vi/xJsuDbsFzlw/maxresdefault.jpg
 duration: 198
 isShort: false

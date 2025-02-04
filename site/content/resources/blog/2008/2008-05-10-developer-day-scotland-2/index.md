@@ -2,6 +2,7 @@
 title: Developer day Scotland!
 description: Join Developer Day Scotland on May 10, 2008, at Glasgow Caledonian University for networking, learning, and a fun Geek Dinner. Don't miss out!
 ResourceId: R2pvi8SYo_y
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 230
 ResourceImportSource: Wordpress

@@ -2,6 +2,7 @@
 title: MSBuild and Business Intelligence Packages, Ahhhhhh!
 description: Explore the challenges of automating Business Intelligence builds with MSBuild. Discover solutions for SSIS and SSAS package deployment and testing.
 ResourceId: lttzdaIlzel
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 182
 ResourceImportSource: Wordpress
@@ -26,6 +27,8 @@ aliasesFor404:
 - /blog/msbuild-and-business-intelligence-packages-ahhhhhh
 - /msbuild-and-business-intelligence-packages,-ahhhhhh-
 - /blog/msbuild-and-business-intelligence-packages,-ahhhhhh-
+- /msbuild-and-business-intelligence-packages--ahhhhhh-
+- /blog/msbuild-and-business-intelligence-packages--ahhhhhh-
 tags:
 - tfs-build
 - tools

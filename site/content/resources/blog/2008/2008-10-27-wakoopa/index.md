@@ -2,6 +2,7 @@
 title: Wakoopa
 description: Explore Wakoopa, an app that tracks your software usage and provides insightful stats. Join the Microsoft MVP team and enhance your productivity today!
 ResourceId: -dqfdSPfCHx
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 180
 ResourceImportSource: Wordpress

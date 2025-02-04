@@ -2,6 +2,7 @@
 title: The future of software development
 description: Explore the future of software development with insights on software factories and web services to enhance efficiency and client satisfaction. Read more!
 ResourceId: y4gWKp3Fy4v
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 371
 ResourceImportSource: Wordpress

@@ -3,6 +3,9 @@ title: How is technology like AI changing the world we work in?
 description: Discover how AI and technology are transforming our work environments and why embracing these changes is essential for future success.
 date: 2023-07-05T14:49:20Z
 ResourceId: fcOSewXez3I
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: fcOSewXez3I
 url: /resources/videos/:slug
 slug: how-is-technology-like-ai-changing-the-world-we-work-in-
@@ -12,6 +15,7 @@ aliases:
 - /resources/videos/fcOSewXez3I
 - /resources/videos/how-is-technology-like-ai-changing-the-world-we-work-in-
 - /resources/how-is-technology-like-ai-changing-the-world-we-work-in-
+- /resources/fcOSewXez3I
 preview: https://i.ytimg.com/vi/fcOSewXez3I/maxresdefault.jpg
 duration: 263
 isShort: false

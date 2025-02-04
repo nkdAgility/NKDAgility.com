@@ -3,6 +3,9 @@ title: 'The Key to a Kanban Strategy: Understanding WIP Limits'
 description: Discover how to optimise work flow with effective WIP limits! Learn critical factors for establishing them as a Kanban strategist. Watch now!
 date: 2024-03-06T07:00:17Z
 ResourceId: Ir8QiX7eAHU
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: Ir8QiX7eAHU
 source: internal
 url: /resources/videos/:slug
@@ -16,6 +19,7 @@ aliases:
 - /resources/videos/wip-limits!-what-critical-factors-affect-them-
 - /resources/videos/Ir8QiX7eAHU
 - /resources/wip-limits!-what-critical-factors-affect-them-
+- /resources/Ir8QiX7eAHU
 sitemap:
   filename: sitemap.xml
   priority: 0.6

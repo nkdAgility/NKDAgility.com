@@ -2,6 +2,7 @@
 title: I messed up my checkin failure conflict resolution with the TFS Integration Tools… Now what?
 description: Struggling with TFS Integration Tools? Discover how to resolve check-in conflicts and streamline your migration process with expert insights and solutions.
 ResourceId: r5ID4-DiAy7
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 7610
 ResourceImportSource: Wordpress

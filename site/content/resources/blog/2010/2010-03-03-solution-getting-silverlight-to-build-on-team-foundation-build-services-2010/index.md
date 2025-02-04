@@ -2,6 +2,7 @@
 title: 'Solution: Getting Silverlight to build on Team Foundation Build Services 2010'
 description: Learn how to successfully build Silverlight applications using Team Foundation Build Services 2010. Overcome common challenges with expert tips and solutions!
 ResourceId: KPVUDFGZRaX
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 69
 ResourceImportSource: Wordpress
