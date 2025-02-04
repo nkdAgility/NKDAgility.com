@@ -10,9 +10,7 @@
   <meta name="permalink" content="https://nkdagility.com/resources/{{- .Params.ResourceId }}" />
 {{ end }}
 
-{{ if .Params.videoId }}
-  <meta name="giscus:backlink" content="https://nkdagility.com/resources/videos/{{- .Params.videoId }}" />
-{{ else if .Params.ResourceId }}
+{{ if .Params.ResourceId }}
   <meta name="giscus:backlink" content="https://nkdagility.com/resources/{{- .Params.ResourceId }}" />
 {{ else }}
   <meta name="giscus:backlink" content="https://nkdagility.com{{- .RelPermalink }}" />
