@@ -14,4 +14,23 @@ function New-ResourceId {
     return $resourceId
 }
 
+function Get-ResourceType {
+    param (
+        [string]$FilePath
+    )
+
+    # Define regex pattern to match resource type
+    $pattern = '\\content\\resources\\(?<ResourceType>[^\\]+)\\'
+
+    # Run regex match
+    if ($FilePath -match $pattern) {
+        return $matches['ResourceType']
+    }
+    else {
+        Write-Host "No match found." -ForegroundColor Red
+        return $null
+    }
+}
+
+
 Write-Host "ResourceHelpers.ps1 loaded" -ForegroundColor Green

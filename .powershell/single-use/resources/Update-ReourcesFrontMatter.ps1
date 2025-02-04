@@ -7,7 +7,7 @@
 $outputDir = "site\content\resources\"
 
 # Get list of directories and select the first 10
-$resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md" | Select-Object -First 10
+$resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md" #| Select-Object -First 10
 
 $resources | ForEach-Object {
     $resourceDir = (Get-Item -Path $_).DirectoryName
@@ -37,61 +37,61 @@ $resources | ForEach-Object {
             $ResourceId = New-ResourceId
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceId' -fieldValue $ResourceId -addAfter 'description'
         }
-        if ($hugoMarkdown.FrontMatter.Contains("id")) {
-            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImport' -fieldValue $true -addAfter 'ResourceId'
-            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImportSource' -fieldValue "Wordpress" -addAfter 'ResourceImport'
-            If (([datetime]$hugoMarkdown.FrontMatter.date) -lt ([datetime]'2011-02-16')) {
-                Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImportOriginalSource' -fieldValue "GeeksWithBlogs" -addAfter 'ResourceImportSource'
-            }
-            else {
-                Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImportOriginalSource' -fieldValue "Wordpress" -addAfter 'ResourceImportSource'
-            }     
-            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImportId' -fieldValue ([int]$hugoMarkdown.FrontMatter.Id) -addAfter 'ResourceImport'
-        }
+        $ResourceType = Get-ResourceType  -FilePath  $resourceDir
 
         $aliases = @()
-        if ($hugoMarkdown.FrontMatter.Contains("id")) {
-            if ($hugoMarkdown.FrontMatter.Contains("slug")) {
-                $slug = $hugoMarkdown.FrontMatter.slug
-                $aliases += "/$slug"
-                $aliases += "/blog/$slug"
+        $404aliases = @()
+        switch ($ResourceType) {
+            "blog" { 
+                Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImport' -fieldValue $true -addAfter 'ResourceId'
+
+
+
+
+                Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImportSource' -fieldValue "Wordpress" -addAfter 'ResourceImport'
+                If (([datetime]$hugoMarkdown.FrontMatter.date) -lt ([datetime]'2011-02-16')) {
+                    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImportOriginalSource' -fieldValue "GeeksWithBlogs" -addAfter 'ResourceImportSource'
+                }
+                else {
+                    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImportOriginalSource' -fieldValue "Wordpress" -addAfter 'ResourceImportSource'
+                }     
+                if ($hugoMarkdown.FrontMatter.Contains("slug")) {
+                    $slug = $hugoMarkdown.FrontMatter.slug
+                    $aliases += "/$slug"
+                    $404aliases += "/$slug"
+                    $aliases += "/blog/$slug"
+                    $404aliases += "/blog/$slug"
+                }
+                if ($hugoMarkdown.FrontMatter.Contains("title")) {
+                    $slug = $hugoMarkdown.FrontMatter.slug
+                    $urlSafeTitle = ($hugoMarkdown.FrontMatter.title -replace '[:\/\\*?"<>|#%.!,]', '-' -replace '\s+', '-').ToLower()
+                    if ($urlSafeTitle -ne $slug) {
+                        $aliases += "/$urlSafeTitle"
+                        $404aliases += "/$urlSafeTitle"
+                        $aliases += "/blog/$urlSafeTitle"
+                        $404aliases += "/blog/$urlSafeTitle"
+                    }           
+                }
+                
             }
-            if ($hugoMarkdown.FrontMatter.Contains("title")) {
-                $slug = $hugoMarkdown.FrontMatter.slug
-                $urlSafeTitle = ($hugoMarkdown.FrontMatter.title -replace '[:\/\\*?"<>|#%.!,]', '-' -replace '\s+', '-').ToLower()
-                if ($urlSafeTitle -ne $slug) {
-                    $aliases += "/$urlSafeTitle"
-                    $aliases += "/blog/$urlSafeTitle"
-                }           
+            "podcast" { 
+                
+            }
+            "videos" { 
+                
+            }
+            default { 
+                
             }
         }
+        # Always add the ResourceId as an alias
         if ($hugoMarkdown.FrontMatter.Contains("ResourceId")) {
             $aliases += "/resources/$($hugoMarkdown.FrontMatter.ResourceId)"
         }
         Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliases' -values $aliases -addAfter 'slug'
-
-        $404aliases = @()
-        if ($hugoMarkdown.FrontMatter.Contains("id")) {
-            if ($hugoMarkdown.FrontMatter.Contains("slug")) {
-                $slug = $hugoMarkdown.FrontMatter.slug
-                $404aliases += "/$slug"
-                $404aliases += "/blog/$slug"
-            }
-            if ($hugoMarkdown.FrontMatter.Contains("title")) {
-                $slug = $hugoMarkdown.FrontMatter.slug
-                $urlSafeTitle = ($hugoMarkdown.FrontMatter.title -replace '[:\/\\*?"<>| #%.!]', '-' -replace '\s+', '-').ToLower()
-                if ($urlSafeTitle -ne $slug) {
-                    $404aliases += "/$urlSafeTitle"
-                    $404aliases += "/blog/$urlSafeTitle"
-                }           
-            }
-        }
         if ($404aliases -is [array] -and $404aliases.Count -gt 0) {
             Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliasesFor404' -values $404aliases -addAfter 'aliases'
         }
-        
-        
-
         Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $markdownFile
     }
     else {
