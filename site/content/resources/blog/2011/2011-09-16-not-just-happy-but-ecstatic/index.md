@@ -27,6 +27,8 @@ aliasesFor404:
 - /blog/not-just-happy-but-ecstatic
 - /not-just-happy,-but-ecstatic
 - /blog/not-just-happy,-but-ecstatic
+- /not-just-happy--but-ecstatic
+- /blog/not-just-happy--but-ecstatic
 tags:
 - tfs
 - tfs2010

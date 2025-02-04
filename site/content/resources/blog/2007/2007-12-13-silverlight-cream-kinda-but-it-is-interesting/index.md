@@ -27,6 +27,8 @@ aliasesFor404:
 - /blog/silverlight-cream-kinda-but-it-is-interesting
 - /silverlight-cream,-kinda,-but-it-is-interesting-
 - /blog/silverlight-cream,-kinda,-but-it-is-interesting-
+- /silverlight-cream--kinda--but-it-is-interesting-
+- /blog/silverlight-cream--kinda--but-it-is-interesting-
 tags:
 - infrastructure
 - silverlight

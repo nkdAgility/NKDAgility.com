@@ -27,6 +27,8 @@ aliasesFor404:
 - /blog/ooooh-rtm-delight
 - /ooooh,-rtm-delight
 - /blog/ooooh,-rtm-delight
+- /ooooh--rtm-delight
+- /blog/ooooh--rtm-delight
 tags:
 - tfs
 - tfs2008

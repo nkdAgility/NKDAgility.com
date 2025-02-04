@@ -27,6 +27,8 @@ aliasesFor404:
 - /blog/combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop
 - /combining-scrum,-tfs2010-and-email-to-keep-everyone-in-the-loop
 - /blog/combining-scrum,-tfs2010-and-email-to-keep-everyone-in-the-loop
+- /combining-scrum--tfs2010-and-email-to-keep-everyone-in-the-loop
+- /blog/combining-scrum--tfs2010-and-email-to-keep-everyone-in-the-loop
 tags:
 - agile
 - people

@@ -27,6 +27,8 @@ aliasesFor404:
 - /blog/microsoft-please-help-me-diagnose-tfs-administration-permission-issues
 - /microsoft,-please-help-me-diagnose-tfs-administration-permission-issues-
 - /blog/microsoft,-please-help-me-diagnose-tfs-administration-permission-issues-
+- /microsoft--please-help-me-diagnose-tfs-administration-permission-issues-
+- /blog/microsoft--please-help-me-diagnose-tfs-administration-permission-issues-
 tags:
 - ssw
 - tfs

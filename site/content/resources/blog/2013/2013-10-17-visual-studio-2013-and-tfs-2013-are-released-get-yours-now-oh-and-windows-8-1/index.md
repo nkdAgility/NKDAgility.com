@@ -27,6 +27,8 @@ aliasesFor404:
 - /blog/visual-studio-2013-and-tfs-2013-are-released-get-yours-now-oh-and-windows-8-1
 - /visual-studio-2013-and-tfs-2013-are-released,-get-yours-now--oh-and-windows-8-1&hellip;
 - /blog/visual-studio-2013-and-tfs-2013-are-released,-get-yours-now--oh-and-windows-8-1&hellip;
+- /visual-studio-2013-and-tfs-2013-are-released--get-yours-now--oh-and-windows-8-1&hellip;
+- /blog/visual-studio-2013-and-tfs-2013-are-released--get-yours-now--oh-and-windows-8-1&hellip;
 tags:
 - release
 - rtm

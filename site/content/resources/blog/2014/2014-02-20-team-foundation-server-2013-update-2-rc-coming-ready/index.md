@@ -27,6 +27,8 @@ aliasesFor404:
 - /blog/team-foundation-server-2013-update-2-rc-coming-ready
 - /team-foundation-server-2013-update-2-rc-is-coming,-are-you-ready-
 - /blog/team-foundation-server-2013-update-2-rc-is-coming,-are-you-ready-
+- /team-foundation-server-2013-update-2-rc-is-coming--are-you-ready-
+- /blog/team-foundation-server-2013-update-2-rc-is-coming--are-you-ready-
 tags:
 - tfs
 - tfs-2013

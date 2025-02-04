@@ -27,6 +27,8 @@ aliasesFor404:
 - /blog/a-new-day-a-new-week-a-new-team-server
 - /a-new-day,-a-new-week,-a-new-team-server
 - /blog/a-new-day,-a-new-week,-a-new-team-server
+- /a-new-day--a-new-week--a-new-team-server
+- /blog/a-new-day--a-new-week--a-new-team-server
 tags:
 - ml
 - tfs

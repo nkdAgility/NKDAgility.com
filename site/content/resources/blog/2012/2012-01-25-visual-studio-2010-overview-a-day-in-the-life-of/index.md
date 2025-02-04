@@ -28,6 +28,8 @@ aliasesFor404:
 - /blog/visual-studio-2010-overview-a-day-in-the-life-of
 - /visual-studio-2010-overview---a-day-in-the-life-of-----plan,-code-&-test
 - /blog/visual-studio-2010-overview---a-day-in-the-life-of-----plan,-code-&-test
+- /visual-studio-2010-overview---a-day-in-the-life-of-----plan--code-&-test
+- /blog/visual-studio-2010-overview---a-day-in-the-life-of-----plan--code-&-test
 tags:
 - agile
 - modern-alm

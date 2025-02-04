@@ -27,6 +27,8 @@ aliasesFor404:
 - /blog/msbuild-and-business-intelligence-packages-ahhhhhh
 - /msbuild-and-business-intelligence-packages,-ahhhhhh-
 - /blog/msbuild-and-business-intelligence-packages,-ahhhhhh-
+- /msbuild-and-business-intelligence-packages--ahhhhhh-
+- /blog/msbuild-and-business-intelligence-packages--ahhhhhh-
 tags:
 - tfs-build
 - tools

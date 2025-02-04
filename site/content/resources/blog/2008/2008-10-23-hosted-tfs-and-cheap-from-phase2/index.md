@@ -27,6 +27,8 @@ aliasesFor404:
 - /blog/hosted-tfs-and-cheap-from-phase2
 - /hosted-tfs,-and-cheap…-from-phase2
 - /blog/hosted-tfs,-and-cheap…-from-phase2
+- /hosted-tfs--and-cheap…-from-phase2
+- /blog/hosted-tfs--and-cheap…-from-phase2
 tags:
 - moss2007
 - sharepoint

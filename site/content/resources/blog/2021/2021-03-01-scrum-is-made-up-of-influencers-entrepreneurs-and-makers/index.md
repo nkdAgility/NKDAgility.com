@@ -28,6 +28,8 @@ aliasesFor404:
 - /blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
 - /scrum-is-made-up-of-influencers,-entrepreneurs,-and-makers
 - /blog/scrum-is-made-up-of-influencers,-entrepreneurs,-and-makers
+- /scrum-is-made-up-of-influencers--entrepreneurs--and-makers
+- /blog/scrum-is-made-up-of-influencers--entrepreneurs--and-makers
 tags:
 - entrepreneurs
 - leadership

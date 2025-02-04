@@ -27,6 +27,8 @@ aliasesFor404:
 - /blog/round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
 - /round-up-for-2017-and-beyond--agility,-devops,-and-everything-in-between
 - /blog/round-up-for-2017-and-beyond--agility,-devops,-and-everything-in-between
+- /round-up-for-2017-and-beyond--agility--devops--and-everything-in-between
+- /blog/round-up-for-2017-and-beyond--agility--devops--and-everything-in-between
 categories:
 - agility
 - devops

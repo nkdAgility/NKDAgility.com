@@ -27,6 +27,8 @@ aliasesFor404:
 - /blog/ndc-london-second-look-team-foundation-server-vso
 - /ndc-london--second-look,-team-foundation-server-&amp;-vso
 - /blog/ndc-london--second-look,-team-foundation-server-&amp;-vso
+- /ndc-london--second-look--team-foundation-server-&amp;-vso
+- /blog/ndc-london--second-look--team-foundation-server-&amp;-vso
 tags:
 - backlog-management
 - code-sense

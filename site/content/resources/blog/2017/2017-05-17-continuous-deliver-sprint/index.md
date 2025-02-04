@@ -27,6 +27,8 @@ aliasesFor404:
 - /blog/continuous-deliver-sprint
 - /i-do-continuous-deliver,-why-should-i-sprint-
 - /blog/i-do-continuous-deliver,-why-should-i-sprint-
+- /i-do-continuous-deliver--why-should-i-sprint-
+- /blog/i-do-continuous-deliver--why-should-i-sprint-
 tags:
 - continious-delivery
 - the-sprint

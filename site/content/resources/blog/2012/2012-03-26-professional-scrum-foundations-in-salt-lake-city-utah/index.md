@@ -27,6 +27,8 @@ aliasesFor404:
 - /blog/professional-scrum-foundations-in-salt-lake-city-utah
 - /professional-scrum-foundations-in-salt-lake-city,-utah
 - /blog/professional-scrum-foundations-in-salt-lake-city,-utah
+- /professional-scrum-foundations-in-salt-lake-city--utah
+- /blog/professional-scrum-foundations-in-salt-lake-city--utah
 tags:
 - agile
 - define

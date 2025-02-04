@@ -27,6 +27,8 @@ aliasesFor404:
 - /blog/professional-scrum-courses-2016-oslo-norway
 - /professional-scrum-courses-for-2016-in-oslo,-norway
 - /blog/professional-scrum-courses-for-2016-in-oslo,-norway
+- /professional-scrum-courses-for-2016-in-oslo--norway
+- /blog/professional-scrum-courses-for-2016-in-oslo--norway
 tags:
 - agile
 - agility

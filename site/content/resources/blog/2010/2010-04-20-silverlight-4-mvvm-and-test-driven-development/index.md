@@ -27,6 +27,8 @@ aliasesFor404:
 - /blog/silverlight-4-mvvm-and-test-driven-development
 - /silverlight-4,-mvvm-and-test-driven-development
 - /blog/silverlight-4,-mvvm-and-test-driven-development
+- /silverlight-4--mvvm-and-test-driven-development
+- /blog/silverlight-4--mvvm-and-test-driven-development
 tags:
 - code
 - mvvm

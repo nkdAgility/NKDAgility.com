@@ -27,6 +27,8 @@ aliasesFor404:
 - /blog/microsoft-forget-about-paypal-how-about-a-mastercard-killer
 - /microsoft--forget-about-paypal,-how-about-a-mastercard-killer-
 - /blog/microsoft--forget-about-paypal,-how-about-a-mastercard-killer-
+- /microsoft--forget-about-paypal--how-about-a-mastercard-killer-
+- /blog/microsoft--forget-about-paypal--how-about-a-mastercard-killer-
 tags:
 - off-topic
 preview: nakedalm-logo-128-link-1-1.png

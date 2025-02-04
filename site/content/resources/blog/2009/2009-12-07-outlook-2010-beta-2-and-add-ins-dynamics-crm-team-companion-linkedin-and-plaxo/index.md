@@ -27,6 +27,8 @@ aliasesFor404:
 - /blog/outlook-2010-beta-2-and-add-ins-dynamics-crm-team-companion-linkedin-and-plaxo
 - /outlook-2010-beta-2-and-add-ins--dynamics-crm,-team-companion,-linkedin-and-plaxo
 - /blog/outlook-2010-beta-2-and-add-ins--dynamics-crm,-team-companion,-linkedin-and-plaxo
+- /outlook-2010-beta-2-and-add-ins--dynamics-crm--team-companion--linkedin-and-plaxo
+- /blog/outlook-2010-beta-2-and-add-ins--dynamics-crm--team-companion--linkedin-and-plaxo
 tags:
 - office
 - ssw

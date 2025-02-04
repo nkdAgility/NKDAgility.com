@@ -27,6 +27,8 @@ aliasesFor404:
 - /blog/hold-on-lads-i-have-an-idea
 - /hold-on-lads,-i-have-an-idea-
 - /blog/hold-on-lads,-i-have-an-idea-
+- /hold-on-lads--i-have-an-idea-
+- /blog/hold-on-lads--i-have-an-idea-
 tags:
 - code
 - infrastructure

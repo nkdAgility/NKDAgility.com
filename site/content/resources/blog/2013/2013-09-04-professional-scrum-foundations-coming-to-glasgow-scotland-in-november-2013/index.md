@@ -27,6 +27,8 @@ aliasesFor404:
 - /blog/professional-scrum-foundations-coming-to-glasgow-scotland-in-november-2013
 - /professional-scrum-foundations-coming-to-glasgow,-scotland-in-november-2013
 - /blog/professional-scrum-foundations-coming-to-glasgow,-scotland-in-november-2013
+- /professional-scrum-foundations-coming-to-glasgow--scotland-in-november-2013
+- /blog/professional-scrum-foundations-coming-to-glasgow--scotland-in-november-2013
 tags:
 - psd
 - psf

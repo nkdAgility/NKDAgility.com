@@ -28,6 +28,8 @@ aliasesFor404:
 - /blog/what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
 - /what-is-taylorism,-and-why-waterfall-is-just-the-tip-of-the-iceberg-
 - /blog/what-is-taylorism,-and-why-waterfall-is-just-the-tip-of-the-iceberg-
+- /what-is-taylorism--and-why-waterfall-is-just-the-tip-of-the-iceberg-
+- /blog/what-is-taylorism--and-why-waterfall-is-just-the-tip-of-the-iceberg-
 tags:
 - featured
 - taylorism

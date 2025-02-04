@@ -1,24 +1,27 @@
 ---
 title: Nexus Guide
+description: It seems there are no specific details provided for the video. Please share the key points or themes of the video, and I'll create a concise description for you!
+ResourceId: iC8MlA3TE7S
 resourceTypes: guide
 layout: guide
 aliases:
-  - guides/Nexus-Framework/
-  - guides/Nexus-Framework.html
-  - /learn/agile-delivery-kit/guides/nexus-framework
+- guides/Nexus-Framework/
+- guides/Nexus-Framework.html
+- /learn/agile-delivery-kit/guides/nexus-framework
+- /resources/iC8MlA3TE7S
 references:
-  - title: The 2020 Scrum Guide
-    url: https://scrumguides.org/scrum-guide.html
-  - title: The Nexus Guide
-    url: https://www.scrum.org/resources/online-nexus-guide
+- title: The 2020 Scrum Guide
+  url: https://scrumguides.org/scrum-guide.html
+- title: The Nexus Guide
+  url: https://www.scrum.org/resources/online-nexus-guide
 recommendedContent:
-  - collection: practices
-    path: _practices/definition-of-done-dod.md
-  - collection: practices
-    path: _practices/definition-of-ready-dor.md
+- collection: practices
+  path: _practices/definition-of-done-dod.md
+- collection: practices
+  path: _practices/definition-of-ready-dor.md
 videos:
-  - title: Overview of The Scrum Framework with Martin Hinshelwood
-    embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
+- title: Overview of The Scrum Framework with Martin Hinshelwood
+  embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
 date: 2024-09-17
 creator: Martin Hinshelwood
 card:
@@ -26,8 +29,8 @@ card:
     content: Learn More
   content: Discover more about Nexus Guide and how it can help you in your Agile journey!
   title: Nexus Guide
----
 
+---
 The Definitive Guide to Scaling Scrum with Nexus
 
 January 2021

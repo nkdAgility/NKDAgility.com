@@ -2,6 +2,9 @@
 title: Hiring a Professional Scrum Master
 description: Discover essential insights for hiring a Scrum Master. Learn key skills, certifications, and role expectations to find the perfect fit for your team.
 ResourceId: 1EEAZ-ldcTz
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2021-03-15
 AudioNative: true
 creator: Martin Hinshelwood
@@ -13,6 +16,9 @@ aliases:
 - /hiring-a-professional-scrum-master
 - /resources/1EEAZ-ldcTz
 - /resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
+aliasesFor404:
+- /hiring-a-professional-scrum-master
+- /blog/hiring-a-professional-scrum-master
 tags:
 - scrum-master
 - scrum-masters

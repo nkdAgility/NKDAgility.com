@@ -25,6 +25,8 @@ aliasesFor404:
 - /blog/xbox-live-to-twitter-update-v0-2-3
 - /xbox--live-to-twitter-update-(v0-2-3)
 - /blog/xbox--live-to-twitter-update-(v0-2-3)
+- /xbox-live-to-twitter-update-(v0-2-3)
+- /blog/xbox-live-to-twitter-update-(v0-2-3)
 tags:
 - code
 - live

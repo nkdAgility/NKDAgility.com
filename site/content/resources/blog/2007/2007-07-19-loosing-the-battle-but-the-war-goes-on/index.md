@@ -27,6 +27,8 @@ aliasesFor404:
 - /blog/loosing-the-battle-but-the-war-goes-on
 - /loosing-the-battle,-but-the-war-goes-on
 - /blog/loosing-the-battle,-but-the-war-goes-on
+- /loosing-the-battle--but-the-war-goes-on
+- /blog/loosing-the-battle--but-the-war-goes-on
 tags:
 - fail
 - tfs

@@ -27,6 +27,8 @@ aliasesFor404:
 - /blog/professional-scrum-foundations-in-alameda-california
 - /professional-scrum-foundations-in-alameda,-california
 - /blog/professional-scrum-foundations-in-alameda,-california
+- /professional-scrum-foundations-in-alameda--california
+- /blog/professional-scrum-foundations-in-alameda--california
 tags:
 - agile
 - improve

@@ -27,6 +27,8 @@ aliasesFor404:
 - /blog/the-tfs-automation-platform-is-dead-long-live-the-tfplugable
 - /the-tfs-automation-platform-is-dead,-long-live-the-tfplugable
 - /blog/the-tfs-automation-platform-is-dead,-long-live-the-tfplugable
+- /the-tfs-automation-platform-is-dead--long-live-the-tfplugable
+- /blog/the-tfs-automation-platform-is-dead--long-live-the-tfplugable
 tags:
 - configuration
 - develop

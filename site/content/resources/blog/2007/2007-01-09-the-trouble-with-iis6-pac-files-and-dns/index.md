@@ -27,6 +27,8 @@ aliasesFor404:
 - /blog/the-trouble-with-iis6-pac-files-and-dns
 - /the-trouble-with-iis6,--pac-files-and-dns
 - /blog/the-trouble-with-iis6,--pac-files-and-dns
+- /the-trouble-with-iis6---pac-files-and-dns
+- /blog/the-trouble-with-iis6---pac-files-and-dns
 tags:
 - network
 preview: nakedalm-logo-128-link-1-1.png

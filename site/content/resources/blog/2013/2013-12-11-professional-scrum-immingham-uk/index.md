@@ -27,6 +27,8 @@ aliasesFor404:
 - /blog/professional-scrum-immingham-uk
 - /professional-scrum-in-immingham,-uk
 - /blog/professional-scrum-in-immingham,-uk
+- /professional-scrum-in-immingham--uk
+- /blog/professional-scrum-in-immingham--uk
 tags:
 - professioal-scrum
 - psf

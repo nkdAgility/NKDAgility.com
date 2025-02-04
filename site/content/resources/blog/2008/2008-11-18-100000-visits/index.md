@@ -27,6 +27,8 @@ aliasesFor404:
 - /blog/100000-visits
 - /100,000-visits
 - /blog/100,000-visits
+- /100-000-visits
+- /blog/100-000-visits
 tags:
 - answers
 categories:

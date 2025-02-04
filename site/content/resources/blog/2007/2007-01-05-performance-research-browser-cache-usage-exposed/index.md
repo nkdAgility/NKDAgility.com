@@ -28,6 +28,8 @@ aliasesFor404:
 - /blog/performance-research-browser-cache-usage-exposed
 - /performance-research,-browser-cache-usage---exposed-
 - /blog/performance-research,-browser-cache-usage---exposed-
+- /performance-research--browser-cache-usage---exposed-
+- /blog/performance-research--browser-cache-usage---exposed-
 tags:
 - off-topic
 - web

@@ -27,6 +27,8 @@ aliasesFor404:
 - /blog/internet-connection-speed-wow
 - /internet-connection-speed,-wow
 - /blog/internet-connection-speed,-wow
+- /internet-connection-speed--wow
+- /blog/internet-connection-speed--wow
 categories:
 - me
 preview: nakedalm-logo-128-link-5-1.png

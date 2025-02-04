@@ -27,6 +27,8 @@ aliasesFor404:
 - /blog/alm-consulting-scotland-uk-scandinavia-europe
 - /alm-consulting-in-scotland,-uk,-scandinavia-&amp;-europe
 - /blog/alm-consulting-in-scotland,-uk,-scandinavia-&amp;-europe
+- /alm-consulting-in-scotland--uk--scandinavia-&amp;-europe
+- /blog/alm-consulting-in-scotland--uk--scandinavia-&amp;-europe
 tags:
 - automated-build
 - automation
