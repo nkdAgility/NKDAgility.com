@@ -131,6 +131,9 @@ function Update-YoutubeMarkdownFiles {
 
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'videoId' -fieldValue $videoId
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceId' -fieldValue $videoId -addAfter "date"
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceType' -fieldValue "video" -addAfter "ResourceId"
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImport' -fieldValue $true -addAfter 'ResourceType'
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImportSource' -fieldValue "Youtube" -addAfter 'ResourceImport'
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'source' -fieldValue $source -addAfter "videoId" 
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'url' -fieldValue "/resources/videos/:slug"
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'slug' -fieldValue $urlSafeTitle

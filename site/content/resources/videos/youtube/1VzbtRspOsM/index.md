@@ -3,6 +3,9 @@ title: How Immersive Learning Transforms Aspiring Agile Leaders
 description: Discover why the PAL-E immersive learning experience is essential for aspiring agile leaders, blending scrum training with hands-on coaching for effective transition.
 date: 2023-11-24T07:00:00Z
 ResourceId: 1VzbtRspOsM
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: 1VzbtRspOsM
 source: internal
 url: /resources/videos/:slug

@@ -3,6 +3,9 @@ title: Live Virtual Professional Agile Leadership in 5 minutes!
 description: Discover Agile Leadership in just 5 minutes! Watch our timelapse overview of a comprehensive training course and explore free workshops on our channel.
 date: 2021-10-22T10:56:51Z
 ResourceId: _ghSntAkoKI
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: _ghSntAkoKI
 url: /resources/videos/:slug
 slug: live-virtual-professional-agile-leadership-in-5-minutes!
