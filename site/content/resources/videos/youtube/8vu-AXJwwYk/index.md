@@ -3,6 +3,9 @@ title: How much of an impact can a great agile consultant have?
 description: Discover how a skilled agile consultant can transform your team's approach to product development, navigating complexity and driving success in uncertain environments.
 date: 2023-01-24T07:30:02Z
 ResourceId: 8vu-AXJwwYk
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: 8vu-AXJwwYk
 url: /resources/videos/:slug
 slug: how-much-of-an-impact-can-a-great-agile-consultant-have-
@@ -12,6 +15,7 @@ aliases:
 - /resources/videos/8vu-AXJwwYk
 - /resources/videos/how-much-of-an-impact-can-a-great-agile-consultant-have-
 - /resources/how-much-of-an-impact-can-a-great-agile-consultant-have-
+- /resources/8vu-AXJwwYk
 preview: https://i.ytimg.com/vi/8vu-AXJwwYk/maxresdefault.jpg
 duration: 554
 isShort: false

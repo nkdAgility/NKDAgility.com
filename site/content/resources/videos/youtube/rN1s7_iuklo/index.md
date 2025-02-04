@@ -3,6 +3,9 @@ title: Empowering Teams to Maximize Value and Return on Investment
 description: "Unlock your team's potential! Discover how empowering Agile teams boosts innovation, adaptability, and ROI in this insightful video. Click to learn more! \U0001F4BC\U0001F4C8"
 date: 2024-07-24T06:45:04Z
 ResourceId: rN1s7_iuklo
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: rN1s7_iuklo
 source: internal
 url: /resources/videos/:slug
@@ -16,6 +19,7 @@ aliases:
 - /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-5
 - /resources/videos/rN1s7_iuklo
 - /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-5
+- /resources/rN1s7_iuklo
 sitemap:
   filename: sitemap.xml
   priority: 0.6

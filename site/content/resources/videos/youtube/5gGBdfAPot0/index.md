@@ -4,6 +4,9 @@ description: Discover the essentials of PSOP in just 10 minutes! This quick guid
 ExpiryDate: 2021-10-21T16:14:26.0000000Z
 date: 2021-10-21T16:14:26Z
 ResourceId: 5gGBdfAPot0
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: 5gGBdfAPot0
 source: youtube
 url: /resources/videos/:slug
@@ -13,6 +16,7 @@ aliases:
 - /resources/videos/5gGBdfAPot0
 - /resources/videos/psop-in-10m
 - /resources/psop-in-10m
+- /resources/5gGBdfAPot0
 preview: https://i9.ytimg.com/vi/5gGBdfAPot0/maxresdefault.jpg?sqp=CKzMp7oG&rs=AOn4CLBPLjLr5QHuydXM_TOvhF7Pa9NBhQ
 duration: 602
 isShort: false

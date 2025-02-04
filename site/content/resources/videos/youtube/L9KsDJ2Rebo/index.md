@@ -3,6 +3,9 @@ title: What excites you most about the PSM immersive learning journey for delega
 description: Join Kanban Dan as he shares his excitement about the transformative 7-week immersive learning journey for aspiring scrum masters at NKD Agility!
 date: 2023-07-13T07:45:48Z
 ResourceId: L9KsDJ2Rebo
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: L9KsDJ2Rebo
 url: /resources/videos/:slug
 slug: what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-
@@ -12,6 +15,7 @@ aliases:
 - /resources/videos/L9KsDJ2Rebo
 - /resources/videos/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-
 - /resources/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-
+- /resources/L9KsDJ2Rebo
 preview: https://i.ytimg.com/vi/L9KsDJ2Rebo/maxresdefault.jpg
 duration: 84
 isShort: false

@@ -3,6 +3,9 @@ title: Making Data Driven Decisions - Decision making frameworks
 description: Discover why agile decision-making requires flexibility and creativity in today's complex world. Embrace adaptation for success in product development!
 date: 2024-10-03T07:00:16Z
 ResourceId: RnMOINwjO84
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: RnMOINwjO84
 url: /resources/videos/:slug
 slug: making-data-driven-decisions-decision-making-frameworks
@@ -12,6 +15,7 @@ aliases:
 - /resources/videos/RnMOINwjO84
 - /resources/videos/making-data-driven-decisions-decision-making-frameworks
 - /resources/making-data-driven-decisions-decision-making-frameworks
+- /resources/RnMOINwjO84
 preview: https://i.ytimg.com/vi/RnMOINwjO84/maxresdefault.jpg
 duration: 971
 isShort: false

@@ -3,6 +3,9 @@ title: Why have you decided to go all in on immersive learning experiences?
 description: "Discover how immersive learning transforms training into a journey of engagement and growth with Martin! Embrace a new way to learn. \U0001F331\U0001F4DA"
 date: 2023-07-10T07:00:18Z
 ResourceId: qEaiA_m8Vyg
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: qEaiA_m8Vyg
 source: internal
 url: /resources/videos/:slug
@@ -15,6 +18,7 @@ aliases:
 - /resources/why-have-you-decided-to-go-all-in-on-immersive-learning-experiences
 - /resources/videos/why-have-you-decided-to-go-all-in-on-immersive-learning-experiences
 - /resources/videos/qEaiA_m8Vyg
+- /resources/qEaiA_m8Vyg
 sitemap:
   filename: sitemap.xml
   priority: 0.6

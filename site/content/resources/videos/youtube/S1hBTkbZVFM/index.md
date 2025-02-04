@@ -3,6 +3,9 @@ title: 'The Key to Hiring the Right Agile Coach: Building Credibility with Teams
 description: "Discover 5 key considerations for hiring an #AgileCoach with Martin Hinshelwood in this insightful #shorts video. Elevate your team's performance today!"
 date: 2023-11-20T11:00:30Z
 ResourceId: S1hBTkbZVFM
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: S1hBTkbZVFM
 source: internal
 url: /resources/videos/:slug
@@ -16,6 +19,7 @@ aliases:
 - /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-1
 - /resources/videos/S1hBTkbZVFM
 - /resources/5-things-to-consider-before-hiring-an-agilecoach-part-1
+- /resources/S1hBTkbZVFM
 sitemap:
   filename: sitemap.xml
   priority: 0.6

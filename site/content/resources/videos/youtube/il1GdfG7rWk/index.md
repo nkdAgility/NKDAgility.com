@@ -3,6 +3,9 @@ title: 'Mastering Product Backlog Management: Essential Skills for Product Owner
 description: Master product backlog management with our expert guide! Learn essential strategies for new product owners to deliver maximum value. Subscribe for insights!
 date: 2023-12-18T07:00:15Z
 ResourceId: il1GdfG7rWk
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: il1GdfG7rWk
 source: internal
 url: /resources/videos/:slug
@@ -16,6 +19,7 @@ aliases:
 - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-4
 - /resources/videos/il1GdfG7rWk
 - /resources/5-things-you-would-teach-a-productowner-apprentice-part-4
+- /resources/il1GdfG7rWk
 sitemap:
   filename: sitemap.xml
   priority: 0.6

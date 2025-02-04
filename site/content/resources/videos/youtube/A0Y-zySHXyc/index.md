@@ -3,6 +3,9 @@ title: What are the barriers that prevent developers from fully accepting a Prod
 description: Explore the barriers hindering developers from accepting product owners' decisions. Discover the importance of respect and accountability in agile teams!
 date: 2023-10-03T07:00:08Z
 ResourceId: A0Y-zySHXyc
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: A0Y-zySHXyc
 source: internal
 url: /resources/videos/:slug
@@ -16,6 +19,7 @@ aliases:
 - /resources/videos/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-word
 - /resources/videos/A0Y-zySHXyc
 - /resources/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-word
+- /resources/A0Y-zySHXyc
 sitemap:
   filename: sitemap.xml
   priority: 0.6

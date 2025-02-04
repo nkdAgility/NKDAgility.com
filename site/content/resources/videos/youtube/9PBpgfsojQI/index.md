@@ -3,6 +3,9 @@ title: 2023 is predicted to be a very tough year. What do you think will be need
 description: Discover key strategies for thriving in 2023's challenges as Martin Hinshelwood explores the essentials for successful Agile leadership and adaptation.
 date: 2023-02-13T22:00:04Z
 ResourceId: 9PBpgfsojQI
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: 9PBpgfsojQI
 source: internal
 url: /resources/videos/:slug
@@ -16,6 +19,7 @@ aliases:
 - /resources/videos/2023-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve-
 - /resources/videos/9PBpgfsojQI
 - /resources/2023-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve-
+- /resources/9PBpgfsojQI
 sitemap:
   filename: sitemap.xml
   priority: 0.6

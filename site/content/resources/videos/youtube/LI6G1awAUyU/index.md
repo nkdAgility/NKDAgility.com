@@ -3,6 +3,9 @@ title: What are the most common challenges you are contracted to solve in a DevO
 description: Join Martin Hinshelwood as he uncovers common challenges faced in DevOps consulting, bridging the gap between Agile and effective product development.
 date: 2023-04-21T07:00:06Z
 ResourceId: LI6G1awAUyU
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: LI6G1awAUyU
 url: /resources/videos/:slug
 slug: what-are-the-most-common-challenges-you-are-contracted-to-solve-in-a-devops-consulting-gig-
@@ -12,6 +15,7 @@ aliases:
 - /resources/videos/LI6G1awAUyU
 - /resources/videos/what-are-the-most-common-challenges-you-are-contracted-to-solve-in-a-devops-consulting-gig-
 - /resources/what-are-the-most-common-challenges-you-are-contracted-to-solve-in-a-devops-consulting-gig-
+- /resources/LI6G1awAUyU
 preview: https://i.ytimg.com/vi/LI6G1awAUyU/maxresdefault.jpg
 duration: 370
 isShort: false

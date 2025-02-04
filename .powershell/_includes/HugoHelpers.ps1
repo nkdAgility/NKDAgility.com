@@ -148,6 +148,15 @@ function Update-StringList {
             Write-Host "$fieldName already contains all values"
         }
     }
+
+    # Ensure uniqueness while preserving the first occurrence’s casing
+    $seen = @{}
+    $frontMatter[$fieldName] = @(
+        $frontMatter[$fieldName] | Where-Object { 
+            $lower = $_.ToLower()
+            -not $seen.ContainsKey($lower) -and ($seen[$lower] = $_)  # Store the first occurrence's original case
+        }
+    )
     
     $frontMatter[$fieldName] = @($frontMatter[$fieldName] | Select-Object -Unique)
 

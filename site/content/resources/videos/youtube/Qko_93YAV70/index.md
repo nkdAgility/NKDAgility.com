@@ -3,6 +3,9 @@ title: Kanban Vs Scrum
 description: 'Explore the key differences between Kanban and Scrum in this insightful video. Discover which Agile framework suits your project best! #agile #scrum #kanban'
 date: 2024-08-13T07:04:49Z
 ResourceId: Qko_93YAV70
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: Qko_93YAV70
 url: /resources/videos/:slug
 slug: kanban-vs-scrum
@@ -12,6 +15,7 @@ aliases:
 - /resources/videos/Qko_93YAV70
 - /resources/videos/kanban-vs-scrum
 - /resources/kanban-vs-scrum
+- /resources/Qko_93YAV70
 preview: https://i.ytimg.com/vi/Qko_93YAV70/maxresdefault.jpg
 duration: 50
 isShort: true

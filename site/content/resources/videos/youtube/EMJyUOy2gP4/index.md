@@ -3,6 +3,9 @@ title: 'The Problem with Incompetent Scrum Masters: Why Lack of Skills in Team C
 description: Discover the true ROI of hiring skilled Scrum Masters and learn how their competence impacts team performance, innovation, and value delivery.
 date: 2024-10-22T07:00:08Z
 ResourceId: EMJyUOy2gP4
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: EMJyUOy2gP4
 source: internal
 url: /resources/videos/:slug
@@ -16,6 +19,7 @@ aliases:
 - /resources/videos/what-are-the-financial-implications-for-organizations-that-employ-under-skilled-scrum-masters
 - /resources/videos/EMJyUOy2gP4
 - /resources/what-are-the-financial-implications-for-organizations-that-employ-under-skilled-scrum-masters
+- /resources/EMJyUOy2gP4
 sitemap:
   filename: sitemap.xml
   priority: 0.6

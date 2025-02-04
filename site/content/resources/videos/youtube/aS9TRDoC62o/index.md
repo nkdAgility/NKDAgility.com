@@ -3,6 +3,9 @@ title: If a client hasn't considered DevOps consulting as part of their Agile Co
 description: Discover why integrating DevOps consulting into your Agile coaching can enhance team performance and streamline software delivery. Watch now!
 date: 2023-08-21T07:00:01Z
 ResourceId: aS9TRDoC62o
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: aS9TRDoC62o
 source: internal
 url: /resources/videos/:slug
@@ -17,6 +20,7 @@ aliases:
 - /resources/videos/if-a-client-hasn't-considered-devops-consulting-as-part-of-their-agile-consulting-needs,-why-should
 - /resources/videos/aS9TRDoC62o
 - /resources/if-a-client-hasn't-considered-devops-consulting-as-part-of-their-agile-consulting-needs,-why-should
+- /resources/aS9TRDoC62o
 sitemap:
   filename: sitemap.xml
   priority: 0.6

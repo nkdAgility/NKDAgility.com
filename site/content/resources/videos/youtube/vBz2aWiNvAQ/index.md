@@ -3,6 +3,9 @@ title: Free Workshop 4 - Introduction to the Sprint Review!
 description: Join Martin Hinshelwood for a free 90m workshop on mastering Sprint Reviews! Learn how to gather feedback and plan your next steps effectively.
 date: 2021-09-16T15:17:32Z
 ResourceId: vBz2aWiNvAQ
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: vBz2aWiNvAQ
 source: youtube
 url: /resources/videos/:slug
@@ -14,6 +17,7 @@ aliases:
 - /resources/videos/vBz2aWiNvAQ
 - /resources/videos/free-workshop-4-introduction-to-the-sprint-review!
 - /resources/free-workshop-4-introduction-to-the-sprint-review!
+- /resources/vBz2aWiNvAQ
 preview: https://i.ytimg.com/vi/vBz2aWiNvAQ/maxresdefault.jpg
 duration: 5694
 isShort: false

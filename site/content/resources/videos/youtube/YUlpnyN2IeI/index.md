@@ -3,6 +3,9 @@ title: Best Scrum advice you ever received?
 description: "Unlock Scrum's true potential! Embrace flexibility over dogma with expert insights from Martin. Discover adaptive practices for effective project management. \U0001F680"
 date: 2023-06-05T07:00:20Z
 ResourceId: YUlpnyN2IeI
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: YUlpnyN2IeI
 source: internal
 url: /resources/videos/:slug
@@ -17,6 +20,7 @@ aliases:
 - /resources/videos/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
 - /resources/videos/YUlpnyN2IeI
 - /resources/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
+- /resources/YUlpnyN2IeI
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -3,6 +3,9 @@ title: Code Reviews for Quality Assurance
 description: Reimagine code reviews with Martin Hinshelwood! Discover how automation and a shift-left approach enhance quality and speed in software development.
 date: 2024-11-27T06:00:25Z
 ResourceId: r2G-NrSIj2k
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: r2G-NrSIj2k
 source: internal
 url: /resources/videos/:slug
@@ -12,6 +15,7 @@ aliases:
 - /resources/videos/r2G-NrSIj2k
 - /resources/videos/code-reviews-for-quality-assurance
 - /resources/code-reviews-for-quality-assurance
+- /resources/r2G-NrSIj2k
 preview: https://i.ytimg.com/vi/r2G-NrSIj2k/maxresdefault.jpg
 duration: 116
 isShort: false

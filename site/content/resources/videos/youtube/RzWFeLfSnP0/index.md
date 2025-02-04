@@ -3,6 +3,9 @@ title: Why is done so important in the Reporting & Data Space?
 description: Discover why "done" is crucial in Reporting & Data with Mark Noneman, as he shares insights on lean and agile practices to boost quality and productivity.
 date: 2021-03-17T08:50:40Z
 ResourceId: RzWFeLfSnP0
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: RzWFeLfSnP0
 source: youtube
 url: /resources/videos/:slug
@@ -14,6 +17,7 @@ aliases:
 - /resources/videos/RzWFeLfSnP0
 - /resources/videos/why-is-done-so-important-in-the-reporting-&-data-space-
 - /resources/why-is-done-so-important-in-the-reporting-&-data-space-
+- /resources/RzWFeLfSnP0
 preview: https://i.ytimg.com/vi/RzWFeLfSnP0/maxresdefault.jpg
 duration: 1929
 isShort: false

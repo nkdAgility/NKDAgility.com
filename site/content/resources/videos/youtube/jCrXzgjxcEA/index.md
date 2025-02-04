@@ -3,6 +3,9 @@ title: Kanban with Azure DevOps
 description: Unlock Kanban's potential with Azure DevOps! Join Martin Hinshelwood for expert tips on enhancing workflow and collaboration in hybrid environments.
 date: 2024-03-29T16:42:17Z
 ResourceId: jCrXzgjxcEA
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: jCrXzgjxcEA
 url: /resources/videos/:slug
 slug: kanban-with-azure-devops
@@ -12,6 +15,7 @@ aliases:
 - /resources/videos/jCrXzgjxcEA
 - /resources/videos/kanban-with-azure-devops
 - /resources/kanban-with-azure-devops
+- /resources/jCrXzgjxcEA
 preview: https://i.ytimg.com/vi/jCrXzgjxcEA/maxresdefault.jpg
 duration: 1448
 isShort: false

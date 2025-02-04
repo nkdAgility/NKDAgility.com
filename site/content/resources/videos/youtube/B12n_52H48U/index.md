@@ -3,6 +3,9 @@ title: How do you decide whether to pivot or stay the course? (Nokia story)
 description: "Explore the pivotal choices in product management: when to pivot, persevere, or walk away. Join us for insights and real-world examples! \U0001F680"
 date: 2023-09-13T13:59:54Z
 ResourceId: B12n_52H48U
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: B12n_52H48U
 source: internal
 url: /resources/videos/:slug
@@ -17,6 +20,7 @@ aliases:
 - /resources/videos/raise,-ante-up,-or-fold-the-ultimate-decision-in-business
 - /resources/videos/B12n_52H48U
 - /resources/raise,-ante-up,-or-fold-the-ultimate-decision-in-business
+- /resources/B12n_52H48U
 sitemap:
   filename: sitemap.xml
   priority: 0.6

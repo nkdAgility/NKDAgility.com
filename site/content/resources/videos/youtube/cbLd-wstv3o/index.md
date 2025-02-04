@@ -3,6 +3,9 @@ title: How to Discover Unrealized Value in Your Product
 description: "Discover 5 compelling reasons to implement Evidence-Based Management (EBM) in your environment and unlock your product's unrealised potential! #EBM #Shorts"
 date: 2024-01-24T11:00:29Z
 ResourceId: cbLd-wstv3o
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: cbLd-wstv3o
 source: internal
 url: /resources/videos/:slug
@@ -16,6 +19,7 @@ aliases:
 - /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-3
 - /resources/videos/cbLd-wstv3o
 - /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-3
+- /resources/cbLd-wstv3o
 sitemap:
   filename: sitemap.xml
   priority: 0.6

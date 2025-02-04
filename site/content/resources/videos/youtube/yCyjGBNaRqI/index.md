@@ -3,6 +3,9 @@ title: NKD Agility Mission and Purpose
 description: Discover NKD Agility's mission and purpose with Martin Hinshelwood, as he reveals what drives our passion for Agile practices.
 date: 2024-05-10T06:45:01Z
 ResourceId: yCyjGBNaRqI
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: yCyjGBNaRqI
 url: /resources/videos/:slug
 slug: nkd-agility-mission-and-purpose
@@ -12,6 +15,7 @@ aliases:
 - /resources/videos/yCyjGBNaRqI
 - /resources/videos/nkd-agility-mission-and-purpose
 - /resources/nkd-agility-mission-and-purpose
+- /resources/yCyjGBNaRqI
 preview: https://i.ytimg.com/vi/yCyjGBNaRqI/maxresdefault.jpg
 duration: 174
 isShort: false

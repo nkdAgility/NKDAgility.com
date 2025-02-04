@@ -3,6 +3,9 @@ title: 'Detecting Agile BS: Lessons from the US Department of Defense'
 description: "Is your company truly Agile? \U0001F914 Discover a 6-question test inspired by the U.S. Department of Defense to assess and enhance your Agile practices!"
 date: 2024-06-28T06:45:01Z
 ResourceId: O6rYL3EDUxM
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: O6rYL3EDUxM
 source: internal
 url: /resources/videos/:slug
@@ -16,6 +19,7 @@ aliases:
 - /resources/videos/6-questions-to-determine-if-your-company-is-really-agile-the-agile-reality-check-[1-6]
 - /resources/videos/O6rYL3EDUxM
 - /resources/6-questions-to-determine-if-your-company-is-really-agile-the-agile-reality-check-[1-6]
+- /resources/O6rYL3EDUxM
 sitemap:
   filename: sitemap.xml
   priority: 0.6

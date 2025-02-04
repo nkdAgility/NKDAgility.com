@@ -3,6 +3,9 @@ title: 'Say-Do Metrics: Avoiding Agile Banditry in Your Organization'
 description: "Uncover the truth behind say-do metrics in Agile! Join Martin as he reveals pitfalls and shares insights for genuine outcomes. \U0001F680\U0001F4CA #Agile #Transparency"
 date: 2024-01-05T07:00:28Z
 ResourceId: oKZ9bbESCok
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: oKZ9bbESCok
 source: internal
 url: /resources/videos/:slug
@@ -16,6 +19,7 @@ aliases:
 - /resources/videos/5-kinds-of-agile-bandits-say-do-metrics
 - /resources/videos/oKZ9bbESCok
 - /resources/5-kinds-of-agile-bandits-say-do-metrics
+- /resources/oKZ9bbESCok
 sitemap:
   filename: sitemap.xml
   priority: 0.6

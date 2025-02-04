@@ -7,7 +7,7 @@
 $outputDir = "site\content\resources\"
 
 # Get list of directories and select the first 10
-$resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md" #| Select-Object -First 10
+$resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md" | Select-Object -First 10
 
 $resources | ForEach-Object {
     $resourceDir = (Get-Item -Path $_).DirectoryName
@@ -88,6 +88,7 @@ $resources | ForEach-Object {
         if ($404aliases -is [array] -and $404aliases.Count -gt 0) {
             Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliasesFor404' -values $404aliases -addAfter 'aliases'
         }
+
         Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $markdownFile
     }
     else {

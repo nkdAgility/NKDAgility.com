@@ -3,6 +3,9 @@ title: Is a Scrum Master an Agile micromanager?
 description: 'Join Martin Hinshelwood in this #shorts video as he tackles the question: Is a Scrum Master an Agile micromanager? Discover insights in just 60 seconds!'
 date: 2023-04-24T07:00:18Z
 ResourceId: USrwyGHG_tc
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: USrwyGHG_tc
 source: internal
 url: /resources/videos/:slug
@@ -17,6 +20,7 @@ aliases:
 - /resources/videos/is-a-scrum-master-an-agile-micro-manager-
 - /resources/videos/USrwyGHG_tc
 - /resources/is-a-scrum-master-an-agile-micro-manager-
+- /resources/USrwyGHG_tc
 sitemap:
   filename: sitemap.xml
   priority: 0.6

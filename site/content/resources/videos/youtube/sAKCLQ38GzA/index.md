@@ -3,6 +3,9 @@ title: Does 'starting with why' - Simon Sinek - really matter?
 description: Explore the essence of motivation beyond money! Discover how 'starting with why' fuels intrinsic drive and purpose in the workplace.
 date: 2023-10-19T08:22:23Z
 ResourceId: sAKCLQ38GzA
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: sAKCLQ38GzA
 source: internal
 url: /resources/videos/:slug
@@ -16,6 +19,7 @@ aliases:
 - /resources/videos/does-'starting-with-why'-simon-sinek-really-matter-
 - /resources/videos/sAKCLQ38GzA
 - /resources/does-'starting-with-why'-simon-sinek-really-matter-
+- /resources/sAKCLQ38GzA
 sitemap:
   filename: sitemap.xml
   priority: 0.6

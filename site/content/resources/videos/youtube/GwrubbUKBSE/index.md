@@ -3,6 +3,9 @@ title: 30th March 2020 - Office Hours \ Ask Me Anything
 description: Join Martin, a Scrum Trainer and Microsoft MVP, for an engaging AMA on DevOps and Agility. Ask your questions live or submit them privately!
 date: 2020-04-10T18:32:34Z
 ResourceId: GwrubbUKBSE
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: GwrubbUKBSE
 url: /resources/videos/:slug
 slug: 30th-march-2020-office-hours-ask-me-anything
@@ -12,6 +15,7 @@ aliases:
 - /resources/videos/GwrubbUKBSE
 - /resources/videos/30th-march-2020-office-hours-ask-me-anything
 - /resources/30th-march-2020-office-hours-ask-me-anything
+- /resources/GwrubbUKBSE
 preview: https://i.ytimg.com/vi/GwrubbUKBSE/hqdefault.jpg
 duration: 2127
 isShort: false

@@ -3,6 +3,9 @@ title: Is a Product Owner an Agile Project Manager?
 description: "Discover why a product owner isn't an agile project manager! Join Martin Hinshelwood as he explores the essence of agile in product development. #shorts"
 date: 2023-05-25T07:00:06Z
 ResourceId: HcoTwjPnLC0
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: HcoTwjPnLC0
 source: internal
 url: /resources/videos/:slug
@@ -17,6 +20,7 @@ aliases:
 - /resources/videos/is-a-product-owner-an-agile-project-manager-
 - /resources/videos/HcoTwjPnLC0
 - /resources/is-a-product-owner-an-agile-project-manager-
+- /resources/HcoTwjPnLC0
 sitemap:
   filename: sitemap.xml
   priority: 0.6

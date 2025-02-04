@@ -3,6 +3,9 @@ title: Who should lead the sprint review?
 description: "Unlock the secrets to a successful Sprint Review! Join Martin as he guides Scrum teams on maximising productivity and stakeholder engagement. \U0001F680 #Scrum #Agile"
 date: 2023-09-06T07:00:15Z
 ResourceId: n6Suj-swl88
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: n6Suj-swl88
 url: /resources/videos/:slug
 slug: who-should-lead-the-sprint-review-
@@ -13,6 +16,7 @@ aliases:
 - /resources/videos/who-should-lead-the-sprint-review-
 - /resources/who-should-lead-the-sprint-review-why-how
 - /resources/who-should-lead-the-sprint-review-
+- /resources/n6Suj-swl88
 preview: https://i.ytimg.com/vi/n6Suj-swl88/maxresdefault.jpg
 duration: 286
 isShort: false

@@ -3,6 +3,9 @@ title: 'The Art of Negotiation for Product Owners: Essential Skills to Master'
 description: Unlock essential negotiation skills for product owners! Learn strategies from an FBI expert to enhance your influence and success. Watch now!
 date: 2023-12-13T07:00:07Z
 ResourceId: DBa5_WhA68M
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: DBa5_WhA68M
 source: internal
 url: /resources/videos/:slug
@@ -16,6 +19,7 @@ aliases:
 - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-1
 - /resources/videos/DBa5_WhA68M
 - /resources/5-things-you-would-teach-a-productowner-apprentice-part-1
+- /resources/DBa5_WhA68M
 sitemap:
   filename: sitemap.xml
   priority: 0.6

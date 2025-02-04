@@ -3,6 +3,9 @@ title: NKDA Webcast Agile Leadership Agile Transformation 20231005 130313 Meetin
 description: Join Dr. Joanna Płaskonka & Martin Hinshelwood in this 18-min webcast to explore Agile Leadership & Transformation. Gain insights, strategies, and engage in Q&A!
 date: 2023-10-05T15:32:01Z
 ResourceId: COUE296XnWc
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: COUE296XnWc
 source: youtube
 url: /resources/videos/:slug
@@ -14,6 +17,7 @@ aliases:
 - /resources/videos/COUE296XnWc
 - /resources/videos/nkda-webcast-agile-leadership-agile-transformation-20231005-130313-meeting-recording-1
 - /resources/nkda-webcast-agile-leadership-agile-transformation-20231005-130313-meeting-recording-1
+- /resources/COUE296XnWc
 preview: https://i.ytimg.com/vi/COUE296XnWc/maxresdefault.jpg
 duration: 3719
 isShort: false

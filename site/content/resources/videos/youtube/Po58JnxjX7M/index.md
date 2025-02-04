@@ -3,6 +3,9 @@ title: 'Before You Call Yourself an Agile Coach: The Importance of Real Experien
 description: 'Discover the first of 5 essential achievements to become an #AgileCoach with Martin Hinshelwood. Elevate your coaching journey today! #shorts #agile'
 date: 2023-11-13T11:00:29Z
 ResourceId: Po58JnxjX7M
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: Po58JnxjX7M
 source: internal
 url: /resources/videos/:slug
@@ -16,6 +19,7 @@ aliases:
 - /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-1
 - /resources/videos/Po58JnxjX7M
 - /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-1
+- /resources/Po58JnxjX7M
 sitemap:
   filename: sitemap.xml
   priority: 0.6
