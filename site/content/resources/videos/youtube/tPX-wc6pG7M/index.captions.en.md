@@ -1,0 +1,9 @@
+If even large organizations are struggling to deliver value to figure out what products they should build and how to maximize their effectiveness in the market, what chance do small organizations have with smaller budgets and less quantity of people to be able to focus on this task? 
+
+And the reality is, it's not about scale; it's about your ability to engage the people that you've got in creating those products of the highest possible value. Traditional management practices inhibit the ability of you to get the most out of the people that you have because it tells them what to do, it tells them where to go, it tells them what to do, and it tells them how to do it. 
+
+We need to start looking at this whole process differently. We need to reorganize the way we structure organizations in order to decentralize, democratize, and engage the people that we have in maximizing the value that our organizations can deliver. And that doesn't come from rules; it comes from principles. Principles so that everybody knows and understands the direction that we're going and what we're trying to achieve. 
+
+And we let them figure out how they can leverage their own skills that they understand in maximizing the benefits for our organization. That's not something we can know as leaders. We have to enable the people in our organization to figure out how best to leverage their capability for our benefit. And for that, they need to be engaged, they need to care, and they need to want the organization to succeed. 
+
+If they're just turning up for a paycheck and they don't really care about your organization, you're not going to get those outcomes. Thank you.

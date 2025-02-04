@@ -1,0 +1,1 @@
+The first reason why we don't use Lego in our training is that it completely undermines the importance of what it is that we're talking about. Um, it is really, really difficult to express the ideas of this new collaborative, engaging, fast-paced way of working when you've got a bunch of CEOs sitting there on the floor playing with Lego.

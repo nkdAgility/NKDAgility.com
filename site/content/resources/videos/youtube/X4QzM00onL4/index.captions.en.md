@@ -1,0 +1,5 @@
+Of the Agile Apocalypse is chaos. Chaos! Oh my, chaos is everywhere in teams. It manifests as not having a plan, of not knowing which way we're going, not having goals. And what would you expect when everybody doesn't have the same goal? They're not working together towards a common goal. You end up with chaos; everybody's pulling in different directions. 
+
+And this applies not just at the team level, but all the way up your organisation. Why would you think everybody would be going in the same direction if they don't all understand the goals of the organisation, the goals of the product, and how the work that they do every day contributes to those goals? 
+
+Thanks for watching the video! If you enjoyed it, please like, follow, and subscribe. I always reply to comments, and if you want to have a chat about this or anything else—Agile, Scrum, or DevOps—then please book a coffee with me through Naked Agility.

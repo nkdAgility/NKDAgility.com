@@ -1,0 +1,3 @@
+Agile training is great for hard testing. You know, getting that knowledge into the business, getting that knowledge into a large group of people. Especially if I've done gigs where you train everybody in the company in the agile practice season and nobody can say they didn't understand what that thing was, right?
+
+But agile consulting is also generally hard hitting, right? Because you've got a very time-limited nature of that. But it's about targeting specific things that the consultant identifies as not going well or opportunities for improvement within your business. So that's the main difference between training and consulting.
