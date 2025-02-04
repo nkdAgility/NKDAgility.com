@@ -11,6 +11,7 @@ aliases:
 - /resources/videos/_bjNHN4PI9s
 - /resources/videos/ep-007-running-a-live-virtual-classroom
 - /resources/ep-007-running-a-live-virtual-classroom
+- /resources/_bjNHN4PI9s
 preview: https://i.ytimg.com/vi/_bjNHN4PI9s/maxresdefault.jpg
 duration: 1496
 isShort: false

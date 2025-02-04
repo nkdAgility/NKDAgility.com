@@ -11,6 +11,7 @@ aliases:
 - /resources/videos/_fFs-0GL1CA
 - /resources/videos/why-do-you-encourage-people-to-follow-a-certification-path-in-their-career-journey-
 - /resources/why-do-you-encourage-people-to-follow-a-certification-path-in-their-career-journey-
+- /resources/_fFs-0GL1CA
 preview: https://i.ytimg.com/vi/_fFs-0GL1CA/maxresdefault.jpg
 duration: 372
 isShort: false

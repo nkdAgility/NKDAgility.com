@@ -88,7 +88,7 @@ function Update-YoutubeMarkdownFiles {
             # Remove consecutive dashes
             $urlSafeTitle = $urlSafeTitle -replace '-+', '-'
 
-            $aliases = @("/resources/videos/$videoId", "/resources/videos/$urlSafeTitle", "/resources/$urlSafeTitle")
+            $aliases = @("/resources/$videoId", "/resources/videos/$videoId", "/resources/videos/$urlSafeTitle", "/resources/$urlSafeTitle")
            
             # Get the tags from the snippet and filter out excluded tags
             $tags = @()

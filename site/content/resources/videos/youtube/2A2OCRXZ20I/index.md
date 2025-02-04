@@ -13,6 +13,7 @@ aliases:
 - /resources/videos/2A2OCRXZ20I
 - /resources/videos/free-workshop-09-how-to-run-a-daily-scrum
 - /resources/free-workshop-09-how-to-run-a-daily-scrum
+- /resources/2A2OCRXZ20I
 preview: https://i.ytimg.com/vi/2A2OCRXZ20I/maxresdefault.jpg
 duration: 5694
 isShort: false

@@ -15,6 +15,7 @@ aliases:
 - /resources/videos/worst-trait-in-unskilled-scrum-masters-
 - /resources/videos/-pW6YDYEO20
 - /resources/worst-trait-in-unskilled-scrum-masters-
+- /resources/-pW6YDYEO20
 sitemap:
   filename: sitemap.xml
   priority: 0.6

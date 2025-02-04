@@ -13,6 +13,7 @@ aliases:
 - /resources/videos/1CCv95gd_oU
 - /resources/videos/agile-in-nigeria-2020-emotional-intelligence-&-team-performance-with-louisa-mensah
 - /resources/agile-in-nigeria-2020-emotional-intelligence-&-team-performance-with-louisa-mensah
+- /resources/1CCv95gd_oU
 preview: https://i.ytimg.com/vi/1CCv95gd_oU/hqdefault.jpg
 duration: 2739
 isShort: false

@@ -15,6 +15,7 @@ aliases:
 - /resources/videos/why-is-the-pal-e-immersivelearning-experience-such-a-great-fit-for-aspiring-agileleaders-
 - /resources/videos/1VzbtRspOsM
 - /resources/why-is-the-pal-e-immersivelearning-experience-such-a-great-fit-for-aspiring-agileleaders-
+- /resources/1VzbtRspOsM
 sitemap:
   filename: sitemap.xml
   priority: 0.6

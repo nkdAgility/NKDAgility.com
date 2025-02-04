@@ -15,6 +15,7 @@ aliases:
 - /resources/videos/_5daB0lJpdc
 - /resources/videos/5-ghosts-of-agile-past-certification
 - /resources/5-ghosts-of-agile-past-certification
+- /resources/_5daB0lJpdc
 sitemap:
   filename: sitemap.xml
   priority: 0.6

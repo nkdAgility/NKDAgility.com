@@ -15,6 +15,7 @@ aliases:
 - /resources/videos/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team-
 - /resources/videos/-xMY9Heanjk
 - /resources/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team-
+- /resources/-xMY9Heanjk
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -15,6 +15,7 @@ aliases:
 - /resources/videos/_FtFqnZHCjk
 - /resources/videos/agile-vs-traditional-product-management-unveiling-the-key-differences
 - /resources/agile-vs-traditional-product-management-unveiling-the-key-differences
+- /resources/_FtFqnZHCjk
 sitemap:
   filename: sitemap.xml
   priority: 0.6

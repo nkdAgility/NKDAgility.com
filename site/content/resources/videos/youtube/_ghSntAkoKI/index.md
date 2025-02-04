@@ -11,6 +11,7 @@ aliases:
 - /resources/videos/_ghSntAkoKI
 - /resources/videos/live-virtual-professional-agile-leadership-in-5-minutes!
 - /resources/live-virtual-professional-agile-leadership-in-5-minutes!
+- /resources/_ghSntAkoKI
 preview: https://i.ytimg.com/vi/_ghSntAkoKI/maxresdefault.jpg
 duration: 289
 isShort: false

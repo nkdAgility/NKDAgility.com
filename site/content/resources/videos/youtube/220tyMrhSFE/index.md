@@ -11,6 +11,7 @@ aliases:
 - /resources/videos/220tyMrhSFE
 - /resources/videos/kanban-principles
 - /resources/kanban-principles
+- /resources/220tyMrhSFE
 preview: https://i.ytimg.com/vi/220tyMrhSFE/maxresdefault.jpg
 duration: 49
 isShort: true

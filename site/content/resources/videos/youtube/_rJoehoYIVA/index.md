@@ -15,6 +15,7 @@ aliases:
 - /resources/videos/_rJoehoYIVA
 - /resources/videos/what-are-some-of-the-most-common-reasons-why-companies-ask-you-to-do-a-migration-via-azure-devops
 - /resources/what-are-some-of-the-most-common-reasons-why-companies-ask-you-to-do-a-migration-via-azure-devops
+- /resources/_rJoehoYIVA
 sitemap:
   filename: sitemap.xml
   priority: 0.6

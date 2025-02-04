@@ -11,6 +11,7 @@ aliases:
 - /resources/videos/1M2_AVqoRbs
 - /resources/videos/technical-debt-costs-you-more-than-you-think
 - /resources/technical-debt-costs-you-more-than-you-think
+- /resources/1M2_AVqoRbs
 preview: https://i.ytimg.com/vi/1M2_AVqoRbs/maxresdefault.jpg
 duration: 36
 isShort: true

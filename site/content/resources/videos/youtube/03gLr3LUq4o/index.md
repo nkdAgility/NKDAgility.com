@@ -13,6 +13,7 @@ aliases:
 - /resources/videos/03gLr3LUq4o
 - /resources/videos/basic-work-item-migration
 - /resources/basic-work-item-migration
+- /resources/03gLr3LUq4o
 preview: https://i.ytimg.com/vi/03gLr3LUq4o/maxresdefault.jpg
 duration: 2001
 isShort: false

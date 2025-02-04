@@ -11,6 +11,7 @@ aliases:
 - /resources/videos/-Mz9cH0uiTQ
 - /resources/videos/does-a-client-tell-an-agile-consultant-what-they-need-or-does-it-work-the-other-way-around-
 - /resources/does-a-client-tell-an-agile-consultant-what-they-need-or-does-it-work-the-other-way-around-
+- /resources/-Mz9cH0uiTQ
 preview: https://i.ytimg.com/vi/-Mz9cH0uiTQ/maxresdefault.jpg
 duration: 351
 isShort: false

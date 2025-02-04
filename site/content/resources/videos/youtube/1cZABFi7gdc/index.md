@@ -15,6 +15,7 @@ aliases:
 - /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-4
 - /resources/videos/1cZABFi7gdc
 - /resources/5-things-to-consider-before-hiring-an-agilecoach-part-4
+- /resources/1cZABFi7gdc
 sitemap:
   filename: sitemap.xml
   priority: 0.6

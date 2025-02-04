@@ -10,6 +10,7 @@ aliases:
 - /resources/videos/1AO6FFBlE4Y
 - /resources/videos/the-high-cost-of-poor-quality-code-
 - /resources/the-high-cost-of-poor-quality-code-
+- /resources/1AO6FFBlE4Y
 preview: https://i.ytimg.com/vi/1AO6FFBlE4Y/maxresdefault.jpg
 duration: 600
 isShort: false

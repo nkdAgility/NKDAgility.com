@@ -15,6 +15,7 @@ aliases:
 - /resources/videos/“if-you-do-not-change-direction,-you-may-end-up-where-you-are-heading-”-–-lao-tzu
 - /resources/videos/17qTGonSsbM
 - /resources/“if-you-do-not-change-direction,-you-may-end-up-where-you-are-heading-”-–-lao-tzu
+- /resources/17qTGonSsbM
 sitemap:
   filename: sitemap.xml
   priority: 0.6

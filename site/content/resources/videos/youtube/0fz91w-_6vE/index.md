@@ -11,6 +11,7 @@ aliases:
 - /resources/videos/0fz91w-_6vE
 - /resources/videos/what-is-your-primary-role-in-a-devops-consulting-gig-
 - /resources/what-is-your-primary-role-in-a-devops-consulting-gig-
+- /resources/0fz91w-_6vE
 preview: https://i.ytimg.com/vi/0fz91w-_6vE/maxresdefault.jpg
 duration: 138
 isShort: false

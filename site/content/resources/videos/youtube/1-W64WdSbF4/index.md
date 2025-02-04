@@ -16,6 +16,7 @@ aliases:
 - /resources/videos/free-workshop-4-introduction-to-sprint-review!-[audio-fixed]
 - /resources/videos/1-W64WdSbF4
 - /resources/free-workshop-4-introduction-to-sprint-review!-[audio-fixed]
+- /resources/1-W64WdSbF4
 sitemap:
   filename: sitemap.xml
   priority: 0.6

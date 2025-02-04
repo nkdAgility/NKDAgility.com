@@ -15,6 +15,7 @@ aliases:
 - /resources/videos/_WplvWtaxtQ
 - /resources/videos/why-do-you-think-the-psm-immersive-learning-experience-is-a-great-fit-for-aspiring-scrum-masters
 - /resources/why-do-you-think-the-psm-immersive-learning-experience-is-a-great-fit-for-aspiring-scrum-masters
+- /resources/_WplvWtaxtQ
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -11,6 +11,7 @@ aliases:
 - /resources/videos/21k6OgxeKjo
 - /resources/videos/-shorts-5-kinds-of-agile-bandits-5th-kind
 - /resources/-shorts-5-kinds-of-agile-bandits-5th-kind
+- /resources/21k6OgxeKjo
 preview: https://i.ytimg.com/vi/21k6OgxeKjo/maxresdefault.jpg
 duration: 38
 isShort: true

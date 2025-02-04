@@ -18,6 +18,7 @@ aliases:
 - /resources/training-a-bridge-to-knowledge-and-growth
 - /resources/videos/_2ZH7vbKu7Y
 - /resources/3-key-elements-for-an-agile-leader-to-consider-if-the-team-are-incompetent
+- /resources/_2ZH7vbKu7Y
 sitemap:
   filename: sitemap.xml
   priority: 0.6

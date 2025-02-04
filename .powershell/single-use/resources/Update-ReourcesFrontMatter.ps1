@@ -4,23 +4,21 @@
 . ./.powershell/_includes/ResourceHelpers.ps1
 
 # Iterate through each blog folder and update markdown files
-$outputDir = "site\content\resources\blog\2025"
+$outputDir = "site\content\resources\"
 
 # Get list of directories and select the first 10
-$blogs = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md" #| Select-Object -First 10
+$resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md" | Select-Object -First 10
 
-$blogs | ForEach-Object {
-    $blogDir = (Get-Item -Path $_).DirectoryName
+$resources | ForEach-Object {
+    $resourceDir = (Get-Item -Path $_).DirectoryName
     $markdownFile = $_
     Write-Host "--------------------------------------------------------"
-    Write-Host "Processing post: $blogDir"
+    Write-Host "Processing post: $resourceDir"
     if ((Test-Path $markdownFile)) {
 
         # Load markdown as HugoMarkdown object
         $hugoMarkdown = Get-HugoMarkdown -Path $markdownFile
 
-   
-        
         if (-not $hugoMarkdown.FrontMatter.description) {
             # Generate a new description using OpenAI
             $prompt = "Generate a concise, engaging description of no more than 160 characters for the following video: '$($videoData.snippet.title)'. The video details are: '$($videoData.snippet.description)'"
@@ -32,11 +30,13 @@ $blogs | ForEach-Object {
         if ($hugoMarkdown.FrontMatter.Contains("ResourceId")) {
             $ResourceId = $hugoMarkdown.FrontMatter.ResourceId
         }
+        elseif ($hugoMarkdown.FrontMatter.Contains("videoId")) {
+            $ResourceId = $hugoMarkdown.FrontMatter.videoId
+        }
         else {
             $ResourceId = New-ResourceId
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceId' -fieldValue $ResourceId -addAfter 'description'
         }
-
         if ($hugoMarkdown.FrontMatter.Contains("id")) {
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImport' -fieldValue $true -addAfter 'ResourceId'
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImportSource' -fieldValue "Wordpress" -addAfter 'ResourceImport'

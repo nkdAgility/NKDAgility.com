@@ -13,6 +13,7 @@ aliases:
 - /resources/videos/1-jUmFcyiI8
 - /resources/videos/accelerating-time-to-market-with-a-tight-feedback-loop
 - /resources/accelerating-time-to-market-with-a-tight-feedback-loop
+- /resources/1-jUmFcyiI8
 preview: https://i.ytimg.com/vi/1-jUmFcyiI8/maxresdefault.jpg
 duration: 551
 isShort: false
