@@ -2,6 +2,7 @@
 title: Are you doing Scrum? Find out with a Scrum Health Check!
 description: Discover if your team is truly doing Scrum with our Scrum Health Check! Identify improvement opportunities and ensure you're on the right path to success.
 ResourceId: sd5d5KYoXsO
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 4406
 ResourceImportSource: Wordpress

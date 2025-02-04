@@ -2,6 +2,7 @@
 title: 'Big Scrum: All you need and not enough'
 description: "Explore the challenges of scaling Scrum in 'Big Scrum: All you need and not enough.' Discover essential practices for achieving agility at scale."
 ResourceId: yCJ5ERuJHUU
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 11361
 ResourceImportSource: Wordpress

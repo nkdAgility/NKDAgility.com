@@ -2,6 +2,7 @@
 title: Visual Studio 2012 RTM available & installed
 description: Discover the benefits of upgrading to Visual Studio 2012 RTM. Learn about new features, installation tips, and how to enhance your development process.
 ResourceId: 1pWQ2Krlit5
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 7149
 ResourceImportSource: Wordpress

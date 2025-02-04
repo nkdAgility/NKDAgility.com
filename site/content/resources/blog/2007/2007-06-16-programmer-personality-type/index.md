@@ -2,6 +2,7 @@
 title: Programmer personality type
 description: Discover your programmer personality type! Explore the DLTB traits of a Doer, Low-level coder, team player, and liBeral programmer. Unleash your potential!
 ResourceId: ruFX2_EJk4k
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 382
 ResourceImportSource: Wordpress

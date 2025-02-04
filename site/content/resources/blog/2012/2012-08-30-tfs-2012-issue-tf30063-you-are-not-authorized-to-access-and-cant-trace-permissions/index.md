@@ -2,6 +2,7 @@
 title: 'TFS 2012 - Issue: TF30063: You are not authorized to access and can’t trace permissions'
 description: Struggling with TF30063 errors in TFS 2012? Discover the root cause of permission issues and how to resolve them effectively in this insightful guide.
 ResourceId: -k6KiGvRFB7
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 8018
 ResourceImportSource: Wordpress

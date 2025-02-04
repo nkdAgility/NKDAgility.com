@@ -2,6 +2,7 @@
 title: Test Track Pro and the case of the missing data
 description: Explore the challenges of creating a Test Track Pro Adapter for TFS Integration. Discover solutions to data retrieval issues and optimize your workflow!
 ResourceId: h4j0yIumt7h
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 3596
 ResourceImportSource: Wordpress

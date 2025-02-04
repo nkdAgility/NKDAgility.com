@@ -2,6 +2,7 @@
 title: TFS for cross team and cross business line work item tracking
 description: Discover effective strategies for cross-team collaboration in TFS, enhancing work item tracking and project management for software delivery across divisions.
 ResourceId: l6LGPY2BGU5
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 10378
 ResourceImportSource: Wordpress

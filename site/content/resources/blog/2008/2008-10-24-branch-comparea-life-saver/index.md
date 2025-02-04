@@ -2,6 +2,7 @@
 title: Branch Compare…A Life saver
 description: Discover a powerful tool for comparing branches that can simplify your development process. Learn how it can save you time and effort in your projects!
 ResourceId: x-pH6Gc3gyt
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 181
 ResourceImportSource: Wordpress

@@ -2,6 +2,7 @@
 title: 'TFS Integration Tools - Issue: Unable to resolve conflict as Access to the path is denied'
 description: Resolve TFS Integration Tools conflicts effortlessly! Learn how to fix 'Access to the path is denied' errors by adjusting permissions in your configuration.
 ResourceId: 5Bzu9VOxj_C
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 7744
 ResourceImportSource: Wordpress

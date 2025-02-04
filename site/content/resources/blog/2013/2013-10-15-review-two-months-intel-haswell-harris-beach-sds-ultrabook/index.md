@@ -2,6 +2,7 @@
 title: 'Review Part 3: Two Months with Intel Haswell Harris Beach SDS Ultrabook'
 description: Explore my two-month journey with the Intel Haswell Harris Beach SDS Ultrabook, highlighting performance, battery life, and Windows 8.1 updates. Read more!
 ResourceId: LSTyPpa3cnS
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 10209
 ResourceImportSource: Wordpress

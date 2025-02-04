@@ -2,6 +2,7 @@
 title: TFS Weekend Part 1 - Install
 description: Join Martin Hinshelwood as he shares his TFS installation journey, tackling challenges and solutions for small companies. Discover tips for success!
 ResourceId: B1LQBjDfDfF
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 426
 ResourceImportSource: Wordpress

@@ -2,6 +2,7 @@
 title: There is no place like production
 description: Discover why real user feedback in production is essential for delivering value. Learn to validate assumptions and enhance product success effectively.
 ResourceId: KUJ7jHOGqP7
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 45324
 ResourceImportSource: Wordpress

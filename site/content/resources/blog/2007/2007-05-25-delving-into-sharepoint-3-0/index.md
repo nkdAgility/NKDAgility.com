@@ -2,6 +2,7 @@
 title: Delving into SharePoint 3.0
 description: Explore the features of SharePoint 3.0 with Martin Hinshelwood as he shares insights on setting up an effective intranet and navigating its complexities.
 ResourceId: jXG5yABSps4
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 396
 ResourceImportSource: Wordpress

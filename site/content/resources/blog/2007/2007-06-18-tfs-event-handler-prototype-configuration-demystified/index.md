@@ -2,6 +2,7 @@
 title: TFS Event Handler prototype Configuration Demystified
 description: Unlock the secrets of TFS Event Handler configuration with this comprehensive guide. Perfect for developers seeking to streamline event management!
 ResourceId: ENx7u9d6Q6z
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 379
 ResourceImportSource: Wordpress

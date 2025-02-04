@@ -2,6 +2,7 @@
 title: My.Unity.Resolve(Of Ninja)
 description: Explore integrating Unity Application Block in WPF and ASP.NET with custom solutions. Discover tips and code examples to enhance your development skills!
 ResourceId: whj_VeMcGAL
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 123
 ResourceImportSource: Wordpress

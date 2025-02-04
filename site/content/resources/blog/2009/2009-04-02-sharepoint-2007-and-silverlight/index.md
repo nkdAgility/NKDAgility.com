@@ -2,6 +2,7 @@
 title: Sharepoint 2007 and Silverlight
 description: Explore the integration of SharePoint 2007 and Silverlight with insights from a practical guide. Perfect for beginners seeking to enhance their development skills!
 ResourceId: sHgkQlcvb2R
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 132
 ResourceImportSource: Wordpress

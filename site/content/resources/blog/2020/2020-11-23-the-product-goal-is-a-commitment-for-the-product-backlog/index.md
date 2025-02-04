@@ -2,6 +2,7 @@
 title: The Product Goal is a commitment for the Product Backlog
 description: Discover the importance of the Product Goal in Scrum. Learn how it drives focus and transparency for your team’s success. Is your Product Goal defined?
 ResourceId: sVDzuTFDLSJ
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 45086
 ResourceImportSource: Wordpress

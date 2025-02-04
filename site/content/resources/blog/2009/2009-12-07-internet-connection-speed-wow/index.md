@@ -2,6 +2,7 @@
 title: Internet connection speed, WOW
 description: Discover the evolution of internet speeds from 56k to 50mbs! Join Martin Hinshelwood as he shares his experience with faster connections and downloads.
 ResourceId: iBNwIFFQrmS
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 78
 ResourceImportSource: Wordpress

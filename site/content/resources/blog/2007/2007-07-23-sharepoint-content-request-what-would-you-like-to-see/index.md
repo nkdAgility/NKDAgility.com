@@ -2,6 +2,7 @@
 title: SharePoint Content Request | What would you like to see?
 description: Explore the potential of SharePoint and TFS integration! Share your ideas for features that enhance collaboration and streamline processes in your intranet.
 ResourceId: pyKCdDNWdPB
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 361
 ResourceImportSource: Wordpress

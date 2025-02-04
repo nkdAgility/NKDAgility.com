@@ -2,6 +2,7 @@
 title: Upgrading to Team Foundation Server 2012 Update 1 in production – DONE
 description: Learn how to successfully upgrade to Team Foundation Server 2012 Update 1 with expert tips, a detailed checklist, and troubleshooting advice for a smooth transition.
 ResourceId: -X57bQlULtp
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 9211
 ResourceImportSource: Wordpress

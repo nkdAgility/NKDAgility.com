@@ -2,6 +2,7 @@
 title: Performance Research, Browser Cache Usage - Exposed!
 description: Discover how browser cache usage impacts web performance. Learn to reduce HTTP requests and enhance response times in this insightful analysis!
 ResourceId: UF1mz0nza4p
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 452
 ResourceImportSource: Wordpress

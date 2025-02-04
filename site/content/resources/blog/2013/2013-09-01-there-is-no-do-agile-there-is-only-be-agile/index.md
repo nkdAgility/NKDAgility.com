@@ -2,6 +2,7 @@
 title: There is no "do agile" there is only "be agile"
 description: Discover why true agility is about being, not just doing. Embrace deep organizational change for lasting value in your agile journey. Learn more!
 ResourceId: QIFsyx_OqLG
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 10058
 ResourceImportSource: Wordpress

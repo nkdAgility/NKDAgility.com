@@ -2,6 +2,7 @@
 title: Kerberos and SharePoint 2007
 description: Learn how to configure Kerberos authentication for SharePoint 2007, including essential SPN setup steps for a secure and efficient environment.
 ResourceId: REHiKbbVOD8
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 254
 ResourceImportSource: Wordpress

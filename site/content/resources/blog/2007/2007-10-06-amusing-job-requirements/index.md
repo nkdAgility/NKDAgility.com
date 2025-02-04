@@ -2,6 +2,7 @@
 title: Amusing job requirements
 description: Discover the absurdity of job requirements in tech! Join Martin Hinshelwood as he critiques a hilariously unrealistic skill set for an Analyst Programmer.
 ResourceId: NU1-eAy72tU
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 301
 ResourceImportSource: Wordpress

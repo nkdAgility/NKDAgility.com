@@ -2,6 +2,7 @@
 title: Visual Studio 2012 Launch RoadShows around the World
 description: Join the Visual Studio 2012 Launch RoadShows in San Diego and Irvine to explore new development practices and elevate your software quality. Don't miss out!
 ResourceId: HtT5KwXieea
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 8834
 ResourceImportSource: Wordpress

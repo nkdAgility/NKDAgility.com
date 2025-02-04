@@ -2,6 +2,7 @@
 title: Workflow
 description: Join the discussion on enhancing Team Foundation Server with Workflow support. Explore innovative ideas for dynamic workflow editing and implementation!
 ResourceId: X7LXRyvtNg0
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 401
 ResourceImportSource: Wordpress

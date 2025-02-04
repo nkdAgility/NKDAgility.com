@@ -2,6 +2,7 @@
 title: How 'e' are you?
 description: Discover your e-score and see how you rank in the digital world! Join the fun and find out how 'e' you really are with our engaging quiz.
 ResourceId: YDrhk8yEGQa
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 368
 ResourceImportSource: Wordpress

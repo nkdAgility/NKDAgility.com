@@ -2,6 +2,7 @@
 title: 'Review: The Professional Scrum Masters Handbook'
 description: Explore the insights of 'The Professional Scrum Masters Handbook' with a critical review that highlights key takeaways for new Scrum Masters and Project Managers.
 ResourceId: Truj03gqwvW
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 9967
 ResourceImportSource: Wordpress

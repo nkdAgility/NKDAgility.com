@@ -2,6 +2,7 @@
 title: Visual Studio 2010 Overview - Architecture
 description: Explore how Visual Studio 2010 enhances project architecture with tools for visualization, standards enforcement, and team collaboration. Discover more!
 ResourceId: zV3uLqE0b0K
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 4191
 ResourceImportSource: Wordpress

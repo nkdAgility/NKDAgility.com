@@ -2,6 +2,7 @@
 title: What my father taught me about Evidence-based Management (34 years before it was invented!)
 description: Discover how my father's insights on Evidence-based Management transformed a failing business 34 years before its inception. Learn to optimize value and agility!
 ResourceId: gYcZPh6B2eg
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 10446
 ResourceImportSource: Wordpress

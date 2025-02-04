@@ -2,6 +2,7 @@
 title: Luddites have no place in the modern organisation
 description: Discover why Luddites hinder modern organizations and learn how to foster a culture of agility and innovation. Embrace change for a thriving workplace!
 ResourceId: dyxqF7lrHmn
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 44507
 ResourceImportSource: Wordpress

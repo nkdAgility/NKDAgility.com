@@ -2,6 +2,7 @@
 title: Memories of a multi-dimensional free thinking software developer
 description: Explore the unique journey of a dyslexic software developer and discover insights to empower gifted individuals and their employers. Join the conversation!
 ResourceId: 4HQ5Qef6qsH
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 365
 ResourceImportSource: Wordpress

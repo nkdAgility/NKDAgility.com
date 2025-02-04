@@ -2,6 +2,7 @@
 title: Issue [ TFS 2013 ] TF255466 A previous update or installation requires a restart
 description: Resolve the TF255466 error in TFS 2013 after SQL Server 2012 SP1 installation. Discover solutions to clear pending reboots and ensure smooth setup.
 ResourceId: Crf5MJ60PGe
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 10006
 ResourceImportSource: Wordpress

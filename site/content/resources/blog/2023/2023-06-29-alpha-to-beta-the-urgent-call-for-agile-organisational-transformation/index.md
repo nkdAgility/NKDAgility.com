@@ -2,6 +2,7 @@
 title: The Urgent Call for Agile Organisational Transformation
 description: Explore the urgent need for agile transformation in organizations. Discover how to break free from outdated hierarchies and thrive in dynamic markets.
 ResourceId: aeNTMpquEZ5
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 49485
 ResourceImportSource: Wordpress

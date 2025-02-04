@@ -2,6 +2,7 @@
 title: 'The 7 Deadly Sins of Agile: A Grecian Odyssey through Modern Software Development'
 description: Explore the 7 Deadly Sins of Agile through ancient Greek wisdom. Learn to navigate modern software challenges and foster a culture of growth and collaboration.
 ResourceId: DgJV3wMMjWr
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 50309
 ResourceImportSource: Wordpress

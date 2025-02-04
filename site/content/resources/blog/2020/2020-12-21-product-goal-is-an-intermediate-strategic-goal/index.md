@@ -2,6 +2,7 @@
 title: Product Goal is an Intermediate Strategic Goal
 description: Discover how to set effective product goals as intermediate strategic goals to enhance agility and drive successful outcomes in your organization.
 ResourceId: PjYSLMnBHhI
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 45309
 ResourceImportSource: Wordpress

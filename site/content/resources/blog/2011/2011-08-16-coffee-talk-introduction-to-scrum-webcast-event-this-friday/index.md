@@ -2,6 +2,7 @@
 title: 'Coffee Talk: Introduction to Scrum - webcast event this Friday!'
 description: Join us this Friday for a free webcast on Scrum! Discover key roles, processes, and tips to enhance your agile practices and boost team performance.
 ResourceId: ThIUwJr1ff_
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 3728
 ResourceImportSource: Wordpress

@@ -2,6 +2,7 @@
 title: "A Titanic Misfit: The Alpha Organization's Wasteful Endeavor in Red Markets"
 description: Explore how Alpha organizations waste resources in fast-paced red markets and discover the agile Beta model as the key to thriving in today's economy.
 ResourceId: jW4sFDdDkvn
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 49490
 ResourceImportSource: Wordpress

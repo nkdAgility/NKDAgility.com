@@ -2,6 +2,7 @@
 title: Visual Studio Team System Blogs
 description: Discover all the essential blogs for Microsoft Visual Studio Team System in one convenient place. Stay updated and enhance your development experience!
 ResourceId: de7b3FE-UNO
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 413
 ResourceImportSource: Wordpress

@@ -2,6 +2,7 @@
 title: Mobile Device Center
 description: Explore the limitations of Mobile Device Center and its syncing issues with Windows Vista. Join the discussion on improving Microsoft’s mobile solutions!
 ResourceId: KLy7B-gdNTJ
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 417
 ResourceImportSource: Wordpress

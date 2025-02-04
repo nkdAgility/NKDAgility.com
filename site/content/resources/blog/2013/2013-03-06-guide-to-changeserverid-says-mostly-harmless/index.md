@@ -2,6 +2,7 @@
 title: Guide to ChangeServerId says mostly harmless
 description: Discover the importance of ChangeServerId in TFS upgrades. Learn how to avoid GUID issues and ensure a smooth transition to your new environment.
 ResourceId: hoewU67YJfb
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 9249
 ResourceImportSource: Wordpress

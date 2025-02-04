@@ -2,6 +2,7 @@
 title: Feedburner, no Google…
 description: Explore the transition from Feedburner to Google and learn how to update your feed URLs for better performance and accuracy. Get insights and tips here!
 ResourceId: W90U2-3Up25
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 144
 ResourceImportSource: Wordpress

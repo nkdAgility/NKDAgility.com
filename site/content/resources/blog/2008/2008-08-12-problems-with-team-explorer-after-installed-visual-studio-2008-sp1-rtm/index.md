@@ -2,6 +2,7 @@
 title: Problems with Team Explorer after installed Visual Studio 2008 SP1 RTM
 description: Discover solutions for Team Explorer issues after installing Visual Studio 2008 SP1 RTM. Troubleshoot effectively and regain access to version control!
 ResourceId: DLSNF8iLvfk
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 210
 ResourceImportSource: Wordpress

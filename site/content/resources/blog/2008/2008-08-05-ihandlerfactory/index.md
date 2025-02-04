@@ -2,6 +2,7 @@
 title: IHandlerFactory
 description: Discover how to implement a BlogRedirectHandler in ASP.NET to manage URL redirects effectively, ensuring a smooth transition for your users.
 ResourceId: kYNSKaqUYb7
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 214
 ResourceImportSource: Wordpress

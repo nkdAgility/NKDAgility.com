@@ -2,6 +2,7 @@
 title: Team Suite on the cheap
 description: Unlock the full potential of Visual Studio Team System 2008 with a 30% upgrade discount. Enhance collaboration and streamline your development process today!
 ResourceId: iiMEOgepJ_x
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 168
 ResourceImportSource: Wordpress

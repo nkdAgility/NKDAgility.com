@@ -2,6 +2,7 @@
 title: Internet Explorer 8 Release Candidate 1 (RC1)
 description: Discover the features of Internet Explorer 8 Release Candidate 1. Explore performance improvements and fixes that enhance your browsing experience!
 ResourceId: RHIiRGd5H31
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 143
 ResourceImportSource: Wordpress

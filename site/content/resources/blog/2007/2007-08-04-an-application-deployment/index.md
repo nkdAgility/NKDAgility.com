@@ -2,6 +2,7 @@
 title: An Application Deployment
 description: Explore the challenges of application deployment and the pitfalls of poor documentation. Learn how to navigate complex installations effectively.
 ResourceId: UnvdJlF863n
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 349
 ResourceImportSource: Wordpress

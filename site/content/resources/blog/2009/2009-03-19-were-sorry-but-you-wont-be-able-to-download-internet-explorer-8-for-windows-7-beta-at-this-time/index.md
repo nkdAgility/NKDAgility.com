@@ -2,6 +2,7 @@
 title: We’re sorry, but you won’t be able to download Internet Explorer 8 for Windows 7 Beta at this time
 description: Discover why Windows 7 users can't download Internet Explorer 8 yet, and explore the benefits of this powerful browser compared to others. Join the conversation!
 ResourceId: sjUCMYPEzTd
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 135
 ResourceImportSource: Wordpress

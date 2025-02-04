@@ -2,6 +2,7 @@
 title: Professional Scrum Courses for 2016 in Oslo, Norway
 description: Join our Professional Scrum courses in Oslo and Kongsberg to master Agile practices and elevate your Scrum skills. Enroll now for a successful 2016!
 ResourceId: gS7et381AGm
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 11426
 ResourceImportSource: Wordpress

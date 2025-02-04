@@ -2,6 +2,7 @@
 title: Visual Studio 2008 Beta 2 Team Explorer
 description: Discover the challenges of installing Visual Studio 2008 Team Explorer and why it should be included in the setup for a smoother development experience.
 ResourceId: x3OxJIEMgFJ
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 356
 ResourceImportSource: Wordpress

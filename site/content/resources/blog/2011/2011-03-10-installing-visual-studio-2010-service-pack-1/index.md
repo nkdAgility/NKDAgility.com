@@ -2,6 +2,7 @@
 title: Installing Visual Studio 2010 Service Pack 1
 description: Learn how to install Visual Studio 2010 Service Pack 1 smoothly with tips and insights from Martin Hinshelwood. Enhance your development experience today!
 ResourceId: tZ9fOZUusrh
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 9893
 ResourceImportSource: Wordpress

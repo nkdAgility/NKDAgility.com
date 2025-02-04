@@ -2,6 +2,7 @@
 title: Fun with Virgin+
 description: Join Martin as he navigates the challenges of setting up Virgin+ while preparing for a new arrival. Discover his clever solutions and personal insights!
 ResourceId: PHUHjUVq45E
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 141
 ResourceImportSource: Wordpress

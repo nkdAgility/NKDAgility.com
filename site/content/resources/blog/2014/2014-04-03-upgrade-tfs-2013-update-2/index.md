@@ -2,6 +2,7 @@
 title: Should I upgrade to TFS 2013 Update 2?
 description: Discover the benefits of upgrading to TFS 2013 Update 2. Explore new features in backlog, test, and release management to enhance your development process!
 ResourceId: _FVuS9sZSA2
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 10479
 ResourceImportSource: Wordpress

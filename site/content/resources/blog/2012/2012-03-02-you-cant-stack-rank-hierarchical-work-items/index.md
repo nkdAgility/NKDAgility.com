@@ -2,6 +2,7 @@
 title: You can't stack rank hierarchical work items?
 description: Explore the challenges of stack ranking hierarchical work items in software development. Learn effective strategies to enhance your team's productivity and organization.
 ResourceId: u9Eh1rXDhGE
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 4773
 ResourceImportSource: Wordpress

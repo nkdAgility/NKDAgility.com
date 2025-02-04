@@ -2,6 +2,7 @@
 title: Configure Test Plans for web access in TFS 2012.2
 description: Master TFS 2012.2 by configuring Test Plans for web access. Learn essential tips to ensure your team sees the right plans and streamline your testing process.
 ResourceId: eNRpc70Z73R
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 9900
 ResourceImportSource: Wordpress

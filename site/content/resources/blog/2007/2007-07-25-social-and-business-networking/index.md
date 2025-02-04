@@ -2,6 +2,7 @@
 title: Social and Business Networking
 description: Explore innovative solutions for social and business networking. Discover how a central system can streamline connections across platforms for enhanced collaboration.
 ResourceId: wm96r47cCGV
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 359
 ResourceImportSource: Wordpress

@@ -2,6 +2,7 @@
 title: The Windows Vista Ultimate Element
 description: Explore the intriguing aspects of Windows Vista Ultimate in this engaging blog post by Martin Hinshelwood. Discover insights and off-topic discussions!
 ResourceId: BeArx9oZHL2
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 438
 ResourceImportSource: Wordpress

@@ -2,6 +2,7 @@
 title: Installing The 2007 Microsoft Office Servers Service Pack 1 (SP1) ...Again...
 description: Navigate the challenges of installing Microsoft Office Servers SP1 with expert insights and troubleshooting tips. Ensure a smooth upgrade experience!
 ResourceId: RgZYSYc6tNy
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 276
 ResourceImportSource: Wordpress

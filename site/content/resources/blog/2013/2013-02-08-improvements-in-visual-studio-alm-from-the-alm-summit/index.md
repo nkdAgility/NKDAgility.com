@@ -2,6 +2,7 @@
 title: Improvements in Visual Studio ALM from the ALM Summit
 description: Discover the latest enhancements in Visual Studio ALM from the ALM Summit, including Git support, web-based test management, and Kanban improvements.
 ResourceId: E9mwcXKPJ0C
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 9239
 ResourceImportSource: Wordpress

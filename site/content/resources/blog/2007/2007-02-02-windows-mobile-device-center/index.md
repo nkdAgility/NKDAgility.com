@@ -2,6 +2,7 @@
 title: Windows Mobile Device Center
 description: Discover the Windows Mobile Device Center, the essential tool for Vista users to sync devices effortlessly. Download the latest version and enhance your experience!
 ResourceId: yQwInotryjQ
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 437
 ResourceImportSource: Wordpress

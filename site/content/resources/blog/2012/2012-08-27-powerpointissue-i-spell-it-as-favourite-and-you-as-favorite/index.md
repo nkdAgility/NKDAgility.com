@@ -2,6 +2,7 @@
 title: I spell it as Favourite and you as Favorite
 description: Explore the nuances of British vs. American English in PowerPoint. Learn how to use macros for seamless spell-checking adjustments. Embrace your language!
 ResourceId: nIpxDPFtjBE
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 7735
 ResourceImportSource: Wordpress

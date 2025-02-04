@@ -2,6 +2,7 @@
 title: Update to the Scrum Guide on the 25th Anniversary of the Scrum Framework
 description: Discover the latest updates to the Scrum Guide on its 25th anniversary, simplifying Scrum for better team management and accountability. Read more!
 ResourceId: 7CqdvOa9t4c
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 45077
 ResourceImportSource: Wordpress

@@ -2,6 +2,7 @@
 title: 'Review Part 1: Unboxing the Intel Haswell Harris Beach SDS Ultrabook'
 description: Unbox the Intel Haswell Harris Beach SDS Ultrabook in this detailed review. Discover its features, performance, and why it's a must for developers!
 ResourceId: D-CZSgtpLGe
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 9918
 ResourceImportSource: Wordpress

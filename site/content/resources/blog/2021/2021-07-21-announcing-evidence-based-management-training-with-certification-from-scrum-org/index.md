@@ -2,6 +2,7 @@
 title: Announcing Professional Agile Leadership with Evidence-Based Management Training  (PAL-EBM) from Scrum.org
 description: Join the Professional Agile Leadership with Evidence-Based Management Training from Scrum.org. Enhance your leadership skills and create tailored metrics for success!
 ResourceId: XuePm2RAZa0
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 46257
 ResourceImportSource: Wordpress

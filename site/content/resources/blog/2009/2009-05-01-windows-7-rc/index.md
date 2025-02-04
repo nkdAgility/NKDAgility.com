@@ -2,6 +2,7 @@
 title: Windows 7 RC
 description: Discover the Windows 7 Release Candidate, available soon for developers. Get insights, updates, and tips for installation from the Windows Team Blog!
 ResourceId: Rb281yyb0Cl
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 128
 ResourceImportSource: Wordpress

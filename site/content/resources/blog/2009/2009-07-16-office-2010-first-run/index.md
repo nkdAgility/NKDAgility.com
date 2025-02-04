@@ -2,6 +2,7 @@
 title: Office 2010 First run
 description: Discover the exciting first run of Office 2010! Join Martin Hinshelwood as he explores new features and user-friendly enhancements. Dive in now!
 ResourceId: muFdzg1ck3Q
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 102
 ResourceImportSource: Wordpress

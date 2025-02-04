@@ -2,6 +2,7 @@
 title: Merry Christmas
 description: Celebrate the season with heartfelt eCards from the Hinshelwood family! Share joy and laughter this Christmas with fun ElfYourself creations.
 ResourceId: MUY1jFEETH6
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 154
 ResourceImportSource: Wordpress

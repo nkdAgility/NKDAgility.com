@@ -2,6 +2,7 @@
 title: Mapping your Windows Special Folders to OneDrive for Business - Ultimate Backup
 description: Learn how to map Windows special folders to OneDrive for Business for seamless backup and access across devices. Keep your files safe and synced effortlessly!
 ResourceId: mKq16PgA7Ks
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 11430
 ResourceImportSource: Wordpress

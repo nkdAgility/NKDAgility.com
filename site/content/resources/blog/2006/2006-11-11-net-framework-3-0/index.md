@@ -2,6 +2,7 @@
 title: .NET Framework 3.0
 description: Discover the power of .NET Framework 3.0! Learn how WCF enhances code quality and developer productivity with cleaner, more functional applications.
 ResourceId: 8jxki9iqNyC
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 462
 ResourceImportSource: Wordpress

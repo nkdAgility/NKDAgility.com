@@ -2,6 +2,7 @@
 title: Upgrading from TFS 2010 RC to TFS 2010 RTM done
 description: Discover the seamless upgrade process from TFS 2010 RC to RTM. Follow expert tips and insights to ensure a smooth transition for your development environment.
 ResourceId: wGdSgbWfpEB
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 53
 ResourceImportSource: Wordpress

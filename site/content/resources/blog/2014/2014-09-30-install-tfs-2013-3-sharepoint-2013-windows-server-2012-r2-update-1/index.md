@@ -2,6 +2,7 @@
 title: Install of TFS 2013.3 with SharePoint 2013 on Windows Server 2012 R2 Update 1
 description: Learn how to install TFS 2013.3 with SharePoint 2013 on Windows Server 2012 R2. Follow expert tips for a smooth setup and avoid common pitfalls!
 ResourceId: IHKBrsNm0Cp
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 10727
 ResourceImportSource: Wordpress

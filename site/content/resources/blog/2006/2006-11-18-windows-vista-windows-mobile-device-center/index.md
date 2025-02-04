@@ -2,6 +2,7 @@
 title: 'Windows Vista: windows mobile device center'
 description: Learn how to install Windows Mobile Device Center on Vista 6000 RTM. Get essential tips and updates to enhance your mobile experience. Explore now!
 ResourceId: V8uWqfxfKyn
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 455
 ResourceImportSource: Wordpress

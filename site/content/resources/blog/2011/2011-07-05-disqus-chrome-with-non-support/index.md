@@ -2,6 +2,7 @@
 title: Disqus & Chrome with non-support
 description: Struggling with Disqus comments not loading in Chrome? Discover troubleshooting tips and share your experiences in this engaging blog post by Martin Hinshelwood.
 ResourceId: 1XIDHtEDmeQ
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 3686
 ResourceImportSource: Wordpress
