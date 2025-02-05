@@ -2,14 +2,20 @@
 title: Security by Design Building Secure Software
 description: Learn to embed security from the start in software development. Join Martin Hinshelwood as he explores shifting left for resilient, secure software.
 date: 2024-11-26T13:35:33Z
+ResourceId: NgoP5W5y7Gs
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: NgoP5W5y7Gs
 source: internal
 url: /resources/videos/:slug
 slug: security-by-design-building-secure-software
+layout: video
 aliases:
 - /resources/videos/NgoP5W5y7Gs
 - /resources/videos/security-by-design-building-secure-software
 - /resources/security-by-design-building-secure-software
+- /resources/NgoP5W5y7Gs
 preview: https://i.ytimg.com/vi/NgoP5W5y7Gs/maxresdefault.jpg
 duration: 369
 isShort: false
@@ -28,13 +34,15 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+resourceTypes:
+- video
 
 ---
 # Shift Left: Building Quality and Security From the Start
 
 Hi, I’m Martin Hinshelwood, and today I want to explore the concept of "shifting left" in modern software engineering—a principle that’s all about building quality, security, and reliability into your software from the very start. It’s a transformative approach that not only enhances your product but also revolutionizes how your team works. Let me share some insights, personal experiences, and practical advice to help you embrace this mindset.
 
-{{< youtube NgoP5W5y7Gs >}}
+
 
 ## **What Does “Shift Left” Mean?**
 

@@ -2,14 +2,20 @@
 title: Why Most Scrum Masters only have PSMI!
 description: "Uncover why many Scrum Masters stop at PSM I! Explore the passion behind true mastery in Scrum and the journey of continuous learning. \U0001F4DC\U0001F50D"
 date: 2023-04-07T07:00:20Z
+ResourceId: vWfebO_pwIU
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: vWfebO_pwIU
 url: /resources/videos/:slug
 slug: why-most-scrum-masters-only-have-psmi!
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=vWfebO_pwIU
 aliases:
 - /resources/videos/vWfebO_pwIU
 - /resources/videos/why-most-scrum-masters-only-have-psmi!
 - /resources/why-most-scrum-masters-only-have-psmi!
+- /resources/vWfebO_pwIU
 preview: https://i.ytimg.com/vi/vWfebO_pwIU/maxresdefault.jpg
 duration: 291
 isShort: false
@@ -27,9 +33,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube vWfebO_pwIU >}} 
  *Why do so few scrum masters progress to the PSM II and PSM III certifications?*
 Discover why many Scrum Masters don't pursue advanced certifications like PSM2 or PSM3. Dive into the motivations and passion behind true mastery in Scrum. 📜🔍
 

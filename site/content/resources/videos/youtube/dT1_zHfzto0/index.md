@@ -2,10 +2,15 @@
 title: 'Quotes: "I estimate that 75% of those organisations using Scrum will not succeed in getting the benefits that they hope for from it." - Ken Schwaber'
 description: "Discover why 75% of organisations struggle with Scrum success, as Martin Hinshelwood unpacks Ken Schwaber's insights in this engaging short video! #Scrum #Agile"
 date: 2023-10-06T07:00:16Z
+ResourceId: dT1_zHfzto0
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: dT1_zHfzto0
 source: internal
 url: /resources/videos/:slug
 slug: quotes-i-estimate-that-75-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it-ken-schwaber
+layout: video
 preview: https://i.ytimg.com/vi/dT1_zHfzto0/maxresdefault.jpg
 duration: 38
 isShort: true
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/75-of-those-organizations-using-scrum-will-not-succeed-in-getting-the-benefit-ken-schwaber
 - /resources/videos/dT1_zHfzto0
 - /resources/75-of-those-organizations-using-scrum-will-not-succeed-in-getting-the-benefit-ken-schwaber
+- /resources/dT1_zHfzto0
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -44,8 +50,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube dT1_zHfzto0 >}}
-
 ## The Reality of Scrum Adoption 🤔  
 
 Ken Schwaber once declared that a staggering 75% of organisations utilising Scrum won't reap the benefits they anticipate.  

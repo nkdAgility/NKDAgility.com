@@ -1,6 +1,12 @@
 ---
 title: The delivery Mk II
 description: Join us in celebrating the birth of Kaiden Ryan William Hinshelwood! Discover the heartwarming story of his quick arrival and family moments.
+ResourceId: g5GoTmk3aI4
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 140
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-02-14
 creator: Martin Hinshelwood
 id: "140"
@@ -10,6 +16,11 @@ slug: the-delivery-mk-ii
 aliases:
 - /blog/the-delivery-mk-ii
 - /the-delivery-mk-ii
+- /resources/g5GoTmk3aI4
+- /resources/blog/the-delivery-mk-ii
+aliasesFor404:
+- /the-delivery-mk-ii
+- /blog/the-delivery-mk-ii
 categories:
 - me
 preview: nakedalm-logo-128-link-4-1.png

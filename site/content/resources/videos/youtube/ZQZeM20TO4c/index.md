@@ -2,10 +2,15 @@
 title: Agile leader versus traditional manager
 description: 'Discover the key differences between an agile leader and a traditional manager in this insightful short video by Martin Hinshelwood. #Agile #Leadership'
 date: 2023-05-02T09:30:14Z
+ResourceId: ZQZeM20TO4c
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: ZQZeM20TO4c
 source: internal
 url: /resources/videos/:slug
 slug: agile-leader-versus-traditional-manager
+layout: video
 preview: https://i.ytimg.com/vi/ZQZeM20TO4c/maxresdefault.jpg
 duration: 69
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/agile-leader-vs-traditional-manager
 - /resources/videos/agile-leader-vs-traditional-manager
 - /resources/videos/ZQZeM20TO4c
+- /resources/ZQZeM20TO4c
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -27,8 +33,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube ZQZeM20TO4c >}}
-
 Product of Conventional Practices
 
 A traditional manager, born out of customary organisational conventions, focuses predominantly on task delegation, creating a controlled environment that can, ironically, limit an organisation's potential. They erect walls, intending to provide focus but inadvertently ending up restricting communication. Their management style can hinder an organisation's decision-making ability and agility in responding to market changes. They're not inherently at fault; they are, after all, merely operating within the framework they've been given. 🎯

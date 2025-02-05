@@ -2,14 +2,20 @@
 title: Code Reviews for Quality Assurance
 description: Reimagine code reviews with Martin Hinshelwood! Discover how automation and a shift-left approach enhance quality and speed in software development.
 date: 2024-11-27T06:00:25Z
+ResourceId: r2G-NrSIj2k
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: r2G-NrSIj2k
 source: internal
 url: /resources/videos/:slug
 slug: code-reviews-for-quality-assurance
+layout: video
 aliases:
 - /resources/videos/r2G-NrSIj2k
 - /resources/videos/code-reviews-for-quality-assurance
 - /resources/code-reviews-for-quality-assurance
+- /resources/r2G-NrSIj2k
 preview: https://i.ytimg.com/vi/r2G-NrSIj2k/maxresdefault.jpg
 duration: 116
 isShort: false
@@ -31,10 +37,10 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+resourceTypes:
+- video
 
 ---
-{{< youtube r2G-NrSIj2k >}}
-
 # Rethinking Code Reviews: From Manual Checks to Pre-Reviewed Excellence
 
 Hi, I’m Martin Hinshelwood, and today I want to discuss a topic that often sparks debate: **code reviews**. Traditionally, code reviews are seen as a way to improve quality and reduce defects by having multiple people review the code before it’s merged. While this has value, as we embrace shift-left practices, there’s a new perspective to consider: **pre-reviewed code**.

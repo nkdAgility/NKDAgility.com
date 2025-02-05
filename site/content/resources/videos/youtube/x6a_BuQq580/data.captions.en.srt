@@ -1,0 +1,285 @@
+1
+00:00:00,080 --> 00:00:07,759
+there's a little bit of a a fear um of
+
+2
+00:00:03,719 --> 00:00:10,040
+uh in in incomplete migrations that
+
+3
+00:00:07,759 --> 00:00:11,960
+things won't be you won't have them
+
+4
+00:00:10,040 --> 00:00:14,679
+available when you move to the to the to
+
+5
+00:00:11,960 --> 00:00:16,680
+the cloud I I've done hundreds of
+
+6
+00:00:14,679 --> 00:00:19,480
+migrations using
+
+7
+00:00:16,680 --> 00:00:23,680
+Microsoft's uh import tool that actually
+
+8
+00:00:19,480 --> 00:00:29,519
+the the database import uh uh tool and I
+
+9
+00:00:23,680 --> 00:00:30,560
+have never had any data loss in any
+
+10
+00:00:29,519 --> 00:00:33,200
+context
+
+11
+00:00:30,560 --> 00:00:35,079
+whatsoever wasn't known about beforehand
+
+12
+00:00:33,200 --> 00:00:37,960
+there are certain things that don't work
+
+13
+00:00:35,079 --> 00:00:41,000
+in the cloud that you can do on Prem um
+
+14
+00:00:37,960 --> 00:00:46,079
+you can you can increase the database
+
+15
+00:00:41,000 --> 00:00:48,960
+attachment size on Prem um and that will
+
+16
+00:00:46,079 --> 00:00:50,800
+unfortunately um not be possible in the
+
+17
+00:00:48,960 --> 00:00:54,000
+cloud right because there's other people
+
+18
+00:00:50,800 --> 00:00:55,840
+on the system you're not just uh uh it's
+
+19
+00:00:54,000 --> 00:00:57,600
+not just your company so you're not the
+
+20
+00:00:55,840 --> 00:00:59,079
+ones just the only ones taking the
+
+21
+00:00:57,600 --> 00:01:01,719
+taking the hit for performance issues
+
+22
+00:00:59,079 --> 00:01:05,240
+for having attachments that are too big
+
+23
+00:01:01,719 --> 00:01:08,479
+or um build lists that are bigger than
+
+24
+00:01:05,240 --> 00:01:10,720
+normal um so there are some things but
+
+25
+00:01:08,479 --> 00:01:12,840
+upfront when you're planning the
+
+26
+00:01:10,720 --> 00:01:14,200
+migration uh we need to call those
+
+27
+00:01:12,840 --> 00:01:15,479
+things we need to cut them down we need
+
+28
+00:01:14,200 --> 00:01:17,680
+to figure out how to resolve those
+
+29
+00:01:15,479 --> 00:01:19,880
+things and Microsoft provide tooling to
+
+30
+00:01:17,680 --> 00:01:22,240
+help understand what those things are
+
+31
+00:01:19,880 --> 00:01:26,360
+what the impact is um and what we need
+
+32
+00:01:22,240 --> 00:01:29,600
+to do in order to make our environment
+
+33
+00:01:26,360 --> 00:01:33,680
+viable for moving up to to aure devops
+
+34
+00:01:29,600 --> 00:01:36,840
+um so the there's not really any such
+
+35
+00:01:33,680 --> 00:01:40,119
+thing of a as of a incomplete migration
+
+36
+00:01:36,840 --> 00:01:42,520
+within that context it will just work um
+
+37
+00:01:40,119 --> 00:01:47,040
+I've had migrations get stuck and then
+
+38
+00:01:42,520 --> 00:01:48,920
+we have to back off restore uh turn back
+
+39
+00:01:47,040 --> 00:01:51,439
+on right that's how you restore you turn
+
+40
+00:01:48,920 --> 00:01:53,000
+it back on turn back on TFS locally um
+
+41
+00:01:51,439 --> 00:01:54,560
+and then replan something because
+
+42
+00:01:53,000 --> 00:01:56,719
+something's gone wrong or something
+
+43
+00:01:54,560 --> 00:01:58,520
+needs to be done on Microsoft's end but
+
+44
+00:01:56,719 --> 00:02:00,840
+usually especially if it's a bigger
+
+45
+00:01:58,520 --> 00:02:03,039
+migration um you talk to Microsoft first
+
+46
+00:02:00,840 --> 00:02:04,399
+and they have a support team uh uh
+
+47
+00:02:03,039 --> 00:02:06,759
+available who know you're doing a
+
+48
+00:02:04,399 --> 00:02:09,039
+migration um and you can email them and
+
+49
+00:02:06,759 --> 00:02:11,599
+they'll go kick the environment or
+
+50
+00:02:09,039 --> 00:02:14,720
+figure out what the problem is at the
+
+51
+00:02:11,599 --> 00:02:15,879
+time so that you can continue um so in
+
+52
+00:02:14,720 --> 00:02:18,440
+incomplete migrations from that
+
+53
+00:02:15,879 --> 00:02:22,200
+perspective are not a big deal if you're
+
+54
+00:02:18,440 --> 00:02:23,560
+doing a ad hoc pce meal migration like
+
+55
+00:02:22,200 --> 00:02:26,400
+you're moving the bits and pieces that
+
+56
+00:02:23,560 --> 00:02:28,720
+you want to move um like would you just
+
+57
+00:02:26,400 --> 00:02:31,040
+want to move this team or this subset of
+
+58
+00:02:28,720 --> 00:02:34,280
+this team or this project or just this
+
+59
+00:02:31,040 --> 00:02:38,120
+data right um
+
+60
+00:02:34,280 --> 00:02:40,280
+then we will know upfront exactly what
+
+61
+00:02:38,120 --> 00:02:43,360
+you can and cannot do within the context
+
+62
+00:02:40,280 --> 00:02:45,440
+of that migration but it's not something
+
+63
+00:02:43,360 --> 00:02:48,800
+it's not something we can Define at this
+
+64
+00:02:45,440 --> 00:02:51,840
+point because it it's wholly dependent
+
+65
+00:02:48,800 --> 00:02:54,159
+upon your data the format of your data
+
+66
+00:02:51,840 --> 00:02:56,519
+what you want to move what you're okay
+
+67
+00:02:54,159 --> 00:02:58,159
+with losing right um and having
+
+68
+00:02:56,519 --> 00:03:01,360
+conversations around that so you'll know
+
+69
+00:02:58,159 --> 00:03:04,360
+upfront um so when it gets to migration
+
+70
+00:03:01,360 --> 00:03:07,319
+time uh there shouldn't be any surprises
+
+71
+00:03:04,360 --> 00:03:07,319
+at all
+
+

@@ -1,6 +1,12 @@
 ---
 title: Advice on using XamRibbon with Composite WPF
 description: Discover expert advice on integrating XamRibbon with Composite WPF. Enhance your applications with practical tips and code examples from Martin Hinshelwood.
+ResourceId: gEnb0c6i-3I
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 164
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-11-19
 creator: Martin Hinshelwood
 id: "164"
@@ -10,6 +16,11 @@ slug: advice-on-using-xamribbon-with-composite-wpf
 aliases:
 - /blog/advice-on-using-xamribbon-with-composite-wpf
 - /advice-on-using-xamribbon-with-composite-wpf
+- /resources/gEnb0c6i-3I
+- /resources/blog/advice-on-using-xamribbon-with-composite-wpf
+aliasesFor404:
+- /advice-on-using-xamribbon-with-composite-wpf
+- /blog/advice-on-using-xamribbon-with-composite-wpf
 tags:
 - code
 - codeproject

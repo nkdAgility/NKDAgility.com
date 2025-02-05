@@ -2,10 +2,15 @@
 title: The Synergy Between Product Management and Product Development in Agile Environments
 description: Explore the vital partnership between Agile Product Management and Product Development. Learn how their collaboration drives innovation and market success!
 date: 2024-07-25T06:45:02Z
+ResourceId: YGBrayIqm7k
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: YGBrayIqm7k
 source: internal
 url: /resources/videos/:slug
 slug: the-synergy-between-product-management-and-product-development-in-agile-environments
+layout: video
 preview: https://i.ytimg.com/vi/YGBrayIqm7k/maxresdefault.jpg
 duration: 539
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/agile-product-management-vs-product-development-understanding-the-crucial-partnership-for-success
 - /resources/videos/YGBrayIqm7k
 - /resources/agile-product-management-vs-product-development-understanding-the-crucial-partnership-for-success
+- /resources/YGBrayIqm7k
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -29,8 +35,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube YGBrayIqm7k >}}
-
 In the dynamic world of product creation, success hinges on two critical components: **Product Management** and **Product Development**. These elements, while distinct in their functions, are deeply interconnected and essential for delivering products that truly meet market needs. In this post, we’ll explore the roles of these two components, how they complement each other, and the importance of their integration in the agile process.
 
 ## **Understanding the Two Key Components**

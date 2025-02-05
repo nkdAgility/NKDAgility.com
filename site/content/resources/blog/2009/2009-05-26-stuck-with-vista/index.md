@@ -1,6 +1,12 @@
 ---
 title: Stuck with Vista?
 description: Stuck with Windows Vista? Discover the benefits of Service Pack 2 and how it can enhance your experience. Find solutions to common issues today!
+ResourceId: WFhOkuWMbpS
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 107
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-05-26
 creator: Martin Hinshelwood
 id: "107"
@@ -10,6 +16,13 @@ slug: stuck-with-vista
 aliases:
 - /blog/stuck-with-vista
 - /stuck-with-vista
+- /stuck-with-vista-
+- /blog/stuck-with-vista-
+- /resources/WFhOkuWMbpS
+- /resources/blog/stuck-with-vista
+aliasesFor404:
+- /stuck-with-vista
+- /blog/stuck-with-vista
 - /stuck-with-vista-
 - /blog/stuck-with-vista-
 tags:

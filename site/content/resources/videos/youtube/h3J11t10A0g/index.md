@@ -2,15 +2,21 @@
 title: Escaping the Deadline Death Spiral
 description: Join Martin Hinshelwood as he tackles missed deadlines and budget overruns in software projects, sharing Agile insights for better outcomes.
 date: 2024-12-02T06:00:00Z
+ResourceId: h3J11t10A0g
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: h3J11t10A0g
 source: youtube
 url: /resources/videos/:slug
 slug: escaping-the-deadline-death-spiral
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=h3J11t10A0g
 aliases:
 - /resources/videos/h3J11t10A0g
 - /resources/videos/escaping-the-deadline-death-spiral
 - /resources/escaping-the-deadline-death-spiral
+- /resources/h3J11t10A0g
 preview: https://i9.ytimg.com/vi/h3J11t10A0g/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAhUizbYFa1tDhewD44yi7B6ksFVQ
 duration: 169
 isShort: false
@@ -32,9 +38,10 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube h3J11t10A0g >}} 
  Solving Missed Deadlines and Budget Overruns in Software Projects | Martin Hinshelwood  
 
 👋 Hi, I’m Martin Hinshelwood from [NKD Agility](https://www.nkdagility.com), and in this video, I discuss one of the most common challenges organizations face: *missed deadlines* and *budget overruns* in software projects. These issues stem from the inherent unpredictability of working in complex environments. I’ll share insights on how *technical leadership*, *engineering excellence*, and modern Agile principles can help teams navigate these challenges and deliver better outcomes.

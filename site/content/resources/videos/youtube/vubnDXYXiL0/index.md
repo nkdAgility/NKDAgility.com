@@ -2,10 +2,15 @@
 title: Are there any Scrum courses that teach you how to scale Scrum?
 description: "Unlock the secrets to scaling Scrum! \U0001F680 Join Martin as he shares strategies to overcome challenges and enhance your Scrum journey. Don't miss out! \U0001F31F"
 date: 2023-10-18T07:00:23Z
+ResourceId: vubnDXYXiL0
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: vubnDXYXiL0
 source: internal
 url: /resources/videos/:slug
 slug: are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum
+layout: video
 preview: https://i.ytimg.com/vi/vubnDXYXiL0/maxresdefault.jpg
 duration: 328
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum-
 - /resources/videos/vubnDXYXiL0
 - /resources/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum-
+- /resources/vubnDXYXiL0
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -31,8 +37,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube vubnDXYXiL0 >}}
-
 # Tailoring Scrum to Scale: Building Your Own Framework for Success
 
 Scaling Scrum within an organization presents unique challenges and opportunities. While there is no one-size-fits-all course that teaches you how to scale Scrum, there are courses available that equip you with the tools and techniques necessary to create a scaling framework tailored to your organization's needs. This approach ensures that the framework you develop is perfectly suited to your organization’s context, products, and teams.

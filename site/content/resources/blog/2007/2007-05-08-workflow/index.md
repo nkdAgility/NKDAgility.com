@@ -1,6 +1,12 @@
 ---
 title: Workflow
 description: Join the discussion on enhancing Team Foundation Server with Workflow support. Explore innovative ideas for dynamic workflow editing and implementation!
+ResourceId: X7LXRyvtNg0
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 401
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-05-08
 creator: Martin Hinshelwood
 id: "401"
@@ -10,6 +16,11 @@ slug: workflow
 aliases:
 - /blog/workflow
 - /workflow
+- /resources/X7LXRyvtNg0
+- /resources/blog/workflow
+aliasesFor404:
+- /workflow
+- /blog/workflow
 tags:
 - service-oriented-architecture
 - tfs-event-handler

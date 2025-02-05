@@ -2,6 +2,10 @@
 title: 'Free Workshop 04: Introduction to Sprint Reviews [Review & Retrospective]'
 description: Join Martin Hinshelwood for a free 90-minute workshop on running effective Sprint Reviews. Learn to gather feedback and plan your next steps!
 date: 2021-09-18T13:32:34Z
+ResourceId: 1-W64WdSbF4
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: 1-W64WdSbF4
 source: internal
 url: /resources/videos/:slug
@@ -15,6 +19,7 @@ aliases:
 - /resources/videos/free-workshop-4-introduction-to-sprint-review!-[audio-fixed]
 - /resources/videos/1-W64WdSbF4
 - /resources/free-workshop-4-introduction-to-sprint-review!-[audio-fixed]
+- /resources/1-W64WdSbF4
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -24,10 +29,9 @@ tags:
 - Sprint Review
 resourceTypes:
 - video
+layout: video
 
 ---
-{{< youtube 1-W64WdSbF4 >}}
-
 This workshop was delivered on 16th September 2021 and focused on introducing the core concepts of the Sprint Review and its empirical nature. I used a combination of Liberating Structures, Microsoft Teams, and Mural to deliver an interactive session. This session went really well however we had some technical issues on the live stream!
 
 Participant feedback was awesome, and we have fixed the audio and re-released the video.

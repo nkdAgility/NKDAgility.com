@@ -2,10 +2,15 @@
 title: 'Hiring an Agile Coach: What to Look For in Both Technical and Leadership Engagement'
 description: 'Discover 5 essential tips for hiring an #AgileCoach with Martin Hinshelwood in this insightful #shorts video. Make informed decisions for your team!'
 date: 2023-11-21T11:00:08Z
+ResourceId: 9z9BgSi2zeA
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: 9z9BgSi2zeA
 source: internal
 url: /resources/videos/:slug
 slug: hiring-an-agile-coach-what-to-look-for-in-both-technical-and-leadership-engagement
+layout: video
 preview: https://i.ytimg.com/vi/9z9BgSi2zeA/maxresdefault.jpg
 duration: 47
 isShort: true
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-2
 - /resources/videos/9z9BgSi2zeA
 - /resources/5-things-to-consider-before-hiring-an-agilecoach-part-2
+- /resources/9z9BgSi2zeA
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,8 +51,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube 9z9BgSi2zeA >}}
-
 Hiring the right Agile coach is one of the most critical decisions an organization can make on its journey to becoming more Agile. It's not just about their ability to understand Scrum or Agile frameworks—it's about their ability to deeply engage with both the technical teams and leadership. They must gain credibility in both arenas to effectively drive the transformation.
 
 In this post, we'll explore the key traits to look for when hiring an Agile coach, focusing on their ability to work with both technical staff and leadership. I'll share personal experiences, practical advice, and a few tips to help you make the right choice for your organization.

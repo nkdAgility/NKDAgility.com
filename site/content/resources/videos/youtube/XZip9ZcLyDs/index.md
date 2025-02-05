@@ -2,10 +2,15 @@
 title: Why is becoming a Scrum Master a great career option?
 description: "Unlock your leadership potential! Discover why becoming a Scrum Master is a transformative career move for aspiring leaders in this insightful video. \U0001F31F\U0001F680"
 date: 2023-03-30T07:00:10Z
+ResourceId: XZip9ZcLyDs
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: XZip9ZcLyDs
 source: internal
 url: /resources/videos/:slug
 slug: why-is-becoming-a-scrum-master-a-great-career-option
+layout: video
 preview: https://i.ytimg.com/vi/XZip9ZcLyDs/maxresdefault.jpg
 duration: 193
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/why-is-becoming-a-scrum-master-a-great-career-option-
 - /resources/videos/XZip9ZcLyDs
 - /resources/why-is-becoming-a-scrum-master-a-great-career-option-
+- /resources/XZip9ZcLyDs
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -31,8 +37,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube XZip9ZcLyDs >}}
-
 **Why is becoming a Scrum Master a great career option?**
 
 As an Agile Consultant, I think this is a great question, and I'm often asked why becoming a Scrum Master is a great career choice. 🚀  So, in this article, I will address this popular question circling the Agile sphere.

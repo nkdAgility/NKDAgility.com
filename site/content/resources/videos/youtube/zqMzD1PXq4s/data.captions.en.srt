@@ -1,0 +1,625 @@
+1
+00:00:00,240 --> 00:00:07,040
+chaos costs money most
+
+2
+00:00:03,880 --> 00:00:10,840
+organizations that I work with and have
+
+3
+00:00:07,040 --> 00:00:14,400
+worked with really struggle with
+
+4
+00:00:10,840 --> 00:00:17,480
+controlling the chaos within the context
+
+5
+00:00:14,400 --> 00:00:20,840
+of delivering usable working product to
+
+6
+00:00:17,480 --> 00:00:23,199
+their customers they find that the the
+
+7
+00:00:20,840 --> 00:00:25,599
+the the work is substandard we've got a
+
+8
+00:00:23,199 --> 00:00:27,519
+lot of a lot of bugs hitting production
+
+9
+00:00:25,599 --> 00:00:29,599
+we've perhaps got a lot of rework
+
+10
+00:00:27,519 --> 00:00:31,599
+happening cuz things aren't aren't quite
+
+11
+00:00:29,599 --> 00:00:34,239
+what we expect them to be or or don't
+
+12
+00:00:31,599 --> 00:00:38,280
+meet the minimum standard for our
+
+13
+00:00:34,239 --> 00:00:40,640
+organization and we end up going down
+
+14
+00:00:38,280 --> 00:00:41,440
+dead ends I'm going to need to explain
+
+15
+00:00:40,640 --> 00:00:44,800
+that
+
+16
+00:00:41,440 --> 00:00:47,120
+but a lot of the time and and and I do
+
+17
+00:00:44,800 --> 00:00:50,360
+this as well when I'm building products
+
+18
+00:00:47,120 --> 00:00:52,000
+is you try and figure out a solution to
+
+19
+00:00:50,360 --> 00:00:53,359
+the problem you've got right you've got
+
+20
+00:00:52,000 --> 00:00:55,680
+a problem you know where you want to get
+
+21
+00:00:53,359 --> 00:00:56,960
+to where you want to get to just now and
+
+22
+00:00:55,680 --> 00:00:58,760
+you come up with a solution that gets
+
+23
+00:00:56,960 --> 00:01:02,840
+you to that that that thing that you
+
+24
+00:00:58,760 --> 00:01:05,520
+want to get to but over over time that
+
+25
+00:01:02,840 --> 00:01:09,240
+where you want to get to does in fact
+
+26
+00:01:05,520 --> 00:01:10,840
+shift right it could shift because of
+
+27
+00:01:09,240 --> 00:01:14,200
+different Market opportunities that
+
+28
+00:01:10,840 --> 00:01:17,119
+arise or it could shift because we we
+
+29
+00:01:14,200 --> 00:01:20,920
+we're scaling right so we we came up
+
+30
+00:01:17,119 --> 00:01:23,159
+with a solution that was on par at the
+
+31
+00:01:20,920 --> 00:01:25,360
+time we we we we came up with a solution
+
+32
+00:01:23,159 --> 00:01:27,159
+but now it now it's subpar it doesn't
+
+33
+00:01:25,360 --> 00:01:28,960
+you know it's it's slow we're running
+
+34
+00:01:27,159 --> 00:01:31,520
+into problems we're we're having a lot
+
+35
+00:01:28,960 --> 00:01:34,200
+of support calls because of Technology
+
+36
+00:01:31,520 --> 00:01:36,600
+choices that we made that are no longer
+
+37
+00:01:34,200 --> 00:01:40,240
+no longer valid uh you see this a lot in
+
+38
+00:01:36,600 --> 00:01:42,640
+the in the extreme in the Airlines and
+
+39
+00:01:40,240 --> 00:01:46,320
+car rental companies right they have a
+
+40
+00:01:42,640 --> 00:01:49,159
+lot of I would call it technical debt um
+
+41
+00:01:46,320 --> 00:01:52,040
+the choices that were made at the time
+
+42
+00:01:49,159 --> 00:01:53,960
+that they've never gone back around and
+
+43
+00:01:52,040 --> 00:01:55,880
+refactored right so they still have
+
+44
+00:01:53,960 --> 00:01:57,280
+Mainframe systems and they don't have
+
+45
+00:01:55,880 --> 00:01:59,520
+people who understand the Mainframe
+
+46
+00:01:57,280 --> 00:02:00,840
+systems anymore so they've get double
+
+47
+00:01:59,520 --> 00:02:01,840
+problem
+
+48
+00:02:00,840 --> 00:02:03,360
+not only do they still have those
+
+49
+00:02:01,840 --> 00:02:05,840
+mainframes but nobody in the
+
+50
+00:02:03,360 --> 00:02:08,479
+organization knows how they work how to
+
+51
+00:02:05,840 --> 00:02:10,200
+reimplement them how to manage them
+
+52
+00:02:08,479 --> 00:02:12,400
+where where to kick them when something
+
+53
+00:02:10,200 --> 00:02:15,280
+goes wrong and that happens all the time
+
+54
+00:02:12,400 --> 00:02:16,560
+in technology right the technology moves
+
+55
+00:02:15,280 --> 00:02:19,680
+forward I I work with lots of
+
+56
+00:02:16,560 --> 00:02:22,519
+organizations who have solved problems
+
+57
+00:02:19,680 --> 00:02:25,080
+in ways that made perfect sense at the
+
+58
+00:02:22,519 --> 00:02:26,959
+time because there was no solution on
+
+59
+00:02:25,080 --> 00:02:29,239
+the Shelf out there that you could go
+
+60
+00:02:26,959 --> 00:02:31,599
+get I've got one customer that built
+
+61
+00:02:29,239 --> 00:02:33,239
+their own sof control system because
+
+62
+00:02:31,599 --> 00:02:35,360
+they started developing software 30
+
+63
+00:02:33,239 --> 00:02:38,040
+years ago and 30 years ago building
+
+64
+00:02:35,360 --> 00:02:41,280
+software at scale there weren't very
+
+65
+00:02:38,040 --> 00:02:42,760
+many options for Source Control Systems
+
+66
+00:02:41,280 --> 00:02:45,319
+the ones that were out there maybe
+
+67
+00:02:42,760 --> 00:02:48,200
+didn't fit their needs so they created
+
+68
+00:02:45,319 --> 00:02:50,319
+their own one but today that doesn't
+
+69
+00:02:48,200 --> 00:02:51,840
+make any sense whatsoever right there
+
+70
+00:02:50,319 --> 00:02:54,040
+are there are plenty of good source
+
+71
+00:02:51,840 --> 00:02:56,760
+Control Systems out there git is the
+
+72
+00:02:54,040 --> 00:02:58,200
+deao standard and they should be have
+
+73
+00:02:56,760 --> 00:03:00,280
+all of their code all of their systems
+
+74
+00:02:58,200 --> 00:03:02,760
+on G
+
+75
+00:03:00,280 --> 00:03:04,280
+but you need to invest time and money to
+
+76
+00:03:02,760 --> 00:03:08,040
+move from what you had before to what
+
+77
+00:03:04,280 --> 00:03:10,480
+you need now and that's part of this
+
+78
+00:03:08,040 --> 00:03:12,840
+story of of technical leadership and
+
+79
+00:03:10,480 --> 00:03:17,720
+Engineering
+
+80
+00:03:12,840 --> 00:03:20,920
+Excellence we need to be focused on
+
+81
+00:03:17,720 --> 00:03:24,360
+ensuring that our systems and processes
+
+82
+00:03:20,920 --> 00:03:25,920
+that our people are are using are as
+
+83
+00:03:24,360 --> 00:03:30,159
+effective as
+
+84
+00:03:25,920 --> 00:03:33,519
+possible so that their job is as slick
+
+85
+00:03:30,159 --> 00:03:36,040
+and easy as possible Right Satia does
+
+86
+00:03:33,519 --> 00:03:39,080
+good work on this at Microsoft right he
+
+87
+00:03:36,040 --> 00:03:41,920
+he would rather people spent the best
+
+88
+00:03:39,080 --> 00:03:44,920
+Engineers the the most skilled people
+
+89
+00:03:41,920 --> 00:03:48,760
+spent time on optimizing the systems
+
+90
+00:03:44,920 --> 00:03:50,480
+that we have because then we can come
+
+91
+00:03:48,760 --> 00:03:51,959
+back around and build all the features
+
+92
+00:03:50,480 --> 00:03:55,760
+we want because we have these really
+
+93
+00:03:51,959 --> 00:03:59,400
+slick systems um and it seems like it's
+
+94
+00:03:55,760 --> 00:04:01,239
+a cost right but actually these systems
+
+95
+00:03:59,400 --> 00:04:05,439
+that's slickness of these systems that
+
+96
+00:04:01,239 --> 00:04:08,079
+Control the Chaos are a Value Center
+
+97
+00:04:05,439 --> 00:04:10,280
+because they are the thing that supports
+
+98
+00:04:08,079 --> 00:04:13,000
+our ability to deliver new features a
+
+99
+00:04:10,280 --> 00:04:15,160
+great example is the Azure devops team
+
+100
+00:04:13,000 --> 00:04:18,720
+they back in
+
+101
+00:04:15,160 --> 00:04:21,199
+2012 before they they they improved
+
+102
+00:04:18,720 --> 00:04:25,120
+their systems they were they were
+
+103
+00:04:21,199 --> 00:04:28,400
+delivering something like 24 25 features
+
+104
+00:04:25,120 --> 00:04:31,120
+to production each year with 650 people
+
+105
+00:04:28,400 --> 00:04:34,039
+with an application of technical
+
+106
+00:04:31,120 --> 00:04:37,360
+excellence and effort right this is not
+
+107
+00:04:34,039 --> 00:04:39,880
+for free and great technical leadership
+
+108
+00:04:37,360 --> 00:04:43,639
+within the organization they took that
+
+109
+00:04:39,880 --> 00:04:46,680
+from 25 features to production each year
+
+110
+00:04:43,639 --> 00:04:50,360
+to over 600 features to production each
+
+111
+00:04:46,680 --> 00:04:53,440
+year and that difference was because
+
+112
+00:04:50,360 --> 00:04:55,720
+they paid back a lot of the I I'm going
+
+113
+00:04:53,440 --> 00:04:58,639
+to say technical debt some of it was
+
+114
+00:04:55,720 --> 00:05:02,240
+technical debt other stuff was technical
+
+115
+00:04:58,639 --> 00:05:06,160
+cruft just buildup of I don't know
+
+116
+00:05:02,240 --> 00:05:09,320
+sediment buildup of of of rust in your
+
+117
+00:05:06,160 --> 00:05:11,639
+in your system because things get old
+
+118
+00:05:09,320 --> 00:05:14,240
+technology moves really fast and we need
+
+119
+00:05:11,639 --> 00:05:17,759
+to keep up with it and because they made
+
+120
+00:05:14,240 --> 00:05:21,319
+those changes just one simple thing they
+
+121
+00:05:17,759 --> 00:05:24,360
+they flipped from lots of long running
+
+122
+00:05:21,319 --> 00:05:27,759
+system tests to unit tests took them
+
+123
+00:05:24,360 --> 00:05:29,400
+four years of effort to get there but
+
+124
+00:05:27,759 --> 00:05:33,880
+they took their engineering team's
+
+125
+00:05:29,400 --> 00:05:38,400
+ability to see whether what they've done
+
+126
+00:05:33,880 --> 00:05:40,759
+works from 48 Hours down to 3 and a half
+
+127
+00:05:38,400 --> 00:05:43,199
+minutes think what that would do to your
+
+128
+00:05:40,759 --> 00:05:45,520
+productivity if you had to wait 48 hours
+
+129
+00:05:43,199 --> 00:05:48,000
+to find out if the simplest change had
+
+130
+00:05:45,520 --> 00:05:49,960
+been successful you'd push bigger and
+
+131
+00:05:48,000 --> 00:05:52,080
+bigger changes through the pipe so when
+
+132
+00:05:49,960 --> 00:05:54,199
+you do have a problem it's harder and
+
+133
+00:05:52,080 --> 00:05:56,479
+harder to figure out what that problem
+
+134
+00:05:54,199 --> 00:05:58,440
+is whereas if you're able to find out if
+
+135
+00:05:56,479 --> 00:05:59,880
+it works in 3 and A2 minutes you'll be
+
+136
+00:05:58,440 --> 00:06:02,360
+running that all the time on on the
+
+137
+00:05:59,880 --> 00:06:04,800
+smallest changes you make and you will
+
+138
+00:06:02,360 --> 00:06:08,280
+build a better product that's more
+
+139
+00:06:04,800 --> 00:06:09,840
+scalable and has less Band-Aids right
+
+140
+00:06:08,280 --> 00:06:13,120
+you're not out with the super glue and
+
+141
+00:06:09,840 --> 00:06:14,960
+sticky tape trying to seal over the the
+
+142
+00:06:13,120 --> 00:06:16,759
+the the gaps for bad choices that you
+
+143
+00:06:14,960 --> 00:06:18,199
+made because you didn't know that there
+
+144
+00:06:16,759 --> 00:06:19,639
+was a problem you didn't know it wasn't
+
+145
+00:06:18,199 --> 00:06:24,280
+going to meet the
+
+146
+00:06:19,639 --> 00:06:26,919
+standard so that cost of chaos is
+
+147
+00:06:24,280 --> 00:06:29,840
+because of poor technical leadership and
+
+148
+00:06:26,919 --> 00:06:32,759
+low engineering Excellence you might C
+
+149
+00:06:29,840 --> 00:06:35,280
+engineering mediocrity within an
+
+150
+00:06:32,759 --> 00:06:38,000
+organization you can solve these
+
+151
+00:06:35,280 --> 00:06:42,199
+problems by having your best Engineers
+
+152
+00:06:38,000 --> 00:06:44,800
+your best people focus on delivering the
+
+153
+00:06:42,199 --> 00:06:48,479
+systems the optimizations to the systems
+
+154
+00:06:44,800 --> 00:06:50,840
+that you need so everybody on every team
+
+155
+00:06:48,479 --> 00:06:54,080
+has the easiest possible job adding
+
+156
+00:06:50,840 --> 00:06:54,080
+value in your product
+
+

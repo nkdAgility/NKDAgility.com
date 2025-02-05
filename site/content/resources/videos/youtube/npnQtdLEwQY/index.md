@@ -2,15 +2,21 @@
 title: Managing Technical Debt to Minimize Costs
 description: Discover how to manage technical debt effectively to reduce costs and enhance product quality. Learn key strategies and real-world examples in this insightful video!
 date: 2024-12-19T06:00:00Z
+ResourceId: npnQtdLEwQY
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: npnQtdLEwQY
 source: youtube
 url: /resources/videos/:slug
 slug: managing-technical-debt-to-minimize-costs
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=npnQtdLEwQY
 aliases:
 - /resources/videos/npnQtdLEwQY
 - /resources/videos/managing-technical-debt-to-minimize-costs
 - /resources/managing-technical-debt-to-minimize-costs
+- /resources/npnQtdLEwQY
 preview: https://i9.ytimg.com/vi/npnQtdLEwQY/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCooGMBAXQSDwgAA6cFb5Rfe35F_A
 duration: 668
 isShort: false
@@ -33,9 +39,10 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube npnQtdLEwQY >}} 
  Understanding and Managing Technical Debt: Lessons for Every Organization | Martin Hinshelwood
 
 In this video, I explore the real cost of technical debt and how organizations can identify, manage, and pay it back effectively. From intentional design compromises for speed to the unintended consequences of poor architectural decisions, technical debt adds hidden costs that can spiral out of control if not addressed.

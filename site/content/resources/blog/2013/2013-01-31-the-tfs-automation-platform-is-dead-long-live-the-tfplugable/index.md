@@ -1,6 +1,12 @@
 ---
 title: The TFS Automation Platform is dead, long live the TfPlugable
 description: Discover the TfPlugable, a revolutionary solution for TFS automation. Simplify deployment and management of extensions with our innovative platform!
+ResourceId: cMYx4JN2az5
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 9229
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2013-01-31
 creator: Martin Hinshelwood
 id: "9229"
@@ -12,6 +18,17 @@ aliases:
 - /the-tfs-automation-platform-is-dead-long-live-the-tfplugable
 - /the-tfs-automation-platform-is-dead,-long-live-the-tfplugable
 - /blog/the-tfs-automation-platform-is-dead,-long-live-the-tfplugable
+- /resources/cMYx4JN2az5
+- /the-tfs-automation-platform-is-dead--long-live-the-tfplugable
+- /blog/the-tfs-automation-platform-is-dead--long-live-the-tfplugable
+- /resources/blog/the-tfs-automation-platform-is-dead-long-live-the-tfplugable
+aliasesFor404:
+- /the-tfs-automation-platform-is-dead-long-live-the-tfplugable
+- /blog/the-tfs-automation-platform-is-dead-long-live-the-tfplugable
+- /the-tfs-automation-platform-is-dead,-long-live-the-tfplugable
+- /blog/the-tfs-automation-platform-is-dead,-long-live-the-tfplugable
+- /the-tfs-automation-platform-is-dead--long-live-the-tfplugable
+- /blog/the-tfs-automation-platform-is-dead--long-live-the-tfplugable
 tags:
 - configuration
 - develop

@@ -1,6 +1,12 @@
 ---
 title: How 'e' are you?
 description: Discover your e-score and see how you rank in the digital world! Join the fun and find out how 'e' you really are with our engaging quiz.
+ResourceId: YDrhk8yEGQa
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 368
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-07-16
 creator: Martin Hinshelwood
 id: "368"
@@ -10,6 +16,13 @@ slug: how-e-are-you
 aliases:
 - /blog/how-e-are-you
 - /how-e-are-you
+- /how-'e'-are-you-
+- /blog/how-'e'-are-you-
+- /resources/YDrhk8yEGQa
+- /resources/blog/how-e-are-you
+aliasesFor404:
+- /how-e-are-you
+- /blog/how-e-are-you
 - /how-'e'-are-you-
 - /blog/how-'e'-are-you-
 tags:

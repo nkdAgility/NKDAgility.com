@@ -1,6 +1,12 @@
 ---
 title: You can't stack rank hierarchical work items?
 description: Explore the challenges of stack ranking hierarchical work items in software development. Learn effective strategies to enhance your team's productivity and organization.
+ResourceId: u9Eh1rXDhGE
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 4773
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2012-03-02
 creator: Martin Hinshelwood
 id: "4773"
@@ -10,6 +16,13 @@ slug: you-cant-stack-rank-hierarchical-work-items
 aliases:
 - /blog/you-cant-stack-rank-hierarchical-work-items
 - /you-cant-stack-rank-hierarchical-work-items
+- /you-can't-stack-rank-hierarchical-work-items-
+- /blog/you-can't-stack-rank-hierarchical-work-items-
+- /resources/u9Eh1rXDhGE
+- /resources/blog/you-cant-stack-rank-hierarchical-work-items
+aliasesFor404:
+- /you-cant-stack-rank-hierarchical-work-items
+- /blog/you-cant-stack-rank-hierarchical-work-items
 - /you-can't-stack-rank-hierarchical-work-items-
 - /blog/you-can't-stack-rank-hierarchical-work-items-
 tags:

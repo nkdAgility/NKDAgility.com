@@ -1,6 +1,12 @@
 ---
 title: Developing for SharePoint on your local computer
 description: Learn how to develop SharePoint solutions locally using Visual Studio 2008. Follow essential steps and tips to streamline your development process.
+ResourceId: WDzxUI3sjlD
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 223
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-05-20
 creator: Martin Hinshelwood
 id: "223"
@@ -10,6 +16,11 @@ slug: developing-for-sharepoint-on-your-local-computer
 aliases:
 - /blog/developing-for-sharepoint-on-your-local-computer
 - /developing-for-sharepoint-on-your-local-computer
+- /resources/WDzxUI3sjlD
+- /resources/blog/developing-for-sharepoint-on-your-local-computer
+aliasesFor404:
+- /developing-for-sharepoint-on-your-local-computer
+- /blog/developing-for-sharepoint-on-your-local-computer
 tags:
 - develop
 - moss2007

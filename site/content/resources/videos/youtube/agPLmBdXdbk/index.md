@@ -2,10 +2,15 @@
 title: Must have trait in an Agile Consultant
 description: 'Discover the essential trait every agile consultant needs to excel in solving complex problems quickly. Join Martin Hinshelwood in this insightful short! #Agile #Consulting'
 date: 2023-05-01T09:30:00Z
+ResourceId: agPLmBdXdbk
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: agPLmBdXdbk
 source: internal
 url: /resources/videos/:slug
 slug: must-have-trait-in-an-agile-consultant
+layout: video
 preview: https://i.ytimg.com/vi/agPLmBdXdbk/maxresdefault.jpg
 duration: 39
 isShort: true
@@ -13,6 +18,7 @@ aliases:
 - /resources/must-have-trait-in-an-agile-consultant
 - /resources/videos/must-have-trait-in-an-agile-consultant
 - /resources/videos/agPLmBdXdbk
+- /resources/agPLmBdXdbk
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -28,8 +34,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube agPLmBdXdbk >}}
-
 **Must have trait in an Agile Consultant**
 
 What's the one must have trait that an Agile Consultant absolutely needs? Whilst there are many important traits that are important, I’d say it has to be tenacity! 💪

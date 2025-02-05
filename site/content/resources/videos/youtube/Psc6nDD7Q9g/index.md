@@ -2,10 +2,15 @@
 title: Maximizing Transparency and Improvement in Software Engineering with Kanban
 description: Unlock the power of Kanban! Discover how it enhances software engineering processes, boosts efficiency, and fosters team collaboration. Watch now!
 date: 2024-07-29T06:45:02Z
+ResourceId: Psc6nDD7Q9g
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: Psc6nDD7Q9g
 source: internal
 url: /resources/videos/:slug
 slug: maximizing-transparency-and-improvement-in-software-engineering-with-kanban
+layout: video
 preview: https://i.ytimg.com/vi/Psc6nDD7Q9g/maxresdefault.jpg
 duration: 57
 isShort: true
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/unlocking-the-power-of-kanban-gaining-deep-insights-into-your-software-engineering-processes
 - /resources/videos/Psc6nDD7Q9g
 - /resources/unlocking-the-power-of-kanban-gaining-deep-insights-into-your-software-engineering-processes
+- /resources/Psc6nDD7Q9g
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -30,8 +36,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube Psc6nDD7Q9g >}}
-
 In the fast-paced world of software engineering, uncertainty is the only certainty. What we expect to happen often diverges dramatically from what actually unfolds during the process. This variance can cause significant challenges, but it also presents opportunities for teams to learn, adapt, and improve. One powerful tool for gaining clarity and creating space for continuous improvement is **Kanban**.
 
 Kanban is more than just a method; it’s a mindset. It offers transparency into your existing system, helping teams gain valuable insights into their processes and identify areas for improvement. In this blog post, we’ll explore how understanding your system through Kanban can transform your workflow and foster an environment of continuous delivery and improvement.

@@ -2,10 +2,15 @@
 title: The Power of Immersive Learning in Scrum Training
 description: 'Discover the third reason why immersive learning transforms Scrum training for students! Dive into the experience with us. #immersivelearning #Scrum #shorts'
 date: 2024-02-02T07:00:16Z
+ResourceId: bXb00GxJiCY
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: bXb00GxJiCY
 source: internal
 url: /resources/videos/:slug
 slug: the-power-of-immersive-learning-in-scrum-training
+layout: video
 preview: https://i.ytimg.com/vi/bXb00GxJiCY/maxresdefault.jpg
 duration: 41
 isShort: true
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-3
 - /resources/videos/bXb00GxJiCY
 - /resources/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-3
+- /resources/bXb00GxJiCY
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,8 +51,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube bXb00GxJiCY >}}
-
 One of the greatest benefits of immersive learning, particularly in Scrum training, is the reduced cognitive load and the increase in overall engagement. Traditional learning methods, like long video conferencing sessions, often lead to fatigue and burnout, which impacts how much participants can absorb. By contrast, immersive learning methods allow for shorter, focused sessions, creating a more exciting and engaging experience.
 
 In this post, we’ll dive into the benefits of immersive learning in Scrum training, sharing personal examples, advice, and recommendations from my own experiences as a Scrum Trainer.

@@ -1,6 +1,12 @@
 ---
 title: TFS Event Handler in .NET 3.5 Part 2
 description: Explore creating a resilient TFS Event Handler in .NET 3.5. Join Martin Hinshelwood as he guides you through handling Team Foundation Server events effectively.
+ResourceId: mjc3r1M0PTV
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 316
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-09-07
 creator: Martin Hinshelwood
 id: "316"
@@ -10,6 +16,13 @@ slug: tfs-event-handler-in-net-3-5-part-2
 aliases:
 - /blog/tfs-event-handler-in-net-3-5-part-2
 - /tfs-event-handler-in-net-3-5-part-2
+- /tfs-event-handler-in--net-3-5-part-2
+- /blog/tfs-event-handler-in--net-3-5-part-2
+- /resources/mjc3r1M0PTV
+- /resources/blog/tfs-event-handler-in-net-3-5-part-2
+aliasesFor404:
+- /tfs-event-handler-in-net-3-5-part-2
+- /blog/tfs-event-handler-in-net-3-5-part-2
 - /tfs-event-handler-in--net-3-5-part-2
 - /blog/tfs-event-handler-in--net-3-5-part-2
 tags:

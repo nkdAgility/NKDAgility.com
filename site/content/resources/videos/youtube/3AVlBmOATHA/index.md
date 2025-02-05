@@ -2,6 +2,10 @@
 title: How would you help organizations pitch the opportunity of agile internally?
 description: Discover how to effectively pitch agile within your organisation and inspire teams to embrace its transformative potential for continuous improvement.
 date: 2023-02-08T07:15:00Z
+ResourceId: 3AVlBmOATHA
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: 3AVlBmOATHA
 source: internal
 url: /resources/videos/:slug
@@ -14,6 +18,7 @@ aliases:
 - /resources/videos/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally-
 - /resources/videos/3AVlBmOATHA
 - /resources/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally-
+- /resources/3AVlBmOATHA
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -25,10 +30,9 @@ tags:
 - Agile Product Development
 resourceTypes:
 - video
+layout: video
 
 ---
-{{< youtube 3AVlBmOATHA >}}
-
 How would you help organizations pitch the opportunity of agile internally?
 
 It depends on whether you are managing up or down.

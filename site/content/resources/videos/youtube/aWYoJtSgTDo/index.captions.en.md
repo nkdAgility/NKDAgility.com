@@ -1,0 +1,11 @@
+One of my friends tends to say that I see Agile and Scrum everywhere, including in the forest and me going to one of my favourite activities, mushroom foraging. And yes, I believe we can learn a lot about agility when we look at what I do, especially in the autumn in the forest.
+
+So, first point: you have to choose the right environment, right territory, right. You most likely will not find great mushrooms in some of the forests, so this is the knowledge that you can either ask someone. There are some sources of knowledge on how to find the forest where there will be some potential mushrooms. Some of the ideas you can quickly cut out from your list: don't go to the city centre; I don't recommend such places for mushroom foraging. So, some of the places obviously will not work.
+
+And when you are coming into the forest, there are also some other, I would say, learned rules for me. If you want to explore, if you want to find the best mushrooms, well, if you just stay in the safety zone, so close to the edge of the forest, my piece of advice as an experienced mushroom forager is that maybe a lot of people have been there already. 
+
+So, if you want to achieve more, if you want to potentially find better mushrooms, more mushrooms, leave this comfort zone, go deeper, explore. And when it comes to how do you do that, well, you don't run in the forest for many reasons. One of them is because you want to focus; you want to make small steps. You want to sense the environment around you, and trust me, sometimes I can even smell good places where mushrooms can be found. 
+
+So, all your senses are needed, your focus is needed, and you have to be patient. It happens that sometimes you are so excited; you have nice new buckets going to the forest, and oh well, nothing in the buckets. But at least that's a very healthy sport, I would say.
+
+So, being patient, learn how to explore, be careful, be focused, and be prepared that this journey will need more time, more devotion. Definitely, you can learn more and gather more mushrooms if you invest your time wisely in that process.

@@ -2,10 +2,15 @@
 title: 'The Importance of Validation in Product Development: A Strategic Approach'
 description: Discover the importance of product validation! Learn how to ensure features deliver real value, reduce waste, and enhance user satisfaction.
 date: 2024-09-02T15:30:15Z
+ResourceId: roWCOkmtfDs
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: roWCOkmtfDs
 source: internal
 url: /resources/videos/:slug
 slug: the-importance-of-validation-in-product-development-a-strategic-approach
+layout: video
 preview: https://i.ytimg.com/vi/roWCOkmtfDs/maxresdefault.jpg
 duration: 843
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/what-is-product-validation-and-why-does-it-matter
 - /resources/videos/roWCOkmtfDs
 - /resources/what-is-product-validation-and-why-does-it-matter
+- /resources/roWCOkmtfDs
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -29,8 +35,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube roWCOkmtfDs >}}
-
 When you're developing a product, it's natural to assume that the features you're adding will deliver value to your customers and your business. But how do you truly know that these features are providing the expected value? Recently, I've been working with a client facing a common issue—sales-driven features are fragmenting their product, making it harder to use. This issue stems from prioritizing short-term gains over long-term value. In this blog post, we'll explore the pitfalls of this approach and how shifting focus towards value-driven development can lead to more sustainable success.
 
 ## **The Danger of Sales-Driven Features**

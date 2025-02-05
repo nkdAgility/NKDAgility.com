@@ -2,14 +2,20 @@
 title: What does failure look like as a product owner?
 description: "Discover the signs of a failing product owner! Learn to distinguish perception from reality in product management. Don't miss this insightful video! \U0001F3AF\U0001F6AB"
 date: 2023-09-22T07:00:32Z
+ResourceId: uvU_ATou6QY
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: uvU_ATou6QY
 url: /resources/videos/:slug
 slug: what-does-failure-look-like-as-a-product-owner-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=uvU_ATou6QY
 aliases:
 - /resources/videos/uvU_ATou6QY
 - /resources/videos/what-does-failure-look-like-as-a-product-owner-
 - /resources/what-does-failure-look-like-as-a-product-owner-
+- /resources/uvU_ATou6QY
 preview: https://i.ytimg.com/vi/uvU_ATou6QY/maxresdefault.jpg
 duration: 203
 isShort: false
@@ -25,9 +31,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube uvU_ATou6QY >}} 
  Recognizing the Signs of a Failing Product Owner. Uncover the indicators of a failing product owner! Learn how to differentiate between perception and reality in product management. 🎯🚫
 
 *Enjoy this video? Like and subscribe to our channel: https://www.youtube.com/@nakedAgility*

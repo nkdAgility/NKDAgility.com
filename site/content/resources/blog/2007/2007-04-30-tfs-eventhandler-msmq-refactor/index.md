@@ -1,6 +1,12 @@
 ---
 title: 'TFS EventHandler: MSMQ Refactor'
 description: Explore the TFS EventHandler MSMQ Refactor as Martin Hinshelwood shares insights on streamlining event handling with a modular approach. Stay tuned for updates!
+ResourceId: 1monS4nfW6w
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 407
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-04-30
 creator: Martin Hinshelwood
 id: "407"
@@ -10,6 +16,13 @@ slug: tfs-eventhandler-msmq-refactor
 aliases:
 - /blog/tfs-eventhandler-msmq-refactor
 - /tfs-eventhandler-msmq-refactor
+- /tfs-eventhandler--msmq-refactor
+- /blog/tfs-eventhandler--msmq-refactor
+- /resources/1monS4nfW6w
+- /resources/blog/tfs-eventhandler-msmq-refactor
+aliasesFor404:
+- /tfs-eventhandler-msmq-refactor
+- /blog/tfs-eventhandler-msmq-refactor
 - /tfs-eventhandler--msmq-refactor
 - /blog/tfs-eventhandler--msmq-refactor
 tags:

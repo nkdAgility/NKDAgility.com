@@ -1,6 +1,12 @@
 ---
 title: A problem with Diarist 2!
 description: Frustrated with Diarist 2? Discover a rant about a frustrating blog writing experience and share your thoughts on improving Windows Mobile 6 blogging!
+ResourceId: Pq0Hdy2qZ05
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 195
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-09-10
 creator: Martin Hinshelwood
 id: "195"
@@ -10,6 +16,13 @@ slug: a-problem-with-diarist-2
 aliases:
 - /blog/a-problem-with-diarist-2
 - /a-problem-with-diarist-2
+- /a-problem-with-diarist-2-
+- /blog/a-problem-with-diarist-2-
+- /resources/Pq0Hdy2qZ05
+- /resources/blog/a-problem-with-diarist-2
+aliasesFor404:
+- /a-problem-with-diarist-2
+- /blog/a-problem-with-diarist-2
 - /a-problem-with-diarist-2-
 - /blog/a-problem-with-diarist-2-
 tags:

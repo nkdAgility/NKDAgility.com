@@ -1,6 +1,12 @@
 ---
 title: Creating a WIT Adapter for the TFS Integration Platform for a source with no history
 description: Learn how to create a WIT adapter for the TFS Integration Platform, enabling seamless integration with Test Track Pro, even without historical data.
+ResourceId: bSv-E4Y5zk0
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 3408
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2011-06-02
 creator: Martin Hinshelwood
 id: "3408"
@@ -10,6 +16,11 @@ slug: creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-
 aliases:
 - /blog/creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-no-history
 - /creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-no-history
+- /resources/bSv-E4Y5zk0
+- /resources/blog/creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-no-history
+aliasesFor404:
+- /creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-no-history
+- /blog/creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-no-history
 tags:
 - nwcadence
 - ttp

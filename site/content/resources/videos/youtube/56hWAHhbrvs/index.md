@@ -2,6 +2,10 @@
 title: 7 Harbingers of the Agile apocalypse. Organizational Structure.
 description: "Uncover the \"Antichrist of Agile\" as Martin Hinshelwood explores how traditional structures hinder agility and the path to self-organisation. \U0001F504\U0001F6AB"
 date: 2023-10-19T11:00:06Z
+ResourceId: 56hWAHhbrvs
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: 56hWAHhbrvs
 source: internal
 url: /resources/videos/:slug
@@ -14,6 +18,7 @@ aliases:
 - /resources/videos/antichrist!-7-harbingers-agile-apocalypse
 - /resources/videos/56hWAHhbrvs
 - /resources/antichrist!-7-harbingers-agile-apocalypse
+- /resources/56hWAHhbrvs
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -48,10 +53,9 @@ tags:
 - agile-apocalypse
 resourceTypes:
 - video
+layout: video
 
 ---
-{{< youtube 56hWAHhbrvs >}}
-
 # Navigating the Agile Apocalypse: Overcoming the Alpha Organizational Structure
 
 In the quest for agility within organizations, one formidable adversary stands out, often referred to as the "Antichrist of Agile." This adversary is none other than the Alpha organizational structure—the traditional, hierarchical management framework that stifles the very essence of agility. This piece delves into the challenges posed by such structures and outlines strategies for overcoming them, marking the first in a series dedicated to navigating the harbingers of the agile apocalypse.

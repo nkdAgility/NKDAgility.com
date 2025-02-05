@@ -2,10 +2,15 @@
 title: Best Scrum advice you ever received?
 description: "Unlock Scrum's true potential! Embrace flexibility over dogma with expert insights from Martin. Discover adaptive practices for effective project management. \U0001F680"
 date: 2023-06-05T07:00:20Z
+ResourceId: YUlpnyN2IeI
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: YUlpnyN2IeI
 source: internal
 url: /resources/videos/:slug
 slug: best-scrum-advice-you-ever-received
+layout: video
 preview: https://i.ytimg.com/vi/YUlpnyN2IeI/maxresdefault.jpg
 duration: 298
 isShort: false
@@ -15,6 +20,7 @@ aliases:
 - /resources/videos/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
 - /resources/videos/YUlpnyN2IeI
 - /resources/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
+- /resources/YUlpnyN2IeI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -42,8 +48,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube YUlpnyN2IeI >}}
-
 ## The Golden Nugget of Scrum Advice I've Ever Received
 
 Today, I am bringing to the table a reflective question that hovers persistently in the Scrum sphere, which is,  "What's the best Scrum advice you've ever received?" ✨

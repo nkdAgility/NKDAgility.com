@@ -1,0 +1,933 @@
+1
+00:00:00,040 --> 00:00:04,480
+so the
+
+2
+00:00:01,159 --> 00:00:06,919
+concept that we talk about a
+
+3
+00:00:04,480 --> 00:00:11,480
+lot from the perspective of modern
+
+4
+00:00:06,919 --> 00:00:13,320
+software engineering that enables you to
+
+5
+00:00:11,480 --> 00:00:16,960
+push
+
+6
+00:00:13,320 --> 00:00:19,240
+quality build quality build security
+
+7
+00:00:16,960 --> 00:00:21,720
+build these things in from the beginning
+
+8
+00:00:19,240 --> 00:00:25,400
+build it in rather than testing it in
+
+9
+00:00:21,720 --> 00:00:26,679
+later is the the concept of shift left
+
+10
+00:00:25,400 --> 00:00:29,679
+of
+
+11
+00:00:26,679 --> 00:00:35,800
+moving quality assurance earlier in the
+
+12
+00:00:29,679 --> 00:00:38,960
+develop M cycle now shifting left is
+
+13
+00:00:35,800 --> 00:00:42,200
+often controversial cuz when do you stop
+
+14
+00:00:38,960 --> 00:00:44,120
+how far left should you ship and as far
+
+15
+00:00:42,200 --> 00:00:48,559
+as I'm concerned it's all the way to the
+
+16
+00:00:44,120 --> 00:00:52,120
+left the people writing the code should
+
+17
+00:00:48,559 --> 00:00:53,760
+be the ones that are writing the tests
+
+18
+00:00:52,120 --> 00:00:55,879
+that should be the ones that are running
+
+19
+00:00:53,760 --> 00:00:58,920
+the tests that are taking the Fallout
+
+20
+00:00:55,879 --> 00:01:01,600
+from the tests that are all the way
+
+21
+00:00:58,920 --> 00:01:03,480
+through to I need to support this if I
+
+22
+00:01:01,600 --> 00:01:04,920
+wrote the code I need to support this in
+
+23
+00:01:03,480 --> 00:01:07,680
+production now usually in bigger
+
+24
+00:01:04,920 --> 00:01:10,360
+products that's team based right so the
+
+25
+00:01:07,680 --> 00:01:12,000
+team that's working on this feature or
+
+26
+00:01:10,360 --> 00:01:14,560
+this capability or this part of the
+
+27
+00:01:12,000 --> 00:01:16,640
+product this area of the product are the
+
+28
+00:01:14,560 --> 00:01:19,320
+ones that also support it in production
+
+29
+00:01:16,640 --> 00:01:21,079
+but I don't just mean support it in
+
+30
+00:01:19,320 --> 00:01:23,240
+production they're they're they're
+
+31
+00:01:21,079 --> 00:01:25,960
+dealing with the bugs they're dealing
+
+32
+00:01:23,240 --> 00:01:27,600
+with almost with the support requests
+
+33
+00:01:25,960 --> 00:01:28,840
+it's probably being in a big
+
+34
+00:01:27,600 --> 00:01:32,360
+organization it's probably being
+
+35
+00:01:28,840 --> 00:01:34,759
+filtered through some kind of levels in
+
+36
+00:01:32,360 --> 00:01:37,320
+a in a center but they need to handle
+
+37
+00:01:34,759 --> 00:01:39,960
+those support requests and they need to
+
+38
+00:01:37,320 --> 00:01:41,960
+look at the Telemetry for the
+
+39
+00:01:39,960 --> 00:01:43,640
+experiments that they're doing and
+
+40
+00:01:41,960 --> 00:01:45,479
+figure out whether their experiments
+
+41
+00:01:43,640 --> 00:01:47,719
+successful whether things are right do
+
+42
+00:01:45,479 --> 00:01:49,119
+we have the right alerts to know when
+
+43
+00:01:47,719 --> 00:01:52,840
+something's gone wrong with this feature
+
+44
+00:01:49,119 --> 00:01:54,920
+or capability that is all shifted left
+
+45
+00:01:52,840 --> 00:01:58,119
+to the engineering team that is building
+
+46
+00:01:54,920 --> 00:02:00,240
+the product they are building it running
+
+47
+00:01:58,119 --> 00:02:02,439
+it supporting it maintaining it
+
+48
+00:02:00,240 --> 00:02:05,600
+validating it going forward into the
+
+49
+00:02:02,439 --> 00:02:08,759
+future which means you need all of those
+
+50
+00:02:05,600 --> 00:02:11,160
+skills that in the past you maybe had
+
+51
+00:02:08,759 --> 00:02:13,239
+dispersed around the organization you
+
+52
+00:02:11,160 --> 00:02:16,400
+need all of those skills on the
+
+53
+00:02:13,239 --> 00:02:18,480
+engineering team so usually usually you
+
+54
+00:02:16,400 --> 00:02:21,280
+have a lot of people who can who can
+
+55
+00:02:18,480 --> 00:02:24,840
+code right but you also have people who
+
+56
+00:02:21,280 --> 00:02:27,480
+are who are have security expertise who
+
+57
+00:02:24,840 --> 00:02:30,280
+have testing and validation expertise
+
+58
+00:02:27,480 --> 00:02:34,319
+who have user experience expertise all
+
+59
+00:02:30,280 --> 00:02:37,160
+of those things move further towards the
+
+60
+00:02:34,319 --> 00:02:38,959
+source of all of our all of our problems
+
+61
+00:02:37,160 --> 00:02:43,440
+and all of our successes which is which
+
+62
+00:02:38,959 --> 00:02:48,159
+is building the Cod and in
+
+63
+00:02:43,440 --> 00:02:51,000
+I in the modern engineering space in
+
+64
+00:02:48,159 --> 00:02:52,480
+agile practices there are a bunch of
+
+65
+00:02:51,000 --> 00:02:55,599
+tools and techniques that have kind of
+
+66
+00:02:52,480 --> 00:02:58,840
+grown in that space to be really popular
+
+67
+00:02:55,599 --> 00:03:01,120
+um but also um very contentious because
+
+68
+00:02:58,840 --> 00:03:02,680
+people don't
+
+69
+00:03:01,120 --> 00:03:04,239
+they don't want to put in one they don't
+
+70
+00:03:02,680 --> 00:03:08,319
+want to put in the work because they're
+
+71
+00:03:04,239 --> 00:03:10,560
+more effort to do right so it seems like
+
+72
+00:03:08,319 --> 00:03:12,480
+we're going to deliver less stuff
+
+73
+00:03:10,560 --> 00:03:15,480
+because we're spending more time on the
+
+74
+00:03:12,480 --> 00:03:18,799
+engineering space but because we don't
+
+75
+00:03:15,480 --> 00:03:21,280
+have that Arc or I don't have is
+
+76
+00:03:18,799 --> 00:03:24,200
+probably too strong we have less of that
+
+77
+00:03:21,280 --> 00:03:27,599
+Arc of uh people finding problems in
+
+78
+00:03:24,200 --> 00:03:30,280
+production we have less of that Arc of
+
+79
+00:03:27,599 --> 00:03:32,080
+uh reduction in in in brand everybody's
+
+80
+00:03:30,280 --> 00:03:33,519
+losing their mind because we're we're
+
+81
+00:03:32,080 --> 00:03:36,120
+we're we're not being presented well in
+
+82
+00:03:33,519 --> 00:03:38,319
+front of our customers we have less of
+
+83
+00:03:36,120 --> 00:03:40,519
+that we're on we have an opportunity
+
+84
+00:03:38,319 --> 00:03:42,599
+here to do stuff but we need to fix this
+
+85
+00:03:40,519 --> 00:03:44,400
+stuff first because we never fixed it
+
+86
+00:03:42,599 --> 00:03:47,120
+before we just pushed it out and we
+
+87
+00:03:44,400 --> 00:03:50,000
+didn't bother with it all of those
+
+88
+00:03:47,120 --> 00:03:53,360
+things are more effective
+
+89
+00:03:50,000 --> 00:03:55,959
+therefore when we start shifting left
+
+90
+00:03:53,360 --> 00:03:57,840
+and we're doing more things from the
+
+91
+00:03:55,959 --> 00:04:00,519
+perspective of the engineering team it
+
+92
+00:03:57,840 --> 00:04:04,480
+takes longer to do each thing the first
+
+93
+00:04:00,519 --> 00:04:06,799
+time but each thing is done more right
+
+94
+00:04:04,480 --> 00:04:06,799
+and
+
+95
+00:04:06,959 --> 00:04:11,360
+because the lack of doing things I'm
+
+96
+00:04:09,640 --> 00:04:13,680
+trying to avoid the term technical debt
+
+97
+00:04:11,360 --> 00:04:16,079
+because I'm including more things in
+
+98
+00:04:13,680 --> 00:04:18,160
+this story than just technical debt are
+
+99
+00:04:16,079 --> 00:04:21,160
+poor engineering practices and poor
+
+100
+00:04:18,160 --> 00:04:24,320
+quality output right for whatever reason
+
+101
+00:04:21,160 --> 00:04:26,840
+including technical debt is
+
+102
+00:04:24,320 --> 00:04:30,039
+is an
+
+103
+00:04:26,840 --> 00:04:33,400
+exponential problem not a linear problem
+
+104
+00:04:30,039 --> 00:04:35,600
+problem right because think about if you
+
+105
+00:04:33,400 --> 00:04:38,880
+build if you built the first story of a
+
+106
+00:04:35,600 --> 00:04:40,400
+building with substandard materials and
+
+107
+00:04:38,880 --> 00:04:42,560
+then you built the second story of a
+
+108
+00:04:40,400 --> 00:04:44,160
+building with substandard materials how
+
+109
+00:04:42,560 --> 00:04:47,160
+far are you going to get before the
+
+110
+00:04:44,160 --> 00:04:50,320
+building collapses right now we have an
+
+111
+00:04:47,160 --> 00:04:53,759
+advantage in the software industry that
+
+112
+00:04:50,320 --> 00:04:55,160
+we can't build the first level we can
+
+113
+00:04:53,759 --> 00:04:57,280
+build the first level of the building
+
+114
+00:04:55,160 --> 00:05:00,039
+quickly and when we go to build the
+
+115
+00:04:57,280 --> 00:05:05,199
+second level of the building we can go
+
+116
+00:05:00,039 --> 00:05:07,800
+back and refactor redo any of the things
+
+117
+00:05:05,199 --> 00:05:10,000
+that we need to enhance the support of
+
+118
+00:05:07,800 --> 00:05:11,440
+the second story of the building right
+
+119
+00:05:10,000 --> 00:05:14,000
+this is a terrible analogy but it's
+
+120
+00:05:11,440 --> 00:05:16,199
+working for me just now and it
+
+121
+00:05:14,000 --> 00:05:17,759
+enables as as you because you don't know
+
+122
+00:05:16,199 --> 00:05:20,880
+how many stories your building's going
+
+123
+00:05:17,759 --> 00:05:24,160
+to have when you're you're you're you're
+
+124
+00:05:20,880 --> 00:05:26,880
+you're doing software engineering you if
+
+125
+00:05:24,160 --> 00:05:28,520
+you want to look up the building analogy
+
+126
+00:05:26,880 --> 00:05:30,080
+look up the Chrysler Building and how
+
+127
+00:05:28,520 --> 00:05:31,600
+the Chrysler Building was built because
+
+128
+00:05:30,080 --> 00:05:33,919
+it was effectively built in an agile
+
+129
+00:05:31,600 --> 00:05:35,080
+manner they didn't know how many stories
+
+130
+00:05:33,919 --> 00:05:36,280
+they knew roughly but they didn't know
+
+131
+00:05:35,080 --> 00:05:37,680
+exactly how many stories they were going
+
+132
+00:05:36,280 --> 00:05:39,280
+to put on it they didn't have all the
+
+133
+00:05:37,680 --> 00:05:42,440
+materials up front they didn't have a
+
+134
+00:05:39,280 --> 00:05:43,720
+plan up front um of the the building and
+
+135
+00:05:42,440 --> 00:05:46,800
+what they were going to do is a great
+
+136
+00:05:43,720 --> 00:05:50,720
+example of this in that that um physical
+
+137
+00:05:46,800 --> 00:05:53,280
+space but in the virtual space we can do
+
+138
+00:05:50,720 --> 00:05:56,000
+test driven development test D driven
+
+139
+00:05:53,280 --> 00:05:57,759
+development is not about building better
+
+140
+00:05:56,000 --> 00:05:59,919
+code it's about having better
+
+141
+00:05:57,759 --> 00:06:02,240
+architectures we create better better
+
+142
+00:05:59,919 --> 00:06:05,160
+architectures cuz we only create what we
+
+143
+00:06:02,240 --> 00:06:08,560
+need to support the things that we need
+
+144
+00:06:05,160 --> 00:06:11,120
+it to do doing pair programming means
+
+145
+00:06:08,560 --> 00:06:13,039
+that we've got more eyes on the code it
+
+146
+00:06:11,120 --> 00:06:16,400
+feels like it's going to be less
+
+147
+00:06:13,039 --> 00:06:19,240
+productive but productivity is not a
+
+148
+00:06:16,400 --> 00:06:22,440
+moment in time for the engineering team
+
+149
+00:06:19,240 --> 00:06:26,520
+it needs to be looked at across the
+
+150
+00:06:22,440 --> 00:06:29,960
+whole system and we can take what seems
+
+151
+00:06:26,520 --> 00:06:31,240
+like a a hit on productivity to do pair
+
+152
+00:06:29,960 --> 00:06:32,639
+programming because there's two people
+
+153
+00:06:31,240 --> 00:06:36,039
+doing things why can't we have them both
+
+154
+00:06:32,639 --> 00:06:38,160
+doing their own thing but we have less
+
+155
+00:06:36,039 --> 00:06:40,319
+problems that we need later which are
+
+156
+00:06:38,160 --> 00:06:43,120
+much more expensive than the pair
+
+157
+00:06:40,319 --> 00:06:45,840
+programming is at the at the start right
+
+158
+00:06:43,120 --> 00:06:48,520
+same with test driven development we we
+
+159
+00:06:45,840 --> 00:06:50,880
+build better architectures so it's
+
+160
+00:06:48,520 --> 00:06:53,120
+easier to add stuff going forward into
+
+161
+00:06:50,880 --> 00:06:56,199
+the future and when we do need to
+
+162
+00:06:53,120 --> 00:06:58,639
+refactor our architecture we have a test
+
+163
+00:06:56,199 --> 00:07:00,479
+infrastructure to validate at each
+
+164
+00:06:58,639 --> 00:07:02,840
+change as we make it to make sure that
+
+165
+00:07:00,479 --> 00:07:05,319
+we're not breaking existing things
+
+166
+00:07:02,840 --> 00:07:07,759
+existing stories that are supposed to
+
+167
+00:07:05,319 --> 00:07:11,520
+happen these
+
+168
+00:07:07,759 --> 00:07:15,360
+tools are fundamentally part of that
+
+169
+00:07:11,520 --> 00:07:17,360
+story of how do we build a a practice of
+
+170
+00:07:15,360 --> 00:07:21,400
+engineering Excellence within our
+
+171
+00:07:17,360 --> 00:07:23,560
+organization and enable enable enable
+
+172
+00:07:21,400 --> 00:07:25,639
+great things to happen we want to build
+
+173
+00:07:23,560 --> 00:07:27,240
+great products we want to make great
+
+174
+00:07:25,639 --> 00:07:29,240
+profits from the great products that we
+
+175
+00:07:27,240 --> 00:07:32,680
+build and the only way we're going to do
+
+176
+00:07:29,240 --> 00:07:35,879
+that is is if we do things in a way that
+
+177
+00:07:32,680 --> 00:07:38,319
+enables us through the future rather
+
+178
+00:07:35,879 --> 00:07:41,319
+than us getting to a point where we're
+
+179
+00:07:38,319 --> 00:07:42,960
+drowning under the weight of all the
+
+180
+00:07:41,319 --> 00:07:45,560
+crap that we've shipped to production
+
+181
+00:07:42,960 --> 00:07:47,360
+over the years and if you are currently
+
+182
+00:07:45,560 --> 00:07:50,039
+drowning under the weight of all of that
+
+183
+00:07:47,360 --> 00:07:52,879
+as the Azure devops team was when they
+
+184
+00:07:50,039 --> 00:07:55,960
+moved from their waterfall model that
+
+185
+00:07:52,879 --> 00:07:58,560
+they'd been doing from 200 what let C to
+
+186
+00:07:55,960 --> 00:08:01,520
+the for five years and then they moved
+
+187
+00:07:58,560 --> 00:08:04,520
+to continuous delivery to production
+
+188
+00:08:01,520 --> 00:08:07,879
+they had to go pay back all of those
+
+189
+00:08:04,520 --> 00:08:10,680
+loans that they'd taken out or for for
+
+190
+00:08:07,879 --> 00:08:13,720
+for for for the future right but what
+
+191
+00:08:10,680 --> 00:08:17,400
+they found was that in paying back those
+
+192
+00:08:13,720 --> 00:08:19,840
+loans they became so much more effective
+
+193
+00:08:17,400 --> 00:08:22,280
+because of the exponential cost of
+
+194
+00:08:19,840 --> 00:08:26,840
+taking out those loans they became so
+
+195
+00:08:22,280 --> 00:08:29,639
+much more effective that in actual fact
+
+196
+00:08:26,840 --> 00:08:31,680
+the the
+
+197
+00:08:29,639 --> 00:08:34,039
+the the cost of paying it back was
+
+198
+00:08:31,680 --> 00:08:36,519
+completely irrelevant to the benefit and
+
+199
+00:08:34,039 --> 00:08:38,680
+value that they got from it being paid
+
+200
+00:08:36,519 --> 00:08:40,680
+back that makes sense right they went
+
+201
+00:08:38,680 --> 00:08:42,200
+they went from from 25 features to
+
+202
+00:08:40,680 --> 00:08:44,959
+production each year with the same
+
+203
+00:08:42,200 --> 00:08:48,399
+number of people to nearly nearly 50
+
+204
+00:08:44,959 --> 00:08:52,320
+features to production each year and
+
+205
+00:08:48,399 --> 00:08:54,240
+even taking four years to get there holy
+
+206
+00:08:52,320 --> 00:08:56,760
+moly I would rather have 800 features
+
+207
+00:08:54,240 --> 00:08:58,800
+than 25 features right and yes the
+
+208
+00:08:56,760 --> 00:09:01,279
+features are smaller but it's more
+
+209
+00:08:58,800 --> 00:09:05,440
+experiment right it's more chances to
+
+210
+00:09:01,279 --> 00:09:07,920
+get something right it's more ideas to
+
+211
+00:09:05,440 --> 00:09:10,440
+see if they connect with the customer so
+
+212
+00:09:07,920 --> 00:09:12,440
+in the old ways you you you have to
+
+213
+00:09:10,440 --> 00:09:14,320
+stick with and focus on something even
+
+214
+00:09:12,440 --> 00:09:16,600
+when it's not quite the most optimal
+
+215
+00:09:14,320 --> 00:09:18,839
+thing but if you're doing lots of little
+
+216
+00:09:16,600 --> 00:09:21,040
+experiments you can find oh this thing
+
+217
+00:09:18,839 --> 00:09:22,959
+resonates really much more than these
+
+218
+00:09:21,040 --> 00:09:25,440
+other things with the customer let's do
+
+219
+00:09:22,959 --> 00:09:26,680
+more on that until it stops resonating
+
+220
+00:09:25,440 --> 00:09:28,440
+and then we move on to something else
+
+221
+00:09:26,680 --> 00:09:30,560
+and move on to something else and we
+
+222
+00:09:28,440 --> 00:09:35,279
+build a better product with more
+
+223
+00:09:30,560 --> 00:09:37,760
+capabilities so there are lots of tools
+
+224
+00:09:35,279 --> 00:09:39,120
+and techniques that you can use within
+
+225
+00:09:37,760 --> 00:09:42,040
+the context of modern software
+
+226
+00:09:39,120 --> 00:09:46,320
+engineering practices to build quality
+
+227
+00:09:42,040 --> 00:09:49,800
+in from the start and enabling your
+
+228
+00:09:46,320 --> 00:09:51,760
+teams to be as effective as possible to
+
+229
+00:09:49,800 --> 00:09:53,240
+choose the practices because they need
+
+230
+00:09:51,760 --> 00:09:55,120
+to be able to choose the practices that
+
+231
+00:09:53,240 --> 00:09:57,279
+work best for their
+
+232
+00:09:55,120 --> 00:10:01,040
+context that's something that naked
+
+233
+00:09:57,279 --> 00:10:01,040
+agility can help you with
+
+

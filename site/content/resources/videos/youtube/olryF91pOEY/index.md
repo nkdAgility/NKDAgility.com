@@ -2,10 +2,15 @@
 title: Can organisations run an Applying Professional Scrum workshop? How would that help them?
 description: Discover how an Applying Professional Scrum workshop can enhance your team's effectiveness and align with agile values for better outcomes.
 date: 2023-03-29T07:00:17Z
+ResourceId: olryF91pOEY
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: olryF91pOEY
 source: internal
 url: /resources/videos/:slug
 slug: can-organisations-run-an-applying-professional-scrum-workshop-how-would-that-help-them
+layout: video
 preview: https://i.ytimg.com/vi/olryF91pOEY/maxresdefault.jpg
 duration: 479
 isShort: false
@@ -15,6 +20,7 @@ aliases:
 - /resources/videos/can-organizations-run-an-applying-professional-scrum-workshop-how-will-that-help-them-
 - /resources/videos/olryF91pOEY
 - /resources/can-organizations-run-an-applying-professional-scrum-workshop-how-will-that-help-them-
+- /resources/olryF91pOEY
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -31,8 +37,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube olryF91pOEY >}}
-
 **Can organisations run an Applying Professional Scrum workshop? How would that help them?**
 
 Is Your Organisation Seeking Professional Agile Guidance

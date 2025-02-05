@@ -1,6 +1,12 @@
 ---
 title: Log Elmah errors in Team Foundation Server
 description: Learn how to log Elmah errors in Team Foundation Server effectively. Discover methods to streamline error tracking and enhance your development process.
+ResourceId: FGTZV3eWHR9
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 97
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-07-26
 creator: Martin Hinshelwood
 id: "97"
@@ -10,6 +16,11 @@ slug: log-elmah-errors-in-team-foundation-server
 aliases:
 - /blog/log-elmah-errors-in-team-foundation-server
 - /log-elmah-errors-in-team-foundation-server
+- /resources/FGTZV3eWHR9
+- /resources/blog/log-elmah-errors-in-team-foundation-server
+aliasesFor404:
+- /log-elmah-errors-in-team-foundation-server
+- /blog/log-elmah-errors-in-team-foundation-server
 tags:
 - aggreko
 - code

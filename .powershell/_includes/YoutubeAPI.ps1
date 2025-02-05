@@ -1,5 +1,5 @@
 
-
+$env:GOOGLE_QUOTA_OK = $true
 # Function to fetch video list from YouTube API using either AccessToken or ApiKey
 function Get-YoutubeChannelVideos {
     param (
@@ -174,8 +174,20 @@ function Get-YouTubeCaptionsData {
         return $captionsData
     }
     catch {
-        Write-Host "Error fetching captions for video: $videoId" -ForegroundColor Red
-        Write-Host $_.Exception.Message -ForegroundColor Red
+        if ($_.ErrorDetails) {
+            # Parse the error response from the error details
+            $errorObject = $_.ErrorDetails | ConvertFrom-Json
+            # Extract the "reason" field
+            $reason = $errorObject.error.errors[0].reason
+            Write-Host "Error Reason: $reason"
+            if ($reason -eq "quotaExceeded") {
+                Write-Host "Quota Exceeded. Set GOOGLE_QUOTA_OK to false to stop further requests." -ForegroundColor Red
+                $env:GOOGLE_QUOTA_OK = $false
+            }
+        }
+        else {
+            Write-Host "Error downloading caption: $($_.Exception.Message)" -ForegroundColor Red
+        }
         return $null
     }
 }
@@ -212,12 +224,30 @@ function Get-YouTubeCaptions {
 
     $captionsApiUrl = "https://www.googleapis.com/youtube/v3/captions?part=id,snippet&videoId=$videoId"
     $headers = @{"Authorization" = "Bearer $accessToken" }
-
-    $response = Invoke-RestMethod -Uri $captionsApiUrl -Headers $headers -Method Get
-    return $response.items
+    try {
+        $response = Invoke-RestMethod -Uri $captionsApiUrl -Headers $headers -Method Get
+        return $response.items
+    }
+    catch {
+        if ($_.ErrorDetails) {
+            # Parse the error response from the error details
+            $errorObject = $_.ErrorDetails | ConvertFrom-Json
+            # Extract the "reason" field
+            $reason = $errorObject.error.errors[0].reason
+            Write-Host "Error Reason: $reason"
+            if ($reason -eq "quotaExceeded") {
+                Write-Host "Quota Exceeded. Set GOOGLE_QUOTA_OK to false to stop further requests." -ForegroundColor Red
+                $env:GOOGLE_QUOTA_OK = $false
+            }
+        }
+        else {
+            Write-Host "Error downloading caption: $($_.Exception.Message)" -ForegroundColor Red
+        }
+        return $null
+    }
 }
 
-# Function to download a caption file with a check if $captionContent is empty
+# Function to download a caption file with a check if $captionContent is empty and decode if necessary
 function Get-YouTubeCaption {
     param (
         [Parameter(Mandatory = $true)]
@@ -231,10 +261,49 @@ function Get-YouTubeCaption {
     $headers = @{"Authorization" = "Bearer $token" }
 
     # Use Invoke-WebRequest for binary or non-JSON/XML responses
-    $response = Invoke-WebRequest -Uri $downloadUrl -Headers $headers -Method Get
+    try {
+        $response = Invoke-WebRequest -Uri $downloadUrl -Headers $headers -Method Get
+        $captionContent = $response.Content
 
-    return $response.Content
+        # Check if the content is potentially ASCII-encoded (only contains numbers and whitespace)
+        if ($captionContent -match '^(\d+(\s\d+)*\r?\n?)+$') {
+            Write-Host "Content appears to be ASCII-encoded. Decoding..." -ForegroundColor Yellow
+
+            # Decode the ASCII-encoded content
+            $decodedContent = ""
+            foreach ($line in $captionContent -split "`n") {
+                if ($line -match '^\d+$') {
+                    $decodedContent += [char][int]$line
+                } else {
+                    $decodedContent += "`n" + $line
+                }
+            }
+
+            return $decodedContent
+        } else {
+            Write-Host "Content is already decoded." -ForegroundColor Green
+            return $captionContent
+        }
+    }
+    catch {
+        if ($_.ErrorDetails) {
+            # Parse the error response from the error details
+            $errorObject = $_.ErrorDetails | ConvertFrom-Json
+
+            # Extract the "reason" field
+            $reason = $errorObject.error.errors[0].reason
+            Write-Host "Error Reason: $reason"
+            if ($reason -eq "quotaExceeded") {
+                Write-Host "Quota Exceeded. Set GOOGLE_QUOTA_OK to false to stop further requests." -ForegroundColor Red
+                $env:GOOGLE_QUOTA_OK = $false
+            }
+        } else {
+            Write-Host "Error downloading caption: $($_.Exception.Message)" -ForegroundColor Red
+        }
+        return $null
+    }
 }
+
 
 # Function to get authorization code from user
 function Get-AuthorizationCode {

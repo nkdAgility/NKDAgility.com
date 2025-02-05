@@ -1,0 +1,19 @@
+{{ $url := "unknown" -}}
+{{- if .Params.preview }}
+  {{- $isExternal := strings.HasPrefix .Params.preview "http" }}
+  {{- if and (.Params.videoId) (or (not .PublishDate) (ge now .PublishDate)) -}}
+    {{ $url = printf "https://i.ytimg.com/vi/%s/maxresdefault.jpg" .Params.videoId -}}
+  {{- else if $isExternal }}
+    {{ $url = .Params.preview -}}
+  {{- else }}
+    {{- $image := .Resources.GetMatch (printf "**/%s" .Params.preview) }}
+    {{- if $image }}
+      {{ $url = $image.RelPermalink -}}
+    {{- else }}
+      {{ $url = "/images/NKDAgility-technically-Background.jpg" -}}
+    {{- end }}
+  {{- end }}
+{{- else }}
+  {{ $url = "/images/NKDAgility-technically-Background.jpg" -}}
+{{- end }}
+{{- return $url -}}

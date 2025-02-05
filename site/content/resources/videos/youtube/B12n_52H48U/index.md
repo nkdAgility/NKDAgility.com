@@ -2,10 +2,15 @@
 title: How do you decide whether to pivot or stay the course? (Nokia story)
 description: "Explore the pivotal choices in product management: when to pivot, persevere, or walk away. Join us for insights and real-world examples! \U0001F680"
 date: 2023-09-13T13:59:54Z
+ResourceId: B12n_52H48U
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: B12n_52H48U
 source: internal
 url: /resources/videos/:slug
 slug: how-do-you-decide-whether-to-pivot-or-stay-the-course-nokia-story
+layout: video
 preview: https://i.ytimg.com/vi/B12n_52H48U/maxresdefault.jpg
 duration: 313
 isShort: false
@@ -15,6 +20,7 @@ aliases:
 - /resources/videos/raise,-ante-up,-or-fold-the-ultimate-decision-in-business
 - /resources/videos/B12n_52H48U
 - /resources/raise,-ante-up,-or-fold-the-ultimate-decision-in-business
+- /resources/B12n_52H48U
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -35,8 +41,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube B12n_52H48U >}}
-
 ## The Role of the Product Owner: Navigating the Agile Seas 🌊 
 
 In the ever-changing waters of Agile project management, the role of a product owner is both challenging and exhilarating.  

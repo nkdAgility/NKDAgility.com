@@ -2,10 +2,15 @@
 title: 7 harbingers of the Agile apocalypse. Judgement.
 description: "Unlock the essence of Agile! \U0001F680 Join Martin as he explores core principles, pitfalls of prescriptive methods, and what truly motivates today's workforce."
 date: 2023-10-20T11:00:13Z
+ResourceId: FdQpGx-FW-0
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: FdQpGx-FW-0
 source: internal
 url: /resources/videos/:slug
 slug: 7-harbingers-of-the-agile-apocalypse-judgement
+layout: video
 preview: https://i.ytimg.com/vi/FdQpGx-FW-0/maxresdefault.jpg
 duration: 535
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/judgement!-7-harbingers-agile-apocalypse
 - /resources/videos/FdQpGx-FW-0
 - /resources/judgement!-7-harbingers-agile-apocalypse
+- /resources/FdQpGx-FW-0
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -50,8 +56,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube FdQpGx-FW-0 >}}
-
 # Escaping the Judgment Trap in Agile Transformation 🚀
 
 Hey there, Agile adventurers! Today, I'm tackling another harrowing harbinger of the agile apocalypse: **Judgment**. This formidable foe manifests through prescriptive, one-size-fits-all methodologies that strangle creativity and innovation. It's a world where “Thou shalt do Scrum” becomes more of a commandment than a guideline, and where deviation from the prescribed path attracts criticism rather than curiosity. Let's dive into why this mindset is detrimental and how we can pivot towards a more principle-driven approach. 🌪️

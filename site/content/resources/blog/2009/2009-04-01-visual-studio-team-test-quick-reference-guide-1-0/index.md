@@ -1,6 +1,12 @@
 ---
 title: Visual Studio Team Test Quick Reference Guide 1.0
 description: Discover essential insights in the Visual Studio Team Test Quick Reference Guide 1.0, your go-to resource for troubleshooting and optimizing testing processes.
+ResourceId: FhliT2Rp-7y
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 133
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-04-01
 creator: Martin Hinshelwood
 id: "133"
@@ -10,6 +16,11 @@ slug: visual-studio-team-test-quick-reference-guide-1-0
 aliases:
 - /blog/visual-studio-team-test-quick-reference-guide-1-0
 - /visual-studio-team-test-quick-reference-guide-1-0
+- /resources/FhliT2Rp-7y
+- /resources/blog/visual-studio-team-test-quick-reference-guide-1-0
+aliasesFor404:
+- /visual-studio-team-test-quick-reference-guide-1-0
+- /blog/visual-studio-team-test-quick-reference-guide-1-0
 tags:
 - testing
 - tools

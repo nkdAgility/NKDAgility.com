@@ -1,0 +1,3 @@
+One of the reasons I love the immersive learning experience for students is the fact that they don't get indigestion. There are a lot of things that we talk about during the classes. Quite often, people talk about drinking from the fire hose. Um, but if you actually imagine a fire hose hitting somebody, they get knocked off their feet. And that's sometimes what it feels like with the amount of information in the very short space of time, um, that we have generally for the 2-day classes. 
+
+So what I love about the immersive classes is that there's less indigestion, there's more bite-sized pieces, and you get time to chew.

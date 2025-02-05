@@ -1,6 +1,12 @@
 ---
 title: Selling the benefits of Team System
 description: Master the art of selling Team System to your team and management with practical tips and strategies to ensure successful implementation and buy-in.
+ResourceId: _jpQbjqxlCl
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 410
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-04-27
 creator: Martin Hinshelwood
 id: "410"
@@ -10,6 +16,11 @@ slug: selling-the-benefits-of-team-system
 aliases:
 - /blog/selling-the-benefits-of-team-system
 - /selling-the-benefits-of-team-system
+- /resources/_jpQbjqxlCl
+- /resources/blog/selling-the-benefits-of-team-system
+aliasesFor404:
+- /selling-the-benefits-of-team-system
+- /blog/selling-the-benefits-of-team-system
 tags:
 - tfs
 

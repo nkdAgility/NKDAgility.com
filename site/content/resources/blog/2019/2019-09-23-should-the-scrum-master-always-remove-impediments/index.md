@@ -1,6 +1,12 @@
 ---
 title: Should the Scrum Master always remove impediments?
 description: Explore whether a Scrum Master should always remove impediments. Discover key insights to empower your team and enhance self-sufficiency in Scrum.
+ResourceId: xPJL0I4sjDJ
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 39856
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2019-09-23
 creator: Martin Hinshelwood
 id: "39856"
@@ -10,6 +16,13 @@ slug: should-the-scrum-master-always-remove-impediments
 aliases:
 - /blog/should-the-scrum-master-always-remove-impediments
 - /should-the-scrum-master-always-remove-impediments
+- /should-the-scrum-master-always-remove-impediments-
+- /blog/should-the-scrum-master-always-remove-impediments-
+- /resources/xPJL0I4sjDJ
+- /resources/blog/should-the-scrum-master-always-remove-impediments
+aliasesFor404:
+- /should-the-scrum-master-always-remove-impediments
+- /blog/should-the-scrum-master-always-remove-impediments
 - /should-the-scrum-master-always-remove-impediments-
 - /blog/should-the-scrum-master-always-remove-impediments-
 tags:

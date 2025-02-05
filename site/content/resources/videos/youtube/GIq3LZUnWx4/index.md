@@ -2,10 +2,15 @@
 title: What is the one thing a PSPO course forces you to focus on?
 description: Discover the key focus of the PSPO course and how it empowers product owners to drive value and customer satisfaction in Scrum environments.
 date: 2023-05-15T14:00:13Z
+ResourceId: GIq3LZUnWx4
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: GIq3LZUnWx4
 source: internal
 url: /resources/videos/:slug
 slug: what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on
+layout: video
 preview: https://i.ytimg.com/vi/GIq3LZUnWx4/maxresdefault.jpg
 duration: 116
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on-
 - /resources/videos/GIq3LZUnWx4
 - /resources/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on-
+- /resources/GIq3LZUnWx4
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -30,8 +36,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube GIq3LZUnWx4 >}}
-
 ## The Core of PSPO: Unearthing the Essence of Value
 
 Recently, I pondered a vital question, "What's the one thing that a PSPO course compels you to zone in on?"

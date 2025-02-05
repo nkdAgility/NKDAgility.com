@@ -2,10 +2,15 @@
 title: 'Mastering the Art of Product Ownership: The Power of Marketing Your Vision'
 description: Unlock product ownership success! Discover how to market your vision, engage stakeholders, and deliver value in our latest video. Subscribe for expert tips!
 date: 2023-12-15T07:00:05Z
+ResourceId: Fgla_Oox_sE
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: Fgla_Oox_sE
 source: internal
 url: /resources/videos/:slug
 slug: mastering-the-art-of-product-ownership-the-power-of-marketing-your-vision
+layout: video
 preview: https://i.ytimg.com/vi/Fgla_Oox_sE/maxresdefault.jpg
 duration: 227
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-3
 - /resources/videos/Fgla_Oox_sE
 - /resources/5-things-you-would-teach-a-productowner-apprentice-part-3
+- /resources/Fgla_Oox_sE
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,8 +51,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube Fgla_Oox_sE >}}
-
 As a Product Owner, one of the most crucial yet often overlooked aspects of your role is marketing. Yes, you read that right. You’re not just managing a product backlog or guiding a development team—you’re marketing a vision. Whether you're a new Product Owner or seasoned in the role, this skill is vital for success. You need to effectively communicate that vision to various audiences: the team building the product, the stakeholders consuming it, and the customers paying for it. Each group may have different priorities, but they all need to be aligned and engaged with your story.
 
 In this blog post, we’ll dive into how you can become an effective "Product Marketer" and how mastering this can lead to more successful Sprint Reviews, better feedback loops, and ultimately, a product that resonates with your stakeholders and customers.

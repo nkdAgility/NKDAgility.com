@@ -2,10 +2,15 @@
 title: 'Mastering Kanban: Creating a Pull-Based System for Workflow Efficiency'
 description: Unlock your team's potential with Kanban! Discover how pull-based principles enhance workflow efficiency, reduce waste, and boost productivity in this insightful video.
 date: 2024-03-05T07:00:18Z
+ResourceId: hXieCawt-XE
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: hXieCawt-XE
 source: internal
 url: /resources/videos/:slug
 slug: mastering-kanban-creating-a-pull-based-system-for-workflow-efficiency
+layout: video
 preview: https://i.ytimg.com/vi/hXieCawt-XE/maxresdefault.jpg
 duration: 599
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/work-less,-do-more-with-pull-in-kanban
 - /resources/videos/hXieCawt-XE
 - /resources/work-less,-do-more-with-pull-in-kanban
+- /resources/hXieCawt-XE
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -30,8 +36,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube hXieCawt-XE >}}
-
 When implementing a Kanban strategy, we're essentially creating a pull-based system of work. This methodology, which originated in lean manufacturing, offers teams a structured way to visualize, manage, and improve their workflow. If you're struggling with bottlenecks, work piling up, or inefficiencies in your process, Kanban might be exactly what you need.
 
 In this post, I'll dive into the three core practices of Kanban, how to define and visualize workflows effectively, and the importance of work-in-progress (WIP) limits. I’ll also share personal advice on how to overcome some common challenges teams face when implementing a Kanban strategy.

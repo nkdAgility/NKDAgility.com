@@ -1,6 +1,12 @@
 ---
 title: 'Issue [ TFS 2013 ] Value cannot be null. Parameter name: key'
 description: Discover how to resolve the 'Value cannot be null' error in TFS 2013 when customizing work item tracking. Learn essential fixes and best practices!
+ResourceId: XGBjZzEb6D0
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 10221
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2013-10-23
 creator: Martin Hinshelwood
 id: "10221"
@@ -10,6 +16,13 @@ slug: issue-tfs-2013-work-item-tracking-gives-you-value-cannot-be-null-parameter
 aliases:
 - /blog/issue-tfs-2013-work-item-tracking-gives-you-value-cannot-be-null-parameter-name-key
 - /issue-tfs-2013-work-item-tracking-gives-you-value-cannot-be-null-parameter-name-key
+- /issue-[-tfs-2013-]-value-cannot-be-null--parameter-name--key
+- /blog/issue-[-tfs-2013-]-value-cannot-be-null--parameter-name--key
+- /resources/XGBjZzEb6D0
+- /resources/blog/issue-tfs-2013-work-item-tracking-gives-you-value-cannot-be-null-parameter-name-key
+aliasesFor404:
+- /issue-tfs-2013-work-item-tracking-gives-you-value-cannot-be-null-parameter-name-key
+- /blog/issue-tfs-2013-work-item-tracking-gives-you-value-cannot-be-null-parameter-name-key
 - /issue-[-tfs-2013-]-value-cannot-be-null--parameter-name--key
 - /blog/issue-[-tfs-2013-]-value-cannot-be-null--parameter-name--key
 tags:

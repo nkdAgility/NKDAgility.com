@@ -2,10 +2,15 @@
 title: 7 Harbingers of the Agile apocalypse. Silence.
 description: "Uncover the silence in agile teams! Join Martin as he explores stakeholder engagement and communication strategies for effective Sprint reviews. \U0001F5E3️\U0001F91D"
 date: 2023-10-23T11:00:23Z
+ResourceId: YuKD3WWFJNQ
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: YuKD3WWFJNQ
 source: internal
 url: /resources/videos/:slug
 slug: 7-harbingers-of-the-agile-apocalypse-silence
+layout: video
 preview: https://i.ytimg.com/vi/YuKD3WWFJNQ/maxresdefault.jpg
 duration: 436
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/silence!-7-harbingers-agile-apocalypse-
 - /resources/videos/YuKD3WWFJNQ
 - /resources/silence!-7-harbingers-agile-apocalypse-
+- /resources/YuKD3WWFJNQ
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -50,8 +56,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube YuKD3WWFJNQ >}}
-
 # Breaking the Silence: Sparking Engagement in Agile Teams 🚀
 
 Hello, Agile champions! Today, we delve into a critical yet often overlooked herald of the agile apocalypse: **Silence**. This eerie quietude, especially prevalent during sprint reviews, signals a deeper issue within our agile transformations. It's not just about stakeholders skipping meetings or the tumbleweed moments when feedback is solicited; it's about the profound impact of silence on the effectiveness and direction of our projects. Let's explore how we can shatter this cone of silence and foster vibrant, engaged agile environments. 🌟

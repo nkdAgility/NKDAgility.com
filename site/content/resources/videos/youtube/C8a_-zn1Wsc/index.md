@@ -2,10 +2,15 @@
 title: 'Unlocking the Power of Immersive Learning in Agile: Overcoming Cognitive Bias'
 description: "Discover 5 ways immersive learning enhances your skills as a Scrum practitioner. Elevate your practice with NKD Agility's expert insights! #Scrum #Agile"
 date: 2024-02-05T07:00:03Z
+ResourceId: C8a_-zn1Wsc
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: C8a_-zn1Wsc
 source: internal
 url: /resources/videos/:slug
 slug: unlocking-the-power-of-immersive-learning-in-agile-overcoming-cognitive-bias
+layout: video
 preview: https://i.ytimg.com/vi/C8a_-zn1Wsc/maxresdefault.jpg
 duration: 48
 isShort: true
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-1
 - /resources/videos/C8a_-zn1Wsc
 - /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-1
+- /resources/C8a_-zn1Wsc
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,8 +51,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube C8a_-zn1Wsc >}}
-
 In the ever-evolving world of Agile and Scrum, one of the most valuable approaches to mastering the methodologies is immersive learning. It’s a technique that not only sharpens your understanding but also combats the cognitive biases we unknowingly harbor. As Agile practitioners, we often think we know more than we do about the framework. Immersive learning helps dismantle that illusion, forcing us to confront the reality of how much we still have to discover.
 
 In this post, we’ll explore the power of immersive learning in Agile, how it combats the Dunning-Kruger effect, and why it’s essential to keep learning by doing.

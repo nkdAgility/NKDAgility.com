@@ -1,6 +1,12 @@
 ---
 title: Can you really commit to delivering work?
 description: Explore the shift from commitment to forecasting in Scrum. Discover how this change fosters transparency and trust within your development team.
+ResourceId: uvzKTaweOnW
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 4089
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2011-11-26
 creator: Martin Hinshelwood
 id: "4089"
@@ -10,6 +16,13 @@ slug: can-you-really-commit-to-delivering-work
 aliases:
 - /blog/can-you-really-commit-to-delivering-work
 - /can-you-really-commit-to-delivering-work
+- /can-you-really-commit-to-delivering-work-
+- /blog/can-you-really-commit-to-delivering-work-
+- /resources/uvzKTaweOnW
+- /resources/blog/can-you-really-commit-to-delivering-work
+aliasesFor404:
+- /can-you-really-commit-to-delivering-work
+- /blog/can-you-really-commit-to-delivering-work
 - /can-you-really-commit-to-delivering-work-
 - /blog/can-you-really-commit-to-delivering-work-
 tags:

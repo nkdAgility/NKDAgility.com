@@ -1,6 +1,12 @@
 ---
 title: Investigation - SEO permanent redirects for old URL’s?
 description: Learn how to implement SEO-friendly permanent redirects for old URLs to maintain your Google rankings. Discover effective strategies and tools!
+ResourceId: roXmyU8SYFJ
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 74
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-12-28
 creator: Martin Hinshelwood
 id: "74"
@@ -10,6 +16,13 @@ slug: investigation-seo-permanent-redirects-for-old-urls
 aliases:
 - /blog/investigation-seo-permanent-redirects-for-old-urls
 - /investigation-seo-permanent-redirects-for-old-urls
+- /investigation---seo-permanent-redirects-for-old-url’s-
+- /blog/investigation---seo-permanent-redirects-for-old-url’s-
+- /resources/roXmyU8SYFJ
+- /resources/blog/investigation-seo-permanent-redirects-for-old-urls
+aliasesFor404:
+- /investigation-seo-permanent-redirects-for-old-urls
+- /blog/investigation-seo-permanent-redirects-for-old-urls
 - /investigation---seo-permanent-redirects-for-old-url’s-
 - /blog/investigation---seo-permanent-redirects-for-old-url’s-
 tags:

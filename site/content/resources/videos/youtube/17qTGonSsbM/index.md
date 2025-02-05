@@ -2,6 +2,10 @@
 title: 'The Importance of Evaluating Direction: Are You Heading the Right Way?'
 description: "Evaluate your project's direction! \U0001F9ED Discover how to make informed choices and adapt in a changing world. Join us for insights and guidance! \U0001F4A1"
 date: 2024-01-20T07:00:00Z
+ResourceId: 17qTGonSsbM
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: 17qTGonSsbM
 source: internal
 url: /resources/videos/:slug
@@ -14,6 +18,7 @@ aliases:
 - /resources/videos/“if-you-do-not-change-direction,-you-may-end-up-where-you-are-heading-”-–-lao-tzu
 - /resources/videos/17qTGonSsbM
 - /resources/“if-you-do-not-change-direction,-you-may-end-up-where-you-are-heading-”-–-lao-tzu
+- /resources/17qTGonSsbM
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,10 +48,9 @@ tags:
 - leadership.
 resourceTypes:
 - video
+layout: video
 
 ---
-{{< youtube 17qTGonSsbM >}}
-
 As Lao Tzu wisely said, _“If you do not change direction, you may end up where you are heading.”_ This quote resonates deeply with me, both as a professional Scrum trainer and a practitioner. Whether you're a developer writing code or an organization strategizing for the future, it's vital to continuously ask yourself: **Are we heading in the right direction?** 🛤️
 
 In this post, we’ll explore why it’s crucial to evaluate your direction regularly at different levels—individual, team, and organizational—and how you can pivot when necessary to achieve better outcomes.

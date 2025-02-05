@@ -1,6 +1,12 @@
 ---
 title: About Me
 description: Discover the journey of Martin Hinshelwood, a tech enthusiast sharing insights and experiences while striving to stand out in a world of football fame.
+ResourceId: sLyEoCihMuc
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 329
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-20
 creator: Martin Hinshelwood
 id: "329"
@@ -10,6 +16,11 @@ slug: about-me
 aliases:
 - /blog/about-me
 - /about-me
+- /resources/sLyEoCihMuc
+- /resources/blog/about-me
+aliasesFor404:
+- /about-me
+- /blog/about-me
 categories:
 - me
 preview: nakedalm-logo-128-link-1-1.png

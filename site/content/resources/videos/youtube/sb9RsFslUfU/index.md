@@ -2,10 +2,15 @@
 title: How did you know you were ready to transition from DevOps practitioner to DevOps Consultant?
 description: Discover Martin Hinshelwood's journey from DevOps practitioner to consultant, exploring mastery through empowering others in this insightful video.
 date: 2023-05-04T07:00:19Z
+ResourceId: sb9RsFslUfU
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: sb9RsFslUfU
 source: internal
 url: /resources/videos/:slug
 slug: how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant
+layout: video
 preview: https://i.ytimg.com/vi/sb9RsFslUfU/maxresdefault.jpg
 duration: 186
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant-
 - /resources/videos/sb9RsFslUfU
 - /resources/how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant-
+- /resources/sb9RsFslUfU
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -28,8 +34,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube sb9RsFslUfU >}}
-
 ## From Practitioner to Consultant
 
 When asked how I knew I was poised for the leap from DevOps practitioner to consultant, my initial instinct and honest answer was that I didn't have a definitive 'Aha!' moment.

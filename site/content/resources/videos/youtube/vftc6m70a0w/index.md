@@ -2,14 +2,20 @@
 title: 7 Virtues of agile. Chastity
 description: Unlock Agile success! Discover the virtue of Chastity in our latest video and learn how thoughtful planning transforms your approach to business agility.
 date: 2023-12-04T08:39:06Z
+ResourceId: vftc6m70a0w
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: vftc6m70a0w
 url: /resources/videos/:slug
 slug: 7-virtues-of-agile-chastity
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=vftc6m70a0w
 aliases:
 - /resources/videos/vftc6m70a0w
 - /resources/videos/7-virtues-of-agile-chastity
 - /resources/7-virtues-of-agile-chastity
+- /resources/vftc6m70a0w
 preview: https://i.ytimg.com/vi/vftc6m70a0w/maxresdefault.jpg
 duration: 142
 isShort: false
@@ -41,9 +47,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube vftc6m70a0w >}} 
  🚀 Unlock the Secrets of Agile Success with "The Seven Virtues of Agility: Embracing Chastity in Business"!
 
 🌟 Are you ready to revolutionize your approach to Agile? Dive into our latest video where we unravel the seldom-discussed virtue of Chastity in the Agile framework. Discover why slowing down and thoughtful planning are crucial for real Agile success.

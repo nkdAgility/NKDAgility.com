@@ -2,10 +2,15 @@
 title: "Quotes: You can't connect the dots looking forward; you can only connect them looking backwards. Steve Jobs"
 description: "Explore Steve Jobs' insight on connecting the dots in product development with Martin Hinshelwood. Discover the power of agile with Naked Agility! #shorts"
 date: 2023-10-13T11:00:40Z
+ResourceId: hj31XHbmWbA
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: hj31XHbmWbA
 source: internal
 url: /resources/videos/:slug
 slug: quotes-you-can-t-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs
+layout: video
 preview: https://i.ytimg.com/vi/hj31XHbmWbA/maxresdefault.jpg
 duration: 46
 isShort: true
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/quotes-you-can't-connect-the-dots-looking-forward;-you-can-only-connect-them-looking-backwards
 - /resources/videos/hj31XHbmWbA
 - /resources/quotes-you-can't-connect-the-dots-looking-forward;-you-can-only-connect-them-looking-backwards
+- /resources/hj31XHbmWbA
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -47,8 +53,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube hj31XHbmWbA >}}
-
 **Steve Jobs and the Art of Connecting Dots in Agile Environments** 
 
 In the dynamic realm of Agile practices, Steve Jobs' profound assertion, "You can't connect the dots looking forward; you can only connect them looking backwards," resonates deeply. This philosophy underscores the importance of reflective learning in Agile methodologies.  

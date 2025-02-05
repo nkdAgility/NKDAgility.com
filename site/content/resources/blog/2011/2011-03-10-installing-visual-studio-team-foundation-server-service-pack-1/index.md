@@ -1,6 +1,12 @@
 ---
 title: Installing Visual Studio Team Foundation Server Service Pack 1
 description: Learn how to install Visual Studio Team Foundation Server Service Pack 1 smoothly, troubleshoot common issues, and enhance your development environment.
+ResourceId: LpdTshxayAB
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 8
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2011-03-10
 creator: Martin Hinshelwood
 id: "8"
@@ -10,6 +16,11 @@ slug: installing-visual-studio-team-foundation-server-service-pack-1
 aliases:
 - /blog/installing-visual-studio-team-foundation-server-service-pack-1
 - /installing-visual-studio-team-foundation-server-service-pack-1
+- /resources/LpdTshxayAB
+- /resources/blog/installing-visual-studio-team-foundation-server-service-pack-1
+aliasesFor404:
+- /installing-visual-studio-team-foundation-server-service-pack-1
+- /blog/installing-visual-studio-team-foundation-server-service-pack-1
 tags:
 - nwcadence
 - tfs

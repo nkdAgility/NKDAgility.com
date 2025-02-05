@@ -2,10 +2,15 @@
 title: 'The Evolution of My Journey with Azure DevOps: Lessons and Insights'
 description: Explore Azure DevOps through the eyes of a seasoned consultant. Gain insights on migration, tools, and real-world applications to enhance your team's productivity!
 date: 2024-07-31T09:21:03Z
+ResourceId: isU2kPc5HFw
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: isU2kPc5HFw
 source: internal
 url: /resources/videos/:slug
 slug: the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
+layout: video
 preview: https://i.ytimg.com/vi/isU2kPc5HFw/maxresdefault.jpg
 duration: 998
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/talk-us-through-your-experience-with-azure-devops
 - /resources/videos/isU2kPc5HFw
 - /resources/talk-us-through-your-experience-with-azure-devops
+- /resources/isU2kPc5HFw
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -27,8 +33,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube isU2kPc5HFw >}}
-
 When I first encountered Azure DevOps back in 2006, it wasn't even called Azure DevOps. Back then, it was known as Visual Studio Team Services (VSTS), and before that, Team Foundation Server (TFS). Over the years, the name has changed several times, but the core intent has remained consistent: empowering teams to enhance their capabilities through powerful tools. In this blog post, I want to take you through my journey with Azure DevOps, from my early days as a software engineer to becoming a Microsoft MVP and a DevOps consultant. I'll share personal experiences, lessons learned, and practical advice on leveraging Azure DevOps to its full potential.
 
 ## **Early Experience with Team Foundation Server (TFS)**

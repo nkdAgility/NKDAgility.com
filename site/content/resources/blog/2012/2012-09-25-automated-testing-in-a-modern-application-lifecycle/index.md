@@ -1,6 +1,12 @@
 ---
 title: Automated Testing in a modern application lifecycle
 description: Discover the essential role of automated testing in modern application lifecycles. Learn how to enhance software quality and streamline your development process.
+ResourceId: IOUOjgnp-hB
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 8868
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2012-09-25
 creator: Martin Hinshelwood
 id: "8868"
@@ -11,6 +17,11 @@ aliases:
 - /blog/automated-testing-in-a-modern-application-lifecycle
 - /automated-testing-in-a-modern-application-lifecycle/
 - /automated-testing-in-a-modern-application-lifecycle
+- /resources/IOUOjgnp-hB
+- /resources/blog/automated-testing-in-a-modern-application-lifecycle
+aliasesFor404:
+- /automated-testing-in-a-modern-application-lifecycle
+- /blog/automated-testing-in-a-modern-application-lifecycle
 tags:
 - agile
 - automated-testing

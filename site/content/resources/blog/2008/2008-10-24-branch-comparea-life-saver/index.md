@@ -1,6 +1,12 @@
 ---
 title: Branch Compare…A Life saver
 description: Discover a powerful tool for comparing branches that can simplify your development process. Learn how it can save you time and effort in your projects!
+ResourceId: x-pH6Gc3gyt
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 181
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-10-24
 creator: Martin Hinshelwood
 id: "181"
@@ -10,6 +16,13 @@ slug: branch-comparea-life-saver
 aliases:
 - /blog/branch-comparea-life-saver
 - /branch-comparea-life-saver
+- /branch-compare…a-life-saver
+- /blog/branch-compare…a-life-saver
+- /resources/x-pH6Gc3gyt
+- /resources/blog/branch-comparea-life-saver
+aliasesFor404:
+- /branch-comparea-life-saver
+- /blog/branch-comparea-life-saver
 - /branch-compare…a-life-saver
 - /blog/branch-compare…a-life-saver
 tags:

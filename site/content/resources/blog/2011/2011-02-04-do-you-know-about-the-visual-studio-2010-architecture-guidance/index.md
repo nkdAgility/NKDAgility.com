@@ -1,6 +1,12 @@
 ---
 title: Do you know about the Visual Studio 2010 Architecture Guidance?
 description: Discover the Visual Studio 2010 Architecture Guidance! Enhance your development skills with practical tips, hands-on labs, and easy access to essential tools.
+ResourceId: _88PkXdkKu8
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 16
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2011-02-04
 creator: Martin Hinshelwood
 id: "16"
@@ -10,6 +16,13 @@ slug: do-you-know-about-the-visual-studio-2010-architecture-guidance
 aliases:
 - /blog/do-you-know-about-the-visual-studio-2010-architecture-guidance
 - /do-you-know-about-the-visual-studio-2010-architecture-guidance
+- /do-you-know-about-the-visual-studio-2010-architecture-guidance-
+- /blog/do-you-know-about-the-visual-studio-2010-architecture-guidance-
+- /resources/_88PkXdkKu8
+- /resources/blog/do-you-know-about-the-visual-studio-2010-architecture-guidance
+aliasesFor404:
+- /do-you-know-about-the-visual-studio-2010-architecture-guidance
+- /blog/do-you-know-about-the-visual-studio-2010-architecture-guidance
 - /do-you-know-about-the-visual-studio-2010-architecture-guidance-
 - /blog/do-you-know-about-the-visual-studio-2010-architecture-guidance-
 tags:

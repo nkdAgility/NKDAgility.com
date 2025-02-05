@@ -1,6 +1,12 @@
 ---
 title: Live Framework
 description: Explore the potential of Azure for WPF development with Live Framework. Discover how to enhance collaboration and streamline app configuration effortlessly!
+ResourceId: Z0HJqKyl85C
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 156
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-12-04
 creator: Martin Hinshelwood
 id: "156"
@@ -10,6 +16,11 @@ slug: live-framework
 aliases:
 - /blog/live-framework
 - /live-framework
+- /resources/Z0HJqKyl85C
+- /resources/blog/live-framework
+aliasesFor404:
+- /live-framework
+- /blog/live-framework
 tags:
 - azure
 - tools

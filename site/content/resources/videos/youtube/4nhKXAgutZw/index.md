@@ -2,6 +2,10 @@
 title: 'The Power of Kindness in Agile: A Core Virtue for Success'
 description: "Discover how kindness transforms Agile! Explore empathy's role in boosting customer satisfaction and employee engagement for organisational success. \U0001F31F"
 date: 2023-12-11T07:00:01Z
+ResourceId: 4nhKXAgutZw
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: 4nhKXAgutZw
 source: internal
 url: /resources/videos/:slug
@@ -14,6 +18,7 @@ aliases:
 - /resources/videos/7-virtues-of-agile-kindness
 - /resources/videos/4nhKXAgutZw
 - /resources/7-virtues-of-agile-kindness
+- /resources/4nhKXAgutZw
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,10 +48,9 @@ tags:
 - leadership.
 resourceTypes:
 - video
+layout: video
 
 ---
-{{< youtube 4nhKXAgutZw >}}
-
 When we talk about **kindness** in Agile, we're referring to something deeper than just being nice. Kindness can take many forms—**compassion, benevolence, empathy**—and it can be directed toward different parts of our organization. It’s about how we treat our customers, our teams, and even ourselves in the way we work. Agile isn't just about delivering software; it's about creating environments where people can thrive, feel valued, and succeed together.
 
 In this post, we’ll explore kindness as one of the **Seven Virtues of Agility** and why it's essential for both **customer focus** and **team collaboration**.

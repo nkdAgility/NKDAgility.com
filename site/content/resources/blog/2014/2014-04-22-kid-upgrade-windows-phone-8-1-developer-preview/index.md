@@ -1,6 +1,12 @@
 ---
 title: Be a kid again and upgrade to Windows Phone 8.1 Developer Preview
 description: Rediscover the joy of technology with the Windows Phone 8.1 Developer Preview. Upgrade now for exciting features and a fresh experience!
+ResourceId: CDwU__r19XS
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 10515
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2014-04-22
 creator: Martin Hinshelwood
 id: "10515"
@@ -10,6 +16,13 @@ slug: kid-upgrade-windows-phone-8-1-developer-preview
 aliases:
 - /blog/kid-upgrade-windows-phone-8-1-developer-preview
 - /kid-upgrade-windows-phone-8-1-developer-preview
+- /be-a-kid-again-and-upgrade-to-windows-phone-8-1-developer-preview
+- /blog/be-a-kid-again-and-upgrade-to-windows-phone-8-1-developer-preview
+- /resources/CDwU__r19XS
+- /resources/blog/kid-upgrade-windows-phone-8-1-developer-preview
+aliasesFor404:
+- /kid-upgrade-windows-phone-8-1-developer-preview
+- /blog/kid-upgrade-windows-phone-8-1-developer-preview
 - /be-a-kid-again-and-upgrade-to-windows-phone-8-1-developer-preview
 - /blog/be-a-kid-again-and-upgrade-to-windows-phone-8-1-developer-preview
 tags:

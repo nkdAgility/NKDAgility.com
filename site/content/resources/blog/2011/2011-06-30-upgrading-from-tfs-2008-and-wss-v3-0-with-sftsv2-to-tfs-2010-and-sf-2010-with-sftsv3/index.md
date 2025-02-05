@@ -1,6 +1,12 @@
 ---
 title: Upgrading from TFS 2008 and WSS v3.0 with SfTSv2 to TFS 2010 and SF 2010 with SfTSv3
 description: Upgrade your TFS 2008 and WSS v3.0 to TFS 2010 and SF 2010 with our detailed guide. Streamline your process and enhance your team's productivity today!
+ResourceId: KlJGJX3qXCS
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 3279
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2011-06-30
 creator: Martin Hinshelwood
 id: "3279"
@@ -10,6 +16,11 @@ slug: upgrading-from-tfs-2008-and-wss-v3-0-with-sftsv2-to-tfs-2010-and-sf-2010-w
 aliases:
 - /blog/upgrading-from-tfs-2008-and-wss-v3-0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3
 - /upgrading-from-tfs-2008-and-wss-v3-0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3
+- /resources/KlJGJX3qXCS
+- /resources/blog/upgrading-from-tfs-2008-and-wss-v3-0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3
+aliasesFor404:
+- /upgrading-from-tfs-2008-and-wss-v3-0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3
+- /blog/upgrading-from-tfs-2008-and-wss-v3-0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3
 tags:
 - agile
 - code

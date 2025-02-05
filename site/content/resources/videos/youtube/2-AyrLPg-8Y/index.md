@@ -2,6 +2,10 @@
 title: Why is training such a critical element in a manager or leader journey?
 description: 'Discover why training is essential for managers transitioning to agile leadership. Join Martin in this insightful short! Watch now: https://youtu.be/W3cyrYFXDfg'
 date: 2023-11-29T11:00:03Z
+ResourceId: 2-AyrLPg-8Y
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: 2-AyrLPg-8Y
 url: /resources/videos/:slug
 slug: why-is-training-such-a-critical-element-in-a-manager-or-leader-journey-
@@ -10,6 +14,7 @@ aliases:
 - /resources/videos/2-AyrLPg-8Y
 - /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leader-journey-
 - /resources/why-is-training-such-a-critical-element-in-a-manager-or-leader-journey-
+- /resources/2-AyrLPg-8Y
 preview: https://i.ytimg.com/vi/2-AyrLPg-8Y/maxresdefault.jpg
 duration: 17
 isShort: true
@@ -41,9 +46,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+layout: video
+resourceTypes:
+- video
 
 ---
-{{< youtube 2-AyrLPg-8Y >}} 
  #shorts #shortsvideo #shortvideo Transitioning from a #projectmanager or traditional #manager to an #agileleader can be super tricky, especially if you have never received training. In this short excerpt, Martin explains why #agileleadership training is critical. Watch the full video here: https://youtu.be/W3cyrYFXDfg
 
 About NKD Agility

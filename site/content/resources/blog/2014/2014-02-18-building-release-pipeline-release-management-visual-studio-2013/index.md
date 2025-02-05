@@ -1,6 +1,12 @@
 ---
 title: Building a release pipeline with Release Management with Visual Studio 2013
 description: Learn to build a scalable release pipeline with Visual Studio 2013's integrated release management. Enhance your DevOps practices for continuous delivery success!
+ResourceId: Q7mjPfg5d4Q
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 10372
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2014-02-18
 creator: Martin Hinshelwood
 id: "10372"
@@ -10,6 +16,13 @@ slug: building-release-pipeline-release-management-visual-studio-2013
 aliases:
 - /blog/building-release-pipeline-release-management-visual-studio-2013
 - /building-release-pipeline-release-management-visual-studio-2013
+- /building-a-release-pipeline-with-release-management-with-visual-studio-2013
+- /blog/building-a-release-pipeline-with-release-management-with-visual-studio-2013
+- /resources/Q7mjPfg5d4Q
+- /resources/blog/building-release-pipeline-release-management-visual-studio-2013
+aliasesFor404:
+- /building-release-pipeline-release-management-visual-studio-2013
+- /blog/building-release-pipeline-release-management-visual-studio-2013
 - /building-a-release-pipeline-with-release-management-with-visual-studio-2013
 - /blog/building-a-release-pipeline-with-release-management-with-visual-studio-2013
 tags:

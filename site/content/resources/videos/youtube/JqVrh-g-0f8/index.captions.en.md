@@ -1,0 +1,3 @@
+Uh, poor product backlog is probably unordered. Probably the stuff that's important is not at the top. Probably the team doesn't understand what all the things are in the product backlog, and the stakeholders don't understand it either. 
+
+What's a better idea? A good product backlog looks like a well-understood, ordered list that everybody can get behind. Everybody understands what's in there. Everybody understands what they need to do to get the things that are in there and how they can help and how it contributes towards the overall organisational goals.

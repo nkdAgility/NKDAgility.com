@@ -1,6 +1,12 @@
 ---
 title: Introduction to Visual Studio 11
 description: Explore the features of Visual Studio 11 and TFS Preview with insights, demos, and tips from Martin Hinshelwood. Stay updated on modern development tools!
+ResourceId: jo0zeQr1paY
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 4393
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2012-02-17
 creator: Martin Hinshelwood
 id: "4393"
@@ -10,6 +16,11 @@ slug: introduction-to-visual-studio-11
 aliases:
 - /blog/introduction-to-visual-studio-11
 - /introduction-to-visual-studio-11
+- /resources/jo0zeQr1paY
+- /resources/blog/introduction-to-visual-studio-11
+aliasesFor404:
+- /introduction-to-visual-studio-11
+- /blog/introduction-to-visual-studio-11
 tags:
 - configuration
 - develop

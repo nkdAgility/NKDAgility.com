@@ -1,6 +1,12 @@
 ---
 title: Maven release perform tries to do a Get to a workspace sub folder in TFS
 description: Discover how to resolve Maven release issues with TFS when switching from SVN. Learn best practices for a smoother build and release process.
+ResourceId: yXZtGRWsXfS
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 10620
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2014-07-23
 creator: Martin Hinshelwood
 id: "10620"
@@ -10,6 +16,13 @@ slug: maven-release-perform-tries-get-workspace-sub-folder-tfs
 aliases:
 - /blog/maven-release-perform-tries-get-workspace-sub-folder-tfs
 - /maven-release-perform-tries-get-workspace-sub-folder-tfs
+- /maven-release-perform-tries-to-do-a-get-to-a-workspace-sub-folder-in-tfs
+- /blog/maven-release-perform-tries-to-do-a-get-to-a-workspace-sub-folder-in-tfs
+- /resources/yXZtGRWsXfS
+- /resources/blog/maven-release-perform-tries-get-workspace-sub-folder-tfs
+aliasesFor404:
+- /maven-release-perform-tries-get-workspace-sub-folder-tfs
+- /blog/maven-release-perform-tries-get-workspace-sub-folder-tfs
 - /maven-release-perform-tries-to-do-a-get-to-a-workspace-sub-folder-in-tfs
 - /blog/maven-release-perform-tries-to-do-a-get-to-a-workspace-sub-folder-in-tfs
 tags:

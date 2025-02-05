@@ -1,6 +1,12 @@
 ---
 title: Windows 7 Beta is Live!
 description: Discover the Windows 7 Beta release! Download now and explore its stability and improvements over Vista. Limited licenses available—act fast!
+ResourceId: KpwfCU1oWjz
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 149
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-01-08
 creator: Martin Hinshelwood
 id: "149"
@@ -10,6 +16,13 @@ slug: windows-7-beta-is-live
 aliases:
 - /blog/windows-7-beta-is-live
 - /windows-7-beta-is-live
+- /windows-7-beta-is-live-
+- /blog/windows-7-beta-is-live-
+- /resources/KpwfCU1oWjz
+- /resources/blog/windows-7-beta-is-live
+aliasesFor404:
+- /windows-7-beta-is-live
+- /blog/windows-7-beta-is-live
 - /windows-7-beta-is-live-
 - /blog/windows-7-beta-is-live-
 tags:

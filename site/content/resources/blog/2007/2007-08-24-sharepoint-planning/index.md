@@ -1,6 +1,12 @@
 ---
 title: Sharepoint planning
 description: Discover effective SharePoint deployment strategies for large organizations. Learn about its powerful architecture and MySites features to enhance collaboration.
+ResourceId: NWq41MdV9s6
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 320
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-24
 creator: Martin Hinshelwood
 id: "320"
@@ -10,6 +16,11 @@ slug: sharepoint-planning
 aliases:
 - /blog/sharepoint-planning
 - /sharepoint-planning
+- /resources/NWq41MdV9s6
+- /resources/blog/sharepoint-planning
+aliasesFor404:
+- /sharepoint-planning
+- /blog/sharepoint-planning
 tags:
 - moss2007
 preview: nakedalm-logo-128-link-1-1.png

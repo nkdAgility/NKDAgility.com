@@ -2,14 +2,20 @@
 title: Is a scrum master an agile project manager?
 description: 'Discover the difference between a Scrum Master and an Agile Project Manager in this insightful video by Martin Hinshelwood. #Agile #Scrum #Shorts'
 date: 2023-05-24T07:00:23Z
+ResourceId: QpK99s9uheM
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: QpK99s9uheM
 url: /resources/videos/:slug
 slug: is-a-scrum-master-an-agile-project-manager-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=QpK99s9uheM
 aliases:
 - /resources/videos/QpK99s9uheM
 - /resources/videos/is-a-scrum-master-an-agile-project-manager-
 - /resources/is-a-scrum-master-an-agile-project-manager-
+- /resources/QpK99s9uheM
 preview: https://i.ytimg.com/vi/QpK99s9uheM/maxresdefault.jpg
 duration: 48
 isShort: true
@@ -25,9 +31,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube QpK99s9uheM >}} 
  #shorts #shortsvideo #agile doesn't have a #projectmanager role and neither does #scrum. Sometimes, people think a #scrummaster is an #agileprojectmanager but they aren't. They perform a completely different role. Martin Hinshelwood explains.
 
 About NKD Agility

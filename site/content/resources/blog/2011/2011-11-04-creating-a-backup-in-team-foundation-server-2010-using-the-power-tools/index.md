@@ -1,6 +1,12 @@
 ---
 title: Creating a backup in Team Foundation Server 2010 using the Power Tools
 description: Learn how to effectively back up Team Foundation Server 2010 using Power Tools. Discover essential tips and troubleshooting for a smooth backup process.
+ResourceId: 9fVxqpOPzX8
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 4025
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2011-11-04
 creator: Martin Hinshelwood
 id: "4025"
@@ -10,6 +16,11 @@ slug: creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
 aliases:
 - /blog/creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
 - /creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
+- /resources/9fVxqpOPzX8
+- /resources/blog/creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
+aliasesFor404:
+- /creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
+- /blog/creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
 tags:
 - nwcadence
 - tf254027

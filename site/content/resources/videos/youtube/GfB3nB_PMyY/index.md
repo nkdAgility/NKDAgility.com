@@ -2,10 +2,15 @@
 title: 'The Power of Immersive Learning: Bridging Theory and Experience'
 description: Discover how immersive learning enhances your skills as a Scrum practitioner in this insightful video. Elevate your Agile journey with NKD Agility!
 date: 2024-02-09T07:00:06Z
+ResourceId: GfB3nB_PMyY
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: GfB3nB_PMyY
 source: internal
 url: /resources/videos/:slug
 slug: the-power-of-immersive-learning-bridging-theory-and-experience
+layout: video
 preview: https://i.ytimg.com/vi/GfB3nB_PMyY/maxresdefault.jpg
 duration: 50
 isShort: true
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-5
 - /resources/videos/GfB3nB_PMyY
 - /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-5
+- /resources/GfB3nB_PMyY
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,8 +51,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube GfB3nB_PMyY >}}
-
 In the world of Agile and Scrum, training is essential for teams to stay effective and efficient. However, traditional training methods can often feel disconnected from real-world application. This is where immersive learning comes in, offering a holistic approach that integrates not only theory but also practical, hands-on experience.
 
 In this blog post, we'll explore the power of immersive learning, the advantages it brings, and why it is a game-changer for Scrum Masters, Agile Coaches, and teams alike.

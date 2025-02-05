@@ -2,6 +2,10 @@
 title: Does a client tell an agile consultant what they need or does it work the other way around?
 description: Discover whether clients guide agile consultants or vice versa. Martin Hinshelwood shares insights on navigating agile transitions effectively.
 date: 2023-03-01T07:00:00Z
+ResourceId: -Mz9cH0uiTQ
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: -Mz9cH0uiTQ
 url: /resources/videos/:slug
 slug: does-a-client-tell-an-agile-consultant-what-they-need-or-does-it-work-the-other-way-around-
@@ -10,6 +14,7 @@ aliases:
 - /resources/videos/-Mz9cH0uiTQ
 - /resources/videos/does-a-client-tell-an-agile-consultant-what-they-need-or-does-it-work-the-other-way-around-
 - /resources/does-a-client-tell-an-agile-consultant-what-they-need-or-does-it-work-the-other-way-around-
+- /resources/-Mz9cH0uiTQ
 preview: https://i.ytimg.com/vi/-Mz9cH0uiTQ/maxresdefault.jpg
 duration: 351
 isShort: false
@@ -23,9 +28,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+layout: video
+resourceTypes:
+- video
 
 ---
-{{< youtube -Mz9cH0uiTQ >}} 
  Making the transition from #projectmanagement to #agile #productdevelopment can be intimidating. You don't know where to start, you aren't sure of what the top priorities are, and you may not even be 100% clear about what problems you are trying to solve.
 
 So, how do you move forward when it feels like you are in quicksand? Do you need to figure it all out before contracting an #agileconsultant or is that something that an #agileconsultant helps you identify and define?

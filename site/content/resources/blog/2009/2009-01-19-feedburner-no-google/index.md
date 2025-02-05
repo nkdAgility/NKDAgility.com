@@ -1,6 +1,12 @@
 ---
 title: Feedburner, no Google…
 description: Explore the transition from Feedburner to Google and learn how to update your feed URLs for better performance and accuracy. Get insights and tips here!
+ResourceId: W90U2-3Up25
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 144
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-01-19
 creator: Martin Hinshelwood
 id: "144"
@@ -12,6 +18,17 @@ aliases:
 - /feedburner-no-google
 - /feedburner,-no-google…
 - /blog/feedburner,-no-google…
+- /resources/W90U2-3Up25
+- /feedburner--no-google…
+- /blog/feedburner--no-google…
+- /resources/blog/feedburner-no-google
+aliasesFor404:
+- /feedburner-no-google
+- /blog/feedburner-no-google
+- /feedburner,-no-google…
+- /blog/feedburner,-no-google…
+- /feedburner--no-google…
+- /blog/feedburner--no-google…
 categories:
 - me
 preview: nakedalm-logo-128-link-2-2.png

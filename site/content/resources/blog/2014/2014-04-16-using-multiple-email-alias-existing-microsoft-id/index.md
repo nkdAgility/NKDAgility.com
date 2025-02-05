@@ -1,6 +1,12 @@
 ---
 title: Using multiple email alias with your existing Microsoft ID
 description: Learn how to manage multiple email aliases with your Microsoft ID, simplifying your online experience and keeping your accounts organized. Discover more!
+ResourceId: 3drabM1j0WE
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 10496
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2014-04-16
 creator: Martin Hinshelwood
 id: "10496"
@@ -10,6 +16,13 @@ slug: using-multiple-email-alias-existing-microsoft-id
 aliases:
 - /blog/using-multiple-email-alias-existing-microsoft-id
 - /using-multiple-email-alias-existing-microsoft-id
+- /using-multiple-email-alias-with-your-existing-microsoft-id
+- /blog/using-multiple-email-alias-with-your-existing-microsoft-id
+- /resources/3drabM1j0WE
+- /resources/blog/using-multiple-email-alias-existing-microsoft-id
+aliasesFor404:
+- /using-multiple-email-alias-existing-microsoft-id
+- /blog/using-multiple-email-alias-existing-microsoft-id
 - /using-multiple-email-alias-with-your-existing-microsoft-id
 - /blog/using-multiple-email-alias-with-your-existing-microsoft-id
 tags:

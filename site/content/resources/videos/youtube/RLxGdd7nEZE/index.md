@@ -2,10 +2,15 @@
 title: What is the Single Most Valuable Outcome a Consulting Engagement Can Produce?
 description: 'Discover the key outcome of a consulting engagement with Martin Hinshelwood. Learn how to achieve clarity and focus in your #agile journey!'
 date: 2023-06-20T07:00:10Z
+ResourceId: RLxGdd7nEZE
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: RLxGdd7nEZE
 source: internal
 url: /resources/videos/:slug
 slug: what-is-the-single-most-valuable-outcome-a-consulting-engagement-can-produce
+layout: video
 preview: https://i.ytimg.com/vi/RLxGdd7nEZE/maxresdefault.jpg
 duration: 134
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/what-is-the-single-most-valuable-outcome-a-consulting-engagement-can-produce-
 - /resources/videos/RLxGdd7nEZE
 - /resources/what-is-the-single-most-valuable-outcome-a-consulting-engagement-can-produce-
+- /resources/RLxGdd7nEZE
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -25,8 +31,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube RLxGdd7nEZE >}}
-
 ## Exploring the Apex of Consulting Engagements: Unlocking Systemic Change
 
 In my recent ponderings, I found myself entrenched in an intricate query. At first glance, this question seems almost elusive: "What is the single most valuable outcome that a consulting engagement can produce?"

@@ -2,14 +2,20 @@
 title: How does the lack of basic skills among Scrum Masters impact teams and organizations
 description: Discover how competent Scrum Masters drive team success by bridging theory and practice, enhancing productivity, and delivering real business results.
 date: 2024-10-21T05:32:11Z
+ResourceId: r9aCEFpUHWU
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: r9aCEFpUHWU
 url: /resources/videos/:slug
 slug: how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=r9aCEFpUHWU
 aliases:
 - /resources/videos/r9aCEFpUHWU
 - /resources/videos/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
 - /resources/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
+- /resources/r9aCEFpUHWU
 preview: https://i.ytimg.com/vi/r9aCEFpUHWU/maxresdefault.jpg
 duration: 466
 isShort: false
@@ -30,9 +36,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube r9aCEFpUHWU >}} 
  The Importance of Competent Scrum Masters in Driving Team Success
 
 Un this video, we’re diving into why Scrum Master competence is critical for team and organizational success. Scrum Masters who lack a deep understanding of both agile practices and the daily work of their teams often fail to deliver meaningful improvements. If a Scrum Master doesn’t understand the environment they’re coaching in—whether it's engineering or another domain—how can they effectively help the team? In this video, I break down why knowing the theory isn’t enough; practical competence is key.

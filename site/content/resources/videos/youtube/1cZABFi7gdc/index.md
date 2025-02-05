@@ -2,6 +2,10 @@
 title: 'Hiring the Right Agile Coach: What You Need to Know'
 description: 'Discover key insights from Martin Hinshelwood on hiring an #agilecoach in part 4 of our series. Make informed decisions for your #agile journey!'
 date: 2023-11-23T11:00:01Z
+ResourceId: 1cZABFi7gdc
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: 1cZABFi7gdc
 source: internal
 url: /resources/videos/:slug
@@ -14,6 +18,7 @@ aliases:
 - /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-4
 - /resources/videos/1cZABFi7gdc
 - /resources/5-things-to-consider-before-hiring-an-agilecoach-part-4
+- /resources/1cZABFi7gdc
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,10 +48,9 @@ tags:
 - leadership.
 resourceTypes:
 - video
+layout: video
 
 ---
-{{< youtube 1cZABFi7gdc >}}
-
 Finding the right Agile coach can make or break your organization's journey toward greater agility. While the Agile landscape is filled with talented coaches, not all will suit your organization’s unique needs. Whether you're a small startup looking to scale or a large enterprise seeking to enhance its agility, finding the right coach is essential.
 
 In this blog post, I will walk you through some key factors to consider when hiring an Agile coach. We’ll cover how to evaluate their experience, their track record, and how well they align with your context and organizational scale. I’ll also provide some personal insights and advice on what to look for in your search for the perfect coach.

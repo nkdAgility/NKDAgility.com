@@ -1,0 +1,23 @@
+Okay, so the question is why did I embrace Agile over traditional project management practices when I was a developer? I don't think I did while I was a developer. I think the reason I picked Agile and Agile practices was because, as a developer, I was always subjected to the traditional project management practices. 
+
+I'd worked at Merrill Lynch, I worked for a number of design agencies, and I worked for a generator manufacturer and rental company. In all of those cases, they approached the projects in quite a similar fashion. Probably the most progressive was the generator company, which is weird, but it's because the boss was awesome. 
+
+That damaged me, I think. I definitely felt like these people didn't know what they were talking about, didn't understand what we were actually doing. It didn't feel like they even gave a crap. And then, as I started to do more DevOps, I started to migrate from development into the DevOps space. So not even the Agile space; it's the other side of agility from the technical side. 
+
+I started to get more engaged in the idea that, yeah, DevOps is great, but a lot of DevOps is about tools. I know people might dispute that, but a lot of DevOps is about tools, and a lot of DevOps in the real world is about tools. I started to realise more and more that it's not the tools that solve the problem; it's the people that solve the problem. And it's not the tools that are the problem; it's often the people that are the problem, right? 
+
+Because time and time again, I was using—I did a lot of migrations to Azure DevOps for customers, so moving them from whatever they were doing before to Azure DevOps. They wanted to do the same stupid stuff that they did with their old tool with Azure DevOps, and I had to try and explain to them that the reason this tool is actually a problem is not because the tool is a problem; it's because of the way you're using the tool. 
+
+A lot of them did it deliberately, right? They're like, "Yeah, we've totally messed up this tool, and we really want a clean slate to go into this new thing." And then we don't have all the baggage. And I'm like, "Yeah, but you're bringing this baggage in, that baggage in, this other baggage." And that's where you start talking to people. You start convincing people to start thinking about working in different ways, to simplify their process, to reduce levels of bureaucracy, custom fields, and rules. Oh my goodness me! 
+
+If anybody's used Jira as your DevOps of old, custom fields and rules are the bane of your life. And trying to go back to defaults, right? Do you actually need that thing? Does it actually add value? Does it bring you joy? You know, only have those fields, those rules that you absolutely have to have to do business, and you don't really want anything else. 
+
+So my move was through that technical, going into the high-level technical, and then kind of sideways into agility. I actually went to Australia to do the PSD beta for the old PSD class from Richard Hunt Housing, and that was where I got introduced to Scrum. Because in order to be a PSD trainer, I had to take a Scrum class. 
+
+I just totally, totally made sense, right? It just made sense. It fit the ideas, solved the problems that I was—or enabled the problems to be solved that I'd been looking at my entire software engineering career. I wanted to help other people do those things better because I saw in all the customers that I'd had that this would start to solve their problems too. 
+
+But I still came in for the next probably five years with a DevOps focus. But as soon as you come in, remember you come in with one focus because the customer says, "We need some DevOps help." And then you're like, "Okay, you say you need some DevOps help, but actually, you need to fix this problem over here, which is about people in organisation and bureaucracy and how you organise your business in order to maximise the value they create." 
+
+The engineers can take care of this DevOps stuff over here. You get smart people, right? They're just constrained and aren't able to actually do things. I think that freeing nature of agility is what kind of drew me to it. 
+
+Thanks for watching the video! If you enjoyed it, please like, follow, and subscribe. I always reply to comments, and if you want to have a chat about this or anything else Agile, Scrum, or DevOps, then please book a coffee with me through Naked Agility.

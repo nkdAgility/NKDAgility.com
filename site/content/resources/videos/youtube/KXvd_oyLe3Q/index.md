@@ -2,10 +2,15 @@
 title: 'The Crucible of Learning: Transforming Organizational Effectiveness Through DevOps'
 description: Discover how DevOps consulting tackles technical debt and complex architectures, leading to improved efficiency and streamlined integration for clients.
 date: 2024-08-21T07:00:19Z
+ResourceId: KXvd_oyLe3Q
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: KXvd_oyLe3Q
 source: internal
 url: /resources/videos/:slug
 slug: the-crucible-of-learning-transforming-organizational-effectiveness-through-devops
+layout: video
 preview: https://i.ytimg.com/vi/KXvd_oyLe3Q/maxresdefault.jpg
 duration: 832
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/what-specific-outcomes-and-improvements-can-clients-expect-when-they-engage-with-your-devops-service
 - /resources/videos/KXvd_oyLe3Q
 - /resources/what-specific-outcomes-and-improvements-can-clients-expect-when-they-engage-with-your-devops-service
+- /resources/KXvd_oyLe3Q
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -28,8 +34,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube KXvd_oyLe3Q >}}
-
 When organizations engage with us for DevOps consulting, it's rarely by chance. Typically, they've identified a problem—a problem that's grown too big to ignore, a problem that requires expertise beyond their current capabilities. As a DevOps consultant, I’ve seen this scenario play out many times. One of the most significant engagements I’ve experienced involved a large organization in the oil and gas industry. This case illustrates the complexity and challenges organizations face when they try to implement DevOps, and the transformational impact that a well-executed DevOps strategy can have.
 
 ## **The Root Cause: Technical Debt in a Large-Scale System**

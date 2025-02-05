@@ -1,6 +1,12 @@
 ---
 title: 'A change for the better #1 - Merrill Lynch to Aggreko'
 description: Join Martin Hinshelwood as he shares his pivotal career shift from Merrill Lynch to Aggreko, embracing new technology and expanding his expertise.
+ResourceId: _UxrL9mWMdL
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 331
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-16
 creator: Martin Hinshelwood
 id: "331"
@@ -10,6 +16,13 @@ slug: a-change-for-the-better-1
 aliases:
 - /blog/a-change-for-the-better-1
 - /a-change-for-the-better-1
+- /a-change-for-the-better--1---merrill-lynch-to-aggreko
+- /blog/a-change-for-the-better--1---merrill-lynch-to-aggreko
+- /resources/_UxrL9mWMdL
+- /resources/blog/a-change-for-the-better-1
+aliasesFor404:
+- /a-change-for-the-better-1
+- /blog/a-change-for-the-better-1
 - /a-change-for-the-better--1---merrill-lynch-to-aggreko
 - /blog/a-change-for-the-better--1---merrill-lynch-to-aggreko
 tags:

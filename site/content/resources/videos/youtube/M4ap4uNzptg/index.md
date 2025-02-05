@@ -2,10 +2,15 @@
 title: 'Unlocking Agile’s Core: Questioning to Create Value'
 description: "Unlock the true potential of Agile! Discover how questioning and adaptability can transform your organisation and outpace competitors. Watch now! \U0001F31F"
 date: 2024-01-23T07:00:07Z
+ResourceId: M4ap4uNzptg
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: M4ap4uNzptg
 source: internal
 url: /resources/videos/:slug
 slug: unlocking-agiles-core-questioning-to-create-value
+layout: video
 preview: https://i.ytimg.com/vi/M4ap4uNzptg/maxresdefault.jpg
 duration: 241
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/agile-is-failing-organizations!
 - /resources/videos/M4ap4uNzptg
 - /resources/agile-is-failing-organizations!
+- /resources/M4ap4uNzptg
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,8 +51,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube M4ap4uNzptg >}}
-
 In the ever-evolving world of business, staying ahead means adapting faster than your competitors. Being agile is not about following a set of rules but rather embracing a mindset of constant questioning and improvement. As Steve Denning wisely said:
 
 _"Being agile is about questioning what you do and continuously improving what you're doing."_

@@ -2,14 +2,20 @@
 title: Plague - 7 Harbingers agile apocalypse. But shorter!
 description: Uncover the truth behind the agile coaching crisis! Join Martin Hinshelwood as he tackles the challenges of unskilled coaches in the agile landscape.
 date: 2023-11-01T09:42:43Z
+ResourceId: HFFSrQx-wbQ
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: HFFSrQx-wbQ
 url: /resources/videos/:slug
 slug: plague-7-harbingers-agile-apocalypse-but-shorter!
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=HFFSrQx-wbQ
 aliases:
 - /resources/videos/HFFSrQx-wbQ
 - /resources/videos/plague-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/plague-7-harbingers-agile-apocalypse-but-shorter!
+- /resources/HFFSrQx-wbQ
 preview: https://i.ytimg.com/vi/HFFSrQx-wbQ/maxresdefault.jpg
 duration: 64
 isShort: false
@@ -44,9 +50,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube HFFSrQx-wbQ >}} 
  There's a lot of criticism for #projectmanagement in the #agile world, especially by zealots who read the #agilemanifesto but have very little experience in helping teams adopt and implement #agile effectively.
 
 Full video: https://youtu.be/UeisJt8U2_0

@@ -1,6 +1,12 @@
 ---
 title: If you had a choice!
 description: Join the discussion on your preferred platform for Visual Studio 2008! Share your choice among XP, Vista, and more. Let's find out what .NET developers love!
+ResourceId: 689UIOKlBfJ
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 209
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-08-13
 creator: Martin Hinshelwood
 id: "209"
@@ -10,6 +16,13 @@ slug: if-you-had-a-choice
 aliases:
 - /blog/if-you-had-a-choice
 - /if-you-had-a-choice
+- /if-you-had-a-choice-
+- /blog/if-you-had-a-choice-
+- /resources/689UIOKlBfJ
+- /resources/blog/if-you-had-a-choice
+aliasesFor404:
+- /if-you-had-a-choice
+- /blog/if-you-had-a-choice
 - /if-you-had-a-choice-
 - /blog/if-you-had-a-choice-
 tags:

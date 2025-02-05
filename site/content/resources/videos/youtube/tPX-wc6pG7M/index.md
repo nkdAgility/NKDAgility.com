@@ -2,14 +2,20 @@
 title: 5 October 2023 Agile Leader Webinar
 description: Join Dr. Joanna Płaskonka & Martin Hinshelwood in this 18-min Agile Leadership webinar. Gain insights, strategies, and engage in an interactive Q&A!
 date: 2023-09-28T10:27:47Z
+ResourceId: tPX-wc6pG7M
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: tPX-wc6pG7M
 url: /resources/videos/:slug
 slug: 5-october-2023-agile-leader-webinar
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=tPX-wc6pG7M
 aliases:
 - /resources/videos/tPX-wc6pG7M
 - /resources/videos/5-october-2023-agile-leader-webinar
 - /resources/5-october-2023-agile-leader-webinar
+- /resources/tPX-wc6pG7M
 preview: https://i.ytimg.com/vi/tPX-wc6pG7M/maxresdefault.jpg
 duration: 129
 isShort: false
@@ -25,9 +31,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube tPX-wc6pG7M >}} 
  🌟 Exclusive Webcast: "Agile Leadership & Agile Transformation" with Dr. Joanna Płaskonka & Martin Hinshelwood 🌟 
 
 Register at https://events.teams.microsoft.com/event/18ce0eb6-2b89-4e62-bab0-4c78a27ee18e@686c55d4-ab81-4a17-9eef-6472a5633fab

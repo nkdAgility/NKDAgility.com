@@ -2,6 +2,10 @@
 title: What makes the PSM immersive learning experience so unique
 description: Discover the power of PSM immersive learning! Martin Hinshelwood reveals how it elevates Scrum Masters to new heights in just two days.
 date: 2023-11-20T07:51:59Z
+ResourceId: xo4jMxupIM0
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: xo4jMxupIM0
 source: youtube
 url: /resources/videos/what-makes-the-psm-immersive-learning-experience-so-unique
@@ -16,9 +20,11 @@ aliases:
 - /resources/videos/xo4jMxupIM0
 - /resources/videos/what-makes-the-psm-immersive-learning-experience-so-unique
 - /resources/what-makes-the-psm-immersive-learning-experience-so-unique
+- /resources/xo4jMxupIM0
 resourceTypes:
 - video
 slug: what-makes-the-psm-immersive-learning-experience-so-unique
+layout: video
 tags:
 - Agile
 - Scrum
@@ -45,7 +51,6 @@ tags:
 - leadership.
 
 ---
-{{< youtube xo4jMxupIM0 >}} 
  If you've got experience as a #scrummaster and are looking to level up to a #professionalscrummaster skillset, the 2-day learning format is perfect. If you are new to #scrum and want to become a professional scrum master, it makes sense to explore a deeper, richer, longer learning format to really onboard the philosophy, practices, and tools that lead to success.
 
 In this short video, Martin Hinshelwood explains why the PSM #immersivelearning experience is so powerful, and how it will help you level up as a #scrummaster 

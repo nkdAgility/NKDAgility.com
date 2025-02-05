@@ -2,6 +2,10 @@
 title: What is the hardest part of working with a brand-new scrum team?
 description: Discover the toughest challenges of joining a new Scrum team and how to transition from novice to mastery in Agile practices with Martin Hinshelwood.
 date: 2023-02-03T07:00:00Z
+ResourceId: -xMY9Heanjk
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: -xMY9Heanjk
 source: internal
 url: /resources/videos/:slug
@@ -14,6 +18,7 @@ aliases:
 - /resources/videos/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team-
 - /resources/videos/-xMY9Heanjk
 - /resources/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team-
+- /resources/-xMY9Heanjk
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -24,10 +29,9 @@ tags:
 - Scrum Team
 resourceTypes:
 - video
+layout: video
 
 ---
-{{< youtube -xMY9Heanjk >}}
-
 What is the hardest part of working with a brand-new scrum team?
 
 It’s an interesting question and I’m going to view this through the lens of being an **agile coach** contracted to work with a new **scrum team**, as well as from the perspective of a **scrum master** who joins an existing scrum team for the first time.

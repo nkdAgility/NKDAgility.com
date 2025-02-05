@@ -1,0 +1,277 @@
+1
+00:00:00,040 --> 00:00:05,400
+there's a number of migration services
+
+2
+00:00:01,640 --> 00:00:09,200
+that we we offer um they're kind of
+
+3
+00:00:05,400 --> 00:00:11,160
+related as two sets of of tools there's
+
+4
+00:00:09,200 --> 00:00:14,320
+there's Martin as your devops migration
+
+5
+00:00:11,160 --> 00:00:16,000
+tools which is uh on GitHub and
+
+6
+00:00:14,320 --> 00:00:19,240
+available for people to use but we help
+
+7
+00:00:16,000 --> 00:00:20,680
+people use it we do it for customers um
+
+8
+00:00:19,240 --> 00:00:25,599
+when they don't want to learn it
+
+9
+00:00:20,680 --> 00:00:28,800
+themselves so that's the um more
+
+10
+00:00:25,599 --> 00:00:31,439
+targeted migration tool so I want to
+
+11
+00:00:28,800 --> 00:00:32,960
+move I want to stuff I want to merge
+
+12
+00:00:31,439 --> 00:00:36,920
+stuff
+
+13
+00:00:32,960 --> 00:00:39,239
+um so that's that's that's that actual
+
+14
+00:00:36,920 --> 00:00:40,640
+moving individual work items around
+
+15
+00:00:39,239 --> 00:00:43,120
+that's what I want to do then then
+
+16
+00:00:40,640 --> 00:00:45,960
+that's our one of our services the other
+
+17
+00:00:43,120 --> 00:00:48,760
+one is a kind of managed import into
+
+18
+00:00:45,960 --> 00:00:53,239
+Azure devops uh Microsoft have a tool
+
+19
+00:00:48,760 --> 00:00:56,680
+called the Azure devops data migration
+
+20
+00:00:53,239 --> 00:00:59,600
+tool and that data migration tool takes
+
+21
+00:00:56,680 --> 00:01:02,879
+the whole thing so you might have a if
+
+22
+00:00:59,600 --> 00:01:05,519
+you're with how TFS I I always call on
+
+23
+00:01:02,879 --> 00:01:07,799
+Prem TFS and the server as your devops
+
+24
+00:01:05,519 --> 00:01:09,680
+just to avoid confusion right I know
+
+25
+00:01:07,799 --> 00:01:12,560
+they renamed the server to as your
+
+26
+00:01:09,680 --> 00:01:14,080
+devops but it as your devops server and
+
+27
+00:01:12,560 --> 00:01:17,920
+as your devops service and it's just
+
+28
+00:01:14,080 --> 00:01:22,119
+confusing TFS right so TFS has multiple
+
+29
+00:01:17,920 --> 00:01:24,159
+databases hanging off off it um and
+
+30
+00:01:22,119 --> 00:01:26,320
+those databases are the things that you
+
+31
+00:01:24,159 --> 00:01:29,040
+take and put up to to as your devop so
+
+32
+00:01:26,320 --> 00:01:30,880
+if you have 500 projects in one database
+
+33
+00:01:29,040 --> 00:01:33,040
+you're taking the whole thing thing but
+
+34
+00:01:30,880 --> 00:01:35,560
+you can't just take it because there are
+
+35
+00:01:33,040 --> 00:01:38,000
+things you could do to your TFS that are
+
+36
+00:01:35,560 --> 00:01:39,640
+not allowed in as your devops um there
+
+37
+00:01:38,000 --> 00:01:41,640
+are things that could have happened over
+
+38
+00:01:39,640 --> 00:01:44,040
+the years to your TFS that are not
+
+39
+00:01:41,640 --> 00:01:47,119
+allowed in as your devops and there are
+
+40
+00:01:44,040 --> 00:01:49,759
+things yeah I think I'm going to double
+
+41
+00:01:47,119 --> 00:01:51,479
+down on things you could have changed in
+
+42
+00:01:49,759 --> 00:01:54,360
+TFS that you're not allowed to do in as
+
+43
+00:01:51,479 --> 00:01:58,200
+your devot like increase the max
+
+44
+00:01:54,360 --> 00:02:01,320
+attachment size is one um there's loads
+
+45
+00:01:58,200 --> 00:02:05,520
+of them so Microsoft provide a bunch of
+
+46
+00:02:01,320 --> 00:02:08,160
+tools to validate your environment to
+
+47
+00:02:05,520 --> 00:02:09,800
+make sure it will work before you migr
+
+48
+00:02:08,160 --> 00:02:13,360
+it up and it has to meet the validation
+
+49
+00:02:09,800 --> 00:02:14,800
+before it will go to a your devop but
+
+50
+00:02:13,360 --> 00:02:16,400
+how do you do that you have to get onto
+
+51
+00:02:14,800 --> 00:02:18,519
+the latest version then you have to run
+
+52
+00:02:16,400 --> 00:02:20,160
+the tools then you have to fix all of
+
+53
+00:02:18,519 --> 00:02:22,680
+the stuff that it highlights and then
+
+54
+00:02:20,160 --> 00:02:27,040
+you've got to go so we provide a
+
+55
+00:02:22,680 --> 00:02:32,280
+managed um service for moving your
+
+56
+00:02:27,040 --> 00:02:36,840
+entire on Prem asure devop TFS
+
+57
+00:02:32,280 --> 00:02:39,200
+environment um code repos builds um
+
+58
+00:02:36,840 --> 00:02:43,120
+everything up to as your
+
+59
+00:02:39,200 --> 00:02:46,360
+devops um or we also provide a service
+
+60
+00:02:43,120 --> 00:02:48,920
+where you want to move pieces of things
+
+61
+00:02:46,360 --> 00:02:51,800
+within that context around and
+
+62
+00:02:48,920 --> 00:02:53,280
+consolidate and change process template
+
+63
+00:02:51,800 --> 00:02:56,040
+and you know we want to move from scrum
+
+64
+00:02:53,280 --> 00:02:58,560
+to Agile or our bespoke one to Agile or
+
+65
+00:02:56,040 --> 00:03:00,400
+our scrum one to our bespoke one all of
+
+66
+00:02:58,560 --> 00:03:02,760
+those if you want to do things peace
+
+67
+00:03:00,400 --> 00:03:05,159
+meal we can help with that if you want
+
+68
+00:03:02,760 --> 00:03:09,239
+to do the whole thing we help you manage
+
+69
+00:03:05,159 --> 00:03:09,239
+that process up to the C
+
+

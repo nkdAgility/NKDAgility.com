@@ -1,6 +1,12 @@
 ---
 title: Heat ITSM
 description: Discover how to integrate Heat ITSM with TFS for efficient support call management. Streamline your workflow and enhance productivity with our insights!
+ResourceId: YKQN4PBqwk2
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 207
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-08-22
 creator: Martin Hinshelwood
 id: "207"
@@ -10,6 +16,11 @@ slug: heat-itsm
 aliases:
 - /blog/heat-itsm
 - /heat-itsm
+- /resources/YKQN4PBqwk2
+- /resources/blog/heat-itsm
+aliasesFor404:
+- /heat-itsm
+- /blog/heat-itsm
 tags:
 - tfs
 - tfs2008

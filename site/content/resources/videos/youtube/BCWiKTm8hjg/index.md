@@ -2,10 +2,15 @@
 title: 'The Power of Charity in Agile: How Helping Others Elevates Teams and Organizations'
 description: "Discover how the virtue of charity can transform your Agile approach, fostering team success and community support. Watch now for powerful insights! \U0001F31F"
 date: 2023-12-06T07:00:08Z
+ResourceId: BCWiKTm8hjg
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: BCWiKTm8hjg
 source: internal
 url: /resources/videos/:slug
 slug: the-power-of-charity-in-agile-how-helping-others-elevates-teams-and-organizations
+layout: video
 preview: https://i.ytimg.com/vi/BCWiKTm8hjg/maxresdefault.jpg
 duration: 162
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/7-virtues-of-agile-charity
 - /resources/videos/BCWiKTm8hjg
 - /resources/7-virtues-of-agile-charity
+- /resources/BCWiKTm8hjg
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,8 +51,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube BCWiKTm8hjg >}}
-
 One of the key virtues in Agile is **charity**—the act of helping others without expecting anything in return. This often goes unnoticed, yet it plays a crucial role in the success of teams, products, and organizations. As someone who has witnessed the transformative power of this virtue firsthand, I believe it’s time we shine a spotlight on how charity manifests in Agile environments and why it’s essential to embrace it fully.
 
 * * *

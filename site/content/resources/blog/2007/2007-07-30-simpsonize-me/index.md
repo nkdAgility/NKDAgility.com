@@ -1,6 +1,12 @@
 ---
 title: Simpsonize Me!
 description: Discover how to 'Simpsonize' yourself! Join Martin Hinshelwood as he shares his fun experience and tips for creating your own animated character.
+ResourceId: vThsgxwl-Tv
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 355
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-07-30
 creator: Martin Hinshelwood
 id: "355"
@@ -10,6 +16,13 @@ slug: simpsonize-me
 aliases:
 - /blog/simpsonize-me
 - /simpsonize-me
+- /simpsonize-me-
+- /blog/simpsonize-me-
+- /resources/vThsgxwl-Tv
+- /resources/blog/simpsonize-me
+aliasesFor404:
+- /simpsonize-me
+- /blog/simpsonize-me
 - /simpsonize-me-
 - /blog/simpsonize-me-
 categories:

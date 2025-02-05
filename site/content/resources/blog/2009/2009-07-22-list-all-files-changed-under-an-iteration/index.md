@@ -1,6 +1,12 @@
 ---
 title: List all files changed under an Iteration
 description: Discover how to list all files changed under a specific iteration using TFS API calls. Streamline your version control process with this practical guide!
+ResourceId: M07b_KU6l8f
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 99
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-07-22
 creator: Martin Hinshelwood
 id: "99"
@@ -10,6 +16,11 @@ slug: list-all-files-changed-under-an-iteration
 aliases:
 - /blog/list-all-files-changed-under-an-iteration
 - /list-all-files-changed-under-an-iteration
+- /resources/M07b_KU6l8f
+- /resources/blog/list-all-files-changed-under-an-iteration
+aliasesFor404:
+- /list-all-files-changed-under-an-iteration
+- /blog/list-all-files-changed-under-an-iteration
 tags:
 - code
 - iteration

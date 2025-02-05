@@ -1,6 +1,12 @@
 ---
 title: The most usefull .NET tool on the face of the planet!
 description: Discover Reflector, the ultimate .NET tool that enhances your coding experience. Unlock the power of .NET with this essential resource for developers!
+ResourceId: 5AaOgf__tP8
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 468
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2006-08-02
 creator: Martin Hinshelwood
 id: "468"
@@ -10,6 +16,13 @@ slug: the-most-usefull-net-tool-on-the-face-of-the-planet
 aliases:
 - /blog/the-most-usefull-net-tool-on-the-face-of-the-planet
 - /the-most-usefull-net-tool-on-the-face-of-the-planet
+- /the-most-usefull--net-tool-on-the-face-of-the-planet-
+- /blog/the-most-usefull--net-tool-on-the-face-of-the-planet-
+- /resources/5AaOgf__tP8
+- /resources/blog/the-most-usefull-net-tool-on-the-face-of-the-planet
+aliasesFor404:
+- /the-most-usefull-net-tool-on-the-face-of-the-planet
+- /blog/the-most-usefull-net-tool-on-the-face-of-the-planet
 - /the-most-usefull--net-tool-on-the-face-of-the-planet-
 - /blog/the-most-usefull--net-tool-on-the-face-of-the-planet-
 tags:

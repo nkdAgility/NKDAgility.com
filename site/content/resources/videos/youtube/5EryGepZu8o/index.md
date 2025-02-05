@@ -2,6 +2,10 @@
 title: If you could teach just one thing about Scrum, what would it be?
 description: "Unlock Scrum's true potential! Discover how empiricism and complexity empower teams and drive success in this insightful video. #Scrum #Agile"
 date: 2023-02-27T07:00:01Z
+ResourceId: 5EryGepZu8o
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: 5EryGepZu8o
 source: internal
 url: /resources/videos/:slug
@@ -14,6 +18,7 @@ aliases:
 - /resources/videos/if-you-could-teach-just-one-thing-about-scrum,-what-would-it-be-
 - /resources/videos/5EryGepZu8o
 - /resources/if-you-could-teach-just-one-thing-about-scrum,-what-would-it-be-
+- /resources/5EryGepZu8o
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -24,10 +29,9 @@ tags:
 - Scrum Certification
 resourceTypes:
 - video
+layout: video
 
 ---
-{{< youtube 5EryGepZu8o >}}
-
 If you could teach just one thing about Scrum, what would it be?
 
 I wouldn’t teach anything about **Scrum** if I only had one thing to teach, I would focus on the underlying principles that underpin scrum. **Empiricism** and navigating complexity effectively.

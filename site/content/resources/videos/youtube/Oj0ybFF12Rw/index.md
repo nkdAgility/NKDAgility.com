@@ -2,10 +2,15 @@
 title: "Quotes: Don't scale Scrum! Pragmatic or defeatist?"
 description: 'Explore the debate: Is advising against scaling Scrum pragmatic wisdom or a defeatist mindset? Join the conversation on Agile coaching! #Agile #Scrum #Shorts'
 date: 2023-10-09T14:30:08Z
+ResourceId: Oj0ybFF12Rw
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: Oj0ybFF12Rw
 source: internal
 url: /resources/videos/:slug
 slug: quotes-don-t-scale-scrum-pragmatic-or-defeatist
+layout: video
 preview: https://i.ytimg.com/vi/Oj0ybFF12Rw/maxresdefault.jpg
 duration: 50
 isShort: true
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/quotes-don't-scale-scrum!-pragmatic-or-defeatist-
 - /resources/videos/Oj0ybFF12Rw
 - /resources/quotes-don't-scale-scrum!-pragmatic-or-defeatist-
+- /resources/Oj0ybFF12Rw
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -26,8 +32,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube Oj0ybFF12Rw >}}
-
 ## "Don't scale scrum" - A Common Refrain 
 
 🙄 The phrase "Don't scale scrum!" is something I've heard quite frequently. 

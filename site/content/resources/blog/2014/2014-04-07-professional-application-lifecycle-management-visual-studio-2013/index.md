@@ -1,6 +1,12 @@
 ---
 title: Professional Application Lifecycle Management with Visual Studio 2013
 description: Discover the updated guide to Application Lifecycle Management with Visual Studio 2013. Enhance your software development with expert insights and new features!
+ResourceId: xeEpDhzecta
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 10482
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2014-04-07
 creator: Martin Hinshelwood
 id: "10482"
@@ -10,6 +16,13 @@ slug: professional-application-lifecycle-management-visual-studio-2013
 aliases:
 - /blog/professional-application-lifecycle-management-visual-studio-2013
 - /professional-application-lifecycle-management-visual-studio-2013
+- /professional-application-lifecycle-management-with-visual-studio-2013
+- /blog/professional-application-lifecycle-management-with-visual-studio-2013
+- /resources/xeEpDhzecta
+- /resources/blog/professional-application-lifecycle-management-visual-studio-2013
+aliasesFor404:
+- /professional-application-lifecycle-management-visual-studio-2013
+- /blog/professional-application-lifecycle-management-visual-studio-2013
 - /professional-application-lifecycle-management-with-visual-studio-2013
 - /blog/professional-application-lifecycle-management-with-visual-studio-2013
 tags:

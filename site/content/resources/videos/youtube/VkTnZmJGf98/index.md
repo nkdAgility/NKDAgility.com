@@ -2,10 +2,15 @@
 title: 'Evidence-Based Management: The Key to Agile Success'
 description: Unlock the power of evidence-based management to enhance agility! Discover how data-driven strategies drive market success and organisational growth.
 date: 2024-01-26T07:00:25Z
+ResourceId: VkTnZmJGf98
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: VkTnZmJGf98
 source: internal
 url: /resources/videos/:slug
 slug: evidence-based-management-the-key-to-agile-success
+layout: video
 preview: https://i.ytimg.com/vi/VkTnZmJGf98/maxresdefault.jpg
 duration: 323
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/why-evidence-based-management-how-has-it-improved-agile-
 - /resources/videos/VkTnZmJGf98
 - /resources/why-evidence-based-management-how-has-it-improved-agile-
+- /resources/VkTnZmJGf98
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -46,8 +52,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube VkTnZmJGf98 >}}
-
 In the world of agile transformation, it’s easy to get caught up in the methods, frameworks, and terminology. But the real question is: Are these changes actually making your organization more successful? That’s where evidence-based management (EBM) comes in. Instead of focusing on delivering agile for the sake of agile, we need to turn our attention to **achieving business success**—with agile as a tool to help us get there.
 
 ## **Focusing Beyond Agile Delivery**

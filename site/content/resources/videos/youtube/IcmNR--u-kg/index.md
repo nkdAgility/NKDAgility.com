@@ -2,15 +2,21 @@
 title: How will the immersive learning experience change the game in terms of entry level capabilities?
 description: "Explore how immersive learning revolutionises entry-level skills, enhancing practical application and problem-solving in workforce development. \U0001F31F\U0001F680"
 date: 2023-07-31T07:00:12Z
+ResourceId: IcmNR--u-kg
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: IcmNR--u-kg
 source: youtube
 url: /resources/videos/:slug
 slug: how-will-the-immersive-learning-experience-change-the-game-in-terms-of-entry-level-capabilities-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=IcmNR--u-kg
 aliases:
 - /resources/videos/IcmNR--u-kg
 - /resources/videos/how-will-the-immersive-learning-experience-change-the-game-in-terms-of-entry-level-capabilities-
 - /resources/how-will-the-immersive-learning-experience-change-the-game-in-terms-of-entry-level-capabilities-
+- /resources/IcmNR--u-kg
 preview: https://i.ytimg.com/vi/IcmNR--u-kg/maxresdefault.jpg
 duration: 154
 isShort: false
@@ -29,9 +35,10 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube IcmNR--u-kg >}} 
  *Revolutionizing Workforce Skills: The Power of Immersive Learning* - Discover how immersive learning transforms entry-level capabilities in our latest video. Dive deep into practical skills application and real-world problem-solving with our innovative approach. 
 
 *Book today - https://nkdagility.com/training-courses/course-schedule/ -- Regional pricing, bulk discount, & alumni discounts available!*

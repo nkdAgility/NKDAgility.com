@@ -2,10 +2,15 @@
 title: What is the most common Aha moment people have in a scrum course?
 description: Discover the common Aha moments in scrum courses that transform understanding and application of agile principles for effective teamwork and innovation.
 date: 2023-03-03T07:15:03Z
+ResourceId: klBiNFvxuy0
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: klBiNFvxuy0
 source: internal
 url: /resources/videos/:slug
 slug: what-is-the-most-common-aha-moment-people-have-in-a-scrum-course
+layout: video
 preview: https://i.ytimg.com/vi/klBiNFvxuy0/maxresdefault.jpg
 duration: 301
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/what-is-the-most-common-aha-moment-people-have-in-a-scrum-course-
 - /resources/videos/klBiNFvxuy0
 - /resources/what-is-the-most-common-aha-moment-people-have-in-a-scrum-course-
+- /resources/klBiNFvxuy0
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -29,8 +35,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube klBiNFvxuy0 >}}
-
 What is the most common Aha moment people have in a scrum course?
 
 It depends on the scrum course they are attending. The content presented in the [Applying Professional Scrum](https://nkdagility.com/training/courses/applying-professional-scrum-aps-live-virtual-learning-experience-with-certification/) (APS) course leads to very different epiphanies when compared to the content presented on an [Advanced Professional Scrum Master](https://nkdagility.com/training/courses/professional-scrum-master-advanced-psm-a-training-experience-with-certification-an-advanced-scrum-master-class/) (PSM II) course.

@@ -1,6 +1,12 @@
 ---
 title: Mozy update
 description: Discover how I expanded my Mozy storage to 4.3 GB and optimized my backup strategy. Learn tips for efficient online storage management!
+ResourceId: Tb5vwyZh7DY
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 281
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-12-02
 creator: Martin Hinshelwood
 id: "281"
@@ -10,6 +16,11 @@ slug: mozy-update
 aliases:
 - /blog/mozy-update
 - /mozy-update
+- /resources/Tb5vwyZh7DY
+- /resources/blog/mozy-update
+aliasesFor404:
+- /mozy-update
+- /blog/mozy-update
 categories:
 - me
 preview: nakedalm-logo-128-link-1-1.png

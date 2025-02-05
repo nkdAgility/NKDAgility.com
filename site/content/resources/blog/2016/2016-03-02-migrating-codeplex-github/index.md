@@ -1,6 +1,12 @@
 ---
 title: Migrating from Codeplex to Github
 description: Learn how to successfully migrate your projects from Codeplex to GitHub with practical tips and tools. Streamline your workflow and embrace open source!
+ResourceId: kgtNo8tGkjS
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 11465
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2016-03-02
 creator: Martin Hinshelwood
 id: "11465"
@@ -10,6 +16,13 @@ slug: migrating-codeplex-github
 aliases:
 - /blog/migrating-codeplex-github
 - /migrating-codeplex-github
+- /migrating-from-codeplex-to-github
+- /blog/migrating-from-codeplex-to-github
+- /resources/kgtNo8tGkjS
+- /resources/blog/migrating-codeplex-github
+aliasesFor404:
+- /migrating-codeplex-github
+- /blog/migrating-codeplex-github
 - /migrating-from-codeplex-to-github
 - /blog/migrating-from-codeplex-to-github
 tags:

@@ -1,6 +1,12 @@
 ---
 title: 'TeamPlain Error: TF14002'
 description: Encountering the TF14002 error in TeamPlain? Discover insights and potential solutions to this common issue affecting source control access. Read more!
+ResourceId: PHs0D35ZIo4
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 424
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-03-27
 creator: Martin Hinshelwood
 id: "424"
@@ -10,6 +16,13 @@ slug: teamplain-error-tf14002
 aliases:
 - /blog/teamplain-error-tf14002
 - /teamplain-error-tf14002
+- /teamplain-error--tf14002
+- /blog/teamplain-error--tf14002
+- /resources/PHs0D35ZIo4
+- /resources/blog/teamplain-error-tf14002
+aliasesFor404:
+- /teamplain-error-tf14002
+- /blog/teamplain-error-tf14002
 - /teamplain-error--tf14002
 - /blog/teamplain-error--tf14002
 preview: nakedalm-logo-128-link-1-1.png

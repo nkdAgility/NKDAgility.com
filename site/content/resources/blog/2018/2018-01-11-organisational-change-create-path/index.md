@@ -1,6 +1,12 @@
 ---
 title: Create your own path to Organisational Agility
 description: Discover how to tailor your path to organisational agility with evidence-based strategies. Empower your team and drive meaningful change today!
+ResourceId: RdwxVidD26i
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 11214
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2018-01-11
 creator: Martin Hinshelwood
 id: "11214"
@@ -10,6 +16,13 @@ slug: organisational-change-create-path
 aliases:
 - /blog/organisational-change-create-path
 - /organisational-change-create-path
+- /create-your-own-path-to-organisational-agility
+- /blog/create-your-own-path-to-organisational-agility
+- /resources/RdwxVidD26i
+- /resources/blog/organisational-change-create-path
+aliasesFor404:
+- /organisational-change-create-path
+- /blog/organisational-change-create-path
 - /create-your-own-path-to-organisational-agility
 - /blog/create-your-own-path-to-organisational-agility
 tags:

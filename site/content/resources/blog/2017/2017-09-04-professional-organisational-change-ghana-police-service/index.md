@@ -1,6 +1,12 @@
 ---
 title: Professional Organisational Change at the Ghana Police Service
 description: Explore the Ghana Police Service's transformative journey towards a world-class organization, embracing agile practices for lasting change and public trust.
+ResourceId: yv8bhGf1MfF
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 12011
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2017-09-04
 creator: Martin Hinshelwood
 id: "12011"
@@ -10,6 +16,13 @@ slug: professional-organisational-change-ghana-police-service
 aliases:
 - /blog/professional-organisational-change-ghana-police-service
 - /professional-organisational-change-ghana-police-service
+- /professional-organisational-change-at-the-ghana-police-service
+- /blog/professional-organisational-change-at-the-ghana-police-service
+- /resources/yv8bhGf1MfF
+- /resources/blog/professional-organisational-change-ghana-police-service
+aliasesFor404:
+- /professional-organisational-change-ghana-police-service
+- /blog/professional-organisational-change-ghana-police-service
 - /professional-organisational-change-at-the-ghana-police-service
 - /blog/professional-organisational-change-at-the-ghana-police-service
 tags:

@@ -1,6 +1,12 @@
 ---
 title: 'TFS Integration Tools - Issue: TF10141 No Files checked in as a result of a TFS check-in failure'
 description: Resolve TFS check-in failures with expert insights on TF10141. Learn to troubleshoot conflicts and ensure successful migrations in your projects.
+ResourceId: BPBvfH-1wzW
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 7402
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2012-08-22
 creator: Martin Hinshelwood
 id: "7402"
@@ -10,6 +16,14 @@ slug: tfs-integration-tools-issue-tf10141-no-files-checked-in-as-a-result-of-a-t
 aliases:
 - /blog/tfs-integration-tools-issue-tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
 - /tfs-integration-tools-issue-tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
+- /tfs-integration-tools
+- /tfs-integration-tools---issue--tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
+- /blog/tfs-integration-tools---issue--tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
+- /resources/BPBvfH-1wzW
+- /resources/blog/tfs-integration-tools-issue-tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
+aliasesFor404:
+- /tfs-integration-tools-issue-tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
+- /blog/tfs-integration-tools-issue-tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
 - /tfs-integration-tools---issue--tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
 - /blog/tfs-integration-tools---issue--tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
 tags:

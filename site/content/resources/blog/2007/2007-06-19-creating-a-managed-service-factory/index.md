@@ -1,6 +1,12 @@
 ---
 title: Creating a managed service factory
 description: Discover how to create a managed service factory for seamless access to local and remote services. Enhance your enterprise solutions with this insightful guide!
+ResourceId: dfhN35mUMDl
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 377
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-06-19
 creator: Martin Hinshelwood
 id: "377"
@@ -10,6 +16,11 @@ slug: creating-a-managed-service-factory
 aliases:
 - /blog/creating-a-managed-service-factory
 - /creating-a-managed-service-factory
+- /resources/dfhN35mUMDl
+- /resources/blog/creating-a-managed-service-factory
+aliasesFor404:
+- /creating-a-managed-service-factory
+- /blog/creating-a-managed-service-factory
 tags:
 - ml
 - service-oriented-architecture

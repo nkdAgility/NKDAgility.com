@@ -2,10 +2,15 @@
 title: 'The Fallacy of Equating Agility with Speed: What Agile Really Means'
 description: Discover why Agile isn't just about speed! This video reveals its true focus on value, adaptability, and delivering the right products. Embrace a strategic mindset!
 date: 2024-07-11T06:45:01Z
+ResourceId: b3HFBlCcomk
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: b3HFBlCcomk
 source: internal
 url: /resources/videos/:slug
 slug: the-fallacy-of-equating-agility-with-speed-what-agile-really-means
+layout: video
 preview: https://i.ytimg.com/vi/b3HFBlCcomk/maxresdefault.jpg
 duration: 494
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/debunking-the-myth-agile-is-not-about-speed
 - /resources/videos/b3HFBlCcomk
 - /resources/debunking-the-myth-agile-is-not-about-speed
+- /resources/b3HFBlCcomk
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -27,8 +33,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube b3HFBlCcomk >}}
-
 In the world of Agile, there’s a common misconception that agility equals speed. However, this idea is as much of an oxymoron as the concept of an "agile project manager." The truth is, Agile isn’t about rushing through tasks or speeding up processes; it's about spending your time wisely on valuable endeavors. Let’s dive deeper into what agility truly means and why it’s not about doing things faster, but doing the right things.
 
 ## **Agility is About Spending Time Wisely**

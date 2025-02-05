@@ -2,14 +2,20 @@
 title: What is the most useful element of the APS course for beginner Scrum Teams?
 description: "Unlock Scrum's secrets! \U0001F31F Join Martin as he explores complexity in agile, offering practical insights for beginner Scrum Teams. Dive in now!"
 date: 2023-11-15T07:00:28Z
+ResourceId: n4XaJV9dJfs
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: n4XaJV9dJfs
 url: /resources/videos/:slug
 slug: what-is-the-most-useful-element-of-the-aps-course-for-beginner-scrum-teams-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=n4XaJV9dJfs
 aliases:
 - /resources/videos/n4XaJV9dJfs
 - /resources/videos/what-is-the-most-useful-element-of-the-aps-course-for-beginner-scrum-teams-
 - /resources/what-is-the-most-useful-element-of-the-aps-course-for-beginner-scrum-teams-
+- /resources/n4XaJV9dJfs
 preview: https://i.ytimg.com/vi/n4XaJV9dJfs/maxresdefault.jpg
 duration: 219
 isShort: false
@@ -41,9 +47,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube n4XaJV9dJfs >}} 
  Mastering Scrum Complexity: Navigate the Agile Landscape
 
 Unlock the secrets to navigating Scrum complexity with ease! Dive into our insightful exploration of agile project landscapes. Learn to adapt and thrive in a world of change.

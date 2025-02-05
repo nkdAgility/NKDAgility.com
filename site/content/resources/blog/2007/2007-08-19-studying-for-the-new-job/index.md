@@ -1,6 +1,12 @@
 ---
 title: Studying for the new job
 description: Prepare for your new job by mastering essential technologies like BizTalk and SharePoint. Discover study tips and resources to enhance your skills!
+ResourceId: Vt_AB1py8ZH
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 330
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-19
 creator: Martin Hinshelwood
 id: "330"
@@ -10,6 +16,11 @@ slug: studying-for-the-new-job
 aliases:
 - /blog/studying-for-the-new-job
 - /studying-for-the-new-job
+- /resources/Vt_AB1py8ZH
+- /resources/blog/studying-for-the-new-job
+aliasesFor404:
+- /studying-for-the-new-job
+- /blog/studying-for-the-new-job
 tags:
 - moss2007
 - sharepoint

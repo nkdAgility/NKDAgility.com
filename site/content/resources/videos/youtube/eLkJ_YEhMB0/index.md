@@ -2,10 +2,15 @@
 title: Overcoming the Ghost of Agile Certifications
 description: "Transform your Agile Scrum meetings from routine to value-driven! Discover strategies to boost productivity and avoid the ghosts of Agile past. \U0001F31F"
 date: 2024-01-02T07:00:20Z
+ResourceId: eLkJ_YEhMB0
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: eLkJ_YEhMB0
 source: internal
 url: /resources/videos/:slug
 slug: overcoming-the-ghost-of-agile-certifications
+layout: video
 preview: https://i.ytimg.com/vi/eLkJ_YEhMB0/maxresdefault.jpg
 duration: 371
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/5-ghosts-of-agile-past-3-questions
 - /resources/videos/eLkJ_YEhMB0
 - /resources/5-ghosts-of-agile-past-3-questions
+- /resources/eLkJ_YEhMB0
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,8 +51,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube eLkJ_YEhMB0 >}}
-
 In the world of Agile, certifications have long been a point of contention. Lately, there's been a growing trend of dismissiveness toward certifications, with many expressing skepticism about their value. As someone who has spent years in the Agile and Scrum space, I understand the frustration that certifications often evoke. While I agree with some of the criticism, I also see their value, but only when approached correctly.
 
 ## **The Impact of Certifications on Learning**

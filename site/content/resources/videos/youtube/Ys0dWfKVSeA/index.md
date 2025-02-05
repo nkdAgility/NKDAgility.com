@@ -2,10 +2,15 @@
 title: Scrum doesn't solve problems, it reveals them. How, and why is that valuable?
 description: "Discover how Scrum reveals organisational challenges and enhances progress. Join Martin as he explores its true value in this insightful video! \U0001F680\U0001FA9E"
 date: 2023-09-27T07:00:29Z
+ResourceId: Ys0dWfKVSeA
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: Ys0dWfKVSeA
 source: internal
 url: /resources/videos/:slug
 slug: scrum-doesn-t-solve-problems-it-reveals-them-how-and-why-is-that-valuable
+layout: video
 preview: https://i.ytimg.com/vi/Ys0dWfKVSeA/maxresdefault.jpg
 duration: 584
 isShort: false
@@ -15,6 +20,7 @@ aliases:
 - "/resources/videos/scrum-the-mirror-to-organizational-challenges-\U0001FA9E"
 - /resources/videos/Ys0dWfKVSeA
 - "/resources/scrum-the-mirror-to-organizational-challenges-\U0001FA9E"
+- /resources/Ys0dWfKVSeA
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -35,8 +41,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube Ys0dWfKVSeA >}}
-
 ## Reflecting on Scrum's Mirror  
 
 There's an old adage often echoed by agile enthusiasts: Scrum is like a mirror. But what does this mirror reveal?  

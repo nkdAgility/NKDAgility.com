@@ -2,14 +2,20 @@
 title: How does the PSU course help teams make more effective product development decisions?
 description: Discover how the PSU course enhances collaboration between design and engineering, empowering teams to make smarter product development decisions!
 date: 2023-04-10T07:00:18Z
+ResourceId: wNgfCTE7C6M
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: wNgfCTE7C6M
 url: /resources/videos/:slug
 slug: how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=wNgfCTE7C6M
 aliases:
 - /resources/videos/wNgfCTE7C6M
 - /resources/videos/how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions-
 - /resources/how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions-
+- /resources/wNgfCTE7C6M
 preview: https://i.ytimg.com/vi/wNgfCTE7C6M/maxresdefault.jpg
 duration: 371
 isShort: false
@@ -24,9 +30,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube wNgfCTE7C6M >}} 
  Scrum.Org recently launched the PSU (Professional Scrum with User Experience) course that intends to help bring product designers, user experience specialists, and scrum development teams closer together.
 
 it is an absolutely awesome course and will show you how to integrate design and engineering into #productdevelopment on an iterative and continuous basis rather than the chicken and the egg dilemma it currently faces.

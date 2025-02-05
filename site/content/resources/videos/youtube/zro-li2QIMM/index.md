@@ -2,14 +2,20 @@
 title: ' shorts 7 Virtues of agile. Charity'
 description: 'Discover the 7 virtues of Agile, focusing on Charity. Learn how a happy, inspired team enhances customer experience! #Agile #Scrum #Shorts'
 date: 2023-12-06T11:01:01Z
+ResourceId: zro-li2QIMM
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: zro-li2QIMM
 url: /resources/videos/:slug
 slug: -shorts-7-virtues-of-agile-charity
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=zro-li2QIMM
 aliases:
 - /resources/videos/zro-li2QIMM
 - /resources/videos/-shorts-7-virtues-of-agile-charity
 - /resources/-shorts-7-virtues-of-agile-charity
+- /resources/zro-li2QIMM
 preview: https://i.ytimg.com/vi/zro-li2QIMM/maxresdefault.jpg
 duration: 50
 isShort: true
@@ -41,9 +47,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube zro-li2QIMM >}} 
  #shorts #shortsvideo #shortvideo 7 virtues of #agile. Charity. #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #projectmanagement #projectmanager #productdevelopment #productmanagement #scrummaster #agilecoach #productowner #agileleadership 
 
 Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 

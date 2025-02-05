@@ -1,0 +1,3 @@
+If you're doing Caman and you aren't limiting your work, guess what? You're not doing Caman. It is a crucial element to controlling your work in process, to understanding what's going on when in your system, and enabling you to see what's going on. Limiting work allows you to see when you have constraints in the system. 
+
+Um, it enables you to allow people to focus on what's necessary to deliver the value, and it's really, really important to delivering high-quality, usable products because you have to maintain that flow of work through the system that's working at a sustainable pace. Limiting work in process is absolutely crucial to having a Caman board.

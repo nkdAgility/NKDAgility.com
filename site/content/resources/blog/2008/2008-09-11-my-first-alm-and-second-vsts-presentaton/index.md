@@ -1,6 +1,12 @@
 ---
 title: My first ALM and second VSTS presentaton!
 description: Join Martin Hinshelwood as he reflects on his first ALM and VSTS presentations, sharing insights on preparation, delivery, and the evolving tech landscape.
+ResourceId: v3tFzfmLkHa
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 193
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-09-11
 creator: Martin Hinshelwood
 id: "193"
@@ -10,6 +16,13 @@ slug: my-first-alm-and-second-vsts-presentaton
 aliases:
 - /blog/my-first-alm-and-second-vsts-presentaton
 - /my-first-alm-and-second-vsts-presentaton
+- /my-first-alm-and-second-vsts-presentaton-
+- /blog/my-first-alm-and-second-vsts-presentaton-
+- /resources/v3tFzfmLkHa
+- /resources/blog/my-first-alm-and-second-vsts-presentaton
+aliasesFor404:
+- /my-first-alm-and-second-vsts-presentaton
+- /blog/my-first-alm-and-second-vsts-presentaton
 - /my-first-alm-and-second-vsts-presentaton-
 - /blog/my-first-alm-and-second-vsts-presentaton-
 categories:

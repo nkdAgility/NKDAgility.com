@@ -1,6 +1,12 @@
 ---
 title: Installing Visual Studio 2015 side by side with 2013 on Windows 10
 description: Learn how to install Visual Studio 2015 alongside 2013 on Windows 10 effortlessly. Get tips, fixes, and insights for a smooth setup experience!
+ResourceId: HPkHnEoaEbR
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 10886
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2014-11-12
 creator: Martin Hinshelwood
 id: "10886"
@@ -10,6 +16,13 @@ slug: installing-visual-studio-2015-side-side-2013-windows-10
 aliases:
 - /blog/installing-visual-studio-2015-side-side-2013-windows-10
 - /installing-visual-studio-2015-side-side-2013-windows-10
+- /installing-visual-studio-2015-side-by-side-with-2013-on-windows-10
+- /blog/installing-visual-studio-2015-side-by-side-with-2013-on-windows-10
+- /resources/HPkHnEoaEbR
+- /resources/blog/installing-visual-studio-2015-side-side-2013-windows-10
+aliasesFor404:
+- /installing-visual-studio-2015-side-side-2013-windows-10
+- /blog/installing-visual-studio-2015-side-side-2013-windows-10
 - /installing-visual-studio-2015-side-by-side-with-2013-on-windows-10
 - /blog/installing-visual-studio-2015-side-by-side-with-2013-on-windows-10
 tags:

@@ -2,10 +2,15 @@
 title: Would you recommend the APS course to a newbie scrum team, and Why?
 description: 'Discover how the APS course can empower your newbie Scrum team to create value and thrive in an Agile environment. Watch now! #Scrum #Agile #Training'
 date: 2023-03-23T07:00:15Z
+ResourceId: rPxverzgPz0
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: rPxverzgPz0
 source: internal
 url: /resources/videos/:slug
 slug: would-you-recommend-the-aps-course-to-a-newbie-scrum-team-and-why
+layout: video
 preview: https://i.ytimg.com/vi/rPxverzgPz0/maxresdefault.jpg
 duration: 304
 isShort: false
@@ -15,6 +20,7 @@ aliases:
 - /resources/videos/would-you-recommend-the-aps-course-to-a-newbie-scrum-team-
 - /resources/videos/rPxverzgPz0
 - /resources/would-you-recommend-the-aps-course-to-a-newbie-scrum-team-
+- /resources/rPxverzgPz0
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -31,8 +37,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube rPxverzgPz0 >}}
-
 **Would you recommend the APS course to a newbie scrum team, and Why?**
 
 Why the APS Course is a Must for Newbie Scrum Teams

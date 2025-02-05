@@ -2,10 +2,15 @@
 title: 'The Power of Community: Becoming an Awesome Agile Coach'
 description: 'Discover the fourth essential achievement for aspiring #AgileCoaches with Martin Hinshelwood. Elevate your skills and empower teams to thrive!'
 date: 2023-11-16T11:00:37Z
+ResourceId: hij5_aP_YN4
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: hij5_aP_YN4
 source: internal
 url: /resources/videos/:slug
 slug: the-power-of-community-becoming-an-awesome-agile-coach
+layout: video
 preview: https://i.ytimg.com/vi/hij5_aP_YN4/maxresdefault.jpg
 duration: 55
 isShort: true
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-4
 - /resources/videos/hij5_aP_YN4
 - /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-4
+- /resources/hij5_aP_YN4
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,8 +51,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube hij5_aP_YN4 >}}
-
 Being an effective Agile coach requires more than just mastering the frameworks and processes of Agile. It’s about continual growth, pushing your boundaries, and being part of a community that challenges you, not one that simply agrees with everything you say. If you're aiming to elevate your coaching game, the key lies in surrounding yourself with diverse perspectives that question, refine, and enhance your approach.
 
 In this post, we'll explore the significance of community, how it fosters your growth, and why it's essential for delivering the most value to your customers.

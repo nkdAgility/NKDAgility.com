@@ -1,6 +1,12 @@
 ---
 title: TFS Gotcha (SP1)
 description: Struggling with TFS SP1 installation? Discover essential steps and solutions to troubleshoot your Team Foundation Server setup effectively. Get back on track!
+ResourceId: ZlJuM9fduW9
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 428
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-03-15
 creator: Martin Hinshelwood
 id: "428"
@@ -10,6 +16,13 @@ slug: tfs-gotcha-sp1
 aliases:
 - /blog/tfs-gotcha-sp1
 - /tfs-gotcha-sp1
+- /tfs-gotcha-(sp1)
+- /blog/tfs-gotcha-(sp1)
+- /resources/ZlJuM9fduW9
+- /resources/blog/tfs-gotcha-sp1
+aliasesFor404:
+- /tfs-gotcha-sp1
+- /blog/tfs-gotcha-sp1
 - /tfs-gotcha-(sp1)
 - /blog/tfs-gotcha-(sp1)
 preview: nakedalm-logo-128-link-1-1.png

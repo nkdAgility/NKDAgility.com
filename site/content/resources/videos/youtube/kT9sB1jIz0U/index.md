@@ -2,14 +2,20 @@
 title: Why I love hierarchies of competence
 description: 'Discover why Martin Hinshelwood prefers hierarchies of competence over control, empowering experts to drive success in agile environments. #shorts #agile'
 date: 2023-05-03T09:30:09Z
+ResourceId: kT9sB1jIz0U
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: kT9sB1jIz0U
 url: /resources/videos/:slug
 slug: why-i-love-hierarchies-of-competence
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=kT9sB1jIz0U
 aliases:
 - /resources/videos/kT9sB1jIz0U
 - /resources/videos/why-i-love-hierarchies-of-competence
 - /resources/why-i-love-hierarchies-of-competence
+- /resources/kT9sB1jIz0U
 preview: https://i.ytimg.com/vi/kT9sB1jIz0U/maxresdefault.jpg
 duration: 62
 isShort: false
@@ -18,9 +24,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube kT9sB1jIz0U >}} 
  #shorts Traditional #management environments tend to be based on hierarchies of control. X individual is the leader of the organization and everything flows down from there, from the highest rank to the lowest rank.
 
 hierarchies of competence are based on experts making the decisions that they are best suited to, and actively empowering and enabling people around them to excel in the environment.

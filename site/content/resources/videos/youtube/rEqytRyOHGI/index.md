@@ -2,10 +2,15 @@
 title: 'Special Sprints: Agile Banditry or Risk Management?'
 description: "Uncover the truth about special sprints in Agile! Join Martin as he reveals their pitfalls and impact on product delivery. \U0001F680\U0001F50D #Agile #SpecialSprints"
 date: 2024-01-04T11:09:15Z
+ResourceId: rEqytRyOHGI
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: rEqytRyOHGI
 source: internal
 url: /resources/videos/:slug
 slug: special-sprints-agile-banditry-or-risk-management
+layout: video
 preview: https://i.ytimg.com/vi/rEqytRyOHGI/maxresdefault.jpg
 duration: 291
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/5-kinds-of-agile-bandits-special-sprints
 - /resources/videos/rEqytRyOHGI
 - /resources/5-kinds-of-agile-bandits-special-sprints
+- /resources/rEqytRyOHGI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,8 +51,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube rEqytRyOHGI >}}
-
 You can't spend much time in the Agile space without encountering teams doing some kind of special sprints. Whether it's Sprint Zero, refactoring sprints, bug-fix sprints, or hardening sprints, these so-called "special sprints" are quite common. However, let’s cut to the chase: **special sprints are agile banditry**, and those practicing them are bandits in disguise. Here's why they dilute your team's ability to deliver usable, working products, and how you can avoid falling into the same trap.
 
 ## **The Purpose of Agile: Delivering Usable, Working Products**

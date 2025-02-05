@@ -2,14 +2,20 @@
 title: Overview of the 8-week Immersive learning experience
 description: "Discover the power of immersive learning in Scrum and project management! Join Martin as he explores real-world applications and transformative training. \U0001F30D✨"
 date: 2023-06-08T07:00:30Z
+ResourceId: qrEqX_5FWM8
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: qrEqX_5FWM8
 url: /resources/videos/:slug
 slug: overview-of-the-8-week-immersive-learning-experience
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=qrEqX_5FWM8
 aliases:
 - /resources/videos/qrEqX_5FWM8
 - /resources/videos/overview-of-the-8-week-immersive-learning-experience
 - /resources/overview-of-the-8-week-immersive-learning-experience
+- /resources/qrEqX_5FWM8
 preview: https://i.ytimg.com/vi/qrEqX_5FWM8/maxresdefault.jpg
 duration: 354
 isShort: false
@@ -27,9 +33,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube qrEqX_5FWM8 >}} 
  *Unlocking Real-World Value with Immersive Learning: A Scrum.org Insight* - Explore the transformative power of immersive learning in this insightful video. Discover how it connects theory to real-world scenarios, enhancing practical skills in project management and Scrum.
 
 *Book today - https://nkdagility.com/training-courses/course-schedule/ -- Regional pricing, bulk discount, & alumni discounts available!*

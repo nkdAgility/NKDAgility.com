@@ -6,8 +6,12 @@
 
 {{- partial "infrastructure/seo.html" . }}
 
-{{ if .Params.videoId }}
-  <meta name="giscus:backlink" content="https://nkdagility.com/resources/videos/{{- .Params.videoId }}" />
+{{ if .Params.ResourceId }}
+  <meta name="permalink" content="https://nkdagility.com/resources/{{- .Params.ResourceId }}" />
+{{ end }}
+
+{{ if .Params.ResourceId }}
+  <meta name="giscus:backlink" content="https://nkdagility.com/resources/{{- .Params.ResourceId }}" />
 {{ else }}
   <meta name="giscus:backlink" content="https://nkdagility.com{{- .RelPermalink }}" />
 {{ end }}
@@ -36,16 +40,6 @@ naked Agility Limited. All content is copyrighted. No reproduction or distributi
 <link async rel="stylesheet" href="{{- "css/cards.css" | relURL }}" />
 <!-- sections -->
 <link async rel="stylesheet" href="{{- "css/sections.css" | relURL }}" />
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-44XG57BE28"></script>
-<script async>
-  window.dataLayer = window.dataLayer || [];
-  function gtag() {
-    dataLayer.push(arguments);
-  }
-  gtag("js", new Date());
-  gtag("config", "G-44XG57BE28");
-</script>
 
 <!-- shopifycdn -->
 {{/* <script src="https://sdks.shopifycdn.com/js-buy-sdk/v2/latest/index.umd.min.js"></script>

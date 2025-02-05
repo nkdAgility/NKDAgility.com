@@ -2,15 +2,21 @@
 title: Building a Culture of Continuous Improvement
 description: Empower your teams with financial transparency! Discover how to enhance decision-making and ROI in product development for continuous improvement.
 date: 2024-12-12T06:30:00Z
+ResourceId: uetzybp7bf4
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: uetzybp7bf4
 source: youtube
 url: /resources/videos/:slug
 slug: building-a-culture-of-continuous-improvement
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=uetzybp7bf4
 aliases:
 - /resources/videos/uetzybp7bf4
 - /resources/videos/building-a-culture-of-continuous-improvement
 - /resources/building-a-culture-of-continuous-improvement
+- /resources/uetzybp7bf4
 preview: https://i9.ytimg.com/vi/uetzybp7bf4/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLDpi1R2yDhrVuUC5OohAvFE7cnHTA
 duration: 379
 isShort: false
@@ -32,9 +38,10 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube uetzybp7bf4 >}} 
  Empowering Teams with Financial Transparency: Maximizing ROI in Product Development | Martin Hinshelwood
 
 👋 Hi, I’m Martin Hinshelwood from NKD Agility, and in this video, I discuss how empowering teams with financial context and transparency can significantly improve decision-making and ROI in product development. By fostering a culture of ownership and enabling teams to understand the value and cost of their work, organizations can create a powerful foundation for continuous improvement and smarter investments.

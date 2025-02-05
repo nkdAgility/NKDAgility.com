@@ -1,0 +1,413 @@
+1
+00:00:00,560 --> 00:00:07,120
+one of the key aspects of a caman
+
+2
+00:00:04,040 --> 00:00:09,519
+strategy is improving the system
+
+3
+00:00:07,120 --> 00:00:11,719
+improving your workflow so after you've
+
+4
+00:00:09,519 --> 00:00:15,200
+defined what your workflow is you've
+
+5
+00:00:11,719 --> 00:00:19,119
+written down how you're going to uh work
+
+6
+00:00:15,200 --> 00:00:22,400
+your system and you've started actively
+
+7
+00:00:19,119 --> 00:00:26,400
+monitoring uh the work that is underway
+
+8
+00:00:22,400 --> 00:00:30,359
+you'll hopefully start seeing
+
+9
+00:00:26,400 --> 00:00:34,280
+patterns if we're using the metrics from
+
+10
+00:00:30,359 --> 00:00:36,440
+the flow metrics from a cand strategy
+
+11
+00:00:34,280 --> 00:00:38,640
+then we should be able to see when
+
+12
+00:00:36,440 --> 00:00:40,920
+things are sitting around for too long
+
+13
+00:00:38,640 --> 00:00:43,440
+and they're too old we should be able to
+
+14
+00:00:40,920 --> 00:00:48,719
+see patterns of delivery we should be
+
+15
+00:00:43,440 --> 00:00:52,000
+able to see um groupings of things that
+
+16
+00:00:48,719 --> 00:00:54,239
+are perhaps not quite where we expect
+
+17
+00:00:52,000 --> 00:00:57,680
+them to be on the graphs that we might
+
+18
+00:00:54,239 --> 00:00:58,920
+use to visualize that data and that
+
+19
+00:00:57,680 --> 00:01:02,920
+allows
+
+20
+00:00:58,920 --> 00:01:05,400
+us to ask more interesting questions it
+
+21
+00:01:02,920 --> 00:01:08,920
+allows us
+
+22
+00:01:05,400 --> 00:01:12,840
+to lift the carpet and see in the dark
+
+23
+00:01:08,920 --> 00:01:15,320
+see in the dark that's a great a cban
+
+24
+00:01:12,840 --> 00:01:19,520
+strategy is like
+
+25
+00:01:15,320 --> 00:01:23,240
+a torch shining the light in the
+
+26
+00:01:19,520 --> 00:01:25,960
+darkness of your system to see where
+
+27
+00:01:23,240 --> 00:01:28,360
+things are broken where things aren't
+
+28
+00:01:25,960 --> 00:01:31,479
+working as optimally as they could be to
+
+29
+00:01:28,360 --> 00:01:35,000
+see what's going on on where it would be
+
+30
+00:01:31,479 --> 00:01:37,439
+opaque normally um this is especially
+
+31
+00:01:35,000 --> 00:01:40,360
+true for teams doing scrum scrum has no
+
+32
+00:01:37,439 --> 00:01:42,399
+metrics at all um and the metrics that I
+
+33
+00:01:40,360 --> 00:01:47,280
+would always recommend would be the
+
+34
+00:01:42,399 --> 00:01:50,960
+caman flow metrics right because cban is
+
+35
+00:01:47,280 --> 00:01:54,680
+designed as something that can be used
+
+36
+00:01:50,960 --> 00:01:58,039
+to monitor any system it's a monitoring
+
+37
+00:01:54,680 --> 00:02:01,159
+tool it's not the system itself it's the
+
+38
+00:01:58,039 --> 00:02:04,320
+tool you use to observe the system think
+
+39
+00:02:01,159 --> 00:02:06,799
+about if you were building software and
+
+40
+00:02:04,320 --> 00:02:08,560
+you wanted to understand which features
+
+41
+00:02:06,799 --> 00:02:10,640
+of your product your customers were
+
+42
+00:02:08,560 --> 00:02:12,599
+using so that you could choose which
+
+43
+00:02:10,640 --> 00:02:15,599
+parts of the product to continue to
+
+44
+00:02:12,599 --> 00:02:18,360
+invest in and which not how would you do
+
+45
+00:02:15,599 --> 00:02:20,840
+that well you'd need to put some hooks
+
+46
+00:02:18,360 --> 00:02:23,200
+into your application and collect a
+
+47
+00:02:20,840 --> 00:02:25,920
+bunch of telemetry and then analyze the
+
+48
+00:02:23,200 --> 00:02:28,519
+data right so you can see what's going
+
+49
+00:02:25,920 --> 00:02:32,160
+on you need to increase transparency and
+
+50
+00:02:28,519 --> 00:02:35,640
+a cand strategy is that tool for any
+
+51
+00:02:32,160 --> 00:02:37,360
+system so regardless of whether scrum is
+
+52
+00:02:35,640 --> 00:02:39,519
+your system that might be your starting
+
+53
+00:02:37,360 --> 00:02:40,720
+point or that might be where you jump to
+
+54
+00:02:39,519 --> 00:02:43,599
+right you might start from over here but
+
+55
+00:02:40,720 --> 00:02:45,840
+you jump to scrum or you've got a system
+
+56
+00:02:43,599 --> 00:02:47,720
+that you just made up right that's
+
+57
+00:02:45,840 --> 00:02:50,920
+totally cool that's what lots of people
+
+58
+00:02:47,720 --> 00:02:54,800
+do we have a system that we just made up
+
+59
+00:02:50,920 --> 00:02:59,319
+then we can use
+
+60
+00:02:54,800 --> 00:03:01,000
+caman to gain insights and understanding
+
+61
+00:02:59,319 --> 00:03:02,920
+on what what's going on in this system
+
+62
+00:03:01,000 --> 00:03:07,120
+by monitoring it by collecting some
+
+63
+00:03:02,920 --> 00:03:09,400
+Telemetry on how our work happens so
+
+64
+00:03:07,120 --> 00:03:11,879
+that we can see better what's going on
+
+65
+00:03:09,400 --> 00:03:14,239
+it's it's it's I don't understand why
+
+66
+00:03:11,879 --> 00:03:17,400
+teams try
+
+67
+00:03:14,239 --> 00:03:20,000
+and manage their system from a position
+
+68
+00:03:17,400 --> 00:03:21,959
+of opacity right they can't see what's
+
+69
+00:03:20,000 --> 00:03:25,480
+going on they're looking into the fog of
+
+70
+00:03:21,959 --> 00:03:28,400
+war and they can't see the problems
+
+71
+00:03:25,480 --> 00:03:30,959
+and a cbad strategy and particularly the
+
+72
+00:03:28,400 --> 00:03:33,720
+flow metrics part of a cand strategy and
+
+73
+00:03:30,959 --> 00:03:35,760
+the visualization of the work remove
+
+74
+00:03:33,720 --> 00:03:38,120
+that fog of War so you can see what's
+
+75
+00:03:35,760 --> 00:03:40,400
+going on you can actually see when
+
+76
+00:03:38,120 --> 00:03:42,799
+things aren't working properly and it's
+
+77
+00:03:40,400 --> 00:03:46,000
+obvious look here's a problem here I can
+
+78
+00:03:42,799 --> 00:03:50,519
+see it it's visually triggering my brain
+
+79
+00:03:46,000 --> 00:03:52,680
+and I can see it so hopefully being able
+
+80
+00:03:50,519 --> 00:03:55,120
+to see all these problems will encourage
+
+81
+00:03:52,680 --> 00:03:58,000
+you to actually do something actually
+
+82
+00:03:55,120 --> 00:03:59,799
+make a change and we're effectively not
+
+83
+00:03:58,000 --> 00:04:02,239
+implementing a cand strategy of we're
+
+84
+00:03:59,799 --> 00:04:04,079
+not improving the workflow right imp
+
+85
+00:04:02,239 --> 00:04:06,280
+improving and making changes to the
+
+86
+00:04:04,079 --> 00:04:07,879
+system in order to see the numbers
+
+87
+00:04:06,280 --> 00:04:12,799
+change in a more positive or more
+
+88
+00:04:07,879 --> 00:04:17,320
+likable manner right so caman supports
+
+89
+00:04:12,799 --> 00:04:19,320
+continuous Improvement by giving you the
+
+90
+00:04:17,320 --> 00:04:23,040
+the the the torch to shine on the
+
+91
+00:04:19,320 --> 00:04:25,280
+problem The View through it's your radar
+
+92
+00:04:23,040 --> 00:04:28,080
+that lets you see through the fog of war
+
+93
+00:04:25,280 --> 00:04:31,039
+and be able to make better decisions if
+
+94
+00:04:28,080 --> 00:04:33,320
+you're struggling to create create a
+
+95
+00:04:31,039 --> 00:04:36,520
+pool based system of work then we can
+
+96
+00:04:33,320 --> 00:04:38,600
+help you we provide worldclass cand
+
+97
+00:04:36,520 --> 00:04:40,800
+training from Pro caman as well as
+
+98
+00:04:38,600 --> 00:04:43,199
+Consulting and coaching for teams trying
+
+99
+00:04:40,800 --> 00:04:46,600
+to implement a campan strategy if you're
+
+100
+00:04:43,199 --> 00:04:48,600
+a scrum team then I we always recommend
+
+101
+00:04:46,600 --> 00:04:51,000
+bringing in flow metrics as a
+
+102
+00:04:48,600 --> 00:04:55,080
+complimentary practice and have cbang
+
+103
+00:04:51,000 --> 00:04:55,080
+classes from scrum.org as well
+
+

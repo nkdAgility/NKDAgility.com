@@ -2,14 +2,20 @@
 title: Professional Scrum Training from naked Agility with Martin Hinshelwood
 description: Join Martin Hinshelwood for professional Scrum training with naked Agility. Experience interactive learning, coaching, and a people-first culture for success!
 date: 2022-09-09T14:17:04Z
+ResourceId: vY0hXTm-wgk
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: vY0hXTm-wgk
 url: /resources/videos/:slug
 slug: professional-scrum-training-from-naked-agility-with-martin-hinshelwood
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=vY0hXTm-wgk
 aliases:
 - /resources/videos/vY0hXTm-wgk
 - /resources/videos/professional-scrum-training-from-naked-agility-with-martin-hinshelwood
 - /resources/professional-scrum-training-from-naked-agility-with-martin-hinshelwood
+- /resources/vY0hXTm-wgk
 preview: https://i.ytimg.com/vi/vY0hXTm-wgk/maxresdefault.jpg
 duration: 142
 isShort: false
@@ -18,9 +24,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube vY0hXTm-wgk >}} 
  naked Agility Limited is a professional company that offers training, coaching, mentoring, and facilitation to help people and teams evolve, integrate, and continuously improve.
 
 To allow us to focus on reflecting and practising in the classroom, our training courses leverage a flipped learning approach that delivers some or all of the theory as self-study.

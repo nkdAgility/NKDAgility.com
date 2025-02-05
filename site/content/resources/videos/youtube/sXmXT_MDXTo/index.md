@@ -2,10 +2,15 @@
 title: 'DevOps: Elevating Your Organization’s Performance Through Bespoke Solutions'
 description: Explore tailored DevOps consulting services in this video, uncovering how organisations can optimise practices for better software delivery and quality.
 date: 2024-08-16T07:18:10Z
+ResourceId: sXmXT_MDXTo
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: sXmXT_MDXTo
 source: internal
 url: /resources/videos/:slug
 slug: devops-elevating-your-organizations-performance-through-bespoke-solutions
+layout: video
 preview: https://i.ytimg.com/vi/sXmXT_MDXTo/maxresdefault.jpg
 duration: 584
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/can-you-provide-an-overview-of-your-devops-consulting-services-and-explain-who-can-benefit-the-most
 - /resources/videos/sXmXT_MDXTo
 - /resources/can-you-provide-an-overview-of-your-devops-consulting-services-and-explain-who-can-benefit-the-most
+- /resources/sXmXT_MDXTo
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -31,8 +37,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube sXmXT_MDXTo >}}
-
 In the fast-evolving world of software development and operations, no two organizations are the same. Every company, every team, and every goal is unique, requiring a tailored approach to DevOps that aligns with specific needs and objectives. In this post, we’ll explore how understanding your current state, streamlining practices, and adopting the right tools can lead to higher quality, more frequent deliveries, and reduced friction in your software development process.
 
 ## **Understanding the Current State with DevOps Reports**

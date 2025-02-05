@@ -9,6 +9,8 @@ summaryLength: 30
 enableRobotsTXT: true
 enableGitInfo: true
 
+timezone: "Europe/London"
+
 # Site-wide parameters
 params:
   description: "Technical leadership and engineering excellence for software teams. We deliver measurable outcomes through Lean, Agile, DevOps, and evidence-based methods. Experts in Azure DevOps, GitHub, .NET, Azure, and AI, we optimise value and enable smarter decisions."
@@ -18,6 +20,9 @@ params:
   og_image: "/images/og-image.jpg" # URL to the default Open Graph image
   twitter_handle: "@nkdagility" # Your Twitter handle for Twitter cards
   editURL: "https://github.com/nkdAgility/nkdagility.com/edit/main/site/content/" # URL to edit content on GitHub
+
+pagination:
+  pagerSize: 20
 
 # Enable sitemap and robots.txt
 sitemap:
@@ -74,8 +79,6 @@ cascade:
       path: /tags/**
     _build:
       render: never
-  - _build:
-      publishResources: false
 
 permalinks:
   taxonomy:

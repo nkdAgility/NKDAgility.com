@@ -1,0 +1,3 @@
+Test-driven development is not about building better code; it's about having better architectures. We create better architectures because we only create what we need to support the things that we need it to do. Doing pair programming means that we've got more eyes on the code. It feels like it's going to be less productive, but productivity is not a moment in time for the engineering team. It needs to be looked at across the whole system. 
+
+We can take what seems like a hit on productivity to do pair programming because there are two people doing things. Why can't we have them both doing their own thing? But we have less problems that we need later, which are much more expensive than the pair programming is at the start.

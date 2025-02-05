@@ -2,10 +2,15 @@
 title: 7 harbingers of the Agile apocalypse. War
 description: "Explore how internal 'wars' in organisations mirror Norse Ragnarök, revealing paths to innovation or downfall. Join Martin to navigate these conflicts! \U0001F6E1️⚔️"
 date: 2023-10-19T13:00:46Z
+ResourceId: wHGw1vmudNA
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: wHGw1vmudNA
 source: internal
 url: /resources/videos/:slug
 slug: 7-harbingers-of-the-agile-apocalypse-war
+layout: video
 preview: https://i.ytimg.com/vi/wHGw1vmudNA/maxresdefault.jpg
 duration: 158
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/war!-7-harbingers-agile-apocalypse
 - /resources/videos/wHGw1vmudNA
 - /resources/war!-7-harbingers-agile-apocalypse
+- /resources/wHGw1vmudNA
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -50,8 +56,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube wHGw1vmudNA >}}
-
 # Navigating the Treacherous Waters of Conflict: The Second Harbinger of the Agile Apocalypse
 
 The agile journey, while transformative, is fraught with challenges, one of which is the specter of conflict. Dubbed the second harbinger of the agile apocalypse, conflict, if left unchecked, can escalate into a war-like state within organizations, undermining the very essence of agility. This exploration delves into the nature of conflict in agile environments, distinguishing between constructive disagreements that fuel innovation and destructive wars that thwart collaboration.

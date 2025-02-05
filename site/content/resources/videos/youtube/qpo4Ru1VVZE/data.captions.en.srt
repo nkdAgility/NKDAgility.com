@@ -1,0 +1,249 @@
+1
+00:00:00,199 --> 00:00:08,080
+if if you're worried about compatibility
+
+2
+00:00:04,480 --> 00:00:12,280
+problems once you've moved from TFS on
+
+3
+00:00:08,080 --> 00:00:16,440
+Prem to Azure devops um I probably
+
+4
+00:00:12,280 --> 00:00:21,480
+really wouldn't worry that much about it
+
+5
+00:00:16,440 --> 00:00:24,480
+um everything that works on Prem Works
+
+6
+00:00:21,480 --> 00:00:26,199
+in aure devops um it's more the other
+
+7
+00:00:24,480 --> 00:00:28,880
+way not everything that works in aure
+
+8
+00:00:26,199 --> 00:00:31,199
+devops works on Prem where there's more
+
+9
+00:00:28,880 --> 00:00:33,840
+likely to be compatibility issues uh but
+
+10
+00:00:31,199 --> 00:00:37,480
+there are certainly if you're on an
+
+11
+00:00:33,840 --> 00:00:40,800
+older version of Team Foundation server
+
+12
+00:00:37,480 --> 00:00:44,160
+um we did a migration recently for TFS
+
+13
+00:00:40,800 --> 00:00:46,680
+2010 and they had some
+
+14
+00:00:44,160 --> 00:00:50,039
+customizations that they built they had
+
+15
+00:00:46,680 --> 00:00:52,039
+some customizations um that they' bought
+
+16
+00:00:50,039 --> 00:00:53,320
+that are just no longer a thing um
+
+17
+00:00:52,039 --> 00:00:56,239
+they're no longer a thing in newer
+
+18
+00:00:53,320 --> 00:00:57,320
+versions of on Prem TFS uh so we had to
+
+19
+00:00:56,239 --> 00:00:59,399
+plan
+
+20
+00:00:57,320 --> 00:01:00,600
+around what are they going to do
+
+21
+00:00:59,399 --> 00:01:03,000
+differently
+
+22
+00:01:00,600 --> 00:01:05,560
+when they move to the new location right
+
+23
+00:01:03,000 --> 00:01:07,320
+um because even just an upgrade of TFS
+
+24
+00:01:05,560 --> 00:01:10,400
+they're going to lose that functionality
+
+25
+00:01:07,320 --> 00:01:14,119
+and they have to upgrade TF 2010 I think
+
+26
+00:01:10,400 --> 00:01:16,960
+was out of support five years ago maybe
+
+27
+00:01:14,119 --> 00:01:19,280
+longer um so they were they were really
+
+28
+00:01:16,960 --> 00:01:20,680
+hurting for for from that perspective
+
+29
+00:01:19,280 --> 00:01:22,240
+they need to you need to be in
+
+30
+00:01:20,680 --> 00:01:25,520
+compliance if you want support data
+
+31
+00:01:22,240 --> 00:01:30,640
+Integrity these are the systems that
+
+32
+00:01:25,520 --> 00:01:34,520
+hold your company's IP right um you you
+
+33
+00:01:30,640 --> 00:01:36,720
+you you need the the the the code to be
+
+34
+00:01:34,520 --> 00:01:38,520
+able to build your product um and that
+
+35
+00:01:36,720 --> 00:01:40,159
+needs to be safe and secure this is your
+
+36
+00:01:38,520 --> 00:01:41,799
+organizational asset if you're if you
+
+37
+00:01:40,159 --> 00:01:44,560
+have any building of software going on
+
+38
+00:01:41,799 --> 00:01:47,759
+this is a very expensive asset to to to
+
+39
+00:01:44,560 --> 00:01:52,159
+work on so you need to make sure that it
+
+40
+00:01:47,759 --> 00:01:54,640
+all works um as you move up to the cloud
+
+41
+00:01:52,159 --> 00:01:56,880
+um you will have still a bunch of on
+
+42
+00:01:54,640 --> 00:01:59,960
+Prem stuff going on you probably have on
+
+43
+00:01:56,880 --> 00:02:04,079
+Prem build agents you probably have um
+
+44
+00:01:59,960 --> 00:02:07,520
+other things locally those can largely
+
+45
+00:02:04,079 --> 00:02:10,959
+just continue to function as is uh the
+
+46
+00:02:07,520 --> 00:02:14,120
+agents will just connect to uh um Azure
+
+47
+00:02:10,959 --> 00:02:16,599
+devops in the cloud and it's a one-way
+
+48
+00:02:14,120 --> 00:02:18,200
+system so the agents talk to the cloud
+
+49
+00:02:16,599 --> 00:02:19,239
+the cloud never talks to the agent so
+
+50
+00:02:18,200 --> 00:02:22,200
+you don't need to punch any holes
+
+51
+00:02:19,239 --> 00:02:25,120
+through your firewall um and then you've
+
+52
+00:02:22,200 --> 00:02:27,840
+got to consider all of your own in-house
+
+53
+00:02:25,120 --> 00:02:32,239
+customizations that you've created it's
+
+54
+00:02:27,840 --> 00:02:37,480
+very easy and has been for oh 14 15
+
+55
+00:02:32,239 --> 00:02:41,440
+years to create uh extensions plugins um
+
+56
+00:02:37,480 --> 00:02:42,519
+other systems that bounce off uh TFS uh
+
+57
+00:02:41,440 --> 00:02:45,080
+so you'll need to take into
+
+58
+00:02:42,519 --> 00:02:48,800
+consideration what are they going to do
+
+59
+00:02:45,080 --> 00:02:50,840
+in um the new model of working with the
+
+60
+00:02:48,800 --> 00:02:53,080
+cloud these are all things that you can
+
+61
+00:02:50,840 --> 00:02:55,400
+just resolve they're they're not that
+
+62
+00:02:53,080 --> 00:02:55,400
+difficult
+
+

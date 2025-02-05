@@ -1,6 +1,12 @@
 ---
 title: Falling of the TFS rehabilitation wagon...
 description: Explore the challenges and solutions of implementing TFS for project management at Aggreko, blending SharePoint 2007 with powerful tracking capabilities.
+ResourceId: xhOqFwLeKh2
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 298
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-10-19
 creator: Martin Hinshelwood
 id: "298"
@@ -9,7 +15,14 @@ resourceTypes: blog
 slug: falling-of-the-tfs-rehabilitation-wagon
 aliases:
 - /blog/falling-of-the-tfs-rehabilitation-wagon
+- /falling-of-the-tfs-rehabilitation-wagon---
+- /blog/falling-of-the-tfs-rehabilitation-wagon---
+- /resources/xhOqFwLeKh2
 - /falling-of-the-tfs-rehabilitation-wagon
+- /resources/blog/falling-of-the-tfs-rehabilitation-wagon
+aliasesFor404:
+- /falling-of-the-tfs-rehabilitation-wagon
+- /blog/falling-of-the-tfs-rehabilitation-wagon
 - /falling-of-the-tfs-rehabilitation-wagon---
 - /blog/falling-of-the-tfs-rehabilitation-wagon---
 tags:

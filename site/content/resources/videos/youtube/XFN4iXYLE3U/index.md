@@ -2,10 +2,15 @@
 title: Why Limiting Work in Progress is Key to Success in Kanban
 description: Discover how limiting work in progress (WIP) can transform your Kanban approach, boost productivity, and enhance focus in this insightful video!
 date: 2024-07-22T06:00:19Z
+ResourceId: XFN4iXYLE3U
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: XFN4iXYLE3U
 source: internal
 url: /resources/videos/:slug
 slug: why-limiting-work-in-progress-is-key-to-success-in-kanban
+layout: video
 preview: https://i.ytimg.com/vi/XFN4iXYLE3U/maxresdefault.jpg
 duration: 54
 isShort: true
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/the-secret-power-of-kanban-why-limiting-work-in-progress-(wip)-is-key-to-success
 - /resources/videos/XFN4iXYLE3U
 - /resources/the-secret-power-of-kanban-why-limiting-work-in-progress-(wip)-is-key-to-success
+- /resources/XFN4iXYLE3U
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -31,8 +37,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube XFN4iXYLE3U >}}
-
 When it comes to Kanban, many teams get excited about visualizing their work. But there's a crucial element often overlooked: **limiting work in progress (WIP)**. Without this, you're not truly practicing Kanban. Limiting WIP is fundamental to controlling your workflow, understanding the system's bottlenecks, and delivering high-quality products at a sustainable pace.
 
 In this post, I’ll delve into why limiting WIP is essential in Kanban, how it helps teams stay focused, and share personal insights on its impact on real-world projects.

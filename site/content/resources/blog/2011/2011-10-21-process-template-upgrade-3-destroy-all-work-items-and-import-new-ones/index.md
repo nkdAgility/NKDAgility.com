@@ -1,6 +1,12 @@
 ---
 title: 'Process Template Upgrade #3 - Destroy all Work Items and Import new ones'
 description: Learn how to upgrade your process template by removing old work items and importing new ones in TFS. Follow our step-by-step guide for a smooth transition!
+ResourceId: Lt6VAvnEOjb
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 3951
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2011-10-21
 creator: Martin Hinshelwood
 id: "3951"
@@ -10,6 +16,13 @@ slug: process-template-upgrade-3-destroy-all-work-items-and-import-new-ones
 aliases:
 - /blog/process-template-upgrade-3-destroy-all-work-items-and-import-new-ones
 - /process-template-upgrade-3-destroy-all-work-items-and-import-new-ones
+- /process-template-upgrade--3---destroy-all-work-items-and-import-new-ones
+- /blog/process-template-upgrade--3---destroy-all-work-items-and-import-new-ones
+- /resources/Lt6VAvnEOjb
+- /resources/blog/process-template-upgrade-3-destroy-all-work-items-and-import-new-ones
+aliasesFor404:
+- /process-template-upgrade-3-destroy-all-work-items-and-import-new-ones
+- /blog/process-template-upgrade-3-destroy-all-work-items-and-import-new-ones
 - /process-template-upgrade--3---destroy-all-work-items-and-import-new-ones
 - /blog/process-template-upgrade--3---destroy-all-work-items-and-import-new-ones
 tags:

@@ -2,10 +2,15 @@
 title: Is Your Project Ecosystem Truly Agile?
 description: Unlock true agility in product management! Discover how to break down silos, embrace automation, and maximise stakeholder value in this insightful video.
 date: 2024-07-31T06:45:01Z
+ResourceId: cGOa0rg_L-8
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: cGOa0rg_L-8
 source: internal
 url: /resources/videos/:slug
 slug: is-your-project-ecosystem-truly-agile
+layout: video
 preview: https://i.ytimg.com/vi/cGOa0rg_L-8/maxresdefault.jpg
 duration: 46
 isShort: true
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-6
 - /resources/videos/cGOa0rg_L-8
 - /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-6
+- /resources/cGOa0rg_L-8
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -27,8 +33,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube cGOa0rg_L-8 >}}
-
 In today’s fast-paced world, organizations are embracing Agile practices to remain competitive and deliver value to their customers. But here’s the catch—having Agile programming teams is only part of the equation. If these Agile teams are followed by linear, bureaucratic deployment processes, then the ecosystem is far from truly Agile. This gap can lead to delays, inefficiencies, and ultimately, a failure to deliver the value that your stakeholders expect. So, how can we ensure that our entire project ecosystem is genuinely Agile from end to end?
 
 ## **The Pitfalls of a Fragmented Agile Ecosystem**

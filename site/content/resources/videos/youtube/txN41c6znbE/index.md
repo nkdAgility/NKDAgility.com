@@ -2,10 +2,15 @@
 title: 'Where Agile Went Wrong: Understanding the Competence Crisis'
 description: "Explore the competence crisis in Agile! Discover why skilled Scrum Masters matter and how to bridge the gap for real-world success. \U0001F331\U0001F680 #AgileLeadership"
 date: 2024-10-14T07:00:38Z
+ResourceId: txN41c6znbE
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: txN41c6znbE
 source: internal
 url: /resources/videos/:slug
 slug: where-agile-went-wrong-understanding-the-competence-crisis
+layout: video
 preview: https://i.ytimg.com/vi/txN41c6znbE/maxresdefault.jpg
 duration: 1604
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/the-difference-between-a-rock-solid,-deeply-competent-scrum-master-and-a-jira-jockey
 - /resources/videos/txN41c6znbE
 - /resources/the-difference-between-a-rock-solid,-deeply-competent-scrum-master-and-a-jira-jockey
+- /resources/txN41c6znbE
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -25,8 +31,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube txN41c6znbE >}}
-
 Agile was supposed to revolutionize the way we build and deliver products, but it veered off track surprisingly early. The seeds of these challenges were planted during the creation of the Agile Manifesto itself. At Snowbird, a group of experienced and capable practitioners crafted a vision for agility in software development. However, they made some assumptions that have come to haunt us.
 
 Let’s dive into where these assumptions came from, how they shaped Agile’s early days, and why today’s landscape demands a more rigorous focus on competence and continuous learning. 🌱

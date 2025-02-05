@@ -1,6 +1,12 @@
 ---
 title: Soapbox Beta
 description: Discover Microsoft's Soapbox, a video service similar to YouTube, but with a twist! Learn about its Flash implementation and how it works through firewalls.
+ResourceId: pFTm6k2yWBc
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 352
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-07-31
 creator: Martin Hinshelwood
 id: "352"
@@ -10,6 +16,11 @@ slug: soapbox-beta
 aliases:
 - /blog/soapbox-beta
 - /soapbox-beta
+- /resources/pFTm6k2yWBc
+- /resources/blog/soapbox-beta
+aliasesFor404:
+- /soapbox-beta
+- /blog/soapbox-beta
 tags:
 - silverlight
 - tools

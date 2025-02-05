@@ -1,6 +1,12 @@
 ---
 title: OutSync with proxy servers
 description: Learn how to configure OutSync for Outlook behind a proxy server. Follow our guide to sync your contacts effortlessly and enhance your mobile experience!
+ResourceId: juUxY8REuRz
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 220
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-06-11
 creator: Martin Hinshelwood
 id: "220"
@@ -10,6 +16,11 @@ slug: outsync-with-proxy-servers
 aliases:
 - /blog/outsync-with-proxy-servers
 - /outsync-with-proxy-servers
+- /resources/juUxY8REuRz
+- /resources/blog/outsync-with-proxy-servers
+aliasesFor404:
+- /outsync-with-proxy-servers
+- /blog/outsync-with-proxy-servers
 tags:
 - fail
 categories:

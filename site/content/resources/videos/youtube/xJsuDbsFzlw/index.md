@@ -2,14 +2,20 @@
 title: What is the sprint planning workshop and how will it help organizations?
 description: 'Discover how Sprint Planning workshops from NKD Agility can empower your Scrum team for success and enhance project outcomes. #Agile #Scrum'
 date: 2023-06-29T07:00:19Z
+ResourceId: xJsuDbsFzlw
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: xJsuDbsFzlw
 url: /resources/videos/:slug
 slug: what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=xJsuDbsFzlw
 aliases:
 - /resources/videos/xJsuDbsFzlw
 - /resources/videos/what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations-
 - /resources/what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations-
+- /resources/xJsuDbsFzlw
 preview: https://i.ytimg.com/vi/xJsuDbsFzlw/maxresdefault.jpg
 duration: 198
 isShort: false
@@ -24,9 +30,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube xJsuDbsFzlw >}} 
  #sprintplanning is a critical event in #scrum. Getting it right sets the tone for a great #sprint and ensures that the team are working on the most valuable work items. Getting it wrong has serious consequences.
 
 In this short video, Martin Hinshelwood talks about the new Sprint Planning workshops on offer from NKD Agility and how they can help your #scrumteam get off to a flying start out of the sprint gates.

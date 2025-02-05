@@ -1,7 +1,14 @@
 ---
 title: From Unused Gym Memberships to Agile Implementation The Parallels of Misapplied Investments
 description: Explore the parallels between unused gym memberships and agile implementation. Discover how commitment and consistent effort drive true transformation in both realms.
+ResourceId: mzVDd2JFtHO
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 49507
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2023-08-03
+AudioNative: true
 creator: Martin Hinshelwood
 id: "49507"
 layout: blog
@@ -10,6 +17,11 @@ slug: from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misap
 aliases:
 - /blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
 - /from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
+- /resources/mzVDd2JFtHO
+- /resources/blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
+aliasesFor404:
+- /from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
+- /blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
 tags:
 - agile
 - agile-transformation

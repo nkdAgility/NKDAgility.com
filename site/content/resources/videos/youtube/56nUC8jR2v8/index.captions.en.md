@@ -1,0 +1,1 @@
+Hey everybody! Join me in about 15 minutes at 7 p.m. British Summer Time in the Future of Scotland meetup group for our session on the tyranny of Taylorism and detecting agile BS. You can check out the website; you can sign up, there is still time, and you will get our URL to join the class. Check in the comments here for the URL direct to the session. I hope to see you there!

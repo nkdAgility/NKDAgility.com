@@ -1,6 +1,12 @@
 ---
 title: What my father taught me about Evidence-based Management (34 years before it was invented!)
 description: Discover how my father's insights on Evidence-based Management transformed a failing business 34 years before its inception. Learn to optimize value and agility!
+ResourceId: gYcZPh6B2eg
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 10446
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2014-03-20
 creator: Martin Hinshelwood
 id: "10446"
@@ -10,6 +16,13 @@ slug: what-my-father-taught-me-about-agility-path-34-years-before-it-was-invente
 aliases:
 - /blog/what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented
 - /what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented
+- /what-my-father-taught-me-about-evidence-based-management-(34-years-before-it-was-invented-)
+- /blog/what-my-father-taught-me-about-evidence-based-management-(34-years-before-it-was-invented-)
+- /resources/gYcZPh6B2eg
+- /resources/blog/what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented
+aliasesFor404:
+- /what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented
+- /blog/what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented
 - /what-my-father-taught-me-about-evidence-based-management-(34-years-before-it-was-invented-)
 - /blog/what-my-father-taught-me-about-evidence-based-management-(34-years-before-it-was-invented-)
 tags:

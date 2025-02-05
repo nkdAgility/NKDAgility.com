@@ -2,14 +2,20 @@
 title: What is your favourite agile course to deliver and why?
 description: Join Martin Hinshelwood as he shares his favourite agile course, revealing why it’s a transformative experience for both him and his delegates.
 date: 2023-01-09T12:36:53Z
+ResourceId: vI2LBfMkPuk
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: vI2LBfMkPuk
 url: /resources/videos/:slug
 slug: what-is-your-favourite-agile-course-to-deliver-and-why-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=vI2LBfMkPuk
 aliases:
 - /resources/videos/vI2LBfMkPuk
 - /resources/videos/what-is-your-favourite-agile-course-to-deliver-and-why-
 - /resources/what-is-your-favourite-agile-course-to-deliver-and-why-
+- /resources/vI2LBfMkPuk
 preview: https://i.ytimg.com/vi/vI2LBfMkPuk/maxresdefault.jpg
 duration: 200
 isShort: false
@@ -24,9 +30,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube vI2LBfMkPuk >}} 
  Martin Hinshelwood has deep experience as a #softwareengineer, #agilecoach, #agileconsultant, and #professionalscrumtrainer.
 
 The years of experience working at the #agile coalface means that he is able to provide useful, real-world examples of how #agility works in a live environment and can provide war stories that help embed the knowledge and learning outcomes required for #scrumcertification.

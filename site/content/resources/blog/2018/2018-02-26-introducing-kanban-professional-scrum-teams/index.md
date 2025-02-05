@@ -1,6 +1,12 @@
 ---
 title: Introducing Kanban for Professional Scrum Teams
 description: Discover how to integrate Kanban with Scrum in our Professional Scrum with Kanban training. Enhance your team's workflow and earn your PSK certification!
+ResourceId: CucU7DN-fJ7
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 38334
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2018-02-26
 creator: Martin Hinshelwood
 id: "38334"
@@ -10,6 +16,13 @@ slug: introducing-kanban-professional-scrum-teams
 aliases:
 - /blog/introducing-kanban-professional-scrum-teams
 - /introducing-kanban-professional-scrum-teams
+- /introducing-kanban-for-professional-scrum-teams
+- /blog/introducing-kanban-for-professional-scrum-teams
+- /resources/CucU7DN-fJ7
+- /resources/blog/introducing-kanban-professional-scrum-teams
+aliasesFor404:
+- /introducing-kanban-professional-scrum-teams
+- /blog/introducing-kanban-professional-scrum-teams
 - /introducing-kanban-for-professional-scrum-teams
 - /blog/introducing-kanban-for-professional-scrum-teams
 tags:

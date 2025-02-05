@@ -2,10 +2,15 @@
 title: Most Common Thing You Hear in a PSPO Course?
 description: 'Discover the most common insights from Martin Hinshelwood in a PSPO course! Join us for a quick dive into agile excellence. #PSPO #Agile #Scrum #Shorts'
 date: 2023-06-29T11:00:18Z
+ResourceId: CdYwLGrArZU
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: CdYwLGrArZU
 source: internal
 url: /resources/videos/:slug
 slug: most-common-thing-you-hear-in-a-pspo-course
+layout: video
 preview: https://i.ytimg.com/vi/CdYwLGrArZU/maxresdefault.jpg
 duration: 56
 isShort: true
@@ -15,6 +20,7 @@ aliases:
 - /resources/videos/most-common-thing-you-hear-in-a-pspo-course-
 - /resources/videos/CdYwLGrArZU
 - /resources/most-common-thing-you-hear-in-a-pspo-course-
+- /resources/CdYwLGrArZU
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -26,8 +32,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube CdYwLGrArZU >}}
-
 ## Common Comments from the PSPO Course
 
 Over the years teaching the PSPO course, I've heard one recurring sentiment from many Product Owners that goes something like this: "We don't have that kind of control."

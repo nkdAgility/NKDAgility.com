@@ -2,10 +2,15 @@
 title: Worst Contribution from a Product Owner that You Know Of
 description: 'Discover the worst product owner performance ever witnessed! Join Martin Hinshelwood as he shares valuable lessons from poor practices. #agile #scrum #shorts'
 date: 2023-06-06T11:00:34Z
+ResourceId: ekUL1oIMeAc
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: ekUL1oIMeAc
 source: internal
 url: /resources/videos/:slug
 slug: worst-contribution-from-a-product-owner-that-you-know-of
+layout: video
 preview: https://i.ytimg.com/vi/ekUL1oIMeAc/maxresdefault.jpg
 duration: 48
 isShort: true
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/worst-contribution-from-a-product-owner-that-you-know-of-
 - /resources/videos/ekUL1oIMeAc
 - /resources/worst-contribution-from-a-product-owner-that-you-know-of-
+- /resources/ekUL1oIMeAc
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -46,8 +52,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube ekUL1oIMeAc >}}
-
 ## Product Owner's Misstep
 
 There's never a good time for a Scrum Team to be slanted, unsupported or left feeling surprised.  A Scrum Team is all about transparency, dependability and teamwork throughout good and bad situations.

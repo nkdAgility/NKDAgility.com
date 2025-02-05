@@ -2,10 +2,15 @@
 title: 'How to Be an Effective Agile Coach: Agnosticism in Practice'
 description: 'Discover the second essential achievement for aspiring #AgileCoaches with Martin Hinshelwood. Elevate your skills and empower teams to thrive!'
 date: 2023-11-14T11:00:50Z
+ResourceId: nhkUm6k4Q0A
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: nhkUm6k4Q0A
 source: internal
 url: /resources/videos/:slug
 slug: how-to-be-an-effective-agile-coach-agnosticism-in-practice
+layout: video
 preview: https://i.ytimg.com/vi/nhkUm6k4Q0A/maxresdefault.jpg
 duration: 61
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-2
 - /resources/videos/nhkUm6k4Q0A
 - /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-2
+- /resources/nhkUm6k4Q0A
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,8 +51,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube nhkUm6k4Q0A >}}
-
 If you’re looking to become a great Agile coach, one of the most crucial qualities you need to cultivate is agnosticism in your practices. While you may have your own preferences—mine happens to be Scrum—it’s important to ensure that the team you’re working with can choose the most effective practices that suit them. This may sometimes mean putting aside your favorite framework and helping the team make decisions that work best for their unique context.
 
 Let’s dive deeper into how you can be an effective Agile coach by becoming practice-agnostic and enabling your teams to make informed decisions.

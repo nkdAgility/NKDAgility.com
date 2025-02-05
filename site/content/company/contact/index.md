@@ -6,6 +6,7 @@ layout: booking
 aliases:
   - /book-online/
   - /contact/
+  - /book/
 headline:
   subtitle: Book a free consultation, training review, or just a chat
   cards: []
@@ -22,3 +23,13 @@ headline:
       icon: calendar
       content: Book in New Window
 ---
+
+Email: contact@nkdagility.com
+
+Phone:  +44 141 343 9621
+WhatsApp: https://wa.me/message/HUH4LD467QPTB1
+
+Address:
+Naked Agility Limited
+47 Ballantrae Crescent,
+Glasgow, Scotland G77 5TX

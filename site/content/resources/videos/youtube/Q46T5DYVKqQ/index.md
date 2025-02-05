@@ -2,14 +2,20 @@
 title: What is Empiricism
 description: 'Discover the essence of empiricism in Scrum! Join Martin Hinshelwood as he explains how it empowers teams to learn and adapt in complexity. #Agile #Scrum #Shorts'
 date: 2023-08-17T07:00:09Z
+ResourceId: Q46T5DYVKqQ
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: Q46T5DYVKqQ
 url: /resources/videos/:slug
 slug: what-is-empiricism
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=Q46T5DYVKqQ
 aliases:
 - /resources/videos/Q46T5DYVKqQ
 - /resources/videos/what-is-empiricism
 - /resources/what-is-empiricism
+- /resources/Q46T5DYVKqQ
 preview: https://i.ytimg.com/vi/Q46T5DYVKqQ/maxresdefault.jpg
 duration: 54
 isShort: true
@@ -27,9 +33,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube Q46T5DYVKqQ >}} 
  #shorts #shortsvideo #shortvideo #scrum is built on the foundation of #empiricism to help a #scrumteam learn and respond as they navigate complexity. In this short video, Martin Hinshelwood explains what #empircism is
 
 About NKD Agility

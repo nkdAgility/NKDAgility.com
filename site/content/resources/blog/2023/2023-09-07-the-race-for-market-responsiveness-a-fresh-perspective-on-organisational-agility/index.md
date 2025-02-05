@@ -1,7 +1,14 @@
 ---
 title: 'The Race for Market Responsiveness: A Fresh Perspective on Organisational Agility'
 description: Discover how to enhance your organization's agility and market responsiveness. Learn to pivot swiftly and seize opportunities faster than competitors.
+ResourceId: Jz5uZMzPiRx
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 49732
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2023-09-07
+AudioNative: true
 creator: Martin Hinshelwood
 id: "49732"
 layout: blog
@@ -10,6 +17,13 @@ slug: the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-a
 aliases:
 - /blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
 - /the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
+- /the-race-for-market-responsiveness--a-fresh-perspective-on-organisational-agility
+- /blog/the-race-for-market-responsiveness--a-fresh-perspective-on-organisational-agility
+- /resources/Jz5uZMzPiRx
+- /resources/blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
+aliasesFor404:
+- /the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
+- /blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
 - /the-race-for-market-responsiveness--a-fresh-perspective-on-organisational-agility
 - /blog/the-race-for-market-responsiveness--a-fresh-perspective-on-organisational-agility
 tags:

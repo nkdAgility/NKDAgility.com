@@ -2,10 +2,15 @@
 title: Under employed - 30% upfront, balance when you are employed
 description: Struggling to find your dream job? Discover NKD Agility's unique pricing for the under employed—30% upfront, balance upon employment. Watch now!
 date: 2023-06-14T07:00:18Z
+ResourceId: UeGdC6GRyq4
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: UeGdC6GRyq4
 source: internal
 url: /resources/videos/:slug
 slug: under-employed-30-upfront-balance-when-you-are-employed
+layout: video
 preview: https://i.ytimg.com/vi/UeGdC6GRyq4/maxresdefault.jpg
 duration: 257
 isShort: false
@@ -15,6 +20,7 @@ aliases:
 - /resources/videos/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed-
 - /resources/videos/UeGdC6GRyq4
 - /resources/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed-
+- /resources/UeGdC6GRyq4
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -29,8 +35,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube UeGdC6GRyq4 >}}
-
 ## It's Your Time to Shine: Pay 30% Up Front, Balance When You Land the Job 
 
 Have you ever felt like a race car stuck in traffic? 🏎️ You've got the horsepower – the skills, the degree, maybe even the experience – but somehow, you're not zooming along the career highway as you should be. Welcome to the world of the underemployed. It's more common than you think and, boy, does it sting. 

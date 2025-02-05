@@ -2,15 +2,21 @@
 title: Monitoring and Measuring for Success
 description: Discover how to shift from traditional budgeting to hypothesis-driven product development for maximum impact with Martin Hinshelwood from NKD Agility.
 date: 2024-12-11T06:30:00Z
+ResourceId: Ig-HpUfQr3M
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: Ig-HpUfQr3M
 source: youtube
 url: /resources/videos/:slug
 slug: monitoring-and-measuring-for-success
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=Ig-HpUfQr3M
 aliases:
 - /resources/videos/Ig-HpUfQr3M
 - /resources/videos/monitoring-and-measuring-for-success
 - /resources/monitoring-and-measuring-for-success
+- /resources/Ig-HpUfQr3M
 preview: https://i9.ytimg.com/vi/Ig-HpUfQr3M/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLACFsGXtu1B4-DDKlhw6S8Y18Zr0w
 duration: 501
 isShort: false
@@ -33,9 +39,10 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube Ig-HpUfQr3M >}} 
  Hypothesis-Driven Product Development: Allocating Budget for Maximum Impact | Martin Hinshelwood
 
 👋 Hi, I’m Martin Hinshelwood from NKD Agility, and in this video, I explore the critical shift organizations need to make from traditional budgeting to hypothesis-driven product development. Instead of focusing on “staying within budget,” this approach emphasizes iterative learning, informed decision-making, and maximizing value by testing ideas early and often.

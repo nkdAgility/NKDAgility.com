@@ -2,14 +2,20 @@
 title: How much of a competitive edge will the immersive PSM course deliver to delegates?
 description: Discover how our immersive 7-week Professional Scrum Master course gives you a competitive edge over traditional workshops. Elevate your team's skills today!
 date: 2023-07-13T07:41:01Z
+ResourceId: cb6JpfomYRU
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: cb6JpfomYRU
 url: /resources/videos/:slug
 slug: how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=cb6JpfomYRU
 aliases:
 - /resources/videos/cb6JpfomYRU
 - /resources/videos/how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates-
 - /resources/how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates-
+- /resources/cb6JpfomYRU
 preview: https://i.ytimg.com/vi/cb6JpfomYRU/maxresdefault.jpg
 duration: 353
 isShort: false
@@ -27,9 +33,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube cb6JpfomYRU >}} 
  The immersive learning experiences were developed to help raise the standard of a #scrummaster entering the industry, and to provide additional value for organizations that wanted to really upskill their teams.
 
 In this short video, Kanban Dan talks about the competitive advantage you can achieve through the immersive learning 7-week Professional Scrum Master course when compared to a 2-day workshop.

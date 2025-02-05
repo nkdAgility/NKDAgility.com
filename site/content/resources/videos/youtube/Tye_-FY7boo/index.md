@@ -2,10 +2,15 @@
 title: 'Vision, Value, and Validation: The Keys to Successful Product Management'
 description: "Unlock the secrets of successful product ownership! Discover Vision, Value, and Validation in our essential guide for aspiring product owners. \U0001F680✨"
 date: 2023-12-14T06:45:02Z
+ResourceId: Tye_-FY7boo
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: Tye_-FY7boo
 source: internal
 url: /resources/videos/:slug
 slug: vision-value-and-validation-the-keys-to-successful-product-management
+layout: video
 preview: https://i.ytimg.com/vi/Tye_-FY7boo/maxresdefault.jpg
 duration: 293
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-2
 - /resources/videos/Tye_-FY7boo
 - /resources/5-things-you-would-teach-a-productowner-apprentice-part-2
+- /resources/Tye_-FY7boo
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,8 +51,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube Tye_-FY7boo >}}
-
 In the world of Agile, transitioning from traditional project management to product management is an exciting but often challenging journey. For new Product Owners, one of the most crucial lessons to learn is the importance of **Vision, Value, and Validation**. These three pillars fill the vacuum left when we move away from project management frameworks, such as Gantt charts and milestones, that may no longer serve a product-focused organization.
 
 If you’re a new Product Owner, understanding these concepts and how to implement them will set the foundation for success. Let's break it down.

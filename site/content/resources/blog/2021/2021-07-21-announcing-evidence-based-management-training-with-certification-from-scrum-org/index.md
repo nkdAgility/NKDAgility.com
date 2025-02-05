@@ -1,6 +1,12 @@
 ---
 title: Announcing Professional Agile Leadership with Evidence-Based Management Training  (PAL-EBM) from Scrum.org
 description: Join the Professional Agile Leadership with Evidence-Based Management Training from Scrum.org. Enhance your leadership skills and create tailored metrics for success!
+ResourceId: XuePm2RAZa0
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 46257
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2021-07-21
 creator: Martin Hinshelwood
 id: "46257"
@@ -12,11 +18,20 @@ aliases:
 - /announcing-evidence-based-management-training-with-certification-from-scrum-org
 - /announcing-professional-agile-leadership-with-evidence-based-management-training-(pal-ebm)-from-scrum-org
 - /blog/announcing-professional-agile-leadership-with-evidence-based-management-training-(pal-ebm)-from-scrum-org
+- /resources/XuePm2RAZa0
+- /resources/blog/announcing-evidence-based-management-training-with-certification-from-scrum-org
+aliasesFor404:
+- /announcing-evidence-based-management-training-with-certification-from-scrum-org
+- /blog/announcing-evidence-based-management-training-with-certification-from-scrum-org
+- /announcing-professional-agile-leadership-with-evidence-based-management-training--(pal-ebm)-from-scrum-org
+- /blog/announcing-professional-agile-leadership-with-evidence-based-management-training--(pal-ebm)-from-scrum-org
+- /announcing-professional-agile-leadership-with-evidence-based-management-training-(pal-ebm)-from-scrum-org
+- /blog/announcing-professional-agile-leadership-with-evidence-based-management-training-(pal-ebm)-from-scrum-org
 tags:
 - annoucement
 categories:
 - agility
-preview: Professional-Agile-Leadership-Evidence-Based-Management-6-6.jpg
+preview: images/Professional-Agile-Leadership-Evidence-Based-Management-6-6.jpg
 
 ---
 I have been an [accredited Evidence-based Management Expert with Scrum.org](https://www.scrum.org/ebm-experts) for the last 7 years and I have been using the [Evidence-based Management Guide](https://nkdagility.com/the-evidence-based-management-guide-measuring-value-to-enable-improvement-and-agility/) to encourage leaders to make decisions based on evidence instead of gut feel.

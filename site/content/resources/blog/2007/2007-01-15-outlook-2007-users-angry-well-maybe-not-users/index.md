@@ -1,6 +1,12 @@
 ---
 title: Outlook 2007 users angry? Well maybe not users.
 description: Discover why the uproar over Outlook 2007 changes may not concern users. Embrace the evolution of email as documents for better organization and efficiency.
+ResourceId: JdM99GWW5Pw
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 442
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-01-15
 creator: Martin Hinshelwood
 id: "442"
@@ -10,6 +16,13 @@ slug: outlook-2007-users-angry-well-maybe-not-users
 aliases:
 - /blog/outlook-2007-users-angry-well-maybe-not-users
 - /outlook-2007-users-angry-well-maybe-not-users
+- /outlook-2007-users-angry--well-maybe-not-users-
+- /blog/outlook-2007-users-angry--well-maybe-not-users-
+- /resources/JdM99GWW5Pw
+- /resources/blog/outlook-2007-users-angry-well-maybe-not-users
+aliasesFor404:
+- /outlook-2007-users-angry-well-maybe-not-users
+- /blog/outlook-2007-users-angry-well-maybe-not-users
 - /outlook-2007-users-angry--well-maybe-not-users-
 - /blog/outlook-2007-users-angry--well-maybe-not-users-
 tags:

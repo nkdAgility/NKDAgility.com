@@ -2,15 +2,21 @@
 title: What are 3 things you would recommend for a scrum team who are struggling to get work completed?
 description: "Master Sprint planning with expert tips on defining 'done', avoiding overload, and managing technical debt for a more agile team! \U0001F680 #Scrum #Agile"
 date: 2023-11-16T07:00:16Z
+ResourceId: ks38bwDTVfM
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: ks38bwDTVfM
 source: youtube
 url: /resources/videos/:slug
 slug: what-are-3-things-you-would-recommend-for-a-scrum-team-who-are-struggling-to-get-work-completed-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=ks38bwDTVfM
 aliases:
 - /resources/videos/ks38bwDTVfM
 - /resources/videos/what-are-3-things-you-would-recommend-for-a-scrum-team-who-are-struggling-to-get-work-completed-
 - /resources/what-are-3-things-you-would-recommend-for-a-scrum-team-who-are-struggling-to-get-work-completed-
+- /resources/ks38bwDTVfM
 preview: https://i.ytimg.com/vi/ks38bwDTVfM/maxresdefault.jpg
 duration: 344
 isShort: false
@@ -41,9 +47,10 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube ks38bwDTVfM >}} 
  Sprint Planning Mastery: Avoiding Overload & Perfecting Your Process
 
 Discover the key to seamless Sprint planning with our expert tips on defining 'done', balancing workload, and strategic foresight.

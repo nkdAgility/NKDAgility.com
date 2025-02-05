@@ -1,6 +1,12 @@
 ---
 title: 'Office 2010 gotcha 2: Visual Studio 2008 Locks'
 description: Discover how to resolve Visual Studio 2008 locks after installing Office 2010. Follow this simple fix to enhance your development experience!
+ResourceId: nGYbw5F1t5Y
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 100
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-07-19
 creator: Martin Hinshelwood
 id: "100"
@@ -10,6 +16,13 @@ slug: office-2010-gotcha-2-visual-studio-2008-locks
 aliases:
 - /blog/office-2010-gotcha-2-visual-studio-2008-locks
 - /office-2010-gotcha-2-visual-studio-2008-locks
+- /office-2010-gotcha-2--visual-studio-2008-locks
+- /blog/office-2010-gotcha-2--visual-studio-2008-locks
+- /resources/nGYbw5F1t5Y
+- /resources/blog/office-2010-gotcha-2-visual-studio-2008-locks
+aliasesFor404:
+- /office-2010-gotcha-2-visual-studio-2008-locks
+- /blog/office-2010-gotcha-2-visual-studio-2008-locks
 - /office-2010-gotcha-2--visual-studio-2008-locks
 - /blog/office-2010-gotcha-2--visual-studio-2008-locks
 tags:

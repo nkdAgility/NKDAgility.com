@@ -1,6 +1,12 @@
 ---
 title: 'TFS 2012 Issue: Some features of Team Web Access are not visible to you'
 description: Discover how to resolve the TFS 2012 issue of missing Team Web Access features. Learn about licensing requirements and enhance your admin experience!
+ResourceId: bqwr6oBwO6C
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 7094
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2012-08-08
 creator: Martin Hinshelwood
 id: "7094"
@@ -10,6 +16,13 @@ slug: tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you
 aliases:
 - /blog/tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you
 - /tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you
+- /tfs-2012-issue--some-features-of-team-web-access-are-not-visible-to-you
+- /blog/tfs-2012-issue--some-features-of-team-web-access-are-not-visible-to-you
+- /resources/bqwr6oBwO6C
+- /resources/blog/tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you
+aliasesFor404:
+- /tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you
+- /blog/tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you
 - /tfs-2012-issue--some-features-of-team-web-access-are-not-visible-to-you
 - /blog/tfs-2012-issue--some-features-of-team-web-access-are-not-visible-to-you
 tags:

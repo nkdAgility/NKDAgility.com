@@ -2,10 +2,15 @@
 title: Addressing Systemic Issues in Agile Organizations
 description: Unlock the secrets to startup success! Discover how agile techniques can transform your business and boost team performance in this must-watch video.
 date: 2024-01-24T07:00:16Z
+ResourceId: QBX7dnUBzo8
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: QBX7dnUBzo8
 source: internal
 url: /resources/videos/:slug
 slug: addressing-systemic-issues-in-agile-organizations
+layout: video
 preview: https://i.ytimg.com/vi/QBX7dnUBzo8/maxresdefault.jpg
 duration: 349
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/agile-techniques-that-boost-startups!
 - /resources/videos/QBX7dnUBzo8
 - /resources/agile-techniques-that-boost-startups!
+- /resources/QBX7dnUBzo8
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,8 +51,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube QBX7dnUBzo8 >}}
-
 Organizations often struggle to address the root causes of inefficiencies, particularly when adopting Agile practices. Instead of tackling the core issues within their systems, they focus on surface-level problems. This blog post will explore these systemic issues and provide insights on how to make meaningful changes that lead to greater effectiveness and agility.
 
 ## **Facing the Real Problems**

@@ -1,0 +1,3 @@
+Microsoft actually provide a tool that you run against your database that will tell you almost all of the things that are going to be wrong and how to fix them. So it's a case of just working through all of those stories. 
+
+Um, so there's some customizations that aren't going to work in the cloud. There's quite a few custom field setups or backend customizations that are not going to be able to work because you have no access to the back end. Those would need to be rewritten, but luckily they can be rewritten prior to the migration.

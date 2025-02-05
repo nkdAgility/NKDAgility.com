@@ -2,10 +2,15 @@
 title: What are the top 3 things a Scrum Master needs to bear in mind when adopting the coaching stance?
 description: "Discover the top 2 essentials for Scrum Masters in coaching agile teams: the art of listening and the power of credibility. Elevate your coaching game! \U0001F3A7\U0001F91D"
 date: 2023-09-18T07:00:32Z
+ResourceId: v1sMbKpQndU
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: v1sMbKpQndU
 source: internal
 url: /resources/videos/:slug
 slug: what-are-the-top-3-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
+layout: video
 preview: https://i.ytimg.com/vi/v1sMbKpQndU/maxresdefault.jpg
 duration: 164
 isShort: false
@@ -15,6 +20,7 @@ aliases:
 - /resources/videos/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance-
 - /resources/videos/v1sMbKpQndU
 - /resources/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance-
+- /resources/v1sMbKpQndU
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -33,8 +39,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube v1sMbKpQndU >}}
-
 ## The Agile Landscape: A Guide to Effective Coaching and Leadership 
 
 Agile methodologies have transformed the landscape of project management and team dynamics, emphasising adaptability, collaboration, and continuous improvement.  

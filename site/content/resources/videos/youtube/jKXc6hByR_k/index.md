@@ -2,15 +2,21 @@
 title: Your Partner in On Time, On Budget Delivery
 description: Unlock your team's potential! Join Martin Hinshelwood as he reveals how to maximise ROI through high-quality work and agile practices.
 date: 2024-12-13T06:30:00Z
+ResourceId: jKXc6hByR_k
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: jKXc6hByR_k
 source: youtube
 url: /resources/videos/:slug
 slug: your-partner-in-on-time,-on-budget-delivery
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=jKXc6hByR_k
 aliases:
 - /resources/videos/jKXc6hByR_k
 - /resources/videos/your-partner-in-on-time,-on-budget-delivery
 - /resources/your-partner-in-on-time,-on-budget-delivery
+- /resources/jKXc6hByR_k
 preview: https://i9.ytimg.com/vi/jKXc6hByR_k/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLC_neJQ7HQOO8CRb5RGMzl5ZAqXnA
 duration: 172
 isShort: false
@@ -34,9 +40,10 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube jKXc6hByR_k >}} 
  Building High-Value Teams and Maximizing ROI with Naked Agility | Martin Hinshelwood
 
 👋 Hi, I’m Martin Hinshelwood from NKD Agility, and in this video, I explore how organizations can maximize their return on investment (ROI) by fostering high-quality work and hypothesis-driven practices across all levels—from engineering teams to executive leadership. If you’re looking to turn your software products into organizational assets that continuously deliver value, this video is for you.

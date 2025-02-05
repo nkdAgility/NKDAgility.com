@@ -2,14 +2,20 @@
 title: Judgement! 7 Harbingers agile apocalypse. But shorter!
 description: Discover how informed judgement shapes your agile journey! Join Martin Hinshelwood as he uncovers the pitfalls of poor decision-making.
 date: 2023-11-01T11:30:27Z
+ResourceId: xk11NhTA_V8
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: xk11NhTA_V8
 url: /resources/videos/:slug
 slug: judgement!-7-harbingers-agile-apocalypse-but-shorter!
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=xk11NhTA_V8
 aliases:
 - /resources/videos/xk11NhTA_V8
 - /resources/videos/judgement!-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/judgement!-7-harbingers-agile-apocalypse-but-shorter!
+- /resources/xk11NhTA_V8
 preview: https://i.ytimg.com/vi/xk11NhTA_V8/maxresdefault.jpg
 duration: 72
 isShort: false
@@ -44,9 +50,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube xk11NhTA_V8 >}} 
  If you're fortunate, your journey to wisdom and excellence is informed by learning, coaching, and mentoring. In other words, your judgement is informed by experts who help guide you through the maze and onto solid ground.
 
 Full video: https://youtu.be/FdQpGx-FW-0

@@ -2,10 +2,15 @@
 title: What should you do if your Sprint Review delivers harsh, scathing feedback?
 description: "Master Sprint reviews with confidence! Learn to turn harsh feedback into actionable insights and align with stakeholders for product success. \U0001F680"
 date: 2023-09-08T07:00:07Z
+ResourceId: LpiLOBG7WgI
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: LpiLOBG7WgI
 source: internal
 url: /resources/videos/:slug
 slug: what-should-you-do-if-your-sprint-review-delivers-harsh-scathing-feedback
+layout: video
 preview: https://i.ytimg.com/vi/LpiLOBG7WgI/maxresdefault.jpg
 duration: 224
 isShort: false
@@ -15,6 +20,7 @@ aliases:
 - /resources/videos/what-should-you-do-if-your-sprint-review-delivers-harsh,-scathing-feedback
 - /resources/videos/LpiLOBG7WgI
 - /resources/what-should-you-do-if-your-sprint-review-delivers-harsh,-scathing-feedback
+- /resources/LpiLOBG7WgI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -38,8 +44,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube LpiLOBG7WgI >}}
-
 ## Navigating Harsh Feedback in Sprint Reviews – An Agile Approach🚀 
 
 In the Agile world, Sprint reviews are pivotal events where feedback can be a gold mine... or a minefield.  

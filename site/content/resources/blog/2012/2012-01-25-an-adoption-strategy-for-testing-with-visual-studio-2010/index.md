@@ -1,6 +1,12 @@
 ---
 title: An adoption strategy for testing with Visual Studio 2010
 description: Discover effective adoption strategies for Microsoft Test Manager in Visual Studio 2010. Enhance collaboration between developers and testers for better results!
+ResourceId: InqupQ5d983
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 4223
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2012-01-25
 creator: Martin Hinshelwood
 id: "4223"
@@ -10,6 +16,11 @@ slug: an-adoption-strategy-for-testing-with-visual-studio-2010
 aliases:
 - /blog/an-adoption-strategy-for-testing-with-visual-studio-2010
 - /an-adoption-strategy-for-testing-with-visual-studio-2010
+- /resources/InqupQ5d983
+- /resources/blog/an-adoption-strategy-for-testing-with-visual-studio-2010
+aliasesFor404:
+- /an-adoption-strategy-for-testing-with-visual-studio-2010
+- /blog/an-adoption-strategy-for-testing-with-visual-studio-2010
 tags:
 - mtm
 - nwcadence

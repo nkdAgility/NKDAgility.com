@@ -1,6 +1,12 @@
 ---
 title: Live Virtual Classroom's and the new normal
 description: Explore the shift to Live Virtual Classrooms and discover how they enhance learning experiences, making training more accessible and effective in the new normal.
+ResourceId: wS3GaFbyzDv
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 44418
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2020-06-18
 creator: Martin Hinshelwood
 id: "44418"
@@ -10,6 +16,13 @@ slug: live-virtual-classrooms-and-the-new-normal
 aliases:
 - /blog/live-virtual-classrooms-and-the-new-normal
 - /live-virtual-classrooms-and-the-new-normal
+- /live-virtual-classroom's-and-the-new-normal
+- /blog/live-virtual-classroom's-and-the-new-normal
+- /resources/wS3GaFbyzDv
+- /resources/blog/live-virtual-classrooms-and-the-new-normal
+aliasesFor404:
+- /live-virtual-classrooms-and-the-new-normal
+- /blog/live-virtual-classrooms-and-the-new-normal
 - /live-virtual-classroom's-and-the-new-normal
 - /blog/live-virtual-classroom's-and-the-new-normal
 tags:

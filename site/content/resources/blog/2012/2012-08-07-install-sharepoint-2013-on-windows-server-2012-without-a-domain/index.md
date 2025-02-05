@@ -1,6 +1,12 @@
 ---
 title: Install SharePoint 2013 on Windows Server 2012 without a domain
 description: Learn how to install SharePoint 2013 on Windows Server 2012 without a domain. Follow our expert tips for a smooth setup and configuration process.
+ResourceId: nNzrXud9z_l
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 7067
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2012-08-07
 creator: Martin Hinshelwood
 id: "7067"
@@ -10,6 +16,11 @@ slug: install-sharepoint-2013-on-windows-server-2012-without-a-domain
 aliases:
 - /blog/install-sharepoint-2013-on-windows-server-2012-without-a-domain
 - /install-sharepoint-2013-on-windows-server-2012-without-a-domain
+- /resources/nNzrXud9z_l
+- /resources/blog/install-sharepoint-2013-on-windows-server-2012-without-a-domain
+aliasesFor404:
+- /install-sharepoint-2013-on-windows-server-2012-without-a-domain
+- /blog/install-sharepoint-2013-on-windows-server-2012-without-a-domain
 tags:
 - configuration
 - infrastructure

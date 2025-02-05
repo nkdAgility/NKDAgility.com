@@ -2,6 +2,10 @@
 title: What has the initial response been to the immersive learning experiences, how do you see that evolving?
 description: Discover the buzz around our new immersive learning experiences for Scrum! Join Martin Hinshelwood as he shares initial feedback and future insights.
 date: 2023-08-28T07:00:05Z
+ResourceId: 6D6QTjSrJ14
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: 6D6QTjSrJ14
 source: internal
 url: /resources/videos/:slug
@@ -15,6 +19,7 @@ aliases:
 - /resources/videos/what-has-the-initial-response-been-to-the-immersive-learning-experiences-
 - /resources/videos/6D6QTjSrJ14
 - /resources/what-has-the-initial-response-been-to-the-immersive-learning-experiences-
+- /resources/6D6QTjSrJ14
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -31,10 +36,9 @@ tags:
 - immersive learning courses
 resourceTypes:
 - video
+layout: video
 
 ---
-{{< youtube 6D6QTjSrJ14 >}}
-
 ## Embracing the Shift: Why Immersive Learning is the Future of Professional Development 
 
 The landscape of professional development is undergoing a seismic shift, and the tremors are all about immersive learning. In a world where two-day workshops are increasingly feeling like archaic relics of a bygone era, this innovative approach is changing the game – and for good reason. 🌍💼 

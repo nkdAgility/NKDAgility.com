@@ -1,6 +1,12 @@
 ---
 title: Team System Widgets
 description: Discover essential applications for Team System to enhance your TFS experience. Explore updates and insights on TeamPlain and more to boost your productivity!
+ResourceId: P5ilJfzSeMk
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 445
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-01-10
 creator: Martin Hinshelwood
 id: "445"
@@ -10,6 +16,11 @@ slug: team-system-widgets
 aliases:
 - /blog/team-system-widgets
 - /team-system-widgets
+- /resources/P5ilJfzSeMk
+- /resources/blog/team-system-widgets
+aliasesFor404:
+- /team-system-widgets
+- /blog/team-system-widgets
 tags:
 - tfs
 

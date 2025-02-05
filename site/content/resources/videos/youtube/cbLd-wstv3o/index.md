@@ -2,10 +2,15 @@
 title: How to Discover Unrealized Value in Your Product
 description: "Discover 5 compelling reasons to implement Evidence-Based Management (EBM) in your environment and unlock your product's unrealised potential! #EBM #Shorts"
 date: 2024-01-24T11:00:29Z
+ResourceId: cbLd-wstv3o
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: cbLd-wstv3o
 source: internal
 url: /resources/videos/:slug
 slug: how-to-discover-unrealized-value-in-your-product
+layout: video
 preview: https://i.ytimg.com/vi/cbLd-wstv3o/maxresdefault.jpg
 duration: 53
 isShort: true
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-3
 - /resources/videos/cbLd-wstv3o
 - /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-3
+- /resources/cbLd-wstv3o
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,8 +51,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube cbLd-wstv3o >}}
-
 When developing a product, it’s natural to focus on delivering value as efficiently as possible. But have you ever wondered what additional value you could be achieving but haven’t yet? How do you uncover those hidden opportunities to take your product to the next level? That’s where Evidence-Based Management (EBM) comes into play.
 
 In this post, we’ll explore how EBM can help you find unrealized value in your product, using key metrics and practical approaches to help you improve and deliver even more value to your customers.

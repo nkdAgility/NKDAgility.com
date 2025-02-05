@@ -2,6 +2,10 @@
 title: 6 things you didn't know about Agile Product Management but really should Part 2
 description: "Unlock your team's potential! Discover 6 crucial insights on Agile Product Management to align vision and strategy for maximum impact. \U0001F3AF\U0001F4C8"
 date: 2024-07-03T06:45:00Z
+ResourceId: 2tlzlsgovy0
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: 2tlzlsgovy0
 url: /resources/videos/:slug
 slug: 6-things-you-didn't-know-about-agile-product-management-but-really-should-part-2
@@ -10,6 +14,7 @@ aliases:
 - /resources/videos/2tlzlsgovy0
 - /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-2
 - /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-2
+- /resources/2tlzlsgovy0
 preview: https://i.ytimg.com/vi/2tlzlsgovy0/maxresdefault.jpg
 duration: 56
 isShort: true
@@ -21,9 +26,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+layout: video
+resourceTypes:
+- video
 
 ---
-{{< youtube 2tlzlsgovy0 >}} 
  Visit https://www.nkdagility.com Is your team truly Agile? Do your team members clearly understand the product vision and how their daily work contributes to your strategic goals? 🎯
 
 In this video, we dive deep into the importance of aligning your team with a clear product vision and strategic goals. We'll discuss:

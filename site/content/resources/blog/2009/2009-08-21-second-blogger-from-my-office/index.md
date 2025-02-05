@@ -1,6 +1,12 @@
 ---
 title: Second blogger from my office
 description: Discover the journey of my colleague Roddy as he navigates corporate blogging. Check out his insightful first post on SQL Server functions!
+ResourceId: uzDvrUVCXdK
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 89
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-08-21
 creator: Martin Hinshelwood
 id: "89"
@@ -10,6 +16,11 @@ slug: second-blogger-from-my-office
 aliases:
 - /blog/second-blogger-from-my-office
 - /second-blogger-from-my-office
+- /resources/uzDvrUVCXdK
+- /resources/blog/second-blogger-from-my-office
+aliasesFor404:
+- /second-blogger-from-my-office
+- /blog/second-blogger-from-my-office
 tags:
 - aggreko
 categories:

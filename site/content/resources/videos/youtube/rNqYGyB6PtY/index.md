@@ -2,10 +2,15 @@
 title: What Should a Product Owner Do with an Incompetent Team?
 description: "Struggling with a team that underperforms? Discover how to identify true incompetence vs. lack of knowledge in this insightful video! \U0001F4BC\U0001F680 #LeadershipSkills"
 date: 2023-10-26T14:30:26Z
+ResourceId: rNqYGyB6PtY
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: rNqYGyB6PtY
 source: internal
 url: /resources/videos/:slug
 slug: what-should-a-product-owner-do-with-an-incompetent-team
+layout: video
 preview: https://i.ytimg.com/vi/rNqYGyB6PtY/maxresdefault.jpg
 duration: 386
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/what-does-a-product-owner-do-if-the-team-are-incompetent-
 - /resources/videos/rNqYGyB6PtY
 - /resources/what-does-a-product-owner-do-if-the-team-are-incompetent-
+- /resources/rNqYGyB6PtY
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,8 +49,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube rNqYGyB6PtY >}}
-
 As a product owner, you might sometimes face the challenge of working with a team that isn't meeting expectations. Incompetence in a team can be frustrating, but it’s essential to approach the situation thoughtfully and strategically before taking any drastic steps. So, what should you do if you find yourself in this predicament? Let’s dive into it.
 
 ## **🧐 First Things First: Define “Incompetence”**

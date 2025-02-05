@@ -2,10 +2,15 @@
 title: When is an APS course appropriate for a scrum team?
 description: "Discover when the APS course is ideal for Scrum teams and how it tailors Scrum practices to your organisation's unique needs. \U0001F4DA\U0001F680"
 date: 2023-10-12T08:32:45Z
+ResourceId: HrJMsZZQl_g
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: HrJMsZZQl_g
 source: internal
 url: /resources/videos/:slug
 slug: when-is-an-aps-course-appropriate-for-a-scrum-team
+layout: video
 preview: https://i.ytimg.com/vi/HrJMsZZQl_g/maxresdefault.jpg
 duration: 234
 isShort: false
@@ -15,6 +20,7 @@ aliases:
 - /resources/videos/when-is-an-aps-course-appropriate-for-a-scrum-team-
 - /resources/videos/HrJMsZZQl_g
 - /resources/when-is-an-aps-course-appropriate-for-a-scrum-team-
+- /resources/HrJMsZZQl_g
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -48,8 +54,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube HrJMsZZQl_g >}}
-
 ## Empowering Teams with the APS Approach: Elevating Your Scrum Journey
 
 In the dynamic and ever-evolving realm of Scrum, where teams and organisations strive to harness their full potential, the Applied Professional Scrum (APS) stands out as a guiding light for authentic Scrum Mastery.  💡

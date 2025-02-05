@@ -2,14 +2,20 @@
 title: 7 signs of the agile apocalypse. Silence
 description: 'Discover the 7 signs of the #Agile apocalypse! Silence can signal disaster in #Agile. Join Martin Hinshelwood to learn why stillness matters. #shorts'
 date: 2023-11-10T06:45:01Z
+ResourceId: WpsGLkTXalE
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: WpsGLkTXalE
 url: /resources/videos/:slug
 slug: 7-signs-of-the-agile-apocalypse-silence
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=WpsGLkTXalE
 aliases:
 - /resources/videos/WpsGLkTXalE
 - /resources/videos/7-signs-of-the-agile-apocalypse-silence
 - /resources/7-signs-of-the-agile-apocalypse-silence
+- /resources/WpsGLkTXalE
 preview: https://i.ytimg.com/vi/WpsGLkTXalE/maxresdefault.jpg
 duration: 50
 isShort: true
@@ -41,9 +47,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube WpsGLkTXalE >}} 
  #shorts #shortsvideo #shortvideo Stillness is key to great work. The ability to reflect, do the deep work, and remain calm is a super power. That said, in the realms of #agile, Silence can be harbinger of disaster. Martin Hinshelwood explains why.
 
 About NKD Agility

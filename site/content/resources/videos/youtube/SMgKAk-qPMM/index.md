@@ -2,10 +2,15 @@
 title: 'Temperance in Agile: Why Less is More'
 description: "Master the art of balance in Agile with our video on Temperance! Discover how moderation maximises efficiency and elevates your Agile practices. \U0001F31F"
 date: 2023-12-05T07:00:10Z
+ResourceId: SMgKAk-qPMM
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: SMgKAk-qPMM
 source: internal
 url: /resources/videos/:slug
 slug: temperance-in-agile-why-less-is-more
+layout: video
 preview: https://i.ytimg.com/vi/SMgKAk-qPMM/maxresdefault.jpg
 duration: 154
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/7-virtues-of-agile-temperance
 - /resources/videos/SMgKAk-qPMM
 - /resources/7-virtues-of-agile-temperance
+- /resources/SMgKAk-qPMM
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,8 +51,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube SMgKAk-qPMM >}}
-
 In the fast-paced world of Agile, it's easy to fall into the trap of doing too much. Whether it's overloading your backlog, over-refining, or over-planning, too much of anything can be a bad thing. One of the key virtues that we embrace in Agile is **temperance**—the art of taking everything in moderation.
 
 The principle of temperance reminds us that we must balance our efforts, focus on what truly matters, and avoid overcomplicating processes. This is particularly relevant when it comes to managing our backlogs and planning our sprints. In this post, we’ll dive deeper into what it means to apply temperance in Agile and share practical insights on how to strike the perfect balance in your Scrum practices.

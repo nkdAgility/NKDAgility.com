@@ -2,10 +2,15 @@
 title: What does a poor scrum team look, act and feel like?
 description: Discover the signs of a struggling Scrum team and learn how to harness the full potential of the Scrum framework for better productivity and success.
 date: 2023-01-27T07:00:16Z
+ResourceId: irSqFAJNJ9c
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: irSqFAJNJ9c
 source: internal
 url: /resources/videos/:slug
 slug: what-does-a-poor-scrum-team-look-act-and-feel-like
+layout: video
 preview: https://i.ytimg.com/vi/irSqFAJNJ9c/maxresdefault.jpg
 duration: 390
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/what-does-a-poor-scrum-team-look,-act-and-feel-like-
 - /resources/videos/irSqFAJNJ9c
 - /resources/what-does-a-poor-scrum-team-look,-act-and-feel-like-
+- /resources/irSqFAJNJ9c
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -28,8 +34,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube irSqFAJNJ9c >}}
-
 Sure, there are poor practices that impact **scrum teams**, but I tend to focus on the outcomes to determine whether a **scrum team** is failing or progressing.
 
 <figure>

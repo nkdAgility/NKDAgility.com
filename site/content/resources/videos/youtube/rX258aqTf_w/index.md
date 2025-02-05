@@ -2,10 +2,15 @@
 title: In what circumstances is agile consulting appropriate?
 description: Discover when to engage an agile consultant to enhance your team's collaboration and creativity in this insightful video with Martin Hinshelwood.
 date: 2023-01-06T04:52:40Z
+ResourceId: rX258aqTf_w
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: rX258aqTf_w
 source: internal
 url: /resources/videos/:slug
 slug: in-what-circumstances-is-agile-consulting-appropriate
+layout: video
 preview: https://i.ytimg.com/vi/rX258aqTf_w/maxresdefault.jpg
 duration: 318
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/in-what-circumstances-is-agile-consulting-appropriate-
 - /resources/videos/rX258aqTf_w
 - /resources/in-what-circumstances-is-agile-consulting-appropriate-
+- /resources/rX258aqTf_w
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -26,8 +32,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube rX258aqTf_w >}}
-
 In what circumstances is agile consulting appropriate?
 
 Agile consulting is almost always my first and favourite approach when working with customers.

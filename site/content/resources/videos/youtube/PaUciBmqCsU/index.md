@@ -2,10 +2,15 @@
 title: Understanding the Power of Kanban in Scrum
 description: Discover why the Kanban vs. Scrum debate is misguided! Learn how Kanban can enhance your Scrum process and optimise any workflow for superior results.
 date: 2024-08-05T06:45:00Z
+ResourceId: PaUciBmqCsU
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: PaUciBmqCsU
 source: internal
 url: /resources/videos/:slug
 slug: understanding-the-power-of-kanban-in-scrum
+layout: video
 preview: https://i.ytimg.com/vi/PaUciBmqCsU/maxresdefault.jpg
 duration: 50
 isShort: true
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/kanban-vs-scrum-you're-asking-the-wrong-question!
 - /resources/videos/PaUciBmqCsU
 - /resources/kanban-vs-scrum-you're-asking-the-wrong-question!
+- /resources/PaUciBmqCsU
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -31,8 +37,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube PaUciBmqCsU >}}
-
 If you're talking about Kanban versus Scrum, chances are you might not fully understand what Kanban is all about. Kanban isn’t a rival or alternative to Scrum—it’s a strategy that can complement any system or process. Whether you’re working with Scrum or any other system, integrating Kanban can help you gain deeper insights and improve the overall flow of value.
 
 In this post, we’ll explore how **Kanban** works within the context of Scrum, how it brings transparency, and why it’s a powerful tool for optimizing your processes. As a professional Scrum Trainer, I’ll share personal experiences and recommendations to help you leverage Kanban in your Scrum practices.

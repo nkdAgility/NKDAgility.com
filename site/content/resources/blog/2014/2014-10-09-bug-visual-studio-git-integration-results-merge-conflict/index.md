@@ -1,6 +1,12 @@
 ---
 title: Bug in the Visual Studio Git integration that results in a merge conflict
 description: Discover how to resolve merge conflicts in Visual Studio's Git integration. Learn effective workflows to streamline your development process and enhance collaboration.
+ResourceId: GSH94xtzGy6
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 10734
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2014-10-09
 creator: Martin Hinshelwood
 id: "10734"
@@ -10,6 +16,13 @@ slug: bug-visual-studio-git-integration-results-merge-conflict
 aliases:
 - /blog/bug-visual-studio-git-integration-results-merge-conflict
 - /bug-visual-studio-git-integration-results-merge-conflict
+- /bug-in-the-visual-studio-git-integration-that-results-in-a-merge-conflict
+- /blog/bug-in-the-visual-studio-git-integration-that-results-in-a-merge-conflict
+- /resources/GSH94xtzGy6
+- /resources/blog/bug-visual-studio-git-integration-results-merge-conflict
+aliasesFor404:
+- /bug-visual-studio-git-integration-results-merge-conflict
+- /blog/bug-visual-studio-git-integration-results-merge-conflict
 - /bug-in-the-visual-studio-git-integration-that-results-in-a-merge-conflict
 - /blog/bug-in-the-visual-studio-git-integration-that-results-in-a-merge-conflict
 tags:

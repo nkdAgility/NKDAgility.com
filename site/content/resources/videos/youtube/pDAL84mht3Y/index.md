@@ -2,14 +2,20 @@
 title: 7 signs of the agile apocalypse. Plague
 description: 'Discover the 7 signs of the #Agile apocalypse in this short video! Learn how interconnected environments can lead to disaster. #Agile #Scrum #Shorts'
 date: 2023-11-08T11:00:53Z
+ResourceId: pDAL84mht3Y
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: pDAL84mht3Y
 url: /resources/videos/:slug
 slug: 7-signs-of-the-agile-apocalypse-plague
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=pDAL84mht3Y
 aliases:
 - /resources/videos/pDAL84mht3Y
 - /resources/videos/7-signs-of-the-agile-apocalypse-plague
 - /resources/7-signs-of-the-agile-apocalypse-plague
+- /resources/pDAL84mht3Y
 preview: https://i.ytimg.com/vi/pDAL84mht3Y/maxresdefault.jpg
 duration: 47
 isShort: true
@@ -41,9 +47,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube pDAL84mht3Y >}} 
  #shorts #shortvideo #shortsvideo In deeply interconnected, integrated environments there is a lot that can go wrong. When it goes wrong, it tends to go wrong in spades. In this short video, Martin Hinshelwood explains what plague looks like, in the context of #agile, and why it's a sure sign of impending disaster.
 
 About NKD Agility

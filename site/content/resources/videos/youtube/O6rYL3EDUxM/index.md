@@ -2,10 +2,15 @@
 title: 'Detecting Agile BS: Lessons from the US Department of Defense'
 description: "Is your company truly Agile? \U0001F914 Discover a 6-question test inspired by the U.S. Department of Defense to assess and enhance your Agile practices!"
 date: 2024-06-28T06:45:01Z
+ResourceId: O6rYL3EDUxM
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: O6rYL3EDUxM
 source: internal
 url: /resources/videos/:slug
 slug: detecting-agile-bs-lessons-from-the-us-department-of-defense
+layout: video
 preview: https://i.ytimg.com/vi/O6rYL3EDUxM/maxresdefault.jpg
 duration: 426
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/6-questions-to-determine-if-your-company-is-really-agile-the-agile-reality-check-[1-6]
 - /resources/videos/O6rYL3EDUxM
 - /resources/6-questions-to-determine-if-your-company-is-really-agile-the-agile-reality-check-[1-6]
+- /resources/O6rYL3EDUxM
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -27,8 +33,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube O6rYL3EDUxM >}}
-
 The concept of Agile has taken the business world by storm, with organizations everywhere claiming to have adopted Agile methodologies. But are they truly practicing Agile, or is it just Agile in name only? One of the most eye-opening resources on this topic comes from an unexpected source—the US Department of Defense (DoD). Their guide, titled "Detecting Agile BS," was created to help procurement officers determine whether vendors were genuinely Agile or merely paying lip service to the methodology. This guide raises important questions that every organization claiming to be Agile should ask itself.
 
 ## **The Rise of Agile in Procurement**

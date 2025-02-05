@@ -1,6 +1,12 @@
 ---
 title: Its that time again
 description: Explore the journey of a developer contemplating a shift to contracting amidst life changes. Discover insights on career growth and overcoming fears.
+ResourceId: n0GHiv0sTfp
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 370
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-07-16
 creator: Martin Hinshelwood
 id: "370"
@@ -10,6 +16,11 @@ slug: its-that-time-again
 aliases:
 - /blog/its-that-time-again
 - /its-that-time-again
+- /resources/n0GHiv0sTfp
+- /resources/blog/its-that-time-again
+aliasesFor404:
+- /its-that-time-again
+- /blog/its-that-time-again
 tags:
 - sp2007
 categories:

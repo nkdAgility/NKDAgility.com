@@ -1,6 +1,12 @@
 ---
 title: Who broke the build?
 description: Discover why broken builds matter in development. Learn how to identify issues and maintain code quality with effective build management strategies.
+ResourceId: SVgPQgwftag
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 59
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-29
 creator: Martin Hinshelwood
 id: "59"
@@ -10,6 +16,13 @@ slug: who-broke-the-build
 aliases:
 - /blog/who-broke-the-build
 - /who-broke-the-build
+- /who-broke-the-build-
+- /blog/who-broke-the-build-
+- /resources/SVgPQgwftag
+- /resources/blog/who-broke-the-build
+aliasesFor404:
+- /who-broke-the-build
+- /blog/who-broke-the-build
 - /who-broke-the-build-
 - /blog/who-broke-the-build-
 tags:

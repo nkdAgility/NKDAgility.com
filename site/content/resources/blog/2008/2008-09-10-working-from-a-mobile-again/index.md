@@ -1,6 +1,12 @@
 ---
 title: Working from a Mobile again!
 description: Explore the challenges and solutions of working from a mobile device. Discover how to manage TFS work items offline for seamless productivity on the go!
+ResourceId: xI-FYcMl1lT
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 196
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-09-10
 creator: Martin Hinshelwood
 id: "196"
@@ -10,6 +16,13 @@ slug: working-from-a-mobile-again
 aliases:
 - /blog/working-from-a-mobile-again
 - /working-from-a-mobile-again
+- /working-from-a-mobile-again-
+- /blog/working-from-a-mobile-again-
+- /resources/xI-FYcMl1lT
+- /resources/blog/working-from-a-mobile-again
+aliasesFor404:
+- /working-from-a-mobile-again
+- /blog/working-from-a-mobile-again
 - /working-from-a-mobile-again-
 - /blog/working-from-a-mobile-again-
 tags:

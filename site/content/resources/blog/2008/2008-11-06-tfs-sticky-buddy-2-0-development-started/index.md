@@ -1,6 +1,12 @@
 ---
 title: TFS Sticky Buddy 2.0 development started…
 description: Discover the exciting start of TFS Sticky Buddy 2.0 development! Explore new features and modular design with WPF for enhanced productivity. Stay updated!
+ResourceId: TxY4h-j1YTB
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 173
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-11-06
 creator: Martin Hinshelwood
 id: "173"
@@ -10,6 +16,13 @@ slug: tfs-sticky-buddy-2-0-development-started
 aliases:
 - /blog/tfs-sticky-buddy-2-0-development-started
 - /tfs-sticky-buddy-2-0-development-started
+- /tfs-sticky-buddy-2-0-development-started…
+- /blog/tfs-sticky-buddy-2-0-development-started…
+- /resources/TxY4h-j1YTB
+- /resources/blog/tfs-sticky-buddy-2-0-development-started
+aliasesFor404:
+- /tfs-sticky-buddy-2-0-development-started
+- /blog/tfs-sticky-buddy-2-0-development-started
 - /tfs-sticky-buddy-2-0-development-started…
 - /blog/tfs-sticky-buddy-2-0-development-started…
 tags:

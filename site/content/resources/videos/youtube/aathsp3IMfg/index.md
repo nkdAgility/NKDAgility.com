@@ -2,10 +2,15 @@
 title: When is an APS course appropriate for a scrum team?
 description: 'Join Martin Hinshelwood as he shares his vision of the perfect agile consulting week, highlighting the power of inspired teams in #agile and #scrum.'
 date: 2023-04-11T07:00:00Z
+ResourceId: aathsp3IMfg
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: aathsp3IMfg
 source: internal
 url: /resources/videos/:slug
 slug: when-is-an-aps-course-appropriate-for-a-scrum-team
+layout: video
 preview: https://i.ytimg.com/vi/aathsp3IMfg/maxresdefault.jpg
 duration: 194
 isShort: false
@@ -15,6 +20,7 @@ aliases:
 - /resources/videos/what-does-your-dream-agile-consulting-week-look-like-
 - /resources/videos/aathsp3IMfg
 - /resources/what-does-your-dream-agile-consulting-week-look-like-
+- /resources/aathsp3IMfg
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -26,8 +32,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube aathsp3IMfg >}}
-
 ## Empowering Teams with the APS Approach: Elevating Your Scrum Journey
 
 In the dynamic and ever-evolving realm of Scrum, where teams and organisations strive to harness their full potential, the Applied Professional Scrum (APS) stands out as a guiding light for authentic Scrum Mastery.  💡

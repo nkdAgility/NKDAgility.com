@@ -2,10 +2,15 @@
 title: 'The Strategic Imperative: Empowering Teams with Vision, Goals, and Direction'
 description: Unlock your team's potential! Discover how a shared vision and clear goals drive organisational success and empower informed decision-making. Watch now!
 date: 2024-08-08T06:45:00Z
+ResourceId: KvZbBwzxSu4
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: KvZbBwzxSu4
 source: internal
 url: /resources/videos/:slug
 slug: the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
+layout: video
 preview: https://i.ytimg.com/vi/KvZbBwzxSu4/maxresdefault.jpg
 duration: 591
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
 - /resources/videos/KvZbBwzxSu4
 - /resources/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
+- /resources/KvZbBwzxSu4
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -27,8 +33,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube KvZbBwzxSu4 >}}
-
 In today's fast-paced, complex business environment, many organizations struggle with a fundamental issue: a widespread lack of understanding regarding value, strategic direction, and current goals. This problem isn't just theoretical; it's a reality I've witnessed firsthand across numerous organizations.
 
 ## **The Challenge: Navigating Without a Compass**

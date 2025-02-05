@@ -2,6 +2,10 @@
 title: DevOps Migration. Lack of Expertise
 description: Discover why expert help is crucial for a smooth Azure DevOps migration. Learn about complexities, data issues, and the benefits of professional guidance!
 date: 2024-11-08T05:45:01Z
+ResourceId: 4Tjc5uEtM7M
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: 4Tjc5uEtM7M
 url: /resources/videos/:slug
 slug: devops-migration-lack-of-expertise
@@ -10,6 +14,7 @@ aliases:
 - /resources/videos/4Tjc5uEtM7M
 - /resources/videos/devops-migration-lack-of-expertise
 - /resources/devops-migration-lack-of-expertise
+- /resources/4Tjc5uEtM7M
 preview: https://i.ytimg.com/vi/4Tjc5uEtM7M/maxresdefault.jpg
 duration: 262
 isShort: false
@@ -26,9 +31,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+layout: video
+resourceTypes:
+- video
 
 ---
-{{< youtube 4Tjc5uEtM7M >}} 
  Migrating to Azure DevOps can be a one-time, complex project that often requires specialized expertise. In this video, I discuss why it’s typically better to bring in experienced professionals for your migration rather than trying to build skills in-house. Migration is often a deep, technical process, especially when handling data inconsistencies or navigating older TFS setups with unique quirks.
 
 With years of experience in DevOps and as the creator of Microsoft’s recommended migration tools, I’ve seen firsthand how expertise can make or break a smooth migration. For organizations planning multiple migrations, I also offer training and support for in-house teams, ensuring they’re equipped to handle ongoing transitions.

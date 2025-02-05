@@ -2,6 +2,10 @@
 title: Why is Kanban such a popular approach for people in creative industries?
 description: Discover why Kanban thrives in creative industries, tackling complexity and enhancing visibility. Join Martin Hinshelwood for insights on this agile approach!
 date: 2023-08-25T07:00:00Z
+ResourceId: -xrtaW5NlP0
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: -xrtaW5NlP0
 source: internal
 url: /resources/videos/:slug
@@ -14,6 +18,7 @@ aliases:
 - /resources/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
 - /resources/videos/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
 - /resources/videos/-xrtaW5NlP0
+- /resources/-xrtaW5NlP0
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -32,10 +37,9 @@ tags:
 - agile product management
 resourceTypes:
 - video
+layout: video
 
 ---
-{{< youtube -xrtaW5NlP0 >}}
-
 Creativity, with its boundless landscape, where every spark of inspiration has the potential to morph into a magnum opus, often thrives in a state of organised chaos.  
 
 But when the whirlwind of creative brilliance threatens to scatter ideas like leaves in a storm, Kanban steps forward as the beacon of method in the madness. 🎨 

@@ -2,10 +2,15 @@
 title: Most Common Thing You Hear in a PSM 1 Course?
 description: 'Discover the most common insights from delegates in a PSM 1 course with Martin Hinshelwood. Join us for a quick dive into Scrum training! #shorts #agile'
 date: 2023-06-28T11:00:24Z
+ResourceId: h5TG3MbP0QY
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: h5TG3MbP0QY
 source: internal
 url: /resources/videos/:slug
 slug: most-common-thing-you-hear-in-a-psm-1-course
+layout: video
 preview: https://i.ytimg.com/vi/h5TG3MbP0QY/maxresdefault.jpg
 duration: 56
 isShort: true
@@ -15,6 +20,7 @@ aliases:
 - /resources/videos/most-common-thing-you-hear-in-a-psm-1-course-
 - /resources/videos/h5TG3MbP0QY
 - /resources/most-common-thing-you-hear-in-a-psm-1-course-
+- /resources/h5TG3MbP0QY
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -29,8 +35,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube h5TG3MbP0QY >}}
-
 ## "But in the Real World..."
 
 I've been guiding numerous students through the nuances of PSM 1, and there's a recurring phrase I often hear, which is, "But in the real world..." 🌍

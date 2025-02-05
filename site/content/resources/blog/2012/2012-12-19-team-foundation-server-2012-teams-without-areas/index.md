@@ -1,6 +1,12 @@
 ---
 title: Teams without areas using a team field in TFS
 description: Discover how to configure Teams without areas in TFS for enhanced project management. Learn the steps to optimize your workflow and boost team efficiency!
+ResourceId: 5IipWQTVLEo
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 9188
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2012-12-19
 creator: Martin Hinshelwood
 id: "9188"
@@ -10,6 +16,13 @@ slug: team-foundation-server-2012-teams-without-areas
 aliases:
 - /blog/team-foundation-server-2012-teams-without-areas
 - /team-foundation-server-2012-teams-without-areas
+- /teams-without-areas-using-a-team-field-in-tfs
+- /blog/teams-without-areas-using-a-team-field-in-tfs
+- /resources/5IipWQTVLEo
+- /resources/blog/team-foundation-server-2012-teams-without-areas
+aliasesFor404:
+- /team-foundation-server-2012-teams-without-areas
+- /blog/team-foundation-server-2012-teams-without-areas
 - /teams-without-areas-using-a-team-field-in-tfs
 - /blog/teams-without-areas-using-a-team-field-in-tfs
 tags:

@@ -1,6 +1,12 @@
 ---
 title: Service Manager Factory
 description: Explore the upgraded Service Manager Factory by Martin Hinshelwood. Discover new features, internal documentation, and download options for your applications!
+ResourceId: 2LUs5HFK_O5
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 335
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-11
 creator: Martin Hinshelwood
 id: "335"
@@ -10,6 +16,11 @@ slug: service-manager-factory
 aliases:
 - /blog/service-manager-factory
 - /service-manager-factory
+- /resources/2LUs5HFK_O5
+- /resources/blog/service-manager-factory
+aliasesFor404:
+- /service-manager-factory
+- /blog/service-manager-factory
 tags:
 - code
 - develop

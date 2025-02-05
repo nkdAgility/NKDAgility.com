@@ -2,10 +2,15 @@
 title: The Power of Peer Feedback in Immersive Learning
 description: Discover how immersive learning enhances your skills as a Scrum practitioner in this engaging video. Unlock your potential with NKD Agility!
 date: 2024-02-07T07:00:27Z
+ResourceId: yQlrN2OviCU
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: yQlrN2OviCU
 source: internal
 url: /resources/videos/:slug
 slug: the-power-of-peer-feedback-in-immersive-learning
+layout: video
 preview: https://i.ytimg.com/vi/yQlrN2OviCU/maxresdefault.jpg
 duration: 47
 isShort: true
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-3
 - /resources/videos/yQlrN2OviCU
 - /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-3
+- /resources/yQlrN2OviCU
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,8 +51,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube yQlrN2OviCU >}}
-
 In the world of Scrum and Agile training, **immersive learning** is a game-changer. It transforms the way we absorb information, moving away from traditional lecture-based approaches to more practical, hands-on experiences. One of the standout aspects of this learning style is the **peer feedback** loop, which not only accelerates learning but also encourages real-world application.
 
 As a Scrum Trainer, I’ve seen firsthand the benefits of peer feedback in training sessions. It fosters a deeper connection to the material and drives tangible improvements in how participants implement Scrum techniques in their organizations. Let’s explore how peer feedback within immersive learning can supercharge your journey to becoming an effective Scrum Master.

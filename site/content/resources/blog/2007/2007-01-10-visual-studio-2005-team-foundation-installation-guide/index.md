@@ -1,6 +1,12 @@
 ---
 title: Visual Studio 2005 Team Foundation Installation Guide
 description: Explore the updated Visual Studio 2005 Team Foundation Installation Guide, featuring SP1 updates and new instructions for Reporting Services. Enhance your TFS setup!
+ResourceId: hoZ59uz-zBG
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 444
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-01-10
 creator: Martin Hinshelwood
 id: "444"
@@ -10,6 +16,11 @@ slug: visual-studio-2005-team-foundation-installation-guide
 aliases:
 - /blog/visual-studio-2005-team-foundation-installation-guide
 - /visual-studio-2005-team-foundation-installation-guide
+- /resources/hoZ59uz-zBG
+- /resources/blog/visual-studio-2005-team-foundation-installation-guide
+aliasesFor404:
+- /visual-studio-2005-team-foundation-installation-guide
+- /blog/visual-studio-2005-team-foundation-installation-guide
 tags:
 - vs2005
 preview: metro-visual-studio-2005-128-link-1-1.png

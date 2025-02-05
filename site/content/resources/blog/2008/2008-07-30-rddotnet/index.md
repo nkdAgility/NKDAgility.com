@@ -1,6 +1,12 @@
 ---
 title: RDdotNET
 description: Explore RDdotNET, your go-to site for ClickOnce applications like TFS Sticky Buddy. Discover tools and insights to enhance your development experience!
+ResourceId: gihU6AH59yn
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 216
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-07-30
 creator: Martin Hinshelwood
 id: "216"
@@ -10,6 +16,11 @@ slug: rddotnet
 aliases:
 - /blog/rddotnet
 - /rddotnet
+- /resources/gihU6AH59yn
+- /resources/blog/rddotnet
+aliasesFor404:
+- /rddotnet
+- /blog/rddotnet
 tags:
 - off-topic
 - wit

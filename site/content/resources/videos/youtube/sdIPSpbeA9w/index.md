@@ -2,15 +2,21 @@
 title: The Cost Saving Power of Automation
 description: Discover how automation transforms software development by reducing errors and enhancing efficiency. Learn from Azure DevOps' rapid feedback success!
 date: 2024-12-18T06:45:00Z
+ResourceId: sdIPSpbeA9w
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: sdIPSpbeA9w
 source: youtube
 url: /resources/videos/:slug
 slug: the-cost-saving-power-of-automation
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=sdIPSpbeA9w
 aliases:
 - /resources/videos/sdIPSpbeA9w
 - /resources/videos/the-cost-saving-power-of-automation
 - /resources/the-cost-saving-power-of-automation
+- /resources/sdIPSpbeA9w
 preview: https://i9.ytimg.com/vi/sdIPSpbeA9w/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLBkj3eLxuykEKxltLkuDDf4Y7aXHw
 duration: 613
 isShort: false
@@ -31,9 +37,10 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube sdIPSpbeA9w >}} 
  Why Automation Is Key to Reducing Mistakes and Maximizing Efficiency in Software Development | Martin Hinshelwood
 
 In this video, I discuss how automation plays a critical role in reducing human error and improving efficiency in software development. From minimizing the impact of missed steps to closing feedback loops quickly, automation is crucial for building high-quality software faster and more reliably.

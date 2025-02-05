@@ -2,10 +2,15 @@
 title: 'The Pitfalls of Routine Agile Questions: Avoiding the Ghosts of Agile Past'
 description: Explore the balance between pragmatism and dogmatism in Agile. Discover real stories that highlight the importance of flexibility for effective team management!
 date: 2024-01-03T07:00:13Z
+ResourceId: JzAbvkFxVzs
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: JzAbvkFxVzs
 source: internal
 url: /resources/videos/:slug
 slug: the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
+layout: video
 preview: https://i.ytimg.com/vi/JzAbvkFxVzs/maxresdefault.jpg
 duration: 299
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/5-ghosts-of-agile-past-dogma
 - /resources/videos/JzAbvkFxVzs
 - /resources/5-ghosts-of-agile-past-dogma
+- /resources/JzAbvkFxVzs
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,8 +51,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube JzAbvkFxVzs >}}
-
 In the world of Agile, we often hear about the famous "three questions" used during the daily Scrum or retrospective sessions:
 
 - **What did I do yesterday?**

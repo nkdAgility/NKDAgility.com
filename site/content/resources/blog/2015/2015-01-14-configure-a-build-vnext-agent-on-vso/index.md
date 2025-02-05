@@ -1,6 +1,12 @@
 ---
 title: Configure a Build vNext Agent
 description: Learn how to configure a Build vNext Agent on VSO with this comprehensive guide. Simplify your build process and enhance your development workflow today!
+ResourceId: hyJFelRdglq
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 11021
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2015-01-14
 creator: Martin Hinshelwood
 id: "11021"
@@ -10,6 +16,13 @@ slug: configure-a-build-vnext-agent-on-vso
 aliases:
 - /blog/configure-a-build-vnext-agent-on-vso
 - /configure-a-build-vnext-agent-on-vso
+- /configure-a-build-vnext-agent
+- /blog/configure-a-build-vnext-agent
+- /resources/hyJFelRdglq
+- /resources/blog/configure-a-build-vnext-agent-on-vso
+aliasesFor404:
+- /configure-a-build-vnext-agent-on-vso
+- /blog/configure-a-build-vnext-agent-on-vso
 - /configure-a-build-vnext-agent
 - /blog/configure-a-build-vnext-agent
 tags:

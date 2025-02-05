@@ -1,0 +1,3 @@
+If you're hiring an agile coach, not only do they need to be able to engage and gain credibility with the technical folks, they also need to be able to engage and gain credibility with management and leadership in your organisation. This means that they need deep technical understanding of business, particularly within your context. 
+
+So, if you're a financial organisation, you're going to want an agile coach who understands the financial ramifications in business of your organisation. If you're a tech company, then they need to understand the business of tech so that they can more effectively help leadership and management be more agile.

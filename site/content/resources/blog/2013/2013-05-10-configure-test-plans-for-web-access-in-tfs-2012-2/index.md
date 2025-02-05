@@ -1,6 +1,12 @@
 ---
 title: Configure Test Plans for web access in TFS 2012.2
 description: Master TFS 2012.2 by configuring Test Plans for web access. Learn essential tips to ensure your team sees the right plans and streamline your testing process.
+ResourceId: eNRpc70Z73R
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 9900
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2013-05-10
 creator: Martin Hinshelwood
 id: "9900"
@@ -10,6 +16,11 @@ slug: configure-test-plans-for-web-access-in-tfs-2012-2
 aliases:
 - /blog/configure-test-plans-for-web-access-in-tfs-2012-2
 - /configure-test-plans-for-web-access-in-tfs-2012-2
+- /resources/eNRpc70Z73R
+- /resources/blog/configure-test-plans-for-web-access-in-tfs-2012-2
+aliasesFor404:
+- /configure-test-plans-for-web-access-in-tfs-2012-2
+- /blog/configure-test-plans-for-web-access-in-tfs-2012-2
 tags:
 - area-path
 - configuration

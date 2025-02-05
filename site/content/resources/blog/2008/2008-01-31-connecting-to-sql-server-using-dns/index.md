@@ -1,6 +1,12 @@
 ---
 title: Connecting to SQL Server using DNS
 description: Learn how to connect to SQL Server using DNS with integrated authentication. Discover essential SPN setup and configuration tips for seamless access.
+ResourceId: tV0-x7E8IQc
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 256
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-01-31
 creator: Martin Hinshelwood
 id: "256"
@@ -10,6 +16,11 @@ slug: connecting-to-sql-server-using-dns
 aliases:
 - /blog/connecting-to-sql-server-using-dns
 - /connecting-to-sql-server-using-dns
+- /resources/tV0-x7E8IQc
+- /resources/blog/connecting-to-sql-server-using-dns
+aliasesFor404:
+- /connecting-to-sql-server-using-dns
+- /blog/connecting-to-sql-server-using-dns
 tags:
 - configuration
 - infrastructure

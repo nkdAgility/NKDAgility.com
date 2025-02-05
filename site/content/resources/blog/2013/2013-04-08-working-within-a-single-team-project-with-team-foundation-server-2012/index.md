@@ -1,6 +1,12 @@
 ---
 title: Working within a single Team Project with Team Foundation Server 2012
 description: Explore best practices for managing a single Team Project in TFS 2012, enhancing collaboration and efficiency across teams while minimizing administrative overhead.
+ResourceId: mV9NzUQYyjY
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 9431
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2013-04-08
 creator: Martin Hinshelwood
 id: "9431"
@@ -10,6 +16,11 @@ slug: working-within-a-single-team-project-with-team-foundation-server-2012
 aliases:
 - /blog/working-within-a-single-team-project-with-team-foundation-server-2012
 - /working-within-a-single-team-project-with-team-foundation-server-2012
+- /resources/mV9NzUQYyjY
+- /resources/blog/working-within-a-single-team-project-with-team-foundation-server-2012
+aliasesFor404:
+- /working-within-a-single-team-project-with-team-foundation-server-2012
+- /blog/working-within-a-single-team-project-with-team-foundation-server-2012
 tags:
 - area-hierarchy
 - configuration

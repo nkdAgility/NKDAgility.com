@@ -1,6 +1,12 @@
 ---
 title: What is dyslexia?
 description: Discover the multifaceted world of dyslexia, exploring its challenges and unique strengths. Learn how dyslexic individuals can thrive with their abilities!
+ResourceId: 97Evnsuws6e
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 360
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-07-23
 creator: Martin Hinshelwood
 id: "360"
@@ -10,6 +16,13 @@ slug: what-is-dyslexia
 aliases:
 - /blog/what-is-dyslexia
 - /what-is-dyslexia
+- /what-is-dyslexia-
+- /blog/what-is-dyslexia-
+- /resources/97Evnsuws6e
+- /resources/blog/what-is-dyslexia
+aliasesFor404:
+- /what-is-dyslexia
+- /blog/what-is-dyslexia
 - /what-is-dyslexia-
 - /blog/what-is-dyslexia-
 tags:

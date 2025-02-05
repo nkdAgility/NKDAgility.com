@@ -1,6 +1,12 @@
 ---
 title: Microsoft does indeed listen
 description: Discover how Microsoft is evolving TFS with hosted options, addressing user needs, and enhancing project management features. Join the conversation!
+ResourceId: vZZ_DZ3emxB
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 318
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-28
 creator: Martin Hinshelwood
 id: "318"
@@ -10,6 +16,11 @@ slug: microsoft-does-indeed-listen
 aliases:
 - /blog/microsoft-does-indeed-listen
 - /microsoft-does-indeed-listen
+- /resources/vZZ_DZ3emxB
+- /resources/blog/microsoft-does-indeed-listen
+aliasesFor404:
+- /microsoft-does-indeed-listen
+- /blog/microsoft-does-indeed-listen
 tags:
 - tfs
 - tfs2005

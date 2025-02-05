@@ -2,14 +2,20 @@
 title: Why are you going the immersive Scrum training route?
 description: Discover the benefits of immersive Scrum training with Martin Hinshelwood. Transform your skills in 4-8 day courses for real-time learning and growth!
 date: 2023-03-16T07:00:16Z
+ResourceId: TabMnJpXFVA
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: TabMnJpXFVA
 url: /resources/videos/:slug
 slug: why-are-you-going-the-immersive-scrum-training-route-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=TabMnJpXFVA
 aliases:
 - /resources/videos/TabMnJpXFVA
 - /resources/videos/why-are-you-going-the-immersive-scrum-training-route-
 - /resources/why-are-you-going-the-immersive-scrum-training-route-
+- /resources/TabMnJpXFVA
 preview: https://i.ytimg.com/vi/TabMnJpXFVA/maxresdefault.jpg
 duration: 287
 isShort: false
@@ -24,9 +30,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube TabMnJpXFVA >}} 
  scrum.org have pioneered a new format of #scrumtraining called #immersive learning, especially for #scrumcertification courses like the #professionalscrummaster and #professionalscrumproductowner courses.
 
 It's a shift from the traditional 2-day course format to 4-day and 8-day course formats that include assignments, feedback sessions, and opportunities for people to ask questions about work they are implementing real-time.

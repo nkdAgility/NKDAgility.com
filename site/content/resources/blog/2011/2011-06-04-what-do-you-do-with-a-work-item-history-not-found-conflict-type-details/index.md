@@ -1,6 +1,12 @@
 ---
 title: What do you do with a Work Item History Not Found Conflict Type Details
 description: Discover solutions for TFS migration conflicts in work item history. Learn how to tackle 'not found' errors and streamline your integration process.
+ResourceId: XOt3b4gzyH8
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 3460
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2011-06-04
 creator: Martin Hinshelwood
 id: "3460"
@@ -10,6 +16,11 @@ slug: what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
 aliases:
 - /blog/what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
 - /what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
+- /resources/XOt3b4gzyH8
+- /resources/blog/what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
+aliasesFor404:
+- /what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
+- /blog/what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
 tags:
 - code
 - nwcadence

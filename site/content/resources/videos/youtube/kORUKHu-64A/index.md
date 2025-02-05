@@ -2,10 +2,15 @@
 title: Scrum is like communism, it doesn't work. Myth 5.
 description: "Uncover the truth about Scrum governance! Join Martin as he debunks myths and reveals the balance between flexibility and compliance in product development. \U0001F680"
 date: 2023-10-26T07:00:29Z
+ResourceId: kORUKHu-64A
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: kORUKHu-64A
 source: internal
 url: /resources/videos/:slug
 slug: scrum-is-like-communism-it-doesn-t-work-myth-5
+layout: video
 preview: https://i.ytimg.com/vi/kORUKHu-64A/maxresdefault.jpg
 duration: 235
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-5-balance-between-flexibility-&-compliance
 - /resources/videos/kORUKHu-64A
 - /resources/scrum-is-like-communism-it-doesn't-work-myth-5-balance-between-flexibility-&-compliance
+- /resources/kORUKHu-64A
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -47,8 +53,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube kORUKHu-64A >}}
-
 # Scrum and Governance: Navigating the Balance for Agile Success 🚀
 
 Hello, Agile aficionados! Today, let's debunk a common myth that often surfaces in discussions around Scrum: **the belief that Scrum equates to a lack of governance**. This misconception suggests that embracing Scrum means throwing all forms of planning, compliance, and organizational standards out the window. However, this view couldn't be further from the truth. Let's explore the nuanced relationship between Scrum and governance and how striking the right balance can propel your Agile journey forward. 🌟

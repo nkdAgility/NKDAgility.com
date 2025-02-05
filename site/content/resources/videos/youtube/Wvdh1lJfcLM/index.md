@@ -2,10 +2,15 @@
 title: 'Mastering the Migration: Seamlessly Transitioning from TFS to Azure DevOps'
 description: Master Azure DevOps migration with expert insights! Discover pitfalls, best practices, and strategies for a seamless transition. Perfect for IT and DevOps teams!
 date: 2024-07-31T11:58:11Z
+ResourceId: Wvdh1lJfcLM
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: Wvdh1lJfcLM
 source: internal
 url: /resources/videos/:slug
 slug: mastering-the-migration-seamlessly-transitioning-from-tfs-to-azure-devops
+layout: video
 preview: https://i.ytimg.com/vi/Wvdh1lJfcLM/maxresdefault.jpg
 duration: 188
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/talk-us-through-the-migration-services-you-offer-via-azure-devops
 - /resources/videos/Wvdh1lJfcLM
 - /resources/talk-us-through-the-migration-services-you-offer-via-azure-devops
+- /resources/Wvdh1lJfcLM
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -27,8 +33,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube Wvdh1lJfcLM >}}
-
 In today’s fast-paced tech landscape, staying ahead often means making strategic moves that streamline processes and enhance collaboration. For organizations still utilizing Team Foundation Server (TFS), migrating to Azure DevOps is one such strategic move that promises enhanced agility and efficiency. However, this migration is not always straightforward. Let’s dive into the intricacies of this transition and explore how to do it seamlessly, leveraging the right tools and expertise.
 
 ## **Why Migrate to Azure DevOps?**

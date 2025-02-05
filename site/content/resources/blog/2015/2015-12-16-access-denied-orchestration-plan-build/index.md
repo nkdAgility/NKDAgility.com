@@ -1,6 +1,12 @@
 ---
 title: Access denied for orchestration plan on Build
 description: Troubleshoot TFS build errors with expert tips on resolving access denied issues for orchestration plans. Enhance your build system's performance today!
+ResourceId: l331AonWBuN
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 11411
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2015-12-16
 creator: Martin Hinshelwood
 id: "11411"
@@ -10,6 +16,13 @@ slug: access-denied-orchestration-plan-build
 aliases:
 - /blog/access-denied-orchestration-plan-build
 - /access-denied-orchestration-plan-build
+- /access-denied-for-orchestration-plan-on-build
+- /blog/access-denied-for-orchestration-plan-on-build
+- /resources/l331AonWBuN
+- /resources/blog/access-denied-orchestration-plan-build
+aliasesFor404:
+- /access-denied-orchestration-plan-build
+- /blog/access-denied-orchestration-plan-build
 - /access-denied-for-orchestration-plan-on-build
 - /blog/access-denied-for-orchestration-plan-on-build
 tags:

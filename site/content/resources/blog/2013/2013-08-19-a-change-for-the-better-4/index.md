@@ -1,6 +1,12 @@
 ---
 title: 'A change for the better #4 - Homecoming'
 description: Join Martin Hinshelwood on his journey back to Scotland, balancing family life and ALM consulting. Discover insights on agile practices and more!
+ResourceId: yryUrqeINBG
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 9951
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2013-08-19
 creator: Martin Hinshelwood
 id: "9951"
@@ -10,6 +16,14 @@ slug: a-change-for-the-better-4
 aliases:
 - /blog/a-change-for-the-better-4
 - /a-change-for-the-better-4
+- /a-change-for-the-better--4
+- /a-change-for-the-better--4---homecoming
+- /blog/a-change-for-the-better--4---homecoming
+- /resources/yryUrqeINBG
+- /resources/blog/a-change-for-the-better-4
+aliasesFor404:
+- /a-change-for-the-better-4
+- /blog/a-change-for-the-better-4
 - /a-change-for-the-better--4---homecoming
 - /blog/a-change-for-the-better--4---homecoming
 tags:

@@ -2,25 +2,32 @@
 title: Scaled Professaional Scrum (SPS) with Nexus
 description: Master scaling Scrum with the Scaled Professional Scrum (SPS) course using the Nexus framework. Gain skills, tackle challenges, and earn your certification!
 date: 2022-08-18T15:24:30Z
+ResourceId: nxA1Jo4J0dg
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: nxA1Jo4J0dg
 source: youtube
 url: /resources/videos/:slug
 slug: scaled-professaional-scrum-(sps)-with-nexus
+layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=nxA1Jo4J0dg
 aliases:
 - /resources/videos/nxA1Jo4J0dg
 - /resources/videos/scaled-professaional-scrum-(sps)-with-nexus
 - /resources/scaled-professaional-scrum-(sps)-with-nexus
+- /resources/nxA1Jo4J0dg
 preview: https://i.ytimg.com/vi/nxA1Jo4J0dg/maxresdefault.jpg
 duration: 175
 isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube nxA1Jo4J0dg >}} 
  The Scaled Professional Scrum is a hands-on, activity-based course where students develop a collection of skills that can be applied to overcome challenges when scaling Scrum. 
 
 Even after achieving success with Scrum, teams are still limited by the amount of work they can do and the value they can create. They need to expand, or scale, to a group of Scrum Teams working together on the same product. When doing so, they often encounter common challenges with cross-team dependencies, self-management, transparency and accountability.

@@ -1,6 +1,12 @@
 ---
 title: Blogging from 2500 meters
 description: Join Martin Hinshelwood as he blogs from the French Alps, sharing insights on skiing, tech challenges, and creative writing amidst stunning mountain views.
+ResourceId: uxd-czfPeHg
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 10509
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2014-04-17
 creator: Martin Hinshelwood
 id: "10509"
@@ -10,6 +16,13 @@ slug: blogging-2500-meters
 aliases:
 - /blog/blogging-2500-meters
 - /blogging-2500-meters
+- /blogging-from-2500-meters
+- /blog/blogging-from-2500-meters
+- /resources/uxd-czfPeHg
+- /resources/blog/blogging-2500-meters
+aliasesFor404:
+- /blogging-2500-meters
+- /blog/blogging-2500-meters
 - /blogging-from-2500-meters
 - /blog/blogging-from-2500-meters
 categories:

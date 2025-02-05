@@ -1,16 +1,21 @@
 ---
-title: Continuous Integration and Continuous Delivery CI CD for Quality
+title: Building a culture of Quality
 description: Unlock the true potential of CI/CD! Join Martin Hinshelwood as he reveals best practices for Continuous Integration and Delivery to enhance quality and speed.
 date: 2024-11-22T07:00:08Z
+ResourceId: IZ-FlBbGaSY
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: IZ-FlBbGaSY
-source: youtube
+source: internal
 url: /resources/videos/:slug
-slug: continuous-integration-and-continuous-delivery-ci-cd-for-quality
-canonicalUrl: https://www.youtube.com/watch?v=IZ-FlBbGaSY
+slug: building-a-culture-of-quality
+layout: video
 aliases:
 - /resources/videos/IZ-FlBbGaSY
 - /resources/videos/continuous-integration-and-continuous-delivery-ci-cd-for-quality
 - /resources/continuous-integration-and-continuous-delivery-ci-cd-for-quality
+- /resources/IZ-FlBbGaSY
 preview: https://i.ytimg.com/vi/IZ-FlBbGaSY/maxresdefault.jpg
 duration: 451
 isShort: false
@@ -26,47 +31,39 @@ tags:
 - project manager
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
+resourceTypes:
+- video
 
 ---
-{{< youtube IZ-FlBbGaSY >}} 
- # CI/CD Done Right: Engineering Excellence with Continuous Integration and Delivery | Martin Hinshelwood  
+# Building a culture of quality | Martin Hinshelwood  
 
-👋 Hi, I’m Martin Hinshelwood from [NKD Agility](https://www.nkdagility.com), and in this video, I unpack the real meaning of **Continuous Integration (CI)** and **Continuous Delivery (CD)**—and why most teams aren’t doing it right. From mainline branching to ring-based deployments, I explore how CI/CD pipelines can help teams reduce risk, improve product quality, and achieve faster, more reliable releases. Let’s redefine what CI/CD should look like and how it can transform your development process.
+  📍  📍 Building a culture of quality within your organisation is absolutely not something that you can do on your own. It's not something that any individual can do.  Each individual within the context of your organisation needs to be able to  Demonstrate their own  technical excellence, their technical leadership, their, their engineering capability if they demonstrate their own  other people around them will see a way of behaving  that.
 
-**📌 Chapters:**  
+Hopefully they want to copy. The more people in your organization behave that way, the quicker other people in your organization will see that as the way to behave. I was trying to think of an example there of  that being true, and I really keep coming back to the opposite being true,  and that's the Boeing story.
 
-1. 00:00 – Introduction: The Problem with “Fake CI/CD”  
-2. 02:30 – What Continuous Integration Really Means  
-3. 05:00 – Why Mainline Branching is Critical  
-4. 08:15 – Continuous Delivery: Shipping Directly to Production  
-5. 11:30 – Ring-Based Deployment Models for Controlled Risk  
-6. 15:45 – The Role of Automation in CI/CD  
-7. 19:30 – Adapting CI/CD to Fit Your Product and Business Goals  
+If you've been following the Boeing story, Really  many years the Boeing story's been, been going on when Boeing,  before Boeing bought McDonnell Douglas, Boeing's focus was on engineering excellence, technical leadership, and they built that mantra. of if it's not Boeing, I'm not going. I, theirs were the best planes.
 
-**🎯 Who This Video is For:**  
+They were the best build qualities. They were the least likely to fall out the sky. They were, they were the standard for quality in the entire aviation industry.  And then, and they had that culture. Engineering excellence and, and technical leadership.  And then they moved, they bought McDonnell Douglas.
 
-- Developers and engineering teams looking to adopt true CI/CD practices  
-- Product owners and business leaders aiming to improve release frequency and quality  
-- Organizations struggling with complex branching models or deployment bottlenecks  
+And through some weird happenings, which I don't fully understand, McDonnell  Douglas came out on top of being in charge, right? McDonnell Douglas leadership. And their focus was on revenue extraction.  That was their focus. We're, we're not built here to build value. We're here to extract money for our shareholders and for ourselves.
 
-**📖 What You’ll Learn:**  
+That's what we're here for. And over the next 20 years, I think it's been 20 years. I might be a little bit out there, 15, 20 years. They've,  Decimated that culture, that culture of quality inside of Boeing completely and utterly destroyed it so much so that that you might have seen seen videos of Boeing employees saying, you know, yes, I'd fly in this plane.
 
-- The difference between automated builds and true CI/CD  
-- Why DevTestLive branches are outdated and risky  
-- How mainline branching reduces integration issues and supports continuous delivery  
-- The benefits of ring-based deployments for managing risk and gathering feedback  
-- Strategies for automating CI/CD pipelines to reduce costs and improve efficiency  
-- Real-world examples from Microsoft’s deployment models  
+But yeah, I've got a death wish, right? That's not if you're going to be flying in a, in a, in a plane. That's not what you want to do. The culture you want within the context of the engineers that are building it. So why would you want it within the context of the software that you're purchasing? The software that you're using and how much of the software that we use is actually life critical or actually has a substantive, substantive, substantive  impact on our quality of life, on our, on the world around us.
 
-**💡 Key Takeaways:**  
+And we, we want. those products to be built within the context of a culture of quality, of delivering the right thing, of doing the right thing and providing us with value, not  let's cut all the corners we possibly can to deliver more revenue to our shareholders, right? So if you want to build amazing products rather than mediocre or even dangerous products.
 
-- Continuous Integration means frequent merges into a mainline branch, not separate branch builds.  
-- Continuous Delivery ensures every commit is deployable to production, reducing deployment friction.  
-- Ring-based deployments allow teams to manage risk while iterating quickly.  
-- CI/CD isn’t one-size-fits-all—tailoring it to your product and goals is key.  
+We need to focus on the things that really matter. And you know, Agile, Agile, Agile fra People talk about Agile frameworks all the time, and how Agile frameworks were the solution, and Agile frameworks are now the problem. None of those things are true.  Agile frameworks are just a tool. tools that we use.
+
+It's the culture within our organization that leverages those tools in a positive or negative way. A hammer is just a tool, but you can use it to hit a nail or you can use it to smack somebody around the head. And which one is going to add value and which one's going to land you in jail. Right. So building those, those, those cultures of quality, can you,  what world of culture of quality did a Volkswagen engineer write code  determined whether a car was in a test condition and faked the results, right?
+
+Changed the way the, didn't fake the results. They changed the way the engine operated in order to get the results they wanted and the engine operated differently on the road. Right? What world of quality.  Does anybody in your organization make that sort of decision? No world of quality. If you have a culture of quality, you're not going to have people make that decision, and that's what we need to focus on.
+
+We need to focus on building a culture of engineering excellence, the technical leadership to set that direction and go in that direction, and we need to build within our organization, the, the knowledge. and understanding of the theories behind the reasons that things work the way they work,  and how we can then apply our empirical learnings within our context, so every organization's different,  with the knowledge of those theories, To then extrapolate what's the next best decision that we can make.
+
+And this is something that Naked Agility can help  you and your organization do. We cannot do it for you, but we can be there to help you understand the theories and practices, how they apply within your context, and what are good engineering decisions and what are bad engineering decisions.  Build engineering excellence and technical leadership within your organization.
 
 At [NKD Agility](https://www.nkdagility.com), we specialize in helping organizations design and implement CI/CD pipelines that fit their needs. Whether it’s full automation, ring-based deployments, or just a reliable build system, we can help you optimize your processes and deliver better software, faster. Visit us today to get started!  
 
-#agile #agileproductdevelopment #agileprojectmanagement #productdevelopment #productmanagement #productmanager #projectmanager #continuousimprovement #continuousintegration 
- [Watch on Youtube](https://www.youtube.com/watch?v=IZ-FlBbGaSY)
+#agile #agileproductdevelopment #agileprojectmanagement #productdevelopment #productmanagement #productmanager #projectmanager #continuousimprovement #continuousintegration

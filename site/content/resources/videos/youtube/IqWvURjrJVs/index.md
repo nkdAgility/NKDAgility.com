@@ -2,14 +2,20 @@
 title: Znaczenie znajomości terenu
 description: "Discover how understanding terrain enhances agility through Poland's unique mushroom foraging sport. Join us in exploring agile principles! \U0001F344✨"
 date: 2023-08-10T14:45:00Z
+ResourceId: IqWvURjrJVs
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: IqWvURjrJVs
 url: /resources/videos/:slug
 slug: znaczenie-znajomości-terenu
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=IqWvURjrJVs
 aliases:
 - /resources/videos/IqWvURjrJVs
 - /resources/videos/znaczenie-znajomości-terenu
 - /resources/znaczenie-znajomości-terenu
+- /resources/IqWvURjrJVs
 preview: https://i.ytimg.com/vi/IqWvURjrJVs/maxresdefault.jpg
 duration: 255
 isShort: false
@@ -31,9 +37,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube IqWvURjrJVs >}} 
  Znaczenie znajomości terenu. Czego możemy się nauczyć o zwinności na podstawie narodowego polskiego sportu, czyli zbierania grzybów?
 
 About NKD Agility

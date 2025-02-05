@@ -1,6 +1,12 @@
 ---
 title: Unable to load task handler PowerShell for task VSBuild
 description: Resolve the 'Unable to load task handler PowerShell for task VSBuild' error in TFS 2015 with our troubleshooting guide. Get your builds running smoothly!
+ResourceId: Rqhhvr6lAQK
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 11097
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2015-03-18
 creator: Martin Hinshelwood
 id: "11097"
@@ -10,6 +16,13 @@ slug: unable-load-task-handler-powershell-task-vsbuild
 aliases:
 - /blog/unable-load-task-handler-powershell-task-vsbuild
 - /unable-load-task-handler-powershell-task-vsbuild
+- /unable-to-load-task-handler-powershell-for-task-vsbuild
+- /blog/unable-to-load-task-handler-powershell-for-task-vsbuild
+- /resources/Rqhhvr6lAQK
+- /resources/blog/unable-load-task-handler-powershell-task-vsbuild
+aliasesFor404:
+- /unable-load-task-handler-powershell-task-vsbuild
+- /blog/unable-load-task-handler-powershell-task-vsbuild
 - /unable-to-load-task-handler-powershell-for-task-vsbuild
 - /blog/unable-to-load-task-handler-powershell-for-task-vsbuild
 tags:

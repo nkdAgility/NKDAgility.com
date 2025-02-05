@@ -1,0 +1,9 @@
+So the new product backlog management course from Scrum.org has been a long time coming. It's going to be awesome. It's one of their new skills-based style of classes, which are shorter classes. They're eight hours, rather than the usual 16 hours, and they focus laser focus on one particular skill, and in this case, it's product backlog management. 
+
+In product backlog management, we have a number of things that we cover in the class. We're going to cover where these backlog items come from. We're going to cover how to manage those backlog items, how we write those backlog items, how we break them down into smaller units of work that are maybe easier for the team to consume, easier for people to understand. 
+
+In that, how we maximize the transparency of that product backlog by enabling the understanding of everybody that needs to understand it to be able to understand it, right? And then how do we work through it? How do we order that backlog? How do we make it the best backlog it can possibly be within the context of what it is we're doing and what we know and what we can do within our organization? 
+
+So it's an awesome little class that helps us get to grips with some of the nuances of product backlog management. How do we make sure that we minimize the amount of things that are in that product backlog in order to maximize the value that we get from it? 
+
+If you want to have a discussion about your unique needs or situation, then please book a call or visit us at Naked Agility.com. We also have our immersive and traditional public classes on our website, and we'd love to hear from you.

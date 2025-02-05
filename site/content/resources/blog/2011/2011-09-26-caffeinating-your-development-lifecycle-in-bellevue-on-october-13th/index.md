@@ -1,6 +1,12 @@
 ---
 title: Caffeinating Your Development Lifecycle in Bellevue on October 13th
 description: Join us in Bellevue on October 13th for Coffee Talks! Energize your development with live demos, Agile discussions, and fresh coffee. Register now!
+ResourceId: uPqvuZorGO-
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 3796
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2011-09-26
 creator: Martin Hinshelwood
 id: "3796"
@@ -10,6 +16,11 @@ slug: caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
 aliases:
 - /blog/caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
 - /caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
+- /resources/uPqvuZorGO-
+- /resources/blog/caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
+aliasesFor404:
+- /caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
+- /blog/caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
 tags:
 - nwcadence
 - tools

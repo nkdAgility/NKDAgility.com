@@ -2,10 +2,15 @@
 title: Why is Johanna a great teacher for the Professional Agile Leadership - Essentials course?
 description: Discover why Joanna Plaskonka is the ideal guide for the Professional Agile Leadership Essentials course, empowering leaders to embrace agile transformation!
 date: 2023-07-26T04:03:17Z
+ResourceId: EOs5kZv_7tg
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: EOs5kZv_7tg
 source: internal
 url: /resources/videos/:slug
 slug: why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility
+layout: video
 preview: https://i.ytimg.com/vi/EOs5kZv_7tg/maxresdefault.jpg
 duration: 131
 isShort: false
@@ -15,6 +20,7 @@ aliases:
 - /resources/videos/why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course-
 - /resources/videos/EOs5kZv_7tg
 - /resources/why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course-
+- /resources/EOs5kZv_7tg
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -34,8 +40,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube EOs5kZv_7tg >}}
-
 ## Power of Passion
 
 One of the things that immediately stands out about Johanna's approach to the Professional Agile Leadership class is her unbridled passion. I've heard her say, more than once, that this is her favourite class to teach.  📌

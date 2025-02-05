@@ -1,6 +1,12 @@
 ---
 title: Visual Studio 2010 Overview - IntelliTrace and Test Impact Analysis
 description: Discover how IntelliTrace and Test Impact Analysis in Visual Studio 2010 can streamline bug fixing and enhance regression testing for Agile teams.
+ResourceId: AzpXVrfEwZ1
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 4140
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2012-01-26
 creator: Martin Hinshelwood
 id: "4140"
@@ -10,6 +16,14 @@ slug: visual-studio-2010-overview-intellitrace-and-test-impact-analysis
 aliases:
 - /blog/visual-studio-2010-overview-intellitrace-and-test-impact-analysis
 - /visual-studio-2010-overview-intellitrace-and-test-impact-analysis
+- /visual-studio-2010-overview
+- /visual-studio-2010-overview---intellitrace-and-test-impact-analysis
+- /blog/visual-studio-2010-overview---intellitrace-and-test-impact-analysis
+- /resources/AzpXVrfEwZ1
+- /resources/blog/visual-studio-2010-overview-intellitrace-and-test-impact-analysis
+aliasesFor404:
+- /visual-studio-2010-overview-intellitrace-and-test-impact-analysis
+- /blog/visual-studio-2010-overview-intellitrace-and-test-impact-analysis
 - /visual-studio-2010-overview---intellitrace-and-test-impact-analysis
 - /blog/visual-studio-2010-overview---intellitrace-and-test-impact-analysis
 tags:

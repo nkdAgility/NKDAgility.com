@@ -1,6 +1,12 @@
 ---
 title: 'TFS Event Handler: Coverage & Comments'
 description: Explore the TFS Event Handler project, addressing security and assembly issues for internal teams. Join the discussion and enhance your development process!
+ResourceId: PEksFd3ugtL
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 406
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-05-02
 creator: Martin Hinshelwood
 id: "406"
@@ -10,6 +16,13 @@ slug: tfs-event-handler-coverage-comments
 aliases:
 - /blog/tfs-event-handler-coverage-comments
 - /tfs-event-handler-coverage-comments
+- /tfs-event-handler--coverage-&-comments
+- /blog/tfs-event-handler--coverage-&-comments
+- /resources/PEksFd3ugtL
+- /resources/blog/tfs-event-handler-coverage-comments
+aliasesFor404:
+- /tfs-event-handler-coverage-comments
+- /blog/tfs-event-handler-coverage-comments
 - /tfs-event-handler--coverage-&-comments
 - /blog/tfs-event-handler--coverage-&-comments
 tags:

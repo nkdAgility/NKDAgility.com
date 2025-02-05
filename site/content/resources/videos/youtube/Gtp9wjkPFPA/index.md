@@ -2,10 +2,15 @@
 title: How do DevOps and Agile integrate?
 description: 'Discover how DevOps and Agile intertwine in this insightful short video with Martin Hinshelwood. Unlock the synergy for high-performing teams! #DevOps #Agile'
 date: 2023-06-13T14:30:08Z
+ResourceId: Gtp9wjkPFPA
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: Gtp9wjkPFPA
 source: internal
 url: /resources/videos/:slug
 slug: how-do-devops-and-agile-integrate
+layout: video
 preview: https://i.ytimg.com/vi/Gtp9wjkPFPA/maxresdefault.jpg
 duration: 51
 isShort: true
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/how-do-devops-and-agile-integrate-
 - /resources/videos/Gtp9wjkPFPA
 - /resources/how-do-devops-and-agile-integrate-
+- /resources/Gtp9wjkPFPA
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -27,8 +33,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube Gtp9wjkPFPA >}}
-
 ## DevOps & Agile: Two Sides of the Same Coin 🪙
 
 Have you ever been curious about how DevOps and Agile integrate and truly mesh?"

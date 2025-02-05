@@ -2,10 +2,15 @@
 title: The Power of Technical Excellence in Agile Development
 description: Unlock the secrets of Agile success! Discover how prioritising technical excellence over speed can transform your software development and deliver exceptional value.
 date: 2024-06-27T06:45:00Z
+ResourceId: JTYCRehkN5U
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: JTYCRehkN5U
 source: internal
 url: /resources/videos/:slug
 slug: the-power-of-technical-excellence-in-agile-development
+layout: video
 preview: https://i.ytimg.com/vi/JTYCRehkN5U/maxresdefault.jpg
 duration: 1219
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/the-critical-role-of-technical-excellence-in-agile-software-development
 - /resources/videos/JTYCRehkN5U
 - /resources/the-critical-role-of-technical-excellence-in-agile-software-development
+- /resources/JTYCRehkN5U
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -27,8 +33,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube JTYCRehkN5U >}}
-
 In today's fast-paced development environment, the need for a usable, working product at the end of every iteration cannot be overstated. As Scrum and Agile practitioners, we often discuss the importance of technical excellence, but it's more than just a concept—it's the cornerstone of risk mitigation and successful product delivery. Let's dive into why technical excellence is essential, how it mitigates risks, and the profound impact it can have on your product and team.
 
 ## **Why Technical Excellence Matters**

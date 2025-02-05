@@ -2,10 +2,15 @@
 title: Why are recessions a great time for organizations to evaluate the opportunity of agile?
 description: Discover why recessions spark a shift towards agile methodologies, enabling organisations to adapt and thrive in turbulent times. Join Martin Hinshelwood!
 date: 2023-02-09T07:15:02Z
+ResourceId: Nw0bXiOqu0Q
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: Nw0bXiOqu0Q
 source: internal
 url: /resources/videos/:slug
 slug: why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile
+layout: video
 preview: https://i.ytimg.com/vi/Nw0bXiOqu0Q/maxresdefault.jpg
 duration: 246
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile-
 - /resources/videos/Nw0bXiOqu0Q
 - /resources/why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile-
+- /resources/Nw0bXiOqu0Q
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -28,8 +34,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube Nw0bXiOqu0Q >}}
-
 Why are recessions a great time for organizations to evaluate the opportunity of agile?
 
 I think it’s a bit deeper than simply exploring agile.

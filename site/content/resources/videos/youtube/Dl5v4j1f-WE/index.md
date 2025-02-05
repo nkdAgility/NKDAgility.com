@@ -2,10 +2,15 @@
 title: How would you like to be remembered as a Professional Scrum Trainer?  What 3 things matter most to you?
 description: Discover how to leave a lasting legacy as a Professional Scrum Trainer and empower teams to thrive in agile environments. Join the journey!
 date: 2023-04-19T07:00:06Z
+ResourceId: Dl5v4j1f-WE
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: Dl5v4j1f-WE
 source: internal
 url: /resources/videos/:slug
 slug: how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-what-3-things-matter-most-to-you
+layout: video
 preview: https://i.ytimg.com/vi/Dl5v4j1f-WE/maxresdefault.jpg
 duration: 537
 isShort: false
@@ -15,6 +20,7 @@ aliases:
 - /resources/videos/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-
 - /resources/videos/Dl5v4j1f-WE
 - /resources/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-
+- /resources/Dl5v4j1f-WE
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -27,8 +33,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube Dl5v4j1f-WE >}}
-
 ## My Professional Scrum Trainer Legacy: What Matters Most to Me?
 
 Hello to all my Agile and Scrum enthusiasts!

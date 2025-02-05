@@ -2,6 +2,10 @@
 title: The Power of Building Relationships Through Immersive Learning in Scrum
 description: Discover how immersive learning enhances your skills as a Scrum practitioner in Part 2 of our series. Elevate your Agile journey with NKD Agility!
 date: 2024-02-06T07:00:03Z
+ResourceId: 7SdBfGWCG8Q
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: 7SdBfGWCG8Q
 source: internal
 url: /resources/videos/:slug
@@ -14,6 +18,7 @@ aliases:
 - /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-2
 - /resources/videos/7SdBfGWCG8Q
 - /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-2
+- /resources/7SdBfGWCG8Q
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,10 +48,9 @@ tags:
 - leadership.
 resourceTypes:
 - video
+layout: video
 
 ---
-{{< youtube 7SdBfGWCG8Q >}}
-
 In today’s fast-paced world, learning isn’t just about acquiring knowledge—it’s about building lasting connections. This is especially true when it comes to immersive learning, where relationships formed with fellow learners play a pivotal role in enhancing the overall experience. As a Scrum Trainer, I’ve witnessed firsthand how these connections can elevate a practitioner’s journey, allowing them to not only learn but grow alongside their peers.
 
 ## **What Is Immersive Learning?**

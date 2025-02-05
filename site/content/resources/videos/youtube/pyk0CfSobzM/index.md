@@ -2,10 +2,15 @@
 title: How does a Scrum team estimate what can be delivered in a Sprint?
 description: "Master Sprint estimation in Scrum! Join Martin as he navigates the challenges of creative tasks and effective planning. Perfect for agile enthusiasts! \U0001F680"
 date: 2023-06-01T07:00:31Z
+ResourceId: pyk0CfSobzM
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: pyk0CfSobzM
 source: internal
 url: /resources/videos/:slug
 slug: how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint
+layout: video
 preview: https://i.ytimg.com/vi/pyk0CfSobzM/maxresdefault.jpg
 duration: 244
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint-
 - /resources/videos/pyk0CfSobzM
 - /resources/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint-
+- /resources/pyk0CfSobzM
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -48,8 +54,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube pyk0CfSobzM >}}
-
 ## Navigating the Uncertainties of Sprint Estimations in Scrum Teams
 
 Today, let's delve deep into a fascinating question which is, "How does a scrum team estimate what can be delivered in a single Sprint?"

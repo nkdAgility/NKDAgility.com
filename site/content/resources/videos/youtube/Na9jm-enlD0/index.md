@@ -2,10 +2,15 @@
 title: Where is consensus valuable and where does it kill great product development?
 description: "Explore the balance of consensus in product development! Discover when it fuels progress and when it stifles innovation. Join Martin for insights! \U0001F680"
 date: 2023-09-25T07:00:08Z
+ResourceId: Na9jm-enlD0
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: Na9jm-enlD0
 source: internal
 url: /resources/videos/:slug
 slug: where-is-consensus-valuable-and-where-does-it-kill-great-product-development
+layout: video
 preview: https://i.ytimg.com/vi/Na9jm-enlD0/maxresdefault.jpg
 duration: 777
 isShort: false
@@ -15,6 +20,7 @@ aliases:
 - /resources/videos/where-is-consensus-valuable-and-where-does-it-kill-great-product-development-
 - /resources/videos/Na9jm-enlD0
 - /resources/where-is-consensus-valuable-and-where-does-it-kill-great-product-development-
+- /resources/Na9jm-enlD0
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -31,14 +37,11 @@ tags:
 - product management
 - agile coach
 - agile consultant
-- scrum
 - scrum framework
 resourceTypes:
 - video
 
 ---
-{{< youtube Na9jm-enlD0 >}}
-
 ## Understanding the Dynamics of Consensus 🤔 
 
 The question of where consensus is valuable and where it impedes product development is a nuanced one. At its core, consensus means a general agreement among a group, but the journey towards that agreement can either drive success or lead to stagnation. 

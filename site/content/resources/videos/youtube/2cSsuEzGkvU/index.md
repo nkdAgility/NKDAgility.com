@@ -2,6 +2,10 @@
 title: ' shorts 7 Virtues of agile. Humility'
 description: 'Discover the power of humility in Agile! Join us as we explore one of the 7 virtues that drive successful teams. #Agile #Shorts #NakedAgility'
 date: 2023-12-12T11:00:04Z
+ResourceId: 2cSsuEzGkvU
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: 2cSsuEzGkvU
 url: /resources/videos/:slug
 slug: -shorts-7-virtues-of-agile-humility
@@ -10,6 +14,7 @@ aliases:
 - /resources/videos/2cSsuEzGkvU
 - /resources/videos/-shorts-7-virtues-of-agile-humility
 - /resources/-shorts-7-virtues-of-agile-humility
+- /resources/2cSsuEzGkvU
 preview: https://i.ytimg.com/vi/2cSsuEzGkvU/maxresdefault.jpg
 duration: 53
 isShort: true
@@ -41,9 +46,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+layout: video
+resourceTypes:
+- video
 
 ---
-{{< youtube 2cSsuEzGkvU >}} 
  #shorts #shortsvideo #shortvideo 7 virtues of #agile. Humility. #agile #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #projectmanagement #productmanagement #productdevelopment #projectmanager #productmanager #developer #scrummaster #productowner #agilecoach #agileleadership 
 
 Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 

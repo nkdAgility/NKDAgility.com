@@ -2,10 +2,15 @@
 title: 'Quotes: Fake it until you make it'
 description: 'Explore the pros and cons of "fake it until you make it" in Agile with Martin Hinshelwood. Discover insights for inspired, high-performing teams! #agile #scrum'
 date: 2023-10-11T15:00:13Z
+ResourceId: ArVDYRCKpOE
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: ArVDYRCKpOE
 source: internal
 url: /resources/videos/:slug
 slug: quotes-fake-it-until-you-make-it
+layout: video
 preview: https://i.ytimg.com/vi/ArVDYRCKpOE/maxresdefault.jpg
 duration: 64
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/quotes,-fake-it-until-you-make-it
 - /resources/videos/ArVDYRCKpOE
 - /resources/quotes,-fake-it-until-you-make-it
+- /resources/ArVDYRCKpOE
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -47,8 +53,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube ArVDYRCKpOE >}}
-
 ## Navigating its Limits in Agile Work Environments 
 
 Hello, Agile practitioners and enthusiasts. Today, let's chat about a well-known phrase in our professional lexicon: "Fake it till you make it." 🚀  

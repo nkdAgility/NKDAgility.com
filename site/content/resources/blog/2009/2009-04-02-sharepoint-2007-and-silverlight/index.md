@@ -1,6 +1,12 @@
 ---
 title: Sharepoint 2007 and Silverlight
 description: Explore the integration of SharePoint 2007 and Silverlight with insights from a practical guide. Perfect for beginners seeking to enhance their development skills!
+ResourceId: sHgkQlcvb2R
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 132
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-04-02
 creator: Martin Hinshelwood
 id: "132"
@@ -10,6 +16,11 @@ slug: sharepoint-2007-and-silverlight
 aliases:
 - /blog/sharepoint-2007-and-silverlight
 - /sharepoint-2007-and-silverlight
+- /resources/sHgkQlcvb2R
+- /resources/blog/sharepoint-2007-and-silverlight
+aliasesFor404:
+- /sharepoint-2007-and-silverlight
+- /blog/sharepoint-2007-and-silverlight
 tags:
 - moss2007
 - sharepoint

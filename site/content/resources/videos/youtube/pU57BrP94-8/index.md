@@ -2,10 +2,15 @@
 title: How will the immersive learning experience help coach people on the job?
 description: 'Discover how immersive learning transforms #scrum training into practical on-the-job coaching, enhancing skills and boosting team performance.'
 date: 2023-08-08T07:00:22Z
+ResourceId: pU57BrP94-8
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: pU57BrP94-8
 source: internal
 url: /resources/videos/:slug
 slug: how-will-the-immersive-learning-experience-help-coach-people-on-the-job
+layout: video
 preview: https://i.ytimg.com/vi/pU57BrP94-8/maxresdefault.jpg
 duration: 133
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/how-will-the-immersive-learning-experience-help-coach-people-on-the-job
 - /resources/videos/how-will-the-immersive-learning-experience-help-coach-people-on-the-job
 - /resources/videos/pU57BrP94-8
+- /resources/pU57BrP94-8
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -30,8 +36,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube pU57BrP94-8 >}}
-
 ## Immersive Learning: Revolutionising On-the-Job Agile Learning
 
 In my many years in the Agile landscape, I've keenly observed and deeply felt the power of immersive learning.  🚀 

@@ -2,10 +2,15 @@
 title: 'The Power of Kaizen: Continuous Improvement in Scrum and Beyond'
 description: Unlock the power of Kaizen in Kanban! Discover how continuous improvement can elevate your workflows and drive optimal results. Embrace the journey!
 date: 2024-08-25T22:00:34Z
+ResourceId: pVPzgsemxEY
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: pVPzgsemxEY
 source: internal
 url: /resources/videos/:slug
 slug: the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond
+layout: video
 preview: https://i.ytimg.com/vi/pVPzgsemxEY/maxresdefault.jpg
 duration: 56
 isShort: true
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/kaizen-in-kanban-the-power-of-continuous-improvement-for-optimal-results
 - /resources/videos/pVPzgsemxEY
 - /resources/kaizen-in-kanban-the-power-of-continuous-improvement-for-optimal-results
+- /resources/pVPzgsemxEY
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -31,8 +37,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube pVPzgsemxEY >}}
-
 In the world of Scrum, Agile, and Kanban, we often borrow terms from other languages to express important principles. One such term is **Kaizen** – a Japanese word that signifies continuous improvement. While we may not always use the word exactly as intended in its native language, the underlying concept is something we should all embrace in our professional lives.
 
 In this blog post, we’ll dive deep into **Kaizen**, exploring its meaning, its importance in Scrum, and how you can apply it to your daily work. Whether you’re a Scrum Master, a Product Owner, or part of a development team, the principles of continuous improvement are essential to your success.

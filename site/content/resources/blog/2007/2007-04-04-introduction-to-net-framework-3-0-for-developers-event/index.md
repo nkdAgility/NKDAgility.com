@@ -1,6 +1,12 @@
 ---
 title: Introduction to .NET Framework 3.0 for Developers Event
 description: Join us as we explore .NET Framework 3.0 insights from a Microsoft event, featuring CardSpace and Windows Workflow Foundation. Enhance your development skills!
+ResourceId: gdc1V-o308o
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 418
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-04-04
 creator: Martin Hinshelwood
 id: "418"
@@ -10,6 +16,13 @@ slug: introduction-to-net-framework-3-0-for-developers-event
 aliases:
 - /blog/introduction-to-net-framework-3-0-for-developers-event
 - /introduction-to-net-framework-3-0-for-developers-event
+- /introduction-to--net-framework-3-0-for-developers-event
+- /blog/introduction-to--net-framework-3-0-for-developers-event
+- /resources/gdc1V-o308o
+- /resources/blog/introduction-to-net-framework-3-0-for-developers-event
+aliasesFor404:
+- /introduction-to-net-framework-3-0-for-developers-event
+- /blog/introduction-to-net-framework-3-0-for-developers-event
 - /introduction-to--net-framework-3-0-for-developers-event
 - /blog/introduction-to--net-framework-3-0-for-developers-event
 tags:

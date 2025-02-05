@@ -1,6 +1,12 @@
 ---
 title: TFS Event Handler gets 3 stars from Accentient
 description: Discover how the TFS Event Handler earned 3 stars from Accentient, showcasing its popularity and impact in the TFS community. Explore the details now!
+ResourceId: CfR2sFbofzG
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 284
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-11-28
 creator: Martin Hinshelwood
 id: "284"
@@ -10,6 +16,11 @@ slug: tfs-event-handler-gets-3-stars-from-accentient
 aliases:
 - /blog/tfs-event-handler-gets-3-stars-from-accentient
 - /tfs-event-handler-gets-3-stars-from-accentient
+- /resources/CfR2sFbofzG
+- /resources/blog/tfs-event-handler-gets-3-stars-from-accentient
+aliasesFor404:
+- /tfs-event-handler-gets-3-stars-from-accentient
+- /blog/tfs-event-handler-gets-3-stars-from-accentient
 tags:
 - tfs
 - tfs2008

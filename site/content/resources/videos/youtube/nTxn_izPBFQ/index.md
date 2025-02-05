@@ -2,10 +2,15 @@
 title: How good is the APSPO course in helping leaders determine product direction and Why?
 description: Discover how the PSPO-A course empowers managers to transition from project to product leadership, enhancing product vision and team alignment in Agile.
 date: 2023-03-22T07:00:17Z
+ResourceId: nTxn_izPBFQ
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: nTxn_izPBFQ
 source: internal
 url: /resources/videos/:slug
 slug: how-good-is-the-apspo-course-in-helping-leaders-determine-product-direction-and-why
+layout: video
 preview: https://i.ytimg.com/vi/nTxn_izPBFQ/maxresdefault.jpg
 duration: 378
 isShort: false
@@ -15,6 +20,7 @@ aliases:
 - /resources/videos/how-good-is-the-pspo-a-course-in-helping-determine-product-direction-
 - /resources/videos/nTxn_izPBFQ
 - /resources/how-good-is-the-pspo-a-course-in-helping-determine-product-direction-
+- /resources/nTxn_izPBFQ
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -31,8 +37,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube nTxn_izPBFQ >}}
-
 **How good is the APSPO course in helping leaders determine product direction and Why?**
 
 For me, this is one of those questions that I have a straightforward answer: ' _Leaders_ should determine product direction because for the simple fact that any course isn't going to tell them how to do that.'

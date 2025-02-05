@@ -1,6 +1,12 @@
 ---
 title: Technorati Troubles
 description: Struggling with Technorati? Discover my challenges with URL redirects and invalid tags, and join the conversation on resolving these blogging issues.
+ResourceId: r1BGZbCmJRA
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 308
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-09-22
 creator: Martin Hinshelwood
 id: "308"
@@ -10,6 +16,11 @@ slug: technorati-troubles
 aliases:
 - /blog/technorati-troubles
 - /technorati-troubles
+- /resources/r1BGZbCmJRA
+- /resources/blog/technorati-troubles
+aliasesFor404:
+- /technorati-troubles
+- /blog/technorati-troubles
 categories:
 - me
 preview: nakedalm-logo-128-link-1-1.png

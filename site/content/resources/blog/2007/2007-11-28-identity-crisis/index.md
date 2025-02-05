@@ -1,6 +1,12 @@
 ---
 title: Identity crisis
 description: Explore how Microsoft's Identity Lifecycle Manager 2007 can streamline user identity management, enhance security, and boost operational efficiency for your business.
+ResourceId: mY6h9tz2JRJ
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 285
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-11-28
 creator: Martin Hinshelwood
 id: "285"
@@ -10,6 +16,11 @@ slug: identity-crisis
 aliases:
 - /blog/identity-crisis
 - /identity-crisis
+- /resources/mY6h9tz2JRJ
+- /resources/blog/identity-crisis
+aliasesFor404:
+- /identity-crisis
+- /blog/identity-crisis
 tags:
 - infrastructure
 - off-topic

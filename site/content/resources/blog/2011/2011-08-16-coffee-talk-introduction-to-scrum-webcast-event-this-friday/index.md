@@ -1,6 +1,12 @@
 ---
 title: 'Coffee Talk: Introduction to Scrum - webcast event this Friday!'
 description: Join us this Friday for a free webcast on Scrum! Discover key roles, processes, and tips to enhance your agile practices and boost team performance.
+ResourceId: ThIUwJr1ff_
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 3728
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2011-08-16
 creator: Martin Hinshelwood
 id: "3728"
@@ -10,6 +16,13 @@ slug: coffee-talk-introduction-to-scrum-webcast-event-this-friday
 aliases:
 - /blog/coffee-talk-introduction-to-scrum-webcast-event-this-friday
 - /coffee-talk-introduction-to-scrum-webcast-event-this-friday
+- /coffee-talk--introduction-to-scrum---webcast-event-this-friday-
+- /blog/coffee-talk--introduction-to-scrum---webcast-event-this-friday-
+- /resources/ThIUwJr1ff_
+- /resources/blog/coffee-talk-introduction-to-scrum-webcast-event-this-friday
+aliasesFor404:
+- /coffee-talk-introduction-to-scrum-webcast-event-this-friday
+- /blog/coffee-talk-introduction-to-scrum-webcast-event-this-friday
 - /coffee-talk--introduction-to-scrum---webcast-event-this-friday-
 - /blog/coffee-talk--introduction-to-scrum---webcast-event-this-friday-
 tags:

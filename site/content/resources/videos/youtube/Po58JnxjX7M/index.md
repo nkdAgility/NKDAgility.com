@@ -2,10 +2,15 @@
 title: 'Before You Call Yourself an Agile Coach: The Importance of Real Experience'
 description: 'Discover the first of 5 essential achievements to become an #AgileCoach with Martin Hinshelwood. Elevate your coaching journey today! #shorts #agile'
 date: 2023-11-13T11:00:29Z
+ResourceId: Po58JnxjX7M
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: Po58JnxjX7M
 source: internal
 url: /resources/videos/:slug
 slug: before-you-call-yourself-an-agile-coach-the-importance-of-real-experience
+layout: video
 preview: https://i.ytimg.com/vi/Po58JnxjX7M/maxresdefault.jpg
 duration: 62
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-1
 - /resources/videos/Po58JnxjX7M
 - /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-1
+- /resources/Po58JnxjX7M
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,8 +51,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube Po58JnxjX7M >}}
-
 Being an Agile coach isn’t just about mastering theories and methodologies. To truly earn the title, you must **have real, hands-on experience working with teams**. This isn’t negotiable—it's an essential part of developing the credibility and knowledge needed to effectively guide teams in Agile practices.
 
 ## **Why Practical Experience Matters in Agile Coaching**

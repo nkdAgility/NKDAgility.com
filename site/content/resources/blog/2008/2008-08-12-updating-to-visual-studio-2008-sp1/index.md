@@ -1,6 +1,12 @@
 ---
 title: Updating to Visual Studio 2008 SP1
 description: Learn how to smoothly update to Visual Studio 2008 SP1 with essential tools and tips. Ensure a hassle-free installation process for your development needs!
+ResourceId: kV6Jktk_APX
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 211
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-08-12
 creator: Martin Hinshelwood
 id: "211"
@@ -10,6 +16,11 @@ slug: updating-to-visual-studio-2008-sp1
 aliases:
 - /blog/updating-to-visual-studio-2008-sp1
 - /updating-to-visual-studio-2008-sp1
+- /resources/kV6Jktk_APX
+- /resources/blog/updating-to-visual-studio-2008-sp1
+aliasesFor404:
+- /updating-to-visual-studio-2008-sp1
+- /blog/updating-to-visual-studio-2008-sp1
 tags:
 - aggreko
 - tools

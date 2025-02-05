@@ -2,15 +2,21 @@
 title: What are 3 top tips for a new agile consultant?
 description: Unlock your potential as an agile consultant! Discover three essential tips from Martin Hinshelwood to elevate your first consulting engagement.
 date: 2023-04-14T07:00:24Z
+ResourceId: gImXmxjn_1g
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: gImXmxjn_1g
 source: youtube
 url: /resources/videos/:slug
 slug: what-are-3-top-tips-for-a-new-agile-consultant-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=gImXmxjn_1g
 aliases:
 - /resources/videos/gImXmxjn_1g
 - /resources/videos/what-are-3-top-tips-for-a-new-agile-consultant-
 - /resources/what-are-3-top-tips-for-a-new-agile-consultant-
+- /resources/gImXmxjn_1g
 preview: https://i.ytimg.com/vi/gImXmxjn_1g/maxresdefault.jpg
 duration: 376
 isShort: false
@@ -23,9 +29,10 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube gImXmxjn_1g >}} 
  Congratulations, you've earned your stripes as an #agilepractitioner and now it's time to bring your expertise, skills, and experience into the realm of #consulting. #agileconsulting to be precise.
 
 What should your initial focus be? What are the three top tips you should follow to make that first #agileconsulting engagement rock?

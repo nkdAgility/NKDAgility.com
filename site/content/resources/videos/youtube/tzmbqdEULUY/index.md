@@ -2,14 +2,20 @@
 title: DevOps Migration. Downtime
 description: Discover strategies to minimise downtime during Azure DevOps migrations. Learn from real-world examples and expert tips for a seamless transition!
 date: 2024-11-05T06:00:34Z
+ResourceId: tzmbqdEULUY
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: tzmbqdEULUY
 url: /resources/videos/:slug
 slug: devops-migration-downtime
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=tzmbqdEULUY
 aliases:
 - /resources/videos/tzmbqdEULUY
 - /resources/videos/devops-migration-downtime
 - /resources/devops-migration-downtime
+- /resources/tzmbqdEULUY
 preview: https://i.ytimg.com/vi/tzmbqdEULUY/maxresdefault.jpg
 duration: 218
 isShort: false
@@ -23,9 +29,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube tzmbqdEULUY >}} 
  In this video, we tackle one of the most critical challenges in Azure DevOps data migration: minimizing downtime. For organizations with thousands of engineers, even a short downtime can disrupt productivity. However, careful planning, strategic use of dry runs, and effective teamwork can help minimize downtime to almost zero.
 
 We discuss how Git, as a decentralized source control, allows engineers to work even during migration downtime. Plus, I share insights from a real-world case where we successfully migrated a massive 2.5TB TFS collection with minimal downtime by executing the migration on a Friday evening and restoring operations by Monday morning. Planning, validation, and collaboration were the keys to a smooth transition!

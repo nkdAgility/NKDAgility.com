@@ -1,15 +1,21 @@
 ---
-title: Shifting Left. Quality from the Start
+title: Code Reviews for Quality Assurance
 description: Discover how to integrate quality from the start in software development with Martin Hinshelwood. Embrace shifting left for better products and reduced technical debt!
 date: 2024-11-20T07:00:26Z
+ResourceId: s4h2K62V_d0
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: s4h2K62V_d0
+source: internal
 url: /resources/videos/:slug
-slug: shifting-left-quality-from-the-start
-canonicalUrl: https://www.youtube.com/watch?v=s4h2K62V_d0
+slug: code-reviews-for-quality-assurance
+layout: video
 aliases:
 - /resources/videos/s4h2K62V_d0
 - /resources/videos/shifting-left-quality-from-the-start
 - /resources/shifting-left-quality-from-the-start
+- /resources/s4h2K62V_d0
 preview: https://i.ytimg.com/vi/s4h2K62V_d0/maxresdefault.jpg
 duration: 600
 isShort: false
@@ -26,49 +32,22 @@ tags:
 - scrum master
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
-source: youtube
+  priority: 0.6
+resourceTypes:
+- video
 
 ---
-{{< youtube s4h2K62V_d0 >}} 
- # Shift Left: Building Quality In From the Start | Martin Hinshelwood  
+# Code reviews for quality assurance | Martin Hinshelwood  
 
-👋 Hi, I’m Martin Hinshelwood from [NKD Agility](https://www.nkdagility.com), and in this video, I explore the transformative concept of **shifting left** in modern software engineering. It’s about integrating quality, security, and testing into the earliest stages of development, empowering teams to build better products and avoid the pitfalls of technical debt. From test-driven development to pair programming, I’ll share actionable insights and real-world examples that demonstrate why shifting left is a game-changer.
+  📍  📍  Are multiple schools of thought.  One school of thought is that code reviews help us improve our code quality, help reduce defects because we get multiple eyes looking at the product. But I think that's only part of the story.  As we shift left, another school of thought starts to come to the forefront, which is our code should be pre reviewed. 
 
-**📌 Chapters:**  
+A code review, a person manually code reviewing our code should not actually be required because our code should already have been reviewed by the time we submit a pull request. And that would then enable us all of our pull requests to be almost totally automated or as automated as we can get to so that the pull request process itself is not becoming a blocker to delivering value in our business.
 
-1. 00:00 – Introduction: What is Shift Left?  
-2. 01:30 – Why Shift Left is Controversial  
-3. 04:00 – Owning the Code: Build, Test, and Support  
-4. 07:15 – Key Skills for Modern Engineering Teams  
-5. 10:00 – Tools & Techniques: Test-Driven Development, Pair Programming  
-6. 14:30 – Lessons from the Azure DevOps Team  
-7. 19:00 – How Shifting Left Impacts Productivity and Innovation  
-8. 22:00 – Building a Culture of Engineering Excellence  
+So there are lots of different techniques and practices within the context of code reviews. I very much support and value code reviews and pull request systems that are in place in GitHub and Azure DevOps. I would absolutely recommend that nobody is able to commit code  to master to main without going through a pull request and without passing  validated checks.
 
-**🎯 Who This Video is For:**  
+But those validated checks should be in place. As automated as they can possibly be within the context of your system. And Naked Agility has helped others and can help you create. automations and practices and procedures that enable you to have the highest quality possible code and detect defects as early as possible.
 
-- Software engineers and developers seeking to improve product quality and reduce technical debt  
-- Engineering managers and CTOs focused on scaling effective teams  
-- Agile practitioners looking to integrate modern engineering practices into their workflow  
 
-**📖 What You’ll Learn:**  
-
-- Why shifting quality assurance earlier in the development cycle improves outcomes  
-- The importance of engineering teams owning the entire product lifecycle, from development to production support  
-- How test-driven development leads to better architectures  
-- The productivity and innovation gains from pair programming  
-- Real-world insights from the Azure DevOps team’s journey to continuous delivery  
-- How shifting left minimizes production bugs, brand damage, and missed opportunities  
-
-**💡 Key Takeaways:**  
-
-- Shifting left empowers teams to "build quality in" rather than testing it in later.  
-- Practices like pair programming and test-driven development may seem slower initially but drastically reduce costs and increase efficiency in the long run.  
-- Paying down technical debt enables exponential productivity and value gains.  
-- Iterating quickly through small experiments creates better products that resonate with customers.  
-
-Are you ready to embrace modern software engineering practices and unlock your team’s potential? At [NKD Agility](https://www.nkdagility.com), we specialize in helping organizations implement effective strategies tailored to their context. Let’s shift left and build excellence together!  
 
 #agile #scrum #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #productdevelopment #projectmanagement #projectmanager #productmanager #developer 
  [Watch on Youtube](https://www.youtube.com/watch?v=s4h2K62V_d0)

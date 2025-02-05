@@ -2,10 +2,15 @@
 title: 'Agile Leadership: Empowering Managers with the Right Skills'
 description: Discover why training is essential for managers transitioning to agile leaders in a complex world. Join Martin Hinshelwood for insights on thriving teams!
 date: 2023-11-29T07:00:23Z
+ResourceId: W3cyrYFXDfg
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: W3cyrYFXDfg
 source: internal
 url: /resources/videos/:slug
 slug: agile-leadership-empowering-managers-with-the-right-skills
+layout: video
 preview: https://i.ytimg.com/vi/W3cyrYFXDfg/maxresdefault.jpg
 duration: 205
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leader's-journey
 - /resources/videos/W3cyrYFXDfg
 - /resources/why-is-training-such-a-critical-element-in-a-manager-or-leader's-journey
+- /resources/W3cyrYFXDfg
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -22,8 +28,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube W3cyrYFXDfg >}}
-
 In today's fast-paced business world, managers are expected to not only manage but also lead. This shift can be daunting, especially when there’s little to no training or guidance provided. Most managers are left to figure out how to become leaders on their own. While some exceptional individuals thrive in this environment, many would benefit from a bit of help. That’s where agile leadership training comes into play.
 
 ## The Challenge of Transitioning to Leadership

@@ -1,6 +1,12 @@
 ---
 title: I always wanted to be an Admiral!
 description: Join Martin Hinshelwood as he reflects on his dream of becoming an Admiral, inspired by Battlestar Galactica. Dive into personal insights and fun quizzes!
+ResourceId: GsQob9JDjYK
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 251
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-02-03
 creator: Martin Hinshelwood
 id: "251"
@@ -10,6 +16,13 @@ slug: i-always-wanted-to-be-an-admiral
 aliases:
 - /blog/i-always-wanted-to-be-an-admiral
 - /i-always-wanted-to-be-an-admiral
+- /i-always-wanted-to-be-an-admiral-
+- /blog/i-always-wanted-to-be-an-admiral-
+- /resources/GsQob9JDjYK
+- /resources/blog/i-always-wanted-to-be-an-admiral
+aliasesFor404:
+- /i-always-wanted-to-be-an-admiral
+- /blog/i-always-wanted-to-be-an-admiral
 - /i-always-wanted-to-be-an-admiral-
 - /blog/i-always-wanted-to-be-an-admiral-
 categories:

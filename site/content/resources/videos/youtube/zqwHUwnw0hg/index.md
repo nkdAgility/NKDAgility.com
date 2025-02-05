@@ -2,10 +2,15 @@
 title: What will you learn on the professional scrum master course?
 description: Discover how the Professional Scrum Master course empowers you to lead agile teams, fostering autonomy and collaboration for optimal success.
 date: 2023-01-19T07:00:14Z
+ResourceId: zqwHUwnw0hg
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: zqwHUwnw0hg
 source: internal
 url: /resources/videos/:slug
 slug: what-will-you-learn-on-the-professional-scrum-master-course
+layout: video
 preview: https://i.ytimg.com/vi/zqwHUwnw0hg/maxresdefault.jpg
 duration: 326
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/what-will-you-learn-on-the-professional-scrum-master-course-
 - /resources/videos/zqwHUwnw0hg
 - /resources/what-will-you-learn-on-the-professional-scrum-master-course-
+- /resources/zqwHUwnw0hg
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -28,8 +34,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube zqwHUwnw0hg >}}
-
 What will you learn on the professional scrum master course?
 
 The [Professional Scrum Master](https://nkdagility.com/training/courses/professional-scrum-master-psm-live-virtual-learning-experience-with-certification/) (PSM) course has a large degree of theory relating to scrum than something like the [Applying Professional Scrum](https://nkdagility.com/training/courses/applying-professional-scrum-aps-live-virtual-learning-experience-with-certification/) (APS) course.

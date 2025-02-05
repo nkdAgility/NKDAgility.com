@@ -1,6 +1,12 @@
 ---
 title: Am I a stoner hippy?
 description: Explore the journey of a 'multi-dimensional free thinker' grappling with dyslexia, creativity, and the challenges of traditional education. Discover the gift within!
+ResourceId: CNzLcasBQF9
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 146
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-01-12
 creator: Martin Hinshelwood
 id: "146"
@@ -10,6 +16,13 @@ slug: am-i-a-stoner-hippy
 aliases:
 - /blog/am-i-a-stoner-hippy
 - /am-i-a-stoner-hippy
+- /am-i-a-stoner-hippy-
+- /blog/am-i-a-stoner-hippy-
+- /resources/CNzLcasBQF9
+- /resources/blog/am-i-a-stoner-hippy
+aliasesFor404:
+- /am-i-a-stoner-hippy
+- /blog/am-i-a-stoner-hippy
 - /am-i-a-stoner-hippy-
 - /blog/am-i-a-stoner-hippy-
 tags:

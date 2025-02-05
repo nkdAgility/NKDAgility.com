@@ -1,0 +1,11 @@
+If a client, so if you're doing Agile, why should you incorporate DevOps? I think the core answer is that you can't really, if you're building software products—I'll caveat that—if you're building software products, you can't do one and not the other. DevOps is really synonymous with this idea of engineering excellence, right? Of shortening the feedback loop, making high-quality code, shifting left, and those things are part of that DevOps story. 
+
+They need to go up in kind of logger step with your Agile practices. And if you're doing something else, let's say you're doing marketing, right? You're delivering marketing output, then your Agile practices will increase, but you need to increase your capability of your teams to deliver marketing content, right? That would be that technical site in the software world—it's DevOps, right? 
+
+Building up that expertise, if you're amazing at delivering products to production really quickly, of delivering high-quality products to production really quickly, but you haven't figured out how to adapt your organisation so that you respond more quickly to the market, then you're still not going to get the value from the DevOps, right? 
+
+So trying to figure out how you maintain, keep increasing your levels of technical capability of engineering excellence, right, on one side, at the same pace as you're increasing your ability for your organisation to respond to the market, right? Whatever market you're in is really important. You have to balance that out. 
+
+I mean, one can get further ahead than the other, but you really do need them to go in step. So once you start bringing in those engineering excellence or DevOps practices, you're able to allow your engineers to really focus on how they shorten those feedback loops—not just the business feedback loops, but the actual engineering feedback loops—and build products that they can get into production as quickly as possible so you can validate all of the assumptions that you made when you were designing it. 
+
+Thanks for watching the video! If you enjoyed it, please like, follow, and subscribe. I always reply to comments, and if you want to have a chat about this or anything else Agile, Scrum, or DevOps, then please book a coffee with me through Naked Agility.

@@ -1,6 +1,12 @@
 ---
 title: TFS Speed Problems
 description: Struggling with Team Foundation Server speed issues? Discover tips to diagnose and improve performance for a smoother development experience!
+ResourceId: OeHyC7ftjHo
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 395
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-05-28
 creator: Martin Hinshelwood
 id: "395"
@@ -10,6 +16,11 @@ slug: tfs-speed-problems
 aliases:
 - /blog/tfs-speed-problems
 - /tfs-speed-problems
+- /resources/OeHyC7ftjHo
+- /resources/blog/tfs-speed-problems
+aliasesFor404:
+- /tfs-speed-problems
+- /blog/tfs-speed-problems
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

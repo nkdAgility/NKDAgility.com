@@ -1,6 +1,12 @@
 ---
 title: Using the Build vNext capabilities and demands system
 description: Explore the new Build vNext capabilities and demands system in TFS 2015. Simplify your build process with enhanced features and auto-detection. Learn more!
+ResourceId: iEMi_TIORPX
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 11081
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2015-03-11
 creator: Martin Hinshelwood
 id: "11081"
@@ -10,6 +16,13 @@ slug: using-build-vnext-capabilities-demands-system
 aliases:
 - /blog/using-build-vnext-capabilities-demands-system
 - /using-build-vnext-capabilities-demands-system
+- /using-the-build-vnext-capabilities-and-demands-system
+- /blog/using-the-build-vnext-capabilities-and-demands-system
+- /resources/iEMi_TIORPX
+- /resources/blog/using-build-vnext-capabilities-demands-system
+aliasesFor404:
+- /using-build-vnext-capabilities-demands-system
+- /blog/using-build-vnext-capabilities-demands-system
 - /using-the-build-vnext-capabilities-and-demands-system
 - /blog/using-the-build-vnext-capabilities-and-demands-system
 tags:

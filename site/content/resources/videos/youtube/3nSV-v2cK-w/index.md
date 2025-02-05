@@ -2,6 +2,10 @@
 title: If you could distil the PSM immersive learning experience into 3 major benefits. What would they be?
 description: Discover the top 3 benefits of the immersive PSM experience compared to the 2-day course. Elevate your Scrum skills with insights from Kanban Dan!
 date: 2023-07-13T07:38:00Z
+ResourceId: 3nSV-v2cK-w
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: 3nSV-v2cK-w
 source: youtube
 url: /resources/videos/:slug
@@ -11,6 +15,7 @@ aliases:
 - /resources/videos/3nSV-v2cK-w
 - /resources/videos/if-you-could-distil-the-psm-immersive-learning-experience-into-3-major-benefits-what-would-they-be-
 - /resources/if-you-could-distil-the-psm-immersive-learning-experience-into-3-major-benefits-what-would-they-be-
+- /resources/3nSV-v2cK-w
 preview: https://i.ytimg.com/vi/3nSV-v2cK-w/maxresdefault.jpg
 duration: 255
 isShort: false
@@ -27,9 +32,11 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+layout: video
+resourceTypes:
+- video
 
 ---
-{{< youtube 3nSV-v2cK-w >}} 
  If you're comparing the 2-day Professional Scrum Master course with the 7-week immersive learning experience, Kanban Dan has some great insights into some additional benefits you can pick up from the immersive learning experience. 
 
 Register for the 6 September 2023 PSM course on https://nkdagility.com/training-courses/scrum-training-courses/professional-scrum-master-psm-with-certification/

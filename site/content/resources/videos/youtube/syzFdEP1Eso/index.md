@@ -2,10 +2,15 @@
 title: Why 'Definition of Done' is Crucial for Success in Scrum
 description: "Unlock the secrets of defining 'done' in agile projects with a fun bakery analogy! Perfect for scrum masters and agile teams seeking clarity. \U0001F369\U0001F956"
 date: 2023-11-14T07:00:30Z
+ResourceId: syzFdEP1Eso
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: syzFdEP1Eso
 source: internal
 url: /resources/videos/:slug
 slug: why-definition-of-done-is-crucial-for-success-in-scrum
+layout: video
 preview: https://i.ytimg.com/vi/syzFdEP1Eso/maxresdefault.jpg
 duration: 352
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/how-do-you-define-a-definition-of-done-if-you-aren't-100-sure-what-the-solution-is-
 - /resources/videos/syzFdEP1Eso
 - /resources/how-do-you-define-a-definition-of-done-if-you-aren't-100-sure-what-the-solution-is-
+- /resources/syzFdEP1Eso
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,8 +51,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube syzFdEP1Eso >}}
-
 When we talk about Scrum, one of the most critical elements that often gets overlooked is the **Definition of Done**. It's one of those terms that seem straightforward on the surface, but once you dig into it, there's a lot more than meets the eye. Today, we’ll explore why the Definition of Done is crucial, how it’s independent of the solution you're working on, and how it can be applied universally to different projects—whether you're developing software or running a bakery!
 
 ## **What is the Definition of Done?**

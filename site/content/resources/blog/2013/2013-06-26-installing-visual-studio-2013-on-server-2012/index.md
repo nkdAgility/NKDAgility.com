@@ -1,6 +1,12 @@
 ---
 title: Installing Visual Studio 2013 on Server 2012
 description: Learn how to install Visual Studio 2013 on Server 2012 effortlessly. Follow this guide for a quick setup and explore new features to enhance your development!
+ResourceId: LAt1NHw5pbR
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 9908
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2013-06-26
 creator: Martin Hinshelwood
 id: "9908"
@@ -10,6 +16,11 @@ slug: installing-visual-studio-2013-on-server-2012
 aliases:
 - /blog/installing-visual-studio-2013-on-server-2012
 - /installing-visual-studio-2013-on-server-2012
+- /resources/LAt1NHw5pbR
+- /resources/blog/installing-visual-studio-2013-on-server-2012
+aliasesFor404:
+- /installing-visual-studio-2013-on-server-2012
+- /blog/installing-visual-studio-2013-on-server-2012
 tags:
 - configuration
 - microsoft-id

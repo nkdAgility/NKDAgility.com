@@ -2,10 +2,15 @@
 title: 'Quotes: Less is More. True or False?'
 description: "Explore the truth behind \"Less is More\" with Martin Hinshelwood's insights on #agile. Discover how simplicity can drive team success! #shorts #scrum"
 date: 2023-10-14T07:00:13Z
+ResourceId: V88FjP9f7_0
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: V88FjP9f7_0
 source: internal
 url: /resources/videos/:slug
 slug: quotes-less-is-more-true-or-false
+layout: video
 preview: https://i.ytimg.com/vi/V88FjP9f7_0/maxresdefault.jpg
 duration: 37
 isShort: true
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/quotes-less-is-more-true-or-false-
 - /resources/videos/V88FjP9f7_0
 - /resources/quotes-less-is-more-true-or-false-
+- /resources/V88FjP9f7_0
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -47,8 +53,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube V88FjP9f7_0 >}}
-
 **Embracing 'Less is More' in Agile: Maximising Value, Minimising Waste 🚀🌟** 
 
 In the world of Agile and Kanban, the mantra 'less is more' isn't just a catchy phrase; it's a core principle that drives efficiency and value. The Agile Manifesto itself highlights the importance of maximising work not done, urging teams to focus on what truly adds value and to discard the superfluous. 

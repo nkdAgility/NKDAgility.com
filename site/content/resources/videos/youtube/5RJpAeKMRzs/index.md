@@ -2,6 +2,10 @@
 title: The 7 Deadly Sins of Agile!
 description: Discover the 7 Deadly Sins of Agile and learn how to avoid common pitfalls in your agile journey. Transform your approach for lasting success!
 date: 2024-04-14T12:17:16Z
+ResourceId: 5RJpAeKMRzs
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: 5RJpAeKMRzs
 url: /resources/videos/:slug
 slug: the-7-deadly-sins-of-agile!
@@ -10,6 +14,7 @@ aliases:
 - /resources/videos/5RJpAeKMRzs
 - /resources/videos/the-7-deadly-sins-of-agile!
 - /resources/the-7-deadly-sins-of-agile!
+- /resources/5RJpAeKMRzs
 preview: https://i.ytimg.com/vi/5RJpAeKMRzs/maxresdefault.jpg
 duration: 2299
 isShort: false
@@ -18,9 +23,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+layout: video
+resourceTypes:
+- video
 
 ---
-{{< youtube 5RJpAeKMRzs >}} 
  This video unravels the complex challenges of implementing an agile philosophy within organizations. Through a deep dive into the "Seven Deadly Sins of Agile," I share personal insights and experiences to guide you away from common pitfalls and towards a more effective and genuinely agile approach. From lust for quick fixes to the pride that blinds, we'll explore how these sins can derail your agile journey and what you can do to stay on the right path.
 
 Enjoy this video? 🔔 Like and subscribe to our channel: https://www.youtube.com/@nakedAgility

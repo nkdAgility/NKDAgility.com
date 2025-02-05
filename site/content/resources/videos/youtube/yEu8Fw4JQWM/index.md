@@ -2,10 +2,15 @@
 title: In WIP, less is more.  Why?
 description: "Unlock productivity with 'Less is More' in Agile! Discover how minimalism transforms workflows and boosts efficiency. Watch now! \U0001F680"
 date: 2023-05-09T07:00:19Z
+ResourceId: yEu8Fw4JQWM
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: yEu8Fw4JQWM
 source: internal
 url: /resources/videos/:slug
 slug: in-wip-less-is-more-why
+layout: video
 preview: https://i.ytimg.com/vi/yEu8Fw4JQWM/maxresdefault.jpg
 duration: 263
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/in-wip,-less-is-more,-why-
 - /resources/videos/yEu8Fw4JQWM
 - /resources/in-wip,-less-is-more,-why-
+- /resources/yEu8Fw4JQWM
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -33,8 +39,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube yEu8Fw4JQWM >}}
-
 ## Why Less is Always More When It Comes to WIP
 
 I'm sure most of you in the Agile world have heard the acronym WIP, which stands for 'work in progress'. 🤔

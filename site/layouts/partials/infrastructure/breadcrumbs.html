@@ -31,10 +31,6 @@
     {{- end }}
   </ul>
 </nav>
-{{- if ne hugo.Environment "production" }}
-  <button class="btn btn-outline-info" title="Click to copy" onclick="navigator.clipboard.writeText('{{ .Path }}');" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;">{{ .Path }} <i class="fa-regular fa-clipboard"></i></button>
-{{ end }}
-
 
 <style>
   .breadcrumb {

@@ -1,6 +1,12 @@
 ---
 title: One Team Project to rule them all
 description: Explore the concept of a single Team Project in TFS to streamline multiple teams and projects, enhancing collaboration and efficiency in Agile environments.
+ResourceId: 8AfjJ-2eCEV
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 6160
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2012-07-15
 creator: Martin Hinshelwood
 id: "6160"
@@ -10,6 +16,13 @@ slug: one-team-project
 aliases:
 - /blog/one-team-project
 - /one-team-project
+- /one-team-project-to-rule-them-all
+- /blog/one-team-project-to-rule-them-all
+- /resources/8AfjJ-2eCEV
+- /resources/blog/one-team-project
+aliasesFor404:
+- /one-team-project
+- /blog/one-team-project
 - /one-team-project-to-rule-them-all
 - /blog/one-team-project-to-rule-them-all
 tags:

@@ -1,6 +1,12 @@
 ---
 title: MSDN Roadshow UK 2007
 description: Discover insights from the MSDN Roadshow UK 2007 at Glasgow Science Center, featuring engaging talks by Daniel Moth and Mike Taulty. Don't miss out!
+ResourceId: gm2PHIhIPbi
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 430
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-03-19
 creator: Martin Hinshelwood
 id: "430"
@@ -10,6 +16,11 @@ slug: msdn-roadshow-uk-2007
 aliases:
 - /blog/msdn-roadshow-uk-2007
 - /msdn-roadshow-uk-2007
+- /resources/gm2PHIhIPbi
+- /resources/blog/msdn-roadshow-uk-2007
+aliasesFor404:
+- /msdn-roadshow-uk-2007
+- /blog/msdn-roadshow-uk-2007
 tags:
 - events-and-presentations
 - msdn

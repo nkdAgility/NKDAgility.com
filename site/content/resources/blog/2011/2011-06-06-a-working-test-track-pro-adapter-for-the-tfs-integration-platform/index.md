@@ -1,6 +1,12 @@
 ---
 title: A working Test Track Pro Adapter for the TFS Integration Platform
 description: Discover a reliable Test Track Pro Adapter for the TFS Integration Platform, enabling seamless updates and efficient work item management. Learn more!
+ResourceId: W5oq_99ThZi
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 3606
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2011-06-06
 creator: Martin Hinshelwood
 id: "3606"
@@ -10,6 +16,11 @@ slug: a-working-test-track-pro-adapter-for-the-tfs-integration-platform
 aliases:
 - /blog/a-working-test-track-pro-adapter-for-the-tfs-integration-platform
 - /a-working-test-track-pro-adapter-for-the-tfs-integration-platform
+- /resources/W5oq_99ThZi
+- /resources/blog/a-working-test-track-pro-adapter-for-the-tfs-integration-platform
+aliasesFor404:
+- /a-working-test-track-pro-adapter-for-the-tfs-integration-platform
+- /blog/a-working-test-track-pro-adapter-for-the-tfs-integration-platform
 tags:
 - nwcadence
 - ttp

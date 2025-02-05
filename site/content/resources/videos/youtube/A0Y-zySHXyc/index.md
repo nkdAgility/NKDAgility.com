@@ -2,10 +2,15 @@
 title: What are the barriers that prevent developers from fully accepting a Product Owner as the final decision maker?
 description: Explore the barriers hindering developers from accepting product owners' decisions. Discover the importance of respect and accountability in agile teams!
 date: 2023-10-03T07:00:08Z
+ResourceId: A0Y-zySHXyc
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: A0Y-zySHXyc
 source: internal
 url: /resources/videos/:slug
 slug: what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-decision-maker
+layout: video
 preview: https://i.ytimg.com/vi/A0Y-zySHXyc/maxresdefault.jpg
 duration: 315
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-word
 - /resources/videos/A0Y-zySHXyc
 - /resources/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-word
+- /resources/A0Y-zySHXyc
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -31,8 +37,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube A0Y-zySHXyc >}}
-
 ## Bridging the Gap Between Developers and Product Owners 🌉 
 
 In the realm of software development, the relationship between developers and Product Owners is a critical one. Let's explore why sometimes this relationship is strained and how to mend it. 

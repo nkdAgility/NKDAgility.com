@@ -1,6 +1,12 @@
 ---
 title: TFS Event Handler Prototype Feedback
 description: Share your thoughts on the TFS Event Handler prototype! Discover its integration capabilities and help shape future versions with your feedback.
+ResourceId: J5YgyYAO9sM
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 369
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-07-16
 creator: Martin Hinshelwood
 id: "369"
@@ -10,6 +16,11 @@ slug: tfs-event-handler-prototype-feedback
 aliases:
 - /blog/tfs-event-handler-prototype-feedback
 - /tfs-event-handler-prototype-feedback
+- /resources/J5YgyYAO9sM
+- /resources/blog/tfs-event-handler-prototype-feedback
+aliasesFor404:
+- /tfs-event-handler-prototype-feedback
+- /blog/tfs-event-handler-prototype-feedback
 tags:
 - ml
 - tfs-event-handler

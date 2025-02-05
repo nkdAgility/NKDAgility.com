@@ -2,10 +2,15 @@
 title: Why is Lego a shit idea for a scrum trainer - Part 3
 description: Martin Hinshelwood critiques the use of Lego in scrum training, arguing executives prefer valuable learning over play. Discover his insights in this short video!
 date: 2023-10-05T07:00:04Z
+ResourceId: AJ8-c0l7oRQ
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: AJ8-c0l7oRQ
 source: internal
 url: /resources/videos/:slug
 slug: why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3
+layout: video
 preview: https://i.ytimg.com/vi/AJ8-c0l7oRQ/maxresdefault.jpg
 duration: 43
 isShort: true
@@ -13,6 +18,7 @@ aliases:
 - /resources/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3
 - /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3
 - /resources/videos/AJ8-c0l7oRQ
+- /resources/AJ8-c0l7oRQ
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,8 +49,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube AJ8-c0l7oRQ >}}
-
 ## Finding the Right Balance between Simplicity and Complexity 🧱 
 
 In our pursuit to find effective tools for Scrum training, we've pondered over various alternatives. Lego, while popular, is noticeably absent from our toolkit. This choice isn't arbitrary; it's a deliberate decision stemming from our commitment to creating a realistic and impactful learning experience. While Lego's structured simplicity may seem appealing for illustrating concepts, it often falls short in conveying the dynamic and often chaotic world of Scrum.  

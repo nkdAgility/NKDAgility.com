@@ -1,6 +1,12 @@
 ---
 title: Fun with Virgin+
 description: Join Martin as he navigates the challenges of setting up Virgin+ while preparing for a new arrival. Discover his clever solutions and personal insights!
+ResourceId: PHUHjUVq45E
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 141
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-01-30
 creator: Martin Hinshelwood
 id: "141"
@@ -10,6 +16,13 @@ slug: fun-with-virgin
 aliases:
 - /blog/fun-with-virgin
 - /fun-with-virgin
+- /fun-with-virgin+
+- /blog/fun-with-virgin+
+- /resources/PHUHjUVq45E
+- /resources/blog/fun-with-virgin
+aliasesFor404:
+- /fun-with-virgin
+- /blog/fun-with-virgin
 - /fun-with-virgin+
 - /blog/fun-with-virgin+
 categories:

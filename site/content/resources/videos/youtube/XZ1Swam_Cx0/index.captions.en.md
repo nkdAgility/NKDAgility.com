@@ -1,0 +1,3 @@
+One of the seven signs of the agile apocalypse is the Antichrist. In our context, that Antichrist is fake agilists. I think that's probably the best way to describe them. People who perhaps have a certification in agile, they passed an assessment; perhaps they didn't even take a class, they just passed an assessment, and they believe that they're qualified to help engage and enable software teams when they have no clue whatsoever how software is made. Those are the Antichrist.
+
+Thanks for watching the video. If you enjoyed it, please like, follow, and subscribe. I always reply to comments, and if you want to have a chat about this or anything else—agile, scrum, or devops—then please book a coffee with me through Naked Agility.

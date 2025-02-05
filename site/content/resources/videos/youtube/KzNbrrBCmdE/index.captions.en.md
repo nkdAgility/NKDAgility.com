@@ -1,0 +1,3 @@
+The flexibility that you gain by being able to move things around ad hoc. I can move this one team from here to here. I can move this one project from here to here. I can merge projects. I can split projects. That overrides in most cases if you need it. The inflexibility on how the data is formed, right? That it's not quite as high fidelity as some folks would like, that they're able to do it when they before is enough. 
+
+So I think flexibility and inflexibility depend on what it is that you're trying to achieve. What's the outcome that you're doing? What's your goal? Figuring out which is the best method within that context and doing the best we can within that context.

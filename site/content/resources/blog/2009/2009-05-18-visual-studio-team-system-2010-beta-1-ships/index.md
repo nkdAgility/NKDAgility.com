@@ -1,6 +1,12 @@
 ---
 title: Visual Studio Team System 2010 Beta 1 Ships
 description: Discover the features of Visual Studio Team System 2010 Beta 1, now available for download. Enhance your development experience with powerful new tools!
+ResourceId: -TRUW1RsR2n
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 121
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-05-18
 creator: Martin Hinshelwood
 id: "121"
@@ -10,6 +16,11 @@ slug: visual-studio-team-system-2010-beta-1-ships
 aliases:
 - /blog/visual-studio-team-system-2010-beta-1-ships
 - /visual-studio-team-system-2010-beta-1-ships
+- /resources/-TRUW1RsR2n
+- /resources/blog/visual-studio-team-system-2010-beta-1-ships
+aliasesFor404:
+- /visual-studio-team-system-2010-beta-1-ships
+- /blog/visual-studio-team-system-2010-beta-1-ships
 tags:
 - tfs
 - tfs2010

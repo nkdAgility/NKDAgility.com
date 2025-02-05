@@ -2,10 +2,15 @@
 title: 'Quotes: In the past the man has been first; in the future the system must be first. Frederick Winslow Taylor'
 description: "Explore Frederick Taylor's insight on prioritising systems over individuals in management. Join Martin Hinshelwood as he unpacks this shift in thinking. #shorts"
 date: 2023-10-12T11:00:15Z
+ResourceId: KX1xViey_BA
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: KX1xViey_BA
 source: internal
 url: /resources/videos/:slug
 slug: quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor
+layout: video
 preview: https://i.ytimg.com/vi/KX1xViey_BA/maxresdefault.jpg
 duration: 48
 isShort: true
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/quotes-in-the-past-the-man-has-been-first;-in-the-future-the-system-must-be-first-frederick-taylor
 - /resources/videos/KX1xViey_BA
 - /resources/quotes-in-the-past-the-man-has-been-first;-in-the-future-the-system-must-be-first-frederick-taylor
+- /resources/KX1xViey_BA
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -47,8 +53,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube KX1xViey_BA >}}
-
 ## People, Systems, and Finding the Balance 
 
 Let’s dive into a historical perspective to understand our current work environments better. Let's talk about the Industrial Revolution, its focus shift from people to systems, and what it means for us in the Agile world. 🏭🌐 

@@ -2,10 +2,15 @@
 title: '7 Deadly Sins of Agile: Greed'
 description: "Uncover the hidden dangers of greed in agile! \U0001F6AB\U0001F4C8 Join Martin Hinshelwood as he reveals how this sin can derail teams and hinder productivity."
 date: 2023-10-11T12:00:36Z
+ResourceId: fZLGlqMdejA
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: fZLGlqMdejA
 source: internal
 url: /resources/videos/:slug
 slug: 7-deadly-sins-of-agile-greed
+layout: video
 preview: https://i.ytimg.com/vi/fZLGlqMdejA/maxresdefault.jpg
 duration: 380
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/greed!-7-deadly-sins-of-agile
 - /resources/videos/fZLGlqMdejA
 - /resources/greed!-7-deadly-sins-of-agile
+- /resources/fZLGlqMdejA
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -47,8 +53,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube fZLGlqMdejA >}}
-
 **Overcoming Greed in Agile: A Path to Value and Efficiency** 
 
 In Agile environments, the concept of greed often manifests as an overwhelming focus on resource utilisation, overshadowing the core Agile principle of delivering value. 

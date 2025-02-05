@@ -1,0 +1,3 @@
+If you're having a conversation about Caman vs Scrum, you probably don't understand Caman very well. Caman is a strategy that you can apply to any system, any process, to gain deeper insights and understandings of that system and process so that you can optimize it to increase the flow of value through that system. So it's not Scrum, it's Caman. It's Scrum and Caman always. If you're using another system, it's that system and Caman always. 
+
+So you can see what's going on. Caman is a tool to increase transparency for any system, for any type of work, in any situation, and it will always add value to the conversation.

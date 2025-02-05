@@ -2,15 +2,21 @@
 title: Building a High Performance Delivery Engine
 description: Join Martin Hinshelwood as he uncovers the secrets to building a high-performance delivery engine, blending Agile, Lean, and DevOps for organisational excellence.
 date: 2024-12-03T06:30:00Z
+ResourceId: quFj6dy5M7E
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: quFj6dy5M7E
 source: youtube
 url: /resources/videos/:slug
 slug: building-a-high-performance-delivery-engine
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=quFj6dy5M7E
 aliases:
 - /resources/videos/quFj6dy5M7E
 - /resources/videos/building-a-high-performance-delivery-engine
 - /resources/building-a-high-performance-delivery-engine
+- /resources/quFj6dy5M7E
 preview: https://i9.ytimg.com/vi/quFj6dy5M7E/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAiaNZF3dxererISCSR8zTqhCN2mw
 duration: 266
 isShort: false
@@ -32,9 +38,10 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube quFj6dy5M7E >}} 
  Building a High-Performance Delivery Engine for Your Organization | Martin Hinshelwood
 
 👋 Hi, I’m Martin Hinshelwood from NKD Agility, and in this video, I explore what it takes to build a high-performance delivery engine in your organization. It’s not just about technical skills—it’s about fostering competence across technical, business, and product development contexts. I’ll share insights on how every team member can contribute to delivering value while leveraging Agile, Scrum, Lean, and DevOps philosophies to create a culture of excellence.

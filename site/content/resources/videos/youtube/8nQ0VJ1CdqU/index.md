@@ -2,10 +2,15 @@
 title: Why did so many of the early agile transformations fail?
 description: Discover why many early agile transformations failed and learn how to achieve success in your organisation with insights from Martin Hinshelwood.
 date: 2023-02-06T07:00:02Z
+ResourceId: 8nQ0VJ1CdqU
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: 8nQ0VJ1CdqU
 source: internal
 url: /resources/videos/:slug
 slug: why-did-so-many-of-the-early-agile-transformations-fail
+layout: video
 preview: https://i.ytimg.com/vi/8nQ0VJ1CdqU/maxresdefault.jpg
 duration: 231
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail-
 - /resources/videos/8nQ0VJ1CdqU
 - /resources/why-did-so-many-of-the-early-agile-transformations-fail-
+- /resources/8nQ0VJ1CdqU
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -26,8 +32,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube 8nQ0VJ1CdqU >}}
-
 Why did so many of the early agile transformations fail?
 
 I think a better question is to ask why so many **agile transformations** fail, period, because the early **agile transformations** failed for the same reasons current agile transformations fail.

@@ -2,10 +2,15 @@
 title: 'The Power of Metrics: Why PAL-EBM is Essential for Your Organization'
 description: "Unlock organisational success with the PAL EBM course! Discover the power of evidence-based management and effective metrics in this insightful video. \U0001F31F"
 date: 2024-01-27T07:00:19Z
+ResourceId: m2Z4UV4OQlI
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: m2Z4UV4OQlI
 source: internal
 url: /resources/videos/:slug
 slug: the-power-of-metrics-why-pal-ebm-is-essential-for-your-organization
+layout: video
 preview: https://i.ytimg.com/vi/m2Z4UV4OQlI/maxresdefault.jpg
 duration: 373
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/why-do-you-recommend-the-pal-ebm-course-
 - /resources/videos/m2Z4UV4OQlI
 - /resources/why-do-you-recommend-the-pal-ebm-course-
+- /resources/m2Z4UV4OQlI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -46,8 +52,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube m2Z4UV4OQlI >}}
-
 In today's fast-paced world, organizations often struggle to find the right metrics that drive success. Whether you're a manager, product owner, Scrum Master, or CEO, the **Professional Agile Leadership - Evidence-Based Management (PAL-EBM)** class provides valuable insights into how to navigate this critical aspect of your leadership journey.
 
 From personal experience as a Scrum Trainer, I can wholeheartedly recommend the PAL-EBM class to anyone in a leadership role who is committed to steering their organization toward success. This class is not just for managers; it's for anyone in a position of influence who is seeking to understand how to use metrics effectively to foster growth and collaboration.

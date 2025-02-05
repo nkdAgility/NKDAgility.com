@@ -1,12 +1,32 @@
 <!doctype html>
 {{ if eq .Sites.Default.Home . }}
   {{ partialCached "infrastructure/publish-redirects.html" . }}
+  {{ partialCached "infrastructure/publish-redirects2.html" . }}
+  {{ partialCached "infrastructure/publish-tags.html" . }}
+  {{ partialCached "infrastructure/publish-categories.html" . }}
 {{ end }}
 <html lang="{{- or site.Language.LanguageCode }}" dir="{{- or site.Language.LanguageDirection `ltr` }}">
   <head>
+    <!-- Google Tag Manager -->
+    <script>
+      (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != "dataLayer" ? "&l=" + l : "";
+        j.async = true;
+        j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+        f.parentNode.insertBefore(j, f);
+      })(window, document, "script", "dataLayer", "GTM-WRVT65");
+    </script>
+    <!-- End Google Tag Manager -->
     {{- partial "infrastructure/head.html" . }}
   </head>
   <body data-ndka-environment="{{- hugo.Environment }}" data-ndka-version="v#{GitVersion.SemVer}#">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WRVT65" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     {{- partial "infrastructure/header.html" . }}
 
     {{- block "breadcrumbs" . }}

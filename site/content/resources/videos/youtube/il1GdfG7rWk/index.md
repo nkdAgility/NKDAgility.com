@@ -2,10 +2,15 @@
 title: 'Mastering Product Backlog Management: Essential Skills for Product Owners'
 description: Master product backlog management with our expert guide! Learn essential strategies for new product owners to deliver maximum value. Subscribe for insights!
 date: 2023-12-18T07:00:15Z
+ResourceId: il1GdfG7rWk
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: il1GdfG7rWk
 source: internal
 url: /resources/videos/:slug
 slug: mastering-product-backlog-management-essential-skills-for-product-owners
+layout: video
 preview: https://i.ytimg.com/vi/il1GdfG7rWk/maxresdefault.jpg
 duration: 387
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-4
 - /resources/videos/il1GdfG7rWk
 - /resources/5-things-you-would-teach-a-productowner-apprentice-part-4
+- /resources/il1GdfG7rWk
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,8 +51,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube il1GdfG7rWk >}}
-
 As a new product owner, one of the most crucial responsibilities you'll face is managing your product backlog. It’s the backbone of successful product delivery. The product backlog is more than a to-do list—it's the foundation for delivering maximum value. In this post, we'll walk you through the key elements of product backlog management, provide actionable insights, and share practical tips for mastering this essential skill.
 
 ## **What Is Product Backlog Management?**

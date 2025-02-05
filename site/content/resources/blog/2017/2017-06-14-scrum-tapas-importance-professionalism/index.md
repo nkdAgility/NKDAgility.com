@@ -1,6 +1,12 @@
 ---
 title: 'Scrum Tapas: The Importance of Professionalism'
 description: Explore the significance of professionalism in software teams with Scrum Tapas. Discover how to elevate your team's performance and embrace engineering excellence.
+ResourceId: sdlfWR5wHx7
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 11942
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2017-06-14
 creator: Martin Hinshelwood
 id: "11942"
@@ -10,6 +16,13 @@ slug: scrum-tapas-importance-professionalism
 aliases:
 - /blog/scrum-tapas-importance-professionalism
 - /scrum-tapas-importance-professionalism
+- /scrum-tapas--the-importance-of-professionalism
+- /blog/scrum-tapas--the-importance-of-professionalism
+- /resources/sdlfWR5wHx7
+- /resources/blog/scrum-tapas-importance-professionalism
+aliasesFor404:
+- /scrum-tapas-importance-professionalism
+- /blog/scrum-tapas-importance-professionalism
 - /scrum-tapas--the-importance-of-professionalism
 - /blog/scrum-tapas--the-importance-of-professionalism
 tags:

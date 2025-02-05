@@ -60,15 +60,23 @@ function Rewrite-ImageLinks {
         # Regex to match all src attributes with image paths
         $ImageRegex = "(?i)(src|content|href)\s*=\s*([""']?)(?<url>[^\s""'>]+\.(jpg|jpeg|png|gif|webp|svg))\2"
 
-        # Find all matches and make them distinct
-        $Matches = [regex]::Matches($FileContent, $ImageRegex) | Select-Object -Unique
+        # Find all matches and ensure uniqueness based on the 'url' group
+        $Matches = [regex]::Matches($FileContent, $ImageRegex)
+        $UniqueUrls = @()
 
         foreach ($Match in $Matches) {
-           
-            $OriginalPath = $Match.Groups['url'].Value
-            $UpdatedPath = $OriginalPath
+            $Url = $Match.Groups['url'].Value
+        
+            # Add the URL to the array if it's not already included
+            if ($Url -notin $UniqueUrls) {
+                $UniqueUrls += $Url
+            }
+        }    
 
+        foreach ($UniqueUrl in $UniqueUrls) {
            
+            $OriginalPath = $UniqueUrl
+            $UpdatedPath = $OriginalPath
 
             # Skip if the path already contains the BlobUrl
             if ($OriginalPath -like "$BlobUrl*") {
@@ -119,10 +127,10 @@ function Rewrite-ImageLinks {
                     Write-Host "Resolved Path: $ResolvedPath"
 
                     # 4. Get the root-relative path
-                    $LocalImagesFullPath = (Get-Item $LocalImagesPath).FullName
+                    $LocalImagesFullPath = (Get-Item $LocalPath).FullName
                     Write-Host "Local Images Full Path: $LocalImagesFullPath"
 
-                    $RootRelativePath = $ResolvedPath.Replace($LocalImagesFullPath, "").Replace("\", "/")
+                    $RootRelativePath = $ResolvedPath.Path.Replace($LocalImagesFullPath, "").Replace("\", "/")
                     Write-Host "Root Relative Path: $RootRelativePath"
 
                     # 5. Construct the updated path

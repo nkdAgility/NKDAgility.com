@@ -2,14 +2,20 @@
 title: What is Agile?
 description: Discover how Agile philosophy can transform your personal and professional life. Join us for insights on growth, teamwork, and continuous improvement!
 date: 2022-10-07T10:41:41Z
+ResourceId: phv_2Bv2PrA
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: phv_2Bv2PrA
 url: /resources/videos/:slug
 slug: what-is-agile-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=phv_2Bv2PrA
 aliases:
 - /resources/videos/phv_2Bv2PrA
 - /resources/videos/what-is-agile-
 - /resources/what-is-agile-
+- /resources/phv_2Bv2PrA
 preview: https://i.ytimg.com/vi/phv_2Bv2PrA/maxresdefault.jpg
 duration: 1755
 isShort: false
@@ -21,9 +27,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube phv_2Bv2PrA >}} 
  This is a video about applying agile philosophy to foster change and growth in both personal and professional realms. Dive in for transformative insights! 
 
 Enjoy this video? 🔔 Like and subscribe to our channel: https://www.youtube.com/@nakedAgility

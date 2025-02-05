@@ -1,16 +1,21 @@
 ---
-title: Performance Engineering for Optimal User Experience
+title: 'NKD Agility: Your partner in developing engineering excellence'
 description: Discover how performance engineering enhances user experience! Join Martin Hinshelwood as he shares strategies for optimising software in production.
 date: 2024-11-23T07:00:12Z
+ResourceId: DSIXtHZTirA
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: DSIXtHZTirA
-source: youtube
+source: internal
 url: /resources/videos/:slug
-slug: performance-engineering-for-optimal-user-experience
-canonicalUrl: https://www.youtube.com/watch?v=DSIXtHZTirA
+slug: nkd-agility-your-partner-in-developing-engineering-excellence
+layout: video
 aliases:
 - /resources/videos/DSIXtHZTirA
 - /resources/videos/performance-engineering-for-optimal-user-experience
 - /resources/performance-engineering-for-optimal-user-experience
+- /resources/DSIXtHZTirA
 preview: https://i.ytimg.com/vi/DSIXtHZTirA/maxresdefault.jpg
 duration: 704
 isShort: false
@@ -25,46 +30,22 @@ tags:
 - agile project management
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
+resourceTypes:
+- video
 
 ---
-{{< youtube DSIXtHZTirA >}} 
- # Performance Engineering and Testing in Production: A Modern Approach | Martin Hinshelwood  
+# Performance Engineering and Testing in Production: A Modern Approach | Martin Hinshelwood  
 
-👋 Hi, I’m Martin Hinshelwood from [NKD Agility](https://www.nkdagility.com), and in this video, I explore the critical role of **performance engineering** and how to ensure your software delivers a great user experience. From optimizing for speed and responsiveness to leveraging real-world testing in production, I’ll share actionable strategies for creating modern, high-quality products that keep customers happy and businesses thriving.
+  📍  📍 Naked Agility can be your partner in creating engineering excellence and technical leadership within your organization. In the last few videos we've talked about a number of different ways or things that we focus on that are part of, part of that story. We talked about that, that High cost of, of, of bad quality of mediocre product, right?
 
-**📌 Chapters:**  
+Not even mediocre, poor quality product. There's lots of poor quality products out there that have a massive cost, particularly in your brand recognition, right? People don't want to use products that they have envisaged in their head to be of poor quality. We talked a lot about shifting left and the different Components that we would shift left, not just testing and test automation,  continuous integration, continuous delivery.
 
-1. 00:00 – Introduction: Why Performance Engineering Matters  
-2. 03:00 – Shifting Left: Empowering Teams to Own Performance  
-3. 06:30 – Testing in Production: Balancing Risk and Value  
-4. 09:45 – The Importance of Telemetry and User Feedback  
-5. 14:00 – Feature Flags and Audience-Based Deployment  
-6. 18:30 – Real-World Example: Azure DevOps’ Testing Strategy  
-7. 24:00 – Building Discipline in Modern Software Engineering  
+We talked about user experience shifting left, we talked about security shifting left, architecture shifting left. All of these things need to move as close to the engineering team that's Making the decisions, the people that are making the decisions and doing the work, all of those things, those skills, those capabilities, those not need to be built up in those teams in order for you to move towards this idea of engineering excellence, right?
 
-**🎯 Who This Video is For:**  
+We, we, we need to not manage technical debt, but. Pay it back, deal with it, deal with the technical debt when it happens, own up to it when we make a mistake,  transparent and open about what the problem was and what we're going to do it, and build that culture of quality, build that culture of engineering excellence within our organization.
 
-- Software engineers and architects focusing on performance optimization  
-- Product managers and business leaders aiming to improve user satisfaction  
-- Teams implementing feature flags and audience-based deployment models  
-- Organizations wanting to adopt modern performance and testing strategies  
-
-**📖 What You’ll Learn:**  
-
-- How performance engineering impacts user satisfaction and business goals  
-- Why testing in production is essential and how to manage its risks  
-- The role of telemetry in identifying and solving performance issues  
-- How audience-based deployments improve feedback and reduce risks  
-- Practical insights from Azure DevOps’ modern engineering practices  
-- Steps to build discipline and effort into performance improvement  
-
-**💡 Key Takeaways:**  
-
-- Great performance and user experience require intentional effort and discipline.  
-- Testing in production doesn’t replace pre-production testing but complements it for real-world insights.  
-- Feature flags and audience-based deployments allow teams to safely roll out and validate features.  
-- Telemetry and user feedback are invaluable tools for iterative performance improvements.  
+Your purpose is creating value for your customers.  Our purpose is value creation for you through building the technical leadership and engineering excellence that enables your value creation. And that's what Naked Agility can help you with.
 
 At [NKD Agility](https://www.nkdagility.com), we specialize in helping teams adopt modern engineering practices like performance engineering, testing in production, and audience-based deployments. Ready to build high-quality, high-performance software? Visit us today to learn how we can support your journey to engineering excellence.  
 

@@ -1,6 +1,12 @@
 ---
 title: 'Microsoft Surface: Wow'
 description: Discover the excitement of Microsoft Surface technology! Explore how this innovative device could revolutionize entertainment and your digital experience.
+ResourceId: FWXk82xEnqi
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 387
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-06-07
 creator: Martin Hinshelwood
 id: "387"
@@ -10,6 +16,13 @@ slug: microsoft-surface-wow
 aliases:
 - /blog/microsoft-surface-wow
 - /microsoft-surface-wow
+- /microsoft-surface--wow
+- /blog/microsoft-surface--wow
+- /resources/FWXk82xEnqi
+- /resources/blog/microsoft-surface-wow
+aliasesFor404:
+- /microsoft-surface-wow
+- /blog/microsoft-surface-wow
 - /microsoft-surface--wow
 - /blog/microsoft-surface--wow
 tags:

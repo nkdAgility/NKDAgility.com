@@ -2,10 +2,15 @@
 title: How does Naked Agility select associate Scrum Trainers?
 description: Discover how Naked Agility selects top Scrum trainers with rigorous standards to ensure expert guidance in mastering the Scrum framework.
 date: 2023-01-04T14:35:57Z
+ResourceId: uJaBPyixNlc
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: uJaBPyixNlc
 source: internal
 url: /resources/videos/:slug
 slug: how-does-naked-agility-select-associate-scrum-trainers
+layout: video
 preview: https://i.ytimg.com/vi/uJaBPyixNlc/maxresdefault.jpg
 duration: 270
 isShort: false
@@ -15,6 +20,7 @@ aliases:
 - /resources/videos/how-does-naked-agility-select-scrum-trainers-
 - /resources/videos/uJaBPyixNlc
 - /resources/how-does-naked-agility-select-scrum-trainers-
+- /resources/uJaBPyixNlc
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -28,8 +34,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube uJaBPyixNlc >}}
-
 How does Naked Agility select associate Scrum Trainers?
 
 A big part of the selection process is co-training with a certified, **Professional Scrum Trainer** (PST) over a variety of [scrum.org](https://www.scrum.org/) certified courses, in a variety of different applications.

@@ -1,6 +1,12 @@
 ---
 title: Do you have MSDN at work? Use Visual Studio Ultimate for free at home?
 description: Unlock the full potential of your MSDN subscription! Discover how to use Visual Studio Ultimate for free at home and enhance your development skills.
+ResourceId: 3-L2Y2t-oE7
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 4828
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2012-03-04
 creator: Martin Hinshelwood
 id: "4828"
@@ -10,6 +16,13 @@ slug: do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn
 aliases:
 - /blog/do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn
 - /do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn
+- /do-you-have-msdn-at-work--use-visual-studio-ultimate-for-free-at-home-
+- /blog/do-you-have-msdn-at-work--use-visual-studio-ultimate-for-free-at-home-
+- /resources/3-L2Y2t-oE7
+- /resources/blog/do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn
+aliasesFor404:
+- /do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn
+- /blog/do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn
 - /do-you-have-msdn-at-work--use-visual-studio-ultimate-for-free-at-home-
 - /blog/do-you-have-msdn-at-work--use-visual-studio-ultimate-for-free-at-home-
 tags:

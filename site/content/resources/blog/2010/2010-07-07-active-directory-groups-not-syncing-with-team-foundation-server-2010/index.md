@@ -1,6 +1,12 @@
 ---
 title: Active Directory Groups not Syncing with Team Foundation Server 2010
 description: Discover solutions for syncing Active Directory groups with Team Foundation Server 2010. Streamline your security and enhance user management effectively!
+ResourceId: Rfu6uP301x2
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 32
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-07-07
 creator: Martin Hinshelwood
 id: "32"
@@ -10,6 +16,11 @@ slug: active-directory-groups-not-syncing-with-team-foundation-server-2010
 aliases:
 - /blog/active-directory-groups-not-syncing-with-team-foundation-server-2010
 - /active-directory-groups-not-syncing-with-team-foundation-server-2010
+- /resources/Rfu6uP301x2
+- /resources/blog/active-directory-groups-not-syncing-with-team-foundation-server-2010
+aliasesFor404:
+- /active-directory-groups-not-syncing-with-team-foundation-server-2010
+- /blog/active-directory-groups-not-syncing-with-team-foundation-server-2010
 tags:
 - codeproject
 - ssw

@@ -2,10 +2,15 @@
 title: 3 best ways to wreck Kanban. Sweep problems under the rug.
 description: Discover the top 3 pitfalls that sabotage Kanban adoption. Learn why ignoring problems can derail your team's success and how to confront them effectively!
 date: 2024-03-04T07:00:13Z
+ResourceId: Xa_e2EnLEV4
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: Xa_e2EnLEV4
 source: internal
 url: /resources/videos/:slug
 slug: 3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug
+layout: video
 preview: https://i.ytimg.com/vi/Xa_e2EnLEV4/maxresdefault.jpg
 duration: 277
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-sweeping-problems-under-the-rug-
 - /resources/videos/Xa_e2EnLEV4
 - /resources/3-best-ways-to-wreck-your-kanban-adoption-sweeping-problems-under-the-rug-
+- /resources/Xa_e2EnLEV4
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -28,8 +34,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube Xa_e2EnLEV4 >}}
-
 ### The Danger of Ignoring Problems in Your Kanban Strategy
 
 **Introduction**

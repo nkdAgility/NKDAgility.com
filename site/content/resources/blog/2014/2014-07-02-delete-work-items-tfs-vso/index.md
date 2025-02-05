@@ -1,6 +1,12 @@
 ---
 title: How to delete work items from TFS or VSO
 description: Learn how to efficiently delete work items from TFS or VSO with expert tips and code examples. Streamline your project management today!
+ResourceId: MYXrtTYV2UD
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 10597
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2014-07-02
 creator: Martin Hinshelwood
 id: "10597"
@@ -10,6 +16,13 @@ slug: delete-work-items-tfs-vso
 aliases:
 - /blog/delete-work-items-tfs-vso
 - /delete-work-items-tfs-vso
+- /how-to-delete-work-items-from-tfs-or-vso
+- /blog/how-to-delete-work-items-from-tfs-or-vso
+- /resources/MYXrtTYV2UD
+- /resources/blog/delete-work-items-tfs-vso
+aliasesFor404:
+- /delete-work-items-tfs-vso
+- /blog/delete-work-items-tfs-vso
 - /how-to-delete-work-items-from-tfs-or-vso
 - /blog/how-to-delete-work-items-from-tfs-or-vso
 tags:

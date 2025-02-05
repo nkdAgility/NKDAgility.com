@@ -1,6 +1,12 @@
 ---
 title: 'Team Foundation Server Error TF30177 : Team Project Creation Failed'
 description: Resolve the TF30177 error in Team Foundation Server with our step-by-step guide. Learn how to fix project creation issues and optimize your TFS setup.
+ResourceId: ovERk0hj1XD
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 332
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-14
 creator: Martin Hinshelwood
 id: "332"
@@ -10,6 +16,13 @@ slug: team-foundation-server-error-tf30177-team-project-creation-failed
 aliases:
 - /blog/team-foundation-server-error-tf30177-team-project-creation-failed
 - /team-foundation-server-error-tf30177-team-project-creation-failed
+- /team-foundation-server-error-tf30177---team-project-creation-failed
+- /blog/team-foundation-server-error-tf30177---team-project-creation-failed
+- /resources/ovERk0hj1XD
+- /resources/blog/team-foundation-server-error-tf30177-team-project-creation-failed
+aliasesFor404:
+- /team-foundation-server-error-tf30177-team-project-creation-failed
+- /blog/team-foundation-server-error-tf30177-team-project-creation-failed
 - /team-foundation-server-error-tf30177---team-project-creation-failed
 - /blog/team-foundation-server-error-tf30177---team-project-creation-failed
 tags:

@@ -1,6 +1,12 @@
 ---
 title: TFS Event Handler for Team Foundation Server 2010
 description: Explore the new TFS Event Handler for Team Foundation Server 2010, designed for efficient event processing and enhanced integration. Join the discussion today!
+ResourceId: _WmwS96RyDS
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 33
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-07-07
 creator: Martin Hinshelwood
 id: "33"
@@ -10,6 +16,11 @@ slug: tfs-event-handler-for-team-foundation-server-2010
 aliases:
 - /blog/tfs-event-handler-for-team-foundation-server-2010
 - /tfs-event-handler-for-team-foundation-server-2010
+- /resources/_WmwS96RyDS
+- /resources/blog/tfs-event-handler-for-team-foundation-server-2010
+aliasesFor404:
+- /tfs-event-handler-for-team-foundation-server-2010
+- /blog/tfs-event-handler-for-team-foundation-server-2010
 tags:
 - code
 - tfs

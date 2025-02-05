@@ -1,6 +1,12 @@
 ---
 title: Why should I use Visual Studio ALM
 description: Discover why Visual Studio ALM is essential for effective application lifecycle management. Learn key considerations for tool selection and maximize your team's potential.
+ResourceId: btixjSyu9NI
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 10990
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2015-01-07
 creator: Martin Hinshelwood
 id: "10990"
@@ -10,6 +16,13 @@ slug: why-should-i-use-visual-studio-alm-whether-tfs-or-vso
 aliases:
 - /blog/why-should-i-use-visual-studio-alm-whether-tfs-or-vso
 - /why-should-i-use-visual-studio-alm-whether-tfs-or-vso
+- /why-should-i-use-visual-studio-alm
+- /blog/why-should-i-use-visual-studio-alm
+- /resources/btixjSyu9NI
+- /resources/blog/why-should-i-use-visual-studio-alm-whether-tfs-or-vso
+aliasesFor404:
+- /why-should-i-use-visual-studio-alm-whether-tfs-or-vso
+- /blog/why-should-i-use-visual-studio-alm-whether-tfs-or-vso
 - /why-should-i-use-visual-studio-alm
 - /blog/why-should-i-use-visual-studio-alm
 tags:

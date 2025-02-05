@@ -1,6 +1,12 @@
 ---
 title: Mozy Backup providing extra space this month
 description: Discover how Mozy Backup is doubling your referral space this month! Learn why this reliable backup solution is essential for your data safety.
+ResourceId: VgEgURg3LhB
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 176
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-10-31
 creator: Martin Hinshelwood
 id: "176"
@@ -10,6 +16,11 @@ slug: mozy-backup-providing-extra-space-this-month
 aliases:
 - /blog/mozy-backup-providing-extra-space-this-month
 - /mozy-backup-providing-extra-space-this-month
+- /resources/VgEgURg3LhB
+- /resources/blog/mozy-backup-providing-extra-space-this-month
+aliasesFor404:
+- /mozy-backup-providing-extra-space-this-month
+- /blog/mozy-backup-providing-extra-space-this-month
 categories:
 - me
 preview: nakedalm-logo-128-link-1-1.png

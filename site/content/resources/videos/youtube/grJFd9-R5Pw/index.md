@@ -2,10 +2,15 @@
 title: How does the APS course help people apply scrum effectively?
 description: Discover how the APS course transforms Scrum learning into a hands-on experience, empowering teams to tackle complex challenges effectively.
 date: 2023-01-18T08:57:16Z
+ResourceId: grJFd9-R5Pw
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: grJFd9-R5Pw
 source: internal
 url: /resources/videos/:slug
 slug: how-does-the-aps-course-help-people-apply-scrum-effectively
+layout: video
 preview: https://i.ytimg.com/vi/grJFd9-R5Pw/maxresdefault.jpg
 duration: 416
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/how-does-the-aps-course-help-people-apply-scrum-effectively-
 - /resources/videos/grJFd9-R5Pw
 - /resources/how-does-the-aps-course-help-people-apply-scrum-effectively-
+- /resources/grJFd9-R5Pw
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -27,8 +33,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube grJFd9-R5Pw >}}
-
 How does the APS course help people apply scrum effectively?
 
 The APS (Applying Professional Scrum) course helps people apply scrum effectively in a number of ways.

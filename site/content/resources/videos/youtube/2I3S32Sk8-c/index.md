@@ -2,6 +2,10 @@
 title: What would you advise a scrum team to do in their first 4 weeks?
 description: Kickstart your scrum journey! Join Martin Hinshelwood as he shares actionable goals for new scrum teams in their first 4 weeks. Embrace agile success!
 date: 2023-02-16T07:00:01Z
+ResourceId: 2I3S32Sk8-c
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: 2I3S32Sk8-c
 source: internal
 url: /resources/videos/:slug
@@ -14,6 +18,7 @@ aliases:
 - /resources/videos/what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks-
 - /resources/videos/2I3S32Sk8-c
 - /resources/what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks-
+- /resources/2I3S32Sk8-c
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -26,10 +31,9 @@ tags:
 - Agile Consulting
 resourceTypes:
 - video
+layout: video
 
 ---
-{{< youtube 2I3S32Sk8-c >}}
-
 What would you advise a scrum team to do in their first 4 weeks?
 
 That’s an interesting question because it depends on the intention of the team. In my opinion, if their intention is to try **scrum**, then that is what they should focus on in the first 4 weeks.

@@ -1,6 +1,12 @@
 ---
 title: Installing Visual Studio 2010 Team Suit Beta 1
 description: Discover how to install Visual Studio 2010 Team Suite Beta 1 with ease. Get tips on options, customization, and enjoy a smoother setup experience!
+ResourceId: qtd2Xg-TMfU
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 119
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-05-18
 creator: Martin Hinshelwood
 id: "119"
@@ -10,6 +16,11 @@ slug: installing-visual-studio-2010-team-suit-beta-1
 aliases:
 - /blog/installing-visual-studio-2010-team-suit-beta-1
 - /installing-visual-studio-2010-team-suit-beta-1
+- /resources/qtd2Xg-TMfU
+- /resources/blog/installing-visual-studio-2010-team-suit-beta-1
+aliasesFor404:
+- /installing-visual-studio-2010-team-suit-beta-1
+- /blog/installing-visual-studio-2010-team-suit-beta-1
 tags:
 - tools
 - visual-studio

@@ -1,6 +1,12 @@
 ---
 title: TFS Gotcha (server name)
 description: Discover how to tackle TFS installation issues in large networks with proxy servers. Follow our guide to ensure smooth access and setup for your team!
+ResourceId: l7s81fXVkty
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 427
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-03-19
 creator: Martin Hinshelwood
 id: "427"
@@ -10,6 +16,13 @@ slug: tfs-gotcha-server-name
 aliases:
 - /blog/tfs-gotcha-server-name
 - /tfs-gotcha-server-name
+- /tfs-gotcha-(server-name)
+- /blog/tfs-gotcha-(server-name)
+- /resources/l7s81fXVkty
+- /resources/blog/tfs-gotcha-server-name
+aliasesFor404:
+- /tfs-gotcha-server-name
+- /blog/tfs-gotcha-server-name
 - /tfs-gotcha-(server-name)
 - /blog/tfs-gotcha-(server-name)
 preview: nakedalm-logo-128-link-1-1.png

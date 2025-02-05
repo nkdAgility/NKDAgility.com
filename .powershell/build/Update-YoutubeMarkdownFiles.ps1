@@ -88,7 +88,7 @@ function Update-YoutubeMarkdownFiles {
             # Remove consecutive dashes
             $urlSafeTitle = $urlSafeTitle -replace '-+', '-'
 
-            $aliases = @("/resources/videos/$videoId", "/resources/videos/$urlSafeTitle", "/resources/$urlSafeTitle")
+            $aliases = @("/resources/$videoId", "/resources/videos/$videoId", "/resources/videos/$urlSafeTitle", "/resources/$urlSafeTitle")
            
             # Get the tags from the snippet and filter out excluded tags
             $tags = @()
@@ -130,12 +130,17 @@ function Update-YoutubeMarkdownFiles {
 
 
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'videoId' -fieldValue $videoId
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceId' -fieldValue $videoId -addAfter "date"
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceType' -fieldValue "video" -addAfter "ResourceId"
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImport' -fieldValue $true -addAfter 'ResourceType'
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImportSource' -fieldValue "Youtube" -addAfter 'ResourceImport'
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'source' -fieldValue $source -addAfter "videoId" 
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'url' -fieldValue "/resources/videos/:slug"
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'slug' -fieldValue $urlSafeTitle
             if ($videoData.status.privacyStatus -eq "unlisted") {
                 Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'draft' -fieldValue $true -addAfter "slug" -Overwrite
             }
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'layout' -fieldValue "video" -addAfter "slug"
             if ($source -eq "youtube") {
                 $externalUrl = "https://www.youtube.com/watch?v=$videoId"
                 Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'canonicalUrl' -fieldValue $externalUrl
@@ -147,6 +152,7 @@ function Update-YoutubeMarkdownFiles {
             if ($tags.Count -gt 0) {
                 Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values $tags -addAfter "isShort"
             }
+            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'resourceTypes' -values "video" -addAfter "duration"
             if ($source -eq "youtube") {
                 $priority = 0.4
             }
@@ -156,8 +162,11 @@ function Update-YoutubeMarkdownFiles {
             $hugoMarkdown.FrontMatter["sitemap"] = [ordered]@{ filename = "sitemap.xml"; priority = $priority }  # Update sitemap filename
             if ($source -eq "youtube" -or [string]::IsNullOrWhiteSpace($hugoMarkdown.BodyContent)) {
                 # Ensure Content
-                $hugoMarkdown.BodyContent = "{{< youtube $videoId >}} `n $($videoData.snippet.description) `n [Watch on Youtube](https://www.youtube.com/watch?v=$videoId)" 
-            }           
+                $hugoMarkdown.BodyContent = " $($videoData.snippet.description) `n [Watch on Youtube](https://www.youtube.com/watch?v=$videoId)" 
+            }
+            if ($source -eq "internal") {
+                $hugoMarkdown.BodyContent = $hugoMarkdown.BodyContent.Replace("{{< youtube $videoId >}}", "")
+            }
             # Save the updated HugoMarkdown to index.md
             Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $markdownFile
             Write-Host "Markdown created or updated for video: $($videoSnippet.title)"

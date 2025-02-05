@@ -2,14 +2,20 @@
 title: My Journey into DevOps! From Web Developer to Author, Speaker, & Thought Leader.
 description: "Join me on my DevOps journey from web developer to thought leader! Discover insights, challenges, and strategies for transforming software delivery. \U0001F680"
 date: 2024-04-04T11:34:59Z
+ResourceId: icX4XpolVLE
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: icX4XpolVLE
 url: /resources/videos/:slug
 slug: my-journey-into-devops!-from-web-developer-to-author,-speaker,-&-thought-leader-
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=icX4XpolVLE
 aliases:
 - /resources/videos/icX4XpolVLE
 - /resources/videos/my-journey-into-devops!-from-web-developer-to-author,-speaker,-&-thought-leader-
 - /resources/my-journey-into-devops!-from-web-developer-to-author,-speaker,-&-thought-leader-
+- /resources/icX4XpolVLE
 preview: https://i.ytimg.com/vi/icX4XpolVLE/maxresdefault.jpg
 duration: 2018
 isShort: false
@@ -23,9 +29,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube icX4XpolVLE >}} 
  🚀 Transform Your Workflow with DevOps: A Comprehensive Guide 🚀
 
 🎯 Why Watch This Video?

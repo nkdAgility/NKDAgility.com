@@ -2,10 +2,15 @@
 title: What is a sprint goal?
 description: "Unlock the secrets of sprint planning! Discover common pitfalls in agility and learn to empower your team for swift market responses. \U0001F680\U0001F4C8"
 date: 2023-05-25T14:00:20Z
+ResourceId: JVZzJZ5q0Hw
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: JVZzJZ5q0Hw
 source: internal
 url: /resources/videos/:slug
 slug: what-is-the-most-common-mistake-in-sprint-planning
+layout: video
 preview: https://i.ytimg.com/vi/JVZzJZ5q0Hw/maxresdefault.jpg
 duration: 505
 isShort: false
@@ -15,6 +20,7 @@ aliases:
 - /resources/videos/what-is-the-most-common-mistake-in-sprint-planning-
 - /resources/videos/JVZzJZ5q0Hw
 - /resources/what-is-the-most-common-mistake-in-sprint-planning-
+- /resources/JVZzJZ5q0Hw
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -35,8 +41,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube JVZzJZ5q0Hw >}}
-
 ## What's a Sprint Goal and Why Does It Matter?
 
 I think it's essential to ask what a sprint goal is and look deeper into why it matters. 

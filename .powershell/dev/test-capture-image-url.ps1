@@ -2,9 +2,11 @@
 $htmlContent = @'
 <img src="https://nkdagilityblobs.blob.core.windows.net/$web/company/customers/washington-department-of-transport/images/washington-state-DOT_hu2529872147769033792.jpg">
 <link href='/styles/site.css'>
+<img src="images/no-slash-version2.png">
 <meta content=https://example.com/og-image.webp>
 <img src=./images/washington-state-DOT_hu2529872147769033792.png>
 <img src="https://example.com/image.svg">
+<img src=images/no-slash-version.png>
 '@
 
 # Define the regex with a named capture group for the full URL or file path

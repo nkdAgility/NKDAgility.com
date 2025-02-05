@@ -2,10 +2,15 @@
 title: 7 Harbingers of the Agile Apocalypse. Famine.
 description: "Explore how resource scarcity in organisations mirrors the Aztec's Fourth Sun, Nahui-Atl. Discover insights and solutions to combat organisational famine! \U0001F30D\U0001F4BC"
 date: 2023-10-19T15:00:30Z
+ResourceId: W3H9z28g9R8
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: W3H9z28g9R8
 source: internal
 url: /resources/videos/:slug
 slug: 7-harbingers-of-the-agile-apocalypse-famine
+layout: video
 preview: https://i.ytimg.com/vi/W3H9z28g9R8/maxresdefault.jpg
 duration: 448
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/famine!-7-harbingers-agile-apocalypse
 - /resources/videos/W3H9z28g9R8
 - /resources/famine!-7-harbingers-agile-apocalypse
+- /resources/W3H9z28g9R8
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -50,8 +56,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube W3H9z28g9R8 >}}
-
 # Conquering Famine in Agile Organizations: A Blueprint for Success 🚀
 
 Hello, Agile enthusiasts! Today, I'm diving into a topic that resonates deeply with many of us in the Agile world—famine. No, not the kind you're thinking of, but rather the scarcity of essential resources within organizations that hampers our journey to success. This famine manifests through a lack of tools, trust, training, and sometimes, the financial backing necessary to propel our teams and products forward. 🌪️

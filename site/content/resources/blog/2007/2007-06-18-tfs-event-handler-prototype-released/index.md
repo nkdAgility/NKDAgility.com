@@ -1,6 +1,12 @@
 ---
 title: 'TFS Event Handler: Prototype Released'
 description: Discover the prototype release of the TFS Event Handler by Martin Hinshelwood. Get ready to configure and extend your TFS experience with this innovative tool!
+ResourceId: bfZgaw94nbj
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 380
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-06-18
 creator: Martin Hinshelwood
 id: "380"
@@ -10,6 +16,13 @@ slug: tfs-event-handler-prototype-released
 aliases:
 - /blog/tfs-event-handler-prototype-released
 - /tfs-event-handler-prototype-released
+- /tfs-event-handler--prototype-released
+- /blog/tfs-event-handler--prototype-released
+- /resources/bfZgaw94nbj
+- /resources/blog/tfs-event-handler-prototype-released
+aliasesFor404:
+- /tfs-event-handler-prototype-released
+- /blog/tfs-event-handler-prototype-released
 - /tfs-event-handler--prototype-released
 - /blog/tfs-event-handler--prototype-released
 tags:

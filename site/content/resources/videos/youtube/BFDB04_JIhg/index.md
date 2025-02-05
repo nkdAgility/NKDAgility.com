@@ -2,10 +2,15 @@
 title: 'Understanding Kanban: A Tool for Transparency and Continuous Improvement'
 description: Unlock the true power of Kanban! Discover its benefits, key metrics, and how to transform your workflows into a secret weapon for process improvement.
 date: 2024-06-24T06:48:02Z
+ResourceId: BFDB04_JIhg
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: BFDB04_JIhg
 source: internal
 url: /resources/videos/:slug
 slug: understanding-kanban-a-tool-for-transparency-and-continuous-improvement
+layout: video
 preview: https://i.ytimg.com/vi/BFDB04_JIhg/maxresdefault.jpg
 duration: 37
 isShort: true
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/introduction-to-kanban
 - /resources/videos/BFDB04_JIhg
 - /resources/introduction-to-kanban
+- /resources/BFDB04_JIhg
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -27,8 +33,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube BFDB04_JIhg >}}
-
 In the world of Agile, we often hear about different tools and frameworks that help teams optimize their processes. One such tool is **Kanban**. Often misunderstood as a process in itself, Kanban is not a process but rather a powerful tool that provides clarity and insight into whatever process you're already using.
 
 In this blog post, we’ll dive into what Kanban really is, how it works, and why it’s such a valuable tool for Scrum Masters, Agile Coaches, and teams looking to enhance their workflows. Let's explore the key points with real-world examples and actionable advice to help you implement Kanban effectively.

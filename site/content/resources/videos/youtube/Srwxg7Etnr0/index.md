@@ -2,10 +2,15 @@
 title: How does a Scrum team decide on a Sprint goal?
 description: "Unlock the secrets of effective Sprint goal setting in Scrum! Join Martin as he clarifies myths and enhances team collaboration for impactful planning. \U0001F3AF"
 date: 2023-06-02T07:00:09Z
+ResourceId: Srwxg7Etnr0
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: Srwxg7Etnr0
 source: internal
 url: /resources/videos/:slug
 slug: how-does-a-scrum-team-decide-on-a-sprint-goal
+layout: video
 preview: https://i.ytimg.com/vi/Srwxg7Etnr0/maxresdefault.jpg
 duration: 152
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/how-does-a-scrum-team-decide-on-a-sprint-goal-
 - /resources/videos/Srwxg7Etnr0
 - /resources/how-does-a-scrum-team-decide-on-a-sprint-goal-
+- /resources/Srwxg7Etnr0
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,8 +51,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube Srwxg7Etnr0 >}}
-
 ## Deciphering the Sprint Goal Enigma **🎯**  
 
 The Sprint goal is the North Star for any Scrum team - a beacon that guides the team’s efforts throughout the Sprint. But the million-dollar question remains: How does one conjure this all-important goal?  

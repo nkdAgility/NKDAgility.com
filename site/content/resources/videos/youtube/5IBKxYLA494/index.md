@@ -2,6 +2,10 @@
 title: Scrum With Azure DevOps!
 description: "Transform your Scrum practices with Azure DevOps! Discover setup tips, myth-busting, and tools to boost your team's efficiency. Join the journey! \U0001F31F\U0001F6E0️"
 date: 2024-04-03T17:21:43Z
+ResourceId: 5IBKxYLA494
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: 5IBKxYLA494
 url: /resources/videos/:slug
 slug: scrum-with-azure-devops!
@@ -10,6 +14,7 @@ aliases:
 - /resources/videos/5IBKxYLA494
 - /resources/videos/scrum-with-azure-devops!
 - /resources/scrum-with-azure-devops!
+- /resources/5IBKxYLA494
 preview: https://i.ytimg.com/vi/5IBKxYLA494/maxresdefault.jpg
 duration: 2504
 isShort: false
@@ -24,9 +29,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+layout: video
+resourceTypes:
+- video
 
 ---
-{{< youtube 5IBKxYLA494 >}} 
  Uncover the secrets to transforming your Scrum and Agile practices with Azure DevOps. From myth-busting to practical setup, embark on a journey to enhance your project's efficiency.
 
 Join me as we explore the intricacies of setting up and customising Azure DevOps to align with your Scrum practices, ensuring your team operates at peak efficiency. 🛠️ From myth-busting common misconceptions to showcasing flexible and effective tools, this video is your guide to navigating the Agile landscape with Azure DevOps. 🌟 Whether you're looking to refine your backlog or enhance your sprint planning and reviews, let's unlock the full potential of Azure DevOps together. 📈

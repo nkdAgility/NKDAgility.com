@@ -1,0 +1,9 @@
+So we have a 20 referral program, and the reason I created it was because I thought it was a good idea to effectively reward people for bringing other people to the classes. Right? Quite often, it's difficult to get your friends to come along to the classes, our colleagues in your organisation, friends or colleagues to help participate together so that you can learn together and move forward together in the organisation.
+
+So I created this referral program where you, the person, you can go to my website and you can get this code, right? And the code allows you to give it to somebody else, and they will get a 20 discount on any class, right? Hopefully, it's the one that you're going to be on as well, so you can collaborate together in your organisation, or maybe you go on different classes and pool the knowledge, right? That's cool too.
+
+But you also get something for it, right? Not only does this other person get a 20 discount, but you get a 20 store credit. That's probably the best way to describe it. You get 20 of the fee that they paid in credit towards a future class. So in effect, if you think about it, because it's 20, if they're all in the same market, you refer five people, you're probably getting a class for free, right? It's probably pretty close to that.
+
+So this enables you to get something out of it as well, and the more people you refer, the more cash is in that pool, the more classes you can take. Yeah, I think that's a great way to reward people who like my training or who want to bring other people in their organisation to the trail.
+
+Thanks for watching the video. If you enjoyed it, please like, follow, and subscribe. I always reply to comments, and if you want to have a chat about this or anything else, Agile, Scrum, or DevOps, then please book a coffee with me through Naked Agility.

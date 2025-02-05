@@ -2,10 +2,15 @@
 title: 'Detecting Agile BS: Lessons from the Department of Defense'
 description: "Is your development ecosystem truly Agile? Discover insights from the DoD and learn to eliminate bottlenecks for seamless, innovative delivery! \U0001F680"
 date: 2024-08-02T06:45:02Z
+ResourceId: kVt5KP9dg8Q
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: kVt5KP9dg8Q
 source: internal
 url: /resources/videos/:slug
 slug: detecting-agile-bs-lessons-from-the-department-of-defense
+layout: video
 preview: https://i.ytimg.com/vi/kVt5KP9dg8Q/maxresdefault.jpg
 duration: 346
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-[6-6]
 - /resources/videos/kVt5KP9dg8Q
 - /resources/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-[6-6]
+- /resources/kVt5KP9dg8Q
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -26,8 +32,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube kVt5KP9dg8Q >}}
-
 In the realm of Agile, there's a common trap that many organizations fall into: the belief that implementing Agile development practices is enough to achieve true agility. However, as the Department of Defense's "Detecting Agile BS" guide reveals, Agile development alone isn't sufficient if the rest of the system operates in a traditional, bureaucratic manner. This blog post delves into the insights provided by the guide, exploring why a fully Agile ecosystem is essential and offering practical advice for organizations striving to eliminate Agile BS.
 
 ## **The Pitfall of Partial Agility**

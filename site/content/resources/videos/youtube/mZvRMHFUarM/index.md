@@ -2,15 +2,21 @@
 title: Estimating with Confidence
 description: Unlock reliable software project estimates with Martin Hinshelwood! Discover the power of probabilistic forecasting for confident, accurate planning.
 date: 2024-12-05T06:30:00Z
+ResourceId: mZvRMHFUarM
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: mZvRMHFUarM
 source: youtube
 url: /resources/videos/:slug
 slug: estimating-with-confidence
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=mZvRMHFUarM
 aliases:
 - /resources/videos/mZvRMHFUarM
 - /resources/videos/estimating-with-confidence
 - /resources/estimating-with-confidence
+- /resources/mZvRMHFUarM
 preview: https://i9.ytimg.com/vi/mZvRMHFUarM/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLDXszYYhCvp1Mjo0PCTnMDkMR9M5w
 duration: 201
 isShort: false
@@ -32,9 +38,10 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube mZvRMHFUarM >}} 
  Estimation in Software Projects: Why Probabilistic Forecasting is Better | Martin Hinshelwood
 
 👋 Hi, I’m Martin Hinshelwood from NKD Agility, and in this video, I tackle one of the biggest challenges in software projects: estimation. Traditional estimation methods, whether absolute (hours) or relative (story points), often fall short in high-variance environments. Instead, I’ll explain how probabilistic forecasting can give you confidence and clarity without wasting time on inaccurate estimates.

@@ -1,0 +1,3 @@
+We love taking Japanese words and using them not quite right for their meaning. But one of the key phrases that we use all the time in Kamban is Kaizen. Kaizen is really just about continuous improvement. It's keeping changing things, hopefully for the better, because you're observing improvements in the system or measuring improvements in the system. 
+
+So the idea of continuous improvement, continuous change, and continuous optimization of your process or your system is generally referred to in the Kamban community as Kaizen. Kaizen's not limited to Kamban; it can be used absolutely anywhere you like. We should always be continuously striving for anything that we do to be a little bit better every time we do it, and that continuous nature is what we mean by Kaizen.

@@ -2,14 +2,20 @@
 title: Why its imposible to order a hierarchy, and what you can do instead!
 description: "Revolutionise your project management! Discover why rigid backlog hierarchies hinder agility and explore flexible, value-focused alternatives. \U0001F30D\U0001F4A1"
 date: 2024-03-26T10:56:26Z
+ResourceId: ZBb8OZ0I6qA
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: ZBb8OZ0I6qA
 url: /resources/videos/:slug
 slug: why-its-imposible-to-order-a-hierarchy,-and-what-you-can-do-instead!
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=ZBb8OZ0I6qA
 aliases:
 - /resources/videos/ZBb8OZ0I6qA
 - /resources/videos/why-its-imposible-to-order-a-hierarchy,-and-what-you-can-do-instead!
 - /resources/why-its-imposible-to-order-a-hierarchy,-and-what-you-can-do-instead!
+- /resources/ZBb8OZ0I6qA
 preview: https://i.ytimg.com/vi/ZBb8OZ0I6qA/maxresdefault.jpg
 duration: 1156
 isShort: false
@@ -25,9 +31,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
+resourceTypes:
+- video
 
 ---
-{{< youtube ZBb8OZ0I6qA >}} 
  Discover how to revolutionize your project management approach by ditching traditional backlog hierarchies for a more flexible, value-focused system.
 
 *Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility

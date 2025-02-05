@@ -2,10 +2,15 @@
 title: 'Stop Starting and Start Finishing: The Key to Team Success'
 description: Unlock Agile success! Learn to "stop starting and start finishing" for enhanced productivity and team effectiveness. Watch now for valuable insights!
 date: 2024-01-31T14:26:11Z
+ResourceId: 8aIUldVDtGw
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: 8aIUldVDtGw
 source: internal
 url: /resources/videos/:slug
 slug: stop-starting-and-start-finishing-the-key-to-team-success
+layout: video
 preview: https://i.ytimg.com/vi/8aIUldVDtGw/maxresdefault.jpg
 duration: 496
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/stop-starting-and-start-finishing!
 - /resources/videos/8aIUldVDtGw
 - /resources/stop-starting-and-start-finishing!
+- /resources/8aIUldVDtGw
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,8 +51,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube 8aIUldVDtGw >}}
-
 In today's fast-paced business environment, there's often a misconception that the more tasks we juggle, the more productive we are. However, as many successful teams have realized, this couldn't be further from the truth. A popular quote from Lean methodology sums it up perfectly: **"Stop starting and start finishing."** This philosophy emphasizes the importance of focusing on completing work, rather than constantly starting new tasks.
 
 In this blog post, we’ll explore why this mindset is critical for Scrum teams and how implementing it can significantly improve efficiency, productivity, and overall business value.

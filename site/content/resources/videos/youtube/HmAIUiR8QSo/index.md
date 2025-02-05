@@ -2,15 +2,21 @@
 title: Building a Culture of Quality
 description: Join Martin Hinshelwood as he uncovers how to cultivate a culture of quality in engineering, drawing lessons from Boeing and Volkswagen.
 date: 2024-11-29T07:00:17Z
+ResourceId: HmAIUiR8QSo
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: HmAIUiR8QSo
 source: youtube
 url: /resources/videos/:slug
 slug: building-a-culture-of-quality
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=HmAIUiR8QSo
 aliases:
 - /resources/videos/HmAIUiR8QSo
 - /resources/videos/building-a-culture-of-quality
 - /resources/building-a-culture-of-quality
+- /resources/HmAIUiR8QSo
 preview: https://i.ytimg.com/vi/HmAIUiR8QSo/maxresdefault.jpg
 duration: 387
 isShort: false
@@ -32,9 +38,10 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube HmAIUiR8QSo >}} 
  # Building a Culture of Quality and Engineering Excellence | Martin Hinshelwood  
 
 👋 Hi, I’m Martin Hinshelwood from [NKD Agility](https://www.nkdagility.com), and in this video, I explore how to build a **culture of quality** within your organization. Delivering great products isn’t just about tools or processes—it’s about fostering technical leadership, engineering excellence, and shared accountability across your teams. Using real-world examples, including lessons from Boeing and Volkswagen, I’ll show you why culture is the foundation of innovation and trust.

@@ -1,6 +1,12 @@
 ---
 title: Office 2010 Install
 description: Discover the step-by-step process for installing Office 2010 on Vista 64. Learn tips and tricks to enhance your productivity with this essential tool!
+ResourceId: Jsol6FUVR7d
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 103
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-07-16
 creator: Martin Hinshelwood
 id: "103"
@@ -10,6 +16,11 @@ slug: office-2010-install
 aliases:
 - /blog/office-2010-install
 - /office-2010-install
+- /resources/Jsol6FUVR7d
+- /resources/blog/office-2010-install
+aliasesFor404:
+- /office-2010-install
+- /blog/office-2010-install
 tags:
 - office
 - tools

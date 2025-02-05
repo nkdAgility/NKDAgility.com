@@ -2,10 +2,15 @@
 title: 'The Power of Immersive Learning: Elevating Scrum Mastery in Your Organization'
 description: "Unlock your team's potential with immersive Scrum training! Discover practical insights and transform learning for effective team development. \U0001F31F\U0001F680"
 date: 2023-11-22T07:00:18Z
+ResourceId: jXk1_Iiam_M
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: jXk1_Iiam_M
 source: internal
 url: /resources/videos/:slug
 slug: the-power-of-immersive-learning-elevating-scrum-mastery-in-your-organization
+layout: video
 preview: https://i.ytimg.com/vi/jXk1_Iiam_M/maxresdefault.jpg
 duration: 331
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/do-you-think-training-departments-get-a-lot-more-bang-for-their-buck-with-immersive-learning-
 - /resources/videos/jXk1_Iiam_M
 - /resources/do-you-think-training-departments-get-a-lot-more-bang-for-their-buck-with-immersive-learning-
+- /resources/jXk1_Iiam_M
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,8 +51,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube jXk1_Iiam_M >}}
-
 If you're an organization that invests heavily in training—especially if you're supporting a large number of people trying to step into the Scrum Master role—then immersive learning should be at the top of your list. It’s an investment that can dramatically increase your team's effectiveness. Unlike traditional training, where learning can quickly fade, immersive learning helps people **internalize** the knowledge and put it into practice immediately.
 
 ## Why Immersive Learning Outperforms Traditional Training

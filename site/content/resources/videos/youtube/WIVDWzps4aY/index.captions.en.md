@@ -1,0 +1,1 @@
+So my, my one of my favourite classes to teach is the product owner product owner class. It used to be the APS class; it's now the product owner class. The reason it's now the product owner class is because I've found that the singular thing that is most lacking in organisations and teams is good product management.

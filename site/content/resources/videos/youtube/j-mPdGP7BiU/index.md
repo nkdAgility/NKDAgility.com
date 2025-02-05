@@ -2,10 +2,15 @@
 title: 'Mastering Product Development: From Assumptions to Hypotheses'
 description: Unlock the power of assumptions in product development! Learn to identify, validate, and test assumptions for data-driven decisions. A must-watch for product teams!
 date: 2024-08-10T07:00:32Z
+ResourceId: j-mPdGP7BiU
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: j-mPdGP7BiU
 source: internal
 url: /resources/videos/:slug
 slug: mastering-product-development-from-assumptions-to-hypotheses
+layout: video
 preview: https://i.ytimg.com/vi/j-mPdGP7BiU/maxresdefault.jpg
 duration: 302
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/ppdv-learning-outcomes
 - /resources/videos/j-mPdGP7BiU
 - /resources/ppdv-learning-outcomes
+- /resources/j-mPdGP7BiU
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -27,8 +33,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube j-mPdGP7BiU >}}
-
 In the fast-paced world of product development, assumptions can often be our greatest blind spots. Yet, they are also essential stepping stones that guide our decisions and strategies. In our new class, we dive deep into the art of working with assumptions, transforming them from potential pitfalls into powerful tools for innovation.
 
 ## **Introducing Assumptions to Your Product Development Toolbox**

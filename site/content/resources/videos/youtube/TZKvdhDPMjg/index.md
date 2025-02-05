@@ -2,10 +2,15 @@
 title: One thing a client can do to ensure a successful Agile consulting engagement
 description: 'Discover the key action clients can take to empower their agile coaches for success in this insightful short video with Martin Hinshelwood. #Agile #Coaching'
 date: 2023-05-05T07:00:10Z
+ResourceId: TZKvdhDPMjg
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: TZKvdhDPMjg
 source: internal
 url: /resources/videos/:slug
 slug: one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement
+layout: video
 preview: https://i.ytimg.com/vi/TZKvdhDPMjg/maxresdefault.jpg
 duration: 56
 isShort: true
@@ -15,6 +20,7 @@ aliases:
 - /resources/videos/one-thing-a-client-can-do-ensure-a-successful-agile-engagement-
 - /resources/videos/TZKvdhDPMjg
 - /resources/one-thing-a-client-can-do-ensure-a-successful-agile-engagement-
+- /resources/TZKvdhDPMjg
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -30,8 +36,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube TZKvdhDPMjg >}}
-
 **One thing a client can do to ensure a successful Agile consulting engagement**
 
 So, the first thing that comes to mind when asked this question is a one-word answer: ' provoke'.  🤔

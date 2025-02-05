@@ -2,10 +2,15 @@
 title: Why is Scrum so easy to understand but incredibly hard to master?
 description: "Uncover why Scrum is easy to grasp but tough to master! Join Martin as he shares insights and strategies for navigating its complexities. \U0001F680\U0001F4A1"
 date: 2023-02-28T07:00:18Z
+ResourceId: zSQSQPFsy-o
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: zSQSQPFsy-o
 source: internal
 url: /resources/videos/:slug
 slug: why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
+layout: video
 preview: https://i.ytimg.com/vi/zSQSQPFsy-o/maxresdefault.jpg
 duration: 389
 isShort: false
@@ -14,6 +19,7 @@ aliases:
 - /resources/videos/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master-
 - /resources/videos/zSQSQPFsy-o
 - /resources/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master-
+- /resources/zSQSQPFsy-o
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -27,8 +33,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube zSQSQPFsy-o >}}
-
 Why is Scrum so easy to understand but incredibly hard to master?
 
 It’s been said that scrum is easy to understand, but incredibly hard to master. I don’t know if that’s true. I don’t think that scrum is easy to understand, there are thousands of books, videos, and blogs on the topic so it would be fair to say that scrum can be tough to understand.

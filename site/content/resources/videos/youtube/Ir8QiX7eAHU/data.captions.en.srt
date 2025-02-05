@@ -1,0 +1,713 @@
+1
+00:00:00,080 --> 00:00:05,879
+one of the key components of creating a
+
+2
+00:00:02,639 --> 00:00:08,760
+cand strategy is whip limits if you
+
+3
+00:00:05,879 --> 00:00:11,679
+don't have whip limits it's definitely
+
+4
+00:00:08,760 --> 00:00:14,400
+not a cand strategy that you have so
+
+5
+00:00:11,679 --> 00:00:16,039
+when you when you visualize your work
+
+6
+00:00:14,400 --> 00:00:18,960
+when you do that Workshop where you
+
+7
+00:00:16,039 --> 00:00:22,160
+figure out what are the the the the
+
+8
+00:00:18,960 --> 00:00:24,199
+columns the states the activities that
+
+9
+00:00:22,160 --> 00:00:25,800
+happen for any piece of work that flows
+
+10
+00:00:24,199 --> 00:00:27,800
+through our system and you create those
+
+11
+00:00:25,800 --> 00:00:29,720
+columns you're going to have to decide
+
+12
+00:00:27,800 --> 00:00:33,239
+what your whipit is in each of those
+
+13
+00:00:29,720 --> 00:00:36,399
+areas is and coming up uh uh with a whip
+
+14
+00:00:33,239 --> 00:00:38,440
+limit is a little bit of an art right
+
+15
+00:00:36,399 --> 00:00:41,200
+it's like
+
+16
+00:00:38,440 --> 00:00:45,079
+um coming up with what's the what's the
+
+17
+00:00:41,200 --> 00:00:47,600
+goldilock zone for this particular
+
+18
+00:00:45,079 --> 00:00:50,000
+activity and I actually found out that I
+
+19
+00:00:47,600 --> 00:00:51,719
+I really fundamentally thought that
+
+20
+00:00:50,000 --> 00:00:52,840
+Goldilocks and the Three Bears was a
+
+21
+00:00:51,719 --> 00:00:56,879
+completely
+
+22
+00:00:52,840 --> 00:00:59,160
+ubiquitous uh story um but I was working
+
+23
+00:00:56,879 --> 00:01:01,079
+recently with a group in Romania and
+
+24
+00:00:59,160 --> 00:01:03,800
+they don't have Goldilocks and the three
+
+25
+00:01:01,079 --> 00:01:06,320
+bearss as a bedtime story it's not a not
+
+26
+00:01:03,800 --> 00:01:08,439
+a not a not a thing uh so kind of what
+
+27
+00:01:06,320 --> 00:01:10,119
+we're talking about and actually this
+
+28
+00:01:08,439 --> 00:01:14,159
+was the bit that resonated the best for
+
+29
+00:01:10,119 --> 00:01:17,479
+them was um think of what they describe
+
+30
+00:01:14,159 --> 00:01:20,119
+of as the goldilock Zone in planetary
+
+31
+00:01:17,479 --> 00:01:23,400
+physics I know I'm sounding like a
+
+32
+00:01:20,119 --> 00:01:25,439
+nutball here right but bear with me um
+
+33
+00:01:23,400 --> 00:01:27,560
+in in in planets when they talk about
+
+34
+00:01:25,439 --> 00:01:30,079
+planets being in the goldilock zone they
+
+35
+00:01:27,560 --> 00:01:33,119
+mean it's between water freezing and
+
+36
+00:01:30,079 --> 00:01:34,640
+water boiling right so you can have life
+
+37
+00:01:33,119 --> 00:01:38,040
+when there's water but you can't have
+
+38
+00:01:34,640 --> 00:01:39,000
+life when it's steam or in general
+
+39
+00:01:38,040 --> 00:01:43,000
+that's where
+
+40
+00:01:39,000 --> 00:01:45,320
+they yes I know that's possible but
+
+41
+00:01:43,000 --> 00:01:47,680
+let's you've got that that that that
+
+42
+00:01:45,320 --> 00:01:49,040
+zone if the water's frozen it's probably
+
+43
+00:01:47,680 --> 00:01:50,799
+very difficult to have life if the
+
+44
+00:01:49,040 --> 00:01:53,600
+waterers steam then it's very difficult
+
+45
+00:01:50,799 --> 00:01:55,600
+to have life so what is the Zone within
+
+46
+00:01:53,600 --> 00:01:57,920
+which it's just right that's the
+
+47
+00:01:55,600 --> 00:02:01,000
+goldilux zone you can go look up the
+
+48
+00:01:57,920 --> 00:02:06,799
+story The Fable later right but the
+
+49
+00:02:01,000 --> 00:02:08,800
+idea is that um we need to figure out
+
+50
+00:02:06,799 --> 00:02:11,520
+not just our whip limit for the whole
+
+51
+00:02:08,800 --> 00:02:13,640
+system but are whip limit for individual
+
+52
+00:02:11,520 --> 00:02:15,239
+stages in the system and the whip limit
+
+53
+00:02:13,640 --> 00:02:16,840
+for the individual stages if we create
+
+54
+00:02:15,239 --> 00:02:18,480
+individual stages will probably inform
+
+55
+00:02:16,840 --> 00:02:19,760
+the whip limit for the overall system
+
+56
+00:02:18,480 --> 00:02:20,879
+right because you just add them up and
+
+57
+00:02:19,760 --> 00:02:26,519
+that's the whip limit for the whole
+
+58
+00:02:20,879 --> 00:02:28,360
+system so um the ideal whip limit right
+
+59
+00:02:26,519 --> 00:02:30,959
+there is an ideal whip limit if
+
+60
+00:02:28,360 --> 00:02:34,760
+everything is perfect the ideal whip
+
+61
+00:02:30,959 --> 00:02:39,080
+limit is one the most optimal whip limit
+
+62
+00:02:34,760 --> 00:02:43,360
+um in a in in um flow is one single
+
+63
+00:02:39,080 --> 00:02:46,440
+piece flow right but that only works
+
+64
+00:02:43,360 --> 00:02:49,959
+when our
+
+65
+00:02:46,440 --> 00:02:52,840
+um that only works when our system is
+
+66
+00:02:49,959 --> 00:02:55,760
+perfect when it operates exactly like we
+
+67
+00:02:52,840 --> 00:02:57,840
+expect in the timing we expect when all
+
+68
+00:02:55,760 --> 00:03:00,680
+of those things are absolutely perfect
+
+69
+00:02:57,840 --> 00:03:04,400
+in the whip limit is one uh the the the
+
+70
+00:03:00,680 --> 00:03:07,760
+the thing I usually use to visualize
+
+71
+00:03:04,400 --> 00:03:11,000
+that is I I do the an a version of the
+
+72
+00:03:07,760 --> 00:03:14,319
+coin game with teams if you've not done
+
+73
+00:03:11,000 --> 00:03:17,840
+the coin game it's a great H exercise
+
+74
+00:03:14,319 --> 00:03:21,400
+where um you give people you give a
+
+75
+00:03:17,840 --> 00:03:24,680
+group of people uh 20 coins they flip
+
+76
+00:03:21,400 --> 00:03:27,360
+them all to heads and then they it's
+
+77
+00:03:24,680 --> 00:03:29,959
+it's a batch size exercise right so they
+
+78
+00:03:27,360 --> 00:03:31,760
+um flip them all to heads and then they
+
+79
+00:03:29,959 --> 00:03:33,799
+have to flip them all to Tails pass to
+
+80
+00:03:31,760 --> 00:03:36,439
+the next person they have to flip them
+
+81
+00:03:33,799 --> 00:03:38,360
+all to Tails pass them to the next
+
+82
+00:03:36,439 --> 00:03:40,280
+person so you've got this simulation of
+
+83
+00:03:38,360 --> 00:03:43,120
+a production line right something
+
+84
+00:03:40,280 --> 00:03:44,640
+happens in this stage the next stage
+
+85
+00:03:43,120 --> 00:03:48,760
+happens something happens there next
+
+86
+00:03:44,640 --> 00:03:51,959
+stage and in an ideal world you just
+
+87
+00:03:48,760 --> 00:03:53,640
+want one flip the coin move it on flip
+
+88
+00:03:51,959 --> 00:03:56,360
+the coin move it on flip the coin move
+
+89
+00:03:53,640 --> 00:04:00,840
+it on and you'll
+
+90
+00:03:56,360 --> 00:04:03,519
+have the maximum number of coins
+
+91
+00:04:00,840 --> 00:04:05,560
+going in action at any point in time
+
+92
+00:04:03,519 --> 00:04:07,640
+does that make sense right you've got if
+
+93
+00:04:05,560 --> 00:04:10,159
+you do batch size of 20 and you've get
+
+94
+00:04:07,640 --> 00:04:13,319
+20 coins and you've got 10 people in a
+
+95
+00:04:10,159 --> 00:04:15,639
+row you've got one person working and
+
+96
+00:04:13,319 --> 00:04:18,199
+nine people
+
+97
+00:04:15,639 --> 00:04:21,280
+waiting at all all the time the whole
+
+98
+00:04:18,199 --> 00:04:23,320
+time if you do a batch size of one
+
+99
+00:04:21,280 --> 00:04:25,440
+you've got 10 people
+
+100
+00:04:23,320 --> 00:04:27,240
+working and you'll get the fastest
+
+101
+00:04:25,440 --> 00:04:29,120
+delivery of the first unit of work and
+
+102
+00:04:27,240 --> 00:04:33,479
+the fastest delivery of mult of all the
+
+103
+00:04:29,120 --> 00:04:36,199
+units of work work okay but the world
+
+104
+00:04:33,479 --> 00:04:37,759
+isn't made up of flipping coins right
+
+105
+00:04:36,199 --> 00:04:40,960
+we're not that's not what we're doing
+
+106
+00:04:37,759 --> 00:04:44,199
+all day we are writing code we're
+
+107
+00:04:40,960 --> 00:04:47,840
+solving problems we're painting pictures
+
+108
+00:04:44,199 --> 00:04:50,840
+we're uh waiting on customers to reply
+
+109
+00:04:47,840 --> 00:04:54,039
+there's all sorts of things that make
+
+110
+00:04:50,840 --> 00:04:56,199
+what we do non a nonlinear thing not a
+
+111
+00:04:54,039 --> 00:04:58,120
+thing that just happens at once so
+
+112
+00:04:56,199 --> 00:05:00,160
+you're going to have to figure out for
+
+113
+00:04:58,120 --> 00:05:03,240
+each of those columns
+
+114
+00:05:00,160 --> 00:05:07,000
+what the most optimal whip limit is
+
+115
+00:05:03,240 --> 00:05:10,440
+based on your ability to keep things
+
+116
+00:05:07,000 --> 00:05:12,880
+moving and the need to identify when
+
+117
+00:05:10,440 --> 00:05:15,120
+there's problems if we make the whip
+
+118
+00:05:12,880 --> 00:05:16,600
+limit 100 in every column it's going to
+
+119
+00:05:15,120 --> 00:05:18,199
+be difficult to identify problems
+
+120
+00:05:16,600 --> 00:05:21,120
+because we'll maybe never hit it we'll
+
+121
+00:05:18,199 --> 00:05:24,280
+never hit the whip limit we deliberately
+
+122
+00:05:21,120 --> 00:05:27,160
+want to constrain the work to slightly
+
+123
+00:05:24,280 --> 00:05:30,080
+less than we can do so that we create
+
+124
+00:05:27,160 --> 00:05:32,880
+slack in the system that enables us to
+
+125
+00:05:30,080 --> 00:05:35,039
+see more of what's going on ask more
+
+126
+00:05:32,880 --> 00:05:36,960
+interesting questions and figure out do
+
+127
+00:05:35,039 --> 00:05:39,000
+we need to increase this or reduce this
+
+128
+00:05:36,960 --> 00:05:41,319
+one those are the types of discussions
+
+129
+00:05:39,000 --> 00:05:43,199
+that we want to have um and whenever we
+
+130
+00:05:41,319 --> 00:05:44,360
+run workshops where we run simulations
+
+131
+00:05:43,199 --> 00:05:45,960
+around this that's the kind of
+
+132
+00:05:44,360 --> 00:05:48,199
+conversations that people have in the
+
+133
+00:05:45,960 --> 00:05:50,000
+groups is who should we create the whip
+
+134
+00:05:48,199 --> 00:05:51,280
+limit bigger yeah but if we create the
+
+135
+00:05:50,000 --> 00:05:52,360
+whip limit bigger then there'll be more
+
+136
+00:05:51,280 --> 00:05:54,520
+stuff in here and there'll be more
+
+137
+00:05:52,360 --> 00:05:57,680
+pressure on this part of the system the
+
+138
+00:05:54,520 --> 00:06:00,000
+people in the groups are then a they're
+
+139
+00:05:57,680 --> 00:06:02,039
+able to visualize those things and see
+
+140
+00:06:00,000 --> 00:06:05,639
+the impact of those things which is the
+
+141
+00:06:02,039 --> 00:06:07,240
+whole point of a cand strategy that
+
+142
+00:06:05,639 --> 00:06:09,520
+everybody in the
+
+143
+00:06:07,240 --> 00:06:12,639
+system understands the system that
+
+144
+00:06:09,520 --> 00:06:15,440
+you've created better and it allows them
+
+145
+00:06:12,639 --> 00:06:17,639
+all to have more rational more
+
+146
+00:06:15,440 --> 00:06:20,080
+interesting conversations about how the
+
+147
+00:06:17,639 --> 00:06:22,960
+system goes together and how we might
+
+148
+00:06:20,080 --> 00:06:25,120
+change it in order to improve it or or
+
+149
+00:06:22,960 --> 00:06:26,960
+attempt to improve it and then the
+
+150
+00:06:25,120 --> 00:06:30,960
+impact of those improvements you're able
+
+151
+00:06:26,960 --> 00:06:34,120
+to monitor them at that that is
+
+152
+00:06:30,960 --> 00:06:36,880
+really picking whip limits just make up
+
+153
+00:06:34,120 --> 00:06:38,880
+some numbers at the start pick stuff and
+
+154
+00:06:36,880 --> 00:06:40,759
+see what works increase them if they're
+
+155
+00:06:38,880 --> 00:06:43,960
+too small make
+
+156
+00:06:40,759 --> 00:06:46,759
+them smaller if they're too big and
+
+157
+00:06:43,960 --> 00:06:49,720
+figure out where that optimal level is
+
+158
+00:06:46,759 --> 00:06:51,440
+um if you're really searching for Martin
+
+159
+00:06:49,720 --> 00:06:54,560
+what would you recommend as our whip
+
+160
+00:06:51,440 --> 00:06:58,120
+limit I I would say in any
+
+161
+00:06:54,560 --> 00:07:00,520
+stage as a starting point if you have to
+
+162
+00:06:58,120 --> 00:07:03,120
+have a Martin says we should do it this
+
+163
+00:07:00,520 --> 00:07:06,319
+way if you have to have that uh then
+
+164
+00:07:03,120 --> 00:07:09,319
+pick one less than the number of people
+
+165
+00:07:06,319 --> 00:07:11,800
+that you have performing an activity in
+
+166
+00:07:09,319 --> 00:07:14,400
+that in that area so if you have four
+
+167
+00:07:11,800 --> 00:07:17,520
+people pick three as your whip limit and
+
+168
+00:07:14,400 --> 00:07:19,840
+see how you go if you're struggling to
+
+169
+00:07:17,520 --> 00:07:22,000
+create whip limits so that you can see
+
+170
+00:07:19,840 --> 00:07:25,000
+what's going on in your system then we
+
+171
+00:07:22,000 --> 00:07:27,840
+can help you we provide world class
+
+172
+00:07:25,000 --> 00:07:29,599
+class cran training from Pro cran as
+
+173
+00:07:27,840 --> 00:07:33,160
+well as Consulting and coaching for
+
+174
+00:07:29,599 --> 00:07:35,840
+teams try to implement caman strategy if
+
+175
+00:07:33,160 --> 00:07:38,199
+you're a scrum team then we always
+
+176
+00:07:35,840 --> 00:07:40,520
+recommend bringing in flow metrics as a
+
+177
+00:07:38,199 --> 00:07:45,000
+complimentary practice and also have
+
+178
+00:07:40,520 --> 00:07:45,000
+caman classes from scrum.org
+
+

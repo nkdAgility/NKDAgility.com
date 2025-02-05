@@ -1,0 +1,1 @@
+It's an awesome, little class that helps us get to grips with some of the nuances of product backlog management. How do we make sure that we minimize the amount of things that are in that product backlog in order to maximize the value that we get from it?

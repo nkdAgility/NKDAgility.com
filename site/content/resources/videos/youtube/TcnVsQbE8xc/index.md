@@ -2,10 +2,15 @@
 title: Reasons to do a PSM II Course in 60 seconds
 description: 'Discover why elevating your skills with a PSM II course is essential for scrum masters in just 60 seconds! Join Martin Hinshelwood for insights. #PSMII #Agile'
 date: 2023-07-12T14:00:30Z
+ResourceId: TcnVsQbE8xc
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: TcnVsQbE8xc
 source: internal
 url: /resources/videos/:slug
 slug: reasons-to-do-a-psm-ii-course-in-60-seconds
+layout: video
 preview: https://i.ytimg.com/vi/TcnVsQbE8xc/maxresdefault.jpg
 duration: 50
 isShort: true
@@ -14,6 +19,7 @@ aliases:
 - /resources/reasons-to-do-a-psm-ii-course-in-60-seconds
 - /resources/videos/reasons-to-do-a-psm-ii-course-in-60-seconds
 - /resources/videos/TcnVsQbE8xc
+- /resources/TcnVsQbE8xc
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -30,8 +36,6 @@ resourceTypes:
 - video
 
 ---
-{{< youtube TcnVsQbE8xc >}}
-
 ## 🕒 Think a Minute Isn’t Much?  
 
 It’s enough to learn why the PSM II (Professional Scrum Master II) course can significantly boost your Scrum Master skills and career. 🚀 

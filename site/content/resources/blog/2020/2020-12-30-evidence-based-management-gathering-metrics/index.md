@@ -1,7 +1,14 @@
 ---
 title: 'Evidence-based Management: Gathering the metrics'
 description: Discover how to effectively gather metrics for Evidence-based Management in software organizations to enhance value delivery and drive agile success.
+ResourceId: mK5twHwVcIg
+ResourceType: blogpost
+ResourceImport: true
+ResourceImportId: 10528
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2020-12-30
+AudioNative: true
 creator: Martin Hinshelwood
 id: "10528"
 layout: blog
@@ -10,6 +17,13 @@ slug: evidence-based-management-gathering-metrics
 aliases:
 - /blog/evidence-based-management-gathering-metrics
 - /evidence-based-management-gathering-metrics
+- /evidence-based-management--gathering-the-metrics
+- /blog/evidence-based-management--gathering-the-metrics
+- /resources/mK5twHwVcIg
+- /resources/blog/evidence-based-management-gathering-metrics
+aliasesFor404:
+- /evidence-based-management-gathering-metrics
+- /blog/evidence-based-management-gathering-metrics
 - /evidence-based-management--gathering-the-metrics
 - /blog/evidence-based-management--gathering-the-metrics
 tags:

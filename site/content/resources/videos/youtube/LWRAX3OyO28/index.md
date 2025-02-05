@@ -2,15 +2,21 @@
 title: The Power of Continuous Delivery
 description: Discover the true power of Continuous Delivery with Martin Hinshelwood! Learn how to reduce risk, enhance reliability, and transform your software delivery.
 date: 2024-12-06T06:00:00Z
+ResourceId: LWRAX3OyO28
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: LWRAX3OyO28
 source: youtube
 url: /resources/videos/:slug
 slug: the-power-of-continuous-delivery
+layout: video
 canonicalUrl: https://www.youtube.com/watch?v=LWRAX3OyO28
 aliases:
 - /resources/videos/LWRAX3OyO28
 - /resources/videos/the-power-of-continuous-delivery
 - /resources/the-power-of-continuous-delivery
+- /resources/LWRAX3OyO28
 preview: https://i9.ytimg.com/vi/LWRAX3OyO28/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCWLD4Vo4EZ6b8ciR_RqJZImwnb7w
 duration: 332
 isShort: false
@@ -32,9 +38,10 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+resourceTypes:
+- video
 
 ---
-{{< youtube LWRAX3OyO28 >}} 
  The True Power of Continuous Delivery: Reducing Risk and Increasing Effectiveness | Martin Hinshelwood
 
 👋 Hi, I’m Martin Hinshelwood from NKD Agility, and in this video, I explore the real value of continuous delivery—and it’s not just about being faster. While speed is a byproduct, the true benefits lie in consistency, reliability, and risk reduction through automation. I’ll share examples, including lessons from Knight Capital Group and CrowdStrike, to illustrate why continuous delivery is essential for modern software development.
