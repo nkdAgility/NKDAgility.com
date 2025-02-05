@@ -28,15 +28,24 @@
       </div>
     </div>
     {{- if ne hugo.Environment "production" }}
-      <div class="dropdown">
+      <div class="dropdown {{ if eq hugo.Environment "production" }}d-none{{ end }}">
         <button type="button" class="btn btn-outline-secondary" data-bs-toggle="dropdown" aria-expanded="false">Edit <i class="fa-light fa-pen-to-square"></i></button>
         <div class="dropdown-menu dropdown-menu-end p-3"></div>
       </div>
-      <div class="dropdown">
+      <div class="dropdown {{ if eq hugo.Environment "production" }}d-none{{ end }}">
         <button type="button" class="btn btn-outline-secondary" data-bs-toggle="dropdown" aria-expanded="false">Admin <i class="fa-regular fa-lock"></i></button>
         <div class="dropdown-menu dropdown-menu-end p-3">
-          <button class="btn btn-outline-info btn-sm w-100 mb-2" onclick="navigator.clipboard.writeText('{{ .Path }}');" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;" title="Click to copy '{{ .Path }}'">Hugo RelPath <i class="fa-regular fa-clipboard"></i></button>
+          <strong>Internal</strong>
+          <button class="btn btn-outline-info btn-sm w-100 mb-2" onclick="navigator.clipboard.writeText('{{ `{{< ref ` }}' + '{{ .Path }}' + '{{ ` >}}`}}');" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;" title="Click to copy '{{ .Path }}'">RelPath Markdown <i class="fa-regular fa-clipboard"></i></button>
+          <button class="btn btn-outline-info btn-sm w-100 mb-2" onclick="navigator.clipboard.writeText('{{ .Path }}');" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;" title="Click to copy '{{ .Path }}'">RelPath Solo <i class="fa-regular fa-clipboard"></i></button>
+          <hr />
+          <strong>External</strong>
           <button class="btn btn-outline-info btn-sm w-100 mb-2" onclick="navigator.clipboard.writeText('https://nkdagility.com/resources/{{ .Params.ResourceId }}');" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;" title="Click to copy 'https://nkdagility.com/resources/{{ .Params.ResourceId }}'">Permalink <i class="fa-regular fa-clipboard"></i></button>
+          <button class="btn btn-outline-info btn-sm w-100 mb-2" onclick="navigator.clipboard.writeText('{{ .Summary }}');" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;" title="Click to copy Summary'">Summary <i class="fa-regular fa-clipboard"></i></button>
+          <button class="btn btn-outline-info btn-sm w-100 mb-2" onclick="navigator.clipboard.writeText('{{ .Description }}');" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;" title="Click to copy Description'">Description <i class="fa-regular fa-clipboard"></i></button>
+          <button class="btn btn-outline-info btn-sm w-100 mb-2" onclick="navigator.clipboard.writeText('{{ .Keywords }}');" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;" title="Click to copy Keywords'">Keywords <i class="fa-regular fa-clipboard"></i></button>
+          {{ $previewUrl := partial "functions/get-preview-image.html" . }}
+          <button class="btn btn-outline-info btn-sm w-100 mb-2" onclick="navigator.clipboard.writeText('{{ $previewUrl }}');" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;" title="Click to copy Preview Image'">Preview Image <i class="fa-regular fa-clipboard"></i></button>
         </div>
       </div>
     {{ end }}
