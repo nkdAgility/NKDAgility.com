@@ -6,7 +6,9 @@ ResourceImport: false
 date: 2025-02-13T09:00:00
 AudioNative: true
 creator: Martin Hinshelwood
-Contributors:
+contributors:
+  - name: Ben Day
+    external: https://www.linkedin.com/in/benjaminpday/
 layout: blog
 resourceTypes: blog
 slug: testing-in-production-maximises-quality-and-value
