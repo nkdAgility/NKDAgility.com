@@ -79,6 +79,7 @@ foreach ($video in $videoData.Videos) {
 
     if ($env:GOOGLE_QUOTA_OK -eq $false) {
         Write-Host "  No Quota: Skipping" -ForegroundColor Yellow
+        $captionsDownloadMissing++
         continue;
     }
    
