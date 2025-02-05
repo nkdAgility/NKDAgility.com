@@ -247,7 +247,7 @@ function Get-YouTubeCaptions {
     }
 }
 
-# Function to download a caption file with a check if $captionContent is empty and decode if necessary
+# Function to download a caption file with proper ASCII and UTF-8 handling
 function Get-YouTubeCaption {
     param (
         [Parameter(Mandatory = $true)]
@@ -256,53 +256,60 @@ function Get-YouTubeCaption {
         [string]$token
     )
 
-    # Specify the format as SRT by adding 'tfmt=srt' to the URL
     $downloadUrl = "https://www.googleapis.com/youtube/v3/captions/$captionId/?tfmt=srt"
     $headers = @{"Authorization" = "Bearer $token" }
 
-    # Use Invoke-WebRequest for binary or non-JSON/XML responses
     try {
         $response = Invoke-WebRequest -Uri $downloadUrl -Headers $headers -Method Get
         $captionContent = $response.Content
 
-        # Check if the content is potentially ASCII-encoded (only contains numbers and whitespace)
-        if ($captionContent -match '^(\d+(\s\d+)*\r?\n?)+$') {
-            Write-Host "Content appears to be ASCII-encoded. Decoding..." -ForegroundColor Yellow
+        # Convert to byte array and check encoding
+        $bytes = [System.Text.Encoding]::UTF8.GetBytes($captionContent)
+        $utf8Decoded = [System.Text.Encoding]::UTF8.GetString($bytes)
 
-            # Decode the ASCII-encoded content
+        # If it contains non-ASCII characters, assume it's already UTF-8
+        if ($utf8Decoded -match '[^\x00-\x7F]') {
+            Write-Host "Content is UTF-8. Returning as-is." -ForegroundColor Green
+            return $utf8Decoded
+        }
+
+        # Otherwise, check if it's numeric ASCII-encoded content
+        if ($utf8Decoded -match '^(\d+(\s\d+)*\r?\n?)+$') {
+            Write-Host "Content appears to be ASCII-encoded text. Decoding..." -ForegroundColor Yellow
             $decodedContent = ""
-            foreach ($line in $captionContent -split "`n") {
+
+            foreach ($line in $utf8Decoded -split "`n") {
                 if ($line -match '^\d+$') {
                     $decodedContent += [char][int]$line
-                } else {
+                }
+                else {
                     $decodedContent += "`n" + $line
                 }
             }
-
             return $decodedContent
-        } else {
-            Write-Host "Content is already decoded." -ForegroundColor Green
-            return $captionContent
         }
+
+        # If no encoding issue is detected, return content as is
+        Write-Host "Content is ASCII text. Returning as-is." -ForegroundColor Cyan
+        return $utf8Decoded
     }
     catch {
         if ($_.ErrorDetails) {
-            # Parse the error response from the error details
             $errorObject = $_.ErrorDetails | ConvertFrom-Json
-
-            # Extract the "reason" field
             $reason = $errorObject.error.errors[0].reason
             Write-Host "Error Reason: $reason"
             if ($reason -eq "quotaExceeded") {
                 Write-Host "Quota Exceeded. Set GOOGLE_QUOTA_OK to false to stop further requests." -ForegroundColor Red
                 $env:GOOGLE_QUOTA_OK = $false
             }
-        } else {
+        }
+        else {
             Write-Host "Error downloading caption: $($_.Exception.Message)" -ForegroundColor Red
         }
         return $null
     }
 }
+
 
 
 # Function to get authorization code from user
