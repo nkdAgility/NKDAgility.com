@@ -3,7 +3,7 @@ title: Testing in Production Maximises Quality and Value
 description: Explore how audience-based deployment, also known as ring-based deployment, challenges traditional environments, accelerates feedback, and transforms continuous delivery.
 ResourceId: _ncZFfeCrnS
 ResourceImport: false
-date: 2025-02-06T09:00:00
+date: 2025-02-13T09:00:00
 AudioNative: true
 creator: Martin Hinshelwood
 Contributors:
@@ -30,7 +30,7 @@ Testing in production, is about structured, observable releases that allow for f
 
 One such paradigm shift in software delivery is audience-based deployment.
 
-Gone are the days of rigid Dev-Test-Staging-Production pipelines. These traditional environments are costly, slow, and fundamentally flawed. They delay feedback loops, hinder innovation, and reinforce outdated notions of software stability.
+Gone are the days of rigid Dev-Test-Staging-Production pipelines. These [traditional environments are costly, slow, and fundamentally flawed]({{< ref '/resources/blog/2025/2025-02-06-stop-promoting-branches" >}}). They delay feedback loops, hinder innovation, and reinforce outdated notions of software stability.
 
 Instead, modern software engineering demands a smarter approach: deploying directly to real users in production but in a controlled, incremental manner.
 
