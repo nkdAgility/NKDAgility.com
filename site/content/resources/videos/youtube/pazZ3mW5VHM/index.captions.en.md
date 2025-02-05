@@ -1,0 +1,1 @@
+One of the most influential people in Agile for me has been Simon Simon Randell. He has always personified that facilitator, um, no [Â __Â]. Um, I’d Agile Agile outlook that I really aspire to. I think that he has this great way of communicating both in class and with customers that, um, yeah, I just I just I look up to it and I try and copy it.

@@ -1,0 +1,9 @@
+It depends what type of coaching we're talking about. If we're talking about coaching an individual, then the absolute top thing they need is permission. You don't coach without permission; that's just rude and can sometimes come across quite dickish. 
+
+Whereas, I think what I'm thinking is the coaching stance is when are you coaching the team, like as a group, the whole team, rather than one-on-one coaching. The team versus, you know, telling them stuff, teaching the team. I think three things you need to learn are to listen. You need to listen to the team and not just listen to respond, but you need to listen to understand. One of the problems that the people on the team have is what are the problems in their interactions with themselves, between each other, outside of the team. How do you understand the dynamic? 
+
+Listening to the team is really important. Another top thing, I think, is the understanding of what it is that the team are doing. For me, I would maybe put that one first, although I thought of the other one first, but I would put this one probably pretty high on the list. As a Scrum Master, you're leading; therefore, you lead from credibility. You don't lead from mediocrity. You need to be credible within the space that you're leading people. 
+
+So, do you understand what it is they do, how they do it, what the trials and tribulations are? What does good look like for the type of work that the team is working on? And how can you engage with the team in a way that enables them to do more of the right thing and less of the wrong thing? 
+
+Thanks for watching the video. If you enjoyed it, please like, follow, and subscribe. I always reply to comments, and if you want to have a chat about this or anything else Agile, Scrum, or DevOps, then please book a coffee with me through Naked Agility.

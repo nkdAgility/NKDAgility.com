@@ -69,7 +69,7 @@ function Update-Field {
         else {
             Write-Host "$fieldName already exists and is not empty"
         }
-        return $frontMatter
+        return
     }
 
     # Determine the position to insert the new field
@@ -92,7 +92,7 @@ function Update-Field {
     }
 
     Write-Host "$fieldName added"
-    return $frontMatter
+    return 
 }
 
 # Update-List function to have the same signature as Update-Field
@@ -148,6 +148,15 @@ function Update-StringList {
             Write-Host "$fieldName already contains all values"
         }
     }
+
+    # Ensure uniqueness while preserving the first occurrence’s casing
+    $seen = @{}
+    $frontMatter[$fieldName] = @(
+        $frontMatter[$fieldName] | Where-Object { 
+            $lower = $_.ToLower()
+            -not $seen.ContainsKey($lower) -and ($seen[$lower] = $_)  # Store the first occurrence's original case
+        }
+    )
     
     $frontMatter[$fieldName] = @($frontMatter[$fieldName] | Select-Object -Unique)
 

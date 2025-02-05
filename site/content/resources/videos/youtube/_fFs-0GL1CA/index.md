@@ -3,6 +3,9 @@ title: Why do you encourage people to follow a certification path in their caree
 description: Discover why certification is essential for mastering Agile roles. Join Martin Hinshelwood as he guides you on the path to Scrum expertise!
 date: 2023-03-07T07:00:09Z
 ResourceId: _fFs-0GL1CA
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: _fFs-0GL1CA
 url: /resources/videos/:slug
 slug: why-do-you-encourage-people-to-follow-a-certification-path-in-their-career-journey-
@@ -11,6 +14,7 @@ aliases:
 - /resources/videos/_fFs-0GL1CA
 - /resources/videos/why-do-you-encourage-people-to-follow-a-certification-path-in-their-career-journey-
 - /resources/why-do-you-encourage-people-to-follow-a-certification-path-in-their-career-journey-
+- /resources/_fFs-0GL1CA
 preview: https://i.ytimg.com/vi/_fFs-0GL1CA/maxresdefault.jpg
 duration: 372
 isShort: false

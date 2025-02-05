@@ -1,22 +1,7 @@
 <div class="card flex-fill m-2 shadow text-center flex-fill small">
   {{- $resourceType := .CurrentSection.Params.resourceType }}
-  {{- if .Params.preview }}
-    {{- $isExternal := strings.HasPrefix .Params.preview "http" }}
-    {{- if and (.Params.videoId) (or (not .PublishDate) (ge now .PublishDate)) -}}
-      <img class="img-fluid" loading="lazy" src="https://i.ytimg.com/vi/{{.Params.videoId}}/maxresdefault.jpg" alt="{{- .Title }}" />
-    {{- else if $isExternal }}
-      <img class="img-fluid" loading="lazy" src="{{- .Params.preview }}" alt="{{- .Title }}" />
-    {{- else }}
-      {{- $image := .Resources.GetMatch (printf "**/%s" .Params.preview) }}
-      {{- if $image }}
-        <img class="img-fluid" loading="lazy" src="{{- $image.RelPermalink }}" alt="{{- .Title }}" />
-      {{- else }}
-        <img class="courseImageBackground img-fluid" loading="lazy" src="/images/NKDAgility-technically-Background.jpg" alt="{{- .Params.Title }}" />
-      {{- end }}
-    {{- end }}
-  {{- else }}
-    <img class="courseImageBackground img-fluid" loading="lazy" src="/images/NKDAgility-technically-Background.jpg" alt="{{- .Params.Title }}" />
-  {{- end }}
+  {{ $previewUrl := partial "functions/get-preview-image.html" . }}
+  <img class="img-fluid" loading="lazy" src="{{ $previewUrl }}" alt="{{- .Title }}" />
   <div class="card-body p-2 px-20 clearfix row">
     <div class="col-9 col-md-12">
       <h2 class="card-title h5">{{- .Title }}</h2>

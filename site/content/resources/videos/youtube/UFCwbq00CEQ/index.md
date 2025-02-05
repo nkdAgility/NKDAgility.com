@@ -3,6 +3,9 @@ title: ' shorts 5 kinds of Agile bandits. 2nd kind'
 description: "Discover the 2nd kind of Agile bandit with Martin Hinshelwood! Learn about 'say-do' metrics in this engaging #shorts video. #Agile #Scrum #NKDAgility"
 date: 2024-01-05T11:00:32Z
 ResourceId: UFCwbq00CEQ
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: UFCwbq00CEQ
 url: /resources/videos/:slug
 slug: -shorts-5-kinds-of-agile-bandits-2nd-kind
@@ -12,6 +15,7 @@ aliases:
 - /resources/videos/UFCwbq00CEQ
 - /resources/videos/-shorts-5-kinds-of-agile-bandits-2nd-kind
 - /resources/-shorts-5-kinds-of-agile-bandits-2nd-kind
+- /resources/UFCwbq00CEQ
 preview: https://i.ytimg.com/vi/UFCwbq00CEQ/maxresdefault.jpg
 duration: 40
 isShort: true

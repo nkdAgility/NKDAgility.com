@@ -2,6 +2,7 @@
 title: Messenger United
 description: Discover Messenger United, an innovative application enhancing LinkedIn sync and integrating Microsoft services for seamless connectivity. Explore its features now!
 ResourceId: RvQ6ePytMFh
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 217
 ResourceImportSource: Wordpress

@@ -2,6 +2,7 @@
 title: Engaging with complexity - SharePoint Edition
 description: Explore complex SharePoint migrations with expert insights on consolidation and upgrades to SharePoint 2013. Simplify your transition today!
 ResourceId: Lzmlul_Elhj
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 9909
 ResourceImportSource: Wordpress

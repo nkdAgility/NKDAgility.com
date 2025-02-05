@@ -2,6 +2,7 @@
 title: Vista Mobile Device Center
 description: Explore the challenges of syncing podcasts with Windows Vista Mobile Device Center. Discover insights and solutions for a smoother mobile experience!
 ResourceId: Lqpn7ILc1mg
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 456
 ResourceImportSource: Wordpress

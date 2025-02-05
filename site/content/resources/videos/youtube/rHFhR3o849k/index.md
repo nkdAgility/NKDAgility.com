@@ -3,6 +3,9 @@ title: What makes a truly great scrum master?
 description: Discover the key traits of an exceptional Scrum Master in this insightful video by Martin Hinshelwood, highlighting the power of influence over authority.
 date: 2023-03-13T07:00:19Z
 ResourceId: rHFhR3o849k
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: rHFhR3o849k
 url: /resources/videos/:slug
 slug: what-makes-a-truly-great-scrum-master-
@@ -12,6 +15,7 @@ aliases:
 - /resources/videos/rHFhR3o849k
 - /resources/videos/what-makes-a-truly-great-scrum-master-
 - /resources/what-makes-a-truly-great-scrum-master-
+- /resources/rHFhR3o849k
 preview: https://i.ytimg.com/vi/rHFhR3o849k/maxresdefault.jpg
 duration: 237
 isShort: false

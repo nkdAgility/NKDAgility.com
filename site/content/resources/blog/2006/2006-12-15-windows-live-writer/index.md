@@ -2,6 +2,7 @@
 title: Windows Live Writer
 description: Discover Windows Live Writer, the ultimate offline blogging tool that simplifies content creation and publishing. Perfect for bloggers on the go!
 ResourceId: yZ8am0NWB2S
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 457
 ResourceImportSource: Wordpress

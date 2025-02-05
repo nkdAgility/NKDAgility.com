@@ -2,6 +2,7 @@
 title: What to do when you dont have a working computer!
 description: Discover practical tips for coping without a computer. Learn how to navigate daily tasks using mobile devices and software solutions effectively.
 ResourceId: nD4pBeQgpZK
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 208
 ResourceImportSource: Wordpress

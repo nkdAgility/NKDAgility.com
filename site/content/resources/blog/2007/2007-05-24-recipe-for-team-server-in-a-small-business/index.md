@@ -2,6 +2,7 @@
 title: Recipe for Team Server in a small business
 description: Discover cost-effective solutions for implementing Team Server in small businesses. Learn how to manage projects efficiently without breaking the bank!
 ResourceId: wOQl29WfTz6
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 399
 ResourceImportSource: Wordpress

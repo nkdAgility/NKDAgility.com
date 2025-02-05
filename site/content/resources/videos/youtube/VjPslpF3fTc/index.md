@@ -3,6 +3,9 @@ title: How will the Immersive Learning experience change the game for people wit
 description: "Unlock your potential! Discover how immersive learning transforms skill enhancement for experienced professionals in our latest video. \U0001F393✨"
 date: 2023-08-01T07:00:19Z
 ResourceId: VjPslpF3fTc
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: VjPslpF3fTc
 source: internal
 url: /resources/videos/:slug
@@ -16,6 +19,7 @@ aliases:
 - /resources/how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-few-years-experience
 - /resources/videos/how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-few-years-experience
 - /resources/videos/VjPslpF3fTc
+- /resources/VjPslpF3fTc
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -2,6 +2,7 @@
 title: Team Foundation Build 2012 Issue - The target CleanWorkspacePackageTempDir does not exist
 description: Resolve the 'CleanWorkspacePackageTempDir' error in Team Foundation Build 2012 for MVC projects. Discover solutions and workarounds to streamline your builds!
 ResourceId: 39VKBQJHQTj
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 8949
 ResourceImportSource: Wordpress

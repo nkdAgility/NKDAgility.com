@@ -3,6 +3,9 @@ title: Scrum is like communism. It doesn't work. Myth 4
 description: "Unravel the myth that Agile means no planning! Discover Scrum's true essence and Microsoft's innovative approach in this insightful video. \U0001F4C5\U0001F680"
 date: 2023-10-25T13:30:11Z
 ResourceId: J3Z2xU5ditc
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: J3Z2xU5ditc
 source: youtube
 url: /resources/videos/:slug
@@ -13,6 +16,7 @@ aliases:
 - /resources/videos/J3Z2xU5ditc
 - /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-4
 - /resources/scrum-is-like-communism-it-doesn't-work-myth-4
+- /resources/J3Z2xU5ditc
 preview: https://i.ytimg.com/vi/J3Z2xU5ditc/maxresdefault.jpg
 duration: 436
 isShort: false

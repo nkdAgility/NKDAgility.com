@@ -3,6 +3,9 @@ title: Boosting Team Morale and Engagement Through Effective Mentorship Programs
 description: "Unlock team potential! Discover how mentorship boosts morale, engagement, and success in organisations. Transform your team's future today! \U0001F31F\U0001F680"
 date: 2024-09-02T07:00:19Z
 ResourceId: TCs2IxB118c
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: TCs2IxB118c
 source: internal
 url: /resources/videos/:slug
@@ -16,13 +19,13 @@ aliases:
 - /resources/videos/the-power-of-engaged-teams-through-mentorship-programs
 - /resources/videos/TCs2IxB118c
 - /resources/the-power-of-engaged-teams-through-mentorship-programs
+- /resources/TCs2IxB118c
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Product Development
 - Agile Product Development
-- Agile product development
 - Product development training
 - Product development mentoring
 - Mentor program

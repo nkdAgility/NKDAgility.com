@@ -3,6 +3,9 @@ title: Ethics in Agile
 description: "Explore ethical agility with Martin Hinshelwood and Simon Reindl as they reflect on values and actions shaping today's fast-paced professional world. \U0001F30D\U0001F50D\U0001F4BC"
 date: 2023-11-24T09:24:45Z
 ResourceId: VMjGC_0pH58
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: VMjGC_0pH58
 source: youtube
 url: /resources/videos/:slug
@@ -14,6 +17,7 @@ aliases:
 - /resources/videos/VMjGC_0pH58
 - /resources/videos/ethics-in-agile
 - /resources/ethics-in-agile
+- /resources/VMjGC_0pH58
 preview: https://i.ytimg.com/vi/VMjGC_0pH58/maxresdefault.jpg
 duration: 3426
 isShort: false

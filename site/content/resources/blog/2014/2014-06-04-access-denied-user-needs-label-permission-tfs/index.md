@@ -2,6 +2,7 @@
 title: Access denied user needs label permission in TFS
 description: Learn how to resolve the 'Access denied user needs label permission in TFS' error and optimize your TFS security settings for smoother project management.
 ResourceId: jdpPpvEHzGa
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 10546
 ResourceImportSource: Wordpress

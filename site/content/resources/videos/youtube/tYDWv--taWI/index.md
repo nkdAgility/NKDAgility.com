@@ -3,6 +3,9 @@ title: Story Points Velocity Martin Hinshelwood
 description: Join Martin Hinshelwood as he unpacks the concept of story points velocity, enhancing your understanding of agile project management and team performance.
 date: 2020-07-24T18:09:45Z
 ResourceId: tYDWv--taWI
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: tYDWv--taWI
 source: youtube
 url: /resources/videos/:slug
@@ -14,6 +17,7 @@ aliases:
 - /resources/videos/tYDWv--taWI
 - /resources/videos/story-points-velocity-martin-hinshelwood
 - /resources/story-points-velocity-martin-hinshelwood
+- /resources/tYDWv--taWI
 preview: https://i.ytimg.com/vi/tYDWv--taWI/hqdefault.jpg
 duration: 2958
 isShort: false

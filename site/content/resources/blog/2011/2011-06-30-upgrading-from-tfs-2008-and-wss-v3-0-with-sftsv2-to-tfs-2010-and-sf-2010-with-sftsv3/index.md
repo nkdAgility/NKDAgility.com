@@ -2,6 +2,7 @@
 title: Upgrading from TFS 2008 and WSS v3.0 with SfTSv2 to TFS 2010 and SF 2010 with SfTSv3
 description: Upgrade your TFS 2008 and WSS v3.0 to TFS 2010 and SF 2010 with our detailed guide. Streamline your process and enhance your team's productivity today!
 ResourceId: KlJGJX3qXCS
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 3279
 ResourceImportSource: Wordpress

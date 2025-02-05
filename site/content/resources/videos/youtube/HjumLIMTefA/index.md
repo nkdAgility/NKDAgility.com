@@ -3,6 +3,9 @@ title: The Power of Immersive Learning in Agile Training
 description: 'Discover the top 5 reasons why immersive learning transforms Scrum training for students! Dive into the experience in this engaging short video. #Scrum #Agile'
 date: 2024-02-04T11:00:23Z
 ResourceId: HjumLIMTefA
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: HjumLIMTefA
 source: internal
 url: /resources/videos/:slug
@@ -16,6 +19,7 @@ aliases:
 - /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-5
 - /resources/videos/HjumLIMTefA
 - /resources/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-5
+- /resources/HjumLIMTefA
 sitemap:
   filename: sitemap.xml
   priority: 0.6

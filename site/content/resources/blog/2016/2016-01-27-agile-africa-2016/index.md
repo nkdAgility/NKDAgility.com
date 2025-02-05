@@ -2,6 +2,7 @@
 title: Agile in Africa 2016
 description: Join the Agile in Africa 2016 event in Accra, Ghana, and discover how to enhance development practices while connecting with industry experts. Sign up now!
 ResourceId: YQ8HMmx0-kz
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 11450
 ResourceImportSource: Wordpress

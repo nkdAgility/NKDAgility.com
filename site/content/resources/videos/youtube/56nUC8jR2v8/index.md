@@ -3,6 +3,9 @@ title: The tyranny of Taylorism and how to spot agile lies
 description: Explore the pitfalls of Taylorism and uncover the truths behind agile methodologies at the Future of Work event in Scotland! Join us now!
 date: 2020-06-24T17:48:17Z
 ResourceId: 56nUC8jR2v8
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: 56nUC8jR2v8
 url: /resources/videos/:slug
 slug: the-tyranny-of-taylorism-and-how-to-spot-agile-lies
@@ -11,6 +14,7 @@ aliases:
 - /resources/videos/56nUC8jR2v8
 - /resources/videos/the-tyranny-of-taylorism-and-how-to-spot-agile-lies
 - /resources/the-tyranny-of-taylorism-and-how-to-spot-agile-lies
+- /resources/56nUC8jR2v8
 preview: https://i.ytimg.com/vi/56nUC8jR2v8/maxresdefault.jpg
 duration: 51
 isShort: true

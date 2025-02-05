@@ -2,6 +2,7 @@
 title: Create a Standard Environment for Release Management in Azure
 description: Learn to create a standard environment for Release Management in Azure with Visual Studio. Streamline your deployment process and enhance your workflow!
 ResourceId: iI7MvY2p7RU
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 10923
 ResourceImportSource: Wordpress

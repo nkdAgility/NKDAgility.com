@@ -3,6 +3,9 @@ title: Top 4 Rookie Mistakes in Azure DevOps
 description: "Discover the top 4 rookie mistakes in Azure DevOps that can derail your projects! Learn to simplify your approach and enhance your workflow. \U0001F680✨"
 date: 2024-04-09T08:00:20Z
 ResourceId: jcs-2G99Rrw
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: jcs-2G99Rrw
 url: /resources/videos/:slug
 slug: top-4-rookie-mistakes-in-azure-devops
@@ -12,6 +15,7 @@ aliases:
 - /resources/videos/jcs-2G99Rrw
 - /resources/videos/top-4-rookie-mistakes-in-azure-devops
 - /resources/top-4-rookie-mistakes-in-azure-devops
+- /resources/jcs-2G99Rrw
 preview: https://i.ytimg.com/vi/jcs-2G99Rrw/maxresdefault.jpg
 duration: 2034
 isShort: false

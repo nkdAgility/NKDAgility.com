@@ -3,6 +3,9 @@ title: Overview of 'applying metrics for predictability' Kanban course.
 description: "Unlock your team's potential! Discover how to enhance predictability in delivery using Kanban metrics in this insightful course overview. \U0001F680\U0001F4CA #Kanban #Agile"
 date: 2024-02-20T07:00:27Z
 ResourceId: gjrvSJWE0Gk
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: gjrvSJWE0Gk
 source: internal
 url: /resources/videos/:slug
@@ -15,6 +18,7 @@ aliases:
 - /resources/overview-of-applying-metrics-for-predictability-kanban-course
 - /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course
 - /resources/videos/gjrvSJWE0Gk
+- /resources/gjrvSJWE0Gk
 sitemap:
   filename: sitemap.xml
   priority: 0.6

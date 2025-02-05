@@ -2,6 +2,7 @@
 title: Head First Design Patterns
 description: Discover how 'Head First Design Patterns' revolutionizes learning for developers, especially those with dyslexia, through engaging visuals and effective techniques.
 ResourceId: EFWY-8yQI--
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 137
 ResourceImportSource: Wordpress

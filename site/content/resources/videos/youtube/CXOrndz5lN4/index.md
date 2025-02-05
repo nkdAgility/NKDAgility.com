@@ -3,6 +3,9 @@ title: Building a culture of engineering excellence
 description: Discover how to foster a culture of engineering excellence in your team. Unlock the secrets to agile success in product and project management!
 date: 2024-11-26T17:53:11Z
 ResourceId: CXOrndz5lN4
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: CXOrndz5lN4
 source: youtube
 url: /resources/videos/:slug
@@ -13,6 +16,7 @@ aliases:
 - /resources/videos/CXOrndz5lN4
 - /resources/videos/building-a-culture-of-engineering-excellence
 - /resources/building-a-culture-of-engineering-excellence
+- /resources/CXOrndz5lN4
 preview: https://i.ytimg.com/vi/CXOrndz5lN4/maxresdefault.jpg
 duration: 40
 isShort: true

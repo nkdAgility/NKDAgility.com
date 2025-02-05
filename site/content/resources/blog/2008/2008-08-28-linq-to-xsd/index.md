@@ -2,6 +2,7 @@
 title: LINQ to XSD
 description: Discover the power of LINQ to XSD for C# projects. Learn how to enhance your development with extra features and streamline your XSD handling.
 ResourceId: 6v73sdkKVTr
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 203
 ResourceImportSource: Wordpress

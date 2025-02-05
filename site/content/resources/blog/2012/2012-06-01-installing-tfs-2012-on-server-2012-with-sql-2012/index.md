@@ -2,6 +2,7 @@
 title: Installing TFS 2012 on Server 2012 with SQL 2012
 description: Learn how to install TFS 2012 on Windows Server 2012 with SQL 2012 in just 90 minutes. Perfect for demos and production upgrades. Get started now!
 ResourceId: krqWTY5WW0r
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 5368
 ResourceImportSource: Wordpress

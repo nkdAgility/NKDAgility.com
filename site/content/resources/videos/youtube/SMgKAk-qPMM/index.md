@@ -3,6 +3,9 @@ title: 'Temperance in Agile: Why Less is More'
 description: "Master the art of balance in Agile with our video on Temperance! Discover how moderation maximises efficiency and elevates your Agile practices. \U0001F31F"
 date: 2023-12-05T07:00:10Z
 ResourceId: SMgKAk-qPMM
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: SMgKAk-qPMM
 source: internal
 url: /resources/videos/:slug
@@ -16,6 +19,7 @@ aliases:
 - /resources/videos/7-virtues-of-agile-temperance
 - /resources/videos/SMgKAk-qPMM
 - /resources/7-virtues-of-agile-temperance
+- /resources/SMgKAk-qPMM
 sitemap:
   filename: sitemap.xml
   priority: 0.6

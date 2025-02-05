@@ -3,6 +3,9 @@ title: Scrum Value, Openness, What does it mean and why does it matter?
 description: "Unlock the power of openness in Scrum! Discover how transparency and trust transform team dynamics for success. Watch now! \U0001F31F\U0001F511 #Scrum #Agile"
 date: 2023-04-28T07:00:30Z
 ResourceId: gRnYXuxo9_w
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: gRnYXuxo9_w
 url: /resources/videos/:slug
 slug: scrum-value,-openness,-what-does-it-mean-and-why-does-it-matter-
@@ -12,6 +15,7 @@ aliases:
 - /resources/videos/gRnYXuxo9_w
 - /resources/videos/scrum-value,-openness,-what-does-it-mean-and-why-does-it-matter-
 - /resources/scrum-value,-openness,-what-does-it-mean-and-why-does-it-matter-
+- /resources/gRnYXuxo9_w
 preview: https://i.ytimg.com/vi/gRnYXuxo9_w/maxresdefault.jpg
 duration: 171
 isShort: false

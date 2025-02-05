@@ -2,6 +2,7 @@
 title: Its that time again
 description: Explore the journey of a developer contemplating a shift to contracting amidst life changes. Discover insights on career growth and overcoming fears.
 ResourceId: n0GHiv0sTfp
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 370
 ResourceImportSource: Wordpress

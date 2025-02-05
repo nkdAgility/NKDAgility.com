@@ -3,6 +3,9 @@ title: Addressing Systemic Issues in Agile Organizations
 description: Unlock the secrets to startup success! Discover how agile techniques can transform your business and boost team performance in this must-watch video.
 date: 2024-01-24T07:00:16Z
 ResourceId: QBX7dnUBzo8
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: QBX7dnUBzo8
 source: internal
 url: /resources/videos/:slug
@@ -16,6 +19,7 @@ aliases:
 - /resources/videos/agile-techniques-that-boost-startups!
 - /resources/videos/QBX7dnUBzo8
 - /resources/agile-techniques-that-boost-startups!
+- /resources/QBX7dnUBzo8
 sitemap:
   filename: sitemap.xml
   priority: 0.6

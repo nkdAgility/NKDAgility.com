@@ -2,6 +2,7 @@
 title: What is dyslexia?
 description: Discover the multifaceted world of dyslexia, exploring its challenges and unique strengths. Learn how dyslexic individuals can thrive with their abilities!
 ResourceId: 97Evnsuws6e
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 360
 ResourceImportSource: Wordpress

@@ -3,6 +3,9 @@ title: Why is training such a critical element in a scrummaster journey?
 description: Discover why training is vital for Scrum Masters! Martin Hinshelwood highlights the leadership role and skills needed for success in agile coaching.
 date: 2023-11-28T11:00:49Z
 ResourceId: nY4tmtGKO6I
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: nY4tmtGKO6I
 url: /resources/videos/:slug
 slug: why-is-training-such-a-critical-element-in-a-scrummaster-journey-
@@ -12,6 +15,7 @@ aliases:
 - /resources/videos/nY4tmtGKO6I
 - /resources/videos/why-is-training-such-a-critical-element-in-a-scrummaster-journey-
 - /resources/why-is-training-such-a-critical-element-in-a-scrummaster-journey-
+- /resources/nY4tmtGKO6I
 preview: https://i.ytimg.com/vi/nY4tmtGKO6I/maxresdefault.jpg
 duration: 30
 isShort: true

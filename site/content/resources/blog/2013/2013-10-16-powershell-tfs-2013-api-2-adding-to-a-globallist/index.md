@@ -2,6 +2,7 @@
 title: 'PowerShell TFS 2013 API #2 - Adding to a GlobalList'
 description: Learn how to enhance your TFS 2013 Global List using PowerShell. Automate team field additions effortlessly with our step-by-step guide and reusable functions.
 ResourceId: Y2XTGIaY_Os
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 10151
 ResourceImportSource: Wordpress

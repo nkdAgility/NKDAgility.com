@@ -3,6 +3,9 @@ title: Why did so many of the early agile transformations fail?
 description: Discover why many early agile transformations failed and learn how to achieve success in your organisation with insights from Martin Hinshelwood.
 date: 2023-02-06T07:00:02Z
 ResourceId: 8nQ0VJ1CdqU
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: 8nQ0VJ1CdqU
 source: internal
 url: /resources/videos/:slug
@@ -16,6 +19,7 @@ aliases:
 - /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail-
 - /resources/videos/8nQ0VJ1CdqU
 - /resources/why-did-so-many-of-the-early-agile-transformations-fail-
+- /resources/8nQ0VJ1CdqU
 sitemap:
   filename: sitemap.xml
   priority: 0.6

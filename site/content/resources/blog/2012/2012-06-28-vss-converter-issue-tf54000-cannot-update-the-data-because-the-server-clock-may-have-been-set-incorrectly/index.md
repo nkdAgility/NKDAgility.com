@@ -2,6 +2,7 @@
 title: 'VSS Converter – Issue: TF54000: Cannot update the data because the server clock may have been set incorrectly'
 description: Encountering TF54000 during VSS import? Discover the cause and a simple workaround to resolve the server clock issue for a smooth migration process.
 ResourceId: dyEMgbMXhgq
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 6127
 ResourceImportSource: Wordpress

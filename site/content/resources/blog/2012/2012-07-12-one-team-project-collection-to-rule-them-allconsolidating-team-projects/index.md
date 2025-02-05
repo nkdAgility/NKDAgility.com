@@ -2,6 +2,7 @@
 title: One Team Project Collection to rule them all - Consolidating Team Projects
 description: Discover strategies for consolidating Team Projects in TFS 2012. Learn how to streamline your workflow and enhance collaboration with expert insights.
 ResourceId: xzuqsTxb7UD
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 6109
 ResourceImportSource: Wordpress

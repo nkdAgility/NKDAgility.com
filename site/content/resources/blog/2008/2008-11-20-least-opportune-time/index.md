@@ -2,6 +2,7 @@
 title: Least opportune time.
 description: Frustrated by server outages while launching TFS Sticky Buddy v2.0? Join Martin Hinshelwood as he shares his challenges and insights in this engaging blog post!
 ResourceId: wBoC9CmdiGq
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 163
 ResourceImportSource: Wordpress

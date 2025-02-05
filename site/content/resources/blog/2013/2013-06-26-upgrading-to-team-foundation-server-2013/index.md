@@ -2,6 +2,7 @@
 title: Upgrading to Team Foundation Server 2013
 description: Upgrade to Team Foundation Server 2013 effortlessly! Discover essential tips, backup strategies, and a smooth installation process for your TFS environment.
 ResourceId: Ni5lk4V30pb
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 9907
 ResourceImportSource: Wordpress

@@ -2,6 +2,7 @@
 title: The benefits of Visual Studio Online for the Enterprise
 description: Discover the advantages of Visual Studio Online for enterprises. Learn how it enhances agility, streamlines processes, and supports cloud-based development.
 ResourceId: raLa_TzImU3
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 11158
 ResourceImportSource: Wordpress

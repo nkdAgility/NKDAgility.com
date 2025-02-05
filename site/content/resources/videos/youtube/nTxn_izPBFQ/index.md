@@ -3,6 +3,9 @@ title: How good is the APSPO course in helping leaders determine product directi
 description: Discover how the PSPO-A course empowers managers to transition from project to product leadership, enhancing product vision and team alignment in Agile.
 date: 2023-03-22T07:00:17Z
 ResourceId: nTxn_izPBFQ
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: nTxn_izPBFQ
 source: internal
 url: /resources/videos/:slug
@@ -17,6 +20,7 @@ aliases:
 - /resources/videos/how-good-is-the-pspo-a-course-in-helping-determine-product-direction-
 - /resources/videos/nTxn_izPBFQ
 - /resources/how-good-is-the-pspo-a-course-in-helping-determine-product-direction-
+- /resources/nTxn_izPBFQ
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -2,6 +2,7 @@
 title: Deploying Team Server
 description: Explore the benefits of deploying TFS in your organization. Learn how a complete solution can enhance development efficiency and streamline project management.
 ResourceId: BcNPa5LLzLX
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 440
 ResourceImportSource: Wordpress

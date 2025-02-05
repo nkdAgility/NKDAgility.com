@@ -2,6 +2,7 @@
 title: TFS Sticky Buddy v2.0
 description: Discover the new features of TFS Sticky Buddy v2.0! Explore its improved interface and modular design, and share your ideas on Codeplex today!
 ResourceId: fxUFeDoOsrZ
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 174
 ResourceImportSource: Wordpress

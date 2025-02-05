@@ -3,6 +3,9 @@ title: 'The Limits of Self-Taught Learning: Why External Perspectives Matter'
 description: Discover the pitfalls of self-taught learning and the power of diverse insights in consulting. Embrace continuous learning for better solutions!
 date: 2024-08-22T07:00:08Z
 ResourceId: DvW-xwxufa0
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: DvW-xwxufa0
 source: internal
 url: /resources/videos/:slug
@@ -16,6 +19,7 @@ aliases:
 - /resources/videos/can-you-walk-us-through-your-consulting-process-what-methodologies-and-tools-do-you-employ-
 - /resources/videos/DvW-xwxufa0
 - /resources/can-you-walk-us-through-your-consulting-process-what-methodologies-and-tools-do-you-employ-
+- /resources/DvW-xwxufa0
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -3,6 +3,9 @@ title: Are there any Scrum courses that teach you how to scale Scrum?
 description: "Unlock the secrets to scaling Scrum! \U0001F680 Join Martin as he shares strategies to overcome challenges and enhance your Scrum journey. Don't miss out! \U0001F31F"
 date: 2023-10-18T07:00:23Z
 ResourceId: vubnDXYXiL0
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: vubnDXYXiL0
 source: internal
 url: /resources/videos/:slug
@@ -16,6 +19,7 @@ aliases:
 - /resources/videos/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum-
 - /resources/videos/vubnDXYXiL0
 - /resources/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum-
+- /resources/vubnDXYXiL0
 sitemap:
   filename: sitemap.xml
   priority: 0.6

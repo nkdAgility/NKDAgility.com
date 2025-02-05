@@ -2,6 +2,7 @@
 title: Installing Release Management Client for Visual Studio 2013
 description: Learn how to install the Release Management Client for Visual Studio 2013 effortlessly. Streamline your release pipeline with this quick and easy guide!
 ResourceId: FuoEoqFDuqx
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 10321
 ResourceImportSource: Wordpress

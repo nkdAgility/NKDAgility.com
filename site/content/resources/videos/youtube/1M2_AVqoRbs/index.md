@@ -3,6 +3,9 @@ title: Technical debt costs you more than you think
 description: 'Discover the hidden costs of technical debt and how it impacts your projects. Learn more at nkdagility.com! #agile #projectmanagement #technicaldebt'
 date: 2024-11-20T16:53:31Z
 ResourceId: 1M2_AVqoRbs
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: 1M2_AVqoRbs
 url: /resources/videos/:slug
 slug: technical-debt-costs-you-more-than-you-think
@@ -11,6 +14,7 @@ aliases:
 - /resources/videos/1M2_AVqoRbs
 - /resources/videos/technical-debt-costs-you-more-than-you-think
 - /resources/technical-debt-costs-you-more-than-you-think
+- /resources/1M2_AVqoRbs
 preview: https://i.ytimg.com/vi/1M2_AVqoRbs/maxresdefault.jpg
 duration: 36
 isShort: true

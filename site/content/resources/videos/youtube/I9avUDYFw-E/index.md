@@ -3,6 +3,9 @@ title: 'The Importance of Competence in Organizations: Building a Culture of Lea
 description: "Discover why investing in team competence is vital for innovation. Happy, skilled people create great products. Let's foster growth and excellence! \U0001F331\U0001F680"
 date: 2024-10-15T06:45:00Z
 ResourceId: I9avUDYFw-E
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: I9avUDYFw-E
 source: internal
 url: /resources/videos/:slug
@@ -16,6 +19,7 @@ aliases:
 - /resources/videos/why-does-this-matter-why-is-it-critical-that-we-invest-in-competence-now
 - /resources/videos/I9avUDYFw-E
 - /resources/why-does-this-matter-why-is-it-critical-that-we-invest-in-competence-now
+- /resources/I9avUDYFw-E
 sitemap:
   filename: sitemap.xml
   priority: 0.6

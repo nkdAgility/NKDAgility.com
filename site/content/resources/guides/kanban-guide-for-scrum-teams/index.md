@@ -1,21 +1,23 @@
 ---
 title: Kanban Guide for Scrum Teams
 description: The flow-based perspective of Kanban can enhance and complement the Scrum framework and its implementation.
+ResourceId: Z3HzXH_nmmz
 resourceTypes: guide
 layout: guide
 aliases:
-  - /guides/Kanban-Guide-for-Scrum-Teams.html
-  - /learn/agile-delivery-kit/guides/kanban-guide-for-scrum-teams
+- /guides/Kanban-Guide-for-Scrum-Teams.html
+- /learn/agile-delivery-kit/guides/kanban-guide-for-scrum-teams
+- /resources/Z3HzXH_nmmz
 references:
-  - title: The Kanban Guide for Scrum Teams on Scrum.org
-    url: https://scrum.org/resources/kanban-guide-scrum-teams
-  - title: Work can flow across the Sprint boundary
-    url: https://nkdagility.com/blog/work-can-flow-across-sprint-boundary/
-  - title: No Estimates and is it advisable for a Scrum Team to adopt it?
-    url: https://nkdagility.com/blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it/
+- title: The Kanban Guide for Scrum Teams on Scrum.org
+  url: https://scrum.org/resources/kanban-guide-scrum-teams
+- title: Work can flow across the Sprint boundary
+  url: https://nkdagility.com/blog/work-can-flow-across-sprint-boundary/
+- title: No Estimates and is it advisable for a Scrum Team to adopt it?
+  url: https://nkdagility.com/blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it/
 recommendedContent:
-  - collection: practices
-    path: _practices/service-level-expectation-sle.md
+- collection: practices
+  path: _practices/service-level-expectation-sle.md
 date: 2024-09-17
 creator: Martin Hinshelwood
 card:
@@ -23,8 +25,8 @@ card:
     content: Learn More
   content: Discover more about Kanban Guide for Scrum Teams and how it can help you in your Agile journey!
   title: Kanban Guide for Scrum Teams
----
 
+---
 The flow-based perspective of Kanban can enhance and complement the Scrum framework and its implementation. Teams can add complementary Kanban practices whether they are just starting to use Scrum or have been using it all along. The Kanban Guide for Scrum Teams is the result of a collaboration between members of the Scrum.org community and leaders of the Kanban community. Together, they stand behind The Kanban Guide for Scrum Teams. It is their shared belief that professional product development practitioners can benefit from the application of Kanban together with Scrum.
 {: .lead}
 

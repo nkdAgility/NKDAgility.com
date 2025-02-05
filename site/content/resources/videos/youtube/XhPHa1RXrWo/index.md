@@ -3,6 +3,9 @@ title: 'Agile is Not New: A Journey Back to the Basics'
 description: "Explore Agile's rich history and its evolution in this insightful video by Martin Hinshelwood, revealing how to reclaim its true value in modern business. \U0001F30D\U0001F4A1"
 date: 2024-10-10T15:48:56Z
 ResourceId: XhPHa1RXrWo
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: XhPHa1RXrWo
 source: internal
 url: /resources/videos/:slug
@@ -16,6 +19,7 @@ aliases:
 - /resources/videos/the-intention-of-agile-and-scrum
 - /resources/videos/XhPHa1RXrWo
 - /resources/the-intention-of-agile-and-scrum
+- /resources/XhPHa1RXrWo
 sitemap:
   filename: sitemap.xml
   priority: 0.6

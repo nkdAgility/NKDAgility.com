@@ -2,6 +2,7 @@
 title: Professional Application Lifecycle Management with Visual Studio 2013
 description: Discover the updated guide to Application Lifecycle Management with Visual Studio 2013. Enhance your software development with expert insights and new features!
 ResourceId: xeEpDhzecta
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 10482
 ResourceImportSource: Wordpress

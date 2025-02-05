@@ -2,6 +2,7 @@
 title: Issue [ TFS 2013 ] You get TF400324 when connecting InRelease to TFS
 description: Resolve the TF400324 error when connecting InRelease to TFS 2013 with effective solutions and PowerShell scripts. Get your TFS running smoothly!
 ResourceId: mpyXOBzFWc3
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 9749
 ResourceImportSource: Wordpress

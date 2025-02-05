@@ -2,6 +2,7 @@
 title: No love between McAfee Enterprise and MOSS 2007
 description: Discover the issues between McAfee Enterprise and MOSS 2007 that hinder SharePoint performance. Learn how to resolve conflicts for smoother operations.
 ResourceId: uprMOboloWH
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 274
 ResourceImportSource: Wordpress

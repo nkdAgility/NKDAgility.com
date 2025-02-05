@@ -2,6 +2,7 @@
 title: Experts Exchange Hell - The slowest site in the world.
 description: Discover the frustrations of navigating Experts Exchange, the slowest site in the world. Join the conversation on web performance and user experience!
 ResourceId: 994E1GchH-N
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 302
 ResourceImportSource: Wordpress

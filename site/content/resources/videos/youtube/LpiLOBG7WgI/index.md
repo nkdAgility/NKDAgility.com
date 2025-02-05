@@ -3,6 +3,9 @@ title: What should you do if your Sprint Review delivers harsh, scathing feedbac
 description: "Master Sprint reviews with confidence! Learn to turn harsh feedback into actionable insights and align with stakeholders for product success. \U0001F680"
 date: 2023-09-08T07:00:07Z
 ResourceId: LpiLOBG7WgI
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: LpiLOBG7WgI
 source: internal
 url: /resources/videos/:slug
@@ -17,6 +20,7 @@ aliases:
 - /resources/videos/what-should-you-do-if-your-sprint-review-delivers-harsh,-scathing-feedback
 - /resources/videos/LpiLOBG7WgI
 - /resources/what-should-you-do-if-your-sprint-review-delivers-harsh,-scathing-feedback
+- /resources/LpiLOBG7WgI
 sitemap:
   filename: sitemap.xml
   priority: 0.6

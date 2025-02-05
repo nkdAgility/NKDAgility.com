@@ -2,6 +2,7 @@
 title: Team Foundation Server 2013 is production ready
 description: Discover why Team Foundation Server 2013 is production-ready! Learn about its agile journey, major improvements, and why you should upgrade now.
 ResourceId: HxDL5HRMiX4
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 9917
 ResourceImportSource: Wordpress

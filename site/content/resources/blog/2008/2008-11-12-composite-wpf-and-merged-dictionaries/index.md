@@ -2,6 +2,7 @@
 title: Composite WPF and Merged Dictionaries
 description: Explore how to effectively manage themes and resource files in WPF applications with practical code solutions and insights from Martin Hinshelwood.
 ResourceId: rVJ3HWMCFYD
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 170
 ResourceImportSource: Wordpress

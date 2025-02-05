@@ -2,6 +2,7 @@
 title: What is your perspective on collocation?
 description: Explore the debate on collocation in Scrum teams. Discover insights from Martin Hinshelwood on optimizing team communication and performance.
 ResourceId: AcwMGmMo7iU
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 39960
 ResourceImportSource: Wordpress

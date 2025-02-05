@@ -3,6 +3,9 @@ title: Automate Everything - Boosting Engineering Excellence and Building Confid
 description: Discover how automation enhances engineering excellence, boosts confidence, and accelerates product development in this insightful video!
 date: 2025-01-14T06:45:00Z
 ResourceId: VkhIXCsoSJw
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: VkhIXCsoSJw
 source: youtube
 url: /resources/videos/:slug
@@ -13,6 +16,7 @@ aliases:
 - /resources/videos/VkhIXCsoSJw
 - /resources/videos/automate-everything-boosting-engineering-excellence-and-building-confidence
 - /resources/automate-everything-boosting-engineering-excellence-and-building-confidence
+- /resources/VkhIXCsoSJw
 preview: https://i.ytimg.com/vi/VkhIXCsoSJw/maxresdefault.jpg
 duration: 529
 isShort: false

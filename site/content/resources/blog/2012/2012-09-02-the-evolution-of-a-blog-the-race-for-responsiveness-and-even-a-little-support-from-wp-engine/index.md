@@ -2,6 +2,7 @@
 title: The evolution of a blog, the race for responsiveness and even a little support from WP Engine
 description: Discover the journey of a blog's evolution and the quest for speed with WP Engine. Learn how to enhance performance and responsiveness effectively!
 ResourceId: 6-_05CBAsbh
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 8617
 ResourceImportSource: Wordpress
@@ -26,6 +27,8 @@ aliasesFor404:
 - /blog/the-evolution-of-a-blog-the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
 - /the-evolution-of-a-blog,-the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
 - /blog/the-evolution-of-a-blog,-the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
+- /the-evolution-of-a-blog--the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
+- /blog/the-evolution-of-a-blog--the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
 categories:
 - me
 preview: nakedalm-logo-128-link-9-9.png

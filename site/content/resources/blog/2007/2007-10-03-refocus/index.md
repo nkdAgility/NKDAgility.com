@@ -2,6 +2,7 @@
 title: Refocus...
 description: Join Martin Hinshelwood as he refocuses on SharePoint 2007 and MOSS, sharing insights on enterprise deployment and integration challenges. Discover more!
 ResourceId: ofk0IF885SJ
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 304
 ResourceImportSource: Wordpress

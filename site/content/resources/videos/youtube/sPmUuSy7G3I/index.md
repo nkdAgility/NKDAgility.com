@@ -3,6 +3,9 @@ title: How does a scrum team plan and prioritize work effectively?
 description: Discover how scrum teams can effectively plan and prioritise work by fostering collaboration with customers and stakeholders in this insightful video!
 date: 2023-03-24T07:00:30Z
 ResourceId: sPmUuSy7G3I
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: sPmUuSy7G3I
 url: /resources/videos/:slug
 slug: how-does-a-scrum-team-plan-and-prioritize-work-effectively-
@@ -12,6 +15,7 @@ aliases:
 - /resources/videos/sPmUuSy7G3I
 - /resources/videos/how-does-a-scrum-team-plan-and-prioritize-work-effectively-
 - /resources/how-does-a-scrum-team-plan-and-prioritize-work-effectively-
+- /resources/sPmUuSy7G3I
 preview: https://i.ytimg.com/vi/sPmUuSy7G3I/maxresdefault.jpg
 duration: 312
 isShort: false

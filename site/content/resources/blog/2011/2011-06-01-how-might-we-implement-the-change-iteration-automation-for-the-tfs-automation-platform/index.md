@@ -2,6 +2,7 @@
 title: How might we implement the Change Iteration Automation for the Tfs Automation Platform
 description: Explore the implementation of Change Iteration Automation for the TFS Automation Platform, enhancing efficiency in managing queries across sprints.
 ResourceId: sE7yYXG4Th_
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 3383
 ResourceImportSource: Wordpress

@@ -2,6 +2,7 @@
 title: CafeMSN Prize
 description: Discover how I won Amazon vouchers from Microsoft twice through CafeMSN! Join me in celebrating this fun achievement and learn more about my experience.
 ResourceId: lDSK1w8_5AB
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 465
 ResourceImportSource: Wordpress

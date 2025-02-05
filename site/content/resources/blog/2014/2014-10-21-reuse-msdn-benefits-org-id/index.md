@@ -2,6 +2,7 @@
 title: Reuse your MSDN benefits with your Org ID
 description: Learn how to transfer your MSDN benefits to your Org ID effortlessly. Follow our step-by-step guide to maximize your Azure subscription today!
 ResourceId: kBoaPAZssaV
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 10786
 ResourceImportSource: Wordpress

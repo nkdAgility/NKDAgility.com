@@ -2,6 +2,7 @@
 title: The most usefull .NET tool on the face of the planet!
 description: Discover Reflector, the ultimate .NET tool that enhances your coding experience. Unlock the power of .NET with this essential resource for developers!
 ResourceId: 5AaOgf__tP8
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 468
 ResourceImportSource: Wordpress

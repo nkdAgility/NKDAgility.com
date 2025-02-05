@@ -2,6 +2,7 @@
 title: Change the Release Management Server that your Client connects to
 description: Learn how to easily change the Release Management Server your client connects to, ensuring smooth transitions between different environments. Get started now!
 ResourceId: zTjRpmZ5cJQ
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 10329
 ResourceImportSource: Wordpress

@@ -2,6 +2,7 @@
 title: Work can flow across the Sprint boundary
 description: Discover how to enhance your Scrum process by allowing work to flow across Sprint boundaries, boosting team efficiency and delivering value. Learn more!
 ResourceId: a7UMLdZeVYq
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 38300
 ResourceImportSource: Wordpress

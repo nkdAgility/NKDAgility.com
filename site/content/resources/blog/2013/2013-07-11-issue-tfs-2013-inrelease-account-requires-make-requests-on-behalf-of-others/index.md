@@ -2,6 +2,7 @@
 title: Issue [ TFS 2013 ] InRelease account requires make requests on behalf of others
 description: Resolve the TFS 2013 InRelease error requiring 'make requests on behalf of others' with our step-by-step guide to configure permissions effectively.
 ResourceId: SYCGxfoMPjw
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 9759
 ResourceImportSource: Wordpress

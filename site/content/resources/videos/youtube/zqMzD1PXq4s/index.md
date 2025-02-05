@@ -3,6 +3,9 @@ title: The Cost of Chaos. The Impact of Poor Technical Leadership
 description: Discover how poor technical leadership fuels chaos in software delivery and learn to boost productivity through engineering excellence with Martin Hinshelwood.
 date: 2024-12-16T06:00:00Z
 ResourceId: zqMzD1PXq4s
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: zqMzD1PXq4s
 source: youtube
 url: /resources/videos/:slug
@@ -13,6 +16,7 @@ aliases:
 - /resources/videos/zqMzD1PXq4s
 - /resources/videos/the-cost-of-chaos-the-impact-of-poor-technical-leadership
 - /resources/the-cost-of-chaos-the-impact-of-poor-technical-leadership
+- /resources/zqMzD1PXq4s
 preview: https://i9.ytimg.com/vi/zqMzD1PXq4s/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCCJvxRnT7rlMn8MlnyQgBfNMJTrg
 duration: 413
 isShort: false

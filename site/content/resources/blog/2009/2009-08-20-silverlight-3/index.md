@@ -2,6 +2,7 @@
 title: Silverlight 3
 description: Discover the insights from 'Silverlight 3 Programmer's Reference' by Wrox. Enhance your coding skills with this concise, colorful guide to Silverlight 3!
 ResourceId: RkVikquup-u
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 90
 ResourceImportSource: Wordpress

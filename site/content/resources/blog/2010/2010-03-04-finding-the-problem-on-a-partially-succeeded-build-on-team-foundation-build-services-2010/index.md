@@ -2,6 +2,7 @@
 title: Finding the problem on a partially succeeded build on Team Foundation Build Services 2010
 description: Discover how to troubleshoot partially succeeded builds in TFS 2010. Learn effective strategies to identify and resolve issues for smoother development.
 ResourceId: YBExXvBtNAN
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 66
 ResourceImportSource: Wordpress

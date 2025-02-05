@@ -2,6 +2,7 @@
 title: Restore TFS backups from SQL Enterprise to SQL Express
 description: Learn how to successfully restore TFS backups from SQL Enterprise to SQL Express by removing enterprise features. Troubleshoot errors and optimize your setup!
 ResourceId: Rtjw5m2qP3t
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 9902
 ResourceImportSource: Wordpress

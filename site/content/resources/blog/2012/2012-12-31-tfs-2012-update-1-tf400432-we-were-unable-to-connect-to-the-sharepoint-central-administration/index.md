@@ -2,6 +2,7 @@
 title: TFS 2012 Update 1 - TF400432 We were unable to connect to the SharePoint Central Administration
 description: Resolve the TF400432 error in TFS 2012 Update 1 and connect to SharePoint Central Administration effortlessly with our step-by-step troubleshooting guide.
 ResourceId: 68-m_aV0Njz
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 9196
 ResourceImportSource: Wordpress

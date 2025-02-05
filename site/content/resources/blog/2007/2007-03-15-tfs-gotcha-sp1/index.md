@@ -2,6 +2,7 @@
 title: TFS Gotcha (SP1)
 description: Struggling with TFS SP1 installation? Discover essential steps and solutions to troubleshoot your Team Foundation Server setup effectively. Get back on track!
 ResourceId: ZlJuM9fduW9
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 428
 ResourceImportSource: Wordpress

@@ -2,6 +2,7 @@
 title: Another day another Codeplex Project
 description: Explore innovative SharePoint Designer custom workflows with Martin Hinshelwood. Discover solutions to enhance your projects and streamline your processes!
 ResourceId: Jk2Pp119tUF
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 232
 ResourceImportSource: Wordpress

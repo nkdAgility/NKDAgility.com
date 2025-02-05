@@ -3,6 +3,9 @@ title: 7 signs of the agile apocalypse. Famine
 description: 'Discover the 7 signs of the #Agile apocalypse! In this short video, Martin Hinshelwood reveals how famine can signal impending doom for teams. #Agile #Shorts'
 date: 2023-11-08T06:45:00Z
 ResourceId: ARhXjid0zSE
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: ARhXjid0zSE
 url: /resources/videos/:slug
 slug: 7-signs-of-the-agile-apocalypse-famine
@@ -12,6 +15,7 @@ aliases:
 - /resources/videos/ARhXjid0zSE
 - /resources/videos/7-signs-of-the-agile-apocalypse-famine
 - /resources/7-signs-of-the-agile-apocalypse-famine
+- /resources/ARhXjid0zSE
 preview: https://i.ytimg.com/vi/ARhXjid0zSE/maxresdefault.jpg
 duration: 32
 isShort: true

@@ -2,6 +2,7 @@
 title: Online is the new co-located
 description: Explore how online participation redefines co-location in agile practices. Embrace video engagement for effective communication and collaboration in virtual events.
 ResourceId: QnZVgaG90q_
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 44487
 ResourceImportSource: Wordpress

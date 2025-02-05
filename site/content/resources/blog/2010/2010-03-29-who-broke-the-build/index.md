@@ -2,6 +2,7 @@
 title: Who broke the build?
 description: Discover why broken builds matter in development. Learn how to identify issues and maintain code quality with effective build management strategies.
 ResourceId: SVgPQgwftag
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 59
 ResourceImportSource: Wordpress

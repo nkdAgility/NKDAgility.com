@@ -3,6 +3,9 @@ title: worst trait in unskilled scrum masters?
 description: "Uncover the truth about Scrum Masters! Join Martin as he dispels myths and shares strategies for effective team collaboration. \U0001F680 #Scrum #Agile"
 date: 2023-04-28T07:00:08Z
 ResourceId: DNCDdWjYis8
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: DNCDdWjYis8
 source: youtube
 url: /resources/videos/:slug
@@ -13,6 +16,7 @@ aliases:
 - /resources/videos/DNCDdWjYis8
 - /resources/videos/worst-trait-in-unskilled-scrum-masters-
 - /resources/worst-trait-in-unskilled-scrum-masters-
+- /resources/DNCDdWjYis8
 preview: https://i.ytimg.com/vi/DNCDdWjYis8/maxresdefault.jpg
 duration: 51
 isShort: true

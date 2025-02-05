@@ -3,6 +3,9 @@ title: Ep 004 - Chat with Jim Sammons on professionalism and conflicting priorit
 description: Join us for a chat with Jim Sammons on professionalism and managing conflicting priorities in Agile. Tune in on 7th April 2020 at 20:00!
 date: 2020-04-07T20:33:45Z
 ResourceId: iCDEX6oHy7A
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: iCDEX6oHy7A
 url: /resources/videos/:slug
 slug: ep-004-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
@@ -12,6 +15,7 @@ aliases:
 - /resources/videos/iCDEX6oHy7A
 - /resources/videos/ep-004-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
 - /resources/ep-004-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
+- /resources/iCDEX6oHy7A
 preview: https://i.ytimg.com/vi/iCDEX6oHy7A/maxresdefault.jpg
 duration: 5071
 isShort: false

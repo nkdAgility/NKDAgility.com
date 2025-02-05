@@ -2,6 +2,7 @@
 title: 'Evolution not Transformation: This is the Inevitability of change'
 description: Discover why true agility is an evolution, not a transformation. Embrace continuous change to thrive in today's fast-paced business landscape.
 ResourceId: WvUOpSMqawD
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 44511
 ResourceImportSource: Wordpress

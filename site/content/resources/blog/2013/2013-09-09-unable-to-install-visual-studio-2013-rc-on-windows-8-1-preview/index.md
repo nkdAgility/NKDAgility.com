@@ -2,6 +2,7 @@
 title: Unable to install Visual Studio 2013 RC on Windows 8.1 Preview
 description: Struggling to install Visual Studio 2013 RC on Windows 8.1 Preview? Discover the compatibility issues and find solutions to move forward with your setup.
 ResourceId: RXXbeQU6tAH
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 9998
 ResourceImportSource: Wordpress

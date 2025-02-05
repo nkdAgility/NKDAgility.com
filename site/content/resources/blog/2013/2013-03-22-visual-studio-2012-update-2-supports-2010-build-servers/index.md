@@ -2,6 +2,7 @@
 title: Visual Studio 2012 Update 2 supports 2010 Build Servers
 description: Discover how Visual Studio 2012 Update 2 enables seamless integration with 2010 Build Servers, simplifying upgrades and enhancing your development workflow.
 ResourceId: wOYxXY4OsUH
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 9336
 ResourceImportSource: Wordpress

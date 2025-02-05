@@ -2,6 +2,7 @@
 title: Do you know about the Visual Studio 2010 Database Projects Guidance?
 description: Discover essential guidance for Visual Studio 2010 Database Projects, enhancing your team's database management and deployment strategies. Unlock your potential!
 ResourceId: 84KSaMagvy0
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 9896
 ResourceImportSource: Wordpress

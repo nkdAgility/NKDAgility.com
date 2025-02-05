@@ -2,6 +2,7 @@
 title: Visual Studio 2010 Overview - Microsoft Test Manager
 description: Discover how Microsoft Test Manager integrates with Visual Studio 2010 and TFS to streamline manual and automated testing. Enhance your testing efficiency now!
 ResourceId: 6a-Qtjtf94G
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 4189
 ResourceImportSource: Wordpress

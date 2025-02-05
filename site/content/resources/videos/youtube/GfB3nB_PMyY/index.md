@@ -3,6 +3,9 @@ title: 'The Power of Immersive Learning: Bridging Theory and Experience'
 description: Discover how immersive learning enhances your skills as a Scrum practitioner in this insightful video. Elevate your Agile journey with NKD Agility!
 date: 2024-02-09T07:00:06Z
 ResourceId: GfB3nB_PMyY
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: GfB3nB_PMyY
 source: internal
 url: /resources/videos/:slug
@@ -16,6 +19,7 @@ aliases:
 - /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-5
 - /resources/videos/GfB3nB_PMyY
 - /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-5
+- /resources/GfB3nB_PMyY
 sitemap:
   filename: sitemap.xml
   priority: 0.6

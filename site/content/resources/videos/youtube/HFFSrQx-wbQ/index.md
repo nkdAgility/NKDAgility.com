@@ -3,6 +3,9 @@ title: Plague - 7 Harbingers agile apocalypse. But shorter!
 description: Uncover the truth behind the agile coaching crisis! Join Martin Hinshelwood as he tackles the challenges of unskilled coaches in the agile landscape.
 date: 2023-11-01T09:42:43Z
 ResourceId: HFFSrQx-wbQ
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: HFFSrQx-wbQ
 url: /resources/videos/:slug
 slug: plague-7-harbingers-agile-apocalypse-but-shorter!
@@ -12,6 +15,7 @@ aliases:
 - /resources/videos/HFFSrQx-wbQ
 - /resources/videos/plague-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/plague-7-harbingers-agile-apocalypse-but-shorter!
+- /resources/HFFSrQx-wbQ
 preview: https://i.ytimg.com/vi/HFFSrQx-wbQ/maxresdefault.jpg
 duration: 64
 isShort: false

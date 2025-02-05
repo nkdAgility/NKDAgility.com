@@ -2,6 +2,7 @@
 title: Issue [ TFS 2013 ] TF50309 when configuring features in Team Foundation Server 2013
 description: Resolve the TF50309 error in TFS 2013 with expert solutions. Learn how to manage permissions and configure features effectively for your projects.
 ResourceId: JV3MFcDY50C
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 9724
 ResourceImportSource: Wordpress

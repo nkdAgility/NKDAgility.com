@@ -2,6 +2,7 @@
 title: My Wish List of Team Foundation Server Tools
 description: Explore essential Team Foundation Server tools in my wish list, designed to enhance workflow and collaboration for developers. Join the conversation!
 ResourceId: ew4cQCgRYB0
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 389
 ResourceImportSource: Wordpress

@@ -2,6 +2,7 @@
 title: Team Server Event Handlers made easy...
 description: Discover how to easily deploy event handlers for Team Foundation Server with our comprehensive guide. Simplify your coding process and enhance productivity!
 ResourceId: NjGpMY3aKfH
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 412
 ResourceImportSource: Wordpress

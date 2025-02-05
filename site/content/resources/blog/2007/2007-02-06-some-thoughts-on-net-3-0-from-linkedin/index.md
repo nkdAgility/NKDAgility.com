@@ -2,6 +2,7 @@
 title: Some thoughts on .NET 3.0 from LinkedIn
 description: Explore insights on adopting .NET 3.0 for new applications, its advantages over existing technologies, and the future of Microsoft’s development tools.
 ResourceId: L_rhObh8cmE
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 436
 ResourceImportSource: Wordpress

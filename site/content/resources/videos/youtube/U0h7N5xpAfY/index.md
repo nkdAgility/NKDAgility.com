@@ -3,6 +3,9 @@ title: Understanding the True Role of a Scrum Master
 description: Discover why training is vital for Scrum Masters in this insightful video by Martin Hinshelwood, highlighting the leadership role in fostering thriving teams.
 date: 2023-11-28T07:00:15Z
 ResourceId: U0h7N5xpAfY
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: U0h7N5xpAfY
 source: internal
 url: /resources/videos/:slug
@@ -16,6 +19,7 @@ aliases:
 - /resources/videos/why-is-training-such-a-critical-element-in-a-scrum-master's-journey
 - /resources/videos/U0h7N5xpAfY
 - /resources/why-is-training-such-a-critical-element-in-a-scrum-master's-journey
+- /resources/U0h7N5xpAfY
 sitemap:
   filename: sitemap.xml
   priority: 0.6

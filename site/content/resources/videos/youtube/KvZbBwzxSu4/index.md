@@ -3,6 +3,9 @@ title: 'The Strategic Imperative: Empowering Teams with Vision, Goals, and Direc
 description: Unlock your team's potential! Discover how a shared vision and clear goals drive organisational success and empower informed decision-making. Watch now!
 date: 2024-08-08T06:45:00Z
 ResourceId: KvZbBwzxSu4
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: KvZbBwzxSu4
 source: internal
 url: /resources/videos/:slug
@@ -16,6 +19,7 @@ aliases:
 - /resources/videos/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
 - /resources/videos/KvZbBwzxSu4
 - /resources/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
+- /resources/KvZbBwzxSu4
 sitemap:
   filename: sitemap.xml
   priority: 0.6

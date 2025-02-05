@@ -1,0 +1,5 @@
+To be an effective Agile coach, you need knowledge. You need knowledge in the processes, practices, and tools that might be effective for teams. You need to understand the underlying principles yourself. Why might teams choose it? Under what circumstances? What benefit would you expect them to get from it? You need deep technical expertise in the thing that you're delivering for them. 
+
+So that means that you might want to learn and understand Scrum. You might want to learn and understand Kanban and Lean Kanban method, Kanban strategy. What are the tools and techniques that you think will be most effective for you moving forward?
+
+Thanks for watching the video. If you enjoyed it, please like, follow, and subscribe. I always reply to comments, and if you want to have a chat about this or anything else Agile, Scrum, or DevOps, then please book a coffee with me through Naked Agility.

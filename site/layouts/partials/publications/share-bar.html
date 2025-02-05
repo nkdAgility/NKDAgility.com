@@ -5,26 +5,51 @@
   </div>
 
   <!-- Right-aligned 'Share' dropdown button -->
-  <div class="dropdown">
-    <button type="button" class="btn btn-outline-secondary" data-bs-toggle="dropdown" aria-expanded="false">Share</button>
-    <div class="dropdown-menu dropdown-menu-end p-3">
-      <!-- Copy Link -->
-      <button class="btn btn-light btn-sm w-100 mb-2" onclick="copyLink()"><i class="fas fa-link"></i> Copy Link</button>
+  <div class="d-inline-flex gap-2">
+    <div class="dropdown">
+      <button type="button" class="btn btn-outline-secondary" data-bs-toggle="dropdown" aria-expanded="false">Share <i class="fa-light fa-share-from-square"></i></button>
+      <div class="dropdown-menu dropdown-menu-end p-3">
+        <!-- Copy Link -->
+        <button class="btn btn-light btn-sm w-100 mb-2" onclick="copyLink()"><i class="fas fa-link"></i> Copy Link <i class="fa-light fa-copy"></i></button>
 
-      <!-- Divider -->
-      <hr />
+        <!-- Divider -->
+        <hr />
 
-      <!-- LinkedIn -->
-      <a class="btn btn-primary btn-sm w-100 mb-2" href="https://www.linkedin.com/shareArticle?mini=true&url={{- .Permalink }}&title={{- .Title }}" target="_blank" rel="noopener noreferrer"> <i class="fab fa-linkedin"></i> LinkedIn </a>
-      <!-- WhatsApp -->
-      <a class="btn btn-success btn-sm w-100 mb-2" href="https://api.whatsapp.com/send?text={{- .Title }}%20{{- .Permalink }}" target="_blank" rel="noopener noreferrer"> <i class="fab fa-whatsapp"></i> WhatsApp </a>
-      <!-- Twitter -->
-      <a class="btn btn-info btn-sm w-100 mb-2" href="https://twitter.com/intent/tweet?text={{- .Title }}&url={{- .Permalink }}" target="_blank" rel="noopener noreferrer"> <i class="fab fa-twitter"></i> Twitter </a>
-      <!-- Facebook -->
-      <a class="btn btn-primary btn-sm w-100 mb-2" href="https://www.facebook.com/sharer/sharer.php?u={{- .Permalink }}" target="_blank" rel="noopener noreferrer"> <i class="fab fa-facebook"></i> Facebook </a>
-      <!-- Email -->
-      <a class="btn btn-secondary btn-sm w-100" href="mailto:?subject={{- .Title }}&body={{- .Permalink }}"> <i class="fas fa-envelope"></i> Email </a>
+        <!-- LinkedIn -->
+        <a class="btn btn-primary btn-sm w-100 mb-2" href="https://www.linkedin.com/shareArticle?mini=true&url={{- .Permalink }}&title={{- .Title }}" target="_blank" rel="noopener noreferrer"> <i class="fab fa-linkedin"></i> LinkedIn </a>
+        <!-- WhatsApp -->
+        <a class="btn btn-success btn-sm w-100 mb-2" href="https://api.whatsapp.com/send?text={{- .Title }}%20{{- .Permalink }}" target="_blank" rel="noopener noreferrer"> <i class="fab fa-whatsapp"></i> WhatsApp </a>
+        <!-- Twitter -->
+        <a class="btn btn-info btn-sm w-100 mb-2" href="https://twitter.com/intent/tweet?text={{- .Title }}&url={{- .Permalink }}" target="_blank" rel="noopener noreferrer"> <i class="fab fa-twitter"></i> Twitter </a>
+        <!-- Facebook -->
+        <a class="btn btn-primary btn-sm w-100 mb-2" href="https://www.facebook.com/sharer/sharer.php?u={{- .Permalink }}" target="_blank" rel="noopener noreferrer"> <i class="fab fa-facebook"></i> Facebook </a>
+        <!-- Email -->
+        <a class="btn btn-secondary btn-sm w-100" href="mailto:?subject={{- .Title }}&body={{- .Permalink }}"> <i class="fas fa-envelope"></i> Email </a>
+      </div>
     </div>
+    {{- if ne hugo.Environment "production" }}
+      <div class="dropdown {{ if eq hugo.Environment "production" }}d-none{{ end }}">
+        <button type="button" class="btn btn-outline-secondary" data-bs-toggle="dropdown" aria-expanded="false">Edit <i class="fa-light fa-pen-to-square"></i></button>
+        <div class="dropdown-menu dropdown-menu-end p-3"></div>
+      </div>
+      <div class="dropdown {{ if eq hugo.Environment "production" }}d-none{{ end }}">
+        <button type="button" class="btn btn-outline-secondary" data-bs-toggle="dropdown" aria-expanded="false">Admin <i class="fa-regular fa-lock"></i></button>
+        <div class="dropdown-menu dropdown-menu-end p-3">
+          <strong>Internal</strong>
+          <button class="btn btn-outline-info btn-sm w-100 mb-2" onclick="navigator.clipboard.writeText('{{ `{{< ref ` }}' + '{{ .Path }}' + '{{ ` >}}`}}');" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;" title="Click to copy '{{ .Path }}'">RelPath Markdown <i class="fa-regular fa-clipboard"></i></button>
+          <button class="btn btn-outline-info btn-sm w-100 mb-2" onclick="navigator.clipboard.writeText('{{ .Path }}');" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;" title="Click to copy '{{ .Path }}'">RelPath Solo <i class="fa-regular fa-clipboard"></i></button>
+          <hr />
+          <strong>External</strong>
+          <button class="btn btn-outline-info btn-sm w-100 mb-2" onclick="navigator.clipboard.writeText('https://nkdagility.com/resources/{{ .Params.ResourceId }}');" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;" title="Click to copy 'https://nkdagility.com/resources/{{ .Params.ResourceId }}'">Permalink <i class="fa-regular fa-clipboard"></i></button>
+          <button class="btn btn-outline-info btn-sm w-100 mb-2" onclick="navigator.clipboard.writeText('{{ .Summary }}');" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;" title="Click to copy Summary'">Summary <i class="fa-regular fa-clipboard"></i></button>
+          <button class="btn btn-outline-info btn-sm w-100 mb-2" onclick="navigator.clipboard.writeText('{{ .Description }}');" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;" title="Click to copy Description'">Description <i class="fa-regular fa-clipboard"></i></button>
+          {{ $keywords := partial "functions/keywords.html" . }}
+          <button class="btn btn-outline-info btn-sm w-100 mb-2" onclick="navigator.clipboard.writeText('{{ $keywords }}');" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;" title="Click to copy '{{ $keywords }}'">Keywords <i class="fa-regular fa-clipboard"></i></button>
+          {{ $previewUrl := partial "functions/get-preview-image.html" . }}
+          <button class="btn btn-outline-info btn-sm w-100 mb-2" onclick="navigator.clipboard.writeText('https://nkdagility.com/blob{{ $previewUrl }}');" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;" title="Click to copy '{{ $previewUrl }}'">Preview Image <i class="fa-regular fa-clipboard"></i></button>
+        </div>
+      </div>
+    {{ end }}
   </div>
 </div>
 

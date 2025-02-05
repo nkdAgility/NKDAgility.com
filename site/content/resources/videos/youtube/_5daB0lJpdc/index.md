@@ -3,6 +3,9 @@ title: 'Introduction to Agility’s Ghosts: Shedding Dogma and Embracing Pragmat
 description: Uncover the truth about agile certifications! Join Martin as he challenges perceptions and reveals their impact on learning and growth in the agile world.
 date: 2023-12-28T08:40:54Z
 ResourceId: _5daB0lJpdc
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: _5daB0lJpdc
 source: internal
 url: /resources/videos/:slug
@@ -15,6 +18,7 @@ aliases:
 - /resources/videos/_5daB0lJpdc
 - /resources/videos/5-ghosts-of-agile-past-certification
 - /resources/5-ghosts-of-agile-past-certification
+- /resources/_5daB0lJpdc
 sitemap:
   filename: sitemap.xml
   priority: 0.6

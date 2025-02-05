@@ -2,6 +2,7 @@
 title: Issue [ TFS2012.2 ] TF30063 You are not authorized to access
 description: Discover how to resolve the TF30063 authorization error in TFS 2012.2 after moving environments. Upgrade to 2012.3 for a seamless experience!
 ResourceId: 6o-nqY9A5OP
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 9910
 ResourceImportSource: Wordpress

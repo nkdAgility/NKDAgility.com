@@ -2,6 +2,7 @@
 title: Getting started with a Definition of Done (DoD)
 description: Learn how to establish a robust Definition of Done (DoD) for your Scrum team to ensure quality and transparency in software delivery. Start improving today!
 ResourceId: z18IcQhlD7I
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 38238
 ResourceImportSource: Wordpress

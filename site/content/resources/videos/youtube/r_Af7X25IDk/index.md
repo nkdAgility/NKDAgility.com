@@ -3,6 +3,9 @@ title: Ep005 - Leading Agile Change
 description: Discover key insights on leading Agile change as Martin shares valuable practices from companies' journeys. Learn, adapt, and forge your unique path!
 date: 2020-04-17T18:57:11Z
 ResourceId: r_Af7X25IDk
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: r_Af7X25IDk
 url: /resources/videos/:slug
 slug: ep005-leading-agile-change
@@ -12,6 +15,7 @@ aliases:
 - /resources/videos/r_Af7X25IDk
 - /resources/videos/ep005-leading-agile-change
 - /resources/ep005-leading-agile-change
+- /resources/r_Af7X25IDk
 preview: https://i.ytimg.com/vi/r_Af7X25IDk/maxresdefault.jpg
 duration: 3615
 isShort: false

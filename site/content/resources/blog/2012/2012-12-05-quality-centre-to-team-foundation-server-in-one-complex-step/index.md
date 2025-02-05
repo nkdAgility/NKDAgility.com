@@ -2,6 +2,7 @@
 title: Quality Centre to Team Foundation Server in one complex step
 description: Discover effective tools for migrating from Quality Centre to Team Foundation Server. Explore options and find the best solution for your ALM needs!
 ResourceId: c2QQURpbvrm
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 9170
 ResourceImportSource: Wordpress

@@ -3,6 +3,9 @@ title: How does your real world experience translate into your training style?
 description: "Discover how Martin Hinshelwood's real-world experience shapes his unique #Scrum training style, making complex concepts accessible and impactful."
 date: 2023-01-20T07:00:08Z
 ResourceId: N0Ci9PQQRLc
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: N0Ci9PQQRLc
 url: /resources/videos/:slug
 slug: how-does-your-real-world-experience-translate-into-your-training-style-
@@ -12,6 +15,7 @@ aliases:
 - /resources/videos/N0Ci9PQQRLc
 - /resources/videos/how-does-your-real-world-experience-translate-into-your-training-style-
 - /resources/how-does-your-real-world-experience-translate-into-your-training-style-
+- /resources/N0Ci9PQQRLc
 preview: https://i.ytimg.com/vi/N0Ci9PQQRLc/maxresdefault.jpg
 duration: 423
 isShort: false

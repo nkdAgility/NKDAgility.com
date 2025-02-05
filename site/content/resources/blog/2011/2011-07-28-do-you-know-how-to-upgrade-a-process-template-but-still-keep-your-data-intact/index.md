@@ -2,6 +2,7 @@
 title: Upgrading your Process Template in Team Foundation Server
 description: Master the art of upgrading your Team Foundation Server process templates with expert tips and strategies to retain data and enhance your workflow.
 ResourceId: o6VvFIPoyTU
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 3717
 ResourceImportSource: Wordpress

@@ -2,6 +2,7 @@
 title: Import Excel data into TFS with History
 description: Learn how to import Excel data into TFS with history using VBA. Simplify your workflow and ensure data integrity with this step-by-step guide!
 ResourceId: Kf-5JC3RyWF
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 10541
 ResourceImportSource: Wordpress

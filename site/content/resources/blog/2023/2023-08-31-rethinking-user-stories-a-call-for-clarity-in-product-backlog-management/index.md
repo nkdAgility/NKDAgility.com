@@ -2,6 +2,7 @@
 title: "Rethinking 'User Stories': A Call for Clarity in Product Backlog Management"
 description: Discover why 'User Stories' may hinder product development and learn to embrace 'Product Backlog Items' for clearer, more effective communication.
 ResourceId: E2aOGiRDnuG
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 49726
 ResourceImportSource: Wordpress

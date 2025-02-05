@@ -2,6 +2,7 @@
 title: Sharepoint planning
 description: Discover effective SharePoint deployment strategies for large organizations. Learn about its powerful architecture and MySites features to enhance collaboration.
 ResourceId: NWq41MdV9s6
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 320
 ResourceImportSource: Wordpress

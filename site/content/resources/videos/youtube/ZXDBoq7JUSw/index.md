@@ -3,6 +3,9 @@ title: 3 reasons why you should level up your knowledge and skills?
 description: 'Unlock your potential! Discover 3 compelling reasons to enhance your agile skills with insights from Martin Hinshelwood, a professional Scrum trainer. #Agile #Scrum'
 date: 2023-08-03T07:00:11Z
 ResourceId: ZXDBoq7JUSw
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: ZXDBoq7JUSw
 source: internal
 url: /resources/videos/:slug
@@ -16,6 +19,7 @@ aliases:
 - /resources/3-reasons-why-you-should-level-up-your-knowledge-and-skills
 - /resources/videos/3-reasons-why-you-should-level-up-your-knowledge-and-skills
 - /resources/videos/ZXDBoq7JUSw
+- /resources/ZXDBoq7JUSw
 sitemap:
   filename: sitemap.xml
   priority: 0.6

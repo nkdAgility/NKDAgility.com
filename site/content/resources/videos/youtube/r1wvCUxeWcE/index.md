@@ -3,6 +3,9 @@ title: Kanban Boards
 description: 'Discover the power of Kanban Boards for agile project management! Streamline your workflow and boost productivity. Visit nkdagility.com for more! #agile #kanban'
 date: 2024-08-16T07:04:15Z
 ResourceId: r1wvCUxeWcE
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: r1wvCUxeWcE
 url: /resources/videos/:slug
 slug: kanban-boards
@@ -12,6 +15,7 @@ aliases:
 - /resources/videos/r1wvCUxeWcE
 - /resources/videos/kanban-boards
 - /resources/kanban-boards
+- /resources/r1wvCUxeWcE
 preview: https://i.ytimg.com/vi/r1wvCUxeWcE/maxresdefault.jpg
 duration: 57
 isShort: true

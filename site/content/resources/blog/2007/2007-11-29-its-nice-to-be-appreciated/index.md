@@ -2,6 +2,7 @@
 title: It's nice to be appreciated!
 description: Discover the joy of recognition with Community Credit! Join Martin Hinshelwood as he shares his journey of tech involvement and the rewards of appreciation.
 ResourceId: Kmtwkw7RD0K
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 283
 ResourceImportSource: Wordpress

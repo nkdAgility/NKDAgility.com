@@ -3,6 +3,9 @@ title: NKD Agility. Your Partner in Engineering Excellence
 description: Unlock engineering excellence with NKD Agility! Join Martin Hinshelwood as he explores quality, accountability, and technical leadership for your organisation.
 date: 2024-11-30T06:00:00Z
 ResourceId: tdOSrPOlyAI
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: tdOSrPOlyAI
 source: youtube
 url: /resources/videos/:slug
@@ -13,6 +16,7 @@ aliases:
 - /resources/videos/tdOSrPOlyAI
 - /resources/videos/nkd-agility-your-partner-in-engineering-excellence
 - /resources/nkd-agility-your-partner-in-engineering-excellence
+- /resources/tdOSrPOlyAI
 preview: https://i9.ytimg.com/vi/tdOSrPOlyAI/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAWEG3GhslAtEUFyG4Q62XYoQlRRA
 duration: 127
 isShort: false

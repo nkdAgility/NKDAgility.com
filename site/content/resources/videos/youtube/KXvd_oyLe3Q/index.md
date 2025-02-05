@@ -3,6 +3,9 @@ title: 'The Crucible of Learning: Transforming Organizational Effectiveness Thro
 description: Discover how DevOps consulting tackles technical debt and complex architectures, leading to improved efficiency and streamlined integration for clients.
 date: 2024-08-21T07:00:19Z
 ResourceId: KXvd_oyLe3Q
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: KXvd_oyLe3Q
 source: internal
 url: /resources/videos/:slug
@@ -16,6 +19,7 @@ aliases:
 - /resources/videos/what-specific-outcomes-and-improvements-can-clients-expect-when-they-engage-with-your-devops-service
 - /resources/videos/KXvd_oyLe3Q
 - /resources/what-specific-outcomes-and-improvements-can-clients-expect-when-they-engage-with-your-devops-service
+- /resources/KXvd_oyLe3Q
 sitemap:
   filename: sitemap.xml
   priority: 0.6

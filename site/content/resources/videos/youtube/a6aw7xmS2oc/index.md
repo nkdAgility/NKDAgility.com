@@ -3,6 +3,9 @@ title: What are the top 3 things a product owner needs to bear in mind when adop
 description: "Unlock the entrepreneurial mindset! Discover 3 key insights for product owners to connect teams to value and make evidence-based decisions. \U0001F680\U0001F4CA"
 date: 2023-09-20T07:00:00Z
 ResourceId: a6aw7xmS2oc
+ResourceType: video
+ResourceImport: true
+ResourceImportSource: Youtube
 videoId: a6aw7xmS2oc
 url: /resources/videos/:slug
 slug: what-are-the-top-3-things-a-product-owner-needs-to-bear-in-mind-when-adopting-an-entrepreneur-stance
@@ -12,6 +15,7 @@ aliases:
 - /resources/videos/a6aw7xmS2oc
 - /resources/videos/what-are-the-top-3-things-a-product-owner-needs-to-bear-in-mind-when-adopting-an-entrepreneur-stance
 - /resources/what-are-the-top-3-things-a-product-owner-needs-to-bear-in-mind-when-adopting-an-entrepreneur-stance
+- /resources/a6aw7xmS2oc
 preview: https://i.ytimg.com/vi/a6aw7xmS2oc/maxresdefault.jpg
 duration: 330
 isShort: false

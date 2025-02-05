@@ -2,6 +2,7 @@
 title: Release planning and predictable delivery
 description: Master release planning and achieve predictable delivery in agile environments. Discover strategies to enhance quality and streamline your software development process.
 ResourceId: 2cOXevMnGb_
+ResourceType: blogpost
 ResourceImport: true
 ResourceImportId: 9714
 ResourceImportSource: Wordpress
