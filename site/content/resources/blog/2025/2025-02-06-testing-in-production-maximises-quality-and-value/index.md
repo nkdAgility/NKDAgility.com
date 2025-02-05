@@ -30,7 +30,7 @@ Testing in production, is about structured, observable releases that allow for f
 
 One such paradigm shift in software delivery is audience-based deployment.
 
-Gone are the days of rigid Dev-Test-Staging-Production pipelines. These [traditional environments are costly, slow, and fundamentally flawed]({{< ref '/resources/blog/2025/2025-02-06-stop-promoting-branches" >}}). They delay feedback loops, hinder innovation, and reinforce outdated notions of software stability.
+Gone are the days of rigid Dev-Test-Staging-Production pipelines. These [traditional environments are costly, slow, and fundamentally flawed]({{< ref "/resources/blog/2025/2025-02-06-stop-promoting-branches" >}}). They delay feedback loops, hinder innovation, and reinforce outdated notions of software stability.
 
 Instead, modern software engineering demands a smarter approach: deploying directly to real users in production but in a controlled, incremental manner.
 
