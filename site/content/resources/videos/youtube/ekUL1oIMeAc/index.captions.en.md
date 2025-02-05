@@ -1,0 +1,3 @@
+So the worst product owner experience I have ever seen was at a Sprint review. The customer, the stakeholders who were in the room, the customer was there. It turns to the development team after the demo and said, "Uh, why, why, why, why, why did you build it that way?" Right? And you made choices that we didn't like. Why did you build it that way? 
+
+And instead of getting in front of and supporting the team, the product owner instead turned to the development team and said, "Yes, why did you build it that way?" The product owner basically threw the whole team under the bus in the Sprint review. Not a good position.

@@ -1,0 +1,3 @@
+In order to craft a Sprint goal, a team's going to pull in a bunch of information with the strategic direction of the product, the current tactical direction that the product owner is looking for, the current things that are happening in the engineering of the product, and they pull all of those things together and figure out what is the next most important thing they can work on. What is the next most important thing they could show the stakeholders that would provide them with value? 
+
+And then once they've got that context, that will then enable them to have a discussion about what items they're going to select. They're going to pull from the product backlog into their Sprint.

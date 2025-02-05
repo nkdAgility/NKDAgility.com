@@ -1,0 +1,3 @@
+We really want to help and support your learning going forward into the future. We want to help those that are already not doing the role learn the role, those that are doing the role and have been doing it for a while learn more about the role and be able to participate more. 
+
+Um, which is why we offer a 30% discount for anybody who's taken a class with us before. That way they can broaden their knowledge, they can expand their ideas, um, and perhaps the 30% is what's going to make the difference for them, them able to build up that knowledge so that they can be the most successful in their career.

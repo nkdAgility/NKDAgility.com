@@ -1,0 +1,3 @@
+So a product goal sits somewhere between the Sprint goal and the product Vision. I think of it as an intermediate strategic goal. Right, it's not as far away as Vision; it's closer, and its purpose is to connect the people that are doing the work with where is it we're going. 
+
+If you look at Sprint goals and Visions, it's usually very difficult to connect those two together because everybody, every single person on your team, works better if they understand how their work that they're doing every day contributes to the overall strategic goal of the product.
