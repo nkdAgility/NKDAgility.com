@@ -1,0 +1,3 @@
+I think the biggest misconception about a Scrum Master is that they're an order giver. They're somehow in control of anything. Ideally, the Scrum Master has no authority whatsoever within the context of the team and, in fact, is selected by the team. So you could say that they are a servant leader, a leader who serves the team. 
+
+The biggest misconception is that they're in charge of anything, that people should be giving them status updates, that they should be writing reports. These are all ridiculous things that are not part of being a Scrum Master. If you want to know more, come to the advanced Scrum Master class and find out.

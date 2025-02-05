@@ -1,0 +1,3 @@
+Is a product owner an agile project manager? No. I mean, the agile project manager is interested in a successful project. A product owner is looking to have a successful product. Right? So, a project within a product might be unsuccessful, and we still have the overall success of a product. And a project may be successful, and we still unsuccessfully deliver value to our customer. 
+
+So, a product owner has that laser focus on maximizing the value of the work done by the team, which may or may not fulfill projects.
