@@ -1,7 +1,7 @@
 ---
 title: Testing in Production Maximises Quality and Value
-description: "Explore how audience-based deployment, also known as ring-based deployment, challenges traditional environments, accelerates feedback, and transforms continuous delivery."
-ResourceId:
+description: Explore how audience-based deployment, also known as ring-based deployment, challenges traditional environments, accelerates feedback, and transforms continuous delivery.
+ResourceId: _ncZFfeCrnS
 ResourceImport: false
 date: 2025-02-06T09:00:00
 AudioNative: true
@@ -11,6 +11,7 @@ layout: blog
 resourceTypes: blog
 slug: testing-in-production-maximises-quality-and-value
 aliases:
+  - /resources/_ncZFfeCrnS
 aliasesFor404:
 tags:
   - continuous-delivery
