@@ -8,12 +8,12 @@
   {{- else }}
     {{- $image := .Resources.GetMatch (printf "**/%s" .Params.preview) }}
     {{- if $image }}
-      {{ $url = $image.Permalink -}}
+      {{ $url = $image.RelPermalink -}}
     {{- else }}
-      {{ $url = "https://nkdagility.com/blob/images/NKDAgility-technically-Background.jpg" -}}
+      {{ $url = "/images/NKDAgility-technically-Background.jpg" -}}
     {{- end }}
   {{- end }}
 {{- else }}
-  {{ $url = "https://nkdagility.com/blob/images/NKDAgility-technically-Background.jpg" -}}
+  {{ $url = "/images/NKDAgility-technically-Background.jpg" -}}
 {{- end }}
 {{- return $url -}}
