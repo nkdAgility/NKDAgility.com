@@ -111,8 +111,6 @@ This isn’t just DevOps done well; it’s a learning engine driving continuous 
 
 For example, I am in the Insider group for Microsoft Teams, with my account in R3, with both R3.5 (preview) and R4 (ga) ahead of me... and yet I can be in a call with folks from any of the rings from R0 all the way to R4. We each get different features and capabilities and a different product stability level.
 
----
-
 ### Why You Should Ditch the Old Way
 
 Most organisations still cling to the traditional **Dev-Test-Staging-Production** model because it feels safe. But let’s be honest:
@@ -122,8 +120,6 @@ Most organisations still cling to the traditional **Dev-Test-Staging-Production*
 - **It stifles innovation.** Slow, gated releases hinder rapid iteration and experimentation.
 
 The alternative? **Deploying directly to your users, but smartly.**
-
----
 
 ### Making the Shift: Key Strategies for Audience-Based Deployment
 
@@ -136,8 +132,6 @@ Want to embrace audience-based deployment? Here’s how:
 3. **Real-Time Observability** – Use logging, metrics, and tracing to detect issues immediately.
 4. **Automated Rollout Halts** – Deployments should automatically pause if telemetry detects anomalies or performance degradations, ensuring issues are caught before they escalate.
 5. **User Opt-In Programs** – Encourage beta testers and early adopters to participate.
-
----
 
 ### The Future of Continuous Delivery
 
