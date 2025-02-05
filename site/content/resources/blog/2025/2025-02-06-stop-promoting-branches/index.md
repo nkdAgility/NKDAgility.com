@@ -7,7 +7,7 @@ date: 2025-02-06T09:00:00
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
-  - name: Ben Day
+  - name: Benjamin Day
     external: https://www.linkedin.com/in/benjaminpday/
 layout: blog
 resourceTypes: blog

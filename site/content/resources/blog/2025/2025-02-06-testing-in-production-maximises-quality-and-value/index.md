@@ -7,8 +7,10 @@ date: 2025-02-13T09:00:00
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
-  - name: Ben Day
+  - name: Benjamin Day
     external: https://www.linkedin.com/in/benjaminpday/
+  - name: Dave Westgarth
+    external: https://www.linkedin.com/in/dave-westgarth/
 layout: blog
 resourceTypes: blog
 slug: testing-in-production-maximises-quality-and-value
@@ -52,7 +54,7 @@ While you may need to retain some environmental context for compliance or operat
 
 By shifting away from rigid environment-based branching, teams can iterate faster and detect issues in real-world scenarios without unnecessary overhead.
 
-I don't think this is easy; it's not. It requires significant discipline and a relentless focus on the unable working product that many teams just don't have.
+I don't think this is easy; it's not. Teams making this shift face teething problems; adapting workflows, enhancing observability, and upskilling in DevOps and CI/CD practices. Success here isn't just technical; it's cultural. Organisations must embrace automation, foster real-time monitoring capabilities, and embed progressive delivery into their engineering ethos. It requires significant discipline and a relentless focus on the unable working product that many teams just don't have.
 
 ### How Microsoft Transformed Deployment
 
@@ -114,6 +116,8 @@ This isn’t just DevOps done well; it’s a learning engine driving continuous 
 For example, I am in the Insider group for Microsoft Teams, with my account in R3, with both R3.5 (preview) and R4 (ga) ahead of me... and yet I can be in a call with folks from any of the rings from R0 all the way to R4. We each get different features and capabilities and a different product stability level.
 
 ### Why You Should Ditch the Old Way
+
+Beyond the inefficiencies of traditional environments, the old way accumulates waste—relearning, duplicated effort, and maintaining outdated processes, all drain resources. Each additional environment introduces overhead in familiarization, regression testing, and upkeep, diverting attention from work that delivers actual value. The cost isn't just financial; it's an innovation tax.
 
 Most organisations still cling to the traditional **Dev-Test-Staging-Production** model because it feels safe. But let’s be honest:
 
