@@ -1,6 +1,3 @@
-import { liteClient as algoliasearch } from "algoliasearch/lite";
-import { searchBox, hits, configure, poweredBy } from "instantsearch.js/es/widgets";
-
 // Add styles
 const styles = document.createElement("style");
 styles.textContent = `
