@@ -1,0 +1,501 @@
+1
+00:00:04,799 --> 00:00:08,580
+so the question is what is a Sprint
+
+2
+00:00:07,200 --> 00:00:11,219
+backlog
+
+3
+00:00:08,580 --> 00:00:13,500
+uh so according to the scrum guide a
+
+4
+00:00:11,219 --> 00:00:16,800
+Sprint backlog is is kind of three
+
+5
+00:00:13,500 --> 00:00:19,859
+things together the first is the Sprint
+
+6
+00:00:16,800 --> 00:00:23,820
+goal uh the second is the selected
+
+7
+00:00:19,859 --> 00:00:25,680
+backlog items and the third is a plan to
+
+8
+00:00:23,820 --> 00:00:28,439
+complete them some kind of some kind of
+
+9
+00:00:25,680 --> 00:00:30,240
+plan for that those three together is
+
+10
+00:00:28,439 --> 00:00:34,020
+the the Sprint backlog
+
+11
+00:00:30,240 --> 00:00:38,579
+uh my my perspective is that the the
+
+12
+00:00:34,020 --> 00:00:39,899
+Sprint backlog is our transparency of
+
+13
+00:00:38,579 --> 00:00:42,180
+the present
+
+14
+00:00:39,899 --> 00:00:44,160
+right it's how do we know what are we
+
+15
+00:00:42,180 --> 00:00:47,399
+working on just now how do we know where
+
+16
+00:00:44,160 --> 00:00:50,219
+we are in our progress towards our our
+
+17
+00:00:47,399 --> 00:00:52,320
+current Sprint goal and ultimately our
+
+18
+00:00:50,219 --> 00:00:55,920
+overall product goal
+
+19
+00:00:52,320 --> 00:00:58,379
+um so the the Sprint backlog is
+
+20
+00:00:55,920 --> 00:01:00,360
+made up of all of the things that we're
+
+21
+00:00:58,379 --> 00:01:03,239
+working on this Sprint but it's very
+
+22
+00:01:00,360 --> 00:01:08,640
+important that the Sprint backlog isn't
+
+23
+00:01:03,239 --> 00:01:11,700
+100 to do with the Sprint goal if we
+
+24
+00:01:08,640 --> 00:01:14,159
+always have our Sprint backlog must be
+
+25
+00:01:11,700 --> 00:01:16,260
+100 to do with our Sprint goal then what
+
+26
+00:01:14,159 --> 00:01:18,840
+do we do with all those other things
+
+27
+00:01:16,260 --> 00:01:21,119
+that we need to do over time perhaps
+
+28
+00:01:18,840 --> 00:01:23,100
+we've got some refactoring perhaps we've
+
+29
+00:01:21,119 --> 00:01:25,320
+got some architectural work we have to
+
+30
+00:01:23,100 --> 00:01:27,180
+do perhaps we've just got some bugs to
+
+31
+00:01:25,320 --> 00:01:28,619
+fix do we have to have a bug fixing
+
+32
+00:01:27,180 --> 00:01:31,140
+Sprint right that's where that
+
+33
+00:01:28,619 --> 00:01:35,579
+dysfunction comes from so what you do
+
+34
+00:01:31,140 --> 00:01:38,640
+instead is your your your Sprint goal
+
+35
+00:01:35,579 --> 00:01:41,159
+encompasses some of your Sprint backlog
+
+36
+00:01:38,640 --> 00:01:43,320
+this is the thing that you commit to the
+
+37
+00:01:41,159 --> 00:01:45,540
+thing that you're definitely definitely
+
+38
+00:01:43,320 --> 00:01:47,220
+going to try really hard to achieve
+
+39
+00:01:45,540 --> 00:01:48,600
+right because that commitment try really
+
+40
+00:01:47,220 --> 00:01:50,280
+hard to achieve that's the thing you're
+
+41
+00:01:48,600 --> 00:01:51,540
+definitely the thing you'll talk to your
+
+42
+00:01:50,280 --> 00:01:53,880
+customers about talk to your
+
+43
+00:01:51,540 --> 00:01:55,920
+stakeholders about engage with them on
+
+44
+00:01:53,880 --> 00:01:57,479
+that that topic and then there's a bunch
+
+45
+00:01:55,920 --> 00:01:59,040
+of other things that you're going to
+
+46
+00:01:57,479 --> 00:02:01,500
+bring into the Sprint that are perhaps
+
+47
+00:01:59,040 --> 00:02:02,880
+nothing to do with the Sprint goal you
+
+48
+00:02:01,500 --> 00:02:05,460
+might have
+
+49
+00:02:02,880 --> 00:02:08,280
+um some some refactoring work you might
+
+50
+00:02:05,460 --> 00:02:10,259
+have some technical debt you want to go
+
+51
+00:02:08,280 --> 00:02:12,660
+want to go fix
+
+52
+00:02:10,259 --> 00:02:14,340
+um you might have here's some stuff that
+
+53
+00:02:12,660 --> 00:02:16,379
+we haven't automated in a while and we
+
+54
+00:02:14,340 --> 00:02:19,379
+want to want to go back and and fix that
+
+55
+00:02:16,379 --> 00:02:21,840
+up uh perhaps you've got oh the build
+
+56
+00:02:19,379 --> 00:02:23,879
+the build's taking too long
+
+57
+00:02:21,840 --> 00:02:26,040
+um and we really need to go re-engineer
+
+58
+00:02:23,879 --> 00:02:27,420
+that thing so that it's it's faster and
+
+59
+00:02:26,040 --> 00:02:29,819
+our Engineers know quicker that
+
+60
+00:02:27,420 --> 00:02:32,940
+something's wrong that's all work that
+
+61
+00:02:29,819 --> 00:02:35,540
+needs to be done that doesn't fit within
+
+62
+00:02:32,940 --> 00:02:38,760
+a Sprint goal because a Sprint goal is
+
+63
+00:02:35,540 --> 00:02:41,160
+always talking about what the customers
+
+64
+00:02:38,760 --> 00:02:43,319
+need what the stakeholders need what are
+
+65
+00:02:41,160 --> 00:02:44,580
+we trying to trying to deliver for for
+
+66
+00:02:43,319 --> 00:02:46,680
+for them
+
+67
+00:02:44,580 --> 00:02:48,420
+the rest is business as usual right
+
+68
+00:02:46,680 --> 00:02:50,459
+stuff we have to do all the time so
+
+69
+00:02:48,420 --> 00:02:53,099
+that's included in that story
+
+70
+00:02:50,459 --> 00:02:56,280
+so try and avoid having a Sprint goal
+
+71
+00:02:53,099 --> 00:02:58,200
+that is so big
+
+72
+00:02:56,280 --> 00:03:02,280
+that you can achieve it
+
+73
+00:02:58,200 --> 00:03:04,440
+right any team that is working towards a
+
+74
+00:03:02,280 --> 00:03:06,000
+Sprint goal and then they can't achieve
+
+75
+00:03:04,440 --> 00:03:07,739
+it is not going to be happy right
+
+76
+00:03:06,000 --> 00:03:09,840
+hopefully they're not going to be happy
+
+77
+00:03:07,739 --> 00:03:11,580
+I'm not happy that I wasn't able to
+
+78
+00:03:09,840 --> 00:03:13,140
+achieve the thing that I committed to
+
+79
+00:03:11,580 --> 00:03:15,180
+try and Achieve to achieve to the
+
+80
+00:03:13,140 --> 00:03:17,819
+customers that wouldn't make me happy
+
+81
+00:03:15,180 --> 00:03:19,440
+what if the the the the are in the
+
+82
+00:03:17,819 --> 00:03:21,900
+position of doing that Sprint after
+
+83
+00:03:19,440 --> 00:03:23,760
+Sprint after Sprint after Sprint they're
+
+84
+00:03:21,900 --> 00:03:25,860
+not delivering because the Sprint goes
+
+85
+00:03:23,760 --> 00:03:27,540
+always too big it's complete these 10
+
+86
+00:03:25,860 --> 00:03:31,560
+things and you only get six of them done
+
+87
+00:03:27,540 --> 00:03:34,620
+so we failed or it's do this big thing
+
+88
+00:03:31,560 --> 00:03:37,200
+and we got 90 of the wear so we failed
+
+89
+00:03:34,620 --> 00:03:39,840
+right if we're constantly failing you're
+
+90
+00:03:37,200 --> 00:03:41,819
+gonna have a unhappy depressed team and
+
+91
+00:03:39,840 --> 00:03:43,700
+unhappy depressed people don't make good
+
+92
+00:03:41,819 --> 00:03:46,739
+products they don't make good decisions
+
+93
+00:03:43,700 --> 00:03:48,480
+uh they tend to not give a crap about
+
+94
+00:03:46,739 --> 00:03:50,700
+what it is you're building anymore at
+
+95
+00:03:48,480 --> 00:03:53,879
+some point and we don't want to go there
+
+96
+00:03:50,700 --> 00:03:56,700
+so create set them up for success by
+
+97
+00:03:53,879 --> 00:03:59,040
+having a Sprint goal that has a narrower
+
+98
+00:03:56,700 --> 00:04:00,840
+Focus right not the whole Sprint just
+
+99
+00:03:59,040 --> 00:04:04,379
+part of the Sprint so we know we can
+
+100
+00:04:00,840 --> 00:04:06,180
+achieve it and then add other things
+
+101
+00:04:04,379 --> 00:04:08,159
+that are much more flexible right
+
+102
+00:04:06,180 --> 00:04:09,540
+whether we do half the refactoring or
+
+103
+00:04:08,159 --> 00:04:11,220
+all the refactoring is kind of
+
+104
+00:04:09,540 --> 00:04:12,599
+irrelevant as long as we do some of it
+
+105
+00:04:11,220 --> 00:04:15,239
+and make progress
+
+106
+00:04:12,599 --> 00:04:17,280
+we've got that Sprint goal and don't be
+
+107
+00:04:15,239 --> 00:04:19,620
+afraid to change what you're working on
+
+108
+00:04:17,280 --> 00:04:21,600
+during the Sprint right you can accept
+
+109
+00:04:19,620 --> 00:04:23,280
+new work into the Sprint that's the
+
+110
+00:04:21,600 --> 00:04:24,960
+other reason you have that flexibility
+
+111
+00:04:23,280 --> 00:04:26,820
+right you have that Sprint goal that's
+
+112
+00:04:24,960 --> 00:04:28,380
+smaller is you can bring other work into
+
+113
+00:04:26,820 --> 00:04:31,199
+the Sprint you can change what you're
+
+114
+00:04:28,380 --> 00:04:32,639
+working on and we can respond to the
+
+115
+00:04:31,199 --> 00:04:34,919
+needs of the business the needs of the
+
+116
+00:04:32,639 --> 00:04:37,500
+customer that needs of the market much
+
+117
+00:04:34,919 --> 00:04:38,639
+more quickly that's what a Sprint goal
+
+118
+00:04:37,500 --> 00:04:40,680
+is
+
+119
+00:04:38,639 --> 00:04:42,540
+thanks for watching the video If you
+
+120
+00:04:40,680 --> 00:04:45,660
+enjoyed it please like follow And
+
+121
+00:04:42,540 --> 00:04:48,300
+subscribe I always reply to comments and
+
+122
+00:04:45,660 --> 00:04:51,300
+if you want to have a chat about this or
+
+123
+00:04:48,300 --> 00:04:53,040
+anything else agile scrum or devops then
+
+124
+00:04:51,300 --> 00:04:55,759
+please book a coffee with me through
+
+125
+00:04:53,040 --> 00:04:55,759
+naked agility
+
+
