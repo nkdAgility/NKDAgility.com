@@ -29,9 +29,8 @@ tags:
 - agile
 - audience-based-deployment
 categories:
-- software-engineering
-- devops
-- product-delivery
+- Azure DevOps
+- Product Delivery
 preview: 2025-02-06-testing-in-production-maximises-quality-and-value.jpg
 
 ---

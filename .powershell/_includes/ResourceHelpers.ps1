@@ -48,10 +48,11 @@ function Get-UpdatedCategories {
 You are an expert in content classification. Given the resource title, content, and a predefined catalog of categories with descriptions, choose the most relevant categories for this resource.
 
 - **Resource Title:** "$ResourceTitle"
-- **Resource Content:** ```"$ResourceContent"```
+- **Resource Content:** "$ResourceContent"
 - **Current Categories:** "$($CurrentCategories -join ', ')"
 - **Catalog of Valid Categories and Descriptions:**
 $catalogString
+
 
 ### Rules:
 1. Select only categories from the provided catalog.

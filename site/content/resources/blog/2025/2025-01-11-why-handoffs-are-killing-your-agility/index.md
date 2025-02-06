@@ -26,8 +26,7 @@ tags:
 - agile
 - cross-functional-teams
 categories:
-- agility
-- people-and-process
+- Lean
 preview: 2025-01-11-why-handoffs-are-killing-your-agility.jpg
 
 ---

@@ -6,6 +6,7 @@ $CatalogCategories = @{
     "Complexity Thinking"              = "An approach to understanding and managing organisations, systems, and uncertainty using complexity science, emergence, and nonlinear dynamics."
     "Decision Theory"                  = "Decision-making in uncertain environments using heuristics, probability, and behavioural economics."
     "Value Delivery"                   = "Strategies for iterative and continuous value delivery to customers."
+    "Product Delivery"                 = "The process of delivering usable working software products to customers, including planning, development, testing, and deployment."
     "DevOps"                           = "The integration of engineering, operations, and security practices to enable continuous delivery of value."
     "Discovery and Learning"           = "Exploring new ideas, innovation, and continuous learning in product and software development."
     "Events and Presentations"         = "Talks, conferences, webinars, and presentations related to Agile, DevOps, and software engineering."
@@ -70,4 +71,4 @@ function Create-MarkdownFiles {
     }
 }
 
-Create-MarkdownFiles $CatalogCategories
+#Create-MarkdownFiles $CatalogCategories

@@ -32,8 +32,7 @@ tags:
 - Scrum
 - Done
 categories:
-- Delivery
-- People & Teams
+- Product Delivery
 preview: 2025-02-03-delivery-as-the-ultimate-measure-of-progress.jpg
 
 ---

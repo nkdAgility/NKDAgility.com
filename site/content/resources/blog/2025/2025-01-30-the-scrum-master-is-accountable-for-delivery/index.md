@@ -33,8 +33,7 @@ tags:
 - Delivery
 - Accountability
 categories:
-- Scrum Master
-- Delivery
+- Scrum
 preview: 2025-01-30-the-scrum-master-is-accountable-for-delivery.jpg
 
 ---

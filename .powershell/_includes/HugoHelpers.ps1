@@ -123,7 +123,8 @@ function Update-StringList {
         [Parameter(Mandatory = $true)]
         [string[]]$values,
         [string]$addAfter = $null,
-        [string]$addBefore = $null
+        [string]$addBefore = $null,
+        [switch]$Overwrite
     )
 
     # Ensure the input values are unique and always an array
@@ -158,7 +159,12 @@ function Update-StringList {
         $existingValues = $frontMatter[$fieldName]
         $newValues = $values | Where-Object { -not ($existingValues -icontains $_) }
         if ($newValues.Count -ne 0) {
-            $frontMatter[$fieldName] += $newValues
+            if ($Overwrite) {
+                $frontMatter[$fieldName] = $newValues
+            }
+            else {
+                $frontMatter[$fieldName] += $newValues
+            }
             Write-Host "$fieldName updated with new unique values"
         }
         else {
