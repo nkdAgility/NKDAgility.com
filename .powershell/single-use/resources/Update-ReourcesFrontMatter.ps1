@@ -4,7 +4,7 @@
 . ./.powershell/_includes/ResourceHelpers.ps1
 
 # Iterate through each blog folder and update markdown files
-$outputDir = ".\site\content\resources\blog\2006"
+$outputDir = ".\site\content\resources\blog\2023"
 
 # Get list of directories and select the first 10
 $resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md" #| Select-Object -First 10
@@ -124,6 +124,7 @@ $resources | ForEach-Object {
 
         #================Catsagories==========================
         . ./.powershell/single-use/resources/Update-Catagories.ps1
+
         $newCatagories = Get-UpdatedCategories -CurrentCategories $hugoMarkdown.FrontMatter.categories -CatalogCategories $CatalogCategories -ResourceContent $hugoMarkdown.BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title
         Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values $newCatagories -Overwrite
 

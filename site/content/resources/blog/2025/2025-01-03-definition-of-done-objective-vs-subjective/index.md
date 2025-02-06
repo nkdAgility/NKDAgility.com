@@ -26,8 +26,9 @@ aliasesFor404:
 tags:
 - Definition of Done
 categories:
-- Scrum
-- Product Delivery
+- Metrics and Learning
+- Agile Product Management
+- Technical Excellence
 preview: 2025-01-03-definition-of-done-objective-vs-subjective.jpg
 
 ---

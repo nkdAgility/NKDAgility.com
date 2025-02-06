@@ -31,7 +31,11 @@ aliasesFor404:
 tags:
 - Scrum Masters
 categories:
-- agility
+- Scrum
+- Agile Product Management
+- People and Process
+- Metrics and Learning
+- Technical Excellence
 preview: NKDAgility-technically-whymostscrummastersarefailing-2-2.jpg
 
 ---

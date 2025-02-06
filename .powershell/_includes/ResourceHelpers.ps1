@@ -57,7 +57,8 @@ $catalogString
 ### Rules:
 1. Select only categories from the provided catalog.
 2. Choose the **most relevant** categories based on the resource’s content and title.
-3. Assign **no more than 2 categories**.
+3. Order those categories from **most relevant** to **least relevant**.
+3. Assign **no more than 5 categories**.
 4. If a current category is valid, keep it. Otherwise, refine it to a more appropriate one.
 5. Ensure accuracy by cross-referencing the category descriptions.
 

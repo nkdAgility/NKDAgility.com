@@ -32,7 +32,10 @@ tags:
 - Scrum
 - Done
 categories:
-- Product Delivery
+- Scrum
+- DevOps
+- Value Delivery
+- Metrics and Learning
 preview: 2025-02-03-delivery-as-the-ultimate-measure-of-progress.jpg
 
 ---

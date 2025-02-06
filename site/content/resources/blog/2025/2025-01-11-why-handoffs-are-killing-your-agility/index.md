@@ -26,7 +26,10 @@ tags:
 - agile
 - cross-functional-teams
 categories:
-- Lean
+- Organisational Agility
+- Value Stream Management
+- Flow Efficiency
+- Technical Excellence
 preview: 2025-01-11-why-handoffs-are-killing-your-agility.jpg
 
 ---

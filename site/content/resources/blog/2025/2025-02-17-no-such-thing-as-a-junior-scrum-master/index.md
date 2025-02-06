@@ -27,7 +27,11 @@ tags:
 - Scrum
 - Competence
 categories:
-- People & Teams
+- People and Process
+- Scrum
+- Organisational Agility
+- Technical Excellence
+- Value Delivery
 preview: 2025-02-10-no-such-thing-as-a-junior-scrum-master.jpg
 
 ---

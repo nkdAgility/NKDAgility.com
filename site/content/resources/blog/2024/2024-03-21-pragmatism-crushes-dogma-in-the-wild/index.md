@@ -23,7 +23,11 @@ aliasesFor404:
 - /blog/pragmatism-crushes-dogma-in-the-wild
 - /resources/blog/pragmatism-crushes-dogma-in-the-wild
 categories:
-- agility
+- Scrum
+- Organisational Agility
+- Resilience and Change
+- People and Process
+- Discovery and Learning
 preview: NKDAgility-technically-PragamtismCrushesDogma-1-1.jpg
 
 ---

@@ -28,8 +28,9 @@ tags:
 - github-flow
 - release-flow
 categories:
-- Flow Efficiency
-- Value Delivery
+- Code and Complexity
+- Organisational Agility
+- Practical Techniques and Tooling
 preview: 2025-02-06-stop-promoting-branches.jpg
 
 ---

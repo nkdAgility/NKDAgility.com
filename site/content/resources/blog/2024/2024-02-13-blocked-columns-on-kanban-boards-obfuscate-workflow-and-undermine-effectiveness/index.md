@@ -28,10 +28,10 @@ aliasesFor404:
 tags:
 - homepage
 categories:
-- agility
-- kanban
-- measure-and-learn
-- tools-and-techniques
+- value delivery
+- flow efficiency
+- transparency and accountability
+- practical techniques and tooling
 preview: NKDAgility-technically-BlockedColumns-7-7.jpg
 
 ---

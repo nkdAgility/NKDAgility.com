@@ -33,7 +33,10 @@ tags:
 - Delivery
 - Accountability
 categories:
-- Scrum
+- Value Delivery
+- Transparency and Accountability
+- People and Process
+- Technical Excellence
 preview: 2025-01-30-the-scrum-master-is-accountable-for-delivery.jpg
 
 ---

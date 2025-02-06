@@ -27,7 +27,11 @@ aliasesFor404:
 - /blog/you-can't-stop-the-signal--but-you-can-ignore-it-
 - /resources/blog/you-cant-stop-the-signal-but-you-can-ignore-it
 categories:
-- agility
+- Organisational Agility
+- People and Process
+- Lean
+- Scrum
+- Organisational Psychology
 preview: NKDAgility-technically-YouCantStopTheSignal-1-1.jpg
 
 ---

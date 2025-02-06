@@ -33,8 +33,10 @@ tags:
 - delivery costs
 - agility
 categories:
-- Delivery
-- People & Teams
+- Value Delivery
+- Agile Product Management
+- Metrics and Learning
+- Transparency and Accountability
 preview: 2025-02-10-without-delivery-no-value.jpg
 
 ---
