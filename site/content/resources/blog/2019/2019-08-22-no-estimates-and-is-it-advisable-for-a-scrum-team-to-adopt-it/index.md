@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
 - /no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it-
 - /blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it-
+- /resources/blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
 tags:
 - cycle-time
 - flow

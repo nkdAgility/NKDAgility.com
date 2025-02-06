@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/how-do-you-incorporate-a-design-sprint-in-scrum
 - /how-do-you-incorporate-a-design-sprint-in-scrum-
 - /blog/how-do-you-incorporate-a-design-sprint-in-scrum-
+- /resources/blog/how-do-you-incorporate-a-design-sprint-in-scrum
 tags:
 - design-sprint
 - product-discovery

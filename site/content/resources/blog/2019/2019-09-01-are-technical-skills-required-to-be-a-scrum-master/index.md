@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/are-technical-skills-required-to-be-a-scrum-master
 - /are-technical-skills-required-to-be-a-scrum-master-
 - /blog/are-technical-skills-required-to-be-a-scrum-master-
+- /resources/blog/are-technical-skills-required-to-be-a-scrum-master
 tags:
 - business-mastery
 - organisational-transformational-mastery

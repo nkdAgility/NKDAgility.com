@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/whats-the-best-way-to-work-around-multiple-po
 - /what's-the-best-way-to-work-around-multiple-po-
 - /blog/what's-the-best-way-to-work-around-multiple-po-
+- /resources/blog/whats-the-best-way-to-work-around-multiple-po
 tags:
 - product-owner
 categories:

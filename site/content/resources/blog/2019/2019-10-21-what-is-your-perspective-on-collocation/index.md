@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/what-is-your-perspective-on-collocation
 - /what-is-your-perspective-on-collocation-
 - /blog/what-is-your-perspective-on-collocation-
+- /resources/blog/what-is-your-perspective-on-collocation
 tags:
 - collocation
 - scrum-team

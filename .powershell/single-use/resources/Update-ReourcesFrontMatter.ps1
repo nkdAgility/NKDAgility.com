@@ -39,20 +39,44 @@ $resources | ForEach-Object {
             $ResourceId = New-ResourceId
         }
         Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceId' -fieldValue $ResourceId -addAfter 'description'
-        
-        #=================ResourceImport=================
+        #=================ResourceType=================
+        $ResourceType = Get-ResourceType  -FilePath  $resourceDir
+        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceType' -fieldValue $ResourceType -addAfter 'ResourceId' -Overwrite
+
+        #=================ResourceImport+=================
         if (Test-Path (Join-Path $resourceDir "data.yaml" ) || Test-Path (Join-Path $resourceDir "data.json" )) {
             $ResourceImport = $true
         }
         Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImport' -fieldValue $ResourceImport -addAfter 'ResourceId' -Overwrite
+        switch ($ResourceType) {
+            "blog" { 
+            }
+            "podcast" { 
+                
+            }
+            "videos" { 
+                
+            }
+            default { 
+                
+            }
+        }
 
-        $ResourceType = Get-ResourceType  -FilePath  $resourceDir
-        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceType' -fieldValue $ResourceType -addAfter 'ResourceId' -Overwrite
-        
+
         # =================Add aliases===================
         $aliases = @()
         switch ($ResourceType) {
             "blog" { 
+                if ($hugoMarkdown.FrontMatter.ResourceImport) {
+                    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImportSource' -fieldValue "Wordpress" -addAfter 'ResourceImport'
+                    If (([datetime]$hugoMarkdown.FrontMatter.date) -lt ([datetime]'2011-02-16')) {
+                        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImportOriginalSource' -fieldValue "GeeksWithBlogs" -addAfter 'ResourceImportSource'
+                    }
+                    else {
+                        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImportOriginalSource' -fieldValue "Wordpress" -addAfter 'ResourceImportSource'
+                    }     
+                }
+                
             }
             "podcast" { 
                 
@@ -71,7 +95,7 @@ $resources | ForEach-Object {
         Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliases' -values $aliases -addAfter 'slug'
         # =================Add 404 aliases===================
         $404aliases = @()
-        $404aliases += $aliases
+        $404aliases += $hugoMarkdown.FrontMatter.aliases | Where-Object { $_ -notmatch $hugoMarkdown.FrontMatter.ResourceId }
         switch ($ResourceType) {
             "blog" { 
             }
@@ -88,17 +112,11 @@ $resources | ForEach-Object {
         if ($404aliases -is [array] -and $404aliases.Count -gt 0) {
             Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliasesFor404' -values $404aliases -addAfter 'aliases'
         }
+
+
         
         switch ($ResourceType) {
             "blog" { 
-               
-                # Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImportSource' -fieldValue "Wordpress" -addAfter 'ResourceImport'
-                # If (([datetime]$hugoMarkdown.FrontMatter.date) -lt ([datetime]'2011-02-16')) {
-                #     Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImportOriginalSource' -fieldValue "GeeksWithBlogs" -addAfter 'ResourceImportSource'
-                # }
-                # else {
-                #     Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImportOriginalSource' -fieldValue "Wordpress" -addAfter 'ResourceImportSource'
-                # }     
                 # if ($hugoMarkdown.FrontMatter.Contains("slug")) {
                 #     $slug = $hugoMarkdown.FrontMatter.slug
                 #     $aliases += "/$slug"

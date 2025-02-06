@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/should-the-scrum-master-always-remove-impediments
 - /should-the-scrum-master-always-remove-impediments-
 - /blog/should-the-scrum-master-always-remove-impediments-
+- /resources/blog/should-the-scrum-master-always-remove-impediments
 tags:
 - scrum-master
 categories:

@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/can-the-definition-of-done-change-per-sprint
 - /can-the-definition-of-done-change-per-sprint-
 - /blog/can-the-definition-of-done-change-per-sprint-
+- /resources/blog/can-the-definition-of-done-change-per-sprint
 tags:
 - definition-of-done
 categories:

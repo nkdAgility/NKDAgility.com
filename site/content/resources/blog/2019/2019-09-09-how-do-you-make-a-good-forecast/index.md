@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/how-do-you-make-a-good-forecast
 - /how-do-you-make-a-good-forecast-
 - /blog/how-do-you-make-a-good-forecast-
+- /resources/blog/how-do-you-make-a-good-forecast
 tags:
 - budget
 - forcast
