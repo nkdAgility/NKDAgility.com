@@ -29,7 +29,10 @@ aliasesFor404:
 tags:
 - homepage
 categories:
-- agility
+- Organisational Agility
+- People and Process
+- Discovery and Learning
+- Value Delivery
 preview: NKDAgility-technically-7DeadlySins-16-15.jpg
 
 ---

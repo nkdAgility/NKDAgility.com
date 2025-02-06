@@ -26,8 +26,11 @@ tags:
 - featured
 - homepage
 categories:
-- measure-and-learn
-- transparency-commitment
+- Value Delivery
+- Product Delivery
+- Lean
+- Metrics and Learning
+- Feedback Loops
 preview: image-1.jpg
 
 ---

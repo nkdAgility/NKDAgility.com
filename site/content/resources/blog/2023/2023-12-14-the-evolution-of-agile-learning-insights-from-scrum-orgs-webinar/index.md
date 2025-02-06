@@ -30,7 +30,11 @@ tags:
 - featured
 - homepage
 categories:
-- agility
+- Agile Product Management
+- Discovery and Learning
+- Events and Presentations
+- Organisational Agility
+- Scrum
 preview: NKDAgility-technically-TheEvolutionofAgileLearning-1-1-16-16.jpg
 
 ---

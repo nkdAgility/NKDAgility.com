@@ -30,7 +30,11 @@ tags:
 - featured
 - homepage
 categories:
-- agility
+- Scaling Agility
+- Organisational Agility
+- Market Adaptability
+- People and Process
+- Discovery and Learning
 preview: naked-agility-technically-agile-Blog-EmbraceUniqueness-1-1-1.jpg
 
 ---

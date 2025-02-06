@@ -30,7 +30,11 @@ tags:
 - featured
 - homepage
 categories:
-- measure-and-learn
+- Agile Product Management
+- Complexity Thinking
+- Systems Thinking
+- People and Process
+- Metrics and Learning
 preview: image-1.jpg
 
 ---

@@ -26,8 +26,11 @@ tags:
 - featured
 - homepage
 categories:
-- discovery-ideation
-- transparency-commitment
+- Product Delivery
+- Value Delivery
+- Transparency and Accountability
+- Organisational Agility
+- People and Process
 preview: image-1.jpg
 
 ---

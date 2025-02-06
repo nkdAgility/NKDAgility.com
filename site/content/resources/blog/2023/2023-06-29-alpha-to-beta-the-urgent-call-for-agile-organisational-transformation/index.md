@@ -30,7 +30,11 @@ tags:
 - featured
 - homepage
 categories:
-- organisational-change
+- Organisational Agility
+- Market Adaptability
+- Resilience and Change
+- Enterprise Agility
+- Organisational Change
 preview: 1686217267121-1-1-1.jpg
 
 ---

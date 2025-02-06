@@ -30,7 +30,7 @@ tags:
 - featured
 - homepage
 categories:
-- organisational-change
+- Discovery and Learning
 preview: image-1.jpg
 
 ---

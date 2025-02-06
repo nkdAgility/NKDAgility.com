@@ -31,7 +31,11 @@ tags:
 - scrum
 - sprint-goal
 categories:
-- agility
+- Scrum
+- Agile Product Management
+- Value Delivery
+- People and Process
+- Transparency and Accountability
 preview: NKDAgility-technically-SetEffectiveSprintGoals-1-1.jpg
 
 ---

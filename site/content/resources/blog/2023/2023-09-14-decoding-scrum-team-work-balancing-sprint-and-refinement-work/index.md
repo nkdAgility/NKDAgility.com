@@ -30,7 +30,11 @@ tags:
 - featured
 - homepage
 categories:
-- agility
+- Scrum
+- Agile Product Management
+- People and Process
+- Azure DevOps
+- Value Delivery
 preview: NKDAgility-technically-SprintRefignementBallance-6-6.jpg
 
 ---

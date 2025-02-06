@@ -33,8 +33,11 @@ tags:
 - product-backlog-management
 - user-stories
 categories:
-- agility
-- discovery-ideation
+- Agile Product Management
+- Discovery and Learning
+- People and Process
+- Transparency and Accountability
+- Systems Thinking
 preview: naked-agility-technically-rethinkinguserstories-1-1-1.jpg
 
 ---

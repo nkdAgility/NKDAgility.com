@@ -26,8 +26,11 @@ tags:
 - featured
 - homepage
 categories:
-- measure-and-learn
-- people-and-process
+- Agile Product Management
+- People and Process
+- Value Delivery
+- Metrics and Learning
+- Scrum
 preview: naked-agility-technically-NavigatingtheFuturewithaFine-TunedProductBacklog-1-1.jpg
 
 ---

@@ -30,8 +30,11 @@ tags:
 - featured
 - homepage
 categories:
-- measure-and-learn
-- people-and-process
+- Agile Product Management
+- Lean
+- Value Delivery
+- People and Process
+- Discovery and Learning
 preview: image-1.jpg
 
 ---

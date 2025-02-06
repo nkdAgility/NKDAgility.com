@@ -33,7 +33,11 @@ tags:
 - organisational-physics
 - organisational-transformational-mastery
 categories:
-- agility
+- Organisational Agility
+- Market Adaptability
+- Enterprise Agility
+- Scaling Agility
+- Resilience and Change
 preview: naked-agility-technically-survivalisoptional-1-1.jpg
 
 ---

@@ -29,8 +29,11 @@ tags:
 - featured
 - homepage
 categories:
-- people-and-process
-- transparency-commitment
+- People and Process
+- Organisational Agility
+- Discovery and Learning
+- Metrics and Learning
+- Value Delivery
 preview: naked-agility-technically-agile-gym-membership-Agile-1-1.jpg
 
 ---

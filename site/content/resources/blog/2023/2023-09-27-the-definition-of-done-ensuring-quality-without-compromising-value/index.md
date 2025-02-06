@@ -30,7 +30,11 @@ tags:
 - featured
 - homepage
 categories:
-- agility
+- Value Delivery
+- Transparency and Accountability
+- Agile Product Management
+- People and Process
+- Scrum
 preview: NKDAgility-technically-DOD-Not-AC-3-1-1-1.jpg
 
 ---

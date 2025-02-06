@@ -30,8 +30,11 @@ tags:
 - featured
 - homepage
 categories:
-- discovery-ideation
-- transparency-commitment
+- Agile Product Management
+- Value Delivery
+- Market Adaptability
+- Transparency and Accountability
+- People and Process
 preview: image-1.jpg
 
 ---

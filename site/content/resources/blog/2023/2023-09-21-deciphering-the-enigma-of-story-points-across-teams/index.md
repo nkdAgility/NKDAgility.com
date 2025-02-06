@@ -26,7 +26,10 @@ tags:
 - featured
 - homepage
 categories:
-- agility
+- Value Delivery
+- Metrics and Learning
+- Flow Efficiency
+- People and Process
 preview: naked-agility-technically-flow-not-velocity-5-5.jpg
 
 ---
