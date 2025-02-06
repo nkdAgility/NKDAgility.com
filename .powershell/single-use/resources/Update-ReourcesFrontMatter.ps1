@@ -47,14 +47,6 @@ $resources | ForEach-Object {
         Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceId' -fieldValue $ResourceId -addAfter 'description'
         #=================ResourceType=================
         $ResourceType = Get-ResourceType  -FilePath  $resourceDir
-        switch ($ResourceType) {
-            "blog" { 
-                $ResourceType = "blog"
-            }
-            "videos" { 
-                $ResourceType = "video"
-            }
-        }
         Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceType' -fieldValue $ResourceType -addAfter 'ResourceId' -Overwrite
 
         #=================ResourceImport+=================
@@ -147,20 +139,19 @@ $resources | ForEach-Object {
         if ($hugoMarkdown.FrontMatter.Contains("categories")) {
             $unknownCategories = $hugoMarkdown.FrontMatter.categories | Where-Object { -not $CatalogCategories.ContainsKey($_) }
         }       
-        #If ($unknownCategories.Count -gt 0 || $hugoMarkdown.FrontMatter.categories.Count -eq 0 || -not $hugoMarkdown.FrontMatter.Contains("categories")) {
-        $newCatagories = Get-UpdatedCategories -CurrentCategories $hugoMarkdown.FrontMatter.categories -Catalog $CatalogCategories -ResourceContent $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -ResourceYear $year -MaxCategories 7 -MinCategories 3
-        Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values $newCatagories -Overwrite
-        #} 
+        If ($unknownCategories.Count -gt 0 || $hugoMarkdown.FrontMatter.categories.Count -eq 0 || -not $hugoMarkdown.FrontMatter.Contains("categories")) {
+            $newCatagories = Get-UpdatedCategories -CurrentCategories $hugoMarkdown.FrontMatter.categories -Catalog $CatalogCategories -ResourceContent $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -ResourceYear $year -MaxCategories 7 -MinCategories 3
+            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values $newCatagories -Overwrite
+        } 
         #-----------------Tags-------------------
         $unknownTags = @();
         if ($hugoMarkdown.FrontMatter.Contains("tags")) {
             $unknownTags = $hugoMarkdown.FrontMatter.tags | Where-Object { -not $CatalogTags.ContainsKey($_) }
         }       
-        #If ($unknownTags.Count -gt 0 || $hugoMarkdown.FrontMatter.tags.Count -eq 0 || -not $hugoMarkdown.FrontMatter.Contains("tags")) {
-        $year = [datetime]::Parse($hugoMarkdown.FrontMatter.date).Year
-        $newtags = Get-UpdatedCategories -CurrentCategories $hugoMarkdown.FrontMatter.tags -Catalog $CatalogTags -ResourceContent $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -ResourceYear $year -MaxCategories 15 -MinCategories 10 
-        Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values $newtags -Overwrite
-        # } 
+        If ($unknownTags.Count -gt 0 || $hugoMarkdown.FrontMatter.tags.Count -eq 0 || -not $hugoMarkdown.FrontMatter.Contains("tags")) {
+            $newtags = Get-UpdatedCategories -CurrentCategories $hugoMarkdown.FrontMatter.tags -Catalog $CatalogTags -ResourceContent $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -ResourceYear $year -MaxCategories 15 -MinCategories 10 
+            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values $newtags -Overwrite
+        } 
         
         # =================COMPLETE===================
         Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $markdownFile

@@ -23,18 +23,12 @@ preview: https://i.ytimg.com/vi/APZNdMokZVo/maxresdefault.jpg
 duration: 360
 isShort: false
 tags:
-- Definition of Done
-- Scrum Team
-- Software Increment
-- Continuous Delivery
-- Technical Excellence
-- Agile Planning
-- Team Collaboration
-- Transparency
-- Agile Software Development
-- Continuous Improvement
-- Agile Values and Principles
-- Risk Mitigation
+- Scrum
+- Agile Project Management
+- Agile Product Management
+- Agile Frameworks
+- Agile Product Discovery
+- Evidence Based Improvement
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -42,11 +36,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Scrum
-- Definition of Done
-- Technical Excellence
-- Value Delivery
-- Transparency and Accountability
+- People and Process
 
 ---
  Unlocking the Power of Definition of Done in Scrum: A Deep Dive

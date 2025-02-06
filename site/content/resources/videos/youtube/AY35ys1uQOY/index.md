@@ -28,30 +28,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Goal
-- Scrum Goal
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
+- Sprint Planning Workshop
+- Scrum Team
+- Scrum Product Management
+- Definition of Done
+- Team Motivation
+- Agile Planning
+- Continuous Improvement
+- Agile Values and Principles
+- Team Collaboration
+- Agile Product Management
+- Discovery and Learning
+- Customer Feedback Loops
+- Agile Product Discovery
+- Psychological Safety
 resourceTypes:
 - video
 

@@ -23,17 +23,19 @@ preview: https://i.ytimg.com/vi/BAwBXYtKj7o/maxresdefault.jpg
 duration: 451
 isShort: false
 tags:
-- Agile
-- Product Development
-- Product Management
-- Project Management
-- Agile product development
-- Agile product management
-- Agile project management
-- project manager
-- product manager
-- product owner
-- scrum master
+- Technical Debt
+- Continuous Improvement
+- Agile Software Development
+- Value Delivery
+- Deployment Frequency
+- Technical Excellence
+- Evidence Based Management
+- Agile Strategy
+- Systems Thinking
+- Agile Digital Tools
+- Team Collaboration
+- Agile Leadership
+- Lean Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

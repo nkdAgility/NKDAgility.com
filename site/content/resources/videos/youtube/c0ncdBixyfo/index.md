@@ -28,15 +28,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- '#scrum'
-- '#agile'
-- '#agilecoach'
-- '#scrumorg'
-- '#agileconsultant'
-- '#agiletraining'
-- '#devops'
-- '#agileproductdevelopment'
-- '#productdevelopment'
+- Organisational Culture
+- Team Motivation
+- Employee Engagement
+- Leadership Training
+- Agile Leadership
+- Change Management
+- Team Collaboration
+- Continuous Improvement
+- Psychological Safety
+- Agile Transformation
+- Agile Values and Principles
+- Systems Thinking
+- Decision Making
+- Agile Project Management
 resourceTypes:
 - video
 

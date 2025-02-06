@@ -24,13 +24,18 @@ preview: https://i.ytimg.com/vi/BRRQ1JWsHpQ/maxresdefault.jpg
 duration: 418
 isShort: false
 tags:
-- Scrum Training
-- Digital Tools
-- Digital Resources
-- Scrum
-- Agile
-- Agile Digital Tools
-- Agile Digital Resources
+- Agile Tools
+- Team Collaboration
+- Agile Coaching
+- Continuous Learning
+- Remote Working
+- Scrum Team
+- Agile Product Management
+- Customer Feedback Loops
+- Agile Transformation
+- Value Delivery
+- Agile Methodology
+- Technical Excellence
 sitemap:
   filename: sitemap.xml
   priority: 0.4

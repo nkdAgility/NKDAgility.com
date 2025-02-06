@@ -28,11 +28,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- velocity
-- product development
-- product management
-- project management
+- Agile Product Discovery
+- Customer Satisfaction
+- Value Prioritisation
+- Agile Planning
+- Continuous Improvement
+- Experimentation
+- Agile Product Validation
+- Market Adaptability
+- Organisational Agility
+- Lean Thinking
+- Agile Transformation
+- Agile Values and Principles
+- Team Collaboration
+- Agile Software Development
 resourceTypes:
 - video
 

@@ -30,13 +30,19 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- DevOps
-- DevOps consulting
-- Agile
-- Agile Consulting
-- Agile software engineering
-- Agile project management
-- Agile product development
+- Team Collaboration
+- Agile Software Development
+- Continuous Delivery
+- Engineering Excellence
+- Agile Planning
+- Agile Product Management
+- Customer Feedback Loops
+- Agile Transformation
+- Value Delivery
+- Agile Values and Principles
+- Organisational Agility
+- Technical Excellence
+- Agile Methodology
 resourceTypes:
 - video
 

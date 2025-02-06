@@ -30,9 +30,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Owner
-- Scrum Product Owner
-- Professional Scrum Product Owner
+- Scrum Product Management
+- Accountability
+- Agile Product Ownership
+- Team Collaboration
+- Strategic Goals
+- Organisational Agility
+- Agile Transformation
+- Continuous Improvement
+- Agile Leadership
+- Agile Values and Principles
+- Change Management
+- Employee Engagement
+- Agile Coaching
+- Agile Community
 resourceTypes:
 - video
 

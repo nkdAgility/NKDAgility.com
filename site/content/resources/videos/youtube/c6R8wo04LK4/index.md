@@ -26,12 +26,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- Agile
-- Scrum Adoption
-- Scrum framework
-- Scrum methodology
-- scrum approach
+- Change Management
+- Scrum Master
+- Team Motivation
+- Organisational Change
+- Agile Transformation
+- Team Collaboration
+- Agile Values and Principles
+- Continuous Improvement
+- Psychological Safety
+- Employee Engagement
+- Systems Thinking
+- Agility
+- Agile Methodology
+- Agile Community
 resourceTypes:
 - video
 

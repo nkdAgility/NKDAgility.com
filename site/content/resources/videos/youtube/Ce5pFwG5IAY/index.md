@@ -26,16 +26,18 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- Scrum Master
-- Scrum Master tools
-- Scrum master skills
-- Agile
-- Agile project management
-- Agile project manager
-- Agile product development
-- Agile product management
-- scrum framework
+- Scrum Team
+- Agile Tools
+- Team Collaboration
+- Continuous Improvement
+- Working Agreements
+- Agile Planning
+- Value Delivery
+- Customer Feedback Loops
+- Agile Values and Principles
+- Discovery and Learning
+- Agile Methodology
+- Team Motivation
 resourceTypes:
 - video
 

@@ -23,15 +23,20 @@ preview: https://i.ytimg.com/vi/Cia3d_y9akQ/maxresdefault.jpg
 duration: 639
 isShort: false
 tags:
-- Scrum
-- Scrum training
-- Product development
-- Project management
-- Project manager
-- Agile project management
-- Agile product development
-- Product Management
-- Agile product management
+- Scrum Master
+- Scrum Team
+- Scrum Values
+- Agile Values and Principles
+- Continuous Improvement
+- Team Collaboration
+- Organisational Agility
+- Agile Transformation
+- Evidence Based Improvement
+- Technical Excellence
+- Agile Coaching
+- Change Management
+- Systems Thinking
+- Accountability
 sitemap:
   filename: sitemap.xml
   priority: 0.4

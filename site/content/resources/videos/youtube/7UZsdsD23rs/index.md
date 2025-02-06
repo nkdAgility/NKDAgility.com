@@ -48,7 +48,6 @@ categories:
 - Metrics and Learning
 - Organisational Agility
 - Value Delivery
-- Transparency and Accountability
 
 ---
 ## The Keystone of Lean-Agile: Empiricism Unravelled 🧬 

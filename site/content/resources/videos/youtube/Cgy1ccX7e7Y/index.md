@@ -28,12 +28,19 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Agile Consulting
-- Agile Transformation
-- Agile Coach
-- Product Development
-- Project Management
+- Business Agility
+- Change Management
+- Organisational Agility
+- Agile Coaching
+- Team Collaboration
+- Employee Engagement
+- Agile Leadership
+- Continuous Improvement
+- Systems Thinking
+- Agile Values and Principles
+- Agile Project Management
+- Agile Evolution
+- Resilience and Change
 resourceTypes:
 - video
 

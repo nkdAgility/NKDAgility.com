@@ -30,14 +30,18 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- Scrum Master
-- Scrum Master tips
-- ScrumMaster
-- ScrumMaster tips
-- Scrum Coach
-- Agile Coach
-- Agile
+- Scrum Values
+- Scrum Product Management
+- Scrum Team
+- Agile Project Management
+- Continuous Improvement
+- Empirical Process Control
+- Agile Product Management
+- Agile Software Development
+- Agile Methodology
+- Agile Learning
+- Agile Certification
+- Agile Community
 resourceTypes:
 - video
 

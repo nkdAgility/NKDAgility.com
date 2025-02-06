@@ -28,11 +28,19 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Detecting Agile BS
-- Agile
-- Agile product management
-- Agile product development
-- Agile project management
+- Team Collaboration
+- Strategic Goals
+- Agile Strategy
+- Agile Transformation
+- Continuous Improvement
+- Employee Engagement
+- Agile Leadership
+- Value Delivery
+- Organisational Culture
+- Decision Making
+- Agile Product Discovery
+- Agile Software Development
+- Customer Feedback Loops
 resourceTypes:
 - video
 

@@ -23,29 +23,20 @@ preview: https://i.ytimg.com/vi/BtHASX2lgGo/maxresdefault.jpg
 duration: 324
 isShort: false
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Agile Planning
+- Scrum Product Management
+- Sprint Planning Workshop
+- Agile Product Discovery
+- Continuous Improvement
+- Agile Product Ownership
+- Value Delivery
+- Team Collaboration
+- Agile Software Development
+- Agile Values and Principles
+- Evidence Based Management
+- Lean Principles
+- Agile Transformation
+- Agile Digital Tools
 sitemap:
   filename: sitemap.xml
   priority: 0.4

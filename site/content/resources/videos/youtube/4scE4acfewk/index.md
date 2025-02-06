@@ -27,18 +27,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Team Collaboration
-- Employee Engagement
-- Agile Values and Principles
-- Humility
-- Decision Theory
-- Evidence Based Management
-- Customer Feedback Loops
-- Continuous Improvement
-- Psychological Safety
-- Agile Transformation
-- Agile Product Discovery
-- Change Management
+- Agile Product Management
+- Agile Leadership
+- Agile Community
 resourceTypes:
 - video
 layout: video

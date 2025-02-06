@@ -28,29 +28,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Agile Coaching
+- Discovery and Learning
+- Team Motivation
+- Continuous Learning
+- Psychological Safety
+- Agile Values and Principles
+- Agile Transformation
+- Evidence Based Improvement
+- Team Collaboration
+- Agile Product Discovery
+- Change Management
+- Agile Community
+- Agile Software Development
+- Dunning-Kruger Effect
 resourceTypes:
 - video
 

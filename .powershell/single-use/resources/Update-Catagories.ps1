@@ -217,6 +217,7 @@ $CatalogTags = @{
     "Sprint Planning Workshop"                = "Collaborative sessions to define sprint goals and select backlog items effectively.";
     "Sprint Review"                           = "Inspecting and adapting the increment to ensure transparency and stakeholder feedback.";
     "Sprint Review Workshops"                 = "Structured review sessions to gather insights and refine the product increment iteratively.";
+    "Daily Scrum"                             = "Daily meeting by the Developers and for the Developers to plan the next 24h .";
 }
 
 # # Load JSON file (assuming it contains an array of tags)

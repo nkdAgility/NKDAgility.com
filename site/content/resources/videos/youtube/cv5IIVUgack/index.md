@@ -28,12 +28,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Developer
-- Scrum Developer
-- Agile
-- Agile Software Engineering
-- Agile Project Management
-- Agile Developer
+- Scrum Master
+- Scrum Team
+- Continuous Delivery
+- Technical Excellence
+- Agile Software Development
+- Agile Product Management
+- Agile Planning
+- Team Collaboration
+- Continuous Improvement
+- Agile Values and Principles
+- Engineering Practices
+- Agile Transformation
+- Agile Methodology
+- Agile Product Discovery
 resourceTypes:
 - video
 

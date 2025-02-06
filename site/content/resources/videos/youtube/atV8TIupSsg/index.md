@@ -25,11 +25,20 @@ preview: https://i.ytimg.com/vi/atV8TIupSsg/maxresdefault.jpg
 duration: 81
 isShort: false
 tags:
-- Leadership
-- Agile Leadership
-- Agile
-- Scrum
-- "2020"
+- Leadership Training
+- Agile Coaching
+- Agile Values and Principles
+- Agile Methodology
+- Agile Community
+- Remote Working
+- Agile Transformation
+- Professional Scrum
+- Agile Scaling
+- Agile Project Management
+- Agile Software Development
+- Continuous Learning
+- Team Collaboration
+- Team Motivation
 sitemap:
   filename: sitemap.xml
   priority: 0.4

@@ -26,13 +26,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile consultant
-- Agile consulting
-- Agile
-- Scrum consultant
-- Scrum Coach
-- Scrum Trainer
-- Agile consultant traits
+- Agile Coaching
+- Change Management
+- Team Motivation
+- Persistence Pays
+- Agile Values and Principles
+- Organisational Change
+- Employee Engagement
+- Agile Leadership
+- Continuous Improvement
+- Resilience and Change
 resourceTypes:
 - video
 categories:

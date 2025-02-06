@@ -28,11 +28,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Kanban
-- Agile
-- Agile framework
-- Agile product development
-- Agile project management
+- Continuous Improvement
+- Transparency
+- Kanban Theory
+- Kanban Coaching
+- Agile Tools
+- Flow Efficiency
+- Value Delivery
+- Team Collaboration
+- Lean Thinking
+- Agile Planning
+- Agile Software Development
+- Cycle Time
+- Throughput
+- Working Agreements
 resourceTypes:
 - video
 

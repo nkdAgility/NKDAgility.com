@@ -23,11 +23,21 @@ preview: https://i.ytimg.com/vi/BJZdyEqHhXc/maxresdefault.jpg
 duration: 271
 isShort: false
 tags:
-- Agile
-- Agile consulting
-- Agile coaching
-- Agile consulting philosophy
-- Agile consulting approach
+- Change Management
+- Organisational Change
+- Agile Strategy
+- Agile Leadership
+- Business Agility
+- Continuous Improvement
+- Evidence Based Management
+- Systems Thinking
+- Agile Transformation
+- Team Collaboration
+- Employee Engagement
+- Agile Values and Principles
+- Coaching
+- Psychological Safety
+- Decision Making
 sitemap:
   filename: sitemap.xml
   priority: 0.4

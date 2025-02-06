@@ -24,9 +24,19 @@ preview: https://i.ytimg.com/vi/D1wz-J1jklQ/maxresdefault.jpg
 duration: 362
 isShort: false
 tags:
-- DevOps
-- Developers
-- Deployment frequency
+- Technical Debt
+- Continuous Delivery
+- Agile Product Discovery
+- Customer Feedback Loops
+- Evidence Based Management
+- Agile Software Development
+- Lean Thinking
+- Agile Product Management
+- Team Collaboration
+- Agile Values and Principles
+- Experimentation
+- Technical Excellence
+- Agile Transformation
 resourceTypes:
 - video
 sitemap:

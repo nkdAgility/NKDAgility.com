@@ -23,15 +23,21 @@ preview: https://i.ytimg.com/vi/cb6JpfomYRU/maxresdefault.jpg
 duration: 353
 isShort: false
 tags:
-- Scrum
-- Scrum Courses
-- Scrum.Org
-- Scrum Certification
-- Immersive Learning Experience
-- Immersive Scrum Course
-- Immersive PSM course
-- Immersive Professional Scrum Master course
-- Immersive Professional Scrum Master Certification
+- Scrum Master
+- Agile Community
+- Continuous Learning
+- Team Collaboration
+- Agile Product Management
+- Agile Certification
+- Agile Problem Solving
+- Team Motivation
+- Psychological Safety
+- Agile Transformation
+- Value Delivery
+- Scrum Team
+- Evidence Based Improvement
+- Coaching
+- Agile Values and Principles
 sitemap:
   filename: sitemap.xml
   priority: 0.4

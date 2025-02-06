@@ -28,20 +28,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Product Ownership
-- Product Owner
-- Agile Product Validation
-- Agile Strategy
-- Leadership Training
-- Agile Certification
-- Agile Product Management
-- Customer Feedback Loops
-- Business Agility
-- Value Delivery
-- Agile Planning
-- Entrepreneurial Thinking
-- Agile Software Development
-- Continuous Improvement
+- Team Collaboration
+- Strategic Goals
+- Agile Evolution
 resourceTypes:
 - video
 categories:

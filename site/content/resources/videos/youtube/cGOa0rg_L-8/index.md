@@ -28,11 +28,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Agile product management
-- Product Management
-- Project management
-- Product development
+- Deployment Frequency
+- Business Agility
+- Continuous Improvement
+- Value Stream Management
+- Agile Strategy
+- Agile Transformation
+- Systems Thinking
+- Organisational Agility
+- Customer Feedback Loops
+- Agile Software Development
+- Lean Thinking
+- Agile Project Management
+- Agile Values and Principles
+- Evidence Based Management
 resourceTypes:
 - video
 

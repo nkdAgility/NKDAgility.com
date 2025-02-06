@@ -34,16 +34,11 @@ categories:
 - People and Process
 - Transparency and Accountability
 tags:
-- Scrum Values
-- Commitment
-- Scrum Team
-- Accountability
-- Agile Planning
-- Team Collaboration
-- Team Motivation
-- Working Agreements
-- Agile Product Management
-- Agile Community
+- Continuous Improvement
+- Agile Software Development
+- Agile Methodology
+- Employee Engagement
+- Agile Transformation
 
 ---
  Dive into commitment in Scrum, what do we commit to and why. Engage with Ana, Martin, and the other participants in an interactive workshop on commitment.

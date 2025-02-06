@@ -45,11 +45,8 @@ layout: video
 resourceTypes:
 - video
 categories:
-- Scrum
-- Value Delivery
-- Continuous Delivery
-- Organisational Agility
-- Metrics and Learning
+- Agile Product Management
+- People and Process
 
 ---
  #agileconsulting and #agilecoaching can seem somewhat nebulous at times because many coaches and consultants don't provide clear outcomes that a client can expect.

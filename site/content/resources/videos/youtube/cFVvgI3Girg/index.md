@@ -23,19 +23,18 @@ preview: https://i.ytimg.com/vi/cFVvgI3Girg/maxresdefault.jpg
 duration: 159
 isShort: false
 tags:
-- Product Owner
-- Professional Agile Leader
-- Professional Agile Leader Essentials course
-- PAL-E
-- PAL-E course
-- PAL-E certification
-- Scrum Training
-- Scrum Certification
-- Leadership training
-- Scrum leadership
-- Agile
-- Agile courses
-- Agile trainining
+- Agile Leadership
+- Agile Product Ownership
+- Systems Thinking
+- Organisational Agility
+- Agile Evolution
+- Agile Strategy
+- Team Collaboration
+- Organisational Culture
+- Continuous Improvement
+- Employee Engagement
+- Agile Product Management
+- Agile Community
 sitemap:
   filename: sitemap.xml
   priority: 0.4

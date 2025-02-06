@@ -30,11 +30,8 @@ sitemap:
 resourceTypes:
 - video
 categories:
-- Continuous Delivery
-- Technical Excellence
-- People and Process
-- Transparency and Accountability
-- Scrum
+- Value Delivery
+- Practical Techniques and Tooling
 tags:
 - Continuous Delivery
 - Agile Tools

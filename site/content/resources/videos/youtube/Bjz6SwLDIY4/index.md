@@ -28,29 +28,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Business Agility
+- Continuous Improvement
+- Market Adaptability
+- Organisational Agility
+- Change Management
+- Agile Strategy
+- Adaptive Leadership
+- Organisational Change
+- Agile Transformation
+- Customer Feedback Loops
+- Evidence Based Management
+- Systems Thinking
+- Agile Values and Principles
+- Resilience and Change
 resourceTypes:
 - video
 

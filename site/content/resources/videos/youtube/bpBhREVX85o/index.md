@@ -28,11 +28,18 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- Agile
-- Agile Leadership
-- Scrum Framework
-- Empiricism
+- Scrum Team
+- Scrum Product Management
+- Agile Product Discovery
+- Value Prioritisation
+- Agile Strategy
+- Decision Making
+- Evidence Based Management
+- Continuous Improvement
+- Customer Feedback Loops
+- Agile Product Validation
+- Team Collaboration
+- Strategic Goals
 resourceTypes:
 - video
 

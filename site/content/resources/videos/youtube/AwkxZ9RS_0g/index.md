@@ -28,10 +28,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- Scrum Trainer
-- Professional Scrum Trainer
-- PST
+- Agile Coaching
+- Leadership Training
+- Agile Product Management
+- Agile Transformation
+- Continuous Learning
+- Agile Values and Principles
+- Team Collaboration
+- Agile Community
+- Agile Software Development
+- Evidence Based Management
+- Organisational Culture
+- Agile Mentoring
+- Agile Project Management
+- Customer Feedback Loops
 resourceTypes:
 - video
 

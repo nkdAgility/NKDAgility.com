@@ -23,20 +23,17 @@ preview: https://i.ytimg.com/vi/aWYoJtSgTDo/maxresdefault.jpg
 duration: 204
 isShort: false
 tags:
-- Agile
-- Agile leadership
-- Agile leader
-- Professional Agile Leader
-- Professional Agile Leader Essentials
-- Professional Agile Leader Evidence Based Management
-- PAL
-- PAL-E
-- PAL-EBM
-- Agile project management
-- Agile product development
-- Agile product management
-- Business Agility
-- Agility
+- Team Collaboration
+- Agile Coaching
+- Scrum Team
+- Continuous Improvement
+- Customer Feedback Loops
+- Discovery and Learning
+- Agile Values and Principles
+- Employee Engagement
+- Organisational Agility
+- Agile Transformation
+- Sensemaking
 sitemap:
   filename: sitemap.xml
   priority: 0.4

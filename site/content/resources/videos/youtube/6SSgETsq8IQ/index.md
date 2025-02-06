@@ -22,20 +22,9 @@ preview: https://i.ytimg.com/vi/6SSgETsq8IQ/maxresdefault.jpg
 duration: 137
 isShort: false
 tags:
-- Scrum Product Ownership
-- Scrum Team
-- Product Backlog
-- Agile Product Management
-- Agile Product Discovery
-- Continuous Learning
-- Agile Certification
-- Professional Scrum
-- Value Delivery
-- Customer Feedback Loops
-- Agile Community
-- Agile Product Validation
-- Team Collaboration
-- Leadership Training
+- Continuous Improvement
+- Value Prioritisation
+- Agile Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.4

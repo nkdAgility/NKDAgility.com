@@ -23,12 +23,20 @@ preview: https://i.ytimg.com/vi/Bi4ToMME8Xs/maxresdefault.jpg
 duration: 20
 isShort: true
 tags:
-- Scrum
-- Scrum Master
-- immersive learning
-- scrum certification
-- scrum master training
-- scrum training
+- Agile Coaching
+- Agile Mentoring Program
+- Agile Product Management
+- Agile Planning
+- Team Collaboration
+- Team Motivation
+- Agile Certification
+- Agile Values and Principles
+- Continuous Improvement
+- Agile Software Development
+- Agile Leadership
+- Professional Scrum
+- Scrum Team
+- Customer Feedback Loops
 sitemap:
   filename: sitemap.xml
   priority: 0.4

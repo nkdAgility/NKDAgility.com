@@ -24,19 +24,20 @@ preview: https://i.ytimg.com/vi/CXOrndz5lN4/maxresdefault.jpg
 duration: 40
 isShort: true
 tags:
-- Agile
-- Agile product development
-- Agile product management
-- Agile project management
-- Developer
-- Product Manager
-- Product Owner
-- Product development
-- Product management
-- Project Manager
-- Project management
-- Scrum
-- Scrum Master
+- Engineering Excellence
+- Technical Leadership
+- Organisational Culture
+- Continuous Improvement
+- Decision Theory
+- Systems Thinking
+- Team Collaboration
+- Employee Engagement
+- Agile Leadership
+- Technical Mastery
+- Evidence Based Management
+- Agile Strategy
+- Business Agility
+- Change Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4

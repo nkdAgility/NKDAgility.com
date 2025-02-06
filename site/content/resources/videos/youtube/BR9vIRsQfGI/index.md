@@ -23,29 +23,19 @@ preview: https://i.ytimg.com/vi/BR9vIRsQfGI/maxresdefault.jpg
 duration: 55
 isShort: true
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Product Owner
+- Scrum Team
+- Agile Product Ownership
+- Agile Mentoring Program
+- Agile Planning
+- Team Collaboration
+- Continuous Improvement
+- Customer Feedback Loops
+- Agile Product Discovery
+- Scrum Values
+- Agile Software Development
+- Agile Methodology
+- Agile Community
 sitemap:
   filename: sitemap.xml
   priority: 0.4

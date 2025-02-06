@@ -28,31 +28,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
-- Agile leadership
-- Agile leader
-- Leadership
+- Scrum Master
+- Scrum Team
+- Technical Debt
+- Team Collaboration
+- Agile Planning
+- Self Organisation
+- Continuous Improvement
+- Agile Product Ownership
+- Value Delivery
+- Agile Values and Principles
+- Change Management
+- Organisational Agility
+- Evidence Based Management
+- Team Motivation
 resourceTypes:
 - video
 

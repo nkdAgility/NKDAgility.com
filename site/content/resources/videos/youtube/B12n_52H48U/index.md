@@ -30,18 +30,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Agile project management
-- Agile product development
-- Agile product management
-- Scrum
-- Project Management
-- Product Development
-- leadership
-- Product leadership
-- Product Development leadership
-- Nokia
-- Agile leadership
+- Product Owner
+- Agile Product Ownership
+- Decision Making
+- Agile Strategy
+- Change Management
+- Continuous Improvement
+- Market Adaptability
+- Team Collaboration
+- Agile Planning
+- Agile Product Discovery
+- Evidence Based Management
+- Customer Feedback Loops
+- Adaptive Leadership
+- Agile Transformation
 resourceTypes:
 - video
 
