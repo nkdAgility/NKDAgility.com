@@ -3,7 +3,7 @@ title: The tools you use to train are awesome How do people transfer their train
 description: Discover how digital tools enhance remote Scrum training, fostering collaboration and long-term learning in this insightful video with Martin Hinshelwood.
 date: 2023-04-24T07:00:03Z
 ResourceId: BRRQ1JWsHpQ
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: BRRQ1JWsHpQ
@@ -17,6 +17,9 @@ aliases:
 - /resources/videos/the-tools-you-use-to-train-are-awesome-how-do-people-transfer-their-training-experience-with-these-
 - /resources/the-tools-you-use-to-train-are-awesome-how-do-people-transfer-their-training-experience-with-these-
 - /resources/BRRQ1JWsHpQ
+aliasesFor404:
+- /resources/videos/the-tools-you-use-to-train-are-awesome-how-do-people-transfer-their-training-experience-with-these-
+- /resources/the-tools-you-use-to-train-are-awesome-how-do-people-transfer-their-training-experience-with-these-
 preview: https://i.ytimg.com/vi/BRRQ1JWsHpQ/maxresdefault.jpg
 duration: 418
 isShort: false

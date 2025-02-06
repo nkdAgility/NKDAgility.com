@@ -3,7 +3,7 @@ title: How Top Teams Use Pull Systems!
 description: Unlock the power of Kanban! Discover strategies to optimise pull systems, enhance workflow, and drive continuous improvement in your team.
 date: 2024-03-08T07:00:31Z
 ResourceId: pw_8gbaWZC4
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: pw_8gbaWZC4
@@ -16,6 +16,9 @@ aliases:
 - /resources/videos/how-top-teams-use-pull-systems!
 - /resources/how-top-teams-use-pull-systems!
 - /resources/pw_8gbaWZC4
+aliasesFor404:
+- /resources/videos/how-top-teams-use-pull-systems!
+- /resources/how-top-teams-use-pull-systems!
 preview: https://i.ytimg.com/vi/pw_8gbaWZC4/maxresdefault.jpg
 duration: 294
 isShort: false

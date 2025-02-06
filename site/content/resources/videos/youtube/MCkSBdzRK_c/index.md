@@ -3,7 +3,7 @@ title: Making Business Decisions with Evidence! What is evidence-based managemen
 description: Unlock the power of evidence-based management! Learn to make data-driven decisions and enhance your leadership for sustainable business growth.
 date: 2024-01-25T07:00:13Z
 ResourceId: MCkSBdzRK_c
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: MCkSBdzRK_c
@@ -16,6 +16,9 @@ aliases:
 - /resources/videos/making-business-decisions-with-evidence!-what-is-evidence-based-management-
 - /resources/making-business-decisions-with-evidence!-what-is-evidence-based-management-
 - /resources/MCkSBdzRK_c
+aliasesFor404:
+- /resources/videos/making-business-decisions-with-evidence!-what-is-evidence-based-management-
+- /resources/making-business-decisions-with-evidence!-what-is-evidence-based-management-
 preview: https://i.ytimg.com/vi/MCkSBdzRK_c/maxresdefault.jpg
 duration: 369
 isShort: false

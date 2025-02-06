@@ -3,7 +3,7 @@ title: Unlocking the Power of Immersive Learning for Product Management
 description: Unlock real change in product development! Discover how immersive learning and outcome-based assignments empower teams to apply knowledge effectively.
 date: 2024-08-12T10:03:43Z
 ResourceId: KAqCTOIB4hk
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: KAqCTOIB4hk
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/KAqCTOIB4hk
 - /resources/how-does-the-incremental-learning-and-outcome-based-assignments-specifically-help-teams-
 - /resources/KAqCTOIB4hk
+aliasesFor404:
+- /resources/unlocking-the-power-of-immersive-learning-for-product-management
+- /resources/videos/how-does-the-incremental-learning-and-outcome-based-assignments-specifically-help-teams-
+- /resources/how-does-the-incremental-learning-and-outcome-based-assignments-specifically-help-teams-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

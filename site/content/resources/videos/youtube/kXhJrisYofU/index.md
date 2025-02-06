@@ -3,7 +3,7 @@ title: Agile Budgeting for Predictable Costs
 description: Discover how Beyond Budgeting transforms financial management for agile teams, enabling flexibility and value-driven decisions in dynamic markets.
 date: 2024-12-09T06:30:00Z
 ResourceId: kXhJrisYofU
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: kXhJrisYofU
@@ -17,6 +17,9 @@ aliases:
 - /resources/videos/agile-budgeting-for-predictable-costs
 - /resources/agile-budgeting-for-predictable-costs
 - /resources/kXhJrisYofU
+aliasesFor404:
+- /resources/videos/agile-budgeting-for-predictable-costs
+- /resources/agile-budgeting-for-predictable-costs
 preview: https://i9.ytimg.com/vi/kXhJrisYofU/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCuCmAp98BMQG6vEAhRCo2oBtgP4g
 duration: 496
 isShort: false

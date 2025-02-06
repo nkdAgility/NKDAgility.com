@@ -3,7 +3,7 @@ title: 'Redefining Agile’s Core: Beyond Rituals and Procedures'
 description: "Discover the true essence of Agile with Ken Schwaber! Learn how to innovate software development beyond rituals for better results. \U0001F31F"
 date: 2024-01-22T07:00:11Z
 ResourceId: XZVixdVy-PQ
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: XZVixdVy-PQ
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/XZVixdVy-PQ
 - /resources/agile-is-not-about-rituals-it's-about-developing-software-in-a-different-way-ken-schwaber
 - /resources/XZVixdVy-PQ
+aliasesFor404:
+- /resources/redefining-agiles-core-beyond-rituals-and-procedures
+- /resources/videos/agile-is-not-about-rituals-it's-about-developing-software-in-a-different-way-ken-schwaber
+- /resources/agile-is-not-about-rituals-it's-about-developing-software-in-a-different-way-ken-schwaber
 sitemap:
   filename: sitemap.xml
   priority: 0.6

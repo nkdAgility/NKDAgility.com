@@ -3,7 +3,7 @@ title: Maximizing Value with Minimum Viable Products MVPs
 description: Discover how to maximise ROI with MVPs! Join Martin Hinshelwood as he shares entrepreneurial insights for funding and developing successful products.
 date: 2024-12-10T06:30:00Z
 ResourceId: vbY6LUq81uY
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: vbY6LUq81uY
@@ -17,6 +17,9 @@ aliases:
 - /resources/videos/maximizing-value-with-minimum-viable-products-mvps
 - /resources/maximizing-value-with-minimum-viable-products-mvps
 - /resources/vbY6LUq81uY
+aliasesFor404:
+- /resources/videos/maximizing-value-with-minimum-viable-products-mvps
+- /resources/maximizing-value-with-minimum-viable-products-mvps
 preview: https://i9.ytimg.com/vi/vbY6LUq81uY/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLA7AhAQKNTt8wyFKqaI0PiC-7jbHg
 duration: 437
 isShort: false

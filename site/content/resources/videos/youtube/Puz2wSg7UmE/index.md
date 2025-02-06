@@ -3,7 +3,7 @@ title: How to Measure Your Organization's Ability to Improve Value Through Innov
 description: "Discover 5 compelling reasons to integrate Evidence-Based Management (EBM) into your agile environment and unlock your organisation's innovation potential! #EBM #Agile"
 date: 2024-01-25T11:00:18Z
 ResourceId: Puz2wSg7UmE
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Puz2wSg7UmE
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/Puz2wSg7UmE
 - /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-4
 - /resources/Puz2wSg7UmE
+aliasesFor404:
+- /resources/how-to-measure-your-organizations-ability-to-improve-value-through-innovation
+- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-4
+- /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-4
 sitemap:
   filename: sitemap.xml
   priority: 0.6

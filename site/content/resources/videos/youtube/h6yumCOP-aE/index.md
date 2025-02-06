@@ -3,7 +3,7 @@ title: 3 best ways to wreck Kanban. Don't have a working agreement.
 description: Discover the top 3 pitfalls of Kanban adoption and learn why a working agreement is essential for team alignment and success in agile collaboration!
 date: 2024-03-01T07:00:17Z
 ResourceId: h6yumCOP-aE
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: h6yumCOP-aE
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/h6yumCOP-aE
 - /resources/3-best-ways-to-wreck-your-kanban-adoption-not-having-a-working-agreement-
 - /resources/h6yumCOP-aE
+aliasesFor404:
+- /resources/3-best-ways-to-wreck-kanban-dont-have-a-working-agreement
+- /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-not-having-a-working-agreement-
+- /resources/3-best-ways-to-wreck-your-kanban-adoption-not-having-a-working-agreement-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

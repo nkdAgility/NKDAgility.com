@@ -3,7 +3,7 @@ title: 7 signs of the agile apocalypse. Chaos
 description: "Discover the 7 signs of the #Agile apocalypse! Join Martin Hinshelwood as he explores why chaos can derail your team's success. #Agile #Scrum #Shorts"
 date: 2023-11-09T10:45:01Z
 ResourceId: ItvOiaC32Hs
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: ItvOiaC32Hs
@@ -16,6 +16,9 @@ aliases:
 - /resources/videos/7-signs-of-the-agile-apocalypse-chaos
 - /resources/7-signs-of-the-agile-apocalypse-chaos
 - /resources/ItvOiaC32Hs
+aliasesFor404:
+- /resources/videos/7-signs-of-the-agile-apocalypse-chaos
+- /resources/7-signs-of-the-agile-apocalypse-chaos
 preview: https://i.ytimg.com/vi/ItvOiaC32Hs/maxresdefault.jpg
 duration: 50
 isShort: true

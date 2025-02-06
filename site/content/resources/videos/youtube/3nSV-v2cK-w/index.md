@@ -3,7 +3,7 @@ title: If you could distil the PSM immersive learning experience into 3 major be
 description: Discover the top 3 benefits of the immersive PSM experience compared to the 2-day course. Elevate your Scrum skills with insights from Kanban Dan!
 date: 2023-07-13T07:38:00Z
 ResourceId: 3nSV-v2cK-w
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 3nSV-v2cK-w
@@ -16,6 +16,9 @@ aliases:
 - /resources/videos/if-you-could-distil-the-psm-immersive-learning-experience-into-3-major-benefits-what-would-they-be-
 - /resources/if-you-could-distil-the-psm-immersive-learning-experience-into-3-major-benefits-what-would-they-be-
 - /resources/3nSV-v2cK-w
+aliasesFor404:
+- /resources/videos/if-you-could-distil-the-psm-immersive-learning-experience-into-3-major-benefits-what-would-they-be-
+- /resources/if-you-could-distil-the-psm-immersive-learning-experience-into-3-major-benefits-what-would-they-be-
 preview: https://i.ytimg.com/vi/3nSV-v2cK-w/maxresdefault.jpg
 duration: 255
 isShort: false

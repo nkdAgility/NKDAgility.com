@@ -3,7 +3,7 @@ title: Why 'Definition of Done' is Crucial for Success in Scrum
 description: "Unlock the secrets of defining 'done' in agile projects with a fun bakery analogy! Perfect for scrum masters and agile teams seeking clarity. \U0001F369\U0001F956"
 date: 2023-11-14T07:00:30Z
 ResourceId: syzFdEP1Eso
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: syzFdEP1Eso
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/syzFdEP1Eso
 - /resources/how-do-you-define-a-definition-of-done-if-you-aren't-100-sure-what-the-solution-is-
 - /resources/syzFdEP1Eso
+aliasesFor404:
+- /resources/why-definition-of-done-is-crucial-for-success-in-scrum
+- /resources/videos/how-do-you-define-a-definition-of-done-if-you-aren't-100-sure-what-the-solution-is-
+- /resources/how-do-you-define-a-definition-of-done-if-you-aren't-100-sure-what-the-solution-is-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

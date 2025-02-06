@@ -3,7 +3,7 @@ title: "Product Ownership vs. Product Management: Busting the Myth That They're 
 description: "Unlock the secrets of the Product Owner's role in Scrum! Discover how they maximise value and drive Agile success. Watch now for key insights! \U0001F680"
 date: 2024-08-01T06:45:01Z
 ResourceId: XF-yQmPdUME
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: XF-yQmPdUME
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/XF-yQmPdUME
 - /resources/the-product-owner's-role-in-maximizing-value
 - /resources/XF-yQmPdUME
+aliasesFor404:
+- /resources/product-ownership-vs-product-management-busting-the-myth-that-theyre-separate-roles
+- /resources/videos/the-product-owner's-role-in-maximizing-value
+- /resources/the-product-owner's-role-in-maximizing-value
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -3,7 +3,7 @@ title: 'Mastering Kanban: A Simple Guide to Its Core Principles'
 description: Unlock peak productivity with Kanban! Discover 3 essential principles to simplify workflows and enhance efficiency in this must-watch video.
 date: 2024-07-01T07:00:24Z
 ResourceId: nfTAYRLAaYI
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: nfTAYRLAaYI
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/nfTAYRLAaYI
 - /resources/kanban-principles
 - /resources/nfTAYRLAaYI
+aliasesFor404:
+- /resources/mastering-kanban-a-simple-guide-to-its-core-principles
+- /resources/videos/kanban-principles
+- /resources/kanban-principles
 sitemap:
   filename: sitemap.xml
   priority: 0.6

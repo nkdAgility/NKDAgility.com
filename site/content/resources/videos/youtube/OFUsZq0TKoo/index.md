@@ -3,7 +3,7 @@ title: What you will be able to do after the PPDV course
 description: 'Unlock your potential with the PPDV course! Learn essential skills for product discovery and validation. Register now! #agile #scrum #productmanagement'
 date: 2024-08-27T07:07:18Z
 ResourceId: OFUsZq0TKoo
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: OFUsZq0TKoo
@@ -16,6 +16,9 @@ aliases:
 - /resources/videos/what-you-will-be-able-to-do-after-the-ppdv-course
 - /resources/what-you-will-be-able-to-do-after-the-ppdv-course
 - /resources/OFUsZq0TKoo
+aliasesFor404:
+- /resources/videos/what-you-will-be-able-to-do-after-the-ppdv-course
+- /resources/what-you-will-be-able-to-do-after-the-ppdv-course
 preview: https://i.ytimg.com/vi/OFUsZq0TKoo/maxresdefault.jpg
 duration: 269
 isShort: false

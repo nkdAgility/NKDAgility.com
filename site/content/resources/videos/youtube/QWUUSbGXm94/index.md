@@ -3,7 +3,7 @@ title: fortnite
 description: Join the battle in Fortnite! Discover epic gameplay, strategies, and thrilling moments as players compete to be the last one standing.
 date: 2020-10-23T21:28:13Z
 ResourceId: QWUUSbGXm94
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: QWUUSbGXm94
@@ -18,6 +18,9 @@ aliases:
 - /resources/videos/fortnite
 - /resources/fortnite
 - /resources/QWUUSbGXm94
+aliasesFor404:
+- /resources/videos/fortnite
+- /resources/fortnite
 preview: https://i.ytimg.com/vi/QWUUSbGXm94/maxresdefault.jpg
 duration: 45
 isShort: true
@@ -28,5 +31,4 @@ resourceTypes:
 - video
 
 ---
-  
  [Watch on Youtube](https://www.youtube.com/watch?v=QWUUSbGXm94)

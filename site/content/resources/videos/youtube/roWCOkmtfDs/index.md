@@ -3,7 +3,7 @@ title: 'The Importance of Validation in Product Development: A Strategic Approac
 description: Discover the importance of product validation! Learn how to ensure features deliver real value, reduce waste, and enhance user satisfaction.
 date: 2024-09-02T15:30:15Z
 ResourceId: roWCOkmtfDs
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: roWCOkmtfDs
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/roWCOkmtfDs
 - /resources/what-is-product-validation-and-why-does-it-matter
 - /resources/roWCOkmtfDs
+aliasesFor404:
+- /resources/the-importance-of-validation-in-product-development-a-strategic-approach
+- /resources/videos/what-is-product-validation-and-why-does-it-matter
+- /resources/what-is-product-validation-and-why-does-it-matter
 sitemap:
   filename: sitemap.xml
   priority: 0.6

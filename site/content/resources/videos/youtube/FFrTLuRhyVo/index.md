@@ -3,7 +3,7 @@ title: Missed opportunities, the hidden cost of technical debt
 description: 'Discover how missed opportunities reveal the hidden costs of technical debt in product development. Learn more at nkdagility.com! #Agile #ProductManagement'
 date: 2024-11-21T17:01:52Z
 ResourceId: FFrTLuRhyVo
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: FFrTLuRhyVo
@@ -17,6 +17,9 @@ aliases:
 - /resources/videos/missed-opportunities,-the-hidden-cost-of-technical-debt
 - /resources/missed-opportunities,-the-hidden-cost-of-technical-debt
 - /resources/FFrTLuRhyVo
+aliasesFor404:
+- /resources/videos/missed-opportunities,-the-hidden-cost-of-technical-debt
+- /resources/missed-opportunities,-the-hidden-cost-of-technical-debt
 preview: https://i.ytimg.com/vi/FFrTLuRhyVo/maxresdefault.jpg
 duration: 36
 isShort: true

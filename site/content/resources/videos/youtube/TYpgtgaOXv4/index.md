@@ -3,7 +3,7 @@ title: The Importance of Product Backlog Management in Today's Agile Landscape
 description: Discover why Product Backlog Management is crucial in today's Agile landscape. Join Martin Hinshelwood as he explores its rising significance in Scrum.
 date: 2023-12-01T07:00:11Z
 ResourceId: TYpgtgaOXv4
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: TYpgtgaOXv4
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/TYpgtgaOXv4
 - /resources/why-is-product-backlog-management-getting-so-much-attention-right-now
 - /resources/TYpgtgaOXv4
+aliasesFor404:
+- /resources/the-importance-of-product-backlog-management-in-todays-agile-landscape
+- /resources/videos/why-is-product-backlog-management-getting-so-much-attention-right-now
+- /resources/why-is-product-backlog-management-getting-so-much-attention-right-now
 sitemap:
   filename: sitemap.xml
   priority: 0.6

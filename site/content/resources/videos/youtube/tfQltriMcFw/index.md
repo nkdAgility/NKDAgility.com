@@ -3,7 +3,7 @@ title: Scrum Training 1
 description: 'Join us for Scrum Training #1, where we explore Scrum in action through engaging videos that enhance your understanding of agile methodologies!'
 date: 2017-05-22T14:42:15Z
 ResourceId: tfQltriMcFw
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: tfQltriMcFw
@@ -18,6 +18,9 @@ aliases:
 - /resources/videos/scrum-training-1
 - /resources/scrum-training-1
 - /resources/tfQltriMcFw
+aliasesFor404:
+- /resources/videos/scrum-training-1
+- /resources/scrum-training-1
 preview: https://i.ytimg.com/vi/tfQltriMcFw/maxresdefault.jpg
 duration: 31
 isShort: true

@@ -3,7 +3,7 @@ title: Introduction to Evidence Based Management Excerpt 1
 description: 'Discover the fundamentals of Evidence-Based Management in this insightful excerpt, enhancing your agile leadership and project management skills. #EBM #Agile'
 date: 2024-09-11T13:45:58Z
 ResourceId: hu80qqzaDx0
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: hu80qqzaDx0
@@ -16,6 +16,9 @@ aliases:
 - /resources/videos/introduction-to-evidence-based-management-excerpt-1
 - /resources/introduction-to-evidence-based-management-excerpt-1
 - /resources/hu80qqzaDx0
+aliasesFor404:
+- /resources/videos/introduction-to-evidence-based-management-excerpt-1
+- /resources/introduction-to-evidence-based-management-excerpt-1
 preview: https://i.ytimg.com/vi/hu80qqzaDx0/maxresdefault.jpg
 duration: 57
 isShort: true

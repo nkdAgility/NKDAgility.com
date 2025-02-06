@@ -3,7 +3,7 @@ title: What is the best application of Scrum in the world?
 description: "Discover the world's best Scrum application! Join Martin Hinshelwood as he shares inspiring case studies that transformed agile teams. #Scrum #Agile #Shorts"
 date: 2023-05-26T07:00:16Z
 ResourceId: mkgE6prwlj4
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: mkgE6prwlj4
@@ -21,6 +21,11 @@ aliases:
 - /resources/videos/mkgE6prwlj4
 - /resources/best-application-of-scrum-in-the-world-
 - /resources/mkgE6prwlj4
+aliasesFor404:
+- /resources/what-is-the-best-application-of-scrum-in-the-world
+- /resources/best-application-of-scrum-in-the-world
+- /resources/videos/best-application-of-scrum-in-the-world-
+- /resources/best-application-of-scrum-in-the-world-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

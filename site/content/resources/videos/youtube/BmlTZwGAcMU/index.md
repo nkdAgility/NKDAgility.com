@@ -3,7 +3,7 @@ title: 'Immersive Learning in Scrum: Why Theory and Experience Must Go Hand in H
 description: Discover how immersive learning enhances your skills as a Scrum practitioner in this engaging video. Unlock your potential with NKD Agility!
 date: 2024-02-08T07:00:06Z
 ResourceId: BmlTZwGAcMU
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: BmlTZwGAcMU
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/BmlTZwGAcMU
 - /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-4
 - /resources/BmlTZwGAcMU
+aliasesFor404:
+- /resources/immersive-learning-in-scrum-why-theory-and-experience-must-go-hand-in-hand
+- /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-4
+- /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-4
 sitemap:
   filename: sitemap.xml
   priority: 0.6

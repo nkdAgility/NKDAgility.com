@@ -3,7 +3,7 @@ title: What should be top of mind when a Scrum team prepare for a Sprint review?
 description: "Unlock effective stakeholder engagement in Scrum Sprint reviews! Discover strategies to align your team’s efforts for better project outcomes. \U0001F4C8\U0001F91D"
 date: 2023-09-04T07:00:13Z
 ResourceId: Juonckoiyx0
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Juonckoiyx0
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review
 - /resources/videos/Juonckoiyx0
 - /resources/Juonckoiyx0
+aliasesFor404:
+- /resources/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review-2
+- /resources/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review
+- /resources/videos/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review
 sitemap:
   filename: sitemap.xml
   priority: 0.6

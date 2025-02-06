@@ -3,7 +3,7 @@ title: Do teams really understand the power of applying scrum professionally?
 description: "Unlock the true potential of Scrum! Join Martin as he reveals insights to elevate your team's practices from basic to professional. \U0001F680 #Scrum #Agile"
 date: 2023-04-20T07:00:06Z
 ResourceId: AjUC6FPYCQM
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: AjUC6FPYCQM
@@ -17,6 +17,9 @@ aliases:
 - /resources/videos/do-teams-really-understand-the-power-of-applying-scrum-professionally-
 - /resources/do-teams-really-understand-the-power-of-applying-scrum-professionally-
 - /resources/AjUC6FPYCQM
+aliasesFor404:
+- /resources/videos/do-teams-really-understand-the-power-of-applying-scrum-professionally-
+- /resources/do-teams-really-understand-the-power-of-applying-scrum-professionally-
 preview: https://i.ytimg.com/vi/AjUC6FPYCQM/maxresdefault.jpg
 duration: 369
 isShort: false

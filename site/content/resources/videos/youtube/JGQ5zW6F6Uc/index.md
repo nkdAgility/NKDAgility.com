@@ -3,7 +3,7 @@ title: 3 steps developers must follow if the product owner is incompetent
 description: "Struggling with an ineffective product owner? Discover 3 essential steps for developers to navigate this challenge and enhance team dynamics! \U0001F31F\U0001F6E0️"
 date: 2023-10-27T14:30:10Z
 ResourceId: JGQ5zW6F6Uc
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: JGQ5zW6F6Uc
@@ -16,6 +16,9 @@ aliases:
 - /resources/videos/3-steps-developers-must-follow-if-the-product-owner-is-incompetent
 - /resources/3-steps-developers-must-follow-if-the-product-owner-is-incompetent
 - /resources/JGQ5zW6F6Uc
+aliasesFor404:
+- /resources/videos/3-steps-developers-must-follow-if-the-product-owner-is-incompetent
+- /resources/3-steps-developers-must-follow-if-the-product-owner-is-incompetent
 preview: https://i.ytimg.com/vi/JGQ5zW6F6Uc/maxresdefault.jpg
 duration: 407
 isShort: false

@@ -3,7 +3,7 @@ title: 'Detecting Agile BS: Lessons from the Department of Defense'
 description: "Is your development ecosystem truly Agile? Discover insights from the DoD and learn to eliminate bottlenecks for seamless, innovative delivery! \U0001F680"
 date: 2024-08-02T06:45:02Z
 ResourceId: kVt5KP9dg8Q
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: kVt5KP9dg8Q
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/kVt5KP9dg8Q
 - /resources/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-[6-6]
 - /resources/kVt5KP9dg8Q
+aliasesFor404:
+- /resources/detecting-agile-bs-lessons-from-the-department-of-defense
+- /resources/videos/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-[6-6]
+- /resources/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-[6-6]
 sitemap:
   filename: sitemap.xml
   priority: 0.6

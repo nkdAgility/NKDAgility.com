@@ -3,7 +3,7 @@ title: Nordstrom Innovation Lab Sunglass iPad App Case Study 720p
 description: Explore the Nordstrom Innovation Lab's cutting-edge Sunglass iPad app in this insightful case study, showcasing design and technology in retail.
 date: 2022-01-03T11:14:41Z
 ResourceId: CBFOWXacEAY
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: CBFOWXacEAY
@@ -18,6 +18,9 @@ aliases:
 - /resources/videos/nordstrom-innovation-lab-sunglass-ipad-app-case-study-720p
 - /resources/nordstrom-innovation-lab-sunglass-ipad-app-case-study-720p
 - /resources/CBFOWXacEAY
+aliasesFor404:
+- /resources/videos/nordstrom-innovation-lab-sunglass-ipad-app-case-study-720p
+- /resources/nordstrom-innovation-lab-sunglass-ipad-app-case-study-720p
 preview: https://i.ytimg.com/vi/CBFOWXacEAY/hqdefault.jpg
 duration: 403
 isShort: false
@@ -28,5 +31,4 @@ resourceTypes:
 - video
 
 ---
-  
  [Watch on Youtube](https://www.youtube.com/watch?v=CBFOWXacEAY)

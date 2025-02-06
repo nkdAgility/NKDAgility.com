@@ -3,7 +3,7 @@ title: 'Mastering Azure DevOps Migration: Navigating Challenges, Solutions, and 
 description: Discover expert insights on Azure DevOps migration, addressing common challenges and benefits for IT managers, DevOps teams, and business owners.
 date: 2024-07-31T09:25:17Z
 ResourceId: _rJoehoYIVA
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: _rJoehoYIVA
@@ -19,6 +19,10 @@ aliases:
 - /resources/videos/what-are-some-of-the-most-common-reasons-why-companies-ask-you-to-do-a-migration-via-azure-devops
 - /resources/what-are-some-of-the-most-common-reasons-why-companies-ask-you-to-do-a-migration-via-azure-devops
 - /resources/_rJoehoYIVA
+aliasesFor404:
+- /resources/mastering-azure-devops-migration-navigating-challenges-solutions-and-best-practices
+- /resources/videos/what-are-some-of-the-most-common-reasons-why-companies-ask-you-to-do-a-migration-via-azure-devops
+- /resources/what-are-some-of-the-most-common-reasons-why-companies-ask-you-to-do-a-migration-via-azure-devops
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -3,7 +3,7 @@ title: 'The Pitfalls of Routine Agile Questions: Avoiding the Ghosts of Agile Pa
 description: Explore the balance between pragmatism and dogmatism in Agile. Discover real stories that highlight the importance of flexibility for effective team management!
 date: 2024-01-03T07:00:13Z
 ResourceId: JzAbvkFxVzs
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: JzAbvkFxVzs
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/JzAbvkFxVzs
 - /resources/5-ghosts-of-agile-past-dogma
 - /resources/JzAbvkFxVzs
+aliasesFor404:
+- /resources/the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
+- /resources/videos/5-ghosts-of-agile-past-dogma
+- /resources/5-ghosts-of-agile-past-dogma
 sitemap:
   filename: sitemap.xml
   priority: 0.6

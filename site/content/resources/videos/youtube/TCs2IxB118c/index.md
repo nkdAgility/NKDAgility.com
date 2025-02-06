@@ -3,7 +3,7 @@ title: Boosting Team Morale and Engagement Through Effective Mentorship Programs
 description: "Unlock team potential! Discover how mentorship boosts morale, engagement, and success in organisations. Transform your team's future today! \U0001F31F\U0001F680"
 date: 2024-09-02T07:00:19Z
 ResourceId: TCs2IxB118c
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: TCs2IxB118c
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/TCs2IxB118c
 - /resources/the-power-of-engaged-teams-through-mentorship-programs
 - /resources/TCs2IxB118c
+aliasesFor404:
+- /resources/boosting-team-morale-and-engagement-through-effective-mentorship-programs
+- /resources/videos/the-power-of-engaged-teams-through-mentorship-programs
+- /resources/the-power-of-engaged-teams-through-mentorship-programs
 sitemap:
   filename: sitemap.xml
   priority: 0.6

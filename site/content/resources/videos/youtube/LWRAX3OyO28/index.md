@@ -3,7 +3,7 @@ title: The Power of Continuous Delivery
 description: Discover the true power of Continuous Delivery with Martin Hinshelwood! Learn how to reduce risk, enhance reliability, and transform your software delivery.
 date: 2024-12-06T06:00:00Z
 ResourceId: LWRAX3OyO28
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: LWRAX3OyO28
@@ -17,6 +17,9 @@ aliases:
 - /resources/videos/the-power-of-continuous-delivery
 - /resources/the-power-of-continuous-delivery
 - /resources/LWRAX3OyO28
+aliasesFor404:
+- /resources/videos/the-power-of-continuous-delivery
+- /resources/the-power-of-continuous-delivery
 preview: https://i9.ytimg.com/vi/LWRAX3OyO28/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCWLD4Vo4EZ6b8ciR_RqJZImwnb7w
 duration: 332
 isShort: false

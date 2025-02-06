@@ -3,7 +3,7 @@ title: 'Free Workshop 04: Introduction to Sprint Reviews [Review & Retrospective
 description: Join Martin Hinshelwood for a free 90-minute workshop on running effective Sprint Reviews. Learn to gather feedback and plan your next steps!
 date: 2021-09-18T13:32:34Z
 ResourceId: 1-W64WdSbF4
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 1-W64WdSbF4
@@ -20,6 +20,11 @@ aliases:
 - /resources/videos/1-W64WdSbF4
 - /resources/free-workshop-4-introduction-to-sprint-review!-[audio-fixed]
 - /resources/1-W64WdSbF4
+aliasesFor404:
+- /resources/free-workshop-05-introduction-to-agile-leadership-review-retro
+- /resources/free-workshop-04-introduction-to-sprint-reviews-review-retrospective
+- /resources/videos/free-workshop-4-introduction-to-sprint-review!-[audio-fixed]
+- /resources/free-workshop-4-introduction-to-sprint-review!-[audio-fixed]
 sitemap:
   filename: sitemap.xml
   priority: 0.6

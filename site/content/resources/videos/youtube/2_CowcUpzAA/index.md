@@ -3,7 +3,7 @@ title: 'The Real Scope of a Product Owner: Beyond the Backlog'
 description: Discover why training is vital for product owners in Scrum. Martin Hinshelwood highlights the skills needed to excel and gain a competitive edge.
 date: 2023-11-27T06:46:47Z
 ResourceId: 2_CowcUpzAA
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 2_CowcUpzAA
@@ -19,6 +19,10 @@ aliases:
 - /resources/videos/2_CowcUpzAA
 - /resources/why-is-training-such-a-critical-element-in-a-product-owner-journey
 - /resources/2_CowcUpzAA
+aliasesFor404:
+- /resources/the-real-scope-of-a-product-owner-beyond-the-backlog
+- /resources/videos/why-is-training-such-a-critical-element-in-a-product-owner-journey
+- /resources/why-is-training-such-a-critical-element-in-a-product-owner-journey
 sitemap:
   filename: sitemap.xml
   priority: 0.6

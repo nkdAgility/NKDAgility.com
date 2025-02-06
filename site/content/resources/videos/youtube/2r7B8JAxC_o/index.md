@@ -3,7 +3,7 @@ title: Microsoft Teams Issues
 description: Explore common Microsoft Teams issues and discover effective solutions to enhance your collaboration experience. Troubleshoot with ease!
 date: 2020-07-14T21:20:40Z
 ResourceId: 2r7B8JAxC_o
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 2r7B8JAxC_o
@@ -17,6 +17,9 @@ aliases:
 - /resources/videos/microsoft-teams-issues
 - /resources/microsoft-teams-issues
 - /resources/2r7B8JAxC_o
+aliasesFor404:
+- /resources/videos/microsoft-teams-issues
+- /resources/microsoft-teams-issues
 preview: https://i.ytimg.com/vi/2r7B8JAxC_o/maxresdefault.jpg
 duration: 44
 isShort: true
@@ -28,5 +31,4 @@ resourceTypes:
 - video
 
 ---
-  
  [Watch on Youtube](https://www.youtube.com/watch?v=2r7B8JAxC_o)

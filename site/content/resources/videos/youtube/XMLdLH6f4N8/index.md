@@ -3,7 +3,7 @@ title: nkdAgility Healthgrades Interview Katherine Maddox
 description: Join Katherine Maddox, Healthgrades' lead Scrum Master, as she discusses the vital role of trainers in shaping organisational culture for over 150 learners.
 date: 2017-07-28T11:55:30Z
 ResourceId: XMLdLH6f4N8
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: XMLdLH6f4N8
@@ -16,6 +16,9 @@ aliases:
 - /resources/videos/nkdagility-healthgrades-interview-katherine-maddox
 - /resources/nkdagility-healthgrades-interview-katherine-maddox
 - /resources/XMLdLH6f4N8
+aliasesFor404:
+- /resources/videos/nkdagility-healthgrades-interview-katherine-maddox
+- /resources/nkdagility-healthgrades-interview-katherine-maddox
 preview: https://i.ytimg.com/vi/XMLdLH6f4N8/maxresdefault.jpg
 duration: 197
 isShort: false

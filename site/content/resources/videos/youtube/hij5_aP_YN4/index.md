@@ -3,7 +3,7 @@ title: 'The Power of Community: Becoming an Awesome Agile Coach'
 description: 'Discover the fourth essential achievement for aspiring #AgileCoaches with Martin Hinshelwood. Elevate your skills and empower teams to thrive!'
 date: 2023-11-16T11:00:37Z
 ResourceId: hij5_aP_YN4
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: hij5_aP_YN4
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/hij5_aP_YN4
 - /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-4
 - /resources/hij5_aP_YN4
+aliasesFor404:
+- /resources/the-power-of-community-becoming-an-awesome-agile-coach
+- /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-4
+- /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-4
 sitemap:
   filename: sitemap.xml
   priority: 0.6

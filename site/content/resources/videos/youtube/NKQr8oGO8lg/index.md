@@ -3,7 +3,7 @@ title: How much of a competitive edge will the immersive PAL e course deliver to
 description: Discover how the immersive PAL e-course can enhance your leadership skills and give your organisation a competitive edge in just 7 weeks!
 date: 2023-07-13T12:16:15Z
 ResourceId: NKQr8oGO8lg
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: NKQr8oGO8lg
@@ -16,6 +16,9 @@ aliases:
 - /resources/videos/how-much-of-a-competitive-edge-will-the-immersive-pal-e-course-deliver-to-delegates-
 - /resources/how-much-of-a-competitive-edge-will-the-immersive-pal-e-course-deliver-to-delegates-
 - /resources/NKQr8oGO8lg
+aliasesFor404:
+- /resources/videos/how-much-of-a-competitive-edge-will-the-immersive-pal-e-course-deliver-to-delegates-
+- /resources/how-much-of-a-competitive-edge-will-the-immersive-pal-e-course-deliver-to-delegates-
 preview: https://i.ytimg.com/vi/NKQr8oGO8lg/maxresdefault.jpg
 duration: 153
 isShort: false

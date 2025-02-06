@@ -3,7 +3,7 @@ title: 'Turning User Feedback into Actionable Work: A Guide to Maximizing Produc
 description: Unlock the secrets of Agile Product Management! Discover how short feedback loops can enhance product value and customer satisfaction in under a month.
 date: 2024-07-10T06:45:01Z
 ResourceId: OZt-5iszx-I
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: OZt-5iszx-I
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/OZt-5iszx-I
 - /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-3
 - /resources/OZt-5iszx-I
+aliasesFor404:
+- /resources/turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value
+- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-3
+- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-3
 sitemap:
   filename: sitemap.xml
   priority: 0.6

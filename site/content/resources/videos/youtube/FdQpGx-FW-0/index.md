@@ -3,7 +3,7 @@ title: 7 harbingers of the Agile apocalypse. Judgement.
 description: "Unlock the essence of Agile! \U0001F680 Join Martin as he explores core principles, pitfalls of prescriptive methods, and what truly motivates today's workforce."
 date: 2023-10-20T11:00:13Z
 ResourceId: FdQpGx-FW-0
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: FdQpGx-FW-0
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/FdQpGx-FW-0
 - /resources/judgement!-7-harbingers-agile-apocalypse
 - /resources/FdQpGx-FW-0
+aliasesFor404:
+- /resources/7-harbingers-of-the-agile-apocalypse-judgement
+- /resources/videos/judgement!-7-harbingers-agile-apocalypse
+- /resources/judgement!-7-harbingers-agile-apocalypse
 sitemap:
   filename: sitemap.xml
   priority: 0.6

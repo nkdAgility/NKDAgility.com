@@ -3,7 +3,7 @@ title: Reasons to do a PSM II Course in 60 seconds
 description: 'Discover why elevating your skills with a PSM II course is essential for scrum masters in just 60 seconds! Join Martin Hinshelwood for insights. #PSMII #Agile'
 date: 2023-07-12T14:00:30Z
 ResourceId: TcnVsQbE8xc
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: TcnVsQbE8xc
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/reasons-to-do-a-psm-ii-course-in-60-seconds
 - /resources/videos/TcnVsQbE8xc
 - /resources/TcnVsQbE8xc
+aliasesFor404:
+- /resources/reasons-to-do-a-psm-ii-course-in-60-seconds-2
+- /resources/reasons-to-do-a-psm-ii-course-in-60-seconds
+- /resources/videos/reasons-to-do-a-psm-ii-course-in-60-seconds
 sitemap:
   filename: sitemap.xml
   priority: 0.6

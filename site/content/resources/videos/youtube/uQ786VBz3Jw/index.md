@@ -3,7 +3,7 @@ title: What is your 1 tip for effective sprint planning?
 description: "Unlock effective sprint planning with Martin Hinshelwood's top tip! Focus on building value, not just productivity, for your #scrumteam. #agile #projectmanagement"
 date: 2023-05-26T14:00:37Z
 ResourceId: uQ786VBz3Jw
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: uQ786VBz3Jw
@@ -16,6 +16,9 @@ aliases:
 - /resources/videos/what-is-your-1-tip-for-effective-sprint-planning-
 - /resources/what-is-your-1-tip-for-effective-sprint-planning-
 - /resources/uQ786VBz3Jw
+aliasesFor404:
+- /resources/videos/what-is-your-1-tip-for-effective-sprint-planning-
+- /resources/what-is-your-1-tip-for-effective-sprint-planning-
 preview: https://i.ytimg.com/vi/uQ786VBz3Jw/maxresdefault.jpg
 duration: 246
 isShort: false

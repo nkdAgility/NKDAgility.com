@@ -3,7 +3,7 @@ title: Referral program. 20% of the course fee credited to your account.
 description: Join our referral program and earn 20% of the course fee! Discover how you can benefit while helping others thrive in agile training.
 date: 2023-06-15T07:00:06Z
 ResourceId: IXmOAB5e44w
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: IXmOAB5e44w
@@ -16,6 +16,9 @@ aliases:
 - /resources/videos/referral-program-20-of-the-course-fee-credited-to-your-account-
 - /resources/referral-program-20-of-the-course-fee-credited-to-your-account-
 - /resources/IXmOAB5e44w
+aliasesFor404:
+- /resources/videos/referral-program-20-of-the-course-fee-credited-to-your-account-
+- /resources/referral-program-20-of-the-course-fee-credited-to-your-account-
 preview: https://i.ytimg.com/vi/IXmOAB5e44w/maxresdefault.jpg
 duration: 147
 isShort: false

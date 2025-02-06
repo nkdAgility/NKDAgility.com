@@ -3,7 +3,7 @@ title: Unlocking Continuous Delivery with Feature Flags - The Key to Faster, Saf
 description: Discover how feature flags revolutionise continuous delivery, enabling faster, safer deployments and enhanced customer feedback. Unlock your team's potential!
 date: 2025-01-16T06:45:00Z
 ResourceId: YVrGU0oZmc0
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: YVrGU0oZmc0
@@ -17,6 +17,9 @@ aliases:
 - /resources/videos/unlocking-continuous-delivery-with-feature-flags-the-key-to-faster,-safer-deployments
 - /resources/unlocking-continuous-delivery-with-feature-flags-the-key-to-faster,-safer-deployments
 - /resources/YVrGU0oZmc0
+aliasesFor404:
+- /resources/videos/unlocking-continuous-delivery-with-feature-flags-the-key-to-faster,-safer-deployments
+- /resources/unlocking-continuous-delivery-with-feature-flags-the-key-to-faster,-safer-deployments
 preview: https://i9.ytimg.com/vi/YVrGU0oZmc0/maxresdefault.jpg?sqp=CKDMmrwG&rs=AOn4CLDPVXqxCxtvxC7uS6ZrcSzj_2vc6g
 duration: 557
 isShort: false

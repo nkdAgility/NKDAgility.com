@@ -3,7 +3,7 @@ title: What is Kanban?
 description: Unlock the power of Kanban! Discover how to optimise workflows, visualise processes, and drive continuous improvement in this essential guide.
 date: 2024-02-12T07:00:11Z
 ResourceId: LMmKDlcIvWs
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: LMmKDlcIvWs
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/LMmKDlcIvWs
 - /resources/what-is-kanban-
 - /resources/LMmKDlcIvWs
+aliasesFor404:
+- /resources/what-is-kanban
+- /resources/videos/what-is-kanban-
+- /resources/what-is-kanban-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

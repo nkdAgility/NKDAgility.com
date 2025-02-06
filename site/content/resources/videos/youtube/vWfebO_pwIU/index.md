@@ -3,7 +3,7 @@ title: Why Most Scrum Masters only have PSMI!
 description: "Uncover why many Scrum Masters stop at PSM I! Explore the passion behind true mastery in Scrum and the journey of continuous learning. \U0001F4DC\U0001F50D"
 date: 2023-04-07T07:00:20Z
 ResourceId: vWfebO_pwIU
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: vWfebO_pwIU
@@ -16,6 +16,9 @@ aliases:
 - /resources/videos/why-most-scrum-masters-only-have-psmi!
 - /resources/why-most-scrum-masters-only-have-psmi!
 - /resources/vWfebO_pwIU
+aliasesFor404:
+- /resources/videos/why-most-scrum-masters-only-have-psmi!
+- /resources/why-most-scrum-masters-only-have-psmi!
 preview: https://i.ytimg.com/vi/vWfebO_pwIU/maxresdefault.jpg
 duration: 291
 isShort: false

@@ -3,7 +3,7 @@ title: What are the top 3 things a Scrum Master needs to bear in mind when adopt
 description: "Discover the top 2 essentials for Scrum Masters in coaching agile teams: the art of listening and the power of credibility. Elevate your coaching game! \U0001F3A7\U0001F91D"
 date: 2023-09-18T07:00:32Z
 ResourceId: v1sMbKpQndU
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: v1sMbKpQndU
@@ -21,6 +21,11 @@ aliases:
 - /resources/videos/v1sMbKpQndU
 - /resources/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance-
 - /resources/v1sMbKpQndU
+aliasesFor404:
+- /resources/what-are-the-top-3-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
+- /resources/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
+- /resources/videos/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance-
+- /resources/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

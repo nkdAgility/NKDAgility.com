@@ -3,7 +3,7 @@ title: The Tyranny of Taylorism & how to detect Agile BS!
 description: Explore the roots of management practices in 'The Tyranny of Taylorism' and learn to spot Agile BS in today's workplaces. Change starts with understanding!
 date: 2020-03-18T13:56:05Z
 ResourceId: FZeT8O5Ucwg
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: FZeT8O5Ucwg
@@ -16,6 +16,9 @@ aliases:
 - /resources/videos/the-tyranny-of-taylorism-&-how-to-detect-agile-bs!
 - /resources/the-tyranny-of-taylorism-&-how-to-detect-agile-bs!
 - /resources/FZeT8O5Ucwg
+aliasesFor404:
+- /resources/videos/the-tyranny-of-taylorism-&-how-to-detect-agile-bs!
+- /resources/the-tyranny-of-taylorism-&-how-to-detect-agile-bs!
 preview: https://i.ytimg.com/vi/FZeT8O5Ucwg/maxresdefault.jpg
 duration: 2106
 isShort: false

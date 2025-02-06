@@ -3,7 +3,7 @@ title: 'Mastering the Art of Product Ownership: The Power of Marketing Your Visi
 description: Unlock product ownership success! Discover how to market your vision, engage stakeholders, and deliver value in our latest video. Subscribe for expert tips!
 date: 2023-12-15T07:00:05Z
 ResourceId: Fgla_Oox_sE
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Fgla_Oox_sE
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/Fgla_Oox_sE
 - /resources/5-things-you-would-teach-a-productowner-apprentice-part-3
 - /resources/Fgla_Oox_sE
+aliasesFor404:
+- /resources/mastering-the-art-of-product-ownership-the-power-of-marketing-your-vision
+- /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-3
+- /resources/5-things-you-would-teach-a-productowner-apprentice-part-3
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -3,7 +3,7 @@ title: ' shorts 7 Virtues of agile. Charity'
 description: 'Discover the 7 virtues of Agile, focusing on Charity. Learn how a happy, inspired team enhances customer experience! #Agile #Scrum #Shorts'
 date: 2023-12-06T11:01:01Z
 ResourceId: zro-li2QIMM
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: zro-li2QIMM
@@ -16,6 +16,9 @@ aliases:
 - /resources/videos/-shorts-7-virtues-of-agile-charity
 - /resources/-shorts-7-virtues-of-agile-charity
 - /resources/zro-li2QIMM
+aliasesFor404:
+- /resources/videos/-shorts-7-virtues-of-agile-charity
+- /resources/-shorts-7-virtues-of-agile-charity
 preview: https://i.ytimg.com/vi/zro-li2QIMM/maxresdefault.jpg
 duration: 50
 isShort: true

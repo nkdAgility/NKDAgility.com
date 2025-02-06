@@ -3,7 +3,7 @@ title: 'Understanding Product Discovery: Why It Matters More Than Ever'
 description: Discover the vital role of product discovery in shaping successful products. Learn how it differs from traditional development and drives innovation!
 date: 2024-08-26T07:44:38Z
 ResourceId: Qzw3FSl6hy4
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Qzw3FSl6hy4
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/Qzw3FSl6hy4
 - /resources/what-is-product-discovery-and-how-does-it-differ-from-how-we've-always-developed-products-
 - /resources/Qzw3FSl6hy4
+aliasesFor404:
+- /resources/understanding-product-discovery-why-it-matters-more-than-ever
+- /resources/videos/what-is-product-discovery-and-how-does-it-differ-from-how-we've-always-developed-products-
+- /resources/what-is-product-discovery-and-how-does-it-differ-from-how-we've-always-developed-products-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -3,7 +3,7 @@ title: What will you learn on the professional scrum master course?
 description: Discover how the Professional Scrum Master course empowers you to lead agile teams, fostering autonomy and collaboration for optimal success.
 date: 2023-01-19T07:00:14Z
 ResourceId: zqwHUwnw0hg
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: zqwHUwnw0hg
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/zqwHUwnw0hg
 - /resources/what-will-you-learn-on-the-professional-scrum-master-course-
 - /resources/zqwHUwnw0hg
+aliasesFor404:
+- /resources/what-will-you-learn-on-the-professional-scrum-master-course
+- /resources/videos/what-will-you-learn-on-the-professional-scrum-master-course-
+- /resources/what-will-you-learn-on-the-professional-scrum-master-course-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

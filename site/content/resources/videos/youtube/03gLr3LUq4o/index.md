@@ -3,7 +3,7 @@ title: Basic Work Item Migration
 description: "Learn to bulk edit and migrate work items in Azure DevOps with this guide. Discover powerful tools for seamless project transitions! \U0001F3A5✨"
 date: 2023-11-14T15:24:59Z
 ResourceId: 03gLr3LUq4o
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 03gLr3LUq4o
@@ -17,6 +17,9 @@ aliases:
 - /resources/videos/basic-work-item-migration
 - /resources/basic-work-item-migration
 - /resources/03gLr3LUq4o
+aliasesFor404:
+- /resources/videos/basic-work-item-migration
+- /resources/basic-work-item-migration
 preview: https://i.ytimg.com/vi/03gLr3LUq4o/maxresdefault.jpg
 duration: 2001
 isShort: false

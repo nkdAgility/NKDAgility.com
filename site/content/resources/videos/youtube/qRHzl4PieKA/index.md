@@ -3,7 +3,7 @@ title: Are Your Teams Empowered to Change Requirements Based on User Feedback? I
 description: "Unlock the secrets of Agile Product Management! Discover how team empowerment and user feedback drive success in this insightful video. \U0001F4A1"
 date: 2024-07-17T06:45:01Z
 ResourceId: qRHzl4PieKA
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: qRHzl4PieKA
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/qRHzl4PieKA
 - /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-4
 - /resources/qRHzl4PieKA
+aliasesFor404:
+- /resources/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile
+- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-4
+- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-4
 sitemap:
   filename: sitemap.xml
   priority: 0.6

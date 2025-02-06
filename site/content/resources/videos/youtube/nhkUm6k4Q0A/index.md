@@ -3,7 +3,7 @@ title: 'How to Be an Effective Agile Coach: Agnosticism in Practice'
 description: 'Discover the second essential achievement for aspiring #AgileCoaches with Martin Hinshelwood. Elevate your skills and empower teams to thrive!'
 date: 2023-11-14T11:00:50Z
 ResourceId: nhkUm6k4Q0A
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: nhkUm6k4Q0A
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/nhkUm6k4Q0A
 - /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-2
 - /resources/nhkUm6k4Q0A
+aliasesFor404:
+- /resources/how-to-be-an-effective-agile-coach-agnosticism-in-practice
+- /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-2
+- /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-2
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -3,7 +3,7 @@ title: 'Story Points: A Ghost of Agile Past'
 description: "Uncover the hidden challenges of story points in Agile! Join Martin as he explores their pitfalls and advocates for a value-driven approach. \U0001F47B\U0001F680 #AgileChallenges"
 date: 2023-12-29T07:00:14Z
 ResourceId: beR21RHTUvo
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: beR21RHTUvo
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/beR21RHTUvo
 - /resources/5-ghosts-of-agile-past-story-points
 - /resources/beR21RHTUvo
+aliasesFor404:
+- /resources/story-points-a-ghost-of-agile-past
+- /resources/videos/5-ghosts-of-agile-past-story-points
+- /resources/5-ghosts-of-agile-past-story-points
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -3,7 +3,7 @@ title: Antichrist! 7 Harbingers agile apocalypse. But shorter!
 description: "Uncover the Agile \"Antichrist\" and the signs of the Agile-pocalypse! Learn to spot fake agilists and keep your Agile journey authentic. \U0001F32A️\U0001F680"
 date: 2023-10-30T07:00:13Z
 ResourceId: XZ1Swam_Cx0
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: XZ1Swam_Cx0
@@ -16,6 +16,9 @@ aliases:
 - /resources/videos/antichrist!-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/antichrist!-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/XZ1Swam_Cx0
+aliasesFor404:
+- /resources/videos/antichrist!-7-harbingers-agile-apocalypse-but-shorter!
+- /resources/antichrist!-7-harbingers-agile-apocalypse-but-shorter!
 preview: https://i.ytimg.com/vi/XZ1Swam_Cx0/maxresdefault.jpg
 duration: 59
 isShort: true

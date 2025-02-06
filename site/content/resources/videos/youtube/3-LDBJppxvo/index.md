@@ -3,7 +3,7 @@ title: The Importance of Delivering Working Software Every Iteration
 description: 'Discover 6 surprising insights about Agile Product Management that can transform your approach! Watch now for essential tips. #agile #productmanagement'
 date: 2024-06-26T06:45:00Z
 ResourceId: 3-LDBJppxvo
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 3-LDBJppxvo
@@ -19,6 +19,10 @@ aliases:
 - /resources/videos/3-LDBJppxvo
 - /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-1
 - /resources/3-LDBJppxvo
+aliasesFor404:
+- /resources/the-importance-of-delivering-working-software-every-iteration
+- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-1
+- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-1
 sitemap:
   filename: sitemap.xml
   priority: 0.6

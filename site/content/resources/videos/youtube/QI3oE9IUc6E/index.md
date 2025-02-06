@@ -3,7 +3,7 @@ title: How effectively does an APS prepare a team to do a solid, professional Sc
 description: Discover how the APS course empowers scrum teams to excel in professional scrum practices. Join Martin Hinshelwood for insights on effective training!
 date: 2023-08-12T07:00:10Z
 ResourceId: QI3oE9IUc6E
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: QI3oE9IUc6E
@@ -22,6 +22,12 @@ aliases:
 - /resources/videos/QI3oE9IUc6E
 - /resources/how-effectively-does-an-aps-prepare-a-team-to-do-solid,-professional-scrum
 - /resources/QI3oE9IUc6E
+aliasesFor404:
+- /resources/how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum-2
+- /resources/how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum
+- /resources/how-effectively-does-an-aps-prepare-a-team-to-do-solid-professional-scrum
+- /resources/videos/how-effectively-does-an-aps-prepare-a-team-to-do-solid,-professional-scrum
+- /resources/how-effectively-does-an-aps-prepare-a-team-to-do-solid,-professional-scrum
 sitemap:
   filename: sitemap.xml
   priority: 0.6

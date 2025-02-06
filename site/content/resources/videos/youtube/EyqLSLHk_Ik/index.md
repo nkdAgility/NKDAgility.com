@@ -3,7 +3,7 @@ title: Product Development Mentoring Program
 description: Unlock product success with NKD Agility's mentoring! Join Martin Hinshelwood as he guides you through navigating uncertainty in product development.
 date: 2024-05-07T11:02:49Z
 ResourceId: EyqLSLHk_Ik
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: EyqLSLHk_Ik
@@ -16,6 +16,9 @@ aliases:
 - /resources/videos/product-development-mentoring-program
 - /resources/product-development-mentoring-program
 - /resources/EyqLSLHk_Ik
+aliasesFor404:
+- /resources/videos/product-development-mentoring-program
+- /resources/product-development-mentoring-program
 preview: https://i.ytimg.com/vi/EyqLSLHk_Ik/maxresdefault.jpg
 duration: 423
 isShort: false

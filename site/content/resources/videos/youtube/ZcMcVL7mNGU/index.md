@@ -3,7 +3,7 @@ title: Product Management Mentor Program Final
 description: Discover how NKD Agility's Product Management Mentoring program empowers product managers to thrive in complex environments. Join Martin Hinshelwood for insights!
 date: 2024-05-06T13:29:40Z
 ResourceId: ZcMcVL7mNGU
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: ZcMcVL7mNGU
@@ -16,6 +16,9 @@ aliases:
 - /resources/videos/product-management-mentor-program-final
 - /resources/product-management-mentor-program-final
 - /resources/ZcMcVL7mNGU
+aliasesFor404:
+- /resources/videos/product-management-mentor-program-final
+- /resources/product-management-mentor-program-final
 preview: https://i.ytimg.com/vi/ZcMcVL7mNGU/maxresdefault.jpg
 duration: 256
 isShort: false

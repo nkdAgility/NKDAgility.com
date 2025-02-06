@@ -3,7 +3,7 @@ title: ' shorts 5 things you would teach a productowner apprentice. Part 1'
 description: 'Join Martin Hinshelwood in this #shorts video as he shares the top 5 essential lessons for aspiring product owners. Perfect for apprentices!'
 date: 2023-12-13T11:00:08Z
 ResourceId: BR9vIRsQfGI
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: BR9vIRsQfGI
@@ -16,6 +16,9 @@ aliases:
 - /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-1
 - /resources/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-1
 - /resources/BR9vIRsQfGI
+aliasesFor404:
+- /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-1
+- /resources/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-1
 preview: https://i.ytimg.com/vi/BR9vIRsQfGI/maxresdefault.jpg
 duration: 55
 isShort: true

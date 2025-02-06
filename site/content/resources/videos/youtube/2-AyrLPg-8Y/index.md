@@ -3,7 +3,7 @@ title: Why is training such a critical element in a manager or leader journey?
 description: 'Discover why training is essential for managers transitioning to agile leadership. Join Martin in this insightful short! Watch now: https://youtu.be/W3cyrYFXDfg'
 date: 2023-11-29T11:00:03Z
 ResourceId: 2-AyrLPg-8Y
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 2-AyrLPg-8Y
@@ -15,6 +15,9 @@ aliases:
 - /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leader-journey-
 - /resources/why-is-training-such-a-critical-element-in-a-manager-or-leader-journey-
 - /resources/2-AyrLPg-8Y
+aliasesFor404:
+- /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leader-journey-
+- /resources/why-is-training-such-a-critical-element-in-a-manager-or-leader-journey-
 preview: https://i.ytimg.com/vi/2-AyrLPg-8Y/maxresdefault.jpg
 duration: 17
 isShort: true

@@ -3,7 +3,7 @@ title: Favourite scrum course to teach and why?
 description: 'Join Martin Hinshelwood as he shares his favourite scrum course and its impact on teaching. Discover the power of agile with Naked Agility! #scrum #agile #shorts'
 date: 2023-09-05T07:00:12Z
 ResourceId: WIVDWzps4aY
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: WIVDWzps4aY
@@ -16,6 +16,9 @@ aliases:
 - /resources/videos/favourite-scrum-course-to-teach-and-why-
 - /resources/favourite-scrum-course-to-teach-and-why-
 - /resources/WIVDWzps4aY
+aliasesFor404:
+- /resources/videos/favourite-scrum-course-to-teach-and-why-
+- /resources/favourite-scrum-course-to-teach-and-why-
 preview: https://i.ytimg.com/vi/WIVDWzps4aY/maxresdefault.jpg
 duration: 24
 isShort: true

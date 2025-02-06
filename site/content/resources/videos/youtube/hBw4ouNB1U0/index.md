@@ -3,7 +3,7 @@ title: The Kanban Key - How Continuous Improvement Transforms Your Workflow
 description: Unlock your workflow's potential! Discover how Kanban's continuous improvement can boost efficiency and drive outstanding results in this insightful video.
 date: 2024-08-19T06:45:02Z
 ResourceId: hBw4ouNB1U0
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: hBw4ouNB1U0
@@ -16,6 +16,9 @@ aliases:
 - /resources/videos/the-kanban-key-how-continuous-improvement-transforms-your-workflow
 - /resources/the-kanban-key-how-continuous-improvement-transforms-your-workflow
 - /resources/hBw4ouNB1U0
+aliasesFor404:
+- /resources/videos/the-kanban-key-how-continuous-improvement-transforms-your-workflow
+- /resources/the-kanban-key-how-continuous-improvement-transforms-your-workflow
 preview: https://i.ytimg.com/vi/hBw4ouNB1U0/maxresdefault.jpg
 duration: 50
 isShort: true

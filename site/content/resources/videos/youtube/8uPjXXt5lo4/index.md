@@ -3,7 +3,7 @@ title: What is the most valuable thing you have learned through training people?
 description: Discover the key insights Martin Hinshelwood gained as a scrum trainer, transforming training experiences in agile environments. Join the journey!
 date: 2023-02-07T07:00:06Z
 ResourceId: 8uPjXXt5lo4
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 8uPjXXt5lo4
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/8uPjXXt5lo4
 - /resources/what-is-the-most-valuable-thing-you-have-learned-through-training-people-
 - /resources/8uPjXXt5lo4
+aliasesFor404:
+- /resources/what-is-the-most-valuable-thing-you-have-learned-through-training-people
+- /resources/videos/what-is-the-most-valuable-thing-you-have-learned-through-training-people-
+- /resources/what-is-the-most-valuable-thing-you-have-learned-through-training-people-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

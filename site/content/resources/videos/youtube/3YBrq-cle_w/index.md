@@ -3,7 +3,7 @@ title: How will a PSM II course challenge your assumptions the most?
 description: Discover how the PSM II course challenges your assumptions and elevates your Scrum mastery with insights from Martin Hinshelwood at Naked Agility.
 date: 2023-05-12T14:00:02Z
 ResourceId: 3YBrq-cle_w
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 3YBrq-cle_w
@@ -15,6 +15,9 @@ aliases:
 - /resources/videos/how-will-a-psm-ii-course-challenge-your-assumptions-the-most-
 - /resources/how-will-a-psm-ii-course-challenge-your-assumptions-the-most-
 - /resources/3YBrq-cle_w
+aliasesFor404:
+- /resources/videos/how-will-a-psm-ii-course-challenge-your-assumptions-the-most-
+- /resources/how-will-a-psm-ii-course-challenge-your-assumptions-the-most-
 preview: https://i.ytimg.com/vi/3YBrq-cle_w/maxresdefault.jpg
 duration: 132
 isShort: false

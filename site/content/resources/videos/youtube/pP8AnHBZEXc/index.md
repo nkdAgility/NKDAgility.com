@@ -3,7 +3,7 @@ title: 27th May 2020 - Office Hours \ Ask Me Anything
 description: Join Martin, a Scrum Trainer and Azure DevOps MVP, for an engaging AMA on DevOps and Agility. Ask your questions live or submit them privately!
 date: 2020-05-28T05:34:33Z
 ResourceId: pP8AnHBZEXc
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: pP8AnHBZEXc
@@ -16,6 +16,9 @@ aliases:
 - /resources/videos/27th-may-2020-office-hours-ask-me-anything
 - /resources/27th-may-2020-office-hours-ask-me-anything
 - /resources/pP8AnHBZEXc
+aliasesFor404:
+- /resources/videos/27th-may-2020-office-hours-ask-me-anything
+- /resources/27th-may-2020-office-hours-ask-me-anything
 preview: https://i.ytimg.com/vi/pP8AnHBZEXc/maxresdefault.jpg
 duration: 1906
 isShort: false

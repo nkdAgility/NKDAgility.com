@@ -3,7 +3,7 @@ title: Can you talk about the Kanban workshop and why it's a great option for or
 description: Discover how Kanban workshops by NKD Agility can empower your team to embrace agile practices and enhance product development without the Scrum framework.
 date: 2023-08-23T07:00:10Z
 ResourceId: RSPw8pZ9NT8
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: RSPw8pZ9NT8
@@ -16,6 +16,9 @@ aliases:
 - /resources/videos/can-you-talk-about-the-kanban-workshop-and-why-it's-a-great-option-for-organizations
 - /resources/can-you-talk-about-the-kanban-workshop-and-why-it's-a-great-option-for-organizations
 - /resources/RSPw8pZ9NT8
+aliasesFor404:
+- /resources/videos/can-you-talk-about-the-kanban-workshop-and-why-it's-a-great-option-for-organizations
+- /resources/can-you-talk-about-the-kanban-workshop-and-why-it's-a-great-option-for-organizations
 preview: https://i.ytimg.com/vi/RSPw8pZ9NT8/maxresdefault.jpg
 duration: 466
 isShort: false

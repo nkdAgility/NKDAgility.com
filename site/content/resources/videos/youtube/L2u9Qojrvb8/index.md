@@ -3,7 +3,7 @@ title: 'Navigating DevOps: Crafting Unique Solutions for Unique Organizations'
 description: "Discover how to customise your DevOps consulting services for unique organisational needs, fostering continuous improvement and incremental growth. \U0001F680\U0001F4C8"
 date: 2024-08-23T07:00:12Z
 ResourceId: L2u9Qojrvb8
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: L2u9Qojrvb8
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/L2u9Qojrvb8
 - /resources/how-do-you-tailor-your-devops-consulting-services-to-meet-the-unique-needs-of-different-organization
 - /resources/L2u9Qojrvb8
+aliasesFor404:
+- /resources/navigating-devops-crafting-unique-solutions-for-unique-organizations
+- /resources/videos/how-do-you-tailor-your-devops-consulting-services-to-meet-the-unique-needs-of-different-organization
+- /resources/how-do-you-tailor-your-devops-consulting-services-to-meet-the-unique-needs-of-different-organization
 sitemap:
   filename: sitemap.xml
   priority: 0.6

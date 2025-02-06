@@ -3,7 +3,7 @@ title: Overview of the 'scaling with portfolio Kanban' course
 description: Unlock organisational efficiency with our "Applying Scaling Portfolio Kanban" course! Learn to manage project portfolios effectively and enhance value delivery.
 date: 2024-02-22T07:00:26Z
 ResourceId: kOj-O99mUZE
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: kOj-O99mUZE
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/kOj-O99mUZE
 - /resources/overview-of-scaling-with-portfolio-kanban-course-
 - /resources/kOj-O99mUZE
+aliasesFor404:
+- /resources/overview-of-the-scaling-with-portfolio-kanban-course
+- /resources/videos/overview-of-scaling-with-portfolio-kanban-course-
+- /resources/overview-of-scaling-with-portfolio-kanban-course-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

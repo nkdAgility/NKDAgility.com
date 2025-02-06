@@ -3,7 +3,7 @@ title: 'The Overlooked Virtue of Agility: Diligence'
 description: Unlock the power of diligence in Agile! Discover how attention to detail can elevate your projects and drive success. Watch now for essential insights!
 date: 2023-12-07T07:00:02Z
 ResourceId: 3S0zghhDPwc
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 3S0zghhDPwc
@@ -19,6 +19,10 @@ aliases:
 - /resources/videos/3S0zghhDPwc
 - /resources/7-virtues-of-agile-diligence
 - /resources/3S0zghhDPwc
+aliasesFor404:
+- /resources/the-overlooked-virtue-of-agility-diligence
+- /resources/videos/7-virtues-of-agile-diligence
+- /resources/7-virtues-of-agile-diligence
 sitemap:
   filename: sitemap.xml
   priority: 0.6

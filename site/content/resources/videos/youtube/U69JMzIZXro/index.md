@@ -3,7 +3,7 @@ title: Installing TFS 2013 Standard
 description: Learn how to effortlessly install TFS 2013 Standard with Martin! Discover the simplicity of setup, including SQL Server and Reporting Services.
 date: 2014-01-15T13:38:13Z
 ResourceId: U69JMzIZXro
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: U69JMzIZXro
@@ -16,6 +16,9 @@ aliases:
 - /resources/videos/installing-tfs-2013-standard
 - /resources/installing-tfs-2013-standard
 - /resources/U69JMzIZXro
+aliasesFor404:
+- /resources/videos/installing-tfs-2013-standard
+- /resources/installing-tfs-2013-standard
 preview: https://i.ytimg.com/vi/U69JMzIZXro/maxresdefault.jpg
 duration: 1219
 isShort: false

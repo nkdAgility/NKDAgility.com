@@ -3,7 +3,7 @@ title: 'Agile Leadership: Empowering Managers with the Right Skills'
 description: Discover why training is essential for managers transitioning to agile leaders in a complex world. Join Martin Hinshelwood for insights on thriving teams!
 date: 2023-11-29T07:00:23Z
 ResourceId: W3cyrYFXDfg
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: W3cyrYFXDfg
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/W3cyrYFXDfg
 - /resources/why-is-training-such-a-critical-element-in-a-manager-or-leader's-journey
 - /resources/W3cyrYFXDfg
+aliasesFor404:
+- /resources/agile-leadership-empowering-managers-with-the-right-skills
+- /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leader's-journey
+- /resources/why-is-training-such-a-critical-element-in-a-manager-or-leader's-journey
 sitemap:
   filename: sitemap.xml
   priority: 0.6

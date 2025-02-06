@@ -3,7 +3,7 @@ title: 7 harbingers of the Agile apocalypse. War
 description: "Explore how internal 'wars' in organisations mirror Norse Ragnarök, revealing paths to innovation or downfall. Join Martin to navigate these conflicts! \U0001F6E1️⚔️"
 date: 2023-10-19T13:00:46Z
 ResourceId: wHGw1vmudNA
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: wHGw1vmudNA
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/wHGw1vmudNA
 - /resources/war!-7-harbingers-agile-apocalypse
 - /resources/wHGw1vmudNA
+aliasesFor404:
+- /resources/7-harbingers-of-the-agile-apocalypse-war
+- /resources/videos/war!-7-harbingers-agile-apocalypse
+- /resources/war!-7-harbingers-agile-apocalypse
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -3,7 +3,7 @@ title: How is agile product development different to waterfall project managemen
 description: Discover how agile product development contrasts with traditional waterfall project management in complex environments. Learn to adapt and thrive!
 date: 2023-01-11T07:00:02Z
 ResourceId: BE6E5tV8130
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: BE6E5tV8130
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/BE6E5tV8130
 - /resources/how-is-agile-product-development-different-to-waterfall-project-management-
 - /resources/BE6E5tV8130
+aliasesFor404:
+- /resources/how-is-agile-product-development-different-to-waterfall-project-management
+- /resources/videos/how-is-agile-product-development-different-to-waterfall-project-management-
+- /resources/how-is-agile-product-development-different-to-waterfall-project-management-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

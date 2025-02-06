@@ -3,7 +3,7 @@ title: Navigating the Complex World of Azure DevOps Data Migration
 description: Discover essential insights for Azure DevOps migration! Learn about common pitfalls, best practices, and expert tips to ensure a smooth transition.
 date: 2024-07-31T12:00:49Z
 ResourceId: 3jYFD-6_kZk
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 3jYFD-6_kZk
@@ -19,6 +19,10 @@ aliases:
 - /resources/videos/3jYFD-6_kZk
 - /resources/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops
 - /resources/3jYFD-6_kZk
+aliasesFor404:
+- /resources/navigating-the-complex-world-of-azure-devops-data-migration
+- /resources/videos/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops
+- /resources/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -3,7 +3,7 @@ title: 'Where Agile Went Wrong: Understanding the Competence Crisis'
 description: "Explore the competence crisis in Agile! Discover why skilled Scrum Masters matter and how to bridge the gap for real-world success. \U0001F331\U0001F680 #AgileLeadership"
 date: 2024-10-14T07:00:38Z
 ResourceId: txN41c6znbE
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: txN41c6znbE
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/txN41c6znbE
 - /resources/the-difference-between-a-rock-solid,-deeply-competent-scrum-master-and-a-jira-jockey
 - /resources/txN41c6znbE
+aliasesFor404:
+- /resources/where-agile-went-wrong-understanding-the-competence-crisis
+- /resources/videos/the-difference-between-a-rock-solid,-deeply-competent-scrum-master-and-a-jira-jockey
+- /resources/the-difference-between-a-rock-solid,-deeply-competent-scrum-master-and-a-jira-jockey
 sitemap:
   filename: sitemap.xml
   priority: 0.6

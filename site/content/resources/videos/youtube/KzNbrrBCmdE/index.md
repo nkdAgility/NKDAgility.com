@@ -3,7 +3,7 @@ title: Compromises you need to think about for your azuredevops migration. Excer
 description: 'Explore key compromises to consider for your Azure DevOps migration in this insightful video excerpt. Watch now for expert guidance! #agile #devops'
 date: 2024-09-19T11:05:27Z
 ResourceId: KzNbrrBCmdE
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: KzNbrrBCmdE
@@ -16,6 +16,9 @@ aliases:
 - /resources/videos/compromises-you-need-to-think-about-for-your-azuredevops-migration-excerpt-2
 - /resources/compromises-you-need-to-think-about-for-your-azuredevops-migration-excerpt-2
 - /resources/KzNbrrBCmdE
+aliasesFor404:
+- /resources/videos/compromises-you-need-to-think-about-for-your-azuredevops-migration-excerpt-2
+- /resources/compromises-you-need-to-think-about-for-your-azuredevops-migration-excerpt-2
 preview: https://i.ytimg.com/vi/KzNbrrBCmdE/maxresdefault.jpg
 duration: 52
 isShort: true

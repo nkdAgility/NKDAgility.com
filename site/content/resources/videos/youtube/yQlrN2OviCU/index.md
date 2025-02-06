@@ -3,7 +3,7 @@ title: The Power of Peer Feedback in Immersive Learning
 description: Discover how immersive learning enhances your skills as a Scrum practitioner in this engaging video. Unlock your potential with NKD Agility!
 date: 2024-02-07T07:00:27Z
 ResourceId: yQlrN2OviCU
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: yQlrN2OviCU
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/yQlrN2OviCU
 - /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-3
 - /resources/yQlrN2OviCU
+aliasesFor404:
+- /resources/the-power-of-peer-feedback-in-immersive-learning
+- /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-3
+- /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-3
 sitemap:
   filename: sitemap.xml
   priority: 0.6

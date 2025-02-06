@@ -3,7 +3,7 @@ title: '7 deadly sins of Agile: Pride'
 description: "Explore the dual nature of pride in Agile! Learn to harness it wisely while avoiding costly pitfalls. Join Martin for insights on data-driven success. \U0001F4CA\U0001F6AB"
 date: 2023-10-13T07:00:05Z
 ResourceId: BDFrmCV_c68
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: BDFrmCV_c68
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/BDFrmCV_c68
 - /resources/pride!-7-deadly-sins-of-agile
 - /resources/BDFrmCV_c68
+aliasesFor404:
+- /resources/7-deadly-sins-of-agile-pride
+- /resources/videos/pride!-7-deadly-sins-of-agile
+- /resources/pride!-7-deadly-sins-of-agile
 sitemap:
   filename: sitemap.xml
   priority: 0.6

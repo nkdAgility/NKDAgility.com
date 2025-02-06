@@ -3,7 +3,7 @@ title: 7 signs of the agile apocalypse. Plague
 description: 'Discover the 7 signs of the #Agile apocalypse in this short video! Learn how interconnected environments can lead to disaster. #Agile #Scrum #Shorts'
 date: 2023-11-08T11:00:53Z
 ResourceId: pDAL84mht3Y
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: pDAL84mht3Y
@@ -16,6 +16,9 @@ aliases:
 - /resources/videos/7-signs-of-the-agile-apocalypse-plague
 - /resources/7-signs-of-the-agile-apocalypse-plague
 - /resources/pDAL84mht3Y
+aliasesFor404:
+- /resources/videos/7-signs-of-the-agile-apocalypse-plague
+- /resources/7-signs-of-the-agile-apocalypse-plague
 preview: https://i.ytimg.com/vi/pDAL84mht3Y/maxresdefault.jpg
 duration: 47
 isShort: true

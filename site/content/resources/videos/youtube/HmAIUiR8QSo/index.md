@@ -3,7 +3,7 @@ title: Building a Culture of Quality
 description: Join Martin Hinshelwood as he uncovers how to cultivate a culture of quality in engineering, drawing lessons from Boeing and Volkswagen.
 date: 2024-11-29T07:00:17Z
 ResourceId: HmAIUiR8QSo
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: HmAIUiR8QSo
@@ -17,6 +17,9 @@ aliases:
 - /resources/videos/building-a-culture-of-quality
 - /resources/building-a-culture-of-quality
 - /resources/HmAIUiR8QSo
+aliasesFor404:
+- /resources/videos/building-a-culture-of-quality
+- /resources/building-a-culture-of-quality
 preview: https://i.ytimg.com/vi/HmAIUiR8QSo/maxresdefault.jpg
 duration: 387
 isShort: false

@@ -3,7 +3,7 @@ title: Maximizing Transparency and Improvement in Software Engineering with Kanb
 description: Unlock the power of Kanban! Discover how it enhances software engineering processes, boosts efficiency, and fosters team collaboration. Watch now!
 date: 2024-07-29T06:45:02Z
 ResourceId: Psc6nDD7Q9g
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Psc6nDD7Q9g
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/Psc6nDD7Q9g
 - /resources/unlocking-the-power-of-kanban-gaining-deep-insights-into-your-software-engineering-processes
 - /resources/Psc6nDD7Q9g
+aliasesFor404:
+- "/resources/maximizing-transparency-and-improvement-in-software-engineering-with-kanban-\U0001F680"
+- /resources/videos/unlocking-the-power-of-kanban-gaining-deep-insights-into-your-software-engineering-processes
+- /resources/unlocking-the-power-of-kanban-gaining-deep-insights-into-your-software-engineering-processes
 sitemap:
   filename: sitemap.xml
   priority: 0.6

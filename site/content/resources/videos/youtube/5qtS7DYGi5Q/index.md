@@ -3,7 +3,7 @@ title: How Do You Know the Value Currently Delivered in Your Organization?
 description: "Unlock your organisation's potential with EBM! Discover 5 compelling reasons to embrace evidence-based management in your environment. #EBM #Shorts"
 date: 2024-01-23T11:00:05Z
 ResourceId: 5qtS7DYGi5Q
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 5qtS7DYGi5Q
@@ -19,6 +19,10 @@ aliases:
 - /resources/videos/5qtS7DYGi5Q
 - /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-2
 - /resources/5qtS7DYGi5Q
+aliasesFor404:
+- /resources/how-do-you-know-the-value-currently-delivered-in-your-organization
+- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-2
+- /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-2
 sitemap:
   filename: sitemap.xml
   priority: 0.6

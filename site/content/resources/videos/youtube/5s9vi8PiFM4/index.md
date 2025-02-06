@@ -3,7 +3,7 @@ title: 1 thing you wish you knew at the start of your Scrum journey?
 description: 'Discover the key insight Martin Hinshelwood wishes he had at the start of his Scrum journey. Elevate your Agile experience with Naked Agility! #Scrum #Agile'
 date: 2023-08-04T07:00:03Z
 ResourceId: 5s9vi8PiFM4
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 5s9vi8PiFM4
@@ -19,6 +19,10 @@ aliases:
 - /resources/videos/1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey
 - /resources/videos/5s9vi8PiFM4
 - /resources/5s9vi8PiFM4
+aliasesFor404:
+- /resources/1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey-2
+- /resources/1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey
+- /resources/videos/1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey
 sitemap:
   filename: sitemap.xml
   priority: 0.6

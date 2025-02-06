@@ -3,7 +3,7 @@ title: 'There’s No Such Thing as an Agile Transformation: Why You Should Focus
 description: Uncover the truth about Agile and culture transformation with Michael Sahota. Discover why changing culture is more complex than it seems!
 date: 2024-01-21T07:00:06Z
 ResourceId: Ca_0rw9AUlg
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Ca_0rw9AUlg
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/Ca_0rw9AUlg
 - /resources/there's-no-such-thing-as-an-agile-transformation-it's-a-culture-transformation-michael-sahota
 - /resources/Ca_0rw9AUlg
+aliasesFor404:
+- /resources/theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
+- /resources/videos/there's-no-such-thing-as-an-agile-transformation-it's-a-culture-transformation-michael-sahota
+- /resources/there's-no-such-thing-as-an-agile-transformation-it's-a-culture-transformation-michael-sahota
 sitemap:
   filename: sitemap.xml
   priority: 0.6

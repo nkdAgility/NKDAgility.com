@@ -3,7 +3,7 @@ title: 'Avoiding Agile Banditry: Why Story Points and Velocity Are Misleading Me
 description: "Discover how to escape the story point trap in Agile! Join Martin as he reveals better metrics for success and transforms your team's value delivery. \U0001F680\U0001F31F"
 date: 2024-01-08T07:00:06Z
 ResourceId: EfogGslFkBQ
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: EfogGslFkBQ
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/EfogGslFkBQ
 - /resources/5-kinds-of-agile-bandits-story-points-&-velocity
 - /resources/EfogGslFkBQ
+aliasesFor404:
+- /resources/avoiding-agile-banditry-why-story-points-and-velocity-are-misleading-metrics
+- /resources/videos/5-kinds-of-agile-bandits-story-points-&-velocity
+- /resources/5-kinds-of-agile-bandits-story-points-&-velocity
 sitemap:
   filename: sitemap.xml
   priority: 0.6

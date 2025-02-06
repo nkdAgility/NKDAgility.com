@@ -3,7 +3,7 @@ title: 'Empowering Agile Teams: The Critical Role of User Feedback in Requiremen
 description: Unlock your team's potential! Discover how to empower agile responses to user feedback and enhance your organisation's adaptability in this insightful video.
 date: 2024-07-19T06:45:03Z
 ResourceId: xGuuZ5l6fCo
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: xGuuZ5l6fCo
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/xGuuZ5l6fCo
 - /resources/are-you-truly-empowering-your-teams-to-respond-to-user-feedback-the-agile-reality-check-[5-6]
 - /resources/xGuuZ5l6fCo
+aliasesFor404:
+- /resources/empowering-agile-teams-the-critical-role-of-user-feedback-in-requirement-changes
+- /resources/videos/are-you-truly-empowering-your-teams-to-respond-to-user-feedback-the-agile-reality-check-[5-6]
+- /resources/are-you-truly-empowering-your-teams-to-respond-to-user-feedback-the-agile-reality-check-[5-6]
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -3,7 +3,7 @@ title: 'The Importance of Evaluating Direction: Are You Heading the Right Way?'
 description: "Evaluate your project's direction! \U0001F9ED Discover how to make informed choices and adapt in a changing world. Join us for insights and guidance! \U0001F4A1"
 date: 2024-01-20T07:00:00Z
 ResourceId: 17qTGonSsbM
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 17qTGonSsbM
@@ -19,6 +19,10 @@ aliases:
 - /resources/videos/17qTGonSsbM
 - /resources/“if-you-do-not-change-direction,-you-may-end-up-where-you-are-heading-”-–-lao-tzu
 - /resources/17qTGonSsbM
+aliasesFor404:
+- /resources/the-importance-of-evaluating-direction-are-you-heading-the-right-way
+- /resources/videos/“if-you-do-not-change-direction,-you-may-end-up-where-you-are-heading-”-–-lao-tzu
+- /resources/“if-you-do-not-change-direction,-you-may-end-up-where-you-are-heading-”-–-lao-tzu
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -3,7 +3,7 @@ title: 'Continuous Adaptation: The Key to Success in a Dynamic Market'
 description: "Discover how adapting to change drives business success in our fast-paced world. Join us to learn key strategies for thriving amidst constant evolution! \U0001F30D✨"
 date: 2024-01-19T06:08:37Z
 ResourceId: Bjz6SwLDIY4
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Bjz6SwLDIY4
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/Bjz6SwLDIY4
 - /resources/the-art-of-life-lies-in-a-constant-readjustment-to-our-surroundings
 - /resources/Bjz6SwLDIY4
+aliasesFor404:
+- /resources/continuous-adaptation-the-key-to-success-in-a-dynamic-market
+- /resources/videos/the-art-of-life-lies-in-a-constant-readjustment-to-our-surroundings
+- /resources/the-art-of-life-lies-in-a-constant-readjustment-to-our-surroundings
 sitemap:
   filename: sitemap.xml
   priority: 0.6

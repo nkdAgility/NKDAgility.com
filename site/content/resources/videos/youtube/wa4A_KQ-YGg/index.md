@@ -3,7 +3,7 @@ title: What are immersive training courses?
 description: Discover how immersive Scrum training courses can transform your Agile journey and empower your team for success in this insightful video with Martin Hinshelwood.
 date: 2023-03-15T07:00:19Z
 ResourceId: wa4A_KQ-YGg
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: wa4A_KQ-YGg
@@ -21,6 +21,11 @@ aliases:
 - /resources/videos/wa4A_KQ-YGg
 - /resources/what-are-immersive-training-scrum-courses-
 - /resources/wa4A_KQ-YGg
+aliasesFor404:
+- /resources/what-are-immersive-training-courses
+- /resources/what-are-immersive-training-scrum-courses
+- /resources/videos/what-are-immersive-training-scrum-courses-
+- /resources/what-are-immersive-training-scrum-courses-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

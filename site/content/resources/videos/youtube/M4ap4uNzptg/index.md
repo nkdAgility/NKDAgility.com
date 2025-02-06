@@ -3,7 +3,7 @@ title: 'Unlocking Agile’s Core: Questioning to Create Value'
 description: "Unlock the true potential of Agile! Discover how questioning and adaptability can transform your organisation and outpace competitors. Watch now! \U0001F31F"
 date: 2024-01-23T07:00:07Z
 ResourceId: M4ap4uNzptg
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: M4ap4uNzptg
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/M4ap4uNzptg
 - /resources/agile-is-failing-organizations!
 - /resources/M4ap4uNzptg
+aliasesFor404:
+- /resources/unlocking-agiles-core-questioning-to-create-value
+- /resources/videos/agile-is-failing-organizations!
+- /resources/agile-is-failing-organizations!
 sitemap:
   filename: sitemap.xml
   priority: 0.6

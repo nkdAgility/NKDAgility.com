@@ -3,7 +3,7 @@ title: 'Understanding Kanban: A Tool for Transparency and Continuous Improvement
 description: Unlock the true power of Kanban! Discover its benefits, key metrics, and how to transform your workflows into a secret weapon for process improvement.
 date: 2024-06-24T06:48:02Z
 ResourceId: BFDB04_JIhg
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: BFDB04_JIhg
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/BFDB04_JIhg
 - /resources/introduction-to-kanban
 - /resources/BFDB04_JIhg
+aliasesFor404:
+- /resources/understanding-kanban-a-tool-for-transparency-and-continuous-improvement
+- /resources/videos/introduction-to-kanban
+- /resources/introduction-to-kanban
 sitemap:
   filename: sitemap.xml
   priority: 0.6

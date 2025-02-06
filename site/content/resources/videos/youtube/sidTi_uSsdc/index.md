@@ -3,7 +3,7 @@ title: Discipline versus motivation?
 description: "Discover the key difference between discipline and motivation in high-performance teams with Martin Hinshelwood. Unlock your team's potential! #shorts #agile"
 date: 2023-05-15T07:00:21Z
 ResourceId: sidTi_uSsdc
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: sidTi_uSsdc
@@ -19,6 +19,9 @@ aliases:
 - /resources/videos/discipline-versus-motivation
 - /resources/videos/sidTi_uSsdc
 - /resources/sidTi_uSsdc
+aliasesFor404:
+- /resources/discipline-versus-motivation
+- /resources/videos/discipline-versus-motivation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

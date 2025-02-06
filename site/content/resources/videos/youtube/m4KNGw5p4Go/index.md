@@ -3,7 +3,7 @@ title: 'Transform Your Product Development: Unleash the Power of Experimentation
 description: Unlock your product development potential! Discover strategies to enhance user value, reduce waste, and foster collaboration in our transformative PPDV course.
 date: 2024-08-11T22:00:33Z
 ResourceId: m4KNGw5p4Go
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: m4KNGw5p4Go
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/m4KNGw5p4Go
 - /resources/what-you-will-be-able-to-do-at-the-end-of-the-ppdv-course
 - /resources/m4KNGw5p4Go
+aliasesFor404:
+- /resources/transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
+- /resources/videos/what-you-will-be-able-to-do-at-the-end-of-the-ppdv-course
+- /resources/what-you-will-be-able-to-do-at-the-end-of-the-ppdv-course
 sitemap:
   filename: sitemap.xml
   priority: 0.6

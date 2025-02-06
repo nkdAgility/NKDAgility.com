@@ -3,7 +3,7 @@ title: Building a culture of Quality
 description: Unlock the true potential of CI/CD! Join Martin Hinshelwood as he reveals best practices for Continuous Integration and Delivery to enhance quality and speed.
 date: 2024-11-22T07:00:08Z
 ResourceId: IZ-FlBbGaSY
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: IZ-FlBbGaSY
@@ -16,6 +16,9 @@ aliases:
 - /resources/videos/continuous-integration-and-continuous-delivery-ci-cd-for-quality
 - /resources/continuous-integration-and-continuous-delivery-ci-cd-for-quality
 - /resources/IZ-FlBbGaSY
+aliasesFor404:
+- /resources/videos/continuous-integration-and-continuous-delivery-ci-cd-for-quality
+- /resources/continuous-integration-and-continuous-delivery-ci-cd-for-quality
 preview: https://i.ytimg.com/vi/IZ-FlBbGaSY/maxresdefault.jpg
 duration: 451
 isShort: false

@@ -3,7 +3,7 @@ title: Why is training such a critical element in a productowner journey
 description: Discover why training is vital for product owners! Join Martin Hinshelwood as he highlights the importance of skills development in this insightful short.
 date: 2023-11-27T11:00:56Z
 ResourceId: xLUsgKWzkUM
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: xLUsgKWzkUM
@@ -16,6 +16,9 @@ aliases:
 - /resources/videos/why-is-training-such-a-critical-element-in-a-productowner-journey
 - /resources/why-is-training-such-a-critical-element-in-a-productowner-journey
 - /resources/xLUsgKWzkUM
+aliasesFor404:
+- /resources/videos/why-is-training-such-a-critical-element-in-a-productowner-journey
+- /resources/why-is-training-such-a-critical-element-in-a-productowner-journey
 preview: https://i.ytimg.com/vi/xLUsgKWzkUM/maxresdefault.jpg
 duration: 36
 isShort: true

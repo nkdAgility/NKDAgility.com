@@ -3,7 +3,7 @@ title: Azure DevOps Migration services. Part 1
 description: Discover Azure DevOps Migration Services with NKD Agility in this insightful video. Transform your project management and product development today!
 date: 2024-09-03T09:57:36Z
 ResourceId: 2Sal3OneFfo
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 2Sal3OneFfo
@@ -15,6 +15,9 @@ aliases:
 - /resources/videos/azure-devops-migration-services-part-1
 - /resources/azure-devops-migration-services-part-1
 - /resources/2Sal3OneFfo
+aliasesFor404:
+- /resources/videos/azure-devops-migration-services-part-1
+- /resources/azure-devops-migration-services-part-1
 preview: https://i.ytimg.com/vi/2Sal3OneFfo/maxresdefault.jpg
 duration: 59
 isShort: true

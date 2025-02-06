@@ -3,7 +3,7 @@ title: 'How to Overcome Agile Banditry: A Product Owner’s Journey'
 description: "Discover how to avoid rigid product ownership in Agile! Join Martin as he shares insights on fostering team engagement and achieving true Agile success. \U0001F680"
 date: 2024-01-10T07:00:11Z
 ResourceId: EoInrPvjBHo
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: EoInrPvjBHo
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/EoInrPvjBHo
 - /resources/5-kinds-of-agile-bandits-product-owner-bandits
 - /resources/EoInrPvjBHo
+aliasesFor404:
+- /resources/how-to-overcome-agile-banditry-a-product-owners-journey
+- /resources/videos/5-kinds-of-agile-bandits-product-owner-bandits
+- /resources/5-kinds-of-agile-bandits-product-owner-bandits
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -3,7 +3,7 @@ title: 'Quotes: Dictatorship vs Democracy'
 description: "Explore the debate: Is a dictator or democracy better for product development? Join Martin Hinshelwood's insights in this engaging short! #agile #scrum"
 date: 2023-10-15T07:00:31Z
 ResourceId: utI-1HVpeSU
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: utI-1HVpeSU
@@ -19,6 +19,9 @@ aliases:
 - /resources/videos/quotes-dictatorship-vs-democracy
 - /resources/videos/utI-1HVpeSU
 - /resources/utI-1HVpeSU
+aliasesFor404:
+- /resources/quotes-dictatorship-vs-democracy
+- /resources/videos/quotes-dictatorship-vs-democracy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

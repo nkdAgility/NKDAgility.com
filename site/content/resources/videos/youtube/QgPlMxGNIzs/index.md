@@ -3,7 +3,7 @@ title: How do you think Agile is evolving since its inception in 2001?
 description: "Discover the evolution of Agile since 2001, its challenges, and the future of work in dynamic environments. Join Martin on this insightful journey! \U0001F310\U0001F680"
 date: 2023-02-15T07:00:07Z
 ResourceId: QgPlMxGNIzs
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: QgPlMxGNIzs
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/QgPlMxGNIzs
 - /resources/how-do-you-think-agile-is-evolving-since-its-inception-in-2001-
 - /resources/QgPlMxGNIzs
+aliasesFor404:
+- /resources/how-do-you-think-agile-is-evolving-since-its-inception-in-2001
+- /resources/videos/how-do-you-think-agile-is-evolving-since-its-inception-in-2001-
+- /resources/how-do-you-think-agile-is-evolving-since-its-inception-in-2001-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

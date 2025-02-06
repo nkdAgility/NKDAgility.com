@@ -3,7 +3,7 @@ title: Free Workshop 3 - Introduction to Kanban & Batch Size
 description: Join our free 90-minute workshop with Martin Hinshelwood to explore Kanban and batch size. Register now to participate live!
 date: 2021-09-02T19:04:46Z
 ResourceId: nDX_N-dllEQ
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: nDX_N-dllEQ
@@ -18,6 +18,9 @@ aliases:
 - /resources/videos/free-workshop-3-introduction-to-kanban-&-batch-size
 - /resources/free-workshop-3-introduction-to-kanban-&-batch-size
 - /resources/nDX_N-dllEQ
+aliasesFor404:
+- /resources/videos/free-workshop-3-introduction-to-kanban-&-batch-size
+- /resources/free-workshop-3-introduction-to-kanban-&-batch-size
 preview: https://i.ytimg.com/vi/nDX_N-dllEQ/maxresdefault.jpg
 duration: 7527
 isShort: false

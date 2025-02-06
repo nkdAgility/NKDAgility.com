@@ -3,7 +3,7 @@ title: Biggest contribution from a Product Owner that you know of
 description: Discover the impactful role of a product owner in agile teams as Martin Hinshelwood shares a remarkable contribution that inspires product vision.
 date: 2023-06-13T11:32:18Z
 ResourceId: 2IuL2Qvvbfk
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 2IuL2Qvvbfk
@@ -19,6 +19,10 @@ aliases:
 - /resources/videos/2IuL2Qvvbfk
 - /resources/biggest-contribution-from-a-product-owner-that-you-know-of-
 - /resources/2IuL2Qvvbfk
+aliasesFor404:
+- /resources/biggest-contribution-from-a-product-owner-that-you-know-of
+- /resources/videos/biggest-contribution-from-a-product-owner-that-you-know-of-
+- /resources/biggest-contribution-from-a-product-owner-that-you-know-of-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

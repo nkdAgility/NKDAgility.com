@@ -3,7 +3,7 @@ title: Worst Contribution from a Product Owner that You Know Of
 description: 'Discover the worst product owner performance ever witnessed! Join Martin Hinshelwood as he shares valuable lessons from poor practices. #agile #scrum #shorts'
 date: 2023-06-06T11:00:34Z
 ResourceId: ekUL1oIMeAc
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: ekUL1oIMeAc
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/ekUL1oIMeAc
 - /resources/worst-contribution-from-a-product-owner-that-you-know-of-
 - /resources/ekUL1oIMeAc
+aliasesFor404:
+- /resources/worst-contribution-from-a-product-owner-that-you-know-of
+- /resources/videos/worst-contribution-from-a-product-owner-that-you-know-of-
+- /resources/worst-contribution-from-a-product-owner-that-you-know-of-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

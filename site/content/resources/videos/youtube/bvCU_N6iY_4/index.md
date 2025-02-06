@@ -3,7 +3,7 @@ title: Business Agility Raw! - Ask me Anything Lean Coffee with Martin Hinshelwo
 description: Join Martin Hinshelwood for Business Agility Raw! on 27th August. Engage in a Lean Coffee format and discuss your pressing questions on agility!
 date: 2022-07-27T18:45:14Z
 ResourceId: bvCU_N6iY_4
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: bvCU_N6iY_4
@@ -16,6 +16,9 @@ aliases:
 - /resources/videos/business-agility-raw!-ask-me-anything-lean-coffee-with-martin-hinshelwood-[mktng]
 - /resources/business-agility-raw!-ask-me-anything-lean-coffee-with-martin-hinshelwood-[mktng]
 - /resources/bvCU_N6iY_4
+aliasesFor404:
+- /resources/videos/business-agility-raw!-ask-me-anything-lean-coffee-with-martin-hinshelwood-[mktng]
+- /resources/business-agility-raw!-ask-me-anything-lean-coffee-with-martin-hinshelwood-[mktng]
 preview: https://i.ytimg.com/vi/bvCU_N6iY_4/maxresdefault.jpg
 duration: 21
 isShort: true

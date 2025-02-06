@@ -3,7 +3,7 @@ title: 'NKD Agility: Your partner in developing engineering excellence'
 description: Discover how performance engineering enhances user experience! Join Martin Hinshelwood as he shares strategies for optimising software in production.
 date: 2024-11-23T07:00:12Z
 ResourceId: DSIXtHZTirA
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: DSIXtHZTirA
@@ -16,6 +16,9 @@ aliases:
 - /resources/videos/performance-engineering-for-optimal-user-experience
 - /resources/performance-engineering-for-optimal-user-experience
 - /resources/DSIXtHZTirA
+aliasesFor404:
+- /resources/videos/performance-engineering-for-optimal-user-experience
+- /resources/performance-engineering-for-optimal-user-experience
 preview: https://i.ytimg.com/vi/DSIXtHZTirA/maxresdefault.jpg
 duration: 704
 isShort: false

@@ -3,7 +3,7 @@ title: What are some of the most common misconceptions you encounter about the S
 description: "Uncover the truth about the Scrum Master role! Join me as I debunk common misconceptions and highlight the importance of competence over mere practices. \U0001F331\U0001F680"
 date: 2024-10-25T07:02:17Z
 ResourceId: Cia3d_y9akQ
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Cia3d_y9akQ
@@ -16,6 +16,9 @@ aliases:
 - /resources/videos/what-are-some-of-the-most-common-misconceptions-you-encounter-about-the-scrum-master-role-
 - /resources/what-are-some-of-the-most-common-misconceptions-you-encounter-about-the-scrum-master-role-
 - /resources/Cia3d_y9akQ
+aliasesFor404:
+- /resources/videos/what-are-some-of-the-most-common-misconceptions-you-encounter-about-the-scrum-master-role-
+- /resources/what-are-some-of-the-most-common-misconceptions-you-encounter-about-the-scrum-master-role-
 preview: https://i.ytimg.com/vi/Cia3d_y9akQ/maxresdefault.jpg
 duration: 639
 isShort: false

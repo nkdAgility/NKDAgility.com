@@ -3,7 +3,7 @@ title: Continuous Delivery Without Compromise - Why Best Practices Don’t Exist
 description: Discover why there are no best practices in complex systems. Learn adaptable strategies for continuous delivery that ensure quality and user trust.
 date: 2025-01-23T06:30:03Z
 ResourceId: 5J8RLcOAE3E
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 5J8RLcOAE3E
@@ -17,6 +17,9 @@ aliases:
 - /resources/videos/continuous-delivery-without-compromise-why-best-practices-don’t-exist-in-complex-systems
 - /resources/continuous-delivery-without-compromise-why-best-practices-don’t-exist-in-complex-systems
 - /resources/5J8RLcOAE3E
+aliasesFor404:
+- /resources/videos/continuous-delivery-without-compromise-why-best-practices-don’t-exist-in-complex-systems
+- /resources/continuous-delivery-without-compromise-why-best-practices-don’t-exist-in-complex-systems
 preview: https://i.ytimg.com/vi/5J8RLcOAE3E/maxresdefault.jpg
 duration: 891
 isShort: false

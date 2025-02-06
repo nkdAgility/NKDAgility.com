@@ -3,7 +3,7 @@ title: 'Hiring an Agile Coach: What to Look For in Both Technical and Leadership
 description: 'Discover 5 essential tips for hiring an #AgileCoach with Martin Hinshelwood in this insightful #shorts video. Make informed decisions for your team!'
 date: 2023-11-21T11:00:08Z
 ResourceId: 9z9BgSi2zeA
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 9z9BgSi2zeA
@@ -20,6 +20,10 @@ aliases:
 - /resources/videos/9z9BgSi2zeA
 - /resources/5-things-to-consider-before-hiring-an-agilecoach-part-2
 - /resources/9z9BgSi2zeA
+aliasesFor404:
+- /resources/hiring-an-agile-coach-what-to-look-for-in-both-technical-and-leadership-engagement
+- /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-2
+- /resources/5-things-to-consider-before-hiring-an-agilecoach-part-2
 sitemap:
   filename: sitemap.xml
   priority: 0.6

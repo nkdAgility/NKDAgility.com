@@ -3,7 +3,7 @@ title: Free Workshop 09 - How to run a Daily Scrum
 description: Join our free interactive workshop to master the Daily Scrum! Learn its purpose and how to run it effectively. Don't miss out!
 date: 2021-11-26T07:11:33Z
 ResourceId: 2A2OCRXZ20I
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 2A2OCRXZ20I
@@ -17,6 +17,9 @@ aliases:
 - /resources/videos/free-workshop-09-how-to-run-a-daily-scrum
 - /resources/free-workshop-09-how-to-run-a-daily-scrum
 - /resources/2A2OCRXZ20I
+aliasesFor404:
+- /resources/videos/free-workshop-09-how-to-run-a-daily-scrum
+- /resources/free-workshop-09-how-to-run-a-daily-scrum
 preview: https://i.ytimg.com/vi/2A2OCRXZ20I/maxresdefault.jpg
 duration: 5694
 isShort: false
