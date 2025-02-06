@@ -14,10 +14,6 @@ resourceTypes: blog
 slug: no-such-thing-as-a-junior-scrum-master
 aliases:
   - /resources/f2RQh2UCwqB
-  - /no-such-thing-as-a-junior-scrum-master
-  - /blog/no-such-thing-as-a-junior-scrum-master
-  - /there-is-no-such-thing-as-a--junior--scrum-master
-  - /blog/there-is-no-such-thing-as-a--junior--scrum-master
 aliasesFor404:
   - /no-such-thing-as-a-junior-scrum-master
   - /blog/no-such-thing-as-a-junior-scrum-master

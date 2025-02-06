@@ -2,7 +2,7 @@
 title: No Estimates and is it advisable for a Scrum Team to adopt it?
 description: Explore the pros and cons of adopting No Estimates for Scrum Teams. Discover how to optimize your workflow and enhance team communication effectively.
 ResourceId: Lv1CLfk5cPM
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 39684
 ResourceImportSource: Wordpress
