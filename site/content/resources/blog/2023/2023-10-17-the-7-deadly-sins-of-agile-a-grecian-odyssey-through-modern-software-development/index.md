@@ -27,7 +27,16 @@ aliasesFor404:
 - /blog/the-7-deadly-sins-of-agile--a-grecian-odyssey-through-modern-software-development
 - /resources/blog/the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
 tags:
-- homepage
+- Agile Coaching
+- Agile Transformation
+- Team Collaboration
+- Change Management
+- Agile Values and Principles
+- Continuous Improvement
+- Organisational Culture
+- Agile Software Development
+- Agile Leadership
+- Agile Methodology
 categories:
 - Organisational Agility
 - People and Process

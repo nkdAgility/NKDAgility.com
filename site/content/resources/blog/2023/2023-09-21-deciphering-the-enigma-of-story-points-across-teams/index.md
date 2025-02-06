@@ -23,8 +23,16 @@ aliasesFor404:
 - /blog/deciphering-the-enigma-of-story-points-across-teams
 - /resources/blog/deciphering-the-enigma-of-story-points-across-teams
 tags:
-- featured
-- homepage
+- Agile Planning
+- Evidence Based Management
+- Value Delivery
+- Team Collaboration
+- Agile Product Management
+- Agile Estimation
+- Throughput
+- Agile Coaching
+- Agile Product Discovery
+- Continuous Improvement
 categories:
 - Value Delivery
 - Metrics and Learning

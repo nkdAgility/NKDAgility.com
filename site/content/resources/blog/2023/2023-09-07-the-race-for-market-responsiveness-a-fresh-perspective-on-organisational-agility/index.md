@@ -27,11 +27,16 @@ aliasesFor404:
 - /blog/the-race-for-market-responsiveness--a-fresh-perspective-on-organisational-agility
 - /resources/blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
 tags:
-- betacodex
-- featured
-- homepage
-- organisational-physics
-- organisational-transformational-mastery
+- Business Agility
+- Organisational Agility
+- Change Management
+- Agile Strategy
+- Market Adaptability
+- Organisational Transformational Mastery
+- Agile Transformation
+- Agile Leadership
+- Systems Thinking
+- Agile Methodology
 categories:
 - Organisational Agility
 - Market Adaptability

@@ -120,7 +120,8 @@ $CatalogTags = @{
     "Azure Boards"                            = "Using Azure Boards for agile planning, backlog management, and team collaboration.";
     "Azure Repos"                             = "Managing source control with Azure Repos for modern software development.";
     "Azure Pipelines"                         = "Automating builds, tests, and deployments with Azure Pipelines.";
-    "CI/CD"                                   = "Continuous Integration and Continuous Delivery for faster, reliable software releases.";
+    "Continuos Integration"                   = "Continuous Integration for faster, reliable software releases.";
+    "Continuos Delivery"                      = "Continuous Delivery for faster, reliable software releases.";
     "Test Automation"                         = "Automating software testing to improve quality and accelerate feedback loops.";
     "Test Strategy"                           = "Defining a structured approach to testing for high-quality, maintainable software.";
     "Site Reliability Engineering"            = "Applying software engineering principles to ensure scalable and reliable systems.";
@@ -269,4 +270,4 @@ function Create-MarkdownFilesForCatalog {
 }
 
 #Create-MarkdownFilesForCatalog -catalog $CatalogCategories -OutputDirectory "site\content\categories"
-Create-MarkdownFilesForCatalog -catalog $CatalogTags -OutputDirectory "site\content\tags\"
+# Create-MarkdownFilesForCatalog -catalog $CatalogTags -OutputDirectory "site\content\tags\"

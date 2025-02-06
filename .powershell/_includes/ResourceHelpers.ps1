@@ -38,15 +38,17 @@ function Get-UpdatedCategories {
         [hashtable]$CatalogCategories,
         [string]$ResourceContent,
         [string]$ResourceTitle,
-        [string]$ResourceYear
+        [string]$ResourceYear,
+        [int]$MaxCategories = 5,
+        [int]$MinCategories = 1,
+        [int]$ResourceYearLimit = 2014
     )
 
     # Convert the category catalog into a formatted string
     $catalogString = ($CatalogCategories.GetEnumerator() | ForEach-Object { "`"$($_.Key)`": $($_.Value)" }) -join "`n"
 
-    $maxCategories = 5
-    If ($ResourceYear -lt 2014) {
-        $maxCategories = 1
+    If ($ResourceYear -lt $ResourceYearLimit) {
+        $maxCategories = $MinCategories
     }
 
     # Construct a prompt for OpenAI

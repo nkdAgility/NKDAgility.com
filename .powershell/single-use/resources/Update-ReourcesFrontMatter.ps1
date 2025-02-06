@@ -4,7 +4,7 @@
 . ./.powershell/_includes/ResourceHelpers.ps1
 
 # Iterate through each blog folder and update markdown files
-$outputDir = ".\site\content\resources\blog\"
+$outputDir = ".\site\content\resources\blog\2025"
 
 # Get list of directories and select the first 10
 $resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md" #| Select-Object -First 10
@@ -122,7 +122,7 @@ $resources | ForEach-Object {
             Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliasesFor404' -values $404aliases -addAfter 'aliases'
         }
 
-        #================Catsagories==========================
+        #================Catsagories & TAGS==========================
         . ./.powershell/single-use/resources/Update-Catagories.ps1
         $unknownCategories = @();
         if ($hugoMarkdown.FrontMatter.Contains("categories")) {
@@ -130,9 +130,20 @@ $resources | ForEach-Object {
         }       
         If ($unknownCategories.Count -gt 0) {
             $year = [datetime]::Parse($hugoMarkdown.FrontMatter.date).Year
-            $newCatagories = Get-UpdatedCategories -CurrentCategories $hugoMarkdown.FrontMatter.categories -CatalogCategories $CatalogCategories -ResourceContent $hugoMarkdown.BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -ResourceYear $year
+            $newCatagories = Get-UpdatedCategories -CurrentCategories $hugoMarkdown.FrontMatter.categories -Catalog $CatalogCategories -ResourceContent $hugoMarkdown.BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -ResourceYear $year
             Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values $newCatagories -Overwrite
         } 
+
+        $unknownTags = @();
+        if ($hugoMarkdown.FrontMatter.Contains("tags")) {
+            $unknownTags = $hugoMarkdown.FrontMatter.tags | Where-Object { -not $CatalogTags.ContainsKey($_) }
+        }       
+        #If ($unknownTags.Count -gt 0 || $hugoMarkdown.FrontMatter.tags.Count -eq 0) {
+        $year = [datetime]::Parse($hugoMarkdown.FrontMatter.date).Year
+        $newtags = Get-UpdatedCategories -CurrentCategories $hugoMarkdown.FrontMatter.tags -Catalog $CatalogTags -ResourceContent $hugoMarkdown.BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -ResourceYear $year -MaxCategories 10 -MinCategories 5 
+        Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values $newtags -Overwrite
+        # } 
+        
         # =================COMPLETE===================
         Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $markdownFile
     }

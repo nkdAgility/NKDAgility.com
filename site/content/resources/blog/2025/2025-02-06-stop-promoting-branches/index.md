@@ -21,12 +21,12 @@ aliasesFor404:
 - /stop-promoting-branches
 - /blog/stop-promoting-branches
 tags:
-- branching-strategies
-- devops
-- branch-by-environment
-- git-flow
-- github-flow
-- release-flow
+- deployment-frequency
+- continuous-delivery
+- agile-software-development
+- value-delivery
+- organisational-agility
+- technical-excellence
 categories:
 - Code and Complexity
 - Organisational Agility

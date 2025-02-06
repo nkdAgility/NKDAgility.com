@@ -23,8 +23,16 @@ aliasesFor404:
 - /blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
 - /resources/blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
 tags:
-- featured
-- homepage
+- Frequent Releases
+- Customer Feedback Loops
+- Agile Product Management
+- Agile Software Development
+- Continuous Improvement
+- Lean Thinking
+- Agile Product Discovery
+- Agile Coaching
+- Agile Values and Principles
+- Working Software
 categories:
 - Value Delivery
 - Product Delivery

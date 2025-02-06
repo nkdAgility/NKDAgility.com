@@ -27,10 +27,14 @@ aliasesFor404:
 - /delivery-is-the-only-measure-of-progress-in-scrum
 - /blog/delivery-is-the-only-measure-of-progress-in-scrum
 tags:
-- Delivery
-- Accountability
-- Scrum
-- Done
+- Deployment Frequency
+- Continuous Delivery
+- Agile Software Development
+- Value Delivery
+- Customer Feedback Loops
+- Agile Product Management
+- Definition of Done
+- Agile Transformation
 categories:
 - Scrum
 - DevOps

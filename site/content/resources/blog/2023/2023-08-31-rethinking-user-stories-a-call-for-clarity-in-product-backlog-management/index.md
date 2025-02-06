@@ -27,11 +27,14 @@ aliasesFor404:
 - /blog/rethinking-'user-stories'--a-call-for-clarity-in-product-backlog-management
 - /resources/blog/rethinking-user-stories-a-call-for-clarity-in-product-backlog-management
 tags:
-- featured
-- homepage
-- product-backlog-item
-- product-backlog-management
-- user-stories
+- agile-product-management
+- agile-planning
+- agile-software-development
+- agile-coaching
+- agile-product-discovery
+- transparency
+- agile-values-and-principles
+- organisational-agility
 categories:
 - Agile Product Management
 - Discovery and Learning
