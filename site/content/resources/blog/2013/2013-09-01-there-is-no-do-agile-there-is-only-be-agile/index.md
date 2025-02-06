@@ -26,9 +26,8 @@ aliasesFor404:
 - /blog/there-is-no--do-agile--there-is-only--be-agile-
 - /resources/blog/there-is-no-do-agile-there-is-only-be-agile
 tags:
-- agile
-- lean
-- scrum
+- Agile Coaching
+- Organisational Change
 categories:
 - Organisational Agility
 - People and Process

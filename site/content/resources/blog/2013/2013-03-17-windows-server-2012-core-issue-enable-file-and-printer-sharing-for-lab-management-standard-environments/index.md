@@ -26,13 +26,8 @@ aliasesFor404:
 - /blog/lab-management-issue--enable-file-and-printer-sharing-for-lab-management-standard-environments
 - /resources/blog/windows-server-2012-core-issue-enable-file-and-printer-sharing-for-lab-management-standard-environments
 tags:
-- configuration
-- core
-- infrastructure
-- tfs
-- tfs2012-2
-- tools
-- windows-server
+- Technical Excellence
+- Continuous Delivery
 categories:
 - Install and Configuration
 preview: puzzle-issue-problem-128-link-6-6.png

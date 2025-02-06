@@ -32,6 +32,9 @@ aliasesFor404:
 categories:
 - News and Reviews
 preview: nakedalm-logo-128-link-5-1.png
+tags:
+- Customer Satisfaction
+- Agile Software Development
 
 ---
 I have been a cable customer in the UK since day one when it was Cable & Wireless.

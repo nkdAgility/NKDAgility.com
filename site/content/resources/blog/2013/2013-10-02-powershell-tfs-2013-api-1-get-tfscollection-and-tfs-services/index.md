@@ -28,13 +28,8 @@ aliasesFor404:
 - /powershell-tfs-2013-api--1
 - /resources/blog/powershell-tfs-2013-api-1-get-tfscollection-and-tfs-services
 tags:
-- powershell
-- processconfiguration
-- projectmanagement
-- tfs
-- tfs-2013
-- versioncontrol
-- workitemtracking
+- Agile Software Development
+- Azure DevOps
 categories:
 - Azure DevOps
 preview: metro-powershell-logo-1-1.png

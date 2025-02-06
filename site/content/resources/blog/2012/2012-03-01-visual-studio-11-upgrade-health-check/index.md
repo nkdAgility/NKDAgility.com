@@ -22,13 +22,8 @@ aliasesFor404:
 - /blog/visual-studio-11-upgrade-health-check
 - /resources/blog/visual-studio-11-upgrade-health-check
 tags:
-- configuration
-- infrastructure
-- nwcadence
-- tfs2012
-- tools
-- visual-studio
-- vs2012
+- Agile Tools
+- Change Management
 categories:
 - Application Lifecycle Management
 - Azure DevOps

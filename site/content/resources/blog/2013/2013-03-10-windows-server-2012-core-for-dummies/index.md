@@ -22,11 +22,8 @@ aliasesFor404:
 - /blog/windows-server-2012-core-for-dummies
 - /resources/blog/windows-server-2012-core-for-dummies
 tags:
-- configuration
-- core
-- infrastructure
-- tools
-- windows-server
+- Agile Software Development
+- Technical Excellence
 categories:
 - Install and Configuration
 preview: metro-server-instances-7-7.png

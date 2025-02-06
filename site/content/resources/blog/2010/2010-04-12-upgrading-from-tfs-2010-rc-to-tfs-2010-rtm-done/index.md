@@ -22,19 +22,8 @@ aliasesFor404:
 - /blog/upgrading-from-tfs-2010-rc-to-tfs-2010-rtm-done
 - /resources/blog/upgrading-from-tfs-2010-rc-to-tfs-2010-rtm-done
 tags:
-- codeproject
-- sharepoint
-- spf2010
-- ssw
-- tfs-build
-- tfs
-- tfs2008
-- tfs2010
-- tools
-- upgrade
-- visual-studio
-- vs2005
-- vs2010
+- Deployment Strategies
+- Continuous Delivery
 preview: metro-visual-studio-2010-128-link-36-36.png
 categories:
 - Install and Configuration

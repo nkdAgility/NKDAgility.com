@@ -25,6 +25,9 @@ tags:
 - Technical Excellence
 - Agile Software Development
 preview: nakedalm-logo-128-link-1-1.png
+categories:
+- Code and Complexity
+- Application Lifecycle Management
 
 ---
 I need a little bit of code to get the last processed date for the cube that my site connects to:

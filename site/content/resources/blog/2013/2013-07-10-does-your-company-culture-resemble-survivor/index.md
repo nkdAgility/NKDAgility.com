@@ -26,13 +26,8 @@ aliasesFor404:
 - /blog/does-your-company-culture-resemble-survivor-
 - /resources/blog/does-your-company-culture-resemble-survivor
 tags:
-- company-culture
-- development-team
-- improve
-- people
-- strategic
-- team
-- teams
+- Organisational Culture
+- Team Collaboration
 categories:
 - People and Process
 - Organisational Agility

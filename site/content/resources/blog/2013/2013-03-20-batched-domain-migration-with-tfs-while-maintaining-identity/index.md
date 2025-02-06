@@ -22,14 +22,8 @@ aliasesFor404:
 - /blog/batched-domain-migration-with-tfs-while-maintaining-identity
 - /resources/blog/batched-domain-migration-with-tfs-while-maintaining-identity
 tags:
-- active-directory
-- configuration
-- infrastructure
-- operational
-- tactical
-- tfs
-- tfs2012-2
-- tools
+- Change Management
+- Technical Debt
 categories:
 - Application Lifecycle Management
 preview: nakedalm-experts-visual-studio-alm-5-5.png

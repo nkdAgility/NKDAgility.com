@@ -28,10 +28,8 @@ aliasesFor404:
 - /tfs-2012
 - /resources/blog/tfs-2012-issue-stuck-builds-in-team-foundation-build-with-no-build-number
 tags:
-- puzzles
-- tfs-build
-- tfs
-- tfs2012
+- Agile Software Development
+- Continuous Delivery
 categories:
 - Azure DevOps
 preview: metro-problem-icon-7-7.png

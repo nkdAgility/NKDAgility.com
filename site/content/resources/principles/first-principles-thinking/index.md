@@ -25,16 +25,13 @@ categories:
 - Systems Thinking
 - Decision Theory
 tags:
-- Agile Values and Principles
-- Systems Thinking
-- Decision Theory
-- Evidence Based Management
-- Continuous Improvement
-- Agile Strategy
-- Strategic Goals
-- Lean Thinking
-- Agile Product Discovery
-- Complex Systems
+- Agile Methodology
+- Agile Leadership
+- Team Collaboration
+- Change Management
+- Organisational Agility
+- Agile Transformation
+- Value Delivery
 
 ---
 Coming soon!

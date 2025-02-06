@@ -22,9 +22,8 @@ aliasesFor404:
 - /blog/the-search-for-a-single-point-of-truth
 - /resources/blog/the-search-for-a-single-point-of-truth
 tags:
-- linkedin
-- off-topic
-- tools
+- Value Stream Management
+- Customer Feedback Loops
 categories:
 - People and Process
 preview: nakedalm-logo-128-link-19-19.png

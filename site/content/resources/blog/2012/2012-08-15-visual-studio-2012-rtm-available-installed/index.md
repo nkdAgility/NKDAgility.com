@@ -26,15 +26,8 @@ aliasesFor404:
 - /blog/visual-studio-2012-rtm-available-&-installed
 - /resources/blog/visual-studio-2012-rtm-available-installed
 tags:
-- configuration
-- develop
-- nwcadence
-- tfs
-- tfs2012
-- tools
-- upgrade
-- visual-studio
-- vs2012
+- Agile Software Development
+- Continuous Delivery
 categories:
 - Install and Configuration
 - Azure DevOps

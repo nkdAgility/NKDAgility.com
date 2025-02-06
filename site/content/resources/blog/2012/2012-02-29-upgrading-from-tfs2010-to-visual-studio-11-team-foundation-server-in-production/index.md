@@ -26,14 +26,8 @@ aliasesFor404:
 - /blog/upgrading-from-tfs2010-to-visual-studio-2012-team-foundation-server-in-production
 - /resources/blog/upgrading-from-tfs2010-to-visual-studio-11-team-foundation-server-in-production
 tags:
-- configuration
-- infrastructure
-- nwcadence
-- tfs
-- tfs2012
-- tools
-- visual-studio
-- vs2012
+- Deployment Strategies
+- Continuous Delivery
 categories:
 - Install and Configuration
 

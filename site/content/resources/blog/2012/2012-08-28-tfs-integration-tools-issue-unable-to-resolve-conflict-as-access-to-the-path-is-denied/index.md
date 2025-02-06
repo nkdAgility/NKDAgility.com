@@ -28,9 +28,8 @@ aliasesFor404:
 - /tfs-integration-tools
 - /resources/blog/tfs-integration-tools-issue-unable-to-resolve-conflict-as-access-to-the-path-is-denied
 tags:
-- puzzles
-- tfs
-- tfs-integration-platform
+- Technical Excellence
+- Agile Software Development
 categories:
 - Install and Configuration
 preview: metro-problem-icon-4-4.png

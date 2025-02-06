@@ -26,23 +26,8 @@ aliasesFor404:
 - /blog/guidance--how-to-layout-you-files-for-an-ideal-solution
 - /resources/blog/guidance-how-to-layout-you-files-for-an-ideal-solution
 tags:
-- code
-- codeproject
-- configuration
-- develop
-- infrastructure
-- practices
-- scrum
-- ssw
-- tfs-build
-- tfs
-- tfs2005
-- tfs2008
-- tfs2010
-- tools
-- visual-studio
-- vs2008
-- vs2010
+- Modern Source Control
+- Agile Software Development
 categories:
 - Azure DevOps
 preview: metro-visual-studio-2010-128-link-11-11.png

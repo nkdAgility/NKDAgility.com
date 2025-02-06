@@ -29,6 +29,9 @@ tags:
 - Technical Excellence
 - Agile Software Development
 preview: nakedalm-windows-logo-7-7.png
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
 
 ---
 After installing Windows 8 I tried to do a couple of things that I normally do to set up my computer.

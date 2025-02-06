@@ -26,12 +26,8 @@ aliasesFor404:
 - /blog/tfs-vs--subversion-fact-check
 - /resources/blog/tfs-vs-subversion-fact-check
 tags:
-- codeproject
-- nwcadence
-- svn
-- tfs
-- tfs2010
-- tools
+- Modern Source Control
+- Agile Software Development
 categories:
 - Azure DevOps
 - Install and Configuration

@@ -30,14 +30,8 @@ aliasesFor404:
 - /blog/deploy-from-visual-studio-2012-to-ios--windows-phone--android-and-windows
 - /resources/blog/deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows
 tags:
-- configuration
-- develop
-- tfs
-- tfs2010
-- tools
-- visual-studio
-- vs2010
-- vsip
+- Application Lifecycle Management
+- Agile Software Development
 categories:
 - Application Lifecycle Management
 preview: nakedalm-experts-visual-studio-alm-5-5.png

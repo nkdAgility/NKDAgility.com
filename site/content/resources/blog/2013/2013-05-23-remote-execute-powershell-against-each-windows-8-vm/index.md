@@ -22,12 +22,8 @@ aliasesFor404:
 - /blog/remote-execute-powershell-against-each-windows-8-vm
 - /resources/blog/remote-execute-powershell-against-each-windows-8-vm
 tags:
-- code
-- hyper-v
-- powershell
-- remote-execute
-- virtual-machines
-- vm
+- Agile Software Development
+- DevOps
 categories:
 - Install and Configuration
 - Code and Complexity

@@ -26,8 +26,8 @@ aliasesFor404:
 - /blog/finding-features--calendar-preview
 - /resources/blog/finding-features-calendar-preview
 tags:
-- office
-- tools
+- Product Discovery
+- Customer Satisfaction
 categories:
 - Discovery and Learning
 preview: nakedalm-logo-128-link-2-2.png

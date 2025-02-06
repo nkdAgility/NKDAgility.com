@@ -28,9 +28,8 @@ aliasesFor404:
 - /tfs-integration-tools
 - /resources/blog/tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
 tags:
-- puzzles
-- tfs2012
-- tfs-integration-platform
+- Agile Tools
+- Azure DevOps
 categories:
 - Install and Configuration
 preview: metro-problem-icon-2-2.png

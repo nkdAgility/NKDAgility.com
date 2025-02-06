@@ -16,21 +16,7 @@ slug: agile-alchemy
 aliases:
 - /resources/i2XYfDpX46l
 tags:
-- Transparency
-- Agile Coaching
-- Agile Values and Principles
-- Team Collaboration
-- Agile Community
-- Agile Leadership
-- Organisational Culture
-- Continuous Improvement
-- Evidence Based Management
-- Agile Software Development
-- Agile Transformation
-- Agile Methodology
-- Lean Thinking
-- Change Management
-- Communication
+- Agile Digital Tools
 
 ---
 ![](https://nkdagility.com/wp-content/uploads/2023/10/37154808-1680362242684-ab5e16c6c3e31-jpg.webp)

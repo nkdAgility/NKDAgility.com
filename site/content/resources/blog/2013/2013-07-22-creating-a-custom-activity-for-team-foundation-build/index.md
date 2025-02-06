@@ -22,12 +22,8 @@ aliasesFor404:
 - /blog/creating-a-custom-activity-for-team-foundation-build
 - /resources/blog/creating-a-custom-activity-for-team-foundation-build
 tags:
-- code
-- configuration
-- custom-activity
-- tfs-build
-- tools
-- workflow
+- Agile Software Development
+- Azure DevOps
 categories:
 - Azure DevOps
 - Install and Configuration

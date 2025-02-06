@@ -22,22 +22,10 @@ aliasesFor404:
 - /blog/scrum-for-team-foundation-server-2010
 - /resources/blog/scrum-for-team-foundation-server-2010
 tags:
-- configuration
-- define
-- develop
-- infrastructure
-- process
-- scrum
-- sharepoint
-- spf2010
-- ssw
-- tfs
-- tfs2010
-- tools
-- visual-studio
-- vs2010
+- Scrum Team
 categories:
-- azure-devops
+- Scrum
+- Application Lifecycle Management
 preview: metro-visual-studio-2010-128-link-2-1.png
 
 ---

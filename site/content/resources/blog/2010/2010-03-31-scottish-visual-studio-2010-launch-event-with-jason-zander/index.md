@@ -22,12 +22,8 @@ aliasesFor404:
 - /blog/scottish-visual-studio-2010-launch-event-with-jason-zander
 - /resources/blog/scottish-visual-studio-2010-launch-event-with-jason-zander
 tags:
-- tfs
-- tfs2010
-- tools
-- visual-studio
-- vs2010
-- wp7
+- Agile Software Development
+- Agile Product Management
 categories:
 - Application Lifecycle Management
 - Events and Presentations

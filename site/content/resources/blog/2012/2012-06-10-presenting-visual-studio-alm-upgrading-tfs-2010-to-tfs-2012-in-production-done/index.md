@@ -26,18 +26,8 @@ aliasesFor404:
 - /blog/presenting-visual-studio-alm-and-upgrading-tfs-2010-to-tfs-2012-in-production-–-done
 - /resources/blog/presenting-visual-studio-alm-upgrading-tfs-2010-to-tfs-2012-in-production-done
 tags:
-- configuration
-- infrastructure
-- modern-alm
-- practices
-- process
-- tfs
-- tfs2010
-- tfs2012
-- tools
-- visual-studio
-- vs2010
-- vs2012
+- Agile Software Development
+- Continuous Improvement
 categories:
 - Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-8-8.png

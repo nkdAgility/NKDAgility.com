@@ -26,10 +26,8 @@ aliasesFor404:
 - /blog/naked-alm--starting-with-why-and-getting-naked
 - /resources/blog/naked-alm-starting-with-why-and-getting-naked
 tags:
-- golden-circle
-- improve
-- measure
-- why
+- Application Lifecycle Management
+- Customer Satisfaction
 categories:
 - Application Lifecycle Management
 - People and Process

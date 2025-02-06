@@ -28,18 +28,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Team Collaboration
-- Customer Feedback Loops
-- Continuous Improvement
-- Agile Product Discovery
-- Value Delivery
-- Agile Values and Principles
-- Incremental Delivery
-- Business Agility
-- Agile Software Development
-- Agile Transformation
-- Agile Product Ownership
-- Evidence Based Management
+- Agile Project Management
+- Agile Product Development
+- Scrum Team
+- Lean Thinking
+- Agile Leadership
 resourceTypes:
 - video
 categories:

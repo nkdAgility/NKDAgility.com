@@ -22,18 +22,8 @@ aliasesFor404:
 - /blog/installing-tfs-2012-on-server-2012-with-sql-2012
 - /resources/blog/installing-tfs-2012-on-server-2012-with-sql-2012
 tags:
-- configuration
-- infrastructure
-- nwcadence
-- windows-server-2012
-- sql-server
-- sql-server-2012
-- tf400080
-- tfs2012
-- tools
-- visual-studio
-- vs2012
-- windows-server
+- Agile Software Development
+- Azure DevOps
 categories:
 - Install and Configuration
 - Azure DevOps

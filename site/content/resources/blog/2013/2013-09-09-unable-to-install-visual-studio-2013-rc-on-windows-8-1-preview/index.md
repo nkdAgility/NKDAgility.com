@@ -22,10 +22,8 @@ aliasesFor404:
 - /blog/unable-to-install-visual-studio-2013-rc-on-windows-8-1-preview
 - /resources/blog/unable-to-install-visual-studio-2013-rc-on-windows-8-1-preview
 tags:
-- tfs
-- tfs-2013
-- windows
-- windows-server
+- Technical Debt
+- Agile Software Development
 categories:
 - Install and Configuration
 - News and Reviews

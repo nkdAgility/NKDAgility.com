@@ -24,21 +24,8 @@ categories:
 - Value Delivery
 - Organisational Agility
 tags:
-- Immersion Programs
-- Scrum Product Management
-- Agile Product Ownership
-- Agile Product Discovery
-- Team Collaboration
-- Continuous Learning
-- Agile Community
-- Agile Transformation
-- Agile Values and Principles
-- Team Motivation
-- Professional Scrum
-- Agile Software Development
-- Evidence Based Improvement
-- Employee Engagement
-- Agile Leadership
+- Scrum Team
+- Value Delivery
 
 ---
 While all of our courses are centred around valuable learning outcomes achieved through experiential learning within a classroom environment, they are most often delivered as intense consecutive 2-day or 4-half-day experiences.

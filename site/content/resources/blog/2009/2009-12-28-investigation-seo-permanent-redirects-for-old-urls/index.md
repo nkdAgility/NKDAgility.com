@@ -26,11 +26,8 @@ aliasesFor404:
 - /blog/investigation---seo-permanent-redirects-for-old-url’s-
 - /resources/blog/investigation-seo-permanent-redirects-for-old-urls
 tags:
-- code
-- sharepoint
-- spf2010
-- ssw
-- tools
+- SEO Toolkit
+- URL Rewrite
 categories:
 - Install and Configuration
 preview: metro-sharepoint-128-link-4-4.png

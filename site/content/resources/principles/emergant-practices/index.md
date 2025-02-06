@@ -26,20 +26,7 @@ categories:
 - Organisational Agility
 - Complexity Thinking
 tags:
-- Emergent Practices
-- Agile Planning
-- Team Collaboration
-- Continuous Improvement
-- Discovery and Learning
-- Agile Evolution
-- Self Organisation
-- Organisational Agility
-- Agile Values and Principles
-- Complexity Thinking
-- Team Motivation
-- Change Management
-- Agile Community
-- Evidence Based Management
+- Systems Thinking
 
 ---
 Processes, practices and tools necessary will emerge as we do the work and help others do it

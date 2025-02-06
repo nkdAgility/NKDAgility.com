@@ -26,13 +26,8 @@ aliasesFor404:
 - /blog/tfs-2012-issue--get-workspace-already-exists-connecting-with-vs-2008-or-vs-2010
 - /resources/blog/tfs-2012-issue-get-workspace-already-exists-connecting-with-vs-2008-or-vs-2010
 tags:
-- kb
-- puzzles
-- tfs2012
-- tools
-- vs2008
-- vs2010
-- vs2012
+- Modern Source Control
+- Agile Software Development
 categories:
 - Install and Configuration
 - Azure DevOps

@@ -30,11 +30,12 @@ aliasesFor404:
 - /blog/microsoft--please-help-me-diagnose-tfs-administration-permission-issues-
 - /resources/blog/microsoft-please-help-me-diagnose-tfs-administration-permission-issues
 tags:
-- ssw
-- tfs
-- tfs2010
-- tools
+- Technical Excellence
+- Agile Software Development
 preview: metro-SSWLogo-128-link-1-1.png
+categories:
+- Install and Configuration
+- Azure DevOps
 
 ---
 I recently had a fun time trying to debug a permission issue I ran into using TFS 2010’s TfsConfig.

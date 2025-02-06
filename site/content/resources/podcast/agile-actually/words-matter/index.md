@@ -16,20 +16,7 @@ slug: words-matter
 aliases:
 - /resources/Z1FuzHOIZD5
 tags:
-- Transparency
-- Agile Values and Principles
-- Agile Coaching
-- Team Collaboration
-- Communication
-- Agile Community
-- Continuous Improvement
-- Evidence Based Management
-- Agile Leadership
-- Organisational Culture
-- Agile Software Development
-- Agile Transformation
-- Psychological Safety
-- Team Motivation
+- Discovery and Learning
 
 ---
 In this month's podcast, Simon Reindl and Martin Hinshelwood explore the importance of transparency, specifically relating to the words we use and the context within which we use those words. Precision matters. Accuracy matters. Saying what you mean and meaning what you say matters. Listen to this podcast for some great insights into why language matters in the #agile world.

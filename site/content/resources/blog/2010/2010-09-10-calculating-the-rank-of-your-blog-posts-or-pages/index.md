@@ -22,11 +22,8 @@ aliasesFor404:
 - /blog/calculating-the-rank-of-your-blog-posts-or-pages
 - /resources/blog/calculating-the-rank-of-your-blog-posts-or-pages
 tags:
-- code
-- codeproject
-- ssw
-- tools
-- wcf
+- Agile Product Management
+- Evidence Based Management
 categories:
 - Metrics and Learning
 preview: metro-binary-vb-128-link-11-11.png

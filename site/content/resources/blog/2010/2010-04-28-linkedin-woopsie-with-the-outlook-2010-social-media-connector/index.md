@@ -22,9 +22,8 @@ aliasesFor404:
 - /blog/linkedin-woopsie-with-the-outlook-2010-social-media-connector
 - /resources/blog/linkedin-woopsie-with-the-outlook-2010-social-media-connector
 tags:
-- fail
-- linkedin
-- outlook-2010
+- Customer Satisfaction
+- Agile Software Development
 categories:
 - News and Reviews
 preview: nakedalm-logo-128-link-4-4.png

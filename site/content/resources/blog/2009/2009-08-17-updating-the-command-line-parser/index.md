@@ -22,12 +22,11 @@ aliasesFor404:
 - /blog/updating-the-command-line-parser
 - /resources/blog/updating-the-command-line-parser
 tags:
-- code
-- codeproject
-- tools
+- Agile Software Development
+- Technical Excellence
 categories:
-- code-and-complexity
-- me
+- Code and Complexity
+- Practical Techniques and Tooling
 preview: metro-binary-vb-128-link-2-1.png
 
 ---

@@ -18,20 +18,8 @@ slug: power-politics-communicating-and-building-political-capital-for-agile-tran
 aliases:
 - /resources/2RYiDJ9l8wh
 tags:
-- Transparency
-- Agile Coaching
-- Agile Leadership
-- Organisational Change
-- Change Management
-- Team Collaboration
-- Agile Strategy
-- Agile Values and Principles
-- Communication
-- Agile Transformation
-- Business Agility
-- Employee Engagement
-- Psychological Safety
-- Continuous Improvement
+- Agile Product Management
+- Systems Thinking
 
 ---
 ![](https://nkdagility.com/wp-content/uploads/2024/06/37154808-1717508586054-52b451df81ef9.jpg)

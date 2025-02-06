@@ -22,11 +22,12 @@ aliasesFor404:
 - /blog/fail-a-build-if-tests-fail
 - /resources/blog/fail-a-build-if-tests-fail
 tags:
-- tfs-build
-- tfs
-- tfs2008
-- tools
+- Automated Testing
+- Continuous Integration
 preview: metro-visual-studio-2005-128-link-1-1.png
+categories:
+- Technical Excellence
+- Azure DevOps
 
 ---
 It took me longer than I thought it would to find this, but is you are using TFS2008 and you want builds to fail if any of the tests fail then you can add the following to the tests properties group in your build project (TFSBuild.prof)

@@ -26,12 +26,12 @@ aliasesFor404:
 - /blog/ghost-build-controllers-in-team-foundation-server
 - /resources/blog/ghost-team-foundation-build-controllers
 tags:
-- ssw
-- tfs-build
-- tfs
-- tfs2010
-- tools
+- Agile Tools
+- Azure DevOps
 preview: metro-visual-studio-2010-128-link-4-4.png
+categories:
+- Azure DevOps
+- Install and Configuration
 
 ---
 Have you ever seen ghost build controllers in Team Foundation Server that you just can't seam to delete no matter what you do? Sometime there are builds left over in the system that were queued but never completed.

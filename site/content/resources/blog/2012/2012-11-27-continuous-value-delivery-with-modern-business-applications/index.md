@@ -22,19 +22,8 @@ aliasesFor404:
 - /blog/continuous-value-delivery-with-modern-business-applications
 - /resources/blog/continuous-value-delivery-with-modern-business-applications
 tags:
-- continious-value-delivery
-- define
-- develop
-- improve
-- infrastructure
-- measure
-- operate
-- people
-- practices
-- process
-- tfs2012
-- vs2012
-- vs-2012-1
+- Continuous Delivery
+- Deployment Frequency
 categories:
 - Value Delivery
 - People and Process

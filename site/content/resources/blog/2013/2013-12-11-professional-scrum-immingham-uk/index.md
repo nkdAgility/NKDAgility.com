@@ -30,9 +30,8 @@ aliasesFor404:
 - /blog/professional-scrum-in-immingham--uk
 - /resources/blog/professional-scrum-immingham-uk
 tags:
-- professioal-scrum
-- psf
-- scrum
+- Professional Scrum
+- Team Collaboration
 categories:
 - People and Process
 - Scrum

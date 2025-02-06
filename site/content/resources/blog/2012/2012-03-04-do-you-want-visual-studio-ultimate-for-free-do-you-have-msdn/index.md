@@ -26,14 +26,8 @@ aliasesFor404:
 - /blog/do-you-have-msdn-at-work--use-visual-studio-ultimate-for-free-at-home-
 - /resources/blog/do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn
 tags:
-- configuration
-- develop
-- msdn
-- nwcadence
-- tools
-- visual-studio
-- vs2010
-- vs2012
+- Software Developers
+- Technical Excellence
 categories:
 - Application Lifecycle Management
 preview: nakedalm-experts-visual-studio-alm-3-3.png

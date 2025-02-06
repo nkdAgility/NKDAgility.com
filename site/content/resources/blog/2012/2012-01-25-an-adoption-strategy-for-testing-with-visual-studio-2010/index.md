@@ -22,11 +22,8 @@ aliasesFor404:
 - /blog/an-adoption-strategy-for-testing-with-visual-studio-2010
 - /resources/blog/an-adoption-strategy-for-testing-with-visual-studio-2010
 tags:
-- mtm
-- nwcadence
-- practices
-- tfs
-- tfs2010
+- Agile Software Development
+- Team Collaboration
 categories:
 - Application Lifecycle Management
 - Practical Techniques and Tooling

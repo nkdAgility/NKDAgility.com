@@ -26,15 +26,8 @@ aliasesFor404:
 - /blog/teams-without-areas-using-a-team-field-in-tfs
 - /resources/blog/team-foundation-server-2012-teams-without-areas
 tags:
-- area-path
-- configuration
-- infrastructure
-- team-field
-- tf400512
-- tfs
-- tfs2012
-- tfs2012-1
-- tools
+- Agile Tools
+- Team Collaboration
 categories:
 - Application Lifecycle Management
 preview: nakedalm-experts-visual-studio-alm-16-16.png

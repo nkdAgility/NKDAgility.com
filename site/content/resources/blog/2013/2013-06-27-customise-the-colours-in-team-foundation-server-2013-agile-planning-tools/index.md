@@ -22,10 +22,8 @@ aliasesFor404:
 - /blog/customise-the-colours-in-team-foundation-server-2013-agile-planning-tools
 - /resources/blog/customise-the-colours-in-team-foundation-server-2013-agile-planning-tools
 tags:
-- agile-planning-tools
-- agile-portfolio-management
-- code
-- configuration
+- Agile Planning Tools
+- Agile Software Development
 categories:
 - Install and Configuration
 - Azure DevOps

@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/second-blogger-from-my-office
 - /resources/blog/second-blogger-from-my-office
 tags:
-- aggreko
+- Featured
+- Employee Engagement
 categories:
 - Discovery and Learning
 preview: metro-aggreko-128-link-1-1.png

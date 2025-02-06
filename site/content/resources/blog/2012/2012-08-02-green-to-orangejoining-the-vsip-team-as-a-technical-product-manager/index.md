@@ -26,9 +26,8 @@ aliasesFor404:
 - /blog/green-to-orange–joining-the-vsip-team-as-a-technical-product-manager
 - /resources/blog/green-to-orangejoining-the-vsip-team-as-a-technical-product-manager
 tags:
-- nwcadence
-- visual-studio
-- vsip
+- Agile Product Management
+- Technical Strategy
 categories:
 - Agile Product Management
 

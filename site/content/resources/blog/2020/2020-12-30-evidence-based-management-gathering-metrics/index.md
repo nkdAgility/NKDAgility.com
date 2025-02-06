@@ -27,21 +27,8 @@ aliasesFor404:
 - /blog/evidence-based-management--gathering-the-metrics
 - /resources/blog/evidence-based-management-gathering-metrics
 tags:
-- Evidence Based Management
-- Agile Product Management
-- Value Delivery
-- Customer Satisfaction
-- Ability to Innovate
-- Continuous Improvement
-- Revenue per Employee
-- Time-to-Market Metrics
-- Agile Scaling
-- Scrum Product Management
-- Technical Debt
-- Evidence Based Improvement
-- Agile Planning
-- Business Agility
-- Value Stream Management
+- Agile Strategy
+- Agile Software Development
 categories:
 - Scrum
 - Value Stream Management

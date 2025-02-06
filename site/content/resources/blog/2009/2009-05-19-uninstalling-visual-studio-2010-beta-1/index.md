@@ -22,12 +22,8 @@ aliasesFor404:
 - /blog/uninstalling-visual-studio-2010-beta-1
 - /resources/blog/uninstalling-visual-studio-2010-beta-1
 tags:
-- aggreko
-- code
-- tools
-- visual-studio
-- vs2008
-- vs2010
+- Agile Software Development
+- Technical Debt
 categories:
 - Install and Configuration
 preview: metro-visual-studio-2010-128-link-1-1.png

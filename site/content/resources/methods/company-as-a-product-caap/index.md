@@ -26,21 +26,10 @@ categories:
 - Discovery and Learning
 - Enterprise Agility
 tags:
-- Agile Product Management
-- Agile Product Discovery
-- Agile Strategy
-- Product Strategy
-- Business Agility
-- Organisational Agility
-- Agile Transformation
-- Lean Startup
-- Customer Satisfaction
-- Team Collaboration
-- Value Delivery
-- Agile Values and Principles
-- Continuous Improvement
-- Evidence Based Management
-- Entrepreneurial Thinking
+- Agile Leadership
+- Agile Methodology
+- Team Motivation
+- Change Management
 
 ---
 Description of Company as a Product (CaaP)

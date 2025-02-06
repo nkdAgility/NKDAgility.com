@@ -29,6 +29,9 @@ tags:
 - Continuous Integration
 - Automated Testing
 preview: metro-visual-studio-2010-128-link-6-6.png
+categories:
+- Application Lifecycle Management
+- Technical Excellence
 
 ---
 ![BuildIcon_Large](images/Doyouknowtheminimumbuildstocreate_CABD-BuildIcon_Large_-1-1.png)

@@ -29,6 +29,9 @@ tags:
 - Automated Testing
 - Test Driven Development
 preview: metro-visual-studio-2010-128-link-6-6.png
+categories:
+- Application Lifecycle Management
+- Technical Excellence
 
 ---
 Guess what. About 20 minutes after I fixed the build, Allan broke it again!

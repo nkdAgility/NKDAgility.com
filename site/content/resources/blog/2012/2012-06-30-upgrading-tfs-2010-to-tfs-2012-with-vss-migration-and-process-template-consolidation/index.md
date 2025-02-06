@@ -22,16 +22,8 @@ aliasesFor404:
 - /blog/upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation
 - /resources/blog/upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation
 tags:
-- configuration
-- infrastructure
-- tf54000
-- tf60014
-- tf60087
-- tfs
-- tfs2012
-- tools
-- visual-studio
-- vs2012
+- Agile Software Development
+- Agile Tools
 categories:
 - Install and Configuration
 - Azure DevOps

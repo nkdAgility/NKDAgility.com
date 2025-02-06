@@ -26,20 +26,7 @@ aliasesFor404:
 - /blog/guidance--a-branching-strategy-for-scrum-teams
 - /resources/blog/guidance-a-branching-strategy-for-scrum-teams
 tags:
-- codeproject
-- configuration
-- develop
-- infrastructure
-- practices
-- process
-- scrum
-- sharepoint
-- spf2010
-- ssw
-- tfs
-- tfs2010
-- visual-studio
-- vs2010
+- Definition of Done
 categories:
 - Scrum
 - Application Lifecycle Management

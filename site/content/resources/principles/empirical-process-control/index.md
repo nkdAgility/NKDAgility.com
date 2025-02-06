@@ -25,19 +25,7 @@ categories:
 - Transparency and Accountability
 - Value Delivery
 tags:
-- Empirical Process Control
-- Scrum
-- Transparency
-- Inspection
-- Adaptation
-- Scrum Team
-- Definition of Done
-- Continuous Improvement
-- Agile Values and Principles
-- Evidence Based Management
-- Agile Planning
-- Agile Product Management
-- Agile Software Development
+- Agile Methodology
 
 ---
 Empirical Process Control: Scrum is an empirical process that relies on transparency, inspection, and adaptation. It means that the Scrum team and stakeholders should be transparent about the work, inspect the progress regularly, and adapt the plan as necessary to achieve the desired outcomes.

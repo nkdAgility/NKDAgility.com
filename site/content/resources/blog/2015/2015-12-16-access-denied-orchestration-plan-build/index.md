@@ -26,20 +26,8 @@ aliasesFor404:
 - /blog/access-denied-for-orchestration-plan-on-build
 - /resources/blog/access-denied-orchestration-plan-build
 tags:
-- 'Access Denied: Project Collection Build Service'
-- Agile Tools
-- Continuous Integration
-- Technical Debt
-- Agile Software Development
-- DevOps
-- Evidence Based Management
-- Agile Project Management
-- Team Collaboration
-- Value Delivery
-- Technical Excellence
-- Azure DevOps
-- Agile Methodology
-- Organisational Change
+- Access denied for orchestration plan on Build
+- Agile Problem Solving
 categories:
 - Install and Configuration
 - Azure DevOps

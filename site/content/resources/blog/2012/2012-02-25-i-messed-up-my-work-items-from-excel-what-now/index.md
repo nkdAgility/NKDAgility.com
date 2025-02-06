@@ -26,16 +26,8 @@ aliasesFor404:
 - /blog/i-messed-up-my-work-items-from-excel--what-now-
 - /resources/blog/i-messed-up-my-work-items-from-excel-what-now
 tags:
-- configuration
-- define
-- excel
-- infrastructure
-- puzzles
-- tfs
-- tfs2010
-- tools
-- visual-studio
-- vs2010
+- Agile Tools
+- Change Management
 categories:
 - Practical Techniques and Tooling
 preview: metro-visual-studio-2010-128-link-4-4.png

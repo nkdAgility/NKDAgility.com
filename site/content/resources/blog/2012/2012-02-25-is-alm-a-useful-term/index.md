@@ -26,15 +26,8 @@ aliasesFor404:
 - /blog/is-alm-a-useful-term-
 - /resources/blog/is-alm-a-useful-term
 tags:
-- configuration
-- define
-- develop
-- infrastructure
-- modern-alm
-- operate
-- practices
-- process
-- tools
+- Application Lifecycle Management
+- Agile Software Development
 categories:
 - Application Lifecycle Management
 - People and Process

@@ -26,14 +26,11 @@ aliasesFor404:
 - /blog/i-spell-it-as-favourite-and-you-as-favorite
 - /resources/blog/powerpointissue-i-spell-it-as-favourite-and-you-as-favorite
 tags:
-- code
-- language
-- macro
-- powerpoint
-- visual-basic
+- Organisational Culture
+- Language and Communication
 categories:
-- code-and-complexity
-- me
+- People and Process
+- Practical Techniques and Tooling
 preview: metro-binary-vb-128-link-6-6.png
 
 ---

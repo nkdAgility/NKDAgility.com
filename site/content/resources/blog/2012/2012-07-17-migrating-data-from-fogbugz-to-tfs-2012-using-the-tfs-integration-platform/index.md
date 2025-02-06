@@ -22,12 +22,8 @@ aliasesFor404:
 - /blog/migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform
 - /resources/blog/migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform
 tags:
-- configuration
-- infrastructure
-- tfs
-- tfs2012
-- tfs-integration-platform
-- tools
+- Agile Software Development
+- Agile Tools
 categories:
 - Azure DevOps
 - Install and Configuration

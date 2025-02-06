@@ -22,11 +22,11 @@ aliasesFor404:
 - /blog/syncing-many-dynamics-ax-instances-to-a-single-tfs-2010-team-project
 - /resources/blog/syncing-many-dynamics-ax-instances-to-a-single-tfs-2010-team-project
 tags:
-- codeproject
-- modern-alm
-- tfs
-- tfs2010
-- tools
+- Agile Software Development
+- Modern Source Control
+categories:
+- Install and Configuration
+- Azure DevOps
 
 ---
 ![](images/c51bf204-d93f-4485-9873-88fd0e8f4659.png)I have been working with a customer who had been frustrated with the need to have new Team Project for every instance of AX that they use. In fact with 3 instances per customer and lots of customers it can very quickly get complicated and I wanted to see if there was a solution for them.  

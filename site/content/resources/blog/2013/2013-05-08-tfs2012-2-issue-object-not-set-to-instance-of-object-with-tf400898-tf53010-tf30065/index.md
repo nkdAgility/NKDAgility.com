@@ -32,13 +32,8 @@ aliasesFor404:
 - /tfs2012-2
 - /resources/blog/tfs2012-2-issue-object-not-set-to-instance-of-object-with-tf400898-tf53010-tf30065
 tags:
-- puzzles
-- tf30065
-- tf400898
-- tf51011
-- tf53010
-- tfs2012-2
-- tfs-2012-3
+- Technical Debt
+- Agile Software Development
 categories:
 - Azure DevOps
 preview: puzzle-issue-problem-128-link-4-4.png

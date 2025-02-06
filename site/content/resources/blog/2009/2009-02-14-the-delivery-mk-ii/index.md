@@ -22,7 +22,7 @@ aliasesFor404:
 - /blog/the-delivery-mk-ii
 - /resources/blog/the-delivery-mk-ii
 categories:
-- me
+- Personal
 preview: nakedalm-logo-128-link-4-1.png
 tags:
 - Featured

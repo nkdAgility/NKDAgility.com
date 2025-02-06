@@ -28,19 +28,8 @@ aliasesFor404:
 - /tfs-2012-update-1
 - /resources/blog/tfs-2012-update-1-tf255430-the-database-was-partially-upgraded-during-a-failed-upgrade
 tags:
-- configuration
-- infrastructure
-- tf246017
-- tf254027
-- tf255356
-- tf255375
-- tf255430
-- tf400670
-- tf400711
-- tfs
-- tfs2012
-- tfs2012-1
-- tools
+- Technical Debt
+- Change Management
 categories:
 - Azure DevOps
 - Install and Configuration

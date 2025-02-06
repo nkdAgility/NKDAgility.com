@@ -30,21 +30,9 @@ aliasesFor404:
 - /blog/i-do-continuous-deliver--why-should-i-sprint-
 - /resources/blog/continuous-deliver-sprint
 tags:
-- Scrum
-- Sprint Planning Workshop
-- Definition of Done
-- Software Increment
-- Continuous Delivery
-- Scrum Team
-- Daily Scrum
-- Sprint Review
-- Agile Planning
-- Agile Predictability
-- Team Collaboration
-- Creates Predictability
-- Empirical Process Control
-- Value Delivery
-- Customer Feedback Loops
+- Deployment Frequency
+- Agile Software Development
+- Scrum Product Management
 categories:
 - Product Delivery
 preview: Continous_Delivery_by_Jez_Humble_and_David_Farley-1-1.jpg

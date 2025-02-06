@@ -22,14 +22,12 @@ aliasesFor404:
 - /blog/log-elmah-errors-in-team-foundation-server
 - /resources/blog/log-elmah-errors-in-team-foundation-server
 tags:
-- aggreko
-- code
-- codeproject
-- tfs
-- tfs2010
-- tools
-- wit
+- Agile Tools
+- Azure DevOps
 preview: metro-binary-vb-128-link-1-1.png
+categories:
+- Azure DevOps
+- Application Lifecycle Management
 
 ---
 I am not sure if this is a good idea, but I was bored one day and decided to add a TFS Error Log provider for [Elmah](http://code.google.com/p/elmah/). There are 2 ways you can do this. You can create a new WorkItem type and log an error report for each of the errors or you can create one work item for each error type/title. To do this you can create a title that is the combination of error message and application name and then search TFS for an existing work item. If it exists then add the error to it, if it does not then create a work item for that instance. You can use any work item type, and the errors are added as [Elmah](http://code.google.com/p/elmah/) xml log files.

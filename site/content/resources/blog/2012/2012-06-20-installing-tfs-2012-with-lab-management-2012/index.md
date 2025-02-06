@@ -22,18 +22,8 @@ aliasesFor404:
 - /blog/installing-tfs-2012-with-lab-management-2012
 - /resources/blog/installing-tfs-2012-with-lab-management-2012
 tags:
-- configuration
-- infrastructure
-- modern-alm
-- tf22022
-- tf255484
-- tf259641
-- tfs
-- tfs2012
-- tfslab
-- tools
-- visual-studio
-- vs2012
+- Deployment Strategies
+- Agile Tools
 categories:
 - Install and Configuration
 - Azure DevOps

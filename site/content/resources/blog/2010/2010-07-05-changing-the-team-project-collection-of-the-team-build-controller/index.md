@@ -25,6 +25,9 @@ tags:
 - Application Lifecycle Management
 - DevOps
 preview: metro-SSWLogo-128-link-6-6.png
+categories:
+- Install and Configuration
+- Azure DevOps
 
 ---
 ![BuildIcon_Large](images/ab2235c2ab06_E4A0-BuildIcon_Large_-1-1.png)

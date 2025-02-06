@@ -22,24 +22,8 @@ aliasesFor404:
 - /blog/working-within-a-single-team-project-with-team-foundation-server-2012
 - /resources/blog/working-within-a-single-team-project-with-team-foundation-server-2012
 tags:
-- area-hierarchy
-- configuration
-- excel
-- improve
-- infrastructure
-- iteration-hierarchy
-- process
-- product
-- project
-- project-administrator
-- tactical
-- team-project
-- teams
-- tfs
-- tfs2012
-- tfvc
-- tools
-- wiql
+- Agile Project Management
+- Team Collaboration
 categories:
 - Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-5-5.png

@@ -30,14 +30,8 @@ aliasesFor404:
 - /blog/the-tfs-automation-platform-is-dead--long-live-the-tfplugable
 - /resources/blog/the-tfs-automation-platform-is-dead-long-live-the-tfplugable
 tags:
-- configuration
-- develop
-- infrastructure
-- operate
-- tfget
-- tfplugable
-- tfsap
-- tools
+- Deployment Frequency
+- Agile Tools
 categories:
 - Azure DevOps
 - Install and Configuration

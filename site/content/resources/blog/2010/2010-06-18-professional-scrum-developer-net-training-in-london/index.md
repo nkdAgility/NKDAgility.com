@@ -26,14 +26,8 @@ aliasesFor404:
 - /blog/professional-scrum-developer-(-net)-training-in-london
 - /resources/blog/professional-scrum-developer-net-training-in-london
 tags:
-- agile
-- events-and-presentations
-- process
-- proscrumdev
-- psd
-- scrum
-- ssw
-- tools
+- Scrum Product Development
+- Definition of Done
 categories:
 - Events and Presentations
 - Scrum

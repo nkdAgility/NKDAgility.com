@@ -31,6 +31,9 @@ tags:
 - Automated Testing
 - Agile Tools
 preview: metro-visual-studio-2010-128-link-1-1.png
+categories:
+- Application Lifecycle Management
+- Technical Excellence
 
 ---
 Intellitrace was built in response to the #1 and #2 demands from TFS 2008 customers: help us find bugs faster so we can fix them faster. As a configurable "flight data recorder" for all aspects of debug and test, it provides advanced and integrated logging so devs can locate and reproduce the bug exactly the way it occurred. Especially in Agile environments, regression testing needs can quickly spiral beyond available resources. Automated testing helps, but a large automated test suite can also impede rapid iterative development. Test Impact Analysis helps the team focus and prioritize by automatically identifying which tests are potentially affected by a pending change.

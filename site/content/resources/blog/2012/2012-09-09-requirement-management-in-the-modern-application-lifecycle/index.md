@@ -26,16 +26,8 @@ aliasesFor404:
 - /blog/requirement-management-in-the-modern-application-lifecycle-with-tfs
 - /resources/blog/requirement-management-in-the-modern-application-lifecycle
 tags:
-- define
-- infrastructure
-- modern-application-lifecycle
-- practices
-- process
-- tfs
-- tfs2012
-- the-new-normal
-- tools
-- wit
+- Application Lifecycle Management
+- Agile Tools
 categories:
 - Application Lifecycle Management
 preview: metro-requirements-icon-14-14.png

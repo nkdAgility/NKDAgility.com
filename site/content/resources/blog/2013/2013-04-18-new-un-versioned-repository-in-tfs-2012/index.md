@@ -22,12 +22,8 @@ aliasesFor404:
 - /blog/new-un-versioned-repository-in-tfs-2012
 - /resources/blog/new-un-versioned-repository-in-tfs-2012
 tags:
-- configuration
-- infrastructure
-- tactical
-- tfs
-- tfs2012-2
-- tools
+- Modern Source Control
+- Agile Tools
 categories:
 - Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-6-6.png

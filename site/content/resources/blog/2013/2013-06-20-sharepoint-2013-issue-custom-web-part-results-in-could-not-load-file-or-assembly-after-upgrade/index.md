@@ -28,10 +28,8 @@ aliasesFor404:
 - /sharepoint-2013-issue
 - /resources/blog/sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
 tags:
-- configuration
-- puzzles
-- sharepoint
-- sp2013
+- Agile Software Development
+- Technical Debt
 categories:
 - Install and Configuration
 - Application Lifecycle Management

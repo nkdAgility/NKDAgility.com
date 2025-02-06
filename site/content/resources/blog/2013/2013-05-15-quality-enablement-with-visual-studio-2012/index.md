@@ -22,13 +22,8 @@ aliasesFor404:
 - /blog/quality-enablement-with-visual-studio-2012
 - /resources/blog/quality-enablement-with-visual-studio-2012
 tags:
-- continious
-- develop
-- improve
-- practices
-- quality-enablement
-- strategic
-- tools
+- Continuous Delivery
+- Technical Excellence
 categories:
 - Application Lifecycle Management
 - Value Delivery

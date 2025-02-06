@@ -22,15 +22,8 @@ aliasesFor404:
 - /blog/upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2-x
 - /resources/blog/upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2-x
 tags:
-- code
-- configuration
-- infrastructure
-- operational
-- tactical
-- tfs
-- tfs2012
-- tools
-- upgrade
+- Scrum Product Management
+- Agile Tools
 categories:
 - Install and Configuration
 - Azure DevOps

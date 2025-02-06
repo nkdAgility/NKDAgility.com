@@ -35,12 +35,7 @@ card:
 aliases:
 - /resources/Rv0ZjvwYVy5
 categories:
-- Evidence-Based Management
-- Value Delivery
-- Metrics and Learning
-- Discovery and Learning
-- Organisational Agility
-- Value Stream Management
+- Decision Theory
 tags:
 - Evidence Based Management
 - Strategic Goals

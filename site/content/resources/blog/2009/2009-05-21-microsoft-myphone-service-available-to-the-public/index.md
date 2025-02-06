@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/microsoft-myphone-service-available-to-the-public
 - /resources/blog/microsoft-myphone-service-available-to-the-public
 tags:
-- windows-mobile-6
+- Digital Transformation
+- Customer Satisfaction
 categories:
 - News and Reviews
 preview: nakedalm-logo-128-link-2-2.png

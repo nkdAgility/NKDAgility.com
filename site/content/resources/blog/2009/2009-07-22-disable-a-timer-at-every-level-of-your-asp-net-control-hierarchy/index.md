@@ -22,13 +22,11 @@ aliasesFor404:
 - /blog/disable-a-timer-at-every-level-of-your-asp-net-control-hierarchy
 - /resources/blog/disable-a-timer-at-every-level-of-your-asp-net-control-hierarchy
 tags:
-- aggreko
-- code
-- codeproject
-- tools
-- web
+- Technical Excellence
+- Agile Software Development
 categories:
-- code-and-complexity
+- Code and Complexity
+- Technical Excellence
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

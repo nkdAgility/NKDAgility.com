@@ -26,11 +26,8 @@ aliasesFor404:
 - /blog/do-you-know-that-every-user-story-should-have-an-owner-
 - /resources/blog/do-you-know-that-every-user-story-should-have-an-owner
 tags:
-- define
-- develop
-- practices
-- ssw
-- user-stories
+- Product Owner
+- Definition of Done
 categories:
 - scrum
 preview: metro-SSWLogo-128-link-4-4.png

@@ -24,20 +24,11 @@ categories:
 - News and Reviews
 - Community
 tags:
-- Agile Community
-- Professional Scrum
-- Scrum Team
-- Scrum Master
-- Agile Product Management
-- Training
-- Agile Certification
-- Team Collaboration
-- Continuous Learning
-- Agile Product Discovery
-- Employee Engagement
-- Value Delivery
-- Agile Software Development
-- Agile Methodology
+- Continuous Improvement
+- Agile Planning
+- Community
+- Leadership Training
+- Agile Values and Principles
 
 ---
 \[caption id="attachment_48602" align="alignnone" width="800"\]![Seasons greetings and a happy new year for 2023](images/Copy-of-Gold-and-Black-Elegant-Holiday-Party-Instagram-Story-Banner-Landscape-800x400.jpg) Seasons greetings and a happy new year for 2023\[/caption\]

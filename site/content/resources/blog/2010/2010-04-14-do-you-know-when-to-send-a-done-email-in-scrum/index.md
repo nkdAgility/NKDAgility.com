@@ -26,13 +26,8 @@ aliasesFor404:
 - /blog/do-you-know-when-to-send-a-done-email-in-scrum-
 - /resources/blog/do-you-know-when-to-send-a-done-email-in-scrum
 tags:
-- configuration
-- infrastructure
-- practices
-- scrum
-- sharepoint
-- spf2010
-- ssw
+- Definition of Done
+- Scrum Team
 categories:
 - Scrum
 - People and Process

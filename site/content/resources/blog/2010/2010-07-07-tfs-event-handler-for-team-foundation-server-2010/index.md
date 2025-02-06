@@ -22,11 +22,8 @@ aliasesFor404:
 - /blog/tfs-event-handler-for-team-foundation-server-2010
 - /resources/blog/tfs-event-handler-for-team-foundation-server-2010
 tags:
-- code
-- tfs
-- tfs2010
-- tfs-event-handler
-- tools
+- Agile Tools
+- Agile Software Development
 categories:
 - Azure DevOps
 preview: metro-binary-vb-128-link-3-3.png

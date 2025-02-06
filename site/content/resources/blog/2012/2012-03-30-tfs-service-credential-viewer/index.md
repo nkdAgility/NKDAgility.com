@@ -22,13 +22,8 @@ aliasesFor404:
 - /blog/tfs-service-credential-viewer
 - /resources/blog/tfs-service-credential-viewer
 tags:
-- azure
-- code
-- configuration
-- infrastructure
-- tfs
-- tf-service
-- tools
+- Agile Tools
+- Azure DevOps
 categories:
 - Azure DevOps
 - Install and Configuration

@@ -33,6 +33,9 @@ tags:
 - Agile Software Development
 - Technical Excellence
 preview: metro-office-128-link-7-7.png
+categories:
+- Install and Configuration
+- Application Lifecycle Management
 
 ---
 At SSW we are extensive users of Dynamics CRM. I wanted to give Office 2010 a go, but I had to make sure that the Dynamics CRM plug-in, and my other plug-ins worked.

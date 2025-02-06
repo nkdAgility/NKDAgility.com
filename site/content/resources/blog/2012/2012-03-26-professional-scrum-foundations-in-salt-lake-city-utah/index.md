@@ -30,12 +30,8 @@ aliasesFor404:
 - /blog/professional-scrum-foundations-in-salt-lake-city--utah
 - /resources/blog/professional-scrum-foundations-in-salt-lake-city-utah
 tags:
-- agile
-- define
-- develop
-- process
-- psf
-- scrum
+- Professional Scrum
+- Scrum Team
 categories:
 - Events and Presentations
 - Scrum

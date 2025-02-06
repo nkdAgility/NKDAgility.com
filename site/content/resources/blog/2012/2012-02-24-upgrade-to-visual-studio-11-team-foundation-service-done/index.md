@@ -28,15 +28,8 @@ aliasesFor404:
 - /upgrade-to-visual-studio-11-team-foundation-service
 - /resources/blog/upgrade-to-visual-studio-11-team-foundation-service-done
 tags:
-- configuration
-- infrastructure
-- modern-alm
-- nwcadence
-- tfs
-- tfs2012
-- tools
-- visual-studio
-- vs2012
+- Agile Tools
+- Azure DevOps
 categories:
 - Azure DevOps
 

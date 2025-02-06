@@ -26,20 +26,8 @@ aliasesFor404:
 - /blog/solution--getting-silverlight-to-build-on-team-foundation-build-services-2010
 - /resources/blog/solution-getting-silverlight-to-build-on-team-foundation-build-services-2010
 tags:
-- automated-build
-- code
-- codeproject
-- scrum
-- sharepoint
-- silverlight
-- spf2010
-- ssw
-- tfs-build
-- tfs
-- tfs2010
-- tools
-- visual-studio
-- vs2010
+- Agile Software Development
+- Continuous Integration
 categories:
 - Install and Configuration
 preview: metro-visual-studio-2010-128-link-3-3.png

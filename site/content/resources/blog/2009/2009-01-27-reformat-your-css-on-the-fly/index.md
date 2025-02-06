@@ -22,10 +22,8 @@ aliasesFor404:
 - /blog/reformat-your-css-on-the-fly
 - /resources/blog/reformat-your-css-on-the-fly
 tags:
-- aggreko
-- code
-- codeproject
-- tools
+- Technical Excellence
+- Continuous Delivery
 categories:
 - Code and Complexity
 - Application Lifecycle Management

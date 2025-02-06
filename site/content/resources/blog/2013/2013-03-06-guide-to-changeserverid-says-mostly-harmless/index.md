@@ -22,13 +22,8 @@ aliasesFor404:
 - /blog/guide-to-changeserverid-says-mostly-harmless
 - /resources/blog/guide-to-changeserverid-says-mostly-harmless
 tags:
-- 2012-2
-- configuration
-- infrastructure
-- tf30046
-- tf31001
-- tf50620
-- tools
+- Change Management
+- Technical Debt
 categories:
 - Azure DevOps
 

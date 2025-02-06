@@ -22,11 +22,8 @@ aliasesFor404:
 - /blog/configure-features-in-team-foundation-server-2013
 - /resources/blog/configure-features-in-team-foundation-server-2013
 tags:
-- configuration
-- process-template
-- tfs
-- tfs-2013
-- tools
+- Azure DevOps
+- Agile Tools
 categories:
 - Install and Configuration
 - Azure DevOps

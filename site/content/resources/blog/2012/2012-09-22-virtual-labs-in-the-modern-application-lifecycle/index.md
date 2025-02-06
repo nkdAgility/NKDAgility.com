@@ -22,19 +22,8 @@ aliasesFor404:
 - /blog/virtual-labs-in-the-modern-application-lifecycle
 - /resources/blog/virtual-labs-in-the-modern-application-lifecycle
 tags:
-- agile
-- infrastructure
-- modern-application-lifecycle
-- practices
-- process
-- s30d
-- tfs
-- tfs2012
-- the-new-normal
-- tools
-- virtual-labs
-- visual-studio
-- vs2012
+- Application Lifecycle Management
+- DevOps
 categories:
 - Application Lifecycle Management
 preview: metro-lab-5-5.png

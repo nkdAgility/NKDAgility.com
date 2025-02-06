@@ -22,13 +22,8 @@ aliasesFor404:
 - /blog/full-fidelity-history-and-data-migration-are-mutually-exclusive
 - /resources/blog/full-fidelity-history-and-data-migration-are-mutually-exclusive
 tags:
-- configuration
-- infrastructure
-- nwcadence
-- tfs
-- tfs-integration-platform
-- tools
-- upgrade
+- Application Lifecycle Management
+- Technical Debt
 categories:
 - Application Lifecycle Management
 preview: nakedalm-experts-visual-studio-alm-2-2.png

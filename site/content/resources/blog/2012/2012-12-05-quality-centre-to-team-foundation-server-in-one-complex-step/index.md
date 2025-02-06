@@ -22,14 +22,8 @@ aliasesFor404:
 - /blog/quality-centre-to-team-foundation-server-in-one-complex-step
 - /resources/blog/quality-centre-to-team-foundation-server-in-one-complex-step
 tags:
-- configuration
-- infrastructure
-- opshub
-- qc
-- scrat
-- tasktop
-- tfs
-- tools
+- Application Lifecycle Management
+- Agile Tools
 categories:
 - Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-7-7.png

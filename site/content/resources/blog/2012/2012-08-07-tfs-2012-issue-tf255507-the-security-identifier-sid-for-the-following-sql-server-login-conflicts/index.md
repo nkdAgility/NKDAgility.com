@@ -26,12 +26,8 @@ aliasesFor404:
 - /blog/tfs-2012-issue--tf255507--the-security-identifier-(sid)-for-the-following-sql-server-login-conflicts
 - /resources/blog/tfs-2012-issue-tf255507-the-security-identifier-sid-for-the-following-sql-server-login-conflicts
 tags:
-- puzzles
-- sql-server
-- sql-server-2012
-- tf255507
-- tfs
-- tfs2012
+- Technical Debt
+- Change Management
 categories:
 - Install and Configuration
 preview: metro-problem-icon-3-3.png

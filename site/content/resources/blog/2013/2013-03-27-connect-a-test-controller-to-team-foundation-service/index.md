@@ -22,15 +22,8 @@ aliasesFor404:
 - /blog/connect-a-test-controller-to-team-foundation-service
 - /resources/blog/connect-a-test-controller-to-team-foundation-service
 tags:
-- configuration
-- infrastructure
-- operational
-- standard-environments
-- tactical
-- test-controller
-- tf400324
-- tf-service
-- tools
+- Automated Testing
+- Azure DevOps
 categories:
 - Install and Configuration
 - Azure DevOps

@@ -22,19 +22,8 @@ aliasesFor404:
 - /blog/commit-to-visual-studio-alm-on-area51
 - /resources/blog/commit-to-visual-studio-alm-on-area51
 tags:
-- configuration
-- define
-- develop
-- infrastructure
-- operate
-- people
-- practices
-- process
-- tfs
-- tfs2010
-- tools
-- visual-studio
-- vs2010
+- Agile Community
+- Agile Tools
 categories:
 - Application Lifecycle Management
 preview: metro-visual-studio-2010-128-link-1-1.png

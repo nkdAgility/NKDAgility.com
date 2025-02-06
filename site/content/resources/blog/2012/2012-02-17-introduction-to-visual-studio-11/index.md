@@ -22,16 +22,8 @@ aliasesFor404:
 - /blog/introduction-to-visual-studio-11
 - /resources/blog/introduction-to-visual-studio-11
 tags:
-- configuration
-- develop
-- infrastructure
-- modern-alm
-- nwcadence
-- tfs2012
-- tf-service
-- tools
-- visual-studio
-- vs2012
+- Azure DevOps
+- Agile Tools
 categories:
 - Application Lifecycle Management
 preview: nakedalm-experts-visual-studio-alm-2-2.png

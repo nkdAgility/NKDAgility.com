@@ -26,12 +26,8 @@ aliasesFor404:
 - /blog/ssw-brain-quest--team-foundation-server-and-sharepoint-2010-(london)
 - /resources/blog/ssw-brain-quest-team-foundation-server-and-sharepoint-2010-london
 tags:
-- sharepoint
-- spf2010
-- ssw
-- tfs
-- tfs2010
-- tools
+- Agile Software Development
+- Agile Tools
 categories:
 - Azure DevOps
 preview: metro-sharepoint-128-link-1-1.png

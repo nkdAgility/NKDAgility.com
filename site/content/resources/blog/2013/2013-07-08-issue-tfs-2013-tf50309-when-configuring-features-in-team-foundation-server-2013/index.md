@@ -28,11 +28,8 @@ aliasesFor404:
 - /issue-tfs-2013-tf50309-when-configuring-features-in-team-foundation-server-2013/
 - /resources/blog/issue-tfs-2013-tf50309-when-configuring-features-in-team-foundation-server-2013
 tags:
-- configuration
-- manage-process-template
-- tf50309
-- tfs
-- tfs-2013
+- Agile Tools
+- Azure DevOps
 categories:
 - Install and Configuration
 - Azure DevOps

@@ -22,15 +22,7 @@ aliasesFor404:
 - /blog/even-scrum-should-have-detailed-task-descriptions
 - /resources/blog/even-scrum-should-have-detailed-task-descriptions
 tags:
-- agile
-- people
-- process
-- scrum
-- sharepoint
-- spf2010
-- ssw
-- tfs
-- tfs2010
+- Definition of Done
 categories:
 - People and Process
 - Scrum

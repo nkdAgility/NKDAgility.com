@@ -25,7 +25,8 @@ tags:
 - Agile Software Development
 - Technical Excellence
 categories:
-- code-and-complexity
+- Code and Complexity
+- Technical Excellence
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

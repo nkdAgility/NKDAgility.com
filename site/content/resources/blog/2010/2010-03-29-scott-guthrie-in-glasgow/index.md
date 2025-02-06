@@ -25,8 +25,8 @@ tags:
 - Agile Software Development
 - Technical Excellence
 categories:
-- events-and-presentations
-- me
+- Events and Presentations
+- Application Lifecycle Management
 preview: metro-visual-studio-2010-128-link-2-1.png
 
 ---

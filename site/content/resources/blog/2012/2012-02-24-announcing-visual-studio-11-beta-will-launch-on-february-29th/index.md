@@ -22,14 +22,8 @@ aliasesFor404:
 - /blog/announcing-visual-studio-11-beta-will-launch-on-february-29th
 - /resources/blog/announcing-visual-studio-11-beta-will-launch-on-february-29th
 tags:
-- configuration
-- develop
-- infrastructure
-- modern-alm
-- nwcadence
-- tools
-- visual-studio
-- vs2012
+- Agile Software Development
+- Application Lifecycle Management
 categories:
 - News and Reviews
 - Azure DevOps

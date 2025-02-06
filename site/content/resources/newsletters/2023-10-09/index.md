@@ -24,20 +24,8 @@ categories:
 - People and Process
 - Transparency and Accountability
 tags:
-- Scrum Product Management
-- Product Backlog
-- Scrum Team
-- Agile Product Ownership
-- Backlog Refinement
-- Evidence Based Management
-- Decision Theory
-- Stakeholder Engagement
-- Agile Planning
-- Continuous Improvement
-- Agile Product Discovery
-- Professional Scrum
-- Agile Certification
-- Team Collaboration
+- Scrum Master
+- Agile Strategy
 
 ---
 Dive deep into the world of **Scrum's Product Backlog Management** with our meticulously crafted course. Master the nuances of understanding your product's core, engaging with stakeholders, and making data-driven decisions. Elevate your Scrum journey with insights from seasoned Professional Scrum Trainers. 🚀

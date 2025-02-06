@@ -22,15 +22,8 @@ aliasesFor404:
 - /blog/migrating-source-code-with-history-to-tfs-2012-with-git-tf
 - /resources/blog/migrating-source-code-with-history-to-tfs-2012-with-git-tf
 tags:
-- configuration
-- git
-- git-tfs
-- operate
-- strategic
-- tactical
-- tfs
-- tfs2012-2
-- tools
+- Modern Source Control
+- Agile Software Development
 categories:
 - Azure DevOps
 - Install and Configuration

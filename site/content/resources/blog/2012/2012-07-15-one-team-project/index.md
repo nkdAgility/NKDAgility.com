@@ -26,13 +26,8 @@ aliasesFor404:
 - /blog/one-team-project-to-rule-them-all
 - /resources/blog/one-team-project
 tags:
-- configuration
-- infrastructure
-- one-team-project-seriese
-- tfs
-- tfs2010
-- tfs2012
-- tools
+- Scaled Agile
+- Agile Planning Tools
 categories:
 - Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-8-8.png

@@ -22,10 +22,8 @@ aliasesFor404:
 - /blog/migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
 - /resources/blog/migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
 tags:
-- code
-- migration
-- tfs-integration-platform
-- tools
+- Agile Software Development
+- Technical Debt
 categories:
 - Azure DevOps
 

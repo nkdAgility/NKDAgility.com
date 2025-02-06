@@ -26,8 +26,8 @@ aliasesFor404:
 - /blog/why-i-miss-orange-and-why-vodafone-suck-
 - /resources/blog/why-i-miss-orange-and-why-vodafone-suck
 tags:
-- fail
-- mobile
+- Customer Satisfaction
+- Organisational Change
 categories:
 - News and Reviews
 preview: nakedalm-logo-128-link-2-2.png

@@ -26,12 +26,8 @@ aliasesFor404:
 - /blog/solution---seo-permanent-redirects-for-old-url’s-
 - /resources/blog/solution-seo-permanent-redirects-for-old-urls
 tags:
-- code
-- codeproject
-- sharepoint
-- spf2010
-- ssw
-- tools
+- Agile Product Management
+- Technical Excellence
 categories:
 - Code and Complexity
 preview: metro-sharepoint-128-link-1-1.png

@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/the-long-wait-is-over
 - /resources/blog/the-long-wait-is-over
 tags:
-- tools
+- Customer Satisfaction
+- Agile Software Development
 categories:
 - News and Reviews
 preview: nakedalm-logo-128-link-2-2.png

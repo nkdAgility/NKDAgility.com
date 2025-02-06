@@ -22,7 +22,7 @@ aliasesFor404:
 - /blog/kaiden-and-the-arachnoid-cyst
 - /resources/blog/kaiden-and-the-arachnoid-cyst
 categories:
-- me
+- Personal
 preview: nakedalm-logo-128-link-1-1.png
 tags:
 - Featured

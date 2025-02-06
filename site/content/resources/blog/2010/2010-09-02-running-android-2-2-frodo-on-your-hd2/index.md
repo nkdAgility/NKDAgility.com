@@ -26,11 +26,8 @@ aliasesFor404:
 - /blog/running-android-2-2-(frodo)-on-your-hd2
 - /resources/blog/running-android-2-2-frodo-on-your-hd2
 tags:
-- android
-- mobile
-- off-topic
-- tools
-- windows-mobile-6
+- Agile Software Development
+- Technical Excellence
 categories:
 - Install and Configuration
 preview: metro-android-1-1.png

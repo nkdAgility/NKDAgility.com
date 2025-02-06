@@ -26,21 +26,8 @@ aliasesFor404:
 - /blog/should-i-upgrade-to-tfs-2013-update-2-
 - /resources/blog/upgrade-tfs-2013-update-2
 tags:
-- Agile Tools
-- Deployment Frequency
-- Continuous Delivery
-- Test Automation
-- Agile Software Development
-- Release Management features
-- Agile Product Management
-- Technical Excellence
-- Customer Feedback Loops
-- Agile Planning
-- Value Delivery
-- Evidence Based Management
-- Agile Product Discovery
-- Agile Software Engineering
-- Modern Source Control
+- Agile Transformation
+- Software Development
 categories:
 - Azure DevOps
 - Application Lifecycle Management

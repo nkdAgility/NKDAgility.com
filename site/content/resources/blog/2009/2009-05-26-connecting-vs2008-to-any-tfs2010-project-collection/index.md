@@ -25,6 +25,9 @@ tags:
 - Agile Software Development
 - Technical Excellence
 preview: metro-visual-studio-2005-128-link-3-3.png
+categories:
+- Install and Configuration
+- Application Lifecycle Management
 
 ---
 Easy peasy, all you need is the full URL from the project collection and you will be able to connect directly to it as if it was a different Team Server. This functionality was added with Visual Studio 2008 Service Pack 1, so if you don’t have SP1 installed yet you had better get it:
