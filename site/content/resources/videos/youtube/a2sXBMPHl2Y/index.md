@@ -30,14 +30,29 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Training
-- Scrum Courses
-- Private Scrum Courses
-- Private Scrum Training
-- Private corporate classes
-- Private corporate workshops
+- Leadership Training
+- Team Collaboration
+- Agile Coaching
+- Agile Transformation
+- Psychological Safety
+- Continuous Learning
+- Change Management
+- Team Motivation
+- Agile Values and Principles
+- Business Agility
+- Agile Community
+- Employee Engagement
+- Agile Problem Solving
+- Systems Thinking
+- Organisational Culture
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Discovery and Learning
+- Scrum
+- DevOps
 
 ---
 ## Private Training Courses: A Game Changer for Companies?

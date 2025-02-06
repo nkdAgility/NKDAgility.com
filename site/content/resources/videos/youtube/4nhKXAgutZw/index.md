@@ -27,32 +27,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Customer Satisfaction
+- Team Motivation
+- Employee Engagement
+- Organisational Culture
+- Agile Values and Principles
+- Team Collaboration
+- Business Agility
+- Continuous Improvement
+- Psychological Safety
+- Value Delivery
+- Agile Transformation
+- Customer Feedback Loops
 resourceTypes:
 - video
 layout: video
+categories:
+- People and Process
+- Organisational Agility
+- Organisational Psychology
+- Value Delivery
+- Empathy and Kindness
 
 ---
 When we talk about **kindness** in Agile, we're referring to something deeper than just being nice. Kindness can take many forms—**compassion, benevolence, empathy**—and it can be directed toward different parts of our organization. It’s about how we treat our customers, our teams, and even ourselves in the way we work. Agile isn't just about delivering software; it's about creating environments where people can thrive, feel valued, and succeed together.

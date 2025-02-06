@@ -22,15 +22,14 @@ preview: https://i.ytimg.com/vi/79M9edUp_5c/maxresdefault.jpg
 duration: 46
 isShort: true
 tags:
-- Scrum
-- Scrum Master
-- ScrumMaster
-- scrum master tools
-- scrum master resources
-- scrum master software
-- agile project management
-- agile project management software
-- agile project management tool
+- Team Collaboration
+- Remote Working
+- Asynchronous Development
+- Agile Tools
+- Continuous Improvement
+- Agile Values and Principles
+- Working Agreements
+- Employee Engagement
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -38,6 +37,10 @@ source: youtube
 layout: video
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Practical Techniques and Tooling
 
 ---
  #shorts #shortsvideo #shortvideo 5 tools that a #scrummaster loves. #scrum tool 4

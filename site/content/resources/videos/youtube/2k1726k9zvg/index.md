@@ -22,13 +22,19 @@ preview: https://i.ytimg.com/vi/2k1726k9zvg/maxresdefault.jpg
 duration: 283
 isShort: false
 tags:
-- PSM
-- Professional Scrum Master
-- Scrum.Org
-- Scrum Master
-- ScrumMaster
-- Scrum Training
-- Scrum Certification
+- Professional Scrum
+- Scrum Team
+- Agile Values and Principles
+- Team Collaboration
+- Accountability
+- Continuous Improvement
+- Agile Leadership
+- Team Motivation
+- Agile Methodology
+- Change Management
+- Organisational Culture
+- Agile Transformation
+- Evidence Based Improvement
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -36,6 +42,12 @@ source: youtube
 layout: video
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Value Delivery
+- Transparency and Accountability
+- Technical Excellence
 
 ---
  *Unraveling the Scrum Master Role: Insights and Misconceptions*

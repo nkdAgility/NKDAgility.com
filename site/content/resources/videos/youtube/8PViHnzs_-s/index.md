@@ -29,6 +29,21 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Transparency and Accountability
+tags:
+- Scrum Values
+- Commitment
+- Scrum Team
+- Accountability
+- Agile Planning
+- Team Collaboration
+- Team Motivation
+- Working Agreements
+- Agile Product Management
+- Agile Community
 
 ---
  Dive into commitment in Scrum, what do we commit to and why. Engage with Ana, Martin, and the other participants in an interactive workshop on commitment.

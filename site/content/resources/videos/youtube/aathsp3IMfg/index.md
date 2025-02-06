@@ -30,11 +30,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Agile Consulting
-- Agile product development
+- Scrum Master
+- Scrum Team
+- Definition of Done
+- Software Increment
+- Continuous Delivery
+- Technical Excellence
+- Agile Product Management
+- Team Collaboration
+- Change Management
+- Continuous Improvement
+- Agile Values and Principles
+- Agile Transformation
+- Team Motivation
+- Working Software
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Value Delivery
+- Practical Techniques and Tooling
+- Organisational Agility
 
 ---
 ## Empowering Teams with the APS Approach: Elevating Your Scrum Journey

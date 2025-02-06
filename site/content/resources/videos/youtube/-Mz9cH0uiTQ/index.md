@@ -22,11 +22,17 @@ preview: https://i.ytimg.com/vi/-Mz9cH0uiTQ/maxresdefault.jpg
 duration: 351
 isShort: false
 tags:
-- Agile
-- Agile Consulting
-- Agile Consultant
+- Customer Satisfaction
+- Business Agility
+- Agile Strategy
+- Change Management
+- Agile Leadership
+- Value Prioritisation
 - Agile Transformation
-- Agile Adoption
+- Systems Thinking
+- Organisational Agility
+- Agile Problem Solving
+- Evidence Based Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -34,6 +40,9 @@ source: youtube
 layout: video
 resourceTypes:
 - video
+categories:
+- Systems Thinking
+- Discovery and Learning
 
 ---
  Making the transition from #projectmanagement to #agile #productdevelopment can be intimidating. You don't know where to start, you aren't sure of what the top priorities are, and you may not even be 100% clear about what problems you are trying to solve.

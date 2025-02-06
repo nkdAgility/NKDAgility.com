@@ -27,32 +27,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Strategic Goals
+- Business Agility
+- Change Management
+- Agile Product Discovery
+- Evidence Based Management
+- Market Adaptability
+- Continuous Improvement
+- Decision Making
+- Agile Transformation
+- Systems Thinking
+- Value Delivery
+- Customer Feedback Loops
+- Technical Excellence
 resourceTypes:
 - video
 layout: video
+categories:
+- Organisational Agility
+- Market Adaptability
+- Discovery and Learning
+- Value Delivery
+- Resilience and Change
 
 ---
 As Lao Tzu wisely said, _“If you do not change direction, you may end up where you are heading.”_ This quote resonates deeply with me, both as a professional Scrum trainer and a practitioner. Whether you're a developer writing code or an organization strategizing for the future, it's vital to continuously ask yourself: **Are we heading in the right direction?** 🛤️

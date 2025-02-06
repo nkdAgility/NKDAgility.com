@@ -27,31 +27,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Backlog
-- Backlog
-- Sprint Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
+- Scrum Product Management
+- Agile Product Ownership
+- Scrum Team
+- Value Prioritisation
+- Agile Planning
+- Customer Feedback Loops
+- Transparency
+- Agile Product Discovery
+- Lean Thinking
+- Continuous Improvement
+- Technical Excellence
+- Decision Making
+- Agile Values and Principles
 resourceTypes:
 - video
 layout: video
+categories:
+- Agile Product Management
+- Scrum
+- Value Delivery
+- Transparency and Accountability
+- Lean
 
 ---
 ## The Pivotal Role of a Product Owner in Cultivating a Stellar Product Backlog

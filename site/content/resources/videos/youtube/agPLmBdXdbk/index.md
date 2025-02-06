@@ -35,6 +35,10 @@ tags:
 - Agile consultant traits
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Resilience and Change
 
 ---
 **Must have trait in an Agile Consultant**

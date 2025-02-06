@@ -29,19 +29,29 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Immersive Learning
-- Scrum.Org
-- Scum training
-- Scrum certification
-- scrum
-- agile
-- agile product development
-- agile project management
-- agile scrum training
-- immersive learning courses
+- Customer Satisfaction
+- Agile Product Discovery
+- Continuous Learning
+- Agile Coaching
+- Agile Product Management
+- Team Collaboration
+- Agile Evolution
+- Employee Engagement
+- Agile Software Development
+- Agile Community
+- Discovery and Learning
+- Value Delivery
+- Agile Transformation
+- Business Agility
 resourceTypes:
 - video
 layout: video
+categories:
+- Discovery and Learning
+- Organisational Agility
+- People and Process
+- Value Delivery
+- Metrics and Learning
 
 ---
 ## Embracing the Shift: Why Immersive Learning is the Future of Professional Development 

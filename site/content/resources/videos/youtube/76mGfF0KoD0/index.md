@@ -22,13 +22,20 @@ preview: https://i.ytimg.com/vi/76mGfF0KoD0/maxresdefault.jpg
 duration: 376
 isShort: false
 tags:
-- Scrum
-- Applying Professional Scrum
-- APS
-- Scrum coach
-- Agile Coach
-- Agile Consultant
-- Agile Consulting
+- Scrum Master
+- Agile Coaching
+- Team Collaboration
+- Agile Product Management
+- Agile Transformation
+- Continuous Improvement
+- Agile Values and Principles
+- Team Motivation
+- Working Agreements
+- Agile Problem Solving
+- Customer Feedback Loops
+- Agile Software Development
+- Agile Community
+- Self Organisation
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -36,6 +43,12 @@ source: youtube
 layout: video
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Organisational Agility
+- Discovery and Learning
+- Value Delivery
 
 ---
  If a #scrummaster is battling to organize the team effectively and align them with customer and organizational objectives throughout the #productdevelopment process, what should you do?

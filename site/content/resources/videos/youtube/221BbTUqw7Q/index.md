@@ -31,24 +31,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- APS
-- Applying Professional Scrum
-- Applying Professional Scrum Course
-- Immersive learning
-- Immersive learning scrum course
-- Scrum.Org
-- Scrum course
-- Scrum Certification
-- Agile
-- Agile Scrum Training
-- Agile courses
-- Agile training
-- Agile project management
-- Agile product development
-- Agility
+- Scrum
+- Scrum Team
+- Scrum Master
+- Definition of Done
+- Continuous Improvement
+- Agile Product Ownership
+- Empirical Process Control
+- Agile Values and Principles
+- Team Collaboration
+- Agile Product Management
+- Agile Coaching
+- Agile Transformation
+- Evidence Based Improvement
+- Team Motivation
 resourceTypes:
 - video
 layout: video
+categories:
+- Scrum
+- People and Process
+- Discovery and Learning
 
 ---
 ## Scrum's True Potential: A Journey Through the APS Immersive Class

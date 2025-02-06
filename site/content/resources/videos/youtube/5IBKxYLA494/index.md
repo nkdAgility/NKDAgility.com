@@ -22,12 +22,20 @@ preview: https://i.ytimg.com/vi/5IBKxYLA494/maxresdefault.jpg
 duration: 2504
 isShort: false
 tags:
-- AzDo
-- ADO
-- TFS
-- VSTS
-- Team Foundation Server
-- Visual Studio Team System
+- Scrum
+- Scrum Team
+- Definition of Done
+- Sprint Planning Workshop
+- Sprint Review
+- Agile Tools
+- Azure DevOps
+- Continuous Delivery
+- Agile Product Management
+- Backlog Refinement
+- Agile Product Discovery
+- Value Stream Management
+- Technical Excellence
+- Agile Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -35,6 +43,13 @@ source: youtube
 layout: video
 resourceTypes:
 - video
+categories:
+- Scrum
+- Azure DevOps
+- Practical Techniques and Tooling
+- Value Delivery
+- Metrics and Learning
+- People and Process
 
 ---
  Uncover the secrets to transforming your Scrum and Agile practices with Azure DevOps. From myth-busting to practical setup, embark on a journey to enhance your project's efficiency.

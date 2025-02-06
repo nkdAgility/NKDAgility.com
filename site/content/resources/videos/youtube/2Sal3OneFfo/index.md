@@ -22,12 +22,18 @@ preview: https://i.ytimg.com/vi/2Sal3OneFfo/maxresdefault.jpg
 duration: 59
 isShort: true
 tags:
-- Azure DevOps
-- Azure DevOps migration
-- Azure DevOps migration services
-- DevOps
-- DevOps migration
-- DevOps migration services
+- Agile Tools
+- Continuous Delivery
+- Agile Project Management
+- Technical Excellence
+- Customer Satisfaction
+- Change Management
+- Agile Software Development
+- Value Delivery
+- Agile Product Management
+- Evidence Based Management
+- Agile Transformation
+- Lean Principles
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -35,6 +41,12 @@ source: youtube
 layout: video
 resourceTypes:
 - video
+categories:
+- Azure DevOps
+- Practical Techniques and Tooling
+- Application Lifecycle Management
+- Value Delivery
+- DevOps
 
 ---
  DevOps Migration Services from NKD Agility. #azure #azuredevops #devopsmigration #devopsconsulting #devopsconsultant #devopscoach #devopstraining #migration #agile #productdevelopment #productmanagement #projectmanagement #informationtechnology 

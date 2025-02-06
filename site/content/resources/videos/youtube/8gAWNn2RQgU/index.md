@@ -28,15 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- PST
-- Professional Scrum Trainer
-- Professional Scrum Training
-- Scrum training
-- Agile scrum training
-- scrum courses
-- scrum certification
+- Agile Leadership
+- Scrum Master
+- Agile Coaching
+- Team Collaboration
+- Leadership Training
+- Agile Product Management
+- Agile Community
+- Technical Mastery
+- Continuous Improvement
+- Agile Values and Principles
+- Customer Feedback Loops
+- Agile Mentoring
+- Agile Transformation
+- Psychological Safety
 resourceTypes:
 - video
+categories:
+- Scrum
+- Organisational Agility
+- People and Process
+- Technical Excellence
+- Discovery and Learning
 
 ---
 ## A Tale of Expertise and Authenticity: Meet Joanna, the Agile Maestro 🚀 

@@ -27,16 +27,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- Scrum journey
-- scrum master
-- product owner
-- scrum developer
-- scrum experience
+- Lean Thinking
+- Team Collaboration
+- Agile Product Management
+- Continuous Improvement
+- Agile Values and Principles
+- Scrum Team
+- Agile Transformation
+- Evidence Based Management
+- Value Delivery
+- Lean Product Development
+- Agile Software Development
+- Agile Methodology
+- Systems Thinking
 resourceTypes:
 - video
 layout: video
+categories:
+- Lean
+- Scrum
+- People and Process
+- Value Stream Management
+- Discovery and Learning
 
 ---
 ## The Missing Piece in My Initial Scrum Journey

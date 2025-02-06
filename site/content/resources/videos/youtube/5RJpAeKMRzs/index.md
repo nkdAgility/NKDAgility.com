@@ -21,7 +21,22 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/5RJpAeKMRzs/maxresdefault.jpg
 duration: 2299
 isShort: false
-tags: []
+tags:
+- Agile Product Management
+- Agile Product Discovery
+- Product Backlog
+- Scrum Product Management
+- Scrum Team
+- Definition of Done
+- Continuous Improvement
+- Value Delivery
+- Customer Feedback Loops
+- Agile Transformation
+- Team Collaboration
+- Lean Principles
+- Technical Excellence
+- Evidence Based Management
+- Agile Values and Principles
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -29,6 +44,13 @@ source: youtube
 layout: video
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Value Delivery
+- Metrics and Learning
+- Discovery and Learning
+- Transparency and Accountability
 
 ---
  This video unravels the complex challenges of implementing an agile philosophy within organizations. Through a deep dive into the "Seven Deadly Sins of Agile," I share personal insights and experiences to guide you away from common pitfalls and towards a more effective and genuinely agile approach. From lust for quick fixes to the pride that blinds, we'll explore how these sins can derail your agile journey and what you can do to stay on the right path.

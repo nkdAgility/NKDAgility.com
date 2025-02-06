@@ -27,14 +27,29 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Agile Consulting
-- Agile Coaching
-- Gartners Hype Cycle
-- Slope of enlightenment
+- Agile Transformation
+- Change Management
+- Agile Values and Principles
+- Team Collaboration
+- Business Agility
+- Organisational Agility
+- Agile Leadership
+- Continuous Improvement
+- Agile Community
+- Systems Thinking
+- Agile Methodology
+- Agile Software Development
+- Agile Product Management
+- Scrum Team
 resourceTypes:
 - video
 layout: video
+categories:
+- Organisational Agility
+- People and Process
+- Scrum
+- Discovery and Learning
+- Resilience and Change
 
 ---
 Are we collectively ascending the slope of enlightenment, or are we still mired in the trough of disillusionment?  

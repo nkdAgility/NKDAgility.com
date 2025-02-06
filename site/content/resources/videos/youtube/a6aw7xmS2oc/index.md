@@ -23,23 +23,30 @@ preview: https://i.ytimg.com/vi/a6aw7xmS2oc/maxresdefault.jpg
 duration: 330
 isShort: false
 tags:
-- Product Owner
-- Product Manager
-- Scrum Product Owner
-- Scrum
-- Scrum Product Development
-- Product Ownership
-- Agile Product Ownership
-- Agile Product Owner
-- Agile Product Development
-- Agile project management
-- Agile product management
+- Entrepreneurship
+- Evidence Based Management
+- Value Prioritisation
+- Team Collaboration
+- Agile Product Discovery
+- Decision Theory
+- Customer Feedback Loops
+- Ability to Innovate
+- Agile Strategy
+- Continuous Improvement
+- Agile Leadership
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Agile Product Management
+- Value Delivery
+- Metrics and Learning
+- Discovery and Learning
+- Organisational Agility
 
 ---
  The Entrepreneurial Stance: Key Considerations for Product Owners! Dive into the entrepreneurial mindset of product owners! Discover how to connect teams to value and make evidence-based decisions. 🎯📊

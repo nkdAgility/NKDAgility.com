@@ -27,14 +27,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Evidence-based Management
-- EBM
-- Scrum.org
-- Agile
-- Agile leadership
+- Evidence Based Management
+- Decision Theory
+- Data Driven Decisions
+- Team Collaboration
+- Strategic Goals
+- Continuous Improvement
+- Trend Analysis
+- Value Delivery
+- Agile Strategy
+- Organisational Agility
+- Employee Engagement
+- Systems Thinking
+- Evidence Based Improvement
 resourceTypes:
 - video
 layout: video
+categories:
+- Metrics and Learning
+- Value Delivery
+- Organisational Agility
+- Decision Theory
+- People and Process
 
 ---
 ## **What is Evidence-Based Management?**

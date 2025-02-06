@@ -22,29 +22,15 @@ preview: https://i.ytimg.com/vi/2-AyrLPg-8Y/maxresdefault.jpg
 duration: 17
 isShort: true
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Leadership Training
+- Evidence Based Management
+- Team Collaboration
+- Continuous Learning
+- Team Motivation
+- Organisational Agility
+- Change Management
+- Agile Strategy
+- Employee Engagement
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -52,6 +38,11 @@ source: youtube
 layout: video
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Organisational Psychology
+- Discovery and Learning
 
 ---
  #shorts #shortsvideo #shortvideo Transitioning from a #projectmanager or traditional #manager to an #agileleader can be super tricky, especially if you have never received training. In this short excerpt, Martin explains why #agileleadership training is critical. Watch the full video here: https://youtu.be/W3cyrYFXDfg

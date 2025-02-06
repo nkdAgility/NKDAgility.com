@@ -22,29 +22,17 @@ preview: https://i.ytimg.com/vi/-T1e8hjLt24/maxresdefault.jpg
 duration: 58
 isShort: true
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Continuous Learning
+- Agile Mentoring Program
+- Team Motivation
+- Agile Community
+- Discovery and Learning
+- Employee Engagement
+- Agile Leadership
+- Ability to Innovate
+- Agile Books
+- Agile Transformation
+- Product Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -52,6 +40,8 @@ source: youtube
 layout: video
 resourceTypes:
 - video
+categories:
+- Metrics and Learning
 
 ---
  #shorts #shortsvideo #shortvideo Martin Hinshelwood walks us through the top 5 things he would teach a newbie #productowner. This is part 5. Visit https://youtu.be/XKmWMXagVgQ to watch the full video.

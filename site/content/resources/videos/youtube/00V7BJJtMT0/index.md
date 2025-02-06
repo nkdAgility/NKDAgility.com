@@ -28,12 +28,19 @@ sitemap:
   priority: 0.6
 tags:
 - DevOps
-- Agile
-- Software Development
-- Product Development
+- Agile Leadership
+- Business Agility
+- Organisational Agility
+- Agile Strategy
 resourceTypes:
 - video
 layout: video
+categories:
+- DevOps
+- Systems Thinking
+- People and Process
+- Value Delivery
+- Technical Excellence
 
 ---
 What is DevOps and how is it different to Agile?

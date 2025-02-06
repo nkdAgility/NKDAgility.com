@@ -21,7 +21,22 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/56nUC8jR2v8/maxresdefault.jpg
 duration: 51
 isShort: true
-tags: []
+tags:
+- Agile Transformation
+- Organisational Change
+- Change Management
+- Agile Values and Principles
+- Agile Community
+- Agile Leadership
+- Team Collaboration
+- Team Motivation
+- Agile Problem Solving
+- Discovery and Learning
+- Lean Thinking
+- Systems Thinking
+- Psychological Safety
+- Evidence Based Improvement
+- Agile Evolution
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -29,6 +44,10 @@ source: youtube
 layout: video
 resourceTypes:
 - video
+categories:
+- Events and Presentations
+- Organisational Agility
+- People and Process
 
 ---
  Join us at Future of Work in Scotland: https://www.meetup.com/the-future-of-work-in-Scotland/events/270847429/ 

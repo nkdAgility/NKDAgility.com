@@ -25,13 +25,29 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- DevOps
-- Software Engineering
-- Agile
-- Agile Product Development
+- Customer Feedback Loops
+- Continuous Delivery
+- Deployment Frequency
+- Agile Product Discovery
+- Business Agility
+- Team Collaboration
+- Value Delivery
+- Agile Software Development
+- Agile Planning
+- Agile Strategy
+- Evidence Based Management
+- Technical Excellence
+- Continuous Improvement
+- Agile Transformation
 resourceTypes:
 - video
 layout: video
+categories:
+- DevOps
+- Value Delivery
+- People and Process
+- Metrics and Learning
+- Discovery and Learning
 
 ---
 ## Game-Changer in Software Engineering!

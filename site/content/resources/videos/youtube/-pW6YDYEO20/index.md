@@ -28,12 +28,17 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum Master
-- ScrumMaster
-- Scrum
-- Scrum Master Traits
+- Scrum Team
+- Accountability
+- Agile Coaching
+- Organisational Culture
 resourceTypes:
 - video
 layout: video
+categories:
+- Scrum
+- People and Process
+- Organisational Psychology
 
 ---
 **Worst trait in unskilled scrum masters?**

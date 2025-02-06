@@ -28,31 +28,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Team Collaboration
+- Team Motivation
+- Organisational Culture
+- Psychological Safety
+- Continuous Improvement
+- Business Agility
+- Change Management
+- Agile Values and Principles
+- Accountability
+- Employee Engagement
+- Agile Transformation
+- Evidence Based Management
+- Discovery and Learning
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Resilience and Change
+- Transparency and Accountability
 
 ---
 In order for organizations to succeed, they must cultivate trust. Trust doesn't happen overnight; it's built on the foundation of patience. Patience with people, processes, and, most importantly, patience with outcomes that may not always align with expectations.

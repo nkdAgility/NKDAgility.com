@@ -27,17 +27,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Empiricism
-- Empirical Process Control
-- Agile
-- Scrum
-- Scrum theory
-- Agile project management
-- Agile product management
-- Agile product development
+- Scrum Team
+- Sprint Review
+- Continuous Improvement
+- Customer Feedback Loops
+- Agile Product Discovery
+- Evidence Based Management
+- Agile Planning
+- Transparency
+- Agile Values and Principles
+- Change Management
+- Agile Software Development
+- Agile Leadership
 resourceTypes:
 - video
 layout: video
+categories:
+- Empiricism
+- Scrum
+- Metrics and Learning
+- Organisational Agility
+- Value Delivery
+- Transparency and Accountability
 
 ---
 ## The Keystone of Lean-Agile: Empiricism Unravelled 🧬 

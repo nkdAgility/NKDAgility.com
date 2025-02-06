@@ -27,21 +27,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Agile transformation
-- Agile sins
-- Agile fails
-- Agile mistakes
-- Agile problems
-- Agile project management
-- Agile product development
-- Agile product management
-- Project Management
-- Product Management
-- Product development
+- Organisational Change
+- Team Motivation
+- Change Management
+- Agile Values and Principles
+- Business Agility
+- Evidence Based Management
+- Continuous Improvement
+- Agile Leadership
+- Team Collaboration
+- Agile Frameworks
+- Systems Thinking
+- Psychological Safety
+- Value Delivery
 resourceTypes:
 - video
 layout: video
+categories:
+- Organisational Agility
+- People and Process
+- Market Adaptability
+- Discovery and Learning
+- Value Delivery
 
 ---
 #### Steering Clear of Envy in Agile: A Roadmap for Authentic Success 🗺️✨ 

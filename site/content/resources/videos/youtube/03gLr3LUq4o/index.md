@@ -29,6 +29,16 @@ sitemap:
 layout: video
 resourceTypes:
 - video
+tags:
+- Agile Product Management
+- Agile Planning Tools
+- DevOps
+- Agile Product Discovery
+- Value Stream Management
+- Agile Transformation
+- Evidence Based Improvement
+categories:
+- Value Delivery
 
 ---
  Use: https://youtu.be/Qt1Ywu_KLrc

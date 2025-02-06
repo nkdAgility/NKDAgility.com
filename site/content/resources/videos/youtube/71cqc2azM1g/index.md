@@ -29,6 +29,29 @@ sitemap:
 layout: video
 resourceTypes:
 - video
+categories:
+- Agile Product Management
+- Lean
+- Value Delivery
+- Discovery and Learning
+- Events and Presentations
+- Metrics and Learning
+tags:
+- Scrum Product Management
+- Agile Product Ownership
+- Lean Product Development
+- Agile Planning
+- Strategic Goals
+- Customer Satisfaction
+- Evidence Based Management
+- Team Collaboration
+- Agile Product Discovery
+- Continuous Improvement
+- Agile Leadership
+- Value Stream Management
+- Agile Software Development
+- Product Backlog
+- Agile Strategy
 
 ---
  🌟 Exclusive Webcast Highlight on https://www.youtube.com/@nakedAgility  🌟

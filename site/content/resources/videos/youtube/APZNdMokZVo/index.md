@@ -23,35 +23,30 @@ preview: https://i.ytimg.com/vi/APZNdMokZVo/maxresdefault.jpg
 duration: 360
 isShort: false
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Definition of Done
+- Scrum Team
+- Software Increment
+- Continuous Delivery
+- Technical Excellence
+- Agile Planning
+- Team Collaboration
+- Transparency
+- Agile Software Development
+- Continuous Improvement
+- Agile Values and Principles
+- Risk Mitigation
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scrum
+- Definition of Done
+- Technical Excellence
+- Value Delivery
+- Transparency and Accountability
 
 ---
  Unlocking the Power of Definition of Done in Scrum: A Deep Dive

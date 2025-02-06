@@ -23,21 +23,26 @@ preview: https://i.ytimg.com/vi/3nSV-v2cK-w/maxresdefault.jpg
 duration: 255
 isShort: false
 tags:
-- Scrum
-- Scrum Training
-- Scrum Course
-- Immersive Learning Experience
-- Immersive Learning Course
-- Scrum.Org
-- PSM
-- Professional Scrum Master
-- Professional Scrum Master course
+- Customer Satisfaction
+- Team Collaboration
+- Agile Product Discovery
+- Agile Planning
+- Agile Product Management
+- Continuous Improvement
+- Employee Engagement
+- Agile Transformation
+- Agile Values and Principles
+- Business Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 layout: video
 resourceTypes:
 - video
+categories:
+- Discovery and Learning
+- Organisational Agility
+- Value Delivery
 
 ---
  If you're comparing the 2-day Professional Scrum Master course with the 7-week immersive learning experience, Kanban Dan has some great insights into some additional benefits you can pick up from the immersive learning experience. 

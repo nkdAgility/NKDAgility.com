@@ -22,13 +22,35 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/A8URbBCljnQ/hqdefault.jpg
 duration: 1506
 isShort: false
-tags: []
+tags:
+- Remote Working
+- Team Collaboration
+- Scrum Team
+- Scrum Values
+- Definition of Done
+- Agile Product Discovery
+- Continuous Improvement
+- Engineering Excellence
+- Agile Product Management
+- Customer Feedback Loops
+- Lean UX
+- Agile Software Development
+- Agile Planning
+- Technical Excellence
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scrum
+- Technical Excellence
+- People and Process
+- Discovery and Learning
+- Value Delivery
+- Product Delivery
 
 ---
  Bring your questions on any topic from DevOps to Agility and Martin will do his best to answer them. Martin is a Professional Scrum Trainer with Scrum.org and a Microsoft MVP in Azure DevOps. Ask him anything!

@@ -27,13 +27,18 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- Scrum Framework
-- Scrum Methodology
 - Scrum Team
+- Agile Product Management
+- Agile Transformation
+- Agile Software Development
+- Lean Thinking
+- Discovery and Learning
+- Evidence Based Improvement
 resourceTypes:
 - video
 layout: video
+categories:
+- Technical Excellence
 
 ---
 What is the hardest part of working with a brand-new scrum team?

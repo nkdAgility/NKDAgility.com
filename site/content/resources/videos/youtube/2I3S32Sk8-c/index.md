@@ -27,15 +27,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- Scrum Team
-- First 4 weeks in Scrum
-- Agile Consultant
-- Agile Consulting
+- Scrum Master
+- Definition of Done
+- Transparency
+- Agile Planning
+- Organisational Change
+- Team Collaboration
+- Continuous Improvement
+- Agile Product Management
+- Agile Values and Principles
+- Accountability
+- Product Backlog
+- Change Management
+- Team Motivation
 resourceTypes:
 - video
 layout: video
+categories:
+- Scrum
+- Organisational Agility
+- Transparency and Accountability
+- People and Process
+- Discovery and Learning
 
 ---
 What would you advise a scrum team to do in their first 4 weeks?

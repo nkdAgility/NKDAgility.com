@@ -27,19 +27,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- EBM
-- Evidence Based Management
-- Agile Project Management
-- Project Management
-- Project Manager
-- Product Management
-- Agile Product Management
-- Product Manager
-- Product Owner
-- Scrum Master
+- Decision Theory
+- Data Driven Decisions
+- Systems Thinking
+- Continuous Improvement
+- Change Management
+- Organisational Agility
+- Value Delivery
+- Team Collaboration
+- Employee Engagement
+- Agile Leadership
+- Evidence Based Improvement
+- Lean Thinking
+- Agile Methodology
 resourceTypes:
 - video
 layout: video
+categories:
+- Metrics and Learning
+- Decision Theory
+- Systems Thinking
+- Organisational Agility
+- People and Process
 
 ---
 ## **What Is Traditional Management?**

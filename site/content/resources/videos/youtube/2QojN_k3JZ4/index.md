@@ -22,29 +22,18 @@ preview: https://i.ytimg.com/vi/2QojN_k3JZ4/maxresdefault.jpg
 duration: 25
 isShort: true
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Definition of Done
+- Scrum Team
+- Agile Values and Principles
+- Team Collaboration
+- Technical Excellence
+- Continuous Improvement
+- Team Motivation
+- Agile Software Development
+- Accountability
+- Value Delivery
+- Employee Engagement
+- Organisational Culture
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -52,6 +41,10 @@ source: youtube
 layout: video
 resourceTypes:
 - video
+categories:
+- Technical Excellence
+- Organisational Agility
+- People and Process
 
 ---
  #shorts #shortvideo #shortsvideo 7 virtues of #agile. Diligence. #agile #scrum #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #projectmanagement #projectmanager #agilecoach #scrummaster #productowner #agileleader #developer 

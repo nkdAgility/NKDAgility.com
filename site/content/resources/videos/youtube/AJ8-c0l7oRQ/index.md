@@ -26,30 +26,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
+- Team Collaboration
+- Scrum Team
+- Agile Product Discovery
+- Complexity Thinking
+- Agile Values and Principles
+- Discovery and Learning
+- Continuous Improvement
+- Agile Transformation
+- Organisational Change
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Complexity Thinking
 
 ---
 ## Finding the Right Balance between Simplicity and Complexity 🧱 

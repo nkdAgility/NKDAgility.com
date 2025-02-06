@@ -29,17 +29,23 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Agile coaching
-- Agile coach
-- Agile consulting
-- Agile consultant
-- agile project management
-- agile product development
-- agile product management
+- Agile Planning
+- Agile Product Discovery
+- Value Prioritisation
+- Customer Feedback Loops
+- Agile Strategy
+- Business Agility
+- Change Management
+- Agile Transformation
+- Evidence Based Management
 resourceTypes:
 - video
 layout: video
+categories:
+- Value Delivery
+- People and Process
+- Organisational Agility
+- Decision Theory
 
 ---
 ## The Double-Edged Sword of Consulting Contracts

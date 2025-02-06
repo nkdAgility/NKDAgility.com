@@ -24,15 +24,30 @@ preview: https://i.ytimg.com/vi/AjUC6FPYCQM/maxresdefault.jpg
 duration: 369
 isShort: false
 tags:
-- Applying Professional Scrum
-- APS
-- Scrum
-- Professional Scrum
+- Scrum Team
+- Scrum Product Management
+- Scrum Values
+- Continuous Improvement
+- Agile Product Management
+- Agile Coaching
+- Team Collaboration
+- Value Delivery
+- Agile Transformation
+- Technical Excellence
+- Evidence Based Improvement
+- Agile Software Development
+- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Value Delivery
+- Organisational Agility
+- Discovery and Learning
 
 ---
  *Unveiling the Secrets of Professional Scrum: A Journey Beyond the Basics*

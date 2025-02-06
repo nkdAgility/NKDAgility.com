@@ -27,33 +27,23 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Evidence-based management
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Evidence Based Management
+- Decision Theory
+- Value Delivery
+- Customer Satisfaction
+- Employee Engagement
+- Business Agility
+- Value Stream Management
+- Trend Analysis
+- Continuous Improvement
+- Data Driven Decisions
 resourceTypes:
 - video
 layout: video
+categories:
+- Metrics and Learning
+- Value Delivery
+- Value Stream Management
 
 ---
 In today's fast-paced world, organizations must understand their value to make informed decisions and drive continuous improvement. But how do you know the value that’s currently being delivered in your organization? 🤔 This is where **Evidence-Based Management (EBM)** comes into play, offering a clear path to evaluate and enhance your organizational outcomes. In this blog post, we'll explore how EBM can help you gauge your organization's value, optimize performance, and make data-driven decisions.

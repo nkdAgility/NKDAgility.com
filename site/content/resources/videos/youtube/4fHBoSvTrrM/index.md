@@ -29,17 +29,29 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- PSM
-- PSM II
-- Professional Scrum Master
-- Advanced Professional Scrum Master
-- Scrum Training
-- Scrum Certification
-- Scrum.Org
-- Scrum Courses
+- Scrum Master
+- Professional Scrum
+- Scrum Team
+- Definition of Done
+- Agile Product Management
+- Continuous Improvement
+- Agile Values and Principles
+- Agile Coaching
+- Team Collaboration
+- Agile Transformation
+- Technical Mastery
+- Agile Mentoring
+- Evidence Based Improvement
+- Discovery and Learning
 resourceTypes:
 - video
 layout: video
+categories:
+- Scrum
+- People and Process
+- Practical Techniques and Tooling
+- Discovery and Learning
+- Technical Excellence
 
 ---
 ## PSM II: The Game-Changer for Scrum Masters

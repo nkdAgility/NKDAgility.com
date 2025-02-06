@@ -27,37 +27,29 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
-- Agile leadership
-- Agile leader
-- Leadership
-- 7 signs
-- agile-pocalypse
-- agile-apocalypse
+- Organisational Agility
+- Agile Transformation
+- Change Management
+- Agile Values and Principles
+- Business Agility
+- Team Collaboration
+- Agile Strategy
+- Agile Methodology
+- Agile Apocalypse
+- Self Organisation
+- Organisational Culture
+- Decision Making
+- Systems Thinking
+- Evidence Based Management
 resourceTypes:
 - video
 layout: video
+categories:
+- Organisational Agility
+- Enterprise Agility
+- People and Process
+- Resilience and Change
+- Systems Thinking
 
 ---
 # Navigating the Agile Apocalypse: Overcoming the Alpha Organizational Structure

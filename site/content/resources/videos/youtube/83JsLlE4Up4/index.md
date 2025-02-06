@@ -29,6 +29,27 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Events and Presentations
+- Scrum
+- Azure DevOps
+- People and Process
+- Discovery and Learning
+tags:
+- Agile Coaching
+- Scrum Master
+- Agile Tools
+- Team Collaboration
+- Agile Community
+- Continuous Improvement
+- Customer Feedback Loops
+- Agile Product Management
+- Agile Software Development
+- DevOps
+- Agile Values and Principles
+- Agile Project Management
+- Remote Working
+- Agile Digital Tools
 
 ---
  Bring your questions on any topic from DevOps to Agility and Martin will do his best to answer them. Martin is a Professional Scrum Trainer with Scrum.org and a Microsoft MVP in Azure DevOps. Ask him anything!

@@ -29,18 +29,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Master
-- ScrumMaster
-- Professional Agile Leadership
-- Professional Agile Leadership Essentials
-- Professional Agile Leadership course
-- Professional Agile Leadership certification
-- Scrum Training
-- Leadership Training
-- Leadership essentials
+- Agile Leadership
+- Agile Coaching
+- Team Collaboration
+- Organisational Agility
+- Agile Values and Principles
+- Continuous Learning
+- Agile Transformation
+- Employee Engagement
+- Agile Community
+- Agile Evolution
+- Scrum Team
+- Agile Methodology
+- Self Organisation
 resourceTypes:
 - video
 layout: video
+categories:
+- Scrum
+- Organisational Agility
+- People and Process
+- Organisational Psychology
+- Enterprise Agility
 
 ---
 ## Ascending the Leadership Ladder

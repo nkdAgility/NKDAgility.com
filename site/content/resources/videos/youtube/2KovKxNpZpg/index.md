@@ -22,12 +22,19 @@ preview: https://i.ytimg.com/vi/2KovKxNpZpg/maxresdefault.jpg
 duration: 32
 isShort: true
 tags:
-- Scrum
-- Scrum coaching
-- Scrum consulting
-- Scrum applications
-- Scrum product development
-- Scrum project management
+- Scrum Values
+- Scrum Team
+- Agile Values and Principles
+- Empirical Process Control
+- Continuous Improvement
+- Agile Transformation
+- Team Collaboration
+- Accountability
+- Change Management
+- Agile Coaching
+- Transparency
+- Agile Methodology
+- Agile Evolution
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -35,6 +42,10 @@ source: youtube
 layout: video
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Transparency and Accountability
 
 ---
  #shorts As a #professionalscrumtrainer, #scrum expert, and #agileconsultant, Martin Hinshelwood has worked with multiple clients, in multiple applications of #scrum, in multiple geographies around the world.

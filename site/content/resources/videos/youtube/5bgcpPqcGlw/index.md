@@ -22,11 +22,19 @@ preview: https://i.ytimg.com/vi/5bgcpPqcGlw/maxresdefault.jpg
 duration: 3386
 isShort: false
 tags:
-- Agility
-- SRE
-- Site Reliability
-- Live Site Culture
-- Agile Evolution
+- Agile Tools
+- Team Collaboration
+- Continuous Delivery
+- Deployment Frequency
+- Transparency
+- Site Reliability Engineering
+- Agile Product Management
+- Customer Feedback Loops
+- Agile Planning
+- Technical Debt
+- Agile Scaling
+- Agile Software Development
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -34,6 +42,13 @@ source: youtube
 layout: video
 resourceTypes:
 - video
+categories:
+- DevOps
+- Transparency and Accountability
+- Metrics and Learning
+- Technical Excellence
+- Azure DevOps
+- Value Delivery
 
 ---
  **This session was supposed to be don't at this time at Techorama BE**

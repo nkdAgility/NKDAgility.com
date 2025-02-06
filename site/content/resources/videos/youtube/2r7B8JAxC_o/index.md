@@ -29,6 +29,21 @@ sitemap:
 layout: video
 resourceTypes:
 - video
+categories:
+- Events and Presentations
+- Azure DevOps
+- News and Reviews
+tags:
+- Team Collaboration
+- Remote Working
+- Agile Tools
+- Agile Project Management
+- Collaboration Tools
+- Continuous Improvement
+- Customer Feedback Loops
+- Agile Software Development
+- Agile Methodology
+- Agile Digital Tools
 
 ---
  [Watch on Youtube](https://www.youtube.com/watch?v=2r7B8JAxC_o)

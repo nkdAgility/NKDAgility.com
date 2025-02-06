@@ -22,29 +22,15 @@ preview: https://i.ytimg.com/vi/4p5xeJZXvcE/maxresdefault.jpg
 duration: 39
 isShort: true
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Team Collaboration
+- Psychological Safety
+- Accountability
+- Continuous Improvement
+- Organisational Culture
+- Team Motivation
+- Business Agility
+- Change Management
+- Agile Values and Principles
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -52,6 +38,11 @@ source: youtube
 layout: video
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Organisational Psychology
+- Resilience and Change
 
 ---
  #shorts #shortsvideo #shortvideo 7 virtues of #agile. Patience. #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #projectmanagement #projectmanager #productmanagement #productmanager #agile #scrum 

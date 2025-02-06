@@ -21,7 +21,22 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/5ZRMBfV9zpI/maxresdefault.jpg
 duration: 74
 isShort: false
-tags: []
+tags:
+- Scrum Master
+- Professional Scrum
+- Scrum Team
+- Scrum Values
+- Definition of Done
+- Continuous Delivery
+- Agile Product Management
+- Agile Certification
+- Team Collaboration
+- Agile Planning
+- Agile Community
+- Evidence Based Improvement
+- Customer Feedback Loops
+- Agile Software Development
+- Continuous Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -29,6 +44,12 @@ source: youtube
 layout: video
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Discovery and Learning
+- Value Delivery
+- Technical Excellence
 
 ---
  This workshop is for practitioners that are interested in starting a career as a Scrum Master, existing Scrum Masters, agile coaches, and consultants trying to improve their use of Scrum.

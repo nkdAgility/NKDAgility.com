@@ -21,17 +21,20 @@ preview: https://i.ytimg.com/vi/1AO6FFBlE4Y/maxresdefault.jpg
 duration: 600
 isShort: false
 tags:
-- Software engineering
-- Agile
-- Scrum
-- Agile product development
-- Product development
-- Project management
-- Agile project management
-- Product owner
-- Scrum master
-- Product Manager
-- Project manager
+- Technical Debt
+- Engineering Excellence
+- Continuous Delivery
+- Agile Software Development
+- Team Collaboration
+- Customer Satisfaction
+- Deployment Frequency
+- Value Delivery
+- Agile Product Management
+- Technical Mastery
+- Agile Product Discovery
+- Systems Thinking
+- Lean Thinking
+- Evidence Based Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -39,6 +42,12 @@ slug: the-high-cost-of-poor-quality-code-
 layout: video
 resourceTypes:
 - video
+categories:
+- Code and Complexity
+- Technical Excellence
+- Value Delivery
+- Value Stream Management
+- Resilience and Change
 
 ---
 # The Hidden Costs of Poor Quality Code—and How to Turn It Into a Superpower

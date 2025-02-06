@@ -27,33 +27,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Goal
-- Goal
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
+- Sprint Planning Workshop
+- Scrum Product Management
+- Scrum Team
+- Sprint Review
+- Definition of Done
+- Agile Planning
+- Team Collaboration
+- Customer Feedback Loops
+- Agile Product Management
+- Continuous Improvement
+- Agile Values and Principles
+- Agile Product Discovery
+- Value Delivery
+- Team Motivation
 resourceTypes:
 - video
 layout: video
+categories:
+- Scrum
+- Agile Product Management
+- Value Delivery
 
 ---
 ## What's a Sprint Goal and Why Does It Matter?

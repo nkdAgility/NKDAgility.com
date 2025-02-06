@@ -29,12 +29,25 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agility
-- Scrum
-- Sprint Review
+- Scrum Master
+- Scrum Team
+- Definition of Done
+- Software Increment
+- Continuous Delivery
+- Agile Product Ownership
+- Agile Planning
+- Team Collaboration
+- Customer Feedback Loops
+- Transparency
+- Agile Product Management
+- Evidence Based Management
+- Agile Values and Principles
 resourceTypes:
 - video
 layout: video
+categories:
+- Value Delivery
+- Discovery and Learning
 
 ---
 This workshop was delivered on 16th September 2021 and focused on introducing the core concepts of the Sprint Review and its empirical nature. I used a combination of Liberating Structures, Microsoft Teams, and Mural to deliver an interactive session. This session went really well however we had some technical issues on the live stream!

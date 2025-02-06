@@ -27,34 +27,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
-- Agile leadership
-- Agile leader
-- Leadership
+- Scrum Team
+- Sprint Planning Workshop
+- Definition of Done
+- Empirical Process Control
+- Scrum Product Management
+- Continuous Improvement
+- Team Collaboration
+- Agile Product Management
+- Transparency
+- Agile Values and Principles
+- Evidence Based Improvement
+- Agile Software Development
+- Working Software
 resourceTypes:
 - video
 layout: video
+categories:
+- Scrum
+- People and Process
+- Transparency and Accountability
 
 ---
 # Demystifying Scrum: Beyond Meetings to Meaningful Events 🚀

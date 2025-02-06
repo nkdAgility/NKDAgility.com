@@ -27,21 +27,19 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Kanban
-- Kanban workshops
-- kanban training
-- kanban courses
-- kanban certification
-- kanban framework
-- kanban consulting
-- agile
-- agile framework
-- agile project management
-- agile product development
-- agile product management
+- Systems Thinking
+- Throughput
+- Customer Satisfaction
+- Evidence Based Management
+- Agile Product Discovery
+- Change Management
 resourceTypes:
 - video
 layout: video
+categories:
+- Value Stream Management
+- Flow Efficiency
+- Systems Thinking
 
 ---
 Creativity, with its boundless landscape, where every spark of inspiration has the potential to morph into a magnum opus, often thrives in a state of organised chaos.  

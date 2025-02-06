@@ -23,10 +23,16 @@ duration: 138
 isShort: false
 tags:
 - DevOps
-- DevOps Consulting
-- DevOps Consultant
-- Agile Consultant
-- Agile Consulting
+- Value Stream Management
+- Systems Thinking
+- Technical Debt
+- Lead Time
+- Agile Product Discovery
+- Business Agility
+- Change Management
+- Value Delivery
+- Agile Strategy
+- Evidence Based Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -34,6 +40,9 @@ source: youtube
 layout: video
 resourceTypes:
 - video
+categories:
+- Value Stream Management
+- Flow Efficiency
 
 ---
  As a #devops #consultant, Martin Hinshelwood has worked in multiple geographies, across multiple industry applications, and with a wide variety of clients.

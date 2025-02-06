@@ -22,29 +22,15 @@ preview: https://i.ytimg.com/vi/2cSsuEzGkvU/maxresdefault.jpg
 duration: 53
 isShort: true
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Team Collaboration
+- Psychological Safety
+- Agile Values and Principles
+- Accountability
+- Empirical Process Control
+- Continuous Improvement
+- Customer Feedback Loops
+- Team Motivation
+- Organisational Culture
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -52,6 +38,11 @@ source: youtube
 layout: video
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Organisational Psychology
+- Transparency and Accountability
 
 ---
  #shorts #shortsvideo #shortvideo 7 virtues of #agile. Humility. #agile #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #projectmanagement #productmanagement #productdevelopment #projectmanager #productmanager #developer #scrummaster #productowner #agilecoach #agileleadership 

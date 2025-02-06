@@ -29,6 +29,28 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Code and Complexity
+- Application Lifecycle Management
+- Practical Techniques and Tooling
+- Technical Excellence
+- Product Delivery
+tags:
+- Deployment Frequency
+- Agile Tools
+- Agile Software Development
+- Continuous Delivery
+- Technical Excellence
+- Agile Product Management
+- Agile Project Management
+- Scrum Team
+- Product Backlog
+- Team Collaboration
+- Value Delivery
+- Evidence Based Management
+- Agile Methodology
+- Agile Digital Tools
+- Customer Feedback Loops
 
 ---
  [Watch on Youtube](https://www.youtube.com/watch?v=9lBvhLXW8xY)

@@ -27,13 +27,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- Scrum Training
-- Agile
-- Scrum Certification
+- Empirical Process Control
+- Scrum Master
+- Scrum Team
+- Complexity Thinking
+- Continuous Improvement
+- Agile Values and Principles
+- Evidence Based Management
+- Team Collaboration
+- Agile Product Management
+- Agile Coaching
+- Systems Thinking
+- Agile Transformation
+- Technical Excellence
 resourceTypes:
 - video
 layout: video
+categories:
+- Complexity Thinking
+- Scrum
+- People and Process
+- Discovery and Learning
+- Systems Thinking
 
 ---
 If you could teach just one thing about Scrum, what would it be?

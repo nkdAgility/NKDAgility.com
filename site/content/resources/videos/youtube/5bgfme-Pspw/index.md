@@ -27,16 +27,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Momentum
-- Team performance
-- Agile
-- Agile Team
-- Scrum
-- Scrum Team
-- Product Development
+- Team Collaboration
+- Strategic Goals
+- Change Management
+- Business Agility
+- Organisational Agility
+- Agile Product Discovery
+- Agile Leadership
+- Employee Engagement
+- Continuous Improvement
+- Agile Transformation
+- Value Delivery
+- Agile Methodology
+- Team Motivation
+- Systems Thinking
 resourceTypes:
 - video
 layout: video
+categories:
+- Organisational Agility
+- People and Process
+- Product Delivery
 
 ---
 **Momentum**

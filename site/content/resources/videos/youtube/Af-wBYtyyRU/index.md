@@ -28,32 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Evidence-based management
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Evidence Based Management
+- Agile Product Ownership
+- Ability to Innovate
+- Value Delivery
+- Customer Feedback Loops
+- Decision Making
+- Continuous Improvement
+- Team Collaboration
+- Strategic Goals
+- Agile Planning
+- Product Strategy
+- Data Driven Decisions
+- Team Motivation
 resourceTypes:
 - video
+categories:
+- Value Delivery
+- Metrics and Learning
+- Agile Product Management
+- Discovery and Learning
+- People and Process
 
 ---
 As a product owner, you’re essentially the mini-CEO of your product. You make critical decisions about which features to build and when, driving the success of your product. But how do you know which bets will pay off? How do you make informed decisions that steer your product toward success? This is where Evidence-Based Management (EBM) comes into play. It's a framework that helps product owners use real data to guide their decision-making and ensure they’re delivering maximum value.

@@ -27,32 +27,25 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Definition of Done
+- Scrum Team
+- Technical Excellence
+- Continuous Improvement
+- Agile Values and Principles
+- Team Collaboration
+- Employee Engagement
+- Accountability
+- Agile Transformation
+- Business Agility
+- Team Motivation
+- Value Delivery
 resourceTypes:
 - video
 layout: video
+categories:
+- Organisational Agility
+- People and Process
+- Technical Excellence
 
 ---
 When we talk about Agile practices, we often highlight flexibility, collaboration, and continuous improvement. However, one key Agile virtue that is often overlooked is _diligence_. Diligence, in its essence, is that unwavering attention to detail and the commitment to doing what needs to be done—no shortcuts, no compromises. It’s about ensuring quality at every step of the process, and in the world of Agile, this is where the definition of "done" becomes crucial.
