@@ -30,7 +30,7 @@ tags:
 - visual-studio
 - vsip
 categories:
-- me
+- Agile Product Management
 
 ---
 ![image](images/image-3-3.png "image")No I am not leaving Northwest Cadence.

@@ -29,7 +29,7 @@ tags:
 - answers
 - windows-mobile-6
 categories:
-- me
+- Azure DevOps
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

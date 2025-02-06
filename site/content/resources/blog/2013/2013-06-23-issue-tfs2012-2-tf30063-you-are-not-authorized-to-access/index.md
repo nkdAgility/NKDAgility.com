@@ -33,8 +33,8 @@ tags:
 - tfs2012-2
 - tfs-2012-3
 categories:
-- install-and-configuration
-- problems-and-puzzles
+- Install and Configuration
+- Azure DevOps
 preview: puzzle-issue-problem-128-link-3-3.png
 
 ---

@@ -37,9 +37,8 @@ tags:
 - psf
 - scrum
 categories:
-- events-and-presentations
-- measure-and-learn
-- news-and-reviews
+- Events and Presentations
+- Scrum
 preview: nakedalm-experts-professional-scrum-8-8.png
 
 ---

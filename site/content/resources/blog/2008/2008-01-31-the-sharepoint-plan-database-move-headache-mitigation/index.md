@@ -33,8 +33,8 @@ tags:
 - sp2007
 - tools
 categories:
-- code-and-complexity
-- problems-and-puzzles
+- Install and Configuration
+- Problems and Puzzles
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

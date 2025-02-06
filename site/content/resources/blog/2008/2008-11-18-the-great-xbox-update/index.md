@@ -25,7 +25,7 @@ tags:
 - live
 - xbox
 categories:
-- me
+- News and Reviews
 preview: metro-xbox-360-link-3-2.png
 
 ---

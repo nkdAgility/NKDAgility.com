@@ -32,7 +32,11 @@ tags:
 - github
 - vsteamservices
 categories:
-- tools-and-techniques
+- Azure DevOps
+- Practical Techniques and Tooling
+- Application Lifecycle Management
+- DevOps
+- Code and Complexity
 preview: nakedalm-experts-visual-studio-alm-14-14.png
 
 ---

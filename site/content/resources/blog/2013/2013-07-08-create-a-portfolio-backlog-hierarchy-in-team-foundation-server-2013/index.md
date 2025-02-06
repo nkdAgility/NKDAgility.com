@@ -31,8 +31,8 @@ tags:
 - tfs
 - tfs-2013
 categories:
-- install-and-configuration
-- tools-and-techniques
+- Install and Configuration
+- Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

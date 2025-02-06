@@ -29,7 +29,8 @@ tags:
 - virtual-machines
 - vm
 categories:
-- code-and-complexity
+- Install and Configuration
+- Code and Complexity
 preview: image11-1-1.png
 
 ---

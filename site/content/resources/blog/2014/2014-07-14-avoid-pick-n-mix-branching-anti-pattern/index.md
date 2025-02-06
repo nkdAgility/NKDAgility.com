@@ -29,7 +29,11 @@ tags:
 - anti-pattern
 - branching
 categories:
-- tools-and-techniques
+- Code and Complexity
+- Technical Excellence
+- Application Lifecycle Management
+- People and Process
+- Value Delivery
 preview: nakedalm-experts-visual-studio-alm-4-4.png
 
 ---

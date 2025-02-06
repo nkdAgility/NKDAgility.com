@@ -30,7 +30,7 @@ tags:
 - tf50620
 - tools
 categories:
-- code-and-complexity
+- Azure DevOps
 
 ---
 If you are cloning your TFS collection then you have to run ChangeServerId. It is reasonably well documented for this senario but what other reasons might you have to run it.

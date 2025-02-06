@@ -36,9 +36,8 @@ tags:
 - vs2012
 - vs-2012-1
 categories:
-- measure-and-learn
-- people-and-process
-- tools-and-techniques
+- Value Delivery
+- People and Process
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

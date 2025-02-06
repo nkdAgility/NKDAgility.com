@@ -32,9 +32,9 @@ tags:
 - visual-studio-2015
 - windows-10
 categories:
-- install-and-configuration
-- news-and-reviews
-- products-and-books
+- Install and Configuration
+- News and Reviews
+- Products and Books
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---

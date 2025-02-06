@@ -31,7 +31,9 @@ tags:
 - tfs-2013
 - videos
 categories:
-- install-and-configuration
+- Install and Configuration
+- Application Lifecycle Management
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

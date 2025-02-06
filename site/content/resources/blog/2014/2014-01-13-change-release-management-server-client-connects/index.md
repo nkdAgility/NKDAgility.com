@@ -34,8 +34,9 @@ tags:
 - tfs-2013
 - visual-studio-2013
 categories:
-- install-and-configuration
-- upgrade-and-maintenance
+- Install and Configuration
+- Azure DevOps
+- Practical Techniques and Tooling
 
 ---
 As a consultant I am onsite at a different customer every week and as I use my own laptop for most engagements I need to be able to change the Release Management Server that I connect to from the thick client.

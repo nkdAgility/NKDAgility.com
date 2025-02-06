@@ -38,7 +38,11 @@ tags:
 - strategic
 - the-sprint
 categories:
-- people-and-process
+- People and Process
+- Product Delivery
+- Organisational Agility
+- Technical Excellence
+- Value Delivery
 preview: nkdAgility-habits-16x9-1280-2-2.jpg
 
 ---

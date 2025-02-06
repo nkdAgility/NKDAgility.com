@@ -30,7 +30,9 @@ tags:
 - surface-3-pro
 - windows-10
 categories:
-- install-and-configuration
+- Install and Configuration
+- Technical Excellence
+- Application Lifecycle Management
 preview: nakedalm-windows-logo-5-5.png
 
 ---

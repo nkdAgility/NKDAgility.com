@@ -28,8 +28,11 @@ aliasesFor404:
 tags:
 - scrum-master
 categories:
-- agility
-- people-and-process
+- People and Process
+- Scrum
+- Organisational Psychology
+- Events and Presentations
+- Resilience and Change
 preview: 1061204442-1-1.jpg
 
 ---

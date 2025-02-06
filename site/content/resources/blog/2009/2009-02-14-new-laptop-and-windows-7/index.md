@@ -22,7 +22,7 @@ aliasesFor404:
 - /blog/new-laptop-and-windows-7
 - /resources/blog/new-laptop-and-windows-7
 categories:
-- me
+- News and Reviews
 preview: nakedalm-logo-128-link-3-1.png
 
 ---

@@ -29,7 +29,8 @@ tags:
 - tools
 - wcf
 categories:
-- me
+- Code and Complexity
+- Application Lifecycle Management
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

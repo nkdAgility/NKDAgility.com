@@ -37,7 +37,9 @@ tags:
 - spf2010
 - ssw
 categories:
-- people-and-process
+- People and Process
+- Agile Product Management
+- Scrum
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

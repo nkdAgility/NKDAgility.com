@@ -26,7 +26,9 @@ tags:
 - dns
 - virtual-network
 categories:
-- install-and-configuration
+- Install and Configuration
+- Azure DevOps
+- Technical Excellence
 preview: nakedalm-windows-logo-4-4.png
 
 ---

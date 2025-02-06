@@ -36,7 +36,7 @@ tags:
 - tfs
 - tfs2010
 categories:
-- me
+- Application Lifecycle Management
 preview: metro-nwc-128-link-2-2.png
 
 ---

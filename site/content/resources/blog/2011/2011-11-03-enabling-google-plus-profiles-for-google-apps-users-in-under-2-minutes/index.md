@@ -25,9 +25,7 @@ tags:
 - google
 - webcast-2
 categories:
-- me
-- products-and-books
-- tools-and-techniques
+- Install and Configuration
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

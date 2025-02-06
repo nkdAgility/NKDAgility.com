@@ -28,7 +28,7 @@ tags:
 - visual-studio
 - vs-2013
 categories:
-- install-and-configuration
+- Install and Configuration
 
 ---
 I will be installing Visual Studio 2013 on Server 2012 side-by-side with Visual Studio 2012 on my development rig.

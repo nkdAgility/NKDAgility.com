@@ -34,8 +34,8 @@ tags:
 - team
 - teams
 categories:
-- measure-and-learn
-- people-and-process
+- People and Process
+- Organisational Agility
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

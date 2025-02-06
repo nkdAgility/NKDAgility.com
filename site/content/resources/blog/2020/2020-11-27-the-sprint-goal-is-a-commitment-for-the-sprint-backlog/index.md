@@ -24,7 +24,10 @@ aliasesFor404:
 tags:
 - sprint-goal
 categories:
-- transparency-commitment
+- Scrum
+- Transparency and Accountability
+- Agile Product Management
+- Value Delivery
 preview: naked-Agility-Scrum-Framework-Sprint-Goal-1-1.jpg
 
 ---

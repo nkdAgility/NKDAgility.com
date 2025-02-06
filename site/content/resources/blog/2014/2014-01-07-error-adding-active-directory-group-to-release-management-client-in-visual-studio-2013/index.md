@@ -29,7 +29,10 @@ tags:
 - visual-studio-2013
 - visual-studio
 categories:
-- problems-and-puzzles
+- Install and Configuration
+- Azure DevOps
+- Application Lifecycle Management
+- Problems and Puzzles
 
 ---
 When you try to add a group from Active Directory in the Release Management Client in Visual Studio 2013 you get an unhandled exception.

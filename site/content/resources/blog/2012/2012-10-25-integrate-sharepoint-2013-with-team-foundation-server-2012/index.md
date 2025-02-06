@@ -30,7 +30,8 @@ tags:
 - tfs2012
 - tools
 categories:
-- code-and-complexity
+- Install and Configuration
+- Azure DevOps
 preview: metro-sharepoint-128-link-25-25.png
 
 ---

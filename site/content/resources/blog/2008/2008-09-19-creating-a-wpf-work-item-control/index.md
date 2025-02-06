@@ -29,7 +29,8 @@ tags:
 - tools
 - wpf
 categories:
-- code-and-complexity
+- Code and Complexity
+- Application Lifecycle Management
 preview: metro-visual-studio-2005-128-link-6-6.png
 
 ---

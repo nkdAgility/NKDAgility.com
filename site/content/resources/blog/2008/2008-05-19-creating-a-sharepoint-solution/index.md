@@ -28,7 +28,7 @@ tags:
 - sp2007
 - tools
 categories:
-- tools-and-techniques
+- Application Lifecycle Management
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

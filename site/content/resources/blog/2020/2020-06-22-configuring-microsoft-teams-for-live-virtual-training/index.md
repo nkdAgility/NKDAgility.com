@@ -22,8 +22,11 @@ aliasesFor404:
 - /blog/configuring-microsoft-teams-for-live-virtual-training
 - /resources/blog/configuring-microsoft-teams-for-live-virtual-training
 categories:
-- agility
-- tools-and-techniques
+- Install and Configuration
+- Practical Techniques and Tooling
+- Tools and Techniques
+- Events and Presentations
+- Azure DevOps
 preview: image-14-4-4.png
 
 ---

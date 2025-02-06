@@ -36,7 +36,8 @@ tags:
 - wit
 - wpf
 categories:
-- code-and-complexity
+- Application Lifecycle Management
+- Code and Complexity
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

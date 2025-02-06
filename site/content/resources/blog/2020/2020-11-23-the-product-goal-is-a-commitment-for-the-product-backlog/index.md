@@ -24,7 +24,11 @@ aliasesFor404:
 tags:
 - product-goal
 categories:
-- transparency-commitment
+- Scrum
+- Agile Product Management
+- Transparency and Accountability
+- Value Delivery
+- Metrics and Learning
 preview: naked-Agility-Scrum-Framework-Product-Goal-2-1.jpg
 
 ---

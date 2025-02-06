@@ -26,7 +26,11 @@ tags:
 - featured
 - leadership-track
 categories:
-- news-and-reviews
+- Organisational Psychology
+- People and Process
+- Scrum
+- Organisational Agility
+- Leadership
 preview: image-2-2.png
 
 ---

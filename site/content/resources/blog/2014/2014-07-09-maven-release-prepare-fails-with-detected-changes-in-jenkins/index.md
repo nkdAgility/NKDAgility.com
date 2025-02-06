@@ -26,8 +26,11 @@ tags:
 - maven
 - tfignore
 categories:
-- problems-and-puzzles
-- upgrade-and-maintenance
+- Application Lifecycle Management
+- Install and Configuration
+- DevOps
+- Problems and Puzzles
+- Upgrade and Maintenance
 preview: naked-alm-jenkins-logo-9-9.png
 
 ---

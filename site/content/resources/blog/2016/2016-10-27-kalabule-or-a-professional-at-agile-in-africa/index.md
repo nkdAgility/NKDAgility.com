@@ -25,7 +25,11 @@ tags:
 - agile-in-africa
 - professional-scrum
 categories:
-- agility
+- Events and Presentations
+- Organisational Agility
+- People and Process
+- Scrum
+- Technical Excellence
 preview: clip_image001-2-2.png
 
 ---

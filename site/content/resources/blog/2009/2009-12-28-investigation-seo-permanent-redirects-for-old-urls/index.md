@@ -32,7 +32,7 @@ tags:
 - ssw
 - tools
 categories:
-- code-and-complexity
+- Install and Configuration
 preview: metro-sharepoint-128-link-4-4.png
 
 ---

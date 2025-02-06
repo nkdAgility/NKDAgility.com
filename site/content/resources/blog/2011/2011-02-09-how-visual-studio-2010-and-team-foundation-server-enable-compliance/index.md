@@ -37,7 +37,8 @@ tags:
 - visual-studio
 - vs2010
 categories:
-- tools-and-techniques
+- Application Lifecycle Management
+- Azure DevOps
 preview: metro-visual-studio-2010-128-link-30-30.png
 
 ---

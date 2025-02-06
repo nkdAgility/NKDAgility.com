@@ -32,7 +32,7 @@ tags:
 - tfs
 - tfs-integration-platform
 categories:
-- problems-and-puzzles
+- Azure DevOps
 preview: metro-problem-icon-3-3.png
 
 ---

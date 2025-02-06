@@ -26,8 +26,10 @@ tags:
 - leadership-track
 - scrum-theory
 categories:
-- agility
-- people-and-process
+- organisational-agility
+- transparency-and-accountability
+- events-and-presentations
+- discovery-and-learning
 preview: image-21-3-3.png
 
 ---

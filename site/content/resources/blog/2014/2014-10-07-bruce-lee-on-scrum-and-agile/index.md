@@ -26,7 +26,11 @@ tags:
 - philosophy
 - scrum
 categories:
-- people-and-process
+- People and Process
+- Scrum
+- Organisational Agility
+- Discovery and Learning
+- Value Delivery
 preview: nakedalm-experts-professional-scrum-2-2.png
 
 ---

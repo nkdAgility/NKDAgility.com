@@ -31,7 +31,8 @@ tags:
 - intel
 - review
 categories:
-- news-and-reviews
+- News and Reviews
+- Products and Books
 preview: Web-Intel-Metro-icon-4-4.png
 
 ---

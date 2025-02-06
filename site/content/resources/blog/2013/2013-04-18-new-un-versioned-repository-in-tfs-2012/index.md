@@ -29,7 +29,7 @@ tags:
 - tfs2012-2
 - tools
 categories:
-- tools-and-techniques
+- Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

@@ -28,7 +28,7 @@ tags:
 - tools
 - wpf
 categories:
-- code-and-complexity
+- Application Lifecycle Management
 preview: metro-binary-vb-128-link-2-2.png
 
 ---

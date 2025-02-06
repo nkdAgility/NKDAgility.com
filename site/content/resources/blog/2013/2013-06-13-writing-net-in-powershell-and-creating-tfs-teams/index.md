@@ -35,8 +35,7 @@ tags:
 - tfs
 - tfs-api
 categories:
-- code-and-complexity
-- install-and-configuration
+- azure-devops
 preview: image11-1-1.png
 
 ---

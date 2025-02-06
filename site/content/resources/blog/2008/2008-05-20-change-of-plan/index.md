@@ -27,7 +27,7 @@ tags:
 - sp2007
 - wf
 categories:
-- me
+- Application Lifecycle Management
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

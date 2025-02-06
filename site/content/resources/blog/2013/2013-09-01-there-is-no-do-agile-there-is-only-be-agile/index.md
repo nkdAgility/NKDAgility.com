@@ -30,7 +30,8 @@ tags:
 - lean
 - scrum
 categories:
-- people-and-process
+- Organisational Agility
+- People and Process
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

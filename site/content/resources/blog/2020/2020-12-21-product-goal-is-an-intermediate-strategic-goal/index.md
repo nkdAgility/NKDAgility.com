@@ -30,8 +30,11 @@ tags:
 - product-discovery
 - product-goal
 categories:
-- discovery-ideation
-- measure-and-learn
+- discovery-and-learning
+- agile-product-management
+- metrics-and-learning
+- organisational-agility
+- value-delivery
 preview: naked-agility-hypothesis-driven-1-1.jpg
 
 ---

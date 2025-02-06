@@ -30,7 +30,7 @@ aliasesFor404:
 - /blog/feedburner--no-google…
 - /resources/blog/feedburner-no-google
 categories:
-- me
+- News and Reviews
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

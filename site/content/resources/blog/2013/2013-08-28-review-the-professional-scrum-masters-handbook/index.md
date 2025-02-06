@@ -29,7 +29,8 @@ tags:
 - scrum
 - scrum-master
 categories:
-- news-and-reviews
+- Products and Books
+- News and Reviews
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

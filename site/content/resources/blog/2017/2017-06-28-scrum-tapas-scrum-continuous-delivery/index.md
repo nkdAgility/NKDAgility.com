@@ -34,8 +34,10 @@ tags:
 - scrum-tapas
 - the-sprint
 categories:
-- agility
-- devops
+- Scrum
+- Value Delivery
+- Events and Presentations
+- Agile Product Management
 preview: nkdagility-martin-hinshelwood-scrum-tapas-continious-delivery-1-1.png
 
 ---

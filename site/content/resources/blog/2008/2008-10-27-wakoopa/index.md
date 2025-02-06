@@ -26,7 +26,7 @@ tags:
 - tfs
 - tfs-sticky-buddy
 categories:
-- me
+- Metrics and Learning
 
 ---
 I am having a little bit of fun with this application and I though I would share. it logs all of the applications that you are using and gives you stats on it. How about joining the [Microsoft MVP](http://wakoopa.com/teams/MicrosoftMVP) (MVP’s only please) team, or creating your own…

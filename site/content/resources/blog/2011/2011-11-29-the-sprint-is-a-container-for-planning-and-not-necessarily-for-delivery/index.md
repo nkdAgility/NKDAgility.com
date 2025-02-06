@@ -24,8 +24,9 @@ aliasesFor404:
 tags:
 - sprint-planning
 categories:
-- people-and-process
-- tools-and-techniques
+- Scrum
+- People and Process
+- Value Delivery
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

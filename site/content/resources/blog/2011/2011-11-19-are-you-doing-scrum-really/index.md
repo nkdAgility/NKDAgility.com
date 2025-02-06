@@ -35,7 +35,8 @@ tags:
 - psm
 - scrum
 categories:
-- people-and-process
+- Scrum
+- People and Process
 preview: nakedalm-experts-professional-scrum-3-3.png
 
 ---

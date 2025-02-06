@@ -26,7 +26,7 @@ aliasesFor404:
 - /blog/post-event--developer-day-scotland---
 - /resources/blog/post-event-developer-day-scotland
 categories:
-- me
+- Events and Presentations
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

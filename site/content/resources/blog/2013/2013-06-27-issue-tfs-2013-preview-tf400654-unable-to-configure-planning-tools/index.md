@@ -31,7 +31,8 @@ tags:
 - tf400654
 - tfs-2013
 categories:
-- problems-and-puzzles
+- Install and Configuration
+- Azure DevOps
 preview: puzzle-issue-problem-128-link-2-2.png
 
 ---

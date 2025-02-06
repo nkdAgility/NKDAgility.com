@@ -30,8 +30,11 @@ tags:
 - scrum-team
 - team-room
 categories:
-- agility
-- people-and-process
+- People and Process
+- Scrum
+- Organisational Psychology
+- Events and Presentations
+- Discovery and Learning
 preview: 1026661500-1-1.jpg
 
 ---

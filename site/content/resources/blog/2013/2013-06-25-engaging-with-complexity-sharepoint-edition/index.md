@@ -38,8 +38,8 @@ tags:
 - sharepoint-2013
 - tools
 categories:
-- install-and-configuration
-- tools-and-techniques
+- Install and Configuration
+- Azure DevOps
 preview: metro-sharepoint-128-link-2-2.png
 
 ---

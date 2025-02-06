@@ -30,8 +30,11 @@ tags:
 - scrum-rules
 - scrum-values
 categories:
-- agility
-- devops
+- Scrum
+- People and Process
+- Technical Excellence
+- Events and Presentations
+- Scaling Agility
 preview: nkdagility-martin-hinshelwood-scrum-tapas-professional-1-1.png
 
 ---

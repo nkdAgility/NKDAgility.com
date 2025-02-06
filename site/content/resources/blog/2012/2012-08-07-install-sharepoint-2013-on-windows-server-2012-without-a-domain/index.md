@@ -28,9 +28,8 @@ tags:
 - sharepoint
 - tools
 categories:
-- code-and-complexity
-- tools-and-techniques
-- upgrade-and-maintenance
+- Install and Configuration
+- Azure DevOps
 preview: metro-sharepoint-128-link-23-23.png
 
 ---

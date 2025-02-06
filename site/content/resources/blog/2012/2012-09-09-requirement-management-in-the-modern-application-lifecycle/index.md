@@ -37,7 +37,7 @@ tags:
 - tools
 - wit
 categories:
-- tools-and-techniques
+- Application Lifecycle Management
 preview: metro-requirements-icon-14-14.png
 
 ---

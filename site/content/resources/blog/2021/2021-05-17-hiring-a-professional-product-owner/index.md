@@ -42,9 +42,11 @@ tags:
 - product-discovery
 - product-owner
 categories:
-- discovery-ideation
-- news-and-reviews
-- people-and-process
+- Agile Product Management
+- People and Process
+- Discovery and Learning
+- Value Delivery
+- Scrum
 preview: image-3-3.png
 
 ---

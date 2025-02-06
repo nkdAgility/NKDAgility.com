@@ -32,8 +32,8 @@ tags:
 - tfs2010
 - tools
 categories:
-- tools-and-techniques
-- upgrade-and-maintenance
+- Scrum
+- Application Lifecycle Management
 preview: metro-event-128-link-3-3.png
 
 ---

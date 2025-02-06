@@ -28,7 +28,8 @@ tags:
 - tfs
 - tfs2010
 categories:
-- tools-and-techniques
+- Application Lifecycle Management
+- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

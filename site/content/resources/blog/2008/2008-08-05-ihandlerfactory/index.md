@@ -25,7 +25,7 @@ tags:
 - code
 - tools
 categories:
-- code-and-complexity
+- Code and Complexity
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

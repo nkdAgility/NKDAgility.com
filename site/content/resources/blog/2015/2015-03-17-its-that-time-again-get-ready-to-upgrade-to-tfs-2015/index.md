@@ -35,7 +35,10 @@ tags:
 - tfs-2015
 - upgrade
 categories:
-- upgrade-and-maintenance
+- Azure DevOps
+- Application Lifecycle Management
+- Install and Configuration
+- Technical Excellence
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

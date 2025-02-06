@@ -35,8 +35,7 @@ tags:
 - vs2010
 - vs2012
 categories:
-- me
-- tools-and-techniques
+- Application Lifecycle Management
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

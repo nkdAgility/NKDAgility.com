@@ -31,7 +31,11 @@ tags:
 - scrum-master
 - technical-mastery
 categories:
-- agility
+- Scrum
+- People and Process
+- Organisational Agility
+- Technical Excellence
+- Events and Presentations
 preview: 1029723898-1-1.jpg
 
 ---

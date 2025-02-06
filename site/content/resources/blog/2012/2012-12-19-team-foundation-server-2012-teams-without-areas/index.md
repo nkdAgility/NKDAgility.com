@@ -36,8 +36,8 @@ tags:
 - tfs2012-1
 - tools
 categories:
-- code-and-complexity
-- tools-and-techniques
+- Azure DevOps
+- Tools and Techniques
 preview: nakedalm-experts-visual-studio-alm-16-16.png
 
 ---

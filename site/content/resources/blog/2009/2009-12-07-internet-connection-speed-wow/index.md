@@ -30,7 +30,7 @@ aliasesFor404:
 - /blog/internet-connection-speed--wow
 - /resources/blog/internet-connection-speed-wow
 categories:
-- me
+- News and Reviews
 preview: nakedalm-logo-128-link-5-1.png
 
 ---

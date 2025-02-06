@@ -32,8 +32,9 @@ tags:
 - storage
 - vhd
 categories:
-- install-and-configuration
-- problems-and-puzzles
+- Install and Configuration
+- Azure DevOps
+- Code and Complexity
 preview: nakedalm-windows-logo-4-4.png
 
 ---

@@ -32,7 +32,9 @@ tags:
 - tfs2012-2
 - tools
 categories:
-- code-and-complexity
+- Azure DevOps
+- Install and Configuration
+- Code and Complexity
 
 ---
 Its hard to migrate source code even from one Visual Studio 2012 Team Foundation Server to another, especially when you also want to have your history. We have been forced in the past to use some hokie migration tools that only really partially work.

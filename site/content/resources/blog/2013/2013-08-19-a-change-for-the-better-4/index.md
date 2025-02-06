@@ -33,7 +33,8 @@ tags:
 - modern-alm
 - northwest-cadence
 categories:
-- news-and-reviews
+- Resilience and Change
+- News and Reviews
 preview: nakedalm-logo-128-link-4-4.png
 
 ---

@@ -29,7 +29,7 @@ tags:
 - sp2007
 - tools
 categories:
-- tools-and-techniques
+- Practical Techniques and Tooling
 preview: metro-sharepoint-128-link-2-1.png
 
 ---

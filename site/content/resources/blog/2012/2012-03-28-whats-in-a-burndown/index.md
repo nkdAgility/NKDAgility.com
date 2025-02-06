@@ -32,8 +32,8 @@ tags:
 - practices
 - scrum
 categories:
-- people-and-process
-- tools-and-techniques
+- metrics-and-learning
+- scrum
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

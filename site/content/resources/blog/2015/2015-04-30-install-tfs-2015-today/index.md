@@ -27,7 +27,10 @@ tags:
 - tfs
 - tfs-2015
 categories:
-- install-and-configuration
+- Install and Configuration
+- Azure DevOps
+- Application Lifecycle Management
+- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-11-11.png
 
 ---

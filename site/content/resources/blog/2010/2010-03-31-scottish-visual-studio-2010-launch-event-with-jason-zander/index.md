@@ -29,8 +29,7 @@ tags:
 - vs2010
 - wp7
 categories:
-- events-and-presentations
-- me
+- application-lifecycle-management
 preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---

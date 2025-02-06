@@ -28,8 +28,11 @@ tags:
 - product-owner
 - sprint-goal
 categories:
-- discovery-ideation
-- measure-and-learn
+- Agile Product Management
+- Discovery and Learning
+- Metrics and Learning
+- Value Delivery
+- Scrum
 preview: naked-agility-hypothesis-driven-2-2.jpg
 
 ---

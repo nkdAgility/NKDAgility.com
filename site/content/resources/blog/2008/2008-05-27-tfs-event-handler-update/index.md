@@ -26,8 +26,8 @@ tags:
 - tfs-event-handler
 - tools
 categories:
-- products-and-books
-- tools-and-techniques
+- Application Lifecycle Management
+- Products and Books
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

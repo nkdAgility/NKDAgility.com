@@ -32,7 +32,11 @@ tags:
 - professional-scrum-foundations
 - scrum
 categories:
-- agility
+- Scrum
+- Organisational Agility
+- People and Process
+- Discovery and Learning
+- Resilience and Change
 preview: clip_image006_thumb-3-3.jpg
 
 ---

@@ -32,7 +32,11 @@ aliasesFor404:
 tags:
 - product-owner
 categories:
-- measure-and-learn
+- Scaling Agility
+- Scrum
+- People and Process
+- Events and Presentations
+- Agile Product Management
 preview: 146713119-1-1.jpg
 
 ---

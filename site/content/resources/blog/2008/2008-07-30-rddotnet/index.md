@@ -25,7 +25,7 @@ tags:
 - off-topic
 - wit
 categories:
-- me
+- Azure DevOps
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

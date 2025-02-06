@@ -50,13 +50,8 @@ tags:
 - visual-studio
 - vs2010
 categories:
-- alm
-- code-and-complexity
-- events-and-presentations
-- people-and-process
-- problems-and-puzzles
-- tools-and-techniques
-- upgrade-and-maintenance
+- Application Lifecycle Management
+- People and Process
 preview: metro-visual-studio-2010-128-link-3-3.png
 
 ---

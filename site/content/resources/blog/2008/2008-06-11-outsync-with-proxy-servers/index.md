@@ -24,7 +24,7 @@ aliasesFor404:
 tags:
 - fail
 categories:
-- me
+- Install and Configuration
 preview: nakedalm-logo-128-link-2-1.png
 
 ---

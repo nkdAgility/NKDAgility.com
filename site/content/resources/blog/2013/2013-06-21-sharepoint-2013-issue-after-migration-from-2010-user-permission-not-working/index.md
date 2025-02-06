@@ -35,8 +35,7 @@ tags:
 - sharepoint
 - sharepoint-2013
 categories:
-- install-and-configuration
-- problems-and-puzzles
+- application-lifecycle-management
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

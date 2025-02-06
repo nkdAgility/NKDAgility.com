@@ -29,7 +29,8 @@ tags:
 - theme
 - wordpress
 categories:
-- news-and-reviews
+- Install and Configuration
+- News and Reviews
 preview: metro-pagelines-11-11.png
 
 ---

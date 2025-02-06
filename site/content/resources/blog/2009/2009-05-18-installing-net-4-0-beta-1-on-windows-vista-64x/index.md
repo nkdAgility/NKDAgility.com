@@ -29,7 +29,7 @@ tags:
 - code
 - tools
 categories:
-- code-and-complexity
+- Install and Configuration
 preview: metro-binary-vb-128-link-4-4.png
 
 ---

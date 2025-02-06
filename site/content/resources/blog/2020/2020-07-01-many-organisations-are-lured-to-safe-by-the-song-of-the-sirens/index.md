@@ -25,7 +25,11 @@ tags:
 - leadership-track
 - scrum-theory
 categories:
-- agility
+- Organisational Agility
+- Enterprise Agility
+- Scaling Agility
+- Resilience and Change
+- Complexity Thinking
 preview: Siren-mermaids-25084952-1378-1045-6-5.jpg
 
 ---

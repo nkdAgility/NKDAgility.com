@@ -31,8 +31,8 @@ tags:
 - tfs
 - tools
 categories:
-- code-and-complexity
-- tools-and-techniques
+- Application Lifecycle Management
+- Tools and Techniques
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---

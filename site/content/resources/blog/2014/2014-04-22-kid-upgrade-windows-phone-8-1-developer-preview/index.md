@@ -31,7 +31,9 @@ tags:
 - windows-phone-8-1
 - windows-phone
 categories:
-- news-and-reviews
+- News and Reviews
+- Discovery and Learning
+- Application Lifecycle Management
 preview: nakedalm-windows-logo-6-6.png
 
 ---

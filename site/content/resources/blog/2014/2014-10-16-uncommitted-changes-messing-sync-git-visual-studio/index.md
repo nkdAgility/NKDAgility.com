@@ -32,7 +32,11 @@ tags:
 - visual-studio-2013
 - visual-studio
 categories:
-- tools-and-techniques
+- Practical Techniques and Tooling
+- Application Lifecycle Management
+- DevOps
+- Technical Excellence
+- Tools and Techniques
 preview: naked-alm-git-2-2.png
 
 ---

@@ -30,8 +30,11 @@ tags:
 - scrum
 - tfs
 categories:
-- events-and-presentations
-- people-and-process
+- Metrics and Learning
+- People and Process
+- Value Delivery
+- Events and Presentations
+- Organisational Agility
 preview: nakedalm-agility-index-24-24.png
 
 ---

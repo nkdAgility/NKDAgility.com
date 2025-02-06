@@ -32,7 +32,11 @@ tags:
 - tfs-2015
 - vsteamservices
 categories:
-- tools-and-techniques
+- Azure DevOps
+- Install and Configuration
+- Practical Techniques and Tooling
+- DevOps
+- Application Lifecycle Management
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---

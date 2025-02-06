@@ -29,8 +29,8 @@ tags:
 - tfs-integration-platform
 - tools
 categories:
-- code-and-complexity
-- upgrade-and-maintenance
+- Azure DevOps
+- Install and Configuration
 
 ---
 As part of my current engagement I will be moving data from FogBugz via a custom CSV Tip Adapter for the TFS Integration Platform. This an adapter I wrote a while ago to facilitate moving data from Excel to TFS and I just ant to reuse it. The first thing I need is a development environment as I may need to tweak this ancient code.

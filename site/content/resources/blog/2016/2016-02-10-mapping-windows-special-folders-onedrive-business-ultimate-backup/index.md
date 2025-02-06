@@ -31,7 +31,9 @@ tags:
 - onedrive
 - windows
 categories:
-- install-and-configuration
+- Install and Configuration
+- Practical Techniques and Tooling
+- Value Delivery
 preview: clip_image001-1-1.png
 
 ---

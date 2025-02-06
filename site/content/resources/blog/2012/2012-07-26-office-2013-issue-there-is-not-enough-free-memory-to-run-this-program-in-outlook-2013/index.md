@@ -30,7 +30,7 @@ tags:
 - office-2013
 - puzzles
 categories:
-- problems-and-puzzles
+- Install and Configuration
 preview: metro-problem-icon-7-7.png
 
 ---

@@ -34,8 +34,11 @@ tags:
 - tfs
 - vsteamservices
 categories:
-- agility
-- events-and-presentations
+- Scaling Agility
+- Azure DevOps
+- Events and Presentations
+- Practical Techniques and Tooling
+- Scrum
 preview: Scalled-Professional-Scrum-1280-2-2.jpg
 
 ---

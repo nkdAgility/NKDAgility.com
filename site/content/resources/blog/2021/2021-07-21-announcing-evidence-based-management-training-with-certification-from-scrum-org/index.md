@@ -30,7 +30,11 @@ aliasesFor404:
 tags:
 - annoucement
 categories:
-- agility
+- Organisational Agility
+- Metrics and Learning
+- Value Delivery
+- Agile Product Management
+- Events and Presentations
 preview: images/Professional-Agile-Leadership-Evidence-Based-Management-6-6.jpg
 
 ---

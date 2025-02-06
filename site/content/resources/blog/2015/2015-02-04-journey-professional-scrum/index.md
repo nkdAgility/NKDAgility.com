@@ -34,7 +34,11 @@ tags:
 - scrum
 - sps
 categories:
-- people-and-process
+- People and Process
+- Scrum
+- Application Lifecycle Management
+- Organisational Agility
+- Scaling Agility
 preview: nakedalm-experts-professional-scrum-5-5.png
 
 ---

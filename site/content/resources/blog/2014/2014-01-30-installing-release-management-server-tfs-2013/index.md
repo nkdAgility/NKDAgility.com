@@ -33,7 +33,9 @@ tags:
 - tfs
 - tfs-2013
 categories:
-- install-and-configuration
+- Install and Configuration
+- Azure DevOps
+- Application Lifecycle Management
 
 ---
 Unless you have been living under a rock you might have noticed that Microsoft has added a Release Management tool to its Visual Studio product line. I have been playing with it for a while now and I think I have it figured out. However as this is a new addition to the product it is extremely poorly documented.

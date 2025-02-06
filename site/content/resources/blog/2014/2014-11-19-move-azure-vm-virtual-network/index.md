@@ -31,7 +31,8 @@ tags:
 - virtual-machines
 - virtual-network
 categories:
-- install-and-configuration
+- Install and Configuration
+- Azure DevOps
 preview: nakedalm-windows-logo-8-8.png
 
 ---

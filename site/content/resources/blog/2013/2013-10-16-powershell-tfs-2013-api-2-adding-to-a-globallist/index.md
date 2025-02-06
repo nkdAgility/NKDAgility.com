@@ -34,7 +34,7 @@ tags:
 - tfs-2013
 - workitemstore
 categories:
-- code-and-complexity
+- Azure DevOps
 preview: metro-powershell-logo-1-1.png
 
 ---

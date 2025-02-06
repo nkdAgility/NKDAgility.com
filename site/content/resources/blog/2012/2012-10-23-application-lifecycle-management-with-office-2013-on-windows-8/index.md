@@ -28,7 +28,8 @@ tags:
 - storyboarding
 - tools
 categories:
-- code-and-complexity
+- Application Lifecycle Management
+- Install and Configuration
 preview: metro-office-128-link-5-5.png
 
 ---

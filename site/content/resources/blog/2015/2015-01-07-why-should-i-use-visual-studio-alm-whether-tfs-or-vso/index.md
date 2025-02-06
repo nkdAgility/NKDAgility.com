@@ -39,7 +39,11 @@ tags:
 - visual-studio-alm
 - vsteamservices
 categories:
-- tools-and-techniques
+- Application Lifecycle Management
+- Azure DevOps
+- Practical Techniques and Tooling
+- Code and Complexity
+- People and Process
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

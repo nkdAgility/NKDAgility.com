@@ -35,7 +35,11 @@ tags:
 - tfs-2013
 - visual-studio-alm
 categories:
-- tools-and-techniques
+- Application Lifecycle Management
+- DevOps
+- Practical Techniques and Tooling
+- Metrics and Learning
+- Value Stream Management
 preview: nakedalm-experts-visual-studio-alm-4-4.png
 
 ---

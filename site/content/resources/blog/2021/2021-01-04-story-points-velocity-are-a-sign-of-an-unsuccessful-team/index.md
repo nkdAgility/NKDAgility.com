@@ -31,8 +31,11 @@ tags:
 - featured
 - leadership-track
 categories:
-- agility
-- measure-and-learn
+- Metrics and Learning
+- Scrum
+- Organisational Agility
+- People and Process
+- Value Delivery
 preview: image-9-14-14.png
 
 ---

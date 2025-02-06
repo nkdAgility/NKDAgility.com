@@ -27,7 +27,7 @@ tags:
 - sp2007
 - tools
 categories:
-- code-and-complexity
+- Install and Configuration
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

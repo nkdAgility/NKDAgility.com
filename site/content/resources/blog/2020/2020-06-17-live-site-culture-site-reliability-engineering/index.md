@@ -26,8 +26,10 @@ aliasesFor404:
 - /blog/live-site-culture-&-site-reliability-engineering
 - /resources/blog/live-site-culture-site-reliability-engineering
 categories:
-- agility
-- devops
+- Organisational Agility
+- Value Delivery
+- Events and Presentations
+- Azure DevOps
 preview: 2020-06-17_13-06-30-1-1.jpg
 
 ---

@@ -24,7 +24,11 @@ aliasesFor404:
 tags:
 - charity
 categories:
-- me
+- News and Reviews
+- Events and Presentations
+- People and Process
+- Value Delivery
+- Organisational Psychology
 preview: yorkhill-ice-bucket-challange-5-5.png
 
 ---

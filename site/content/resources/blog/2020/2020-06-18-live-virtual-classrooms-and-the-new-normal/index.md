@@ -28,7 +28,11 @@ aliasesFor404:
 tags:
 - leadership-track
 categories:
-- agility
+- Organisational Agility
+- People and Process
+- Discovery and Learning
+- Product Delivery
+- Events and Presentations
 preview: image-1-1-1.png
 
 ---

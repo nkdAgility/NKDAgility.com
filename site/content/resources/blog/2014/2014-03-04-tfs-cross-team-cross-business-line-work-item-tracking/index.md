@@ -30,7 +30,11 @@ tags:
 - tfs
 - tfs-2013
 categories:
-- tools-and-techniques
+- Azure DevOps
+- Application Lifecycle Management
+- People and Process
+- Organisational Agility
+- Value Stream Management
 preview: nakedalm-experts-visual-studio-alm-4-4.png
 
 ---

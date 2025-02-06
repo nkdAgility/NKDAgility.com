@@ -31,9 +31,9 @@ tags:
 - network
 - router
 categories:
-- install-and-configuration
-- problems-and-puzzles
-- tools-and-techniques
+- Install and Configuration
+- Practical Techniques and Tooling
+- Problems and Puzzles
 preview: naked-alm-hyper-v-17-17.png
 
 ---

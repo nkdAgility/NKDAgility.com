@@ -32,7 +32,8 @@ tags:
 - tfs2012
 - tfs-integration-platform
 categories:
-- problems-and-puzzles
+- Install and Configuration
+- Azure DevOps
 preview: metro-problem-icon-2-2.png
 
 ---

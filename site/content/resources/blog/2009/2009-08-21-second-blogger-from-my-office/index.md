@@ -24,7 +24,7 @@ aliasesFor404:
 tags:
 - aggreko
 categories:
-- me
+- Discovery and Learning
 preview: metro-aggreko-128-link-1-1.png
 
 ---

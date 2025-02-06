@@ -31,8 +31,8 @@ tags:
 - strategic
 - testing
 categories:
-- measure-and-learn
-- people-and-process
+- People and Process
+- Metrics and Learning
 preview: nakedalm-experts-professional-scrum-2-2.png
 
 ---

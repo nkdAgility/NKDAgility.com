@@ -36,9 +36,9 @@ tags:
 - tfs-2013
 - work-item-type
 categories:
-- code-and-complexity
-- install-and-configuration
-- problems-and-puzzles
+- Azure DevOps
+- Install and Configuration
+- Problems and Puzzles
 
 ---
 When customising your process template work item tracking gives you an “ArgumentNullException: Value cannot be null. Parameter name: key” exception with no more details.

@@ -34,7 +34,9 @@ tags:
 - vsbuild
 - vsteamservices
 categories:
-- problems-and-puzzles
+- Install and Configuration
+- Azure DevOps
+- Problems and Puzzles
 preview: puzzle-issue-problem-128-link-7-7.png
 
 ---

@@ -26,7 +26,7 @@ aliasesFor404:
 - /blog/fun-with-virgin+
 - /resources/blog/fun-with-virgin
 categories:
-- me
+- Install and Configuration
 preview: nakedalm-logo-128-link-3-3.png
 
 ---

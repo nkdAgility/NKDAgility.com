@@ -32,8 +32,11 @@ tags:
 - release
 - tfs
 categories:
-- problems-and-puzzles
-- tools-and-techniques
+- Azure DevOps
+- Install and Configuration
+- Practical Techniques and Tooling
+- Code and Complexity
+- Value Delivery
 preview: naked-alm-jenkins-logo-2-2.png
 
 ---

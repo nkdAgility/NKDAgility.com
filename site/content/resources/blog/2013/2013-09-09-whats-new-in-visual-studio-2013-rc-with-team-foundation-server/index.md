@@ -30,8 +30,8 @@ tags:
 - tfs-2013
 - whats-new
 categories:
-- products-and-books
-- tools-and-techniques
+- Azure DevOps
+- Products and Books
 preview: nakedalm-experts-visual-studio-alm-13-13.png
 
 ---

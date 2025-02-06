@@ -47,11 +47,8 @@ tags:
 - uk
 - upgrade
 categories:
-- events-and-presentations
-- install-and-configuration
-- me
-- news-and-reviews
-- tools-and-techniques
+- Application Lifecycle Management
+- Events and Presentations
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

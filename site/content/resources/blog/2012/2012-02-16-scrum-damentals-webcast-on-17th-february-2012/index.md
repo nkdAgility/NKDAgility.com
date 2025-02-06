@@ -31,8 +31,8 @@ tags:
 - webcast
 - webcast-2
 categories:
-- events-and-presentations
-- news-and-reviews
+- Events and Presentations
+- Scrum
 preview: metro-event-128-link-1-1.png
 
 ---

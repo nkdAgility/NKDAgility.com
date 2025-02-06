@@ -32,7 +32,7 @@ aliasesFor404:
 tags:
 - answers
 categories:
-- me
+- Metrics and Learning
 preview: nakedalm-logo-128-link-3-3.png
 
 ---

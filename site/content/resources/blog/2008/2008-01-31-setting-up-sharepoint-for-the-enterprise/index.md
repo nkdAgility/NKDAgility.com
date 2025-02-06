@@ -29,8 +29,8 @@ tags:
 - spf2010
 - tools
 categories:
-- code-and-complexity
-- tools-and-techniques
+- Install and Configuration
+- Tools and Techniques
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

@@ -41,7 +41,7 @@ tags:
 - visual-studio
 - vs2010
 categories:
-- code-and-complexity
+- Install and Configuration
 preview: metro-visual-studio-2010-128-link-3-3.png
 
 ---

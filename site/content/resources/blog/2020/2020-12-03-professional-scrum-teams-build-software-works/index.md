@@ -37,7 +37,11 @@ tags:
 - scrum-team
 - taylorism
 categories:
-- agility
+- Scrum
+- Technical Excellence
+- Product Delivery
+- Value Delivery
+- People and Process
 preview: nkdAgility-PSD-Krakow-02-1-1.jpg
 
 ---

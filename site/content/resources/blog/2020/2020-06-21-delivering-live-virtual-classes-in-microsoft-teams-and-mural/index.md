@@ -22,7 +22,11 @@ aliasesFor404:
 - /blog/delivering-live-virtual-classes-in-microsoft-teams-and-mural
 - /resources/blog/delivering-live-virtual-classes-in-microsoft-teams-and-mural
 categories:
-- agility
+- Agile Product Management
+- Scrum
+- Practical Techniques and Tooling
+- Organisational Agility
+- Events and Presentations
 preview: class-colage-2-8-8.jpg
 
 ---

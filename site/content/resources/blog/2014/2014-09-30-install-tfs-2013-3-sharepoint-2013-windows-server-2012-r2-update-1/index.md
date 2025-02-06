@@ -36,7 +36,11 @@ tags:
 - windows-server
 - windows-server-2012-r2
 categories:
-- install-and-configuration
+- Install and Configuration
+- Azure DevOps
+- Technical Excellence
+- Application Lifecycle Management
+- Value Stream Management
 preview: nakedalm-experts-visual-studio-alm-27-27.png
 
 ---

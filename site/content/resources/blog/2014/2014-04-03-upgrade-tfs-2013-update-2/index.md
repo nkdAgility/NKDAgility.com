@@ -33,9 +33,10 @@ tags:
 - tfs-2013
 - tfs-2013-2
 categories:
-- news-and-reviews
-- tools-and-techniques
-- upgrade-and-maintenance
+- Azure DevOps
+- Application Lifecycle Management
+- Install and Configuration
+- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---

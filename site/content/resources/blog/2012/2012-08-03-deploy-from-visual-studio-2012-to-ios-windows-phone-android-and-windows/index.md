@@ -39,7 +39,7 @@ tags:
 - vs2010
 - vsip
 categories:
-- tools-and-techniques
+- Application Lifecycle Management
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 
 ---

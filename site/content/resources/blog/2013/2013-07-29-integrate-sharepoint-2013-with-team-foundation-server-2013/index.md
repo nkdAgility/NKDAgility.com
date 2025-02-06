@@ -27,7 +27,8 @@ tags:
 - tfs
 - tfs-2013
 categories:
-- install-and-configuration
+- Install and Configuration
+- Azure DevOps
 
 ---
 You can integrate SharePoint 2013 with Team Foundation Server 2013 at any time and even link to your corporate SharePoint\*.

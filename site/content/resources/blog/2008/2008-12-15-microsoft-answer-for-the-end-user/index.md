@@ -22,7 +22,7 @@ aliasesFor404:
 - /blog/microsoft-answer-for-the-end-user
 - /resources/blog/microsoft-answer-for-the-end-user
 categories:
-- me
+- Install and Configuration
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

@@ -32,7 +32,8 @@ tags:
 - tf26204
 - tools
 categories:
-- install-and-configuration
+- Install and Configuration
+- Azure DevOps
 
 ---
 Configure Test Plans for web access in TFS 2012.2 is a little tricky and we need to be very specific on how we configure it so that our Team can see the right test Plans.

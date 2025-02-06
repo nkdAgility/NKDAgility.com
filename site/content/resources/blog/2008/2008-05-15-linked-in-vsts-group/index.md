@@ -28,7 +28,7 @@ tags:
 - tfs2008
 - tfs2010
 categories:
-- me
+- Azure DevOps
 preview: metro-visual-studio-2005-128-link-2-2.png
 
 ---

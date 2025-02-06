@@ -26,7 +26,7 @@ tags:
 - tools
 - windows-mobile-6
 categories:
-- me
+- Install and Configuration
 preview: nakedalm-logo-128-link-3-3.png
 
 ---

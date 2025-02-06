@@ -32,8 +32,7 @@ tags:
 - practices
 - tools
 categories:
-- code-and-complexity
-- people-and-process
+- technical-excellence
 preview: metro-binary-vb-128-link-2-2.png
 
 ---

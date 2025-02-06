@@ -34,8 +34,11 @@ tags:
 - leadership-track
 - merics
 categories:
-- measure-and-learn
-- people-and-process
+- Metrics and Learning
+- Value Delivery
+- Organisational Agility
+- People and Process
+- Evidence-based Management
 preview: naked-agility-evidence-based-management-1-1.jpg
 
 ---

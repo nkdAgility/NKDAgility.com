@@ -31,9 +31,11 @@ tags:
 - product-backlog
 - refinement
 categories:
-- agility
-- measure-and-learn
-- people-and-process
+- People and Process
+- Metrics and Learning
+- Scrum
+- Flow Efficiency
+- Discovery and Learning
 preview: iStock-847664136-1-1.jpg
 
 ---

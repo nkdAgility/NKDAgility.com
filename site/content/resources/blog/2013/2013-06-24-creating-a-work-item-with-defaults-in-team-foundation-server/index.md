@@ -27,7 +27,7 @@ tags:
 - tfs-2013
 - web-access
 categories:
-- install-and-configuration
+- Azure DevOps
 
 ---
 In some cases you want to be creating a Work Item with defaults in Team Foundation Server so that you can give access to users but also give them guidance on what to fill out.

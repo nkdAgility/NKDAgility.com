@@ -38,7 +38,11 @@ tags:
 - scrum
 - scrum-definition
 categories:
-- people-and-process
+- Organisational Agility
+- People and Process
+- Scaling Agility
+- Resilience and Change
+- Value Delivery
 preview: nkdagility-create-your-own-path-to-agility-3-3.jpg
 
 ---

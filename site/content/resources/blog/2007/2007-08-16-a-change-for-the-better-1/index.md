@@ -31,8 +31,7 @@ tags:
 - change-for-the-better
 - ml
 categories:
-- People and Process
-- Personal
+- Discovery and Learning
 preview: metro-aggreko-128-link-1-1.png
 
 ---

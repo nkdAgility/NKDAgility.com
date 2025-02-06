@@ -26,7 +26,9 @@ aliasesFor404:
 - /blog/blogging-from-2500-meters
 - /resources/blog/blogging-2500-meters
 categories:
-- news-and-reviews
+- News and Reviews
+- Discovery and Learning
+- Practical Techniques and Tooling
 preview: nakedalm-logo-260-7-7.png
 
 ---

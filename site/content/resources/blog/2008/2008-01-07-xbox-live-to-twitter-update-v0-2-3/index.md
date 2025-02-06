@@ -32,8 +32,7 @@ tags:
 - live
 - xbox
 categories:
-- code-and-complexity
-- me
+- application-lifecycle-management
 preview: metro-xbox-360-link-1-1.png
 
 ---

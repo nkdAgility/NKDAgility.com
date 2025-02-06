@@ -27,7 +27,11 @@ tags:
 - product-discovery
 - product-owner
 categories:
-- discovery-ideation
+- Value Delivery
+- Metrics and Learning
+- Discovery and Learning
+- People and Process
+- Agile Product Management
 preview: wizard-of-oz-ruby-slippers-2018-billboard-1548-2-2.jpg
 
 ---

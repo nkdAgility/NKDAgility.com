@@ -29,8 +29,8 @@ tags:
 - tfs-2012-3
 - tfs-2013
 categories:
-- news-and-reviews
-- products-and-books
+- Azure DevOps
+- News and Reviews
 
 ---
 Did you know that Team Foundation Server 2013 is production ready?

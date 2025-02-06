@@ -39,7 +39,7 @@ tags:
 - visual-studio
 - vs2010
 categories:
-- code-and-complexity
+- events-and-presentations
 preview: metro-visual-studio-2010-128-link-2-2.png
 
 ---

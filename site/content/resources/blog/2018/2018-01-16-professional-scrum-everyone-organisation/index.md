@@ -34,7 +34,11 @@ tags:
 - scrum-definition
 - training
 categories:
-- agility
+- Organisational Agility
+- Scrum
+- Value Delivery
+- People and Process
+- Resilience and Change
 preview: nkdagility-professional-scrum-is-for-everyone-1-2-2.jpg
 
 ---

@@ -42,8 +42,9 @@ tags:
 - vstest
 - xcode
 categories:
-- install-and-configuration
-- tools-and-techniques
+- Install and Configuration
+- Azure DevOps
+- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-26-26.png
 
 ---

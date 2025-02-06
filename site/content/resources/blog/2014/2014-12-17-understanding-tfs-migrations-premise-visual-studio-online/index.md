@@ -30,7 +30,11 @@ tags:
 - tfs
 - vsteamservices
 categories:
-- news-and-reviews
+- Application Lifecycle Management
+- Azure DevOps
+- Install and Configuration
+- Practical Techniques and Tooling
+- News and Reviews
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 
 ---

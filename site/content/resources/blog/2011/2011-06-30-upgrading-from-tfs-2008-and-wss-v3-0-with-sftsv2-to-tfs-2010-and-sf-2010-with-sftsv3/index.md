@@ -37,9 +37,8 @@ tags:
 - tfs2010
 - tools
 categories:
-- code-and-complexity
-- tools-and-techniques
-- upgrade-and-maintenance
+- Azure DevOps
+- Upgrade and Maintenance
 preview: metro-visual-studio-2005-128-link-33-33.png
 
 ---

@@ -32,7 +32,11 @@ tags:
 - scrum
 - the-sprint
 categories:
-- news-and-reviews
+- Scrum
+- Flow Efficiency
+- Kanban
+- People and Process
+- Value Delivery
 preview: nkdagility-cross-sprint-boundary-2-1.png
 
 ---

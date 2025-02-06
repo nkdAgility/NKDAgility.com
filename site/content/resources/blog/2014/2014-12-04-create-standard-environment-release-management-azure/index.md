@@ -37,8 +37,11 @@ tags:
 - virtual-network
 - vsteamservices
 categories:
-- install-and-configuration
-- tools-and-techniques
+- Install and Configuration
+- Azure DevOps
+- Application Lifecycle Management
+- Practical Techniques and Tooling
+- Events and Presentations
 preview: nakedalm-windows-logo-16-16.png
 
 ---

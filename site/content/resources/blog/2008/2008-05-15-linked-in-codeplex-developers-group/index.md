@@ -22,7 +22,7 @@ aliasesFor404:
 - /blog/linked-in-codeplex-developers-group
 - /resources/blog/linked-in-codeplex-developers-group
 categories:
-- me
+- People and Process
 preview: nakedalm-logo-128-link-3-3.png
 
 ---

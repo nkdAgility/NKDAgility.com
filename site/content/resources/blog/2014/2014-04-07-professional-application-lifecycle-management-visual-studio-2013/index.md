@@ -32,7 +32,11 @@ tags:
 - visual-studio-2013
 - visual-studio
 categories:
-- news-and-reviews
+- Application Lifecycle Management
+- Products and Books
+- News and Reviews
+- Practical Techniques and Tooling
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

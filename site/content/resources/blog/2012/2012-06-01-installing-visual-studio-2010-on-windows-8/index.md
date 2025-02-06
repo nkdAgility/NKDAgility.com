@@ -30,7 +30,7 @@ tags:
 - vs2012
 - win8
 categories:
-- tools-and-techniques
+- Install and Configuration
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---

@@ -34,8 +34,8 @@ tags:
 - tools
 - version-control
 categories:
-- install-and-configuration
-- tools-and-techniques
+- Azure DevOps
+- Install and Configuration
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

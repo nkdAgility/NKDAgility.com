@@ -26,7 +26,7 @@ tags:
 - linkedin
 - outlook-2010
 categories:
-- me
+- News and Reviews
 preview: nakedalm-logo-128-link-4-4.png
 
 ---

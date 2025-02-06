@@ -33,10 +33,11 @@ tags:
 - leadership-track
 - scrum-theory
 categories:
-- discovery-ideation
-- measure-and-learn
-- people-and-process
-- transparency-commitment
+- Organisational Agility
+- Resilience and Change
+- People and Process
+- Discovery and Learning
+- Events and Presentations
 preview: image-15-5-4.png
 
 ---

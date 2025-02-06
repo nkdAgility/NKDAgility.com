@@ -32,9 +32,9 @@ tags:
 - series-modern-application-lifecycle
 - the-new-normal
 categories:
-- measure-and-learn
-- people-and-process
-- tools-and-techniques
+- Application Lifecycle Management
+- People and Process
+- Metrics and Learning
 preview: metro-new-normal-icon-28-28.png
 
 ---

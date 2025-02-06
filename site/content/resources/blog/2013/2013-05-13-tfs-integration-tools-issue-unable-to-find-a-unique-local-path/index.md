@@ -34,7 +34,7 @@ tags:
 - tfs-integration-platform
 - tools
 categories:
-- problems-and-puzzles
+- Install and Configuration
 preview: puzzle-issue-problem-128-link-2-2.png
 
 ---

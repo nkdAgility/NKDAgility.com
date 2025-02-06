@@ -28,7 +28,10 @@ tags:
 - professional-kanban
 - professional-scrum-with-kanban
 categories:
-- news-and-reviews
+- Kanban
+- People and Process
+- Value Stream Management
+- News and Reviews
 preview: applying-professional-kanban-background-logo-2-2.jpg
 
 ---

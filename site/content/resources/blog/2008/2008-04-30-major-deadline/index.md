@@ -26,7 +26,7 @@ tags:
 - sharepoint
 - sp2007
 categories:
-- me
+- Application Lifecycle Management
 preview: metro-sharepoint-128-link-5-5.png
 
 ---

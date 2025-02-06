@@ -31,7 +31,7 @@ tags:
 - win8
 - win8-1
 categories:
-- problems-and-puzzles
+- Install and Configuration
 preview: nakedalm-windows-logo-12-12.png
 
 ---

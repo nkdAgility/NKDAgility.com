@@ -35,7 +35,8 @@ tags:
 - ssw
 - tools
 categories:
-- events-and-presentations
+- Events and Presentations
+- Scrum
 preview: metro-event-128-link-1-1.png
 
 ---

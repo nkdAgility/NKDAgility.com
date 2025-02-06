@@ -28,7 +28,7 @@ aliasesFor404:
 tags:
 - wordpress
 categories:
-- me
+- Install and Configuration
 preview: nakedalm-logo-128-link-4-4.png
 
 ---

@@ -41,7 +41,11 @@ tags:
 - tfs-2013-3
 - vsteamservices
 categories:
-- events-and-presentations
+- Events and Presentations
+- Azure DevOps
+- Application Lifecycle Management
+- Practical Techniques and Tooling
+- Value Delivery
 preview: metro-event-icon-7-7.png
 
 ---

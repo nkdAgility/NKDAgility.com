@@ -24,9 +24,8 @@ aliasesFor404:
 tags:
 - modern-alm
 categories:
-- events-and-presentations
-- me
-- products-and-books
+- Products and Books
+- Events and Presentations
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

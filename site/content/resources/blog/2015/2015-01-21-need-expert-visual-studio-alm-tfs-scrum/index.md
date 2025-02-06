@@ -36,7 +36,11 @@ tags:
 - tfs
 - training
 categories:
-- news-and-reviews
+- Application Lifecycle Management
+- Scrum
+- Azure DevOps
+- People and Process
+- News and Reviews
 preview: nakedalm-logo-260-5-5.png
 
 ---

@@ -34,7 +34,7 @@ tags:
 - process
 - tfs-2013
 categories:
-- tools-and-techniques
+- Application Lifecycle Management
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

@@ -32,7 +32,9 @@ tags:
 - svn
 - tfs
 categories:
-- install-and-configuration
+- Install and Configuration
+- Azure DevOps
+- Practical Techniques and Tooling
 preview: naked-alm-jenkins-logo-9-9.png
 
 ---

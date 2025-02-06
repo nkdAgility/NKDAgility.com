@@ -27,9 +27,8 @@ tags:
 - wit
 - wpf
 categories:
-- code-and-complexity
-- me
-- tools-and-techniques
+- Application Lifecycle Management
+- Tools and Techniques
 preview: metro-binary-vb-128-link-3-1.png
 
 ---

@@ -25,8 +25,11 @@ tags:
 - scrum-master
 - scrum-masters
 categories:
-- news-and-reviews
-- people-and-process
+- Scrum
+- People and Process
+- Agile Product Management
+- Organisational Agility
+- Technical Excellence
 preview: Wide-screen-scrum-master-3-3.jpg
 
 ---

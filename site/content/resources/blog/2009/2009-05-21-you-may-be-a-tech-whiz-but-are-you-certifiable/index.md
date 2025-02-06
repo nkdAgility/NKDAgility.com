@@ -30,7 +30,7 @@ aliasesFor404:
 - /blog/you-may-be-a-tech-whiz--but-are-you-certifiable-
 - /resources/blog/you-may-be-a-tech-whiz-but-are-you-certifiable
 categories:
-- me
+- Discovery and Learning
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

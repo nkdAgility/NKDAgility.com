@@ -26,7 +26,7 @@ tags:
 - wit
 - wpf
 categories:
-- me
+- Agile Product Management
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

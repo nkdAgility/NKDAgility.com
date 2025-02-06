@@ -32,7 +32,8 @@ tags:
 - tfs
 - tfs-2013
 categories:
-- problems-and-puzzles
+- Install and Configuration
+- Azure DevOps
 preview: puzzle-issue-problem-128-link-3-3.png
 
 ---

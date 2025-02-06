@@ -32,9 +32,9 @@ tags:
 - windows
 - windows-10
 categories:
-- install-and-configuration
-- measure-and-learn
-- news-and-reviews
+- scaling-agility
+- application-lifecycle-management
+- technical-excellence
 preview: nakedalm-windows-logo-12-12.png
 
 ---

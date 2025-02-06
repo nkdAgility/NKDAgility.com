@@ -27,7 +27,7 @@ tags:
 - wp7
 - xbox
 categories:
-- me
+- Application Lifecycle Management
 preview: metro-xbox-360-link-2-2.png
 
 ---

@@ -29,7 +29,11 @@ tags:
 - live-webcast
 - qa
 categories:
-- agility
+- Events and Presentations
+- Agile Product Management
+- People and Process
+- Scrum
+- Discovery and Learning
 preview: 2020-03-27_21-33-56-1-1.jpg
 
 ---

@@ -29,7 +29,11 @@ tags:
 - leadership-track
 - scrum-theory
 categories:
-- news-and-reviews
+- Scrum
+- News and Reviews
+- Agile Product Management
+- People and Process
+- Value Delivery
 preview: naked-Agility-Scrum-Framework-3-2.jpg
 
 ---

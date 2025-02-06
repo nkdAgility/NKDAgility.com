@@ -32,7 +32,11 @@ tags:
 - professional-scrum-with-kanban
 - scrum
 categories:
-- agility
+- Kanban
+- Scrum
+- Metrics and Learning
+- Value Delivery
+- People and Process
 preview: nkdagility-scrum-and-kanban-1900-2-1.png
 
 ---

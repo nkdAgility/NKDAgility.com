@@ -22,7 +22,7 @@ aliasesFor404:
 - /blog/mozy-backup-providing-extra-space-this-month
 - /resources/blog/mozy-backup-providing-extra-space-this-month
 categories:
-- me
+- News and Reviews
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

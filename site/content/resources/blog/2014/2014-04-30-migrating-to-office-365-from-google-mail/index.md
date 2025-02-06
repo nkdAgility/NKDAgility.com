@@ -29,7 +29,11 @@ tags:
 - migration
 - office-365
 categories:
-- tools-and-techniques
+- Install and Configuration
+- Practical Techniques and Tooling
+- Azure DevOps
+- Code and Complexity
+- Value Delivery
 preview: metro-office-128-link-3-3.png
 
 ---

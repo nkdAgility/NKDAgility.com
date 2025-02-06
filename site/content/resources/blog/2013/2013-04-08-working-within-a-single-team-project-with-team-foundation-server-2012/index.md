@@ -41,7 +41,7 @@ tags:
 - tools
 - wiql
 categories:
-- tools-and-techniques
+- Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 
 ---

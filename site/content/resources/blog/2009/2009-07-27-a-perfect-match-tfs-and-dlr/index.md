@@ -28,8 +28,8 @@ tags:
 - visual-studio
 - vs2010
 categories:
-- code-and-complexity
-- me
+- Azure DevOps
+- Code and Complexity
 preview: metro-visual-studio-2010-128-link-3-3.png
 
 ---

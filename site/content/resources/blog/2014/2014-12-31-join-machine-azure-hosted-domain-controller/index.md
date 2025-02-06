@@ -29,7 +29,8 @@ tags:
 - active-directory
 - azure
 categories:
-- install-and-configuration
+- Install and Configuration
+- Azure DevOps
 preview: nakedalm-windows-logo-6-6.png
 
 ---

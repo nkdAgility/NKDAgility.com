@@ -28,7 +28,8 @@ tags:
 - tfs-2013
 - upgrade
 categories:
-- news-and-reviews
+- Azure DevOps
+- News and Reviews
 
 ---
 The product team have put some more engineering resources where their mouth is and the great Team Foundation Server 2013 Upgrade Weekend will be on September 13-15.

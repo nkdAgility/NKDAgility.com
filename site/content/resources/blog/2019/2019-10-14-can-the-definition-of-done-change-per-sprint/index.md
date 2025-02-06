@@ -28,11 +28,11 @@ aliasesFor404:
 tags:
 - definition-of-done
 categories:
-- agility
-- code-and-complexity
-- devops
-- measure-and-learn
-- tools-and-techniques
+- Scrum
+- People and Process
+- Metrics and Learning
+- Technical Excellence
+- Value Delivery
 preview: 20190906_152025-2-2.gif
 
 ---

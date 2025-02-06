@@ -29,7 +29,7 @@ tags:
 - office
 - tools
 categories:
-- me
+- Discovery and Learning
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

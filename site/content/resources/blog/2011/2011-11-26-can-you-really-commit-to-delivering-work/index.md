@@ -33,7 +33,8 @@ tags:
 - process
 - scrum
 categories:
-- people-and-process
+- People and Process
+- Scrum
 preview: nakedalm-experts-professional-scrum-5-5.png
 
 ---

@@ -36,8 +36,7 @@ tags:
 - tfs-2012-3
 - tfs-2013
 categories:
-- code-and-complexity
-- problems-and-puzzles
+- Azure DevOps
 preview: puzzle-issue-problem-128-link-2-2.png
 
 ---

@@ -28,7 +28,9 @@ aliasesFor404:
 tags:
 - onedrive
 categories:
-- install-and-configuration
+- Install and Configuration
+- Azure DevOps
+- Practical Techniques and Tooling
 preview: clip_image001-1-1-1.png
 
 ---

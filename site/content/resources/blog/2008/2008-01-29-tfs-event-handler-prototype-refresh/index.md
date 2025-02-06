@@ -36,7 +36,8 @@ tags:
 - vs2008
 - wit
 categories:
-- code-and-complexity
+- Application Lifecycle Management
+- Install and Configuration
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

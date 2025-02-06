@@ -24,7 +24,8 @@ aliasesFor404:
 tags:
 - live
 categories:
-- news-and-reviews
+- News and Reviews
+- Install and Configuration
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

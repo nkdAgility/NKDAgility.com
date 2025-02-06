@@ -26,8 +26,11 @@ tags:
 - professional-scrum
 - professionalism
 categories:
-- people-and-process
-- transparency-commitment
+- People and Process
+- Transparency and Accountability
+- Organisational Agility
+- Technical Excellence
+- Scrum
 preview: naked-agility-technically-agile-1280×720-19-1-1.jpg
 
 ---

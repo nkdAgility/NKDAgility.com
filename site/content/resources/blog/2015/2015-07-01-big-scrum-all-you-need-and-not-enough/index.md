@@ -33,7 +33,11 @@ tags:
 - scrum
 - scrum-at-scale
 categories:
-- people-and-process
+- Scaling Agility
+- Scrum
+- Technical Excellence
+- People and Process
+- Events and Presentations
 preview: clip_image003-3-3.png
 
 ---

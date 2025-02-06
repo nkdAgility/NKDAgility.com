@@ -30,7 +30,11 @@ tags:
 - powershell
 - release-management
 categories:
-- install-and-configuration
+- Install and Configuration
+- Azure DevOps
+- Practical Techniques and Tooling
+- Application Lifecycle Management
+- Events and Presentations
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 
 ---

@@ -32,7 +32,7 @@ tags:
 - tfs-integration-platform
 - tools
 categories:
-- code-and-complexity
+- Azure DevOps
 
 ---
 If you say my post on “TFS Integration Tools - Issue: TF10141 No Files checked in as a result of a TFS check-in failure” which I just updated you will know that I messed up the conflict resolution by mixing up the “Source Version” and “Target Version”.

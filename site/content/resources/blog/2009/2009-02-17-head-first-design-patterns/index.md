@@ -27,7 +27,7 @@ tags:
 - dyslexia
 - practices
 categories:
-- products-and-books
+- Products and Books
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

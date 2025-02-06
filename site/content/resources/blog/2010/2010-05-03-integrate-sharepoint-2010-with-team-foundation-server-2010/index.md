@@ -35,8 +35,8 @@ tags:
 - tfs2010
 - tools
 categories:
-- code-and-complexity
-- upgrade-and-maintenance
+- Install and Configuration
+- Azure DevOps
 preview: metro-visual-studio-2010-128-link-15-15.png
 
 ---

@@ -25,7 +25,11 @@ tags:
 - featured
 - sprint-review
 categories:
-- people-and-process
+- People and Process
+- Scrum
+- Value Delivery
+- Discovery and Learning
+- Transparency and Accountability
 preview: nkdAgility-backlog-item-approve-1-1.jpg
 
 ---

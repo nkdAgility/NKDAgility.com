@@ -32,7 +32,7 @@ tags:
 - tfs
 - tfs-2013
 categories:
-- problems-and-puzzles
+- Install and Configuration
 preview: metro-problem-icon-4-4.png
 
 ---

@@ -35,8 +35,8 @@ tags:
 - tf254027
 - tf400998
 categories:
-- install-and-configuration
-- problems-and-puzzles
+- Install and Configuration
+- Azure DevOps
 preview: puzzle-issue-problem-128-link-3-3.png
 
 ---

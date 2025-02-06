@@ -27,8 +27,8 @@ tags:
 - code
 - configuration
 categories:
-- code-and-complexity
-- install-and-configuration
+- Install and Configuration
+- Azure DevOps
 
 ---
 If you want to customise the colours in Team Foundation Server 2013 Agile Planning Tools you need to download and edit the Process Configuration file that tells TFS how to configure many of the features in the Web Access.

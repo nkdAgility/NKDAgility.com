@@ -24,7 +24,7 @@ aliasesFor404:
 tags:
 - xbox
 categories:
-- me
+- News and Reviews
 preview: metro-xbox-360-link-1-1.png
 
 ---

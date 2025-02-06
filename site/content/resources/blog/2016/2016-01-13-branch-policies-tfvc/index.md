@@ -28,8 +28,9 @@ aliasesFor404:
 tags:
 - devops
 categories:
-- code-and-complexity
-- install-and-configuration
+- Azure DevOps
+- Install and Configuration
+- Code and Complexity
 preview: image-2-2-2.png
 
 ---

@@ -31,9 +31,8 @@ tags:
 - measure
 - why
 categories:
-- me
-- measure-and-learn
-- people-and-process
+- Application Lifecycle Management
+- People and Process
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

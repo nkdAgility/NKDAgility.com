@@ -34,7 +34,7 @@ tags:
 - tools
 - windows-server
 categories:
-- code-and-complexity
+- Install and Configuration
 preview: puzzle-issue-problem-128-link-6-6.png
 
 ---

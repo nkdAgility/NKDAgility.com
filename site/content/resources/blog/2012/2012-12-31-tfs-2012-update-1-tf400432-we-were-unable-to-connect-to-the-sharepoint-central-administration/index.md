@@ -37,8 +37,8 @@ tags:
 - tfs2012-1
 - tools
 categories:
-- code-and-complexity
-- problems-and-puzzles
+- Install and Configuration
+- Problems and Puzzles
 preview: metro-problem-icon-3-3.png
 
 ---

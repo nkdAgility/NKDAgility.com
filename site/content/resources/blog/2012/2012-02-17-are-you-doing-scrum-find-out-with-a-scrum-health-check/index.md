@@ -32,8 +32,8 @@ tags:
 - process
 - scrum
 categories:
-- people-and-process
-- products-and-books
+- Scrum
+- People and Process
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

@@ -33,7 +33,7 @@ tags:
 - tf250052
 - tfs2012
 categories:
-- problems-and-puzzles
+- Install and Configuration
 preview: metro-problem-icon-2-2.png
 
 ---

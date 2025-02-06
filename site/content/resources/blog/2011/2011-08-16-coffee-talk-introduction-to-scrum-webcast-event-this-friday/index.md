@@ -33,8 +33,7 @@ tags:
 - practices
 - scrum
 categories:
-- events-and-presentations
-- people-and-process
+- scrum
 preview: metro-event-128-link-2-2.png
 
 ---

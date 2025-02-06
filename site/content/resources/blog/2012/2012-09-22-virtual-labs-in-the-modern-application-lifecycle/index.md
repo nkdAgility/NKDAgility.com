@@ -36,7 +36,7 @@ tags:
 - visual-studio
 - vs2012
 categories:
-- tools-and-techniques
+- Application Lifecycle Management
 preview: metro-lab-5-5.png
 
 ---

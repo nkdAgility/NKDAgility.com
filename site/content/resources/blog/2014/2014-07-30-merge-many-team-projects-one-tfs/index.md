@@ -34,7 +34,11 @@ tags:
 - tfs-integration-platform
 - workitemtracking
 categories:
-- tools-and-techniques
+- Azure DevOps
+- Install and Configuration
+- Practical Techniques and Tooling
+- Application Lifecycle Management
+- Technical Excellence
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---

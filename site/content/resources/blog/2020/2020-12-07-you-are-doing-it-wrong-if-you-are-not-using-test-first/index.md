@@ -32,8 +32,11 @@ tags:
 - tdd
 - test-first
 categories:
-- people-and-process
-- tools-and-techniques
+- Technical Excellence
+- People and Process
+- Metrics and Learning
+- Value Delivery
+- Discovery and Learning
 preview: nkdAgility-PSD-Krakow-0-1-1.jpg
 
 ---

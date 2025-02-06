@@ -28,7 +28,7 @@ tags:
 - tools
 - windows-server
 categories:
-- code-and-complexity
+- Install and Configuration
 preview: metro-server-instances-7-7.png
 
 ---

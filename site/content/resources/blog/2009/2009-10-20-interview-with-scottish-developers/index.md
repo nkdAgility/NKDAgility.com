@@ -22,7 +22,7 @@ aliasesFor404:
 - /blog/interview-with-scottish-developers
 - /resources/blog/interview-with-scottish-developers
 categories:
-- me
+- Events and Presentations
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

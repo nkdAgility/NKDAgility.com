@@ -32,7 +32,9 @@ tags:
 - visual-studio-2015
 - vsteamservices
 categories:
-- tools-and-techniques
+- Install and Configuration
+- Azure DevOps
+- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-27-27.png
 
 ---

@@ -34,7 +34,7 @@ tags:
 - vs2010
 - wpf
 categories:
-- code-and-complexity
+- Code and Complexity
 preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---

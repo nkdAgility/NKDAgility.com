@@ -32,7 +32,7 @@ tags:
 - tools
 - windows-mobile-6
 categories:
-- me
+- Install and Configuration
 preview: metro-android-1-1.png
 
 ---

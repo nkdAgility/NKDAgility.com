@@ -22,7 +22,7 @@ aliasesFor404:
 - /blog/interview-with-my-favourite-author
 - /resources/blog/interview-with-my-favourite-author
 categories:
-- me
+- Products and Books
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

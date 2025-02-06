@@ -33,7 +33,8 @@ tags:
 - scrum
 - ssw
 categories:
-- people-and-process
+- Scrum
+- People and Process
 preview: metro-SSWLogo-128-link-1-1.png
 
 ---

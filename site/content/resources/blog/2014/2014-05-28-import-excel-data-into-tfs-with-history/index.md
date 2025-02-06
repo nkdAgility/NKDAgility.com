@@ -30,8 +30,10 @@ tags:
 - tfs-2013
 - vba
 categories:
-- tools-and-techniques
-- upgrade-and-maintenance
+- Azure DevOps
+- Practical Techniques and Tooling
+- Application Lifecycle Management
+- Code and Complexity
 preview: metro-office-128-link-3-3.png
 
 ---

@@ -29,7 +29,11 @@ tags:
 - indyref
 - iscotland
 categories:
-- me
+- Value Delivery
+- Market Adaptability
+- News and Reviews
+- Organisational Agility
+- Resilience and Change
 preview: metro-yes-scotland-128-link-1-1.png
 
 ---

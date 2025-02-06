@@ -30,7 +30,8 @@ tags:
 - process
 - scrum
 categories:
-- people-and-process
+- Scrum
+- People and Process
 preview: nakedalm-logo-128-link-6-6.png
 
 ---

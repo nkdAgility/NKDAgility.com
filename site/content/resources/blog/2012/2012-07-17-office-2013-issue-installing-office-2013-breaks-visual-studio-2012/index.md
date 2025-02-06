@@ -33,7 +33,7 @@ tags:
 - puzzles
 - vs2012
 categories:
-- problems-and-puzzles
+- Install and Configuration
 preview: metro-problem-icon-4-4.png
 
 ---

@@ -29,7 +29,9 @@ tags:
 - live-id
 - microsoft-id
 categories:
-- news-and-reviews
+- Install and Configuration
+- Azure DevOps
+- News and Reviews
 preview: nakedalm-windows-logo-7-7.png
 
 ---

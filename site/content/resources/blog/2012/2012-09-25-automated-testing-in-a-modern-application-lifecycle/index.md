@@ -38,7 +38,7 @@ tags:
 - tools
 - vs2012
 categories:
-- tools-and-techniques
+- Application Lifecycle Management
 preview: metro-automated-test-icon-4-4.png
 
 ---

@@ -31,9 +31,11 @@ tags:
 - product-discovery
 - refinement
 categories:
-- agility
-- discovery-ideation
-- people-and-process
+- Scrum
+- People and Process
+- Agile Product Management
+- Discovery and Learning
+- Value Delivery
 preview: naked-Agility-Scrum-Framework-Product-Backlog-2-1.jpg
 
 ---

@@ -24,7 +24,7 @@ aliasesFor404:
 tags:
 - dyslexia
 categories:
-- me
+- People and Process
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

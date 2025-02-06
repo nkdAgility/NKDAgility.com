@@ -28,8 +28,11 @@ tags:
 - scrum
 - scrum-definition
 categories:
-- people-and-process
-- problems-and-puzzles
+- People and Process
+- Organisational Agility
+- Value Delivery
+- Lean
+- Enterprise Agility
 preview: nkdAgility-dod-change-procurement-agile-wide-15-15.jpg
 
 ---

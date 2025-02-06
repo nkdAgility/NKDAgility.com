@@ -41,7 +41,9 @@ tags:
 - visual-studio
 - vs2010
 categories:
-- tools-and-techniques
+- Scrum
+- Application Lifecycle Management
+- Practical Techniques and Tooling
 preview: metro-visual-studio-2010-128-link-18-18.png
 
 ---

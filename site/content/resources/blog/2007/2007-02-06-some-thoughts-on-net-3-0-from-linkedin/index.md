@@ -28,7 +28,7 @@ aliasesFor404:
 tags:
 - wpf
 categories:
-- code-and-complexity
+- application-lifecycle-management
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

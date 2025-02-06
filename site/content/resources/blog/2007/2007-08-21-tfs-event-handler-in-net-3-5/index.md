@@ -33,7 +33,8 @@ tags:
 - tools
 - wit
 categories:
-- application-lifecycle-management
+- Application Lifecycle Management
+- Azure DevOps
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

@@ -28,7 +28,8 @@ tags:
 - tfs-2013
 - tools
 categories:
-- install-and-configuration
+- Install and Configuration
+- Azure DevOps
 
 ---
 So you have upgraded to Team Foundation Server 2013 but you still don’t have some of the features that you upgraded for. There is a wizard for that but it is not supper discoverable that allows you to configure features in Team Foundation Server 2013.

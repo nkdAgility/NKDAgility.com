@@ -39,8 +39,7 @@ tags:
 - vs2010
 - vs2012
 categories:
-- tools-and-techniques
-- upgrade-and-maintenance
+- Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---

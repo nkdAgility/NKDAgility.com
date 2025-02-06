@@ -33,7 +33,9 @@ tags:
 - tfs2012
 - tfs-2013
 categories:
-- problems-and-puzzles
+- Azure DevOps
+- Install and Configuration
+- Problems and Puzzles
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

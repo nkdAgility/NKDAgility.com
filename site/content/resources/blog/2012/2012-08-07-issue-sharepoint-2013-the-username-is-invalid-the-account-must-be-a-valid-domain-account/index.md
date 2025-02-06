@@ -29,7 +29,7 @@ tags:
 - puzzles
 - sharepoint
 categories:
-- problems-and-puzzles
+- Install and Configuration
 preview: metro-problem-icon-5-5.png
 
 ---

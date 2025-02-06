@@ -36,8 +36,7 @@ tags:
 - visual-studio
 - vs2012
 categories:
-- people-and-process
-- tools-and-techniques
+- Agile Product Management
 preview: nakedalm-experts-visual-studio-alm-14-14.png
 
 ---

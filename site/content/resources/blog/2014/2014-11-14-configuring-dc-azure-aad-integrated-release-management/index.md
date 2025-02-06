@@ -32,7 +32,9 @@ tags:
 - release-management
 - release-management-server
 categories:
-- install-and-configuration
+- Install and Configuration
+- Azure DevOps
+- Events and Presentations
 preview: nakedalm-windows-logo-22-22.png
 
 ---

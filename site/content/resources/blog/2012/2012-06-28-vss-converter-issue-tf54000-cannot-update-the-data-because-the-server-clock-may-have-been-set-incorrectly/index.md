@@ -35,8 +35,8 @@ tags:
 - tools
 - visual-sourcesafe
 categories:
-- code-and-complexity
-- problems-and-puzzles
+- Azure DevOps
+- Problems and Puzzles
 
 ---
 ### Issue

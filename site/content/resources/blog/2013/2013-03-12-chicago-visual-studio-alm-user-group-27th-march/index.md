@@ -28,7 +28,9 @@ tags:
 - tools
 - user-groups
 categories:
-- tools-and-techniques
+- Events and Presentations
+- Application Lifecycle Management
+- Practical Techniques and Tooling
 preview: metro-UserGroup-128-2-2.png
 
 ---

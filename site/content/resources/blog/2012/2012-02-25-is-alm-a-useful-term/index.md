@@ -36,8 +36,8 @@ tags:
 - process
 - tools
 categories:
-- people-and-process
-- tools-and-techniques
+- Application Lifecycle Management
+- People and Process
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

@@ -30,7 +30,11 @@ tags:
 - scrum
 - scrum-day
 categories:
-- events-and-presentations
+- Events and Presentations
+- Discovery and Learning
+- Organisational Agility
+- People and Process
+- Value Delivery
 preview: clip_image001-1-2-2.jpg
 
 ---

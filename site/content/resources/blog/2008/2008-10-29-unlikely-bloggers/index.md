@@ -28,7 +28,7 @@ aliasesFor404:
 tags:
 - fail
 categories:
-- me
+- Discovery and Learning
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

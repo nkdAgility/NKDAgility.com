@@ -40,10 +40,9 @@ tags:
 - tfs-2013
 - tools
 categories:
-- news-and-reviews
-- people-and-process
-- products-and-books
-- tools-and-techniques
+- Azure DevOps
+- News and Reviews
+- People and Process
 preview: nakedalm-experts-visual-studio-alm-14-14.png
 
 ---

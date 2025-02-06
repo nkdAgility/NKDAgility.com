@@ -37,8 +37,8 @@ tags:
 - visual-studio
 - vs2010
 categories:
-- events-and-presentations
-- tools-and-techniques
+- application-lifecycle-management
+- scrum
 preview: metro-visual-studio-2010-128-link-2-1.png
 
 ---

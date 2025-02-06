@@ -28,7 +28,7 @@ tags:
 - tfs2010
 - tools
 categories:
-- code-and-complexity
+- Azure DevOps
 preview: metro-binary-vb-128-link-4-4.png
 
 ---

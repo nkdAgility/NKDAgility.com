@@ -34,7 +34,8 @@ tags:
 - visual-studio
 - webcast-2
 categories:
-- tools-and-techniques
+- Scrum
+- Application Lifecycle Management
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

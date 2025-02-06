@@ -37,7 +37,8 @@ tags:
 - tfs-2013
 - tools
 categories:
-- tools-and-techniques
+- Azure DevOps
+- Complexity Thinking
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

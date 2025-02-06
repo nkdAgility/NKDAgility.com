@@ -33,7 +33,7 @@ tags:
 - spf2010
 - tools
 categories:
-- install-and-configuration
+- Install and Configuration
 preview: metro-office-128-link-1-1.png
 
 ---

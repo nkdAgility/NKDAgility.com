@@ -27,7 +27,11 @@ tags:
 - scrum
 - tfs
 categories:
-- tools-and-techniques
+- Azure DevOps
+- Application Lifecycle Management
+- Install and Configuration
+- Practical Techniques and Tooling
+- Scrum
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

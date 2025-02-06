@@ -36,8 +36,8 @@ tags:
 - vs2008
 - wpf
 categories:
-- news-and-reviews
-- products-and-books
+- Application Lifecycle Management
+- Products and Books
 preview: metro-visual-studio-2005-128-link-2-1.png
 
 ---

@@ -25,8 +25,11 @@ tags:
 - leadership-track
 - scrum-theory
 categories:
-- agility
-- people-and-process
+- Organisational Agility
+- People and Process
+- Resilience and Change
+- Discovery and Learning
+- Organisational Psychology
 preview: image-3-3-3.png
 
 ---

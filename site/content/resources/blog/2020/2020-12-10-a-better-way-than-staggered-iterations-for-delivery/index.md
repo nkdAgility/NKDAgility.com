@@ -33,7 +33,11 @@ tags:
 - test-first
 - working-software
 categories:
-- people-and-process
+- People and Process
+- Value Delivery
+- Organisational Agility
+- Scrum
+- Technical Excellence
 preview: staggered-iterations-for-delivery1-2-2.png
 
 ---

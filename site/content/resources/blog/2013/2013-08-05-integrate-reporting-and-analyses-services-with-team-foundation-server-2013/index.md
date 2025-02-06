@@ -29,7 +29,8 @@ tags:
 - tfs
 - tfs-2013
 categories:
-- install-and-configuration
+- Install and Configuration
+- Azure DevOps
 
 ---
 Did you skip reporting and now you want to integrate reporting and analyses services with Team Foundation Server 2013?

@@ -26,7 +26,7 @@ tags:
 - tools
 - wpf
 categories:
-- code-and-complexity
+- Azure DevOps
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

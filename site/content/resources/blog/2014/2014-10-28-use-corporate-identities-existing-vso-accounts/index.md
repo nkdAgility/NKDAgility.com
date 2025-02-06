@@ -33,8 +33,9 @@ tags:
 - organisation
 - vsteamservices
 categories:
-- install-and-configuration
-- upgrade-and-maintenance
+- Install and Configuration
+- Azure DevOps
+- Application Lifecycle Management
 preview: nakedalm-experts-visual-studio-alm-11-11.png
 
 ---

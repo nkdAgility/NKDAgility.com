@@ -28,7 +28,7 @@ aliasesFor404:
 tags:
 - dyslexia
 categories:
-- me
+- Organisational Psychology
 preview: nakedalm-logo-128-link-3-3.png
 
 ---

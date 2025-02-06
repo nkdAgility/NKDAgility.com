@@ -34,7 +34,8 @@ tags:
 - psf
 - scrum
 categories:
-- people-and-process
+- People and Process
+- Scrum
 preview: nakedalm-experts-professional-scrum-6-6.png
 
 ---

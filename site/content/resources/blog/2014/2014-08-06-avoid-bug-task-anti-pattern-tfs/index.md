@@ -32,7 +32,11 @@ tags:
 - task
 - workitemtracking
 categories:
-- people-and-process
+- People and Process
+- Azure DevOps
+- Organisational Agility
+- Technical Excellence
+- Discovery and Learning
 preview: NKDAgility-technically-BugAsATask-5-5.jpg
 
 ---

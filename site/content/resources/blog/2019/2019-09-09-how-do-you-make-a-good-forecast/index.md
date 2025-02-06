@@ -33,8 +33,11 @@ tags:
 - scrum-team
 - sprint-review
 categories:
-- agility
-- measure-and-learn
+- Metrics and Learning
+- Value Delivery
+- Scaling Agility
+- Organisational Agility
+- Events and Presentations
 preview: 993957510-1-1.jpg
 
 ---

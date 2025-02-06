@@ -32,7 +32,8 @@ tags:
 - tfs
 - tfs2010
 categories:
-- people-and-process
+- People and Process
+- Scrum
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

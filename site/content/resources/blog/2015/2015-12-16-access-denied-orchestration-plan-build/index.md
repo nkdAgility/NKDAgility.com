@@ -29,7 +29,9 @@ tags:
 - build
 - tfs
 categories:
-- install-and-configuration
+- Install and Configuration
+- Azure DevOps
+- Technical Excellence
 preview: clip_image004-4-4.png
 
 ---

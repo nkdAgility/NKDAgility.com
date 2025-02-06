@@ -38,8 +38,7 @@ tags:
 - tfs2012-1
 - tools
 categories:
-- tools-and-techniques
-- upgrade-and-maintenance
+- Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-4-4.png
 
 ---

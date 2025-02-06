@@ -30,8 +30,8 @@ tags:
 - tfs2012
 - tools
 categories:
-- tools-and-techniques
-- upgrade-and-maintenance
+- install-and-configuration
+- azure-devops
 preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---

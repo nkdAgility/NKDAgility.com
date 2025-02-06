@@ -30,8 +30,7 @@ tags:
 - tools
 - upgrade
 categories:
-- tools-and-techniques
-- upgrade-and-maintenance
+- Application Lifecycle Management
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

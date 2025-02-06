@@ -34,7 +34,8 @@ tags:
 - silverlight
 - ssw
 categories:
-- people-and-process
+- People and Process
+- Scrum
 preview: metro-SSWLogo-128-link-1-1.png
 
 ---

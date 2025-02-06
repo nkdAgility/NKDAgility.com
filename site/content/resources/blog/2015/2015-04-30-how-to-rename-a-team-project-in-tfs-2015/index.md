@@ -26,7 +26,8 @@ tags:
 - tfs
 - tfs-2015
 categories:
-- install-and-configuration
+- Install and Configuration
+- Azure DevOps
 preview: clip_image0041-4-4.png
 
 ---

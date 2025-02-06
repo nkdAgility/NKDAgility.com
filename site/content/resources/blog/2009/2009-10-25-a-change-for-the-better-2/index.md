@@ -31,7 +31,7 @@ tags:
 - change-for-the-better
 - ssw
 categories:
-- me
+- Application Lifecycle Management
 preview: metro-SSWLogo-128-link-3-1.png
 
 ---

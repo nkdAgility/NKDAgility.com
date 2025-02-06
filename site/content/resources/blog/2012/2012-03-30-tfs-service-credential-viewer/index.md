@@ -30,8 +30,8 @@ tags:
 - tf-service
 - tools
 categories:
-- code-and-complexity
-- tools-and-techniques
+- Azure DevOps
+- Install and Configuration
 preview: metro-cloud-azure-link-4-4.png
 
 ---

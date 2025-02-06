@@ -38,7 +38,11 @@ tags:
 - psm
 - training
 categories:
-- people-and-process
+- People and Process
+- Scrum
+- Agile Product Management
+- Technical Excellence
+- DevOps
 preview: clip_image001-1-1.jpg
 
 ---

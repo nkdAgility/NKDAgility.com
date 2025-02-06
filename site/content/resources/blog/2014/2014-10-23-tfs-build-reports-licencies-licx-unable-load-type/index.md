@@ -29,7 +29,9 @@ tags:
 - build
 - tf-build
 categories:
-- problems-and-puzzles
+- Install and Configuration
+- Azure DevOps
+- Problems and Puzzles
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

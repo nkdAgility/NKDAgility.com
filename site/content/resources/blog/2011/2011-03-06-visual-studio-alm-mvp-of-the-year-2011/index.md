@@ -30,7 +30,7 @@ tags:
 - visual-studio
 - vs2010
 categories:
-- me
+- Azure DevOps
 preview: metro-award-link-2-2.png
 
 ---

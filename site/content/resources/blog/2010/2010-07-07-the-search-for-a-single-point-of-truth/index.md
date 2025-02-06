@@ -26,7 +26,7 @@ tags:
 - off-topic
 - tools
 categories:
-- me
+- People and Process
 preview: nakedalm-logo-128-link-19-19.png
 
 ---

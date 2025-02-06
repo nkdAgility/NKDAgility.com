@@ -32,7 +32,7 @@ tags:
 - tfs2012
 - tools
 categories:
-- code-and-complexity
+- Azure DevOps
 
 ---
 If you have multiple service accounts for TFS 2012 and you are in a corporation chances are that two things are true:

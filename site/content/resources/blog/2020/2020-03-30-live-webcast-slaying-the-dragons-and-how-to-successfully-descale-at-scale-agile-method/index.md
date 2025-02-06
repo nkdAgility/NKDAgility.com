@@ -31,7 +31,11 @@ tags:
 - scaled-agile
 - scaled-professional-scrum
 categories:
-- agility
+- Scaling Agility
+- Organisational Agility
+- Value Delivery
+- Events and Presentations
+- Enterprise Agility
 preview: 2020-03-27_21-36-13-1-1.jpg
 
 ---

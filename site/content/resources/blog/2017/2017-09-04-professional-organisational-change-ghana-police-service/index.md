@@ -31,7 +31,11 @@ tags:
 - police
 - scrum
 categories:
-- agility
+- Organisational Agility
+- Resilience and Change
+- Organisational Psychology
+- Scaling Agility
+- Scrum
 preview: nkdagility-akaditi-ghana-police-scrum-board-4-3.jpg
 
 ---

@@ -32,7 +32,11 @@ tags:
 - scrum
 - scrum-org
 categories:
-- people-and-process
+- People and Process
+- Metrics and Learning
+- Value Delivery
+- Organisational Agility
+- Discovery and Learning
 preview: nakedalm-agility-index-7-7.png
 
 ---

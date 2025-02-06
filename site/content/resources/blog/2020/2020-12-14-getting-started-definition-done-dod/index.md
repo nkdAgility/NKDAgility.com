@@ -34,8 +34,10 @@ tags:
 - scrum
 - scrumble
 categories:
-- agility
-- devops
+- Scrum
+- Technical Excellence
+- Product Delivery
+- People and Process
 preview: naked-Agility-Scrum-Framework-Definition-of-Done-2-1.jpg
 
 ---

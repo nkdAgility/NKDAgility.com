@@ -35,8 +35,8 @@ tags:
 - tools
 - wit-tagging
 categories:
-- events-and-presentations
-- tools-and-techniques
+- application-lifecycle-management
+- azure-devops
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

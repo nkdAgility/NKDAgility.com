@@ -33,7 +33,8 @@ tags:
 - visual-studio
 - vs2012
 categories:
-- tools-and-techniques
+- Azure DevOps
+- Tools and Techniques
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

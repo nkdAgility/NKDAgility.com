@@ -26,7 +26,7 @@ tags:
 - sp2007
 - tools
 categories:
-- code-and-complexity
+- application-lifecycle-management
 preview: nakedalm-logo-128-link-4-4.png
 
 ---

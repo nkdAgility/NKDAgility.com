@@ -31,8 +31,7 @@ tags:
 - tfs
 - tools
 categories:
-- code-and-complexity
-- problems-and-puzzles
+- Install and Configuration
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

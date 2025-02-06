@@ -34,7 +34,11 @@ tags:
 - project-manager
 - teams
 categories:
-- people-and-process
+- People and Process
+- Organisational Agility
+- Agile Product Management
+- Value Delivery
+- Resilience and Change
 preview: nakedalm-experts-professional-scrum-5-5.png
 
 ---

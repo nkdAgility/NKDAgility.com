@@ -30,7 +30,9 @@ tags:
 - tfs-2013
 - vsteamservices
 categories:
-- tools-and-techniques
+- Azure DevOps
+- Practical Techniques and Tooling
+- Code and Complexity
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

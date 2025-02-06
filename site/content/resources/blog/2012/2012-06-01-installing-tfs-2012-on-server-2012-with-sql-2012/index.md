@@ -35,7 +35,8 @@ tags:
 - vs2012
 - windows-server
 categories:
-- tools-and-techniques
+- Install and Configuration
+- Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-31-31.png
 
 ---

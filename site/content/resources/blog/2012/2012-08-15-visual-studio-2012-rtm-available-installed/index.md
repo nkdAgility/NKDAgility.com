@@ -36,8 +36,8 @@ tags:
 - visual-studio
 - vs2012
 categories:
-- code-and-complexity
-- tools-and-techniques
+- Install and Configuration
+- Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

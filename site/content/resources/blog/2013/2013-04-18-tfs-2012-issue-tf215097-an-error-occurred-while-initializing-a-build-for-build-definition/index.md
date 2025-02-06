@@ -33,8 +33,8 @@ tags:
 - tfs-build
 - tools
 categories:
-- code-and-complexity
-- problems-and-puzzles
+- Azure DevOps
+- Problems and Puzzles
 preview: puzzle-issue-problem-128-link-3-3.png
 
 ---

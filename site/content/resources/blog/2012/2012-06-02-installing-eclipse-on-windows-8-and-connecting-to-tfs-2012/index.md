@@ -31,7 +31,8 @@ tags:
 - tfs2012
 - tools
 categories:
-- tools-and-techniques
+- Install and Configuration
+- Application Lifecycle Management
 preview: nakedalm-experts-visual-studio-alm-12-12.png
 
 ---

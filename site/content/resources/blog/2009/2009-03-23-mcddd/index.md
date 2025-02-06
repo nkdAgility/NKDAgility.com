@@ -22,7 +22,7 @@ aliasesFor404:
 - /blog/mcddd
 - /resources/blog/mcddd
 categories:
-- me
+- Events and Presentations
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

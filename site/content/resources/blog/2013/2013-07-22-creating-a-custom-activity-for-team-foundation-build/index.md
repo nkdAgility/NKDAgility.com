@@ -29,8 +29,8 @@ tags:
 - tools
 - workflow
 categories:
-- code-and-complexity
-- install-and-configuration
+- Azure DevOps
+- Install and Configuration
 
 ---
 You can be creating a custom activity for Team Foundation Build in a few simple steps. There are always advanced steps but this will get you started.

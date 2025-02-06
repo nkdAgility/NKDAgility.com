@@ -32,7 +32,8 @@ tags:
 - tfs-2013
 - videos
 categories:
-- install-and-configuration
+- Install and Configuration
+- Azure DevOps
 
 ---
 It had been a while since I installed TFS from scratch and I had a few questions from a customer on the subject. So instead of creating yet another installing TFS post I decided to create a couple of videos instead.

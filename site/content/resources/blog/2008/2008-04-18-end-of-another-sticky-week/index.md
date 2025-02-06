@@ -30,7 +30,7 @@ tags:
 - wit
 - wpf
 categories:
-- me
+- Azure DevOps
 preview: nakedalm-logo-128-link-3-3.png
 
 ---

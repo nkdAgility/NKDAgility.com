@@ -30,7 +30,11 @@ tags:
 - msdn
 - subscription
 categories:
-- problems-and-puzzles
+- Install and Configuration
+- Azure DevOps
+- Value Delivery
+- Application Lifecycle Management
+- Problems and Puzzles
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---

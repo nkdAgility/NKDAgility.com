@@ -29,7 +29,7 @@ tags:
 - office14
 - tools
 categories:
-- code-and-complexity
+- Install and Configuration
 preview: metro-office-128-link-7-7.png
 
 ---

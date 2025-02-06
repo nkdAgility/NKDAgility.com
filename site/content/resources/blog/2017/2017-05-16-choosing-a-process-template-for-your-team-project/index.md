@@ -31,8 +31,11 @@ tags:
 - tfs2012
 - tfs-2013
 categories:
-- devops
-- tools-and-techniques
+- Scrum
+- Agile Product Management
+- Practical Techniques and Tooling
+- Azure DevOps
+- People and Process
 preview: IC749984-1-1.png
 
 ---

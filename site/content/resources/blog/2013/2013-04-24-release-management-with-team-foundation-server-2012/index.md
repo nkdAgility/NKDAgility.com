@@ -33,8 +33,8 @@ tags:
 - tfs
 - tools
 categories:
-- people-and-process
-- tools-and-techniques
+- Azure DevOps
+- People and Process
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---

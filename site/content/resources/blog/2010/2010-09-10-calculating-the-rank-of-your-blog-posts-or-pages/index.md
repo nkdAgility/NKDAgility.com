@@ -28,7 +28,7 @@ tags:
 - tools
 - wcf
 categories:
-- code-and-complexity
+- Metrics and Learning
 preview: metro-binary-vb-128-link-11-11.png
 
 ---

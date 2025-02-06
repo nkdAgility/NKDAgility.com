@@ -32,7 +32,11 @@ tags:
 - perforce
 - vsteamservices
 categories:
-- tools-and-techniques
+- Azure DevOps
+- Application Lifecycle Management
+- Practical Techniques and Tooling
+- Code and Complexity
+- Value Delivery
 preview: naked-alm-git-1-1.png
 
 ---

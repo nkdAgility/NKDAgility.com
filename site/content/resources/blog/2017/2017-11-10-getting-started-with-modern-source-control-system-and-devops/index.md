@@ -34,7 +34,11 @@ tags:
 - software-engineering
 - versioncontrol
 categories:
-- measure-and-learn
+- DevOps
+- Application Lifecycle Management
+- Technical Excellence
+- Metrics and Learning
+- People and Process
 preview: excellence-1-1.jpg
 
 ---

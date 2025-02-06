@@ -28,7 +28,7 @@ tags:
 - vs2008
 - vs2010
 categories:
-- code-and-complexity
+- Application Lifecycle Management
 preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---

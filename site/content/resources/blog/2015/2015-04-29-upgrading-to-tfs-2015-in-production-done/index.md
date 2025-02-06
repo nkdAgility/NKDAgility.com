@@ -33,7 +33,9 @@ tags:
 - tfs-2015
 - upgrade
 categories:
-- install-and-configuration
+- Install and Configuration
+- Azure DevOps
+- Technical Excellence
 preview: nakedalm-experts-visual-studio-alm-22-22.png
 
 ---

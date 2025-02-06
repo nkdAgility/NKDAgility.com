@@ -28,7 +28,11 @@ tags:
 - tfs2012
 - tfs-2012-4
 categories:
-- tools-and-techniques
+- Install and Configuration
+- Practical Techniques and Tooling
+- Azure DevOps
+- DevOps
+- Technical Excellence
 preview: naked-alm-jenkins-logo-7-7.png
 
 ---

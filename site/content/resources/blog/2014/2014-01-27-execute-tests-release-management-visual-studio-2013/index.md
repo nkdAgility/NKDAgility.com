@@ -32,9 +32,10 @@ tags:
 - release-pipline
 - standard-environments
 categories:
-- install-and-configuration
-- test-and-validation
-- tools-and-techniques
+- Install and Configuration
+- Azure DevOps
+- Test and Validation
+- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---

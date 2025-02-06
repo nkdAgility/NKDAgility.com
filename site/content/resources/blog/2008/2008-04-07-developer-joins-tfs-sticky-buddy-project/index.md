@@ -28,8 +28,7 @@ tags:
 - tools
 - wit
 categories:
-- news-and-reviews
-- products-and-books
+- Azure DevOps
 
 ---
 I was pleasantly surprised to see a lot of interest in the [Sticky Buddy project](http://blog.hinshelwood.com/archive/2008/02/05/tfs-sticky-buddy-codeplex-project.aspx). I was particularly exited when Siddharth Bhatia contacted me, but disappointed that he could not get the proof of concept versions to work.

@@ -36,7 +36,11 @@ tags:
 - traditional-project-management
 - waterfall
 categories:
-- people-and-process
+- People and Process
+- Organisational Agility
+- Discovery and Learning
+- Lean
+- Organisational Psychology
 preview: naked-agility-with-martin-hinshelwood-iceberg-11-10.jpg
 
 ---

@@ -42,8 +42,9 @@ tags:
 - tfs2010
 - tools
 categories:
-- people-and-process
-- tools-and-techniques
+- People and Process
+- Azure DevOps
+- Scrum
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

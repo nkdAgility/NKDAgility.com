@@ -28,8 +28,9 @@ aliasesFor404:
 tags:
 - scrum-master
 categories:
-- agility
-- people-and-process
+- Scrum
+- People and Process
+- Events and Presentations
 preview: PSX_20190823_113052-1-1.jpg
 
 ---

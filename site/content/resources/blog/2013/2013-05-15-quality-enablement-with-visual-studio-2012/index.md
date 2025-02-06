@@ -30,7 +30,8 @@ tags:
 - strategic
 - tools
 categories:
-- tools-and-techniques
+- Application Lifecycle Management
+- Value Delivery
 preview: nakedalm-experts-visual-studio-alm-18-18.png
 
 ---

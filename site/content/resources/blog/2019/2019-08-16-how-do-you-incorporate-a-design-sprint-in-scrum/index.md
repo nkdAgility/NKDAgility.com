@@ -31,8 +31,11 @@ tags:
 - refinement
 - the-sprint
 categories:
-- agility
-- discovery-ideation
+- Scrum
+- Discovery and Learning
+- People and Process
+- Events and Presentations
+- Agile Product Management
 preview: 1130646316-1-1-1.jpg
 
 ---

@@ -33,7 +33,7 @@ tags:
 - tfs2010
 - tools
 categories:
-- events-and-presentations
+- Azure DevOps
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

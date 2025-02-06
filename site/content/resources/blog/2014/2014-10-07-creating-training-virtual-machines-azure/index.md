@@ -33,8 +33,9 @@ tags:
 - visual-studio-2013
 - visual-studio-alm
 categories:
-- install-and-configuration
-- tools-and-techniques
+- Install and Configuration
+- Azure DevOps
+- Practical Techniques and Tooling
 preview: nakedalm-windows-logo-16-16.png
 
 ---

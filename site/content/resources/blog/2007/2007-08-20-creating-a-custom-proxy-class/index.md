@@ -26,7 +26,8 @@ tags:
 - service-oriented-architecture
 - tools
 categories:
-- application-lifecycle-management
+- Application Lifecycle Management
+- Code and Complexity
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

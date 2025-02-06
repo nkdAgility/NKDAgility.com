@@ -34,8 +34,11 @@ tags:
 - scrum-at-scale
 - scrum-org
 categories:
-- news-and-reviews
-- people-and-process
+- Scaling Agility
+- Organisational Agility
+- Enterprise Agility
+- People and Process
+- Metrics and Learning
 preview: nakedalm-experts-professional-scrum-2-2.png
 
 ---

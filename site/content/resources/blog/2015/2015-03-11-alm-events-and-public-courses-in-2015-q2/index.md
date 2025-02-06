@@ -27,7 +27,11 @@ tags:
 - devops
 - project-management
 categories:
-- events-and-presentations
+- Events and Presentations
+- Application Lifecycle Management
+- DevOps
+- Scrum
+- People and Process
 preview: metro-event-icon-1-1.png
 
 ---

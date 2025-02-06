@@ -27,7 +27,7 @@ tags:
 - sp2007
 - tools
 categories:
-- install-and-configuration
+- Install and Configuration
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

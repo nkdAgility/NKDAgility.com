@@ -30,8 +30,7 @@ tags:
 - visual-studio
 - vs2012
 categories:
-- tools-and-techniques
-- upgrade-and-maintenance
+- application-lifecycle-management
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

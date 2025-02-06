@@ -34,7 +34,8 @@ tags:
 - process
 - scrum
 categories:
-- people-and-process
+- People and Process
+- Agile Product Management
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

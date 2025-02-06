@@ -32,8 +32,7 @@ tags:
 - ssw
 - user-stories
 categories:
-- people-and-process
-- tools-and-techniques
+- scrum
 preview: metro-SSWLogo-128-link-4-4.png
 
 ---

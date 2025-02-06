@@ -28,8 +28,7 @@ tags:
 - tools
 - version-control
 categories:
-- code-and-complexity
-- me
+- Code and Complexity
 preview: metro-binary-vb-128-link-5-5.png
 
 ---

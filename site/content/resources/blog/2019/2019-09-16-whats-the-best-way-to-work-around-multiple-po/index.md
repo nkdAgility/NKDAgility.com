@@ -28,8 +28,11 @@ aliasesFor404:
 tags:
 - product-owner
 categories:
-- agility
-- people-and-process
+- People and Process
+- Agile Product Management
+- Value Delivery
+- Events and Presentations
+- Organisational Agility
 preview: 495173592-1-1.jpg
 
 ---

@@ -29,7 +29,8 @@ tags:
 - wit
 - wpf
 categories:
-- me
+- Azure DevOps
+- Application Lifecycle Management
 preview: metro-visual-studio-2005-128-link-2-1.png
 
 ---

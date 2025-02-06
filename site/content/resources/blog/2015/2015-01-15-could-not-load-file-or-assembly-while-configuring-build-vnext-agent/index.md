@@ -31,7 +31,10 @@ tags:
 - tfs-2015
 - vsteamservices
 categories:
-- problems-and-puzzles
+- Install and Configuration
+- Azure DevOps
+- Technical Excellence
+- Problems and Puzzles
 
 ---
 If you are using Windows Server 2012 R2 to test out the new vNext build agent then you may run into an error where it could not load file or assembly while configuring Build vNext Agent.

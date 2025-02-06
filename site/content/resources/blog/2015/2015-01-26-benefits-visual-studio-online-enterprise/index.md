@@ -31,7 +31,11 @@ tags:
 - value
 - vsteamservices
 categories:
-- tools-and-techniques
+- Azure DevOps
+- Application Lifecycle Management
+- Enterprise Agility
+- Practical Techniques and Tooling
+- Value Delivery
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

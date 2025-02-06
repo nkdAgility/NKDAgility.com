@@ -25,7 +25,7 @@ tags:
 - teamviewer
 - win8
 categories:
-- me
+- Install and Configuration
 preview: nakedalm-logo-128-link-15-15.png
 
 ---

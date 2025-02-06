@@ -27,7 +27,9 @@ tags:
 - server-2012-r2
 - tf255435
 categories:
-- install-and-configuration
+- Install and Configuration
+- Azure DevOps
+- Technical Excellence
 preview: metro-server-instances_thumb-2-2.png
 
 ---

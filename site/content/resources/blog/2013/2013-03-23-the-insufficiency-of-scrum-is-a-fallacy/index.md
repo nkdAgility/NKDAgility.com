@@ -34,8 +34,8 @@ tags:
 - strategic
 - tactical
 categories:
-- people-and-process
-- tools-and-techniques
+- People and Process
+- Scrum
 preview: nakedalm-experts-professional-scrum-3-3.png
 
 ---

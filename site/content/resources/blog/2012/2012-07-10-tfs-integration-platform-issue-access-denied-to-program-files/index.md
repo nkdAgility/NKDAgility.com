@@ -31,7 +31,7 @@ tags:
 - tfs2012
 - tfs-integration-platform
 categories:
-- problems-and-puzzles
+- Install and Configuration
 preview: metro-problem-icon-1-1.png
 
 ---

@@ -40,7 +40,7 @@ tags:
 - vs2010
 - web
 categories:
-- problems-and-puzzles
+- Azure DevOps
 preview: metro-problem-icon-6-6.png
 
 ---

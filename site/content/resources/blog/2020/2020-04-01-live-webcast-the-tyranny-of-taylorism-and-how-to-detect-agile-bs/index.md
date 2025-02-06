@@ -32,7 +32,11 @@ tags:
 - scrum-definition
 - taylorism
 categories:
-- agility
+- Systems Thinking
+- Organisational Agility
+- People and Process
+- Events and Presentations
+- Lean
 preview: 2020-03-27_21-31-11-1-1.jpg
 
 ---

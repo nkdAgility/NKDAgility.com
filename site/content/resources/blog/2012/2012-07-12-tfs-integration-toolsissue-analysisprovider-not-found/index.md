@@ -30,7 +30,7 @@ tags:
 - puzzles
 - tfs-integration-platform
 categories:
-- problems-and-puzzles
+- Install and Configuration
 preview: metro-problem-icon-3-3.png
 
 ---

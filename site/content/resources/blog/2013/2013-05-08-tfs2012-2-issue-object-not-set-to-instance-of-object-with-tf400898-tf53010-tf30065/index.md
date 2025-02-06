@@ -40,7 +40,7 @@ tags:
 - tfs2012-2
 - tfs-2012-3
 categories:
-- problems-and-puzzles
+- Azure DevOps
 preview: puzzle-issue-problem-128-link-4-4.png
 
 ---

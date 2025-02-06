@@ -30,7 +30,7 @@ tags:
 - sharepoint
 - sp2007
 categories:
-- me
+- People and Process
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

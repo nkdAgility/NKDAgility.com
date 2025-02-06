@@ -26,8 +26,8 @@ tags:
 - tfs-sticky-buddy
 - wit
 categories:
-- code-and-complexity
-- me
+- Azure DevOps
+- Code and Complexity
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

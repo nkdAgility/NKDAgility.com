@@ -37,7 +37,11 @@ tags:
 - technical-track
 - value-track
 categories:
-- news-and-reviews
+- Scrum
+- Organisational Agility
+- People and Process
+- Agile Product Management
+- Value Delivery
 preview: image-4-5-5.png
 
 ---

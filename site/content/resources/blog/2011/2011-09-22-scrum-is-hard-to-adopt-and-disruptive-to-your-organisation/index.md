@@ -33,7 +33,8 @@ tags:
 - pst
 - scrum
 categories:
-- people-and-process
+- People and Process
+- Scrum
 preview: nakedalm-experts-professional-scrum-4-4.png
 
 ---

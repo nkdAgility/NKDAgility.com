@@ -27,7 +27,8 @@ tags:
 - codeproject
 - tools
 categories:
-- code-and-complexity
+- Code and Complexity
+- Application Lifecycle Management
 preview: metro-binary-vb-128-link-2-1.png
 
 ---

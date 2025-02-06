@@ -34,7 +34,8 @@ tags:
 - vs2010
 - vs2012
 categories:
-- problems-and-puzzles
+- Install and Configuration
+- Azure DevOps
 preview: puzzle-issue-problem-128-link-1-1.png
 
 ---

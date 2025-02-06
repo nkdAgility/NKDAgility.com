@@ -28,8 +28,10 @@ tags:
 - devops
 - digital-transformation
 categories:
-- agility
-- devops
+- Organisational Agility
+- Value Delivery
+- Practical Techniques and Tooling
+- Resilience and Change
 preview: government-cloud-640x400-1-1.png
 
 ---

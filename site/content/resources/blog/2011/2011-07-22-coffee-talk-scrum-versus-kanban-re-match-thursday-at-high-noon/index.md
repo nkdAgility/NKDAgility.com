@@ -35,8 +35,8 @@ tags:
 - process
 - scrum
 categories:
-- events-and-presentations
-- people-and-process
+- scrum
+- kanban
 preview: metro-nwc-128-link-2-2.png
 
 ---

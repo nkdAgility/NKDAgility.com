@@ -29,7 +29,10 @@ tags:
 - azure
 - windows-phone
 categories:
-- products-and-books
+- Azure DevOps
+- Application Lifecycle Management
+- Practical Techniques and Tooling
+- Products and Books
 preview: nakedalm-windows-logo-7-7.png
 
 ---

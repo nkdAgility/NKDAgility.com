@@ -33,7 +33,7 @@ tags:
 - visual-studio
 - vs2012
 categories:
-- events-and-presentations
+- Events and Presentations
 preview: metro-event-icon-3-3.png
 
 ---

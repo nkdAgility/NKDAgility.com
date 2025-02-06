@@ -39,7 +39,7 @@ tags:
 - tfs2012
 - tools
 categories:
-- problems-and-puzzles
+- Azure DevOps
 preview: metro-problem-icon-8-8.png
 
 ---

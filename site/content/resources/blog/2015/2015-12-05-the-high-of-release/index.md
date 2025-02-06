@@ -24,7 +24,11 @@ aliasesFor404:
 tags:
 - developers
 categories:
-- news-and-reviews
+- Events and Presentations
+- Azure DevOps
+- Practical Techniques and Tooling
+- DevOps
+- News and Reviews
 preview: 2016-01-04_15-52-31-1-1.png
 
 ---

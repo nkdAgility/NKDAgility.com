@@ -39,8 +39,8 @@ tags:
 - tfsap
 - tools
 categories:
-- code-and-complexity
-- tools-and-techniques
+- Azure DevOps
+- Install and Configuration
 preview: nakedalm-logo-128-link-3-3.png
 
 ---

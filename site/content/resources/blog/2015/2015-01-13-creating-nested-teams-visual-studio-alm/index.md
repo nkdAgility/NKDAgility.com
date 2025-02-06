@@ -32,7 +32,11 @@ tags:
 - tfs2012
 - tfs-2013
 categories:
-- tools-and-techniques
+- Azure DevOps
+- Install and Configuration
+- Practical Techniques and Tooling
+- Organisational Agility
+- Agile Product Management
 preview: nakedalm-experts-visual-studio-alm-17-17.png
 
 ---

@@ -34,7 +34,11 @@ tags:
 - tfs-2013
 - upgrade
 categories:
-- upgrade-and-maintenance
+- Upgrade and Maintenance
+- Azure DevOps
+- Install and Configuration
+- News and Reviews
+- Application Lifecycle Management
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

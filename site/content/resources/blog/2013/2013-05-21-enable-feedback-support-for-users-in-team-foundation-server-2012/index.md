@@ -32,7 +32,8 @@ tags:
 - tf400264
 - tools
 categories:
-- install-and-configuration
+- Install and Configuration
+- Azure DevOps
 
 ---
 The focus of this article is to show you how to easily enable feedback support for users in Team Foundation Server 2012 with a few simple permissions. This works great with Team Foundation Server and even better with Team Foundation Service.
