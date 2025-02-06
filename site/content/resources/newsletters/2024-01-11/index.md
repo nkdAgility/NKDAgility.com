@@ -1,17 +1,24 @@
 ---
-id: "51110"
-title: "Change is easier with a friend: Buy 1, Get 1 FREE!"
-date: "2024-01-11"
-preview: "naked-agility-technically-agile-1280×720-24Q1-Change-1.jpg"
-author: "MrHinsh"
+title: 'Change is easier with a friend: Buy 1, Get 1 FREE!'
+description: Kickstart 2024 with our Scrum training! Enrol in January and get a friend FREE. Elevate your Agile skills and boost team performance today!
+ResourceId: ZHJtz2t0uTU
+ResourceImport: true
+ResourceType: newsletters
+date: 2024-01-11
+preview: naked-agility-technically-agile-1280×720-24Q1-Change-1.jpg
+author: MrHinsh
 resourceTypes: newsletter
 layout: newsletter
-slug: "change-is-easier-with-a-friend-buy-1-get-1-free"
+slug: change-is-easier-with-a-friend-buy-1-get-1-free
 aliases:
-  - /newsletters/change-is-easier-with-a-friend-buy-1-get-1-free/
-  - /resources/newsletters/change-is-easier-with-a-friend-buy-1-get-1-free/
----
+- /newsletters/change-is-easier-with-a-friend-buy-1-get-1-free/
+- /resources/newsletters/change-is-easier-with-a-friend-buy-1-get-1-free/
+- /resources/ZHJtz2t0uTU
+aliasesFor404:
+- /newsletters/change-is-easier-with-a-friend-buy-1-get-1-free/
+- /resources/newsletters/change-is-easier-with-a-friend-buy-1-get-1-free/
 
+---
 **Kickstart 2024 with Our Unmissable Scrum Training Offer: Buy 1, Get 1 FREE!**
 
 ![](images/naked-agility-technically-agile-1280×720-24Q1-Change-1-800x450.webp)

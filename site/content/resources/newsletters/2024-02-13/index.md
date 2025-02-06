@@ -1,17 +1,24 @@
 ---
-id: "51200"
-title: "Agile Kata and a whole lot more with facilitation, backlog management, and evidence based management!"
-date: "2024-02-13"
-preview: "naked-agility-technically-agile-1280×720-24Q1-Feb24.jpg"
-author: "MrHinsh"
+title: Agile Kata and a whole lot more with facilitation, backlog management, and evidence based management!
+description: Join our immersive Agile training this year! Explore PSPO, PSM, and PAL classes, plus new Skills and Agile Kata courses. Enrol now for 20% off!
+ResourceId: hz-iCoxHxxa
+ResourceImport: true
+ResourceType: newsletters
+date: 2024-02-13
+preview: naked-agility-technically-agile-1280×720-24Q1-Feb24.jpg
+author: MrHinsh
 resourceTypes: newsletter
 layout: newsletter
-slug: "agile-kata-and-a-whole-lot-more-with-facilitation-backlog-management-and-evidence-based-management"
+slug: agile-kata-and-a-whole-lot-more-with-facilitation-backlog-management-and-evidence-based-management
 aliases:
-  - /newsletters/agile-kata-and-a-whole-lot-more-with-facilitation-backlog-management-and-evidence-based-management/
-  - /resources/newsletters/agile-kata-and-a-whole-lot-more-with-facilitation-backlog-management-and-evidence-based-management/
----
+- /newsletters/agile-kata-and-a-whole-lot-more-with-facilitation-backlog-management-and-evidence-based-management/
+- /resources/newsletters/agile-kata-and-a-whole-lot-more-with-facilitation-backlog-management-and-evidence-based-management/
+- /resources/hz-iCoxHxxa
+aliasesFor404:
+- /newsletters/agile-kata-and-a-whole-lot-more-with-facilitation-backlog-management-and-evidence-based-management/
+- /resources/newsletters/agile-kata-and-a-whole-lot-more-with-facilitation-backlog-management-and-evidence-based-management/
 
+---
 The new year is now fully underway, and the immersive 8-week PSPO, PSM, and PAL are all running... we have a full house! next up is the set of complimentary Skills classes from Scrum.org as well as the new Agile Kata class and we have them all.
 
 1. [Agile Kata Professional](https://nkdagility.com/training-courses/agile-workshops/agile-kata-professional/) - The first class is next week, with Joanna at the helm. This will be awesome. Transform your agile journey with our Agile Kata course, designed to o**_vercome the common challenges in agile transformations_**.

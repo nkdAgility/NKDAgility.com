@@ -1,15 +1,20 @@
 ---
-id: "49360"
-title: "Are office spaces dead"
-date: "2023-06-01"
+title: Are office spaces dead
+description: Join Martin and Simon in this month's Agile Actually as they discuss the future of remote work and its impact on agile training and consulting.
+ResourceId: HRq1a_8gAJF
+ResourceImport: true
+ResourceType: podcast
+date: 2023-06-01
 categories:
-  - "agility"
-author: "MrHinsh"
+- agility
+author: MrHinsh
 resourceTypes: podcast
 layout: podcast
-slug: "are-office-spaces-dead"
----
+slug: are-office-spaces-dead
+aliases:
+- /resources/HRq1a_8gAJF
 
+---
 In this month's edition of Agile Actually, Martin and Simon explore the rise of remote work and whether working from the office, as we knew it, is dead.
 
 Some interesting insights from two experts who are both Professional Scrum Trainers in addition to agile coaches and agile consultants, and how the rise of remote work has impacted the effectiveness of training, coaching, and consulting. It may surprise you.

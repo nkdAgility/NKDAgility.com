@@ -1,7 +1,9 @@
 ---
 title: Investing for Business Agility - Using evidence-based portfolio management to achieve better business outcomes
-description: It seems there are no specific details provided for the video. Please share the key points or themes of the video, and I'll create a concise description for you!
+description: Discover how to enhance business agility beyond teams with evidence-based portfolio management for improved competitiveness and responsiveness.
 ResourceId: KD08D48Weks
+ResourceImport: true
+ResourceType: guides
 resourceTypes: guide
 layout: guide
 date: 2024-09-17
@@ -9,6 +11,8 @@ creator: Martin Hinshelwood
 aliases:
 - /learn/agile-delivery-kit/guides/evidence-based-portfolio-management
 - /resources/KD08D48Weks
+aliasesFor404:
+- /learn/agile-delivery-kit/guides/evidence-based-portfolio-management
 card:
   button:
     content: Learn More

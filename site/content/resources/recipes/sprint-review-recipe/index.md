@@ -1,38 +1,44 @@
 ---
 title: Sprint Review Recipe
 description: A starter recipe for a Sprint Planning event with suggested facilitation options.
+ResourceId: K4kkSAG3R7m
+ResourceImport: true
+ResourceType: recipes
 resourceTypes: recipe
 layout: recipe
 date: 2024-09-17
 image: /images/naked-Agility-Scrum-Framework-Sprint-Review.jpg
 aliases:
-  - /learn/agile-delivery-kit/recipes/sprint-review-recipe/
+- /learn/agile-delivery-kit/recipes/sprint-review-recipe/
+- /resources/K4kkSAG3R7m
+aliasesFor404:
+- /learn/agile-delivery-kit/recipes/sprint-review-recipe/
 creator: Martin Hinshelwood
 recommendedContent:
-  - collection: guides
-    path: _guides/manifesto-for-agile-software-development.md
-  - collection: guides
-    path: _guides/scrum-guide.md
-  - collection: practices
-    path: _practices/service-level-expectation-sle.md
-  - collection: technologies
-    path: _technologies/liberating-structures/shift-share.md
-  - collection: technologies
-    path: _technologies/liberating-structures/what-so-what-now-what.md
-  - collection: workshops
-    path: _workshops/sprint-review-1.md
+- collection: guides
+  path: _guides/manifesto-for-agile-software-development.md
+- collection: guides
+  path: _guides/scrum-guide.md
+- collection: practices
+  path: _practices/service-level-expectation-sle.md
+- collection: technologies
+  path: _technologies/liberating-structures/shift-share.md
+- collection: technologies
+  path: _technologies/liberating-structures/what-so-what-now-what.md
+- collection: workshops
+  path: _workshops/sprint-review-1.md
 videos:
-  - title: Overview of The Scrum Framework
-    embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
-  - title: Free Workshop 4 Introduction to Sprint Review! [Audio-Fixed]
-    embed: https://www.youtube.com/embed/1-W64WdSbF4
+- title: Overview of The Scrum Framework
+  embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
+- title: Free Workshop 4 Introduction to Sprint Review! [Audio-Fixed]
+  embed: https://www.youtube.com/embed/1-W64WdSbF4
 card:
   button:
     content: Learn More
   content: Discover more about Sprint Review Recipe and how it can help you in your Agile journey!
   title: Sprint Review Recipe
----
 
+---
 When designing a flow for an event, it is hugely important to be clear on the purpose. For the Sprint Review, the purpose is to inspect the increment that was created during the Sprint as well as to adapt the Product Backlog based on new insights, ideas, and changes that result from this inspection. The Sprint Review is about answering the question: “Based on what we learned this Sprint, what are the next steps?”. This provides valuable input for Sprint Planning.
 
 _This recipe is an example and starting point with a number of different facilitation examples provided. Please inherit from it and make it your own. If you have a great idea please submit a new recipe_

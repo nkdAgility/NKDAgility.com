@@ -1,17 +1,24 @@
 ---
-id: "50103"
-title: "Unlock the Power of Effective Backlog Management with our new course from Scrum.org"
-date: "2023-10-09"
-preview: "NKDAgility-technically-DOD-Not-AC-3-2.jpg"
-author: "MrHinsh"
+title: Unlock the Power of Effective Backlog Management with our new course from Scrum.org
+description: "Master Scrum's Product Backlog Management with our expert-led course. Enhance stakeholder engagement and data-driven decision-making for project success! \U0001F680"
+ResourceId: 2G_gVI5phMC
+ResourceImport: true
+ResourceType: newsletters
+date: 2023-10-09
+preview: NKDAgility-technically-DOD-Not-AC-3-2.jpg
+author: MrHinsh
 resourceTypes: newsletter
 layout: newsletter
-slug: "unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org"
+slug: unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org
 aliases:
-  - /newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
-  - /resources/newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
----
+- /newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
+- /resources/newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
+- /resources/2G_gVI5phMC
+aliasesFor404:
+- /newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
+- /resources/newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
 
+---
 Dive deep into the world of **Scrum's Product Backlog Management** with our meticulously crafted course. Master the nuances of understanding your product's core, engaging with stakeholders, and making data-driven decisions. Elevate your Scrum journey with insights from seasoned Professional Scrum Trainers. 🚀
 
 [Sign up for a public class](https://nkdagility.com/training-courses/scrum-training-courses/professional-scrum-product-backlog-management-skills-with-certification/)

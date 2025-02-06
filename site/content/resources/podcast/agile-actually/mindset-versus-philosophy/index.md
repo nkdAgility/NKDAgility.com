@@ -1,15 +1,20 @@
 ---
-id: "51295"
-title: "Mindset Versus Philosophy"
-date: "2024-02-22"
+title: Mindset Versus Philosophy
+description: Join Simon Reindl and Martin Hinshelwood in this podcast as they discuss the vital role of language and transparency in the agile world. Tune in for insights!
+ResourceId: G2XUaCtiq8w
+ResourceImport: true
+ResourceType: podcast
+date: 2024-02-22
 categories:
-  - "agility"
-author: "MrHinsh"
+- agility
+author: MrHinsh
 resourceTypes: podcast
 layout: podcast
-slug: "mindset-versus-philosophy"
----
+slug: mindset-versus-philosophy
+aliases:
+- /resources/G2XUaCtiq8w
 
+---
 ![](https://nkdagility.com/wp-content/uploads/2023/10/37154808-1680362242684-ab5e16c6c3e31-jpg.webp)
 
 In this month's podcast, Simon Reindl and Martin Hinshelwood explore the importance of transparency, specifically relating to the words we use and the context within which we use those words. Precision matters. Accuracy matters. Saying what you mean and meaning what you say matters. Listen to this podcast for some great insights into why language matters in the #agile world.

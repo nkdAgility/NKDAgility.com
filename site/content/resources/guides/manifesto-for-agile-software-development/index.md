@@ -2,12 +2,17 @@
 title: Manifesto for Agile Software Development
 description: We are uncovering better ways of developing software by doing it and helping others do it. These are our values and principles.
 ResourceId: poyC7fUGitC
+ResourceImport: true
+ResourceType: guides
 resourceTypes: guide
 layout: guide
 aliases:
 - guides/manifesto-for-agile-software-developmen/
 - /learn/agile-delivery-kit/guides/manifesto-for-agile-software-development
 - /resources/poyC7fUGitC
+aliasesFor404:
+- guides/manifesto-for-agile-software-developmen/
+- /learn/agile-delivery-kit/guides/manifesto-for-agile-software-development
 references:
 - title: Manifesto for Agile Software Development
   url: https://agilemanifesto.org/

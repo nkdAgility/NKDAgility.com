@@ -4,7 +4,7 @@
 . ./.powershell/_includes/ResourceHelpers.ps1
 
 # Iterate through each blog folder and update markdown files
-$outputDir = "site\content\resources\videos"
+$outputDir = "site\content\resources\"
 
 # Get list of directories and select the first 10
 $resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md" #| Select-Object -First 10
@@ -22,12 +22,12 @@ $resources | ForEach-Object {
         #=================CLEAN============================
         Remove-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'id'
         #=================description=================
-        if (-not $hugoMarkdown.FrontMatter.description) {
+        if (-not $hugoMarkdown.FrontMatter.description -or $hugoMarkdown.FrontMatter.description -match "no specific details provided") {
             # Generate a new description using OpenAI
-            $prompt = "Generate a concise, engaging description of no more than 160 characters for the following video: '$($videoData.snippet.title)'. The video details are: '$($videoData.snippet.description)'"
+            $prompt = "Generate a concise, engaging description of no more than 160 characters for the following resource: '$($videoData.snippet.title)'. The Resource details are: '$($hugoMarkdown.BodyContent)'"
             $description = Get-OpenAIResponse -Prompt $prompt
             # Update the description in the front matter
-            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'description' -fieldValue $description -addAfter 'title'
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'description' -fieldValue $description -addAfter 'title' -Overwrite
         }
 
         #=================ResourceId=================

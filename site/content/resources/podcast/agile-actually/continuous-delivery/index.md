@@ -1,15 +1,20 @@
 ---
-id: "50836"
-title: "Continuous Delivery"
-date: "2023-11-23"
+title: Continuous Delivery
+description: Join Simon Reindl and Martin Hinshelwood in this podcast as they discuss the vital role of language and transparency in the agile world. Tune in for insights!
+ResourceId: pGqagcI_q5y
+ResourceImport: true
+ResourceType: podcast
+date: 2023-11-23
 categories:
-  - "agility"
-author: "MrHinsh"
+- agility
+author: MrHinsh
 resourceTypes: podcast
 layout: podcast
-slug: "continuous-delivery"
----
+slug: continuous-delivery
+aliases:
+- /resources/pGqagcI_q5y
 
+---
 ![](https://nkdagility.com/wp-content/uploads/2023/10/37154808-1680362242684-ab5e16c6c3e31-jpg.webp)
 
 In this month's podcast, Simon Reindl and Martin Hinshelwood explore the importance of transparency, specifically relating to the words we use and the context within which we use those words. Precision matters. Accuracy matters. Saying what you mean and meaning what you say matters. Listen to this podcast for some great insights into why language matters in the #agile world.
