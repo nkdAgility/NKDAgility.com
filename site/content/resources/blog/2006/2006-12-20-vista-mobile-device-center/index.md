@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/vista-mobile-device-center
 - /resources/blog/vista-mobile-device-center
 tags:
-- answers
-- windows-mobile-6
+- Customer Satisfaction
+- Agile Software Development
 categories:
 - Products and Books
 - Install and Configuration

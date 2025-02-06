@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/advanced-email-content
 - /resources/blog/advanced-email-content
 tags:
-- wpf
+- Agile Software Development
+- Team Collaboration
 categories:
 - Application Lifecycle Management
 preview: metro-binary-vb-128-link-1-1.png

@@ -26,8 +26,8 @@ aliasesFor404:
 - /blog/adding-toolstrippanel-ui-adapter-support-to-the-composite-ui-application-block
 - /resources/blog/hinshelm-on-composite-ui-application-block
 tags:
-- code
-- tools
+- Agile Software Development
+- Technical Excellence
 categories:
 - Code and Complexity
 - Practical Techniques and Tooling

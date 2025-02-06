@@ -26,9 +26,8 @@ aliasesFor404:
 - /blog/studying-for-exam-70-536--mcts-application-development-foundation
 - /resources/blog/studying-for-exam-70-536-mcts-application-development-foundation
 tags:
-- fail
-- visual-studio
-- vs2005
+- Agile Software Development
+- Technical Mastery
 categories:
 - Discovery and Learning
 preview: metro-visual-studio-2005-128-link-1-1.png

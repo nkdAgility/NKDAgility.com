@@ -26,9 +26,8 @@ aliasesFor404:
 - /blog/-net-framework-3-0
 - /resources/blog/net-framework-3-0
 tags:
-- code
-- service-oriented-architecture
-- wcf
+- Agile Software Development
+- Technical Excellence
 preview: metro-binary-vb-128-link-1-1.png
 categories:
 - Code and Complexity

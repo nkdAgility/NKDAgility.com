@@ -26,7 +26,8 @@ aliasesFor404:
 - /blog/codeplex-project--rddotnet-white-label
 - /resources/blog/codeplex-project-rddotnet-white-label
 tags:
-- code
+- Agile Software Development
+- Technical Excellence
 categories:
 - Code and Complexity
 - Application Lifecycle Management

@@ -22,6 +22,12 @@ aliasesFor404:
 - /blog/visual-studio-team-system-blogs
 - /resources/blog/visual-studio-team-system-blogs
 preview: nakedalm-logo-128-link-1-1.png
+categories:
+- Application Lifecycle Management
+- Azure DevOps
+tags:
+- Agile Community
+- Agile Tools
 
 ---
 You can find all the blogs for the Microsoft team for Visual Studio in one place. A nice little list, it does not have all the community blogs, but then you would need a search facility...

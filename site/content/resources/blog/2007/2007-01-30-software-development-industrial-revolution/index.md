@@ -22,17 +22,8 @@ aliasesFor404:
 - /blog/software-development-industrial-revolution
 - /resources/blog/software-development-industrial-revolution
 tags:
-- code
-- configuration
-- define
-- develop
-- fail
-- infrastructure
-- operate
-- people
-- practices
-- process
-- tools
+- Agile Software Development
+- Business Agility
 categories:
 - Application Lifecycle Management
 - People and Process

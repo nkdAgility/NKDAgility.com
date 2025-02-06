@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/windows-live-alerts
 - /resources/blog/windows-live-alerts
 tags:
-- live
+- Featured
+- Customer Feedback Loops
 categories:
 - Products and Books
 - News and Reviews

@@ -26,7 +26,8 @@ aliasesFor404:
 - /blog/some-thoughts-on--net-3-0-from-linkedin
 - /resources/blog/some-thoughts-on-net-3-0-from-linkedin
 tags:
-- wpf
+- Agile Software Development
+- Technical Excellence
 categories:
 - Application Lifecycle Management
 preview: metro-binary-vb-128-link-1-1.png

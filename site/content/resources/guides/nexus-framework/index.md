@@ -35,6 +35,29 @@ card:
     content: Learn More
   content: Discover more about Nexus Guide and how it can help you in your Agile journey!
   title: Nexus Guide
+categories:
+- Scaling Agility
+- Scrum
+- Value Delivery
+- Transparency and Accountability
+- Technical Excellence
+- Product Delivery
+tags:
+- Scaled Agile
+- Team Collaboration
+- Scrum Product Management
+- Scrum Team
+- Definition of Done
+- Nexus Integration Team
+- Agile Product Ownership
+- Continuous Improvement
+- Agile Planning
+- Value Delivery
+- Agile Software Development
+- Agile Frameworks
+- Scaling Scrum
+- Product Backlog
+- Agile Values and Principles
 
 ---
 The Definitive Guide to Scaling Scrum with Nexus

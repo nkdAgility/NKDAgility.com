@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/rddotnet-project-created
 - /resources/blog/rddotnet-project-created
 tags:
-- service-oriented-architecture
+- Agile Software Development
+- Technical Excellence
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Application Lifecycle Management

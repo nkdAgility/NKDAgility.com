@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/web-2-0
 - /resources/blog/web-2-0
 tags:
-- off-topic
-- web
+- Agile Methodology
+- Digital Transformation
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Discovery and Learning

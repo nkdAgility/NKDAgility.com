@@ -22,10 +22,8 @@ aliasesFor404:
 - /blog/advanced-email-content-addendum
 - /resources/blog/advanced-email-content-addendum
 tags:
-- fail
-- ml
-- tools
-- wpf
+- Agile Software Development
+- Technical Excellence
 categories:
 - Events and Presentations
 preview: metro-merilllynch-128-link-1-1.png

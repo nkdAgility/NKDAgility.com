@@ -22,6 +22,12 @@ aliasesFor404:
 - /blog/microsoft-uk-team-system-blog
 - /resources/blog/microsoft-uk-team-system-blog
 preview: nakedalm-logo-128-link-1-1.png
+categories:
+- Application Lifecycle Management
+- Azure DevOps
+tags:
+- Agile Community
+- Agile Tools
 
 ---
 The TFS guys in the UK are blogging! They started late last year, but in the time honored tradition of blogging, "Don't tell anyone you have one until there is something to read."

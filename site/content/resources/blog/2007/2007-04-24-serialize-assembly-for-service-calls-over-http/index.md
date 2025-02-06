@@ -22,12 +22,11 @@ aliasesFor404:
 - /blog/serialize-assembly-for-service-calls-over-http
 - /resources/blog/serialize-assembly-for-service-calls-over-http
 tags:
-- code
-- ml
-- tfs-event-handler
-- tools
+- Agile Software Development
+- Technical Excellence
 categories:
-- code-and-complexity
+- Code and Complexity
+- Application Lifecycle Management
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

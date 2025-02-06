@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/windows-mobile-device-center
 - /resources/blog/windows-mobile-device-center
 tags:
-- windows-mobile-6
+- Deployment Strategies
+- Customer Feedback Loops
 categories:
 - Install and Configuration
 - Products and Books

@@ -26,6 +26,12 @@ aliasesFor404:
 - /blog/tfs-gotcha-(server-name)
 - /resources/blog/tfs-gotcha-server-name
 preview: nakedalm-logo-128-link-1-1.png
+categories:
+- Install and Configuration
+- Azure DevOps
+tags:
+- Technical Debt
+- Deployment Strategies
 
 ---
 If you are installing TFS in a large network that utilises proxy servers, especialy those that strip network credentials for what it thinks are internet sites, then you may run into problems..

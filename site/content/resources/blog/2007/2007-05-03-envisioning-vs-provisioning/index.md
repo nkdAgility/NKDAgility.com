@@ -22,10 +22,8 @@ aliasesFor404:
 - /blog/envisioning-vs-provisioning
 - /resources/blog/envisioning-vs-provisioning
 tags:
-- define
-- develop
-- fail
-- practices
+- Agile Software Development
+- Technical Mastery
 categories:
 - People and Process
 - Discovery and Learning

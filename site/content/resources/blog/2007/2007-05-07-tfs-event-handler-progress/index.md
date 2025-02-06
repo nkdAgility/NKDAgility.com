@@ -22,10 +22,8 @@ aliasesFor404:
 - /blog/tfs-event-handler-progress
 - /resources/blog/tfs-event-handler-progress
 tags:
-- code
-- tfs-event-handler
-- wcf
-- wit
+- Technical Excellence
+- Continuous Delivery
 categories:
 - Azure DevOps
 preview: metro-binary-vb-128-link-1-1.png

@@ -26,7 +26,8 @@ aliasesFor404:
 - /blog/custom-ui-colour-scheme-for-windows-forms--net
 - /resources/blog/custom-ui-colour-scheme-for-windows-forms-net
 tags:
-- code
+- Agile Software Development
+- Technical Excellence
 categories:
 - Code and Complexity
 - Practical Techniques and Tooling

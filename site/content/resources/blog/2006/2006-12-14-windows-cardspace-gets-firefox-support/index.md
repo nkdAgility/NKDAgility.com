@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/windows-cardspace-gets-firefox-support
 - /resources/blog/windows-cardspace-gets-firefox-support
 tags:
-- code
+- Digital Transformation
+- Agile Software Development
 preview: metro-binary-vb-128-link-1-1.png
 categories:
 - News and Reviews

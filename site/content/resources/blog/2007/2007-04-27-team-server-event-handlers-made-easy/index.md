@@ -25,6 +25,12 @@ aliasesFor404:
 - /team-server-event-handlers-made-easy---
 - /blog/team-server-event-handlers-made-easy---
 - /resources/blog/team-server-event-handlers-made-easy
+categories:
+- Code and Complexity
+- Azure DevOps
+tags:
+- Agile Software Development
+- Technical Excellence
 
 ---
 - /blog/team-server-event-handlers-made-easy---

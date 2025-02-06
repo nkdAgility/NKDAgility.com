@@ -25,6 +25,9 @@ preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Application Lifecycle Management
 - Practical Techniques and Tooling
+tags:
+- Agile Tools
+- Team Collaboration
 
 ---
 I have found this interesting policy for TFS.

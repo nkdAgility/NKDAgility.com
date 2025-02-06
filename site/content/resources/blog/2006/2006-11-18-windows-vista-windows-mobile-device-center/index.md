@@ -26,7 +26,8 @@ aliasesFor404:
 - /blog/windows-vista--windows-mobile-device-center
 - /resources/blog/windows-vista-windows-mobile-device-center
 tags:
-- windows-mobile-6
+- Technical Debt
+- Agile Software Development
 categories:
 - Install and Configuration
 - Products and Books

@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/windows-communication-framework-evaluation
 - /resources/blog/windows-communication-framework-evaluation
 tags:
-- code
-- wcf
+- Agile Software Development
+- Technical Excellence
 preview: metro-binary-vb-128-link-1-1.png
 categories:
 - Discovery and Learning

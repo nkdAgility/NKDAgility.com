@@ -26,8 +26,8 @@ aliasesFor404:
 - /blog/small---new-business-websites
 - /resources/blog/small-new-business-websites
 tags:
-- off-topic
-- seo
+- Entrepreneurship
+- Customer Satisfaction
 categories:
 - Value Delivery
 preview: nakedalm-logo-128-link-1-1.png

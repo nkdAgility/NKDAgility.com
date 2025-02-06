@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/cafemsn-prize
 - /resources/blog/cafemsn-prize
 tags:
-- off-topic
+- Featured
+- Customer Satisfaction
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - News and Reviews

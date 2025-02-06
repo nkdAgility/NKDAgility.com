@@ -22,10 +22,12 @@ aliasesFor404:
 - /blog/microsoft-has-acquired-teamplain
 - /resources/blog/microsoft-has-acquired-teamplain
 tags:
-- tfs
-- tfs2005
-- vs2005
+- Agile Tools
+- Agile Software Development
 preview: metro-visual-studio-2005-128-link-1-1.png
+categories:
+- Application Lifecycle Management
+- News and Reviews
 
 ---
 Have you looked at the features of TeamPlain and wished that you could convince your company to buy it for all those users that look at VS2005 and balk! Now you can, for free...

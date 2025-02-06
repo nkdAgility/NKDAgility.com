@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/mobile-device-center
 - /resources/blog/mobile-device-center
 tags:
-- windows-mobile-6
+- Customer Satisfaction
+- Technical Debt
 categories:
 - Products and Books
 preview: nakedalm-logo-128-link-1-1.png

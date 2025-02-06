@@ -26,7 +26,8 @@ aliasesFor404:
 - /blog/teamplain---install-and-initial-views
 - /resources/blog/teamplain-install-and-initial-views
 tags:
-- vs2005
+- Agile Tools
+- Team Collaboration
 categories:
 - Install and Configuration
 - Application Lifecycle Management

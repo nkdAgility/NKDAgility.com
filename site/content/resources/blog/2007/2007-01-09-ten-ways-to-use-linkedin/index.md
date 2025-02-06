@@ -22,9 +22,12 @@ aliasesFor404:
 - /blog/ten-ways-to-use-linkedin
 - /resources/blog/ten-ways-to-use-linkedin
 tags:
-- linkedin
-- off-topic
+- Entrepreneurship
+- Professional Scrum
 preview: nakedalm-logo-128-link-1-1.png
+categories:
+- Discovery and Learning
+- Market Adaptability
 
 ---
 Most people use LinkedIn to “get to someone” to make a sale, form a partnership, or get a job. It works well coz it is an network of more than 8.5 million experienced professionals from around the world in130 industries. However, it is a tool that is under-utilized, so Guy Kawasaki compiled a top-ten list of ways to increase the value of LinkedIn.

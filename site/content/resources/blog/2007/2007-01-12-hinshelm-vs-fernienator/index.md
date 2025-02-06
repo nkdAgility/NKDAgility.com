@@ -22,8 +22,7 @@ aliasesFor404:
 - /blog/hinshelm-vs-fernienator
 - /resources/blog/hinshelm-vs-fernienator
 tags:
-- answers
-- xbox
+- Featured
 categories:
 - News and Reviews
 preview: metro-xbox-360-link-2-2.png

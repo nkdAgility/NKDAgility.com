@@ -26,7 +26,8 @@ aliasesFor404:
 - /blog/introduction-to--net-framework-3-0-for-developers-event
 - /resources/blog/introduction-to-net-framework-3-0-for-developers-event
 tags:
-- code
+- Agile Software Development
+- Technical Mastery
 categories:
 - Events and Presentations
 preview: metro-binary-vb-128-link-1-1.png

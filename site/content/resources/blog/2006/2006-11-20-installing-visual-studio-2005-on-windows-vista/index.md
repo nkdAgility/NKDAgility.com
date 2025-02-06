@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/installing-visual-studio-2005-on-windows-vista
 - /resources/blog/installing-visual-studio-2005-on-windows-vista
 tags:
-- vs2005
+- Agile Software Development
+- Technical Excellence
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - Install and Configuration
