@@ -248,7 +248,7 @@ function Create-MarkdownFilesForCatalog {
     # Loop through each category and create a markdown file
     foreach ($Category in $catalog.Keys) {
         $Slug = ($Category -replace '\s+', '-' -replace '[^a-zA-Z0-9-]', '').ToLower();
-        $markdownFile = "$OutputDirectory / $Slug.md"
+        $markdownFile = "$OutputDirectory/$Slug.md"
     
         if (Test-Path -Path $markdownFile) {
             $hugoMarkdown = Get-HugoMarkdown -Path $markdownFile
@@ -269,4 +269,4 @@ function Create-MarkdownFilesForCatalog {
 }
 
 #Create-MarkdownFilesForCatalog -catalog $CatalogCategories -OutputDirectory "site\content\categories"
-#Create-MarkdownFilesForCatalog -catalog $CatalogTags -OutputDirectory "site\content\tags\"
+Create-MarkdownFilesForCatalog -catalog $CatalogTags -OutputDirectory "site\content\tags\"
