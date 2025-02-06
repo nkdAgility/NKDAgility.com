@@ -33,8 +33,7 @@ tags:
 - visual-studio
 - vs2012
 categories:
-- Azure DevOps
-- Tools and Techniques
+- Application Lifecycle Management
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

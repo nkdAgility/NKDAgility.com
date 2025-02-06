@@ -36,8 +36,7 @@ tags:
 - tfs2012-1
 - tools
 categories:
-- Azure DevOps
-- Tools and Techniques
+- Application Lifecycle Management
 preview: nakedalm-experts-visual-studio-alm-16-16.png
 
 ---

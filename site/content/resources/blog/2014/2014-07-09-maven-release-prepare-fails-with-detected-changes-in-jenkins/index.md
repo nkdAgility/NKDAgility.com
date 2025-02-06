@@ -26,11 +26,7 @@ tags:
 - maven
 - tfignore
 categories:
-- Application Lifecycle Management
-- Install and Configuration
-- DevOps
-- Problems and Puzzles
-- Upgrade and Maintenance
+- Azure DevOps
 preview: naked-alm-jenkins-logo-9-9.png
 
 ---

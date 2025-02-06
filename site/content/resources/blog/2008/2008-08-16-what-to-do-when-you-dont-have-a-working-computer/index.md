@@ -32,7 +32,7 @@ tags:
 - vs2008
 - windows-mobile-6
 categories:
-- install-and-configuration
+- Install and Configuration
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

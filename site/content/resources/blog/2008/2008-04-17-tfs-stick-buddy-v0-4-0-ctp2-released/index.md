@@ -27,8 +27,7 @@ tags:
 - wit
 - wpf
 categories:
-- Azure DevOps
-- Tools and Techniques
+- Application Lifecycle Management
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

@@ -36,8 +36,7 @@ tags:
 - tfs-integration-platform
 - tools
 categories:
-- Azure DevOps
-- Tools and Techniques
+- Install and Configuration
 preview: nakedalm-experts-visual-studio-alm-10-10.png
 
 ---

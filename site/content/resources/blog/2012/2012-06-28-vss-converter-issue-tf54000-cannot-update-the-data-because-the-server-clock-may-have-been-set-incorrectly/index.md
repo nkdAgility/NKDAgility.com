@@ -35,8 +35,7 @@ tags:
 - tools
 - visual-sourcesafe
 categories:
-- Azure DevOps
-- Problems and Puzzles
+- Install and Configuration
 
 ---
 ### Issue

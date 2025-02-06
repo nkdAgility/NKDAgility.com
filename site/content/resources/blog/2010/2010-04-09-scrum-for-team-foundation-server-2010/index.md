@@ -37,8 +37,7 @@ tags:
 - visual-studio
 - vs2010
 categories:
-- application-lifecycle-management
-- scrum
+- azure-devops
 preview: metro-visual-studio-2010-128-link-2-1.png
 
 ---

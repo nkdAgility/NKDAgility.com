@@ -34,9 +34,7 @@ tags:
 - tfs2012
 - tfs-2012-4
 categories:
-- Azure DevOps
-- Install and Configuration
-- Problems and Puzzles
+- Technical Excellence
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

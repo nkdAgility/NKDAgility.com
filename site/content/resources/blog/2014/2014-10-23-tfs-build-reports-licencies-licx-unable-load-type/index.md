@@ -29,9 +29,8 @@ tags:
 - build
 - tf-build
 categories:
-- Install and Configuration
-- Azure DevOps
-- Problems and Puzzles
+- Application Lifecycle Management
+- Technical Excellence
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

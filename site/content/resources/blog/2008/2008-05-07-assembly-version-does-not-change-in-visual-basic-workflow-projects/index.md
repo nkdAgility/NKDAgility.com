@@ -26,7 +26,7 @@ tags:
 - sp2007
 - tools
 categories:
-- application-lifecycle-management
+- Application Lifecycle Management
 preview: nakedalm-logo-128-link-4-4.png
 
 ---

@@ -30,9 +30,9 @@ tags:
 - windows-8-1
 - windows-server
 categories:
-- install-and-configuration
-- azure-devops
-- practical-techniques-and-tooling
+- Install and Configuration
+- Azure DevOps
+- Practical Techniques and Tooling
 preview: nakedalm-windows-logo-6-6.png
 
 ---

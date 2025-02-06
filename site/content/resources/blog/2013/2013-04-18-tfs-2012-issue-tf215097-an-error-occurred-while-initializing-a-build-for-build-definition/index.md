@@ -33,8 +33,7 @@ tags:
 - tfs-build
 - tools
 categories:
-- Azure DevOps
-- Problems and Puzzles
+- Install and Configuration
 preview: puzzle-issue-problem-128-link-3-3.png
 
 ---

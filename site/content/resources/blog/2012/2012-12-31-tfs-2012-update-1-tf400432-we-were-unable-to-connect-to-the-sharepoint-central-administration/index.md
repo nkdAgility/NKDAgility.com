@@ -37,8 +37,7 @@ tags:
 - tfs2012-1
 - tools
 categories:
-- Install and Configuration
-- Problems and Puzzles
+- Azure DevOps
 preview: metro-problem-icon-3-3.png
 
 ---

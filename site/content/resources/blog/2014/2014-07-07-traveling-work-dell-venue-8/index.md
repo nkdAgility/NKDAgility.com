@@ -32,8 +32,7 @@ tags:
 - surface-2-pro
 - traveling
 categories:
-- products-and-books
-- practical-techniques-and-tooling
+- news-and-reviews
 preview: nakedalm-windows-logo-4-4.png
 
 ---

@@ -29,8 +29,7 @@ tags:
 - spf2010
 - tools
 categories:
-- Install and Configuration
-- Tools and Techniques
+- Application Lifecycle Management
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

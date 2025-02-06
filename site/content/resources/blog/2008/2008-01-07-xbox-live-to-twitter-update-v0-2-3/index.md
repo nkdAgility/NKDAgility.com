@@ -32,7 +32,7 @@ tags:
 - live
 - xbox
 categories:
-- application-lifecycle-management
+- Application Lifecycle Management
 preview: metro-xbox-360-link-1-1.png
 
 ---

@@ -35,7 +35,8 @@ tags:
 - sharepoint
 - sharepoint-2013
 categories:
-- application-lifecycle-management
+- Application Lifecycle Management
+- Install and Configuration
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

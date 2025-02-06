@@ -28,7 +28,8 @@ tags:
 - wpf
 - xaml
 categories:
-- application-lifecycle-management
+- Application Lifecycle Management
+- Code and Complexity
 preview: metro-binary-vb-128-link-2-2.png
 
 ---

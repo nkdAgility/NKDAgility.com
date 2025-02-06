@@ -33,10 +33,7 @@ tags:
 - continious-delivery
 - the-sprint
 categories:
-- Scrum
-- Value Delivery
-- People and Process
-- Communication & Alignment
+- Product Delivery
 preview: Continous_Delivery_by_Jez_Humble_and_David_Farley-1-1.jpg
 
 ---

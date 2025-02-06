@@ -32,9 +32,8 @@ tags:
 - windows
 - windows-10
 categories:
-- scaling-agility
-- application-lifecycle-management
-- technical-excellence
+- install-and-configuration
+- discovery-and-learning
 preview: nakedalm-windows-logo-12-12.png
 
 ---

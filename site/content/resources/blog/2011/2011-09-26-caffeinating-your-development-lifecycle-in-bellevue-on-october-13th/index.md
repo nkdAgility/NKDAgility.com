@@ -25,7 +25,7 @@ tags:
 - nwcadence
 - tools
 categories:
-- application-lifecycle-management
+- events-and-presentations
 preview: metro-nwc-128-link-3-3.png
 
 ---

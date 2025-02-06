@@ -32,10 +32,7 @@ tags:
 - featured
 - predictable-quality
 categories:
-- transparency-and-accountability
-- technical-excellence
-- value-delivery
-- organisational-agility
+- metrics-and-learning
 preview: All-technical-debt-is-risk-to-the-product-and-to-your-business-2-2.jpg
 
 ---
