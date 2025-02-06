@@ -26,13 +26,10 @@ aliasesFor404:
 - /blog/the-value-of-an-independent-scotland-for-me
 - /resources/blog/the-value-of-an-independent-scotland
 tags:
-- Economic Independence
 - National Identity
-- Public Services
-- Immigration Policy
-- Governance
+- Economic Independence
 - Media Bias
-- Future Planning
+- Immigration Policy
 categories:
 - Value Delivery
 - Market Adaptability

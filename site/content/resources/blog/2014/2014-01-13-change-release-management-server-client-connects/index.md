@@ -26,13 +26,16 @@ aliasesFor404:
 - /blog/change-the-release-management-server-that-your-client-connects-to
 - /resources/blog/change-release-management-server-client-connects
 tags:
-- inrelease
-- release
-- release-management
-- release-management-client
-- tfs
-- tfs-2013
-- visual-studio-2013
+- Release Planning
+- Continuous Delivery
+- Technical Excellence
+- Agile Tools
+- Deployment Strategies
+- Customer Feedback Loops
+- Agile Software Development
+- Evidence Based Management
+- Change Management
+- Agile Project Management
 categories:
 - Install and Configuration
 - Azure DevOps

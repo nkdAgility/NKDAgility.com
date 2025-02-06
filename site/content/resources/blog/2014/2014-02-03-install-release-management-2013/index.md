@@ -22,20 +22,7 @@ aliasesFor404:
 - /blog/install-release-management-2013
 - /resources/blog/install-release-management-2013
 tags:
-- Release Management
-- Agile Tools
-- Continuous Delivery
-- Deployment Strategies
-- Agile Software Development
-- Technical Excellence
-- Value Delivery
-- Agile Project Management
-- Software Development
-- DevOps
-- Customer Feedback Loops
-- Evidence Based Management
-- Agile Product Management
-- Technical Mastery
+- Agile Product Ownership
 categories:
 - Install and Configuration
 - Application Lifecycle Management
