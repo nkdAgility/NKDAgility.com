@@ -33,6 +33,17 @@ categories:
 - Scrum
 - Organisational Psychology
 preview: NKDAgility-technically-YouCantStopTheSignal-1-1.jpg
+tags:
+- Agile Coaching
+- Change Management
+- Organisational Culture
+- Continuous Improvement
+- Team Collaboration
+- Agile Transformation
+- Agile Values and Principles
+- Psychological Safety
+- Systems Thinking
+- Team Motivation
 
 ---
 In organizational development and team dynamics, Agile (as the Agile Manifesto delineates) and Scrum (as the Scrum Guide outlines) guide teams not by solving their problems but by illuminating the issues that demand attention. These frameworks aim to identify and spotlight the challenges within a team or organization's processes, effectively saying, "This is wrong, go fix it!" when a team struggles to produce a working product due to various obstacles. These are clear signals!

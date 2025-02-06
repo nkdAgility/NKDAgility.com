@@ -29,7 +29,16 @@ aliasesFor404:
 - /blog/why-most-scrum-masters-are-failing-and-what-they-should-know/
 - /resources/blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
 tags:
-- Scrum Masters
+- Scrum Master
+- Agile Coaching
+- Agile Product Management
+- Agile Planning
+- Continuous Improvement
+- Technical Mastery
+- Team Collaboration
+- Agile Transformation
+- Business Agility
+- Evidence Based Management
 categories:
 - Scrum
 - Agile Product Management

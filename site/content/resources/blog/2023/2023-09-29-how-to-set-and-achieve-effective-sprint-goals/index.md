@@ -26,14 +26,8 @@ aliasesFor404:
 - /blog/how-to-set-and-achieve-effective-sprint-goals
 - /resources/blog/how-to-set-and-achieve-effective-sprint-goals
 tags:
-- agile planning
-- team collaboration
-- agile product management
-- agile coaching
-- value delivery
-- agile values and principles
-- continuous improvement
-- agile transformation
+- Scrum Product Management
+- Agile Leadership
 categories:
 - Scrum
 - Agile Product Management

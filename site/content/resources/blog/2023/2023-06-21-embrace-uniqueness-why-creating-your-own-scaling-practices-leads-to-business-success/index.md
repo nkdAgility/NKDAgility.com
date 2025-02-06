@@ -27,11 +27,11 @@ aliasesFor404:
 - /blog/embrace-uniqueness--why-creating-your-own-scaling-practices-leads-to-business-success
 - /resources/blog/embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
 tags:
-- Agile Transformation
-- Continuous Improvement
-- Employee Engagement
-- Agile Leadership
-- Adaptive Leadership
+- Business Agility
+- Agile Scaling
+- Team Motivation
+- Organisational Culture
+- Agile Strategy
 categories:
 - Scaling Agility
 - Organisational Agility

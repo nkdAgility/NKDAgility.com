@@ -23,16 +23,7 @@ aliasesFor404:
 - /blog/navigating-the-future-with-a-fine-tuned-product-backlog
 - /resources/blog/navigating-the-future-with-a-fine-tuned-product-backlog
 tags:
-- Product Backlog
-- Agile Product Management
-- Backlog Refinement
-- Agile Planning
-- Scrum Product Management
-- Value Prioritisation
-- Agile Coaching
-- Team Collaboration
-- Continuous Improvement
-- Agile Software Development
+- Agile Product Ownership
 categories:
 - Agile Product Management
 - People and Process

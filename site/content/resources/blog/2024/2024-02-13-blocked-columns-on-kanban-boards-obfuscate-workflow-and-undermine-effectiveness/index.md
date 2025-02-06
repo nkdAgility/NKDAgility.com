@@ -26,7 +26,16 @@ aliasesFor404:
 - /blog/blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
 - /resources/blog/blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
 tags:
-- homepage
+- Agile Tools
+- Azure Boards
+- Kanban Theory
+- Flow Efficiency
+- Team Collaboration
+- Agile Planning
+- Transparency
+- Agile Coaching
+- Continuous Improvement
+- Value Stream Management
 categories:
 - value delivery
 - flow efficiency
