@@ -28,18 +28,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Continuous Delivery
-- Team Motivation
-- Change Management
-- Agile Product Management
-- Empowerment
-- Agile Transformation
-- Customer Feedback Loops
-- Agile Values and Principles
-- Evidence Based Improvement
-- Agile Software Development
-- Agile Community
-- Lean Thinking
+- DevOps
+- Agile Coaching
+- Technical Excellence
 resourceTypes:
 - video
 categories:

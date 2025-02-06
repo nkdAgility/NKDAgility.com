@@ -23,24 +23,30 @@ preview: https://i.ytimg.com/vi/uQ786VBz3Jw/maxresdefault.jpg
 duration: 246
 isShort: false
 tags:
-- Sprint Planning
-- Planning
-- Sprint
-- Scrum
-- Scrum Team
-- Scrum planning
-- Agile planning
-- Scrum framework
-- Scrum project management
-- Scrum product development
-- agile project management
-- agile product development
+- Sprint Planning Workshop
+- Product Backlog
+- Strategic Goals
+- Team Collaboration
+- Agile Product Ownership
+- Definition of Ready
+- Transparency
+- Continuous Improvement
+- Agile Product Management
+- Value Delivery
+- Customer Feedback Loops
+- Team Motivation
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scrum
+- Agile Product Management
+- People and Process
+- Transparency and Accountability
+- Value Delivery
 
 ---
  A core focus of #projectmanagement is efficiency and resource utilization. In other words, is everyone busy and are we as productive as we can be. In #agile or #scrum, we are more concerned with being effective than efficient.

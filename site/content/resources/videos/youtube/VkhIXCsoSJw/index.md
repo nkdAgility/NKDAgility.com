@@ -24,14 +24,29 @@ preview: https://i.ytimg.com/vi/VkhIXCsoSJw/maxresdefault.jpg
 duration: 529
 isShort: false
 tags:
-- DevOps
-- Deployment Frequency
-- Developers
+- Automated Testing
+- Continuous Delivery
+- Technical Excellence
+- Customer Feedback Loops
+- Agile Software Development
+- Engineering Excellence
+- Technical Debt
+- Agile Product Management
+- Value Delivery
+- Continuous Improvement
+- Team Collaboration
+- Agile Digital Tools
 resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+categories:
+- Technical Excellence
+- DevOps
+- Metrics and Learning
+- Value Delivery
+- AI and Automation in Agility
 
 ---
  Automate Everything: Boosting Engineering Excellence and Building Confidence

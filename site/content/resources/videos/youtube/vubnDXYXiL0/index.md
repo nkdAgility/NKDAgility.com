@@ -28,17 +28,30 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- '#scrum'
-- '#agile'
-- '#agilecoach'
-- '#scrumorg'
-- '#agileconsultant'
-- '#agiletraining'
-- '#devops'
-- '#agileproductdevelopment'
-- '#productdevelopment'
+- Scaled Agile
+- Agile Scaling
+- Scrum
+- Scrum Team
+- Scrum Product Management
+- Scaling Scrum
+- Team Collaboration
+- Continuous Improvement
+- Dependency Management
+- Alignment
+- Agile Frameworks
+- Agile Product Management
+- Value Delivery
+- Technical Excellence
+- Agile Transformation
 resourceTypes:
 - video
+categories:
+- Scaling Agility
+- Systems Thinking
+- People and Process
+- Value Delivery
+- Scrum
+- Enterprise Agility
 
 ---
 # Tailoring Scrum to Scale: Building Your Own Framework for Success

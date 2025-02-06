@@ -26,20 +26,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Team Motivation
-- Scrum Values
-- Agile Transformation
-- Agile Project Management
-- Scrum Team
-- Continuous Improvement
-- Agile Leadership
-- Employee Engagement
-- Agile Software Development
-- Agile Coaching
-- Agile Methodology
-- Discipline versus Motivation
-- Agile Product Management
-- Change Management
+- Agile Community
 resourceTypes:
 - video
 categories:

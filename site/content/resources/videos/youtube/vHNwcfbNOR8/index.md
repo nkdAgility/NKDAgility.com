@@ -28,12 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile apprenticeship
-- Scrum Apprenticeship
-- Agile Scrum Training
-- Agile Certification
+- Agile Mentoring Program
+- Continuous Learning
+- Agile Community
+- Scrum Master
+- Agile Mentoring
+- Team Collaboration
+- Employee Engagement
+- Agile Leadership
+- Agile Project Management
+- Agile Product Management
+- Agile Values and Principles
+- Mentoring
+- Agile Transformation
+- Coaching
 resourceTypes:
 - video
+categories:
+- Discovery and Learning
+- People and Process
+- Scrum
+- Mentorship
+- Organisational Agility
 
 ---
 **What is your feeling on creating Agile apprenticeships?**

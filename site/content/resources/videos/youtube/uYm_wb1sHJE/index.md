@@ -30,17 +30,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Review workshops
-- Sprint Review
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum team
-- Scrum training
-- Scrum coaching
-- Scrum consulting
+- Scrum Product Management
+- Customer Feedback Loops
+- Agile Product Discovery
+- Agile Coaching
+- Continuous Improvement
+- Team Collaboration
+- Agile Product Management
+- Agile Planning
+- Agile Values and Principles
+- Psychological Safety
+- Experimentation
+- Value Delivery
 resourceTypes:
 - video
+categories:
+- Scrum
+- Events and Presentations
+- Agile Product Management
+- People and Process
+- Discovery and Learning
 
 ---
 ## 🚀 Demystifying the Sprint Review Workshop 

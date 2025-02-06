@@ -28,19 +28,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Temperance in Agile
-- Agile Values and Principles
-- Scrum Team
-- Definition of Done
-- Continuous Improvement
-- Lean Thinking
-- Agile Planning
-- Value Delivery
-- Product Backlog
-- Team Collaboration
-- Agile Software Development
-- Technical Excellence
-- Evidence Based Improvement
+- Scrum
+- Agile Product Management
 resourceTypes:
 - video
 categories:

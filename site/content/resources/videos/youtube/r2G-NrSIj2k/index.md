@@ -23,19 +23,10 @@ preview: https://i.ytimg.com/vi/r2G-NrSIj2k/maxresdefault.jpg
 duration: 116
 isShort: false
 tags:
-- Code Reviews for Quality Assurance
-- Continuous Delivery
-- Technical Excellence
-- Definition of Done
-- Automated Testing
-- Agile Software Development
-- DevOps
-- Agile Software Engineering
-- Test Driven Development
-- Continuous Integration
-- Agile Values and Principles
-- Team Collaboration
-- Evidence Based Improvement
+- Agile Project Management
+- Software Development
+- Continuous Improvement
+- Evidence Based Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

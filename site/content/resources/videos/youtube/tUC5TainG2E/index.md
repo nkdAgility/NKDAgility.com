@@ -28,21 +28,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- Scrum Master
-- Scrum Team
-- Agile Product Management
-- Agile Tools
-- DevOps
-- Customer Feedback Loops
-- Continuous Improvement
-- Technical Excellence
-- Value Delivery
-- Agile Community
-- Agile Transformation
-- Professional Scrum
-- Team Collaboration
-- Building Relationships
+- Customer Satisfaction
+- Agile Values and Principles
 resourceTypes:
 - video
 categories:

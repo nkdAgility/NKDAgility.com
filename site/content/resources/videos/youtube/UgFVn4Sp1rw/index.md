@@ -24,19 +24,31 @@ preview: https://i9.ytimg.com/vi/UgFVn4Sp1rw/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 675
 isShort: false
 tags:
-- Software development
-- Software engineering
-- Product development
-- Product management
-- project management
-- agile project management
-- agile product development
-- agile product management
+- Cost Management
+- Scrum Product Management
+- Evidence Based Management
+- Agile Planning
+- Team Collaboration
+- Continuous Improvement
+- Value Stream Management
+- Technical Debt
+- Lead Time
+- Agile Product Discovery
+- Team Motivation
+- Decision Theory
+- Revenue per Employee
+- Market Adaptability
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Metrics and Learning
+- Value Delivery
+- Agile Product Management
+- Scrum
+- Value Stream Management
 
 ---
  Understanding Product Costs and Maximizing Value | Martin Hinshelwood

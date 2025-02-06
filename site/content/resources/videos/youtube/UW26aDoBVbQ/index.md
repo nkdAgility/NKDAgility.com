@@ -23,24 +23,25 @@ preview: https://i.ytimg.com/vi/UW26aDoBVbQ/maxresdefault.jpg
 duration: 31
 isShort: true
 tags:
-- Agile
-- Agile Product Development
-- Agile Project management
-- Agile product management
-- Product Owner
-- Scrum
-- Scrum Product Owner
-- Agile product ownership
-- Scrum product ownership
-- Lean Product Development
-- LEAN UX
-- Lean Agile Product Development
+- Agile Planning
+- Team Collaboration
+- Business Agility
+- Customer Feedback Loops
+- Agile Strategy
+- Continuous Improvement
+- Agile Community
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Lean
+- Agile Product Management
+- Organisational Agility
+- Value Delivery
+- Events and Presentations
 
 ---
  #shorts #shortsvideo #shortvideo 🌟 Exclusive Webcast with Joanna Płaskonka, Ph.D. & Martin Hinshelwood: Dive Deep into Product Ownership & Lean Product Development! 🌟

@@ -30,9 +30,19 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Master
-- Agile Leadership
-- Teaching
+- Agile Transformation
+- Team Motivation
+- Change Management
+- Effective Teaching
+- Organisational Change
+- Continuous Learning
+- Agile Values and Principles
+- Team Collaboration
+- Discovery and Learning
+- Employee Engagement
+- Agile Project Management
+- Agile Coaching
+- Agile Community
 resourceTypes:
 - video
 categories:

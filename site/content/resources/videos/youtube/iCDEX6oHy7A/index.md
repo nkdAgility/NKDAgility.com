@@ -23,16 +23,12 @@ preview: https://i.ytimg.com/vi/iCDEX6oHy7A/maxresdefault.jpg
 duration: 5071
 isShort: false
 tags:
-- Professional Scrum
-- Agile Leadership
-- Team Collaboration
-- Change Management
-- Organisational Agility
-- Agile Coaching
-- Team Motivation
-- Working Agreements
-- Agile Values and Principles
-- Professional Scrum Trainer
+- Scrum Team
+- Organisational Change
+- Accountability
+- Continuous Improvement
+- Employee Engagement
+- Psychological Safety
 sitemap:
   filename: sitemap.xml
   priority: 0.4

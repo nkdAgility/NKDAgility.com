@@ -28,33 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
-- Agile leadership
-- Agile leader
-- Leadership
+- Agile Values and Principles
+- Lean Thinking
+- Value Prioritisation
+- Continuous Improvement
+- Agile Planning
+- Agile Product Discovery
+- Team Collaboration
+- Agile Strategy
+- Value Delivery
+- Lean Product Development
+- Agile Software Development
+- Kanban Theory
+- Agile Transformation
+- Evidence Based Improvement
 resourceTypes:
 - video
+categories:
+- Value Delivery
+- Lean
+- Kanban
+- Systems Thinking
+- Organisational Agility
 
 ---
 **Embracing 'Less is More' in Agile: Maximising Value, Minimising Waste 🚀🌟** 

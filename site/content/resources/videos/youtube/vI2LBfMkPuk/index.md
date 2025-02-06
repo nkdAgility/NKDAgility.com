@@ -23,18 +23,31 @@ preview: https://i.ytimg.com/vi/vI2LBfMkPuk/maxresdefault.jpg
 duration: 200
 isShort: false
 tags:
-- Agile Training
-- Scrum Certification
-- APS
-- Scrum.Org
-- Agile
-- Agile Courses
+- Agile Coaching
+- Scrum Training
+- Scrum Team
+- Agile Product Management
+- Agile Certification
+- Continuous Improvement
+- Team Collaboration
+- Agile Values and Principles
+- Customer Feedback Loops
+- Agile Project Management
+- Agile Community
+- Agile Software Development
+- Professional Scrum
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scrum
+- Agile Training
+- People and Process
+- Value Delivery
+- Events and Presentations
 
 ---
  Martin Hinshelwood has deep experience as a #softwareengineer, #agilecoach, #agileconsultant, and #professionalscrumtrainer.

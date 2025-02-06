@@ -23,21 +23,32 @@ preview: https://i.ytimg.com/vi/vWfebO_pwIU/maxresdefault.jpg
 duration: 291
 isShort: false
 tags:
-- Scrum
-- Scrum Master
-- ScrumMaster
-- PSM
-- PSM II
-- PSM III
-- Professional Scrum Master
-- Scrum.Org
-- Scrum Careers
+- Continuous Learning
+- Agile Certification
+- Scrum Team
+- Technical Mastery
+- Agile Product Management
+- Agile Coaching
+- Professional Scrum
+- Scrum Values
+- Agile Evolution
+- Value Delivery
+- Customer Feedback Loops
+- Agile Product Discovery
+- Evidence Based Improvement
+- Agile Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Discovery and Learning
+- Value Delivery
+- Organisational Psychology
 
 ---
  *Why do so few scrum masters progress to the PSM II and PSM III certifications?*

@@ -23,22 +23,33 @@ preview: https://i.ytimg.com/vi/vQBYdfLwJ3g/maxresdefault.jpg
 duration: 268
 isShort: false
 tags:
-- PSPO
-- 8-week PSPO course
-- Immersive Learning
-- Immersive Learning experience
-- Immersive Learning PSPO course
-- Scrum.Org
-- Professional Scrum Product Owner
-- Scrum Training
-- Scrum Courses
-- Scrum Certification
+- Product Owner
+- Agile Product Management
+- Scrum Product Management
+- Team Collaboration
+- Agile Planning
+- Continuous Improvement
+- Agile Product Discovery
+- Evidence Based Management
+- Agile Transformation
+- Team Motivation
+- Customer Feedback Loops
+- Agile Community
+- Entrepreneurial Thinking
+- Agile Leadership
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Agile Product Management
+- Organisational Agility
+- Discovery and Learning
+- People and Process
+- Value Delivery
 
 ---
  The Professional Scrum Product Owner or PSPO course from Scrum.Org is a great fit for the new 8-week immersive learning experience because it enables you to learn, work, and transform the classroom environment into a real-world learning experience.

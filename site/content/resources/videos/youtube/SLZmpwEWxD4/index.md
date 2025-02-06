@@ -28,20 +28,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Kanban Theory
-- Team Collaboration
-- Agile Tools
-- Value Stream Mapping
-- Systems Thinking
-- Agile Planning
-- Kanban Coaching
-- Visualisation
-- Working Agreements
-- Continuous Improvement
-- Agile Project Management
-- Flow Efficiency
-- Agile Software Development
-- Team Motivation
+- Kanban Training
 resourceTypes:
 - video
 categories:

@@ -28,12 +28,19 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Project Management
-- Project Management
-- Agile Leadership
-- Organisational Agility
-- Scrum
-- Agile Community
+- Agile Methodology
+- Agile Planning
+- Agile Tools
+- Agile Product Management
+- Agile Values and Principles
+- Continuous Improvement
+- Lean Principles
+- Value Delivery
+- Historical origins of Project Management
+- Modernisation of Project Management
+- Gantt chart
+- Agile Transformation
+- Business Agility
 resourceTypes:
 - video
 categories:

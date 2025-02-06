@@ -28,36 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
-- Agile leadership
-- Agile leader
-- Leadership
-- 7 signs
-- agile-pocalypse
-- agile-apocalypse
+- Agile Apocalypse
+- Organisational Change
+- Change Management
+- Team Collaboration
+- Strategic Goals
+- Agile Product Ownership
+- Evidence Based Management
+- Organisational Agility
+- Team Motivation
+- Communication
+- Continuous Improvement
+- Agile Transformation
+- Systems Thinking
+- Employee Engagement
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Metrics and Learning
+- Resilience and Change
+- Transparency and Accountability
 
 ---
 # Steering Through the Agile Apocalypse: Navigating Chaos 🌪️

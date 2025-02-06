@@ -28,20 +28,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Vision
-- Value
-- and Validation
-- Scrum Product Management
-- Agile Product Validation
-- Agile Planning
-- Customer Feedback Loops
-- Product Strategy
-- Agile Product Discovery
-- Continuous Improvement
-- Agile Transformation
-- Value Delivery
-- Evidence Based Management
-- Team Collaboration
+- Agile Product Management
+- Agile Leadership
 resourceTypes:
 - video
 categories:

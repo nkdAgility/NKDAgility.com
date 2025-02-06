@@ -23,21 +23,8 @@ preview: https://i.ytimg.com/vi/s4h2K62V_d0/maxresdefault.jpg
 duration: 600
 isShort: false
 tags:
-- Code Reviews for Quality Assurance
-- Test Driven Development
-- Technical Excellence
-- Continuous Delivery
-- Agile Software Engineering
-- Team Collaboration
-- Engineering Excellence
-- Agile Product Management
-- Customer Feedback Loops
-- Agile Planning
-- Agile Product Discovery
-- Value Delivery
-- Technical Debt
-- Experimentation
-- Lean Thinking
+- Agile Product Validation
+- Agile Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

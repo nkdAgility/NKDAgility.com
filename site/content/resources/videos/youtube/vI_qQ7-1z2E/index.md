@@ -30,14 +30,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Training
-- Professional Scrum Master Advanced
-- Advanced Professional Scrum Master
-- Professional Scrum Master II
-- PSM II
-- PSM
+- Scrum Master
+- Professional Scrum
+- Agile Certification
+- Scrum Team
+- Continuous Learning
+- Agile Product Management
+- Team Collaboration
+- Accountability
+- Agile Evolution
+- Value Delivery
+- Technical Excellence
+- Enriching the Learning Experience
+- Agile Values and Principles
+- Evidence Based Improvement
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Practical Techniques and Tooling
+- Discovery and Learning
+- Transparency and Accountability
 
 ---
 ## Beyond Certification: A Deeper Dive Into the PSM II Course

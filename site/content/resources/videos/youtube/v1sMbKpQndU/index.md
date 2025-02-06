@@ -30,18 +30,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- Scrum Master
-- Scrum Framework
-- Scrum approach
-- Scrum Product Development
-- Agile
-- Agile project management
-- Agile product development
-- Agile product management
-- Agile project manager
+- Team Collaboration
+- Agile Coaching
+- Team Motivation
+- Scrum Team
+- Continuous Improvement
+- Psychological Safety
+- Coaching
+- Agile Values and Principles
+- Listening
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Organisational Psychology
 
 ---
 ## The Agile Landscape: A Guide to Effective Coaching and Leadership 

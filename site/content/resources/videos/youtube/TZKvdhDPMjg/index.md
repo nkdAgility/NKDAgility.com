@@ -30,19 +30,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Change Management
-- Agile Mindset
-- Team Motivation
-- Organisational Change
-- Continuous Improvement
-- Agile Project Management
-- Agile Leadership
-- Team Collaboration
-- Discovery and Learning
-- Employee Engagement
-- Agile Transformation
-- Agile Values and Principles
-- Psychological Safety
+- Agile Coaching
+- Agile Community
 resourceTypes:
 - video
 categories:

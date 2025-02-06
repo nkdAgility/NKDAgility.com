@@ -23,15 +23,32 @@ preview: https://i.ytimg.com/vi/V44iUwv0Jcg/maxresdefault.jpg
 duration: 56
 isShort: true
 tags:
-- Agile Product Development
-- Agile Project Management
-- Kanban
+- Continuous Improvement
+- Kanban Theory
+- Lean Principles
+- Agile Planning
+- Systems Thinking
+- Value Delivery
+- Agile Evolution
+- Change Management
+- Evidence Based Improvement
+- Team Collaboration
+- Agile Methodology
+- Agile Community
+- Continuous Learning
+- Agile Product Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Kanban
+- Continuous Improvement
+- Metrics and Learning
+- Lean
+- Value Stream Management
 
 ---
  Continuous Improvement with #kanban. Visit https://www.nkdagility.com #agile #scrum #kaizen #kanban #agileframework 

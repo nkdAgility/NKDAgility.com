@@ -24,26 +24,30 @@ preview: https://i9.ytimg.com/vi/vbY6LUq81uY/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 437
 isShort: false
 tags:
-- Software development
-- Software engineering
-- Agile
-- Product Development
-- Agile Product Development
-- Product Management
-- Agile Product Management
-- Project Management
-- Agile Project Management
-- CTO
-- Project Manager
-- Product Manager
-- Product Owner
-- Scrum Master
-- Developer
+- MVP
+- Entrepreneurship
+- Agile Product Discovery
+- Experimentation
+- Lean Startup
+- Value Delivery
+- Customer Feedback Loops
+- Hypothesis Driven Development
+- Continuous Improvement
+- Agile Planning
+- Agile Software Development
+- Agile Methodology
+- Evidence Based Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Discovery and Learning
+- Value Delivery
+- Agile Product Management
+- Lean
+- Metrics and Learning
 
 ---
  Funding Products Like an Entrepreneur: Hypothesis-Driven Development | Martin Hinshelwood

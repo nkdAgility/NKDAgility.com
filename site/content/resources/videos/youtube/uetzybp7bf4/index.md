@@ -24,25 +24,31 @@ preview: https://i9.ytimg.com/vi/uetzybp7bf4/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 379
 isShort: false
 tags:
-- Software development
-- software engineering
-- Agile
-- Product development
-- Product management
-- Agile product management
-- Project Management
-- Agile project management
-- Project manager
-- CTO
-- Product manager
-- Product Owner
-- Scrum Master
-- Scrum
+- Continuous Improvement
+- Team Motivation
+- Employee Engagement
+- Business Agility
+- Value Prioritisation
+- Decision Theory
+- Evidence Based Management
+- Organisational Culture
+- Agile Product Discovery
+- Customer Feedback Loops
+- Experimentation
+- Lean Thinking
+- Agile Leadership
+- Entrepreneurship
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Value Delivery
+- Metrics and Learning
+- People and Process
+- Organisational Agility
+- Discovery and Learning
 
 ---
  Empowering Teams with Financial Transparency: Maximizing ROI in Product Development | Martin Hinshelwood

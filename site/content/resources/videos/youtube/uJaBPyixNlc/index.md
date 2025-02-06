@@ -30,13 +30,29 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Training
-- Scrum Training
-- Scrum Trainer
-- Professional Scrum Trainer
-- CST
+- Scrum
+- Scrum Team
+- Scrum Master
+- Agile Coaching
+- Agile Mentoring
+- Agile Product Management
+- Agile Problem Solving
+- Continuous Improvement
+- Technical Excellence
+- Agile Certification
+- Agile Values and Principles
+- Team Collaboration
+- Employee Engagement
+- Agile Software Development
+- Value Delivery
 resourceTypes:
 - video
+categories:
+- Scrum
+- Agile Product Management
+- People and Process
+- Organisational Agility
+- Technical Excellence
 
 ---
 How does Naked Agility select associate Scrum Trainers?

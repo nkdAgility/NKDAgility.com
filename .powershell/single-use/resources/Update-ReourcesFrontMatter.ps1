@@ -4,7 +4,7 @@
 . ./.powershell/_includes/ResourceHelpers.ps1
 
 # Iterate through each blog folder and update markdown files
-$outputDir = ".\site\content\resources\videos\"
+$outputDir = ".\site\content\resources\guides\"
 
 # Get list of directories and select the first 10
 $resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md" #| Select-Object -First 10

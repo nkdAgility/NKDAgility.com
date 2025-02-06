@@ -45,11 +45,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Scrum
-- Empiricism
-- People and Process
-- Discovery and Learning
-- Value Delivery
+- Transparency and Accountability
 
 ---
 What is the most common Aha moment people have in a scrum course?

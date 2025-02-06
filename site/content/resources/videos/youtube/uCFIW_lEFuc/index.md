@@ -23,20 +23,7 @@ preview: https://i.ytimg.com/vi/uCFIW_lEFuc/maxresdefault.jpg
 duration: 498
 isShort: false
 tags:
-- Sloth!
-- Team Motivation
-- Agile Product Discovery
-- Customer Feedback Loops
-- Continuous Improvement
-- Agile Values and Principles
-- Agile Leadership
-- Working Software
-- Agile Software Development
-- Agile Transformation
-- Agile Methodology
-- Team Collaboration
-- Change Management
-- Evidence Based Improvement
+- Agile Product Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4

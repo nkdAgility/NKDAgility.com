@@ -28,15 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Training
-- Scrum Training
-- Agile Mentoring
-- Agile Coaching
-- Scrum certification
-- Scrum mentoring
-- Scrum Courses
+- Agile Mentoring Program
+- Scrum
+- Scrum Team
+- Agile Product Management
+- Continuous Learning
+- Team Collaboration
+- Change Management
+- Agile Transformation
+- Evidence Based Improvement
+- Agile Values and Principles
+- Customer Feedback Loops
+- Team Motivation
+- Value Delivery
+- Agile Community
 resourceTypes:
 - video
+categories:
+- Scrum
+- Discovery and Learning
+- People and Process
+- Value Delivery
+- Organisational Agility
 
 ---
 ## **The Shift from Traditional to Immersive Learning**

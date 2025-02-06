@@ -28,19 +28,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Team Motivation
-- Employee Engagement
-- Purpose
-- Strategic Goals
-- Continuous Improvement
-- Agile Product Management
-- Value Delivery
-- Organisational Culture
-- Agile Transformation
-- Discovery and Learning
-- Technical Mastery
-- Systems Thinking
-- Psychological Safety
+- Agile Leadership
+- Lean Thinking
 resourceTypes:
 - video
 categories:

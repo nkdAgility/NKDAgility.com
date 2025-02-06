@@ -23,35 +23,29 @@ preview: https://i.ytimg.com/vi/uRqsRNq-XRY/maxresdefault.jpg
 duration: 55
 isShort: true
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Agile Apocalypse
+- Team Motivation
+- Change Management
+- Evidence Based Management
+- Continuous Improvement
+- Team Collaboration
+- Strategic Goals
+- Agile Values and Principles
+- Accountability
+- Psychological Safety
+- Systems Thinking
+- Employee Engagement
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Metrics and Learning
+- People and Process
+- Organisational Agility
 
 ---
  #shorts #shortvideo #shortsvideo Sometimes, making mistakes isn't a bad thing because it is the path to continuous learning, improved decision-making, and ultimately, great judgement. At other times, it's simply a sign of poor judgement and decision-making, and if there is no commitment to learn and improve, poor judgement can be a sign of impending doom.

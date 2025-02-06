@@ -23,35 +23,25 @@ preview: https://i.ytimg.com/vi/uvZ9TGbMtnU/maxresdefault.jpg
 duration: 41
 isShort: true
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Agile Values and Principles
+- Definition of Done
+- Continuous Improvement
+- Agile Transformation
+- Team Collaboration
+- Agile Methodology
+- Agile Coaching
+- Team Motivation
+- Business Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scrum
+- Value Delivery
+- Technical Excellence
 
 ---
  #shorts #shortvideo #shortsvideo Martin Hinshelwood walks us through the 5 kinds of #agile bandits. This video features #specialsprints

@@ -45,7 +45,10 @@ tags:
 resourceTypes:
 - video
 categories:
-- Sustainable Change
+- Organisational Agility
+- People and Process
+- Resilience and Change
+- Leadership
 
 ---
 **Why do you prefer agile consulting over agile coaching?**

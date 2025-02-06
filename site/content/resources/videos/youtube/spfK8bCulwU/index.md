@@ -23,19 +23,7 @@ preview: https://i.ytimg.com/vi/spfK8bCulwU/maxresdefault.jpg
 duration: 183
 isShort: false
 tags:
-- Entrepreneurship
-- Scrum Product Management
-- Agile Product Management
-- Agile Product Discovery
-- Agile Training
-- Agile Coaching
-- Agile Values and Principles
-- Continuous Improvement
-- Agile Digital Tools
-- Lean Startup
-- Agile Methodology
-- Team Collaboration
-- Customer Feedback Loops
+- Product Owner
 sitemap:
   filename: sitemap.xml
   priority: 0.4
