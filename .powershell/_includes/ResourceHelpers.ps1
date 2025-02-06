@@ -59,17 +59,18 @@ You are an expert in content classification. Given the resource title, content, 
 - **Resource Title:** "$ResourceTitle"
 - **Resource Year:** "$ResourceYear"
 - **Resource Content:** "$ResourceContent"
-- **Current Categories:** "$($CurrentCategories -join ', ')"
 - **Catalog of Valid Categories and Descriptions:**
 $catalogString
 
 
 ### Rules:
-1. Categories must strictly align with the primary thesis of the resource.
-2. Do not select categories based on superficial keyword matches.
-3. Prioritise broad conceptual categories first before specific techniques.
-4. Limit the selection to "$MinCategories"-"$MaxCategories" categories to ensure precision.
-5. Do not assign a category if it is not meaningfully reflected in the content.
+1. Prioritise categories related to Scrum when discussing Scrum concepts (e.g., ‘Scrum Master’, ‘Definition of Done’, ‘Scrum Team’).
+2. For quality-focused discussions, prioritise categories like ‘Definition of Done’, ‘Software Increment’, ‘Continuous Delivery’, and ‘Technical Excellence’.
+3. Do NOT assign broad Agile categories (e.g., ‘Agile Coaching’) if the content is specifically about Scrum principles.
+4. Avoid assigning categories based on isolated words—focus on the context and main arguments.
+5. Limit the selection to "$MinCategories"-"$MaxCategories" categories to ensure precision.
+6. Do not assign a category if it is not meaningfully reflected in theme and intent of the content.
+7. Ensure that you match the case and spelling of the categories in the catalog.
 
 Return only the updated categories as a comma-separated list with no additional characters.
 "@

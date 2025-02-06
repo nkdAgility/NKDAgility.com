@@ -23,16 +23,16 @@ aliasesFor404:
 - /there-is-no-such-thing-as-a--junior--scrum-master
 - /blog/there-is-no-such-thing-as-a--junior--scrum-master
 tags:
-- Scrum
-- Scrum Master
-- Agile Coaching
-- Technical Mastery
-- Team Collaboration
-- Business Agility
-- Organisational Agility
-- Continuous Improvement
-- Agile Leadership
-- Agile Methodology
+- Scrum Team
+- Agile Product Management
+- Accountability
+- Agile Values and Principles
+- Organisational Change
+- Leadership Training
+- Agile Software Development
+- Value Delivery
+- Employee Engagement
+- Agile Transformation
 categories:
 - People and Process
 - Scrum

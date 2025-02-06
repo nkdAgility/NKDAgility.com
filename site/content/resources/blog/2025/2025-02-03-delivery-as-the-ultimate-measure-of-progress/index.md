@@ -10,36 +10,42 @@ date: 2025-02-03T09:00:00
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
-  - name: Ana Kotevska
-    external: https://www.linkedin.com/in/ana-kotevska-b0b9ab39/
+- name: Ana Kotevska
+  external: https://www.linkedin.com/in/ana-kotevska-b0b9ab39/
 layout: blog
 resourceTypes: blog
 slug: delivery-is-the-only-measure-of-progress
 aliases:
-  - /resources/jBIyK6NW3ZB
-  - /delivery-is-the-only-measure-of-progress
-  - /blog/delivery-is-the-only-measure-of-progress
-  - /delivery-is-the-only-measure-of-progress-in-scrum
-  - /blog/delivery-is-the-only-measure-of-progress-in-scrum
+- /resources/jBIyK6NW3ZB
+- /delivery-is-the-only-measure-of-progress
+- /blog/delivery-is-the-only-measure-of-progress
+- /delivery-is-the-only-measure-of-progress-in-scrum
+- /blog/delivery-is-the-only-measure-of-progress-in-scrum
 aliasesFor404:
-  - /delivery-is-the-only-measure-of-progress
-  - /blog/delivery-is-the-only-measure-of-progress
-  - /delivery-is-the-only-measure-of-progress-in-scrum
-  - /blog/delivery-is-the-only-measure-of-progress-in-scrum
+- /delivery-is-the-only-measure-of-progress
+- /blog/delivery-is-the-only-measure-of-progress
+- /delivery-is-the-only-measure-of-progress-in-scrum
+- /blog/delivery-is-the-only-measure-of-progress-in-scrum
 tags:
-  - Delivery Frequency
-  - Agile Coaching
-  - DevOps
-  - Continuous Delivery
-  - Definition of Done
+- Scrum Team
+- Agile Product Management
+- Value Delivery
+- Customer Feedback Loops
+- Agile Software Development
+- Deployment Strategies
+- Agile Product Validation
+- Technical Excellence
+- Agile Transformation
+- Working Software
+- Evidence Based Improvement
 categories:
-  - Scrum
-  - DevOps
-  - Value Delivery
-  - Metrics and Learning
+- Scrum
+- DevOps
+- Value Delivery
+- Metrics and Learning
 preview: 2025-02-03-delivery-as-the-ultimate-measure-of-progress.jpg
----
 
+---
 As a social technology, Scrum has remained steadfast in its ethos for over 32 years, enabling teams to generate value through adaptive solutions to complex problems. Yet, a subtle distinction in its guidance often trips up practitioners - Scrum **explicitly** mandates a **Done Increment** but **implicitly** mandates **Delivery**. This distinction, though subtle, holds profound implications in a modern context where DevOps has reshaped the landscape of software delivery.
 
 ### TLDR;

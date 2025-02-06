@@ -20,10 +20,16 @@ aliasesFor404:
 - /why-handoffs-are-killing-your-agility
 - /blog/why-handoffs-are-killing-your-agility
 tags:
-- cross functional teams
-- lean thinking
-- flow efficiency
-- continuous delivery
+- Team Collaboration
+- Technical Debt
+- Agile Software Development
+- Value Stream Management
+- Employee Engagement
+- Agile Transformation
+- Agile Product Management
+- Test Driven Development
+- Cycle Time
+- Organisational Agility
 categories:
 - Organisational Agility
 - Value Stream Management

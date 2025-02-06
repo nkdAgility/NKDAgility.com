@@ -24,16 +24,12 @@ aliasesFor404:
 - /without-delivery--there-is-no-value
 - /blog/without-delivery--there-is-no-value
 tags:
-- Frequent Releases
-- Deployment Frequency
-- Agile Product Validation
-- Customer Feedback Loops
-- Agile Software Development
-- Continuous Improvement
-- Change Management
-- Value Delivery
-- Agile Planning
-- Agile Product Management
+- Scrum Team
+- Definition of Done
+- Continuous Delivery
+- Lead Time
+- Transparency
+- Evidence Based Management
 categories:
 - Value Delivery
 - Agile Product Management

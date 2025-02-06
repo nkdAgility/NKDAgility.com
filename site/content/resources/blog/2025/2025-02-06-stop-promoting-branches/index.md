@@ -21,10 +21,19 @@ aliasesFor404:
 - /stop-promoting-branches
 - /blog/stop-promoting-branches
 tags:
-- devops
-- agile-transformation
-- value-stream-management
-- lean-thinking
+- Deployment Frequency
+- Continuous Delivery
+- Agile Software Development
+- Agile Product Management
+- Technical Excellence
+- Value Delivery
+- Agile Transformation
+- Agile Values and Principles
+- Lean Principles
+- Evidence Based Management
+- Organisational Agility
+- Agile Frameworks
+- Systems Thinking
 categories:
 - Code and Complexity
 - Organisational Agility

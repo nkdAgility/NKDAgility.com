@@ -24,16 +24,12 @@ aliasesFor404:
 - /definition-of-done---objective-vs-subjective
 - /blog/definition-of-done---objective-vs-subjective
 tags:
-- Definition of Done
-- Agile Product Management
-- Agile Planning
-- Agile Software Development
-- Continuous Improvement
-- Agile Values and Principles
-- Scrum Product Management
-- Agile Coaching
-- Technical Excellence
-- Evidence Based Management
+- Scrum
+- Scrum Team
+- Software Increment
+- Continuous Delivery
+- Team Collaboration
+- Agile Product Ownership
 categories:
 - Metrics and Learning
 - Agile Product Management

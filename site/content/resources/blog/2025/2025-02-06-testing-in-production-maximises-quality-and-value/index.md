@@ -23,16 +23,12 @@ aliasesFor404:
 - /testing-in-production-maximises-quality-and-value
 - /blog/testing-in-production-maximises-quality-and-value
 tags:
-- Continuous Delivery
-- Deployment Strategies
-- Customer Feedback Loops
-- Agile Product Discovery
-- Agile Software Development
-- Evidence Based Management
-- Value Delivery
-- Agile Transformation
-- DevOps
-- Agile Planning
+- Deployment Frequency
+- Technical Excellence
+- Agile Product Management
+- Lean Thinking
+- Agile Digital Tools
+- Test Automation
 categories:
 - Value Delivery
 - Metrics and Learning
