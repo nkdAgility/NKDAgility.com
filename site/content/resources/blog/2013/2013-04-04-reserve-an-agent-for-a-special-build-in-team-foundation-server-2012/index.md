@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-04-04
 creator: Martin Hinshelwood
-id: "9359"
 layout: blog
 resourceTypes: blog
 slug: reserve-an-agent-for-a-special-build-in-team-foundation-server-2012

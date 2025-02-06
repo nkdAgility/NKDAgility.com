@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-12-31
 creator: Martin Hinshelwood
-id: "10892"
 layout: blog
 resourceTypes: blog
 slug: join-machine-azure-hosted-domain-controller

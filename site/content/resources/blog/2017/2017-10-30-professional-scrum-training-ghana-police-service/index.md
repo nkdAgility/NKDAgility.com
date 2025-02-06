@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2017-10-30
 creator: Martin Hinshelwood
-id: "12095"
 layout: blog
 resourceTypes: blog
 slug: professional-scrum-training-ghana-police-service

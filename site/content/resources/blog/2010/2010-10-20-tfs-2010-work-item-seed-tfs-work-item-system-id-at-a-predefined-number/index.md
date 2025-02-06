@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-10-20
 creator: Martin Hinshelwood
-id: "21"
 layout: blog
 resourceTypes: blog
 slug: tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number

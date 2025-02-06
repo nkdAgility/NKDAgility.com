@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-08
 creator: Martin Hinshelwood
-id: "7094"
 layout: blog
 resourceTypes: blog
 slug: tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you

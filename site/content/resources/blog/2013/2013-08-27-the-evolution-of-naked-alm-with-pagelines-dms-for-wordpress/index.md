@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-08-27
 creator: Martin Hinshelwood
-id: "9964"
 layout: blog
 resourceTypes: blog
 slug: the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress

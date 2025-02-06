@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-04-28
 creator: Martin Hinshelwood
-id: "47"
 layout: blog
 resourceTypes: blog
 slug: linkedin-woopsie-with-the-outlook-2010-social-media-connector

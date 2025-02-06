@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-06-04
 creator: Martin Hinshelwood
-id: "3460"
 layout: blog
 resourceTypes: blog
 slug: what-do-you-do-with-a-work-item-history-not-found-conflict-type-details

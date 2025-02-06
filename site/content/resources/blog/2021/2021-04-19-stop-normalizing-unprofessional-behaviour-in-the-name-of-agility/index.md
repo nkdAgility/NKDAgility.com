@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2021-04-19
 AudioNative: true
 creator: Martin Hinshelwood
-id: "46108"
 layout: blog
 resourceTypes: blog
 slug: stop-normalizing-unprofessional-behaviour-in-the-name-of-agility

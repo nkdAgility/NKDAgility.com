@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-05-01
 creator: Martin Hinshelwood
-id: "127"
 layout: blog
 resourceTypes: blog
 slug: fail-a-build-if-tests-fail

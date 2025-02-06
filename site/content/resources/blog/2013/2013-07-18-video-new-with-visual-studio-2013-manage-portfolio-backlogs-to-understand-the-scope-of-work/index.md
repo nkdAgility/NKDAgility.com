@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-18
 creator: Martin Hinshelwood
-id: "9718"
 layout: blog
 resourceTypes: blog
 slug: video-new-with-visual-studio-2013-manage-portfolio-backlogs-to-understand-the-scope-of-work

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2019-08-22
 creator: Martin Hinshelwood
-id: "39684"
 layout: blog
 resourceTypes: blog
 slug: no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it

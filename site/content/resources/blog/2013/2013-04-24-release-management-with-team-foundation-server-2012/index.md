@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-04-24
 creator: Martin Hinshelwood
-id: "9468"
 layout: blog
 resourceTypes: blog
 slug: release-management-with-team-foundation-server-2012

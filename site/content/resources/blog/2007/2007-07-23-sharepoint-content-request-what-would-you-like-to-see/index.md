@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-07-23
 creator: Martin Hinshelwood
-id: "361"
 layout: blog
 resourceTypes: blog
 slug: sharepoint-content-request-what-would-you-like-to-see

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-03-04
 creator: Martin Hinshelwood
-id: "243"
 layout: blog
 resourceTypes: blog
 slug: what-the-0x80072020

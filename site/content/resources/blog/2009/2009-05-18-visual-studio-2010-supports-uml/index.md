@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-05-18
 creator: Martin Hinshelwood
-id: "116"
 layout: blog
 resourceTypes: blog
 slug: visual-studio-2010-supports-uml

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-07-02
 creator: Martin Hinshelwood
-id: "10597"
 layout: blog
 resourceTypes: blog
 slug: delete-work-items-tfs-vso

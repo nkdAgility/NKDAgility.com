@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2019-10-07
 creator: Martin Hinshelwood
-id: "39851"
 layout: blog
 resourceTypes: blog
 slug: how-do-you-handle-conflict-in-a-scrum-team

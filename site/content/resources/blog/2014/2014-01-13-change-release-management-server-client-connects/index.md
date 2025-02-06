@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-01-13
 creator: Martin Hinshelwood
-id: "10329"
 layout: blog
 resourceTypes: blog
 slug: change-release-management-server-client-connects

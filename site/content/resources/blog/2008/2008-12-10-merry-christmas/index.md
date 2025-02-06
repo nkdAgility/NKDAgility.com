@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-12-10
 creator: Martin Hinshelwood
-id: "154"
 layout: blog
 resourceTypes: blog
 slug: merry-christmas

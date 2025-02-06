@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2023-08-10
 AudioNative: true
 creator: Martin Hinshelwood
-id: "49510"
 layout: blog
 resourceTypes: blog
 slug: navigating-the-future-with-a-fine-tuned-product-backlog

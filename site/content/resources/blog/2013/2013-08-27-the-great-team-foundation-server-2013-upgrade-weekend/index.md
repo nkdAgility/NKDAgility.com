@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-08-27
 creator: Martin Hinshelwood
-id: "9989"
 layout: blog
 resourceTypes: blog
 slug: the-great-team-foundation-server-2013-upgrade-weekend

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-06-17
 creator: Martin Hinshelwood
-id: "38"
 layout: blog
 resourceTypes: blog
 slug: flashing-your-windows-phone-6-for-dummies

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-02-05
 creator: Martin Hinshelwood
-id: "250"
 layout: blog
 resourceTypes: blog
 slug: tfs-sticky-buddy-codeplex-project

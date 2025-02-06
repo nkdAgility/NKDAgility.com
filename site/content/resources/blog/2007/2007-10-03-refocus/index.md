@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-10-03
 creator: Martin Hinshelwood
-id: "304"
 layout: blog
 resourceTypes: blog
 slug: refocus

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-02-08
 creator: Martin Hinshelwood
-id: "71"
 layout: blog
 resourceTypes: blog
 slug: why-i-miss-orange-and-why-vodafone-suck

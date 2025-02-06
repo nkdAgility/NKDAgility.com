@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-06-22
 creator: Martin Hinshelwood
-id: "44452"
 layout: blog
 resourceTypes: blog
 slug: configuring-microsoft-teams-for-live-virtual-training

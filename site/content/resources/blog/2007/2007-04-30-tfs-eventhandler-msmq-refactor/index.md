@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-04-30
 creator: Martin Hinshelwood
-id: "407"
 layout: blog
 resourceTypes: blog
 slug: tfs-eventhandler-msmq-refactor

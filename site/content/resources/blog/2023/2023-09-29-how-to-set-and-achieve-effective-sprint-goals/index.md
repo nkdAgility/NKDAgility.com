@@ -13,7 +13,6 @@ creator: Martin Hinshelwood
 contributors:
 - name: Ralph Jocham
   external: https://www.scrum.org/ralph-jocham
-id: "50115"
 layout: blog
 resourceTypes: blog
 slug: how-to-set-and-achieve-effective-sprint-goals

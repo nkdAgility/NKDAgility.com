@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-06-30
 creator: Martin Hinshelwood
-id: "5702"
 layout: blog
 resourceTypes: blog
 slug: upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation

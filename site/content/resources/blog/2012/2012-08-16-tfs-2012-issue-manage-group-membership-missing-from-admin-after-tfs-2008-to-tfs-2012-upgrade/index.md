@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-16
 creator: Martin Hinshelwood
-id: "7176"
 layout: blog
 resourceTypes: blog
 slug: tfs-2012-issue-manage-group-membership-missing-from-admin-after-tfs-2008-to-tfs-2012-upgrade

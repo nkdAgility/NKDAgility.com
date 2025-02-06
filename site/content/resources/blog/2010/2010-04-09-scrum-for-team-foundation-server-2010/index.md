@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-04-09
 creator: Martin Hinshelwood
-id: "55"
 layout: blog
 resourceTypes: blog
 slug: scrum-for-team-foundation-server-2010

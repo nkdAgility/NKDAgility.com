@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2006-12-15
 creator: Martin Hinshelwood
-id: "447"
 layout: blog
 resourceTypes: blog
 slug: ahhh-the-fun-of-deploying-team-system-in-a-large-corporation

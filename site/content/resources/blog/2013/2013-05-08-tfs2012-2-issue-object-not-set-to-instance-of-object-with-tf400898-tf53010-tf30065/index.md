@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-05-08
 creator: Martin Hinshelwood
-id: "9899"
 layout: blog
 resourceTypes: blog
 slug: tfs2012-2-issue-object-not-set-to-instance-of-object-with-tf400898-tf53010-tf30065

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-08-22
 creator: Martin Hinshelwood
-id: "207"
 layout: blog
 resourceTypes: blog
 slug: heat-itsm

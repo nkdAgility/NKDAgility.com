@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-07-22
 creator: Martin Hinshelwood
-id: "364"
 layout: blog
 resourceTypes: blog
 slug: how-to-become-a-multi-dimensional-free-thinker

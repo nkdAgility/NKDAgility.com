@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-05-31
 creator: Martin Hinshelwood
-id: "391"
 layout: blog
 resourceTypes: blog
 slug: team-foundation-server-sharepoint-3-0

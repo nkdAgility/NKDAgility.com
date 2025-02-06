@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-10-06
 creator: Martin Hinshelwood
-id: "301"
 layout: blog
 resourceTypes: blog
 slug: amusing-job-requirements

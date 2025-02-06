@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-08-27
 creator: Martin Hinshelwood
-id: "206"
 layout: blog
 resourceTypes: blog
 slug: wpf-threading

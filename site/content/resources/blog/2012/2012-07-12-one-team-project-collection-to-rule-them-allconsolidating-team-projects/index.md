@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-07-12
 creator: Martin Hinshelwood
-id: "6109"
 layout: blog
 resourceTypes: blog
 slug: one-team-project-collection-to-rule-them-allconsolidating-team-projects

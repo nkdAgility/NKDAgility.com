@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-10-20
 creator: Martin Hinshelwood
-id: "85"
 layout: blog
 resourceTypes: blog
 slug: interview-with-scottish-developers

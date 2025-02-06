@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-05-31
 creator: Martin Hinshelwood
-id: "3365"
 layout: blog
 resourceTypes: blog
 slug: what-about-hosting-the-tfs-automation-platform-2

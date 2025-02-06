@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-07
 creator: Martin Hinshelwood
-id: "7067"
 layout: blog
 resourceTypes: blog
 slug: install-sharepoint-2013-on-windows-server-2012-without-a-domain

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-05
 creator: Martin Hinshelwood
-id: "65"
 layout: blog
 resourceTypes: blog
 slug: mvvm-for-dummies

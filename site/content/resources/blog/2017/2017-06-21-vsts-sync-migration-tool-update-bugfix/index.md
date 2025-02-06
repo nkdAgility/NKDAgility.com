@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2017-06-21
 creator: Martin Hinshelwood
-id: "11944"
 layout: blog
 resourceTypes: blog
 slug: vsts-sync-migration-tool-update-bugfix

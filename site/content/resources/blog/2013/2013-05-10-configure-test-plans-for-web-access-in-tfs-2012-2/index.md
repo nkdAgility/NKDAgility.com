@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-05-10
 creator: Martin Hinshelwood
-id: "9900"
 layout: blog
 resourceTypes: blog
 slug: configure-test-plans-for-web-access-in-tfs-2012-2

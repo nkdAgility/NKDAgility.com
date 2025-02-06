@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-06-23
 creator: Martin Hinshelwood
-id: "3652"
 layout: blog
 resourceTypes: blog
 slug: configuring-a-powershell-adapter-for-the-tfs-integration-platform

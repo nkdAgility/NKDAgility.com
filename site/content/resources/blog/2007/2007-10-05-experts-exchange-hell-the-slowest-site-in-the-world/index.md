@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-10-05
 creator: Martin Hinshelwood
-id: "302"
 layout: blog
 resourceTypes: blog
 slug: experts-exchange-hell-the-slowest-site-in-the-world

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-11-02
 creator: Martin Hinshelwood
-id: "9075"
 layout: blog
 resourceTypes: blog
 slug: integrating-project-server-2013-with-team-foundation-server-2012

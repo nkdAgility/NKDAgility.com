@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-09-07
 creator: Martin Hinshelwood
-id: "316"
 layout: blog
 resourceTypes: blog
 slug: tfs-event-handler-in-net-3-5-part-2

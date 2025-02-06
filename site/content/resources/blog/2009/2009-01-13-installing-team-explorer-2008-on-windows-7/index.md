@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-01-13
 creator: Martin Hinshelwood
-id: "145"
 layout: blog
 resourceTypes: blog
 slug: installing-team-explorer-2008-on-windows-7

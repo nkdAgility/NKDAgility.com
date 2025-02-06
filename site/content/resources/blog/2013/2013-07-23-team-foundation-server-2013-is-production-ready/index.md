@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-23
 creator: Martin Hinshelwood
-id: "9917"
 layout: blog
 resourceTypes: blog
 slug: team-foundation-server-2013-is-production-ready

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2011-01-04
 creator: Martin Hinshelwood
-id: "20"
 layout: blog
 resourceTypes: blog
 slug: what-to-do-after-a-servicing-fails-on-tfs-2010

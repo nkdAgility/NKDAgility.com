@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-03-11
 creator: Martin Hinshelwood
-id: "11248"
 layout: blog
 resourceTypes: blog
 slug: alm-events-and-public-courses-in-2015-q2

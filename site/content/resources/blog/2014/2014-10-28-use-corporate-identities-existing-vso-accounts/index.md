@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-10-28
 creator: Martin Hinshelwood
-id: "10797"
 layout: blog
 resourceTypes: blog
 slug: use-corporate-identities-existing-vso-accounts

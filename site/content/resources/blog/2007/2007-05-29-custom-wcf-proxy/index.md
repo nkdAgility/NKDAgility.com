@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-05-29
 creator: Martin Hinshelwood
-id: "394"
 layout: blog
 resourceTypes: blog
 slug: custom-wcf-proxy

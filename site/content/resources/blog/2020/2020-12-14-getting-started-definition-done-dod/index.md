@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2020-12-14
 AudioNative: true
 creator: Martin Hinshelwood
-id: "38238"
 layout: blog
 resourceTypes: blog
 slug: getting-started-definition-done-dod

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-07-19
 creator: Martin Hinshelwood
-id: "3688"
 layout: blog
 resourceTypes: blog
 slug: coffee-talk-scrum-versus-kanban

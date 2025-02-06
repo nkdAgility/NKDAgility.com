@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-07-30
 creator: Martin Hinshelwood
-id: "10638"
 layout: blog
 resourceTypes: blog
 slug: merge-many-team-projects-one-tfs

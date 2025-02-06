@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-04-08
 creator: Martin Hinshelwood
-id: "56"
 layout: blog
 resourceTypes: blog
 slug: guidance-branching-for-each-sprint

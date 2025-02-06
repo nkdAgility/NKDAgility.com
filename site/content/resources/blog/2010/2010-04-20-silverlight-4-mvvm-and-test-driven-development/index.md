@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-04-20
 creator: Martin Hinshelwood
-id: "49"
 layout: blog
 resourceTypes: blog
 slug: silverlight-4-mvvm-and-test-driven-development

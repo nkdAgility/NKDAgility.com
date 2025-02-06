@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-07
 creator: Martin Hinshelwood
-id: "7015"
 layout: blog
 resourceTypes: blog
 slug: issue-sharepoint-2013-the-username-is-invalid-the-account-must-be-a-valid-domain-account

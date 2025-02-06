@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-10-20
 creator: Martin Hinshelwood
-id: "297"
 layout: blog
 resourceTypes: blog
 slug: installing-tfs-2008-from-scratch

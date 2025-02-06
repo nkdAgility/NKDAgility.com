@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2023-10-17
 AudioNative: true
 creator: Martin Hinshelwood
-id: "50309"
 layout: blog
 resourceTypes: blog
 slug: the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development

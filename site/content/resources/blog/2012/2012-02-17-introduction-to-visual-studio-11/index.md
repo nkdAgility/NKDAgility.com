@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-02-17
 creator: Martin Hinshelwood
-id: "4393"
 layout: blog
 resourceTypes: blog
 slug: introduction-to-visual-studio-11

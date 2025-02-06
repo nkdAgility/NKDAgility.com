@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-06-18
 creator: Martin Hinshelwood
-id: "37"
 layout: blog
 resourceTypes: blog
 slug: professional-scrum-developer-net-training-in-london

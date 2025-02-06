@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-12-04
 creator: Martin Hinshelwood
-id: "10970"
 layout: blog
 resourceTypes: blog
 slug: create-release-management-pipeline-professional-developers

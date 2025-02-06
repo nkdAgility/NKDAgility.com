@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-10-02
 creator: Martin Hinshelwood
-id: "10149"
 layout: blog
 resourceTypes: blog
 slug: powershell-tfs-2013-api-1-get-tfscollection-and-tfs-services

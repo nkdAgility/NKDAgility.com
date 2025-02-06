@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2019-09-01
 creator: Martin Hinshelwood
-id: "39894"
 layout: blog
 resourceTypes: blog
 slug: are-technical-skills-required-to-be-a-scrum-master

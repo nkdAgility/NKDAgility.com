@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2018-01-30
 AudioNative: true
 creator: Martin Hinshelwood
-id: "38300"
 layout: blog
 resourceTypes: blog
 slug: work-can-flow-across-sprint-boundary

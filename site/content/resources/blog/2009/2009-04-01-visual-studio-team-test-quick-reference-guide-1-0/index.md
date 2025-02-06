@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-04-01
 creator: Martin Hinshelwood
-id: "133"
 layout: blog
 resourceTypes: blog
 slug: visual-studio-team-test-quick-reference-guide-1-0

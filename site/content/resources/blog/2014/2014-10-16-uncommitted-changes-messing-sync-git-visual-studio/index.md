@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-10-16
 creator: Martin Hinshelwood
-id: "10732"
 layout: blog
 resourceTypes: blog
 slug: uncommitted-changes-messing-sync-git-visual-studio

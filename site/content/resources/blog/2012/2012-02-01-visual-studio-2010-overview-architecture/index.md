@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-02-01
 creator: Martin Hinshelwood
-id: "4191"
 layout: blog
 resourceTypes: blog
 slug: visual-studio-2010-overview-architecture

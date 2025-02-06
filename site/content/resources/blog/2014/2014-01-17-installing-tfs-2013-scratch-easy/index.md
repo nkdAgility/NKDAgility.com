@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-01-17
 creator: Martin Hinshelwood
-id: "10332"
 layout: blog
 resourceTypes: blog
 slug: installing-tfs-2013-scratch-easy

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-05-15
 creator: Martin Hinshelwood
-id: "9487"
 layout: blog
 resourceTypes: blog
 slug: quality-enablement-with-visual-studio-2012

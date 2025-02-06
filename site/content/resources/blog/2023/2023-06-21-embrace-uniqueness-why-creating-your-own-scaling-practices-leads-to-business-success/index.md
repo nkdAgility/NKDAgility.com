@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2023-06-21
 AudioNative: true
 creator: Martin Hinshelwood
-id: "49480"
 layout: blog
 resourceTypes: blog
 slug: embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success

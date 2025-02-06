@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-08-13
 creator: Martin Hinshelwood
-id: "209"
 layout: blog
 resourceTypes: blog
 slug: if-you-had-a-choice

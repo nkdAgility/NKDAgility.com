@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-11-16
 creator: Martin Hinshelwood
-id: "44487"
 layout: blog
 resourceTypes: blog
 slug: online-is-the-new-co-located

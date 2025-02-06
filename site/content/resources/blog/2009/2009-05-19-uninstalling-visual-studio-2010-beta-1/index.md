@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-05-19
 creator: Martin Hinshelwood
-id: "115"
 layout: blog
 resourceTypes: blog
 slug: uninstalling-visual-studio-2010-beta-1

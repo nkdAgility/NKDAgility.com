@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-05-04
 creator: Martin Hinshelwood
-id: "404"
 layout: blog
 resourceTypes: blog
 slug: studying-for-exam-70-536-mcts-application-development-foundation

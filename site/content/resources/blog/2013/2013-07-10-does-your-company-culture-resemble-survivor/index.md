@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-10
 creator: Martin Hinshelwood
-id: "9716"
 layout: blog
 resourceTypes: blog
 slug: does-your-company-culture-resemble-survivor

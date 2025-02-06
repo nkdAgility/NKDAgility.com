@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-07-12
 creator: Martin Hinshelwood
-id: "6136"
 layout: blog
 resourceTypes: blog
 slug: tfs-integration-toolsissue-analysisprovider-not-found

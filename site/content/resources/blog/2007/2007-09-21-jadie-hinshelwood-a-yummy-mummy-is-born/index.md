@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-09-21
 creator: Martin Hinshelwood
-id: "309"
 layout: blog
 resourceTypes: blog
 slug: jadie-hinshelwood-a-yummy-mummy-is-born

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-10-22
 creator: Martin Hinshelwood
-id: "10824"
 layout: blog
 resourceTypes: blog
 slug: announcing-scrum-at-scale-workshop-scrum-org

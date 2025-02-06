@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-10-24
 creator: Martin Hinshelwood
-id: "295"
 layout: blog
 resourceTypes: blog
 slug: proxy-server-settings-for-sharepoint-2007

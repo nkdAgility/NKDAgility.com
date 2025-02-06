@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-02-14
 creator: Martin Hinshelwood
-id: "140"
 layout: blog
 resourceTypes: blog
 slug: the-delivery-mk-ii

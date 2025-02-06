@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-01-15
 creator: Martin Hinshelwood
-id: "264"
 layout: blog
 resourceTypes: blog
 slug: community-credit-feedback

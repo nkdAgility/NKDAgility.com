@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-10-02
 creator: Martin Hinshelwood
-id: "306"
 layout: blog
 resourceTypes: blog
 slug: deep-vein-thrombosis-dvt-update

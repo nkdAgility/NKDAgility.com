@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-08-15
 creator: Martin Hinshelwood
-id: "31"
 layout: blog
 resourceTypes: blog
 slug: commit-to-visual-studio-alm-on-area51

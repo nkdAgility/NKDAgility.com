@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-03-11
 creator: Martin Hinshelwood
-id: "11081"
 layout: blog
 resourceTypes: blog
 slug: using-build-vnext-capabilities-demands-system

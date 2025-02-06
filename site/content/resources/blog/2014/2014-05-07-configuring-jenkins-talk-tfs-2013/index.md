@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-05-07
 creator: Martin Hinshelwood
-id: "10526"
 layout: blog
 resourceTypes: blog
 slug: configuring-jenkins-talk-tfs-2013

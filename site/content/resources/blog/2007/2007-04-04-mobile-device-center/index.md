@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-04-04
 creator: Martin Hinshelwood
-id: "417"
 layout: blog
 resourceTypes: blog
 slug: mobile-device-center

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-09-04
 creator: Martin Hinshelwood
-id: "198"
 layout: blog
 resourceTypes: blog
 slug: found-gdr-bug-at-least-i-think-it-is

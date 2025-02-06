@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-09-21
 creator: Martin Hinshelwood
-id: "8834"
 layout: blog
 resourceTypes: blog
 slug: visual-studio-2012-launch-roadshow-in-san-diego-and-irvine

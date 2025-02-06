@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-04-03
 creator: Martin Hinshelwood
-id: "9892"
 layout: blog
 resourceTypes: blog
 slug: my-first-scrum-team-in-the-wild

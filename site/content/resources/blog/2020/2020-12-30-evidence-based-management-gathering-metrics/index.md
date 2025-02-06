@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2020-12-30
 AudioNative: true
 creator: Martin Hinshelwood
-id: "10528"
 layout: blog
 resourceTypes: blog
 slug: evidence-based-management-gathering-metrics

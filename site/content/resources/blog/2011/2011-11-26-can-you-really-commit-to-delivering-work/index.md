@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-11-26
 creator: Martin Hinshelwood
-id: "4089"
 layout: blog
 resourceTypes: blog
 slug: can-you-really-commit-to-delivering-work

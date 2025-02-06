@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-07-19
 creator: Martin Hinshelwood
-id: "100"
 layout: blog
 resourceTypes: blog
 slug: office-2010-gotcha-2-visual-studio-2008-locks

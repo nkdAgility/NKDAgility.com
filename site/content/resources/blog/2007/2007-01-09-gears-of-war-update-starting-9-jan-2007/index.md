@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-01-09
 creator: Martin Hinshelwood
-id: "449"
 layout: blog
 resourceTypes: blog
 slug: gears-of-war-update-starting-9-jan-2007

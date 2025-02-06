@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-03
 creator: Martin Hinshelwood
-id: "6950"
 layout: blog
 resourceTypes: blog
 slug: deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows

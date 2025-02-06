@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-04-02
 creator: Martin Hinshelwood
-id: "420"
 layout: blog
 resourceTypes: blog
 slug: team-server-hmm

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-28
 creator: Martin Hinshelwood
-id: "318"
 layout: blog
 resourceTypes: blog
 slug: microsoft-does-indeed-listen

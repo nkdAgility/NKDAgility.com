@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-11-12
 creator: Martin Hinshelwood
-id: "10886"
 layout: blog
 resourceTypes: blog
 slug: installing-visual-studio-2015-side-side-2013-windows-10

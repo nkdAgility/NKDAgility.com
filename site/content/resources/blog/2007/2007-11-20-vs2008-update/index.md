@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-11-20
 creator: Martin Hinshelwood
-id: "291"
 layout: blog
 resourceTypes: blog
 slug: vs2008-update

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-02-10
 creator: Martin Hinshelwood
-id: "70"
 layout: blog
 resourceTypes: blog
 slug: upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done

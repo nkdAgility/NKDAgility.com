@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-08-27
 creator: Martin Hinshelwood
-id: "205"
 layout: blog
 resourceTypes: blog
 slug: calling-an-object-method-in-a-data-trigger

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-11-23
 creator: Martin Hinshelwood
-id: "288"
 layout: blog
 resourceTypes: blog
 slug: event-msdn-sharepoint-for-developers-edinburgh

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-10-14
 creator: Martin Hinshelwood
-id: "22"
 layout: blog
 resourceTypes: blog
 slug: tfs-vs-subversion-fact-check

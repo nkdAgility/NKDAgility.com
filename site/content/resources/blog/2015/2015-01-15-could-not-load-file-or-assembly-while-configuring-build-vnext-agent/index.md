@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-01-15
 creator: Martin Hinshelwood
-id: "11072"
 layout: blog
 resourceTypes: blog
 slug: could-not-load-file-or-assembly-while-configuring-build-vnext-agent

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-08-06
 creator: Martin Hinshelwood
-id: "213"
 layout: blog
 resourceTypes: blog
 slug: net-service-manager

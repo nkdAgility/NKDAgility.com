@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2021-01-04
 AudioNative: true
 creator: Martin Hinshelwood
-id: "44532"
 layout: blog
 resourceTypes: blog
 slug: story-points-velocity-are-a-sign-of-an-unsuccessful-team

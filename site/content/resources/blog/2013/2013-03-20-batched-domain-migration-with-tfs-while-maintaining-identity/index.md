@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-03-20
 creator: Martin Hinshelwood
-id: "9324"
 layout: blog
 resourceTypes: blog
 slug: batched-domain-migration-with-tfs-while-maintaining-identity

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-07-17
 creator: Martin Hinshelwood
-id: "6288"
 layout: blog
 resourceTypes: blog
 slug: office-2013-issue-installing-office-2013-breaks-visual-studio-2012

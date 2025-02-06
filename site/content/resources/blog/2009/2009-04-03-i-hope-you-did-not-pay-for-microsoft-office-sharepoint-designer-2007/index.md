@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-04-03
 creator: Martin Hinshelwood
-id: "131"
 layout: blog
 resourceTypes: blog
 slug: i-hope-you-did-not-pay-for-microsoft-office-sharepoint-designer-2007

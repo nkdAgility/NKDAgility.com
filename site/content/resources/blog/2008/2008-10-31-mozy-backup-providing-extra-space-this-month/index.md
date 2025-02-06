@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-10-31
 creator: Martin Hinshelwood
-id: "176"
 layout: blog
 resourceTypes: blog
 slug: mozy-backup-providing-extra-space-this-month

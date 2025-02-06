@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-06-17
 creator: Martin Hinshelwood
-id: "44414"
 layout: blog
 resourceTypes: blog
 slug: live-site-culture-site-reliability-engineering

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-03-08
 creator: Martin Hinshelwood
-id: "429"
 layout: blog
 resourceTypes: blog
 slug: microsoft-uk-team-system-blog

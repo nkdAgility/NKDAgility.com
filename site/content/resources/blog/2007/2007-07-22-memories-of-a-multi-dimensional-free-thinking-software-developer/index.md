@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-07-22
 creator: Martin Hinshelwood
-id: "365"
 layout: blog
 resourceTypes: blog
 slug: memories-of-a-multi-dimensional-free-thinking-software-developer

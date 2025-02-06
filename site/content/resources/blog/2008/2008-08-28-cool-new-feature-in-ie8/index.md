@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-08-28
 creator: Martin Hinshelwood
-id: "202"
 layout: blog
 resourceTypes: blog
 slug: cool-new-feature-in-ie8

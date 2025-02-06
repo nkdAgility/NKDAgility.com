@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-27
 creator: Martin Hinshelwood
-id: "7735"
 layout: blog
 resourceTypes: blog
 slug: powerpointissue-i-spell-it-as-favourite-and-you-as-favorite

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-12-05
 creator: Martin Hinshelwood
-id: "9170"
 layout: blog
 resourceTypes: blog
 slug: quality-centre-to-team-foundation-server-in-one-complex-step

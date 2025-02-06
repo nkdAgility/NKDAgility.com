@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-09-16
 creator: Martin Hinshelwood
-id: "25"
 layout: blog
 resourceTypes: blog
 slug: team-foundation-server-2010-event-handling-with-subscribers

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-05-20
 creator: Martin Hinshelwood
-id: "400"
 layout: blog
 resourceTypes: blog
 slug: would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question

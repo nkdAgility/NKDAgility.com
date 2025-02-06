@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-06-18
 creator: Martin Hinshelwood
-id: "44418"
 layout: blog
 resourceTypes: blog
 slug: live-virtual-classrooms-and-the-new-normal

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-04-22
 creator: Martin Hinshelwood
-id: "9456"
 layout: blog
 resourceTypes: blog
 slug: upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2-x

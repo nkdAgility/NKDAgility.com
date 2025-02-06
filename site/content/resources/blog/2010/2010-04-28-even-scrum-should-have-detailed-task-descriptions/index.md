@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-04-28
 creator: Martin Hinshelwood
-id: "46"
 layout: blog
 resourceTypes: blog
 slug: even-scrum-should-have-detailed-task-descriptions

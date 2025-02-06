@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-11-18
 creator: Martin Hinshelwood
-id: "168"
 layout: blog
 resourceTypes: blog
 slug: team-suite-on-the-cheap

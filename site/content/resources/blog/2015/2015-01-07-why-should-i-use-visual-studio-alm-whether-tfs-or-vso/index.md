@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-01-07
 creator: Martin Hinshelwood
-id: "10990"
 layout: blog
 resourceTypes: blog
 slug: why-should-i-use-visual-studio-alm-whether-tfs-or-vso

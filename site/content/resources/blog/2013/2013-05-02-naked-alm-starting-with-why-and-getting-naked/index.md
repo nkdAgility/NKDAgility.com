@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-05-02
 creator: Martin Hinshelwood
-id: "9499"
 layout: blog
 resourceTypes: blog
 slug: naked-alm-starting-with-why-and-getting-naked

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-03-02
 creator: Martin Hinshelwood
-id: "4773"
 layout: blog
 resourceTypes: blog
 slug: you-cant-stack-rank-hierarchical-work-items

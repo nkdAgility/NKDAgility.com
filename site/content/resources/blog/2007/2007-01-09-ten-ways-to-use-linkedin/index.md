@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-01-09
 creator: Martin Hinshelwood
-id: "451"
 layout: blog
 resourceTypes: blog
 slug: ten-ways-to-use-linkedin

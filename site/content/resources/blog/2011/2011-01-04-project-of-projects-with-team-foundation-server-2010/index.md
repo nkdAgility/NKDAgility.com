@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2011-01-04
 creator: Martin Hinshelwood
-id: "18"
 layout: blog
 resourceTypes: blog
 slug: project-of-projects-with-team-foundation-server-2010

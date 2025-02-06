@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2016-05-10
 creator: Martin Hinshelwood
-id: "11491"
 layout: blog
 resourceTypes: blog
 slug: open-source-vsts-tfs-github-better-devops

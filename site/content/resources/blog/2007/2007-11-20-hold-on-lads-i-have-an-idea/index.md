@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-11-20
 creator: Martin Hinshelwood
-id: "289"
 layout: blog
 resourceTypes: blog
 slug: hold-on-lads-i-have-an-idea

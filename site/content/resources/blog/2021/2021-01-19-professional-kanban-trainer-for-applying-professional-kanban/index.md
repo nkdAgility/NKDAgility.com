@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2021-01-19
 AudioNative: true
 creator: Martin Hinshelwood
-id: "45694"
 layout: blog
 resourceTypes: blog
 slug: professional-kanban-trainer-for-applying-professional-kanban

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-02-03
 creator: Martin Hinshelwood
-id: "10353"
 layout: blog
 resourceTypes: blog
 slug: install-release-management-2013

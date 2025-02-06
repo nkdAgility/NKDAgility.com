@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-20
 creator: Martin Hinshelwood
-id: "328"
 layout: blog
 resourceTypes: blog
 slug: using-visual-studio-2008

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-01-20
 creator: Martin Hinshelwood
-id: "10334"
 layout: blog
 resourceTypes: blog
 slug: move-your-active-directory-domain-to-another-server

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-08-21
 creator: Martin Hinshelwood
-id: "89"
 layout: blog
 resourceTypes: blog
 slug: second-blogger-from-my-office

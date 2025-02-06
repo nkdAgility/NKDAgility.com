@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-09-10
 creator: Martin Hinshelwood
-id: "194"
 layout: blog
 resourceTypes: blog
 slug: presenting-aplication-lifecycle-management-precursor

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-04-18
 creator: Martin Hinshelwood
-id: "9443"
 layout: blog
 resourceTypes: blog
 slug: migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform

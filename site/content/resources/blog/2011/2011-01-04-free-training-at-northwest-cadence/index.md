@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2011-01-04
 creator: Martin Hinshelwood
-id: "19"
 layout: blog
 resourceTypes: blog
 slug: free-training-at-northwest-cadence

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-09-14
 creator: Martin Hinshelwood
-id: "312"
 layout: blog
 resourceTypes: blog
 slug: uber-dorky-nerd-king

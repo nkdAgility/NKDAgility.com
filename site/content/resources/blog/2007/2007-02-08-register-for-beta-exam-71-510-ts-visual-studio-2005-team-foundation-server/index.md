@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-02-08
 creator: Martin Hinshelwood
-id: "434"
 layout: blog
 resourceTypes: blog
 slug: register-for-beta-exam-71-510-ts-visual-studio-2005-team-foundation-server

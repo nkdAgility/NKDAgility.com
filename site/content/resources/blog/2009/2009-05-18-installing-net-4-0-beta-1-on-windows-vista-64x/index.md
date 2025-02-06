@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-05-18
 creator: Martin Hinshelwood
-id: "120"
 layout: blog
 resourceTypes: blog
 slug: installing-net-4-0-beta-1-on-windows-vista-64x

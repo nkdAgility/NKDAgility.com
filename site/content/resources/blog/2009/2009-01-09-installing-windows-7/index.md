@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-01-09
 creator: Martin Hinshelwood
-id: "148"
 layout: blog
 resourceTypes: blog
 slug: installing-windows-7

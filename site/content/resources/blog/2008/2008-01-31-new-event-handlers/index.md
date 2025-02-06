@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-01-31
 creator: Martin Hinshelwood
-id: "258"
 layout: blog
 resourceTypes: blog
 slug: new-event-handlers

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-08-28
 creator: Martin Hinshelwood
-id: "9967"
 layout: blog
 resourceTypes: blog
 slug: review-the-professional-scrum-masters-handbook

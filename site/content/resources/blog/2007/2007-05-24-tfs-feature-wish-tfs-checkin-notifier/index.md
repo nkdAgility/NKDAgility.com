@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-05-24
 creator: Martin Hinshelwood
-id: "397"
 layout: blog
 resourceTypes: blog
 slug: tfs-feature-wish-tfs-checkin-notifier

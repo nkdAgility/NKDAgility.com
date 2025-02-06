@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-07-13
 creator: Martin Hinshelwood
-id: "44511"
 layout: blog
 resourceTypes: blog
 slug: evolution-not-transformation-this-is-the-inevitability-of-change

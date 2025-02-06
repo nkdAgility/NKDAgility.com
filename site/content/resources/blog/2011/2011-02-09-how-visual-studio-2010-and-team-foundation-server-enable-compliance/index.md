@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2011-02-09
 creator: Martin Hinshelwood
-id: "14"
 layout: blog
 resourceTypes: blog
 slug: how-visual-studio-2010-and-team-foundation-server-enable-compliance

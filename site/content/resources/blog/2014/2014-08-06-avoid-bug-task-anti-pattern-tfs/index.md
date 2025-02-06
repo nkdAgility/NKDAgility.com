@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-08-06
 creator: Martin Hinshelwood
-id: "10662"
 layout: blog
 resourceTypes: blog
 aliases:

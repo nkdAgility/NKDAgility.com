@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-04-22
 creator: Martin Hinshelwood
-id: "10515"
 layout: blog
 resourceTypes: blog
 slug: kid-upgrade-windows-phone-8-1-developer-preview

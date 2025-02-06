@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-04-27
 creator: Martin Hinshelwood
-id: "412"
 layout: blog
 resourceTypes: blog
 slug: team-server-event-handlers-made-easy

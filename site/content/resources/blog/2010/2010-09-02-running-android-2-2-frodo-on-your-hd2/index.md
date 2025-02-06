@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-09-02
 creator: Martin Hinshelwood
-id: "29"
 layout: blog
 resourceTypes: blog
 slug: running-android-2-2-frodo-on-your-hd2

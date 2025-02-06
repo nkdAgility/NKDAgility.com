@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-06-06
 creator: Martin Hinshelwood
-id: "389"
 layout: blog
 resourceTypes: blog
 slug: my-wish-list-of-team-foundation-server-tools

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-06-10
 creator: Martin Hinshelwood
-id: "5432"
 layout: blog
 resourceTypes: blog
 slug: presenting-visual-studio-alm-upgrading-tfs-2010-to-tfs-2012-in-production-done

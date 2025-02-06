@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2018-01-11
 creator: Martin Hinshelwood
-id: "11214"
 layout: blog
 resourceTypes: blog
 slug: organisational-change-create-path

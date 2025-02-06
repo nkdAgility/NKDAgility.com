@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-06-27
 creator: Martin Hinshelwood
-id: "9682"
 layout: blog
 resourceTypes: blog
 slug: customise-the-colours-in-team-foundation-server-2013-agile-planning-tools

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-22
 creator: Martin Hinshelwood
-id: "7402"
 layout: blog
 resourceTypes: blog
 slug: tfs-integration-tools-issue-tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure

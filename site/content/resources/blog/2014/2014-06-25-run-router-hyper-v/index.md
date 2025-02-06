@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-06-25
 creator: Martin Hinshelwood
-id: "10617"
 layout: blog
 resourceTypes: blog
 slug: run-router-hyper-v

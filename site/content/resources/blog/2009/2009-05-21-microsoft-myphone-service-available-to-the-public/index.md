@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-05-21
 creator: Martin Hinshelwood
-id: "111"
 layout: blog
 resourceTypes: blog
 slug: microsoft-myphone-service-available-to-the-public

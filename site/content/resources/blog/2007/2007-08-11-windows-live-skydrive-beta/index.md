@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-11
 creator: Martin Hinshelwood
-id: "336"
 layout: blog
 resourceTypes: blog
 slug: windows-live-skydrive-beta

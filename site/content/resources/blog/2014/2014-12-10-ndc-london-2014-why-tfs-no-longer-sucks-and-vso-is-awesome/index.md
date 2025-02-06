@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-12-10
 creator: Martin Hinshelwood
-id: "10980"
 layout: blog
 resourceTypes: blog
 slug: ndc-london-2014-why-tfs-no-longer-sucks-and-vso-is-awesome

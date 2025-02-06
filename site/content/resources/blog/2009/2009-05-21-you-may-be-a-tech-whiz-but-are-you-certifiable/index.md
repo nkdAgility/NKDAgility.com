@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-05-21
 creator: Martin Hinshelwood
-id: "110"
 layout: blog
 resourceTypes: blog
 slug: you-may-be-a-tech-whiz-but-are-you-certifiable

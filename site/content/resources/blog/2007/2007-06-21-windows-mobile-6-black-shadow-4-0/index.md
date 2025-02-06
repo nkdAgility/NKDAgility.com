@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-06-21
 creator: Martin Hinshelwood
-id: "375"
 layout: blog
 resourceTypes: blog
 slug: windows-mobile-6-black-shadow-4-0

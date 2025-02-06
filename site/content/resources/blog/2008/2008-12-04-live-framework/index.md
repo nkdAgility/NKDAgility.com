@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-12-04
 creator: Martin Hinshelwood
-id: "156"
 layout: blog
 resourceTypes: blog
 slug: live-framework

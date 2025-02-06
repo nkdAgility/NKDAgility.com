@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-03-06
 creator: Martin Hinshelwood
-id: "9"
 layout: blog
 resourceTypes: blog
 slug: visual-studio-alm-mvp-of-the-year-2011

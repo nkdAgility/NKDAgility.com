@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-01-05
 creator: Martin Hinshelwood
-id: "452"
 layout: blog
 resourceTypes: blog
 slug: performance-research-browser-cache-usage-exposed

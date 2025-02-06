@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-05-30
 creator: Martin Hinshelwood
-id: "393"
 layout: blog
 resourceTypes: blog
 slug: creating-wcf-service-host-programmatically

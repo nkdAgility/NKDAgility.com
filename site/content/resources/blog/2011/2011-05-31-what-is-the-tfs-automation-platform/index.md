@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-05-31
 creator: Martin Hinshelwood
-id: "3373"
 layout: blog
 resourceTypes: blog
 slug: what-is-the-tfs-automation-platform

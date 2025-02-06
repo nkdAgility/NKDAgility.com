@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-03-10
 creator: Martin Hinshelwood
-id: "8"
 layout: blog
 resourceTypes: blog
 slug: installing-visual-studio-team-foundation-server-service-pack-1

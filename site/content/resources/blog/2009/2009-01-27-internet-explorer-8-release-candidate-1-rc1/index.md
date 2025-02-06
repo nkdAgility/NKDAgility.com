@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-01-27
 creator: Martin Hinshelwood
-id: "143"
 layout: blog
 resourceTypes: blog
 slug: internet-explorer-8-release-candidate-1-rc1

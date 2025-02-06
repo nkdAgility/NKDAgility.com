@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-11-28
 creator: Martin Hinshelwood
-id: "285"
 layout: blog
 resourceTypes: blog
 slug: identity-crisis

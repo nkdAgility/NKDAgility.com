@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-08-13
 creator: Martin Hinshelwood
-id: "10667"
 layout: blog
 resourceTypes: blog
 slug: cant-use-witadmin-versions-older-tfs-2010

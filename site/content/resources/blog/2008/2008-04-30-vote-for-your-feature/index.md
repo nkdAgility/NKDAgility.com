@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-04-30
 creator: Martin Hinshelwood
-id: "234"
 layout: blog
 resourceTypes: blog
 slug: vote-for-your-feature

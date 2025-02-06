@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-08
 creator: Martin Hinshelwood
-id: "9731"
 layout: blog
 resourceTypes: blog
 slug: create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013

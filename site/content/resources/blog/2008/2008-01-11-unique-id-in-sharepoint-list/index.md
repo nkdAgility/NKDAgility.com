@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-01-11
 creator: Martin Hinshelwood
-id: "265"
 layout: blog
 resourceTypes: blog
 slug: unique-id-in-sharepoint-list

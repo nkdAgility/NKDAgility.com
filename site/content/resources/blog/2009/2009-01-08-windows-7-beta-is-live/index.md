@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-01-08
 creator: Martin Hinshelwood
-id: "149"
 layout: blog
 resourceTypes: blog
 slug: windows-7-beta-is-live

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2016-02-03
 creator: Martin Hinshelwood
-id: "11440"
 layout: blog
 resourceTypes: blog
 slug: moving-onedrive-business-files-different-drive

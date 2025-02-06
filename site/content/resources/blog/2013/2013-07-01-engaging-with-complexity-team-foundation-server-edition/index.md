@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-01
 creator: Martin Hinshelwood
-id: "9703"
 layout: blog
 resourceTypes: blog
 slug: engaging-with-complexity-team-foundation-server-edition

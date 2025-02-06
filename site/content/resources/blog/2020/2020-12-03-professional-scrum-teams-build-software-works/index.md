@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-12-03
 creator: Martin Hinshelwood
-id: "22774"
 layout: blog
 resourceTypes: blog
 slug: professional-scrum-teams-build-software-works

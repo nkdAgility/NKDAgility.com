@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-05-20
 creator: Martin Hinshelwood
-id: "223"
 layout: blog
 resourceTypes: blog
 slug: developing-for-sharepoint-on-your-local-computer

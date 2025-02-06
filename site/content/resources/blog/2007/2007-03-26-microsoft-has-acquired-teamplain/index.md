@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-03-26
 creator: Martin Hinshelwood
-id: "425"
 layout: blog
 resourceTypes: blog
 slug: microsoft-has-acquired-teamplain

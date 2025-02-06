@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-09
 creator: Martin Hinshelwood
-id: "7104"
 layout: blog
 resourceTypes: blog
 slug: tfs-integration-tools-issue-tfs-wit-bypass-rule-submission-is-enabled

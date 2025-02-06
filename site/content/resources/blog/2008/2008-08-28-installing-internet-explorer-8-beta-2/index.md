@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-08-28
 creator: Martin Hinshelwood
-id: "204"
 layout: blog
 resourceTypes: blog
 slug: installing-internet-explorer-8-beta-2

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-05-28
 creator: Martin Hinshelwood
-id: "10541"
 layout: blog
 resourceTypes: blog
 slug: import-excel-data-into-tfs-with-history

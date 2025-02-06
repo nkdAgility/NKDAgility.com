@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-06-21
 creator: Martin Hinshelwood
-id: "9906"
 layout: blog
 resourceTypes: blog
 slug: sharepoint-2013-issue-after-migration-from-2010-user-permission-not-working

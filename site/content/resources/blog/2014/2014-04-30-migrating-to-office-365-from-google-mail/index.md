@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-04-30
 creator: Martin Hinshelwood
-id: "10502"
 layout: blog
 resourceTypes: blog
 slug: migrating-to-office-365-from-google-mail

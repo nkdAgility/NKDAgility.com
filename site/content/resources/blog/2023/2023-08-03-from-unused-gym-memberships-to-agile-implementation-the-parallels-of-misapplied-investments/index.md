@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2023-08-03
 AudioNative: true
 creator: Martin Hinshelwood
-id: "49507"
 layout: blog
 resourceTypes: blog
 slug: from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-02-16
 creator: Martin Hinshelwood
-id: "4389"
 layout: blog
 resourceTypes: blog
 slug: scrum-damentals-webcast-on-17th-february-2012

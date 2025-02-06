@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-09-29
 creator: Martin Hinshelwood
-id: "24"
 layout: blog
 resourceTypes: blog
 slug: database-corruption-in-tfs-2005-causes-tf246017-during-upgrade

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-01-04
 creator: Martin Hinshelwood
-id: "73"
 layout: blog
 resourceTypes: blog
 slug: solution-seo-permanent-redirects-for-old-urls

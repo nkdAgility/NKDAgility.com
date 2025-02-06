@@ -13,7 +13,6 @@ creator: Martin Hinshelwood
 contributors:
 - name: Will Seele
   external: https://www.linkedin.com/in/wjseele/
-id: "51208"
 layout: blog
 resourceTypes: blog
 slug: blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness

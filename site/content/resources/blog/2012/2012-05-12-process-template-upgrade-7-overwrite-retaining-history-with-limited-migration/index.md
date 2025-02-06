@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-05-12
 creator: Martin Hinshelwood
-id: "5277"
 layout: blog
 resourceTypes: blog
 slug: process-template-upgrade-7-overwrite-retaining-history-with-limited-migration

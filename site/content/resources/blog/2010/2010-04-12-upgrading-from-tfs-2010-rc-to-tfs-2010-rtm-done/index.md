@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-04-12
 creator: Martin Hinshelwood
-id: "53"
 layout: blog
 resourceTypes: blog
 slug: upgrading-from-tfs-2010-rc-to-tfs-2010-rtm-done

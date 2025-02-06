@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2006-12-20
 creator: Martin Hinshelwood
-id: "456"
 layout: blog
 resourceTypes: blog
 slug: vista-mobile-device-center

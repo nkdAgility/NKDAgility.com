@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-01-10
 creator: Martin Hinshelwood
-id: "444"
 layout: blog
 resourceTypes: blog
 slug: visual-studio-2005-team-foundation-installation-guide

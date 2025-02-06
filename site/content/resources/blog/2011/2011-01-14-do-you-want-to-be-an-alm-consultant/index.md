@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2011-01-14
 creator: Martin Hinshelwood
-id: "17"
 layout: blog
 resourceTypes: blog
 slug: do-you-want-to-be-an-alm-consultant

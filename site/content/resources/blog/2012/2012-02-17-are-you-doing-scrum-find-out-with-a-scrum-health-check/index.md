@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-02-17
 creator: Martin Hinshelwood
-id: "4406"
 layout: blog
 resourceTypes: blog
 slug: are-you-doing-scrum-find-out-with-a-scrum-health-check

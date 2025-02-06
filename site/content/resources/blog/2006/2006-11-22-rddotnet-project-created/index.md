@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2006-11-22
 creator: Martin Hinshelwood
-id: "460"
 layout: blog
 resourceTypes: blog
 slug: rddotnet-project-created

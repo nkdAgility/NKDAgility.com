@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-06-24
 creator: Martin Hinshelwood
-id: "11355"
 layout: blog
 resourceTypes: blog
 slug: big-scrum-are-you-doing-mechanical-scrum

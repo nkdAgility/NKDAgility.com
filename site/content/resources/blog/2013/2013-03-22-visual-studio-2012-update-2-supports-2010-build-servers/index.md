@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-03-22
 creator: Martin Hinshelwood
-id: "9336"
 layout: blog
 resourceTypes: blog
 slug: visual-studio-2012-update-2-supports-2010-build-servers

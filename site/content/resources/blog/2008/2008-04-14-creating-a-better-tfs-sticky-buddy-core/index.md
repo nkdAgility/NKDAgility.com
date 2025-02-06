@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-04-14
 creator: Martin Hinshelwood
-id: "241"
 layout: blog
 resourceTypes: blog
 slug: creating-a-better-tfs-sticky-buddy-core

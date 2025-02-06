@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-09-12
 creator: Martin Hinshelwood
-id: "315"
 layout: blog
 resourceTypes: blog
 slug: interviewing-for-microsoft

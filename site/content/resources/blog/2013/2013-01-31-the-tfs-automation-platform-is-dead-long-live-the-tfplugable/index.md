@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-01-31
 creator: Martin Hinshelwood
-id: "9229"
 layout: blog
 resourceTypes: blog
 slug: the-tfs-automation-platform-is-dead-long-live-the-tfplugable

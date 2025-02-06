@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-07-05
 creator: Martin Hinshelwood
-id: "3686"
 layout: blog
 resourceTypes: blog
 slug: disqus-chrome-with-non-support

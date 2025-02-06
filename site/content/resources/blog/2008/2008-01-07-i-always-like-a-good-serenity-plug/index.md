@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-01-07
 creator: Martin Hinshelwood
-id: "270"
 layout: blog
 resourceTypes: blog
 slug: i-always-like-a-good-serenity-plug

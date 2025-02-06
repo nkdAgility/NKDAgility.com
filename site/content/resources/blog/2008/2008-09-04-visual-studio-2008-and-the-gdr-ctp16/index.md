@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-09-04
 creator: Martin Hinshelwood
-id: "199"
 layout: blog
 resourceTypes: blog
 slug: visual-studio-2008-and-the-gdr-ctp16

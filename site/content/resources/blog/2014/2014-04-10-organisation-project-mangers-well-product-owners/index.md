@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-04-10
 creator: Martin Hinshelwood
-id: "10489"
 layout: blog
 resourceTypes: blog
 slug: organisation-project-mangers-well-product-owners

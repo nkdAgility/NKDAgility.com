@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-09-25
 creator: Martin Hinshelwood
-id: "8829"
 layout: blog
 resourceTypes: blog
 slug: testing-in-the-modern-application-lifecycle

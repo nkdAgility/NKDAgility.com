@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-18
 creator: Martin Hinshelwood
-id: "60"
 layout: blog
 resourceTypes: blog
 slug: do-you-know-the-minimum-builds-to-create-on-any-branch

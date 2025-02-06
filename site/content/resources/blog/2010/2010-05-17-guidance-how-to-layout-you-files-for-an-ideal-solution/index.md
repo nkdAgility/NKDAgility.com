@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-05-17
 creator: Martin Hinshelwood
-id: "42"
 layout: blog
 resourceTypes: blog
 slug: guidance-how-to-layout-you-files-for-an-ideal-solution

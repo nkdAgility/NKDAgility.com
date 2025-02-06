@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2023-07-27
 AudioNative: true
 creator: Martin Hinshelwood
-id: "49502"
 layout: blog
 resourceTypes: blog
 slug: storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations

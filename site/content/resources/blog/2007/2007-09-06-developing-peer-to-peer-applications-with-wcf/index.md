@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-09-06
 creator: Martin Hinshelwood
-id: "317"
 layout: blog
 resourceTypes: blog
 slug: developing-peer-to-peer-applications-with-wcf

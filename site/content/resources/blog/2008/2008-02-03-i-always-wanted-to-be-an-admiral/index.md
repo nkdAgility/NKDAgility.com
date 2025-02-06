@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-02-03
 creator: Martin Hinshelwood
-id: "251"
 layout: blog
 resourceTypes: blog
 slug: i-always-wanted-to-be-an-admiral

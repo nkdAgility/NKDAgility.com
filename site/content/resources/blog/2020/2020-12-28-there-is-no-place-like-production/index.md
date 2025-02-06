@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2020-12-28
 AudioNative: true
 creator: Martin Hinshelwood
-id: "45324"
 layout: blog
 resourceTypes: blog
 slug: there-is-no-place-like-production

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-10-23
 creator: Martin Hinshelwood
-id: "10221"
 layout: blog
 resourceTypes: blog
 slug: issue-tfs-2013-work-item-tracking-gives-you-value-cannot-be-null-parameter-name-key

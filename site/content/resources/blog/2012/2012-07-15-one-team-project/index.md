@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-07-15
 creator: Martin Hinshelwood
-id: "6160"
 layout: blog
 resourceTypes: blog
 slug: one-team-project

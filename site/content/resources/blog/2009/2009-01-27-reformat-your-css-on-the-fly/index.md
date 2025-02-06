@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-01-27
 creator: Martin Hinshelwood
-id: "142"
 layout: blog
 resourceTypes: blog
 slug: reformat-your-css-on-the-fly

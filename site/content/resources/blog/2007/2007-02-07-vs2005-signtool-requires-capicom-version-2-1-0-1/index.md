@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-02-07
 creator: Martin Hinshelwood
-id: "435"
 layout: blog
 resourceTypes: blog
 slug: vs2005-signtool-requires-capicom-version-2-1-0-1

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-07-10
 creator: Martin Hinshelwood
-id: "373"
 layout: blog
 resourceTypes: blog
 slug: back-to-the-grind

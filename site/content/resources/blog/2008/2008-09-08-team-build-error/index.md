@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-09-08
 creator: Martin Hinshelwood
-id: "197"
 layout: blog
 resourceTypes: blog
 slug: team-build-error

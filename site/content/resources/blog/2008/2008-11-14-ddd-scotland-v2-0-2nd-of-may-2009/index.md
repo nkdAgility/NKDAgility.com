@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-11-14
 creator: Martin Hinshelwood
-id: "169"
 layout: blog
 resourceTypes: blog
 slug: ddd-scotland-v2-0-2nd-of-may-2009

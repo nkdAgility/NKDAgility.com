@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-01-18
 creator: Martin Hinshelwood
-id: "4116"
 layout: blog
 resourceTypes: blog
 slug: what-is-the-roll-of-the-project-manager-in-scrum

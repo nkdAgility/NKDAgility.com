@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-04-19
 creator: Martin Hinshelwood
-id: "5"
 layout: blog
 resourceTypes: blog
 slug: in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain

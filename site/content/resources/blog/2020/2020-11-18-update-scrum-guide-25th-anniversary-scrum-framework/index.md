@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-11-18
 creator: Martin Hinshelwood
-id: "45077"
 layout: blog
 resourceTypes: blog
 slug: update-scrum-guide-25th-anniversary-scrum-framework

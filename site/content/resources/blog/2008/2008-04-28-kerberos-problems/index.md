@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-04-28
 creator: Martin Hinshelwood
-id: "235"
 layout: blog
 resourceTypes: blog
 slug: kerberos-problems

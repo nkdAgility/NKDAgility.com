@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2021-01-11
 AudioNative: true
 creator: Martin Hinshelwood
-id: "45310"
 layout: blog
 resourceTypes: blog
 slug: sprint-goal-is-an-immediate-tactical-goal

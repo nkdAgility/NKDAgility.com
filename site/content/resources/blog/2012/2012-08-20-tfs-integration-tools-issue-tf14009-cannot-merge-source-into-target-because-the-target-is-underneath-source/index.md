@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-20
 creator: Martin Hinshelwood
-id: "7240"
 layout: blog
 resourceTypes: blog
 slug: tfs-integration-tools-issue-tf14009-cannot-merge-source-into-target-because-the-target-is-underneath-source

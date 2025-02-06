@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2018-02-26
 creator: Martin Hinshelwood
-id: "38334"
 layout: blog
 resourceTypes: blog
 slug: introducing-kanban-professional-scrum-teams

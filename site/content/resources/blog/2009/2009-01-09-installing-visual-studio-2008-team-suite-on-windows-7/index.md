@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-01-09
 creator: Martin Hinshelwood
-id: "147"
 layout: blog
 resourceTypes: blog
 slug: installing-visual-studio-2008-team-suite-on-windows-7

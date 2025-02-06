@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-01-19
 creator: Martin Hinshelwood
-id: "144"
 layout: blog
 resourceTypes: blog
 slug: feedburner-no-google

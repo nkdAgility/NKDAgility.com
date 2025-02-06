@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-10-28
 creator: Martin Hinshelwood
-id: "178"
 layout: blog
 resourceTypes: blog
 slug: visual-studio-team-system-2008-database-edition-gdr-rc-release-candidate

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-11
 creator: Martin Hinshelwood
-id: "9759"
 layout: blog
 resourceTypes: blog
 slug: issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others

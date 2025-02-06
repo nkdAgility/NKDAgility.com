@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-02-21
 creator: Martin Hinshelwood
-id: "4474"
 layout: blog
 resourceTypes: blog
 slug: using-corporate-ids-with-visual-studio-11-team-foundation-service

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-09-30
 creator: Martin Hinshelwood
-id: "3823"
 layout: blog
 resourceTypes: blog
 slug: are-scrum-masters-agents-for-change

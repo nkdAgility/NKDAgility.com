@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-09-01
 creator: Martin Hinshelwood
-id: "10058"
 layout: blog
 resourceTypes: blog
 slug: there-is-no-do-agile-there-is-only-be-agile

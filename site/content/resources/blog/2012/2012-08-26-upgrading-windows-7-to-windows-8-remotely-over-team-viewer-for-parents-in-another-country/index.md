@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-26
 creator: Martin Hinshelwood
-id: "7712"
 layout: blog
 resourceTypes: blog
 slug: upgrading-windows-7-to-windows-8-remotely-over-team-viewer-for-parents-in-another-country

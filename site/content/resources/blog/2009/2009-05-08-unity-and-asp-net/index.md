@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-05-08
 creator: Martin Hinshelwood
-id: "122"
 layout: blog
 resourceTypes: blog
 slug: unity-and-asp-net

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-07-16
 creator: Martin Hinshelwood
-id: "102"
 layout: blog
 resourceTypes: blog
 slug: office-2010-first-run

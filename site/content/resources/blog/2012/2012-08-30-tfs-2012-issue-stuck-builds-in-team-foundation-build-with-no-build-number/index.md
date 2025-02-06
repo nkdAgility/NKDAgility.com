@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-30
 creator: Martin Hinshelwood
-id: "7760"
 layout: blog
 resourceTypes: blog
 slug: tfs-2012-issue-stuck-builds-in-team-foundation-build-with-no-build-number

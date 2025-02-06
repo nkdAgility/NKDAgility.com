@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-04
 creator: Martin Hinshelwood
-id: "67"
 layout: blog
 resourceTypes: blog
 slug: microsoft-please-help-me-diagnose-tfs-administration-permission-issues

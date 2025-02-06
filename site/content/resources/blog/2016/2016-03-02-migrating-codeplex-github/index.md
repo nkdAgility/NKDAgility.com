@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2016-03-02
 creator: Martin Hinshelwood
-id: "11465"
 layout: blog
 resourceTypes: blog
 slug: migrating-codeplex-github

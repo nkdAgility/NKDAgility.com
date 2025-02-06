@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2006-12-15
 creator: Martin Hinshelwood
-id: "453"
 layout: blog
 resourceTypes: blog
 slug: visual-studio-sp1-and-team-system-sp1-are-released

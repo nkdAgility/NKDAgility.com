@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-01-12
 creator: Martin Hinshelwood
-id: "146"
 layout: blog
 resourceTypes: blog
 slug: am-i-a-stoner-hippy

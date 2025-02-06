@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-03
 creator: Martin Hinshelwood
-id: "69"
 layout: blog
 resourceTypes: blog
 slug: solution-getting-silverlight-to-build-on-team-foundation-build-services-2010

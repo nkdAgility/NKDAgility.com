@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-12-04
 creator: Martin Hinshelwood
-id: "157"
 layout: blog
 resourceTypes: blog
 slug: skydrive-25-gb-of-free-online-storage

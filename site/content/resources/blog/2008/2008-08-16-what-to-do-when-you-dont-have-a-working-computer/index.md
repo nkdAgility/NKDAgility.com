@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-08-16
 creator: Martin Hinshelwood
-id: "208"
 layout: blog
 resourceTypes: blog
 slug: what-to-do-when-you-dont-have-a-working-computer

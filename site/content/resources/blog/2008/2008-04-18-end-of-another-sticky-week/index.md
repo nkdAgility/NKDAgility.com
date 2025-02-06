@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-04-18
 creator: Martin Hinshelwood
-id: "237"
 layout: blog
 resourceTypes: blog
 slug: end-of-another-sticky-week

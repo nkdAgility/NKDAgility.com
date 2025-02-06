@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2021-01-25
 AudioNative: true
 creator: Martin Hinshelwood
-id: "45521"
 layout: blog
 resourceTypes: blog
 slug: all-technical-debt-is-a-risk-to-the-product-and-to-your-business

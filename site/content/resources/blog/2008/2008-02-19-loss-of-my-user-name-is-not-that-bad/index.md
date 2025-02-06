@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-02-19
 creator: Martin Hinshelwood
-id: "245"
 layout: blog
 resourceTypes: blog
 slug: loss-of-my-user-name-is-not-that-bad

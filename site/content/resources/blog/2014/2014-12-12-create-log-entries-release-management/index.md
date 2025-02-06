@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-12-12
 creator: Martin Hinshelwood
-id: "10975"
 layout: blog
 resourceTypes: blog
 slug: create-log-entries-release-management

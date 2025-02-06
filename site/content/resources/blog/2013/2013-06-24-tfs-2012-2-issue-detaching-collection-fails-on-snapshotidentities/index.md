@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-06-24
 creator: Martin Hinshelwood
-id: "9661"
 layout: blog
 resourceTypes: blog
 slug: tfs-2012-2-issue-detaching-collection-fails-on-snapshotidentities

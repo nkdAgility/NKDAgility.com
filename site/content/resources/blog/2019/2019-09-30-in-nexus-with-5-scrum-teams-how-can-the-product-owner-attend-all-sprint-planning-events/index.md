@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2019-09-30
 creator: Martin Hinshelwood
-id: "39855"
 layout: blog
 resourceTypes: blog
 slug: in-nexus-with-5-scrum-teams-how-can-the-product-owner-attend-all-sprint-planning-events

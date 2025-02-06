@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2020-12-10
 AudioNative: true
 creator: Martin Hinshelwood
-id: "9915"
 layout: blog
 resourceTypes: blog
 slug: a-better-way-than-staggered-iterations-for-delivery

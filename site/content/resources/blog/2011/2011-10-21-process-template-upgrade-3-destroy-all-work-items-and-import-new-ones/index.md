@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-10-21
 creator: Martin Hinshelwood
-id: "3951"
 layout: blog
 resourceTypes: blog
 slug: process-template-upgrade-3-destroy-all-work-items-and-import-new-ones

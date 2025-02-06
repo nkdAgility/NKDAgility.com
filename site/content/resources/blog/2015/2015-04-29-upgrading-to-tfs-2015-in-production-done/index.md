@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-04-29
 creator: Martin Hinshelwood
-id: "11308"
 layout: blog
 resourceTypes: blog
 slug: upgrading-to-tfs-2015-in-production-done

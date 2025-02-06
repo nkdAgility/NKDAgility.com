@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-05-26
 creator: Martin Hinshelwood
-id: "107"
 layout: blog
 resourceTypes: blog
 slug: stuck-with-vista

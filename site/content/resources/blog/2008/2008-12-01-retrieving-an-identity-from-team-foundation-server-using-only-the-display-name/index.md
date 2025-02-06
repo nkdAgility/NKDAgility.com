@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-12-01
 creator: Martin Hinshelwood
-id: "159"
 layout: blog
 resourceTypes: blog
 slug: retrieving-an-identity-from-team-foundation-server-using-only-the-display-name

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2017-05-17
 creator: Martin Hinshelwood
-id: "11885"
 layout: blog
 resourceTypes: blog
 slug: continuous-deliver-sprint

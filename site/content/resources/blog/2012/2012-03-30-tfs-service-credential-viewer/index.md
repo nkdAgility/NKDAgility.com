@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-03-30
 creator: Martin Hinshelwood
-id: "5032"
 layout: blog
 resourceTypes: blog
 slug: tfs-service-credential-viewer

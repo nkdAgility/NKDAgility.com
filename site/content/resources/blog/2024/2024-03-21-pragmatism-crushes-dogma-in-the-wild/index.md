@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2024-03-21
 AudioNative: true
 creator: Martin Hinshelwood
-id: "51362"
 layout: blog
 resourceTypes: blog
 slug: pragmatism-crushes-dogma-in-the-wild

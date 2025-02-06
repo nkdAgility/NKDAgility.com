@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-09-09
 creator: Martin Hinshelwood
-id: "9998"
 layout: blog
 resourceTypes: blog
 slug: unable-to-install-visual-studio-2013-rc-on-windows-8-1-preview

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2021-07-21
 creator: Martin Hinshelwood
-id: "46257"
 layout: blog
 resourceTypes: blog
 slug: announcing-evidence-based-management-training-with-certification-from-scrum-org

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-09-19
 creator: Martin Hinshelwood
-id: "191"
 layout: blog
 resourceTypes: blog
 slug: creating-a-wpf-work-item-control

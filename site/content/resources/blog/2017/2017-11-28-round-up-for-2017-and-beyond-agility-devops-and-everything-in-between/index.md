@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2017-11-28
 creator: Martin Hinshelwood
-id: "12146"
 layout: blog
 resourceTypes: blog
 slug: round-up-for-2017-and-beyond-agility-devops-and-everything-in-between

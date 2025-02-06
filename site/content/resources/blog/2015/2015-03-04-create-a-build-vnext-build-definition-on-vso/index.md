@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-03-04
 creator: Martin Hinshelwood
-id: "11047"
 layout: blog
 resourceTypes: blog
 slug: create-a-build-vnext-build-definition-on-vso

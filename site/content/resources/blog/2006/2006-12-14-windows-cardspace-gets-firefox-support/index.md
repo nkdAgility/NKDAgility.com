@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2006-12-14
 creator: Martin Hinshelwood
-id: "458"
 layout: blog
 resourceTypes: blog
 slug: windows-cardspace-gets-firefox-support

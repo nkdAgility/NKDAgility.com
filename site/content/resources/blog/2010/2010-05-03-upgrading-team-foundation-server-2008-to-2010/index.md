@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-05-03
 creator: Martin Hinshelwood
-id: "45"
 layout: blog
 resourceTypes: blog
 slug: upgrading-team-foundation-server-2008-to-2010

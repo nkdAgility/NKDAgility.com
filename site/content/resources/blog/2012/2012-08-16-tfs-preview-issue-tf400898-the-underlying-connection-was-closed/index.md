@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-16
 creator: Martin Hinshelwood
-id: "7161"
 layout: blog
 resourceTypes: blog
 slug: tfs-preview-issue-tf400898-the-underlying-connection-was-closed

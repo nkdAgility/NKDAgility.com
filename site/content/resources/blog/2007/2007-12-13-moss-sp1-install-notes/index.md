@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-12-13
 creator: Martin Hinshelwood
-id: "277"
 layout: blog
 resourceTypes: blog
 slug: moss-sp1-install-notes

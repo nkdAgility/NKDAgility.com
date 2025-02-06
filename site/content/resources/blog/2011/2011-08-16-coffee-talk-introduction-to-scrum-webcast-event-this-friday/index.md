@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-08-16
 creator: Martin Hinshelwood
-id: "3728"
 layout: blog
 resourceTypes: blog
 slug: coffee-talk-introduction-to-scrum-webcast-event-this-friday

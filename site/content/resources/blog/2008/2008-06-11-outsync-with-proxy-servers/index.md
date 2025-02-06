@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-06-11
 creator: Martin Hinshelwood
-id: "220"
 layout: blog
 resourceTypes: blog
 slug: outsync-with-proxy-servers

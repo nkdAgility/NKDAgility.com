@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-03-12
 creator: Martin Hinshelwood
-id: "9275"
 layout: blog
 resourceTypes: blog
 slug: chicago-visual-studio-alm-user-group-27th-march

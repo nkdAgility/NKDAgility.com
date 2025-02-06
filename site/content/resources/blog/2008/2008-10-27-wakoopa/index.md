@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-10-27
 creator: Martin Hinshelwood
-id: "180"
 layout: blog
 resourceTypes: blog
 slug: wakoopa

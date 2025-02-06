@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-09-13
 creator: Martin Hinshelwood
-id: "313"
 layout: blog
 resourceTypes: blog
 slug: moderating-for-community-credit

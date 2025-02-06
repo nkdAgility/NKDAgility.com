@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2019-08-16
 creator: Martin Hinshelwood
-id: "39682"
 layout: blog
 resourceTypes: blog
 slug: how-do-you-incorporate-a-design-sprint-in-scrum

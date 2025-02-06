@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-04-08
 creator: Martin Hinshelwood
-id: "9431"
 layout: blog
 resourceTypes: blog
 slug: working-within-a-single-team-project-with-team-foundation-server-2012

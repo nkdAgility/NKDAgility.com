@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-04-12
 creator: Martin Hinshelwood
-id: "54"
 layout: blog
 resourceTypes: blog
 slug: upgrading-visual-studio-2010

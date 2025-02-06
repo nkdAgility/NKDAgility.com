@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-10-25
 creator: Martin Hinshelwood
-id: "8998"
 layout: blog
 resourceTypes: blog
 slug: integrate-sharepoint-2013-with-team-foundation-server-2012

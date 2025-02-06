@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-11-18
 creator: Martin Hinshelwood
-id: "166"
 layout: blog
 resourceTypes: blog
 slug: the-great-xbox-update

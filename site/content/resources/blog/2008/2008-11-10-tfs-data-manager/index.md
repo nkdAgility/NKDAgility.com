@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-11-10
 creator: Martin Hinshelwood
-id: "171"
 layout: blog
 resourceTypes: blog
 slug: tfs-data-manager

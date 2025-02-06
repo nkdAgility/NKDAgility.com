@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-05-19
 creator: Martin Hinshelwood
-id: "225"
 layout: blog
 resourceTypes: blog
 slug: creating-a-sharepoint-solution

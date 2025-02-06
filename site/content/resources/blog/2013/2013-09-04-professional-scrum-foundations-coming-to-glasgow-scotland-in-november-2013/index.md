@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-09-04
 creator: Martin Hinshelwood
-id: "10094"
 layout: blog
 resourceTypes: blog
 slug: professional-scrum-foundations-coming-to-glasgow-scotland-in-november-2013

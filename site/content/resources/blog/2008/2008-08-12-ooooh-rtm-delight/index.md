@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-08-12
 creator: Martin Hinshelwood
-id: "212"
 layout: blog
 resourceTypes: blog
 slug: ooooh-rtm-delight

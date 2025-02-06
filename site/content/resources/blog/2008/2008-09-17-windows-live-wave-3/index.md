@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-09-17
 creator: Martin Hinshelwood
-id: "192"
 layout: blog
 resourceTypes: blog
 slug: windows-live-wave-3

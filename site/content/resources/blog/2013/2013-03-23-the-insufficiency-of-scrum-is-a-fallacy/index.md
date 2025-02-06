@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-03-23
 creator: Martin Hinshelwood
-id: "9338"
 layout: blog
 resourceTypes: blog
 slug: the-insufficiency-of-scrum-is-a-fallacy

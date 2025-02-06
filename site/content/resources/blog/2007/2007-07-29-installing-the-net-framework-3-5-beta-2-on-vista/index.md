@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-07-29
 creator: Martin Hinshelwood
-id: "357"
 layout: blog
 resourceTypes: blog
 slug: installing-the-net-framework-3-5-beta-2-on-vista

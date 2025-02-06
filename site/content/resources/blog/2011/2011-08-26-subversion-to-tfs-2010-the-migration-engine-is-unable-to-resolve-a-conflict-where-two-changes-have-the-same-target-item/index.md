@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-08-26
 creator: Martin Hinshelwood
-id: "3769"
 layout: blog
 resourceTypes: blog
 slug: subversion-to-tfs-2010-the-migration-engine-is-unable-to-resolve-a-conflict-where-two-changes-have-the-same-target-item

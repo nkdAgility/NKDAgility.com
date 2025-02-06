@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-09-17
 creator: Martin Hinshelwood
-id: "310"
 layout: blog
 resourceTypes: blog
 slug: first-day-at-aggreko

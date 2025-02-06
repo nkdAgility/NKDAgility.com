@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-07
 creator: Martin Hinshelwood
-id: "339"
 layout: blog
 resourceTypes: blog
 slug: becoming-a-better-developer

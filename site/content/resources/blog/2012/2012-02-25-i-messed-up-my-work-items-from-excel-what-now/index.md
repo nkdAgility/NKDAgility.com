@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-02-25
 creator: Martin Hinshelwood
-id: "4609"
 layout: blog
 resourceTypes: blog
 slug: i-messed-up-my-work-items-from-excel-what-now

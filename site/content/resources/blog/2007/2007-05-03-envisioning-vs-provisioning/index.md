@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-05-03
 creator: Martin Hinshelwood
-id: "405"
 layout: blog
 resourceTypes: blog
 slug: envisioning-vs-provisioning

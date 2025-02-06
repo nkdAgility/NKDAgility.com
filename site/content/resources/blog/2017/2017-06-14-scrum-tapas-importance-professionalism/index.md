@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2017-06-14
 creator: Martin Hinshelwood
-id: "11942"
 layout: blog
 resourceTypes: blog
 slug: scrum-tapas-importance-professionalism

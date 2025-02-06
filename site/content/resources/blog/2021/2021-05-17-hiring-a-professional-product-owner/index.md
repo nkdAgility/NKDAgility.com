@@ -25,7 +25,6 @@ contributors:
   external: https://www.linkedin.com/in/victoria-pent-627a6b61/
 - name: James Powis
   external: https://www.linkedin.com/in/james-powis-agile-product-owner/
-id: "46138"
 layout: blog
 resourceTypes: blog
 slug: hiring-a-professional-product-owner

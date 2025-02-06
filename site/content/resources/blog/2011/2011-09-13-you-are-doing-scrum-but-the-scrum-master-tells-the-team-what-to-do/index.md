@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-09-13
 creator: Martin Hinshelwood
-id: "3778"
 layout: blog
 resourceTypes: blog
 slug: you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do

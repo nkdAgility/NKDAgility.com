@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2021-01-18
 AudioNative: true
 creator: Martin Hinshelwood
-id: "45392"
 layout: blog
 resourceTypes: blog
 slug: what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg

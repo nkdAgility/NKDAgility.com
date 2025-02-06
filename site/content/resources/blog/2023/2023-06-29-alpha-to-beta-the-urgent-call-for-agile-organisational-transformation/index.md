@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2023-06-29
 AudioNative: true
 creator: Martin Hinshelwood
-id: "49485"
 layout: blog
 resourceTypes: blog
 slug: alpha-to-beta-the-urgent-call-for-agile-organisational-transformation

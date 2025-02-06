@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-02-24
 creator: Martin Hinshelwood
-id: "4560"
 layout: blog
 resourceTypes: blog
 slug: announcing-visual-studio-11-beta-will-launch-on-february-29th

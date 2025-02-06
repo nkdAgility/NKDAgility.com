@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-01-26
 creator: Martin Hinshelwood
-id: "11158"
 layout: blog
 resourceTypes: blog
 slug: benefits-visual-studio-online-enterprise

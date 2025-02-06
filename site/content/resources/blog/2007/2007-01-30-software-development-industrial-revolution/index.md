@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-01-30
 creator: Martin Hinshelwood
-id: "416"
 layout: blog
 resourceTypes: blog
 slug: software-development-industrial-revolution

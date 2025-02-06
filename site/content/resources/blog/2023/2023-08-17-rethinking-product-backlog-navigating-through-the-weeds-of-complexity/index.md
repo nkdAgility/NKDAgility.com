@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2023-08-17
 AudioNative: true
 creator: Martin Hinshelwood
-id: "49515"
 layout: blog
 resourceTypes: blog
 slug: rethinking-product-backlog-navigating-through-the-weeds-of-complexity

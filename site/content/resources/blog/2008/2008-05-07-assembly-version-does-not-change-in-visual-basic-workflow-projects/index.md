@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-05-07
 creator: Martin Hinshelwood
-id: "231"
 layout: blog
 resourceTypes: blog
 slug: assembly-version-does-not-change-in-visual-basic-workflow-projects

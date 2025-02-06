@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-09-22
 creator: Martin Hinshelwood
-id: "3789"
 layout: blog
 resourceTypes: blog
 slug: scrum-is-hard-to-adopt-and-disruptive-to-your-organisation

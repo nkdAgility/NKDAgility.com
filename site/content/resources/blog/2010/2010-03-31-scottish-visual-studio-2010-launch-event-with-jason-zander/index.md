@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-31
 creator: Martin Hinshelwood
-id: "57"
 layout: blog
 resourceTypes: blog
 slug: scottish-visual-studio-2010-launch-event-with-jason-zander

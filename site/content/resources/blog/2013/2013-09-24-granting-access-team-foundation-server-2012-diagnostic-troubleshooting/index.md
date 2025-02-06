@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-09-24
 creator: Martin Hinshelwood
-id: "10002"
 layout: blog
 resourceTypes: blog
 slug: granting-access-team-foundation-server-2012-diagnostic-troubleshooting

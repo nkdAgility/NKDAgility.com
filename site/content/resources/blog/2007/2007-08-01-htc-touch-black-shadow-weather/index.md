@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-01
 creator: Martin Hinshelwood
-id: "351"
 layout: blog
 resourceTypes: blog
 slug: htc-touch-black-shadow-weather

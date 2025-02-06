@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-12-03
 creator: Martin Hinshelwood
-id: "9164"
 layout: blog
 resourceTypes: blog
 slug: tfs-2012-update-1-tf255430-the-database-was-partially-upgraded-during-a-failed-upgrade

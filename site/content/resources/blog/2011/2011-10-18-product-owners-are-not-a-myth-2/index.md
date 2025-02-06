@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-10-18
 creator: Martin Hinshelwood
-id: "3909"
 layout: blog
 resourceTypes: blog
 slug: product-owners-are-not-a-myth-2

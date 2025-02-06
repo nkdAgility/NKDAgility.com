@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-15
 creator: Martin Hinshelwood
-id: "7149"
 layout: blog
 resourceTypes: blog
 slug: visual-studio-2012-rtm-available-installed

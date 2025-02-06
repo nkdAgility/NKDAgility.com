@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-11-27
 creator: Martin Hinshelwood
-id: "45088"
 layout: blog
 resourceTypes: blog
 slug: the-sprint-goal-is-a-commitment-for-the-sprint-backlog

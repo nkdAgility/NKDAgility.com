@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-10-10
 creator: Martin Hinshelwood
-id: "8885"
 layout: blog
 resourceTypes: blog
 slug: the-new-normal-of-the-modern-application-lifecycle

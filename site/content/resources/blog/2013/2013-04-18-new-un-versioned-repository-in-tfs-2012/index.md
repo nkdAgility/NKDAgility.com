@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-04-18
 creator: Martin Hinshelwood
-id: "9452"
 layout: blog
 resourceTypes: blog
 slug: new-un-versioned-repository-in-tfs-2012

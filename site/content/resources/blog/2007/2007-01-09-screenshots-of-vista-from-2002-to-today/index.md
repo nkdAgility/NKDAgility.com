@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-01-09
 creator: Martin Hinshelwood
-id: "450"
 layout: blog
 resourceTypes: blog
 slug: screenshots-of-vista-from-2002-to-today

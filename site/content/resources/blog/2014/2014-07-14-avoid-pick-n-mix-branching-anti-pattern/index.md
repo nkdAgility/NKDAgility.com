@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-07-14
 creator: Martin Hinshelwood
-id: "10649"
 layout: blog
 resourceTypes: blog
 slug: avoid-pick-n-mix-branching-anti-pattern

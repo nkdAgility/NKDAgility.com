@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-11-26
 creator: Martin Hinshelwood
-id: "287"
 layout: blog
 resourceTypes: blog
 slug: mozy-backup

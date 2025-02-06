@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-11-23
 creator: Martin Hinshelwood
-id: "45086"
 layout: blog
 resourceTypes: blog
 slug: the-product-goal-is-a-commitment-for-the-product-backlog

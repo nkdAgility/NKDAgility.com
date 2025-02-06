@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2019-10-14
 creator: Martin Hinshelwood
-id: "40168"
 layout: blog
 resourceTypes: blog
 slug: can-the-definition-of-done-change-per-sprint

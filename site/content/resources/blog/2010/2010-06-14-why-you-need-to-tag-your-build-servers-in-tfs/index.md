@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-06-14
 creator: Martin Hinshelwood
-id: "40"
 layout: blog
 resourceTypes: blog
 slug: why-you-need-to-tag-your-build-servers-in-tfs

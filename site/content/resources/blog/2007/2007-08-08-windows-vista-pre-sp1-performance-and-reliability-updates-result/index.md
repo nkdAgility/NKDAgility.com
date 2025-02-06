@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-08
 creator: Martin Hinshelwood
-id: "338"
 layout: blog
 resourceTypes: blog
 slug: windows-vista-pre-sp1-performance-and-reliability-updates-result

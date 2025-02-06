@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-07-16
 creator: Martin Hinshelwood
-id: "104"
 layout: blog
 resourceTypes: blog
 slug: installing-office-2010-gotcha-1

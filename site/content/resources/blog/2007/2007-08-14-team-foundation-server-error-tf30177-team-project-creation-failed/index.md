@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-14
 creator: Martin Hinshelwood
-id: "332"
 layout: blog
 resourceTypes: blog
 slug: team-foundation-server-error-tf30177-team-project-creation-failed

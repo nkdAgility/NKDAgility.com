@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-11-14
 creator: Martin Hinshelwood
-id: "10865"
 layout: blog
 resourceTypes: blog
 slug: configuring-dc-azure-aad-integrated-release-management

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2006-08-09
 creator: Martin Hinshelwood
-id: "464"
 layout: blog
 resourceTypes: blog
 slug: windows-communication-framework-evaluation

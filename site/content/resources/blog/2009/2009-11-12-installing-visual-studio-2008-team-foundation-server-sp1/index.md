@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-11-12
 creator: Martin Hinshelwood
-id: "79"
 layout: blog
 resourceTypes: blog
 slug: installing-visual-studio-2008-team-foundation-server-sp1

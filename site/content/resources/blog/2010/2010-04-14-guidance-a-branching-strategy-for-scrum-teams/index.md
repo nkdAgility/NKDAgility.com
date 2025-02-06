@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-04-14
 creator: Martin Hinshelwood
-id: "50"
 layout: blog
 resourceTypes: blog
 slug: guidance-a-branching-strategy-for-scrum-teams

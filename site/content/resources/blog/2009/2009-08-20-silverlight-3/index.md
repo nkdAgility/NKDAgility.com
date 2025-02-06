@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-08-20
 creator: Martin Hinshelwood
-id: "90"
 layout: blog
 resourceTypes: blog
 slug: silverlight-3

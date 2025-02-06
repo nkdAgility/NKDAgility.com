@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-11-24
 creator: Martin Hinshelwood
-id: "9714"
 layout: blog
 resourceTypes: blog
 slug: release-planning-and-predictable-delivery

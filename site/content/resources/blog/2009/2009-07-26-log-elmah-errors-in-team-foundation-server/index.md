@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-07-26
 creator: Martin Hinshelwood
-id: "97"
 layout: blog
 resourceTypes: blog
 slug: log-elmah-errors-in-team-foundation-server

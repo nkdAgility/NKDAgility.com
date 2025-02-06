@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-07-30
 creator: Martin Hinshelwood
-id: "355"
 layout: blog
 resourceTypes: blog
 slug: simpsonize-me

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-11
 creator: Martin Hinshelwood
-id: "9753"
 layout: blog
 resourceTypes: blog
 slug: issue-tfs-2013-you-need-elevated-privileges-to-install-inrelease

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-12-07
 creator: Martin Hinshelwood
-id: "77"
 layout: blog
 resourceTypes: blog
 slug: create-a-vhd-from-the-windows-7-image-disk

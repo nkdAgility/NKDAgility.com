@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-03-10
 creator: Martin Hinshelwood
-id: "9893"
 layout: blog
 resourceTypes: blog
 slug: installing-visual-studio-2010-service-pack-1

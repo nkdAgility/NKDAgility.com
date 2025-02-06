@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-16
 creator: Martin Hinshelwood
-id: "9777"
 layout: blog
 resourceTypes: blog
 slug: modelling-teams-in-team-foundation-server-2013

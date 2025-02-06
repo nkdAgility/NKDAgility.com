@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-11-04
 creator: Martin Hinshelwood
-id: "4025"
 layout: blog
 resourceTypes: blog
 slug: creating-a-backup-in-team-foundation-server-2010-using-the-power-tools

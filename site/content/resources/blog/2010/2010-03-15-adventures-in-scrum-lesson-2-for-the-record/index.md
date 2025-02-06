@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-15
 creator: Martin Hinshelwood
-id: "62"
 layout: blog
 resourceTypes: blog
 slug: adventures-in-scrum-lesson-2-for-the-record

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-11-18
 creator: Martin Hinshelwood
-id: "167"
 layout: blog
 resourceTypes: blog
 slug: 100000-visits

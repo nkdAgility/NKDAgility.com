@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-08-24
 creator: Martin Hinshelwood
-id: "10682"
 layout: blog
 resourceTypes: blog
 slug: yorkhill-ice-bucket-challenge

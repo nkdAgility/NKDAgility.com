@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-11-19
 creator: Martin Hinshelwood
-id: "10874"
 layout: blog
 resourceTypes: blog
 slug: move-azure-vm-virtual-network

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-05-06
 creator: Martin Hinshelwood
-id: "9496"
 layout: blog
 resourceTypes: blog
 slug: tfs-2012-issue-get-workspace-already-exists-connecting-with-vs-2008-or-vs-2010

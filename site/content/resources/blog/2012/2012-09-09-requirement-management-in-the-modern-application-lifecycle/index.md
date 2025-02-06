@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-09-09
 creator: Martin Hinshelwood
-id: "8700"
 layout: blog
 resourceTypes: blog
 slug: requirement-management-in-the-modern-application-lifecycle

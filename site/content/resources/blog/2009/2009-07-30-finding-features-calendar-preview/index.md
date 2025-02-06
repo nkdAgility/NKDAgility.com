@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-07-30
 creator: Martin Hinshelwood
-id: "94"
 layout: blog
 resourceTypes: blog
 slug: finding-features-calendar-preview

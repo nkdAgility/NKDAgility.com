@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-06-20
 creator: Martin Hinshelwood
-id: "5496"
 layout: blog
 resourceTypes: blog
 slug: installing-tfs-2012-with-lab-management-2012

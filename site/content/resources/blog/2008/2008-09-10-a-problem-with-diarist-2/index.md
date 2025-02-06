@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-09-10
 creator: Martin Hinshelwood
-id: "195"
 layout: blog
 resourceTypes: blog
 slug: a-problem-with-diarist-2

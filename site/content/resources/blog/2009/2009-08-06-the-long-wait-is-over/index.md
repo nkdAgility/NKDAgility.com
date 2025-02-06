@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-08-06
 creator: Martin Hinshelwood
-id: "93"
 layout: blog
 resourceTypes: blog
 slug: the-long-wait-is-over

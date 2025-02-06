@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-05-19
 creator: Martin Hinshelwood
-id: "113"
 layout: blog
 resourceTypes: blog
 slug: unable-to-connect-to-tfs-using-https-over-the-internet-from-behind-isa

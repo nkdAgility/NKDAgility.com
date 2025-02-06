@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-07-30
 creator: Martin Hinshelwood
-id: "95"
 layout: blog
 resourceTypes: blog
 slug: creating-a-data-access-layer-using-unity

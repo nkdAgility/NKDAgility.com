@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2016-01-06
 creator: Martin Hinshelwood
-id: "11426"
 layout: blog
 resourceTypes: blog
 slug: professional-scrum-courses-2016-oslo-norway

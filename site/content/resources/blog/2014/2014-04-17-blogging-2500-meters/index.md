@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-04-17
 creator: Martin Hinshelwood
-id: "10509"
 layout: blog
 resourceTypes: blog
 slug: blogging-2500-meters

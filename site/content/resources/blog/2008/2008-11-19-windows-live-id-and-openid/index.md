@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-11-19
 creator: Martin Hinshelwood
-id: "165"
 layout: blog
 resourceTypes: blog
 slug: windows-live-id-and-openid

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-10-25
 creator: Martin Hinshelwood
-id: "82"
 layout: blog
 resourceTypes: blog
 slug: a-change-for-the-better-2

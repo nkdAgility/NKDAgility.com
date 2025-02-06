@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-02-16
 creator: Martin Hinshelwood
-id: "9895"
 layout: blog
 resourceTypes: blog
 slug: should-geekswithblogs-move-to-the-wordpress-platform

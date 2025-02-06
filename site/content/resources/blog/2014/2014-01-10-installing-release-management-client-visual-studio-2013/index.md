@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-01-10
 creator: Martin Hinshelwood
-id: "10321"
 layout: blog
 resourceTypes: blog
 slug: installing-release-management-client-visual-studio-2013

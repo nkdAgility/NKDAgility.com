@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-05-20
 creator: Martin Hinshelwood
-id: "112"
 layout: blog
 resourceTypes: blog
 slug: solution-to-connecting-to-tfs-using-https-over-the-internet-from-behind-isa

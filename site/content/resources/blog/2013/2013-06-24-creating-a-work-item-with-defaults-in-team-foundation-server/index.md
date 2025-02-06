@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-06-24
 creator: Martin Hinshelwood
-id: "9686"
 layout: blog
 resourceTypes: blog
 slug: creating-a-work-item-with-defaults-in-team-foundation-server

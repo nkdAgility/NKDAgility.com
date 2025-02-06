@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-07-23
 creator: Martin Hinshelwood
-id: "363"
 layout: blog
 resourceTypes: blog
 slug: deployment-documentation

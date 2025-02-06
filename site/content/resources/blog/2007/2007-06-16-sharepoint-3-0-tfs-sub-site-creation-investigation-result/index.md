@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-06-16
 creator: Martin Hinshelwood
-id: "383"
 layout: blog
 resourceTypes: blog
 slug: sharepoint-3-0-tfs-sub-site-creation-investigation-result

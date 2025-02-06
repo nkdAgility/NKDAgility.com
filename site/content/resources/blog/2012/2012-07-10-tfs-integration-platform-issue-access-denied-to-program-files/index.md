@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-07-10
 creator: Martin Hinshelwood
-id: "6113"
 layout: blog
 resourceTypes: blog
 slug: tfs-integration-platform-issue-access-denied-to-program-files

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-09-26
 creator: Martin Hinshelwood
-id: "3796"
 layout: blog
 resourceTypes: blog
 slug: caffeinating-your-development-lifecycle-in-bellevue-on-october-13th

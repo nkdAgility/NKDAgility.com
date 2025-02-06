@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-11-12
 creator: Martin Hinshelwood
-id: "170"
 layout: blog
 resourceTypes: blog
 slug: composite-wpf-and-merged-dictionaries

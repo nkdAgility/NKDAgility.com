@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-10-05
 creator: Martin Hinshelwood
-id: "303"
 layout: blog
 resourceTypes: blog
 slug: branding-and-customizing-sharepoint-2007

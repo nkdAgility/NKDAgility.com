@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-05-14
 creator: Martin Hinshelwood
-id: "228"
 layout: blog
 resourceTypes: blog
 slug: post-event-msdn-roadshow-glasgow

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-12-17
 creator: Martin Hinshelwood
-id: "10987"
 layout: blog
 resourceTypes: blog
 slug: understanding-tfs-migrations-premise-visual-studio-online

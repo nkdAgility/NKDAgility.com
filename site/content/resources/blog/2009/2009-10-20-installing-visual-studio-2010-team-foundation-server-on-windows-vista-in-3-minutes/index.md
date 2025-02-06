@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-10-20
 creator: Martin Hinshelwood
-id: "84"
 layout: blog
 resourceTypes: blog
 slug: installing-visual-studio-2010-team-foundation-server-on-windows-vista-in-3-minutes

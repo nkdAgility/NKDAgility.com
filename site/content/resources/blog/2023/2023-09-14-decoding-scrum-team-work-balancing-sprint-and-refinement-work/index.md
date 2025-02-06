@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2023-09-14
 AudioNative: true
 creator: Martin Hinshelwood
-id: "49783"
 layout: blog
 resourceTypes: blog
 slug: decoding-scrum-team-work-balancing-sprint-and-refinement-work

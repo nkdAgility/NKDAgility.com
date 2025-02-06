@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-06-17
 creator: Martin Hinshelwood
-id: "381"
 layout: blog
 resourceTypes: blog
 slug: tfs-event-handler-ctp-1-delayed

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-10-24
 creator: Martin Hinshelwood
-id: "182"
 layout: blog
 resourceTypes: blog
 slug: msbuild-and-business-intelligence-packages-ahhhhhh

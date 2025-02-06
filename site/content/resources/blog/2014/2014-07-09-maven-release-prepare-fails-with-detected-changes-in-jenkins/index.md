@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-07-09
 creator: Martin Hinshelwood
-id: "10579"
 layout: blog
 resourceTypes: blog
 slug: maven-release-prepare-fails-with-detected-changes-in-jenkins

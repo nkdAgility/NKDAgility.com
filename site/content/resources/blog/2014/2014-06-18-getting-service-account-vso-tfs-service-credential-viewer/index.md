@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-06-18
 creator: Martin Hinshelwood
-id: "10596"
 layout: blog
 resourceTypes: blog
 slug: getting-service-account-vso-tfs-service-credential-viewer

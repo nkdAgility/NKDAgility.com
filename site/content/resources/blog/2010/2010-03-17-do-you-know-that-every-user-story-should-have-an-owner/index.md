@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-17
 creator: Martin Hinshelwood
-id: "61"
 layout: blog
 resourceTypes: blog
 slug: do-you-know-that-every-user-story-should-have-an-owner

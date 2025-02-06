@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-06-26
 creator: Martin Hinshelwood
-id: "9677"
 layout: blog
 resourceTypes: blog
 slug: get-visual-studio-2013-team-foundation-server-while-its-hot

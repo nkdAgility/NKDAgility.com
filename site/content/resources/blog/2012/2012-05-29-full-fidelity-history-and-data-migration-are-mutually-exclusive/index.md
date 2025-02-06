@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-05-29
 creator: Martin Hinshelwood
-id: "5288"
 layout: blog
 resourceTypes: blog
 slug: full-fidelity-history-and-data-migration-are-mutually-exclusive

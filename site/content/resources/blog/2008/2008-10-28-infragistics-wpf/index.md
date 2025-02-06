@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-10-28
 creator: Martin Hinshelwood
-id: "179"
 layout: blog
 resourceTypes: blog
 slug: infragistics-wpf

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-10-22
 creator: Martin Hinshelwood
-id: "296"
 layout: blog
 resourceTypes: blog
 slug: why-integrated-authentication-does-not-work-with-host-headers

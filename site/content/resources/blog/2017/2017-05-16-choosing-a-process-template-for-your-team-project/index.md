@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2017-05-16
 creator: Martin Hinshelwood
-id: "10356"
 layout: blog
 resourceTypes: blog
 slug: choosing-a-process-template-for-your-team-project

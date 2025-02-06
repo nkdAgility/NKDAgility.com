@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-21
 creator: Martin Hinshelwood
-id: "324"
 layout: blog
 resourceTypes: blog
 slug: visual-studio-2008-team-edition-for-architects

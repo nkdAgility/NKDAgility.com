@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-03-03
 creator: Martin Hinshelwood
-id: "9894"
 layout: blog
 resourceTypes: blog
 slug: do-you-know-how-to-move-the-team-foundation-server-cache

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-07-16
 creator: Martin Hinshelwood
-id: "6179"
 layout: blog
 resourceTypes: blog
 slug: tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item

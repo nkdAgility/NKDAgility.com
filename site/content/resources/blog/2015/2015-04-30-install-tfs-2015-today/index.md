@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-04-30
 creator: Martin Hinshelwood
-id: "11286"
 layout: blog
 resourceTypes: blog
 slug: install-tfs-2015-today

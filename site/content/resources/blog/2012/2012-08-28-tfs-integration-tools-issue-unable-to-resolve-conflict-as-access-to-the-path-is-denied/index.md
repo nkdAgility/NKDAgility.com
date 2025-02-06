@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-28
 creator: Martin Hinshelwood
-id: "7744"
 layout: blog
 resourceTypes: blog
 slug: tfs-integration-tools-issue-unable-to-resolve-conflict-as-access-to-the-path-is-denied

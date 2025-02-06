@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-05-03
 creator: Martin Hinshelwood
-id: "44"
 layout: blog
 resourceTypes: blog
 slug: integrate-sharepoint-2010-with-team-foundation-server-2010

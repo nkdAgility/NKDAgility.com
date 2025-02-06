@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-03-28
 creator: Martin Hinshelwood
-id: "5002"
 layout: blog
 resourceTypes: blog
 slug: whats-in-a-burndown

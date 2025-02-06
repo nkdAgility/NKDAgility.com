@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-03-27
 creator: Martin Hinshelwood
-id: "9348"
 layout: blog
 resourceTypes: blog
 slug: connect-a-test-controller-to-team-foundation-service

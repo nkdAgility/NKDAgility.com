@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2023-08-31
 AudioNative: true
 creator: Martin Hinshelwood
-id: "49726"
 layout: blog
 resourceTypes: blog
 slug: rethinking-user-stories-a-call-for-clarity-in-product-backlog-management

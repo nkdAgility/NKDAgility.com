@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-06-06
 creator: Martin Hinshelwood
-id: "3606"
 layout: blog
 resourceTypes: blog
 slug: a-working-test-track-pro-adapter-for-the-tfs-integration-platform

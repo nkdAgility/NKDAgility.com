@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-09-22
 creator: Martin Hinshelwood
-id: "308"
 layout: blog
 resourceTypes: blog
 slug: technorati-troubles

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-04-30
 creator: Martin Hinshelwood
-id: "408"
 layout: blog
 resourceTypes: blog
 slug: tfs-eventhandler-now-on-codeplex

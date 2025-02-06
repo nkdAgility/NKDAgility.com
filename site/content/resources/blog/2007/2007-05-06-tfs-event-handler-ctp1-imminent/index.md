@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-05-06
 creator: Martin Hinshelwood
-id: "403"
 layout: blog
 resourceTypes: blog
 slug: tfs-event-handler-ctp1-imminent

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-04
 creator: Martin Hinshelwood
-id: "346"
 layout: blog
 resourceTypes: blog
 slug: office-mobile-2007

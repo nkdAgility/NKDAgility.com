@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-02-19
 creator: Martin Hinshelwood
-id: "246"
 layout: blog
 resourceTypes: blog
 slug: waffling-on-sharepoint

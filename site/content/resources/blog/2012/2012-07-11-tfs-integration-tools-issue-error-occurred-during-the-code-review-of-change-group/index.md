@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-07-11
 creator: Martin Hinshelwood
-id: "6117"
 layout: blog
 resourceTypes: blog
 slug: tfs-integration-tools-issue-error-occurred-during-the-code-review-of-change-group

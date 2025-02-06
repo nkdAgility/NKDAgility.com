@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-07-13
 creator: Martin Hinshelwood
-id: "10655"
 layout: blog
 resourceTypes: blog
 slug: the-value-of-an-independent-scotland

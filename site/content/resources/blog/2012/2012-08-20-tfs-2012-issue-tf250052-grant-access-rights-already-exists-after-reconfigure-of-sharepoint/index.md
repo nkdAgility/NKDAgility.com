@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-20
 creator: Martin Hinshelwood
-id: "7247"
 layout: blog
 resourceTypes: blog
 slug: tfs-2012-issue-tf250052-grant-access-rights-already-exists-after-reconfigure-of-sharepoint

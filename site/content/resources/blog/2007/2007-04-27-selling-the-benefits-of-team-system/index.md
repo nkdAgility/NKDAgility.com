@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-04-27
 creator: Martin Hinshelwood
-id: "410"
 layout: blog
 resourceTypes: blog
 slug: selling-the-benefits-of-team-system

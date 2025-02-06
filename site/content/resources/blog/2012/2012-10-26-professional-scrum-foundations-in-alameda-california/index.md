@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-10-26
 creator: Martin Hinshelwood
-id: "8981"
 layout: blog
 resourceTypes: blog
 slug: professional-scrum-foundations-in-alameda-california

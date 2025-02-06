@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-06-01
 creator: Martin Hinshelwood
-id: "5388"
 layout: blog
 resourceTypes: blog
 slug: installing-visual-studio-2010-on-windows-8

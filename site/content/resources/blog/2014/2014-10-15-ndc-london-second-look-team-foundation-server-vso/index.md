@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-10-15
 creator: Martin Hinshelwood
-id: "10811"
 layout: blog
 resourceTypes: blog
 slug: ndc-london-second-look-team-foundation-server-vso

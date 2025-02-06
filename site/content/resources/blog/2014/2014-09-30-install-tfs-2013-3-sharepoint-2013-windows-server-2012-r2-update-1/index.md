@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-09-30
 creator: Martin Hinshelwood
-id: "10727"
 layout: blog
 resourceTypes: blog
 slug: install-tfs-2013-3-sharepoint-2013-windows-server-2012-r2-update-1

@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2023-07-13
 AudioNative: true
 creator: Martin Hinshelwood
-id: "49495"
 layout: blog
 resourceTypes: blog
 slug: risk-mitigation-agile-usable-products-vs-documentation-in-traditional-project-management

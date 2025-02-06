@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-06-04
 creator: Martin Hinshelwood
-id: "10546"
 layout: blog
 resourceTypes: blog
 slug: access-denied-user-needs-label-permission-tfs

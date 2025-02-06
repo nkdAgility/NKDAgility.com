@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-10-01
 creator: Martin Hinshelwood
-id: "189"
 layout: blog
 resourceTypes: blog
 slug: team-system-mvp

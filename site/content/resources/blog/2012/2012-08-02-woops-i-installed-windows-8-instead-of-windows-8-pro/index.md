@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-02
 creator: Martin Hinshelwood
-id: "6938"
 layout: blog
 resourceTypes: blog
 slug: woops-i-installed-windows-8-instead-of-windows-8-pro

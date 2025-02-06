@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-01-30
 creator: Martin Hinshelwood
-id: "141"
 layout: blog
 resourceTypes: blog
 slug: fun-with-virgin

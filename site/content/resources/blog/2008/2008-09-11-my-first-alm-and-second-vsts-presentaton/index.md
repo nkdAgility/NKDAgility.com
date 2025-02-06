@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-09-11
 creator: Martin Hinshelwood
-id: "193"
 layout: blog
 resourceTypes: blog
 slug: my-first-alm-and-second-vsts-presentaton

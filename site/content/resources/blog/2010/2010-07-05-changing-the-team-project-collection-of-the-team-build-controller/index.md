@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-07-05
 creator: Martin Hinshelwood
-id: "35"
 layout: blog
 resourceTypes: blog
 slug: changing-the-team-project-collection-of-the-team-build-controller

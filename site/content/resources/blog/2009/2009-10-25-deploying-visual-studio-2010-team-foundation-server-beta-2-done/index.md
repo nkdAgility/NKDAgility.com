@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-10-25
 creator: Martin Hinshelwood
-id: "81"
 layout: blog
 resourceTypes: blog
 slug: deploying-visual-studio-2010-team-foundation-server-beta-2-done

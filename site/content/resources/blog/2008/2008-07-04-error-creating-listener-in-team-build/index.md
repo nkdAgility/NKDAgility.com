@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-07-04
 creator: Martin Hinshelwood
-id: "218"
 layout: blog
 resourceTypes: blog
 slug: error-creating-listener-in-team-build

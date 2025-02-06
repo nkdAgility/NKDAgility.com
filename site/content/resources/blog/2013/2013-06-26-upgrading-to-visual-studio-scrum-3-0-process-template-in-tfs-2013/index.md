@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-06-26
 creator: Martin Hinshelwood
-id: "9913"
 layout: blog
 resourceTypes: blog
 slug: upgrading-to-visual-studio-scrum-3-0-process-template-in-tfs-2013

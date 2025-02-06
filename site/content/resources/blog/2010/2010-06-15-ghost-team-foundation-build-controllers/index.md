@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-06-15
 creator: Martin Hinshelwood
-id: "39"
 layout: blog
 resourceTypes: blog
 slug: ghost-team-foundation-build-controllers

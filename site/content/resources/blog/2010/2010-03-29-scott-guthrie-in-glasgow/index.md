@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-29
 creator: Martin Hinshelwood
-id: "58"
 layout: blog
 resourceTypes: blog
 slug: scott-guthrie-in-glasgow

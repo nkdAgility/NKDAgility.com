@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-07-23
 creator: Martin Hinshelwood
-id: "362"
 layout: blog
 resourceTypes: blog
 slug: why-do-we-care-about-software-factories

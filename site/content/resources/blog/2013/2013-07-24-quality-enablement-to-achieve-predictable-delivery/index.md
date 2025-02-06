@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-24
 creator: Martin Hinshelwood
-id: "9737"
 layout: blog
 resourceTypes: blog
 slug: quality-enablement-to-achieve-predictable-delivery

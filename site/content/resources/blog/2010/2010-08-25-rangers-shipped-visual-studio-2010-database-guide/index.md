@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-08-25
 creator: Martin Hinshelwood
-id: "30"
 layout: blog
 resourceTypes: blog
 slug: rangers-shipped-visual-studio-2010-database-guide

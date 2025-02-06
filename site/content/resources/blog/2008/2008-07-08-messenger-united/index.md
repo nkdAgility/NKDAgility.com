@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-07-08
 creator: Martin Hinshelwood
-id: "217"
 layout: blog
 resourceTypes: blog
 slug: messenger-united

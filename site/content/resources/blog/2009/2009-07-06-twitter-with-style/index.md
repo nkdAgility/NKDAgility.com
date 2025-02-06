@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-07-06
 creator: Martin Hinshelwood
-id: "105"
 layout: blog
 resourceTypes: blog
 slug: twitter-with-style

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-10-20
 creator: Martin Hinshelwood
-id: "8949"
 layout: blog
 resourceTypes: blog
 slug: cleanworkspacepackagetempdir-error-in-team-foundation-build-2012

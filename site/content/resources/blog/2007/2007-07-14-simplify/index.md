@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-07-14
 creator: Martin Hinshelwood
-id: "372"
 layout: blog
 resourceTypes: blog
 slug: simplify

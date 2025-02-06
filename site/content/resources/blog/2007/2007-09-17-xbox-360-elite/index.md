@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-09-17
 creator: Martin Hinshelwood
-id: "311"
 layout: blog
 resourceTypes: blog
 slug: xbox-360-elite

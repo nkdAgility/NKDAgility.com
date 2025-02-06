@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-05-07
 creator: Martin Hinshelwood
-id: "232"
 layout: blog
 resourceTypes: blog
 slug: another-day-another-codeplex-project

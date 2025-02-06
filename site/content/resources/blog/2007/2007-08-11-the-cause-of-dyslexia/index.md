@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-11
 creator: Martin Hinshelwood
-id: "334"
 layout: blog
 resourceTypes: blog
 slug: the-cause-of-dyslexia

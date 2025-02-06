@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-07-22
 creator: Martin Hinshelwood
-id: "99"
 layout: blog
 resourceTypes: blog
 slug: list-all-files-changed-under-an-iteration

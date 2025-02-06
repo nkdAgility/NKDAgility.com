@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-04-28
 creator: Martin Hinshelwood
-id: "409"
 layout: blog
 resourceTypes: blog
 slug: im-luke-skywalker-according-to-the-star-wars-personality-test

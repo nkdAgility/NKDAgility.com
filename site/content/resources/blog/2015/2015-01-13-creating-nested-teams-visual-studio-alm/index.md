@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-01-13
 creator: Martin Hinshelwood
-id: "11068"
 layout: blog
 resourceTypes: blog
 slug: creating-nested-teams-visual-studio-alm

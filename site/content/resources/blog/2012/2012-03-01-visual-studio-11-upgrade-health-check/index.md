@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-03-01
 creator: Martin Hinshelwood
-id: "4747"
 layout: blog
 resourceTypes: blog
 slug: visual-studio-11-upgrade-health-check

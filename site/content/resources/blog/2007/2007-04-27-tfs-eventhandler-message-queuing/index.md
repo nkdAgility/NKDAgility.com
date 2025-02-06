@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-04-27
 creator: Martin Hinshelwood
-id: "411"
 layout: blog
 resourceTypes: blog
 slug: tfs-eventhandler-message-queuing

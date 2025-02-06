@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-03-19
 creator: Martin Hinshelwood
-id: "430"
 layout: blog
 resourceTypes: blog
 slug: msdn-roadshow-uk-2007

@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2020-12-21
 AudioNative: true
 creator: Martin Hinshelwood
-id: "45309"
 layout: blog
 resourceTypes: blog
 slug: product-goal-is-an-intermediate-strategic-goal

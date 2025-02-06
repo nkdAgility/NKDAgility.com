@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-22
 creator: Martin Hinshelwood
-id: "322"
 layout: blog
 resourceTypes: blog
 slug: search-just-got-better-part-2

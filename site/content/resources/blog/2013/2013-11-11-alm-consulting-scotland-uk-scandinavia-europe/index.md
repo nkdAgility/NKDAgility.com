@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-11-11
 creator: Martin Hinshelwood
-id: "10226"
 layout: blog
 resourceTypes: blog
 slug: alm-consulting-scotland-uk-scandinavia-europe

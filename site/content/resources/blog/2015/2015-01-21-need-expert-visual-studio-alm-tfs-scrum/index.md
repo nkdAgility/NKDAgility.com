@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-01-21
 creator: Martin Hinshelwood
-id: "11120"
 layout: blog
 resourceTypes: blog
 slug: need-expert-visual-studio-alm-tfs-scrum

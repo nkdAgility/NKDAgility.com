@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-24
 creator: Martin Hinshelwood
-id: "7619"
 layout: blog
 resourceTypes: blog
 slug: visual-studio-alm-by-martin-hinshelwood-is-now-available-on-kindle

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-22
 creator: Martin Hinshelwood
-id: "7377"
 layout: blog
 resourceTypes: blog
 slug: tfs-integration-tools-issue-sequence-contains-no-elements

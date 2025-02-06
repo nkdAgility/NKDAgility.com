@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-05-24
 creator: Martin Hinshelwood
-id: "399"
 layout: blog
 resourceTypes: blog
 slug: recipe-for-team-server-in-a-small-business

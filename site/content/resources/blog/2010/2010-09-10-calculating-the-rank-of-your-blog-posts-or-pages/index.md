@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-09-10
 creator: Martin Hinshelwood
-id: "26"
 layout: blog
 resourceTypes: blog
 slug: calculating-the-rank-of-your-blog-posts-or-pages

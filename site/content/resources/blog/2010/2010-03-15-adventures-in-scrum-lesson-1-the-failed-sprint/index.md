@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-15
 creator: Martin Hinshelwood
-id: "63"
 layout: blog
 resourceTypes: blog
 slug: adventures-in-scrum-lesson-1-the-failed-sprint

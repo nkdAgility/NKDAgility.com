@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-06-27
 creator: Martin Hinshelwood
-id: "9911"
 layout: blog
 resourceTypes: blog
 slug: issue-tfs-2013-preview-tf400654-unable-to-configure-planning-tools

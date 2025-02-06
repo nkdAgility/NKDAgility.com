@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2023-07-20
 AudioNative: true
 creator: Martin Hinshelwood
-id: "49501"
 layout: blog
 resourceTypes: blog
 slug: how-usable-working-products-are-your-ultimate-weapon-against-risks

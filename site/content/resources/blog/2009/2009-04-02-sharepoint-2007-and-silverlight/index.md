@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-04-02
 creator: Martin Hinshelwood
-id: "132"
 layout: blog
 resourceTypes: blog
 slug: sharepoint-2007-and-silverlight

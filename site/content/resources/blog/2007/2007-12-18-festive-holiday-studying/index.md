@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-12-18
 creator: Martin Hinshelwood
-id: "273"
 layout: blog
 resourceTypes: blog
 slug: festive-holiday-studying

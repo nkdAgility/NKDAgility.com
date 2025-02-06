@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-01-25
 creator: Martin Hinshelwood
-id: "4142"
 layout: blog
 resourceTypes: blog
 slug: visual-studio-2010-overview-a-day-in-the-life-of

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-06-20
 creator: Martin Hinshelwood
-id: "376"
 layout: blog
 resourceTypes: blog
 slug: solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server

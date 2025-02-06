@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2006-12-15
 creator: Martin Hinshelwood
-id: "457"
 layout: blog
 resourceTypes: blog
 slug: windows-live-writer

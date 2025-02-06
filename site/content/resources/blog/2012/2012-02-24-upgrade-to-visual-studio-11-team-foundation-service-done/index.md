@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-02-24
 creator: Martin Hinshelwood
-id: "4573"
 layout: blog
 resourceTypes: blog
 slug: upgrade-to-visual-studio-11-team-foundation-service-done

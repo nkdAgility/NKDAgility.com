@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-12-07
 creator: Martin Hinshelwood
-id: "75"
 layout: blog
 resourceTypes: blog
 slug: create-a-vhd-from-the-windows-server-2008-r2-image-disk

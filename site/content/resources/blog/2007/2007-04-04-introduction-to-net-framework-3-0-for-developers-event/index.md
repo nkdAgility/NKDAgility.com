@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-04-04
 creator: Martin Hinshelwood
-id: "418"
 layout: blog
 resourceTypes: blog
 slug: introduction-to-net-framework-3-0-for-developers-event

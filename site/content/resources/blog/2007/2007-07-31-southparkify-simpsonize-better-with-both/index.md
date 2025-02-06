@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-07-31
 creator: Martin Hinshelwood
-id: "353"
 layout: blog
 resourceTypes: blog
 slug: southparkify-simpsonize-better-with-both

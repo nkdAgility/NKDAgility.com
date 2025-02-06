@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-04-02
 creator: Martin Hinshelwood
-id: "419"
 layout: blog
 resourceTypes: blog
 slug: teamplain-revisit

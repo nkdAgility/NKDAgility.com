@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-08-25
 creator: Martin Hinshelwood
-id: "3736"
 layout: blog
 resourceTypes: blog
 slug: dealing-with-invalid-subversion-ssl-certificates-and-migrations

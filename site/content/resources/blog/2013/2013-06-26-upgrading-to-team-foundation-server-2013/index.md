@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-06-26
 creator: Martin Hinshelwood
-id: "9907"
 layout: blog
 resourceTypes: blog
 slug: upgrading-to-team-foundation-server-2013

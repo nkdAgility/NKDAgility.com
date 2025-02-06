@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-10-22
 creator: Martin Hinshelwood
-id: "185"
 layout: blog
 resourceTypes: blog
 slug: how-to-allow-other-users-to-interact-with-workflow-on-your-mysite

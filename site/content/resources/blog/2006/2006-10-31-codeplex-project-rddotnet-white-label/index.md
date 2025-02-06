@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2006-10-31
 creator: Martin Hinshelwood
-id: "459"
 layout: blog
 resourceTypes: blog
 slug: codeplex-project-rddotnet-white-label

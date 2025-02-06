@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-06-28
 creator: Martin Hinshelwood
-id: "9914"
 layout: blog
 resourceTypes: blog
 slug: windows-8-1-preview-issue-the-update-is-not-applicable-to-your-computer

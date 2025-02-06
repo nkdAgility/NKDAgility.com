@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-07-25
 creator: Martin Hinshelwood
-id: "359"
 layout: blog
 resourceTypes: blog
 slug: social-and-business-networking

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-07-06
 creator: Martin Hinshelwood
-id: "44507"
 layout: blog
 resourceTypes: blog
 slug: luddites-have-no-place-in-the-modern-organisation

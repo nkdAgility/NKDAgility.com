@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-06-21
 creator: Martin Hinshelwood
-id: "44432"
 layout: blog
 resourceTypes: blog
 slug: delivering-live-virtual-classes-in-microsoft-teams-and-mural

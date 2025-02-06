@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2017-05-10
 creator: Martin Hinshelwood
-id: "11882"
 layout: blog
 resourceTypes: blog
 slug: government-cloud-first-policy

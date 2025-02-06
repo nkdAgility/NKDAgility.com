@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-12-03
 creator: Martin Hinshelwood
-id: "280"
 layout: blog
 resourceTypes: blog
 slug: the-new-clustermaps-neoworx

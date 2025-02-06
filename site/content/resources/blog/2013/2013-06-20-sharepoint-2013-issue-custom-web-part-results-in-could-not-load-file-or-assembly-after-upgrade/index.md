@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-06-20
 creator: Martin Hinshelwood
-id: "9905"
 layout: blog
 resourceTypes: blog
 slug: sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade

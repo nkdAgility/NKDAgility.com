@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-06-02
 creator: Martin Hinshelwood
-id: "3408"
 layout: blog
 resourceTypes: blog
 slug: creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-no-history

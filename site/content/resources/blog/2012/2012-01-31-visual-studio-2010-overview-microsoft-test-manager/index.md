@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-01-31
 creator: Martin Hinshelwood
-id: "4189"
 layout: blog
 resourceTypes: blog
 slug: visual-studio-2010-overview-microsoft-test-manager

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2019-10-21
 creator: Martin Hinshelwood
-id: "39960"
 layout: blog
 resourceTypes: blog
 slug: what-is-your-perspective-on-collocation

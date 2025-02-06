@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-05-18
 creator: Martin Hinshelwood
-id: "117"
 layout: blog
 resourceTypes: blog
 slug: multi-targeting-in-visual-studio-2010

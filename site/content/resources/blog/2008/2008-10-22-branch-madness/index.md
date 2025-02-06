@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-10-22
 creator: Martin Hinshelwood
-id: "186"
 layout: blog
 resourceTypes: blog
 slug: branch-madness

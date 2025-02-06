@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-11-02
 creator: Martin Hinshelwood
-id: "9096"
 layout: blog
 resourceTypes: blog
 slug: project-server-2013-issue-tf294003-cannot-access-the-following-pwa-instance

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-07-16
 creator: Martin Hinshelwood
-id: "101"
 layout: blog
 resourceTypes: blog
 slug: finding-features-conversations

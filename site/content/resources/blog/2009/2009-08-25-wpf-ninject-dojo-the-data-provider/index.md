@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-08-25
 creator: Martin Hinshelwood
-id: "88"
 layout: blog
 resourceTypes: blog
 slug: wpf-ninject-dojo-the-data-provider

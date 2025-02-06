@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-07-31
 creator: Martin Hinshelwood
-id: "6905"
 layout: blog
 resourceTypes: blog
 slug: upgrading-from-tfs-2008-to-tfs-2010-overview

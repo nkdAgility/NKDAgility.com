@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-04-01
 creator: Martin Hinshelwood
-id: "44208"
 layout: blog
 resourceTypes: blog
 slug: live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs

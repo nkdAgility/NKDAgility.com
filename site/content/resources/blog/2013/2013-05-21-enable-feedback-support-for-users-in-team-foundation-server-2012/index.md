@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-05-21
 creator: Martin Hinshelwood
-id: "9494"
 layout: blog
 resourceTypes: blog
 slug: enable-feedback-support-for-users-in-team-foundation-server-2012

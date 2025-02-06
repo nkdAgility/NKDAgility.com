@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-11-01
 creator: Martin Hinshelwood
-id: "175"
 layout: blog
 resourceTypes: blog
 slug: interview-with-my-favourite-author

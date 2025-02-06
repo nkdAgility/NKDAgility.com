@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-11-22
 creator: Martin Hinshelwood
-id: "4071"
 layout: blog
 resourceTypes: blog
 slug: always-prompted-for-credentials-in-tfs-2010

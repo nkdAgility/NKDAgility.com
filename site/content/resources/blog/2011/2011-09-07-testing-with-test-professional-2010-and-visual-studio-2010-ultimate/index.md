@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-09-07
 creator: Martin Hinshelwood
-id: "3776"
 layout: blog
 resourceTypes: blog
 slug: testing-with-test-professional-2010-and-visual-studio-2010-ultimate

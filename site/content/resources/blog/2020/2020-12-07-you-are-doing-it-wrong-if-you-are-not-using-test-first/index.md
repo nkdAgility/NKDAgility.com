@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2020-12-07
 AudioNative: true
 creator: Martin Hinshelwood
-id: "9469"
 layout: blog
 resourceTypes: blog
 slug: you-are-doing-it-wrong-if-you-are-not-using-test-first

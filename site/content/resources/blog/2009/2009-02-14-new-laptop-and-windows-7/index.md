@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-02-14
 creator: Martin Hinshelwood
-id: "139"
 layout: blog
 resourceTypes: blog
 slug: new-laptop-and-windows-7

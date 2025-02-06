@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-03-15
 creator: Martin Hinshelwood
-id: "428"
 layout: blog
 resourceTypes: blog
 slug: tfs-gotcha-sp1

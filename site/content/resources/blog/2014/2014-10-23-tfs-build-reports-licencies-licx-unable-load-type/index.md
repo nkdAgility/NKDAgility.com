@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-10-23
 creator: Martin Hinshelwood
-id: "10730"
 layout: blog
 resourceTypes: blog
 slug: tfs-build-reports-licencies-licx-unable-load-type

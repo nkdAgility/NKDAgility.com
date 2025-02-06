@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2016-10-27
 creator: Martin Hinshelwood
-id: "11642"
 layout: blog
 resourceTypes: blog
 slug: kalabule-or-a-professional-at-agile-in-africa

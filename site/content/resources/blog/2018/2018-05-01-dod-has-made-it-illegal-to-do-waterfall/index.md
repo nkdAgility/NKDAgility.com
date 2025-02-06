@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2018-05-01
 creator: Martin Hinshelwood
-id: "10204"
 layout: blog
 resourceTypes: blog
 slug: dod-has-made-it-illegal-to-do-waterfall

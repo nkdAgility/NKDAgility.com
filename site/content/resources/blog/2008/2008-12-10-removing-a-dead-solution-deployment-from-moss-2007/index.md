@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-12-10
 creator: Martin Hinshelwood
-id: "155"
 layout: blog
 resourceTypes: blog
 slug: removing-a-dead-solution-deployment-from-moss-2007

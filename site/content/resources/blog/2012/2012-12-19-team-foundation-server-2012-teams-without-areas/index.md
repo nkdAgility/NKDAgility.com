@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-12-19
 creator: Martin Hinshelwood
-id: "9188"
 layout: blog
 resourceTypes: blog
 slug: team-foundation-server-2012-teams-without-areas

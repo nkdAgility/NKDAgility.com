@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-06-23
 creator: Martin Hinshelwood
-id: "9910"
 layout: blog
 resourceTypes: blog
 slug: issue-tfs2012-2-tf30063-you-are-not-authorized-to-access

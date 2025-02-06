@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-13
 creator: Martin Hinshelwood
-id: "333"
 layout: blog
 resourceTypes: blog
 slug: a-new-day-a-new-week-a-new-team-server

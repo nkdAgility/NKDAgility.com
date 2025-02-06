@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-03-24
 creator: Martin Hinshelwood
-id: "432"
 layout: blog
 resourceTypes: blog
 slug: advanced-email-content-addendum

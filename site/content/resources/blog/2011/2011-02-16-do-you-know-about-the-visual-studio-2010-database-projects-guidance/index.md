@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-02-16
 creator: Martin Hinshelwood
-id: "9896"
 layout: blog
 resourceTypes: blog
 slug: do-you-know-about-the-visual-studio-2010-database-projects-guidance

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-10-15
 creator: Martin Hinshelwood
-id: "10209"
 layout: blog
 resourceTypes: blog
 slug: review-two-months-intel-haswell-harris-beach-sds-ultrabook

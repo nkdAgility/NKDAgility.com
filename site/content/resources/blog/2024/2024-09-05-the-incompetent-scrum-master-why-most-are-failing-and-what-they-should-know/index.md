@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2024-09-05
 AudioNative: true
 creator: Martin Hinshelwood
-id: "51730"
 layout: blog
 resourceTypes: blog
 slug: the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know

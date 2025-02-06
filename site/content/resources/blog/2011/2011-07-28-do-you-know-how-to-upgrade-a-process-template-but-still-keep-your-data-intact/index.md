@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-07-28
 creator: Martin Hinshelwood
-id: "3717"
 layout: blog
 resourceTypes: blog
 slug: do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact

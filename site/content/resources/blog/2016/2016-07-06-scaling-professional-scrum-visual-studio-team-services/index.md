@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2016-07-06
 creator: Martin Hinshelwood
-id: "11563"
 layout: blog
 resourceTypes: blog
 slug: scaling-professional-scrum-visual-studio-team-services

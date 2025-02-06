@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-11-19
 creator: Martin Hinshelwood
-id: "292"
 layout: blog
 resourceTypes: blog
 slug: rtm-confusion

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-01-25
 creator: Martin Hinshelwood
-id: "4223"
 layout: blog
 resourceTypes: blog
 slug: an-adoption-strategy-for-testing-with-visual-studio-2010

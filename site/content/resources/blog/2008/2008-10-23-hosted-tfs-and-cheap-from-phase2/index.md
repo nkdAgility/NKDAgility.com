@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-10-23
 creator: Martin Hinshelwood
-id: "183"
 layout: blog
 resourceTypes: blog
 slug: hosted-tfs-and-cheap-from-phase2

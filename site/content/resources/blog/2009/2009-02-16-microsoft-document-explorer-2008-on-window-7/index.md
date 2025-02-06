@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-02-16
 creator: Martin Hinshelwood
-id: "138"
 layout: blog
 resourceTypes: blog
 slug: microsoft-document-explorer-2008-on-window-7

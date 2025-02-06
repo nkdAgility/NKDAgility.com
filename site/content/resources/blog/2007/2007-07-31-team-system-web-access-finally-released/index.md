@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-07-31
 creator: Martin Hinshelwood
-id: "354"
 layout: blog
 resourceTypes: blog
 slug: team-system-web-access-finally-released

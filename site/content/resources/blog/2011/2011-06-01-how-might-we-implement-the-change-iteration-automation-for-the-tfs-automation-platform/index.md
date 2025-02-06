@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-06-01
 creator: Martin Hinshelwood
-id: "3383"
 layout: blog
 resourceTypes: blog
 slug: how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform

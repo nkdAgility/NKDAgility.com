@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-04-28
 creator: Martin Hinshelwood
-id: "48"
 layout: blog
 resourceTypes: blog
 slug: combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop

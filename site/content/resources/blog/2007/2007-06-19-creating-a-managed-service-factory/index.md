@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-06-19
 creator: Martin Hinshelwood
-id: "377"
 layout: blog
 resourceTypes: blog
 slug: creating-a-managed-service-factory

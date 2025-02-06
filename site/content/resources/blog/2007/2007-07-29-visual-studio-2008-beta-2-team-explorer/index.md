@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-07-29
 creator: Martin Hinshelwood
-id: "356"
 layout: blog
 resourceTypes: blog
 slug: visual-studio-2008-beta-2-team-explorer

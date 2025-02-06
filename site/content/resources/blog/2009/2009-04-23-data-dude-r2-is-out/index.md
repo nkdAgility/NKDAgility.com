@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-04-23
 creator: Martin Hinshelwood
-id: "130"
 layout: blog
 resourceTypes: blog
 slug: data-dude-r2-is-out

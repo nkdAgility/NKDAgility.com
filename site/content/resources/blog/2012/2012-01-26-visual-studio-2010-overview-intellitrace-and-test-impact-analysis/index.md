@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-01-26
 creator: Martin Hinshelwood
-id: "4140"
 layout: blog
 resourceTypes: blog
 slug: visual-studio-2010-overview-intellitrace-and-test-impact-analysis

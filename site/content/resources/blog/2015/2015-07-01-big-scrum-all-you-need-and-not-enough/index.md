@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-07-01
 creator: Martin Hinshelwood
-id: "11361"
 layout: blog
 resourceTypes: blog
 slug: big-scrum-all-you-need-and-not-enough

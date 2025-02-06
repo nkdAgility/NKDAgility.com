@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-10-13
 creator: Martin Hinshelwood
-id: "188"
 layout: blog
 resourceTypes: blog
 slug: sync-extension-for-listscollections-or-whatever

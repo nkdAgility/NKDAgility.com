@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-02-06
 creator: Martin Hinshelwood
-id: "436"
 layout: blog
 resourceTypes: blog
 slug: some-thoughts-on-net-3-0-from-linkedin

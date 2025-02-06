@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-10-17
 creator: Martin Hinshelwood
-id: "10214"
 layout: blog
 resourceTypes: blog
 slug: visual-studio-2013-and-tfs-2013-are-released-get-yours-now-oh-and-windows-8-1

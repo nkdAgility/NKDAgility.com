@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-06-01
 creator: Martin Hinshelwood
-id: "3361"
 layout: blog
 resourceTypes: blog
 slug: anatomy-of-an-automation-for-the-tfs-automation-platform

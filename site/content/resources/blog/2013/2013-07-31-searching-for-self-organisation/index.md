@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-31
 creator: Martin Hinshelwood
-id: "9741"
 layout: blog
 resourceTypes: blog
 slug: searching-for-self-organisation

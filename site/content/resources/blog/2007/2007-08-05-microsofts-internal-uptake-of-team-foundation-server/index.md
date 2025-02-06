@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-05
 creator: Martin Hinshelwood
-id: "343"
 layout: blog
 resourceTypes: blog
 slug: microsofts-internal-uptake-of-team-foundation-server

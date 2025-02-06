@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-01-30
 creator: Martin Hinshelwood
-id: "10351"
 layout: blog
 resourceTypes: blog
 slug: installing-release-management-server-tfs-2013

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-03-27
 creator: Martin Hinshelwood
-id: "44210"
 layout: blog
 resourceTypes: blog
 slug: live-webcast-qa-with-martin-hinshelwood-on-27th-march-2020

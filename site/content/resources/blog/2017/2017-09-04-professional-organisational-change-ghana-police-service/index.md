@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2017-09-04
 creator: Martin Hinshelwood
-id: "12011"
 layout: blog
 resourceTypes: blog
 slug: professional-organisational-change-ghana-police-service

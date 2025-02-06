@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-12-31
 creator: Martin Hinshelwood
-id: "272"
 layout: blog
 resourceTypes: blog
 slug: sharepoint-3-0-and-moss-2007-service-pack-1-update

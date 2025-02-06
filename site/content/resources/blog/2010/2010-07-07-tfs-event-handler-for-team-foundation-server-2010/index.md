@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-07-07
 creator: Martin Hinshelwood
-id: "33"
 layout: blog
 resourceTypes: blog
 slug: tfs-event-handler-for-team-foundation-server-2010

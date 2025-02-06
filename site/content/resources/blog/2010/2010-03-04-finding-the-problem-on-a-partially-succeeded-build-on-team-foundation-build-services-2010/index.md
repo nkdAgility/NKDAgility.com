@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-04
 creator: Martin Hinshelwood
-id: "66"
 layout: blog
 resourceTypes: blog
 slug: finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010

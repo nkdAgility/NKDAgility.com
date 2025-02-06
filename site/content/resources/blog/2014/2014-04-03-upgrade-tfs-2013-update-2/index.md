@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-04-03
 creator: Martin Hinshelwood
-id: "10479"
 layout: blog
 resourceTypes: blog
 slug: upgrade-tfs-2013-update-2

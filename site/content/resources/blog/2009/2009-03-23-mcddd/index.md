@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-03-23
 creator: Martin Hinshelwood
-id: "134"
 layout: blog
 resourceTypes: blog
 slug: mcddd

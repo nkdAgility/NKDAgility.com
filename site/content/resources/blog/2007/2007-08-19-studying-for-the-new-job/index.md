@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-19
 creator: Martin Hinshelwood
-id: "330"
 layout: blog
 resourceTypes: blog
 slug: studying-for-the-new-job

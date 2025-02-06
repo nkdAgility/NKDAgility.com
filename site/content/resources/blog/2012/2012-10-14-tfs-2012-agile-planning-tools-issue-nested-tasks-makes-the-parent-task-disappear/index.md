@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-10-14
 creator: Martin Hinshelwood
-id: "8936"
 layout: blog
 resourceTypes: blog
 slug: tfs-2012-agile-planning-tools-issue-nested-tasks-makes-the-parent-task-disappear

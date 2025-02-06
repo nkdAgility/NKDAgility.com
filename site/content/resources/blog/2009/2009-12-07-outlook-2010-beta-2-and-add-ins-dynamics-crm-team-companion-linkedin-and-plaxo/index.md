@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-12-07
 creator: Martin Hinshelwood
-id: "76"
 layout: blog
 resourceTypes: blog
 slug: outlook-2010-beta-2-and-add-ins-dynamics-crm-team-companion-linkedin-and-plaxo

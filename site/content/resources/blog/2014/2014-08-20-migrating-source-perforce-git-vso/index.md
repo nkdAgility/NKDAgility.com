@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-08-20
 creator: Martin Hinshelwood
-id: "10677"
 layout: blog
 resourceTypes: blog
 slug: migrating-source-perforce-git-vso

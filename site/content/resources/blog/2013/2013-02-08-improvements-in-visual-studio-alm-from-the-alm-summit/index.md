@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-02-08
 creator: Martin Hinshelwood
-id: "9239"
 layout: blog
 resourceTypes: blog
 slug: improvements-in-visual-studio-alm-from-the-alm-summit

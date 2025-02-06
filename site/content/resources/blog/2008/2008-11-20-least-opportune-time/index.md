@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-11-20
 creator: Martin Hinshelwood
-id: "163"
 layout: blog
 resourceTypes: blog
 slug: least-opportune-time

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-10-08
 creator: Martin Hinshelwood
-id: "23"
 layout: blog
 resourceTypes: blog
 slug: syncing-many-dynamics-ax-instances-to-a-single-tfs-2010-team-project

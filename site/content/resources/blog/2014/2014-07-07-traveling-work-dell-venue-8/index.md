@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-07-07
 creator: Martin Hinshelwood
-id: "10645"
 layout: blog
 resourceTypes: blog
 slug: traveling-work-dell-venue-8

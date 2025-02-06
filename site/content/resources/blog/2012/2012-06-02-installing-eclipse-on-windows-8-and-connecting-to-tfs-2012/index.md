@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-06-02
 creator: Martin Hinshelwood
-id: "5415"
 layout: blog
 resourceTypes: blog
 slug: installing-eclipse-on-windows-8-and-connecting-to-tfs-2012

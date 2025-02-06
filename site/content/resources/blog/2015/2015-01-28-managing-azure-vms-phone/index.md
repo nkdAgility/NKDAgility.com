@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-01-28
 creator: Martin Hinshelwood
-id: "11152"
 layout: blog
 resourceTypes: blog
 slug: managing-azure-vms-phone

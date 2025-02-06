@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-02-12
 creator: Martin Hinshelwood
-id: "4309"
 layout: blog
 resourceTypes: blog
 slug: tf200035-sync-error-for-identity-with-tfs-2010

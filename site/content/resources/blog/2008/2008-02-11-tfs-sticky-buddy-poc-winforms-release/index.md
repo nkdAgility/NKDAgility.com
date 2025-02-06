@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-02-11
 creator: Martin Hinshelwood
-id: "248"
 layout: blog
 resourceTypes: blog
 slug: tfs-sticky-buddy-poc-winforms-release

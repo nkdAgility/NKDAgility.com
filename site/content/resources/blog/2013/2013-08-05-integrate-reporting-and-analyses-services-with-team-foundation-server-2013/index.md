@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-08-05
 creator: Martin Hinshelwood
-id: "9875"
 layout: blog
 resourceTypes: blog
 slug: integrate-reporting-and-analyses-services-with-team-foundation-server-2013

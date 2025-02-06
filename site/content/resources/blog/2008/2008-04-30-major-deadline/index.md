@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-04-30
 creator: Martin Hinshelwood
-id: "233"
 layout: blog
 resourceTypes: blog
 slug: major-deadline

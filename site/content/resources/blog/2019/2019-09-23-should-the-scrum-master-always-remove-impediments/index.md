@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2019-09-23
 creator: Martin Hinshelwood
-id: "39856"
 layout: blog
 resourceTypes: blog
 slug: should-the-scrum-master-always-remove-impediments

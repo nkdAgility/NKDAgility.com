@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-05-26
 creator: Martin Hinshelwood
-id: "41"
 layout: blog
 resourceTypes: blog
 slug: kaiden-and-the-arachnoid-cyst

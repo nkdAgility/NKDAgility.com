@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-23
 creator: Martin Hinshelwood
-id: "7610"
 layout: blog
 resourceTypes: blog
 slug: i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools-now-what

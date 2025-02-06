@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-07-07
 creator: Martin Hinshelwood
-id: "32"
 layout: blog
 resourceTypes: blog
 slug: active-directory-groups-not-syncing-with-team-foundation-server-2010

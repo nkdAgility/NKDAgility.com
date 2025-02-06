@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-11
 creator: Martin Hinshelwood
-id: "9749"
 layout: blog
 resourceTypes: blog
 slug: issue-tfs-2013-inrelease-you-get-tf400324-when-connecting-inrelease-to-tfs

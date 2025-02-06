@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-05-21
 creator: Martin Hinshelwood
-id: "222"
 layout: blog
 resourceTypes: blog
 slug: sharepoint-solutions-rant

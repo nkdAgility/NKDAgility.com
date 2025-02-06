@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-12-13
 creator: Martin Hinshelwood
-id: "275"
 layout: blog
 resourceTypes: blog
 slug: installing-windows-sharepoint-services-3-0-service-pack-1-sp1

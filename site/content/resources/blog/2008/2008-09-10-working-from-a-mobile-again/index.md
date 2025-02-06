@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-09-10
 creator: Martin Hinshelwood
-id: "196"
 layout: blog
 resourceTypes: blog
 slug: working-from-a-mobile-again

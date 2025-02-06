@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-06
 creator: Martin Hinshelwood
-id: "340"
 layout: blog
 resourceTypes: blog
 slug: why-i-think-vb-net-is-a-better-choice-than-c

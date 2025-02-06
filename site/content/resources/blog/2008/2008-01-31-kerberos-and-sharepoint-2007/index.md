@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-01-31
 creator: Martin Hinshelwood
-id: "254"
 layout: blog
 resourceTypes: blog
 slug: kerberos-and-sharepoint-2007

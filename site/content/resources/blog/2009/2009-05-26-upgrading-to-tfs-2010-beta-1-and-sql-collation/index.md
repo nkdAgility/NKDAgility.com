@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-05-26
 creator: Martin Hinshelwood
-id: "109"
 layout: blog
 resourceTypes: blog
 slug: upgrading-to-tfs-2010-beta-1-and-sql-collation

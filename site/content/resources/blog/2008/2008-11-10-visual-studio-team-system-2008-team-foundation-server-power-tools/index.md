@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-11-10
 creator: Martin Hinshelwood
-id: "172"
 layout: blog
 resourceTypes: blog
 slug: visual-studio-team-system-2008-team-foundation-server-power-tools

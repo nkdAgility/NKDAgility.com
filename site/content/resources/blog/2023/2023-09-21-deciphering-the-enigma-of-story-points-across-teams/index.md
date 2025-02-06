@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2023-09-21
 AudioNative: true
 creator: Martin Hinshelwood
-id: "49888"
 layout: blog
 resourceTypes: blog
 slug: deciphering-the-enigma-of-story-points-across-teams

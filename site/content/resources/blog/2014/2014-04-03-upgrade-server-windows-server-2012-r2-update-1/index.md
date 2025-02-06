@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-04-03
 creator: Martin Hinshelwood
-id: "10472"
 layout: blog
 resourceTypes: blog
 slug: upgrade-server-windows-server-2012-r2-update-1

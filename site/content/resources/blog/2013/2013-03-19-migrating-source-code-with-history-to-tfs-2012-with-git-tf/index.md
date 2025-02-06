@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-03-19
 creator: Martin Hinshelwood
-id: "9313"
 layout: blog
 resourceTypes: blog
 slug: migrating-source-code-with-history-to-tfs-2012-with-git-tf

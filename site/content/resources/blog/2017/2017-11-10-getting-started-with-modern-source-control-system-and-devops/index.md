@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2017-11-10
 AudioNative: true
 creator: Martin Hinshelwood
-id: "11456"
 layout: blog
 resourceTypes: blog
 slug: getting-started-with-modern-source-control-system-and-devops

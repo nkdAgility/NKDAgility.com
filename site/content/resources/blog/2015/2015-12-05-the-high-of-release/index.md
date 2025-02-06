@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-12-05
 creator: Martin Hinshelwood
-id: "11398"
 layout: blog
 resourceTypes: blog
 slug: the-high-of-release

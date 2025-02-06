@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-01-18
 creator: Martin Hinshelwood
-id: "263"
 layout: blog
 resourceTypes: blog
 slug: get-your-twitter-feed-as-a-badge-on-your-email

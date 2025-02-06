@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-01-09
 creator: Martin Hinshelwood
-id: "72"
 layout: blog
 resourceTypes: blog
 slug: solution-iis-smtp-service-5-5-2-rejected-need-fully-qualified-hostname

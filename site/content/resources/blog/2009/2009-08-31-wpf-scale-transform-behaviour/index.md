@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-08-31
 creator: Martin Hinshelwood
-id: "87"
 layout: blog
 resourceTypes: blog
 slug: wpf-scale-transform-behaviour

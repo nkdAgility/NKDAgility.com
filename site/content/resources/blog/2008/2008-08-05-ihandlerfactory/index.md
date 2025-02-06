@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-08-05
 creator: Martin Hinshelwood
-id: "214"
 layout: blog
 resourceTypes: blog
 slug: ihandlerfactory

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-07-19
 creator: Martin Hinshelwood
-id: "367"
 layout: blog
 resourceTypes: blog
 slug: loosing-the-battle-but-the-war-goes-on

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-12-29
 creator: Martin Hinshelwood
-id: "4104"
 layout: blog
 resourceTypes: blog
 slug: ssrs-vs-scvmm-the-kerberos-token-dispute

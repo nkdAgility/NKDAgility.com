@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-04-30
 creator: Martin Hinshelwood
-id: "11317"
 layout: blog
 resourceTypes: blog
 slug: how-to-rename-a-team-project-in-tfs-2015

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2006-08-01
 creator: Martin Hinshelwood
-id: "465"
 layout: blog
 resourceTypes: blog
 slug: cafemsn-prize

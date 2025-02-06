@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-02-04
 creator: Martin Hinshelwood
-id: "11115"
 layout: blog
 resourceTypes: blog
 slug: journey-professional-scrum

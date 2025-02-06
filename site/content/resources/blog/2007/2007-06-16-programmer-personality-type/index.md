@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-06-16
 creator: Martin Hinshelwood
-id: "382"
 layout: blog
 resourceTypes: blog
 slug: programmer-personality-type

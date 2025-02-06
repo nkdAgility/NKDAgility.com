@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2024-04-17
 AudioNative: true
 creator: Martin Hinshelwood
-id: "51389"
 layout: blog
 resourceTypes: blog
 slug: you-cant-stop-the-signal-but-you-can-ignore-it

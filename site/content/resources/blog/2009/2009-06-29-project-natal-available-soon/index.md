@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-06-29
 creator: Martin Hinshelwood
-id: "106"
 layout: blog
 resourceTypes: blog
 slug: project-natal-available-soon

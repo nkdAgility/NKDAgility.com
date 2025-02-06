@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-10-16
 creator: Martin Hinshelwood
-id: "10151"
 layout: blog
 resourceTypes: blog
 slug: powershell-tfs-2013-api-2-adding-to-a-globallist

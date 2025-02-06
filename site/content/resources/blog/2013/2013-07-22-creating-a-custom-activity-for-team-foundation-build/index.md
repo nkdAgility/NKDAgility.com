@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-22
 creator: Martin Hinshelwood
-id: "9769"
 layout: blog
 resourceTypes: blog
 slug: creating-a-custom-activity-for-team-foundation-build

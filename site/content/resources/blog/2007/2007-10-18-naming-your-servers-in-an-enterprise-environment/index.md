@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-10-18
 creator: Martin Hinshelwood
-id: "299"
 layout: blog
 resourceTypes: blog
 slug: naming-your-servers-in-an-enterprise-environment

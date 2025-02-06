@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-04-07
 creator: Martin Hinshelwood
-id: "10482"
 layout: blog
 resourceTypes: blog
 slug: professional-application-lifecycle-management-visual-studio-2013

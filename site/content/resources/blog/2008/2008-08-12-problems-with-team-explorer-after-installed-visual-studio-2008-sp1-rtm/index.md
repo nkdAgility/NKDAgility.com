@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-08-12
 creator: Martin Hinshelwood
-id: "210"
 layout: blog
 resourceTypes: blog
 slug: problems-with-team-explorer-after-installed-visual-studio-2008-sp1-rtm

@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2020-12-17
 AudioNative: true
 creator: Martin Hinshelwood
-id: "38243"
 layout: blog
 resourceTypes: blog
 slug: backlog-not-refined-wrong

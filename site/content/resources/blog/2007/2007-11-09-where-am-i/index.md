@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-11-09
 creator: Martin Hinshelwood
-id: "294"
 layout: blog
 resourceTypes: blog
 slug: where-am-i

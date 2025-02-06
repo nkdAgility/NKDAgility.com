@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-12-13
 creator: Martin Hinshelwood
-id: "276"
 layout: blog
 resourceTypes: blog
 slug: installing-the-2007-microsoft-office-servers-service-pack-1-sp1-again

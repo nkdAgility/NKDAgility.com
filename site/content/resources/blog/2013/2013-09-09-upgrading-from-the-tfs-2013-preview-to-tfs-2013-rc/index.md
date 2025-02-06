@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-09-09
 creator: Martin Hinshelwood
-id: "10041"
 layout: blog
 resourceTypes: blog
 slug: upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc

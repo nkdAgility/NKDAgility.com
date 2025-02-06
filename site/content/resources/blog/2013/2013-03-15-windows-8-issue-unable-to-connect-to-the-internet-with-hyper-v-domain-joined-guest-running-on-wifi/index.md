@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-03-15
 creator: Martin Hinshelwood
-id: "9281"
 layout: blog
 resourceTypes: blog
 slug: windows-8-issue-unable-to-connect-to-the-internet-with-hyper-v-domain-joined-guest-running-on-wifi

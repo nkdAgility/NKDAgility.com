@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-05-18
 creator: Martin Hinshelwood
-id: "121"
 layout: blog
 resourceTypes: blog
 slug: visual-studio-team-system-2010-beta-1-ships

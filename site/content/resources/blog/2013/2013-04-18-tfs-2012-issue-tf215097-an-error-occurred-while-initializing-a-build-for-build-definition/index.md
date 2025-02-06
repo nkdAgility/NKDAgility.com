@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-04-18
 creator: Martin Hinshelwood
-id: "9446"
 layout: blog
 resourceTypes: blog
 slug: tfs-2012-issue-tf215097-an-error-occurred-while-initializing-a-build-for-build-definition

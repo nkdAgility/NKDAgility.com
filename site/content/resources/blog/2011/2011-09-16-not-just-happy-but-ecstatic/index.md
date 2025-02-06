@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-09-16
 creator: Martin Hinshelwood
-id: "3783"
 layout: blog
 resourceTypes: blog
 slug: not-just-happy-but-ecstatic

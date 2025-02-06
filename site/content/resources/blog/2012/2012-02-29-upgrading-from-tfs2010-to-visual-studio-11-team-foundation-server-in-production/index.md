@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-02-29
 creator: Martin Hinshelwood
-id: "4709"
 layout: blog
 resourceTypes: blog
 slug: upgrading-from-tfs2010-to-visual-studio-11-team-foundation-server-in-production

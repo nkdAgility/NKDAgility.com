@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2006-06-22
 creator: Martin Hinshelwood
-id: "467"
 layout: blog
 resourceTypes: blog
 slug: hinshelm-on-composite-ui-application-block

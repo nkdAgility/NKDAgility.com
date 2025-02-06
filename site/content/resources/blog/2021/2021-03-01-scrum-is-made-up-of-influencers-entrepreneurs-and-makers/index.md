@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2021-03-01
 AudioNative: true
 creator: Martin Hinshelwood
-id: "45946"
 layout: blog
 resourceTypes: blog
 slug: scrum-is-made-up-of-influencers-entrepreneurs-and-makers

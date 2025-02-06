@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-02-25
 creator: Martin Hinshelwood
-id: "10367"
 layout: blog
 resourceTypes: blog
 slug: metrics-that-matter-with-evidence-based-management

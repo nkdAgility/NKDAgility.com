@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-11-27
 creator: Martin Hinshelwood
-id: "286"
 layout: blog
 resourceTypes: blog
 slug: mozy-backup-space-gathering-update

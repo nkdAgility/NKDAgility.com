@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-03-20
 creator: Martin Hinshelwood
-id: "10446"
 layout: blog
 resourceTypes: blog
 slug: what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-11-29
 creator: Martin Hinshelwood
-id: "4092"
 layout: blog
 resourceTypes: blog
 slug: the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery

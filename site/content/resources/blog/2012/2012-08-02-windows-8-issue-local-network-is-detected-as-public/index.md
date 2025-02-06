@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-02
 creator: Martin Hinshelwood
-id: "6924"
 layout: blog
 resourceTypes: blog
 slug: windows-8-issue-local-network-is-detected-as-public

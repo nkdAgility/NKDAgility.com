@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-01-30
 creator: Martin Hinshelwood
-id: "441"
 layout: blog
 resourceTypes: blog
 slug: small-new-business-websites

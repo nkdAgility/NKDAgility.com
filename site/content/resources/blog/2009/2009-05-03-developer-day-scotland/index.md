@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-05-03
 creator: Martin Hinshelwood
-id: "125"
 layout: blog
 resourceTypes: blog
 slug: developer-day-scotland

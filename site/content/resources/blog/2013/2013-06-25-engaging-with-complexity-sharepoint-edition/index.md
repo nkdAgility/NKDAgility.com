@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-06-25
 creator: Martin Hinshelwood
-id: "9909"
 layout: blog
 resourceTypes: blog
 slug: engaging-with-complexity-sharepoint-edition

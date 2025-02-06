@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2023-07-06
 AudioNative: true
 creator: Martin Hinshelwood
-id: "49490"
 layout: blog
 resourceTypes: blog
 slug: a-titanic-misfit-the-alpha-organizations-wasteful-endeavor-in-red-markets

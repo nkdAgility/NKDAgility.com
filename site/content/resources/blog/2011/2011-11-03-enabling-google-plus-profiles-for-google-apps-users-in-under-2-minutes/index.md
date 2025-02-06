@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-11-03
 creator: Martin Hinshelwood
-id: "4016"
 layout: blog
 resourceTypes: blog
 slug: enabling-google-plus-profiles-for-google-apps-users-in-under-2-minutes

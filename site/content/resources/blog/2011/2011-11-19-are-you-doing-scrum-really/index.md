@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-11-19
 creator: Martin Hinshelwood
-id: "4049"
 layout: blog
 resourceTypes: blog
 slug: are-you-doing-scrum-really

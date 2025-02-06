@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-03-30
 creator: Martin Hinshelwood
-id: "5061"
 layout: blog
 resourceTypes: blog
 slug: tfs-field-annotator

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-09
 creator: Martin Hinshelwood
-id: "64"
 layout: blog
 resourceTypes: blog
 slug: when-should-i-use-areas-in-tfs-instead-of-team-projects-in-team-foundation-server-2010

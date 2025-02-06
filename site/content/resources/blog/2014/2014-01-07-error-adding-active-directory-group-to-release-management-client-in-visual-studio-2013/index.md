@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-01-07
 creator: Martin Hinshelwood
-id: "10316"
 layout: blog
 resourceTypes: blog
 slug: error-adding-active-directory-group-to-release-management-client-in-visual-studio-2013

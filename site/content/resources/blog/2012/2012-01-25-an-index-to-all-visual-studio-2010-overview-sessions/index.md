@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-01-25
 creator: Martin Hinshelwood
-id: "4128"
 layout: blog
 resourceTypes: blog
 slug: an-index-to-all-visual-studio-2010-overview-sessions

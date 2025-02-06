@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-11-26
 creator: Martin Hinshelwood
-id: "10878"
 layout: blog
 resourceTypes: blog
 slug: configure-a-dns-server-for-an-azure-virtual-network

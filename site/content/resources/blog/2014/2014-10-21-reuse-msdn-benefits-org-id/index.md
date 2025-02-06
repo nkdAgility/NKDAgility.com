@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-10-21
 creator: Martin Hinshelwood
-id: "10786"
 layout: blog
 resourceTypes: blog
 slug: reuse-msdn-benefits-org-id

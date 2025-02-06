@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-12-15
 creator: Martin Hinshelwood
-id: "151"
 layout: blog
 resourceTypes: blog
 slug: microsoft-answer-for-the-end-user

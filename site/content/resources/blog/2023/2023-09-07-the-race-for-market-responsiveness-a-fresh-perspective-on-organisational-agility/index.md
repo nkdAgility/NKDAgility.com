@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2023-09-07
 AudioNative: true
 creator: Martin Hinshelwood
-id: "49732"
 layout: blog
 resourceTypes: blog
 slug: the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility

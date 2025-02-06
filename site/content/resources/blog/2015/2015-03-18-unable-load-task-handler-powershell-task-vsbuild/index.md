@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-03-18
 creator: Martin Hinshelwood
-id: "11097"
 layout: blog
 resourceTypes: blog
 slug: unable-load-task-handler-powershell-task-vsbuild

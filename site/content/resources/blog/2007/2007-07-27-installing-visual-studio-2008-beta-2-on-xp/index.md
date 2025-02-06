@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-07-27
 creator: Martin Hinshelwood
-id: "358"
 layout: blog
 resourceTypes: blog
 slug: installing-visual-studio-2008-beta-2-on-xp

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-03-17
 creator: Martin Hinshelwood
-id: "11241"
 layout: blog
 resourceTypes: blog
 slug: its-that-time-again-get-ready-to-upgrade-to-tfs-2015

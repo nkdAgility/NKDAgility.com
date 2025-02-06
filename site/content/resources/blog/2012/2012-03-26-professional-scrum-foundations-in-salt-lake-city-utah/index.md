@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-03-26
 creator: Martin Hinshelwood
-id: "4980"
 layout: blog
 resourceTypes: blog
 slug: professional-scrum-foundations-in-salt-lake-city-utah

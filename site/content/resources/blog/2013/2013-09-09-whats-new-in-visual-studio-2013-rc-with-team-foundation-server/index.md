@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-09-09
 creator: Martin Hinshelwood
-id: "10019"
 layout: blog
 resourceTypes: blog
 slug: whats-new-in-visual-studio-2013-rc-with-team-foundation-server

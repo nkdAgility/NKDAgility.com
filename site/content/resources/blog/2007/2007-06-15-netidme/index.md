@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-06-15
 creator: Martin Hinshelwood
-id: "384"
 layout: blog
 resourceTypes: blog
 slug: netidme

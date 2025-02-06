@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2023-09-27
 AudioNative: true
 creator: Martin Hinshelwood
-id: "50083"
 layout: blog
 resourceTypes: blog
 slug: the-definition-of-done-ensuring-quality-without-compromising-value

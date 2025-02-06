@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2023-08-24
 AudioNative: true
 creator: Martin Hinshelwood
-id: "49523"
 layout: blog
 resourceTypes: blog
 slug: sculpting-the-product-backlog-a-delicate-balance-between-lean-inventory-and-future-readiness

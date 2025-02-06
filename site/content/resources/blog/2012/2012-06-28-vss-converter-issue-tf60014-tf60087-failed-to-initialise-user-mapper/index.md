@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-06-28
 creator: Martin Hinshelwood
-id: "6124"
 layout: blog
 resourceTypes: blog
 slug: vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper

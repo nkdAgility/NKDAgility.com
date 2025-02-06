@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-05-03
 creator: Martin Hinshelwood
-id: "124"
 layout: blog
 resourceTypes: blog
 slug: the-hinshelwood-family-portrait

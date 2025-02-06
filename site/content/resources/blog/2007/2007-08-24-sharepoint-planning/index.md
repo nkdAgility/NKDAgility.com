@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-24
 creator: Martin Hinshelwood
-id: "320"
 layout: blog
 resourceTypes: blog
 slug: sharepoint-planning

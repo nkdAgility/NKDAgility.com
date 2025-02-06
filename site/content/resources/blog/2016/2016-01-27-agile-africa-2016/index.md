@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2016-01-27
 creator: Martin Hinshelwood
-id: "11450"
 layout: blog
 resourceTypes: blog
 slug: agile-africa-2016

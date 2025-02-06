@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-10-07
 creator: Martin Hinshelwood
-id: "10800"
 layout: blog
 resourceTypes: blog
 slug: bruce-lee-on-scrum-and-agile

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-03-17
 creator: Martin Hinshelwood
-id: "9308"
 layout: blog
 resourceTypes: blog
 slug: standard-environments-for-automated-deployment-and-testing

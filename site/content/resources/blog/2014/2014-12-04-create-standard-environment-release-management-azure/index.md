@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-12-04
 creator: Martin Hinshelwood
-id: "10923"
 layout: blog
 resourceTypes: blog
 slug: create-standard-environment-release-management-azure

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-02-17
 creator: Martin Hinshelwood
-id: "137"
 layout: blog
 resourceTypes: blog
 slug: head-first-design-patterns

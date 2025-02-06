@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-02
 creator: Martin Hinshelwood
-id: "6914"
 layout: blog
 resourceTypes: blog
 slug: green-to-orangejoining-the-vsip-team-as-a-technical-product-manager

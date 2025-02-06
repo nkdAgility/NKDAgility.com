@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2023-12-14
 AudioNative: true
 creator: Martin Hinshelwood
-id: "50979"
 layout: blog
 resourceTypes: blog
 slug: the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar

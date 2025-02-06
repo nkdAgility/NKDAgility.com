@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-10-25
 creator: Martin Hinshelwood
-id: "3831"
 layout: blog
 resourceTypes: blog
 slug: scrum-with-dev11-creating-a-scrum-team-identity

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-04-02
 creator: Martin Hinshelwood
-id: "5112"
 layout: blog
 resourceTypes: blog
 slug: unit-testing-against-the-team-foundation-server-2012-api

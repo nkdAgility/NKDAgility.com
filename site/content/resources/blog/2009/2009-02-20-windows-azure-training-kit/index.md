@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-02-20
 creator: Martin Hinshelwood
-id: "136"
 layout: blog
 resourceTypes: blog
 slug: windows-azure-training-kit

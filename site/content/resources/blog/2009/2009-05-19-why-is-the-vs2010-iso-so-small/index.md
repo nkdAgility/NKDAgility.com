@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-05-19
 creator: Martin Hinshelwood
-id: "114"
 layout: blog
 resourceTypes: blog
 slug: why-is-the-vs2010-iso-so-small

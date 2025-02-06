@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-04-17
 creator: Martin Hinshelwood
-id: "238"
 layout: blog
 resourceTypes: blog
 slug: tfs-stick-buddy-v0-4-0-ctp2-released

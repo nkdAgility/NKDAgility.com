@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-09-11
 creator: Martin Hinshelwood
-id: "8715"
 layout: blog
 resourceTypes: blog
 slug: get-a-free-team-companion-licence-for-visual-studio-2012-launch

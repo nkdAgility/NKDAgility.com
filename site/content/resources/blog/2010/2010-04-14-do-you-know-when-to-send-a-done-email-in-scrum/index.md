@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-04-14
 creator: Martin Hinshelwood
-id: "51"
 layout: blog
 resourceTypes: blog
 slug: do-you-know-when-to-send-a-done-email-in-scrum

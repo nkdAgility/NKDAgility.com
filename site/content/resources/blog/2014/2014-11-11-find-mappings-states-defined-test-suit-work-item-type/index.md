@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-11-11
 creator: Martin Hinshelwood
-id: "10899"
 layout: blog
 resourceTypes: blog
 slug: find-mappings-states-defined-test-suit-work-item-type

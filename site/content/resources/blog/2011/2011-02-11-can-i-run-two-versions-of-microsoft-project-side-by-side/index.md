@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2011-02-11
 creator: Martin Hinshelwood
-id: "13"
 layout: blog
 resourceTypes: blog
 slug: can-i-run-two-versions-of-microsoft-project-side-by-side

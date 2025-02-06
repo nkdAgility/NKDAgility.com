@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-10-09
 creator: Martin Hinshelwood
-id: "10734"
 layout: blog
 resourceTypes: blog
 slug: bug-visual-studio-git-integration-results-merge-conflict

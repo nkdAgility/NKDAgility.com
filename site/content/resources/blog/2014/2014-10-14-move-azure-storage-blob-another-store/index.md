@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-10-14
 creator: Martin Hinshelwood
-id: "10778"
 layout: blog
 resourceTypes: blog
 slug: move-azure-storage-blob-another-store

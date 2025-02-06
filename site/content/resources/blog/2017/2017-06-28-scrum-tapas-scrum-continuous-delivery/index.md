@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2017-06-28
 creator: Martin Hinshelwood
-id: "11946"
 layout: blog
 resourceTypes: blog
 slug: scrum-tapas-scrum-continuous-delivery

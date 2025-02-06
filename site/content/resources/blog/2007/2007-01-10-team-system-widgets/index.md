@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-01-10
 creator: Martin Hinshelwood
-id: "445"
 layout: blog
 resourceTypes: blog
 slug: team-system-widgets

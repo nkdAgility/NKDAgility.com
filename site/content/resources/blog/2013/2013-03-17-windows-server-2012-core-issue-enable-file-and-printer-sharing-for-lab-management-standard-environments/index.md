@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-03-17
 creator: Martin Hinshelwood
-id: "9288"
 layout: blog
 resourceTypes: blog
 slug: windows-server-2012-core-issue-enable-file-and-printer-sharing-for-lab-management-standard-environments

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-09-17
 creator: Martin Hinshelwood
-id: "10006"
 layout: blog
 resourceTypes: blog
 slug: issue-tfs-2013-tf255466-previous-update-installation-requires-restart

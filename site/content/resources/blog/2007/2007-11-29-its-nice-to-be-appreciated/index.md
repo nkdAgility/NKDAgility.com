@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-11-29
 creator: Martin Hinshelwood
-id: "283"
 layout: blog
 resourceTypes: blog
 slug: its-nice-to-be-appreciated

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2016-01-13
 creator: Martin Hinshelwood
-id: "11424"
 layout: blog
 resourceTypes: blog
 slug: branch-policies-tfvc

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-03-10
 creator: Martin Hinshelwood
-id: "9255"
 layout: blog
 resourceTypes: blog
 slug: windows-server-2012-core-for-dummies

@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2018-01-16
 AudioNative: true
 creator: Martin Hinshelwood
-id: "38287"
 layout: blog
 resourceTypes: blog
 slug: professional-scrum-everyone-organisation

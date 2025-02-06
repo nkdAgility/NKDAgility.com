@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-07-13
 creator: Martin Hinshelwood
-id: "9876"
 layout: blog
 resourceTypes: blog
 slug: the-fallacy-of-the-rejected-backlog-item

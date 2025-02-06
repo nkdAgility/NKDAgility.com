@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-09-09
 creator: Martin Hinshelwood
-id: "27"
 layout: blog
 resourceTypes: blog
 slug: how-to-deal-with-a-stuck-or-infinitely-queued-build

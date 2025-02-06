@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2006-11-20
 creator: Martin Hinshelwood
-id: "461"
 layout: blog
 resourceTypes: blog
 slug: installing-visual-studio-2005-on-windows-vista

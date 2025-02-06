@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-07-27
 creator: Martin Hinshelwood
-id: "96"
 layout: blog
 resourceTypes: blog
 slug: a-perfect-match-tfs-and-dlr

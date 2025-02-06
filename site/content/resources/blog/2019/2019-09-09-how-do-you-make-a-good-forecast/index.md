@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2019-09-09
 creator: Martin Hinshelwood
-id: "39852"
 layout: blog
 resourceTypes: blog
 slug: how-do-you-make-a-good-forecast

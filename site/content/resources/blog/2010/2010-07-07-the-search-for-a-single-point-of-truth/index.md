@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-07-07
 creator: Martin Hinshelwood
-id: "34"
 layout: blog
 resourceTypes: blog
 slug: the-search-for-a-single-point-of-truth

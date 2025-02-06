@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-08-14
 creator: Martin Hinshelwood
-id: "92"
 layout: blog
 resourceTypes: blog
 slug: wpf-drag-drop-behaviour

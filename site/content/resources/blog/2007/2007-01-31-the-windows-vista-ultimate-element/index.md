@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-01-31
 creator: Martin Hinshelwood
-id: "438"
 layout: blog
 resourceTypes: blog
 slug: the-windows-vista-ultimate-element

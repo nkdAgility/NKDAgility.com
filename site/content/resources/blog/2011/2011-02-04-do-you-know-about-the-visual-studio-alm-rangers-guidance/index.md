@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2011-02-04
 creator: Martin Hinshelwood
-id: "15"
 layout: blog
 resourceTypes: blog
 slug: do-you-know-about-the-visual-studio-alm-rangers-guidance

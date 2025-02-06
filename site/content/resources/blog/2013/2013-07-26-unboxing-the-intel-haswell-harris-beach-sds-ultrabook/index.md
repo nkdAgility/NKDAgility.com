@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-26
 creator: Martin Hinshelwood
-id: "9918"
 layout: blog
 resourceTypes: blog
 slug: unboxing-the-intel-haswell-harris-beach-sds-ultrabook

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-05-21
 creator: Martin Hinshelwood
-id: "10538"
 layout: blog
 resourceTypes: blog
 slug: mask-password-in-jenkins-when-calling-tee

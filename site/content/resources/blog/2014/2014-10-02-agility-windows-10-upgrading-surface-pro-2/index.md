@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-10-02
 creator: Martin Hinshelwood
-id: "10746"
 layout: blog
 resourceTypes: blog
 slug: agility-windows-10-upgrading-surface-pro-2

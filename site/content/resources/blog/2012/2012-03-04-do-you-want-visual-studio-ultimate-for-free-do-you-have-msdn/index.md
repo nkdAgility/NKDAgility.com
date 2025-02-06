@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-03-04
 creator: Martin Hinshelwood
-id: "4828"
 layout: blog
 resourceTypes: blog
 slug: do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-11-24
 creator: Martin Hinshelwood
-id: "10907"
 layout: blog
 resourceTypes: blog
 slug: microsoft-surface-3-unable-boot-usb

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-12-11
 creator: Martin Hinshelwood
-id: "10301"
 layout: blog
 resourceTypes: blog
 slug: professional-scrum-immingham-uk

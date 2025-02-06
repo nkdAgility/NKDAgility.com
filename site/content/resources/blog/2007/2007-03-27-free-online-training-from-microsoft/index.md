@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-03-27
 creator: Martin Hinshelwood
-id: "423"
 layout: blog
 resourceTypes: blog
 slug: free-online-training-from-microsoft

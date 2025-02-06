@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-05-23
 creator: Martin Hinshelwood
-id: "9901"
 layout: blog
 resourceTypes: blog
 slug: remote-execute-powershell-against-each-windows-8-vm

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-11-02
 creator: Martin Hinshelwood
-id: "80"
 layout: blog
 resourceTypes: blog
 slug: dyslexia-awareness-week

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-09-18
 creator: Martin Hinshelwood
-id: "8781"
 layout: blog
 resourceTypes: blog
 slug: tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type

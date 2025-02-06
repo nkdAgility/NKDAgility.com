@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2006-06-22
 creator: Martin Hinshelwood
-id: "466"
 layout: blog
 resourceTypes: blog
 slug: custom-ui-colour-scheme-for-windows-forms-net

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-06-11
 creator: Martin Hinshelwood
-id: "10558"
 layout: blog
 resourceTypes: blog
 slug: tfs-process-template-migration-script-updated

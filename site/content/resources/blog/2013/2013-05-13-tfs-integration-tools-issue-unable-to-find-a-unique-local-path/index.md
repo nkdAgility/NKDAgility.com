@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-05-13
 creator: Martin Hinshelwood
-id: "9495"
 layout: blog
 resourceTypes: blog
 slug: tfs-integration-tools-issue-unable-to-find-a-unique-local-path

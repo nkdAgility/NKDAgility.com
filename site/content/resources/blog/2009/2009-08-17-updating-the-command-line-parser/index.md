@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-08-17
 creator: Martin Hinshelwood
-id: "91"
 layout: blog
 resourceTypes: blog
 slug: updating-the-command-line-parser

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-06-07
 creator: Martin Hinshelwood
-id: "387"
 layout: blog
 resourceTypes: blog
 slug: microsoft-surface-wow

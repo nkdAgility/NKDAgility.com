@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-05-02
 creator: Martin Hinshelwood
-id: "406"
 layout: blog
 resourceTypes: blog
 slug: tfs-event-handler-coverage-comments

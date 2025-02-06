@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-04-24
 creator: Martin Hinshelwood
-id: "415"
 layout: blog
 resourceTypes: blog
 slug: serialize-assembly-for-service-calls-over-http

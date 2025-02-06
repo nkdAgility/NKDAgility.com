@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-10-07
 creator: Martin Hinshelwood
-id: "10771"
 layout: blog
 resourceTypes: blog
 slug: creating-training-virtual-machines-azure

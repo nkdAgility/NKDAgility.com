@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-10-29
 creator: Martin Hinshelwood
-id: "177"
 layout: blog
 resourceTypes: blog
 slug: unlikely-bloggers

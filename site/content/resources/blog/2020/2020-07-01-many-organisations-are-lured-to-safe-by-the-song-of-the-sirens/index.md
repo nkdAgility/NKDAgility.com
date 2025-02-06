@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-07-01
 creator: Martin Hinshelwood
-id: "44502"
 layout: blog
 resourceTypes: blog
 slug: many-organisations-are-lured-to-safe-by-the-song-of-the-sirens

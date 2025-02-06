@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-11-29
 creator: Martin Hinshelwood
-id: "282"
 layout: blog
 resourceTypes: blog
 slug: community-credit-and-geekswithblogs-up-a-tree

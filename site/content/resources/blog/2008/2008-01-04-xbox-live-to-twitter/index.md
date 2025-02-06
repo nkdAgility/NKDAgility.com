@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-01-04
 creator: Martin Hinshelwood
-id: "271"
 layout: blog
 resourceTypes: blog
 slug: xbox-live-to-twitter

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-05-26
 creator: Martin Hinshelwood
-id: "108"
 layout: blog
 resourceTypes: blog
 slug: connecting-vs2008-to-any-tfs2010-project-collection

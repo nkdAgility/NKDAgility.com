@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-11-27
 creator: Martin Hinshelwood
-id: "9149"
 layout: blog
 resourceTypes: blog
 slug: continuous-value-delivery-with-modern-business-applications

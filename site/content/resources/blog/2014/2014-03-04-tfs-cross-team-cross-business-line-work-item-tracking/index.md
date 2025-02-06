@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-03-04
 creator: Martin Hinshelwood
-id: "10378"
 layout: blog
 resourceTypes: blog
 slug: tfs-cross-team-cross-business-line-work-item-tracking

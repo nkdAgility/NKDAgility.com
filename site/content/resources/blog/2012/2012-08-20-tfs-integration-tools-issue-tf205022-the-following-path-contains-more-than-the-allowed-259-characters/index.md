@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-20
 creator: Martin Hinshelwood
-id: "7255"
 layout: blog
 resourceTypes: blog
 slug: tfs-integration-tools-issue-tf205022-the-following-path-contains-more-than-the-allowed-259-characters

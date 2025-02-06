@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-10-23
 creator: Martin Hinshelwood
-id: "8967"
 layout: blog
 resourceTypes: blog
 slug: application-lifecycle-management-with-office-2013-on-windows-8

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-05-25
 creator: Martin Hinshelwood
-id: "396"
 layout: blog
 resourceTypes: blog
 slug: delving-into-sharepoint-3-0

@@ -9,7 +9,6 @@ ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-04
 creator: Martin Hinshelwood
-id: "68"
 layout: blog
 resourceTypes: blog
 slug: solution-testing-web-services-with-mstest-on-team-foundation-build-services-2010
