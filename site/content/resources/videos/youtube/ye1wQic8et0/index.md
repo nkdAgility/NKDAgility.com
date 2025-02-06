@@ -3,7 +3,7 @@ title: It's said that you can reduce time to market by up to 50% simply by remov
 description: "Discover how removing committees can cut your time to market by 50%! Join Martin as he explores the impact of traditional management on agility. \U0001F680"
 date: 2023-10-02T07:00:33Z
 ResourceId: ye1wQic8et0
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: ye1wQic8et0
@@ -16,22 +16,39 @@ aliases:
 - /resources/videos/it's-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true-
 - /resources/it's-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true-
 - /resources/ye1wQic8et0
+aliasesFor404:
+- /resources/videos/it's-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true-
+- /resources/it's-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true-
 preview: https://i.ytimg.com/vi/ye1wQic8et0/maxresdefault.jpg
 duration: 408
 isShort: false
 tags:
-- Time to market
-- Agile project management
-- project management
-- agile product manager
-- project manager
-- agile devops
+- Team Collaboration
+- Decision Making
+- Business Agility
+- Organisational Agility
+- Change Management
+- Agile Planning
+- Value Delivery
+- Continuous Improvement
+- Agile Transformation
+- Lean Thinking
+- Agile Leadership
+- Systems Thinking
+- Evidence Based Management
+- Agile Values and Principles
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Value Delivery
+- Market Adaptability
+- Resilience and Change
 
 ---
  *Reducing Time to Market by Removing Committees*

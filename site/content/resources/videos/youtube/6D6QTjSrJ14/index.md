@@ -3,7 +3,7 @@ title: What has the initial response been to the immersive learning experiences,
 description: Discover the buzz around our new immersive learning experiences for Scrum! Join Martin Hinshelwood as he shares initial feedback and future insights.
 date: 2023-08-28T07:00:05Z
 ResourceId: 6D6QTjSrJ14
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 6D6QTjSrJ14
@@ -20,23 +20,38 @@ aliases:
 - /resources/videos/6D6QTjSrJ14
 - /resources/what-has-the-initial-response-been-to-the-immersive-learning-experiences-
 - /resources/6D6QTjSrJ14
+aliasesFor404:
+- /resources/what-has-the-initial-response-been-to-the-immersive-learning-experiences-how-do-you-see-that-evolving
+- /resources/what-has-the-initial-response-been-to-the-immersive-learning-experiences
+- /resources/videos/what-has-the-initial-response-been-to-the-immersive-learning-experiences-
+- /resources/what-has-the-initial-response-been-to-the-immersive-learning-experiences-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Immersive Learning
-- Scrum.Org
-- Scum training
-- Scrum certification
-- scrum
-- agile
-- agile product development
-- agile project management
-- agile scrum training
-- immersive learning courses
+- Customer Satisfaction
+- Agile Product Discovery
+- Continuous Learning
+- Agile Coaching
+- Agile Product Management
+- Team Collaboration
+- Agile Evolution
+- Employee Engagement
+- Agile Software Development
+- Agile Community
+- Discovery and Learning
+- Value Delivery
+- Agile Transformation
+- Business Agility
 resourceTypes:
 - video
 layout: video
+categories:
+- Discovery and Learning
+- Organisational Agility
+- People and Process
+- Value Delivery
+- Metrics and Learning
 
 ---
 ## Embracing the Shift: Why Immersive Learning is the Future of Professional Development 

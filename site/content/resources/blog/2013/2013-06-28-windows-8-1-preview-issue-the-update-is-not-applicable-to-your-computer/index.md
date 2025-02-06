@@ -2,14 +2,13 @@
 title: Windows 8.1 Preview Issue - The update is not applicable to your computer
 description: Facing the 'update not applicable' error on Windows 8.1? Discover effective solutions to install the update and enhance your system performance!
 ResourceId: a6j_DLQHNUq
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9914
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-06-28
 creator: Martin Hinshelwood
-id: "9914"
 layout: blog
 resourceTypes: blog
 slug: windows-8-1-preview-issue-the-update-is-not-applicable-to-your-computer
@@ -26,11 +25,13 @@ aliasesFor404:
 - /blog/windows-8-1-preview-issue-the-update-is-not-applicable-to-your-computer
 - /windows-8-1-preview-issue---the-update-is-not-applicable-to-your-computer
 - /blog/windows-8-1-preview-issue---the-update-is-not-applicable-to-your-computer
+- /windows-8-1-preview-issue
+- /resources/blog/windows-8-1-preview-issue-the-update-is-not-applicable-to-your-computer
 tags:
-- win8
-- win8-1
+- Technical Debt
+- Agile Software Development
 categories:
-- problems-and-puzzles
+- Install and Configuration
 preview: nakedalm-windows-logo-12-12.png
 
 ---

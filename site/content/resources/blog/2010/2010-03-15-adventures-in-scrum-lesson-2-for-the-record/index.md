@@ -2,14 +2,13 @@
 title: 'Adventures in Scrum: Lesson 2 - For the record'
 description: Explore key lessons from our first Scrum Sprint at SSW, uncovering the importance of clear communication and alignment in Agile practices. Join the journey!
 ResourceId: ycDsUu_-hNR
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 62
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-15
 creator: Martin Hinshelwood
-id: "62"
 layout: blog
 resourceTypes: blog
 slug: adventures-in-scrum-lesson-2-for-the-record
@@ -25,16 +24,13 @@ aliasesFor404:
 - /blog/adventures-in-scrum-lesson-2-for-the-record
 - /adventures-in-scrum--lesson-2---for-the-record
 - /blog/adventures-in-scrum--lesson-2---for-the-record
+- /resources/blog/adventures-in-scrum-lesson-2-for-the-record
 tags:
-- develop
-- people
-- practices
-- process
-- scrum
-- silverlight
-- ssw
+- Scrum Team
+- Product Owner
 categories:
-- people-and-process
+- People and Process
+- Scrum
 preview: metro-SSWLogo-128-link-1-1.png
 
 ---

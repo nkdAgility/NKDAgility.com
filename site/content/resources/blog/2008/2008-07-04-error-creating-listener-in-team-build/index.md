@@ -2,14 +2,13 @@
 title: Error creating listener in Team Build
 description: Resolve the 'AddressAccessDeniedException' error in Team Build by granting the right permissions to your service account. Get expert tips and solutions!
 ResourceId: Eonka3snrWz
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 218
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-07-04
 creator: Martin Hinshelwood
-id: "218"
 layout: blog
 resourceTypes: blog
 slug: error-creating-listener-in-team-build
@@ -21,9 +20,14 @@ aliases:
 aliasesFor404:
 - /error-creating-listener-in-team-build
 - /blog/error-creating-listener-in-team-build
+- /resources/blog/error-creating-listener-in-team-build
 tags:
-- tools
+- Site Reliability
+- Technical Excellence
 preview: nakedalm-logo-128-link-1-1.png
+categories:
+- Install and Configuration
+- Azure DevOps
 
 ---
 If, like me you are trying to run tests against your web services and you the error below, you will need to give permission to the service account that runs your Build Agent to create listeners in IIS.

@@ -2,14 +2,13 @@
 title: Team Suite on the cheap
 description: Unlock the full potential of Visual Studio Team System 2008 with a 30% upgrade discount. Enhance collaboration and streamline your development process today!
 ResourceId: iiMEOgepJ_x
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 168
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-11-18
 creator: Martin Hinshelwood
-id: "168"
 layout: blog
 resourceTypes: blog
 slug: team-suite-on-the-cheap
@@ -21,9 +20,13 @@ aliases:
 aliasesFor404:
 - /team-suite-on-the-cheap
 - /blog/team-suite-on-the-cheap
+- /resources/blog/team-suite-on-the-cheap
 tags:
-- tfs
-- tools
+- Team Collaboration
+- Agile Tools
+categories:
+- Application Lifecycle Management
+- Value Delivery
 
 ---
 ![](images/vs_mainlogo-3-3.png)

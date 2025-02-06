@@ -3,7 +3,7 @@ title: ' shorts 5 kinds of Agile bandits. 2nd kind'
 description: "Discover the 2nd kind of Agile bandit with Martin Hinshelwood! Learn about 'say-do' metrics in this engaging #shorts video. #Agile #Scrum #NKDAgility"
 date: 2024-01-05T11:00:32Z
 ResourceId: UFCwbq00CEQ
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: UFCwbq00CEQ
@@ -16,39 +16,32 @@ aliases:
 - /resources/videos/-shorts-5-kinds-of-agile-bandits-2nd-kind
 - /resources/-shorts-5-kinds-of-agile-bandits-2nd-kind
 - /resources/UFCwbq00CEQ
+aliasesFor404:
+- /resources/videos/-shorts-5-kinds-of-agile-bandits-2nd-kind
+- /resources/-shorts-5-kinds-of-agile-bandits-2nd-kind
 preview: https://i.ytimg.com/vi/UFCwbq00CEQ/maxresdefault.jpg
 duration: 40
 isShort: true
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Team Motivation
+- Psychological Safety
+- Agile Estimation
+- Agile Values and Principles
+- Continuous Improvement
+- Agile Coaching
+- Agile Transformation
+- Evidence Based Improvement
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Metrics and Learning
+- People and Process
+- Value Delivery
 
 ---
  #shorts #shortvideo #shortsvideo Martin Hinshelwood walks us through the 5 #agile bandits. This video features 'say-do' metrics.

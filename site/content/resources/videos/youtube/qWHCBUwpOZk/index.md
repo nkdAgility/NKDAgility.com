@@ -3,7 +3,7 @@ title: 3 core practices of Kanban. Improving a workflow.
 description: Unlock your workflow's potential with Kanban! Discover 3 core practices to visualise, manage, and continuously improve for peak efficiency.
 date: 2024-02-28T07:00:19Z
 ResourceId: qWHCBUwpOZk
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: qWHCBUwpOZk
@@ -19,20 +19,35 @@ aliases:
 - /resources/videos/3-core-practices-of-kanban-improving-a-workflow
 - /resources/videos/qWHCBUwpOZk
 - /resources/qWHCBUwpOZk
+aliasesFor404:
+- /resources/3-core-practices-of-kanban-improving-a-workflow
+- /resources/videos/3-core-practices-of-kanban-improving-a-workflow
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Kanban
-- Kanban training
-- Kanban courses
-- Kanban coaching
-- Kanban consulting
-- Kanban method
-- ProKanban
-- Kanban principles
+- Kanban Theory
+- Continuous Improvement
+- Value Stream Management
+- Flow Efficiency
+- Systems Thinking
+- Lean Thinking
+- Change Management
+- Agile Strategy
+- Team Collaboration
+- Value Delivery
+- Predictability in Kanban
+- Agile Planning
+- Evidence Based Improvement
+- Technical Excellence
 resourceTypes:
 - video
+categories:
+- Kanban
+- Value Stream Management
+- Flow Efficiency
+- People and Process
+- Metrics and Learning
 
 ---
 ### Improving Your Workflow in a Kanban Strategy

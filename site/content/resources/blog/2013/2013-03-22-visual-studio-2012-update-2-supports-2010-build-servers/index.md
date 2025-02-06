@@ -2,14 +2,13 @@
 title: Visual Studio 2012 Update 2 supports 2010 Build Servers
 description: Discover how Visual Studio 2012 Update 2 enables seamless integration with 2010 Build Servers, simplifying upgrades and enhancing your development workflow.
 ResourceId: wOYxXY4OsUH
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9336
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-03-22
 creator: Martin Hinshelwood
-id: "9336"
 layout: blog
 resourceTypes: blog
 slug: visual-studio-2012-update-2-supports-2010-build-servers
@@ -21,19 +20,13 @@ aliases:
 aliasesFor404:
 - /visual-studio-2012-update-2-supports-2010-build-servers
 - /blog/visual-studio-2012-update-2-supports-2010-build-servers
+- /resources/blog/visual-studio-2012-update-2-supports-2010-build-servers
 tags:
-- configuration
-- infrastructure
-- operational
-- tactical
-- tfs-build
-- tfs
-- tfs2010
-- tfs2012-2
-- tools
+- Agile Tools
+- Continuous Delivery
 categories:
-- code-and-complexity
-- tools-and-techniques
+- Azure DevOps
+- Install and Configuration
 preview: nakedalm-experts-visual-studio-alm-11-11.png
 
 ---

@@ -2,7 +2,7 @@
 title: 'Evidence-based Management: Gathering the metrics'
 description: Discover how to effectively gather metrics for Evidence-based Management in software organizations to enhance value delivery and drive agile success.
 ResourceId: mK5twHwVcIg
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10528
 ResourceImportSource: Wordpress
@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2020-12-30
 AudioNative: true
 creator: Martin Hinshelwood
-id: "10528"
 layout: blog
 resourceTypes: blog
 slug: evidence-based-management-gathering-metrics
@@ -26,16 +25,13 @@ aliasesFor404:
 - /blog/evidence-based-management-gathering-metrics
 - /evidence-based-management--gathering-the-metrics
 - /blog/evidence-based-management--gathering-the-metrics
+- /resources/blog/evidence-based-management-gathering-metrics
 tags:
-- ebmgt
-- evidence
-- evidence-based-management
-- featured
-- leadership-track
-- merics
+- Agile Strategy
+- Agile Software Development
 categories:
-- measure-and-learn
-- people-and-process
+- Scrum
+- Value Stream Management
 preview: naked-agility-evidence-based-management-1-1.jpg
 
 ---

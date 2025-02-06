@@ -3,7 +3,7 @@ title: Overview of the 8-week Immersive learning experience
 description: "Discover the power of immersive learning in Scrum and project management! Join Martin as he explores real-world applications and transformative training. \U0001F30D✨"
 date: 2023-06-08T07:00:30Z
 ResourceId: qrEqX_5FWM8
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: qrEqX_5FWM8
@@ -16,25 +16,38 @@ aliases:
 - /resources/videos/overview-of-the-8-week-immersive-learning-experience
 - /resources/overview-of-the-8-week-immersive-learning-experience
 - /resources/qrEqX_5FWM8
+aliasesFor404:
+- /resources/videos/overview-of-the-8-week-immersive-learning-experience
+- /resources/overview-of-the-8-week-immersive-learning-experience
 preview: https://i.ytimg.com/vi/qrEqX_5FWM8/maxresdefault.jpg
 duration: 354
 isShort: false
 tags:
-- Immersive Learning
-- Immersive Learning Experience
-- PSPO 8-week course
-- PSPO immersive learning
-- Scrum
-- Scrum.Org
-- Scrum Training
-- Scrum Courses
-- Scrum Certification
+- Agile Planning
+- Team Collaboration
+- Continuous Learning
+- Agile Product Management
+- Scrum Product Management
+- Agile Transformation
+- Employee Engagement
+- Agile Values and Principles
+- Discovery and Learning
+- Agile Coaching
+- Value Delivery
+- Agile Methodology
+- Agile Community
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Discovery and Learning
+- Organisational Agility
+- People and Process
+- Value Delivery
+- Scrum
 
 ---
  *Unlocking Real-World Value with Immersive Learning: A Scrum.org Insight* - Explore the transformative power of immersive learning in this insightful video. Discover how it connects theory to real-world scenarios, enhancing practical skills in project management and Scrum.

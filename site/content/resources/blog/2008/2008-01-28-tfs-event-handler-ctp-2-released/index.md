@@ -2,14 +2,13 @@
 title: TFS Event Handler CTP 2 Released
 description: Discover the newly released TFS Event Handler CTP 2, featuring enhanced functionality and tools for managing TFS events. Get involved and provide feedback!
 ResourceId: eFFwzH5niQO
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 260
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-01-28
 creator: Martin Hinshelwood
-id: "260"
 layout: blog
 resourceTypes: blog
 slug: tfs-event-handler-ctp-2-released
@@ -21,16 +20,12 @@ aliases:
 aliasesFor404:
 - /tfs-event-handler-ctp-2-released
 - /blog/tfs-event-handler-ctp-2-released
+- /resources/blog/tfs-event-handler-ctp-2-released
 tags:
-- code
-- infrastructure
-- service-oriented-architecture
-- tfs
-- tfs2008
-- tools
-- wit
+- Agile Software Development
+- Continuous Delivery
 categories:
-- code-and-complexity
+- Azure DevOps
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

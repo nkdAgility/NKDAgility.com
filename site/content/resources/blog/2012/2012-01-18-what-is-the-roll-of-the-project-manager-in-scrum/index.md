@@ -2,14 +2,13 @@
 title: What is the roll of the Project Manager in Scrum?
 description: Discover the evolving role of Project Managers in Scrum. Learn how to transition to Product Owner or Scrum Master for greater impact and success.
 ResourceId: nEmEarH66B7
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 4116
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-01-18
 creator: Martin Hinshelwood
-id: "4116"
 layout: blog
 resourceTypes: blog
 slug: what-is-the-roll-of-the-project-manager-in-scrum
@@ -25,13 +24,13 @@ aliasesFor404:
 - /blog/what-is-the-roll-of-the-project-manager-in-scrum
 - /what-is-the-roll-of-the-project-manager-in-scrum-
 - /blog/what-is-the-roll-of-the-project-manager-in-scrum-
+- /resources/blog/what-is-the-roll-of-the-project-manager-in-scrum
 tags:
-- develop
-- people
-- process
-- scrum
+- Scrum Master
+- Product Owner
 categories:
-- people-and-process
+- People and Process
+- Scrum
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

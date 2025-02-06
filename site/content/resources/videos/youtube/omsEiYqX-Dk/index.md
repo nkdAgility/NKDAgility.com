@@ -3,7 +3,7 @@ title: How much competitive advantage does organizational agility offer versus t
 description: "Unlock the power of organizational agility! Discover how it outshines traditional management for swift market response and team empowerment. \U0001F680\U0001F4C8"
 date: 2023-09-01T07:00:18Z
 ResourceId: omsEiYqX-Dk
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: omsEiYqX-Dk
@@ -17,23 +17,37 @@ aliases:
 - /resources/videos/how-much-competitive-advantage-does-organizational-agility-offer-versus-traditional-management-
 - /resources/how-much-competitive-advantage-does-organizational-agility-offer-versus-traditional-management-
 - /resources/omsEiYqX-Dk
+aliasesFor404:
+- /resources/videos/how-much-competitive-advantage-does-organizational-agility-offer-versus-traditional-management-
+- /resources/how-much-competitive-advantage-does-organizational-agility-offer-versus-traditional-management-
 preview: https://i.ytimg.com/vi/omsEiYqX-Dk/maxresdefault.jpg
 duration: 242
 isShort: false
 tags:
-- Agile
-- Agility
-- Business Agility
-- Competitive Advantage
-- Agile project management
-- Agile product management
-- Agile product development
-- Business Agility advantage
+- Organisational Agility
+- Change Management
+- Agile Strategy
+- Team Collaboration
+- Decision Making
+- Market Adaptability
+- Continuous Improvement
+- Agile Leadership
+- Systems Thinking
+- Agile Transformation
+- Employee Engagement
+- Agile Values and Principles
+- Agile Methodology
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- Market Adaptability
+- People and Process
+- Value Delivery
+- Resilience and Change
 
 ---
  *Unlocking Organizational Agility: Mastering Market Response* - Discover how to harness organizational agility for competitive advantage. Learn to respond swiftly to market changes and empower your team for success. 

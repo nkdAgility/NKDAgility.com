@@ -2,14 +2,13 @@
 title: 'Microsoft: forget about PayPal, how about a MasterCard killer?'
 description: Explore the rise of digital payment alternatives as Microsoft challenges PayPal's dominance. Discover insights on the future of online transactions!
 ResourceId: i3ovxH1TSqK
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 439
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-01-30
 creator: Martin Hinshelwood
-id: "439"
 layout: blog
 resourceTypes: blog
 slug: microsoft-forget-about-paypal-how-about-a-mastercard-killer
@@ -29,9 +28,14 @@ aliasesFor404:
 - /blog/microsoft--forget-about-paypal,-how-about-a-mastercard-killer-
 - /microsoft--forget-about-paypal--how-about-a-mastercard-killer-
 - /blog/microsoft--forget-about-paypal--how-about-a-mastercard-killer-
+- /resources/blog/microsoft-forget-about-paypal-how-about-a-mastercard-killer
 tags:
-- off-topic
+- Market Share
+- Entrepreneurship
 preview: nakedalm-logo-128-link-1-1.png
+categories:
+- Market Adaptability
+- News and Reviews
 
 ---
 Ever since PayPal burst on to the scene, the Nostradamus types have been predicting one PayPal killer after another. First it was "e-gold," then Western Union, then C2IT (by Citibank), then Google.

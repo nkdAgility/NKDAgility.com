@@ -3,7 +3,7 @@ title: What is a product backlog?
 description: 'Discover the essentials of a product backlog! Learn how it helps agile teams prioritise tasks for successful product development with Martin Hinshelwood. #shorts'
 date: 2023-05-18T07:00:16Z
 ResourceId: _Eer3X3Z_LE
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: _Eer3X3Z_LE
@@ -19,21 +19,32 @@ aliases:
 - /resources/videos/_Eer3X3Z_LE
 - /resources/what-is-a-product-backlog-
 - /resources/_Eer3X3Z_LE
+aliasesFor404:
+- /resources/what-is-a-product-backlog-2
+- /resources/videos/what-is-a-product-backlog-
+- /resources/what-is-a-product-backlog-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Backlog
-- Backlog
-- Product Development Backlog
-- Agile
-- Agile backlog
-- Scrum
-- Scrum Backlog
-- Sprint Backlog
+- Scrum Product Management
+- Agile Planning
+- Backlog Refinement
+- Definition of Done
+- Team Collaboration
+- Agile Product Ownership
+- Value Prioritisation
+- Agile Product Discovery
+- Transparency
 resourceTypes:
 - video
 layout: video
+categories:
+- Agile Product Management
+- Scrum
+- People and Process
+- Value Delivery
+- Discovery and Learning
 
 ---
 **What is a product backlog?**

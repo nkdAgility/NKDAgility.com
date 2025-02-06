@@ -2,14 +2,13 @@
 title: Guidance - Branching for each Sprint
 description: Master your branching strategy for Scrum sprints! Discover how effective branching can streamline development and enhance collaboration in your projects.
 ResourceId: hPGpt57lpYZ
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 56
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-04-08
 creator: Martin Hinshelwood
-id: "56"
 layout: blog
 resourceTypes: blog
 slug: guidance-branching-for-each-sprint
@@ -26,6 +25,14 @@ aliasesFor404:
 - /blog/guidance-branching-for-each-sprint
 - /guidance---branching-for-each-sprint
 - /blog/guidance---branching-for-each-sprint
+- /guidance
+- /resources/blog/guidance-branching-for-each-sprint
+categories:
+- Scrum
+- Practical Techniques and Tooling
+tags:
+- Scrum
+- Agile Software Development
 
 ---
 branching-for-each-sprint

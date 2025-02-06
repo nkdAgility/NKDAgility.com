@@ -3,7 +3,7 @@ title: Estimating with Confidence
 description: Unlock reliable software project estimates with Martin Hinshelwood! Discover the power of probabilistic forecasting for confident, accurate planning.
 date: 2024-12-05T06:30:00Z
 ResourceId: mZvRMHFUarM
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: mZvRMHFUarM
@@ -17,29 +17,37 @@ aliases:
 - /resources/videos/estimating-with-confidence
 - /resources/estimating-with-confidence
 - /resources/mZvRMHFUarM
+aliasesFor404:
+- /resources/videos/estimating-with-confidence
+- /resources/estimating-with-confidence
 preview: https://i9.ytimg.com/vi/mZvRMHFUarM/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLDXszYYhCvp1Mjo0PCTnMDkMR9M5w
 duration: 201
 isShort: false
 tags:
-- Software development
-- Software engineering
-- Agile
-- Product Development
-- Agile Product Development
-- Product Management
-- Agile Product Management
-- Project Management
-- Agile Project Management
-- CTO
-- Project Manager
-- Product Manager
-- Product Owner
-- Scrum Master
+- Agile Estimation
+- Agile Forecasting
+- Agile Planning
+- Agile Software Development
+- Agile Values and Principles
+- Evidence Based Management
+- Team Collaboration
+- Continuous Improvement
+- Decision Theory
+- Agile Predictability
+- Lean Thinking
+- Systems Thinking
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Decision Theory
+- Metrics and Learning
+- Value Delivery
+- People and Process
+- Discovery and Learning
 
 ---
  Estimation in Software Projects: Why Probabilistic Forecasting is Better | Martin Hinshelwood

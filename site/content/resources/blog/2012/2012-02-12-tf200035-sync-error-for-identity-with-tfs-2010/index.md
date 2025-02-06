@@ -2,14 +2,13 @@
 title: TF200035 Sync error for identity with TFS 2010
 description: Explore the TF200035 sync error in TFS 2010 and discover troubleshooting steps, insights, and workarounds to enhance your identity management experience.
 ResourceId: gX9PNx9Qnrt
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 4309
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-02-12
 creator: Martin Hinshelwood
-id: "4309"
 layout: blog
 resourceTypes: blog
 slug: tf200035-sync-error-for-identity-with-tfs-2010
@@ -21,12 +20,13 @@ aliases:
 aliasesFor404:
 - /tf200035-sync-error-for-identity-with-tfs-2010
 - /blog/tf200035-sync-error-for-identity-with-tfs-2010
+- /resources/blog/tf200035-sync-error-for-identity-with-tfs-2010
 tags:
-- nwcadence
-- tf200035
-- tfs
-- tfs2010
-- tools
+- Technical Debt
+- Change Management
+categories:
+- Azure DevOps
+- Install and Configuration
 
 ---
 I recently ran into an odd problem at a customer where the local computer accounts of a computer joined to a domain started showing the SID periodically. For those not in the know, this is BAD.

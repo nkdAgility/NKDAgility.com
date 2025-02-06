@@ -2,14 +2,13 @@
 title: The evolution of naked ALM with Pagelines DMS for Wordpress
 description: Discover the evolution of naked ALM with Pagelines DMS for WordPress. Learn how to enhance your site’s customization and functionality effortlessly!
 ResourceId: csMYp4a7yBd
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9964
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-08-27
 creator: Martin Hinshelwood
-id: "9964"
 layout: blog
 resourceTypes: blog
 slug: the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
@@ -21,15 +20,13 @@ aliases:
 aliasesFor404:
 - /the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
 - /blog/the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
+- /resources/blog/the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
 tags:
-- css
-- dms
-- multisite
-- pagelines
-- theme
-- wordpress
+- Agile Software Development
+- Agile Product Management
 categories:
-- news-and-reviews
+- Install and Configuration
+- News and Reviews
 preview: metro-pagelines-11-11.png
 
 ---

@@ -3,7 +3,7 @@ title: When is an APS course appropriate for a scrum team?
 description: "Discover when the APS course is ideal for Scrum teams and how it tailors Scrum practices to your organisation's unique needs. \U0001F4DA\U0001F680"
 date: 2023-10-12T08:32:45Z
 ResourceId: HrJMsZZQl_g
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: HrJMsZZQl_g
@@ -21,37 +21,35 @@ aliases:
 - /resources/videos/HrJMsZZQl_g
 - /resources/when-is-an-aps-course-appropriate-for-a-scrum-team-
 - /resources/HrJMsZZQl_g
+aliasesFor404:
+- /resources/when-is-an-aps-course-appropriate-for-a-scrum-team-2
+- /resources/when-is-an-aps-course-appropriate-for-a-scrum-team
+- /resources/videos/when-is-an-aps-course-appropriate-for-a-scrum-team-
+- /resources/when-is-an-aps-course-appropriate-for-a-scrum-team-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
-- Agile leadership
-- Agile leader
-- Leadership
+- Scrum Team
+- Continuous Improvement
+- Team Collaboration
+- Change Management
+- Agile Product Management
+- Agile Planning
+- Agile Product Discovery
+- Evidence Based Improvement
+- Agile Values and Principles
+- Team Motivation
+- Discovery and Learning
+- Customer Feedback Loops
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Metrics and Learning
+- Discovery and Learning
+- Organisational Agility
 
 ---
 ## Empowering Teams with the APS Approach: Elevating Your Scrum Journey

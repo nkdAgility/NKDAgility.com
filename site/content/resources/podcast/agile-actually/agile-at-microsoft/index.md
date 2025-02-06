@@ -1,15 +1,39 @@
 ---
-id: "51398"
-title: "Agile at Microsoft"
-date: "2024-04-25"
+title: Agile at Microsoft
+description: Join Simon Reindl and Martin Hinshelwood in this podcast as they discuss the critical role of language and transparency in the agile world. Tune in for insights!
+ResourceId: U_pzYjx6qk6
+ResourceImport: true
+ResourceType: podcast
+date: 2024-04-25
 categories:
-  - "agility"
-author: "MrHinsh"
+- Transparency and Accountability
+- Organisational Agility
+- People and Process
+- Discovery and Learning
+- DevOps
+author: MrHinsh
 resourceTypes: podcast
 layout: podcast
-slug: "agile-at-microsoft"
----
+slug: agile-at-microsoft
+aliases:
+- /resources/U_pzYjx6qk6
+tags:
+- Transparency
+- Agile Coaching
+- Agile Values and Principles
+- Team Collaboration
+- Agile Software Development
+- Agile Community
+- Continuous Improvement
+- Evidence Based Management
+- Agile Leadership
+- Agile Transformation
+- Agile Digital Tools
+- DevOps
+- Agile Methodology
+- Organisational Culture
 
+---
 ![](https://nkdagility.com/wp-content/uploads/2024/04/37154808-1713453740943-610b708628f26.jpg)
 
 In this month's podcast, Simon Reindl and Martin Hinshelwood explore the importance of transparency, specifically relating to the words we use and the context within which we use those words. Precision matters. Accuracy matters. Saying what you mean and meaning what you say matters. Listen to this podcast for some great insights into why language matters in the #agile world.

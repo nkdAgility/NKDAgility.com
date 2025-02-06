@@ -3,7 +3,7 @@ title: Silence - 7 signs of the agile apocalypse. But shorter!
 description: 'Discover the two types of silence in agile: one brings peace, the other signals impending disaster. Join Martin Hinshelwood in this insightful exploration!'
 date: 2023-11-02T11:30:10Z
 ResourceId: KHcSWD2tV6M
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: KHcSWD2tV6M
@@ -16,39 +16,34 @@ aliases:
 - /resources/videos/silence-7-signs-of-the-agile-apocalypse-but-shorter!
 - /resources/silence-7-signs-of-the-agile-apocalypse-but-shorter!
 - /resources/KHcSWD2tV6M
+aliasesFor404:
+- /resources/videos/silence-7-signs-of-the-agile-apocalypse-but-shorter!
+- /resources/silence-7-signs-of-the-agile-apocalypse-but-shorter!
 preview: https://i.ytimg.com/vi/KHcSWD2tV6M/maxresdefault.jpg
 duration: 67
 isShort: false
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Agile Apocalypse
+- Team Collaboration
+- Psychological Safety
+- Customer Feedback Loops
+- Agile Values and Principles
+- Continuous Improvement
+- Team Motivation
+- Organisational Culture
+- Change Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- People and Process
+- Organisational Agility
+- Transparency and Accountability
+- Value Delivery
+- Resilience and Change
 
 ---
  There's the kind of silence that brings peace into your world, the kind of silence that enables you to pause, reflect, and discover the deeper solutions that prove so elusive when you're running at full speed.

@@ -3,7 +3,7 @@ title: Why do you think the PSU course has become so popular for product develop
 description: Discover why the PSU course is transforming product development by integrating UX into Scrum teams, empowering them to create valuable customer solutions.
 date: 2023-02-21T07:00:07Z
 ResourceId: S7Xr1-qONmM
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: S7Xr1-qONmM
@@ -20,19 +20,36 @@ aliases:
 - /resources/videos/S7Xr1-qONmM
 - /resources/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development-
 - /resources/S7Xr1-qONmM
+aliasesFor404:
+- /resources/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development
+- /resources/videos/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development-
+- /resources/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- UX
-- User Experience
-- PSU Course
-- Professional Scrum with User Experience
-- Scrum Org
-- Scrum Certification
+- Scrum Product Management
+- Product Backlog
+- Professional Scrum
+- Scrum Team
+- Agile Product Discovery
+- Lean UX
+- Agile Product Management
+- Value Prioritisation
+- Customer Feedback Loops
+- Decision Theory
+- Continuous Improvement
+- Agile Software Development
+- Evidence Based Management
+- Agile Transformation
 resourceTypes:
 - video
+categories:
+- Agile Product Management
+- Scrum
+- People and Process
+- Value Delivery
+- Discovery and Learning
 
 ---
 Why do you think the PSU course has become so popular for product development?

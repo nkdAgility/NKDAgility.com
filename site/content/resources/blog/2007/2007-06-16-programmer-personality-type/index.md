@@ -2,14 +2,13 @@
 title: Programmer personality type
 description: Discover your programmer personality type! Explore the DLTB traits of a Doer, Low-level coder, team player, and liBeral programmer. Unleash your potential!
 ResourceId: ruFX2_EJk4k
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 382
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-06-16
 creator: Martin Hinshelwood
-id: "382"
 layout: blog
 resourceTypes: blog
 slug: programmer-personality-type
@@ -21,9 +20,13 @@ aliases:
 aliasesFor404:
 - /programmer-personality-type
 - /blog/programmer-personality-type
+- /resources/blog/programmer-personality-type
 categories:
-- me
+- People and Process
 preview: nakedalm-logo-128-link-1-1.png
+tags:
+- Team Collaboration
+- Technical Mastery
 
 ---
 Get yours [here](http://www.doolwind.com/index.php?page=11 "Programmer Personality Test").

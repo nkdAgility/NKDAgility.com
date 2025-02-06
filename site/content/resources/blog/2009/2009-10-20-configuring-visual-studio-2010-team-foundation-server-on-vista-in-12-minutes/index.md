@@ -2,14 +2,13 @@
 title: Configuring Visual Studio 2010 Team Foundation Server on Vista in 12 minutes
 description: Master the setup of Visual Studio 2010 Team Foundation Server on Vista in just 12 minutes! Streamline your development process with this quick guide.
 ResourceId: 4Rw-WfXaIBU
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 83
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-10-20
 creator: Martin Hinshelwood
-id: "83"
 layout: blog
 resourceTypes: blog
 slug: configuring-visual-studio-2010-team-foundation-server-on-vista-in-12-minutes
@@ -21,12 +20,14 @@ aliases:
 aliasesFor404:
 - /configuring-visual-studio-2010-team-foundation-server-on-vista-in-12-minutes
 - /blog/configuring-visual-studio-2010-team-foundation-server-on-vista-in-12-minutes
+- /resources/blog/configuring-visual-studio-2010-team-foundation-server-on-vista-in-12-minutes
 tags:
-- aggreko
-- tfs
-- tfs2010
-- tools
+- Agile Software Development
+- Technical Excellence
 preview: metro-aggreko-128-link-17-17.png
+categories:
+- Install and Configuration
+- Azure DevOps
 
 ---
 As Microsoft have separated Install with configuration, so I have separated my posts! You will need TFS2010 [installed](http://blog.hinshelwood.com/archive/2009/10/20/configuring-visual-studio-2010-team-foundation-server-on-vista-in.aspx) prior to the steps below.

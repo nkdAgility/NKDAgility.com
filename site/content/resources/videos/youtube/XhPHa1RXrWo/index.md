@@ -3,7 +3,7 @@ title: 'Agile is Not New: A Journey Back to the Basics'
 description: "Explore Agile's rich history and its evolution in this insightful video by Martin Hinshelwood, revealing how to reclaim its true value in modern business. \U0001F30D\U0001F4A1"
 date: 2024-10-10T15:48:56Z
 ResourceId: XhPHa1RXrWo
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: XhPHa1RXrWo
@@ -20,14 +20,37 @@ aliases:
 - /resources/videos/XhPHa1RXrWo
 - /resources/the-intention-of-agile-and-scrum
 - /resources/XhPHa1RXrWo
+aliasesFor404:
+- /resources/agile-is-not-new-a-journey-back-to-the-basics
+- /resources/videos/the-intention-of-agile-and-scrum
+- /resources/the-intention-of-agile-and-scrum
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
+- Agile Evolution
+- Agile Values and Principles
+- Agile Methodology
+- Agile Leadership
+- Team Collaboration
+- Team Motivation
+- Continuous Improvement
+- Organisational Agility
+- Agile Product Discovery
+- Technical Mastery
+- Agile Coaching
+- Change Management
+- Systems Thinking
+- Evidence Based Management
+- Agile Transformation
 resourceTypes:
 - video
+categories:
+- People and Process
+- Organisational Agility
+- Technical Excellence
+- Discovery and Learning
+- Complexity Thinking
 
 ---
 **Agile** isn't some trendy buzzword that just came out of nowhere. In fact, it's far from new. It's a concept that has roots stretching back centuries. Before the Industrial Revolution, small, local businesses—like your neighborhood cobbler—knew their customers on a personal level. They crafted products based on the unique needs and preferences of each individual. This personal connection, built on understanding and empathy, was central to how work got done.

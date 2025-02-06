@@ -3,7 +3,7 @@ title: Continuous Delivery Without Compromise - Why Best Practices Don’t Exist
 description: Discover why there are no best practices in complex systems. Learn adaptable strategies for continuous delivery that ensure quality and user trust.
 date: 2025-01-23T06:30:03Z
 ResourceId: 5J8RLcOAE3E
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 5J8RLcOAE3E
@@ -17,18 +17,36 @@ aliases:
 - /resources/videos/continuous-delivery-without-compromise-why-best-practices-don’t-exist-in-complex-systems
 - /resources/continuous-delivery-without-compromise-why-best-practices-don’t-exist-in-complex-systems
 - /resources/5J8RLcOAE3E
+aliasesFor404:
+- /resources/videos/continuous-delivery-without-compromise-why-best-practices-don’t-exist-in-complex-systems
+- /resources/continuous-delivery-without-compromise-why-best-practices-don’t-exist-in-complex-systems
 preview: https://i.ytimg.com/vi/5J8RLcOAE3E/maxresdefault.jpg
 duration: 891
 isShort: false
 tags:
-- DevOps
-- Deployment Frequency
-- Agile
+- Continuous Delivery
+- Deployment Strategies
+- Team Collaboration
+- Agile Product Management
+- Systems Thinking
+- Continuous Improvement
+- Customer Feedback Loops
+- Agile Software Development
+- Technical Excellence
+- Site Reliability Engineering
+- Agile Values and Principles
+- Evidence Based Management
+- Lean Principles
+- Agile Transformation
+- Agile Digital Tools
 resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+categories:
+- Metrics and Learning
+- DevOps
 
 ---
  In this video, I dive into a question I often get: *What are the best practices for enabling continuous delivery?* The answer may surprise you—there are no best practices in complex environments. Instead, there are *adequate practices* that must adapt to the ever-changing dynamics of your team, product, and market. Watch as I explore the philosophies and techniques that can support your organization in delivering quality software continuously while maintaining user trust and system reliability.

@@ -3,7 +3,7 @@ title: 'Part 2: Common Mistakes that Scrum Masters Make'
 description: "Discover common pitfalls for newbie Scrum Masters in part 2 of Martin Hinshelwood's 60-second insights. Elevate your agile journey with Naked Agility! #scrum #agile"
 date: 2023-07-07T14:00:33Z
 ResourceId: WTd-8mOlFfQ
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: WTd-8mOlFfQ
@@ -22,18 +22,31 @@ aliases:
 - /resources/videos/WTd-8mOlFfQ
 - /resources/common-mistakes-that-scrum-masters-make-part-2-
 - /resources/WTd-8mOlFfQ
+aliasesFor404:
+- /resources/part-2-common-mistakes-that-scrum-masters-make-2
+- /resources/part-2-common-mistakes-that-scrum-masters-make
+- /resources/common-mistakes-that-scrum-masters-make-part-2
+- /resources/videos/common-mistakes-that-scrum-masters-make-part-2-
+- /resources/common-mistakes-that-scrum-masters-make-part-2-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- Scrum Master
-- Scrum Master mistakes
-- Newbie scrum master
-- Scrum Master tips
+- Team Collaboration
+- Team Motivation
+- Working Agreements
+- Agile Values and Principles
+- Continuous Improvement
+- Accountability
+- Scrum Team
+- Agile Project Management
+- Agile Software Development
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Transparency and Accountability
 
 ---
 ## Escaping the Administrative Vortex: Insights for Scrum Masters - Part 2

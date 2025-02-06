@@ -3,7 +3,7 @@ title: DevOps Migration. Downtime
 description: Discover strategies to minimise downtime during Azure DevOps migrations. Learn from real-world examples and expert tips for a seamless transition!
 date: 2024-11-05T06:00:34Z
 ResourceId: tzmbqdEULUY
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: tzmbqdEULUY
@@ -16,21 +16,37 @@ aliases:
 - /resources/videos/devops-migration-downtime
 - /resources/devops-migration-downtime
 - /resources/tzmbqdEULUY
+aliasesFor404:
+- /resources/videos/devops-migration-downtime
+- /resources/devops-migration-downtime
 preview: https://i.ytimg.com/vi/tzmbqdEULUY/maxresdefault.jpg
 duration: 218
 isShort: false
 tags:
-- Azure
-- Azure DevOps
-- Azure DevOps migration
-- DevOps
-- DevOps migration
+- Deployment Strategies
+- Continuous Delivery
+- Team Collaboration
+- Change Management
+- Evidence Based Management
+- Agile Tools
+- Technical Excellence
+- Value Delivery
+- Agile Project Management
+- Lean Principles
+- Continuous Improvement
+- Agile Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- DevOps
+- Azure DevOps
+- Value Delivery
+- Practical Techniques and Tooling
+- Resilience and Change
 
 ---
  In this video, we tackle one of the most critical challenges in Azure DevOps data migration: minimizing downtime. For organizations with thousands of engineers, even a short downtime can disrupt productivity. However, careful planning, strategic use of dry runs, and effective teamwork can help minimize downtime to almost zero.

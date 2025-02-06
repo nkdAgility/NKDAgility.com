@@ -3,7 +3,7 @@ title: NKD Agility. Your Partner in Engineering Excellence
 description: Unlock engineering excellence with NKD Agility! Join Martin Hinshelwood as he explores quality, accountability, and technical leadership for your organisation.
 date: 2024-11-30T06:00:00Z
 ResourceId: tdOSrPOlyAI
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: tdOSrPOlyAI
@@ -17,28 +17,37 @@ aliases:
 - /resources/videos/nkd-agility-your-partner-in-engineering-excellence
 - /resources/nkd-agility-your-partner-in-engineering-excellence
 - /resources/tdOSrPOlyAI
+aliasesFor404:
+- /resources/videos/nkd-agility-your-partner-in-engineering-excellence
+- /resources/nkd-agility-your-partner-in-engineering-excellence
 preview: https://i9.ytimg.com/vi/tdOSrPOlyAI/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAWEG3GhslAtEUFyG4Q62XYoQlRRA
 duration: 127
 isShort: false
 tags:
-- Software engineering
-- Software developer
-- Software development
-- Product development
-- Product management
-- Project management
-- Agile product development
-- Agile product management
-- Agile project management
-- Project manager
-- Product Manager
-- Product Owner
-- Scrum Master
+- Engineering Excellence
+- Technical Leadership
+- Technical Debt
+- Continuous Improvement
+- Team Collaboration
+- Agile Strategy
+- Value Delivery
+- Customer Satisfaction
+- Agile Software Development
+- Systems Thinking
+- Organisational Agility
+- Agile Transformation
+- Lean Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Technical Excellence
+- Value Delivery
+- Organisational Agility
+- People and Process
+- Value Stream Management
 
 ---
  # Partnering for Engineering Excellence and Technical Leadership | Martin Hinshelwood  

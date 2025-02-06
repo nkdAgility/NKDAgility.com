@@ -2,7 +2,7 @@
 title: Work can flow across the Sprint boundary
 description: Discover how to enhance your Scrum process by allowing work to flow across Sprint boundaries, boosting team efficiency and delivering value. Learn more!
 ResourceId: a7UMLdZeVYq
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 38300
 ResourceImportSource: Wordpress
@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2018-01-30
 AudioNative: true
 creator: Martin Hinshelwood
-id: "38300"
 layout: blog
 resourceTypes: blog
 slug: work-can-flow-across-sprint-boundary
@@ -26,13 +25,15 @@ aliasesFor404:
 - /blog/work-can-flow-across-sprint-boundary
 - /work-can-flow-across-the-sprint-boundary
 - /blog/work-can-flow-across-the-sprint-boundary
+- /resources/blog/work-can-flow-across-sprint-boundary
 tags:
-- developers
-- flow
-- scrum
-- the-sprint
+- Scrum
 categories:
-- news-and-reviews
+- Scrum
+- Flow Efficiency
+- Kanban
+- People and Process
+- Value Delivery
 preview: nkdagility-cross-sprint-boundary-2-1.png
 
 ---

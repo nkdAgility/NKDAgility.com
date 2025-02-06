@@ -2,14 +2,13 @@
 title: Compatibility view in IE8
 description: Discover how to easily enable IE7 Compatibility mode in IE8 for better page viewing. Learn tips and tricks to enhance your browsing experience!
 ResourceId: Spq444zEHgM
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 201
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-08-28
 creator: Martin Hinshelwood
-id: "201"
 layout: blog
 resourceTypes: blog
 slug: compatibility-view-in-ie8
@@ -21,11 +20,14 @@ aliases:
 aliasesFor404:
 - /compatibility-view-in-ie8
 - /blog/compatibility-view-in-ie8
+- /resources/blog/compatibility-view-in-ie8
 tags:
-- ie8
-- off-topic
-- tools
+- Technical Debt
+- Agile Software Development
 preview: nakedalm-logo-128-link-2-2.png
+categories:
+- Install and Configuration
+- Application Lifecycle Management
 
 ---
 If you were worried about your pages viewing correctly in IE8 Beta 1 you had to restart your browser to enable "IE7 Compatibility mode". Now it is easy:

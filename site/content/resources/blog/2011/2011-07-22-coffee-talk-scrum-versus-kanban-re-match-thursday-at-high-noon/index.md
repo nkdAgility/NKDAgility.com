@@ -2,14 +2,13 @@
 title: 'Coffee Talk: Scrum versus Kanban (re-match) ... Thursday at High Noon!'
 description: Join the rematch of Scrum vs Kanban as experts debate their merits! Discover insights and strategies to enhance your agile processes. Don't miss out!
 ResourceId: KtZxhtX0v9O
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 3692
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-07-22
 creator: Martin Hinshelwood
-id: "3692"
 layout: blog
 resourceTypes: blog
 slug: coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon
@@ -25,18 +24,12 @@ aliasesFor404:
 - /blog/coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon
 - /coffee-talk--scrum-versus-kanban-(re-match)-----thursday-at-high-noon-
 - /blog/coffee-talk--scrum-versus-kanban-(re-match)-----thursday-at-high-noon-
+- /resources/blog/coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon
 tags:
-- agile
-- develop
-- kanban
-- lean
-- nwcadence
-- people
-- process
-- scrum
+- Kanban Theory
 categories:
-- events-and-presentations
-- people-and-process
+- scrum
+- kanban
 preview: metro-nwc-128-link-2-2.png
 
 ---

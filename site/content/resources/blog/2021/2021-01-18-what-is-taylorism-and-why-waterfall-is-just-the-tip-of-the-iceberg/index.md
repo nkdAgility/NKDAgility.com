@@ -2,7 +2,7 @@
 title: What is Taylorism, and why Waterfall is just the tip of the iceberg!
 description: Explore the roots of Taylorism and its impact on modern project management. Discover why traditional methods may hinder innovation and employee engagement.
 ResourceId: wYwQygBrmgx
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 45392
 ResourceImportSource: Wordpress
@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2021-01-18
 AudioNative: true
 creator: Martin Hinshelwood
-id: "45392"
 layout: blog
 resourceTypes: blog
 slug: what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
@@ -30,13 +29,29 @@ aliasesFor404:
 - /blog/what-is-taylorism,-and-why-waterfall-is-just-the-tip-of-the-iceberg-
 - /what-is-taylorism--and-why-waterfall-is-just-the-tip-of-the-iceberg-
 - /blog/what-is-taylorism--and-why-waterfall-is-just-the-tip-of-the-iceberg-
+- /resources/blog/what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
 tags:
-- featured
-- taylorism
-- traditional-project-management
-- waterfall
+- Organisational Agility
+- Change Management
+- Employee Engagement
+- Team Motivation
+- Agile Product Discovery
+- Lean Thinking
+- Systems Thinking
+- Agile Transformation
+- Business Agility
+- Continuous Improvement
+- Agile Leadership
+- Value Stream Management
+- Technical Mastery
+- Agile Values and Principles
+- Psychological Safety
 categories:
-- people-and-process
+- People and Process
+- Organisational Agility
+- Discovery and Learning
+- Lean
+- Organisational Psychology
 preview: naked-agility-with-martin-hinshelwood-iceberg-11-10.jpg
 
 ---

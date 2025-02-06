@@ -3,7 +3,7 @@ title: 'The Power of Metrics: Why PAL-EBM is Essential for Your Organization'
 description: "Unlock organisational success with the PAL EBM course! Discover the power of evidence-based management and effective metrics in this insightful video. \U0001F31F"
 date: 2024-01-27T07:00:19Z
 ResourceId: m2Z4UV4OQlI
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: m2Z4UV4OQlI
@@ -20,36 +20,35 @@ aliases:
 - /resources/videos/m2Z4UV4OQlI
 - /resources/why-do-you-recommend-the-pal-ebm-course-
 - /resources/m2Z4UV4OQlI
+aliasesFor404:
+- /resources/the-power-of-metrics-why-pal-ebm-is-essential-for-your-organization
+- /resources/videos/why-do-you-recommend-the-pal-ebm-course-
+- /resources/why-do-you-recommend-the-pal-ebm-course-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Evidence-based Management
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Evidence Based Management
+- Decision Theory
+- Team Collaboration
+- Leadership Training
+- Change Management
+- Organisational Agility
+- Transparency
+- Continuous Improvement
+- Agile Strategy
+- Team Motivation
+- Employee Engagement
+- Systems Thinking
+- Value Delivery
 resourceTypes:
 - video
+categories:
+- Metrics and Learning
+- Organisational Agility
+- People and Process
+- Transparency and Accountability
+- Resilience and Change
 
 ---
 In today's fast-paced world, organizations often struggle to find the right metrics that drive success. Whether you're a manager, product owner, Scrum Master, or CEO, the **Professional Agile Leadership - Evidence-Based Management (PAL-EBM)** class provides valuable insights into how to navigate this critical aspect of your leadership journey.

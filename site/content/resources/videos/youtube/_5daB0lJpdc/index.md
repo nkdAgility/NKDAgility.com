@@ -3,7 +3,7 @@ title: 'Introduction to Agility’s Ghosts: Shedding Dogma and Embracing Pragmat
 description: Uncover the truth about agile certifications! Join Martin as he challenges perceptions and reveals their impact on learning and growth in the agile world.
 date: 2023-12-28T08:40:54Z
 ResourceId: _5daB0lJpdc
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: _5daB0lJpdc
@@ -19,36 +19,37 @@ aliases:
 - /resources/videos/5-ghosts-of-agile-past-certification
 - /resources/5-ghosts-of-agile-past-certification
 - /resources/_5daB0lJpdc
+aliasesFor404:
+- /resources/introduction-to-agilitys-ghosts-shedding-dogma-and-embracing-pragmatism
+- /resources/videos/5-ghosts-of-agile-past-certification
+- /resources/5-ghosts-of-agile-past-certification
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Agile Certification
+- Scrum Master
+- Scrum Team
+- Agile Coaching
+- Continuous Improvement
+- Agile Values and Principles
+- Team Collaboration
+- Employee Engagement
+- Agile Transformation
+- Pragmatic Thinking
+- Technical Excellence
+- Value Delivery
+- Organisational Change
+- Evidence Based Leadership
 resourceTypes:
 - video
 layout: video
+categories:
+- Scrum
+- People and Process
+- Value Delivery
+- Discovery and Learning
+- Organisational Psychology
 
 ---
 In the world of Agile, one ghost that haunts us is dogma. If you've been in Agile long enough, you've probably encountered those dogmatic individuals who cling to a rigid set of beliefs, refusing to adapt or consider the actual data, feedback, or experiences of the people around them. These folks? They need to be shown the door 🚪. Agile is about flexibility, adaptation, and collaboration—dogma has no place here.

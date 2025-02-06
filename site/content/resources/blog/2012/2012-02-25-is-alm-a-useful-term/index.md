@@ -2,14 +2,13 @@
 title: Is ALM a useful term?
 description: Explore the significance of ALM in modern software development. Discover how Agile practices enhance quality and adaptability for all organizations.
 ResourceId: hnvOLuqmQk7
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 4576
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-02-25
 creator: Martin Hinshelwood
-id: "4576"
 layout: blog
 resourceTypes: blog
 slug: is-alm-a-useful-term
@@ -25,19 +24,13 @@ aliasesFor404:
 - /blog/is-alm-a-useful-term
 - /is-alm-a-useful-term-
 - /blog/is-alm-a-useful-term-
+- /resources/blog/is-alm-a-useful-term
 tags:
-- configuration
-- define
-- develop
-- infrastructure
-- modern-alm
-- operate
-- practices
-- process
-- tools
+- Application Lifecycle Management
+- Agile Software Development
 categories:
-- people-and-process
-- tools-and-techniques
+- Application Lifecycle Management
+- People and Process
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

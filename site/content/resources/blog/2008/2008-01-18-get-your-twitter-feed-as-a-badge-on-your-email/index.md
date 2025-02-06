@@ -2,14 +2,13 @@
 title: Get your Twitter feed as a badge on your email!
 description: Learn how to easily display your Twitter feed as a badge in your email using FeedBurner. Simple steps to enhance your email signature and engagement!
 ResourceId: RIgnx9Matxd
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 263
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-01-18
 creator: Martin Hinshelwood
-id: "263"
 layout: blog
 resourceTypes: blog
 slug: get-your-twitter-feed-as-a-badge-on-your-email
@@ -25,9 +24,13 @@ aliasesFor404:
 - /blog/get-your-twitter-feed-as-a-badge-on-your-email
 - /get-your-twitter-feed-as-a-badge-on-your-email-
 - /blog/get-your-twitter-feed-as-a-badge-on-your-email-
+- /resources/blog/get-your-twitter-feed-as-a-badge-on-your-email
 categories:
-- me
+- Discovery and Learning
 preview: nakedalm-logo-128-link-2-2.png
+tags:
+- Featured
+- Personal
 
 ---
 Or anywhere you can put some HTML. This is really easy and allows you to have something like:

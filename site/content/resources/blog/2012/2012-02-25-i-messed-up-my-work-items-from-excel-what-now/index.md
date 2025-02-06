@@ -2,14 +2,13 @@
 title: I messed up my work items from Excel! What now?
 description: Learn how to recover from Excel mistakes that altered your TFS work items. Discover effective solutions to fix errors and prevent future mishaps!
 ResourceId: jZw9emMhGRh
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 4609
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-02-25
 creator: Martin Hinshelwood
-id: "4609"
 layout: blog
 resourceTypes: blog
 slug: i-messed-up-my-work-items-from-excel-what-now
@@ -25,20 +24,12 @@ aliasesFor404:
 - /blog/i-messed-up-my-work-items-from-excel-what-now
 - /i-messed-up-my-work-items-from-excel--what-now-
 - /blog/i-messed-up-my-work-items-from-excel--what-now-
+- /resources/blog/i-messed-up-my-work-items-from-excel-what-now
 tags:
-- configuration
-- define
-- excel
-- infrastructure
-- puzzles
-- tfs
-- tfs2010
-- tools
-- visual-studio
-- vs2010
+- Agile Tools
+- Change Management
 categories:
-- code-and-complexity
-- problems-and-puzzles
+- Practical Techniques and Tooling
 preview: metro-visual-studio-2010-128-link-4-4.png
 
 ---

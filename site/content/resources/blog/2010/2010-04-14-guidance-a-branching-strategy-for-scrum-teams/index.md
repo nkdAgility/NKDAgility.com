@@ -2,14 +2,13 @@
 title: 'Guidance: A Branching strategy for Scrum Teams'
 description: Discover effective branching strategies for Scrum teams to enhance code quality and streamline development processes. Optimize your workflow today!
 ResourceId: kxyZ3s8u340
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 50
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-04-14
 creator: Martin Hinshelwood
-id: "50"
 layout: blog
 resourceTypes: blog
 slug: guidance-a-branching-strategy-for-scrum-teams
@@ -25,23 +24,13 @@ aliasesFor404:
 - /blog/guidance-a-branching-strategy-for-scrum-teams
 - /guidance--a-branching-strategy-for-scrum-teams
 - /blog/guidance--a-branching-strategy-for-scrum-teams
+- /resources/blog/guidance-a-branching-strategy-for-scrum-teams
 tags:
-- codeproject
-- configuration
-- develop
-- infrastructure
-- practices
-- process
-- scrum
-- sharepoint
-- spf2010
-- ssw
-- tfs
-- tfs2010
-- visual-studio
-- vs2010
+- Definition of Done
 categories:
-- tools-and-techniques
+- Scrum
+- Application Lifecycle Management
+- Practical Techniques and Tooling
 preview: metro-visual-studio-2010-128-link-18-18.png
 
 ---

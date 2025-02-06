@@ -2,14 +2,13 @@
 title: Using the Build vNext capabilities and demands system
 description: Explore the new Build vNext capabilities and demands system in TFS 2015. Simplify your build process with enhanced features and auto-detection. Learn more!
 ResourceId: iEMi_TIORPX
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 11081
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-03-11
 creator: Martin Hinshelwood
-id: "11081"
 layout: blog
 resourceTypes: blog
 slug: using-build-vnext-capabilities-demands-system
@@ -25,14 +24,28 @@ aliasesFor404:
 - /blog/using-build-vnext-capabilities-demands-system
 - /using-the-build-vnext-capabilities-and-demands-system
 - /blog/using-the-build-vnext-capabilities-and-demands-system
+- /resources/blog/using-build-vnext-capabilities-demands-system
 tags:
-- build
-- build-vnext
-- tfs
-- tfs-2015
-- vsteamservices
+- Agile Tools
+- Azure DevOps
+- Continuous Integration
+- DevOps
+- Agile Software Development
+- Technical Excellence
+- Agile Product Management
+- Value Delivery
+- Agile Planning Tools
+- Evidence Based Management
+- Agile Product Discovery
+- Agile Software Engineering
+- Continuous Delivery
+- Automated Testing
 categories:
-- tools-and-techniques
+- Azure DevOps
+- Install and Configuration
+- Practical Techniques and Tooling
+- DevOps
+- Application Lifecycle Management
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---

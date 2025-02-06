@@ -3,7 +3,7 @@ title: 3 steps developers must follow if the product owner is incompetent
 description: "Struggling with an ineffective product owner? Discover 3 essential steps for developers to navigate this challenge and enhance team dynamics! \U0001F31F\U0001F6E0️"
 date: 2023-10-27T14:30:10Z
 ResourceId: JGQ5zW6F6Uc
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: JGQ5zW6F6Uc
@@ -16,39 +16,40 @@ aliases:
 - /resources/videos/3-steps-developers-must-follow-if-the-product-owner-is-incompetent
 - /resources/3-steps-developers-must-follow-if-the-product-owner-is-incompetent
 - /resources/JGQ5zW6F6Uc
+aliasesFor404:
+- /resources/videos/3-steps-developers-must-follow-if-the-product-owner-is-incompetent
+- /resources/3-steps-developers-must-follow-if-the-product-owner-is-incompetent
 preview: https://i.ytimg.com/vi/JGQ5zW6F6Uc/maxresdefault.jpg
 duration: 407
 isShort: false
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Scrum Master
+- Product Owner
+- Team Collaboration
+- Agile Product Ownership
+- Agile Problem Solving
+- Continuous Improvement
+- Organisational Change
+- Leadership Training
+- Team Motivation
+- Accountability
+- Agile Values and Principles
+- Technical Excellence
+- Agile Software Development
+- Evidence Based Management
+- Psychological Safety
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Organisational Psychology
+- Value Delivery
+- Resilience and Change
 
 ---
  Facing challenges with an ineffective product owner? Learn how the Scrum Master and team can navigate this situation. Dive into the intricacies of organizational politics, communication, and role allocation. 🌟

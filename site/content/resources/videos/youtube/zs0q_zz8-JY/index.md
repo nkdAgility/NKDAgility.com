@@ -3,7 +3,7 @@ title: Biggest misconception about a scrum master
 description: 'Discover the biggest misconception about Scrum Masters with Martin Hinshelwood! Uncover insights that can transform your Agile journey. #Scrum #Agile #Shorts'
 date: 2023-06-21T11:00:52Z
 ResourceId: zs0q_zz8-JY
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: zs0q_zz8-JY
@@ -16,23 +16,36 @@ aliases:
 - /resources/videos/biggest-misconception-about-a-scrum-master
 - /resources/biggest-misconception-about-a-scrum-master
 - /resources/zs0q_zz8-JY
+aliasesFor404:
+- /resources/videos/biggest-misconception-about-a-scrum-master
+- /resources/biggest-misconception-about-a-scrum-master
 preview: https://i.ytimg.com/vi/zs0q_zz8-JY/maxresdefault.jpg
 duration: 46
 isShort: true
 tags:
-- Scrum
-- Scrum Master
-- ScrumMaster
-- Scrum Framework
-- Scrum Methodology
-- Scrum Project Management
-- Scrum Product Development
+- Scrum Team
+- Scrum Values
+- Team Collaboration
+- Team Motivation
+- Agile Leadership
+- Accountability
+- Continuous Improvement
+- Agile Methodology
+- Self Organisation
+- Agile Values and Principles
+- Organisational Culture
+- Agile Coaching
+- Leadership Training
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Organisational Psychology
 
 ---
  #shorts #shortsvideo #shortvideo Martin Hinshelwood explores one of the biggest misconceptions about a #scrummaster 

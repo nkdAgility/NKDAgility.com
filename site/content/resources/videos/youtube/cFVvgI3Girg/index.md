@@ -3,7 +3,7 @@ title: Why is the Professional Agile Leadership Essentials course a natural evol
 description: Discover why the Professional Agile Leadership Essentials course is essential for product owners, enhancing their role in driving value and team success.
 date: 2023-07-28T07:00:14Z
 ResourceId: cFVvgI3Girg
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: cFVvgI3Girg
@@ -16,29 +16,37 @@ aliases:
 - /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-a-product-owner
 - /resources/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-a-product-owner
 - /resources/cFVvgI3Girg
+aliasesFor404:
+- /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-a-product-owner
+- /resources/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-a-product-owner
 preview: https://i.ytimg.com/vi/cFVvgI3Girg/maxresdefault.jpg
 duration: 159
 isShort: false
 tags:
-- Product Owner
-- Professional Agile Leader
-- Professional Agile Leader Essentials course
-- PAL-E
-- PAL-E course
-- PAL-E certification
-- Scrum Training
-- Scrum Certification
-- Leadership training
-- Scrum leadership
-- Agile
-- Agile courses
-- Agile trainining
+- Agile Leadership
+- Agile Product Ownership
+- Systems Thinking
+- Organisational Agility
+- Agile Evolution
+- Agile Strategy
+- Team Collaboration
+- Organisational Culture
+- Continuous Improvement
+- Employee Engagement
+- Agile Product Management
+- Agile Community
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- Agile Product Management
+- Organisational Psychology
+- Systems Thinking
+- People and Process
 
 ---
  A #productowner, especially in #scrum, is often referred to as the CEO of the product. Someone tasked with ensuring that the #scrumteam are building the most valuable product for customers, and the most viable product for the organization.

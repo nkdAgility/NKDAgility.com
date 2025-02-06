@@ -2,14 +2,13 @@
 title: Upgrading to Team Foundation Server 2013
 description: Upgrade to Team Foundation Server 2013 effortlessly! Discover essential tips, backup strategies, and a smooth installation process for your TFS environment.
 ResourceId: Ni5lk4V30pb
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9907
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-06-26
 creator: Martin Hinshelwood
-id: "9907"
 layout: blog
 resourceTypes: blog
 slug: upgrading-to-team-foundation-server-2013
@@ -21,14 +20,13 @@ aliases:
 aliasesFor404:
 - /upgrading-to-team-foundation-server-2013
 - /blog/upgrading-to-team-foundation-server-2013
+- /resources/blog/upgrading-to-team-foundation-server-2013
 tags:
-- configuration
-- tf255193
-- tfs
-- tfs-2013
-- tools
+- Deployment Strategies
+- Continuous Delivery
 categories:
-- install-and-configuration
+- Install and Configuration
+- Azure DevOps
 
 ---
 With the release of Team Foundation Server 2013 I need to upgrade all of my servers. I have a few customer installs getting prepped and I wanted to get a look see.

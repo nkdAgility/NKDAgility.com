@@ -3,7 +3,7 @@ title: Scrum doesn't solve problems, it reveals them. How, and why is that valua
 description: "Discover how Scrum reveals organisational challenges and enhances progress. Join Martin as he explores its true value in this insightful video! \U0001F680\U0001FA9E"
 date: 2023-09-27T07:00:29Z
 ResourceId: Ys0dWfKVSeA
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Ys0dWfKVSeA
@@ -21,24 +21,36 @@ aliases:
 - /resources/videos/Ys0dWfKVSeA
 - "/resources/scrum-the-mirror-to-organizational-challenges-\U0001FA9E"
 - /resources/Ys0dWfKVSeA
+aliasesFor404:
+- /resources/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable-2
+- /resources/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable
+- "/resources/videos/scrum-the-mirror-to-organizational-challenges-\U0001FA9E"
+- "/resources/scrum-the-mirror-to-organizational-challenges-\U0001FA9E"
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- Scrum framework
-- Agile project management
-- project management
-- Agile product development
-- product development
-- Agile product management
-- product management
-- business agility
-- problem solving
-- complexity
+- Scrum Team
+- Scrum Master
+- Continuous Delivery
+- Team Collaboration
+- Value Delivery
+- Organisational Agility
+- Change Management
+- Technical Excellence
+- Evidence Based Improvement
+- Systems Thinking
+- Agile Problem Solving
+- Customer Feedback Loops
+- Lean Principles
 resourceTypes:
 - video
+categories:
+- Scrum
+- Organisational Agility
+- Value Delivery
+- People and Process
+- Resilience and Change
 
 ---
 ## Reflecting on Scrum's Mirror  

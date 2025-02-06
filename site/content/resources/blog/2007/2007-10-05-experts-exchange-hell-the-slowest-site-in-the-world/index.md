@@ -2,14 +2,13 @@
 title: Experts Exchange Hell - The slowest site in the world.
 description: Discover the frustrations of navigating Experts Exchange, the slowest site in the world. Join the conversation on web performance and user experience!
 ResourceId: 994E1GchH-N
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 302
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-10-05
 creator: Martin Hinshelwood
-id: "302"
 layout: blog
 resourceTypes: blog
 slug: experts-exchange-hell-the-slowest-site-in-the-world
@@ -25,10 +24,12 @@ aliasesFor404:
 - /blog/experts-exchange-hell-the-slowest-site-in-the-world
 - /experts-exchange-hell---the-slowest-site-in-the-world-
 - /blog/experts-exchange-hell---the-slowest-site-in-the-world-
+- /resources/blog/experts-exchange-hell-the-slowest-site-in-the-world
 tags:
-- fail
+- Customer Satisfaction
+- Site Reliability
 categories:
-- me
+- News and Reviews
 preview: nakedalm-logo-128-link-3-3.png
 
 ---

@@ -2,14 +2,13 @@
 title: .NET Service Manager
 description: Discover the .NET Service Manager, a versatile tool for wrapping local and remote services. Download the source code and enhance your applications today!
 ResourceId: tzY7cIvFnOc
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 213
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-08-06
 creator: Martin Hinshelwood
-id: "213"
 layout: blog
 resourceTypes: blog
 slug: net-service-manager
@@ -25,11 +24,13 @@ aliasesFor404:
 - /blog/net-service-manager
 - /-net-service-manager
 - /blog/-net-service-manager
+- /resources/blog/net-service-manager
 tags:
-- tools
-- wcf
+- Agile Software Development
+- Technical Excellence
 categories:
-- me
+- Code and Complexity
+- Application Lifecycle Management
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

@@ -3,7 +3,7 @@ title: Many folks say Scrum is like communism; it does not work! Are they right?
 description: Unpack the myths linking Scrum to communism! Discover 5 misconceptions that hinder Scrum adoption and learn how to embrace its true potential.
 date: 2024-05-06T14:12:53Z
 ResourceId: 4YixczaREUw
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 4YixczaREUw
@@ -15,10 +15,28 @@ aliases:
 - /resources/videos/many-folks-say-scrum-is-like-communism;-it-does-not-work!-are-they-right-
 - /resources/many-folks-say-scrum-is-like-communism;-it-does-not-work!-are-they-right-
 - /resources/4YixczaREUw
+aliasesFor404:
+- /resources/videos/many-folks-say-scrum-is-like-communism;-it-does-not-work!-are-they-right-
+- /resources/many-folks-say-scrum-is-like-communism;-it-does-not-work!-are-they-right-
 preview: https://i.ytimg.com/vi/4YixczaREUw/maxresdefault.jpg
 duration: 1373
 isShort: false
-tags: []
+tags:
+- Scrum
+- Scrum Master
+- Scrum Team
+- Definition of Done
+- Agile Planning
+- Technical Excellence
+- Continuous Delivery
+- Sprint Planning Workshop
+- Product Backlog
+- Agile Product Management
+- Evidence Based Improvement
+- Team Collaboration
+- Agile Values and Principles
+- Change Management
+- Technical Debt
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -26,6 +44,12 @@ source: youtube
 layout: video
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Value Delivery
+- Transparency and Accountability
+- Organisational Agility
 
 ---
  This is a phrase I often hear from folks who have been unable to adapt their systems of work to incorporate the core philosophies, theories, and practices of Scrum. They sit and look at the signals coming from Scrum that things are broken and do nothing but say:

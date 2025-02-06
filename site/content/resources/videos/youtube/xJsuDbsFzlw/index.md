@@ -3,7 +3,7 @@ title: What is the sprint planning workshop and how will it help organizations?
 description: 'Discover how Sprint Planning workshops from NKD Agility can empower your Scrum team for success and enhance project outcomes. #Agile #Scrum'
 date: 2023-06-29T07:00:19Z
 ResourceId: xJsuDbsFzlw
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: xJsuDbsFzlw
@@ -16,22 +16,38 @@ aliases:
 - /resources/videos/what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations-
 - /resources/what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations-
 - /resources/xJsuDbsFzlw
+aliasesFor404:
+- /resources/videos/what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations-
+- /resources/what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations-
 preview: https://i.ytimg.com/vi/xJsuDbsFzlw/maxresdefault.jpg
 duration: 198
 isShort: false
 tags:
-- Sprint Planning Workshop
-- Sprint Planning
-- Scrum
-- Scrum Workshops
-- Scrum training
-- Scrum coaching
+- Agile Planning
+- Scrum Team
+- Agile Coaching
+- Continuous Improvement
+- Agile Product Management
+- Team Collaboration
+- Agile Values and Principles
+- Agile Project Management
+- Agile Transformation
+- Agile Software Development
+- Agile Digital Tools
+- Agile Methodology
+- Discovery and Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scrum
+- Organisational Agility
+- People and Process
+- Practical Techniques and Tooling
+- Value Delivery
 
 ---
  #sprintplanning is a critical event in #scrum. Getting it right sets the tone for a great #sprint and ensures that the team are working on the most valuable work items. Getting it wrong has serious consequences.

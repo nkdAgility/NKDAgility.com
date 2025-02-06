@@ -2,14 +2,13 @@
 title: Configure features in Team Foundation Server 2013
 description: Unlock the full potential of Team Foundation Server 2013 by configuring essential features with our step-by-step guide. Enhance your project management today!
 ResourceId: MbkXNCfuEU2
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9912
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-06-26
 creator: Martin Hinshelwood
-id: "9912"
 layout: blog
 resourceTypes: blog
 slug: configure-features-in-team-foundation-server-2013
@@ -21,14 +20,13 @@ aliases:
 aliasesFor404:
 - /configure-features-in-team-foundation-server-2013
 - /blog/configure-features-in-team-foundation-server-2013
+- /resources/blog/configure-features-in-team-foundation-server-2013
 tags:
-- configuration
-- process-template
-- tfs
-- tfs-2013
-- tools
+- Azure DevOps
+- Agile Tools
 categories:
-- install-and-configuration
+- Install and Configuration
+- Azure DevOps
 
 ---
 So you have upgraded to Team Foundation Server 2013 but you still don’t have some of the features that you upgraded for. There is a wizard for that but it is not supper discoverable that allows you to configure features in Team Foundation Server 2013.

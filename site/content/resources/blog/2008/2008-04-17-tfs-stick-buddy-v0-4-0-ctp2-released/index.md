@@ -2,14 +2,13 @@
 title: TFS Stick Buddy v0.4.0 CTP2 released
 description: Discover the latest TFS Stick Buddy v0.4.0 CTP2 release! Customize your work item display and enhance your project management experience. Download now!
 ResourceId: G2LTuEadTg9
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 238
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-04-17
 creator: Martin Hinshelwood
-id: "238"
 layout: blog
 resourceTypes: blog
 slug: tfs-stick-buddy-v0-4-0-ctp2-released
@@ -21,15 +20,12 @@ aliases:
 aliasesFor404:
 - /tfs-stick-buddy-v0-4-0-ctp2-released
 - /blog/tfs-stick-buddy-v0-4-0-ctp2-released
+- /resources/blog/tfs-stick-buddy-v0-4-0-ctp2-released
 tags:
-- code
-- tfs-sticky-buddy
-- wit
-- wpf
+- Agile Tools
+- Agile Software Development
 categories:
-- code-and-complexity
-- me
-- tools-and-techniques
+- Application Lifecycle Management
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

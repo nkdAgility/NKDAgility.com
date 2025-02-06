@@ -1,38 +1,67 @@
 ---
-title: "Sprint Review #1"
+title: 'Sprint Review #1'
 resourceTypes: workshop
 layout: workshop
 description: The purpose of the Sprint Review is to maintain transparency of the Product Backlog and the focus of the Product Goal by integrating all of the changes that have happened in the product and the current business conditions since the last Sprint Review.
+ResourceId: 8gWwC3tvV_f
+ResourceImport: true
+ResourceType: workshops
 aliases:
-  - /workshops/Sprint-Review-1.html
-  - /learn/agile-delivery-kit/workshops/Sprint-Review-1
-  - /learn/agile-delivery-kit/workshops/sprint-review-1/
+- /workshops/Sprint-Review-1.html
+- /learn/agile-delivery-kit/workshops/Sprint-Review-1
+- /learn/agile-delivery-kit/workshops/sprint-review-1/
+- /resources/8gWwC3tvV_f
+aliasesFor404:
+- /workshops/Sprint-Review-1.html
+- /learn/agile-delivery-kit/workshops/Sprint-Review-1
+- /learn/agile-delivery-kit/workshops/sprint-review-1/
 creator: Martin Hinshelwood
-references:
+references: 
 recommendedContent:
-  - collection: guides
-    path: _guides/scrum-guide.md
-  - collection: technologies
-    path: _technologies/liberating-structures.md
-  - collection: technologies
-    path: _technologies/liberating-structures/impromptu-networking.md
-  - collection: technologies
-    path: _technologies/liberating-structures/shift-share.md
-  - collection: technologies
-    path: _technologies/liberating-structures/what-so-what-now-what.md
+- collection: guides
+  path: _guides/scrum-guide.md
+- collection: technologies
+  path: _technologies/liberating-structures.md
+- collection: technologies
+  path: _technologies/liberating-structures/impromptu-networking.md
+- collection: technologies
+  path: _technologies/liberating-structures/shift-share.md
+- collection: technologies
+  path: _technologies/liberating-structures/what-so-what-now-what.md
 videos:
-  - title: Overview of The Scrum Framework with Martin Hinshelwood
-    embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
-  - title: Free Workshop 4 Introduction to Sprint Review! [Audio-Fixed]
-    embed: https://www.youtube.com/embed/1-W64WdSbF4
+- title: Overview of The Scrum Framework with Martin Hinshelwood
+  embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
+- title: Free Workshop 4 Introduction to Sprint Review! [Audio-Fixed]
+  embed: https://www.youtube.com/embed/1-W64WdSbF4
 date: 2024-09-17
 card:
   button:
     content: Learn More
-  content: Discover more about "Sprint Review #1" and how it can help you in your Agile journey!
-  title: "Sprint Review #1"
----
+  content: Discover more about "Sprint Review
+  title: 'Sprint Review #1'
+categories:
+- Scrum
+- Transparency and Accountability
+- People and Process
+- Value Delivery
+- Discovery and Learning
+tags:
+- Sprint Review
+- Scrum Team
+- Definition of Done
+- Product Backlog
+- Agile Planning
+- Team Collaboration
+- Continuous Improvement
+- Customer Feedback Loops
+- Agile Product Ownership
+- Working Agreements
+- Agile Product Management
+- Scrum Product Development
+- Evidence Based Management
+- Transparency
 
+---
 While this workshop can be used on its own, it was designed to be used as part of the [Sprint Review Recipe](../_recipes/sprint-review-recipe.md).
 
 # Duration

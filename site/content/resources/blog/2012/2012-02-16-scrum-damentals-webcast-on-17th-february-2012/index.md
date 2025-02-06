@@ -2,14 +2,13 @@
 title: Scrum-damentals Webcast on 17th February 2012
 description: Join the Scrum-damentals Webcast on February 17, 2012, to explore advanced Scrum strategies, challenges, and proven practices for successful implementation.
 ResourceId: bUSVyRUNCl3
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 4389
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-02-16
 creator: Martin Hinshelwood
-id: "4389"
 layout: blog
 resourceTypes: blog
 slug: scrum-damentals-webcast-on-17th-february-2012
@@ -21,18 +20,12 @@ aliases:
 aliasesFor404:
 - /scrum-damentals-webcast-on-17th-february-2012
 - /blog/scrum-damentals-webcast-on-17th-february-2012
+- /resources/blog/scrum-damentals-webcast-on-17th-february-2012
 tags:
-- agile
-- develop
-- events-and-presentations
-- practices
-- process
-- scrum
-- webcast
-- webcast-2
+- Scrum Team
 categories:
-- events-and-presentations
-- news-and-reviews
+- Events and Presentations
+- Scrum
 preview: metro-event-128-link-1-1.png
 
 ---

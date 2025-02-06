@@ -3,7 +3,7 @@ title: 'Before You Call Yourself an Agile Coach: The Importance of Real Experien
 description: 'Discover the first of 5 essential achievements to become an #AgileCoach with Martin Hinshelwood. Elevate your coaching journey today! #shorts #agile'
 date: 2023-11-13T11:00:29Z
 ResourceId: Po58JnxjX7M
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Po58JnxjX7M
@@ -20,35 +20,36 @@ aliases:
 - /resources/videos/Po58JnxjX7M
 - /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-1
 - /resources/Po58JnxjX7M
+aliasesFor404:
+- /resources/before-you-call-yourself-an-agile-coach-the-importance-of-real-experience
+- /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-1
+- /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-1
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Agile Coaching
+- Team Collaboration
+- Team Motivation
+- Agile Community
+- Agile Mentoring
+- Agile Values and Principles
+- Continuous Learning
+- Agile Transformation
+- Scrum Team
+- Agile Methodology
+- Employee Engagement
+- Coaching
+- Agile Certifications
+- Technical Leadership
 resourceTypes:
 - video
+categories:
+- People and Process
+- Organisational Agility
+- Agile Product Management
+- Scrum
+- Technical Excellence
 
 ---
 Being an Agile coach isn’t just about mastering theories and methodologies. To truly earn the title, you must **have real, hands-on experience working with teams**. This isn’t negotiable—it's an essential part of developing the credibility and knowledge needed to effectively guide teams in Agile practices.

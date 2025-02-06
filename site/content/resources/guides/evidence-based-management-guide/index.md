@@ -2,11 +2,15 @@
 title: 'The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty'
 description: Evidence-Based Management (EBM) is an empirical approach that helps organizations to continuously improve customer outcomes, organizational capabilities, and business results under conditions of uncertainty.
 ResourceId: ltc7lzhy14U
+ResourceImport: true
+ResourceType: guides
 resourceTypes: guide
 layout: guide
 aliases:
 - /learn/agile-delivery-kit/guides/evidence-based-management-guide
 - /resources/ltc7lzhy14U
+aliasesFor404:
+- /learn/agile-delivery-kit/guides/evidence-based-management-guide
 references:
 - title: The Evidence-Based Management Guide | Scrum.org
   url: https://scrum.org/resources/evidence-based-management-guide
@@ -27,6 +31,28 @@ card:
     content: Learn More
   content: Discover more about The Evidence-Based Management Guide
   title: The Evidence-Based Management Guide Improving Value Delivery under Conditions of Uncertainty
+categories:
+- Value Delivery
+- Metrics and Learning
+- Organisational Agility
+- Discovery and Learning
+- Complexity Thinking
+tags:
+- Evidence Based Management
+- Strategic Goals
+- Agile Planning
+- Customer Satisfaction
+- Ability to Innovate
+- Continuous Improvement
+- Experimentation
+- Value Stream Management
+- Agile Product Management
+- Decision Theory
+- Business Agility
+- Agile Product Discovery
+- Lean Thinking
+- Agile Leadership
+- Value Delivery
 
 ---
 # The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty

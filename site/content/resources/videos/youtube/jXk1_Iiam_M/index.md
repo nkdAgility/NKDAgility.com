@@ -3,7 +3,7 @@ title: 'The Power of Immersive Learning: Elevating Scrum Mastery in Your Organiz
 description: "Unlock your team's potential with immersive Scrum training! Discover practical insights and transform learning for effective team development. \U0001F31F\U0001F680"
 date: 2023-11-22T07:00:18Z
 ResourceId: jXk1_Iiam_M
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: jXk1_Iiam_M
@@ -20,35 +20,35 @@ aliases:
 - /resources/videos/jXk1_Iiam_M
 - /resources/do-you-think-training-departments-get-a-lot-more-bang-for-their-buck-with-immersive-learning-
 - /resources/jXk1_Iiam_M
+aliasesFor404:
+- /resources/the-power-of-immersive-learning-elevating-scrum-mastery-in-your-organization
+- /resources/videos/do-you-think-training-departments-get-a-lot-more-bang-for-their-buck-with-immersive-learning-
+- /resources/do-you-think-training-departments-get-a-lot-more-bang-for-their-buck-with-immersive-learning-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Scrum Master
+- Definition of Done
+- Scrum Team
+- Continuous Learning
+- Team Collaboration
+- Agile Transformation
+- Evidence Based Improvement
+- Customer Feedback Loops
+- Agile Values and Principles
+- Team Motivation
+- Agile Coaching
+- Agile Community
+- Value Delivery
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Discovery and Learning
+- Metrics and Learning
+- Value Delivery
 
 ---
 If you're an organization that invests heavily in training—especially if you're supporting a large number of people trying to step into the Scrum Master role—then immersive learning should be at the top of your list. It’s an investment that can dramatically increase your team's effectiveness. Unlike traditional training, where learning can quickly fade, immersive learning helps people **internalize** the knowledge and put it into practice immediately.

@@ -3,7 +3,7 @@ title: The Power of Frequent Deployments - Reducing Technical Debt and Deliverin
 description: Unlock the power of frequent deployments! Discover how smaller releases reduce technical debt, enhance product quality, and boost customer satisfaction.
 date: 2025-01-13T06:45:00Z
 ResourceId: D1wz-J1jklQ
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: D1wz-J1jklQ
@@ -17,18 +17,33 @@ aliases:
 - /resources/videos/the-power-of-frequent-deployments-reducing-technical-debt-and-delivering-better-products
 - /resources/the-power-of-frequent-deployments-reducing-technical-debt-and-delivering-better-products
 - /resources/D1wz-J1jklQ
+aliasesFor404:
+- /resources/videos/the-power-of-frequent-deployments-reducing-technical-debt-and-delivering-better-products
+- /resources/the-power-of-frequent-deployments-reducing-technical-debt-and-delivering-better-products
 preview: https://i.ytimg.com/vi/D1wz-J1jklQ/maxresdefault.jpg
 duration: 362
 isShort: false
 tags:
-- DevOps
-- Developers
-- Deployment frequency
+- Technical Debt
+- Continuous Delivery
+- Agile Product Discovery
+- Customer Feedback Loops
+- Evidence Based Management
+- Agile Software Development
+- Lean Thinking
+- Agile Product Management
+- Team Collaboration
+- Agile Values and Principles
+- Experimentation
+- Technical Excellence
+- Agile Transformation
 resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+categories:
+- DevOps
 
 ---
  The Power of Frequent Deployments: Reducing Technical Debt and Delivering Better Products

@@ -2,14 +2,13 @@
 title: Upgrading to Visual Studio Scrum 3.0 process template in TFS 2013
 description: Upgrade your TFS 2013 with the Visual Studio Scrum 3.0 Process Template. Follow our simple steps to enhance your project management and agile practices!
 ResourceId: hp378aoGMNz
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9913
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-06-26
 creator: Martin Hinshelwood
-id: "9913"
 layout: blog
 resourceTypes: blog
 slug: upgrading-to-visual-studio-scrum-3-0-process-template-in-tfs-2013
@@ -21,22 +20,13 @@ aliases:
 aliasesFor404:
 - /upgrading-to-visual-studio-scrum-3-0-process-template-in-tfs-2013
 - /blog/upgrading-to-visual-studio-scrum-3-0-process-template-in-tfs-2013
+- /resources/blog/upgrading-to-visual-studio-scrum-3-0-process-template-in-tfs-2013
 tags:
-- code
-- configuration
-- planning-tools
-- portfolio-management-tools
-- powershell
-- process-template
-- process-template-editor
-- process-template-manager
-- scrum
-- tfs
-- tfs-2013
-- tools
+- Scrum Product Management
+- Agile Tools
 categories:
-- code-and-complexity
-- install-and-configuration
+- Install and Configuration
+- Azure DevOps
 
 ---
 You want to upgraded to the Visual Studio Scrum 3.0 Process Template in Team Foundation Server 2013 but you really want to upgrade your whole process template in place and not jut enable new features.

@@ -45,6 +45,23 @@ function Get-HugoMarkdown {
     return [HugoMarkdown]::new($frontMatter, $bodyContent)
 }
 
+function Remove-Field {
+    param (
+        [Parameter(Mandatory = $true)]
+        [System.Collections.Specialized.OrderedDictionary]$frontMatter,
+        [Parameter(Mandatory = $true)]
+        [string]$fieldName
+    )
+
+    if ($frontMatter.Contains($fieldName)) {
+        $frontMatter.Remove($fieldName)
+        Write-Host "$fieldName removed"
+    }
+    else {
+        Write-Host "$fieldName does not exist"
+    }
+}
+
 # Function to update a  field in the front matter
 function Update-Field {
     param (
@@ -106,7 +123,8 @@ function Update-StringList {
         [Parameter(Mandatory = $true)]
         [string[]]$values,
         [string]$addAfter = $null,
-        [string]$addBefore = $null
+        [string]$addBefore = $null,
+        [switch]$Overwrite
     )
 
     # Ensure the input values are unique and always an array
@@ -141,7 +159,12 @@ function Update-StringList {
         $existingValues = $frontMatter[$fieldName]
         $newValues = $values | Where-Object { -not ($existingValues -icontains $_) }
         if ($newValues.Count -ne 0) {
-            $frontMatter[$fieldName] += $newValues
+            if ($Overwrite) {
+                $frontMatter[$fieldName] = $newValues
+            }
+            else {
+                $frontMatter[$fieldName] += $newValues
+            }
             Write-Host "$fieldName updated with new unique values"
         }
         else {

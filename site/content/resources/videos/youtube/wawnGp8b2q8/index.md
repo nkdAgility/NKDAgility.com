@@ -3,7 +3,7 @@ title: If you could distil the PAL e immersive learning experience into 3 major 
 description: 'Discover the top 3 benefits of the PAL-E immersive learning experience with Joanna Plaskonka and elevate your Agile leadership skills! #Agile #Scrum'
 date: 2023-07-13T12:20:07Z
 ResourceId: wawnGp8b2q8
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: wawnGp8b2q8
@@ -16,24 +16,29 @@ aliases:
 - /resources/videos/if-you-could-distil-the-pal-e-immersive-learning-experience-into-3-major-benefits,-what-are-they-
 - /resources/if-you-could-distil-the-pal-e-immersive-learning-experience-into-3-major-benefits,-what-are-they-
 - /resources/wawnGp8b2q8
+aliasesFor404:
+- /resources/videos/if-you-could-distil-the-pal-e-immersive-learning-experience-into-3-major-benefits,-what-are-they-
+- /resources/if-you-could-distil-the-pal-e-immersive-learning-experience-into-3-major-benefits,-what-are-they-
 preview: https://i.ytimg.com/vi/wawnGp8b2q8/maxresdefault.jpg
 duration: 196
 isShort: false
 tags:
-- PAL-E
-- PAL-E course
-- PAL-E immersive learning experience
-- PAL-E certification
-- Professional Agile Leader - Essentials
-- Professional Agile Leader course
-- Professional Agile Leader certification
-- Professional Agile Leader Essentials Immersive learning course
+- Agile Mentoring
+- Organisational Culture
+- Change Management
+- Agile Values and Principles
+- Psychological Safety
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Discovery and Learning
+- Metrics and Learning
+- People and Process
+- Resilience and Change
 
 ---
  The new #immersivelearning experience from Scrum.Org is perfectly suited to the Professional Agile Leadership Essentials course. It gives you heaps of time to digest the information, apply what you have learned, and take advantage of the blend of coaching and teaching that the course entails.

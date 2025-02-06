@@ -3,7 +3,7 @@ title: Scrum is like communism, it doesn't work. Myth 2.
 description: "Uncover the truth about story points in Scrum! Join Martin as he debunks myths and reveals their true purpose as a tool for team conversation. \U0001F680\U0001F4CA"
 date: 2023-10-24T11:00:39Z
 ResourceId: l3NhlbM2gKM
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: l3NhlbM2gKM
@@ -20,37 +20,35 @@ aliases:
 - /resources/videos/l3NhlbM2gKM
 - /resources/scrum-is-like-communism-it-doesn't-work-myth-2
 - /resources/l3NhlbM2gKM
+aliasesFor404:
+- /resources/scrum-is-like-communism-it-doesnt-work-myth-2
+- /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-2
+- /resources/scrum-is-like-communism-it-doesn't-work-myth-2
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
-- Agile leadership
-- Agile leader
-- Leadership
+- Scrum Team
+- Scrum Master
+- Scrum Product Management
+- Agile Estimation
+- Continuous Improvement
+- Agile Planning
+- Backlog Refinement
+- Technical Excellence
+- Value Delivery
+- Agile Product Management
+- Evidence Based Improvement
+- Agile Values and Principles
+- Complexity Thinking
 resourceTypes:
 - video
+categories:
+- Scrum
+- Metrics and Learning
+- People and Process
+- Discovery and Learning
+- Technical Excellence
 
 ---
 # Unraveling the Story Point Myth in Scrum: A Path to Clarity 🚀

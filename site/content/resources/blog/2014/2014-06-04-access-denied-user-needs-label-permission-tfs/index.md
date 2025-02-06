@@ -2,14 +2,13 @@
 title: Access denied user needs label permission in TFS
 description: Learn how to resolve the 'Access denied user needs label permission in TFS' error and optimize your TFS security settings for smoother project management.
 ResourceId: jdpPpvEHzGa
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10546
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-06-04
 creator: Martin Hinshelwood
-id: "10546"
 layout: blog
 resourceTypes: blog
 slug: access-denied-user-needs-label-permission-tfs
@@ -25,16 +24,24 @@ aliasesFor404:
 - /blog/access-denied-user-needs-label-permission-tfs
 - /access-denied-user-needs-label-permission-in-tfs
 - /blog/access-denied-user-needs-label-permission-in-tfs
+- /resources/blog/access-denied-user-needs-label-permission-tfs
 tags:
-- label
-- one-team-project-seriese
-- permissions
-- tf14098
-- tfs
-- tfs2012
-- tfs-2012-4
+- Agile Tools
+- Azure DevOps
+- Technical Debt
+- Team Collaboration
+- Continuous Improvement
+- Agile Software Development
+- Evidence Based Management
+- Agile Product Management
+- Value Delivery
+- Agile Methodology
+- Customer Feedback Loops
+- Technical Excellence
+- Agile Transformation
+- Lean Principles
 categories:
-- problems-and-puzzles
+- Technical Excellence
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

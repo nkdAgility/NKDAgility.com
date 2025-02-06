@@ -2,7 +2,7 @@
 title: Hiring a Professional Product Owner
 description: Discover the essential qualities of a Professional Product Owner. Learn how to maximize product value and enhance team collaboration for success.
 ResourceId: Stln5As7Fof
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 46138
 ResourceImportSource: Wordpress
@@ -25,7 +25,6 @@ contributors:
   external: https://www.linkedin.com/in/victoria-pent-627a6b61/
 - name: James Powis
   external: https://www.linkedin.com/in/james-powis-agile-product-owner/
-id: "46138"
 layout: blog
 resourceTypes: blog
 slug: hiring-a-professional-product-owner
@@ -37,14 +36,28 @@ aliases:
 aliasesFor404:
 - /hiring-a-professional-product-owner
 - /blog/hiring-a-professional-product-owner
+- /resources/blog/hiring-a-professional-product-owner
 tags:
-- featured
-- product-discovery
-- product-owner
+- Product Owner
+- Scrum Product Management
+- Agile Product Ownership
+- Scrum Team
+- Accountability
+- Evidence Based Management
+- Agile Product Discovery
+- Customer Feedback Loops
+- Agile Planning
+- Strategic Goals
+- Continuous Improvement
+- Technical Excellence
+- Value Delivery
+- Agile Methodology
 categories:
-- discovery-ideation
-- news-and-reviews
-- people-and-process
+- Agile Product Management
+- People and Process
+- Discovery and Learning
+- Value Delivery
+- Scrum
 preview: image-3-3.png
 
 ---

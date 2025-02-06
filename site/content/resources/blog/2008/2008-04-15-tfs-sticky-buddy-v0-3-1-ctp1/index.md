@@ -2,14 +2,13 @@
 title: TFS Sticky Buddy v0.3.1 CTP1
 description: Explore the TFS Sticky Buddy v0.3.1 CTP1, a WPF digital dashboard for Team Foundation Server. Download now to visualize your project areas and iterations!
 ResourceId: UkSxUYTe7U_
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 239
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-04-15
 creator: Martin Hinshelwood
-id: "239"
 layout: blog
 resourceTypes: blog
 slug: tfs-sticky-buddy-v0-3-1-ctp1
@@ -21,15 +20,12 @@ aliases:
 aliasesFor404:
 - /tfs-sticky-buddy-v0-3-1-ctp1
 - /blog/tfs-sticky-buddy-v0-3-1-ctp1
+- /resources/blog/tfs-sticky-buddy-v0-3-1-ctp1
 tags:
-- code
-- tfs-sticky-buddy
-- wit
-- wpf
+- Agile Software Development
+- Agile Tools
 categories:
-- code-and-complexity
-- me
-- tools-and-techniques
+- Azure DevOps
 preview: metro-binary-vb-128-link-3-1.png
 
 ---

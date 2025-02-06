@@ -2,7 +2,7 @@
 title: All technical debt is a risk to the product and to your business.
 description: Discover how technical debt poses risks to your product and business. Learn strategies to manage it effectively and ensure quality delivery. Read more!
 ResourceId: ZSqNF7v9vSR
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 45521
 ResourceImportSource: Wordpress
@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2021-01-25
 AudioNative: true
 creator: Martin Hinshelwood
-id: "45521"
 layout: blog
 resourceTypes: blog
 slug: all-technical-debt-is-a-risk-to-the-product-and-to-your-business
@@ -26,14 +25,28 @@ aliasesFor404:
 - /blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business
 - /all-technical-debt-is-a-risk-to-the-product-and-to-your-business-
 - /blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business-
+- /resources/blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business
 tags:
-- continuous-quality
-- definition-of-done
-- featured
-- predictable-quality
+- Technical Debt
+- Agile Software Development
+- Continuous Delivery
+- Technical Excellence
+- Agile Product Management
+- Agile Planning
+- Team Collaboration
+- Business Agility
+- Value Delivery
+- Systems Thinking
+- Evidence Based Management
+- Change Management
+- Agile Leadership
+- Agile Values and Principles
 categories:
-- code-and-complexity
-- transparency-commitment
+- Technical Excellence
+- Value Delivery
+- Product Delivery
+- Systems Thinking
+- Metrics and Learning
 preview: All-technical-debt-is-risk-to-the-product-and-to-your-business-2-2.jpg
 
 ---

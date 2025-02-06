@@ -2,34 +2,41 @@
 title: Testing in Production Maximises Quality and Value
 description: Explore how audience-based deployment, also known as ring-based deployment, challenges traditional environments, accelerates feedback, and transforms continuous delivery.
 ResourceId: _ncZFfeCrnS
-ResourceImport: false
+ResourceType: blog
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2025-02-13T09:00:00
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
-  - name: Benjamin Day
-    external: https://www.linkedin.com/in/benjaminpday/
-  - name: Dave Westgarth
-    external: https://www.linkedin.com/in/dave-westgarth/
+- name: Benjamin Day
+  external: https://www.linkedin.com/in/benjaminpday/
+- name: Dave Westgarth
+  external: https://www.linkedin.com/in/dave-westgarth/
 layout: blog
 resourceTypes: blog
 slug: testing-in-production-maximises-quality-and-value
 aliases:
-  - /resources/_ncZFfeCrnS
+- /resources/_ncZFfeCrnS
 aliasesFor404:
+- /testing-in-production-maximises-quality-and-value
+- /blog/testing-in-production-maximises-quality-and-value
 tags:
-  - continuous-delivery
-  - devops
-  - deployment-strategies
-  - agile
-  - audience-based-deployment
+- Deployment Frequency
+- Technical Excellence
+- Agile Product Management
+- Lean Thinking
+- Agile Digital Tools
+- Test Automation
 categories:
-  - software-engineering
-  - devops
-  - product-delivery
+- Value Delivery
+- Metrics and Learning
+- DevOps
+- Technical Excellence
 preview: 2025-02-06-testing-in-production-maximises-quality-and-value.jpg
----
 
+---
 Testing in production, is about structured, observable releases that allow for fast feedback, controlled exposure, and rapid course correction, ensuring quality without sacrificing speed.
 
 One such paradigm shift in software delivery is audience-based deployment.

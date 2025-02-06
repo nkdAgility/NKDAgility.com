@@ -2,14 +2,13 @@
 title: VSTS Sync Migration Tool Update and Bugfix
 description: Discover the latest updates and bug fixes for the VSTS Sync Migration Tool, enhancing your TFS and VSTS experience. Streamline your project migrations today!
 ResourceId: QO9MQIxxcoy
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 11944
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2017-06-21
 creator: Martin Hinshelwood
-id: "11944"
 layout: blog
 resourceTypes: blog
 slug: vsts-sync-migration-tool-update-bugfix
@@ -25,11 +24,22 @@ aliasesFor404:
 - /blog/vsts-sync-migration-tool-update-bugfix
 - /vsts-sync-migration-tool-update-and-bugfix
 - /blog/vsts-sync-migration-tool-update-and-bugfix
+- /resources/blog/vsts-sync-migration-tool-update-bugfix
 tags:
-- migration
-- sync
-- tfs
-- vsts
+- Agile Tools
+- Azure DevOps
+- Continuous Delivery
+- Agile Software Development
+- Technical Excellence
+- Customer Feedback Loops
+- Agile Product Management
+- Evidence Based Improvement
+- Agile Product Discovery
+- Value Delivery
+- Agile Transformation
+- Agile Community
+- Agile Software Engineering
+- Collaboration Tools
 categories:
 - devops
 preview: nkdagility-martin-hinshelwood-vsts-sync-migration-1-1.png

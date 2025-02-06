@@ -3,7 +3,7 @@ title: Would you recommend the APS course to a newbie scrum team, and Why?
 description: 'Discover how the APS course can empower your newbie Scrum team to create value and thrive in an Agile environment. Watch now! #Scrum #Agile #Training'
 date: 2023-03-23T07:00:15Z
 ResourceId: rPxverzgPz0
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: rPxverzgPz0
@@ -21,20 +21,37 @@ aliases:
 - /resources/videos/rPxverzgPz0
 - /resources/would-you-recommend-the-aps-course-to-a-newbie-scrum-team-
 - /resources/rPxverzgPz0
+aliasesFor404:
+- /resources/would-you-recommend-the-aps-course-to-a-newbie-scrum-team-and-why
+- /resources/would-you-recommend-the-aps-course-to-a-newbie-scrum-team
+- /resources/videos/would-you-recommend-the-aps-course-to-a-newbie-scrum-team-
+- /resources/would-you-recommend-the-aps-course-to-a-newbie-scrum-team-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- APS
-- Applying Professional Scrum
-- Scrum Training
-- Scrum Course
-- Scrum Certification
-- Scrum.Org
-- Agile
-- Agile Scrum Training
+- Scrum Team
+- Organisational Change
+- Agile Coaching
+- Continuous Improvement
+- Agile Product Management
+- Scrum Product Development
+- Team Motivation
+- Agile Project Management
+- Agile Values and Principles
+- Organisational Agility
+- Change Management
+- Agile Transformation
+- Employee Engagement
+- Technical Excellence
 resourceTypes:
 - video
+categories:
+- Scrum
+- Organisational Agility
+- People and Process
+- Value Delivery
+- Resilience and Change
 
 ---
 **Would you recommend the APS course to a newbie scrum team, and Why?**

@@ -3,7 +3,7 @@ title: Addressing Systemic Issues in Agile Organizations
 description: Unlock the secrets to startup success! Discover how agile techniques can transform your business and boost team performance in this must-watch video.
 date: 2024-01-24T07:00:16Z
 ResourceId: QBX7dnUBzo8
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: QBX7dnUBzo8
@@ -20,35 +20,36 @@ aliases:
 - /resources/videos/QBX7dnUBzo8
 - /resources/agile-techniques-that-boost-startups!
 - /resources/QBX7dnUBzo8
+aliasesFor404:
+- /resources/addressing-systemic-issues-in-agile-organizations
+- /resources/videos/agile-techniques-that-boost-startups!
+- /resources/agile-techniques-that-boost-startups!
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Change Management
+- Systems Thinking
+- Organisational Agility
+- Agile Transformation
+- Business Agility
+- Continuous Improvement
+- Evidence Based Management
+- Organisational Change
+- Team Collaboration
+- Agile Strategy
+- Psychological Safety
+- Value Delivery
+- Employee Engagement
+- Agile Product Discovery
 resourceTypes:
 - video
+categories:
+- Systems Thinking
+- Organisational Agility
+- Metrics and Learning
+- Value Delivery
+- Resilience and Change
 
 ---
 Organizations often struggle to address the root causes of inefficiencies, particularly when adopting Agile practices. Instead of tackling the core issues within their systems, they focus on surface-level problems. This blog post will explore these systemic issues and provide insights on how to make meaningful changes that lead to greater effectiveness and agility.

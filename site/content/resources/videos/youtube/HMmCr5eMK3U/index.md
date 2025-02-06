@@ -3,7 +3,7 @@ title: Free Workshop 6 - Introduction to the Definition of Done!
 description: Join our free workshop to explore the Definition of Done! Learn how to create one with your team and enhance your project success. Don't miss out!
 date: 2021-10-15T05:13:22Z
 ResourceId: HMmCr5eMK3U
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: HMmCr5eMK3U
@@ -18,6 +18,9 @@ aliases:
 - /resources/videos/free-workshop-6-introduction-to-the-definition-of-done!
 - /resources/free-workshop-6-introduction-to-the-definition-of-done!
 - /resources/HMmCr5eMK3U
+aliasesFor404:
+- /resources/videos/free-workshop-6-introduction-to-the-definition-of-done!
+- /resources/free-workshop-6-introduction-to-the-definition-of-done!
 preview: https://i.ytimg.com/vi/HMmCr5eMK3U/maxresdefault.jpg
 duration: 6056
 isShort: false
@@ -26,6 +29,23 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Scrum
+- Definition of Done
+- People and Process
+- Events and Presentations
+- Practical Techniques and Tooling
+tags:
+- Definition of Done
+- Scrum Team
+- Agile Planning
+- Agile Project Management
+- Continuous Improvement
+- Working Agreements
+- Agile Values and Principles
+- Agile Software Development
+- Agile Product Management
+- Team Collaboration
 
 ---
  We will dive into what a Definition of Done is, what it should look like, and how you can run a workshop with your teams to create one.

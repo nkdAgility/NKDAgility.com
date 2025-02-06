@@ -2,14 +2,13 @@
 title: Could not load file or assembly while configuring Build vNext Agent
 description: Encountering 'Could not load file or assembly' errors while configuring the Build vNext Agent? Discover solutions and tips to resolve this issue effectively.
 ResourceId: zd3C3XiE0H4
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 11072
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-01-15
 creator: Martin Hinshelwood
-id: "11072"
 layout: blog
 resourceTypes: blog
 slug: could-not-load-file-or-assembly-while-configuring-build-vnext-agent
@@ -21,17 +20,27 @@ aliases:
 aliasesFor404:
 - /could-not-load-file-or-assembly-while-configuring-build-vnext-agent
 - /blog/could-not-load-file-or-assembly-while-configuring-build-vnext-agent
+- /resources/blog/could-not-load-file-or-assembly-while-configuring-build-vnext-agent
 tags:
-- build
-- build-agent
-- build-vnext
-- strong-name
-- team-build
-- tfs
-- tfs-2015
-- vsteamservices
+- DevOps
+- Continuous Integration
+- Technical Debt
+- Agile Software Development
+- Azure DevOps
+- Technical Excellence
+- Evidence Based Management
+- Agile Methodology
+- Software Development
+- Agile Tools
+- Agile Product Management
+- Agile Software Engineering
+- Continuous Delivery
+- Test Automation
 categories:
-- problems-and-puzzles
+- Install and Configuration
+- Azure DevOps
+- Technical Excellence
+- Problems and Puzzles
 
 ---
 If you are using Windows Server 2012 R2 to test out the new vNext build agent then you may run into an error where it could not load file or assembly while configuring Build vNext Agent.

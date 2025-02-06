@@ -2,14 +2,13 @@
 title: 'TFS 2012 - Issue: Manage Group Membership missing from admin after TFS 2008 to TFS 2012 Upgrade'
 description: Discover how to resolve the 'Manage Group Membership' issue after upgrading from TFS 2008 to TFS 2012. Get expert solutions and regain your permissions!
 ResourceId: bKcrt-7tHMX
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 7176
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-16
 creator: Martin Hinshelwood
-id: "7176"
 layout: blog
 resourceTypes: blog
 slug: tfs-2012-issue-manage-group-membership-missing-from-admin-after-tfs-2008-to-tfs-2012-upgrade
@@ -26,13 +25,13 @@ aliasesFor404:
 - /blog/tfs-2012-issue-manage-group-membership-missing-from-admin-after-tfs-2008-to-tfs-2012-upgrade
 - /tfs-2012---issue--manage-group-membership-missing-from-admin-after-tfs-2008-to-tfs-2012-upgrade
 - /blog/tfs-2012---issue--manage-group-membership-missing-from-admin-after-tfs-2008-to-tfs-2012-upgrade
+- /tfs-2012
+- /resources/blog/tfs-2012-issue-manage-group-membership-missing-from-admin-after-tfs-2008-to-tfs-2012-upgrade
 tags:
-- puzzles
-- tfs
-- tfs2008
-- tfs2012
+- Agile Tools
+- Technical Debt
 categories:
-- problems-and-puzzles
+- Azure DevOps
 preview: metro-problem-icon-7-7.png
 
 ---

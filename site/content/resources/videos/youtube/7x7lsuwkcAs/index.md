@@ -3,7 +3,7 @@ title: Bitrate for Joshua Partogi
 description: Explore the intricacies of bitrate with Joshua Partogi as he breaks down its impact on video quality and streaming performance in this insightful video.
 date: 2020-06-29T14:01:55Z
 ResourceId: 7x7lsuwkcAs
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 7x7lsuwkcAs
@@ -17,6 +17,9 @@ aliases:
 - /resources/videos/bitrate-for-joshua-partogi
 - /resources/bitrate-for-joshua-partogi
 - /resources/7x7lsuwkcAs
+aliasesFor404:
+- /resources/videos/bitrate-for-joshua-partogi
+- /resources/bitrate-for-joshua-partogi
 preview: https://i.ytimg.com/vi/7x7lsuwkcAs/maxresdefault.jpg
 duration: 193
 isShort: false
@@ -26,7 +29,19 @@ sitemap:
 layout: video
 resourceTypes:
 - video
+categories:
+- Events and Presentations
+tags:
+- Featured
+- Agile Digital Tools
+- Agile Methodology
+- Agile Software Development
+- Agile Product Discovery
+- Agile Product Management
+- Agile Community
+- Agile Values and Principles
+- Continuous Improvement
+- Customer Feedback Loops
 
 ---
-  
  [Watch on Youtube](https://www.youtube.com/watch?v=7x7lsuwkcAs)

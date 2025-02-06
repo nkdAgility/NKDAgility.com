@@ -2,14 +2,13 @@
 title: Create your own path to Organisational Agility
 description: Discover how to tailor your path to organisational agility with evidence-based strategies. Empower your team and drive meaningful change today!
 ResourceId: RdwxVidD26i
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 11214
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2018-01-11
 creator: Martin Hinshelwood
-id: "11214"
 layout: blog
 resourceTypes: blog
 slug: organisational-change-create-path
@@ -25,20 +24,29 @@ aliasesFor404:
 - /blog/organisational-change-create-path
 - /create-your-own-path-to-organisational-agility
 - /blog/create-your-own-path-to-organisational-agility
+- /resources/blog/organisational-change-create-path
 tags:
-- agile
-- agility
-- business-agility
-- ebm
-- ebmgt
-- evidence
-- evidence-based-management
-- homepage
-- organisational-change-team
-- scrum
-- scrum-definition
+- Organisational Agility
+- Change Management
+- Organisational Change
+- Business Agility
+- Agile Strategy
+- Continuous Improvement
+- Scrum Team
+- Scrum Product Management
+- Agile Product Management
+- Leadership Training
+- Employee Engagement
+- Agile Transformation
+- Evidence Based Management
+- Systems Thinking
+- Agile Values and Principles
 categories:
-- people-and-process
+- Organisational Agility
+- People and Process
+- Scaling Agility
+- Resilience and Change
+- Value Delivery
 preview: nkdagility-create-your-own-path-to-agility-3-3.jpg
 
 ---

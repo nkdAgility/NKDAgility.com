@@ -3,7 +3,7 @@ title: Would you recommend a team APS workshop or an agile consultant?
 description: Discover whether an APS workshop or agile consultant is best for your team. Join Martin Hinshelwood as he shares insights on mastering Scrum for effective product development.
 date: 2023-04-05T07:00:03Z
 ResourceId: 76mGfF0KoD0
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 76mGfF0KoD0
@@ -15,17 +15,27 @@ aliases:
 - /resources/videos/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant-
 - /resources/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant-
 - /resources/76mGfF0KoD0
+aliasesFor404:
+- /resources/videos/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant-
+- /resources/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant-
 preview: https://i.ytimg.com/vi/76mGfF0KoD0/maxresdefault.jpg
 duration: 376
 isShort: false
 tags:
-- Scrum
-- Applying Professional Scrum
-- APS
-- Scrum coach
-- Agile Coach
-- Agile Consultant
-- Agile Consulting
+- Scrum Master
+- Agile Coaching
+- Team Collaboration
+- Agile Product Management
+- Agile Transformation
+- Continuous Improvement
+- Agile Values and Principles
+- Team Motivation
+- Working Agreements
+- Agile Problem Solving
+- Customer Feedback Loops
+- Agile Software Development
+- Agile Community
+- Self Organisation
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -33,6 +43,12 @@ source: youtube
 layout: video
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Organisational Agility
+- Discovery and Learning
+- Value Delivery
 
 ---
  If a #scrummaster is battling to organize the team effectively and align them with customer and organizational objectives throughout the #productdevelopment process, what should you do?

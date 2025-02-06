@@ -1,17 +1,45 @@
 ---
-id: "48616"
-title: "January 2023 NKDAgility: What is the difference between traditional and empirical approaches"
-date: "2023-01-03"
-preview: "naked-agility-technically-agile-1280×720-Jan2023.jpg"
-author: "MrHinsh"
+title: 'January 2023 NKDAgility: What is the difference between traditional and empirical approaches'
+description: Explore NKDAgility's latest edition, focusing on the vital role of agility in today's world. Discover insightful articles, videos, and community resources!
+ResourceId: -D7_0lz9GU6
+ResourceImport: true
+ResourceType: newsletters
+date: 2023-01-03
+preview: naked-agility-technically-agile-1280×720-Jan2023.jpg
+author: MrHinsh
 resourceTypes: newsletter
 layout: newsletter
-slug: "january-2023"
+slug: january-2023
 aliases:
-  - /newsletters/january-2023/
-  - /resources/newsletters/january-2023/
----
+- /newsletters/january-2023/
+- /resources/newsletters/january-2023/
+- /resources/-D7_0lz9GU6
+aliasesFor404:
+- /newsletters/january-2023/
+- /resources/newsletters/january-2023/
+categories:
+- Organisational Agility
+- Scrum
+- Discovery and Learning
+- Value Delivery
+- Resilience and Change
+tags:
+- Agility
+- Empirical Process Control
+- Scrum
+- Scrum Team
+- Scrum Product Management
+- Agile Planning
+- Agile Product Discovery
+- Change Management
+- Continuous Improvement
+- Evidence Based Management
+- Agile Frameworks
+- Agile Transformation
+- Team Collaboration
+- Organisational Agility
 
+---
 Welcome to this month's edition of NKDAgility.
 
 In today's fast-paced, rapidly changing world, agility has become more important than ever. The ability to quickly adapt to new situations, pivot when necessary, and continuously improve is key to success in the 21st century.

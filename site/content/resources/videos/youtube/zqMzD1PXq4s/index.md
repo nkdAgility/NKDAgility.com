@@ -3,7 +3,7 @@ title: The Cost of Chaos. The Impact of Poor Technical Leadership
 description: Discover how poor technical leadership fuels chaos in software delivery and learn to boost productivity through engineering excellence with Martin Hinshelwood.
 date: 2024-12-16T06:00:00Z
 ResourceId: zqMzD1PXq4s
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: zqMzD1PXq4s
@@ -17,27 +17,37 @@ aliases:
 - /resources/videos/the-cost-of-chaos-the-impact-of-poor-technical-leadership
 - /resources/the-cost-of-chaos-the-impact-of-poor-technical-leadership
 - /resources/zqMzD1PXq4s
+aliasesFor404:
+- /resources/videos/the-cost-of-chaos-the-impact-of-poor-technical-leadership
+- /resources/the-cost-of-chaos-the-impact-of-poor-technical-leadership
 preview: https://i9.ytimg.com/vi/zqMzD1PXq4s/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCCJvxRnT7rlMn8MlnyQgBfNMJTrg
 duration: 413
 isShort: false
 tags:
-- Software engineering
-- Software development
-- Agile
-- Product Development
-- Product Management
-- Project Management
-- Project Manager
-- Product Manager
-- Product Owner
-- Scrum Master
-- Agile product development
-- Agile product management
+- Technical Leadership
+- Technical Debt
+- Engineering Excellence
+- Continuous Improvement
+- Systems Thinking
+- Value Delivery
+- Agile Software Development
+- DevOps
+- Customer Feedback Loops
+- Technical Excellence
+- Lean Thinking
+- Agile Digital Tools
+- Evidence Based Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Technical Excellence
+- Value Delivery
+- People and Process
+- Systems Thinking
+- Product Delivery
 
 ---
  Chaos Costs Money: How Engineering Excellence Controls Chaos and Boosts Productivity | Martin Hinshelwood

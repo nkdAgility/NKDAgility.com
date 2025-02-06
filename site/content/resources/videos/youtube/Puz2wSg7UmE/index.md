@@ -3,7 +3,7 @@ title: How to Measure Your Organization's Ability to Improve Value Through Innov
 description: "Discover 5 compelling reasons to integrate Evidence-Based Management (EBM) into your agile environment and unlock your organisation's innovation potential! #EBM #Agile"
 date: 2024-01-25T11:00:18Z
 ResourceId: Puz2wSg7UmE
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Puz2wSg7UmE
@@ -20,35 +20,36 @@ aliases:
 - /resources/videos/Puz2wSg7UmE
 - /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-4
 - /resources/Puz2wSg7UmE
+aliasesFor404:
+- /resources/how-to-measure-your-organizations-ability-to-improve-value-through-innovation
+- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-4
+- /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-4
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Ability to Innovate
+- Evidence Based Management
+- Value Delivery
+- Continuous Improvement
+- Technical Debt
+- Business Agility
+- Value Stream Management
+- Customer Feedback Loops
+- Agile Product Discovery
+- Decision Making
+- Market Adaptability
+- Agile Strategy
+- Agile Planning
+- Lean Principles
 resourceTypes:
 - video
+categories:
+- Metrics and Learning
+- Discovery and Learning
+- Value Delivery
+- Value Stream Management
+- Organisational Agility
 
 ---
 In today's fast-paced business environment, organizations are constantly seeking ways to improve the value they deliver. But how can you truly know if your organization is effective at doing so? The answer lies in understanding your **organizational capability** and, more specifically, your **ability to innovate**. In this blog post, we’ll explore how you can leverage evidence-based management to measure and improve your organization's capacity for innovation. We’ll also dive into some key metrics that can help you gauge your progress.

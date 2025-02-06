@@ -2,14 +2,13 @@
 title: Do you know about the Visual Studio 2010 Database Projects Guidance?
 description: Discover essential guidance for Visual Studio 2010 Database Projects, enhancing your team's database management and deployment strategies. Unlock your potential!
 ResourceId: 84KSaMagvy0
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9896
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-02-16
 creator: Martin Hinshelwood
-id: "9896"
 layout: blog
 resourceTypes: blog
 slug: do-you-know-about-the-visual-studio-2010-database-projects-guidance
@@ -25,13 +24,14 @@ aliasesFor404:
 - /blog/do-you-know-about-the-visual-studio-2010-database-projects-guidance
 - /do-you-know-about-the-visual-studio-2010-database-projects-guidance-
 - /blog/do-you-know-about-the-visual-studio-2010-database-projects-guidance-
+- /resources/blog/do-you-know-about-the-visual-studio-2010-database-projects-guidance
 tags:
-- nwcadence
-- tfs
-- tools
-- visual-studio
-- vs2010
+- Agile Software Development
+- Technical Excellence
 preview: metro-visual-studio-2010-128-link-3-3.png
+categories:
+- Application Lifecycle Management
+- Practical Techniques and Tooling
 
 ---
 [![vs2010almRanger](images/Do-you-know-about-the-Visual-Studio-2010_D160-vs2010almRanger_thumb-1-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Do-you-know-about-the-Visual-Studio-2010_D160-vs2010almRanger_2.png)Early on in the Team System (now Visual Studio ALM) cycle a new product surfaced within Team System that was affectionately called “Data Dude”, but had the more formal name of “Visual Studio 2005 Team Edition for Database Professionals”. The purpose of this product was to try and make the database a “first class citizen” in the development world.

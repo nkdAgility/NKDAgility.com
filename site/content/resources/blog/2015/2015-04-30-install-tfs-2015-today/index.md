@@ -2,14 +2,13 @@
 title: Install TFS 2015 today
 description: Learn how to install and configure TFS 2015 effortlessly. Upgrade your system with essential tips and insights from expert Martin Hinshelwood. Get started now!
 ResourceId: v-m2PYvEaWx
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 11286
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-04-30
 creator: Martin Hinshelwood
-id: "11286"
 layout: blog
 resourceTypes: blog
 slug: install-tfs-2015-today
@@ -21,13 +20,27 @@ aliases:
 aliasesFor404:
 - /install-tfs-2015-today
 - /blog/install-tfs-2015-today
+- /resources/blog/install-tfs-2015-today
 tags:
-- configuration
-- install
-- tfs
-- tfs-2015
+- Agile Software Development
+- Agile Tools
+- Continuous Delivery
+- Deployment Frequency
+- Technical Excellence
+- Agile Project Management
+- Agile Product Management
+- DevOps
+- Agile Product Discovery
+- Value Delivery
+- Evidence Based Management
+- Customer Feedback Loops
+- Agile Transformation
+- Software Development
 categories:
-- install-and-configuration
+- Install and Configuration
+- Azure DevOps
+- Application Lifecycle Management
+- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-11-11.png
 
 ---

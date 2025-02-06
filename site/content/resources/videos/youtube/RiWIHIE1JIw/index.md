@@ -3,7 +3,7 @@ title: Scrum is like communism; it does not work! [SD Only]
 description: Unpack the myths that hinder Scrum adoption and discover why it’s not like communism! Join us as we debunk misconceptions and enhance your Agile journey.
 date: 2024-05-06T10:49:15Z
 ResourceId: RiWIHIE1JIw
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: RiWIHIE1JIw
@@ -18,6 +18,9 @@ aliases:
 - /resources/videos/scrum-is-like-communism;-it-does-not-work!-[sd-only]
 - /resources/scrum-is-like-communism;-it-does-not-work!-[sd-only]
 - /resources/RiWIHIE1JIw
+aliasesFor404:
+- /resources/videos/scrum-is-like-communism;-it-does-not-work!-[sd-only]
+- /resources/scrum-is-like-communism;-it-does-not-work!-[sd-only]
 preview: https://i.ytimg.com/vi/RiWIHIE1JIw/maxresdefault.jpg
 duration: 1373
 isShort: false
@@ -26,6 +29,28 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Value Delivery
+- Transparency and Accountability
+- Metrics and Learning
+tags:
+- Scrum
+- Scrum Master
+- Scrum Team
+- Agile Planning
+- Daily Scrum
+- Sprint Planning Workshop
+- Sprint Review
+- Definition of Done
+- Continuous Improvement
+- Technical Debt
+- Agile Product Management
+- Value Delivery
+- Empirical Process Control
+- Agile Product Discovery
+- Team Collaboration
 
 ---
  This is a phrase I often hear from folks who have been unable to adapt their systems of work to incorporate the core philosophies, theories, and practices of Scrum. They sit and look at the signals coming from Scrum that things are broken and do nothing but say:

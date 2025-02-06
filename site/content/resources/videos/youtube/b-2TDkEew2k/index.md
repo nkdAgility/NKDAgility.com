@@ -3,7 +3,7 @@ title: ' shorts 7 Virtues of agile. Temperance'
 description: 'Discover the virtue of Temperance in Agile! Join us for insights on fostering balance and harmony in your teams. #Agile #Scrum #Shorts'
 date: 2023-12-05T11:00:27Z
 ResourceId: b-2TDkEew2k
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: b-2TDkEew2k
@@ -16,39 +16,38 @@ aliases:
 - /resources/videos/-shorts-7-virtues-of-agile-temperance
 - /resources/-shorts-7-virtues-of-agile-temperance
 - /resources/b-2TDkEew2k
+aliasesFor404:
+- /resources/videos/-shorts-7-virtues-of-agile-temperance
+- /resources/-shorts-7-virtues-of-agile-temperance
 preview: https://i.ytimg.com/vi/b-2TDkEew2k/maxresdefault.jpg
 duration: 59
 isShort: true
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Scrum Master
+- Scrum Team
+- Scrum Values
+- Agile Coaching
+- Team Collaboration
+- Team Motivation
+- Continuous Improvement
+- Agile Values and Principles
+- Agile Transformation
+- Employee Engagement
+- Agile Community
+- Technical Excellence
+- Psychological Safety
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Lean
+- Value Delivery
+- Scrum
+- Technical Excellence
+- People and Process
 
 ---
  #shorts #shortvideo #shortsvideo 7 Virtues of #agile. Temperance. #agile #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #projectmanagement #productdevelopment #productmanager #projectmanager #agilecoach #scrummaster 

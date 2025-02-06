@@ -2,14 +2,13 @@
 title: 'TFS EventHandler: Message Queuing'
 description: Explore the innovative TFS EventHandler for message queuing, enhancing your Team Foundation Server infrastructure with efficient event management solutions.
 ResourceId: SLkPRSid1iJ
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 411
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-04-27
 creator: Martin Hinshelwood
-id: "411"
 layout: blog
 resourceTypes: blog
 slug: tfs-eventhandler-message-queuing
@@ -25,10 +24,14 @@ aliasesFor404:
 - /blog/tfs-eventhandler-message-queuing
 - /tfs-eventhandler--message-queuing
 - /blog/tfs-eventhandler--message-queuing
+- /resources/blog/tfs-eventhandler-message-queuing
 tags:
-- tfs-event-handler
-- wit
+- Agile Software Development
+- Technical Excellence
 preview: nakedalm-logo-128-link-1-1.png
+categories:
+- Azure DevOps
+- Application Lifecycle Management
 
 ---
 As I mentioned in my previous post I am currently building an [EventHandler](http://blog.hinshelwood.com/archive/2007/04/27/Team-Server-Event-Handlers-made-easy.aspx) infrastructure for [Team Foundation Server](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server").

@@ -2,14 +2,13 @@
 title: The Windows Vista Ultimate Element
 description: Explore the intriguing aspects of Windows Vista Ultimate in this engaging blog post by Martin Hinshelwood. Discover insights and off-topic discussions!
 ResourceId: BeArx9oZHL2
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 438
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-01-31
 creator: Martin Hinshelwood
-id: "438"
 layout: blog
 resourceTypes: blog
 slug: the-windows-vista-ultimate-element
@@ -21,10 +20,14 @@ aliases:
 aliasesFor404:
 - /the-windows-vista-ultimate-element
 - /blog/the-windows-vista-ultimate-element
+- /resources/blog/the-windows-vista-ultimate-element
 tags:
-- off-topic
-- vista
+- Featured
+- Customer Satisfaction
 preview: nakedalm-logo-128-link-2-2.png
+categories:
+- News and Reviews
+- Products and Books
 
 ---
 [![The Windows Vista Ultimate Element](images/070130_the_vista_ultimate-1-1.gif)](http://blaugh.com/2007/01/30/the-windows-vista-ultimate-element)

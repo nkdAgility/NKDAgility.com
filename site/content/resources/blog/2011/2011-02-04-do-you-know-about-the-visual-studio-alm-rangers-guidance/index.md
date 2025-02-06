@@ -2,14 +2,13 @@
 title: Do you know about the Visual Studio ALM Rangers Guidance?
 description: Discover the Visual Studio ALM Rangers Guidance for 2010. Explore valuable insights and resources to enhance your development experience and tools.
 ResourceId: X_Bw0WdCwEc
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 15
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2011-02-04
 creator: Martin Hinshelwood
-id: "15"
 layout: blog
 resourceTypes: blog
 slug: do-you-know-about-the-visual-studio-alm-rangers-guidance
@@ -25,13 +24,14 @@ aliasesFor404:
 - /blog/do-you-know-about-the-visual-studio-alm-rangers-guidance
 - /do-you-know-about-the-visual-studio-alm-rangers-guidance-
 - /blog/do-you-know-about-the-visual-studio-alm-rangers-guidance-
+- /resources/blog/do-you-know-about-the-visual-studio-alm-rangers-guidance
 tags:
-- nwcadence
-- tools
-- visual-studio
-- vs2010
-- vsalmrangers
+- Agile Tools
+- Agile Software Development
 preview: metro-visual-studio-2010-128-link-3-3.png
+categories:
+- Application Lifecycle Management
+- Practical Techniques and Tooling
 
 ---
 [![vs2010almRanger](images/Do-you-know-about-the-Visual-Studio-ALM-_D18D-vs2010almRanger_thumb-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Do-you-know-about-the-Visual-Studio-ALM-_D18D-vs2010almRanger_2.png)

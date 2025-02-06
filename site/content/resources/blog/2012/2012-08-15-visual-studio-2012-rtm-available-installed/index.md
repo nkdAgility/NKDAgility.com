@@ -2,14 +2,13 @@
 title: Visual Studio 2012 RTM available & installed
 description: Discover the benefits of upgrading to Visual Studio 2012 RTM. Learn about new features, installation tips, and how to enhance your development process.
 ResourceId: 1pWQ2Krlit5
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 7149
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-15
 creator: Martin Hinshelwood
-id: "7149"
 layout: blog
 resourceTypes: blog
 slug: visual-studio-2012-rtm-available-installed
@@ -25,19 +24,13 @@ aliasesFor404:
 - /blog/visual-studio-2012-rtm-available-installed
 - /visual-studio-2012-rtm-available-&-installed
 - /blog/visual-studio-2012-rtm-available-&-installed
+- /resources/blog/visual-studio-2012-rtm-available-installed
 tags:
-- configuration
-- develop
-- nwcadence
-- tfs
-- tfs2012
-- tools
-- upgrade
-- visual-studio
-- vs2012
+- Agile Software Development
+- Continuous Delivery
 categories:
-- code-and-complexity
-- tools-and-techniques
+- Install and Configuration
+- Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

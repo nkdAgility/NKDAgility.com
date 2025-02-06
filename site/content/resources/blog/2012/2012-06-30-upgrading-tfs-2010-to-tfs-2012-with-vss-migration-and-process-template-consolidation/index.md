@@ -2,14 +2,13 @@
 title: Upgrading TFS 2010 to TFS 2012 with VSS Migration and Process Template consolidation
 description: Upgrade your TFS from 2010 to 2012 seamlessly with expert insights on VSS migration and process template consolidation. Enhance your team's efficiency today!
 ResourceId: XIuPwzheKMA
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 5702
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-06-30
 creator: Martin Hinshelwood
-id: "5702"
 layout: blog
 resourceTypes: blog
 slug: upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation
@@ -21,20 +20,13 @@ aliases:
 aliasesFor404:
 - /upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation
 - /blog/upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation
+- /resources/blog/upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation
 tags:
-- configuration
-- infrastructure
-- tf54000
-- tf60014
-- tf60087
-- tfs
-- tfs2012
-- tools
-- visual-studio
-- vs2012
+- Agile Software Development
+- Agile Tools
 categories:
-- code-and-complexity
-- upgrade-and-maintenance
+- Install and Configuration
+- Azure DevOps
 
 ---
 Back in Seattle and another awesome engagement, this time with a local company to upgrade their version of TFS from 2010 to 2012 and migrate all of their legacy VSS databases. Additional they want to take advantage of the new team features of TFS 2012 and need to consolidate all of their team projects

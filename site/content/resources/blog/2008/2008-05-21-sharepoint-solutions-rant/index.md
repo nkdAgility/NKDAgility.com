@@ -2,14 +2,13 @@
 title: SharePoint Solutions Rant
 description: Explore the frustrations of building MOSS Solutions in Visual Studio. Discover the need for a streamlined, end-to-end SharePoint development process!
 ResourceId: z6JKvHvhWuI
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 222
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-05-21
 creator: Martin Hinshelwood
-id: "222"
 layout: blog
 resourceTypes: blog
 slug: sharepoint-solutions-rant
@@ -21,15 +20,12 @@ aliases:
 aliasesFor404:
 - /sharepoint-solutions-rant
 - /blog/sharepoint-solutions-rant
+- /resources/blog/sharepoint-solutions-rant
 tags:
-- develop
-- fail
-- moss2007
-- sharepoint
-- sp2007
-- tools
+- Agile Software Development
+- Technical Debt
 categories:
-- tools-and-techniques
+- Practical Techniques and Tooling
 preview: metro-sharepoint-128-link-2-1.png
 
 ---

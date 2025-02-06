@@ -3,7 +3,7 @@ title: How is technology like AI changing the world we work in?
 description: Discover how AI and technology are transforming our work environments and why embracing these changes is essential for future success.
 date: 2023-07-05T14:49:20Z
 ResourceId: fcOSewXez3I
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: fcOSewXez3I
@@ -16,19 +16,39 @@ aliases:
 - /resources/videos/how-is-technology-like-ai-changing-the-world-we-work-in-
 - /resources/how-is-technology-like-ai-changing-the-world-we-work-in-
 - /resources/fcOSewXez3I
+aliasesFor404:
+- /resources/videos/how-is-technology-like-ai-changing-the-world-we-work-in-
+- /resources/how-is-technology-like-ai-changing-the-world-we-work-in-
 preview: https://i.ytimg.com/vi/fcOSewXez3I/maxresdefault.jpg
 duration: 263
 isShort: false
 tags:
-- AI
-- Artificial Intelligence
-- Chat GPT
+- Agile AI
+- Business Agility
+- Digital Transformation
+- Continuous Improvement
+- Employee Engagement
+- Market Adaptability
+- Agile Product Management
+- Agile Software Development
+- Agile Leadership
+- Team Collaboration
+- Change Management
+- Agile Values and Principles
+- Technical Excellence
+- Evidence Based Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- AI and Automation in Agility
+- Organisational Agility
+- Market Adaptability
+- People and Process
+- Discovery and Learning
 
 ---
  Over the past 150 years, there have been significant periods of rapid change as a new technology is adopted and deployed into our work environments. From electricity, to automobiles, to computers and the internet, it is pretty much a given that a new technology will shape every generation in a disruptive manner.

@@ -1,16 +1,44 @@
 ---
-id: "51722"
-title: "Professional Product Discovery and Validation Skills (PPDV) with a friend in September!"
-date: "2024-08-29"
-author: "MrHinsh"
+title: Professional Product Discovery and Validation Skills (PPDV) with a friend in September!
+description: "\U0001F680 Last chance! Join our Product Validation Workshop with Dr. Joanna Plaskonka. Only 5 days left for a 50% member discount! Book now! \U0001F39F️"
+ResourceId: bvPDNFJju4h
+ResourceImport: true
+ResourceType: newsletters
+date: 2024-08-29
+author: MrHinsh
 resourceTypes: newsletter
 layout: newsletter
-slug: "professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september"
+slug: professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september
 aliases:
-  - /newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
-  - /resources/newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
----
+- /newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
+- /resources/newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
+- /resources/bvPDNFJju4h
+aliasesFor404:
+- /newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
+- /resources/newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
+categories:
+- Discovery and Learning
+- Agile Product Management
+- People and Process
+- Value Delivery
+- Events and Presentations
+tags:
+- Agile Product Discovery
+- Agile Product Validation
+- Team Collaboration
+- Customer Feedback Loops
+- Agile Leadership
+- Product Strategy
+- Continuous Improvement
+- Agile Software Development
+- Scrum Product Management
+- Agile Community
+- Lean Product Development
+- Evidence Based Management
+- Agile Methodology
+- Professional Scrum
 
+---
 **Dear Innovators and Product Enthusiasts,**
 
 **Only 5 days left!** This is your last chance to join us for the Professional Product Validation and Discovery Workshop from Scrum.org!

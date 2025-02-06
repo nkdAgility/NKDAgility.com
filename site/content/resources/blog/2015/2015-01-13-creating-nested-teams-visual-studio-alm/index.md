@@ -2,14 +2,13 @@
 title: Creating nested teams in Visual Studio ALM
 description: Learn how to create nested teams in Visual Studio ALM for better organization and reporting. Enhance your agile processes with expert insights from Martin Hinshelwood.
 ResourceId: wu1tvjyyrZU
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 11068
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-01-13
 creator: Martin Hinshelwood
-id: "11068"
 layout: blog
 resourceTypes: blog
 slug: creating-nested-teams-visual-studio-alm
@@ -25,14 +24,28 @@ aliasesFor404:
 - /blog/creating-nested-teams-visual-studio-alm
 - /creating-nested-teams-in-visual-studio-alm
 - /blog/creating-nested-teams-in-visual-studio-alm
+- /resources/blog/creating-nested-teams-visual-studio-alm
 tags:
-- team-field
-- teams
-- tfs
-- tfs2012
-- tfs-2013
+- Scaled Agile
+- Team Collaboration
+- Agile Planning
+- Agile Tools
+- Agile Portfolio Management
+- Azure Boards
+- Agile Product Management
+- Cross Functional Teams
+- Team Performance
+- Agile Software Development
+- Continuous Improvement
+- Value Delivery
+- Agile Transformation
+- Agile Methodology
 categories:
-- tools-and-techniques
+- Azure DevOps
+- Install and Configuration
+- Practical Techniques and Tooling
+- Organisational Agility
+- Agile Product Management
 preview: nakedalm-experts-visual-studio-alm-17-17.png
 
 ---

@@ -1,16 +1,44 @@
 ---
-id: "49591"
 title: "July 2023 NKDAgility: Introducing NKD Agility's Next Generation of Agile Practitioners: Transforming Work, Building Success, and Achieving Greatness in the 21st Century!"
-date: "2023-06-29"
-author: "MrHinsh"
+description: Join NKD Agility's immersive learning experiences to master agile methodologies and transform your career. Unlock your potential and shape the future of work!
+ResourceId: A1Gq5rHDvzC
+ResourceImport: true
+ResourceType: newsletters
+date: 2023-06-29
+author: MrHinsh
 resourceTypes: newsletter
 layout: newsletter
-slug: "july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century"
+slug: july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century
 aliases:
-  - /newsletters/july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century/
-  - /resources/newsletters/july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century/
----
+- /newsletters/july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century/
+- /resources/newsletters/july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century/
+- /resources/A1Gq5rHDvzC
+aliasesFor404:
+- /newsletters/july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century/
+- /resources/newsletters/july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century/
+categories:
+- Organisational Agility
+- People and Process
+- Discovery and Learning
+- Agile Product Management
+- Scrum
+tags:
+- Agile Coaching
+- Agile Mentoring Program
+- Scrum Master
+- Scrum Team
+- Agile Product Management
+- Agile Leadership
+- Continuous Learning
+- Team Collaboration
+- Agile Transformation
+- Agile Community
+- Agile Values and Principles
+- Employee Engagement
+- Technical Excellence
+- Agile Software Development
 
+---
 Dear NKD Agilists!
 
 We are thrilled to unveil our latest endeavour in revolutionizing how we work, build, and achieve results in the 21st century. Brace yourselves for an extraordinary announcement: NKD Agility proudly presents our new multi-week immersive learning experiences designed to empower individuals like you with the skills, knowledge, and competence to become the next generation of agile practitioners.

@@ -3,7 +3,7 @@ title: What should you do if your Sprint Review delivers harsh, scathing feedbac
 description: "Master Sprint reviews with confidence! Learn to turn harsh feedback into actionable insights and align with stakeholders for product success. \U0001F680"
 date: 2023-09-08T07:00:07Z
 ResourceId: LpiLOBG7WgI
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: LpiLOBG7WgI
@@ -21,27 +21,35 @@ aliases:
 - /resources/videos/LpiLOBG7WgI
 - /resources/what-should-you-do-if-your-sprint-review-delivers-harsh,-scathing-feedback
 - /resources/LpiLOBG7WgI
+aliasesFor404:
+- /resources/what-should-you-do-if-your-sprint-review-delivers-harsh-scathing-feedback-2
+- /resources/what-should-you-do-if-your-sprint-review-delivers-harsh-scathing-feedback
+- /resources/videos/what-should-you-do-if-your-sprint-review-delivers-harsh,-scathing-feedback
+- /resources/what-should-you-do-if-your-sprint-review-delivers-harsh,-scathing-feedback
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint review
-- Sprint
-- Scrum
-- Scrum framework
-- Scrum review
-- Scrum approach
-- Scrum methodology
-- Scrum project management
-- Scrum product development
-- Agile
-- Agile product development
-- product development
-- Agile product management
-- product management
-- Agile project management
+- Scrum Team
+- Scrum Product Management
+- Customer Feedback Loops
+- Agile Product Discovery
+- Continuous Improvement
+- Decision Making
+- Value Delivery
+- Agile Planning
+- Technical Excellence
+- Psychological Safety
+- Team Collaboration
+- Change Management
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Discovery and Learning
+- Value Delivery
+- Metrics and Learning
 
 ---
 ## Navigating Harsh Feedback in Sprint Reviews – An Agile Approach🚀 

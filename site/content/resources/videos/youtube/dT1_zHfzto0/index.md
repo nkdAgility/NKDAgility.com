@@ -3,7 +3,7 @@ title: 'Quotes: "I estimate that 75% of those organisations using Scrum will not
 description: "Discover why 75% of organisations struggle with Scrum success, as Martin Hinshelwood unpacks Ken Schwaber's insights in this engaging short video! #Scrum #Agile"
 date: 2023-10-06T07:00:16Z
 ResourceId: dT1_zHfzto0
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: dT1_zHfzto0
@@ -20,34 +20,35 @@ aliases:
 - /resources/videos/dT1_zHfzto0
 - /resources/75-of-those-organizations-using-scrum-will-not-succeed-in-getting-the-benefit-ken-schwaber
 - /resources/dT1_zHfzto0
+aliasesFor404:
+- /resources/quotes-i-estimate-that-75-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it-ken-schwaber
+- /resources/videos/75-of-those-organizations-using-scrum-will-not-succeed-in-getting-the-benefit-ken-schwaber
+- /resources/75-of-those-organizations-using-scrum-will-not-succeed-in-getting-the-benefit-ken-schwaber
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
+- Scrum Master
+- Scrum Team
+- Agile Transformation
+- Change Management
+- Organisational Change
+- Agile Values and Principles
+- Continuous Improvement
+- Systems Thinking
+- Team Collaboration
+- Agile Product Management
+- Evidence Based Improvement
+- Customer Feedback Loops
+- Agile Software Development
 resourceTypes:
 - video
+categories:
+- Scrum
+- Organisational Agility
+- Systems Thinking
+- Value Delivery
+- Resilience and Change
 
 ---
 ## The Reality of Scrum Adoption 🤔  

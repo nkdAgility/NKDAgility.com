@@ -3,7 +3,7 @@ title: 'The Ghosts of Agile Past: Why Burndown Charts Might Be Holding You Back'
 description: "Uncover the truth behind burndown charts in Agile! Join Martin from NKDAgility as he debunks myths and explores better alternatives. \U0001F4CA\U0001F4A1"
 date: 2024-01-01T07:00:20Z
 ResourceId: ymKlRonlUX0
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: ymKlRonlUX0
@@ -20,35 +20,36 @@ aliases:
 - /resources/videos/ymKlRonlUX0
 - /resources/5-ghosts-of-agile-past-burndown-charts
 - /resources/ymKlRonlUX0
+aliasesFor404:
+- /resources/the-ghosts-of-agile-past-why-burndown-charts-might-be-holding-you-back
+- /resources/videos/5-ghosts-of-agile-past-burndown-charts
+- /resources/5-ghosts-of-agile-past-burndown-charts
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Agile Planning
+- Scrum Product Management
+- Technical Debt
+- Value Stream Management
+- Continuous Improvement
+- Empirical Process Control
+- Agile Product Discovery
+- Agile Software Development
+- Team Collaboration
+- Agile Values and Principles
+- Agile Transformation
+- Lean Thinking
+- Evidence Based Management
+- Agile Product Ownership
 resourceTypes:
 - video
+categories:
+- Metrics and Learning
+- Value Delivery
+- Flow Efficiency
+- Scrum
+- Technical Excellence
 
 ---
 Have you ever felt something was off with burndown charts? I know I have. There's always been this nagging feeling that something wasn't quite right. Over the years, people have revered these charts as the ultimate tool for monitoring a team’s progress. But I’ve come to realize that this couldn’t be further from the truth.

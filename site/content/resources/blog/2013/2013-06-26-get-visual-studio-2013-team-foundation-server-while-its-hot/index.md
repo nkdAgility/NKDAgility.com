@@ -2,14 +2,13 @@
 title: What's new in Visual Studio 2013 Team Foundation Server Preview
 description: Discover the latest features in Visual Studio 2013 Team Foundation Server! Enhance your agile practices with powerful tools for collaboration and testing.
 ResourceId: V5OQtr0U1IS
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9677
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-06-26
 creator: Martin Hinshelwood
-id: "9677"
 layout: blog
 resourceTypes: blog
 slug: get-visual-studio-2013-team-foundation-server-while-its-hot
@@ -25,25 +24,14 @@ aliasesFor404:
 - /blog/get-visual-studio-2013-team-foundation-server-while-its-hot
 - /what's-new-in-visual-studio-2013-team-foundation-server-preview
 - /blog/what's-new-in-visual-studio-2013-team-foundation-server-preview
+- /resources/blog/get-visual-studio-2013-team-foundation-server-while-its-hot
 tags:
-- agile-portfolio-management
-- define
-- improve
-- infrastructure
-- operational
-- practices
-- process
-- strategic
-- tactical
-- team-rooms
-- test-hub
-- tfs-2013
-- tools
+- Agile Portfolio Management
+- Team Collaboration
 categories:
-- news-and-reviews
-- people-and-process
-- products-and-books
-- tools-and-techniques
+- Azure DevOps
+- News and Reviews
+- People and Process
 preview: nakedalm-experts-visual-studio-alm-14-14.png
 
 ---

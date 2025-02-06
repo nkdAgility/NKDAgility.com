@@ -3,7 +3,7 @@ title: What is a Sprint Backlog?
 description: Discover the sprint backlog's role in Scrum! Join Martin Hinshelwood as he explains its importance for teams and stakeholders in this insightful video.
 date: 2023-05-29T12:01:04Z
 ResourceId: T-K7HC-ZGjM
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: T-K7HC-ZGjM
@@ -20,24 +20,36 @@ aliases:
 - /resources/videos/T-K7HC-ZGjM
 - /resources/what-is-a-sprint-backlog-
 - /resources/T-K7HC-ZGjM
+aliasesFor404:
+- /resources/what-is-a-sprint-backlog
+- /resources/videos/what-is-a-sprint-backlog-
+- /resources/what-is-a-sprint-backlog-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
+- Sprint Planning Workshop
+- Scrum Team
+- Definition of Done
+- Technical Debt
+- Agile Planning
+- Team Motivation
+- Continuous Improvement
+- Agile Product Management
+- Scrum Product Management
+- Value Delivery
+- Agile Software Development
+- Team Collaboration
+- Transparency
+- Agile Values and Principles
 resourceTypes:
 - video
+categories:
+- Scrum
+- Value Delivery
+- Technical Excellence
+- People and Process
+- Transparency and Accountability
 
 ---
 ## Interpreting the Sprint Backlog

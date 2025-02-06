@@ -2,14 +2,13 @@
 title: Team System Web Access finally released
 description: Discover the release of Team System Web Access, featuring enhanced stability and new features. Learn how it improves TFS usability for developers!
 ResourceId: 8tIDL2NtDSj
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 354
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-07-31
 creator: Martin Hinshelwood
-id: "354"
 layout: blog
 resourceTypes: blog
 slug: team-system-web-access-finally-released
@@ -21,10 +20,14 @@ aliases:
 aliasesFor404:
 - /team-system-web-access-finally-released
 - /blog/team-system-web-access-finally-released
+- /resources/blog/team-system-web-access-finally-released
 tags:
-- tfs
-- tfs2005
+- Agile Tools
+- Agile Software Development
 preview: metro-visual-studio-2005-128-link-3-3.png
+categories:
+- Application Lifecycle Management
+- Install and Configuration
 
 ---
 [Brian Harry](http://blogs.msdn.com/bharry/) has just [announced](http://blogs.msdn.com/bharry/archive/2007/07/30/team-system-web-access-power-tool-available.aspx "Team System Web Access Power Tool Available") the release of Team System Web Access the next incarnation of DevBiz's TeamPlain product.

@@ -3,7 +3,7 @@ title: Pet Peeve in Scrum
 description: 'Join Martin Hinshelwood, Scrum expert, as he shares his biggest pet peeve in Scrum consulting. Discover insights to enhance your Agile journey! #Scrum #Agile #Shorts'
 date: 2023-04-28T09:30:00Z
 ResourceId: 2KovKxNpZpg
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 2KovKxNpZpg
@@ -15,16 +15,26 @@ aliases:
 - /resources/videos/pet-peeve-in-scrum
 - /resources/pet-peeve-in-scrum
 - /resources/2KovKxNpZpg
+aliasesFor404:
+- /resources/videos/pet-peeve-in-scrum
+- /resources/pet-peeve-in-scrum
 preview: https://i.ytimg.com/vi/2KovKxNpZpg/maxresdefault.jpg
 duration: 32
 isShort: true
 tags:
-- Scrum
-- Scrum coaching
-- Scrum consulting
-- Scrum applications
-- Scrum product development
-- Scrum project management
+- Scrum Values
+- Scrum Team
+- Agile Values and Principles
+- Empirical Process Control
+- Continuous Improvement
+- Agile Transformation
+- Team Collaboration
+- Accountability
+- Change Management
+- Agile Coaching
+- Transparency
+- Agile Methodology
+- Agile Evolution
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -32,6 +42,10 @@ source: youtube
 layout: video
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Transparency and Accountability
 
 ---
  #shorts As a #professionalscrumtrainer, #scrum expert, and #agileconsultant, Martin Hinshelwood has worked with multiple clients, in multiple applications of #scrum, in multiple geographies around the world.

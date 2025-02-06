@@ -2,14 +2,13 @@
 title: Professional Scrum in Immingham, UK
 description: Join the Professional Scrum course in Immingham, UK, and enhance your team's collaboration and efficiency. Discover the value of co-located training today!
 ResourceId: b-WImy6z9no
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10301
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-12-11
 creator: Martin Hinshelwood
-id: "10301"
 layout: blog
 resourceTypes: blog
 slug: professional-scrum-immingham-uk
@@ -29,12 +28,13 @@ aliasesFor404:
 - /blog/professional-scrum-in-immingham,-uk
 - /professional-scrum-in-immingham--uk
 - /blog/professional-scrum-in-immingham--uk
+- /resources/blog/professional-scrum-immingham-uk
 tags:
-- professioal-scrum
-- psf
-- scrum
+- Professional Scrum
+- Team Collaboration
 categories:
-- people-and-process
+- People and Process
+- Scrum
 preview: nakedalm-experts-professional-scrum-6-6.png
 
 ---

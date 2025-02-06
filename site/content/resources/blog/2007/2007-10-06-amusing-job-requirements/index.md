@@ -2,14 +2,13 @@
 title: Amusing job requirements
 description: Discover the absurdity of job requirements in tech! Join Martin Hinshelwood as he critiques a hilariously unrealistic skill set for an Analyst Programmer.
 ResourceId: NU1-eAy72tU
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 301
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-10-06
 creator: Martin Hinshelwood
-id: "301"
 layout: blog
 resourceTypes: blog
 slug: amusing-job-requirements
@@ -21,12 +20,12 @@ aliases:
 aliasesFor404:
 - /amusing-job-requirements
 - /blog/amusing-job-requirements
+- /resources/blog/amusing-job-requirements
 tags:
-- fail
-- visual-studio
-- vs2005
+- Technical Mastery
+- Agile Software Development
 categories:
-- me
+- People and Process
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

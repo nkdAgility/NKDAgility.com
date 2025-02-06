@@ -3,7 +3,7 @@ title: The importance of knowing the territory.
 description: Discover how navigating new territories, like mushroom foraging, parallels agile leadership in seizing opportunities and making informed decisions.
 date: 2023-08-10T13:30:01Z
 ResourceId: aWYoJtSgTDo
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: aWYoJtSgTDo
@@ -16,30 +16,36 @@ aliases:
 - /resources/videos/the-importance-of-knowing-the-territory-
 - /resources/the-importance-of-knowing-the-territory-
 - /resources/aWYoJtSgTDo
+aliasesFor404:
+- /resources/videos/the-importance-of-knowing-the-territory-
+- /resources/the-importance-of-knowing-the-territory-
 preview: https://i.ytimg.com/vi/aWYoJtSgTDo/maxresdefault.jpg
 duration: 204
 isShort: false
 tags:
-- Agile
-- Agile leadership
-- Agile leader
-- Professional Agile Leader
-- Professional Agile Leader Essentials
-- Professional Agile Leader Evidence Based Management
-- PAL
-- PAL-E
-- PAL-EBM
-- Agile project management
-- Agile product development
-- Agile product management
-- Business Agility
-- Agility
+- Team Collaboration
+- Agile Coaching
+- Scrum Team
+- Continuous Improvement
+- Customer Feedback Loops
+- Discovery and Learning
+- Agile Values and Principles
+- Employee Engagement
+- Organisational Agility
+- Agile Transformation
+- Sensemaking
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Discovery and Learning
+- Systems Thinking
+- People and Process
+- Organisational Agility
+- Resilience and Change
 
 ---
  #agileleadership is about sensing opportunities, responding to threats, and making valuable decisions even when you don't have all the information you need.

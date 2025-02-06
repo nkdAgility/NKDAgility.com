@@ -3,7 +3,7 @@ title: 5 kinds of Agile bandits. Planning Bandits
 description: "Unmask the burndown trap in Agile! Discover effective sprint planning strategies that prioritise value and adaptability. Watch now! \U0001F680✨"
 date: 2024-01-09T07:00:05Z
 ResourceId: BtHASX2lgGo
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: BtHASX2lgGo
@@ -16,39 +16,39 @@ aliases:
 - /resources/videos/5-kinds-of-agile-bandits-planning-bandits
 - /resources/5-kinds-of-agile-bandits-planning-bandits
 - /resources/BtHASX2lgGo
+aliasesFor404:
+- /resources/videos/5-kinds-of-agile-bandits-planning-bandits
+- /resources/5-kinds-of-agile-bandits-planning-bandits
 preview: https://i.ytimg.com/vi/BtHASX2lgGo/maxresdefault.jpg
 duration: 324
 isShort: false
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Agile Planning
+- Scrum Product Management
+- Sprint Planning Workshop
+- Agile Product Discovery
+- Continuous Improvement
+- Agile Product Ownership
+- Value Delivery
+- Team Collaboration
+- Agile Software Development
+- Agile Values and Principles
+- Evidence Based Management
+- Lean Principles
+- Agile Transformation
+- Agile Digital Tools
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Value Delivery
+- Agile Product Management
+- People and Process
+- Discovery and Learning
+- Scrum
 
 ---
  The Agile Illusion: Unmasking the Burndown Trap in Sprint Planning - Discover why traditional burndown charts might be misleading your Agile process. Join us as we explore more effective ways to plan and execute sprints. 

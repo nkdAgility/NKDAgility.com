@@ -3,7 +3,7 @@ title: 3 core practices of Kanban Defining and visualizing a workflow
 description: "Unlock Kanban's potential! Learn to define and visualise workflows for enhanced efficiency, clarity, and team collaboration. Streamline your processes today! \U0001F680"
 date: 2024-02-27T07:00:31Z
 ResourceId: sbr8NkJSLPU
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: sbr8NkJSLPU
@@ -16,23 +16,39 @@ aliases:
 - /resources/videos/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
 - /resources/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
 - /resources/sbr8NkJSLPU
+aliasesFor404:
+- /resources/videos/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
+- /resources/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
 preview: https://i.ytimg.com/vi/sbr8NkJSLPU/maxresdefault.jpg
 duration: 218
 isShort: false
 tags:
-- Kanban
-- Kanban courses
-- Kanban training
-- Kanban coach
-- Kanban consultant
-- Kanban method
-- ProKanban
+- Kanban Theory
+- Value Stream Mapping
+- Lean Thinking
+- Team Collaboration
+- Working Agreements
+- Continuous Improvement
+- Flow Efficiency
+- Predictability in Kanban
+- Kanban Coaching
+- Agile Planning
+- Systems Thinking
+- Value Delivery
+- Technical Excellence
+- Agile Methodology
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Kanban
+- Value Stream Management
+- People and Process
+- Systems Thinking
+- Value Delivery
 
 ---
  Unlock the Power of Kanban: Streamline Your Workflow for Maximum Efficiency 🚀

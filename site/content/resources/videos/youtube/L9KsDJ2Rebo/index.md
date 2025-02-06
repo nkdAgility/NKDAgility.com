@@ -3,7 +3,7 @@ title: What excites you most about the PSM immersive learning journey for delega
 description: Join Kanban Dan as he shares his excitement about the transformative 7-week immersive learning journey for aspiring scrum masters at NKD Agility!
 date: 2023-07-13T07:45:48Z
 ResourceId: L9KsDJ2Rebo
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: L9KsDJ2Rebo
@@ -16,26 +16,35 @@ aliases:
 - /resources/videos/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-
 - /resources/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-
 - /resources/L9KsDJ2Rebo
+aliasesFor404:
+- /resources/videos/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-
+- /resources/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-
 preview: https://i.ytimg.com/vi/L9KsDJ2Rebo/maxresdefault.jpg
 duration: 84
 isShort: false
 tags:
-- Scrum
-- Scrum Course
-- Scrum Training
-- Scrum Certificaiton
-- PSM
-- PSM course
-- Professional Scrum Master
-- Professional Scrum Master course
-- Immersive Learning PSM course
-- Immersive Learning Professional Scrum Master course
+- Team Collaboration
+- Continuous Learning
+- Agile Mentoring Program
+- Employee Engagement
+- Agile Coaching
+- Discovery and Learning
+- Agile Transformation
+- Organisational Change
+- Agile Community
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Discovery and Learning
+- People and Process
+- Organisational Agility
+- Value Delivery
+- Resilience and Change
 
 ---
  As a Professional Scrum Trainer (PST), Kanban Dan is focused on helping delegates acquire the knowledge, skills, and capabilities they need to shine in the workplace. 

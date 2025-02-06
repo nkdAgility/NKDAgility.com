@@ -2,14 +2,13 @@
 title: The Sprint is a container for Planning and not necessarily for Delivery
 description: Explore how Scrum can enhance planning without strict delivery schedules. Learn to embrace Continuous Delivery for better software development practices.
 ResourceId: 6USQKO75YgH
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 4092
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-11-29
 creator: Martin Hinshelwood
-id: "4092"
 layout: blog
 resourceTypes: blog
 slug: the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
@@ -21,11 +20,14 @@ aliases:
 aliasesFor404:
 - /the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
 - /blog/the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
+- /resources/blog/the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
 tags:
-- sprint-planning
+- Scrum
+- Continuous Delivery
 categories:
-- people-and-process
-- tools-and-techniques
+- Scrum
+- People and Process
+- Value Delivery
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

@@ -3,7 +3,7 @@ title: 'Transform Your Product Development: Unleash the Power of Experimentation
 description: Unlock your product development potential! Discover strategies to enhance user value, reduce waste, and foster collaboration in our transformative PPDV course.
 date: 2024-08-11T22:00:33Z
 ResourceId: m4KNGw5p4Go
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: m4KNGw5p4Go
@@ -20,16 +20,37 @@ aliases:
 - /resources/videos/m4KNGw5p4Go
 - /resources/what-you-will-be-able-to-do-at-the-end-of-the-ppdv-course
 - /resources/m4KNGw5p4Go
+aliasesFor404:
+- /resources/transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
+- /resources/videos/what-you-will-be-able-to-do-at-the-end-of-the-ppdv-course
+- /resources/what-you-will-be-able-to-do-at-the-end-of-the-ppdv-course
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- PPDV
-- PPDV course
-- Professional Product Discovery and Validation
-- Scrum.org
+- Agile Product Discovery
+- Team Collaboration
+- Experimentation
+- Evidence Based Management
+- Agile Product Validation
+- Lean Thinking
+- Customer Feedback Loops
+- Agile Planning
+- Discovery and Learning
+- Value Delivery
+- Continuous Improvement
+- Agile Leadership
+- Organisational Change
+- Agile Transformation
 resourceTypes:
 - video
+categories:
+- Discovery and Learning
+- Value Delivery
+- Organisational Agility
+- People and Process
+- Metrics and Learning
+- Lean
 
 ---
 In today’s fast-paced, ever-evolving market, understanding user needs and maximizing value are crucial for successful product development. The right approach can not only boost user satisfaction but also significantly improve your return on investment (ROI). This course is designed to equip you with the tools, techniques, and mindset needed to revolutionize your product development process.

@@ -2,14 +2,13 @@
 title: Learning more about Visual Studio 2008
 description: Discover the free learning initiative for Visual Studio 2008 and enhance your skills with the MSDN Ramp Up Program. Sign up now to stay ahead!
 ResourceId: DI9tjIOOa_M
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 150
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-01-06
 creator: Martin Hinshelwood
-id: "150"
 layout: blog
 resourceTypes: blog
 slug: learning-more-about-visual-studio-2008
@@ -21,11 +20,14 @@ aliases:
 aliasesFor404:
 - /learning-more-about-visual-studio-2008
 - /blog/learning-more-about-visual-studio-2008
+- /resources/blog/learning-more-about-visual-studio-2008
 tags:
-- tools
-- visual-studio
-- vs2008
+- Agile Software Development
+- Software Development
 preview: metro-visual-studio-2005-128-link-1-1.png
+categories:
+- Install and Configuration
+- Discovery and Learning
 
 ---
 Well, that's me well and truly back from my holidays, a nice relaxing couple of weeks spent at home with my family.

@@ -3,7 +3,7 @@ title: How Does Your Consulting Experience Manifest in the Training Environment?
 description: Discover how real-world consulting experience enhances training in Agile and Scrum. Join Martin Hinshelwood as he shares insights on effective teaching.
 date: 2023-06-21T07:00:03Z
 ResourceId: AwkxZ9RS_0g
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: AwkxZ9RS_0g
@@ -20,16 +20,36 @@ aliases:
 - /resources/videos/AwkxZ9RS_0g
 - /resources/how-does-your-consulting-experience-manifest-in-the-training-environment-
 - /resources/AwkxZ9RS_0g
+aliasesFor404:
+- /resources/how-does-your-consulting-experience-manifest-in-the-training-environment
+- /resources/videos/how-does-your-consulting-experience-manifest-in-the-training-environment-
+- /resources/how-does-your-consulting-experience-manifest-in-the-training-environment-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- Scrum Trainer
-- Professional Scrum Trainer
-- PST
+- Agile Coaching
+- Leadership Training
+- Agile Product Management
+- Agile Transformation
+- Continuous Learning
+- Agile Values and Principles
+- Team Collaboration
+- Agile Community
+- Agile Software Development
+- Evidence Based Management
+- Organisational Culture
+- Agile Mentoring
+- Agile Project Management
+- Customer Feedback Loops
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Value Delivery
+- Discovery and Learning
+- Technical Excellence
 
 ---
 ## Synergy Between Consulting and Training

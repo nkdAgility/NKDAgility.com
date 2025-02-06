@@ -3,7 +3,7 @@ title: NKDA Webcast Agile Leadership Agile Transformation 20231005 130313 Meetin
 description: Join Dr. Joanna Płaskonka & Martin Hinshelwood in this 18-min webcast to explore Agile Leadership & Transformation. Gain insights, strategies, and engage in Q&A!
 date: 2023-10-05T15:32:01Z
 ResourceId: COUE296XnWc
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: COUE296XnWc
@@ -18,6 +18,9 @@ aliases:
 - /resources/videos/nkda-webcast-agile-leadership-agile-transformation-20231005-130313-meeting-recording-1
 - /resources/nkda-webcast-agile-leadership-agile-transformation-20231005-130313-meeting-recording-1
 - /resources/COUE296XnWc
+aliasesFor404:
+- /resources/videos/nkda-webcast-agile-leadership-agile-transformation-20231005-130313-meeting-recording-1
+- /resources/nkda-webcast-agile-leadership-agile-transformation-20231005-130313-meeting-recording-1
 preview: https://i.ytimg.com/vi/COUE296XnWc/maxresdefault.jpg
 duration: 3719
 isShort: false
@@ -26,6 +29,30 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Metrics and Learning
+- Discovery and Learning
+- Organisational Psychology
+- Value Delivery
+- Resilience and Change
+tags:
+- Agile Leadership
+- Agile Transformation
+- Team Collaboration
+- Team Motivation
+- Change Management
+- Evidence Based Management
+- Organisational Agility
+- Agile Product Management
+- Employee Engagement
+- Agile Strategy
+- Agile Values and Principles
+- Continuous Improvement
+- Agile Coaching
+- Agile Community
+- Agile Product Discovery
 
 ---
  🌟 Exclusive Webcast: "Agile Leadership & Agile Transformation" with Dr. Joanna Płaskonka & Martin Hinshelwood 🌟  

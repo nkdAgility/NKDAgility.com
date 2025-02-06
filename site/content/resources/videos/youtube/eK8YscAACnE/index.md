@@ -3,7 +3,7 @@ title: ' shorts 5 kinds of Agile bandits. 3rd kind'
 description: "Discover the 3rd kind of Agile bandit with Martin Hinshelwood! Uncover insights on story points and boost your team's agility. #Agile #Scrum #Shorts"
 date: 2024-01-08T11:00:37Z
 ResourceId: eK8YscAACnE
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: eK8YscAACnE
@@ -16,39 +16,36 @@ aliases:
 - /resources/videos/-shorts-5-kinds-of-agile-bandits-3rd-kind
 - /resources/-shorts-5-kinds-of-agile-bandits-3rd-kind
 - /resources/eK8YscAACnE
+aliasesFor404:
+- /resources/videos/-shorts-5-kinds-of-agile-bandits-3rd-kind
+- /resources/-shorts-5-kinds-of-agile-bandits-3rd-kind
 preview: https://i.ytimg.com/vi/eK8YscAACnE/maxresdefault.jpg
 duration: 37
 isShort: true
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Agile Planning
+- Team Collaboration
+- Cycle Time
+- Throughput
+- Evidence Based Management
+- Agile Values and Principles
+- Agile Transformation
+- Continuous Improvement
+- Agile Software Development
+- Agile Problem Solving
+- Technical Excellence
+- Agile Estimation
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Metrics and Learning
+- People and Process
+- Value Stream Management
+- Technical Excellence
 
 ---
  #shorts #shortvideo #shortsvideo Martin Hinshelwood walks us through the 5 agile bandits. This video features #storypoints 

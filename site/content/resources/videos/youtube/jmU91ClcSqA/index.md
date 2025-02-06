@@ -3,7 +3,7 @@ title: What is Project Management?
 description: 'Discover the essence of project management in this short video! Learn how it evolved from manufacturing to enhance teamwork and efficiency. #agile #scrum'
 date: 2023-05-22T07:00:14Z
 ResourceId: jmU91ClcSqA
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: jmU91ClcSqA
@@ -20,21 +20,27 @@ aliases:
 - /resources/videos/jmU91ClcSqA
 - /resources/what-is-project-management-
 - /resources/jmU91ClcSqA
+aliasesFor404:
+- /resources/what-is-project-management
+- /resources/videos/what-is-project-management-
+- /resources/what-is-project-management-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Project Management
-- What is project management
-- Project Management frameworks
-- PMI
-- Prince
-- Prince 2
 - Agile Project Management
-- Product Management
-- Product Development
+- Agile Product Discovery
+- Agile Evolution
+- Project Management
+- Organisational Change
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Practical Techniques and Tooling
+- Value Delivery
+- Discovery and Learning
 
 ---
 ## Unpacking Project Management

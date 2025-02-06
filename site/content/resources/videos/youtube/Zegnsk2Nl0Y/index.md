@@ -3,7 +3,7 @@ title: 5 tools that Scrum Masters love. Part 5
 description: "Discover the top 5 tools that Scrum Masters adore! Boost your team's agility and performance with insights from Naked Agility. #Scrum #Agile #Shorts"
 date: 2023-09-28T07:00:22Z
 ResourceId: Zegnsk2Nl0Y
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Zegnsk2Nl0Y
@@ -16,26 +16,38 @@ aliases:
 - /resources/videos/5-tools-that-scrum-masters-love-part-5
 - /resources/5-tools-that-scrum-masters-love-part-5
 - /resources/Zegnsk2Nl0Y
+aliasesFor404:
+- /resources/videos/5-tools-that-scrum-masters-love-part-5
+- /resources/5-tools-that-scrum-masters-love-part-5
 preview: https://i.ytimg.com/vi/Zegnsk2Nl0Y/maxresdefault.jpg
 duration: 44
 isShort: true
 tags:
-- Agile
-- Scrum
-- Scrum Master
-- Scrum Master tools
-- Scrum master resources
-- scrummasters
-- agile tools
-- agile resources
-- agile project management software
-- agile software
+- Azure DevOps
+- Team Collaboration
+- Continuous Delivery
+- Technical Excellence
+- Scrum Team
+- Agile Software Development
+- Value Delivery
+- Agile Project Management
+- Agile Product Management
+- Working Software
+- Definition of Done
+- Customer Feedback Loops
+- Transparency
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scrum
+- Azure DevOps
+- Practical Techniques and Tooling
+- Value Delivery
+- Systems Thinking
 
 ---
  #shorts #shortsvideo #shortvideo 5 tools that a #scrummaster loves. #scrum tool 5

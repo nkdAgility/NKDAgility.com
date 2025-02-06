@@ -1,16 +1,44 @@
 ---
-id: "50828"
-title: "2024 Learning journeys and extending the learning process"
-date: "2023-12-05"
-preview: "naked-agility-technically-agile-1280×720-December2023.jpg"
-author: "MrHinsh"
+title: 2024 Learning journeys and extending the learning process
+description: Join our acclaimed immersive learning classes! Enjoy a 20% discount on all courses until April 2024. Elevate your skills with hands-on training!
+ResourceId: -wdSJlbQQbK
+ResourceImport: true
+ResourceType: newsletters
+date: 2023-12-05
+preview: naked-agility-technically-agile-1280×720-December2023.jpg
+author: MrHinsh
 resourceTypes: newsletter
-slug: "2024-learning-journeys-and-extending-the-learning-process"
+slug: 2024-learning-journeys-and-extending-the-learning-process
 aliases:
-  - /newsletters/2024-learning-journeys-and-extending-the-learning-process/
-  - /resources/newsletters/2024-learning-journeys-and-extending-the-learning-process/
----
+- /newsletters/2024-learning-journeys-and-extending-the-learning-process/
+- /resources/newsletters/2024-learning-journeys-and-extending-the-learning-process/
+- /resources/-wdSJlbQQbK
+aliasesFor404:
+- /newsletters/2024-learning-journeys-and-extending-the-learning-process/
+- /resources/newsletters/2024-learning-journeys-and-extending-the-learning-process/
+categories:
+- Discovery and Learning
+- People and Process
+- Scrum
+- Value Delivery
+- Organisational Agility
+tags:
+- Scrum Product Management
+- Professional Scrum
+- Continuous Learning
+- Agile Product Ownership
+- Team Collaboration
+- Agile Planning
+- Evidence Based Management
+- Agile Product Discovery
+- Scrum Team
+- Agile Software Development
+- Value Delivery
+- Customer Feedback Loops
+- Agile Transformation
+- Technical Excellence
 
+---
 We have already had great success with our immersive learning classes, with the 8-week Professional Scrum Product Owner gaining high acclaim not only from the students but also from their managers and leaders:
 
 ![](images/2023-12-01_14-10-36-1-800x363.webp)

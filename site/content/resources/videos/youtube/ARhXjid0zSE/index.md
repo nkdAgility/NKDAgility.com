@@ -3,7 +3,7 @@ title: 7 signs of the agile apocalypse. Famine
 description: 'Discover the 7 signs of the #Agile apocalypse! In this short video, Martin Hinshelwood reveals how famine can signal impending doom for teams. #Agile #Shorts'
 date: 2023-11-08T06:45:00Z
 ResourceId: ARhXjid0zSE
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: ARhXjid0zSE
@@ -16,39 +16,37 @@ aliases:
 - /resources/videos/7-signs-of-the-agile-apocalypse-famine
 - /resources/7-signs-of-the-agile-apocalypse-famine
 - /resources/ARhXjid0zSE
+aliasesFor404:
+- /resources/videos/7-signs-of-the-agile-apocalypse-famine
+- /resources/7-signs-of-the-agile-apocalypse-famine
 preview: https://i.ytimg.com/vi/ARhXjid0zSE/maxresdefault.jpg
 duration: 32
 isShort: true
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Agile Apocalypse
+- Team Collaboration
+- Agile Coaching
+- Scrum Team
+- Continuous Improvement
+- Employee Engagement
+- Agile Values and Principles
+- Organisational Change
+- Agile Transformation
+- Customer Feedback Loops
+- Team Motivation
+- Discovery and Learning
+- Psychological Safety
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Organisational Agility
+- Metrics and Learning
 
 ---
  #shorts #shortsvideo #shortvideo #agile loves abundance. An abundance of ideas, creativity, and collaboration. That said, sometimes you experience #famine and in this short video, Martin Hinshelwood explains what that looks like and why it's a sign of impending doom.

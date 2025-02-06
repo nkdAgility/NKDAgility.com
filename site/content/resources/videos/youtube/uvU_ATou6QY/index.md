@@ -3,7 +3,7 @@ title: What does failure look like as a product owner?
 description: "Discover the signs of a failing product owner! Learn to distinguish perception from reality in product management. Don't miss this insightful video! \U0001F3AF\U0001F6AB"
 date: 2023-09-22T07:00:32Z
 ResourceId: uvU_ATou6QY
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: uvU_ATou6QY
@@ -16,23 +16,39 @@ aliases:
 - /resources/videos/what-does-failure-look-like-as-a-product-owner-
 - /resources/what-does-failure-look-like-as-a-product-owner-
 - /resources/uvU_ATou6QY
+aliasesFor404:
+- /resources/videos/what-does-failure-look-like-as-a-product-owner-
+- /resources/what-does-failure-look-like-as-a-product-owner-
 preview: https://i.ytimg.com/vi/uvU_ATou6QY/maxresdefault.jpg
 duration: 203
 isShort: false
 tags:
-- Product Owner
-- Scrum Product Owner
-- Scrum
-- Scrum Product Development
-- Agile Product Development
-- Agile project management
-- Agile product management
+- Agile Product Ownership
+- Scrum Product Management
+- Value Delivery
+- Customer Feedback Loops
+- Continuous Improvement
+- Evidence Based Management
+- Team Collaboration
+- Technical Excellence
+- Agile Product Discovery
+- Agile Planning
+- Accountability
+- Agile Values and Principles
+- Lean Principles
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Agile Product Management
+- Value Delivery
+- Metrics and Learning
+- People and Process
+- Transparency and Accountability
 
 ---
  Recognizing the Signs of a Failing Product Owner. Uncover the indicators of a failing product owner! Learn how to differentiate between perception and reality in product management. 🎯🚫

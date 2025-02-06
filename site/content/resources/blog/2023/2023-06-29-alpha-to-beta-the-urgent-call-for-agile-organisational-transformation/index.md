@@ -2,7 +2,7 @@
 title: The Urgent Call for Agile Organisational Transformation
 description: Explore the urgent need for agile transformation in organizations. Discover how to break free from outdated hierarchies and thrive in dynamic markets.
 ResourceId: aeNTMpquEZ5
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 49485
 ResourceImportSource: Wordpress
@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2023-06-29
 AudioNative: true
 creator: Martin Hinshelwood
-id: "49485"
 layout: blog
 resourceTypes: blog
 slug: alpha-to-beta-the-urgent-call-for-agile-organisational-transformation
@@ -26,11 +25,20 @@ aliasesFor404:
 - /blog/alpha-to-beta-the-urgent-call-for-agile-organisational-transformation
 - /the-urgent-call-for-agile-organisational-transformation
 - /blog/the-urgent-call-for-agile-organisational-transformation
+- /resources/blog/alpha-to-beta-the-urgent-call-for-agile-organisational-transformation
 tags:
-- featured
-- homepage
+- Organisational Agility
+- Change Management
+- Agile Transformation
+- Business Agility
+- Agile Strategy
+- Organisational Change
+- Agile Leadership
+- Systems Thinking
+- Continuous Improvement
+- Agile Community
 categories:
-- organisational-change
+- Complexity Thinking
 preview: 1686217267121-1-1-1.jpg
 
 ---

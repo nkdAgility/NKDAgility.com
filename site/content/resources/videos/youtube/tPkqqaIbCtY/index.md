@@ -3,7 +3,7 @@ title: ' shorts 7 Virtues of agile. Kindness'
 description: 'Discover the power of kindness in Agile! Join us as we explore one of the 7 virtues that fosters collaboration and inspires high-performing teams. #Agile #Shorts'
 date: 2023-12-11T11:00:47Z
 ResourceId: tPkqqaIbCtY
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: tPkqqaIbCtY
@@ -16,39 +16,35 @@ aliases:
 - /resources/videos/-shorts-7-virtues-of-agile-kindness
 - /resources/-shorts-7-virtues-of-agile-kindness
 - /resources/tPkqqaIbCtY
+aliasesFor404:
+- /resources/videos/-shorts-7-virtues-of-agile-kindness
+- /resources/-shorts-7-virtues-of-agile-kindness
 preview: https://i.ytimg.com/vi/tPkqqaIbCtY/maxresdefault.jpg
 duration: 48
 isShort: true
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Customer Satisfaction
+- Team Collaboration
+- Team Motivation
+- Agile Values and Principles
+- Psychological Safety
+- Employee Engagement
+- Continuous Improvement
+- Value Delivery
+- Agile Transformation
+- Organisational Culture
+- Agile Community
+- Change Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- People and Process
+- Organisational Psychology
+- Value Delivery
 
 ---
  #shorts #shortsvideo #shortvideo 7 virtues of #agile. Kindness #agile #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #projectmanagement #projectmanager #productdevelopment #developer #productmanager #productmanagement 

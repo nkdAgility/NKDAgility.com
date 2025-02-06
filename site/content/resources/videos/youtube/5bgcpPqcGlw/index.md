@@ -3,7 +3,7 @@ title: Agile Evolution - Live Site Culture & Site Reliability at Azure DevOps
 description: Explore Azure DevOps' journey to a robust live site culture, balancing engineering responsibilities with transparency and reliability in a SaaS environment.
 date: 2020-06-04T02:05:28Z
 ResourceId: 5bgcpPqcGlw
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 5bgcpPqcGlw
@@ -15,15 +15,26 @@ aliases:
 - /resources/videos/agile-evolution-live-site-culture-&-site-reliability-at-azure-devops
 - /resources/agile-evolution-live-site-culture-&-site-reliability-at-azure-devops
 - /resources/5bgcpPqcGlw
+aliasesFor404:
+- /resources/videos/agile-evolution-live-site-culture-&-site-reliability-at-azure-devops
+- /resources/agile-evolution-live-site-culture-&-site-reliability-at-azure-devops
 preview: https://i.ytimg.com/vi/5bgcpPqcGlw/maxresdefault.jpg
 duration: 3386
 isShort: false
 tags:
-- Agility
-- SRE
-- Site Reliability
-- Live Site Culture
-- Agile Evolution
+- Agile Tools
+- Team Collaboration
+- Continuous Delivery
+- Deployment Frequency
+- Transparency
+- Site Reliability Engineering
+- Agile Product Management
+- Customer Feedback Loops
+- Agile Planning
+- Technical Debt
+- Agile Scaling
+- Agile Software Development
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -31,6 +42,13 @@ source: youtube
 layout: video
 resourceTypes:
 - video
+categories:
+- DevOps
+- Transparency and Accountability
+- Metrics and Learning
+- Technical Excellence
+- Azure DevOps
+- Value Delivery
 
 ---
  **This session was supposed to be don't at this time at Techorama BE**

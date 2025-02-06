@@ -2,7 +2,7 @@
 title: "A Titanic Misfit: The Alpha Organization's Wasteful Endeavor in Red Markets"
 description: Explore how Alpha organizations waste resources in fast-paced red markets and discover the agile Beta model as the key to thriving in today's economy.
 ResourceId: jW4sFDdDkvn
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 49490
 ResourceImportSource: Wordpress
@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2023-07-06
 AudioNative: true
 creator: Martin Hinshelwood
-id: "49490"
 layout: blog
 resourceTypes: blog
 slug: a-titanic-misfit-the-alpha-organizations-wasteful-endeavor-in-red-markets
@@ -26,11 +25,20 @@ aliasesFor404:
 - /blog/a-titanic-misfit-the-alpha-organizations-wasteful-endeavor-in-red-markets
 - /a-titanic-misfit--the-alpha-organization's-wasteful-endeavor-in-red-markets
 - /blog/a-titanic-misfit--the-alpha-organization's-wasteful-endeavor-in-red-markets
+- /resources/blog/a-titanic-misfit-the-alpha-organizations-wasteful-endeavor-in-red-markets
 tags:
-- featured
-- homepage
+- Business Agility
+- Organisational Agility
+- Lean Thinking
+- Agile Strategy
+- Change Management
+- Organisational Change
+- Employee Engagement
+- Agile Leadership
+- Market Adaptability
+- Agile Transformation
 categories:
-- organisational-change
+- Discovery and Learning
 preview: image-1.jpg
 
 ---

@@ -3,7 +3,7 @@ title: If a client hasn't considered DevOps consulting as part of their Agile Co
 description: Discover why integrating DevOps consulting into your Agile coaching can enhance team performance and streamline software delivery. Watch now!
 date: 2023-08-21T07:00:01Z
 ResourceId: aS9TRDoC62o
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: aS9TRDoC62o
@@ -21,19 +21,36 @@ aliases:
 - /resources/videos/aS9TRDoC62o
 - /resources/if-a-client-hasn't-considered-devops-consulting-as-part-of-their-agile-consulting-needs,-why-should
 - /resources/aS9TRDoC62o
+aliasesFor404:
+- /resources/if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
+- /resources/if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should
+- /resources/videos/if-a-client-hasn't-considered-devops-consulting-as-part-of-their-agile-consulting-needs,-why-should
+- /resources/if-a-client-hasn't-considered-devops-consulting-as-part-of-their-agile-consulting-needs,-why-should
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- DevOps
-- DevOps consulting
-- Agile
-- Agile Consulting
-- Agile software engineering
-- Agile project management
-- Agile product development
+- Team Collaboration
+- Agile Software Development
+- Continuous Delivery
+- Engineering Excellence
+- Agile Planning
+- Agile Product Management
+- Customer Feedback Loops
+- Agile Transformation
+- Value Delivery
+- Agile Values and Principles
+- Organisational Agility
+- Technical Excellence
+- Agile Methodology
 resourceTypes:
 - video
+categories:
+- DevOps
+- Organisational Agility
+- Technical Excellence
+- Market Adaptability
+- Value Delivery
 
 ---
 ## Why Agile Alone Isn't Enough Without DevOps Consulting 

@@ -3,7 +3,7 @@ title: What is the most useful element of the APS course for beginner Scrum Team
 description: "Unlock Scrum's secrets! \U0001F31F Join Martin as he explores complexity in agile, offering practical insights for beginner Scrum Teams. Dive in now!"
 date: 2023-11-15T07:00:28Z
 ResourceId: n4XaJV9dJfs
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: n4XaJV9dJfs
@@ -16,39 +16,39 @@ aliases:
 - /resources/videos/what-is-the-most-useful-element-of-the-aps-course-for-beginner-scrum-teams-
 - /resources/what-is-the-most-useful-element-of-the-aps-course-for-beginner-scrum-teams-
 - /resources/n4XaJV9dJfs
+aliasesFor404:
+- /resources/videos/what-is-the-most-useful-element-of-the-aps-course-for-beginner-scrum-teams-
+- /resources/what-is-the-most-useful-element-of-the-aps-course-for-beginner-scrum-teams-
 preview: https://i.ytimg.com/vi/n4XaJV9dJfs/maxresdefault.jpg
 duration: 219
 isShort: false
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Complexity Thinking
+- Empirical Process Control
+- Definition of Done
+- Scrum Team
+- Transparency
+- Agile Planning
+- Agile Product Discovery
+- Continuous Improvement
+- Scrum Product Management
+- Evidence Based Management
+- Team Collaboration
+- Agile Software Development
+- Agile Values and Principles
+- Agile Methodology
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scrum
+- Complexity Thinking
+- Transparency and Accountability
+- People and Process
+- Value Delivery
 
 ---
  Mastering Scrum Complexity: Navigate the Agile Landscape

@@ -3,7 +3,7 @@ title: 'Understanding Product Discovery: Why It Matters More Than Ever'
 description: Discover the vital role of product discovery in shaping successful products. Learn how it differs from traditional development and drives innovation!
 date: 2024-08-26T07:44:38Z
 ResourceId: Qzw3FSl6hy4
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Qzw3FSl6hy4
@@ -20,26 +20,34 @@ aliases:
 - /resources/videos/Qzw3FSl6hy4
 - /resources/what-is-product-discovery-and-how-does-it-differ-from-how-we've-always-developed-products-
 - /resources/Qzw3FSl6hy4
+aliasesFor404:
+- /resources/understanding-product-discovery-why-it-matters-more-than-ever
+- /resources/videos/what-is-product-discovery-and-how-does-it-differ-from-how-we've-always-developed-products-
+- /resources/what-is-product-discovery-and-how-does-it-differ-from-how-we've-always-developed-products-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product discovery
-- Product Development
-- Product Management
-- Project management
-- Agile
-- Scrum
-- Agile product development
-- Agile product management
-- Agile project management
-- Project manager
-- Product Manager
-- Developer
-- Product Owner
-- Professional Scrum Trainer
+- Agile Product Discovery
+- Strategic Goals
+- Team Collaboration
+- Agile Planning
+- Scrum Product Management
+- Customer Feedback Loops
+- Continuous Improvement
+- Value Delivery
+- Agile Strategy
+- Lean Product Development
+- Evidence Based Management
+- Agile Transformation
 resourceTypes:
 - video
+categories:
+- Discovery and Learning
+- Agile Product Management
+- Organisational Agility
+- Value Delivery
+- Systems Thinking
 
 ---
 Product Discovery is a term that's often used in the world of product development, but what does it really mean? Is it something new, or is it just a different label for what we've always done? In this post, I'll delve into the nuances of Product Discovery, explain why it’s critical to your product’s success, and share some real-world examples to help you understand its scope and impact.

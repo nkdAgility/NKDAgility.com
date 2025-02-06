@@ -2,14 +2,13 @@
 title: Office 2010 Install
 description: Discover the step-by-step process for installing Office 2010 on Vista 64. Learn tips and tricks to enhance your productivity with this essential tool!
 ResourceId: Jsol6FUVR7d
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 103
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-07-16
 creator: Martin Hinshelwood
-id: "103"
 layout: blog
 resourceTypes: blog
 slug: office-2010-install
@@ -21,10 +20,14 @@ aliases:
 aliasesFor404:
 - /office-2010-install
 - /blog/office-2010-install
+- /resources/blog/office-2010-install
 tags:
-- office
-- tools
+- Agile Software Development
+- Technical Excellence
 preview: metro-office-128-link-7-1.png
+categories:
+- Install and Configuration
+- Value Delivery
 
 ---
 Now I have [uninstalled Office 2007 32bit](http://blog.hinshelwood.com/archive/2009/07/16/installing-office-2010-gotcha-1.aspx) I am ready to get this 2010 thing going…

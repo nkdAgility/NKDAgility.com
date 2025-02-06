@@ -3,7 +3,7 @@ title: 'Navigating DevOps: Crafting Unique Solutions for Unique Organizations'
 description: "Discover how to customise your DevOps consulting services for unique organisational needs, fostering continuous improvement and incremental growth. \U0001F680\U0001F4C8"
 date: 2024-08-23T07:00:12Z
 ResourceId: L2u9Qojrvb8
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: L2u9Qojrvb8
@@ -20,18 +20,35 @@ aliases:
 - /resources/videos/L2u9Qojrvb8
 - /resources/how-do-you-tailor-your-devops-consulting-services-to-meet-the-unique-needs-of-different-organization
 - /resources/L2u9Qojrvb8
+aliasesFor404:
+- /resources/navigating-devops-crafting-unique-solutions-for-unique-organizations
+- /resources/videos/how-do-you-tailor-your-devops-consulting-services-to-meet-the-unique-needs-of-different-organization
+- /resources/how-do-you-tailor-your-devops-consulting-services-to-meet-the-unique-needs-of-different-organization
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Azure DevOps
-- Azure DevOps migration
-- Azure DevOps consulting
-- Azure DevOps consultant
-- DevOps
-- DevOps migration
+- Business Agility
+- Agile Strategy
+- Systems Thinking
+- Continuous Improvement
+- Agile Transformation
+- Organisational Agility
+- Agile Problem Solving
+- Customer Feedback Loops
+- Technical Excellence
+- Agile Leadership
+- Evidence Based Management
+- Value Delivery
+- Agile Community
 resourceTypes:
 - video
+categories:
+- DevOps
+- Organisational Agility
+- People and Process
+- Market Adaptability
+- Value Delivery
 
 ---
 In today’s fast-paced digital landscape, organizations across various industries—from medical devices to military operations, internet startups to web organizations—face the challenge of implementing DevOps practices. Despite the common goal of optimizing software delivery, the journey is anything but uniform. The intrinsic philosophies of DevOps remain consistent, but the path to success is as unique as the organizations themselves.

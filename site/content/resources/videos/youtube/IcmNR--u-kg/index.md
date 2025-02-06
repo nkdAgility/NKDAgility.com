@@ -3,7 +3,7 @@ title: How will the immersive learning experience change the game in terms of en
 description: "Explore how immersive learning revolutionises entry-level skills, enhancing practical application and problem-solving in workforce development. \U0001F31F\U0001F680"
 date: 2023-07-31T07:00:12Z
 ResourceId: IcmNR--u-kg
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: IcmNR--u-kg
@@ -17,26 +17,39 @@ aliases:
 - /resources/videos/how-will-the-immersive-learning-experience-change-the-game-in-terms-of-entry-level-capabilities-
 - /resources/how-will-the-immersive-learning-experience-change-the-game-in-terms-of-entry-level-capabilities-
 - /resources/IcmNR--u-kg
+aliasesFor404:
+- /resources/videos/how-will-the-immersive-learning-experience-change-the-game-in-terms-of-entry-level-capabilities-
+- /resources/how-will-the-immersive-learning-experience-change-the-game-in-terms-of-entry-level-capabilities-
 preview: https://i.ytimg.com/vi/IcmNR--u-kg/maxresdefault.jpg
 duration: 154
 isShort: false
 tags:
-- Immersive learning experience
-- Immersive learning Scrum.Org
-- Scrum.Org immersive learning courses
-- Immersive learning scrum training
-- Immersive learning scrum certification
-- Immersive learning agile scrum training
-- Agile
-- Scrum
-- Scrum Training
-- Scrum certification
-- Scrum course
+- Agile Coaching
+- Continuous Learning
+- Team Collaboration
+- Change Management
+- Evidence Based Management
+- Discovery and Learning
+- Agile Transformation
+- Employee Engagement
+- Agile Values and Principles
+- Organisational Change
+- Agile Leadership
+- Agile Product Management
+- Systems Thinking
+- Team Motivation
+- Agile Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Discovery and Learning
+- People and Process
+- Systems Thinking
+- Organisational Agility
+- Metrics and Learning
 
 ---
  *Revolutionizing Workforce Skills: The Power of Immersive Learning* - Discover how immersive learning transforms entry-level capabilities in our latest video. Dive deep into practical skills application and real-world problem-solving with our innovative approach. 

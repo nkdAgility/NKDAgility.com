@@ -3,7 +3,7 @@ title: Agile in Nigeria 2020 - Emotional Intelligence & Team Performance with Lo
 description: Join Louisa Mensah as she explores the impact of emotional intelligence on team performance in Agile environments in Nigeria. Discover key insights and strategies!
 date: 2020-07-21T17:57:26Z
 ResourceId: 1CCv95gd_oU
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 1CCv95gd_oU
@@ -17,19 +17,36 @@ aliases:
 - /resources/videos/agile-in-nigeria-2020-emotional-intelligence-&-team-performance-with-louisa-mensah
 - /resources/agile-in-nigeria-2020-emotional-intelligence-&-team-performance-with-louisa-mensah
 - /resources/1CCv95gd_oU
+aliasesFor404:
+- /resources/videos/agile-in-nigeria-2020-emotional-intelligence-&-team-performance-with-louisa-mensah
+- /resources/agile-in-nigeria-2020-emotional-intelligence-&-team-performance-with-louisa-mensah
 preview: https://i.ytimg.com/vi/1CCv95gd_oU/hqdefault.jpg
 duration: 2739
 isShort: false
 tags:
-- Agile Leadership
-- Emotional Intelligence
+- Team Performance
+- Team Collaboration
+- Employee Engagement
+- Agile Methodology
+- Agile Community
+- Agile Transformation
+- Psychological Safety
+- Continuous Learning
+- Coaching
+- Agile Values and Principles
+- Change Management
+- Organisational Culture
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 layout: video
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Organisational Psychology
+- Events and Presentations
 
 ---
-  
  [Watch on Youtube](https://www.youtube.com/watch?v=1CCv95gd_oU)

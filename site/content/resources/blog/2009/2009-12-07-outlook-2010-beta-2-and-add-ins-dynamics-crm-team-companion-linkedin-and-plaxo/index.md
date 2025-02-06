@@ -2,14 +2,13 @@
 title: 'Outlook 2010 Beta 2 and Add-Ins: Dynamics CRM, Team Companion, LinkedIn and Plaxo'
 description: Explore the compatibility of Outlook 2010 Beta 2 with Dynamics CRM, LinkedIn, and more. Discover tips for optimizing your add-ins and enhancing productivity!
 ResourceId: YxOe4jYxLpj
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 76
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-12-07
 creator: Martin Hinshelwood
-id: "76"
 layout: blog
 resourceTypes: blog
 slug: outlook-2010-beta-2-and-add-ins-dynamics-crm-team-companion-linkedin-and-plaxo
@@ -29,11 +28,14 @@ aliasesFor404:
 - /blog/outlook-2010-beta-2-and-add-ins--dynamics-crm,-team-companion,-linkedin-and-plaxo
 - /outlook-2010-beta-2-and-add-ins--dynamics-crm--team-companion--linkedin-and-plaxo
 - /blog/outlook-2010-beta-2-and-add-ins--dynamics-crm--team-companion--linkedin-and-plaxo
+- /resources/blog/outlook-2010-beta-2-and-add-ins-dynamics-crm-team-companion-linkedin-and-plaxo
 tags:
-- office
-- ssw
-- tools
+- Agile Software Development
+- Technical Excellence
 preview: metro-office-128-link-7-7.png
+categories:
+- Install and Configuration
+- Application Lifecycle Management
 
 ---
 At SSW we are extensive users of Dynamics CRM. I wanted to give Office 2010 a go, but I had to make sure that the Dynamics CRM plug-in, and my other plug-ins worked.

@@ -3,7 +3,7 @@ title: NKD Agility. Your Partner in Cost Effective Software Development
 description: Transform your organisation's value delivery with Naked Agility. Discover strategies for engineering excellence and cost-effective software development.
 date: 2024-12-21T06:00:00Z
 ResourceId: KhKFVRcdbGo
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: KhKFVRcdbGo
@@ -17,6 +17,9 @@ aliases:
 - /resources/videos/nkd-agility-your-partner-in-cost-effective-software-development
 - /resources/nkd-agility-your-partner-in-cost-effective-software-development
 - /resources/KhKFVRcdbGo
+aliasesFor404:
+- /resources/videos/nkd-agility-your-partner-in-cost-effective-software-development
+- /resources/nkd-agility-your-partner-in-cost-effective-software-development
 preview: https://i9.ytimg.com/vi/KhKFVRcdbGo/maxresdefault.jpg?sqp=CKzMp7oG&rs=AOn4CLCRuKU6K3gPE5C6uZZipWu40oSNPg
 duration: 150
 isShort: false
@@ -25,6 +28,28 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- Value Delivery
+- Metrics and Learning
+- Technical Excellence
+- Value Stream Management
+tags:
+- Organisational Culture
+- Technical Leadership
+- Engineering Excellence
+- Systems Thinking
+- Value Stream Management
+- Continuous Improvement
+- Agile Software Development
+- Evidence Based Management
+- Business Agility
+- Agile Strategy
+- Value Delivery
+- Customer Feedback Loops
+- Agile Product Management
+- Change Management
+- Agile Transformation
 
 ---
  Build a Culture of Engineering Excellence with Naked Agility | Martin Hinshelwood

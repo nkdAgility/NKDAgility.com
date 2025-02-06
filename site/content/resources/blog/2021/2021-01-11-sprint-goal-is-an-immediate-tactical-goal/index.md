@@ -2,7 +2,7 @@
 title: Sprint Goal is an Immediate Tactical Goal
 description: Discover how to define effective Sprint Goals as tactical steps towards your Product Goal, enhancing value delivery and user engagement in Agile projects.
 ResourceId: sLRE2HdkUCS
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 45310
 ResourceImportSource: Wordpress
@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2021-01-11
 AudioNative: true
 creator: Martin Hinshelwood
-id: "45310"
 layout: blog
 resourceTypes: blog
 slug: sprint-goal-is-an-immediate-tactical-goal
@@ -22,14 +21,29 @@ aliases:
 aliasesFor404:
 - /sprint-goal-is-an-immediate-tactical-goal
 - /blog/sprint-goal-is-an-immediate-tactical-goal
+- /resources/blog/sprint-goal-is-an-immediate-tactical-goal
 tags:
-- intermediate-tactical-goal
-- leadership-track
-- product-owner
-- sprint-goal
+- Sprint Goal is an Immediate Tactical Goal
+- Scrum Product Management
+- Product Owner
+- Agile Product Ownership
+- Evidence Based Management
+- Agile Planning
+- Continuous Improvement
+- Agile Product Discovery
+- Value Delivery
+- Lean UX
+- Agile Software Development
+- Scrum Team
+- Definition of Done
+- Customer Feedback Loops
+- Hypothesis Driven Development
 categories:
-- discovery-ideation
-- measure-and-learn
+- Agile Product Management
+- Discovery and Learning
+- Metrics and Learning
+- Value Delivery
+- Scrum
 preview: naked-agility-hypothesis-driven-2-2.jpg
 
 ---

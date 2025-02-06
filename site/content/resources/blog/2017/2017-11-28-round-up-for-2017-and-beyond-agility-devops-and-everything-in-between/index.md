@@ -2,14 +2,13 @@
 title: 'Round up for 2017 and beyond: Agility, DevOps, and Everything In-between'
 description: Explore insights from 2017's top conferences on Agility and DevOps. Join Martin Hinshelwood as he shares experiences and valuable training opportunities.
 ResourceId: J0HjcdNvqGW
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 12146
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2017-11-28
 creator: Martin Hinshelwood
-id: "12146"
 layout: blog
 resourceTypes: blog
 slug: round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
@@ -29,10 +28,29 @@ aliasesFor404:
 - /blog/round-up-for-2017-and-beyond--agility,-devops,-and-everything-in-between
 - /round-up-for-2017-and-beyond--agility--devops--and-everything-in-between
 - /blog/round-up-for-2017-and-beyond--agility--devops--and-everything-in-between
+- /resources/blog/round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
 categories:
-- agility
-- devops
+- Events and Presentations
+- Scaling Agility
+- Organisational Agility
+- People and Process
 preview: -1-1.jpg
+tags:
+- Agile Community
+- Agile Transformation
+- Agile Software Development
+- Agile Leadership
+- Scrum Master
+- Professional Scrum
+- Team Collaboration
+- Continuous Improvement
+- Agile Product Management
+- DevOps
+- Agile Planning
+- Agile Values and Principles
+- Team Motivation
+- Change Management
+- Evidence Based Management
 
 ---
 This year has been relatively busy for conferences. Which is unusual since I usually forget until after the call for papers and wonder what's going on. Well, this time I got some submissions in on time. It does, however, baffle me which papers are selected. I always submit around 6 papers for workshops and talks, and always the one I would least like to present is picked.

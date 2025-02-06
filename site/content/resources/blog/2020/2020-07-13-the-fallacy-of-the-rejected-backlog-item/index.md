@@ -2,14 +2,13 @@
 title: The fallacy of the rejected backlog item
 description: Explore the fallacy of rejecting backlog items in Scrum. Understand the impact on development and learn how to enhance collaboration and transparency.
 ResourceId: Ewu5coIz9qm
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9876
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-07-13
 creator: Martin Hinshelwood
-id: "9876"
 layout: blog
 resourceTypes: blog
 slug: the-fallacy-of-the-rejected-backlog-item
@@ -21,11 +20,29 @@ aliases:
 aliasesFor404:
 - /the-fallacy-of-the-rejected-backlog-item
 - /blog/the-fallacy-of-the-rejected-backlog-item
+- /resources/blog/the-fallacy-of-the-rejected-backlog-item
 tags:
-- featured
-- sprint-review
+- Sprint Review
+- Definition of Done
+- Scrum Team
+- Product Backlog
+- Technical Debt
+- Continuous Improvement
+- Empirical Process Control
+- Agile Product Ownership
+- Value Delivery
+- Agile Software Development
+- Working Software
+- Team Collaboration
+- Agile Planning
+- Agile Product Management
+- Customer Feedback Loops
 categories:
-- people-and-process
+- People and Process
+- Scrum
+- Value Delivery
+- Discovery and Learning
+- Transparency and Accountability
 preview: nkdAgility-backlog-item-approve-1-1.jpg
 
 ---

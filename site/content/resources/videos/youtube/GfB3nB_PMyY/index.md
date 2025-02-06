@@ -3,7 +3,7 @@ title: 'The Power of Immersive Learning: Bridging Theory and Experience'
 description: Discover how immersive learning enhances your skills as a Scrum practitioner in this insightful video. Elevate your Agile journey with NKD Agility!
 date: 2024-02-09T07:00:06Z
 ResourceId: GfB3nB_PMyY
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: GfB3nB_PMyY
@@ -20,35 +20,35 @@ aliases:
 - /resources/videos/GfB3nB_PMyY
 - /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-5
 - /resources/GfB3nB_PMyY
+aliasesFor404:
+- /resources/the-power-of-immersive-learning-bridging-theory-and-experience
+- /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-5
+- /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-5
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Agile Coaching
+- Team Collaboration
+- Continuous Learning
+- Discovery and Learning
+- Employee Engagement
+- Leadership Training
+- Agile Transformation
+- Organisational Change
+- Agile Values and Principles
+- Team Motivation
+- Systems Thinking
+- Agile Community
+- Change Management
 resourceTypes:
 - video
+categories:
+- Discovery and Learning
+- People and Process
+- Organisational Agility
+- Value Delivery
+- Resilience and Change
 
 ---
 In the world of Agile and Scrum, training is essential for teams to stay effective and efficient. However, traditional training methods can often feel disconnected from real-world application. This is where immersive learning comes in, offering a holistic approach that integrates not only theory but also practical, hands-on experience.

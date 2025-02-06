@@ -3,7 +3,7 @@ title: 'The Importance of Validation in Product Development: A Strategic Approac
 description: Discover the importance of product validation! Learn how to ensure features deliver real value, reduce waste, and enhance user satisfaction.
 date: 2024-09-02T15:30:15Z
 ResourceId: roWCOkmtfDs
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: roWCOkmtfDs
@@ -20,19 +20,36 @@ aliases:
 - /resources/videos/roWCOkmtfDs
 - /resources/what-is-product-validation-and-why-does-it-matter
 - /resources/roWCOkmtfDs
+aliasesFor404:
+- /resources/the-importance-of-validation-in-product-development-a-strategic-approach
+- /resources/videos/what-is-product-validation-and-why-does-it-matter
+- /resources/what-is-product-validation-and-why-does-it-matter
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product validation
-- Agile
-- Product Development
-- Agile Product Development
-- Product Management
-- Agile Product Management
-- Scrum
+- Agile Product Validation
+- Evidence Based Management
+- Customer Feedback Loops
+- Hypothesis Driven Development
+- Agile Product Discovery
+- Value Prioritisation
+- Decision Theory
+- Continuous Improvement
+- Agile Planning
+- Product Strategy
+- Lean Product Development
+- Agile Software Development
+- Data Driven Decisions
+- Experimentation
 resourceTypes:
 - video
+categories:
+- Metrics and Learning
+- Value Delivery
+- Agile Product Management
+- Discovery and Learning
+- Value Stream Management
 
 ---
 When you're developing a product, it's natural to assume that the features you're adding will deliver value to your customers and your business. But how do you truly know that these features are providing the expected value? Recently, I've been working with a client facing a common issue—sales-driven features are fragmenting their product, making it harder to use. This issue stems from prioritizing short-term gains over long-term value. In this blog post, we'll explore the pitfalls of this approach and how shifting focus towards value-driven development can lead to more sustainable success.

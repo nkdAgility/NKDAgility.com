@@ -2,7 +2,7 @@
 title: 'The Race for Market Responsiveness: A Fresh Perspective on Organisational Agility'
 description: Discover how to enhance your organization's agility and market responsiveness. Learn to pivot swiftly and seize opportunities faster than competitors.
 ResourceId: Jz5uZMzPiRx
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 49732
 ResourceImportSource: Wordpress
@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2023-09-07
 AudioNative: true
 creator: Martin Hinshelwood
-id: "49732"
 layout: blog
 resourceTypes: blog
 slug: the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
@@ -26,14 +25,24 @@ aliasesFor404:
 - /blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
 - /the-race-for-market-responsiveness--a-fresh-perspective-on-organisational-agility
 - /blog/the-race-for-market-responsiveness--a-fresh-perspective-on-organisational-agility
+- /resources/blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
 tags:
-- betacodex
-- featured
-- homepage
-- organisational-physics
-- organisational-transformational-mastery
+- Business Agility
+- Organisational Agility
+- Change Management
+- Agile Strategy
+- Market Adaptability
+- Organisational Transformational Mastery
+- Agile Transformation
+- Agile Leadership
+- Systems Thinking
+- Agile Methodology
 categories:
-- agility
+- Organisational Agility
+- Market Adaptability
+- Enterprise Agility
+- Scaling Agility
+- Resilience and Change
 preview: naked-agility-technically-survivalisoptional-1-1.jpg
 
 ---

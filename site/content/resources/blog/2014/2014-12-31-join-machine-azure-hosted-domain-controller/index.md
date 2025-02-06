@@ -2,14 +2,13 @@
 title: Join a machine to your azure hosted domain controller
 description: Learn how to join a machine to your Azure-hosted domain controller with our step-by-step guide. Simplify your setup and enhance your network management!
 ResourceId: 7RVNi9gLHYY
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10892
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-12-31
 creator: Martin Hinshelwood
-id: "10892"
 layout: blog
 resourceTypes: blog
 slug: join-machine-azure-hosted-domain-controller
@@ -25,11 +24,25 @@ aliasesFor404:
 - /blog/join-machine-azure-hosted-domain-controller
 - /join-a-machine-to-your-azure-hosted-domain-controller
 - /blog/join-a-machine-to-your-azure-hosted-domain-controller
+- /resources/blog/join-machine-azure-hosted-domain-controller
 tags:
-- active-directory
-- azure
+- Azure DevOps
+- Agile Software Development
+- Continuous Delivery
+- Technical Excellence
+- Agile Project Management
+- Azure Boards
+- Agile Product Management
+- Agile Values and Principles
+- Agile Methodology
+- Agile Digital Tools
+- DevOps
+- Application Lifecycle Management
+- Remote Working
+- Evidence Based Management
 categories:
-- install-and-configuration
+- Install and Configuration
+- Azure DevOps
 preview: nakedalm-windows-logo-6-6.png
 
 ---

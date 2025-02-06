@@ -2,14 +2,13 @@
 title: Chicago Visual Studio ALM User Group 27th March
 description: Join the Chicago Visual Studio ALM User Group on March 27th for insights on Kanban, Work Item Tags, and more. Don't miss out—register now!
 ResourceId: Zfdh9rvKZbG
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9275
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-03-12
 creator: Martin Hinshelwood
-id: "9275"
 layout: blog
 resourceTypes: blog
 slug: chicago-visual-studio-alm-user-group-27th-march
@@ -21,14 +20,14 @@ aliases:
 aliasesFor404:
 - /chicago-visual-studio-alm-user-group-27th-march
 - /blog/chicago-visual-studio-alm-user-group-27th-march
+- /resources/blog/chicago-visual-studio-alm-user-group-27th-march
 tags:
-- configuration
-- infrastructure
-- tfs2012-2
-- tools
-- user-groups
+- Kanban
+- Agile Tools
 categories:
-- tools-and-techniques
+- Events and Presentations
+- Application Lifecycle Management
+- Practical Techniques and Tooling
 preview: metro-UserGroup-128-2-2.png
 
 ---

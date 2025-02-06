@@ -2,14 +2,13 @@
 title: Quality enablement to achieve predictable delivery
 description: Achieve predictable software delivery by establishing quality enablement. Learn key strategies to enhance your development process and reduce bugs.
 ResourceId: Qvzmat4E5NB
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9737
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-24
 creator: Martin Hinshelwood
-id: "9737"
 layout: blog
 resourceTypes: blog
 slug: quality-enablement-to-achieve-predictable-delivery
@@ -21,18 +20,13 @@ aliases:
 aliasesFor404:
 - /quality-enablement-to-achieve-predictable-delivery
 - /blog/quality-enablement-to-achieve-predictable-delivery
+- /resources/blog/quality-enablement-to-achieve-predictable-delivery
 tags:
-- definition-of-done
-- develop
-- improve
-- measure
-- predictable-quality
-- quality-enablement
-- strategic
-- testing
+- Definition of Done
+- Agile Predictability
 categories:
-- measure-and-learn
-- people-and-process
+- People and Process
+- Metrics and Learning
 preview: nakedalm-experts-professional-scrum-2-2.png
 
 ---

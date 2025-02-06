@@ -3,7 +3,7 @@ title: 'The Power of Kindness in Agile: A Core Virtue for Success'
 description: "Discover how kindness transforms Agile! Explore empathy's role in boosting customer satisfaction and employee engagement for organisational success. \U0001F31F"
 date: 2023-12-11T07:00:01Z
 ResourceId: 4nhKXAgutZw
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 4nhKXAgutZw
@@ -19,36 +19,31 @@ aliases:
 - /resources/videos/4nhKXAgutZw
 - /resources/7-virtues-of-agile-kindness
 - /resources/4nhKXAgutZw
+aliasesFor404:
+- /resources/the-power-of-kindness-in-agile-a-core-virtue-for-success
+- /resources/videos/7-virtues-of-agile-kindness
+- /resources/7-virtues-of-agile-kindness
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Customer Satisfaction
+- Team Motivation
+- Employee Engagement
+- Organisational Culture
+- Agile Values and Principles
+- Team Collaboration
+- Business Agility
+- Continuous Improvement
+- Psychological Safety
+- Value Delivery
+- Agile Transformation
+- Customer Feedback Loops
 resourceTypes:
 - video
 layout: video
+categories:
+- Discovery and Learning
 
 ---
 When we talk about **kindness** in Agile, we're referring to something deeper than just being nice. Kindness can take many forms—**compassion, benevolence, empathy**—and it can be directed toward different parts of our organization. It’s about how we treat our customers, our teams, and even ourselves in the way we work. Agile isn't just about delivering software; it's about creating environments where people can thrive, feel valued, and succeed together.

@@ -3,7 +3,7 @@ title: Empowering Teams to Maximize Value and Return on Investment
 description: "Unlock your team's potential! Discover how empowering Agile teams boosts innovation, adaptability, and ROI in this insightful video. Click to learn more! \U0001F4BC\U0001F4C8"
 date: 2024-07-24T06:45:04Z
 ResourceId: rN1s7_iuklo
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: rN1s7_iuklo
@@ -20,15 +20,37 @@ aliases:
 - /resources/videos/rN1s7_iuklo
 - /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-5
 - /resources/rN1s7_iuklo
+aliasesFor404:
+- /resources/empowering-teams-to-maximize-value-and-return-on-investment
+- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-5
+- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-5
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Product Management
-- Agile product management
+- Team Collaboration
+- Team Motivation
+- Continuous Improvement
+- Agile Leadership
+- Self Organisation
+- Value Delivery
+- Organisational Agility
+- Change Management
+- Agile Strategy
+- Employee Engagement
+- Agile Transformation
+- Agile Values and Principles
+- Experimentation
+- Cross Functional Teams
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Value Delivery
+- Metrics and Learning
+- Discovery and Learning
+- Resilience and Change
 
 ---
 In the fast-paced world of Agile, the key to success lies in the ability of teams to adapt and evolve. But are your teams truly empowered to change their processes based on what they learn? If they aren't, then they might not be as agile as you think. 🚀

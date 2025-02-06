@@ -3,7 +3,7 @@ title: '7 deadly sins of Agile: Gluttony'
 description: "Discover the pitfalls of gluttony in Agile! \U0001F354 Learn how bloated backlogs and overloaded sprints waste effort and hinder success. Watch now! \U0001F4CA✨"
 date: 2023-10-11T11:35:09Z
 ResourceId: 2ASLFX2i9_g
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 2ASLFX2i9_g
@@ -19,38 +19,36 @@ aliases:
 - /resources/videos/2ASLFX2i9_g
 - /resources/gluttony!-7-deadly-sins-of-agile
 - /resources/2ASLFX2i9_g
+aliasesFor404:
+- /resources/7-deadly-sins-of-agile-gluttony
+- /resources/videos/gluttony!-7-deadly-sins-of-agile
+- /resources/gluttony!-7-deadly-sins-of-agile
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
-- Agile leadership
-- Agile leader
-- Leadership
+- Sprint Planning Workshop
+- Scrum Team
+- Agile Product Management
+- Value Prioritisation
+- Continuous Improvement
+- Lean Thinking
+- Evidence Based Management
+- Technical Debt
+- Agile Product Discovery
+- Customer Feedback Loops
+- Agile Software Development
+- Definition of Done
+- Value Delivery
 resourceTypes:
 - video
 layout: video
+categories:
+- Value Delivery
+- Lean
+- Agile Product Management
+- Metrics and Learning
+- Value Stream Management
 
 ---
 ## Mastering Agility: Steering Clear of the Gluttony Trap in Agile and Scrum 🌟 

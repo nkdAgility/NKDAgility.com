@@ -2,14 +2,13 @@
 title: The Tyranny of Taylorism and how to detect Agile BS
 description: Explore the impact of Taylorism on modern management and learn to identify Agile BS. Join Martin Hinshelwood in redefining workplace practices for success.
 ResourceId: IDMjGi5C8lS
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 44208
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-04-01
 creator: Martin Hinshelwood
-id: "44208"
 layout: blog
 resourceTypes: blog
 slug: live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
@@ -25,14 +24,29 @@ aliasesFor404:
 - /blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
 - /the-tyranny-of-taylorism-and-how-to-detect-agile-bs
 - /blog/the-tyranny-of-taylorism-and-how-to-detect-agile-bs
+- /resources/blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
 tags:
-- agile
-- agile-bs
-- live-webcast
-- scrum-definition
-- taylorism
+- Agile Transformation
+- Change Management
+- Organisational Agility
+- Agile Coaching
+- Lean Thinking
+- Continuous Improvement
+- Agile Values and Principles
+- Systems Thinking
+- Evidence Based Management
+- Agile Software Development
+- Agile Leadership
+- Agile Methodology
+- Agile Community
+- Employee Engagement
+- Agile Problem Solving
 categories:
-- agility
+- Systems Thinking
+- Organisational Agility
+- People and Process
+- Events and Presentations
+- Lean
 preview: 2020-03-27_21-31-11-1-1.jpg
 
 ---

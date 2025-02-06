@@ -3,7 +3,7 @@ title: 'Say-Do Metrics: Avoiding Agile Banditry in Your Organization'
 description: "Uncover the truth behind say-do metrics in Agile! Join Martin as he reveals pitfalls and shares insights for genuine outcomes. \U0001F680\U0001F4CA #Agile #Transparency"
 date: 2024-01-05T07:00:28Z
 ResourceId: oKZ9bbESCok
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: oKZ9bbESCok
@@ -20,35 +20,34 @@ aliases:
 - /resources/videos/oKZ9bbESCok
 - /resources/5-kinds-of-agile-bandits-say-do-metrics
 - /resources/oKZ9bbESCok
+aliasesFor404:
+- /resources/say-do-metrics-avoiding-agile-banditry-in-your-organization
+- /resources/videos/5-kinds-of-agile-bandits-say-do-metrics
+- /resources/5-kinds-of-agile-bandits-say-do-metrics
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Agile Planning
+- Team Motivation
+- Psychological Safety
+- Evidence Based Management
+- Value Prioritisation
+- Agile Product Discovery
+- Change Management
+- Agile Transformation
+- Continuous Improvement
+- Agile Estimation
+- Agile Values and Principles
+- Systems Thinking
 resourceTypes:
 - video
+categories:
+- Metrics and Learning
+- Organisational Agility
+- Value Delivery
+- People and Process
+- Transparency and Accountability
 
 ---
 In Agile environments, there’s often a temptation to rely on metrics that seem to offer clarity and control over a project’s progress. One such metric is the "say-do" metric, which measures what a team says they will do versus what they actually accomplish. While this may appear useful on the surface, it's often a slippery slope that leads to vanity metrics, reduced psychological safety, and, ultimately, a focus on outputs rather than outcomes.

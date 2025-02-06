@@ -3,7 +3,7 @@ title: When is an APS course appropriate for a scrum team?
 description: 'Join Martin Hinshelwood as he shares his vision of the perfect agile consulting week, highlighting the power of inspired teams in #agile and #scrum.'
 date: 2023-04-11T07:00:00Z
 ResourceId: aathsp3IMfg
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: aathsp3IMfg
@@ -21,15 +21,37 @@ aliases:
 - /resources/videos/aathsp3IMfg
 - /resources/what-does-your-dream-agile-consulting-week-look-like-
 - /resources/aathsp3IMfg
+aliasesFor404:
+- /resources/when-is-an-aps-course-appropriate-for-a-scrum-team
+- /resources/what-does-your-dream-agile-consulting-week-look-like
+- /resources/videos/what-does-your-dream-agile-consulting-week-look-like-
+- /resources/what-does-your-dream-agile-consulting-week-look-like-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Agile Consulting
-- Agile product development
+- Scrum Master
+- Scrum Team
+- Definition of Done
+- Software Increment
+- Continuous Delivery
+- Technical Excellence
+- Agile Product Management
+- Team Collaboration
+- Change Management
+- Continuous Improvement
+- Agile Values and Principles
+- Agile Transformation
+- Team Motivation
+- Working Software
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Value Delivery
+- Practical Techniques and Tooling
+- Organisational Agility
 
 ---
 ## Empowering Teams with the APS Approach: Elevating Your Scrum Journey

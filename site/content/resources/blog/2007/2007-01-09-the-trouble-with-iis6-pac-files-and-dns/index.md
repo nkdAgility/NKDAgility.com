@@ -2,14 +2,13 @@
 title: The trouble with IIS6, .pac files and DNS
 description: Explore the challenges of using IIS6 with .pac files and DNS. Learn practical solutions to common proxy server issues in this insightful blog post.
 ResourceId: R2MUioX4tLG
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 448
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-01-09
 creator: Martin Hinshelwood
-id: "448"
 layout: blog
 resourceTypes: blog
 slug: the-trouble-with-iis6-pac-files-and-dns
@@ -29,9 +28,14 @@ aliasesFor404:
 - /blog/the-trouble-with-iis6,--pac-files-and-dns
 - /the-trouble-with-iis6---pac-files-and-dns
 - /blog/the-trouble-with-iis6---pac-files-and-dns
+- /resources/blog/the-trouble-with-iis6-pac-files-and-dns
 tags:
-- network
+- Technical Debt
+- Site Reliability Engineering
 preview: nakedalm-logo-128-link-1-1.png
+categories:
+- Install and Configuration
+- Technical Excellence
 
 ---
 Now, I have, up until now, not had any experience with proxy servers. Well, to be honest, I still don't... But I do have some experience with IIS as I have been using it since the sad old days of NT4. Yes that's right, before Active Directory, The bad old days when domains were the work of a craftsman.

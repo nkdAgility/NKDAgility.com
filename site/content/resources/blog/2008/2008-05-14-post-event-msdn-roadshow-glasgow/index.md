@@ -2,14 +2,13 @@
 title: 'Post Event: MSDN Roadshow (Glasgow)'
 description: Join Martin Hinshelwood as he shares insights from the MSDN Roadshow in Glasgow, covering ADO.NET, Data Services, and Silverlight 2. Discover more!
 ResourceId: yCxWv4R5Eps
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 228
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-05-14
 creator: Martin Hinshelwood
-id: "228"
 layout: blog
 resourceTypes: blog
 slug: post-event-msdn-roadshow-glasgow
@@ -25,10 +24,11 @@ aliasesFor404:
 - /blog/post-event-msdn-roadshow-glasgow
 - /post-event--msdn-roadshow-(glasgow)
 - /blog/post-event--msdn-roadshow-(glasgow)
+- /resources/blog/post-event-msdn-roadshow-glasgow
 tags:
-- silverlight
+- Agile Software Development
 categories:
-- me
+- Events and Presentations
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

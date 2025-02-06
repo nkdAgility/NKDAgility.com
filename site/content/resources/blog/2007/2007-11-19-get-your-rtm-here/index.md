@@ -2,14 +2,13 @@
 title: Get your RTM here!
 description: Discover the official release of Visual Studio 2008 and .NET 3.5! Join the excitement and learn how to transition to the full version seamlessly.
 ResourceId: 8gqTTHiRrpk
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 293
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-11-19
 creator: Martin Hinshelwood
-id: "293"
 layout: blog
 resourceTypes: blog
 slug: get-your-rtm-here
@@ -25,11 +24,13 @@ aliasesFor404:
 - /blog/get-your-rtm-here
 - /get-your-rtm-here-
 - /blog/get-your-rtm-here-
+- /resources/blog/get-your-rtm-here
 tags:
-- visual-studio
-- vs2008
+- Agile Software Development
+- Continuous Delivery
 categories:
-- tools-and-techniques
+- Application Lifecycle Management
+- News and Reviews
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

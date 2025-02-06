@@ -2,14 +2,13 @@
 title: VSTS Sync Migration Tools
 description: Discover VSTS Sync Migration Tools for seamless data migration from TFS to VSTS. Simplify your transition and enhance your DevOps processes today!
 ResourceId: UjyqYjINUfp
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 11634
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2016-10-26
 creator: Martin Hinshelwood
-id: "11634"
 layout: blog
 resourceTypes: blog
 slug: vsts-sync-migration-tools
@@ -21,9 +20,23 @@ aliases:
 aliasesFor404:
 - /vsts-sync-migration-tools
 - /blog/vsts-sync-migration-tools
+- /resources/blog/vsts-sync-migration-tools
 tags:
-- migration
-- vsteamservices
+- Agile Tools
+- Agile Software Development
+- Agile Project Management
+- Continuous Delivery
+- Test Automation
+- Technical Excellence
+- Value Delivery
+- Customer Feedback Loops
+- Agile Product Management
+- Evidence Based Improvement
+- Agile Transformation
+- Azure DevOps
+- Agile Software Engineering
+- Team Collaboration
+- Change Management
 categories:
 - devops
 preview: image_thumb-1-1.png

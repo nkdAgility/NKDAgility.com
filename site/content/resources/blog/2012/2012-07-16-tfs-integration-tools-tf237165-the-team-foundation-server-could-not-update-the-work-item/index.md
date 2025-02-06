@@ -2,14 +2,13 @@
 title: 'TFS Integration Tools: TF237165: The Team Foundation Server could not update the work item'
 description: Resolve the TF237165 error in TFS Integration Tools with effective troubleshooting tips. Learn how to fix validation issues and streamline your workflow!
 ResourceId: -dhZywZGtrn
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 6179
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-07-16
 creator: Martin Hinshelwood
-id: "6179"
 layout: blog
 resourceTypes: blog
 slug: tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item
@@ -25,14 +24,13 @@ aliasesFor404:
 - /blog/tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item
 - /tfs-integration-tools--tf237165--the-team-foundation-server-could-not-update-the-work-item
 - /blog/tfs-integration-tools--tf237165--the-team-foundation-server-could-not-update-the-work-item
+- /resources/blog/tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item
 tags:
-- puzzles
-- tf237165
-- tfs
-- tfs2012
-- tfs-integration-platform
+- Agile Tools
+- Azure DevOps
 categories:
-- problems-and-puzzles
+- Install and Configuration
+- Azure DevOps
 preview: metro-problem-icon-2-2.png
 
 ---

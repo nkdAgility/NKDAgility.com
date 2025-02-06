@@ -3,7 +3,7 @@ title: Why is Johanna a great teacher for the Professional Agile Leadership - Es
 description: Discover why Joanna Plaskonka is the ideal guide for the Professional Agile Leadership Essentials course, empowering leaders to embrace agile transformation!
 date: 2023-07-26T04:03:17Z
 ResourceId: EOs5kZv_7tg
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: EOs5kZv_7tg
@@ -21,23 +21,32 @@ aliases:
 - /resources/videos/EOs5kZv_7tg
 - /resources/why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course-
 - /resources/EOs5kZv_7tg
+aliasesFor404:
+- /resources/why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility
+- /resources/why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course
+- /resources/videos/why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course-
+- /resources/why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Professional Agile Leadership
-- Professional Agile Leadership Essentials
-- PAL-E
-- Scrum.org
-- Scrum Course
-- Scrum training
-- Agile Leadership
-- Agile Leadership courses
-- Agile leadership certification
-- Immersive learning experience
-- Immersive learning courses
+- Leadership Training
+- Agile Coaching
+- Team Motivation
+- Organisational Agility
+- Change Management
+- Agile Community
+- Employee Engagement
+- Agile Values and Principles
+- Agile Mentoring
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Organisational Psychology
+- Discovery and Learning
+- Value Delivery
 
 ---
 ## Power of Passion

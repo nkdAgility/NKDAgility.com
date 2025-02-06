@@ -1,5 +1,9 @@
 ---
 title: Liberating Structures
+description: "\U0001F680 Coming soon! Stay tuned for an exciting new resource that will enhance your experience and knowledge. Don't miss out!"
+ResourceId: -Gso-hQgUca
+ResourceImport: true
+ResourceType: methods
 date: 2024-09-17
 creator: Martin Hinshelwood
 draft: true
@@ -7,13 +11,32 @@ resourceTypes: method
 layout: method
 slug: liberating-structures
 aliases:
-  - /methods/liberating-structures/
-  - /learn/agile-delivery-kit/strategies/liberating-structures/
+- /methods/liberating-structures/
+- /learn/agile-delivery-kit/strategies/liberating-structures/
+- /resources/-Gso-hQgUca
+aliasesFor404:
+- /methods/liberating-structures/
+- /learn/agile-delivery-kit/strategies/liberating-structures/
 card:
   button:
     content: Start Optimizing Now
   title: Liberating Structures
   content: Unlock creativity and innovation through Liberating Structures. Engage your team in dynamic, inclusive conversations that drive impactful outcomes.
----
+categories:
+- Discovery and Learning
+- Organisational Agility
+- Systems Thinking
+tags:
+- Team Collaboration
+- Agile Planning
+- Agile Product Discovery
+- Agile Product Management
+- Agile Software Development
+- Agile Transformation
+- Continuous Improvement
+- Customer Feedback Loops
+- Agile Values and Principles
+- Organisational Agility
 
+---
 Coming soon!

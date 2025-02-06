@@ -3,7 +3,7 @@ title: What is a sprint goal?
 description: 'Discover the importance of a sprint goal in Scrum! Join Martin Hinshelwood as he shares tips on crafting effective goals for your team. #Agile #Scrum #Shorts'
 date: 2023-05-31T11:00:01Z
 ResourceId: 2Cy9MxXiiOo
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 2Cy9MxXiiOo
@@ -19,37 +19,35 @@ aliases:
 - /resources/videos/2Cy9MxXiiOo
 - /resources/what-is-a-sprint-goal-
 - /resources/2Cy9MxXiiOo
+aliasesFor404:
+- /resources/what-is-a-sprint-goal-2
+- /resources/videos/what-is-a-sprint-goal-
+- /resources/what-is-a-sprint-goal-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Goal
-- Goal
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
+- Sprint Planning Workshop
+- Scrum Product Management
+- Scrum Team
+- Sprint Review
+- Definition of Done
+- Agile Planning
+- Team Collaboration
+- Customer Feedback Loops
+- Agile Product Management
+- Continuous Improvement
+- Agile Values and Principles
+- Agile Product Discovery
+- Value Delivery
+- Team Motivation
 resourceTypes:
 - video
 layout: video
+categories:
+- Scrum
+- Agile Product Management
+- Value Delivery
 
 ---
 ## What's a Sprint Goal and Why Does It Matter?

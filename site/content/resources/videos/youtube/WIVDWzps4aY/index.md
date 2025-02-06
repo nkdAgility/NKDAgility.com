@@ -3,7 +3,7 @@ title: Favourite scrum course to teach and why?
 description: 'Join Martin Hinshelwood as he shares his favourite scrum course and its impact on teaching. Discover the power of agile with Naked Agility! #scrum #agile #shorts'
 date: 2023-09-05T07:00:12Z
 ResourceId: WIVDWzps4aY
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: WIVDWzps4aY
@@ -16,24 +16,38 @@ aliases:
 - /resources/videos/favourite-scrum-course-to-teach-and-why-
 - /resources/favourite-scrum-course-to-teach-and-why-
 - /resources/WIVDWzps4aY
+aliasesFor404:
+- /resources/videos/favourite-scrum-course-to-teach-and-why-
+- /resources/favourite-scrum-course-to-teach-and-why-
 preview: https://i.ytimg.com/vi/WIVDWzps4aY/maxresdefault.jpg
 duration: 24
 isShort: true
 tags:
-- Scrum
-- Scrum course
-- Scrum training
-- Scrum.Org
-- Scrum certification
-- Professional Scrum Trainer
-- PST
-- professional Scrum training
+- Scrum Product Management
+- Product Owner
+- Agile Product Management
+- Team Collaboration
+- Agile Product Discovery
+- Customer Feedback Loops
+- Agile Planning
+- Continuous Improvement
+- Agile Values and Principles
+- Team Motivation
+- Agile Transformation
+- Agile Community
+- Scrum Team
+- Value Delivery
+- Agile Mentoring
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scrum
+- Agile Product Management
+- People and Process
 
 ---
  #shorts #shortsvideo #shortvideo Martin Hinshelwood talks about his favourite #scrumcourse to teach, and why that #scrumtraining resonates so much.

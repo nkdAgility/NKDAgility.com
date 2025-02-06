@@ -2,14 +2,13 @@
 title: Unit Testing against the Team Foundation Server 2012 API
 description: Learn how to effectively unit test against the Team Foundation Server 2012 API, tackling authentication challenges and enhancing your TDD practices.
 ResourceId: eizpccdEtUL
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 5112
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-04-02
 creator: Martin Hinshelwood
-id: "5112"
 layout: blog
 resourceTypes: blog
 slug: unit-testing-against-the-team-foundation-server-2012-api
@@ -21,21 +20,13 @@ aliases:
 aliasesFor404:
 - /unit-testing-against-the-team-foundation-server-2012-api
 - /blog/unit-testing-against-the-team-foundation-server-2012-api
+- /resources/blog/unit-testing-against-the-team-foundation-server-2012-api
 tags:
-- code
-- configuration
-- infrastructure
-- practices
-- tdd
-- tfs2012
-- tf-service
-- tools
-- unit-testing
-- visual-studio
-- vs2012
+- Test Driven Development
+- Automated Testing
 categories:
-- code-and-complexity
-- tools-and-techniques
+- Azure DevOps
+- Technical Excellence
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

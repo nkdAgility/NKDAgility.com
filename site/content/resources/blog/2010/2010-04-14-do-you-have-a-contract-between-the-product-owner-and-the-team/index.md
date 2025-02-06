@@ -2,14 +2,13 @@
 title: Do you have a contract between the Product Owner and the Team?
 description: Discover the importance of a Sprint Contract between the Product Owner and Team in Scrum. Enhance collaboration and clarity for successful project delivery.
 ResourceId: 8d4KN3bxVfX
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 52
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-04-14
 creator: Martin Hinshelwood
-id: "52"
 layout: blog
 resourceTypes: blog
 slug: do-you-have-a-contract-between-the-product-owner-and-the-team
@@ -25,19 +24,14 @@ aliasesFor404:
 - /blog/do-you-have-a-contract-between-the-product-owner-and-the-team
 - /do-you-have-a-contract-between-the-product-owner-and-the-team-
 - /blog/do-you-have-a-contract-between-the-product-owner-and-the-team-
+- /resources/blog/do-you-have-a-contract-between-the-product-owner-and-the-team
 tags:
-- configuration
-- define
-- develop
-- people
-- practices
-- process
-- scrum
-- sharepoint
-- spf2010
-- ssw
+- Sprint Planning Workshop
+- Definition of Done
 categories:
-- people-and-process
+- People and Process
+- Agile Product Management
+- Scrum
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

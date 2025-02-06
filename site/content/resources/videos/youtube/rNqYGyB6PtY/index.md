@@ -3,7 +3,7 @@ title: What Should a Product Owner Do with an Incompetent Team?
 description: "Struggling with a team that underperforms? Discover how to identify true incompetence vs. lack of knowledge in this insightful video! \U0001F4BC\U0001F680 #LeadershipSkills"
 date: 2023-10-26T14:30:26Z
 ResourceId: rNqYGyB6PtY
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: rNqYGyB6PtY
@@ -20,33 +20,37 @@ aliases:
 - /resources/videos/rNqYGyB6PtY
 - /resources/what-does-a-product-owner-do-if-the-team-are-incompetent-
 - /resources/rNqYGyB6PtY
+aliasesFor404:
+- /resources/what-should-a-product-owner-do-with-an-incompetent-team
+- /resources/videos/what-does-a-product-owner-do-if-the-team-are-incompetent-
+- /resources/what-does-a-product-owner-do-if-the-team-are-incompetent-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach.
+- Team Collaboration
+- Team Motivation
+- Agile Leadership
+- Employee Engagement
+- Agile Product Ownership
+- Agile Problem Solving
+- Technical Excellence
+- Continuous Improvement
+- Agile Transformation
+- Leadership Training
+- Organisational Change
+- Psychological Safety
+- Coaching
+- Agile Methodology
+- Agile Software Development
 resourceTypes:
 - video
+categories:
+- People and Process
+- Organisational Psychology
+- Technical Excellence
+- Agile Product Management
+- DevOps
 
 ---
 As a product owner, you might sometimes face the challenge of working with a team that isn't meeting expectations. Incompetence in a team can be frustrating, but it’s essential to approach the situation thoughtfully and strategically before taking any drastic steps. So, what should you do if you find yourself in this predicament? Let’s dive into it.

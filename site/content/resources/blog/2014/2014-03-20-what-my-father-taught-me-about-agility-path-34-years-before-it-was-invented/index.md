@@ -2,14 +2,13 @@
 title: What my father taught me about Evidence-based Management (34 years before it was invented!)
 description: Discover how my father's insights on Evidence-based Management transformed a failing business 34 years before its inception. Learn to optimize value and agility!
 ResourceId: gYcZPh6B2eg
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10446
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-03-20
 creator: Martin Hinshelwood
-id: "10446"
 layout: blog
 resourceTypes: blog
 slug: what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented
@@ -25,14 +24,29 @@ aliasesFor404:
 - /blog/what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented
 - /what-my-father-taught-me-about-evidence-based-management-(34-years-before-it-was-invented-)
 - /blog/what-my-father-taught-me-about-evidence-based-management-(34-years-before-it-was-invented-)
+- /resources/blog/what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented
 tags:
-- agile
-- ebmgt
-- evidence-based-management
-- scrum
-- scrum-org
+- Evidence Based Management
+- Customer Satisfaction
+- Lead Time
+- Value Delivery
+- Agile Product Management
+- Agile Planning
+- Business Agility
+- Continuous Improvement
+- Evidence Based Improvement
+- Agile Product Discovery
+- Team Collaboration
+- Value Stream Management
+- Agile Strategy
+- Decision Making
+- Agile Leadership
 categories:
-- people-and-process
+- People and Process
+- Metrics and Learning
+- Value Delivery
+- Organisational Agility
+- Discovery and Learning
 preview: nakedalm-agility-index-7-7.png
 
 ---

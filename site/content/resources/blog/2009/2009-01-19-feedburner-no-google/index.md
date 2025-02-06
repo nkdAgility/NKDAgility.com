@@ -2,14 +2,13 @@
 title: Feedburner, no Google…
 description: Explore the transition from Feedburner to Google and learn how to update your feed URLs for better performance and accuracy. Get insights and tips here!
 ResourceId: W90U2-3Up25
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 144
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-01-19
 creator: Martin Hinshelwood
-id: "144"
 layout: blog
 resourceTypes: blog
 slug: feedburner-no-google
@@ -29,9 +28,13 @@ aliasesFor404:
 - /blog/feedburner,-no-google…
 - /feedburner--no-google…
 - /blog/feedburner--no-google…
+- /resources/blog/feedburner-no-google
 categories:
-- me
+- News and Reviews
 preview: nakedalm-logo-128-link-2-2.png
+tags:
+- Customer Feedback Loops
+- Continuous Improvement
 
 ---
 As some of you may know, Feedburner ([http://feedburner.com](http://feedburner.com)) was acquired some time ago by Google… But they are now actively migrating their content to Google servers ([http://feedburner.google.com](http://feedburner.google.com "http://feedburner.google.com")) and I have taken the plunge… if you are having any problems with my feeds then please let me know so I can rectify it…

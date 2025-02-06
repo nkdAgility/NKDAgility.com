@@ -3,7 +3,7 @@ title: '7 deadly sins of Agile: Wrath'
 description: "Explore the impact of wrath in agile teams! Discover how blame deflection and lack of accountability disrupt productivity. Watch now! \U0001F680\U0001F4CA"
 date: 2023-10-16T11:00:31Z
 ResourceId: U18nA0YFgu0
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: U18nA0YFgu0
@@ -20,21 +20,35 @@ aliases:
 - /resources/videos/U18nA0YFgu0
 - /resources/wrath!-7-deadly-sins-of-agile
 - /resources/U18nA0YFgu0
+aliasesFor404:
+- /resources/7-deadly-sins-of-agile-wrath
+- /resources/videos/wrath!-7-deadly-sins-of-agile
+- /resources/wrath!-7-deadly-sins-of-agile
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- '#scrum'
-- '#agile'
-- '#agilecoach'
-- '#scrumorg'
-- '#agileconsultant'
-- '#agiletraining'
-- '#devops'
-- '#agileproductdevelopment'
-- '#productdevelopment'
+- Accountability
+- Organisational Culture
+- Team Collaboration
+- Agile Leadership
+- Continuous Improvement
+- Psychological Safety
+- Team Motivation
+- Agile Problem Solving
+- Scrum Team
+- Sprint Review
+- Agile Values and Principles
+- Change Management
+- Employee Engagement
+- DevOps
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Transparency and Accountability
+- Organisational Psychology
 
 ---
 **Addressing Wrath in Agile Teams: From Blame to Accountability 🌪️🛠️** 

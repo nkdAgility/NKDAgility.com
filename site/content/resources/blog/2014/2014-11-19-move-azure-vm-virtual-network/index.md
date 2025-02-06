@@ -2,14 +2,13 @@
 title: Move your Azure VM to a Virtual Network
 description: Learn how to move your Azure VM to a virtual network with this step-by-step guide. Optimize your setup for better performance and connectivity!
 ResourceId: nTSBTp1_gBy
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10874
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-11-19
 creator: Martin Hinshelwood
-id: "10874"
 layout: blog
 resourceTypes: blog
 slug: move-azure-vm-virtual-network
@@ -25,13 +24,26 @@ aliasesFor404:
 - /blog/move-azure-vm-virtual-network
 - /move-your-azure-vm-to-a-virtual-network
 - /blog/move-your-azure-vm-to-a-virtual-network
+- /resources/blog/move-azure-vm-virtual-network
 tags:
-- azure
-- release-management
-- virtual-machines
-- virtual-network
+- Azure DevOps
+- Azure Pipelines
+- Agile Software Development
+- Continuous Delivery
+- Technical Excellence
+- Application Lifecycle Management
+- Agile Project Management
+- Deployment Strategies
+- Value Delivery
+- Evidence Based Management
+- Organisational Change
+- Digital Transformation
+- Lean Principles
+- Customer Feedback Loops
+- Agile Methodology
 categories:
-- install-and-configuration
+- Install and Configuration
+- Azure DevOps
 preview: nakedalm-windows-logo-8-8.png
 
 ---

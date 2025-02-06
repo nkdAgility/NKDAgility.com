@@ -3,7 +3,7 @@ title: 'Focusing Beyond "Agile": Building True Capability in Organizations'
 description: "Refocus your organisation! Discover how to build competence and value by improving hiring practices and fostering effective leadership. \U0001F331\U0001F4BC #LifelongLearning"
 date: 2024-10-11T06:45:00Z
 ResourceId: 4zGsmQFWFpo
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 4zGsmQFWFpo
@@ -19,16 +19,37 @@ aliases:
 - /resources/videos/4zGsmQFWFpo
 - /resources/where-are-we-now-and-where-do-we-need-to-go-next
 - /resources/4zGsmQFWFpo
+aliasesFor404:
+- /resources/focusing-beyond-agile-building-true-capability-in-organizations
+- /resources/videos/where-are-we-now-and-where-do-we-need-to-go-next
+- /resources/where-are-we-now-and-where-do-we-need-to-go-next
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- Competence
+- Scrum Master
+- Team Collaboration
+- Continuous Learning
+- Leadership Training
+- Agile Product Management
+- Organisational Culture
+- Employee Engagement
+- Agile Transformation
+- Technical Mastery
+- Agile Values and Principles
+- Agile Product Ownership
+- Team Motivation
+- Change Management
+- Agile Software Development
 resourceTypes:
 - video
 layout: video
+categories:
+- Organisational Agility
+- People and Process
+- Discovery and Learning
+- Technical Excellence
+- Scrum
 
 ---
 In today’s rapidly evolving landscape, focusing solely on _Agile_ as a label can be limiting. Instead, the goal should be to increase our organization’s **capability**, **maximize value**, and **enhance effectiveness**. It's not about the moniker; it’s about achieving outcomes that matter. 🏆

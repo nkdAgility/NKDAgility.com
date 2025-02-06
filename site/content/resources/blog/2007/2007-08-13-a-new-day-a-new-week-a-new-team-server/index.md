@@ -2,14 +2,13 @@
 title: A new day, a new week, a new Team Server
 description: Discover the seamless upgrade to TFS2008 and explore new project capabilities with Visual Studio 2005. Enhance your development environment today!
 ResourceId: 6c2D94gL-Fn
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 333
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-13
 creator: Martin Hinshelwood
-id: "333"
 layout: blog
 resourceTypes: blog
 slug: a-new-day-a-new-week-a-new-team-server
@@ -29,14 +28,14 @@ aliasesFor404:
 - /blog/a-new-day,-a-new-week,-a-new-team-server
 - /a-new-day--a-new-week--a-new-team-server
 - /blog/a-new-day--a-new-week--a-new-team-server
+- /resources/blog/a-new-day-a-new-week-a-new-team-server
 tags:
-- ml
-- tfs
-- tfs2008
-- tools
-- visual-studio
-- vs2005
+- Agile Tools
+- Continuous Delivery
 preview: metro-visual-studio-2005-128-link-1-1.png
+categories:
+- Install and Configuration
+- Application Lifecycle Management
 
 ---
 I have just finished upgrading out [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") Development environment to TFS2008 and I have to say it was a totally painless procedure...

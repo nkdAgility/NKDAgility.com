@@ -3,7 +3,7 @@ title: Scrum is like communism, it doesn't work. Myth 3.
 description: "Uncover the truth behind Scrum myths! Join Martin as he debunks misconceptions about micromanagement and developer autonomy. \U0001F4A1\U0001F3C3 #Scrum #Agile"
 date: 2023-10-25T07:00:09Z
 ResourceId: CawY8x3kGVk
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: CawY8x3kGVk
@@ -20,37 +20,36 @@ aliases:
 - /resources/videos/CawY8x3kGVk
 - /resources/scrum-is-like-communism-it-doesn't-work-myth-3-micromanagement,-developer-autonomy,-and-more!
 - /resources/CawY8x3kGVk
+aliasesFor404:
+- /resources/scrum-is-like-communism-it-doesnt-work-myth-3
+- /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-3-micromanagement,-developer-autonomy,-and-more!
+- /resources/scrum-is-like-communism-it-doesn't-work-myth-3-micromanagement,-developer-autonomy,-and-more!
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
-- Agile leadership
-- Agile leader
-- Leadership
+- Scrum Master
+- Scrum Team
+- Technical Debt
+- Team Collaboration
+- Agile Planning
+- Self Organisation
+- Continuous Improvement
+- Agile Product Ownership
+- Value Delivery
+- Agile Values and Principles
+- Change Management
+- Organisational Agility
+- Evidence Based Management
+- Team Motivation
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Technical Excellence
+- Organisational Agility
+- Value Delivery
 
 ---
 # Scrum and Micromanagement: Dispelling the Myth 🚀

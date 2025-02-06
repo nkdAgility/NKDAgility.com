@@ -3,7 +3,7 @@ title: How to Achieve Predictability in Business through Agile Principles
 description: "Unlock business predictability with Agile! Join Martin Hinshelwood as he explores strategies to overcome challenges and drive consistent success. \U0001F31F"
 date: 2024-10-08T10:33:32Z
 ResourceId: G1BQG2tsbYg
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: G1BQG2tsbYg
@@ -20,17 +20,38 @@ aliases:
 - /resources/videos/G1BQG2tsbYg
 - /resources/outcome-increased-business-predictability
 - /resources/G1BQG2tsbYg
+aliasesFor404:
+- /resources/how-to-achieve-predictability-in-business-through-agile-principles
+- /resources/videos/outcome-increased-business-predictability
+- /resources/outcome-increased-business-predictability
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Software engineering
-- Technical leadership
-- Engineering excellence
-- Agile consulting
+- Agile Planning
+- Strategic Goals
+- Agile Predictability
+- Business Agility
+- Agile Strategy
+- Team Collaboration
+- Continuous Improvement
+- Systems Thinking
+- Agile Product Management
+- Value Stream Management
+- Agile Leadership
+- Evidence Based Management
+- Lean Thinking
+- Agile Transformation
+- Customer Feedback Loops
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- Systems Thinking
+- Metrics and Learning
+- Value Stream Management
+- Market Adaptability
+- Practical Techniques and Tooling
 
 ---
 **Predictability** is a key factor for businesses striving to meet their goals consistently. It helps reduce uncertainty, allowing organizations to focus on achieving desired outcomes. However, achieving predictability is not easy. This blog post explores the challenges to predictability in business, the role of agile, and practical steps you can take to enhance predictability in your organization.

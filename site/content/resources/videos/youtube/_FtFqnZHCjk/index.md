@@ -3,7 +3,7 @@ title: The Evolution of Product Management in the Agile Era
 description: Explore the key differences between Agile and traditional product management. Learn how Agile's faster cycles and feedback loops enhance value delivery!
 date: 2024-07-18T06:45:01Z
 ResourceId: _FtFqnZHCjk
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: _FtFqnZHCjk
@@ -19,18 +19,37 @@ aliases:
 - /resources/videos/agile-vs-traditional-product-management-unveiling-the-key-differences
 - /resources/agile-vs-traditional-product-management-unveiling-the-key-differences
 - /resources/_FtFqnZHCjk
+aliasesFor404:
+- /resources/the-evolution-of-product-management-in-the-agile-era
+- /resources/videos/agile-vs-traditional-product-management-unveiling-the-key-differences
+- /resources/agile-vs-traditional-product-management-unveiling-the-key-differences
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Agile product management
-- Product Management
-- Product Management Mentorship
-- Product Management Mentorship program
+- Deployment Frequency
+- Frequent Releases
+- Agile Product Discovery
+- Customer Feedback Loops
+- Continuous Delivery
+- Technical Excellence
+- Agile Strategy
+- Value Delivery
+- Agile Planning
+- Agile Tools
+- Lean Thinking
+- Evidence Based Management
+- Agile Transformation
+- Business Agility
 resourceTypes:
 - video
 layout: video
+categories:
+- Agile Product Management
+- Value Delivery
+- Technical Excellence
+- Azure DevOps
+- Organisational Agility
 
 ---
 Product management has always revolved around one fundamental goal: **maximizing business value**. However, with the advent of Agile methodologies, there’s been a significant shift in how this goal is achieved. While the core tools and techniques remain largely unchanged, the approach to their application has evolved, leading to a more dynamic and responsive process.

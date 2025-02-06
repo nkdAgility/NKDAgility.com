@@ -3,7 +3,7 @@ title: DevOps Migration. Compatibility Problems
 description: Navigate compatibility challenges in migrating from TFS to Azure DevOps. Learn to manage customisations, data integrity, and on-prem build agents effectively!
 date: 2024-11-06T05:45:03Z
 ResourceId: qpo4Ru1VVZE
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: qpo4Ru1VVZE
@@ -16,23 +16,37 @@ aliases:
 - /resources/videos/devops-migration-compatibility-problems
 - /resources/devops-migration-compatibility-problems
 - /resources/qpo4Ru1VVZE
+aliasesFor404:
+- /resources/videos/devops-migration-compatibility-problems
+- /resources/devops-migration-compatibility-problems
 preview: https://i.ytimg.com/vi/qpo4Ru1VVZE/maxresdefault.jpg
 duration: 174
 isShort: false
 tags:
-- Azure
-- Azure DevOps
-- Azure DevOps Migration
-- Azure DevOps Consultant
-- Azure DevOps Expert
-- DevOps
-- DevOps migration
+- Technical Debt
+- Change Management
+- Continuous Delivery
+- Evidence Based Management
+- Agile Tools
+- Systems Thinking
+- Organisational Change
+- Technical Excellence
+- Agile Software Development
+- Value Delivery
+- Agile Project Management
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Azure DevOps
+- Application Lifecycle Management
+- Install and Configuration
+- DevOps
+- Technical Excellence
 
 ---
  In this video, we address compatibility concerns when migrating from TFS on-premises to Azure DevOps in the cloud. Many worry about potential issues, but the reality is that everything that works on-prem works in Azure DevOps—it’s the other way around where limitations may arise. We’ll go over what to consider for older versions of TFS (like TFS 2010) and tackle how to handle customizations, plugins, and extensions in the new cloud environment.

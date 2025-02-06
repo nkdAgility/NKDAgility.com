@@ -2,14 +2,13 @@
 title: TFS 2012 Update 1 - TF400432 We were unable to connect to the SharePoint Central Administration
 description: Resolve the TF400432 error in TFS 2012 Update 1 and connect to SharePoint Central Administration effortlessly with our step-by-step troubleshooting guide.
 ResourceId: 68-m_aV0Njz
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9196
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-12-31
 creator: Martin Hinshelwood
-id: "9196"
 layout: blog
 resourceTypes: blog
 slug: tfs-2012-update-1-tf400432-we-were-unable-to-connect-to-the-sharepoint-central-administration
@@ -26,18 +25,13 @@ aliasesFor404:
 - /blog/tfs-2012-update-1-tf400432-we-were-unable-to-connect-to-the-sharepoint-central-administration
 - /tfs-2012-update-1---tf400432-we-were-unable-to-connect-to-the-sharepoint-central-administration
 - /blog/tfs-2012-update-1---tf400432-we-were-unable-to-connect-to-the-sharepoint-central-administration
+- /tfs-2012-update-1
+- /resources/blog/tfs-2012-update-1-tf400432-we-were-unable-to-connect-to-the-sharepoint-central-administration
 tags:
-- configuration
-- infrastructure
-- puzzles
-- tf400432
-- tfs
-- tfs2012
-- tfs2012-1
-- tools
+- Technical Debt
+- Change Management
 categories:
-- code-and-complexity
-- problems-and-puzzles
+- Azure DevOps
 preview: metro-problem-icon-3-3.png
 
 ---

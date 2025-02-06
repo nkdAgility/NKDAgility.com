@@ -2,14 +2,13 @@
 title: Data Dude R2 is out!
 description: Discover the new features of Data Dude R2, enhancing SQL 2008 support for database developers. Upgrade now for improved performance and efficiency!
 ResourceId: -ifFvVOpYdz
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 130
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-04-23
 creator: Martin Hinshelwood
-id: "130"
 layout: blog
 resourceTypes: blog
 slug: data-dude-r2-is-out
@@ -25,9 +24,13 @@ aliasesFor404:
 - /blog/data-dude-r2-is-out
 - /data-dude-r2-is-out-
 - /blog/data-dude-r2-is-out-
+- /resources/blog/data-dude-r2-is-out
 tags:
-- tfs
-- tools
+- Agile Software Development
+- Technical Excellence
+categories:
+- Application Lifecycle Management
+- Install and Configuration
 
 ---
 Coming hot on the heals of Visual Studio Team System 2008 Database Edition GDR is the [Visual Studio Team System 2008 Database Edition GDR R2](http://www.microsoft.com/downloads/details.aspx?FamilyID=bb3ad767-5f69-4db9-b1c9-8f55759846ed&displaylang=en) which features some new bits and better support for SQL 2008.

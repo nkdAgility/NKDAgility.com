@@ -2,14 +2,13 @@
 title: Do you need an expert in Visual Studio ALM, TFS, or Scrum?
 description: Looking for an expert in Visual Studio ALM, TFS, or Scrum? Martin Hinshelwood is available for consulting and training in February. Connect now!
 ResourceId: za3YB57XYl0
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 11120
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-01-21
 creator: Martin Hinshelwood
-id: "11120"
 layout: blog
 resourceTypes: blog
 slug: need-expert-visual-studio-alm-tfs-scrum
@@ -29,14 +28,27 @@ aliasesFor404:
 - /blog/do-you-need-an-expert-in-visual-studio-alm,-tfs,-or-scrum-
 - /do-you-need-an-expert-in-visual-studio-alm--tfs--or-scrum-
 - /blog/do-you-need-an-expert-in-visual-studio-alm--tfs--or-scrum-
+- /resources/blog/need-expert-visual-studio-alm-tfs-scrum
 tags:
-- agile
-- consulting
-- scrum
-- tfs
-- training
+- Scrum Master
+- Agile Product Management
+- Agile Planning
+- Agile Tools
+- Agile Software Development
+- Continuous Delivery
+- Technical Excellence
+- Agile Product Ownership
+- Value Delivery
+- Agile Certification
+- Agile Project Management
+- Customer Feedback Loops
+- Evidence Based Management
 categories:
-- news-and-reviews
+- Application Lifecycle Management
+- Scrum
+- Azure DevOps
+- People and Process
+- News and Reviews
 preview: nakedalm-logo-260-5-5.png
 
 ---

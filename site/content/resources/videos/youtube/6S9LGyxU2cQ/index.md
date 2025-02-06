@@ -3,7 +3,7 @@ title: Is the APS immersive learning experience the equivalent of having a hands
 description: Discover how an immersive APS course can provide the hands-on scrum coaching your team needs to excel in agile practices.
 date: 2023-08-16T07:00:03Z
 ResourceId: 6S9LGyxU2cQ
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 6S9LGyxU2cQ
@@ -15,20 +15,25 @@ aliases:
 - /resources/videos/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach-
 - /resources/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach-
 - /resources/6S9LGyxU2cQ
+aliasesFor404:
+- /resources/videos/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach-
+- /resources/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach-
 preview: https://i.ytimg.com/vi/6S9LGyxU2cQ/maxresdefault.jpg
 duration: 253
 isShort: false
 tags:
-- APS
-- Applying Professional Scrum
-- Applying Professional Scrum course
-- Scrum training
-- Scrum coach
-- Agile coach
-- agile coaching
-- agile project management
-- agile product management
-- agile product development
+- Scrum Master
+- Scrum Team
+- Continuous Improvement
+- Team Collaboration
+- Customer Feedback Loops
+- Agile Planning
+- Sprint Review
+- Agile Transformation
+- Agile Values and Principles
+- Coaching
+- Agile Methodology
+- Technical Excellence
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -36,6 +41,12 @@ source: youtube
 layout: video
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Metrics and Learning
+- Discovery and Learning
+- Value Delivery
 
 ---
  Sometimes, you just need to learn how to do #scrum properly. It isn't so much about learning the mechanics of #scrum, it's instead about how to apply #scrum professionally in your #scrumteam.

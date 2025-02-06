@@ -2,14 +2,13 @@
 title: Xbox 360 Elite
 description: Discover my journey trading in a crashing Xbox 360 for the Elite model. Dive into my gaming experiences with Bioshock and more! Join the fun!
 ResourceId: ELz8sUhrCKr
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 311
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-09-17
 creator: Martin Hinshelwood
-id: "311"
 layout: blog
 resourceTypes: blog
 slug: xbox-360-elite
@@ -21,11 +20,12 @@ aliases:
 aliasesFor404:
 - /xbox-360-elite
 - /blog/xbox-360-elite
+- /resources/blog/xbox-360-elite
 tags:
-- live
-- xbox
+- Customer Satisfaction
+- Product Strategy
 categories:
-- me
+- News and Reviews
 preview: metro-xbox-360-link-1-1.png
 
 ---

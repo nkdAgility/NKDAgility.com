@@ -2,14 +2,13 @@
 title: 'Review: The Professional Scrum Masters Handbook'
 description: Explore the insights of 'The Professional Scrum Masters Handbook' with a critical review that highlights key takeaways for new Scrum Masters and Project Managers.
 ResourceId: Truj03gqwvW
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9967
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-08-28
 creator: Martin Hinshelwood
-id: "9967"
 layout: blog
 resourceTypes: blog
 slug: review-the-professional-scrum-masters-handbook
@@ -25,11 +24,13 @@ aliasesFor404:
 - /blog/review-the-professional-scrum-masters-handbook
 - /review--the-professional-scrum-masters-handbook
 - /blog/review--the-professional-scrum-masters-handbook
+- /resources/blog/review-the-professional-scrum-masters-handbook
 tags:
-- scrum
-- scrum-master
+- Scrum Master
+- Definition of Done
 categories:
-- news-and-reviews
+- Products and Books
+- News and Reviews
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

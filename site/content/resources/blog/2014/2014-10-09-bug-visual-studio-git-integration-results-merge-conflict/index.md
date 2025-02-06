@@ -2,14 +2,13 @@
 title: Bug in the Visual Studio Git integration that results in a merge conflict
 description: Discover how to resolve merge conflicts in Visual Studio's Git integration. Learn effective workflows to streamline your development process and enhance collaboration.
 ResourceId: GSH94xtzGy6
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10734
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-10-09
 creator: Martin Hinshelwood
-id: "10734"
 layout: blog
 resourceTypes: blog
 slug: bug-visual-studio-git-integration-results-merge-conflict
@@ -25,15 +24,28 @@ aliasesFor404:
 - /blog/bug-visual-studio-git-integration-results-merge-conflict
 - /bug-in-the-visual-studio-git-integration-that-results-in-a-merge-conflict
 - /blog/bug-in-the-visual-studio-git-integration-that-results-in-a-merge-conflict
+- /resources/blog/bug-visual-studio-git-integration-results-merge-conflict
 tags:
-- git
-- mergeconflict
-- visual-studio-2013
-- visual-studio-2013-3
-- visual-studio-2013-4
-- visual-studio
+- Modern Source Control
+- Agile Software Development
+- Technical Excellence
+- Continuous Integration
+- Agile Planning
+- Team Collaboration
+- Agile Problem Solving
+- Agile Software Engineering
+- Change Management
+- Technical Debt
+- Agile Values and Principles
+- Evidence Based Management
+- Agile Transformation
+- Lean Principles
 categories:
-- tools-and-techniques
+- Application Lifecycle Management
+- Azure DevOps
+- Practical Techniques and Tooling
+- Technical Excellence
+- People and Process
 preview: naked-alm-git-2-2.png
 
 ---

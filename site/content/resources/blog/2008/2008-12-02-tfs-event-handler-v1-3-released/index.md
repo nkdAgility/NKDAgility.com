@@ -2,14 +2,13 @@
 title: TFS Event Handler v1.3 released
 description: Discover the enhanced TFS Event Handler v1.3, simplifying notifications for Team Foundation Server users. Streamline alerts and improve team collaboration!
 ResourceId: 5utkJgImhFT
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 158
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-12-02
 creator: Martin Hinshelwood
-id: "158"
 layout: blog
 resourceTypes: blog
 slug: tfs-event-handler-v1-3-released
@@ -21,10 +20,14 @@ aliases:
 aliasesFor404:
 - /tfs-event-handler-v1-3-released
 - /blog/tfs-event-handler-v1-3-released
+- /resources/blog/tfs-event-handler-v1-3-released
 tags:
-- tfs-event-handler
-- tools
+- Agile Tools
+- Azure DevOps
 preview: nakedalm-logo-128-link-1-1.png
+categories:
+- Azure DevOps
+- Application Lifecycle Management
 
 ---
 Updated and improved for Team System 2008.

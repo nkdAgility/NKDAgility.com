@@ -3,7 +3,7 @@ title: Why did you choose the Scrum.Org track rather than the Scrum Alliance tra
 description: Explore why Scrum.org is the preferred choice for Scrum training over Scrum Alliance. Uncover insights from an insider's journey to effective certification!
 date: 2023-02-24T07:00:14Z
 ResourceId: jhpy9Hy8uEw
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: jhpy9Hy8uEw
@@ -20,16 +20,36 @@ aliases:
 - /resources/videos/jhpy9Hy8uEw
 - /resources/choosing-scrum-org-over-scrum-alliance!
 - /resources/jhpy9Hy8uEw
+aliasesFor404:
+- /resources/why-did-you-choose-the-scrum-org-track-rather-than-the-scrum-alliance-track
+- /resources/videos/choosing-scrum-org-over-scrum-alliance!
+- /resources/choosing-scrum-org-over-scrum-alliance!
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum.Org
-- Scrum Alliance
-- Scrum Training
-- Agile Scrum Training
+- Scrum
+- Scrum Master
+- Scrum Team
+- Scrum Values
+- Agile Certification
+- Continuous Improvement
+- Professional Scrum
+- Agile Community
+- Value Delivery
+- Customer Feedback Loops
+- Technical Excellence
+- Agile Product Management
+- Agile Project Management
+- Evidence Based Leadership
 resourceTypes:
 - video
+categories:
+- Scrum
+- Organisational Agility
+- People and Process
+- Value Delivery
+- Transparency and Accountability
 
 ---
 Why did you choose the Scrum.Org track rather than the Scrum Alliance track?

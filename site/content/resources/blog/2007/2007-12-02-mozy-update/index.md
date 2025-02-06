@@ -2,14 +2,13 @@
 title: Mozy update
 description: Discover how I expanded my Mozy storage to 4.3 GB and optimized my backup strategy. Learn tips for efficient online storage management!
 ResourceId: Tb5vwyZh7DY
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 281
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-12-02
 creator: Martin Hinshelwood
-id: "281"
 layout: blog
 resourceTypes: blog
 slug: mozy-update
@@ -21,9 +20,13 @@ aliases:
 aliasesFor404:
 - /mozy-update
 - /blog/mozy-update
+- /resources/blog/mozy-update
 categories:
-- me
+- News and Reviews
 preview: nakedalm-logo-128-link-1-1.png
+tags:
+- Customer Satisfaction
+- Agile Software Development
 
 ---
 Well, due to my campaign to get lots of free bandwidth I now have an additional 2.3 GB on top of my initial free 2GB bringing the grand total to 4.3 GB of online storage with [Mozy](https://mozy.com/?code=8R96AG)!

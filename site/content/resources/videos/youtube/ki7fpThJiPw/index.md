@@ -3,7 +3,7 @@ title: Innovation does not need to cost a lot of money!
 description: Discover how affordable innovation can thrive! Learn how Scrum enables rapid prototyping without breaking the bank in this insightful video.
 date: 2022-01-03T13:18:35Z
 ResourceId: ki7fpThJiPw
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: ki7fpThJiPw
@@ -18,6 +18,9 @@ aliases:
 - /resources/videos/innovation-does-not-need-to-cost-a-lot-of-money!
 - /resources/innovation-does-not-need-to-cost-a-lot-of-money!
 - /resources/ki7fpThJiPw
+aliasesFor404:
+- /resources/videos/innovation-does-not-need-to-cost-a-lot-of-money!
+- /resources/innovation-does-not-need-to-cost-a-lot-of-money!
 preview: https://i.ytimg.com/vi/ki7fpThJiPw/maxresdefault.jpg
 duration: 16
 isShort: true
@@ -26,6 +29,26 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Discovery and Learning
+- Scrum
+- Value Delivery
+- Lean
+tags:
+- Ability to Innovate
+- Scrum
+- Scrum Team
+- Agile Product Discovery
+- Lean Startup
+- Continuous Improvement
+- Experimentation
+- Agile Values and Principles
+- Team Collaboration
+- Agile Methodology
+- Customer Feedback Loops
+- Agile Digital Tools
+- Agile Product Management
+- Agile Planning
 
 ---
  Innovation does not need to cost a lot of money!

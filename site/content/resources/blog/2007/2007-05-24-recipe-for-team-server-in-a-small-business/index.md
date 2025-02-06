@@ -2,14 +2,13 @@
 title: Recipe for Team Server in a small business
 description: Discover cost-effective solutions for implementing Team Server in small businesses. Learn how to manage projects efficiently without breaking the bank!
 ResourceId: wOQl29WfTz6
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 399
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-05-24
 creator: Martin Hinshelwood
-id: "399"
 layout: blog
 resourceTypes: blog
 slug: recipe-for-team-server-in-a-small-business
@@ -21,10 +20,14 @@ aliases:
 aliasesFor404:
 - /recipe-for-team-server-in-a-small-business
 - /blog/recipe-for-team-server-in-a-small-business
+- /resources/blog/recipe-for-team-server-in-a-small-business
 tags:
-- visual-studio
-- vs2005
+- Agile Tools
+- Team Collaboration
 preview: metro-visual-studio-2005-128-link-1-1.png
+categories:
+- Application Lifecycle Management
+- Install and Configuration
 
 ---
 If you have a small company, say 6 to 30 people, you will look at team server and think, cool...But what does it cost.

@@ -2,14 +2,13 @@
 title: Installing Visual Studio Team Foundation Server Service Pack 1
 description: Learn how to install Visual Studio Team Foundation Server Service Pack 1 smoothly, troubleshoot common issues, and enhance your development environment.
 ResourceId: LpdTshxayAB
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 8
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-03-10
 creator: Martin Hinshelwood
-id: "8"
 layout: blog
 resourceTypes: blog
 slug: installing-visual-studio-team-foundation-server-service-pack-1
@@ -21,11 +20,13 @@ aliases:
 aliasesFor404:
 - /installing-visual-studio-team-foundation-server-service-pack-1
 - /blog/installing-visual-studio-team-foundation-server-service-pack-1
+- /resources/blog/installing-visual-studio-team-foundation-server-service-pack-1
 tags:
-- nwcadence
-- tfs
-- tfs2010
-- tools
+- Agile Tools
+- Continuous Delivery
+categories:
+- Install and Configuration
+- Azure DevOps
 
 ---
 [![vs2010logo](images/Installing-Visual-Studio-Team-Foundatio_6DBD-vs2010logo_thumb-14-14.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-vs2010logo_2.png)As has become customary when the product team releases a new patch, SP or version I like to document the install. Although I had no errors on my main computer, my netbook did have problems. Although I am not ready to call it a Service Pack problem just yet!

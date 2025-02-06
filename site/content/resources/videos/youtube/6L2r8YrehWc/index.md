@@ -3,7 +3,7 @@ title: Why isn't a scrum master given any real power or authority in the scrum g
 description: "Unlock the true essence of Scrum leadership! Discover how respect and skill, not authority, drive team success. Join the journey to effective Scrum mastery! \U0001F680"
 date: 2023-09-15T07:00:06Z
 ResourceId: 6L2r8YrehWc
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 6L2r8YrehWc
@@ -16,24 +16,38 @@ aliases:
 - /resources/videos/why-isn't-a-scrum-master-given-any-real-power-or-authority-in-the-scrum-guide-
 - /resources/why-isn't-a-scrum-master-given-any-real-power-or-authority-in-the-scrum-guide-
 - /resources/6L2r8YrehWc
+aliasesFor404:
+- /resources/videos/why-isn't-a-scrum-master-given-any-real-power-or-authority-in-the-scrum-guide-
+- /resources/why-isn't-a-scrum-master-given-any-real-power-or-authority-in-the-scrum-guide-
 preview: https://i.ytimg.com/vi/6L2r8YrehWc/maxresdefault.jpg
 duration: 237
 isShort: false
 tags:
-- Scrum
-- Scrum Master
-- Project Manager
-- Project Management
-- Agile Project Management
-- Agile Product Development
-- Agile Product Management
-- ScrumMaster
+- Scrum Team
+- Scrum Values
+- Accountability
+- Team Collaboration
+- Team Motivation
+- Organisational Agility
+- Agile Leadership
+- Continuous Improvement
+- Psychological Safety
+- Agile Problem Solving
+- Self Organisation
+- Agile Values and Principles
+- Change Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 layout: video
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Organisational Psychology
+- Value Delivery
+- Transparency and Accountability
 
 ---
  *Unlocking Scrum Mastery: Beyond Authority and Power* - Discover the essence of effective Scrum leadership without relying on authority. Explore how respect, value, and skill foster team success. Dive in now! 🚀

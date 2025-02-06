@@ -2,14 +2,13 @@
 title: Microsoft MyPhone service available to the public
 description: Discover Microsoft's MyPhone service, now public! Sync your mobile with the web for easy access to contacts, photos, and more. Explore the future of mobile backup!
 ResourceId: NJdlXIZJJyN
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 111
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-05-21
 creator: Martin Hinshelwood
-id: "111"
 layout: blog
 resourceTypes: blog
 slug: microsoft-myphone-service-available-to-the-public
@@ -21,10 +20,12 @@ aliases:
 aliasesFor404:
 - /microsoft-myphone-service-available-to-the-public
 - /blog/microsoft-myphone-service-available-to-the-public
+- /resources/blog/microsoft-myphone-service-available-to-the-public
 tags:
-- windows-mobile-6
+- Digital Transformation
+- Customer Satisfaction
 categories:
-- me
+- News and Reviews
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

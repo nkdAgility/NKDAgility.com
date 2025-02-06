@@ -2,14 +2,13 @@
 title: Managing the “VSTS Developers” LinkedIn group.
 description: Discover how to effectively manage the VSTS Developers LinkedIn group with insights from MVPs Ed Blankenship and Michael Ruminer for enhanced collaboration.
 ResourceId: FNNPsRLDXlu
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 153
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-12-15
 creator: Martin Hinshelwood
-id: "153"
 layout: blog
 resourceTypes: blog
 slug: managing-the-vsts-developers-linkedin-group
@@ -25,10 +24,13 @@ aliasesFor404:
 - /blog/managing-the-vsts-developers-linkedin-group
 - /managing-the-“vsts-developers”-linkedin-group-
 - /blog/managing-the-“vsts-developers”-linkedin-group-
+- /resources/blog/managing-the-vsts-developers-linkedin-group
 tags:
-- tfs
+- Team Collaboration
+- Agile Community
 categories:
-- me
+- Application Lifecycle Management
+- People and Process
 
 ---
 [![n2381079695_7151](images/eb4ca28d54bb_77F8-n2381079695_7151_3-1-1.jpg)](//www.linkedin.com/e/gis/104499)

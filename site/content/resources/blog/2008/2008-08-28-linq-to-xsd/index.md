@@ -2,14 +2,13 @@
 title: LINQ to XSD
 description: Discover the power of LINQ to XSD for C# projects. Learn how to enhance your development with extra features and streamline your XSD handling.
 ResourceId: 6v73sdkKVTr
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 203
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-08-28
 creator: Martin Hinshelwood
-id: "203"
 layout: blog
 resourceTypes: blog
 slug: linq-to-xsd
@@ -21,12 +20,12 @@ aliases:
 aliasesFor404:
 - /linq-to-xsd
 - /blog/linq-to-xsd
+- /resources/blog/linq-to-xsd
 tags:
-- code
-- tfs-build
-- tools
+- Agile Software Development
+- Technical Excellence
 categories:
-- code-and-complexity
+- Install and Configuration
 preview: metro-binary-vb-128-link-2-2.png
 
 ---

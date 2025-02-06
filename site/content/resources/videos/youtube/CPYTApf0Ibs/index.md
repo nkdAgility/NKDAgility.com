@@ -3,7 +3,7 @@ title: Does Your Team Truly Understand Your Product Vision and Goals?
 description: "Unlock your team's potential! Discover how a shared product vision drives Agile success and empowers decision-making in this insightful video. \U0001F680"
 date: 2024-07-12T06:45:00Z
 ResourceId: CPYTApf0Ibs
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: CPYTApf0Ibs
@@ -20,17 +20,35 @@ aliases:
 - /resources/videos/CPYTApf0Ibs
 - "/resources/secret-to-unlocking-team-potential-and-product-success-\U0001F680-the-agile-reality-check-[2-6]"
 - /resources/CPYTApf0Ibs
+aliasesFor404:
+- /resources/does-your-team-truly-understand-your-product-vision-and-goals
+- "/resources/videos/secret-to-unlocking-team-potential-and-product-success-\U0001F680-the-agile-reality-check-[2-6]"
+- "/resources/secret-to-unlocking-team-potential-and-product-success-\U0001F680-the-agile-reality-check-[2-6]"
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Detecting Agile BS
-- Agile
-- Agile product management
-- Agile product development
-- Agile project management
+- Team Collaboration
+- Strategic Goals
+- Agile Strategy
+- Agile Transformation
+- Continuous Improvement
+- Employee Engagement
+- Agile Leadership
+- Value Delivery
+- Organisational Culture
+- Decision Making
+- Agile Product Discovery
+- Agile Software Development
+- Customer Feedback Loops
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Value Delivery
+- Agile Product Management
+- Transparency and Accountability
 
 ---
 When it comes to Agile transformation, one of the most crucial aspects often overlooked is the shared understanding of the product vision and strategic goals within the team. It’s not enough to have a beautifully crafted vision statement or a set of strategic goals pinned to the office wall; every team member needs to internalize these concepts and understand how their daily work contributes to achieving them. This understanding forms the foundation of true agility within an organization.

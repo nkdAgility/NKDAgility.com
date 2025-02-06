@@ -2,14 +2,13 @@
 title: Internet connection speed, WOW
 description: Discover the evolution of internet speeds from 56k to 50mbs! Join Martin Hinshelwood as he shares his experience with faster connections and downloads.
 ResourceId: iBNwIFFQrmS
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 78
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-12-07
 creator: Martin Hinshelwood
-id: "78"
 layout: blog
 resourceTypes: blog
 slug: internet-connection-speed-wow
@@ -29,9 +28,13 @@ aliasesFor404:
 - /blog/internet-connection-speed,-wow
 - /internet-connection-speed--wow
 - /blog/internet-connection-speed--wow
+- /resources/blog/internet-connection-speed-wow
 categories:
-- me
+- News and Reviews
 preview: nakedalm-logo-128-link-5-1.png
+tags:
+- Customer Satisfaction
+- Agile Software Development
 
 ---
 I have been a cable customer in the UK since day one when it was Cable & Wireless.

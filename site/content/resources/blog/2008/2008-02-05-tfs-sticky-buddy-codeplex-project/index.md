@@ -2,14 +2,13 @@
 title: TFS Sticky Buddy Codeplex project
 description: Explore the TFS Sticky Buddy project, a digital whiteboard solution for Team Foundation Server that enhances project visibility and team collaboration.
 ResourceId: g0bjuq5cIqX
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 250
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-02-05
 creator: Martin Hinshelwood
-id: "250"
 layout: blog
 resourceTypes: blog
 slug: tfs-sticky-buddy-codeplex-project
@@ -21,13 +20,13 @@ aliases:
 aliasesFor404:
 - /tfs-sticky-buddy-codeplex-project
 - /blog/tfs-sticky-buddy-codeplex-project
+- /resources/blog/tfs-sticky-buddy-codeplex-project
 tags:
-- code
-- tfs-sticky-buddy
-- wit
+- Agile Tools
+- Team Collaboration
 categories:
-- code-and-complexity
-- me
+- Azure DevOps
+- Code and Complexity
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

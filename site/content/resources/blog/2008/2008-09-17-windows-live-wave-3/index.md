@@ -2,14 +2,13 @@
 title: Windows Live Wave 3
 description: Explore the features of Windows Live Wave 3, including Messenger 9 and Writer. Download the latest betas and enhance your live experience today!
 ResourceId: V2MkZWsiMbX
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 192
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-09-17
 creator: Martin Hinshelwood
-id: "192"
 layout: blog
 resourceTypes: blog
 slug: windows-live-wave-3
@@ -21,10 +20,13 @@ aliases:
 aliasesFor404:
 - /windows-live-wave-3
 - /blog/windows-live-wave-3
+- /resources/blog/windows-live-wave-3
 tags:
-- live
+- Agile Software Development
+- Continuous Delivery
 categories:
-- news-and-reviews
+- News and Reviews
+- Install and Configuration
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

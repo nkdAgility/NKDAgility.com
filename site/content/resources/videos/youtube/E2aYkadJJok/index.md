@@ -3,7 +3,7 @@ title: Kanban Boards for Campaign Success - The Ultimate Guide to Visualizing Yo
 description: Unlock campaign success with Kanban! Learn to visualise your workflow, optimise processes, and boost collaboration in this ultimate guide.
 date: 2024-07-08T06:00:07Z
 ResourceId: E2aYkadJJok
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: E2aYkadJJok
@@ -16,6 +16,9 @@ aliases:
 - /resources/videos/kanban-boards-for-campaign-success-the-ultimate-guide-to-visualizing-your-workflow
 - /resources/kanban-boards-for-campaign-success-the-ultimate-guide-to-visualizing-your-workflow
 - /resources/E2aYkadJJok
+aliasesFor404:
+- /resources/videos/kanban-boards-for-campaign-success-the-ultimate-guide-to-visualizing-your-workflow
+- /resources/kanban-boards-for-campaign-success-the-ultimate-guide-to-visualizing-your-workflow
 preview: https://i.ytimg.com/vi/E2aYkadJJok/maxresdefault.jpg
 duration: 57
 isShort: true
@@ -29,6 +32,10 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
+categories:
+- Kanban
+- Value Stream Management
+- Flow Efficiency
 
 ---
  Ready to supercharge your campaigns with Kanban? This video dives into the essential role Kanban boards play in visualizing your workflow and maximizing campaign effectiveness.

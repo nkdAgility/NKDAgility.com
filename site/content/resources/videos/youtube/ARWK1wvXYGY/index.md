@@ -3,7 +3,7 @@ title: Ep 006 - Live Virtual Retrospective on PAL-e with Russell Miller
 description: Join Russell Miller for a live retrospective on PAL-e! Ask Martin, a Scrum Trainer and Azure DevOps MVP, anything from DevOps to Agility.
 date: 2020-04-21T18:01:36Z
 ResourceId: ARWK1wvXYGY
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: ARWK1wvXYGY
@@ -18,6 +18,9 @@ aliases:
 - /resources/videos/ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller
 - /resources/ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller
 - /resources/ARWK1wvXYGY
+aliasesFor404:
+- /resources/videos/ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller
+- /resources/ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller
 preview: https://i.ytimg.com/vi/ARWK1wvXYGY/maxresdefault.jpg
 duration: 1913
 isShort: false
@@ -26,6 +29,27 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Events and Presentations
+- Scrum
+- DevOps
+- Azure DevOps
+- People and Process
+tags:
+- Agile Coaching
+- Scrum Master
+- Agile Tools
+- DevOps
+- Agile Community
+- Agile Product Discovery
+- Continuous Improvement
+- Customer Feedback Loops
+- Agile Software Development
+- Agile Project Management
+- Agile Values and Principles
+- Team Collaboration
+- Remote Working
+- Evidence Based Management
 
 ---
  Bring your questions on any topic from DevOps to Agility and Martin will do his best to answer them. Martin is a Professional Scrum Trainer with Scrum.org and a Microsoft MVP in Azure DevOps. Ask him anything!

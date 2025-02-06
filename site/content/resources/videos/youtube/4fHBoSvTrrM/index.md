@@ -3,7 +3,7 @@ title: How will a PSM II course challenge your assumptions the most?
 description: Discover how the PSM II course can elevate your Scrum Master career. Join Martin Hinshelwood as he shares insights on advancing your Agile journey!
 date: 2023-04-03T07:00:03Z
 ResourceId: 4fHBoSvTrrM
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 4fHBoSvTrrM
@@ -20,21 +20,38 @@ aliases:
 - /resources/videos/4fHBoSvTrrM
 - /resources/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career-
 - /resources/4fHBoSvTrrM
+aliasesFor404:
+- /resources/how-will-a-psm-ii-course-challenge-your-assumptions-the-most
+- /resources/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career
+- /resources/videos/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career-
+- /resources/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- PSM
-- PSM II
-- Professional Scrum Master
-- Advanced Professional Scrum Master
-- Scrum Training
-- Scrum Certification
-- Scrum.Org
-- Scrum Courses
+- Scrum Master
+- Professional Scrum
+- Scrum Team
+- Definition of Done
+- Agile Product Management
+- Continuous Improvement
+- Agile Values and Principles
+- Agile Coaching
+- Team Collaboration
+- Agile Transformation
+- Technical Mastery
+- Agile Mentoring
+- Evidence Based Improvement
+- Discovery and Learning
 resourceTypes:
 - video
 layout: video
+categories:
+- Scrum
+- People and Process
+- Practical Techniques and Tooling
+- Discovery and Learning
+- Technical Excellence
 
 ---
 ## PSM II: The Game-Changer for Scrum Masters

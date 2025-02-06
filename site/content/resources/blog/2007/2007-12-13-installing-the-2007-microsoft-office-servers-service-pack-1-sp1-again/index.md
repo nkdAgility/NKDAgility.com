@@ -2,14 +2,13 @@
 title: Installing The 2007 Microsoft Office Servers Service Pack 1 (SP1) ...Again...
 description: Navigate the challenges of installing Microsoft Office Servers SP1 with expert insights and troubleshooting tips. Ensure a smooth upgrade experience!
 ResourceId: RgZYSYc6tNy
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 276
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-12-13
 creator: Martin Hinshelwood
-id: "276"
 layout: blog
 resourceTypes: blog
 slug: installing-the-2007-microsoft-office-servers-service-pack-1-sp1-again
@@ -25,15 +24,12 @@ aliasesFor404:
 - /blog/installing-the-2007-microsoft-office-servers-service-pack-1-sp1-again
 - /installing-the-2007-microsoft-office-servers-service-pack-1-(sp1)----again---
 - /blog/installing-the-2007-microsoft-office-servers-service-pack-1-(sp1)----again---
+- /resources/blog/installing-the-2007-microsoft-office-servers-service-pack-1-sp1-again
 tags:
-- infrastructure
-- moss2007
-- sharepoint
-- sp2007
-- spf2010
-- tools
+- Technical Debt
+- Continuous Improvement
 categories:
-- upgrade-and-maintenance
+- Install and Configuration
 preview: metro-office-128-link-1-1.png
 
 ---

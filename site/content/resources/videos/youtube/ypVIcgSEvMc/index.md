@@ -3,7 +3,7 @@ title: 30% Discount for Existing Alumni Overview
 description: 'Unlock a 30% discount on your learning journey! Join Martin Hinshelwood as he reveals how NKD Agility supports alumni with exclusive offers. #shorts'
 date: 2023-06-09T11:00:46Z
 ResourceId: ypVIcgSEvMc
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: ypVIcgSEvMc
@@ -19,18 +19,29 @@ aliases:
 - /resources/videos/30-discount-for-existing-alumni-overview
 - /resources/videos/ypVIcgSEvMc
 - /resources/ypVIcgSEvMc
+aliasesFor404:
+- /resources/30-discount-for-existing-alumni-overview
+- /resources/videos/30-discount-for-existing-alumni-overview
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Training
-- Scrum Certification
-- Scrum Courses
-- Scrum.Org
-- Discounted scrum training
-- Discounted Scrum Certification
+- Customer Satisfaction
+- Agile Community
+- Continuous Learning
+- Employee Engagement
+- Agile Mentoring Program
+- Value Delivery
+- Customer Feedback Loops
+- Agile Product Management
+- Agile Product Validation
+- Market Adaptability
 resourceTypes:
 - video
+categories:
+- Discovery and Learning
+- Value Delivery
+- Organisational Agility
 
 ---
 ## The DevOps Evolution: More Than a Simple Shift

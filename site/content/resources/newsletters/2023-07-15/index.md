@@ -1,17 +1,45 @@
 ---
-id: "49709"
-title: "Agile 2023 The Scotland Experiance with Lyssa Adkins & NKDAgility"
-date: "2023-07-15"
-preview: "nkdagility-agile-2023-Scotland-Experiance.png"
-author: "MrHinsh"
+title: Agile 2023 The Scotland Experiance with Lyssa Adkins & NKDAgility
+description: Join NKDAgility at Agile 2023 Scotland for inspiring talks, workshops, and networking! Enjoy free coaching, games, and furry support from Lua. Book now!
+ResourceId: x0sJSqJhVRG
+ResourceImport: true
+ResourceType: newsletters
+date: 2023-07-15
+preview: nkdagility-agile-2023-Scotland-Experiance.png
+author: MrHinsh
 resourceTypes: newsletter
 layout: newsletter
-slug: "july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance"
+slug: july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance
 aliases:
-  - /newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
-  - /resources/newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
----
+- /newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
+- /resources/newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
+- /resources/x0sJSqJhVRG
+aliasesFor404:
+- /newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
+- /resources/newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
+categories:
+- Events and Presentations
+- Organisational Agility
+- Agile Product Management
+- Discovery and Learning
+- People and Process
+tags:
+- Agile Community
+- Agile Coaching
+- Agile Product Management
+- Scrum Master
+- Scrum Team
+- Agile Product Discovery
+- Team Collaboration
+- Continuous Improvement
+- Agile Planning
+- Agile Transformation
+- Agile Values and Principles
+- Team Motivation
+- Agile Software Development
+- Customer Feedback Loops
 
+---
 The Agile 2023 Scotland Experience is almost upon us, and NKDAgility proudly sponsors the event!
 
 [![](images/nkdagility-agile-2023-Scotland-Experiance.png)](https://events.agilealliance.org/aascotland2023/begin?i=L7wyli35dzYJ1d70S2e1mR-yDTlopQRK)

@@ -2,14 +2,13 @@
 title: 'Post event: Developer Day Scotland...'
 description: Discover insights from Developer Day Scotland, featuring expert talks on ADO.NET, Anti-Patterns, and Test Driven Development. Join the conversation!
 ResourceId: gVVlURec7mu
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 229
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-05-12
 creator: Martin Hinshelwood
-id: "229"
 layout: blog
 resourceTypes: blog
 slug: post-event-developer-day-scotland
@@ -25,9 +24,13 @@ aliasesFor404:
 - /blog/post-event-developer-day-scotland
 - /post-event--developer-day-scotland---
 - /blog/post-event--developer-day-scotland---
+- /resources/blog/post-event-developer-day-scotland
 categories:
-- me
+- Events and Presentations
 preview: nakedalm-logo-128-link-1-1.png
+tags:
+- Test Driven Development
+- Continuous Integration
 
 ---
 What a fantastic day... Thanks to [Colin Mackay](http://blog.colinmackay.net/) for the fantastic job he did organising this event and I hope that there will be more events like this in Glasgow in the future...

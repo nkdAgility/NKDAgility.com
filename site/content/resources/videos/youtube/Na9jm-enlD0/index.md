@@ -3,7 +3,7 @@ title: Where is consensus valuable and where does it kill great product developm
 description: "Explore the balance of consensus in product development! Discover when it fuels progress and when it stifles innovation. Join Martin for insights! \U0001F680"
 date: 2023-09-25T07:00:08Z
 ResourceId: Na9jm-enlD0
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Na9jm-enlD0
@@ -21,25 +21,37 @@ aliases:
 - /resources/videos/Na9jm-enlD0
 - /resources/where-is-consensus-valuable-and-where-does-it-kill-great-product-development-
 - /resources/Na9jm-enlD0
+aliasesFor404:
+- /resources/where-is-consensus-valuable-and-where-does-it-kill-great-product-development-2
+- /resources/where-is-consensus-valuable-and-where-does-it-kill-great-product-development
+- /resources/videos/where-is-consensus-valuable-and-where-does-it-kill-great-product-development-
+- /resources/where-is-consensus-valuable-and-where-does-it-kill-great-product-development-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Collaboration
-- Consensus
-- Scrum
-- Agile
-- Agile project management
-- project management
-- Agile product development
-- product development
-- Agile product management
-- product management
-- agile coach
-- agile consultant
-- scrum framework
+- Team Collaboration
+- Agile Product Ownership
+- Decision Making
+- Entrepreneurship
+- Agile Product Discovery
+- Agile Leadership
+- Scrum Product Management
+- Evidence Based Management
+- Continuous Improvement
+- Psychological Safety
+- Agile Values and Principles
+- Lean Startup
+- Systems Thinking
+- Value Delivery
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- Decision Theory
+- Agile Product Management
+- People and Process
+- Discovery and Learning
 
 ---
 ## Understanding the Dynamics of Consensus 🤔 

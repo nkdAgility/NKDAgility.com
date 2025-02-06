@@ -3,7 +3,7 @@ title: Are Your Teams Empowered to Change Requirements Based on User Feedback? I
 description: "Unlock the secrets of Agile Product Management! Discover how team empowerment and user feedback drive success in this insightful video. \U0001F4A1"
 date: 2024-07-17T06:45:01Z
 ResourceId: qRHzl4PieKA
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: qRHzl4PieKA
@@ -20,17 +20,35 @@ aliases:
 - /resources/videos/qRHzl4PieKA
 - /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-4
 - /resources/qRHzl4PieKA
+aliasesFor404:
+- /resources/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile
+- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-4
+- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-4
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Product Management
-- Agile product management
-- project management
-- product development
+- Agile Product Discovery
+- Customer Feedback Loops
+- Team Collaboration
+- Agile Planning
+- Continuous Improvement
+- Self Organisation
+- Agile Leadership
+- Value Delivery
+- Agile Values and Principles
+- Business Agility
+- Change Management
+- Agile Transformation
+- Evidence Based Management
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- Value Delivery
+- Agile Product Management
+- People and Process
+- Discovery and Learning
 
 ---
 In today’s fast-paced world, where user needs and market dynamics are constantly evolving, being agile is no longer a luxury—it’s a necessity. But what does it mean to truly be agile? At its core, agility is about responding to change over following a plan. This means that your teams need the freedom to adapt, especially when it comes to changing requirements based on user feedback.

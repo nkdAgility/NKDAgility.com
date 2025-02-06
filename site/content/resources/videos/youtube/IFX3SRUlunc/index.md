@@ -3,7 +3,7 @@ title: 5 October 2023 Product Ownership and Lean Product Development Workshop wi
 description: "Join experts Joanna Płaskonka and Martin Hinshelwood in this 18-minute workshop to explore Product Ownership and Lean Product Development! \U0001F31F"
 date: 2023-09-28T08:29:48Z
 ResourceId: IFX3SRUlunc
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: IFX3SRUlunc
@@ -17,20 +17,38 @@ aliases:
 - /resources/videos/5-october-2023-product-ownership-and-lean-product-development-workshop-with-martin-and-joanna
 - /resources/5-october-2023-product-ownership-and-lean-product-development-workshop-with-martin-and-joanna
 - /resources/IFX3SRUlunc
+aliasesFor404:
+- /resources/videos/5-october-2023-product-ownership-and-lean-product-development-workshop-with-martin-and-joanna
+- /resources/5-october-2023-product-ownership-and-lean-product-development-workshop-with-martin-and-joanna
 preview: https://i.ytimg.com/vi/IFX3SRUlunc/maxresdefault.jpg
 duration: 115
 isShort: false
 tags:
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Product Ownership
+- Lean Product Development
+- Agile Product Ownership
+- Agile Product Discovery
+- Value Prioritisation
+- Evidence Based Management
+- Continuous Improvement
+- Hypothesis Driven Development
+- Agile Planning
+- Customer Feedback Loops
+- Agile Strategy
+- Business Agility
+- Team Collaboration
+- Agile Community
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Lean
+- Agile Product Management
+- Value Delivery
+- Discovery and Learning
+- Organisational Agility
 
 ---
  🌟 Exclusive Webcast with Joanna Płaskonka, Ph.D. & Martin Hinshelwood: Dive Deep into Product Ownership & Lean Product Development! 🌟

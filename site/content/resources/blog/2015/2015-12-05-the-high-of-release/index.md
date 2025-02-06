@@ -2,14 +2,13 @@
 title: The High of Release
 description: Explore the new web-based Release Management tools from Microsoft, designed to enhance DevOps and streamline your release pipelines for engineering excellence.
 ResourceId: akntzjbRQe2
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 11398
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-12-05
 creator: Martin Hinshelwood
-id: "11398"
 layout: blog
 resourceTypes: blog
 slug: the-high-of-release
@@ -21,10 +20,29 @@ aliases:
 aliasesFor404:
 - /the-high-of-release
 - /blog/the-high-of-release
+- /resources/blog/the-high-of-release
 tags:
-- developers
+- DevOps
+- Continuous Delivery
+- Agile Tools
+- Release Planning
+- Deployment Frequency
+- Azure DevOps
+- Engineering Excellence
+- Value Delivery
+- Customer Feedback Loops
+- Agile Software Development
+- Technical Mastery
+- Agile Product Management
+- Continuous Integration
+- Automated Testing
+- Value Stream Management
 categories:
-- news-and-reviews
+- Events and Presentations
+- Azure DevOps
+- Practical Techniques and Tooling
+- DevOps
+- News and Reviews
 preview: 2016-01-04_15-52-31-1-1.png
 
 ---

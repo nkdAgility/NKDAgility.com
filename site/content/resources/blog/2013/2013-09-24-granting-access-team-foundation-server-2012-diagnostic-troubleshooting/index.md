@@ -2,14 +2,13 @@
 title: Granting access to Team Foundation Server 2012 for diagnostic troubleshooting
 description: Learn how to grant access to TFS 2012 for diagnostic troubleshooting without full admin rights. Enhance your efficiency with simple command line solutions!
 ResourceId: 8N31NtGZFyB
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10002
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-09-24
 creator: Martin Hinshelwood
-id: "10002"
 layout: blog
 resourceTypes: blog
 slug: granting-access-team-foundation-server-2012-diagnostic-troubleshooting
@@ -25,13 +24,13 @@ aliasesFor404:
 - /blog/granting-access-team-foundation-server-2012-diagnostic-troubleshooting
 - /granting-access-to-team-foundation-server-2012-for-diagnostic-troubleshooting
 - /blog/granting-access-to-team-foundation-server-2012-for-diagnostic-troubleshooting
+- /resources/blog/granting-access-team-foundation-server-2012-diagnostic-troubleshooting
 tags:
-- tfs
-- tfs2012
-- tfs-2013
+- Agile Tools
+- Technical Excellence
 categories:
-- problems-and-puzzles
-- tools-and-techniques
+- Azure DevOps
+- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

@@ -3,7 +3,7 @@ title: One thing an Agile Coach MUST do to be successful?
 description: 'Discover the key to success for agile coaches! Martin Hinshelwood shares essential insights for thriving in agile consulting. #Agile #Coaching #Scrum'
 date: 2023-08-31T07:00:17Z
 ResourceId: g1GBes-dVzE
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: g1GBes-dVzE
@@ -21,23 +21,34 @@ aliases:
 - /resources/videos/g1GBes-dVzE
 - /resources/one-thing-an-agile-coach-must-do-to-be-successful-
 - /resources/g1GBes-dVzE
+aliasesFor404:
+- /resources/one-thing-an-agile-coach-must-do-to-be-successful-2
+- /resources/one-thing-an-agile-coach-must-do-to-be-successful
+- /resources/videos/one-thing-an-agile-coach-must-do-to-be-successful-
+- /resources/one-thing-an-agile-coach-must-do-to-be-successful-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Agile coach
-- Agile coaching
-- Agile consultant
-- Agile consulting
-- Agile project management
-- Agile product management
-- Agile product development
-- product development
-- project management
-- product management
+- Team Collaboration
+- Agile Tools
+- Agile Values and Principles
+- Continuous Improvement
+- Employee Engagement
+- Agile Software Development
+- Technical Mastery
+- Agile Leadership
+- Self Organisation
+- Change Management
+- Agile Community
+- Discovery and Learning
 resourceTypes:
 - video
+categories:
+- People and Process
+- Practical Techniques and Tooling
+- Organisational Agility
+- Technical Excellence
 
 ---
 ## Why a Deep Understanding is Non-Negotiable

@@ -3,7 +3,7 @@ title: What is the difference between a newbie scrum master and a professional s
 description: "Uncover the true essence of a Scrum Master! Explore key differences between newbies and pros, and enhance your leadership skills in Scrum. \U0001F31F"
 date: 2023-03-31T07:00:03Z
 ResourceId: 2k1726k9zvg
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 2k1726k9zvg
@@ -15,17 +15,26 @@ aliases:
 - /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master-
 - /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master-
 - /resources/2k1726k9zvg
+aliasesFor404:
+- /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master-
+- /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master-
 preview: https://i.ytimg.com/vi/2k1726k9zvg/maxresdefault.jpg
 duration: 283
 isShort: false
 tags:
-- PSM
-- Professional Scrum Master
-- Scrum.Org
-- Scrum Master
-- ScrumMaster
-- Scrum Training
-- Scrum Certification
+- Professional Scrum
+- Scrum Team
+- Agile Values and Principles
+- Team Collaboration
+- Accountability
+- Continuous Improvement
+- Agile Leadership
+- Team Motivation
+- Agile Methodology
+- Change Management
+- Organisational Culture
+- Agile Transformation
+- Evidence Based Improvement
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -33,6 +42,12 @@ source: youtube
 layout: video
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Value Delivery
+- Transparency and Accountability
+- Technical Excellence
 
 ---
  *Unraveling the Scrum Master Role: Insights and Misconceptions*

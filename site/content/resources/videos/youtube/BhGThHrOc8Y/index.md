@@ -3,7 +3,7 @@ title: People Drive Solutions, Tools Just Pave the Way! Agile and DevOps are abo
 description: "Discover the true essence of DevOps! Join Martin as he explores the people-driven philosophy behind successful implementations, beyond just tools. \U0001F680\U0001F4A1"
 date: 2023-06-07T07:00:02Z
 ResourceId: BhGThHrOc8Y
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: BhGThHrOc8Y
@@ -16,23 +16,38 @@ aliases:
 - /resources/videos/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
 - /resources/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
 - /resources/BhGThHrOc8Y
+aliasesFor404:
+- /resources/videos/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
+- /resources/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
 preview: https://i.ytimg.com/vi/BhGThHrOc8Y/maxresdefault.jpg
 duration: 243
 isShort: false
 tags:
-- DevOps
-- Engineering Excellence
-- DevOps Consulting
-- Agile
-- Agile Software Development
-- Agile Product Development
-- Agile Project Management
+- Agile Values and Principles
+- Team Collaboration
+- Continuous Improvement
+- Agile Methodology
+- People and Process
+- Agile Leadership
+- Organisational Agility
+- Agile Transformation
+- Systems Thinking
+- Technical Excellence
+- Agile Digital Tools
+- Customer Feedback Loops
+- Discovery and Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- People and Process
+- DevOps
+- Organisational Agility
+- Discovery and Learning
+- Technical Excellence
 
 ---
  Unravel the true essence of DevOps beyond just tools! Dive deep into the philosophy, practices, and ideas that drive successful DevOps implementations. 🛠️🔄💡

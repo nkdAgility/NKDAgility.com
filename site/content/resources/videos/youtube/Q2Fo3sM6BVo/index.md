@@ -3,7 +3,7 @@ title: The Scrum Framework!
 description: Discover the Scrum Framework with Martin Hinshelwood! Learn its core values, accountabilities, artefacts, and events to tackle complex problems effectively.
 date: 2022-10-18T16:13:02Z
 ResourceId: Q2Fo3sM6BVo
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Q2Fo3sM6BVo
@@ -16,6 +16,9 @@ aliases:
 - /resources/videos/the-scrum-framework!
 - /resources/the-scrum-framework!
 - /resources/Q2Fo3sM6BVo
+aliasesFor404:
+- /resources/videos/the-scrum-framework!
+- /resources/the-scrum-framework!
 preview: https://i.ytimg.com/vi/Q2Fo3sM6BVo/maxresdefault.jpg
 duration: 891
 isShort: false
@@ -26,6 +29,12 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Value Delivery
+- Events and Presentations
+- Practical Techniques and Tooling
 
 ---
  Scrum is a lightweight framework that helps people, teams, and organizations generate value through adaptive solutions for complex problems. The Scrum Framework is made up of five values, three Accountabilities, three artefacts, and five events. 

@@ -1,17 +1,36 @@
 ---
-id: "48593"
-title: "Seasons Greetings & Upcoming Professional Scrum training classes"
-date: "2022-12-21"
-preview: "naked-agility-technically-agile-1280×720-Holiday2022.jpg"
-author: "MrHinsh"
+title: Seasons Greetings & Upcoming Professional Scrum training classes
+description: Exciting news for 2023! Naked Agility expands with new trainers, a growing community, and enhanced training classes. Join us for a transformative experience!
+ResourceId: Tx-0zZJ1biI
+ResourceImport: true
+ResourceType: newsletters
+date: 2022-12-21
+preview: naked-agility-technically-agile-1280×720-Holiday2022.jpg
+author: MrHinsh
 resourceTypes: newsletter
 layout: newsletter
-slug: "seasons-greetings-upcoming-professional-scrum-training-classes"
+slug: seasons-greetings-upcoming-professional-scrum-training-classes
 aliases:
-  - /newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
-  - /resources/newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
----
+- /newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
+- /resources/newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
+- /resources/Tx-0zZJ1biI
+aliasesFor404:
+- /newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
+- /resources/newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
+categories:
+- Scrum
+- People and Process
+- Training
+- News and Reviews
+- Community
+tags:
+- Continuous Improvement
+- Agile Planning
+- Community
+- Leadership Training
+- Agile Values and Principles
 
+---
 \[caption id="attachment_48602" align="alignnone" width="800"\]![Seasons greetings and a happy new year for 2023](images/Copy-of-Gold-and-Black-Elegant-Holiday-Party-Instagram-Story-Banner-Landscape-800x400.jpg) Seasons greetings and a happy new year for 2023\[/caption\]
 
 ## News for 2023

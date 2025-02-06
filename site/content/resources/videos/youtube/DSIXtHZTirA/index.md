@@ -3,7 +3,7 @@ title: 'NKD Agility: Your partner in developing engineering excellence'
 description: Discover how performance engineering enhances user experience! Join Martin Hinshelwood as he shares strategies for optimising software in production.
 date: 2024-11-23T07:00:12Z
 ResourceId: DSIXtHZTirA
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: DSIXtHZTirA
@@ -16,23 +16,37 @@ aliases:
 - /resources/videos/performance-engineering-for-optimal-user-experience
 - /resources/performance-engineering-for-optimal-user-experience
 - /resources/DSIXtHZTirA
+aliasesFor404:
+- /resources/videos/performance-engineering-for-optimal-user-experience
+- /resources/performance-engineering-for-optimal-user-experience
 preview: https://i.ytimg.com/vi/DSIXtHZTirA/maxresdefault.jpg
 duration: 704
 isShort: false
 tags:
-- Agile
-- Product development
-- Product management
-- software engineering
-- project management
-- agile product development
-- agile product management
-- agile project management
+- Customer Satisfaction
+- Deployment Frequency
+- Continuous Delivery
+- Technical Excellence
+- Agile Software Development
+- Evidence Based Management
+- Agile Tools
+- Azure DevOps
+- Team Collaboration
+- Agile Product Discovery
+- Agile Planning
+- Agile Leadership
+- Engineering Excellence
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
+categories:
+- Performance Engineering
+- Technical Excellence
+- Value Delivery
+- Azure DevOps
+- Metrics and Learning
 
 ---
 # Performance Engineering and Testing in Production: A Modern Approach | Martin Hinshelwood  

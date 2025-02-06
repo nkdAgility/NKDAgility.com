@@ -2,14 +2,13 @@
 title: Some thoughts on .NET 3.0 from LinkedIn
 description: Explore insights on adopting .NET 3.0 for new applications, its advantages over existing technologies, and the future of Microsoft’s development tools.
 ResourceId: L_rhObh8cmE
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 436
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-02-06
 creator: Martin Hinshelwood
-id: "436"
 layout: blog
 resourceTypes: blog
 slug: some-thoughts-on-net-3-0-from-linkedin
@@ -25,10 +24,12 @@ aliasesFor404:
 - /blog/some-thoughts-on-net-3-0-from-linkedin
 - /some-thoughts-on--net-3-0-from-linkedin
 - /blog/some-thoughts-on--net-3-0-from-linkedin
+- /resources/blog/some-thoughts-on-net-3-0-from-linkedin
 tags:
-- wpf
+- Agile Software Development
+- Technical Excellence
 categories:
-- code-and-complexity
+- Application Lifecycle Management
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

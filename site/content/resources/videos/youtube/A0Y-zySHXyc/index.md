@@ -3,7 +3,7 @@ title: What are the barriers that prevent developers from fully accepting a Prod
 description: Explore the barriers hindering developers from accepting product owners' decisions. Discover the importance of respect and accountability in agile teams!
 date: 2023-10-03T07:00:08Z
 ResourceId: A0Y-zySHXyc
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: A0Y-zySHXyc
@@ -20,21 +20,36 @@ aliases:
 - /resources/videos/A0Y-zySHXyc
 - /resources/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-word
 - /resources/A0Y-zySHXyc
+aliasesFor404:
+- /resources/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-decision-maker
+- /resources/videos/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-word
+- /resources/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-word
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Developers
-- Product Owner
-- scrum product owner
-- scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product ownership
+- Accountability
+- Team Collaboration
+- Scrum Team
+- Agile Product Ownership
+- Decision Making
+- Organisational Culture
+- Employee Engagement
+- Agile Transformation
+- Continuous Improvement
+- Agile Methodology
+- Agile Values and Principles
+- Scrum Values
+- Psychological Safety
+- Evidence Based Leadership
 resourceTypes:
 - video
+categories:
+- Transparency and Accountability
+- Scrum
+- Organisational Psychology
+- People and Process
+- Value Delivery
 
 ---
 ## Bridging the Gap Between Developers and Product Owners 🌉 

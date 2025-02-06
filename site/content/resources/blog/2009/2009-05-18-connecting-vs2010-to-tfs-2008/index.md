@@ -2,14 +2,13 @@
 title: Connecting VS2010 to TFS 2008
 description: Learn how to connect Visual Studio 2010 to Team Foundation Server 2008 effortlessly. Discover tips and insights to enhance your development experience!
 ResourceId: LrLP9ghLVoC
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 118
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-05-18
 creator: Martin Hinshelwood
-id: "118"
 layout: blog
 resourceTypes: blog
 slug: connecting-vs2010-to-tfs-2008
@@ -21,14 +20,14 @@ aliases:
 aliasesFor404:
 - /connecting-vs2010-to-tfs-2008
 - /blog/connecting-vs2010-to-tfs-2008
+- /resources/blog/connecting-vs2010-to-tfs-2008
 tags:
-- aggreko
-- tfs
-- tfs2008
-- tools
-- visual-studio
-- vs2010
+- Agile Tools
+- Azure DevOps
 preview: metro-visual-studio-2010-128-link-5-5.png
+categories:
+- Install and Configuration
+- Application Lifecycle Management
 
 ---
 ![VS-TS_rgb_thumb[2][5][5][5]](images/ConnectingVS2010toTFS2008_EA90-VSTS_rgb_thumb2555-4-4.png)Connecting Visual Studio 2010 to Team Foundation Server 2008 is a snitch… If you have done it from VS200x to TFS200x then you will have no problems understanding what is going on…

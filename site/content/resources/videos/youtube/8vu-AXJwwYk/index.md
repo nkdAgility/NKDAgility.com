@@ -3,7 +3,7 @@ title: How much of an impact can a great agile consultant have?
 description: Discover how a skilled agile consultant can transform your team's approach to product development, navigating complexity and driving success in uncertain environments.
 date: 2023-01-24T07:30:02Z
 ResourceId: 8vu-AXJwwYk
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 8vu-AXJwwYk
@@ -16,22 +16,39 @@ aliases:
 - /resources/videos/how-much-of-an-impact-can-a-great-agile-consultant-have-
 - /resources/how-much-of-an-impact-can-a-great-agile-consultant-have-
 - /resources/8vu-AXJwwYk
+aliasesFor404:
+- /resources/videos/how-much-of-an-impact-can-a-great-agile-consultant-have-
+- /resources/how-much-of-an-impact-can-a-great-agile-consultant-have-
 preview: https://i.ytimg.com/vi/8vu-AXJwwYk/maxresdefault.jpg
 duration: 554
 isShort: false
 tags:
-- Agile
-- Agile Consulting
-- Agile Consultant
-- Product Development
-- Agile Project Management
-- Agile Product Development
+- Change Management
+- Agile Coaching
+- Organisational Agility
+- Agile Leadership
+- Team Collaboration
+- Continuous Improvement
+- Evidence Based Management
+- Agile Transformation
+- Systems Thinking
+- Agile Values and Principles
+- Employee Engagement
+- Agile Problem Solving
+- Technical Excellence
+- Agile Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Resilience and Change
+- Value Delivery
+- Systems Thinking
 
 ---
  In 2001, a group of brilliant #softwareengineers came together to define and articulate a new style of #productdevelopment based on their collective knowledge, experience, and experimentation with #agileframeworks.

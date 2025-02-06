@@ -2,14 +2,13 @@
 title: Infragistics WPF
 description: Explore Infragistics WPF controls and learn how to effectively use their Ribbon components. Overcome documentation challenges with practical coding examples!
 ResourceId: qNzd15yz5fn
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 179
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-10-28
 creator: Martin Hinshelwood
-id: "179"
 layout: blog
 resourceTypes: blog
 slug: infragistics-wpf
@@ -21,10 +20,13 @@ aliases:
 aliasesFor404:
 - /infragistics-wpf
 - /blog/infragistics-wpf
+- /resources/blog/infragistics-wpf
 tags:
-- tfs
-- tools
-- wpf
+- Agile Software Development
+- Technical Excellence
+categories:
+- Code and Complexity
+- Azure DevOps
 
 ---
 ![](images/logo-1-1.gif) 

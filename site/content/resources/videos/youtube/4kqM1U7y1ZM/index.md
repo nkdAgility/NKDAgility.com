@@ -3,7 +3,7 @@ title: What would you look to achieve with a new scrum team in the first 90 days
 description: 'Discover what to achieve with a new scrum team in 90 days! Join Martin Hinshelwood from NKD Agility for insights on effective agile consulting. #Agile #Scrum'
 date: 2023-06-27T07:00:06Z
 ResourceId: 4kqM1U7y1ZM
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 4kqM1U7y1ZM
@@ -15,18 +15,28 @@ aliases:
 - /resources/videos/what-would-you-look-to-achieve-with-a-new-scrum-team-in-the-first-90-days-
 - /resources/what-would-you-look-to-achieve-with-a-new-scrum-team-in-the-first-90-days-
 - /resources/4kqM1U7y1ZM
+aliasesFor404:
+- /resources/videos/what-would-you-look-to-achieve-with-a-new-scrum-team-in-the-first-90-days-
+- /resources/what-would-you-look-to-achieve-with-a-new-scrum-team-in-the-first-90-days-
 preview: https://i.ytimg.com/vi/4kqM1U7y1ZM/maxresdefault.jpg
 duration: 239
 isShort: false
 tags:
-- Agile
-- Scrum
-- Agile Coach
-- Agile Coaching
-- Agile Consultant
-- Agile Consulting
-- Agile Project Management
-- Agile Product Development
+- Scrum Team
+- Scrum Master
+- Continuous Delivery
+- Value Delivery
+- Agile Product Ownership
+- Customer Feedback Loops
+- Agile Planning
+- Team Collaboration
+- Agile Product Management
+- Definition of Done
+- Agile Transformation
+- Team Motivation
+- Self Organisation
+- Continuous Improvement
+- Discovery and Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -34,6 +44,9 @@ source: youtube
 layout: video
 resourceTypes:
 - video
+categories:
+- Agile Product Management
+- People and Process
 
 ---
  #agileconsulting and #agilecoaching can seem somewhat nebulous at times because many coaches and consultants don't provide clear outcomes that a client can expect.

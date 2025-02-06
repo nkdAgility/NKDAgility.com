@@ -2,14 +2,13 @@
 title: 'Evolution not Transformation: This is the Inevitability of change'
 description: Discover why true agility is an evolution, not a transformation. Embrace continuous change to thrive in today's fast-paced business landscape.
 ResourceId: WvUOpSMqawD
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 44511
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-07-13
 creator: Martin Hinshelwood
-id: "44511"
 layout: blog
 resourceTypes: blog
 slug: evolution-not-transformation-this-is-the-inevitability-of-change
@@ -25,18 +24,28 @@ aliasesFor404:
 - /blog/evolution-not-transformation-this-is-the-inevitability-of-change
 - /evolution-not-transformation--this-is-the-inevitability-of-change
 - /blog/evolution-not-transformation--this-is-the-inevitability-of-change
+- /resources/blog/evolution-not-transformation-this-is-the-inevitability-of-change
 tags:
-- agileleadership
-- daretochange
-- featured
-- leadership
-- leadership-track
-- scrum-theory
+- Change Management
+- Business Agility
+- Organisational Agility
+- Agile Evolution
+- Continuous Improvement
+- Experimentation
+- Leadership Training
+- Agile Leadership
+- Systems Thinking
+- Organisational Change
+- Agile Values and Principles
+- Employee Engagement
+- Agile Product Management
+- Agile Strategy
 categories:
-- discovery-ideation
-- measure-and-learn
-- people-and-process
-- transparency-commitment
+- Organisational Agility
+- Resilience and Change
+- People and Process
+- Discovery and Learning
+- Events and Presentations
 preview: image-15-5-4.png
 
 ---

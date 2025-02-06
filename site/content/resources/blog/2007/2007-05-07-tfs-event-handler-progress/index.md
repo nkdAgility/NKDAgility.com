@@ -2,14 +2,13 @@
 title: TFS Event Handler Progress
 description: Discover the latest progress on the TFS Event Handler project, tackling key work items and exploring WCF error handling solutions. Join the journey!
 ResourceId: MY8gn3hmXhh
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 402
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-05-07
 creator: Martin Hinshelwood
-id: "402"
 layout: blog
 resourceTypes: blog
 slug: tfs-event-handler-progress
@@ -21,13 +20,12 @@ aliases:
 aliasesFor404:
 - /tfs-event-handler-progress
 - /blog/tfs-event-handler-progress
+- /resources/blog/tfs-event-handler-progress
 tags:
-- code
-- tfs-event-handler
-- wcf
-- wit
+- Technical Excellence
+- Continuous Delivery
 categories:
-- code-and-complexity
+- Azure DevOps
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

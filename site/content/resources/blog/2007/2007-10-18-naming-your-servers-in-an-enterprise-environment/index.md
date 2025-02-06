@@ -2,14 +2,13 @@
 title: Naming your servers in an enterprise environment
 description: Discover effective server naming strategies for enterprise environments. Learn how to create meaningful, consistent names that enhance identification and management.
 ResourceId: LahLCH4hO9O
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 299
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-10-18
 creator: Martin Hinshelwood
-id: "299"
 layout: blog
 resourceTypes: blog
 slug: naming-your-servers-in-an-enterprise-environment
@@ -21,13 +20,12 @@ aliases:
 aliasesFor404:
 - /naming-your-servers-in-an-enterprise-environment
 - /blog/naming-your-servers-in-an-enterprise-environment
+- /resources/blog/naming-your-servers-in-an-enterprise-environment
 tags:
-- configuration
-- fail
-- infrastructure
-- tools
+- Technical Strategy
+- Organisational Agility
 categories:
-- code-and-complexity
+- Application Lifecycle Management
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

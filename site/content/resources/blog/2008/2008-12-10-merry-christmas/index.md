@@ -2,14 +2,13 @@
 title: Merry Christmas
 description: Celebrate the season with heartfelt eCards from the Hinshelwood family! Share joy and laughter this Christmas with fun ElfYourself creations.
 ResourceId: MUY1jFEETH6
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 154
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-12-10
 creator: Martin Hinshelwood
-id: "154"
 layout: blog
 resourceTypes: blog
 slug: merry-christmas
@@ -21,9 +20,13 @@ aliases:
 aliasesFor404:
 - /merry-christmas
 - /blog/merry-christmas
+- /resources/blog/merry-christmas
 categories:
-- me
+- Personal
 preview: nakedalm-logo-128-link-1-1.png
+tags:
+- Featured
+- Personal
 
 ---
 With many people skipping off early for their holly bags, me included.. I thought I should send this out now…

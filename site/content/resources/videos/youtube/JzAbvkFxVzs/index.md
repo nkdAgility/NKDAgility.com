@@ -3,7 +3,7 @@ title: 'The Pitfalls of Routine Agile Questions: Avoiding the Ghosts of Agile Pa
 description: Explore the balance between pragmatism and dogmatism in Agile. Discover real stories that highlight the importance of flexibility for effective team management!
 date: 2024-01-03T07:00:13Z
 ResourceId: JzAbvkFxVzs
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: JzAbvkFxVzs
@@ -20,35 +20,37 @@ aliases:
 - /resources/videos/JzAbvkFxVzs
 - /resources/5-ghosts-of-agile-past-dogma
 - /resources/JzAbvkFxVzs
+aliasesFor404:
+- /resources/the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
+- /resources/videos/5-ghosts-of-agile-past-dogma
+- /resources/5-ghosts-of-agile-past-dogma
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Scrum Master
+- Scrum Team
+- Scrum Values
+- Pragmatic Thinking
+- Team Collaboration
+- Continuous Improvement
+- Evidence Based Management
+- Agile Values and Principles
+- Organisational Culture
+- Change Management
+- Agile Transformation
+- Team Motivation
+- Psychological Safety
+- Agile Coaching
+- Agile Methodology
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Value Delivery
+- Organisational Agility
+- Transparency and Accountability
 
 ---
 In the world of Agile, we often hear about the famous "three questions" used during the daily Scrum or retrospective sessions:

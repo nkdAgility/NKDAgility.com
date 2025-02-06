@@ -3,7 +3,7 @@ title: Scrum is like communism, it doesn't work. Myth 1.
 description: "Uncover the truth behind Scrum myths! Join Martin as he reveals the real purpose of Scrum events and why they matter in agile. \U0001F3A5\U0001F680 #Scrum #Agile"
 date: 2023-10-24T06:50:42Z
 ResourceId: 7O-LmzmxUkE
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 7O-LmzmxUkE
@@ -19,38 +19,34 @@ aliases:
 - /resources/videos/7O-LmzmxUkE
 - /resources/scrum-is-like-communism-it-doesn't-work-myth-1
 - /resources/7O-LmzmxUkE
+aliasesFor404:
+- /resources/scrum-is-like-communism-it-doesnt-work-myth-1
+- /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-1
+- /resources/scrum-is-like-communism-it-doesn't-work-myth-1
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
-- Agile leadership
-- Agile leader
-- Leadership
+- Scrum Team
+- Sprint Planning Workshop
+- Definition of Done
+- Empirical Process Control
+- Scrum Product Management
+- Continuous Improvement
+- Team Collaboration
+- Agile Product Management
+- Transparency
+- Agile Values and Principles
+- Evidence Based Improvement
+- Agile Software Development
+- Working Software
 resourceTypes:
 - video
 layout: video
+categories:
+- Scrum
+- People and Process
+- Transparency and Accountability
 
 ---
 # Demystifying Scrum: Beyond Meetings to Meaningful Events 🚀

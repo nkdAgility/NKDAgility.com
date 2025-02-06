@@ -2,14 +2,13 @@
 title: 'Codeplex Project: RDdotNET White Label'
 description: Explore the RDdotNET White Label project on Codeplex, created by Martin Hinshelwood. Discover innovative solutions and enhance your .NET development journey!
 ResourceId: LNv6D2UC7-n
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 459
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2006-10-31
 creator: Martin Hinshelwood
-id: "459"
 layout: blog
 resourceTypes: blog
 slug: codeplex-project-rddotnet-white-label
@@ -25,10 +24,13 @@ aliasesFor404:
 - /blog/codeplex-project-rddotnet-white-label
 - /codeplex-project--rddotnet-white-label
 - /blog/codeplex-project--rddotnet-white-label
+- /resources/blog/codeplex-project-rddotnet-white-label
 tags:
-- code
+- Agile Software Development
+- Technical Excellence
 categories:
-- me
+- Code and Complexity
+- Application Lifecycle Management
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

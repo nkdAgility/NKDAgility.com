@@ -3,7 +3,7 @@ title: DevOps Migration. Data Integrity Issues
 description: Explore data integrity in Azure DevOps migrations! Discover the trade-offs between full and selective data transfers for optimal results.
 date: 2024-11-04T06:06:49Z
 ResourceId: hWyF6CbcbQ8
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: hWyF6CbcbQ8
@@ -16,23 +16,38 @@ aliases:
 - /resources/videos/devops-migration-data-integrity-issues
 - /resources/devops-migration-data-integrity-issues
 - /resources/hWyF6CbcbQ8
+aliasesFor404:
+- /resources/videos/devops-migration-data-integrity-issues
+- /resources/devops-migration-data-integrity-issues
 preview: https://i.ytimg.com/vi/hWyF6CbcbQ8/maxresdefault.jpg
 duration: 124
 isShort: false
 tags:
-- Azure DevOps
-- Azure
-- DevOps
-- DevOps expert
-- Azure DevOps expert
-- Microsoft MVP
-- Azure DevOps Migration
+- Data Driven Decisions
+- Continuous Delivery
+- Technical Excellence
+- Agile Tools
+- Evidence Based Management
+- Change Management
+- Agile Planning
+- Value Stream Management
+- Systems Thinking
+- Agile Software Development
+- Lean Principles
+- Agile Transformation
+- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- DevOps
+- Azure DevOps
+- Practical Techniques and Tooling
+- Data Integrity Issues
+- Value Stream Management
 
 ---
  In this video, we dive into the essentials of data integrity and Azure DevOps migrations. Migrating to Azure DevOps, especially from on-premises TFS (Team Foundation Server), presents a key decision: fidelity versus flexibility. Do you migrate everything in one complete transfer, or selectively choose data sets based on your organizational needs? Each option offers unique benefits—and challenges.

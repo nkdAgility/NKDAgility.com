@@ -2,14 +2,13 @@
 title: TFS Field Annotator
 description: Discover the TFS Field Annotator to track changes in TFS Work Items effortlessly. Enhance your workflow with easy field history access. Download now!
 ResourceId: Nb7mmrBQDyM
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 5061
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-03-30
 creator: Martin Hinshelwood
-id: "5061"
 layout: blog
 resourceTypes: blog
 slug: tfs-field-annotator
@@ -21,15 +20,12 @@ aliases:
 aliasesFor404:
 - /tfs-field-annotator
 - /blog/tfs-field-annotator
+- /resources/blog/tfs-field-annotator
 tags:
-- azure
-- code
-- infrastructure
-- tfs
-- tf-service
-- tools
+- Agile Tools
+- Azure DevOps
 categories:
-- code-and-complexity
+- Azure DevOps
 preview: metro-cloud-azure-link-4-4.png
 
 ---

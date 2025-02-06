@@ -2,14 +2,13 @@
 title: My journey into Professional Scrum
 description: Explore my journey into Professional Scrum and discover how agile practices can transform software development and enhance business agility. Join me!
 ResourceId: PqEhZ1JIcDe
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 11115
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-02-04
 creator: Martin Hinshelwood
-id: "11115"
 layout: blog
 resourceTypes: blog
 slug: journey-professional-scrum
@@ -25,16 +24,29 @@ aliasesFor404:
 - /blog/journey-professional-scrum
 - /my-journey-into-professional-scrum
 - /blog/my-journey-into-professional-scrum
+- /resources/blog/journey-professional-scrum
 tags:
-- agile
-- business-agility
-- psd
-- psf
-- psm
-- scrum
-- sps
+- Professional Scrum
+- Scrum Master
+- Scrum Team
+- Agile Software Development
+- Continuous Improvement
+- Business Agility
+- Organisational Culture
+- Agile Product Management
+- Agile Transformation
+- Team Collaboration
+- Technical Excellence
+- Evidence Based Management
+- Self Organisation
+- Agile Values and Principles
+- Application Lifecycle Management
 categories:
-- people-and-process
+- People and Process
+- Scrum
+- Application Lifecycle Management
+- Organisational Agility
+- Scaling Agility
 preview: nakedalm-experts-professional-scrum-5-5.png
 
 ---

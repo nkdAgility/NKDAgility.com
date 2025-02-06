@@ -3,7 +3,7 @@ title: 'The Key to Being an Effective Agile Coach: Understanding the Team’s Co
 description: 'Discover the fifth essential achievement for aspiring #AgileCoaches with Martin Hinshelwood. Elevate your skills and empower teams to thrive!'
 date: 2023-11-17T11:00:55Z
 ResourceId: s_kWkDCbp9Y
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: s_kWkDCbp9Y
@@ -20,35 +20,35 @@ aliases:
 - /resources/videos/s_kWkDCbp9Y
 - /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-5
 - /resources/s_kWkDCbp9Y
+aliasesFor404:
+- /resources/the-key-to-being-an-effective-agile-coach-understanding-the-teams-context
+- /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-5
+- /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-5
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Agile Coaching
+- Team Collaboration
+- Team Motivation
+- Agile Values and Principles
+- Agile Community
+- Continuous Learning
+- Employee Engagement
+- Organisational Culture
+- Agile Transformation
+- Coaching
+- Scrum Team
+- Agile Software Development
+- Agile Methodology
 resourceTypes:
 - video
+categories:
+- People and Process
+- Organisational Agility
+- Organisational Psychology
+- Discovery and Learning
+- Value Delivery
 
 ---
 Becoming an Agile coach isn’t just about knowing Agile practices. It’s about understanding the context in which your team operates and having the experience to back it up. In this post, I’ll explore why having domain knowledge is essential for Agile coaches, how it impacts your effectiveness, and what you can do to deepen your understanding. Let's dive into it! 🚀

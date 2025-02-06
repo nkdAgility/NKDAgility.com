@@ -3,7 +3,7 @@ title: Unlocking Continuous Delivery with Feature Flags - The Key to Faster, Saf
 description: Discover how feature flags revolutionise continuous delivery, enabling faster, safer deployments and enhanced customer feedback. Unlock your team's potential!
 date: 2025-01-16T06:45:00Z
 ResourceId: YVrGU0oZmc0
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: YVrGU0oZmc0
@@ -17,18 +17,38 @@ aliases:
 - /resources/videos/unlocking-continuous-delivery-with-feature-flags-the-key-to-faster,-safer-deployments
 - /resources/unlocking-continuous-delivery-with-feature-flags-the-key-to-faster,-safer-deployments
 - /resources/YVrGU0oZmc0
+aliasesFor404:
+- /resources/videos/unlocking-continuous-delivery-with-feature-flags-the-key-to-faster,-safer-deployments
+- /resources/unlocking-continuous-delivery-with-feature-flags-the-key-to-faster,-safer-deployments
 preview: https://i9.ytimg.com/vi/YVrGU0oZmc0/maxresdefault.jpg?sqp=CKDMmrwG&rs=AOn4CLDPVXqxCxtvxC7uS6ZrcSzj_2vc6g
 duration: 557
 isShort: false
 tags:
-- Deployment frequency
-- DevOps
-- Developers
+- Continuous Delivery
+- Customer Feedback Loops
+- Agile Tools
+- Azure DevOps
+- Agile Product Management
+- Value Delivery
+- Evidence Based Management
+- Agile Product Discovery
+- Technical Excellence
+- Agile Software Development
+- Team Collaboration
+- Agile Scaling
+- Site Reliability
 resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+categories:
+- Continuous Delivery
+- Metrics and Learning
+- Value Delivery
+- DevOps
+- Technical Excellence
+- Azure DevOps
 
 ---
  Unlocking Continuous Delivery with Feature Flags: The Key to Faster, Safer Deployments

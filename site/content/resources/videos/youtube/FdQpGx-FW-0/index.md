@@ -3,7 +3,7 @@ title: 7 harbingers of the Agile apocalypse. Judgement.
 description: "Unlock the essence of Agile! \U0001F680 Join Martin as he explores core principles, pitfalls of prescriptive methods, and what truly motivates today's workforce."
 date: 2023-10-20T11:00:13Z
 ResourceId: FdQpGx-FW-0
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: FdQpGx-FW-0
@@ -20,40 +20,34 @@ aliases:
 - /resources/videos/FdQpGx-FW-0
 - /resources/judgement!-7-harbingers-agile-apocalypse
 - /resources/FdQpGx-FW-0
+aliasesFor404:
+- /resources/7-harbingers-of-the-agile-apocalypse-judgement
+- /resources/videos/judgement!-7-harbingers-agile-apocalypse
+- /resources/judgement!-7-harbingers-agile-apocalypse
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
-- Agile leadership
-- Agile leader
-- Leadership
-- 7 signs
-- agile-pocalypse
-- agile-apocalypse
+- Agile Apocalypse
+- Team Motivation
+- Organisational Agility
+- Agile Values and Principles
+- Self Organisation
+- Change Management
+- Employee Engagement
+- Continuous Improvement
+- Decision Making
+- Systems Thinking
+- Agile Product Management
+- Transparency
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Scrum
+- Decision Theory
+- Transparency and Accountability
 
 ---
 # Escaping the Judgment Trap in Agile Transformation 🚀

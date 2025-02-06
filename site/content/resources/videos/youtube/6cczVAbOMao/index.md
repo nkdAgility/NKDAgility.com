@@ -3,7 +3,7 @@ title: How critical is a Product Owner in developing a great Product Backlog?
 description: "Unlock the secrets of a successful product backlog! Join Martin as he highlights the crucial role of the Product Owner in Scrum. \U0001F680\U0001F3AF"
 date: 2023-05-31T07:00:05Z
 ResourceId: 6cczVAbOMao
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 6cczVAbOMao
@@ -19,35 +19,36 @@ aliases:
 - /resources/videos/6cczVAbOMao
 - /resources/how-critical-is-a-product-owner-in-developing-a-great-product-backlog-
 - /resources/6cczVAbOMao
+aliasesFor404:
+- /resources/how-critical-is-a-product-owner-in-developing-a-great-product-backlog
+- /resources/videos/how-critical-is-a-product-owner-in-developing-a-great-product-backlog-
+- /resources/how-critical-is-a-product-owner-in-developing-a-great-product-backlog-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Backlog
-- Backlog
-- Sprint Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
+- Scrum Product Management
+- Agile Product Ownership
+- Scrum Team
+- Value Prioritisation
+- Agile Planning
+- Customer Feedback Loops
+- Transparency
+- Agile Product Discovery
+- Lean Thinking
+- Continuous Improvement
+- Technical Excellence
+- Decision Making
+- Agile Values and Principles
 resourceTypes:
 - video
 layout: video
+categories:
+- Agile Product Management
+- Scrum
+- Value Delivery
+- Transparency and Accountability
+- Lean
 
 ---
 ## The Pivotal Role of a Product Owner in Cultivating a Stellar Product Backlog

@@ -2,14 +2,13 @@
 title: Avoid the pick-n-mix branching anti-pattern
 description: Discover how to avoid the pick-n-mix branching anti-pattern in software development. Learn effective strategies to enhance code quality and team trust.
 ResourceId: IVl4r4gpkQ6
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10649
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-07-14
 creator: Martin Hinshelwood
-id: "10649"
 layout: blog
 resourceTypes: blog
 slug: avoid-pick-n-mix-branching-anti-pattern
@@ -25,11 +24,28 @@ aliasesFor404:
 - /blog/avoid-pick-n-mix-branching-anti-pattern
 - /avoid-the-pick-n-mix-branching-anti-pattern
 - /blog/avoid-the-pick-n-mix-branching-anti-pattern
+- /resources/blog/avoid-pick-n-mix-branching-anti-pattern
 tags:
-- anti-pattern
-- branching
+- Modern Source Control
+- Technical Debt
+- Agile Planning
+- Continuous Delivery
+- Deployment Strategies
+- Agile Software Development
+- Value Delivery
+- Agile Product Management
+- Agile Transformation
+- Team Collaboration
+- Change Management
+- Evidence Based Management
+- Agile Values and Principles
+- Systems Thinking
 categories:
-- tools-and-techniques
+- Code and Complexity
+- Technical Excellence
+- Application Lifecycle Management
+- People and Process
+- Value Delivery
 preview: nakedalm-experts-visual-studio-alm-4-4.png
 
 ---

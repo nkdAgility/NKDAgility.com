@@ -3,7 +3,7 @@ title: Can you talk about the Kanban workshop and why it's a great option for or
 description: Discover how Kanban workshops by NKD Agility can empower your team to embrace agile practices and enhance product development without the Scrum framework.
 date: 2023-08-23T07:00:10Z
 ResourceId: RSPw8pZ9NT8
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: RSPw8pZ9NT8
@@ -16,25 +16,38 @@ aliases:
 - /resources/videos/can-you-talk-about-the-kanban-workshop-and-why-it's-a-great-option-for-organizations
 - /resources/can-you-talk-about-the-kanban-workshop-and-why-it's-a-great-option-for-organizations
 - /resources/RSPw8pZ9NT8
+aliasesFor404:
+- /resources/videos/can-you-talk-about-the-kanban-workshop-and-why-it's-a-great-option-for-organizations
+- /resources/can-you-talk-about-the-kanban-workshop-and-why-it's-a-great-option-for-organizations
 preview: https://i.ytimg.com/vi/RSPw8pZ9NT8/maxresdefault.jpg
 duration: 466
 isShort: false
 tags:
-- Kanban
-- Kanban workshops
-- Kanban coaching
-- Kanban training
-- Kanban consulting
-- Agile framework
-- Agile project management
-- Agile product management
-- Agile product development
+- Kanban Theory
+- Value Stream Management
+- Flow Efficiency
+- Cycle Time
+- Lead Time
+- Agile Planning
+- Agile Forecasting
+- Continuous Improvement
+- Evidence Based Management
+- Systems Thinking
+- Agile Strategy
+- Business Agility
+- Agile Tools
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Kanban
+- Value Stream Management
+- Metrics and Learning
+- Value Delivery
+- Systems Thinking
 
 ---
  #scrum is a great solution for teams wanting to acquire an #agileframework to help navigate complexity in #productdevelopment. That said, some of the events and artefacts don't resonate with every team, and so #kanban has become an increasingly popular option for #productdevelopment teams that want to navigate complexity, grow agile capabilities, but don't want a #scrumframework in their environment.

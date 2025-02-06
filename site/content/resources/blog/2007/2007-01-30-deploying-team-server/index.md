@@ -2,14 +2,13 @@
 title: Deploying Team Server
 description: Explore the benefits of deploying TFS in your organization. Learn how a complete solution can enhance development efficiency and streamline project management.
 ResourceId: BcNPa5LLzLX
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 440
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-01-30
 creator: Martin Hinshelwood
-id: "440"
 layout: blog
 resourceTypes: blog
 slug: deploying-team-server
@@ -21,10 +20,14 @@ aliases:
 aliasesFor404:
 - /deploying-team-server
 - /blog/deploying-team-server
+- /resources/blog/deploying-team-server
 tags:
-- service-oriented-architecture
-- tfs-build
+- Deployment Strategies
+- Agile Project Management
 preview: nakedalm-logo-128-link-1-1.png
+categories:
+- Application Lifecycle Management
+- Azure DevOps
 
 ---
 Sorry that I have not posted on this subject in a while, but I am lazy. After that last elongated post I am in the mood to write again...

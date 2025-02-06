@@ -2,14 +2,13 @@
 title: Avoid the Bug as Task anti-pattern in Azure DevOps
 description: Learn to avoid the Bug as Task anti-pattern in Azure DevOps to enhance team communication, transparency, and software quality. Improve your agile processes now!
 ResourceId: ppfe8CkVNf0
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10662
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-08-06
 creator: Martin Hinshelwood
-id: "10662"
 layout: blog
 resourceTypes: blog
 aliases:
@@ -23,13 +22,31 @@ aliases:
 aliasesFor404:
 - /avoid-the-bug-as-task-anti-pattern-in-azure-devops
 - /blog/avoid-the-bug-as-task-anti-pattern-in-azure-devops
+- /blog/avoid-bug-task-anti-pattern-tfs
+- /avoid-bug-task-anti-pattern-tfs
+- /blog/avoid-bug-task-anti-pattern-azure-devops/
+- /resources/blog/
 tags:
-- anti-pattern
-- bug
-- task
-- workitemtracking
+- Agile Tools
+- Team Collaboration
+- Agile Planning
+- Technical Debt
+- Agile Software Development
+- Azure DevOps
+- Continuous Improvement
+- Agile Product Ownership
+- Transparency
+- Agile Predictability
+- Agile Transformation
+- Value Delivery
+- Test First Development
+- Evidence Based Management
 categories:
-- people-and-process
+- People and Process
+- Azure DevOps
+- Organisational Agility
+- Technical Excellence
+- Discovery and Learning
 preview: NKDAgility-technically-BugAsATask-5-5.jpg
 
 ---

@@ -2,7 +2,7 @@
 title: Pragmatism crushes Dogma in the wild
 description: Discover how pragmatism triumphs over dogma in Scrum through real-world challenges in Minecraft, fostering adaptability and resilience in product development.
 ResourceId: mkdhLrKu8sh
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 51362
 ResourceImportSource: Wordpress
@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2024-03-21
 AudioNative: true
 creator: Martin Hinshelwood
-id: "51362"
 layout: blog
 resourceTypes: blog
 slug: pragmatism-crushes-dogma-in-the-wild
@@ -22,9 +21,25 @@ aliases:
 aliasesFor404:
 - /pragmatism-crushes-dogma-in-the-wild
 - /blog/pragmatism-crushes-dogma-in-the-wild
+- /resources/blog/pragmatism-crushes-dogma-in-the-wild
 categories:
-- agility
+- Scrum
+- Organisational Agility
+- Resilience and Change
+- People and Process
+- Discovery and Learning
 preview: NKDAgility-technically-PragamtismCrushesDogma-1-1.jpg
+tags:
+- Agile Coaching
+- Scrum
+- Team Collaboration
+- Agile Mentoring Program
+- Continuous Improvement
+- Resilience and Change
+- Agile Values and Principles
+- Agile Transformation
+- Pragmatic Thinking
+- Complexity Thinking
 
 ---
 In my journey of delivering an immersive [Product Development Mentor Program](https://nkdagility.com/global-consultancy-services/product-development-mentoring-program/) over the last eight weeks, a compelling narrative unfolded that beautifully illustrates the essence and true strength of Scrum. This story, rooted in the practical application of Scrum through Minecraft, unveils the depth of adaptability and resilience that Scrum can foster within a team.

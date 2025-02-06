@@ -2,14 +2,13 @@
 title: Upgrading from TFS 2008 to TFS 2010 Overview
 description: Explore the essential steps for upgrading from TFS 2008 to TFS 2010, including tips on configuration and process templates for a smooth transition.
 ResourceId: sN8_s0-PGBm
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 6905
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-07-31
 creator: Martin Hinshelwood
-id: "6905"
 layout: blog
 resourceTypes: blog
 slug: upgrading-from-tfs-2008-to-tfs-2010-overview
@@ -21,17 +20,13 @@ aliases:
 aliasesFor404:
 - /upgrading-from-tfs-2008-to-tfs-2010-overview
 - /blog/upgrading-from-tfs-2008-to-tfs-2010-overview
+- /resources/blog/upgrading-from-tfs-2008-to-tfs-2010-overview
 tags:
-- configuration
-- infrastructure
-- tfs2005
-- tfs2008
-- tfs2010
-- tfs2012
-- tools
+- Deployment Frequency
+- Change Management
 categories:
-- tools-and-techniques
-- upgrade-and-maintenance
+- Install and Configuration
+- Azure DevOps
 preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---

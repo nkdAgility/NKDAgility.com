@@ -2,14 +2,13 @@
 title: Quality Centre to Team Foundation Server in one complex step
 description: Discover effective tools for migrating from Quality Centre to Team Foundation Server. Explore options and find the best solution for your ALM needs!
 ResourceId: c2QQURpbvrm
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9170
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-12-05
 creator: Martin Hinshelwood
-id: "9170"
 layout: blog
 resourceTypes: blog
 slug: quality-centre-to-team-foundation-server-in-one-complex-step
@@ -21,18 +20,12 @@ aliases:
 aliasesFor404:
 - /quality-centre-to-team-foundation-server-in-one-complex-step
 - /blog/quality-centre-to-team-foundation-server-in-one-complex-step
+- /resources/blog/quality-centre-to-team-foundation-server-in-one-complex-step
 tags:
-- configuration
-- infrastructure
-- opshub
-- qc
-- scrat
-- tasktop
-- tfs
-- tools
+- Application Lifecycle Management
+- Agile Tools
 categories:
-- code-and-complexity
-- tools-and-techniques
+- Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---

@@ -2,14 +2,13 @@
 title: Mozy Backup
 description: Discover Mozy Backup, an affordable online backup solution with 2GB free space. Simple setup and reliable service to protect your digital life. Try it now!
 ResourceId: w40y2iYjQLv
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 287
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-11-26
 creator: Martin Hinshelwood
-id: "287"
 layout: blog
 resourceTypes: blog
 slug: mozy-backup
@@ -21,9 +20,13 @@ aliases:
 aliasesFor404:
 - /mozy-backup
 - /blog/mozy-backup
+- /resources/blog/mozy-backup
 categories:
-- me
+- News and Reviews
 preview: nakedalm-logo-128-link-3-3.png
+tags:
+- Customer Satisfaction
+- Digital Transformation
 
 ---
 I was looking for an online backup solution and [Scott Hanselman](http://www.hanselman.com/blog/OnLosingDataAndAFamilyBackupStrategy.aspx) provided it for me: Thanks Scott and good luck with all the [new stuff](http://www.hanselman.com/blog/NewJobNewHouseNewBabyAndDesigningATotallyNewHomeOffice.aspx) :).

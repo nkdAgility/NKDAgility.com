@@ -2,14 +2,13 @@
 title: Visual Studio 2010 Overview - Architecture
 description: Explore how Visual Studio 2010 enhances project architecture with tools for visualization, standards enforcement, and team collaboration. Discover more!
 ResourceId: zV3uLqE0b0K
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 4191
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-02-01
 creator: Martin Hinshelwood
-id: "4191"
 layout: blog
 resourceTypes: blog
 slug: visual-studio-2010-overview-architecture
@@ -26,16 +25,15 @@ aliasesFor404:
 - /blog/visual-studio-2010-overview-architecture
 - /visual-studio-2010-overview---architecture
 - /blog/visual-studio-2010-overview---architecture
+- /visual-studio-2010-overview
+- /resources/blog/visual-studio-2010-overview-architecture
 tags:
-- modern-alm
-- nwcadence
-- tfs
-- tfs2010
-- tools
-- visual-studio
-- vs2010
-- webcast-2
+- Technical Excellence
+- Agile Software Development
 preview: metro-visual-studio-2010-128-link-1-1.png
+categories:
+- Application Lifecycle Management
+- Technical Excellence
 
 ---
 How Visual Studio helps teams explore, understand, maintain, and uphold their project's architecture. Introduction to some basic architecture & design concepts and common trouble spots for teams.

@@ -2,14 +2,13 @@
 title: TFS Gotcha (Exception Handling)
 description: Learn how to effectively handle non-serializable exceptions in Team Foundation Server with custom solutions for Windows Communication Foundation. Enhance your coding skills!
 ResourceId: OMGmyApgm0G
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 392
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-05-30
 creator: Martin Hinshelwood
-id: "392"
 layout: blog
 resourceTypes: blog
 slug: tfs-gotcha-exception-handling
@@ -25,8 +24,13 @@ aliasesFor404:
 - /blog/tfs-gotcha-exception-handling
 - /tfs-gotcha-(exception-handling)
 - /blog/tfs-gotcha-(exception-handling)
+- /resources/blog/tfs-gotcha-exception-handling
 tags:
-- tfs
+- Technical Debt
+- Agile Software Development
+categories:
+- Application Lifecycle Management
+- Azure DevOps
 
 ---
 When coding against team foundation server you must be aware that some of the exceptions thrown by [Team Foundation Server](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") are not Serilisable! I think that this was an oversite by Microsoft, but it is there none the less.

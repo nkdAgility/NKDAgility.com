@@ -3,7 +3,7 @@ title: Making Business Decisions with Evidence! What is evidence-based managemen
 description: Unlock the power of evidence-based management! Learn to make data-driven decisions and enhance your leadership for sustainable business growth.
 date: 2024-01-25T07:00:13Z
 ResourceId: MCkSBdzRK_c
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: MCkSBdzRK_c
@@ -16,39 +16,39 @@ aliases:
 - /resources/videos/making-business-decisions-with-evidence!-what-is-evidence-based-management-
 - /resources/making-business-decisions-with-evidence!-what-is-evidence-based-management-
 - /resources/MCkSBdzRK_c
+aliasesFor404:
+- /resources/videos/making-business-decisions-with-evidence!-what-is-evidence-based-management-
+- /resources/making-business-decisions-with-evidence!-what-is-evidence-based-management-
 preview: https://i.ytimg.com/vi/MCkSBdzRK_c/maxresdefault.jpg
 duration: 369
 isShort: false
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Evidence Based Management
+- Decision Making
+- Data Driven Decisions
+- Business Agility
+- Value Delivery
+- Ability to Innovate
+- Continuous Improvement
+- Strategic Goals
+- Evidence Based Improvement
+- Organisational Agility
+- Customer Feedback Loops
+- Trend Analysis
+- Market Adaptability
+- Value Stream Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Metrics and Learning
+- Value Delivery
+- Organisational Agility
+- Decision Theory
+- Market Adaptability
 
 ---
  🚀 Explore the Power of Evidence-Based Management in This Essential Video! 🚀

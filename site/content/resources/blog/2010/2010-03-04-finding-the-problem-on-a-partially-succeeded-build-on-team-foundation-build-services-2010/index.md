@@ -2,14 +2,13 @@
 title: Finding the problem on a partially succeeded build on Team Foundation Build Services 2010
 description: Discover how to troubleshoot partially succeeded builds in TFS 2010. Learn effective strategies to identify and resolve issues for smoother development.
 ResourceId: YBExXvBtNAN
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 66
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-04
 creator: Martin Hinshelwood
-id: "66"
 layout: blog
 resourceTypes: blog
 slug: finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
@@ -21,18 +20,14 @@ aliases:
 aliasesFor404:
 - /finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
 - /blog/finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
+- /resources/blog/finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
 tags:
-- automated-build
-- scrum
-- ssw
-- testing
-- tfs-build
-- tfs
-- tools
-- visual-studio
-- vs2010
-- wcf
+- Scrum Product Development
+- Technical Excellence
 preview: metro-visual-studio-2010-128-link-8-8.png
+categories:
+- Code and Complexity
+- Application Lifecycle Management
 
 ---
 Now that I have the Build failing because of a genuine bug and not just because of a test framework failure, lets see if we can trace through to finding why the first test in our new application failed. Lets look at the build and see if we can see why there is a red cross on it.

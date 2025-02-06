@@ -2,14 +2,13 @@
 title: Introduction to Visual Studio 11
 description: Explore the features of Visual Studio 11 and TFS Preview with insights, demos, and tips from Martin Hinshelwood. Stay updated on modern development tools!
 ResourceId: jo0zeQr1paY
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 4393
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-02-17
 creator: Martin Hinshelwood
-id: "4393"
 layout: blog
 resourceTypes: blog
 slug: introduction-to-visual-studio-11
@@ -21,19 +20,12 @@ aliases:
 aliasesFor404:
 - /introduction-to-visual-studio-11
 - /blog/introduction-to-visual-studio-11
+- /resources/blog/introduction-to-visual-studio-11
 tags:
-- configuration
-- develop
-- infrastructure
-- modern-alm
-- nwcadence
-- tfs2012
-- tf-service
-- tools
-- visual-studio
-- vs2012
+- Azure DevOps
+- Agile Tools
 categories:
-- tools-and-techniques
+- Application Lifecycle Management
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

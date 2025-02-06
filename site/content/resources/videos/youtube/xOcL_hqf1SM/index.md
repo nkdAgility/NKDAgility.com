@@ -3,7 +3,7 @@ title: What 5 things must you achieve before you call yourself an agilecoach. Pa
 description: 'Discover the third essential achievement for aspiring #AgileCoaches with Martin Hinshelwood. Elevate your skills and empower teams to thrive!'
 date: 2023-11-15T11:01:00Z
 ResourceId: xOcL_hqf1SM
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: xOcL_hqf1SM
@@ -16,39 +16,38 @@ aliases:
 - /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-3
 - /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-3
 - /resources/xOcL_hqf1SM
+aliasesFor404:
+- /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-3
+- /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-3
 preview: https://i.ytimg.com/vi/xOcL_hqf1SM/maxresdefault.jpg
 duration: 64
 isShort: false
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Scrum Master
+- Scrum Team
+- Technical Mastery
+- Agile Coaching
+- Agile Tools
+- Continuous Improvement
+- Agile Planning
+- Agile Values and Principles
+- Discovery and Learning
+- Lean Thinking
+- Agile Software Development
+- Agile Mentoring
+- Agile Frameworks
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scrum
+- Technical Excellence
+- Practical Techniques and Tooling
+- Discovery and Learning
+- People and Process
 
 ---
  Martin Hinshelwood walks us through the third thing you must achieve before you can call yourself an #agilecoach 

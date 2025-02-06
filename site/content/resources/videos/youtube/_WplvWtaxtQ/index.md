@@ -3,7 +3,7 @@ title: Why Every Scrum Master Needs an Immersive Training Experience
 description: Discover why the PSM immersive learning experience is perfect for aspiring Scrum Masters. Elevate your skills and thrive in accountability with NKD Agility!
 date: 2023-11-21T07:00:21Z
 ResourceId: _WplvWtaxtQ
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: _WplvWtaxtQ
@@ -19,36 +19,34 @@ aliases:
 - /resources/videos/why-do-you-think-the-psm-immersive-learning-experience-is-a-great-fit-for-aspiring-scrum-masters
 - /resources/why-do-you-think-the-psm-immersive-learning-experience-is-a-great-fit-for-aspiring-scrum-masters
 - /resources/_WplvWtaxtQ
+aliasesFor404:
+- /resources/why-every-scrum-master-needs-an-immersive-training-experience
+- /resources/videos/why-do-you-think-the-psm-immersive-learning-experience-is-a-great-fit-for-aspiring-scrum-masters
+- /resources/why-do-you-think-the-psm-immersive-learning-experience-is-a-great-fit-for-aspiring-scrum-masters
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Scrum Master
+- Agile Coaching
+- Scrum Team
+- Continuous Learning
+- Team Collaboration
+- Agile Certification
+- Technical Excellence
+- Agile Values and Principles
+- Employee Engagement
+- Agile Transformation
+- Coaching
+- Agile Methodology
+- Team Performance
 resourceTypes:
 - video
 layout: video
+categories:
+- Scrum
+- People and Process
+- Discovery and Learning
 
 ---
 In the world of Scrum, being a Scrum Master is about more than just following the process or scheduling meetings. It's about truly understanding the role, maximizing value, and driving the effectiveness of the teams you work with. Yet, too often, we encounter Scrum Masters who, due to a lack of experience or depth of knowledge, unintentionally inhibit the potential of their teams.

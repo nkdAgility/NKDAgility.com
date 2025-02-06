@@ -2,14 +2,13 @@
 title: Do you know when to send a done email in Scrum?
 description: Learn when to send a 'done' email in Scrum to enhance communication and ensure task completion. Boost your team's efficiency with these essential tips!
 ResourceId: iHdkPl8gwwm
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 51
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-04-14
 creator: Martin Hinshelwood
-id: "51"
 layout: blog
 resourceTypes: blog
 slug: do-you-know-when-to-send-a-done-email-in-scrum
@@ -25,17 +24,13 @@ aliasesFor404:
 - /blog/do-you-know-when-to-send-a-done-email-in-scrum
 - /do-you-know-when-to-send-a-done-email-in-scrum-
 - /blog/do-you-know-when-to-send-a-done-email-in-scrum-
+- /resources/blog/do-you-know-when-to-send-a-done-email-in-scrum
 tags:
-- configuration
-- infrastructure
-- practices
-- scrum
-- sharepoint
-- spf2010
-- ssw
+- Definition of Done
+- Scrum Team
 categories:
-- people-and-process
-- tools-and-techniques
+- Scrum
+- People and Process
 preview: metro-sharepoint-128-link-3-3.png
 
 ---

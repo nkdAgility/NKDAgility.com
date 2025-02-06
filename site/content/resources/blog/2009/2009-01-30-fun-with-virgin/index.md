@@ -2,14 +2,13 @@
 title: Fun with Virgin+
 description: Join Martin as he navigates the challenges of setting up Virgin+ while preparing for a new arrival. Discover his clever solutions and personal insights!
 ResourceId: PHUHjUVq45E
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 141
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-01-30
 creator: Martin Hinshelwood
-id: "141"
 layout: blog
 resourceTypes: blog
 slug: fun-with-virgin
@@ -25,9 +24,13 @@ aliasesFor404:
 - /blog/fun-with-virgin
 - /fun-with-virgin+
 - /blog/fun-with-virgin+
+- /resources/blog/fun-with-virgin
 categories:
-- me
+- Install and Configuration
 preview: nakedalm-logo-128-link-3-3.png
+tags:
+- Customer Satisfaction
+- Agile Software Development
 
 ---
 We are getting a new carpet tomorrow… my wife is 8 and a half months pregnant and she’s nesting…

@@ -3,7 +3,7 @@ title: Automate Everything - Building Reliable, Fast, and Scalable Products
 description: Discover how automation transforms software development, enhancing reliability and speed. Learn to build scalable products and outpace competitors!
 date: 2025-01-15T06:45:00Z
 ResourceId: tKEl0YVeWv4
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: tKEl0YVeWv4
@@ -17,18 +17,37 @@ aliases:
 - /resources/videos/automate-everything-building-reliable,-fast,-and-scalable-products
 - /resources/automate-everything-building-reliable,-fast,-and-scalable-products
 - /resources/tKEl0YVeWv4
+aliasesFor404:
+- /resources/videos/automate-everything-building-reliable,-fast,-and-scalable-products
+- /resources/automate-everything-building-reliable,-fast,-and-scalable-products
 preview: https://i9.ytimg.com/vi/tKEl0YVeWv4/maxresdefault.jpg?sqp=CKDMmrwG&rs=AOn4CLA3dRTcLKc5KZt_uc_-QOOambvXxw
 duration: 477
 isShort: false
 tags:
-- Deployment frequency
-- Devops
-- Developers
+- Automated Testing
+- Continuous Integration
+- Continuous Delivery
+- Azure DevOps
+- Agile Software Development
+- Technical Excellence
+- Value Delivery
+- Site Reliability
+- Agile Product Management
+- Customer Feedback Loops
+- Lean Thinking
+- Agile Digital Tools
+- Evidence Based Management
 resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+categories:
+- AI and Automation in Agility
+- DevOps
+- Technical Excellence
+- Value Delivery
+- Application Lifecycle Management
 
 ---
  Automate Everything: Building Reliable, Fast, and Scalable Products

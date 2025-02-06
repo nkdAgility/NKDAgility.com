@@ -3,7 +3,7 @@ title: How would you like to be remembered as a Professional Scrum Trainer?  Wh
 description: Discover how to leave a lasting legacy as a Professional Scrum Trainer and empower teams to thrive in agile environments. Join the journey!
 date: 2023-04-19T07:00:06Z
 ResourceId: Dl5v4j1f-WE
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Dl5v4j1f-WE
@@ -21,16 +21,35 @@ aliases:
 - /resources/videos/Dl5v4j1f-WE
 - /resources/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-
 - /resources/Dl5v4j1f-WE
+aliasesFor404:
+- /resources/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-what-3-things-matter-most-to-you
+- /resources/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer
+- /resources/videos/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-
+- /resources/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- Scrum Trainer
-- Professional Scrum Trainer
-- PST
+- Scrum Values
+- Professional Scrum
+- Scrum Team
+- Accountability
+- Continuous Improvement
+- Transparency
+- Agile Values and Principles
+- Agile Community
+- Agile Mentoring
+- Evidence Based Leadership
+- Coaching
+- Employee Engagement
+- Organisational Culture
+- Technical Excellence
 resourceTypes:
 - video
+categories:
+- Scrum
+- Transparency and Accountability
+- Organisational Psychology
 
 ---
 ## My Professional Scrum Trainer Legacy: What Matters Most to Me?

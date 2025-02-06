@@ -2,14 +2,13 @@
 title: Combining Scrum, TFS2010 and Email to keep everyone in the loop
 description: Discover how to effectively combine Scrum, TFS2010, and email to enhance team collaboration and keep everyone informed. Streamline your project management today!
 ResourceId: aU3PspgaeEN
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 48
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-04-28
 creator: Martin Hinshelwood
-id: "48"
 layout: blog
 resourceTypes: blog
 slug: combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop
@@ -29,21 +28,13 @@ aliasesFor404:
 - /blog/combining-scrum,-tfs2010-and-email-to-keep-everyone-in-the-loop
 - /combining-scrum--tfs2010-and-email-to-keep-everyone-in-the-loop
 - /blog/combining-scrum--tfs2010-and-email-to-keep-everyone-in-the-loop
+- /resources/blog/combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop
 tags:
-- agile
-- people
-- process
-- scrum
-- sharepoint
-- spf2010
-- ssw
-- tfs
-- tfs2008
-- tfs2010
-- tools
+- Team Collaboration
 categories:
-- people-and-process
-- tools-and-techniques
+- People and Process
+- Azure DevOps
+- Scrum
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

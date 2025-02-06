@@ -3,7 +3,7 @@ title: 'Mastering Evidence-Based Management (EBM) for Product Owners: Maximizing
 description: Unlock product success with the PAL EBM course! Discover how evidence-based management empowers product owners to make informed decisions and maximise value.
 date: 2024-01-29T07:00:07Z
 ResourceId: Af-wBYtyyRU
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Af-wBYtyyRU
@@ -20,36 +20,35 @@ aliases:
 - /resources/videos/Af-wBYtyyRU
 - /resources/evidence-based-management-for-product-owners!-why-is-this-a-great-option-
 - /resources/Af-wBYtyyRU
+aliasesFor404:
+- /resources/mastering-evidence-based-management-ebm-for-product-owners-maximizing-value-delivery
+- /resources/videos/evidence-based-management-for-product-owners!-why-is-this-a-great-option-
+- /resources/evidence-based-management-for-product-owners!-why-is-this-a-great-option-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Evidence-based management
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Evidence Based Management
+- Agile Product Ownership
+- Ability to Innovate
+- Value Delivery
+- Customer Feedback Loops
+- Decision Making
+- Continuous Improvement
+- Team Collaboration
+- Strategic Goals
+- Agile Planning
+- Product Strategy
+- Data Driven Decisions
+- Team Motivation
 resourceTypes:
 - video
+categories:
+- Value Delivery
+- Metrics and Learning
+- Agile Product Management
+- Discovery and Learning
+- People and Process
 
 ---
 As a product owner, you’re essentially the mini-CEO of your product. You make critical decisions about which features to build and when, driving the success of your product. But how do you know which bets will pay off? How do you make informed decisions that steer your product toward success? This is where Evidence-Based Management (EBM) comes into play. It's a framework that helps product owners use real data to guide their decision-making and ensure they’re delivering maximum value.

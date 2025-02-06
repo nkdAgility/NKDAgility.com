@@ -2,33 +2,45 @@
 title: Stop Promoting Branches
 description: Explore how audience-based deployment, also known as ring-based deployment, challenges traditional environments, accelerates feedback, and transforms continuous delivery.
 ResourceId: x7ra7pQCDX5
-ResourceImport: false
+ResourceType: blog
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
 date: 2025-02-06T09:00:00
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
-  - name: Benjamin Day
-    external: https://www.linkedin.com/in/benjaminpday/
+- name: Benjamin Day
+  external: https://www.linkedin.com/in/benjaminpday/
 layout: blog
 resourceTypes: blog
 slug: stop-promoting-branches
 aliases:
-  - /resources/x7ra7pQCDX5
+- /resources/x7ra7pQCDX5
 aliasesFor404:
+- /stop-promoting-branches
+- /blog/stop-promoting-branches
 tags:
-  - branching-strategies
-  - devops
-  - branch-by-environment
-  - git-flow
-  - github-flow
-  - release-flow
+- Deployment Frequency
+- Continuous Delivery
+- Agile Software Development
+- Agile Product Management
+- Technical Excellence
+- Value Delivery
+- Agile Transformation
+- Agile Values and Principles
+- Lean Principles
+- Evidence Based Management
+- Organisational Agility
+- Agile Frameworks
+- Systems Thinking
 categories:
-  - software-engineering
-  - devops
-  - product-delivery
+- Code and Complexity
+- Organisational Agility
+- Practical Techniques and Tooling
 preview: 2025-02-06-stop-promoting-branches.jpg
----
 
+---
 The traditional Dev → Test → Staging → Production model is flawed, leading to unnecessary complexity and reinforcing outdated software delivery patterns. This breakdown explains why branch promotion is a failure mode, why GitHub Flow and Release Flow are reasonable alternatives, and why Git Flow belongs in the bin.
 
 ## TL;DR

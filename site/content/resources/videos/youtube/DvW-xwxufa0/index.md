@@ -3,7 +3,7 @@ title: 'The Limits of Self-Taught Learning: Why External Perspectives Matter'
 description: Discover the pitfalls of self-taught learning and the power of diverse insights in consulting. Embrace continuous learning for better solutions!
 date: 2024-08-22T07:00:08Z
 ResourceId: DvW-xwxufa0
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: DvW-xwxufa0
@@ -20,19 +20,35 @@ aliases:
 - /resources/videos/DvW-xwxufa0
 - /resources/can-you-walk-us-through-your-consulting-process-what-methodologies-and-tools-do-you-employ-
 - /resources/DvW-xwxufa0
+aliasesFor404:
+- /resources/the-limits-of-self-taught-learning-why-external-perspectives-matter
+- /resources/videos/can-you-walk-us-through-your-consulting-process-what-methodologies-and-tools-do-you-employ-
+- /resources/can-you-walk-us-through-your-consulting-process-what-methodologies-and-tools-do-you-employ-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Azure DevOps
-- Azure DevOps migration
-- Azure DevOps migration services
-- DevOps
-- DevOps migration
-- DevOps consulting
-- DevOps consultant
+- Continuous Learning
+- Agile Coaching
+- Team Collaboration
+- Change Management
+- Systems Thinking
+- Technical Mastery
+- Discovery and Learning
+- Employee Engagement
+- Organisational Agility
+- Agile Product Discovery
+- Evidence Based Management
+- Agile Leadership
+- Customer Feedback Loops
 resourceTypes:
 - video
+categories:
+- Discovery and Learning
+- People and Process
+- Organisational Agility
+- Technical Excellence
+- DevOps
 
 ---
 In today’s fast-paced digital landscape, the concept of self-taught learning is more prevalent than ever. However, as we dive deeper into the realms of software development, DevOps, and organizational transformation, it's crucial to recognize the limitations that come with learning in isolation. While self-taught knowledge has its merits, there are significant benefits to bringing in external expertise. This post explores the importance of diverse knowledge and how it can help organizations break through the barriers that self-taught learning often creates.

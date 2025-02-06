@@ -3,7 +3,7 @@ title: 7 Harbingers of the Agile apocalypse. Silence.
 description: "Uncover the silence in agile teams! Join Martin as he explores stakeholder engagement and communication strategies for effective Sprint reviews. \U0001F5E3️\U0001F91D"
 date: 2023-10-23T11:00:23Z
 ResourceId: YuKD3WWFJNQ
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: YuKD3WWFJNQ
@@ -20,40 +20,35 @@ aliases:
 - /resources/videos/YuKD3WWFJNQ
 - /resources/silence!-7-harbingers-agile-apocalypse-
 - /resources/YuKD3WWFJNQ
+aliasesFor404:
+- /resources/7-harbingers-of-the-agile-apocalypse-silence
+- /resources/videos/silence!-7-harbingers-agile-apocalypse-
+- /resources/silence!-7-harbingers-agile-apocalypse-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
-- Agile leadership
-- Agile leader
-- Leadership
-- 7 signs
-- agile-pocalypse
-- agile-apocalypse
+- Agile Apocalypse
+- Team Collaboration
+- Sprint Review
+- Scrum Product Management
+- Psychological Safety
+- Agile Product Discovery
+- Value Prioritisation
+- Agile Product Ownership
+- Continuous Improvement
+- Employee Engagement
+- Agile Planning
+- Agile Values and Principles
+- Agile Transformation
 resourceTypes:
 - video
+categories:
+- People and Process
+- Organisational Agility
+- Agile Product Management
+- Value Delivery
+- Transparency and Accountability
 
 ---
 # Breaking the Silence: Sparking Engagement in Agile Teams 🚀

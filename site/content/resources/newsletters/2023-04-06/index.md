@@ -1,16 +1,44 @@
 ---
-id: "49022"
-title: "April 2023 NKDAgility: Applying Professional Scrum"
-date: "2023-04-06"
-author: "MrHinsh"
+title: 'April 2023 NKDAgility: Applying Professional Scrum'
+description: Unlock your Scrum potential! Join our Applying Professional Scrum course to enhance your team's effectiveness and drive continuous improvement.
+ResourceId: WAc9JUyPY5M
+ResourceImport: true
+ResourceType: newsletters
+date: 2023-04-06
+author: MrHinsh
 resourceTypes: newsletter
 layout: newsletter
-slug: "april-2023-nkdagility-applying-professional-scrum"
+slug: april-2023-nkdagility-applying-professional-scrum
 aliases:
-  - /newsletters/april-2023-nkdagility-applying-professional-scrum/
-  - /resources/newsletters/april-2023-nkdagility-applying-professional-scrum/
----
+- /newsletters/april-2023-nkdagility-applying-professional-scrum/
+- /resources/newsletters/april-2023-nkdagility-applying-professional-scrum/
+- /resources/WAc9JUyPY5M
+aliasesFor404:
+- /newsletters/april-2023-nkdagility-applying-professional-scrum/
+- /resources/newsletters/april-2023-nkdagility-applying-professional-scrum/
+categories:
+- Scrum
+- Transparency and Accountability
+- Value Delivery
+- People and Process
+- Metrics and Learning
+tags:
+- Professional Scrum
+- Scrum Team
+- Scrum Product Management
+- Continuous Improvement
+- Empirical Process Control
+- Transparency
+- Agile Product Management
+- Agile Coaching
+- Agile Product Discovery
+- Customer Feedback Loops
+- Agile Leadership
+- Agile Software Development
+- Agile Values and Principles
+- Agile Transformation
 
+---
 Learning about scrum is important, but growing your capability to deploy and implement scrum effectively is way more important.
 
 All the theory in the world doesn’t help if your team are grappling with the action elements. Actively doing the work, creating the product implement, integrating customer feedback and data into decision-making for the next product evolution. It often isn’t scrum that is the problem, it is a fundamental lack of knowledge and understanding around the core pillars of Empiricism that under pin scrum.

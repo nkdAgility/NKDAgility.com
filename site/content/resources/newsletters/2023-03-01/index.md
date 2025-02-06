@@ -1,17 +1,33 @@
 ---
-id: "48818"
-title: "March 2023 NKDAgility: The magic of immersive classes"
-date: "2023-03-01"
-preview: "naked-agility-technically-agile-1280×720-March2023.jpg"
-author: "MrHinsh"
+title: 'March 2023 NKDAgility: The magic of immersive classes'
+description: Transform your learning with our Immersion Program! Engage in real-world applications over 8 weeks, enhancing skills through practical experience and collaboration.
+ResourceId: Y8ySIcajwoP
+ResourceImport: true
+ResourceType: newsletters
+date: 2023-03-01
+preview: naked-agility-technically-agile-1280×720-March2023.jpg
+author: MrHinsh
 resourceTypes: newsletter
 layout: newsletter
-slug: "march-2023-nkdagility-the-magic-of-immersive-classes"
+slug: march-2023-nkdagility-the-magic-of-immersive-classes
 aliases:
-  - /newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
-  - /resources/newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
----
+- /newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
+- /resources/newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
+- /resources/Y8ySIcajwoP
+aliasesFor404:
+- /newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
+- /resources/newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
+categories:
+- Scrum
+- Discovery and Learning
+- People and Process
+- Value Delivery
+- Organisational Agility
+tags:
+- Scrum Team
+- Value Delivery
 
+---
 While all of our courses are centred around valuable learning outcomes achieved through experiential learning within a classroom environment, they are most often delivered as intense consecutive 2-day or 4-half-day experiences.
 
 This compresses learning into a short space of time and minimises not only the amount that folks remember but also denies them the ability to try things and come back to the trainer.

@@ -3,7 +3,7 @@ title: What Does an Ineffective Scrum Master's Day Look Like?
 description: 'Discover the pitfalls of an ineffective scrum master in this insightful short video by Martin Hinshelwood. Learn what to avoid for agile success! #scrum #agile'
 date: 2023-06-20T12:00:28Z
 ResourceId: KjSRjkK6OL0
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: KjSRjkK6OL0
@@ -20,15 +20,34 @@ aliases:
 - /resources/videos/KjSRjkK6OL0
 - /resources/what-does-an-ineffective-scrum-master's-day-look-like-
 - /resources/KjSRjkK6OL0
+aliasesFor404:
+- /resources/what-does-an-ineffective-scrum-masters-day-look-like
+- /resources/videos/what-does-an-ineffective-scrum-master's-day-look-like-
+- /resources/what-does-an-ineffective-scrum-master's-day-look-like-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- scrum
-- scrummaster
-- scrum master
+- Scrum Team
+- Scrum Values
+- Agile Transformation
+- Team Motivation
+- Team Collaboration
+- Continuous Improvement
+- Psychological Safety
+- Agile Methodology
+- Accountability
+- Employee Engagement
+- Agile Coaching
+- Agile Software Development
+- Agile Project Management
+- Technical Excellence
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Organisational Psychology
 
 ---
 ## Spotting an Ineffective Scrum Master's Day

@@ -3,7 +3,7 @@ title: Why its imposible to order a hierarchy, and what you can do instead!
 description: "Revolutionise your project management! Discover why rigid backlog hierarchies hinder agility and explore flexible, value-focused alternatives. \U0001F30D\U0001F4A1"
 date: 2024-03-26T10:56:26Z
 ResourceId: ZBb8OZ0I6qA
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: ZBb8OZ0I6qA
@@ -16,23 +16,39 @@ aliases:
 - /resources/videos/why-its-imposible-to-order-a-hierarchy,-and-what-you-can-do-instead!
 - /resources/why-its-imposible-to-order-a-hierarchy,-and-what-you-can-do-instead!
 - /resources/ZBb8OZ0I6qA
+aliasesFor404:
+- /resources/videos/why-its-imposible-to-order-a-hierarchy,-and-what-you-can-do-instead!
+- /resources/why-its-imposible-to-order-a-hierarchy,-and-what-you-can-do-instead!
 preview: https://i.ytimg.com/vi/ZBb8OZ0I6qA/maxresdefault.jpg
 duration: 1156
 isShort: false
 tags:
-- ADO
-- AzDO
-- VSTS
-- Visual Studio Team System
-- TFS Online
-- TFS
-- Team Foundation Server
+- Agile Planning
+- Product Backlog
+- Scrum Product Management
+- Scrum Team
+- Agile Tools
+- Azure DevOps
+- Value Prioritisation
+- Continuous Improvement
+- Agile Product Management
+- Agile Software Development
+- Lean Thinking
+- Systems Thinking
+- Evidence Based Management
+- Agile Values and Principles
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Value Delivery
+- Agile Product Management
+- Scrum
+- Practical Techniques and Tooling
+- Azure DevOps
 
 ---
  Discover how to revolutionize your project management approach by ditching traditional backlog hierarchies for a more flexible, value-focused system.

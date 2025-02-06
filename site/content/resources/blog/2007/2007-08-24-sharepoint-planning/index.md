@@ -2,14 +2,13 @@
 title: Sharepoint planning
 description: Discover effective SharePoint deployment strategies for large organizations. Learn about its powerful architecture and MySites features to enhance collaboration.
 ResourceId: NWq41MdV9s6
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 320
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-24
 creator: Martin Hinshelwood
-id: "320"
 layout: blog
 resourceTypes: blog
 slug: sharepoint-planning
@@ -21,9 +20,14 @@ aliases:
 aliasesFor404:
 - /sharepoint-planning
 - /blog/sharepoint-planning
+- /resources/blog/sharepoint-planning
 tags:
-- moss2007
+- Deployment Strategies
+- Agile Planning
 preview: nakedalm-logo-128-link-1-1.png
+categories:
+- Install and Configuration
+- Value Delivery
 
 ---
 I have been asking one of my colleagues for information on Sharepoint and how to deploy it to large organizations. He intoned that he new how not to do it and pointed me towards a particular [post](http://blogs.msdn.com/sharepoint/archive/2007/04/09/investing-in-logical-architecture-design-samples.aspx "Sharepoint planning") that defines a very effective deployment method.

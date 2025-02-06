@@ -3,7 +3,7 @@ title: Why do you encourage people to follow a certification path in their caree
 description: Discover why certification is essential for mastering Agile roles. Join Martin Hinshelwood as he guides you on the path to Scrum expertise!
 date: 2023-03-07T07:00:09Z
 ResourceId: _fFs-0GL1CA
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: _fFs-0GL1CA
@@ -15,17 +15,26 @@ aliases:
 - /resources/videos/why-do-you-encourage-people-to-follow-a-certification-path-in-their-career-journey-
 - /resources/why-do-you-encourage-people-to-follow-a-certification-path-in-their-career-journey-
 - /resources/_fFs-0GL1CA
+aliasesFor404:
+- /resources/videos/why-do-you-encourage-people-to-follow-a-certification-path-in-their-career-journey-
+- /resources/why-do-you-encourage-people-to-follow-a-certification-path-in-their-career-journey-
 preview: https://i.ytimg.com/vi/_fFs-0GL1CA/maxresdefault.jpg
 duration: 372
 isShort: false
 tags:
-- Scrum
-- Scrum Training
-- Agile
-- Agile Scrum Training
-- Scrum Certification
-- Scrum Master
-- Product Owner
+- Agile Certification
+- Scrum Team
+- Definition of Done
+- Continuous Learning
+- Professional Scrum
+- Agile Product Management
+- Agile Product Validation
+- Evidence Based Improvement
+- Technical Mastery
+- Value Delivery
+- Agile Methodology
+- Discovery and Learning
+- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -33,6 +42,12 @@ source: youtube
 layout: video
 resourceTypes:
 - video
+categories:
+- Scrum
+- Metrics and Learning
+- Discovery and Learning
+- People and Process
+- Technical Excellence
 
 ---
  The world of #agile is inherently complex. If building complex solutions or solving complex problems was a straightforward process of observing a formula, traditional #projectmanagement would do the trick and there would be no need for #agile or #scrum.

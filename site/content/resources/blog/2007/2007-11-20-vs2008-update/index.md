@@ -2,14 +2,13 @@
 title: VS2008 Update
 description: Explore the latest updates in Visual Studio 2008, including Team Explorer integration and tips for a smooth upgrade from Beta 2. Stay ahead in your projects!
 ResourceId: EbUyy4iPQCa
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 291
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-11-20
 creator: Martin Hinshelwood
-id: "291"
 layout: blog
 resourceTypes: blog
 slug: vs2008-update
@@ -21,17 +20,13 @@ aliases:
 aliasesFor404:
 - /vs2008-update
 - /blog/vs2008-update
+- /resources/blog/vs2008-update
 tags:
-- code
-- infrastructure
-- moss2007
-- process
-- sharepoint
-- sp2007
-- visual-studio
-- vs2008
+- Agile Software Development
+- Modern Source Control
 categories:
-- upgrade-and-maintenance
+- Install and Configuration
+- Application Lifecycle Management
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

@@ -2,14 +2,13 @@
 title: Creating a custom proxy class
 description: Learn to create a custom proxy class in .NET 3.0 for better maintainability and less code. Enhance your service-oriented architecture skills today!
 ResourceId: S4XG-Is-FHq
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 326
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-20
 creator: Martin Hinshelwood
-id: "326"
 layout: blog
 resourceTypes: blog
 slug: creating-a-custom-proxy-class
@@ -21,13 +20,13 @@ aliases:
 aliasesFor404:
 - /creating-a-custom-proxy-class
 - /blog/creating-a-custom-proxy-class
+- /resources/blog/creating-a-custom-proxy-class
 tags:
-- code
-- service-oriented-architecture
-- tools
+- Agile Software Development
+- Technical Excellence
 categories:
-- code-and-complexity
-- me
+- Application Lifecycle Management
+- Code and Complexity
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

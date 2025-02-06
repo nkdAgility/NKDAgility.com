@@ -2,14 +2,13 @@
 title: 'Issue SharePoint 2013: The username is invalid. The account must be a valid domain account'
 description: Resolve the SharePoint 2013 username error with our step-by-step guide. Learn how to configure your farm using PowerShell for a smooth setup!
 ResourceId: nckpcFbyvfv
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 7015
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-07
 creator: Martin Hinshelwood
-id: "7015"
 layout: blog
 resourceTypes: blog
 slug: issue-sharepoint-2013-the-username-is-invalid-the-account-must-be-a-valid-domain-account
@@ -25,11 +24,12 @@ aliasesFor404:
 - /blog/issue-sharepoint-2013-the-username-is-invalid-the-account-must-be-a-valid-domain-account
 - /issue-sharepoint-2013--the-username-is-invalid--the-account-must-be-a-valid-domain-account
 - /blog/issue-sharepoint-2013--the-username-is-invalid--the-account-must-be-a-valid-domain-account
+- /resources/blog/issue-sharepoint-2013-the-username-is-invalid-the-account-must-be-a-valid-domain-account
 tags:
-- puzzles
-- sharepoint
+- Technical Excellence
+- Agile Software Development
 categories:
-- problems-and-puzzles
+- Install and Configuration
 preview: metro-problem-icon-5-5.png
 
 ---

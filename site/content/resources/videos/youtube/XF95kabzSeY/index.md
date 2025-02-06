@@ -3,7 +3,7 @@ title: ' shorts 5 things you would teach a productowner apprentice. Part 2'
 description: 'Join Martin Hinshelwood in Part 2 as he shares 5 essential lessons for aspiring product owners. Elevate your skills in agile and scrum! #shorts'
 date: 2023-12-14T11:00:22Z
 ResourceId: XF95kabzSeY
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: XF95kabzSeY
@@ -16,39 +16,39 @@ aliases:
 - /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-2
 - /resources/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-2
 - /resources/XF95kabzSeY
+aliasesFor404:
+- /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-2
+- /resources/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-2
 preview: https://i.ytimg.com/vi/XF95kabzSeY/maxresdefault.jpg
 duration: 67
 isShort: false
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Product Owner
+- Agile Product Ownership
+- Scrum Team
+- Agile Planning
+- Agile Product Discovery
+- Agile Mentoring Program
+- Agile Coaching
+- Scrum Product Management
+- Continuous Improvement
+- Agile Software Development
+- Customer Feedback Loops
+- Agile Values and Principles
+- Team Collaboration
+- Agile Community
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Agile Product Management
+- Scrum
+- People and Process
+- Discovery and Learning
+- Events and Presentations
 
 ---
  #shorts #shortvideo #shortsvideo Martin Hinshelwood walks us through the 5 things he would teach an apprenticeship #productowner. This is part 2. To watch the full video, visit https://youtu.be/Tye_-FY7boo

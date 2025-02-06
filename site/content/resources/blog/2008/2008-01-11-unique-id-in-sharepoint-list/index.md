@@ -2,14 +2,13 @@
 title: Unique ID in SharePoint list
 description: Discover how to display a unique auto-generated ID in your SharePoint list effortlessly. Enhance your SharePoint experience with this essential guide!
 ResourceId: IydVW3AXWCp
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 265
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-01-11
 creator: Martin Hinshelwood
-id: "265"
 layout: blog
 resourceTypes: blog
 slug: unique-id-in-sharepoint-list
@@ -21,15 +20,11 @@ aliases:
 aliasesFor404:
 - /unique-id-in-sharepoint-list
 - /blog/unique-id-in-sharepoint-list
+- /resources/blog/unique-id-in-sharepoint-list
 tags:
-- answers
-- configuration
-- infrastructure
-- sharepoint
-- sp2007
-- tools
+- Agile Software Development
 categories:
-- code-and-complexity
+- Install and Configuration
 preview: metro-sharepoint-128-link-2-1.png
 
 ---

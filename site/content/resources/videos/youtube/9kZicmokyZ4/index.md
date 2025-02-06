@@ -3,7 +3,7 @@ title: The Importance of Evidence-Based Management in Agile Environments
 description: 'Discover 5 compelling reasons to adopt Evidence-Based Management in your Agile environment. Transform your approach and drive measurable success! #EBM #Agile #Shorts'
 date: 2024-01-22T11:00:07Z
 ResourceId: 9kZicmokyZ4
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 9kZicmokyZ4
@@ -20,36 +20,32 @@ aliases:
 - /resources/videos/9kZicmokyZ4
 - /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-1
 - /resources/9kZicmokyZ4
+aliasesFor404:
+- /resources/the-importance-of-evidence-based-management-in-agile-environments
+- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-1
+- /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-1
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Evidence-based management
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Evidence Based Management
+- Decision Theory
+- Change Management
+- Continuous Improvement
+- Value Delivery
+- Agile Strategy
+- Business Agility
+- Data Driven Decisions
+- Agile Planning
+- Systems Thinking
+- Evidence Based Improvement
+- Agile Transformation
 resourceTypes:
 - video
+categories:
+- Metrics and Learning
+- Value Delivery
+- Organisational Agility
 
 ---
 In today’s fast-paced, ever-evolving business world, it’s not enough to simply make changes and hope for the best. We need to understand the true impact of our actions—whether they’re improving or hindering our overall success. This is where evidence-based management comes into play. If you're working in an Agile environment, it’s essential to have the right tools in place to measure success and progress effectively.

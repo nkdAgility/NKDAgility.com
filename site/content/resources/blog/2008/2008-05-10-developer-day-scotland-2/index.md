@@ -2,14 +2,13 @@
 title: Developer day Scotland!
 description: Join Developer Day Scotland on May 10, 2008, at Glasgow Caledonian University for networking, learning, and a fun Geek Dinner. Don't miss out!
 ResourceId: R2pvi8SYo_y
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 230
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-05-10
 creator: Martin Hinshelwood
-id: "230"
 layout: blog
 resourceTypes: blog
 slug: developer-day-scotland-2
@@ -25,9 +24,13 @@ aliasesFor404:
 - /blog/developer-day-scotland-2
 - /developer-day-scotland-
 - /blog/developer-day-scotland-
+- /resources/blog/developer-day-scotland-2
 categories:
-- me
+- Events and Presentations
 preview: nakedalm-logo-128-link-1-1.png
+tags:
+- Agile Community
+- Team Collaboration
 
 ---
 [![](images/GetReady1-large.png)](http://developerdayscotland.com/main/Default.aspx) Its the main event tomorrow...

@@ -2,14 +2,13 @@
 title: 'Guidance: How to layout you files for an Ideal Solution'
 description: Master the art of file layout for maintainable solutions in TFS. Discover best practices and enhance your development workflow with expert guidance.
 ResourceId: qHU7H_raZge
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 42
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-05-17
 creator: Martin Hinshelwood
-id: "42"
 layout: blog
 resourceTypes: blog
 slug: guidance-how-to-layout-you-files-for-an-ideal-solution
@@ -25,27 +24,12 @@ aliasesFor404:
 - /blog/guidance-how-to-layout-you-files-for-an-ideal-solution
 - /guidance--how-to-layout-you-files-for-an-ideal-solution
 - /blog/guidance--how-to-layout-you-files-for-an-ideal-solution
+- /resources/blog/guidance-how-to-layout-you-files-for-an-ideal-solution
 tags:
-- code
-- codeproject
-- configuration
-- develop
-- infrastructure
-- practices
-- scrum
-- ssw
-- tfs-build
-- tfs
-- tfs2005
-- tfs2008
-- tfs2010
-- tools
-- visual-studio
-- vs2008
-- vs2010
+- Modern Source Control
+- Agile Software Development
 categories:
-- code-and-complexity
-- tools-and-techniques
+- Azure DevOps
 preview: metro-visual-studio-2010-128-link-11-11.png
 
 ---

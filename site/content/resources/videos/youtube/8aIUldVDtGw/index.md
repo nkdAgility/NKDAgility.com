@@ -3,7 +3,7 @@ title: 'Stop Starting and Start Finishing: The Key to Team Success'
 description: Unlock Agile success! Learn to "stop starting and start finishing" for enhanced productivity and team effectiveness. Watch now for valuable insights!
 date: 2024-01-31T14:26:11Z
 ResourceId: 8aIUldVDtGw
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 8aIUldVDtGw
@@ -20,35 +20,37 @@ aliases:
 - /resources/videos/8aIUldVDtGw
 - /resources/stop-starting-and-start-finishing!
 - /resources/8aIUldVDtGw
+aliasesFor404:
+- /resources/stop-starting-and-start-finishing-the-key-to-team-success
+- /resources/videos/stop-starting-and-start-finishing!
+- /resources/stop-starting-and-start-finishing!
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Lean Thinking
+- Scrum Product Management
+- Scrum Team
+- Value Prioritisation
+- Cycle Time
+- Continuous Improvement
+- Systems Thinking
+- Agile Product Ownership
+- Team Collaboration
+- Flow Efficiency
+- Technical Excellence
+- Evidence Based Management
+- Agile Planning
+- Value Delivery
+- Self Organisation
 resourceTypes:
 - video
+categories:
+- Lean
+- Scrum
+- Value Delivery
+- Flow Efficiency
+- Systems Thinking
 
 ---
 In today's fast-paced business environment, there's often a misconception that the more tasks we juggle, the more productive we are. However, as many successful teams have realized, this couldn't be further from the truth. A popular quote from Lean methodology sums it up perfectly: **"Stop starting and start finishing."** This philosophy emphasizes the importance of focusing on completing work, rather than constantly starting new tasks.

@@ -1,12 +1,24 @@
 ---
-title: "Working from Paradise: A Quick Update"
-date: "2024-12-10"
-preview: "class-marketing-Q32021.jpg"
-author: "MrHinsh"
+title: 'Working from Paradise: A Quick Update'
+description: "\U0001F334 Martin is working from Cancun until Jan 23, 2025! Meetings continue as usual, just note the 5-hour time difference. Reach out anytime!"
+ResourceId: I3QFLrCOXnN
+ResourceImport: true
+ResourceType: newsletters
+date: 2024-12-10
+preview: class-marketing-Q32021.jpg
+author: MrHinsh
 resourceTypes: newsletter
 layout: newsletter
----
+aliases:
+- /resources/I3QFLrCOXnN
+categories:
+- Organisational Agility
+- People and Process
+- Market Adaptability
+tags:
+- Communication
 
+---
 Dear Valued Clients,
 
 I hope this note finds you well. I wanted to let you know about a temporary change in my working location that might affect our meeting schedules over the next few weeks.
@@ -38,4 +50,3 @@ I look forward to continuing our work together, albeit from a slightly more trop
 Best regards,
 Martin Hinshelwood
 Naked Agility Ltd.
-

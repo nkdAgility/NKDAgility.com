@@ -2,14 +2,13 @@
 title: Integrate SharePoint 2013 with Team Foundation Server 2013
 description: Learn to seamlessly integrate SharePoint 2013 with Team Foundation Server 2013 for enhanced project management and document handling. Boost your ALM skills!
 ResourceId: LDZObDXc6xV
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9916
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-29
 creator: Martin Hinshelwood
-id: "9916"
 layout: blog
 resourceTypes: blog
 slug: integrate-sharepoint-2013-with-team-foundation-server-2013
@@ -21,13 +20,13 @@ aliases:
 aliasesFor404:
 - /integrate-sharepoint-2013-with-team-foundation-server-2013
 - /blog/integrate-sharepoint-2013-with-team-foundation-server-2013
+- /resources/blog/integrate-sharepoint-2013-with-team-foundation-server-2013
 tags:
-- sharepoint
-- sharepoint-2013
-- tfs
-- tfs-2013
+- Agile Software Development
+- Agile Tools
 categories:
-- install-and-configuration
+- Install and Configuration
+- Azure DevOps
 
 ---
 You can integrate SharePoint 2013 with Team Foundation Server 2013 at any time and even link to your corporate SharePoint\*.

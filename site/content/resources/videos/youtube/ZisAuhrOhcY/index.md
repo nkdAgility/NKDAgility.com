@@ -3,7 +3,7 @@ title: My journey with Kanban and why I actively recommend it to clients.
 description: Discover my Kanban journey and why I recommend it to clients! Learn how it enhances workflow, transparency, and predictability across all industries.
 date: 2024-02-23T07:00:12Z
 ResourceId: ZisAuhrOhcY
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: ZisAuhrOhcY
@@ -20,21 +20,34 @@ aliases:
 - /resources/videos/ZisAuhrOhcY
 - /resources/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients-
 - /resources/ZisAuhrOhcY
+aliasesFor404:
+- /resources/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
+- /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients-
+- /resources/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Kanban
-- Kanban approach
-- Kanban coach
-- Kanban consultant
-- Kanban trainer
-- Kanban training
-- Kanban consulting
-- Kanban coaching
-- Kanban Guide
+- Kanban Theory
+- Agile Strategy
+- Agile Predictability
+- Transparency
+- Value Stream Management
+- Systems Thinking
+- Team Collaboration
+- Continuous Improvement
+- Agile Product Management
+- Scrum Team
+- Scrum Product Management
+- Agile Software Development
 resourceTypes:
 - video
+categories:
+- Kanban
+- Metrics and Learning
+- Value Stream Management
+- Transparency and Accountability
+- People and Process
 
 ---
 ### Embracing Kanban for Enhanced Workflow and Predictability

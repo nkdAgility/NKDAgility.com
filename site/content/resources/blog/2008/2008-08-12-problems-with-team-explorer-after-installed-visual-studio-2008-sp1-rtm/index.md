@@ -2,14 +2,13 @@
 title: Problems with Team Explorer after installed Visual Studio 2008 SP1 RTM
 description: Discover solutions for Team Explorer issues after installing Visual Studio 2008 SP1 RTM. Troubleshoot effectively and regain access to version control!
 ResourceId: DLSNF8iLvfk
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 210
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-08-12
 creator: Martin Hinshelwood
-id: "210"
 layout: blog
 resourceTypes: blog
 slug: problems-with-team-explorer-after-installed-visual-studio-2008-sp1-rtm
@@ -21,12 +20,14 @@ aliases:
 aliasesFor404:
 - /problems-with-team-explorer-after-installed-visual-studio-2008-sp1-rtm
 - /blog/problems-with-team-explorer-after-installed-visual-studio-2008-sp1-rtm
+- /resources/blog/problems-with-team-explorer-after-installed-visual-studio-2008-sp1-rtm
 tags:
-- aggreko
-- tools
-- visual-studio
-- vs2008
+- Modern Source Control
+- Technical Debt
 preview: metro-visual-studio-2005-128-link-1-1.png
+categories:
+- Install and Configuration
+- Azure DevOps
 
 ---
 I received the following error box after installing VS2008 SP1 RTM:

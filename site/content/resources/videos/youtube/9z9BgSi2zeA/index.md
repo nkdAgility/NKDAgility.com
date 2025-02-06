@@ -3,7 +3,7 @@ title: 'Hiring an Agile Coach: What to Look For in Both Technical and Leadership
 description: 'Discover 5 essential tips for hiring an #AgileCoach with Martin Hinshelwood in this insightful #shorts video. Make informed decisions for your team!'
 date: 2023-11-21T11:00:08Z
 ResourceId: 9z9BgSi2zeA
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 9z9BgSi2zeA
@@ -20,35 +20,34 @@ aliases:
 - /resources/videos/9z9BgSi2zeA
 - /resources/5-things-to-consider-before-hiring-an-agilecoach-part-2
 - /resources/9z9BgSi2zeA
+aliasesFor404:
+- /resources/hiring-an-agile-coach-what-to-look-for-in-both-technical-and-leadership-engagement
+- /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-2
+- /resources/5-things-to-consider-before-hiring-an-agilecoach-part-2
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Agile Coaching
+- Leadership Training
+- Business Agility
+- Agile Strategy
+- Organisational Agility
+- Technical Mastery
+- Change Management
+- Agile Values and Principles
+- Team Collaboration
+- Agile Transformation
+- Agile Community
+- Employee Engagement
+- Systems Thinking
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Technical Excellence
+- Enterprise Agility
 
 ---
 Hiring the right Agile coach is one of the most critical decisions an organization can make on its journey to becoming more Agile. It's not just about their ability to understand Scrum or Agile frameworks—it's about their ability to deeply engage with both the technical teams and leadership. They must gain credibility in both arenas to effectively drive the transformation.

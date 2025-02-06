@@ -2,14 +2,13 @@
 title: 'Office 2013 Issue: Installing Office 2013 breaks Visual Studio 2012'
 description: Discover how installing Office 2013 can disrupt Visual Studio 2012. Learn about the error, its causes, and essential workarounds to resolve the issue.
 ResourceId: ScEwWPyBqLw
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 6288
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-07-17
 creator: Martin Hinshelwood
-id: "6288"
 layout: blog
 resourceTypes: blog
 slug: office-2013-issue-installing-office-2013-breaks-visual-studio-2012
@@ -25,15 +24,12 @@ aliasesFor404:
 - /blog/office-2013-issue-installing-office-2013-breaks-visual-studio-2012
 - /office-2013-issue--installing-office-2013-breaks-visual-studio-2012
 - /blog/office-2013-issue--installing-office-2013-breaks-visual-studio-2012
+- /resources/blog/office-2013-issue-installing-office-2013-breaks-visual-studio-2012
 tags:
-- _atomic_fetch_sub_4
-- office
-- office-2013
-- office14
-- puzzles
-- vs2012
+- Technical Debt
+- Continuous Improvement
 categories:
-- problems-and-puzzles
+- Install and Configuration
 preview: metro-problem-icon-4-4.png
 
 ---

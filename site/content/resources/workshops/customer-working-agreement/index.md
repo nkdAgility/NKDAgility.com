@@ -1,11 +1,20 @@
 ---
 title: Customer Working Agreement
+description: Establish a clear Working Agreement in a 60-minute workshop, ensuring customer understanding of roles, goals, and agility for project success.
+ResourceId: hjlKdneL4t8
+ResourceImport: true
+ResourceType: workshops
 resourceTypes: workshop
 layout: workshop
 aliases:
-  - workshops/Customer-Working-Agreement.html
-  - /learn/agile-delivery-kit/workshops/Customer-Working-Agreement
-  - /learn/agile-delivery-kit/workshops/customer-working-agreement/
+- workshops/Customer-Working-Agreement.html
+- /learn/agile-delivery-kit/workshops/Customer-Working-Agreement
+- /learn/agile-delivery-kit/workshops/customer-working-agreement/
+- /resources/hjlKdneL4t8
+aliasesFor404:
+- workshops/Customer-Working-Agreement.html
+- /learn/agile-delivery-kit/workshops/Customer-Working-Agreement
+- /learn/agile-delivery-kit/workshops/customer-working-agreement/
 date: 2024-09-17
 creator: Martin Hinshelwood
 draft: true
@@ -13,9 +22,31 @@ card:
   button:
     content: Learn More
   content: Discover more about  and how it can help you in your Agile journey!
-  title:
----
+  title: 
+categories:
+- Agile Product Management
+- Value Delivery
+- Transparency and Accountability
+- Organisational Agility
+- Scrum
+tags:
+- Working Agreements
+- Scrum Product Management
+- Product Owner
+- Agile Planning
+- Team Collaboration
+- Agile Product Discovery
+- Customer Feedback Loops
+- Sprint Review
+- Agile Software Development
+- Continuous Improvement
+- Agile Values and Principles
+- Definition of Done
+- Agile Project Management
+- Team Motivation
+- Transparency
 
+---
 ## Customer Working Agreement
 
 ### Duration

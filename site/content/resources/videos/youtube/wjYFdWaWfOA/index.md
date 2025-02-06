@@ -3,7 +3,7 @@ title: What is a scrum master? Why are they essential?
 description: "Discover the vital role of a Scrum Master in Agile leadership! Learn how they enhance team efficiency and drive value delivery in this insightful video. \U0001F680"
 date: 2023-05-22T14:00:41Z
 ResourceId: wjYFdWaWfOA
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: wjYFdWaWfOA
@@ -16,26 +16,26 @@ aliases:
 - /resources/videos/what-is-a-scrum-master-why-are-they-essential-
 - /resources/what-is-a-scrum-master-why-are-they-essential-
 - /resources/wjYFdWaWfOA
+aliasesFor404:
+- /resources/videos/what-is-a-scrum-master-why-are-they-essential-
+- /resources/what-is-a-scrum-master-why-are-they-essential-
 preview: https://i.ytimg.com/vi/wjYFdWaWfOA/maxresdefault.jpg
 duration: 299
 isShort: false
 tags:
 - Scrum Master
-- ScrumMaster
-- What is a scrum master
-- scrum framework
-- scrum methodology
-- scrum approach
-- scrum project management
-- scrum training
-- agile scrum training
-- agile scrum project management
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scrum
+- Value Delivery
+- Organisational Agility
+- People and Process
+- Agile Product Management
 
 ---
  *Unlocking the Secrets of the Scrum Master: A Guide to Agile Leadership*

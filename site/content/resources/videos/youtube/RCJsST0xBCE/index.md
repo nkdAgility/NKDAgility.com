@@ -3,7 +3,7 @@ title: Mastering Azure DevOps Migration - A Comprehensive Guide by NKDAgility
 description: "Master Azure DevOps migration with NKDAgility! Discover tools, tips, and best practices in this comprehensive guide. Unlock your potential today! \U0001F680"
 date: 2019-10-17T19:16:03Z
 ResourceId: RCJsST0xBCE
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: RCJsST0xBCE
@@ -16,18 +16,38 @@ aliases:
 - /resources/videos/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
 - /resources/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
 - /resources/RCJsST0xBCE
+aliasesFor404:
+- /resources/videos/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
+- /resources/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
 preview: https://i.ytimg.com/vi/RCJsST0xBCE/maxresdefault.jpg
 duration: 2399
 isShort: false
 tags:
-- Azure DevOps
-- Migration
+- Agile Tools
+- Agile Software Development
+- Continuous Integration
+- Continuous Delivery
+- DevOps
+- Agile Project Management
+- Technical Excellence
+- Agile Product Management
+- Value Delivery
+- Agile Planning Tools
+- Scrum Master
+- Scrum Team
+- Evidence Based Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Azure DevOps
+- Practical Techniques and Tooling
+- Value Delivery
+- Application Lifecycle Management
+- DevOps
 
 ---
  Check out the latest version: https://youtu.be/Qt1Ywu_KLrc

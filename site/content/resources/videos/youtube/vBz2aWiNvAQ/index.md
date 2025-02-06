@@ -3,7 +3,7 @@ title: Free Workshop 4 - Introduction to the Sprint Review!
 description: Join Martin Hinshelwood for a free 90m workshop on mastering Sprint Reviews! Learn how to gather feedback and plan your next steps effectively.
 date: 2021-09-16T15:17:32Z
 ResourceId: vBz2aWiNvAQ
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: vBz2aWiNvAQ
@@ -18,6 +18,9 @@ aliases:
 - /resources/videos/free-workshop-4-introduction-to-the-sprint-review!
 - /resources/free-workshop-4-introduction-to-the-sprint-review!
 - /resources/vBz2aWiNvAQ
+aliasesFor404:
+- /resources/videos/free-workshop-4-introduction-to-the-sprint-review!
+- /resources/free-workshop-4-introduction-to-the-sprint-review!
 preview: https://i.ytimg.com/vi/vBz2aWiNvAQ/maxresdefault.jpg
 duration: 5694
 isShort: false
@@ -26,6 +29,26 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Scrum
+- Events and Presentations
+- Value Delivery
+tags:
+- Sprint Review
+- Scrum Team
+- Scrum Product Management
+- Agile Planning
+- Customer Feedback Loops
+- Continuous Improvement
+- Agile Product Discovery
+- Agile Product Ownership
+- Definition of Done
+- Agile Software Development
+- Agile Methodology
+- Agile Values and Principles
+- Team Collaboration
+- Evidence Based Improvement
+- Working Software
 
 ---
  This is a Free Live Virtual 90m "How to run a Sprint Review" from Martin Hinshelwood.

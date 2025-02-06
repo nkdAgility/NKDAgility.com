@@ -2,14 +2,13 @@
 title: Engaging with complexity - Team Foundation Server Edition
 description: Explore the complexities of Team Foundation Server migrations in Silicon Valley. Learn strategies to streamline processes and enhance development efficiency.
 ResourceId: xr1jtRnRNvp
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9703
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-01
 creator: Martin Hinshelwood
-id: "9703"
 layout: blog
 resourceTypes: blog
 slug: engaging-with-complexity-team-foundation-server-edition
@@ -26,17 +25,14 @@ aliasesFor404:
 - /blog/engaging-with-complexity-team-foundation-server-edition
 - /engaging-with-complexity---team-foundation-server-edition
 - /blog/engaging-with-complexity---team-foundation-server-edition
+- /engaging-with-complexity
+- /resources/blog/engaging-with-complexity-team-foundation-server-edition
 tags:
-- infrastructure
-- operational
-- tfs
-- tfs2012
-- tfs2012-2
-- tfs-2012-3
-- tfs-2013
-- tools
+- Complexity Thinking
+- Systems Thinking
 categories:
-- tools-and-techniques
+- Azure DevOps
+- Complexity Thinking
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

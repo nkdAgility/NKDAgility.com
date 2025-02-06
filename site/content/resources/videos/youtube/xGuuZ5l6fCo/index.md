@@ -3,7 +3,7 @@ title: 'Empowering Agile Teams: The Critical Role of User Feedback in Requiremen
 description: Unlock your team's potential! Discover how to empower agile responses to user feedback and enhance your organisation's adaptability in this insightful video.
 date: 2024-07-19T06:45:03Z
 ResourceId: xGuuZ5l6fCo
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: xGuuZ5l6fCo
@@ -20,16 +20,35 @@ aliases:
 - /resources/videos/xGuuZ5l6fCo
 - /resources/are-you-truly-empowering-your-teams-to-respond-to-user-feedback-the-agile-reality-check-[5-6]
 - /resources/xGuuZ5l6fCo
+aliasesFor404:
+- /resources/empowering-agile-teams-the-critical-role-of-user-feedback-in-requirement-changes
+- /resources/videos/are-you-truly-empowering-your-teams-to-respond-to-user-feedback-the-agile-reality-check-[5-6]
+- /resources/are-you-truly-empowering-your-teams-to-respond-to-user-feedback-the-agile-reality-check-[5-6]
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Detecting Agile BS
-- Agile product management
-- Agile product development
-- Agile project management
+- Customer Feedback Loops
+- Agile Product Discovery
+- Change Management
+- Agile Planning
+- Team Collaboration
+- Continuous Improvement
+- Agile Leadership
+- Market Adaptability
+- Agile Values and Principles
+- Organisational Agility
+- Agile Transformation
+- Evidence Based Management
+- Team Motivation
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Value Delivery
+- Market Adaptability
+- Discovery and Learning
 
 ---
 In the world of Agile, the ability to adapt and evolve based on real-time user feedback is a cornerstone of success. Yet, many organizations miss the mark when it comes to empowering their teams to make meaningful changes to requirements based on this feedback. In this post, we'll explore why this is a crucial aspect of Agile that often gets overlooked, and how you can ensure your teams are truly Agile by enabling them to close feedback loops and adjust requirements as needed.

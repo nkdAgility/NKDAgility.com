@@ -3,7 +3,7 @@ title: Installing TFS 2013 Standard
 description: Learn how to effortlessly install TFS 2013 Standard with Martin! Discover the simplicity of setup, including SQL Server and Reporting Services.
 date: 2014-01-15T13:38:13Z
 ResourceId: U69JMzIZXro
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: U69JMzIZXro
@@ -16,23 +16,33 @@ aliases:
 - /resources/videos/installing-tfs-2013-standard
 - /resources/installing-tfs-2013-standard
 - /resources/U69JMzIZXro
+aliasesFor404:
+- /resources/videos/installing-tfs-2013-standard
+- /resources/installing-tfs-2013-standard
 preview: https://i.ytimg.com/vi/U69JMzIZXro/maxresdefault.jpg
 duration: 1219
 isShort: false
 tags:
-- Team Foundation Server (Software)
-- TFS
-- TFS 2013
-- Install
-- Install & Configure
-- Install & Configure 101
-- "101"
+- Agile Software Development
+- Continuous Delivery
+- Technical Excellence
+- Scrum Team
+- Definition of Done
+- Software Increment
+- Deployment Strategies
+- Agile Project Management
+- Agile Methodology
+- Azure DevOps
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Install and Configuration
+- Azure DevOps
+- Practical Techniques and Tooling
 
 ---
  Have you tried to install TFS 2013? Its so ridiculously easy compared to early versions of TFS that you can do it in your sleep. See Martin configure TFS as a standard single server with full SQL Server, Analysis Services, and Reporting Services.

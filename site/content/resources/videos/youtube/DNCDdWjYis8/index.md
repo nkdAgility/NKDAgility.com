@@ -3,7 +3,7 @@ title: worst trait in unskilled scrum masters?
 description: "Uncover the truth about Scrum Masters! Join Martin as he dispels myths and shares strategies for effective team collaboration. \U0001F680 #Scrum #Agile"
 date: 2023-04-28T07:00:08Z
 ResourceId: DNCDdWjYis8
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: DNCDdWjYis8
@@ -17,6 +17,9 @@ aliases:
 - /resources/videos/worst-trait-in-unskilled-scrum-masters-
 - /resources/worst-trait-in-unskilled-scrum-masters-
 - /resources/DNCDdWjYis8
+aliasesFor404:
+- /resources/videos/worst-trait-in-unskilled-scrum-masters-
+- /resources/worst-trait-in-unskilled-scrum-masters-
 preview: https://i.ytimg.com/vi/DNCDdWjYis8/maxresdefault.jpg
 duration: 51
 isShort: true
@@ -25,6 +28,26 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Value Delivery
+- Organisational Psychology
+tags:
+- Scrum Master
+- Team Collaboration
+- Agile Project Management
+- Scrum Team
+- Continuous Improvement
+- Agile Values and Principles
+- Accountability
+- Agile Coaching
+- Scrum Product Development
+- Leadership Training
+- Working Agreements
+- Agile Transformation
+- Psychological Safety
+- Team Motivation
 
 ---
  *Unmasking the Role of Scrum Masters: Myths vs Reality*

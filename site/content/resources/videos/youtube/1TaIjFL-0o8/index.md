@@ -3,7 +3,7 @@ title: What is the most common epiphany in a PSM II course?
 description: Discover the key epiphanies from the PSM II course that transform Scrum Masters into advanced professionals. Elevate your agile skills today!
 date: 2023-04-27T07:00:00Z
 ResourceId: 1TaIjFL-0o8
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 1TaIjFL-0o8
@@ -15,17 +15,27 @@ aliases:
 - /resources/videos/what-is-the-most-common-epiphany-in-a-psm-ii-course-
 - /resources/what-is-the-most-common-epiphany-in-a-psm-ii-course-
 - /resources/1TaIjFL-0o8
+aliasesFor404:
+- /resources/videos/what-is-the-most-common-epiphany-in-a-psm-ii-course-
+- /resources/what-is-the-most-common-epiphany-in-a-psm-ii-course-
 preview: https://i.ytimg.com/vi/1TaIjFL-0o8/maxresdefault.jpg
 duration: 220
 isShort: false
 tags:
-- PSM II
-- Professional Scrum Master
-- Advanced Professional Scrum Master
-- Scrum.Org
-- Scrum course
-- Scrummaster course
-- Scrum Certification
+- Scrum Master
+- Scrum Team
+- Accountability
+- Continuous Improvement
+- Organisational Agility
+- Agile Leadership
+- Team Collaboration
+- Change Management
+- Agile Product Management
+- Employee Engagement
+- Agile Values and Principles
+- Systems Thinking
+- Discovery and Learning
+- Psychological Safety
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -33,6 +43,12 @@ source: youtube
 layout: video
 resourceTypes:
 - video
+categories:
+- Scrum
+- Organisational Agility
+- People and Process
+- Transparency and Accountability
+- Resilience and Change
 
 ---
  The #PSMII or #advancedprofessionalscrummaster course from #scrumorg has been created to elevate the skills, competence, and capability of a #scrummaster from basic to advanced level.

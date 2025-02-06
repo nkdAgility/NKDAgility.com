@@ -2,14 +2,13 @@
 title: Using Visual Studio 2008
 description: Explore the enhanced features of Visual Studio 2008, from a sleek interface to multi-framework support, and elevate your development experience today!
 ResourceId: lO6Rlwe1r6f
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 328
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-20
 creator: Martin Hinshelwood
-id: "328"
 layout: blog
 resourceTypes: blog
 slug: using-visual-studio-2008
@@ -21,15 +20,13 @@ aliases:
 aliasesFor404:
 - /using-visual-studio-2008
 - /blog/using-visual-studio-2008
+- /resources/blog/using-visual-studio-2008
 tags:
-- ml
-- tfs
-- tools
-- visual-studio
-- vs2005
-- vs2008
+- Agile Software Development
+- Technical Excellence
 categories:
-- me
+- Install and Configuration
+- Application Lifecycle Management
 preview: metro-visual-studio-2005-128-link-8-1.png
 
 ---

@@ -3,7 +3,7 @@ title: The Power of Peer Feedback in Immersive Learning
 description: Discover how immersive learning enhances your skills as a Scrum practitioner in this engaging video. Unlock your potential with NKD Agility!
 date: 2024-02-07T07:00:27Z
 ResourceId: yQlrN2OviCU
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: yQlrN2OviCU
@@ -20,35 +20,34 @@ aliases:
 - /resources/videos/yQlrN2OviCU
 - /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-3
 - /resources/yQlrN2OviCU
+aliasesFor404:
+- /resources/the-power-of-peer-feedback-in-immersive-learning
+- /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-3
+- /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-3
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Team Collaboration
+- Continuous Learning
+- Agile Community
+- Employee Engagement
+- Psychological Safety
+- Agile Mentoring Program
+- Discovery and Learning
+- Value Delivery
+- Agile Transformation
+- Organisational Culture
+- Feedback Loops
+- Experimentation
+- Agile Values and Principles
 resourceTypes:
 - video
+categories:
+- Discovery and Learning
+- People and Process
+- Metrics and Learning
+- Organisational Psychology
 
 ---
 In the world of Scrum and Agile training, **immersive learning** is a game-changer. It transforms the way we absorb information, moving away from traditional lecture-based approaches to more practical, hands-on experiences. One of the standout aspects of this learning style is the **peer feedback** loop, which not only accelerates learning but also encourages real-world application.

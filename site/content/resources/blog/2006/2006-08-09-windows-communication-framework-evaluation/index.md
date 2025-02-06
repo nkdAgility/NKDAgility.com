@@ -2,14 +2,13 @@
 title: Windows Communication Framework Evaluation
 description: Explore the evaluation of Windows Communication Framework (WCF) and its revolutionary features for web service projects. Discover its benefits for your company!
 ResourceId: piNenAHpFYq
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 464
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2006-08-09
 creator: Martin Hinshelwood
-id: "464"
 layout: blog
 resourceTypes: blog
 slug: windows-communication-framework-evaluation
@@ -21,10 +20,14 @@ aliases:
 aliasesFor404:
 - /windows-communication-framework-evaluation
 - /blog/windows-communication-framework-evaluation
+- /resources/blog/windows-communication-framework-evaluation
 tags:
-- code
-- wcf
+- Agile Software Development
+- Technical Excellence
 preview: metro-binary-vb-128-link-1-1.png
+categories:
+- Discovery and Learning
+- Technical Excellence
 
 ---
 I am currently evaluating WCF for my company. Now, ML has some pretty strong polocies on beta software, but they seam to be missing something with WinFX. I can find information on the company intranet on Vista and Office 2007, I can even request them to be installed on my desktop as part of an internal beta program, but nothing on WinFX or WCF!

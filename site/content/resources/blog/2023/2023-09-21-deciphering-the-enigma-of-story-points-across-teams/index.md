@@ -2,7 +2,7 @@
 title: Deciphering the Enigma of Story Points Across Teams
 description: Explore how to effectively use Story Points in agile teams. Discover better metrics for performance and value delivery to enhance your team's success.
 ResourceId: LKp5S7_4Kbw
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 49888
 ResourceImportSource: Wordpress
@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2023-09-21
 AudioNative: true
 creator: Martin Hinshelwood
-id: "49888"
 layout: blog
 resourceTypes: blog
 slug: deciphering-the-enigma-of-story-points-across-teams
@@ -22,11 +21,23 @@ aliases:
 aliasesFor404:
 - /deciphering-the-enigma-of-story-points-across-teams
 - /blog/deciphering-the-enigma-of-story-points-across-teams
+- /resources/blog/deciphering-the-enigma-of-story-points-across-teams
 tags:
-- featured
-- homepage
+- Agile Planning
+- Evidence Based Management
+- Value Delivery
+- Team Collaboration
+- Agile Product Management
+- Agile Estimation
+- Throughput
+- Agile Coaching
+- Agile Product Discovery
+- Continuous Improvement
 categories:
-- agility
+- Value Delivery
+- Metrics and Learning
+- Flow Efficiency
+- People and Process
 preview: naked-agility-technically-flow-not-velocity-5-5.jpg
 
 ---

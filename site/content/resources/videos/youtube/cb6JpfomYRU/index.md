@@ -3,7 +3,7 @@ title: How much of a competitive edge will the immersive PSM course deliver to d
 description: Discover how our immersive 7-week Professional Scrum Master course gives you a competitive edge over traditional workshops. Elevate your team's skills today!
 date: 2023-07-13T07:41:01Z
 ResourceId: cb6JpfomYRU
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: cb6JpfomYRU
@@ -16,25 +16,40 @@ aliases:
 - /resources/videos/how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates-
 - /resources/how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates-
 - /resources/cb6JpfomYRU
+aliasesFor404:
+- /resources/videos/how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates-
+- /resources/how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates-
 preview: https://i.ytimg.com/vi/cb6JpfomYRU/maxresdefault.jpg
 duration: 353
 isShort: false
 tags:
-- Scrum
-- Scrum Courses
-- Scrum.Org
-- Scrum Certification
-- Immersive Learning Experience
-- Immersive Scrum Course
-- Immersive PSM course
-- Immersive Professional Scrum Master course
-- Immersive Professional Scrum Master Certification
+- Scrum Master
+- Agile Community
+- Continuous Learning
+- Team Collaboration
+- Agile Product Management
+- Agile Certification
+- Agile Problem Solving
+- Team Motivation
+- Psychological Safety
+- Agile Transformation
+- Value Delivery
+- Scrum Team
+- Evidence Based Improvement
+- Coaching
+- Agile Values and Principles
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Discovery and Learning
+- Organisational Agility
+- Value Delivery
 
 ---
  The immersive learning experiences were developed to help raise the standard of a #scrummaster entering the industry, and to provide additional value for organizations that wanted to really upskill their teams.

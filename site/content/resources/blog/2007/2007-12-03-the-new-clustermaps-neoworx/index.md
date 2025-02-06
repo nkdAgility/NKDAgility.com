@@ -2,14 +2,13 @@
 title: 'The new ClusterMaps: NeoWORX'
 description: Discover NeoWORX, a powerful tool for visualizing global data in real-time. Learn how it can enhance corporate presentations and streamline operations.
 ResourceId: _tT2jcz-s4u
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 280
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-12-03
 creator: Martin Hinshelwood
-id: "280"
 layout: blog
 resourceTypes: blog
 slug: the-new-clustermaps-neoworx
@@ -25,10 +24,12 @@ aliasesFor404:
 - /blog/the-new-clustermaps-neoworx
 - /the-new-clustermaps--neoworx
 - /blog/the-new-clustermaps--neoworx
+- /resources/blog/the-new-clustermaps-neoworx
 tags:
-- wpf
+- Agile Product Discovery
+- Technical Strategy
 categories:
-- me
+- Discovery and Learning
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

@@ -3,7 +3,7 @@ title: Building a Culture of Continuous Improvement
 description: Empower your teams with financial transparency! Discover how to enhance decision-making and ROI in product development for continuous improvement.
 date: 2024-12-12T06:30:00Z
 ResourceId: uetzybp7bf4
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: uetzybp7bf4
@@ -17,29 +17,38 @@ aliases:
 - /resources/videos/building-a-culture-of-continuous-improvement
 - /resources/building-a-culture-of-continuous-improvement
 - /resources/uetzybp7bf4
+aliasesFor404:
+- /resources/videos/building-a-culture-of-continuous-improvement
+- /resources/building-a-culture-of-continuous-improvement
 preview: https://i9.ytimg.com/vi/uetzybp7bf4/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLDpi1R2yDhrVuUC5OohAvFE7cnHTA
 duration: 379
 isShort: false
 tags:
-- Software development
-- software engineering
-- Agile
-- Product development
-- Product management
-- Agile product management
-- Project Management
-- Agile project management
-- Project manager
-- CTO
-- Product manager
-- Product Owner
-- Scrum Master
-- Scrum
+- Continuous Improvement
+- Team Motivation
+- Employee Engagement
+- Business Agility
+- Value Prioritisation
+- Decision Theory
+- Evidence Based Management
+- Organisational Culture
+- Agile Product Discovery
+- Customer Feedback Loops
+- Experimentation
+- Lean Thinking
+- Agile Leadership
+- Entrepreneurship
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Value Delivery
+- Metrics and Learning
+- People and Process
+- Organisational Agility
+- Discovery and Learning
 
 ---
  Empowering Teams with Financial Transparency: Maximizing ROI in Product Development | Martin Hinshelwood

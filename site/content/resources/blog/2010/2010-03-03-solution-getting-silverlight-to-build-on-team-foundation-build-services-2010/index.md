@@ -2,14 +2,13 @@
 title: 'Solution: Getting Silverlight to build on Team Foundation Build Services 2010'
 description: Learn how to successfully build Silverlight applications using Team Foundation Build Services 2010. Overcome common challenges with expert tips and solutions!
 ResourceId: KPVUDFGZRaX
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 69
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-03
 creator: Martin Hinshelwood
-id: "69"
 layout: blog
 resourceTypes: blog
 slug: solution-getting-silverlight-to-build-on-team-foundation-build-services-2010
@@ -25,23 +24,12 @@ aliasesFor404:
 - /blog/solution-getting-silverlight-to-build-on-team-foundation-build-services-2010
 - /solution--getting-silverlight-to-build-on-team-foundation-build-services-2010
 - /blog/solution--getting-silverlight-to-build-on-team-foundation-build-services-2010
+- /resources/blog/solution-getting-silverlight-to-build-on-team-foundation-build-services-2010
 tags:
-- automated-build
-- code
-- codeproject
-- scrum
-- sharepoint
-- silverlight
-- spf2010
-- ssw
-- tfs-build
-- tfs
-- tfs2010
-- tools
-- visual-studio
-- vs2010
+- Agile Software Development
+- Continuous Integration
 categories:
-- code-and-complexity
+- Install and Configuration
 preview: metro-visual-studio-2010-128-link-3-3.png
 
 ---

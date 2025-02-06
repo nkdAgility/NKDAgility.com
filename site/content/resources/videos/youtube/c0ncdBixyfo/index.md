@@ -3,7 +3,7 @@ title: What is the one thing that no Agile team can survive?
 description: Discover how contempt for leadership can cripple agile teams. Learn to foster a positive culture and boost productivity in this insightful video!
 date: 2023-10-17T11:00:23Z
 ResourceId: c0ncdBixyfo
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: c0ncdBixyfo
@@ -20,21 +20,35 @@ aliases:
 - /resources/videos/c0ncdBixyfo
 - /resources/what-is-the-one-thing-that-no-agile-team-can-survive-
 - /resources/c0ncdBixyfo
+aliasesFor404:
+- /resources/what-is-the-one-thing-that-no-agile-team-can-survive
+- /resources/videos/what-is-the-one-thing-that-no-agile-team-can-survive-
+- /resources/what-is-the-one-thing-that-no-agile-team-can-survive-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- '#scrum'
-- '#agile'
-- '#agilecoach'
-- '#scrumorg'
-- '#agileconsultant'
-- '#agiletraining'
-- '#devops'
-- '#agileproductdevelopment'
-- '#productdevelopment'
+- Organisational Culture
+- Team Motivation
+- Employee Engagement
+- Leadership Training
+- Agile Leadership
+- Change Management
+- Team Collaboration
+- Continuous Improvement
+- Psychological Safety
+- Agile Transformation
+- Agile Values and Principles
+- Systems Thinking
+- Decision Making
+- Agile Project Management
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Organisational Psychology
+- Resilience and Change
 
 ---
 # Overcoming the Culture of Contempt in Agile Teams

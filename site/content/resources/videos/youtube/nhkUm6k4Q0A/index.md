@@ -3,7 +3,7 @@ title: 'How to Be an Effective Agile Coach: Agnosticism in Practice'
 description: 'Discover the second essential achievement for aspiring #AgileCoaches with Martin Hinshelwood. Elevate your skills and empower teams to thrive!'
 date: 2023-11-14T11:00:50Z
 ResourceId: nhkUm6k4Q0A
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: nhkUm6k4Q0A
@@ -20,35 +20,34 @@ aliases:
 - /resources/videos/nhkUm6k4Q0A
 - /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-2
 - /resources/nhkUm6k4Q0A
+aliasesFor404:
+- /resources/how-to-be-an-effective-agile-coach-agnosticism-in-practice
+- /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-2
+- /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-2
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Agile Coaching
+- Scrum Master
+- Agile Values and Principles
+- Lean Principles
+- Team Collaboration
+- Continuous Improvement
+- Self Organisation
+- Agile Mentoring
+- Agile Community
+- Discovery and Learning
+- Customer Feedback Loops
+- Psychological Safety
 resourceTypes:
 - video
+categories:
+- People and Process
+- Scrum
+- Lean
+- Discovery and Learning
+- Organisational Agility
 
 ---
 If you’re looking to become a great Agile coach, one of the most crucial qualities you need to cultivate is agnosticism in your practices. While you may have your own preferences—mine happens to be Scrum—it’s important to ensure that the team you’re working with can choose the most effective practices that suit them. This may sometimes mean putting aside your favorite framework and helping the team make decisions that work best for their unique context.

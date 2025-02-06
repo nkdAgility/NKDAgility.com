@@ -2,7 +2,7 @@
 title: Getting started with a modern source control system and DevOps
 description: Discover how to choose a modern source control system that enhances your DevOps practices and supports your software development lifecycle effectively.
 ResourceId: bkiQSbbO78R
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 11456
 ResourceImportSource: Wordpress
@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2017-11-10
 AudioNative: true
 creator: Martin Hinshelwood
-id: "11456"
 layout: blog
 resourceTypes: blog
 slug: getting-started-with-modern-source-control-system-and-devops
@@ -26,15 +25,28 @@ aliasesFor404:
 - /blog/getting-started-with-modern-source-control-system-and-devops
 - /getting-started-with-a-modern-source-control-system-and-devops
 - /blog/getting-started-with-a-modern-source-control-system-and-devops
+- /resources/blog/getting-started-with-modern-source-control-system-and-devops
 tags:
-- developers
-- devops
-- engineering-excellence
-- homepage
-- software-engineering
-- versioncontrol
+- Modern Source Control
+- Continuous Delivery
+- Technical Excellence
+- Definition of Done
+- Agile Software Development
+- Agile Tools
+- Team Collaboration
+- Deployment Frequency
+- Automated Testing
+- Agile Product Management
+- Agile Planning
+- Software Development
+- Engineering Excellence
+- Value Delivery
 categories:
-- measure-and-learn
+- DevOps
+- Application Lifecycle Management
+- Technical Excellence
+- Metrics and Learning
+- People and Process
 preview: excellence-1-1.jpg
 
 ---

@@ -3,7 +3,7 @@ title: Technical Debt Management for Long Term Quality
 description: Unlock long-term productivity by mastering technical debt! Join Martin Hinshelwood as he shares insights and strategies from Azure DevOps.
 date: 2024-11-28T06:00:11Z
 ResourceId: PZa77csy5r8
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: PZa77csy5r8
@@ -17,26 +17,38 @@ aliases:
 - /resources/videos/technical-debt-management-for-long-term-quality
 - /resources/technical-debt-management-for-long-term-quality
 - /resources/PZa77csy5r8
+aliasesFor404:
+- /resources/videos/technical-debt-management-for-long-term-quality
+- /resources/technical-debt-management-for-long-term-quality
 preview: https://i.ytimg.com/vi/PZa77csy5r8/maxresdefault.jpg
 duration: 459
 isShort: false
 tags:
-- Technical debt
-- Software engineering
-- Software developer
-- Software development
-- Product development
-- Product management
-- Product owner
-- Project manager
-- Project management
-- Agile project management
-- Agile product development
+- Continuous Improvement
+- Technical Excellence
+- Agile Software Development
+- Value Delivery
+- Deployment Frequency
+- Agile Product Management
+- Evidence Based Management
+- Systems Thinking
+- Agile Strategy
+- DevOps
+- Agile Product Discovery
+- Lean Thinking
+- Agile Planning
+- Customer Feedback Loops
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Technical Excellence
+- Value Delivery
+- Azure DevOps
+- Code and Complexity
+- Systems Thinking
 
 ---
  # Understanding and Managing Technical Debt: Lessons from Azure DevOps | Martin Hinshelwood  

@@ -1,37 +1,66 @@
 ---
 title: Daily Scrum Recipe
+description: Maximise your Daily Scrum's impact! Focus on collaboration, transparency, and strategic planning to overcome challenges and achieve your Sprint Goal.
+ResourceId: M4qDhvrXwp-
+ResourceImport: true
+ResourceType: recipes
 resourceTypes: recipe
 layout: recipe
 image: /images/naked-Agility-Scrum-Framework-Daily-Scrum.jpg
 creator: Martin Hinshelwood
 aliases:
-  - /recipes/Daily-Scrum-Recipe.html
-  - /learn/agile-delivery-kit/recipes/daily-scrum-recipe/
+- /recipes/Daily-Scrum-Recipe.html
+- /learn/agile-delivery-kit/recipes/daily-scrum-recipe/
+- /resources/M4qDhvrXwp-
+aliasesFor404:
+- /recipes/Daily-Scrum-Recipe.html
+- /learn/agile-delivery-kit/recipes/daily-scrum-recipe/
 recommendedContent:
-  - collection: guides
-    path: _guides/manifesto-for-agile-software-development.md
-  - collection: guides
-    path: _guides/scrum-guide.md
+- collection: guides
+  path: _guides/manifesto-for-agile-software-development.md
+- collection: guides
+  path: _guides/scrum-guide.md
 videos:
-  - title: Overview of the Scrum Framework?
-    embed: https://youtu.be/Q2Fo3sM6BVo
-  - title: How to Facilitate the Daily Scrum
-    embed: https://youtu.be/V2hYKB8xLNc
-  - title: The Daily Scrum is NOT a Status Meeting!
-    embed: https://youtu.be/i7_RPceEIYE
+- title: Overview of the Scrum Framework?
+  embed: https://youtu.be/Q2Fo3sM6BVo
+- title: How to Facilitate the Daily Scrum
+  embed: https://youtu.be/V2hYKB8xLNc
+- title: The Daily Scrum is NOT a Status Meeting!
+  embed: https://youtu.be/i7_RPceEIYE
 references:
-  - title: What is a Daily Scrum?
-    url: https://www.scrum.org/resources/what-is-a-daily-scrum
-  - title: Avoid the Bug as Task anti-pattern in Azure DevOps
-    url: https://nkdagility.com/blog/avoid-bug-task-anti-pattern-azure-devops
+- title: What is a Daily Scrum?
+  url: https://www.scrum.org/resources/what-is-a-daily-scrum
+- title: Avoid the Bug as Task anti-pattern in Azure DevOps
+  url: https://nkdagility.com/blog/avoid-bug-task-anti-pattern-azure-devops
 date: 2024-09-17
 card:
   button:
     content: Learn More
   content: Discover more about Daily Scrum Recipe and how it can help you in your Agile journey!
   title: Daily Scrum Recipe
----
+categories:
+- Scrum
+- People and Process
+- Value Delivery
+- Transparency and Accountability
+- Practical Techniques and Tooling
+tags:
+- Daily Scrum
+- Scrum Team
+- Scrum Master
+- Definition of Done
+- Continuous Improvement
+- Team Collaboration
+- Agile Planning
+- Transparency
+- Agile Product Management
+- Value Delivery
+- Agile Software Development
+- Self Organisation
+- Evidence Based Management
+- Agile Values and Principles
 
+---
 The Daily Scrum is an essential event in the Scrum framework. It offers the
 Developers an opportunity to reflect on their progress, and plan for the next 24
 hours. But it's essential to approach it with the right mindset and intent.

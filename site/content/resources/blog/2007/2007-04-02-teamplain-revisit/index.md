@@ -2,14 +2,13 @@
 title: TeamPlain - Revisit
 description: Discover a clever workaround for long project names in TeamPlain. Enhance your project management with this practical JavaScript solution. Read more!
 ResourceId: 74iowBMHVfu
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 419
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-04-02
 creator: Martin Hinshelwood
-id: "419"
 layout: blog
 resourceTypes: blog
 slug: teamplain-revisit
@@ -25,7 +24,14 @@ aliasesFor404:
 - /blog/teamplain-revisit
 - /teamplain---revisit
 - /blog/teamplain---revisit
+- /resources/blog/teamplain-revisit
 preview: nakedalm-logo-128-link-1-1.png
+categories:
+- Install and Configuration
+- Azure DevOps
+tags:
+- Technical Debt
+- Agile Tools
 
 ---
 I ran into some problems that I blogged on in my [TeamPlain - Install and initial views](http://team.worldnet-dev.ml.com/workitem.aspx?id=185) post. I have got a work around for the long project name problem, but it only works when you really daft project names like ours:

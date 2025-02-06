@@ -3,7 +3,7 @@ title: How do you know if you've got a great Sprint Goal?
 description: 'Discover how to craft a valuable sprint goal in Scrum! Join Martin Hinshelwood for insights that align teams with strategic objectives. #Agile #Scrum #Shorts'
 date: 2023-06-02T11:00:12Z
 ResourceId: AY35ys1uQOY
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: AY35ys1uQOY
@@ -20,36 +20,34 @@ aliases:
 - /resources/videos/AY35ys1uQOY
 - /resources/how-do-you-know-if-you've-got-a-great-sprint-goal-
 - /resources/AY35ys1uQOY
+aliasesFor404:
+- /resources/how-do-you-know-if-youve-got-a-great-sprint-goal
+- /resources/videos/how-do-you-know-if-you've-got-a-great-sprint-goal-
+- /resources/how-do-you-know-if-you've-got-a-great-sprint-goal-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Goal
-- Scrum Goal
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
+- Sprint Planning Workshop
+- Scrum Team
+- Scrum Product Management
+- Definition of Done
+- Team Motivation
+- Agile Planning
+- Continuous Improvement
+- Agile Values and Principles
+- Team Collaboration
+- Agile Product Management
+- Discovery and Learning
+- Customer Feedback Loops
+- Agile Product Discovery
+- Psychological Safety
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Value Delivery
 
 ---
 ## Is Your Sprint Goal Hitting the Mark?

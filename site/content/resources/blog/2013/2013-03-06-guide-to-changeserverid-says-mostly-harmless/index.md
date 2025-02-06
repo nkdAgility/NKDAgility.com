@@ -2,14 +2,13 @@
 title: Guide to ChangeServerId says mostly harmless
 description: Discover the importance of ChangeServerId in TFS upgrades. Learn how to avoid GUID issues and ensure a smooth transition to your new environment.
 ResourceId: hoewU67YJfb
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9249
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-03-06
 creator: Martin Hinshelwood
-id: "9249"
 layout: blog
 resourceTypes: blog
 slug: guide-to-changeserverid-says-mostly-harmless
@@ -21,16 +20,12 @@ aliases:
 aliasesFor404:
 - /guide-to-changeserverid-says-mostly-harmless
 - /blog/guide-to-changeserverid-says-mostly-harmless
+- /resources/blog/guide-to-changeserverid-says-mostly-harmless
 tags:
-- 2012-2
-- configuration
-- infrastructure
-- tf30046
-- tf31001
-- tf50620
-- tools
+- Change Management
+- Technical Debt
 categories:
-- code-and-complexity
+- Azure DevOps
 
 ---
 If you are cloning your TFS collection then you have to run ChangeServerId. It is reasonably well documented for this senario but what other reasons might you have to run it.

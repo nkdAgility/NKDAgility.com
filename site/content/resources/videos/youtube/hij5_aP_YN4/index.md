@@ -3,7 +3,7 @@ title: 'The Power of Community: Becoming an Awesome Agile Coach'
 description: 'Discover the fourth essential achievement for aspiring #AgileCoaches with Martin Hinshelwood. Elevate your skills and empower teams to thrive!'
 date: 2023-11-16T11:00:37Z
 ResourceId: hij5_aP_YN4
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: hij5_aP_YN4
@@ -20,35 +20,35 @@ aliases:
 - /resources/videos/hij5_aP_YN4
 - /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-4
 - /resources/hij5_aP_YN4
+aliasesFor404:
+- /resources/the-power-of-community-becoming-an-awesome-agile-coach
+- /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-4
+- /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-4
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Agile Community
+- Agile Coaching
+- Team Collaboration
+- Team Motivation
+- Continuous Learning
+- Psychological Safety
+- Agile Mentoring
+- Agile Values and Principles
+- Organisational Culture
+- Change Management
+- Discovery and Learning
+- Employee Engagement
+- Coaching
 resourceTypes:
 - video
+categories:
+- People and Process
+- Organisational Agility
+- Discovery and Learning
+- Value Delivery
+- Organisational Psychology
 
 ---
 Being an effective Agile coach requires more than just mastering the frameworks and processes of Agile. It’s about continual growth, pushing your boundaries, and being part of a community that challenges you, not one that simply agrees with everything you say. If you're aiming to elevate your coaching game, the key lies in surrounding yourself with diverse perspectives that question, refine, and enhance your approach.

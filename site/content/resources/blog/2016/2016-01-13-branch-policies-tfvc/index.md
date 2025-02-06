@@ -2,14 +2,13 @@
 title: Branch Policies for TFVC
 description: Explore effective branch policies for TFVC to streamline your development process. Learn how to implement checks and improve code quality with ease!
 ResourceId: _26VFOA-vCe
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 11424
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2016-01-13
 creator: Martin Hinshelwood
-id: "11424"
 layout: blog
 resourceTypes: blog
 slug: branch-policies-tfvc
@@ -25,11 +24,13 @@ aliasesFor404:
 - /blog/branch-policies-tfvc
 - /branch-policies-for-tfvc
 - /blog/branch-policies-for-tfvc
+- /resources/blog/branch-policies-tfvc
 tags:
 - devops
 categories:
-- code-and-complexity
-- install-and-configuration
+- Azure DevOps
+- Install and Configuration
+- Code and Complexity
 preview: image-2-2-2.png
 
 ---

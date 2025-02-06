@@ -3,7 +3,7 @@ title: 7 signs of the agile apocalypse. War
 description: 'Discover the 7 signs of the #agile apocalypse in this short video. Learn why conflict signals disaster for your #agile transformation. #shorts'
 date: 2023-11-07T11:30:07Z
 ResourceId: GGtb7Yg8gHY
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: GGtb7Yg8gHY
@@ -16,39 +16,33 @@ aliases:
 - /resources/videos/7-signs-of-the-agile-apocalypse-war
 - /resources/7-signs-of-the-agile-apocalypse-war
 - /resources/GGtb7Yg8gHY
+aliasesFor404:
+- /resources/videos/7-signs-of-the-agile-apocalypse-war
+- /resources/7-signs-of-the-agile-apocalypse-war
 preview: https://i.ytimg.com/vi/GGtb7Yg8gHY/maxresdefault.jpg
 duration: 42
 isShort: true
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Team Collaboration
+- Scrum Master
+- Agile Apocalypse
+- Team Motivation
+- Working Agreements
+- Psychological Safety
+- Change Management
+- Conflict Resolution
+- Agile Values and Principles
+- Continuous Improvement
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- People and Process
+- Organisational Psychology
+- Scrum
 
 ---
  #shorts #shortsvideo #shortvideo War is a terrible sign that your #agiletransformation is headed for disaster. #agile thrives on collaboration, a shared sense of purpose, and teamwork. In this short video, Martin Hinshelwood describes what war looks like,  in the context of #agile, and why it's a sign of impending disaster

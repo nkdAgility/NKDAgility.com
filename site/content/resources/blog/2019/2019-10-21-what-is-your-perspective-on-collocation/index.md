@@ -2,14 +2,13 @@
 title: What is your perspective on collocation?
 description: Explore the debate on collocation in Scrum teams. Discover insights from Martin Hinshelwood on optimizing team communication and performance.
 ResourceId: AcwMGmMo7iU
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 39960
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2019-10-21
 creator: Martin Hinshelwood
-id: "39960"
 layout: blog
 resourceTypes: blog
 slug: what-is-your-perspective-on-collocation
@@ -25,13 +24,28 @@ aliasesFor404:
 - /blog/what-is-your-perspective-on-collocation
 - /what-is-your-perspective-on-collocation-
 - /blog/what-is-your-perspective-on-collocation-
+- /resources/blog/what-is-your-perspective-on-collocation
 tags:
-- collocation
-- scrum-team
-- team-room
+- Collaboration Tools
+- Team Collaboration
+- Scrum Team
+- Scrum Master
+- Remote Working
+- Team Motivation
+- Psychological Safety
+- Continuous Improvement
+- Evidence Based Management
+- Agile Values and Principles
+- Organisational Culture
+- Agile Software Development
+- Agile Project Management
+- Technical Excellence
 categories:
-- agility
-- people-and-process
+- People and Process
+- Scrum
+- Organisational Psychology
+- Events and Presentations
+- Discovery and Learning
 preview: 1026661500-1-1.jpg
 
 ---

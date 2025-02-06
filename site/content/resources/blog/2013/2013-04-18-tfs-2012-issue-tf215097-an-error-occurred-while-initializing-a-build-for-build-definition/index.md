@@ -2,14 +2,13 @@
 title: 'TFS 2012 Issue: TF215097 an error occurred while initializing a build for build definition'
 description: Resolve the TF215097 error in TFS 2012 builds with our detailed guide. Learn to load custom assemblies and streamline your build process effectively!
 ResourceId: Esy-i2Fcamk
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9446
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-04-18
 creator: Martin Hinshelwood
-id: "9446"
 layout: blog
 resourceTypes: blog
 slug: tfs-2012-issue-tf215097-an-error-occurred-while-initializing-a-build-for-build-definition
@@ -25,16 +24,12 @@ aliasesFor404:
 - /blog/tfs-2012-issue-tf215097-an-error-occurred-while-initializing-a-build-for-build-definition
 - /tfs-2012-issue--tf215097-an-error-occurred-while-initializing-a-build-for-build-definition
 - /blog/tfs-2012-issue--tf215097-an-error-occurred-while-initializing-a-build-for-build-definition
+- /resources/blog/tfs-2012-issue-tf215097-an-error-occurred-while-initializing-a-build-for-build-definition
 tags:
-- configuration
-- infrastructure
-- tactical
-- tf215097
-- tfs-build
-- tools
+- Agile Software Development
+- Azure DevOps
 categories:
-- code-and-complexity
-- problems-and-puzzles
+- Install and Configuration
 preview: puzzle-issue-problem-128-link-3-3.png
 
 ---

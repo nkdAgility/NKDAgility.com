@@ -2,14 +2,13 @@
 title: Silverlight cream, kinda, but it is interesting!
 description: Explore the intriguing world of Silverlight as Martin Hinshelwood shares insights on Microsoft's latest web innovations and tools. Dive in for more!
 ResourceId: FoFh5MvtoSA
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 278
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-12-13
 creator: Martin Hinshelwood
-id: "278"
 layout: blog
 resourceTypes: blog
 slug: silverlight-cream-kinda-but-it-is-interesting
@@ -29,13 +28,12 @@ aliasesFor404:
 - /blog/silverlight-cream,-kinda,-but-it-is-interesting-
 - /silverlight-cream--kinda--but-it-is-interesting-
 - /blog/silverlight-cream--kinda--but-it-is-interesting-
+- /resources/blog/silverlight-cream-kinda-but-it-is-interesting
 tags:
-- infrastructure
-- silverlight
-- sp2007
-- tools
+- Agile Software Development
+- Lean Startup
 categories:
-- news-and-reviews
+- News and Reviews
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

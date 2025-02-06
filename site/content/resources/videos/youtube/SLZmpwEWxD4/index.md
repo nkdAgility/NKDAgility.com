@@ -3,7 +3,7 @@ title: The Importance of Visualizing Your Work in a Kanban Strategy
 description: Unlock the power of Kanban! Discover best practices for visualising workflows, optimising processes, and boosting team productivity in this insightful video.
 date: 2024-03-07T07:00:10Z
 ResourceId: SLZmpwEWxD4
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: SLZmpwEWxD4
@@ -20,21 +20,23 @@ aliases:
 - /resources/videos/SLZmpwEWxD4
 - /resources/kanban-visualisation-practices!-stratagies-or-best-practices-for-effectively-visualizing-workflow!
 - /resources/SLZmpwEWxD4
+aliasesFor404:
+- /resources/the-importance-of-visualizing-your-work-in-a-kanban-strategy
+- /resources/videos/kanban-visualisation-practices!-stratagies-or-best-practices-for-effectively-visualizing-workflow!
+- /resources/kanban-visualisation-practices!-stratagies-or-best-practices-for-effectively-visualizing-workflow!
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Kanban
-- Kanban training
-- Kanban courses
-- Kanban coach
-- Kanban consultant
-- Kanban professional
-- Kanban method
-- Kanban approach
-- ProKanban
+- Kanban Training
 resourceTypes:
 - video
+categories:
+- Kanban
+- People and Process
+- Value Stream Management
+- Practical Techniques and Tooling
+- Metrics and Learning
 
 ---
 In the world of Agile and Scrum, one crucial element often overlooked is the **visualization of work**. It’s not just about getting things done; it’s about understanding the flow of value within your system. As a Scrum Master or Agile practitioner, the ability to visualize your work will empower your team to be more effective, transparent, and aligned. Today, we’ll explore how visualization can transform your Kanban strategy, improve collaboration, and streamline processes for better results.

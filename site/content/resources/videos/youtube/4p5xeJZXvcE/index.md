@@ -3,7 +3,7 @@ title: ' shorts 7 Virtues of agile. Patience'
 description: 'Discover the first of the 7 Agile virtues: Patience. Learn how it fosters collaboration and enhances team performance in Agile environments. #Agile #Scrum'
 date: 2023-12-08T11:00:09Z
 ResourceId: 4p5xeJZXvcE
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 4p5xeJZXvcE
@@ -15,33 +15,22 @@ aliases:
 - /resources/videos/-shorts-7-virtues-of-agile-patience
 - /resources/-shorts-7-virtues-of-agile-patience
 - /resources/4p5xeJZXvcE
+aliasesFor404:
+- /resources/videos/-shorts-7-virtues-of-agile-patience
+- /resources/-shorts-7-virtues-of-agile-patience
 preview: https://i.ytimg.com/vi/4p5xeJZXvcE/maxresdefault.jpg
 duration: 39
 isShort: true
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Team Collaboration
+- Psychological Safety
+- Accountability
+- Continuous Improvement
+- Organisational Culture
+- Team Motivation
+- Business Agility
+- Change Management
+- Agile Values and Principles
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -49,6 +38,11 @@ source: youtube
 layout: video
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Organisational Psychology
+- Resilience and Change
 
 ---
  #shorts #shortsvideo #shortvideo 7 virtues of #agile. Patience. #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #projectmanagement #projectmanager #productmanagement #productmanager #agile #scrum 

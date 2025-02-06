@@ -2,14 +2,13 @@
 title: It's that time again; get ready to upgrade to TFS 2015
 description: Prepare for the TFS 2015 upgrade! Discover essential strategies and tips to ensure a smooth transition before support for TFS 2010 ends. Don't wait!
 ResourceId: 7gr-fTIcGUp
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 11241
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-03-17
 creator: Martin Hinshelwood
-id: "11241"
 layout: blog
 resourceTypes: blog
 slug: its-that-time-again-get-ready-to-upgrade-to-tfs-2015
@@ -25,17 +24,27 @@ aliasesFor404:
 - /blog/its-that-time-again-get-ready-to-upgrade-to-tfs-2015
 - /it's-that-time-again;-get-ready-to-upgrade-to-tfs-2015
 - /blog/it's-that-time-again;-get-ready-to-upgrade-to-tfs-2015
+- /resources/blog/its-that-time-again-get-ready-to-upgrade-to-tfs-2015
 tags:
-- tfs
-- tfs2005
-- tfs2008
-- tfs2010
-- tfs2012
-- tfs-2013
-- tfs-2015
-- upgrade
+- Agile Software Development
+- Continuous Delivery
+- Technical Excellence
+- Deployment Strategies
+- Change Management
+- Agile Planning
+- Evidence Based Management
+- Agile Transformation
+- Value Delivery
+- Customer Feedback Loops
+- Agile Project Management
+- Technical Debt
+- Agile Methodology
+- Organisational Change
 categories:
-- upgrade-and-maintenance
+- Azure DevOps
+- Application Lifecycle Management
+- Install and Configuration
+- Technical Excellence
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

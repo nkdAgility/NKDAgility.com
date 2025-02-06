@@ -3,7 +3,7 @@ title: What do people love most about the 4-day training format?
 description: Discover why learners love the immersive 4-day training format! Join Martin Hinshelwood as he shares insights on enhancing your Scrum journey.
 date: 2023-05-11T12:00:02Z
 ResourceId: 3XsOseKG57g
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 3XsOseKG57g
@@ -19,19 +19,32 @@ aliases:
 - /resources/videos/3XsOseKG57g
 - /resources/what-do-people-love-most-about-the-4-day-training-format-
 - /resources/3XsOseKG57g
+aliasesFor404:
+- /resources/what-do-people-love-most-about-the-4-day-training-format
+- /resources/videos/what-do-people-love-most-about-the-4-day-training-format-
+- /resources/what-do-people-love-most-about-the-4-day-training-format-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- Scrum Training
-- Agile
-- Agile Scrum
-- Agile Scrum Training
-- Immersive training
+- Team Motivation
+- Agile Planning
+- Agile Product Discovery
+- Continuous Improvement
+- Discovery and Learning
+- Employee Engagement
+- Agile Community
+- Agile Values and Principles
+- Agile Transformation
+- Customer Feedback Loops
 resourceTypes:
 - video
 layout: video
+categories:
+- People and Process
+- Discovery and Learning
+- Value Delivery
+- Organisational Agility
 
 ---
 ## The Magic of the 4-Day Training Format!

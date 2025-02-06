@@ -3,7 +3,7 @@ title: 'Immersive Learning in Scrum: Why Theory and Experience Must Go Hand in H
 description: Discover how immersive learning enhances your skills as a Scrum practitioner in this engaging video. Unlock your potential with NKD Agility!
 date: 2024-02-08T07:00:06Z
 ResourceId: BmlTZwGAcMU
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: BmlTZwGAcMU
@@ -20,35 +20,32 @@ aliases:
 - /resources/videos/BmlTZwGAcMU
 - /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-4
 - /resources/BmlTZwGAcMU
+aliasesFor404:
+- /resources/immersive-learning-in-scrum-why-theory-and-experience-must-go-hand-in-hand
+- /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-4
+- /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-4
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Scrum Team
+- Scrum Master
+- Continuous Learning
+- Discovery and Learning
+- Agile Values and Principles
+- Team Collaboration
+- Team Motivation
+- Evidence Based Improvement
+- Technical Excellence
+- Agile Transformation
+- Agile Methodology
+- Psychological Safety
 resourceTypes:
 - video
+categories:
+- Scrum
+- Discovery and Learning
+- People and Process
 
 ---
 One of my favorite quotes is from the legendary Peter Drucker: **"Without theory, experience has no meaning. Without theory, one has no questions to ask. Hence, without theory, there is no learning."** This profound idea resonates deeply with my approach to immersive learning, especially in the context of **Scrum** and **Agile**.

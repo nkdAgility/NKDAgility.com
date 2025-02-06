@@ -3,7 +3,7 @@ title: Under employed - 30% upfront, balance when you are employed
 description: Struggling to find your dream job? Discover NKD Agility's unique pricing for the under employed—30% upfront, balance upon employment. Watch now!
 date: 2023-06-14T07:00:18Z
 ResourceId: UeGdC6GRyq4
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: UeGdC6GRyq4
@@ -21,18 +21,38 @@ aliases:
 - /resources/videos/UeGdC6GRyq4
 - /resources/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed-
 - /resources/UeGdC6GRyq4
+aliasesFor404:
+- /resources/under-employed-30-upfront-balance-when-you-are-employed
+- /resources/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed
+- /resources/videos/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed-
+- /resources/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Training
-- Scrum.Org training
-- Agile Scrum Training
-- Scrum Certification
-- Scrum Courses
-- Scrum Course
+- Agile Certification
+- Employee Engagement
+- Agile Mentoring Program
+- Agile Leadership
+- Continuous Learning
+- Value Delivery
+- Agile Product Management
+- Organisational Change
+- Agile Community
+- Entrepreneurship
+- Change Management
+- Market Adaptability
+- Technical Mastery
+- Agile Transformation
+- Customer Feedback Loops
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Discovery and Learning
+- Value Delivery
+- Resilience and Change
 
 ---
 ## It's Your Time to Shine: Pay 30% Up Front, Balance When You Land the Job 

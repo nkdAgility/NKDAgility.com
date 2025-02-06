@@ -3,7 +3,7 @@ title: The Synergy Between Product Management and Product Development in Agile E
 description: Explore the vital partnership between Agile Product Management and Product Development. Learn how their collaboration drives innovation and market success!
 date: 2024-07-25T06:45:02Z
 ResourceId: YGBrayIqm7k
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: YGBrayIqm7k
@@ -20,19 +20,36 @@ aliases:
 - /resources/videos/YGBrayIqm7k
 - /resources/agile-product-management-vs-product-development-understanding-the-crucial-partnership-for-success
 - /resources/YGBrayIqm7k
+aliasesFor404:
+- /resources/the-synergy-between-product-management-and-product-development-in-agile-environments
+- /resources/videos/agile-product-management-vs-product-development-understanding-the-crucial-partnership-for-success
+- /resources/agile-product-management-vs-product-development-understanding-the-crucial-partnership-for-success
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Agile product management
-- Agile product development
-- Agile project management
-- product management
-- product development
-- project management
+- Agile Product Discovery
+- Evidence Based Management
+- Strategic Goals
+- Value Delivery
+- Customer Feedback Loops
+- Ability to Innovate
+- Agile Strategy
+- Product Strategy
+- Team Collaboration
+- Continuous Improvement
+- Agile Leadership
+- Agile Software Development
+- Lean Product Development
+- Business Agility
 resourceTypes:
 - video
+categories:
+- Agile Product Management
+- Value Delivery
+- Metrics and Learning
+- Discovery and Learning
+- Organisational Agility
 
 ---
 In the dynamic world of product creation, success hinges on two critical components: **Product Management** and **Product Development**. These elements, while distinct in their functions, are deeply interconnected and essential for delivering products that truly meet market needs. In this post, we’ll explore the roles of these two components, how they complement each other, and the importance of their integration in the agile process.

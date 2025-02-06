@@ -3,7 +3,7 @@ title: What are 3 key takeaways for a scrum team after attending an APS immersiv
 description: Discover 3 essential takeaways for scrum teams from the APS immersive learning course, enhancing their adoption and improvement of professional Scrum.
 date: 2023-08-14T07:00:01Z
 ResourceId: 221BbTUqw7Q
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 221BbTUqw7Q
@@ -21,28 +21,37 @@ aliases:
 - /resources/videos/221BbTUqw7Q
 - /resources/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-course-
 - /resources/221BbTUqw7Q
+aliasesFor404:
+- /resources/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-experience-course-2
+- /resources/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-experience-course
+- /resources/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-course
+- /resources/videos/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-course-
+- /resources/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-course-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- APS
-- Applying Professional Scrum
-- Applying Professional Scrum Course
-- Immersive learning
-- Immersive learning scrum course
-- Scrum.Org
-- Scrum course
-- Scrum Certification
-- Agile
-- Agile Scrum Training
-- Agile courses
-- Agile training
-- Agile project management
-- Agile product development
-- Agility
+- Scrum
+- Scrum Team
+- Scrum Master
+- Definition of Done
+- Continuous Improvement
+- Agile Product Ownership
+- Empirical Process Control
+- Agile Values and Principles
+- Team Collaboration
+- Agile Product Management
+- Agile Coaching
+- Agile Transformation
+- Evidence Based Improvement
+- Team Motivation
 resourceTypes:
 - video
 layout: video
+categories:
+- Scrum
+- People and Process
+- Discovery and Learning
 
 ---
 ## Scrum's True Potential: A Journey Through the APS Immersive Class

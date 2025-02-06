@@ -2,14 +2,13 @@
 title: Scottish Visual Studio 2010 Launch event with Jason Zander
 description: Join us for the Visual Studio 2010 launch in Edinburgh with Jason Zander. Discover new tools for Windows, Web, and Cloud development. Don't miss out!
 ResourceId: 6uW7o7pk9WZ
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 57
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-31
 creator: Martin Hinshelwood
-id: "57"
 layout: blog
 resourceTypes: blog
 slug: scottish-visual-studio-2010-launch-event-with-jason-zander
@@ -21,16 +20,13 @@ aliases:
 aliasesFor404:
 - /scottish-visual-studio-2010-launch-event-with-jason-zander
 - /blog/scottish-visual-studio-2010-launch-event-with-jason-zander
+- /resources/blog/scottish-visual-studio-2010-launch-event-with-jason-zander
 tags:
-- tfs
-- tfs2010
-- tools
-- visual-studio
-- vs2010
-- wp7
+- Agile Software Development
+- Agile Product Management
 categories:
-- events-and-presentations
-- me
+- Application Lifecycle Management
+- Events and Presentations
 preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---

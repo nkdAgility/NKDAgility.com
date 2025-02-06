@@ -3,7 +3,7 @@ title: Reasons to do a PSPO-A Course in 60 Seconds
 description: 'Discover why the Advanced PSPO-A course is a game-changer for your career in just 60 seconds! Join Martin Hinshelwood for insights. #Agile #Scrum #Shorts'
 date: 2023-07-11T14:00:32Z
 ResourceId: faoWuCkKC0U
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: faoWuCkKC0U
@@ -20,18 +20,36 @@ aliases:
 - /resources/videos/reasons-to-do-a-pspo-a-course-in-60-seconds
 - /resources/videos/faoWuCkKC0U
 - /resources/faoWuCkKC0U
+aliasesFor404:
+- /resources/reasons-to-do-a-pspo-a-course-in-60-seconds-2
+- /resources/reasons-to-do-a-pspo-a-course-in-60-seconds
+- /resources/videos/reasons-to-do-a-pspo-a-course-in-60-seconds
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- PSPO A
-- Professional Scrum Product Owner
-- Advanced Professional Scrum Product Owner
-- Scrum.Org
-- Scrum Training
-- Scrum Certification
+- Scrum Product Management
+- Agile Product Management
+- Team Collaboration
+- Agile Product Discovery
+- Agile Planning
+- Agile Values and Principles
+- Customer Feedback Loops
+- Continuous Improvement
+- Agile Transformation
+- Agile Certification
+- Product Owner
+- Agile Community
+- Change Management
+- Business Agility
 resourceTypes:
 - video
+categories:
+- Agile Product Management
+- Scrum
+- People and Process
+- Value Delivery
+- Discovery and Learning
 
 ---
 ## Step Up Your Game with the PSPO-A Course

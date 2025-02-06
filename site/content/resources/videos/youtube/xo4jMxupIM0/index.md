@@ -3,7 +3,7 @@ title: What makes the PSM immersive learning experience so unique
 description: Discover the power of PSM immersive learning! Martin Hinshelwood reveals how it elevates Scrum Masters to new heights in just two days.
 date: 2023-11-20T07:51:59Z
 ResourceId: xo4jMxupIM0
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: xo4jMxupIM0
@@ -21,34 +21,35 @@ aliases:
 - /resources/videos/what-makes-the-psm-immersive-learning-experience-so-unique
 - /resources/what-makes-the-psm-immersive-learning-experience-so-unique
 - /resources/xo4jMxupIM0
+aliasesFor404:
+- /resources/videos/what-makes-the-psm-immersive-learning-experience-so-unique
+- /resources/what-makes-the-psm-immersive-learning-experience-so-unique
 resourceTypes:
 - video
 slug: what-makes-the-psm-immersive-learning-experience-so-unique
 layout: video
 tags:
-- Agile
+- Scrum Master
+- Professional Scrum
+- Team Collaboration
+- Continuous Learning
+- Agile Product Validation
+- Customer Feedback Loops
+- Evidence Based Improvement
+- Discovery and Learning
+- Agile Problem Solving
+- Agile Values and Principles
+- Collaboration Tools
+- Agile Transformation
+- Psychological Safety
+- Systems Thinking
+- Change Management
+categories:
 - Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Discovery and Learning
+- People and Process
+- Metrics and Learning
+- Organisational Agility
 
 ---
  If you've got experience as a #scrummaster and are looking to level up to a #professionalscrummaster skillset, the 2-day learning format is perfect. If you are new to #scrum and want to become a professional scrum master, it makes sense to explore a deeper, richer, longer learning format to really onboard the philosophy, practices, and tools that lead to success.

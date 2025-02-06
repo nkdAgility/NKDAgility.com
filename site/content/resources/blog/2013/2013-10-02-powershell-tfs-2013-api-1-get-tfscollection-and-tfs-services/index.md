@@ -2,14 +2,13 @@
 title: 'PowerShell TFS 2013 API #1 - Get TfsCollection and TFS Services'
 description: Learn to harness PowerShell with the TFS 2013 API in this comprehensive guide. Discover essential functions to manage TFS collections and services effectively!
 ResourceId: kaEC07NAXT7
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10149
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-10-02
 creator: Martin Hinshelwood
-id: "10149"
 layout: blog
 resourceTypes: blog
 slug: powershell-tfs-2013-api-1-get-tfscollection-and-tfs-services
@@ -26,16 +25,13 @@ aliasesFor404:
 - /blog/powershell-tfs-2013-api-1-get-tfscollection-and-tfs-services
 - /powershell-tfs-2013-api--1---get-tfscollection-and-tfs-services
 - /blog/powershell-tfs-2013-api--1---get-tfscollection-and-tfs-services
+- /powershell-tfs-2013-api--1
+- /resources/blog/powershell-tfs-2013-api-1-get-tfscollection-and-tfs-services
 tags:
-- powershell
-- processconfiguration
-- projectmanagement
-- tfs
-- tfs-2013
-- versioncontrol
-- workitemtracking
+- Agile Software Development
+- Azure DevOps
 categories:
-- code-and-complexity
+- Azure DevOps
 preview: metro-powershell-logo-1-1.png
 
 ---

@@ -3,7 +3,7 @@ title: What is Sprint Planning?
 description: Discover the essentials of sprint planning in Scrum! Join Martin Hinshelwood as he explains its importance and effective strategies for your team.
 date: 2023-05-24T14:00:36Z
 ResourceId: nMkit8zBxG0
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: nMkit8zBxG0
@@ -20,22 +20,32 @@ aliases:
 - /resources/videos/nMkit8zBxG0
 - /resources/what-is-sprint-planning-
 - /resources/nMkit8zBxG0
+aliasesFor404:
+- /resources/what-is-sprint-planning
+- /resources/videos/what-is-sprint-planning-
+- /resources/what-is-sprint-planning-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Planning
-- Sprint
-- Scrum
-- Agile
-- Planning
-- Project Management
-- Product Development
-- Agile Project Management
-- Agile Product Development
-- Agile planning
+- Sprint Planning Workshop
+- Scrum Product Management
+- Definition of Done
+- Agile Product Management
+- Team Collaboration
+- Technical Debt
+- Continuous Improvement
+- Scrum Team
+- Agile Values and Principles
+- Agile Software Development
+- Value Delivery
+- Backlog Refinement
+- Agile Product Discovery
+- Agile Methodology
 resourceTypes:
 - video
+categories:
+- Kanban
 
 ---
 ## Setting the Tone for Success

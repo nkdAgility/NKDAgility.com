@@ -3,7 +3,7 @@ title: Monitoring and Measuring for Success
 description: Discover how to shift from traditional budgeting to hypothesis-driven product development for maximum impact with Martin Hinshelwood from NKD Agility.
 date: 2024-12-11T06:30:00Z
 ResourceId: Ig-HpUfQr3M
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Ig-HpUfQr3M
@@ -17,30 +17,37 @@ aliases:
 - /resources/videos/monitoring-and-measuring-for-success
 - /resources/monitoring-and-measuring-for-success
 - /resources/Ig-HpUfQr3M
+aliasesFor404:
+- /resources/videos/monitoring-and-measuring-for-success
+- /resources/monitoring-and-measuring-for-success
 preview: https://i9.ytimg.com/vi/Ig-HpUfQr3M/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLACFsGXtu1B4-DDKlhw6S8Y18Zr0w
 duration: 501
 isShort: false
 tags:
-- Software development
-- Software engineering
-- Agile
-- Product Development
-- Agile Product Development
-- Product Management
-- Agile Product Management
-- Project Management
-- Agile Project Management
-- CTO
-- Project Manager
-- Product Manager
-- Product Owner
-- Scrum Master
-- Scrum
+- Hypothesis Driven Development
+- Agile Product Discovery
+- Technical Debt
+- Evidence Based Management
+- Customer Feedback Loops
+- Agile Planning
+- Experimentation
+- Value Delivery
+- Continuous Improvement
+- Agile Strategy
+- Business Agility
+- Team Collaboration
+- Agile Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Metrics and Learning
+- Discovery and Learning
+- Value Delivery
+- Organisational Agility
+- Technical Excellence
 
 ---
  Hypothesis-Driven Product Development: Allocating Budget for Maximum Impact | Martin Hinshelwood

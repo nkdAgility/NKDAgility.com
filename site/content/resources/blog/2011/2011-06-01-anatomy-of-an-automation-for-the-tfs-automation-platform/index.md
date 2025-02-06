@@ -2,14 +2,13 @@
 title: Anatomy of an Automation for the Tfs Automation Platform
 description: Explore the anatomy of automations for the TFS Automation Platform. Learn how to integrate and deploy extensions effectively for enhanced productivity.
 ResourceId: 5naWQQ14MHe
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 3361
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-06-01
 creator: Martin Hinshelwood
-id: "3361"
 layout: blog
 resourceTypes: blog
 slug: anatomy-of-an-automation-for-the-tfs-automation-platform
@@ -21,14 +20,13 @@ aliases:
 aliasesFor404:
 - /anatomy-of-an-automation-for-the-tfs-automation-platform
 - /blog/anatomy-of-an-automation-for-the-tfs-automation-platform
+- /resources/blog/anatomy-of-an-automation-for-the-tfs-automation-platform
 tags:
-- nwcadence
-- tfs
-- tfs2010
-- tfsap
-- tools
-- visual-studio
-- vsalmrangers
+- Agile Software Development
+- Azure DevOps
+categories:
+- Azure DevOps
+- Install and Configuration
 
 ---
 [![Turk-Automaton](images/Turk-Automaton_thumb1-3-3.gif "Turk-Automaton")](http://blog.hinshelwood.com/files/2011/06/Turk-Automaton1.gif)If you can’t wait for the Tfs Automation Platform, but you still want to eventually deploy your extensions using it, what can you do?

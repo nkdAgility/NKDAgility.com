@@ -2,14 +2,13 @@
 title: What to do after a servicing fails on TFS 2010
 description: Discover essential steps to take when a servicing fails on TFS 2010. Learn from real-world challenges and expert solutions to ensure a smooth upgrade.
 ResourceId: 3MtCtNaIpU3
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 20
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2011-01-04
 creator: Martin Hinshelwood
-id: "20"
 layout: blog
 resourceTypes: blog
 slug: what-to-do-after-a-servicing-fails-on-tfs-2010
@@ -21,12 +20,13 @@ aliases:
 aliasesFor404:
 - /what-to-do-after-a-servicing-fails-on-tfs-2010
 - /blog/what-to-do-after-a-servicing-fails-on-tfs-2010
+- /resources/blog/what-to-do-after-a-servicing-fails-on-tfs-2010
 tags:
-- nwcadence
-- tf254078
-- tfs
-- tfs2010
-- tools
+- Technical Debt
+- Change Management
+categories:
+- Azure DevOps
+- Install and Configuration
 
 ---
 [![vs2010alm](images/7e1d3e9df51b_12C53-vs2010alm_thumb-8-8.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-7e1d3e9df51b_12C53-vs2010alm_2.png)What do you do if you run a couple of hotfixes against your [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") 2010 server and you start to see seem odd behaviour?

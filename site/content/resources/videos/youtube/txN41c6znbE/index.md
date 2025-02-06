@@ -3,7 +3,7 @@ title: 'Where Agile Went Wrong: Understanding the Competence Crisis'
 description: "Explore the competence crisis in Agile! Discover why skilled Scrum Masters matter and how to bridge the gap for real-world success. \U0001F331\U0001F680 #AgileLeadership"
 date: 2024-10-14T07:00:38Z
 ResourceId: txN41c6znbE
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: txN41c6znbE
@@ -20,15 +20,36 @@ aliases:
 - /resources/videos/txN41c6znbE
 - /resources/the-difference-between-a-rock-solid,-deeply-competent-scrum-master-and-a-jira-jockey
 - /resources/txN41c6znbE
+aliasesFor404:
+- /resources/where-agile-went-wrong-understanding-the-competence-crisis
+- /resources/videos/the-difference-between-a-rock-solid,-deeply-competent-scrum-master-and-a-jira-jockey
+- /resources/the-difference-between-a-rock-solid,-deeply-competent-scrum-master-and-a-jira-jockey
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- Scrum Master
+- Agile Transformation
+- Continuous Learning
+- Agile Values and Principles
+- Technical Excellence
+- Agile Product Management
+- Organisational Change
+- Evidence Based Leadership
+- Team Collaboration
+- Agile Coaching
+- Agile Community
+- Employee Engagement
+- Systems Thinking
+- Agile Software Development
+- Leadership Training
 resourceTypes:
 - video
+categories:
+- Scrum
+- Organisational Agility
+- People and Process
+- Discovery and Learning
+- Technical Excellence
 
 ---
 Agile was supposed to revolutionize the way we build and deliver products, but it veered off track surprisingly early. The seeds of these challenges were planted during the creation of the Agile Manifesto itself. At Snowbird, a group of experienced and capable practitioners crafted a vision for agility in software development. However, they made some assumptions that have come to haunt us.

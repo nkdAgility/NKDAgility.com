@@ -3,7 +3,7 @@ title: Most Common Thing You Hear in a PSPO Course?
 description: "Discover Simon Reindl's impact on Agile in this insightful short! Join Martin Hinshelwood as he highlights key figures in Scrum and Agile. #Agile #Scrum"
 date: 2023-07-06T14:33:51Z
 ResourceId: pazZ3mW5VHM
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: pazZ3mW5VHM
@@ -22,15 +22,32 @@ aliases:
 - /resources/videos/most-influential-people-in-agile-simon-reindl
 - /resources/videos/pazZ3mW5VHM
 - /resources/pazZ3mW5VHM
+aliasesFor404:
+- /resources/part-2-most-influential-people-in-agile-2
+- /resources/part-2-most-influential-people-in-agile
+- /resources/most-common-thing-you-hear-in-a-pspo-course
+- /resources/most-influential-people-in-agile-simon-reindl
+- /resources/videos/most-influential-people-in-agile-simon-reindl
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Agile leaders
-- Influential people in Agile
+- Agile Coaching
+- Team Collaboration
+- Agile Values and Principles
+- Scrum Team
+- Agile Mentoring
+- Team Motivation
+- Customer Feedback Loops
+- Continuous Improvement
+- Agile Community
+- Agile Leadership
 resourceTypes:
 - video
+categories:
+- People and Process
+- Organisational Psychology
+- Events and Presentations
 
 ---
 ## Common Comments from the PSPO Course

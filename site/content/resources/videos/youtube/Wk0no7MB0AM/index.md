@@ -3,7 +3,7 @@ title: War! 7 Harbingers agile apocalypse. But shorter!
 description: Discover how to de-escalate team conflict and foster collaboration in Agile environments. Learn valuable tips for creating a positive workplace! ⚔️✌️
 date: 2023-10-30T14:30:10Z
 ResourceId: Wk0no7MB0AM
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Wk0no7MB0AM
@@ -16,42 +16,26 @@ aliases:
 - /resources/videos/war!-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/war!-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/Wk0no7MB0AM
+aliasesFor404:
+- /resources/videos/war!-7-harbingers-agile-apocalypse-but-shorter!
+- /resources/war!-7-harbingers-agile-apocalypse-but-shorter!
 preview: https://i.ytimg.com/vi/Wk0no7MB0AM/maxresdefault.jpg
 duration: 59
 isShort: true
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
-- 7 signs
-- agile-pocalypse
-- agile-apocalypse
+- Agile Project Management
+- Agile Leadership
+- Agile Methodology
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Organisational Psychology
 
 ---
  War is one of the seven signs of the Agile-pocolypse! ⚔️

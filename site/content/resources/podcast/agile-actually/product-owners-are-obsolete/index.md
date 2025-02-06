@@ -1,15 +1,39 @@
 ---
-id: "49092"
-title: "Product owners are obsolete!"
-date: "2023-04-27"
+title: Product owners are obsolete!
+description: Join us on Agile Actually as Ralph Jocham explores whether strong product owners make product managers obsolete. Tune in for insights!
+ResourceId: dKyRYit_4xO
+ResourceImport: true
+ResourceType: podcast
+date: 2023-04-27
 categories:
-  - "agility"
-author: "MrHinsh"
+- Agile Product Management
+- Scrum
+- People and Process
+- Discovery and Learning
+- Value Delivery
+author: MrHinsh
 resourceTypes: podcast
 layout: podcast
-slug: "product-owners-are-obsolete"
----
+slug: product-owners-are-obsolete
+aliases:
+- /resources/dKyRYit_4xO
+tags:
+- Product Owner
+- Scrum Product Management
+- Agile Product Management
+- Agile Product Discovery
+- Agile Coaching
+- Agile Transformation
+- Team Collaboration
+- Agile Values and Principles
+- Continuous Improvement
+- Customer Feedback Loops
+- Agile Software Development
+- Agile Community
+- Agile Leadership
+- Evidence Based Management
 
+---
 In this month's episode of Agile Actually, we picked up some whispers on the [#agile](https://www.youtube.com/hashtag/agile) winds about [#productmanagement](https://www.youtube.com/hashtag/productmanagement) being obsolete. The idea that if you have a strong [#productowner](https://www.youtube.com/hashtag/productowner) in [#scrum](https://www.youtube.com/hashtag/scrum), there is no need for a [#productmanager](https://www.youtube.com/hashtag/productmanager) at all.
 
 To explore this concept, we invited Ralph Jocham - a [#productmanager](https://www.youtube.com/hashtag/productmanager) and [#productowner](https://www.youtube.com/hashtag/productowner) expert - to talk about the differences between product ownership and product management and whether these whispers held any truth.

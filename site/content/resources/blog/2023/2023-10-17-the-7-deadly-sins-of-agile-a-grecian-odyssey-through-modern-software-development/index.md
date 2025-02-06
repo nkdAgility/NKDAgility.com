@@ -2,7 +2,7 @@
 title: 'The 7 Deadly Sins of Agile: A Grecian Odyssey through Modern Software Development'
 description: Explore the 7 Deadly Sins of Agile through ancient Greek wisdom. Learn to navigate modern software challenges and foster a culture of growth and collaboration.
 ResourceId: DgJV3wMMjWr
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 50309
 ResourceImportSource: Wordpress
@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2023-10-17
 AudioNative: true
 creator: Martin Hinshelwood
-id: "50309"
 layout: blog
 resourceTypes: blog
 slug: the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
@@ -26,10 +25,23 @@ aliasesFor404:
 - /blog/the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
 - /the-7-deadly-sins-of-agile--a-grecian-odyssey-through-modern-software-development
 - /blog/the-7-deadly-sins-of-agile--a-grecian-odyssey-through-modern-software-development
+- /resources/blog/the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
 tags:
-- homepage
+- Agile Coaching
+- Agile Transformation
+- Team Collaboration
+- Change Management
+- Agile Values and Principles
+- Continuous Improvement
+- Organisational Culture
+- Agile Software Development
+- Agile Leadership
+- Agile Methodology
 categories:
-- agility
+- Organisational Agility
+- People and Process
+- Discovery and Learning
+- Value Delivery
 preview: NKDAgility-technically-7DeadlySins-16-15.jpg
 
 ---

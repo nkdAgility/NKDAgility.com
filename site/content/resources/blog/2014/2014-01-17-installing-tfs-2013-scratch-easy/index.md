@@ -2,14 +2,13 @@
 title: Installing TFS 2013 from scratch is easy
 description: Learn how to easily install TFS 2013 from scratch with step-by-step videos. Discover basic and advanced setups for efficient configuration and management.
 ResourceId: VfADNDpkNbe
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10332
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-01-17
 creator: Martin Hinshelwood
-id: "10332"
 layout: blog
 resourceTypes: blog
 slug: installing-tfs-2013-scratch-easy
@@ -25,14 +24,26 @@ aliasesFor404:
 - /blog/installing-tfs-2013-scratch-easy
 - /installing-tfs-2013-from-scratch-is-easy
 - /blog/installing-tfs-2013-from-scratch-is-easy
+- /resources/blog/installing-tfs-2013-scratch-easy
 tags:
-- configuration
-- install
-- tfs
-- tfs-2013
-- videos
+- Agile Tools
+- Azure DevOps
+- Continuous Delivery
+- Technical Excellence
+- Agile Software Development
+- Deployment Strategies
+- Agile Product Management
+- Customer Feedback Loops
+- Evidence Based Management
+- Agile Planning Tools
+- Value Delivery
+- Agile Product Discovery
+- Lean Principles
+- Software Development
+- Agile Methodology
 categories:
-- install-and-configuration
+- Install and Configuration
+- Azure DevOps
 
 ---
 It had been a while since I installed TFS from scratch and I had a few questions from a customer on the subject. So instead of creating yet another installing TFS post I decided to create a couple of videos instead.

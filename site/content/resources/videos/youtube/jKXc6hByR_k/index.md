@@ -3,7 +3,7 @@ title: Your Partner in On Time, On Budget Delivery
 description: Unlock your team's potential! Join Martin Hinshelwood as he reveals how to maximise ROI through high-quality work and agile practices.
 date: 2024-12-13T06:30:00Z
 ResourceId: jKXc6hByR_k
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: jKXc6hByR_k
@@ -17,31 +17,37 @@ aliases:
 - /resources/videos/your-partner-in-on-time,-on-budget-delivery
 - /resources/your-partner-in-on-time,-on-budget-delivery
 - /resources/jKXc6hByR_k
+aliasesFor404:
+- /resources/videos/your-partner-in-on-time,-on-budget-delivery
+- /resources/your-partner-in-on-time,-on-budget-delivery
 preview: https://i9.ytimg.com/vi/jKXc6hByR_k/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLC_neJQ7HQOO8CRb5RGMzl5ZAqXnA
 duration: 172
 isShort: false
 tags:
-- Software development
-- Software engineering
-- Agile
-- Product development
-- Agile product development
-- Project Management
-- Agile Project Management
-- Product management
-- Agile product management
-- Scrum
-- CTO
-- Project manager
-- Product manager
-- Product Owner
-- Scrum Master
-- Developer
+- Agile Strategy
+- Value Prioritisation
+- Technical Excellence
+- Agile Coaching
+- Business Agility
+- Agile Product Discovery
+- Evidence Based Management
+- Continuous Improvement
+- Agile Leadership
+- Systems Thinking
+- Decision Theory
+- Agile Transformation
+- Customer Feedback Loops
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Value Delivery
+- Technical Excellence
+- Organisational Agility
+- Value Stream Management
+- People and Process
 
 ---
  Building High-Value Teams and Maximizing ROI with Naked Agility | Martin Hinshelwood

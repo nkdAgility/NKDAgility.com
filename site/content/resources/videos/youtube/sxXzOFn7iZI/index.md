@@ -3,7 +3,7 @@ title: 'Hiring an Agile Coach: What You Need to Know'
 description: 'Discover 5 key factors to consider before hiring an #AgileCoach in Part 3 of our series with Martin Hinshelwood. #Agile #Scrum #ProjectManagement'
 date: 2023-11-22T11:00:46Z
 ResourceId: sxXzOFn7iZI
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: sxXzOFn7iZI
@@ -20,35 +20,30 @@ aliases:
 - /resources/videos/sxXzOFn7iZI
 - /resources/5-things-to-consider-before-hiring-an-agilecoach-part-3
 - /resources/sxXzOFn7iZI
+aliasesFor404:
+- /resources/hiring-an-agile-coach-what-you-need-to-know
+- /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-3
+- /resources/5-things-to-consider-before-hiring-an-agilecoach-part-3
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Agile Coaching
+- Agile Mentoring
+- Team Motivation
+- Team Collaboration
+- Change Management
+- Agile Values and Principles
+- Continuous Improvement
+- Employee Engagement
+- Agile Community
 resourceTypes:
 - video
+categories:
+- People and Process
+- Organisational Agility
+- Agile Product Management
+- Discovery and Learning
 
 ---
 When it comes to hiring an Agile coach, there are a few key things to consider. It's not just about finding someone who can coach individuals or teams. The role of an Agile coach is far more comprehensive than that. You need someone who can **teach, mentor, and inspire** people in your organization to greatness, helping them embrace Agile principles and adopt the practices that drive success.

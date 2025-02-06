@@ -2,14 +2,13 @@
 title: Run a router on Hyper-V
 description: Learn how to run a router on Hyper-V for seamless VM internet access in corporate and hotel networks. Discover efficient setup tips and solutions!
 ResourceId: 0Ly3betXY-6
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10617
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-06-25
 creator: Martin Hinshelwood
-id: "10617"
 layout: blog
 resourceTypes: blog
 slug: run-router-hyper-v
@@ -25,15 +24,24 @@ aliasesFor404:
 - /blog/run-router-hyper-v
 - /run-a-router-on-hyper-v
 - /blog/run-a-router-on-hyper-v
+- /resources/blog/run-router-hyper-v
 tags:
-- hootoo-tripmate
-- hyper-v
-- network
-- router
+- Agile Software Development
+- Agile Product Management
+- Agile Tools
+- Technical Excellence
+- Continuous Delivery
+- Value Delivery
+- Agile Product Discovery
+- Lean Thinking
+- Agile Planning
+- Systems Thinking
+- Evidence Based Management
+- Agile Transformation
+- Digital Transformation
+- Organisational Agility
 categories:
-- install-and-configuration
-- problems-and-puzzles
-- tools-and-techniques
+- Technical Excellence
 preview: naked-alm-hyper-v-17-17.png
 
 ---

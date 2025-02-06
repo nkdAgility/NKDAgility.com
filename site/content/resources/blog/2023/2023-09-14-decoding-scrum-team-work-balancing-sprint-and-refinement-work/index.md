@@ -2,7 +2,7 @@
 title: 'Decoding Scrum Team Work: Balancing Sprint and Refinement Work'
 description: Master the balance between Sprint and Refinement work in Scrum. Discover strategies to enhance team efficiency and achieve your product goals effectively.
 ResourceId: RCMVmNzZDfV
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 49783
 ResourceImportSource: Wordpress
@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2023-09-14
 AudioNative: true
 creator: Martin Hinshelwood
-id: "49783"
 layout: blog
 resourceTypes: blog
 slug: decoding-scrum-team-work-balancing-sprint-and-refinement-work
@@ -26,11 +25,24 @@ aliasesFor404:
 - /blog/decoding-scrum-team-work-balancing-sprint-and-refinement-work
 - /decoding-scrum-team-work--balancing-sprint-and-refinement-work
 - /blog/decoding-scrum-team-work--balancing-sprint-and-refinement-work
+- /resources/blog/decoding-scrum-team-work-balancing-sprint-and-refinement-work
 tags:
-- featured
-- homepage
+- Scrum
+- Agile Planning
+- Backlog Refinement
+- Agile Tools
+- Azure DevOps
+- Team Collaboration
+- Agile Product Management
+- Agile Software Development
+- Scrum Product Management
+- Agile Methodology
 categories:
-- agility
+- Scrum
+- Agile Product Management
+- People and Process
+- Azure DevOps
+- Value Delivery
 preview: NKDAgility-technically-SprintRefignementBallance-6-6.jpg
 
 ---

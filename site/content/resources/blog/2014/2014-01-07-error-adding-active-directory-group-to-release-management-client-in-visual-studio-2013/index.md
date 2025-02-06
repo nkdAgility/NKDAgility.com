@@ -2,14 +2,13 @@
 title: Error adding Active Directory Group to Release Management Client in Visual Studio 2013
 description: Discover how to resolve the unhandled exception when adding Active Directory groups in Visual Studio 2013's Release Management Client. Get expert tips now!
 ResourceId: k9Ptd76Xl_1
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10316
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-01-07
 creator: Martin Hinshelwood
-id: "10316"
 layout: blog
 resourceTypes: blog
 slug: error-adding-active-directory-group-to-release-management-client-in-visual-studio-2013
@@ -21,15 +20,24 @@ aliases:
 aliasesFor404:
 - /error-adding-active-directory-group-to-release-management-client-in-visual-studio-2013
 - /blog/error-adding-active-directory-group-to-release-management-client-in-visual-studio-2013
+- /resources/blog/error-adding-active-directory-group-to-release-management-client-in-visual-studio-2013
 tags:
-- inrelease
-- release-management
-- tfs
-- tfs2013
-- visual-studio-2013
-- visual-studio
+- Azure DevOps
+- Agile Software Development
+- Technical Excellence
+- Continuous Delivery
+- Evidence Based Management
+- Agile Problem Solving
+- Agile Project Management
+- Customer Feedback Loops
+- Agile Product Management
+- Release Planning
+- Technical Debt
+- Agile Methodology
+- Application Lifecycle Management
+- Software Development
 categories:
-- problems-and-puzzles
+- Technical Excellence
 
 ---
 When you try to add a group from Active Directory in the Release Management Client in Visual Studio 2013 you get an unhandled exception.

@@ -3,7 +3,7 @@ title: 'Continuous Adaptation: The Key to Success in a Dynamic Market'
 description: "Discover how adapting to change drives business success in our fast-paced world. Join us to learn key strategies for thriving amidst constant evolution! \U0001F30D✨"
 date: 2024-01-19T06:08:37Z
 ResourceId: Bjz6SwLDIY4
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Bjz6SwLDIY4
@@ -20,35 +20,34 @@ aliases:
 - /resources/videos/Bjz6SwLDIY4
 - /resources/the-art-of-life-lies-in-a-constant-readjustment-to-our-surroundings
 - /resources/Bjz6SwLDIY4
+aliasesFor404:
+- /resources/continuous-adaptation-the-key-to-success-in-a-dynamic-market
+- /resources/videos/the-art-of-life-lies-in-a-constant-readjustment-to-our-surroundings
+- /resources/the-art-of-life-lies-in-a-constant-readjustment-to-our-surroundings
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Business Agility
+- Continuous Improvement
+- Market Adaptability
+- Organisational Agility
+- Change Management
+- Agile Strategy
+- Adaptive Leadership
+- Organisational Change
+- Agile Transformation
+- Customer Feedback Loops
+- Evidence Based Management
+- Systems Thinking
+- Agile Values and Principles
+- Resilience and Change
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- Market Adaptability
+- Resilience and Change
 
 ---
 In today's fast-paced world, both individuals and businesses must constantly adapt to their surroundings. Whether it's a shift in the market, unforeseen circumstances, or technological advancements, those who thrive are the ones who can effectively readjust to the changes around them.
