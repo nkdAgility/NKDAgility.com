@@ -2,7 +2,7 @@
 title: Are Scrum Masters agents for change?
 description: Explore how Scrum Masters drive change in organizations. Learn the importance of effective Scrum implementation and the value of Professional Scrum Master training.
 ResourceId: d3jujAd6f6r
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 3823
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/are-scrum-masters-agents-for-change
 - /are-scrum-masters-agents-for-change-
 - /blog/are-scrum-masters-agents-for-change-
+- /resources/blog/are-scrum-masters-agents-for-change
 tags:
 - agile
 - define

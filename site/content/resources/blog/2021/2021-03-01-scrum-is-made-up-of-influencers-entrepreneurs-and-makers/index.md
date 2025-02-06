@@ -2,7 +2,7 @@
 title: Scrum is made up of Influencers, Entrepreneurs, and Makers
 description: Explore how Scrum thrives on the synergy of Influencers, Entrepreneurs, and Makers. Discover key roles and training for maximizing product value!
 ResourceId: DdQ1nKvk-hv
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 45946
 ResourceImportSource: Wordpress
@@ -30,6 +30,7 @@ aliasesFor404:
 - /blog/scrum-is-made-up-of-influencers,-entrepreneurs,-and-makers
 - /scrum-is-made-up-of-influencers--entrepreneurs--and-makers
 - /blog/scrum-is-made-up-of-influencers--entrepreneurs--and-makers
+- /resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
 tags:
 - entrepreneurs
 - leadership

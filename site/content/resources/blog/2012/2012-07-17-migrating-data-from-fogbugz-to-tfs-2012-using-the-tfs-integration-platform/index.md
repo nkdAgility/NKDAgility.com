@@ -2,7 +2,7 @@
 title: Migrating data from FogBugz to TFS 2012 using the TFS Integration Platform
 description: Learn how to migrate data from FogBugz to TFS 2012 using a custom CSV adapter. Streamline your upgrade process with expert tips and practical guidance.
 ResourceId: aEBNMpag_Cn
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 6202
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform
 - /blog/migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform
+- /resources/blog/migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform
 tags:
 - configuration
 - infrastructure

@@ -2,7 +2,7 @@
 title: Linked in Codeplex developers group
 description: Join the Codeplex LinkedIn groups for developers and coordinators to connect, collaborate, and enhance your project experience. Get involved today!
 ResourceId: UJU5tO1-TLi
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 227
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /linked-in-codeplex-developers-group
 - /blog/linked-in-codeplex-developers-group
+- /resources/blog/linked-in-codeplex-developers-group
 categories:
 - me
 preview: nakedalm-logo-128-link-3-3.png

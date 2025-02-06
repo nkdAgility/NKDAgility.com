@@ -2,7 +2,7 @@
 title: Connect a Test Controller to Team Foundation Service
 description: Learn how to connect a Test Controller to Team Foundation Service for streamlined automated deployment and testing. Simplify your configuration today!
 ResourceId: D5NhnVpHAwD
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9348
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /connect-a-test-controller-to-team-foundation-service
 - /blog/connect-a-test-controller-to-team-foundation-service
+- /resources/blog/connect-a-test-controller-to-team-foundation-service
 tags:
 - configuration
 - infrastructure

@@ -2,7 +2,7 @@
 title: Upgrading from TFS 2010 Beta 2 to TFS 2010 RC done
 description: Discover the smooth upgrade process from TFS 2010 Beta 2 to RC, ensuring your development team is up and running efficiently. Get expert tips and insights!
 ResourceId: dg9tlise6Bd
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 70
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done
 - /blog/upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done
+- /resources/blog/upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done
 tags:
 - spf2010
 - ssw

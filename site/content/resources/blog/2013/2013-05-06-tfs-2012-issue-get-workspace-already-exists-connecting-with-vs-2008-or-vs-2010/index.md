@@ -2,7 +2,7 @@
 title: 'TFS 2012 Issue: Get Workspace already exists connecting with VS 2008 or VS 2010'
 description: Resolve the 'workspace already exists' error in TFS 2012 when using VS 2008 or VS 2010. Discover effective workarounds to streamline your workflow!
 ResourceId: ZbdFc4NfQUe
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9496
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/tfs-2012-issue-get-workspace-already-exists-connecting-with-vs-2008-or-vs-2010
 - /tfs-2012-issue--get-workspace-already-exists-connecting-with-vs-2008-or-vs-2010
 - /blog/tfs-2012-issue--get-workspace-already-exists-connecting-with-vs-2008-or-vs-2010
+- /resources/blog/tfs-2012-issue-get-workspace-already-exists-connecting-with-vs-2008-or-vs-2010
 tags:
 - kb
 - puzzles

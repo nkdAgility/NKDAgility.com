@@ -2,7 +2,7 @@
 title: How to deal with a stuck or infinitely queued build
 description: Learn how to troubleshoot stuck or infinitely queued builds in Team Foundation Server. Optimize your build process and ensure timely completions with expert tips!
 ResourceId: gfvOPIZKbEI
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 27
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /how-to-deal-with-a-stuck-or-infinitely-queued-build
 - /blog/how-to-deal-with-a-stuck-or-infinitely-queued-build
+- /resources/blog/how-to-deal-with-a-stuck-or-infinitely-queued-build
 tags:
 - codeproject
 - ssw

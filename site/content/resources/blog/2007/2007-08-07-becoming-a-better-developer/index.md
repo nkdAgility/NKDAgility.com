@@ -2,7 +2,7 @@
 title: Becoming a better developer...
 description: Explore practical tips and personal insights on becoming a better developer, including studying, tools, and embracing dyslexia as a strength.
 ResourceId: BonYegnhwPu
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 339
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/becoming-a-better-developer
 - /becoming-a-better-developer---
 - /blog/becoming-a-better-developer---
+- /resources/blog/becoming-a-better-developer
 tags:
 - dyslexia
 - ml

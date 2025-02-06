@@ -2,7 +2,7 @@
 title: Visual Studio SP1 and Team System SP1 are Released!
 description: Discover the latest updates with Visual Studio SP1 and Team System SP1! Get insights, download links, and bug fixes to enhance your development experience.
 ResourceId: t2k1Rx5nmd9
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 453
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/visual-studio-sp1-and-team-system-sp1-are-released
 - /visual-studio-sp1-and-team-system-sp1-are-released-
 - /blog/visual-studio-sp1-and-team-system-sp1-are-released-
+- /resources/blog/visual-studio-sp1-and-team-system-sp1-are-released
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

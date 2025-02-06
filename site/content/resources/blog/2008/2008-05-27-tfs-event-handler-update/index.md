@@ -2,7 +2,7 @@
 title: TFS Event Handler Update
 description: Discover the latest updates to the TFS Event Handler, fixing bugs and enhancing performance. Download now and improve your development workflow!
 ResourceId: 4sQLWkddZE1
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 221
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /tfs-event-handler-update
 - /blog/tfs-event-handler-update
+- /resources/blog/tfs-event-handler-update
 tags:
 - infrastructure
 - tfs-event-handler

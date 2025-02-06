@@ -2,7 +2,7 @@
 title: Get Analysis Services last processed date
 description: Discover how to retrieve the last processed date for your SSAS cubes with this essential code snippet. Enhance your data analysis efficiency today!
 ResourceId: _Pa-Z4LIvzg
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 129
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /get-analysis-services-last-processed-date
 - /blog/get-analysis-services-last-processed-date
+- /resources/blog/get-analysis-services-last-processed-date
 tags:
 - ssas
 - tools

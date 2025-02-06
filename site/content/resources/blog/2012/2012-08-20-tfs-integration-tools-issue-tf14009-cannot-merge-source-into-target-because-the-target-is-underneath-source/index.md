@@ -2,7 +2,7 @@
 title: 'TFS Integration Tools - Issue: TF14009: Cannot merge source into target because the target is underneath source'
 description: Discover solutions for the TF14009 error in TFS integration. Learn effective workarounds to ensure smooth source code migration between projects.
 ResourceId: pwygxmIIHOc
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 7240
 ResourceImportSource: Wordpress
@@ -26,6 +26,8 @@ aliasesFor404:
 - /blog/tfs-integration-tools-issue-tf14009-cannot-merge-source-into-target-because-the-target-is-underneath-source
 - /tfs-integration-tools---issue--tf14009--cannot-merge-source-into-target-because-the-target-is-underneath-source
 - /blog/tfs-integration-tools---issue--tf14009--cannot-merge-source-into-target-because-the-target-is-underneath-source
+- /tfs-integration-tools
+- /resources/blog/tfs-integration-tools-issue-tf14009-cannot-merge-source-into-target-because-the-target-is-underneath-source
 tags:
 - puzzles
 - tf14009

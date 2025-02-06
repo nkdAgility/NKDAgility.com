@@ -2,7 +2,7 @@
 title: Development and Database combined
 description: Discover the exciting merger of Visual Studio Team Editions for Developers and Database Developers, enhancing your development experience. Learn more!
 ResourceId: 9u4z7lAsHAh
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 190
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /development-and-database-combined
 - /blog/development-and-database-combined
+- /resources/blog/development-and-database-combined
 tags:
 - tools
 preview: nakedalm-logo-128-link-1-1.png

@@ -2,7 +2,7 @@
 title: Unity and ASP.NET
 description: Discover how to implement Dependency Injection in ASP.NET using Unity, enhancing your web app's flexibility and efficiency without recompiling. Learn more!
 ResourceId: ga9A29v5JJk
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 122
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /unity-and-asp-net
 - /blog/unity-and-asp-net
+- /resources/blog/unity-and-asp-net
 tags:
 - code
 - codeproject

@@ -2,7 +2,7 @@
 title: 'Solution: Testing Web Services with MSTest on Team Foundation Build Services 2010'
 description: Learn how to effectively test web services using MSTest on Team Foundation Build Services 2010. Overcome common challenges and streamline your testing process!
 ResourceId: VfWTqYc6S-M
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 68
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/solution-testing-web-services-with-mstest-on-team-foundation-build-services-2010
 - /solution--testing-web-services-with-mstest-on-team-foundation-build-services-2010
 - /blog/solution--testing-web-services-with-mstest-on-team-foundation-build-services-2010
+- /resources/blog/solution-testing-web-services-with-mstest-on-team-foundation-build-services-2010
 tags:
 - automated-build
 - scrum

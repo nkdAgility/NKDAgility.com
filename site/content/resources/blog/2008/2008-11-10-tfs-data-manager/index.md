@@ -2,7 +2,7 @@
 title: TFS Data Manager
 description: Discover TFS Data Manager, a powerful tool for cloning projects and enhancing disaster recovery in TFS. Unlock new capabilities for your development process!
 ResourceId: 0STlzaSKK3X
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 171
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /tfs-data-manager
 - /blog/tfs-data-manager
+- /resources/blog/tfs-data-manager
 tags:
 - tools
 preview: nakedalm-logo-128-link-1-1.png

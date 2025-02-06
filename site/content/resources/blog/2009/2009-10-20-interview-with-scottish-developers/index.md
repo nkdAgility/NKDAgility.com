@@ -2,7 +2,7 @@
 title: Interview with Scottish Developers
 description: Join Martin Hinshelwood as he shares insights from his interview with Scottish Developers, exploring the tech scene and personal reflections. Read more!
 ResourceId: -9zhZou8GwO
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 85
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /interview-with-scottish-developers
 - /blog/interview-with-scottish-developers
+- /resources/blog/interview-with-scottish-developers
 categories:
 - me
 preview: nakedalm-logo-128-link-1-1.png

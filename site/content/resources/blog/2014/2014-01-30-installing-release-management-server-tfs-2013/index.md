@@ -2,7 +2,7 @@
 title: Installing Release Management Server for TFS 2013
 description: Learn how to install the Release Management Server for TFS 2013 with this comprehensive guide. Simplify your setup and enhance your development workflow!
 ResourceId: 9xXIHbs9zmA
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10351
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/installing-release-management-server-tfs-2013
 - /installing-release-management-server-for-tfs-2013
 - /blog/installing-release-management-server-for-tfs-2013
+- /resources/blog/installing-release-management-server-tfs-2013
 tags:
 - inrelease
 - install

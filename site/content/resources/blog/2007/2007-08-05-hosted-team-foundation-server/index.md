@@ -2,7 +2,7 @@
 title: Hosted Team Foundation Server
 description: Explore the challenges of Hosted Team Foundation Server and discover solutions for project partitioning. Learn about TFS Now and upcoming improvements!
 ResourceId: uP5FXaFL6Lx
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 342
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /hosted-team-foundation-server
 - /blog/hosted-team-foundation-server
+- /resources/blog/hosted-team-foundation-server
 tags:
 - tfs
 categories:

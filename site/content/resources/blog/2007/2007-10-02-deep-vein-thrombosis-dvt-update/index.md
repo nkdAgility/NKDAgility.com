@@ -2,7 +2,7 @@
 title: Deep vein thrombosis (DVT) Update
 description: Discover the latest updates on deep vein thrombosis (DVT) advocacy, including a family's petition for better screening and awareness. Join the cause today!
 ResourceId: X8m1aVRWGUa
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 306
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/deep-vein-thrombosis-dvt-update
 - /deep-vein-thrombosis-(dvt)-update
 - /blog/deep-vein-thrombosis-(dvt)-update
+- /resources/blog/deep-vein-thrombosis-dvt-update
 categories:
 - me
 preview: nakedalm-logo-128-link-1-1.png

@@ -2,7 +2,7 @@
 title: Scaling Professional Scrum with Visual Studio Team Services
 description: Discover how to scale Professional Scrum using Visual Studio Team Services. Learn strategies for effective team collaboration and automation in your projects.
 ResourceId: pErrcS8DxcQ
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 11563
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/scaling-professional-scrum-visual-studio-team-services
 - /scaling-professional-scrum-with-visual-studio-team-services
 - /blog/scaling-professional-scrum-with-visual-studio-team-services
+- /resources/blog/scaling-professional-scrum-visual-studio-team-services
 tags:
 - homepage
 - nexus-framework

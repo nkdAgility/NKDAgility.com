@@ -2,7 +2,7 @@
 title: Application lifecycle management with Office 2013 on Windows 8
 description: Explore how Office 2013 enhances application lifecycle management on Windows 8, offering powerful tools for collaboration, reporting, and seamless integration.
 ResourceId: HS-74Zxqz0l
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 8967
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /application-lifecycle-management-with-office-2013-on-windows-8
 - /blog/application-lifecycle-management-with-office-2013-on-windows-8
+- /resources/blog/application-lifecycle-management-with-office-2013-on-windows-8
 tags:
 - configuration
 - infrastructure

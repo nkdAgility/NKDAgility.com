@@ -2,7 +2,7 @@
 title: No love between McAfee Enterprise and MOSS 2007
 description: Discover the issues between McAfee Enterprise and MOSS 2007 that hinder SharePoint performance. Learn how to resolve conflicts for smoother operations.
 ResourceId: uprMOboloWH
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 274
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /no-love-between-mcafee-enterprise-and-moss-2007
 - /blog/no-love-between-mcafee-enterprise-and-moss-2007
+- /resources/blog/no-love-between-mcafee-enterprise-and-moss-2007
 tags:
 - infrastructure
 - moss2007

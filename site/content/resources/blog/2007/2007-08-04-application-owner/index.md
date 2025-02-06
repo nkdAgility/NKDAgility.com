@@ -2,7 +2,7 @@
 title: Application Owner
 description: Explore the role of an Application Owner in managing production applications, vendor relations, and SOX audits. Discover insights for effective tech management.
 ResourceId: JqwdfuCbOrt
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 348
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /application-owner
 - /blog/application-owner
+- /resources/blog/application-owner
 tags:
 - fail
 - tfs

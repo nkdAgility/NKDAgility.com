@@ -2,7 +2,7 @@
 title: Branding and Customizing SharePoint 2007
 description: Explore the challenges and techniques of branding SharePoint 2007. Learn how to customize your site effectively with CSS and master pages for a unique look!
 ResourceId: 1j-4XNo1AAo
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 303
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /branding-and-customizing-sharepoint-2007
 - /blog/branding-and-customizing-sharepoint-2007
+- /resources/blog/branding-and-customizing-sharepoint-2007
 tags:
 - sp2007
 preview: nakedalm-logo-128-link-1-1.png

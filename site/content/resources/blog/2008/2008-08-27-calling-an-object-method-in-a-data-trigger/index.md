@@ -2,7 +2,7 @@
 title: Calling an object method in a data trigger
 description: Learn how to call object methods in WPF data triggers effectively. This guide simplifies the process, helping you enhance your coding skills with practical examples.
 ResourceId: qw2arcsyX7a
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 205
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /calling-an-object-method-in-a-data-trigger
 - /blog/calling-an-object-method-in-a-data-trigger
+- /resources/blog/calling-an-object-method-in-a-data-trigger
 tags:
 - code
 - tools

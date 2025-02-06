@@ -2,7 +2,7 @@
 title: Developer vindication
 description: Discover my journey as a .Net developer and the unexpected opportunity from Microsoft. Join me as I navigate career changes and visa challenges!
 ResourceId: YexFt6yC4wk
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 350
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /developer-vindication
 - /blog/developer-vindication
+- /resources/blog/developer-vindication
 categories:
 - me
 preview: nakedalm-logo-128-link-1-1.png

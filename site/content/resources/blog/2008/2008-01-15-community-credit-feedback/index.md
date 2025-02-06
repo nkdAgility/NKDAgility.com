@@ -2,7 +2,7 @@
 title: Community-Credit feedback
 description: Join the discussion on enhancing Community Credit! Share your feedback and suggestions to improve features and user experience in this vibrant forum.
 ResourceId: HElvJm048ib
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 264
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /community-credit-feedback
 - /blog/community-credit-feedback
+- /resources/blog/community-credit-feedback
 tags:
 - silverlight
 categories:

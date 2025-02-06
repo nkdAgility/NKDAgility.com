@@ -2,7 +2,7 @@
 title: The new normal of the modern application lifecycle
 description: Explore the evolving landscape of software development in 'The New Normal of the Modern Application Lifecycle' and discover how to stay relevant in a fast-paced world.
 ResourceId: 4xvg8avKMPA
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 8885
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /the-new-normal-of-the-modern-application-lifecycle
 - /blog/the-new-normal-of-the-modern-application-lifecycle
+- /resources/blog/the-new-normal-of-the-modern-application-lifecycle
 tags:
 - agile
 - improve

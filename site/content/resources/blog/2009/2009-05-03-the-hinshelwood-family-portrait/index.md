@@ -2,7 +2,7 @@
 title: The Hinshelwood Family Portrait
 description: Discover the joy of family photography with The Hinshelwood Family Portrait. Explore stunning shots and heartfelt moments captured by Perfect Expressions.
 ResourceId: HklqA9qkC3L
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 124
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /the-hinshelwood-family-portrait
 - /blog/the-hinshelwood-family-portrait
+- /resources/blog/the-hinshelwood-family-portrait
 categories:
 - me
 preview: nakedalm-logo-128-link-2-1.png

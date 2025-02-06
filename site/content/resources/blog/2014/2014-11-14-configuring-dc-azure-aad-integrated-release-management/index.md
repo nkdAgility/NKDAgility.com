@@ -2,7 +2,7 @@
 title: Configuring a DC in Azure for AAD integrated Release Management
 description: Learn how to configure a Domain Controller in Azure for AAD integrated Release Management, enhancing your cloud demo capabilities with practical insights.
 ResourceId: 6z5uZom4gof
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10865
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/configuring-dc-azure-aad-integrated-release-management
 - /configuring-a-dc-in-azure-for-aad-integrated-release-management
 - /blog/configuring-a-dc-in-azure-for-aad-integrated-release-management
+- /resources/blog/configuring-dc-azure-aad-integrated-release-management
 tags:
 - active-directory
 - azure

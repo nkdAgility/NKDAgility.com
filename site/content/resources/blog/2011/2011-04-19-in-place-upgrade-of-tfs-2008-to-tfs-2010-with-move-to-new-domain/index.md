@@ -2,7 +2,7 @@
 title: In-Place upgrade of TFS 2008 to TFS 2010 with move to new domain
 description: Learn how to successfully upgrade TFS 2008 to TFS 2010 while migrating to a new domain. Follow expert tips to avoid common pitfalls and ensure a smooth transition.
 ResourceId: LSYjtifbvOt
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 5
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain
 - /blog/in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain
+- /resources/blog/in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain
 tags:
 - nwcadence
 - tfs-build

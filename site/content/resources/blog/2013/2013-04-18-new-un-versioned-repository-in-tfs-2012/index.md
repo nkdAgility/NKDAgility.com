@@ -2,7 +2,7 @@
 title: New un-versioned repository in TFS 2012
 description: Discover the benefits of the new un-versioned repository in TFS 2012, streamlining build drop management and enhancing your development workflow.
 ResourceId: AoTaD6481iE
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9452
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /new-un-versioned-repository-in-tfs-2012
 - /blog/new-un-versioned-repository-in-tfs-2012
+- /resources/blog/new-un-versioned-repository-in-tfs-2012
 tags:
 - configuration
 - infrastructure

@@ -2,7 +2,7 @@
 title: 'Microsoft Surface: Wow'
 description: Discover the excitement of Microsoft Surface technology! Explore how this innovative device could revolutionize entertainment and your digital experience.
 ResourceId: FWXk82xEnqi
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 387
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/microsoft-surface-wow
 - /microsoft-surface--wow
 - /blog/microsoft-surface--wow
+- /resources/blog/microsoft-surface-wow
 tags:
 - off-topic
 preview: nakedalm-logo-128-link-1-1.png

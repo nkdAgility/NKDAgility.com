@@ -2,7 +2,7 @@
 title: Moving OneDrive for Business files to a different drive
 description: Learn how to efficiently move your OneDrive for Business files to a new drive, freeing up space and ensuring seamless access. Follow these easy steps!
 ResourceId: qgSgXAu_d6a
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 11440
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/moving-onedrive-business-files-different-drive
 - /moving-onedrive-for-business-files-to-a-different-drive
 - /blog/moving-onedrive-for-business-files-to-a-different-drive
+- /resources/blog/moving-onedrive-business-files-different-drive
 tags:
 - onedrive
 categories:

@@ -2,7 +2,7 @@
 title: WPF Threading
 description: Discover effective WPF threading solutions and tips for ObservableCollection. Learn from expert insights to enhance your multi-threading skills in .NET.
 ResourceId: -LV_xYUDcK4
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 206
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /wpf-threading
 - /blog/wpf-threading
+- /resources/blog/wpf-threading
 tags:
 - code
 - tools

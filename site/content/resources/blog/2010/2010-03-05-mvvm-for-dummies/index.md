@@ -2,7 +2,7 @@
 title: MVVM for Dummies
 description: Master MVVM with this essential guide for developers. Learn best practices in WPF and Silverlight to achieve clean, maintainable code. Dive in now!
 ResourceId: __7oXNKjdWP
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 65
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /mvvm-for-dummies
 - /blog/mvvm-for-dummies
+- /resources/blog/mvvm-for-dummies
 tags:
 - code
 - mvvm

@@ -2,7 +2,7 @@
 title: Delivering Live Virtual Classes in Microsoft Teams and Mural
 description: Discover how to effectively deliver live virtual classes using Microsoft Teams and Mural, enhancing engagement and collaboration in your Scrum training.
 ResourceId: fyJ8PxhOEZz
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 44432
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /delivering-live-virtual-classes-in-microsoft-teams-and-mural
 - /blog/delivering-live-virtual-classes-in-microsoft-teams-and-mural
+- /resources/blog/delivering-live-virtual-classes-in-microsoft-teams-and-mural
 categories:
 - agility
 preview: class-colage-2-8-8.jpg

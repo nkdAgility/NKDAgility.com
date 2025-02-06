@@ -4,7 +4,7 @@
 . ./.powershell/_includes/ResourceHelpers.ps1
 
 # Iterate through each blog folder and update markdown files
-$outputDir = "site\content\resources\blog\2019"
+$outputDir = "site\content\resources\blog"
 
 # Get list of directories and select the first 10
 $resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md" #| Select-Object -First 10
@@ -19,6 +19,9 @@ $resources | ForEach-Object {
         # Load markdown as HugoMarkdown object
         $hugoMarkdown = Get-HugoMarkdown -Path $markdownFile
 
+        #=================CLEAN============================
+        Remove-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'id'
+        #=================description=================
         if (-not $hugoMarkdown.FrontMatter.description) {
             # Generate a new description using OpenAI
             $prompt = "Generate a concise, engaging description of no more than 160 characters for the following video: '$($videoData.snippet.title)'. The video details are: '$($videoData.snippet.description)'"
@@ -48,44 +51,34 @@ $resources | ForEach-Object {
             $ResourceImport = $true
         }
         Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImport' -fieldValue $ResourceImport -addAfter 'ResourceId' -Overwrite
-        switch ($ResourceType) {
-            "blog" { 
-            }
-            "podcast" { 
-                
-            }
-            "videos" { 
-                
-            }
-            default { 
-                
+        if ($hugoMarkdown.FrontMatter.ResourceImport) {
+            switch ($ResourceType) {
+                "blog" { 
+                    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImportSource' -fieldValue "Wordpress" -addAfter 'ResourceImport'
+                    If (([datetime]$hugoMarkdown.FrontMatter.date) -lt ([datetime]'2011-02-16')) {
+                        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImportOriginalSource' -fieldValue "GeeksWithBlogs" -addAfter 'ResourceImportSource' -Overwrite
+                    }
+                    else {
+                        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImportOriginalSource' -fieldValue "Wordpress" -addAfter 'ResourceImportSource' -Overwrite
+                    }     
+                }
+                "videos" { 
+                    
+                }
             }
         }
-
-
+        else {
+            Remove-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImportSource'
+            Remove-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImportOriginalSource'
+        }
         # =================Add aliases===================
         $aliases = @()
         switch ($ResourceType) {
             "blog" { 
-                if ($hugoMarkdown.FrontMatter.ResourceImport) {
-                    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImportSource' -fieldValue "Wordpress" -addAfter 'ResourceImport'
-                    If (([datetime]$hugoMarkdown.FrontMatter.date) -lt ([datetime]'2011-02-16')) {
-                        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImportOriginalSource' -fieldValue "GeeksWithBlogs" -addAfter 'ResourceImportSource'
-                    }
-                    else {
-                        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImportOriginalSource' -fieldValue "Wordpress" -addAfter 'ResourceImportSource'
-                    }     
-                }
-                
             }
             "podcast" { 
-                
             }
             "videos" { 
-                
-            }
-            default { 
-                
             }
         }
         # Always add the ResourceId as an alias
@@ -98,6 +91,19 @@ $resources | ForEach-Object {
         $404aliases += $hugoMarkdown.FrontMatter.aliases | Where-Object { $_ -notmatch $hugoMarkdown.FrontMatter.ResourceId }
         switch ($ResourceType) {
             "blog" { 
+                if ($hugoMarkdown.FrontMatter.Contains("slug")) {
+                    $slug = $hugoMarkdown.FrontMatter.slug
+                    $404aliases += "/$slug"
+                    $404aliases += "/blog/$slug"
+                }
+                if ($hugoMarkdown.FrontMatter.Contains("title")) {
+                    $slug = $hugoMarkdown.FrontMatter.slug
+                    $urlSafeTitle = ($hugoMarkdown.FrontMatter.title -replace '[:\/\\*?"<>|#%.!,]', '-' -replace '\s+', '-').ToLower()
+                    if ($urlSafeTitle -ne $slug) {
+                        $404aliases += "/$urlSafeTitle"
+                        $404aliases += "/blog/$urlSafeTitle"
+                    }           
+                }
             }
             "podcast" { 
                 
@@ -112,45 +118,7 @@ $resources | ForEach-Object {
         if ($404aliases -is [array] -and $404aliases.Count -gt 0) {
             Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliasesFor404' -values $404aliases -addAfter 'aliases'
         }
-
-
-        
-        switch ($ResourceType) {
-            "blog" { 
-                # if ($hugoMarkdown.FrontMatter.Contains("slug")) {
-                #     $slug = $hugoMarkdown.FrontMatter.slug
-                #     $aliases += "/$slug"
-                #     $404aliases += "/$slug"
-                #     $aliases += "/blog/$slug"
-                #     $404aliases += "/blog/$slug"
-                # }
-                # if ($hugoMarkdown.FrontMatter.Contains("title")) {
-                #     $slug = $hugoMarkdown.FrontMatter.slug
-                #     $urlSafeTitle = ($hugoMarkdown.FrontMatter.title -replace '[:\/\\*?"<>|#%.!,]', '-' -replace '\s+', '-').ToLower()
-                #     if ($urlSafeTitle -ne $slug) {
-                #         $aliases += "/$urlSafeTitle"
-                #         $404aliases += "/$urlSafeTitle"
-                #         $aliases += "/blog/$urlSafeTitle"
-                #         $404aliases += "/blog/$urlSafeTitle"
-                #     }           
-                # }
-                
-            }
-            "podcast" { 
-                
-            }
-            "videos" { 
-                
-            }
-            default { 
-                
-            }
-        }
-
-        
-
-       
-       
+        # =================COMPLETE===================
         Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $markdownFile
     }
     else {

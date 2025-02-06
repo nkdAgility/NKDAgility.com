@@ -2,7 +2,7 @@
 title: Wpf Scale Transform Behaviour
 description: Discover how to implement WPF Scale Transform Behavior in MVVM applications, allowing dynamic control scaling with ease. Enhance your UI today!
 ResourceId: PXeY0Nggg1B
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 87
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /wpf-scale-transform-behaviour
 - /blog/wpf-scale-transform-behaviour
+- /resources/blog/wpf-scale-transform-behaviour
 tags:
 - code
 - codeproject

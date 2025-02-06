@@ -2,7 +2,7 @@
 title: Assembly Version does not change in Visual Basic Workflow projects
 description: Discover how to resolve the assembly version issue in Visual Basic Workflow projects. Learn the manual fix to ensure your changes are applied correctly!
 ResourceId: k9UAGHKPtUz
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 231
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /assembly-version-does-not-change-in-visual-basic-workflow-projects
 - /blog/assembly-version-does-not-change-in-visual-basic-workflow-projects
+- /resources/blog/assembly-version-does-not-change-in-visual-basic-workflow-projects
 tags:
 - develop
 - sp2007

@@ -2,7 +2,7 @@
 title: Bug in ObservableCollection?
 description: Struggling with ObservableCollection and generics in WPF? Discover the limitations and a workaround to enhance your coding experience. Dive in now!
 ResourceId: L9aNTno7QM3
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 240
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/bug-in-observablecollection
 - /bug-in-observablecollection-
 - /blog/bug-in-observablecollection-
+- /resources/blog/bug-in-observablecollection
 tags:
 - code
 - develop

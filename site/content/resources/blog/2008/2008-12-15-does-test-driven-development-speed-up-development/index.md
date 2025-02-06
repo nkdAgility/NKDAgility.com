@@ -2,7 +2,7 @@
 title: Does test-driven development speed up development?
 description: Explore how test-driven development can enhance software productivity by reducing complexity and rework. A must-read for software professionals!
 ResourceId: ASBKRFatUhc
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 152
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/does-test-driven-development-speed-up-development
 - /does-test-driven-development-speed-up-development-
 - /blog/does-test-driven-development-speed-up-development-
+- /resources/blog/does-test-driven-development-speed-up-development
 tags:
 - code
 - develop

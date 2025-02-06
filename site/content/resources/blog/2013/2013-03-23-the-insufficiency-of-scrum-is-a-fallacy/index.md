@@ -2,7 +2,7 @@
 title: The Insufficiency of Scrum is a fallacy
 description: Explore the myth of Scrum's insufficiency and learn how effective engineering practices can enhance Agile success. Elevate your team's performance today!
 ResourceId: n9OhtpbJs0-
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9338
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /the-insufficiency-of-scrum-is-a-fallacy
 - /blog/the-insufficiency-of-scrum-is-a-fallacy
+- /resources/blog/the-insufficiency-of-scrum-is-a-fallacy
 tags:
 - agile
 - develop

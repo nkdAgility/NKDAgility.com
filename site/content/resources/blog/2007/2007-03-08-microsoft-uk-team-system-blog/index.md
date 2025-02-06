@@ -2,7 +2,7 @@
 title: Microsoft UK Team System Blog
 description: Discover insights from the Microsoft UK Team System Blog, where TFS experts share valuable tips and updates on ALM. Join the conversation today!
 ResourceId: 7sufhYTYvt-
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 429
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /microsoft-uk-team-system-blog
 - /blog/microsoft-uk-team-system-blog
+- /resources/blog/microsoft-uk-team-system-blog
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

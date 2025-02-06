@@ -2,7 +2,7 @@
 title: Team Server Hmm!
 description: Discover how to integrate Team Server with SQL Server Management Studio and enhance your development workflow. Explore essential tools and tips!
 ResourceId: _HIn465Bu9n
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 420
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/team-server-hmm
 - /team-server-hmm-
 - /blog/team-server-hmm-
+- /resources/blog/team-server-hmm
 tags:
 - visual-studio
 - vs2005

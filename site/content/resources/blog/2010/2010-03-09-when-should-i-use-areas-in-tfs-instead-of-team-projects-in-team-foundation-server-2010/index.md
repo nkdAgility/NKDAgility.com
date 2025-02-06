@@ -2,7 +2,7 @@
 title: When should I use Areas in TFS instead of Team Projects in Team Foundation Server 2010
 description: Discover when to use Areas in TFS over Team Projects for better project management in Team Foundation Server 2010. Streamline your workflow today!
 ResourceId: vrUQdaxyOTf
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 64
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /when-should-i-use-areas-in-tfs-instead-of-team-projects-in-team-foundation-server-2010
 - /blog/when-should-i-use-areas-in-tfs-instead-of-team-projects-in-team-foundation-server-2010
+- /resources/blog/when-should-i-use-areas-in-tfs-instead-of-team-projects-in-team-foundation-server-2010
 tags:
 - codeproject
 - one-team-project-seriese

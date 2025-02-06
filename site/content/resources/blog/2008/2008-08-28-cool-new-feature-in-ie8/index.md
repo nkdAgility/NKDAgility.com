@@ -2,7 +2,7 @@
 title: Cool new feature in IE8
 description: Discover the game-changing address bar enhancements in IE8 that boost efficiency and make browsing easier. Upgrade your experience today!
 ResourceId: wd7JhsgRpbS
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 202
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /cool-new-feature-in-ie8
 - /blog/cool-new-feature-in-ie8
+- /resources/blog/cool-new-feature-in-ie8
 tags:
 - ie8
 - off-topic

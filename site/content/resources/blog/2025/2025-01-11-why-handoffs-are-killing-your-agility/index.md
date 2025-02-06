@@ -2,7 +2,8 @@
 title: Why Handoffs Are Killing Your Agility
 description: Explore the detrimental impact of handoffs in software development and discover strategies to eliminate them for better agility.
 ResourceId: pDvDdIEi9sj
-ResourceImport: false
+ResourceType: blog
+ResourceImport: true
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2025-01-13

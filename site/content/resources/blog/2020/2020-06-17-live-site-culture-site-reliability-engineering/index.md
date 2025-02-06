@@ -2,7 +2,7 @@
 title: Live Site Culture & Site Reliability Engineering
 description: Explore how Live Site Culture and Site Reliability Engineering drive agility and DevOps practices, enabling rapid delivery and enhanced customer satisfaction.
 ResourceId: c_gS0nlQD9E
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 44414
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/live-site-culture-site-reliability-engineering
 - /live-site-culture-&-site-reliability-engineering
 - /blog/live-site-culture-&-site-reliability-engineering
+- /resources/blog/live-site-culture-site-reliability-engineering
 categories:
 - agility
 - devops

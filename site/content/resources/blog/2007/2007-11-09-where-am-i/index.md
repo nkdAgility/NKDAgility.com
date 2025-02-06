@@ -2,7 +2,7 @@
 title: Where am I?
 description: Explore the innovative Locator project using LINQ and .NET 3.5 to track user locations in real-time, enhancing connectivity and efficiency in your workplace.
 ResourceId: LIBAeHbeyk9
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 294
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/where-am-i
 - /where-am-i-
 - /blog/where-am-i-
+- /resources/blog/where-am-i
 tags:
 - ml
 - wcf

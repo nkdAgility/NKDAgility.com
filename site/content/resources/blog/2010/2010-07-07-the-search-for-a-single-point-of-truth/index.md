@@ -2,7 +2,7 @@
 title: The search for a single point of truth
 description: Discover effective strategies for syncing your contacts across platforms and achieving a single point of truth. Streamline your connections today!
 ResourceId: nWNc5jUb0Up
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 34
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /the-search-for-a-single-point-of-truth
 - /blog/the-search-for-a-single-point-of-truth
+- /resources/blog/the-search-for-a-single-point-of-truth
 tags:
 - linkedin
 - off-topic

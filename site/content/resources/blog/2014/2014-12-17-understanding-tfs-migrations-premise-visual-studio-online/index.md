@@ -2,7 +2,7 @@
 title: Understanding TFS migrations from on-premise to Visual Studio Online
 description: Explore effective strategies for migrating TFS from on-premise to Visual Studio Online. Discover scenarios, tools, and insights to streamline your transition.
 ResourceId: lov38doo6uB
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10987
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/understanding-tfs-migrations-premise-visual-studio-online
 - /understanding-tfs-migrations-from-on-premise-to-visual-studio-online
 - /blog/understanding-tfs-migrations-from-on-premise-to-visual-studio-online
+- /resources/blog/understanding-tfs-migrations-premise-visual-studio-online
 tags:
 - migration
 - tfs

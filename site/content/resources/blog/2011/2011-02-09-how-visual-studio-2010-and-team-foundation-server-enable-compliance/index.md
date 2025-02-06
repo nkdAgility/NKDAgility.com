@@ -2,7 +2,7 @@
 title: How Visual Studio 2010 and Team Foundation Server enable Compliance
 description: Discover how Visual Studio 2010 and Team Foundation Server enhance compliance through powerful traceability, ensuring your team meets regulatory standards effortlessly.
 ResourceId: gUB-uq9tH-d
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 14
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /how-visual-studio-2010-and-team-foundation-server-enable-compliance
 - /blog/how-visual-studio-2010-and-team-foundation-server-enable-compliance
+- /resources/blog/how-visual-studio-2010-and-team-foundation-server-enable-compliance
 tags:
 - configuration
 - define

@@ -2,7 +2,7 @@
 title: Requirement management in the modern application lifecycle with TFS
 description: Explore effective requirement management in the modern application lifecycle with TFS. Discover tools and practices to enhance your team's productivity.
 ResourceId: xCKZmk2o5Me
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 8700
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/requirement-management-in-the-modern-application-lifecycle
 - /requirement-management-in-the-modern-application-lifecycle-with-tfs
 - /blog/requirement-management-in-the-modern-application-lifecycle-with-tfs
+- /resources/blog/requirement-management-in-the-modern-application-lifecycle
 tags:
 - define
 - infrastructure

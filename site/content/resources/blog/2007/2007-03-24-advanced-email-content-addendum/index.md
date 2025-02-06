@@ -2,7 +2,7 @@
 title: Advanced Email Content addendum
 description: Explore the challenges of sending XBAPs via email and discover why this feature is essential for WPF presentations, forms, and demos. Join the discussion!
 ResourceId: MmuYvqDCRX7
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 432
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /advanced-email-content-addendum
 - /blog/advanced-email-content-addendum
+- /resources/blog/advanced-email-content-addendum
 tags:
 - fail
 - ml

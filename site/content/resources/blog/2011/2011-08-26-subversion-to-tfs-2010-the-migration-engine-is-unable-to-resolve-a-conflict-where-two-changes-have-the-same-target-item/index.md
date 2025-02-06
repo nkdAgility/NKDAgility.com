@@ -2,7 +2,7 @@
 title: 'Subversion to TFS 2010: The migration engine is unable to resolve a conflict where two changes have the same target item'
 description: Navigate the challenges of migrating from Subversion to TFS 2010. Discover solutions for resolving conflicts and ensure a smooth transition for your projects.
 ResourceId: z1EKAHhrUI7
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 3769
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/subversion-to-tfs-2010-the-migration-engine-is-unable-to-resolve-a-conflict-where-two-changes-have-the-same-target-item
 - /subversion-to-tfs-2010--the-migration-engine-is-unable-to-resolve-a-conflict-where-two-changes-have-the-same-target-item
 - /blog/subversion-to-tfs-2010--the-migration-engine-is-unable-to-resolve-a-conflict-where-two-changes-have-the-same-target-item
+- /resources/blog/subversion-to-tfs-2010-the-migration-engine-is-unable-to-resolve-a-conflict-where-two-changes-have-the-same-target-item
 tags:
 - nwcadence
 - tfs

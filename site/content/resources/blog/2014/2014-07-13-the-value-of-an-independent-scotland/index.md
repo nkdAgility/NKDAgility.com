@@ -2,7 +2,7 @@
 title: The value of an independent Scotland for me
 description: Explore the personal value of an independent Scotland through self-determination, economic control, and a brighter future for generations. Join the debate!
 ResourceId: kmgdXtKVzGS
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10655
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/the-value-of-an-independent-scotland
 - /the-value-of-an-independent-scotland-for-me
 - /blog/the-value-of-an-independent-scotland-for-me
+- /resources/blog/the-value-of-an-independent-scotland
 tags:
 - indyref
 - iscotland

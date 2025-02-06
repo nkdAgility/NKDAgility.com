@@ -2,7 +2,7 @@
 title: Creating a SharePoint Solution
 description: Join Martin Hinshelwood on a journey to create a SharePoint solution for time off management, exploring .NET, WebParts, and more. Discover the process!
 ResourceId: pnYkYt4HZFP
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 225
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /creating-a-sharepoint-solution
 - /blog/creating-a-sharepoint-solution
+- /resources/blog/creating-a-sharepoint-solution
 tags:
 - develop
 - moss2007

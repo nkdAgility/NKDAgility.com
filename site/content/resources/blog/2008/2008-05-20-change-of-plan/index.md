@@ -2,7 +2,7 @@
 title: Change of plan
 description: Explore the evolution of a SharePoint project as Martin Hinshelwood rethinks his approach, focusing on debugging and testing for better results.
 ResourceId: KfLCHLNio90
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 224
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /change-of-plan
 - /blog/change-of-plan
+- /resources/blog/change-of-plan
 tags:
 - moss2007
 - sharepoint

@@ -2,7 +2,7 @@
 title: 'Sculpting the Product Backlog: A Delicate Balance Between Lean Inventory and Future Readiness'
 description: Master the art of crafting a lean Product Backlog that balances current needs and future readiness, ensuring clarity and value for your team and stakeholders.
 ResourceId: wXQXA_aHLS1
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 49523
 ResourceImportSource: Wordpress
@@ -26,6 +26,7 @@ aliasesFor404:
 - /blog/sculpting-the-product-backlog-a-delicate-balance-between-lean-inventory-and-future-readiness
 - /sculpting-the-product-backlog--a-delicate-balance-between-lean-inventory-and-future-readiness
 - /blog/sculpting-the-product-backlog--a-delicate-balance-between-lean-inventory-and-future-readiness
+- /resources/blog/sculpting-the-product-backlog-a-delicate-balance-between-lean-inventory-and-future-readiness
 tags:
 - featured
 - homepage

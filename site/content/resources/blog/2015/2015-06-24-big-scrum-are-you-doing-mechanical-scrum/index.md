@@ -2,7 +2,7 @@
 title: 'Big Scrum: Are you doing mechanical Scrum'
 description: Explore the pitfalls of mechanical Scrum and discover how to achieve true agility with Professional Scrum for enhanced productivity and team effectiveness.
 ResourceId: 8wFtoutYII0
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 11355
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/big-scrum-are-you-doing-mechanical-scrum
 - /big-scrum--are-you-doing-mechanical-scrum
 - /blog/big-scrum--are-you-doing-mechanical-scrum
+- /resources/blog/big-scrum-are-you-doing-mechanical-scrum
 tags:
 - agile
 - big-scrum

@@ -2,7 +2,7 @@
 title: Sprint Goal is an Immediate Tactical Goal
 description: Discover how to define effective Sprint Goals as tactical steps towards your Product Goal, enhancing value delivery and user engagement in Agile projects.
 ResourceId: sLRE2HdkUCS
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 45310
 ResourceImportSource: Wordpress
@@ -22,6 +22,7 @@ aliases:
 aliasesFor404:
 - /sprint-goal-is-an-immediate-tactical-goal
 - /blog/sprint-goal-is-an-immediate-tactical-goal
+- /resources/blog/sprint-goal-is-an-immediate-tactical-goal
 tags:
 - intermediate-tactical-goal
 - leadership-track

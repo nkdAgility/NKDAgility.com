@@ -2,7 +2,7 @@
 title: Visual Studio Team System 2008 Database Edition GDR has been released!
 description: Discover the new Visual Studio Team System 2008 Database Edition GDR, featuring enhanced scalability, extensibility, and a standalone deployment engine. Download now!
 ResourceId: VkCGOULM8GF
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 162
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/visual-studio-team-system-2008-database-edition-gdr-has-been-released
 - /visual-studio-team-system-2008-database-edition-gdr-has-been-released-
 - /blog/visual-studio-team-system-2008-database-edition-gdr-has-been-released-
+- /resources/blog/visual-studio-team-system-2008-database-edition-gdr-has-been-released
 tags:
 - tfs
 - tools

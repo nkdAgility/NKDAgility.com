@@ -2,7 +2,7 @@
 title: 100,000 Visits
 description: Celebrate the milestone of 100,000 visits! Discover insights on site traffic, browser share, and global reach from a Glasgow developer's perspective.
 ResourceId: gnzE3Qr_jz-
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 167
 ResourceImportSource: Wordpress
@@ -29,6 +29,7 @@ aliasesFor404:
 - /blog/100,000-visits
 - /100-000-visits
 - /blog/100-000-visits
+- /resources/blog/100000-visits
 tags:
 - answers
 categories:

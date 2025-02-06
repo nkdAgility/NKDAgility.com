@@ -2,7 +2,7 @@
 title: Fun with Virgin+
 description: Join Martin as he navigates the challenges of setting up Virgin+ while preparing for a new arrival. Discover his clever solutions and personal insights!
 ResourceId: PHUHjUVq45E
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 141
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/fun-with-virgin
 - /fun-with-virgin+
 - /blog/fun-with-virgin+
+- /resources/blog/fun-with-virgin
 categories:
 - me
 preview: nakedalm-logo-128-link-3-3.png

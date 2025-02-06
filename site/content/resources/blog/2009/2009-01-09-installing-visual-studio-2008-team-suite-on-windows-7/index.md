@@ -2,7 +2,7 @@
 title: Installing Visual Studio 2008 Team Suite on Windows 7
 description: Learn how to install Visual Studio 2008 Team Suite on Windows 7 with step-by-step guidance, troubleshooting tips, and insights for a smooth setup experience.
 ResourceId: xxZKrAlxQiH
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 147
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /installing-visual-studio-2008-team-suite-on-windows-7
 - /blog/installing-visual-studio-2008-team-suite-on-windows-7
+- /resources/blog/installing-visual-studio-2008-team-suite-on-windows-7
 tags:
 - tools
 - visual-studio

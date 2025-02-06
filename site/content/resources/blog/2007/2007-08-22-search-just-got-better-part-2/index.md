@@ -2,7 +2,7 @@
 title: 'Search just got better: Part 2'
 description: "Explore the evolution of search engines in 'Search just got better: Part 2.' Discover insights on Tafiti and Search Crystal's unique visual interfaces."
 ResourceId: _3B1lqJWcF5
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 322
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/search-just-got-better-part-2
 - /search-just-got-better--part-2
 - /blog/search-just-got-better--part-2
+- /resources/blog/search-just-got-better-part-2
 tags:
 - dyslexia
 preview: nakedalm-logo-128-link-1-1.png

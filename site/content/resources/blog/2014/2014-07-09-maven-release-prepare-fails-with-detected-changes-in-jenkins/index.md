@@ -2,7 +2,7 @@
 title: Maven release prepare fails with detected changes in Jenkins
 description: Discover how to resolve Maven release prepare failures in Jenkins due to detected changes. Learn to use .tfignore for smoother TFS integration.
 ResourceId: gtoRjWgSmKe
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10579
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /maven-release-prepare-fails-with-detected-changes-in-jenkins
 - /blog/maven-release-prepare-fails-with-detected-changes-in-jenkins
+- /resources/blog/maven-release-prepare-fails-with-detected-changes-in-jenkins
 tags:
 - jenkins
 - maven

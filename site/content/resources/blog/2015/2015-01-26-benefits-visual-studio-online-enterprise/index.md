@@ -2,7 +2,7 @@
 title: The benefits of Visual Studio Online for the Enterprise
 description: Discover the advantages of Visual Studio Online for enterprises. Learn how it enhances agility, streamlines processes, and supports cloud-based development.
 ResourceId: raLa_TzImU3
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 11158
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/benefits-visual-studio-online-enterprise
 - /the-benefits-of-visual-studio-online-for-the-enterprise
 - /blog/the-benefits-of-visual-studio-online-for-the-enterprise
+- /resources/blog/benefits-visual-studio-online-enterprise
 tags:
 - enterprise
 - tfs

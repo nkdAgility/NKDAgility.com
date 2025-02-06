@@ -2,7 +2,7 @@
 title: Installing .NET 4.0 Beta 1 on Windows Vista 64x
 description: Discover how to install .NET 4.0 Beta 1 on Windows Vista 64x with ease. Explore new features and improvements in this comprehensive guide!
 ResourceId: v5UNW1ylUxI
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 120
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/installing-net-4-0-beta-1-on-windows-vista-64x
 - /installing--net-4-0-beta-1-on-windows-vista-64x
 - /blog/installing--net-4-0-beta-1-on-windows-vista-64x
+- /resources/blog/installing-net-4-0-beta-1-on-windows-vista-64x
 tags:
 - code
 - tools

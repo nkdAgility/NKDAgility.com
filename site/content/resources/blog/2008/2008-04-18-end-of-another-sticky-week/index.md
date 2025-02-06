@@ -2,7 +2,7 @@
 title: End of another Sticky week...
 description: Explore the latest updates on the TFS Sticky Buddy project, featuring new external server connections and customizable skins for enhanced productivity!
 ResourceId: hIIqffRyh3i
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 237
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/end-of-another-sticky-week
 - /end-of-another-sticky-week---
 - /blog/end-of-another-sticky-week---
+- /resources/blog/end-of-another-sticky-week
 tags:
 - tfs-sticky-buddy
 - wit

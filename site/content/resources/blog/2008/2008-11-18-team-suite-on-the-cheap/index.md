@@ -2,7 +2,7 @@
 title: Team Suite on the cheap
 description: Unlock the full potential of Visual Studio Team System 2008 with a 30% upgrade discount. Enhance collaboration and streamline your development process today!
 ResourceId: iiMEOgepJ_x
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 168
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /team-suite-on-the-cheap
 - /blog/team-suite-on-the-cheap
+- /resources/blog/team-suite-on-the-cheap
 tags:
 - tfs
 - tools

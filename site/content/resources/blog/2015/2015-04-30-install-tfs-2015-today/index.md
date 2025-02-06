@@ -2,7 +2,7 @@
 title: Install TFS 2015 today
 description: Learn how to install and configure TFS 2015 effortlessly. Upgrade your system with essential tips and insights from expert Martin Hinshelwood. Get started now!
 ResourceId: v-m2PYvEaWx
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 11286
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /install-tfs-2015-today
 - /blog/install-tfs-2015-today
+- /resources/blog/install-tfs-2015-today
 tags:
 - configuration
 - install

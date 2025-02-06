@@ -2,7 +2,7 @@
 title: 'Rethinking Product Backlog: Navigating Through the Weeds of Complexity'
 description: Explore innovative strategies for managing your Product Backlog in complex environments. Discover how to enhance agility and foster team autonomy today!
 ResourceId: PmLDnMEBzBQ
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 49515
 ResourceImportSource: Wordpress
@@ -26,6 +26,7 @@ aliasesFor404:
 - /blog/rethinking-product-backlog-navigating-through-the-weeds-of-complexity
 - /rethinking-product-backlog--navigating-through-the-weeds-of-complexity
 - /blog/rethinking-product-backlog--navigating-through-the-weeds-of-complexity
+- /resources/blog/rethinking-product-backlog-navigating-through-the-weeds-of-complexity
 tags:
 - featured
 - homepage

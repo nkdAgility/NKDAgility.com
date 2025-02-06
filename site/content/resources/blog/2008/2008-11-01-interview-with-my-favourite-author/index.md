@@ -2,7 +2,7 @@
 title: Interview with my favourite author
 description: Join me as I interview my favorite author, David Webber, and explore the captivating world of Military Sci-Fi that has inspired my reading journey!
 ResourceId: 7fvyK7-tU4O
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 175
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /interview-with-my-favourite-author
 - /blog/interview-with-my-favourite-author
+- /resources/blog/interview-with-my-favourite-author
 categories:
 - me
 preview: nakedalm-logo-128-link-1-1.png

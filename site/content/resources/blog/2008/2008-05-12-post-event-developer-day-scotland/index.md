@@ -2,7 +2,7 @@
 title: 'Post event: Developer Day Scotland...'
 description: Discover insights from Developer Day Scotland, featuring expert talks on ADO.NET, Anti-Patterns, and Test Driven Development. Join the conversation!
 ResourceId: gVVlURec7mu
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 229
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/post-event-developer-day-scotland
 - /post-event--developer-day-scotland---
 - /blog/post-event--developer-day-scotland---
+- /resources/blog/post-event-developer-day-scotland
 categories:
 - me
 preview: nakedalm-logo-128-link-1-1.png

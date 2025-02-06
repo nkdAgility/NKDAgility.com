@@ -2,7 +2,7 @@
 title: Getting started with a Definition of Done (DoD)
 description: Learn how to establish a robust Definition of Done (DoD) for your Scrum team to ensure quality and transparency in software delivery. Start improving today!
 ResourceId: z18IcQhlD7I
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 38238
 ResourceImportSource: Wordpress
@@ -26,6 +26,7 @@ aliasesFor404:
 - /blog/getting-started-definition-done-dod
 - /getting-started-with-a-definition-of-done-(dod)
 - /blog/getting-started-with-a-definition-of-done-(dod)
+- /resources/blog/getting-started-definition-done-dod
 tags:
 - agile
 - definition-of-done

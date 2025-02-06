@@ -2,7 +2,7 @@
 title: 'Evidence-based Management: Gathering the metrics'
 description: Discover how to effectively gather metrics for Evidence-based Management in software organizations to enhance value delivery and drive agile success.
 ResourceId: mK5twHwVcIg
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10528
 ResourceImportSource: Wordpress
@@ -26,6 +26,7 @@ aliasesFor404:
 - /blog/evidence-based-management-gathering-metrics
 - /evidence-based-management--gathering-the-metrics
 - /blog/evidence-based-management--gathering-the-metrics
+- /resources/blog/evidence-based-management-gathering-metrics
 tags:
 - ebmgt
 - evidence

@@ -2,7 +2,7 @@
 title: You can't use WITADMIN on versions older than TFS 2010
 description: Discover why WITADMIN can't be used on TFS versions older than 2010 and learn how to resolve compatibility issues for a smoother migration experience.
 ResourceId: UF4o8raFE4r
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10667
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/cant-use-witadmin-versions-older-tfs-2010
 - /you-can't-use-witadmin-on-versions-older-than-tfs-2010
 - /blog/you-can't-use-witadmin-on-versions-older-than-tfs-2010
+- /resources/blog/cant-use-witadmin-versions-older-tfs-2010
 tags:
 - tfs
 - tfs2010

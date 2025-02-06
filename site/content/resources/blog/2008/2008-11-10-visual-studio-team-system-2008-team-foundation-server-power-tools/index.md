@@ -2,7 +2,7 @@
 title: Visual Studio Team System 2008 Team Foundation Server Power Tools
 description: Discover the latest Power Tools for Visual Studio Team System 2008. Enhance your development experience with insights from MVP Martin Hinshelwood!
 ResourceId: GNzGGsullsE
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 172
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /visual-studio-team-system-2008-team-foundation-server-power-tools
 - /blog/visual-studio-team-system-2008-team-foundation-server-power-tools
+- /resources/blog/visual-studio-team-system-2008-team-foundation-server-power-tools
 tags:
 - tfs
 - tfs2008

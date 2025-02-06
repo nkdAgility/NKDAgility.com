@@ -2,7 +2,7 @@
 title: Kalabule or a Professional at Agile in Africa
 description: Explore the call for professionalism in Africa's software industry. Join Martin Hinshelwood as he challenges the 'kalabule' mindset and promotes agile values.
 ResourceId: yUp0v2lyPX6
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 11642
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /kalabule-or-a-professional-at-agile-in-africa
 - /blog/kalabule-or-a-professional-at-agile-in-africa
+- /resources/blog/kalabule-or-a-professional-at-agile-in-africa
 tags:
 - agile-in-africa
 - professional-scrum

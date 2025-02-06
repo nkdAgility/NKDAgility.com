@@ -2,7 +2,7 @@
 title: Windows Live Writer Beta 3
 description: Explore the challenges of installing Windows Live Writer Beta 3 in a corporate environment and discover the frustrations of bundled software installations.
 ResourceId: 7OIuDx9W3kb
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 307
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /windows-live-writer-beta-3
 - /blog/windows-live-writer-beta-3
+- /resources/blog/windows-live-writer-beta-3
 tags:
 - fail
 - live

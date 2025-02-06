@@ -2,7 +2,7 @@
 title: Continuous value delivery with modern business applications
 description: Discover how modern business applications enable continuous value delivery, transforming software development practices for happier consumers and faster updates.
 ResourceId: Bqw3QI4cP_9
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9149
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /continuous-value-delivery-with-modern-business-applications
 - /blog/continuous-value-delivery-with-modern-business-applications
+- /resources/blog/continuous-value-delivery-with-modern-business-applications
 tags:
 - continious-value-delivery
 - define

@@ -2,7 +2,7 @@
 title: Create log entries in Release Management
 description: Learn how to create effective log entries in Release Management using PowerShell. Enhance your deployment process and ensure success with detailed logs!
 ResourceId: 1jC1jE7shiY
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10975
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/create-log-entries-release-management
 - /create-log-entries-in-release-management
 - /blog/create-log-entries-in-release-management
+- /resources/blog/create-log-entries-release-management
 tags:
 - deploy
 - powershell

@@ -2,7 +2,7 @@
 title: Creating a custom Activity for Team Foundation Build
 description: Learn to create custom activities for Team Foundation Build with this step-by-step guide. Simplify your workflows and enhance your build processes today!
 ResourceId: mgwL4ERT1N3
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9769
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /creating-a-custom-activity-for-team-foundation-build
 - /blog/creating-a-custom-activity-for-team-foundation-build
+- /resources/blog/creating-a-custom-activity-for-team-foundation-build
 tags:
 - code
 - configuration

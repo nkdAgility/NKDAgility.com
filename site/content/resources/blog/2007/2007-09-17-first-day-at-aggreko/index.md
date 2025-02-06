@@ -2,7 +2,7 @@
 title: First day at Aggreko
 description: Join me on my first day at Aggreko, where I dive into deploying SharePoint and experience their impressive efficiency. Discover my journey and insights!
 ResourceId: cUlDU2EJV6s
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 310
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /first-day-at-aggreko
 - /blog/first-day-at-aggreko
+- /resources/blog/first-day-at-aggreko
 tags:
 - aggreko
 - sp2007

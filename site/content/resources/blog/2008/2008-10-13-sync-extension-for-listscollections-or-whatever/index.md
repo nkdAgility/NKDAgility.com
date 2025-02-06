@@ -2,7 +2,7 @@
 title: Sync extension for Lists/Collections or whatever
 description: Discover how to effortlessly sync two lists in .NET with a simple extension method. Enhance your coding skills and streamline your data management!
 ResourceId: hDlrQdNzLp1
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 188
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/sync-extension-for-listscollections-or-whatever
 - /sync-extension-for-lists-collections-or-whatever
 - /blog/sync-extension-for-lists-collections-or-whatever
+- /resources/blog/sync-extension-for-listscollections-or-whatever
 tags:
 - code
 - tools

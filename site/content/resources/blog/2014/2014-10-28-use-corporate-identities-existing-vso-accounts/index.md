@@ -2,7 +2,7 @@
 title: Use corporate identities with existing VSO accounts
 description: Learn how to configure ADFS for seamless SSO with existing VSO accounts, ensuring continuity and easy access to Azure and Office 365. Get started now!
 ResourceId: yIJgOpFCdJE
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10797
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/use-corporate-identities-existing-vso-accounts
 - /use-corporate-identities-with-existing-vso-accounts
 - /blog/use-corporate-identities-with-existing-vso-accounts
+- /resources/blog/use-corporate-identities-existing-vso-accounts
 tags:
 - adfs
 - azure

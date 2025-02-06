@@ -2,7 +2,7 @@
 title: Installing the .NET Framework 3.5 Beta 2 on Vista
 description: Learn how to successfully install the .NET Framework 3.5 Beta 2 on Vista with step-by-step instructions and troubleshooting tips. Simplify your setup today!
 ResourceId: kroCooKCsgh
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 357
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/installing-the-net-framework-3-5-beta-2-on-vista
 - /installing-the--net-framework-3-5-beta-2-on-vista
 - /blog/installing-the--net-framework-3-5-beta-2-on-vista
+- /resources/blog/installing-the-net-framework-3-5-beta-2-on-vista
 tags:
 - visual-studio
 - vs2008

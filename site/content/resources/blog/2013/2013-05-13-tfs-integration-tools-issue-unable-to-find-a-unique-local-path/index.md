@@ -2,7 +2,7 @@
 title: 'TFS Integration Tools - Issue: unable to find a unique local path'
 description: Resolve the 'unable to find a unique local path' error in TFS Integration Tools with effective workarounds and tips for smoother source control migration.
 ResourceId: -dAwZr3zpgy
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9495
 ResourceImportSource: Wordpress
@@ -26,6 +26,8 @@ aliasesFor404:
 - /blog/tfs-integration-tools-issue-unable-to-find-a-unique-local-path
 - /tfs-integration-tools---issue--unable-to-find-a-unique-local-path
 - /blog/tfs-integration-tools---issue--unable-to-find-a-unique-local-path
+- /tfs-integration-tools
+- /resources/blog/tfs-integration-tools-issue-unable-to-find-a-unique-local-path
 tags:
 - kb
 - puzzles

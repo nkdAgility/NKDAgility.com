@@ -2,7 +2,7 @@
 title: Branch Compare…A Life saver
 description: Discover a powerful tool for comparing branches that can simplify your development process. Learn how it can save you time and effort in your projects!
 ResourceId: x-pH6Gc3gyt
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 181
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/branch-comparea-life-saver
 - /branch-compare…a-life-saver
 - /blog/branch-compare…a-life-saver
+- /resources/blog/branch-comparea-life-saver
 tags:
 - tools
 preview: nakedalm-logo-128-link-1-1.png

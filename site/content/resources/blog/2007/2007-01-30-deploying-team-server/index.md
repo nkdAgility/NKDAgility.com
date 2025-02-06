@@ -2,7 +2,7 @@
 title: Deploying Team Server
 description: Explore the benefits of deploying TFS in your organization. Learn how a complete solution can enhance development efficiency and streamline project management.
 ResourceId: BcNPa5LLzLX
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 440
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /deploying-team-server
 - /blog/deploying-team-server
+- /resources/blog/deploying-team-server
 tags:
 - service-oriented-architecture
 - tfs-build

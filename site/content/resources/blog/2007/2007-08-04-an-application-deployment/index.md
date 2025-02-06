@@ -2,7 +2,7 @@
 title: An Application Deployment
 description: Explore the challenges of application deployment and the pitfalls of poor documentation. Learn how to navigate complex installations effectively.
 ResourceId: UnvdJlF863n
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 349
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /an-application-deployment
 - /blog/an-application-deployment
+- /resources/blog/an-application-deployment
 tags:
 - fail
 preview: nakedalm-logo-128-link-1-1.png

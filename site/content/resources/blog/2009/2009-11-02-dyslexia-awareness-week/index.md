@@ -2,7 +2,7 @@
 title: Dyslexia Awareness Week
 description: Explore the strengths of dyslexic developers during Dyslexia Awareness Week. Discover unique skills that enhance programming and creative problem-solving.
 ResourceId: mj1JwJ9LpG8
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 80
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /dyslexia-awareness-week
 - /blog/dyslexia-awareness-week
+- /resources/blog/dyslexia-awareness-week
 tags:
 - dyslexia
 categories:

@@ -2,7 +2,7 @@
 title: Move an Azure storage blob to another store
 description: Learn how to efficiently move Azure storage blobs between accounts using PowerShell. Simplify your VHD management with this step-by-step guide!
 ResourceId: b5bHXT2rLoN
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10778
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/move-azure-storage-blob-another-store
 - /move-an-azure-storage-blob-to-another-store
 - /blog/move-an-azure-storage-blob-to-another-store
+- /resources/blog/move-azure-storage-blob-another-store
 tags:
 - azure
 - blob

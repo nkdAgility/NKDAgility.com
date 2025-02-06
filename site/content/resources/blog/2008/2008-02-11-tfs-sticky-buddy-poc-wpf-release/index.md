@@ -2,7 +2,7 @@
 title: TFS Sticky Buddy POC (WPF) release
 description: Discover the TFS Sticky Buddy POC for WPF, a digital dashboard for Team Foundation Server. Download now and enhance your project management experience!
 ResourceId: y9N2dVYGwK3
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 247
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/tfs-sticky-buddy-poc-wpf-release
 - /tfs-sticky-buddy-poc-(wpf)-release
 - /blog/tfs-sticky-buddy-poc-(wpf)-release
+- /resources/blog/tfs-sticky-buddy-poc-wpf-release
 tags:
 - infrastructure
 - tfs

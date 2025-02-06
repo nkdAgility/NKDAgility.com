@@ -2,7 +2,7 @@
 title: Windows Server 2012 Core for dummies
 description: Master Windows Server 2012 Core with this beginner's guide. Learn essential command-line configurations for efficient server management and setup.
 ResourceId: qtma311iiMY
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9255
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /windows-server-2012-core-for-dummies
 - /blog/windows-server-2012-core-for-dummies
+- /resources/blog/windows-server-2012-core-for-dummies
 tags:
 - configuration
 - core

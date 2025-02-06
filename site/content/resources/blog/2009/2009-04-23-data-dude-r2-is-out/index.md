@@ -2,7 +2,7 @@
 title: Data Dude R2 is out!
 description: Discover the new features of Data Dude R2, enhancing SQL 2008 support for database developers. Upgrade now for improved performance and efficiency!
 ResourceId: -ifFvVOpYdz
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 130
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/data-dude-r2-is-out
 - /data-dude-r2-is-out-
 - /blog/data-dude-r2-is-out-
+- /resources/blog/data-dude-r2-is-out
 tags:
 - tfs
 - tools

@@ -2,7 +2,7 @@
 title: The great Xbox update
 description: Discover the exciting new Xbox Live experience in this update! Get ready for fresh features and a smoother gaming journey. Don't miss out!
 ResourceId: X8DVH4Nrsye
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 166
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /the-great-xbox-update
 - /blog/the-great-xbox-update
+- /resources/blog/the-great-xbox-update
 tags:
 - live
 - xbox

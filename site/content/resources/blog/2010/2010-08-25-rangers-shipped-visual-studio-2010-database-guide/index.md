@@ -2,7 +2,7 @@
 title: Rangers shipped Visual Studio 2010 Database Guide
 description: Unlock the potential of Visual Studio 2010 with the ALM Rangers' Database Guide, featuring hands-on labs and practical tips for real-world projects.
 ResourceId: cPIxk6Q_Dan
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 30
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /rangers-shipped-visual-studio-2010-database-guide
 - /blog/rangers-shipped-visual-studio-2010-database-guide
+- /resources/blog/rangers-shipped-visual-studio-2010-database-guide
 tags:
 - tfs
 - tfs2010

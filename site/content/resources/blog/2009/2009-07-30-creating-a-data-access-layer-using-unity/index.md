@@ -2,7 +2,7 @@
 title: Creating a Data Access layer using Unity
 description: Learn to create a robust Data Access layer using Unity for efficient dependency injection and mapping. Simplify your coding process with expert insights!
 ResourceId: ChjJ40t-403
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 95
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /creating-a-data-access-layer-using-unity
 - /blog/creating-a-data-access-layer-using-unity
+- /resources/blog/creating-a-data-access-layer-using-unity
 tags:
 - code
 - codeproject

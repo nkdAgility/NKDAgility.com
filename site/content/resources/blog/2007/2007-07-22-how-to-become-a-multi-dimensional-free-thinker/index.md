@@ -2,7 +2,7 @@
 title: How to become a Multi-Dimensional Free Thinker
 description: Unlock the power of dyslexia to become a multi-dimensional free thinker. Discover how unique thinking can enhance creativity and problem-solving skills.
 ResourceId: zHaP_THOBQT
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 364
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /how-to-become-a-multi-dimensional-free-thinker
 - /blog/how-to-become-a-multi-dimensional-free-thinker
+- /resources/blog/how-to-become-a-multi-dimensional-free-thinker
 tags:
 - dyslexia
 preview: nakedalm-logo-128-link-1-1.png

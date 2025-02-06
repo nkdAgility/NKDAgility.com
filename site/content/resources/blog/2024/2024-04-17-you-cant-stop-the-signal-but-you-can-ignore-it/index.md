@@ -2,7 +2,7 @@
 title: You can't stop the signal! But you can ignore it!
 description: Explore how Agile and Scrum illuminate challenges in teams and organizations, fostering a culture of continuous improvement and responsiveness to critical signals.
 ResourceId: KHNSdDjr5K_
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 51389
 ResourceImportSource: Wordpress
@@ -26,6 +26,7 @@ aliasesFor404:
 - /blog/you-cant-stop-the-signal-but-you-can-ignore-it
 - /you-can't-stop-the-signal--but-you-can-ignore-it-
 - /blog/you-can't-stop-the-signal--but-you-can-ignore-it-
+- /resources/blog/you-cant-stop-the-signal-but-you-can-ignore-it
 categories:
 - agility
 preview: NKDAgility-technically-YouCantStopTheSignal-1-1.jpg

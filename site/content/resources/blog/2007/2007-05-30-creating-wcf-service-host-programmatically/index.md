@@ -2,7 +2,7 @@
 title: Creating WCF Service Host Programmatically
 description: Learn to create a WCF Service Host programmatically with expert tips on base addresses, service behaviors, and secure bindings for robust .NET services.
 ResourceId: z78UlmtJAzV
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 393
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /creating-wcf-service-host-programmatically
 - /blog/creating-wcf-service-host-programmatically
+- /resources/blog/creating-wcf-service-host-programmatically
 tags:
 - code
 - ml

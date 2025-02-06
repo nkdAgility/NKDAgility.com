@@ -2,7 +2,7 @@
 title: 'A change for the better #3 - SSW to Northwest Cadence'
 description: Join Martin Hinshelwood as he shares his journey from SSW to Northwest Cadence, highlighting key lessons in Agile, Scrum, and ALM. Discover his insights!
 ResourceId: a_PdCAmRAp9
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 28
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/a-change-for-the-better-3
 - /a-change-for-the-better--3---ssw-to-northwest-cadence
 - /blog/a-change-for-the-better--3---ssw-to-northwest-cadence
+- /resources/blog/a-change-for-the-better-3
 tags:
 - agile
 - change

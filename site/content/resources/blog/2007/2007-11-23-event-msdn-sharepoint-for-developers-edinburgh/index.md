@@ -2,7 +2,7 @@
 title: 'Event: MSDN: SharePoint for Developers (Edinburgh)'
 description: Discover insights from the MSDN event on SharePoint for Developers in Edinburgh, featuring key takeaways on WSS3.0 and MOSS 2007 for all skill levels.
 ResourceId: Z3OPR0BDfsD
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 288
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/event-msdn-sharepoint-for-developers-edinburgh
 - /event--msdn--sharepoint-for-developers-(edinburgh)
 - /blog/event--msdn--sharepoint-for-developers-(edinburgh)
+- /resources/blog/event-msdn-sharepoint-for-developers-edinburgh
 tags:
 - infrastructure
 - moss2007

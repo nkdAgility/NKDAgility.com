@@ -2,7 +2,7 @@
 title: McDDD
 description: Join us in Glasgow on May 2nd for Developer Day Scotland 2! Discover inspiring talks from top speakers and connect with fellow developers. Don't miss out!
 ResourceId: 6pw2YiuYEJ1
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 134
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /mcddd
 - /blog/mcddd
+- /resources/blog/mcddd
 categories:
 - me
 preview: nakedalm-logo-128-link-2-2.png

@@ -2,7 +2,7 @@
 title: Microsoft Answer for the end-user
 description: Discover the new Microsoft Answers forum for Windows Vista users, offering straightforward support and real solutions without the technical jargon. Join now!
 ResourceId: KIMZ-rpIxds
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 151
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /microsoft-answer-for-the-end-user
 - /blog/microsoft-answer-for-the-end-user
+- /resources/blog/microsoft-answer-for-the-end-user
 categories:
 - me
 preview: nakedalm-logo-128-link-1-1.png

@@ -2,7 +2,7 @@
 title: My journey into Professional Scrum
 description: Explore my journey into Professional Scrum and discover how agile practices can transform software development and enhance business agility. Join me!
 ResourceId: PqEhZ1JIcDe
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 11115
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/journey-professional-scrum
 - /my-journey-into-professional-scrum
 - /blog/my-journey-into-professional-scrum
+- /resources/blog/journey-professional-scrum
 tags:
 - agile
 - business-agility

@@ -2,7 +2,7 @@
 title: Avoid the pick-n-mix branching anti-pattern
 description: Discover how to avoid the pick-n-mix branching anti-pattern in software development. Learn effective strategies to enhance code quality and team trust.
 ResourceId: IVl4r4gpkQ6
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10649
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/avoid-pick-n-mix-branching-anti-pattern
 - /avoid-the-pick-n-mix-branching-anti-pattern
 - /blog/avoid-the-pick-n-mix-branching-anti-pattern
+- /resources/blog/avoid-pick-n-mix-branching-anti-pattern
 tags:
 - anti-pattern
 - branching

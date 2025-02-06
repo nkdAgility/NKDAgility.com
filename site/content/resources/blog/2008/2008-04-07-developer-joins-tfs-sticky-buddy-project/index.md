@@ -2,7 +2,7 @@
 title: Developer joins TFS Sticky Buddy project
 description: Exciting news as Eric Willeke joins the TFS Sticky Buddy project! Discover how this addition aims to enhance development and tackle complex coding challenges.
 ResourceId: ghXEm8qg1Pz
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 242
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /developer-joins-tfs-sticky-buddy-project
 - /blog/developer-joins-tfs-sticky-buddy-project
+- /resources/blog/developer-joins-tfs-sticky-buddy-project
 tags:
 - infrastructure
 - tfs

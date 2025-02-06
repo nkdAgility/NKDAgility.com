@@ -2,7 +2,7 @@
 title: Small / New business websites
 description: Discover essential tips for building a successful web presence for your small business. Learn about SEO, design, and more to enhance your online visibility!
 ResourceId: w2k6P2xrp7B
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 441
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/small-new-business-websites
 - /small---new-business-websites
 - /blog/small---new-business-websites
+- /resources/blog/small-new-business-websites
 tags:
 - off-topic
 - seo

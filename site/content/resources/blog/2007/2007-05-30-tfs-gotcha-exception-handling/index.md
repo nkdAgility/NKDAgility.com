@@ -2,7 +2,7 @@
 title: TFS Gotcha (Exception Handling)
 description: Learn how to effectively handle non-serializable exceptions in Team Foundation Server with custom solutions for Windows Communication Foundation. Enhance your coding skills!
 ResourceId: OMGmyApgm0G
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 392
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/tfs-gotcha-exception-handling
 - /tfs-gotcha-(exception-handling)
 - /blog/tfs-gotcha-(exception-handling)
+- /resources/blog/tfs-gotcha-exception-handling
 tags:
 - tfs
 

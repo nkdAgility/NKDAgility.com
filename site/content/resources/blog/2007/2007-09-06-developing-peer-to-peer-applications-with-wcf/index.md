@@ -2,7 +2,7 @@
 title: Developing Peer-To-Peer Applications With WCF
 description: Explore the challenges and insights of developing peer-to-peer applications with WCF. Join Martin Hinshelwood as he shares his presentation experience and tips.
 ResourceId: SlusLOwCCkg
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 317
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /developing-peer-to-peer-applications-with-wcf
 - /blog/developing-peer-to-peer-applications-with-wcf
+- /resources/blog/developing-peer-to-peer-applications-with-wcf
 tags:
 - service-oriented-architecture
 - tfs

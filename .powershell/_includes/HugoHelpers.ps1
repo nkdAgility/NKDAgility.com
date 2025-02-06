@@ -45,6 +45,23 @@ function Get-HugoMarkdown {
     return [HugoMarkdown]::new($frontMatter, $bodyContent)
 }
 
+function Remove-Field {
+    param (
+        [Parameter(Mandatory = $true)]
+        [System.Collections.Specialized.OrderedDictionary]$frontMatter,
+        [Parameter(Mandatory = $true)]
+        [string]$fieldName
+    )
+
+    if ($frontMatter.Contains($fieldName)) {
+        $frontMatter.Remove($fieldName)
+        Write-Host "$fieldName removed"
+    }
+    else {
+        Write-Host "$fieldName does not exist"
+    }
+}
+
 # Function to update a  field in the front matter
 function Update-Field {
     param (

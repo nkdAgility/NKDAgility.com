@@ -2,7 +2,7 @@
 title: MOSS SP1 Install Notes
 description: Explore essential installation notes for MOSS SP1, including prerequisites and download links, to ensure a smooth SharePoint upgrade experience.
 ResourceId: s8EZNFYedNl
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 277
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /moss-sp1-install-notes
 - /blog/moss-sp1-install-notes
+- /resources/blog/moss-sp1-install-notes
 tags:
 - infrastructure
 - sharepoint

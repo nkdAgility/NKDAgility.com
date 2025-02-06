@@ -2,7 +2,7 @@
 title: Are you doing Scrum? Really?
 description: Explore the evolving landscape of Scrum and discover a simple checklist to ensure you're truly practicing it. Embrace adaptability for better results!
 ResourceId: X1Hm4PJt0CV
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 4049
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/are-you-doing-scrum-really
 - /are-you-doing-scrum--really-
 - /blog/are-you-doing-scrum--really-
+- /resources/blog/are-you-doing-scrum-really
 tags:
 - develop
 - nwcadence

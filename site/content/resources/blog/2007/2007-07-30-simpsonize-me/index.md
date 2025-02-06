@@ -2,7 +2,7 @@
 title: Simpsonize Me!
 description: Discover how to 'Simpsonize' yourself! Join Martin Hinshelwood as he shares his fun experience and tips for creating your own animated character.
 ResourceId: vThsgxwl-Tv
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 355
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/simpsonize-me
 - /simpsonize-me-
 - /blog/simpsonize-me-
+- /resources/blog/simpsonize-me
 categories:
 - me
 preview: nakedalm-logo-128-link-2-1.png

@@ -2,7 +2,7 @@
 title: Improvements in Visual Studio ALM from the ALM Summit
 description: Discover the latest enhancements in Visual Studio ALM from the ALM Summit, including Git support, web-based test management, and Kanban improvements.
 ResourceId: E9mwcXKPJ0C
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9239
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /improvements-in-visual-studio-alm-from-the-alm-summit
 - /blog/improvements-in-visual-studio-alm-from-the-alm-summit
+- /resources/blog/improvements-in-visual-studio-alm-from-the-alm-summit
 tags:
 - define
 - dvcs

@@ -2,7 +2,7 @@
 title: It's that time again; get ready to upgrade to TFS 2015
 description: Prepare for the TFS 2015 upgrade! Discover essential strategies and tips to ensure a smooth transition before support for TFS 2010 ends. Don't wait!
 ResourceId: 7gr-fTIcGUp
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 11241
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/its-that-time-again-get-ready-to-upgrade-to-tfs-2015
 - /it's-that-time-again;-get-ready-to-upgrade-to-tfs-2015
 - /blog/it's-that-time-again;-get-ready-to-upgrade-to-tfs-2015
+- /resources/blog/its-that-time-again-get-ready-to-upgrade-to-tfs-2015
 tags:
 - tfs
 - tfs2005

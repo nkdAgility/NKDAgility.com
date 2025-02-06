@@ -2,7 +2,7 @@
 title: Deep vein thrombosis (DVT)
 description: Discover the urgent need for DVT awareness and support a petition for genetic testing to prevent future tragedies. Join the fight for change today!
 ResourceId: _7Yp1RZb_8I
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 433
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/deep-vein-thrombosis-dvt
 - /deep-vein-thrombosis-(dvt)
 - /blog/deep-vein-thrombosis-(dvt)
+- /resources/blog/deep-vein-thrombosis-dvt
 categories:
 - me
 preview: nakedalm-logo-128-link-1-1.png

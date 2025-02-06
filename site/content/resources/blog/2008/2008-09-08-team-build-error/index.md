@@ -2,7 +2,7 @@
 title: Team Build Error
 description: Discover solutions to MS Build errors in Visual Studio 2005 and 2008. Learn how updates can resolve issues and streamline your Business Intelligence projects.
 ResourceId: hLCFRDIvAXj
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 197
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /team-build-error
 - /blog/team-build-error
+- /resources/blog/team-build-error
 tags:
 - aggreko
 - tfs-build

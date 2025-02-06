@@ -2,7 +2,7 @@
 title: Team System MVP
 description: Join Martin Hinshelwood as he celebrates becoming a Team System MVP, sharing insights and gratitude for this prestigious recognition in the tech community.
 ResourceId: -4be4NdCc9K
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 189
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /team-system-mvp
 - /blog/team-system-mvp
+- /resources/blog/team-system-mvp
 tags:
 - awards
 - tfs

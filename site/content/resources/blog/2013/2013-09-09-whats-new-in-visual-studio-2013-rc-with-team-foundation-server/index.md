@@ -2,7 +2,7 @@
 title: What's new in Visual Studio 2013 and TFS 2013 RC
 description: Discover the latest features in Visual Studio 2013 and TFS 2013 RC. Enhance your development experience with powerful tools and agile improvements!
 ResourceId: _YCdFNYKYcM
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10019
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/whats-new-in-visual-studio-2013-rc-with-team-foundation-server
 - /what's-new-in-visual-studio-2013-and-tfs-2013-rc
 - /blog/what's-new-in-visual-studio-2013-and-tfs-2013-rc
+- /resources/blog/whats-new-in-visual-studio-2013-rc-with-team-foundation-server
 tags:
 - tfs
 - tfs-2013

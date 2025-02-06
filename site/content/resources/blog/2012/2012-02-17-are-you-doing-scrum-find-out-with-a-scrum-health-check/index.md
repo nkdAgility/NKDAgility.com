@@ -2,7 +2,7 @@
 title: Are you doing Scrum? Find out with a Scrum Health Check!
 description: Discover if your team is truly doing Scrum with our Scrum Health Check! Identify improvement opportunities and ensure you're on the right path to success.
 ResourceId: sd5d5KYoXsO
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 4406
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/are-you-doing-scrum-find-out-with-a-scrum-health-check
 - /are-you-doing-scrum--find-out-with-a-scrum-health-check-
 - /blog/are-you-doing-scrum--find-out-with-a-scrum-health-check-
+- /resources/blog/are-you-doing-scrum-find-out-with-a-scrum-health-check
 tags:
 - agile
 - define

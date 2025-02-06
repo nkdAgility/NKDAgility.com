@@ -2,7 +2,7 @@
 title: SharePoint Content Request | What would you like to see?
 description: Explore the potential of SharePoint and TFS integration! Share your ideas for features that enhance collaboration and streamline processes in your intranet.
 ResourceId: pyKCdDNWdPB
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 361
 ResourceImportSource: Wordpress
@@ -26,6 +26,8 @@ aliasesFor404:
 - /blog/sharepoint-content-request-what-would-you-like-to-see
 - /sharepoint-content-request---what-would-you-like-to-see-
 - /blog/sharepoint-content-request---what-would-you-like-to-see-
+- /sharepoint-content-request
+- /resources/blog/sharepoint-content-request-what-would-you-like-to-see
 
 ---
 what-would-you-like-to-see-

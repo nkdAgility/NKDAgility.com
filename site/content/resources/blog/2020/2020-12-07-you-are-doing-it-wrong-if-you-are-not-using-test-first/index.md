@@ -2,7 +2,7 @@
 title: You are doing it wrong if you are not using test first
 description: Unlock the power of Test First principles in software development. Learn how TDD and ATDD can enhance quality, reduce bugs, and meet customer needs effectively.
 ResourceId: yqHaiUlMNTP
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9469
 ResourceImportSource: Wordpress
@@ -22,6 +22,7 @@ aliases:
 aliasesFor404:
 - /you-are-doing-it-wrong-if-you-are-not-using-test-first
 - /blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
+- /resources/blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
 tags:
 - atdd
 - bdd

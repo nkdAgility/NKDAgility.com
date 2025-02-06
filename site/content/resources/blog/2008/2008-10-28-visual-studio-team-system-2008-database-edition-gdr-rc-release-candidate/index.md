@@ -2,7 +2,7 @@
 title: Visual Studio Team System 2008 Database Edition GDR RC (release candidate)
 description: Discover the Visual Studio Team System 2008 Database Edition GDR RC, featuring an upgrade path to RTM and essential documentation for developers. Download now!
 ResourceId: Y1_0V9iVxYc
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 178
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/visual-studio-team-system-2008-database-edition-gdr-rc-release-candidate
 - /visual-studio-team-system-2008-database-edition-gdr-rc-(release-candidate)
 - /blog/visual-studio-team-system-2008-database-edition-gdr-rc-(release-candidate)
+- /resources/blog/visual-studio-team-system-2008-database-edition-gdr-rc-release-candidate
 tags:
 - tfs
 - tools

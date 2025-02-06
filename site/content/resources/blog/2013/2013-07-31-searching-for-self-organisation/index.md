@@ -2,7 +2,7 @@
 title: Searching for self-organisation
 description: Explore the journey to self-organisation in teams. Discover strategies to foster accountability, identity, and high performance for agile success.
 ResourceId: EjoEHTWiJtf
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9741
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /searching-for-self-organisation
 - /blog/searching-for-self-organisation
+- /resources/blog/searching-for-self-organisation
 tags:
 - culture
 - development-team

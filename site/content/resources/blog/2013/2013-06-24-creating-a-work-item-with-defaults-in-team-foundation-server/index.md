@@ -2,7 +2,7 @@
 title: Creating a Work Item with defaults in Team Foundation Server
 description: Learn how to create a Work Item with defaults in Team Foundation Server, streamlining user access and guidance for efficient project management.
 ResourceId: v1HLcU8PfsS
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9686
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /creating-a-work-item-with-defaults-in-team-foundation-server
 - /blog/creating-a-work-item-with-defaults-in-team-foundation-server
+- /resources/blog/creating-a-work-item-with-defaults-in-team-foundation-server
 tags:
 - configuration
 - tfs

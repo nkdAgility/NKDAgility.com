@@ -2,7 +2,7 @@
 title: 'Team Foundation Server Error TF30177: Team Project Creation Failed  - Part 2'
 description: Troubleshoot Team Foundation Server error TF30177 with expert insights. Learn to resolve project creation issues in SharePoint effectively. Read more!
 ResourceId: -H--7dlWeGE
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 327
 ResourceImportSource: Wordpress
@@ -27,6 +27,7 @@ aliasesFor404:
 - /blog/team-foundation-server-error-tf30177--team-project-creation-failed----part-2
 - /team-foundation-server-error-tf30177--team-project-creation-failed---part-2
 - /blog/team-foundation-server-error-tf30177--team-project-creation-failed---part-2
+- /resources/blog/team-foundation-server-error-tf30177-team-project-creation-failed-part-2
 tags:
 - sharepoint
 - sp2007

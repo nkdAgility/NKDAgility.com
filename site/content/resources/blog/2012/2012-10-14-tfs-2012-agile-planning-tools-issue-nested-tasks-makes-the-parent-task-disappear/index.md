@@ -2,7 +2,7 @@
 title: TFS 2012 Agile Planning Tools Issue - nested tasks makes the parent task disappear
 description: Discover why using nested tasks in TFS 2012 Agile Planning Tools can lead to issues. Learn the best practices for effective backlog management.
 ResourceId: YhKqO4gdGiv
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 8936
 ResourceImportSource: Wordpress
@@ -26,6 +26,8 @@ aliasesFor404:
 - /blog/tfs-2012-agile-planning-tools-issue-nested-tasks-makes-the-parent-task-disappear
 - /tfs-2012-agile-planning-tools-issue---nested-tasks-makes-the-parent-task-disappear
 - /blog/tfs-2012-agile-planning-tools-issue---nested-tasks-makes-the-parent-task-disappear
+- /tfs-2012-agile-planning-tools-issue
+- /resources/blog/tfs-2012-agile-planning-tools-issue-nested-tasks-makes-the-parent-task-disappear
 tags:
 - agile
 - agile-planning-tools

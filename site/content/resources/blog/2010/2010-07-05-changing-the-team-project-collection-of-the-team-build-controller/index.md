@@ -2,7 +2,7 @@
 title: Changing the Team Project Collection of the Team Build Controller
 description: Learn how to change the Team Project Collection of the Team Build Controller in TFS 2010 for seamless builds and efficient project management. Get started now!
 ResourceId: n7Y4Ij-CPvp
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 35
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /changing-the-team-project-collection-of-the-team-build-controller
 - /blog/changing-the-team-project-collection-of-the-team-build-controller
+- /resources/blog/changing-the-team-project-collection-of-the-team-build-controller
 tags:
 - ssw
 - tfs-build

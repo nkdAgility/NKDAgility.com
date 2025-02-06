@@ -2,7 +2,7 @@
 title: 'Finding features: Calendar preview'
 description: Discover the Calendar preview feature in Outlook 2010 that helps you quickly check your availability. Enhance your productivity with this handy tool!
 ResourceId: Q0-oHysVeAO
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 94
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/finding-features-calendar-preview
 - /finding-features--calendar-preview
 - /blog/finding-features--calendar-preview
+- /resources/blog/finding-features-calendar-preview
 tags:
 - office
 - tools

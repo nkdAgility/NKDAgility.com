@@ -2,7 +2,7 @@
 title: Blogging about...
 description: Join Martin Hinshelwood as he shares insights on TFS, Visual Studio, and personal reflections during his career transition. Discover his journey and tips!
 ResourceId: mYU-gZ_KBo3
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 314
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/blogging-about
 - /blogging-about---
 - /blog/blogging-about---
+- /resources/blog/blogging-about
 tags:
 - tfs
 - tfs2008

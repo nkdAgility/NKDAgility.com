@@ -2,7 +2,7 @@
 title: Compatibility view in IE8
 description: Discover how to easily enable IE7 Compatibility mode in IE8 for better page viewing. Learn tips and tricks to enhance your browsing experience!
 ResourceId: Spq444zEHgM
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 201
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /compatibility-view-in-ie8
 - /blog/compatibility-view-in-ie8
+- /resources/blog/compatibility-view-in-ie8
 tags:
 - ie8
 - off-topic

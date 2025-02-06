@@ -2,7 +2,7 @@
 title: Mozy Backup
 description: Discover Mozy Backup, an affordable online backup solution with 2GB free space. Simple setup and reliable service to protect your digital life. Try it now!
 ResourceId: w40y2iYjQLv
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 287
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /mozy-backup
 - /blog/mozy-backup
+- /resources/blog/mozy-backup
 categories:
 - me
 preview: nakedalm-logo-128-link-3-3.png

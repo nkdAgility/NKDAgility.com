@@ -2,7 +2,7 @@
 title: 'Embrace Uniqueness: Why Creating Your Own Scaling Practices Leads to Business Success'
 description: Discover how creating unique scaling practices can drive your business success. Embrace your distinctiveness and foster agility for sustainable growth.
 ResourceId: rMAdB_yEwWb
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 49480
 ResourceImportSource: Wordpress
@@ -26,6 +26,7 @@ aliasesFor404:
 - /blog/embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
 - /embrace-uniqueness--why-creating-your-own-scaling-practices-leads-to-business-success
 - /blog/embrace-uniqueness--why-creating-your-own-scaling-practices-leads-to-business-success
+- /resources/blog/embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
 tags:
 - featured
 - homepage

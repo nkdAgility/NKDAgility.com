@@ -2,7 +2,7 @@
 title: Execute Tests with Release Management for Visual Studio 2013
 description: Learn to execute tests seamlessly with Release Management for Visual Studio 2013. Simplify your automated testing and deployment processes today!
 ResourceId: Jpm_MxV4e3G
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10342
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/execute-tests-release-management-visual-studio-2013
 - /execute-tests-with-release-management-for-visual-studio-2013
 - /blog/execute-tests-with-release-management-for-visual-studio-2013
+- /resources/blog/execute-tests-release-management-visual-studio-2013
 tags:
 - automated-testing
 - release

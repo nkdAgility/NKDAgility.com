@@ -2,7 +2,7 @@
 title: Installing Office 2013 on Windows 8
 description: Discover how to easily install Office 2013 on Windows 8 with our step-by-step guide. Enjoy new features and a smooth setup experience!
 ResourceId: Pm8GkiOhWyK
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 6306
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /installing-office-2013-on-windows-8
 - /blog/installing-office-2013-on-windows-8
+- /resources/blog/installing-office-2013-on-windows-8
 tags:
 - configuration
 - infrastructure

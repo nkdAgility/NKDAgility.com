@@ -2,7 +2,7 @@
 title: Visual Studio 2010 Overview - Architecture
 description: Explore how Visual Studio 2010 enhances project architecture with tools for visualization, standards enforcement, and team collaboration. Discover more!
 ResourceId: zV3uLqE0b0K
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 4191
 ResourceImportSource: Wordpress
@@ -26,6 +26,8 @@ aliasesFor404:
 - /blog/visual-studio-2010-overview-architecture
 - /visual-studio-2010-overview---architecture
 - /blog/visual-studio-2010-overview---architecture
+- /visual-studio-2010-overview
+- /resources/blog/visual-studio-2010-overview-architecture
 tags:
 - modern-alm
 - nwcadence

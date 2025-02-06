@@ -2,7 +2,7 @@
 title: I do continuous deliver, why should I Sprint?
 description: Explore why Sprints are essential in Scrum, even with continuous delivery. Discover how they enhance communication, predictability, and planning in software development.
 ResourceId: nIIA3IUtX_z
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 11885
 ResourceImportSource: Wordpress
@@ -29,6 +29,7 @@ aliasesFor404:
 - /blog/i-do-continuous-deliver,-why-should-i-sprint-
 - /i-do-continuous-deliver--why-should-i-sprint-
 - /blog/i-do-continuous-deliver--why-should-i-sprint-
+- /resources/blog/continuous-deliver-sprint
 tags:
 - continious-delivery
 - the-sprint

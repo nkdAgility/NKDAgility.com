@@ -2,7 +2,7 @@
 title: Team Foundation Server Error 28936
 description: Discover how to resolve Team Foundation Server Error 28936 with expert tips on IIS configuration and troubleshooting. Get your TFS up and running smoothly!
 ResourceId: pfq93Zq1pW6
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 337
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /team-foundation-server-error-28936
 - /blog/team-foundation-server-error-28936
+- /resources/blog/team-foundation-server-error-28936
 tags:
 - ml
 - tools

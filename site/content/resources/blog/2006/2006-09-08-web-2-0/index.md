@@ -2,7 +2,7 @@
 title: Web 2.0
 description: Explore the essence of Web 2.0 and its impact on the internet landscape. Understand this buzzword and enhance your project discussions with confidence!
 ResourceId: phKPK_P0xjA
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 463
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /web-2-0
 - /blog/web-2-0
+- /resources/blog/web-2-0
 tags:
 - off-topic
 - web

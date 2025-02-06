@@ -2,7 +2,7 @@
 title: Integrate reporting and analyses services with Team Foundation Server 2013
 description: Learn how to integrate reporting and analysis services with Team Foundation Server 2013 to enhance your project management and data insights. Get started now!
 ResourceId: nNxCVaaSYOS
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9875
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /integrate-reporting-and-analyses-services-with-team-foundation-server-2013
 - /blog/integrate-reporting-and-analyses-services-with-team-foundation-server-2013
+- /resources/blog/integrate-reporting-and-analyses-services-with-team-foundation-server-2013
 tags:
 - analysis-services
 - reporting-services

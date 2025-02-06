@@ -2,7 +2,7 @@
 title: TFS Admin Tool 1.2 Gotcha
 description: "Discover a crucial TFS Admin Tool 1.2 issue: adding users as 'Contributor' fails to grant 'Reader' access, leading to report visibility problems. Learn more!"
 ResourceId: SmRXtDPyViB
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 422
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /tfs-admin-tool-1-2-gotcha
 - /blog/tfs-admin-tool-1-2-gotcha
+- /resources/blog/tfs-admin-tool-1-2-gotcha
 tags:
 - tfs
 

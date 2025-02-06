@@ -2,7 +2,7 @@
 title: 'The Definition of Done: Ensuring Quality without Compromising Value'
 description: Discover the importance of the Definition of Done in agile practices. Ensure quality and transparency in your projects with insights from NKDAgility. Learn more!
 ResourceId: DcwDyX1ZGUP
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 50083
 ResourceImportSource: Wordpress
@@ -26,6 +26,7 @@ aliasesFor404:
 - /blog/the-definition-of-done-ensuring-quality-without-compromising-value
 - /the-definition-of-done--ensuring-quality-without-compromising-value
 - /blog/the-definition-of-done--ensuring-quality-without-compromising-value
+- /resources/blog/the-definition-of-done-ensuring-quality-without-compromising-value
 tags:
 - featured
 - homepage

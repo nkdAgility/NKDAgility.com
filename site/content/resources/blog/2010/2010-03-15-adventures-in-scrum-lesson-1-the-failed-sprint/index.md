@@ -2,7 +2,7 @@
 title: 'Adventures in Scrum: Lesson 1 – The failed Sprint'
 description: "Explore the challenges of Scrum in 'Adventures in Scrum: Lesson 1'. Learn from a failed Sprint and discover key insights for effective team collaboration."
 ResourceId: OG5mmVtH9nU
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 63
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/adventures-in-scrum-lesson-1-the-failed-sprint
 - /adventures-in-scrum--lesson-1-–-the-failed-sprint
 - /blog/adventures-in-scrum--lesson-1-–-the-failed-sprint
+- /resources/blog/adventures-in-scrum-lesson-1-the-failed-sprint
 tags:
 - develop
 - people

@@ -2,7 +2,7 @@
 title: Am I a stoner hippy?
 description: Explore the journey of a 'multi-dimensional free thinker' grappling with dyslexia, creativity, and the challenges of traditional education. Discover the gift within!
 ResourceId: CNzLcasBQF9
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 146
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/am-i-a-stoner-hippy
 - /am-i-a-stoner-hippy-
 - /blog/am-i-a-stoner-hippy-
+- /resources/blog/am-i-a-stoner-hippy
 tags:
 - dyslexia
 categories:

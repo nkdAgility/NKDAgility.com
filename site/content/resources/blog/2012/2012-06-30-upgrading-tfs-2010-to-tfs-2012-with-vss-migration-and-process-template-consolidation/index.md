@@ -2,7 +2,7 @@
 title: Upgrading TFS 2010 to TFS 2012 with VSS Migration and Process Template consolidation
 description: Upgrade your TFS from 2010 to 2012 seamlessly with expert insights on VSS migration and process template consolidation. Enhance your team's efficiency today!
 ResourceId: XIuPwzheKMA
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 5702
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation
 - /blog/upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation
+- /resources/blog/upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation
 tags:
 - configuration
 - infrastructure

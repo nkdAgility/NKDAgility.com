@@ -2,7 +2,7 @@
 title: Waffling on SharePoint...
 description: Explore the challenges of writing effective SharePoint documentation for non-technical audiences and discover how to leverage its powerful capabilities.
 ResourceId: O3FNfeA_FB8
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 246
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/waffling-on-sharepoint
 - /waffling-on-sharepoint---
 - /blog/waffling-on-sharepoint---
+- /resources/blog/waffling-on-sharepoint
 tags:
 - moss2007
 - sharepoint

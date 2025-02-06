@@ -2,7 +2,7 @@
 title: Become the leader that you were meant to to be
 description: Unlock your leadership potential! Discover how to inspire and lead effectively in modern organizations. Become the leader you were meant to be!
 ResourceId: -Oo9b3G-8Zw
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 45806
 ResourceImportSource: Wordpress
@@ -22,6 +22,7 @@ aliases:
 aliasesFor404:
 - /become-the-leader-that-you-were-meant-to-to-be
 - /blog/become-the-leader-that-you-were-meant-to-to-be
+- /resources/blog/become-the-leader-that-you-were-meant-to-to-be
 tags:
 - featured
 - leadership-track

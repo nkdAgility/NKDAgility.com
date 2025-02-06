@@ -2,7 +2,7 @@
 title: Creating training virtual machines in Azure
 description: Learn to create training virtual machines in Azure effortlessly. This guide simplifies setup for technical courses, ensuring a smooth teaching experience.
 ResourceId: 93Qe5n6ux9U
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10771
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/creating-training-virtual-machines-azure
 - /creating-training-virtual-machines-in-azure
 - /blog/creating-training-virtual-machines-in-azure
+- /resources/blog/creating-training-virtual-machines-azure
 tags:
 - azure
 - hyper-v

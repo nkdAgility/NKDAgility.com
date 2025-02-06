@@ -2,7 +2,7 @@
 title: TFS 2012.3 Issue - Scheduled Backups gives a TF400998 when reconfigured
 description: Resolve the TF400998 error in TFS 2012.3 when reconfiguring Scheduled Backups after migration. Discover solutions to streamline your backup process!
 ResourceId: _XqGOC9TbpP
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9904
 ResourceImportSource: Wordpress
@@ -26,6 +26,8 @@ aliasesFor404:
 - /blog/tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
 - /tfs-2012-3-issue---scheduled-backups-gives-a-tf400998-when-reconfigured
 - /blog/tfs-2012-3-issue---scheduled-backups-gives-a-tf400998-when-reconfigured
+- /tfs-2012-3-issue
+- /resources/blog/tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
 tags:
 - configuration
 - puzzles

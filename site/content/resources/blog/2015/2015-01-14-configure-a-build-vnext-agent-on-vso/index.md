@@ -2,7 +2,7 @@
 title: Configure a Build vNext Agent
 description: Learn how to configure a Build vNext Agent on VSO with this comprehensive guide. Simplify your build process and enhance your development workflow today!
 ResourceId: hyJFelRdglq
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 11021
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/configure-a-build-vnext-agent-on-vso
 - /configure-a-build-vnext-agent
 - /blog/configure-a-build-vnext-agent
+- /resources/blog/configure-a-build-vnext-agent-on-vso
 tags:
 - build
 - tfs

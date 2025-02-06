@@ -2,7 +2,7 @@
 title: Xbox  Live to Twitter Update (v0.2.3)
 description: Discover the latest updates to the Xbox Live to Twitter app! Enhance your gaming experience with new features and customization options. Download now!
 ResourceId: 4kh61B4o7T1
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 267
 ResourceImportSource: Wordpress
@@ -27,6 +27,7 @@ aliasesFor404:
 - /blog/xbox--live-to-twitter-update-(v0-2-3)
 - /xbox-live-to-twitter-update-(v0-2-3)
 - /blog/xbox-live-to-twitter-update-(v0-2-3)
+- /resources/blog/xbox-live-to-twitter-update-v0-2-3
 tags:
 - code
 - live

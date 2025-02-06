@@ -2,7 +2,7 @@
 title: Windows Live Writer Beta 3 Hmm!
 description: Explore the quirks of Windows Live Writer Beta 3 as I share my support experience and the hunt for the correct download link. Join the conversation!
 ResourceId: Mr03tdjOlLS
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 305
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/windows-live-writer-beta-3-hmm
 - /windows-live-writer-beta-3-hmm-
 - /blog/windows-live-writer-beta-3-hmm-
+- /resources/blog/windows-live-writer-beta-3-hmm
 tags:
 - live
 categories:

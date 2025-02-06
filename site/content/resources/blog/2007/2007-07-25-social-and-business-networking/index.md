@@ -2,7 +2,7 @@
 title: Social and Business Networking
 description: Explore innovative solutions for social and business networking. Discover how a central system can streamline connections across platforms for enhanced collaboration.
 ResourceId: wm96r47cCGV
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 359
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /social-and-business-networking
 - /blog/social-and-business-networking
+- /resources/blog/social-and-business-networking
 tags:
 - service-oriented-architecture
 preview: nakedalm-logo-128-link-1-1.png

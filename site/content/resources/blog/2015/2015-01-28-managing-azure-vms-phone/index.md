@@ -2,7 +2,7 @@
 title: Managing your Azure VM's with your Phone
 description: Manage your Azure VMs effortlessly with your phone! Discover how the Mobile Azure Manager app simplifies cloud management on the go. Save time and costs!
 ResourceId: N-rk9OlMyUm
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 11152
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/managing-azure-vms-phone
 - /managing-your-azure-vm's-with-your-phone
 - /blog/managing-your-azure-vm's-with-your-phone
+- /resources/blog/managing-azure-vms-phone
 tags:
 - azure
 - windows-phone

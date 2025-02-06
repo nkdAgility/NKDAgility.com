@@ -2,7 +2,7 @@
 title: Product Owners are not a myth
 description: Discover the vital role of Product Owners in Scrum. Learn how they maximize value and manage backlogs effectively for successful agile development.
 ResourceId: pgJ89XqQPZe
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 3909
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/product-owners-are-not-a-myth-2
 - /product-owners-are-not-a-myth
 - /blog/product-owners-are-not-a-myth
+- /resources/blog/product-owners-are-not-a-myth-2
 tags:
 - agile
 - define

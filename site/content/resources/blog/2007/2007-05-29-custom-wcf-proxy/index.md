@@ -2,7 +2,7 @@
 title: Custom WCF Proxy
 description: Learn how to create custom WCF proxies to streamline your web services and eliminate the need for converters. Enhance your .NET development toolkit today!
 ResourceId: hfv2zp8Q-i4
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 394
 ResourceImportSource: Wordpress
@@ -21,6 +21,7 @@ aliases:
 aliasesFor404:
 - /custom-wcf-proxy
 - /blog/custom-wcf-proxy
+- /resources/blog/custom-wcf-proxy
 tags:
 - ml
 - service-oriented-architecture

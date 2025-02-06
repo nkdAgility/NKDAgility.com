@@ -2,7 +2,7 @@
 title: 'TFS Integration Tools - Issue: TFS WIT invalid submission conflict type'
 description: Resolve TFS WIT invalid submission conflicts with expert tips on configuration and permissions. Ensure smooth integration with TFS Integration Tools today!
 ResourceId: vrpjXVvhpYA
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 8781
 ResourceImportSource: Wordpress
@@ -26,6 +26,8 @@ aliasesFor404:
 - /blog/tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
 - /tfs-integration-tools---issue--tfs-wit-invalid-submission-conflict-type
 - /blog/tfs-integration-tools---issue--tfs-wit-invalid-submission-conflict-type
+- /tfs-integration-tools
+- /resources/blog/tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
 tags:
 - puzzles
 - tfs2012

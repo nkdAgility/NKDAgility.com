@@ -2,7 +2,7 @@
 title: Ahaaaa!
 description: Join Martin Hinshelwood as he navigates the challenges of coding in his blog post 'Ahaaaa!' and shares his journey to mastering the art of blogging.
 ResourceId: E3cUOS0i5ul
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 469
 ResourceImportSource: Wordpress
@@ -25,6 +25,7 @@ aliasesFor404:
 - /blog/ahaaaa
 - /ahaaaa-
 - /blog/ahaaaa-
+- /resources/blog/ahaaaa
 tags:
 - off-topic
 preview: nakedalm-logo-128-link-1-1.png
