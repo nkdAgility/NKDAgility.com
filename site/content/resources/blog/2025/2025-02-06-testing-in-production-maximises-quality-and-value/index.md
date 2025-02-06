@@ -10,35 +10,37 @@ date: 2025-02-13T09:00:00
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
-  - name: Benjamin Day
-    external: https://www.linkedin.com/in/benjaminpday/
-  - name: Dave Westgarth
-    external: https://www.linkedin.com/in/dave-westgarth/
+- name: Benjamin Day
+  external: https://www.linkedin.com/in/benjaminpday/
+- name: Dave Westgarth
+  external: https://www.linkedin.com/in/dave-westgarth/
 layout: blog
 resourceTypes: blog
 slug: testing-in-production-maximises-quality-and-value
 aliases:
-  - /resources/_ncZFfeCrnS
+- /resources/_ncZFfeCrnS
 aliasesFor404:
-  - /testing-in-production-maximises-quality-and-value
-  - /blog/testing-in-production-maximises-quality-and-value
+- /testing-in-production-maximises-quality-and-value
+- /blog/testing-in-production-maximises-quality-and-value
 tags:
-  - continuous-delivery
-  - customer-feedback-loops
-  - agile-product-discovery
-  - agile-software-development
-  - value-delivery
-  - evidence-based-management
-  - agile-planning
-  - agile-transformation
+- Continuous Delivery
+- Deployment Strategies
+- Customer Feedback Loops
+- Agile Product Discovery
+- Agile Software Development
+- Evidence Based Management
+- Value Delivery
+- Agile Transformation
+- DevOps
+- Agile Planning
 categories:
-  - Value Delivery
-  - Metrics and Learning
-  - DevOps
-  - Technical Excellence
+- Value Delivery
+- Metrics and Learning
+- DevOps
+- Technical Excellence
 preview: 2025-02-06-testing-in-production-maximises-quality-and-value.jpg
----
 
+---
 Testing in production, is about structured, observable releases that allow for fast feedback, controlled exposure, and rapid course correction, ensuring quality without sacrificing speed.
 
 One such paradigm shift in software delivery is audience-based deployment.

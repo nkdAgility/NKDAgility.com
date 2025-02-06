@@ -64,7 +64,7 @@ $catalogString
 
 
 ### Rules:
-1. Select only categories from the provided catalog.
+1. Select only categories from the provided catalog and always use the format from the catalog
 2. Choose the **only relevant** categories based on the resource’s content and title.
 3. Each selected category should be relevant to the resource, remove any irrelevant categories.
 4. Do not select any categories if none are relevant. 

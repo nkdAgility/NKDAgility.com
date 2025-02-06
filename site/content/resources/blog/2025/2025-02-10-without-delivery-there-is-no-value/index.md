@@ -13,34 +13,35 @@ layout: blog
 resourceTypes: blog
 slug: without-delivery-no-value
 aliases:
-  - /resources/UfdnQrxv5iF
-  - /without-delivery-no-value
-  - /blog/without-delivery-no-value
-  - /without-delivery--there-is-no-value
-  - /blog/without-delivery--there-is-no-value
+- /resources/UfdnQrxv5iF
+- /without-delivery-no-value
+- /blog/without-delivery-no-value
+- /without-delivery--there-is-no-value
+- /blog/without-delivery--there-is-no-value
 aliasesFor404:
-  - /without-delivery-no-value
-  - /blog/without-delivery-no-value
-  - /without-delivery--there-is-no-value
-  - /blog/without-delivery--there-is-no-value
+- /without-delivery-no-value
+- /blog/without-delivery-no-value
+- /without-delivery--there-is-no-value
+- /blog/without-delivery--there-is-no-value
 tags:
-  - Definition of Done
-  - Scrum
-    - Deployment Frequency
-    - Agile Product Validation
-    - Customer Feedback Loops
-    - Agile Software Development
-    - Change Management
-    - Agile Planning
-    - Continuous Improvement
+- Frequent Releases
+- Deployment Frequency
+- Agile Product Validation
+- Customer Feedback Loops
+- Agile Software Development
+- Continuous Improvement
+- Change Management
+- Value Delivery
+- Agile Planning
+- Agile Product Management
 categories:
-  - Value Delivery
-  - Agile Product Management
-  - Metrics and Learning
-  - Transparency and Accountability
+- Value Delivery
+- Agile Product Management
+- Metrics and Learning
+- Transparency and Accountability
 preview: 2025-02-10-without-delivery-no-value.jpg
----
 
+---
 Before delivery, all ideas and strategies remain theoretical. They are assumptions - educated guesses that may or may not align with actual needs or expectations. **Delivery is the only mechanism** through which these assumptions are validated, transforming theory into tangible outcomes that can be measured, tested, and improved.
 
 > Value exists only when it is realised, and the only way to realise the value in software is to release it.

@@ -21,12 +21,10 @@ aliasesFor404:
 - /stop-promoting-branches
 - /blog/stop-promoting-branches
 tags:
-- deployment-frequency
-- continuous-delivery
-- agile-software-development
-- value-delivery
-- organisational-agility
-- technical-excellence
+- devops
+- agile-transformation
+- value-stream-management
+- lean-thinking
 categories:
 - Code and Complexity
 - Organisational Agility

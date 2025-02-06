@@ -10,38 +10,38 @@ date: 2025-02-17T09:00:00
 AudioNative: true
 creator: Martin Hinshelwood
 Contributors:
-  - name: Dave ("Dungeon" Dave) Smith
-    external: https://www.linkedin.com/in/dungeon-dave-smith/
+- name: Dave ("Dungeon" Dave) Smith
+  external: https://www.linkedin.com/in/dungeon-dave-smith/
 layout: blog
 resourceTypes: blog
 slug: no-such-thing-as-a-junior-scrum-master
 aliases:
-  - /resources/f2RQh2UCwqB
+- /resources/f2RQh2UCwqB
 aliasesFor404:
-  - /no-such-thing-as-a-junior-scrum-master
-  - /blog/no-such-thing-as-a-junior-scrum-master
-  - /there-is-no-such-thing-as-a--junior--scrum-master
-  - /blog/there-is-no-such-thing-as-a--junior--scrum-master
+- /no-such-thing-as-a-junior-scrum-master
+- /blog/no-such-thing-as-a-junior-scrum-master
+- /there-is-no-such-thing-as-a--junior--scrum-master
+- /blog/there-is-no-such-thing-as-a--junior--scrum-master
 tags:
-  - Scrum
-  - Scrum Master
-  - Agile Coaching
-  - Technical Mastery
-  - Team Collaboration
-  - Business Agility
-  - Organisational Agility
-  - Continuous Improvement
-  - Agile Leadership
-  - Agile Methodology
+- Scrum
+- Scrum Master
+- Agile Coaching
+- Technical Mastery
+- Team Collaboration
+- Business Agility
+- Organisational Agility
+- Continuous Improvement
+- Agile Leadership
+- Agile Methodology
 categories:
-  - People and Process
-  - Scrum
-  - Organisational Agility
-  - Technical Excellence
-  - Value Delivery
+- People and Process
+- Scrum
+- Organisational Agility
+- Technical Excellence
+- Value Delivery
 preview: 2025-02-10-no-such-thing-as-a-junior-scrum-master.jpg
----
 
+---
 Would you ever hire a **Junior CISO** or a **Junior Financial Director**? Of course not. These positions, by definition, require demonstrated mastery of their respective domains, alongside the authority and responsibility to enact meaningful change. The same should be true of a Scrum Master. The idea of a “junior” Scrum Master is a fallacy. The Scrum Master is not an entry-level position, nor is it something that should be handed out as a career stepping stone. A Scrum Master **should be born fully formed**, emerging from the Scrum Team as a practitioner who has already demonstrated technical mastery, business mastery, and organisational evolutionary mastery. They should be **elevated by the team, not assigned by management.**
 
 ## The Myth of the Junior Scrum Master
