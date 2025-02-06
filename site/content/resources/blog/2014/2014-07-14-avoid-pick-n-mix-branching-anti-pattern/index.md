@@ -26,8 +26,20 @@ aliasesFor404:
 - /blog/avoid-the-pick-n-mix-branching-anti-pattern
 - /resources/blog/avoid-pick-n-mix-branching-anti-pattern
 tags:
-- anti-pattern
-- branching
+- Modern Source Control
+- Technical Debt
+- Agile Planning
+- Continuous Delivery
+- Deployment Strategies
+- Agile Software Development
+- Value Delivery
+- Agile Product Management
+- Agile Transformation
+- Team Collaboration
+- Change Management
+- Evidence Based Management
+- Agile Values and Principles
+- Systems Thinking
 categories:
 - Code and Complexity
 - Technical Excellence

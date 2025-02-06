@@ -26,7 +26,21 @@ aliasesFor404:
 - /blog/live-virtual-classroom's-and-the-new-normal
 - /resources/blog/live-virtual-classrooms-and-the-new-normal
 tags:
-- leadership-track
+- Remote Working
+- Team Collaboration
+- Agile Transformation
+- Scrum Team
+- Professional Scrum
+- Agile Software Development
+- Continuous Improvement
+- Customer Feedback Loops
+- Agile Product Management
+- Value Delivery
+- Agile Values and Principles
+- Change Management
+- Organisational Agility
+- Digital Transformation
+- Evidence Based Improvement
 categories:
 - Organisational Agility
 - People and Process

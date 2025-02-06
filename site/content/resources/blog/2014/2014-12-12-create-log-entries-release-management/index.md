@@ -26,9 +26,21 @@ aliasesFor404:
 - /blog/create-log-entries-in-release-management
 - /resources/blog/create-log-entries-release-management
 tags:
-- deploy
-- powershell
-- release-management
+- Deployment Strategies
+- Continuous Delivery
+- Technical Excellence
+- Evidence Based Management
+- Agile Tools
+- Release Planning
+- Agile Software Development
+- Azure DevOps
+- Value Delivery
+- Agile Product Management
+- Agile Software Engineering
+- Continuous Improvement
+- Test Automation
+- Agile Project Management
+- DevOps
 categories:
 - Install and Configuration
 - Azure DevOps

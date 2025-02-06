@@ -32,11 +32,8 @@ tags:
 - Value Delivery
 - Agile Product Discovery
 categories:
-- Value Delivery
-- Product Delivery
-- Lean
-- Metrics and Learning
-- Feedback Loops
+- Technical Excellence
+- Agile Product Management
 preview: image-1.jpg
 
 ---

@@ -26,7 +26,20 @@ aliasesFor404:
 - /blog/can-the-definition-of-done-change-per-sprint-
 - /resources/blog/can-the-definition-of-done-change-per-sprint
 tags:
-- definition-of-done
+- Definition of Done
+- Scrum Team
+- Scrum Product Management
+- Continuous Improvement
+- Technical Excellence
+- Agile Product Management
+- Agile Software Development
+- Software Increment
+- Sprint Review
+- Agile Values and Principles
+- Agile Methodology
+- Technical Debt
+- Evidence Based Management
+- Team Collaboration
 categories:
 - Scrum
 - People and Process

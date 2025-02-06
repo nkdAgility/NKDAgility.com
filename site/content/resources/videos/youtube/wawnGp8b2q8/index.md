@@ -23,21 +23,11 @@ preview: https://i.ytimg.com/vi/wawnGp8b2q8/maxresdefault.jpg
 duration: 196
 isShort: false
 tags:
-- Continuous Learning
-- Experimentation
-- Accountability
-- Team Collaboration
-- Agile Coaching
-- Discovery and Learning
-- Employee Engagement
-- Agile Leadership
-- Organisational Change
-- Agile Transformation
-- Value Delivery
-- Feedback Loops
-- Time Management
-- Learning Feedback Loop
-- Professional Development
+- Agile Mentoring
+- Organisational Culture
+- Change Management
+- Agile Values and Principles
+- Psychological Safety
 sitemap:
   filename: sitemap.xml
   priority: 0.4

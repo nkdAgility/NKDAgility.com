@@ -30,15 +30,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Team Collaboration
-- Agile Coaching
-- Team Motivation
-- Scrum Team
-- Continuous Improvement
-- Psychological Safety
-- Coaching
-- Agile Values and Principles
-- Listening
+- Scrum Master
 resourceTypes:
 - video
 categories:

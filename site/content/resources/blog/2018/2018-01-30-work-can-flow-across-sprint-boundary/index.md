@@ -27,10 +27,20 @@ aliasesFor404:
 - /blog/work-can-flow-across-the-sprint-boundary
 - /resources/blog/work-can-flow-across-sprint-boundary
 tags:
-- developers
-- flow
-- scrum
-- the-sprint
+- Definition of Done
+- Continuous Delivery
+- Software Increment
+- Sprint Review
+- Sprint Planning
+- Scrum Team
+- Agile Software Development
+- Flow Efficiency
+- Empirical Process Control
+- Technical Excellence
+- Agile Product Management
+- Kanban
+- Agile Values and Principles
+- Team Collaboration
 categories:
 - Scrum
 - Flow Efficiency

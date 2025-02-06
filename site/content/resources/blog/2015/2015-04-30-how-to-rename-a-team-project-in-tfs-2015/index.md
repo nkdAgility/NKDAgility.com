@@ -22,9 +22,21 @@ aliasesFor404:
 - /blog/how-to-rename-a-team-project-in-tfs-2015
 - /resources/blog/how-to-rename-a-team-project-in-tfs-2015
 tags:
-- team-project
-- tfs
-- tfs-2015
+- Agile Tools
+- Azure DevOps
+- Change Management
+- Agile Software Development
+- Team Collaboration
+- Technical Excellence
+- Continuous Improvement
+- Agile Project Management
+- Deployment Strategies
+- Evidence Based Management
+- Agile Transformation
+- Value Delivery
+- Agile Methodology
+- Technical Mastery
+- Agile Product Management
 categories:
 - Install and Configuration
 - Azure DevOps

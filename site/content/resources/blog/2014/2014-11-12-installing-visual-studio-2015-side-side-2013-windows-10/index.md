@@ -26,11 +26,20 @@ aliasesFor404:
 - /blog/installing-visual-studio-2015-side-by-side-with-2013-on-windows-10
 - /resources/blog/installing-visual-studio-2015-side-side-2013-windows-10
 tags:
-- android
-- cross-platform
-- visual-studio-2013
-- visual-studio-2015
-- windows-10
+- Agile Software Development
+- Continuous Delivery
+- Technical Excellence
+- Software Development
+- Agile Product Management
+- Agile Tools
+- Agile Product Ownership
+- Deployment Strategies
+- Agile Frameworks
+- Value Delivery
+- Customer Feedback Loops
+- Agile Digital Tools
+- Evidence Based Management
+- Lean Principles
 categories:
 - Install and Configuration
 - News and Reviews

@@ -6,13 +6,32 @@ ResourceImport: true
 ResourceType: podcast
 date: 2023-11-23
 categories:
-- agility
+- Transparency and Accountability
+- People and Process
+- DevOps
+- Discovery and Learning
+- Organisational Agility
 author: MrHinsh
 resourceTypes: podcast
 layout: podcast
 slug: continuous-delivery
 aliases:
 - /resources/pGqagcI_q5y
+tags:
+- Continuous Delivery
+- Transparency
+- Agile Coaching
+- Agile Software Development
+- Agile Product Management
+- Scrum Team
+- Customer Feedback Loops
+- Continuous Improvement
+- Agile Values and Principles
+- Agile Digital Tools
+- Agile Methodology
+- Agile Community
+- Agile Transformation
+- Evidence Based Management
 
 ---
 ![](https://nkdagility.com/wp-content/uploads/2023/10/37154808-1680362242684-ab5e16c6c3e31-jpg.webp)

@@ -27,14 +27,19 @@ aliasesFor404:
 - /blog/rethinking-'user-stories'--a-call-for-clarity-in-product-backlog-management
 - /resources/blog/rethinking-user-stories-a-call-for-clarity-in-product-backlog-management
 tags:
-- agile-product-management
-- agile-planning
-- agile-software-development
-- agile-coaching
-- agile-product-discovery
-- transparency
-- agile-values-and-principles
-- organisational-agility
+- Product Backlog
+- Scrum Product Management
+- Scrum Team
+- Definition of Done
+- Agile Product Management
+- Agile Planning
+- Team Collaboration
+- Continuous Improvement
+- Agile Product Discovery
+- Value Delivery
+- Technical Excellence
+- Agile Methodology
+- Evidence Based Management
 categories:
 - Agile Product Management
 - Discovery and Learning

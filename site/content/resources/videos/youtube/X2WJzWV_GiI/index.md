@@ -36,21 +36,7 @@ categories:
 - Discovery and Learning
 - Agile Product Management
 tags:
-- Team Collaboration
-- Building Great Teams
-- Agile Values and Principles
-- Scrum Team
-- Agile Coaching
-- Feedback and Wrapup
-- Change Management
-- Continuous Improvement
-- Discovery and Learning
-- Agile Transformation
-- Employee Engagement
-- Psychological Safety
-- Agile Methodology
-- Self Organisation
-- Market Adaptability
+- Agile Community
 
 ---
  00:00:00 Preamble

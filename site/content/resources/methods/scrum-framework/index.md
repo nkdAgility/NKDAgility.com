@@ -20,6 +20,25 @@ card:
     content: More info
   title: Scrum Framework
   content: Scrum Framework
+categories:
+- Scrum
+- People and Process
+- Value Delivery
+tags:
+- Scrum
+- Scrum Team
+- Scrum Master
+- Scrum Values
+- Definition of Done
+- Software Increment
+- Continuous Delivery
+- Agile Methodology
+- Agile Product Management
+- Agile Planning
+- Agile Product Discovery
+- Team Collaboration
+- Team Motivation
+- Value Delivery
 
 ---
 Description of Scrum Framework.

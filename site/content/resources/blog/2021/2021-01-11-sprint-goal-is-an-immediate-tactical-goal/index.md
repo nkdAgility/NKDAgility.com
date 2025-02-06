@@ -23,10 +23,21 @@ aliasesFor404:
 - /blog/sprint-goal-is-an-immediate-tactical-goal
 - /resources/blog/sprint-goal-is-an-immediate-tactical-goal
 tags:
-- intermediate-tactical-goal
-- leadership-track
-- product-owner
-- sprint-goal
+- Sprint Goal is an Immediate Tactical Goal
+- Scrum Product Management
+- Product Owner
+- Agile Product Ownership
+- Evidence Based Management
+- Agile Planning
+- Continuous Improvement
+- Agile Product Discovery
+- Value Delivery
+- Lean UX
+- Agile Software Development
+- Scrum Team
+- Definition of Done
+- Customer Feedback Loops
+- Hypothesis Driven Development
 categories:
 - Agile Product Management
 - Discovery and Learning

@@ -30,13 +30,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Agile Consulting
-- Agile Consultant
-- Agile Project Management
-- Agile Product Development
+- Agile Coaching
+- Change Management
+- Continuous Improvement
+- Agile Transformation
+- Agile Strategy
+- Team Collaboration
+- Organisational Change
+- Agile Product Management
+- Agile Values and Principles
+- Agile Leadership
+- Customer Feedback Loops
+- Evidence Based Management
+- Agile Community
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Value Delivery
+- Scrum
+- Resilience and Change
 
 ---
 **When should an organisation consider a professional agile consultant?**

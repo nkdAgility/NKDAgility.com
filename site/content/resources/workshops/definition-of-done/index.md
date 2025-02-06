@@ -23,6 +23,27 @@ card:
     content: Learn More
   content: Discover more about  and how it can help you in your Agile journey!
   title: 
+categories:
+- Scrum
+- Definition of Done
+- Technical Excellence
+- Product Delivery
+- People and Process
+tags:
+- Definition of Done
+- Scrum Team
+- Software Increment
+- Continuous Delivery
+- Technical Excellence
+- Agile Product Management
+- Agile Planning
+- Sprint Review
+- Agile Values and Principles
+- Team Collaboration
+- Agile Software Development
+- Agile Methodology
+- Agile Project Management
+- Working Software
 
 ---
 # What is the Definition of Done (DoD)

@@ -27,12 +27,20 @@ aliasesFor404:
 - /blog/getting-started-with-a-modern-source-control-system-and-devops
 - /resources/blog/getting-started-with-modern-source-control-system-and-devops
 tags:
-- developers
-- devops
-- engineering-excellence
-- homepage
-- software-engineering
-- versioncontrol
+- Modern Source Control
+- Continuous Delivery
+- Technical Excellence
+- Definition of Done
+- Agile Software Development
+- Agile Tools
+- Team Collaboration
+- Deployment Frequency
+- Automated Testing
+- Agile Product Management
+- Agile Planning
+- Software Development
+- Engineering Excellence
+- Value Delivery
 categories:
 - DevOps
 - Application Lifecycle Management

@@ -26,7 +26,21 @@ aliasesFor404:
 - /blog/should-the-scrum-master-always-remove-impediments-
 - /resources/blog/should-the-scrum-master-always-remove-impediments
 tags:
-- scrum-master
+- Scrum Master
+- Scrum Team
+- Continuous Improvement
+- Self Organisation
+- Agile Values and Principles
+- Team Collaboration
+- Agile Problem Solving
+- Technical Excellence
+- Evidence Based Management
+- Agile Software Development
+- Scrum Product Development
+- Working Software
+- Definition of Done
+- Agile Leadership
+- Team Motivation
 categories:
 - Scrum
 - People and Process

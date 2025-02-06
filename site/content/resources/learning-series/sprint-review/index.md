@@ -34,6 +34,21 @@ card:
   title: The Sprint Review
 aliases:
 - /resources/9omxdDJCVDL
+categories:
+- Scrum
+- Events and Presentations
+- Value Delivery
+tags:
+- Sprint Review
+- Scrum Team
+- Definition of Done
+- Software Increment
+- Continuous Delivery
+- Customer Feedback Loops
+- Agile Product Management
+- Backlog Refinement
+- Sprint Review Workshops
+- Agile Methodology
 
 ---
 Comming soon

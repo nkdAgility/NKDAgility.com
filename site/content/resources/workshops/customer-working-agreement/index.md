@@ -23,6 +23,28 @@ card:
     content: Learn More
   content: Discover more about  and how it can help you in your Agile journey!
   title: 
+categories:
+- Agile Product Management
+- Value Delivery
+- Transparency and Accountability
+- Organisational Agility
+- Scrum
+tags:
+- Working Agreements
+- Scrum Product Management
+- Product Owner
+- Agile Planning
+- Team Collaboration
+- Agile Product Discovery
+- Customer Feedback Loops
+- Sprint Review
+- Agile Software Development
+- Continuous Improvement
+- Agile Values and Principles
+- Definition of Done
+- Agile Project Management
+- Team Motivation
+- Transparency
 
 ---
 ## Customer Working Agreement

@@ -28,19 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- WIP
-- Work in Progress
-- Kanban
-- Scrum
-- Work flow
-- Flow efficiency
-- Agile
-- Product Development
-- Project Management
-- Agile Product Development
-- Agile Project Management
+- Kanban Theory
+- Lean Thinking
+- Systems Thinking
+- Continuous Improvement
+- Agile Planning
+- Agile Product Management
+- Value Delivery
+- Team Collaboration
+- Agile Software Development
+- Agile Values and Principles
+- Technical Excellence
+- Evidence Based Management
+- Agile Transformation
 resourceTypes:
 - video
+categories:
+- Kanban
+- Flow Efficiency
+- Lean
+- Systems Thinking
+- People and Process
 
 ---
 ## Why Less is Always More When It Comes to WIP

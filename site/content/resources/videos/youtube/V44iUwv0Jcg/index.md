@@ -44,11 +44,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Kanban
-- Continuous Improvement
-- Metrics and Learning
-- Lean
-- Value Stream Management
+- Kaizen
 
 ---
  Continuous Improvement with #kanban. Visit https://www.nkdagility.com #agile #scrum #kaizen #kanban #agileframework 

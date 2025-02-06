@@ -28,17 +28,29 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Applying Professional Kanban
-- Kanban course
-- Kanban
-- Kanban training
-- Kanban certification
-- Applying Kanban
-- Kanban trainer
-- Kanban coach
-- Kanban consultant
+- Kanban Theory
+- Scaling Kanban
+- Continuous Improvement
+- Value Stream Management
+- Agile Strategy
+- Systems Thinking
+- Kanban Coaching
+- Agile Planning
+- Evidence Based Management
+- Flow Efficiency
+- Lean Thinking
+- Agile Tools
+- Team Collaboration
+- Agile Product Management
+- Customer Feedback Loops
 resourceTypes:
 - video
+categories:
+- Kanban
+- Value Stream Management
+- Metrics and Learning
+- People and Process
+- Value Delivery
 
 ---
 ### Understanding and Applying Kanban: The Professional Kanban Course

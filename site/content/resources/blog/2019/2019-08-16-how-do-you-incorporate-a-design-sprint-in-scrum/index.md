@@ -26,10 +26,20 @@ aliasesFor404:
 - /blog/how-do-you-incorporate-a-design-sprint-in-scrum-
 - /resources/blog/how-do-you-incorporate-a-design-sprint-in-scrum
 tags:
-- design-sprint
-- product-discovery
-- refinement
-- the-sprint
+- Scrum
+- Scrum Team
+- Definition of Done
+- Continuous Delivery
+- Software Increment
+- Agile Product Management
+- Backlog Refinement
+- Team Collaboration
+- Agile Product Discovery
+- Lean UX
+- Agile Software Development
+- Cross Functional Teams
+- Agile Values and Principles
+- Technical Excellence
 categories:
 - Scrum
 - Discovery and Learning

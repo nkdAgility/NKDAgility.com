@@ -22,12 +22,16 @@ aliasesFor404:
 - /blog/migrating-to-office-365-from-google-mail
 - /resources/blog/migrating-to-office-365-from-google-mail
 tags:
-- google
-- google-mail
-- imap
-- office
-- migration
-- office-365
+- Deployment Strategies
+- Change Management
+- Technical Debt
+- Evidence Based Management
+- Agile Software Development
+- Continuous Improvement
+- Agile Product Management
+- Agile Transformation
+- Digital Transformation
+- Customer Feedback Loops
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

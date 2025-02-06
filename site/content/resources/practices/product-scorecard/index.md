@@ -19,6 +19,21 @@ card:
     content: Learn More
   content: Discover more about Product Scorecard and how it can help you in your Agile journey!
   title: Product Scorecard
+categories:
+- Metrics and Learning
+- Value Delivery
+- Agile Product Management
+tags:
+- Product Strategy
+- Agile Product Management
+- Customer Feedback Loops
+- Agile Product Discovery
+- Value Delivery
+- Agile Planning
+- Agile Software Development
+- Continuous Improvement
+- Lean Principles
+- Evidence Based Management
 
 ---
 The purpose of the

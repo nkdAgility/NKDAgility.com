@@ -26,21 +26,21 @@ aliasesFor404:
 - /blog/create-a-build-vnext-build-definition
 - /resources/blog/create-a-build-vnext-build-definition-on-vso
 tags:
-- android
-- build
-- cmake
-- jake
-- msbuild
-- powershell
-- preview
-- tf-build
-- tfs
-- tfs-2015
-- vnext
-- visual-studio
-- vsteamservices
-- vstest
-- xcode
+- Continuous Integration
+- Azure DevOps
+- Agile Software Development
+- DevOps
+- Agile Tools
+- Automated Testing
+- Agile Product Management
+- Technical Excellence
+- Agile Product Discovery
+- Value Stream Management
+- Agile Planning Tools
+- Agile Frameworks
+- Software Development
+- Continuous Delivery
+- Agile Digital Tools
 categories:
 - Install and Configuration
 - Azure DevOps

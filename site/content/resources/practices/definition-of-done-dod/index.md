@@ -36,6 +36,28 @@ card:
     content: Learn More
   content: Discover more about Definition of Done (DoD) and how it can help you in your Agile journey!
   title: Definition of Done (DoD)
+categories:
+- Scrum
+- Definition of Done
+- Technical Excellence
+- Product Delivery
+- Transparency and Accountability
+tags:
+- Definition of Done
+- Scrum Team
+- Software Increment
+- Continuous Delivery
+- Technical Excellence
+- Agile Product Ownership
+- Sprint Review
+- Agile Planning
+- Agile Software Development
+- Team Collaboration
+- Agile Product Management
+- Agile Tools
+- Transparency
+- Evidence Based Management
+- Agile Values and Principles
 
 ---
 Every team should define what is required, what criteria must be met, for a product increment to be considered releasable. A definition of done. If the organization has not articulated a specific standard, or set of criteria, then the team should create a definition of done that is appropriate for the product. The work produced must comply with the definition of done for it to be considered usable, and if there are multiple teams working on a single product, then those teams must agree on a definition of done and ensure that all teams honour that standard.

@@ -20,6 +20,21 @@ card:
     content: Learn More
   content: Discover more about Market Focus and how it can help you in your Agile journey!
   title: Market Focus
+categories:
+- Organisational Agility
+- Metrics and Learning
+- Value Delivery
+tags:
+- Customer Feedback Loops
+- Deployment Frequency
+- Agile Planning
+- Agile Product Management
+- Continuous Improvement
+- Agile Product Discovery
+- Agile Software Development
+- Agile Transformation
+- Market Adaptability
+- Value Delivery
 
 ---
 Update the work based on user feedback on timelines shorter than one month

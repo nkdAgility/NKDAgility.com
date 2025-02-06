@@ -26,11 +26,16 @@ aliasesFor404:
 - /blog/you-can't-use-witadmin-on-versions-older-than-tfs-2010
 - /resources/blog/cant-use-witadmin-versions-older-tfs-2010
 tags:
-- tfs
-- tfs2010
-- tfs-2010-sp1
-- visual-studio-2013
-- witadmin
+- Technical Debt
+- Agile Tools
+- Continuous Improvement
+- Evidence Based Management
+- Agile Software Development
+- Technical Excellence
+- Deployment Strategies
+- Agile Project Management
+- Value Delivery
+- Change Management
 categories:
 - Install and Configuration
 - Azure DevOps

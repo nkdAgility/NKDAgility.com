@@ -22,8 +22,21 @@ aliasesFor404:
 - /blog/vsts-sync-migration-tools
 - /resources/blog/vsts-sync-migration-tools
 tags:
-- migration
-- vsteamservices
+- Agile Tools
+- Agile Software Development
+- Agile Project Management
+- Continuous Delivery
+- Test Automation
+- Technical Excellence
+- Value Delivery
+- Customer Feedback Loops
+- Agile Product Management
+- Evidence Based Improvement
+- Agile Transformation
+- Azure DevOps
+- Agile Software Engineering
+- Team Collaboration
+- Change Management
 categories:
 - devops
 preview: image_thumb-1-1.png

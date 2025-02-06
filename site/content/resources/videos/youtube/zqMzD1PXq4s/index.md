@@ -24,23 +24,30 @@ preview: https://i9.ytimg.com/vi/zqMzD1PXq4s/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 413
 isShort: false
 tags:
-- Software engineering
-- Software development
-- Agile
-- Product Development
-- Product Management
-- Project Management
-- Project Manager
-- Product Manager
-- Product Owner
-- Scrum Master
-- Agile product development
-- Agile product management
+- Technical Leadership
+- Technical Debt
+- Engineering Excellence
+- Continuous Improvement
+- Systems Thinking
+- Value Delivery
+- Agile Software Development
+- DevOps
+- Customer Feedback Loops
+- Technical Excellence
+- Lean Thinking
+- Agile Digital Tools
+- Evidence Based Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Technical Excellence
+- Value Delivery
+- People and Process
+- Systems Thinking
+- Product Delivery
 
 ---
  Chaos Costs Money: How Engineering Excellence Controls Chaos and Boosts Productivity | Martin Hinshelwood

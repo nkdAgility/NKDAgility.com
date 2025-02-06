@@ -26,18 +26,21 @@ aliasesFor404:
 - /blog/why-should-i-use-visual-studio-alm
 - /resources/blog/why-should-i-use-visual-studio-alm-whether-tfs-or-vso
 tags:
-- analytics-management
-- build-management
-- change-management
-- code-management
-- lab-management
-- project-management
-- quality-management
-- release-management
-- requirements-management
-- tfs
-- visual-studio-alm
-- vsteamservices
+- Application Lifecycle Management
+- Change Management
+- Agile Tools
+- Agile Planning
+- Continuous Integration
+- Continuous Delivery
+- Technical Excellence
+- Team Collaboration
+- Value Stream Management
+- Agile Product Management
+- Evidence Based Management
+- Agile Software Development
+- DevOps
+- Feedback Management
+- Quality Management
 categories:
 - Application Lifecycle Management
 - Azure DevOps

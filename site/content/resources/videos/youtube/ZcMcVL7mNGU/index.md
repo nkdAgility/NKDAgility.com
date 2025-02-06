@@ -23,20 +23,31 @@ preview: https://i.ytimg.com/vi/ZcMcVL7mNGU/maxresdefault.jpg
 duration: 256
 isShort: false
 tags:
-- Agile
-- Agile Product Management
-- Product Management
-- Product Development
-- Agile Product Development
-- Product Managers
-- Product Developers
-- Project managers
+- Team Collaboration
+- Strategic Goals
+- Agile Planning
+- Evidence Based Management
+- Agile Product Discovery
+- Agile Mentoring Program
+- Agile Transformation
+- Value Delivery
+- Customer Feedback Loops
+- Agile Leadership
+- Product Strategy
+- Team Motivation
+- Continuous Improvement
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Agile Product Management
+- Value Delivery
+- People and Process
+- Metrics and Learning
+- Organisational Agility
 
 ---
  #agile has come a long way since it's inception in 2001, and with that shift from #projectmanagement to #productdevelopment, #productmanagement has evolved significantly.

@@ -26,10 +26,21 @@ aliasesFor404:
 - /blog/move-your-azure-vm-to-a-virtual-network
 - /resources/blog/move-azure-vm-virtual-network
 tags:
-- azure
-- release-management
-- virtual-machines
-- virtual-network
+- Azure DevOps
+- Azure Pipelines
+- Agile Software Development
+- Continuous Delivery
+- Technical Excellence
+- Application Lifecycle Management
+- Agile Project Management
+- Deployment Strategies
+- Value Delivery
+- Evidence Based Management
+- Organisational Change
+- Digital Transformation
+- Lean Principles
+- Customer Feedback Loops
+- Agile Methodology
 categories:
 - Install and Configuration
 - Azure DevOps

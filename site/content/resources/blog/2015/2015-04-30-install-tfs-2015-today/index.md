@@ -22,10 +22,20 @@ aliasesFor404:
 - /blog/install-tfs-2015-today
 - /resources/blog/install-tfs-2015-today
 tags:
-- configuration
-- install
-- tfs
-- tfs-2015
+- Agile Software Development
+- Agile Tools
+- Continuous Delivery
+- Deployment Frequency
+- Technical Excellence
+- Agile Project Management
+- Agile Product Management
+- DevOps
+- Agile Product Discovery
+- Value Delivery
+- Evidence Based Management
+- Customer Feedback Loops
+- Agile Transformation
+- Software Development
 categories:
 - Install and Configuration
 - Azure DevOps

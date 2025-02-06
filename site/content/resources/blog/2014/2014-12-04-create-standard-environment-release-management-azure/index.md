@@ -26,16 +26,21 @@ aliasesFor404:
 - /blog/create-a-standard-environment-for-release-management-in-azure
 - /resources/blog/create-standard-environment-release-management-azure
 tags:
-- application-insights
-- azure
-- cloud-service
-- continious-value-delivery
-- iaas
-- release-management
-- resource-group
-- standard-environments
-- virtual-network
-- vsteamservices
+- Azure DevOps
+- Continuous Delivery
+- Deployment Frequency
+- Agile Tools
+- Application Lifecycle Management
+- Technical Excellence
+- DevOps
+- Agile Software Development
+- Value Stream Management
+- Release Planning
+- Agile Product Management
+- Customer Feedback Loops
+- Evidence Based Management
+- Lean Principles
+- Technical Debt
 categories:
 - Install and Configuration
 - Azure DevOps

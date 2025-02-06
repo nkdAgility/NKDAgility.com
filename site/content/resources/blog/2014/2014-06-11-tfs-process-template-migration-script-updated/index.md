@@ -22,10 +22,20 @@ aliasesFor404:
 - /blog/tfs-process-template-migration-script-updated
 - /resources/blog/tfs-process-template-migration-script-updated
 tags:
-- agile
-- process-template
-- scrum
-- tfs
+- Scrum Product Management
+- Scrum Team
+- Definition of Done
+- Product Backlog
+- Agile Planning
+- Agile Tools
+- Continuous Delivery
+- Technical Excellence
+- Agile Software Development
+- Agile Product Management
+- Agile Project Management
+- Azure DevOps
+- Agile Transformation
+- Evidence Based Improvement
 categories:
 - Azure DevOps
 - Application Lifecycle Management

@@ -26,9 +26,20 @@ aliasesFor404:
 - /blog/upgrade-your-server-to-windows-server-2012-r2-update-1
 - /resources/blog/upgrade-server-windows-server-2012-r2-update-1
 tags:
-- windows
-- windows-8-1
-- windows-server
+- Deployment Strategies
+- Continuous Delivery
+- Technical Excellence
+- Agile Software Development
+- Evidence Based Management
+- Agile Product Management
+- Agile Tools
+- Azure DevOps
+- Software Development
+- Value Delivery
+- Customer Feedback Loops
+- Agile Methodology
+- Technical Mastery
+- Agile Product Ownership
 categories:
 - Install and Configuration
 - Azure DevOps

@@ -27,32 +27,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Scrum Master
+- Agile Coaching
+- Scrum Team
+- Continuous Learning
+- Team Collaboration
+- Agile Certification
+- Technical Excellence
+- Agile Values and Principles
+- Employee Engagement
+- Agile Transformation
+- Coaching
+- Agile Methodology
+- Team Performance
 resourceTypes:
 - video
 layout: video
+categories:
+- Scrum
+- People and Process
+- Discovery and Learning
 
 ---
 In the world of Scrum, being a Scrum Master is about more than just following the process or scheduling meetings. It's about truly understanding the role, maximizing value, and driving the effectiveness of the teams you work with. Yet, too often, we encounter Scrum Masters who, due to a lack of experience or depth of knowledge, unintentionally inhibit the potential of their teams.

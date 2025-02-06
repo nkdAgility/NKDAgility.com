@@ -24,20 +24,8 @@ preview: https://i9.ytimg.com/vi/UgFVn4Sp1rw/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 675
 isShort: false
 tags:
-- Cost Management
-- Scrum Product Management
-- Evidence Based Management
-- Agile Planning
-- Team Collaboration
-- Continuous Improvement
-- Value Stream Management
-- Technical Debt
-- Lead Time
-- Agile Product Discovery
-- Team Motivation
-- Decision Theory
-- Revenue per Employee
-- Market Adaptability
+- Agile Product Management
+- Employee Engagement
 sitemap:
   filename: sitemap.xml
   priority: 0.4

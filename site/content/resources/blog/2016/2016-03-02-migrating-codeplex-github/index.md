@@ -26,10 +26,21 @@ aliasesFor404:
 - /blog/migrating-from-codeplex-to-github
 - /resources/blog/migrating-codeplex-github
 tags:
-- codeplex
-- git
-- github
-- migration
+- Agile Software Development
+- Agile Tools
+- Continuous Delivery
+- Technical Excellence
+- Agile Product Management
+- Agile Project Management
+- Agile Transformation
+- Lean Principles
+- Evidence Based Management
+- Agile Digital Tools
+- Agile Methodology
+- Software Development
+- Technical Debt
+- Value Delivery
+- Customer Feedback Loops
 categories:
 - Application Lifecycle Management
 - Install and Configuration

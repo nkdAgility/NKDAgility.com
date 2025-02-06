@@ -26,14 +26,21 @@ aliasesFor404:
 - /blog/ndc-london-2014--why-tfs-no-longer-sucks-and-vso-is-awesome
 - /resources/blog/ndc-london-2014-why-tfs-no-longer-sucks-and-vso-is-awesome
 tags:
-- agile-planning-tools
-- feedback-client
-- git
-- mtm
-- ndc
-- test-management
-- tfs
-- vsteamservices
+- Agile Tools
+- Agile Planning
+- Team Collaboration
+- Deployment Frequency
+- Continuous Delivery
+- Agile Software Development
+- Agile Product Management
+- Customer Feedback Loops
+- Technical Excellence
+- DevOps
+- Agile Product Ownership
+- Release Planning
+- Evidence Based Management
+- Agile Transformation
+- Value Delivery
 categories:
 - Events and Presentations
 - Azure DevOps

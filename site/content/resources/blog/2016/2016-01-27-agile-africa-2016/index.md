@@ -26,9 +26,21 @@ aliasesFor404:
 - /blog/agile-in-africa-2016
 - /resources/blog/agile-africa-2016
 tags:
-- agile-in-africa
-- scrum
-- scrum-day
+- Agile Community
+- Agile Transformation
+- Team Collaboration
+- Team Motivation
+- Organisational Change
+- Agile Project Management
+- Agile Leadership
+- Continuous Improvement
+- Customer Feedback Loops
+- Agile Product Management
+- Entrepreneurship
+- Value Delivery
+- Evidence Based Improvement
+- Agile Methodology
+- Lean Startup
 categories:
 - Events and Presentations
 - Discovery and Learning

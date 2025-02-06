@@ -26,12 +26,20 @@ aliasesFor404:
 - /blog/bug-in-the-visual-studio-git-integration-that-results-in-a-merge-conflict
 - /resources/blog/bug-visual-studio-git-integration-results-merge-conflict
 tags:
-- git
-- mergeconflict
-- visual-studio-2013
-- visual-studio-2013-3
-- visual-studio-2013-4
-- visual-studio
+- Modern Source Control
+- Agile Software Development
+- Technical Excellence
+- Continuous Integration
+- Agile Planning
+- Team Collaboration
+- Agile Problem Solving
+- Agile Software Engineering
+- Change Management
+- Technical Debt
+- Agile Values and Principles
+- Evidence Based Management
+- Agile Transformation
+- Lean Principles
 categories:
 - Application Lifecycle Management
 - Azure DevOps

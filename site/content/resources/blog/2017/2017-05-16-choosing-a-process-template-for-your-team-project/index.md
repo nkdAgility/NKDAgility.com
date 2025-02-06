@@ -22,14 +22,20 @@ aliasesFor404:
 - /blog/choosing-a-process-template-for-your-team-project
 - /resources/blog/choosing-a-process-template-for-your-team-project
 tags:
-- microsoft-visual-studio-scrum
-- msf
-- msf-for-agile-software-development
-- msf-for-cmmi-process-improvement
-- process-template
-- tfs
-- tfs2012
-- tfs-2013
+- Scrum
+- Scrum Product Management
+- Scrum Master
+- Definition of Done
+- Software Increment
+- Continuous Delivery
+- Technical Excellence
+- Agile Software Development
+- Agile Planning
+- Team Collaboration
+- Value Delivery
+- Agile Product Management
+- Agile Estimation
+- Backlog Refinement
 categories:
 - Scrum
 - Agile Product Management

@@ -28,8 +28,20 @@ aliasesFor404:
 - /mapping-your-windows-special-folders-to-onedrive-for-business
 - /resources/blog/mapping-windows-special-folders-onedrive-business-ultimate-backup
 tags:
-- onedrive
-- windows
+- Remote Working
+- Digital Transformation
+- Evidence Based Management
+- Value Stream Management
+- Continuous Improvement
+- Lean Principles
+- Technical Excellence
+- Agile Software Development
+- Agile Product Management
+- Organisational Change
+- Customer Feedback Loops
+- Collaboration Tools
+- Data Driven Decisions
+- Agile Methodology
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

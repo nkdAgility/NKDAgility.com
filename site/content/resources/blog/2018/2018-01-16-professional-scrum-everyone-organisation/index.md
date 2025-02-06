@@ -27,12 +27,20 @@ aliasesFor404:
 - /blog/professional-scrum-is-for-everyone-in-your-organisation
 - /resources/blog/professional-scrum-everyone-organisation
 tags:
-- agile
-- evidence-based-management
-- professioal-scrum
-- scrum
-- scrum-definition
-- training
+- Professional Scrum
+- Scrum Master
+- Scrum Team
+- Definition of Done
+- Working Software
+- Continuous Improvement
+- Organisational Change
+- Team Collaboration
+- Agile Product Management
+- Value Delivery
+- Agile Planning
+- Employee Engagement
+- Change Management
+- Agile Values and Principles
 categories:
 - Organisational Agility
 - Scrum

@@ -26,10 +26,16 @@ aliasesFor404:
 - /blog/be-a-kid-again-and-upgrade-to-windows-phone-8-1-developer-preview
 - /resources/blog/kid-upgrade-windows-phone-8-1-developer-preview
 tags:
-- windows
-- windows-phone-8
-- windows-phone-8-1
-- windows-phone
+- Agile Product Discovery
+- Agile Software Development
+- Agile Product Management
+- Customer Feedback Loops
+- Continuous Improvement
+- Discovery and Learning
+- Technical Excellence
+- Lean Startup
+- Agile Digital Tools
+- Product Strategy
 categories:
 - News and Reviews
 - Discovery and Learning

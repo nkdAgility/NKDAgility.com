@@ -27,6 +27,28 @@ card:
     content: Learn More
   content: Discover more about Site Reliability Engineering (SRE) and how it can help you in your Agile journey!
   title: Site Reliability Engineering (SRE)
+categories:
+- DevOps
+- Transparency and Accountability
+- Metrics and Learning
+- Resilience and Change
+- Azure DevOps
+tags:
+- Site Reliability
+- Transparency
+- DevOps
+- Customer Satisfaction
+- Team Collaboration
+- Continuous Improvement
+- Agile Tools
+- Systems Thinking
+- Site Reliability Engineering
+- Technical Excellence
+- Evidence Based Management
+- Agile Software Development
+- Agile Planning
+- Agile Product Management
+- Value Delivery
 
 ---
 With the shift-left movement pushing more responsibility to the engineering teams what practices will help them cope with running a production site. These are the experience of the Azure DevOps Services team and their journey from on premises to a fully fledged SAAS solution and way they need to do to run it and build trust with their customers.

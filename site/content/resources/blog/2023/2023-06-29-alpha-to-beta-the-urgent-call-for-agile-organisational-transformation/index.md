@@ -38,11 +38,7 @@ tags:
 - Continuous Improvement
 - Agile Community
 categories:
-- Organisational Agility
-- Market Adaptability
-- Resilience and Change
-- Enterprise Agility
-- Organisational Change
+- Complexity Thinking
 preview: 1686217267121-1-1-1.jpg
 
 ---

@@ -26,11 +26,20 @@ aliasesFor404:
 - /blog/using-the-build-vnext-capabilities-and-demands-system
 - /resources/blog/using-build-vnext-capabilities-demands-system
 tags:
-- build
-- build-vnext
-- tfs
-- tfs-2015
-- vsteamservices
+- Agile Tools
+- Azure DevOps
+- Continuous Integration
+- DevOps
+- Agile Software Development
+- Technical Excellence
+- Agile Product Management
+- Value Delivery
+- Agile Planning Tools
+- Evidence Based Management
+- Agile Product Discovery
+- Agile Software Engineering
+- Continuous Delivery
+- Automated Testing
 categories:
 - Azure DevOps
 - Install and Configuration

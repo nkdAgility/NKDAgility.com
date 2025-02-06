@@ -17,6 +17,27 @@ aliases:
 aliasesFor404:
 - /newsletters/change-is-easier-with-a-friend-buy-1-get-1-free/
 - /resources/newsletters/change-is-easier-with-a-friend-buy-1-get-1-free/
+categories:
+- Scrum
+- Agile Product Management
+- Value Delivery
+- People and Process
+- Resilience and Change
+tags:
+- Scrum Product Management
+- Scrum Team
+- Professional Scrum
+- Agile Leadership
+- Leadership Training
+- Agile Certification
+- Team Collaboration
+- Team Motivation
+- Continuous Improvement
+- Customer Feedback Loops
+- Agile Product Ownership
+- Agile Planning
+- Agile Product Discovery
+- Value Delivery
 
 ---
 **Kickstart 2024 with Our Unmissable Scrum Training Offer: Buy 1, Get 1 FREE!**

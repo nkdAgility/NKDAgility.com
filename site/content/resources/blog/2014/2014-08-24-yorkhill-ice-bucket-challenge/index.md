@@ -22,7 +22,20 @@ aliasesFor404:
 - /blog/yorkhill-ice-bucket-challenge
 - /resources/blog/yorkhill-ice-bucket-challenge
 tags:
-- charity
+- Agile Community
+- Customer Feedback Loops
+- Employee Engagement
+- Organisational Culture
+- Continuous Improvement
+- Value Delivery
+- Lean Thinking
+- Agile Digital Tools
+- Team Collaboration
+- Team Motivation
+- Agile Transformation
+- Evidence Based Improvement
+- Agile Methodology
+- Agile Product Management
 categories:
 - News and Reviews
 - Events and Presentations

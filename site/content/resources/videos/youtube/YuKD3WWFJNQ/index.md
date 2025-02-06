@@ -28,36 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
-- Agile leadership
-- Agile leader
-- Leadership
-- 7 signs
-- agile-pocalypse
-- agile-apocalypse
+- Agile Apocalypse
+- Team Collaboration
+- Sprint Review
+- Scrum Product Management
+- Psychological Safety
+- Agile Product Discovery
+- Value Prioritisation
+- Agile Product Ownership
+- Continuous Improvement
+- Employee Engagement
+- Agile Planning
+- Agile Values and Principles
+- Agile Transformation
 resourceTypes:
 - video
+categories:
+- People and Process
+- Organisational Agility
+- Agile Product Management
+- Value Delivery
+- Transparency and Accountability
 
 ---
 # Breaking the Silence: Sparking Engagement in Agile Teams 🚀

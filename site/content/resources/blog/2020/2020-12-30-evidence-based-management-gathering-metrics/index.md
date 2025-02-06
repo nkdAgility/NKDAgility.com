@@ -27,18 +27,24 @@ aliasesFor404:
 - /blog/evidence-based-management--gathering-the-metrics
 - /resources/blog/evidence-based-management-gathering-metrics
 tags:
-- ebmgt
-- evidence
-- evidence-based-management
-- featured
-- leadership-track
-- merics
-categories:
-- Metrics and Learning
+- Evidence Based Management
+- Agile Product Management
 - Value Delivery
-- Organisational Agility
-- People and Process
-- Evidence-based Management
+- Customer Satisfaction
+- Ability to Innovate
+- Continuous Improvement
+- Revenue per Employee
+- Time-to-Market Metrics
+- Agile Scaling
+- Scrum Product Management
+- Technical Debt
+- Evidence Based Improvement
+- Agile Planning
+- Business Agility
+- Value Stream Management
+categories:
+- Scrum
+- Value Stream Management
 preview: naked-agility-evidence-based-management-1-1.jpg
 
 ---

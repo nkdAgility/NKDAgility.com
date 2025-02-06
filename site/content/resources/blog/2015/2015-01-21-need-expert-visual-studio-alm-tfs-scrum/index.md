@@ -30,11 +30,19 @@ aliasesFor404:
 - /blog/do-you-need-an-expert-in-visual-studio-alm--tfs--or-scrum-
 - /resources/blog/need-expert-visual-studio-alm-tfs-scrum
 tags:
-- agile
-- consulting
-- scrum
-- tfs
-- training
+- Scrum Master
+- Agile Product Management
+- Agile Planning
+- Agile Tools
+- Agile Software Development
+- Continuous Delivery
+- Technical Excellence
+- Agile Product Ownership
+- Value Delivery
+- Agile Certification
+- Agile Project Management
+- Customer Feedback Loops
+- Evidence Based Management
 categories:
 - Application Lifecycle Management
 - Scrum

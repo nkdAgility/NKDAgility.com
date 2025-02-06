@@ -28,21 +28,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Evidence Based Management
-- Scrum Product Management
-- Ability to Innovate
-- Technical Debt
-- Deployment Frequency
-- Lead Time
-- Customer Satisfaction
-- Continuous Improvement
-- Agile Product Discovery
-- Time to Market
-- Value Stream Management
-- Agile Product Ownership
-- Product Backlog
-- Team Collaboration
-- Agile Software Development
+- Continuous Delivery
+- Agile Product Management
 resourceTypes:
 - video
 categories:

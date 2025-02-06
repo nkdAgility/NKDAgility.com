@@ -26,10 +26,21 @@ aliasesFor404:
 - /blog/professional-organisational-change-at-the-ghana-police-service
 - /resources/blog/professional-organisational-change-ghana-police-service
 tags:
-- ghana
-- organisational-change
-- police
-- scrum
+- Organisational Change
+- Agile Transformation
+- Leadership Training
+- Agile Leadership
+- Change Management
+- Organisational Agility
+- Evidence Based Management
+- Agile Frameworks
+- Scrum Team
+- Professional Scrum
+- Systems Thinking
+- Employee Engagement
+- Value Delivery
+- Continuous Improvement
+- Strategic Goals
 categories:
 - Organisational Agility
 - Resilience and Change

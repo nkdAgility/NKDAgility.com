@@ -17,6 +17,27 @@ aliases:
 aliasesFor404:
 - /newsletters/september-2023-nkdagility-empower-your-learning-journey-with-our-referral-programme/
 - /resources/newsletters/september-2023-nkdagility-empower-your-learning-journey-with-our-referral-programme/
+categories:
+- Organisational Agility
+- People and Process
+- Value Delivery
+- Discovery and Learning
+- News and Reviews
+tags:
+- Agile Community
+- Customer Satisfaction
+- Team Motivation
+- Agile Product Management
+- Agile Certification
+- Agile Planning
+- Agile Product Discovery
+- Continuous Learning
+- Employee Engagement
+- Value Delivery
+- Agile Transformation
+- Agile Digital Tools
+- Agile Methodology
+- Agile Values and Principles
 
 ---
 Greetings,

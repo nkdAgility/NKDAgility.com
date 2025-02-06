@@ -30,20 +30,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Master
-- Professional Scrum
-- Agile Certification
-- Scrum Team
-- Continuous Learning
-- Agile Product Management
-- Team Collaboration
-- Accountability
-- Agile Evolution
-- Value Delivery
-- Technical Excellence
-- Enriching the Learning Experience
-- Agile Values and Principles
-- Evidence Based Improvement
+- Continuous Improvement
+- Discovery and Learning
+- Coaching
 resourceTypes:
 - video
 categories:

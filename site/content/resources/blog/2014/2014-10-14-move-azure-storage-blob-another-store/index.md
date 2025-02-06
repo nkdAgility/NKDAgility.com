@@ -26,11 +26,20 @@ aliasesFor404:
 - /blog/move-an-azure-storage-blob-to-another-store
 - /resources/blog/move-azure-storage-blob-another-store
 tags:
-- azure
-- blob
-- start-azurestorageblobcopy
-- storage
-- vhd
+- Azure DevOps
+- Agile Software Development
+- Continuous Delivery
+- Technical Excellence
+- Agile Product Management
+- Agile Tools
+- Value Delivery
+- Evidence Based Management
+- Agile Planning Tools
+- DevOps
+- Agile Project Management
+- Application Lifecycle Management
+- Collaboration Tools
+- Technical Mastery
 categories:
 - Install and Configuration
 - Azure DevOps

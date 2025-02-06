@@ -29,6 +29,26 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Events and Presentations
+- Organisational Agility
+- Discovery and Learning
+tags:
+- Agile Community
+- Agile Product Discovery
+- Agile Planning
+- Agile Product Management
+- Agile Software Development
+- Agile Project Management
+- Agile Values and Principles
+- Agile Methodology
+- Agile Digital Tools
+- Team Collaboration
+- Customer Satisfaction
+- Business Agility
+- Continuous Improvement
+- Evidence Based Management
+- Agile Transformation
 
 ---
  nkdagility mighty networks overview for PST 

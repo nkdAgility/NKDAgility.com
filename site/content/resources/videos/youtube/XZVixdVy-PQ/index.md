@@ -28,31 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Agile Coaching
+- Change Management
+- Business Agility
+- Agile Strategy
+- Systems Thinking
+- Continuous Improvement
+- Agile Transformation
+- Organisational Agility
+- Agile Values and Principles
+- Lean Thinking
+- Agile Product Discovery
+- Team Motivation
+- Employee Engagement
+- Agile Software Development
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Lean
+- Complexity Thinking
+- Value Delivery
 
 ---
 There’s a quote from Ken Schwaber, one of the co-creators of Scrum, that goes:

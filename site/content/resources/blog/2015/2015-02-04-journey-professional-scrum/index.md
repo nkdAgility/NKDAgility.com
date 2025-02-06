@@ -26,13 +26,21 @@ aliasesFor404:
 - /blog/my-journey-into-professional-scrum
 - /resources/blog/journey-professional-scrum
 tags:
-- agile
-- business-agility
-- psd
-- psf
-- psm
-- scrum
-- sps
+- Professional Scrum
+- Scrum Master
+- Scrum Team
+- Agile Software Development
+- Continuous Improvement
+- Business Agility
+- Organisational Culture
+- Agile Product Management
+- Agile Transformation
+- Team Collaboration
+- Technical Excellence
+- Evidence Based Management
+- Self Organisation
+- Agile Values and Principles
+- Application Lifecycle Management
 categories:
 - People and Process
 - Scrum

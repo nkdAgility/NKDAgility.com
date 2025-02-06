@@ -26,9 +26,21 @@ aliasesFor404:
 - /blog/tfs-for-cross-team-and-cross-business-line-work-item-tracking
 - /resources/blog/tfs-cross-team-cross-business-line-work-item-tracking
 tags:
-- team-field
-- tfs
-- tfs-2013
+- Scaled Agile
+- Team Collaboration
+- Agile Planning
+- Agile Tools
+- Business Agility
+- Agile Product Management
+- Value Stream Management
+- Cross Functional Teams
+- Agile Software Development
+- Continuous Improvement
+- Agile Transformation
+- Technical Excellence
+- Azure DevOps
+- Team Performance
+- Organisational Agility
 categories:
 - Azure DevOps
 - Application Lifecycle Management

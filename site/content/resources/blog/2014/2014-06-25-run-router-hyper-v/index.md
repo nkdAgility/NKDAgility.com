@@ -26,14 +26,22 @@ aliasesFor404:
 - /blog/run-a-router-on-hyper-v
 - /resources/blog/run-router-hyper-v
 tags:
-- hootoo-tripmate
-- hyper-v
-- network
-- router
+- Agile Software Development
+- Agile Product Management
+- Agile Tools
+- Technical Excellence
+- Continuous Delivery
+- Value Delivery
+- Agile Product Discovery
+- Lean Thinking
+- Agile Planning
+- Systems Thinking
+- Evidence Based Management
+- Agile Transformation
+- Digital Transformation
+- Organisational Agility
 categories:
-- Install and Configuration
-- Practical Techniques and Tooling
-- Problems and Puzzles
+- Technical Excellence
 preview: naked-alm-hyper-v-17-17.png
 
 ---

@@ -38,9 +38,20 @@ aliasesFor404:
 - /blog/hiring-a-professional-product-owner
 - /resources/blog/hiring-a-professional-product-owner
 tags:
-- featured
-- product-discovery
-- product-owner
+- Product Owner
+- Scrum Product Management
+- Agile Product Ownership
+- Scrum Team
+- Accountability
+- Evidence Based Management
+- Agile Product Discovery
+- Customer Feedback Loops
+- Agile Planning
+- Strategic Goals
+- Continuous Improvement
+- Technical Excellence
+- Value Delivery
+- Agile Methodology
 categories:
 - Agile Product Management
 - People and Process

@@ -20,6 +20,21 @@ card:
     content: Start Optimizing Now
   title: First Principles Thinking
   content: Apply First Principles Thinking to break down complex problems and find innovative solutions by understanding the fundamental truths.
+categories:
+- Discovery and Learning
+- Systems Thinking
+- Decision Theory
+tags:
+- Agile Values and Principles
+- Systems Thinking
+- Decision Theory
+- Evidence Based Management
+- Continuous Improvement
+- Agile Strategy
+- Strategic Goals
+- Lean Thinking
+- Agile Product Discovery
+- Complex Systems
 
 ---
 Coming soon!

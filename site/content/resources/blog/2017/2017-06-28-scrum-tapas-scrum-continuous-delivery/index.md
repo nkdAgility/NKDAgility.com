@@ -26,13 +26,19 @@ aliasesFor404:
 - /blog/scrum-tapas--scrum-and-continuous-delivery
 - /resources/blog/scrum-tapas-scrum-continuous-delivery
 tags:
-- continious-delivery
-- continious-value-delivery
-- developers
-- increment
-- scrum
-- scrum-tapas
-- the-sprint
+- Continuous Delivery
+- Scrum Team
+- Scrum Master
+- Definition of Done
+- Software Increment
+- Agile Product Management
+- Customer Feedback Loops
+- Continuous Improvement
+- Agile Software Development
+- Agile Values and Principles
+- Team Collaboration
+- Agile Product Discovery
+- Value Delivery
 categories:
 - Scrum
 - Value Delivery

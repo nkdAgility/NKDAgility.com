@@ -26,12 +26,20 @@ aliasesFor404:
 - /blog/use-corporate-identities-with-existing-vso-accounts
 - /resources/blog/use-corporate-identities-existing-vso-accounts
 tags:
-- adfs
-- azure
-- azure-active-directory
-- microsoft-id
-- organisation
-- vsteamservices
+- Azure DevOps
+- Agile Tools
+- Continuous Delivery
+- Technical Excellence
+- Agile Software Development
+- Agile Project Management
+- Agile Product Management
+- Value Delivery
+- Team Collaboration
+- Organisational Agility
+- Change Management
+- Evidence Based Management
+- Agile Transformation
+- Customer Feedback Loops
 categories:
 - Install and Configuration
 - Azure DevOps

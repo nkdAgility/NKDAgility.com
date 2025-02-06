@@ -26,11 +26,20 @@ aliasesFor404:
 - /blog/introducing-kanban-for-professional-scrum-teams
 - /resources/blog/introducing-kanban-professional-scrum-teams
 tags:
-- kanban
-- professioal-scrum
-- professional-kanban
-- professional-scrum-with-kanban
-- scrum
+- Professional Scrum
+- Scrum Team
+- Kanban Training
+- Agile Product Management
+- Continuous Improvement
+- Value Delivery
+- Technical Excellence
+- Scrum Product Development
+- Definition of Done
+- Agile Frameworks
+- Lean Thinking
+- Flow Efficiency
+- Throughput
+- Evidence Based Management
 categories:
 - Kanban
 - Scrum

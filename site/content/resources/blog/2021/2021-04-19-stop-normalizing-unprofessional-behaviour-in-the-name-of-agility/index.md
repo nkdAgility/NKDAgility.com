@@ -23,8 +23,20 @@ aliasesFor404:
 - /blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
 - /resources/blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
 tags:
-- professional-scrum
-- professionalism
+- Scrum
+- Scrum Team
+- Definition of Done
+- Software Increment
+- Technical Excellence
+- Accountability
+- Continuous Improvement
+- Agile Values and Principles
+- Organisational Culture
+- Professional Scrum
+- Agile Transformation
+- Team Collaboration
+- Change Management
+- Evidence Based Leadership
 categories:
 - People and Process
 - Transparency and Accountability

@@ -26,8 +26,20 @@ aliasesFor404:
 - /blog/join-a-machine-to-your-azure-hosted-domain-controller
 - /resources/blog/join-machine-azure-hosted-domain-controller
 tags:
-- active-directory
-- azure
+- Azure DevOps
+- Agile Software Development
+- Continuous Delivery
+- Technical Excellence
+- Agile Project Management
+- Azure Boards
+- Agile Product Management
+- Agile Values and Principles
+- Agile Methodology
+- Agile Digital Tools
+- DevOps
+- Application Lifecycle Management
+- Remote Working
+- Evidence Based Management
 categories:
 - Install and Configuration
 - Azure DevOps

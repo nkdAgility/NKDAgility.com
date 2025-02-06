@@ -28,31 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Agile Planning
+- Scrum Product Management
+- Technical Debt
+- Value Stream Management
+- Continuous Improvement
+- Empirical Process Control
+- Agile Product Discovery
+- Agile Software Development
+- Team Collaboration
+- Agile Values and Principles
+- Agile Transformation
+- Lean Thinking
+- Evidence Based Management
+- Agile Product Ownership
 resourceTypes:
 - video
+categories:
+- Metrics and Learning
+- Value Delivery
+- Flow Efficiency
+- Scrum
+- Technical Excellence
 
 ---
 Have you ever felt something was off with burndown charts? I know I have. There's always been this nagging feeling that something wasn't quite right. Over the years, people have revered these charts as the ultimate tool for monitoring a team’s progress. But I’ve come to realize that this couldn’t be further from the truth.

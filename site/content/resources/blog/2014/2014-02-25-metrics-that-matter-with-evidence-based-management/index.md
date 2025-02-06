@@ -22,13 +22,21 @@ aliasesFor404:
 - /blog/metrics-that-matter-with-evidence-based-management
 - /resources/blog/metrics-that-matter-with-evidence-based-management
 tags:
-- agile
-- ebmgt
-- evidence-based-management
-- kpi
-- merics
-- scrum
-- tfs
+- Evidence Based Management
+- Cycle Time
+- Lead Time
+- Continuous Improvement
+- Value Stream Management
+- Agile Planning
+- Agile Product Management
+- Technical Excellence
+- Trend Analysis
+- Agile Software Development
+- Agile Strategy
+- Value Delivery
+- Data Driven Decisions
+- Agile Digital Tools
+- Agile Tools
 categories:
 - Metrics and Learning
 - People and Process

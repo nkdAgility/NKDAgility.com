@@ -17,6 +17,28 @@ aliases:
 aliasesFor404:
 - /newsletters/agile-kata-and-a-whole-lot-more-with-facilitation-backlog-management-and-evidence-based-management/
 - /resources/newsletters/agile-kata-and-a-whole-lot-more-with-facilitation-backlog-management-and-evidence-based-management/
+categories:
+- Scrum
+- Professional Scrum Facilitation Skills
+- Agile Product Management
+- Value Delivery
+- Metrics and Learning
+- Organisational Agility
+tags:
+- Agile Kata Professional
+- Professional Scrum Facilitation Skills
+- PAL-Evidence Based Management
+- Professional Scrum Product Backlog Management Skills
+- Evidence Based Management
+- Agile Product Ownership
+- Scrum Master
+- Product Backlog
+- Agile Planning
+- Team Collaboration
+- Continuous Improvement
+- Agile Leadership
+- Agile Certification
+- Agile Transformation
 
 ---
 The new year is now fully underway, and the immersive 8-week PSPO, PSM, and PAL are all running... we have a full house! next up is the set of complimentary Skills classes from Scrum.org as well as the new Agile Kata class and we have them all.

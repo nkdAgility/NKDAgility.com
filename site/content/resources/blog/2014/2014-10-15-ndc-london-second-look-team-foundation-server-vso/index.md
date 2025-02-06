@@ -30,16 +30,20 @@ aliasesFor404:
 - /blog/ndc-london--second-look--team-foundation-server-&amp;-vso
 - /resources/blog/ndc-london-second-look-team-foundation-server-vso
 tags:
-- backlog-management
-- code-sense
-- codedui
-- feedback-client
-- my-work
-- portfolio-management
-- release-management
-- storyboarding
-- tfs-2013-3
-- vsteamservices
+- Agile Tools
+- Application Lifecycle Management
+- Continuous Integration
+- Continuous Delivery
+- Agile Software Development
+- Agile Product Management
+- Agile Planning
+- Team Collaboration
+- DevOps
+- Technical Excellence
+- Agile Product Discovery
+- Customer Feedback Loops
+- Test Driven Development
+- Azure DevOps
 categories:
 - Events and Presentations
 - Azure DevOps

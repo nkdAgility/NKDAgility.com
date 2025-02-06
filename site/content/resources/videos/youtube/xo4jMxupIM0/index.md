@@ -29,29 +29,27 @@ resourceTypes:
 slug: what-makes-the-psm-immersive-learning-experience-so-unique
 layout: video
 tags:
-- Agile
+- Scrum Master
+- Professional Scrum
+- Team Collaboration
+- Continuous Learning
+- Agile Product Validation
+- Customer Feedback Loops
+- Evidence Based Improvement
+- Discovery and Learning
+- Agile Problem Solving
+- Agile Values and Principles
+- Collaboration Tools
+- Agile Transformation
+- Psychological Safety
+- Systems Thinking
+- Change Management
+categories:
 - Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Discovery and Learning
+- People and Process
+- Metrics and Learning
+- Organisational Agility
 
 ---
  If you've got experience as a #scrummaster and are looking to level up to a #professionalscrummaster skillset, the 2-day learning format is perfect. If you are new to #scrum and want to become a professional scrum master, it makes sense to explore a deeper, richer, longer learning format to really onboard the philosophy, practices, and tools that lead to success.

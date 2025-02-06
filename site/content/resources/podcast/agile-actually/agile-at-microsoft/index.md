@@ -6,13 +6,32 @@ ResourceImport: true
 ResourceType: podcast
 date: 2024-04-25
 categories:
-- agility
+- Transparency and Accountability
+- Organisational Agility
+- People and Process
+- Discovery and Learning
+- DevOps
 author: MrHinsh
 resourceTypes: podcast
 layout: podcast
 slug: agile-at-microsoft
 aliases:
 - /resources/U_pzYjx6qk6
+tags:
+- Transparency
+- Agile Coaching
+- Agile Values and Principles
+- Team Collaboration
+- Agile Software Development
+- Agile Community
+- Continuous Improvement
+- Evidence Based Management
+- Agile Leadership
+- Agile Transformation
+- Agile Digital Tools
+- DevOps
+- Agile Methodology
+- Organisational Culture
 
 ---
 ![](https://nkdagility.com/wp-content/uploads/2024/04/37154808-1713453740943-610b708628f26.jpg)

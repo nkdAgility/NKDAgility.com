@@ -26,12 +26,20 @@ aliasesFor404:
 - /blog/how-do-you-make-a-good-forecast-
 - /resources/blog/how-do-you-make-a-good-forecast
 tags:
-- budget
-- forcast
-- roadmap
-- scrum
-- scrum-team
-- sprint-review
+- Agile Forecasting
+- Agile Planning
+- Scrum Product Management
+- Scrum Team
+- Agile Predictability
+- Evidence Based Management
+- Value Stream Management
+- Continuous Improvement
+- Agile Product Management
+- Team Collaboration
+- Change Management
+- Organisational Agility
+- Agile Transformation
+- Technical Excellence
 categories:
 - Metrics and Learning
 - Value Delivery

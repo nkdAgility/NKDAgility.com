@@ -26,13 +26,20 @@ aliasesFor404:
 - /blog/create-a-release-management-pipeline-for-professional-developers
 - /resources/blog/create-release-management-pipeline-professional-developers
 tags:
-- development-team
-- devops
-- release-management
-- release-pipline
-- tf-build
-- tfs
-- vsteamservices
+- Continuous Delivery
+- Deployment Frequency
+- Agile Tools
+- Azure DevOps
+- Release Planning
+- Technical Excellence
+- Automated Testing
+- Agile Product Management
+- Value Stream Management
+- Agile Software Development
+- Agile Product Ownership
+- Customer Feedback Loops
+- Continuous Improvement
+- Agile Frameworks
 categories:
 - Install and Configuration
 - Azure DevOps

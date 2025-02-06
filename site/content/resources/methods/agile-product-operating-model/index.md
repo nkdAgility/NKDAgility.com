@@ -23,6 +23,28 @@ card:
     content: More info
   title: Agile Product Operating Model
   content: Agile Product Operating Model
+categories:
+- Agile Product Management
+- Organisational Agility
+- Value Delivery
+- Discovery and Learning
+- Flow Efficiency
+tags:
+- Agile Product Management
+- Agile Planning
+- Agile Product Discovery
+- Agile Strategy
+- Team Collaboration
+- Agile Product Ownership
+- Agile Software Development
+- Agile Frameworks
+- Agile Transformation
+- Business Agility
+- Customer Satisfaction
+- Continuous Improvement
+- Value Delivery
+- Agile Digital Tools
+- Agile Methodology
 
 ---
 Description of Agile Product Operating Model.

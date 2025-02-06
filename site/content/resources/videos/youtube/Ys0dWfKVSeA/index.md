@@ -30,20 +30,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- Scrum framework
-- Agile project management
-- project management
-- Agile product development
-- product development
-- Agile product management
-- product management
-- business agility
-- problem solving
-- complexity
+- Scrum Team
+- Scrum Master
+- Continuous Delivery
+- Team Collaboration
+- Value Delivery
+- Organisational Agility
+- Change Management
+- Technical Excellence
+- Evidence Based Improvement
+- Systems Thinking
+- Agile Problem Solving
+- Customer Feedback Loops
+- Lean Principles
 resourceTypes:
 - video
+categories:
+- Scrum
+- Organisational Agility
+- Value Delivery
+- People and Process
+- Resilience and Change
 
 ---
 ## Reflecting on Scrum's Mirror  

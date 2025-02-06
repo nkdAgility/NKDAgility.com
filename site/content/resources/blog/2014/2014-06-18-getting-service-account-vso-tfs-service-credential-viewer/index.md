@@ -26,8 +26,21 @@ aliasesFor404:
 - /blog/getting-a-service-account-for-vso-with-tfs-service-credential-viewer
 - /resources/blog/getting-service-account-vso-tfs-service-credential-viewer
 tags:
-- tfs
-- vsteamservices
+- Azure DevOps
+- Agile Tools
+- Continuous Integration
+- Automated Testing
+- DevOps
+- Technical Excellence
+- Agile Software Development
+- Software Development
+- Application Lifecycle Management
+- Agile Methodology
+- Technical Mastery
+- Value Delivery
+- Customer Feedback Loops
+- Agile Product Management
+- Lean Principles
 categories:
 - Install and Configuration
 - Azure DevOps

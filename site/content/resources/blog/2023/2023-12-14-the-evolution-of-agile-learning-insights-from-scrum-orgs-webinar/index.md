@@ -27,13 +27,14 @@ aliasesFor404:
 - /blog/the-evolution-of-agile-learning--insights-from-scrum-org's-webinar
 - /resources/blog/the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
 tags:
-- Agile Coaching
-- Continuous Learning
-- Organisational Change
-- Agile Evolution
-- Immersive Learning
-- Agile Methodology
-- Team Collaboration
+- Scrum
+- Scrum Team
+- Agile Product Management
+- Evidence Based Improvement
+- Agile Transformation
+- Agile Product Discovery
+- Change Management
+- Learning Journeys
 categories:
 - Agile Product Management
 - Discovery and Learning

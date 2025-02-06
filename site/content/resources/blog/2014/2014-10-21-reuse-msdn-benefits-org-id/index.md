@@ -26,9 +26,16 @@ aliasesFor404:
 - /blog/reuse-your-msdn-benefits-with-your-org-id
 - /resources/blog/reuse-msdn-benefits-org-id
 tags:
-- azure
-- msdn
-- subscription
+- Azure DevOps
+- Agile Software Development
+- Technical Excellence
+- Continuous Delivery
+- Agile Product Management
+- Customer Feedback Loops
+- Agile Project Management
+- Agile Methodology
+- Software Development
+- Value Delivery
 categories:
 - Install and Configuration
 - Azure DevOps

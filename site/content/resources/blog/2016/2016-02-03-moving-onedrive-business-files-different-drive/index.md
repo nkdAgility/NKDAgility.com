@@ -26,7 +26,16 @@ aliasesFor404:
 - /blog/moving-onedrive-for-business-files-to-a-different-drive
 - /resources/blog/moving-onedrive-business-files-different-drive
 tags:
-- onedrive
+- Remote Working
+- Agile Software Development
+- Agile Project Management
+- Continuous Improvement
+- Technical Excellence
+- Evidence Based Management
+- Lean Principles
+- Agile Digital Tools
+- Customer Feedback Loops
+- Value Delivery
 categories:
 - Install and Configuration
 - Azure DevOps

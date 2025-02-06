@@ -22,11 +22,16 @@ aliasesFor404:
 - /blog/mask-password-in-jenkins-when-calling-tee
 - /resources/blog/mask-password-in-jenkins-when-calling-tee
 tags:
-- jenkins
-- maven
-- tfs
-- tfs2012
-- tfs-2012-4
+- DevOps
+- Technical Debt
+- Continuous Integration
+- Automated Testing
+- Agile Software Development
+- Security
+- Agile Tools
+- Agile Software Engineering
+- Technical Excellence
+- Value Delivery
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

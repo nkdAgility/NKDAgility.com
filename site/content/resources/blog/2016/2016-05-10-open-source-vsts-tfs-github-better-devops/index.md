@@ -26,11 +26,20 @@ aliasesFor404:
 - /blog/open-source-with-vsts-or-tfs-and-github-for-better-devops
 - /resources/blog/open-source-vsts-tfs-github-better-devops
 tags:
-- automated-build
-- continious-integration
-- devops
-- github
-- vsteamservices
+- Agile Tools
+- Continuous Integration
+- Automated Testing
+- Agile Software Development
+- Agile Product Management
+- Team Collaboration
+- Agile Planning
+- Azure DevOps
+- Technical Excellence
+- Value Delivery
+- Agile Transformation
+- Software Development
+- Agile Methodology
+- Collaboration Tools
 categories:
 - Azure DevOps
 - Practical Techniques and Tooling

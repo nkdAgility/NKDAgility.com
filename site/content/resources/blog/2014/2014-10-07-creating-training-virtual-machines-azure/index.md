@@ -26,12 +26,20 @@ aliasesFor404:
 - /blog/creating-training-virtual-machines-in-azure
 - /resources/blog/creating-training-virtual-machines-azure
 tags:
-- azure
-- hyper-v
-- training
-- vhd
-- visual-studio-2013
-- visual-studio-alm
+- Azure DevOps
+- Agile Tools
+- Agile Software Development
+- Continuous Delivery
+- Technical Excellence
+- Agile Product Management
+- Agile Planning Tools
+- Deployment Strategies
+- Agile Project Management
+- Value Delivery
+- Evidence Based Management
+- Agile Transformation
+- Cloud Computing
+- DevOps
 categories:
 - Install and Configuration
 - Azure DevOps

@@ -28,19 +28,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Team Collaboration
-- Organisational Culture
-- Conflict Management
-- Agile Apocalypse
-- Psychological Safety
-- Team Motivation
-- Change Management
-- Employee Engagement
-- Agile Problem Solving
-- Continuous Improvement
-- Systems Thinking
-- Decision Making
-- Agile Values and Principles
+- Agile Leadership
+- Agile Transformation
 resourceTypes:
 - video
 categories:

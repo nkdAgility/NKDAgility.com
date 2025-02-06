@@ -26,11 +26,21 @@ aliasesFor404:
 - /blog/configure-a-build-vnext-agent
 - /resources/blog/configure-a-build-vnext-agent-on-vso
 tags:
-- build
-- tfs
-- tfs-2015
-- visual-studio-2015
-- vsteamservices
+- Azure DevOps
+- Continuous Integration
+- Deployment Frequency
+- Agile Tools
+- DevOps
+- Technical Excellence
+- Agile Software Development
+- Agile Project Management
+- Value Delivery
+- Agile Product Management
+- Evidence Based Management
+- Agile Software Engineering
+- Continuous Delivery
+- Agile Methodology
+- Technical Mastery
 categories:
 - Install and Configuration
 - Azure DevOps

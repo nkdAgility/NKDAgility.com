@@ -29,6 +29,12 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
+categories:
+- People and Process
+- Organisational Agility
+- Discovery and Learning
+- Market Adaptability
+- Value Delivery
 
 ---
  Visit https://www.nkdagility.com to find out more about the PPDV course from Scrum.org #agile #scrum #productowner #productmanager #projectmanager #productdevelopment #projectmanagement 

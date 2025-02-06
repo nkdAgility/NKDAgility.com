@@ -26,11 +26,20 @@ aliasesFor404:
 - /blog/configuring-a-dc-in-azure-for-aad-integrated-release-management
 - /resources/blog/configuring-dc-azure-aad-integrated-release-management
 tags:
-- active-directory
-- azure
-- azure-active-directory
-- release-management
-- release-management-server
+- Azure DevOps
+- Agile Software Development
+- Continuous Delivery
+- Agile Product Management
+- Deployment Strategies
+- Technical Excellence
+- Agile Planning Tools
+- Application Lifecycle Management
+- DevOps
+- Agile Product Discovery
+- Value Stream Management
+- Evidence Based Management
+- Agile Frameworks
+- Agile Digital Tools
 categories:
 - Install and Configuration
 - Azure DevOps

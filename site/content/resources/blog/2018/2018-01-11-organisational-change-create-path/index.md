@@ -26,17 +26,21 @@ aliasesFor404:
 - /blog/create-your-own-path-to-organisational-agility
 - /resources/blog/organisational-change-create-path
 tags:
-- agile
-- agility
-- business-agility
-- ebm
-- ebmgt
-- evidence
-- evidence-based-management
-- homepage
-- organisational-change-team
-- scrum
-- scrum-definition
+- Organisational Agility
+- Change Management
+- Organisational Change
+- Business Agility
+- Agile Strategy
+- Continuous Improvement
+- Scrum Team
+- Scrum Product Management
+- Agile Product Management
+- Leadership Training
+- Employee Engagement
+- Agile Transformation
+- Evidence Based Management
+- Systems Thinking
+- Agile Values and Principles
 categories:
 - Organisational Agility
 - People and Process

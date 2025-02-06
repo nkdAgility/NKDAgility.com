@@ -20,6 +20,27 @@ card:
     content: More info
   title: Company as a Product (CaaP)
   content: Company as a Product (CaaP)
+categories:
+- Organisational Agility
+- Value Delivery
+- Discovery and Learning
+- Enterprise Agility
+tags:
+- Agile Product Management
+- Agile Product Discovery
+- Agile Strategy
+- Product Strategy
+- Business Agility
+- Organisational Agility
+- Agile Transformation
+- Lean Startup
+- Customer Satisfaction
+- Team Collaboration
+- Value Delivery
+- Agile Values and Principles
+- Continuous Improvement
+- Evidence Based Management
+- Entrepreneurial Thinking
 
 ---
 Description of Company as a Product (CaaP)

@@ -28,15 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile consultant
-- Agile consulting
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Agility
-- Business Agility
+- Agile Coaching
+- Organisational Change
+- Agile Mentoring
+- Team Motivation
+- Change Management
+- Agile Leadership
+- Agile Values and Principles
+- Continuous Improvement
+- Employee Engagement
+- Agile Community
+- Agile Transformation
+- Coaching
+- Agile Methodology
+- Team Collaboration
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Resilience and Change
+- Agile Product Management
+- Scrum
 
 ---
 **No go zone for Agile consultants**

@@ -22,6 +22,21 @@ card:
     content: Start Optimizing Now
   title: Liberating Structures
   content: Unlock creativity and innovation through Liberating Structures. Engage your team in dynamic, inclusive conversations that drive impactful outcomes.
+categories:
+- Discovery and Learning
+- Organisational Agility
+- Systems Thinking
+tags:
+- Team Collaboration
+- Agile Planning
+- Agile Product Discovery
+- Agile Product Management
+- Agile Software Development
+- Agile Transformation
+- Continuous Improvement
+- Customer Feedback Loops
+- Agile Values and Principles
+- Organisational Agility
 
 ---
 Coming soon!

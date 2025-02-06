@@ -19,6 +19,27 @@ card:
     content: Learn More
   content: Discover more about Emergant Practices and how it can help you in your Agile journey!
   title: Emergant Practices
+categories:
+- Discovery and Learning
+- People and Process
+- Systems Thinking
+- Organisational Agility
+- Complexity Thinking
+tags:
+- Emergent Practices
+- Agile Planning
+- Team Collaboration
+- Continuous Improvement
+- Discovery and Learning
+- Agile Evolution
+- Self Organisation
+- Organisational Agility
+- Agile Values and Principles
+- Complexity Thinking
+- Team Motivation
+- Change Management
+- Agile Community
+- Evidence Based Management
 
 ---
 Processes, practices and tools necessary will emerge as we do the work and help others do it

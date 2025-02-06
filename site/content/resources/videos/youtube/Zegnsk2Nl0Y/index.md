@@ -23,22 +23,31 @@ preview: https://i.ytimg.com/vi/Zegnsk2Nl0Y/maxresdefault.jpg
 duration: 44
 isShort: true
 tags:
-- Agile
-- Scrum
-- Scrum Master
-- Scrum Master tools
-- Scrum master resources
-- scrummasters
-- agile tools
-- agile resources
-- agile project management software
-- agile software
+- Azure DevOps
+- Team Collaboration
+- Continuous Delivery
+- Technical Excellence
+- Scrum Team
+- Agile Software Development
+- Value Delivery
+- Agile Project Management
+- Agile Product Management
+- Working Software
+- Definition of Done
+- Customer Feedback Loops
+- Transparency
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scrum
+- Azure DevOps
+- Practical Techniques and Tooling
+- Value Delivery
+- Systems Thinking
 
 ---
  #shorts #shortsvideo #shortvideo 5 tools that a #scrummaster loves. #scrum tool 5

@@ -27,10 +27,20 @@ aliasesFor404:
 - /blog/avoid-bug-task-anti-pattern-azure-devops/
 - /resources/blog/
 tags:
-- anti-pattern
-- bug
-- task
-- workitemtracking
+- Agile Tools
+- Team Collaboration
+- Agile Planning
+- Technical Debt
+- Agile Software Development
+- Azure DevOps
+- Continuous Improvement
+- Agile Product Ownership
+- Transparency
+- Agile Predictability
+- Agile Transformation
+- Value Delivery
+- Test First Development
+- Evidence Based Management
 categories:
 - People and Process
 - Azure DevOps

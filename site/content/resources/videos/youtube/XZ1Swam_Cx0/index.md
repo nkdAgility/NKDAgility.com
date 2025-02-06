@@ -23,38 +23,29 @@ preview: https://i.ytimg.com/vi/XZ1Swam_Cx0/maxresdefault.jpg
 duration: 59
 isShort: true
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
-- 7 signs
-- agile-pocalypse
-- agile-apocalypse
+- Agile Apocalypse
+- Agile Certification
+- Agile Coaching
+- Agile Methodology
+- Team Collaboration
+- Team Motivation
+- Change Management
+- Organisational Change
+- Agile Values and Principles
+- Agile Community
+- Agile Transformation
+- Agile Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- People and Process
+- Organisational Agility
+- Discovery and Learning
+- News and Reviews
 
 ---
  Beware the Agile-pocalypse: Decoding the Agile "Antichrist" 🌪️

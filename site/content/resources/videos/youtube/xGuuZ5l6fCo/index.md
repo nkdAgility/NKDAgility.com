@@ -28,12 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Detecting Agile BS
-- Agile product management
-- Agile product development
-- Agile project management
+- Customer Feedback Loops
+- Agile Product Discovery
+- Change Management
+- Agile Planning
+- Team Collaboration
+- Continuous Improvement
+- Agile Leadership
+- Market Adaptability
+- Agile Values and Principles
+- Organisational Agility
+- Agile Transformation
+- Evidence Based Management
+- Team Motivation
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Value Delivery
+- Market Adaptability
+- Discovery and Learning
 
 ---
 In the world of Agile, the ability to adapt and evolve based on real-time user feedback is a cornerstone of success. Yet, many organizations miss the mark when it comes to empowering their teams to make meaningful changes to requirements based on this feedback. In this post, we'll explore why this is a crucial aspect of Agile that often gets overlooked, and how you can ensure your teams are truly Agile by enabling them to close feedback loops and adjust requirements as needed.

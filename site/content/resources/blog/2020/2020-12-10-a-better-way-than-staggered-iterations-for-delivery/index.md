@@ -23,15 +23,20 @@ aliasesFor404:
 - /blog/a-better-way-than-staggered-iterations-for-delivery
 - /resources/blog/a-better-way-than-staggered-iterations-for-delivery
 tags:
-- asynchronous-development
-- cross-functional-teams
-- culture
-- cycle
-- improve
-- increment
-- strategic
-- test-first
-- working-software
+- Cross Functional Teams
+- Agile Planning
+- Technical Debt
+- Working Software
+- Continuous Delivery
+- Test First Development
+- Agile Software Development
+- Team Collaboration
+- Agile Product Management
+- Scrum Team
+- Definition of Done
+- Value Delivery
+- Agile Transformation
+- Evidence Based Management
 categories:
 - People and Process
 - Value Delivery

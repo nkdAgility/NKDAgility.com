@@ -26,14 +26,27 @@ aliasesFor404:
 - /blog/agility-and-windows-10--upgrading-my-surface-pro-2
 - /resources/blog/agility-windows-10-upgrading-surface-pro-2
 tags:
-- agility
-- dell-venue-8
-- surface-2-pro
-- windows
-- windows-10
+- Deployment Frequency
+- Scaled Agile
+- Agile Product Discovery
+- Continuous Delivery
+- Customer Feedback Loops
+- Agile Software Development
+- Agile Product Management
+- Organisational Culture
+- Agile Transformation
+- Technical Excellence
+- Agile Digital Tools
+- Agile Methodology
+- Continuous Improvement
+- Evidence Based Management
 categories:
-- install-and-configuration
-- discovery-and-learning
+- Scaling Agility
+- Organisational Agility
+- Application Lifecycle Management
+- Install and Configuration
+- Technical Excellence
+- Discovery and Learning
 preview: nakedalm-windows-logo-12-12.png
 
 ---

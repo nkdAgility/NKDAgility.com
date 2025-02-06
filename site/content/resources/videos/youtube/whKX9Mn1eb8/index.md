@@ -24,19 +24,8 @@ preview: https://i.ytimg.com/vi/whKX9Mn1eb8/maxresdefault.jpg
 duration: 48
 isShort: true
 tags:
-- Quality Engineering
-- Shift Left
-- Continuous Delivery
-- Technical Excellence
-- Agile Software Development
-- Test Driven Development
-- Automated Testing
-- Software Increment
-- Definition of Done
-- Value Delivery
-- Team Collaboration
-- Customer Feedback Loops
-- Agile Values and Principles
+- Agile Product Management
+- Evidence Based Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4

@@ -22,6 +22,28 @@ card:
     content: Start Optimizing Now
   title: Evidence-Based Management
   content: Make data-driven decisions with Evidence-Based Management (EBM). Use metrics to guide your team toward continuous improvement and increased value delivery.
+categories:
+- Metrics and Learning
+- Decision Theory
+- Value Delivery
+- Organisational Agility
+- Discovery and Learning
+tags:
+- Evidence Based Management
+- Decision Theory
+- Evidence Based Improvement
+- Data Driven Decisions
+- Continuous Improvement
+- Organisational Agility
+- Change Management
+- Agile Strategy
+- Value Delivery
+- Systems Thinking
+- Agile Leadership
+- Agile Transformation
+- Evidence Based Leadership
+- Agile Methodology
+- Lean Thinking
 
 ---
 Coming soon!

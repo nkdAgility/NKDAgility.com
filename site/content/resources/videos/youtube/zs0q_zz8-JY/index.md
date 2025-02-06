@@ -23,19 +23,29 @@ preview: https://i.ytimg.com/vi/zs0q_zz8-JY/maxresdefault.jpg
 duration: 46
 isShort: true
 tags:
-- Scrum
-- Scrum Master
-- ScrumMaster
-- Scrum Framework
-- Scrum Methodology
-- Scrum Project Management
-- Scrum Product Development
+- Scrum Team
+- Scrum Values
+- Team Collaboration
+- Team Motivation
+- Agile Leadership
+- Accountability
+- Continuous Improvement
+- Agile Methodology
+- Self Organisation
+- Agile Values and Principles
+- Organisational Culture
+- Agile Coaching
+- Leadership Training
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Organisational Psychology
 
 ---
  #shorts #shortsvideo #shortvideo Martin Hinshelwood explores one of the biggest misconceptions about a #scrummaster 

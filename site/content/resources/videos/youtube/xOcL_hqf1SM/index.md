@@ -23,35 +23,31 @@ preview: https://i.ytimg.com/vi/xOcL_hqf1SM/maxresdefault.jpg
 duration: 64
 isShort: false
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Scrum Master
+- Scrum Team
+- Technical Mastery
+- Agile Coaching
+- Agile Tools
+- Continuous Improvement
+- Agile Planning
+- Agile Values and Principles
+- Discovery and Learning
+- Lean Thinking
+- Agile Software Development
+- Agile Mentoring
+- Agile Frameworks
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scrum
+- Technical Excellence
+- Practical Techniques and Tooling
+- Discovery and Learning
+- People and Process
 
 ---
  Martin Hinshelwood walks us through the third thing you must achieve before you can call yourself an #agilecoach 

@@ -26,13 +26,20 @@ aliasesFor404:
 - /blog/upcomming-scrum-at-scale-workshop-from-scrum-org
 - /resources/blog/announcing-scrum-at-scale-workshop-scrum-org
 tags:
-- agile
-- agility
-- ebmgt
-- evidence
-- scrum
-- scrum-at-scale
-- scrum-org
+- Scaled Agile
+- Change Management
+- Organisational Change
+- Evidence Based Management
+- Scrum Team
+- Scrum Product Development
+- Agile Leadership
+- Continuous Improvement
+- Organisational Culture
+- Agile Transformation
+- Enterprise Agility
+- Agile Values and Principles
+- Leadership Training
+- Agile Scaling
 categories:
 - Scaling Agility
 - Organisational Agility

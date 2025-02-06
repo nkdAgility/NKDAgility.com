@@ -31,11 +31,20 @@ aliasesFor404:
 - /blog/scrum-is-made-up-of-influencers--entrepreneurs--and-makers
 - /resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
 tags:
-- entrepreneurs
-- leadership
-- leadership-track
-- technical-track
-- value-track
+- Scrum
+- Scrum Master
+- Scrum Team
+- Leadership Training
+- Agile Product Management
+- Value Delivery
+- Technical Excellence
+- Continuous Improvement
+- Entrepreneurship
+- Agile Product Discovery
+- Agile Values and Principles
+- Definition of Done
+- Agile Software Development
+- Team Collaboration
 categories:
 - Scrum
 - Organisational Agility

@@ -22,9 +22,19 @@ aliasesFor404:
 - /blog/bruce-lee-on-scrum-and-agile
 - /resources/blog/bruce-lee-on-scrum-and-agile
 tags:
-- agile
-- philosophy
-- scrum
+- Scrum Team
+- Scrum Master
+- Scrum Values
+- Continuous Improvement
+- Agile Values and Principles
+- Technical Excellence
+- Value Delivery
+- Agile Product Management
+- Customer Feedback Loops
+- Lean Thinking
+- Self Organisation
+- Agile Transformation
+- Discovery and Learning
 categories:
 - People and Process
 - Scrum

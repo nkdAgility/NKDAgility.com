@@ -26,8 +26,20 @@ aliasesFor404:
 - /blog/the-value-of-an-independent-scotland-for-me
 - /resources/blog/the-value-of-an-independent-scotland
 tags:
-- indyref
-- iscotland
+- Strategic Goals
+- Self Organisation
+- Organisational Change
+- Value Delivery
+- Evidence Based Management
+- Decision Making
+- Market Adaptability
+- Customer Feedback Loops
+- Continuous Improvement
+- Employee Engagement
+- Political Engagement
+- Community Impact
+- Economic Development
+- Social Justice
 categories:
 - Value Delivery
 - Market Adaptability

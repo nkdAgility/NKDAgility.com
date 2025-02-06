@@ -28,10 +28,20 @@ aliasesFor404:
 - /upgrading-to-tfs-2015-in-production
 - /resources/blog/upgrading-to-tfs-2015-in-production-done
 tags:
-- tfs
-- tfs-2013-4
-- tfs-2015
-- upgrade
+- Deployment Frequency
+- Change Management
+- Agile Software Development
+- Continuous Delivery
+- Technical Excellence
+- Agile Product Management
+- Evidence Based Management
+- Agile Transformation
+- Value Stream Management
+- Agile Tools
+- DevOps
+- Agile Planning
+- Customer Feedback Loops
+- Technical Debt
 categories:
 - Install and Configuration
 - Azure DevOps

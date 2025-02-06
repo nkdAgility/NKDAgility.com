@@ -11,6 +11,26 @@ resourceTypes: newsletter
 layout: newsletter
 aliases:
 - /resources/I3QFLrCOXnN
+categories:
+- Organisational Agility
+- People and Process
+- Market Adaptability
+tags:
+- Remote Working
+- Team Collaboration
+- Customer Satisfaction
+- Change Management
+- Employee Engagement
+- Market Adaptability
+- Agile Project Management
+- Agile Values and Principles
+- Continuous Improvement
+- Asynchronous Development
+- Agile Leadership
+- Team Motivation
+- Communication Tools
+- Agile Methodology
+- Organisational Culture
 
 ---
 Dear Valued Clients,

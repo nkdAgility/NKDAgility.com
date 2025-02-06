@@ -26,14 +26,20 @@ aliasesFor404:
 - /blog/it's-that-time-again;-get-ready-to-upgrade-to-tfs-2015
 - /resources/blog/its-that-time-again-get-ready-to-upgrade-to-tfs-2015
 tags:
-- tfs
-- tfs2005
-- tfs2008
-- tfs2010
-- tfs2012
-- tfs-2013
-- tfs-2015
-- upgrade
+- Agile Software Development
+- Continuous Delivery
+- Technical Excellence
+- Deployment Strategies
+- Change Management
+- Agile Planning
+- Evidence Based Management
+- Agile Transformation
+- Value Delivery
+- Customer Feedback Loops
+- Agile Project Management
+- Technical Debt
+- Agile Methodology
+- Organisational Change
 categories:
 - Azure DevOps
 - Application Lifecycle Management

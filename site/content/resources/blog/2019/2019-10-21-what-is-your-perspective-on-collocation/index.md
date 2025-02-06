@@ -26,9 +26,20 @@ aliasesFor404:
 - /blog/what-is-your-perspective-on-collocation-
 - /resources/blog/what-is-your-perspective-on-collocation
 tags:
-- collocation
-- scrum-team
-- team-room
+- Collaboration Tools
+- Team Collaboration
+- Scrum Team
+- Scrum Master
+- Remote Working
+- Team Motivation
+- Psychological Safety
+- Continuous Improvement
+- Evidence Based Management
+- Agile Values and Principles
+- Organisational Culture
+- Agile Software Development
+- Agile Project Management
+- Technical Excellence
 categories:
 - People and Process
 - Scrum

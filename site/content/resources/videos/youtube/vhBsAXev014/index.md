@@ -28,20 +28,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Apocalypse
-- Organisational Change
-- Change Management
-- Team Collaboration
-- Strategic Goals
-- Agile Product Ownership
-- Evidence Based Management
-- Organisational Agility
-- Team Motivation
-- Communication
-- Continuous Improvement
-- Agile Transformation
-- Systems Thinking
-- Employee Engagement
+- Agile Leadership
+- Agile Digital Tools
 resourceTypes:
 - video
 categories:

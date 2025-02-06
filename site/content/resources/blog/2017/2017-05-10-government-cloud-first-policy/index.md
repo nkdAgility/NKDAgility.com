@@ -22,11 +22,16 @@ aliasesFor404:
 - /blog/government-cloud-first-policy
 - /resources/blog/government-cloud-first-policy
 tags:
-- agile
-- business-agility
-- cloud
-- devops
-- digital-transformation
+- Digital Transformation
+- Business Agility
+- Change Management
+- Organisational Agility
+- Cloud First Policy
+- Agile Strategy
+- Evidence Based Management
+- Technical Excellence
+- Agile Software Development
+- Value Delivery
 categories:
 - Organisational Agility
 - Value Delivery

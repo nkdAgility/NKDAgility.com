@@ -26,17 +26,22 @@ aliasesFor404:
 - /blog/uncommitted-changes-messing-up-your-sync-in-git-with-visual-studio
 - /resources/blog/uncommitted-changes-messing-sync-git-visual-studio
 tags:
-- dvcs
-- git
-- svcs
-- visual-studio-2013
-- visual-studio
-categories:
-- Practical Techniques and Tooling
-- Application Lifecycle Management
-- DevOps
+- Modern Source Control
+- Agile Software Development
 - Technical Excellence
-- Tools and Techniques
+- Continuous Integration
+- Agile Project Management
+- Change Management
+- Organisational Change
+- Agile Transformation
+- Team Collaboration
+- Evidence Based Management
+- Agile Values and Principles
+- Lean Principles
+- Agile Methodology
+- Agile Digital Tools
+categories:
+- Azure DevOps
 preview: naked-alm-git-2-2.png
 
 ---

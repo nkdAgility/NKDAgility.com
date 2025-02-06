@@ -26,13 +26,21 @@ aliasesFor404:
 - /blog/merge-team-projects-into-one-in-tfs
 - /resources/blog/merge-many-team-projects-one-tfs
 tags:
-- migration
-- team-project
-- tfs
-- tfs2012
-- tfs-2013
-- tfs-integration-platform
-- workitemtracking
+- Agile Tools
+- Team Collaboration
+- Change Management
+- Agile Software Development
+- Technical Debt
+- Continuous Improvement
+- Agile Product Management
+- Evidence Based Management
+- Agile Transformation
+- Value Stream Management
+- Agile Project Management
+- Technical Excellence
+- Agile Scaling
+- DevOps
+- Agile Digital Tools
 categories:
 - Azure DevOps
 - Install and Configuration

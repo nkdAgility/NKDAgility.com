@@ -30,13 +30,21 @@ aliasesFor404:
 - /blog/professional-scrum-courses-for-2016-in-oslo--norway
 - /resources/blog/professional-scrum-courses-2016-oslo-norway
 tags:
-- agile
-- agility
-- professioal-scrum
-- psd
-- psf
-- psm
-- training
+- Professional Scrum
+- Scrum Master
+- Scrum Team
+- Technical Mastery
+- Continuous Delivery
+- Agile Software Development
+- Agile Product Management
+- Agile Certification
+- Agile Planning
+- Agile Tools
+- Value Delivery
+- Customer Feedback Loops
+- Agile Product Discovery
+- Team Collaboration
+- Agile Values and Principles
 categories:
 - People and Process
 - Scrum

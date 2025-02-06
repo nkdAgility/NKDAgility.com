@@ -26,8 +26,20 @@ aliasesFor404:
 - /blog/tfs-build-reports-licencies-licx--unable-to-load-type
 - /resources/blog/tfs-build-reports-licencies-licx-unable-load-type
 tags:
-- build
-- tf-build
+- Continuous Integration
+- Technical Debt
+- Agile Software Development
+- DevOps
+- Automated Testing
+- Agile Tools
+- Evidence Based Management
+- Agile Problem Solving
+- Team Collaboration
+- Agile Software Engineering
+- Technical Excellence
+- Value Delivery
+- Continuous Improvement
+- Agile Project Management
 categories:
 - Application Lifecycle Management
 - Technical Excellence

@@ -26,9 +26,20 @@ aliasesFor404:
 - /blog/understanding-tfs-migrations-from-on-premise-to-visual-studio-online
 - /resources/blog/understanding-tfs-migrations-premise-visual-studio-online
 tags:
-- migration
-- tfs
-- vsteamservices
+- Application Lifecycle Management
+- Agile Tools
+- Agile Software Development
+- Continuous Delivery
+- Technical Excellence
+- Value Delivery
+- Change Management
+- Agile Planning
+- Team Collaboration
+- Evidence Based Management
+- Agile Product Management
+- Deployment Strategies
+- Agile Transformation
+- Customer Feedback Loops
 categories:
 - Application Lifecycle Management
 - Azure DevOps

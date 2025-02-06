@@ -26,15 +26,21 @@ aliasesFor404:
 - /blog/install-of-tfs-2013-3-with-sharepoint-2013-on-windows-server-2012-r2-update-1
 - /resources/blog/install-tfs-2013-3-sharepoint-2013-windows-server-2012-r2-update-1
 tags:
-- windows-server-2012
-- sharepoint-2013
-- sharepoint-2013-sp1
-- starteam
-- tfs
-- tfs-2013
-- tfs-2013-3
-- windows-server
-- windows-server-2012-r2
+- Deployment Strategies
+- Agile Software Development
+- Technical Excellence
+- Continuous Delivery
+- Agile Product Management
+- Value Stream Management
+- Evidence Based Management
+- Agile Tools
+- Team Collaboration
+- Change Management
+- Agile Planning
+- Systems Thinking
+- Technical Debt
+- Customer Feedback Loops
+- Lean Principles
 categories:
 - Install and Configuration
 - Azure DevOps

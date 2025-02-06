@@ -30,17 +30,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile consultant
-- Agile
-- DevOps consultant
-- Agile consulting
-- DevOps consulting
-- Agile Coach
-- Agile coaching
-- Consulting
-- Consultant
+- Agile Product Discovery
+- Customer Feedback Loops
+- Continuous Improvement
+- Team Collaboration
+- Agile Values and Principles
+- Discovery and Learning
+- Agile Transformation
+- Change Management
+- Team Motivation
 resourceTypes:
 - video
+categories:
+- People and Process
+- Discovery and Learning
+- Organisational Agility
 
 ---
 ## The Journey to Understanding

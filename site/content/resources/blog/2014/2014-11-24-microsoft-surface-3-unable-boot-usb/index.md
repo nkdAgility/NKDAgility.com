@@ -26,9 +26,21 @@ aliasesFor404:
 - /blog/microsoft-surface-3-unable-to-boot-from-usb
 - /resources/blog/microsoft-surface-3-unable-boot-usb
 tags:
-- surface
-- surface-3-pro
-- windows-10
+- Technical Debt
+- Agile Software Development
+- Continuous Improvement
+- Evidence Based Management
+- Customer Feedback Loops
+- Agile Product Management
+- Agile Problem Solving
+- Technical Excellence
+- Lean Principles
+- Value Delivery
+- Agile Digital Tools
+- Agile Methodology
+- Software Development
+- Agile Product Discovery
+- Evidence Based Improvement
 categories:
 - Install and Configuration
 - Technical Excellence

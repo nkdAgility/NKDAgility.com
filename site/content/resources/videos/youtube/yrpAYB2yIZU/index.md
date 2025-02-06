@@ -23,16 +23,26 @@ preview: https://i.ytimg.com/vi/yrpAYB2yIZU/maxresdefault.jpg
 duration: 922
 isShort: false
 tags:
-- Active Directory (Software)
-- Windows Server 2012 (Operating System)
-- Windows Server 2012 R2
-- Windows Server
+- Deployment Strategies
+- Change Management
+- Technical Debt
+- Organisational Change
+- Agile Software Development
+- Continuous Improvement
+- Evidence Based Management
+- Agile Project Management
+- Technical Excellence
+- Agile Methodology
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Install and Configuration
+- Technical Excellence
+- Application Lifecycle Management
 
 ---
  Have you ever had to rebuild your only domain controller? Find out how to move your domain to another server to refresh the OS or just plane rebuild...

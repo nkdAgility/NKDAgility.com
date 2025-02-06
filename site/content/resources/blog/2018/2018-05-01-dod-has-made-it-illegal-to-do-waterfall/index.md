@@ -22,11 +22,21 @@ aliasesFor404:
 - /blog/dod-has-made-it-illegal-to-do-waterfall
 - /resources/blog/dod-has-made-it-illegal-to-do-waterfall
 tags:
-- agile
-- lean
-- lean-agile
-- scrum
-- scrum-definition
+- Agile Software Development
+- Agile Transformation
+- Agile Project Management
+- Agile Values and Principles
+- Continuous Improvement
+- Lean Agile
+- Agile Product Management
+- Agile Leadership
+- Agile Digital Tools
+- Agile Community
+- Value Delivery
+- Evidence Based Management
+- Agile Software Engineering
+- Agile Methodology
+- Business Agility
 categories:
 - People and Process
 - Organisational Agility

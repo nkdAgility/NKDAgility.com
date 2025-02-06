@@ -26,10 +26,20 @@ aliasesFor404:
 - /blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it-
 - /resources/blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
 tags:
-- cycle-time
-- flow
-- product-backlog
-- refinement
+- Scrum Team
+- Agile Estimation
+- Continuous Improvement
+- Cycle Time
+- Throughput
+- Value Delivery
+- Definition of Done
+- Agile Product Management
+- Scrum Product Development
+- Agile Planning
+- Evidence Based Improvement
+- Lean Thinking
+- Agile Software Development
+- Technical Excellence
 categories:
 - People and Process
 - Metrics and Learning

@@ -23,19 +23,8 @@ preview: https://i.ytimg.com/vi/vI2LBfMkPuk/maxresdefault.jpg
 duration: 200
 isShort: false
 tags:
-- Agile Coaching
-- Scrum Training
-- Scrum Team
-- Agile Product Management
-- Agile Certification
-- Continuous Improvement
-- Team Collaboration
-- Agile Values and Principles
-- Customer Feedback Loops
-- Agile Project Management
-- Agile Community
-- Agile Software Development
-- Professional Scrum
+- Agile Training
+- Employee Engagement
 sitemap:
   filename: sitemap.xml
   priority: 0.4

@@ -22,9 +22,21 @@ aliasesFor404:
 - /blog/configure-a-dns-server-for-an-azure-virtual-network
 - /resources/blog/configure-a-dns-server-for-an-azure-virtual-network
 tags:
-- azure
-- dns
-- virtual-network
+- Azure DevOps
+- Azure Pipelines
+- Azure Boards
+- Agile Software Development
+- Continuous Delivery
+- Technical Excellence
+- Site Reliability Engineering
+- Application Lifecycle Management
+- Agile Methodology
+- DevOps
+- Agile Project Management
+- Agile Product Management
+- Value Delivery
+- Systems Thinking
+- Organisational Agility
 categories:
 - Install and Configuration
 - Azure DevOps

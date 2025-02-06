@@ -26,11 +26,21 @@ aliasesFor404:
 - /blog/migrating-source-from-perforce-to-git-on-vso
 - /resources/blog/migrating-source-perforce-git-vso
 tags:
-- git
-- microsoft-id
-- migration
-- perforce
-- vsteamservices
+- Modern Source Control
+- Agile Tools
+- Continuous Integration
+- DevOps
+- Technical Debt
+- Agile Software Development
+- Value Stream Management
+- Agile Project Management
+- Azure DevOps
+- Organisational Change
+- Agile Transformation
+- Customer Feedback Loops
+- Lean Thinking
+- Evidence Based Management
+- Technical Excellence
 categories:
 - Azure DevOps
 - Application Lifecycle Management

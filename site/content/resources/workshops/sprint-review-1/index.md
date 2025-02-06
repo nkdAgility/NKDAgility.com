@@ -39,6 +39,27 @@ card:
     content: Learn More
   content: Discover more about "Sprint Review
   title: 'Sprint Review #1'
+categories:
+- Scrum
+- Transparency and Accountability
+- People and Process
+- Value Delivery
+- Discovery and Learning
+tags:
+- Sprint Review
+- Scrum Team
+- Definition of Done
+- Product Backlog
+- Agile Planning
+- Team Collaboration
+- Continuous Improvement
+- Customer Feedback Loops
+- Agile Product Ownership
+- Working Agreements
+- Agile Product Management
+- Scrum Product Development
+- Evidence Based Management
+- Transparency
 
 ---
 While this workshop can be used on its own, it was designed to be used as part of the [Sprint Review Recipe](../_recipes/sprint-review-recipe.md).

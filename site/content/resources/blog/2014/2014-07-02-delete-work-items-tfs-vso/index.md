@@ -26,9 +26,20 @@ aliasesFor404:
 - /blog/how-to-delete-work-items-from-tfs-or-vso
 - /resources/blog/delete-work-items-tfs-vso
 tags:
-- tfs
-- tfs-2013
-- vsteamservices
+- Azure DevOps
+- Agile Tools
+- Agile Software Development
+- Technical Debt
+- Continuous Improvement
+- Evidence Based Management
+- Agile Project Management
+- Value Delivery
+- Agile Methodology
+- Lean Principles
+- Agile Software Engineering
+- Technical Excellence
+- Agile Product Management
+- Collaboration Tools
 categories:
 - Azure DevOps
 - Practical Techniques and Tooling

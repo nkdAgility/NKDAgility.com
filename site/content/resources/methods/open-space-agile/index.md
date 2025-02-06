@@ -22,6 +22,21 @@ card:
     content: Start Optimizing Now
   title: Open Space Agile
   content: Harness the power of Open Space Agile to enable dynamic self-organization. Facilitate meaningful discussions and collaborative decision-making across your team.
+categories:
+- Organisational Agility
+- People and Process
+- Scrum
+tags:
+- Agile Planning
+- Team Collaboration
+- Team Motivation
+- Agile Transformation
+- Agile Values and Principles
+- Scrum Team
+- Definition of Done
+- Sprint Planning Workshop
+- Continuous Improvement
+- Working Agreements
 
 ---
 # Common failures

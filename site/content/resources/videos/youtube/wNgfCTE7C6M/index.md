@@ -23,19 +23,8 @@ preview: https://i.ytimg.com/vi/wNgfCTE7C6M/maxresdefault.jpg
 duration: 371
 isShort: false
 tags:
-- Agile Product Development
-- Team Collaboration
-- Agile Coaching
-- Product Discovery
-- Customer Feedback Loops
-- Agile Project Management
-- Scrum Team
-- Continuous Improvement
-- Agile Product Management
-- Lean UX
-- Agile Values and Principles
-- Agile Software Development
-- Agile Transformation
+- Evidence Based Management
+- Team Motivation
 sitemap:
   filename: sitemap.xml
   priority: 0.4

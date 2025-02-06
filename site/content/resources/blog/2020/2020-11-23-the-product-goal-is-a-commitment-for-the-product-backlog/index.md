@@ -22,7 +22,21 @@ aliasesFor404:
 - /blog/the-product-goal-is-a-commitment-for-the-product-backlog
 - /resources/blog/the-product-goal-is-a-commitment-for-the-product-backlog
 tags:
-- product-goal
+- Product Backlog
+- Scrum Team
+- Scrum Product Management
+- Product Strategy
+- Agile Product Management
+- Strategic Goals
+- Customer Feedback Loops
+- Continuous Improvement
+- Definition of Done
+- Agile Product Discovery
+- Value Delivery
+- Agile Planning
+- Team Collaboration
+- Transparency
+- Evidence Based Management
 categories:
 - Scrum
 - Agile Product Management

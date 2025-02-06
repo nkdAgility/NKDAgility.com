@@ -24,14 +24,31 @@ preview: https://i9.ytimg.com/vi/YVrGU0oZmc0/maxresdefault.jpg?sqp=CKDMmrwG&rs=A
 duration: 557
 isShort: false
 tags:
-- Deployment frequency
-- DevOps
-- Developers
+- Continuous Delivery
+- Customer Feedback Loops
+- Agile Tools
+- Azure DevOps
+- Agile Product Management
+- Value Delivery
+- Evidence Based Management
+- Agile Product Discovery
+- Technical Excellence
+- Agile Software Development
+- Team Collaboration
+- Agile Scaling
+- Site Reliability
 resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+categories:
+- Continuous Delivery
+- Metrics and Learning
+- Value Delivery
+- DevOps
+- Technical Excellence
+- Azure DevOps
 
 ---
  Unlocking Continuous Delivery with Feature Flags: The Key to Faster, Safer Deployments

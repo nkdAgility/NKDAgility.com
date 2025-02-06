@@ -26,11 +26,20 @@ aliasesFor404:
 - /blog/creating-nested-teams-in-visual-studio-alm
 - /resources/blog/creating-nested-teams-visual-studio-alm
 tags:
-- team-field
-- teams
-- tfs
-- tfs2012
-- tfs-2013
+- Scaled Agile
+- Team Collaboration
+- Agile Planning
+- Agile Tools
+- Agile Portfolio Management
+- Azure Boards
+- Agile Product Management
+- Cross Functional Teams
+- Team Performance
+- Agile Software Development
+- Continuous Improvement
+- Value Delivery
+- Agile Transformation
+- Agile Methodology
 categories:
 - Azure DevOps
 - Install and Configuration

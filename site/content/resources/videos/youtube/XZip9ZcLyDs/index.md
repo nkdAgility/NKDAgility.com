@@ -28,17 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Becoming a scrum master
-- scrum master
-- scrummaster
-- scrum
-- agile
-- agile careers
-- agile certifications
-- scrum certification
-- scrum training
+- Leadership Training
+- Team Collaboration
+- Team Motivation
+- Agile Leadership
+- Agile Project Management
+- Scrum Team
+- Continuous Improvement
+- Agile Methodology
+- Agile Product Management
+- Employee Engagement
+- Accountability
+- Agile Transformation
+- Professional Scrum
 resourceTypes:
 - video
+categories:
+- Scrum
+- Organisational Agility
+- People and Process
+- Leadership
+- Agile Product Management
 
 ---
 **Why is becoming a Scrum Master a great career option?**

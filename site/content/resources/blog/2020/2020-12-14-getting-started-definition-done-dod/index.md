@@ -27,12 +27,20 @@ aliasesFor404:
 - /blog/getting-started-with-a-definition-of-done-(dod)
 - /resources/blog/getting-started-definition-done-dod
 tags:
-- agile
-- definition-of-done
-- engineering-excellence
-- homepage
-- scrum
-- scrumble
+- Definition of Done
+- Scrum Team
+- Software Increment
+- Continuous Delivery
+- Technical Excellence
+- Agile Product Management
+- Agile Planning
+- Agile Software Development
+- Agile Product Ownership
+- Sprint Review
+- Agile Values and Principles
+- Test Driven Development
+- Continuous Improvement
+- Agile Frameworks
 categories:
 - Scrum
 - Technical Excellence

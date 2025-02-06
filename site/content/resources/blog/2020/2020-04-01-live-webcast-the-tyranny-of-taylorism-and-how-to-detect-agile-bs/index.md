@@ -26,11 +26,21 @@ aliasesFor404:
 - /blog/the-tyranny-of-taylorism-and-how-to-detect-agile-bs
 - /resources/blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
 tags:
-- agile
-- agile-bs
-- live-webcast
-- scrum-definition
-- taylorism
+- Agile Transformation
+- Change Management
+- Organisational Agility
+- Agile Coaching
+- Lean Thinking
+- Continuous Improvement
+- Agile Values and Principles
+- Systems Thinking
+- Evidence Based Management
+- Agile Software Development
+- Agile Leadership
+- Agile Methodology
+- Agile Community
+- Employee Engagement
+- Agile Problem Solving
 categories:
 - Systems Thinking
 - Organisational Agility

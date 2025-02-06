@@ -23,9 +23,20 @@ aliasesFor404:
 - /blog/there-is-no-place-like-production
 - /resources/blog/there-is-no-place-like-production
 tags:
-- hypothesis-driven-development
-- product-discovery
-- product-owner
+- Customer Satisfaction
+- Product Discovery
+- Agile Product Validation
+- Continuous Delivery
+- Value Delivery
+- Evidence Based Management
+- Employee Engagement
+- Agile Software Development
+- Lean Thinking
+- Agile Product Management
+- Frequent Releases
+- Agile Planning
+- Agile Values and Principles
+- Value Stream Management
 categories:
 - Value Delivery
 - Metrics and Learning

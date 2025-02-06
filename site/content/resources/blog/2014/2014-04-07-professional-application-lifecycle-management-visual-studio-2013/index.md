@@ -26,11 +26,21 @@ aliasesFor404:
 - /blog/professional-application-lifecycle-management-with-visual-studio-2013
 - /resources/blog/professional-application-lifecycle-management-visual-studio-2013
 tags:
-- modern-alm
-- tfs
-- tfs-2013
-- visual-studio-2013
-- visual-studio
+- Application Lifecycle Management
+- Agile Software Development
+- Agile Tools
+- Agile Product Management
+- Continuous Delivery
+- Technical Excellence
+- Scrum Team
+- Scrum Product Development
+- Agile Planning
+- Team Collaboration
+- Value Delivery
+- Software Development
+- DevOps
+- Agile Methodology
+- Technical Mastery
 categories:
 - Application Lifecycle Management
 - Products and Books

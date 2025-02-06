@@ -35,6 +35,27 @@ card:
     content: Learn More
   content: Discover more about Sprint Planning Recipe and how it can help you in your Agile journey!
   title: Sprint Planning Recipe
+categories:
+- Scrum
+- People and Process
+- Value Delivery
+- Practical Techniques and Tooling
+- Transparency and Accountability
+tags:
+- Sprint Planning Workshop
+- Scrum Team
+- Definition of Done
+- Agile Planning
+- Product Backlog
+- Continuous Improvement
+- Agile Product Ownership
+- Scrum Product Management
+- Team Collaboration
+- Agile Software Development
+- Value Delivery
+- Agile Estimation
+- Technical Excellence
+- Evidence Based Improvement
 
 ---
 The purpose of [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) is to create a plan for the Sprint. The entire Scrum Team attends as well as anyone they deem necessary to help them. While there is a maximum of 8h for this event, the greater the degree of understanding that the Scrum Team has going in, the shorter it will be. That is, if the Product Backlog is well understood and the Product Goal is clear, then the Sprint Planning will be short. If the Product Backlog is not well understood or the Product Goal is not clear, then the Sprint Planning will be longer.

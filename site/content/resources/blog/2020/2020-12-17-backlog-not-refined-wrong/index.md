@@ -27,9 +27,20 @@ aliasesFor404:
 - /blog/if-your-backlog-is-not-refined-then-you-are-doing-it-wrong
 - /resources/blog/backlog-not-refined-wrong
 tags:
-- product-backlog
-- product-discovery
-- refinement
+- Backlog Refinement
+- Scrum Team
+- Definition of Ready
+- Definition of Done
+- Sprint Planning Workshop
+- Agile Product Ownership
+- Agile Planning
+- Product Backlog
+- Continuous Improvement
+- Agile Software Development
+- Scrum Product Management
+- Team Collaboration
+- Technical Excellence
+- Value Delivery
 categories:
 - Scrum
 - People and Process

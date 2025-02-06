@@ -26,11 +26,21 @@ aliasesFor404:
 - /blog/configuring-jenkins-to-talk-to-tfs-2013
 - /resources/blog/configuring-jenkins-talk-tfs-2013
 tags:
-- java
-- jenkins
-- migration
-- svn
-- tfs
+- Agile Software Development
+- Continuous Integration
+- DevOps
+- Agile Tools
+- Technical Excellence
+- Agile Product Management
+- Agile Project Management
+- Agile Software Engineering
+- Continuous Delivery
+- Team Collaboration
+- Agile Transformation
+- Evidence Based Management
+- Value Delivery
+- Technical Debt
+- Agile Values and Principles
 categories:
 - Install and Configuration
 - Azure DevOps

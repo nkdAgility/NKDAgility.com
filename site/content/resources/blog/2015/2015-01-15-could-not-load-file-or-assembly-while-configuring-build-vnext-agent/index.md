@@ -22,14 +22,20 @@ aliasesFor404:
 - /blog/could-not-load-file-or-assembly-while-configuring-build-vnext-agent
 - /resources/blog/could-not-load-file-or-assembly-while-configuring-build-vnext-agent
 tags:
-- build
-- build-agent
-- build-vnext
-- strong-name
-- team-build
-- tfs
-- tfs-2015
-- vsteamservices
+- DevOps
+- Continuous Integration
+- Technical Debt
+- Agile Software Development
+- Azure DevOps
+- Technical Excellence
+- Evidence Based Management
+- Agile Methodology
+- Software Development
+- Agile Tools
+- Agile Product Management
+- Agile Software Engineering
+- Continuous Delivery
+- Test Automation
 categories:
 - Install and Configuration
 - Azure DevOps

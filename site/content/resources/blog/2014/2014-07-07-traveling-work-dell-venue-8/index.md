@@ -26,13 +26,21 @@ aliasesFor404:
 - /blog/traveling-for-work-and-the-dell-venue-8
 - /resources/blog/traveling-work-dell-venue-8
 tags:
-- consulting
-- dell-venue-8
-- surface-2
-- surface-2-pro
-- traveling
+- Remote Working
+- Agile Software Development
+- Agile Product Management
+- Agile Tools
+- Continuous Improvement
+- Technical Excellence
+- Customer Feedback Loops
+- Product Discovery
+- Agile Digital Tools
+- Lean Startup
 categories:
-- news-and-reviews
+- News and Reviews
+- Products and Books
+- Technical Excellence
+- Application Lifecycle Management
 preview: nakedalm-windows-logo-4-4.png
 
 ---

@@ -23,10 +23,21 @@ aliasesFor404:
 - /blog/professional-kanban-trainer-for-applying-professional-kanban
 - /resources/blog/professional-kanban-trainer-for-applying-professional-kanban
 tags:
-- kanban
-- kanban-theory
-- professional-kanban
-- professional-scrum-with-kanban
+- Kanban Theory
+- Kanban Training
+- Professional Scrum
+- Scrum Team
+- Agile Product Management
+- Value Delivery
+- Continuous Improvement
+- Agile Software Development
+- Agile Methodology
+- Agile Certifications
+- Kanban Coaching
+- Agile Product Discovery
+- Agile Planning
+- Agile Community
+- Value Stream Management
 categories:
 - Kanban
 - People and Process

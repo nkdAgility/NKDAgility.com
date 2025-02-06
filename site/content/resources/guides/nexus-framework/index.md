@@ -43,21 +43,8 @@ categories:
 - Technical Excellence
 - Product Delivery
 tags:
-- Scaled Agile
-- Team Collaboration
-- Scrum Product Management
-- Scrum Team
-- Definition of Done
-- Nexus Integration Team
-- Agile Product Ownership
-- Continuous Improvement
-- Agile Planning
-- Value Delivery
-- Agile Software Development
-- Agile Frameworks
-- Scaling Scrum
-- Product Backlog
-- Agile Values and Principles
+- Scrum Master
+- Agile Product Management
 
 ---
 The Definitive Guide to Scaling Scrum with Nexus

@@ -22,7 +22,21 @@ aliasesFor404:
 - /blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog
 - /resources/blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog
 tags:
-- sprint-goal
+- Sprint Planning Workshop
+- Scrum Team
+- Scrum Product Management
+- Definition of Done
+- Product Backlog
+- Agile Product Ownership
+- Team Collaboration
+- Continuous Improvement
+- Transparency
+- Value Delivery
+- Agile Planning
+- Agile Product Management
+- Accountability
+- Empirical Process Control
+- Agile Values and Principles
 categories:
 - Scrum
 - Transparency and Accountability

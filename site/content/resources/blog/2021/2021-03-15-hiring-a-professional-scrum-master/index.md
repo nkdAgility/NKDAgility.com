@@ -22,8 +22,20 @@ aliasesFor404:
 - /blog/hiring-a-professional-scrum-master
 - /resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
 tags:
-- scrum-master
-- scrum-masters
+- Scrum Master
+- Scrum Team
+- Definition of Done
+- Scrum Product Management
+- Agile Product Management
+- Continuous Improvement
+- Technical Excellence
+- Agile Values and Principles
+- Team Collaboration
+- Leadership Training
+- Agile Software Development
+- Employee Engagement
+- Agile Certification
+- Agile Product Discovery
 categories:
 - Scrum
 - People and Process

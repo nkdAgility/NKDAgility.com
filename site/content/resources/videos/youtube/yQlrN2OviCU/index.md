@@ -28,31 +28,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Team Collaboration
+- Continuous Learning
+- Agile Community
+- Employee Engagement
+- Psychological Safety
+- Agile Mentoring Program
+- Discovery and Learning
+- Value Delivery
+- Agile Transformation
+- Organisational Culture
+- Feedback Loops
+- Experimentation
+- Agile Values and Principles
 resourceTypes:
 - video
+categories:
+- Discovery and Learning
+- People and Process
+- Metrics and Learning
+- Organisational Psychology
 
 ---
 In the world of Scrum and Agile training, **immersive learning** is a game-changer. It transforms the way we absorb information, moving away from traditional lecture-based approaches to more practical, hands-on experiences. One of the standout aspects of this learning style is the **peer feedback** loop, which not only accelerates learning but also encourages real-world application.

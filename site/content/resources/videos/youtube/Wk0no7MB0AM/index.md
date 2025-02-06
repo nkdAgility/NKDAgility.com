@@ -23,19 +23,9 @@ preview: https://i.ytimg.com/vi/Wk0no7MB0AM/maxresdefault.jpg
 duration: 59
 isShort: true
 tags:
-- Team Collaboration
-- Scrum Master
-- Agile Apocalypse
-- Working Agreements
-- Psychological Safety
-- Team Motivation
-- Continuous Improvement
-- Agile Values and Principles
-- Agile Software Development
-- Agile Transformation
-- Conflict Resolution
-- Employee Engagement
-- Change Management
+- Agile Project Management
+- Agile Leadership
+- Agile Methodology
 sitemap:
   filename: sitemap.xml
   priority: 0.4

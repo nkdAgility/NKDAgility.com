@@ -23,19 +23,7 @@ preview: https://i.ytimg.com/vi/wjYFdWaWfOA/maxresdefault.jpg
 duration: 299
 isShort: false
 tags:
-- Agile Project Management
-- Scrum Product Development
-- Team Collaboration
-- Value Delivery
-- Agile Leadership
-- Team Effectiveness
-- Customer Feedback Loops
-- Agile Product Management
-- Continuous Improvement
-- Agile Values and Principles
-- Scrum Team
-- Agile Transformation
-- Organisational Change
+- Scrum Master
 sitemap:
   filename: sitemap.xml
   priority: 0.4

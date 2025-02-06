@@ -26,8 +26,21 @@ aliasesFor404:
 - /blog/update-to-the-scrum-guide-on-the-25th-anniversary-of-the-scrum-framework
 - /resources/blog/update-scrum-guide-25th-anniversary-scrum-framework
 tags:
-- leadership-track
-- scrum-theory
+- Scrum Team
+- Definition of Done
+- Scrum Product Management
+- Scrum Values
+- Agile Product Management
+- Continuous Improvement
+- Agile Planning
+- Self Organisation
+- Product Backlog
+- Sprint Planning Workshop
+- Accountability
+- Software Increment
+- Agile Methodology
+- Team Collaboration
+- Value Delivery
 categories:
 - Scrum
 - News and Reviews

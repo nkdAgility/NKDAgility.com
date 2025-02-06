@@ -26,9 +26,20 @@ aliasesFor404:
 - /blog/scrum-tapas--the-importance-of-professionalism
 - /resources/blog/scrum-tapas-importance-professionalism
 tags:
-- engineering-excellence
-- scrum-rules
-- scrum-values
+- Scrum
+- Scrum Team
+- Professional Scrum
+- Engineering Excellence
+- Technical Excellence
+- Agile Values and Principles
+- Team Collaboration
+- Continuous Improvement
+- Accountability
+- Agile Software Development
+- Agile Methodology
+- Agile Leadership
+- Team Motivation
+- Organisational Culture
 categories:
 - Scrum
 - People and Process

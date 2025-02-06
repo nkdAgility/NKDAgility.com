@@ -27,17 +27,24 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Backlog
-- Backlog
-- Product Development Backlog
-- Agile
-- Agile backlog
-- Scrum
-- Scrum Backlog
-- Sprint Backlog
+- Scrum Product Management
+- Agile Planning
+- Backlog Refinement
+- Definition of Done
+- Team Collaboration
+- Agile Product Ownership
+- Value Prioritisation
+- Agile Product Discovery
+- Transparency
 resourceTypes:
 - video
 layout: video
+categories:
+- Agile Product Management
+- Scrum
+- People and Process
+- Value Delivery
+- Discovery and Learning
 
 ---
 **What is a product backlog?**

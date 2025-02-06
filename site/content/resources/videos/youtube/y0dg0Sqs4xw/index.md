@@ -28,14 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Agile Consultant
-- Agile Coach
-- Agile Consulting
-- Rookie Mistakes
-- Scrum
+- Scrum Team
+- Scrum Master
+- Agile Coaching
+- Continuous Improvement
+- Empirical Process Control
+- Agile Product Management
+- Agile Values and Principles
+- Evidence Based Improvement
+- Team Collaboration
+- Change Management
+- Agile Transformation
+- Technical Excellence
+- Value Delivery
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Metrics and Learning
+- Discovery and Learning
+- Value Delivery
 
 ---
 What is a common mistake made by rookie agile consultants?

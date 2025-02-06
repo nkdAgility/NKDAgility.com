@@ -30,9 +30,20 @@ aliasesFor404:
 - /blog/team-foundation-server-2013-update-2-rc-is-coming--are-you-ready-
 - /resources/blog/team-foundation-server-2013-update-2-rc-coming-ready
 tags:
-- tfs
-- tfs-2013
-- upgrade
+- Agile Tools
+- Continuous Delivery
+- Technical Excellence
+- Agile Software Development
+- Deployment Strategies
+- Customer Feedback Loops
+- Agile Product Management
+- Release Planning
+- Agile Planning
+- Team Collaboration
+- Value Delivery
+- Evidence Based Improvement
+- Agile Transformation
+- Agile Digital Tools
 categories:
 - Upgrade and Maintenance
 - Azure DevOps

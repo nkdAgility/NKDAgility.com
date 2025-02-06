@@ -26,12 +26,20 @@ aliasesFor404:
 - /blog/evolution-not-transformation--this-is-the-inevitability-of-change
 - /resources/blog/evolution-not-transformation-this-is-the-inevitability-of-change
 tags:
-- agileleadership
-- daretochange
-- featured
-- leadership
-- leadership-track
-- scrum-theory
+- Change Management
+- Business Agility
+- Organisational Agility
+- Agile Evolution
+- Continuous Improvement
+- Experimentation
+- Leadership Training
+- Agile Leadership
+- Systems Thinking
+- Organisational Change
+- Agile Values and Principles
+- Employee Engagement
+- Agile Product Management
+- Agile Strategy
 categories:
 - Organisational Agility
 - Resilience and Change

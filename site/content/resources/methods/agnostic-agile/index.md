@@ -23,6 +23,28 @@ card:
     content: More info
   title: Agnostic Agile
   content: Agnostic Agile
+categories:
+- Organisational Agility
+- Discovery and Learning
+- Value Delivery
+- Agile Product Management
+- Systems Thinking
+tags:
+- Agile Methodology
+- Scrum
+- Scrum Team
+- Scrum Product Development
+- Definition of Done
+- Continuous Delivery
+- Technical Excellence
+- Agile Product Management
+- Agile Planning
+- Team Collaboration
+- Agile Values and Principles
+- Agile Transformation
+- Customer Feedback Loops
+- Agile Product Validation
+- Lean Principles
 
 ---
 Description of Agnostic Agile.

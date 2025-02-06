@@ -28,18 +28,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Kanban
-- Kanban approach
-- Kanban method
-- Agile
-- Agile framework
-- Agile product development
-- Agile project management
-- Agile product management
-- Agility
-- Business Agility
+- Scrum
+- Agile Planning
+- Agile Strategy
+- Cycle Time
+- Lead Time
+- Throughput
+- Continuous Improvement
+- Scrum Team
+- Kanban Process
+- Evidence Based Management
+- Agile Forecasting
+- Technical Excellence
 resourceTypes:
 - video
+categories:
+- Kanban
+- Scrum
+- Metrics and Learning
+- Value Stream Management
+- People and Process
 
 ---
 ### Integrating Kanban with Scrum: Enhancing Your Workflow

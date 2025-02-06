@@ -30,29 +30,25 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Team Motivation
+- Continuous Learning
+- Leadership Training
+- Agile Coaching
+- Employee Engagement
+- Organisational Culture
+- Change Management
+- Agile Transformation
+- Psychological Safety
+- Agile Software Development
+- Agile Values and Principles
+- Systems Thinking
+- Technical Excellence
+categories:
+- Discovery and Learning
+- Organisational Agility
+- People and Process
+- Resilience and Change
+- Technical Excellence
 
 ---
 In any organization, the skills and knowledge of a team can determine its success or failure. But what happens when a team is identified as deficient? How do you as a leader address the issue before resorting to drastic measures like firing? The answer lies in training and fostering a continuous learning environment.

@@ -23,19 +23,32 @@ preview: https://i.ytimg.com/vi/ZBb8OZ0I6qA/maxresdefault.jpg
 duration: 1156
 isShort: false
 tags:
-- ADO
-- AzDO
-- VSTS
-- Visual Studio Team System
-- TFS Online
-- TFS
-- Team Foundation Server
+- Agile Planning
+- Product Backlog
+- Scrum Product Management
+- Scrum Team
+- Agile Tools
+- Azure DevOps
+- Value Prioritisation
+- Continuous Improvement
+- Agile Product Management
+- Agile Software Development
+- Lean Thinking
+- Systems Thinking
+- Evidence Based Management
+- Agile Values and Principles
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Value Delivery
+- Agile Product Management
+- Scrum
+- Practical Techniques and Tooling
+- Azure DevOps
 
 ---
  Discover how to revolutionize your project management approach by ditching traditional backlog hierarchies for a more flexible, value-focused system.

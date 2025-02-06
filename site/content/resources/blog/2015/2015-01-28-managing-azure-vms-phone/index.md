@@ -26,8 +26,20 @@ aliasesFor404:
 - /blog/managing-your-azure-vm's-with-your-phone
 - /resources/blog/managing-azure-vms-phone
 tags:
-- azure
-- windows-phone
+- Azure DevOps
+- Agile Tools
+- Agile Software Development
+- Continuous Delivery
+- Customer Satisfaction
+- Value Delivery
+- Agile Product Management
+- Technical Excellence
+- Application Lifecycle Management
+- Agile Project Management
+- Lean Thinking
+- Evidence Based Management
+- Agile Digital Tools
+- Cloud Services Management
 categories:
 - Azure DevOps
 - Application Lifecycle Management

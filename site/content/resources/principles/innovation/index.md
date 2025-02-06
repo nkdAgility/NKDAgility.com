@@ -20,6 +20,26 @@ card:
     content: Start Optimizing Now
   title: Innovation
   content: Encourage Innovation by creating an environment where new ideas and approaches are explored to solve challenges and create value.
+categories:
+- Discovery and Learning
+- Organisational Agility
+- Innovation
+tags:
+- Ability to Innovate
+- Agile Product Discovery
+- Agile Community
+- Continuous Improvement
+- Experimentation
+- Lean Startup
+- Entrepreneurship
+- Agile Digital Tools
+- Customer Feedback Loops
+- Market Adaptability
+- Organisational Agility
+- Agile Evolution
+- Value Delivery
+- Agile Methodology
+- Team Collaboration
 
 ---
 Coming soon!

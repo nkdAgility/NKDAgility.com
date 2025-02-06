@@ -6,13 +6,30 @@ ResourceImport: true
 ResourceType: podcast
 date: 2023-10-26
 categories:
-- agility
+- Transparency and Accountability
+- People and Process
+- Discovery and Learning
 author: MrHinsh
 resourceTypes: podcast
 layout: podcast
 slug: ethics-in-agile
 aliases:
 - /resources/hWrztsvRPAi
+tags:
+- Transparency
+- Agile Coaching
+- Agile Values and Principles
+- Team Collaboration
+- Organisational Culture
+- Continuous Improvement
+- Evidence Based Management
+- Agile Leadership
+- Agile Software Development
+- Agile Digital Tools
+- Agile Community
+- Psychological Safety
+- Team Motivation
+- Change Management
 
 ---
 ![](https://nkdagility.com/wp-content/uploads/2023/10/37154808-1680362242684-ab5e16c6c3e31-jpg.webp)

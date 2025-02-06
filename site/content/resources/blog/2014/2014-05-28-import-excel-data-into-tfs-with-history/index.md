@@ -22,13 +22,21 @@ aliasesFor404:
 - /blog/import-excel-data-into-tfs-with-history
 - /resources/blog/import-excel-data-into-tfs-with-history
 tags:
-- excel
-- import
-- tfs
-- tfs2012
-- tfs-2012-4
-- tfs-2013
-- vba
+- Agile Tools
+- Azure DevOps
+- Agile Software Development
+- Agile Product Management
+- Continuous Delivery
+- Technical Excellence
+- Agile Planning Tools
+- Evidence Based Management
+- Value Stream Management
+- Agile Transformation
+- Lean Thinking
+- Agile Digital Tools
+- Data Driven Decisions
+- Team Collaboration
+- Agile Product Discovery
 categories:
 - Azure DevOps
 - Practical Techniques and Tooling

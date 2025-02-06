@@ -28,21 +28,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scaled Agile
-- Agile Scaling
-- Scrum
-- Scrum Team
-- Scrum Product Management
-- Scaling Scrum
-- Team Collaboration
-- Continuous Improvement
-- Dependency Management
-- Alignment
-- Agile Frameworks
-- Agile Product Management
-- Value Delivery
-- Technical Excellence
-- Agile Transformation
+- Evidence Based Management
 resourceTypes:
 - video
 categories:

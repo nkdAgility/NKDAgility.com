@@ -26,11 +26,21 @@ aliasesFor404:
 - /blog/big-scrum--are-you-doing-mechanical-scrum
 - /resources/blog/big-scrum-are-you-doing-mechanical-scrum
 tags:
-- agile
-- big-scrum
-- scaled-agile
-- scrum
-- scrum-at-scale
+- Scaled Agile
+- Professional Scrum
+- Scrum Values
+- Scrum Team
+- Technical Excellence
+- Continuous Improvement
+- Agile Values and Principles
+- Change Management
+- Team Collaboration
+- Technical Debt
+- Agile Transformation
+- Value Delivery
+- Agile Software Development
+- Evidence Based Improvement
+- Agile Product Management
 categories:
 - Scrum
 - Scaling Agility

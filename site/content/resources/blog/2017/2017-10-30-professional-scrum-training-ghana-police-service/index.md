@@ -26,11 +26,21 @@ aliasesFor404:
 - /blog/professional-scrum-training-for-the-ghana-police-service
 - /resources/blog/professional-scrum-training-ghana-police-service
 tags:
-- agile
-- introduction-to-scrum
-- professioal-scrum
-- professional-scrum-foundations
-- scrum
+- Professional Scrum
+- Scrum Master
+- Scrum Team
+- Organisational Change
+- Agile Planning
+- Team Collaboration
+- Continuous Improvement
+- Technical Mastery
+- Agile Product Management
+- Evidence Based Management
+- Change Management
+- Agile Leadership
+- Self Organisation
+- Agile Software Development
+- Team Motivation
 categories:
 - Scrum
 - Organisational Agility

@@ -43,11 +43,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 categories:
-- Code and Complexity
-- Technical Excellence
-- Value Delivery
-- Metrics and Learning
-- Continuous Delivery
+- DevOps
 
 ---
  The Power of Frequent Deployments: Reducing Technical Debt and Delivering Better Products

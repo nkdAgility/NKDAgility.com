@@ -23,35 +23,26 @@ preview: https://i.ytimg.com/vi/zro-li2QIMM/maxresdefault.jpg
 duration: 50
 isShort: true
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Agile Coaching
+- Team Collaboration
+- Team Motivation
+- Organisational Agility
+- Employee Engagement
+- Agile Values and Principles
+- Continuous Improvement
+- Agile Community
+- Charity
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Value Delivery
+- Resilience and Change
 
 ---
  #shorts #shortsvideo #shortvideo 7 virtues of #agile. Charity. #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #projectmanagement #projectmanager #productdevelopment #productmanagement #scrummaster #agilecoach #productowner #agileleadership 
