@@ -22,11 +22,12 @@ aliasesFor404:
 - /blog/visual-studio-2008-and-the-gdr-ctp16
 - /resources/blog/visual-studio-2008-and-the-gdr-ctp16
 tags:
-- aggreko
-- tools
-- visual-studio
-- vs2008
+- Technical Debt
+- Agile Software Development
 preview: metro-visual-studio-2005-128-link-1-1.png
+categories:
+- Install and Configuration
+- Application Lifecycle Management
 
 ---
 Well we have been having a few problems with the [GDR](http://blogs.msdn.com/gertd/archive/2008/08/20/vstsdb-2008-gdr-ctp16-is-here.aspx). Essentially when we import our database it complains about dependencies.

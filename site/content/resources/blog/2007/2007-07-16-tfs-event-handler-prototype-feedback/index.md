@@ -22,10 +22,8 @@ aliasesFor404:
 - /blog/tfs-event-handler-prototype-feedback
 - /resources/blog/tfs-event-handler-prototype-feedback
 tags:
-- ml
-- tfs-event-handler
-- tools
-- wit
+- Customer Feedback Loops
+- Agile Tools
 categories:
 - Install and Configuration
 - Azure DevOps

@@ -22,10 +22,8 @@ aliasesFor404:
 - /blog/connecting-to-sql-server-using-dns
 - /resources/blog/connecting-to-sql-server-using-dns
 tags:
-- configuration
-- infrastructure
-- sp2007
-- tools
+- Technical Excellence
+- Agile Software Development
 categories:
 - Install and Configuration
 preview: nakedalm-logo-128-link-6-6.png

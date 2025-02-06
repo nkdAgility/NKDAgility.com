@@ -22,9 +22,8 @@ aliasesFor404:
 - /blog/tfs-event-handler-update
 - /resources/blog/tfs-event-handler-update
 tags:
-- infrastructure
-- tfs-event-handler
-- tools
+- Continuous Delivery
+- Technical Excellence
 categories:
 - Application Lifecycle Management
 - Products and Books

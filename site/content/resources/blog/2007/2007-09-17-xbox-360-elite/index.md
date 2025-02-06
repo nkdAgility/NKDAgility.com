@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/xbox-360-elite
 - /resources/blog/xbox-360-elite
 tags:
-- live
-- xbox
+- Customer Satisfaction
+- Product Strategy
 categories:
 - News and Reviews
 preview: metro-xbox-360-link-1-1.png

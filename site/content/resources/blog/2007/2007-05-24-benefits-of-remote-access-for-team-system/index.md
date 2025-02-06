@@ -22,6 +22,12 @@ aliasesFor404:
 - /blog/benefits-of-remote-access-for-team-system
 - /resources/blog/benefits-of-remote-access-for-team-system
 preview: nakedalm-logo-128-link-1-1.png
+categories:
+- Application Lifecycle Management
+- Azure DevOps
+tags:
+- Remote Working
+- Team Collaboration
 
 ---
 Remote access for Team Server is about disparate teams. This means that you can use those cheep contractors in eastern Europe without needing to give them a small project because of the difficulties in integrating their work.

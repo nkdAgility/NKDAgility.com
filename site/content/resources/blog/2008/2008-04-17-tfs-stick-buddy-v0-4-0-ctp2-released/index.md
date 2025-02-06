@@ -22,10 +22,8 @@ aliasesFor404:
 - /blog/tfs-stick-buddy-v0-4-0-ctp2-released
 - /resources/blog/tfs-stick-buddy-v0-4-0-ctp2-released
 tags:
-- code
-- tfs-sticky-buddy
-- wit
-- wpf
+- Agile Tools
+- Agile Software Development
 categories:
 - Application Lifecycle Management
 preview: metro-binary-vb-128-link-1-1.png

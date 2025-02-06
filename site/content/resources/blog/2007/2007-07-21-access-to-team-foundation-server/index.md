@@ -22,7 +22,11 @@ aliasesFor404:
 - /blog/access-to-team-foundation-server
 - /resources/blog/access-to-team-foundation-server
 tags:
-- tfs
+- Agile Tools
+- Remote Working
+categories:
+- Azure DevOps
+- Application Lifecycle Management
 
 ---
 With my lack of time to work with TFS at work in anything but a server maintenance and user assistance role, or even any sort of Visual Studio work, I will need to find a way to continue to access and work with Team System.

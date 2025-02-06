@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/outsync-with-proxy-servers
 - /resources/blog/outsync-with-proxy-servers
 tags:
-- fail
+- Agile Software Development
+- Technical Excellence
 categories:
 - Install and Configuration
 preview: nakedalm-logo-128-link-2-1.png

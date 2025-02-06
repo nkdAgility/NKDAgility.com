@@ -26,14 +26,8 @@ aliasesFor404:
 - /blog/event--msdn--sharepoint-for-developers-(edinburgh)
 - /resources/blog/event-msdn-sharepoint-for-developers-edinburgh
 tags:
-- infrastructure
-- moss2007
-- sharepoint
-- sp2007
-- tools
-- visual-studio
-- vs2005
-- vs2008
+- Agile Software Development
+- Technical Excellence
 categories:
 - Events and Presentations
 preview: metro-visual-studio-2005-128-link-2-2.png

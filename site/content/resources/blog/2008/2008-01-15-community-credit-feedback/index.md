@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/community-credit-feedback
 - /resources/blog/community-credit-feedback
 tags:
-- silverlight
+- Agile Community
+- Customer Feedback Loops
 categories:
 - People and Process
 preview: nakedalm-logo-128-link-1-1.png

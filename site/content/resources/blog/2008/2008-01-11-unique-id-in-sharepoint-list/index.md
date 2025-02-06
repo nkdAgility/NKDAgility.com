@@ -22,12 +22,7 @@ aliasesFor404:
 - /blog/unique-id-in-sharepoint-list
 - /resources/blog/unique-id-in-sharepoint-list
 tags:
-- answers
-- configuration
-- infrastructure
-- sharepoint
-- sp2007
-- tools
+- Agile Software Development
 categories:
 - Install and Configuration
 preview: metro-sharepoint-128-link-2-1.png

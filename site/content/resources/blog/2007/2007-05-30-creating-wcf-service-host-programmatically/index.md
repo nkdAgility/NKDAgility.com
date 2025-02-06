@@ -22,11 +22,8 @@ aliasesFor404:
 - /blog/creating-wcf-service-host-programmatically
 - /resources/blog/creating-wcf-service-host-programmatically
 tags:
-- code
-- ml
-- service-oriented-architecture
-- tools
-- wcf
+- Agile Software Development
+- Technical Excellence
 categories:
 - Azure DevOps
 preview: metro-binary-vb-128-link-1-1.png

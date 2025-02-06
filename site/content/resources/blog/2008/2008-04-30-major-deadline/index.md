@@ -22,9 +22,8 @@ aliasesFor404:
 - /blog/major-deadline
 - /resources/blog/major-deadline
 tags:
-- moss2007
-- sharepoint
-- sp2007
+- Deployment Frequency
+- Change Management
 categories:
 - Application Lifecycle Management
 preview: metro-sharepoint-128-link-5-5.png

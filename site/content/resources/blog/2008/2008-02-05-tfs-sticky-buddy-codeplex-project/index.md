@@ -22,9 +22,8 @@ aliasesFor404:
 - /blog/tfs-sticky-buddy-codeplex-project
 - /resources/blog/tfs-sticky-buddy-codeplex-project
 tags:
-- code
-- tfs-sticky-buddy
-- wit
+- Agile Tools
+- Team Collaboration
 categories:
 - Azure DevOps
 - Code and Complexity

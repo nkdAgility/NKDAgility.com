@@ -22,11 +22,8 @@ aliasesFor404:
 - /blog/new-event-handlers
 - /resources/blog/new-event-handlers
 tags:
-- code
-- infrastructure
-- tfs-event-handler
-- tools
-- wit
+- Agile Software Development
+- Agile Tools
 categories:
 - Install and Configuration
 - Application Lifecycle Management

@@ -26,7 +26,8 @@ aliasesFor404:
 - /blog/msn-cartoon-(beta)
 - /resources/blog/msn-cartoon-beta
 tags:
-- answers
+- Agile Product Discovery
+- Customer Feedback Loops
 categories:
 - Discovery and Learning
 preview: nakedalm-logo-128-link-25-25.png

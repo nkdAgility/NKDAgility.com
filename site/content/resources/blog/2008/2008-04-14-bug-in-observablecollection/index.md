@@ -26,12 +26,11 @@ aliasesFor404:
 - /blog/bug-in-observablecollection-
 - /resources/blog/bug-in-observablecollection
 tags:
-- code
-- develop
-- wpf
+- Technical Debt
+- Agile Software Development
 categories:
-- code-and-complexity
-- problems-and-puzzles
+- Code and Complexity
+- Technical Excellence
 preview: metro-binary-vb-128-link-2-2.png
 
 ---

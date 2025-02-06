@@ -22,9 +22,8 @@ aliasesFor404:
 - /blog/rtm-confusion
 - /resources/blog/rtm-confusion
 tags:
-- tfs
-- visual-studio
-- vs2008
+- Modern Source Control
+- Agile Software Development
 categories:
 - Install and Configuration
 preview: metro-visual-studio-2005-128-link-1-1.png

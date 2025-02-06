@@ -22,12 +22,8 @@ aliasesFor404:
 - /blog/using-visual-studio-2008
 - /resources/blog/using-visual-studio-2008
 tags:
-- ml
-- tfs
-- tools
-- visual-studio
-- vs2005
-- vs2008
+- Agile Software Development
+- Technical Excellence
 categories:
 - Install and Configuration
 - Application Lifecycle Management

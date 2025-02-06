@@ -24,6 +24,9 @@ aliasesFor404:
 categories:
 - People and Process
 preview: nakedalm-logo-128-link-1-1.png
+tags:
+- Agile Community
+- Employee Engagement
 
 ---
 Well, today I started a new part time job that I do not get paid for, but put just as much professional interest into as may main job.

@@ -22,8 +22,12 @@ aliasesFor404:
 - /blog/branding-and-customizing-sharepoint-2007
 - /resources/blog/branding-and-customizing-sharepoint-2007
 tags:
-- sp2007
+- Agile Software Development
+- Technical Mastery
 preview: nakedalm-logo-128-link-1-1.png
+categories:
+- Code and Complexity
+- Install and Configuration
 
 ---
 I have been delving into the black art of SharePoint Branding, and I have been finding it a grueling process. Don't get me wrong it is a vast improvement over SharePoint 2003 and I have already built 2 Features (but not for public consumption yet).

@@ -26,9 +26,8 @@ aliasesFor404:
 - /blog/a-problem-with-diarist-2-
 - /resources/blog/a-problem-with-diarist-2
 tags:
-- answers
-- fail
-- windows-mobile-6
+- Customer Satisfaction
+- Agile Problem Solving
 categories:
 - News and Reviews
 preview: nakedalm-logo-128-link-1-1.png

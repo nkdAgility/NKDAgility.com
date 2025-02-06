@@ -22,8 +22,12 @@ aliasesFor404:
 - /blog/social-and-business-networking
 - /resources/blog/social-and-business-networking
 tags:
-- service-oriented-architecture
+- Entrepreneurship
+- Agile Community
 preview: nakedalm-logo-128-link-1-1.png
+categories:
+- Sociotechnical Systems
+- Market Adaptability
 
 ---
 In the modern era networking is not just the preview of business men. There have been many sites created over the last few years but they only seam to implement one or maybe two if the strategies for providing either a community or business networking site. A [list of social networking sites](http://en.wikipedia.org/wiki/List_of_social_networking_websites "list of social networking sites") can be found on Wikipedia.

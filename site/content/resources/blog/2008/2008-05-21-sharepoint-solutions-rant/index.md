@@ -22,12 +22,8 @@ aliasesFor404:
 - /blog/sharepoint-solutions-rant
 - /resources/blog/sharepoint-solutions-rant
 tags:
-- develop
-- fail
-- moss2007
-- sharepoint
-- sp2007
-- tools
+- Agile Software Development
+- Technical Debt
 categories:
 - Practical Techniques and Tooling
 preview: metro-sharepoint-128-link-2-1.png

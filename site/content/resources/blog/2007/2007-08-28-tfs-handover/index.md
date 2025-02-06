@@ -22,9 +22,8 @@ aliasesFor404:
 - /blog/tfs-handover
 - /resources/blog/tfs-handover
 tags:
-- sp2007
-- tfs
-- tfs2005
+- Application Lifecycle Management
+- Technical Excellence
 categories:
 - Install and Configuration
 - Azure DevOps

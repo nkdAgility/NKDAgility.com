@@ -26,15 +26,8 @@ aliasesFor404:
 - /blog/tfs-sticky-buddy-poc-(winforms)-release
 - /resources/blog/tfs-sticky-buddy-poc-winforms-release
 tags:
-- code
-- infrastructure
-- tfs
-- tfs-sticky-buddy
-- tools
-- visual-studio
-- vs2008
-- wit
-- wpf
+- Agile Software Development
+- Agile Tools
 categories:
 - Application Lifecycle Management
 - Code and Complexity

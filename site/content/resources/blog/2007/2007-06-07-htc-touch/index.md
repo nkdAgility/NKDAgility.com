@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/htc-touch
 - /resources/blog/htc-touch
 tags:
-- answers
-- windows-mobile-6
+- Product Strategy
+- Customer Feedback Loops
 categories:
 - Products and Books
 preview: nakedalm-logo-128-link-1-1.png

@@ -26,11 +26,8 @@ aliasesFor404:
 - /blog/installing-windows-sharepoint-services-3-0-service-pack-1-(sp1)
 - /resources/blog/installing-windows-sharepoint-services-3-0-service-pack-1-sp1
 tags:
-- configuration
-- infrastructure
-- sharepoint
-- sp2007
-- tools
+- Agile Software Development
+- Continuous Improvement
 categories:
 - Install and Configuration
 preview: metro-sharepoint-128-link-6-6.png

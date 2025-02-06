@@ -26,11 +26,12 @@ aliasesFor404:
 - /blog/team-foundation-server-&-sharepoint-3-0
 - /resources/blog/team-foundation-server-sharepoint-3-0
 tags:
-- sp2007
-- tfs
-- visual-studio
-- vs2005
+- Agile Software Development
+- Agile Tools
 preview: metro-visual-studio-2005-128-link-1-1.png
+categories:
+- Install and Configuration
+- Azure DevOps
 
 ---
 I have managed to install SharePoint 3.0 on my dev Team server box in side by side mode by using  [Brian Keller's](http://blogs.msdn.com/briankel/default.aspx "Brian Keller: Technical Evangelist for Team System") blog on "[Configuring Visual Studio 2005 Team Foundation Server with Windows SharePoint Services 3.0](http://blogs.msdn.com/briankel/archive/2007/04/14/Configuring-Visual-Studio-2005-Team-Foundation-Server-with-Windows-SharePoint-Services-3.0.aspx "Team Foundation Server with Windows SharePoint Services 3.0")".

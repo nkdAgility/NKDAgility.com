@@ -22,10 +22,8 @@ aliasesFor404:
 - /blog/tfs-sticky-buddy-v0-3-1-ctp1
 - /resources/blog/tfs-sticky-buddy-v0-3-1-ctp1
 tags:
-- code
-- tfs-sticky-buddy
-- wit
-- wpf
+- Agile Software Development
+- Agile Tools
 categories:
 - Azure DevOps
 preview: metro-binary-vb-128-link-3-1.png

@@ -22,9 +22,8 @@ aliasesFor404:
 - /blog/linq-to-xsd
 - /resources/blog/linq-to-xsd
 tags:
-- code
-- tfs-build
-- tools
+- Agile Software Development
+- Technical Excellence
 categories:
 - Install and Configuration
 preview: metro-binary-vb-128-link-2-2.png

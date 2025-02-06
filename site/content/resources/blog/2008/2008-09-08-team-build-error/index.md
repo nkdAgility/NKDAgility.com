@@ -22,12 +22,12 @@ aliasesFor404:
 - /blog/team-build-error
 - /resources/blog/team-build-error
 tags:
-- aggreko
-- tfs-build
-- tools
-- visual-studio
-- vs2005
+- Technical Debt
+- Continuous Improvement
 preview: metro-visual-studio-2005-128-link-3-1.png
+categories:
+- Application Lifecycle Management
+- Install and Configuration
 
 ---
 I received a confusing error from MS Build on Friday. I assumed that it was a GDR version issue for the top level message:

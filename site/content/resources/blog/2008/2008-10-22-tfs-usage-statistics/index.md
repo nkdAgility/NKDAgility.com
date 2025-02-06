@@ -22,8 +22,12 @@ aliasesFor404:
 - /blog/tfs-usage-statistics
 - /resources/blog/tfs-usage-statistics
 tags:
-- tools
+- Agile Tools
+- Azure DevOps
 preview: nakedalm-logo-128-link-1-1.png
+categories:
+- Azure DevOps
+- Metrics and Learning
 
 ---
 Stats on out [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") Instance. Not much but growing.

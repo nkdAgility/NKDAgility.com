@@ -26,8 +26,8 @@ aliasesFor404:
 - /blog/installing-the--net-framework-3-5-beta-2-on-vista
 - /resources/blog/installing-the-net-framework-3-5-beta-2-on-vista
 tags:
-- visual-studio
-- vs2008
+- Agile Software Development
+- Technical Excellence
 categories:
 - Install and Configuration
 preview: metro-visual-studio-2005-128-link-1-1.png

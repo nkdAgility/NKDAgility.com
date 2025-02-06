@@ -22,9 +22,8 @@ aliasesFor404:
 - /blog/creating-a-managed-service-factory
 - /resources/blog/creating-a-managed-service-factory
 tags:
-- ml
-- service-oriented-architecture
-- tools
+- Agile Software Development
+- Technical Excellence
 categories:
 - Azure DevOps
 preview: metro-merilllynch-128-link-3-3.png

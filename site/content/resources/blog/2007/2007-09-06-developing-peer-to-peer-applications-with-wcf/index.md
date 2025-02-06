@@ -22,10 +22,8 @@ aliasesFor404:
 - /blog/developing-peer-to-peer-applications-with-wcf
 - /resources/blog/developing-peer-to-peer-applications-with-wcf
 tags:
-- service-oriented-architecture
-- tfs
-- tools
-- wcf
+- Agile Software Development
+- Technical Excellence
 categories:
 - Events and Presentations
 

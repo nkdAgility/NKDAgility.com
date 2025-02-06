@@ -22,10 +22,12 @@ aliasesFor404:
 - /blog/hosted-sticky-buddy
 - /resources/blog/hosted-sticky-buddy
 tags:
-- tfs-sticky-buddy
-- tools
-- wit
+- Agile Tools
+- Continuous Delivery
 preview: nakedalm-logo-128-link-1-1.png
+categories:
+- Application Lifecycle Management
+- Install and Configuration
 
 ---
 I now have a nice hosted version of the [TFS Sticky Buddy](http://rddotnet.com/tfsstickybuddy.aspx) that is fairly fast and deploys using ClickOnce, but you do need to make sure that you already have .NET 3.5 and Team Explorer 2008 installed first…

@@ -24,6 +24,9 @@ aliasesFor404:
 categories:
 - People and Process
 preview: nakedalm-logo-128-link-3-3.png
+tags:
+- Agile Community
+- Software Developers
 
 ---
 If you are a developer on Codeplex then there are now two Codeplex LinkedIn groups for you to join.

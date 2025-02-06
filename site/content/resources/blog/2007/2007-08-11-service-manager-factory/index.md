@@ -22,9 +22,8 @@ aliasesFor404:
 - /blog/service-manager-factory
 - /resources/blog/service-manager-factory
 tags:
-- code
-- develop
-- practices
+- Application Lifecycle Management
+- Continuous Delivery
 categories:
 - Application Lifecycle Management
 - Code and Complexity

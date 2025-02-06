@@ -22,9 +22,8 @@ aliasesFor404:
 - /blog/assembly-version-does-not-change-in-visual-basic-workflow-projects
 - /resources/blog/assembly-version-does-not-change-in-visual-basic-workflow-projects
 tags:
-- develop
-- sp2007
-- tools
+- Technical Debt
+- Continuous Improvement
 categories:
 - Application Lifecycle Management
 preview: nakedalm-logo-128-link-4-4.png

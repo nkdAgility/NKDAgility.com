@@ -22,11 +22,12 @@ aliasesFor404:
 - /blog/windows-vista-pre-sp1-performance-and-reliability-updates-result
 - /resources/blog/windows-vista-pre-sp1-performance-and-reliability-updates-result
 tags:
-- ml
-- off-topic
-- tools
-- vista
+- Technical Excellence
+- Continuous Improvement
 preview: metro-merilllynch-128-link-1-1.png
+categories:
+- Install and Configuration
+- News and Reviews
 
 ---
 I had spotted these updates last night in a [post](http://www.windows-now.com/blogs/robert/archive/2007/08/07/windows-vista-pre-sp1-performance-and-reliability-updates-released.aspx "Windows Vista Pre-SP1 Performance and Reliability Updates Released") by [Robert McLaws](http://www.windows-now.com/blogs/robert/) and decided, what the heck, I'll give it a go...

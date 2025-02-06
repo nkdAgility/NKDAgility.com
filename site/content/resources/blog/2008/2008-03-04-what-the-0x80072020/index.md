@@ -26,10 +26,11 @@ aliasesFor404:
 - /blog/what-the-0x80072020-
 - /resources/blog/what-the-0x80072020
 tags:
-- code
-- wcf
+- Technical Debt
+- Agile Software Development
 categories:
-- code-and-complexity
+- Code and Complexity
+- Install and Configuration
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

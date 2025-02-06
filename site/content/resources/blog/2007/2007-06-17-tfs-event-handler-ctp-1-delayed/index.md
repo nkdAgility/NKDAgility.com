@@ -26,8 +26,8 @@ aliasesFor404:
 - /blog/tfs-event-handler--ctp-1-delayed
 - /resources/blog/tfs-event-handler-ctp-1-delayed
 tags:
-- tfs-event-handler
-- wit
+- Agile Software Development
+- Technical Excellence
 categories:
 - Azure DevOps
 - Install and Configuration

@@ -22,14 +22,8 @@ aliasesFor404:
 - /blog/tfs-event-handler-ctp1-released
 - /resources/blog/tfs-event-handler-ctp1-released
 tags:
-- code
-- infrastructure
-- tfs
-- tfs2008
-- tools
-- visual-studio
-- vs2008
-- wit
+- Agile Software Development
+- Technical Excellence
 categories:
 - Azure DevOps
 preview: metro-visual-studio-2005-128-link-4-1.png

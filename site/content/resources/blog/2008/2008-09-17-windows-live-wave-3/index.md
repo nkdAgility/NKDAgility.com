@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/windows-live-wave-3
 - /resources/blog/windows-live-wave-3
 tags:
-- live
+- Agile Software Development
+- Continuous Delivery
 categories:
 - News and Reviews
 - Install and Configuration

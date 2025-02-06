@@ -26,11 +26,11 @@ aliasesFor404:
 - /blog/removing-acl's-for-dead-ad-accounts
 - /resources/blog/removing-acls-for-dead-ad-accounts
 tags:
-- code
-- infrastructure
-- tools
+- Technical Debt
+- Agile Software Development
 categories:
-- code-and-complexity
+- Code and Complexity
+- Application Lifecycle Management
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

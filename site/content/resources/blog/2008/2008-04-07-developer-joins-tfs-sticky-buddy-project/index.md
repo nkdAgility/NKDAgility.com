@@ -22,11 +22,8 @@ aliasesFor404:
 - /blog/developer-joins-tfs-sticky-buddy-project
 - /resources/blog/developer-joins-tfs-sticky-buddy-project
 tags:
-- infrastructure
-- tfs
-- tfs-sticky-buddy
-- tools
-- wit
+- Team Collaboration
+- Agile Software Development
 categories:
 - Azure DevOps
 

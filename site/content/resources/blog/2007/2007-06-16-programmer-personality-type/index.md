@@ -24,6 +24,9 @@ aliasesFor404:
 categories:
 - People and Process
 preview: nakedalm-logo-128-link-1-1.png
+tags:
+- Team Collaboration
+- Technical Mastery
 
 ---
 Get yours [here](http://www.doolwind.com/index.php?page=11 "Programmer Personality Test").

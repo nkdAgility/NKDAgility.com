@@ -22,12 +22,12 @@ aliasesFor404:
 - /blog/tfs-sticky-buddy-update
 - /resources/blog/tfs-sticky-buddy-update
 tags:
-- aggreko
-- tfs-sticky-buddy
-- tools
-- wit
-- wpf
+- Agile Tools
+- Continuous Improvement
 preview: metro-aggreko-128-link-1-1.png
+categories:
+- Application Lifecycle Management
+- Install and Configuration
 
 ---
 The Sticky Buddy has been updated to fix the following problems:

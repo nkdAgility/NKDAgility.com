@@ -24,6 +24,9 @@ aliasesFor404:
 categories:
 - People and Process
 preview: nakedalm-logo-128-link-1-1.png
+tags:
+- Agile Project Management
+- Continuous Improvement
 
 ---
 Well I just got through simplifying my blog categories! I just though they were, well... rubbish,  and there were too many of them. I have toned them down and added a full description for them all with links to the relevant Wikipedia pages...

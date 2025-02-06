@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/rddotnet
 - /resources/blog/rddotnet
 tags:
-- off-topic
-- wit
+- Agile Tools
+- Continuous Delivery
 categories:
 - Azure DevOps
 preview: nakedalm-logo-128-link-1-1.png

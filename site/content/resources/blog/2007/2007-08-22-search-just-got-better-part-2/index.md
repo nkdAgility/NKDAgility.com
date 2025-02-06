@@ -26,8 +26,12 @@ aliasesFor404:
 - /blog/search-just-got-better--part-2
 - /resources/blog/search-just-got-better-part-2
 tags:
-- dyslexia
+- Agile Product Discovery
+- Customer Feedback Loops
 preview: nakedalm-logo-128-link-1-1.png
+categories:
+- News and Reviews
+- Discovery and Learning
 
 ---
 After my post on the new [Tafiti](http://www.tafiti.com/) search engine a fellow by the name of [Anselm](http://www.searchcrystal.com/) pointed out [Search Crystal](http://www.searchcrystal.com "http://www.searchcrystal.com"), another visual search engine that produces some good result. I did not get he same Wow that I did from Tafiti, but the amount of information that is provided through the interface is extensive.

@@ -26,7 +26,8 @@ aliasesFor404:
 - /blog/windows-live-writer-beta-3-hmm-
 - /resources/blog/windows-live-writer-beta-3-hmm
 tags:
-- live
+- Customer Satisfaction
+- Agile Product Discovery
 categories:
 - Install and Configuration
 - Products and Books

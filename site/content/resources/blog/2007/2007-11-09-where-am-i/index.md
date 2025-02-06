@@ -26,8 +26,8 @@ aliasesFor404:
 - /blog/where-am-i-
 - /resources/blog/where-am-i
 tags:
-- ml
-- wcf
+- Agile Software Development
+- Technical Excellence
 categories:
 - Code and Complexity
 preview: metro-merilllynch-128-link-5-1.png

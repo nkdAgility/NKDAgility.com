@@ -26,8 +26,12 @@ aliasesFor404:
 - /blog/microsoft-surface--wow
 - /resources/blog/microsoft-surface-wow
 tags:
-- off-topic
+- Ability to Innovate
+- Digital Transformation
 preview: nakedalm-logo-128-link-1-1.png
+categories:
+- Discovery and Learning
+- News and Reviews
 
 ---
 I have just looked at the [Surface first look](http://www.microsoft.com/surface/) site and I am truly amazed! I want one, really badly...

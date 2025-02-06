@@ -22,14 +22,8 @@ aliasesFor404:
 - /blog/kerberos-and-sharepoint-2007
 - /resources/blog/kerberos-and-sharepoint-2007
 tags:
-- configuration
-- infrastructure
-- moss2007
-- sharepoint
-- sp2007
-- spf2010
-- tfs
-- tools
+- Technical Strategy
+- Site Reliability Engineering
 categories:
 - Install and Configuration
 preview: metro-sharepoint-128-link-1-1.png

@@ -22,11 +22,12 @@ aliasesFor404:
 - /blog/custom-wcf-proxy
 - /resources/blog/custom-wcf-proxy
 tags:
-- ml
-- service-oriented-architecture
-- tools
-- wcf
+- Agile Software Development
+- Technical Excellence
 preview: metro-merilllynch-128-link-1-1.png
+categories:
+- Code and Complexity
+- Practical Techniques and Tooling
 
 ---
 The think that always annoys me with web services is that when you connect to it and generate the proxy it always generates proxies for all of the extra classes and interfaces as well, even when you have them available. This means that you always have to write convertors or adapters to convert one object type to another even though they are the same object (only core class and proxy of that class).

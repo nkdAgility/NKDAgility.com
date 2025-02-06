@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/windows-live-writer-beta-3
 - /resources/blog/windows-live-writer-beta-3
 tags:
-- fail
-- live
+- Deployment Strategies
+- Customer Feedback Loops
 categories:
 - Install and Configuration
 - Products and Books

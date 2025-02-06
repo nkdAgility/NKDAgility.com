@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/information-sync
 - /resources/blog/information-sync
 tags:
-- windows-mobile-6
+- Customer Satisfaction
+- Agile Product Management
 categories:
 - People and Process
 preview: nakedalm-logo-128-link-6-6.png

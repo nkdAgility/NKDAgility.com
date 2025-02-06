@@ -22,11 +22,12 @@ aliasesFor404:
 - /blog/team-foundation-server-error-28936
 - /resources/blog/team-foundation-server-error-28936
 tags:
-- ml
-- tools
-- visual-studio
-- vs2005
+- Deployment Strategies
+- Change Management
 preview: metro-visual-studio-2005-128-link-1-1.png
+categories:
+- Install and Configuration
+- Azure DevOps
 
 ---
 Some of my colleagues in New York have been working on deploying Team Foundation Server as a change management system and they ran into a little error while installing to the QA (UAT) environment.

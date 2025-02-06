@@ -22,9 +22,12 @@ aliasesFor404:
 - /blog/recipe-for-team-server-in-a-small-business
 - /resources/blog/recipe-for-team-server-in-a-small-business
 tags:
-- visual-studio
-- vs2005
+- Agile Tools
+- Team Collaboration
 preview: metro-visual-studio-2005-128-link-1-1.png
+categories:
+- Application Lifecycle Management
+- Install and Configuration
 
 ---
 If you have a small company, say 6 to 30 people, you will look at team server and think, cool...But what does it cost.

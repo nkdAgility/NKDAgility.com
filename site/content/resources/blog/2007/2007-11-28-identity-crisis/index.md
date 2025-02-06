@@ -22,9 +22,8 @@ aliasesFor404:
 - /blog/identity-crisis
 - /resources/blog/identity-crisis
 tags:
-- infrastructure
-- off-topic
-- tools
+- Technical Strategy
+- Organisational Change
 categories:
 - Application Lifecycle Management
 preview: nakedalm-logo-128-link-1-1.png

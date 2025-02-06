@@ -26,9 +26,12 @@ aliasesFor404:
 - /blog/found-gdr-bug--at-least-i-think-it-is-
 - /resources/blog/found-gdr-bug-at-least-i-think-it-is
 tags:
-- aggreko
-- tools
+- Technical Debt
+- Agile Software Development
 preview: metro-aggreko-128-link-1-1.png
+categories:
+- Code and Complexity
+- Application Lifecycle Management
 
 ---
 This is not isolated to GDR, but seams to exist in Data Dude as well. If you create the following SQL:

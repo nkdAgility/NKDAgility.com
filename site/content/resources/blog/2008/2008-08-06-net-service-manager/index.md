@@ -26,8 +26,8 @@ aliasesFor404:
 - /blog/-net-service-manager
 - /resources/blog/net-service-manager
 tags:
-- tools
-- wcf
+- Agile Software Development
+- Technical Excellence
 categories:
 - Code and Complexity
 - Application Lifecycle Management

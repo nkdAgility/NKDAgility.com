@@ -30,10 +30,8 @@ aliasesFor404:
 - /blog/silverlight-cream--kinda--but-it-is-interesting-
 - /resources/blog/silverlight-cream-kinda-but-it-is-interesting
 tags:
-- infrastructure
-- silverlight
-- sp2007
-- tools
+- Agile Software Development
+- Lean Startup
 categories:
 - News and Reviews
 preview: nakedalm-logo-128-link-1-1.png

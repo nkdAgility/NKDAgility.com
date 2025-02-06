@@ -26,7 +26,8 @@ aliasesFor404:
 - /blog/experts-exchange-hell---the-slowest-site-in-the-world-
 - /resources/blog/experts-exchange-hell-the-slowest-site-in-the-world
 tags:
-- fail
+- Customer Satisfaction
+- Site Reliability
 categories:
 - News and Reviews
 preview: nakedalm-logo-128-link-3-3.png

@@ -24,6 +24,9 @@ aliasesFor404:
 categories:
 - Products and Books
 preview: nakedalm-logo-128-link-1-1.png
+tags:
+- Featured
+- Agile Books
 
 ---
 My favourite author, David Webber, has an interview on you tube.

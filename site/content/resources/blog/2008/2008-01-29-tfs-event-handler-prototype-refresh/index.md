@@ -26,15 +26,8 @@ aliasesFor404:
 - /blog/tfs-event-handler-(prototype)-refresh
 - /resources/blog/tfs-event-handler-prototype-refresh
 tags:
-- code
-- infrastructure
-- tfs
-- tfs2008
-- tfs-event-handler
-- tools
-- visual-studio
-- vs2008
-- wit
+- Agile Software Development
+- Continuous Improvement
 categories:
 - Application Lifecycle Management
 - Install and Configuration

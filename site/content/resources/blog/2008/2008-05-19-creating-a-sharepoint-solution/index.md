@@ -22,11 +22,8 @@ aliasesFor404:
 - /blog/creating-a-sharepoint-solution
 - /resources/blog/creating-a-sharepoint-solution
 tags:
-- develop
-- moss2007
-- sharepoint
-- sp2007
-- tools
+- Agile Software Development
+- Test Driven Development
 categories:
 - Application Lifecycle Management
 preview: metro-sharepoint-128-link-1-1.png

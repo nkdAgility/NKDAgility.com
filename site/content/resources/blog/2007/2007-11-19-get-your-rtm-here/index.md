@@ -26,8 +26,8 @@ aliasesFor404:
 - /blog/get-your-rtm-here-
 - /resources/blog/get-your-rtm-here
 tags:
-- visual-studio
-- vs2008
+- Agile Software Development
+- Continuous Delivery
 categories:
 - Application Lifecycle Management
 - News and Reviews

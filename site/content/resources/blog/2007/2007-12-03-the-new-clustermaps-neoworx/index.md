@@ -26,7 +26,8 @@ aliasesFor404:
 - /blog/the-new-clustermaps--neoworx
 - /resources/blog/the-new-clustermaps-neoworx
 tags:
-- wpf
+- Agile Product Discovery
+- Technical Strategy
 categories:
 - Discovery and Learning
 preview: nakedalm-logo-128-link-1-1.png

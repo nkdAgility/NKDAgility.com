@@ -22,11 +22,8 @@ aliasesFor404:
 - /blog/festive-holiday-studying
 - /resources/blog/festive-holiday-studying
 tags:
-- sharepoint
-- sp2007
-- spf2010
-- wpf
-- xbox
+- Agile Software Development
+- Continuous Learning
 categories:
 - Discovery and Learning
 preview: metro-xbox-360-link-3-3.png

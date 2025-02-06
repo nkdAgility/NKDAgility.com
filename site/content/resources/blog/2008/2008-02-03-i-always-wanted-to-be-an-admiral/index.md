@@ -26,8 +26,11 @@ aliasesFor404:
 - /blog/i-always-wanted-to-be-an-admiral-
 - /resources/blog/i-always-wanted-to-be-an-admiral
 categories:
-- me
+- Personal
 preview: nakedalm-logo-128-link-2-2.png
+tags:
+- Featured
+- Personal
 
 ---
 [Which Battlestar Galactica Character Are You?  

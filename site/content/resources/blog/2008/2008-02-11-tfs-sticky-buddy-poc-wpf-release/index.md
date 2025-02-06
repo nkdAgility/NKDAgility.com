@@ -26,15 +26,8 @@ aliasesFor404:
 - /blog/tfs-sticky-buddy-poc-(wpf)-release
 - /resources/blog/tfs-sticky-buddy-poc-wpf-release
 tags:
-- infrastructure
-- tfs
-- tfs2005
-- tfs2008
-- tfs-sticky-buddy
-- tools
-- visual-studio
-- vs2008
-- wpf
+- Agile Software Development
+- Agile Tools
 categories:
 - Application Lifecycle Management
 - Products and Books

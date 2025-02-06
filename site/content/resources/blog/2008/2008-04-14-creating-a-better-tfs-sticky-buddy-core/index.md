@@ -26,12 +26,8 @@ aliasesFor404:
 - /blog/creating-a-better-tfs-sticky-buddy-(core)
 - /resources/blog/creating-a-better-tfs-sticky-buddy-core
 tags:
-- code
-- infrastructure
-- tfs-sticky-buddy
-- tools
-- wit
-- wpf
+- Agile Software Development
+- Technical Excellence
 categories:
 - Azure DevOps
 preview: metro-binary-vb-128-link-2-2.png

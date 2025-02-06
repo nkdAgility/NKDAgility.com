@@ -26,13 +26,12 @@ aliasesFor404:
 - /blog/tfs-error--msb4018-the--buildshadowtask--task-failed-unexpectedly
 - /resources/blog/tfs-error-msb4018-the-buildshadowtask-task-failed-unexpectedly
 tags:
-- tfs-build
-- tfs
-- tfs2008
-- tools
-- visual-studio
-- vs2005
+- Technical Debt
+- Automated Testing
 preview: metro-visual-studio-2005-128-link-1-1.png
+categories:
+- Application Lifecycle Management
+- Azure DevOps
 
 ---
 There seams to be a problem in MSBuild when you add an “Accessor” as part of a Unit Test project.

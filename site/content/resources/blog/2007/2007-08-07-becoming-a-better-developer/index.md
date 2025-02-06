@@ -26,9 +26,8 @@ aliasesFor404:
 - /blog/becoming-a-better-developer---
 - /resources/blog/becoming-a-better-developer
 tags:
-- dyslexia
-- ml
-- tools
+- Technical Mastery
+- Continuous Learning
 categories:
 - Discovery and Learning
 preview: metro-merilllynch-128-link-1-1.png

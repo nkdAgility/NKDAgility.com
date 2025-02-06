@@ -22,11 +22,8 @@ aliasesFor404:
 - /blog/team-foundation-server-sharepoint-integration
 - /resources/blog/team-foundation-server-sharepoint-integration
 tags:
-- fail
-- sharepoint
-- sp2007
-- tfs
-- tfs2005
+- Agile Tools
+- Team Collaboration
 categories:
 - Azure DevOps
 preview: metro-visual-studio-2005-128-link-1-1.png

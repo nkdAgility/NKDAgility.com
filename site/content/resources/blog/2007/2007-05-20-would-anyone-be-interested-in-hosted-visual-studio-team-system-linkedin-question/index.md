@@ -26,9 +26,12 @@ aliasesFor404:
 - /blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-(linkedin-question)
 - /resources/blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
 tags:
-- tfs
-- tfs2008
+- Agile Tools
+- Application Lifecycle Management
 preview: metro-visual-studio-2005-128-link-1-1.png
+categories:
+- Application Lifecycle Management
+- Azure DevOps
 
 ---
 View Full Question and Answers: [Would anyone be interested in hosted Visual Studio Team System](http://www.linkedin.com/answers/technology/software-development/TCH_SFT/46649-1363184)

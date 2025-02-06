@@ -22,10 +22,8 @@ aliasesFor404:
 - /blog/naming-your-servers-in-an-enterprise-environment
 - /resources/blog/naming-your-servers-in-an-enterprise-environment
 tags:
-- configuration
-- fail
-- infrastructure
-- tools
+- Technical Strategy
+- Organisational Agility
 categories:
 - Application Lifecycle Management
 preview: nakedalm-logo-128-link-1-1.png

@@ -22,10 +22,8 @@ aliasesFor404:
 - /blog/tfs-event-handler-prototype-configuration-demystified
 - /resources/blog/tfs-event-handler-prototype-configuration-demystified
 tags:
-- code
-- tfs-event-handler
-- tools
-- wit
+- Agile Software Development
+- Agile Tools
 categories:
 - Install and Configuration
 - Code and Complexity

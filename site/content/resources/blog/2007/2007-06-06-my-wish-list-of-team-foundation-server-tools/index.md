@@ -22,10 +22,12 @@ aliasesFor404:
 - /blog/my-wish-list-of-team-foundation-server-tools
 - /resources/blog/my-wish-list-of-team-foundation-server-tools
 tags:
-- visual-studio
-- vs2005
-- wit
+- Agile Tools
+- Application Lifecycle Management
 preview: metro-visual-studio-2005-128-link-1-1.png
+categories:
+- Azure DevOps
+- Practical Techniques and Tooling
 
 ---
 **TFS Event Handler**

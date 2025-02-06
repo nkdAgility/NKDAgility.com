@@ -26,10 +26,11 @@ aliasesFor404:
 - /blog/sync-extension-for-lists-collections-or-whatever
 - /resources/blog/sync-extension-for-listscollections-or-whatever
 tags:
-- code
-- tools
+- Agile Software Development
+- Technical Excellence
 categories:
-- code-and-complexity
+- Code and Complexity
+- Technical Excellence
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

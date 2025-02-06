@@ -22,9 +22,8 @@ aliasesFor404:
 - /blog/installing-tfs-2008-from-scratch
 - /resources/blog/installing-tfs-2008-from-scratch
 tags:
-- sp2007
-- tfs
-- tfs2008
+- Agile Software Development
+- Technical Excellence
 categories:
 - Install and Configuration
 - Application Lifecycle Management

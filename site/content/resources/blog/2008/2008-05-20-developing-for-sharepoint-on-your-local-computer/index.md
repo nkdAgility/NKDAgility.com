@@ -22,15 +22,8 @@ aliasesFor404:
 - /blog/developing-for-sharepoint-on-your-local-computer
 - /resources/blog/developing-for-sharepoint-on-your-local-computer
 tags:
-- develop
-- moss2007
-- sharepoint
-- sp2007
-- spf2010
-- tools
-- visual-studio
-- vs2008
-- wf
+- Agile Software Development
+- Technical Excellence
 categories:
 - Install and Configuration
 preview: metro-visual-studio-2005-128-link-1-1.png

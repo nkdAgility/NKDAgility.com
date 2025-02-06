@@ -28,6 +28,9 @@ aliasesFor404:
 categories:
 - Events and Presentations
 preview: nakedalm-logo-128-link-1-1.png
+tags:
+- Test Driven Development
+- Continuous Integration
 
 ---
 What a fantastic day... Thanks to [Colin Mackay](http://blog.colinmackay.net/) for the fantastic job he did organising this event and I hope that there will be more events like this in Glasgow in the future...

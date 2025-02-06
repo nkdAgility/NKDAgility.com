@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/soapbox-beta
 - /resources/blog/soapbox-beta
 tags:
-- silverlight
-- tools
+- Digital Transformation
+- Agile Methodology
 categories:
 - News and Reviews
 preview: nakedalm-logo-128-link-1-1.png

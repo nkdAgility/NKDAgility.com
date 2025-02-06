@@ -26,10 +26,8 @@ aliasesFor404:
 - /blog/why-do-we-care-about-software-factories-
 - /resources/blog/why-do-we-care-about-software-factories
 tags:
-- code
-- develop
-- patterns
-- practices
+- Agile Software Development
+- Agile Product Discovery
 categories:
 - Discovery and Learning
 preview: nakedalm-logo-128-link-1-1.png

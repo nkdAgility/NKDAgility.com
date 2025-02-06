@@ -28,9 +28,8 @@ aliasesFor404:
 - /blog/team-foundation-server-error-tf30177--team-project-creation-failed---part-2
 - /resources/blog/team-foundation-server-error-tf30177-team-project-creation-failed-part-2
 tags:
-- sharepoint
-- sp2007
-- spf2010
+- Site Reliability
+- Technical Debt
 categories:
 - Azure DevOps
 preview: metro-sharepoint-128-link-1-1.png

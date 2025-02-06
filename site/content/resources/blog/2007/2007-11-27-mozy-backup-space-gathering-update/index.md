@@ -24,6 +24,9 @@ aliasesFor404:
 categories:
 - News and Reviews
 preview: nakedalm-logo-128-link-2-2.png
+tags:
+- Customer Satisfaction
+- Agile Product Discovery
 
 ---
 Well, I currently have two referrals :)

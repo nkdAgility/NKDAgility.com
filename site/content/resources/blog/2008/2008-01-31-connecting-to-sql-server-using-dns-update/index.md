@@ -22,10 +22,8 @@ aliasesFor404:
 - /blog/connecting-to-sql-server-using-dns-update
 - /resources/blog/connecting-to-sql-server-using-dns-update
 tags:
-- configuration
-- infrastructure
-- sp2007
-- tools
+- Technical Excellence
+- Continuous Delivery
 categories:
 - Install and Configuration
 preview: nakedalm-logo-128-link-1-1.png

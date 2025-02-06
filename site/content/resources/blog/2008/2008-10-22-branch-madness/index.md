@@ -26,8 +26,12 @@ aliasesFor404:
 - /blog/branch-madness-
 - /resources/blog/branch-madness
 tags:
-- tools
+- Modern Source Control
+- Agile Software Development
 preview: nakedalm-logo-128-link-2-1.png
+categories:
+- Application Lifecycle Management
+- Azure DevOps
 
 ---
 [![image](images/WherehasMartinbeen_C9BB-image_thumb-1-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-WherehasMartinbeen_C9BB-image_2.png)I know that I have not been posting in a while, and I hope to remedy that. I have been working on getting our internal team up to speed on using [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") as a full ALM tool and not just for source control. I am getting a lot of resistance on creating work items ( as this is a PM’s job !) but we are making progress.

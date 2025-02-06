@@ -22,9 +22,7 @@ aliasesFor404:
 - /blog/another-day-another-codeplex-project
 - /resources/blog/another-day-another-codeplex-project
 tags:
-- moss2007
-- sharepoint
-- sp2007
+- Agile Software Development
 categories:
 - Code and Complexity
 preview: metro-sharepoint-128-link-2-2.png

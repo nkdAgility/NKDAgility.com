@@ -26,8 +26,8 @@ aliasesFor404:
 - /blog/if-you-had-a-choice-
 - /resources/blog/if-you-had-a-choice
 tags:
-- visual-studio
-- vs2008
+- Software Developers
+- Windows
 categories:
 - Install and Configuration
 preview: metro-visual-studio-2005-128-link-1-1.png

@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/team-system-mvp
 - /resources/blog/team-system-mvp
 tags:
-- awards
-- tfs
+- MVP
+- Agile Community
 categories:
 - Application Lifecycle Management
 preview: metro-award-link-1-1.png

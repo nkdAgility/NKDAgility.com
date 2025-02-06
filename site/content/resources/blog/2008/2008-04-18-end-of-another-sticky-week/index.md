@@ -26,9 +26,8 @@ aliasesFor404:
 - /blog/end-of-another-sticky-week---
 - /resources/blog/end-of-another-sticky-week
 tags:
-- tfs-sticky-buddy
-- wit
-- wpf
+- Agile Software Development
+- Agile Tools
 categories:
 - Azure DevOps
 preview: nakedalm-logo-128-link-3-3.png

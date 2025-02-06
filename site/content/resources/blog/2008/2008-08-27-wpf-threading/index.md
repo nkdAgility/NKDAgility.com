@@ -22,11 +22,11 @@ aliasesFor404:
 - /blog/wpf-threading
 - /resources/blog/wpf-threading
 tags:
-- code
-- tools
-- wpf
+- Agile Software Development
+- Technical Excellence
 categories:
-- code-and-complexity
+- Code and Complexity
+- Practical Techniques and Tooling
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

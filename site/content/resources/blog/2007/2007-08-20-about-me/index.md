@@ -22,8 +22,12 @@ aliasesFor404:
 - /blog/about-me
 - /resources/blog/about-me
 categories:
-- me
+- People and Process
+- Organisational Psychology
 preview: nakedalm-logo-128-link-1-1.png
+tags:
+- Featured
+- Personal
 
 ---
 I thought I should take a leaf out of [Scott Dorman's](http://geekswithblogs.net/sdorman/archive/2007/08/15/About.aspx "About Scott Dorman") book and post some information about me:

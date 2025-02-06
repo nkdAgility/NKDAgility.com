@@ -22,9 +22,8 @@ aliasesFor404:
 - /blog/vote-for-your-feature
 - /resources/blog/vote-for-your-feature
 tags:
-- tfs-sticky-buddy
-- wit
-- wpf
+- Customer Feedback Loops
+- Agile Product Discovery
 categories:
 - Agile Product Management
 preview: nakedalm-logo-128-link-1-1.png

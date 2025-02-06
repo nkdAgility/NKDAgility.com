@@ -22,12 +22,8 @@ aliasesFor404:
 - /blog/setting-up-sharepoint-for-the-enterprise
 - /resources/blog/setting-up-sharepoint-for-the-enterprise
 tags:
-- develop
-- infrastructure
-- sharepoint
-- sp2007
-- spf2010
-- tools
+- Deployment Strategies
+- Site Reliability Engineering
 categories:
 - Application Lifecycle Management
 preview: metro-sharepoint-128-link-1-1.png

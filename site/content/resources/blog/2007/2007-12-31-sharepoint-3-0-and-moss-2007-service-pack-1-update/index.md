@@ -22,10 +22,8 @@ aliasesFor404:
 - /blog/sharepoint-3-0-and-moss-2007-service-pack-1-update
 - /resources/blog/sharepoint-3-0-and-moss-2007-service-pack-1-update
 tags:
-- infrastructure
-- sharepoint
-- sp2007
-- tools
+- Technical Excellence
+- Continuous Delivery
 categories:
 - Install and Configuration
 preview: metro-sharepoint-128-link-1-1.png

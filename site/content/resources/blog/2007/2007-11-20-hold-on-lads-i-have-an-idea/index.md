@@ -30,10 +30,8 @@ aliasesFor404:
 - /blog/hold-on-lads--i-have-an-idea-
 - /resources/blog/hold-on-lads-i-have-an-idea
 tags:
-- code
-- infrastructure
-- tfs-sticky-buddy
-- tools
+- Employee Engagement
+- Organisational Agility
 categories:
 - People and Process
 preview: nakedalm-logo-128-link-3-3.png

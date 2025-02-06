@@ -22,11 +22,8 @@ aliasesFor404:
 - /blog/linked-in-vsts-group
 - /resources/blog/linked-in-vsts-group
 tags:
-- linkedin
-- tfs
-- tfs2005
-- tfs2008
-- tfs2010
+- Software Developers
+- Agile Community
 categories:
 - Azure DevOps
 preview: metro-visual-studio-2005-128-link-2-2.png

@@ -22,9 +22,8 @@ aliasesFor404:
 - /blog/creating-a-custom-proxy-class
 - /resources/blog/creating-a-custom-proxy-class
 tags:
-- code
-- service-oriented-architecture
-- tools
+- Agile Software Development
+- Technical Excellence
 categories:
 - Application Lifecycle Management
 - Code and Complexity

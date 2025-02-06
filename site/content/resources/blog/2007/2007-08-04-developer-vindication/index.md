@@ -24,6 +24,9 @@ aliasesFor404:
 categories:
 - People and Process
 preview: nakedalm-logo-128-link-1-1.png
+tags:
+- Employee Engagement
+- Technical Leadership
 
 ---
 The biggest vindication of your .Net developer status would be if Microsoft wanted to employ you! And it happened to me...

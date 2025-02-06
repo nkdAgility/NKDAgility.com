@@ -22,9 +22,8 @@ aliasesFor404:
 - /blog/wakoopa
 - /resources/blog/wakoopa
 tags:
-- answers
-- tfs
-- tfs-sticky-buddy
+- MVP
+- Agile Software Development
 categories:
 - Metrics and Learning
 

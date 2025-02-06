@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/ihandlerfactory
 - /resources/blog/ihandlerfactory
 tags:
-- code
-- tools
+- Technical Excellence
+- Agile Software Development
 categories:
 - Code and Complexity
 preview: metro-binary-vb-128-link-1-1.png

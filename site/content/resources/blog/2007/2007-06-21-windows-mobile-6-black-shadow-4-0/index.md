@@ -26,7 +26,8 @@ aliasesFor404:
 - /blog/windows-mobile-6-black-shadow-(4-0)
 - /resources/blog/windows-mobile-6-black-shadow-4-0
 tags:
-- windows-mobile-6
+- Agile Software Development
+- Customer Feedback Loops
 categories:
 - Install and Configuration
 - Products and Books

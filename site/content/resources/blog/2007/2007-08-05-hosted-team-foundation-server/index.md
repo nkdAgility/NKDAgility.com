@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/hosted-team-foundation-server
 - /resources/blog/hosted-team-foundation-server
 tags:
-- tfs
+- Application Lifecycle Management
+- Agile Tools
 categories:
 - Azure DevOps
 

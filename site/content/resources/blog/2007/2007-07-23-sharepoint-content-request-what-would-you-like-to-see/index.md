@@ -27,6 +27,12 @@ aliasesFor404:
 - /blog/sharepoint-content-request---what-would-you-like-to-see-
 - /sharepoint-content-request
 - /resources/blog/sharepoint-content-request-what-would-you-like-to-see
+categories:
+- Azure DevOps
+- Application Lifecycle Management
+tags:
+- Agile Product Discovery
+- Customer Feedback Loops
 
 ---
 what-would-you-like-to-see-

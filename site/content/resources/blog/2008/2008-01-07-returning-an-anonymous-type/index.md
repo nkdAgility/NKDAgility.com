@@ -26,10 +26,11 @@ aliasesFor404:
 - /blog/returning-an-anonymous-type---
 - /resources/blog/returning-an-anonymous-type
 tags:
-- code
-- process
+- Agile Software Development
+- Technical Excellence
 categories:
-- code-and-complexity
+- Code and Complexity
+- Technical Excellence
 preview: metro-binary-vb-128-link-2-1.png
 
 ---

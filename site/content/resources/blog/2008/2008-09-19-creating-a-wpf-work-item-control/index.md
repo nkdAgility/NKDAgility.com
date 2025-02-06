@@ -22,12 +22,8 @@ aliasesFor404:
 - /blog/creating-a-wpf-work-item-control
 - /resources/blog/creating-a-wpf-work-item-control
 tags:
-- code
-- codeproject
-- tfs
-- tfs2008
-- tools
-- wpf
+- Agile Software Development
+- Agile Tools
 categories:
 - Code and Complexity
 - Application Lifecycle Management

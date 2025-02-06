@@ -26,12 +26,8 @@ aliasesFor404:
 - /blog/the-sharepoint-plan--database-move-headache-mitigation
 - /resources/blog/the-sharepoint-plan-database-move-headache-mitigation
 tags:
-- configuration
-- fail
-- infrastructure
-- sharepoint
-- sp2007
-- tools
+- Deployment Strategies
+- Change Management
 categories:
 - Application Lifecycle Management
 preview: metro-sharepoint-128-link-1-1.png

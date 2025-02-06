@@ -22,10 +22,8 @@ aliasesFor404:
 - /blog/heat-itsm
 - /resources/blog/heat-itsm
 tags:
-- tfs
-- tfs2008
-- tools
-- wpf
+- Agile Tools
+- Application Lifecycle Management
 categories:
 - Application Lifecycle Management
 - Azure DevOps

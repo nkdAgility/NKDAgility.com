@@ -26,9 +26,8 @@ aliasesFor404:
 - /blog/falling-of-the-tfs-rehabilitation-wagon---
 - /resources/blog/falling-of-the-tfs-rehabilitation-wagon
 tags:
-- sp2007
-- tfs
-- tfs2005
+- Agile Tools
+- Agile Project Management
 categories:
 - Azure DevOps
 - Install and Configuration

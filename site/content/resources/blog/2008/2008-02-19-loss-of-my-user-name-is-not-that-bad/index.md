@@ -26,11 +26,11 @@ aliasesFor404:
 - /blog/loss-of-my-user-name-is-not-that-bad---
 - /resources/blog/loss-of-my-user-name-is-not-that-bad
 tags:
-- code
-- develop
-- wpf
+- Agile Software Development
+- Technical Excellence
 categories:
-- code-and-complexity
+- Code and Complexity
+- Application Lifecycle Management
 preview: metro-binary-vb-128-link-2-2.png
 
 ---

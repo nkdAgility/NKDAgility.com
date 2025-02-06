@@ -22,10 +22,8 @@ aliasesFor404:
 - /blog/tfs-event-handler-gets-3-stars-from-accentient
 - /resources/blog/tfs-event-handler-gets-3-stars-from-accentient
 tags:
-- tfs
-- tfs2008
-- tfs-event-handler
-- wit
+- Agile Community
+- Customer Feedback Loops
 categories:
 - News and Reviews
 - Azure DevOps

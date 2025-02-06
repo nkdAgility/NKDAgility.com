@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/search-just-got-better
 - /resources/blog/search-just-got-better
 tags:
-- dyslexia
-- live
+- Customer Satisfaction
+- Agile Product Discovery
 categories:
 - Products and Books
 - News and Reviews

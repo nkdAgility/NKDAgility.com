@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/interviewing-for-microsoft
 - /resources/blog/interviewing-for-microsoft
 tags:
-- wcf
+- Technical Mastery
+- Agile Software Development
 categories:
 - People and Process
 preview: nakedalm-logo-128-link-1-1.png

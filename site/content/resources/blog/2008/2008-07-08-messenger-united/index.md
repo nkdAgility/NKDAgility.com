@@ -22,9 +22,12 @@ aliasesFor404:
 - /blog/messenger-united
 - /resources/blog/messenger-united
 tags:
-- answers
-- tools
+- Agile Product Discovery
+- Customer Feedback Loops
 preview: nakedalm-logo-128-link-3-3.png
+categories:
+- Application Lifecycle Management
+- News and Reviews
 
 ---
 Although the site is a little skewed today…

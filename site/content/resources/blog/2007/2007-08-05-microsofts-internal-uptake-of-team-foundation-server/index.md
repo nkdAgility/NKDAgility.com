@@ -26,10 +26,8 @@ aliasesFor404:
 - /blog/microsoft's-internal-uptake-of-team-foundation-server
 - /resources/blog/microsofts-internal-uptake-of-team-foundation-server
 tags:
-- tfs
-- tfs2008
-- visual-studio
-- vs2008
+- Agile Tools
+- Team Collaboration
 categories:
 - Azure DevOps
 - News and Reviews

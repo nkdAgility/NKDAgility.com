@@ -26,11 +26,8 @@ aliasesFor404:
 - /blog/what-to-do-when-you-dont-have-a-working-computer-
 - /resources/blog/what-to-do-when-you-dont-have-a-working-computer
 tags:
-- answers
-- visual-studio
-- vs2005
-- vs2008
-- windows-mobile-6
+- Remote Working
+- Agile Software Development
 categories:
 - Install and Configuration
 preview: metro-visual-studio-2005-128-link-1-1.png

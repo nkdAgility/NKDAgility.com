@@ -26,9 +26,8 @@ aliasesFor404:
 - /blog/waffling-on-sharepoint---
 - /resources/blog/waffling-on-sharepoint
 tags:
-- moss2007
-- sharepoint
-- sp2007
+- Technical Debt
+- Value Delivery
 categories:
 - People and Process
 preview: metro-sharepoint-128-link-1-1.png

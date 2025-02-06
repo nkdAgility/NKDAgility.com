@@ -28,6 +28,9 @@ aliasesFor404:
 categories:
 - Discovery and Learning
 preview: nakedalm-logo-128-link-2-2.png
+tags:
+- Featured
+- Personal
 
 ---
 Or anywhere you can put some HTML. This is really easy and allows you to have something like:

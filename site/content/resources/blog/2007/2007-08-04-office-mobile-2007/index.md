@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/office-mobile-2007
 - /resources/blog/office-mobile-2007
 tags:
-- answers
-- windows-mobile-6
+- Agile Software Development
+- Product Discovery
 categories:
 - Products and Books
 - Install and Configuration

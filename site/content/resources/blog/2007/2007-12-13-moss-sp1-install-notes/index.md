@@ -22,13 +22,11 @@ aliasesFor404:
 - /blog/moss-sp1-install-notes
 - /resources/blog/moss-sp1-install-notes
 tags:
-- infrastructure
-- sharepoint
-- sp2007
-- spf2010
-- tools
+- Deployment Strategies
+- Continuous Delivery
 categories:
-- install-and-configuration
+- Install and Configuration
+- News and Reviews
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

@@ -26,12 +26,8 @@ aliasesFor404:
 - /blog/tfs-event-handler-in--net-3-5
 - /resources/blog/tfs-event-handler-in-net-3-5
 tags:
-- code
-- ml
-- service-oriented-architecture
-- tfs-event-handler
-- tools
-- wit
+- Agile Software Development
+- Technical Excellence
 categories:
 - Application Lifecycle Management
 - Azure DevOps

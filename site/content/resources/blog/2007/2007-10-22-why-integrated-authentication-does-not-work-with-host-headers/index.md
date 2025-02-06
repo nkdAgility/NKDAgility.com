@@ -26,7 +26,8 @@ aliasesFor404:
 - /blog/why-integrated-authentication-does-not-work-with-host-headers-
 - /resources/blog/why-integrated-authentication-does-not-work-with-host-headers
 tags:
-- tfs
+- Technical Debt
+- Site Reliability
 categories:
 - Install and Configuration
 

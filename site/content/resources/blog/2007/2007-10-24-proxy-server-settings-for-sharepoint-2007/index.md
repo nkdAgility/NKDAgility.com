@@ -22,9 +22,8 @@ aliasesFor404:
 - /blog/proxy-server-settings-for-sharepoint-2007
 - /resources/blog/proxy-server-settings-for-sharepoint-2007
 tags:
-- sharepoint
-- sp2007
-- spf2010
+- Technical Excellence
+- Agile Software Development
 categories:
 - Install and Configuration
 preview: metro-sharepoint-128-link-1-1.png

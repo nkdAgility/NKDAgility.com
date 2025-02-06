@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/xbox-live-to-twitter
 - /resources/blog/xbox-live-to-twitter
 tags:
-- xbox
+- Agile Software Development
+- Technical Excellence
 categories:
 - Code and Complexity
 preview: metro-xbox-360-link-1-1.png

@@ -26,10 +26,8 @@ aliasesFor404:
 - /blog/why-i-think-vb-net-is-a-better-choice-than-c-
 - /resources/blog/why-i-think-vb-net-is-a-better-choice-than-c
 tags:
-- dyslexia
-- tools
-- visual-basic
-- visual-basic-9
+- Technical Excellence
+- Agile Software Development
 categories:
 - Code and Complexity
 preview: nakedalm-logo-128-link-1-1.png

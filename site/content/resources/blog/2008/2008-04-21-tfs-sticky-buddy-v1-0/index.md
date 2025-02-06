@@ -22,12 +22,8 @@ aliasesFor404:
 - /blog/tfs-sticky-buddy-v1-0
 - /resources/blog/tfs-sticky-buddy-v1-0
 tags:
-- tfs
-- tfs-sticky-buddy
-- visual-studio
-- vs2008
-- wit
-- wpf
+- Agile Software Development
+- Agile Tools
 categories:
 - Azure DevOps
 - Application Lifecycle Management

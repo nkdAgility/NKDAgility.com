@@ -28,9 +28,8 @@ aliasesFor404:
 - /blog/xbox-live-to-twitter-update-(v0-2-3)
 - /resources/blog/xbox-live-to-twitter-update-v0-2-3
 tags:
-- code
-- live
-- xbox
+- Agile Software Development
+- Continuous Improvement
 categories:
 - Application Lifecycle Management
 preview: metro-xbox-360-link-1-1.png

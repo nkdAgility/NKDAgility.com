@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/its-that-time-again
 - /resources/blog/its-that-time-again
 tags:
-- sp2007
+- Entrepreneurship
+- Software Developers
 categories:
 - People and Process
 preview: nakedalm-logo-128-link-1-1.png

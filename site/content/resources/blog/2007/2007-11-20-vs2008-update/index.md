@@ -22,14 +22,8 @@ aliasesFor404:
 - /blog/vs2008-update
 - /resources/blog/vs2008-update
 tags:
-- code
-- infrastructure
-- moss2007
-- process
-- sharepoint
-- sp2007
-- visual-studio
-- vs2008
+- Agile Software Development
+- Modern Source Control
 categories:
 - Install and Configuration
 - Application Lifecycle Management

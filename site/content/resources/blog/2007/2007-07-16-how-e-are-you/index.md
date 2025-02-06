@@ -26,8 +26,8 @@ aliasesFor404:
 - /blog/how-'e'-are-you-
 - /resources/blog/how-e-are-you
 tags:
-- moss2007
-- sharepoint
+- Featured
+- Personal
 categories:
 - Discovery and Learning
 preview: metro-sharepoint-128-link-1-1.png

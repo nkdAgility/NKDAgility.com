@@ -26,11 +26,8 @@ aliasesFor404:
 - /blog/blogging-about---
 - /resources/blog/blogging-about
 tags:
-- tfs
-- tfs2008
-- visual-studio
-- vs2008
-- wcf
+- Personal
+- Agile Software Development
 categories:
 - Discovery and Learning
 preview: metro-visual-studio-2005-128-link-1-1.png
