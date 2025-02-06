@@ -61,7 +61,7 @@ $catalogString
 4. If a current category is valid, keep it. Otherwise, refine it to a more appropriate one.
 5. Ensure accuracy by cross-referencing the category descriptions.
 
-Return the updated categories as a comma-separated list.
+ONLY Return the updated categories as a comma-separated list with no additional characters.
 "@
 
     # Get a response from OpenAI
