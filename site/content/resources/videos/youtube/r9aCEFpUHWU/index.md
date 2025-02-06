@@ -23,24 +23,29 @@ preview: https://i.ytimg.com/vi/r9aCEFpUHWU/maxresdefault.jpg
 duration: 466
 isShort: false
 tags:
-- Agile
-- Scrum
-- Scrum Master
-- Competence
-- Scrum training
-- Agile consulting
-- Agile coaching
-- Project Management
-- Product Management
-- Product Development
-- Agile project management
-- Agile product management
+- Team Collaboration
+- Continuous Improvement
+- Technical Excellence
+- Scrum Team
+- Value Delivery
+- Agile Product Discovery
+- Evidence Based Improvement
+- Lean Principles
+- Agile Software Development
+- Agile Transformation
+- Employee Engagement
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Technical Excellence
+- Value Delivery
+- Organisational Agility
 
 ---
  The Importance of Competent Scrum Masters in Driving Team Success

@@ -26,19 +26,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Team Collaboration
-- Team Motivation
-- Agile Leadership
-- Continuous Improvement
-- Psychological Safety
-- Scrum Team
-- Agile Values and Principles
-- Coaching
-- Self Organisation
-- No Micromanagement
-- Agile Project Management
-- Agile Methodology
-- Team Performance
+- Scrum Master
 resourceTypes:
 - video
 categories:

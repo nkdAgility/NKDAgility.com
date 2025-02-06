@@ -24,14 +24,30 @@ preview: https://i9.ytimg.com/vi/tKEl0YVeWv4/maxresdefault.jpg?sqp=CKDMmrwG&rs=A
 duration: 477
 isShort: false
 tags:
-- Deployment frequency
-- Devops
-- Developers
+- Automated Testing
+- Continuous Integration
+- Continuous Delivery
+- Azure DevOps
+- Agile Software Development
+- Technical Excellence
+- Value Delivery
+- Site Reliability
+- Agile Product Management
+- Customer Feedback Loops
+- Lean Thinking
+- Agile Digital Tools
+- Evidence Based Management
 resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+categories:
+- AI and Automation in Agility
+- DevOps
+- Technical Excellence
+- Value Delivery
+- Application Lifecycle Management
 
 ---
  Automate Everything: Building Reliable, Fast, and Scalable Products

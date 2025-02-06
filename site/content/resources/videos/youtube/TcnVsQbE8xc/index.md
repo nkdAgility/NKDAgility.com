@@ -28,16 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- PSM II
-- Professional Scrum Master II
-- Advanced Professional Scrum Master
-- Scrum Training
-- Scrum
-- Scrum.Org
-- Scrum Master Course
-- Scrum Master certification
+- Scrum Master
+- Scrum Team
+- Agile Product Management
+- Team Collaboration
+- Agile Coaching
+- Continuous Improvement
+- Agile Product Discovery
+- Agile Values and Principles
+- Team Motivation
+- Organisational Agility
+- Change Management
+- Agile Transformation
+- Leadership Training
+- Employee Engagement
 resourceTypes:
 - video
+categories:
+- Scrum
+- Organisational Agility
+- People and Process
+- Agile Product Management
+- Value Delivery
 
 ---
 ## 🕒 Think a Minute Isn’t Much?  

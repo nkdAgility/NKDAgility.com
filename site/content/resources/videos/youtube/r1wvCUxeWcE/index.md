@@ -23,14 +23,30 @@ preview: https://i.ytimg.com/vi/r1wvCUxeWcE/maxresdefault.jpg
 duration: 57
 isShort: true
 tags:
-- Kanban
-- Kanban boards
+- Kanban Theory
+- Kanban Process
+- Scaling Kanban
+- Flow Efficiency
+- Value Delivery
+- Lean Thinking
+- Agile Planning
+- Systems Thinking
+- Continuous Improvement
+- Agile Tools
+- Team Collaboration
+- Agile Methodology
+- Agile Product Management
+- Agile Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Kanban
+- Value Stream Management
+- Flow Efficiency
 
 ---
  Kanban Boards. Visit https://www.nkdagility.com #agile #kanban #agileprojectmanagement #agileproductdevelopment 

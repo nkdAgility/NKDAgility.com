@@ -28,21 +28,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Backlog
-- Scrum Product Management
-- Backlog Refinement
-- Agile Product Ownership
-- Value Prioritisation
-- Continuous Improvement
-- Agile Product Discovery
-- Team Collaboration
-- Accountability
-- Agile Planning
-- Definition of Ready
-- Risk Management
-- Value Delivery
-- Learning and Development
-- Agile Software Development
+- Customer Feedback Loops
 resourceTypes:
 - video
 categories:

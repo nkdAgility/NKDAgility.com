@@ -43,11 +43,7 @@ resourceTypes:
 - video
 layout: video
 categories:
-- Empiricism
-- Scrum
-- Metrics and Learning
-- Organisational Agility
-- Value Delivery
+- Transparency and Accountability
 
 ---
 ## The Keystone of Lean-Agile: Empiricism Unravelled 🧬 

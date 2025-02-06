@@ -28,8 +28,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Systems Thinking
-- Cognitive Bias
+- Agile Coaching
+- Discovery and Learning
+- Team Motivation
+- Agile Product Discovery
+- Continuous Learning
+- Psychological Safety
+- Agile Values and Principles
+- Evidence Based Improvement
+- Agile Transformation
+- Team Collaboration
+- Change Management
+- Agile Methodology
+- Agile Community
+- Agile Digital Tools
 resourceTypes:
 - video
 categories:

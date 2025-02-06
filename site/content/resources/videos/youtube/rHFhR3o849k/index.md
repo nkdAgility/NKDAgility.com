@@ -23,17 +23,29 @@ preview: https://i.ytimg.com/vi/rHFhR3o849k/maxresdefault.jpg
 duration: 237
 isShort: false
 tags:
-- Scrum
-- Scrum Master
-- Agile
-- Agile Product Development
-- Scrum Master traits and characteristics
+- Scrum Team
+- Agile Coaching
+- Team Collaboration
+- Team Motivation
+- Agile Project Management
+- Agile Values and Principles
+- Continuous Improvement
+- Employee Engagement
+- Agile Transformation
+- Scrum Product Development
+- Agile Leadership
+- Agile Methodology
+- Technical Excellence
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Organisational Psychology
 
 ---
  There is a significant difference between a #projectmanager and a #scrummaster, and it's often hard for people to understand how a scrum master operates through influence, coaching, and mentoring rather than leveraging the authority and power of a traditional #projectmanager.

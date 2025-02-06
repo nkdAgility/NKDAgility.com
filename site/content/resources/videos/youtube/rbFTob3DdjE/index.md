@@ -23,18 +23,25 @@ preview: https://i.ytimg.com/vi/rbFTob3DdjE/maxresdefault.jpg
 duration: 39
 isShort: true
 tags:
-- Scrum
-- Scrum Master
-- Scrum master tools
-- Scrum tools
-- Scrum software
-- Scrum resources
+- Team Collaboration
+- Agile Tools
+- Digital Transformation
+- Collaboration Tools
+- Agile Community
+- Scrum Team
+- Working Agreements
+- Continuous Improvement
+- Agile Digital Tools
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scrum
+- Practical Techniques and Tooling
+- People and Process
 
 ---
  #shorts #shortsvideo #shortvideo 5 tools that a #scrummaster loves. #scrum tool 2

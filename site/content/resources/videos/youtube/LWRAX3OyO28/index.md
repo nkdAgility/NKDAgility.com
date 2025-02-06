@@ -24,20 +24,8 @@ preview: https://i9.ytimg.com/vi/LWRAX3OyO28/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 332
 isShort: false
 tags:
-- Continuous Delivery
-- Deployment Frequency
-- Automated Testing
-- DevOps
-- Customer Feedback Loops
-- Agile Tools
-- Continuous Improvement
-- Technical Excellence
-- Value Delivery
-- Lean Principles
-- Agile Software Development
-- Feedback Loops
-- Risk Management
-- Systems Thinking
+- Agile Product Management
+- Azure DevOps
 sitemap:
   filename: sitemap.xml
   priority: 0.4

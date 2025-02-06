@@ -30,15 +30,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Agile Coach
-- Agile Consultant
-- Agile Coaching
-- Agile Consulting
-- Agile Coaching engagement
-- Agile Consulting Engagement
+- Change Management
+- Agile Mindset
+- Team Motivation
+- Organisational Change
+- Continuous Improvement
+- Agile Project Management
+- Agile Leadership
+- Team Collaboration
+- Discovery and Learning
+- Employee Engagement
+- Agile Transformation
+- Agile Values and Principles
+- Psychological Safety
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Discovery and Learning
+- Resilience and Change
+- Agile Product Management
 
 ---
 **One thing a client can do to ensure a successful Agile consulting engagement**

@@ -23,14 +23,31 @@ preview: https://i.ytimg.com/vi/RCJsST0xBCE/maxresdefault.jpg
 duration: 2399
 isShort: false
 tags:
-- Azure DevOps
-- Migration
+- Agile Tools
+- Agile Software Development
+- Continuous Integration
+- Continuous Delivery
+- DevOps
+- Agile Project Management
+- Technical Excellence
+- Agile Product Management
+- Value Delivery
+- Agile Planning Tools
+- Scrum Master
+- Scrum Team
+- Evidence Based Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Azure DevOps
+- Practical Techniques and Tooling
+- Value Delivery
+- Application Lifecycle Management
+- DevOps
 
 ---
  Check out the latest version: https://youtu.be/Qt1Ywu_KLrc

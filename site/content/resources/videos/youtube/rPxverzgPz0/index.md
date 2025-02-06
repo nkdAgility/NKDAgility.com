@@ -30,16 +30,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- APS
-- Applying Professional Scrum
-- Scrum Training
-- Scrum Course
-- Scrum Certification
-- Scrum.Org
-- Agile
-- Agile Scrum Training
+- Scrum Team
+- Organisational Change
+- Agile Coaching
+- Continuous Improvement
+- Agile Product Management
+- Scrum Product Development
+- Team Motivation
+- Agile Project Management
+- Agile Values and Principles
+- Organisational Agility
+- Change Management
+- Agile Transformation
+- Employee Engagement
+- Technical Excellence
 resourceTypes:
 - video
+categories:
+- Scrum
+- Organisational Agility
+- People and Process
+- Value Delivery
+- Resilience and Change
 
 ---
 **Would you recommend the APS course to a newbie scrum team, and Why?**

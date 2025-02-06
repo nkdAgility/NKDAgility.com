@@ -23,18 +23,9 @@ preview: https://i.ytimg.com/vi/LI6G1awAUyU/maxresdefault.jpg
 duration: 370
 isShort: false
 tags:
-- Team Collaboration
-- Agile Project Management
-- Agile Product Development
-- Continuous Improvement
-- Customer Feedback Loops
-- Agile Transformation
-- Team Motivation
-- Organisational Agility
-- Agile Values and Principles
-- Agile Community
-- Agile Software Development
-- Change Management
+- DevOps
+- Agile Coaching
+- Scrum Team
 sitemap:
   filename: sitemap.xml
   priority: 0.4

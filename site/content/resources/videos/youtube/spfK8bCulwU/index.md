@@ -23,22 +23,31 @@ preview: https://i.ytimg.com/vi/spfK8bCulwU/maxresdefault.jpg
 duration: 183
 isShort: false
 tags:
-- PSPO
-- PSPO-A
-- Professional Scrum Product Owner
-- Professional Scrum Product Owner - Advanced
-- Scrum.Org
-- Scrum Training
-- Product Owner
-- Product Ownership
-- Product Manager
-- Product Management
+- Entrepreneurship
+- Scrum Product Management
+- Agile Product Management
+- Agile Product Discovery
+- Agile Training
+- Agile Coaching
+- Agile Values and Principles
+- Continuous Improvement
+- Agile Digital Tools
+- Lean Startup
+- Agile Methodology
+- Team Collaboration
+- Customer Feedback Loops
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Agile Product Management
+- Scrum
+- Product Delivery
+- Organisational Agility
+- People and Process
 
 ---
  A great #productowner is a game-changer in the organization because they help shape and articulate the product vision, mission, and goals. People like Steve Jobs who create and sustain a standard of #productdevelopment that captures the imagination of an entire generation.

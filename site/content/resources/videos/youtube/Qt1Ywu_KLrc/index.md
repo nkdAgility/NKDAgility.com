@@ -23,14 +23,33 @@ preview: https://i.ytimg.com/vi/Qt1Ywu_KLrc/maxresdefault.jpg
 duration: 2020
 isShort: false
 tags:
-- AzureDevOps
-- Azure DevOps Migration Tools
+- Azure DevOps
+- Agile Tools
+- Agile Software Development
+- Continuous Delivery
+- Agile Project Management
+- Agile Product Management
+- Technical Excellence
+- Agile Product Discovery
+- Value Stream Management
+- DevOps
+- Agile Planning Tools
+- Agile Transformation
+- Evidence Based Management
+- Customer Feedback Loops
+- Agile Digital Tools
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Install and Configuration
+- Azure DevOps
+- Practical Techniques and Tooling
+- Value Delivery
+- Application Lifecycle Management
 
 ---
  The Azure DevOps Migration Tools allow you to bulk edit and migrate data between Team Projects on both Microsoft Team Foundation Server (TFS) and Azure DevOps Services. Take a look at the documentation to find out how. This project is published as code on GitHub as well as a Winget package a nkdAgility.AzureDevOpsMigrationTools.

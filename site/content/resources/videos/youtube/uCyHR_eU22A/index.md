@@ -28,30 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
+- Scrum Product Management
+- Sprint Planning Workshop
+- Scrum Team
+- Value Prioritisation
+- Agile Planning
+- Team Collaboration
+- Agile Product Ownership
+- Definition of Done
+- Continuous Improvement
+- Agile Software Development
+- Technical Excellence
+- Evidence Based Management
+- Agile Values and Principles
 resourceTypes:
 - video
+categories:
+- Scrum
+- Agile Product Management
+- Value Delivery
+- People and Process
+- Technical Excellence
 
 ---
 ## Navigating Sprint Backlog Selection

@@ -29,6 +29,12 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- Systems Thinking
+- Resilience and Change
+- Events and Presentations
+- Market Adaptability
 
 ---
  [Watch on Youtube](https://www.youtube.com/watch?v=Sa7uw3CX_yE)

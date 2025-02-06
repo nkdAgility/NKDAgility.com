@@ -23,25 +23,30 @@ preview: https://i.ytimg.com/vi/r2G-NrSIj2k/maxresdefault.jpg
 duration: 116
 isShort: false
 tags:
-- Code reviews
-- Software engineering
-- Software development
-- Product Development
-- Project Management
-- Agile
-- Agile product development
-- Agile project management
-- Agile product management
-- Product management
-- Product manager
-- Project manager
-- Product owner
-- Scrum master
+- Code Reviews for Quality Assurance
+- Continuous Delivery
+- Technical Excellence
+- Definition of Done
+- Automated Testing
+- Agile Software Development
+- DevOps
+- Agile Software Engineering
+- Test Driven Development
+- Continuous Integration
+- Agile Values and Principles
+- Team Collaboration
+- Evidence Based Improvement
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
+categories:
+- Code and Complexity
+- Technical Excellence
+- Practical Techniques and Tooling
+- DevOps
+- Value Delivery
 
 ---
 # Rethinking Code Reviews: From Manual Checks to Pre-Reviewed Excellence

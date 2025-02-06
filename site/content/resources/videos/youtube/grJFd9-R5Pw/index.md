@@ -28,21 +28,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- Scrum Team
-- Scrum Product Management
-- Scrum Values
-- Agile Problem Solving
-- Continuous Improvement
-- Team Collaboration
-- Effective problem-solving capabilities
-- Organisational Agility
-- Agile Project Management
-- Agile Transformation
-- Leadership Training
-- Value Delivery
-- Self Organisation
-- Evidence Based Improvement
+- Evidence Based Management
 resourceTypes:
 - video
 categories:

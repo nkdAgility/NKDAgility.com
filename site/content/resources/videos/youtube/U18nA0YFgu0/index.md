@@ -28,17 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- '#scrum'
-- '#agile'
-- '#agilecoach'
-- '#scrumorg'
-- '#agileconsultant'
-- '#agiletraining'
-- '#devops'
-- '#agileproductdevelopment'
-- '#productdevelopment'
+- Accountability
+- Organisational Culture
+- Team Collaboration
+- Agile Leadership
+- Continuous Improvement
+- Psychological Safety
+- Team Motivation
+- Agile Problem Solving
+- Scrum Team
+- Sprint Review
+- Agile Values and Principles
+- Change Management
+- Employee Engagement
+- DevOps
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Transparency and Accountability
+- Organisational Psychology
 
 ---
 **Addressing Wrath in Agile Teams: From Blame to Accountability 🌪️🛠️** 

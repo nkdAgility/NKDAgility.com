@@ -28,19 +28,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Product Ownership
-- Scrum Product Management
-- Team Collaboration
-- Customer Feedback Loops
-- Agile Product Discovery
-- Team Motivation
-- Value Delivery
-- Product Backlog
-- Sprint Review
-- Continuous Improvement
-- Stakeholder Engagement
-- Agile Strategy
-- Employee Engagement
+- Agile Planning
+- Agile Leadership
+- Marketing Strategy
+- Emotional Engagement
 resourceTypes:
 - video
 categories:

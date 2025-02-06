@@ -29,6 +29,26 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Events and Presentations
+- Organisational Agility
+- Agile Product Management
+tags:
+- Leadership Training
+- Agile Leadership
+- Agile Project Management
+- Scrum Team
+- Scrum Product Development
+- Agile Methodology
+- Agile Certification
+- Agile Values and Principles
+- Continuous Learning
+- Remote Working
+- Agile Community
+- Agile Coaching
+- Agile Scaling
+- Professional Scrum
+- Agile Software Development
 
 ---
  This Professional Agile Leadership workshop is open to the public and delivered over 2 full days from  23 – 24 July 2020 at:

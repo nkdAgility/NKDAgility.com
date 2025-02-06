@@ -28,20 +28,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Team
-- Scrum Product Management
-- Product Backlog
-- Customer Feedback Loops
-- Team Collaboration
-- Agile Planning
-- Employee Engagement
-- Continuous Improvement
-- Transparency
-- Agile Product Ownership
-- Value Delivery
-- Agile Product Discovery
-- Stakeholder Engagement
-- Definition of Done
+- Sprint Review
+- Agile Values and Principles
 resourceTypes:
 - video
 categories:

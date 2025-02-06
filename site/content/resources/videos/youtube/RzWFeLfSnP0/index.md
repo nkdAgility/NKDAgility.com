@@ -29,6 +29,23 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Value Delivery
+- Organisational Agility
+- Lean
+- Metrics and Learning
+- Events and Presentations
+tags:
+- Definition of Done
+- Agile Coaching
+- Agile Planning
+- Agile Product Management
+- Team Collaboration
+- Continuous Improvement
+- Agile Values and Principles
+- Lean Thinking
+- Agile Transformation
+- Business Agility
 
 ---
  Why is done so important in the Reporting & Data Space?

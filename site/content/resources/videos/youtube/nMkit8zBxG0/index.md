@@ -45,11 +45,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Scrum
-- Sprint Planning
-- Agile Product Management
-- Value Delivery
-- People and Process
+- Kanban
 
 ---
 ## Setting the Tone for Success

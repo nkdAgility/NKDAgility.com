@@ -28,31 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint goal
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
+- Sprint Planning Workshop
+- Scrum Team
+- Scrum Product Management
+- Definition of Ready
+- Definition of Done
+- Agile Planning
+- Team Collaboration
+- Agile Product Ownership
+- Customer Feedback Loops
+- Continuous Improvement
+- Agile Values and Principles
+- Agile Product Discovery
+- Team Motivation
+- Evidence Based Management
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Value Delivery
+- Discovery and Learning
+- Organisational Agility
 
 ---
 ## Deciphering the Sprint Goal Enigma **🎯**  

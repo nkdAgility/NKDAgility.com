@@ -29,6 +29,12 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
+categories:
+- Value Delivery
+- Organisational Agility
+- Discovery and Learning
+- Metrics and Learning
+- People and Process
 
 ---
  Discover how agile practices can significantly enhance project success rates. Dive deep into the empirical model's advantages, including increased visibility, adaptability, reduced risk, and continuous value delivery.

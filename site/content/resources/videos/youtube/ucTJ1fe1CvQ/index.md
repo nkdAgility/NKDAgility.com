@@ -28,17 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- PPDV
-- PPDV course
-- Professional Product Discovery and Validation
-- Product Owner
-- Product Manager
-- Project Manager
-- Product Development
-- Agile Product Development
-- Agile project management
+- Agile Product Discovery
+- Discovery and Learning
+- Experimentation
+- Agile Product Validation
+- Team Collaboration
+- Continuous Learning
+- Evidence Based Management
+- Agile Product Management
+- Value Delivery
+- Customer Feedback Loops
+- Lean Product Development
+- Agile Planning
+- Agile Leadership
+- Product Strategy
 resourceTypes:
 - video
+categories:
+- Discovery and Learning
+- Metrics and Learning
+- People and Process
+- Agile Product Management
+- Value Delivery
 
 ---
 ## **Why the PPDV Course Was Created**

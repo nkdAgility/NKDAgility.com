@@ -28,31 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Vision
+- Value
+- and Validation
+- Scrum Product Management
+- Agile Product Validation
+- Agile Planning
+- Customer Feedback Loops
+- Product Strategy
+- Agile Product Discovery
+- Continuous Improvement
+- Agile Transformation
+- Value Delivery
+- Evidence Based Management
+- Team Collaboration
 resourceTypes:
 - video
+categories:
+- Agile Product Management
+- Value Delivery
+- Discovery and Learning
+- Organisational Agility
+- People and Process
 
 ---
 In the world of Agile, transitioning from traditional project management to product management is an exciting but often challenging journey. For new Product Owners, one of the most crucial lessons to learn is the importance of **Vision, Value, and Validation**. These three pillars fill the vacuum left when we move away from project management frameworks, such as Gantt charts and milestones, that may no longer serve a product-focused organization.

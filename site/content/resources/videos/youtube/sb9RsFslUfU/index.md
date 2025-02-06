@@ -28,14 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- DevOps
-- DevOps Consulting
-- DevOps Consultant
-- Agile
-- Agile Consultant
-- Agile Consulting
+- Agile Coaching
+- Agile Mentoring
+- Agile Community
+- Agile Leadership
+- Agile Product Management
+- Continuous Improvement
+- Technical Mastery
+- Employee Engagement
+- Team Collaboration
+- Change Management
+- Agile Transformation
+- Market Adaptability
+- Value Delivery
+- Agile Values and Principles
 resourceTypes:
 - video
+categories:
+- People and Process
+- Organisational Agility
+- Discovery and Learning
+- DevOps
+- Technical Excellence
 
 ---
 ## From Practitioner to Consultant

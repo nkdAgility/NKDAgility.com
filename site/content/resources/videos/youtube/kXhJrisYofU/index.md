@@ -24,30 +24,14 @@ preview: https://i9.ytimg.com/vi/kXhJrisYofU/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 496
 isShort: false
 tags:
-- Agile Planning
-- Agile Budgeting
-- Business Agility
-- Value Prioritisation
-- Evidence Based Management
-- Agile Strategy
-- Agile Product Discovery
-- Lean Thinking
-- Continuous Improvement
-- Agile Transformation
-- Agile Resource Management
-- Market Adaptability
-- Value Stream Management
+- Agile Product Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
 categories:
-- Organisational Agility
-- Value Delivery
-- Beyond Budgeting
-- Market Adaptability
-- Agile Product Management
+- Value Stream Management
 
 ---
  Beyond Budgeting: Adapting to Modern Product Development | Martin Hinshelwood

@@ -28,20 +28,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Master
-- Scrum Team
-- Governance
-- Agile Product Management
-- Continuous Improvement
-- Value Delivery
-- Organisational Agility
-- Lean Principles
-- Agile Transformation
-- Technical Excellence
-- Evidence Based Management
-- Systems Thinking
-- Accountability
-- Agile Values and Principles
+- Scrum
+- Organisational Change
+- Business Agility
 resourceTypes:
 - video
 categories:

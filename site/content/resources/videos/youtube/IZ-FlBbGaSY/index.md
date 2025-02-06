@@ -41,11 +41,7 @@ sitemap:
 resourceTypes:
 - video
 categories:
-- Technical Excellence
-- Continuous Delivery
-- Value Delivery
-- DevOps
-- Application Lifecycle Management
+- People and Process
 
 ---
 # Building a culture of quality | Martin Hinshelwood  

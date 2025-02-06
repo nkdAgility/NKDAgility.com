@@ -28,33 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
-- Agile leadership
-- Agile leader
-- Leadership
+- Team Motivation
+- Employee Engagement
+- Purpose
+- Strategic Goals
+- Continuous Improvement
+- Agile Product Management
+- Value Delivery
+- Organisational Culture
+- Agile Transformation
+- Discovery and Learning
+- Technical Mastery
+- Systems Thinking
+- Psychological Safety
 resourceTypes:
 - video
+categories:
+- Organisational Psychology
+- People and Process
+- Agile Product Management
+- Value Delivery
+- Discovery and Learning
 
 ---
 **The Power of Purpose: How 'Start with Why' Drives Agile Success** 

@@ -26,16 +26,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Coaching
-- Change Management
-- Team Motivation
-- Persistence Pays
-- Agile Values and Principles
-- Organisational Change
-- Employee Engagement
-- Agile Leadership
-- Continuous Improvement
-- Resilience and Change
+- Agile Transformation
+- Team Collaboration
+- Agile Methodology
+- Agile Community
 resourceTypes:
 - video
 categories:

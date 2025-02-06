@@ -28,17 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Kanban
-- Kaban metrics
-- Kanban training
-- Kanban courses
-- Kanban coach
-- Kanban consultant
-- Kanban method
-- ProKanban
-- Kanban approach
+- Kanban Theory
+- Lean Thinking
+- Evidence Based Management
+- Cycle Time
+- Flow Efficiency
+- Value Stream Management
+- Agile Tools
+- Data Driven Decisions
+- Continuous Improvement
+- Agile Strategy
+- Transparency
+- Agile Product Management
+- Agile Coaching
+- Kanban Coaching
+- Predictability in Kanban
 resourceTypes:
 - video
+categories:
+- Metrics and Learning
+- Kanban
+- Value Stream Management
 
 ---
 ### Avoiding Common Mistakes in Your Kanban Strategy

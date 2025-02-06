@@ -28,13 +28,29 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Microsoft
-- Agile at Microsoft
-- Scrum at Microsoft
-- Scrum Training for Microsoft
-- Agile Scrum training for Microsoft
+- Scrum
+- Scrum Master
+- Scrum Team
+- Agile Product Management
+- Agile Tools
+- DevOps
+- Customer Feedback Loops
+- Continuous Improvement
+- Technical Excellence
+- Value Delivery
+- Agile Community
+- Agile Transformation
+- Professional Scrum
+- Team Collaboration
+- Building Relationships
 resourceTypes:
 - video
+categories:
+- Scrum
+- DevOps
+- People and Process
+- Events and Presentations
+- Value Delivery
 
 ---
 Many of you have asked,  "How did I become the third Scrum training provider for Microsoft?"

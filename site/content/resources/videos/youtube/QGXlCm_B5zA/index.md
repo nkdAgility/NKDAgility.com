@@ -23,20 +23,9 @@ preview: https://i.ytimg.com/vi/QGXlCm_B5zA/maxresdefault.jpg
 duration: 280
 isShort: false
 tags:
-- Scrum Master
-- Professional Scrum
-- Scrum Team
-- Agile Coaching
-- Agile Training
-- Agile Product Management
-- Continuous Improvement
-- Agile Certification
-- Scrum Values
-- Agile Project Management
-- Customer Feedback Loops
-- Agile Product Discovery
-- Team Collaboration
-- Technical Excellence
+- Scrum Product Development
+- Definition of Done
+- Agile Values and Principles
 sitemap:
   filename: sitemap.xml
   priority: 0.4

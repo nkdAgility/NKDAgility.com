@@ -31,6 +31,10 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Scrum
+- Events and Presentations
+- Discovery and Learning
 
 ---
  A collection is videos of Scrum training in Action 

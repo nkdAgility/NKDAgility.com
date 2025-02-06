@@ -28,14 +28,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- DevOps
-- DevOps consulting
-- Agile
-- Agile Consulting
-- Agile Coaching
-- Agile Consultant
+- Continuous Delivery
+- Team Motivation
+- Change Management
+- Agile Product Management
+- Empowerment
+- Agile Transformation
+- Customer Feedback Loops
+- Agile Values and Principles
+- Evidence Based Improvement
+- Agile Software Development
+- Agile Community
+- Lean Thinking
 resourceTypes:
 - video
+categories:
+- DevOps
+- Continuous Delivery
+- People and Process
+- Value Delivery
+- Lean
 
 ---
 **What is Your Peeve in DevOps**

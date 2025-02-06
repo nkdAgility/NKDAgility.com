@@ -23,20 +23,9 @@ preview: https://i.ytimg.com/vi/JNJerYuU30E/maxresdefault.jpg
 duration: 50
 isShort: true
 tags:
-- Agile Coaching
-- Agile Mentoring Program
-- Scrum Team
-- Agile Community
-- Agile Training
-- Agile Project Management
-- Agile Product Management
-- Agile Values and Principles
-- Team Collaboration
-- Team Motivation
-- Continuous Improvement
-- Employee Engagement
-- Agile Transformation
-- Leadership Training
+- Scrum Master
+- Agile Software Development
+- Customer Feedback Loops
 sitemap:
   filename: sitemap.xml
   priority: 0.4

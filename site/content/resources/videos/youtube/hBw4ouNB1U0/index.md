@@ -45,10 +45,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Kanban
-- Metrics and Learning
-- Value Stream Management
-- Continuous Improvement
+- People and Process
 
 ---
  Tired of stagnant processes and lackluster results? This video dives into the heart of Kanban: continuous improvement. Discover how Kanban empowers you to evolve your workflows, boost efficiency, and achieve outstanding outcomes.

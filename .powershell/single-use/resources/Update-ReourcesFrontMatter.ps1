@@ -12,7 +12,18 @@ $resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md" #| Sele
 # Initialize a hash table to track counts of each ResourceType
 $resourceTypeCounts = @{}
 
+# Total count for progress tracking
+$TotalFiles = $resources.Count
+$Counter = 0
+
 $resources | ForEach-Object {
+
+    $Counter++
+    $PercentComplete = ($Counter / $TotalFiles) * 100
+
+    Write-Progress -Activity "Processing Markdown Files" -Status "Processing $Counter of $TotalFiles" -PercentComplete $PercentComplete
+
+
     $resourceDir = (Get-Item -Path $_).DirectoryName
     $markdownFile = $_
     Write-Host "--------------------------------------------------------"

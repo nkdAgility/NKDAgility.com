@@ -28,19 +28,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Team Collaboration
-- Agile Product Management
-- Technical Excellence
-- Evidence Based Management
-- Continuous Improvement
-- Value Delivery
-- Agile Product Discovery
-- Team Performance
-- Customer Feedback Loops
-- Agile Planning
-- Innovation Rate
-- Usage Index
-- Installed Version Index
+- Scrum Master
 resourceTypes:
 - video
 categories:

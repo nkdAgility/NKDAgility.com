@@ -26,10 +26,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- '#scrum'
-- agile
+- Team Motivation
+- Scrum Values
+- Agile Transformation
+- Agile Project Management
+- Scrum Team
+- Continuous Improvement
+- Agile Leadership
+- Employee Engagement
+- Agile Software Development
+- Agile Coaching
+- Agile Methodology
+- Discipline versus Motivation
+- Agile Product Management
+- Change Management
 resourceTypes:
 - video
+categories:
+- Organisational Psychology
+- People and Process
+- Scrum
 
 ---
 **Discipline versus motivation?**

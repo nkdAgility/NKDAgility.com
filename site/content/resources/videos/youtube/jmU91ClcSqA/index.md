@@ -28,19 +28,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Methodology
-- Agile Planning
-- Agile Tools
-- Agile Product Management
-- Agile Product Discovery
-- Continuous Improvement
-- Lean Principles
-- Value Delivery
-- Historical origins of Project Management
-- Modernisation of Project Management
-- Gantt chart
-- Agile Evolution
-- Business Agility
+- Agile Project Management
+- Project Management
+- Agile Leadership
+- Organisational Agility
+- Scrum
+- Agile Community
 resourceTypes:
 - video
 categories:

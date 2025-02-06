@@ -28,13 +28,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Agile Project Management
-- Agile Product Development
-- Business Agility
-- The business case for Agile
+- Change Management
+- Organisational Agility
+- Agile Transformation
+- Team Motivation
+- Organisational Culture
+- Market Adaptability
+- Agile Strategy
+- Employee Engagement
+- Agile Leadership
+- Systems Thinking
+- Agile Values and Principles
+- Continuous Improvement
+- Agile Methodology
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- Market Adaptability
+- People and Process
+- Resilience and Change
 
 ---
 ## The Agile Imperative: How Traditional Organisations Can Embrace Change 

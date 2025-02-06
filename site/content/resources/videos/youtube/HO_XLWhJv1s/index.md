@@ -36,20 +36,11 @@ categories:
 - People and Process
 - Discovery and Learning
 tags:
-- Scrum Product Ownership
-- Agile Product Management
-- Product Backlog
-- Scrum Team
-- Professional Scrum
-- Agile Product Discovery
-- Customer Feedback Loops
-- Continuous Learning
-- Agile Certification
-- Value Delivery
-- Agile Product Validation
-- Team Collaboration
-- Leadership Training
-- Evidence Based Management
+- Product Owner
+- Continuous Improvement
+- Agile Planning
+- Backlog Refinement
+- Definition of Done
 
 ---
  The Professional Scrum Product Owner is a hands-on, activity-based course where students explore Professional Scrum and develop an understanding of the Product Owner's critical role on the Scrum Team. 

@@ -28,12 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- DevOps consulting
-- Agile Consulting
-- DevOps consultant
-- DevOps coach
+- DevOps
+- Azure DevOps
+- Agile Tools
+- Change Management
+- Continuous Improvement
+- Technical Excellence
+- Team Collaboration
+- Customer Feedback Loops
+- Agile Product Management
+- Evidence Based Management
+- Value Delivery
+- Agile Planning
+- Agile Software Development
+- Organisational Change
 resourceTypes:
 - video
+categories:
+- DevOps
+- Azure DevOps
+- People and Process
+- Practical Techniques and Tooling
+- Value Delivery
 
 ---
 ## Navigating the Complexities with Expert Guidance 

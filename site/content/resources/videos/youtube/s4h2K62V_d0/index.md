@@ -23,21 +23,32 @@ preview: https://i.ytimg.com/vi/s4h2K62V_d0/maxresdefault.jpg
 duration: 600
 isShort: false
 tags:
-- Agile
-- Product development
-- Agile product development
-- Project management
-- Agile project management
-- Software engineering
-- project manager
-- product manager
-- product owner
-- scrum master
+- Code Reviews for Quality Assurance
+- Test Driven Development
+- Technical Excellence
+- Continuous Delivery
+- Agile Software Engineering
+- Team Collaboration
+- Engineering Excellence
+- Agile Product Management
+- Customer Feedback Loops
+- Agile Planning
+- Agile Product Discovery
+- Value Delivery
+- Technical Debt
+- Experimentation
+- Lean Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
+categories:
+- Code and Complexity
+- Technical Excellence
+- Value Delivery
+- Practical Techniques and Tooling
+- Discovery and Learning
 
 ---
 # Code reviews for quality assurance | Martin Hinshelwood  

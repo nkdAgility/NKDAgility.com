@@ -24,19 +24,8 @@ preview: https://i9.ytimg.com/vi/Gym5-p-mNtw/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 525
 isShort: false
 tags:
-- Business Agility
-- Lean Thinking
-- Value Delivery
-- Evidence Based Management
-- Agile Product Discovery
-- Innovation Rate
-- Continuous Improvement
-- Technical Excellence
-- Agile Strategy
-- Value Stream Management
-- Customer Feedback Loops
-- Systems Thinking
-- Agile Leadership
+- Agile Product Management
+- Decision Theory
 sitemap:
   filename: sitemap.xml
   priority: 0.4

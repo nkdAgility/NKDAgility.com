@@ -28,13 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Owner
-- Scrum
-- Agile
-- Product Management
-- Product Development
+- Scrum Product Management
+- Agile Product Discovery
+- Value Prioritisation
+- Customer Feedback Loops
+- Agile Planning
+- Agile Product Ownership
+- Evidence Based Management
+- Continuous Improvement
+- Team Collaboration
+- Strategic Goals
+- Agile Strategy
+- Lean Thinking
+- Agile Software Development
+- Technical Excellence
 resourceTypes:
 - video
+categories:
+- Agile Product Management
+- Scrum
+- Value Delivery
+- Discovery and Learning
+- Organisational Agility
 
 ---
 In my opinion, it’s the whole ball game.

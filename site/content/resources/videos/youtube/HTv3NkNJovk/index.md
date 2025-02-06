@@ -28,19 +28,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Team Collaboration
-- Organisational Culture
-- Customer Satisfaction
-- Agile Product Management
-- Continuous Improvement
-- Evidence Based Management
-- Agile Values and Principles
-- Decision Theory
-- Business Agility
-- Employee Engagement
-- Innovation and Agile capabilities
-- Agile Transformation
-- Agile Strategy
+- Agile Leadership
+- Systems Thinking
+- Change Management
 resourceTypes:
 - video
 categories:

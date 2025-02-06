@@ -24,24 +24,30 @@ preview: https://i9.ytimg.com/vi/sdIPSpbeA9w/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 613
 isShort: false
 tags:
-- Software development
-- Software engineering
-- CTO
-- product development
-- product management
-- project management
-- project manager
-- product manager
-- product owner
-- scrum master
-- agile project management
-- agile product management
-- agile product development
+- Automated Testing
+- Continuous Integration
+- Test Automation
+- Agile Software Development
+- Value Delivery
+- Customer Feedback Loops
+- Deployment Frequency
+- Agile Tools
+- Azure DevOps
+- Technical Excellence
+- Continuous Delivery
+- Lean Thinking
+- Evidence Based Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- AI and Automation in Agility
+- Technical Excellence
+- Value Delivery
+- Flow Efficiency
+- Code and Complexity
 
 ---
  Why Automation Is Key to Reducing Mistakes and Maximizing Efficiency in Software Development | Martin Hinshelwood

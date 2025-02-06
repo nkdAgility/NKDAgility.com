@@ -28,17 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Kanban
-- Kanban training
-- Kanban courses
-- Kanban consulting
-- Kanban coaching
-- Kanban coach
-- Kanban consultant
-- Kanban method
-- ProKanban
+- Kanban Theory
+- Kanban Process
+- Flow Efficiency
+- Value Delivery
+- Continuous Improvement
+- Systems Thinking
+- Lean Thinking
+- Agile Planning
+- Team Collaboration
+- Evidence Based Management
+- Value Stream Management
+- Technical Excellence
+- Agile Methodology
 resourceTypes:
 - video
+categories:
+- Kanban
+- Flow Efficiency
+- Value Stream Management
+- People and Process
+- Metrics and Learning
 
 ---
 ### Actively Managing Your Workflow in a Kanban Strategy

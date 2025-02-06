@@ -23,21 +23,7 @@ preview: https://i.ytimg.com/vi/NgoP5W5y7Gs/maxresdefault.jpg
 duration: 369
 isShort: false
 tags:
-- Security by Design
-- Agile Software Development
-- DevOps
-- Technical Excellence
-- Continuous Improvement
-- Agile Software Engineering
-- Systems Thinking
-- Technical Debt
-- Evidence Based Management
-- Agile Product Management
-- Site Reliability Engineering
-- Lean Thinking
-- Agile Tools
-- Azure DevOps
-- Value Delivery
+- Continuous Integration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

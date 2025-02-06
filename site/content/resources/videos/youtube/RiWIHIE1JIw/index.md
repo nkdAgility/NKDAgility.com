@@ -29,6 +29,28 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Value Delivery
+- Transparency and Accountability
+- Metrics and Learning
+tags:
+- Scrum
+- Scrum Master
+- Scrum Team
+- Agile Planning
+- Daily Scrum
+- Sprint Planning Workshop
+- Sprint Review
+- Definition of Done
+- Continuous Improvement
+- Technical Debt
+- Agile Product Management
+- Value Delivery
+- Empirical Process Control
+- Agile Product Discovery
+- Team Collaboration
 
 ---
  This is a phrase I often hear from folks who have been unable to adapt their systems of work to incorporate the core philosophies, theories, and practices of Scrum. They sit and look at the signals coming from Scrum that things are broken and do nothing but say:

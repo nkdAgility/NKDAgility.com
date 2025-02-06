@@ -28,33 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
-- Agile leadership
-- Agile leader
-- Leadership
+- Change Management
+- Agile Transformation
+- Business Agility
+- Organisational Agility
+- Agile Strategy
+- Agile Values and Principles
+- Continuous Improvement
+- Agile Community
+- Market Adaptability
+- Evidence Based Management
+- Agile Evolution
+- Digital Transformation
+- Team Motivation
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- Market Adaptability
+- People and Process
+- Discovery and Learning
+- Resilience and Change
 
 ---
 **Unravelling the Lust of Agile: Why There's No Quick Fix in Transformation** 

@@ -24,25 +24,32 @@ preview: https://i9.ytimg.com/vi/quFj6dy5M7E/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 266
 isShort: false
 tags:
-- Software development
-- Software Engineering
-- CTO
-- CIO
-- Project Manager
-- Product Owner
-- Product Manager
-- Scrum Master
-- Product Development
-- Agile Product Development
-- Project Management
-- Agile Project Management
-- Product Management
-- Agile Product Management
+- Team Collaboration
+- Agile Product Discovery
+- Agile Planning
+- Agile Leadership
+- Continuous Improvement
+- Technical Mastery
+- Business Agility
+- Agile Transformation
+- Value Delivery
+- Systems Thinking
+- Lean Thinking
+- Agile Software Development
+- Cross Functional Teams
+- Agile Values and Principles
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Agile Product Management
+- Value Delivery
+- Technical Excellence
+- Discovery and Learning
 
 ---
  Building a High-Performance Delivery Engine for Your Organization | Martin Hinshelwood

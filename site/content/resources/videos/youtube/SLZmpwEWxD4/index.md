@@ -28,17 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Kanban
-- Kanban training
-- Kanban courses
-- Kanban coach
-- Kanban consultant
-- Kanban professional
-- Kanban method
-- Kanban approach
-- ProKanban
+- Kanban Theory
+- Team Collaboration
+- Agile Tools
+- Value Stream Mapping
+- Systems Thinking
+- Agile Planning
+- Kanban Coaching
+- Visualisation
+- Working Agreements
+- Continuous Improvement
+- Agile Project Management
+- Flow Efficiency
+- Agile Software Development
+- Team Motivation
 resourceTypes:
 - video
+categories:
+- Kanban
+- People and Process
+- Value Stream Management
+- Practical Techniques and Tooling
+- Metrics and Learning
 
 ---
 In the world of Agile and Scrum, one crucial element often overlooked is the **visualization of work**. It’s not just about getting things done; it’s about understanding the flow of value within your system. As a Scrum Master or Agile practitioner, the ability to visualize your work will empower your team to be more effective, transparent, and aligned. Today, we’ll explore how visualization can transform your Kanban strategy, improve collaboration, and streamline processes for better results.

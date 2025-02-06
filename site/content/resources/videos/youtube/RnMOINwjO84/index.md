@@ -23,16 +23,31 @@ preview: https://i.ytimg.com/vi/RnMOINwjO84/maxresdefault.jpg
 duration: 971
 isShort: false
 tags:
-- Evidence based management
-- EBM
-- Agile
-- Data driven decisions
+- Decision Theory
+- Agile Planning
+- Business Agility
+- Change Management
+- Agile Product Discovery
+- Complexity Thinking
+- Continuous Improvement
+- Agile Leadership
+- Agile Product Management
+- Systems Thinking
+- Agile Strategy
+- Agile Software Development
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Decision Theory
+- Organisational Agility
+- Discovery and Learning
+- Complexity Thinking
+- Metrics and Learning
 
 ---
  Making Agile Decisions in a Complex World: Why There Are No Rules

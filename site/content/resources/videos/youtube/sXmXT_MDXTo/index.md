@@ -28,17 +28,29 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- DevOps
-- DevOps migration
-- DevOps migration services
-- Azure DevOps migration
-- Azure DevOps migration services
-- Azure DevOps consultant
-- Azure DevOps coach
-- Agile
-- Scrum
+- Deployment Frequency
+- Team Collaboration
+- Continuous Delivery
+- Technical Excellence
+- Value Delivery
+- Customer Feedback Loops
+- Change Management
+- Agile Product Management
+- Evidence Based Management
+- Systems Thinking
+- Organisational Agility
+- Lean Thinking
+- Agile Software Engineering
+- Technical Debt
 resourceTypes:
 - video
+categories:
+- DevOps
+- Value Delivery
+- People and Process
+- Technical Excellence
+- Metrics and Learning
+- Value Stream Management
 
 ---
 In the fast-evolving world of software development and operations, no two organizations are the same. Every company, every team, and every goal is unique, requiring a tailored approach to DevOps that aligns with specific needs and objectives. In this post, we’ll explore how understanding your current state, streamlining practices, and adopting the right tools can lead to higher quality, more frequent deliveries, and reduced friction in your software development process.

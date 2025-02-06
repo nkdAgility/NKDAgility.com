@@ -28,31 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Temperance in Agile
+- Agile Values and Principles
+- Scrum Team
+- Definition of Done
+- Continuous Improvement
+- Lean Thinking
+- Agile Planning
+- Value Delivery
+- Product Backlog
+- Team Collaboration
+- Agile Software Development
+- Technical Excellence
+- Evidence Based Improvement
 resourceTypes:
 - video
+categories:
+- Lean
+- Scrum
+- Value Delivery
+- People and Process
+- Technical Excellence
 
 ---
 In the fast-paced world of Agile, it's easy to fall into the trap of doing too much. Whether it's overloading your backlog, over-refining, or over-planning, too much of anything can be a bad thing. One of the key virtues that we embrace in Agile is **temperance**—the art of taking everything in moderation.

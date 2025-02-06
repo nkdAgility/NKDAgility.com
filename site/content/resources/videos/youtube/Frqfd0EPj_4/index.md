@@ -28,19 +28,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Immersive Learning
-- Agile Transformation
-- Team Collaboration
-- Change Management
-- Continuous Learning
-- Agile Coaching
-- Agile Values and Principles
-- Scrum Team
-- Agile Methodology
-- Employee Engagement
-- Agile Community
-- Agile Certification
-- Leadership Training
+- Scrum
+- Agile Product Management
+- Discovery and Learning
 resourceTypes:
 - video
 categories:

@@ -23,15 +23,32 @@ preview: https://i.ytimg.com/vi/sIhG2i7frpE/maxresdefault.jpg
 duration: 50
 isShort: true
 tags:
-- Agile
-- Agile framework
-- Kanban
+- Kanban Theory
+- Continuous Improvement
+- Lean Thinking
+- Value Stream Management
+- Systems Thinking
+- Kanban Coaching
+- Flow Efficiency
+- Evidence Based Improvement
+- Transparency
+- Agile Tools
+- Change Management
+- Agile Planning
+- Team Collaboration
+- Agile Scaling
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Kanban
+- Metrics and Learning
+- Value Stream Management
+- People and Process
+- Continuous Improvement
 
 ---
  Improving workflow with #kanban. Visit https://www.nkdagility.com #agile #agileframework #kanban 

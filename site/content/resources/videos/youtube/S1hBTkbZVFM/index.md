@@ -28,31 +28,25 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Agile Coaching
+- Team Collaboration
+- Leadership Training
+- Technical Mastery
+- Agile Values and Principles
+- Employee Engagement
+- Change Management
+- Agile Community
+- Organisational Culture
+- Agile Transformation
+- Continuous Improvement
+- Agile Mentoring
 resourceTypes:
 - video
+categories:
+- People and Process
+- Organisational Agility
+- Technical Excellence
+- Organisational Psychology
 
 ---
 Hiring an Agile coach can be a game changer for organizations striving to embrace agility. However, finding the right fit for your organization isn't just about credentials and buzzwords. One of the most critical factors when selecting an Agile coach is their ability to **engage and gain credibility with teams and leadership**. Let's dive into why this is so essential and how you can make the best hiring decision.

@@ -23,21 +23,31 @@ preview: https://i.ytimg.com/vi/qrEqX_5FWM8/maxresdefault.jpg
 duration: 354
 isShort: false
 tags:
-- Immersive Learning
-- Immersive Learning Experience
-- PSPO 8-week course
-- PSPO immersive learning
-- Scrum
-- Scrum.Org
-- Scrum Training
-- Scrum Courses
-- Scrum Certification
+- Agile Planning
+- Team Collaboration
+- Continuous Learning
+- Agile Product Management
+- Scrum Product Management
+- Agile Transformation
+- Employee Engagement
+- Agile Values and Principles
+- Discovery and Learning
+- Agile Coaching
+- Value Delivery
+- Agile Methodology
+- Agile Community
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Discovery and Learning
+- Organisational Agility
+- People and Process
+- Value Delivery
+- Scrum
 
 ---
  *Unlocking Real-World Value with Immersive Learning: A Scrum.org Insight* - Explore the transformative power of immersive learning in this insightful video. Discover how it connects theory to real-world scenarios, enhancing practical skills in project management and Scrum.

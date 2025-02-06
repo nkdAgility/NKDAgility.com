@@ -30,19 +30,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Certification
-- Validated Learning
-- Scrum Values
-- Continuous Learning
-- Team Collaboration
-- Agile Product Management
-- Scrum Product Development
-- Team Motivation
-- Agile Project Management
-- Agile Community
-- Agile Mentoring
-- Discovery and Learning
-- Employee Engagement
+- Scrum Master
 resourceTypes:
 - video
 categories:

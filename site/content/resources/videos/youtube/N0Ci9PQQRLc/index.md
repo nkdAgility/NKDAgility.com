@@ -23,19 +23,10 @@ preview: https://i.ytimg.com/vi/N0Ci9PQQRLc/maxresdefault.jpg
 duration: 423
 isShort: false
 tags:
-- Scrum Master
-- Scrum Team
-- Scrum Product Development
-- Scrum Values
-- Agile Coaching
-- Continuous Improvement
-- Technical Mastery
-- Agile Training
-- Agile Mentoring
-- Team Collaboration
-- Employee Engagement
-- Agile Project Management
-- Customer Feedback Loops
+- Scrum
+- Scrum Product Management
+- Agile Values and Principles
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.4
