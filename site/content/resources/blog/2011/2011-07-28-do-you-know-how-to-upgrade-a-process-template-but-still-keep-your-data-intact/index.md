@@ -26,17 +26,8 @@ aliasesFor404:
 - /blog/upgrading-your-process-template-in-team-foundation-server
 - /resources/blog/do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact
 tags:
-- configuration
-- infrastructure
-- nwcadence
-- process
-- tfs
-- tfs2005
-- tfs2008
-- tfs2010
-- tfs2012
-- tfs2012-1
-- tools
+- Change Management
+- Agile Tools
 categories:
 - Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-4-4.png

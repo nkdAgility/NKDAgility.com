@@ -22,11 +22,8 @@ aliasesFor404:
 - /blog/a-working-test-track-pro-adapter-for-the-tfs-integration-platform
 - /resources/blog/a-working-test-track-pro-adapter-for-the-tfs-integration-platform
 tags:
-- nwcadence
-- ttp
-- tfs
-- tfs2010
-- tools
+- Agile Software Development
+- DevOps
 categories:
 - Azure DevOps
 - Install and Configuration

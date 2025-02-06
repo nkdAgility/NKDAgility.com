@@ -29,6 +29,9 @@ tags:
 - Agile Tools
 - Azure DevOps
 preview: metro-visual-studio-2005-128-link-5-5.png
+categories:
+- Azure DevOps
+- Install and Configuration
 
 ---
 ![VisualStudioALMLogo](images/VisualStudioALMLogo-6-6.png "VisualStudioALMLogo")

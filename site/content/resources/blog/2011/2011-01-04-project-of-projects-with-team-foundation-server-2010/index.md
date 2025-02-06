@@ -22,17 +22,8 @@ aliasesFor404:
 - /blog/project-of-projects-with-team-foundation-server-2010
 - /resources/blog/project-of-projects-with-team-foundation-server-2010
 tags:
-- configuration
-- infrastructure
-- nwcadence
-- one-team-project-seriese
-- practices
-- tfs-build
-- tfs
-- tfs2010
-- tools
-- visual-studio
-- vs2010
+- Agile Tools
+- Azure DevOps
 categories:
 - Azure DevOps
 preview: metro-visual-studio-2010-128-link-8-8.png

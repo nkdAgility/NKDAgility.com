@@ -26,13 +26,8 @@ aliasesFor404:
 - /blog/scrum-with-visual-studio-11--creating-a-scrum-team-identity
 - /resources/blog/scrum-with-dev11-creating-a-scrum-team-identity
 tags:
-- nwcadence
-- process
-- scrum
-- tfs
-- tools
-- visual-studio
-- webcast-2
+- Scrum Team
+- Agile Tools
 categories:
 - Scrum
 - Application Lifecycle Management

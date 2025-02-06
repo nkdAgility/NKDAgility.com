@@ -29,6 +29,9 @@ tags:
 - Agile Tools
 - Agile Software Development
 preview: metro-visual-studio-2010-128-link-3-3.png
+categories:
+- Application Lifecycle Management
+- Practical Techniques and Tooling
 
 ---
 [![vs2010almRanger](images/Do-you-know-about-the-Visual-Studio-ALM-_D18D-vs2010almRanger_thumb-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Do-you-know-about-the-Visual-Studio-ALM-_D18D-vs2010almRanger_2.png)

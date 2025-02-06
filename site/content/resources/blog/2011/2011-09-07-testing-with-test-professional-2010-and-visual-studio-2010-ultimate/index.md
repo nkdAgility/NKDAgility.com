@@ -22,11 +22,8 @@ aliasesFor404:
 - /blog/testing-with-test-professional-2010-and-visual-studio-2010-ultimate
 - /resources/blog/testing-with-test-professional-2010-and-visual-studio-2010-ultimate
 tags:
-- mtm
-- nwcadence
-- tfs
-- tfs2010
-- tools
+- Automated Testing
+- Test Driven Development
 categories:
 - Events and Presentations
 - Application Lifecycle Management

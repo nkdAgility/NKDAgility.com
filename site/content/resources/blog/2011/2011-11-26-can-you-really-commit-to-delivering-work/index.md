@@ -26,12 +26,8 @@ aliasesFor404:
 - /blog/can-you-really-commit-to-delivering-work-
 - /resources/blog/can-you-really-commit-to-delivering-work
 tags:
-- develop
-- nwcadence
-- people
-- practices
-- process
-- scrum
+- Scrum Values
+- Agile Forecasting
 categories:
 - People and Process
 - Scrum

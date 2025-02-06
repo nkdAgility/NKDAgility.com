@@ -22,20 +22,8 @@ aliasesFor404:
 - /blog/how-visual-studio-2010-and-team-foundation-server-enable-compliance
 - /resources/blog/how-visual-studio-2010-and-team-foundation-server-enable-compliance
 tags:
-- configuration
-- define
-- develop
-- infrastructure
-- nwcadence
-- operate
-- people
-- practices
-- process
-- tfs
-- tfs2010
-- tools
-- visual-studio
-- vs2010
+- Application Lifecycle Management
+- Agile Tools
 categories:
 - Application Lifecycle Management
 - Azure DevOps

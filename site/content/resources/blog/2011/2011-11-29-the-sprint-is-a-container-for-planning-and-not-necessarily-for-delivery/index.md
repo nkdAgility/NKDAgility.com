@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
 - /resources/blog/the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
 tags:
-- sprint-planning
+- Scrum
+- Continuous Delivery
 categories:
 - Scrum
 - People and Process

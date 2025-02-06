@@ -29,6 +29,9 @@ tags:
 - Application Lifecycle Management
 - Azure DevOps
 preview: metro-visual-studio-2010-128-link-1-1.png
+categories:
+- Azure DevOps
+- Install and Configuration
 
 ---
 [![](images/4810.TFSonAzure.jpg)](http://blogs.msdn.com/cfs-file.ashx/__key/communityserver-blogs-components-weblogfiles/00-00-01-44-14/4810.TFSonAzure.jpg)I have been asked what would be the process or support for hosting the Tfs Automation Platform either from a hosting provider, or in the cloud if we have server side components. If you are not familiar with TFS on Azure make sure you read:

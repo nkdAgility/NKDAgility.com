@@ -26,14 +26,7 @@ aliasesFor404:
 - /blog/coffee-talk--scrum-versus-kanban-(re-match)-----thursday-at-high-noon-
 - /resources/blog/coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon
 tags:
-- agile
-- develop
-- kanban
-- lean
-- nwcadence
-- people
-- process
-- scrum
+- Kanban Theory
 categories:
 - scrum
 - kanban

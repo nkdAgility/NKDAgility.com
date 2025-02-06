@@ -26,13 +26,8 @@ aliasesFor404:
 - /blog/ssrs-vs-scvmm---the-kerberos-token-dispute
 - /resources/blog/ssrs-vs-scvmm-the-kerberos-token-dispute
 tags:
-- kerberos
-- nwcadence
-- ssrs
-- tfs
-- tfs2010
-- tfslab
-- tools
+- Technical Debt
+- Systems Thinking
 categories:
 - Install and Configuration
 - Azure DevOps

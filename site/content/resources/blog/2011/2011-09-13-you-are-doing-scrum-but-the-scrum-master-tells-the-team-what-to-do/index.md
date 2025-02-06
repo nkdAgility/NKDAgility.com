@@ -26,12 +26,8 @@ aliasesFor404:
 - /blog/you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do-
 - /resources/blog/you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do
 tags:
-- agile
-- develop
-- nwcadence
-- people
-- process
-- scrum
+- Scrum Master
+- Self Organisation
 categories:
 - People and Process
 - Scrum

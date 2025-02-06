@@ -26,14 +26,8 @@ aliasesFor404:
 - /blog/are-scrum-masters-agents-for-change-
 - /resources/blog/are-scrum-masters-agents-for-change
 tags:
-- agile
-- define
-- develop
-- nwcadence
-- people
-- process
-- psm
-- scrum
+- Scrum Master
+- Organisational Change
 categories:
 - Scrum
 - People and Process

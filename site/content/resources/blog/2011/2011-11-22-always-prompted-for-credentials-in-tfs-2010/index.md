@@ -29,6 +29,9 @@ tags:
 - Technical Debt
 - Agile Tools
 preview: metro-visual-studio-2005-128-link-6-6.png
+categories:
+- Install and Configuration
+- Azure DevOps
 
 ---
 [![VisualStudioALMLogo](images/VisualStudioALMLogo_thumb-10-10.png "VisualStudioALMLogo")](http://blog.hinshelwood.com/files/2011/11/VisualStudioALMLogo.png)

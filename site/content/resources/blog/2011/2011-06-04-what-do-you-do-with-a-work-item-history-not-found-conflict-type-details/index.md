@@ -22,11 +22,8 @@ aliasesFor404:
 - /blog/what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
 - /resources/blog/what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
 tags:
-- code
-- nwcadence
-- tfs
-- tfs2010
-- tools
+- Change Management
+- Agile Tools
 categories:
 - Azure DevOps
 preview: metro-binary-vb-128-link-4-4.png

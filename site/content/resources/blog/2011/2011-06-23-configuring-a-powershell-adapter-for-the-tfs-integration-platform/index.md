@@ -22,10 +22,11 @@ aliasesFor404:
 - /blog/configuring-a-powershell-adapter-for-the-tfs-integration-platform
 - /resources/blog/configuring-a-powershell-adapter-for-the-tfs-integration-platform
 tags:
-- nwcadence
-- tfs
-- tfs2010
-- tools
+- Agile Software Development
+- Agile Tools
+categories:
+- Install and Configuration
+- Azure DevOps
 
 ---
 ![](images/image_thumb-1-1.png)

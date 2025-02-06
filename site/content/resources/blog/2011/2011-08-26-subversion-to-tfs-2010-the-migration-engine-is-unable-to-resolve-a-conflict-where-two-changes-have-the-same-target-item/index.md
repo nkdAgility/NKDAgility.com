@@ -29,6 +29,9 @@ tags:
 - Technical Debt
 - Change Management
 preview: image-1.png
+categories:
+- Azure DevOps
+- Install and Configuration
 
 ---
 [![subversion](images/subversion_thumb-17-17.png "subversion")](http://blog.hinshelwood.com/files/2011/08/subversion1.png)

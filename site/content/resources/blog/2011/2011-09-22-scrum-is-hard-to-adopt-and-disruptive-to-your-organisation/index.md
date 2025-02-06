@@ -22,16 +22,7 @@ aliasesFor404:
 - /blog/scrum-is-hard-to-adopt-and-disruptive-to-your-organisation
 - /resources/blog/scrum-is-hard-to-adopt-and-disruptive-to-your-organisation
 tags:
-- agile
-- define
-- develop
-- nwcadence
-- operate
-- people
-- practices
-- process
-- pst
-- scrum
+- Change Management
 categories:
 - People and Process
 - Scrum

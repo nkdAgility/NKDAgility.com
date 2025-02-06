@@ -26,13 +26,8 @@ aliasesFor404:
 - /blog/product-owners-are-not-a-myth
 - /resources/blog/product-owners-are-not-a-myth-2
 tags:
-- agile
-- define
-- develop
-- nwcadence
-- people
-- process
-- scrum
+- Product Owner
+- Scrum Product Management
 categories:
 - People and Process
 - Agile Product Management

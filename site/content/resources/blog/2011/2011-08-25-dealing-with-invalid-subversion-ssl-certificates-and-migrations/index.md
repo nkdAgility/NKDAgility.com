@@ -28,6 +28,9 @@ aliasesFor404:
 tags:
 - Technical Debt
 - Agile Tools
+categories:
+- Install and Configuration
+- Azure DevOps
 
 ---
 ![subversion](images/subversion-7-7.png "subversion")

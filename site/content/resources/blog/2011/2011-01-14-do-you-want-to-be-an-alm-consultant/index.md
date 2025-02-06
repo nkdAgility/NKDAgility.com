@@ -26,29 +26,8 @@ aliasesFor404:
 - /blog/do-you-want-to-be-an-alm-consultant-
 - /resources/blog/do-you-want-to-be-an-alm-consultant
 tags:
-- agile
-- code
-- configuration
-- define
-- develop
-- infrastructure
-- jobs
-- kanban
-- modern-alm
-- nwcadence
-- operate
-- operational
-- people
-- practices
-- process
-- scrum
-- strategic
-- tactical
-- tfs
-- tfs2010
-- tools
-- visual-studio
-- vs2010
+- Application Lifecycle Management
+- Agile Software Development
 categories:
 - Application Lifecycle Management
 - People and Process

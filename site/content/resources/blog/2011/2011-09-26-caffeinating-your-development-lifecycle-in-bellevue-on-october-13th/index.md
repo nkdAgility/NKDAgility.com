@@ -25,7 +25,8 @@ tags:
 - Agile Software Development
 - Application Lifecycle Management
 categories:
-- events-and-presentations
+- Application Lifecycle Management
+- Events and Presentations
 preview: metro-nwc-128-link-3-3.png
 
 ---
