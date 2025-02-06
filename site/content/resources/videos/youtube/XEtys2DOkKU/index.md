@@ -23,15 +23,30 @@ preview: https://i.ytimg.com/vi/XEtys2DOkKU/maxresdefault.jpg
 duration: 36
 isShort: true
 tags:
-- Azure DevOps
-- DevOps
-- DevOps migration
+- Change Management
+- Technical Debt
+- Agile Tools
+- Continuous Improvement
+- Agile Software Development
+- Agile Project Management
+- Evidence Based Management
+- Agile Product Management
+- Agile Transformation
+- Organisational Change
+- Agile Values and Principles
+- Customer Feedback Loops
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Azure DevOps
+- Install and Configuration
+- Practical Techniques and Tooling
+- Value Delivery
+- Application Lifecycle Management
 
 ---
  Compromises you need to think about for your #azuredevops migration. Excerpt 1. Catch the full video on https://www.youtube.com/@nakedAgility #agile #devops #devopsmigration #microsoft #microsoftazure 

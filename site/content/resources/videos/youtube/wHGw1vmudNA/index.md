@@ -28,36 +28,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
-- Agile leadership
-- Agile leader
-- Leadership
-- 7 signs
-- agile-pocalypse
-- agile-apocalypse
+- Team Collaboration
+- Organisational Culture
+- Conflict Management
+- Agile Apocalypse
+- Psychological Safety
+- Team Motivation
+- Change Management
+- Employee Engagement
+- Agile Problem Solving
+- Continuous Improvement
+- Systems Thinking
+- Decision Making
+- Agile Values and Principles
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Organisational Psychology
+- Resilience and Change
 
 ---
 # Navigating the Treacherous Waters of Conflict: The Second Harbinger of the Agile Apocalypse

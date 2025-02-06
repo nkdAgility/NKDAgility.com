@@ -28,17 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Owner
-- Product Manager
-- Scrum
-- Scrum Product Owner
-- Product Development
-- Product Management
-- Agile
-- Agile Project Management
-- Agile Product Development
+- Scrum Product Management
+- Scrum Team
+- Accountability
+- Agile Product Ownership
+- Customer Feedback Loops
+- Strategic Goals
+- Team Collaboration
+- Agile Product Discovery
+- Value Delivery
+- Continuous Improvement
+- Agile Leadership
+- Agile Values and Principles
+- Transparency
 resourceTypes:
 - video
+categories:
+- Scrum
+- Agile Product Management
+- People and Process
+- Transparency and Accountability
+- Value Delivery
 
 ---
 ## Decoding the Role of the Product Owner

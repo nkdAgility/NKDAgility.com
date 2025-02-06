@@ -23,22 +23,31 @@ preview: https://i.ytimg.com/vi/wjYFdWaWfOA/maxresdefault.jpg
 duration: 299
 isShort: false
 tags:
-- Scrum Master
-- ScrumMaster
-- What is a scrum master
-- scrum framework
-- scrum methodology
-- scrum approach
-- scrum project management
-- scrum training
-- agile scrum training
-- agile scrum project management
+- Agile Project Management
+- Scrum Product Development
+- Team Collaboration
+- Value Delivery
+- Agile Leadership
+- Team Effectiveness
+- Customer Feedback Loops
+- Agile Product Management
+- Continuous Improvement
+- Agile Values and Principles
+- Scrum Team
+- Agile Transformation
+- Organisational Change
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scrum
+- Value Delivery
+- Organisational Agility
+- People and Process
+- Agile Product Management
 
 ---
  *Unlocking the Secrets of the Scrum Master: A Guide to Agile Leadership*

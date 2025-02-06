@@ -29,6 +29,28 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Events and Presentations
+- Discovery and Learning
+- Agile Product Management
+tags:
+- Team Collaboration
+- Building Great Teams
+- Agile Values and Principles
+- Scrum Team
+- Agile Coaching
+- Feedback and Wrapup
+- Change Management
+- Continuous Improvement
+- Discovery and Learning
+- Agile Transformation
+- Employee Engagement
+- Psychological Safety
+- Agile Methodology
+- Self Organisation
+- Market Adaptability
 
 ---
  00:00:00 Preamble

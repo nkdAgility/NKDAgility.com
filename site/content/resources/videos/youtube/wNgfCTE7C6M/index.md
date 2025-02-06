@@ -23,18 +23,31 @@ preview: https://i.ytimg.com/vi/wNgfCTE7C6M/maxresdefault.jpg
 duration: 371
 isShort: false
 tags:
-- Scrum
-- Scrum.Org
-- PSU
-- Professional Scrum with User Experience
-- UX
-- Product Development
+- Agile Product Development
+- Team Collaboration
+- Agile Coaching
+- Product Discovery
+- Customer Feedback Loops
+- Agile Project Management
+- Scrum Team
+- Continuous Improvement
+- Agile Product Management
+- Lean UX
+- Agile Values and Principles
+- Agile Software Development
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scrum
+- Agile Product Management
+- People and Process
+- Value Delivery
+- Discovery and Learning
 
 ---
  Scrum.Org recently launched the PSU (Professional Scrum with User Experience) course that intends to help bring product designers, user experience specialists, and scrum development teams closer together.

@@ -30,14 +30,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Agile leadership
-- Scrum
-- Scrum Framework
-- Agile Framework
-- Command and control versus Competence
+- Leadership Training
+- Decision Making
+- Systems Thinking
+- Organisational Agility
+- Team Collaboration
+- Employee Engagement
+- Change Management
+- Continuous Improvement
+- Agile Values and Principles
+- Technical Mastery
+- Agile Transformation
+- Evidence Based Leadership
+- Self Organisation
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Decision Theory
+- Organisational Psychology
+- Systems Thinking
 
 ---
 **Why I love heirarchies of competence**

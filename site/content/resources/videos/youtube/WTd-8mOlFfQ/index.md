@@ -32,14 +32,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- Scrum Master
-- Scrum Master mistakes
-- Newbie scrum master
-- Scrum Master tips
+- Team Collaboration
+- Team Motivation
+- Working Agreements
+- Agile Values and Principles
+- Continuous Improvement
+- Accountability
+- Scrum Team
+- Agile Project Management
+- Agile Software Development
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Transparency and Accountability
 
 ---
 ## Escaping the Administrative Vortex: Insights for Scrum Masters - Part 2

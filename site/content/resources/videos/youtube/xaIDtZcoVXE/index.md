@@ -28,31 +28,23 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Lead Time
+- Cycle Time
+- Evidence Based Management
+- Value Stream Management
+- Continuous Improvement
+- Agile Planning
+- Agile Product Discovery
+- Business Agility
+- Decision Theory
+- Value Delivery
 resourceTypes:
 - video
+categories:
+- Metrics and Learning
+- Value Delivery
+- Value Stream Management
+- Organisational Agility
 
 ---
 Delivering value to customers efficiently is a key goal for any Agile team. But how do you know how long it actually takes? That’s where **Evidence-Based Management (EBM)** comes into play. One of the key value areas in EBM is **Time to Market**—a critical factor that helps organizations measure and improve how quickly they deliver valuable outcomes. This post dives into the importance of **Time to Market**, the metrics you can use to measure it, and why it’s crucial for business success. 🚀

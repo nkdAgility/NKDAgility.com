@@ -24,26 +24,30 @@ preview: https://i.ytimg.com/vi/X4QzM00onL4/maxresdefault.jpg
 duration: 66
 isShort: false
 tags:
-- Agile
-- Agile frameworks
-- Scrum
-- Agile consulting
-- Agile consultant
-- Agile coaching
-- Agile coach
-- Scrum Training
-- DevOps
-- DevOps consulting
-- DevOps consultant
-- 7 Harbingers
-- 7 signs
-- agile-pocalypse
-- agile-apocalypse
+- Agile Apocalypse
+- Team Collaboration
+- Strategic Goals
+- Organisational Agility
+- Agile Planning
+- Team Motivation
+- Agile Leadership
+- Change Management
+- Employee Engagement
+- Agile Transformation
+- Agile Values and Principles
+- Continuous Improvement
+- Systems Thinking
+- Discovery and Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Systems Thinking
+- Resilience and Change
 
 ---
  #agile proved a revolutionary idea because it helped #softwareengineers navigate complexity and uncertainty effectively. It gave them a framework to move forward with intention and precision, even though they couldn't see the whole staircase in front of them.

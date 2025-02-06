@@ -28,13 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Azure DevOps
-- DevOps
-- DevOps consultant
-- DevOps coach
-- DevOps migration
+- Change Management
+- Agile Tools
+- Agile Project Management
+- Continuous Delivery
+- Technical Excellence
+- Agile Software Development
+- Agile Transformation
+- Value Delivery
+- Deployment Strategies
+- Evidence Based Management
+- Organisational Change
+- Agile Planning
+- Customer Feedback Loops
+- Agile Product Management
 resourceTypes:
 - video
+categories:
+- Azure DevOps
+- Install and Configuration
+- Practical Techniques and Tooling
+- Application Lifecycle Management
+- Value Stream Management
 
 ---
 In today’s fast-paced tech landscape, staying ahead often means making strategic moves that streamline processes and enhance collaboration. For organizations still utilizing Team Foundation Server (TFS), migrating to Azure DevOps is one such strategic move that promises enhanced agility and efficiency. However, this migration is not always straightforward. Let’s dive into the intricacies of this transition and explore how to do it seamlessly, leveraging the right tools and expertise.

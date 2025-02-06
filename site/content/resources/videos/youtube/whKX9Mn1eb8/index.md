@@ -24,22 +24,30 @@ preview: https://i.ytimg.com/vi/whKX9Mn1eb8/maxresdefault.jpg
 duration: 48
 isShort: true
 tags:
-- Software engineering
-- agile
-- agile product development
-- agile product management
-- agile project management
-- prjoect management
-- product development
-- product management
-- product manager
-- product owner
-- project manager
+- Quality Engineering
+- Shift Left
+- Continuous Delivery
+- Technical Excellence
+- Agile Software Development
+- Test Driven Development
+- Automated Testing
+- Software Increment
+- Definition of Done
+- Value Delivery
+- Team Collaboration
+- Customer Feedback Loops
+- Agile Values and Principles
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Value Delivery
+- Technical Excellence
+- Application Lifecycle Management
+- People and Process
+- Discovery and Learning
 
 ---
  The superpower of quality visit https://www.nkdagility.com #agile #agileproductdevelopment #agileproductmanagement #agileprojectmanagement #projectmanager #projectmanagement #productdevelopment #productmanagement #productowner #scrummaster #productmanager #scrum 

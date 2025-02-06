@@ -30,16 +30,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- Scrum Training
-- Scrum Course
-- Immersive Scrum Course
-- Immersive Scrum Training
-- Scrum Certification
-- Agile
-- Agile Scrum Training
+- Immersive Learning
+- Agile Training
+- Flipped Learning
+- Agile Coaching
+- Agile Project Management
+- Continuous Learning
+- Team Collaboration
+- Organisational Agility
+- Agile Community
+- Employee Engagement
+- Discovery and Learning
+- Agile Values and Principles
+- Agile Transformation
+- Leadership Training
 resourceTypes:
 - video
+categories:
+- Immersive Learning
+- Flipped Learning
+- Organisational Agility
+- Discovery and Learning
+- Agile Product Management
 
 ---
 **What are immersive training courses?**
