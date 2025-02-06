@@ -22,11 +22,8 @@ aliasesFor404:
 - /blog/upgrading-to-team-foundation-server-2013
 - /resources/blog/upgrading-to-team-foundation-server-2013
 tags:
-- configuration
-- tf255193
-- tfs
-- tfs-2013
-- tools
+- Deployment Strategies
+- Continuous Delivery
 categories:
 - Install and Configuration
 - Azure DevOps

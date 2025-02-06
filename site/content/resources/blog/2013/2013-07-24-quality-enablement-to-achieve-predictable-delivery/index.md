@@ -22,14 +22,8 @@ aliasesFor404:
 - /blog/quality-enablement-to-achieve-predictable-delivery
 - /resources/blog/quality-enablement-to-achieve-predictable-delivery
 tags:
-- definition-of-done
-- develop
-- improve
-- measure
-- predictable-quality
-- quality-enablement
-- strategic
-- testing
+- Definition of Done
+- Agile Predictability
 categories:
 - People and Process
 - Metrics and Learning

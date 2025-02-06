@@ -22,12 +22,8 @@ aliasesFor404:
 - /blog/the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
 - /resources/blog/the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
 tags:
-- css
-- dms
-- multisite
-- pagelines
-- theme
-- wordpress
+- Agile Software Development
+- Agile Product Management
 categories:
 - Install and Configuration
 - News and Reviews

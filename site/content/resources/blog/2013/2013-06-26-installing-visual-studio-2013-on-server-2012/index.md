@@ -22,11 +22,8 @@ aliasesFor404:
 - /blog/installing-visual-studio-2013-on-server-2012
 - /resources/blog/installing-visual-studio-2013-on-server-2012
 tags:
-- configuration
-- microsoft-id
-- tools
-- visual-studio
-- vs-2013
+- Agile Software Development
+- Azure DevOps
 categories:
 - Install and Configuration
 

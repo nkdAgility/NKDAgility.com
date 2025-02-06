@@ -30,15 +30,8 @@ aliasesFor404:
 - /blog/visual-studio-2013-and-tfs-2013-are-released--get-yours-now--oh-and-windows-8-1&hellip;
 - /resources/blog/visual-studio-2013-and-tfs-2013-are-released-get-yours-now-oh-and-windows-8-1
 tags:
-- release
-- rtm
-- tfs
-- tfs-2013
-- visual-studio-2013
-- visual-studio
-- windows
-- windows-8
-- windows-8-1
+- Agile Software Development
+- Agile Tools
 categories:
 - Azure DevOps
 - Install and Configuration

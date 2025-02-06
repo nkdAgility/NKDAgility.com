@@ -28,14 +28,8 @@ aliasesFor404:
 - /engaging-with-complexity
 - /resources/blog/engaging-with-complexity-team-foundation-server-edition
 tags:
-- infrastructure
-- operational
-- tfs
-- tfs2012
-- tfs2012-2
-- tfs-2012-3
-- tfs-2013
-- tools
+- Complexity Thinking
+- Systems Thinking
 categories:
 - Azure DevOps
 - Complexity Thinking

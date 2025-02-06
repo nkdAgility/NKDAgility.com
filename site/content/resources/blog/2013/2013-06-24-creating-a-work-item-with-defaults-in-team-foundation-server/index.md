@@ -22,10 +22,8 @@ aliasesFor404:
 - /blog/creating-a-work-item-with-defaults-in-team-foundation-server
 - /resources/blog/creating-a-work-item-with-defaults-in-team-foundation-server
 tags:
-- configuration
-- tfs
-- tfs-2013
-- web-access
+- Azure Boards
+- Agile Tools
 categories:
 - Azure DevOps
 

@@ -28,11 +28,8 @@ aliasesFor404:
 - /powershell-tfs-2013-api--2
 - /resources/blog/powershell-tfs-2013-api-2-adding-to-a-globallist
 tags:
-- globallist
-- powershell
-- tfs
-- tfs-2013
-- workitemstore
+- Agile Tools
+- Azure DevOps
 categories:
 - Azure DevOps
 preview: metro-powershell-logo-1-1.png

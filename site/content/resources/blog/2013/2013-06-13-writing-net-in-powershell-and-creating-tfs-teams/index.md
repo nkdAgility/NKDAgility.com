@@ -26,14 +26,8 @@ aliasesFor404:
 - /blog/writing--net-in-powershell-and-creating-tfs-teams
 - /resources/blog/writing-net-in-powershell-and-creating-tfs-teams
 tags:
-- api
-- code
-- configuration
-- powershell
-- programmatically
-- teams
-- tfs
-- tfs-api
+- Agile Software Development
+- Azure DevOps
 categories:
 - Code and Complexity
 preview: image11-1-1.png

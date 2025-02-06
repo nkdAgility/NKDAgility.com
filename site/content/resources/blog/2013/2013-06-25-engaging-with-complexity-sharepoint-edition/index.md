@@ -28,15 +28,8 @@ aliasesFor404:
 - /engaging-with-complexity
 - /resources/blog/engaging-with-complexity-sharepoint-edition
 tags:
-- advfirewall
-- code
-- configuration
-- mount-spcontentdatabase
-- move-spuser
-- netsh
-- sharepoint
-- sharepoint-2013
-- tools
+- Agile Software Development
+- Technical Excellence
 categories:
 - Install and Configuration
 - Azure DevOps

@@ -22,17 +22,8 @@ aliasesFor404:
 - /blog/modelling-teams-in-team-foundation-server-2013
 - /resources/blog/modelling-teams-in-team-foundation-server-2013
 tags:
-- area-path
-- branching
-- configuration
-- permissions
-- process
-- source-control
-- teams
-- tfs
-- tfs-2013
-- tools
-- version-control
+- Application Lifecycle Management
+- Agile Tools
 categories:
 - Azure DevOps
 - Install and Configuration

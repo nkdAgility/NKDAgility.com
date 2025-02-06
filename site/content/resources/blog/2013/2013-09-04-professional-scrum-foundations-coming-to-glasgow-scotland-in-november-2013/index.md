@@ -30,14 +30,11 @@ aliasesFor404:
 - /blog/professional-scrum-foundations-coming-to-glasgow--scotland-in-november-2013
 - /resources/blog/professional-scrum-foundations-coming-to-glasgow-scotland-in-november-2013
 tags:
-- psd
-- psf
-- psm
-- scrum
-- scrum-org
+- Professional Scrum
+- Scrum Master
 categories:
-- events-and-presentations
-- people-and-process
+- Scrum
+- Organisational Agility
 preview: PSF_Badges-2-2.png
 
 ---

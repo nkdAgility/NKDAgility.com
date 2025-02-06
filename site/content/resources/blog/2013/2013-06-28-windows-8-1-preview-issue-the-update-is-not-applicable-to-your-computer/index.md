@@ -28,8 +28,8 @@ aliasesFor404:
 - /windows-8-1-preview-issue
 - /resources/blog/windows-8-1-preview-issue-the-update-is-not-applicable-to-your-computer
 tags:
-- win8
-- win8-1
+- Technical Debt
+- Agile Software Development
 categories:
 - Install and Configuration
 preview: nakedalm-windows-logo-12-12.png

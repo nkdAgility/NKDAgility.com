@@ -28,12 +28,8 @@ aliasesFor404:
 - /tfs-2012-3-issue
 - /resources/blog/tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
 tags:
-- configuration
-- puzzles
-- scheduled-backup
-- tf246017
-- tf254027
-- tf400998
+- Agile Software Development
+- Technical Debt
 categories:
 - Install and Configuration
 - Azure DevOps

@@ -22,12 +22,8 @@ aliasesFor404:
 - /blog/integrate-reporting-and-analyses-services-with-team-foundation-server-2013
 - /resources/blog/integrate-reporting-and-analyses-services-with-team-foundation-server-2013
 tags:
-- analysis-services
-- reporting-services
-- sql-server
-- sql-server-2012
-- tfs
-- tfs-2013
+- Agile Tools
+- Azure DevOps
 categories:
 - Install and Configuration
 - Azure DevOps

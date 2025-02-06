@@ -25,10 +25,8 @@ tags:
 - Technical Debt
 - Evidence Based Improvement
 categories:
-- code-and-complexity
-- install-and-configuration
-- problems-and-puzzles
-- upgrade-and-maintenance
+- Install and Configuration
+- Azure DevOps
 preview: lazy1-5-5.jpg
 
 ---

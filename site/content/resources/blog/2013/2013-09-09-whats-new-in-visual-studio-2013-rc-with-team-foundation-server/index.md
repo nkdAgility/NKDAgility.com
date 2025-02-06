@@ -26,9 +26,8 @@ aliasesFor404:
 - /blog/what's-new-in-visual-studio-2013-and-tfs-2013-rc
 - /resources/blog/whats-new-in-visual-studio-2013-rc-with-team-foundation-server
 tags:
-- tfs
-- tfs-2013
-- whats-new
+- Agile Tools
+- Agile Software Development
 categories:
 - Azure DevOps
 - Products and Books

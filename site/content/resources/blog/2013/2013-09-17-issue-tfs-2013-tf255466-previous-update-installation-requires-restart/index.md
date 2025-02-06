@@ -26,11 +26,8 @@ aliasesFor404:
 - /blog/issue-[-tfs-2013-]-tf255466-a-previous-update-or-installation-requires-a-restart
 - /resources/blog/issue-tfs-2013-tf255466-previous-update-installation-requires-restart
 tags:
-- pendingfilerenameoperations
-- tf254027
-- tf255466
-- tfs
-- tfs-2013
+- Technical Debt
+- Continuous Improvement
 categories:
 - Install and Configuration
 preview: metro-problem-icon-4-4.png
