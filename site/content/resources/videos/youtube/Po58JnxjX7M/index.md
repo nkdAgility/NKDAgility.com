@@ -28,31 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Agile Coaching
+- Team Collaboration
+- Team Motivation
+- Agile Community
+- Agile Mentoring
+- Agile Values and Principles
+- Continuous Learning
+- Agile Transformation
+- Scrum Team
+- Agile Methodology
+- Employee Engagement
+- Coaching
+- Agile Certifications
+- Technical Leadership
 resourceTypes:
 - video
+categories:
+- People and Process
+- Organisational Agility
+- Agile Product Management
+- Scrum
+- Technical Excellence
 
 ---
 Being an Agile coach isn’t just about mastering theories and methodologies. To truly earn the title, you must **have real, hands-on experience working with teams**. This isn’t negotiable—it's an essential part of developing the credibility and knowledge needed to effectively guide teams in Agile practices.

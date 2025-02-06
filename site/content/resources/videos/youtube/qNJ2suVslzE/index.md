@@ -24,25 +24,30 @@ preview: https://i9.ytimg.com/vi/qNJ2suVslzE/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 259
 isShort: false
 tags:
-- Software development
-- Software engineering
-- Agile
-- Product Development
-- Agile Product Development
-- Product Management
-- Agile Product Management
-- Project Management
-- Agile Project Management
-- CTO
-- Project Manager
-- Product Manager
-- Product Owner
-- Scrum Master
+- Agile Planning
+- Agile Product Discovery
+- Business Agility
+- Lean Thinking
+- Value Delivery
+- Customer Feedback Loops
+- Agile Software Development
+- Continuous Improvement
+- Agile Transformation
+- Agile Values and Principles
+- Change Management
+- Agile Digital Tools
+- Agile Methodology
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Value Delivery
+- Organisational Agility
+- Lean
+- Agile Product Management
+- Market Adaptability
 
 ---
  Overcoming Scope Creep: Focus on Value, Not Fixed Scope | Martin Hinshelwood

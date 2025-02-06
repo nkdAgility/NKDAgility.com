@@ -28,16 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Kanban
-- Kanban training
-- Kanban courses
-- Kanban coaching
-- Kanban consulting
-- Agile
-- Agile framework
-- Agile adoption
+- Transparency
+- Continuous Improvement
+- Systems Thinking
+- Value Stream Management
+- Agile Software Development
+- Change Management
+- Team Collaboration
+- Evidence Based Management
+- Lean Thinking
+- Agile Planning
+- Agile Tools
+- Agile Product Management
+- Agile Methodology
 resourceTypes:
 - video
+categories:
+- Kanban
+- Transparency and Accountability
+- Metrics and Learning
+- Value Stream Management
+- People and Process
 
 ---
 In the fast-paced world of software engineering, uncertainty is the only certainty. What we expect to happen often diverges dramatically from what actually unfolds during the process. This variance can cause significant challenges, but it also presents opportunities for teams to learn, adapt, and improve. One powerful tool for gaining clarity and creating space for continuous improvement is **Kanban**.

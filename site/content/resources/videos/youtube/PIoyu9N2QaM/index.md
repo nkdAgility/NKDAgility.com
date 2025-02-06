@@ -32,14 +32,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- scrum
-- scrum master
-- scrummaster
-- experienced scrummaster
-- skilled scrummaster
-- agile coach
+- Professional Scrum
+- Scrum Values
+- Team Collaboration
+- Team Motivation
+- Agile Planning
+- Continuous Improvement
+- Agile Product Management
+- Accountability
+- Agile Methodology
+- Scrum Team
+- Value Delivery
+- Agile Evolution
+- Evidence Based Improvement
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Organisational Agility
+- Transparency and Accountability
 
 ---
 ## Unpacking the Differences

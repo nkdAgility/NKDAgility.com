@@ -28,12 +28,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scaling Agile
-- LeSS
-- Large Scale Scrum
+- Scaled Agile
+- Scaling Scrum
+- Scrum
+- Scrum Team
+- Scrum Product Development
+- Agile Scaling
+- Continuous Improvement
+- Technical Excellence
+- Value Delivery
+- Agile Methodology
+- Agile Product Management
+- Agile Values and Principles
+- Evidence Based Improvement
+- Agile Evolution
 resourceTypes:
 - video
+categories:
+- Scaling Agility
+- Scrum
+- Value Delivery
 
 ---
 ## "Don't scale scrum" - A Common Refrain 

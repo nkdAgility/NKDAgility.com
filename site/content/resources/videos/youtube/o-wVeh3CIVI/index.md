@@ -30,17 +30,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- Scrum Framework
-- Scrum Methodology
-- Scrum Approach
-- Scrum Project Management
-- Scrum Product Development
-- Scrum Product Management
-- Scrum Training
-- Scrum Course
+- Scrum Team
+- Scrum Values
+- Agile Project Management
+- Complexity Thinking
+- Continuous Improvement
+- Team Collaboration
+- Agile Product Discovery
+- Agile Software Development
+- Empirical Process Control
+- Agile Methodology
+- Agile Product Management
+- Agile Transformation
 resourceTypes:
 - video
+categories:
+- Scrum
+- Complexity Thinking
+- People and Process
+- Organisational Agility
+- Discovery and Learning
 
 ---
 **What is Scrum?**

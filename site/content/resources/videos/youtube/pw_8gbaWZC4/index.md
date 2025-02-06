@@ -23,18 +23,32 @@ preview: https://i.ytimg.com/vi/pw_8gbaWZC4/maxresdefault.jpg
 duration: 294
 isShort: false
 tags:
-- Kanban
-- Kanban training
-- Kanban coaching
-- Kanban consulting
-- Kanban approach
-- Kanban method
+- Scaling Kanban
+- Scrum
+- Continuous Improvement
+- Agile Strategy
+- Team Collaboration
+- Flow Efficiency
+- Evidence Based Management
+- Transparency
+- Agile Tools
+- Agile Software Development
+- Value Stream Management
+- Systems Thinking
+- Agile Product Management
+- Agile Planning
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Kanban
+- Metrics and Learning
+- Scrum
+- Flow Efficiency
+- Value Stream Management
 
 ---
  Discover the transformative power of Kanban in optimizing pull systems for continuous improvement. This video unveils practical strategies and insights for enhancing workflow efficiency, identifying bottlenecks, and making data-driven decisions that propel productivity. Perfect for teams looking to leverage flow metrics and refine their processes. Dive in to see how Kanban can illuminate the path to operational excellence in your organization!

@@ -30,16 +30,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Agile Leadership
-- Product Owner
-- Professional Scrum Product Owner
-- Advanced Professional Scrum Product Owner
-- PSPO-A
-- Scrum Training
-- Scrum Certification
+- Agile Product Ownership
+- Leadership Training
+- Agile Product Discovery
+- Agile Strategy
+- Customer Feedback Loops
+- Continuous Improvement
+- Experimentation
+- Agile Values and Principles
+- Agile Transformation
+- Agile Digital Tools
+- Scrum Product Management
+- Agile Community
+- Agile Methodology
 resourceTypes:
 - video
+categories:
+- Agile Product Management
+- Organisational Agility
+- People and Process
+- Discovery and Learning
+- Scrum
 
 ---
 **How good is the APSPO course in helping leaders determine product direction and Why?**

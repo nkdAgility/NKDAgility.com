@@ -26,12 +26,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- PSPO
-- Scrum.Org
-- Immersive Learning Experience
-- 8 Week PSPO course
+- Agile Product Ownership
+- Agile Certification
+- Scrum Product Management
+- Continuous Learning
+- Agile Product Discovery
+- Team Collaboration
+- Agile Planning
+- Agile Mentoring Program
+- Agile Values and Principles
+- Discovery and Learning
+- Agile Coaching
+- Agile Transformation
+- Customer Feedback Loops
+- Team Motivation
 resourceTypes:
 - video
+categories:
+- Agile Product Management
+- Discovery and Learning
+- People and Process
+- Value Delivery
+- Scrum
 
 ---
 ## The Product Owner Journey

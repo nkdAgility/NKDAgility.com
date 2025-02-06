@@ -25,29 +25,29 @@ preview: https://i.ytimg.com/vi/n6Suj-swl88/maxresdefault.jpg
 duration: 286
 isShort: false
 tags:
-- Sprint review
-- Sprint
-- Scrum
-- Scrum Master
-- Product Owner
-- Scrum team
-- Scrum project management
-- Scrum product development
-- Scrum framework
-- Scrum methodology
-- Scrum approach
-- Agile
-- Agile project management
-- Agile product development
-- Agile product management
-- Agile product owner
-- Agile project manager
+- Agile Product Ownership
+- Customer Feedback Loops
+- Value Delivery
+- Backlog Refinement
+- Continuous Improvement
+- Agile Planning
+- Scrum Values
+- Definition of Done
+- Agile Software Development
+- Team Collaboration
+- Accountability
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scrum
+- Value Delivery
+- Agile Product Management
+- People and Process
+- Transparency and Accountability
 
 ---
  *Maximizing Sprint Review Impact: A Guide for Scrum Teams* - Discover key insights into leading a Sprint Review for maximized productivity and stakeholder engagement. Dive deep into the role of a Product Owner and effective review strategies.

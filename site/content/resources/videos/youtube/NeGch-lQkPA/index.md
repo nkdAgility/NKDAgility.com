@@ -28,14 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Kanban
-- Kanban courses
-- Kanban training
-- Kanban coach
-- Kanban consultant
-- Kanban trainer
+- Scrum
+- Scrum Team
+- Scrum Product Management
+- Sprint Planning Workshop
+- Daily Scrum
+- Backlog Refinement
+- Value Delivery
+- Kanban Theory
+- Flow Efficiency
+- Continuous Improvement
+- Agile Planning
+- Agile Product Management
+- Customer Satisfaction
 resourceTypes:
 - video
+categories:
+- Value Delivery
+- Flow Efficiency
+- Kanban
+- Scrum
+- Metrics and Learning
 
 ---
 ### Applying Flow Metrics for Scrum: Enhancing Value Delivery with Kanban

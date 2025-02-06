@@ -23,18 +23,30 @@ preview: https://i.ytimg.com/vi/p9OhFJ5Ojy4/hqdefault.jpg
 duration: 2977
 isShort: false
 tags:
-- Leadership
-- agile-leadership
-- agile
-- transformation
-- digital transformation
-- agile transformation
+- Change Management
+- Organisational Agility
+- Agile Evolution
+- Continuous Improvement
+- Agile Leadership
+- Business Agility
+- Agile Strategy
+- Agile Values and Principles
+- Resilience and Change
+- Market Adaptability
+- Discovery and Learning
+- Systems Thinking
+- Complexity Thinking
+- Evidence Based Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- Resilience and Change
+- Market Adaptability
 
 ---
  There is no such thing as an Agile Transformation, Digital Transformation, DevOps Transformation, or any of the Whatever Transformation that you can think of or have been sold. You can’t buy agility, and you certainly can’t install it. There is no end state, no optimal outcome, No best practices. We are no longer factory workers.

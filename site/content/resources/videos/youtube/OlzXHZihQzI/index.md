@@ -28,31 +28,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Agile Planning
+- Team Collaboration
+- Change Management
+- Agile Coaching
+- Discovery and Learning
+- Continuous Improvement
+- Agile Transformation
+- Organisational Change
+- Agile Values and Principles
+- Team Motivation
+- Business Agility
+- Employee Engagement
+- Psychological Safety
 resourceTypes:
 - video
+categories:
+- Discovery and Learning
+- Organisational Agility
+- People and Process
+- Resilience and Change
 
 ---
 In today’s fast-paced, ever-evolving workplace, Agile practices are becoming a cornerstone for teams looking to deliver value, adapt, and innovate quickly. But how do we ensure that teams and individuals truly _internalize_ Agile principles? How do we create an environment where Agile becomes second nature, rather than just a series of rituals to follow? This is where **immersive learning** shines.

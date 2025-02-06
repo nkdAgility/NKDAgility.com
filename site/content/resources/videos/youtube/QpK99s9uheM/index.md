@@ -23,19 +23,24 @@ preview: https://i.ytimg.com/vi/QpK99s9uheM/maxresdefault.jpg
 duration: 48
 isShort: true
 tags:
-- Scrum Master
-- ScrumMaster
-- Project Manager
-- Agile Project Manager
-- Scrum
-- Agile
-- Agile Project Management
+- Team Collaboration
+- Change Management
+- Agile Values and Principles
+- Agile Leadership
+- Organisational Change
+- Team Motivation
+- Agile Coaching
+- Complexity Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Organisational Agility
 
 ---
  #shorts #shortsvideo #agile doesn't have a #projectmanager role and neither does #scrum. Sometimes, people think a #scrummaster is an #agileprojectmanager but they aren't. They perform a completely different role. Martin Hinshelwood explains.

@@ -23,22 +23,28 @@ preview: https://i.ytimg.com/vi/L9KsDJ2Rebo/maxresdefault.jpg
 duration: 84
 isShort: false
 tags:
-- Scrum
-- Scrum Course
-- Scrum Training
-- Scrum Certificaiton
-- PSM
-- PSM course
-- Professional Scrum Master
-- Professional Scrum Master course
-- Immersive Learning PSM course
-- Immersive Learning Professional Scrum Master course
+- Team Collaboration
+- Continuous Learning
+- Agile Mentoring Program
+- Employee Engagement
+- Agile Coaching
+- Discovery and Learning
+- Agile Transformation
+- Organisational Change
+- Agile Community
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Discovery and Learning
+- People and Process
+- Organisational Agility
+- Value Delivery
+- Resilience and Change
 
 ---
  As a Professional Scrum Trainer (PST), Kanban Dan is focused on helping delegates acquire the knowledge, skills, and capabilities they need to shine in the workplace. 

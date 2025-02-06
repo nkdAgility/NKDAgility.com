@@ -28,31 +28,25 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Agile Planning
+- Scrum Team
+- Agile Values and Principles
+- Team Collaboration
+- Continuous Improvement
+- Agile Coaching
+- Evidence Based Management
+- Agile Transformation
+- Agile Software Development
+- Agile Problem Solving
+- Technical Debt
+- Agile Strategy
+- Value Delivery
 resourceTypes:
 - video
+categories:
+- Scrum
+- Metrics and Learning
+- People and Process
 
 ---
 Agile teams often use burndown charts to track progress throughout a sprint. It seems like a solid approach—after all, it’s a visual indicator of how much work remains. But let me be clear: **burndowns are Agile banditry**! In fact, relying too heavily on burndowns could lead your team down a treacherous path of excessive upfront planning and false security. Let’s explore why burndowns aren’t the hero of Agile, and how embracing a continuous flow mindset can lead to real value.

@@ -28,12 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- DevOps
-- DevOps consulting
-- Agile DevOps Consulting
-- Agile DevOps consultant
+- Azure DevOps
+- Team Collaboration
+- Change Management
+- Continuous Improvement
+- Agile Tools
+- Systems Thinking
+- Organisational Change
+- Agile Transformation
+- Value Delivery
+- Technical Excellence
+- Agile Software Development
+- Customer Feedback Loops
+- Lean Thinking
+- Agile Project Management
 resourceTypes:
 - video
+categories:
+- DevOps
+- Azure DevOps
+- People and Process
+- Value Stream Management
+- Technical Excellence
 
 ---
 ## A Journey to DevOps Success

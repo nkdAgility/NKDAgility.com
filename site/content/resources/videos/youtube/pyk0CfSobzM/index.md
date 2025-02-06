@@ -28,34 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Work estimations
-- Estimation in scrum
-- Estimation in agile
-- agile forecasting
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
+- Scrum Team
+- Agile Estimation
+- Sprint Planning Workshop
+- Definition of Done
+- Scrum Product Management
+- Agile Product Discovery
+- Continuous Improvement
+- Agile Product Ownership
+- Value Delivery
+- Agile Software Development
+- Empirical Process Control
+- Agile Leadership
+- Team Collaboration
+- Agile Values and Principles
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Discovery and Learning
+- Decision Theory
+- Value Delivery
 
 ---
 ## Navigating the Uncertainties of Sprint Estimations in Scrum Teams

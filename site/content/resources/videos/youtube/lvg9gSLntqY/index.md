@@ -28,14 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Project Management
-- Traditional Project Management
-- Agile Project Management
-- Scrum Project Management
-- Complex Project Management
-- Product Development
+- Complexity Thinking
+- Agile Planning
+- Agile Software Development
+- Agile Transformation
+- Systems Thinking
+- Organisational Agility
+- Change Management
+- Agile Values and Principles
+- Agile Methodology
+- Agile Problem Solving
+- Evidence Based Management
+- Continuous Improvement
+- Agile Leadership
+- Business Agility
 resourceTypes:
 - video
+categories:
+- Complexity Thinking
+- Agile Product Management
+- Systems Thinking
+- Discovery and Learning
+- People and Process
 
 ---
 ## Project Management in Intricate Environments

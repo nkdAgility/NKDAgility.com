@@ -28,31 +28,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Vision
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
+- Product Strategy
+- Strategic Goals
+- Agile Product Management
+- Agile Product Discovery
+- Scrum Product Management
+- Agile Planning
+- Agile Values and Principles
+- Continuous Improvement
+- Customer Feedback Loops
+- Discovery and Learning
+- Value Delivery
+- Agile Transformation
+- Lean Principles
+- Evidence Based Management
 resourceTypes:
 - video
+categories:
+- Agile Product Management
+- Value Delivery
+- Discovery and Learning
 
 ---
 ## It's All About Direction

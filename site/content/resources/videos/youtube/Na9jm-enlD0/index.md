@@ -30,21 +30,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Collaboration
-- Consensus
-- Scrum
-- Agile
-- Agile project management
-- project management
-- Agile product development
-- product development
-- Agile product management
-- product management
-- agile coach
-- agile consultant
-- scrum framework
+- Team Collaboration
+- Agile Product Ownership
+- Decision Making
+- Entrepreneurship
+- Agile Product Discovery
+- Agile Leadership
+- Scrum Product Management
+- Evidence Based Management
+- Continuous Improvement
+- Psychological Safety
+- Agile Values and Principles
+- Lean Startup
+- Systems Thinking
+- Value Delivery
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- Decision Theory
+- Agile Product Management
+- People and Process
+- Discovery and Learning
 
 ---
 ## Understanding the Dynamics of Consensus 🤔 

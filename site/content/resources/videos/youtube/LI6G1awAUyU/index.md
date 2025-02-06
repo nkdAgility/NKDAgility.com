@@ -23,22 +23,30 @@ preview: https://i.ytimg.com/vi/LI6G1awAUyU/maxresdefault.jpg
 duration: 370
 isShort: false
 tags:
-- DevOps
-- DevOps Consultant
-- DevOps Consulting
-- DevOps Training
-- Scrum
-- Agile
-- Agile Coach
-- Agile Consulting
-- Agile Consultant
-- Agile coaching
+- Team Collaboration
+- Agile Project Management
+- Agile Product Development
+- Continuous Improvement
+- Customer Feedback Loops
+- Agile Transformation
+- Team Motivation
+- Organisational Agility
+- Agile Values and Principles
+- Agile Community
+- Agile Software Development
+- Change Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- DevOps
+- Organisational Agility
+- People and Process
+- Agile Product Management
+- Events and Presentations
 
 ---
  #devops is that mysterious partner to #agile in many environments. It's something that has stumped many an #agilecoach or #agileconsultant, because it requires knowledge and practise in the environment to thrive.

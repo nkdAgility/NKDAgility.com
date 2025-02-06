@@ -26,14 +26,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- DevOps
-- software engineering
-- agile
-- agile project management
-- agile product development
-- agile software development
+- Scrum
+- Scrum Team
+- Scrum Master
+- Scrum Values
+- Continuous Delivery
+- Technical Excellence
+- Team Collaboration
+- Agile Strategy
+- Agile Product Management
+- Value Delivery
+- Agile Planning
+- Customer Feedback Loops
+- Agile Product Discovery
 resourceTypes:
 - video
+categories:
+- Scrum
+- DevOps
+- People and Process
+- Value Delivery
+- Technical Excellence
 
 ---
 ## Scrum in a DevOps World: A Game Changer!

@@ -23,18 +23,31 @@ preview: https://i.ytimg.com/vi/N0Ci9PQQRLc/maxresdefault.jpg
 duration: 423
 isShort: false
 tags:
-- Scrum
-- Professional Scrum Trainer
-- PST
-- Scrum Training
-- Agile Scrum Training
-- Scrum Certification
+- Scrum Master
+- Scrum Team
+- Scrum Product Development
+- Scrum Values
+- Agile Coaching
+- Continuous Improvement
+- Technical Mastery
+- Agile Training
+- Agile Mentoring
+- Team Collaboration
+- Employee Engagement
+- Agile Project Management
+- Customer Feedback Loops
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Organisational Agility
+- Value Delivery
+- Agile Product Management
 
 ---
  #scrum is defined as easy to understand, yet incredibly difficult to master by the co-creators of #scrum. The #scrumguide is less than 20 pages long and so you could move through the theory in a couple of hours, at most.

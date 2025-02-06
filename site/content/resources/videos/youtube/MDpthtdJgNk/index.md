@@ -28,14 +28,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Kanban
-- Kanban method
-- Kanban approach
-- Kanban training
-- Kanban consulting
-- Kanban coaching
+- Change Management
+- Team Collaboration
+- Working Agreements
+- Agile Planning
+- Systems Thinking
+- Value Stream Management
+- Continuous Improvement
+- Agile Product Management
+- Lean Thinking
+- Agile Transformation
+- Employee Engagement
+- Agile Values and Principles
 resourceTypes:
 - video
+categories:
+- Kanban
+- People and Process
+- Organisational Agility
+- Value Stream Management
+- Resilience and Change
 
 ---
 ### Embracing Kanban: A Creative Approach to Workflow Optimization

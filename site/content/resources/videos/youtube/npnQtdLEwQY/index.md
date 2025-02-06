@@ -24,26 +24,29 @@ preview: https://i9.ytimg.com/vi/npnQtdLEwQY/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 668
 isShort: false
 tags:
-- Technical debt
-- Software engineering
-- software development
-- developer
-- CTO
-- product development
-- product management
-- project management
-- project manager
-- product manager
-- product owner
-- scrum master
-- agile product development
-- agile product management
-- agile project management
+- Continuous Improvement
+- Technical Excellence
+- Definition of Done
+- Value Delivery
+- Customer Satisfaction
+- Agile Software Development
+- Systems Thinking
+- Lean Thinking
+- Site Reliability Engineering
+- Agile Digital Tools
+- Evidence Based Management
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Technical Excellence
+- Value Delivery
+- Application Lifecycle Management
+- People and Process
+- Value Stream Management
 
 ---
  Understanding and Managing Technical Debt: Lessons for Every Organization | Martin Hinshelwood

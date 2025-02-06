@@ -28,31 +28,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Agile Planning
+- Team Motivation
+- Psychological Safety
+- Evidence Based Management
+- Value Prioritisation
+- Agile Product Discovery
+- Change Management
+- Agile Transformation
+- Continuous Improvement
+- Agile Estimation
+- Agile Values and Principles
+- Systems Thinking
 resourceTypes:
 - video
+categories:
+- Metrics and Learning
+- Organisational Agility
+- Value Delivery
+- People and Process
+- Transparency and Accountability
 
 ---
 In Agile environments, there’s often a temptation to rely on metrics that seem to offer clarity and control over a project’s progress. One such metric is the "say-do" metric, which measures what a team says they will do versus what they actually accomplish. While this may appear useful on the surface, it's often a slippery slope that leads to vanity metrics, reduced psychological safety, and, ultimately, a focus on outputs rather than outcomes.

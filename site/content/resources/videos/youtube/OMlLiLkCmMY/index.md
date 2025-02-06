@@ -23,35 +23,29 @@ preview: https://i.ytimg.com/vi/OMlLiLkCmMY/maxresdefault.jpg
 duration: 24
 isShort: true
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Change Management
+- Team Motivation
+- Strategic Goals
+- Organisational Change
+- Employee Engagement
+- Team Collaboration
+- Business Agility
+- Agile Values and Principles
+- Continuous Improvement
+- Customer Feedback Loops
+- Value Delivery
+- Agile Transformation
+- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Resilience and Change
 
 ---
  #shorts #shortsvideo #shortvideo 7 virtues of #agile, presented by Martin Hinshelwood. First virtue, #chastity. Visit https://www.nkdagility.com

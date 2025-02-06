@@ -23,19 +23,30 @@ preview: https://i.ytimg.com/vi/LxM_F_JJLeg/maxresdefault.jpg
 duration: 338
 isShort: false
 tags:
-- Agile
-- Agile leadership
-- Agile consulting
-- Agile coaching
-- Agile project management
-- Agile problem solving
-- Agile product development
+- Systems Thinking
+- Organisational Agility
+- Change Management
+- Team Collaboration
+- Employee Engagement
+- Continuous Improvement
+- Agile Transformation
+- Psychological Safety
+- Value Delivery
+- Lean Thinking
+- Agile Methodology
+- Technical Excellence
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Systems Thinking
+- People and Process
+- Metrics and Learning
+- Organisational Agility
+- Resilience and Change
 
 ---
  *Don't Let Incompetence Mask as Malevolence*

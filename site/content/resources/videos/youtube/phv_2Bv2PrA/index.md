@@ -23,15 +23,33 @@ preview: https://i.ytimg.com/vi/phv_2Bv2PrA/maxresdefault.jpg
 duration: 1755
 isShort: false
 tags:
-- Agility
-- Taylorism
-- Beta
+- Agile Methodology
+- Continuous Improvement
+- Self Organisation
+- Team Collaboration
+- Technical Excellence
+- Agile Leadership
+- Organisational Agility
+- Change Management
+- Agile Product Management
+- Agile Coaching
+- Discovery and Learning
+- Agile Transformation
+- Employee Engagement
+- Agile Values and Principles
+- Psychological Safety
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Technical Excellence
+- Continuous Improvement
+- Discovery and Learning
 
 ---
  This is a video about applying agile philosophy to foster change and growth in both personal and professional realms. Dive in for transformative insights! 

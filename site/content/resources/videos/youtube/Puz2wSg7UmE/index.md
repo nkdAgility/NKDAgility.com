@@ -28,31 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Ability to Innovate
+- Evidence Based Management
+- Value Delivery
+- Continuous Improvement
+- Technical Debt
+- Business Agility
+- Value Stream Management
+- Customer Feedback Loops
+- Agile Product Discovery
+- Decision Making
+- Market Adaptability
+- Agile Strategy
+- Agile Planning
+- Lean Principles
 resourceTypes:
 - video
+categories:
+- Metrics and Learning
+- Discovery and Learning
+- Value Delivery
+- Value Stream Management
+- Organisational Agility
 
 ---
 In today's fast-paced business environment, organizations are constantly seeking ways to improve the value they deliver. But how can you truly know if your organization is effective at doing so? The answer lies in understanding your **organizational capability** and, more specifically, your **ability to innovate**. In this blog post, we’ll explore how you can leverage evidence-based management to measure and improve your organization's capacity for innovation. We’ll also dive into some key metrics that can help you gauge your progress.

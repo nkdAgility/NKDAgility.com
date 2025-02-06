@@ -28,18 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Planning
-- Sprint
-- Scrum
-- Agile
-- Planning
-- Project Management
-- Product Development
-- Agile Project Management
-- Agile Product Development
-- Agile planning
+- Sprint Planning Workshop
+- Scrum Product Management
+- Definition of Done
+- Agile Product Management
+- Team Collaboration
+- Technical Debt
+- Continuous Improvement
+- Scrum Team
+- Agile Values and Principles
+- Agile Software Development
+- Value Delivery
+- Backlog Refinement
+- Agile Product Discovery
+- Agile Methodology
 resourceTypes:
 - video
+categories:
+- Scrum
+- Sprint Planning
+- Agile Product Management
+- Value Delivery
+- People and Process
 
 ---
 ## Setting the Tone for Success

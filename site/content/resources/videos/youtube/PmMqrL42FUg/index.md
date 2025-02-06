@@ -25,20 +25,31 @@ preview: https://i.ytimg.com/vi/PmMqrL42FUg/maxresdefault.jpg
 duration: 106
 isShort: false
 tags:
-- '#scrum'
-- '#agile'
-- '#agilecoach'
-- '#scrumorg'
-- '#agileconsultant'
-- '#agiletraining'
-- '#devops'
-- '#agileproductdevelopment'
-- '#productdevelopment'
+- Team Motivation
+- Agile Coaching
+- Change Management
+- Agile Leadership
+- Organisational Agility
+- Agile Values and Principles
+- Continuous Improvement
+- Transparency
+- Accountability
+- Agile Transformation
+- Employee Engagement
+- Agile Methodology
+- Agile Community
+- Systems Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- People and Process
+- Organisational Agility
+- Transparency and Accountability
+- Value Delivery
+- Resilience and Change
 
 ---
  For some reason, this video got cut off! 

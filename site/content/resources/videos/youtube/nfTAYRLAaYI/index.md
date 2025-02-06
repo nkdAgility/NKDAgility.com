@@ -28,16 +28,24 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Kanban
-- Kanban training
-- Kanban coaching
-- Kanban consulting
-- Agile
-- Agile framework
-- Agile product development
-- Agile project management
+- Kanban Theory
+- Continuous Improvement
+- Value Stream Mapping
+- Lean Principles
+- Flow Efficiency
+- Predictability in Kanban
+- Agile Planning
+- Team Collaboration
+- Systems Thinking
+- Value Delivery
+- Agile Methodology
+- Change Management
 resourceTypes:
 - video
+categories:
+- Kanban
+- Value Stream Management
+- Flow Efficiency
 
 ---
 In the fast-paced world of Agile, many teams find themselves searching for frameworks that help them improve efficiency, transparency, and collaboration. One such method that stands out is **Kanban**. Known for its simplicity and effectiveness, Kanban helps teams visualize their work, manage their flow, and continuously improve. In this post, we’ll dive into the three core principles of Kanban and explore how you can implement them to boost your team’s productivity.

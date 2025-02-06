@@ -32,11 +32,22 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Agile leaders
-- Influential people in Agile
+- Agile Coaching
+- Team Collaboration
+- Agile Values and Principles
+- Scrum Team
+- Agile Mentoring
+- Team Motivation
+- Customer Feedback Loops
+- Continuous Improvement
+- Agile Community
+- Agile Leadership
 resourceTypes:
 - video
+categories:
+- People and Process
+- Organisational Psychology
+- Events and Presentations
 
 ---
 ## Common Comments from the PSPO Course

@@ -28,33 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
-- Agile leadership
-- Agile leader
-- Leadership
+- Systems Thinking
+- Organisational Agility
+- Change Management
+- Team Collaboration
+- Continuous Improvement
+- Agile Values and Principles
+- Evidence Based Management
+- Lean Thinking
+- Agile Transformation
+- Employee Engagement
+- Psychological Safety
+- Complexity Thinking
+- Agile Methodology
 resourceTypes:
 - video
+categories:
+- Systems Thinking
+- People and Process
+- Organisational Agility
+- Lean
+- Resilience and Change
 
 ---
 ## People, Systems, and Finding the Balance 

@@ -23,35 +23,29 @@ preview: https://i.ytimg.com/vi/pDAL84mht3Y/maxresdefault.jpg
 duration: 47
 isShort: true
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Agile Apocalypse
+- Change Management
+- Continuous Improvement
+- Team Collaboration
+- Agile Values and Principles
+- Agile Transformation
+- Organisational Agility
+- Systems Thinking
+- Agile Methodology
+- Self Organisation
+- Evidence Based Improvement
+- Agile Evolution
+- Market Adaptability
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Resilience and Change
 
 ---
  #shorts #shortvideo #shortsvideo In deeply interconnected, integrated environments there is a lot that can go wrong. When it goes wrong, it tends to go wrong in spades. In this short video, Martin Hinshelwood explains what plague looks like, in the context of #agile, and why it's a sure sign of impending disaster.

@@ -28,14 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Product Development
-- Project Management
-- Competitive Advantage
-- Organizational Agility
-- Business Agility
+- Agile Strategy
+- Empirical Process Control
+- Organisational Change
+- Continuous Improvement
+- Agile Product Discovery
+- Team Collaboration
+- Customer Satisfaction
+- Agile Leadership
+- Agile Product Management
+- Value Delivery
+- Change Management
+- Agile Evolution
+- Team Motivation
+- Agile Transformation
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- Value Delivery
+- Discovery and Learning
+- Resilience and Change
+- Agile Product Management
 
 ---
 Why are recessions a great time for organizations to evaluate the opportunity of agile?

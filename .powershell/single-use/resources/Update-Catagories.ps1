@@ -220,6 +220,9 @@ $CatalogTags = @{
     "Daily Scrum"                             = "Daily meeting by the Developers and for the Developers to plan the next 24h .";
 }
 
+$FilteredTags = @($CatalogTags.Keys | Where-Object { $CatalogCategories.ContainsKey($_) })
+
+
 # # Load JSON file (assuming it contains an array of tags)
 # $JsonFilePath = "site\data\tagsSource.json"
 # $TagsList = Get-Content $JsonFilePath | ConvertFrom-Json

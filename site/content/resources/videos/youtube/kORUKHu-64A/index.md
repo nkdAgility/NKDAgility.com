@@ -28,33 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
-- Agile leadership
-- Agile leader
-- Leadership
+- Scrum Master
+- Scrum Team
+- Governance
+- Agile Product Management
+- Continuous Improvement
+- Value Delivery
+- Organisational Agility
+- Lean Principles
+- Agile Transformation
+- Technical Excellence
+- Evidence Based Management
+- Systems Thinking
+- Accountability
+- Agile Values and Principles
 resourceTypes:
 - video
+categories:
+- Scrum
+- Value Delivery
+- Organisational Agility
+- Governance
+- People and Process
 
 ---
 # Scrum and Governance: Navigating the Balance for Agile Success 🚀

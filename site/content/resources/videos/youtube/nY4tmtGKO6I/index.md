@@ -23,35 +23,29 @@ preview: https://i.ytimg.com/vi/nY4tmtGKO6I/maxresdefault.jpg
 duration: 30
 isShort: true
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Scrum Master
+- Scrum Values
+- Team Collaboration
+- Agile Coaching
+- Continuous Learning
+- Team Motivation
+- Agile Mentoring Program
+- Agile Values and Principles
+- Employee Engagement
+- Agile Transformation
+- Agile Methodology
+- Agile Community
+- Discovery and Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Discovery and Learning
 
 ---
  People assume that the #scrummaster accountability is a junior, administrative role when in fact, it's a #leadership and #agilecoaching accountability that requires a deeply skilled, committed individual at the helm. This is a short extract from the video where Martin Hinshelwood talks about the importance of #scrumtraining for a Scrum Master. Watch the full video on https://youtu.be/U0h7N5xpAfY

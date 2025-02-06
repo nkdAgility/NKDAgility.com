@@ -23,20 +23,32 @@ preview: https://i.ytimg.com/vi/QGXlCm_B5zA/maxresdefault.jpg
 duration: 280
 isShort: false
 tags:
-- Scrum
-- Scrum.Org
-- Scrum Training
-- Agile Scrum Training
-- PSM
-- PSM II
-- Professional Scrum Master
-- Advanced Professional Scrum Master
+- Scrum Master
+- Professional Scrum
+- Scrum Team
+- Agile Coaching
+- Agile Training
+- Agile Product Management
+- Continuous Improvement
+- Agile Certification
+- Scrum Values
+- Agile Project Management
+- Customer Feedback Loops
+- Agile Product Discovery
+- Team Collaboration
+- Technical Excellence
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scrum
+- Agile Product Management
+- People and Process
+- Value Delivery
+- Organisational Agility
 
 ---
  The #PSM II or #professionalscrummaster course from Scrum.Org is designed to help a #scrummaster progress in their career from entry-level capability to more advanced capabilities.

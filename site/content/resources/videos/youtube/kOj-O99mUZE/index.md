@@ -28,19 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Kanban
-- Scaling Kanban
-- Scaling with Portfolio Kanban course
-- Kanban course
-- Kanban training
-- Kanban certification
-- Kanban trainer
-- Kanban coach
-- Kanban consulting
-- Kanban consultant
-- Kanban approach
+- Scaled Agile
+- Agile Portfolio Management
+- Value Stream Management
+- Business Agility
+- Leadership Training
+- Systems Thinking
+- Flow Efficiency
+- Agile Strategy
+- Continuous Improvement
+- Predictability in Kanban
+- Agile Digital Tools
+- Agile Project Management
+- Value Delivery
 resourceTypes:
 - video
+categories:
+- Scaling Agility
+- Organisational Agility
+- Value Stream Management
+- Flow Efficiency
+- Kanban
 
 ---
 ### Scaling Portfolio Kanban: Enhancing Flow and Predictability at the Organizational Level

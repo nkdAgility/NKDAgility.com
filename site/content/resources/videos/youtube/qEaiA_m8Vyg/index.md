@@ -26,13 +26,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Immersive learning experience
-- Scrum Training
-- Scrum Certification
-- Scrum.Org
-- Scrum courses
+- Continuous Learning
+- Team Collaboration
+- Discovery and Learning
+- Agile Leadership
+- Empirical Process Control
+- Agile Product Management
+- Agile Transformation
+- Evidence Based Improvement
+- Team Motivation
+- Agile Values and Principles
+- Customer Feedback Loops
+- Agile Community
+- Psychological Safety
+- Agile Software Development
 resourceTypes:
 - video
+categories:
+- Discovery and Learning
+- Systems Thinking
+- Metrics and Learning
+- People and Process
+- Organisational Agility
 
 ---
 ## Why Have You Decided to Go All-In on Immersive Learning Experiences? 

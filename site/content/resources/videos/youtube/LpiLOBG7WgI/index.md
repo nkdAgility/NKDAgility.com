@@ -30,23 +30,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint review
-- Sprint
-- Scrum
-- Scrum framework
-- Scrum review
-- Scrum approach
-- Scrum methodology
-- Scrum project management
-- Scrum product development
-- Agile
-- Agile product development
-- product development
-- Agile product management
-- product management
-- Agile project management
+- Scrum Team
+- Scrum Product Management
+- Customer Feedback Loops
+- Agile Product Discovery
+- Continuous Improvement
+- Decision Making
+- Value Delivery
+- Agile Planning
+- Technical Excellence
+- Psychological Safety
+- Team Collaboration
+- Change Management
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Discovery and Learning
+- Value Delivery
+- Metrics and Learning
 
 ---
 ## Navigating Harsh Feedback in Sprint Reviews – An Agile Approach🚀 

@@ -28,15 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- Scrum Training
-- Scrum.Org
-- PSM
-- PSM II
-- APS
-- Scrum Certification
+- Scrum Master
+- Scrum Values
+- Empirical Process Control
+- Scrum Team
+- Agile Values and Principles
+- Continuous Improvement
+- Agile Product Management
+- Agile Coaching
+- Team Collaboration
+- Discovery and Learning
+- Agile Transformation
+- Technical Excellence
+- Value Delivery
+- Evidence Based Improvement
 resourceTypes:
 - video
+categories:
+- Scrum
+- Empiricism
+- People and Process
+- Discovery and Learning
+- Value Delivery
 
 ---
 What is the most common Aha moment people have in a scrum course?

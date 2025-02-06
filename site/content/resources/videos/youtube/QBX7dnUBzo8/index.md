@@ -28,31 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Change Management
+- Systems Thinking
+- Organisational Agility
+- Agile Transformation
+- Business Agility
+- Continuous Improvement
+- Evidence Based Management
+- Organisational Change
+- Team Collaboration
+- Agile Strategy
+- Psychological Safety
+- Value Delivery
+- Employee Engagement
+- Agile Product Discovery
 resourceTypes:
 - video
+categories:
+- Systems Thinking
+- Organisational Agility
+- Metrics and Learning
+- Value Delivery
+- Resilience and Change
 
 ---
 Organizations often struggle to address the root causes of inefficiencies, particularly when adopting Agile practices. Instead of tackling the core issues within their systems, they focus on surface-level problems. This blog post will explore these systemic issues and provide insights on how to make meaningful changes that lead to greater effectiveness and agility.

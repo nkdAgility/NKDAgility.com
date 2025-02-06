@@ -28,31 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Business Agility
+- Change Management
+- Continuous Improvement
+- Organisational Agility
+- Team Collaboration
+- Employee Engagement
+- Agile Values and Principles
+- Systems Thinking
+- Market Adaptability
+- Agile Transformation
+- Decision Making
+- Psychological Safety
+- Value Delivery
+- Agile Methodology
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- Market Adaptability
+- Value Delivery
+- Discovery and Learning
+- Resilience and Change
 
 ---
 In the ever-evolving world of business, staying ahead means adapting faster than your competitors. Being agile is not about following a set of rules but rather embracing a mindset of constant questioning and improvement. As Steve Denning wisely said:

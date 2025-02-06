@@ -30,15 +30,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- Scrum framework
-- Scrum methodology
-- Agile scrum
-- Agile Scrum Project management
-- Scrum Project Management
-- Scrum Product Development
+- Scrum Team
+- Scrum Master
+- Technical Debt
+- Continuous Delivery
+- Azure DevOps
+- Value Delivery
+- Customer Satisfaction
+- Deployment Frequency
+- Agile Product Management
+- Agile Software Development
+- Agile Product Discovery
+- Team Collaboration
+- Evidence Based Management
 resourceTypes:
 - video
+categories:
+- Scrum
+- Azure DevOps
+- Value Delivery
+- Organisational Agility
+- Technical Excellence
 
 ---
 ## Spotlight on Outstanding Scrum Application

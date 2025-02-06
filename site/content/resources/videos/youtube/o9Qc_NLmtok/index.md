@@ -26,15 +26,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Immersive Learning
-- Scrum.Org
-- Immersive courses
-- Immersive scrum courses
-- scrum training
-- scrum courses
-- scrum certification
+- Scrum
+- Scrum Team
+- Scrum Product Management
+- Definition of Done
+- Software Increment
+- Continuous Delivery
+- Agile Product Management
+- Team Collaboration
+- Agile Planning
+- Continuous Learning
+- Agile Product Discovery
+- Agile Coaching
+- Agile Transformation
+- Team Motivation
 resourceTypes:
 - video
+categories:
+- Scrum
+- Discovery and Learning
+- Organisational Agility
+- People and Process
+- Metrics and Learning
 
 ---
 ## Immersive Learning: 8 Weeks of Deep Engagement

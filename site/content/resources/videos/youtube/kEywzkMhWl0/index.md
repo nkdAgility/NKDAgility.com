@@ -30,12 +30,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Master
-- Scrum Master Skills
-- Scrum
-- Agile
+- Agile Transformation
+- Team Motivation
+- Change Management
+- Effective Teaching
+- Organisational Change
+- Continuous Learning
+- Agile Values and Principles
+- Team Collaboration
+- Discovery and Learning
+- Employee Engagement
+- Agile Project Management
+- Agile Coaching
+- Agile Community
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Organisational Agility
+- Discovery and Learning
+- Resilience and Change
 
 ---
 **1 critical skill for a Scrum Master and why?**

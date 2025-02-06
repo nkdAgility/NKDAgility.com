@@ -28,18 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Kanban
-- Kanban method
-- Kanban approach
-- Kanban framework
-- Agile
-- Agile framework
-- Agility
-- Kanban training
-- Kanban consulting
-- Kanban coaching
+- Kanban Theory
+- Continuous Improvement
+- Systems Thinking
+- Value Stream Management
+- Lean Thinking
+- Agile Planning
+- Change Management
+- Evidence Based Management
+- Flow Efficiency
+- Agile Strategy
+- Agile Tools
+- Team Collaboration
+- Agile Product Management
+- Agile Software Development
 resourceTypes:
 - video
+categories:
+- Kanban
+- Systems Thinking
+- Metrics and Learning
+- Value Stream Management
+- People and Process
 
 ---
 ### Demystifying Kanban: A Strategy for Continuous Improvement

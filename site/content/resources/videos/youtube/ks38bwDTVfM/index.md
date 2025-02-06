@@ -24,34 +24,30 @@ preview: https://i.ytimg.com/vi/ks38bwDTVfM/maxresdefault.jpg
 duration: 344
 isShort: false
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Definition of Done
+- Scrum Team
+- Backlog Refinement
+- Sprint Planning Workshop
+- Technical Debt
+- Agile Planning
+- Continuous Improvement
+- Scrum Product Management
+- Agile Software Development
+- Product Backlog
+- Agile Estimation
+- Team Collaboration
+- Agile Values and Principles
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Scrum
+- Definition of Done
+- People and Process
+- Technical Excellence
+- Value Delivery
 
 ---
  Sprint Planning Mastery: Avoiding Overload & Perfecting Your Process

@@ -28,31 +28,29 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Scrum Master
+- Scrum Team
+- Scrum Values
+- Pragmatic Thinking
+- Team Collaboration
+- Continuous Improvement
+- Evidence Based Management
+- Agile Values and Principles
+- Organisational Culture
+- Change Management
+- Agile Transformation
+- Team Motivation
+- Psychological Safety
+- Agile Coaching
+- Agile Methodology
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Value Delivery
+- Organisational Agility
+- Transparency and Accountability
 
 ---
 In the world of Agile, we often hear about the famous "three questions" used during the daily Scrum or retrospective sessions:

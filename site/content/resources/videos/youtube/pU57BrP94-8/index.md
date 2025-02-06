@@ -28,16 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Immersive learning experience
-- Immersive learning scrum course
-- Immersive learning scrum training
-- Immersive learning scrum experience
-- scrum training
-- scrum course
-- scrum certification
-- agile scrum training
+- Agile Coaching
+- Team Collaboration
+- Continuous Learning
+- Agile Mentoring Program
+- Agile Product Discovery
+- Agile Community
+- Scrum Team
+- Agile Product Management
+- Agile Software Development
+- Discovery and Learning
+- Employee Engagement
+- Agile Transformation
+- Value Delivery
+- Agile Values and Principles
 resourceTypes:
 - video
+categories:
+- People and Process
+- Discovery and Learning
+- Organisational Agility
+- Metrics and Learning
+- Scrum
 
 ---
 ## Immersive Learning: Revolutionising On-the-Job Agile Learning

@@ -24,25 +24,32 @@ preview: https://i9.ytimg.com/vi/LWRAX3OyO28/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 332
 isShort: false
 tags:
-- Software development
-- Software engineering
-- Agile
-- Product Development
-- Agile Product Development
-- Project Management
-- Agile Project Management
-- Product Management
-- Agile Product Management
-- CTO
-- Project Manager
-- Product Manager
-- Product Owner
-- Scrum Master
+- Continuous Delivery
+- Deployment Frequency
+- Automated Testing
+- DevOps
+- Customer Feedback Loops
+- Agile Tools
+- Continuous Improvement
+- Technical Excellence
+- Value Delivery
+- Lean Principles
+- Agile Software Development
+- Feedback Loops
+- Risk Management
+- Systems Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Continuous Delivery
+- DevOps
+- Technical Excellence
+- Metrics and Learning
+- Value Delivery
+- AI and Automation in Agility
 
 ---
  The True Power of Continuous Delivery: Reducing Risk and Increasing Effectiveness | Martin Hinshelwood

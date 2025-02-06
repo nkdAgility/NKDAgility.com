@@ -23,22 +23,32 @@ preview: https://i.ytimg.com/vi/NgoP5W5y7Gs/maxresdefault.jpg
 duration: 369
 isShort: false
 tags:
-- Software engineering
-- Software development
-- Agile
-- Product development
-- Agile product development
-- Project management
-- Agile project management
-- project manager
-- product owner
-- scrum master
-- product manager
+- Security by Design
+- Agile Software Development
+- DevOps
+- Technical Excellence
+- Continuous Improvement
+- Agile Software Engineering
+- Systems Thinking
+- Technical Debt
+- Evidence Based Management
+- Agile Product Management
+- Site Reliability Engineering
+- Lean Thinking
+- Agile Tools
+- Azure DevOps
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
+categories:
+- Code and Complexity
+- Technical Excellence
+- DevOps
+- Application Lifecycle Management
+- Practical Techniques and Tooling
 
 ---
 # Shift Left: Building Quality and Security From the Start

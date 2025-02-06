@@ -28,14 +28,25 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Agile Evolution
-- Agile Transformation
-- Agility
-- Business Agility
-- Product Development
+- Agile Values and Principles
+- Agile Leadership
+- Organisational Agility
+- Team Collaboration
+- Change Management
+- Agile Coaching
+- Agile Project Management
+- Self Organisation
+- Continuous Improvement
+- Agile Frameworks
+- Leadership Training
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- Agile Product Management
+- Enterprise Agility
+- People and Process
+- Resilience and Change
 
 ---
 How do you think Agile is evolving since its inception in 2001?

@@ -29,6 +29,12 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Value Delivery
+- Events and Presentations
+- Practical Techniques and Tooling
 
 ---
  Scrum is a lightweight framework that helps people, teams, and organizations generate value through adaptive solutions for complex problems. The Scrum Framework is made up of five values, three Accountabilities, three artefacts, and five events. 

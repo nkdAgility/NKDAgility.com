@@ -30,12 +30,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Dogma
-- Worst agile advice
-- Worst agile practice
-- Worst example of scrum
+- Scrum Master
+- Scrum Values
+- Daily Scrum
+- Team Collaboration
+- Team Motivation
+- Agile Values and Principles
+- Organisational Culture
+- Employee Engagement
+- Agile Transformation
+- Agile Project Management
+- Continuous Improvement
+- Agile Community
+- Psychological Safety
+- Self Organisation
+- Value Delivery
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Organisational Psychology
 
 ---
 **Worst agile advice you've ever heard?**

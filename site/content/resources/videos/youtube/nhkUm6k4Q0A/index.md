@@ -28,31 +28,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Agile Coaching
+- Scrum Master
+- Agile Values and Principles
+- Lean Principles
+- Team Collaboration
+- Continuous Improvement
+- Self Organisation
+- Agile Mentoring
+- Agile Community
+- Discovery and Learning
+- Customer Feedback Loops
+- Psychological Safety
 resourceTypes:
 - video
+categories:
+- People and Process
+- Scrum
+- Lean
+- Discovery and Learning
+- Organisational Agility
 
 ---
 If you’re looking to become a great Agile coach, one of the most crucial qualities you need to cultivate is agnosticism in your practices. While you may have your own preferences—mine happens to be Scrum—it’s important to ensure that the team you’re working with can choose the most effective practices that suit them. This may sometimes mean putting aside your favorite framework and helping the team make decisions that work best for their unique context.

@@ -23,17 +23,17 @@ preview: https://i.ytimg.com/vi/msmlRibX2zE/maxresdefault.jpg
 duration: 19
 isShort: true
 tags:
-- Harris Beach
-- SDS
-- Ultrabook
-- Unbox
-- intel
+- Featured
+- Agile Methodology
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- News and Reviews
+- Products and Books
 
 ---
  You can find the full post on http://nakedalm.com/review-harris-beach-sds-ultrabook-from-intel-unboxing/ 

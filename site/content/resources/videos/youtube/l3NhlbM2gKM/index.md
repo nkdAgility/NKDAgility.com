@@ -28,33 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
-- Agile leadership
-- Agile leader
-- Leadership
+- Scrum Team
+- Scrum Master
+- Scrum Product Management
+- Agile Estimation
+- Continuous Improvement
+- Agile Planning
+- Backlog Refinement
+- Technical Excellence
+- Value Delivery
+- Agile Product Management
+- Evidence Based Improvement
+- Agile Values and Principles
+- Complexity Thinking
 resourceTypes:
 - video
+categories:
+- Scrum
+- Metrics and Learning
+- People and Process
+- Discovery and Learning
+- Technical Excellence
 
 ---
 # Unraveling the Story Point Myth in Scrum: A Path to Clarity 🚀

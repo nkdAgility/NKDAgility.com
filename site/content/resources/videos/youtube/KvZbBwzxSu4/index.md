@@ -28,13 +28,29 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Owner
-- Product Manager
-- Product Management
-- Agile product management
-- Agile product development
+- Strategic Goals
+- Evidence Based Management
+- Team Collaboration
+- Agile Leadership
+- Decision Theory
+- Business Agility
+- Organisational Agility
+- Employee Engagement
+- Value Delivery
+- Agile Product Ownership
+- Change Management
+- Systems Thinking
+- Leadership Training
+- Continuous Improvement
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Agile Product Management
+- Decision Theory
+- Value Delivery
+- Resilience and Change
 
 ---
 In today's fast-paced, complex business environment, many organizations struggle with a fundamental issue: a widespread lack of understanding regarding value, strategic direction, and current goals. This problem isn't just theoretical; it's a reality I've witnessed firsthand across numerous organizations.

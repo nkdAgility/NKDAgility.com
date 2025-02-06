@@ -25,13 +25,29 @@ preview: https://i.ytimg.com/vi/JzUUQ4R9SCk/maxresdefault.jpg
 duration: 6841
 isShort: false
 tags:
-- Scrum
-- Empiricism
+- Scrum Values
+- Scrum Team
+- Scrum Product Management
+- Empirical Process Control
+- Continuous Improvement
+- Team Collaboration
+- Feedback & Discussion
+- Agile Values and Principles
+- Working Agreements
+- Agile Product Discovery
+- Agile Planning
+- Agile Coaching
+- Customer Feedback Loops
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Scrum
+- Events and Presentations
+- People and Process
+- Discovery and Learning
 
 ---
  00:09:30 Icebreaker

@@ -26,30 +26,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
+- Agile Software Development
+- Complexity Thinking
+- Agile Product Management
+- Team Collaboration
+- Agile Values and Principles
+- Agile Transformation
+- Systems Thinking
+- Technical Debt
+- Evidence Based Management
+- Continuous Improvement
+- Agile Product Discovery
+- Team Motivation
 resourceTypes:
 - video
+categories:
+- Complexity Thinking
+- Scrum
+- People and Process
+- Discovery and Learning
+- Systems Thinking
 
 ---
 ## Confronting Complexity 
