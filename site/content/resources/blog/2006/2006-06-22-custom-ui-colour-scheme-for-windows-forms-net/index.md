@@ -28,7 +28,8 @@ aliasesFor404:
 tags:
 - code
 categories:
-- code-and-complexity
+- Code and Complexity
+- Practical Techniques and Tooling
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

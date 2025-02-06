@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/windows-live-writer
 - /resources/blog/windows-live-writer
 categories:
-- products-and-books
+- Products and Books
+- News and Reviews
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

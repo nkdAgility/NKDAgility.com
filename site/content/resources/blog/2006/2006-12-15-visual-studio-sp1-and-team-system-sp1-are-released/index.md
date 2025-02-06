@@ -26,6 +26,9 @@ aliasesFor404:
 - /blog/visual-studio-sp1-and-team-system-sp1-are-released-
 - /resources/blog/visual-studio-sp1-and-team-system-sp1-are-released
 preview: nakedalm-logo-128-link-1-1.png
+categories:
+- News and Reviews
+- Install and Configuration
 
 ---
 I have been waiting for this for a while and [Brian Harry](http://blogs.msdn.com/bharry/) has some comments and notes on the topic. I will be installing this as soon as its mammoth 450mb download completes.

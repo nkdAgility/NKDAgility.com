@@ -24,6 +24,9 @@ aliasesFor404:
 tags:
 - off-topic
 preview: nakedalm-logo-128-link-1-1.png
+categories:
+- News and Reviews
+- Products and Books
 
 ---
 I managed to win an amazon voucher from Microsoft for my answers on cafemsn, not once but twice!

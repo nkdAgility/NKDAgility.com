@@ -25,7 +25,8 @@ tags:
 - answers
 - windows-mobile-6
 categories:
-- products-and-books
+- Products and Books
+- Install and Configuration
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

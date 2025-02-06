@@ -24,6 +24,9 @@ aliasesFor404:
 tags:
 - vs2005
 preview: metro-visual-studio-2005-128-link-1-1.png
+categories:
+- Install and Configuration
+- Technical Excellence
 
 ---
 I have just installed VS2005 on vista. Although I was setup for a whole host of problems, I had relatively few. There were some errors during the instalation. But all seams well...

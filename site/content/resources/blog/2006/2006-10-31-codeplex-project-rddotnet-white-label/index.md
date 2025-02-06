@@ -28,7 +28,8 @@ aliasesFor404:
 tags:
 - code
 categories:
-- me
+- Code and Complexity
+- Application Lifecycle Management
 preview: metro-binary-vb-128-link-1-1.png
 
 ---
