@@ -26,16 +26,23 @@ aliasesFor404:
 - /blog/execute-tests-with-release-management-for-visual-studio-2013
 - /resources/blog/execute-tests-release-management-visual-studio-2013
 tags:
-- automated-testing
-- release
-- release-management
-- release-pipline
-- standard-environments
-categories:
-- Install and Configuration
+- Automated Testing
+- Continuous Delivery
+- Test Driven Development
+- Technical Excellence
+- Release Planning
+- Agile Software Development
+- DevOps
+- Agile Tools
 - Azure DevOps
-- Test and Validation
-- Practical Techniques and Tooling
+- Test Strategy
+- Software Development
+- Value Delivery
+- Agile Product Management
+- Engineering Practices
+categories:
+- Application Lifecycle Management
+- Technical Excellence
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---

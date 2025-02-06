@@ -33,8 +33,8 @@ tags:
 - sharepoint
 - sp2013
 categories:
-- install-and-configuration
-- problems-and-puzzles
+- Install and Configuration
+- Application Lifecycle Management
 preview: metro-sharepoint-128-link-8-8.png
 
 ---

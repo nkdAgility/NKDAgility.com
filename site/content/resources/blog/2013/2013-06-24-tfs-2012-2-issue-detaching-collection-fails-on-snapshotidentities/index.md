@@ -26,15 +26,8 @@ aliasesFor404:
 - /blog/issue-[-tfs-2012-2-]-detaching-collection-fails-on-snapshotidentities-with-object-reference-not-set-to-an-instance-of-an-object
 - /resources/blog/tfs-2012-2-issue-detaching-collection-fails-on-snapshotidentities
 tags:
-- code
-- detach
-- puzzles
-- snapshotidentities
-- tfs
-- tfs2012
-- tfs2012-1
-- tfs-2012-3
-- tfs-2013
+- Technical Debt
+- Evidence Based Improvement
 categories:
 - Azure DevOps
 preview: puzzle-issue-problem-128-link-2-2.png

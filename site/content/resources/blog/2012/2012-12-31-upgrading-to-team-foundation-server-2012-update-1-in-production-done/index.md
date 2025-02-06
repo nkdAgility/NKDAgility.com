@@ -26,14 +26,8 @@ aliasesFor404:
 - /blog/upgrading-to-team-foundation-server-2012-update-1-in-production-–-done
 - /resources/blog/upgrading-to-team-foundation-server-2012-update-1-in-production-done
 tags:
-- configuration
-- infrastructure
-- tfs
-- tfs2008
-- tfs2010
-- tfs2012
-- tfs2012-1
-- tools
+- Deployment Frequency
+- Agile Tools
 categories:
 - Install and Configuration
 - Azure DevOps

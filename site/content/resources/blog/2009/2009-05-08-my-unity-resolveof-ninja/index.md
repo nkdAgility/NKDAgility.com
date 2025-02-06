@@ -26,12 +26,11 @@ aliasesFor404:
 - /blog/my-unity-resolve(of-ninja)
 - /resources/blog/my-unity-resolveof-ninja
 tags:
-- code
-- codeproject
-- tools
-- wpf
+- Agile Software Development
+- Technical Excellence
 categories:
-- code-and-complexity
+- Code and Complexity
+- Practical Techniques and Tooling
 preview: metro-binary-vb-128-link-4-1.png
 
 ---

@@ -26,12 +26,7 @@ aliasesFor404:
 - /blog/coffee-talk--introduction-to-scrum---webcast-event-this-friday-
 - /resources/blog/coffee-talk-introduction-to-scrum-webcast-event-this-friday
 tags:
-- agile
-- develop
-- events-and-presentations
-- nwcadence
-- practices
-- scrum
+- Scrum Team
 categories:
 - scrum
 preview: metro-event-128-link-2-2.png

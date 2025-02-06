@@ -26,9 +26,8 @@ aliasesFor404:
 - /blog/woops-i-installed-windows-8-instead-of-windows-8-pro-
 - /resources/blog/woops-i-installed-windows-8-instead-of-windows-8-pro
 tags:
-- tools
-- win8
-- windows
+- Technical Excellence
+- Agile Software Development
 preview: nakedalm-windows-logo-7-7.png
 
 ---

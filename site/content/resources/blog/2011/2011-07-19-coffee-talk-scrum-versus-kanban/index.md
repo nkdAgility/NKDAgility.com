@@ -26,14 +26,7 @@ aliasesFor404:
 - /blog/coffee-talk--scrum-versus-kanban
 - /resources/blog/coffee-talk-scrum-versus-kanban
 tags:
-- agile
-- events-and-presentations
-- kanban
-- lean
-- nwcadence
-- people
-- process
-- scrum
+- Kanban Theory
 categories:
 - Scrum
 - Kanban

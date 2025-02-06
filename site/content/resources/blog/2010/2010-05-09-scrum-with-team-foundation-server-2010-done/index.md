@@ -22,15 +22,7 @@ aliasesFor404:
 - /blog/scrum-with-team-foundation-server-2010-done
 - /resources/blog/scrum-with-team-foundation-server-2010-done
 tags:
-- agile
-- develop
-- events-and-presentations
-- process
-- scrum
-- ssw
-- tfs
-- tfs2010
-- tools
+- Scrum Team
 categories:
 - Scrum
 - Application Lifecycle Management

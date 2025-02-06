@@ -26,10 +26,8 @@ aliasesFor404:
 - /blog/tfs-integration-tools-–-issue--error-occurred-during-the-code-review-of-change-group
 - /resources/blog/tfs-integration-tools-issue-error-occurred-during-the-code-review-of-change-group
 tags:
-- kb
-- puzzles
-- tfs2012
-- tfs-integration-platform
+- Agile Tools
+- Continuous Integration
 categories:
 - Azure DevOps
 preview: metro-problem-icon-2-2.png

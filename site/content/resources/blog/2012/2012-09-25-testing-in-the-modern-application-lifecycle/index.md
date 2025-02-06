@@ -22,20 +22,8 @@ aliasesFor404:
 - /blog/testing-in-the-modern-application-lifecycle
 - /resources/blog/testing-in-the-modern-application-lifecycle
 tags:
-- agile
-- develop
-- infrastructure
-- manual-test
-- modern-alm
-- modern-application-lifecycle
-- practices
-- process
-- s30d
-- tfs
-- tfs2012
-- the-new-normal
-- tools
-- vs2012
+- Automated Testing
+- Continuous Delivery
 categories:
 - Application Lifecycle Management
 preview: metro-test-icon-7-7.png

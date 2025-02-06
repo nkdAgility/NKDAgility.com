@@ -22,17 +22,8 @@ aliasesFor404:
 - /blog/unit-testing-against-the-team-foundation-server-2012-api
 - /resources/blog/unit-testing-against-the-team-foundation-server-2012-api
 tags:
-- code
-- configuration
-- infrastructure
-- practices
-- tdd
-- tfs2012
-- tf-service
-- tools
-- unit-testing
-- visual-studio
-- vs2012
+- Test Driven Development
+- Automated Testing
 categories:
 - Azure DevOps
 - Technical Excellence

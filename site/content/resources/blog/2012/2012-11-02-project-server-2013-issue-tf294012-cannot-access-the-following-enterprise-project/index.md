@@ -28,16 +28,8 @@ aliasesFor404:
 - /project-server-2013-issue
 - /resources/blog/project-server-2013-issue-tf294012-cannot-access-the-following-enterprise-project
 tags:
-- infrastructure
-- project-server
-- ps2013
-- puzzles
-- sharepoint
-- sp2013
-- tf294012
-- tfs
-- tfs2012
-- tools
+- Agile Project Management
+- Technical Excellence
 categories:
 - Azure DevOps
 preview: metro-problem-icon-8-8.png

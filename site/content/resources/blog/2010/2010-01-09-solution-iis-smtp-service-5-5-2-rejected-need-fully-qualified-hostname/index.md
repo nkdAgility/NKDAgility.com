@@ -26,10 +26,12 @@ aliasesFor404:
 - /blog/solution---iis-smtp-service-5-5-2-rejected--need-fully-qualified-hostname
 - /resources/blog/solution-iis-smtp-service-5-5-2-rejected-need-fully-qualified-hostname
 tags:
-- network
-- ssw
-- tools
+- Site Reliability
+- Technical Excellence
 preview: metro-SSWLogo-128-link-5-5.png
+categories:
+- Install and Configuration
+- Technical Excellence
 
 ---
 We had a small problem today with a new site we were going live with. It was refusing to send emails in 90% of cases. Problems like these are always difficult to identify, but your first step is always to enable logging.

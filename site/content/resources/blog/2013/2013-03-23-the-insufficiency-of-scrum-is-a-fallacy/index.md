@@ -22,17 +22,8 @@ aliasesFor404:
 - /blog/the-insufficiency-of-scrum-is-a-fallacy
 - /resources/blog/the-insufficiency-of-scrum-is-a-fallacy
 tags:
-- agile
-- develop
-- improve
-- kanban
-- people
-- practices
-- process
-- scaled-agile
-- scrum
-- strategic
-- tactical
+- Scrum Master
+- Technical Debt
 categories:
 - People and Process
 - Scrum

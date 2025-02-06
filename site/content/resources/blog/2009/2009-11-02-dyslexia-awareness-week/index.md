@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/dyslexia-awareness-week
 - /resources/blog/dyslexia-awareness-week
 tags:
-- dyslexia
+- Ability to Innovate
+- Organisational Culture
 categories:
 - People and Process
 preview: nakedalm-logo-128-link-2-2.png

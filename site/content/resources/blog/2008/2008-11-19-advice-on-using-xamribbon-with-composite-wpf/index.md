@@ -22,11 +22,8 @@ aliasesFor404:
 - /blog/advice-on-using-xamribbon-with-composite-wpf
 - /resources/blog/advice-on-using-xamribbon-with-composite-wpf
 tags:
-- code
-- codeproject
-- tfs-sticky-buddy
-- tools
-- wpf
+- Agile Software Development
+- Technical Excellence
 categories:
 - Application Lifecycle Management
 preview: metro-binary-vb-128-link-2-2.png

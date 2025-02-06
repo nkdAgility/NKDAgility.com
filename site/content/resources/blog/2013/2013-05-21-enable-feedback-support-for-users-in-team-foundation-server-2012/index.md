@@ -22,15 +22,8 @@ aliasesFor404:
 - /blog/enable-feedback-support-for-users-in-team-foundation-server-2012
 - /resources/blog/enable-feedback-support-for-users-in-team-foundation-server-2012
 tags:
-- access-levels
-- area-hierarchy
-- configuration
-- email-alert-settings
-- feedback-client
-- permissions
-- security
-- tf400264
-- tools
+- Agile Tools
+- Customer Feedback Loops
 categories:
 - Install and Configuration
 - Azure DevOps

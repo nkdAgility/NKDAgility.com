@@ -22,14 +22,8 @@ aliasesFor404:
 - /blog/searching-for-self-organisation
 - /resources/blog/searching-for-self-organisation
 tags:
-- culture
-- development-team
-- improve
-- project-manager
-- self-organisation
-- strategic
-- team
-- teams
+- Self Organisation
+- Team Collaboration
 categories:
 - People and Process
 - Organisational Agility

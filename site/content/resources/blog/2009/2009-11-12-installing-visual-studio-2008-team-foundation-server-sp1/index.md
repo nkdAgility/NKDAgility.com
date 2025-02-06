@@ -22,18 +22,12 @@ aliasesFor404:
 - /blog/installing-visual-studio-2008-team-foundation-server-sp1
 - /resources/blog/installing-visual-studio-2008-team-foundation-server-sp1
 tags:
-- moss2007
-- sharepoint
-- sp2007
-- ssw
-- tfs
-- tfs2008
-- tools
-- upgrade
-- visual-studio
-- vs2005
-- vs2008
+- Deployment Strategies
+- Continuous Delivery
 preview: metro-visual-studio-2005-128-link-10-10.png
+categories:
+- Install and Configuration
+- Application Lifecycle Management
 
 ---
 I have been trying since SP1 was released to get it installed at Aggreko, but due to our global, three time zones, development team and release schedules it has been very difficult to get some time set aside for it.

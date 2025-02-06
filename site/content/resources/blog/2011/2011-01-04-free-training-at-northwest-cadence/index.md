@@ -22,10 +22,11 @@ aliasesFor404:
 - /blog/free-training-at-northwest-cadence
 - /resources/blog/free-training-at-northwest-cadence
 tags:
-- events-and-presentations
-- nwcadence
+- Agile Community
+- Agile Software Development
 categories:
-- events-and-presentations
+- Events and Presentations
+- Application Lifecycle Management
 preview: metro-event-128-link-3-3.png
 
 ---

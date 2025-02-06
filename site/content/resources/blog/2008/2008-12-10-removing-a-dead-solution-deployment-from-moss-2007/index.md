@@ -22,10 +22,12 @@ aliasesFor404:
 - /blog/removing-a-dead-solution-deployment-from-moss-2007
 - /resources/blog/removing-a-dead-solution-deployment-from-moss-2007
 tags:
-- moss2007
-- sharepoint
-- tools
+- Deployment Strategies
+- Technical Debt
 preview: metro-sharepoint-128-link-1-1.png
+categories:
+- Install and Configuration
+- Application Lifecycle Management
 
 ---
 If, like me, you tried to deploy a solution to Microsoft Office SharePoint Server 2007 and it ether failed or hung you will need to remove it somehow. But once the status has moved to “deploying”, if you receive an error like this:

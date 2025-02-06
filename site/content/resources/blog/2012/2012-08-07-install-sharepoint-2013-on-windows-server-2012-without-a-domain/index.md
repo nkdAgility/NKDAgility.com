@@ -22,11 +22,8 @@ aliasesFor404:
 - /blog/install-sharepoint-2013-on-windows-server-2012-without-a-domain
 - /resources/blog/install-sharepoint-2013-on-windows-server-2012-without-a-domain
 tags:
-- configuration
-- infrastructure
-- windows-server-2012
-- sharepoint
-- tools
+- Agile Software Development
+- Technical Excellence
 categories:
 - Install and Configuration
 - Azure DevOps

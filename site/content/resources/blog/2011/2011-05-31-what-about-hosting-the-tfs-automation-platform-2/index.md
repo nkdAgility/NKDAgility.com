@@ -26,14 +26,8 @@ aliasesFor404:
 - /blog/what-about-hosting-the-tfs-automation-platform
 - /resources/blog/what-about-hosting-the-tfs-automation-platform-2
 tags:
-- nwcadence
-- tfs
-- tfs2010
-- tfsap
-- tools
-- visual-studio
-- vs2010
-- vsalmrangers
+- Application Lifecycle Management
+- Azure DevOps
 preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---

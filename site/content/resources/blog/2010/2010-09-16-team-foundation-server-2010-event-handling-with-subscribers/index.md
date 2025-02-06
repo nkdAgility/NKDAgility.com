@@ -22,13 +22,8 @@ aliasesFor404:
 - /blog/team-foundation-server-2010-event-handling-with-subscribers
 - /resources/blog/team-foundation-server-2010-event-handling-with-subscribers
 tags:
-- code
-- codeproject
-- modern-alm
-- tfs
-- tfs2010
-- tfs-event-handler
-- tools
+- Agile Software Development
+- Agile Tools
 categories:
 - Azure DevOps
 preview: metro-binary-vb-128-link-4-4.png

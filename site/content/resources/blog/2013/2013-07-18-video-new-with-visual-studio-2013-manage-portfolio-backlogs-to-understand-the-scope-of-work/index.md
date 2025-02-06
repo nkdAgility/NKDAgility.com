@@ -26,13 +26,8 @@ aliasesFor404:
 - /blog/video--new-with-visual-studio-2013--manage-portfolio-backlogs-to-understand-the-scope-of-work
 - /resources/blog/video-new-with-visual-studio-2013-manage-portfolio-backlogs-to-understand-the-scope-of-work
 tags:
-- define
-- improve
-- operational
-- portfolio-management
-- practices
-- process
-- tfs-2013
+- Agile Portfolio Management
+- Agile Planning
 categories:
 - Application Lifecycle Management
 preview: nakedalm-experts-visual-studio-alm-2-2.png

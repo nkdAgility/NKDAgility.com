@@ -26,12 +26,8 @@ aliasesFor404:
 - /blog/always-prompted-for-credentials-in-tfs-2010-
 - /resources/blog/always-prompted-for-credentials-in-tfs-2010
 tags:
-- nwcadence
-- tfs
-- tfs2008
-- tfs2010
-- tools
-- webcast-2
+- Technical Debt
+- Agile Tools
 preview: metro-visual-studio-2005-128-link-6-6.png
 
 ---

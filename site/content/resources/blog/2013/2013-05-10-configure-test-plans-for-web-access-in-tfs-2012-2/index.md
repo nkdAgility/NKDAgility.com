@@ -22,15 +22,8 @@ aliasesFor404:
 - /blog/configure-test-plans-for-web-access-in-tfs-2012-2
 - /resources/blog/configure-test-plans-for-web-access-in-tfs-2012-2
 tags:
-- area-path
-- configuration
-- mtm
-- team-field
-- teams
-- test-hub
-- test-plan
-- tf26204
-- tools
+- Agile Planning Tools
+- Test Strategy
 categories:
 - Install and Configuration
 - Azure DevOps

@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
 - /resources/blog/caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
 tags:
-- nwcadence
-- tools
+- Agile Software Development
+- Application Lifecycle Management
 categories:
 - events-and-presentations
 preview: metro-nwc-128-link-3-3.png

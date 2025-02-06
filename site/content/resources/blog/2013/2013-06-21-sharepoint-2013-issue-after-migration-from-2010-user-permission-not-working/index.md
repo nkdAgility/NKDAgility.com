@@ -28,12 +28,8 @@ aliasesFor404:
 - /sharepoint-2013-issue
 - /resources/blog/sharepoint-2013-issue-after-migration-from-2010-user-permission-not-working
 tags:
-- code
-- configuration
-- powershell
-- puzzles
-- sharepoint
-- sharepoint-2013
+- Agile Software Development
+- Technical Excellence
 categories:
 - Application Lifecycle Management
 - Install and Configuration

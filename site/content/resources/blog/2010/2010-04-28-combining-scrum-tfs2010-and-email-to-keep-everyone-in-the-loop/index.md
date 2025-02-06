@@ -30,17 +30,7 @@ aliasesFor404:
 - /blog/combining-scrum--tfs2010-and-email-to-keep-everyone-in-the-loop
 - /resources/blog/combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop
 tags:
-- agile
-- people
-- process
-- scrum
-- sharepoint
-- spf2010
-- ssw
-- tfs
-- tfs2008
-- tfs2010
-- tools
+- Team Collaboration
 categories:
 - People and Process
 - Azure DevOps

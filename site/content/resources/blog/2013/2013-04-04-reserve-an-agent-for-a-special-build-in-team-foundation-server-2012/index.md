@@ -22,20 +22,8 @@ aliasesFor404:
 - /blog/reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
 - /resources/blog/reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
 tags:
-- agent-scope
-- build-agent
-- code
-- configuration
-- infrastructure
-- operational
-- snapshot
-- tactical
-- tag
-- tfs
-- tfs2012
-- tfs2012-2
-- tools
-- vm
+- Agile Software Development
+- DevOps
 categories:
 - Azure DevOps
 - Install and Configuration

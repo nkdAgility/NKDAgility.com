@@ -22,16 +22,8 @@ aliasesFor404:
 - /blog/upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done
 - /resources/blog/upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done
 tags:
-- spf2010
-- ssw
-- tfs
-- tfs2008
-- tfs2010
-- tools
-- upgrade
-- visual-studio
-- vs2008
-- vs2010
+- Deployment Strategies
+- Agile Software Development
 preview: metro-visual-studio-2010-128-link-3-3.png
 
 ---

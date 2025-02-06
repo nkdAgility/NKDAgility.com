@@ -22,8 +22,12 @@ aliasesFor404:
 - /blog/tfs-data-manager
 - /resources/blog/tfs-data-manager
 tags:
-- tools
+- Agile Tools
+- Application Lifecycle Management
 preview: nakedalm-logo-128-link-1-1.png
+categories:
+- Application Lifecycle Management
+- Azure DevOps
 
 ---
 This looks like a [fantastic product](http://onepulse.com/) that will let you do pretty much everything that has been missing from TFS. You can cop / clone projects across servers. you get disaster recovery capabilities that surpass anything that has before been available!

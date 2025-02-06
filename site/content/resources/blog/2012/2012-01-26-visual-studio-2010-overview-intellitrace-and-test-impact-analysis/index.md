@@ -28,14 +28,8 @@ aliasesFor404:
 - /visual-studio-2010-overview
 - /resources/blog/visual-studio-2010-overview-intellitrace-and-test-impact-analysis
 tags:
-- modern-alm
-- nwcadence
-- tfs
-- tfs2010
-- tools
-- visual-studio
-- vs2010
-- webcast-2
+- Automated Testing
+- Agile Tools
 preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---

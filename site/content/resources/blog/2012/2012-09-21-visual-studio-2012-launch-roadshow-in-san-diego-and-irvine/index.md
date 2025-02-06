@@ -26,12 +26,8 @@ aliasesFor404:
 - /blog/visual-studio-2012-launch-roadshows-around-the-world
 - /resources/blog/visual-studio-2012-launch-roadshow-in-san-diego-and-irvine
 tags:
-- events-and-presentations
-- modern-alm
-- tfs
-- tfs2012
-- visual-studio
-- vs2012
+- Agile Software Development
+- Agile Product Management
 categories:
 - Events and Presentations
 preview: metro-event-icon-3-3.png

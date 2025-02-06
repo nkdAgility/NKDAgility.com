@@ -26,13 +26,8 @@ aliasesFor404:
 - /blog/wpf-ninject-dojo--the-data-provider
 - /resources/blog/wpf-ninject-dojo-the-data-provider
 tags:
-- code
-- codeproject
-- mvvm
-- tools
-- visual-studio
-- vs2010
-- wpf
+- Agile Software Development
+- Technical Excellence
 categories:
 - Code and Complexity
 preview: metro-visual-studio-2010-128-link-1-1.png

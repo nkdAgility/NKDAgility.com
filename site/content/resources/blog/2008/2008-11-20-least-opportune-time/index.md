@@ -26,9 +26,8 @@ aliasesFor404:
 - /blog/least-opportune-time-
 - /resources/blog/least-opportune-time
 tags:
-- tfs
-- tfs2008
-- wit
+- Team Collaboration
+- Customer Feedback Loops
 categories:
 - Azure DevOps
 preview: metro-visual-studio-2005-128-link-4-4.png

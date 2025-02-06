@@ -37,8 +37,7 @@ tags:
 - visual-studio
 - vs2010
 categories:
-- Azure DevOps
-- Problems and Puzzles
+- Practical Techniques and Tooling
 preview: metro-visual-studio-2010-128-link-4-4.png
 
 ---

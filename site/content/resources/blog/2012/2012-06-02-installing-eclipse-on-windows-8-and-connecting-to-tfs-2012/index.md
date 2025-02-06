@@ -22,14 +22,8 @@ aliasesFor404:
 - /blog/installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
 - /resources/blog/installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
 tags:
-- configuration
-- eclipse
-- infrastructure
-- nwcadence
-- tfs
-- tfs2010
-- tfs2012
-- tools
+- Agile Software Development
+- Application Lifecycle Management
 categories:
 - Install and Configuration
 - Application Lifecycle Management

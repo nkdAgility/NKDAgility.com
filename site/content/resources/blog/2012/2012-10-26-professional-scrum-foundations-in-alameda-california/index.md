@@ -30,14 +30,8 @@ aliasesFor404:
 - /blog/professional-scrum-foundations-in-alameda--california
 - /resources/blog/professional-scrum-foundations-in-alameda-california
 tags:
-- agile
-- improve
-- measure
-- process
-- process-improvement
-- psf
-- s30d
-- scrum
+- Self Organisation
+- Scrum Team
 categories:
 - Scrum
 - People and Process

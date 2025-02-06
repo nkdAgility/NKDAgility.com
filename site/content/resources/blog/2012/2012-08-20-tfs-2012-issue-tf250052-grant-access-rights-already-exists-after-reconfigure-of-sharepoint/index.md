@@ -28,10 +28,8 @@ aliasesFor404:
 - /tfs-2012
 - /resources/blog/tfs-2012-issue-tf250052-grant-access-rights-already-exists-after-reconfigure-of-sharepoint
 tags:
-- puzzles
-- sharepoint
-- tf250052
-- tfs2012
+- Technical Debt
+- Continuous Improvement
 categories:
 - Install and Configuration
 preview: metro-problem-icon-2-2.png

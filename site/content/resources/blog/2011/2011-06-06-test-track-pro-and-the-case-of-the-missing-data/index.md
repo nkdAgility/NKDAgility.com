@@ -22,11 +22,11 @@ aliasesFor404:
 - /blog/test-track-pro-and-the-case-of-the-missing-data
 - /resources/blog/test-track-pro-and-the-case-of-the-missing-data
 tags:
-- nwcadence
-- ttp
-- tfs
-- tfs2010
-- tools
+- Agile Software Development
+- Technical Excellence
+categories:
+- Code and Complexity
+- Azure DevOps
 
 ---
 [![ttp2011_1](images/ttp2011_1_thumb-6-6.gif "ttp2011_1")](http://blog.hinshelwood.com/files/2011/06/ttp2011_1.gif)

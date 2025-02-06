@@ -22,13 +22,8 @@ aliasesFor404:
 - /blog/visual-studio-alm-mvp-of-the-year-2011
 - /resources/blog/visual-studio-alm-mvp-of-the-year-2011
 tags:
-- awards
-- nwcadence
-- tfs
-- tfs2010
-- tools
-- visual-studio
-- vs2010
+- Agile Community
+- Technical Mastery
 categories:
 - Azure DevOps
 preview: metro-award-link-2-2.png

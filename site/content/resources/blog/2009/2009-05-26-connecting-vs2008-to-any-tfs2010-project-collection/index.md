@@ -22,11 +22,8 @@ aliasesFor404:
 - /blog/connecting-vs2008-to-any-tfs2010-project-collection
 - /resources/blog/connecting-vs2008-to-any-tfs2010-project-collection
 tags:
-- tfs
-- tfs2010
-- tools
-- visual-studio
-- vs2008
+- Agile Software Development
+- Technical Excellence
 preview: metro-visual-studio-2005-128-link-3-3.png
 
 ---

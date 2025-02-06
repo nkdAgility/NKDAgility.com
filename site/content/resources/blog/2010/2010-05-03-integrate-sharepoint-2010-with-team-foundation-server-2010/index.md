@@ -22,18 +22,8 @@ aliasesFor404:
 - /blog/integrate-sharepoint-2010-with-team-foundation-server-2010
 - /resources/blog/integrate-sharepoint-2010-with-team-foundation-server-2010
 tags:
-- codeproject
-- configuration
-- infrastructure
-- moss2007
-- sharepoint
-- sp2007
-- spf2010
-- ssw
-- tfs
-- tfs2008
-- tfs2010
-- tools
+- Agile Tools
+- Azure DevOps
 categories:
 - Install and Configuration
 - Azure DevOps

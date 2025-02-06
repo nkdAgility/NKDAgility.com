@@ -22,11 +22,8 @@ aliasesFor404:
 - /blog/application-lifecycle-management-with-office-2013-on-windows-8
 - /resources/blog/application-lifecycle-management-with-office-2013-on-windows-8
 tags:
-- configuration
-- infrastructure
-- office-2013
-- storyboarding
-- tools
+- Application Lifecycle Management
+- Agile Software Development
 categories:
 - Application Lifecycle Management
 - Install and Configuration

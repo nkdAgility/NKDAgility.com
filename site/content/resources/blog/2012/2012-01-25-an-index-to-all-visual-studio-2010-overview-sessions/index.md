@@ -26,14 +26,12 @@ aliasesFor404:
 - /blog/visual-studio-2010-overview-webcasts
 - /resources/blog/an-index-to-all-visual-studio-2010-overview-sessions
 tags:
-- modern-alm
-- nwcadence
-- tfs
-- tfs2010
-- tools
-- visual-studio
-- vs2010
+- Agile Software Development
+- Azure DevOps
 preview: metro-visual-studio-2010-128-link-1-1.png
+categories:
+- Application Lifecycle Management
+- Events and Presentations
 
 ---
 [![VisualStudioALMLogo](images/VisualStudioALMLogo_thumb-2-2.png "VisualStudioALMLogo")](http://blog.hinshelwood.com/files/2012/01/VisualStudioALMLogo.png)

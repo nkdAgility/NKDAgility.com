@@ -26,8 +26,12 @@ aliasesFor404:
 - /blog/why-is-the-vs2010-iso-so-small-
 - /resources/blog/why-is-the-vs2010-iso-so-small
 tags:
-- tools
+- Technical Debt
+- Agile Software Development
 preview: nakedalm-logo-128-link-1-1.png
+categories:
+- Install and Configuration
+- Application Lifecycle Management
 
 ---
 The reason is simple, it has no MSDN documentation in it. I for one never install the MSDN documentation and just use the online version and have always found it a pain to have it inside the same installation, but may people find it useful.

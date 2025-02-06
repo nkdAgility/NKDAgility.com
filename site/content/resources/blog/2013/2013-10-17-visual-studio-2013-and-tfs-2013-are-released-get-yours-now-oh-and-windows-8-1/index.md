@@ -40,12 +40,8 @@ tags:
 - windows-8
 - windows-8-1
 categories:
-- code-and-complexity
-- install-and-configuration
-- news-and-reviews
-- products-and-books
-- tools-and-techniques
-- upgrade-and-maintenance
+- Azure DevOps
+- Install and Configuration
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

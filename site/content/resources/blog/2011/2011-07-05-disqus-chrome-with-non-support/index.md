@@ -26,7 +26,8 @@ aliasesFor404:
 - /blog/disqus-&-chrome-with-non-support
 - /resources/blog/disqus-chrome-with-non-support
 tags:
-- off-topic
+- Customer Satisfaction
+- Agile Software Development
 categories:
 - Install and Configuration
 preview: nakedalm-logo-128-link-7-7.png

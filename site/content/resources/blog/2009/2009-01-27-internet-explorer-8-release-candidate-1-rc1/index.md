@@ -26,7 +26,8 @@ aliasesFor404:
 - /blog/internet-explorer-8-release-candidate-1-(rc1)
 - /resources/blog/internet-explorer-8-release-candidate-1-rc1
 tags:
-- tools
+- Agile Software Development
+- Continuous Delivery
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

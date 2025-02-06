@@ -28,17 +28,8 @@ aliasesFor404:
 - /team-foundation-build-2012-issue
 - /resources/blog/cleanworkspacepackagetempdir-error-in-team-foundation-build-2012
 tags:
-- azure
-- infrastructure
-- mvc
-- puzzles
-- tfs-build
-- tfs
-- tfs2012
-- tools
-- visual-studio
-- vs2010
-- web
+- Continuous Integration
+- Technical Debt
 categories:
 - Azure DevOps
 preview: metro-problem-icon-6-6.png

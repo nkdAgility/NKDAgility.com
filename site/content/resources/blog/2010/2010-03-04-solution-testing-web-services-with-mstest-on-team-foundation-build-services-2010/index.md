@@ -26,18 +26,8 @@ aliasesFor404:
 - /blog/solution--testing-web-services-with-mstest-on-team-foundation-build-services-2010
 - /resources/blog/solution-testing-web-services-with-mstest-on-team-foundation-build-services-2010
 tags:
-- automated-build
-- scrum
-- silverlight
-- ssw
-- testing
-- tfs-build
-- tfs
-- tfs2010
-- tools
-- visual-studio
-- vs2010
-- wcf
+- Automated Testing
+- Test Driven Development
 preview: metro-visual-studio-2010-128-link-6-6.png
 
 ---

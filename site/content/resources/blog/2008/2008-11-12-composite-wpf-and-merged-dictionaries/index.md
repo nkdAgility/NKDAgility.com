@@ -22,11 +22,8 @@ aliasesFor404:
 - /blog/composite-wpf-and-merged-dictionaries
 - /resources/blog/composite-wpf-and-merged-dictionaries
 tags:
-- code
-- tfs-sticky-buddy
-- tools
-- wpf
-- xaml
+- Agile Software Development
+- Technical Excellence
 categories:
 - Application Lifecycle Management
 - Code and Complexity

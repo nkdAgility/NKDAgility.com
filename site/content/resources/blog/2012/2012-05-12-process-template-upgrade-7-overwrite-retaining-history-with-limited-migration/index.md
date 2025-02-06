@@ -26,11 +26,8 @@ aliasesFor404:
 - /blog/process-template-upgrade--7-–-rename-work-items-and-import-new-ones
 - /resources/blog/process-template-upgrade-7-overwrite-retaining-history-with-limited-migration
 tags:
-- configuration
-- infrastructure
-- tf400508
-- tfs
-- tools
+- Agile Planning
+- Scrum Product Management
 categories:
 - Azure DevOps
 

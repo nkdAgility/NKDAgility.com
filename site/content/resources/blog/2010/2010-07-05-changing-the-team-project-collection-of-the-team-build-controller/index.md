@@ -22,11 +22,8 @@ aliasesFor404:
 - /blog/changing-the-team-project-collection-of-the-team-build-controller
 - /resources/blog/changing-the-team-project-collection-of-the-team-build-controller
 tags:
-- ssw
-- tfs-build
-- tfs
-- tfs2010
-- tools
+- Application Lifecycle Management
+- DevOps
 preview: metro-SSWLogo-128-link-6-6.png
 
 ---

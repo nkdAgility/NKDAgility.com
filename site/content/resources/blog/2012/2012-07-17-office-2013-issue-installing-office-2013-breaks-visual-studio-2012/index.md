@@ -26,12 +26,8 @@ aliasesFor404:
 - /blog/office-2013-issue--installing-office-2013-breaks-visual-studio-2012
 - /resources/blog/office-2013-issue-installing-office-2013-breaks-visual-studio-2012
 tags:
-- _atomic_fetch_sub_4
-- office
-- office-2013
-- office14
-- puzzles
-- vs2012
+- Technical Debt
+- Continuous Improvement
 categories:
 - Install and Configuration
 preview: metro-problem-icon-4-4.png

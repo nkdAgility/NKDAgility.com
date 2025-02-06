@@ -22,12 +22,8 @@ aliasesFor404:
 - /blog/why-you-need-to-tag-your-build-servers-in-tfs
 - /resources/blog/why-you-need-to-tag-your-build-servers-in-tfs
 tags:
-- automated-build
-- ssw
-- tfs-build
-- tfs
-- tfs2010
-- tools
+- Agile Tools
+- DevOps
 preview: metro-SSWLogo-128-link-10-10.png
 
 ---

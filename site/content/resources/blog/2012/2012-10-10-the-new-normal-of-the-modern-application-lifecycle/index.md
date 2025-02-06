@@ -22,15 +22,8 @@ aliasesFor404:
 - /blog/the-new-normal-of-the-modern-application-lifecycle
 - /resources/blog/the-new-normal-of-the-modern-application-lifecycle
 tags:
-- agile
-- improve
-- measure
-- modern-alm
-- process
-- process-improvement
-- s30d
-- series-modern-application-lifecycle
-- the-new-normal
+- Application Lifecycle Management
+- Business Agility
 categories:
 - Application Lifecycle Management
 - People and Process

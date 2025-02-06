@@ -26,10 +26,8 @@ aliasesFor404:
 - /blog/what-is-the-roll-of-the-project-manager-in-scrum-
 - /resources/blog/what-is-the-roll-of-the-project-manager-in-scrum
 tags:
-- develop
-- people
-- process
-- scrum
+- Scrum Master
+- Product Owner
 categories:
 - People and Process
 - Scrum

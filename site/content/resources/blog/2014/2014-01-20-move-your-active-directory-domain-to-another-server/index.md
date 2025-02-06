@@ -22,10 +22,16 @@ aliasesFor404:
 - /blog/move-your-active-directory-domain-to-another-server
 - /resources/blog/move-your-active-directory-domain-to-another-server
 tags:
-- active-directory
-- domain
-- server-2012-r2
-- tf255435
+- Change Management
+- Technical Debt
+- Agile Software Development
+- Deployment Strategies
+- Continuous Improvement
+- Evidence Based Management
+- Agile Project Management
+- Systems Thinking
+- Organisational Change
+- Technical Excellence
 categories:
 - Install and Configuration
 - Azure DevOps

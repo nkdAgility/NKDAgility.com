@@ -26,13 +26,8 @@ aliasesFor404:
 - /blog/issue-[-tfs-2013-]-inrelease-account-requires-make-requests-on-behalf-of-others
 - /resources/blog/issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
 tags:
-- code
-- configuration
-- inrelease
-- make-requests-on-behalf-of-others
-- puzzles
-- tfs
-- tfs-2013
+- Agile Tools
+- Azure DevOps
 categories:
 - Install and Configuration
 - Azure DevOps

@@ -22,11 +22,8 @@ aliasesFor404:
 - /blog/active-directory-groups-not-syncing-with-team-foundation-server-2010
 - /resources/blog/active-directory-groups-not-syncing-with-team-foundation-server-2010
 tags:
-- codeproject
-- ssw
-- tfs
-- tfs2010
-- tools
+- Agile Software Development
+- Technical Debt
 preview: metro-SSWLogo-128-link-7-7.png
 
 ---

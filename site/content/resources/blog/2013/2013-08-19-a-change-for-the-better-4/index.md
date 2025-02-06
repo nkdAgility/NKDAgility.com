@@ -28,10 +28,8 @@ aliasesFor404:
 - /a-change-for-the-better--4
 - /resources/blog/a-change-for-the-better-4
 tags:
-- change
-- change-for-the-better
-- modern-alm
-- northwest-cadence
+- Agile Transformation
+- Organisational Change
 categories:
 - Resilience and Change
 - News and Reviews

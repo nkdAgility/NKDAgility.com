@@ -26,15 +26,8 @@ aliasesFor404:
 - /blog/you-can't-stack-rank-hierarchical-work-items-
 - /resources/blog/you-cant-stack-rank-hierarchical-work-items
 tags:
-- configuration
-- infrastructure
-- nwcadence
-- process
-- tfs2012
-- tf-service
-- tools
-- visual-studio
-- vs2012
+- Product Backlog
+- Agile Planning
 categories:
 - Agile Product Management
 preview: nakedalm-experts-visual-studio-alm-14-14.png

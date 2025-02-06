@@ -22,16 +22,8 @@ aliasesFor404:
 - /blog/finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
 - /resources/blog/finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
 tags:
-- automated-build
-- scrum
-- ssw
-- testing
-- tfs-build
-- tfs
-- tools
-- visual-studio
-- vs2010
-- wcf
+- Scrum Product Development
+- Technical Excellence
 preview: metro-visual-studio-2010-128-link-8-8.png
 
 ---

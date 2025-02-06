@@ -26,14 +26,7 @@ aliasesFor404:
 - /blog/are-you-doing-scrum--really-
 - /resources/blog/are-you-doing-scrum-really
 tags:
-- develop
-- nwcadence
-- people
-- process
-- psd
-- psf
-- psm
-- scrum
+- Scrum Master
 categories:
 - Scrum
 - People and Process

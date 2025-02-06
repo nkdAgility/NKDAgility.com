@@ -22,15 +22,8 @@ aliasesFor404:
 - /blog/integrating-project-server-2013-with-team-foundation-server-2012
 - /resources/blog/integrating-project-server-2013-with-team-foundation-server-2012
 tags:
-- configuration
-- infrastructure
-- project-server
-- ps2013
-- sharepoint
-- sp2013
-- tfs
-- tfs2012
-- tools
+- Agile Project Management
+- Agile Tools
 categories:
 - Install and Configuration
 - Azure DevOps

@@ -22,11 +22,8 @@ aliasesFor404:
 - /blog/unity-and-asp-net
 - /resources/blog/unity-and-asp-net
 tags:
-- code
-- codeproject
-- dependency-injection
-- tools
-- wpf
+- Agile Software Development
+- Technical Excellence
 categories:
 - code-and-complexity
 preview: metro-binary-vb-128-link-1-1.png

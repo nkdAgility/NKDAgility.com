@@ -22,11 +22,8 @@ aliasesFor404:
 - /blog/the-great-team-foundation-server-2013-upgrade-weekend
 - /resources/blog/the-great-team-foundation-server-2013-upgrade-weekend
 tags:
-- configuration
-- install
-- tfs
-- tfs-2013
-- upgrade
+- Agile Tools
+- Continuous Delivery
 categories:
 - Azure DevOps
 - News and Reviews

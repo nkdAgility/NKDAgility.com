@@ -26,17 +26,8 @@ aliasesFor404:
 - /blog/project-server-2013-issue-–-tf294026--the-following-work-item-field-does-not-exist
 - /resources/blog/project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
 tags:
-- configuration
-- infrastructure
-- project-server
-- ps2013
-- puzzles
-- sharepoint
-- sp2013
-- tf294026
-- tfs
-- tfs2012
-- tools
+- Scrum Product Management
+- Agile Tools
 categories:
 - Install and Configuration
 preview: metro-problem-icon-3-3.png

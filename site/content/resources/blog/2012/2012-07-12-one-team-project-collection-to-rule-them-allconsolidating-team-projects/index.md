@@ -28,13 +28,8 @@ aliasesFor404:
 - /one-team-project-collection-to-rule-them-all
 - /resources/blog/one-team-project-collection-to-rule-them-allconsolidating-team-projects
 tags:
-- configuration
-- infrastructure
-- one-team-project-seriese
-- tfs
-- tfs2012
-- tfs-integration-platform
-- tools
+- Agile Software Development
+- Agile Tools
 categories:
 - Install and Configuration
 preview: nakedalm-experts-visual-studio-alm-10-10.png

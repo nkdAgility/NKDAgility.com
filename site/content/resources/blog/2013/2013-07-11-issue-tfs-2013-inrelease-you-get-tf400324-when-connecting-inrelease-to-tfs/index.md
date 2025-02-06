@@ -26,11 +26,8 @@ aliasesFor404:
 - /blog/issue-[-tfs-2013-]-you-get-tf400324-when-connecting-inrelease-to-tfs
 - /resources/blog/issue-tfs-2013-inrelease-you-get-tf400324-when-connecting-inrelease-to-tfs
 tags:
-- inrelease
-- puzzles
-- tf400324
-- tfs
-- tfs-2013
+- Agile Tools
+- Azure DevOps
 categories:
 - Install and Configuration
 - Azure DevOps

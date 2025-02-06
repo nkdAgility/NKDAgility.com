@@ -26,10 +26,8 @@ aliasesFor404:
 - /blog/process-template-upgrade--3---destroy-all-work-items-and-import-new-ones
 - /resources/blog/process-template-upgrade-3-destroy-all-work-items-and-import-new-ones
 tags:
-- tfs
-- tfs2008
-- tfs2010
-- tools
+- Agile Tools
+- Azure DevOps
 preview: metro-visual-studio-2005-128-link-5-5.png
 
 ---

@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/visual-studio-alm-by-martin-hinshelwood-is-now-available-on-kindle
 - /resources/blog/visual-studio-alm-by-martin-hinshelwood-is-now-available-on-kindle
 tags:
-- modern-alm
+- Agile Books
+- Agile Software Development
 categories:
 - Products and Books
 - Events and Presentations

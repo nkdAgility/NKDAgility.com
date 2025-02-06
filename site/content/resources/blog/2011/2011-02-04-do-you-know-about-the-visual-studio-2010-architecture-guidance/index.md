@@ -26,12 +26,12 @@ aliasesFor404:
 - /blog/do-you-know-about-the-visual-studio-2010-architecture-guidance-
 - /resources/blog/do-you-know-about-the-visual-studio-2010-architecture-guidance
 tags:
-- nwcadence
-- tools
-- visual-studio
-- vs2010
-- vsalmrangers
+- Agile Software Development
+- Technical Excellence
 preview: metro-visual-studio-2010-128-link-4-4.png
+categories:
+- Application Lifecycle Management
+- Practical Techniques and Tooling
 
 ---
 [![image](images/Do-you-know-about-the-Visual-Studio-2010_E583-image_thumb-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Do-you-know-about-the-Visual-Studio-2010_E583-image_2.png)

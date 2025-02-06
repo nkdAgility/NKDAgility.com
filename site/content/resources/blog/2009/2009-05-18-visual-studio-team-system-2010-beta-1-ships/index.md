@@ -22,10 +22,8 @@ aliasesFor404:
 - /blog/visual-studio-team-system-2010-beta-1-ships
 - /resources/blog/visual-studio-team-system-2010-beta-1-ships
 tags:
-- tfs
-- tfs2010
-- tools
-- visual-studio
+- Agile Software Development
+- Continuous Delivery
 
 ---
 [Visual Studio 2010 Team Suit Beta 1](http://www.microsoft.com/visualstudio/en-gb/products/2010/default.mspx) and [Visual Studio 2010 Team Foundation Server Beta 1](http://www.microsoft.com/visualstudio/en-gb/products/2010/default.mspx) will be available to download from MSDN today at 5pm (GMT) and to the general public on Wednesday.

@@ -26,13 +26,16 @@ aliasesFor404:
 - /blog/installing-release-management-client-for-visual-studio-2013
 - /resources/blog/installing-release-management-client-visual-studio-2013
 tags:
-- inrelease
-- release-management
-- release-management-client
-- tfs
-- tfs-2013
-- visual-studio-2013
-- visual-studio
+- Agile Tools
+- Continuous Delivery
+- Deployment Strategies
+- Release Planning
+- Agile Software Development
+- Technical Excellence
+- Customer Feedback Loops
+- Evidence Based Improvement
+- Agile Project Management
+- Application Lifecycle Management
 categories:
 - Install and Configuration
 - Application Lifecycle Management

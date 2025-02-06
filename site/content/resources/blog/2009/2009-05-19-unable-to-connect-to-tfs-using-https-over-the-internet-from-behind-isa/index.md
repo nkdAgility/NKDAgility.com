@@ -22,10 +22,8 @@ aliasesFor404:
 - /blog/unable-to-connect-to-tfs-using-https-over-the-internet-from-behind-isa
 - /resources/blog/unable-to-connect-to-tfs-using-https-over-the-internet-from-behind-isa
 tags:
-- aggreko
-- tools
-- visual-studio
-- vs2010
+- Technical Debt
+- Agile Software Development
 preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---

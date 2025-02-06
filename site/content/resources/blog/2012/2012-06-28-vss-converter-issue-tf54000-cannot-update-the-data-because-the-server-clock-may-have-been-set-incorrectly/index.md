@@ -26,14 +26,8 @@ aliasesFor404:
 - /blog/vss-converter-–-issue--tf54000--cannot-update-the-data-because-the-server-clock-may-have-been-set-incorrectly
 - /resources/blog/vss-converter-issue-tf54000-cannot-update-the-data-because-the-server-clock-may-have-been-set-incorrectly
 tags:
-- configuration
-- infrastructure
-- kb
-- tf54000
-- tfs
-- tfs2010
-- tools
-- visual-sourcesafe
+- Technical Debt
+- Continuous Improvement
 categories:
 - Install and Configuration
 

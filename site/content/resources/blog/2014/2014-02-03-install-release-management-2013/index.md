@@ -22,14 +22,20 @@ aliasesFor404:
 - /blog/install-release-management-2013
 - /resources/blog/install-release-management-2013
 tags:
-- microsoft-deployment-agent
-- release
-- release-management
-- release-management-client
-- release-management-server
-- tfs
-- tfs-2013
-- videos
+- Release Management
+- Agile Tools
+- Continuous Delivery
+- Deployment Strategies
+- Agile Software Development
+- Technical Excellence
+- Value Delivery
+- Agile Project Management
+- Software Development
+- DevOps
+- Customer Feedback Loops
+- Evidence Based Management
+- Agile Product Management
+- Technical Mastery
 categories:
 - Install and Configuration
 - Application Lifecycle Management

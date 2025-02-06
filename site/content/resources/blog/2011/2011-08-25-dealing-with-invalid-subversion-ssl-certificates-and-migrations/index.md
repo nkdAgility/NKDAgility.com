@@ -26,13 +26,8 @@ aliasesFor404:
 - /blog/subversion-to-tfs-2010--dealing-with-invalid-subversion-ssl-certificates-and-migrations
 - /resources/blog/dealing-with-invalid-subversion-ssl-certificates-and-migrations
 tags:
-- nwcadence
-- ssl
-- svn
-- tfs
-- tfs2010
-- tools
-- version-control
+- Technical Debt
+- Agile Tools
 
 ---
 ![subversion](images/subversion-7-7.png "subversion")

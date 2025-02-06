@@ -27,6 +27,12 @@ aliasesFor404:
 - /blog/guidance---branching-for-each-sprint
 - /guidance
 - /resources/blog/guidance-branching-for-each-sprint
+categories:
+- Scrum
+- Practical Techniques and Tooling
+tags:
+- Scrum
+- Agile Software Development
 
 ---
 branching-for-each-sprint

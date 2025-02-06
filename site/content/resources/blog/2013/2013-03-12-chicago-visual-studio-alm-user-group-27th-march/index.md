@@ -22,11 +22,8 @@ aliasesFor404:
 - /blog/chicago-visual-studio-alm-user-group-27th-march
 - /resources/blog/chicago-visual-studio-alm-user-group-27th-march
 tags:
-- configuration
-- infrastructure
-- tfs2012-2
-- tools
-- user-groups
+- Kanban
+- Agile Tools
 categories:
 - Events and Presentations
 - Application Lifecycle Management

@@ -22,12 +22,8 @@ aliasesFor404:
 - /blog/team-foundation-server-2013-is-production-ready
 - /resources/blog/team-foundation-server-2013-is-production-ready
 tags:
-- tfs
-- tfs2012
-- tfs2012-1
-- tfs2012-2
-- tfs-2012-3
-- tfs-2013
+- Technical Debt
+- Agile Software Development
 categories:
 - Azure DevOps
 - News and Reviews

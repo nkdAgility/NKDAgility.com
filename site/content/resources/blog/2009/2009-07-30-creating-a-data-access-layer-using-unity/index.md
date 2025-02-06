@@ -22,11 +22,8 @@ aliasesFor404:
 - /blog/creating-a-data-access-layer-using-unity
 - /resources/blog/creating-a-data-access-layer-using-unity
 tags:
-- code
-- codeproject
-- dependency-injection
-- tools
-- version-control
+- Agile Software Development
+- Technical Excellence
 categories:
 - Code and Complexity
 preview: metro-binary-vb-128-link-5-5.png

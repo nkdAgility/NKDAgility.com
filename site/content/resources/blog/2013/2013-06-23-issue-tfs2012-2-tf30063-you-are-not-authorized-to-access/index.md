@@ -26,12 +26,8 @@ aliasesFor404:
 - /blog/issue-[-tfs2012-2-]-tf30063-you-are-not-authorized-to-access
 - /resources/blog/issue-tfs2012-2-tf30063-you-are-not-authorized-to-access
 tags:
-- configuration
-- puzzles
-- tf30063
-- tfs
-- tfs2012-2
-- tfs-2012-3
+- Technical Debt
+- Agile Tools
 categories:
 - Install and Configuration
 - Azure DevOps

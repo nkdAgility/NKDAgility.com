@@ -26,12 +26,8 @@ aliasesFor404:
 - /blog/do-you-know-the-minimum-builds-to-create-on-any-branch-
 - /resources/blog/do-you-know-the-minimum-builds-to-create-on-any-branch
 tags:
-- automated-build
-- ssw
-- tfs-build
-- tools
-- visual-studio
-- vs2010
+- Continuous Integration
+- Automated Testing
 preview: metro-visual-studio-2010-128-link-6-6.png
 
 ---

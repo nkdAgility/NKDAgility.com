@@ -28,14 +28,8 @@ aliasesFor404:
 - /tfs-2012-update-1
 - /resources/blog/tfs-2012-update-1-tf400432-we-were-unable-to-connect-to-the-sharepoint-central-administration
 tags:
-- configuration
-- infrastructure
-- puzzles
-- tf400432
-- tfs
-- tfs2012
-- tfs2012-1
-- tools
+- Technical Debt
+- Change Management
 categories:
 - Azure DevOps
 preview: metro-problem-icon-3-3.png

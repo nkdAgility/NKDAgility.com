@@ -26,19 +26,8 @@ aliasesFor404:
 - /blog/what's-new-in-visual-studio-2013-team-foundation-server-preview
 - /resources/blog/get-visual-studio-2013-team-foundation-server-while-its-hot
 tags:
-- agile-portfolio-management
-- define
-- improve
-- infrastructure
-- operational
-- practices
-- process
-- strategic
-- tactical
-- team-rooms
-- test-hub
-- tfs-2013
-- tools
+- Agile Portfolio Management
+- Team Collaboration
 categories:
 - Azure DevOps
 - News and Reviews

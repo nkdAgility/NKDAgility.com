@@ -26,10 +26,8 @@ aliasesFor404:
 - /blog/windows-8-issue--local-network-is-detected-as-public
 - /resources/blog/windows-8-issue-local-network-is-detected-as-public
 tags:
-- puzzles
-- vsip
-- win8
-- windows
+- Technical Debt
+- Change Management
 categories:
 - Install and Configuration
 preview: metro-problem-icon-5-5.png

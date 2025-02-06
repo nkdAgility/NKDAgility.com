@@ -22,11 +22,8 @@ aliasesFor404:
 - /blog/a-perfect-match-tfs-and-dlr
 - /resources/blog/a-perfect-match-tfs-and-dlr
 tags:
-- code
-- tfs-event-handler
-- tools
-- visual-studio
-- vs2010
+- Agile Software Development
+- Technical Excellence
 categories:
 - Azure DevOps
 - Code and Complexity

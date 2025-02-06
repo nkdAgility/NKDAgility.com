@@ -22,12 +22,8 @@ aliasesFor404:
 - /blog/rangers-shipped-visual-studio-2010-database-guide
 - /resources/blog/rangers-shipped-visual-studio-2010-database-guide
 tags:
-- tfs
-- tfs2010
-- tools
-- visual-studio
-- vs2010
-- vsalmrangers
+- Agile Software Development
+- Technical Excellence
 categories:
 - Application Lifecycle Management
 preview: metro-visual-studio-2010-128-link-1-1.png

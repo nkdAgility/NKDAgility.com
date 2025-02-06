@@ -26,11 +26,8 @@ aliasesFor404:
 - /blog/my-team-foundation-server-system-accounts-are-changing--what-do-i-do-
 - /resources/blog/my-team-foundation-server-system-accounts-are-changing-what-do-i-do
 tags:
-- configuration
-- infrastructure
-- tfs
-- tfs2012
-- tools
+- Agile Software Development
+- Change Management
 categories:
 - Azure DevOps
 

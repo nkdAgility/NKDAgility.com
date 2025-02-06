@@ -22,10 +22,8 @@ aliasesFor404:
 - /blog/allow-user-to-change-the-region-for-windows-live-id-billing
 - /resources/blog/allow-user-to-change-the-region-for-windows-live-id-billing
 tags:
-- tfs
-- win8
-- wp7
-- xbox
+- Customer Satisfaction
+- Organisational Change
 categories:
 - Application Lifecycle Management
 preview: metro-xbox-360-link-2-2.png

@@ -22,10 +22,8 @@ aliasesFor404:
 - /blog/installing-visual-studio-2010-service-pack-1
 - /resources/blog/installing-visual-studio-2010-service-pack-1
 tags:
-- nwcadence
-- tools
-- visual-studio
-- vs2010
+- Agile Software Development
+- Continuous Delivery
 preview: metro-visual-studio-2010-128-link-13-13.png
 
 ---

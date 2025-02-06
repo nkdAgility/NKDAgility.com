@@ -22,15 +22,8 @@ aliasesFor404:
 - /blog/visual-studio-2012-update-2-supports-2010-build-servers
 - /resources/blog/visual-studio-2012-update-2-supports-2010-build-servers
 tags:
-- configuration
-- infrastructure
-- operational
-- tactical
-- tfs-build
-- tfs
-- tfs2010
-- tfs2012-2
-- tools
+- Agile Tools
+- Continuous Delivery
 categories:
 - Azure DevOps
 - Install and Configuration

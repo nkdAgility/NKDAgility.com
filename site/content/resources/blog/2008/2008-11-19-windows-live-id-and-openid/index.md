@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/windows-live-id-and-openid
 - /resources/blog/windows-live-id-and-openid
 tags:
-- live
+- Agile Software Development
+- Agile Product Management
 categories:
 - Install and Configuration
 preview: nakedalm-logo-128-link-7-1.png

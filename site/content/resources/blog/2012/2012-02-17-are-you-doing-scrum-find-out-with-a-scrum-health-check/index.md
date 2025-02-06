@@ -26,11 +26,8 @@ aliasesFor404:
 - /blog/are-you-doing-scrum--find-out-with-a-scrum-health-check-
 - /resources/blog/are-you-doing-scrum-find-out-with-a-scrum-health-check
 tags:
-- agile
-- define
-- develop
-- process
-- scrum
+- Scrum Health Check
+- Scrum Team
 categories:
 - Scrum
 - People and Process

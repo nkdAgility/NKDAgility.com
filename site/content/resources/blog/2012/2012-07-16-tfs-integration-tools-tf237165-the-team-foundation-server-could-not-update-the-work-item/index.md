@@ -26,11 +26,8 @@ aliasesFor404:
 - /blog/tfs-integration-tools--tf237165--the-team-foundation-server-could-not-update-the-work-item
 - /resources/blog/tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item
 tags:
-- puzzles
-- tf237165
-- tfs
-- tfs2012
-- tfs-integration-platform
+- Agile Tools
+- Azure DevOps
 categories:
 - Install and Configuration
 - Azure DevOps

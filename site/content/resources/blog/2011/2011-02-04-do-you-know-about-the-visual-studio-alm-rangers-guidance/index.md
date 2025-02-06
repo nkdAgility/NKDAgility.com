@@ -26,11 +26,8 @@ aliasesFor404:
 - /blog/do-you-know-about-the-visual-studio-alm-rangers-guidance-
 - /resources/blog/do-you-know-about-the-visual-studio-alm-rangers-guidance
 tags:
-- nwcadence
-- tools
-- visual-studio
-- vs2010
-- vsalmrangers
+- Agile Tools
+- Agile Software Development
 preview: metro-visual-studio-2010-128-link-3-3.png
 
 ---

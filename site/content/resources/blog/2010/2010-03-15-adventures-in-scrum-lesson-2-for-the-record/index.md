@@ -26,13 +26,8 @@ aliasesFor404:
 - /blog/adventures-in-scrum--lesson-2---for-the-record
 - /resources/blog/adventures-in-scrum-lesson-2-for-the-record
 tags:
-- develop
-- people
-- practices
-- process
-- scrum
-- silverlight
-- ssw
+- Scrum Team
+- Product Owner
 categories:
 - People and Process
 - Scrum

@@ -22,14 +22,8 @@ aliasesFor404:
 - /blog/create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
 - /resources/blog/create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
 tags:
-- agile-planning-tools
-- agile-portfolio-management
-- code
-- configuration
-- portfolio-backlog
-- powershell
-- tfs
-- tfs-2013
+- Agile Portfolio Management
+- Agile Planning Tools
 categories:
 - Install and Configuration
 - Azure DevOps

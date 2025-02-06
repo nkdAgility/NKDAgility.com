@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/enabling-google-plus-profiles-for-google-apps-users-in-under-2-minutes
 - /resources/blog/enabling-google-plus-profiles-for-google-apps-users-in-under-2-minutes
 tags:
-- google
-- webcast-2
+- Agile Software Development
+- Customer Feedback Loops
 categories:
 - Install and Configuration
 preview: nakedalm-logo-128-link-2-2.png

@@ -32,6 +32,9 @@ aliasesFor404:
 categories:
 - Discovery and Learning
 preview: nakedalm-logo-128-link-1-1.png
+tags:
+- Agile Certification
+- Agile Community
 
 ---
 A little fun game from Microsoft to test your knowledge. Going to see if I get on the leader board, but I do not hold out much any hope…

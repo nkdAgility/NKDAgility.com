@@ -22,16 +22,8 @@ aliasesFor404:
 - /blog/release-management-with-team-foundation-server-2012
 - /resources/blog/release-management-with-team-foundation-server-2012
 tags:
-- develop
-- lab-management
-- octopus
-- operate
-- practices
-- process
-- standard-environments
-- strategic
-- tfs
-- tools
+- Release Planning
+- Continuous Delivery
 categories:
 - Azure DevOps
 - People and Process

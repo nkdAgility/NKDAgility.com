@@ -22,13 +22,8 @@ aliasesFor404:
 - /blog/list-all-files-changed-under-an-iteration
 - /resources/blog/list-all-files-changed-under-an-iteration
 tags:
-- code
-- iteration
-- tfs
-- tfs2008
-- tools
-- version-control
-- wit
+- Application Lifecycle Management
+- Agile Tools
 categories:
 - Code and Complexity
 - Azure DevOps

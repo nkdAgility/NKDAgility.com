@@ -28,15 +28,12 @@ aliasesFor404:
 - /visual-studio-2010-overview
 - /resources/blog/visual-studio-2010-overview-introduction
 tags:
-- modern-alm
-- nwcadence
-- tfs
-- tfs2010
-- tools
-- visual-studio
-- vs2010
-- webcast-2
+- Application Lifecycle Management
+- Agile Tools
 preview: metro-visual-studio-2010-128-link-1-1.png
+categories:
+- Application Lifecycle Management
+- Events and Presentations
 
 ---
 A high-level overview of ALM and how the features in Visual Studio 2010 support ALM. This presentation touches on all the features shown in the rest of the deeper-dive sessions. If attendees don't know which other sessions they want, watching this presentation might help them decide.

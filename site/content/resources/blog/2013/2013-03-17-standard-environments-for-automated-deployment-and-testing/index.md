@@ -22,18 +22,8 @@ aliasesFor404:
 - /blog/standard-environments-for-automated-deployment-and-testing
 - /resources/blog/standard-environments-for-automated-deployment-and-testing
 tags:
-- configuration
-- develop
-- infrastructure
-- lab
-- operational
-- practices
-- process
-- standard-environments
-- tactical
-- testing
-- tfs
-- tfs2012-2
+- Application Lifecycle Management
+- Continuous Delivery
 categories:
 - Application Lifecycle Management
 - Azure DevOps

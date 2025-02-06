@@ -26,14 +26,10 @@ aliasesFor404:
 - /blog/what's-in-a-burndown-
 - /resources/blog/whats-in-a-burndown
 tags:
-- agile
-- configuration
-- develop
-- practices
-- scrum
+- Scrum Master
+- Definition of Done
 categories:
-- metrics-and-learning
-- scrum
+- Metrics and Learning
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

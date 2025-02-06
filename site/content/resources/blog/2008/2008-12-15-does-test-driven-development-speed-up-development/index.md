@@ -26,11 +26,8 @@ aliasesFor404:
 - /blog/does-test-driven-development-speed-up-development-
 - /resources/blog/does-test-driven-development-speed-up-development
 tags:
-- code
-- develop
-- people
-- practices
-- tools
+- Test Driven Development
+- Agile Software Development
 categories:
 - Technical Excellence
 - Code and Complexity

@@ -22,10 +22,8 @@ aliasesFor404:
 - /blog/i-hope-you-did-not-pay-for-microsoft-office-sharepoint-designer-2007
 - /resources/blog/i-hope-you-did-not-pay-for-microsoft-office-sharepoint-designer-2007
 tags:
-- moss2007
-- sharepoint
-- sp2007
-- tools
+- Customer Satisfaction
+- Digital Transformation
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

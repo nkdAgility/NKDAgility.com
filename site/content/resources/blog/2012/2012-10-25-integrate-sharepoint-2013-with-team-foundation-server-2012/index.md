@@ -22,13 +22,8 @@ aliasesFor404:
 - /blog/integrate-sharepoint-2013-with-team-foundation-server-2012
 - /resources/blog/integrate-sharepoint-2013-with-team-foundation-server-2012
 tags:
-- configuration
-- infrastructure
-- sharepoint
-- sp2013
-- tfs
-- tfs2012
-- tools
+- Agile Software Development
+- Agile Tools
 categories:
 - Install and Configuration
 - Azure DevOps

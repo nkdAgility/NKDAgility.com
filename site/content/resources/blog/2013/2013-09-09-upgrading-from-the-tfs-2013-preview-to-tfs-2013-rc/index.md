@@ -22,9 +22,8 @@ aliasesFor404:
 - /blog/upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
 - /resources/blog/upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
 tags:
-- tfs
-- tfs-2013
-- upgrade
+- Deployment Frequency
+- Continuous Delivery
 categories:
 - Azure DevOps
 

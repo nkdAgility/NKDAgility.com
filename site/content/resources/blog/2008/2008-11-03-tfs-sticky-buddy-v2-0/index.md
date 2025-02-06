@@ -22,11 +22,12 @@ aliasesFor404:
 - /blog/tfs-sticky-buddy-v2-0
 - /resources/blog/tfs-sticky-buddy-v2-0
 tags:
-- tfs-sticky-buddy
-- tools
-- wit
-- wpf
+- Agile Software Development
+- Agile Product Management
 preview: nakedalm-logo-128-link-2-1.png
+categories:
+- Application Lifecycle Management
+- Technical Excellence
 
 ---
 I will be working on some new features to the Sticky Buddy application. Improvements in the interface, along with a more modular structure and more diagram offering are in the mix. I have been working on some of the enhancements and their implementation in my other lesser known project [TFS Heat ITSM](http://hinshelwood.com/TFSHeatITSM.aspx)…

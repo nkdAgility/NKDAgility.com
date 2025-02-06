@@ -28,12 +28,8 @@ aliasesFor404:
 - /tfs-integration-tools
 - /resources/blog/tfs-integration-tools-issue-tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
 tags:
-- puzzles
-- tf10141
-- tf14080
-- tf14092
-- tfs
-- tfs-integration-platform
+- Agile Software Development
+- Technical Debt
 categories:
 - Azure DevOps
 preview: metro-problem-icon-12-12.png

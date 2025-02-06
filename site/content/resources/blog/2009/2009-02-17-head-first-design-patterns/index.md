@@ -22,10 +22,8 @@ aliasesFor404:
 - /blog/head-first-design-patterns
 - /resources/blog/head-first-design-patterns
 tags:
-- code
-- develop
-- dyslexia
-- practices
+- Agile Books
+- Continuous Learning
 categories:
 - Products and Books
 preview: nakedalm-logo-128-link-2-2.png

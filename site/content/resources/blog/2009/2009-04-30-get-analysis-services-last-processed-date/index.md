@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/get-analysis-services-last-processed-date
 - /resources/blog/get-analysis-services-last-processed-date
 tags:
-- ssas
-- tools
+- Technical Excellence
+- Agile Software Development
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

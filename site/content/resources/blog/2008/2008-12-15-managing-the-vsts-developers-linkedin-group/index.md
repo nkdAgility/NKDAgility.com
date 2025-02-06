@@ -26,7 +26,8 @@ aliasesFor404:
 - /blog/managing-the-“vsts-developers”-linkedin-group-
 - /resources/blog/managing-the-vsts-developers-linkedin-group
 tags:
-- tfs
+- Team Collaboration
+- Agile Community
 categories:
 - Application Lifecycle Management
 - People and Process

@@ -26,15 +26,8 @@ aliasesFor404:
 - /blog/using-corporate-id's-with-visual-studio-2012-team-foundation-service
 - /resources/blog/using-corporate-ids-with-visual-studio-11-team-foundation-service
 tags:
-- configuration
-- infrastructure
-- modern-alm
-- nwcadence
-- tfs2012
-- tf-service
-- tools
-- visual-studio
-- vs2012
+- Agile Tools
+- Azure DevOps
 categories:
 - Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-3-3.png

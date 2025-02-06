@@ -22,21 +22,11 @@ aliasesFor404:
 - /blog/improvements-in-visual-studio-alm-from-the-alm-summit
 - /resources/blog/improvements-in-visual-studio-alm-from-the-alm-summit
 tags:
-- define
-- dvcs
-- git
-- infrastructure
-- kanban
-- modern-alm
-- operate
-- practices
-- test-hub
-- tfs2012-2
-- tools
-- wit-tagging
+- Agile Tools
+- Continuous Delivery
 categories:
-- application-lifecycle-management
-- azure-devops
+- Application Lifecycle Management
+- Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

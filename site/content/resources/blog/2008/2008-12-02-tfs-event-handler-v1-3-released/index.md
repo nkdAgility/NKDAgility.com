@@ -22,9 +22,12 @@ aliasesFor404:
 - /blog/tfs-event-handler-v1-3-released
 - /resources/blog/tfs-event-handler-v1-3-released
 tags:
-- tfs-event-handler
-- tools
+- Agile Tools
+- Azure DevOps
 preview: nakedalm-logo-128-link-1-1.png
+categories:
+- Azure DevOps
+- Application Lifecycle Management
 
 ---
 Updated and improved for Team System 2008.

@@ -22,13 +22,8 @@ aliasesFor404:
 - /blog/my-first-scrum-team-in-the-wild
 - /resources/blog/my-first-scrum-team-in-the-wild
 tags:
-- agile
-- develop
-- nwcadence
-- people
-- practices
-- process
-- scrum
+- Scrum Team
+- Sprint Planning Workshop
 categories:
 - Scrum
 - People and Process

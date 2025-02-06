@@ -26,9 +26,8 @@ aliasesFor404:
 - /blog/granting-access-to-team-foundation-server-2012-for-diagnostic-troubleshooting
 - /resources/blog/granting-access-team-foundation-server-2012-diagnostic-troubleshooting
 tags:
-- tfs
-- tfs2012
-- tfs-2013
+- Agile Tools
+- Technical Excellence
 categories:
 - Azure DevOps
 - Practical Techniques and Tooling

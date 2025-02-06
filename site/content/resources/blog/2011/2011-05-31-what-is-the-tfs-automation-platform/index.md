@@ -22,14 +22,8 @@ aliasesFor404:
 - /blog/what-is-the-tfs-automation-platform
 - /resources/blog/what-is-the-tfs-automation-platform
 tags:
-- nwcadence
-- tfs
-- tfs2010
-- tfsap
-- tools
-- visual-studio
-- vs2010
-- vsalmrangers
+- Agile Tools
+- Azure DevOps
 preview: metro-visual-studio-2010-128-link-2-2.png
 
 ---

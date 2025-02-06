@@ -26,7 +26,8 @@ aliasesFor404:
 - /blog/skydrive--25-gb-of-free-online-storage
 - /resources/blog/skydrive-25-gb-of-free-online-storage
 tags:
-- live
+- Digital Transformation
+- Customer Satisfaction
 categories:
 - Products and Books
 preview: nakedalm-logo-128-link-1-1.png

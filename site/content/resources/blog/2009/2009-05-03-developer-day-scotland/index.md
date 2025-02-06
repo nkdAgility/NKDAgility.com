@@ -22,14 +22,11 @@ aliasesFor404:
 - /blog/developer-day-scotland
 - /resources/blog/developer-day-scotland
 tags:
-- code
-- events-and-presentations
-- mvvm
-- wpf
+- Agile Software Development
+- Technical Debt
 categories:
-- code-and-complexity
-- events-and-presentations
-- me
+- Events and Presentations
+- Technical Excellence
 preview: metro-event-128-link-1-1.png
 
 ---

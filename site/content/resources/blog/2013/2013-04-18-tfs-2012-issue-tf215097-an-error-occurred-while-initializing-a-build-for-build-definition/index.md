@@ -26,12 +26,8 @@ aliasesFor404:
 - /blog/tfs-2012-issue--tf215097-an-error-occurred-while-initializing-a-build-for-build-definition
 - /resources/blog/tfs-2012-issue-tf215097-an-error-occurred-while-initializing-a-build-for-build-definition
 tags:
-- configuration
-- infrastructure
-- tactical
-- tf215097
-- tfs-build
-- tools
+- Agile Software Development
+- Azure DevOps
 categories:
 - Install and Configuration
 preview: puzzle-issue-problem-128-link-3-3.png

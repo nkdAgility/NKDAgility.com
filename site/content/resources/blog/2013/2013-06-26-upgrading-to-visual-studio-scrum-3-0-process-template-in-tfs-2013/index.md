@@ -22,18 +22,8 @@ aliasesFor404:
 - /blog/upgrading-to-visual-studio-scrum-3-0-process-template-in-tfs-2013
 - /resources/blog/upgrading-to-visual-studio-scrum-3-0-process-template-in-tfs-2013
 tags:
-- code
-- configuration
-- planning-tools
-- portfolio-management-tools
-- powershell
-- process-template
-- process-template-editor
-- process-template-manager
-- scrum
-- tfs
-- tfs-2013
-- tools
+- Scrum Product Management
+- Agile Tools
 categories:
 - Install and Configuration
 - Azure DevOps

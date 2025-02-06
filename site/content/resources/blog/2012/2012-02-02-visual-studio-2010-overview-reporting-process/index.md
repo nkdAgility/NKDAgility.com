@@ -28,15 +28,12 @@ aliasesFor404:
 - /visual-studio-2010-overview
 - /resources/blog/visual-studio-2010-overview-reporting-process
 tags:
-- modern-alm
-- nwcadence
-- tfs
-- tfs2010
-- tools
-- visual-studio
-- vs2010
-- webcast-2
+- Agile Tools
+- Continuous Improvement
 preview: metro-visual-studio-2010-128-link-1-1.png
+categories:
+- Application Lifecycle Management
+- Metrics and Learning
 
 ---
 The Process Template governs nearly all aspects of how the team interacts with Visual Studio and TFS (e.g., the structure and flow of work items). Whether a team has a well-established development process or needs to define one, proper template selection and practice are critical.

@@ -26,8 +26,8 @@ aliasesFor404:
 - /blog/review--the-professional-scrum-masters-handbook
 - /resources/blog/review-the-professional-scrum-masters-handbook
 tags:
-- scrum
-- scrum-master
+- Scrum Master
+- Definition of Done
 categories:
 - Products and Books
 - News and Reviews

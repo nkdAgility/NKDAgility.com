@@ -26,10 +26,8 @@ aliasesFor404:
 - /blog/a-change-for-the-better--2---aggreko-to-ssw
 - /resources/blog/a-change-for-the-better-2
 tags:
-- aggreko
-- change
-- change-for-the-better
-- ssw
+- Employee Engagement
+- Team Motivation
 categories:
 - Application Lifecycle Management
 preview: metro-SSWLogo-128-link-3-1.png

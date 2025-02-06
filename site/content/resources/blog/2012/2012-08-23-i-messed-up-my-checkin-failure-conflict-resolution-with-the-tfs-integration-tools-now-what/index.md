@@ -26,11 +26,8 @@ aliasesFor404:
 - /blog/i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools…-now-what-
 - /resources/blog/i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools-now-what
 tags:
-- code
-- configuration
-- tfs
-- tfs-integration-platform
-- tools
+- Agile Software Development
+- Technical Debt
 categories:
 - Azure DevOps
 

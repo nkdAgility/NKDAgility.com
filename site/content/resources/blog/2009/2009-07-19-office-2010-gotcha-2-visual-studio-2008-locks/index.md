@@ -26,11 +26,8 @@ aliasesFor404:
 - /blog/office-2010-gotcha-2--visual-studio-2008-locks
 - /resources/blog/office-2010-gotcha-2-visual-studio-2008-locks
 tags:
-- aggreko
-- office
-- tools
-- visual-studio
-- vs2008
+- Technical Debt
+- Agile Software Development
 preview: metro-visual-studio-2005-128-link-2-1.png
 
 ---

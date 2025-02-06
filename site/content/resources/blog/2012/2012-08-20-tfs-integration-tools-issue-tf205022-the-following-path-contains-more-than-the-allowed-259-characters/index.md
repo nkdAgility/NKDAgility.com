@@ -28,10 +28,8 @@ aliasesFor404:
 - /tfs-integration-tools
 - /resources/blog/tfs-integration-tools-issue-tf205022-the-following-path-contains-more-than-the-allowed-259-characters
 tags:
-- puzzles
-- tf205022
-- tfs
-- tfs-integration-platform
+- Technical Debt
+- Agile Tools
 categories:
 - Azure DevOps
 preview: metro-problem-icon-4-4.png

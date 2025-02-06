@@ -30,22 +30,8 @@ aliasesFor404:
 - /blog/alm-consulting-in-scotland--uk--scandinavia-&amp;-europe
 - /resources/blog/alm-consulting-scotland-uk-scandinavia-europe
 tags:
-- automated-build
-- automation
-- build
-- consulting
-- dps
-- europe
-- lean
-- lean-agile
-- migration
-- modern-alm
-- scandinavia
-- scotland
-- tfs
-- training
-- uk
-- upgrade
+- Application Lifecycle Management
+- Agile Software Development
 categories:
 - Application Lifecycle Management
 - Events and Presentations

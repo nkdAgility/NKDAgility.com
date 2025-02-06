@@ -22,13 +22,12 @@ aliasesFor404:
 - /blog/how-to-deal-with-a-stuck-or-infinitely-queued-build
 - /resources/blog/how-to-deal-with-a-stuck-or-infinitely-queued-build
 tags:
-- codeproject
-- ssw
-- tfs-build
-- tfs
-- tfs2010
-- tools
+- Continuous Integration
+- DevOps
 preview: metro-SSWLogo-128-link-11-11.png
+categories:
+- Azure DevOps
+- Install and Configuration
 
 ---
 ![BuildIcon_Large](images/Howtodealwithastuckorinfinitelyqueuedbui_D645-BuildIcon_Large_-1-1.png)

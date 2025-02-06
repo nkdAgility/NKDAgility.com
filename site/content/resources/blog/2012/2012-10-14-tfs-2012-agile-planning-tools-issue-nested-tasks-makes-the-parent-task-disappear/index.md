@@ -28,13 +28,8 @@ aliasesFor404:
 - /tfs-2012-agile-planning-tools-issue
 - /resources/blog/tfs-2012-agile-planning-tools-issue-nested-tasks-makes-the-parent-task-disappear
 tags:
-- agile
-- agile-planning-tools
-- process
-- puzzles
-- tfs
-- tfs2012
-- tools
+- Agile Planning
+- Agile Planning Tools
 categories:
 - Azure DevOps
 preview: metro-problem-icon-8-8.png

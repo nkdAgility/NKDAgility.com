@@ -22,12 +22,8 @@ aliasesFor404:
 - /blog/database-corruption-in-tfs-2005-causes-tf246017-during-upgrade
 - /resources/blog/database-corruption-in-tfs-2005-causes-tf246017-during-upgrade
 tags:
-- modern-alm
-- tf246017
-- tfs
-- tfs2005
-- tfs2010
-- tools
+- Technical Debt
+- Continuous Improvement
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

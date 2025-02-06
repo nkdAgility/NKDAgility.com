@@ -26,12 +26,21 @@ aliasesFor404:
 - /blog/installing-release-management-server-for-tfs-2013
 - /resources/blog/installing-release-management-server-tfs-2013
 tags:
-- inrelease
-- install
-- release-management
-- release-management-server
-- tfs
-- tfs-2013
+- Application Lifecycle Management
+- Agile Tools
+- Continuous Delivery
+- Deployment Strategies
+- DevOps
+- Agile Software Development
+- Technical Excellence
+- Agile Project Management
+- Release Planning
+- Agile Product Management
+- Software Development
+- Agile Methodology
+- Team Collaboration
+- Evidence Based Management
+- Customer Feedback Loops
 categories:
 - Install and Configuration
 - Azure DevOps

@@ -22,10 +22,8 @@ aliasesFor404:
 - /blog/windows-azure-training-kit
 - /resources/blog/windows-azure-training-kit
 tags:
-- azure
-- tfs
-- tools
-- wpf
+- Azure DevOps
+- Agile Software Development
 preview: metro-cloud-azure-link-3-1.png
 
 ---

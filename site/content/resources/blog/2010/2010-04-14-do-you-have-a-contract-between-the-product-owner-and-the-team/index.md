@@ -26,16 +26,8 @@ aliasesFor404:
 - /blog/do-you-have-a-contract-between-the-product-owner-and-the-team-
 - /resources/blog/do-you-have-a-contract-between-the-product-owner-and-the-team
 tags:
-- configuration
-- define
-- develop
-- people
-- practices
-- process
-- scrum
-- sharepoint
-- spf2010
-- ssw
+- Sprint Planning Workshop
+- Definition of Done
 categories:
 - People and Process
 - Agile Product Management

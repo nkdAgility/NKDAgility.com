@@ -26,11 +26,21 @@ aliasesFor404:
 - /blog/installing-tfs-2013-from-scratch-is-easy
 - /resources/blog/installing-tfs-2013-scratch-easy
 tags:
-- configuration
-- install
-- tfs
-- tfs-2013
-- videos
+- Agile Tools
+- Azure DevOps
+- Continuous Delivery
+- Technical Excellence
+- Agile Software Development
+- Deployment Strategies
+- Agile Product Management
+- Customer Feedback Loops
+- Evidence Based Management
+- Agile Planning Tools
+- Value Delivery
+- Agile Product Discovery
+- Lean Principles
+- Software Development
+- Agile Methodology
 categories:
 - Install and Configuration
 - Azure DevOps

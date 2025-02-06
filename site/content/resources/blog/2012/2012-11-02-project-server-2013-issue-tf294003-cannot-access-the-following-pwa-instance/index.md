@@ -28,17 +28,8 @@ aliasesFor404:
 - /project-server-2013-issue
 - /resources/blog/project-server-2013-issue-tf294003-cannot-access-the-following-pwa-instance
 tags:
-- configuration
-- infrastructure
-- project-server
-- ps2013
-- puzzles
-- sharepoint
-- sp2013
-- tf294003
-- tfs
-- tfs2012
-- tools
+- Technical Excellence
+- Agile Software Development
 categories:
 - Azure DevOps
 - Install and Configuration

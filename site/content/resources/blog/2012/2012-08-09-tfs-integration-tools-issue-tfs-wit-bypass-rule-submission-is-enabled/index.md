@@ -28,9 +28,8 @@ aliasesFor404:
 - /tfs-integration-tools
 - /resources/blog/tfs-integration-tools-issue-tfs-wit-bypass-rule-submission-is-enabled
 tags:
-- puzzles
-- tfs
-- tfs-integration-platform
+- Agile Tools
+- Technical Excellence
 categories:
 - Install and Configuration
 - Azure DevOps

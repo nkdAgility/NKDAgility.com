@@ -26,10 +26,8 @@ aliasesFor404:
 - /blog/review-part-1--unboxing-the-intel-haswell-harris-beach-sds-ultrabook
 - /resources/blog/unboxing-the-intel-haswell-harris-beach-sds-ultrabook
 tags:
-- hardware
-- harris-beach
-- intel
-- review
+- Agile Software Development
+- Technical Excellence
 categories:
 - News and Reviews
 - Products and Books

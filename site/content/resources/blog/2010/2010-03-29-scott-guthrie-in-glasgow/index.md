@@ -22,11 +22,8 @@ aliasesFor404:
 - /blog/scott-guthrie-in-glasgow
 - /resources/blog/scott-guthrie-in-glasgow
 tags:
-- silverlight
-- visual-studio
-- vs2010
-- wp7
-- wpf
+- Agile Software Development
+- Technical Excellence
 categories:
 - events-and-presentations
 - me

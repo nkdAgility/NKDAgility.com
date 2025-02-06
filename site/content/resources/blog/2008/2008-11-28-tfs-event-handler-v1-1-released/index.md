@@ -22,11 +22,12 @@ aliasesFor404:
 - /blog/tfs-event-handler-v1-1-released
 - /resources/blog/tfs-event-handler-v1-1-released
 tags:
-- tfs
-- tfs2008
-- tools
-- wit
+- Agile Tools
+- Continuous Delivery
 preview: metro-visual-studio-2005-128-link-2-1.png
+categories:
+- Application Lifecycle Management
+- Install and Configuration
 
 ---
 Updated and improved for Team System 2008.

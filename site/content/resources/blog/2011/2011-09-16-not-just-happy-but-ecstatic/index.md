@@ -30,8 +30,8 @@ aliasesFor404:
 - /blog/not-just-happy--but-ecstatic
 - /resources/blog/not-just-happy-but-ecstatic
 tags:
-- tfs
-- tfs2010
+- Customer Satisfaction
+- Deployment Frequency
 categories:
 - Azure DevOps
 - People and Process

@@ -26,12 +26,8 @@ aliasesFor404:
 - /blog/adventures-in-scrum--lesson-1-–-the-failed-sprint
 - /resources/blog/adventures-in-scrum-lesson-1-the-failed-sprint
 tags:
-- develop
-- people
-- practices
-- process
-- scrum
-- ssw
+- Scrum Team
+- Definition of Done
 categories:
 - Scrum
 - People and Process

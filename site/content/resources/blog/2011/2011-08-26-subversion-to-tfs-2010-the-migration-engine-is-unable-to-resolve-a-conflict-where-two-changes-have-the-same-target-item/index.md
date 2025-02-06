@@ -26,13 +26,8 @@ aliasesFor404:
 - /blog/subversion-to-tfs-2010--the-migration-engine-is-unable-to-resolve-a-conflict-where-two-changes-have-the-same-target-item
 - /resources/blog/subversion-to-tfs-2010-the-migration-engine-is-unable-to-resolve-a-conflict-where-two-changes-have-the-same-target-item
 tags:
-- nwcadence
-- tfs
-- tfs2010
-- timely-migration
-- tools
-- visual-studio
-- vs2010
+- Technical Debt
+- Change Management
 preview: image-1.png
 
 ---
