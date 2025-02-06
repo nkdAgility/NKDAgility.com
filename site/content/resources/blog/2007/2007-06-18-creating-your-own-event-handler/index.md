@@ -26,7 +26,7 @@ tags:
 - tfs-event-handler
 - wit
 categories:
-- code-and-complexity
+- Azure DevOps
 preview: metro-binary-vb-128-link-2-2.png
 
 ---

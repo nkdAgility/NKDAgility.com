@@ -22,7 +22,7 @@ aliasesFor404:
 - /blog/moderating-for-community-credit
 - /resources/blog/moderating-for-community-credit
 categories:
-- me
+- People and Process
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

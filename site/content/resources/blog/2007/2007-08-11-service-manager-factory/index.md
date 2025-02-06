@@ -26,7 +26,8 @@ tags:
 - develop
 - practices
 categories:
-- code-and-complexity
+- Application Lifecycle Management
+- Code and Complexity
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/deployment-documentation
 - /resources/blog/deployment-documentation
 categories:
-- code-and-complexity
+- Application Lifecycle Management
+- Install and Configuration
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

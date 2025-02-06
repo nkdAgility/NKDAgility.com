@@ -31,7 +31,7 @@ tags:
 - visual-basic
 - visual-basic-9
 categories:
-- me
+- Code and Complexity
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

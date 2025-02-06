@@ -29,7 +29,8 @@ tags:
 - tfs-event-handler
 - wit
 categories:
-- me
+- Azure DevOps
+- Install and Configuration
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

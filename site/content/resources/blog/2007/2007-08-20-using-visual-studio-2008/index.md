@@ -29,7 +29,8 @@ tags:
 - vs2005
 - vs2008
 categories:
-- me
+- Install and Configuration
+- Application Lifecycle Management
 preview: metro-visual-studio-2005-128-link-8-1.png
 
 ---

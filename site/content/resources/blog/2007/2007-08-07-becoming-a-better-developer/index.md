@@ -30,7 +30,7 @@ tags:
 - ml
 - tools
 categories:
-- me
+- Discovery and Learning
 preview: metro-merilllynch-128-link-1-1.png
 
 ---

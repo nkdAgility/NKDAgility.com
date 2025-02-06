@@ -31,8 +31,9 @@ tags:
 - visual-studio
 - vs2008
 categories:
-- news-and-reviews
-- products-and-books
+- Azure DevOps
+- News and Reviews
+- Products and Books
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

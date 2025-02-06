@@ -28,8 +28,7 @@ tags:
 - spf2010
 - tools
 categories:
-- products-and-books
-- upgrade-and-maintenance
+- install-and-configuration
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

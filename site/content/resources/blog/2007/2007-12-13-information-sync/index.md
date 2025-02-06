@@ -24,7 +24,7 @@ aliasesFor404:
 tags:
 - windows-mobile-6
 categories:
-- me
+- People and Process
 preview: nakedalm-logo-128-link-6-6.png
 
 ---

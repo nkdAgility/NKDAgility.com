@@ -27,7 +27,7 @@ tags:
 - tools
 - wpf
 categories:
-- me
+- Events and Presentations
 preview: metro-merilllynch-128-link-1-1.png
 
 ---

@@ -4,7 +4,7 @@
 . ./.powershell/_includes/ResourceHelpers.ps1
 
 # Iterate through each blog folder and update markdown files
-$outputDir = ".\site\content\resources\blog\2023"
+$outputDir = ".\site\content\resources\blog\2007"
 
 # Get list of directories and select the first 10
 $resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md" #| Select-Object -First 10
@@ -124,9 +124,13 @@ $resources | ForEach-Object {
 
         #================Catsagories==========================
         . ./.powershell/single-use/resources/Update-Catagories.ps1
-        $unknownCategories = $hugoMarkdown.FrontMatter.categories | Where-Object { -not $CatalogCategories.ContainsKey($_) }
+        $unknownCategories = @();
+        if ($hugoMarkdown.FrontMatter.Contains("categories")) {
+            $unknownCategories = $hugoMarkdown.FrontMatter.categories | Where-Object { -not $CatalogCategories.ContainsKey($_) }
+        }       
         If ($unknownCategories.Count -gt 0) {
-            $newCatagories = Get-UpdatedCategories -CurrentCategories $hugoMarkdown.FrontMatter.categories -CatalogCategories $CatalogCategories -ResourceContent $hugoMarkdown.BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title
+            $year = [datetime]::Parse($hugoMarkdown.FrontMatter.date).Year
+            $newCatagories = Get-UpdatedCategories -CurrentCategories $hugoMarkdown.FrontMatter.categories -CatalogCategories $CatalogCategories -ResourceContent $hugoMarkdown.BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -ResourceYear $year
             Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values $newCatagories -Overwrite
         } 
         # =================COMPLETE===================

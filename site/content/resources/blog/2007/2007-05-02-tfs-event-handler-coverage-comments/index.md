@@ -31,7 +31,7 @@ tags:
 - tfs-event-handler
 - wit
 categories:
-- me
+- Azure DevOps
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

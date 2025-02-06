@@ -27,7 +27,8 @@ tags:
 - tools
 - wit
 categories:
-- me
+- Install and Configuration
+- Azure DevOps
 preview: metro-merilllynch-128-link-1-1.png
 
 ---

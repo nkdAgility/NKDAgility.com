@@ -32,7 +32,7 @@ tags:
 - vs2008
 - wcf
 categories:
-- me
+- Discovery and Learning
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

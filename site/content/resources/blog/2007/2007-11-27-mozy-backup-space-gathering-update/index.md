@@ -22,7 +22,7 @@ aliasesFor404:
 - /blog/mozy-backup-space-gathering-update
 - /resources/blog/mozy-backup-space-gathering-update
 categories:
-- me
+- News and Reviews
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

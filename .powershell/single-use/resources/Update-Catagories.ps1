@@ -1,8 +1,8 @@
 $CatalogCategories = @{
     "Organisational Agility"           = "The ability of an organisation to rapidly adapt to market changes, customer needs, and emerging opportunities."
     "Application Lifecycle Management" = "Managing the development, maintenance, and governance of software applications throughout their lifecycle."
-    "Azure DevOps"                     = "A set of development tools and services by Microsoft for CI/CD, collaboration, and agile project management."
-    "Code and Complexity"              = "Discussions around software code, code quality, code complexity management, and coding best practices in development."
+    "Azure DevOps"                     = "The Azure DevOps or TFS (Team FOundation Server) product from Microsoft that is a set of development tools and services by Microsoft for CI/CD, collaboration, and agile project management."
+    "Code and Complexity"              = "Examples of Code or Discussions around software code, code quality, code complexity management, and coding best practices in development."
     "Complexity Thinking"              = "An approach to understanding and managing organisations, systems, and uncertainty using complexity science, emergence, and nonlinear dynamics."
     "Decision Theory"                  = "Decision-making in uncertain environments using heuristics, probability, and behavioural economics."
     "Value Delivery"                   = "Strategies for iterative and continuous value delivery to customers."
@@ -34,22 +34,21 @@ $CatalogCategories = @{
     "AI and Automation in Agility"     = "Leveraging AI-driven automation to enhance agility, decision-making, and software delivery."
 }          
 
-function Create-MarkdownFiles {
+function Create-MarkdownFilesForCatalog {
     param (
         [Parameter(Mandatory = $true)]
-        [hashtable]$CatalogCategories
+        [hashtable]$catalog,
+        [Parameter(Mandatory = $true)]
+        [string]$OutputDirectory
     )
-    
-    # Define the output directory
-    $OutputDirectory = "site\content\categories"
-    
+
     # Ensure the directory exists
     if (!(Test-Path -Path $OutputDirectory)) {
         New-Item -ItemType Directory -Path $OutputDirectory | Out-Null
     }
     
     # Loop through each category and create a markdown file
-    foreach ($Category in $CatalogCategories.Keys) {
+    foreach ($Category in $catalog.Keys) {
         $Slug = ($Category -replace '\s+', '-' -replace '[^a-zA-Z0-9-]', '').ToLower();
         $markdownFile = "$OutputDirectory/$Slug.md"
     
@@ -59,7 +58,7 @@ function Create-MarkdownFiles {
         else {
             $FrontMatter = [ordered]@{
                 title       = "$Category"
-                description = "$($CatalogCategories[$Category])"
+                description = "$($catalog[$Category])"
             }
             $hugoMarkdown = [HugoMarkdown]::new($FrontMatter, "")
         }
@@ -71,4 +70,5 @@ function Create-MarkdownFiles {
     }
 }
 
-#Create-MarkdownFiles $CatalogCategories
+#Create-MarkdownFilesForCatalog -catalog $CatalogCategories -OutputDirectory "site\content\categories"
+#Create-MarkdownFilesForCatalog -catalog $CatalogTags -OutputDirectory "site\content\tags"

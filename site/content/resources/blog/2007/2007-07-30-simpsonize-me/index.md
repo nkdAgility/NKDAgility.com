@@ -26,7 +26,7 @@ aliasesFor404:
 - /blog/simpsonize-me-
 - /resources/blog/simpsonize-me
 categories:
-- me
+- Discovery and Learning
 preview: nakedalm-logo-128-link-2-1.png
 
 ---

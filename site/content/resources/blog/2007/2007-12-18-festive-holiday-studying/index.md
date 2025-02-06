@@ -28,7 +28,7 @@ tags:
 - wpf
 - xbox
 categories:
-- me
+- Discovery and Learning
 preview: metro-xbox-360-link-3-3.png
 
 ---

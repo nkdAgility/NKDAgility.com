@@ -28,7 +28,7 @@ tags:
 - sharepoint
 - tools
 categories:
-- code-and-complexity
+- Code and Complexity
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

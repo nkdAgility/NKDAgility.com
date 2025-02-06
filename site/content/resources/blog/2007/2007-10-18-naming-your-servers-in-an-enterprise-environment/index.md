@@ -27,7 +27,7 @@ tags:
 - infrastructure
 - tools
 categories:
-- code-and-complexity
+- Application Lifecycle Management
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

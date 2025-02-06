@@ -28,7 +28,8 @@ aliasesFor404:
 tags:
 - vs2005
 categories:
-- install-and-configuration
+- Install and Configuration
+- Application Lifecycle Management
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

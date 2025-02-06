@@ -35,7 +35,7 @@ tags:
 - tfs-sticky-buddy
 - tools
 categories:
-- code-and-complexity
+- People and Process
 preview: nakedalm-logo-128-link-3-3.png
 
 ---

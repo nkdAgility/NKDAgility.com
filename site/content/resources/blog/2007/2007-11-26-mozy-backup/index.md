@@ -22,7 +22,7 @@ aliasesFor404:
 - /blog/mozy-backup
 - /resources/blog/mozy-backup
 categories:
-- me
+- News and Reviews
 preview: nakedalm-logo-128-link-3-3.png
 
 ---

@@ -26,7 +26,7 @@ tags:
 - service-oriented-architecture
 - tools
 categories:
-- me
+- Azure DevOps
 preview: metro-merilllynch-128-link-3-3.png
 
 ---

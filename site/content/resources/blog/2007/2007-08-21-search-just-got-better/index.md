@@ -25,7 +25,8 @@ tags:
 - dyslexia
 - live
 categories:
-- products-and-books
+- Products and Books
+- News and Reviews
 preview: nakedalm-logo-128-link-6-1.png
 
 ---

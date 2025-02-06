@@ -26,7 +26,7 @@ tags:
 - sp2007
 - spf2010
 categories:
-- problems-and-puzzles
+- Install and Configuration
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

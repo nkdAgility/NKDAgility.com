@@ -28,7 +28,7 @@ aliasesFor404:
 tags:
 - answers
 categories:
-- me
+- Discovery and Learning
 preview: nakedalm-logo-128-link-25-25.png
 
 ---

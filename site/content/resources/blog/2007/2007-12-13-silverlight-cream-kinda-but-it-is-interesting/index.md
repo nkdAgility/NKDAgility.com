@@ -35,7 +35,7 @@ tags:
 - sp2007
 - tools
 categories:
-- news-and-reviews
+- News and Reviews
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

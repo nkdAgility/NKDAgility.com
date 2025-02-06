@@ -29,7 +29,8 @@ tags:
 - visual-studio
 - vs2008
 categories:
-- tools-and-techniques
+- Application Lifecycle Management
+- News and Reviews
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

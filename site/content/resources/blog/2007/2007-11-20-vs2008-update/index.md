@@ -31,7 +31,7 @@ tags:
 - visual-studio
 - vs2008
 categories:
-- upgrade-and-maintenance
+- install-and-configuration
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

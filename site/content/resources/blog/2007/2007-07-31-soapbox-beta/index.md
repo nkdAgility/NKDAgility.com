@@ -25,7 +25,7 @@ tags:
 - silverlight
 - tools
 categories:
-- me
+- News and Reviews
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

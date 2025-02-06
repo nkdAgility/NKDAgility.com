@@ -26,7 +26,7 @@ aliasesFor404:
 - /blog/deep-vein-thrombosis-(dvt)-update
 - /resources/blog/deep-vein-thrombosis-dvt-update
 categories:
-- me
+- News and Reviews
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

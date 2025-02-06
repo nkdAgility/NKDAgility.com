@@ -33,8 +33,7 @@ tags:
 - tools
 - wit
 categories:
-- code-and-complexity
-- me
+- application-lifecycle-management
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

@@ -27,7 +27,8 @@ tags:
 - tools
 - wit
 categories:
-- code-and-complexity
+- Install and Configuration
+- Code and Complexity
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

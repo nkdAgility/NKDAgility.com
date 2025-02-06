@@ -28,8 +28,7 @@ tags:
 - tfs
 - tfs2005
 categories:
-- code-and-complexity
-- upgrade-and-maintenance
+- Azure DevOps
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

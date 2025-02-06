@@ -25,7 +25,7 @@ tags:
 - events-and-presentations
 - msdn
 categories:
-- events-and-presentations
+- Events and Presentations
 preview: metro-event-128-link-1-1.png
 
 ---

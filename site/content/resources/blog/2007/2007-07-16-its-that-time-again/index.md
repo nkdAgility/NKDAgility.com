@@ -24,7 +24,7 @@ aliasesFor404:
 tags:
 - sp2007
 categories:
-- me
+- People and Process
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

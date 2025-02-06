@@ -28,8 +28,7 @@ tags:
 - tools
 - wcf
 categories:
-- code-and-complexity
-- me
+- Azure DevOps
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

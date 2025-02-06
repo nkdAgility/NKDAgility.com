@@ -28,8 +28,7 @@ aliasesFor404:
 tags:
 - code
 categories:
-- code-and-complexity
-- me
+- Events and Presentations
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

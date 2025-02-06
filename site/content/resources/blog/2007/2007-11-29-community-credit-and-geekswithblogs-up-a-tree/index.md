@@ -29,7 +29,7 @@ tags:
 - awards
 - off-topic
 categories:
-- me
+- News and Reviews
 preview: metro-award-link-1-1.png
 
 ---

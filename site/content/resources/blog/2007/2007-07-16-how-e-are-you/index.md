@@ -29,7 +29,7 @@ tags:
 - moss2007
 - sharepoint
 categories:
-- me
+- Discovery and Learning
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

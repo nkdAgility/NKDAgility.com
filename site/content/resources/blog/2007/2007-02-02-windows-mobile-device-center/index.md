@@ -24,7 +24,8 @@ aliasesFor404:
 tags:
 - windows-mobile-6
 categories:
-- products-and-books
+- Install and Configuration
+- Products and Books
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

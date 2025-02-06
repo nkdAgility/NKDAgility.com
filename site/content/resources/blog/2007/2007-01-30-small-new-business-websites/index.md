@@ -29,7 +29,7 @@ tags:
 - off-topic
 - seo
 categories:
-- updated2019
+- Value Delivery
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

@@ -22,7 +22,7 @@ aliasesFor404:
 - /blog/developer-vindication
 - /resources/blog/developer-vindication
 categories:
-- me
+- People and Process
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

@@ -22,7 +22,7 @@ aliasesFor404:
 - /blog/programmer-personality-type
 - /resources/blog/programmer-personality-type
 categories:
-- me
+- People and Process
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

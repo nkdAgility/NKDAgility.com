@@ -22,7 +22,7 @@ aliasesFor404:
 - /blog/back-to-the-grind
 - /resources/blog/back-to-the-grind
 categories:
-- me
+- Organisational Psychology
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

@@ -31,7 +31,7 @@ tags:
 - patterns
 - practices
 categories:
-- code-and-complexity
+- Discovery and Learning
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

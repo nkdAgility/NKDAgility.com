@@ -25,7 +25,7 @@ tags:
 - aggreko
 - sp2007
 categories:
-- me
+- Application Lifecycle Management
 preview: metro-aggreko-128-link-1-1.png
 
 ---

@@ -26,8 +26,8 @@ tags:
 - tfs
 - tfs2008
 categories:
-- code-and-complexity
-- upgrade-and-maintenance
+- Install and Configuration
+- Application Lifecycle Management
 preview: metro-visual-studio-2005-128-link-4-4.png
 
 ---

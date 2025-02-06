@@ -27,7 +27,8 @@ tags:
 - fail
 - practices
 categories:
-- people-and-process
+- People and Process
+- Discovery and Learning
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

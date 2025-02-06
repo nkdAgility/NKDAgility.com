@@ -35,7 +35,7 @@ tags:
 - vs2005
 - vs2008
 categories:
-- events-and-presentations
+- Events and Presentations
 preview: metro-visual-studio-2005-128-link-2-2.png
 
 ---

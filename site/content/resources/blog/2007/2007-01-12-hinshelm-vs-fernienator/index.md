@@ -25,7 +25,7 @@ tags:
 - answers
 - xbox
 categories:
-- me
+- News and Reviews
 preview: metro-xbox-360-link-2-2.png
 
 ---

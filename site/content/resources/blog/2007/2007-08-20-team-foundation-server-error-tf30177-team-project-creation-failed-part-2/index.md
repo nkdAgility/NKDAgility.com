@@ -32,7 +32,7 @@ tags:
 - sp2007
 - spf2010
 categories:
-- problems-and-puzzles
+- Azure DevOps
 preview: metro-sharepoint-128-link-1-1.png
 
 ---
