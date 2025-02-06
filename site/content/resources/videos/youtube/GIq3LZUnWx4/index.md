@@ -28,16 +28,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- PSPO
-- Professional Scrum Product Owner
-- PSPO course
-- Professional Scrum Product Owner course
-- Scrum Course
-- Scrum Training
-- Scrum Certification
-- Scrum.Org
+- Value Delivery
+- Agile Product Ownership
+- Product Owner
+- Agile Product Discovery
+- Value Prioritisation
+- Agile Strategy
+- Customer Feedback Loops
+- Agile Leadership
+- Organisational Agility
+- Continuous Improvement
+- Agile Values and Principles
+- Lean Thinking
+- Evidence Based Management
+- Team Collaboration
 resourceTypes:
 - video
+categories:
+- Value Delivery
+- Agile Product Management
+- Organisational Agility
 
 ---
 ## The Core of PSPO: Unearthing the Essence of Value

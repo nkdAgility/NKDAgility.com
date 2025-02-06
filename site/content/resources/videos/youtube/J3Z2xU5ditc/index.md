@@ -24,34 +24,29 @@ preview: https://i.ytimg.com/vi/J3Z2xU5ditc/maxresdefault.jpg
 duration: 436
 isShort: false
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Agile Planning
+- Scrum Team
+- Scrum Product Management
+- Daily Scrum
+- Sprint Planning Workshop
+- Definition of Done
+- Continuous Improvement
+- Team Collaboration
+- Strategic Goals
+- Agile Values and Principles
+- Evidence Based Management
+- Agile Product Discovery
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Scrum
+- Scaling Agility
+- People and Process
+- Value Delivery
+- Discovery and Learning
 
 ---
  Demystifying Scrum: It's All About Planning! 📅 Dive deep into the world of Scrum and unravel the myth that Agile means no planning. 

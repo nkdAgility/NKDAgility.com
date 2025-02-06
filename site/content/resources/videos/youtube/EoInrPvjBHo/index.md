@@ -28,31 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Product Owner
+- Team Motivation
+- Team Collaboration
+- Agile Product Ownership
+- Agile Transformation
+- Employee Engagement
+- Agile Values and Principles
+- Organisational Culture
+- Agile Apocalypse
+- Continuous Improvement
+- Agile Software Development
+- Psychological Safety
+- Value Delivery
+- Agile Digital Tools
 resourceTypes:
 - video
+categories:
+- Agile Product Management
+- Organisational Psychology
+- People and Process
+- Value Delivery
+- Resilience and Change
 
 ---
 In Agile, there's a common misconception that leads to what I like to call "Agile Banditry." Product Owners, when misguided, can fall into the trap of treating their role as a project manager, dictating every step of the team’s progress like an overbearing taskmaster. This often leads to disengagement, frustration, and ultimately, a failed product. In this blog, we’ll explore the dangers of Agile Banditry and how Product Owners can avoid this trap, enabling their teams to thrive.

@@ -28,31 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Immersive Learning
+- Agile Transformation
+- Team Collaboration
+- Change Management
+- Continuous Learning
+- Agile Coaching
+- Agile Values and Principles
+- Scrum Team
+- Agile Methodology
+- Employee Engagement
+- Agile Community
+- Agile Certification
+- Leadership Training
 resourceTypes:
 - video
+categories:
+- Scrum
+- Discovery and Learning
+- People and Process
+- Organisational Agility
+- Resilience and Change
 
 ---
 In today’s fast-paced world, learning and development have to adapt to the complexity and speed at which things are changing, especially in the realms of Scrum, Kanban, and Agile practices. Traditional training methods, while useful, often fall short of equipping participants with the skills and insights needed to drive real, lasting change in their organizations. This is where immersive learning comes in.

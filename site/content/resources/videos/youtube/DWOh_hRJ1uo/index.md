@@ -30,14 +30,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- Scrum Master
-- ScrumMaster
-- Scrum Master Career Options
-- Agile
-- Agile Coach
+- Agile Certification
+- Validated Learning
+- Scrum Values
+- Continuous Learning
+- Team Collaboration
+- Agile Product Management
+- Scrum Product Development
+- Team Motivation
+- Agile Project Management
+- Agile Community
+- Agile Mentoring
+- Discovery and Learning
+- Employee Engagement
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Discovery and Learning
+- Metrics and Learning
+- Value Delivery
 
 ---
 **What is your best advice for becoming a Scrum Master outside software engineering?**

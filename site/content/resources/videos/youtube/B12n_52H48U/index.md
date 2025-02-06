@@ -46,6 +46,12 @@ tags:
 - Agile Transformation
 resourceTypes:
 - video
+categories:
+- Decision Theory
+- Organisational Agility
+- People and Process
+- Discovery and Learning
+- Value Delivery
 
 ---
 ## The Role of the Product Owner: Navigating the Agile Seas 🌊 

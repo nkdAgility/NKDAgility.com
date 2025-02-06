@@ -26,19 +26,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Kanban
-- Kanban course
-- Kanban training
-- Kanban trainer
-- Kanban coach
-- Kanban consultant
-- Applying Kanban
-- Kanban metrics
-- Kanban flow
-- Predictability in Kanban
-- Kanban forecasting
+- Agile Predictability
+- Evidence Based Management
+- Agile Planning
+- Value Stream Management
+- Team Collaboration
+- Continuous Improvement
+- Agile Forecasting
+- Data Driven Decisions
+- Lean Thinking
+- Flow Efficiency
+- Value Delivery
+- Agile Transformation
+- Kanban Theory
+- Agile Digital Tools
 resourceTypes:
 - video
+categories:
+- Metrics and Learning
+- Value Delivery
+- Kanban
+- Flow Efficiency
+- Value Stream Management
 
 ---
 ### Enhancing Team Predictability with Kanban: The "Applying Metrics for Predictability" Course

@@ -28,33 +28,24 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
-- Agile leadership
-- Agile leader
-- Leadership
+- Decision Theory
+- Evidence Based Management
+- Trend Analysis
+- Continuous Improvement
+- Discovery and Learning
+- Agile Product Discovery
+- Agile Planning
+- Systems Thinking
+- Strategic Goals
+- Value Delivery
 resourceTypes:
 - video
+categories:
+- Decision Theory
+- Systems Thinking
+- Discovery and Learning
+- Organisational Agility
+- Resilience and Change
 
 ---
 **Steve Jobs and the Art of Connecting Dots in Agile Environments** 

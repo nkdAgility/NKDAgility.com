@@ -29,6 +29,12 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Discovery and Learning
+- Value Delivery
+- Technical Excellence
 
 ---
  #shorts #shortsvideo #shortvideo Martin Hinshelwood explains why Simon is one of the best Professional Scrum Trainers to deliver the APS or Applying Professional Scrum course in the world.

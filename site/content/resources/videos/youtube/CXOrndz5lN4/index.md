@@ -43,6 +43,12 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Technical Excellence
+- Systems Thinking
+- People and Process
+- Discovery and Learning
+- Organisational Agility
 
 ---
  Building a culture of #engineering excellence. https://www.nkdagility.com #agile #agileproductdevelopment #agileproductmanagement #agileprojectmanagement #projectmanagement #projectmanager #agileproductdevelopment #productmanagement 

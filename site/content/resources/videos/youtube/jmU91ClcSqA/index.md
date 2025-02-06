@@ -28,17 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Project Management
-- What is project management
-- Project Management frameworks
-- PMI
-- Prince
-- Prince 2
-- Agile Project Management
-- Product Management
-- Product Development
+- Agile Methodology
+- Agile Planning
+- Agile Tools
+- Agile Product Management
+- Agile Product Discovery
+- Continuous Improvement
+- Lean Principles
+- Value Delivery
+- Historical origins of Project Management
+- Modernisation of Project Management
+- Gantt chart
+- Agile Evolution
+- Business Agility
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Practical Techniques and Tooling
+- Value Delivery
+- Discovery and Learning
 
 ---
 ## Unpacking Project Management

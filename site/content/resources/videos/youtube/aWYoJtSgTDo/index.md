@@ -40,6 +40,12 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
+categories:
+- Discovery and Learning
+- Systems Thinking
+- People and Process
+- Organisational Agility
+- Resilience and Change
 
 ---
  #agileleadership is about sensing opportunities, responding to threats, and making valuable decisions even when you don't have all the information you need.

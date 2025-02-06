@@ -26,12 +26,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Master
-- ScrumMaster
-- Agile
-- Agile Scrum
+- Team Collaboration
+- Team Motivation
+- Agile Leadership
+- Continuous Improvement
+- Psychological Safety
+- Scrum Team
+- Agile Values and Principles
+- Coaching
+- Self Organisation
+- No Micromanagement
+- Agile Project Management
+- Agile Methodology
+- Team Performance
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Organisational Psychology
+- Discovery and Learning
+- Transparency and Accountability
 
 ---
 **Is a scrum master an agile micromanager?**

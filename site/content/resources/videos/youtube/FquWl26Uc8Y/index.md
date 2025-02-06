@@ -24,21 +24,24 @@ preview: https://i.ytimg.com/vi/FquWl26Uc8Y/maxresdefault.jpg
 duration: 58
 isShort: true
 tags:
-- agile
-- agile product development
-- agile product management
-- agile project management
-- product development
-- product management
-- project management
-- software development
-- software engineering
-- technical debt
+- Technical Excellence
+- Agile Software Development
+- Continuous Improvement
+- Engineering Excellence
+- Agile Values and Principles
+- Team Collaboration
+- Agile Leadership
+- Decision Making
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Code and Complexity
+- Technical Excellence
+- Value Delivery
 
 ---
  Bad code isn't #technicaldebt, it's incompetence. https://www.nkdagility.com 

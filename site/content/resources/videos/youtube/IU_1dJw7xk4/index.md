@@ -28,17 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Kanban
-- Kanban approach
-- Kanban method
-- Kanban traning
-- Kanban consulting
-- Kanban coaching
-- Kanban coach
-- Kanban consultant
-- Kanban courses
+- Kanban Theory
+- Change Management
+- Evidence Based Management
+- Systems Thinking
+- Continuous Improvement
+- Cycle Time
+- Value Stream Management
+- Agile Planning
+- Team Collaboration
+- Agile Project Management
+- Lean Thinking
+- Agile Transformation
+- Predictability in Kanban
 resourceTypes:
 - video
+categories:
+- Kanban
+- Metrics and Learning
+- People and Process
+- Value Stream Management
+- Organisational Agility
 
 ---
 ### Transitioning from Traditional Project Management to Kanban

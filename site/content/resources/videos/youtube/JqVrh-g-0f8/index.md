@@ -28,12 +28,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- Product Backlog
-- Sprint Backlog
-- Scrum team
+- Scrum Product Management
+- Backlog Refinement
+- Agile Planning
+- Team Collaboration
+- Value Prioritisation
+- Agile Product Ownership
+- Agile Product Discovery
+- Continuous Improvement
+- Transparency
+- Agile Values and Principles
+- Customer Feedback Loops
+- Team Motivation
+- Definition of Ready
 resourceTypes:
 - video
+categories:
+- Agile Product Management
+- People and Process
+- Value Delivery
+- Transparency and Accountability
 
 ---
 ## The Order of Product Backlogs

@@ -23,22 +23,31 @@ preview: https://i.ytimg.com/vi/Jkw4sMe6h-w/maxresdefault.jpg
 duration: 243
 isShort: false
 tags:
-- Agile
-- Agile Leadership
-- Agile Leader
-- Professional Agile Leadership
-- Professional Agile Leadership Essentials
-- Professional Agile Leadership Evidence Based Management
-- PAL
-- PAL-E
-- PAL-EBM
-- Leadership
+- Agile Methodology
+- Team Collaboration
+- Team Motivation
+- Organisational Agility
+- Agile Coaching
+- Leadership Training
+- Agile Values and Principles
+- Agile Transformation
+- Change Management
+- Employee Engagement
+- Agile Community
+- Agile Project Management
+- Agile Digital Tools
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Scrum
+- Agile Product Management
+- Events and Presentations
 
 ---
  Joanna Plaskonka talks about the difference between #agileleadership and traditional line #management. In a simple or complicated environment, traditional management has been a great solution, but as things become more complex, a different style of leadership is needed.

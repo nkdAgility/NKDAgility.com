@@ -46,6 +46,12 @@ tags:
 - Agile Community
 resourceTypes:
 - video
+categories:
+- Agile Product Management
+- Organisational Agility
+- Transparency and Accountability
+- People and Process
+- Scrum
 
 ---
 ## Common Comments from the PSPO Course

@@ -30,33 +30,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
-- Agile leadership
-- Agile leader
-- Leadership
+- Scrum Team
+- Continuous Improvement
+- Team Collaboration
+- Change Management
+- Agile Product Management
+- Agile Planning
+- Agile Product Discovery
+- Evidence Based Improvement
+- Agile Values and Principles
+- Team Motivation
+- Discovery and Learning
+- Customer Feedback Loops
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Metrics and Learning
+- Discovery and Learning
+- Organisational Agility
 
 ---
 ## Empowering Teams with the APS Approach: Elevating Your Scrum Journey

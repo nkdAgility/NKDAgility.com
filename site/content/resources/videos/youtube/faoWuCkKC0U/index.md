@@ -28,14 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- PSPO A
-- Professional Scrum Product Owner
-- Advanced Professional Scrum Product Owner
-- Scrum.Org
-- Scrum Training
-- Scrum Certification
+- Scrum Product Management
+- Agile Product Management
+- Team Collaboration
+- Agile Product Discovery
+- Agile Planning
+- Agile Values and Principles
+- Customer Feedback Loops
+- Continuous Improvement
+- Agile Transformation
+- Agile Certification
+- Product Owner
+- Agile Community
+- Change Management
+- Business Agility
 resourceTypes:
 - video
+categories:
+- Agile Product Management
+- Scrum
+- People and Process
+- Value Delivery
+- Discovery and Learning
 
 ---
 ## Step Up Your Game with the PSPO-A Course

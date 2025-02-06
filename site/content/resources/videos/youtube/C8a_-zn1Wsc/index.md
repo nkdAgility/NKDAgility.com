@@ -28,22 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Coaching
-- Discovery and Learning
-- Team Motivation
-- Continuous Learning
-- Psychological Safety
-- Agile Values and Principles
-- Agile Transformation
-- Evidence Based Improvement
-- Team Collaboration
-- Agile Product Discovery
-- Change Management
-- Agile Community
-- Agile Software Development
-- Dunning-Kruger Effect
+- Systems Thinking
+- Cognitive Bias
 resourceTypes:
 - video
+categories:
+- Discovery and Learning
+- Organisational Psychology
+- People and Process
+- Complexity Thinking
+- Metrics and Learning
 
 ---
 In the ever-evolving world of Agile and Scrum, one of the most valuable approaches to mastering the methodologies is immersive learning. It’s a technique that not only sharpens your understanding but also combats the cognitive biases we unknowingly harbor. As Agile practitioners, we often think we know more than we do about the framework. Immersive learning helps dismantle that illusion, forcing us to confront the reality of how much we still have to discover.

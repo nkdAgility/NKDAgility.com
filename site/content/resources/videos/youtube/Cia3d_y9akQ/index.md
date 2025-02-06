@@ -43,6 +43,12 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scrum
+- Organisational Agility
+- People and Process
+- Transparency and Accountability
+- Technical Excellence
 
 ---
  💡 Debunking Scrum Master Misconceptions: Why Competence is Key 🚀

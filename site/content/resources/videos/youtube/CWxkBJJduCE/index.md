@@ -30,6 +30,10 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
+categories:
+- Technical Excellence
+- Systems Thinking
+- People and Process
 
 ---
  Redefining test driven development. Excerpt from our "Quality Code: Achieving Engineering Excellence with NKD Agility" series. Visit https://www.nkdagility.com #agile #scrum #productdevelopment #agileproductdevelopment #agileproductmanagement #developer #projectmanager 

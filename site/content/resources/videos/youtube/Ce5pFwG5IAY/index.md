@@ -40,6 +40,10 @@ tags:
 - Team Motivation
 resourceTypes:
 - video
+categories:
+- Scrum
+- Practical Techniques and Tooling
+- People and Process
 
 ---
 **Scrum Masters: Unlocking the Power of Liberating Structures 🚀** 

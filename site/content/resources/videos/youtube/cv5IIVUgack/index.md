@@ -44,6 +44,12 @@ tags:
 - Agile Product Discovery
 resourceTypes:
 - video
+categories:
+- Scrum
+- Technical Excellence
+- Value Delivery
+- People and Process
+- Discovery and Learning
 
 ---
 ## From Developer to Scrum Developer: A Journey of Continuous Learning

@@ -28,14 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- Scrum.Org
-- Scrum Training
-- Scrum Certification
-- Scrum Master
-- Product Owner
+- Continuous Learning
+- Flow Efficiency
+- Agile Planning
+- Agile Project Management
+- Team Collaboration
+- Agile Transformation
+- Continuous Improvement
+- Leadership Training
+- Employee Engagement
+- Agile Values and Principles
+- Discovery and Learning
+- Agile Coaching
+- Agile Product Management
+- Systems Thinking
 resourceTypes:
 - video
+categories:
+- Discovery and Learning
+- Flow Efficiency
+- People and Process
+- Continuous Learning
+- Value Delivery
 
 ---
 **Why do you think that 4 half days is a better format than 2 full days?**

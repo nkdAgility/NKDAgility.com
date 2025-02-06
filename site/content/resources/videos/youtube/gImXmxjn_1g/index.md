@@ -24,16 +24,28 @@ preview: https://i.ytimg.com/vi/gImXmxjn_1g/maxresdefault.jpg
 duration: 376
 isShort: false
 tags:
-- Agile consulting
-- Agile consultant
-- Agile
-- Agile project management
-- Agile Product Development
+- Agile Coaching
+- Scrum Team
+- Agile Training
+- Team Collaboration
+- Team Motivation
+- Agile Values and Principles
+- Continuous Improvement
+- Agile Community
+- Agile Mentoring
+- Agile Transformation
+- Customer Feedback Loops
+- Agile Product Management
+- Employee Engagement
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Scrum
+- Agile Product Management
+- People and Process
 
 ---
  Congratulations, you've earned your stripes as an #agilepractitioner and now it's time to bring your expertise, skills, and experience into the realm of #consulting. #agileconsulting to be precise.

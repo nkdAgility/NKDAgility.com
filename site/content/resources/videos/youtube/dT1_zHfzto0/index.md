@@ -28,30 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
+- Scrum Master
+- Scrum Team
+- Agile Transformation
+- Change Management
+- Organisational Change
+- Agile Values and Principles
+- Continuous Improvement
+- Systems Thinking
+- Team Collaboration
+- Agile Product Management
+- Evidence Based Improvement
+- Customer Feedback Loops
+- Agile Software Development
 resourceTypes:
 - video
+categories:
+- Scrum
+- Organisational Agility
+- Systems Thinking
+- Value Delivery
+- Resilience and Change
 
 ---
 ## The Reality of Scrum Adoption 🤔  

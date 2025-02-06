@@ -24,21 +24,26 @@ preview: https://i.ytimg.com/vi/FFrTLuRhyVo/maxresdefault.jpg
 duration: 36
 isShort: true
 tags:
-- Product Management
-- Product development
-- Product manager
-- Product owner
-- Project management
-- Project manager
-- Scrum master
-- Software
-- Software engineering
-- Technical debt
+- Value Delivery
+- Agile Product Discovery
+- Business Agility
+- Continuous Improvement
+- Ability to Innovate
+- Team Collaboration
+- Strategic Goals
+- Evidence Based Management
+- Agile Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Value Delivery
+- Technical Excellence
+- Discovery and Learning
+- Organisational Agility
+- Value Stream Management
 
 ---
  Missed opportunities, the hidden cost of #technicaldebt visit https://www.nkdagility.com #agile #productdevelopment #productmanagement #projectmanagement #agileproductdevelopment #agileprojectmanagement #agileproductmanagement #projectmanager #productowner #scrummaster 

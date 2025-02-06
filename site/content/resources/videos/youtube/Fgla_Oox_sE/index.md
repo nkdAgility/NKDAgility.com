@@ -28,31 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Agile Product Ownership
+- Scrum Product Management
+- Team Collaboration
+- Customer Feedback Loops
+- Agile Product Discovery
+- Team Motivation
+- Value Delivery
+- Product Backlog
+- Sprint Review
+- Continuous Improvement
+- Stakeholder Engagement
+- Agile Strategy
+- Employee Engagement
 resourceTypes:
 - video
+categories:
+- Agile Product Management
+- People and Process
+- Value Delivery
+- Organisational Agility
+- Marketing Adaptability
 
 ---
 As a Product Owner, one of the most crucial yet often overlooked aspects of your role is marketing. Yes, you read that right. You’re not just managing a product backlog or guiding a development team—you’re marketing a vision. Whether you're a new Product Owner or seasoned in the role, this skill is vital for success. You need to effectively communicate that vision to various audiences: the team building the product, the stakeholders consuming it, and the customers paying for it. Each group may have different priorities, but they all need to be aligned and engaged with your story.

@@ -30,12 +30,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- Scrum Trainer
-- Professional Scrum Trainer
-- PST
+- Scrum Values
+- Professional Scrum
+- Scrum Team
+- Accountability
+- Continuous Improvement
+- Transparency
+- Agile Values and Principles
+- Agile Community
+- Agile Mentoring
+- Evidence Based Leadership
+- Coaching
+- Employee Engagement
+- Organisational Culture
+- Technical Excellence
 resourceTypes:
 - video
+categories:
+- Scrum
+- Transparency and Accountability
+- Organisational Psychology
 
 ---
 ## My Professional Scrum Trainer Legacy: What Matters Most to Me?

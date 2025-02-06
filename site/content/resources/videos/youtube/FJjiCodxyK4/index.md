@@ -28,15 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Agile Consulting
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- Agile Coach
+- Leadership Training
+- Change Management
+- Self Organisation
+- Organisational Change
+- Agile Leadership
+- Continuous Improvement
+- Team Motivation
+- Business Agility
+- Agile Strategy
+- Employee Engagement
+- Agile Transformation
+- Agile Values and Principles
+- Systems Thinking
+- Agile Community
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Resilience and Change
+- Leadership
+- Agile Product Management
 
 ---
 **Why do you prefer agile consulting over agile coaching?**

@@ -28,31 +28,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Agile Planning
+- Agile Estimation
+- Value Stream Management
+- Throughput
+- Cycle Time
+- Evidence Based Management
+- Agile Transformation
+- Team Collaboration
+- Agile Values and Principles
+- Continuous Improvement
+- Agile Software Development
+- Technical Excellence
 resourceTypes:
 - video
+categories:
+- Metrics and Learning
+- Value Delivery
+- Flow Efficiency
+- People and Process
+- Organisational Agility
 
 ---
 **Introduction to Agile Metrics: The Pitfall of Story Points and Velocity**

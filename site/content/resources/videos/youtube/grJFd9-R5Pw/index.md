@@ -28,13 +28,29 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Applying Professional Scrum
-- APS
-- Scrum Certification
-- Scrum Training
-- Agile Scrum Training
+- Scrum
+- Scrum Team
+- Scrum Product Management
+- Scrum Values
+- Agile Problem Solving
+- Continuous Improvement
+- Team Collaboration
+- Effective problem-solving capabilities
+- Organisational Agility
+- Agile Project Management
+- Agile Transformation
+- Leadership Training
+- Value Delivery
+- Self Organisation
+- Evidence Based Improvement
 resourceTypes:
 - video
+categories:
+- Scrum
+- Organisational Agility
+- People and Process
+- Value Delivery
+- Complexity Thinking
 
 ---
 How does the APS course help people apply scrum effectively?

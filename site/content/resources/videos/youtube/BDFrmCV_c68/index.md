@@ -42,6 +42,12 @@ tags:
 - Agile Transformation
 resourceTypes:
 - video
+categories:
+- Metrics and Learning
+- Value Delivery
+- Discovery and Learning
+- People and Process
+- Decision Theory
 
 ---
 **The Peril of Pride in Agile: A Cautionary Tale** 

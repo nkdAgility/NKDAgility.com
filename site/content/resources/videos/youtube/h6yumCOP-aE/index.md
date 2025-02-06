@@ -28,15 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Working agreements
-- Kanban
-- Kanban approach
-- Kanban method
-- Kanban training
-- Kanban coaching
-- Kanban consultant
+- Team Collaboration
+- Agile Planning
+- Kanban Theory
+- Agile Frameworks
+- Agile Transformation
+- Team Motivation
+- Continuous Improvement
+- Agile Problem Solving
+- Self Organisation
+- Value Delivery
+- Agile Leadership
+- Scrum Team
+- Agile Methodology
+- Systems Thinking
 resourceTypes:
 - video
+categories:
+- People and Process
+- Kanban
+- Scrum
+- Organisational Agility
+- Transparency and Accountability
 
 ---
 ### Achieving Team Alignment with Kanban: The Importance of a Working Agreement

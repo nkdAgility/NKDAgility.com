@@ -44,6 +44,10 @@ tags:
 - Psychological Safety
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Value Delivery
 
 ---
 ## Is Your Sprint Goal Hitting the Mark?

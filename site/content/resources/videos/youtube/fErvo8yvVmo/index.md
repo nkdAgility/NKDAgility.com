@@ -29,6 +29,26 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Events and Presentations
+- Scrum
+- Agile Product Management
+tags:
+- Scrum
+- Scrum Team
+- Definition of Done
+- Software Increment
+- Continuous Delivery
+- Agile Methodology
+- Agile Product Management
+- Agile Planning
+- Agile Product Ownership
+- Agile Software Development
+- Agile Values and Principles
+- Team Collaboration
+- Customer Feedback Loops
+- Continuous Improvement
+- Agile Estimation
 
 ---
  [Watch on Youtube](https://www.youtube.com/watch?v=fErvo8yvVmo)

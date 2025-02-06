@@ -28,31 +28,25 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Scrum Team
+- Scrum Master
+- Continuous Learning
+- Team Collaboration
+- Agile Planning
+- Discovery and Learning
+- Agile Values and Principles
+- Employee Engagement
+- Technical Excellence
+- Value Delivery
+- Lean Principles
+- Agile Methodology
+- Agile Transformation
 resourceTypes:
 - video
+categories:
+- Scrum
+- Discovery and Learning
+- People and Process
 
 ---
 One of the most rewarding aspects of teaching Scrum is watching students _truly_ absorb what they’re learning. But let’s be honest, traditional learning methods can sometimes feel overwhelming, especially in intensive courses. Have you ever heard the term “drinking from a fire hose”? It’s a phrase I hear often in relation to training, and I’ll admit, it’s accurate.

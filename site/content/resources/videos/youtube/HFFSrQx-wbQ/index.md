@@ -23,38 +23,30 @@ preview: https://i.ytimg.com/vi/HFFSrQx-wbQ/maxresdefault.jpg
 duration: 64
 isShort: false
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
-- 7 signs
-- agile-pocalypse
-- agile-apocalypse
+- Agile Apocalypse
+- Change Management
+- Continuous Improvement
+- Team Collaboration
+- Agile Values and Principles
+- Agile Methodology
+- Agile Coaching
+- Self Organisation
+- Organisational Agility
+- Agile Transformation
+- Systems Thinking
+- Evidence Based Management
+- Agile Community
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Practical Techniques and Tooling
+- Resilience and Change
 
 ---
  There's a lot of criticism for #projectmanagement in the #agile world, especially by zealots who read the #agilemanifesto but have very little experience in helping teams adopt and implement #agile effectively.

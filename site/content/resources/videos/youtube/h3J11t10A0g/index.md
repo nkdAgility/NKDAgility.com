@@ -24,25 +24,30 @@ preview: https://i9.ytimg.com/vi/h3J11t10A0g/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 169
 isShort: false
 tags:
-- CTO
-- Software development
-- Software engineering
-- Agile
-- Product Development
-- Agile Product Development
-- Product Management
-- Agile Product Management
-- Project Management
-- Agile Project Management
-- Project Manager
-- Product Manager
-- Product Owner
-- Scrum Master
+- Agile Planning
+- Technical Leadership
+- Engineering Excellence
+- Agile Product Discovery
+- Continuous Improvement
+- Agile Software Development
+- Agile Values and Principles
+- Agile Transformation
+- Complexity Thinking
+- Decision Theory
+- Systems Thinking
+- Agile Strategy
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Technical Excellence
+- Value Delivery
+- Organisational Agility
+- Complexity Thinking
+- Discovery and Learning
 
 ---
  Solving Missed Deadlines and Budget Overruns in Software Projects | Martin Hinshelwood  

@@ -30,15 +30,24 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Owner
-- Product Ownership
-- Project Manager
-- Agile Project Manager
-- Agile Project Management
-- Agile Product Development
-- Project Management
+- Agile Product Ownership
+- Value Prioritisation
+- Customer Satisfaction
+- Agile Values and Principles
+- Team Collaboration
+- Agile Software Development
+- Agile Frameworks
+- Continuous Improvement
+- Agile Product Discovery
+- Business Agility
+- Agile Strategy
+- Value Delivery
 resourceTypes:
 - video
+categories:
+- Agile Product Management
+- Value Delivery
+- People and Process
 
 ---
 ## Defining Roles in Agile

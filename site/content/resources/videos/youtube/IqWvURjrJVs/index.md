@@ -23,25 +23,31 @@ preview: https://i.ytimg.com/vi/IqWvURjrJVs/maxresdefault.jpg
 duration: 255
 isShort: false
 tags:
-- Agile
-- Agile Leadership
-- Agile Leader
-- Professional Agile Leader
-- Professional Agile Leader Essentials
-- Professional Agile Leader Evidence Based Management
-- PAL
-- PAL-E
-- PAL-EBM
-- Evidence based management
-- Agile project management
-- Agile product management
-- Agile product development
+- Agile Coaching
+- Team Collaboration
+- Team Motivation
+- Scrum Team
+- Continuous Improvement
+- Agile Values and Principles
+- Discovery and Learning
+- Customer Feedback Loops
+- Agile Product Discovery
+- Agile Transformation
+- Organisational Agility
+- Employee Engagement
+- Psychological Safety
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- Agile Product Management
+- Scrum
+- Discovery and Learning
+- People and Process
 
 ---
  Znaczenie znajomości terenu. Czego możemy się nauczyć o zwinności na podstawie narodowego polskiego sportu, czyli zbierania grzybów?

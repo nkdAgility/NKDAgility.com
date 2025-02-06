@@ -28,21 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Review
-- Sprint
-- Scrum
-- Scrum Master
-- Professional Scrum Master
-- Scrum master skills
-- Sprint review tips
-- Scrum framework
-- Agile
-- Agile project management
-- Agile product management
-- Agile product development
-- Product review
+- Scrum Team
+- Scrum Product Management
+- Product Backlog
+- Customer Feedback Loops
+- Team Collaboration
+- Agile Planning
+- Employee Engagement
+- Continuous Improvement
+- Transparency
+- Agile Product Ownership
+- Value Delivery
+- Agile Product Discovery
+- Stakeholder Engagement
+- Definition of Done
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Value Delivery
+- Transparency and Accountability
 
 ---
 ## Unleashing the Power of Stakeholder Engagement in Sprint Reviews 💡**🔍** 

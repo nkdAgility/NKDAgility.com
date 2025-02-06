@@ -28,32 +28,22 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Owner
-- Product Manager
-- Scrum Product Owner
-- Scrum Product Ownership
-- Product Ownership
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
+- Team Collaboration
+- Accountability
+- Agile Product Ownership
+- Scrum Team
+- Sprint Review
+- Customer Feedback Loops
+- Team Motivation
+- Psychological Safety
+- Agile Transformation
 resourceTypes:
 - video
+categories:
+- People and Process
+- Scrum
+- Transparency and Accountability
+- Organisational Psychology
 
 ---
 ## Product Owner's Misstep

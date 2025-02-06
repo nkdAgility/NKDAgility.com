@@ -23,17 +23,27 @@ preview: https://i.ytimg.com/vi/iCDEX6oHy7A/maxresdefault.jpg
 duration: 5071
 isShort: false
 tags:
-- Scrum
-- Agility
-- Professional
-- Product Owner
-- Scrum Team
+- Professional Scrum
+- Agile Leadership
+- Team Collaboration
+- Change Management
+- Organisational Agility
+- Agile Coaching
+- Team Motivation
+- Working Agreements
+- Agile Values and Principles
+- Professional Scrum Trainer
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Organisational Agility
+- Resilience and Change
 
 ---
  Jim is a Professional Scrum Trainer and an active Agile consultant at Loop Agility. We will be chatting about professionalism and conflicting priorities at 20:00 on the 7th April 2020

@@ -43,6 +43,12 @@ tags:
 - Resilience and Change
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- Market Adaptability
+- Resilience and Change
+- People and Process
+- Scrum
 
 ---
 What would be an example of a great agile consulting outcome for a client?

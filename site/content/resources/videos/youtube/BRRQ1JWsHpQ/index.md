@@ -41,6 +41,12 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Scrum
+- Practical Techniques and Tooling
+- Discovery and Learning
+- Organisational Agility
+- People and Process
 
 ---
  In 2020 when #covid19 hit with full force, many teams were thrown into disarray as working remotely became the norm rather than the exception.

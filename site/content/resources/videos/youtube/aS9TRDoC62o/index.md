@@ -45,6 +45,12 @@ tags:
 - Agile Methodology
 resourceTypes:
 - video
+categories:
+- DevOps
+- Organisational Agility
+- Technical Excellence
+- Market Adaptability
+- Value Delivery
 
 ---
 ## Why Agile Alone Isn't Enough Without DevOps Consulting 

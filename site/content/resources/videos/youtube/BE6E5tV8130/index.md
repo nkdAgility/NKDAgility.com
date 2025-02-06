@@ -28,21 +28,19 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Team Collaboration
-- Customer Feedback Loops
-- Continuous Improvement
-- Agile Product Discovery
-- Value Delivery
-- Incremental Delivery
-- Business Agility
-- Agile Values and Principles
-- Agile Leadership
-- Organisational Agility
-- Agile Software Development
-- Lean Thinking
-- Agile Transformation
+- Agile Project Management
+- Agile Product Development
+- Scrum Team
+- Agile Product Management
 resourceTypes:
 - video
+categories:
+- Agile Product Management
+- Value Delivery
+- Organisational Agility
+- Discovery and Learning
+- People and Process
+- Market Adaptability
 
 ---
 How is agile product development different to waterfall project management?

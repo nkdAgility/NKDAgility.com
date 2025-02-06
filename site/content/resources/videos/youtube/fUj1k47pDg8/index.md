@@ -29,6 +29,12 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
+categories:
+- Discovery and Learning
+- Value Delivery
+- People and Process
+- Metrics and Learning
+- Agile Product Management
 
 ---
  Thinking of doing the PPDV course? Here's a quick overview of the course from Dr Joanna Plaskonka. Visit https://nkdagility.com/training-courses/product-training-courses/professional-product-discovery-and-validation-skills-ppdv/ to register. #agile #scrum #productowner #projectmanager #productmanager #productdiscovery #agileproductdevelopment 

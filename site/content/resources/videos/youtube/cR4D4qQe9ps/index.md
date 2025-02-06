@@ -30,20 +30,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Values
-- Scrum Product Management
-- Scrum Team
-- Agile Project Management
-- Continuous Improvement
-- Empirical Process Control
-- Agile Product Management
-- Agile Software Development
-- Agile Methodology
-- Agile Learning
-- Agile Certification
-- Agile Community
+- Scrum Master
+- Scrum
+- Evidence Based Improvement
+- Technical Excellence
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Discovery and Learning
 
 ---
 **#1 tip for a new Scrum Master**

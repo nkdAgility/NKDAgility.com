@@ -28,16 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Kanban
-- Kanban training
-- Kanban courses
-- Kanban coach
-- Kanban consultant
-- Kanban method
-- kanban approach
-- kanban process
+- Scaling Kanban
+- Kanban Theory
+- Value Stream Management
+- Flow Efficiency
+- Continuous Improvement
+- Agile Planning
+- Agile Product Management
+- Scrum Team
+- Definition of Done
+- Agile Software Development
+- Agile Coaching
+- Lean Thinking
+- Systems Thinking
+- Agile Values and Principles
 resourceTypes:
 - video
+categories:
+- Kanban
+- Flow Efficiency
+- Value Stream Management
+- People and Process
+- Metrics and Learning
 
 ---
 When implementing a Kanban strategy, we're essentially creating a pull-based system of work. This methodology, which originated in lean manufacturing, offers teams a structured way to visualize, manage, and improve their workflow. If you're struggling with bottlenecks, work piling up, or inefficiencies in your process, Kanban might be exactly what you need.

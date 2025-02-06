@@ -44,6 +44,12 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Discovery and Learning
+- Organisational Agility
+- Value Delivery
 
 ---
  The immersive learning experiences were developed to help raise the standard of a #scrummaster entering the industry, and to provide additional value for organizations that wanted to really upskill their teams.

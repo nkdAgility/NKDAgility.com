@@ -29,6 +29,25 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Discovery and Learning
+- Events and Presentations
+- Agile Product Management
+tags:
+- Agile Product Discovery
+- Agile Planning
+- Team Collaboration
+- Agile Product Management
+- Customer Feedback Loops
+- Agile Community
+- Agile Values and Principles
+- Continuous Improvement
+- Agile Software Development
+- Agile Project Management
+- Discovery and Learning
+- Agile Transformation
+- Agile Digital Tools
+- Team Motivation
 
 ---
  Mural: https://app.mural.co/t/nkdagility1415/m/nkdagility1415/1634215691247/ec6d53cc70ba85f7337ee1f8e6dabe9cc333849b?sender=martin2917

@@ -44,6 +44,12 @@ tags:
 - Team Motivation
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Technical Excellence
+- Organisational Agility
+- Value Delivery
 
 ---
 # Scrum and Micromanagement: Dispelling the Myth 🚀

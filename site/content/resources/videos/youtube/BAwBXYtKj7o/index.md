@@ -41,6 +41,12 @@ sitemap:
   priority: 0.6
 resourceTypes:
 - video
+categories:
+- Technical Excellence
+- Value Delivery
+- DevOps
+- Metrics and Learning
+- Practical Techniques and Tooling
 
 ---
 # Technical Debt Management for Long-Term Quality | Martin Hinshelwood  

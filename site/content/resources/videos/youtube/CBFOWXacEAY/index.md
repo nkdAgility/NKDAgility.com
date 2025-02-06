@@ -29,6 +29,21 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Discovery and Learning
+- Value Delivery
+- Events and Presentations
+tags:
+- Agile Product Discovery
+- Customer Satisfaction
+- Agile Software Development
+- Agile Digital Tools
+- Continuous Improvement
+- Customer Feedback Loops
+- Value Delivery
+- Agile Methodology
+- Lean Startup
+- Evidence Based Management
 
 ---
  [Watch on Youtube](https://www.youtube.com/watch?v=CBFOWXacEAY)

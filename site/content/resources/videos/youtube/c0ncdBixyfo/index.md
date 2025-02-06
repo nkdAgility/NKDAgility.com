@@ -44,6 +44,11 @@ tags:
 - Agile Project Management
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Organisational Psychology
+- Resilience and Change
 
 ---
 # Overcoming the Culture of Contempt in Agile Teams

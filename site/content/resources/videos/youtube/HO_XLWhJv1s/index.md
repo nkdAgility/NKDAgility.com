@@ -29,6 +29,27 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Agile Product Management
+- Scrum
+- Value Delivery
+- People and Process
+- Discovery and Learning
+tags:
+- Scrum Product Ownership
+- Agile Product Management
+- Product Backlog
+- Scrum Team
+- Professional Scrum
+- Agile Product Discovery
+- Customer Feedback Loops
+- Continuous Learning
+- Agile Certification
+- Value Delivery
+- Agile Product Validation
+- Team Collaboration
+- Leadership Training
+- Evidence Based Management
 
 ---
  The Professional Scrum Product Owner is a hands-on, activity-based course where students explore Professional Scrum and develop an understanding of the Product Owner's critical role on the Scrum Team. 

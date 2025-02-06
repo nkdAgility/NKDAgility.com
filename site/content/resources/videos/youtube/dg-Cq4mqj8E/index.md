@@ -29,6 +29,21 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Events and Presentations
+- Azure DevOps
+- Practical Techniques and Tooling
+tags:
+- Remote Working
+- Team Collaboration
+- Agile Project Management
+- Agile Software Development
+- Agile Values and Principles
+- Continuous Improvement
+- Agile Digital Tools
+- Team Motivation
+- Agile Frameworks
+- Collaboration Tools
 
 ---
  [Watch on Youtube](https://www.youtube.com/watch?v=dg-Cq4mqj8E)

@@ -23,17 +23,32 @@ preview: https://i.ytimg.com/vi/JNJerYuU30E/maxresdefault.jpg
 duration: 50
 isShort: true
 tags:
-- Jerónimo Palacios
-- Professional Scrum Trainer
-- PST
-- Most influential person in Agile
-- Most influential person in Agile Spain
+- Agile Coaching
+- Agile Mentoring Program
+- Scrum Team
+- Agile Community
+- Agile Training
+- Agile Project Management
+- Agile Product Management
+- Agile Values and Principles
+- Team Collaboration
+- Team Motivation
+- Continuous Improvement
+- Employee Engagement
+- Agile Transformation
+- Leadership Training
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scrum
+- Agile Product Management
+- People and Process
+- Events and Presentations
+- Organisational Agility
 
 ---
  #shorts As we progress in our #agile career, we are often privileged to meet people who shape the trajectory of our career and experiences in meaningful, powerful ways. People who take the time to teach, coach, and mentor us in our journey to #agile and #scrum mastery.

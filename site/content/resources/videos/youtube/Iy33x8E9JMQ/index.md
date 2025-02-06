@@ -28,21 +28,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Agile coaching
-- Agile consulting
-- Agile coach
-- Agile consultant
-- Agile project management
-- Agile product management
-- Agile product development
-- agility
-- business agility
-- scrum
-- agile scrum
-- agile scrum training
+- Change Management
+- Evidence Based Management
+- Decision Theory
+- Pragmatic Thinking
+- Organisational Agility
+- Continuous Improvement
+- Systems Thinking
+- Agile Values and Principles
+- Evidence Based Improvement
+- Agile Transformation
+- Employee Engagement
+- Team Collaboration
+- Customer Feedback Loops
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Market Adaptability
+- Resilience and Change
 
 ---
 ## The Thin Line: Dogma vs Empiricism in Consulting Engagements

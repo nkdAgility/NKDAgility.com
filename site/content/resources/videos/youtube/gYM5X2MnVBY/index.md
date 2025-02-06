@@ -29,6 +29,29 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- Value Delivery
+- People and Process
+- Metrics and Learning
+- Lean
+- Scrum
+tags:
+- Agile Transformation
+- Customer Satisfaction
+- Deployment Frequency
+- Agile Product Discovery
+- Value Delivery
+- Team Collaboration
+- Agile Planning
+- Continuous Improvement
+- Product Backlog
+- Evidence Based Management
+- Agile Software Development
+- Lean Thinking
+- Technical Excellence
+- Scrum Team
+- Agile Values and Principles
 
 ---
  Fixed Video: https://youtu.be/5RJpAeKMRzs

@@ -24,26 +24,30 @@ preview: https://i9.ytimg.com/vi/Ig-HpUfQr3M/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 501
 isShort: false
 tags:
-- Software development
-- Software engineering
-- Agile
-- Product Development
-- Agile Product Development
-- Product Management
-- Agile Product Management
-- Project Management
-- Agile Project Management
-- CTO
-- Project Manager
-- Product Manager
-- Product Owner
-- Scrum Master
-- Scrum
+- Hypothesis Driven Development
+- Agile Product Discovery
+- Technical Debt
+- Evidence Based Management
+- Customer Feedback Loops
+- Agile Planning
+- Experimentation
+- Value Delivery
+- Continuous Improvement
+- Agile Strategy
+- Business Agility
+- Team Collaboration
+- Agile Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Metrics and Learning
+- Discovery and Learning
+- Value Delivery
+- Organisational Agility
+- Technical Excellence
 
 ---
  Hypothesis-Driven Product Development: Allocating Budget for Maximum Impact | Martin Hinshelwood

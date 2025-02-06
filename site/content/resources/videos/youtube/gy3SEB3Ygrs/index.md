@@ -29,6 +29,26 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Events and Presentations
+- Discovery and Learning
+- Organisational Agility
+tags:
+- Agile Community
+- Agile Transformation
+- Agile Digital Tools
+- Agile Methodology
+- Agile Values and Principles
+- Agile Leadership
+- Team Collaboration
+- Continuous Learning
+- Agile Coaching
+- Agile Evolution
+- Agile Software Development
+- Agile Project Management
+- Agile Product Management
+- Agile Product Discovery
+- Agile Scaling
 
 ---
  [Watch on Youtube](https://www.youtube.com/watch?v=gy3SEB3Ygrs)

@@ -28,13 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Developer
-- Scrum developer
-- Agile Developer
-- Agile Software Engineering
-- Agile Software Development
+- Team Motivation
+- Scrum Values
+- Scrum Team
+- Agile Product Management
+- Continuous Improvement
+- Employee Engagement
+- Technical Excellence
+- Value Delivery
+- Working Software
+- Agile Methodology
+- Agile Product Discovery
+- Customer Feedback Loops
+- Discovery and Learning
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Value Delivery
+- Technical Excellence
+- Discovery and Learning
 
 ---
 ## The Joy of Being a Scrum Developer

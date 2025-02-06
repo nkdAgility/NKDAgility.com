@@ -30,20 +30,25 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Master
-- Agile Coach
-- Scrum
-- Agile
-- Team motivation
-- Scrum Team motivation
-- Scrum team inspiration
-- Agile product development
-- Agile project management
-- Agile product management
-- project management
-- product development
+- Scrum Team
+- Sprint Review
+- Sprint Planning Workshop
+- Continuous Improvement
+- Customer Feedback Loops
+- Definition of Done
+- Agile Values and Principles
+- Employee Engagement
+- Agile Software Development
+- Agile Product Discovery
+- Psychological Safety
 resourceTypes:
 - video
+categories:
+- Scrum
+- Organisational Psychology
+- People and Process
+- Value Delivery
+- Agile Product Management
 
 ---
 ## Reinvigorating Your Scrum Team: The Agile Coach's Playbook 🚀 

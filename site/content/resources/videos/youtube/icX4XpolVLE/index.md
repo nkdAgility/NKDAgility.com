@@ -23,17 +23,32 @@ preview: https://i.ytimg.com/vi/icX4XpolVLE/maxresdefault.jpg
 duration: 2018
 isShort: false
 tags:
-- DevOps
-- DevOps consulting
-- DevOps Training
-- DevOps coaching
-- DevOps specialist
+- Continuous Delivery
+- Team Collaboration
+- Systems Thinking
+- Continuous Learning
+- Application Lifecycle Management
+- Agile Tools
+- Technical Excellence
+- Value Stream Management
+- Customer Feedback Loops
+- Deployment Frequency
+- Lean Thinking
+- Evidence Based Management
+- Agile Product Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- DevOps
+- Application Lifecycle Management
+- Systems Thinking
+- People and Process
+- Metrics and Learning
+- Technical Excellence
 
 ---
  🚀 Transform Your Workflow with DevOps: A Comprehensive Guide 🚀

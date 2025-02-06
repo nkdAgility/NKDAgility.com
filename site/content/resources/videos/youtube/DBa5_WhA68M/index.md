@@ -28,21 +28,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Negotiation Techniques
-- Agile Product Ownership
-- Scrum Product Management
-- Team Collaboration
-- Leadership Training
-- Agile Planning
-- Continuous Improvement
-- Agile Product Discovery
-- Value Delivery
-- Employee Engagement
-- Agile Software Development
-- Agile Values and Principles
-- Decision Making
+- Agile Leadership
 resourceTypes:
 - video
+categories:
+- Agile Product Management
+- People and Process
+- Value Delivery
+- Discovery and Learning
+- Organisational Agility
 
 ---
 One of the most vital skills for a Product Owner is negotiation. Whether you’re a seasoned Product Owner or just starting out, mastering negotiation can be the key to delivering maximum value. It’s a skill that you’ll use constantly — with developers, stakeholders, and leadership within your organization. Let’s dive into how negotiation plays a role in the life of a Product Owner and how you can become a master negotiator.

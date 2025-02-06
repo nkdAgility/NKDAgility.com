@@ -28,31 +28,29 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Product Backlog
+- Scrum Product Management
+- Backlog Refinement
+- Agile Product Ownership
+- Value Prioritisation
+- Continuous Improvement
+- Agile Product Discovery
+- Team Collaboration
+- Accountability
+- Agile Planning
+- Definition of Ready
+- Risk Management
+- Value Delivery
+- Learning and Development
+- Agile Software Development
 resourceTypes:
 - video
+categories:
+- Agile Product Management
+- Value Delivery
+- Scrum
+- Practical Techniques and Tooling
+- Discovery and Learning
 
 ---
 As a new product owner, one of the most crucial responsibilities you'll face is managing your product backlog. It’s the backbone of successful product delivery. The product backlog is more than a to-do list—it's the foundation for delivering maximum value. In this post, we'll walk you through the key elements of product backlog management, provide actionable insights, and share practical tips for mastering this essential skill.

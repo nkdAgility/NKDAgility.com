@@ -29,6 +29,30 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Metrics and Learning
+- Discovery and Learning
+- Organisational Psychology
+- Value Delivery
+- Resilience and Change
+tags:
+- Agile Leadership
+- Agile Transformation
+- Team Collaboration
+- Team Motivation
+- Change Management
+- Evidence Based Management
+- Organisational Agility
+- Agile Product Management
+- Employee Engagement
+- Agile Strategy
+- Agile Values and Principles
+- Continuous Improvement
+- Agile Coaching
+- Agile Community
+- Agile Product Discovery
 
 ---
  🌟 Exclusive Webcast: "Agile Leadership & Agile Transformation" with Dr. Joanna Płaskonka & Martin Hinshelwood 🌟  

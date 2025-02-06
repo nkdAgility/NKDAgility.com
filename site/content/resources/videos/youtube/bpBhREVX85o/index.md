@@ -42,6 +42,12 @@ tags:
 - Strategic Goals
 resourceTypes:
 - video
+categories:
+- Scrum
+- Organisational Agility
+- Value Delivery
+- Decision Theory
+- People and Process
 
 ---
 How does scrum help leadership teams pick the most valuable work to focus on?

@@ -23,17 +23,31 @@ preview: https://i.ytimg.com/vi/IXmOAB5e44w/maxresdefault.jpg
 duration: 147
 isShort: false
 tags:
-- Scrum training
-- Scrum certification
-- Scrum courses
-- Scrum
-- Scrum.org
+- Customer Satisfaction
+- Team Collaboration
+- Team Motivation
+- Employee Engagement
+- Agile Community
+- Value Delivery
+- Customer Retention
+- Agile Product Management
+- Agile Project Management
+- Agile Methodology
+- Agile Digital Tools
+- Agile Estimation
+- Agile Transformation
+- Continuous Improvement
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- People and Process
+- Value Delivery
+- Organisational Agility
+- Discovery and Learning
 
 ---
  We're blessed to have so many people coming through our NKD Agility doors because of a referral, and we deeply value and appreciate those referrals.

@@ -28,36 +28,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
-- Agile leadership
-- Agile leader
-- Leadership
-- 7 signs
-- agile-pocalypse
-- agile-apocalypse
+- Agile Apocalypse
+- Team Motivation
+- Organisational Agility
+- Agile Values and Principles
+- Self Organisation
+- Change Management
+- Employee Engagement
+- Continuous Improvement
+- Decision Making
+- Systems Thinking
+- Agile Product Management
+- Transparency
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Scrum
+- Decision Theory
+- Transparency and Accountability
 
 ---
 # Escaping the Judgment Trap in Agile Transformation 🚀

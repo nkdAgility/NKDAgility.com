@@ -42,6 +42,11 @@ tags:
 - Agile Community
 resourceTypes:
 - video
+categories:
+- Scrum
+- Organisational Agility
+- People and Process
+- Resilience and Change
 
 ---
 ## Debunking the "Magic" Myth

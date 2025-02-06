@@ -29,6 +29,25 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Events and Presentations
+- Discovery and Learning
+- Value Delivery
+tags:
+- Featured
+- Agile Community
+- Agile Digital Tools
+- Agile Methodology
+- Agile Software Development
+- Agile Product Discovery
+- Agile Product Management
+- Agile Project Management
+- Agile Values and Principles
+- Continuous Improvement
+- Customer Feedback Loops
+- Experimentation
+- Lean Startup
+- Digital Transformation
 
 ---
  [Watch on Youtube](https://www.youtube.com/watch?v=CQHxyhm4k8k)

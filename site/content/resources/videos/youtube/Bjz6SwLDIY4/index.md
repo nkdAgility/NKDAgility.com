@@ -44,6 +44,10 @@ tags:
 - Resilience and Change
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- Market Adaptability
+- Resilience and Change
 
 ---
 In today's fast-paced world, both individuals and businesses must constantly adapt to their surroundings. Whether it's a shift in the market, unforeseen circumstances, or technological advancements, those who thrive are the ones who can effectively readjust to the changes around them.

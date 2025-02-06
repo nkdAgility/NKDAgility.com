@@ -24,25 +24,32 @@ preview: https://i.ytimg.com/vi/HmAIUiR8QSo/maxresdefault.jpg
 duration: 387
 isShort: false
 tags:
-- Code quality
-- Software engineering
-- software development
-- agile
-- product development
-- product management
-- project management
-- agile project management
-- agile product development
-- agile product management
-- project manager
-- product owner
-- product manager
-- scrum master
+- Organisational Culture
+- Engineering Excellence
+- Technical Leadership
+- Continuous Improvement
+- Technical Mastery
+- Decision Theory
+- Agile Software Engineering
+- Value Delivery
+- Systems Thinking
+- Employee Engagement
+- Agile Transformation
+- Evidence Based Management
+- Psychological Safety
+- Lean Thinking
+- Agile Values and Principles
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Technical Excellence
+- People and Process
+- Value Delivery
+- Organisational Agility
+- Systems Thinking
 
 ---
  # Building a Culture of Quality and Engineering Excellence | Martin Hinshelwood  

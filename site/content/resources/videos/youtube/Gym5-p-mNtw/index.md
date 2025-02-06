@@ -24,26 +24,30 @@ preview: https://i9.ytimg.com/vi/Gym5-p-mNtw/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 525
 isShort: false
 tags:
-- Software engineering
-- Software development
-- Developer
-- Agile
-- Product development
-- Product management
-- Project management
-- CTO
-- project manager
-- Product manager
-- product owner
-- scrum master
-- agile project management
-- agile product development
-- agile product management
+- Business Agility
+- Lean Thinking
+- Value Delivery
+- Evidence Based Management
+- Agile Product Discovery
+- Innovation Rate
+- Continuous Improvement
+- Technical Excellence
+- Agile Strategy
+- Value Stream Management
+- Customer Feedback Loops
+- Systems Thinking
+- Agile Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Value Stream Management
+- Metrics and Learning
+- Discovery and Learning
+- Technical Excellence
+- Value Delivery
 
 ---
  Engineering Excellence: Eliminating Waste and Maximizing ROI | Martin Hinshelwood

@@ -28,6 +28,26 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Value Delivery
+- Organisational Psychology
+tags:
+- Scrum Master
+- Team Collaboration
+- Agile Project Management
+- Scrum Team
+- Continuous Improvement
+- Agile Values and Principles
+- Accountability
+- Agile Coaching
+- Scrum Product Development
+- Leadership Training
+- Working Agreements
+- Agile Transformation
+- Psychological Safety
+- Team Motivation
 
 ---
  *Unmasking the Role of Scrum Masters: Myths vs Reality*

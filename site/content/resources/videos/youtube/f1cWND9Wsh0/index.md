@@ -26,12 +26,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Lego
-- Scrum
-- Scrum Training
-- Professional Scrum Trainer
+- Scrum Master
+- Scrum Team
+- Agile Coaching
+- Team Collaboration
+- Agile Values and Principles
+- Organisational Culture
+- Team Motivation
+- Change Management
+- Agile Transformation
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Organisational Agility
 
 ---
 ## Debunking the Lego Approach 

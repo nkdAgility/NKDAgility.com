@@ -30,14 +30,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- PSM
-- Professional Scrum Master
-- Scrum Master
-- Scrum Master course
-- Scrum Master training
+- Scrum Team
+- Accountability
+- Agile Values and Principles
+- Continuous Improvement
+- Customer Feedback Loops
+- Agile Product Management
+- Technical Excellence
+- Agile Methodology
+- Lean Principles
+- Evidence Based Management
+- Organisational Change
+- Agile Transformation
+- Psychological Safety
 resourceTypes:
 - video
+categories:
+- People and Process
+- Organisational Psychology
+- Value Delivery
+- Transparency and Accountability
 
 ---
 ## "But in the Real World..."

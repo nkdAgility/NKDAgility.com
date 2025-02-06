@@ -43,6 +43,10 @@ tags:
 - Technical Mastery
 resourceTypes:
 - video
+categories:
+- People and Process
+- Organisational Psychology
+- Discovery and Learning
 
 ---
 ## Navigating its Limits in Agile Work Environments 

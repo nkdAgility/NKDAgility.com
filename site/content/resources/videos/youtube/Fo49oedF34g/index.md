@@ -24,23 +24,29 @@ preview: https://i.ytimg.com/vi/Fo49oedF34g/maxresdefault.jpg
 duration: 268
 isShort: false
 tags:
-- Agile
-- Agile Leadership
-- Agile Leader
-- Professional Agile Leader
-- Professional Agile Leader Essentials
-- Professional Agile Leader Evidence Based Management
-- evidence based management
-- evidence based leadership
-- agile project management
-- agile product development
-- agile product management
-- agile project manager
+- Agile Coaching
+- Scrum Team
+- Team Collaboration
+- Team Motivation
+- Agile Values and Principles
+- Organisational Agility
+- Agile Transformation
+- Employee Engagement
+- Customer Satisfaction
+- Agile Methodology
+- Agile Community
+- Continuous Improvement
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Scrum
+- Organisational Agility
+- Agile Product Management
+- People and Process
+- Value Delivery
 
 ---
  Czym różni się zwinne przywództwo od tradycyjnego zarządzania?

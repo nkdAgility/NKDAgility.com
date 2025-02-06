@@ -26,21 +26,25 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Agile training
-- Agile consulting
-- Agile coaching
-- Scrum
-- Scrum training
-- Scrum courses
-- Scrum certification
-- Scrum.Org
-- Professional Scrum Trainer
-- PST
-- CST
-- Certified Scrum Trainer
+- Team Collaboration
+- Change Management
+- Business Agility
+- Agile Strategy
+- Agile Leadership
+- Continuous Improvement
+- Agile Transformation
+- Organisational Change
+- Agile Values and Principles
+- Agile Methodology
+- Team Motivation
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Value Delivery
+- Agile Product Management
+- Resilience and Change
 
 ---
 ## Why Both Are Hard-Hitting but in Different Ways

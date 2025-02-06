@@ -32,6 +32,10 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
+categories:
+- Kanban
+- Value Stream Management
+- Flow Efficiency
 
 ---
  Ready to supercharge your campaigns with Kanban? This video dives into the essential role Kanban boards play in visualizing your workflow and maximizing campaign effectiveness.

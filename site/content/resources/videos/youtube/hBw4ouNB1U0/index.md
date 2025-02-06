@@ -23,21 +23,32 @@ preview: https://i.ytimg.com/vi/hBw4ouNB1U0/maxresdefault.jpg
 duration: 50
 isShort: true
 tags:
-- Kanban
-- Kanban training
-- Kanban courses
-- Kanban coach
-- Kanban consultant
-- Agile
-- Agile framework
-- Agile project management
-- Agile product development
+- Continuous Improvement
+- Kanban Theory
+- Lean Thinking
+- Value Stream Management
+- Systems Thinking
+- Evidence Based Improvement
+- Transparency
+- Agile Tools
+- Change Management
+- Agile Planning
+- Team Collaboration
+- Agile Product Management
+- Agile Software Development
+- Flow Efficiency
+- Agile Values and Principles
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Kanban
+- Metrics and Learning
+- Value Stream Management
+- Continuous Improvement
 
 ---
  Tired of stagnant processes and lackluster results? This video dives into the heart of Kanban: continuous improvement. Discover how Kanban empowers you to evolve your workflows, boost efficiency, and achieve outstanding outcomes.

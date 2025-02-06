@@ -42,6 +42,12 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
+categories:
+- People and Process
+- DevOps
+- Organisational Agility
+- Discovery and Learning
+- Technical Excellence
 
 ---
  Unravel the true essence of DevOps beyond just tools! Dive deep into the philosophy, practices, and ideas that drive successful DevOps implementations. 🛠️🔄💡

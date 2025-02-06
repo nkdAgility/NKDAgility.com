@@ -28,13 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Agile Leadership
-- Product Owner
-- Scrum
-- Product Development
+- Team Collaboration
+- Organisational Culture
+- Customer Satisfaction
+- Agile Product Management
+- Continuous Improvement
+- Evidence Based Management
+- Agile Values and Principles
+- Decision Theory
+- Business Agility
+- Employee Engagement
+- Innovation and Agile capabilities
+- Agile Transformation
+- Agile Strategy
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Metrics and Learning
+- Discovery and Learning
+- Value Delivery
 
 ---
 This is a great question, although I imagine I might pick up a bit of flack because of the hordes of people who love [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) and think of him as one of the most iconic leaders of the past century.

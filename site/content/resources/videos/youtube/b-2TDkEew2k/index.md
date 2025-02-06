@@ -42,6 +42,12 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
+categories:
+- Lean
+- Value Delivery
+- Scrum
+- Technical Excellence
+- People and Process
 
 ---
  #shorts #shortvideo #shortsvideo 7 Virtues of #agile. Temperance. #agile #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #projectmanagement #productdevelopment #productmanager #projectmanager #agilecoach #scrummaster 

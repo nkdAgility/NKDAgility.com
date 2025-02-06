@@ -26,14 +26,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- DevOps
-- software engineering
-- software development
-- agile
-- agile project management
-- agile product development
+- Scrum
+- Scrum Team
+- Definition of Done
+- Software Increment
+- Technical Excellence
+- Continuous Delivery
+- Team Collaboration
+- Agile Product Management
+- Agile Software Development
+- Engineering Excellence
+- Agile Values and Principles
+- Customer Feedback Loops
+- Agile Planning
 resourceTypes:
 - video
+categories:
+- Scrum
+- DevOps
+- Technical Excellence
+- Value Delivery
+- People and Process
 
 ---
 ## Bridging DevOps & Software Engineering Through Scrum! 🔥

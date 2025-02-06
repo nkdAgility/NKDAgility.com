@@ -30,19 +30,25 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Agile coach
-- Agile coaching
-- Agile consultant
-- Agile consulting
-- Agile project management
-- Agile product management
-- Agile product development
-- product development
-- project management
-- product management
+- Team Collaboration
+- Agile Tools
+- Agile Values and Principles
+- Continuous Improvement
+- Employee Engagement
+- Agile Software Development
+- Technical Mastery
+- Agile Leadership
+- Self Organisation
+- Change Management
+- Agile Community
+- Discovery and Learning
 resourceTypes:
 - video
+categories:
+- People and Process
+- Practical Techniques and Tooling
+- Organisational Agility
+- Technical Excellence
 
 ---
 ## Why a Deep Understanding is Non-Negotiable

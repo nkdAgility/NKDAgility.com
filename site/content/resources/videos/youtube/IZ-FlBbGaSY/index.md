@@ -23,20 +23,29 @@ preview: https://i.ytimg.com/vi/IZ-FlBbGaSY/maxresdefault.jpg
 duration: 451
 isShort: false
 tags:
-- Continuous integration
-- Continous development
-- Continuous delivery
-- Agile
-- Agile product development
-- product development
-- product management
-- project management
-- project manager
+- Technical Excellence
+- Deployment Frequency
+- Agile Software Development
+- DevOps
+- Agile Product Management
+- Value Delivery
+- Engineering Excellence
+- Agile Values and Principles
+- Team Collaboration
+- Customer Feedback Loops
+- Agile Transformation
+- Evidence Based Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
+categories:
+- Technical Excellence
+- Continuous Delivery
+- Value Delivery
+- DevOps
+- Application Lifecycle Management
 
 ---
 # Building a culture of quality | Martin Hinshelwood  

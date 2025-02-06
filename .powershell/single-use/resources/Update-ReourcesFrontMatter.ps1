@@ -139,7 +139,7 @@ $resources | ForEach-Object {
         if ($hugoMarkdown.FrontMatter.Contains("categories")) {
             $unknownCategories = $hugoMarkdown.FrontMatter.categories | Where-Object { -not $CatalogCategories.ContainsKey($_) }
         }       
-        If ($unknownCategories.Count -gt 0 || $hugoMarkdown.FrontMatter.categories.Count -eq 0 || -not $hugoMarkdown.FrontMatter.Contains("categories")) {
+        If ($unknownCategories.Count -gt 0 -or -not $hugoMarkdown.FrontMatter.Contains("categories") -or ($hugoMarkdown.FrontMatter.categories -is [array] -and $hugoMarkdown.FrontMatter.categories.Count -eq 0)) {
             $newCatagories = Get-UpdatedCategories -CurrentCategories $hugoMarkdown.FrontMatter.categories -Catalog $CatalogCategories -ResourceContent $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -ResourceYear $year -MaxCategories 7 -MinCategories 3
             Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values $newCatagories -Overwrite
         } 
@@ -148,7 +148,7 @@ $resources | ForEach-Object {
         if ($hugoMarkdown.FrontMatter.Contains("tags")) {
             $unknownTags = $hugoMarkdown.FrontMatter.tags | Where-Object { -not $CatalogTags.ContainsKey($_) }
         }       
-        If ($unknownTags.Count -gt 0 || $hugoMarkdown.FrontMatter.tags.Count -eq 0 || -not $hugoMarkdown.FrontMatter.Contains("tags")) {
+        If ($unknownTags.Count -gt 0 -or -not $hugoMarkdown.FrontMatter.Contains("tags") -or ($hugoMarkdown.FrontMatter.tags -is [array] -and $hugoMarkdown.FrontMatter.tags.Count -eq 0)) {
             $newtags = Get-UpdatedCategories -CurrentCategories $hugoMarkdown.FrontMatter.tags -Catalog $CatalogTags -ResourceContent $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -ResourceYear $year -MaxCategories 15 -MinCategories 10 
             Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values $newtags -Overwrite
         } 

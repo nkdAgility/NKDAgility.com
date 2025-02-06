@@ -28,21 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Team Motivation
-- Scrum Team
-- Agile Learning
-- Continuous Learning
-- Employee Engagement
-- Agile Coaching
-- Discovery and Learning
-- Agile Values and Principles
-- Psychological Safety
-- Team Collaboration
-- Agile Transformation
-- Remote Working
-- Agile Methodology
+- Agile Project Management
+- Agile Software Development
+- Collaboration Tools
+- Evidence Based Improvement
 resourceTypes:
 - video
+categories:
+- Scrum
+- People and Process
+- Discovery and Learning
 
 ---
 One of the greatest benefits of immersive learning, particularly in Scrum training, is the reduced cognitive load and the increase in overall engagement. Traditional learning methods, like long video conferencing sessions, often lead to fatigue and burnout, which impacts how much participants can absorb. By contrast, immersive learning methods allow for shorter, focused sessions, creating a more exciting and engaging experience.

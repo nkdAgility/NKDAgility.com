@@ -23,35 +23,30 @@ preview: https://i.ytimg.com/vi/ItvOiaC32Hs/maxresdefault.jpg
 duration: 50
 isShort: true
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Agile Apocalypse
+- Team Collaboration
+- Strategic Goals
+- Organisational Agility
+- Change Management
+- Agile Planning
+- Team Motivation
+- Employee Engagement
+- Continuous Improvement
+- Systems Thinking
+- Value Delivery
+- Agile Methodology
+- Organisational Culture
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Complexity Thinking
+- Resilience and Change
 
 ---
  #shorts #shortsvideo #shortvideo #agile thrives on complexity and uncertainty. A place where you don't know the answer but you are taking a scientific, disciplined approach to discovering the right answer. Chaos, however, is a different kettle of fish and in this short video, Martin Hinshelwood explains why it isn't great for teams.

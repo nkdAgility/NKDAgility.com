@@ -30,19 +30,23 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Professional Agile Leadership
-- Professional Agile Leadership Essentials
-- PAL-E
-- Scrum.org
-- Scrum Course
-- Scrum training
-- Agile Leadership
-- Agile Leadership courses
-- Agile leadership certification
-- Immersive learning experience
-- Immersive learning courses
+- Leadership Training
+- Agile Coaching
+- Team Motivation
+- Organisational Agility
+- Change Management
+- Agile Community
+- Employee Engagement
+- Agile Values and Principles
+- Agile Mentoring
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Organisational Psychology
+- Discovery and Learning
+- Value Delivery
 
 ---
 ## Power of Passion

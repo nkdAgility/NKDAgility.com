@@ -29,6 +29,12 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scaling Agility
+- Organisational Agility
+- Value Delivery
+- Resilience and Change
+- Enterprise Agility
 
 ---
  Many organisations don’t really want to change how they do business and believe that they can continue on how they always have while still getting better at delivering software. They are wrong!

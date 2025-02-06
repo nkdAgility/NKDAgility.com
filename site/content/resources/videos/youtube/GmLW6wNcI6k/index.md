@@ -30,11 +30,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Agile Consulting
-- Agile Consultant
+- Agile Planning
+- Agile Product Discovery
+- Business Agility
+- Agile Coaching
+- Discovery and Learning
+- Team Collaboration
+- Change Management
+- Agile Transformation
+- Continuous Improvement
+- Agile Software Development
+- Agile Leadership
+- Customer Feedback Loops
+- Evidence Based Management
+- Lean Thinking
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Discovery and Learning
+- Value Delivery
+- DevOps
 
 ---
 ## The Reality of the Assessment Phase in a Consulting Engagement

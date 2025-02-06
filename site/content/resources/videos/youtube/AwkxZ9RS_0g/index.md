@@ -44,6 +44,12 @@ tags:
 - Customer Feedback Loops
 resourceTypes:
 - video
+categories:
+- Organisational Agility
+- People and Process
+- Value Delivery
+- Discovery and Learning
+- Technical Excellence
 
 ---
 ## Synergy Between Consulting and Training

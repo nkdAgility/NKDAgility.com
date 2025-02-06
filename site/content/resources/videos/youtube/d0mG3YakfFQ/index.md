@@ -29,6 +29,25 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Discovery and Learning
+- Practical Techniques and Tooling
+- Value Delivery
+tags:
+- Agile Product Discovery
+- Lean UX
+- Product Discovery
+- Agile Planning
+- Agile Software Development
+- Agile Methodology
+- Agile Digital Tools
+- Continuous Improvement
+- Customer Feedback Loops
+- Experimentation
+- Value Delivery
+- Agile Values and Principles
+- Team Collaboration
+- Discovery and Learning
 
 ---
  [Watch on Youtube](https://www.youtube.com/watch?v=d0mG3YakfFQ)
