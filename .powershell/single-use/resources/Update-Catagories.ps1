@@ -32,6 +32,7 @@ $CatalogCategories = @{
     "Agile Product Management"         = "Strategies for maximising value through iterative discovery, delivery, and outcome-driven development."
     "Enterprise Agility"               = "Scaling agility beyond teams to drive organisational responsiveness and adaptability."
     "AI and Automation in Agility"     = "Leveraging AI-driven automation to enhance agility, decision-making, and software delivery."
+    "Personal"                         = "Just some personal thoughts and experiences.";
 }          
 
 $CatalogTags = @{
@@ -218,6 +219,7 @@ $CatalogTags = @{
     "Sprint Review"                           = "Inspecting and adapting the increment to ensure transparency and stakeholder feedback.";
     "Sprint Review Workshops"                 = "Structured review sessions to gather insights and refine the product increment iteratively.";
     "Daily Scrum"                             = "Daily meeting by the Developers and for the Developers to plan the next 24h .";
+    "Personal"                                = "Just some personal thoughts and experiences.";
 }
 
 $FilteredTags = @($CatalogTags.Keys | Where-Object { $CatalogCategories.ContainsKey($_) })

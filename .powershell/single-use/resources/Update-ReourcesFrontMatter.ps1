@@ -4,7 +4,7 @@
 . ./.powershell/_includes/ResourceHelpers.ps1
 
 # Iterate through each blog folder and update markdown files
-$outputDir = ".\site\content\resources\blog\2014"
+$outputDir = ".\site\content\resources\blog"
 
 # Get list of directories and select the first 10
 $resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md" #| Select-Object -First 10
@@ -136,7 +136,6 @@ $resources | ForEach-Object {
         #================Catsagories & TAGS==========================
         . ./.powershell/single-use/resources/Update-Catagories.ps1
        
-        #If ($unknownCategories.Count -gt 0) {
         $year = [datetime]::Parse($hugoMarkdown.FrontMatter.date).Year
         $BodyContent = $hugoMarkdown.BodyContent
         If ($hugoMarkdown.FrontMatter.ResourceType -eq "videos") {

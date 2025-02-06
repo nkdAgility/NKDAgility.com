@@ -26,8 +26,7 @@ aliasesFor404:
 - /blog/investigation---seo-permanent-redirects-for-old-url’s-
 - /resources/blog/investigation-seo-permanent-redirects-for-old-urls
 tags:
-- SEO Toolkit
-- URL Rewrite
+- Technical Debt
 categories:
 - Install and Configuration
 preview: metro-sharepoint-128-link-4-4.png

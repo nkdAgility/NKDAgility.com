@@ -26,8 +26,7 @@ aliasesFor404:
 - /blog/i-spell-it-as-favourite-and-you-as-favorite
 - /resources/blog/powerpointissue-i-spell-it-as-favourite-and-you-as-favorite
 tags:
-- Organisational Culture
-- Language and Communication
+- Personal
 categories:
 - People and Process
 - Practical Techniques and Tooling

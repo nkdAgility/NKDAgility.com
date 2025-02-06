@@ -26,8 +26,7 @@ aliasesFor404:
 - /blog/ahaaaa-
 - /resources/blog/ahaaaa
 tags:
-- Featured
-- Misc
+- Personal
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Discovery and Learning
