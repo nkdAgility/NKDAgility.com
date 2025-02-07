@@ -1430,5 +1430,37 @@
     "final_score": 0.0,
     "reasoning": "The content primarily focuses on setting up a standard environment for release management in Azure, detailing technical configurations and tools used, rather than discussing Agile product validation.",
     "level": "Ignored"
+  },
+  "Technical Mastery": {
+    "category": "Technical Mastery",
+    "ai_confidence": 92,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "Content primarily focuses on creating a standard environment for release management in Azure, detailing technical steps and tools involved in the process.",
+    "level": "Secondary"
+  },
+  "Data Driven Decisions": {
+    "category": "Data Driven Decisions",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the use of Application Insights for gathering analytics, which is a significant aspect of data-driven decision-making, but the primary focus is on setting up a release management environment in Azure.",
+    "level": "Ignored"
+  },
+  "Definition of Done": {
+    "category": "Definition of Done",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on creating a standard environment for release management in Azure, with no clear discussion or mention of the Definition of Done.",
+    "level": "Ignored"
+  },
+  "Agile Portfolio Management": {
+    "category": "Agile Portfolio Management",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on creating a standard environment for release management in Azure, detailing technical steps and tools used, without any clear discussion on Agile Portfolio Management.",
+    "level": "Ignored"
   }
 }
