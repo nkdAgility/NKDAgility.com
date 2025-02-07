@@ -5,7 +5,7 @@
 . ./.powershell/_includes/ClassificationHelpers.ps1
 
 # Iterate through each blog folder and update markdown files
-$outputDir = ".\site\content\resources\blog\2025\"
+$outputDir = ".\site\content\resources\videos\"
 
 # Get list of directories and select the first 10
 $resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md" | Select-Object -First 10
@@ -67,6 +67,9 @@ $resources | ForEach-Object {
         #=================ResourceImport+=================
         if (Test-Path (Join-Path $resourceDir "data.yaml" ) || Test-Path (Join-Path $resourceDir "data.json" )) {
             $ResourceImport = $true
+        }
+        else {
+            $ResourceImport = $false
         }
         Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImport' -fieldValue $ResourceImport -addAfter 'ResourceId' -Overwrite
         if ($hugoMarkdown.FrontMatter.ResourceImport) {

@@ -21,23 +21,25 @@ aliasesFor404:
 - /stop-promoting-branches
 - /blog/stop-promoting-branches
 tags:
-- Deployment Frequency
-- Continuous Delivery
-- Agile Software Development
-- Agile Product Management
-- Technical Excellence
+- DevOps
+- Agility
+- Software Development
+- Software Developers
+- Cycle Time
+- Engineering Practices
+- Continuous Integration
 - Value Delivery
-- Agile Transformation
-- Agile Values and Principles
-- Lean Principles
-- Evidence Based Management
-- Organisational Agility
-- Agile Frameworks
-- Systems Thinking
+- Agile Software Engineering
+- Agile Software Development
+- Continuous Delivery
+- Value Stream Management
+- Modern Source Control
+- Technical Strategy
+- Software Increment
 categories:
+- DevOps
 - Code and Complexity
-- Organisational Agility
-- Practical Techniques and Tooling
+- Value Delivery
 preview: 2025-02-06-stop-promoting-branches.jpg
 
 ---

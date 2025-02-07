@@ -24,17 +24,25 @@ aliasesFor404:
 - /without-delivery--there-is-no-value
 - /blog/without-delivery--there-is-no-value
 tags:
-- Scrum Team
-- Definition of Done
-- Continuous Delivery
-- Lead Time
 - Transparency
-- Evidence Based Management
-categories:
+- Scrum
+- Agile Product Validation
+- DevOps
+- Agile Software Engineering
 - Value Delivery
-- Agile Product Management
-- Metrics and Learning
-- Transparency and Accountability
+- Agile Software Development
+- Evidence Based Leadership
+- Agile Product Discovery
+- Scrum Product Development
+- Agile Values and Principles
+- Working Software
+- Continuos Delivery
+- Software Increment
+- Evidence Based Improvement
+categories:
+- Scrum
+- DevOps
+- Product Delivery
 preview: 2025-02-10-without-delivery-no-value.jpg
 
 ---
