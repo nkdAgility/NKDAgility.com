@@ -1,5 +1,4 @@
 . ./.powershell/_includes/OpenAI.ps1
-
 function New-ResourceId {
     param (
         [int]$Length = 11  # Default length of YouTube-style ID
@@ -156,6 +155,8 @@ function Get-ResourceType {
 
 ##############################################################
 
+
+
 function Get-ResourceThemes {
     param (
         [string]$ResourceContent,
@@ -168,6 +169,8 @@ You are an expert in content analysis. Given the resource title, content, and ye
 
 ### General Rules:
 - Extract key themes based on intent, not just keywords.
+- Try to decide if this is a technical, business, or agile-related content.
+- If this seams like a code snippet , return "code and complexity" as the theme alone.
 - Summarise the main focus of the content in a **clean, comma-separated list**.
 - Do NOT include extra text, explanations, or formatting.
 - Example output: `Scrum Master role, Continuous Delivery, Sprint Planning, Agile Transformation`
@@ -183,7 +186,7 @@ You are an expert in content analysis. Given the resource title, content, and ye
     return $themes
 }
 
-function Get-GetReleventCatalogItems {
+function Get-RelevantCatalogItems {
     param (
         [string[]]$themes,
         [string[]]$catalog,
@@ -192,20 +195,27 @@ function Get-GetReleventCatalogItems {
     )
 
     # Convert the category catalog into a formatted JSON string
-    $catalogString = $catalog | ConvertTo-Json -Depth 1
+    $catalogString = ($catalog | ConvertTo-Json -Depth 1)
 
-    # Step 2: Map extracted themes to categories
+    # Construct the prompt with stricter formatting rules
     $categoryPrompt = @"
 You are an expert in content classification. Given the identified themes and a predefined catalog of categories, map the themes to the most relevant categories.
 
 ### **Rules:**
-1. Select categories that best **match the themes**.  
-2. **Do NOT select categories based on superficial keyword matches**.  
-3. Prioritise categories that match the **intent** of the themes, not just words that appear.  
-4. **Only select from the predefined category catalog**. Do NOT create new categories.  
-5. If no category matches, return an empty string.
-6. Limit the selection to between $minItems-$maxItems categories for precision.  
-7. If the themes do not match any category other than Miscellaneous, return Miscellaneous.
+1. **Match themes to categories by meaning, not keywords.** Prioritise intent over exact word matches.  
+2. **Only select from the predefined category catalog.** You are NOT allowed to create new categories.  
+3. **Do NOT select categories if they do not clearly align with the themes.**  
+4. **Return between $minItems and $maxItems categories for precision.** If fewer than $minItems are relevant, return only those that fit.  
+5. **If no relevant categories exist except Miscellaneous, return only `Miscellaneous`.**  
+6. **Ensure output format is strictly correct:**
+   - **Comma-separated list of exact category names**  
+   - **No additional text, no quotes, no brackets.**  
+   - **Correct Example:** `Scrum, Scrum Master, Continuous Delivery`  
+   - **Incorrect Examples:**  
+     - ❌ `"Scrum", "Scrum Master"`  
+     - ❌ `[Scrum, Scrum Master]`  
+     - ❌ `['Scrum', 'Scrum Master']`  
+     - ❌ `"Miscellaneous"` (unless it is the only valid category)
 
 ### **Identified Themes:**
 $($themes -join ", ")
@@ -214,19 +224,74 @@ $($themes -join ", ")
 $catalogString
 
 ### **Final Output Format**
-- Return categories **EXACTLY** as they appear in the list.
-- Return a **clean, comma-separated list** (e.g., `Scrum, Scrum Master, Continuous Delivery`).
-- If no entries match, return only an empty string.
+- Return **EXACTLY** as specified in the rules.
+- Return a **clean, comma-separated list**.
+- If no categories match, return `Miscellaneous`.
+- If no valid category exists and Miscellaneous is not in the list, return an empty string.
 "@
-    
+
+    # Get response from OpenAI
     $updatedCategoriesString = Get-OpenAIResponse -Prompt $categoryPrompt
-    if ($updatedCategoriesString -eq "") { return @() }
+
+    # Ensure the response meets the required format
+    if ($updatedCategoriesString -eq "" -or $updatedCategoriesString -eq "Miscellaneous") {
+        return @()
+    }
 
     # Convert the response into an array
     $updatedCategories = $updatedCategoriesString -split ', ' | ForEach-Object { $_.Trim() }
-    
+
     return $updatedCategories
 }
+
+
+function Get-CategoryConfidence {
+    param (
+        [string]$ResourceContent, # The article content
+        [string]$ResourceTitle, # The article title
+        [hashtable]$Catalog, # A predefined dictionary of categories
+        [int]$MinConfidence = 50, # Minimum confidence score required to be selected
+        [int]$MaxCategories = 3    # Maximum number of categories to return
+    )
+
+    # Store AI results
+    $categoryScores = @{}
+
+    foreach ($category in $Catalog.Keys) {
+        $prompt = @"
+You are an AI expert in content classification. Evaluate how well the given content aligns with the category **"$category"**.
+
+### **Instructions:**
+1. **Assess Relevance:** Determine if the content is a **strong**, **moderate**, or **weak** match for this category.
+2. **Score the Confidence Level (0-100).**
+   - **0-30**: Weak (content barely relates)
+   - **31-60**: Moderate (content touches on this but is not the focus)
+   - **61-100**: Strong (this category is a clear match for the content)
+3. **Provide a short reasoning** for the confidence score.
+4. **Return only a JSON object with the fields:**
+   - `"category"`: The category name.
+   - `"confidence"`: The confidence level (integer 0-100).
+   - `"reasoning"`: A brief explanation of the score.
+
+**Content Details**
+- **Title:** "$ResourceTitle"  
+- **Content:** "$ResourceContent"
+"@
+
+        # Call AI API to get category confidence score
+        $responseJson = Get-OpenAIResponse -Prompt $prompt | ConvertFrom-Json
+
+        # Ensure we have valid AI response
+        if ($responseJson.PSObject.Properties["confidence"] -and $responseJson.confidence -ge $MinConfidence) {
+            $categoryScores[$category] = $responseJson
+        }
+    }
+
+    # Sort by confidence and return the top categories
+    $sortedCategories = $categoryScores.Values | Sort-Object confidence -Descending | Select-Object -First $MaxCategories
+    return $sortedCategories | ConvertTo-Json -Depth 1
+}
+
 
 
 

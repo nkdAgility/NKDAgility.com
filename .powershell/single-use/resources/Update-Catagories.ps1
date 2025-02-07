@@ -227,6 +227,8 @@ $CatalogTags = @{
 
 }
 
+
+
 $FilteredTags = @($CatalogTags.Keys | Where-Object { $CatalogCategories.ContainsKey($_) })
 
 
@@ -280,5 +282,5 @@ function Create-MarkdownFilesForCatalog {
     }
 }
 
-##Create-MarkdownFilesForCatalog -catalog $CatalogCategories -OutputDirectory "site\content\categories"
-##Create-MarkdownFilesForCatalog -catalog $CatalogTags -OutputDirectory "site\content\tags\"
+Create-MarkdownFilesForCatalog -catalog $CatalogCategories -OutputDirectory "site\content\categories"
+Create-MarkdownFilesForCatalog -catalog $CatalogTags -OutputDirectory "site\content\tags\"
