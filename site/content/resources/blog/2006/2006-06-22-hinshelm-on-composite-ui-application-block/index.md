@@ -27,17 +27,17 @@ aliasesFor404:
 - /resources/blog/hinshelm-on-composite-ui-application-block
 tags:
 - Windows
-- Software Development
 - Software Developers
+- Software Development
 - Working Software
 - Technical Excellence
 - Technical Mastery
-- System Configuration
-- Engineering Practices
-- Pragmatic Thinking
 - Engineering Excellence
+- Pragmatic Thinking
+- System Configuration
 - Software Increment
 - Ability to Innovate
+- Engineering Practices
 - Featured
 categories:
 - Code and Complexity

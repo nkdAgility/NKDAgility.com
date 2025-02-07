@@ -121,6 +121,7 @@ function Update-StringList {
         [Parameter(Mandatory = $true)]
         [string]$fieldName,
         [Parameter(Mandatory = $true)]
+        [AllowEmptyCollection()]
         [string[]]$values,
         [string]$addAfter = $null,
         [string]$addBefore = $null,

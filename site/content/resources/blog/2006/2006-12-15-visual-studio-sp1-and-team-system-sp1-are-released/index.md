@@ -28,10 +28,12 @@ aliasesFor404:
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - News and Reviews
+- Products and Books
 - Install and Configuration
 tags:
-- Agile Software Development
-- Continuous Delivery
+- Software Development
+- Software Increment
+- Frequent Releases
 
 ---
 I have been waiting for this for a while and [Brian Harry](http://blogs.msdn.com/bharry/) has some comments and notes on the topic. I will be installing this as soon as its mammoth 450mb download completes.

@@ -27,12 +27,12 @@ aliasesFor404:
 - /resources/blog/custom-ui-colour-scheme-for-windows-forms-net
 tags:
 - Windows
-- Software Development
 - Software Developers
+- Software Development
 - Technical Excellence
 - Technical Mastery
-- System Configuration
 - Working Software
+- System Configuration
 categories:
 - Practical Techniques and Tooling
 - Technical Excellence

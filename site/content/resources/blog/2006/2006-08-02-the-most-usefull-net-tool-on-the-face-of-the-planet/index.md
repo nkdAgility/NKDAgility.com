@@ -25,13 +25,11 @@ aliasesFor404:
 - /the-most-usefull--net-tool-on-the-face-of-the-planet-
 - /blog/the-most-usefull--net-tool-on-the-face-of-the-planet-
 - /resources/blog/the-most-usefull-net-tool-on-the-face-of-the-planet
-tags:
-- Agile Tools
-- Agile Software Development
+tags: []
 preview: metro-binary-vb-128-link-1-1.png
 categories:
-- Practical Techniques and Tooling
 - Products and Books
+- Practical Techniques and Tooling
 
 ---
 Reflector!

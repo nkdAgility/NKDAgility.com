@@ -26,28 +26,60 @@ function Call-OpenAI {
     $body = @{
         "model"       = "gpt-4o-mini"
         "messages"    = @(
-            @{
-                "role"    = "system"
-                "content" = $system
-            },
-            @{
-                "role"    = "user"
-                "content" = $prompt
-            }
+            @{ "role" = "system"; "content" = $system },
+            @{ "role" = "user"; "content" = $prompt }
         )
         "temperature" = 0
         "max_tokens"  = 16000  # Based on model's max output capacity
-    } | ConvertTo-Json 
-    
-    # Send the request to the ChatGPT API
-    $response = Invoke-RestMethod -Uri $apiUrl -Method Post -Headers @{
-        "Content-Type"  = "application/json; charset=utf-8"
-        "Authorization" = "Bearer $OPEN_AI_KEY"
-    } -Body $body
+    } | ConvertTo-Json -Depth 10
 
-    # Extract and return the response content
-    return $response.choices[0].message.content
+    # Define retry parameters
+    $maxRetries = 5
+    $retryDelay = 2  # Initial delay in seconds
+
+    for ($attempt = 1; $attempt -le $maxRetries; $attempt++) {
+        try {
+            # Send the request to the ChatGPT API
+            $response = Invoke-RestMethod -Uri $apiUrl -Method Post -Headers @{
+                "Content-Type"  = "application/json; charset=utf-8"
+                "Authorization" = "Bearer $OPEN_AI_KEY"
+            } -Body $body -TimeoutSec 30
+
+            # Validate response structure
+            if ($response -and $response.choices -and $response.choices.Count -gt 0 -and $response.choices[0].message) {
+                return $response.choices[0].message.content
+            }
+            else {
+                throw "Invalid response structure received from OpenAI API."
+            }
+        }
+        catch {
+            $errorMessage = $_.Exception.Message
+
+            if ($errorMessage -match "429 Too Many Requests") {
+                # API Rate Limit hit; apply exponential backoff
+                Write-WarningLog "Rate limit exceeded. Retrying in $retryDelay seconds..."
+                Start-Sleep -Seconds $retryDelay
+                $retryDelay *= 2  # Exponential backoff
+            }
+            elseif ($errorMessage -match "500|502|503|504") {
+                # Handle server errors
+                Write-WarningLog "Server error encountered. Retrying in $retryDelay seconds..."
+                Start-Sleep -Seconds $retryDelay
+                $retryDelay *= 2
+            }
+            else {
+                # Non-retryable errors
+                Write-Error "API call failed: $errorMessage"
+                return $null
+            }
+        }
+    }
+
+    Write-Error "Max retries reached. Unable to get a valid response from OpenAI."
+    return $null
 }
+
 
 function Get-TokenEstimate {
     param ($text)

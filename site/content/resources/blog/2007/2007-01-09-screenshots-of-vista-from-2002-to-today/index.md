@@ -22,12 +22,9 @@ aliasesFor404:
 - /blog/screenshots-of-vista-from-2002-to-today
 - /resources/blog/screenshots-of-vista-from-2002-to-today
 tags:
-- Trend Analysis
-- Digital Transformation
+- Windows
 preview: nakedalm-logo-128-link-1-1.png
-categories:
-- News and Reviews
-- Products and Books
+categories: []
 
 ---
 An interesting look at Vista (Long Horn) as an Alpha release in 2002, the first Aero features in 2004, to what we have today

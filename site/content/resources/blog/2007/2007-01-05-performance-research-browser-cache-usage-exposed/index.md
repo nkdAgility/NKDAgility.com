@@ -32,12 +32,12 @@ aliasesFor404:
 - /performance-research,-browser-cache-usage
 - /resources/blog/performance-research-browser-cache-usage-exposed
 tags:
-- Technical Debt
-- Site Reliability
+- Flow Efficiency
+- Throughput
+- Technical Excellence
 preview: nakedalm-logo-128-link-1-1.png
 categories:
-- Value Stream Management
-- Technical Excellence
+- Flow Efficiency
 
 ---
 "Since browsers spend 80% of the time fetching external components including scripts, stylesheets and images, reducing the number of HTTP requests has the biggest impact on reducing response time. But shouldn ’t everything be saved in the browser’s cache anyway?"

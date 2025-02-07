@@ -13,7 +13,7 @@ $levelSwitch.MinimumLevel = 'Information'
 $outputDir = ".\site\content\resources\blog\"
 
 # Get list of directories and select the first 10
-$resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md" #| Select-Object -First 10
+$resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md"  | Sort-Object { $_ } -Descending #| Select-Object -First 10
 
 $categoriesCatalog = Get-CatalogHashtable -Classification "categories"
 $tagsCatalog = Get-CatalogHashtable -Classification "tags"
@@ -156,11 +156,11 @@ $resources | ForEach-Object {
         #-----------------Categories-------------------
         $categoryClassification = Get-CategoryConfidenceWithChecksum -ClassificationType "categories" -Catalog $categoriesCatalog -CacheFolder $resourceDir -ResourceContent  $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -MaxCategories 3
         $categories = $categoryClassification | ConvertFrom-Json | ForEach-Object { $_.category }
-        Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values $categories -Overwrite
+        Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values @($categories) -Overwrite
         #-----------------Tags-------------------
         $tagClassification = Get-CategoryConfidenceWithChecksum -ClassificationType "tags" -Catalog $tagsCatalog -CacheFolder $resourceDir -ResourceContent  $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -MaxCategories 15
         $tags = $tagClassification | ConvertFrom-Json | ForEach-Object { $_.category }
-        Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values $tags -Overwrite
+        Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values @($tags) -Overwrite
         # =================COMPLETE===================
         Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $markdownFile
     }

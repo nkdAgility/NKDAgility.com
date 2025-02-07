@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/cafemsn-prize
 - /resources/blog/cafemsn-prize
 tags:
-- Personal
 - Miscellaneous
+- Personal
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Miscellaneous

@@ -27,14 +27,14 @@ aliasesFor404:
 - /resources/blog/net-framework-3-0
 tags:
 - Software Development
-- Ability to Innovate
 - Software Developers
-- Working Software
-- Pragmatic Thinking
+- Ability to Innovate
 - Engineering Excellence
-- Technical Excellence
-- Value Delivery
+- Pragmatic Thinking
+- Working Software
 - Software Increment
+- Value Delivery
+- Technical Excellence
 - Technical Mastery
 preview: metro-binary-vb-128-link-1-1.png
 categories:

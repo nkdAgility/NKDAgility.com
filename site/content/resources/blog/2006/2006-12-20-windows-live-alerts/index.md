@@ -22,11 +22,10 @@ aliasesFor404:
 - /blog/windows-live-alerts
 - /resources/blog/windows-live-alerts
 tags:
-- Featured
-- Customer Feedback Loops
+- Personal
+- Windows
 categories:
-- Products and Books
-- News and Reviews
+- Personal
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

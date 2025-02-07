@@ -22,10 +22,10 @@ aliasesFor404:
 - /blog/team-system-widgets
 - /resources/blog/team-system-widgets
 tags:
-- Agile Tools
-- Team Collaboration
+- Software Development
+- Agile Digital Tools
 categories:
-- Application Lifecycle Management
+- Products and Books
 - Practical Techniques and Tooling
 
 ---

@@ -24,19 +24,19 @@ aliasesFor404:
 tags:
 - Windows
 - Software Development
-- Ability to Innovate
 - Software Developers
+- Ability to Innovate
 - Technical Strategy
-- Engineering Practices
 - Working Software
-- Technical Excellence
 - Software Increment
+- Technical Excellence
+- Engineering Practices
 - Technical Mastery
-- Decision Making
 - Engineering Excellence
-- Value Delivery
+- Decision Making
 - Product Strategy
 - Strategic
+- Value Delivery
 preview: metro-binary-vb-128-link-1-1.png
 categories:
 - Practical Techniques and Tooling
