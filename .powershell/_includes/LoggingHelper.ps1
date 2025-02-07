@@ -1,4 +1,12 @@
-Import-Module PoShLog
+# Ensure PowerShell-YAML module is available
+if (-not (Get-Module -ListAvailable -Name PoShLog)) {
+    Install-Module -Name PoShLog -Force -Scope CurrentUser
+    Import-Module -Name PoShLog
+}
+else {
+    Import-Module -Name PoShLog
+}
+
 If (-not $levelSwitch) {
     $levelSwitch = New-LevelSwitch -MinimumLevel Verbose
     # Create new logger
@@ -9,5 +17,6 @@ If (-not $levelSwitch) {
     Add-SinkConsole |   # Tell logger to write log messages to console
     #Add-SinkFile -Path 'C:\Data\my_awesome.log' | # Tell logger to write log messages into file
     Start-Logger
+    Write-InfoLog "New Logger Started" 
 }
 Write-InfoLog "LoggingHelper.ps1 loaded" 
