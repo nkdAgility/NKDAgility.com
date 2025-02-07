@@ -5,7 +5,6 @@ date: 2023-04-26T07:00:00Z
 ResourceId: -pW6YDYEO20
 ResourceType: videos
 ResourceImport: true
-ResourceImportSource: Youtube
 videoId: -pW6YDYEO20
 source: internal
 url: /resources/videos/:slug
@@ -27,18 +26,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Scrum
 - Scrum Master
 - Scrum Team
-- Accountability
-- Agile Coaching
-- Organisational Culture
+- People and Process
+- Pragmatic Thinking
+- Team Performance
+- Team Collaboration
+- Agile Project Management
+- Lean Agile
+- Agile Software Development
+- Agile Leader
+- Scrum Product Development
+- Team Motivation
+- Scrum Product Management
+- Professional Scrum
 resourceTypes:
 - video
 layout: video
 categories:
 - Scrum
 - People and Process
-- Organisational Psychology
+- Flow Efficiency
 
 ---
 **Worst trait in unskilled scrum masters?**

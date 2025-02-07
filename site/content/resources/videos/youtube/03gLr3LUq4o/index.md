@@ -30,15 +30,25 @@ layout: video
 resourceTypes:
 - video
 tags:
-- Agile Product Management
-- Agile Planning Tools
 - DevOps
-- Agile Product Discovery
-- Value Stream Management
-- Agile Transformation
-- Evidence Based Improvement
+- Windows
+- Azure DevOps
+- Azure Repos
+- Azure Boards
+- Software Development
+- Software Developers
+- Working Software
+- System Configuration
+- Agile Digital Tools
+- Agile Tools
+- Pragmatic Thinking
+- Azure Pipelines
+- CI/CD
+- Technical Excellence
 categories:
-- Value Delivery
+- DevOps
+- Install and Configuration
+- Azure DevOps
 
 ---
  Use: https://youtu.be/Qt1Ywu_KLrc

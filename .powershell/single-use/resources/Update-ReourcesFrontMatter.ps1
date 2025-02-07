@@ -10,10 +10,10 @@
 $levelSwitch.MinimumLevel = 'Information'
 
 # Iterate through each blog folder and update markdown files
-$outputDir = ".\site\content\resources\videos\"
+$outputDir = ".\site\content\resources\blog\"
 
 # Get list of directories and select the first 10
-$resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md" | Select-Object -First 10
+$resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md" #| Select-Object -First 10
 
 $categoriesCatalog = Get-CatalogHashtable -Classification "categories"
 $tagsCatalog = Get-CatalogHashtable -Classification "tags"
@@ -36,7 +36,7 @@ $resources | ForEach-Object {
     $resourceDir = (Get-Item -Path $_).DirectoryName
     $markdownFile = $_
     Write-InfoLog "--------------------------------------------------------"
-    Write-InfoLog "Processing post: $resourceDir"
+    Write-InfoLog "Processing post: $(Resolve-Path -Path $resourceDir -Relative)"
     if ((Test-Path $markdownFile)) {
 
         # Load markdown as HugoMarkdown object

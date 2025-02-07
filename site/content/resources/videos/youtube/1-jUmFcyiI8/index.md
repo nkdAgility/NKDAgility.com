@@ -24,17 +24,30 @@ preview: https://i.ytimg.com/vi/1-jUmFcyiI8/maxresdefault.jpg
 duration: 551
 isShort: false
 tags:
-- Team Collaboration
-- Evidence Based Management
-- Agile Transformation
+- Customer Feedback Loops
+- Value Delivery
+- Lean Product Development
+- Deployment Frequency
+- Data Driven Decisions
+- Software Development
+- Continuous Delivery
+- Continuos Delivery
+- Agile Software Development
+- Continuous Integration
+- Lead Time
+- Agile Product Management
+- Agile Problem Solving
+- Continuous Improvement
+- Product Strategy
 resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 categories:
-- Discovery and Learning
-- Flow Efficiency
+- Product Delivery
+- Metrics and Learning
+- Value Delivery
 
 ---
  *Mastering Deployment Frequency: Shorten Feedback Loops, Maximize Value*

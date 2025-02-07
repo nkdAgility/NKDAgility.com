@@ -26,11 +26,17 @@ aliasesFor404:
 - /blog/custom-ui-colour-scheme-for-windows-forms--net
 - /resources/blog/custom-ui-colour-scheme-for-windows-forms-net
 tags:
-- Agile Software Development
+- Windows
+- Software Development
+- Software Developers
 - Technical Excellence
+- Technical Mastery
+- System Configuration
+- Working Software
 categories:
-- Code and Complexity
 - Practical Techniques and Tooling
+- Technical Excellence
+- Install and Configuration
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

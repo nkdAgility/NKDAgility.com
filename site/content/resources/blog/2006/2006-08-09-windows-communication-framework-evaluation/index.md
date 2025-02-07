@@ -22,12 +22,26 @@ aliasesFor404:
 - /blog/windows-communication-framework-evaluation
 - /resources/blog/windows-communication-framework-evaluation
 tags:
-- Agile Software Development
+- Windows
+- Software Development
+- Ability to Innovate
+- Software Developers
+- Technical Strategy
+- Engineering Practices
+- Working Software
 - Technical Excellence
+- Software Increment
+- Technical Mastery
+- Decision Making
+- Engineering Excellence
+- Value Delivery
+- Product Strategy
+- Strategic
 preview: metro-binary-vb-128-link-1-1.png
 categories:
-- Discovery and Learning
+- Practical Techniques and Tooling
 - Technical Excellence
+- Code and Complexity
 
 ---
 I am currently evaluating WCF for my company. Now, ML has some pretty strong polocies on beta software, but they seam to be missing something with WinFX. I can find information on the company intranet on Vista and Office 2007, I can even request them to be installed on my desktop as part of an internal beta program, but nothing on WinFX or WCF!

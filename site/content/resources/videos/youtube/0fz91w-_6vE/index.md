@@ -23,16 +23,20 @@ duration: 138
 isShort: false
 tags:
 - DevOps
+- People and Process
 - Value Stream Management
-- Systems Thinking
-- Technical Debt
-- Lead Time
-- Agile Product Discovery
-- Business Agility
-- Change Management
+- Pragmatic Thinking
+- Systemic Thinking
 - Value Delivery
-- Agile Strategy
-- Evidence Based Management
+- Customer Feedback Loops
+- Agility
+- Systems Thinking
+- Agile Problem Solving
+- Software Development
+- Value Prioritisation
+- Operational Practices
+- Flow Efficiency
+- Continuous Improvement
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -41,8 +45,9 @@ layout: video
 resourceTypes:
 - video
 categories:
-- Value Stream Management
-- Flow Efficiency
+- DevOps
+- People and Process
+- Value Delivery
 
 ---
  As a #devops #consultant, Martin Hinshelwood has worked in multiple geographies, across multiple industry applications, and with a wide variety of clients.

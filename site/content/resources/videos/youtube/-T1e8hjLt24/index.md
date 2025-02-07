@@ -5,7 +5,6 @@ date: 2023-12-19T11:00:00Z
 ResourceId: -T1e8hjLt24
 ResourceType: videos
 ResourceImport: true
-ResourceImportSource: Youtube
 videoId: -T1e8hjLt24
 url: /resources/videos/:slug
 slug: -shorts-5-things-you-would-teach-a-produtowner-apprentice-part-5
@@ -22,17 +21,11 @@ preview: https://i.ytimg.com/vi/-T1e8hjLt24/maxresdefault.jpg
 duration: 58
 isShort: true
 tags:
-- Continuous Learning
-- Agile Mentoring Program
-- Team Motivation
-- Agile Community
 - Discovery and Learning
-- Employee Engagement
-- Agile Leadership
+- Continuous Learning
+- Continuous Improvement
 - Ability to Innovate
-- Agile Books
-- Agile Transformation
-- Product Strategy
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -41,7 +34,7 @@ layout: video
 resourceTypes:
 - video
 categories:
-- Metrics and Learning
+- Discovery and Learning
 
 ---
  #shorts #shortsvideo #shortvideo Martin Hinshelwood walks us through the top 5 things he would teach a newbie #productowner. This is part 5. Visit https://youtu.be/XKmWMXagVgQ to watch the full video.

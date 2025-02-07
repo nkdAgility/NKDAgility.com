@@ -26,12 +26,21 @@ aliasesFor404:
 - /blog/-net-framework-3-0
 - /resources/blog/net-framework-3-0
 tags:
-- Agile Software Development
+- Software Development
+- Ability to Innovate
+- Software Developers
+- Working Software
+- Pragmatic Thinking
+- Engineering Excellence
 - Technical Excellence
+- Value Delivery
+- Software Increment
+- Technical Mastery
 preview: metro-binary-vb-128-link-1-1.png
 categories:
 - Code and Complexity
 - Technical Excellence
+- Practical Techniques and Tooling
 
 ---
 At last .NET Framework 3.0 is live! I have been desperate to use it in work ever since I got a book on Indigo as I can see so many applications for it that would increase developer productivity and consistency.

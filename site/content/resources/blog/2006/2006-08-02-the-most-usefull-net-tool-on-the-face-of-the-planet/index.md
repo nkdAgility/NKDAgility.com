@@ -30,8 +30,8 @@ tags:
 - Agile Software Development
 preview: metro-binary-vb-128-link-1-1.png
 categories:
-- Code and Complexity
 - Practical Techniques and Tooling
+- Products and Books
 
 ---
 Reflector!

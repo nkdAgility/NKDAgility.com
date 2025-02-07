@@ -26,7 +26,8 @@ aliasesFor404:
 - /blog/ahaaaa-
 - /resources/blog/ahaaaa
 tags:
-- "null"
+- Miscellaneous
+- Troubleshooting
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Miscellaneous
