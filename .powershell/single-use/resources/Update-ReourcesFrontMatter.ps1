@@ -5,7 +5,7 @@
 . ./.powershell/_includes/ClassificationHelpers.ps1
 
 # Iterate through each blog folder and update markdown files
-$outputDir = ".\site\content\resources\blog\2025\2025-01-11-why-handoffs-are-killing-your-agility"
+$outputDir = ".\site\content\resources\blog\2025\"
 
 # Get list of directories and select the first 10
 $resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md" | Select-Object -First 10

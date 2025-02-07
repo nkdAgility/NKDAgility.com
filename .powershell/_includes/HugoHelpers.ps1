@@ -155,21 +155,21 @@ function Update-StringList {
             $frontMatter[$fieldName] = @($frontMatter[$fieldName])
         }
         
-        # Update list if it already exists, adding only unique values
-        $existingValues = $frontMatter[$fieldName]
-        $newValues = $values | Where-Object { -not ($existingValues -icontains $_) }
-        if ($newValues.Count -ne 0) {
-            if ($Overwrite) {
-                $frontMatter[$fieldName] = $newValues
-            }
-            else {
-                $frontMatter[$fieldName] += $newValues
-            }
-            Write-Host "$fieldName updated with new unique values"
+        if ($Overwrite) {
+            $frontMatter[$fieldName] = $values
         }
         else {
-            Write-Host "$fieldName already contains all values"
-        }
+            # Update list if it already exists, adding only unique values
+            $existingValues = $frontMatter[$fieldName]
+            $newValues = $values | Where-Object { -not ($existingValues -icontains $_) }
+            if ($newValues.Count -ne 0) {
+                $frontMatter[$fieldName] += $newValues
+                Write-Host "$fieldName updated with new unique values"
+            }
+            else {
+                Write-Host "$fieldName already contains all values"
+            }
+        }       
     }
 
     # Ensure uniqueness while preserving the first occurrence’s casing

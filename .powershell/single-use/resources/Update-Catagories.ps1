@@ -67,7 +67,6 @@ $CatalogTags = @{
     "Continuous Integration"                  = "Automating code integration to ensure teams can deliver working software daily.";
     "Cross Functional Teams"                  = "The Agile ideal: teams with all the skills needed to deliver end-to-end value.";
     "Customer Feedback Loops"                 = "Tightening the loop between delivery and learning to ensure products meet real needs.";
-    "Cycle"                                   = "The rhythm of delivery, whether in sprints or flow-based systems.";
     "Decision Theory"                         = "Applying data and empirical thinking to product and engineering decisions.";
     "Definition of Done"                      = "The line between incomplete work and a true increment of value.";
     "Deployment Strategies"                   = "Balancing risk and speed when getting software into production.";
