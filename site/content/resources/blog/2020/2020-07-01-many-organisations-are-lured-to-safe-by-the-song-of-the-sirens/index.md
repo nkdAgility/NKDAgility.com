@@ -22,27 +22,8 @@ aliasesFor404:
 - /blog/many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
 - /resources/blog/many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
 tags:
-- Scaled Agile
-- Business Agility
-- Change Management
-- Organisational Agility
-- Agile Transformation
-- Lean Thinking
-- Agile Frameworks
-- Organisational Culture
-- Continuous Improvement
-- Agile Evolution
-- Agile Leadership
-- Systems Thinking
-- Evidence Based Management
-- Agile Strategy
-- Agile Digital Tools
-categories:
-- Organisational Agility
-- Enterprise Agility
-- Scaling Agility
-- Resilience and Change
-- Complexity Thinking
+- Agile Scaling
+categories: []
 preview: Siren-mermaids-25084952-1378-1045-6-5.jpg
 
 ---

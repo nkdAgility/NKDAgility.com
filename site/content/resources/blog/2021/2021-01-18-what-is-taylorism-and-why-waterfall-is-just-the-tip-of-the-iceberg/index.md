@@ -30,28 +30,8 @@ aliasesFor404:
 - /what-is-taylorism--and-why-waterfall-is-just-the-tip-of-the-iceberg-
 - /blog/what-is-taylorism--and-why-waterfall-is-just-the-tip-of-the-iceberg-
 - /resources/blog/what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
-tags:
-- Organisational Agility
-- Change Management
-- Employee Engagement
-- Team Motivation
-- Agile Product Discovery
-- Lean Thinking
-- Systems Thinking
-- Agile Transformation
-- Business Agility
-- Continuous Improvement
-- Agile Leadership
-- Value Stream Management
-- Technical Mastery
-- Agile Values and Principles
-- Psychological Safety
-categories:
-- People and Process
-- Organisational Agility
-- Discovery and Learning
-- Lean
-- Organisational Psychology
+tags: []
+categories: []
 preview: naked-agility-with-martin-hinshelwood-iceberg-11-10.jpg
 
 ---

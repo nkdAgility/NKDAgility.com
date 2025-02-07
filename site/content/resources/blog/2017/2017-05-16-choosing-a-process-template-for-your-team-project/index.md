@@ -21,27 +21,8 @@ aliasesFor404:
 - /choosing-a-process-template-for-your-team-project
 - /blog/choosing-a-process-template-for-your-team-project
 - /resources/blog/choosing-a-process-template-for-your-team-project
-tags:
-- Scrum
-- Scrum Product Management
-- Scrum Master
-- Definition of Done
-- Software Increment
-- Continuous Delivery
-- Technical Excellence
-- Agile Software Development
-- Agile Planning
-- Team Collaboration
-- Value Delivery
-- Agile Product Management
-- Agile Estimation
-- Backlog Refinement
-categories:
-- Scrum
-- Agile Product Management
-- Practical Techniques and Tooling
-- Azure DevOps
-- People and Process
+tags: []
+categories: []
 preview: IC749984-1-1.png
 
 ---

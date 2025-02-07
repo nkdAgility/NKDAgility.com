@@ -26,23 +26,8 @@ aliasesFor404:
 - /decoding-scrum-team-work--balancing-sprint-and-refinement-work
 - /blog/decoding-scrum-team-work--balancing-sprint-and-refinement-work
 - /resources/blog/decoding-scrum-team-work-balancing-sprint-and-refinement-work
-tags:
-- Scrum
-- Agile Planning
-- Backlog Refinement
-- Agile Tools
-- Azure DevOps
-- Team Collaboration
-- Agile Product Management
-- Agile Software Development
-- Scrum Product Management
-- Agile Methodology
-categories:
-- Scrum
-- Agile Product Management
-- People and Process
-- Azure DevOps
-- Value Delivery
+tags: []
+categories: []
 preview: NKDAgility-technically-SprintRefignementBallance-6-6.jpg
 
 ---

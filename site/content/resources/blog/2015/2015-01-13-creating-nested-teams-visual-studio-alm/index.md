@@ -25,27 +25,8 @@ aliasesFor404:
 - /creating-nested-teams-in-visual-studio-alm
 - /blog/creating-nested-teams-in-visual-studio-alm
 - /resources/blog/creating-nested-teams-visual-studio-alm
-tags:
-- Scaled Agile
-- Team Collaboration
-- Agile Planning
-- Agile Tools
-- Agile Portfolio Management
-- Azure Boards
-- Agile Product Management
-- Cross Functional Teams
-- Team Performance
-- Agile Software Development
-- Continuous Improvement
-- Value Delivery
-- Agile Transformation
-- Agile Methodology
-categories:
-- Azure DevOps
-- Install and Configuration
-- Practical Techniques and Tooling
-- Organisational Agility
-- Agile Product Management
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-17-17.png
 
 ---

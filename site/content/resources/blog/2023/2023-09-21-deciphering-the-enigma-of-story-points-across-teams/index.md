@@ -23,21 +23,8 @@ aliasesFor404:
 - /blog/deciphering-the-enigma-of-story-points-across-teams
 - /resources/blog/deciphering-the-enigma-of-story-points-across-teams
 tags:
-- Agile Planning
-- Evidence Based Management
-- Value Delivery
-- Team Collaboration
-- Agile Product Management
-- Agile Estimation
-- Throughput
-- Agile Coaching
-- Agile Product Discovery
-- Continuous Improvement
-categories:
-- Value Delivery
-- Metrics and Learning
-- Flow Efficiency
-- People and Process
+- Scaling Scrum
+categories: []
 preview: naked-agility-technically-flow-not-velocity-5-5.jpg
 
 ---

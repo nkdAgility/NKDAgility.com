@@ -27,22 +27,8 @@ aliasesFor404:
 - /blog/the-definition-of-done--ensuring-quality-without-compromising-value
 - /resources/blog/the-definition-of-done-ensuring-quality-without-compromising-value
 tags:
-- Definition of Done
-- Agile Planning
-- Agile Product Management
-- Agile Coaching
-- Team Collaboration
-- Continuous Improvement
-- Transparency
-- Agile Values and Principles
-- Agile Software Development
-- Agile Methodology
-categories:
 - Value Delivery
-- Transparency and Accountability
-- Agile Product Management
-- People and Process
-- Scrum
+categories: []
 preview: NKDAgility-technically-DOD-Not-AC-3-1-1-1.jpg
 
 ---

@@ -26,27 +26,8 @@ aliasesFor404:
 - /blog/the-benefits-of-visual-studio-online-for-the-enterprise
 - /resources/blog/benefits-visual-studio-online-enterprise
 tags:
-- Deployment Frequency
-- Scaled Agile
-- Team Collaboration
-- Business Agility
-- Agile Tools
-- Continuous Delivery
-- Agile Product Management
-- Technical Excellence
-- Application Lifecycle Management
-- Data Driven Decisions
-- Agile Software Development
-- Enterprise Agility
-- Customer Feedback Loops
-- Change Management
-- Agile Digital Tools
-categories:
-- Azure DevOps
-- Application Lifecycle Management
-- Enterprise Agility
-- Practical Techniques and Tooling
-- Value Delivery
+- Agile Strategy
+categories: []
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

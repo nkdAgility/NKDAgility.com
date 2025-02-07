@@ -21,16 +21,8 @@ aliasesFor404:
 - /government-cloud-first-policy
 - /blog/government-cloud-first-policy
 - /resources/blog/government-cloud-first-policy
-tags:
-- Customer Feedback Loops
-- Agile Product Management
-- Agile Leadership
-- Systems Thinking
-categories:
-- Organisational Agility
-- Value Delivery
-- Practical Techniques and Tooling
-- Resilience and Change
+tags: []
+categories: []
 preview: government-cloud-640x400-1-1.png
 
 ---

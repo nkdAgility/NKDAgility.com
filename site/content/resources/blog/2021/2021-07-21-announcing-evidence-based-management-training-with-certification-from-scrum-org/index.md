@@ -28,22 +28,9 @@ aliasesFor404:
 - /blog/announcing-professional-agile-leadership-with-evidence-based-management-training-(pal-ebm)-from-scrum-org
 - /resources/blog/announcing-evidence-based-management-training-with-certification-from-scrum-org
 tags:
-- Evidence Based Management
-- Agile Leadership
-- Strategic Goals
-- Decision Making
-- Evidence Based Improvement
-- Agile Product Management
-- Agile Certification
-- Leadership Training
-- Organisational Change
-- Continuous Improvement
-categories:
-- Organisational Agility
-- Metrics and Learning
-- Value Delivery
-- Agile Product Management
-- Events and Presentations
+- Software Development
+- Decision Theory
+categories: []
 preview: images/Professional-Agile-Leadership-Evidence-Based-Management-6-6.jpg
 
 ---

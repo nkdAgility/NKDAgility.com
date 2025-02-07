@@ -25,12 +25,8 @@ aliasesFor404:
 - /branch-policies-for-tfvc
 - /blog/branch-policies-for-tfvc
 - /resources/blog/branch-policies-tfvc
-tags:
-- devops
-categories:
-- Azure DevOps
-- Install and Configuration
-- Code and Complexity
+tags: []
+categories: []
 preview: image-2-2-2.png
 
 ---

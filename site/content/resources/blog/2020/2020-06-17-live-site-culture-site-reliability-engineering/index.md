@@ -25,27 +25,9 @@ aliasesFor404:
 - /live-site-culture-&-site-reliability-engineering
 - /blog/live-site-culture-&-site-reliability-engineering
 - /resources/blog/live-site-culture-site-reliability-engineering
-categories:
-- Organisational Agility
-- Value Delivery
-- Events and Presentations
-- Azure DevOps
+categories: []
 preview: 2020-06-17_13-06-30-1-1.jpg
-tags:
-- Deployment Frequency
-- Continuous Delivery
-- Site Reliability Engineering
-- Team Collaboration
-- Business Agility
-- Agile Tools
-- Agile Product Management
-- Customer Feedback Loops
-- Agile Software Development
-- Technical Excellence
-- Agile Strategy
-- Organisational Agility
-- Agile Transformation
-- Evidence Based Management
+tags: []
 
 ---
 As more and more organisations move towards a higher degree of agility, they inevitably also move towards DevOps practices like Continuous Delivery to facilitate shortening the feedback loops.

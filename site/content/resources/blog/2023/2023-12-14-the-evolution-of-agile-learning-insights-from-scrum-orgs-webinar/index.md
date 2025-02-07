@@ -27,21 +27,25 @@ aliasesFor404:
 - /blog/the-evolution-of-agile-learning--insights-from-scrum-org's-webinar
 - /resources/blog/the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
 tags:
-- Agile Evolution
-- Immersive Learning
-- Continuous Learning
-- Evidence Based Management
-- Team Collaboration
-- Agile Methodology
-- Agile Coaching
-- Agile Values and Principles
-- Professional Scrum
-categories:
-- Agile Product Management
-- Discovery and Learning
-- Events and Presentations
-- Organisational Agility
+- Agility
+- Coaching
 - Scrum
+- Continuous Learning
+- People and Process
+- Agile Evolution
+- Discovery and Learning
+- Agile Tools
+- Agile Software Development
+- Agile Strategy
+- Value Delivery
+- Evidence Based Improvement
+- Lean Agile
+- Agile Digital Tools
+- Business Agility
+categories:
+- Scrum
+- People and Process
+- Discovery and Learning
 preview: NKDAgility-technically-TheEvolutionofAgileLearning-1-1-16-16.jpg
 
 ---

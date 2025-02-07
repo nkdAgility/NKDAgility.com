@@ -25,23 +25,8 @@ aliasesFor404:
 - /vsts-sync-migration-tool-update-and-bugfix
 - /blog/vsts-sync-migration-tool-update-and-bugfix
 - /resources/blog/vsts-sync-migration-tool-update-bugfix
-tags:
-- Agile Tools
-- Azure DevOps
-- Continuous Delivery
-- Agile Software Development
-- Technical Excellence
-- Customer Feedback Loops
-- Agile Product Management
-- Evidence Based Improvement
-- Agile Product Discovery
-- Value Delivery
-- Agile Transformation
-- Agile Community
-- Agile Software Engineering
-- Collaboration Tools
-categories:
-- devops
+tags: []
+categories: []
 preview: nkdagility-martin-hinshelwood-vsts-sync-migration-1-1.png
 
 ---

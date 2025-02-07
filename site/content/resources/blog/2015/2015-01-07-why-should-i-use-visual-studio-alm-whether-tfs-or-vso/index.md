@@ -25,15 +25,8 @@ aliasesFor404:
 - /why-should-i-use-visual-studio-alm
 - /blog/why-should-i-use-visual-studio-alm
 - /resources/blog/why-should-i-use-visual-studio-alm-whether-tfs-or-vso
-tags:
-- Agile Planning Tools
-- Customer Feedback Loops
-categories:
-- Application Lifecycle Management
-- Azure DevOps
-- Practical Techniques and Tooling
-- Code and Complexity
-- People and Process
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

@@ -25,27 +25,9 @@ aliasesFor404:
 - /slaying-the-dragons-and-how-to-successfully-descale-at-scale
 - /blog/slaying-the-dragons-and-how-to-successfully-descale-at-scale
 - /resources/blog/live-webcast-slaying-the-dragons-and-how-to-successfully-descale-at-scale-agile-method
-tags:
-- Scaled Agile
-- Change Management
-- Business Agility
-- Agile Strategy
-- Agile Transformation
-- Organisational Agility
-- Agile Values and Principles
-- Continuous Improvement
-- Agile Scaling
-- Team Collaboration
-- Agile Leadership
-- Systems Thinking
-- Evidence Based Management
-- Agile Community
+tags: []
 categories:
 - Scaling Agility
-- Organisational Agility
-- Value Delivery
-- Events and Presentations
-- Enterprise Agility
 preview: 2020-03-27_21-36-13-1-1.jpg
 
 ---

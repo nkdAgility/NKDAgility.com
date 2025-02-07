@@ -22,27 +22,8 @@ aliasesFor404:
 - /professional-kanban-trainer-for-applying-professional-kanban
 - /blog/professional-kanban-trainer-for-applying-professional-kanban
 - /resources/blog/professional-kanban-trainer-for-applying-professional-kanban
-tags:
-- Kanban Theory
-- Kanban Training
-- Professional Scrum
-- Scrum Team
-- Agile Product Management
-- Value Delivery
-- Continuous Improvement
-- Agile Software Development
-- Agile Methodology
-- Agile Certifications
-- Kanban Coaching
-- Agile Product Discovery
-- Agile Planning
-- Agile Community
-- Value Stream Management
-categories:
-- Kanban
-- People and Process
-- Value Stream Management
-- News and Reviews
+tags: []
+categories: []
 preview: applying-professional-kanban-background-logo-2-2.jpg
 
 ---

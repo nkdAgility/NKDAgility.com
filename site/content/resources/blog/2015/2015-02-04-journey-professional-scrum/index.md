@@ -25,28 +25,8 @@ aliasesFor404:
 - /my-journey-into-professional-scrum
 - /blog/my-journey-into-professional-scrum
 - /resources/blog/journey-professional-scrum
-tags:
-- Professional Scrum
-- Scrum Master
-- Scrum Team
-- Agile Software Development
-- Continuous Improvement
-- Business Agility
-- Organisational Culture
-- Agile Product Management
-- Agile Transformation
-- Team Collaboration
-- Technical Excellence
-- Evidence Based Management
-- Self Organisation
-- Agile Values and Principles
-- Application Lifecycle Management
-categories:
-- People and Process
-- Scrum
-- Application Lifecycle Management
-- Organisational Agility
-- Scaling Agility
+tags: []
+categories: []
 preview: nakedalm-experts-professional-scrum-5-5.png
 
 ---

@@ -26,27 +26,8 @@ aliasesFor404:
 - /professional-scrum-is-for-everyone-in-your-organisation
 - /blog/professional-scrum-is-for-everyone-in-your-organisation
 - /resources/blog/professional-scrum-everyone-organisation
-tags:
-- Professional Scrum
-- Scrum Master
-- Scrum Team
-- Definition of Done
-- Working Software
-- Continuous Improvement
-- Organisational Change
-- Team Collaboration
-- Agile Product Management
-- Value Delivery
-- Agile Planning
-- Employee Engagement
-- Change Management
-- Agile Values and Principles
-categories:
-- Organisational Agility
-- Scrum
-- Value Delivery
-- People and Process
-- Resilience and Change
+tags: []
+categories: []
 preview: nkdagility-professional-scrum-is-for-everyone-1-2-2.jpg
 
 ---

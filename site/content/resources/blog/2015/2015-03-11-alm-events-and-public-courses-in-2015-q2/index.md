@@ -22,26 +22,8 @@ aliasesFor404:
 - /blog/alm-events-and-public-courses-in-2015-q2
 - /resources/blog/alm-events-and-public-courses-in-2015-q2
 tags:
-- Application Lifecycle Management
-- Agile Software Development
-- Agile Project Management
-- Scrum Master
-- Professional Scrum
-- Agile Certification
-- Continuous Delivery
-- Agile Product Management
-- Team Collaboration
-- Agile Community
-- Agile Values and Principles
-- Agile Transformation
-- Remote Working
-- Agile Tools
-categories:
-- Events and Presentations
-- Application Lifecycle Management
-- DevOps
-- Scrum
-- People and Process
+- Continuos Delivery
+categories: []
 preview: metro-event-icon-1-1.png
 
 ---

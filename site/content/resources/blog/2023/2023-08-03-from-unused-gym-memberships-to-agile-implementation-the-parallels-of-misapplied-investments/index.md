@@ -23,18 +23,8 @@ aliasesFor404:
 - /blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
 - /resources/blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
 tags:
-- Team Collaboration
-- Organisational Agility
-- Agile Coaching
-- Change Management
-- Agile Values and Principles
-- Agile Software Development
-categories:
-- People and Process
-- Organisational Agility
-- Discovery and Learning
-- Metrics and Learning
-- Value Delivery
+- Systems Thinking
+categories: []
 preview: naked-agility-technically-agile-gym-membership-Agile-1-1.jpg
 
 ---

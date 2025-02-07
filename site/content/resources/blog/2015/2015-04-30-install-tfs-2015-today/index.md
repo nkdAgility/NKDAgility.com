@@ -21,26 +21,8 @@ aliasesFor404:
 - /install-tfs-2015-today
 - /blog/install-tfs-2015-today
 - /resources/blog/install-tfs-2015-today
-tags:
-- Agile Software Development
-- Agile Tools
-- Continuous Delivery
-- Deployment Frequency
-- Technical Excellence
-- Agile Project Management
-- Agile Product Management
-- DevOps
-- Agile Product Discovery
-- Value Delivery
-- Evidence Based Management
-- Customer Feedback Loops
-- Agile Transformation
-- Software Development
-categories:
-- Install and Configuration
-- Azure DevOps
-- Application Lifecycle Management
-- Practical Techniques and Tooling
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-11-11.png
 
 ---

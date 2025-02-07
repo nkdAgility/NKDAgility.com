@@ -25,27 +25,8 @@ aliasesFor404:
 - /evolution-not-transformation--this-is-the-inevitability-of-change
 - /blog/evolution-not-transformation--this-is-the-inevitability-of-change
 - /resources/blog/evolution-not-transformation-this-is-the-inevitability-of-change
-tags:
-- Change Management
-- Business Agility
-- Organisational Agility
-- Agile Evolution
-- Continuous Improvement
-- Experimentation
-- Leadership Training
-- Agile Leadership
-- Systems Thinking
-- Organisational Change
-- Agile Values and Principles
-- Employee Engagement
-- Agile Product Management
-- Agile Strategy
-categories:
-- Organisational Agility
-- Resilience and Change
-- People and Process
-- Discovery and Learning
-- Events and Presentations
+tags: []
+categories: []
 preview: image-15-5-4.png
 
 ---

@@ -26,27 +26,9 @@ aliasesFor404:
 - /all-technical-debt-is-a-risk-to-the-product-and-to-your-business-
 - /blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business-
 - /resources/blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business
-tags:
-- Technical Debt
-- Agile Software Development
-- Continuous Delivery
-- Technical Excellence
-- Agile Product Management
-- Agile Planning
-- Team Collaboration
-- Business Agility
-- Value Delivery
-- Systems Thinking
-- Evidence Based Management
-- Change Management
-- Agile Leadership
-- Agile Values and Principles
+tags: []
 categories:
-- Technical Excellence
-- Value Delivery
-- Product Delivery
-- Systems Thinking
-- Metrics and Learning
+- Flow Efficiency
 preview: All-technical-debt-is-risk-to-the-product-and-to-your-business-2-2.jpg
 
 ---

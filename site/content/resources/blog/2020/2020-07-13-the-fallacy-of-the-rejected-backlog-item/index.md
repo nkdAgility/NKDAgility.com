@@ -21,28 +21,8 @@ aliasesFor404:
 - /the-fallacy-of-the-rejected-backlog-item
 - /blog/the-fallacy-of-the-rejected-backlog-item
 - /resources/blog/the-fallacy-of-the-rejected-backlog-item
-tags:
-- Sprint Review
-- Definition of Done
-- Scrum Team
-- Product Backlog
-- Technical Debt
-- Continuous Improvement
-- Empirical Process Control
-- Agile Product Ownership
-- Value Delivery
-- Agile Software Development
-- Working Software
-- Team Collaboration
-- Agile Planning
-- Agile Product Management
-- Customer Feedback Loops
-categories:
-- People and Process
-- Scrum
-- Value Delivery
-- Discovery and Learning
-- Transparency and Accountability
+tags: []
+categories: []
 preview: nkdAgility-backlog-item-approve-1-1.jpg
 
 ---

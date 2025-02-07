@@ -26,26 +26,9 @@ aliasesFor404:
 - /blog/big-scrum--all-you-need-and-not-enough
 - /resources/blog/big-scrum-all-you-need-and-not-enough
 tags:
-- Scaled Agile
-- Scaling Scrum
-- Scrum Team
-- Technical Excellence
-- Agile Values and Principles
-- Continuous Improvement
-- Team Collaboration
 - Agile Product Management
-- Professional Scrum
-- Large Scale Agility
-- Agile Transformation
-- Systems Thinking
-- Change Management
-- Evidence Based Management
 categories:
-- Scaling Agility
-- Scrum
-- Technical Excellence
-- People and Process
-- Events and Presentations
+- Practical Techniques and Tooling
 preview: clip_image003-3-3.png
 
 ---
