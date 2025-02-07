@@ -94,34 +94,34 @@ function Get-YoutubeVideoData {
     
     # Ensure API key is defined
     if (-not $token) {
-        Write-Debug "token is missing.." -ForegroundColor Red
+        Write-Debug "token is missing.." 
         return $null
     }
 
     # Ensure videoId is valid
     if (-not $videoId) {
-        Write-Debug "Invalid videoId provided." -ForegroundColor Red
+        Write-Debug "Invalid videoId provided."
         return $null
     }
 
-    Write-Debug "Working on Data for: $videoId" -ForegroundColor Green
+    Write-Debug "Working on Data for: $videoId"
     $videoDetailsUrl = "https://www.googleapis.com/youtube/v3/videos?id=$videoId&part=snippet,contentDetails,statistics,status"
     $headers = @{ Authorization = "Bearer $token" }
     try {
         $videoDetails = Invoke-RestMethod -Uri $videoDetailsUrl -Method Get -Headers $headers -ErrorAction Stop
         if ($null -eq $videoDetails -or $null -eq $videoDetails.items -or $videoDetails.items.Count -eq 0) {
-            Write-Debug "No data found for video: $videoId" -ForegroundColor Yellow
+            Write-Debug "No data found for video: $videoId" 
             return $null
         }
 
         $videoData = $videoDetails.items[0]
 
-        Write-Debug "Data found for video: $videoId" -ForegroundColor Green
+        Write-Debug "Data found for video: $videoId" 
         return $videoData
     }
     catch {
-        Write-Debug "Error fetching data for video: $videoId" -ForegroundColor Red
-        Write-Debug $_.Exception.Message -ForegroundColor Red
+        Write-Debug "Error fetching data for video: $videoId" 
+        Write-Debug $_.Exception.Message 
         return $null
     }
 }
@@ -137,17 +137,17 @@ function Get-YouTubeCaptionsData {
 
     # Ensure API key is defined
     if (-not $token) {
-        Write-Debug "API Key is missing. Please set the API Key." -ForegroundColor Red
+        Write-Debug "API Key is missing. Please set the API Key." 
         return $null
     }
 
     # Ensure videoId is valid
     if (-not $videoId) {
-        Write-Debug "Invalid videoId provided." -ForegroundColor Red
+        Write-Debug "Invalid videoId provided."
         return $null
     }
 
-    Write-Debug "Getting caption data for: $videoId" -ForegroundColor Green
+    Write-Debug "Getting caption data for: $videoId"
     $captionsUrl = "https://www.googleapis.com/youtube/v3/captions?videoId=$videoId&part=snippet"
     $headers = @{ Authorization = "Bearer $token" }
     try {
@@ -168,7 +168,7 @@ function Get-YouTubeCaptionsData {
             }
         }
         else {
-            Write-Debug "No captions found for video: $videoId" -ForegroundColor Yellow
+            Write-Debug "No captions found for video: $videoId"
         }
 
         return $captionsData
@@ -181,12 +181,12 @@ function Get-YouTubeCaptionsData {
             $reason = $errorObject.error.errors[0].reason
             Write-Debug "Error Reason: $reason"
             if ($reason -eq "quotaExceeded") {
-                Write-Debug "Quota Exceeded. Set GOOGLE_QUOTA_OK to false to stop further requests." -ForegroundColor Red
+                Write-Debug "Quota Exceeded. Set GOOGLE_QUOTA_OK to false to stop further requests."
                 $env:GOOGLE_QUOTA_OK = $false
             }
         }
         else {
-            Write-Debug "Error downloading caption: $($_.Exception.Message)" -ForegroundColor Red
+            Write-Debug "Error downloading caption: $($_.Exception.Message)" 
         }
         return $null
     }
@@ -236,12 +236,12 @@ function Get-YouTubeCaptions {
             $reason = $errorObject.error.errors[0].reason
             Write-Debug "Error Reason: $reason"
             if ($reason -eq "quotaExceeded") {
-                Write-Debug "Quota Exceeded. Set GOOGLE_QUOTA_OK to false to stop further requests." -ForegroundColor Red
+                Write-Debug "Quota Exceeded. Set GOOGLE_QUOTA_OK to false to stop further requests."
                 $env:GOOGLE_QUOTA_OK = $false
             }
         }
         else {
-            Write-Debug "Error downloading caption: $($_.Exception.Message)" -ForegroundColor Red
+            Write-Debug "Error downloading caption: $($_.Exception.Message)"
         }
         return $null
     }
@@ -269,13 +269,13 @@ function Get-YouTubeCaption {
 
         # If it contains non-ASCII characters, assume it's already UTF-8
         if ($utf8Decoded -match '[^\x00-\x7F]') {
-            Write-Debug "Content is UTF-8. Returning as-is." -ForegroundColor Green
+            Write-Debug "Content is UTF-8. Returning as-is." 
             return $utf8Decoded
         }
 
         # Otherwise, check if it's numeric ASCII-encoded content
         if ($utf8Decoded -match '^(\d+(\s\d+)*\r?\n?)+$') {
-            Write-Debug "Content appears to be ASCII-encoded text. Decoding..." -ForegroundColor Yellow
+            Write-Debug "Content appears to be ASCII-encoded text. Decoding..." 
             $decodedContent = ""
 
             foreach ($line in $utf8Decoded -split "`n") {
@@ -290,7 +290,7 @@ function Get-YouTubeCaption {
         }
 
         # If no encoding issue is detected, return content as is
-        Write-Debug "Content is ASCII text. Returning as-is." -ForegroundColor Cyan
+        Write-Debug "Content is ASCII text. Returning as-is." 
         return $utf8Decoded
     }
     catch {
@@ -299,12 +299,12 @@ function Get-YouTubeCaption {
             $reason = $errorObject.error.errors[0].reason
             Write-Debug "Error Reason: $reason"
             if ($reason -eq "quotaExceeded") {
-                Write-Debug "Quota Exceeded. Set GOOGLE_QUOTA_OK to false to stop further requests." -ForegroundColor Red
+                Write-Debug "Quota Exceeded. Set GOOGLE_QUOTA_OK to false to stop further requests."
                 $env:GOOGLE_QUOTA_OK = $false
             }
         }
         else {
-            Write-Debug "Error downloading caption: $($_.Exception.Message)" -ForegroundColor Red
+            Write-Debug "Error downloading caption: $($_.Exception.Message)"
         }
         return $null
     }
