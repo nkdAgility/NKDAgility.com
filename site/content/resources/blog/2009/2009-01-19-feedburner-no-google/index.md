@@ -30,11 +30,10 @@ aliasesFor404:
 - /blog/feedburner--no-google…
 - /resources/blog/feedburner-no-google
 categories:
-- News and Reviews
+- Personal
 preview: nakedalm-logo-128-link-2-2.png
 tags:
-- Customer Feedback Loops
-- Continuous Improvement
+- '""'
 
 ---
 As some of you may know, Feedburner ([http://feedburner.com](http://feedburner.com)) was acquired some time ago by Google… But they are now actively migrating their content to Google servers ([http://feedburner.google.com](http://feedburner.google.com "http://feedburner.google.com")) and I have taken the plunge… if you are having any problems with my feeds then please let me know so I can rectify it…

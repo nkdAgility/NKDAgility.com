@@ -22,11 +22,10 @@ aliasesFor404:
 - /blog/get-analysis-services-last-processed-date
 - /resources/blog/get-analysis-services-last-processed-date
 tags:
-- Technical Excellence
-- Agile Software Development
+- System Configuration
+- Troubleshooting
 preview: nakedalm-logo-128-link-1-1.png
 categories:
-- Code and Complexity
 - Application Lifecycle Management
 
 ---

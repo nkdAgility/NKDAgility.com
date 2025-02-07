@@ -26,8 +26,7 @@ aliasesFor404:
 - /blog/data-dude-r2-is-out-
 - /resources/blog/data-dude-r2-is-out
 tags:
-- Agile Software Development
-- Technical Excellence
+- Software Development
 categories:
 - Application Lifecycle Management
 - Install and Configuration

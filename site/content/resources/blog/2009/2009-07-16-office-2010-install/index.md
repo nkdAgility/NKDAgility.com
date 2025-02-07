@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/office-2010-install
 - /resources/blog/office-2010-install
 tags:
-- Agile Software Development
-- Technical Excellence
+- Windows
+- System Configuration
 preview: metro-office-128-link-7-1.png
 categories:
 - Install and Configuration

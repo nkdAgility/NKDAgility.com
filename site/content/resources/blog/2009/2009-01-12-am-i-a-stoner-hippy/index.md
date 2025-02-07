@@ -26,10 +26,9 @@ aliasesFor404:
 - /blog/am-i-a-stoner-hippy-
 - /resources/blog/am-i-a-stoner-hippy
 tags:
-- Organisational Culture
-- Employee Engagement
+- Personal
 categories:
-- Organisational Psychology
+- Personal
 preview: nakedalm-logo-128-link-3-3.png
 
 ---

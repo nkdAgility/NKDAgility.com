@@ -22,11 +22,10 @@ aliasesFor404:
 - /blog/updating-the-command-line-parser
 - /resources/blog/updating-the-command-line-parser
 tags:
-- Agile Software Development
 - Technical Excellence
+- Agile Software Development
 categories:
-- Code and Complexity
-- Practical Techniques and Tooling
+- Technical Excellence
 preview: metro-binary-vb-128-link-2-1.png
 
 ---

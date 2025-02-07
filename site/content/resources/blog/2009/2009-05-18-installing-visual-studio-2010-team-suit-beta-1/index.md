@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/installing-visual-studio-2010-team-suit-beta-1
 - /resources/blog/installing-visual-studio-2010-team-suit-beta-1
 tags:
-- Agile Software Development
-- Technical Excellence
+- Windows
+- System Configuration
 preview: metro-visual-studio-2010-128-link-9-9.png
 categories:
 - Install and Configuration

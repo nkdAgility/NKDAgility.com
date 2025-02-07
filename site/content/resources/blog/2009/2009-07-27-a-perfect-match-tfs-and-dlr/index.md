@@ -22,11 +22,9 @@ aliasesFor404:
 - /blog/a-perfect-match-tfs-and-dlr
 - /resources/blog/a-perfect-match-tfs-and-dlr
 tags:
-- Agile Software Development
-- Technical Excellence
+- Windows
 categories:
-- Azure DevOps
-- Code and Complexity
+- Install and Configuration
 preview: metro-visual-studio-2010-128-link-3-3.png
 
 ---

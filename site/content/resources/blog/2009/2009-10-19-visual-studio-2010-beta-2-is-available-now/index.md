@@ -26,12 +26,10 @@ aliasesFor404:
 - /blog/visual-studio-2010-beta-2-is-available-now-
 - /resources/blog/visual-studio-2010-beta-2-is-available-now
 tags:
-- Application Lifecycle Management
-- Agile Software Development
+- '""'
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories:
 - Application Lifecycle Management
-- Install and Configuration
 
 ---
 Visual Studio 2010 Beta 2 is now available on MSDN for download!

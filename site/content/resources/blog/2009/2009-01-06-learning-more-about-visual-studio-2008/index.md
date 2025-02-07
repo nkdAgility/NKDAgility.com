@@ -22,12 +22,10 @@ aliasesFor404:
 - /blog/learning-more-about-visual-studio-2008
 - /resources/blog/learning-more-about-visual-studio-2008
 tags:
-- Agile Software Development
 - Software Development
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - Install and Configuration
-- Discovery and Learning
 
 ---
 Well, that's me well and truly back from my holidays, a nice relaxing couple of weeks spent at home with my family.

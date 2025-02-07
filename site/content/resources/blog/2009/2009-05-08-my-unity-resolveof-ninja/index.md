@@ -26,11 +26,9 @@ aliasesFor404:
 - /blog/my-unity-resolve(of-ninja)
 - /resources/blog/my-unity-resolveof-ninja
 tags:
-- Agile Software Development
-- Technical Excellence
+- Software Development
 categories:
-- Code and Complexity
-- Practical Techniques and Tooling
+- Technical Excellence
 preview: metro-binary-vb-128-link-4-1.png
 
 ---

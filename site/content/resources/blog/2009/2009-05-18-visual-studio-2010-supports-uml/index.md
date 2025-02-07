@@ -22,8 +22,7 @@ aliasesFor404:
 - /blog/visual-studio-2010-supports-uml
 - /resources/blog/visual-studio-2010-supports-uml
 tags:
-- Agile Software Development
-- Technical Excellence
+- '""'
 categories:
 - Application Lifecycle Management
 preview: metro-visual-studio-2010-128-link-1-1.png

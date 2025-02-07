@@ -23,7 +23,7 @@ aliasesFor404:
 - /resources/blog/disable-a-timer-at-every-level-of-your-asp-net-control-hierarchy
 tags:
 - Technical Excellence
-- Agile Software Development
+- Software Development
 categories:
 - Code and Complexity
 - Technical Excellence

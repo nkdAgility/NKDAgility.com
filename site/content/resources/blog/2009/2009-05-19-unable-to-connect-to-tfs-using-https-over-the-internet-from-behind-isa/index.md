@@ -22,8 +22,7 @@ aliasesFor404:
 - /blog/unable-to-connect-to-tfs-using-https-over-the-internet-from-behind-isa
 - /resources/blog/unable-to-connect-to-tfs-using-https-over-the-internet-from-behind-isa
 tags:
-- Technical Debt
-- Agile Software Development
+- Troubleshooting
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories:
 - Application Lifecycle Management

@@ -22,10 +22,10 @@ aliasesFor404:
 - /blog/the-long-wait-is-over
 - /resources/blog/the-long-wait-is-over
 tags:
-- Customer Satisfaction
-- Agile Software Development
+- Windows
+- System Configuration
 categories:
-- News and Reviews
+- '""'
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

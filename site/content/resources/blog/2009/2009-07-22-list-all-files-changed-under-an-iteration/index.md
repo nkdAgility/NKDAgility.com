@@ -22,10 +22,9 @@ aliasesFor404:
 - /blog/list-all-files-changed-under-an-iteration
 - /resources/blog/list-all-files-changed-under-an-iteration
 tags:
-- Application Lifecycle Management
-- Agile Tools
+- System Configuration
 categories:
-- Code and Complexity
+- Application Lifecycle Management
 - Azure DevOps
 preview: metro-visual-studio-2005-128-link-1-1.png
 

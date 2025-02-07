@@ -22,11 +22,9 @@ aliasesFor404:
 - /blog/fail-a-build-if-tests-fail
 - /resources/blog/fail-a-build-if-tests-fail
 tags:
-- Automated Testing
-- Continuous Integration
+- Test Strategy
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
-- Technical Excellence
 - Azure DevOps
 
 ---

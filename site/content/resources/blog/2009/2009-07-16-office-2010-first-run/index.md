@@ -22,12 +22,10 @@ aliasesFor404:
 - /blog/office-2010-first-run
 - /resources/blog/office-2010-first-run
 tags:
-- Customer Feedback Loops
-- Agile Software Development
+- '""'
 preview: metro-office-128-link-6-1.png
 categories:
-- Install and Configuration
-- News and Reviews
+- '""'
 
 ---
 I will need to be quick, I have a dentists appointment (arg!), but I could not leave without at least a peek at Office 2010, so Outlook being my weapon of necessity, that the choice:

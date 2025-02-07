@@ -22,10 +22,9 @@ aliasesFor404:
 - /blog/twitter-with-style
 - /resources/blog/twitter-with-style
 tags:
-- Agile Software Development
-- Customer Feedback Loops
+- Windows
 categories:
-- News and Reviews
+- '""'
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

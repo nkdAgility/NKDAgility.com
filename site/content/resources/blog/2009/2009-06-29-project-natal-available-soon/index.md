@@ -22,10 +22,9 @@ aliasesFor404:
 - /blog/project-natal-available-soon
 - /resources/blog/project-natal-available-soon
 tags:
-- Market Share
-- Customer Feedback Loops
+- '""'
 categories:
-- News and Reviews
+- '""'
 preview: metro-xbox-360-link-1-1.png
 
 ---

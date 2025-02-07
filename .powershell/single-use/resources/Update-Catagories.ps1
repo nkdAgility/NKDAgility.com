@@ -82,8 +82,6 @@ $CatalogTags = @{
     "Psychological Safety"                    = "The foundation for innovation and high-performing teams.";
     "Scaling Agility"                         = "Moving beyond frameworks to build agility at every level.";
     "Evidence Based Management"               = "Applying empirical evidence to optimise organisational agility and decision-making.";
-    "Featured"                                = "Highlighted posts that provide key insights and perspectives.";
-    "Homepage"                                = "Posts featured prominently on the homepage for quick access.";
     "Mentoring"                               = "Guidance and coaching for agile professionals and leadership.";
     "Modern Source Control"                   = "Best practices for version control and branching strategies in modern software development.";
     "Operational Practices"                   = "Techniques and strategies for improving operational efficiency and delivery.";
@@ -220,6 +218,11 @@ $CatalogTags = @{
     "Sprint Review Workshops"                 = "Structured review sessions to gather insights and refine the product increment iteratively.";
     "Daily Scrum"                             = "Daily meeting by the Developers and for the Developers to plan the next 24h .";
     "Personal"                                = "Just some personal thoughts and experiences.";
+    "Windows"                                 = "The Windows operating system, including installation, configuration, troubleshooting, and updates.";
+    "System Configuration"                    = "Setting up and configuring software, hardware, and systems for optimal performance.";
+    "Troubleshooting"                         = "Identifying and resolving issues in software, hardware, and systems to maintain functionality.";
+
+
 }
 
 $FilteredTags = @($CatalogTags.Keys | Where-Object { $CatalogCategories.ContainsKey($_) })

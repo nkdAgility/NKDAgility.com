@@ -22,11 +22,10 @@ aliasesFor404:
 - /blog/interview-with-scottish-developers
 - /resources/blog/interview-with-scottish-developers
 categories:
-- Events and Presentations
+- Personal
 preview: nakedalm-logo-128-link-1-1.png
 tags:
-- Agile Community
-- Featured
+- Personal
 
 ---
 I was recently contacted by [Colin Mackay](http://www.colinmackay.net/), the chairman of [Scottish Developers](http://scottishdevelopers.com) about doing an interview with them. Colin has been pestering me for a while now to do some speaking engagements, but I am still not comfortable with that! (Yes, I am too chicken), so I capitulated…
