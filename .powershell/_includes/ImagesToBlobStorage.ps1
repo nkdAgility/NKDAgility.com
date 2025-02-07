@@ -50,7 +50,7 @@ function Rewrite-ImageLinks {
         [string]$BlobUrl
     )
   
-    Write-Debug "Rewriting image links in .html files using regex..."
+    Write-InfoLog "Rewriting image links in .html files using regex..."
 
     $HtmlFiles = Get-ChildItem -Path $LocalPath -Recurse -Include *.html
 
@@ -157,10 +157,10 @@ function Rewrite-ImageLinks {
 
         # Save updated content back to the file
         Set-Content -LiteralPath $HtmlFile.FullName -Value $FileContent
-        Write-Debug "Updated ($($Matches.count)): $($HtmlFile.FullName)"
+        Write-InfoLog "Updated ($($Matches.count)): $($HtmlFile.FullName)"
             
     }
-    Write-Debug "HTML link  rewriting complete of $totalLinks."
+    Write-InfoLog "HTML link  rewriting complete of $totalLinks."
 
     
 }
