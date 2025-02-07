@@ -26,7 +26,7 @@ function Get-ResourceType {
         return $matches['ResourceType']
     }
     else {
-        Write-Host "No match found." -ForegroundColor Red
+        Write-Debug "No match found." -ForegroundColor Red
         return $null
     }
 }
@@ -296,4 +296,4 @@ You are an AI expert in content classification. Evaluate how well the given cont
 
 
 
-Write-Host "ResourceHelpers.ps1 loaded" -ForegroundColor Green
+Write-Debug "ResourceHelpers.ps1 loaded"

@@ -55,10 +55,10 @@ function Remove-Field {
 
     if ($frontMatter.Contains($fieldName)) {
         $frontMatter.Remove($fieldName)
-        Write-Host "$fieldName removed"
+        Write-Debug "$fieldName removed"
     }
     else {
-        Write-Host "$fieldName does not exist"
+        Write-Debug "$fieldName does not exist"
     }
 }
 
@@ -81,10 +81,10 @@ function Update-Field {
         if ($Overwrite -or ([string]::IsNullOrEmpty($frontMatter[$fieldName]))) {
             # Overwrite the existing value
             $frontMatter[$fieldName] = $fieldValue
-            Write-Host "$fieldName overwritten"
+            Write-Debug "$fieldName overwritten"
         }
         else {
-            Write-Host "$fieldName already exists and is not empty"
+            Write-Debug "$fieldName already exists and is not empty"
         }
         return
     }
@@ -108,7 +108,7 @@ function Update-Field {
         $frontMatter[$fieldName] = $fieldValue
     }
 
-    Write-Host "$fieldName added"
+    Write-Debug "$fieldName added"
     return 
 }
 
@@ -147,7 +147,7 @@ function Update-StringList {
             $frontMatter[$fieldName] = $values
         }
         
-        Write-Host "$fieldName added"
+        Write-Debug "$fieldName added"
     }
     else {
         # Ensure the field is always an array
@@ -164,10 +164,10 @@ function Update-StringList {
             $newValues = $values | Where-Object { -not ($existingValues -icontains $_) }
             if ($newValues.Count -ne 0) {
                 $frontMatter[$fieldName] += $newValues
-                Write-Host "$fieldName updated with new unique values"
+                Write-Debug "$fieldName updated with new unique values"
             }
             else {
-                Write-Host "$fieldName already contains all values"
+                Write-Debug "$fieldName already contains all values"
             }
         }       
     }
@@ -191,7 +191,7 @@ function Update-StringList {
     # Check for duplicates in the updated array
     $duplicates = $frontMatter[$fieldName] | Group-Object | Where-Object { $_.Count -gt 1 }
     foreach ($duplicate in $duplicates) {
-        Write-Host "Duplicate value: $($duplicate.Name) appears $($duplicate.Count) times"
+        Write-Debug "Duplicate value: $($duplicate.Name) appears $($duplicate.Count) times"
         exit
     }
 }
@@ -247,4 +247,4 @@ function Get-MarkdownMetadata {
     return $metadataList | ConvertTo-Json -Depth 1
 }
 
-Write-Host "HugoHelpers.ps1 loaded" -ForegroundColor Green
+Write-InfoLog "HugoHelpers.ps1 loaded"

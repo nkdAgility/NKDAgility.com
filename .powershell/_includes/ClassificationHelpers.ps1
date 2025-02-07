@@ -44,7 +44,7 @@ function Get-CategoryConfidenceWithChecksum {
             $cachedData = Get-Content $cacheFile | ConvertFrom-Json -ErrorAction Stop
         }
         catch {
-            Write-Host "Warning: Cache file corrupted. Resetting cache."
+            Write-Debug "Warning: Cache file corrupted. Resetting cache."
             $cachedData = @{}
         }
     }
@@ -146,3 +146,5 @@ do not wrap the json in anything else, just return the json object.
 
 # $class.Count
 # $class
+
+Write-InfoLog "OpenAI.ps1 loaded"

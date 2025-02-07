@@ -83,9 +83,9 @@ function Get-OpenAIResponse {
         [string]$OPEN_AI_KEY = $env:OPENAI_API_KEY
     )
 
-    Write-Host "==============Get-OpenAIResponse:START"
+    Write-VerboseLog "==============Get-OpenAIResponse:START"
     $sw = [Diagnostics.Stopwatch]::StartNew()
-    Write-Debug "-----------------------------------------"
+    Write-VerboseLog "-----------------------------------------"
 
     # Estimate tokens for the prompt
     $tokenEstimate = Get-TokenEstimate $prompt
@@ -93,7 +93,7 @@ function Get-OpenAIResponse {
 
     # Split the prompt into chunks if it exceeds the max token size
     if ($tokenEstimate -gt $maxTokensPerChunk) {
-        Write-Host "Prompt exceeds max token size, chunking..."
+        Write-Debug "Prompt exceeds max token size, chunking..."
         $chunks = Get-TextChunks -text $prompt -maxLength ($maxTokensPerChunk * 4)  # Approximate character length
     }
     else {
@@ -105,7 +105,7 @@ function Get-OpenAIResponse {
 
     # Process each chunk
     foreach ($chunk in $chunks) {
-        Write-Host "Processing chunk..."
+        Write-Debug "Processing chunk..."
         $result = Call-OpenAI -system $system -prompt $chunk -OPEN_AI_KEY $OPEN_AI_KEY
         
         # Store the result of each chunk
@@ -114,7 +114,7 @@ function Get-OpenAIResponse {
 
     # Combine results if more than one chunk
     if ($chunkResults.Count -gt 1) {
-        Write-Host "Combining chunked responses..."
+        Write-Debug "Combining chunked responses..."
         $combinedPrompt = "Here are several responses from different parts of a git diff summarization task: `n`n" + ($chunkResults -join "`n") + "`n`nPlease combine these into a single, coherent summary."
         $fullResult = Call-OpenAI -system $system -prompt $combinedPrompt -OPEN_AI_KEY $OPEN_AI_KEY
     }
@@ -122,11 +122,11 @@ function Get-OpenAIResponse {
         $fullResult = $chunkResults[0]  # Only one chunk, no need to combine
     }
 
-    Write-Host "-----------------------------------------"
+    Write-VerboseLog "-----------------------------------------"
     $sw.Stop()
-    Write-Host "==============Get-OpenAIResponse:END | Elapsed time: $($sw.Elapsed)"
+    Write-VerboseLog "==============Get-OpenAIResponse:END | Elapsed time: $($sw.Elapsed)"
     
     return $fullResult
 }
 
-Write-Host "OpenAI.ps1 loaded" -ForegroundColor Green
+Write-InfoLog "OpenAI.ps1 loaded" 

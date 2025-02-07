@@ -1,8 +1,13 @@
+
 # Helpers
+. ./.powershell/_includes/LoggingHelper.ps1
 . ./.powershell/_includes/OpenAI.ps1
 . ./.powershell/_includes/HugoHelpers.ps1
 . ./.powershell/_includes/ResourceHelpers.ps1
 . ./.powershell/_includes/ClassificationHelpers.ps1
+
+
+$levelSwitch.MinimumLevel = 'Information'
 
 # Iterate through each blog folder and update markdown files
 $outputDir = ".\site\content\resources\videos\"
@@ -30,8 +35,8 @@ $resources | ForEach-Object {
 
     $resourceDir = (Get-Item -Path $_).DirectoryName
     $markdownFile = $_
-    Write-Host "--------------------------------------------------------"
-    Write-Host "Processing post: $resourceDir"
+    Write-InfoLog "--------------------------------------------------------"
+    Write-InfoLog "Processing post: $resourceDir"
     if ((Test-Path $markdownFile)) {
 
         # Load markdown as HugoMarkdown object
@@ -65,7 +70,7 @@ $resources | ForEach-Object {
         Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceType' -fieldValue $ResourceType -addAfter 'ResourceId' -Overwrite
 
         #=================ResourceImport+=================
-        if (Test-Path (Join-Path $resourceDir "data.yaml" ) || Test-Path (Join-Path $resourceDir "data.json" )) {
+        if ( (Test-Path (Join-Path $resourceDir "data.yaml" )) -or (Test-Path (Join-Path $resourceDir "data.json" ))) {
             $ResourceImport = $true
         }
         else {
@@ -160,7 +165,7 @@ $resources | ForEach-Object {
         Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $markdownFile
     }
     else {
-        Write-Host "Skipping folder: $blogDir (missing index.md)"
+        Write-InfoLog "Skipping folder: $blogDir (missing index.md)"
     }
     # Track count of ResourceType
     if ($resourceTypeCounts.ContainsKey($ResourceType)) {
@@ -171,7 +176,7 @@ $resources | ForEach-Object {
     }
 }
 
-Write-Host "All markdown files processed."
-Write-Host "--------------------------------------------------------"
-Write-Host "Summary of updated Resource Types:"
-$resourceTypeCounts.GetEnumerator() | ForEach-Object { Write-Host "$($_.Key): $($_.Value)" }
+Write-InfoLog "All markdown files processed."
+Write-InfoLog "--------------------------------------------------------"
+Write-InfoLog "Summary of updated Resource Types:"
+$resourceTypeCounts.GetEnumerator() | ForEach-Object { Write-InfoLog "$($_.Key): $($_.Value)" }
