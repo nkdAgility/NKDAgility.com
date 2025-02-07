@@ -35,7 +35,7 @@ function Call-OpenAI {
 
     # Define retry parameters
     $maxRetries = 5
-    $retryDelay = 2  # Initial delay in seconds
+    $retryDelay = 4  # Initial delay in seconds
 
     for ($attempt = 1; $attempt -le $maxRetries; $attempt++) {
         try {
@@ -56,7 +56,7 @@ function Call-OpenAI {
         catch {
             $errorMessage = $_.Exception.Message
 
-            if ($errorMessage -match "429 Too Many Requests") {
+            if ($errorMessage -match "429 \(Too Many Requests\)") {
                 # API Rate Limit hit; apply exponential backoff
                 Write-WarningLog "Rate limit exceeded. Retrying in $retryDelay seconds..."
                 Start-Sleep -Seconds $retryDelay

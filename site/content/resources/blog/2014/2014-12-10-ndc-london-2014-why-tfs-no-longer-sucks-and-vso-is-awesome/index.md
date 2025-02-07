@@ -26,27 +26,25 @@ aliasesFor404:
 - /blog/ndc-london-2014--why-tfs-no-longer-sucks-and-vso-is-awesome
 - /resources/blog/ndc-london-2014-why-tfs-no-longer-sucks-and-vso-is-awesome
 tags:
-- Agile Tools
-- Agile Planning
-- Team Collaboration
-- Deployment Frequency
-- Continuous Delivery
+- Windows
+- Product Owner
+- Software Development
+- Azure DevOps
 - Agile Software Development
-- Agile Product Management
-- Customer Feedback Loops
-- Technical Excellence
-- DevOps
-- Agile Product Ownership
 - Release Planning
-- Evidence Based Management
-- Agile Transformation
-- Value Delivery
+- Agile Product Ownership
+- Scrum Product Development
+- Agility
+- Agile Product Management
+- Software Developers
+- Deployment Strategies
+- Customer Feedback Loops
+- Scrum Product Management
+- Working Software
 categories:
 - Events and Presentations
 - Azure DevOps
-- Install and Configuration
-- Practical Techniques and Tooling
-- Value Delivery
+- Agile Product Management
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

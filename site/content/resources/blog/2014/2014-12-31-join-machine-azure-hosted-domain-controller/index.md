@@ -25,24 +25,8 @@ aliasesFor404:
 - /join-a-machine-to-your-azure-hosted-domain-controller
 - /blog/join-a-machine-to-your-azure-hosted-domain-controller
 - /resources/blog/join-machine-azure-hosted-domain-controller
-tags:
-- Azure DevOps
-- Agile Software Development
-- Continuous Delivery
-- Technical Excellence
-- Agile Project Management
-- Azure Boards
-- Agile Product Management
-- Agile Values and Principles
-- Agile Methodology
-- Agile Digital Tools
-- DevOps
-- Application Lifecycle Management
-- Remote Working
-- Evidence Based Management
-categories:
-- Install and Configuration
-- Azure DevOps
+tags: []
+categories: []
 preview: nakedalm-windows-logo-6-6.png
 
 ---
