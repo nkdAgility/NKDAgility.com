@@ -1,4 +1,5 @@
 $CatalogCategories = @{
+    "Miscellaneous"                    = "Topics that don't fit into any specific category.";
     "Organisational Agility"           = "The ability of an organisation to rapidly adapt to market changes, customer needs, and emerging opportunities."
     "Application Lifecycle Management" = "Managing the development, maintenance, and governance of software applications throughout their lifecycle."
     "Azure DevOps"                     = "The Azure DevOps or TFS (Team FOundation Server) product from Microsoft that is a set of development tools and services by Microsoft for CI/CD, collaboration, and agile project management."
@@ -36,6 +37,7 @@ $CatalogCategories = @{
 }          
 
 $CatalogTags = @{
+    "Miscellaneous"                           = "Topics that don't fit into any specific tag.";
     "Ability to Innovate"                     = "The key to staying ahead in a rapidly evolving market. Innovation isn't just about new ideas; it's about creating value through agility and continuous improvement.";
     "Acceptance Test Driven Development"      = "A collaborative approach where teams define business-facing tests before development, ensuring alignment between stakeholders and engineers.";
     "Accountability"                          = "In Agile, accountability is about ownership, not blame. Teams own their commitments, fostering trust and high performance.";

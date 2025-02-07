@@ -133,7 +133,7 @@ $resources | ForEach-Object {
             Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliasesFor404' -values $404aliases -addAfter 'aliases'
         }
 
-        #================Catsagories & TAGS==========================
+        #================Themes, Categories, & TAGS==========================
         . ./.powershell/single-use/resources/Update-Catagories.ps1
        
         $year = [datetime]::Parse($hugoMarkdown.FrontMatter.date).Year
@@ -144,13 +144,18 @@ $resources | ForEach-Object {
                 $BodyContent = Get-Content $captionsPath -Raw
             }
         }
+        #-----------------Themes-------------------
+        If (-not $hugoMarkdown.FrontMatter.Contains("themes") -or ($hugoMarkdown.FrontMatter.themes -is [array] -and $hugoMarkdown.FrontMatter.themes.Count -eq 0)) {
+            $themes = Get-ResourceThemes  -ResourceContent $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title
+            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'themes' -values $themes -Overwrite
+        } 
         #-----------------Categories-------------------
         $unknownCategories = @();
         if ($hugoMarkdown.FrontMatter.Contains("categories")) {
             $unknownCategories = $hugoMarkdown.FrontMatter.categories | Where-Object { -not $CatalogCategories.ContainsKey($_) }
         }       
         #If ($unknownCategories.Count -gt 0 -or -not $hugoMarkdown.FrontMatter.Contains("categories") -or ($hugoMarkdown.FrontMatter.categories -is [array] -and $hugoMarkdown.FrontMatter.categories.Count -eq 0)) {
-        $newCatagories = Get-UpdatedCategories -CurrentCategories $hugoMarkdown.FrontMatter.categories -Catalog $CatalogCategories -ResourceContent $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -ResourceYear $year -MaxCategories 7 -MinCategories 3
+        $newCatagories = Get-GetReleventCatalogItems -themes $hugoMarkdown.FrontMatter.themes -catalog $CatalogCategories.keys -ResourceContent $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title  -maxItems 3 -minItems 1
         Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values $newCatagories -Overwrite
         #} 
         #-----------------Tags-------------------
@@ -159,7 +164,7 @@ $resources | ForEach-Object {
             $unknownTags = $hugoMarkdown.FrontMatter.tags | Where-Object { -not $CatalogTags.ContainsKey($_) }
         }       
         #If ($unknownTags.Count -gt 0 -or -not $hugoMarkdown.FrontMatter.Contains("tags") -or ($hugoMarkdown.FrontMatter.tags -is [array] -and $hugoMarkdown.FrontMatter.tags.Count -eq 0)) {
-        $newtags = Get-UpdatedCategories -CurrentCategories $hugoMarkdown.FrontMatter.tags -Catalog $CatalogTags -ResourceContent $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -ResourceYear $year -MaxCategories 15 -MinCategories 10 
+        $newtags = Get-UpdatedCategories -themes $hugoMarkdown.FrontMatter.themes -catalog $CatalogTags.keys -ResourceContent $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -maxItems 7 -minItems 3 
         Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values $newtags -Overwrite
         #} 
         
