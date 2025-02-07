@@ -1,3 +1,6 @@
+# Helpers
+. ./.powershell/_includes/LoggingHelper.ps1
+
 # Method 1: Upload image files using azcopy
 function Upload-ImageFiles {
     param (
@@ -154,7 +157,7 @@ function Rewrite-ImageLinks {
 
         # Save updated content back to the file
         Set-Content -LiteralPath $HtmlFile.FullName -Value $FileContent
-        Write-Debug "Updated ($($Matches.count)): $($HtmlFile.FullName)" -ForegroundColor Green
+        Write-Debug "Updated ($($Matches.count)): $($HtmlFile.FullName)"
             
     }
     Write-Debug "HTML link  rewriting complete of $totalLinks."
