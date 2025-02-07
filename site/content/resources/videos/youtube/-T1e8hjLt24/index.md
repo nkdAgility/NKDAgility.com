@@ -5,6 +5,7 @@ date: 2023-12-19T11:00:00Z
 ResourceId: -T1e8hjLt24
 ResourceType: videos
 ResourceImport: true
+ResourceImportSource: Youtube
 videoId: -T1e8hjLt24
 url: /resources/videos/:slug
 slug: -shorts-5-things-you-would-teach-a-produtowner-apprentice-part-5

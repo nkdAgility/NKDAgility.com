@@ -5,6 +5,7 @@ date: 2023-03-01T07:00:00Z
 ResourceId: -Mz9cH0uiTQ
 ResourceType: videos
 ResourceImport: true
+ResourceImportSource: Youtube
 videoId: -Mz9cH0uiTQ
 url: /resources/videos/:slug
 slug: does-a-client-tell-an-agile-consultant-what-they-need-or-does-it-work-the-other-way-around-

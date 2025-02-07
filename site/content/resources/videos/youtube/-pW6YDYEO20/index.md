@@ -5,6 +5,7 @@ date: 2023-04-26T07:00:00Z
 ResourceId: -pW6YDYEO20
 ResourceType: videos
 ResourceImport: true
+ResourceImportSource: Youtube
 videoId: -pW6YDYEO20
 source: internal
 url: /resources/videos/:slug
