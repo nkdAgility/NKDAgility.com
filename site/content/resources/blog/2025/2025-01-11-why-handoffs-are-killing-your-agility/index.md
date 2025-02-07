@@ -20,21 +20,20 @@ aliasesFor404:
 - /why-handoffs-are-killing-your-agility
 - /blog/why-handoffs-are-killing-your-agility
 tags:
-- Team Collaboration
-- Technical Debt
-- Agile Software Development
-- Value Stream Management
-- Employee Engagement
-- Agile Transformation
 - Agile Product Management
-- Test Driven Development
+- Agile Software Development
+- Scrum
+- Cycle
+- Business Agility
+- Agile Project Management
+- Agile Evolution
+- Software Developers
+- Team Collaboration
 - Cycle Time
-- Organisational Agility
+- Agile Resource Management
+- Engineering Practices
 categories:
-- Organisational Agility
 - Value Stream Management
-- Flow Efficiency
-- Technical Excellence
 preview: 2025-01-11-why-handoffs-are-killing-your-agility.jpg
 
 ---

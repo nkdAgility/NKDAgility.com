@@ -1,37 +1,24 @@
 . ./.powershell/_includes/OpenAI.ps1
-
-function Get-MarkdownMetadata {
+function Get-CatalogHashtable {
     param (
-        [string]$FolderPath
+        [string]$FolderPath = "site\content",
+        [string]$Classification
     )
 
-    $mdFiles = Get-ChildItem -Path $FolderPath -Filter "*.md" -File
-    $metadataList = @()
+    # Get the metadata (assumed to be an array of objects)
+    $catalog = Get-MarkdownMetadata -FolderPath "$FolderPath\$Classification" | ConvertFrom-Json 
 
-    foreach ($markdownFile in $mdFiles) {
-        # Load Markdown data using Get-HugoMarkdown
-        $hugoMarkdown = Get-HugoMarkdown -Path $markdownFile.FullName
-        
-        # Extract title and description if available
-        $title = $hugoMarkdown.FrontMatter.title
-        $description = $hugoMarkdown.FrontMatter.description
+    # Initialize an empty hashtable
+    $catalogHash = @{}
 
-        # Fallback if title or description is missing
-        if (-not $title -or $title -eq '') {
-            $title = "Untitled"
-        }
-        if (-not $description -or $description -eq '') {
-            $description = "No description available"
-        }
-
-        # Create a structured object
-        $metadataList += [PSCustomObject]@{
-            Title       = $title
-            Description = $description
+    # Loop through each object and store the Title-Description pair in the hashtable
+    foreach ($item in $catalog) {
+        if ($item.Title -and $item.Description) {
+            $catalogHash[$item.Title] = $item.Description
         }
     }
 
-    return $metadataList | ConvertTo-Json -Depth 1
+    return $catalogHash
 }
 
 function Get-CategoryConfidenceWithChecksum {
@@ -40,6 +27,7 @@ function Get-CategoryConfidenceWithChecksum {
         [string]$ResourceTitle,
         [hashtable]$Catalog,
         [string]$CacheFolder,
+        [string]$ClassificationType = "classification",
         [int]$MinConfidence = 50,
         [int]$MaxCategories = 5
     )
@@ -48,7 +36,7 @@ function Get-CategoryConfidenceWithChecksum {
         New-Item -ItemType Directory -Path $CacheFolder -Force | Out-Null
     }
 
-    $cacheFile = Join-Path $CacheFolder "data.index.categories.json"
+    $cacheFile = Join-Path $CacheFolder "data.index.$ClassificationType.json"
 
     $cachedData = @{}
     if (Test-Path $cacheFile) {
@@ -62,8 +50,11 @@ function Get-CategoryConfidenceWithChecksum {
     }
 
     $categoryScores = @{}
-
+    $count = 0;
+    $total = $Catalog.Keys.Count
     foreach ($category in $Catalog.Keys) {
+        Write-Progress -Id 2 -ParentId 1 -Activity "Classification of $ClassificationType" -Status "Processing classification $count of $total '$category'" -PercentComplete (($count / $total) * 100)
+        $count++
         if ($cachedData.PSObject.Properties[$category]) {
             $categoryScores[$category] = $cachedData.$category
             continue
@@ -72,13 +63,15 @@ function Get-CategoryConfidenceWithChecksum {
         $prompt = @"
 You are an AI expert in content classification. Evaluate how well the given content aligns with the category **"$category"**.
 
-### **Instructions:**
-1. **Assess relevance** (Strong, Moderate, Weak).
-2. **Score confidence (0-100):**
-   - **80-100:** Primary Category (Strong match)
-   - **50-79:** Secondary Category (Moderate match)
-   - **Below 50:** Ignore
-3. **Provide a short reasoning**.
+Rules:
+1. **Only classify the content into this category if it is a clear, primary topic.**
+   - If the category is **only briefly mentioned**, **do not classify it**.
+   - If the content is **mostly about something else**, return `"confidence": 0`.
+2. **Confidence Levels:**
+   - **80-100:** The content is **primarily about this category**.
+   - **50-79:** The category is **a major but secondary theme**.
+   - **Below 50:** The category **is not relevant enough**.
+3. **Do not classify based on loose associations.** The category must be **central to the content.**
 
 return format should be valid json that looks like this:
 {
@@ -134,27 +127,22 @@ do not wrap the json in anything else, just return the json object.
         $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
     }
 
-    $sortedCategories = $categoryScores.Values | Sort-Object final_score -Descending | Select-Object -First $MaxCategories
+    Write-Progress -Id 2 -Activity "All Tasks Complete" -Completed
+
+    $sortedCategories = $categoryScores.Values | Where-Object { $_.Level -ne "Ignored" } | Sort-Object final_score -Descending | Select-Object -First $MaxCategories
 
     return $sortedCategories | ConvertTo-Json -Depth 1
 }
 
 
 
-$classification = "categories"
-# Test Data
-$catalog = Get-MarkdownMetadata -FolderPath "site\content\$classification" | ConvertFrom-Json 
-# Convert object to a hashtable
-$catalogHash = @{}
-# Loop through each object and store the Title-Description pair in the hashtable
-foreach ($item in $catalog) {
-    if ($item.Title -and $item.Description) {
-        $catalogHash[$item.Title] = $item.Description
-    }
-}
+# $hugoMarkdown = Get-HugoMarkdown -Path "site\content\resources\blog\2006\2006-06-22-ahaaaa\index.md"
+# $cacheFolder = "site\content\resources\blog\2006\2006-06-22-ahaaaa\"
+
+# $classification = "tags"
+# $catalogHash = Get-CatalogHashtable -Classification $classification
+# $class = Get-CategoryConfidenceWithChecksum -ClassificationType "$classification" -Catalog $catalogHash -CacheFolder $cacheFolder -ResourceContent $hugoMarkdown.BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title
 
 
-$hugoMarkdown = Get-HugoMarkdown -Path "site\content\resources\blog\2006\2006-06-22-ahaaaa\index.md"
-$cacheFolder = "site\content\resources\blog\2006\2006-06-22-ahaaaa\"
-
-$class = Get-CategoryConfidenceWithChecksum -ClassificationType "$classification" -Catalog $catalogHash -CacheFolder $cacheFolder -ResourceContent $hugoMarkdown.BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title
+# $class.Count
+# $class

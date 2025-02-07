@@ -2,9 +2,10 @@
 . ./.powershell/_includes/OpenAI.ps1
 . ./.powershell/_includes/HugoHelpers.ps1
 . ./.powershell/_includes/ResourceHelpers.ps1
+. ./.powershell/_includes/ClassificationHelpers.ps1
 
 # Iterate through each blog folder and update markdown files
-$outputDir = ".\site\content\resources\"
+$outputDir = ".\site\content\resources\blog\2025"
 
 # Get list of directories and select the first 10
 $resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md" | Select-Object -First 10
@@ -21,7 +22,7 @@ $resources | ForEach-Object {
     $Counter++
     $PercentComplete = ($Counter / $TotalFiles) * 100
 
-    Write-Progress -Activity "Processing Markdown Files" -Status "Processing $Counter of $TotalFiles" -PercentComplete $PercentComplete
+    Write-Progress -id 1 -Activity "Processing Markdown Files" -Status "Processing $Counter of $TotalFiles" -PercentComplete $PercentComplete
 
 
     $resourceDir = (Get-Item -Path $_).DirectoryName
@@ -134,45 +135,23 @@ $resources | ForEach-Object {
         }
 
         #================Themes, Categories, & TAGS==========================
-        . ./.powershell/single-use/resources/Update-Catagories.ps1
-       
-        if (-not $hugoMarkdown.FrontMatter.Contains("themes")) {
-
-            $year = [datetime]::Parse($hugoMarkdown.FrontMatter.date).Year
-            $BodyContent = $hugoMarkdown.BodyContent
-            If ($hugoMarkdown.FrontMatter.ResourceType -eq "videos") {
-                $captionsPath = Join-Path $resourceDir "index.captions.en.md"
-                if (Test-Path ($captionsPath )) {
-                    $BodyContent = Get-Content $captionsPath -Raw
-                }
+        $BodyContent = $hugoMarkdown.BodyContent
+        If ($hugoMarkdown.FrontMatter.ResourceType -eq "videos") {
+            $captionsPath = Join-Path $resourceDir "index.captions.en.md"
+            if (Test-Path ($captionsPath )) {
+                $BodyContent = Get-Content $captionsPath -Raw
             }
-            #-----------------Themes-------------------
-            If (-not $hugoMarkdown.FrontMatter.Contains("themes") -or ($hugoMarkdown.FrontMatter.themes -is [array] -and $hugoMarkdown.FrontMatter.themes.Count -eq 0)) {
-                $themes = Get-ResourceThemes  -ResourceContent $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title
-                Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'themes' -values $themes -Overwrite
-            } 
-            #-----------------Categories-------------------
-            $unknownCategories = @();
-            if ($hugoMarkdown.FrontMatter.Contains("categories")) {
-                $unknownCategories = $hugoMarkdown.FrontMatter.categories | Where-Object { -not $CatalogCategories.ContainsKey($_) }
-            }       
-            #If ($unknownCategories.Count -gt 0 -or -not $hugoMarkdown.FrontMatter.Contains("categories") -or ($hugoMarkdown.FrontMatter.categories -is [array] -and $hugoMarkdown.FrontMatter.categories.Count -eq 0)) {
-            $newCatagories = Get-GetReleventCatalogItems -themes $hugoMarkdown.FrontMatter.themes -catalog $CatalogCategories.keys -ResourceContent $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title  -maxItems 3 -minItems 1
-            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values $newCatagories -Overwrite
-            #} 
-            #-----------------Tags-------------------
-            $unknownTags = @();
-            if ($hugoMarkdown.FrontMatter.Contains("tags")) {
-                $unknownTags = $hugoMarkdown.FrontMatter.tags | Where-Object { -not $CatalogTags.ContainsKey($_) }
-            }       
-            #If ($unknownTags.Count -gt 0 -or -not $hugoMarkdown.FrontMatter.Contains("tags") -or ($hugoMarkdown.FrontMatter.tags -is [array] -and $hugoMarkdown.FrontMatter.tags.Count -eq 0)) {
-            $newtags = Get-RelevantCatalogItems -themes $hugoMarkdown.FrontMatter.themes -catalog $CatalogTags.keys -ResourceContent $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -maxItems 7 -minItems 3 
-            if ($newtags -eq $null) {
-                $newtags = @()
-            }
-            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values $newtags -Overwrite
-            #} 
         }
+        #-----------------Categories-------------------
+        $categoriesCatalog = Get-CatalogHashtable -Classification "categories"
+        $categoryClassification = Get-CategoryConfidenceWithChecksum -ClassificationType "categories" -Catalog $categoriesCatalog -CacheFolder $resourceDir -ResourceContent  $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -MaxCategories 3
+        $categories = $categoryClassification | ConvertFrom-Json | ForEach-Object { $_.category }
+        Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values $categories -Overwrite
+        #-----------------Tags-------------------
+        $tagsCatalog = Get-CatalogHashtable -Classification "tags"
+        $categoryClassification = Get-CategoryConfidenceWithChecksum -ClassificationType "tags" -Catalog $tagsCatalog -CacheFolder $resourceDir -ResourceContent  $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -MaxCategories 15
+        $tags = $categoryClassification | ConvertFrom-Json | ForEach-Object { $_.category }
+        Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values $tags -Overwrite
         # =================COMPLETE===================
         Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $markdownFile
     }

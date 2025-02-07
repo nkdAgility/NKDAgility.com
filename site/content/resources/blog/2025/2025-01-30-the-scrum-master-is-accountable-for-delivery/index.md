@@ -29,18 +29,18 @@ aliasesFor404:
 - /the-scrum-master-is-accountable-for-delivery
 - /blog/the-scrum-master-is-accountable-for-delivery
 tags:
+- Value Delivery
 - Scrum Master
-- Definition of Done
+- Scrum Team
+- Agile Software Development
+- Continuous Improvement
+- Continuous Delivery
+- Technical Leadership
+- Working Software
+- Flow Efficiency
 - Software Increment
-- Technical Excellence
-- Empirical Process Control
-- Agile Values and Principles
-- Agile Product Ownership
 categories:
 - Value Delivery
-- Transparency and Accountability
-- People and Process
-- Technical Excellence
 preview: 2025-01-30-the-scrum-master-is-accountable-for-delivery.jpg
 
 ---

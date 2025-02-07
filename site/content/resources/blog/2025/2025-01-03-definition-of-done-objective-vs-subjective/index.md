@@ -25,15 +25,18 @@ aliasesFor404:
 - /blog/definition-of-done---objective-vs-subjective
 tags:
 - Scrum
+- Scrum Product Development
+- Scrum Product Management
 - Scrum Team
-- Software Increment
-- Continuous Delivery
-- Team Collaboration
-- Agile Product Ownership
+- Professional Scrum
+- CI/CD
+- Engineering Practices
+- Technical Mastery
+- Working Software
+- Working Agreements
+- Empirical Process Control
 categories:
 - Metrics and Learning
-- Agile Product Management
-- Technical Excellence
 preview: 2025-01-03-definition-of-done-objective-vs-subjective.jpg
 
 ---
