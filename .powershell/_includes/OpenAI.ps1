@@ -35,7 +35,7 @@ function Call-OpenAI {
 
     # Define retry parameters
     $maxRetries = 5
-    $retryDelay = 4  # Initial delay in seconds
+    $retryDelay = 300  # Initial delay in seconds
 
     for ($attempt = 1; $attempt -le $maxRetries; $attempt++) {
         try {

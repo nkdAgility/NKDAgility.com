@@ -1,0 +1,1442 @@
+{
+  "Decision Theory": {
+    "category": "Decision Theory",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and does not discuss decision theory as a central theme.",
+    "level": "Ignored"
+  },
+  "People and Process": {
+    "category": "People and Process",
+    "ai_confidence": 85,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "Content discusses team dynamics, roles, and the importance of feedback loops in the context of a release management pipeline, indicating a strong focus on people and processes.",
+    "level": "Secondary"
+  },
+  "Agile Frameworks": {
+    "category": "Agile Frameworks",
+    "ai_confidence": 75,
+    "non_ai_confidence": 0,
+    "final_score": 52.0,
+    "reasoning": "The content discusses the implementation of a Release Management pipeline, which is relevant to Agile practices, particularly in the context of continuous integration and deployment. However, it primarily focuses on technical details rather than Agile methodologies themselves.",
+    "level": "Secondary"
+  },
+  "Scrum Values": {
+    "category": "Scrum Values",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the roles of the Development Team and Product Owner in the context of a release management pipeline, indicating a focus on collaboration and feedback, which are key Scrum values.",
+    "level": "Ignored"
+  },
+  "Azure Boards": {
+    "category": "Azure Boards",
+    "ai_confidence": 85,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "Content primarily focuses on creating a Release Management pipeline in Azure, detailing the integration with Azure environments and the deployment process, which is central to Azure Boards functionality.",
+    "level": "Secondary"
+  },
+  "Trend Analysis": {
+    "category": "Trend Analysis",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and configuring environments, rather than analysing trends.",
+    "level": "Ignored"
+  },
+  "Experimentation": {
+    "category": "Experimentation",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 59.0,
+    "reasoning": "The content primarily focuses on creating and configuring a Release Management pipeline, which involves experimentation with various deployment strategies and tools. The author discusses the process of setting up environments, automating builds, and managing deployments, indicating a strong emphasis on experimentation within the context of software development.",
+    "level": "Secondary"
+  },
+  "Kanban Process": {
+    "category": "Kanban Process",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and does not discuss the Kanban process or its principles.",
+    "level": "Ignored"
+  },
+  "Lean Product Development": {
+    "category": "Lean Product Development",
+    "ai_confidence": 75,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses the creation of a Release Management pipeline, which is a key aspect of Lean Product Development, focusing on continuous delivery and feedback loops. However, it also covers many technical details and configurations that may detract from the primary focus on Lean principles.",
+    "level": "Secondary"
+  },
+  "Engineering Excellence": {
+    "category": "Engineering Excellence",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 59.0,
+    "reasoning": "Content primarily focuses on creating a Release Management pipeline, demonstrating best practices in DevOps and continuous deployment, which are key aspects of engineering excellence.",
+    "level": "Secondary"
+  },
+  "Homepage": {
+    "category": "Homepage",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and does not discuss or relate to a homepage or its elements.",
+    "level": "Ignored"
+  },
+  "Agile Community": {
+    "category": "Agile Community",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses aspects of release management and deployment pipelines, which are relevant to Agile practices, but the primary focus is on technical implementation rather than Agile methodologies or community discussions.",
+    "level": "Ignored"
+  },
+  "Value Prioritisation": {
+    "category": "Value Prioritisation",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of feedback loops and stakeholder engagement in the context of deployment pipelines, indicating a secondary theme of value prioritisation.",
+    "level": "Ignored"
+  },
+  "Value Stream Mapping": {
+    "category": "Value Stream Mapping",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and automating deployments, with no clear emphasis on Value Stream Mapping as a central topic.",
+    "level": "Ignored"
+  },
+  "Market Adaptability": {
+    "category": "Market Adaptability",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the configuration of a Release Management pipeline and highlights the importance of adapting to new tools and features, but the primary focus is on technical implementation rather than market adaptability.",
+    "level": "Ignored"
+  },
+  "Self Organisation": {
+    "category": "Self Organisation",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the configuration of a Release Management pipeline and the importance of team collaboration and feedback loops, indicating a focus on self-organisation within development teams.",
+    "level": "Ignored"
+  },
+  "Agile Planning": {
+    "category": "Agile Planning",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the setup of a release management pipeline and mentions roles and feedback loops, which are relevant to Agile practices, but the primary focus is on technical implementation rather than Agile planning itself.",
+    "level": "Ignored"
+  },
+  "Decision Making": {
+    "category": "Decision Making",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the decision-making process regarding the configuration of Team Projects and environments, as well as the approval stages for deployments, indicating that decision making is a primary focus.",
+    "level": "Secondary"
+  },
+  "Scaling Kanban": {
+    "category": "Scaling Kanban",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and automating deployments, with no significant discussion on Scaling Kanban principles or practices.",
+    "level": "Ignored"
+  },
+  "Test Automation": {
+    "category": "Test Automation",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses aspects of automated builds and deployments, including the importance of failing builds when tests fail, but the primary focus is on creating a release management pipeline rather than on test automation itself.",
+    "level": "Ignored"
+  },
+  "Organisational Transformational Mastery": {
+    "category": "Organisational Transformational Mastery",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the creation of a Release Management pipeline and the importance of team collaboration and feedback loops, which are relevant to organisational transformation, but the primary focus is on technical implementation rather than broader transformational strategies.",
+    "level": "Ignored"
+  },
+  "Agile Transformation": {
+    "category": "Agile Transformation",
+    "ai_confidence": 75,
+    "non_ai_confidence": 10,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the creation of a Release Management pipeline and the importance of feedback loops, which are central to Agile practices, but the primary focus is on technical implementation rather than Agile principles.",
+    "level": "Secondary"
+  },
+  "Technical Strategy": {
+    "category": "Technical Strategy",
+    "ai_confidence": 85,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline, detailing the strategic approach to automating deployments and managing environments, which aligns closely with technical strategy.",
+    "level": "Secondary"
+  },
+  "Agile Evolution": {
+    "category": "Agile Evolution",
+    "ai_confidence": 75,
+    "non_ai_confidence": 0,
+    "final_score": 52.0,
+    "reasoning": "The content discusses the implementation of a Release Management pipeline and the importance of feedback loops, which are central to Agile methodologies, but it primarily focuses on technical details rather than Agile principles.",
+    "level": "Secondary"
+  },
+  "Miscellaneous": {
+    "category": "Miscellaneous",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and the associated technical details, rather than discussing miscellaneous topics.",
+    "level": "Ignored"
+  },
+  "Scaled Agile": {
+    "category": "Scaled Agile",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 59.0,
+    "reasoning": "Content primarily focuses on creating a Release Management pipeline, which is a key aspect of Scaled Agile practices, particularly in relation to continuous integration and deployment within Agile teams.",
+    "level": "Secondary"
+  },
+  "Agile Certification": {
+    "category": "Agile Certification",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and does not discuss Agile Certification as a clear, primary topic.",
+    "level": "Ignored"
+  },
+  "Cycle Time": {
+    "category": "Cycle Time",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and configuring environments, with no clear emphasis on cycle time as a central theme.",
+    "level": "Ignored"
+  },
+  "Working Agreements": {
+    "category": "Working Agreements",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses team project structures and roles, which are related to working agreements, but the primary focus is on creating a Release Management pipeline.",
+    "level": "Ignored"
+  },
+  "Agile Coaching": {
+    "category": "Agile Coaching",
+    "ai_confidence": 30,
+    "non_ai_confidence": 0,
+    "final_score": 21.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and technical details related to deployment, with only brief mentions of team dynamics and feedback processes.",
+    "level": "Ignored"
+  },
+  "Agile Pilot": {
+    "category": "Agile Pilot",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "Content primarily focuses on creating a Release Management pipeline, which is integral to Agile practices, particularly in the context of continuous integration and deployment.",
+    "level": "Secondary"
+  },
+  "BetaCodex": {
+    "category": "BetaCodex",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the creation of a Release Management pipeline and deployment processes, which are relevant to Agile methodologies and practices, but it primarily focuses on technical implementation rather than the broader concepts of BetaCodex.",
+    "level": "Ignored"
+  },
+  "Agile Mentoring Program": {
+    "category": "Agile Mentoring Program",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and does not discuss Agile mentoring or related themes.",
+    "level": "Ignored"
+  },
+  "Team Performance": {
+    "category": "Team Performance",
+    "ai_confidence": 75,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses the importance of team collaboration and feedback loops in the context of a release management pipeline, highlighting the roles of development teams and stakeholders.",
+    "level": "Secondary"
+  },
+  "Agile Values and Principles": {
+    "category": "Agile Values and Principles",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 41.0,
+    "reasoning": "The content discusses the importance of feedback loops and collaboration within development teams, which aligns with Agile principles, but the primary focus is on technical implementation of a release management pipeline.",
+    "level": "Ignored"
+  },
+  "Kanban Coaching": {
+    "category": "Kanban Coaching",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and does not discuss Kanban principles or coaching.",
+    "level": "Ignored"
+  },
+  "Revenue per Employee": {
+    "category": "Revenue per Employee",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily discusses the creation of a Release Management pipeline and related technical processes, with no mention of revenue or employee metrics.",
+    "level": "Ignored"
+  },
+  "Agile Methodology": {
+    "category": "Agile Methodology",
+    "ai_confidence": 75,
+    "non_ai_confidence": 0,
+    "final_score": 52.0,
+    "reasoning": "The content discusses aspects of a release management pipeline and deployment processes that involve team collaboration and feedback loops, which are central to Agile practices, but the primary focus is on technical implementation rather than Agile principles.",
+    "level": "Secondary"
+  },
+  "Strategic Goals": {
+    "category": "Strategic Goals",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the setup of a Release Management pipeline and the importance of feedback loops, which are related to strategic goals in a development context, but the primary focus is on technical implementation rather than overarching strategic objectives.",
+    "level": "Ignored"
+  },
+  "Nonlinear Dynamics": {
+    "category": "Nonlinear Dynamics",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and automating deployments, with no clear discussion or relevance to Nonlinear Dynamics.",
+    "level": "Ignored"
+  },
+  "Organisational Physics": {
+    "category": "Organisational Physics",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and technical details related to DevOps practices, rather than discussing concepts central to Organisational Physics.",
+    "level": "Ignored"
+  },
+  "Technical Leadership": {
+    "category": "Technical Leadership",
+    "ai_confidence": 75,
+    "non_ai_confidence": 10,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the creation of a Release Management pipeline and the importance of team collaboration and feedback loops, indicating a focus on leadership in technical processes.",
+    "level": "Secondary"
+  },
+  "Agile Product Management": {
+    "category": "Agile Product Management",
+    "ai_confidence": 75,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses the deployment pipeline and feedback loops, which are relevant to Agile practices, but the primary focus is on technical implementation rather than Agile product management principles.",
+    "level": "Secondary"
+  },
+  "Agile Forecasting": {
+    "category": "Agile Forecasting",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and configuring deployment processes, with no clear emphasis on Agile Forecasting as a primary topic.",
+    "level": "Ignored"
+  },
+  "Agile Resource Management": {
+    "category": "Agile Resource Management",
+    "ai_confidence": 75,
+    "non_ai_confidence": 10,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the configuration of a Release Management pipeline and the roles of development teams, which are relevant to Agile Resource Management, but the primary focus is on technical implementation rather than resource management itself.",
+    "level": "Secondary"
+  },
+  "Lean Principles": {
+    "category": "Lean Principles",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and automating deployments, with no clear discussion of Lean Principles.",
+    "level": "Ignored"
+  },
+  "Azure Pipelines": {
+    "category": "Azure Pipelines",
+    "ai_confidence": 92,
+    "non_ai_confidence": 20,
+    "final_score": 70.0,
+    "reasoning": "Content primarily focuses on creating and configuring a Release Management pipeline in Azure, detailing the steps and considerations involved in the process.",
+    "level": "Secondary"
+  },
+  "Agile Predictability": {
+    "category": "Agile Predictability",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the setup of a Release Management pipeline, which indirectly relates to Agile practices, but the primary focus is on technical implementation rather than Agile predictability itself.",
+    "level": "Ignored"
+  },
+  "Scrum Team": {
+    "category": "Scrum Team",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the roles of the Development Team and Product Owner in the context of a deployment pipeline, indicating a significant but secondary theme related to Scrum practices.",
+    "level": "Ignored"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "ai_confidence": 95,
+    "non_ai_confidence": 50,
+    "final_score": 82.0,
+    "reasoning": "Content primarily focuses on creating a Release Management pipeline, detailing the steps for automated deployments, build definitions, and environment configurations, which are central to DevOps practices.",
+    "level": "Primary"
+  },
+  "Employee Engagement": {
+    "category": "Employee Engagement",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and technical aspects of deployment, with no clear discussion on employee engagement.",
+    "level": "Ignored"
+  },
+  "Kanban Theory": {
+    "category": "Kanban Theory",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and does not discuss Kanban Theory as a central topic.",
+    "level": "Ignored"
+  },
+  "Application Lifecycle Management": {
+    "category": "Application Lifecycle Management",
+    "ai_confidence": 95,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline, detailing the steps involved in application deployment, build definitions, and environment configurations, which are central to Application Lifecycle Management.",
+    "level": "Secondary"
+  },
+  "Empirical Process Control": {
+    "category": "Empirical Process Control",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses aspects of a release management pipeline and deployment processes, which are related to empirical process control in software development, but the primary focus is on practical implementation rather than the theoretical framework of empirical process control.",
+    "level": "Ignored"
+  },
+  "Frequent Releases": {
+    "category": "Frequent Releases",
+    "ai_confidence": 92,
+    "non_ai_confidence": 0,
+    "final_score": 64.0,
+    "reasoning": "Content primarily focuses on creating a Release Management pipeline, detailing the steps for continuous deployment and the automation of releases, which aligns closely with the concept of frequent releases.",
+    "level": "Secondary"
+  },
+  "Release Planning": {
+    "category": "Release Planning",
+    "ai_confidence": 92,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "Content primarily focuses on creating a Release Management pipeline, detailing the steps and configurations necessary for deployment, which is central to release planning.",
+    "level": "Secondary"
+  },
+  "Troubleshooting": {
+    "category": "Troubleshooting",
+    "ai_confidence": 75,
+    "non_ai_confidence": 0,
+    "final_score": 52.0,
+    "reasoning": "The content discusses various issues encountered during the setup and deployment process, including configuration errors and the need for debugging, indicating that troubleshooting is a significant theme.",
+    "level": "Secondary"
+  },
+  "Backlog Refinement": {
+    "category": "Backlog Refinement",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and does not discuss backlog refinement as a clear, primary topic.",
+    "level": "Ignored"
+  },
+  "Evidence Based Management": {
+    "category": "Evidence Based Management",
+    "ai_confidence": 45,
+    "non_ai_confidence": 20,
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and technical details related to deployment, with only brief mentions of team roles and feedback processes.",
+    "level": "Ignored"
+  },
+  "Adaptive Leadership": {
+    "category": "Adaptive Leadership",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and technical aspects of deployment, with no clear discussion or emphasis on adaptive leadership principles.",
+    "level": "Ignored"
+  },
+  "Agile Apocalypse": {
+    "category": "Agile Apocalypse",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and configuring environments, with no clear discussion of Agile methodologies or principles.",
+    "level": "Ignored"
+  },
+  "Systemic Thinking": {
+    "category": "Systemic Thinking",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the configuration of a Release Management pipeline and the importance of team collaboration and feedback loops, indicating a systemic approach to development and deployment processes.",
+    "level": "Ignored"
+  },
+  "Remote Working": {
+    "category": "Remote Working",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and does not discuss remote working as a clear, primary topic.",
+    "level": "Ignored"
+  },
+  "Continuos Integration": {
+    "category": "Continuos Integration",
+    "ai_confidence": 92,
+    "non_ai_confidence": 0,
+    "final_score": 64.0,
+    "reasoning": "Content primarily focuses on creating a Release Management pipeline, detailing the steps for continuous integration and deployment, including build definitions and automated deployments.",
+    "level": "Secondary"
+  },
+  "Agile Planning Tools": {
+    "category": "Agile Planning Tools",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the creation of a Release Management pipeline, which is related to agile practices, but the primary focus is on technical implementation rather than agile planning tools specifically.",
+    "level": "Ignored"
+  },
+  "Personal": {
+    "category": "Personal",
+    "ai_confidence": 30,
+    "non_ai_confidence": 0,
+    "final_score": 21.0,
+    "reasoning": "The content primarily focuses on technical aspects of creating a Release Management pipeline and does not centre around personal experiences or reflections.",
+    "level": "Ignored"
+  },
+  "Automated Testing": {
+    "category": "Automated Testing",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses automated builds and the importance of failing builds when tests fail, indicating a significant focus on automated testing within the context of a release management pipeline.",
+    "level": "Ignored"
+  },
+  "Scaling Scrum": {
+    "category": "Scaling Scrum",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and configuring deployment processes, with no clear emphasis on Scaling Scrum principles or practices.",
+    "level": "Ignored"
+  },
+  "Pragmatic Thinking": {
+    "category": "Pragmatic Thinking",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 59.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline, detailing practical steps and considerations for deployment, which aligns well with pragmatic thinking in software development.",
+    "level": "Secondary"
+  },
+  "Acceptance Test Driven Development": {
+    "category": "Acceptance Test Driven Development",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and configuring environments, with only brief mentions of testing and deployment processes. Acceptance Test Driven Development is not a central theme.",
+    "level": "Ignored"
+  },
+  "Organisational Change": {
+    "category": "Organisational Change",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the configuration of a Release Management pipeline and the roles of various team members in the deployment process, indicating a shift in how teams collaborate and manage releases, but it is primarily focused on technical implementation rather than organisational change itself.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses aspects of team collaboration and feedback loops, which are relevant to Scrum, but the primary focus is on Release Management and deployment processes.",
+    "level": "Ignored"
+  },
+  "Product Owner": {
+    "category": "Product Owner",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of the Product Owner in the context of a deployment pipeline, specifically mentioning the Product Owner's responsibility for soliciting feedback from stakeholders.",
+    "level": "Secondary"
+  },
+  "Agile Project Management": {
+    "category": "Agile Project Management",
+    "ai_confidence": 75,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses the creation of a release management pipeline and touches on team dynamics, roles, and feedback loops, which are relevant to Agile methodologies, but the primary focus is on technical implementation rather than Agile principles.",
+    "level": "Secondary"
+  },
+  "Product Strategy": {
+    "category": "Product Strategy",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the configuration and deployment of a Release Management pipeline, which is relevant to product strategy in terms of demonstrating product capabilities and soliciting feedback from stakeholders.",
+    "level": "Ignored"
+  },
+  "Flow Efficiency": {
+    "category": "Flow Efficiency",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 59.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline, detailing the steps for automating deployments and managing feedback loops, which are central to improving flow efficiency in development processes.",
+    "level": "Secondary"
+  },
+  "Transparency": {
+    "category": "Transparency",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the deployment process and the importance of feedback loops, which implies a level of transparency in the development and release management process, but it is not the primary focus.",
+    "level": "Ignored"
+  },
+  "Change Management": {
+    "category": "Change Management",
+    "ai_confidence": 85,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline, which is a key aspect of change management in software development. It discusses the processes involved in managing releases, including deployment strategies, environment configurations, and feedback loops, indicating a strong alignment with change management principles.",
+    "level": "Secondary"
+  },
+  "Software Developers": {
+    "category": "Software Developers",
+    "ai_confidence": 95,
+    "non_ai_confidence": 10,
+    "final_score": 70.0,
+    "reasoning": "Content primarily focuses on creating a Release Management pipeline, detailing the steps and considerations for software deployment, which is central to the work of software developers.",
+    "level": "Secondary"
+  },
+  "Working Software": {
+    "category": "Working Software",
+    "ai_confidence": 95,
+    "non_ai_confidence": 10,
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline, detailing the steps for building, deploying, and managing software in a professional development environment.",
+    "level": "Secondary"
+  },
+  "Agile Estimation": {
+    "category": "Agile Estimation",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and configuring environments, with no clear discussion on Agile estimation techniques or practices.",
+    "level": "Ignored"
+  },
+  "Agile Books": {
+    "category": "Agile Books",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and technical details related to DevOps and Azure, with no significant discussion on Agile methodologies or literature.",
+    "level": "Ignored"
+  },
+  "System Configuration": {
+    "category": "System Configuration",
+    "ai_confidence": 92,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content primarily focuses on creating and configuring a Release Management pipeline, detailing the steps for setting up environments, build definitions, and deployment scripts, which are all central to system configuration.",
+    "level": "Secondary"
+  },
+  "Lean Startup": {
+    "category": "Lean Startup",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and configuring DevOps processes, with no clear discussion or emphasis on Lean Startup principles.",
+    "level": "Ignored"
+  },
+  "Organisational Culture": {
+    "category": "Organisational Culture",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses team dynamics and roles within the context of a development pipeline, indicating a focus on collaboration and feedback processes, which are aspects of organisational culture.",
+    "level": "Ignored"
+  },
+  "Digital Transformation": {
+    "category": "Digital Transformation",
+    "ai_confidence": 85,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline, which is a key aspect of digital transformation in software development and deployment processes.",
+    "level": "Secondary"
+  },
+  "Sprint Review": {
+    "category": "Sprint Review",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the deployment process and feedback loops, which are relevant to a Sprint Review, but the primary focus is on creating a Release Management pipeline.",
+    "level": "Ignored"
+  },
+  "Predictability in Kanban": {
+    "category": "Predictability in Kanban",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and automating deployments, with no clear discussion on predictability in Kanban.",
+    "level": "Ignored"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "ai_confidence": 95,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "Content primarily focuses on creating a Release Management pipeline using Azure DevOps tools, detailing the setup and configuration processes involved in deploying applications through Azure environments.",
+    "level": "Secondary"
+  },
+  "Entrepreneurship": {
+    "category": "Entrepreneurship",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on technical aspects of creating a Release Management pipeline and does not discuss entrepreneurship as a clear, primary topic.",
+    "level": "Ignored"
+  },
+  "Technical Debt": {
+    "category": "Technical Debt",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and does not discuss technical debt as a central theme.",
+    "level": "Ignored"
+  },
+  "Lean Agile": {
+    "category": "Lean Agile",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 59.0,
+    "reasoning": "Content primarily focuses on creating a Release Management pipeline, emphasising automation, feedback loops, and collaboration within development teams, which are key principles of Lean Agile methodologies.",
+    "level": "Secondary"
+  },
+  "Kanban Flow": {
+    "category": "Kanban Flow",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and configuring deployment processes, with no significant discussion of Kanban Flow principles or practices.",
+    "level": "Ignored"
+  },
+  "Daily Scrum": {
+    "category": "Daily Scrum",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and does not discuss Daily Scrum practices or events.",
+    "level": "Ignored"
+  },
+  "Continuous Integration": {
+    "category": "Continuous Integration",
+    "ai_confidence": 92,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "Content primarily focuses on creating a Release Management pipeline, detailing the steps for continuous integration and deployment processes, including automated builds and deployment configurations.",
+    "level": "Secondary"
+  },
+  "Customer Satisfaction": {
+    "category": "Customer Satisfaction",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and technical details related to DevOps practices, with no clear emphasis on customer satisfaction.",
+    "level": "Ignored"
+  },
+  "Agile Tools": {
+    "category": "Agile Tools",
+    "ai_confidence": 92,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "Content primarily focuses on creating a Release Management pipeline, which is a key aspect of Agile tools and practices, particularly in the context of DevOps and continuous integration/deployment.",
+    "level": "Secondary"
+  },
+  "Large Scale Agility": {
+    "category": "Large Scale Agility",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 59.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline, which is a key aspect of implementing large scale agility practices in software development. It discusses team collaboration, automated deployments, and feedback loops, all of which are central to large scale agile methodologies.",
+    "level": "Secondary"
+  },
+  "Agile Digital Tools": {
+    "category": "Agile Digital Tools",
+    "ai_confidence": 92,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "Content primarily focuses on creating a Release Management pipeline using Agile tools, specifically Team Foundation Server and Azure, detailing the setup and configuration processes involved.",
+    "level": "Secondary"
+  },
+  "Agile Software Development": {
+    "category": "Agile Software Development",
+    "ai_confidence": 85,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "Content primarily focuses on creating a Release Management pipeline, which is integral to Agile practices, including continuous integration and deployment, and involves collaboration among development teams and stakeholders.",
+    "level": "Secondary"
+  },
+  "Software Increment": {
+    "category": "Software Increment",
+    "ai_confidence": 92,
+    "non_ai_confidence": 0,
+    "final_score": 64.0,
+    "reasoning": "Content primarily focuses on creating a Release Management pipeline, detailing the steps for building and deploying software, which aligns closely with the concept of software increments.",
+    "level": "Secondary"
+  },
+  "Coaching": {
+    "category": "Coaching",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and technical details related to DevOps practices, rather than coaching or mentoring individuals or teams.",
+    "level": "Ignored"
+  },
+  "Modern Source Control": {
+    "category": "Modern Source Control",
+    "ai_confidence": 85,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline using Git and Team Foundation Server, detailing the steps involved in source control, repository management, and continuous integration/deployment processes.",
+    "level": "Secondary"
+  },
+  "Site Reliability": {
+    "category": "Site Reliability",
+    "ai_confidence": 85,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline, which is a key aspect of site reliability engineering, particularly in the context of automated deployments and monitoring.",
+    "level": "Secondary"
+  },
+  "Continuous Learning": {
+    "category": "Continuous Learning",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and configuring environments, with no clear emphasis on continuous learning as a primary topic.",
+    "level": "Ignored"
+  },
+  "Scrum Product Development": {
+    "category": "Scrum Product Development",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 41.0,
+    "reasoning": "The content discusses aspects of team collaboration and feedback loops, which are relevant to Scrum, but the primary focus is on technical implementation of a release management pipeline.",
+    "level": "Ignored"
+  },
+  "Resilience and Change": {
+    "category": "Resilience and Change",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the process of creating a Release Management pipeline, which implies a level of adaptation and improvement in development practices. However, the primary focus is on technical implementation rather than a deep exploration of resilience and change as a central theme.",
+    "level": "Ignored"
+  },
+  "Strategic": {
+    "category": "Strategic",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the creation of a Release Management pipeline, which involves strategic planning for deployment and feedback loops, but it is primarily focused on technical implementation details.",
+    "level": "Ignored"
+  },
+  "Sprint Review Workshops": {
+    "category": "Sprint Review Workshops",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and does not discuss Sprint Review Workshops as a clear, primary topic.",
+    "level": "Ignored"
+  },
+  "Agile Strategy": {
+    "category": "Agile Strategy",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 59.0,
+    "reasoning": "Content primarily focuses on creating a Release Management pipeline, which is a key aspect of Agile practices, particularly in relation to continuous integration and deployment. It discusses team roles, feedback loops, and the importance of collaboration, which are central to Agile methodologies.",
+    "level": "Secondary"
+  },
+  "Value Stream Management": {
+    "category": "Value Stream Management",
+    "ai_confidence": 85,
+    "non_ai_confidence": 20,
+    "final_score": 66.0,
+    "reasoning": "Content primarily focuses on creating a Release Management pipeline, detailing the steps and considerations involved in managing the flow of software from development to deployment, which aligns closely with Value Stream Management principles.",
+    "level": "Secondary"
+  },
+  "Test Driven Development": {
+    "category": "Test Driven Development",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses automated builds and the importance of failing builds when tests fail, indicating a focus on testing practices, but it primarily revolves around release management and deployment processes.",
+    "level": "Ignored"
+  },
+  "Agile Leadership": {
+    "category": "Agile Leadership",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses aspects of team collaboration and feedback loops in the context of a release management pipeline, indicating a focus on Agile principles, but the primary focus is on technical implementation rather than leadership.",
+    "level": "Ignored"
+  },
+  "Agile Product Ownership": {
+    "category": "Agile Product Ownership",
+    "ai_confidence": 75,
+    "non_ai_confidence": 10,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the role of the Product Owner in the context of a release management pipeline, highlighting the importance of soliciting feedback from stakeholders, which is a key aspect of Agile Product Ownership.",
+    "level": "Secondary"
+  },
+  "Market Share": {
+    "category": "Market Share",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and does not discuss market share as a central topic.",
+    "level": "Ignored"
+  },
+  "MVP": {
+    "category": "MVP",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 59.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline, which is a critical aspect of developing a Minimum Viable Product (MVP) in a professional development context.",
+    "level": "Secondary"
+  },
+  "Organisational Agility": {
+    "category": "Organisational Agility",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "Content primarily focuses on creating a Release Management pipeline, which is essential for enhancing organisational agility through automated deployments and feedback loops.",
+    "level": "Secondary"
+  },
+  "Throughput": {
+    "category": "Throughput",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline, which is central to the concept of throughput in software development, particularly in the context of continuous integration and deployment.",
+    "level": "Secondary"
+  },
+  "Value Delivery": {
+    "category": "Value Delivery",
+    "ai_confidence": 92,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "Content primarily focuses on creating a Release Management pipeline, detailing the steps for deployment and feedback loops, which are central to delivering value in software development.",
+    "level": "Secondary"
+  },
+  "Scaling Agility": {
+    "category": "Scaling Agility",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 59.0,
+    "reasoning": "Content primarily focuses on creating a Release Management pipeline, which is essential for scaling agile practices in software development. It discusses automation, team collaboration, and feedback loops, all of which are key components of scaling agility.",
+    "level": "Secondary"
+  },
+  "Software Development": {
+    "category": "Software Development",
+    "ai_confidence": 95,
+    "non_ai_confidence": 10,
+    "final_score": 70.0,
+    "reasoning": "Content primarily focuses on creating a Release Management pipeline, detailing the steps and considerations involved in software deployment and development processes.",
+    "level": "Secondary"
+  },
+  "Deployment Strategies": {
+    "category": "Deployment Strategies",
+    "ai_confidence": 95,
+    "non_ai_confidence": 10,
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline, detailing the steps for deployment, configuration, and management of environments, which are central to deployment strategies.",
+    "level": "Secondary"
+  },
+  "Sprint Planning Workshop": {
+    "category": "Sprint Planning Workshop",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and does not discuss Sprint Planning or related activities.",
+    "level": "Ignored"
+  },
+  "Accountability": {
+    "category": "Accountability",
+    "ai_confidence": 75,
+    "non_ai_confidence": 0,
+    "final_score": 52.0,
+    "reasoning": "The content discusses the importance of feedback loops and approval processes in the deployment pipeline, highlighting the roles of the development team and product owner in ensuring quality and accountability in releases.",
+    "level": "Secondary"
+  },
+  "Team Collaboration": {
+    "category": "Team Collaboration",
+    "ai_confidence": 85,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of team projects, collaboration among development teams, and the feedback loop involving coders, testers, and the Product Owner, indicating a strong focus on team collaboration.",
+    "level": "Secondary"
+  },
+  "Agile Product Discovery": {
+    "category": "Agile Product Discovery",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the setup of a Release Management pipeline and deployment processes, which are relevant to Agile practices, but the primary focus is on technical implementation rather than Agile Product Discovery itself.",
+    "level": "Ignored"
+  },
+  "Portfolio Management": {
+    "category": "Portfolio Management",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and automating deployments, with no clear emphasis on portfolio management.",
+    "level": "Ignored"
+  },
+  "Agile AI": {
+    "category": "Agile AI",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and automating deployments, with no clear discussion or emphasis on Agile AI principles.",
+    "level": "Ignored"
+  },
+  "Complexity Science": {
+    "category": "Complexity Science",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline for software development, detailing specific tools and processes related to DevOps and application deployment, rather than discussing concepts central to Complexity Science.",
+    "level": "Ignored"
+  },
+  "Definition of Ready": {
+    "category": "Definition of Ready",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and does not discuss the Definition of Ready as a clear, primary topic.",
+    "level": "Ignored"
+  },
+  "Leadership Training": {
+    "category": "Leadership Training",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and technical aspects of deployment, with no clear emphasis on leadership training.",
+    "level": "Ignored"
+  },
+  "Kanban Training": {
+    "category": "Kanban Training",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and does not discuss Kanban principles or training.",
+    "level": "Ignored"
+  },
+  "Agility": {
+    "category": "Agility",
+    "ai_confidence": 85,
+    "non_ai_confidence": 30,
+    "final_score": 68.0,
+    "reasoning": "Content primarily focuses on creating a Release Management pipeline, which is a key aspect of agile methodologies, particularly in DevOps practices. It discusses automation, continuous integration, and feedback loops, all of which are central to agile principles.",
+    "level": "Secondary"
+  },
+  "Agile Leader": {
+    "category": "Agile Leader",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses aspects of team collaboration, feedback loops, and the role of the Product Owner, indicating a focus on Agile principles, but the primary focus is on technical implementation rather than leadership.",
+    "level": "Ignored"
+  },
+  "Continuos Delivery": {
+    "category": "Continuos Delivery",
+    "ai_confidence": 95,
+    "non_ai_confidence": 0,
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline, detailing the steps for continuous integration and deployment, and emphasising the automation of the release process.",
+    "level": "Secondary"
+  },
+  "Product Backlog": {
+    "category": "Product Backlog",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and configuring environments, with no clear discussion or emphasis on a product backlog.",
+    "level": "Ignored"
+  },
+  "Ability to Innovate": {
+    "category": "Ability to Innovate",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 41.0,
+    "reasoning": "The content discusses the creation of a Release Management pipeline and the automation of deployment processes, which indicates a focus on innovation in software development practices. However, the primary focus is on technical implementation rather than a broader exploration of innovative concepts.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "ai_confidence": 85,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline, which inherently involves continuous improvement practices through automation, feedback loops, and iterative deployment processes.",
+    "level": "Secondary"
+  },
+  "Scrum Master": {
+    "category": "Scrum Master",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and technical details related to DevOps, with only brief mentions of team dynamics and roles, which are not central to the topic.",
+    "level": "Ignored"
+  },
+  "Cross Functional Teams": {
+    "category": "Cross Functional Teams",
+    "ai_confidence": 85,
+    "non_ai_confidence": 20,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the roles of development teams, product owners, and testers in the context of a release management pipeline, highlighting collaboration and feedback processes.",
+    "level": "Secondary"
+  },
+  "Team Motivation": {
+    "category": "Team Motivation",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of team collaboration and feedback loops in the context of a development pipeline, indicating a focus on team dynamics and motivation, but it is primarily about technical implementation.",
+    "level": "Ignored"
+  },
+  "Psychological Safety": {
+    "category": "Psychological Safety",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and technical aspects of deployment, with no clear discussion on psychological safety.",
+    "level": "Ignored"
+  },
+  "CI/CD": {
+    "category": "CI/CD",
+    "ai_confidence": 95,
+    "non_ai_confidence": 0,
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline, detailing the steps for continuous integration and deployment, and discussing various aspects of the CI/CD process extensively.",
+    "level": "Secondary"
+  },
+  "Lean Thinking": {
+    "category": "Lean Thinking",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and automating deployments, with no clear emphasis on Lean Thinking principles.",
+    "level": "Ignored"
+  },
+  "Systems Thinking": {
+    "category": "Systems Thinking",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and the technical details involved in setting it up, rather than discussing Systems Thinking as a central theme.",
+    "level": "Ignored"
+  },
+  "Customer Feedback Loops": {
+    "category": "Customer Feedback Loops",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 59.0,
+    "reasoning": "The content discusses the importance of feedback environments and the role of stakeholders in the release process, indicating a strong focus on customer feedback loops.",
+    "level": "Secondary"
+  },
+  "Evidence Based Improvement": {
+    "category": "Evidence Based Improvement",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the setup of a Release Management pipeline and the importance of feedback loops in the deployment process, indicating a focus on improving practices based on evidence from previous experiences.",
+    "level": "Ignored"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and does not discuss Kanban as a central topic.",
+    "level": "Ignored"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "ai_confidence": 92,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "Content primarily focuses on creating a Release Management pipeline, detailing technical steps, configurations, and best practices for professional developers.",
+    "level": "Secondary"
+  },
+  "Scrum Product Management": {
+    "category": "Scrum Product Management",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 41.0,
+    "reasoning": "The content discusses aspects of deployment and feedback loops relevant to Scrum, but the primary focus is on technical implementation rather than Scrum product management itself.",
+    "level": "Ignored"
+  },
+  "Featured": {
+    "category": "Featured",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 59.0,
+    "reasoning": "Content primarily focuses on creating a Release Management pipeline, detailing the steps and considerations involved in the process, making it a central topic.",
+    "level": "Secondary"
+  },
+  "Adaptive Strategy": {
+    "category": "Adaptive Strategy",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the creation of a Release Management pipeline and the importance of feedback loops in deployment processes, indicating a focus on adaptive strategies in software development.",
+    "level": "Ignored"
+  },
+  "Sensemaking": {
+    "category": "Sensemaking",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the process of creating a Release Management pipeline, which involves understanding and interpreting various components and configurations. However, the primary focus is on technical implementation rather than on sensemaking as a central theme.",
+    "level": "Ignored"
+  },
+  "Lead Time": {
+    "category": "Lead Time",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and the associated technical details, with no clear emphasis on lead time as a central topic.",
+    "level": "Ignored"
+  },
+  "Agile Scaling": {
+    "category": "Agile Scaling",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the creation of a Release Management pipeline and touches on team dynamics and project management principles, which are relevant to Agile Scaling, but the primary focus is on technical implementation rather than scaling Agile practices.",
+    "level": "Ignored"
+  },
+  "Agile Mentoring": {
+    "category": "Agile Mentoring",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses aspects of team collaboration and feedback loops in the context of a release management pipeline, which aligns with Agile principles, but the primary focus is on technical implementation rather than mentoring.",
+    "level": "Ignored"
+  },
+  "Test First Development": {
+    "category": "Test First Development",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 41.0,
+    "reasoning": "The content discusses the importance of having tests in the build process and mentions making the build fail if tests fail, indicating a focus on testing within the development pipeline.",
+    "level": "Ignored"
+  },
+  "Collaboration Tools": {
+    "category": "Collaboration Tools",
+    "ai_confidence": 75,
+    "non_ai_confidence": 10,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the use of Team Foundation Server and Release Management in a collaborative development environment, highlighting team interactions and project management aspects, making collaboration a significant theme.",
+    "level": "Secondary"
+  },
+  "Engineering Practices": {
+    "category": "Engineering Practices",
+    "ai_confidence": 95,
+    "non_ai_confidence": 0,
+    "final_score": 66.0,
+    "reasoning": "Content primarily focuses on creating a Release Management pipeline, detailing engineering practices related to DevOps, continuous integration, and deployment processes.",
+    "level": "Secondary"
+  },
+  "Lean UX": {
+    "category": "Lean UX",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and does not discuss Lean UX principles or practices.",
+    "level": "Ignored"
+  },
+  "Continuous Delivery": {
+    "category": "Continuous Delivery",
+    "ai_confidence": 95,
+    "non_ai_confidence": 10,
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline, detailing the steps for continuous deployment, environment configuration, and automated builds, which are central to Continuous Delivery practices.",
+    "level": "Secondary"
+  },
+  "Azure Repos": {
+    "category": "Azure Repos",
+    "ai_confidence": 85,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline, which involves using Azure DevOps services, including Azure Repos for source control and Git repositories. It discusses the integration of these services in the context of deployment and build processes, making Azure Repos a central theme.",
+    "level": "Secondary"
+  },
+  "Agile Problem Solving": {
+    "category": "Agile Problem Solving",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "Content primarily focuses on creating a Release Management pipeline, which involves collaboration and iterative processes typical of Agile methodologies.",
+    "level": "Secondary"
+  },
+  "Agile Certifications": {
+    "category": "Agile Certifications",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and does not discuss Agile certifications as a clear, primary topic.",
+    "level": "Ignored"
+  },
+  "Operational Practices": {
+    "category": "Operational Practices",
+    "ai_confidence": 92,
+    "non_ai_confidence": 0,
+    "final_score": 64.0,
+    "reasoning": "Content heavily discusses the creation and management of a Release Management pipeline, including deployment strategies, environment configurations, and automation practices, which are central to operational practices in software development.",
+    "level": "Secondary"
+  },
+  "Windows": {
+    "category": "Windows",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the use of Visual Studio and Team Foundation Server (TFS) in the context of creating a Release Management pipeline, which is relevant to Windows development environments, but the primary focus is on DevOps practices rather than Windows itself.",
+    "level": "Ignored"
+  },
+  "Evidence Based Leadership": {
+    "category": "Evidence Based Leadership",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and technical details related to DevOps practices, with no clear emphasis on Evidence Based Leadership.",
+    "level": "Ignored"
+  },
+  "Test Strategy": {
+    "category": "Test Strategy",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses aspects of build and release management, including the importance of failing builds when tests fail, which indicates a focus on testing within the deployment pipeline. However, the primary focus is on the release management process rather than a comprehensive test strategy.",
+    "level": "Ignored"
+  },
+  "Customer Retention": {
+    "category": "Customer Retention",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and technical details related to deployment processes, with no clear emphasis on customer retention strategies or themes.",
+    "level": "Ignored"
+  },
+  "Site Reliability Engineering": {
+    "category": "Site Reliability Engineering",
+    "ai_confidence": 85,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline, which is a key aspect of Site Reliability Engineering, particularly in the context of automated deployments and monitoring.",
+    "level": "Secondary"
+  },
+  "Discovery and Learning": {
+    "category": "Discovery and Learning",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the process of creating a Release Management pipeline, which involves learning about various tools and techniques in software development. However, the primary focus is on the technical implementation rather than on discovery and learning as a central theme.",
+    "level": "Ignored"
+  },
+  "Business Agility": {
+    "category": "Business Agility",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 59.0,
+    "reasoning": "Content primarily focuses on creating a Release Management pipeline, which is essential for enhancing business agility through automated deployments and feedback loops.",
+    "level": "Secondary"
+  },
+  "Professional Scrum": {
+    "category": "Professional Scrum",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses aspects of team collaboration and feedback loops, which are relevant to Scrum practices, but the primary focus is on Release Management and DevOps processes.",
+    "level": "Ignored"
+  },
+  "Complexity Thinking": {
+    "category": "Complexity Thinking",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the intricacies of setting up a Release Management pipeline, which involves understanding complex systems and interactions, but the primary focus is on practical implementation rather than theoretical exploration of complexity thinking.",
+    "level": "Ignored"
+  },
+  "Mentoring": {
+    "category": "Mentoring",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and technical details related to DevOps practices, with no clear emphasis on mentoring or guidance.",
+    "level": "Ignored"
+  },
+  "Enterprise Agility": {
+    "category": "Enterprise Agility",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 59.0,
+    "reasoning": "Content primarily focuses on creating a Release Management pipeline, which is a key aspect of enterprise agility, emphasising automation, feedback loops, and collaboration within development teams.",
+    "level": "Secondary"
+  },
+  "Deployment Frequency": {
+    "category": "Deployment Frequency",
+    "ai_confidence": 92,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "Content primarily focuses on creating a Release Management pipeline, detailing the steps for continuous deployment and the configuration of environments, which are central to deployment frequency.",
+    "level": "Secondary"
+  },
+  "Agile Software Engineering": {
+    "category": "Agile Software Engineering",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 59.0,
+    "reasoning": "Content primarily focuses on creating a Release Management pipeline, which is a key aspect of Agile practices, particularly in DevOps and continuous delivery.",
+    "level": "Secondary"
+  },
+  "Agile Product Validation": {
+    "category": "Agile Product Validation",
+    "ai_confidence": 85,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "Content primarily focuses on creating a release management pipeline, which is integral to validating product increments in an Agile environment, including feedback loops and stakeholder engagement.",
+    "level": "Secondary"
+  },
+  "Technical Mastery": {
+    "category": "Technical Mastery",
+    "ai_confidence": 92,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "Content primarily focuses on creating a Release Management pipeline, detailing technical steps, configurations, and best practices for professional developers.",
+    "level": "Secondary"
+  }
+}
