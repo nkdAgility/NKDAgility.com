@@ -26,27 +26,25 @@ aliasesFor404:
 - /blog/migrating-source-from-perforce-to-git-on-vso
 - /resources/blog/migrating-source-perforce-git-vso
 tags:
-- Modern Source Control
-- Agile Tools
-- Continuous Integration
 - DevOps
-- Technical Debt
-- Agile Software Development
-- Value Stream Management
-- Agile Project Management
+- Software Development
+- Modern Source Control
+- Software Developers
+- Working Software
 - Azure DevOps
-- Organisational Change
-- Agile Transformation
-- Customer Feedback Loops
-- Lean Thinking
-- Evidence Based Management
-- Technical Excellence
-categories:
-- Azure DevOps
+- Azure Repos
 - Application Lifecycle Management
-- Practical Techniques and Tooling
+- Change Management
+- Technical Excellence
+- CI/CD
+- Technical Mastery
+- Technical Strategy
+- Organisational Change
+- Agile Digital Tools
+categories:
+- DevOps
+- Install and Configuration
 - Code and Complexity
-- Value Delivery
 preview: naked-alm-git-1-1.png
 
 ---

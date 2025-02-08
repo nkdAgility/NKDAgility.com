@@ -1150,5 +1150,349 @@
     "final_score": 0.0,
     "reasoning": "The content primarily discusses the technical process of migrating source control from Perforce to Git, with a focus on practical steps and challenges involved in the migration. Lean Thinking is not a central theme.",
     "level": "Ignored"
+  },
+  "Systems Thinking": {
+    "category": "Systems Thinking",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": null,
+    "level": "Ignored"
+  },
+  "Customer Feedback Loops": {
+    "category": "Customer Feedback Loops",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": null,
+    "level": "Ignored"
+  },
+  "Evidence Based Improvement": {
+    "category": "Evidence Based Improvement",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": null,
+    "level": "Ignored"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the migration of source control from Perforce to Git within a Visual Studio Online environment, focusing on technical aspects of version control systems, migration strategies, and cloud integration. There is no mention or discussion of Kanban or related methodologies, making the category not relevant to the content.",
+    "level": "Ignored"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "ai_confidence": 92,
+    "non_ai_confidence": 0,
+    "final_score": 64.0,
+    "reasoning": "The content primarily discusses the migration process from Perforce to Git, focusing on achieving a more efficient and robust version control system. It details technical strategies and best practices for managing source code, improving build processes, and enhancing overall software development practices, which are central themes of technical excellence.",
+    "level": "Secondary"
+  },
+  "Scrum Product Management": {
+    "category": "Scrum Product Management",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on technical aspects of migrating source control from Perforce to Git, including detailed steps and considerations for the migration process. It does not discuss Scrum Product Management practices, roles, or methodologies in any significant detail.",
+    "level": "Ignored"
+  },
+  "Featured": {
+    "category": "Featured",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on the technical process and considerations involved in migrating source control from Perforce to Git on VSO, rather than discussing or featuring any specific topic or entity as a primary theme.",
+    "level": "Ignored"
+  },
+  "Adaptive Strategy": {
+    "category": "Adaptive Strategy",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating source control from Perforce to Git on VSO, including detailed steps and considerations for the migration. It does not discuss adaptive strategies or organizational adaptability as a primary topic.",
+    "level": "Ignored"
+  },
+  "Sensemaking": {
+    "category": "Sensemaking",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating source control from Perforce to Git on VSO, including detailed steps and considerations for the migration. It does not primarily discuss or engage with the concept of sensemaking in a clear or central manner.",
+    "level": "Ignored"
+  },
+  "Lead Time": {
+    "category": "Lead Time",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on the technical process and considerations involved in migrating source control from Perforce to Git on VSO, including steps, challenges, and benefits. It does not discuss or focus on 'Lead Time' or related concepts as a primary topic.",
+    "level": "Ignored"
+  },
+  "Agile Scaling": {
+    "category": "Agile Scaling",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating source control from Perforce to Git within a Visual Studio Online environment. It discusses the migration process, challenges, and benefits of using Git for version control, but does not address Agile Scaling methodologies or practices directly.",
+    "level": "Ignored"
+  },
+  "Agile Mentoring": {
+    "category": "Agile Mentoring",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on technical aspects of migrating source control from Perforce to Git, including detailed steps and considerations for the migration process. It does not discuss Agile mentoring or related practices in any significant way.",
+    "level": "Ignored"
+  },
+  "Test First Development": {
+    "category": "Test First Development",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the process of migrating source control from Perforce to Git on VSO, focusing on technical steps and considerations for migration, rather than Test First Development or related methodologies.",
+    "level": "Ignored"
+  },
+  "Collaboration Tools": {
+    "category": "Collaboration Tools",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating source control from Perforce to Git within a Visual Studio Online environment, discussing tools, scripts, and strategies for effective source control management. Collaboration tools are not a central theme of the discussion.",
+    "level": "Ignored"
+  },
+  "Engineering Practices": {
+    "category": "Engineering Practices",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses the migration process from Perforce to Git, focusing on engineering practices such as version control systems, repository management, and build processes. It details practical steps and considerations for engineering teams during migration, emphasizing the importance of engineering methodologies in managing and structuring source control to improve workflow and efficiency.",
+    "level": "Secondary"
+  },
+  "Lean UX": {
+    "category": "Lean UX",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the technical process of migrating source control from Perforce to Git on VSO, focusing on technical steps, challenges, and benefits related to version control systems and cloud integration. It does not discuss or relate to Lean UX principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Continuous Delivery": {
+    "category": "Continuous Delivery",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses the process and considerations involved in migrating source control from Perforce to Git on VSO, which includes continuous integration and deployment practices such as creating CI builds and setting up build servers. These are key components of Continuous Delivery.",
+    "level": "Secondary"
+  },
+  "Azure Repos": {
+    "category": "Azure Repos",
+    "ai_confidence": 92,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content primarily discusses the process of migrating source control from Perforce to Git within the context of Visual Studio Online (VSO), which is now known as Azure Repos. It details the steps involved in setting up and managing repositories in VSO, making the Azure Repos service a central theme of the content.",
+    "level": "Secondary"
+  },
+  "Agile Problem Solving": {
+    "category": "Agile Problem Solving",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating source control from Perforce to Git on VSO, discussing tools, strategies, and challenges related to version control systems. It does not address or focus on agile problem-solving methodologies or practices.",
+    "level": "Ignored"
+  },
+  "Agile Certifications": {
+    "category": "Agile Certifications",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the technical process of migrating source control from Perforce to Git within a Visual Studio Online environment, focusing on technical steps and considerations. There is no mention or discussion of Agile certifications or related methodologies.",
+    "level": "Ignored"
+  },
+  "Operational Practices": {
+    "category": "Operational Practices",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses the migration process from Perforce to Git on VSO, focusing on operational practices such as repository management, build processes, and dependency management. It includes detailed steps and considerations for operational efficiency and effective team collaboration in a software development environment.",
+    "level": "Secondary"
+  },
+  "Windows": {
+    "category": "Windows",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the migration of source control from Perforce to Git within the context of Visual Studio Online (VSO), focusing on technical processes and strategies for effective version control migration. There is no significant mention or focus on Windows as a primary topic.",
+    "level": "Ignored"
+  },
+  "Evidence Based Leadership": {
+    "category": "Evidence Based Leadership",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on technical aspects of migrating source control from Perforce to Git within a VSO environment, including detailed steps and considerations for the migration process. It does not discuss or focus on leadership strategies, decision-making processes, or the implementation of evidence-based practices in leadership roles.",
+    "level": "Ignored"
+  },
+  "Test Strategy": {
+    "category": "Test Strategy",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the process and considerations involved in migrating source control from Perforce to Git on VSO, focusing on technical steps, challenges, and benefits of using Git. It does not focus on or substantially address test strategies or related methodologies.",
+    "level": "Ignored"
+  },
+  "Customer Retention": {
+    "category": "Customer Retention",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating source control from Perforce to Git on VSO, discussing the steps, challenges, and benefits of such a migration. It does not address strategies, practices, or theories directly related to retaining customers.",
+    "level": "Ignored"
+  },
+  "Site Reliability Engineering": {
+    "category": "Site Reliability Engineering",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on the migration of source control systems from Perforce to Git within a Visual Studio Online environment, discussing technical aspects of version control systems, migration strategies, and DevOps practices. While there are mentions of build servers and cloud infrastructure, which are tangentially related to Site Reliability Engineering, these are not the central themes of the content. The primary focus is on version control and migration, not on the reliability or scalability aspects typically associated with Site Reliability Engineering.",
+    "level": "Ignored"
+  },
+  "Discovery and Learning": {
+    "category": "Discovery and Learning",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating source control from Perforce to Git on VSO, including detailed steps and considerations for the migration. It does not primarily discuss or explore themes of discovery and learning.",
+    "level": "Ignored"
+  },
+  "Business Agility": {
+    "category": "Business Agility",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on technical aspects of migrating source control from Perforce to Git within a Visual Studio Online environment. It discusses tools, processes, and challenges related to the migration and does not focus on or significantly discuss business agility or related concepts.",
+    "level": "Ignored"
+  },
+  "Professional Scrum": {
+    "category": "Professional Scrum",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the technical process of migrating source control from Perforce to Git within a Visual Studio Online environment, focusing on technical steps and considerations rather than on Scrum methodologies or practices.",
+    "level": "Ignored"
+  },
+  "Complexity Thinking": {
+    "category": "Complexity Thinking",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating source control from Perforce to Git on VSO, including detailed steps and considerations for the migration. It does not discuss or engage with complexity thinking as a primary or significant theme.",
+    "level": "Ignored"
+  },
+  "Mentoring": {
+    "category": "Mentoring",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating source control from Perforce to Git on VSO, including detailed steps and considerations for the migration. Mentoring or guidance in a broader, educational sense is not a central theme of the content.",
+    "level": "Ignored"
+  },
+  "Enterprise Agility": {
+    "category": "Enterprise Agility",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on technical aspects of migrating source control from Perforce to Git within a Visual Studio Online environment. It discusses tools, processes, and challenges related to source control migration and does not delve into broader themes of enterprise agility such as organizational change, agile methodologies, or business agility.",
+    "level": "Ignored"
+  },
+  "Deployment Frequency": {
+    "category": "Deployment Frequency",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the process and considerations involved in migrating source control from Perforce to Git on VSO, focusing on technical steps and challenges. Deployment frequency is not a central theme or directly addressed in the content.",
+    "level": "Ignored"
+  },
+  "Agile Software Engineering": {
+    "category": "Agile Software Engineering",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on technical aspects of migrating source control from Perforce to Git, including detailed steps and considerations for the migration process. It does not discuss Agile Software Engineering principles, methodologies, or practices in any significant detail.",
+    "level": "Ignored"
+  },
+  "Agile Product Validation": {
+    "category": "Agile Product Validation",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating source control from Perforce to Git within a Visual Studio Online environment. It discusses the migration process, challenges, and benefits of using Git for version control, but does not specifically address Agile Product Validation or related methodologies.",
+    "level": "Ignored"
+  },
+  "Technical Mastery": {
+    "category": "Technical Mastery",
+    "ai_confidence": 92,
+    "non_ai_confidence": 0,
+    "final_score": 64.0,
+    "reasoning": "The content primarily focuses on the detailed technical process and considerations involved in migrating source control from Perforce to Git on VSO, demonstrating a high level of technical expertise and mastery in handling complex version control systems and migration strategies.",
+    "level": "Secondary"
+  },
+  "Data Driven Decisions": {
+    "category": "Data Driven Decisions",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating source control from Perforce to Git on VSO, discussing tools, strategies, and challenges associated with the migration. It does not discuss or focus on data-driven decision-making processes or methodologies.",
+    "level": "Ignored"
+  },
+  "Definition of Done": {
+    "category": "Definition of Done",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the process of migrating source control from Perforce to Git on VSO, discussing technical steps and considerations. The 'Definition of Done' is not a central theme or a major secondary theme in the content.",
+    "level": "Ignored"
+  },
+  "Agile Portfolio Management": {
+    "category": "Agile Portfolio Management",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on technical details of migrating source control from Perforce to Git within a Visual Studio Online environment. It discusses issues related to repository management, build processes, and integration with cloud services, but does not address Agile Portfolio Management as a central theme.",
+    "level": "Ignored"
+  },
+  "Behaviour Driven Development": {
+    "category": "Behaviour Driven Development",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on the technical aspects and processes involved in migrating source control from Perforce to Git on VSO, including discussions on repository management, build processes, and cloud integration. There is no mention or focus on Behaviour Driven Development or related practices.",
+    "level": "Ignored"
+  },
+  "Product Discovery": {
+    "category": "Product Discovery",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating source control from Perforce to Git within a Visual Studio Online environment, discussing tools, strategies, and challenges associated with the migration. It does not focus on or significantly discuss product discovery or related processes.",
+    "level": "Ignored"
+  },
+  "Hypothesis Driven Development": {
+    "category": "Hypothesis Driven Development",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating source control from Perforce to Git on VSO, discussing practical steps, challenges, and benefits related to version control systems and cloud integration. It does not discuss or involve hypothesis-driven development methodologies or principles.",
+    "level": "Ignored"
+  },
+  "Asynchronous Development": {
+    "category": "Asynchronous Development",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on the process of migrating source control from Perforce to Git, discussing technical steps and considerations. It does not primarily discuss or focus on asynchronous development methods or principles.",
+    "level": "Ignored"
   }
 }

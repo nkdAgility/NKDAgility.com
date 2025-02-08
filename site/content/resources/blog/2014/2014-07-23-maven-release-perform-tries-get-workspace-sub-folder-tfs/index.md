@@ -26,26 +26,25 @@ aliasesFor404:
 - /blog/maven-release-perform-tries-to-do-a-get-to-a-workspace-sub-folder-in-tfs
 - /resources/blog/maven-release-perform-tries-get-workspace-sub-folder-tfs
 tags:
-- Deployment Frequency
-- Continuous Integration
-- Agile Software Development
-- Technical Debt
-- DevOps
-- Agile Product Management
-- Value Stream Management
-- Team Collaboration
-- Agile Transformation
-- Evidence Based Management
-- Agile Digital Tools
-- Technical Excellence
+- Software Development
+- Software Developers
+- Troubleshooting
+- Application Lifecycle Management
 - Release Planning
-- Organisational Change
-categories:
+- Deployment Strategies
+- Working Software
+- System Configuration
+- Modern Source Control
+- Azure Repos
+- Engineering Practices
+- Technical Excellence
+- CI/CD
+- Technical Mastery
 - Azure DevOps
+categories:
 - Install and Configuration
-- Practical Techniques and Tooling
 - Code and Complexity
-- Value Delivery
+- Practical Techniques and Tooling
 preview: naked-alm-jenkins-logo-2-2.png
 
 ---

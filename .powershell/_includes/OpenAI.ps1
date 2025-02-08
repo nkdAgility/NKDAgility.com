@@ -11,7 +11,7 @@ function Call-OpenAI {
     
         # OpenAI API Key
         [Parameter(Mandatory = $true)]
-        [string]$OPEN_AI_KEY
+        [string]$OPEN_AI_KEY = $env:OPENAI_API_KEY
     )
 
     # Set the API endpoint and API key
@@ -35,7 +35,7 @@ function Call-OpenAI {
 
     # Define retry parameters
     $maxRetries = 5
-    $retryDelay = 300  # Initial delay in seconds
+    $retryDelay = 4  # Initial delay in seconds
 
     for ($attempt = 1; $attempt -le $maxRetries; $attempt++) {
         try {
@@ -160,5 +160,119 @@ function Get-OpenAIResponse {
     
     return $fullResult
 }
+
+
+#######################################################
+#######################################################
+#######################################################
+
+function Submit-OpenAIBatch {
+    param (
+        [string]$OPEN_AI_KEY = $env:OPENAI_API_KEY,
+        [string]$Model = "gpt-4o-mini",
+        [array]$Prompts,
+        [string]$OutputFile = "batch_output.jsonl"
+    )
+    
+    $BatchFile = "batch_input.jsonl"
+
+    $BatchData = $Prompts | ForEach-Object {
+        [PSCustomObject]@{
+            custom_id = "request-$([System.Guid]::NewGuid().ToString())"
+            method    = "POST"
+            url       = "/v1/chat/completions"
+            body      = @{
+                model      = $Model
+                messages   = @(
+                    @{ role = "system"; content = "You are a helpful assistant." },
+                    @{ role = "user"; content = $_ }
+                )
+                max_tokens = 1000
+            }
+        } | ConvertTo-Json -Depth 10 -Compress
+    } 
+    
+    # Ensure each JSON object is written as a new line in the .jsonl file
+    $BatchData -join "`n" | Set-Content -Path $BatchFile -Encoding utf8
+    
+    # Upload the batch file
+    $UploadResponse = Invoke-RestMethod -Uri "https://api.openai.com/v1/files" -Headers @{"Authorization" = "Bearer $OPEN_AI_KEY" } -Method Post -Form @{purpose = "batch"; file = Get-Item $BatchFile }
+    $FileId = $UploadResponse.id
+    
+    # Create batch
+    $BatchRequest = @{input_file_id = $FileId; endpoint = "/v1/chat/completions"; completion_window = "24h" } | ConvertTo-Json
+    $BatchResponse = Invoke-RestMethod -Uri "https://api.openai.com/v1/batches" -Headers @{"Authorization" = "Bearer $OPEN_AI_KEY"; "Content-Type" = "application/json" } -Method Post -Body $BatchRequest
+    $BatchId = $BatchResponse.id
+    
+    Write-Host "Batch submitted. ID: $BatchId"
+    return $BatchId
+}
+
+function Get-OpenAIBatchStatus {
+    param (
+        [string]$OPEN_AI_KEY = $env:OPENAI_API_KEY,
+        [string]$BatchId
+    )
+    
+    $Response = Invoke-RestMethod -Uri "https://api.openai.com/v1/batches/$BatchId" -Headers @{"Authorization" = "Bearer $OPEN_AI_KEY"; "Content-Type" = "application/json" } -Method Get
+    return $Response.status
+}
+
+function Retrieve-OpenAIBatchResults {
+    param (
+        [string]$OPEN_AI_KEY,
+        [string]$BatchId,
+        [string]$OutputFile = "batch_output.jsonl"
+    )
+    
+    # Get batch details
+    $BatchDetails = Invoke-RestMethod -Uri "https://api.openai.com/v1/batches/$BatchId" -Headers @{"Authorization" = "Bearer $OPEN_AI_KEY"; "Content-Type" = "application/json" } -Method Get
+    if ($BatchDetails.status -ne "completed") {
+        Write-Host "Batch is not yet completed. Current status: $($BatchDetails.status)"
+        return $null
+    }
+    
+    # Download the output file
+    $OutputFileId = $BatchDetails.output_file_id
+    Invoke-RestMethod -Uri "https://api.openai.com/v1/files/$OutputFileId/content" -Headers @{"Authorization" = "Bearer $OPEN_AI_KEY" } -OutFile $OutputFile
+    
+    Write-Host "Batch results saved to $OutputFile"
+    return Get-Content $OutputFile
+}
+
+function Cancel-OpenAIBatch {
+    param (
+        [string]$OPEN_AI_KEY = $env:OPENAI_API_KEY,
+        [string]$BatchId
+    )
+    
+    Invoke-RestMethod -Uri "https://api.openai.com/v1/batches/$BatchId/cancel" -Headers @{"Authorization" = "Bearer $OPEN_AI_KEY"; "Content-Type" = "application/json" } -Method Post
+    Write-Host "Batch cancellation requested for $BatchId"
+}
+
+function Submit-And-Wait-OpenAIBatch {
+    param (
+        [string]$OPEN_AI_KEY = $env:OPENAI_API_KEY,
+        [string]$Model = "gpt-4o-mini",
+        [array]$Prompts,
+        [string]$OutputFile = "batch_output.jsonl"
+    )
+    
+    $BatchId = Submit-OpenAIBatch -ApiKey $OPEN_AI_KEY -Model $Model -Prompts $Prompts -OutputFile $OutputFile
+    
+    Write-Host "Waiting for batch completion..."
+    while ($true) {
+        Start-Sleep -Seconds 30
+        $BatchId$Status = Get-OpenAIBatchStatus -ApiKey $OPEN_AI_KEY -BatchId $BatchId
+        Write-Host "Current batch status: $Status"
+        if ($Status -eq "completed") {
+            break
+        }
+    }
+    
+    return Retrieve-OpenAIBatchResults -ApiKey $OPEN_AI_KEY -BatchId $BatchId -OutputFile $OutputFile
+}
+
+
 
 Write-InfoLog "OpenAI.ps1 loaded" 
