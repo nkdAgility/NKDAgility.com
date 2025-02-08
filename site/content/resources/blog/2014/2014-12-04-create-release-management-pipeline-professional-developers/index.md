@@ -26,26 +26,25 @@ aliasesFor404:
 - /blog/create-a-release-management-pipeline-for-professional-developers
 - /resources/blog/create-release-management-pipeline-professional-developers
 tags:
-- Continuous Delivery
-- Deployment Frequency
-- Agile Tools
+- DevOps
+- Application Lifecycle Management
 - Azure DevOps
+- Deployment Strategies
+- Software Developers
+- Working Software
+- Continuous Delivery
+- Azure Pipelines
+- Software Development
+- Agility
+- Continuous Integration
 - Release Planning
-- Technical Excellence
-- Automated Testing
-- Agile Product Management
-- Value Stream Management
-- Agile Software Development
-- Agile Product Ownership
-- Customer Feedback Loops
-- Continuous Improvement
-- Agile Frameworks
+- Agile Digital Tools
+- Agile Tools
+- System Configuration
 categories:
+- DevOps
 - Install and Configuration
 - Azure DevOps
-- DevOps
-- Practical Techniques and Tooling
-- Events and Presentations
 preview: nakedalm-experts-visual-studio-alm-46-46.png
 
 ---

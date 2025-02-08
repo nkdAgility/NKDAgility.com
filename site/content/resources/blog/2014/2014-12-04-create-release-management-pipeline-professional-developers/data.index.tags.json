@@ -1438,5 +1438,61 @@
     "final_score": 67.0,
     "reasoning": "Content primarily focuses on creating a Release Management pipeline, detailing technical steps, configurations, and best practices for professional developers.",
     "level": "Secondary"
+  },
+  "Data Driven Decisions": {
+    "category": "Data Driven Decisions",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the setup of a Release Management pipeline and the importance of feedback loops, which are related to data-driven decision-making, but the primary focus is on technical implementation rather than explicitly on data-driven decisions.",
+    "level": "Ignored"
+  },
+  "Definition of Done": {
+    "category": "Definition of Done",
+    "ai_confidence": 50,
+    "non_ai_confidence": 30,
+    "final_score": 44.0,
+    "reasoning": "The content discusses deployment processes and feedback loops, which are related to the concept of 'Definition of Done', but it primarily focuses on creating a release management pipeline.",
+    "level": "Ignored"
+  },
+  "Agile Portfolio Management": {
+    "category": "Agile Portfolio Management",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and configuring deployment processes, with no clear emphasis on Agile Portfolio Management principles or practices.",
+    "level": "Ignored"
+  },
+  "Behaviour Driven Development": {
+    "category": "Behaviour Driven Development",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and automating deployments, with no clear emphasis on Behaviour Driven Development principles or practices.",
+    "level": "Ignored"
+  },
+  "Product Discovery": {
+    "category": "Product Discovery",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and configuring deployment processes, with no clear emphasis on product discovery.",
+    "level": "Ignored"
+  },
+  "Hypothesis Driven Development": {
+    "category": "Hypothesis Driven Development",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and configuring environments, with no clear emphasis on hypothesis-driven development principles.",
+    "level": "Ignored"
+  },
+  "Asynchronous Development": {
+    "category": "Asynchronous Development",
+    "ai_confidence": 85,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline, which involves asynchronous deployment processes and automated environment deployments, making asynchronous development a central theme.",
+    "level": "Secondary"
   }
 }

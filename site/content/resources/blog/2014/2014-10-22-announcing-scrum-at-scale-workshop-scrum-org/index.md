@@ -26,26 +26,25 @@ aliasesFor404:
 - /blog/upcomming-scrum-at-scale-workshop-from-scrum-org
 - /resources/blog/announcing-scrum-at-scale-workshop-scrum-org
 tags:
-- Scaled Agile
-- Change Management
-- Organisational Change
-- Evidence Based Management
-- Scrum Team
-- Scrum Product Development
-- Agile Leadership
-- Continuous Improvement
-- Organisational Culture
-- Agile Transformation
-- Enterprise Agility
-- Agile Values and Principles
-- Leadership Training
+- Agility
+- Scrum
+- Agile Software Development
 - Agile Scaling
-categories:
-- Scaling Agility
 - Organisational Agility
-- Enterprise Agility
+- Scrum Product Development
+- Large Scale Agility
+- Organisational Culture
+- Change Management
+- Agile Project Management
+- Organisational Change
+- Scaling Scrum
+- Scaling Agility
+- Evidence Based Management
+- Business Agility
+categories:
+- Scrum
 - People and Process
-- Metrics and Learning
+- Scaling Agility
 preview: nakedalm-experts-professional-scrum-2-2.png
 
 ---

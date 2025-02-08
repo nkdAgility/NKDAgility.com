@@ -30,26 +30,25 @@ aliasesFor404:
 - /blog/ndc-london--second-look--team-foundation-server-&amp;-vso
 - /resources/blog/ndc-london-second-look-team-foundation-server-vso
 tags:
+- Application Lifecycle Management
 - Agile Tools
-- Application Lifecycle Management
+- Agile Digital Tools
+- Azure Boards
+- Azure DevOps
+- Working Software
+- Agile Product Ownership
+- Software Developers
+- Scrum Product Management
+- Collaboration Tools
+- Agile Planning Tools
 - Continuous Integration
-- Continuous Delivery
-- Agile Software Development
-- Agile Product Management
-- Agile Planning
-- Team Collaboration
-- DevOps
-- Technical Excellence
-- Agile Product Discovery
-- Customer Feedback Loops
-- Test Driven Development
-- Azure DevOps
+- Software Development
+- People and Process
+- Agile Portfolio Management
 categories:
-- Events and Presentations
-- Azure DevOps
 - Application Lifecycle Management
-- Practical Techniques and Tooling
-- Value Delivery
+- Events and Presentations
+- Product Delivery
 preview: metro-event-icon-7-7.png
 
 ---

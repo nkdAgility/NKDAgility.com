@@ -22,25 +22,25 @@ aliasesFor404:
 - /blog/bruce-lee-on-scrum-and-agile
 - /resources/blog/bruce-lee-on-scrum-and-agile
 tags:
-- Scrum Team
-- Scrum Master
-- Scrum Values
-- Continuous Improvement
-- Agile Values and Principles
-- Technical Excellence
-- Value Delivery
-- Agile Product Management
-- Customer Feedback Loops
-- Lean Thinking
-- Self Organisation
-- Agile Transformation
-- Discovery and Learning
-categories:
-- People and Process
 - Scrum
-- Organisational Agility
-- Discovery and Learning
-- Value Delivery
+- Agile Values and Principles
+- Agile Strategy
+- Agile Problem Solving
+- Agile AI
+- Agile Leader
+- Agile Apocalypse
+- Agile Product Management
+- Agile Methodology
+- Agile Tools
+- Adaptive Strategy
+- Agile Coaching
+- Agile Digital Tools
+- Agile Software Development
+- Agile Evolution
+categories:
+- Scrum
+- Agile Product Management
+- People and Process
 preview: nakedalm-experts-professional-scrum-2-2.png
 
 ---

@@ -26,26 +26,25 @@ aliasesFor404:
 - /blog/bug-in-the-visual-studio-git-integration-that-results-in-a-merge-conflict
 - /resources/blog/bug-visual-studio-git-integration-results-merge-conflict
 tags:
+- Software Developers
 - Modern Source Control
-- Agile Software Development
-- Technical Excellence
-- Continuous Integration
-- Agile Planning
-- Team Collaboration
-- Agile Problem Solving
-- Agile Software Engineering
+- Software Development
+- Working Software
+- Troubleshooting
 - Change Management
-- Technical Debt
-- Agile Values and Principles
-- Evidence Based Management
-- Agile Transformation
-- Lean Principles
-categories:
-- Application Lifecycle Management
-- Azure DevOps
-- Practical Techniques and Tooling
-- Technical Excellence
+- Engineering Excellence
 - People and Process
+- Operational Practices
+- Windows
+- Working Agreements
+- Engineering Practices
+- Technical Excellence
+- Technical Mastery
+- Asynchronous Development
+categories:
+- Code and Complexity
+- Practical Techniques and Tooling
+- Install and Configuration
 preview: naked-alm-git-2-2.png
 
 ---

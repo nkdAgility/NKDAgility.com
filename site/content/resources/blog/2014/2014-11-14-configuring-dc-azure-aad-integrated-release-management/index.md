@@ -26,24 +26,25 @@ aliasesFor404:
 - /blog/configuring-a-dc-in-azure-for-aad-integrated-release-management
 - /resources/blog/configuring-dc-azure-aad-integrated-release-management
 tags:
+- Windows
+- System Configuration
 - Azure DevOps
-- Agile Software Development
-- Continuous Delivery
-- Agile Product Management
-- Deployment Strategies
 - Technical Excellence
-- Agile Planning Tools
-- Application Lifecycle Management
+- Technical Mastery
+- Software Development
 - DevOps
-- Agile Product Discovery
-- Value Stream Management
-- Evidence Based Management
-- Agile Frameworks
-- Agile Digital Tools
+- Working Software
+- Digital Transformation
+- Operational Practices
+- Software Developers
+- Deployment Strategies
+- CI/CD
+- Engineering Practices
+- Pragmatic Thinking
 categories:
 - Install and Configuration
-- Azure DevOps
-- Events and Presentations
+- Practical Techniques and Tooling
+- Technical Excellence
 preview: nakedalm-windows-logo-22-22.png
 
 ---

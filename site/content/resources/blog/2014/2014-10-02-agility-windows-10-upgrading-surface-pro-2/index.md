@@ -26,27 +26,25 @@ aliasesFor404:
 - /blog/agility-and-windows-10--upgrading-my-surface-pro-2
 - /resources/blog/agility-windows-10-upgrading-surface-pro-2
 tags:
-- Deployment Frequency
-- Scaled Agile
-- Agile Product Discovery
+- Windows
+- Agility
+- Transparency
+- Troubleshooting
+- Software Development
 - Continuous Delivery
-- Customer Feedback Loops
-- Agile Software Development
-- Agile Product Management
-- Organisational Culture
-- Agile Transformation
-- Technical Excellence
-- Agile Digital Tools
-- Agile Methodology
+- Working Software
 - Continuous Improvement
-- Evidence Based Management
+- Software Increment
+- Continuos Delivery
+- Change Management
+- System Configuration
+- CI/CD
+- Customer Feedback Loops
+- Deployment Frequency
 categories:
-- Scaling Agility
-- Organisational Agility
-- Application Lifecycle Management
 - Install and Configuration
-- Technical Excellence
-- Discovery and Learning
+- Product Delivery
+- News and Reviews
 preview: nakedalm-windows-logo-12-12.png
 
 ---

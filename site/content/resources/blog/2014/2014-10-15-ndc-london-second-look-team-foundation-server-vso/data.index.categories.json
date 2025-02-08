@@ -1,0 +1,282 @@
+{
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 59.0,
+    "reasoning": "Content primarily focuses on the capabilities and features of Team Foundation Server and Visual Studio Online, detailing advanced application lifecycle management practices and scenarios for a technical audience.",
+    "level": "Secondary"
+  },
+  "Enterprise Agility": {
+    "category": "Enterprise Agility",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "Content primarily discusses Agile Project Management and the application lifecycle management (ALM) features of Team Foundation Server, which are central to enterprise agility practices.",
+    "level": "Secondary"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses Agile Project Management and includes references to Product Backlog Items (PBIs) and sprints, indicating a significant focus on Scrum practices, but it is primarily centred around Team Foundation Server and Visual Studio Online.",
+    "level": "Ignored"
+  },
+  "Scaling Agility": {
+    "category": "Scaling Agility",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "Content primarily discusses Agile Project Management and the use of TFS in managing the application lifecycle, which aligns closely with the principles of Scaling Agility.",
+    "level": "Secondary"
+  },
+  "People and Process": {
+    "category": "People and Process",
+    "ai_confidence": 85,
+    "non_ai_confidence": 20,
+    "final_score": 66.0,
+    "reasoning": "Content primarily discusses the planning and execution of a session aimed at demonstrating Team Foundation Server (TFS) and Visual Studio Online (VSO), focusing on the processes involved in application lifecycle management, including roles like Product Owner and Tester, as well as feedback mechanisms.",
+    "level": "Secondary"
+  },
+  "Value Stream Management": {
+    "category": "Value Stream Management",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses aspects of Application Lifecycle Management (ALM) and includes references to Agile Project Management and Agile Portfolio Management, which are relevant to value stream management, but the primary focus is on a specific session about Team Foundation Server and Visual Studio Online.",
+    "level": "Ignored"
+  },
+  "Lean": {
+    "category": "Lean",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses Agile Project Management and features related to application lifecycle management, which are relevant to Lean principles, but the primary focus is on Team Foundation Server and Visual Studio Online.",
+    "level": "Ignored"
+  },
+  "Events and Presentations": {
+    "category": "Events and Presentations",
+    "ai_confidence": 95,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on the author's upcoming presentation at NDC London, detailing the session's objectives, target audience, and the topics to be covered, making it a clear central theme.",
+    "level": "Secondary"
+  },
+  "Products and Books": {
+    "category": "Products and Books",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS) and Visual Studio Online (VSO) in detail, focusing on their features and capabilities, which aligns with the category as a major theme, but it is primarily about a speaking engagement and event rather than solely about the products themselves.",
+    "level": "Ignored"
+  },
+  "Complexity Thinking": {
+    "category": "Complexity Thinking",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on a presentation about Team Foundation Server and Visual Studio Online, detailing features, scenarios, and demos rather than discussing complexity thinking as a central theme.",
+    "level": "Ignored"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "ai_confidence": 92,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "Content primarily discusses Team Foundation Server (TFS) and Visual Studio Online (VSO), focusing on their features, use cases, and integration with Azure, making Azure DevOps the central theme.",
+    "level": "Secondary"
+  },
+  "Discovery and Learning": {
+    "category": "Discovery and Learning",
+    "ai_confidence": 85,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on a session aimed at educating attendees about the new features and capabilities of Team Foundation Server and Visual Studio Online, encouraging discovery and learning through demonstrations and feedback requests.",
+    "level": "Secondary"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses Agile Project Management and includes references to managing features and bugs, which are relevant to Kanban principles, but the primary focus is on Team Foundation Server and Visual Studio Online.",
+    "level": "Ignored"
+  },
+  "Decision Theory": {
+    "category": "Decision Theory",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses a presentation on Team Foundation Server and Visual Studio Online, focusing on features, scenarios, and audience engagement rather than decision theory.",
+    "level": "Ignored"
+  },
+  "Application Lifecycle Management": {
+    "category": "Application Lifecycle Management",
+    "ai_confidence": 95,
+    "non_ai_confidence": 30,
+    "final_score": 76.0,
+    "reasoning": "Content primarily focuses on Team Foundation Server (TFS) and Visual Studio Online (VSO) as ALM solutions, detailing their features and use cases throughout the application lifecycle.",
+    "level": "Secondary"
+  },
+  "Code and Complexity": {
+    "category": "Code and Complexity",
+    "ai_confidence": 85,
+    "non_ai_confidence": 20,
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the features and functionalities of Team Foundation Server (TFS) and Visual Studio Online (VSO), focusing on application lifecycle management (ALM) and coding practices, which are central to the topic of code and complexity.",
+    "level": "Secondary"
+  },
+  "News and Reviews": {
+    "category": "News and Reviews",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 41.0,
+    "reasoning": "The content discusses an upcoming speaking engagement at NDC London, which includes details about the session and its focus on Team Foundation Server and Visual Studio Online. While it provides insights into the event, the primary focus is on the speaker's preparation and session content rather than a broader news or review context.",
+    "level": "Ignored"
+  },
+  "Install and Configuration": {
+    "category": "Install and Configuration",
+    "ai_confidence": 75,
+    "non_ai_confidence": 10,
+    "final_score": 56.0,
+    "reasoning": "The content discusses setting up and configuring continuous integration and deployment with VSO and Azure, which is a significant theme in the context of the session. However, it also covers various other aspects of TFS and ALM, making it a major but secondary theme.",
+    "level": "Secondary"
+  },
+  "Sociotechnical Systems": {
+    "category": "Sociotechnical Systems",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the integration of tools and processes in software development, which relates to sociotechnical systems, but the primary focus is on Team Foundation Server and Visual Studio Online rather than the broader sociotechnical context.",
+    "level": "Ignored"
+  },
+  "Flow Efficiency": {
+    "category": "Flow Efficiency",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "Content primarily discusses the application lifecycle management (ALM) features of Team Foundation Server (TFS) and Visual Studio Online (VSO), focusing on improving workflow and efficiency in software development processes.",
+    "level": "Secondary"
+  },
+  "Miscellaneous": {
+    "category": "Miscellaneous",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on a specific session about Team Foundation Server and Visual Studio Online, detailing the speaker's plans and scenarios for the presentation, rather than discussing miscellaneous topics.",
+    "level": "Ignored"
+  },
+  "Practical Techniques and Tooling": {
+    "category": "Practical Techniques and Tooling",
+    "ai_confidence": 92,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "Content primarily focuses on demonstrating the capabilities and features of Team Foundation Server (TFS) and Visual Studio Online (VSO), including detailed scenarios for application lifecycle management, which aligns closely with practical techniques and tooling.",
+    "level": "Secondary"
+  },
+  "Value Delivery": {
+    "category": "Value Delivery",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 59.0,
+    "reasoning": "Content primarily focuses on demonstrating the capabilities of Team Foundation Server (TFS) and Visual Studio Online (VSO) in managing the application lifecycle, which aligns closely with value delivery in software development.",
+    "level": "Secondary"
+  },
+  "Organisational Agility": {
+    "category": "Organisational Agility",
+    "ai_confidence": 75,
+    "non_ai_confidence": 0,
+    "final_score": 52.0,
+    "reasoning": "The content discusses Agile Project Management and features related to Agile methodologies, making it a significant theme, though not the primary focus.",
+    "level": "Secondary"
+  },
+  "AI and Automation in Agility": {
+    "category": "AI and Automation in Agility",
+    "ai_confidence": 0,
+    "non_ai_confidence": 30,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses Team Foundation Server (TFS) and Visual Studio Online (VSO) in the context of application lifecycle management, with a focus on demos and features rather than AI and automation specifically.",
+    "level": "Ignored"
+  },
+  "Market Adaptability": {
+    "category": "Market Adaptability",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses adapting to the European market and addressing the needs of users who have previously tried TFS, indicating a focus on market responsiveness, but it is primarily about a specific session and product features.",
+    "level": "Ignored"
+  },
+  "Personal": {
+    "category": "Personal",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content includes personal experiences and reflections on speaking at events, but the primary focus is on technical topics related to Team Foundation Server and Visual Studio Online.",
+    "level": "Ignored"
+  },
+  "Resilience and Change": {
+    "category": "Resilience and Change",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the evolution of Team Foundation Server and the need for users to reconsider its capabilities, indicating a theme of change. However, the primary focus is on the technical aspects of the session and the features of TFS, making resilience and change a secondary theme.",
+    "level": "Ignored"
+  },
+  "Organisational Psychology": {
+    "category": "Organisational Psychology",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses a technical session on Team Foundation Server and Visual Studio Online, focusing on software development and project management rather than organisational psychology.",
+    "level": "Ignored"
+  },
+  "Metrics and Learning": {
+    "category": "Metrics and Learning",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses features and scenarios related to Team Foundation Server and Visual Studio Online, including aspects of application lifecycle management and feedback mechanisms, which are relevant to metrics and learning, but the primary focus is on the presentation and demo structure rather than metrics themselves.",
+    "level": "Ignored"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 59.0,
+    "reasoning": "Content primarily focuses on Team Foundation Server (TFS) and Visual Studio Online (VSO) in the context of application lifecycle management (ALM), continuous integration, and deployment processes, which are central themes in DevOps.",
+    "level": "Secondary"
+  },
+  "Transparency and Accountability": {
+    "category": "Transparency and Accountability",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily discusses a session on Team Foundation Server and Visual Studio Online, focusing on technical demonstrations and features rather than transparency and accountability.",
+    "level": "Ignored"
+  },
+  "Agile Product Management": {
+    "category": "Agile Product Management",
+    "ai_confidence": 80,
+    "non_ai_confidence": 30,
+    "final_score": 65.0,
+    "reasoning": "Content primarily focuses on Agile Project Management practices, including backlog creation, user story development, and sprint planning, while discussing the use of TFS and VSO in an Agile context.",
+    "level": "Secondary"
+  },
+  "Systems Thinking": {
+    "category": "Systems Thinking",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses a presentation on Team Foundation Server and Visual Studio Online, focusing on specific features and scenarios rather than systems thinking as a central theme.",
+    "level": "Ignored"
+  },
+  "Product Delivery": {
+    "category": "Product Delivery",
+    "ai_confidence": 92,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "Content primarily focuses on delivering a session about Team Foundation Server and Visual Studio Online, detailing the application lifecycle management process and the features relevant to product delivery.",
+    "level": "Secondary"
+  }
+}

@@ -26,12 +26,25 @@ aliasesFor404:
 - /blog/creating-training-virtual-machines-in-azure
 - /resources/blog/creating-training-virtual-machines-azure
 tags:
-- Agile Product Discovery
-- Organisational Agility
+- Windows
+- Software Development
+- System Configuration
+- Azure DevOps
+- Deployment Strategies
+- Technical Excellence
+- Technical Mastery
+- DevOps
+- Troubleshooting
+- Pragmatic Thinking
+- Working Software
+- Digital Transformation
+- Software Developers
+- Value Delivery
+- Engineering Practices
 categories:
 - Install and Configuration
-- Azure DevOps
 - Practical Techniques and Tooling
+- Technical Excellence
 preview: nakedalm-windows-logo-16-16.png
 
 ---

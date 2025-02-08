@@ -27,21 +27,23 @@ aliasesFor404:
 - /resources/blog/uncommitted-changes-messing-sync-git-visual-studio
 tags:
 - Modern Source Control
-- Agile Software Development
+- Software Development
+- DevOps
+- Troubleshooting
+- Working Software
+- Software Developers
 - Technical Excellence
-- Continuous Integration
-- Agile Project Management
-- Change Management
+- Engineering Practices
+- Operational Practices
+- Pragmatic Thinking
+- Technical Mastery
 - Organisational Change
-- Agile Transformation
-- Team Collaboration
-- Evidence Based Management
-- Agile Values and Principles
-- Lean Principles
-- Agile Methodology
-- Agile Digital Tools
+- Change Management
+- Digital Transformation
 categories:
-- Azure DevOps
+- Code and Complexity
+- Practical Techniques and Tooling
+- DevOps
 preview: naked-alm-git-2-2.png
 
 ---

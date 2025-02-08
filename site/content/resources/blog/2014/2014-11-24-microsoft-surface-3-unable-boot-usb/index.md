@@ -26,25 +26,25 @@ aliasesFor404:
 - /blog/microsoft-surface-3-unable-to-boot-from-usb
 - /resources/blog/microsoft-surface-3-unable-boot-usb
 tags:
-- Technical Debt
-- Agile Software Development
-- Continuous Improvement
-- Evidence Based Management
-- Customer Feedback Loops
-- Agile Product Management
-- Agile Problem Solving
-- Technical Excellence
-- Lean Principles
-- Value Delivery
-- Agile Digital Tools
-- Agile Methodology
+- Windows
+- Troubleshooting
 - Software Development
-- Agile Product Discovery
-- Evidence Based Improvement
+- Working Software
+- System Configuration
+- Software Developers
+- Discovery and Learning
+- Operational Practices
+- Engineering Practices
+- Sensemaking
+- Engineering Excellence
+- Technical Excellence
+- Continuous Improvement
+- Pragmatic Thinking
+- Experimentation
 categories:
 - Install and Configuration
-- Technical Excellence
-- Application Lifecycle Management
+- Practical Techniques and Tooling
+- Products and Books
 preview: nakedalm-windows-logo-5-5.png
 
 ---

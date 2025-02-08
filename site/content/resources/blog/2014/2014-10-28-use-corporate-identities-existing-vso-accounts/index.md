@@ -26,24 +26,25 @@ aliasesFor404:
 - /blog/use-corporate-identities-with-existing-vso-accounts
 - /resources/blog/use-corporate-identities-existing-vso-accounts
 tags:
+- Windows
+- System Configuration
 - Azure DevOps
-- Agile Tools
-- Continuous Delivery
-- Technical Excellence
-- Agile Software Development
-- Agile Project Management
-- Agile Product Management
-- Value Delivery
-- Team Collaboration
-- Organisational Agility
+- Modern Source Control
+- Azure Repos
 - Change Management
-- Evidence Based Management
-- Agile Transformation
-- Customer Feedback Loops
+- Engineering Practices
+- Collaboration Tools
+- Technical Excellence
+- Software Development
+- Value Delivery
+- Software Developers
+- Technical Strategy
+- Digital Transformation
+- Working Software
 categories:
 - Install and Configuration
 - Azure DevOps
-- Application Lifecycle Management
+- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-11-11.png
 
 ---

@@ -26,22 +26,17 @@ aliasesFor404:
 - /blog/reuse-your-msdn-benefits-with-your-org-id
 - /resources/blog/reuse-msdn-benefits-org-id
 tags:
+- Windows
+- Troubleshooting
+- System Configuration
+- Organisational Change
 - Azure DevOps
-- Agile Software Development
-- Technical Excellence
-- Continuous Delivery
-- Agile Product Management
-- Customer Feedback Loops
-- Agile Project Management
-- Agile Methodology
 - Software Development
-- Value Delivery
+- Technical Mastery
 categories:
 - Install and Configuration
+- Practical Techniques and Tooling
 - Azure DevOps
-- Value Delivery
-- Application Lifecycle Management
-- Problems and Puzzles
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---
