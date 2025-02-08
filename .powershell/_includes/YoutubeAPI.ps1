@@ -278,7 +278,7 @@ function Get-YouTubeCaption {
             Write-Debug "Content appears to be ASCII-encoded text. Decoding..." 
             $decodedContent = ""
 
-            foreach ($line in $utf8Decoded -split "`n") {
+            foreach ($line in $utf8Decoded -split "\s+") {
                 if ($line -match '^\d+$') {
                     $decodedContent += [char][int]$line
                 }
