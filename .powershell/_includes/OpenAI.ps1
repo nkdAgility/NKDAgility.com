@@ -263,7 +263,7 @@ function Submit-And-Wait-OpenAIBatch {
     Write-Host "Waiting for batch completion..."
     while ($true) {
         Start-Sleep -Seconds 30
-        $BatchId$Status = Get-OpenAIBatchStatus -ApiKey $OPEN_AI_KEY -BatchId $BatchId
+        $Status = Get-OpenAIBatchStatus -ApiKey $OPEN_AI_KEY -BatchId $BatchId
         Write-Host "Current batch status: $Status"
         if ($Status -eq "completed") {
             break
