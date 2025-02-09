@@ -28,10 +28,24 @@ aliasesFor404:
 - /engaging-with-complexity
 - /resources/blog/engaging-with-complexity-team-foundation-server-edition
 tags:
+- Windows
+- Software Development
+- Software Developers
+- Modern Source Control
+- System Configuration
+- Application Lifecycle Management
 - Complexity Thinking
-- Systems Thinking
-categories:
+- People and Process
+- Organisational Change
 - Azure DevOps
+- Working Software
+- Operational Practices
+- Technical Excellence
+- Deployment Strategies
+- Technical Mastery
+categories:
+- Install and Configuration
+- Code and Complexity
 - Complexity Thinking
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 

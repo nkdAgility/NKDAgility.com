@@ -26,11 +26,25 @@ aliasesFor404:
 - /blog/granting-access-to-team-foundation-server-2012-for-diagnostic-troubleshooting
 - /resources/blog/granting-access-team-foundation-server-2012-diagnostic-troubleshooting
 tags:
-- Agile Tools
-- Technical Excellence
-categories:
+- Troubleshooting
+- Software Development
+- Pragmatic Thinking
+- System Configuration
 - Azure DevOps
+- Software Developers
+- Technical Excellence
+- Engineering Practices
+- Operational Practices
+- Technical Mastery
+- DevOps
+- Working Software
+- Modern Source Control
+- Engineering Excellence
+- Continuous Improvement
+categories:
+- Install and Configuration
 - Practical Techniques and Tooling
+- Technical Excellence
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

@@ -26,9 +26,23 @@ aliasesFor404:
 - /blog/review--the-professional-scrum-masters-handbook
 - /resources/blog/review-the-professional-scrum-masters-handbook
 tags:
+- Scrum
+- Agility
+- Scrum Product Development
+- Professional Scrum
+- Agile Software Development
 - Scrum Master
-- Definition of Done
+- Agile Project Management
+- People and Process
+- Scrum Team
+- Scrum Product Management
+- Agile Books
+- Lean Agile
+- Agile Frameworks
+- Release Planning
+- Software Development
 categories:
+- Scrum
 - Products and Books
 - News and Reviews
 preview: nakedalm-experts-professional-scrum-1-1.png

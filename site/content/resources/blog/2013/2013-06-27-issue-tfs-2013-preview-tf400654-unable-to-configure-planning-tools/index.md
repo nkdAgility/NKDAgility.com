@@ -26,11 +26,25 @@ aliasesFor404:
 - /blog/issue-[-tfs-2013-preview-]-tf400654--unable-to-configure-planning-tools
 - /resources/blog/issue-tfs-2013-preview-tf400654-unable-to-configure-planning-tools
 tags:
+- Scrum
+- Software Development
+- Troubleshooting
+- System Configuration
+- Agility
 - Agile Planning Tools
+- Agile Tools
+- Technical Mastery
+- Technical Excellence
+- Software Developers
+- Agile Digital Tools
 - Azure DevOps
+- Operational Practices
+- Application Lifecycle Management
+- DevOps
 categories:
+- Scrum
 - Install and Configuration
-- Azure DevOps
+- Practical Techniques and Tooling
 preview: puzzle-issue-problem-128-link-2-2.png
 
 ---

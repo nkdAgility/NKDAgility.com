@@ -22,10 +22,18 @@ aliasesFor404:
 - /blog/installing-visual-studio-2013-on-server-2012
 - /resources/blog/installing-visual-studio-2013-on-server-2012
 tags:
-- Agile Software Development
-- Azure DevOps
+- Software Development
+- Windows
+- Software Developers
+- Featured
+- Working Software
+- System Configuration
+- Technical Excellence
+- Technical Mastery
 categories:
 - Install and Configuration
+- Practical Techniques and Tooling
+- Products and Books
 
 ---
 I will be installing Visual Studio 2013 on Server 2012 side-by-side with Visual Studio 2012 on my development rig.

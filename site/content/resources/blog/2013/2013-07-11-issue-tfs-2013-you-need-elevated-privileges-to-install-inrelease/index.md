@@ -26,10 +26,20 @@ aliasesFor404:
 - /blog/issue-[-tfs-2013-]-you-need-elevated-privileges-to-install-inrelease
 - /resources/blog/issue-tfs-2013-you-need-elevated-privileges-to-install-inrelease
 tags:
-- Deployment Strategies
+- Troubleshooting
+- System Configuration
+- Software Developers
+- Software Development
+- Windows
+- Technical Mastery
+- Working Software
+- Azure DevOps
 - Technical Excellence
+- Operational Practices
 categories:
 - Install and Configuration
+- Practical Techniques and Tooling
+- Technical Excellence
 preview: puzzle-issue-problem-128-link-3-3.png
 
 ---

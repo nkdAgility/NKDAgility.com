@@ -28,10 +28,17 @@ aliasesFor404:
 - /windows-8-1-preview-issue
 - /resources/blog/windows-8-1-preview-issue-the-update-is-not-applicable-to-your-computer
 tags:
-- Technical Debt
-- Agile Software Development
+- Windows
+- System Configuration
+- Troubleshooting
+- Software Development
+- Technical Excellence
+- Technical Mastery
+- Working Software
 categories:
 - Install and Configuration
+- Practical Techniques and Tooling
+- Technical Excellence
 preview: nakedalm-windows-logo-12-12.png
 
 ---

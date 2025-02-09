@@ -22,26 +22,24 @@ aliasesFor404:
 - /blog/metrics-that-matter-with-evidence-based-management
 - /resources/blog/metrics-that-matter-with-evidence-based-management
 tags:
+- Agility
 - Evidence Based Management
-- Cycle Time
-- Lead Time
-- Continuous Improvement
-- Value Stream Management
-- Agile Planning
-- Agile Product Management
-- Technical Excellence
-- Trend Analysis
-- Agile Software Development
-- Agile Strategy
-- Value Delivery
+- Evidence Based Leadership
+- Evidence Based Improvement
 - Data Driven Decisions
-- Agile Digital Tools
-- Agile Tools
+- Organisational Agility
+- Trend Analysis
+- Value Delivery
+- Software Development
+- Continuous Improvement
+- People and Process
+- Agile Project Management
+- Agile Product Management
+- Large Scale Agility
+- Business Agility
 categories:
 - Metrics and Learning
-- People and Process
 - Value Delivery
-- Events and Presentations
 - Organisational Agility
 preview: nakedalm-agility-index-24-24.png
 

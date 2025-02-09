@@ -26,27 +26,25 @@ aliasesFor404:
 - /blog/tfs-for-cross-team-and-cross-business-line-work-item-tracking
 - /resources/blog/tfs-cross-team-cross-business-line-work-item-tracking
 tags:
-- Scaled Agile
-- Team Collaboration
-- Agile Planning
-- Agile Tools
-- Business Agility
-- Agile Product Management
-- Value Stream Management
+- Modern Source Control
+- Software Development
+- Working Software
+- Agile Planning Tools
+- Application Lifecycle Management
 - Cross Functional Teams
-- Agile Software Development
-- Continuous Improvement
-- Agile Transformation
-- Technical Excellence
-- Azure DevOps
-- Team Performance
-- Organisational Agility
+- People and Process
+- Agile Tools
+- Team Collaboration
+- Agile Digital Tools
+- Collaboration Tools
+- Software Developers
+- Change Management
+- Agile Product Management
+- Agile Project Management
 categories:
-- Azure DevOps
 - Application Lifecycle Management
 - People and Process
-- Organisational Agility
-- Value Stream Management
+- Product Delivery
 preview: nakedalm-experts-visual-studio-alm-4-4.png
 
 ---

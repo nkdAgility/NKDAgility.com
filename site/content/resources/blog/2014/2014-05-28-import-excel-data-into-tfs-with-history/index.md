@@ -22,25 +22,24 @@ aliasesFor404:
 - /blog/import-excel-data-into-tfs-with-history
 - /resources/blog/import-excel-data-into-tfs-with-history
 tags:
-- Agile Tools
-- Azure DevOps
-- Agile Software Development
-- Agile Product Management
-- Continuous Delivery
-- Technical Excellence
-- Agile Planning Tools
-- Evidence Based Management
-- Value Stream Management
-- Agile Transformation
-- Lean Thinking
+- Software Development
 - Agile Digital Tools
-- Data Driven Decisions
-- Team Collaboration
-- Agile Product Discovery
-categories:
+- Working Software
+- Agile Tools
+- Operational Practices
+- Azure Boards
+- Windows
+- Azure Repos
+- Engineering Practices
+- Technical Excellence
+- Software Developers
+- Modern Source Control
 - Azure DevOps
-- Practical Techniques and Tooling
+- Pragmatic Thinking
 - Application Lifecycle Management
+categories:
+- Practical Techniques and Tooling
+- Install and Configuration
 - Code and Complexity
 preview: metro-office-128-link-3-3.png
 

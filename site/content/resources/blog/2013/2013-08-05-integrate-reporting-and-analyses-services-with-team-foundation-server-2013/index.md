@@ -22,10 +22,24 @@ aliasesFor404:
 - /blog/integrate-reporting-and-analyses-services-with-team-foundation-server-2013
 - /resources/blog/integrate-reporting-and-analyses-services-with-team-foundation-server-2013
 tags:
-- Agile Tools
+- System Configuration
 - Azure DevOps
+- Software Developers
+- Technical Excellence
+- Software Development
+- Application Lifecycle Management
+- Agile Digital Tools
+- DevOps
+- Operational Practices
+- Engineering Practices
+- Value Delivery
+- Technical Mastery
+- Working Software
+- Pragmatic Thinking
+- Data Driven Decisions
 categories:
 - Install and Configuration
+- Practical Techniques and Tooling
 - Azure DevOps
 
 ---

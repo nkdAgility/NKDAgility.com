@@ -22,21 +22,21 @@ aliasesFor404:
 - /blog/error-adding-active-directory-group-to-release-management-client-in-visual-studio-2013
 - /resources/blog/error-adding-active-directory-group-to-release-management-client-in-visual-studio-2013
 tags:
-- Azure DevOps
-- Agile Software Development
-- Technical Excellence
-- Continuous Delivery
-- Evidence Based Management
-- Agile Problem Solving
-- Agile Project Management
-- Customer Feedback Loops
-- Agile Product Management
-- Release Planning
-- Technical Debt
-- Agile Methodology
-- Application Lifecycle Management
+- Troubleshooting
 - Software Development
+- System Configuration
+- Application Lifecycle Management
+- Working Software
+- Azure DevOps
+- Software Developers
+- Technical Excellence
+- Windows
+- Technical Mastery
+- Pragmatic Thinking
+- DevOps
 categories:
+- Code and Complexity
+- Practical Techniques and Tooling
 - Technical Excellence
 
 ---

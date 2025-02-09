@@ -22,9 +22,24 @@ aliasesFor404:
 - /blog/upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
 - /resources/blog/upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
 tags:
-- Deployment Frequency
-- Continuous Delivery
+- Software Developers
+- Software Development
+- System Configuration
+- Windows
+- Software Increment
+- Azure DevOps
+- Working Software
+- Modern Source Control
+- Technical Mastery
+- Application Lifecycle Management
+- CI/CD
+- DevOps
+- Azure Repos
+- Engineering Practices
+- Agile Digital Tools
 categories:
+- Install and Configuration
+- Practical Techniques and Tooling
 - Azure DevOps
 
 ---

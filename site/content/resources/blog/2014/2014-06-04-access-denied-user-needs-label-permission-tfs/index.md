@@ -26,22 +26,25 @@ aliasesFor404:
 - /blog/access-denied-user-needs-label-permission-in-tfs
 - /resources/blog/access-denied-user-needs-label-permission-tfs
 tags:
-- Agile Tools
+- System Configuration
+- Software Developers
+- Troubleshooting
+- Pragmatic Thinking
+- Software Development
+- Operational Practices
+- Discovery and Learning
+- Working Software
 - Azure DevOps
-- Technical Debt
-- Team Collaboration
-- Continuous Improvement
-- Agile Software Development
-- Evidence Based Management
-- Agile Product Management
-- Value Delivery
-- Agile Methodology
-- Customer Feedback Loops
+- Modern Source Control
 - Technical Excellence
-- Agile Transformation
-- Lean Principles
+- Technical Mastery
+- Decision Making
+- DevOps
+- Engineering Practices
 categories:
-- Technical Excellence
+- Install and Configuration
+- Practical Techniques and Tooling
+- Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

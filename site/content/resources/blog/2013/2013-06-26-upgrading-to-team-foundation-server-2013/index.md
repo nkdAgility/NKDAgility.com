@@ -22,10 +22,24 @@ aliasesFor404:
 - /blog/upgrading-to-team-foundation-server-2013
 - /resources/blog/upgrading-to-team-foundation-server-2013
 tags:
-- Deployment Strategies
-- Continuous Delivery
+- Windows
+- System Configuration
+- Modern Source Control
+- Software Developers
+- Featured
+- Azure DevOps
+- Software Development
+- Working Software
+- Software Increment
+- Pragmatic Thinking
+- Application Lifecycle Management
+- Change Management
+- Engineering Practices
+- Azure Repos
+- Collaboration Tools
 categories:
 - Install and Configuration
+- Practical Techniques and Tooling
 - Azure DevOps
 
 ---

@@ -22,11 +22,25 @@ aliasesFor404:
 - /blog/create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
 - /resources/blog/create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
 tags:
-- Agile Portfolio Management
 - Agile Planning Tools
+- Agile Tools
+- System Configuration
+- Agile Digital Tools
+- Agile Portfolio Management
+- Product Backlog
+- Agility
+- Working Software
+- Agile Resource Management
+- Portfolio Management
+- Backlog Refinement
+- Software Developers
+- Software Development
+- Agile Product Discovery
+- Agile Product Validation
 categories:
 - Install and Configuration
-- Azure DevOps
+- Practical Techniques and Tooling
+- Product Delivery
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

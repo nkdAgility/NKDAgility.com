@@ -27,24 +27,24 @@ aliasesFor404:
 - /resources/blog/installing-release-management-server-tfs-2013
 tags:
 - Application Lifecycle Management
-- Agile Tools
-- Continuous Delivery
-- Deployment Strategies
-- DevOps
-- Agile Software Development
-- Technical Excellence
-- Agile Project Management
-- Release Planning
-- Agile Product Management
+- System Configuration
 - Software Development
-- Agile Methodology
-- Team Collaboration
-- Evidence Based Management
-- Customer Feedback Loops
+- Modern Source Control
+- Software Developers
+- Windows
+- Continuous Delivery
+- Engineering Practices
+- Agile Digital Tools
+- Featured
+- Technical Excellence
+- CI/CD
+- Continuos Delivery
+- Technical Mastery
+- Software Increment
 categories:
 - Install and Configuration
-- Azure DevOps
 - Application Lifecycle Management
+- Practical Techniques and Tooling
 
 ---
 Unless you have been living under a rock you might have noticed that Microsoft has added a Release Management tool to its Visual Studio product line. I have been playing with it for a while now and I think I have it figured out. However as this is a new addition to the product it is extremely poorly documented.

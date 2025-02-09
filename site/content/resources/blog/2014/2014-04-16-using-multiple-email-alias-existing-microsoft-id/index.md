@@ -26,25 +26,12 @@ aliasesFor404:
 - /blog/using-multiple-email-alias-with-your-existing-microsoft-id
 - /resources/blog/using-multiple-email-alias-existing-microsoft-id
 tags:
-- Agile Software Development
-- Agile Product Management
-- Customer Feedback Loops
-- Agile Tools
-- Azure DevOps
-- Continuous Improvement
-- Lean Thinking
-- Digital Transformation
-- Organisational Change
-- Employee Engagement
-- Technical Excellence
-- Value Delivery
-- Agile Methodology
-- Collaboration Tools
-- Remote Working
+- Windows
+- System Configuration
+- Pragmatic Thinking
 categories:
 - Install and Configuration
-- Azure DevOps
-- News and Reviews
+- Practical Techniques and Tooling
 preview: nakedalm-windows-logo-7-7.png
 
 ---

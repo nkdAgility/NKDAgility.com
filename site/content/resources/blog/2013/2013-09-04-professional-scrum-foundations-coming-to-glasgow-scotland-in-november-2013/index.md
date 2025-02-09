@@ -30,11 +30,25 @@ aliasesFor404:
 - /blog/professional-scrum-foundations-coming-to-glasgow--scotland-in-november-2013
 - /resources/blog/professional-scrum-foundations-coming-to-glasgow-scotland-in-november-2013
 tags:
+- Scrum
+- Agility
+- Agile Software Development
+- Coaching
+- Agile Digital Tools
+- Agile Tools
+- Agile Certification
 - Professional Scrum
+- Software Development
+- Scrum Product Development
 - Scrum Master
+- Agile Software Engineering
+- Agile Values and Principles
+- Agile Certifications
+- Agile Frameworks
 categories:
 - Scrum
-- Organisational Agility
+- Events and Presentations
+- People and Process
 preview: PSF_Badges-2-2.png
 
 ---

@@ -23,10 +23,24 @@ aliasesFor404:
 - /resources/blog/quality-enablement-to-achieve-predictable-delivery
 tags:
 - Definition of Done
-- Agile Predictability
+- Software Development
+- Predictability in Kanban
+- Value Delivery
+- Agile Software Development
+- Software Developers
+- Working Software
+- Acceptance Test Driven Development
+- Continuos Delivery
+- Evidence Based Management
+- Evidence Based Improvement
+- Empirical Process Control
+- Continuous Delivery
+- Test Strategy
+- Agile Product Validation
 categories:
-- People and Process
-- Metrics and Learning
+- Product Delivery
+- Value Delivery
+- Practical Techniques and Tooling
 preview: nakedalm-experts-professional-scrum-2-2.png
 
 ---

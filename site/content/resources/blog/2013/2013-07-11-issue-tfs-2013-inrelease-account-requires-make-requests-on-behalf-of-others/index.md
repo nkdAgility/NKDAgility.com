@@ -26,10 +26,24 @@ aliasesFor404:
 - /blog/issue-[-tfs-2013-]-inrelease-account-requires-make-requests-on-behalf-of-others
 - /resources/blog/issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
 tags:
-- Agile Tools
+- Troubleshooting
+- System Configuration
 - Azure DevOps
+- Software Development
+- Technical Mastery
+- Application Lifecycle Management
+- Continuos Integration
+- Technical Excellence
+- Operational Practices
+- Windows
+- Azure Repos
+- Engineering Practices
+- Agile Digital Tools
+- CI/CD
+- Software Developers
 categories:
 - Install and Configuration
+- Practical Techniques and Tooling
 - Azure DevOps
 preview: puzzle-issue-problem-128-link-5-5.png
 

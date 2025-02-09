@@ -22,10 +22,24 @@ aliasesFor404:
 - /blog/creating-a-custom-activity-for-team-foundation-build
 - /resources/blog/creating-a-custom-activity-for-team-foundation-build
 tags:
-- Agile Software Development
+- Software Development
+- Software Developers
+- Engineering Practices
+- Technical Excellence
 - Azure DevOps
+- Working Software
+- Technical Mastery
+- DevOps
+- System Configuration
+- Engineering Excellence
+- Agile Digital Tools
+- Azure Repos
+- Azure Pipelines
+- CI/CD
+- Continuos Delivery
 categories:
-- Azure DevOps
+- Code and Complexity
+- Practical Techniques and Tooling
 - Install and Configuration
 
 ---

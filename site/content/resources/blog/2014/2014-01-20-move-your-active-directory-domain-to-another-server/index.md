@@ -22,19 +22,19 @@ aliasesFor404:
 - /blog/move-your-active-directory-domain-to-another-server
 - /resources/blog/move-your-active-directory-domain-to-another-server
 tags:
+- Windows
+- System Configuration
+- Operational Practices
+- Troubleshooting
+- Pragmatic Thinking
 - Change Management
-- Technical Debt
-- Agile Software Development
-- Deployment Strategies
-- Continuous Improvement
-- Evidence Based Management
-- Agile Project Management
-- Systems Thinking
-- Organisational Change
+- Software Development
 - Technical Excellence
+- Engineering Practices
+- Technical Mastery
 categories:
 - Install and Configuration
-- Azure DevOps
+- Practical Techniques and Tooling
 - Technical Excellence
 preview: metro-server-instances_thumb-2-2.png
 

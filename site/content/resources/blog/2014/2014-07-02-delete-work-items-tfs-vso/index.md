@@ -26,24 +26,25 @@ aliasesFor404:
 - /blog/how-to-delete-work-items-from-tfs-or-vso
 - /resources/blog/delete-work-items-tfs-vso
 tags:
-- Azure DevOps
-- Agile Tools
-- Agile Software Development
-- Technical Debt
-- Continuous Improvement
-- Evidence Based Management
-- Agile Project Management
-- Value Delivery
-- Agile Methodology
-- Lean Principles
-- Agile Software Engineering
+- Software Development
+- Software Developers
+- Azure Boards
+- Azure Repos
+- Agile Digital Tools
 - Technical Excellence
-- Agile Product Management
-- Collaboration Tools
+- Modern Source Control
+- Operational Practices
+- Agile Tools
+- System Configuration
+- Working Software
+- Pragmatic Thinking
+- Troubleshooting
+- Application Lifecycle Management
+- DevOps
 categories:
-- Azure DevOps
-- Practical Techniques and Tooling
 - Code and Complexity
+- Practical Techniques and Tooling
+- Install and Configuration
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

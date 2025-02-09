@@ -22,11 +22,24 @@ aliasesFor404:
 - /blog/the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
 - /resources/blog/the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
 tags:
-- Agile Software Development
-- Agile Product Management
+- Ability to Innovate
+- Working Software
+- Resilience and Change
+- Pragmatic Thinking
+- Software Increment
+- Value Delivery
+- Software Development
+- Technical Excellence
+- Featured
+- Technical Mastery
+- Change Management
+- System Configuration
+- Continuous Improvement
+- Digital Transformation
 categories:
-- Install and Configuration
-- News and Reviews
+- Products and Books
+- Practical Techniques and Tooling
+- Resilience and Change
 preview: metro-pagelines-11-11.png
 
 ---

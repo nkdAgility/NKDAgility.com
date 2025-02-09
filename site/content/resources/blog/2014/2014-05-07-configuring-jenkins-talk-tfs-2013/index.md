@@ -26,25 +26,25 @@ aliasesFor404:
 - /blog/configuring-jenkins-to-talk-to-tfs-2013
 - /resources/blog/configuring-jenkins-talk-tfs-2013
 tags:
-- Agile Software Development
+- Modern Source Control
+- System Configuration
+- Software Developers
+- CI/CD
+- Continuos Integration
+- Software Development
 - Continuous Integration
 - DevOps
-- Agile Tools
-- Technical Excellence
-- Agile Product Management
-- Agile Project Management
-- Agile Software Engineering
-- Continuous Delivery
+- Application Lifecycle Management
+- Change Management
+- Working Software
+- Engineering Practices
 - Team Collaboration
-- Agile Transformation
-- Evidence Based Management
-- Value Delivery
-- Technical Debt
-- Agile Values and Principles
+- Continuous Delivery
+- Technical Excellence
 categories:
 - Install and Configuration
-- Azure DevOps
 - Practical Techniques and Tooling
+- Code and Complexity
 preview: naked-alm-jenkins-logo-9-9.png
 
 ---

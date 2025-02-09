@@ -27,22 +27,24 @@ aliasesFor404:
 - /resources/blog/execute-tests-release-management-visual-studio-2013
 tags:
 - Automated Testing
-- Continuous Delivery
-- Test Driven Development
-- Technical Excellence
-- Release Planning
-- Agile Software Development
-- DevOps
-- Agile Tools
-- Azure DevOps
-- Test Strategy
+- Test Automation
 - Software Development
-- Value Delivery
-- Agile Product Management
-- Engineering Practices
-categories:
+- Deployment Strategies
 - Application Lifecycle Management
+- Working Software
+- Release Planning
+- Technical Mastery
+- Azure DevOps
+- Continuos Delivery
+- CI/CD
 - Technical Excellence
+- Software Developers
+- Continuous Delivery
+- DevOps
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Application Lifecycle Management
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---

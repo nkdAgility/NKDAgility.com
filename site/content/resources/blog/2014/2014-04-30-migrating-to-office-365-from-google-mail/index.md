@@ -22,22 +22,24 @@ aliasesFor404:
 - /blog/migrating-to-office-365-from-google-mail
 - /resources/blog/migrating-to-office-365-from-google-mail
 tags:
+- System Configuration
+- Technical Excellence
+- Technical Mastery
+- Troubleshooting
+- Pragmatic Thinking
+- Working Software
+- Software Development
+- Operational Practices
+- Decision Making
+- Customer Satisfaction
 - Deployment Strategies
-- Change Management
-- Technical Debt
-- Evidence Based Management
-- Agile Software Development
-- Continuous Improvement
-- Agile Product Management
-- Agile Transformation
+- DevOps
 - Digital Transformation
-- Customer Feedback Loops
+- Software Developers
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Azure DevOps
-- Code and Complexity
-- Value Delivery
+- Technical Excellence
 preview: metro-office-128-link-3-3.png
 
 ---

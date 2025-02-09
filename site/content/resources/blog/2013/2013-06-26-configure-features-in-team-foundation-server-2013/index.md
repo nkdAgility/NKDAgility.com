@@ -22,10 +22,24 @@ aliasesFor404:
 - /blog/configure-features-in-team-foundation-server-2013
 - /resources/blog/configure-features-in-team-foundation-server-2013
 tags:
+- System Configuration
+- Software Development
 - Azure DevOps
-- Agile Tools
+- Modern Source Control
+- Windows
+- Agile Digital Tools
+- Technical Excellence
+- Software Developers
+- Operational Practices
+- Software Increment
+- Azure Boards
+- Working Software
+- Application Lifecycle Management
+- DevOps
+- Technical Mastery
 categories:
 - Install and Configuration
+- Practical Techniques and Tooling
 - Azure DevOps
 
 ---

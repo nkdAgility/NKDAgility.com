@@ -26,10 +26,25 @@ aliasesFor404:
 - /blog/video--new-with-visual-studio-2013--manage-portfolio-backlogs-to-understand-the-scope-of-work
 - /resources/blog/video-new-with-visual-studio-2013-manage-portfolio-backlogs-to-understand-the-scope-of-work
 tags:
+- Portfolio Management
 - Agile Portfolio Management
-- Agile Planning
-categories:
+- Agility
+- Agile Planning Tools
+- Agile Tools
 - Application Lifecycle Management
+- Agile Digital Tools
+- Collaboration Tools
+- Evidence Based Management
+- Agile Product Management
+- Agile Project Management
+- Software Development
+- Value Delivery
+- Agile Resource Management
+- Value Stream Management
+categories:
+- Practical Techniques and Tooling
+- Application Lifecycle Management
+- Value Stream Management
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

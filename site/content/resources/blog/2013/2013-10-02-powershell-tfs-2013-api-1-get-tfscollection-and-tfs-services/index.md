@@ -28,10 +28,25 @@ aliasesFor404:
 - /powershell-tfs-2013-api--1
 - /resources/blog/powershell-tfs-2013-api-1-get-tfscollection-and-tfs-services
 tags:
-- Agile Software Development
+- System Configuration
+- Working Software
+- Modern Source Control
+- Software Development
+- Software Developers
+- Technical Mastery
 - Azure DevOps
+- Technical Excellence
+- Application Lifecycle Management
+- Agile Tools
+- Windows
+- Featured
+- Agile Digital Tools
+- Engineering Practices
+- Azure Repos
 categories:
-- Azure DevOps
+- Code and Complexity
+- Install and Configuration
+- Practical Techniques and Tooling
 preview: metro-powershell-logo-1-1.png
 
 ---

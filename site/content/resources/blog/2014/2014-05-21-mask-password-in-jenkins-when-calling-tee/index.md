@@ -22,16 +22,25 @@ aliasesFor404:
 - /blog/mask-password-in-jenkins-when-calling-tee
 - /resources/blog/mask-password-in-jenkins-when-calling-tee
 tags:
-- Evidence Based Management
-- Agile Transformation
-- Agile Methodology
-- Agile Digital Tools
-categories:
-- Install and Configuration
-- Practical Techniques and Tooling
-- Azure DevOps
 - DevOps
+- Software Development
+- Working Software
+- System Configuration
+- Engineering Excellence
+- Operational Practices
+- Engineering Practices
 - Technical Excellence
+- CI/CD
+- Software Developers
+- Pragmatic Thinking
+- Continuos Integration
+- Troubleshooting
+- Continuous Integration
+- Technical Mastery
+categories:
+- Practical Techniques and Tooling
+- Install and Configuration
+- DevOps
 preview: naked-alm-jenkins-logo-7-7.png
 
 ---

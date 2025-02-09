@@ -26,11 +26,22 @@ aliasesFor404:
 - /blog/review-part-2--developing-with-intel-haswell-harris-beach-sds-ultrabook
 - /resources/blog/review-developing-intel-haswell-harris-beach-sds-ultrabook
 tags:
-- Agile Software Development
+- Windows
+- Working Software
+- Software Developers
+- Software Development
 - Technical Excellence
+- Featured
+- Technical Mastery
+- Transparency
+- Discovery and Learning
+- Engineering Excellence
+- Troubleshooting
+- Pragmatic Thinking
 categories:
-- News and Reviews
 - Products and Books
+- News and Reviews
+- Install and Configuration
 preview: Web-Intel-Metro-icon-21-21.png
 
 ---

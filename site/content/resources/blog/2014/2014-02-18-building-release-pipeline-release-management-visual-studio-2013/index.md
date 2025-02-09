@@ -26,14 +26,25 @@ aliasesFor404:
 - /blog/building-a-release-pipeline-with-release-management-with-visual-studio-2013
 - /resources/blog/building-release-pipeline-release-management-visual-studio-2013
 tags:
-- Customer Feedback Loops
-- Lean Thinking
-categories:
-- Application Lifecycle Management
 - DevOps
-- Practical Techniques and Tooling
-- Metrics and Learning
+- Agility
+- Application Lifecycle Management
+- Change Management
+- Software Increment
+- Software Developers
+- Software Development
+- Value Delivery
+- Continuous Delivery
 - Value Stream Management
+- Large Scale Agility
+- People and Process
+- Deployment Strategies
+- Lead Time
+- Scaling Agility
+categories:
+- DevOps
+- Application Lifecycle Management
+- Product Delivery
 preview: nakedalm-experts-visual-studio-alm-4-4.png
 
 ---

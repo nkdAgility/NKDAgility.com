@@ -26,11 +26,14 @@ aliasesFor404:
 - /blog/review-part-3--two-months-with-intel-haswell-harris-beach-sds-ultrabook
 - /resources/blog/review-two-months-intel-haswell-harris-beach-sds-ultrabook
 tags:
-- Agile Software Development
-- Technical Excellence
+- Windows
+- Transparency
+- Featured
+- Troubleshooting
 categories:
 - News and Reviews
 - Products and Books
+- Transparency and Accountability
 preview: Web-Intel-Metro-icon-3-3.png
 
 ---
