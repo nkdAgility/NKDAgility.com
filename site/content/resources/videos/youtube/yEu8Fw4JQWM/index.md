@@ -27,7 +27,22 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Kanban
+- Agile Digital Tools
+- Lean Agile
+- Kanban Training
+- Kanban Coaching
+- Kanban Process
+- Agile Problem Solving
+- Agile Community
+- Kanban Flow
+- Kanban Theory
+- Agile Software Engineering
+- Agile Product Management
+- Lean Thinking
+- Pragmatic Thinking
+- Agility
 resourceTypes:
 - video
 categories: []

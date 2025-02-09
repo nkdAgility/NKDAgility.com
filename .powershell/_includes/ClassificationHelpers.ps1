@@ -219,8 +219,17 @@ function Get-BatchCategoryConfidenceWithChecksum {
     # If cache exists, use it
     if (Test-Path $cacheFile) {
         try {
-            $cachedData = Get-Content $cacheFile | ConvertFrom-Json -ErrorAction Stop
-            return ($cachedData.Values | Where-Object { $_.Level -ne "Ignored" } | Sort-Object final_score -Descending | Select-Object -First $MaxCategories) | ConvertTo-Json -Depth 1
+            $cachedData = Get-Content $cacheFile | ConvertFrom-Json -Depth 10 -ErrorAction Stop
+
+            $categoryScores = @{}
+            foreach ($category in $Catalog.Keys) {
+                if ($cachedData.PSObject.Properties[$category]) {
+                    $categoryScores[$category] = $cachedData.$category
+                }
+            }        
+
+
+            return ($categoryScores.Values | Where-Object { $_.Level -ne "Ignored" } | Sort-Object final_score -Descending | Select-Object -First $MaxCategories) | ConvertTo-Json -Depth 1
         }
         catch {
             Write-Debug "Warning: Cache file corrupted. Resetting cache."

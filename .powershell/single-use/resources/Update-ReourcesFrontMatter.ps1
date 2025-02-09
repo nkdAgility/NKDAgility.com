@@ -7,7 +7,7 @@
 . ./.powershell/_includes/ClassificationHelpers.ps1
 
 
-$levelSwitch.MinimumLevel = 'Information'
+$levelSwitch.MinimumLevel = 'Debug'
 
 # Iterate through each blog folder and update markdown files
 $outputDir = ".\site\content\resources\videos\"

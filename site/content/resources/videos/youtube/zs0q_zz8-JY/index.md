@@ -22,14 +22,32 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/zs0q_zz8-JY/maxresdefault.jpg
 duration: 46
 isShort: true
-tags: []
+tags:
+- Scrum
+- Scrum Master
+- Professional Scrum
+- Scrum Team
+- Agile Coaching
+- Agile Community
+- Agile Frameworks
+- People and Process
+- Team Performance
+- Agile Leader
+- Agile Project Management
+- Agile Transformation
+- Scrum Product Development
+- Scrum Product Management
+- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
+- People and Process
+- Agile Product Management
 
 ---
  #shorts #shortsvideo #shortvideo Martin Hinshelwood explores one of the biggest misconceptions about a #scrummaster 

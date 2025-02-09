@@ -30,7 +30,10 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Kanban
+- Transparency and Accountability
+- People and Process
 
 ---
 ### Embracing Kanban for Enhanced Workflow and Predictability

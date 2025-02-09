@@ -22,14 +22,32 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/ye1wQic8et0/maxresdefault.jpg
 duration: 408
 isShort: false
-tags: []
+tags:
+- Agility
+- Decision Making
+- Ability to Innovate
+- Agile Project Management
+- Team Collaboration
+- People and Process
+- Enterprise Agility
+- Organisational Agility
+- Agile Leader
+- Agile Strategy
+- Agile Predictability
+- Business Agility
+- Lead Time
+- Lean Agile
+- Agile Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- People and Process
+- Market Adaptability
+- Product Delivery
 
 ---
  *Reducing Time to Market by Removing Committees*

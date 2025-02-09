@@ -29,10 +29,28 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agility
+- Coaching
+- Agile Coaching
+- Agile Software Development
+- People and Process
+- Agile Leadership
+- Agile Software Engineering
+- Enterprise Agility
+- Agile Project Management
+- Agile Community
+- Agile Evolution
+- Agile Strategy
+- Agile Methodology
+- Agile Transformation
+- Scrum
 resourceTypes:
 - video
-categories: []
+categories:
+- People and Process
+- Resilience and Change
+- Enterprise Agility
 
 ---
 **When should an organisation consider a professional agile consultant?**

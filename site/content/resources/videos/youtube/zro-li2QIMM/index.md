@@ -29,7 +29,9 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- People and Process
+- Personal
 
 ---
  #shorts #shortsvideo #shortvideo 7 virtues of #agile. Charity. #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #projectmanagement #projectmanager #productdevelopment #productmanagement #scrummaster #agilecoach #productowner #agileleadership 

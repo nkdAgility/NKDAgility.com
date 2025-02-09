@@ -27,10 +27,16 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Discovery and Learning
+- Continuous Improvement
+- Continuous Learning
+- Personal
 resourceTypes:
 - video
-categories: []
+categories:
+- Discovery and Learning
+- Personal
 
 ---
 ## Level Up Your Game: 3 Unbeatable Reasons to Enhance Your Skills

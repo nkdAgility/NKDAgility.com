@@ -27,7 +27,22 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Strategic
+- Agile Product Management
+- Product Strategy
+- People and Process
+- Value Delivery
+- Agile Product Validation
+- Agile Project Management
+- Agile Strategy
+- Scrum Product Management
+- Agile Product Discovery
+- Agile Software Development
+- Strategic Goals
+- Agility
+- Agile Product Ownership
+- Lean Product Development
 resourceTypes:
 - video
 categories: []

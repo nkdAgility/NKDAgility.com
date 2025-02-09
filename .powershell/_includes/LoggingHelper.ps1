@@ -14,7 +14,8 @@ If (-not $levelSwitch) {
     New-Logger |
     Set-MinimumLevel -ControlledBy $levelSwitch | # You can change this value later to filter log messages
     # Here you can add as many sinks as you want - see https://github.com/PoShLog/PoShLog/wiki/Sinks for all available sinks
-    Add-SinkPowerShell |   # Tell logger to write log messages to console
+    Add-SinkPowerShell |   # Tell logger to write log messages to console 
+    Add-SinkConsole |     # Tell logger to write log messages to console
     #Add-SinkFile -Path './logs/.log' | # Tell logger to write log messages into file
     Start-Logger
     Write-InfoLog "New Logger Started" 

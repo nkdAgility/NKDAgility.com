@@ -29,7 +29,10 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
+- People and Process
+- Enterprise Agility
 
 ---
  #youtubeshorts presents Martin Hinshelwood raising 1 critical skill for a #scrummaster in under 60 seconds. What is the one thing a #scrummaster should master to be successful in #agile?

@@ -29,10 +29,28 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Scrum
+- Agility
+- Agile Frameworks
+- Scrum Master
+- Agile Values and Principles
+- Agile Community
+- Agile Software Development
+- Adaptive Strategy
+- Agile Coaching
+- Agile Evolution
+- Pragmatic Thinking
+- Agile Methodology
+- Agile Problem Solving
+- Agile Software Engineering
+- Lean Agile
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
+- People and Process
+- Enterprise Agility
 
 ---
 ## The Golden Nugget of Scrum Advice I've Ever Received

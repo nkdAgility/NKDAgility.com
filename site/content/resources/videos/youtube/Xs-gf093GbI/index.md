@@ -27,10 +27,21 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Strategic
+- Product Strategy
+- Product Owner
+- Strategic Goals
+- People and Process
+- Product Discovery
+- Sensemaking
+- Scrum
 resourceTypes:
 - video
-categories: []
+categories:
+- People and Process
+- Products and Books
+- Agile Product Management
 
 ---
 ## The essence of a Product is 'The Vision'

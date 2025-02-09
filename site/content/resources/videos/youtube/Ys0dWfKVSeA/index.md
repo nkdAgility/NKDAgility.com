@@ -32,7 +32,10 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
+- Agile Product Management
+- People and Process
 
 ---
 ## Reflecting on Scrum's Mirror  

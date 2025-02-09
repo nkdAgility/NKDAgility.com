@@ -22,14 +22,32 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/ZcMcVL7mNGU/maxresdefault.jpg
 duration: 256
 isShort: false
-tags: []
+tags:
+- Software Development
+- People and Process
+- Agile Product Management
+- Scrum Product Management
+- Value Prioritisation
+- Product Strategy
+- Product Owner
+- Value Delivery
+- Working Software
+- Lean Product Development
+- Agile Transformation
+- Strategic
+- Agile Software Development
+- Enterprise Agility
+- Agile Product Validation
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- People and Process
+- Value Delivery
+- Agile Product Management
 
 ---
  #agile has come a long way since it's inception in 2001, and with that shift from #projectmanagement to #productdevelopment, #productmanagement has evolved significantly.

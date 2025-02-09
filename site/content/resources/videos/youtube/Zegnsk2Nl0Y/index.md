@@ -29,7 +29,10 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- DevOps
+- Scrum
+- People and Process
 
 ---
  #shorts #shortsvideo #shortvideo 5 tools that a #scrummaster loves. #scrum tool 5

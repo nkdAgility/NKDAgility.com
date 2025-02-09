@@ -22,7 +22,22 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/yCyjGBNaRqI/maxresdefault.jpg
 duration: 174
 isShort: false
-tags: []
+tags:
+- Agility
+- People and Process
+- Organisational Agility
+- Organisational Culture
+- Team Collaboration
+- Team Motivation
+- Continuous Improvement
+- Organisational Change
+- Employee Engagement
+- Pragmatic Thinking
+- Team Performance
+- Business Agility
+- Agile Values and Principles
+- Enterprise Agility
+- Software Developers
 sitemap:
   filename: sitemap.xml
   priority: 0.4

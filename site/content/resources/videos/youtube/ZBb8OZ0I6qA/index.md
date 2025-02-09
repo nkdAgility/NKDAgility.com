@@ -22,7 +22,22 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/ZBb8OZ0I6qA/maxresdefault.jpg
 duration: 1156
 isShort: false
-tags: []
+tags:
+- Agile Product Management
+- Scrum
+- Agile Project Management
+- Scrum Product Management
+- DevOps
+- Product Backlog
+- Agile Digital Tools
+- Azure DevOps
+- Agile Product Ownership
+- Coaching
+- Agile Resource Management
+- Azure Boards
+- Decision Making
+- Agile Strategy
+- Agile Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.4

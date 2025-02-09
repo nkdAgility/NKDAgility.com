@@ -23,7 +23,22 @@ aliasesFor404:
 preview: https://i9.ytimg.com/vi/YVrGU0oZmc0/maxresdefault.jpg?sqp=CKDMmrwG&rs=AOn4CLDPVXqxCxtvxC7uS6ZrcSzj_2vc6g
 duration: 557
 isShort: false
-tags: []
+tags:
+- DevOps
+- Continuous Delivery
+- Working Software
+- Software Developers
+- Continuos Delivery
+- Value Delivery
+- Software Development
+- Engineering Practices
+- Azure DevOps
+- Operational Practices
+- Continuous Improvement
+- Frequent Releases
+- Product Strategy
+- Engineering Excellence
+- Ability to Innovate
 resourceTypes:
 - video
 sitemap:

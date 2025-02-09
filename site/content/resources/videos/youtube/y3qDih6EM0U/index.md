@@ -29,7 +29,8 @@ resourceTypes:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-categories: []
+categories:
+- Events and Presentations
 tags: []
 
 ---

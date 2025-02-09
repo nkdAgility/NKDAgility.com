@@ -22,14 +22,19 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/XMLdLH6f4N8/maxresdefault.jpg
 duration: 197
 isShort: false
-tags: []
+tags:
+- Scrum
+- People and Process
+- Organisational Culture
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
+- People and Process
 
 ---
  When you are teaching over 150 people at an organisation it is important that your Trainer fits with the culture that you are trying to create. 

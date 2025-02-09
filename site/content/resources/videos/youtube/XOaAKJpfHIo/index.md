@@ -27,10 +27,28 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agility
+- DevOps
+- Strategic
+- Continuous Delivery
+- Value Delivery
+- Agile Software Development
+- Agile Product Validation
+- Software Development
+- Value Prioritisation
+- Agile Software Engineering
+- People and Process
+- Agile Strategy
+- Working Software
+- Agile Product Management
+- Business Agility
 resourceTypes:
 - video
-categories: []
+categories:
+- DevOps
+- Lean
+- Value Delivery
 
 ---
 How important is DevOps in continuous delivery of value to customers?

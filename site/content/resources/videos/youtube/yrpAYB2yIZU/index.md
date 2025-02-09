@@ -29,7 +29,10 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Technical Excellence
 
 ---
  Have you ever had to rebuild your only domain controller? Find out how to move your domain to another server to refresh the OS or just plane rebuild...

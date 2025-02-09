@@ -27,7 +27,22 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agility
+- Agile Leader
+- Agile Leadership
+- Organisational Change
+- Change Management
+- People and Process
+- Organisational Agility
+- Ability to Innovate
+- Agile Strategy
+- Resilience and Change
+- Business Agility
+- Enterprise Agility
+- Agile Community
+- Agile Methodology
+- Agile Coaching
 resourceTypes:
 - video
 categories: []
