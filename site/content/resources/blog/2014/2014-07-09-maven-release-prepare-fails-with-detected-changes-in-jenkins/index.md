@@ -21,23 +21,8 @@ aliasesFor404:
 - /maven-release-prepare-fails-with-detected-changes-in-jenkins
 - /blog/maven-release-prepare-fails-with-detected-changes-in-jenkins
 - /resources/blog/maven-release-prepare-fails-with-detected-changes-in-jenkins
-tags:
-- Continuous Integration
-- DevOps
-- Agile Software Development
-- Technical Debt
-- Agile Tools
-- Agile Project Management
-- Evidence Based Management
-- Agile Transformation
-- Lean Thinking
-- Value Stream Management
-- Agile Software Engineering
-- Technical Excellence
-- Agile Digital Tools
-- Collaboration Tools
-categories:
-- Azure DevOps
+tags: []
+categories: []
 preview: naked-alm-jenkins-logo-9-9.png
 
 ---

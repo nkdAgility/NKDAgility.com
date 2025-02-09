@@ -25,17 +25,8 @@ aliasesFor404:
 - /the-value-of-an-independent-scotland-for-me
 - /blog/the-value-of-an-independent-scotland-for-me
 - /resources/blog/the-value-of-an-independent-scotland
-tags:
-- National Identity
-- Economic Independence
-- Media Bias
-- Immigration Policy
-categories:
-- Value Delivery
-- Market Adaptability
-- News and Reviews
-- Organisational Agility
-- Resilience and Change
+tags: []
+categories: []
 preview: metro-yes-scotland-128-link-1-1.png
 
 ---
