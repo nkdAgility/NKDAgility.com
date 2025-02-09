@@ -27,25 +27,25 @@ aliasesFor404:
 - /blog/the-7-deadly-sins-of-agile--a-grecian-odyssey-through-modern-software-development
 - /resources/blog/the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
 tags:
-- Agile Project Management
-- Scrum
-- Agile Community
-- Agile Transformation
-- Agile Evolution
-- Agile Coaching
 - Agile Apocalypse
-- Agile Methodology
-- Agile Values and Principles
-- Software Developers
-- Agile Product Management
+- Agile Coaching
+- Agile Community
+- Agile Evolution
 - Agile Frameworks
+- Agile Methodology
 - Agile Pilot
+- Agile Product Management
+- Agile Project Management
+- Agile Transformation
+- Agile Values and Principles
 - People and Process
+- Scrum
+- Software Developers
 - Team Performance
 categories:
+- Enterprise Agility
 - Lean
 - Scrum
-- Enterprise Agility
 preview: NKDAgility-technically-7DeadlySins-16-15.jpg
 
 ---

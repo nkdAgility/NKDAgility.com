@@ -27,26 +27,26 @@ aliasesFor404:
 - /blog/you-can't-stop-the-signal--but-you-can-ignore-it-
 - /resources/blog/you-cant-stop-the-signal-but-you-can-ignore-it
 categories:
-- Scrum
-- People and Process
 - Agile Product Management
+- People and Process
+- Scrum
 preview: NKDAgility-technically-YouCantStopTheSignal-1-1.jpg
 tags:
-- Scrum
-- Agile Values and Principles
+- Agile Frameworks
+- Agile Planning
+- Agile Problem Solving
+- Agile Product Discovery
+- Agile Product Management
+- Agile Project Management
 - Agile Software Development
 - Agile Software Engineering
-- Software Development
-- Agile Product Management
-- Agile Product Discovery
-- Agile Frameworks
-- People and Process
-- Agile Problem Solving
+- Agile Values and Principles
 - Continuous Improvement
+- Organisational Culture
+- People and Process
+- Scrum
 - Scrum Product Development
-- Systems Thinking
-- Systemic Thinking
-- Agile AI
+- Software Development
 
 ---
 In organizational development and team dynamics, Agile (as the Agile Manifesto delineates) and Scrum (as the Scrum Guide outlines) guide teams not by solving their problems but by illuminating the issues that demand attention. These frameworks aim to identify and spotlight the challenges within a team or organization's processes, effectively saying, "This is wrong, go fix it!" when a team struggles to produce a working product due to various obstacles. These are clear signals!

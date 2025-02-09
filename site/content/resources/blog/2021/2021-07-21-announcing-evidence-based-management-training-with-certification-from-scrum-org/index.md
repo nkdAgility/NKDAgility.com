@@ -28,8 +28,8 @@ aliasesFor404:
 - /blog/announcing-professional-agile-leadership-with-evidence-based-management-training-(pal-ebm)-from-scrum-org
 - /resources/blog/announcing-evidence-based-management-training-with-certification-from-scrum-org
 tags:
-- Software Development
 - Decision Theory
+- Software Development
 categories: []
 preview: images/Professional-Agile-Leadership-Evidence-Based-Management-6-6.jpg
 

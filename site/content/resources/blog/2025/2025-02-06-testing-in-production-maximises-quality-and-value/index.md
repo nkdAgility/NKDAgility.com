@@ -21,21 +21,21 @@ aliasesFor404:
 - /testing-in-production-maximises-quality-and-value
 - /blog/testing-in-production-maximises-quality-and-value
 tags:
-- CI/CD
-- DevOps
-- Strategic
-- Windows
-- Customer Feedback Loops
-- Continuous Delivery
 - Azure DevOps
+- CI/CD
+- Continuous Delivery
 - Continuous Improvement
-- Working Software
-- Value Delivery
-- Technical Strategy
-- Software Development
+- Customer Feedback Loops
 - Deployment Strategies
+- DevOps
+- Engineering Excellence
 - Experimentation
-- Software Developers
+- Software Development
+- Strategic
+- Technical Strategy
+- Value Delivery
+- Windows
+- Working Software
 categories:
 - DevOps
 - Product Delivery

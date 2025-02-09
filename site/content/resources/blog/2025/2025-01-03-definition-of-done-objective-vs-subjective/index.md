@@ -22,25 +22,25 @@ aliasesFor404:
 - /definition-of-done---objective-vs-subjective
 - /blog/definition-of-done---objective-vs-subjective
 tags:
-- Scrum
-- Definition of Done
-- Strategic
 - Acceptance Test Driven Development
-- Scrum Product Development
-- Agility
-- Professional Scrum
-- Scrum Team
-- Scrum Product Management
-- CI/CD
-- Agile Product Management
 - Agile Product Validation
-- Agile Product Ownership
-- Software Increment
-- Agile Software Development
-categories:
+- Agility
+- CI/CD
+- Definition of Done
+- Operational Practices
+- Professional Scrum
 - Scrum
+- Scrum Product Development
+- Scrum Product Management
+- Scrum Team
+- Software Development
+- Strategic
+- Value Delivery
+- Working Agreements
+categories:
 - Metrics and Learning
 - Product Delivery
+- Scrum
 preview: 2025-01-03-definition-of-done-objective-vs-subjective.jpg
 
 ---

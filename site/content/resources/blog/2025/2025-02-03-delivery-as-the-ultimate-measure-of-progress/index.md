@@ -25,25 +25,25 @@ aliasesFor404:
 - /delivery-is-the-only-measure-of-progress-in-scrum
 - /blog/delivery-is-the-only-measure-of-progress-in-scrum
 tags:
-- Scrum
-- DevOps
+- Agile Product Validation
+- Agile Software Engineering
 - CI/CD
+- Continuous Delivery
 - Definition of Done
-- Value Delivery
-- Scrum Product Development
+- DevOps
+- Engineering Practices
 - People and Process
-- Working Software
+- Scrum
+- Scrum Product Development
+- Scrum Product Management
 - Scrum Team
 - Software Increment
-- Scrum Product Management
-- Engineering Practices
-- Continuous Delivery
-- Agile Software Engineering
-- Product Strategy
+- Value Delivery
+- Working Software
 categories:
 - DevOps
 - Scrum
-- Product Delivery
+- Value Delivery
 preview: 2025-02-03-delivery-as-the-ultimate-measure-of-progress.jpg
 
 ---
