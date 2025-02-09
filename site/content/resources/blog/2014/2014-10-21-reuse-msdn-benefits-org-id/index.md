@@ -26,17 +26,17 @@ aliasesFor404:
 - /blog/reuse-your-msdn-benefits-with-your-org-id
 - /resources/blog/reuse-msdn-benefits-org-id
 tags:
-- Windows
-- Troubleshooting
-- System Configuration
-- Organisational Change
 - Azure DevOps
+- Organisational Change
 - Software Development
+- System Configuration
 - Technical Mastery
+- Troubleshooting
+- Windows
 categories:
 - Install and Configuration
+- Miscellaneous
 - Practical Techniques and Tooling
-- Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---

@@ -26,24 +26,24 @@ aliasesFor404:
 - /blog/uncommitted-changes-messing-up-your-sync-in-git-with-visual-studio
 - /resources/blog/uncommitted-changes-messing-sync-git-visual-studio
 tags:
-- Modern Source Control
-- Software Development
+- Change Management
 - DevOps
+- Digital Transformation
+- Engineering Practices
+- Modern Source Control
+- Operational Practices
+- Organisational Change
+- Pragmatic Thinking
+- Software Developers
+- Software Development
+- Technical Excellence
+- Technical Mastery
 - Troubleshooting
 - Working Software
-- Software Developers
-- Technical Excellence
-- Engineering Practices
-- Operational Practices
-- Pragmatic Thinking
-- Technical Mastery
-- Organisational Change
-- Change Management
-- Digital Transformation
 categories:
 - Code and Complexity
-- Practical Techniques and Tooling
 - DevOps
+- Practical Techniques and Tooling
 preview: naked-alm-git-2-2.png
 
 ---

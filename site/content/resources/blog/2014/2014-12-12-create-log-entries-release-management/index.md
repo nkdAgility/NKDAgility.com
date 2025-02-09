@@ -26,24 +26,24 @@ aliasesFor404:
 - /blog/create-log-entries-in-release-management
 - /resources/blog/create-log-entries-release-management
 tags:
-- Windows
 - Application Lifecycle Management
 - Azure DevOps
-- Software Development
-- Engineering Practices
-- Technical Excellence
 - Deployment Strategies
-- Software Developers
-- Operational Practices
-- System Configuration
-- Working Software
-- Engineering Excellence
-- Pragmatic Thinking
-- Troubleshooting
 - DevOps
+- Engineering Excellence
+- Operational Practices
+- Pragmatic Thinking
+- Software Developers
+- Software Development
+- System Configuration
+- Technical Excellence
+- Technical Mastery
+- Troubleshooting
+- Windows
+- Working Software
 categories:
-- Practical Techniques and Tooling
 - Application Lifecycle Management
+- Practical Techniques and Tooling
 - Technical Excellence
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 

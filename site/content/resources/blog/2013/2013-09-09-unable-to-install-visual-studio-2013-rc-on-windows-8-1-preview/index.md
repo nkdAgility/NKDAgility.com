@@ -22,14 +22,14 @@ aliasesFor404:
 - /blog/unable-to-install-visual-studio-2013-rc-on-windows-8-1-preview
 - /resources/blog/unable-to-install-visual-studio-2013-rc-on-windows-8-1-preview
 tags:
-- Windows
-- Troubleshooting
+- Software Developers
 - Software Development
 - System Configuration
-- Software Developers
-- Working Software
 - Technical Excellence
 - Technical Mastery
+- Troubleshooting
+- Windows
+- Working Software
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

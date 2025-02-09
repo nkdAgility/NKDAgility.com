@@ -26,16 +26,16 @@ aliasesFor404:
 - /blog/issue-[-tfs-2013-]-tf255466-a-previous-update-or-installation-requires-a-restart
 - /resources/blog/issue-tfs-2013-tf255466-previous-update-installation-requires-restart
 tags:
-- Windows
-- System Configuration
-- Troubleshooting
+- Azure DevOps
+- Operational Practices
+- Software Developers
 - Software Development
+- System Configuration
 - Technical Excellence
 - Technical Mastery
+- Troubleshooting
+- Windows
 - Working Software
-- Azure DevOps
-- Software Developers
-- Operational Practices
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

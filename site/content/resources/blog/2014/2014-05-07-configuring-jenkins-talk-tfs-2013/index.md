@@ -26,25 +26,25 @@ aliasesFor404:
 - /blog/configuring-jenkins-to-talk-to-tfs-2013
 - /resources/blog/configuring-jenkins-talk-tfs-2013
 tags:
-- Modern Source Control
-- System Configuration
-- Software Developers
-- CI/CD
-- Continuos Integration
-- Software Development
-- Continuous Integration
-- DevOps
 - Application Lifecycle Management
 - Change Management
-- Working Software
-- Engineering Practices
-- Team Collaboration
+- CI/CD
+- Continuos Integration
 - Continuous Delivery
-- Technical Excellence
+- Continuous Integration
+- DevOps
+- Modern Source Control
+- Operational Practices
+- Software Developers
+- Software Development
+- System Configuration
+- Team Collaboration
+- Value Delivery
+- Working Software
 categories:
+- Code and Complexity
 - Install and Configuration
 - Practical Techniques and Tooling
-- Code and Complexity
 preview: naked-alm-jenkins-logo-9-9.png
 
 ---

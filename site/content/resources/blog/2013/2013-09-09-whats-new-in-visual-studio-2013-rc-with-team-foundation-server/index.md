@@ -26,25 +26,25 @@ aliasesFor404:
 - /blog/what's-new-in-visual-studio-2013-and-tfs-2013-rc
 - /resources/blog/whats-new-in-visual-studio-2013-rc-with-team-foundation-server
 tags:
-- Agile Portfolio Management
-- Software Development
-- Software Developers
-- Agile Planning Tools
-- Modern Source Control
-- Agile Tools
-- Working Software
-- Agile Digital Tools
 - Ability to Innovate
-- Windows
-- Agility
-- Collaboration Tools
-- Value Delivery
+- Agile Digital Tools
+- Agile Planning Tools
+- Agile Portfolio Management
+- Agile Software Development
+- Agile Tools
+- Application Lifecycle Management
 - Continuous Improvement
-- Software Increment
+- Continuous Integration
+- Modern Source Control
+- Software Developers
+- Software Development
+- Team Collaboration
+- Windows
+- Working Software
 categories:
+- Agile Product Management
+- Application Lifecycle Management
 - Install and Configuration
-- Technical Excellence
-- Products and Books
 preview: nakedalm-experts-visual-studio-alm-13-13.png
 
 ---

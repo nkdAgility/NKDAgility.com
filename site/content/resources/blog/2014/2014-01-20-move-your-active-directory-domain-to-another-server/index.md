@@ -22,16 +22,16 @@ aliasesFor404:
 - /blog/move-your-active-directory-domain-to-another-server
 - /resources/blog/move-your-active-directory-domain-to-another-server
 tags:
-- Windows
-- System Configuration
-- Operational Practices
-- Troubleshooting
-- Pragmatic Thinking
 - Change Management
-- Software Development
-- Technical Excellence
 - Engineering Practices
+- Operational Practices
+- Pragmatic Thinking
+- Software Development
+- System Configuration
+- Technical Excellence
 - Technical Mastery
+- Troubleshooting
+- Windows
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

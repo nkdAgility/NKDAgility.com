@@ -26,21 +26,21 @@ aliasesFor404:
 - /blog/tfs-for-cross-team-and-cross-business-line-work-item-tracking
 - /resources/blog/tfs-cross-team-cross-business-line-work-item-tracking
 tags:
-- Modern Source Control
-- Software Development
-- Working Software
-- Agile Planning Tools
-- Application Lifecycle Management
-- Cross Functional Teams
-- People and Process
-- Agile Tools
-- Team Collaboration
 - Agile Digital Tools
-- Collaboration Tools
-- Software Developers
+- Agile Planning Tools
+- Agile Tools
+- Application Lifecycle Management
+- Azure DevOps
 - Change Management
-- Agile Product Management
-- Agile Project Management
+- Collaboration Tools
+- Cross Functional Teams
+- Modern Source Control
+- Organisational Change
+- People and Process
+- Software Developers
+- Software Development
+- Team Collaboration
+- Working Software
 categories:
 - Application Lifecycle Management
 - People and Process

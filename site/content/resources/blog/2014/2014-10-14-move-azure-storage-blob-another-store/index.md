@@ -26,20 +26,20 @@ aliasesFor404:
 - /blog/move-an-azure-storage-blob-to-another-store
 - /resources/blog/move-azure-storage-blob-another-store
 tags:
-- Software Development
-- Working Software
 - Azure DevOps
 - DevOps
-- System Configuration
+- Engineering Practices
+- Featured
 - Software Developers
+- Software Development
+- System Configuration
 - Technical Excellence
 - Technical Mastery
-- Featured
-- Engineering Practices
+- Working Software
 categories:
-- Practical Techniques and Tooling
+- Code and Complexity
 - Install and Configuration
-- Azure DevOps
+- Practical Techniques and Tooling
 preview: nakedalm-windows-logo-4-4.png
 
 ---

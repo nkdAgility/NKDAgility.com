@@ -30,21 +30,21 @@ aliasesFor404:
 - /blog/ndc-london--second-look--team-foundation-server-&amp;-vso
 - /resources/blog/ndc-london-second-look-team-foundation-server-vso
 tags:
-- Application Lifecycle Management
-- Agile Tools
 - Agile Digital Tools
+- Agile Planning Tools
+- Agile Portfolio Management
+- Agile Product Ownership
+- Agile Tools
+- Application Lifecycle Management
 - Azure Boards
 - Azure DevOps
-- Working Software
-- Agile Product Ownership
-- Software Developers
-- Scrum Product Management
 - Collaboration Tools
-- Agile Planning Tools
 - Continuous Integration
-- Software Development
 - People and Process
-- Agile Portfolio Management
+- Scrum Product Management
+- Software Developers
+- Software Development
+- Working Software
 categories:
 - Application Lifecycle Management
 - Events and Presentations

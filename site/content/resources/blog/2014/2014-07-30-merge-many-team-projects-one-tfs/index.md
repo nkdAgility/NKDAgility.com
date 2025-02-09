@@ -26,25 +26,25 @@ aliasesFor404:
 - /blog/merge-team-projects-into-one-in-tfs
 - /resources/blog/merge-many-team-projects-one-tfs
 tags:
-- Modern Source Control
-- System Configuration
-- Software Development
-- Azure DevOps
-- Software Developers
-- Technical Mastery
-- Agile Tools
-- Change Management
-- Organisational Change
 - Agile Digital Tools
-- Collaboration Tools
+- Agile Tools
 - Application Lifecycle Management
-- Value Delivery
+- Azure DevOps
+- Change Management
+- Collaboration Tools
 - Deployment Strategies
-- Engineering Practices
+- Modern Source Control
+- Operational Practices
+- Organisational Change
+- Software Developers
+- Software Development
+- System Configuration
+- Technical Mastery
+- Value Delivery
 categories:
+- Code and Complexity
 - Install and Configuration
 - Practical Techniques and Tooling
-- Code and Complexity
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---

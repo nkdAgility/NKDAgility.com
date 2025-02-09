@@ -26,25 +26,25 @@ aliasesFor404:
 - /blog/could-not-find-mappings-for-all-states-defined-in-'test-suit'-work-item-type
 - /resources/blog/find-mappings-states-defined-test-suit-work-item-type
 tags:
-- System Configuration
-- Troubleshooting
-- Software Development
-- Azure Boards
-- Test Strategy
-- Windows
-- Engineering Practices
-- Technical Excellence
-- Software Developers
-- Operational Practices
-- Azure DevOps
-- Pragmatic Thinking
 - Application Lifecycle Management
+- Azure Boards
+- Azure DevOps
 - DevOps
+- Operational Practices
+- Software Developers
+- Software Development
+- System Configuration
+- Technical Excellence
+- Technical Mastery
 - Test Automation
+- Test Strategy
+- Troubleshooting
+- Windows
+- Working Software
 categories:
+- Code and Complexity
 - Install and Configuration
 - Practical Techniques and Tooling
-- Technical Excellence
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

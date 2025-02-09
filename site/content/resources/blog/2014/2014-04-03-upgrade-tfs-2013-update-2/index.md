@@ -26,25 +26,25 @@ aliasesFor404:
 - /blog/should-i-upgrade-to-tfs-2013-update-2-
 - /resources/blog/upgrade-tfs-2013-update-2
 tags:
-- Windows
 - Agile Digital Tools
-- Application Lifecycle Management
-- Software Developers
 - Agile Tools
-- Software Development
-- System Configuration
-- Working Software
+- Application Lifecycle Management
+- Azure DevOps
+- Change Management
 - Featured
 - Modern Source Control
+- Release Planning
+- Software Developers
+- Software Development
 - Software Increment
-- Azure DevOps
+- System Configuration
 - Technical Excellence
-- Change Management
-- Agile Planning Tools
+- Windows
+- Working Software
 categories:
-- Install and Configuration
 - Application Lifecycle Management
-- Technical Excellence
+- Azure DevOps
+- Install and Configuration
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---

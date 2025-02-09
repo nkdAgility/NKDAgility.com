@@ -28,20 +28,20 @@ aliasesFor404:
 - /powershell-tfs-2013-api--2
 - /resources/blog/powershell-tfs-2013-api-2-adding-to-a-globallist
 tags:
-- Working Software
+- Application Lifecycle Management
+- Azure DevOps
+- DevOps
+- Engineering Excellence
+- Engineering Practices
+- Modern Source Control
+- Pragmatic Thinking
 - Software Developers
 - Software Development
+- Software Increment
+- System Configuration
 - Technical Excellence
 - Technical Mastery
-- Engineering Excellence
-- DevOps
-- Pragmatic Thinking
-- System Configuration
-- Azure DevOps
-- Engineering Practices
-- Application Lifecycle Management
-- Software Increment
-- Modern Source Control
+- Working Software
 categories:
 - Code and Complexity
 - Practical Techniques and Tooling

@@ -22,25 +22,25 @@ aliasesFor404:
 - /blog/install-release-management-2013
 - /resources/blog/install-release-management-2013
 tags:
-- DevOps
+- Agile Tools
 - Application Lifecycle Management
-- Release Planning
-- System Configuration
 - Azure DevOps
 - CI/CD
-- Software Development
-- Deployment Strategies
 - Continuous Delivery
-- Agile Digital Tools
+- Deployment Strategies
+- DevOps
 - Featured
-- Technical Excellence
-- Continuos Delivery
-- Value Delivery
+- Operational Practices
+- Release Planning
 - Software Developers
+- Software Development
+- Software Increment
+- System Configuration
+- Working Software
 categories:
+- Application Lifecycle Management
 - Install and Configuration
 - Practical Techniques and Tooling
-- Products and Books
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

@@ -22,17 +22,17 @@ aliasesFor404:
 - /blog/configure-a-dns-server-for-an-azure-virtual-network
 - /resources/blog/configure-a-dns-server-for-an-azure-virtual-network
 tags:
-- System Configuration
 - DevOps
+- Engineering Practices
+- Featured
+- Operational Practices
 - Site Reliability
 - Software Developers
 - Software Development
+- System Configuration
 - Technical Excellence
-- Engineering Practices
-- Operational Practices
 - Technical Mastery
 - Working Software
-- Featured
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

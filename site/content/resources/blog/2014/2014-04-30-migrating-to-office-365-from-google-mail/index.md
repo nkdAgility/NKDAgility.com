@@ -22,20 +22,20 @@ aliasesFor404:
 - /blog/migrating-to-office-365-from-google-mail
 - /resources/blog/migrating-to-office-365-from-google-mail
 tags:
+- Customer Satisfaction
+- Decision Making
+- Deployment Strategies
+- DevOps
+- Digital Transformation
+- Operational Practices
+- Pragmatic Thinking
+- Software Developers
+- Software Development
 - System Configuration
 - Technical Excellence
 - Technical Mastery
 - Troubleshooting
-- Pragmatic Thinking
 - Working Software
-- Software Development
-- Operational Practices
-- Decision Making
-- Customer Satisfaction
-- Deployment Strategies
-- DevOps
-- Digital Transformation
-- Software Developers
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

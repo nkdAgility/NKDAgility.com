@@ -26,17 +26,17 @@ aliasesFor404:
 - /blog/installing-visual-studio-2015-side-by-side-with-2013-on-windows-10
 - /resources/blog/installing-visual-studio-2015-side-side-2013-windows-10
 tags:
-- Windows
-- Software Development
+- Featured
+- MVP
 - Software Developers
-- Working Software
+- Software Development
+- Software Increment
 - System Configuration
 - Technical Excellence
-- Featured
 - Technical Mastery
 - Troubleshooting
-- Software Increment
-- MVP
+- Windows
+- Working Software
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

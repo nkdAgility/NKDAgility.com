@@ -26,25 +26,25 @@ aliasesFor404:
 - /blog/agility-and-windows-10--upgrading-my-surface-pro-2
 - /resources/blog/agility-windows-10-upgrading-surface-pro-2
 tags:
-- Windows
 - Agility
+- Change Management
+- CI/CD
+- Continuos Delivery
+- Continuous Delivery
+- Continuous Improvement
+- Frequent Releases
+- Personal
+- Software Development
+- Software Increment
+- System Configuration
 - Transparency
 - Troubleshooting
-- Software Development
-- Continuous Delivery
+- Windows
 - Working Software
-- Continuous Improvement
-- Software Increment
-- Continuos Delivery
-- Change Management
-- System Configuration
-- CI/CD
-- Customer Feedback Loops
-- Deployment Frequency
 categories:
 - Install and Configuration
+- Practical Techniques and Tooling
 - Product Delivery
-- News and Reviews
 preview: nakedalm-windows-logo-12-12.png
 
 ---

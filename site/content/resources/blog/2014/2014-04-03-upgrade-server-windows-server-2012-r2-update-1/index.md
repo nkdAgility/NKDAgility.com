@@ -26,18 +26,18 @@ aliasesFor404:
 - /blog/upgrade-your-server-to-windows-server-2012-r2-update-1
 - /resources/blog/upgrade-server-windows-server-2012-r2-update-1
 tags:
-- Windows
-- System Configuration
-- Working Software
-- Software Increment
+- Azure DevOps
+- DevOps
+- Frequent Releases
+- Operational Practices
 - Software Developers
 - Software Development
+- Software Increment
+- System Configuration
 - Technical Excellence
-- Operational Practices
 - Technical Mastery
-- Frequent Releases
-- DevOps
-- Azure DevOps
+- Windows
+- Working Software
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

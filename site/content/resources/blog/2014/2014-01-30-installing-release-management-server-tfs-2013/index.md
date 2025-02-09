@@ -26,24 +26,24 @@ aliasesFor404:
 - /blog/installing-release-management-server-for-tfs-2013
 - /resources/blog/installing-release-management-server-tfs-2013
 tags:
-- Application Lifecycle Management
-- System Configuration
-- Software Development
-- Modern Source Control
-- Software Developers
-- Windows
-- Continuous Delivery
-- Engineering Practices
 - Agile Digital Tools
-- Featured
-- Technical Excellence
-- CI/CD
-- Continuos Delivery
-- Technical Mastery
-- Software Increment
-categories:
-- Install and Configuration
+- Agile Tools
 - Application Lifecycle Management
+- Continuous Delivery
+- Continuous Integration
+- DevOps
+- Featured
+- Modern Source Control
+- Operational Practices
+- Software Developers
+- Software Development
+- Software Increment
+- System Configuration
+- Windows
+- Working Software
+categories:
+- Application Lifecycle Management
+- Install and Configuration
 - Practical Techniques and Tooling
 
 ---

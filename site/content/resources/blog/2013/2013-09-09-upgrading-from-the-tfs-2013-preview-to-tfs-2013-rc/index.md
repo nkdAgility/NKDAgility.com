@@ -22,25 +22,25 @@ aliasesFor404:
 - /blog/upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
 - /resources/blog/upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
 tags:
+- Agile Tools
+- Application Lifecycle Management
+- Azure DevOps
+- Change Management
+- Deployment Strategies
+- Modern Source Control
+- Operational Practices
 - Software Developers
 - Software Development
-- System Configuration
-- Windows
 - Software Increment
-- Azure DevOps
-- Working Software
-- Modern Source Control
+- System Configuration
 - Technical Mastery
-- Application Lifecycle Management
-- CI/CD
-- DevOps
-- Azure Repos
-- Engineering Practices
-- Agile Digital Tools
+- Value Delivery
+- Windows
+- Working Software
 categories:
+- Code and Complexity
 - Install and Configuration
 - Practical Techniques and Tooling
-- Azure DevOps
 
 ---
 With the [TFS 2013 RC](http://nkdagility.com/whats-new-in-visual-studio-2013-rc-with-team-foundation-server/) being made available I need to upgrade one of my main customers from the TFS 2013 Preview.

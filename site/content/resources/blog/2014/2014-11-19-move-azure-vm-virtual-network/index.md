@@ -26,23 +26,23 @@ aliasesFor404:
 - /blog/move-your-azure-vm-to-a-virtual-network
 - /resources/blog/move-azure-vm-virtual-network
 tags:
-- System Configuration
 - Azure DevOps
+- Deployment Strategies
 - DevOps
-- Troubleshooting
-- Working Software
+- Engineering Practices
+- Featured
+- Operational Practices
 - Software Developers
 - Software Development
-- Deployment Strategies
+- System Configuration
 - Technical Excellence
-- Engineering Practices
-- Operational Practices
 - Technical Mastery
-- Featured
+- Troubleshooting
+- Working Software
 categories:
+- Azure DevOps
 - Install and Configuration
 - Practical Techniques and Tooling
-- Technical Excellence
 preview: nakedalm-windows-logo-8-8.png
 
 ---

@@ -26,24 +26,24 @@ aliasesFor404:
 - /blog/tfs-build-reports-licencies-licx--unable-to-load-type
 - /resources/blog/tfs-build-reports-licencies-licx-unable-load-type
 tags:
-- Software Developers
-- Troubleshooting
-- Software Development
-- Working Software
-- Operational Practices
-- Continuous Delivery
-- Engineering Practices
-- Technical Excellence
-- CI/CD
-- Continuos Delivery
-- Site Reliability
 - Azure DevOps
-- Engineering Excellence
-- Technical Mastery
+- Continuos Integration
+- Continuous Delivery
 - Continuous Integration
+- DevOps
+- Operational Practices
+- Pragmatic Thinking
+- Site Reliability
+- Software Developers
+- Software Development
+- System Configuration
+- Technical Excellence
+- Technical Mastery
+- Troubleshooting
+- Working Software
 categories:
-- Install and Configuration
 - Code and Complexity
+- Install and Configuration
 - Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 

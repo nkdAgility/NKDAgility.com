@@ -26,9 +26,9 @@ aliasesFor404:
 - /blog/using-multiple-email-alias-with-your-existing-microsoft-id
 - /resources/blog/using-multiple-email-alias-existing-microsoft-id
 tags:
-- Windows
-- System Configuration
 - Pragmatic Thinking
+- System Configuration
+- Windows
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

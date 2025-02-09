@@ -26,15 +26,15 @@ aliasesFor404:
 - /blog/be-a-kid-again-and-upgrade-to-windows-phone-8-1-developer-preview
 - /resources/blog/kid-upgrade-windows-phone-8-1-developer-preview
 tags:
-- Windows
-- Troubleshooting
-- System Configuration
-- Software Increment
-- Software Development
 - Discovery and Learning
 - Experimentation
-- Working Software
 - Featured
+- Software Development
+- Software Increment
+- System Configuration
+- Troubleshooting
+- Windows
+- Working Software
 categories:
 - Install and Configuration
 - News and Reviews

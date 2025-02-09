@@ -26,25 +26,25 @@ aliasesFor404:
 - /blog/migrating-source-from-perforce-to-git-on-vso
 - /resources/blog/migrating-source-perforce-git-vso
 tags:
-- DevOps
-- Software Development
-- Modern Source Control
-- Software Developers
-- Working Software
+- Application Lifecycle Management
 - Azure DevOps
 - Azure Repos
-- Application Lifecycle Management
 - Change Management
-- Technical Excellence
 - CI/CD
+- Continuous Integration
+- DevOps
+- Modern Source Control
+- Organisational Change
+- Software Developers
+- Software Development
+- Technical Excellence
 - Technical Mastery
 - Technical Strategy
-- Organisational Change
-- Agile Digital Tools
+- Working Software
 categories:
+- Code and Complexity
 - DevOps
 - Install and Configuration
-- Code and Complexity
 preview: naked-alm-git-1-1.png
 
 ---

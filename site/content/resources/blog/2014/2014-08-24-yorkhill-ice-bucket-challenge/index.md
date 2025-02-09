@@ -22,12 +22,12 @@ aliasesFor404:
 - /blog/yorkhill-ice-bucket-challenge
 - /resources/blog/yorkhill-ice-bucket-challenge
 tags:
-- Personal
 - Miscellaneous
+- Personal
 categories:
 - Events and Presentations
-- Personal
 - Miscellaneous
+- Personal
 preview: yorkhill-ice-bucket-challange-5-5.png
 
 ---

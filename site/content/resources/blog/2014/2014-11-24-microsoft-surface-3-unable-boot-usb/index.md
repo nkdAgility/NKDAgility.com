@@ -26,21 +26,21 @@ aliasesFor404:
 - /blog/microsoft-surface-3-unable-to-boot-from-usb
 - /resources/blog/microsoft-surface-3-unable-boot-usb
 tags:
-- Windows
-- Troubleshooting
-- Software Development
-- Working Software
-- System Configuration
-- Software Developers
-- Discovery and Learning
-- Operational Practices
-- Engineering Practices
-- Sensemaking
-- Engineering Excellence
-- Technical Excellence
 - Continuous Improvement
+- Discovery and Learning
+- Engineering Excellence
+- Engineering Practices
+- Operational Practices
 - Pragmatic Thinking
-- Experimentation
+- Sensemaking
+- Software Developers
+- Software Development
+- System Configuration
+- Technical Excellence
+- Technical Mastery
+- Troubleshooting
+- Windows
+- Working Software
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

@@ -26,24 +26,24 @@ aliasesFor404:
 - /blog/use-corporate-identities-with-existing-vso-accounts
 - /resources/blog/use-corporate-identities-existing-vso-accounts
 tags:
-- Windows
-- System Configuration
 - Azure DevOps
-- Modern Source Control
 - Azure Repos
 - Change Management
-- Engineering Practices
-- Collaboration Tools
-- Technical Excellence
-- Software Development
-- Value Delivery
-- Software Developers
-- Technical Strategy
+- DevOps
 - Digital Transformation
+- Modern Source Control
+- Operational Practices
+- Software Developers
+- System Configuration
+- Technical Excellence
+- Technical Strategy
+- Troubleshooting
+- Value Delivery
+- Windows
 - Working Software
 categories:
-- Install and Configuration
 - Azure DevOps
+- Install and Configuration
 - Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-11-11.png
 

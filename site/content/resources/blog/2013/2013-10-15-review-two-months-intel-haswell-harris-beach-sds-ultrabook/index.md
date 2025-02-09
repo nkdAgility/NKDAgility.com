@@ -26,10 +26,10 @@ aliasesFor404:
 - /blog/review-part-3--two-months-with-intel-haswell-harris-beach-sds-ultrabook
 - /resources/blog/review-two-months-intel-haswell-harris-beach-sds-ultrabook
 tags:
-- Windows
-- Transparency
 - Featured
+- Transparency
 - Troubleshooting
+- Windows
 categories:
 - News and Reviews
 - Products and Books

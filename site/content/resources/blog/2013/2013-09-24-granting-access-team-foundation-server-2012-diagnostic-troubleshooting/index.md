@@ -26,21 +26,21 @@ aliasesFor404:
 - /blog/granting-access-to-team-foundation-server-2012-for-diagnostic-troubleshooting
 - /resources/blog/granting-access-team-foundation-server-2012-diagnostic-troubleshooting
 tags:
-- Troubleshooting
-- Software Development
-- Pragmatic Thinking
-- System Configuration
 - Azure DevOps
-- Software Developers
-- Technical Excellence
-- Engineering Practices
-- Operational Practices
-- Technical Mastery
-- DevOps
-- Working Software
-- Modern Source Control
-- Engineering Excellence
 - Continuous Improvement
+- DevOps
+- Engineering Excellence
+- Engineering Practices
+- Modern Source Control
+- Operational Practices
+- Pragmatic Thinking
+- Software Developers
+- Software Development
+- System Configuration
+- Technical Excellence
+- Technical Mastery
+- Troubleshooting
+- Working Software
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

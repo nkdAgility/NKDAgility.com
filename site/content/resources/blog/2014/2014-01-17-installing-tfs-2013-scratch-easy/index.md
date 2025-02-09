@@ -26,15 +26,15 @@ aliasesFor404:
 - /blog/installing-tfs-2013-from-scratch-is-easy
 - /resources/blog/installing-tfs-2013-scratch-easy
 tags:
-- Software Development
-- System Configuration
-- Working Software
-- Technical Excellence
-- Technical Mastery
-- DevOps
 - Azure DevOps
+- DevOps
 - Modern Source Control
 - Software Developers
+- Software Development
+- System Configuration
+- Technical Excellence
+- Technical Mastery
+- Working Software
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

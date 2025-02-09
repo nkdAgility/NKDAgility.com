@@ -28,21 +28,21 @@ aliasesFor404:
 - /powershell-tfs-2013-api--1
 - /resources/blog/powershell-tfs-2013-api-1-get-tfscollection-and-tfs-services
 tags:
-- System Configuration
-- Working Software
-- Modern Source Control
-- Software Development
-- Software Developers
-- Technical Mastery
-- Azure DevOps
-- Technical Excellence
-- Application Lifecycle Management
-- Agile Tools
-- Windows
-- Featured
 - Agile Digital Tools
-- Engineering Practices
+- Agile Tools
+- Application Lifecycle Management
+- Azure DevOps
 - Azure Repos
+- Featured
+- Modern Source Control
+- Pragmatic Thinking
+- Software Developers
+- Software Development
+- System Configuration
+- Technical Excellence
+- Technical Mastery
+- Windows
+- Working Software
 categories:
 - Code and Complexity
 - Install and Configuration

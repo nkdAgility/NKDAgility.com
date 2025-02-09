@@ -26,25 +26,25 @@ aliasesFor404:
 - /blog/bug-in-the-visual-studio-git-integration-that-results-in-a-merge-conflict
 - /resources/blog/bug-visual-studio-git-integration-results-merge-conflict
 tags:
-- Software Developers
-- Modern Source Control
-- Software Development
-- Working Software
-- Troubleshooting
 - Change Management
+- DevOps
 - Engineering Excellence
+- Modern Source Control
+- Organisational Change
 - People and Process
-- Operational Practices
-- Windows
-- Working Agreements
-- Engineering Practices
+- Pragmatic Thinking
+- Software Developers
+- Software Development
 - Technical Excellence
 - Technical Mastery
-- Asynchronous Development
+- Troubleshooting
+- Windows
+- Working Agreements
+- Working Software
 categories:
 - Code and Complexity
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 preview: naked-alm-git-2-2.png
 
 ---

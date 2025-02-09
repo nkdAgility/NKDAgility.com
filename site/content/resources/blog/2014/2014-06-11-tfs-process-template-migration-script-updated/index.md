@@ -22,25 +22,25 @@ aliasesFor404:
 - /blog/tfs-process-template-migration-script-updated
 - /resources/blog/tfs-process-template-migration-script-updated
 tags:
-- Scrum
-- Software Development
-- Change Management
-- Working Software
-- Agile Tools
 - Agile Digital Tools
-- Scrum Product Management
-- People and Process
-- Scrum Product Development
 - Agile Planning Tools
 - Agile Project Management
 - Agile Software Development
-- System Configuration
+- Agile Tools
 - Application Lifecycle Management
-- Software Increment
-categories:
+- Change Management
+- People and Process
 - Scrum
-- Install and Configuration
+- Scrum Product Development
+- Scrum Product Management
+- Software Developers
+- Software Development
+- Software Increment
+- Working Software
+categories:
 - Code and Complexity
+- Install and Configuration
+- Scrum
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

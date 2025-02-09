@@ -27,24 +27,24 @@ aliasesFor404:
 - /blog/avoid-bug-task-anti-pattern-azure-devops/
 - /resources/blog/
 tags:
-- DevOps
-- Agility
+- Agile Community
+- Agile Digital Tools
+- Agile Product Ownership
 - Agile Software Development
 - Agile Software Engineering
-- Product Backlog
-- Software Development
-- Azure DevOps
-- Product Owner
-- Agile Product Ownership
-- People and Process
-- Agile Digital Tools
-- Technical Excellence
 - Agile Strategy
-- Software Developers
-- Lean Agile
-categories:
-- DevOps
+- Agility
+- Azure Boards
 - Azure DevOps
+- DevOps
+- People and Process
+- Product Backlog
+- Product Owner
+- Software Developers
+- Software Development
+categories:
+- Azure DevOps
+- DevOps
 - People and Process
 preview: NKDAgility-technically-BugAsATask-5-5.jpg
 
