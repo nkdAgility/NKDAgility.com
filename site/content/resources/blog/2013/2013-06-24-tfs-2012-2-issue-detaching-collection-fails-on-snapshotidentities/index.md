@@ -26,10 +26,25 @@ aliasesFor404:
 - /blog/issue-[-tfs-2012-2-]-detaching-collection-fails-on-snapshotidentities-with-object-reference-not-set-to-an-instance-of-an-object
 - /resources/blog/tfs-2012-2-issue-detaching-collection-fails-on-snapshotidentities
 tags:
-- Technical Debt
-- Evidence Based Improvement
-categories:
+- System Configuration
+- Troubleshooting
 - Azure DevOps
+- Technical Mastery
+- Software Development
+- Windows
+- Engineering Practices
+- Technical Excellence
+- Software Developers
+- Modern Source Control
+- Operational Practices
+- Working Software
+- Pragmatic Thinking
+- Application Lifecycle Management
+- DevOps
+categories:
+- Install and Configuration
+- Code and Complexity
+- Practical Techniques and Tooling
 preview: puzzle-issue-problem-128-link-2-2.png
 
 ---

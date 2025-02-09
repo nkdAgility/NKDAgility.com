@@ -28,11 +28,25 @@ aliasesFor404:
 - /engaging-with-complexity
 - /resources/blog/engaging-with-complexity-sharepoint-edition
 tags:
-- Agile Software Development
+- System Configuration
+- Software Development
+- Technical Mastery
+- Windows
+- Complexity Thinking
+- Working Software
+- Digital Transformation
+- Engineering Practices
+- Collaboration Tools
 - Technical Excellence
+- Technical Strategy
+- Software Developers
+- Engineering Excellence
+- Operational Practices
+- Change Management
 categories:
 - Install and Configuration
-- Azure DevOps
+- Practical Techniques and Tooling
+- Complexity Thinking
 preview: metro-sharepoint-128-link-2-2.png
 
 ---

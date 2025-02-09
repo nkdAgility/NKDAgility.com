@@ -26,10 +26,24 @@ aliasesFor404:
 - /blog/issue-[-tfs2012-2-]-tf30063-you-are-not-authorized-to-access
 - /resources/blog/issue-tfs2012-2-tf30063-you-are-not-authorized-to-access
 tags:
-- Technical Debt
-- Agile Tools
+- Troubleshooting
+- DevOps
+- Working Software
+- System Configuration
+- Azure DevOps
+- Software Developers
+- Software Development
+- Release Planning
+- Frequent Releases
+- Software Increment
+- Modern Source Control
+- Technical Excellence
+- Windows
+- Technical Mastery
+- Application Lifecycle Management
 categories:
 - Install and Configuration
+- Products and Books
 - Azure DevOps
 preview: puzzle-issue-problem-128-link-3-3.png
 

@@ -28,11 +28,20 @@ aliasesFor404:
 - /sharepoint-2013-issue
 - /resources/blog/sharepoint-2013-issue-after-migration-from-2010-user-permission-not-working
 tags:
-- Agile Software Development
+- System Configuration
+- Troubleshooting
+- Software Development
+- Pragmatic Thinking
+- Working Software
+- Software Developers
 - Technical Excellence
+- Engineering Practices
+- Operational Practices
+- Technical Mastery
 categories:
-- Application Lifecycle Management
 - Install and Configuration
+- Practical Techniques and Tooling
+- Code and Complexity
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

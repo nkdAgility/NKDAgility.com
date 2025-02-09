@@ -218,9 +218,9 @@ function Get-OpenAIBatchStatus {
     return $Response.status
 }
 
-function Retrieve-OpenAIBatchResults {
+function Get-OpenAIBatchResults {
     param (
-        [string]$OPEN_AI_KEY,
+        [string]$OPEN_AI_KEY = $env:OPENAI_API_KEY,
         [string]$BatchId,
         [string]$OutputFile = "batch_output.jsonl"
     )

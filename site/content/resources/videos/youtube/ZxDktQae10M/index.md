@@ -22,32 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/ZxDktQae10M/maxresdefault.jpg
 duration: 1977
 isShort: false
-tags:
-- Agile Tools
-- Azure DevOps
-- Agile Software Development
-- Continuous Delivery
-- Technical Excellence
-- Agile Project Management
-- Deployment Strategies
-- Agile Product Management
-- Value Delivery
-- Agile Frameworks
-- Agile Planning Tools
-- Evidence Based Improvement
-- Customer Feedback Loops
-- Agile Product Validation
-- Software Development
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Install and Configuration
-- Practical Techniques and Tooling
-- Azure DevOps
+categories: []
 
 ---
  Check out the latest version: https://youtu.be/Qt1Ywu_KLrc
