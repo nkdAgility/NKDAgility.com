@@ -1,0 +1,825 @@
+1
+00:00:00,490 --> 00:00:05,540
+[Music]
+
+2
+00:00:05,600 --> 00:00:10,800
+i'm jb brown the nordstrom innovation
+
+3
+00:00:07,279 --> 00:00:12,960
+lab manager and this is the lab
+
+4
+00:00:10,800 --> 00:00:14,559
+we work on one week experiments somebody
+
+5
+00:00:12,960 --> 00:00:16,480
+will have an idea and we'll find a way
+
+6
+00:00:14,559 --> 00:00:18,320
+to figure out how to prove if the idea
+
+7
+00:00:16,480 --> 00:00:20,000
+is going to work and this week the
+
+8
+00:00:18,320 --> 00:00:22,400
+innovation lab is going to be building
+
+9
+00:00:20,000 --> 00:00:24,080
+an ipad app with customer feedback as we
+
+10
+00:00:22,400 --> 00:00:25,519
+go through the week we wanted to work in
+
+11
+00:00:24,080 --> 00:00:27,359
+the store to make sure that we were
+
+12
+00:00:25,519 --> 00:00:28,720
+getting customer feedback as we worked
+
+13
+00:00:27,359 --> 00:00:30,080
+so that we were never working on
+
+14
+00:00:28,720 --> 00:00:31,840
+anything that wasn't valued by the
+
+15
+00:00:30,080 --> 00:00:34,559
+customer and only doing things that are
+
+16
+00:00:31,840 --> 00:00:36,559
+delivering value so we'll be building a
+
+17
+00:00:34,559 --> 00:00:39,280
+feature and testing it until we get to
+
+18
+00:00:36,559 --> 00:00:41,520
+the point where we have something that's
+
+19
+00:00:39,280 --> 00:00:44,320
+good enough that we can just leave and
+
+20
+00:00:41,520 --> 00:00:46,559
+leave the ipad app behind and have this
+
+21
+00:00:44,320 --> 00:00:48,239
+new thing that customers can use
+
+22
+00:00:46,559 --> 00:00:50,399
+this is the world's first flash build
+
+23
+00:00:48,239 --> 00:00:52,320
+it's a flash mob where a software team
+
+24
+00:00:50,399 --> 00:00:54,079
+shows up it builds an application in a
+
+25
+00:00:52,320 --> 00:00:56,000
+surprise location this is the nordstrom
+
+26
+00:00:54,079 --> 00:00:57,840
+innovation lab and we're at the flagship
+
+27
+00:00:56,000 --> 00:00:59,280
+store in downtown seattle right now the
+
+28
+00:00:57,840 --> 00:01:01,280
+team is just setting up their equipment
+
+29
+00:00:59,280 --> 00:01:03,440
+to get started we're going to build an
+
+30
+00:01:01,280 --> 00:01:05,360
+ipad app that helps customers pick the
+
+31
+00:01:03,440 --> 00:01:06,960
+best pair of sunglasses for them we
+
+32
+00:01:05,360 --> 00:01:08,640
+really don't know what the features are
+
+33
+00:01:06,960 --> 00:01:10,240
+yet we're going to use customer feedback
+
+34
+00:01:08,640 --> 00:01:11,840
+as we go along throughout the day and
+
+35
+00:01:10,240 --> 00:01:13,520
+the rest of the week in order to build
+
+36
+00:01:11,840 --> 00:01:15,759
+the best thing so the next thing we're
+
+37
+00:01:13,520 --> 00:01:18,320
+going to do is a user story map so we're
+
+38
+00:01:15,759 --> 00:01:19,920
+going to sit here and together outline
+
+39
+00:01:18,320 --> 00:01:21,439
+all the steps the customer would take
+
+40
+00:01:19,920 --> 00:01:23,040
+and actually even beforehand how they
+
+41
+00:01:21,439 --> 00:01:24,479
+buy sunglasses like what are the
+
+42
+00:01:23,040 --> 00:01:26,560
+different things that they might do and
+
+43
+00:01:24,479 --> 00:01:28,080
+how that process might change if we have
+
+44
+00:01:26,560 --> 00:01:29,439
+this application and we'll actually dig
+
+45
+00:01:28,080 --> 00:01:31,360
+into what we have to build in order to
+
+46
+00:01:29,439 --> 00:01:32,960
+support that process so now that we've
+
+47
+00:01:31,360 --> 00:01:34,880
+done a card mapping we're going to do a
+
+48
+00:01:32,960 --> 00:01:36,320
+paper prototype and this is something
+
+49
+00:01:34,880 --> 00:01:38,159
+that we commonly do in the innovation
+
+50
+00:01:36,320 --> 00:01:40,560
+lab it's a great way to
+
+51
+00:01:38,159 --> 00:01:42,880
+show what we'd like to do in a rough
+
+52
+00:01:40,560 --> 00:01:45,520
+prototype that we can easily throw out
+
+53
+00:01:42,880 --> 00:01:47,439
+change alter based on feedback from the
+
+54
+00:01:45,520 --> 00:01:50,240
+customers i'll continue building
+
+55
+00:01:47,439 --> 00:01:52,399
+individual paper slides and our user
+
+56
+00:01:50,240 --> 00:01:54,560
+experience specialist patel will bring
+
+57
+00:01:52,399 --> 00:01:56,320
+the prototype to a customer and say okay
+
+58
+00:01:54,560 --> 00:01:58,240
+i have this app and this is a paper
+
+59
+00:01:56,320 --> 00:02:00,240
+version i'd like you to kind of use it
+
+60
+00:01:58,240 --> 00:02:02,240
+like you would normally use an app and
+
+61
+00:02:00,240 --> 00:02:04,079
+you can press things interact with them
+
+62
+00:02:02,240 --> 00:02:05,920
+and then she'll change out the pages
+
+63
+00:02:04,079 --> 00:02:08,239
+based on how the customer uses it so
+
+64
+00:02:05,920 --> 00:02:09,039
+it's a similar experience to the ipad
+
+65
+00:02:08,239 --> 00:02:10,959
+only
+
+66
+00:02:09,039 --> 00:02:12,800
+an analog version
+
+67
+00:02:10,959 --> 00:02:14,720
+so it's day two and we have our first
+
+68
+00:02:12,800 --> 00:02:16,879
+working prototype of this app and how it
+
+69
+00:02:14,720 --> 00:02:19,040
+works is i take my first pair of
+
+70
+00:02:16,879 --> 00:02:21,280
+sunglasses put it on
+
+71
+00:02:19,040 --> 00:02:23,200
+take a picture all right and then i want
+
+72
+00:02:21,280 --> 00:02:25,520
+to compare it to this other pair i've
+
+73
+00:02:23,200 --> 00:02:28,160
+got right here
+
+74
+00:02:25,520 --> 00:02:28,160
+get these on
+
+75
+00:02:29,040 --> 00:02:32,640
+take another picture i can just hold
+
+76
+00:02:31,120 --> 00:02:35,519
+these up like this and see which one i
+
+77
+00:02:32,640 --> 00:02:37,120
+like better well telling kim having
+
+78
+00:02:35,519 --> 00:02:39,120
+talking to people and doing paper
+
+79
+00:02:37,120 --> 00:02:41,920
+prototypes we've been coding building an
+
+80
+00:02:39,120 --> 00:02:44,000
+ipad we take a stab at something we look
+
+81
+00:02:41,920 --> 00:02:45,040
+at the paper prototypes they can't put
+
+82
+00:02:44,000 --> 00:02:46,959
+together
+
+83
+00:02:45,040 --> 00:02:48,480
+we might take one at a time usually we
+
+84
+00:02:46,959 --> 00:02:50,879
+come to the board and
+
+85
+00:02:48,480 --> 00:02:52,560
+we grab the most important feature and
+
+86
+00:02:50,879 --> 00:02:54,239
+we started implementing it the really
+
+87
+00:02:52,560 --> 00:02:56,319
+cool thing with this flash build is that
+
+88
+00:02:54,239 --> 00:02:57,760
+we have actual real customers just today
+
+89
+00:02:56,319 --> 00:03:00,640
+we delivered four or five different
+
+90
+00:02:57,760 --> 00:03:02,560
+separate features and i deliver it swap
+
+91
+00:03:00,640 --> 00:03:04,480
+the ipad with tell she'd go and talk to
+
+92
+00:03:02,560 --> 00:03:05,920
+a customer and 10 minutes later i had
+
+93
+00:03:04,480 --> 00:03:07,360
+feedback from real customers about this
+
+94
+00:03:05,920 --> 00:03:09,280
+thing that i delivered and it changed
+
+95
+00:03:07,360 --> 00:03:11,200
+how we did the next thing and it's been
+
+96
+00:03:09,280 --> 00:03:12,640
+really really great watching day to day
+
+97
+00:03:11,200 --> 00:03:14,560
+what they've been doing the team to get
+
+98
+00:03:12,640 --> 00:03:16,159
+all the feedback from the sales people
+
+99
+00:03:14,560 --> 00:03:17,920
+the feedback the sales people gather
+
+100
+00:03:16,159 --> 00:03:19,920
+from the customers and it's a really
+
+101
+00:03:17,920 --> 00:03:21,360
+interesting process to kind of come in
+
+102
+00:03:19,920 --> 00:03:23,280
+on tuesday we had no idea what this
+
+103
+00:03:21,360 --> 00:03:25,280
+would look like there's an idea that
+
+104
+00:03:23,280 --> 00:03:27,040
+somebody had to say people take a lot of
+
+105
+00:03:25,280 --> 00:03:28,400
+pictures themselves with the sunglasses
+
+106
+00:03:27,040 --> 00:03:29,920
+it'd be cool if we could show them side
+
+107
+00:03:28,400 --> 00:03:31,440
+by side to help them make the process
+
+108
+00:03:29,920 --> 00:03:33,040
+better and that was the idea that was it
+
+109
+00:03:31,440 --> 00:03:34,799
+they came in they had nothing built and
+
+110
+00:03:33,040 --> 00:03:37,120
+they've been building this literally on
+
+111
+00:03:34,799 --> 00:03:38,640
+the spot throughout each day and by now
+
+112
+00:03:37,120 --> 00:03:40,319
+we actually have an app a functioning
+
+113
+00:03:38,640 --> 00:03:42,239
+app that they can go through it's very
+
+114
+00:03:40,319 --> 00:03:43,200
+intuitive to help look at themselves and
+
+115
+00:03:42,239 --> 00:03:45,040
+make the
+
+116
+00:03:43,200 --> 00:03:47,120
+sunglass selection process easier which
+
+117
+00:03:45,040 --> 00:03:48,640
+is pretty cool to watch so yesterday the
+
+118
+00:03:47,120 --> 00:03:50,080
+sunglass buyer for nordstrom came down
+
+119
+00:03:48,640 --> 00:03:52,080
+to check out our progress and she
+
+120
+00:03:50,080 --> 00:03:54,319
+happened to put on polarized glasses and
+
+121
+00:03:52,080 --> 00:03:55,760
+then held up the ipad in portrait view
+
+122
+00:03:54,319 --> 00:03:57,599
+and was surprised that she couldn't see
+
+123
+00:03:55,760 --> 00:03:59,920
+anything because it was black we figured
+
+124
+00:03:57,599 --> 00:04:01,840
+out the polarization of the ipad running
+
+125
+00:03:59,920 --> 00:04:03,920
+up and down and the polarization of the
+
+126
+00:04:01,840 --> 00:04:05,680
+glasses running vertical cancel each
+
+127
+00:04:03,920 --> 00:04:07,360
+other out you don't see anything but if
+
+128
+00:04:05,680 --> 00:04:09,120
+you turn the ipad to landscape you see
+
+129
+00:04:07,360 --> 00:04:11,439
+perfectly fine because the polarization
+
+130
+00:04:09,120 --> 00:04:13,360
+of the two items line up and it's okay
+
+131
+00:04:11,439 --> 00:04:15,120
+so it was pretty good find to be in the
+
+132
+00:04:13,360 --> 00:04:17,199
+store and she just happened to put on
+
+133
+00:04:15,120 --> 00:04:18,400
+polarized glasses and so today first
+
+134
+00:04:17,199 --> 00:04:20,320
+thing we're going to do is switch it to
+
+135
+00:04:18,400 --> 00:04:22,800
+a landscape design and then lock in the
+
+136
+00:04:20,320 --> 00:04:24,479
+aspect ratio of the ipad so customers
+
+137
+00:04:22,800 --> 00:04:26,000
+and sales people just naturally pick it
+
+138
+00:04:24,479 --> 00:04:28,240
+up and use it in landscape and not try
+
+139
+00:04:26,000 --> 00:04:29,440
+and go to portrait okay so i'm going to
+
+140
+00:04:28,240 --> 00:04:31,199
+show you what we've been working on the
+
+141
+00:04:29,440 --> 00:04:33,120
+last five days we've added quite a few
+
+142
+00:04:31,199 --> 00:04:34,720
+features over the week you take a
+
+143
+00:04:33,120 --> 00:04:36,960
+picture multiple pictures of the
+
+144
+00:04:34,720 --> 00:04:39,520
+customer and then you can pull them up
+
+145
+00:04:36,960 --> 00:04:41,600
+and tap the first one you can see it
+
+146
+00:04:39,520 --> 00:04:43,680
+larger and then tap the second and do a
+
+147
+00:04:41,600 --> 00:04:45,600
+side-by-side comparison of each glass
+
+148
+00:04:43,680 --> 00:04:47,919
+next to each other we also added a
+
+149
+00:04:45,600 --> 00:04:50,160
+feature where you can rename the picture
+
+150
+00:04:47,919 --> 00:04:51,360
+because we heard from sales people if a
+
+151
+00:04:50,160 --> 00:04:53,520
+customer is trying on quite a lot of
+
+152
+00:04:51,360 --> 00:04:55,919
+glasses it's helpful to be able to know
+
+153
+00:04:53,520 --> 00:04:58,000
+what order they were taken in and also
+
+154
+00:04:55,919 --> 00:04:59,759
+rename if you want with the brand or
+
+155
+00:04:58,000 --> 00:05:02,000
+some distinguishing feature about the
+
+156
+00:04:59,759 --> 00:05:04,080
+glass another feature we added was the
+
+157
+00:05:02,000 --> 00:05:06,160
+ability to zoom you can zoom in and
+
+158
+00:05:04,080 --> 00:05:09,360
+really get a good detailed look at the
+
+159
+00:05:06,160 --> 00:05:12,240
+frames side by side also to see one of
+
+160
+00:05:09,360 --> 00:05:14,080
+the pictures larger if you want to just
+
+161
+00:05:12,240 --> 00:05:15,919
+better view of one frame
+
+162
+00:05:14,080 --> 00:05:17,600
+you can flip the camera view as well
+
+163
+00:05:15,919 --> 00:05:20,080
+face it forward so the sales person
+
+164
+00:05:17,600 --> 00:05:21,759
+could take a picture of it like this or
+
+165
+00:05:20,080 --> 00:05:23,199
+you can flip the camera
+
+166
+00:05:21,759 --> 00:05:24,639
+like so
+
+167
+00:05:23,199 --> 00:05:26,479
+take a picture
+
+168
+00:05:24,639 --> 00:05:28,000
+uh yourself facing forward and then at
+
+169
+00:05:26,479 --> 00:05:30,240
+the end of it all we have a button
+
+170
+00:05:28,000 --> 00:05:32,560
+called new customer which just erases
+
+171
+00:05:30,240 --> 00:05:34,639
+all of the images and allows the
+
+172
+00:05:32,560 --> 00:05:35,680
+salesperson to start with a new customer
+
+173
+00:05:34,639 --> 00:05:37,199
+we're just trying to put the final
+
+174
+00:05:35,680 --> 00:05:39,600
+touches on the app tell talk to a lot of
+
+175
+00:05:37,199 --> 00:05:42,080
+users and they said that when we went
+
+176
+00:05:39,600 --> 00:05:43,360
+into the compare view it was unclear
+
+177
+00:05:42,080 --> 00:05:45,199
+where the pictures were coming from and
+
+178
+00:05:43,360 --> 00:05:46,880
+which picture was which so the animation
+
+179
+00:05:45,199 --> 00:05:48,080
+here is trying to solve that problem
+
+180
+00:05:46,880 --> 00:05:50,000
+make it a little more clear what's going
+
+181
+00:05:48,080 --> 00:05:52,080
+on one of the challenges with software
+
+182
+00:05:50,000 --> 00:05:53,600
+is when are you done right and i think
+
+183
+00:05:52,080 --> 00:05:54,800
+the answer is really it depends on how
+
+184
+00:05:53,600 --> 00:05:56,000
+much time you have
+
+185
+00:05:54,800 --> 00:05:58,560
+at least the most important things got
+
+186
+00:05:56,000 --> 00:05:59,919
+done so this was time box to a week and
+
+187
+00:05:58,560 --> 00:06:01,280
+we did a week's worth of work and it
+
+188
+00:05:59,919 --> 00:06:03,600
+seems like what we have now is something
+
+189
+00:06:01,280 --> 00:06:05,440
+that makes customers happy and addresses
+
+190
+00:06:03,600 --> 00:06:08,000
+the main problems and something that we
+
+191
+00:06:05,440 --> 00:06:09,840
+can track we have metrics on so
+
+192
+00:06:08,000 --> 00:06:12,880
+i think we're going to call that a day
+
+193
+00:06:09,840 --> 00:06:14,319
+the application has developed so far
+
+194
+00:06:12,880 --> 00:06:15,919
+everything's finished everything that
+
+195
+00:06:14,319 --> 00:06:17,520
+we've asked for and even the little
+
+196
+00:06:15,919 --> 00:06:19,919
+roadblocks and glitches that we kind of
+
+197
+00:06:17,520 --> 00:06:21,759
+stumbled across as we use the app during
+
+198
+00:06:19,919 --> 00:06:23,600
+the week has been solved i think that
+
+199
+00:06:21,759 --> 00:06:25,440
+it's going to be really easy to be able
+
+200
+00:06:23,600 --> 00:06:26,400
+to implement into our sale and i think
+
+201
+00:06:25,440 --> 00:06:28,240
+that we're going to find a lot of
+
+202
+00:06:26,400 --> 00:06:31,280
+success with application whether it's
+
+203
+00:06:28,240 --> 00:06:34,080
+via a selling tool for us or if it goes
+
+204
+00:06:31,280 --> 00:06:35,520
+public into a downloadable format
+
+205
+00:06:34,080 --> 00:06:39,160
+whatever happens i think this was
+
+206
+00:06:35,520 --> 00:06:39,160
+generally quite a success
+
+
