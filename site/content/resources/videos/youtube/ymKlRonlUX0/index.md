@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Planning
-- Scrum Product Management
-- Technical Debt
-- Value Stream Management
-- Continuous Improvement
-- Empirical Process Control
-- Agile Product Discovery
-- Agile Software Development
-- Team Collaboration
-- Agile Values and Principles
-- Agile Transformation
-- Lean Thinking
-- Evidence Based Management
-- Agile Product Ownership
+tags: []
 resourceTypes:
 - video
-categories:
-- Metrics and Learning
-- Value Delivery
-- Flow Efficiency
-- Scrum
-- Technical Excellence
+categories: []
 
 ---
 Have you ever felt something was off with burndown charts? I know I have. There's always been this nagging feeling that something wasn't quite right. Over the years, people have revered these charts as the ultimate tool for monitoring a team’s progress. But I’ve come to realize that this couldn’t be further from the truth.

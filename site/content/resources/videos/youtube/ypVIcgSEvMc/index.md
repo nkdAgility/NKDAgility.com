@@ -25,23 +25,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Customer Satisfaction
-- Agile Community
-- Continuous Learning
-- Employee Engagement
-- Agile Mentoring Program
-- Value Delivery
-- Customer Feedback Loops
-- Agile Product Management
-- Agile Product Validation
-- Market Adaptability
+tags: []
 resourceTypes:
 - video
-categories:
-- Discovery and Learning
-- Value Delivery
-- Organisational Agility
+categories: []
 
 ---
 ## The DevOps Evolution: More Than a Simple Shift

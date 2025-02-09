@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Team
-- Scrum Values
-- Sprint Review
-- Empirical Process Control
-- Transparency
-- Agile Values and Principles
-- Product Backlog
-- Continuous Improvement
-- Team Collaboration
-- Agile Product Management
-- Value Delivery
-- Organisational Culture
-- Team Motivation
-- Agile Transformation
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- Organisational Agility
-- People and Process
-- Transparency and Accountability
-- Value Delivery
+categories: []
 
 ---
 Why is Scrum so easy to understand but incredibly hard to master?

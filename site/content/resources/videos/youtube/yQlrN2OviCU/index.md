@@ -27,27 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Team Collaboration
-- Continuous Learning
-- Agile Community
-- Employee Engagement
-- Psychological Safety
-- Agile Mentoring Program
-- Discovery and Learning
-- Value Delivery
-- Agile Transformation
-- Organisational Culture
-- Feedback Loops
-- Experimentation
-- Agile Values and Principles
+tags: []
 resourceTypes:
 - video
-categories:
-- Discovery and Learning
-- People and Process
-- Metrics and Learning
-- Organisational Psychology
+categories: []
 
 ---
 In the world of Scrum and Agile training, **immersive learning** is a game-changer. It transforms the way we absorb information, moving away from traditional lecture-based approaches to more practical, hands-on experiences. One of the standout aspects of this learning style is the **peer feedback** loop, which not only accelerates learning but also encourages real-world application.

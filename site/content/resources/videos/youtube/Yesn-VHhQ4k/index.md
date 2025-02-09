@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Values
-- Complex Work
-- Continuous Improvement
-- Discovery and Learning
-- Team Collaboration
-- Agile Project Management
-- Empirical Process Control
-- Organisational Agility
-- Agile Software Development
-- Agile Transformation
-- Team Motivation
-- Psychological Safety
-- Experimentation
-- Lean Principles
+tags: []
 resourceTypes:
 - video
-categories:
-- Complexity Thinking
-- Discovery and Learning
-- Scrum
-- Values and Principles
-- Organisational Agility
+categories: []
 
 ---
 Agile exists to address the idea that no predetermined set of steps will lead to a predefined outcome. The problem has never been solved, nor has the solution ever been created, so you don’t know what you don’t know. No formula is going to guarantee a desired outcome.

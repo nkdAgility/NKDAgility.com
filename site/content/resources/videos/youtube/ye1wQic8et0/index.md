@@ -22,33 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/ye1wQic8et0/maxresdefault.jpg
 duration: 408
 isShort: false
-tags:
-- Team Collaboration
-- Decision Making
-- Business Agility
-- Organisational Agility
-- Change Management
-- Agile Planning
-- Value Delivery
-- Continuous Improvement
-- Agile Transformation
-- Lean Thinking
-- Agile Leadership
-- Systems Thinking
-- Evidence Based Management
-- Agile Values and Principles
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Value Delivery
-- Market Adaptability
-- Resilience and Change
+categories: []
 
 ---
  *Reducing Time to Market by Removing Committees*

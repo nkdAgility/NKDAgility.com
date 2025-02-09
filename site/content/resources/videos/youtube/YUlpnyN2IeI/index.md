@@ -29,28 +29,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Master
-- Scrum Team
-- Agile Values and Principles
-- Continuous Improvement
-- Empirical Process Control
-- Technical Excellence
-- Agile Product Management
-- Team Collaboration
-- Agile Methodology
-- Lean Principles
-- Agile Product Discovery
-- Value Delivery
-- Pragmatic Thinking
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- People and Process
-- Discovery and Learning
-- Value Delivery
-- Technical Excellence
+categories: []
 
 ---
 ## The Golden Nugget of Scrum Advice I've Ever Received

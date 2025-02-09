@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum
-- Professional Scrum
-- Scrum Team
-- Agile Coaching
-- Agile Product Management
-- Agile Planning
-- Team Collaboration
-- Continuous Improvement
-- Agile Transformation
-- Agile Certification
-- Agile Values and Principles
-- Team Motivation
-- Agile Software Development
-- Agile Mentoring
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- People and Process
-- Organisational Agility
-- Discovery and Learning
-- Technical Excellence
+categories: []
 
 ---
 ## Unlock the Full Potential of Scrum with APS Courses

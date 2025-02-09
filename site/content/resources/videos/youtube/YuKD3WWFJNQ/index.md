@@ -27,28 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Apocalypse
-- Team Collaboration
-- Sprint Review
-- Scrum Product Management
-- Psychological Safety
-- Agile Product Discovery
-- Value Prioritisation
-- Agile Product Ownership
-- Continuous Improvement
-- Employee Engagement
-- Agile Planning
-- Agile Values and Principles
-- Agile Transformation
+tags: []
 resourceTypes:
 - video
-categories:
-- People and Process
-- Organisational Agility
-- Agile Product Management
-- Value Delivery
-- Transparency and Accountability
+categories: []
 
 ---
 # Breaking the Silence: Sparking Engagement in Agile Teams 🚀

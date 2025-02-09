@@ -149,6 +149,8 @@ function Get-BatchCategoryConfidenceWithChecksum {
         New-Item -ItemType Directory -Path $CacheFolder -Force | Out-Null
     }
 
+    $batchJsonlOutout = Join-Path $CacheFolder "data.index.$ClassificationType-output.jsonl"
+    $batchJsonlInput = Join-Path $CacheFolder "data.index.$ClassificationType-input.jsonl"
     $batchFile = Join-Path $CacheFolder "data.index.$ClassificationType.batch"
     $cacheFile = Join-Path $CacheFolder "data.index.$ClassificationType.json"
 
@@ -159,7 +161,7 @@ function Get-BatchCategoryConfidenceWithChecksum {
 
         if ($batchStatus -eq "completed") {
             # Process batch results into cache format
-            $batchResults = Get-OpenAIBatchResults -BatchId $batchId
+            $batchResults = Get-OpenAIBatchResults -BatchId $batchId -OutputFile $batchJsonlOutout
             $categoryScores = @{}
 
             foreach ($result in $batchResults) {
@@ -205,6 +207,8 @@ function Get-BatchCategoryConfidenceWithChecksum {
 
             # Cleanup batch file after processing
             Remove-Item $batchFile -Force
+            Remove-Item $batchJsonlInput -Force
+            Remove-Item $batchJsonlOutout -Force
         }
         else {
             Write-WarningLog "Batch is still processing. Please wait for it to complete."
@@ -261,7 +265,7 @@ do not wrap the json in anything else, just return the json object.
 
     if ($prompts.Count -gt 0) {
         # Submit batch and save batch ID
-        $batchId = Submit-OpenAIBatch -Prompts $prompts
+        $batchId = Submit-OpenAIBatch -Prompts $prompts -OutputFile $batchJsonlInput
         $batchId | Set-Content -Path $batchFile -Force
         Write-Warning "Batch submitted. Processing..."
         return @()

@@ -29,22 +29,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Product Discovery
-- Customer Feedback Loops
-- Continuous Improvement
-- Team Collaboration
-- Agile Values and Principles
-- Discovery and Learning
-- Agile Transformation
-- Change Management
-- Team Motivation
+tags: []
 resourceTypes:
 - video
-categories:
-- People and Process
-- Discovery and Learning
-- Organisational Agility
+categories: []
 
 ---
 ## The Journey to Understanding

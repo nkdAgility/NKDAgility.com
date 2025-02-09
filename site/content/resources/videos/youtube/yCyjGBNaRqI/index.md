@@ -29,12 +29,7 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Organisational Psychology
-- Discovery and Learning
-- Value Delivery
+categories: []
 
 ---
  What makes us tick? Why do we exist?

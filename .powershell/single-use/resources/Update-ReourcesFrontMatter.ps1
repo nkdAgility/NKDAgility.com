@@ -13,7 +13,7 @@ $levelSwitch.MinimumLevel = 'Information'
 $outputDir = ".\site\content\resources\videos\"
 
 # Get list of directories and select the first 10
-$resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md"  | Sort-Object { $_ } -Descending | Select-Object -First 1
+$resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md"  | Sort-Object { $_ } -Descending | Select-Object -First 50
 
 $categoriesCatalog = Get-CatalogHashtable -Classification "categories"
 $tagsCatalog = Get-CatalogHashtable -Classification "tags"
@@ -175,7 +175,7 @@ $resources | ForEach-Object {
         $resourceTypeCounts[$ResourceType] = 1
     }
 }
-
+Write-Progress -id 1 -Completed
 Write-InfoLog "All markdown files processed."
 Write-InfoLog "--------------------------------------------------------"
 Write-InfoLog "Summary of updated Resource Types:"

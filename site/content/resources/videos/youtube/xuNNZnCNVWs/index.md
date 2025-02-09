@@ -22,30 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/xuNNZnCNVWs/maxresdefault.jpg
 duration: 45
 isShort: true
-tags:
-- Agile Coaching
-- Team Collaboration
-- Team Motivation
-- Scrum Team
-- Agile Project Management
-- Continuous Improvement
-- Agile Values and Principles
-- Customer Feedback Loops
-- Agile Product Management
-- Technical Excellence
-- Agile Transformation
-- Employee Engagement
-- Agile Software Development
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
-- People and Process
-- Organisational Agility
+categories: []
 
 ---
  #youtubeshorts presents Martin Hinshelwood raising 1 critical skill for a #scrummaster in under 60 seconds. What is the one thing a #scrummaster should master to be successful in #agile?

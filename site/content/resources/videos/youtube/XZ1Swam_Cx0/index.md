@@ -22,30 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/XZ1Swam_Cx0/maxresdefault.jpg
 duration: 59
 isShort: true
-tags:
-- Agile Apocalypse
-- Agile Certification
-- Agile Coaching
-- Agile Methodology
-- Team Collaboration
-- Team Motivation
-- Change Management
-- Organisational Change
-- Agile Values and Principles
-- Agile Community
-- Agile Transformation
-- Agile Software Development
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- People and Process
-- Organisational Agility
-- Discovery and Learning
-- News and Reviews
+categories: []
 
 ---
  Beware the Agile-pocalypse: Decoding the Agile "Antichrist" 🌪️

@@ -27,28 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Continuous Delivery
-- Agile Software Development
-- Team Collaboration
-- Customer Feedback Loops
-- Value Delivery
-- Agile Product Management
-- Lean Thinking
-- Agile Product Discovery
-- Agile Values and Principles
-- Working Software
-- Evidence Based Management
-- Agile Transformation
-- Technical Excellence
+tags: []
 resourceTypes:
 - video
-categories:
-- DevOps
-- Value Delivery
-- Agile Product Management
-- Technical Excellence
-- People and Process
+categories: []
 
 ---
 How important is DevOps in continuous delivery of value to customers?

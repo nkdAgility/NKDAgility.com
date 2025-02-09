@@ -27,27 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Traditional Management
-- Change Management
-- Business Agility
-- Organisational Agility
-- Team Motivation
-- Decision Making
-- Employee Engagement
-- Organisational Change
-- Market Adaptability
-- Leadership Training
-- Agile Values and Principles
-- Self Organisation
+tags: []
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Market Adaptability
-- Resilience and Change
-- Organisational Psychology
+categories: []
 
 ---
 Product of Conventional Practices

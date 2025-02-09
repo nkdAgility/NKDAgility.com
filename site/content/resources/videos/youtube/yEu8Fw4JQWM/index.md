@@ -27,28 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Kanban Theory
-- Lean Thinking
-- Systems Thinking
-- Continuous Improvement
-- Agile Planning
-- Agile Product Management
-- Value Delivery
-- Team Collaboration
-- Agile Software Development
-- Agile Values and Principles
-- Technical Excellence
-- Evidence Based Management
-- Agile Transformation
+tags: []
 resourceTypes:
 - video
-categories:
-- Kanban
-- Flow Efficiency
-- Lean
-- Systems Thinking
-- People and Process
+categories: []
 
 ---
 ## Why Less is Always More When It Comes to WIP

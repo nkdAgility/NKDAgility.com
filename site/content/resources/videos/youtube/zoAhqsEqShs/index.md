@@ -27,28 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Transformation
-- Scrum Training
-- Team Collaboration
-- Team Motivation
-- Continuous Improvement
-- Agile Coaching
-- Agile Product Management
-- Customer Feedback Loops
-- Agile Values and Principles
-- Employee Engagement
-- Agile Community
-- Change Management
-- Business Agility
+tags: []
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Scrum
-- Agile Transformation
-- Continuous Delivery
+categories: []
 
 ---
 **What is the most interesting outcome you have achieved as an agile consultant?**

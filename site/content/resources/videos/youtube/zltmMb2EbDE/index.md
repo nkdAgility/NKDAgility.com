@@ -27,27 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum
-- Agile Planning
-- Agile Strategy
-- Cycle Time
-- Lead Time
-- Throughput
-- Continuous Improvement
-- Scrum Team
-- Kanban Process
-- Evidence Based Management
-- Agile Forecasting
-- Technical Excellence
+tags: []
 resourceTypes:
 - video
-categories:
-- Kanban
-- Scrum
-- Metrics and Learning
-- Value Stream Management
-- People and Process
+categories: []
 
 ---
 ### Integrating Kanban with Scrum: Enhancing Your Workflow

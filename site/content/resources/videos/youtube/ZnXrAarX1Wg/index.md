@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Coaching
-- Organisational Change
-- Agile Mentoring
-- Team Motivation
-- Change Management
-- Agile Leadership
-- Agile Values and Principles
-- Continuous Improvement
-- Employee Engagement
-- Agile Community
-- Agile Transformation
-- Coaching
-- Agile Methodology
-- Team Collaboration
+tags: []
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Resilience and Change
-- Agile Product Management
-- Scrum
+categories: []
 
 ---
 **No go zone for Agile consultants**

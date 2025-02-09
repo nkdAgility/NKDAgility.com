@@ -173,8 +173,6 @@ function Submit-OpenAIBatch {
         [array]$Prompts,
         [string]$OutputFile = "batch_output.jsonl"
     )
-    
-    $BatchFile = "batch_input.jsonl"
 
     $BatchData = $Prompts | ForEach-Object {
         [PSCustomObject]@{
@@ -193,10 +191,10 @@ function Submit-OpenAIBatch {
     } 
     
     # Ensure each JSON object is written as a new line in the .jsonl file
-    $BatchData -join "`n" | Set-Content -Path $BatchFile -Encoding utf8
+    $BatchData -join "`n" | Set-Content -Path $OutputFile -Encoding utf8
     
     # Upload the batch file
-    $UploadResponse = Invoke-RestMethod -Uri "https://api.openai.com/v1/files" -Headers @{"Authorization" = "Bearer $OPEN_AI_KEY" } -Method Post -Form @{purpose = "batch"; file = Get-Item $BatchFile }
+    $UploadResponse = Invoke-RestMethod -Uri "https://api.openai.com/v1/files" -Headers @{"Authorization" = "Bearer $OPEN_AI_KEY" } -Method Post -Form @{purpose = "batch"; file = Get-Item $OutputFile }
     $FileId = $UploadResponse.id
     
     # Create batch

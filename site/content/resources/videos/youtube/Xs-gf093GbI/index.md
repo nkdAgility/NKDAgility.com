@@ -27,30 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Product Strategy
-- Agile Product Management
-- Team Collaboration
-- Strategic Goals
-- Agile Product Discovery
-- Team Motivation
-- Customer Feedback Loops
-- Agile Values and Principles
-- Organisational Agility
-- Continuous Improvement
-- Discovery and Learning
-- Value Delivery
-- Employee Engagement
-- Leadership Training
-- Agile Transformation
+tags: []
 resourceTypes:
 - video
-categories:
-- Agile Product Management
-- People and Process
-- Value Delivery
-- Discovery and Learning
-- Organisational Agility
+categories: []
 
 ---
 ## The essence of a Product is 'The Vision'

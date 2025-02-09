@@ -22,28 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/y2TObrUi3m0/maxresdefault.jpg
 duration: 117
 isShort: false
-tags:
-- Agile Values and Principles
-- Agile Strategy
-- Agile Coaching
-- Agile Transformation
-- Continuous Improvement
-- Organisational Agility
-- Team Collaboration
-- Agile Leadership
-- Value Delivery
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Value Delivery
-- Discovery and Learning
-- Technical Excellence
+categories: []
 
 ---
  *Unlocking Agile Success: Beyond Tools and Techniques*

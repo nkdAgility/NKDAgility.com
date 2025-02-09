@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Digital Transformation
-- Team Collaboration
-- Remote Working
-- Agile Coaching
-- Continuous Learning
-- Scrum Team
-- Agile Methodology
-- Agile Digital Tools
-- Employee Engagement
-- Value Delivery
-- Agile Product Management
-- Technical Excellence
-- Agile Product Discovery
-- Evidence Based Improvement
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- People and Process
-- Discovery and Learning
-- Practical Techniques and Tooling
-- Organisational Agility
+categories: []
 
 ---
 They offer very different experiences, each with their own set of unique pros and cons, but to answer the question simply, no, a live-online class is not as effective as in-person delivery.

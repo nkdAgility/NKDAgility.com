@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Product Discovery
-- Evidence Based Management
-- Strategic Goals
-- Value Delivery
-- Customer Feedback Loops
-- Ability to Innovate
-- Agile Strategy
-- Product Strategy
-- Team Collaboration
-- Continuous Improvement
-- Agile Leadership
-- Agile Software Development
-- Lean Product Development
-- Business Agility
+tags: []
 resourceTypes:
 - video
-categories:
-- Agile Product Management
-- Value Delivery
-- Metrics and Learning
-- Discovery and Learning
-- Organisational Agility
+categories: []
 
 ---
 In the dynamic world of product creation, success hinges on two critical components: **Product Management** and **Product Development**. These elements, while distinct in their functions, are deeply interconnected and essential for delivering products that truly meet market needs. In this post, we’ll explore the roles of these two components, how they complement each other, and the importance of their integration in the agile process.
