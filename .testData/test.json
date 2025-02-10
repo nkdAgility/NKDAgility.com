@@ -1,0 +1,19 @@
+{
+  "id": "batch_req_67a905e72c2881909eb78e88c9b54afb",
+  "custom_id": "request-c7d1960f-da25-4cef-87c2-a035fcd00e09",
+  "response": {
+    "status_code": 200,
+    "request_id": "bcb846c370bd2dddc69a64e5d2fd5ec8",
+    "body": {
+      "id": "chatcmpl-Az7TRoi8uC5nSYzOLUieYEFs262Hk",
+      "object": "chat.completion",
+      "created": 1739130101,
+      "model": "gpt-4o-mini-2024-07-18",
+      "choices": [{ "index": 0, "message": { "role": "assistant", "content": "{\n  \"category\": \"Application Lifecycle Management\",\n  \"confidence\": 50,\n  \"reasoning\": \"The content discusses tools related to VSTS Sync Migration, which falls under the scope of application lifecycle management, but does not provide in-depth coverage of the lifecycle itself.\"\n}", "refusal": null }, "logprobs": null, "finish_reason": "stop" }],
+      "usage": { "prompt_tokens": 345, "completion_tokens": 58, "total_tokens": 403, "prompt_tokens_details": { "cached_tokens": 0, "audio_tokens": 0 }, "completion_tokens_details": { "reasoning_tokens": 0, "audio_tokens": 0, "accepted_prediction_tokens": 0, "rejected_prediction_tokens": 0 } },
+      "service_tier": "default",
+      "system_fingerprint": "fp_72ed7ab54c"
+    }
+  },
+  "error": null
+}

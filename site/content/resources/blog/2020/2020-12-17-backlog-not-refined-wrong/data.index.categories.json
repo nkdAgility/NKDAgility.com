@@ -1,0 +1,42 @@
+{
+  "DevOps": {
+    "category": "DevOps",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses Scrum practices, particularly backlog refinement, which is a key aspect of Agile methodologies that supports continuous delivery. However, it primarily focuses on Scrum rather than the broader DevOps practices.",
+    "level": "Ignored"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "ai_confidence": 45,
+    "non_ai_confidence": 0,
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses Scrum practices and backlog refinement, with no direct focus on Azure DevOps tools or features.",
+    "level": "Ignored"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses Scrum practices, specifically focusing on backlog refinement and Sprint Planning, without any mention of Kanban principles or practices.",
+    "level": "Ignored"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "ai_confidence": 75,
+    "non_ai_confidence": 0,
+    "final_score": 52.0,
+    "reasoning": "The content discusses the importance of backlog refinement in Scrum, which relates to agile engineering practices. However, it primarily focuses on Scrum roles and processes rather than broader engineering practices like TDD, CI/CD, or modular architecture.",
+    "level": "Secondary"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "ai_confidence": 95,
+    "non_ai_confidence": 50,
+    "final_score": 82.0,
+    "reasoning": "Content primarily focuses on the importance of backlog refinement within the Scrum framework, discussing roles, events, and practices directly related to Scrum.",
+    "level": "Primary"
+  }
+}

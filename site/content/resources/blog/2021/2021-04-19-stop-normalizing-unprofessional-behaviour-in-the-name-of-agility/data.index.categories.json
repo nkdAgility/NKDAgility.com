@@ -1,0 +1,42 @@
+{
+  "DevOps": {
+    "category": "DevOps",
+    "ai_confidence": 75,
+    "non_ai_confidence": 0,
+    "final_score": 52.0,
+    "reasoning": "Content discusses the importance of professionalism and proper practices in agile methodologies, which are essential for effective DevOps processes. However, the primary focus is on unprofessional behaviour in agile rather than DevOps itself.",
+    "level": "Secondary"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "ai_confidence": 30,
+    "non_ai_confidence": 0,
+    "final_score": 21.0,
+    "reasoning": "The content discusses agile practices and Scrum events but does not focus on Azure DevOps or its tools and functionalities.",
+    "level": "Ignored"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses unprofessional behaviour in agile practices, specifically within the context of Scrum, rather than focusing on Kanban principles or practices.",
+    "level": "Ignored"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the importance of professionalism and understanding in agile practices, which relates to technical excellence, but it primarily focuses on unprofessional behaviours rather than engineering practices themselves.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "ai_confidence": 85,
+    "non_ai_confidence": 50,
+    "final_score": 74.0,
+    "reasoning": "Content primarily discusses the importance of professionalism and proper practices within Scrum events, highlighting behaviours that contradict agile principles.",
+    "level": "Secondary"
+  }
+}

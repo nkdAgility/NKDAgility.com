@@ -22,26 +22,12 @@ aliasesFor404:
 - /blog/yorkhill-ice-bucket-challenge
 - /resources/blog/yorkhill-ice-bucket-challenge
 tags:
-- Agile Community
-- Customer Feedback Loops
-- Employee Engagement
-- Organisational Culture
-- Continuous Improvement
-- Value Delivery
-- Lean Thinking
-- Agile Digital Tools
-- Team Collaboration
-- Team Motivation
-- Agile Transformation
-- Evidence Based Improvement
-- Agile Methodology
-- Agile Product Management
+- Miscellaneous
+- Personal
 categories:
-- News and Reviews
 - Events and Presentations
-- People and Process
-- Value Delivery
-- Organisational Psychology
+- Miscellaneous
+- Personal
 preview: yorkhill-ice-bucket-challange-5-5.png
 
 ---

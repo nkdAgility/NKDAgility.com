@@ -23,21 +23,15 @@ preview: https://i.ytimg.com/vi/ZxDktQae10M/maxresdefault.jpg
 duration: 1977
 isShort: false
 tags:
-- Agile Tools
+- System Configuration
 - Azure DevOps
-- Agile Software Development
-- Continuous Delivery
-- Technical Excellence
-- Agile Project Management
-- Deployment Strategies
-- Agile Product Management
-- Value Delivery
-- Agile Frameworks
-- Agile Planning Tools
-- Evidence Based Improvement
-- Customer Feedback Loops
-- Agile Product Validation
+- Technical Mastery
 - Software Development
+- Technical Excellence
+- Working Software
+- DevOps
+- Operational Practices
+- Engineering Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -47,7 +41,7 @@ resourceTypes:
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Azure DevOps
+- Technical Excellence
 
 ---
  Check out the latest version: https://youtu.be/Qt1Ywu_KLrc

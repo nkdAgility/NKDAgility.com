@@ -1,0 +1,42 @@
+{
+  "DevOps": {
+    "category": "DevOps",
+    "ai_confidence": 75,
+    "non_ai_confidence": 50,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the management of Scrum processes and tools like Azure DevOps, which are integral to enabling continuous delivery of value, making DevOps a major theme.",
+    "level": "Secondary"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "Content primarily discusses Scrum team operations but heavily references Azure DevOps as a tool for visualising and managing Sprint and Refinement work, making it a central theme.",
+    "level": "Secondary"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on Scrum roles and processes, specifically Sprint work and Refinement, without a central emphasis on Kanban principles or practices.",
+    "level": "Ignored"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses Scrum practices and the importance of balancing Sprint Work and Refinement, which are relevant to agile engineering practices, but the primary focus is on Scrum team operations rather than broader engineering practices like TDD or CI/CD.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "ai_confidence": 92,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "Content heavily discusses Scrum roles and events, specifically focusing on Sprint work and Refinement, which are central to the Scrum framework.",
+    "level": "Secondary"
+  }
+}

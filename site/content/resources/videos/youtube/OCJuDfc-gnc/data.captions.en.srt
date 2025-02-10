@@ -1,0 +1,737 @@
+1
+00:00:11,719 --> 00:00:21,390
+okay this is Martin ho8
+
+2
+00:00:16,190 --> 00:00:25,080
+from Naked agility I come a few things
+
+3
+00:00:21,390 --> 00:00:29,699
+that I wanted to mention tonight I'm
+
+4
+00:00:25,080 --> 00:00:32,279
+going to be doing meetup for the future
+
+5
+00:00:29,699 --> 00:00:36,510
+of work in conjunction with the British
+
+6
+00:00:32,279 --> 00:00:38,309
+Computer Society at 7 p.m. UK time
+
+7
+00:00:36,510 --> 00:00:42,510
+tonight
+
+8
+00:00:38,309 --> 00:00:47,690
+I'm going to be talking about scaling
+
+9
+00:00:42,510 --> 00:00:52,350
+dragons the the things that are going to
+
+10
+00:00:47,690 --> 00:00:55,500
+be beneficial or destroyers as we move
+
+11
+00:00:52,350 --> 00:01:00,210
+towards scaling agility and things that
+
+12
+00:00:55,500 --> 00:01:02,699
+we need to consider and figure out so I
+
+13
+00:01:00,210 --> 00:01:05,610
+think that will be good fun we're going
+
+14
+00:01:02,699 --> 00:01:07,610
+to be I'm going to be talking about I'm
+
+15
+00:01:05,610 --> 00:01:10,610
+going to be talking about scrum
+
+16
+00:01:07,610 --> 00:01:16,100
+initially and then I'm going to be
+
+17
+00:01:10,610 --> 00:01:20,040
+diving a little bit into Nexus but more
+
+18
+00:01:16,100 --> 00:01:23,009
+from the perspective of the practices
+
+19
+00:01:20,040 --> 00:01:25,229
+that really matter for a large-scale
+
+20
+00:01:23,009 --> 00:01:28,049
+scrum team talk about them for a little
+
+21
+00:01:25,229 --> 00:01:31,290
+bit and then maybe we'll touch a little
+
+22
+00:01:28,049 --> 00:01:36,659
+bit on metrics and getting an
+
+23
+00:01:31,290 --> 00:01:40,130
+understanding of some of the key at
+
+24
+00:01:36,659 --> 00:01:42,090
+least starter metrics you might not be
+
+25
+00:01:40,130 --> 00:01:44,570
+the metrics I'm going to talk about
+
+26
+00:01:42,090 --> 00:01:48,780
+might not be valid for your organization
+
+27
+00:01:44,570 --> 00:01:53,189
+but you can use them as a starter point
+
+28
+00:01:48,780 --> 00:01:55,320
+as hints as a lead through towards
+
+29
+00:01:53,189 --> 00:01:59,460
+understanding metrics that might be
+
+30
+00:01:55,320 --> 00:02:03,710
+viable for your organization that's so
+
+31
+00:01:59,460 --> 00:02:08,879
+that's scaling dragons tonight at 7 p.m.
+
+32
+00:02:03,710 --> 00:02:11,910
+gmt with the future of work meetup in
+
+33
+00:02:08,879 --> 00:02:13,920
+conjunction with the British Computer
+
+34
+00:02:11,910 --> 00:02:17,000
+Society
+
+35
+00:02:13,920 --> 00:02:22,709
+it's also going to stream live on
+
+36
+00:02:17,000 --> 00:02:24,330
+YouTube LinkedIn and Facebook so if you
+
+37
+00:02:22,709 --> 00:02:27,030
+can't get into those events you can
+
+38
+00:02:24,330 --> 00:02:28,770
+certainly get into get into that but
+
+39
+00:02:27,030 --> 00:02:32,010
+ultimately if you want to be in an
+
+40
+00:02:28,770 --> 00:02:36,569
+interactive session then definitely head
+
+41
+00:02:32,010 --> 00:02:39,650
+over to the Meetup and join in the folks
+
+42
+00:02:36,569 --> 00:02:42,180
+that are organizing the meet are awesome
+
+43
+00:02:39,650 --> 00:02:44,640
+and we're gonna have a good fun
+
+44
+00:02:42,180 --> 00:02:45,900
+again that's future of work in
+
+45
+00:02:44,640 --> 00:02:51,030
+conjunction with British Computer
+
+46
+00:02:45,900 --> 00:02:53,430
+Society at 7:00 p.m. tonight I also
+
+47
+00:02:51,030 --> 00:02:57,330
+wanted to mention that I'm working
+
+48
+00:02:53,430 --> 00:03:00,330
+obviously there's no in-person events
+
+49
+00:02:57,330 --> 00:03:03,420
+going on so any time that I've got a
+
+50
+00:03:00,330 --> 00:03:07,280
+conference event we're going to be doing
+
+51
+00:03:03,420 --> 00:03:08,519
+it online if the conference event is
+
+52
+00:03:07,280 --> 00:03:12,780
+cancelled
+
+53
+00:03:08,519 --> 00:03:16,799
+then I will record or do a live event
+
+54
+00:03:12,780 --> 00:03:20,609
+anyway at the same time or separately
+
+55
+00:03:16,799 --> 00:03:24,630
+off of that talk and so that people can
+
+56
+00:03:20,609 --> 00:03:28,850
+join in and I'm also going to be moving
+
+57
+00:03:24,630 --> 00:03:32,010
+some of my training classes to be live
+
+58
+00:03:28,850 --> 00:03:35,519
+virtual classes this is a very
+
+59
+00:03:32,010 --> 00:03:38,489
+complicated thing all of the scrum the
+
+60
+00:03:35,519 --> 00:03:41,549
+dark classes that I teach are really
+
+61
+00:03:38,489 --> 00:03:46,230
+designed to be high bandwidth impersonal
+
+62
+00:03:41,549 --> 00:03:49,019
+classes so what I want to do is for the
+
+63
+00:03:46,230 --> 00:03:53,310
+classes that make sense we're going to
+
+64
+00:03:49,019 --> 00:03:57,079
+run some virtual classes we'll probably
+
+65
+00:03:53,310 --> 00:04:04,290
+run them as kind of like a 2-day event
+
+66
+00:03:57,079 --> 00:04:06,269
+and see what makes sense whether it
+
+67
+00:04:04,290 --> 00:04:10,549
+makes sense to continue to run it as a
+
+68
+00:04:06,269 --> 00:04:13,829
+two-day event or to balance that with
+
+69
+00:04:10,549 --> 00:04:17,370
+like a you know dude over 40 is four
+
+70
+00:04:13,829 --> 00:04:19,950
+half days or do two full days what what
+
+71
+00:04:17,370 --> 00:04:22,470
+makes sense for for that training so
+
+72
+00:04:19,950 --> 00:04:25,430
+I've been looking at the the
+
+73
+00:04:22,470 --> 00:04:27,160
+professional scrum master and the
+
+74
+00:04:25,430 --> 00:04:29,080
+professional scrum with you
+
+75
+00:04:27,160 --> 00:04:32,140
+acts are ones that I think I'm going to
+
+76
+00:04:29,080 --> 00:04:34,270
+run first in the next couple of weeks I
+
+77
+00:04:32,140 --> 00:04:37,270
+have classes scheduled in Edinburgh for
+
+78
+00:04:34,270 --> 00:04:38,620
+that so I want to convert them to live
+
+79
+00:04:37,270 --> 00:04:42,790
+events it's going to be really
+
+80
+00:04:38,620 --> 00:04:46,140
+interesting how we manage to run those
+
+81
+00:04:42,790 --> 00:04:50,230
+Edinburgh classes with that number of
+
+82
+00:04:46,140 --> 00:04:51,910
+people how do we run that virtually so
+
+83
+00:04:50,230 --> 00:04:54,310
+I've been looking at the technologies
+
+84
+00:04:51,910 --> 00:04:56,560
+involved I've been practicing with the
+
+85
+00:04:54,310 --> 00:04:59,590
+technologies involved and hopefully
+
+86
+00:04:56,560 --> 00:05:01,510
+we'll be able to come up experiment and
+
+87
+00:04:59,590 --> 00:05:04,870
+inspect and adapt towards some super
+
+88
+00:05:01,510 --> 00:05:07,480
+awesome classes and the other classes I
+
+89
+00:05:04,870 --> 00:05:12,010
+think that are going to be pretty good
+
+90
+00:05:07,480 --> 00:05:14,230
+online is the the professional agile
+
+91
+00:05:12,010 --> 00:05:18,130
+leadership which I have a class coming
+
+92
+00:05:14,230 --> 00:05:20,980
+up this month we moved to virtual and as
+
+93
+00:05:18,130 --> 00:05:25,210
+coming up in the the GMT time zone and I
+
+94
+00:05:20,980 --> 00:05:27,610
+have a agile leadership in the Mexico
+
+95
+00:05:25,210 --> 00:05:29,740
+City as well gonna move that to virtual
+
+96
+00:05:27,610 --> 00:05:33,520
+we'll see how that works I've got a
+
+97
+00:05:29,740 --> 00:05:34,930
+colleague that I'm working with to
+
+98
+00:05:33,520 --> 00:05:39,400
+deliver that in both English and Spanish
+
+99
+00:05:34,930 --> 00:05:41,740
+so hopefully that work out I'm also the
+
+100
+00:05:39,400 --> 00:05:45,330
+professional scrum of Kanban with Daniel
+
+101
+00:05:41,740 --> 00:05:49,210
+Vacanti then I'm running in month or so
+
+102
+00:05:45,330 --> 00:05:51,330
+we'll also be moved to virtual and
+
+103
+00:05:49,210 --> 00:05:54,700
+Daniel and I will be running that as a
+
+104
+00:05:51,330 --> 00:05:56,590
+co-teach over two days and we'll see if
+
+105
+00:05:54,700 --> 00:05:59,590
+that works out and I've been in touch
+
+106
+00:05:56,590 --> 00:06:01,270
+with the folks during during the
+
+107
+00:05:59,590 --> 00:06:06,640
+professor scrum at a man we actually use
+
+108
+00:06:01,270 --> 00:06:10,240
+the get Kanban game from get Kanban calm
+
+109
+00:06:06,640 --> 00:06:12,070
+and which I have physical copies of but
+
+110
+00:06:10,240 --> 00:06:13,750
+obviously that won't work for a virtual
+
+111
+00:06:12,070 --> 00:06:15,520
+class so how are we going to run that
+
+112
+00:06:13,750 --> 00:06:17,680
+I've been in touch with the folks that
+
+113
+00:06:15,520 --> 00:06:22,090
+get Kanban to see if they'd be willing
+
+114
+00:06:17,680 --> 00:06:25,350
+to implement a version of that of their
+
+115
+00:06:22,090 --> 00:06:27,940
+game on table topia table topia is a
+
+116
+00:06:25,350 --> 00:06:30,520
+virtualization platform for board games
+
+117
+00:06:27,940 --> 00:06:32,890
+I've been using that with some of my my
+
+118
+00:06:30,520 --> 00:06:37,960
+friends to play some be awesome board
+
+119
+00:06:32,890 --> 00:06:40,569
+games that we play I'm really figuring
+
+120
+00:06:37,960 --> 00:06:42,699
+out how to run these classes luck
+
+121
+00:06:40,569 --> 00:06:44,259
+from the dog community and has been
+
+122
+00:06:42,699 --> 00:06:46,749
+banding together we've been talking
+
+123
+00:06:44,259 --> 00:06:50,740
+about and exploring different options
+
+124
+00:06:46,749 --> 00:06:55,360
+for how to do virtual class he's how we
+
+125
+00:06:50,740 --> 00:06:58,869
+break them up how we organize that so I
+
+126
+00:06:55,360 --> 00:07:00,819
+just want to make sure that the reason
+
+127
+00:06:58,869 --> 00:07:03,069
+we're that there is a session tonight a
+
+128
+00:07:00,819 --> 00:07:05,169
+future of work session with British
+
+129
+00:07:03,069 --> 00:07:08,169
+Computer Society I'm going to be talking
+
+130
+00:07:05,169 --> 00:07:10,719
+about scaling scrum to the enterprise
+
+131
+00:07:08,169 --> 00:07:14,229
+and hopefully be able to join us at 7:00
+
+132
+00:07:10,719 --> 00:07:16,330
+p.m. GMT tonight and it's been a stream
+
+133
+00:07:14,229 --> 00:07:20,169
+live on Facebook and LinkedIn and
+
+134
+00:07:16,330 --> 00:07:24,479
+YouTube so you should be able to test
+
+135
+00:07:20,169 --> 00:07:27,399
+that ah feel free to follow me on
+
+136
+00:07:24,479 --> 00:07:31,149
+Twitter get in touch if you have any
+
+137
+00:07:27,399 --> 00:07:33,430
+questions I'm super happy to do sessions
+
+138
+00:07:31,149 --> 00:07:35,259
+with anybody who needs it on both
+
+139
+00:07:33,430 --> 00:07:38,169
+agility and DevOps if you want to talk
+
+140
+00:07:35,259 --> 00:07:40,199
+about DevOps practices if you want to
+
+141
+00:07:38,169 --> 00:07:42,729
+talk about maturity of a scrum team
+
+142
+00:07:40,199 --> 00:07:47,439
+principles and values if you want to
+
+143
+00:07:42,729 --> 00:07:49,599
+talk about and just as your DevOps
+
+144
+00:07:47,439 --> 00:07:53,349
+DevOps in general whatever you want to
+
+145
+00:07:49,599 --> 00:07:55,389
+talk about ping me on Twitter we can get
+
+146
+00:07:53,349 --> 00:07:56,769
+on a call we can chat maybe you just
+
+147
+00:07:55,389 --> 00:07:59,469
+have a question that you want an answer
+
+148
+00:07:56,769 --> 00:08:02,229
+maybe I can just give you an answer and
+
+149
+00:07:59,469 --> 00:08:05,729
+let's let's figure out how to use this
+
+150
+00:08:02,229 --> 00:08:09,849
+time that we've all got enclosed in our
+
+151
+00:08:05,729 --> 00:08:12,639
+forms to the best benefit of everybody
+
+152
+00:08:09,849 --> 00:08:15,819
+else normally I'd be off at traveling
+
+153
+00:08:12,639 --> 00:08:18,039
+the world consulting in person which is
+
+154
+00:08:15,819 --> 00:08:21,519
+obviously my preferred way to work but
+
+155
+00:08:18,039 --> 00:08:24,159
+at the moment it's not possible so let
+
+156
+00:08:21,519 --> 00:08:26,579
+me know if you need any help if you just
+
+157
+00:08:24,159 --> 00:08:29,490
+want to chat I'm not talking about
+
+158
+00:08:26,579 --> 00:08:33,339
+charging you for that I'm talking about
+
+159
+00:08:29,490 --> 00:08:35,919
+just having a chat if we can spend half
+
+160
+00:08:33,339 --> 00:08:38,259
+hour on a call and figure something out
+
+161
+00:08:35,919 --> 00:08:41,819
+or I can do a webcast on a particular
+
+162
+00:08:38,259 --> 00:08:46,209
+topic that helps solve a problem for you
+
+163
+00:08:41,819 --> 00:08:48,790
+I'm super happy to do that if you're
+
+164
+00:08:46,209 --> 00:08:52,569
+looking to get two days of time with me
+
+165
+00:08:48,790 --> 00:08:54,460
+then we can figure that out as we go but
+
+166
+00:08:52,569 --> 00:08:57,540
+I'm really looking forward to
+
+167
+00:08:54,460 --> 00:08:59,260
+the different form are experimenting
+
+168
+00:08:57,540 --> 00:09:01,330
+inspecting and adapting with the
+
+169
+00:08:59,260 --> 00:09:06,490
+different forms of interaction that we
+
+170
+00:09:01,330 --> 00:09:09,970
+can have over the next months as we are
+
+171
+00:09:06,490 --> 00:09:12,010
+stuck where we are and luckily as I
+
+172
+00:09:09,970 --> 00:09:15,060
+consulted travel worldwide obviously I'm
+
+173
+00:09:12,010 --> 00:09:18,550
+happy to speak to and hear from anybody
+
+174
+00:09:15,060 --> 00:09:21,940
+anywhere in the world I've been training
+
+175
+00:09:18,550 --> 00:09:24,190
+in Saudi Arabia which was super fun very
+
+176
+00:09:21,940 --> 00:09:28,209
+different than I expected and I trained
+
+177
+00:09:24,190 --> 00:09:31,209
+in Ghana in Africa which is one of my
+
+178
+00:09:28,209 --> 00:09:35,410
+favorite places to be and I've also been
+
+179
+00:09:31,209 --> 00:09:37,570
+out to Azerbaijan as well so I'm happy
+
+180
+00:09:35,410 --> 00:09:41,230
+to work anywhere in the world you're
+
+181
+00:09:37,570 --> 00:09:43,570
+mopping okay thanks very much for for
+
+182
+00:09:41,230 --> 00:09:46,810
+listening and and I hope you you get in
+
+183
+00:09:43,570 --> 00:09:49,770
+touch and follow me on Twitter to find
+
+184
+00:09:46,810 --> 00:09:49,770
+out what's going on okay
+
+

@@ -26,27 +26,10 @@ aliasesFor404:
 - /blog/update-to-the-scrum-guide-on-the-25th-anniversary-of-the-scrum-framework
 - /resources/blog/update-scrum-guide-25th-anniversary-scrum-framework
 tags:
-- Scrum Team
-- Definition of Done
-- Scrum Product Management
-- Scrum Values
-- Agile Product Management
-- Continuous Improvement
-- Agile Planning
-- Self Organisation
-- Product Backlog
-- Sprint Planning Workshop
-- Accountability
-- Software Increment
-- Agile Methodology
-- Team Collaboration
-- Value Delivery
+- Professional Scrum
+- Scaling Agility
 categories:
 - Scrum
-- News and Reviews
-- Agile Product Management
-- People and Process
-- Value Delivery
 preview: naked-Agility-Scrum-Framework-3-2.jpg
 
 ---

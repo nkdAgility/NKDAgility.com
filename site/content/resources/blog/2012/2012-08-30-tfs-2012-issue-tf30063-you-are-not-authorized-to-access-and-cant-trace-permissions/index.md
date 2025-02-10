@@ -27,11 +27,8 @@ aliasesFor404:
 - /blog/tfs-2012---issue--tf30063--you-are-not-authorized-to-access-and-can’t-trace-permissions
 - /tfs-2012
 - /resources/blog/tfs-2012-issue-tf30063-you-are-not-authorized-to-access-and-cant-trace-permissions
-tags:
-- Technical Debt
-- Evidence Based Management
-categories:
-- Azure DevOps
+tags: []
+categories: []
 preview: metro-problem-icon-7-7.png
 
 ---

@@ -22,11 +22,25 @@ aliasesFor404:
 - /blog/integrate-sharepoint-2013-with-team-foundation-server-2012
 - /resources/blog/integrate-sharepoint-2013-with-team-foundation-server-2012
 tags:
-- Agile Software Development
-- Agile Tools
+- Agility
+- Application Lifecycle Management
+- Azure DevOps
+- Collaboration Tools
+- DevOps
+- Pragmatic Thinking
+- Scrum
+- Scrum Product Development
+- Software Developers
+- Software Development
+- System Configuration
+- Team Collaboration
+- Technical Excellence
+- Windows
+- Working Software
 categories:
 - Install and Configuration
-- Azure DevOps
+- Practical Techniques and Tooling
+- Scrum
 preview: metro-sharepoint-128-link-25-25.png
 
 ---

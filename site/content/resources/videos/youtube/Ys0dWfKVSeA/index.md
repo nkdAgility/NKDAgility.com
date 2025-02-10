@@ -29,28 +29,13 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Team
-- Scrum Master
-- Continuous Delivery
-- Team Collaboration
-- Value Delivery
-- Organisational Agility
-- Change Management
-- Technical Excellence
-- Evidence Based Improvement
-- Systems Thinking
-- Agile Problem Solving
-- Customer Feedback Loops
-- Lean Principles
+tags: []
 resourceTypes:
 - video
 categories:
 - Scrum
-- Organisational Agility
-- Value Delivery
+- Agile Product Management
 - People and Process
-- Resilience and Change
 
 ---
 ## Reflecting on Scrum's Mirror  

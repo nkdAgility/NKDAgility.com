@@ -22,11 +22,9 @@ aliasesFor404:
 - /blog/vista-mobile-device-center
 - /resources/blog/vista-mobile-device-center
 tags:
-- Customer Satisfaction
-- Agile Software Development
-categories:
-- Products and Books
-- Install and Configuration
+- Windows
+- Troubleshooting
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

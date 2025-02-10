@@ -25,12 +25,8 @@ aliasesFor404:
 - /codeplex-project--rddotnet-white-label
 - /blog/codeplex-project--rddotnet-white-label
 - /resources/blog/codeplex-project-rddotnet-white-label
-tags:
-- Agile Software Development
-- Technical Excellence
-categories:
-- Code and Complexity
-- Application Lifecycle Management
+tags: []
+categories: []
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

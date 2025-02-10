@@ -21,28 +21,8 @@ aliasesFor404:
 - /dod-has-made-it-illegal-to-do-waterfall
 - /blog/dod-has-made-it-illegal-to-do-waterfall
 - /resources/blog/dod-has-made-it-illegal-to-do-waterfall
-tags:
-- Agile Software Development
-- Agile Transformation
-- Agile Project Management
-- Agile Values and Principles
-- Continuous Improvement
-- Lean Agile
-- Agile Product Management
-- Agile Leadership
-- Agile Digital Tools
-- Agile Community
-- Value Delivery
-- Evidence Based Management
-- Agile Software Engineering
-- Agile Methodology
-- Business Agility
-categories:
-- People and Process
-- Organisational Agility
-- Value Delivery
-- Lean
-- Enterprise Agility
+tags: []
+categories: []
 preview: nkdAgility-dod-change-procurement-agile-wide-15-15.jpg
 
 ---

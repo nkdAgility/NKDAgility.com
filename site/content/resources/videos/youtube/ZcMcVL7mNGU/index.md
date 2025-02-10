@@ -23,19 +23,21 @@ preview: https://i.ytimg.com/vi/ZcMcVL7mNGU/maxresdefault.jpg
 duration: 256
 isShort: false
 tags:
-- Team Collaboration
-- Strategic Goals
-- Agile Planning
-- Evidence Based Management
-- Agile Product Discovery
-- Agile Mentoring Program
-- Agile Transformation
-- Value Delivery
-- Customer Feedback Loops
-- Agile Leadership
+- Software Development
+- People and Process
+- Agile Product Management
+- Scrum Product Management
+- Value Prioritisation
 - Product Strategy
-- Team Motivation
-- Continuous Improvement
+- Product Owner
+- Value Delivery
+- Working Software
+- Lean Product Development
+- Agile Transformation
+- Strategic
+- Agile Software Development
+- Enterprise Agility
+- Agile Product Validation
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -43,11 +45,9 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Agile Product Management
-- Value Delivery
 - People and Process
-- Metrics and Learning
-- Organisational Agility
+- Value Delivery
+- Agile Product Management
 
 ---
  #agile has come a long way since it's inception in 2001, and with that shift from #projectmanagement to #productdevelopment, #productmanagement has evolved significantly.

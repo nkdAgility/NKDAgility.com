@@ -22,11 +22,25 @@ aliasesFor404:
 - /blog/continuous-value-delivery-with-modern-business-applications
 - /resources/blog/continuous-value-delivery-with-modern-business-applications
 tags:
+- Application Lifecycle Management
+- Continuos Delivery
+- Continuos Integration
 - Continuous Delivery
+- Continuous Improvement
+- Continuous Integration
 - Deployment Frequency
-categories:
+- Deployment Strategies
+- Scrum
+- Software Developers
+- Software Development
+- Software Increment
 - Value Delivery
-- People and Process
+- Windows
+- Working Software
+categories:
+- Application Lifecycle Management
+- Scrum
+- Value Delivery
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

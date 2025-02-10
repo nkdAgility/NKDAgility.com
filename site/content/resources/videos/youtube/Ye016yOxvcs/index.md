@@ -30,21 +30,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Product Discovery
-- Customer Feedback Loops
-- Continuous Improvement
-- Team Collaboration
+- Agile Coaching
+- Agile Problem Solving
+- Pragmatic Thinking
+- People and Process
 - Agile Values and Principles
-- Discovery and Learning
+- Ability to Innovate
 - Agile Transformation
-- Change Management
-- Team Motivation
+- Agile Software Engineering
+- Experimentation
+- Agile Leader
+- Agile Community
+- Continuous Improvement
+- Agility
+- Agile AI
+- Sensemaking
 resourceTypes:
 - video
 categories:
 - People and Process
-- Discovery and Learning
-- Organisational Agility
+- Market Adaptability
 
 ---
 ## The Journey to Understanding

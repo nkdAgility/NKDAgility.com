@@ -21,11 +21,8 @@ aliasesFor404:
 - /upgrading-windows-7-to-windows-8-remotely-over-team-viewer-for-parents-in-another-country
 - /blog/upgrading-windows-7-to-windows-8-remotely-over-team-viewer-for-parents-in-another-country
 - /resources/blog/upgrading-windows-7-to-windows-8-remotely-over-team-viewer-for-parents-in-another-country
-tags:
-- Remote Working
-- Agile Software Development
-categories:
-- Install and Configuration
+tags: []
+categories: []
 preview: nakedalm-logo-128-link-15-15.png
 
 ---

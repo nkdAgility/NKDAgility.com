@@ -1,0 +1,42 @@
+{
+  "DevOps": {
+    "category": "DevOps",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the role of the Product Owner in maximising value and engaging users, which aligns with DevOps principles, but the primary focus is on Scrum roles and goals rather than DevOps practices.",
+    "level": "Ignored"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses Scrum roles and goals, with no clear focus on Azure DevOps or its tools.",
+    "level": "Ignored"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses Scrum roles and the concept of Sprint Goals, with no clear focus on Kanban principles or practices.",
+    "level": "Ignored"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the role of the Product Owner in maximising value and engaging users, which relates to agile practices, but it primarily focuses on Scrum roles and goals rather than engineering practices like TDD, CI/CD, or modular architecture.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "ai_confidence": 92,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "Content heavily discusses the Sprint Goal and its role within the Scrum framework, including the responsibilities of the Product Owner and the relationship between tactical and strategic goals.",
+    "level": "Secondary"
+  }
+}

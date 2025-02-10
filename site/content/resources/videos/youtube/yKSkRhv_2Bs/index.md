@@ -29,27 +29,23 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum
-- Professional Scrum
 - Scrum Team
-- Agile Coaching
-- Agile Product Management
-- Agile Planning
+- People and Process
+- Professional Scrum
+- Team Performance
 - Team Collaboration
-- Continuous Improvement
-- Agile Transformation
-- Agile Certification
-- Agile Values and Principles
-- Team Motivation
-- Agile Software Development
-- Agile Mentoring
+- Lean Agile
+- Scrum Master
+- Discovery and Learning
+- Continuous Learning
+- Coaching
+- Agile Problem Solving
+- Agile Certifications
+- Agile Coaching
+- Agile Planning
 resourceTypes:
 - video
-categories:
-- Scrum
-- People and Process
-- Organisational Agility
-- Discovery and Learning
-- Technical Excellence
+categories: []
 
 ---
 ## Unlock the Full Potential of Scrum with APS Courses

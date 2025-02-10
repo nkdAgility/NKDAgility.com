@@ -31,27 +31,26 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum
-- Scrum Team
-- Scrum Product Management
-- Scrum Values
 - Professional Scrum
-- Agile Product Discovery
-- Team Collaboration
-- Continuous Improvement
+- People and Process
+- Discovery and Learning
+- Agile Certification
 - Complexity Thinking
-- Agile Software Development
-- Agile Planning
-- Agile Tools
-- Team Motivation
-- Value Delivery
+- Scrum Master
+- Complexity Science
+- Team Collaboration
+- Technical Excellence
+- Agile Digital Tools
+- Collaboration Tools
+- Agile Pilot
+- Agile Methodology
+- BetaCodex
 resourceTypes:
 - video
 categories:
 - Scrum
-- Complexity Thinking
-- People and Process
 - Discovery and Learning
-- Install and Configuration
+- People and Process
 
 ---
 In the Applying Professional Scrum (APS) with Certification classroom, the **Minecraft Campsite** case study provides the best experience for students and more connections to how they work currently. Practice Scrum in Minecraft's complex and chaotic environment to experience the high-variance world of complex product development. We use Minecraft Education Edition to bring complexity to life in a scenario everyone can experience regardless of their technical ability.

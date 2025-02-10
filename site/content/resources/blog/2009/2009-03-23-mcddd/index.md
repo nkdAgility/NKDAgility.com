@@ -25,8 +25,7 @@ categories:
 - Events and Presentations
 preview: nakedalm-logo-128-link-2-2.png
 tags:
-- Agile Community
-- Featured
+- Personal
 
 ---
 Its that time again and you should all be in Glasgow on the 2nd May for [Developer Day Scotland 2](http://developerdayscotland.com). There are some excellent speakers, some we saw last time and some new.

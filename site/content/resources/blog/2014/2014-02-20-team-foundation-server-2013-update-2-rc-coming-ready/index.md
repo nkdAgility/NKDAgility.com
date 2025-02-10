@@ -30,26 +30,25 @@ aliasesFor404:
 - /blog/team-foundation-server-2013-update-2-rc-is-coming--are-you-ready-
 - /resources/blog/team-foundation-server-2013-update-2-rc-coming-ready
 tags:
-- Agile Tools
-- Continuous Delivery
-- Technical Excellence
-- Agile Software Development
-- Deployment Strategies
-- Customer Feedback Loops
-- Agile Product Management
-- Release Planning
-- Agile Planning
-- Team Collaboration
-- Value Delivery
-- Evidence Based Improvement
-- Agile Transformation
 - Agile Digital Tools
+- Agile Tools
+- Application Lifecycle Management
+- Azure DevOps
+- Change Management
+- DevOps
+- Engineering Excellence
+- Modern Source Control
+- Release Planning
+- Software Developers
+- Software Development
+- Software Increment
+- System Configuration
+- Technical Mastery
+- Working Software
 categories:
-- Upgrade and Maintenance
+- Application Lifecycle Management
 - Azure DevOps
 - Install and Configuration
-- News and Reviews
-- Application Lifecycle Management
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

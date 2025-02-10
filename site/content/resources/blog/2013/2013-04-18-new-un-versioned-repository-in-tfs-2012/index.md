@@ -22,10 +22,25 @@ aliasesFor404:
 - /blog/new-un-versioned-repository-in-tfs-2012
 - /resources/blog/new-un-versioned-repository-in-tfs-2012
 tags:
-- Modern Source Control
-- Agile Tools
-categories:
+- Application Lifecycle Management
 - Azure DevOps
+- Azure Repos
+- CI/CD
+- DevOps
+- Engineering Practices
+- Modern Source Control
+- Operational Practices
+- Software Developers
+- Software Development
+- System Configuration
+- Technical Excellence
+- Technical Mastery
+- Technical Strategy
+- Working Software
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Technical Excellence
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

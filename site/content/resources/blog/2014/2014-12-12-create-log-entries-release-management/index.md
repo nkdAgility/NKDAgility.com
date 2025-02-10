@@ -26,27 +26,25 @@ aliasesFor404:
 - /blog/create-log-entries-in-release-management
 - /resources/blog/create-log-entries-release-management
 tags:
-- Deployment Strategies
-- Continuous Delivery
-- Technical Excellence
-- Evidence Based Management
-- Agile Tools
-- Release Planning
-- Agile Software Development
-- Azure DevOps
-- Value Delivery
-- Agile Product Management
-- Agile Software Engineering
-- Continuous Improvement
-- Test Automation
-- Agile Project Management
-- DevOps
-categories:
-- Install and Configuration
-- Azure DevOps
-- Practical Techniques and Tooling
 - Application Lifecycle Management
-- Events and Presentations
+- Azure DevOps
+- Deployment Strategies
+- DevOps
+- Engineering Excellence
+- Engineering Practices
+- Operational Practices
+- Software Developers
+- Software Development
+- System Configuration
+- Technical Excellence
+- Technical Mastery
+- Troubleshooting
+- Windows
+- Working Software
+categories:
+- Application Lifecycle Management
+- Practical Techniques and Tooling
+- Technical Excellence
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 
 ---

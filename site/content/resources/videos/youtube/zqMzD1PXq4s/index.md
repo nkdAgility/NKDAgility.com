@@ -23,31 +23,16 @@ aliasesFor404:
 preview: https://i9.ytimg.com/vi/zqMzD1PXq4s/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCCJvxRnT7rlMn8MlnyQgBfNMJTrg
 duration: 413
 isShort: false
-tags:
-- Technical Leadership
-- Technical Debt
-- Engineering Excellence
-- Continuous Improvement
-- Systems Thinking
-- Value Delivery
-- Agile Software Development
-- DevOps
-- Customer Feedback Loops
-- Technical Excellence
-- Lean Thinking
-- Agile Digital Tools
-- Evidence Based Management
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
 categories:
+- DevOps
 - Technical Excellence
-- Value Delivery
 - People and Process
-- Systems Thinking
-- Product Delivery
 
 ---
  Chaos Costs Money: How Engineering Excellence Controls Chaos and Boosts Productivity | Martin Hinshelwood

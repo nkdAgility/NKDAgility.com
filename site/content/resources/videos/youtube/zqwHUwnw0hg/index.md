@@ -28,27 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Professional Scrum
-- Scrum Team
-- Software Increment
-- Continuous Delivery
-- Empirical Process Control
-- Agile Product Management
-- Scrum Values
-- Value Delivery
-- Agile Planning
-- Definition of Done
-- Team Collaboration
-- Customer Feedback Loops
+- Scrum
+- Agility
+- Scrum Product Development
+- Coaching
 - Agile Software Development
+- People and Process
+- Agile Software Engineering
+- Professional Scrum
+- Scrum Master
+- Discovery and Learning
+- Software Development
+- Scrum Product Management
+- Empirical Process Control
+- Scrum Team
+- Agile Product Validation
 resourceTypes:
 - video
 categories:
 - Scrum
-- Value Delivery
 - People and Process
-- Transparency and Accountability
-- Technical Excellence
+- Discovery and Learning
 
 ---
 What will you learn on the professional scrum master course?

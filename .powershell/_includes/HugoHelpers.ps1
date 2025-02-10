@@ -55,10 +55,10 @@ function Remove-Field {
 
     if ($frontMatter.Contains($fieldName)) {
         $frontMatter.Remove($fieldName)
-        Write-Host "$fieldName removed"
+        Write-Debug "$fieldName removed"
     }
     else {
-        Write-Host "$fieldName does not exist"
+        Write-Debug "$fieldName does not exist"
     }
 }
 
@@ -81,10 +81,10 @@ function Update-Field {
         if ($Overwrite -or ([string]::IsNullOrEmpty($frontMatter[$fieldName]))) {
             # Overwrite the existing value
             $frontMatter[$fieldName] = $fieldValue
-            Write-Host "$fieldName overwritten"
+            Write-Debug "$fieldName overwritten"
         }
         else {
-            Write-Host "$fieldName already exists and is not empty"
+            Write-Debug "$fieldName already exists and is not empty"
         }
         return
     }
@@ -108,7 +108,7 @@ function Update-Field {
         $frontMatter[$fieldName] = $fieldValue
     }
 
-    Write-Host "$fieldName added"
+    Write-Debug "$fieldName added"
     return 
 }
 
@@ -121,6 +121,7 @@ function Update-StringList {
         [Parameter(Mandatory = $true)]
         [string]$fieldName,
         [Parameter(Mandatory = $true)]
+        [AllowEmptyCollection()]
         [string[]]$values,
         [string]$addAfter = $null,
         [string]$addBefore = $null,
@@ -147,7 +148,7 @@ function Update-StringList {
             $frontMatter[$fieldName] = $values
         }
         
-        Write-Host "$fieldName added"
+        Write-Debug "$fieldName added"
     }
     else {
         # Ensure the field is always an array
@@ -155,21 +156,21 @@ function Update-StringList {
             $frontMatter[$fieldName] = @($frontMatter[$fieldName])
         }
         
-        # Update list if it already exists, adding only unique values
-        $existingValues = $frontMatter[$fieldName]
-        $newValues = $values | Where-Object { -not ($existingValues -icontains $_) }
-        if ($newValues.Count -ne 0) {
-            if ($Overwrite) {
-                $frontMatter[$fieldName] = $newValues
-            }
-            else {
-                $frontMatter[$fieldName] += $newValues
-            }
-            Write-Host "$fieldName updated with new unique values"
+        if ($Overwrite) {
+            $frontMatter[$fieldName] = $values
         }
         else {
-            Write-Host "$fieldName already contains all values"
-        }
+            # Update list if it already exists, adding only unique values
+            $existingValues = $frontMatter[$fieldName]
+            $newValues = $values | Where-Object { -not ($existingValues -icontains $_) }
+            if ($newValues.Count -ne 0) {
+                $frontMatter[$fieldName] += $newValues
+                Write-Debug "$fieldName updated with new unique values"
+            }
+            else {
+                Write-Debug "$fieldName already contains all values"
+            }
+        }       
     }
 
     # Ensure uniqueness while preserving the first occurrence’s casing
@@ -191,7 +192,7 @@ function Update-StringList {
     # Check for duplicates in the updated array
     $duplicates = $frontMatter[$fieldName] | Group-Object | Where-Object { $_.Count -gt 1 }
     foreach ($duplicate in $duplicates) {
-        Write-Host "Duplicate value: $($duplicate.Name) appears $($duplicate.Count) times"
+        Write-Debug "Duplicate value: $($duplicate.Name) appears $($duplicate.Count) times"
         exit
     }
 }
@@ -213,4 +214,38 @@ function Save-HugoMarkdown {
     Set-Content -Path $Path -Value $updatedContent -Encoding UTF8NoBOM -NoNewline
 }
 
-Write-Host "HugoHelpers.ps1 loaded" -ForegroundColor Green
+function Get-MarkdownMetadata {
+    param (
+        [string]$FolderPath
+    )
+
+    $mdFiles = Get-ChildItem -Path $FolderPath -Filter "*.md" -File
+    $metadataList = @()
+
+    foreach ($markdownFile in $mdFiles) {
+        # Load Markdown data using Get-HugoMarkdown
+        $hugoMarkdown = Get-HugoMarkdown -Path $markdownFile.FullName
+        
+        # Extract title and description if available
+        $title = $hugoMarkdown.FrontMatter.title
+        $description = $hugoMarkdown.FrontMatter.description
+
+        # Fallback if title or description is missing
+        if (-not $title -or $title -eq '') {
+            $title = "Untitled"
+        }
+        if (-not $description -or $description -eq '') {
+            $description = "No description available"
+        }
+
+        # Create a structured object
+        $metadataList += [PSCustomObject]@{
+            Title       = $title
+            Description = $description
+        }
+    }
+
+    return $metadataList | ConvertTo-Json -Depth 1
+}
+
+Write-InfoLog "HugoHelpers.ps1 loaded"

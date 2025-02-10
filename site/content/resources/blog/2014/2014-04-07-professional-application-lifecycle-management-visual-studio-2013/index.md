@@ -26,27 +26,25 @@ aliasesFor404:
 - /blog/professional-application-lifecycle-management-with-visual-studio-2013
 - /resources/blog/professional-application-lifecycle-management-visual-studio-2013
 tags:
+- Agile Digital Tools
+- Agility
 - Application Lifecycle Management
-- Agile Software Development
-- Agile Tools
-- Agile Product Management
-- Continuous Delivery
-- Technical Excellence
-- Scrum Team
-- Scrum Product Development
-- Agile Planning
-- Team Collaboration
-- Value Delivery
+- Deployment Strategies
+- Featured
+- Frequent Releases
+- Release Planning
+- Software Developers
 - Software Development
-- DevOps
-- Agile Methodology
+- Software Increment
+- Technical Excellence
 - Technical Mastery
+- Value Delivery
+- Windows
+- Working Software
 categories:
 - Application Lifecycle Management
-- Products and Books
-- News and Reviews
 - Practical Techniques and Tooling
-- DevOps
+- Products and Books
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

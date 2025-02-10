@@ -29,28 +29,8 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Events and Presentations
-- Agile Product Management
-- Organisational Psychology
-tags:
-- Agile Leadership
-- Leadership Training
-- Agile Leader
-- Team Collaboration
-- Change Management
-- Organisational Agility
-- Agile Community
-- Agile Transformation
-- Team Motivation
-- Business Agility
-- Agile Values and Principles
-- Employee Engagement
-- Continuous Improvement
-- Remote Working
-- Agile Project Management
+categories: []
+tags: []
 
 ---
  This is a Free Live Virtual 90m "Introduction to Agile Leadership! " from Martin Hinshelwood.

@@ -28,11 +28,25 @@ aliasesFor404:
 - /a-change-for-the-better--4
 - /resources/blog/a-change-for-the-better-4
 tags:
-- Agile Transformation
-- Organisational Change
-categories:
+- Agile Coaching
+- Agile Evolution
+- Agile Mentoring
+- Agile Planning
+- Agile Portfolio Management
+- Agile Project Management
+- Agile Software Development
+- Agile Values and Principles
+- Agility
+- Application Lifecycle Management
+- Coaching
+- Mentoring
 - Resilience and Change
-- News and Reviews
+- Scrum
+- Scrum Product Development
+categories:
+- Lean
+- Resilience and Change
+- Scrum
 preview: nakedalm-logo-128-link-4-4.png
 
 ---

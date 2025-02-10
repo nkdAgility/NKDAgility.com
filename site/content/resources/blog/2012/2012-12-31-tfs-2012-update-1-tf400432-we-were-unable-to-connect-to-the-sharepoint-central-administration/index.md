@@ -28,10 +28,20 @@ aliasesFor404:
 - /tfs-2012-update-1
 - /resources/blog/tfs-2012-update-1-tf400432-we-were-unable-to-connect-to-the-sharepoint-central-administration
 tags:
-- Technical Debt
-- Change Management
-categories:
+- Application Lifecycle Management
 - Azure DevOps
+- Operational Practices
+- Software Developers
+- Software Development
+- System Configuration
+- Technical Excellence
+- Technical Mastery
+- Troubleshooting
+- Working Software
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Technical Excellence
 preview: metro-problem-icon-3-3.png
 
 ---

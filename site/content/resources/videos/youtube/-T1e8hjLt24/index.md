@@ -22,17 +22,11 @@ preview: https://i.ytimg.com/vi/-T1e8hjLt24/maxresdefault.jpg
 duration: 58
 isShort: true
 tags:
-- Continuous Learning
-- Agile Mentoring Program
-- Team Motivation
-- Agile Community
 - Discovery and Learning
-- Employee Engagement
-- Agile Leadership
+- Continuous Learning
+- Continuous Improvement
 - Ability to Innovate
-- Agile Books
-- Agile Transformation
-- Product Strategy
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -41,7 +35,7 @@ layout: video
 resourceTypes:
 - video
 categories:
-- Metrics and Learning
+- Discovery and Learning
 
 ---
  #shorts #shortsvideo #shortvideo Martin Hinshelwood walks us through the top 5 things he would teach a newbie #productowner. This is part 5. Visit https://youtu.be/XKmWMXagVgQ to watch the full video.

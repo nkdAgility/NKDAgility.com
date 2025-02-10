@@ -28,27 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agility
+- Scrum
+- Agile Software Development
 - Agile Transformation
-- Scrum Training
-- Team Collaboration
-- Team Motivation
-- Continuous Improvement
-- Agile Coaching
+- Agile Project Management
+- Agile Software Engineering
 - Agile Product Management
-- Customer Feedback Loops
-- Agile Values and Principles
-- Employee Engagement
+- People and Process
+- Agile Strategy
+- Agile Leader
 - Agile Community
-- Change Management
-- Business Agility
+- Agile Coaching
+- Agile Evolution
+- Agile Pilot
+- Agile Methodology
 resourceTypes:
 - video
 categories:
-- Organisational Agility
-- People and Process
 - Scrum
-- Agile Transformation
-- Continuous Delivery
+- Agile Product Management
+- People and Process
 
 ---
 **What is the most interesting outcome you have achieved as an agile consultant?**

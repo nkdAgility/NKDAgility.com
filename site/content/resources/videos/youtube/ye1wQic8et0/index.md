@@ -23,20 +23,21 @@ preview: https://i.ytimg.com/vi/ye1wQic8et0/maxresdefault.jpg
 duration: 408
 isShort: false
 tags:
-- Team Collaboration
+- Agility
 - Decision Making
-- Business Agility
+- Ability to Innovate
+- Agile Project Management
+- Team Collaboration
+- People and Process
+- Enterprise Agility
 - Organisational Agility
-- Change Management
-- Agile Planning
-- Value Delivery
-- Continuous Improvement
-- Agile Transformation
-- Lean Thinking
+- Agile Leader
+- Agile Strategy
+- Agile Predictability
+- Business Agility
+- Lead Time
+- Lean Agile
 - Agile Leadership
-- Systems Thinking
-- Evidence Based Management
-- Agile Values and Principles
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -44,11 +45,9 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Organisational Agility
 - People and Process
-- Value Delivery
 - Market Adaptability
-- Resilience and Change
+- Product Delivery
 
 ---
  *Reducing Time to Market by Removing Committees*

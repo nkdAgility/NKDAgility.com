@@ -3,9 +3,7 @@ title: Delivery is the only Measure of Progress in Scrum
 description: Delivery, not just a Done Increment, is the real measure of progress in Scrum. In 2025, if you're not delivering every Sprint, you're not truly Agile.
 ResourceId: jBIyK6NW3ZB
 ResourceType: blog
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 date: 2025-02-03T09:00:00
 AudioNative: true
 creator: Martin Hinshelwood
@@ -27,22 +25,25 @@ aliasesFor404:
 - /delivery-is-the-only-measure-of-progress-in-scrum
 - /blog/delivery-is-the-only-measure-of-progress-in-scrum
 tags:
-- Scrum Team
-- Agile Product Management
-- Value Delivery
-- Customer Feedback Loops
-- Agile Software Development
-- Deployment Strategies
-- Agile Product Validation
-- Technical Excellence
-- Agile Transformation
-- Working Software
-- Evidence Based Improvement
-categories:
-- Scrum
+- Agile Software Engineering
+- CI/CD
+- Continuous Delivery
+- Definition of Done
 - DevOps
+- Engineering Practices
+- People and Process
+- Scrum
+- Scrum Product Development
+- Scrum Product Management
+- Scrum Team
+- Software Increment
+- Team Performance
 - Value Delivery
-- Metrics and Learning
+- Working Software
+categories:
+- DevOps
+- Scrum
+- Value Delivery
 preview: 2025-02-03-delivery-as-the-ultimate-measure-of-progress.jpg
 
 ---

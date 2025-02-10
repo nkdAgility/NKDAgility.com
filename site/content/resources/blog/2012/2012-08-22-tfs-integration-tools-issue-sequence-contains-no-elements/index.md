@@ -27,11 +27,8 @@ aliasesFor404:
 - /blog/tfs-integration-tools---issue--sequence-contains-no-elements
 - /tfs-integration-tools
 - /resources/blog/tfs-integration-tools-issue-sequence-contains-no-elements
-tags:
-- Technical Debt
-- Agile Tools
-categories:
-- Azure DevOps
+tags: []
+categories: []
 preview: metro-problem-icon-3-3.png
 
 ---

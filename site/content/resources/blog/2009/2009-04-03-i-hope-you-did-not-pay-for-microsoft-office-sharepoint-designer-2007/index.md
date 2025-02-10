@@ -26,8 +26,7 @@ tags:
 - Digital Transformation
 preview: metro-sharepoint-128-link-1-1.png
 categories:
-- Install and Configuration
-- News and Reviews
+- '""'
 
 ---
 Coz its now free…

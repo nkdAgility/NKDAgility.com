@@ -24,31 +24,27 @@ preview: https://i9.ytimg.com/vi/YVrGU0oZmc0/maxresdefault.jpg?sqp=CKDMmrwG&rs=A
 duration: 557
 isShort: false
 tags:
+- DevOps
 - Continuous Delivery
-- Customer Feedback Loops
-- Agile Tools
-- Azure DevOps
-- Agile Product Management
+- Working Software
+- Software Developers
+- Continuos Delivery
 - Value Delivery
-- Evidence Based Management
-- Agile Product Discovery
-- Technical Excellence
-- Agile Software Development
-- Team Collaboration
-- Agile Scaling
-- Site Reliability
+- Software Development
+- Engineering Practices
+- Azure DevOps
+- Operational Practices
+- Continuous Improvement
+- Frequent Releases
+- Product Strategy
+- Engineering Excellence
+- Ability to Innovate
 resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-categories:
-- Continuous Delivery
-- Metrics and Learning
-- Value Delivery
-- DevOps
-- Technical Excellence
-- Azure DevOps
+categories: []
 
 ---
  Unlocking Continuous Delivery with Feature Flags: The Key to Faster, Safer Deployments

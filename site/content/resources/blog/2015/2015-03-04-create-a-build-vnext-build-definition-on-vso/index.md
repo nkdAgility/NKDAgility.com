@@ -25,26 +25,8 @@ aliasesFor404:
 - /create-a-build-vnext-build-definition
 - /blog/create-a-build-vnext-build-definition
 - /resources/blog/create-a-build-vnext-build-definition-on-vso
-tags:
-- Continuous Integration
-- Azure DevOps
-- Agile Software Development
-- DevOps
-- Agile Tools
-- Automated Testing
-- Agile Product Management
-- Technical Excellence
-- Agile Product Discovery
-- Value Stream Management
-- Agile Planning Tools
-- Agile Frameworks
-- Software Development
-- Continuous Delivery
-- Agile Digital Tools
-categories:
-- Install and Configuration
-- Azure DevOps
-- Practical Techniques and Tooling
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-26-26.png
 
 ---

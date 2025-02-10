@@ -3,9 +3,7 @@ title: Stop Promoting Branches
 description: Explore how audience-based deployment, also known as ring-based deployment, challenges traditional environments, accelerates feedback, and transforms continuous delivery.
 ResourceId: x7ra7pQCDX5
 ResourceType: blog
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 date: 2025-02-06T09:00:00
 AudioNative: true
 creator: Martin Hinshelwood
@@ -21,23 +19,25 @@ aliasesFor404:
 - /stop-promoting-branches
 - /blog/stop-promoting-branches
 tags:
-- Deployment Frequency
-- Continuous Delivery
 - Agile Software Development
-- Agile Product Management
-- Technical Excellence
+- Agile Software Engineering
+- Agility
+- Continuos Delivery
+- Continuous Delivery
+- Continuous Integration
+- Cycle Time
+- DevOps
+- Engineering Practices
+- Flow Efficiency
+- Modern Source Control
+- Software Developers
+- Software Development
 - Value Delivery
-- Agile Transformation
-- Agile Values and Principles
-- Lean Principles
-- Evidence Based Management
-- Organisational Agility
-- Agile Frameworks
-- Systems Thinking
+- Value Stream Management
 categories:
 - Code and Complexity
-- Organisational Agility
-- Practical Techniques and Tooling
+- DevOps
+- Value Delivery
 preview: 2025-02-06-stop-promoting-branches.jpg
 
 ---

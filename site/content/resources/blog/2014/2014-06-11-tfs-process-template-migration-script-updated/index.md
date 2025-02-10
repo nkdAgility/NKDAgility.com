@@ -22,25 +22,24 @@ aliasesFor404:
 - /blog/tfs-process-template-migration-script-updated
 - /resources/blog/tfs-process-template-migration-script-updated
 tags:
-- Scrum Product Management
-- Scrum Team
-- Definition of Done
-- Product Backlog
-- Agile Planning
-- Agile Tools
-- Continuous Delivery
-- Technical Excellence
-- Agile Software Development
-- Agile Product Management
+- Agile Digital Tools
+- Agile Planning Tools
 - Agile Project Management
-- Azure DevOps
-- Agile Transformation
-- Evidence Based Improvement
+- Agile Software Development
+- Agile Tools
+- Change Management
+- People and Process
+- Scrum
+- Scrum Product Development
+- Scrum Product Management
+- Software Developers
+- Software Development
+- Software Increment
+- System Configuration
+- Working Software
 categories:
-- Azure DevOps
-- Application Lifecycle Management
+- Code and Complexity
 - Install and Configuration
-- Practical Techniques and Tooling
 - Scrum
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 

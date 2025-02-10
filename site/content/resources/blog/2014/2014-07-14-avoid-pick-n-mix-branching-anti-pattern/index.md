@@ -26,26 +26,25 @@ aliasesFor404:
 - /blog/avoid-the-pick-n-mix-branching-anti-pattern
 - /resources/blog/avoid-pick-n-mix-branching-anti-pattern
 tags:
-- Modern Source Control
-- Technical Debt
-- Agile Planning
-- Continuous Delivery
-- Deployment Strategies
 - Agile Software Development
-- Value Delivery
-- Agile Product Management
-- Agile Transformation
-- Team Collaboration
-- Change Management
-- Evidence Based Management
-- Agile Values and Principles
-- Systems Thinking
-categories:
-- Code and Complexity
-- Technical Excellence
+- Agile Software Engineering
 - Application Lifecycle Management
-- People and Process
-- Value Delivery
+- Change Management
+- Continuos Delivery
+- Continuous Delivery
+- Flow Efficiency
+- Modern Source Control
+- Release Planning
+- Software Developers
+- Software Development
+- Technical Debt
+- Technical Excellence
+- Technical Strategy
+- Working Software
+categories:
+- Application Lifecycle Management
+- Code and Complexity
+- Product Delivery
 preview: nakedalm-experts-visual-studio-alm-4-4.png
 
 ---

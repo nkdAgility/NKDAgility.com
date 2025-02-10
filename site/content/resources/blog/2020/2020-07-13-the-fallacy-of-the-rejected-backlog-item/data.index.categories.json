@@ -1,0 +1,42 @@
+{
+  "DevOps": {
+    "category": "DevOps",
+    "ai_confidence": 75,
+    "non_ai_confidence": 0,
+    "final_score": 52.0,
+    "reasoning": "The content discusses the importance of collaboration between the Development Team and the Product Owner, as well as the implications of backlog item management on delivery and quality, which are central themes in DevOps practices.",
+    "level": "Secondary"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "ai_confidence": 30,
+    "non_ai_confidence": 0,
+    "final_score": 21.0,
+    "reasoning": "The content primarily discusses Scrum roles, events, and the dynamics of the Sprint Review process, with only a minor mention of concepts that could relate to project management tools like Azure DevOps.",
+    "level": "Ignored"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses Scrum roles, events, and the concept of backlog items within the context of Scrum, rather than focusing on Kanban principles or practices.",
+    "level": "Ignored"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "ai_confidence": 75,
+    "non_ai_confidence": 10,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of quality, accountability, and engineering practices such as feature flags and the INVEST model, which are relevant to agile methodologies and technical excellence. However, the primary focus is on Scrum roles and the dynamics of the Sprint Review rather than on engineering practices themselves.",
+    "level": "Secondary"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "ai_confidence": 92,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "Content heavily discusses the roles, responsibilities, and processes within the Scrum framework, particularly focusing on the Sprint Review and the implications of backlog item management.",
+    "level": "Secondary"
+  }
+}

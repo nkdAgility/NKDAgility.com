@@ -25,27 +25,8 @@ aliasesFor404:
 - /using-the-build-vnext-capabilities-and-demands-system
 - /blog/using-the-build-vnext-capabilities-and-demands-system
 - /resources/blog/using-build-vnext-capabilities-demands-system
-tags:
-- Agile Tools
-- Azure DevOps
-- Continuous Integration
-- DevOps
-- Agile Software Development
-- Technical Excellence
-- Agile Product Management
-- Value Delivery
-- Agile Planning Tools
-- Evidence Based Management
-- Agile Product Discovery
-- Agile Software Engineering
-- Continuous Delivery
-- Automated Testing
-categories:
-- Azure DevOps
-- Install and Configuration
-- Practical Techniques and Tooling
-- DevOps
-- Application Lifecycle Management
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---

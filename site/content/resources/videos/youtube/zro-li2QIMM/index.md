@@ -22,16 +22,7 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/zro-li2QIMM/maxresdefault.jpg
 duration: 50
 isShort: true
-tags:
-- Agile Coaching
-- Team Collaboration
-- Team Motivation
-- Organisational Agility
-- Employee Engagement
-- Agile Values and Principles
-- Continuous Improvement
-- Agile Community
-- Charity
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -39,10 +30,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Organisational Agility
 - People and Process
-- Value Delivery
-- Resilience and Change
+- Personal
 
 ---
  #shorts #shortsvideo #shortvideo 7 virtues of #agile. Charity. #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #projectmanagement #projectmanager #productdevelopment #productmanagement #scrummaster #agilecoach #productowner #agileleadership 

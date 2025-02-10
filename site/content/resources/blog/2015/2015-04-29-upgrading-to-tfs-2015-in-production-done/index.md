@@ -28,24 +28,8 @@ aliasesFor404:
 - /upgrading-to-tfs-2015-in-production
 - /resources/blog/upgrading-to-tfs-2015-in-production-done
 tags:
-- Deployment Frequency
-- Change Management
-- Agile Software Development
-- Continuous Delivery
-- Technical Excellence
-- Agile Product Management
-- Evidence Based Management
-- Agile Transformation
-- Value Stream Management
-- Agile Tools
-- DevOps
-- Agile Planning
-- Customer Feedback Loops
-- Technical Debt
-categories:
-- Install and Configuration
-- Azure DevOps
-- Technical Excellence
+- Software Increment
+categories: []
 preview: nakedalm-experts-visual-studio-alm-22-22.png
 
 ---

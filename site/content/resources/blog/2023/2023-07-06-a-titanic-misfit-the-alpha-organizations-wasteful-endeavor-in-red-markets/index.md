@@ -27,18 +27,8 @@ aliasesFor404:
 - /blog/a-titanic-misfit--the-alpha-organization's-wasteful-endeavor-in-red-markets
 - /resources/blog/a-titanic-misfit-the-alpha-organizations-wasteful-endeavor-in-red-markets
 tags:
-- Business Agility
-- Organisational Agility
-- Lean Thinking
-- Agile Strategy
-- Change Management
-- Organisational Change
-- Employee Engagement
-- Agile Leadership
-- Market Adaptability
-- Agile Transformation
-categories:
-- Discovery and Learning
+- Ability to Innovate
+categories: []
 preview: image-1.jpg
 
 ---

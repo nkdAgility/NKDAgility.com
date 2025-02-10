@@ -26,12 +26,10 @@ aliasesFor404:
 - /blog/finding-features--conversations
 - /resources/blog/finding-features-conversations
 tags:
-- Product Discovery
-- Team Collaboration
+- '""'
 preview: nakedalm-logo-128-link-5-5.png
 categories:
-- Install and Configuration
-- Discovery and Learning
+- '""'
 
 ---
 Hey, well the dentist was fun! And I have had time to install Office 2010 on my wife's Windows 7 laptop. I will try to put together some of the interesting features…

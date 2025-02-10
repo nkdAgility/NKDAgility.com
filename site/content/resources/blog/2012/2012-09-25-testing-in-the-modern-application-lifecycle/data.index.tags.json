@@ -1,0 +1,834 @@
+{
+  "Site Reliability": {
+    "category": "Site Reliability",
+    "ai_confidence": 45,
+    "non_ai_confidence": 0,
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on testing practices and tools within the software development lifecycle, with only peripheral mentions of collaboration and integration that could relate to site reliability.",
+    "level": "Ignored"
+  },
+  "Value Delivery": {
+    "category": "Value Delivery",
+    "ai_confidence": 85,
+    "non_ai_confidence": 20,
+    "final_score": 66.0,
+    "reasoning": "Content primarily focuses on improving testing processes and integration within agile development to enhance software quality and delivery efficiency.",
+    "level": "Secondary"
+  },
+  "Value Stream Management": {
+    "category": "Value Stream Management",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 41.0,
+    "reasoning": "The content discusses the integration of testing processes within development teams and the importance of measuring and optimising testing cycles, which aligns with value stream management principles, but it primarily focuses on testing tools and methodologies.",
+    "level": "Ignored"
+  },
+  "Lean UX": {
+    "category": "Lean UX",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the integration of testing practices within agile workflows, highlighting the importance of collaboration among teams and iterative quality building, which aligns with Lean UX principles.",
+    "level": "Ignored"
+  },
+  "Deployment Frequency": {
+    "category": "Deployment Frequency",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the need for iterative testing and quality assurance in the context of agile development, which indirectly relates to deployment frequency, but the primary focus is on testing processes and tools rather than deployment itself.",
+    "level": "Ignored"
+  },
+  "Agile Digital Tools": {
+    "category": "Agile Digital Tools",
+    "ai_confidence": 85,
+    "non_ai_confidence": 20,
+    "final_score": 66.0,
+    "reasoning": "Content primarily discusses the integration of Microsoft Test Manager and other tools to enhance testing processes within agile development, focusing on collaboration, visibility, and iterative quality improvement.",
+    "level": "Secondary"
+  },
+  "Organisational Transformational Mastery": {
+    "category": "Organisational Transformational Mastery",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the need for process changes to achieve agility in software testing, which aligns with change management themes, but it primarily focuses on testing tools and methodologies.",
+    "level": "Ignored"
+  },
+  "Agile Mentoring Program": {
+    "category": "Agile Mentoring Program",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the integration of testing within agile teams and the need for collaboration, which aligns with agile principles, but it primarily focuses on testing tools and methodologies rather than structured mentoring or coaching.",
+    "level": "Ignored"
+  },
+  "Decision Making": {
+    "category": "Decision Making",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of integrating testing processes and tools to improve software quality and meet customer expectations, which relates to decision-making in a secondary capacity.",
+    "level": "Ignored"
+  },
+  "Site Reliability Engineering": {
+    "category": "Site Reliability Engineering",
+    "ai_confidence": 45,
+    "non_ai_confidence": 10,
+    "final_score": 34.0,
+    "reasoning": "The content primarily focuses on testing methodologies and tools within the software development lifecycle, with only peripheral references to reliability and engineering principles.",
+    "level": "Ignored"
+  },
+  "Agile Frameworks": {
+    "category": "Agile Frameworks",
+    "ai_confidence": 75,
+    "non_ai_confidence": 10,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the integration of testing practices within Agile methodologies, particularly focusing on the need for collaboration and iterative processes, which are central to Agile frameworks.",
+    "level": "Secondary"
+  },
+  "Experimentation": {
+    "category": "Experimentation",
+    "ai_confidence": 75,
+    "non_ai_confidence": 0,
+    "final_score": 52.0,
+    "reasoning": "The content discusses the need for iterative testing and feedback loops in agile workflows, highlighting the importance of testing quality in and the integration of tools to improve testing processes, which aligns with experimentation principles.",
+    "level": "Secondary"
+  },
+  "Market Share": {
+    "category": "Market Share",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses testing methodologies and tools within the software development lifecycle, with no clear focus on market share or competitive advantage.",
+    "level": "Ignored"
+  },
+  "Deployment Strategies": {
+    "category": "Deployment Strategies",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the importance of integrating testing within the development process to achieve agility and quality, which indirectly relates to deployment strategies. However, the primary focus is on testing methodologies rather than deployment itself.",
+    "level": "Ignored"
+  },
+  "Strategic": {
+    "category": "Strategic",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the need for long-term changes in testing processes to achieve agility and quality in software development, indicating a strategic approach to improving competitive advantage through better testing practices.",
+    "level": "Ignored"
+  },
+  "BetaCodex": {
+    "category": "BetaCodex",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the need for collaboration and integration across teams in a modern agile environment, which aligns with the principles of decentralised organisational design and responsiveness, but it primarily focuses on testing tools and methodologies.",
+    "level": "Ignored"
+  },
+  "Agile Planning Tools": {
+    "category": "Agile Planning Tools",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "Content primarily discusses the integration of testing tools within agile environments, focusing on iterative testing and collaboration among development teams.",
+    "level": "Secondary"
+  },
+  "Agile Product Management": {
+    "category": "Agile Product Management",
+    "ai_confidence": 75,
+    "non_ai_confidence": 30,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the integration of testing within agile teams and the importance of collaboration across departments to meet customer expectations and improve product quality, making Agile Product Management a significant theme.",
+    "level": "Secondary"
+  },
+  "Complexity Thinking": {
+    "category": "Complexity Thinking",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the complexities of modern application testing and the need for collaborative, integrated approaches, indicating an understanding of non-linear solutions in complex systems.",
+    "level": "Ignored"
+  },
+  "Continuous Delivery": {
+    "category": "Continuous Delivery",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 59.0,
+    "reasoning": "The content primarily discusses the integration of testing within the modern application lifecycle, emphasising the need for iterative testing and quality assurance to support agile development and continuous delivery practices.",
+    "level": "Secondary"
+  },
+  "Engineering Excellence": {
+    "category": "Engineering Excellence",
+    "ai_confidence": 85,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses the complexities of manual testing in modern application lifecycles, emphasising the need for high standards in testing practices and integration with development processes to ensure quality software delivery.",
+    "level": "Secondary"
+  },
+  "Portfolio Management": {
+    "category": "Portfolio Management",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on testing methodologies and tools within the software development lifecycle, with no clear emphasis on prioritising investments or strategic alignment.",
+    "level": "Ignored"
+  },
+  "Agility": {
+    "category": "Agility",
+    "ai_confidence": 80,
+    "non_ai_confidence": 50,
+    "final_score": 71.0,
+    "reasoning": "Content primarily discusses the need for teams to adapt their testing processes to achieve agility in software development, highlighting the importance of collaboration and iterative quality assurance.",
+    "level": "Secondary"
+  },
+  "Sprint Review Workshops": {
+    "category": "Sprint Review Workshops",
+    "ai_confidence": 30,
+    "non_ai_confidence": 0,
+    "final_score": 21.0,
+    "reasoning": "The content primarily focuses on manual testing in the application lifecycle and the integration of testing tools, with only a brief mention of agile practices, which does not centralise around sprint review workshops.",
+    "level": "Ignored"
+  },
+  "Azure Repos": {
+    "category": "Azure Repos",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses manual testing in the modern application lifecycle, focusing on testing methodologies, challenges, and tools like Microsoft Test Manager, without a clear emphasis on Azure Repos or source control management.",
+    "level": "Ignored"
+  },
+  "Hypothesis Driven Development": {
+    "category": "Hypothesis Driven Development",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of iteratively building quality into software and the need for tight feedback loops, which aligns with the principles of hypothesis-driven development, but it primarily focuses on testing processes and tools rather than experimentation and validated learning.",
+    "level": "Ignored"
+  },
+  "Azure Pipelines": {
+    "category": "Azure Pipelines",
+    "ai_confidence": 30,
+    "non_ai_confidence": 0,
+    "final_score": 21.0,
+    "reasoning": "The content primarily discusses manual testing and the integration of Microsoft Test Manager, with only a brief mention of build and work item tracking, which is not central to the topic.",
+    "level": "Ignored"
+  },
+  "Entrepreneurship": {
+    "category": "Entrepreneurship",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on testing methodologies and tools in software development, with no clear emphasis on fostering innovation, risk-taking, or value-driven decision-making in business.",
+    "level": "Ignored"
+  },
+  "Featured": {
+    "category": "Featured",
+    "ai_confidence": 85,
+    "non_ai_confidence": 50,
+    "final_score": 74.0,
+    "reasoning": "The content provides key insights into the complexities of manual testing in modern application lifecycles, highlighting the need for integration and agile methodologies, making it a significant perspective on the topic.",
+    "level": "Secondary"
+  },
+  "Employee Engagement": {
+    "category": "Employee Engagement",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on testing methodologies and tools within the software development lifecycle, with no clear emphasis on employee engagement or fostering motivation and commitment among teams.",
+    "level": "Ignored"
+  },
+  "System Configuration": {
+    "category": "System Configuration",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the integration of testing tools and frameworks, particularly Microsoft Test Manager, which involves configuring software for optimal testing performance. However, the primary focus is on testing methodologies rather than system configuration itself.",
+    "level": "Ignored"
+  },
+  "Sensemaking": {
+    "category": "Sensemaking",
+    "ai_confidence": 75,
+    "non_ai_confidence": 0,
+    "final_score": 52.0,
+    "reasoning": "The content discusses the complexities of manual testing in modern application lifecycles and highlights the need for organisations to adapt their processes to improve quality and efficiency, which aligns with interpreting complexity and making informed decisions.",
+    "level": "Secondary"
+  },
+  "Lean Product Development": {
+    "category": "Lean Product Development",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "Content primarily discusses the integration of testing within agile development processes, emphasising the importance of reducing waste and improving quality through iterative testing and collaboration.",
+    "level": "Secondary"
+  },
+  "Trend Analysis": {
+    "category": "Trend Analysis",
+    "ai_confidence": 45,
+    "non_ai_confidence": 10,
+    "final_score": 34.0,
+    "reasoning": "The content discusses the evolution of testing practices in the context of modern application lifecycles, but it primarily focuses on specific tools and methodologies rather than identifying broader patterns or shifts for strategic decision-making.",
+    "level": "Ignored"
+  },
+  "Kanban Training": {
+    "category": "Kanban Training",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses manual testing in the context of modern application lifecycles and does not focus on Kanban principles, practices, or implementation.",
+    "level": "Ignored"
+  },
+  "Nonlinear Dynamics": {
+    "category": "Nonlinear Dynamics",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the complexities and interconnectedness of testing processes in modern software development, highlighting the need for collaboration across teams and the challenges of managing testing data. However, it primarily focuses on testing tools and methodologies rather than a deep exploration of nonlinear dynamics in organisational behaviour.",
+    "level": "Ignored"
+  },
+  "Customer Feedback Loops": {
+    "category": "Customer Feedback Loops",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 59.0,
+    "reasoning": "The content discusses the importance of integrating testing with development to ensure that products meet user expectations and reduce waste, highlighting the need for tight feedback loops in the testing process.",
+    "level": "Secondary"
+  },
+  "Scrum Product Management": {
+    "category": "Scrum Product Management",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on testing methodologies and tools in the context of software development, with no clear emphasis on managing product vision, roadmap, or backlog in a Scrum environment.",
+    "level": "Ignored"
+  },
+  "Agile Community": {
+    "category": "Agile Community",
+    "ai_confidence": 75,
+    "non_ai_confidence": 10,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the integration of testing within Agile teams and the need for collaboration across departments, making Agile principles a significant theme.",
+    "level": "Secondary"
+  },
+  "Definition of Ready": {
+    "category": "Definition of Ready",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of having clear criteria for testing and quality assurance in the context of agile development, which aligns with the concept of ensuring backlog items meet actionable standards before sprint planning.",
+    "level": "Ignored"
+  },
+  "Modern Source Control": {
+    "category": "Modern Source Control",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily discusses testing methodologies and tools within the application lifecycle, with no clear focus on version control or branching strategies.",
+    "level": "Ignored"
+  },
+  "Transparency": {
+    "category": "Transparency",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the challenges of tracking testing progress and the need for clear visibility in testing cycles, which aligns with the theme of transparency in agile processes.",
+    "level": "Ignored"
+  },
+  "Agile Methodology": {
+    "category": "Agile Methodology",
+    "ai_confidence": 85,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "Content primarily discusses the integration of testing practices within agile frameworks, emphasising the need for collaboration and iterative quality assurance in software development.",
+    "level": "Secondary"
+  },
+  "Continuous Integration": {
+    "category": "Continuous Integration",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the integration of testing tools and processes within the software development lifecycle, highlighting the importance of collaboration and automation in achieving quality and agility, which are key aspects of Continuous Integration.",
+    "level": "Ignored"
+  },
+  "Sprint Review": {
+    "category": "Sprint Review",
+    "ai_confidence": 30,
+    "non_ai_confidence": 0,
+    "final_score": 21.0,
+    "reasoning": "The content primarily focuses on testing methodologies and tools rather than on inspecting and adapting increments or stakeholder feedback.",
+    "level": "Ignored"
+  },
+  "Ability to Innovate": {
+    "category": "Ability to Innovate",
+    "ai_confidence": 75,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses the need for agility and continuous improvement in testing processes, highlighting the importance of integrating testing with development to create value. However, the primary focus is on specific testing tools and methodologies rather than broader innovation strategies.",
+    "level": "Secondary"
+  },
+  "Psychological Safety": {
+    "category": "Psychological Safety",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on testing methodologies and tools within the software development lifecycle, with no clear emphasis on psychological safety or its role in fostering innovation and high-performing teams.",
+    "level": "Ignored"
+  },
+  "Frequent Releases": {
+    "category": "Frequent Releases",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 59.0,
+    "reasoning": "The content discusses the need for iterative testing and continuous delivery of quality software, emphasising the importance of integrating testing into the agile development process to ensure frequent releases.",
+    "level": "Secondary"
+  },
+  "Troubleshooting": {
+    "category": "Troubleshooting",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses the challenges and solutions related to testing in software development, including identifying and resolving issues such as tracking test progress, reproducing bugs, and automating tests, which are central to troubleshooting in software.",
+    "level": "Secondary"
+  },
+  "Agile Certification": {
+    "category": "Agile Certification",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses agile methodologies and their impact on testing processes, making it a major but secondary theme.",
+    "level": "Ignored"
+  },
+  "Agile Forecasting": {
+    "category": "Agile Forecasting",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the need for iterative testing and collaboration in agile environments, which relates to planning and predicting outcomes, but it primarily focuses on testing tools and processes rather than forecasting specifically.",
+    "level": "Ignored"
+  },
+  "Engineering Practices": {
+    "category": "Engineering Practices",
+    "ai_confidence": 85,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "Content primarily focuses on the integration of testing within the agile development lifecycle, emphasising the importance of automation, iterative testing, and building quality into the development process.",
+    "level": "Secondary"
+  },
+  "Agile Apocalypse": {
+    "category": "Agile Apocalypse",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the challenges and complexities of testing in an agile environment, highlighting the need for process changes to achieve agility, which aligns with the theme of misinterpretation of agile practices.",
+    "level": "Ignored"
+  },
+  "Continuos Delivery": {
+    "category": "Continuos Delivery",
+    "ai_confidence": 75,
+    "non_ai_confidence": 10,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of integrating testing into the development process to achieve agility and deliver quality software iteratively, which aligns with the principles of Continuous Delivery.",
+    "level": "Secondary"
+  },
+  "Systemic Thinking": {
+    "category": "Systemic Thinking",
+    "ai_confidence": 75,
+    "non_ai_confidence": 0,
+    "final_score": 52.0,
+    "reasoning": "The content discusses the need for collaboration across various roles in the development process and highlights the importance of integrating testing within the broader context of agile development, indicating a major theme of systemic thinking.",
+    "level": "Secondary"
+  },
+  "Systems Thinking": {
+    "category": "Systems Thinking",
+    "ai_confidence": 85,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the integration of testing processes within agile development teams, emphasising collaboration across departments and the need for holistic approaches to improve software quality and delivery efficiency.",
+    "level": "Secondary"
+  },
+  "Evidence Based Management": {
+    "category": "Evidence Based Management",
+    "ai_confidence": 75,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses the importance of data collection, measurement, and iterative testing to improve software quality and organisational agility, making evidence-based practices a significant theme.",
+    "level": "Secondary"
+  },
+  "Agile Project Management": {
+    "category": "Agile Project Management",
+    "ai_confidence": 75,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses the need for agility in testing processes and the integration of testing within development teams, highlighting the importance of collaboration and iterative quality assurance in an agile environment.",
+    "level": "Secondary"
+  },
+  "Adaptive Leadership": {
+    "category": "Adaptive Leadership",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the need for teams to work collaboratively and adapt their processes in the context of agile testing, which aligns with the principles of adaptive leadership, but it is primarily focused on testing methodologies and tools.",
+    "level": "Ignored"
+  },
+  "Behaviour Driven Development": {
+    "category": "Behaviour Driven Development",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of integrating testing with development processes and emphasises the need for collaboration among teams to ensure quality, which aligns with the principles of Behaviour Driven Development. However, it primarily focuses on testing management tools and methodologies rather than explicitly structuring tests around business behaviour.",
+    "level": "Ignored"
+  },
+  "Resilience and Change": {
+    "category": "Resilience and Change",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 41.0,
+    "reasoning": "The content discusses the need for teams to adapt their processes to achieve agility and improve testing practices, indicating a secondary theme of managing change within organisations.",
+    "level": "Ignored"
+  },
+  "Backlog Refinement": {
+    "category": "Backlog Refinement",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses testing methodologies and tools in the context of software development, with no clear focus on backlog refinement or its principles.",
+    "level": "Ignored"
+  },
+  "Lead Time": {
+    "category": "Lead Time",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 41.0,
+    "reasoning": "The content discusses the importance of testing and quality assurance in the context of agile development, which indirectly relates to lead time by emphasising the need for timely delivery of tested software. However, it primarily focuses on testing processes rather than measuring lead time directly.",
+    "level": "Ignored"
+  },
+  "Software Development": {
+    "category": "Software Development",
+    "ai_confidence": 92,
+    "non_ai_confidence": 20,
+    "final_score": 70.0,
+    "reasoning": "Content primarily focuses on testing methodologies and tools within the software development lifecycle, emphasising the importance of integrating testing with agile development practices.",
+    "level": "Secondary"
+  },
+  "Evidence Based Leadership": {
+    "category": "Evidence Based Leadership",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of data collection and analysis in the context of software testing and quality assurance, which aligns with evidence-based decision-making. However, the primary focus is on testing methodologies and tools rather than leadership decisions.",
+    "level": "Ignored"
+  },
+  "Decision Theory": {
+    "category": "Decision Theory",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the importance of integrating testing processes with engineering teams to improve software quality and meet customer expectations, indicating a secondary theme of decision-making in product development.",
+    "level": "Ignored"
+  },
+  "Agile Software Development": {
+    "category": "Agile Software Development",
+    "ai_confidence": 85,
+    "non_ai_confidence": 30,
+    "final_score": 68.0,
+    "reasoning": "Content primarily discusses the integration of testing within agile development processes, emphasising the need for collaboration and iterative quality assurance to meet agile principles.",
+    "level": "Secondary"
+  },
+  "Flow Efficiency": {
+    "category": "Flow Efficiency",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "Content primarily discusses optimising testing processes and integrating tools to enhance efficiency in the software development lifecycle, which aligns with maximising value delivery.",
+    "level": "Secondary"
+  },
+  "MVP": {
+    "category": "MVP",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the importance of testing and quality assurance in the context of agile development, which is relevant to building a Minimum Viable Product, but it primarily focuses on testing methodologies and tools rather than directly on MVP development.",
+    "level": "Ignored"
+  },
+  "Professional Scrum": {
+    "category": "Professional Scrum",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on manual testing in the context of modern application lifecycles and does not delve into Scrum principles, roles, or practices.",
+    "level": "Ignored"
+  },
+  "Large Scale Agility": {
+    "category": "Large Scale Agility",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 41.0,
+    "reasoning": "The content discusses the need for collaboration across departments and the integration of testing within agile frameworks, indicating a shift towards enterprise-wide agility, but it primarily focuses on testing tools and methodologies.",
+    "level": "Ignored"
+  },
+  "Predictability in Kanban": {
+    "category": "Predictability in Kanban",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily discusses manual testing in the context of modern application lifecycles, focusing on testing complexities, integration with tools, and improving testing processes, without a clear emphasis on predictability or reliability in Kanban-based value delivery.",
+    "level": "Ignored"
+  },
+  "Customer Satisfaction": {
+    "category": "Customer Satisfaction",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the importance of meeting user expectations and reducing waste in software development, indicating a focus on customer satisfaction as a secondary theme.",
+    "level": "Ignored"
+  },
+  "Market Adaptability": {
+    "category": "Market Adaptability",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the need for agility in testing processes and the integration of tools to enhance collaboration and efficiency, which are relevant to market adaptability, but the primary focus is on testing methodologies and tools rather than direct market responsiveness.",
+    "level": "Ignored"
+  },
+  "Technical Mastery": {
+    "category": "Technical Mastery",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 59.0,
+    "reasoning": "The content primarily discusses the complexities of manual testing in modern application lifecycles, emphasising the need for effective testing practices, integration of tools, and the importance of quality in software development, which aligns closely with software craftsmanship and engineering practices.",
+    "level": "Secondary"
+  },
+  "Throughput": {
+    "category": "Throughput",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the challenges and solutions related to testing in the modern application lifecycle, including the need for effective tracking and reporting of test progress, which indirectly relates to measuring the rate of work completion.",
+    "level": "Ignored"
+  },
+  "Test Strategy": {
+    "category": "Test Strategy",
+    "ai_confidence": 92,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "Content primarily discusses the complexities of manual testing in modern application lifecycles, the need for structured testing approaches, and the integration of tools to enhance testing efficiency and quality.",
+    "level": "Secondary"
+  },
+  "Test Driven Development": {
+    "category": "Test Driven Development",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 41.0,
+    "reasoning": "The content discusses the importance of integrating testing into the development process and mentions the need for automation in testing, which aligns with Test Driven Development principles. However, the primary focus is on manual testing and tools rather than automated tests driving software design.",
+    "level": "Ignored"
+  },
+  "Test Automation": {
+    "category": "Test Automation",
+    "ai_confidence": 92,
+    "non_ai_confidence": 20,
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the challenges and solutions related to automating testing processes, including automation generation and the integration of tools to enhance testing efficiency and quality.",
+    "level": "Secondary"
+  },
+  "Agile Estimation": {
+    "category": "Agile Estimation",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily discusses testing methodologies and tools in the context of agile development, but does not focus on techniques for estimating work effort.",
+    "level": "Ignored"
+  },
+  "Lean Principles": {
+    "category": "Lean Principles",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of reducing waste in the testing process and emphasises iterative learning and continuous improvement through the integration of testing tools and methodologies, aligning closely with Lean Principles.",
+    "level": "Secondary"
+  },
+  "Enterprise Agility": {
+    "category": "Enterprise Agility",
+    "ai_confidence": 75,
+    "non_ai_confidence": 10,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the need for collaboration across departments and the integration of testing within agile development processes, indicating a significant focus on transforming organisational operations to achieve agility.",
+    "level": "Secondary"
+  },
+  "Sprint Planning Workshop": {
+    "category": "Sprint Planning Workshop",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses manual testing in the context of modern application lifecycles, focusing on testing challenges, tools, and methodologies rather than sprint planning or backlog item selection.",
+    "level": "Ignored"
+  },
+  "Agile Portfolio Management": {
+    "category": "Agile Portfolio Management",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 41.0,
+    "reasoning": "The content discusses the integration of testing processes within agile development, highlighting the importance of aligning testing with development teams to deliver value. However, it primarily focuses on testing tools and methodologies rather than explicitly aligning initiatives with strategic goals.",
+    "level": "Ignored"
+  },
+  "Kanban Process": {
+    "category": "Kanban Process",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily discusses manual testing in the modern application lifecycle, focusing on testing complexities, integration with tools, and the importance of collaboration among development teams. Kanban principles are not a central theme.",
+    "level": "Ignored"
+  },
+  "Lean Startup": {
+    "category": "Lean Startup",
+    "ai_confidence": 45,
+    "non_ai_confidence": 0,
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on testing methodologies and tools within the software development lifecycle, with only a minor mention of agility and meeting customer expectations, which does not align closely with Lean Startup principles.",
+    "level": "Ignored"
+  },
+  "Definition of Done": {
+    "category": "Definition of Done",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 41.0,
+    "reasoning": "The content discusses the importance of testing and quality assurance in the software development lifecycle, touching on aspects that relate to the Definition of Done, such as ensuring that each iteration outputs working software of releasable quality. However, it primarily focuses on testing methodologies and tools rather than explicitly defining the criteria for completion.",
+    "level": "Ignored"
+  },
+  "Adaptive Strategy": {
+    "category": "Adaptive Strategy",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the need for evolving testing strategies in response to the complexities of modern application lifecycles, highlighting the importance of collaboration and iterative processes, which aligns with adaptive strategies.",
+    "level": "Ignored"
+  },
+  "Agile Resource Management": {
+    "category": "Agile Resource Management",
+    "ai_confidence": 75,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses the integration of testing processes within agile teams, emphasising collaboration and efficiency, which aligns with optimising resources in agile environments.",
+    "level": "Secondary"
+  },
+  "Working Software": {
+    "category": "Working Software",
+    "ai_confidence": 92,
+    "non_ai_confidence": 20,
+    "final_score": 70.0,
+    "reasoning": "Content primarily focuses on the importance of testing in the software development lifecycle, emphasising the need for delivering high-quality, functional software that meets customer needs through effective testing practices.",
+    "level": "Secondary"
+  },
+  "Organisational Culture": {
+    "category": "Organisational Culture",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the need for collaboration among various roles in development teams and the shift from traditional testing methods to more integrated approaches, which reflects aspects of organisational culture. However, the primary focus is on testing methodologies and tools rather than a deep exploration of culture itself.",
+    "level": "Ignored"
+  },
+  "Windows": {
+    "category": "Windows",
+    "ai_confidence": 85,
+    "non_ai_confidence": 50,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses Microsoft Test Manager, which is a tool specifically designed for testing applications on the Windows operating system. It covers integration points, features, and solutions related to testing in a Windows environment, making Windows a central theme.",
+    "level": "Secondary"
+  },
+  "Scaling Agility": {
+    "category": "Scaling Agility",
+    "ai_confidence": 75,
+    "non_ai_confidence": 10,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the need for integrating testing within agile teams and highlights the importance of collaboration across departments to achieve agility, making it a major theme.",
+    "level": "Secondary"
+  },
+  "Mentoring": {
+    "category": "Mentoring",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on testing methodologies and tools within the modern application lifecycle, with no clear emphasis on guidance or coaching for agile professionals or leadership.",
+    "level": "Ignored"
+  },
+  "Agile Transformation": {
+    "category": "Agile Transformation",
+    "ai_confidence": 75,
+    "non_ai_confidence": 10,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the need for cultural and process changes in testing to achieve agility, highlighting collaboration across teams and iterative quality building, which are central to agile transformation.",
+    "level": "Secondary"
+  },
+  "Empirical Process Control": {
+    "category": "Empirical Process Control",
+    "ai_confidence": 85,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses the need for iterative testing, data collection, and collaboration among teams to adapt and improve the software development process based on evidence and feedback, aligning closely with the principles of empirical process control.",
+    "level": "Secondary"
+  },
+  "Release Planning": {
+    "category": "Release Planning",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the need for iterative testing and integration within development teams to achieve agility, which is a significant aspect of release planning, but it primarily focuses on testing tools and methodologies.",
+    "level": "Ignored"
+  },
+  "Agile Strategy": {
+    "category": "Agile Strategy",
+    "ai_confidence": 75,
+    "non_ai_confidence": 10,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the integration of testing processes within agile teams and the need for collaboration across departments to achieve agility, making agile principles a significant theme.",
+    "level": "Secondary"
+  },
+  "Kanban Flow": {
+    "category": "Kanban Flow",
+    "ai_confidence": 30,
+    "non_ai_confidence": 0,
+    "final_score": 21.0,
+    "reasoning": "The content primarily focuses on manual testing in the application lifecycle and the integration of testing tools, with only a brief mention of agile practices and the need for collaboration, which are not central to Kanban flow principles.",
+    "level": "Ignored"
+  },
+  "Agile Leader": {
+    "category": "Agile Leader",
+    "ai_confidence": 75,
+    "non_ai_confidence": 10,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the need for collaboration among teams and the shift towards agile methodologies, highlighting the importance of integrating testing within development processes, which aligns with servant leadership and agility.",
+    "level": "Secondary"
+  },
+  "Product Backlog": {
+    "category": "Product Backlog",
+    "ai_confidence": 30,
+    "non_ai_confidence": 10,
+    "final_score": 24.0,
+    "reasoning": "The content primarily focuses on testing methodologies and tools rather than strategies for backlog management and refinement.",
+    "level": "Ignored"
+  },
+  "Agile Coaching": {
+    "category": "Agile Coaching",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the need for teams to adapt their processes to achieve agility, highlighting the importance of collaboration and iterative quality in testing, which aligns with Agile principles.",
+    "level": "Ignored"
+  },
+  "Product Strategy": {
+    "category": "Product Strategy",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of integrating testing processes within development teams to improve product quality and meet customer expectations, which aligns with product strategy themes, but it primarily focuses on testing methodologies and tools.",
+    "level": "Ignored"
+  },
+  "Agile Books": {
+    "category": "Agile Books",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses Agile principles in the context of testing and software development, making it a major but secondary theme.",
+    "level": "Ignored"
+  },
+  

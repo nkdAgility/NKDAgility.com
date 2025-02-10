@@ -1,0 +1,50 @@
+{
+  "Product Delivery": {
+    "category": "Product Delivery",
+    "ai_confidence": 92,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "Content primarily focuses on the importance and management of the Product Backlog in product development, discussing its role in delivering value and adapting to future needs.",
+    "level": "Secondary"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the importance of maintaining a lean Product Backlog and reflects on processes that can enhance product development, which aligns with DevOps principles, but it primarily focuses on product management rather than the broader DevOps practices.",
+    "level": "Ignored"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "ai_confidence": 30,
+    "non_ai_confidence": 0,
+    "final_score": 21.0,
+    "reasoning": "The content primarily discusses the concept of a Product Backlog in product development, which is relevant to Agile methodologies but does not focus on Azure DevOps or its specific tools and features.",
+    "level": "Ignored"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the importance of maintaining a lean Product Backlog and reflects on continuous improvement and transparency, which are key principles of Kanban, but it primarily focuses on backlog management rather than Kanban as a strategy.",
+    "level": "Ignored"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the importance of maintaining a lean Product Backlog and reflects on the need for regular reflection and adaptation, which aligns with agile practices. However, it primarily focuses on product management rather than engineering practices like TDD, CI/CD, or modular architecture.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "Content primarily focuses on the Product Backlog, a key element of the Scrum framework, discussing its importance, management, and the iterative nature of product development.",
+    "level": "Secondary"
+  }
+}

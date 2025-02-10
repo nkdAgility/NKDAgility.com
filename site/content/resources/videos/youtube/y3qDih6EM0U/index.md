@@ -31,24 +31,7 @@ sitemap:
   priority: 0.4
 categories:
 - Events and Presentations
-- Market Adaptability
-- Organisational Agility
-tags:
-- Remote Working
-- Team Collaboration
-- Agile Project Management
-- Agile Community
-- Agile Digital Tools
-- Agile Methodology
-- Agile Values and Principles
-- Continuous Improvement
-- Customer Feedback Loops
-- Evidence Based Management
-- Agile Transformation
-- Digital Transformation
-- Team Motivation
-- Employee Engagement
-- Psychological Safety
+tags: []
 
 ---
  [Watch on Youtube](https://www.youtube.com/watch?v=y3qDih6EM0U)

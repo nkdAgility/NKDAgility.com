@@ -23,24 +23,9 @@ aliasesFor404:
 - /blog/a-better-way-than-staggered-iterations-for-delivery
 - /resources/blog/a-better-way-than-staggered-iterations-for-delivery
 tags:
-- Cross Functional Teams
-- Agile Planning
-- Technical Debt
-- Working Software
-- Continuous Delivery
-- Test First Development
-- Agile Software Development
-- Team Collaboration
-- Agile Product Management
-- Scrum Team
-- Definition of Done
-- Value Delivery
-- Agile Transformation
-- Evidence Based Management
+- Agile Pilot
 categories:
-- People and Process
-- Value Delivery
-- Organisational Agility
+- DevOps
 - Scrum
 - Technical Excellence
 preview: staggered-iterations-for-delivery1-2-2.png

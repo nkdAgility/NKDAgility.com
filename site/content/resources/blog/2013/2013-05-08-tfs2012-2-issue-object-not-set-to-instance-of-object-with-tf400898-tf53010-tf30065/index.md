@@ -32,10 +32,25 @@ aliasesFor404:
 - /tfs2012-2
 - /resources/blog/tfs2012-2-issue-object-not-set-to-instance-of-object-with-tf400898-tf53010-tf30065
 tags:
-- Technical Debt
-- Agile Software Development
+- Agile Tools
+- Application Lifecycle Management
+- Azure DevOps
+- DevOps
+- Frequent Releases
+- Modern Source Control
+- Operational Practices
+- Software Developers
+- Software Development
+- Software Increment
+- System Configuration
+- Technical Excellence
+- Technical Mastery
+- Troubleshooting
+- Working Software
 categories:
 - Azure DevOps
+- Install and Configuration
+- Technical Excellence
 preview: puzzle-issue-problem-128-link-4-4.png
 
 ---

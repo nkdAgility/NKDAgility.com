@@ -27,25 +27,11 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Kanban Theory
-- Agile Strategy
-- Agile Predictability
-- Transparency
-- Value Stream Management
-- Systems Thinking
-- Team Collaboration
-- Continuous Improvement
-- Agile Product Management
-- Scrum Team
-- Scrum Product Management
-- Agile Software Development
+tags: []
 resourceTypes:
 - video
 categories:
 - Kanban
-- Metrics and Learning
-- Value Stream Management
 - Transparency and Accountability
 - People and Process
 

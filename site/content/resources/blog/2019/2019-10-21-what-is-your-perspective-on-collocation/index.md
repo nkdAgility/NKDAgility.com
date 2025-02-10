@@ -25,27 +25,9 @@ aliasesFor404:
 - /what-is-your-perspective-on-collocation-
 - /blog/what-is-your-perspective-on-collocation-
 - /resources/blog/what-is-your-perspective-on-collocation
-tags:
-- Collaboration Tools
-- Team Collaboration
-- Scrum Team
-- Scrum Master
-- Remote Working
-- Team Motivation
-- Psychological Safety
-- Continuous Improvement
-- Evidence Based Management
-- Agile Values and Principles
-- Organisational Culture
-- Agile Software Development
-- Agile Project Management
-- Technical Excellence
+tags: []
 categories:
-- People and Process
 - Scrum
-- Organisational Psychology
-- Events and Presentations
-- Discovery and Learning
 preview: 1026661500-1-1.jpg
 
 ---

@@ -26,9 +26,10 @@ aliasesFor404:
 - /blog/investigation---seo-permanent-redirects-for-old-url’s-
 - /resources/blog/investigation-seo-permanent-redirects-for-old-urls
 tags:
-- Technical Debt
+- Technical Excellence
+- Continuous Delivery
 categories:
-- Install and Configuration
+- Technical Excellence
 preview: metro-sharepoint-128-link-4-4.png
 
 ---

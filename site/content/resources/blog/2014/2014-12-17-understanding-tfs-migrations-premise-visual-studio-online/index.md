@@ -27,25 +27,24 @@ aliasesFor404:
 - /resources/blog/understanding-tfs-migrations-premise-visual-studio-online
 tags:
 - Application Lifecycle Management
-- Agile Tools
-- Agile Software Development
-- Continuous Delivery
-- Technical Excellence
-- Value Delivery
-- Change Management
-- Agile Planning
-- Team Collaboration
-- Evidence Based Management
-- Agile Product Management
-- Deployment Strategies
-- Agile Transformation
-- Customer Feedback Loops
-categories:
-- Application Lifecycle Management
 - Azure DevOps
+- Change Management
+- Deployment Strategies
+- DevOps
+- Featured
+- Modern Source Control
+- Software Developers
+- Software Development
+- System Configuration
+- Technical Debt
+- Technical Excellence
+- Technical Mastery
+- Technical Strategy
+- Working Software
+categories:
 - Install and Configuration
 - Practical Techniques and Tooling
-- News and Reviews
+- Technical Excellence
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 
 ---

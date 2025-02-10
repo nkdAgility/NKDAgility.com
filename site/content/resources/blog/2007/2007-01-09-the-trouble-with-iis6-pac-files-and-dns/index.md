@@ -30,11 +30,17 @@ aliasesFor404:
 - /blog/the-trouble-with-iis6---pac-files-and-dns
 - /resources/blog/the-trouble-with-iis6-pac-files-and-dns
 tags:
-- Technical Debt
-- Site Reliability Engineering
+- Troubleshooting
+- System Configuration
+- Windows
+- Pragmatic Thinking
+- Software Development
+- Technical Excellence
+- Technical Mastery
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Install and Configuration
+- Practical Techniques and Tooling
 - Technical Excellence
 
 ---

@@ -29,28 +29,8 @@ aliasesFor404:
 - /professional-scrum-courses-for-2016-in-oslo--norway
 - /blog/professional-scrum-courses-for-2016-in-oslo--norway
 - /resources/blog/professional-scrum-courses-2016-oslo-norway
-tags:
-- Professional Scrum
-- Scrum Master
-- Scrum Team
-- Technical Mastery
-- Continuous Delivery
-- Agile Software Development
-- Agile Product Management
-- Agile Certification
-- Agile Planning
-- Agile Tools
-- Value Delivery
-- Customer Feedback Loops
-- Agile Product Discovery
-- Team Collaboration
-- Agile Values and Principles
-categories:
-- People and Process
-- Scrum
-- Agile Product Management
-- Technical Excellence
-- DevOps
+tags: []
+categories: []
 preview: clip_image001-1-1.jpg
 
 ---

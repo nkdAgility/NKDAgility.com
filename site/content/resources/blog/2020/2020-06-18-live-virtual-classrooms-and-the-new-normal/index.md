@@ -25,28 +25,9 @@ aliasesFor404:
 - /live-virtual-classroom's-and-the-new-normal
 - /blog/live-virtual-classroom's-and-the-new-normal
 - /resources/blog/live-virtual-classrooms-and-the-new-normal
-tags:
-- Remote Working
-- Team Collaboration
-- Agile Transformation
-- Scrum Team
-- Professional Scrum
-- Agile Software Development
-- Continuous Improvement
-- Customer Feedback Loops
-- Agile Product Management
-- Value Delivery
-- Agile Values and Principles
-- Change Management
-- Organisational Agility
-- Digital Transformation
-- Evidence Based Improvement
+tags: []
 categories:
-- Organisational Agility
-- People and Process
-- Discovery and Learning
-- Product Delivery
-- Events and Presentations
+- Scrum
 preview: image-1-1-1.png
 
 ---

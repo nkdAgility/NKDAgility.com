@@ -21,11 +21,11 @@ aliasesFor404:
 - /virtual-labs-in-the-modern-application-lifecycle
 - /blog/virtual-labs-in-the-modern-application-lifecycle
 - /resources/blog/virtual-labs-in-the-modern-application-lifecycle
-tags:
-- Application Lifecycle Management
-- DevOps
+tags: []
 categories:
 - Application Lifecycle Management
+- Practical Techniques and Tooling
+- Product Delivery
 preview: metro-lab-5-5.png
 
 ---

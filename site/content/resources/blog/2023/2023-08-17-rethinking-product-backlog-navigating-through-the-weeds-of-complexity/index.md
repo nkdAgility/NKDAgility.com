@@ -27,22 +27,10 @@ aliasesFor404:
 - /blog/rethinking-product-backlog--navigating-through-the-weeds-of-complexity
 - /resources/blog/rethinking-product-backlog-navigating-through-the-weeds-of-complexity
 tags:
-- Product Backlog
-- Agile Planning
-- Complexity Thinking
-- Agile Product Management
-- Agile Coaching
-- Team Collaboration
-- Value Delivery
-- Continuous Improvement
-- Systems Thinking
-- Agile Transformation
+- Pragmatic Thinking
 categories:
-- Agile Product Management
-- Complexity Thinking
-- Systems Thinking
-- People and Process
-- Metrics and Learning
+- Scrum
+- Technical Excellence
 preview: image-1.jpg
 
 ---

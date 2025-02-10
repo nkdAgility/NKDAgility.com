@@ -27,23 +27,22 @@ aliasesFor404:
 - /resources/blog/move-azure-vm-virtual-network
 tags:
 - Azure DevOps
-- Azure Pipelines
-- Agile Software Development
-- Continuous Delivery
-- Technical Excellence
-- Application Lifecycle Management
-- Agile Project Management
 - Deployment Strategies
-- Value Delivery
-- Evidence Based Management
-- Organisational Change
-- Digital Transformation
-- Lean Principles
-- Customer Feedback Loops
-- Agile Methodology
+- DevOps
+- Engineering Practices
+- Featured
+- Operational Practices
+- Software Developers
+- Software Development
+- System Configuration
+- Technical Excellence
+- Technical Mastery
+- Troubleshooting
+- Working Software
 categories:
 - Install and Configuration
-- Azure DevOps
+- Practical Techniques and Tooling
+- Technical Excellence
 preview: nakedalm-windows-logo-8-8.png
 
 ---

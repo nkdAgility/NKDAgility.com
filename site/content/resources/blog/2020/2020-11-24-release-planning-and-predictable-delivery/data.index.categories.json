@@ -1,0 +1,42 @@
+{
+  "DevOps": {
+    "category": "DevOps",
+    "ai_confidence": 92,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "Content primarily discusses the integration of agile methodologies with release management, emphasising the importance of predictable delivery and continuous quality, which are central themes in DevOps practices.",
+    "level": "Secondary"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 41.0,
+    "reasoning": "The content discusses agile methodologies and software development practices, with a mention of DevOps principles and the importance of using a modern source control system, which aligns with Azure DevOps tools. However, the primary focus is on agile practices rather than Azure DevOps specifically.",
+    "level": "Ignored"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses agile methodologies, particularly Scrum, and the challenges of release planning and predictable delivery, without a clear focus on Kanban principles or practices.",
+    "level": "Ignored"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "ai_confidence": 85,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses the challenges of release planning and predictable delivery in agile software development, emphasising the importance of quality, technical debt management, and practices like TDD, which are central to achieving technical excellence.",
+    "level": "Secondary"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "ai_confidence": 92,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "Content heavily discusses Scrum principles, roles, and practices, particularly in relation to release planning and predictable delivery.",
+    "level": "Secondary"
+  }
+}

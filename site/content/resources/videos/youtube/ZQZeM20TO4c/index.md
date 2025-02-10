@@ -28,26 +28,24 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Traditional Management
-- Change Management
-- Business Agility
-- Organisational Agility
-- Team Motivation
-- Decision Making
-- Employee Engagement
+- Agility
+- Agile Leader
+- Agile Leadership
 - Organisational Change
-- Market Adaptability
-- Leadership Training
-- Agile Values and Principles
-- Self Organisation
+- Change Management
+- People and Process
+- Organisational Agility
+- Ability to Innovate
+- Agile Strategy
+- Resilience and Change
+- Business Agility
+- Enterprise Agility
+- Agile Community
+- Agile Methodology
+- Agile Coaching
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Market Adaptability
-- Resilience and Change
-- Organisational Psychology
+categories: []
 
 ---
 Product of Conventional Practices

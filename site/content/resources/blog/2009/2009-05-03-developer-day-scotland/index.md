@@ -22,10 +22,8 @@ aliasesFor404:
 - /blog/developer-day-scotland
 - /resources/blog/developer-day-scotland
 tags:
-- Agile Software Development
-- Technical Debt
+- Technical Excellence
 categories:
-- Events and Presentations
 - Technical Excellence
 preview: metro-event-128-link-1-1.png
 

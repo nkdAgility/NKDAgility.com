@@ -25,28 +25,9 @@ aliasesFor404:
 - /what's-the-best-way-to-work-around-multiple-po-
 - /blog/what's-the-best-way-to-work-around-multiple-po-
 - /resources/blog/whats-the-best-way-to-work-around-multiple-po
-tags:
-- Product Owner
-- Scrum Team
-- Scrum Product Management
-- Value Prioritisation
-- Agile Product Discovery
-- Agile Planning
-- Team Collaboration
-- Continuous Improvement
-- Evidence Based Management
-- Customer Feedback Loops
-- Agile Product Validation
-- Technical Excellence
-- Accountability
-- Agile Software Development
-- Lean Principles
+tags: []
 categories:
-- People and Process
-- Agile Product Management
-- Value Delivery
-- Events and Presentations
-- Organisational Agility
+- Scrum
 preview: 495173592-1-1.jpg
 
 ---

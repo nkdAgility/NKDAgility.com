@@ -30,11 +30,9 @@ aliasesFor404:
 - /blog/i-do-continuous-deliver--why-should-i-sprint-
 - /resources/blog/continuous-deliver-sprint
 tags:
-- Deployment Frequency
-- Agile Software Development
-- Scrum Product Management
-categories:
-- Product Delivery
+- Agile Predictability
+- Scrum Product Development
+categories: []
 preview: Continous_Delivery_by_Jez_Humble_and_David_Farley-1-1.jpg
 
 ---

@@ -22,10 +22,25 @@ aliasesFor404:
 - /blog/guide-to-changeserverid-says-mostly-harmless
 - /resources/blog/guide-to-changeserverid-says-mostly-harmless
 tags:
-- Change Management
-- Technical Debt
-categories:
+- Application Lifecycle Management
 - Azure DevOps
+- DevOps
+- Engineering Practices
+- Modern Source Control
+- Operational Practices
+- Pragmatic Thinking
+- Software Developers
+- Software Development
+- System Configuration
+- Technical Excellence
+- Technical Mastery
+- Technical Strategy
+- Troubleshooting
+- Working Software
+categories:
+- Code and Complexity
+- Practical Techniques and Tooling
+- Technical Excellence
 
 ---
 If you are cloning your TFS collection then you have to run ChangeServerId. It is reasonably well documented for this senario but what other reasons might you have to run it.

@@ -26,11 +26,12 @@ aliasesFor404:
 - /blog/windows-vista--windows-mobile-device-center
 - /resources/blog/windows-vista-windows-mobile-device-center
 tags:
-- Technical Debt
-- Agile Software Development
+- Windows
+- System Configuration
+- Troubleshooting
 categories:
 - Install and Configuration
-- Products and Books
+- Practical Techniques and Tooling
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

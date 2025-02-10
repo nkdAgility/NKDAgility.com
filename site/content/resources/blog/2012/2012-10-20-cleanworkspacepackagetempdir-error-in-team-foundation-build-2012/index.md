@@ -28,10 +28,25 @@ aliasesFor404:
 - /team-foundation-build-2012-issue
 - /resources/blog/cleanworkspacepackagetempdir-error-in-team-foundation-build-2012
 tags:
-- Continuous Integration
-- Technical Debt
-categories:
+- Application Lifecycle Management
 - Azure DevOps
+- Azure Pipelines
+- CI/CD
+- Continuos Integration
+- Continuous Integration
+- Engineering Excellence
+- Pragmatic Thinking
+- Software Developers
+- Software Development
+- System Configuration
+- Technical Excellence
+- Technical Mastery
+- Troubleshooting
+- Working Software
+categories:
+- Code and Complexity
+- Practical Techniques and Tooling
+- Technical Excellence
 preview: metro-problem-icon-6-6.png
 
 ---

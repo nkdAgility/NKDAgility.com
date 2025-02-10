@@ -28,26 +28,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Team
-- Scrum Master
+- Agility
+- Scrum
+- Coaching
+- People and Process
+- Agile Software Development
 - Agile Coaching
-- Continuous Improvement
 - Empirical Process Control
-- Agile Product Management
-- Agile Values and Principles
-- Evidence Based Improvement
-- Team Collaboration
-- Change Management
-- Agile Transformation
-- Technical Excellence
+- Agile Frameworks
+- Agile Community
+- Lean Agile
+- Agile Software Engineering
 - Value Delivery
+- Agile Project Management
+- Scrum Product Management
+- Scrum Product Development
 resourceTypes:
 - video
 categories:
 - Scrum
 - People and Process
-- Metrics and Learning
-- Discovery and Learning
 - Value Delivery
 
 ---

@@ -26,11 +26,25 @@ aliasesFor404:
 - /blog/upgrading-to-team-foundation-server-2012-update-1-in-production-–-done
 - /resources/blog/upgrading-to-team-foundation-server-2012-update-1-in-production-done
 tags:
-- Deployment Frequency
 - Agile Tools
-categories:
-- Install and Configuration
+- Application Lifecycle Management
 - Azure DevOps
+- Deployment Strategies
+- DevOps
+- Featured
+- Modern Source Control
+- Operational Practices
+- Software Developers
+- Software Development
+- Software Increment
+- System Configuration
+- Technical Excellence
+- Technical Mastery
+- Working Software
+categories:
+- Application Lifecycle Management
+- Install and Configuration
+- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-15-15.png
 
 ---

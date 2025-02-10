@@ -25,23 +25,8 @@ aliasesFor404:
 - /unable-to-load-task-handler-powershell-for-task-vsbuild
 - /blog/unable-to-load-task-handler-powershell-for-task-vsbuild
 - /resources/blog/unable-load-task-handler-powershell-task-vsbuild
-tags:
-- Agile Software Development
-- DevOps
-- Continuous Integration
-- Technical Debt
-- Agile Tools
-- Azure DevOps
-- Evidence Based Management
-- Agile Problem Solving
-- Agile Software Engineering
-- Technical Excellence
-- Value Delivery
-- Continuous Improvement
-- Agile Digital Tools
-- Team Collaboration
-categories:
-- Technical Excellence
+tags: []
+categories: []
 preview: puzzle-issue-problem-128-link-7-7.png
 
 ---

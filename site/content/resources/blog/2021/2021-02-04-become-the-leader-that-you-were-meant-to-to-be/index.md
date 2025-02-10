@@ -22,24 +22,9 @@ aliasesFor404:
 - /become-the-leader-that-you-were-meant-to-to-be
 - /blog/become-the-leader-that-you-were-meant-to-to-be
 - /resources/blog/become-the-leader-that-you-were-meant-to-to-be
-tags:
-- Leadership Training
-- Agile Leadership
-- Scrum Master
-- Scrum Team
-- Team Motivation
-- Organisational Change
-- Employee Engagement
-- Continuous Improvement
-- Agile Transformation
-- Agile Values and Principles
-- Psychological Safety
-- Self Organisation
-- Change Management
-- Agile Methodology
-- Team Collaboration
+tags: []
 categories:
-- Resilience and Change
+- Scrum
 preview: image-2-2.png
 
 ---

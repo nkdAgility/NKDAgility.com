@@ -1,0 +1,3093 @@
+1
+00:00:01,690 --> 00:00:09,000
+[Music]
+
+2
+00:00:05,930 --> 00:00:13,250
+my name is Martin Henshaw wit and I
+
+3
+00:00:09,000 --> 00:00:16,920
+created the azure DevOps migration tools
+
+4
+00:00:13,250 --> 00:00:19,770
+you can find them on the visual studio
+
+5
+00:00:16,920 --> 00:00:24,359
+marketplace if you search under Azure
+
+6
+00:00:19,770 --> 00:00:28,050
+DevOps you will find the tools we're
+
+7
+00:00:24,359 --> 00:00:31,050
+actually up to about 50,000 migrations
+
+8
+00:00:28,050 --> 00:00:34,980
+just over 50,000 migrations migration
+
+9
+00:00:31,050 --> 00:00:39,329
+sessions per month this in the last 30
+
+10
+00:00:34,980 --> 00:00:44,190
+days we've migrated 340 thousand work
+
+11
+00:00:39,329 --> 00:00:48,270
+items with 2.6 million revisions using
+
+12
+00:00:44,190 --> 00:00:52,530
+the tool so that's that's pretty pretty
+
+13
+00:00:48,270 --> 00:00:54,510
+huge I do want to stress the warning
+
+14
+00:00:52,530 --> 00:00:57,149
+that you can see here on the page the
+
+15
+00:00:54,510 --> 00:01:02,449
+tool is not designed for novices it is
+
+16
+00:00:57,149 --> 00:01:06,060
+developed by and far as your DevOps
+
+17
+00:01:02,449 --> 00:01:08,670
+consultants who have helped lots of
+
+18
+00:01:06,060 --> 00:01:11,490
+folks do migrations around the world and
+
+19
+00:01:08,670 --> 00:01:15,180
+you're welcome to have a have a go this
+
+20
+00:01:11,490 --> 00:01:18,240
+video is going to try and explain how to
+
+21
+00:01:15,180 --> 00:01:22,140
+get started with the tool we've updated
+
+22
+00:01:18,240 --> 00:01:27,000
+it a lot in the last year in fact two
+
+23
+00:01:22,140 --> 00:01:29,460
+years since the last video we've merged
+
+24
+00:01:27,000 --> 00:01:33,960
+a lot of the different tools together as
+
+25
+00:01:29,460 --> 00:01:37,259
+well as enabled syncing for for work
+
+26
+00:01:33,960 --> 00:01:38,939
+item migrations so if you do a migration
+
+27
+00:01:37,259 --> 00:01:41,070
+and then somebody happens to have
+
+28
+00:01:38,939 --> 00:01:43,350
+changed a bunch of work items in the old
+
+29
+00:01:41,070 --> 00:01:46,290
+system between you starting the
+
+30
+00:01:43,350 --> 00:01:49,710
+migration and finishing you can have it
+
+31
+00:01:46,290 --> 00:01:52,649
+go and pull those additional changes
+
+32
+00:01:49,710 --> 00:01:54,299
+across as well so it's kind of pseudo
+
+33
+00:01:52,649 --> 00:01:56,310
+syncing it's not syncing between two
+
+34
+00:01:54,299 --> 00:01:59,040
+systems but syncing from one system to
+
+35
+00:01:56,310 --> 00:02:00,780
+the other system I get a lot of
+
+36
+00:01:59,040 --> 00:02:03,960
+questions around what versions of azure
+
+37
+00:02:00,780 --> 00:02:06,930
+DevOps does it support and everything
+
+38
+00:02:03,960 --> 00:02:12,150
+that the object model API does so that's
+
+39
+00:02:06,930 --> 00:02:13,880
+TFS 2013 plus it does mostly work
+
+40
+00:02:12,150 --> 00:02:16,760
+against older versions of TF
+
+41
+00:02:13,880 --> 00:02:19,070
+but the official support is TFS 2013 and
+
+42
+00:02:16,760 --> 00:02:21,200
+onwards all the way up as your DevOps
+
+43
+00:02:19,070 --> 00:02:23,780
+and yes you can go from Azure DevOps to
+
+44
+00:02:21,200 --> 00:02:25,030
+as your DevOps as your DevOps to TFS TFS
+
+45
+00:02:23,780 --> 00:02:32,210
+to your DevOps
+
+46
+00:02:25,030 --> 00:02:34,730
+pretty much whatever you want and so let
+
+47
+00:02:32,210 --> 00:02:38,990
+me pop over there's a documentation
+
+48
+00:02:34,730 --> 00:02:41,840
+available on github and it has a lot
+
+49
+00:02:38,990 --> 00:02:43,850
+more detail on how the Tool Works so if
+
+50
+00:02:41,840 --> 00:02:47,360
+you click through to the documentation
+
+51
+00:02:43,850 --> 00:02:49,040
+and you will go to this page and I know
+
+52
+00:02:47,360 --> 00:02:53,240
+and here you'll see detailed
+
+53
+00:02:49,040 --> 00:02:54,770
+documentation about what the processors
+
+54
+00:02:53,240 --> 00:02:56,990
+that are available are and the
+
+55
+00:02:54,770 --> 00:03:00,790
+processors are the thing that does the
+
+56
+00:02:56,990 --> 00:03:03,320
+work so the node structures migration
+
+57
+00:03:00,790 --> 00:03:05,120
+processor will move your areas and
+
+58
+00:03:03,320 --> 00:03:08,720
+iterations across the work item
+
+59
+00:03:05,120 --> 00:03:13,990
+migration context will migrate your work
+
+60
+00:03:08,720 --> 00:03:16,370
+items links revisions attachments and
+
+61
+00:03:13,990 --> 00:03:19,030
+hopefully if we can get it organized
+
+62
+00:03:16,370 --> 00:03:22,370
+it's not working right now the HTML
+
+63
+00:03:19,030 --> 00:03:24,770
+field embedded images as well and it
+
+64
+00:03:22,370 --> 00:03:26,570
+will also fix the git commits as a
+
+65
+00:03:24,770 --> 00:03:29,600
+number of other and tools that are
+
+66
+00:03:26,570 --> 00:03:33,080
+available at work item delete this is
+
+67
+00:03:29,600 --> 00:03:34,460
+deliberately crippled so that you don't
+
+68
+00:03:33,080 --> 00:03:35,930
+accidentally delete a whole bunch of
+
+69
+00:03:34,460 --> 00:03:37,520
+stuff you will meet the code to be able
+
+70
+00:03:35,930 --> 00:03:41,030
+to run this one but you can delete any
+
+71
+00:03:37,520 --> 00:03:43,310
+number of work items and an update ur so
+
+72
+00:03:41,030 --> 00:03:45,890
+instead of migration from one system to
+
+73
+00:03:43,310 --> 00:03:48,710
+another if you just want to run a bunch
+
+74
+00:03:45,890 --> 00:03:51,380
+of changes against an existing project
+
+75
+00:03:48,710 --> 00:03:55,010
+then you can do that so for example you
+
+76
+00:03:51,380 --> 00:03:56,660
+might have an added a new field and you
+
+77
+00:03:55,010 --> 00:03:59,300
+want to migrate data from one field to
+
+78
+00:03:56,660 --> 00:04:02,020
+another field or you might want to split
+
+79
+00:03:59,300 --> 00:04:04,430
+data from one field into two fields
+
+80
+00:04:02,020 --> 00:04:06,820
+that's so that work item update will
+
+81
+00:04:04,430 --> 00:04:11,000
+allow you to run against an existing
+
+82
+00:04:06,820 --> 00:04:14,480
+project work item query migrator well
+
+83
+00:04:11,000 --> 00:04:17,150
+obviously migrate your queries across so
+
+84
+00:04:14,480 --> 00:04:20,270
+it will take them just need to make sure
+
+85
+00:04:17,150 --> 00:04:24,350
+that it will skip any queries where the
+
+86
+00:04:20,270 --> 00:04:25,860
+fields don't match up so you need to be
+
+87
+00:04:24,350 --> 00:04:27,479
+aware of that
+
+88
+00:04:25,860 --> 00:04:29,819
+the fields in the new location need to
+
+89
+00:04:27,479 --> 00:04:33,240
+match and the fields in the old location
+
+90
+00:04:29,819 --> 00:04:37,259
+otherwise it with error right there is
+
+91
+00:04:33,240 --> 00:04:40,439
+also a a migrator for the teams I think
+
+92
+00:04:37,259 --> 00:04:43,530
+it's actually not on this list yet but
+
+93
+00:04:40,439 --> 00:04:45,569
+it will migrate the create teams and
+
+94
+00:04:43,530 --> 00:04:49,710
+migrate all of the settings for those
+
+95
+00:04:45,569 --> 00:04:52,439
+teams across or as much as possible at
+
+96
+00:04:49,710 --> 00:04:56,400
+the moment there are a bunch of tools
+
+97
+00:04:52,439 --> 00:04:59,759
+around migrating at test cases and so
+
+98
+00:04:56,400 --> 00:05:01,650
+sweets and plans you have to migrate the
+
+99
+00:04:59,759 --> 00:05:04,500
+variables first then the configurations
+
+100
+00:05:01,650 --> 00:05:06,419
+and then you run our plans and sweets at
+
+101
+00:05:04,500 --> 00:05:09,539
+migration which will pull that across so
+
+102
+00:05:06,419 --> 00:05:12,000
+you do not migrate test cases using this
+
+103
+00:05:09,539 --> 00:05:14,250
+tool you have to use the work item
+
+104
+00:05:12,000 --> 00:05:18,060
+migration context to migrate the test
+
+105
+00:05:14,250 --> 00:05:21,120
+cases but do not migrate the test plans
+
+106
+00:05:18,060 --> 00:05:22,650
+and test Suites work items across at the
+
+107
+00:05:21,120 --> 00:05:27,779
+same time otherwise you'll end up with a
+
+108
+00:05:22,650 --> 00:05:31,710
+bunch of duplicate items that's about it
+
+109
+00:05:27,779 --> 00:05:34,199
+for the general processors we have a
+
+110
+00:05:31,710 --> 00:05:35,819
+number of field Maps I did mention that
+
+111
+00:05:34,199 --> 00:05:37,500
+if you're either working against a
+
+112
+00:05:35,819 --> 00:05:39,360
+single team project your migration for
+
+113
+00:05:37,500 --> 00:05:42,629
+one to another you may want to use some
+
+114
+00:05:39,360 --> 00:05:45,270
+field maps and this is good if your
+
+115
+00:05:42,629 --> 00:05:48,089
+source and target projects have
+
+116
+00:05:45,270 --> 00:05:52,259
+different processes you may want to use
+
+117
+00:05:48,089 --> 00:05:54,240
+this or if you're updating changing the
+
+118
+00:05:52,259 --> 00:05:55,740
+process and an existing project and you
+
+119
+00:05:54,240 --> 00:05:58,080
+want to map data from one field to
+
+120
+00:05:55,740 --> 00:06:03,000
+another and so there's just a field to
+
+121
+00:05:58,080 --> 00:06:06,029
+field map and field to field multi map
+
+122
+00:06:03,000 --> 00:06:07,560
+so it's a list if you've got a field or
+
+123
+00:06:06,029 --> 00:06:11,250
+a list in it it'll map data from one to
+
+124
+00:06:07,560 --> 00:06:13,759
+another field marriage and put two
+
+125
+00:06:11,250 --> 00:06:15,990
+fields together in a particular format
+
+126
+00:06:13,759 --> 00:06:18,180
+blanket so you don't want to migrate a
+
+127
+00:06:15,990 --> 00:06:20,460
+particular field that field to tag
+
+128
+00:06:18,180 --> 00:06:22,349
+that's you can convert any number of
+
+129
+00:06:20,460 --> 00:06:25,020
+fields from your source system to tags
+
+130
+00:06:22,349 --> 00:06:27,270
+in your target system that's good for a
+
+131
+00:06:25,020 --> 00:06:29,189
+bunch of fields that are not available
+
+132
+00:06:27,270 --> 00:06:31,919
+in a target system you don't want to add
+
+133
+00:06:29,189 --> 00:06:34,900
+them to the target system and for
+
+134
+00:06:31,919 --> 00:06:37,300
+example if you're simplifying a process
+
+135
+00:06:34,900 --> 00:06:39,220
+you can run the field tag to save some
+
+136
+00:06:37,300 --> 00:06:43,479
+of that data while not adding to the
+
+137
+00:06:39,220 --> 00:06:48,160
+Lord of a number of fields field value
+
+138
+00:06:43,479 --> 00:06:50,050
+map so that's just a value mapper and
+
+139
+00:06:48,160 --> 00:06:51,759
+then we've filled value to tag so if
+
+140
+00:06:50,050 --> 00:06:55,960
+there's a set of values you can have
+
+141
+00:06:51,759 --> 00:06:58,449
+them two tags a reg X field mapper so
+
+142
+00:06:55,960 --> 00:07:01,919
+that's pretty useful for example I got
+
+143
+00:06:58,449 --> 00:07:06,490
+this for a customer who had their
+
+144
+00:07:01,919 --> 00:07:09,100
+version format in 2016 - in a text field
+
+145
+00:07:06,490 --> 00:07:11,620
+and they wanted to set it in a drop-down
+
+146
+00:07:09,100 --> 00:07:14,229
+list one with 16 in the other one with
+
+147
+00:07:11,620 --> 00:07:16,690
+the two and so the reg X field map will
+
+148
+00:07:14,229 --> 00:07:19,150
+let you do that and then for many
+
+149
+00:07:16,690 --> 00:07:23,410
+organizations that have been in TFS for
+
+150
+00:07:19,150 --> 00:07:28,300
+a long time they have a problem where
+
+151
+00:07:23,410 --> 00:07:31,900
+all of their area paths their area tree
+
+152
+00:07:28,300 --> 00:07:35,740
+hierarchy is reflective of their product
+
+153
+00:07:31,900 --> 00:07:38,949
+or organizational hierarchy rather than
+
+154
+00:07:35,740 --> 00:07:42,250
+the team's hierarchy which is how the
+
+155
+00:07:38,949 --> 00:07:43,539
+new system prefers things to work you
+
+156
+00:07:42,250 --> 00:07:46,090
+don't have to do that would prefer
+
+157
+00:07:43,539 --> 00:07:49,060
+things to work so if you want to map all
+
+158
+00:07:46,090 --> 00:07:52,930
+of that tree into tags so we'll take
+
+159
+00:07:49,060 --> 00:07:56,409
+each node and build a tag and attach it
+
+160
+00:07:52,930 --> 00:08:02,050
+to the work items and you can do that
+
+161
+00:07:56,409 --> 00:08:03,940
+so it'll map area paths to tags so if
+
+162
+00:08:02,050 --> 00:08:06,550
+you had an idea path that was seven deep
+
+163
+00:08:03,940 --> 00:08:07,840
+you would end up with seven tags one for
+
+164
+00:08:06,550 --> 00:08:10,889
+each of the things just allows your way
+
+165
+00:08:07,840 --> 00:08:14,650
+to categorize that and save that work I
+
+166
+00:08:10,889 --> 00:08:17,320
+note that we don't migrate any code
+
+167
+00:08:14,650 --> 00:08:20,289
+using this tool there are no good
+
+168
+00:08:17,320 --> 00:08:23,409
+options for TFB C team foundation
+
+169
+00:08:20,289 --> 00:08:26,050
+version control the original TFS version
+
+170
+00:08:23,409 --> 00:08:28,320
+control system and there is the TFS
+
+171
+00:08:26,050 --> 00:08:31,210
+integration tools which is not supported
+
+172
+00:08:28,320 --> 00:08:33,849
+there's a number of other tools out
+
+173
+00:08:31,210 --> 00:08:37,419
+there as well and I would recommend
+
+174
+00:08:33,849 --> 00:08:41,339
+doing the using git TFS a tool to
+
+175
+00:08:37,419 --> 00:08:43,659
+migrate your TF BC code into M git repos
+
+176
+00:08:41,339 --> 00:08:46,600
+that's what I would recommend get out of
+
+177
+00:08:43,659 --> 00:08:48,790
+TF BC moving to get get is really easy
+
+178
+00:08:46,600 --> 00:08:50,860
+to migrate you just clone the repo from
+
+179
+00:08:48,790 --> 00:08:53,950
+the source location and push it to the
+
+180
+00:08:50,860 --> 00:08:57,130
+target location that it just works out
+
+181
+00:08:53,950 --> 00:09:00,760
+of the box and we do I did mention
+
+182
+00:08:57,130 --> 00:09:03,640
+earlier that those are while we are
+
+183
+00:09:00,760 --> 00:09:06,820
+processing work items if the git repo
+
+184
+00:09:03,640 --> 00:09:11,080
+has been moved across first then the
+
+185
+00:09:06,820 --> 00:09:14,800
+tool will it fix up the the git commit
+
+186
+00:09:11,080 --> 00:09:18,430
+links on the fly so in as your DevOps
+
+187
+00:09:14,800 --> 00:09:21,340
+and TFS you can link from I get commit
+
+188
+00:09:18,430 --> 00:09:24,520
+to a work item by tagging it
+
+189
+00:09:21,340 --> 00:09:29,500
+so hash 1:21 will link work quite work
+
+190
+00:09:24,520 --> 00:09:31,930
+item 1:21 and and you can link to pull
+
+191
+00:09:29,500 --> 00:09:34,030
+requests so your pull request links will
+
+192
+00:09:31,930 --> 00:09:37,090
+disappear because we can't migrate pull
+
+193
+00:09:34,030 --> 00:09:39,940
+requests but your git commit links will
+
+194
+00:09:37,090 --> 00:09:42,520
+be fixed on the work item site so it
+
+195
+00:09:39,940 --> 00:09:46,930
+will not be fixed in the comment of the
+
+196
+00:09:42,520 --> 00:09:49,240
+commit because it's it's a totally
+
+197
+00:09:46,930 --> 00:09:51,850
+different exercise to go to go do that
+
+198
+00:09:49,240 --> 00:09:54,910
+but when the work item is created and
+
+199
+00:09:51,850 --> 00:09:59,710
+the links are added and it will go and
+
+200
+00:09:54,910 --> 00:10:01,600
+see if it can find the git repo in the
+
+201
+00:09:59,710 --> 00:10:04,030
+new location if it can find the get repo
+
+202
+00:10:01,600 --> 00:10:05,830
+in the new location it will fix your
+
+203
+00:10:04,030 --> 00:10:10,330
+link so that it points to the right
+
+204
+00:10:05,830 --> 00:10:13,270
+commit and I note that there is a way in
+
+205
+00:10:10,330 --> 00:10:15,340
+the tool to map and your get repos if
+
+206
+00:10:13,270 --> 00:10:16,960
+you've renamed them and if they're the
+
+207
+00:10:15,340 --> 00:10:18,640
+same name then that's super easy you
+
+208
+00:10:16,960 --> 00:10:21,790
+don't need to do any any mapping and it
+
+209
+00:10:18,640 --> 00:10:26,710
+will just find it and you can run this
+
+210
+00:10:21,790 --> 00:10:29,260
+and after using the fixed commit a fixed
+
+211
+00:10:26,710 --> 00:10:32,680
+git commit obsolete
+
+212
+00:10:29,260 --> 00:10:34,870
+processor so you can run it on its own
+
+213
+00:10:32,680 --> 00:10:37,480
+and but it's better to run it as part of
+
+214
+00:10:34,870 --> 00:10:40,690
+the whole thing builds and releases
+
+215
+00:10:37,480 --> 00:10:44,020
+don't get migrated automatically and you
+
+216
+00:10:40,690 --> 00:10:46,060
+will need to export and import each of
+
+217
+00:10:44,020 --> 00:10:48,820
+your builds each of your releases and
+
+218
+00:10:46,060 --> 00:10:52,360
+and then all of the secrets that are
+
+219
+00:10:48,820 --> 00:10:54,880
+part of that will need to be read and
+
+220
+00:10:52,360 --> 00:10:57,730
+that's just an exercise in going through
+
+221
+00:10:54,880 --> 00:11:00,460
+them all and doing that there's not a
+
+222
+00:10:57,730 --> 00:11:02,560
+good way to do that I if you are open to
+
+223
+00:11:00,460 --> 00:11:05,199
+working on that you could
+
+224
+00:11:02,560 --> 00:11:07,379
+very easily build a processor that could
+
+225
+00:11:05,199 --> 00:11:11,889
+do that we just haven't had the occasion
+
+226
+00:11:07,379 --> 00:11:14,100
+to do that yet I know aren't
+
+227
+00:11:11,889 --> 00:11:16,180
+contributing we are happy to take any
+
+228
+00:11:14,100 --> 00:11:17,829
+contributions that you have as long as
+
+229
+00:11:16,180 --> 00:11:19,439
+they're relevant for everybody rather
+
+230
+00:11:17,829 --> 00:11:24,819
+than just for your organization and
+
+231
+00:11:19,439 --> 00:11:26,350
+there is no official support for the
+
+232
+00:11:24,819 --> 00:11:28,480
+azure DevOps migration tools
+
+233
+00:11:26,350 --> 00:11:30,699
+apart from community support because
+
+234
+00:11:28,480 --> 00:11:34,420
+this is an open source project and I am
+
+235
+00:11:30,699 --> 00:11:37,170
+happy to help folks out if they're
+
+236
+00:11:34,420 --> 00:11:40,439
+having trouble and if you have
+
+237
+00:11:37,170 --> 00:11:42,610
+significant trouble and then that may be
+
+238
+00:11:40,439 --> 00:11:45,519
+something that's more related to a
+
+239
+00:11:42,610 --> 00:11:48,459
+consulting engagement rather than just
+
+240
+00:11:45,519 --> 00:11:50,970
+at me pointing out where where where the
+
+241
+00:11:48,459 --> 00:11:53,290
+configuration needs to be customized and
+
+242
+00:11:50,970 --> 00:11:55,569
+ultimately if it's gonna take me an hour
+
+243
+00:11:53,290 --> 00:11:57,910
+to solve the problem then I'm good maybe
+
+244
+00:11:55,569 --> 00:11:59,920
+help you right and if it's going to take
+
+245
+00:11:57,910 --> 00:12:02,170
+three days to solve the problem then we
+
+246
+00:11:59,920 --> 00:12:03,999
+might like to have a conversation and
+
+247
+00:12:02,170 --> 00:12:05,860
+there are other contributors to the
+
+248
+00:12:03,999 --> 00:12:08,709
+project who are also happy to help
+
+249
+00:12:05,860 --> 00:12:11,110
+there are many conf users we've had over
+
+250
+00:12:08,709 --> 00:12:13,839
+40 contributors go look up any
+
+251
+00:12:11,110 --> 00:12:15,839
+contributor you want have them help you
+
+252
+00:12:13,839 --> 00:12:19,720
+out we're going to add some more
+
+253
+00:12:15,839 --> 00:12:23,559
+recommendations here so that you've got
+
+254
+00:12:19,720 --> 00:12:25,959
+somewhere to start and I'm definitely
+
+255
+00:12:23,559 --> 00:12:30,939
+got two more folks that are going to end
+
+256
+00:12:25,959 --> 00:12:34,029
+up on that list very very quickly so let
+
+257
+00:12:30,939 --> 00:12:36,430
+me jump into how you use and interact
+
+258
+00:12:34,029 --> 00:12:39,819
+for the tool the first thing I recommend
+
+259
+00:12:36,430 --> 00:12:43,480
+and I do a lot of migrations between
+
+260
+00:12:39,819 --> 00:12:47,019
+Azure DevOps and Azure DevOps and that's
+
+261
+00:12:43,480 --> 00:12:50,110
+mainly for customers that have sold part
+
+262
+00:12:47,019 --> 00:12:52,870
+of their organization or and they want
+
+263
+00:12:50,110 --> 00:12:55,120
+to merge many team projects into one
+
+264
+00:12:52,870 --> 00:12:57,459
+project or they want to split a project
+
+265
+00:12:55,120 --> 00:13:01,029
+into more than one project that's that
+
+266
+00:12:57,459 --> 00:13:03,939
+works as well so the easiest way to do
+
+267
+00:13:01,029 --> 00:13:07,300
+that is to run the tool on a machine
+
+268
+00:13:03,939 --> 00:13:10,120
+that has access to both environments you
+
+269
+00:13:07,300 --> 00:13:13,089
+want to migrate to so I don't generally
+
+270
+00:13:10,120 --> 00:13:13,559
+recommend running it on your local
+
+271
+00:13:13,089 --> 00:13:15,910
+machine
+
+272
+00:13:13,559 --> 00:13:17,410
+mainly because
+
+273
+00:13:15,910 --> 00:13:18,400
+your local machine gets turned off at
+
+274
+00:13:17,410 --> 00:13:20,320
+the end of the day and you want to go
+
+275
+00:13:18,400 --> 00:13:21,490
+home and migrations might take a lot
+
+276
+00:13:20,320 --> 00:13:25,540
+longer than that
+
+277
+00:13:21,490 --> 00:13:28,450
+so I recommend and especially if all of
+
+278
+00:13:25,540 --> 00:13:32,670
+your target and source environments are
+
+279
+00:13:28,450 --> 00:13:35,590
+in Azure that you create in Azure and a
+
+280
+00:13:32,670 --> 00:13:37,750
+dev test lab and the reason I suggest
+
+281
+00:13:35,590 --> 00:13:40,480
+the dev test lab is because it can
+
+282
+00:13:37,750 --> 00:13:42,910
+automatically turn the machines off and
+
+283
+00:13:40,480 --> 00:13:55,480
+on as needed so I'm just gonna create a
+
+284
+00:13:42,910 --> 00:13:57,790
+new dev test lab so create that so I'm
+
+285
+00:13:55,480 --> 00:14:02,520
+going to leave auto shutdown enabled you
+
+286
+00:13:57,790 --> 00:14:05,050
+want to use the location and of your
+
+287
+00:14:02,520 --> 00:14:07,780
+both hopefully both your source on the
+
+288
+00:14:05,050 --> 00:14:12,550
+target are in the same location and if
+
+289
+00:14:07,780 --> 00:14:15,220
+not I recommend creating this in the
+
+290
+00:14:12,550 --> 00:14:17,170
+same data center as your target
+
+291
+00:14:15,220 --> 00:14:19,000
+environment because we're going to be
+
+292
+00:14:17,170 --> 00:14:21,310
+doing a lot more communicating with the
+
+293
+00:14:19,000 --> 00:14:22,750
+target environment than we are with the
+
+294
+00:14:21,310 --> 00:14:24,670
+source environment because we just load
+
+295
+00:14:22,750 --> 00:14:28,000
+all the work items and then run against
+
+296
+00:14:24,670 --> 00:14:32,190
+the target and so in order to see where
+
+297
+00:14:28,000 --> 00:14:36,730
+that is if you open up your organization
+
+298
+00:14:32,190 --> 00:14:39,550
+go to organization settings and you will
+
+299
+00:14:36,730 --> 00:14:43,120
+see on the overview page the region and
+
+300
+00:14:39,550 --> 00:14:45,010
+this one is in West Europe so I'm going
+
+301
+00:14:43,120 --> 00:14:47,230
+to create that in West Europe which is
+
+302
+00:14:45,010 --> 00:14:54,600
+my default because that's where I am
+
+303
+00:14:47,230 --> 00:14:54,600
+right now I'm gonna create that okay
+
+304
+00:14:55,470 --> 00:15:00,040
+okay
+
+305
+00:14:56,680 --> 00:15:03,430
+once your azure DevOps that lab has been
+
+306
+00:15:00,040 --> 00:15:06,730
+created you need to create a machine
+
+307
+00:15:03,430 --> 00:15:11,470
+inside that a virtual machine I'm going
+
+308
+00:15:06,730 --> 00:15:16,020
+to add a virtual machine and I've had a
+
+309
+00:15:11,470 --> 00:15:16,020
+lot of trouble with the Windows 10
+
+310
+00:15:16,050 --> 00:15:21,030
+versions of if so if I type in
+
+311
+00:15:21,680 --> 00:15:27,630
+I've had a lot of problems with the the
+
+312
+00:15:24,540 --> 00:15:29,250
+on Windows 10 at once they basically had
+
+313
+00:15:27,630 --> 00:15:31,320
+not been starting I don't know if that's
+
+314
+00:15:29,250 --> 00:15:33,660
+fixed so I'm not gonna do that just now
+
+315
+00:15:31,320 --> 00:15:37,910
+so I'm just gonna pick Visual Studio to
+
+316
+00:15:33,660 --> 00:16:02,400
+a nineteen enterprise on Windows Server
+
+317
+00:15:37,910 --> 00:16:16,410
+2019 so I migration I'm just gonna put
+
+318
+00:16:02,400 --> 00:16:20,540
+in a password well I can do that have to
+
+319
+00:16:16,410 --> 00:16:25,050
+look for that later so let me copy that
+
+320
+00:16:20,540 --> 00:16:28,890
+into notepad so I don't have to show you
+
+321
+00:16:25,050 --> 00:16:30,900
+all of my passwords there we go you are
+
+322
+00:16:28,890 --> 00:16:32,430
+quite welcome to steal back because I
+
+323
+00:16:30,900 --> 00:16:40,170
+woke up deleted this machine at the end
+
+324
+00:16:32,430 --> 00:16:44,400
+of the video I'm not gonna use the
+
+325
+00:16:40,170 --> 00:16:49,080
+standard e3 because it is tiny I'm gonna
+
+326
+00:16:44,400 --> 00:16:52,560
+map that too and I want at least four
+
+327
+00:16:49,080 --> 00:16:59,550
+processors there's four processors 16
+
+328
+00:16:52,560 --> 00:17:05,429
+Giga RAM so a d4 sp3 I'm generally I
+
+329
+00:16:59,550 --> 00:17:08,220
+have the auto off set true so that at
+
+330
+00:17:05,429 --> 00:17:09,959
+the end of every every day like maybe 7
+
+331
+00:17:08,220 --> 00:17:12,059
+o'clock every day the machine turns off
+
+332
+00:17:09,959 --> 00:17:14,069
+and shuts down when I do the actual
+
+333
+00:17:12,059 --> 00:17:17,280
+migration I'll turn that off and then
+
+334
+00:17:14,069 --> 00:17:19,470
+I'll go turn it back on again and after
+
+335
+00:17:17,280 --> 00:17:21,630
+the migration is completed so I'm gonna
+
+336
+00:17:19,470 --> 00:17:23,760
+use premium SSDs as well so this would
+
+337
+00:17:21,630 --> 00:17:26,309
+be an expensive machine if it was
+
+338
+00:17:23,760 --> 00:17:28,079
+running for a long period of time and
+
+339
+00:17:26,309 --> 00:17:31,080
+I'm not gonna setup any of this because
+
+340
+00:17:28,079 --> 00:17:34,650
+sometimes it doesn't work so well and
+
+341
+00:17:31,080 --> 00:17:39,460
+I'm going to create that machine
+
+342
+00:17:34,650 --> 00:17:42,220
+okay so once your machine has been
+
+343
+00:17:39,460 --> 00:17:44,530
+created and it's running
+
+344
+00:17:42,220 --> 00:17:46,740
+we just need to log into it so let me do
+
+345
+00:17:44,530 --> 00:17:46,740
+that
+
+346
+00:18:01,529 --> 00:18:08,340
+there's my password that we set up yes
+
+347
+00:18:08,789 --> 00:18:16,480
+okay so now that we are into the machine
+
+348
+00:18:14,649 --> 00:18:18,100
+and I will still give it a few seconds
+
+349
+00:18:16,480 --> 00:18:21,010
+before I try and start clicking stuff
+
+350
+00:18:18,100 --> 00:18:22,539
+for it to get organized no we do not
+
+351
+00:18:21,010 --> 00:18:27,130
+want it to be discoverable thank you
+
+352
+00:18:22,539 --> 00:18:31,649
+very much it will start a bunch of
+
+353
+00:18:27,130 --> 00:18:35,500
+default stuff that I'm not really that
+
+354
+00:18:31,649 --> 00:18:36,429
+interested in let me get rid of that
+
+355
+00:18:35,500 --> 00:18:42,039
+there we go
+
+356
+00:18:36,429 --> 00:18:46,480
+okay so I have visual studio I have all
+
+357
+00:18:42,039 --> 00:18:51,399
+the bits I need installed unfortunately
+
+358
+00:18:46,480 --> 00:18:54,820
+I have to use IE because it is server so
+
+359
+00:18:51,399 --> 00:18:58,919
+the first thing I want to do is I need
+
+360
+00:18:54,820 --> 00:19:07,809
+to install the tool from chocolaty
+
+361
+00:18:58,919 --> 00:19:11,620
+whatever's so first thing I'm going to
+
+362
+00:19:07,809 --> 00:19:17,250
+do is install chocolaty this is very
+
+363
+00:19:11,620 --> 00:19:25,000
+easy to do copy the script open
+
+364
+00:19:17,250 --> 00:19:32,139
+PowerShell in admin mode oh well that's
+
+365
+00:19:25,000 --> 00:19:37,149
+paste in my password there we go
+
+366
+00:19:32,139 --> 00:19:39,760
+yes although access now I've got it and
+
+367
+00:19:37,149 --> 00:19:40,120
+that will install chocolaty on my
+
+368
+00:19:39,760 --> 00:19:43,419
+machine
+
+369
+00:19:40,120 --> 00:19:45,220
+chocolate is a package manager so it's
+
+370
+00:19:43,419 --> 00:19:49,720
+basically going to handle the install
+
+371
+00:19:45,220 --> 00:19:54,039
+and uninstall of the tools so that's it
+
+372
+00:19:49,720 --> 00:19:58,120
+all set up so if I validate that it's
+
+373
+00:19:54,039 --> 00:20:04,539
+working there we go so working okay so
+
+374
+00:19:58,120 --> 00:20:07,299
+now if I go back to the first page so in
+
+375
+00:20:04,539 --> 00:20:10,120
+order to install our tools there's your
+
+376
+00:20:07,299 --> 00:20:11,290
+DevOps migration tools we just need to
+
+377
+00:20:10,120 --> 00:20:18,130
+type
+
+378
+00:20:11,290 --> 00:20:25,030
+yes yes always all artists into the clan
+
+379
+00:20:18,130 --> 00:20:27,640
+line and that will go and download the
+
+380
+00:20:25,030 --> 00:20:29,560
+bits needed to install it including any
+
+381
+00:20:27,640 --> 00:20:32,020
+dependencies which there shouldn't
+
+382
+00:20:29,560 --> 00:20:34,630
+actually be any dependencies which is
+
+383
+00:20:32,020 --> 00:20:36,810
+pretty good because we're running on a
+
+384
+00:20:34,630 --> 00:20:40,600
+machine with fields to do installed
+
+385
+00:20:36,810 --> 00:20:44,170
+there we go it's all been installed so
+
+386
+00:20:40,600 --> 00:20:46,960
+now you will find in your C Drive
+
+387
+00:20:44,170 --> 00:20:49,900
+there's a tools folder in that tools
+
+388
+00:20:46,960 --> 00:20:56,170
+folder there's a VST s sync migration
+
+389
+00:20:49,900 --> 00:20:58,450
+folder so if I go in there you'll see
+
+390
+00:20:56,170 --> 00:21:02,950
+there's loads of files but the main one
+
+391
+00:20:58,450 --> 00:21:06,190
+is the migration dot exe so we're gonna
+
+392
+00:21:02,950 --> 00:21:09,130
+call migration DXE in order to set this
+
+393
+00:21:06,190 --> 00:21:13,060
+all up so let me kill ye because we
+
+394
+00:21:09,130 --> 00:21:15,070
+don't need to IE anymore let me show you
+
+395
+00:21:13,060 --> 00:21:18,160
+what's going on and then we'll move some
+
+396
+00:21:15,070 --> 00:21:25,660
+stuff to a folder that makes it easier
+
+397
+00:21:18,160 --> 00:21:28,300
+for us to see so tools migration and
+
+398
+00:21:25,660 --> 00:21:30,960
+does a lot of a lot of stuff in there
+
+399
+00:21:28,300 --> 00:21:35,620
+the first thing we need to do is create
+
+400
+00:21:30,960 --> 00:21:44,610
+a template at migration file so if you
+
+401
+00:21:35,620 --> 00:21:50,730
+run there we go oh let's go one back
+
+402
+00:21:44,610 --> 00:21:55,600
+migration exe and we type in it
+
+403
+00:21:50,730 --> 00:21:59,800
+it will create a simple work item
+
+404
+00:21:55,600 --> 00:22:06,460
+tracking based file so if I go up here I
+
+405
+00:21:59,800 --> 00:22:10,440
+may need to refresh configuration here
+
+406
+00:22:06,460 --> 00:22:14,860
+so let me let's open a new folder and
+
+407
+00:22:10,440 --> 00:22:19,750
+pop that just onto the temporary storage
+
+408
+00:22:14,860 --> 00:22:23,350
+there we go you
+
+409
+00:22:19,750 --> 00:22:28,760
+there we go so we have our JSON file
+
+410
+00:22:23,350 --> 00:22:35,720
+there now this file is just work items
+
+411
+00:22:28,760 --> 00:22:37,480
+so if I just do top work films here we
+
+412
+00:22:35,720 --> 00:22:40,040
+go
+
+413
+00:22:37,480 --> 00:22:43,670
+and we can take a look at the conflict
+
+414
+00:22:40,040 --> 00:22:44,540
+file and see what is what so this is the
+
+415
+00:22:43,670 --> 00:22:47,210
+first time visual studio has been
+
+416
+00:22:44,540 --> 00:22:53,420
+started on this machine so it may take a
+
+417
+00:22:47,210 --> 00:22:59,480
+minute or so I guess while we're waiting
+
+418
+00:22:53,420 --> 00:23:04,340
+I can open a notepad and we can take a
+
+419
+00:22:59,480 --> 00:23:07,820
+look while it's loading so what I've
+
+420
+00:23:04,340 --> 00:23:09,620
+done is I've created our default file
+
+421
+00:23:07,820 --> 00:23:12,230
+I'm gonna go through some of the options
+
+422
+00:23:09,620 --> 00:23:18,340
+in the files so that you can um see what
+
+423
+00:23:12,230 --> 00:23:18,340
+is in here now maybe later
+
+424
+00:23:18,670 --> 00:23:27,860
+you like the dark theme okay that's the
+
+425
+00:23:24,410 --> 00:23:30,140
+first thing is it has a version this
+
+426
+00:23:27,860 --> 00:23:34,390
+matches the version of the to at least
+
+427
+00:23:30,140 --> 00:23:38,150
+the first two digits of the version and
+
+428
+00:23:34,390 --> 00:23:40,730
+its purpose is to make sure we don't
+
+429
+00:23:38,150 --> 00:23:43,010
+accidentally run a car an old con fake
+
+430
+00:23:40,730 --> 00:23:45,440
+against the new version of the tool and
+
+431
+00:23:43,010 --> 00:23:47,300
+see if there's a new version of the tool
+
+432
+00:23:45,440 --> 00:23:49,570
+and it changes a major version check for
+
+433
+00:23:47,300 --> 00:23:52,700
+any different season maybe update this
+
+434
+00:23:49,570 --> 00:23:55,730
+the two will not run if you're using an
+
+435
+00:23:52,700 --> 00:23:57,350
+older version of the config file but it
+
+436
+00:23:55,730 --> 00:23:59,060
+might just be a case of changing not
+
+437
+00:23:57,350 --> 00:24:04,610
+three four four and then everything's
+
+438
+00:23:59,060 --> 00:24:07,850
+good ah telemetry trace is by default
+
+439
+00:24:04,610 --> 00:24:11,330
+set to false really don't don't turn
+
+440
+00:24:07,850 --> 00:24:14,390
+this on this can be used for some debug
+
+441
+00:24:11,330 --> 00:24:18,530
+scenarios and it will push all of the
+
+442
+00:24:14,390 --> 00:24:21,520
+telemetry out to application insights so
+
+443
+00:24:18,530 --> 00:24:26,480
+you don't want to do that by default and
+
+444
+00:24:21,520 --> 00:24:29,750
+the the base set of metrics are sent to
+
+445
+00:24:26,480 --> 00:24:31,760
+a pin sites so we'll say how many work
+
+446
+00:24:29,750 --> 00:24:33,020
+items have been processed how long
+
+447
+00:24:31,760 --> 00:24:35,000
+they're taking
+
+448
+00:24:33,020 --> 00:24:37,429
+exceptions those kind of things are
+
+449
+00:24:35,000 --> 00:24:40,730
+passed to up insights if you enable the
+
+450
+00:24:37,429 --> 00:24:43,670
+trace then every thing that you see
+
+451
+00:24:40,730 --> 00:24:45,980
+going past on the command line screen
+
+452
+00:24:43,670 --> 00:24:48,950
+will also be sent to a pin site so you
+
+453
+00:24:45,980 --> 00:24:52,820
+don't want to do that unless you you're
+
+454
+00:24:48,950 --> 00:24:54,890
+working with one of the consultants who
+
+455
+00:24:52,820 --> 00:24:57,260
+has access to app insights and you want
+
+456
+00:24:54,890 --> 00:24:58,640
+to UM have a have a discussion around
+
+457
+00:24:57,260 --> 00:25:03,080
+some of the telemetry or try something
+
+458
+00:24:58,640 --> 00:25:04,940
+push some things out ah this was a
+
+459
+00:25:03,080 --> 00:25:09,200
+workaround for the azure DevOps team
+
+460
+00:25:04,940 --> 00:25:10,730
+breaking the api's should by default we
+
+461
+00:25:09,200 --> 00:25:13,880
+set to false we just haven't removed it
+
+462
+00:25:10,730 --> 00:25:16,610
+yet and then the two really important
+
+463
+00:25:13,880 --> 00:25:18,559
+things are the source and the target so
+
+464
+00:25:16,610 --> 00:25:22,130
+source and target both are the same
+
+465
+00:25:18,559 --> 00:25:24,380
+format and you've got the collection so
+
+466
+00:25:22,130 --> 00:25:25,640
+what is the URL of the collection that
+
+467
+00:25:24,380 --> 00:25:28,130
+you're connecting to so that could be
+
+468
+00:25:25,640 --> 00:25:30,559
+the TFS connection URL or the azure
+
+469
+00:25:28,130 --> 00:25:33,590
+DevOps connection URL or the name of the
+
+470
+00:25:30,559 --> 00:25:37,280
+project inside of that it goes under
+
+471
+00:25:33,590 --> 00:25:41,600
+name and the reflected work item ID
+
+472
+00:25:37,280 --> 00:25:44,630
+field name is the name of the field that
+
+473
+00:25:41,600 --> 00:25:47,210
+you've added to that project into the
+
+474
+00:25:44,630 --> 00:25:50,559
+process where we're going to store the
+
+475
+00:25:47,210 --> 00:25:53,720
+reflective work item ID now if it's TFS
+
+476
+00:25:50,559 --> 00:25:55,400
+you get to set the whole thing if it
+
+477
+00:25:53,720 --> 00:25:57,140
+says your dev ops when you create a new
+
+478
+00:25:55,400 --> 00:26:00,890
+field you only get to set this bit on
+
+479
+00:25:57,140 --> 00:26:03,800
+the end and it used to be if you've
+
+480
+00:26:00,890 --> 00:26:07,910
+added this to an older process it will
+
+481
+00:26:03,800 --> 00:26:13,040
+be processed name dot and but if you go
+
+482
+00:26:07,910 --> 00:26:16,880
+add one just now to Azure DevOps it will
+
+483
+00:26:13,040 --> 00:26:18,679
+be custom don't um I don't know why they
+
+484
+00:26:16,880 --> 00:26:22,790
+changed it or how that's meant to be
+
+485
+00:26:18,679 --> 00:26:27,710
+documented but it just is you can use
+
+486
+00:26:22,790 --> 00:26:29,840
+there is a tool to export processes that
+
+487
+00:26:27,710 --> 00:26:33,140
+you can use even the the inherited
+
+488
+00:26:29,840 --> 00:26:35,000
+processes you can export that and then
+
+489
+00:26:33,140 --> 00:26:37,340
+go look at what the fields been called
+
+490
+00:26:35,000 --> 00:26:37,760
+but generally it's one of those two
+
+491
+00:26:37,340 --> 00:26:40,250
+things
+
+492
+00:26:37,760 --> 00:26:45,500
+it's either whatever you've said it as
+
+493
+00:26:40,250 --> 00:26:46,559
+if you're in TFS if you have an XML
+
+494
+00:26:45,500 --> 00:26:49,019
+process in
+
+495
+00:26:46,559 --> 00:26:51,570
+your DevOps then it will be the same and
+
+496
+00:26:49,019 --> 00:26:57,690
+if you have an inherited process and
+
+497
+00:26:51,570 --> 00:27:01,980
+it's an old process then it might be
+
+498
+00:26:57,690 --> 00:27:07,070
+called my process name dot reflected
+
+499
+00:27:01,980 --> 00:27:12,120
+work item ID if not it's if it's newer
+
+500
+00:27:07,070 --> 00:27:15,480
+it's just custom oh so you may just need
+
+501
+00:27:12,120 --> 00:27:17,669
+there's only three possibilities so you
+
+502
+00:27:15,480 --> 00:27:20,009
+could just do trial and error and the
+
+503
+00:27:17,669 --> 00:27:22,470
+tool will check to make sure that what
+
+504
+00:27:20,009 --> 00:27:23,610
+you've typed in there is valid so that's
+
+505
+00:27:22,470 --> 00:27:27,600
+pretty good
+
+506
+00:27:23,610 --> 00:27:30,749
+the field maps is empty you don't need
+
+507
+00:27:27,600 --> 00:27:33,450
+to add any field maps by default the
+
+508
+00:27:30,749 --> 00:27:35,519
+tool will map same field name to same
+
+509
+00:27:33,450 --> 00:27:39,419
+field name or same field ref to same
+
+510
+00:27:35,519 --> 00:27:41,249
+field ref if you want to change any of
+
+511
+00:27:39,419 --> 00:27:42,809
+the data on the fly on the way across
+
+512
+00:27:41,249 --> 00:27:47,909
+then you would need to setup field maps
+
+513
+00:27:42,809 --> 00:27:49,889
+but this is just the easy setup and work
+
+514
+00:27:47,909 --> 00:27:53,249
+item type definition now does not need
+
+515
+00:27:49,889 --> 00:27:58,590
+to contain anything it can be empty but
+
+516
+00:27:53,249 --> 00:28:00,809
+if you have for example in the source if
+
+517
+00:27:58,590 --> 00:28:03,090
+you're using user story and in the
+
+518
+00:28:00,809 --> 00:28:05,220
+target you're using for a backlog item
+
+519
+00:28:03,090 --> 00:28:06,899
+then you would fill those differences
+
+520
+00:28:05,220 --> 00:28:09,899
+out in here otherwise it will just
+
+521
+00:28:06,899 --> 00:28:11,970
+process and all the existing ones and I
+
+522
+00:28:09,899 --> 00:28:15,690
+mentioned before the the git repo
+
+523
+00:28:11,970 --> 00:28:17,789
+mapping so if you need to map get people
+
+524
+00:28:15,690 --> 00:28:19,799
+names from old name to new name a new
+
+525
+00:28:17,789 --> 00:28:24,149
+location then that would be in here as
+
+526
+00:28:19,799 --> 00:28:26,909
+well again in this case it is null so
+
+527
+00:28:24,149 --> 00:28:29,700
+then we come to the processors there are
+
+528
+00:28:26,909 --> 00:28:32,580
+two processors oh let's go to the color
+
+529
+00:28:29,700 --> 00:28:35,119
+coded version now we get to the
+
+530
+00:28:32,580 --> 00:28:40,529
+processors and there are two processors
+
+531
+00:28:35,119 --> 00:28:42,720
+set up here for us to see the first one
+
+532
+00:28:40,529 --> 00:28:45,419
+is the node structure migration config
+
+533
+00:28:42,720 --> 00:28:49,919
+this will migrate your areas and
+
+534
+00:28:45,419 --> 00:28:52,110
+iteration paths across you can set base
+
+535
+00:28:49,919 --> 00:28:55,409
+paths if you want to filter that but
+
+536
+00:28:52,110 --> 00:28:57,299
+please note that if you try and save a
+
+537
+00:28:55,409 --> 00:28:59,980
+work item when you're doing the work
+
+538
+00:28:57,299 --> 00:29:04,120
+item migration to an idiopathic
+
+539
+00:28:59,980 --> 00:29:05,980
+not exist there will be an error
+
+540
+00:29:04,120 --> 00:29:09,820
+generated and the thing will bomb out
+
+541
+00:29:05,980 --> 00:29:14,160
+the area paths need to exist so what I
+
+542
+00:29:09,820 --> 00:29:17,830
+normally do is just set this to empty
+
+543
+00:29:14,160 --> 00:29:20,230
+you don't need to have any base paths at
+
+544
+00:29:17,830 --> 00:29:22,720
+all and it will just migrate all of your
+
+545
+00:29:20,230 --> 00:29:24,429
+work items if there are no bats all of
+
+546
+00:29:22,720 --> 00:29:27,610
+your area and iteration passes there are
+
+547
+00:29:24,429 --> 00:29:30,010
+no base paths present there is one
+
+548
+00:29:27,610 --> 00:29:32,049
+feature on here and actually needs to be
+
+549
+00:29:30,010 --> 00:29:34,270
+consistent across all of the processors
+
+550
+00:29:32,049 --> 00:29:37,830
+that you run if you're going to use it
+
+551
+00:29:34,270 --> 00:29:42,040
+and that's prefix project two nodes
+
+552
+00:29:37,830 --> 00:29:44,650
+which means that it is going to if you
+
+553
+00:29:42,040 --> 00:29:47,230
+had a team project one and you were
+
+554
+00:29:44,650 --> 00:29:49,660
+migrating it into team project to and
+
+555
+00:29:47,230 --> 00:29:52,150
+you wanted team project two to have an
+
+556
+00:29:49,660 --> 00:29:54,040
+area path of team project one with all
+
+557
+00:29:52,150 --> 00:29:56,559
+of the team project one area paths
+
+558
+00:29:54,040 --> 00:29:59,080
+underneath it then it would do that this
+
+559
+00:29:56,559 --> 00:30:01,720
+is a feature for if you're merging team
+
+560
+00:29:59,080 --> 00:30:03,850
+projects so if I have team project one
+
+561
+00:30:01,720 --> 00:30:06,400
+two three and four that are all merging
+
+562
+00:30:03,850 --> 00:30:09,850
+into team project five team project five
+
+563
+00:30:06,400 --> 00:30:12,100
+will have root area paths of team
+
+564
+00:30:09,850 --> 00:30:14,169
+project one two three and four under
+
+565
+00:30:12,100 --> 00:30:16,270
+that of the work items all the data and
+
+566
+00:30:14,169 --> 00:30:18,190
+so that you're not just merging it
+
+567
+00:30:16,270 --> 00:30:20,679
+together into a big mess and you can
+
+568
+00:30:18,190 --> 00:30:22,299
+take some action afterwards to clean it
+
+569
+00:30:20,679 --> 00:30:23,740
+up and figure out what are those dupes
+
+570
+00:30:22,299 --> 00:30:25,799
+and all that kind of thing
+
+571
+00:30:23,740 --> 00:30:27,760
+generally you want their set to OFF
+
+572
+00:30:25,799 --> 00:30:29,559
+unless you're doing a team project
+
+573
+00:30:27,760 --> 00:30:32,799
+marriage and even then you need to make
+
+574
+00:30:29,559 --> 00:30:35,290
+that choice all right so this one needs
+
+575
+00:30:32,799 --> 00:30:38,080
+nord structures needs to be run first in
+
+576
+00:30:35,290 --> 00:30:41,710
+order to have that work you've then got
+
+577
+00:30:38,080 --> 00:30:44,590
+a work item migration config the work
+
+578
+00:30:41,710 --> 00:30:47,350
+item migration config that sets up the
+
+579
+00:30:44,590 --> 00:30:49,870
+migration for the work items processors
+
+580
+00:30:47,350 --> 00:30:52,240
+are set to false by default so nothing
+
+581
+00:30:49,870 --> 00:30:53,350
+will happen if you run it I generally
+
+582
+00:30:52,240 --> 00:30:54,970
+run them one at a time
+
+583
+00:30:53,350 --> 00:30:58,030
+to make sure everything's good so you
+
+584
+00:30:54,970 --> 00:31:01,960
+can set that enabled to true and and
+
+585
+00:30:58,030 --> 00:31:04,450
+then there's a number of things that you
+
+586
+00:31:01,960 --> 00:31:07,419
+might want to have so first off you've
+
+587
+00:31:04,450 --> 00:31:09,429
+got the prefix project two nodes again
+
+588
+00:31:07,419 --> 00:31:11,950
+set to false it must be consistent
+
+589
+00:31:09,429 --> 00:31:13,850
+across the project you've got so got the
+
+590
+00:31:11,950 --> 00:31:16,970
+update created date and
+
+591
+00:31:13,850 --> 00:31:18,740
+they created by in most cases this
+
+592
+00:31:16,970 --> 00:31:21,110
+should be set to true which is why
+
+593
+00:31:18,740 --> 00:31:22,490
+that's the default and if you're having
+
+594
+00:31:21,110 --> 00:31:25,850
+a problem because you are a particular
+
+595
+00:31:22,490 --> 00:31:28,310
+version of TFS that does not allow you
+
+596
+00:31:25,850 --> 00:31:31,090
+to edit the created date or created by
+
+597
+00:31:28,310 --> 00:31:34,640
+you can turn these to false
+
+598
+00:31:31,090 --> 00:31:37,160
+update source reflected ID it should be
+
+599
+00:31:34,640 --> 00:31:39,620
+set to false it's set to true or a
+
+600
+00:31:37,160 --> 00:31:42,500
+little fix that the default should be
+
+601
+00:31:39,620 --> 00:31:44,930
+false this will actually also go and
+
+602
+00:31:42,500 --> 00:31:47,150
+edit the source work item with the
+
+603
+00:31:44,930 --> 00:31:50,420
+reflected work item ID of the new
+
+604
+00:31:47,150 --> 00:31:53,510
+location we're doing away with this
+
+605
+00:31:50,420 --> 00:31:55,040
+feature because there's no point in
+
+606
+00:31:53,510 --> 00:31:56,360
+editing the the source if there's
+
+607
+00:31:55,040 --> 00:31:59,570
+another way to do it and I figured out
+
+608
+00:31:56,360 --> 00:32:04,730
+another way to do it if you're replaying
+
+609
+00:31:59,570 --> 00:32:06,680
+revisions you do not need build field
+
+610
+00:32:04,730 --> 00:32:09,860
+table so if you're just doing a tip
+
+611
+00:32:06,680 --> 00:32:12,260
+migration then you want to set this to
+
+612
+00:32:09,860 --> 00:32:15,200
+true and it will build a field of all
+
+613
+00:32:12,260 --> 00:32:17,960
+build a table of all the existing fields
+
+614
+00:32:15,200 --> 00:32:20,630
+in the source work item and save it into
+
+615
+00:32:17,960 --> 00:32:22,310
+the comments of the new york item so
+
+616
+00:32:20,630 --> 00:32:24,110
+that you can at least go and search for
+
+617
+00:32:22,310 --> 00:32:27,590
+any old data that might not have been
+
+618
+00:32:24,110 --> 00:32:29,660
+migrated across into fields and then
+
+619
+00:32:27,590 --> 00:32:31,040
+there's a signature which you can set to
+
+620
+00:32:29,660 --> 00:32:33,470
+or false we'll probably get rid of this
+
+621
+00:32:31,040 --> 00:32:35,990
+but it's set to false just now so that
+
+622
+00:32:33,470 --> 00:32:40,280
+brings us to the replay revisions replay
+
+623
+00:32:35,990 --> 00:32:43,280
+revisions will either replay each of the
+
+624
+00:32:40,280 --> 00:32:45,260
+changes made to a work item if it's set
+
+625
+00:32:43,280 --> 00:32:48,440
+to true or it will just take the latest
+
+626
+00:32:45,260 --> 00:32:50,000
+tip of the work item if set to false if
+
+627
+00:32:48,440 --> 00:32:53,540
+you're doing a sync
+
+628
+00:32:50,000 --> 00:32:56,120
+ie there's been changes made since the
+
+629
+00:32:53,540 --> 00:33:00,500
+last revision change and it actually
+
+630
+00:32:56,120 --> 00:33:02,870
+filters the list based on and the exact
+
+631
+00:33:00,500 --> 00:33:05,660
+date time of the save so you'll have
+
+632
+00:33:02,870 --> 00:33:07,460
+maybe ten revisions and the first thing
+
+633
+00:33:05,660 --> 00:33:10,340
+as it does is it looks at the target
+
+634
+00:33:07,460 --> 00:33:16,610
+work item and takes out all of the
+
+635
+00:33:10,340 --> 00:33:19,790
+identical updated dates and times out of
+
+636
+00:33:16,610 --> 00:33:22,160
+the the list and then picks the top one
+
+637
+00:33:19,790 --> 00:33:26,420
+if we play revisions are set to false
+
+638
+00:33:22,160 --> 00:33:27,350
+and we plays them if it's set to true so
+
+639
+00:33:26,420 --> 00:33:31,070
+that's
+
+640
+00:33:27,350 --> 00:33:32,540
+just that's how that part works and the
+
+641
+00:33:31,070 --> 00:33:36,400
+way it knows which work items the Lord
+
+642
+00:33:32,540 --> 00:33:40,190
+is you have a query bit and generally
+
+643
+00:33:36,400 --> 00:33:42,650
+you can't have more than 20,000 work
+
+644
+00:33:40,190 --> 00:33:44,450
+items as the result of a query so you
+
+645
+00:33:42,650 --> 00:33:47,210
+may need to stage this if you have more
+
+646
+00:33:44,450 --> 00:33:49,850
+than 20,000 work items and you never
+
+647
+00:33:47,210 --> 00:33:52,040
+want to migrate test Suites and plants
+
+648
+00:33:49,850 --> 00:33:53,690
+there may be other work item types that
+
+649
+00:33:52,040 --> 00:33:56,660
+you don't want to migrate so you can add
+
+650
+00:33:53,690 --> 00:33:59,540
+them to that not enlist and what I
+
+651
+00:33:56,660 --> 00:34:02,690
+generally do is I focus the initial
+
+652
+00:33:59,540 --> 00:34:05,300
+migration on the open work items so the
+
+653
+00:34:02,690 --> 00:34:08,420
+ones where closed date is not set to
+
+654
+00:34:05,300 --> 00:34:11,360
+anything and then I will rerun it again
+
+655
+00:34:08,420 --> 00:34:14,360
+with the opposite being true with cause
+
+656
+00:34:11,360 --> 00:34:16,610
+date populated to fill out all the the
+
+657
+00:34:14,360 --> 00:34:18,110
+closed items that way people can move
+
+658
+00:34:16,610 --> 00:34:21,980
+over and start working in the new system
+
+659
+00:34:18,110 --> 00:34:26,210
+and everything's hunky-dory and there's
+
+660
+00:34:21,980 --> 00:34:29,060
+the order bit from the query I usually
+
+661
+00:34:26,210 --> 00:34:32,150
+do change date and so that it goes from
+
+662
+00:34:29,060 --> 00:34:34,610
+latest change date to oldest so the most
+
+663
+00:34:32,150 --> 00:34:36,380
+recently touched work items are updated
+
+664
+00:34:34,610 --> 00:34:39,140
+first and then it gets into the past
+
+665
+00:34:36,380 --> 00:34:42,290
+where it's less likely to cause a
+
+666
+00:34:39,140 --> 00:34:44,470
+problem and then while it's migrating
+
+667
+00:34:42,290 --> 00:34:47,900
+each work item there are a number of
+
+668
+00:34:44,470 --> 00:34:50,960
+features that one is the link migrator
+
+669
+00:34:47,900 --> 00:34:54,560
+but by default should be true and this
+
+670
+00:34:50,960 --> 00:34:58,070
+will attempt to add all of the existing
+
+671
+00:34:54,560 --> 00:34:58,940
+links so it's going to add all of the
+
+672
+00:34:58,070 --> 00:35:01,160
+different link types
+
+673
+00:34:58,940 --> 00:35:03,530
+apart from pull request links because we
+
+674
+00:35:01,160 --> 00:35:05,840
+can't migrate pull requests and this
+
+675
+00:35:03,530 --> 00:35:08,960
+will migrate all of the attachments you
+
+676
+00:35:05,840 --> 00:35:11,750
+can you will need to pass it a temporary
+
+677
+00:35:08,960 --> 00:35:12,890
+folder for the working path where it's
+
+678
+00:35:11,750 --> 00:35:15,440
+going to download and upload the
+
+679
+00:35:12,890 --> 00:35:18,440
+attachments the default should suffice
+
+680
+00:35:15,440 --> 00:35:21,230
+on 99% of systems it will clean up
+
+681
+00:35:18,440 --> 00:35:22,850
+itself afterwards there may be some
+
+682
+00:35:21,230 --> 00:35:24,530
+things left over when it can't delete
+
+683
+00:35:22,850 --> 00:35:26,780
+folders because files are still in use
+
+684
+00:35:24,530 --> 00:35:32,860
+but it will generally clean up after
+
+685
+00:35:26,780 --> 00:35:36,890
+itself and then the fix HTML attachment
+
+686
+00:35:32,860 --> 00:35:39,650
+that links is for in HTML fields you can
+
+687
+00:35:36,890 --> 00:35:41,030
+paste an image that image has an
+
+688
+00:35:39,650 --> 00:35:45,500
+absolute path
+
+689
+00:35:41,030 --> 00:35:47,120
+to the file and that will not work in
+
+690
+00:35:45,500 --> 00:35:50,300
+the new system when the old system was
+
+691
+00:35:47,120 --> 00:35:52,190
+offline unfortunately that's not working
+
+692
+00:35:50,300 --> 00:35:54,890
+just now we have some authentication
+
+693
+00:35:52,190 --> 00:35:59,810
+issues with that but what it's supposed
+
+694
+00:35:54,890 --> 00:36:01,850
+to do is pool basically download each of
+
+695
+00:35:59,810 --> 00:36:04,670
+the attachments add it as an attachment
+
+696
+00:36:01,850 --> 00:36:08,780
+to the work items you'll have extra
+
+697
+00:36:04,670 --> 00:36:11,500
+attachments and then insert the the
+
+698
+00:36:08,780 --> 00:36:13,790
+replace they let fix the links for you
+
+699
+00:36:11,500 --> 00:36:16,400
+again it doesn't doesn't work just now
+
+700
+00:36:13,790 --> 00:36:19,970
+we've got authentication issues with
+
+701
+00:36:16,400 --> 00:36:21,230
+that communication we'll get it fixed at
+
+702
+00:36:19,970 --> 00:36:24,130
+some point there's a number of people
+
+703
+00:36:21,230 --> 00:36:27,340
+who are who are looking at that you
+
+704
+00:36:24,130 --> 00:36:29,870
+occasionally get errors just
+
+705
+00:36:27,340 --> 00:36:33,380
+communicating towards your DevOps and if
+
+706
+00:36:29,870 --> 00:36:37,430
+you're migrating 30,000 work items with
+
+707
+00:36:33,380 --> 00:36:39,340
+a hundred revisions each and a bunch of
+
+708
+00:36:37,430 --> 00:36:42,260
+attachments and links you're going to be
+
+709
+00:36:39,340 --> 00:36:44,300
+hitting the usurer DevOps API is pretty
+
+710
+00:36:42,260 --> 00:36:47,120
+heavily you're probably going to get
+
+711
+00:36:44,300 --> 00:36:49,550
+slowed down and occasionally that system
+
+712
+00:36:47,120 --> 00:36:53,180
+will glitch it's on the Internet
+
+713
+00:36:49,550 --> 00:36:56,660
+it could be for any reason between your
+
+714
+00:36:53,180 --> 00:37:00,530
+your environments and so there's a reach
+
+715
+00:36:56,660 --> 00:37:03,230
+automatic retry and it will wait if it
+
+716
+00:37:00,530 --> 00:37:06,500
+gets our 503 which is a server
+
+717
+00:37:03,230 --> 00:37:10,280
+unavailable exception it will wait for
+
+718
+00:37:06,500 --> 00:37:12,920
+one second then retry then wait for two
+
+719
+00:37:10,280 --> 00:37:15,650
+seconds and retry all the way up to 5
+
+720
+00:37:12,920 --> 00:37:17,900
+seconds and then retry and if it fills
+
+721
+00:37:15,650 --> 00:37:22,460
+out the fifth attempt it the tool will
+
+722
+00:37:17,900 --> 00:37:24,110
+stop cool so that's what it is i don't
+
+723
+00:37:22,460 --> 00:37:26,810
+recommend making that number that much
+
+724
+00:37:24,110 --> 00:37:29,060
+higher but if you said 215 the last one
+
+725
+00:37:26,810 --> 00:37:32,690
+will be waiting 15 seconds and then we
+
+726
+00:37:29,060 --> 00:37:34,490
+trying as well this is a really
+
+727
+00:37:32,690 --> 00:37:36,830
+important one filter work items that
+
+728
+00:37:34,490 --> 00:37:40,880
+already exist in the target there is a
+
+729
+00:37:36,830 --> 00:37:43,760
+mutually exclusive nature here that I
+
+730
+00:37:40,880 --> 00:37:48,320
+need to mention so what it will do is it
+
+731
+00:37:43,760 --> 00:37:51,470
+will M using the same query bit okay
+
+732
+00:37:48,320 --> 00:37:54,170
+it's going to load the source work items
+
+733
+00:37:51,470 --> 00:37:56,600
+load the target work items and
+
+734
+00:37:54,170 --> 00:37:59,540
+remove any target work items from the
+
+735
+00:37:56,600 --> 00:38:02,600
+source list that already exists and so
+
+736
+00:37:59,540 --> 00:38:05,020
+if you're trying to sync things that
+
+737
+00:38:02,600 --> 00:38:07,310
+have been changed that are newer that
+
+738
+00:38:05,020 --> 00:38:08,690
+will not work because it will filter
+
+739
+00:38:07,310 --> 00:38:10,970
+them all out because they already exist
+
+740
+00:38:08,690 --> 00:38:13,820
+by default you want this set to true
+
+741
+00:38:10,970 --> 00:38:16,730
+because if you're migrating 30,000 work
+
+742
+00:38:13,820 --> 00:38:19,280
+items and it got cheese after 5,000 you
+
+743
+00:38:16,730 --> 00:38:21,500
+don't want to skip or have to Lord and
+
+744
+00:38:19,280 --> 00:38:23,840
+skip over each of those 5,000 work items
+
+745
+00:38:21,500 --> 00:38:26,720
+so that will filter those out and so I
+
+746
+00:38:23,840 --> 00:38:29,960
+recommend getting a full run with this
+
+747
+00:38:26,720 --> 00:38:33,140
+enabled and then using a date based
+
+748
+00:38:29,960 --> 00:38:37,840
+query so see if your close date and I
+
+749
+00:38:33,140 --> 00:38:43,730
+would do a full migration and then do
+
+750
+00:38:37,840 --> 00:38:51,620
+cheat me spell it right change date and
+
+751
+00:38:43,730 --> 00:38:59,120
+have that set to greater than date of
+
+752
+00:38:51,620 --> 00:39:00,800
+migration so let's say it was 2019 1016
+
+753
+00:38:59,120 --> 00:39:03,770
+because we start the migration yesterday
+
+754
+00:39:00,800 --> 00:39:07,160
+it's finished and now I want to rerun
+
+755
+00:39:03,770 --> 00:39:09,320
+anything that was changed after we
+
+756
+00:39:07,160 --> 00:39:10,880
+started the migration and you would need
+
+757
+00:39:09,320 --> 00:39:14,030
+to start with the date of the migration
+
+758
+00:39:10,880 --> 00:39:17,090
+because you can't put tines in there and
+
+759
+00:39:14,030 --> 00:39:20,150
+that that will work super awesome and
+
+760
+00:39:17,090 --> 00:39:22,370
+then it will just go and pull the 300
+
+761
+00:39:20,150 --> 00:39:26,390
+work items that were changed yesterday
+
+762
+00:39:22,370 --> 00:39:28,730
+and today and Rioch date them and but
+
+763
+00:39:26,390 --> 00:39:32,060
+you would need to change this to false
+
+764
+00:39:28,730 --> 00:39:34,310
+so that you can migrate and it will skip
+
+765
+00:39:32,060 --> 00:39:35,900
+anything that doesn't need any changes
+
+766
+00:39:34,310 --> 00:39:37,310
+but it will need to do a bunch of stuff
+
+767
+00:39:35,900 --> 00:39:40,970
+around that which is why you want this
+
+768
+00:39:37,310 --> 00:39:45,110
+generally set true okay that was a brief
+
+769
+00:39:40,970 --> 00:39:47,720
+overview of the azure DevOps migration
+
+770
+00:39:45,110 --> 00:39:51,050
+tools let me know if you have any issues
+
+771
+00:39:47,720 --> 00:39:54,020
+on github create an issue on github and
+
+772
+00:39:51,050 --> 00:39:59,870
+somebody will help you
+
+773
+00:39:54,020 --> 00:39:59,870
+[Music]
+
+

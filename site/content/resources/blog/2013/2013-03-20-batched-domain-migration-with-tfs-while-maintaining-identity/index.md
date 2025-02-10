@@ -22,10 +22,25 @@ aliasesFor404:
 - /blog/batched-domain-migration-with-tfs-while-maintaining-identity
 - /resources/blog/batched-domain-migration-with-tfs-while-maintaining-identity
 tags:
-- Change Management
-- Technical Debt
-categories:
+- Agile Tools
 - Application Lifecycle Management
+- Azure DevOps
+- Change Management
+- Collaboration Tools
+- Deployment Strategies
+- DevOps
+- Operational Practices
+- Organisational Change
+- Software Developers
+- Software Development
+- System Configuration
+- Technical Excellence
+- Technical Mastery
+- Technical Strategy
+categories:
+- Azure DevOps
+- Install and Configuration
+- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 
 ---

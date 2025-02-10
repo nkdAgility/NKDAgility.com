@@ -26,21 +26,8 @@ aliasesFor404:
 - /blog/traveling-for-work-and-the-dell-venue-8
 - /resources/blog/traveling-work-dell-venue-8
 tags:
-- Remote Working
-- Agile Software Development
-- Agile Product Management
-- Agile Tools
-- Continuous Improvement
-- Technical Excellence
-- Customer Feedback Loops
-- Product Discovery
-- Agile Digital Tools
-- Lean Startup
-categories:
-- News and Reviews
-- Products and Books
-- Technical Excellence
-- Application Lifecycle Management
+- Windows
+categories: []
 preview: nakedalm-windows-logo-4-4.png
 
 ---

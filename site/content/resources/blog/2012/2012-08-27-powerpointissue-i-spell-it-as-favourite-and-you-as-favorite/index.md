@@ -25,11 +25,8 @@ aliasesFor404:
 - /i-spell-it-as-favourite-and-you-as-favorite
 - /blog/i-spell-it-as-favourite-and-you-as-favorite
 - /resources/blog/powerpointissue-i-spell-it-as-favourite-and-you-as-favorite
-tags:
-- Personal
-categories:
-- People and Process
-- Practical Techniques and Tooling
+tags: []
+categories: []
 preview: metro-binary-vb-128-link-6-6.png
 
 ---

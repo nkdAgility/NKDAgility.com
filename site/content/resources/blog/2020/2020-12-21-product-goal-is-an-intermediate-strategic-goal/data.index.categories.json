@@ -1,0 +1,42 @@
+{
+  "DevOps": {
+    "category": "DevOps",
+    "ai_confidence": 75,
+    "non_ai_confidence": 50,
+    "final_score": 68.0,
+    "reasoning": "The content discusses practices related to agile methodologies, experimentation, and delivery teams, which are central to DevOps principles, although it primarily focuses on strategic goals and management practices.",
+    "level": "Secondary"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "Content discusses Azure DevOps teams and their investment in various product verticals, making Azure DevOps a primary topic in the context of agile project management and experimentation.",
+    "level": "Secondary"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the importance of managing flow and adapting practices to improve outcomes, which aligns with Kanban principles, but it primarily focuses on strategic goals and product management rather than Kanban as a central theme.",
+    "level": "Ignored"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "ai_confidence": 75,
+    "non_ai_confidence": 0,
+    "final_score": 52.0,
+    "reasoning": "The content discusses agile practices and the importance of experimentation, which aligns with the principles of Technical Excellence, but it primarily focuses on strategic goals and business leadership rather than engineering practices.",
+    "level": "Secondary"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses concepts related to agile practices and product goals, which are relevant to Scrum, but it primarily focuses on broader themes of business strategy and management rather than the Scrum framework itself.",
+    "level": "Ignored"
+  }
+}

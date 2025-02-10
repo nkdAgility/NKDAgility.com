@@ -23,26 +23,9 @@ aliasesFor404:
 - /blog/there-is-no-place-like-production
 - /resources/blog/there-is-no-place-like-production
 tags:
-- Customer Satisfaction
-- Product Discovery
-- Agile Product Validation
-- Continuous Delivery
-- Value Delivery
-- Evidence Based Management
-- Employee Engagement
-- Agile Software Development
-- Lean Thinking
-- Agile Product Management
-- Frequent Releases
-- Agile Planning
-- Agile Values and Principles
-- Value Stream Management
+- Adaptive Strategy
 categories:
-- Value Delivery
-- Metrics and Learning
-- Discovery and Learning
-- People and Process
-- Agile Product Management
+- DevOps
 preview: wizard-of-oz-ruby-slippers-2018-billboard-1548-2-2.jpg
 
 ---

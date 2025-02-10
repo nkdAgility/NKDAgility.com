@@ -21,28 +21,8 @@ aliasesFor404:
 - /the-high-of-release
 - /blog/the-high-of-release
 - /resources/blog/the-high-of-release
-tags:
-- DevOps
-- Continuous Delivery
-- Agile Tools
-- Release Planning
-- Deployment Frequency
-- Azure DevOps
-- Engineering Excellence
-- Value Delivery
-- Customer Feedback Loops
-- Agile Software Development
-- Technical Mastery
-- Agile Product Management
-- Continuous Integration
-- Automated Testing
-- Value Stream Management
-categories:
-- Events and Presentations
-- Azure DevOps
-- Practical Techniques and Tooling
-- DevOps
-- News and Reviews
+tags: []
+categories: []
 preview: 2016-01-04_15-52-31-1-1.png
 
 ---

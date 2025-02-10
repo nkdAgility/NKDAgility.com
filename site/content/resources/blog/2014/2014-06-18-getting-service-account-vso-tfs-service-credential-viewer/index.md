@@ -27,25 +27,24 @@ aliasesFor404:
 - /resources/blog/getting-service-account-vso-tfs-service-credential-viewer
 tags:
 - Azure DevOps
-- Agile Tools
-- Continuous Integration
-- Automated Testing
+- Azure Pipelines
+- Azure Repos
 - DevOps
-- Technical Excellence
-- Agile Software Development
+- Featured
+- Modern Source Control
+- Pragmatic Thinking
+- Software Developers
 - Software Development
-- Application Lifecycle Management
-- Agile Methodology
+- System Configuration
+- Technical Excellence
 - Technical Mastery
-- Value Delivery
-- Customer Feedback Loops
-- Agile Product Management
-- Lean Principles
+- Troubleshooting
+- Windows
+- Working Software
 categories:
-- Install and Configuration
 - Azure DevOps
+- Install and Configuration
 - Practical Techniques and Tooling
-- Tools and Techniques
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

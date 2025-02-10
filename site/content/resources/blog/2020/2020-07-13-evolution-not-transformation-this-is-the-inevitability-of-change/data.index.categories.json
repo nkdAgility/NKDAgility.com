@@ -1,0 +1,42 @@
+{
+  "DevOps": {
+    "category": "DevOps",
+    "ai_confidence": 50,
+    "non_ai_confidence": 50,
+    "final_score": 50.0,
+    "reasoning": "The content discusses the need for continuous change and adaptation within organisations, which aligns with DevOps principles, but it primarily focuses on broader themes of agility and leadership rather than specific DevOps practices.",
+    "level": "Secondary"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "ai_confidence": 30,
+    "non_ai_confidence": 10,
+    "final_score": 24.0,
+    "reasoning": "The content discusses concepts related to agility and organisational change but does not focus on Azure DevOps or its specific tools and practices.",
+    "level": "Ignored"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "ai_confidence": 45,
+    "non_ai_confidence": 0,
+    "final_score": 31.0,
+    "reasoning": "The content discusses the concept of continuous change and evolution in organisations, which aligns with some Kanban principles, but it primarily focuses on broader themes of agility and leadership rather than specifically on Kanban practices.",
+    "level": "Ignored"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the need for continuous change and adaptation in organisations, which aligns with agile principles, but it primarily focuses on the philosophical aspects of change rather than specific engineering practices like TDD, CI/CD, or modular architecture.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses concepts related to agility and continuous change, which are relevant to Scrum principles, but it does not focus primarily on the Scrum framework itself.",
+    "level": "Ignored"
+  }
+}

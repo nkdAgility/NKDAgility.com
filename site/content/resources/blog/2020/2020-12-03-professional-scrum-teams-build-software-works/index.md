@@ -26,27 +26,11 @@ aliasesFor404:
 - /blog/professional-scrum-teams-build-software-that-works
 - /resources/blog/professional-scrum-teams-build-software-works
 tags:
-- Scrum Team
-- Definition of Done
-- Software Increment
-- Technical Excellence
-- Continuous Delivery
-- Agile Product Ownership
-- Accountability
-- Working Software
-- Technical Debt
-- Scrum Product Management
-- Sprint Review
-- Agile Software Development
-- DevOps
-- Continuous Improvement
-- Engineering Excellence
+- Business Agility
 categories:
+- DevOps
 - Scrum
 - Technical Excellence
-- Product Delivery
-- Value Delivery
-- People and Process
 preview: nkdAgility-PSD-Krakow-02-1-1.jpg
 
 ---

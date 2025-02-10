@@ -1,0 +1,242 @@
+{
+  "Enterprise Agility": {
+    "category": "Enterprise Agility",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS and SharePoint, with no clear discussion on enterprise agility principles or practices.",
+    "level": "Ignored"
+  },
+  "Scaling Agility": {
+    "category": "Scaling Agility",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the installation and configuration of TFS, including considerations for scaling TFS instances, which is a significant but secondary theme.",
+    "level": "Ignored"
+  },
+  "People and Process": {
+    "category": "People and Process",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the installation process of TFS and SharePoint, highlighting challenges faced during the migration and configuration, which implies a focus on the operational aspects and interactions with the customer. However, it primarily centres on technical installation details rather than a clear exploration of people and process dynamics.",
+    "level": "Ignored"
+  },
+  "Value Stream Management": {
+    "category": "Value Stream Management",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the installation and configuration of TFS and SharePoint, with no clear focus on Value Stream Management.",
+    "level": "Ignored"
+  },
+  "Lean": {
+    "category": "Lean",
+    "ai_confidence": 0,
+    "non_ai_confidence": 30,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS and SharePoint, with no clear discussion or emphasis on Lean principles or practices.",
+    "level": "Ignored"
+  },
+  "Events and Presentations": {
+    "category": "Events and Presentations",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on the technical installation and configuration of TFS and SharePoint, with no significant discussion of events or presentations.",
+    "level": "Ignored"
+  },
+  "Products and Books": {
+    "category": "Products and Books",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily discusses the installation and configuration process of TFS 2013.3 and SharePoint, with no focus on products or books.",
+    "level": "Ignored"
+  },
+  "Complexity Thinking": {
+    "category": "Complexity Thinking",
+    "ai_confidence": 45,
+    "non_ai_confidence": 0,
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS and SharePoint, with only brief mentions of complexity in the context of database creation and reporting services. Complexity Thinking is not a central theme.",
+    "level": "Ignored"
+  },
+  "Discovery and Learning": {
+    "category": "Discovery and Learning",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content provides insights into the installation process of TFS and SharePoint, which includes learning about configurations and troubleshooting, but the primary focus is on the installation steps rather than a broader theme of discovery and learning.",
+    "level": "Ignored"
+  },
+  "Decision Theory": {
+    "category": "Decision Theory",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the installation and configuration of TFS and SharePoint, with no clear focus on decision theory concepts.",
+    "level": "Ignored"
+  },
+  "Application Lifecycle Management": {
+    "category": "Application Lifecycle Management",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 59.0,
+    "reasoning": "Content primarily focuses on the installation and configuration of TFS (Team Foundation Server), which is a key component of Application Lifecycle Management, detailing the steps and considerations involved in setting up a development environment.",
+    "level": "Secondary"
+  },
+  "Code and Complexity": {
+    "category": "Code and Complexity",
+    "ai_confidence": 75,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content primarily discusses the installation and configuration of TFS and SharePoint, which involves technical processes and considerations related to code and system complexity, making it a major theme.",
+    "level": "Secondary"
+  },
+  "News and Reviews": {
+    "category": "News and Reviews",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on a technical installation process for TFS and SharePoint, with no clear news or review elements.",
+    "level": "Ignored"
+  },
+  "Install and Configuration": {
+    "category": "Install and Configuration",
+    "ai_confidence": 95,
+    "non_ai_confidence": 30,
+    "final_score": 76.0,
+    "reasoning": "Content primarily focuses on the installation and configuration process of TFS 2013.3 with SharePoint on Windows Server 2012 R2, detailing specific steps, challenges, and recommendations throughout the installation process.",
+    "level": "Secondary"
+  },
+  "Sociotechnical Systems": {
+    "category": "Sociotechnical Systems",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on the technical installation and configuration of TFS and SharePoint, with no clear emphasis on sociotechnical systems.",
+    "level": "Ignored"
+  },
+  "Flow Efficiency": {
+    "category": "Flow Efficiency",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on the installation and configuration process of TFS and SharePoint, with no clear emphasis on flow efficiency.",
+    "level": "Ignored"
+  },
+  "Miscellaneous": {
+    "category": "Miscellaneous",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2013.3 with SharePoint on Windows Server, detailing specific technical steps and issues encountered, rather than discussing miscellaneous topics.",
+    "level": "Ignored"
+  },
+  "Practical Techniques and Tooling": {
+    "category": "Practical Techniques and Tooling",
+    "ai_confidence": 95,
+    "non_ai_confidence": 10,
+    "final_score": 70.0,
+    "reasoning": "Content primarily focuses on the installation and configuration process of TFS 2013.3 with SharePoint, detailing practical steps, challenges, and tooling involved in the setup.",
+    "level": "Secondary"
+  },
+  "Value Delivery": {
+    "category": "Value Delivery",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 59.0,
+    "reasoning": "Content primarily focuses on the installation and configuration of TFS and SharePoint, detailing the steps and considerations that enhance the value delivered to the customer through effective setup and management of these systems.",
+    "level": "Secondary"
+  },
+  "Organisational Agility": {
+    "category": "Organisational Agility",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on the technical installation and configuration of TFS and SharePoint, with no clear discussion on organisational agility.",
+    "level": "Ignored"
+  },
+  "AI and Automation in Agility": {
+    "category": "AI and Automation in Agility",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the installation and configuration of TFS and SharePoint, with no clear focus on AI or automation in agility.",
+    "level": "Ignored"
+  },
+  "Market Adaptability": {
+    "category": "Market Adaptability",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2013.3 with SharePoint, detailing technical steps and challenges faced during the process, without discussing market adaptability as a central theme.",
+    "level": "Ignored"
+  },
+  "Personal": {
+    "category": "Personal",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on the technical process of installing TFS and SharePoint, with no significant emphasis on personal experiences or themes.",
+    "level": "Ignored"
+  },
+  "Resilience and Change": {
+    "category": "Resilience and Change",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on the technical installation and configuration of TFS and SharePoint, with no clear emphasis on resilience or change as a central theme.",
+    "level": "Ignored"
+  },
+  "Organisational Psychology": {
+    "category": "Organisational Psychology",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the technical installation and configuration of TFS and SharePoint, with no clear focus on organisational psychology.",
+    "level": "Ignored"
+  },
+  "Metrics and Learning": {
+    "category": "Metrics and Learning",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS and SharePoint, with no significant discussion on metrics or learning.",
+    "level": "Ignored"
+  },
+  "Transparency and Accountability": {
+    "category": "Transparency and Accountability",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on the technical aspects of installing TFS and SharePoint, with no clear discussion on transparency or accountability.",
+    "level": "Ignored"
+  },
+  "Agile Product Management": {
+    "category": "Agile Product Management",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS and SharePoint, with no significant discussion on Agile methodologies or product management principles.",
+    "level": "Ignored"
+  },
+  "Systems Thinking": {
+    "category": "Systems Thinking",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS and SharePoint, with no clear emphasis on systems thinking principles.",
+    "level": "Ignored"
+  },
+  "Product Delivery": {
+    "category": "Product Delivery",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 59.0,
+    "reasoning": "Content primarily focuses on the installation and configuration process of TFS 2013.3, detailing steps and considerations for successful product delivery.",
+    "level": "Secondary"
+  }
+}

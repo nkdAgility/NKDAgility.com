@@ -26,27 +26,25 @@ aliasesFor404:
 - /blog/what-my-father-taught-me-about-evidence-based-management-(34-years-before-it-was-invented-)
 - /resources/blog/what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented
 tags:
-- Evidence Based Management
-- Customer Satisfaction
-- Lead Time
-- Value Delivery
 - Agile Product Management
-- Agile Planning
+- Agility
 - Business Agility
-- Continuous Improvement
+- Change Management
+- Enterprise Agility
 - Evidence Based Improvement
-- Agile Product Discovery
-- Team Collaboration
-- Value Stream Management
-- Agile Strategy
-- Decision Making
-- Agile Leadership
-categories:
-- People and Process
-- Metrics and Learning
-- Value Delivery
+- Evidence Based Leadership
+- Evidence Based Management
+- Large Scale Agility
 - Organisational Agility
-- Discovery and Learning
+- People and Process
+- Scrum
+- Scrum Product Management
+- Software Development
+- Value Delivery
+categories:
+- Enterprise Agility
+- Metrics and Learning
+- Scrum
 preview: nakedalm-agility-index-7-7.png
 
 ---

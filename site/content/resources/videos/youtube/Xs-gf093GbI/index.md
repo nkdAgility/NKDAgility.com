@@ -28,29 +28,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Strategic
 - Product Strategy
-- Agile Product Management
-- Team Collaboration
+- Product Owner
 - Strategic Goals
-- Agile Product Discovery
-- Team Motivation
-- Customer Feedback Loops
-- Agile Values and Principles
-- Organisational Agility
-- Continuous Improvement
-- Discovery and Learning
-- Value Delivery
-- Employee Engagement
-- Leadership Training
-- Agile Transformation
+- People and Process
+- Product Discovery
+- Sensemaking
+- Scrum
 resourceTypes:
 - video
 categories:
-- Agile Product Management
 - People and Process
-- Value Delivery
-- Discovery and Learning
-- Organisational Agility
+- Products and Books
+- Agile Product Management
 
 ---
 ## The essence of a Product is 'The Vision'

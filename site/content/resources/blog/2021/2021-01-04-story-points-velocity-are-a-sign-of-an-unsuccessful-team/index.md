@@ -27,26 +27,10 @@ aliasesFor404:
 - /blog/story-points-&-velocity-are-a-sign-of-an-unsuccessful-team
 - /resources/blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team
 tags:
-- Scrum
-- Scrum Team
-- Scrum Product Management
-- Agile Estimation
-- Definition of Done
-- Software Increment
-- Continuous Delivery
-- Agile Planning
-- Team Collaboration
-- Evidence Based Management
-- Agile Product Management
-- Agile Values and Principles
-- Agile Transformation
-- Team Performance
+- Scrum Values
 categories:
-- Metrics and Learning
+- Kanban
 - Scrum
-- Organisational Agility
-- People and Process
-- Value Delivery
 preview: image-9-14-14.png
 
 ---

@@ -26,10 +26,11 @@ aliasesFor404:
 - /blog/a-change-for-the-better--2---aggreko-to-ssw
 - /resources/blog/a-change-for-the-better-2
 tags:
+- Agile Leadership
 - Employee Engagement
-- Team Motivation
 categories:
-- Application Lifecycle Management
+- Technical Excellence
+- Azure DevOps
 preview: metro-SSWLogo-128-link-3-1.png
 
 ---

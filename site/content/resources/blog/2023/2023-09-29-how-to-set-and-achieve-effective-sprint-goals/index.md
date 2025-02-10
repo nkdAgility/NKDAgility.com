@@ -25,20 +25,11 @@ aliasesFor404:
 - /how-to-set-and-achieve-effective-sprint-goals
 - /blog/how-to-set-and-achieve-effective-sprint-goals
 - /resources/blog/how-to-set-and-achieve-effective-sprint-goals
-tags:
-- Agile Planning
-- Team Collaboration
-- Agile Product Management
-- Value Delivery
-- Continuous Improvement
-- Agile Coaching
-- Sprint Planning Workshop
+tags: []
 categories:
-- Scrum
 - Agile Product Management
-- Value Delivery
-- People and Process
-- Transparency and Accountability
+- Product Delivery
+- Scrum
 preview: NKDAgility-technically-SetEffectiveSprintGoals-1-1.jpg
 
 ---

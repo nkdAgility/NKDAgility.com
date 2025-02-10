@@ -22,21 +22,11 @@ aliasesFor404:
 - /storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
 - /blog/storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
 - /resources/blog/storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
-tags:
-- Technical Debt
-- Team Motivation
-- Agile Software Development
-- Continuous Improvement
-- Customer Feedback Loops
-- Agile Planning
-- Transparency
-- Agile Product Management
+tags: []
 categories:
-- Product Delivery
-- Value Delivery
-- Transparency and Accountability
-- Organisational Agility
-- People and Process
+- DevOps
+- Scrum
+- Technical Excellence
 preview: image-1.jpg
 
 ---

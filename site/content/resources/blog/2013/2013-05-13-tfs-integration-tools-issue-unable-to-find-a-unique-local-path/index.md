@@ -28,10 +28,21 @@ aliasesFor404:
 - /tfs-integration-tools
 - /resources/blog/tfs-integration-tools-issue-unable-to-find-a-unique-local-path
 tags:
+- Application Lifecycle Management
+- Azure DevOps
 - Modern Source Control
-- Technical Debt
+- Operational Practices
+- Software Developers
+- Software Development
+- System Configuration
+- Technical Excellence
+- Technical Mastery
+- Troubleshooting
+- Windows
 categories:
 - Install and Configuration
+- Practical Techniques and Tooling
+- Technical Excellence
 preview: puzzle-issue-problem-128-link-2-2.png
 
 ---

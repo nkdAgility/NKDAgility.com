@@ -13,31 +13,29 @@ layout: blog
 resourceTypes: blog
 slug: were-sorry-but-you-wont-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
 aliases:
-- /blog/were-sorry-but-you-wont-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
-- /were-sorry-but-you-wont-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
-- /we’re-sorry,-but-you-won’t-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
-- /blog/we’re-sorry,-but-you-won’t-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
-- /resources/sjUCMYPEzTd
-- /we’re-sorry--but-you-won’t-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
-- /blog/we’re-sorry--but-you-won’t-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
-- /resources/blog/were-sorry-but-you-wont-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
+  - /blog/were-sorry-but-you-wont-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
+  - /were-sorry-but-you-wont-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
+  - /we’re-sorry,-but-you-won’t-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
+  - /blog/we’re-sorry,-but-you-won’t-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
+  - /resources/sjUCMYPEzTd
+  - /we’re-sorry--but-you-won’t-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
+  - /blog/we’re-sorry--but-you-won’t-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
+  - /resources/blog/were-sorry-but-you-wont-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
 aliasesFor404:
-- /were-sorry-but-you-wont-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
-- /blog/were-sorry-but-you-wont-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
-- /we’re-sorry,-but-you-won’t-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
-- /blog/we’re-sorry,-but-you-won’t-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
-- /we’re-sorry--but-you-won’t-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
-- /blog/we’re-sorry--but-you-won’t-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
-- /resources/blog/were-sorry-but-you-wont-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
+  - /were-sorry-but-you-wont-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
+  - /blog/were-sorry-but-you-wont-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
+  - /we’re-sorry,-but-you-won’t-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
+  - /blog/we’re-sorry,-but-you-won’t-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
+  - /we’re-sorry--but-you-won’t-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
+  - /blog/we’re-sorry--but-you-won’t-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
+  - /resources/blog/were-sorry-but-you-wont-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
 tags:
-- Customer Satisfaction
-- Agile Software Development
+  - Windows
+  - System Configuration
 preview: nakedalm-logo-128-link-2-2.png
 categories:
-- News and Reviews
-- Install and Configuration
-
 ---
+
 Although if you are a Windows 7 user like me, you will not be able to download the newly released [Internet Explorer 8](http://www.microsoft.com/ie8), if you have XP or Vista you can dive into the experience that many people have been using for a while now.
 
 [![image](images/1-1.png)](images/1-1.png)

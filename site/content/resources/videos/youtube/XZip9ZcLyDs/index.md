@@ -28,27 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Leadership Training
-- Team Collaboration
-- Team Motivation
+- Agility
+- Scrum
+- Scrum Master
 - Agile Leadership
-- Agile Project Management
 - Scrum Team
-- Continuous Improvement
+- Agile Pilot
+- People and Process
+- Agile Community
+- Leadership Training
+- Agile Software Engineering
+- Agile Leader
+- Coaching
 - Agile Methodology
-- Agile Product Management
-- Employee Engagement
-- Accountability
-- Agile Transformation
-- Professional Scrum
+- Featured
+- Agile Coaching
 resourceTypes:
 - video
 categories:
 - Scrum
-- Organisational Agility
 - People and Process
-- Leadership
-- Agile Product Management
+- Enterprise Agility
 
 ---
 **Why is becoming a Scrum Master a great career option?**

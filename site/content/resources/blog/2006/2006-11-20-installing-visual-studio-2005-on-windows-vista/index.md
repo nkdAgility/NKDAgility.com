@@ -22,12 +22,16 @@ aliasesFor404:
 - /blog/installing-visual-studio-2005-on-windows-vista
 - /resources/blog/installing-visual-studio-2005-on-windows-vista
 tags:
-- Agile Software Development
-- Technical Excellence
+- Windows
+- Troubleshooting
+- System Configuration
+- Software Developers
+- Software Development
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - Install and Configuration
-- Technical Excellence
+- Products and Books
+- Practical Techniques and Tooling
 
 ---
 I have just installed VS2005 on vista. Although I was setup for a whole host of problems, I had relatively few. There were some errors during the instalation. But all seams well...

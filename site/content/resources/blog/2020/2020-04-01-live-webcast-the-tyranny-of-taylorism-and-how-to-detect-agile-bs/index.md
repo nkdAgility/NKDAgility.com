@@ -25,28 +25,8 @@ aliasesFor404:
 - /the-tyranny-of-taylorism-and-how-to-detect-agile-bs
 - /blog/the-tyranny-of-taylorism-and-how-to-detect-agile-bs
 - /resources/blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
-tags:
-- Agile Transformation
-- Change Management
-- Organisational Agility
-- Agile Coaching
-- Lean Thinking
-- Continuous Improvement
-- Agile Values and Principles
-- Systems Thinking
-- Evidence Based Management
-- Agile Software Development
-- Agile Leadership
-- Agile Methodology
-- Agile Community
-- Employee Engagement
-- Agile Problem Solving
-categories:
-- Systems Thinking
-- Organisational Agility
-- People and Process
-- Events and Presentations
-- Lean
+tags: []
+categories: []
 preview: 2020-03-27_21-31-11-1-1.jpg
 
 ---

@@ -22,12 +22,19 @@ aliasesFor404:
 - /blog/rddotnet-project-created
 - /resources/blog/rddotnet-project-created
 tags:
-- Agile Software Development
+- Software Development
+- Working Software
+- System Configuration
+- Software Developers
+- Ability to Innovate
+- Software Increment
 - Technical Excellence
+- Technical Mastery
 preview: nakedalm-logo-128-link-1-1.png
 categories:
-- Application Lifecycle Management
-- Discovery and Learning
+- Code and Complexity
+- Technical Excellence
+- Practical Techniques and Tooling
 
 ---
 I have now created a new project within [CodePlex](http://www.codeplex.com "CodePlex") that encompases all of the features of WhiteLabel, but with a whole host of extras. The WhiteLabel project is now complete and a release will be uploaded as soon as [CodePlex](http://www.codeplex.com "CodePlex") starts working again.

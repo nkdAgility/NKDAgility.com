@@ -25,27 +25,8 @@ aliasesFor404:
 - /how-do-you-make-a-good-forecast-
 - /blog/how-do-you-make-a-good-forecast-
 - /resources/blog/how-do-you-make-a-good-forecast
-tags:
-- Agile Forecasting
-- Agile Planning
-- Scrum Product Management
-- Scrum Team
-- Agile Predictability
-- Evidence Based Management
-- Value Stream Management
-- Continuous Improvement
-- Agile Product Management
-- Team Collaboration
-- Change Management
-- Organisational Agility
-- Agile Transformation
-- Technical Excellence
-categories:
-- Metrics and Learning
-- Value Delivery
-- Scaling Agility
-- Organisational Agility
-- Events and Presentations
+tags: []
+categories: []
 preview: 993957510-1-1.jpg
 
 ---

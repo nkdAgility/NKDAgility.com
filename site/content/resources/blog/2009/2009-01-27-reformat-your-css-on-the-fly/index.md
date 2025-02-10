@@ -23,10 +23,9 @@ aliasesFor404:
 - /resources/blog/reformat-your-css-on-the-fly
 tags:
 - Technical Excellence
-- Continuous Delivery
+- Azure DevOps
 categories:
-- Code and Complexity
-- Application Lifecycle Management
+- Technical Excellence
 preview: metro-binary-vb-128-link-2-1.png
 
 ---

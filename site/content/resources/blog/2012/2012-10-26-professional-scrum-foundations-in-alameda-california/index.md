@@ -30,11 +30,25 @@ aliasesFor404:
 - /blog/professional-scrum-foundations-in-alameda--california
 - /resources/blog/professional-scrum-foundations-in-alameda-california
 tags:
-- Self Organisation
-- Scrum Team
-categories:
-- Scrum
+- Agile Software Development
+- Agile Software Engineering
+- Discovery and Learning
+- Empirical Process Control
 - People and Process
+- Professional Scrum
+- Scrum
+- Scrum Product Development
+- Scrum Product Management
+- Scrum Team
+- Software Development
+- Sprint Planning Workshop
+- Sprint Review
+- Team Collaboration
+- Working Software
+categories:
+- Events and Presentations
+- People and Process
+- Scrum
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

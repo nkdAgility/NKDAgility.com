@@ -21,12 +21,9 @@ aliasesFor404:
 - /visual-studio-alm-by-martin-hinshelwood-is-now-available-on-kindle
 - /blog/visual-studio-alm-by-martin-hinshelwood-is-now-available-on-kindle
 - /resources/blog/visual-studio-alm-by-martin-hinshelwood-is-now-available-on-kindle
-tags:
-- Agile Books
-- Agile Software Development
+tags: []
 categories:
 - Products and Books
-- Events and Presentations
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

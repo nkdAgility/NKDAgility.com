@@ -27,11 +27,11 @@ aliasesFor404:
 - /blog/evidence-based-management--gathering-the-metrics
 - /resources/blog/evidence-based-management-gathering-metrics
 tags:
-- Agile Strategy
-- Agile Software Development
+- Ability to Innovate
 categories:
+- DevOps
 - Scrum
-- Value Stream Management
+- Technical Excellence
 preview: naked-agility-evidence-based-management-1-1.jpg
 
 ---

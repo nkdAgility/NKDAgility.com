@@ -26,20 +26,19 @@ aliasesFor404:
 - /blog/be-a-kid-again-and-upgrade-to-windows-phone-8-1-developer-preview
 - /resources/blog/kid-upgrade-windows-phone-8-1-developer-preview
 tags:
-- Agile Product Discovery
-- Agile Software Development
-- Agile Product Management
-- Customer Feedback Loops
-- Continuous Improvement
 - Discovery and Learning
-- Technical Excellence
-- Lean Startup
-- Agile Digital Tools
-- Product Strategy
+- Experimentation
+- Featured
+- Software Development
+- Software Increment
+- System Configuration
+- Troubleshooting
+- Windows
+- Working Software
 categories:
+- Install and Configuration
 - News and Reviews
-- Discovery and Learning
-- Application Lifecycle Management
+- Practical Techniques and Tooling
 preview: nakedalm-windows-logo-6-6.png
 
 ---

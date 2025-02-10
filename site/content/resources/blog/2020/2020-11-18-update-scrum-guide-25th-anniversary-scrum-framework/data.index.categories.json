@@ -1,0 +1,42 @@
+{
+  "DevOps": {
+    "category": "DevOps",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses Scrum, which is a framework used in Agile project management, relevant to DevOps practices, but the primary focus is on the updates to the Scrum Guide rather than on DevOps as a whole.",
+    "level": "Ignored"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the updates to the Scrum Guide and Scrum roles, with no clear focus on Azure DevOps or its related tools.",
+    "level": "Ignored"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses updates to the Scrum Guide and focuses on Scrum roles and events, with no significant mention of Kanban principles or practices.",
+    "level": "Ignored"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses Scrum practices and roles, which are related to agile engineering practices, but the primary focus is on the updates to the Scrum Guide rather than on technical excellence itself.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "ai_confidence": 95,
+    "non_ai_confidence": 50,
+    "final_score": 82.0,
+    "reasoning": "Content primarily focuses on the updates to the Scrum Guide, detailing Scrum roles, events, and principles, making Scrum the central topic.",
+    "level": "Primary"
+  }
+}

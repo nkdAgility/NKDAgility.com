@@ -50,4 +50,5 @@ tags:
 - Lean Startup
 
 ---
+  
  [Watch on Youtube](https://www.youtube.com/watch?v=NWVSxs13_0A)

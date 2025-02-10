@@ -28,27 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Apocalypse
-- Team Collaboration
+- Strategic
+- Scrum
+- Agility
+- People and Process
+- Agile Software Engineering
+- Agile Project Management
+- Agile Product Management
+- Sprint Review Workshops
+- Decision Making
+- Product Owner
 - Sprint Review
-- Scrum Product Management
-- Psychological Safety
-- Agile Product Discovery
-- Value Prioritisation
-- Agile Product Ownership
-- Continuous Improvement
-- Employee Engagement
-- Agile Planning
-- Agile Values and Principles
-- Agile Transformation
+- Lean Agile
+- Agile Apocalypse
+- Agile Coaching
+- Agile Software Development
 resourceTypes:
 - video
 categories:
-- People and Process
-- Organisational Agility
+- Scrum
 - Agile Product Management
-- Value Delivery
-- Transparency and Accountability
+- People and Process
 
 ---
 # Breaking the Silence: Sparking Engagement in Agile Teams 🚀

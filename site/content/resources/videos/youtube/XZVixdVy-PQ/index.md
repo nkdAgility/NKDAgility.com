@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Coaching
-- Change Management
-- Business Agility
-- Agile Strategy
-- Systems Thinking
-- Continuous Improvement
-- Agile Transformation
-- Organisational Agility
-- Agile Values and Principles
-- Lean Thinking
-- Agile Product Discovery
-- Team Motivation
-- Employee Engagement
-- Agile Software Development
+tags: []
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Lean
-- Complexity Thinking
-- Value Delivery
+categories: []
 
 ---
 There’s a quote from Ken Schwaber, one of the co-creators of Scrum, that goes:

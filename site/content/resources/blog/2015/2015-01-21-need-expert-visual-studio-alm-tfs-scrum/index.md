@@ -29,26 +29,8 @@ aliasesFor404:
 - /do-you-need-an-expert-in-visual-studio-alm--tfs--or-scrum-
 - /blog/do-you-need-an-expert-in-visual-studio-alm--tfs--or-scrum-
 - /resources/blog/need-expert-visual-studio-alm-tfs-scrum
-tags:
-- Scrum Master
-- Agile Product Management
-- Agile Planning
-- Agile Tools
-- Agile Software Development
-- Continuous Delivery
-- Technical Excellence
-- Agile Product Ownership
-- Value Delivery
-- Agile Certification
-- Agile Project Management
-- Customer Feedback Loops
-- Evidence Based Management
-categories:
-- Application Lifecycle Management
-- Scrum
-- Azure DevOps
-- People and Process
-- News and Reviews
+tags: []
+categories: []
 preview: nakedalm-logo-260-5-5.png
 
 ---

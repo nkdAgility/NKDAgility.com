@@ -25,27 +25,8 @@ aliasesFor404:
 - /open-source-with-vsts-or-tfs-and-github-for-better-devops
 - /blog/open-source-with-vsts-or-tfs-and-github-for-better-devops
 - /resources/blog/open-source-vsts-tfs-github-better-devops
-tags:
-- Agile Tools
-- Continuous Integration
-- Automated Testing
-- Agile Software Development
-- Agile Product Management
-- Team Collaboration
-- Agile Planning
-- Azure DevOps
-- Technical Excellence
-- Value Delivery
-- Agile Transformation
-- Software Development
-- Agile Methodology
-- Collaboration Tools
-categories:
-- Azure DevOps
-- Practical Techniques and Tooling
-- Application Lifecycle Management
-- DevOps
-- Code and Complexity
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-14-14.png
 
 ---

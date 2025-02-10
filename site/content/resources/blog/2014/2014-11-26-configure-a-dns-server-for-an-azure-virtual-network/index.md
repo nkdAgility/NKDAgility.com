@@ -22,24 +22,20 @@ aliasesFor404:
 - /blog/configure-a-dns-server-for-an-azure-virtual-network
 - /resources/blog/configure-a-dns-server-for-an-azure-virtual-network
 tags:
-- Azure DevOps
-- Azure Pipelines
-- Azure Boards
-- Agile Software Development
-- Continuous Delivery
-- Technical Excellence
-- Site Reliability Engineering
-- Application Lifecycle Management
-- Agile Methodology
 - DevOps
-- Agile Project Management
-- Agile Product Management
-- Value Delivery
-- Systems Thinking
-- Organisational Agility
+- Engineering Practices
+- Featured
+- Operational Practices
+- Site Reliability
+- Software Developers
+- Software Development
+- System Configuration
+- Technical Excellence
+- Technical Mastery
+- Working Software
 categories:
 - Install and Configuration
-- Azure DevOps
+- Practical Techniques and Tooling
 - Technical Excellence
 preview: nakedalm-windows-logo-4-4.png
 

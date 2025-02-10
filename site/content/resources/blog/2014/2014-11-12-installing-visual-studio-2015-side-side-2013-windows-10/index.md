@@ -26,23 +26,20 @@ aliasesFor404:
 - /blog/installing-visual-studio-2015-side-by-side-with-2013-on-windows-10
 - /resources/blog/installing-visual-studio-2015-side-side-2013-windows-10
 tags:
-- Agile Software Development
-- Continuous Delivery
-- Technical Excellence
+- Featured
+- MVP
+- Software Developers
 - Software Development
-- Agile Product Management
-- Agile Tools
-- Agile Product Ownership
-- Deployment Strategies
-- Agile Frameworks
-- Value Delivery
-- Customer Feedback Loops
-- Agile Digital Tools
-- Evidence Based Management
-- Lean Principles
+- Software Increment
+- System Configuration
+- Technical Excellence
+- Technical Mastery
+- Troubleshooting
+- Windows
+- Working Software
 categories:
 - Install and Configuration
-- News and Reviews
+- Practical Techniques and Tooling
 - Products and Books
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 

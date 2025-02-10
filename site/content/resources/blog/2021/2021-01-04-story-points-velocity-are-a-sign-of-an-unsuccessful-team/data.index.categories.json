@@ -1,0 +1,42 @@
+{
+  "DevOps": {
+    "category": "DevOps",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses Agile practices and Scrum, which are related to DevOps principles, but the primary focus is on the critique of Story Points and Velocity rather than on the integration of people, processes, and tools for continuous delivery.",
+    "level": "Ignored"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses Scrum practices, specifically the use of Story Points and Velocity, without any mention of Azure DevOps or related tools.",
+    "level": "Ignored"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "ai_confidence": 75,
+    "non_ai_confidence": 30,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of understanding delivery confidence and transparency, which aligns with Kanban principles. However, the primary focus is on critiquing Scrum practices rather than Kanban itself.",
+    "level": "Secondary"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses Agile practices and the use of Story Points and Velocity, which are related to engineering practices that enable agility, but the primary focus is on critiquing these practices rather than on TDD, CI/CD, or modular architecture.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "ai_confidence": 92,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "Content heavily discusses the misconceptions surrounding Story Points and Velocity in the context of the Scrum framework, emphasising their lack of formal inclusion in Scrum practices and the importance of understanding Scrum principles.",
+    "level": "Secondary"
+  }
+}

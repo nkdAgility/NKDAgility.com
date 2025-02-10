@@ -25,28 +25,9 @@ aliasesFor404:
 - /live-webcast--q&amp;a-with-martin-hinshelwood-on-27th-march-2020
 - /blog/live-webcast--q&amp;a-with-martin-hinshelwood-on-27th-march-2020
 - /resources/blog/live-webcast-qa-with-martin-hinshelwood-on-27th-march-2020
-tags:
-- Scrum Team
-- Professional Scrum
-- Agile Product Discovery
-- Lean UX
-- Team Collaboration
-- Agile Coaching
-- Customer Feedback Loops
-- Agile Product Management
-- Continuous Improvement
-- Agile Software Development
-- Agile Values and Principles
-- Discovery and Learning
-- Agile Mentoring
-- Agile Frameworks
-- Agile Digital Tools
+tags: []
 categories:
-- Events and Presentations
-- Agile Product Management
-- People and Process
 - Scrum
-- Discovery and Learning
 preview: 2020-03-27_21-33-56-1-1.jpg
 
 ---

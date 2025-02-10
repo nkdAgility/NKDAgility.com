@@ -27,19 +27,24 @@ aliasesFor404:
 - /resources/blog/installing-release-management-client-visual-studio-2013
 tags:
 - Agile Tools
+- Application Lifecycle Management
+- Azure DevOps
+- CI/CD
 - Continuous Delivery
-- Deployment Strategies
-- Release Planning
-- Agile Software Development
-- Technical Excellence
-- Customer Feedback Loops
-- Evidence Based Improvement
-- Agile Project Management
-- Application Lifecycle Management
-categories:
-- Install and Configuration
-- Application Lifecycle Management
 - DevOps
+- Operational Practices
+- Release Planning
+- Software Developers
+- Software Development
+- Software Increment
+- System Configuration
+- Technical Excellence
+- Technical Mastery
+- Windows
+categories:
+- Application Lifecycle Management
+- Install and Configuration
+- Practical Techniques and Tooling
 
 ---
 With the addition of the new Release Management Client for Visual Studio 2013 to the Visual Studio ALM roundup many folks are going to be giving it a go. If you might remember some of my post during the preview days of this tool there were some issue with installing it. It looks like Microsoft has gotten most of them sorted out and I can now get everything installed.

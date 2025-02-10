@@ -1,13 +1,22 @@
+
 # Helpers
+. ./.powershell/_includes/LoggingHelper.ps1
 . ./.powershell/_includes/OpenAI.ps1
 . ./.powershell/_includes/HugoHelpers.ps1
 . ./.powershell/_includes/ResourceHelpers.ps1
+. ./.powershell/_includes/ClassificationHelpers.ps1
+
+
+$levelSwitch.MinimumLevel = 'Debug'
 
 # Iterate through each blog folder and update markdown files
-$outputDir = ".\site\content\resources\blog"
+$outputDir = ".\site\content\resources\blog\"
 
 # Get list of directories and select the first 10
-$resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md" #| Select-Object -First 10
+$resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md"  | Sort-Object { $_ } -Descending | Select-Object -First 300 
+
+$categoriesCatalog = Get-CatalogHashtable -Classification "categories"
+$tagsCatalog = Get-CatalogHashtable -Classification "tags"
 
 # Initialize a hash table to track counts of each ResourceType
 $resourceTypeCounts = @{}
@@ -21,17 +30,17 @@ $resources | ForEach-Object {
     $Counter++
     $PercentComplete = ($Counter / $TotalFiles) * 100
 
-    Write-Progress -Activity "Processing Markdown Files" -Status "Processing $Counter of $TotalFiles" -PercentComplete $PercentComplete
-
 
     $resourceDir = (Get-Item -Path $_).DirectoryName
     $markdownFile = $_
-    Write-Host "--------------------------------------------------------"
-    Write-Host "Processing post: $resourceDir"
+    Write-InfoLog "--------------------------------------------------------"
+    Write-InfoLog "Processing post: $(Resolve-Path -Path $resourceDir -Relative)"
     if ((Test-Path $markdownFile)) {
 
         # Load markdown as HugoMarkdown object
         $hugoMarkdown = Get-HugoMarkdown -Path $markdownFile
+
+        Write-Progress -id 1 -Activity "Processing Markdown Files" -Status "Processing $Counter ('$($hugoMarkdown.FrontMatter.date)') of $TotalFiles" -PercentComplete $PercentComplete
 
         #=================CLEAN============================
         Remove-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'id'
@@ -61,8 +70,11 @@ $resources | ForEach-Object {
         Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceType' -fieldValue $ResourceType -addAfter 'ResourceId' -Overwrite
 
         #=================ResourceImport+=================
-        if (Test-Path (Join-Path $resourceDir "data.yaml" ) || Test-Path (Join-Path $resourceDir "data.json" )) {
+        if ( (Test-Path (Join-Path $resourceDir "data.yaml" )) -or (Test-Path (Join-Path $resourceDir "data.json" ))) {
             $ResourceImport = $true
+        }
+        else {
+            $ResourceImport = $false
         }
         Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImport' -fieldValue $ResourceImport -addAfter 'ResourceId' -Overwrite
         if ($hugoMarkdown.FrontMatter.ResourceImport) {
@@ -133,10 +145,7 @@ $resources | ForEach-Object {
             Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliasesFor404' -values $404aliases -addAfter 'aliases'
         }
 
-        #================Catsagories & TAGS==========================
-        . ./.powershell/single-use/resources/Update-Catagories.ps1
-       
-        $year = [datetime]::Parse($hugoMarkdown.FrontMatter.date).Year
+        #================Themes, Categories, & TAGS==========================
         $BodyContent = $hugoMarkdown.BodyContent
         If ($hugoMarkdown.FrontMatter.ResourceType -eq "videos") {
             $captionsPath = Join-Path $resourceDir "index.captions.en.md"
@@ -145,29 +154,18 @@ $resources | ForEach-Object {
             }
         }
         #-----------------Categories-------------------
-        $unknownCategories = @();
-        if ($hugoMarkdown.FrontMatter.Contains("categories")) {
-            $unknownCategories = $hugoMarkdown.FrontMatter.categories | Where-Object { -not $CatalogCategories.ContainsKey($_) }
-        }       
-        If ($unknownCategories.Count -gt 0 -or -not $hugoMarkdown.FrontMatter.Contains("categories") -or ($hugoMarkdown.FrontMatter.categories -is [array] -and $hugoMarkdown.FrontMatter.categories.Count -eq 0)) {
-            $newCatagories = Get-UpdatedCategories -CurrentCategories $hugoMarkdown.FrontMatter.categories -Catalog $CatalogCategories -ResourceContent $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -ResourceYear $year -MaxCategories 7 -MinCategories 3
-            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values $newCatagories -Overwrite
-        } 
+        $categoryClassification = Get-CategoryConfidenceWithChecksum -ClassificationType "categories" -Catalog $categoriesCatalog -CacheFolder $resourceDir -ResourceContent  $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -MaxCategories 3
+        $categories = $categoryClassification | ConvertFrom-Json | ForEach-Object { $_.category } | Sort-Object
+        Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values @($categories) -Overwrite
         #-----------------Tags-------------------
-        $unknownTags = @();
-        if ($hugoMarkdown.FrontMatter.Contains("tags")) {
-            $unknownTags = $hugoMarkdown.FrontMatter.tags | Where-Object { -not $CatalogTags.ContainsKey($_) }
-        }       
-        If ($unknownTags.Count -gt 0 -or -not $hugoMarkdown.FrontMatter.Contains("tags") -or ($hugoMarkdown.FrontMatter.tags -is [array] -and $hugoMarkdown.FrontMatter.tags.Count -eq 0)) {
-            $newtags = Get-UpdatedCategories -CurrentCategories $hugoMarkdown.FrontMatter.tags -Catalog $CatalogTags -ResourceContent $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -ResourceYear $year -MaxCategories 15 -MinCategories 10 
-            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values $newtags -Overwrite
-        } 
-        
+        $tagClassification = Get-CategoryConfidenceWithChecksum -ClassificationType "tags" -Catalog $tagsCatalog -CacheFolder $resourceDir -ResourceContent  $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -MaxCategories 15
+        $tags = $tagClassification | ConvertFrom-Json | ForEach-Object { $_.category } | Sort-Object
+        Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values @($tags) -Overwrite
         # =================COMPLETE===================
         Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $markdownFile
     }
     else {
-        Write-Host "Skipping folder: $blogDir (missing index.md)"
+        Write-InfoLog "Skipping folder: $blogDir (missing index.md)"
     }
     # Track count of ResourceType
     if ($resourceTypeCounts.ContainsKey($ResourceType)) {
@@ -177,8 +175,8 @@ $resources | ForEach-Object {
         $resourceTypeCounts[$ResourceType] = 1
     }
 }
-
-Write-Host "All markdown files processed."
-Write-Host "--------------------------------------------------------"
-Write-Host "Summary of updated Resource Types:"
-$resourceTypeCounts.GetEnumerator() | ForEach-Object { Write-Host "$($_.Key): $($_.Value)" }
+Write-Progress -id 1 -Completed
+Write-InfoLog "All markdown files processed."
+Write-InfoLog "--------------------------------------------------------"
+Write-InfoLog "Summary of updated Resource Types:"
+$resourceTypeCounts.GetEnumerator() | ForEach-Object { Write-InfoLog "$($_.Key): $($_.Value)" }

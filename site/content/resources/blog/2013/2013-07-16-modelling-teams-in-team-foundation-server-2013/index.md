@@ -22,11 +22,25 @@ aliasesFor404:
 - /blog/modelling-teams-in-team-foundation-server-2013
 - /resources/blog/modelling-teams-in-team-foundation-server-2013
 tags:
-- Application Lifecycle Management
+- Agile Planning Tools
 - Agile Tools
+- Application Lifecycle Management
+- Collaboration Tools
+- Cross Functional Teams
+- Engineering Practices
+- Modern Source Control
+- Operational Practices
+- People and Process
+- Software Developers
+- System Configuration
+- Team Collaboration
+- Technical Excellence
+- Technical Mastery
+- Windows
 categories:
-- Azure DevOps
-- Install and Configuration
+- Application Lifecycle Management
+- People and Process
+- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

@@ -1,0 +1,42 @@
+{
+  "DevOps": {
+    "category": "DevOps",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses Kanban and its application in Scrum, which are relevant to DevOps practices, but the primary focus is on training and certification rather than continuous delivery or value delivery processes.",
+    "level": "Ignored"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses Kanban and Scrum methodologies, training, and resources, with no clear focus on Azure DevOps or its related tools.",
+    "level": "Ignored"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "ai_confidence": 92,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "The content primarily discusses the Professional Kanban Trainer role, the Kanban Guide, and the application of Kanban principles and practices, making Kanban the central theme.",
+    "level": "Secondary"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses Kanban principles and practices, which are relevant to agile engineering practices, but the primary focus is on training and certification rather than on technical excellence itself.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "ai_confidence": 50,
+    "non_ai_confidence": 50,
+    "final_score": 50.0,
+    "reasoning": "The content discusses the relationship between Kanban and Scrum, particularly in the context of training and certification, indicating that Scrum is a significant theme but not the primary focus.",
+    "level": "Secondary"
+  }
+}

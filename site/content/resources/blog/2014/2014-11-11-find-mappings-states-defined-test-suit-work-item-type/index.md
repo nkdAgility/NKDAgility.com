@@ -26,22 +26,25 @@ aliasesFor404:
 - /blog/could-not-find-mappings-for-all-states-defined-in-'test-suit'-work-item-type
 - /resources/blog/find-mappings-states-defined-test-suit-work-item-type
 tags:
-- Agile Software Development
-- Test Driven Development
-- Automated Testing
-- Continuous Integration
-- Technical Excellence
-- Agile Project Management
-- Agile Tools
+- Application Lifecycle Management
 - Azure DevOps
-- Test Strategy
-- Continuous Delivery
-- Agile Methodology
+- DevOps
+- Engineering Practices
+- Operational Practices
+- Pragmatic Thinking
+- Software Developers
 - Software Development
-- Agile Product Management
-- Value Delivery
-categories:
+- System Configuration
 - Technical Excellence
+- Technical Mastery
+- Test Automation
+- Test Strategy
+- Troubleshooting
+- Working Software
+categories:
+- Code and Complexity
+- Install and Configuration
+- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

@@ -30,27 +30,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Scrum
+- Agility
+- Agile Frameworks
 - Scrum Master
-- Scrum Team
 - Agile Values and Principles
-- Continuous Improvement
-- Empirical Process Control
-- Technical Excellence
-- Agile Product Management
-- Team Collaboration
-- Agile Methodology
-- Lean Principles
-- Agile Product Discovery
-- Value Delivery
+- Agile Community
+- Agile Software Development
+- Adaptive Strategy
+- Agile Coaching
+- Agile Evolution
 - Pragmatic Thinking
+- Agile Methodology
+- Agile Problem Solving
+- Agile Software Engineering
+- Lean Agile
 resourceTypes:
 - video
 categories:
 - Scrum
 - People and Process
-- Discovery and Learning
-- Value Delivery
-- Technical Excellence
+- Enterprise Agility
 
 ---
 ## The Golden Nugget of Scrum Advice I've Ever Received

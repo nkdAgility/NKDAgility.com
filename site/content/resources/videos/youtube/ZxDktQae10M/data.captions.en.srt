@@ -1,0 +1,2869 @@
+1
+00:00:01,750 --> 00:00:08,790
+[Music]
+
+2
+00:00:04,879 --> 00:00:12,389
+my name is Martin I work for a company
+
+3
+00:00:08,790 --> 00:00:14,849
+called naked agility in Scotland doing
+
+4
+00:00:12,389 --> 00:00:18,170
+digital transformations DevOps agile
+
+5
+00:00:14,849 --> 00:00:21,150
+with lots of customers I
+
+6
+00:00:18,170 --> 00:00:24,029
+want to talk a little bit about the vs
+
+7
+00:00:21,150 --> 00:00:25,859
+TS sync migration tools but the first
+
+8
+00:00:24,029 --> 00:00:27,510
+thing I want to mention is that there
+
+9
+00:00:25,859 --> 00:00:30,960
+are more than one there's more than one
+
+10
+00:00:27,510 --> 00:00:35,670
+option for migrating from TFS to VST s
+
+11
+00:00:30,960 --> 00:00:37,489
+if you are taking you want to take your
+
+12
+00:00:35,670 --> 00:00:40,170
+entire collection
+
+13
+00:00:37,489 --> 00:00:43,710
+so you want to migrate your entire
+
+14
+00:00:40,170 --> 00:00:45,420
+organization from TFS to the STS then
+
+15
+00:00:43,710 --> 00:00:48,870
+the primary option you should be
+
+16
+00:00:45,420 --> 00:00:51,120
+considering is the VST S migration
+
+17
+00:00:48,870 --> 00:00:55,199
+services from Microsoft
+
+18
+00:00:51,120 --> 00:00:57,989
+this tool is a full fool ish fidelity
+
+19
+00:00:55,199 --> 00:00:59,399
+service if you go to the URL at the
+
+20
+00:00:57,989 --> 00:01:01,469
+bottom of the screen there you will be
+
+21
+00:00:59,399 --> 00:01:03,270
+able to see the caveats for what they do
+
+22
+00:01:01,469 --> 00:01:06,150
+but they basically take your entire
+
+23
+00:01:03,270 --> 00:01:08,700
+database your collection and the import
+
+24
+00:01:06,150 --> 00:01:11,010
+into the STS this means that you will
+
+25
+00:01:08,700 --> 00:01:13,189
+have a little bit of downtime depending
+
+26
+00:01:11,010 --> 00:01:17,570
+on the size of your collection I've done
+
+27
+00:01:13,189 --> 00:01:21,720
+small collections from I don't know
+
+28
+00:01:17,570 --> 00:01:23,250
+50 50 gig 58 collection that took a
+
+29
+00:01:21,720 --> 00:01:26,939
+couple of hours to do the migration and
+
+30
+00:01:23,250 --> 00:01:30,509
+I've also done a two terabyte two and a
+
+31
+00:01:26,939 --> 00:01:33,290
+half terabyte collections which took 40
+
+32
+00:01:30,509 --> 00:01:36,329
+40 odd hours to do the migration
+
+33
+00:01:33,290 --> 00:01:38,340
+the bigger the data the more complicated
+
+34
+00:01:36,329 --> 00:01:40,759
+it is moving that amount of data around
+
+35
+00:01:38,340 --> 00:01:43,470
+because you have to get it up into
+
+36
+00:01:40,759 --> 00:01:45,840
+onto a juror and then Microsoft have to
+
+37
+00:01:43,470 --> 00:01:47,790
+pull from that location into their
+
+38
+00:01:45,840 --> 00:01:51,420
+service which then processes your data
+
+39
+00:01:47,790 --> 00:01:53,670
+into VSDs but it is as close to filt
+
+40
+00:01:51,420 --> 00:01:55,280
+fidelity as you will get and Microsoft
+
+41
+00:01:53,670 --> 00:01:58,409
+are working to make that full fidelity
+
+42
+00:01:55,280 --> 00:02:01,500
+migration as powerful as possible so if
+
+43
+00:01:58,409 --> 00:02:04,409
+you have an option take the VST s
+
+44
+00:02:01,500 --> 00:02:07,649
+migration services option that is your
+
+45
+00:02:04,409 --> 00:02:11,580
+primary go to if however you have a
+
+46
+00:02:07,649 --> 00:02:12,660
+different scenario maybe you don't want
+
+47
+00:02:11,580 --> 00:02:14,580
+to move
+
+48
+00:02:12,660 --> 00:02:17,130
+your entire collection just now you only
+
+49
+00:02:14,580 --> 00:02:21,990
+want to move a few team projects up to
+
+50
+00:02:17,130 --> 00:02:25,140
+the STS or M you have five projects in
+
+51
+00:02:21,990 --> 00:02:28,290
+TFS and you want to end up with one team
+
+52
+00:02:25,140 --> 00:02:30,990
+project in V STS or you have one project
+
+53
+00:02:28,290 --> 00:02:35,040
+in TFS and you want to end up with 5 and
+
+54
+00:02:30,990 --> 00:02:37,350
+V STS then the V STS migration service
+
+55
+00:02:35,040 --> 00:02:39,720
+from Microsoft is not going to be able
+
+56
+00:02:37,350 --> 00:02:42,030
+to fill that need that's one of the
+
+57
+00:02:39,720 --> 00:02:45,600
+reasons that I created the V STS sync
+
+58
+00:02:42,030 --> 00:02:47,730
+migration tools its coped by query so
+
+59
+00:02:45,600 --> 00:02:49,140
+basically if you can query it there are
+
+60
+00:02:47,730 --> 00:02:50,460
+certain things that are the bounds of
+
+61
+00:02:49,140 --> 00:02:52,050
+the team project we'll talk about those
+
+62
+00:02:50,460 --> 00:02:55,530
+as we go through but it's generally
+
+63
+00:02:52,050 --> 00:02:58,470
+scoped by query and it is not even close
+
+64
+00:02:55,530 --> 00:03:01,050
+to full fidelity I've written a bunch of
+
+65
+00:02:58,470 --> 00:03:03,210
+processors I've had help from many
+
+66
+00:03:01,050 --> 00:03:03,980
+contributors to the project to add
+
+67
+00:03:03,210 --> 00:03:06,830
+additional
+
+68
+00:03:03,980 --> 00:03:12,600
+processors that are importing data from
+
+69
+00:03:06,830 --> 00:03:15,270
+one TFS /v STS location to another so
+
+70
+00:03:12,600 --> 00:03:16,980
+because the tools don't really care
+
+71
+00:03:15,270 --> 00:03:20,550
+where your data is and where it's going
+
+72
+00:03:16,980 --> 00:03:23,790
+to you can do TFS two-tier fast TFS the
+
+73
+00:03:20,550 --> 00:03:25,560
+VST SV STS to tier 5 TF fast you can
+
+74
+00:03:23,790 --> 00:03:27,690
+split team projects you can merge team
+
+75
+00:03:25,560 --> 00:03:30,540
+projects you can pull a subset of the
+
+76
+00:03:27,690 --> 00:03:34,260
+data out of one push it into another you
+
+77
+00:03:30,540 --> 00:03:36,360
+can do bulk updates you can do all sorts
+
+78
+00:03:34,260 --> 00:03:37,790
+of things I did I have done bulk updates
+
+79
+00:03:36,360 --> 00:03:42,870
+where
+
+80
+00:03:37,790 --> 00:03:46,980
+the customer wanted to migrate from the
+
+81
+00:03:42,870 --> 00:03:50,580
+agile template in TFS to the scrum
+
+82
+00:03:46,980 --> 00:03:53,700
+template in TFS so one of the tools that
+
+83
+00:03:50,580 --> 00:03:56,220
+I used to do that was this one with the
+
+84
+00:03:53,700 --> 00:03:58,260
+bulk update I have a bulk update
+
+85
+00:03:56,220 --> 00:03:59,820
+processor in there and you can give a
+
+86
+00:03:58,260 --> 00:04:01,830
+bunch give it a bunch of field mappings
+
+87
+00:03:59,820 --> 00:04:05,130
+and it allows you to process the data
+
+88
+00:04:01,830 --> 00:04:07,500
+from one format into another format in
+
+89
+00:04:05,130 --> 00:04:09,090
+place on your TFS server so you can
+
+90
+00:04:07,500 --> 00:04:11,010
+basically migrate process template you
+
+91
+00:04:09,090 --> 00:04:13,440
+can do all sorts of things it's a pretty
+
+92
+00:04:11,010 --> 00:04:15,060
+versatile tool set unfortunately with a
+
+93
+00:04:13,440 --> 00:04:17,489
+versatile tool set comes a lot of
+
+94
+00:04:15,060 --> 00:04:21,930
+complexity hence there's been a lot of
+
+95
+00:04:17,489 --> 00:04:23,460
+asks from users of the system for maybe
+
+96
+00:04:21,930 --> 00:04:27,010
+a little bit of an intro walkthrough
+
+97
+00:04:23,460 --> 00:04:28,350
+figure out how to how to move this
+
+98
+00:04:27,010 --> 00:04:31,870
+through
+
+99
+00:04:28,350 --> 00:04:34,090
+so just our word on support for these
+
+100
+00:04:31,870 --> 00:04:37,930
+tools who supports them well ultimately
+
+101
+00:04:34,090 --> 00:04:40,150
+I do mostly but there are a bunch of
+
+102
+00:04:37,930 --> 00:04:43,210
+Microsoft MVPs that are part of the
+
+103
+00:04:40,150 --> 00:04:44,830
+community some other TFS V STS
+
+104
+00:04:43,210 --> 00:04:46,870
+consultants out there have been
+
+105
+00:04:44,830 --> 00:04:48,310
+contributing and then just people who
+
+106
+00:04:46,870 --> 00:04:50,560
+are interesting people who have that
+
+107
+00:04:48,310 --> 00:04:53,260
+problem to solve if you're in a company
+
+108
+00:04:50,560 --> 00:04:54,640
+and you've been told go figure out how
+
+109
+00:04:53,260 --> 00:04:56,740
+to move this data from one place to
+
+110
+00:04:54,640 --> 00:04:59,260
+another you might end up with my tool
+
+111
+00:04:56,740 --> 00:05:02,890
+and you're going to figure out how to
+
+112
+00:04:59,260 --> 00:05:05,020
+use it we are currently on we've had a
+
+113
+00:05:02,890 --> 00:05:08,260
+hundred and thirty three releases of our
+
+114
+00:05:05,020 --> 00:05:09,880
+product so we are on a continuous
+
+115
+00:05:08,260 --> 00:05:12,580
+delivery pipeline so basically that
+
+116
+00:05:09,880 --> 00:05:14,290
+might be five releases in a week or it
+
+117
+00:05:12,580 --> 00:05:15,850
+might be five releases in a month or it
+
+118
+00:05:14,290 --> 00:05:17,800
+might be no releases in a month it
+
+119
+00:05:15,850 --> 00:05:20,460
+depends what changes people are making
+
+120
+00:05:17,800 --> 00:05:24,220
+what pull requests they're submitting
+
+121
+00:05:20,460 --> 00:05:27,160
+the source code is all in VST s so we
+
+122
+00:05:24,220 --> 00:05:29,290
+build the product in VST s so source
+
+123
+00:05:27,160 --> 00:05:32,410
+code build release all of those things
+
+124
+00:05:29,290 --> 00:05:35,320
+are there however we mirror that code to
+
+125
+00:05:32,410 --> 00:05:37,150
+github in an automated process so we
+
+126
+00:05:35,320 --> 00:05:40,750
+accept pull requests from both locations
+
+127
+00:05:37,150 --> 00:05:42,940
+if you're a trustee to contributor will
+
+128
+00:05:40,750 --> 00:05:46,930
+maybe give you the keys to the VST s a
+
+129
+00:05:42,940 --> 00:05:48,550
+team project and that's that's a smaller
+
+130
+00:05:46,930 --> 00:05:51,729
+number of contributors in there but
+
+131
+00:05:48,550 --> 00:05:56,860
+we've had 54 pull requests inside of es
+
+132
+00:05:51,729 --> 00:05:59,650
+TS we also take general public non trust
+
+133
+00:05:56,860 --> 00:06:02,740
+eat contributions and if you make a
+
+134
+00:05:59,650 --> 00:06:04,720
+number of submissions on github and we
+
+135
+00:06:02,740 --> 00:06:07,120
+like your code maybe we'll make you a
+
+136
+00:06:04,720 --> 00:06:09,820
+contributor in VST s but at the moment
+
+137
+00:06:07,120 --> 00:06:12,790
+we have 12 people who have contributed
+
+138
+00:06:09,820 --> 00:06:14,380
+reasonably regularly to the project and
+
+139
+00:06:12,790 --> 00:06:17,020
+you can find all of that information on
+
+140
+00:06:14,380 --> 00:06:19,630
+github apart from the VST s specific
+
+141
+00:06:17,020 --> 00:06:23,919
+stuff but we publish all of our releases
+
+142
+00:06:19,630 --> 00:06:25,560
+to github and to chocolaty so I'll show
+
+143
+00:06:23,919 --> 00:06:27,669
+you how that works
+
+144
+00:06:25,560 --> 00:06:29,860
+so I'm going to do a quick run-through I
+
+145
+00:06:27,669 --> 00:06:32,860
+want to show you how to find the tools
+
+146
+00:06:29,860 --> 00:06:36,430
+how to install the tools just a quick
+
+147
+00:06:32,860 --> 00:06:37,790
+overview of how to how to run the tools
+
+148
+00:06:36,430 --> 00:06:38,650
+and
+
+149
+00:06:37,790 --> 00:06:44,410
+how to
+
+150
+00:06:38,650 --> 00:06:44,410
+get some kind of meaningful execution
+
+151
+00:06:46,450 --> 00:06:52,070
+okay so first how do we find the tools
+
+152
+00:06:50,210 --> 00:06:55,190
+well the first thing you're going to do
+
+153
+00:06:52,070 --> 00:06:59,690
+is you're going to search our four V STS
+
+154
+00:06:55,190 --> 00:07:02,060
+migration and your first result is
+
+155
+00:06:59,690 --> 00:07:03,010
+always going to be the Microsoft full
+
+156
+00:07:02,060 --> 00:07:05,810
+fidelity
+
+157
+00:07:03,010 --> 00:07:09,580
+migration that's the one you want to use
+
+158
+00:07:05,810 --> 00:07:12,920
+if you can but if I put tools on the end
+
+159
+00:07:09,580 --> 00:07:15,770
+you'll see that VST s migration tools
+
+160
+00:07:12,920 --> 00:07:18,470
+pulls up the VST s sync migration tool
+
+161
+00:07:15,770 --> 00:07:20,570
+on the visual studio marketplace so you
+
+162
+00:07:18,470 --> 00:07:23,390
+can go in there and you can get some
+
+163
+00:07:20,570 --> 00:07:26,270
+basic information about about the tool
+
+164
+00:07:23,390 --> 00:07:28,790
+there's links to some documentation some
+
+165
+00:07:26,270 --> 00:07:31,040
+external review information links into
+
+166
+00:07:28,790 --> 00:07:32,680
+the github repo and what version we're
+
+167
+00:07:31,040 --> 00:07:34,820
+currently on
+
+168
+00:07:32,680 --> 00:07:37,940
+so there's some pretty useful things
+
+169
+00:07:34,820 --> 00:07:39,560
+there and to get if you could getting
+
+170
+00:07:37,940 --> 00:07:42,650
+started at the top there it will
+
+171
+00:07:39,560 --> 00:07:43,970
+actually take you through to the the git
+
+172
+00:07:42,650 --> 00:07:45,830
+repo which actually has some of the same
+
+173
+00:07:43,970 --> 00:07:48,230
+information but if you want to get the
+
+174
+00:07:45,830 --> 00:07:51,340
+tools the recommended installation is
+
+175
+00:07:48,230 --> 00:07:54,530
+from chocolaty
+
+176
+00:07:51,340 --> 00:07:57,920
+ok so there's been over 3,000 downloads
+
+177
+00:07:54,530 --> 00:07:58,990
+on chocolaty this is by far the most
+
+178
+00:07:57,920 --> 00:08:02,350
+common way
+
+179
+00:07:58,990 --> 00:08:05,060
+to install it and
+
+180
+00:08:02,350 --> 00:08:08,900
+we push out the bits automatically here
+
+181
+00:08:05,060 --> 00:08:11,540
+and so you can dynamically update your
+
+182
+00:08:08,900 --> 00:08:15,940
+your install pretty pretty quickly when
+
+183
+00:08:11,540 --> 00:08:15,940
+women releases go out so let me first
+
+184
+00:08:22,300 --> 00:08:27,290
+okay so if you once you have a para
+
+185
+00:08:25,130 --> 00:08:30,680
+shell window up you want to go to the
+
+186
+00:08:27,290 --> 00:08:33,820
+home page of chocolaty org and you can
+
+187
+00:08:30,680 --> 00:08:35,540
+click the Install Now button and
+
+188
+00:08:33,820 --> 00:08:38,990
+you'll see there are a number of
+
+189
+00:08:35,540 --> 00:08:43,310
+different ways to install it we're going
+
+190
+00:08:38,990 --> 00:08:48,040
+to install it with perish out so we need
+
+191
+00:08:43,310 --> 00:08:48,040
+to run this little command here
+
+192
+00:08:49,090 --> 00:08:53,170
+so I'm just gonna copy it right
+
+193
+00:08:55,030 --> 00:09:00,800
+click and run that command now what
+
+194
+00:08:59,240 --> 00:09:02,960
+that's going to do is it going to go and
+
+195
+00:09:00,800 --> 00:09:05,210
+get the chocolaty bets and install
+
+196
+00:09:02,960 --> 00:09:07,670
+chocolaty on your machine chocolaty is
+
+197
+00:09:05,210 --> 00:09:08,930
+just a tool for installing packages so
+
+198
+00:09:07,670 --> 00:09:11,330
+it's kind of like a package management
+
+199
+00:09:08,930 --> 00:09:13,550
+system built around PowerShell so it
+
+200
+00:09:11,330 --> 00:09:15,890
+allows you to install any of the things
+
+201
+00:09:13,550 --> 00:09:21,290
+that are on chocolaty with a simple
+
+202
+00:09:15,890 --> 00:09:25,210
+command line this is just a simple tool
+
+203
+00:09:21,290 --> 00:09:25,210
+that allows us to do that
+
+204
+00:09:25,720 --> 00:09:33,250
+okay so I'm gonna close that window
+
+205
+00:09:29,710 --> 00:09:33,250
+I'm gonna go back to
+
+206
+00:09:33,820 --> 00:09:39,740
+our Sigma greater there we go we've got
+
+207
+00:09:36,680 --> 00:09:41,900
+our scene migrator so in order to
+
+208
+00:09:39,740 --> 00:09:46,150
+install never get chocolaty installed
+
+209
+00:09:41,900 --> 00:09:48,160
+I'm gonna open our parser window
+
+210
+00:09:46,150 --> 00:09:52,250
+and
+
+211
+00:09:48,160 --> 00:09:54,820
+this time I'm gonna run chaco install vs
+
+212
+00:09:52,250 --> 00:09:59,080
+TS sync migrator
+
+213
+00:09:54,820 --> 00:09:59,080
+since jockle DS installed scanner right
+
+214
+00:10:05,500 --> 00:10:09,970
+okay so now that its installed
+
+215
+00:10:12,690 --> 00:10:17,040
+on your C Drive you'll have a tools
+
+216
+00:10:14,850 --> 00:10:19,259
+folder and instead the tools folder
+
+217
+00:10:17,040 --> 00:10:22,139
+you'll have a VST s sync migration
+
+218
+00:10:19,259 --> 00:10:25,920
+folder that has all of the bits and bobs
+
+219
+00:10:22,139 --> 00:10:29,120
+mostly their TFS dll's for allowing us
+
+220
+00:10:25,920 --> 00:10:31,620
+to call into the TFS
+
+221
+00:10:29,120 --> 00:10:34,410
+system you can see there's a single
+
+222
+00:10:31,620 --> 00:10:37,079
+executable in there called VST s sync
+
+223
+00:10:34,410 --> 00:10:39,540
+migrator that's what we're going to be
+
+224
+00:10:37,079 --> 00:10:40,790
+calling to do all of our all of our bits
+
+225
+00:10:39,540 --> 00:10:44,759
+and bobs
+
+226
+00:10:40,790 --> 00:10:49,670
+ok now that we have the tools installed
+
+227
+00:10:44,759 --> 00:10:49,670
+I'm going to open a command prompt and
+
+228
+00:10:52,879 --> 00:10:56,629
+we're going to navigate
+
+229
+00:10:57,379 --> 00:11:00,709
+CD tools
+
+230
+00:11:03,529 --> 00:11:08,660
+to the VST s migration for dog folder
+
+231
+00:11:12,410 --> 00:11:17,490
+and when we run the tool you can see it
+
+232
+00:11:15,540 --> 00:11:19,830
+pumps out a little bit of info you've
+
+233
+00:11:17,490 --> 00:11:21,090
+got the the version of the products
+
+234
+00:11:19,830 --> 00:11:23,730
+essentials going to check and make sure
+
+235
+00:11:21,090 --> 00:11:25,890
+that you have the latest version with
+
+236
+00:11:23,730 --> 00:11:28,590
+our telemetry via telemetry is enabled
+
+237
+00:11:25,890 --> 00:11:31,350
+your session ID so this session ID is
+
+238
+00:11:28,590 --> 00:11:34,190
+super useful if you're submitting our
+
+239
+00:11:31,350 --> 00:11:37,260
+problem with
+
+240
+00:11:34,190 --> 00:11:38,760
+the tool if you give me the session ID
+
+241
+00:11:37,260 --> 00:11:41,190
+I'm able to look up some of the
+
+242
+00:11:38,760 --> 00:11:42,660
+telemetry and find the exceptions and
+
+243
+00:11:41,190 --> 00:11:45,960
+maybe figure out what the problem was
+
+244
+00:11:42,660 --> 00:11:49,020
+and there you can see the full version
+
+245
+00:11:45,960 --> 00:11:52,320
+number of the product as well branch it
+
+246
+00:11:49,020 --> 00:11:55,080
+came from the hash everything's all
+
+247
+00:11:52,320 --> 00:11:59,280
+there and since we ran this with no very
+
+248
+00:11:55,080 --> 00:12:02,760
+selected so no in it execute our help or
+
+249
+00:11:59,280 --> 00:12:07,100
+anything then it just output the default
+
+250
+00:12:02,760 --> 00:12:10,010
+output so what you can do is you can run
+
+251
+00:12:07,100 --> 00:12:13,650
+in it
+
+252
+00:12:10,010 --> 00:12:16,110
+and what that has done is it is created
+
+253
+00:12:13,650 --> 00:12:18,600
+the default JSON file that you'll see in
+
+254
+00:12:16,110 --> 00:12:21,260
+the documentation so if I go back to
+
+255
+00:12:18,600 --> 00:12:26,450
+that folder
+
+256
+00:12:21,260 --> 00:12:30,570
+there it is these bsts bulk editor jason
+
+257
+00:12:26,450 --> 00:12:32,850
+I'm gonna open the JSON file and you'll
+
+258
+00:12:30,570 --> 00:12:34,650
+find it's all in one line luckily I'm
+
+259
+00:12:32,850 --> 00:12:37,200
+using visuals field code so if you hold
+
+260
+00:12:34,650 --> 00:12:40,650
+down shift and alt and press F it will
+
+261
+00:12:37,200 --> 00:12:43,380
+format it into a nicely formatted loop
+
+262
+00:12:40,650 --> 00:12:45,180
+there we go so this is the config file
+
+263
+00:12:43,380 --> 00:12:48,390
+that you're going to feed the tool in
+
+264
+00:12:45,180 --> 00:12:49,920
+the execute command that will tell it
+
+265
+00:12:48,390 --> 00:12:53,060
+all of the things that it's supposed to
+
+266
+00:12:49,920 --> 00:12:55,890
+do now this is the default
+
+267
+00:12:53,060 --> 00:12:58,380
+jason you don't want to run the default
+
+268
+00:12:55,890 --> 00:13:00,290
+jason this has all of the options for
+
+269
+00:12:58,380 --> 00:13:03,330
+all of the features
+
+270
+00:13:00,290 --> 00:13:05,730
+that are in here and you want to pick
+
+271
+00:13:03,330 --> 00:13:08,070
+and choose which features make the most
+
+272
+00:13:05,730 --> 00:13:10,560
+sense so let's go through a couple of
+
+273
+00:13:08,070 --> 00:13:13,380
+the things some of the processors just
+
+274
+00:13:10,560 --> 00:13:15,570
+need a source and some of them need both
+
+275
+00:13:13,380 --> 00:13:19,290
+the source and the target so this is the
+
+276
+00:13:15,570 --> 00:13:21,690
+where's my stuff SUV collection and team
+
+277
+00:13:19,290 --> 00:13:24,240
+project name collection and team project
+
+278
+00:13:21,690 --> 00:13:26,250
+name so obviously they should be
+
+279
+00:13:24,240 --> 00:13:27,630
+different if you just need the source
+
+280
+00:13:26,250 --> 00:13:30,060
+then it doesn't matter but if you need
+
+281
+00:13:27,630 --> 00:13:32,990
+both then that makes sense you've got
+
+282
+00:13:30,060 --> 00:13:36,240
+both of them there you've also got this
+
+283
+00:13:32,990 --> 00:13:37,950
+reflected work item ID field name this
+
+284
+00:13:36,240 --> 00:13:39,930
+is something that we inherited from the
+
+285
+00:13:37,950 --> 00:13:41,029
+old migration tools that the Rangers
+
+286
+00:13:39,930 --> 00:13:43,230
+supported
+
+287
+00:13:41,029 --> 00:13:47,240
+one of the reasons we use it is it
+
+288
+00:13:43,230 --> 00:13:49,550
+allows us to if that field exists in
+
+289
+00:13:47,240 --> 00:13:52,860
+your target
+
+290
+00:13:49,550 --> 00:13:55,500
+team project in the process template so
+
+291
+00:13:52,860 --> 00:13:57,029
+this is a field that you add to each of
+
+292
+00:13:55,500 --> 00:14:01,920
+the work items in the process template
+
+293
+00:13:57,029 --> 00:14:04,740
+we will update that with the location so
+
+294
+00:14:01,920 --> 00:14:07,500
+the full URL project an ID of the work
+
+295
+00:14:04,740 --> 00:14:10,950
+item from the old server this allows us
+
+296
+00:14:07,500 --> 00:14:13,440
+to pars off when we're running through
+
+297
+00:14:10,950 --> 00:14:15,570
+other processors and figure out where
+
+298
+00:14:13,440 --> 00:14:18,240
+things came from and then we can do
+
+299
+00:14:15,570 --> 00:14:21,300
+additional work on that you can also
+
+300
+00:14:18,240 --> 00:14:24,870
+have an update the source work item with
+
+301
+00:14:21,300 --> 00:14:27,420
+where that work item went but that slows
+
+302
+00:14:24,870 --> 00:14:29,339
+down the system it makes sense if you've
+
+303
+00:14:27,420 --> 00:14:31,800
+got hundreds of thousands of work items
+
+304
+00:14:29,339 --> 00:14:34,200
+and you want to skip over ones you've
+
+305
+00:14:31,800 --> 00:14:36,959
+already done because even just the act
+
+306
+00:14:34,200 --> 00:14:39,839
+of skipping over because all we found it
+
+307
+00:14:36,959 --> 00:14:41,970
+it takes too long so that's that's the
+
+308
+00:14:39,839 --> 00:14:44,760
+purpose of that and then we have a
+
+309
+00:14:41,970 --> 00:14:46,980
+number of field maps so there's a number
+
+310
+00:14:44,760 --> 00:14:48,870
+of different field mapping tools there's
+
+311
+00:14:46,980 --> 00:14:50,130
+one instance of each of the field maps
+
+312
+00:14:48,870 --> 00:14:51,839
+in here but you can actually have
+
+313
+00:14:50,130 --> 00:14:54,000
+multiple instances with multiple
+
+314
+00:14:51,839 --> 00:14:55,500
+configurations so basically you've been
+
+315
+00:14:54,000 --> 00:14:59,250
+an object type so this is the
+
+316
+00:14:55,500 --> 00:15:02,310
+multi-value conditional map at config so
+
+317
+00:14:59,250 --> 00:15:03,839
+you have what work item types applies to
+
+318
+00:15:02,310 --> 00:15:08,750
+you can just put star and that place
+
+319
+00:15:03,839 --> 00:15:11,730
+them all and then the source at field
+
+320
+00:15:08,750 --> 00:15:14,339
+so field1 and field2 and in the target
+
+321
+00:15:11,730 --> 00:15:16,230
+fields each of them have different
+
+322
+00:15:14,339 --> 00:15:18,779
+capabilities they're all listed on the
+
+323
+00:15:16,230 --> 00:15:20,810
+documentation roughly it takes a little
+
+324
+00:15:18,779 --> 00:15:23,640
+bit to get used to
+
+325
+00:15:20,810 --> 00:15:25,370
+what options we've got each of them have
+
+326
+00:15:23,640 --> 00:15:28,770
+been built to solve a particular problem
+
+327
+00:15:25,370 --> 00:15:30,600
+so it might the one that you want a
+
+328
+00:15:28,770 --> 00:15:32,850
+problem you want to solve might not be
+
+329
+00:15:30,600 --> 00:15:35,490
+one that we've solved before these tilt
+
+330
+00:15:32,850 --> 00:15:39,750
+tools are built ad hoc to solve those
+
+331
+00:15:35,490 --> 00:15:43,310
+particular problems so field we'll make
+
+332
+00:15:39,750 --> 00:15:47,490
+a field empty so you put in
+
+333
+00:15:43,310 --> 00:15:49,530
+the the field ref name that you want to
+
+334
+00:15:47,490 --> 00:15:51,930
+blank and it will empty that field of
+
+335
+00:15:49,530 --> 00:15:53,580
+data as it goes through processing items
+
+336
+00:15:51,930 --> 00:15:54,840
+and we'll talk about how that happens
+
+337
+00:15:53,580 --> 00:15:57,600
+afterwards
+
+338
+00:15:54,840 --> 00:16:00,750
+we've get the field value map so you
+
+339
+00:15:57,600 --> 00:16:02,760
+basically have a source field and a
+
+340
+00:16:00,750 --> 00:16:04,740
+target field so for example if you're
+
+341
+00:16:02,760 --> 00:16:07,050
+moving from state in the old work item
+
+342
+00:16:04,740 --> 00:16:10,950
+to state in the new work item you might
+
+343
+00:16:07,050 --> 00:16:14,400
+have a mapping from this looks like a
+
+344
+00:16:10,950 --> 00:16:16,710
+mapping from scrum to agile so approved
+
+345
+00:16:14,400 --> 00:16:18,960
+converts to new new approves new
+
+346
+00:16:16,710 --> 00:16:20,820
+committed moves to active in progress
+
+347
+00:16:18,960 --> 00:16:23,750
+gets mapped to act if those kind of
+
+348
+00:16:20,820 --> 00:16:23,750
+things as you go through
+
+349
+00:16:23,990 --> 00:16:29,790
+there's a field to field
+
+350
+00:16:27,110 --> 00:16:31,850
+mapping so I just want to push the data
+
+351
+00:16:29,790 --> 00:16:34,500
+from backlog priority in to stack rank
+
+352
+00:16:31,850 --> 00:16:36,090
+super straightforward and you can do
+
+353
+00:16:34,500 --> 00:16:37,920
+that with as many fields as you like you
+
+354
+00:16:36,090 --> 00:16:41,280
+can run these as many times as you like
+
+355
+00:16:37,920 --> 00:16:43,710
+at field to tag map and so if you're not
+
+356
+00:16:41,280 --> 00:16:46,530
+going to have a field from the old work
+
+357
+00:16:43,710 --> 00:16:49,320
+item in the new work item type maybe you
+
+358
+00:16:46,530 --> 00:16:51,330
+want to convert it to a state and it
+
+359
+00:16:49,320 --> 00:16:53,390
+supports regular well kind of regular
+
+360
+00:16:51,330 --> 00:16:56,100
+expression a format expression
+
+361
+00:16:53,390 --> 00:16:59,040
+to map that detail so this is going to
+
+362
+00:16:56,100 --> 00:17:03,210
+take whatever the state is and if you
+
+363
+00:16:59,040 --> 00:17:05,610
+place this mapper before the state field
+
+364
+00:17:03,210 --> 00:17:09,660
+value map it will take the old value
+
+365
+00:17:05,610 --> 00:17:12,630
+make it our tag scrum state call on
+
+366
+00:17:09,660 --> 00:17:14,760
+state name and then you can easily find
+
+367
+00:17:12,630 --> 00:17:16,350
+things that were in the old state make
+
+368
+00:17:14,760 --> 00:17:18,510
+sure everything's mapped up maybe you
+
+369
+00:17:16,350 --> 00:17:19,949
+have some queries that you don't know
+
+370
+00:17:18,510 --> 00:17:21,800
+how to do in a new system and you can
+
+371
+00:17:19,949 --> 00:17:25,860
+map it to the old one
+
+372
+00:17:21,800 --> 00:17:28,950
+okay our field merit map so this takes
+
+373
+00:17:25,860 --> 00:17:31,140
+two fields field 1 and field 2 and maps
+
+374
+00:17:28,950 --> 00:17:33,570
+them together so for example in the
+
+375
+00:17:31,140 --> 00:17:35,610
+agile template you don't have acceptance
+
+376
+00:17:33,570 --> 00:17:36,900
+criteria but in the scrum template you
+
+377
+00:17:35,610 --> 00:17:39,740
+have description and acceptance criteria
+
+378
+00:17:36,900 --> 00:17:42,360
+so maybe we want to take
+
+379
+00:17:39,740 --> 00:17:44,100
+the target field being description and
+
+380
+00:17:42,360 --> 00:17:46,980
+we're going to map her in with
+
+381
+00:17:44,100 --> 00:17:49,800
+description and then acceptance criteria
+
+382
+00:17:46,980 --> 00:17:51,200
+so 0 and 1 we're going to map and enter
+
+383
+00:17:49,800 --> 00:17:53,780
+the same field
+
+384
+00:17:51,200 --> 00:17:56,990
+sounds pretty cool and then you've got
+
+385
+00:17:53,780 --> 00:17:59,240
+the Reg X field Maps or we're going to
+
+386
+00:17:56,990 --> 00:18:02,540
+look at the source field so there's
+
+387
+00:17:59,240 --> 00:18:05,720
+release this particular reason I created
+
+388
+00:18:02,540 --> 00:18:08,150
+this was the release was a bunch of
+
+389
+00:18:05,720 --> 00:18:11,660
+numbers so a version number of a product
+
+390
+00:18:08,150 --> 00:18:16,130
+but in the new template they had a major
+
+391
+00:18:11,660 --> 00:18:19,730
+minor as separate fields so this looks
+
+392
+00:18:16,130 --> 00:18:21,110
+for a pattern and then replaces the
+
+393
+00:18:19,730 --> 00:18:23,330
+value can run that as many times as you
+
+394
+00:18:21,110 --> 00:18:25,210
+want to pull out different values so yes
+
+395
+00:18:23,330 --> 00:18:28,900
+you're running the Reg X multiple times
+
+396
+00:18:25,210 --> 00:18:33,170
+but it's a way to do that
+
+397
+00:18:28,900 --> 00:18:36,350
+field value to tag map I think that's
+
+398
+00:18:33,170 --> 00:18:40,220
+field to tag map feel valued tag map so
+
+399
+00:18:36,350 --> 00:18:42,410
+you can see Stars field blocked if the
+
+400
+00:18:40,220 --> 00:18:44,260
+pattern is yes so if blocked is marked
+
+401
+00:18:42,410 --> 00:18:48,680
+as yes then
+
+402
+00:18:44,260 --> 00:18:52,840
+put blocked in the in the in the in the
+
+403
+00:18:48,680 --> 00:18:56,720
+in the resultant field the target field
+
+404
+00:18:52,840 --> 00:18:59,660
+tree to tag map so if you're in your old
+
+405
+00:18:56,720 --> 00:19:01,120
+team project if you have a really
+
+406
+00:18:59,660 --> 00:19:04,490
+horrible
+
+407
+00:19:01,120 --> 00:19:06,950
+idea path hierarchy because it's been a
+
+408
+00:19:04,490 --> 00:19:09,230
+free-for-all in there maybe you want to
+
+409
+00:19:06,950 --> 00:19:11,420
+maintain some of that information so
+
+410
+00:19:09,230 --> 00:19:15,170
+this will actually convert each of the
+
+411
+00:19:11,420 --> 00:19:17,270
+nodes in the tree to attack and it'll
+
+412
+00:19:15,170 --> 00:19:18,800
+say which one how many to skip so maybe
+
+413
+00:19:17,270 --> 00:19:20,660
+you skipped the first three because
+
+414
+00:19:18,800 --> 00:19:21,890
+you're gonna keep the first three in the
+
+415
+00:19:20,660 --> 00:19:24,430
+next system and then everything else
+
+416
+00:19:21,890 --> 00:19:24,430
+becomes
+
+417
+00:19:24,760 --> 00:19:31,190
+attack so there are the instances of the
+
+418
+00:19:28,520 --> 00:19:33,710
+types of field maps that we have in
+
+419
+00:19:31,190 --> 00:19:35,210
+there so you can you can configure them
+
+420
+00:19:33,710 --> 00:19:37,460
+any way you like you know as many as you
+
+421
+00:19:35,210 --> 00:19:39,320
+like the order does matter they're
+
+422
+00:19:37,460 --> 00:19:43,780
+executed in the order they're listed in
+
+423
+00:19:39,320 --> 00:19:47,530
+the file so so have have at that
+
+424
+00:19:43,780 --> 00:19:50,390
+we then have a little work item type
+
+425
+00:19:47,530 --> 00:19:53,450
+definition this allows you to decide
+
+426
+00:19:50,390 --> 00:19:55,190
+what work items map to other work items
+
+427
+00:19:53,450 --> 00:19:56,810
+so here we've just got bug to bug and
+
+428
+00:19:55,190 --> 00:19:58,760
+product backlog item to put a backlog
+
+429
+00:19:56,810 --> 00:20:00,890
+item but maybe you have put it back log
+
+430
+00:19:58,760 --> 00:20:03,260
+item to user story and the system knows
+
+431
+00:20:00,890 --> 00:20:05,710
+to create a new user story when you have
+
+432
+00:20:03,260 --> 00:20:08,049
+a product klog item in the source user
+
+433
+00:20:05,710 --> 00:20:11,019
+story in the target and that allows you
+
+434
+00:20:08,049 --> 00:20:13,649
+to do a live migration I prefer in place
+
+435
+00:20:11,019 --> 00:20:16,109
+migration so I actually quite rarely
+
+436
+00:20:13,649 --> 00:20:19,090
+really use that capability
+
+437
+00:20:16,109 --> 00:20:21,789
+so there's two types of processing you
+
+438
+00:20:19,090 --> 00:20:23,700
+can go into the data in place or as
+
+439
+00:20:21,789 --> 00:20:26,169
+you're moving from one system to another
+
+440
+00:20:23,700 --> 00:20:28,269
+and that brings us to the processors
+
+441
+00:20:26,169 --> 00:20:29,559
+there's quite a number of processors I'm
+
+442
+00:20:28,269 --> 00:20:30,879
+not going to go through them all I'm
+
+443
+00:20:29,559 --> 00:20:32,799
+just going to go through the rough types
+
+444
+00:20:30,879 --> 00:20:36,039
+we're going to talk about the individual
+
+445
+00:20:32,799 --> 00:20:38,710
+processors in a little bit but here
+
+446
+00:20:36,039 --> 00:20:42,039
+you've got this is the work item
+
+447
+00:20:38,710 --> 00:20:45,029
+migration at config it has a number of
+
+448
+00:20:42,039 --> 00:20:48,700
+options for example if I want to prefix
+
+449
+00:20:45,029 --> 00:20:51,639
+the project to the Nords so let's say
+
+450
+00:20:48,700 --> 00:20:53,200
+I'm merging two team projects a team
+
+451
+00:20:51,639 --> 00:20:55,629
+project one and team project - and I'm
+
+452
+00:20:53,200 --> 00:20:59,849
+putting them into team project 3 if I
+
+453
+00:20:55,629 --> 00:21:03,970
+prefix project to nodes the new
+
+454
+00:20:59,849 --> 00:21:06,909
+area paths will have the team project in
+
+455
+00:21:03,970 --> 00:21:08,519
+the name that kind of makes sense so it
+
+456
+00:21:06,909 --> 00:21:12,700
+will be a
+
+457
+00:21:08,519 --> 00:21:16,450
+project 3 slash project 1 slash whatever
+
+458
+00:21:12,700 --> 00:21:18,519
+the old layout was now there's a little
+
+459
+00:21:16,450 --> 00:21:20,169
+bit of our these things have an order
+
+460
+00:21:18,519 --> 00:21:22,599
+that they have to be run in which is
+
+461
+00:21:20,169 --> 00:21:24,879
+super important if you just run it as is
+
+462
+00:21:22,599 --> 00:21:25,899
+this is going to feel that's kind of a
+
+463
+00:21:24,879 --> 00:21:27,789
+good thing because if you don't know
+
+464
+00:21:25,899 --> 00:21:30,929
+what you're doing it's probably going to
+
+465
+00:21:27,789 --> 00:21:34,149
+make things worse but prefix project
+
+466
+00:21:30,929 --> 00:21:38,349
+update creating date and update created
+
+467
+00:21:34,149 --> 00:21:43,330
+by if your source has not been modified
+
+468
+00:21:38,349 --> 00:21:44,859
+since and you you like by yourself then
+
+469
+00:21:43,330 --> 00:21:46,479
+maybe you want to update the created
+
+470
+00:21:44,859 --> 00:21:49,179
+date and created by fill that into the
+
+471
+00:21:46,479 --> 00:21:51,759
+new fields and and then update the
+
+472
+00:21:49,179 --> 00:21:55,379
+source reflected ID do you want to back
+
+473
+00:21:51,759 --> 00:21:58,570
+update the source system with the new
+
+474
+00:21:55,379 --> 00:22:01,119
+reflected ID of the work items so you
+
+475
+00:21:58,570 --> 00:22:03,849
+can do that and then you can also filter
+
+476
+00:22:01,119 --> 00:22:07,629
+this query by default filters quite a
+
+477
+00:22:03,849 --> 00:22:09,669
+lot you can modify this query to support
+
+478
+00:22:07,629 --> 00:22:11,220
+whatever you want at the moment is
+
+479
+00:22:09,669 --> 00:22:14,379
+filtering
+
+480
+00:22:11,220 --> 00:22:16,950
+only work items that are open and only
+
+481
+00:22:14,379 --> 00:22:19,350
+work items that have not got to reflect
+
+482
+00:22:16,950 --> 00:22:22,140
+work item ID already filled out and then
+
+483
+00:22:19,350 --> 00:22:23,790
+they're in these work item types shared
+
+484
+00:22:22,140 --> 00:22:26,160
+steps shared parameters test cases
+
+485
+00:22:23,790 --> 00:22:28,620
+requirements tasks user stories bugs
+
+486
+00:22:26,160 --> 00:22:31,710
+it's super important that you do not
+
+487
+00:22:28,620 --> 00:22:33,240
+migrate test plans and test Suites do
+
+488
+00:22:31,710 --> 00:22:34,440
+not migrate them it's not worth it
+
+489
+00:22:33,240 --> 00:22:37,050
+they're completely worth lights
+
+490
+00:22:34,440 --> 00:22:40,680
+worthless items you cannot map them up
+
+491
+00:22:37,050 --> 00:22:43,200
+again later do a full fidelity migration
+
+492
+00:22:40,680 --> 00:22:45,420
+with the microsoft's service if you want
+
+493
+00:22:43,200 --> 00:22:48,750
+everything the same way this has
+
+494
+00:22:45,420 --> 00:22:52,080
+specific ramifications and this migrates
+
+495
+00:22:48,750 --> 00:22:54,300
+work items without history with history
+
+496
+00:22:52,080 --> 00:22:56,190
+so a revision replay it replays it to
+
+497
+00:22:54,300 --> 00:22:58,890
+the revisions it's not really the same
+
+498
+00:22:56,190 --> 00:23:01,140
+history it's just each work item with
+
+499
+00:22:58,890 --> 00:23:03,090
+each revision so the timing doesn't
+
+500
+00:23:01,140 --> 00:23:04,430
+always match up and then a work item
+
+501
+00:23:03,090 --> 00:23:07,560
+update
+
+502
+00:23:04,430 --> 00:23:09,570
+allows you to update work items in place
+
+503
+00:23:07,560 --> 00:23:11,310
+so it doesn't use the target it just
+
+504
+00:23:09,570 --> 00:23:14,040
+uses the source and lets update a bunch
+
+505
+00:23:11,310 --> 00:23:15,170
+of work items in place okay they're the
+
+506
+00:23:14,040 --> 00:23:18,240
+mean
+
+507
+00:23:15,170 --> 00:23:19,950
+processors they're the main things going
+
+508
+00:23:18,240 --> 00:23:22,440
+on I'm going to mention all the other
+
+509
+00:23:19,950 --> 00:23:24,870
+ones and how they work they each have
+
+510
+00:23:22,440 --> 00:23:27,090
+their own quirks not all of them were
+
+511
+00:23:24,870 --> 00:23:29,450
+built by the same people but you take
+
+512
+00:23:27,090 --> 00:23:32,820
+this config and
+
+513
+00:23:29,450 --> 00:23:35,060
+we go back to our command line and we
+
+514
+00:23:32,820 --> 00:23:38,180
+run
+
+515
+00:23:35,060 --> 00:23:42,410
+execute and
+
+516
+00:23:38,180 --> 00:23:46,370
+execute with dash
+
+517
+00:23:42,410 --> 00:23:48,470
+config and we put our C
+
+518
+00:23:46,370 --> 00:23:51,290
+tools
+
+519
+00:23:48,470 --> 00:23:55,620
+the STS sync migration
+
+520
+00:23:51,290 --> 00:23:57,990
+the STS bulk editor Jason we run that
+
+521
+00:23:55,620 --> 00:24:00,210
+and it will run the configuration that
+
+522
+00:23:57,990 --> 00:24:02,010
+we've got do not run the default
+
+523
+00:24:00,210 --> 00:24:04,650
+configuration first off it will fail
+
+524
+00:24:02,010 --> 00:24:06,510
+that's a good thing and you need to go
+
+525
+00:24:04,650 --> 00:24:11,030
+through it and figure out what it is
+
+526
+00:24:06,510 --> 00:24:11,030
+that you're doing cool
+
+527
+00:24:12,990 --> 00:24:18,480
+okay so we talked about how to find the
+
+528
+00:24:15,750 --> 00:24:20,220
+tools install the tools running the
+
+529
+00:24:18,480 --> 00:24:23,130
+tools and a kind of overview of the
+
+530
+00:24:20,220 --> 00:24:26,340
+execution and the execution flow in
+
+531
+00:24:23,130 --> 00:24:30,149
+there okay so there are processors for
+
+532
+00:24:26,340 --> 00:24:32,429
+work items the order is important here
+
+533
+00:24:30,149 --> 00:24:35,399
+you have to run the node structures
+
+534
+00:24:32,429 --> 00:24:37,980
+migration context first that will create
+
+535
+00:24:35,399 --> 00:24:39,980
+all of your areas and iteration paths
+
+536
+00:24:37,980 --> 00:24:43,590
+and that
+
+537
+00:24:39,980 --> 00:24:45,179
+appending the are pre pending the team
+
+538
+00:24:43,590 --> 00:24:47,850
+project name needs to be the same
+
+539
+00:24:45,179 --> 00:24:49,980
+between node structures and the work
+
+540
+00:24:47,850 --> 00:24:51,510
+item migration okay if they're not the
+
+541
+00:24:49,980 --> 00:24:53,940
+same it's going to fail because when you
+
+542
+00:24:51,510 --> 00:24:55,500
+do the work item migration the area and
+
+543
+00:24:53,940 --> 00:24:57,960
+iteration paths are not going to exist
+
+544
+00:24:55,500 --> 00:25:00,059
+and you can't save a work item to alien
+
+545
+00:24:57,960 --> 00:25:03,090
+iteration paths that don't exist it's
+
+546
+00:25:00,059 --> 00:25:04,679
+just the way VST s and TFS work as would
+
+547
+00:25:03,090 --> 00:25:07,140
+run the node structures first it will
+
+548
+00:25:04,679 --> 00:25:09,270
+create them then run at one of the
+
+549
+00:25:07,140 --> 00:25:12,360
+migration contacts so there's work item
+
+550
+00:25:09,270 --> 00:25:15,090
+migration and there's work item revision
+
+551
+00:25:12,360 --> 00:25:18,270
+there's also the work item update which
+
+552
+00:25:15,090 --> 00:25:20,940
+only takes the source but migration will
+
+553
+00:25:18,270 --> 00:25:23,789
+move it without history revision replay
+
+554
+00:25:20,940 --> 00:25:26,820
+will obviously replay the revisions as
+
+555
+00:25:23,789 --> 00:25:28,950
+it goes through this the reason those
+
+556
+00:25:26,820 --> 00:25:31,679
+two is somebody else added it and they
+
+557
+00:25:28,950 --> 00:25:33,510
+did it as a second context we need to do
+
+558
+00:25:31,679 --> 00:25:36,090
+some work to pull them together so
+
+559
+00:25:33,510 --> 00:25:38,429
+there's only one but it works pretty
+
+560
+00:25:36,090 --> 00:25:40,559
+well at both of them worked pretty well
+
+561
+00:25:38,429 --> 00:25:42,480
+we just have to remember if we get a bug
+
+562
+00:25:40,559 --> 00:25:45,860
+in one we have to fix it in both at the
+
+563
+00:25:42,480 --> 00:25:49,559
+moment that's the only bit sucks there
+
+564
+00:25:45,860 --> 00:25:51,809
+after that you can either run those to
+
+565
+00:25:49,559 --> 00:25:54,390
+have to be run before you run the link
+
+566
+00:25:51,809 --> 00:25:57,480
+migration context obviously your work
+
+567
+00:25:54,390 --> 00:26:00,120
+items have to exist to reapply the links
+
+568
+00:25:57,480 --> 00:26:01,679
+in there that would be super useful so
+
+569
+00:26:00,120 --> 00:26:03,510
+if you run a link migration context it
+
+570
+00:26:01,679 --> 00:26:05,669
+will go and add all of the links the
+
+571
+00:26:03,510 --> 00:26:08,880
+relationships to the work items in again
+
+572
+00:26:05,669 --> 00:26:11,250
+and then there's two ones for doing the
+
+573
+00:26:08,880 --> 00:26:13,500
+attachments the export and the import
+
+574
+00:26:11,250 --> 00:26:15,990
+you export all of the attachments to a
+
+575
+00:26:13,500 --> 00:26:19,070
+folder you then import them into the
+
+576
+00:26:15,990 --> 00:26:22,289
+work items and this works a
+
+577
+00:26:19,070 --> 00:26:24,270
+great take some time to run depending on
+
+578
+00:26:22,289 --> 00:26:26,100
+the number of attachments you've got but
+
+579
+00:26:24,270 --> 00:26:28,919
+has some good filters in it to try
+
+580
+00:26:26,100 --> 00:26:30,169
+improve performance and then the last
+
+581
+00:26:28,919 --> 00:26:34,169
+one which I think
+
+582
+00:26:30,169 --> 00:26:36,600
+Richard fennel created which is awesome
+
+583
+00:26:34,169 --> 00:26:39,450
+which is the work item query migration
+
+584
+00:26:36,600 --> 00:26:43,530
+context allows you to migrate your
+
+585
+00:26:39,450 --> 00:26:45,660
+queries across and it does some of the
+
+586
+00:26:43,530 --> 00:26:48,030
+work to make sure that they work in the
+
+587
+00:26:45,660 --> 00:26:50,250
+new location I've not actually run that
+
+588
+00:26:48,030 --> 00:26:53,429
+one myself was added after the last time
+
+589
+00:26:50,250 --> 00:26:55,549
+I ran at the migration but um yeah super
+
+590
+00:26:53,429 --> 00:26:55,549
+good
+
+591
+00:26:55,850 --> 00:27:00,990
+ok so then once you've done all of the
+
+592
+00:26:59,340 --> 00:27:03,360
+work items which will bring the test
+
+593
+00:27:00,990 --> 00:27:05,039
+cases across ok so you have to do the
+
+594
+00:27:03,360 --> 00:27:07,470
+work item migration to bring the test
+
+595
+00:27:05,039 --> 00:27:08,690
+cases across leave out the test plans
+
+596
+00:27:07,470 --> 00:27:12,890
+and sweets
+
+597
+00:27:08,690 --> 00:27:15,470
+then you can run the the
+
+598
+00:27:12,890 --> 00:27:17,940
+processors for the for the test cases so
+
+599
+00:27:15,470 --> 00:27:19,799
+first one you run is the test variable
+
+600
+00:27:17,940 --> 00:27:21,570
+migration which creates the variables
+
+601
+00:27:19,799 --> 00:27:23,970
+then the configurations which creates
+
+602
+00:27:21,570 --> 00:27:25,799
+the same configurations that you have on
+
+603
+00:27:23,970 --> 00:27:28,260
+both sites they have to be in place
+
+604
+00:27:25,799 --> 00:27:30,360
+first before you create the plans and
+
+605
+00:27:28,260 --> 00:27:34,080
+sweets now you're going to create new
+
+606
+00:27:30,360 --> 00:27:36,059
+plans and sweets because plans and
+
+607
+00:27:34,080 --> 00:27:38,940
+sweets are made up of two parts inside
+
+608
+00:27:36,059 --> 00:27:41,340
+of the STS and TFS they have the work
+
+609
+00:27:38,940 --> 00:27:46,470
+item and then they have a bunch of other
+
+610
+00:27:41,340 --> 00:27:49,140
+data that is is inside of TFS the other
+
+611
+00:27:46,470 --> 00:27:51,720
+data is the bit that test management
+
+612
+00:27:49,140 --> 00:27:54,480
+looks at the work items is just some
+
+613
+00:27:51,720 --> 00:27:56,130
+metadata you can't push them back
+
+614
+00:27:54,480 --> 00:27:57,990
+together afterwards which is why we
+
+615
+00:27:56,130 --> 00:28:00,510
+don't migrate plans and sweets the first
+
+616
+00:27:57,990 --> 00:28:03,570
+time around we create new plans and
+
+617
+00:28:00,510 --> 00:28:05,580
+sweets but my way we might wire it up to
+
+618
+00:28:03,570 --> 00:28:07,260
+the existing test cases so it will run
+
+619
+00:28:05,580 --> 00:28:10,440
+through and do that there are some
+
+620
+00:28:07,260 --> 00:28:13,490
+caveats like queries don't migrate well
+
+621
+00:28:10,440 --> 00:28:17,700
+and some other other things but it's its
+
+622
+00:28:13,490 --> 00:28:20,600
+best case and then we've got our very
+
+623
+00:28:17,700 --> 00:28:23,280
+beta I don't think it works just now
+
+624
+00:28:20,600 --> 00:28:25,590
+for test runs we're trying to figure out
+
+625
+00:28:23,280 --> 00:28:27,570
+how to get test runs across as well but
+
+626
+00:28:25,590 --> 00:28:30,990
+that will allow you to migrate your test
+
+627
+00:28:27,570 --> 00:28:32,960
+cases we then have some processors for
+
+628
+00:28:30,990 --> 00:28:35,570
+other things
+
+629
+00:28:32,960 --> 00:28:38,580
+some these are pretty cool we have
+
+630
+00:28:35,570 --> 00:28:39,809
+export profile picture from Active
+
+631
+00:28:38,580 --> 00:28:41,669
+Directory
+
+632
+00:28:39,809 --> 00:28:44,219
+so you can if your corporate active
+
+633
+00:28:41,669 --> 00:28:46,859
+directory has the pictures of all your
+
+634
+00:28:44,219 --> 00:28:50,869
+employees in there it will do an export
+
+635
+00:28:46,859 --> 00:28:54,570
+of all of the pictures to a
+
+636
+00:28:50,869 --> 00:28:56,580
+username a folder with a username with
+
+637
+00:28:54,570 --> 00:28:58,769
+the picture name picture name is a
+
+638
+00:28:56,580 --> 00:29:01,859
+username and then you can import them
+
+639
+00:28:58,769 --> 00:29:04,919
+all into TFS this does not work with VST
+
+640
+00:29:01,859 --> 00:29:06,479
+s VST s is authenticated differently
+
+641
+00:29:04,919 --> 00:29:10,619
+only the user can update their own
+
+642
+00:29:06,479 --> 00:29:13,889
+profile picture but it works well with
+
+643
+00:29:10,619 --> 00:29:16,169
+TFS done that before you may have messed
+
+644
+00:29:13,889 --> 00:29:18,359
+up your migration therefore you want
+
+645
+00:29:16,169 --> 00:29:20,690
+some way to delete all of the work items
+
+646
+00:29:18,359 --> 00:29:23,879
+the work item delete takes a query
+
+647
+00:29:20,690 --> 00:29:26,099
+warning this is super dangerous and will
+
+648
+00:29:23,879 --> 00:29:28,700
+permanently delete all of the work items
+
+649
+00:29:26,099 --> 00:29:32,599
+that end up in scope for it
+
+650
+00:29:28,700 --> 00:29:35,239
+make sure you use that in a very
+
+651
+00:29:32,599 --> 00:29:39,119
+clever manner
+
+652
+00:29:35,239 --> 00:29:42,839
+we've got the fix git commit links if
+
+653
+00:29:39,119 --> 00:29:45,599
+you're also migrating get as long as you
+
+654
+00:29:42,839 --> 00:29:48,059
+keep the same name of the repo from the
+
+655
+00:29:45,599 --> 00:29:50,249
+old git repo to the new git repo so in
+
+656
+00:29:48,059 --> 00:29:52,529
+the new team project location you can
+
+657
+00:29:50,249 --> 00:29:57,029
+run this processor and it will go and
+
+658
+00:29:52,529 --> 00:29:59,609
+remap all of the links so that the links
+
+659
+00:29:57,029 --> 00:30:01,679
+in the work items point to the new git
+
+660
+00:29:59,609 --> 00:30:03,690
+repo not the old git repo in the old
+
+661
+00:30:01,679 --> 00:30:06,359
+location and so that will go run through
+
+662
+00:30:03,690 --> 00:30:11,809
+and fix all of that you've got to create
+
+663
+00:30:06,359 --> 00:30:16,919
+a team folders that's far if you're
+
+664
+00:30:11,809 --> 00:30:19,769
+let's say you have many teams inside of
+
+665
+00:30:16,919 --> 00:30:22,649
+your your team project and you want to
+
+666
+00:30:19,769 --> 00:30:24,749
+create a folder for each team so that
+
+667
+00:30:22,649 --> 00:30:26,940
+you can put queries and twosies or query
+
+668
+00:30:24,749 --> 00:30:28,559
+folders it will go and build out that
+
+669
+00:30:26,940 --> 00:30:30,869
+list for you so you don't have to do it
+
+670
+00:30:28,559 --> 00:30:32,599
+manually if you've give 50 teams it can
+
+671
+00:30:30,869 --> 00:30:36,200
+be quite time-consuming to go build that
+
+672
+00:30:32,599 --> 00:30:38,969
+run the processor will go do that
+
+673
+00:30:36,200 --> 00:30:41,219
+export team list literally just exports
+
+674
+00:30:38,969 --> 00:30:43,649
+a list of all the teams for you these
+
+675
+00:30:41,219 --> 00:30:46,469
+are all at processors and tools you can
+
+676
+00:30:43,649 --> 00:30:47,849
+go get the source code on github you can
+
+677
+00:30:46,469 --> 00:30:50,039
+look at how they work you can build your
+
+678
+00:30:47,849 --> 00:30:52,320
+own you can submit pull requests if it
+
+679
+00:30:50,039 --> 00:30:55,820
+doesn't work the way you want we you all
+
+680
+00:30:52,320 --> 00:30:59,460
+of that and bring it in if we can oh
+
+681
+00:30:55,820 --> 00:31:01,410
+we might mention the the field map again
+
+682
+00:30:59,460 --> 00:31:06,680
+there's three processors that these work
+
+683
+00:31:01,410 --> 00:31:06,680
+with work item migration work item
+
+684
+00:31:06,830 --> 00:31:14,190
+revision migration and the work item
+
+685
+00:31:10,830 --> 00:31:16,830
+update so they or those three will use
+
+686
+00:31:14,190 --> 00:31:21,050
+these the first two migration and
+
+687
+00:31:16,830 --> 00:31:25,260
+revision both move from source to target
+
+688
+00:31:21,050 --> 00:31:29,790
+update only operates on source so it's
+
+689
+00:31:25,260 --> 00:31:33,270
+an in-place bulk update so again you get
+
+690
+00:31:29,790 --> 00:31:37,350
+the field field map filled marriage map
+
+691
+00:31:33,270 --> 00:31:39,170
+feel blank map field to tag field value
+
+692
+00:31:37,350 --> 00:31:43,680
+map
+
+693
+00:31:39,170 --> 00:31:45,840
+field value to tag reg X field map and
+
+694
+00:31:43,680 --> 00:31:48,450
+tree to tag map those are as a bunch in
+
+695
+00:31:45,840 --> 00:31:50,330
+there that are super useful and again
+
+696
+00:31:48,450 --> 00:31:53,640
+the
+
+697
+00:31:50,330 --> 00:31:55,560
+JSON file is more accurate than the
+
+698
+00:31:53,640 --> 00:31:58,050
+documentation because the JSON file is
+
+699
+00:31:55,560 --> 00:31:59,970
+the actual options but it pulled out of
+
+700
+00:31:58,050 --> 00:32:01,610
+each of the configuration of each of the
+
+701
+00:31:59,970 --> 00:32:03,840
+code so
+
+702
+00:32:01,610 --> 00:32:06,840
+while the documentation gets out of date
+
+703
+00:32:03,840 --> 00:32:10,530
+the JSON file that you get from the init
+
+704
+00:32:06,840 --> 00:32:13,440
+command is always up to date well there
+
+705
+00:32:10,530 --> 00:32:15,680
+we go we've gone through all of the
+
+706
+00:32:13,440 --> 00:32:18,750
+options in the VST async migration tools
+
+707
+00:32:15,680 --> 00:32:20,730
+hopefully that will give you some
+
+708
+00:32:18,750 --> 00:32:22,910
+ability to get started with them and
+
+709
+00:32:20,730 --> 00:32:26,130
+start migrating some of your work items
+
+710
+00:32:22,910 --> 00:32:29,580
+so if you have any problems head is up
+
+711
+00:32:26,130 --> 00:32:31,800
+on github submit your issues we have a
+
+712
+00:32:29,580 --> 00:32:34,680
+very vibrant community lots of people
+
+713
+00:32:31,800 --> 00:32:37,530
+asking questions and getting answers but
+
+714
+00:32:34,680 --> 00:32:39,780
+it is ad-hoc support it's just us giving
+
+715
+00:32:37,530 --> 00:32:41,910
+up our free time and had to support it
+
+716
+00:32:39,780 --> 00:32:53,760
+but you can ask you
+
+717
+00:32:41,910 --> 00:32:53,760
+[Music]
+
+

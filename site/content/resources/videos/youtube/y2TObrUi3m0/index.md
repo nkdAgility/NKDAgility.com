@@ -23,15 +23,21 @@ preview: https://i.ytimg.com/vi/y2TObrUi3m0/maxresdefault.jpg
 duration: 117
 isShort: false
 tags:
+- Agility
 - Agile Values and Principles
-- Agile Strategy
-- Agile Coaching
+- Coaching
+- Agile Community
+- Agile Pilot
 - Agile Transformation
-- Continuous Improvement
-- Organisational Agility
-- Team Collaboration
-- Agile Leadership
-- Value Delivery
+- Agile Methodology
+- Agile Coaching
+- Agile Evolution
+- Agile Project Management
+- Agile Strategy
+- Agile Software Engineering
+- Agile Software Development
+- Strategic
+- Discovery and Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -39,11 +45,9 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Organisational Agility
-- People and Process
-- Value Delivery
 - Discovery and Learning
-- Technical Excellence
+- Organisational Agility
+- Agile Product Management
 
 ---
  *Unlocking Agile Success: Beyond Tools and Techniques*

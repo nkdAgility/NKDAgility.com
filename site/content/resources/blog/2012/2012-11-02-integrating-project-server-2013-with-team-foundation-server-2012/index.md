@@ -22,11 +22,25 @@ aliasesFor404:
 - /blog/integrating-project-server-2013-with-team-foundation-server-2012
 - /resources/blog/integrating-project-server-2013-with-team-foundation-server-2012
 tags:
-- Agile Project Management
-- Agile Tools
-categories:
-- Install and Configuration
+- Application Lifecycle Management
 - Azure DevOps
+- CI/CD
+- Collaboration Tools
+- Deployment Strategies
+- DevOps
+- Operational Practices
+- Portfolio Management
+- Software Developers
+- Software Development
+- System Configuration
+- Technical Excellence
+- Technical Strategy
+- Value Delivery
+- Windows
+categories:
+- Application Lifecycle Management
+- Install and Configuration
+- Practical Techniques and Tooling
 preview: metro-sharepoint-128-link-23-23.png
 
 ---

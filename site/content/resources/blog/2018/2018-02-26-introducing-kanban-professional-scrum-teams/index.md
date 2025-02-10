@@ -25,27 +25,8 @@ aliasesFor404:
 - /introducing-kanban-for-professional-scrum-teams
 - /blog/introducing-kanban-for-professional-scrum-teams
 - /resources/blog/introducing-kanban-professional-scrum-teams
-tags:
-- Professional Scrum
-- Scrum Team
-- Kanban Training
-- Agile Product Management
-- Continuous Improvement
-- Value Delivery
-- Technical Excellence
-- Scrum Product Development
-- Definition of Done
-- Agile Frameworks
-- Lean Thinking
-- Flow Efficiency
-- Throughput
-- Evidence Based Management
-categories:
-- Kanban
-- Scrum
-- Metrics and Learning
-- Value Delivery
-- People and Process
+tags: []
+categories: []
 preview: nkdagility-scrum-and-kanban-1900-2-1.png
 
 ---

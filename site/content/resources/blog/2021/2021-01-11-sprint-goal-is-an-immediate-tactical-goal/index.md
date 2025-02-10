@@ -22,27 +22,8 @@ aliasesFor404:
 - /sprint-goal-is-an-immediate-tactical-goal
 - /blog/sprint-goal-is-an-immediate-tactical-goal
 - /resources/blog/sprint-goal-is-an-immediate-tactical-goal
-tags:
-- Sprint Goal is an Immediate Tactical Goal
-- Scrum Product Management
-- Product Owner
-- Agile Product Ownership
-- Evidence Based Management
-- Agile Planning
-- Continuous Improvement
-- Agile Product Discovery
-- Value Delivery
-- Lean UX
-- Agile Software Development
-- Scrum Team
-- Definition of Done
-- Customer Feedback Loops
-- Hypothesis Driven Development
+tags: []
 categories:
-- Agile Product Management
-- Discovery and Learning
-- Metrics and Learning
-- Value Delivery
 - Scrum
 preview: naked-agility-hypothesis-driven-2-2.jpg
 

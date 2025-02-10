@@ -23,26 +23,11 @@ aliasesFor404:
 - /blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
 - /resources/blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
 tags:
-- Test First Development
-- Test Driven Development
-- Acceptance Test Driven Development
-- Behaviour Driven Development
-- Continuous Delivery
-- Technical Excellence
-- Agile Software Development
-- Agile Product Validation
-- Scrum Team
-- Definition of Done
-- Automated Testing
-- Evidence Based Improvement
-- Agile Product Management
-- Software Developers
+- Agile Problem Solving
 categories:
+- DevOps
+- Scrum
 - Technical Excellence
-- People and Process
-- Metrics and Learning
-- Value Delivery
-- Discovery and Learning
 preview: nkdAgility-PSD-Krakow-0-1-1.jpg
 
 ---

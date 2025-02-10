@@ -26,10 +26,19 @@ aliasesFor404:
 - /blog/visual-studio-2012-launch-roadshows-around-the-world
 - /resources/blog/visual-studio-2012-launch-roadshow-in-san-diego-and-irvine
 tags:
+- Agile Pilot
 - Agile Software Development
-- Agile Product Management
-categories:
-- Events and Presentations
+- Agile Software Engineering
+- Agile Strategy
+- Agility
+- Engineering Excellence
+- Engineering Practices
+- Operational Practices
+- Software Developers
+- Software Development
+- Technical Excellence
+- Working Software
+categories: []
 preview: metro-event-icon-3-3.png
 
 ---

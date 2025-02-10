@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/installing-visual-studio-2010-team-foundation-server-on-windows-vista-in-3-minutes
 - /resources/blog/installing-visual-studio-2010-team-foundation-server-on-windows-vista-in-3-minutes
 tags:
-- Agile Software Development
-- Azure DevOps
+- Windows
+- System Configuration
 preview: metro-visual-studio-2010-128-link-7-7.png
 categories:
 - Install and Configuration

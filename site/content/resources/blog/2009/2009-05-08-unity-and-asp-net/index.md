@@ -25,8 +25,8 @@ tags:
 - Agile Software Development
 - Technical Excellence
 categories:
-- Code and Complexity
 - Technical Excellence
+- Application Lifecycle Management
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

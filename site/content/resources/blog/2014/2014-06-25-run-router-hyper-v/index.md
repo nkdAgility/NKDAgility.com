@@ -26,22 +26,22 @@ aliasesFor404:
 - /blog/run-a-router-on-hyper-v
 - /resources/blog/run-router-hyper-v
 tags:
-- Agile Software Development
-- Agile Product Management
-- Agile Tools
+- Ability to Innovate
+- Engineering Practices
+- Experimentation
+- Pragmatic Thinking
+- Software Developers
+- Software Development
+- System Configuration
 - Technical Excellence
-- Continuous Delivery
-- Value Delivery
-- Agile Product Discovery
-- Lean Thinking
-- Agile Planning
-- Systems Thinking
-- Evidence Based Management
-- Agile Transformation
-- Digital Transformation
-- Organisational Agility
+- Technical Mastery
+- Troubleshooting
+- Windows
+- Working Software
 categories:
-- Technical Excellence
+- Code and Complexity
+- Install and Configuration
+- Practical Techniques and Tooling
 preview: naked-alm-hyper-v-17-17.png
 
 ---

@@ -23,7 +23,7 @@ aliasesFor404:
 - /resources/blog/head-first-design-patterns
 tags:
 - Agile Books
-- Continuous Learning
+- Technical Excellence
 categories:
 - Products and Books
 preview: nakedalm-logo-128-link-2-2.png

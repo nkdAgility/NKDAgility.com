@@ -27,18 +27,8 @@ aliasesFor404:
 - /blog/the-urgent-call-for-agile-organisational-transformation
 - /resources/blog/alpha-to-beta-the-urgent-call-for-agile-organisational-transformation
 tags:
-- Organisational Agility
-- Change Management
-- Agile Transformation
-- Business Agility
-- Agile Strategy
-- Organisational Change
-- Agile Leadership
-- Systems Thinking
-- Continuous Improvement
-- Agile Community
-categories:
-- Complexity Thinking
+- Featured
+categories: []
 preview: 1686217267121-1-1-1.jpg
 
 ---

@@ -3,9 +3,7 @@ title: The Scrum Master is accountable for Delivery
 description: The Scrum Master is accountable for delivery, ensuring every Scrum Team produces a usable increment every sprint while fostering effectiveness and value delivery.
 ResourceId: yMnia2DLI6q
 ResourceType: blog
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 date: 2025-01-30
 AudioNative: true
 creator: Martin Hinshelwood
@@ -29,18 +27,25 @@ aliasesFor404:
 - /the-scrum-master-is-accountable-for-delivery
 - /blog/the-scrum-master-is-accountable-for-delivery
 tags:
+- Accountability
+- Agile Software Development
+- Coaching
+- Continuous Improvement
+- Flow Efficiency
+- Professional Scrum
+- Scrum
 - Scrum Master
-- Definition of Done
-- Software Increment
-- Technical Excellence
-- Empirical Process Control
-- Agile Values and Principles
-- Agile Product Ownership
-categories:
+- Scrum Product Development
+- Scrum Team
+- Software Development
+- Strategic
+- Team Collaboration
 - Value Delivery
-- Transparency and Accountability
-- People and Process
-- Technical Excellence
+- Working Software
+categories:
+- Lean
+- Product Delivery
+- Scrum
 preview: 2025-01-30-the-scrum-master-is-accountable-for-delivery.jpg
 
 ---

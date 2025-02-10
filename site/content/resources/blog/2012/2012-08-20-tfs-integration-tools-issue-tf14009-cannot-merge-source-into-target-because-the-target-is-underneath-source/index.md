@@ -27,11 +27,8 @@ aliasesFor404:
 - /blog/tfs-integration-tools---issue--tf14009--cannot-merge-source-into-target-because-the-target-is-underneath-source
 - /tfs-integration-tools
 - /resources/blog/tfs-integration-tools-issue-tf14009-cannot-merge-source-into-target-because-the-target-is-underneath-source
-tags:
-- Modern Source Control
-- Technical Debt
-categories:
-- Azure DevOps
+tags: []
+categories: []
 preview: metro-problem-icon-5-5.png
 
 ---

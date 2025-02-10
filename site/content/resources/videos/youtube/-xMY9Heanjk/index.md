@@ -27,18 +27,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Scrum
+- Strategic
+- People and Process
+- Agile Values and Principles
+- Lean Agile
 - Scrum Team
+- Empirical Process Control
+- Agile Mentoring
 - Agile Product Management
-- Agile Transformation
-- Agile Software Development
-- Lean Thinking
-- Discovery and Learning
+- Agile Product Validation
+- Agile Apocalypse
+- Agile Methodology
+- Customer Feedback Loops
 - Evidence Based Improvement
+- Agile Software Development
 resourceTypes:
 - video
 layout: video
 categories:
-- Technical Excellence
+- Scrum
+- Lean
+- People and Process
 
 ---
 What is the hardest part of working with a brand-new scrum team?

@@ -26,27 +26,25 @@ aliasesFor404:
 - /blog/install-of-tfs-2013-3-with-sharepoint-2013-on-windows-server-2012-r2-update-1
 - /resources/blog/install-tfs-2013-3-sharepoint-2013-windows-server-2012-r2-update-1
 tags:
-- Deployment Strategies
-- Agile Software Development
-- Technical Excellence
-- Continuous Delivery
-- Agile Product Management
-- Value Stream Management
-- Evidence Based Management
 - Agile Tools
-- Team Collaboration
-- Change Management
-- Agile Planning
-- Systems Thinking
-- Technical Debt
-- Customer Feedback Loops
-- Lean Principles
+- Azure DevOps
+- Azure Repos
+- Engineering Excellence
+- Modern Source Control
+- Operational Practices
+- Software Developers
+- Software Development
+- Software Increment
+- System Configuration
+- Technical Excellence
+- Technical Mastery
+- Value Delivery
+- Windows
+- Working Software
 categories:
 - Install and Configuration
-- Azure DevOps
+- Practical Techniques and Tooling
 - Technical Excellence
-- Application Lifecycle Management
-- Value Stream Management
 preview: nakedalm-experts-visual-studio-alm-27-27.png
 
 ---

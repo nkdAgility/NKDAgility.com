@@ -26,11 +26,23 @@ aliasesFor404:
 - /blog/adding-toolstrippanel-ui-adapter-support-to-the-composite-ui-application-block
 - /resources/blog/hinshelm-on-composite-ui-application-block
 tags:
-- Agile Software Development
+- Windows
+- Software Developers
+- Software Development
+- Working Software
 - Technical Excellence
+- Technical Mastery
+- Engineering Excellence
+- Pragmatic Thinking
+- System Configuration
+- Software Increment
+- Ability to Innovate
+- Engineering Practices
+- Featured
 categories:
 - Code and Complexity
 - Practical Techniques and Tooling
+- Technical Excellence
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

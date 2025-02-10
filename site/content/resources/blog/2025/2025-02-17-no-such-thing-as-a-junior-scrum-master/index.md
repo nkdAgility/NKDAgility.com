@@ -3,9 +3,7 @@ title: There Is No Such Thing as a "Junior" Scrum Master
 description: The idea of a junior Scrum Master is a fallacy. The Scrum Master is not an entry-level position and should be born fully formed!
 ResourceId: f2RQh2UCwqB
 ResourceType: blog
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
+ResourceImport: false
 date: 2025-02-17T09:00:00
 AudioNative: true
 creator: Martin Hinshelwood
@@ -23,22 +21,25 @@ aliasesFor404:
 - /there-is-no-such-thing-as-a--junior--scrum-master
 - /blog/there-is-no-such-thing-as-a--junior--scrum-master
 tags:
-- Scrum Team
-- Agile Product Management
 - Accountability
-- Agile Values and Principles
-- Organisational Change
-- Leadership Training
+- Agile Methodology
+- Agile Project Management
 - Agile Software Development
-- Value Delivery
-- Employee Engagement
-- Agile Transformation
-categories:
-- People and Process
-- Scrum
+- Agile Software Engineering
+- Agility
+- Business Agility
 - Organisational Agility
-- Technical Excellence
-- Value Delivery
+- Professional Scrum
+- Scrum
+- Scrum Master
+- Scrum Product Development
+- Scrum Product Management
+- Scrum Team
+- Technical Mastery
+categories:
+- DevOps
+- Lean
+- Scrum
 preview: 2025-02-10-no-such-thing-as-a-junior-scrum-master.jpg
 
 ---

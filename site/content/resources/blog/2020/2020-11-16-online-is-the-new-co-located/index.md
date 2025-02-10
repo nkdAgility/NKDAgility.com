@@ -21,27 +21,9 @@ aliasesFor404:
 - /online-is-the-new-co-located
 - /blog/online-is-the-new-co-located
 - /resources/blog/online-is-the-new-co-located
-tags:
-- Team Collaboration
-- Remote Working
-- Agile Values and Principles
-- Scrum Team
-- Participation requires Presence
-- Co-location re-defined
-- Continuous Improvement
-- Transparency
-- Agile Software Development
-- Agile Transformation
-- Evidence Based Management
-- Organisational Agility
-- Psychological Safety
-- Value Delivery
+tags: []
 categories:
-- People and Process
-- Events and Presentations
-- Transparency and Accountability
-- Organisational Agility
-- Resilience and Change
+- Scrum
 preview: image-21-3-3.png
 
 ---

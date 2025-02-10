@@ -22,11 +22,24 @@ aliasesFor404:
 - /blog/chicago-visual-studio-alm-user-group-27th-march
 - /resources/blog/chicago-visual-studio-alm-user-group-27th-march
 tags:
-- Kanban
+- Agile Digital Tools
+- Agile Planning Tools
+- Agile Software Development
 - Agile Tools
+- Kanban
+- Kanban Coaching
+- Kanban Flow
+- Kanban Theory
+- Kanban Training
+- Lean Agile
+- Software Developers
+- Software Development
+- Technical Excellence
+- Windows
+- Working Software
 categories:
 - Events and Presentations
-- Application Lifecycle Management
+- Kanban
 - Practical Techniques and Tooling
 preview: metro-UserGroup-128-2-2.png
 

@@ -21,27 +21,8 @@ aliasesFor404:
 - /kalabule-or-a-professional-at-agile-in-africa
 - /blog/kalabule-or-a-professional-at-agile-in-africa
 - /resources/blog/kalabule-or-a-professional-at-agile-in-africa
-tags:
-- Professional Scrum
-- Scrum Values
-- Agile Software Development
-- Technical Excellence
-- Continuous Improvement
-- Team Collaboration
-- Agile Values and Principles
-- Customer Satisfaction
-- Agile Transformation
-- Team Motivation
-- Working Software
-- Agile Leadership
-- Evidence Based Management
-- Organisational Culture
-categories:
-- Events and Presentations
-- Organisational Agility
-- People and Process
-- Scrum
-- Technical Excellence
+tags: []
+categories: []
 preview: clip_image001-2-2.png
 
 ---

@@ -22,8 +22,7 @@ aliasesFor404:
 - /blog/installing-team-explorer-2008-on-windows-7
 - /resources/blog/installing-team-explorer-2008-on-windows-7
 tags:
-- Agile Software Development
-- Technical Excellence
+- Windows
 categories:
 - Install and Configuration
 - Azure DevOps

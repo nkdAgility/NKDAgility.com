@@ -25,26 +25,8 @@ aliasesFor404:
 - /configure-a-build-vnext-agent
 - /blog/configure-a-build-vnext-agent
 - /resources/blog/configure-a-build-vnext-agent-on-vso
-tags:
-- Azure DevOps
-- Continuous Integration
-- Deployment Frequency
-- Agile Tools
-- DevOps
-- Technical Excellence
-- Agile Software Development
-- Agile Project Management
-- Value Delivery
-- Agile Product Management
-- Evidence Based Management
-- Agile Software Engineering
-- Continuous Delivery
-- Agile Methodology
-- Technical Mastery
-categories:
-- Install and Configuration
-- Azure DevOps
-- Practical Techniques and Tooling
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-27-27.png
 
 ---

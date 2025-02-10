@@ -30,9 +30,23 @@ aliasesFor404:
 - /blog/professional-scrum-in-immingham--uk
 - /resources/blog/professional-scrum-immingham-uk
 tags:
+- Agile Project Management
+- Agile Software Development
+- Agile Software Engineering
+- Cross Functional Teams
+- People and Process
 - Professional Scrum
+- Scrum
+- Scrum Master
+- Scrum Product Development
+- Scrum Product Management
+- Scrum Team
+- Software Development
 - Team Collaboration
+- Team Performance
+- Value Delivery
 categories:
+- Events and Presentations
 - People and Process
 - Scrum
 preview: nakedalm-experts-professional-scrum-6-6.png

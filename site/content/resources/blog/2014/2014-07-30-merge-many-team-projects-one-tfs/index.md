@@ -26,27 +26,25 @@ aliasesFor404:
 - /blog/merge-team-projects-into-one-in-tfs
 - /resources/blog/merge-many-team-projects-one-tfs
 tags:
-- Agile Tools
-- Team Collaboration
-- Change Management
-- Agile Software Development
-- Technical Debt
-- Continuous Improvement
-- Agile Product Management
-- Evidence Based Management
-- Agile Transformation
-- Value Stream Management
-- Agile Project Management
-- Technical Excellence
-- Agile Scaling
-- DevOps
 - Agile Digital Tools
-categories:
+- Agile Tools
+- Application Lifecycle Management
 - Azure DevOps
+- Change Management
+- Collaboration Tools
+- Modern Source Control
+- Organisational Change
+- Software Developers
+- Software Development
+- Software Increment
+- System Configuration
+- Technical Mastery
+- Technical Strategy
+- Value Delivery
+categories:
+- Code and Complexity
 - Install and Configuration
 - Practical Techniques and Tooling
-- Application Lifecycle Management
-- Technical Excellence
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---

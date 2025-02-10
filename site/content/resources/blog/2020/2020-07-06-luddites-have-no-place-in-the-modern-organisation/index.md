@@ -21,27 +21,8 @@ aliasesFor404:
 - /luddites-have-no-place-in-the-modern-organisation
 - /blog/luddites-have-no-place-in-the-modern-organisation
 - /resources/blog/luddites-have-no-place-in-the-modern-organisation
-tags:
-- Organisational Culture
-- Change Management
-- Business Agility
-- Agile Leadership
-- Agile Evolution
-- Employee Engagement
-- Agile Transformation
-- Leadership Training
-- Team Collaboration
-- Continuous Improvement
-- Agile Values and Principles
-- Market Adaptability
-- Agile Project Management
-- Systems Thinking
-categories:
-- Organisational Agility
-- People and Process
-- Resilience and Change
-- Discovery and Learning
-- Organisational Psychology
+tags: []
+categories: []
 preview: image-3-3-3.png
 
 ---

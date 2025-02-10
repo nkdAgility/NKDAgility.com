@@ -22,20 +22,7 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/Zegnsk2Nl0Y/maxresdefault.jpg
 duration: 44
 isShort: true
-tags:
-- Azure DevOps
-- Team Collaboration
-- Continuous Delivery
-- Technical Excellence
-- Scrum Team
-- Agile Software Development
-- Value Delivery
-- Agile Project Management
-- Agile Product Management
-- Working Software
-- Definition of Done
-- Customer Feedback Loops
-- Transparency
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -43,11 +30,9 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- DevOps
 - Scrum
-- Azure DevOps
-- Practical Techniques and Tooling
-- Value Delivery
-- Systems Thinking
+- People and Process
 
 ---
  #shorts #shortsvideo #shortvideo 5 tools that a #scrummaster loves. #scrum tool 5

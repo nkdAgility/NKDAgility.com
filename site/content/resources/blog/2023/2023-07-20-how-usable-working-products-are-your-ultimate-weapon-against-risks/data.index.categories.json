@@ -1,0 +1,42 @@
+{
+  "DevOps": {
+    "category": "DevOps",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 59.0,
+    "reasoning": "Content primarily focuses on the importance of delivering usable working products, continuous feedback loops, and automation, which are central to DevOps practices.",
+    "level": "Secondary"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "ai_confidence": 30,
+    "non_ai_confidence": 0,
+    "final_score": 21.0,
+    "reasoning": "The content discusses Agile practices and the importance of delivering usable working products, but it does not specifically mention Azure DevOps or its tools. The focus is primarily on Agile methodologies rather than Azure DevOps itself.",
+    "level": "Ignored"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses aspects of Agile practices, including feedback loops and continuous delivery, which are relevant to Kanban principles, but the primary focus is on usable working products rather than Kanban itself.",
+    "level": "Ignored"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "ai_confidence": 85,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on the importance of delivering usable working products, continuous feedback loops, and automation in testing, which are all key aspects of agile engineering practices that enable agility.",
+    "level": "Secondary"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses Agile practices and the importance of delivering usable working products, which aligns with Scrum principles, but it does not focus specifically on Scrum roles or events.",
+    "level": "Ignored"
+  }
+}

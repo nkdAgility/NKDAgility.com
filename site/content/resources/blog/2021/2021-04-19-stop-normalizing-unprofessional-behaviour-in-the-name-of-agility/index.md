@@ -22,26 +22,9 @@ aliasesFor404:
 - /stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
 - /blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
 - /resources/blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
-tags:
-- Scrum
-- Scrum Team
-- Definition of Done
-- Software Increment
-- Technical Excellence
-- Accountability
-- Continuous Improvement
-- Agile Values and Principles
-- Organisational Culture
-- Professional Scrum
-- Agile Transformation
-- Team Collaboration
-- Change Management
-- Evidence Based Leadership
+tags: []
 categories:
-- People and Process
-- Transparency and Accountability
-- Organisational Agility
-- Technical Excellence
+- DevOps
 - Scrum
 preview: naked-agility-technically-agile-1280×720-19-1-1.jpg
 

@@ -25,26 +25,8 @@ aliasesFor404:
 - /it's-that-time-again;-get-ready-to-upgrade-to-tfs-2015
 - /blog/it's-that-time-again;-get-ready-to-upgrade-to-tfs-2015
 - /resources/blog/its-that-time-again-get-ready-to-upgrade-to-tfs-2015
-tags:
-- Agile Software Development
-- Continuous Delivery
-- Technical Excellence
-- Deployment Strategies
-- Change Management
-- Agile Planning
-- Evidence Based Management
-- Agile Transformation
-- Value Delivery
-- Customer Feedback Loops
-- Agile Project Management
-- Technical Debt
-- Agile Methodology
-- Organisational Change
-categories:
-- Azure DevOps
-- Application Lifecycle Management
-- Install and Configuration
-- Technical Excellence
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

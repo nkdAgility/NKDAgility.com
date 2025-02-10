@@ -1,9 +1,12 @@
-<div class="resourcetypes">
-  {{ if reflect.IsSlice .Params.resourcetypes }}
-    {{ range .Params.resourcetypes }}
-      <span class="badge text-bg-nkdagility-primary">{{- . }}</span>
+<div class="d-flex">
+  <div class="resourcetypes p-1">
+    <span class="badge text-bg-nkdagility-primary">{{- .Params.ResourceType }}</span>
+  </div>
+  <div class="categories p-1">
+    {{ with .Params.categories }}
+      {{ range . }}
+        <a href="{{ "/categories/" | relURL }}{{ . | urlize }}" class="btn btn-sm btn-nkdagility-secondary">{{ . }}</a>
+      {{ end }}
     {{ end }}
-  {{ else }}
-    <span class="badge text-bg-nkdagility-primary">{{- .Params.resourcetypes }}</span>
-  {{ end }}
+  </div>
 </div>

@@ -1,3 +1,6 @@
+# Helpers
+. ./.powershell/_includes/LoggingHelper.ps1
+
 # Method 1: Upload image files using azcopy
 function Upload-ImageFiles {
     param (
@@ -9,12 +12,12 @@ function Upload-ImageFiles {
         [string]$AzureSASToken
     )
     try {
-        Write-Host "Uploading image files to Azure Blob Storage using azcopy..."
+        Write-Debug "Uploading image files to Azure Blob Storage using azcopy..."
         azcopy sync $LocalPath "$BlobUrlBase`?$AzureSASToken" --recursive=true --include-pattern "*.jpg;*.jpeg;*.png;*.gif;*.webp;*.svg" --compare-hash=MD5
-        Write-Host "Upload complete."
+        Write-Debug "Upload complete."
     }
     catch {
-        Write-Host "Error during upload: $_"
+        Write-Debug "Error during upload: $_"
     }
 }
 
@@ -24,19 +27,19 @@ function Delete-LocalImageFiles {
         [string]$LocalPath
     )
     try {
-        Write-Host "Deleting all image files locally..."
+        Write-Debug "Deleting all image files locally..."
         Get-ChildItem -Path $LocalPath -Recurse -Include *.jpg, *.jpeg, *.png, *.gif, *.webp, *.svg | ForEach-Object {
             try {
                 Remove-Item -Path $_.FullName -Force
-                Write-Host "Deleted: $($_.FullName)"
+                Write-Debug "Deleted: $($_.FullName)"
             }
             catch {
-                Write-Host "Error deleting file $($_.FullName): $_"
+                Write-Debug "Error deleting file $($_.FullName): $_"
             }
         }
     }
     catch {
-        Write-Host "Error during file deletion: $_"
+        Write-Debug "Error during file deletion: $_"
     }
 }
 
@@ -47,7 +50,7 @@ function Rewrite-ImageLinks {
         [string]$BlobUrl
     )
   
-    Write-Host "Rewriting image links in .html files using regex..."
+    Write-InfoLog "Rewriting image links in .html files using regex..."
 
     $HtmlFiles = Get-ChildItem -Path $LocalPath -Recurse -Include *.html
 
@@ -99,7 +102,7 @@ function Rewrite-ImageLinks {
                     }      
                 }
                 catch {
-                    Write-Host "  ERROR HTTP: $OriginalPath -> $UpdatedPath : $_" 
+                    Write-Debug "  ERROR HTTP: $OriginalPath -> $UpdatedPath : $_" 
                 }              
             }
             elseif ($OriginalPath.StartsWith("/")) {
@@ -112,33 +115,33 @@ function Rewrite-ImageLinks {
                     # Relative paths - Ensure consistency by converting to root-relative
                     # 1. Get the parent directory of the HTML file
                     $ParentDirectory = Split-Path -Path $HtmlFile.FullName -Parent
-                    Write-Host "Parent Directory: $ParentDirectory"
+                    Write-Debug "Parent Directory: $ParentDirectory"
 
                     # 2. Combine the parent directory with the original path
                     $CombinedPath = Join-Path -Path $ParentDirectory -ChildPath $OriginalPath
-                    Write-Host "Combined Path: $CombinedPath"
+                    Write-Debug "Combined Path: $CombinedPath"
 
                     if (-not (Test-Path -Path $CombinedPath)) {
-                        Write-Host "  Path does not exist: $CombinedPath"
+                        Write-Debug "  Path does not exist: $CombinedPath"
                         continue;
                     }
                     # 3. Resolve the full path
                     $ResolvedPath = Resolve-Path -Path $CombinedPath
-                    Write-Host "Resolved Path: $ResolvedPath"
+                    Write-Debug "Resolved Path: $ResolvedPath"
 
                     # 4. Get the root-relative path
                     $LocalImagesFullPath = (Get-Item $LocalPath).FullName
-                    Write-Host "Local Images Full Path: $LocalImagesFullPath"
+                    Write-Debug "Local Images Full Path: $LocalImagesFullPath"
 
                     $RootRelativePath = $ResolvedPath.Path.Replace($LocalImagesFullPath, "").Replace("\", "/")
-                    Write-Host "Root Relative Path: $RootRelativePath"
+                    Write-Debug "Root Relative Path: $RootRelativePath"
 
                     # 5. Construct the updated path
                     $UpdatedPath = "$BlobUrl/$RootRelativePath"
-                    Write-Host "  Updated Path: $UpdatedPath"
+                    Write-Debug "  Updated Path: $UpdatedPath"
                 }
                 catch {
-                    Write-Host "  Error resolving path: $_"
+                    Write-Debug "  Error resolving path: $_"
                     continue;
                 }
             }
@@ -146,7 +149,7 @@ function Rewrite-ImageLinks {
             # Replace the original path in the content
             if ($OriginalPath -ne $UpdatedPath) {
                 $FileContent = $FileContent -replace [regex]::Escape($OriginalPath), $UpdatedPath
-                Write-Host "  Replaced: $OriginalPath -> $UpdatedPath"
+                Write-Debug "  Replaced: $OriginalPath -> $UpdatedPath"
                 $totalLinks += 1;
             }
             
@@ -154,10 +157,10 @@ function Rewrite-ImageLinks {
 
         # Save updated content back to the file
         Set-Content -LiteralPath $HtmlFile.FullName -Value $FileContent
-        Write-Host "Updated ($($Matches.count)): $($HtmlFile.FullName)" -ForegroundColor Green
+        Write-InfoLog "Updated ($($Matches.count)): $($HtmlFile.FullName)"
             
     }
-    Write-Host "HTML link  rewriting complete of $totalLinks."
+    Write-InfoLog "HTML link  rewriting complete of $totalLinks."
 
     
 }

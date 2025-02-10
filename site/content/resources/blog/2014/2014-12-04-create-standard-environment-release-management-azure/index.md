@@ -26,27 +26,25 @@ aliasesFor404:
 - /blog/create-a-standard-environment-for-release-management-in-azure
 - /resources/blog/create-standard-environment-release-management-azure
 tags:
-- Azure DevOps
-- Continuous Delivery
-- Deployment Frequency
-- Agile Tools
 - Application Lifecycle Management
-- Technical Excellence
+- Azure DevOps
+- CI/CD
+- Continuos Delivery
+- Deployment Strategies
 - DevOps
-- Agile Software Development
-- Value Stream Management
-- Release Planning
-- Agile Product Management
-- Customer Feedback Loops
-- Evidence Based Management
-- Lean Principles
-- Technical Debt
+- Operational Practices
+- Software Development
+- System Configuration
+- Technical Excellence
+- Technical Mastery
+- Technical Strategy
+- Value Delivery
+- Windows
+- Working Software
 categories:
-- Install and Configuration
-- Azure DevOps
 - Application Lifecycle Management
-- Practical Techniques and Tooling
-- Events and Presentations
+- Install and Configuration
+- Technical Excellence
 preview: nakedalm-windows-logo-16-16.png
 
 ---

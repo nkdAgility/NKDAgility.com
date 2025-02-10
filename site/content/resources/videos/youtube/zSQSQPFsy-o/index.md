@@ -28,28 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Team
-- Scrum Values
-- Sprint Review
-- Empirical Process Control
+- Scrum
+- Agility
+- Scrum Product Development
+- Scrum Product Management
+- People and Process
 - Transparency
+- Agile Project Management
 - Agile Values and Principles
-- Product Backlog
-- Continuous Improvement
-- Team Collaboration
+- Agile Software Development
+- Agile Product Ownership
+- Scrum Master
+- Sprint Review
 - Agile Product Management
-- Value Delivery
-- Organisational Culture
-- Team Motivation
-- Agile Transformation
+- Coaching
+- Strategic
 resourceTypes:
 - video
 categories:
 - Scrum
-- Organisational Agility
+- Agile Product Management
 - People and Process
-- Transparency and Accountability
-- Value Delivery
 
 ---
 Why is Scrum so easy to understand but incredibly hard to master?

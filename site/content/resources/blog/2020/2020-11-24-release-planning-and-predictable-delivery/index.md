@@ -22,26 +22,11 @@ aliasesFor404:
 - /blog/release-planning-and-predictable-delivery
 - /resources/blog/release-planning-and-predictable-delivery
 tags:
-- Release Planning
-- Agile Planning
-- Scrum Team
-- Definition of Done
-- Technical Debt
-- Continuous Delivery
-- Agile Predictability
-- Software Increment
-- Team Collaboration
-- Agile Product Ownership
-- Value Stream Management
-- Engineering Excellence
-- Agile Software Development
-- Customer Feedback Loops
+- Technical Strategy
 categories:
-- People and Process
-- Product Delivery
-- Organisational Agility
+- DevOps
+- Scrum
 - Technical Excellence
-- Value Delivery
 preview: nkdAgility-habits-16x9-1280-2-2.jpg
 
 ---

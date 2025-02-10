@@ -26,26 +26,9 @@ aliasesFor404:
 - /rethinking-'user-stories'--a-call-for-clarity-in-product-backlog-management
 - /blog/rethinking-'user-stories'--a-call-for-clarity-in-product-backlog-management
 - /resources/blog/rethinking-user-stories-a-call-for-clarity-in-product-backlog-management
-tags:
-- Product Backlog
-- Scrum Product Management
-- Scrum Team
-- Definition of Done
-- Agile Product Management
-- Agile Planning
-- Team Collaboration
-- Continuous Improvement
-- Agile Product Discovery
-- Value Delivery
-- Technical Excellence
-- Agile Methodology
-- Evidence Based Management
+tags: []
 categories:
-- Agile Product Management
-- Discovery and Learning
-- People and Process
-- Transparency and Accountability
-- Systems Thinking
+- Scrum
 preview: naked-agility-technically-rethinkinguserstories-1-1-1.jpg
 
 ---

@@ -28,21 +28,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Professional Scrum
-- Agile Leadership
-- Employee Engagement
-- Technical Mastery
-- Agile Values and Principles
-- Team Motivation
 - Discovery and Learning
-- Agile Transformation
-- Ability to Innovate
+- Continuous Improvement
+- Continuous Learning
+- Personal
 resourceTypes:
 - video
 categories:
 - Discovery and Learning
-- Organisational Psychology
-- People and Process
+- Personal
 
 ---
 ## Level Up Your Game: 3 Unbeatable Reasons to Enhance Your Skills

@@ -28,26 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- Agile Planning
-- Agile Strategy
-- Cycle Time
-- Lead Time
-- Throughput
-- Continuous Improvement
-- Scrum Team
+- Kanban
+- Kanban Flow
+- Scaling Kanban
 - Kanban Process
-- Evidence Based Management
-- Agile Forecasting
-- Technical Excellence
+- Agile Tools
+- Scrum
+- Kanban Theory
+- Kanban Training
+- Flow Efficiency
+- Throughput
+- Pragmatic Thinking
+- Technical Strategy
+- Lean Agile
+- Value Delivery
+- Operational Practices
 resourceTypes:
 - video
 categories:
 - Kanban
-- Scrum
 - Metrics and Learning
-- Value Stream Management
-- People and Process
+- Scrum
 
 ---
 ### Integrating Kanban with Scrum: Enhancing Your Workflow

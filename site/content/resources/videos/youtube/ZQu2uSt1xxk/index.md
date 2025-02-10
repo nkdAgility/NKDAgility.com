@@ -27,30 +27,13 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Kanban Theory
-- Scaling Kanban
-- Continuous Improvement
-- Value Stream Management
-- Agile Strategy
-- Systems Thinking
-- Kanban Coaching
-- Agile Planning
-- Evidence Based Management
-- Flow Efficiency
-- Lean Thinking
-- Agile Tools
-- Team Collaboration
-- Agile Product Management
-- Customer Feedback Loops
+tags: []
 resourceTypes:
 - video
 categories:
 - Kanban
-- Value Stream Management
+- Practical Techniques and Tooling
 - Metrics and Learning
-- People and Process
-- Value Delivery
 
 ---
 ### Understanding and Applying Kanban: The Professional Kanban Course

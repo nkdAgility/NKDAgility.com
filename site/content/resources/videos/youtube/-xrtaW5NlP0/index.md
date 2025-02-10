@@ -27,19 +27,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Systems Thinking
+- Kanban
 - Throughput
-- Customer Satisfaction
-- Evidence Based Management
-- Agile Product Discovery
-- Change Management
+- Kanban Flow
+- Agility
+- Flow Efficiency
+- Kanban Coaching
+- Cycle Time
+- Kanban Theory
+- Kanban Process
+- Predictability in Kanban
+- People and Process
+- Systemic Thinking
+- Systems Thinking
+- Kanban Training
+- Data Driven Decisions
 resourceTypes:
 - video
 layout: video
 categories:
-- Value Stream Management
+- Kanban
 - Flow Efficiency
-- Systems Thinking
+- People and Process
 
 ---
 Creativity, with its boundless landscape, where every spark of inspiration has the potential to morph into a magnum opus, often thrives in a state of organised chaos.  

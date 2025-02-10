@@ -26,10 +26,18 @@ aliasesFor404:
 - /blog/lab-management-issue--enable-file-and-printer-sharing-for-lab-management-standard-environments
 - /resources/blog/windows-server-2012-core-issue-enable-file-and-printer-sharing-for-lab-management-standard-environments
 tags:
+- Engineering Practices
+- Operational Practices
+- Software Development
+- System Configuration
 - Technical Excellence
-- Continuous Delivery
+- Technical Mastery
+- Troubleshooting
+- Windows
 categories:
 - Install and Configuration
+- Practical Techniques and Tooling
+- Technical Excellence
 preview: puzzle-issue-problem-128-link-6-6.png
 
 ---

@@ -28,11 +28,25 @@ aliasesFor404:
 - /issue-tfs-2013-tf50309-when-configuring-features-in-team-foundation-server-2013/
 - /resources/blog/issue-tfs-2013-tf50309-when-configuring-features-in-team-foundation-server-2013
 tags:
+- Agile Digital Tools
 - Agile Tools
+- Application Lifecycle Management
 - Azure DevOps
+- DevOps
+- Engineering Practices
+- Operational Practices
+- People and Process
+- Software Developers
+- Software Development
+- System Configuration
+- Technical Excellence
+- Technical Mastery
+- Troubleshooting
+- Working Software
 categories:
 - Install and Configuration
-- Azure DevOps
+- People and Process
+- Practical Techniques and Tooling
 preview: puzzle-issue-problem-128-link-5-5.png
 
 ---

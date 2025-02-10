@@ -28,11 +28,22 @@ aliasesFor404:
 - /tfs-2012-3-issue
 - /resources/blog/tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
 tags:
-- Agile Software Development
-- Technical Debt
-categories:
-- Install and Configuration
+- Application Lifecycle Management
 - Azure DevOps
+- DevOps
+- Operational Practices
+- Software Developers
+- Software Development
+- System Configuration
+- Technical Excellence
+- Technical Mastery
+- Troubleshooting
+- Windows
+- Working Software
+categories:
+- Azure DevOps
+- Practical Techniques and Tooling
+- Technical Excellence
 preview: puzzle-issue-problem-128-link-3-3.png
 
 ---

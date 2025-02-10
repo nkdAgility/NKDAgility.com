@@ -26,19 +26,24 @@ aliasesFor404:
 - /blog/change-the-release-management-server-that-your-client-connects-to
 - /resources/blog/change-release-management-server-client-connects
 tags:
-- Release Planning
-- Continuous Delivery
-- Technical Excellence
-- Agile Tools
-- Deployment Strategies
-- Customer Feedback Loops
-- Agile Software Development
-- Evidence Based Management
-- Change Management
-- Agile Project Management
-categories:
-- Install and Configuration
+- Application Lifecycle Management
 - Azure DevOps
+- Azure Pipelines
+- Change Management
+- CI/CD
+- DevOps
+- Operational Practices
+- Pragmatic Thinking
+- Release Planning
+- Software Developers
+- Software Development
+- System Configuration
+- Technical Excellence
+- Technical Mastery
+- Troubleshooting
+categories:
+- Azure DevOps
+- Install and Configuration
 - Practical Techniques and Tooling
 
 ---

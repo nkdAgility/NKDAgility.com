@@ -1,0 +1,42 @@
+{
+  "DevOps": {
+    "category": "DevOps",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses Scrum roles and conflict resolution within a Scrum Team, which is a significant aspect of Agile methodologies that can relate to DevOps practices, but the primary focus is on Scrum rather than DevOps itself.",
+    "level": "Ignored"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "ai_confidence": 30,
+    "non_ai_confidence": 0,
+    "final_score": 21.0,
+    "reasoning": "The content primarily discusses conflict resolution within a Scrum team, which is related to agile methodologies but does not focus on Azure DevOps tools or practices.",
+    "level": "Ignored"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses conflict resolution within a Scrum team and does not focus on Kanban principles or practices.",
+    "level": "Ignored"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses Scrum practices and conflict resolution within a Scrum team, which relates to agile methodologies and team dynamics, but it is primarily focused on interpersonal conflict rather than engineering practices like TDD, CI/CD, or modular architecture.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "ai_confidence": 92,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "Content heavily discusses conflict resolution within a Scrum Team, detailing the roles of the Development Team and Scrum Master, and how to facilitate Scrum events effectively.",
+    "level": "Secondary"
+  }
+}

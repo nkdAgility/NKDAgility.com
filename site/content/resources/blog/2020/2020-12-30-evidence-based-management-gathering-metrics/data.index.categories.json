@@ -1,0 +1,42 @@
+{
+  "DevOps": {
+    "category": "DevOps",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 59.0,
+    "reasoning": "Content primarily focuses on gathering metrics for Evidence-based Management in software organisations, which aligns with the DevOps goal of continuous delivery of value to end users through improved processes and tools.",
+    "level": "Secondary"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "ai_confidence": 30,
+    "non_ai_confidence": 0,
+    "final_score": 21.0,
+    "reasoning": "The content primarily discusses Evidence-based Management and agile metrics, with only a minor mention of software delivery practices that could relate to Azure DevOps.",
+    "level": "Ignored"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses Evidence-based Management within the context of Scrum, focusing on metrics and value delivery rather than Kanban principles or practices.",
+    "level": "Ignored"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 59.0,
+    "reasoning": "The content primarily discusses the importance of metrics in Evidence-based Management within agile frameworks, which aligns with engineering practices that enable agility.",
+    "level": "Secondary"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "ai_confidence": 85,
+    "non_ai_confidence": 50,
+    "final_score": 74.0,
+    "reasoning": "Content primarily discusses Evidence-based Management, which is a framework from Scrum.org, and elaborates on metrics relevant to Scrum practices, indicating a strong focus on Scrum principles.",
+    "level": "Secondary"
+  }
+}

@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/installing-visual-studio-2008-team-suite-on-windows-7
 - /resources/blog/installing-visual-studio-2008-team-suite-on-windows-7
 tags:
-- Agile Software Development
-- Technical Excellence
+- Windows
+- System Configuration
 preview: metro-visual-studio-2005-128-link-9-9.png
 categories:
 - Install and Configuration
