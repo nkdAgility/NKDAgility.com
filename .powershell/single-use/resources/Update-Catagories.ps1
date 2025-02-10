@@ -41,7 +41,7 @@ $resources | ForEach-Object {
     Write-InfoLog "--------------------------------------------------------"
     Write-InfoLog "Processing post: $(Resolve-Path -Path $resourceDir -Relative)"
 
-    Remove-ClassificationsFromCache -ClassificationsToRemove @("CI/CD") -CacheFolder $resourceDir -ClassificationType "tags"
+    Remove-ClassificationsFromCache -ClassificationsToRemove @("Continuos Integration") -CacheFolder $resourceDir -ClassificationType "tags"
     #Remove-ClassificationsFromCacheThatLookBroken -ClassificationCatalog $tagsCatalog -CacheFolder $resourceDir -ClassificationType "tags"
 }
 
