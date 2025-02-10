@@ -23,11 +23,10 @@ aliasesFor404:
 - /blog/definition-of-done---objective-vs-subjective
 tags:
 - Acceptance Test Driven Development
-- Agile Product Validation
 - Agility
 - CI/CD
 - Definition of Done
-- Operational Practices
+- Product Owner
 - Professional Scrum
 - Scrum
 - Scrum Product Development
@@ -35,7 +34,8 @@ tags:
 - Scrum Team
 - Software Development
 - Strategic
-- Value Delivery
+- Technical Strategy
+- Test Strategy
 - Working Agreements
 categories:
 - Metrics and Learning

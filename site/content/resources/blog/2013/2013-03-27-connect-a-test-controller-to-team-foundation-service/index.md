@@ -22,7 +22,6 @@ aliasesFor404:
 - /blog/connect-a-test-controller-to-team-foundation-service
 - /resources/blog/connect-a-test-controller-to-team-foundation-service
 tags:
-- Application Lifecycle Management
 - Automated Testing
 - Azure DevOps
 - DevOps
@@ -30,6 +29,7 @@ tags:
 - Engineering Practices
 - Experimentation
 - Modern Source Control
+- Operational Practices
 - Software Developers
 - Software Development
 - System Configuration

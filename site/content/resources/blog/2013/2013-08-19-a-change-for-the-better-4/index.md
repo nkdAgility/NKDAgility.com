@@ -30,21 +30,21 @@ aliasesFor404:
 tags:
 - Agile Coaching
 - Agile Mentoring
+- Agile Pilot
 - Agile Planning
+- Agile Planning Tools
 - Agile Project Management
 - Agile Software Development
 - Agile Values and Principles
 - Agility
 - Application Lifecycle Management
 - Coaching
-- Lean Agile
 - Mentoring
 - Resilience and Change
 - Scrum
 - Scrum Product Development
-- Scrum Product Management
 categories:
-- Lean
+- Application Lifecycle Management
 - Resilience and Change
 - Scrum
 preview: nakedalm-logo-128-link-4-4.png

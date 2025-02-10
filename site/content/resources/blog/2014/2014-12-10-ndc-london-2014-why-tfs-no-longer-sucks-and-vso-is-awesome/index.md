@@ -26,14 +26,14 @@ aliasesFor404:
 - /blog/ndc-london-2014--why-tfs-no-longer-sucks-and-vso-is-awesome
 - /resources/blog/ndc-london-2014-why-tfs-no-longer-sucks-and-vso-is-awesome
 tags:
-- Agile Digital Tools
-- Agile Planning Tools
 - Agile Product Management
 - Agile Product Ownership
+- Agile Product Validation
 - Agile Software Development
 - Agile Tools
 - Agility
 - Azure DevOps
+- Deployment Strategies
 - Product Owner
 - Release Planning
 - Scrum Product Development

@@ -28,9 +28,9 @@ aliasesFor404:
 tags:
 - Application Lifecycle Management
 - Azure DevOps
+- Change Management
 - Deployment Strategies
 - DevOps
-- Digital Transformation
 - Featured
 - Modern Source Control
 - Software Developers
@@ -44,7 +44,7 @@ tags:
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Product Delivery
+- Technical Excellence
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 
 ---

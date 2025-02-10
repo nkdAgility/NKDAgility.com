@@ -29,13 +29,13 @@ tags:
 - Agile Evolution
 - Agile Frameworks
 - Agile Leader
+- Agile Methodology
 - Agile Problem Solving
-- Agile Product Management
-- Agile Software Development
 - Agile Software Engineering
-- Agile Strategy
 - Agile Tools
+- Agile Transformation
 - Agile Values and Principles
+- Lean Agile
 - Scrum
 categories:
 - Agile Product Management

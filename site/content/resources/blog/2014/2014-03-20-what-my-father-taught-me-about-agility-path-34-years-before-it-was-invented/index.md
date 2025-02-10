@@ -42,9 +42,9 @@ tags:
 - Software Development
 - Value Delivery
 categories:
-- Agile Product Management
+- Enterprise Agility
+- Metrics and Learning
 - Scrum
-- Value Delivery
 preview: nakedalm-agility-index-7-7.png
 
 ---

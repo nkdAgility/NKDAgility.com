@@ -25,17 +25,17 @@ tags:
 - Agile Digital Tools
 - Agile Tools
 - Application Lifecycle Management
+- Azure Boards
 - Azure DevOps
-- Azure Repos
 - DevOps
 - Engineering Practices
+- Modern Source Control
 - Operational Practices
 - Pragmatic Thinking
 - Software Developers
 - Software Development
 - Technical Excellence
 - Technical Mastery
-- Windows
 - Working Software
 categories:
 - Code and Complexity

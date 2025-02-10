@@ -35,8 +35,8 @@ tags:
 - Application Lifecycle Management
 - Azure DevOps
 - Change Management
-- Continuous Improvement
 - DevOps
+- Engineering Excellence
 - Modern Source Control
 - Release Planning
 - Software Developers

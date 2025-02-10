@@ -166,6 +166,9 @@ function Get-OpenAIResponse {
 #######################################################
 #######################################################
 
+$batchesInProgress = $null;
+$batchesInProgressMax = 10;
+
 function Submit-OpenAIBatch {
     param (
         [string]$OPEN_AI_KEY = $env:OPENAI_API_KEY,
@@ -173,6 +176,14 @@ function Submit-OpenAIBatch {
         [array]$Prompts,
         [string]$OutputFile = "batch_output.jsonl"
     )
+    if (-not $batchesInProgress) {
+        # Get current batches in progress
+        $batchesInProgress = Get-OpenAIBatchesInProgress -ApiKey $OPEN_AI_KEY
+    }
+    if ($batchesInProgress -ge $batchesInProgressMax) {
+        Write-WarningLog "Maximum number of batches in progress reached. Please wait for some to complete before submitting more."
+        return $null
+    }
     $tokenEstimate = 0
     $BatchData = $Prompts | ForEach-Object {
         $tokenEstimate += Get-TokenEstimate $_
@@ -203,7 +214,9 @@ function Submit-OpenAIBatch {
     $BatchRequest = @{input_file_id = $FileId; endpoint = "/v1/chat/completions"; completion_window = "24h"; metadata = $BatchRequestMeta } | ConvertTo-Json
     $BatchResponse = Invoke-RestMethod -Uri "https://api.openai.com/v1/batches" -Headers @{"Authorization" = "Bearer $OPEN_AI_KEY"; "Content-Type" = "application/json" } -Method Post -Body $BatchRequest
     $BatchId = $BatchResponse.id
-    
+    if ($batchId) {
+        $batchesInProgress++
+    }
     Write-Host "Batch submitted. ID: $BatchId"
     return $BatchId
 }
@@ -273,6 +286,51 @@ function Submit-And-Wait-OpenAIBatch {
     return Retrieve-OpenAIBatchResults -ApiKey $OPEN_AI_KEY -BatchId $BatchId -OutputFile $OutputFile
 }
 
+function Get-OpenAIBatchesInProgress {
+    param (
+        [string]$OPEN_AI_KEY = $env:OPENAI_API_KEY
+    )
+
+    $headers = @{
+        "Authorization" = "Bearer $OPEN_AI_KEY"
+        "Content-Type"  = "application/json"
+    }
+
+    $totalBatches = 0
+    $after = $null  # Cursor for pagination
+
+    do {
+        # Construct the API URL with pagination support
+        $url = "https://api.openai.com/v1/batches"
+        if ($after) {
+            $url += "?after=$after"
+        }
+
+        # Get the list of all batches
+        $batchesResponse = Invoke-RestMethod -Uri $url -Headers $headers -Method Get
+
+        if (-not $batchesResponse.data -or $batchesResponse.data.Count -eq 0) {
+            Write-DebugLog "No active batches found."
+            return 0
+        }
+
+        # Loop through each batch and retrieve details
+        foreach ($batch in $batchesResponse.data) {
+            $batchId = $batch.id
+            Write-DebugLog "Batch ID: $batchId | Status: $($batch.status)"
+            if ($batch.status -eq "in_progress" -or $batch.status -eq "queued") {
+                $totalBatches++;
+            }
+        }
+
+        # Use the last batch ID as the 'after' cursor for the next request
+        $after = if ($batchesResponse.has_more -and $batchesResponse.last_id) { $batchesResponse.last_id } else { $null }
+
+    } while ($after)  # Continue fetching pages until all batches are retrieved
+
+    Write-DebugLog "Total enqueued batches: $totalBatches"
+    return $totalBatches
+}
 
 function Get-OpenAIEnqueuedTokens {
     param (

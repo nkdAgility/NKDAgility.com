@@ -31,11 +31,11 @@ tags:
 - Deployment Strategies
 - DevOps
 - Engineering Practices
-- Experimentation
 - Operational Practices
 - Software Developers
 - Software Development
 - System Configuration
+- Technical Mastery
 - Working Software
 categories:
 - Application Lifecycle Management

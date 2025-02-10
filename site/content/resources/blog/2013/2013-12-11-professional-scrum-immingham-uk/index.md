@@ -30,7 +30,7 @@ aliasesFor404:
 - /blog/professional-scrum-in-immingham--uk
 - /resources/blog/professional-scrum-immingham-uk
 tags:
-- Agile Frameworks
+- Agile Project Management
 - Agile Software Development
 - Agile Software Engineering
 - Cross Functional Teams

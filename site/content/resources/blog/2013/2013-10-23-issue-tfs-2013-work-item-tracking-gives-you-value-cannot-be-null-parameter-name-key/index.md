@@ -31,16 +31,16 @@ tags:
 - Agile Problem Solving
 - Agile Tools
 - Agility
+- Application Lifecycle Management
+- Azure Boards
 - Azure DevOps
 - Engineering Excellence
-- Operational Practices
-- Sensemaking
 - Software Developers
 - Software Development
 - System Configuration
 - Technical Excellence
+- Technical Mastery
 - Troubleshooting
-- Working Software
 categories:
 - Azure DevOps
 - Code and Complexity

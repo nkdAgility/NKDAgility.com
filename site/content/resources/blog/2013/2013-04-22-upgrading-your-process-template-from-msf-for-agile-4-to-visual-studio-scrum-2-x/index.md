@@ -30,7 +30,7 @@ tags:
 - Agile Tools
 - Agile Transformation
 - Agility
-- Modern Source Control
+- People and Process
 - Product Backlog
 - Scrum
 - Scrum Product Development
@@ -39,7 +39,7 @@ tags:
 - Working Software
 categories:
 - Install and Configuration
-- People and Process
+- Practical Techniques and Tooling
 - Scrum
 
 ---

@@ -23,11 +23,11 @@ aliasesFor404:
 - /resources/blog/creating-a-work-item-with-defaults-in-team-foundation-server
 tags:
 - Agile Digital Tools
-- Agile Planning Tools
 - Agile Tools
 - Application Lifecycle Management
 - Azure Boards
 - Azure DevOps
+- Engineering Practices
 - Modern Source Control
 - Product Backlog
 - Software Developers
@@ -39,8 +39,8 @@ tags:
 - Working Software
 categories:
 - Application Lifecycle Management
+- Install and Configuration
 - Practical Techniques and Tooling
-- Product Delivery
 
 ---
 In some cases you want to be creating a Work Item with defaults in Team Foundation Server so that you can give access to users but also give them guidance on what to fill out.

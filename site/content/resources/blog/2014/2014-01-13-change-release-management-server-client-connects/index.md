@@ -28,6 +28,7 @@ aliasesFor404:
 tags:
 - Application Lifecycle Management
 - Azure DevOps
+- Azure Pipelines
 - Change Management
 - CI/CD
 - DevOps
@@ -40,7 +41,6 @@ tags:
 - Technical Excellence
 - Technical Mastery
 - Troubleshooting
-- Working Software
 categories:
 - Azure DevOps
 - Install and Configuration

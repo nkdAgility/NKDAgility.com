@@ -26,15 +26,15 @@ tags:
 - Application Lifecycle Management
 - Azure DevOps
 - Change Management
-- Deployment Strategies
+- Engineering Excellence
 - Featured
 - Modern Source Control
-- Operational Practices
 - Pragmatic Thinking
 - Software Developers
 - Software Development
 - Software Increment
 - System Configuration
+- Technical Mastery
 - Windows
 - Working Software
 categories:

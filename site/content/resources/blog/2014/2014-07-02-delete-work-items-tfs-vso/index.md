@@ -27,8 +27,9 @@ aliasesFor404:
 - /resources/blog/delete-work-items-tfs-vso
 tags:
 - Agile Digital Tools
+- Agile Tools
 - Application Lifecycle Management
-- Azure Boards
+- Azure DevOps
 - Azure Repos
 - DevOps
 - Modern Source Control
@@ -36,7 +37,6 @@ tags:
 - Pragmatic Thinking
 - Software Developers
 - Software Development
-- System Configuration
 - Technical Excellence
 - Technical Mastery
 - Troubleshooting

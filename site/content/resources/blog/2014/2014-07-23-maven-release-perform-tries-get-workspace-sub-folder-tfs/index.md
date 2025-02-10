@@ -27,18 +27,18 @@ aliasesFor404:
 - /resources/blog/maven-release-perform-tries-get-workspace-sub-folder-tfs
 tags:
 - Application Lifecycle Management
-- Azure DevOps
+- Azure Repos
 - CI/CD
 - Continuos Integration
-- Continuous Integration
 - Deployment Strategies
-- DevOps
-- Operational Practices
+- Engineering Practices
+- Modern Source Control
 - Release Planning
 - Software Developers
 - Software Development
 - System Configuration
 - Technical Excellence
+- Technical Mastery
 - Troubleshooting
 - Working Software
 categories:

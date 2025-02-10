@@ -32,14 +32,14 @@ tags:
 - Azure DevOps
 - Change Management
 - Collaboration Tools
-- Deployment Strategies
 - Modern Source Control
-- Operational Practices
 - Organisational Change
 - Software Developers
 - Software Development
+- Software Increment
 - System Configuration
 - Technical Mastery
+- Technical Strategy
 - Value Delivery
 categories:
 - Code and Complexity

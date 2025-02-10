@@ -30,17 +30,17 @@ tags:
 - Agile Planning Tools
 - Agile Tools
 - Agility
+- Application Lifecycle Management
 - Azure Boards
 - Azure DevOps
-- Collaboration Tools
 - DevOps
-- Operational Practices
 - Scrum
 - Software Developers
 - Software Development
 - System Configuration
+- Technical Excellence
+- Technical Mastery
 - Troubleshooting
-- Working Software
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

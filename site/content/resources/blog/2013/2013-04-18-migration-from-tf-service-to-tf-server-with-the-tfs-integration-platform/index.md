@@ -21,7 +21,22 @@ aliasesFor404:
 - /migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
 - /blog/migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
 - /resources/blog/migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
-tags: []
+tags:
+- Application Lifecycle Management
+- Azure DevOps
+- DevOps
+- Engineering Excellence
+- Engineering Practices
+- Modern Source Control
+- Operational Practices
+- People and Process
+- Software Development
+- System Configuration
+- Technical Excellence
+- Technical Mastery
+- Technical Strategy
+- Troubleshooting
+- Working Software
 categories:
 - Install and Configuration
 - People and Process

@@ -25,10 +25,10 @@ tags:
 - Agile Tools
 - Application Lifecycle Management
 - Azure DevOps
-- Change Management
-- Deployment Strategies
+- Azure Repos
+- Engineering Excellence
+- Engineering Practices
 - Modern Source Control
-- Operational Practices
 - Software Developers
 - Software Development
 - Software Increment

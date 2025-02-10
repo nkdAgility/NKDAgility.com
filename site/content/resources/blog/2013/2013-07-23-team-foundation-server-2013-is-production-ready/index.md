@@ -23,12 +23,12 @@ aliasesFor404:
 - /resources/blog/team-foundation-server-2013-is-production-ready
 tags:
 - Agile Community
-- Agile Digital Tools
 - Agile Evolution
 - Agile Software Development
 - Agile Software Engineering
 - Agile Transformation
 - Agility
+- Change Management
 - Large Scale Agility
 - Lean Agile
 - Resilience and Change
@@ -39,7 +39,7 @@ tags:
 - Working Software
 categories:
 - Enterprise Agility
-- Product Delivery
+- Organisational Agility
 - Resilience and Change
 
 ---

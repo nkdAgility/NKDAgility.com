@@ -28,9 +28,9 @@ aliasesFor404:
 tags:
 - Agile Digital Tools
 - Agile Planning Tools
+- Agile Project Management
 - Agile Tools
 - Application Lifecycle Management
-- Azure DevOps
 - Change Management
 - Collaboration Tools
 - Cross Functional Teams

@@ -32,7 +32,7 @@ tags:
 - Continuos Delivery
 - Continuous Delivery
 - Continuous Improvement
-- Frequent Releases
+- Experimentation
 - Personal
 - Software Development
 - Software Increment

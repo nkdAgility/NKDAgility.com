@@ -37,9 +37,9 @@ tags:
 - Windows
 - Working Software
 categories:
-- Azure DevOps
 - Install and Configuration
 - Practical Techniques and Tooling
+- Technical Excellence
 preview: puzzle-issue-problem-128-link-3-3.png
 
 ---

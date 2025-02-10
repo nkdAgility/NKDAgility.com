@@ -22,11 +22,11 @@ aliasesFor404:
 - /blog/there-is-no-such-thing-as-a--junior--scrum-master
 tags:
 - Accountability
-- Agile Product Management
 - Agile Project Management
 - Agile Software Development
 - Agile Software Engineering
 - Agility
+- Business Agility
 - Organisational Agility
 - Organisational Transformational Mastery
 - Professional Scrum
@@ -37,8 +37,8 @@ tags:
 - Scrum Team
 - Technical Mastery
 categories:
+- Agile Product Management
 - Lean
-- Organisational Agility
 - Scrum
 preview: 2025-02-10-no-such-thing-as-a-junior-scrum-master.jpg
 

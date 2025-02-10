@@ -26,19 +26,19 @@ aliasesFor404:
 - /blog/configuring-jenkins-to-talk-to-tfs-2013
 - /resources/blog/configuring-jenkins-talk-tfs-2013
 tags:
+- Agile Tools
 - Application Lifecycle Management
 - Change Management
 - CI/CD
 - Continuos Integration
-- Continuous Delivery
 - Continuous Integration
 - DevOps
+- Engineering Excellence
 - Modern Source Control
-- Operational Practices
 - Software Developers
 - Software Development
 - System Configuration
-- Team Collaboration
+- Test Strategy
 - Value Delivery
 - Working Software
 categories:

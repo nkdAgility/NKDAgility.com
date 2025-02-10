@@ -27,10 +27,11 @@ aliasesFor404:
 - /resources/blog/find-mappings-states-defined-test-suit-work-item-type
 tags:
 - Application Lifecycle Management
-- Azure Boards
 - Azure DevOps
 - DevOps
+- Engineering Practices
 - Operational Practices
+- Pragmatic Thinking
 - Software Developers
 - Software Development
 - System Configuration
@@ -39,7 +40,6 @@ tags:
 - Test Automation
 - Test Strategy
 - Troubleshooting
-- Windows
 - Working Software
 categories:
 - Code and Complexity

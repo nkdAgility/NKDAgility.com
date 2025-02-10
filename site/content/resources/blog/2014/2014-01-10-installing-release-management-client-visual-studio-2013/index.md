@@ -26,21 +26,21 @@ aliasesFor404:
 - /blog/installing-release-management-client-for-visual-studio-2013
 - /resources/blog/installing-release-management-client-visual-studio-2013
 tags:
-- Agile Digital Tools
 - Agile Tools
 - Application Lifecycle Management
+- Azure DevOps
+- CI/CD
 - Continuous Delivery
-- Continuous Integration
-- Deployment Strategies
-- Engineering Practices
+- DevOps
 - Operational Practices
 - Release Planning
 - Software Developers
 - Software Development
 - Software Increment
 - System Configuration
+- Technical Excellence
+- Technical Mastery
 - Windows
-- Working Software
 categories:
 - Application Lifecycle Management
 - Install and Configuration

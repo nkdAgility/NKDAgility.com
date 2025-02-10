@@ -26,6 +26,7 @@ tags:
 - Azure DevOps
 - Continuos Delivery
 - Continuous Delivery
+- Deployment Strategies
 - DevOps
 - Engineering Excellence
 - Engineering Practices
@@ -33,7 +34,6 @@ tags:
 - Operational Practices
 - People and Process
 - Release Planning
-- Software Developers
 - Software Development
 - Windows
 - Working Software

@@ -32,14 +32,14 @@ tags:
 - Change Management
 - Continuos Delivery
 - Continuous Delivery
-- Continuous Improvement
-- Engineering Excellence
+- Flow Efficiency
 - Modern Source Control
 - Release Planning
 - Software Developers
 - Software Development
 - Technical Debt
 - Technical Excellence
+- Technical Strategy
 - Working Software
 categories:
 - Application Lifecycle Management

@@ -33,6 +33,7 @@ tags:
 - Application Lifecycle Management
 - Azure DevOps
 - Azure Repos
+- DevOps
 - Featured
 - Modern Source Control
 - Pragmatic Thinking
@@ -41,7 +42,6 @@ tags:
 - System Configuration
 - Technical Excellence
 - Technical Mastery
-- Windows
 - Working Software
 categories:
 - Code and Complexity

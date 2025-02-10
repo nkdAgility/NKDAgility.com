@@ -28,10 +28,10 @@ aliasesFor404:
 tags:
 - Azure DevOps
 - CI/CD
-- Deployment Strategies
 - DevOps
 - Digital Transformation
 - Engineering Excellence
+- Engineering Practices
 - Operational Practices
 - Pragmatic Thinking
 - Software Developers
@@ -42,9 +42,9 @@ tags:
 - Windows
 - Working Software
 categories:
-- Azure DevOps
 - Install and Configuration
 - Practical Techniques and Tooling
+- Technical Excellence
 preview: nakedalm-windows-logo-22-22.png
 
 ---

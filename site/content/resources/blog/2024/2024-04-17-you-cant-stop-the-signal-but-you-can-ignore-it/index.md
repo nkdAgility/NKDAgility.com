@@ -32,8 +32,9 @@ categories:
 - Scrum
 preview: NKDAgility-technically-YouCantStopTheSignal-1-1.jpg
 tags:
+- Agile Community
 - Agile Frameworks
-- Agile Planning
+- Agile Leadership
 - Agile Problem Solving
 - Agile Product Discovery
 - Agile Product Management
@@ -42,7 +43,6 @@ tags:
 - Agile Software Engineering
 - Agile Values and Principles
 - Continuous Improvement
-- Organisational Culture
 - People and Process
 - Scrum
 - Scrum Product Development

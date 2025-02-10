@@ -26,19 +26,19 @@ aliasesFor404:
 - /blog/use-corporate-identities-with-existing-vso-accounts
 - /resources/blog/use-corporate-identities-existing-vso-accounts
 tags:
+- Application Lifecycle Management
 - Azure DevOps
 - Azure Repos
 - Change Management
-- DevOps
-- Digital Transformation
+- Engineering Practices
 - Modern Source Control
-- Operational Practices
+- Pragmatic Thinking
 - Software Developers
+- Software Development
 - System Configuration
 - Technical Excellence
+- Technical Mastery
 - Technical Strategy
-- Troubleshooting
-- Value Delivery
 - Windows
 - Working Software
 categories:

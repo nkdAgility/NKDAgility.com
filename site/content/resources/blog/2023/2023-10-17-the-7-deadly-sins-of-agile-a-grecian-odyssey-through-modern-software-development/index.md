@@ -34,6 +34,7 @@ tags:
 - Agile Frameworks
 - Agile Methodology
 - Agile Pilot
+- Agile Planning
 - Agile Product Management
 - Agile Project Management
 - Agile Transformation
@@ -41,7 +42,6 @@ tags:
 - People and Process
 - Scrum
 - Software Developers
-- Team Performance
 categories:
 - Enterprise Agility
 - Lean

@@ -36,15 +36,15 @@ tags:
 - Azure Repos
 - Collaboration Tools
 - DevOps
-- Featured
 - Frequent Releases
+- Modern Source Control
 - Release Planning
 - Software Developers
 - Software Development
 - Software Increment
 - Technical Excellence
+- Technical Mastery
 - Windows
-- Working Software
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

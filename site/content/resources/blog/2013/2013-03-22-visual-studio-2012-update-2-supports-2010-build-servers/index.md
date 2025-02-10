@@ -23,12 +23,12 @@ aliasesFor404:
 - /resources/blog/visual-studio-2012-update-2-supports-2010-build-servers
 tags:
 - Agile Tools
+- Application Lifecycle Management
 - Azure DevOps
+- CI/CD
+- Continuos Integration
 - Continuous Integration
-- Deployment Strategies
-- DevOps
 - Modern Source Control
-- Operational Practices
 - Software Developers
 - Software Development
 - Software Increment

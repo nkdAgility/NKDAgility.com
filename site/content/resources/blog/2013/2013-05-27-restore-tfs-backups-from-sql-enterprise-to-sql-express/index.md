@@ -30,7 +30,10 @@ tags:
 - Technical Excellence
 - Technical Mastery
 - Troubleshooting
-categories: []
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Technical Excellence
 preview: lazy1-5-5.jpg
 
 ---

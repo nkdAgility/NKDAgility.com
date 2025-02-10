@@ -24,11 +24,11 @@ aliasesFor404:
 tags:
 - Acceptance Test Driven Development
 - Agile Predictability
+- Agile Product Validation
 - Agile Software Development
 - Agile Software Engineering
 - Continuous Delivery
 - Definition of Done
-- Empirical Process Control
 - Evidence Based Improvement
 - Evidence Based Management
 - Predictability in Kanban
@@ -38,7 +38,7 @@ tags:
 - Value Delivery
 - Working Software
 categories:
-- People and Process
+- Metrics and Learning
 - Product Delivery
 - Value Delivery
 preview: nakedalm-experts-professional-scrum-2-2.png

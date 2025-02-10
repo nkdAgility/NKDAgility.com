@@ -27,21 +27,21 @@ aliasesFor404:
 - /blog/avoid-bug-task-anti-pattern-azure-devops/
 - /resources/blog/
 tags:
-- Agile Community
 - Agile Digital Tools
 - Agile Product Ownership
 - Agile Software Development
 - Agile Software Engineering
-- Agile Strategy
+- Agile Tools
 - Agility
-- Azure Boards
 - Azure DevOps
 - DevOps
+- Lean Agile
 - People and Process
 - Product Backlog
 - Product Owner
 - Software Developers
 - Software Development
+- Technical Excellence
 categories:
 - Azure DevOps
 - DevOps

@@ -28,8 +28,9 @@ aliasesFor404:
 tags:
 - Agile Tools
 - Azure DevOps
-- Deployment Strategies
-- Featured
+- Azure Repos
+- Engineering Excellence
+- Modern Source Control
 - Operational Practices
 - Software Developers
 - Software Development
@@ -37,14 +38,13 @@ tags:
 - System Configuration
 - Technical Excellence
 - Technical Mastery
-- Troubleshooting
 - Value Delivery
 - Windows
 - Working Software
 categories:
-- Azure DevOps
 - Install and Configuration
 - Practical Techniques and Tooling
+- Technical Excellence
 preview: nakedalm-experts-visual-studio-alm-27-27.png
 
 ---

@@ -35,13 +35,16 @@ tags:
 - Modern Source Control
 - Operational Practices
 - Pragmatic Thinking
+- Software Developers
 - Software Development
 - System Configuration
 - Technical Excellence
 - Technical Mastery
 - Troubleshooting
-- Windows
-categories: []
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Technical Excellence
 preview: puzzle-issue-problem-128-link-3-3.png
 
 ---

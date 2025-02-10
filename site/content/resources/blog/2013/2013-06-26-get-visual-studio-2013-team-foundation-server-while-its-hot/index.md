@@ -27,15 +27,15 @@ aliasesFor404:
 - /resources/blog/get-visual-studio-2013-team-foundation-server-while-its-hot
 tags:
 - Agile Digital Tools
-- Agile Methodology
 - Agile Planning Tools
 - Agile Portfolio Management
+- Agile Predictability
 - Agile Product Management
 - Agile Project Management
 - Agile Resource Management
 - Agile Tools
-- Agile Transformation
 - Agility
+- Application Lifecycle Management
 - Portfolio Management
 - Product Backlog
 - Strategic

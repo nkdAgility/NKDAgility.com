@@ -22,21 +22,21 @@ aliasesFor404:
 - /blog/install-release-management-2013
 - /resources/blog/install-release-management-2013
 tags:
-- Agile Tools
 - Application Lifecycle Management
 - Azure DevOps
 - CI/CD
+- Continuos Delivery
 - Continuous Delivery
 - Deployment Strategies
 - DevOps
-- Featured
+- Frequent Releases
 - Operational Practices
 - Release Planning
 - Software Developers
 - Software Development
-- Software Increment
 - System Configuration
-- Working Software
+- Technical Excellence
+- Value Delivery
 categories:
 - Application Lifecycle Management
 - Install and Configuration

@@ -30,9 +30,9 @@ tags:
 - Discovery and Learning
 - Engineering Excellence
 - Engineering Practices
+- Experimentation
 - Operational Practices
 - Pragmatic Thinking
-- Sensemaking
 - Software Developers
 - Software Development
 - System Configuration

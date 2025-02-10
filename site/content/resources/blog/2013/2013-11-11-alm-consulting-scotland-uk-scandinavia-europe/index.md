@@ -32,7 +32,7 @@ aliasesFor404:
 tags:
 - Agile Coaching
 - Agile Digital Tools
-- Agile Leader
+- Agile Planning Tools
 - Agile Project Management
 - Agile Resource Management
 - Agile Software Development

@@ -27,13 +27,13 @@ aliasesFor404:
 - /resources/blog/upgrade-tfs-2013-update-2
 tags:
 - Agile Digital Tools
+- Agile Planning Tools
 - Agile Tools
 - Application Lifecycle Management
 - Azure DevOps
-- Change Management
+- Deployment Strategies
 - Featured
 - Modern Source Control
-- Release Planning
 - Software Developers
 - Software Development
 - Software Increment
@@ -43,8 +43,8 @@ tags:
 - Working Software
 categories:
 - Application Lifecycle Management
-- Azure DevOps
 - Install and Configuration
+- Technical Excellence
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---

@@ -31,8 +31,8 @@ tags:
 - Deployment Strategies
 - DevOps
 - Engineering Excellence
+- Engineering Practices
 - Operational Practices
-- Pragmatic Thinking
 - Software Developers
 - Software Development
 - System Configuration

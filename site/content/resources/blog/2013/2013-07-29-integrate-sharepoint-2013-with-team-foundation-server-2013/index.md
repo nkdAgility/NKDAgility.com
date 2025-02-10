@@ -25,7 +25,8 @@ tags:
 - Agile Digital Tools
 - Agile Tools
 - Application Lifecycle Management
-- Collaboration Tools
+- DevOps
+- Engineering Practices
 - Featured
 - Operational Practices
 - Software Developers
@@ -34,7 +35,6 @@ tags:
 - Team Collaboration
 - Technical Excellence
 - Technical Mastery
-- Value Delivery
 - Windows
 - Working Software
 categories:

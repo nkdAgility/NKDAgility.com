@@ -27,10 +27,10 @@ aliasesFor404:
 - /resources/blog/access-denied-user-needs-label-permission-tfs
 tags:
 - Azure DevOps
-- Azure Repos
 - Decision Making
 - DevOps
 - Discovery and Learning
+- Engineering Practices
 - Modern Source Control
 - Operational Practices
 - Pragmatic Thinking
@@ -42,7 +42,7 @@ tags:
 - Troubleshooting
 - Working Software
 categories:
-- Azure DevOps
+- Discovery and Learning
 - Install and Configuration
 - Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-3-3.png

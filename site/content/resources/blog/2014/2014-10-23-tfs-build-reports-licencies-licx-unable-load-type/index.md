@@ -26,14 +26,14 @@ aliasesFor404:
 - /blog/tfs-build-reports-licencies-licx--unable-to-load-type
 - /resources/blog/tfs-build-reports-licencies-licx-unable-load-type
 tags:
+- Application Lifecycle Management
 - Azure DevOps
+- CI/CD
 - Continuos Integration
 - Continuous Delivery
-- Continuous Integration
-- DevOps
-- Operational Practices
+- Engineering Excellence
+- Engineering Practices
 - Pragmatic Thinking
-- Site Reliability
 - Software Developers
 - Software Development
 - System Configuration

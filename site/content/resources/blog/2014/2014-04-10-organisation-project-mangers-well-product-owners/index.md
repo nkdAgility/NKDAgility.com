@@ -27,8 +27,6 @@ aliasesFor404:
 - /resources/blog/organisation-project-mangers-well-product-owners
 tags:
 - Agile Apocalypse
-- Agile Coaching
-- Agile Community
 - Agile Product Management
 - Agile Product Ownership
 - Agile Project Management
@@ -36,11 +34,13 @@ tags:
 - Agile Software Development
 - Agility
 - Business Agility
+- Enterprise Agility
+- Organisational Agility
 - People and Process
 - Product Owner
 - Scrum Product Management
-- Software Development
 - Team Collaboration
+- Team Performance
 categories:
 - Agile Product Management
 - Enterprise Agility

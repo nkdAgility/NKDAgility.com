@@ -28,11 +28,11 @@ tags:
 - Agile Planning Tools
 - Agile Project Management
 - Agile Software Development
+- Agile Software Engineering
 - Agile Tools
 - Agility
 - Application Lifecycle Management
 - Lean Agile
-- Professional Scrum
 - Scrum
 - Scrum Product Development
 - Scrum Product Management

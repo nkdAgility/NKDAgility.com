@@ -25,7 +25,19 @@ aliasesFor404:
 - /tfs-2012-issue--get-workspace-already-exists-connecting-with-vs-2008-or-vs-2010
 - /blog/tfs-2012-issue--get-workspace-already-exists-connecting-with-vs-2008-or-vs-2010
 - /resources/blog/tfs-2012-issue-get-workspace-already-exists-connecting-with-vs-2008-or-vs-2010
-tags: []
+tags:
+- Application Lifecycle Management
+- Azure DevOps
+- DevOps
+- Modern Source Control
+- Operational Practices
+- Software Developers
+- Software Development
+- System Configuration
+- Technical Excellence
+- Technical Mastery
+- Troubleshooting
+- Working Software
 categories:
 - Application Lifecycle Management
 - Install and Configuration

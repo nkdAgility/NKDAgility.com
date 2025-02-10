@@ -13,7 +13,7 @@ $levelSwitch.MinimumLevel = 'Debug'
 $outputDir = ".\site\content\resources\blog\"
 
 # Get list of directories and select the first 10
-$resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md"  | Sort-Object { $_ } -Descending | Select-Object -First 200
+$resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md"  | Sort-Object { $_ } -Descending | Select-Object -First 300 -Skip 200
 
 $categoriesCatalog = Get-CatalogHashtable -Classification "categories"
 $tagsCatalog = Get-CatalogHashtable -Classification "tags"

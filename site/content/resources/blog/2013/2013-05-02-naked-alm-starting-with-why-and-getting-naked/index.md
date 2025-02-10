@@ -26,13 +26,13 @@ aliasesFor404:
 - /blog/naked-alm--starting-with-why-and-getting-naked
 - /resources/blog/naked-alm-starting-with-why-and-getting-naked
 tags:
+- Agile Evolution
 - Agile Problem Solving
 - Agile Product Discovery
 - Agile Product Management
 - Agile Resource Management
 - Agile Software Development
 - Agile Software Engineering
-- Agile Strategy
 - Agility
 - Application Lifecycle Management
 - Change Management

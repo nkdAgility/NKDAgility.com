@@ -30,6 +30,7 @@ tags:
 - Azure DevOps
 - DevOps
 - Engineering Excellence
+- Engineering Practices
 - Modern Source Control
 - Operational Practices
 - Pragmatic Thinking
@@ -37,7 +38,6 @@ tags:
 - Software Developers
 - Software Development
 - System Configuration
-- Technical Excellence
 - Technical Mastery
 - Troubleshooting
 - Working Software

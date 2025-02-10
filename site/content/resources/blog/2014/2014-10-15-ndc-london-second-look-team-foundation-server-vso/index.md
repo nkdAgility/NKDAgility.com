@@ -32,8 +32,8 @@ aliasesFor404:
 tags:
 - Agile Digital Tools
 - Agile Planning Tools
-- Agile Portfolio Management
 - Agile Product Ownership
+- Agile Product Validation
 - Agile Tools
 - Application Lifecycle Management
 - Azure Boards
@@ -47,8 +47,8 @@ tags:
 - Working Software
 categories:
 - Application Lifecycle Management
+- Azure DevOps
 - Events and Presentations
-- Product Delivery
 preview: metro-event-icon-7-7.png
 
 ---

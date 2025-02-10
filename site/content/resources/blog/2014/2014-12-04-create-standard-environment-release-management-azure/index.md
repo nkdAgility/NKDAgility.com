@@ -29,22 +29,22 @@ tags:
 - Application Lifecycle Management
 - Azure DevOps
 - CI/CD
-- Continuous Delivery
+- Continuos Delivery
 - Deployment Strategies
 - DevOps
 - Operational Practices
-- Software Developers
 - Software Development
 - System Configuration
 - Technical Excellence
 - Technical Mastery
 - Technical Strategy
+- Value Delivery
 - Windows
 - Working Software
 categories:
 - Application Lifecycle Management
-- Azure DevOps
 - Install and Configuration
+- Technical Excellence
 preview: nakedalm-windows-logo-16-16.png
 
 ---

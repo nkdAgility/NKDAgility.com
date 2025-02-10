@@ -30,7 +30,6 @@ tags:
 - Agile Planning Tools
 - Agile Portfolio Management
 - Agile Product Management
-- Agile Project Management
 - Agile Resource Management
 - Agile Tools
 - Agility
@@ -38,6 +37,7 @@ tags:
 - Collaboration Tools
 - Evidence Based Management
 - Portfolio Management
+- Software Developers
 - Software Development
 - Value Delivery
 - Value Stream Management

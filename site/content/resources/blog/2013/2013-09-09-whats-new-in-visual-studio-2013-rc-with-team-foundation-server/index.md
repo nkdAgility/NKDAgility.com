@@ -30,21 +30,21 @@ tags:
 - Agile Digital Tools
 - Agile Planning Tools
 - Agile Portfolio Management
-- Agile Software Development
+- Agile Project Management
 - Agile Tools
-- Application Lifecycle Management
-- Continuous Improvement
-- Continuous Integration
+- Agility
 - Modern Source Control
 - Software Developers
 - Software Development
-- Team Collaboration
+- Technical Excellence
+- Test Strategy
+- Value Delivery
 - Windows
 - Working Software
 categories:
-- Agile Product Management
 - Application Lifecycle Management
 - Install and Configuration
+- Technical Excellence
 preview: nakedalm-experts-visual-studio-alm-13-13.png
 
 ---

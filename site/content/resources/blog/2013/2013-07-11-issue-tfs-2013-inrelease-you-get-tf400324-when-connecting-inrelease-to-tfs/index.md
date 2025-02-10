@@ -32,15 +32,15 @@ tags:
 - CI/CD
 - DevOps
 - Engineering Excellence
+- Engineering Practices
+- Modern Source Control
 - Operational Practices
 - Pragmatic Thinking
 - Software Developers
 - Software Development
-- System Configuration
+- Technical Excellence
 - Technical Mastery
 - Troubleshooting
-- Windows
-- Working Software
 categories:
 - Azure DevOps
 - Install and Configuration

@@ -27,6 +27,7 @@ tags:
 - Agility
 - Continuous Improvement
 - Data Driven Decisions
+- Decision Making
 - Evidence Based Improvement
 - Evidence Based Leadership
 - Evidence Based Management
@@ -34,7 +35,6 @@ tags:
 - Organisational Agility
 - People and Process
 - Software Development
-- Technical Excellence
 - Trend Analysis
 - Value Delivery
 categories:

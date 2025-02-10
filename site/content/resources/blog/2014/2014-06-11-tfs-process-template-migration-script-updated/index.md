@@ -27,7 +27,6 @@ tags:
 - Agile Project Management
 - Agile Software Development
 - Agile Tools
-- Application Lifecycle Management
 - Change Management
 - People and Process
 - Scrum
@@ -36,6 +35,7 @@ tags:
 - Software Developers
 - Software Development
 - Software Increment
+- System Configuration
 - Working Software
 categories:
 - Code and Complexity

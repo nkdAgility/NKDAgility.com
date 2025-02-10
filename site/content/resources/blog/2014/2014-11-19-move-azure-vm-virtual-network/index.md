@@ -40,9 +40,9 @@ tags:
 - Troubleshooting
 - Working Software
 categories:
-- Azure DevOps
 - Install and Configuration
 - Practical Techniques and Tooling
+- Technical Excellence
 preview: nakedalm-windows-logo-8-8.png
 
 ---

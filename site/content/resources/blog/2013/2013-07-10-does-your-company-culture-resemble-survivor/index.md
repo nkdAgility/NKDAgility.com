@@ -26,15 +26,15 @@ aliasesFor404:
 - /blog/does-your-company-culture-resemble-survivor-
 - /resources/blog/does-your-company-culture-resemble-survivor
 tags:
-- Agile Community
+- Agile Coaching
 - Agile Problem Solving
 - Agile Software Development
 - Agile Software Engineering
-- Agile Transformation
 - Agility
 - Business Agility
 - Collaboration Tools
-- Enterprise Agility
+- Lean Agile
+- Organisational Agility
 - Organisational Culture
 - People and Process
 - Software Developers
@@ -43,8 +43,8 @@ tags:
 - Value Delivery
 categories:
 - Enterprise Agility
+- Organisational Agility
 - People and Process
-- Scaling Agility
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

@@ -30,6 +30,7 @@ tags:
 - Deployment Strategies
 - DevOps
 - Digital Transformation
+- Engineering Practices
 - Operational Practices
 - Pragmatic Thinking
 - Software Developers
@@ -38,13 +39,12 @@ tags:
 - Technical Excellence
 - Technical Mastery
 - Troubleshooting
-- Value Delivery
 - Windows
 - Working Software
 categories:
-- Azure DevOps
 - Install and Configuration
 - Practical Techniques and Tooling
+- Technical Excellence
 preview: nakedalm-windows-logo-16-16.png
 
 ---

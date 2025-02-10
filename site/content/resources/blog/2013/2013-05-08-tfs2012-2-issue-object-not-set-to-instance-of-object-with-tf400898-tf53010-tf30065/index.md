@@ -47,7 +47,10 @@ tags:
 - Technical Mastery
 - Troubleshooting
 - Working Software
-categories: []
+categories:
+- Azure DevOps
+- Install and Configuration
+- Technical Excellence
 preview: puzzle-issue-problem-128-link-4-4.png
 
 ---

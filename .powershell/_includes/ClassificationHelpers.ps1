@@ -298,13 +298,10 @@ do not wrap the json in anything else, just return the json object.
     }
 
     if ($prompts.Count -gt 0) {
-        $tokensInProgress = Get-OpenAIEnqueuedTokens
-        If ($tokensInProgress -lt 15000000) {
-            # Submit batch and save batch ID
-            $batchId = Submit-OpenAIBatch -Prompts $prompts -OutputFile $batchJsonlInput
-            $batchId | Set-Content -Path $batchFile -Force
-            Write-Warning "Batch submitted. Processing..."
-        }
+        # Submit batch and save batch ID
+        $batchId = Submit-OpenAIBatch -Prompts $prompts -OutputFile $batchJsonlInput
+        $batchId | Set-Content -Path $batchFile -Force
+        Write-Warning "Batch submitted. Processing..."
         else {
             Write-Warning "Batch not submitted. Too many tokens in progress. try again later."
         }

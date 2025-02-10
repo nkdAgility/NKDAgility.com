@@ -22,11 +22,12 @@ aliasesFor404:
 - /blog/the-great-team-foundation-server-2013-upgrade-weekend
 - /resources/blog/the-great-team-foundation-server-2013-upgrade-weekend
 tags:
-- Agile Tools
+- Agile Digital Tools
 - Application Lifecycle Management
+- Azure DevOps
 - Change Management
 - DevOps
-- Engineering Excellence
+- Engineering Practices
 - Featured
 - Modern Source Control
 - Operational Practices
@@ -34,7 +35,6 @@ tags:
 - Software Developers
 - Software Development
 - System Configuration
-- Value Delivery
 - Windows
 - Working Software
 categories:
