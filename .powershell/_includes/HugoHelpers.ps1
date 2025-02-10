@@ -214,7 +214,7 @@ function Save-HugoMarkdown {
     Set-Content -Path $Path -Value $updatedContent -Encoding UTF8NoBOM -NoNewline
 }
 
-function Get-MarkdownMetadata {
+function Get-HugoMarkdownList {
     param (
         [string]$FolderPath
     )
@@ -225,27 +225,10 @@ function Get-MarkdownMetadata {
     foreach ($markdownFile in $mdFiles) {
         # Load Markdown data using Get-HugoMarkdown
         $hugoMarkdown = Get-HugoMarkdown -Path $markdownFile.FullName
-        
-        # Extract title and description if available
-        $title = $hugoMarkdown.FrontMatter.title
-        $description = $hugoMarkdown.FrontMatter.description
-
-        # Fallback if title or description is missing
-        if (-not $title -or $title -eq '') {
-            $title = "Untitled"
-        }
-        if (-not $description -or $description -eq '') {
-            $description = "No description available"
-        }
-
-        # Create a structured object
-        $metadataList += [PSCustomObject]@{
-            Title       = $title
-            Description = $description
-        }
+        $metadataList += $hugoMarkdown
     }
 
-    return $metadataList | ConvertTo-Json -Depth 1
+    return $metadataList
 }
 
 Write-InfoLog "HugoHelpers.ps1 loaded"
