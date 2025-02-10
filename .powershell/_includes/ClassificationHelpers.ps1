@@ -6,16 +6,18 @@ function Get-CatalogHashtable {
     )
 
     # Get the metadata (assumed to be an array of objects)
-    $catalog = Get-MarkdownMetadata -FolderPath "$FolderPath\$Classification" | ConvertFrom-Json 
+    $catalog = Get-HugoMarkdownList -FolderPath "$FolderPath\$Classification"
 
     # Initialize an empty hashtable
     $catalogHash = @{}
 
     # Loop through each object and store the Title-Description pair in the hashtable
-    foreach ($item in $catalog) {
-        if ($item.Title -and $item.Description) {
-            $catalogHash[$item.Title] = $item.Description
+    foreach ($markdownMeta in $catalog) {
+        $instructions = $markdownMeta.FrontMatter.Instructions
+        if ($instructions -eq $null) {
+            $instructions = $markdownMeta.FrontMatter.Description
         }
+        $catalogHash[$markdownMeta.FrontMatter.Title] = $instructions
     }
 
     return $catalogHash
@@ -59,7 +61,6 @@ function Get-CategoryConfidenceWithChecksum {
             $categoryScores[$category] = $cachedData.$category
             continue
         }
-
         $prompt = @"
 You are an AI expert in content classification. Evaluate how well the given content aligns with the category **"$category"**. With that classification meaning "$($Catalog[$category])"
 
