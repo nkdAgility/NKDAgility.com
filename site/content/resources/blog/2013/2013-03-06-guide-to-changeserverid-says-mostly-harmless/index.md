@@ -38,7 +38,7 @@ tags:
 - Troubleshooting
 - Working Software
 categories:
-- Application Lifecycle Management
+- Code and Complexity
 - Practical Techniques and Tooling
 - Technical Excellence
 

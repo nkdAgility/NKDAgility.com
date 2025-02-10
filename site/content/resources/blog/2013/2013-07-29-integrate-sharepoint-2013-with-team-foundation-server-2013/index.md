@@ -25,22 +25,22 @@ tags:
 - Agile Digital Tools
 - Agile Tools
 - Application Lifecycle Management
+- Azure DevOps
+- Collaboration Tools
 - DevOps
 - Engineering Practices
 - Featured
-- Operational Practices
 - Software Developers
 - Software Development
 - System Configuration
 - Team Collaboration
 - Technical Excellence
-- Technical Mastery
 - Windows
 - Working Software
 categories:
-- Application Lifecycle Management
 - Install and Configuration
 - Practical Techniques and Tooling
+- Product Delivery
 
 ---
 You can integrate SharePoint 2013 with Team Foundation Server 2013 at any time and even link to your corporate SharePoint\*.

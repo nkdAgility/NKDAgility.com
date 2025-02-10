@@ -25,18 +25,18 @@ tags:
 - Agile Planning Tools
 - Agile Tools
 - Application Lifecycle Management
-- Azure DevOps
+- Collaboration Tools
 - Cross Functional Teams
 - Engineering Practices
 - Modern Source Control
 - Operational Practices
 - People and Process
 - Software Developers
-- Software Development
 - System Configuration
 - Team Collaboration
 - Technical Excellence
 - Technical Mastery
+- Windows
 categories:
 - Application Lifecycle Management
 - People and Process

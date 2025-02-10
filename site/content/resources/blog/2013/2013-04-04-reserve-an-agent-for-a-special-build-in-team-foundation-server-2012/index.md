@@ -26,9 +26,9 @@ tags:
 - Azure DevOps
 - Azure Pipelines
 - CI/CD
+- Continuos Delivery
 - Continuos Integration
 - Continuous Integration
-- Deployment Strategies
 - DevOps
 - Engineering Practices
 - Operational Practices

@@ -39,9 +39,9 @@ tags:
 - Troubleshooting
 - Working Software
 categories:
-- Application Lifecycle Management
 - Install and Configuration
 - Practical Techniques and Tooling
+- Technical Excellence
 preview: puzzle-issue-problem-128-link-1-1.png
 
 ---

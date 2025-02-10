@@ -23,19 +23,19 @@ aliasesFor404:
 - /resources/blog/creating-a-custom-activity-for-team-foundation-build
 tags:
 - Agile Tools
+- Application Lifecycle Management
 - Azure DevOps
+- CI/CD
 - Continuos Integration
-- Continuous Delivery
 - DevOps
-- Engineering Excellence
 - Engineering Practices
-- Modern Source Control
 - Software Developers
 - Software Development
 - Software Increment
 - System Configuration
 - Technical Excellence
 - Technical Mastery
+- Test Automation
 - Working Software
 categories:
 - Code and Complexity

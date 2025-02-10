@@ -23,17 +23,17 @@ aliasesFor404:
 - /resources/blog/integrating-project-server-2013-with-team-foundation-server-2012
 tags:
 - Application Lifecycle Management
+- Azure DevOps
 - CI/CD
+- Collaboration Tools
 - Deployment Strategies
 - DevOps
-- Engineering Practices
-- Enterprise Agility
 - Operational Practices
 - Portfolio Management
 - Software Developers
 - Software Development
 - System Configuration
-- Technical Mastery
+- Technical Excellence
 - Technical Strategy
 - Value Delivery
 - Windows

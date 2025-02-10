@@ -27,20 +27,20 @@ tags:
 - Application Lifecycle Management
 - Azure Boards
 - Azure DevOps
-- Engineering Practices
+- Collaboration Tools
 - Modern Source Control
+- Pragmatic Thinking
 - Product Backlog
 - Software Developers
 - Software Development
-- System Configuration
 - Technical Excellence
 - Technical Mastery
 - Value Delivery
 - Working Software
 categories:
-- Application Lifecycle Management
-- Install and Configuration
+- Azure DevOps
 - Practical Techniques and Tooling
+- Technical Excellence
 
 ---
 In some cases you want to be creating a Work Item with defaults in Team Foundation Server so that you can give access to users but also give them guidance on what to fill out.

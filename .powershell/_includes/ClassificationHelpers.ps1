@@ -61,7 +61,7 @@ function Get-CategoryConfidenceWithChecksum {
         }
 
         $prompt = @"
-You are an AI expert in content classification. Evaluate how well the given content aligns with the category **"$category"**.
+You are an AI expert in content classification. Evaluate how well the given content aligns with the category **"$category"**. With that classification meaning "$($Catalog[$category])"
 
 Rules:
 1. **Only classify the content into this category if it is a clear, primary topic.**
@@ -129,10 +129,7 @@ do not wrap the json in anything else, just return the json object.
 
     Write-Progress -Id 2 -Activity "All Tasks Complete" -Completed
 
-    $finalSelection = $categoryScores.Values | Where-Object { $_.Level -eq "Primary" } | Sort-Object final_score -Descending | Select-Object -First $MaxCategories
-    if ($finalSelection.Count -eq 0) {
-        $finalSelection = $categoryScores.Values | Where-Object { $_.Level -eq "Secondary" } | Sort-Object final_score -Descending | Select-Object -First 1
-    }
+    $finalSelection = $categoryScores.Values | Where-Object { $_.level -ne "Ignored" } | Sort-Object final_score -Descending | Select-Object -First $MaxCategories
     return $finalSelection | ConvertTo-Json -Depth 1
 }
 
@@ -255,10 +252,7 @@ function Get-BatchCategoryConfidenceWithChecksum {
                 }
             }        
 
-            $finalSelection = $categoryScores.Values | Where-Object { $_.Level -eq "Primary" } | Sort-Object final_score -Descending | Select-Object -First $MaxCategories
-            if ($finalSelection.Count -eq 0) {
-                $finalSelection = $categoryScores.Values | Where-Object { $_.Level -eq "Secondary" } | Sort-Object final_score -Descending | Select-Object -First 1
-            }
+            $finalSelection = $categoryScores.Values | Where-Object { $_.level -ne "Ignored" } | Sort-Object final_score -Descending | Select-Object -First $MaxCategories
             return $finalSelection | ConvertTo-Json -Depth 1
         }
         catch {
@@ -310,5 +304,45 @@ do not wrap the json in anything else, just return the json object.
             Write-Warning "Batch not submitted. Too many tokens in progress. try again later."
         }
         return @()
+    }
+}
+
+function Remove-CategoryFromCache {
+    param (
+        [string]$CategoryToRemove,
+        [string]$CacheFolder,
+        [string]$ClassificationType = "classification"
+    )
+
+    # Construct the cache file path
+    $cacheFile = Join-Path $CacheFolder "data.index.$ClassificationType.json"
+
+    # Check if the cache file exists
+    if (!(Test-Path $cacheFile)) {
+        Write-Warning "Cache file does not exist. No action needed."
+        return
+    }
+
+    # Load the cache data
+    try {
+        $cachedData = Get-Content $cacheFile | ConvertFrom-Json -ErrorAction Stop
+    }
+    catch {
+        Write-Warning "Cache file is corrupted or unreadable. Unable to process."
+        return
+    }
+
+    # Check if the category exists in the cache
+    if ($cachedData.PSObject.Properties[$CategoryToRemove]) {
+        # Remove the category
+        $cachedData.PSObject.Properties.Remove($CategoryToRemove)
+
+        # Save the updated cache back to the file
+        $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
+
+        Write-Host "Category '$CategoryToRemove' removed successfully from cache."
+    }
+    else {
+        Write-Warning "Category '$CategoryToRemove' not found in cache. No action taken."
     }
 }

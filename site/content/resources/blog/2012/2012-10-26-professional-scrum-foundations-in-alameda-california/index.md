@@ -44,10 +44,10 @@ tags:
 - Sprint Planning Workshop
 - Sprint Review
 - Team Collaboration
-- Value Delivery
+- Working Software
 categories:
+- Events and Presentations
 - People and Process
-- Product Delivery
 - Scrum
 preview: nakedalm-experts-professional-scrum-1-1.png
 

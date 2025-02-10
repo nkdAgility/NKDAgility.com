@@ -24,12 +24,12 @@ aliasesFor404:
 tags:
 - Automated Testing
 - Azure DevOps
+- Collaboration Tools
 - DevOps
 - Engineering Excellence
 - Engineering Practices
 - Experimentation
 - Modern Source Control
-- Operational Practices
 - Software Developers
 - Software Development
 - System Configuration

@@ -26,19 +26,19 @@ tags:
 - Application Lifecycle Management
 - Azure DevOps
 - Azure Repos
-- Engineering Practices
+- Change Management
+- DevOps
 - Featured
-- Modern Source Control
+- Pragmatic Thinking
 - Software Developers
 - Software Development
 - Software Increment
 - System Configuration
 - Technical Excellence
-- Technical Mastery
 - Windows
 - Working Software
 categories:
-- Application Lifecycle Management
+- Azure DevOps
 - Install and Configuration
 - Practical Techniques and Tooling
 

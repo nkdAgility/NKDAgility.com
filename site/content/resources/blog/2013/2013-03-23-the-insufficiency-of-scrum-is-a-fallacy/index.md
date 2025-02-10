@@ -22,19 +22,19 @@ aliasesFor404:
 - /blog/the-insufficiency-of-scrum-is-a-fallacy
 - /resources/blog/the-insufficiency-of-scrum-is-a-fallacy
 tags:
+- Agile Books
 - Agile Community
 - Agile Evolution
 - Agile Frameworks
 - Agile Pilot
 - Agile Software Development
 - Agile Software Engineering
-- Engineering Excellence
+- Agile Strategy
 - Engineering Practices
-- Lean Agile
+- Operational Practices
 - Scrum
 - Scrum Master
 - Scrum Product Management
-- Software Developers
 - Software Development
 - Technical Debt
 categories:

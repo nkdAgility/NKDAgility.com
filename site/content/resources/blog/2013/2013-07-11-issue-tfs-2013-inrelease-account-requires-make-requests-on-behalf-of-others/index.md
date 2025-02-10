@@ -29,18 +29,18 @@ tags:
 - Agile Tools
 - Application Lifecycle Management
 - Azure DevOps
-- Azure Repos
 - CI/CD
 - Continuos Integration
-- Engineering Practices
-- Modern Source Control
+- DevOps
+- Operational Practices
+- Pragmatic Thinking
 - Software Developers
 - Software Development
 - System Configuration
 - Technical Excellence
 - Technical Mastery
 - Troubleshooting
-- Windows
+- Working Software
 categories:
 - Azure DevOps
 - Install and Configuration

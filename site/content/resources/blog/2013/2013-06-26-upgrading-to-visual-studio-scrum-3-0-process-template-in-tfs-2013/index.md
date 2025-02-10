@@ -22,7 +22,6 @@ aliasesFor404:
 - /blog/upgrading-to-visual-studio-scrum-3-0-process-template-in-tfs-2013
 - /resources/blog/upgrading-to-visual-studio-scrum-3-0-process-template-in-tfs-2013
 tags:
-- Agile Community
 - Agile Digital Tools
 - Agile Frameworks
 - Agile Planning Tools
@@ -33,6 +32,7 @@ tags:
 - Agility
 - Application Lifecycle Management
 - Lean Agile
+- Professional Scrum
 - Scrum
 - Scrum Product Development
 - Scrum Product Management

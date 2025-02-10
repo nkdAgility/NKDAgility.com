@@ -31,11 +31,11 @@ tags:
 - Agile Digital Tools
 - Agile Tools
 - Application Lifecycle Management
+- Azure DevOps
 - DevOps
 - Engineering Practices
 - Operational Practices
 - People and Process
-- Pragmatic Thinking
 - Software Developers
 - Software Development
 - System Configuration

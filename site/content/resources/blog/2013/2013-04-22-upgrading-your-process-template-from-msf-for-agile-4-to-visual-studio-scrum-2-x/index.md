@@ -25,7 +25,7 @@ tags:
 - Agile Digital Tools
 - Agile Pilot
 - Agile Planning
-- Agile Product Management
+- Agile Project Management
 - Agile Software Engineering
 - Agile Tools
 - Agile Transformation
@@ -38,7 +38,7 @@ tags:
 - System Configuration
 - Working Software
 categories:
-- Install and Configuration
+- People and Process
 - Practical Techniques and Tooling
 - Scrum
 

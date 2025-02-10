@@ -29,11 +29,11 @@ tags:
 - Continuous Integration
 - Deployment Strategies
 - DevOps
-- Engineering Excellence
+- Operational Practices
 - Software Developers
 - Software Development
 - System Configuration
-- Technical Mastery
+- Technical Excellence
 - Test Automation
 - Windows
 - Working Software

@@ -29,10 +29,10 @@ aliasesFor404:
 - /resources/blog/a-change-for-the-better-4
 tags:
 - Agile Coaching
+- Agile Evolution
 - Agile Mentoring
-- Agile Pilot
 - Agile Planning
-- Agile Planning Tools
+- Agile Portfolio Management
 - Agile Project Management
 - Agile Software Development
 - Agile Values and Principles
@@ -44,7 +44,7 @@ tags:
 - Scrum
 - Scrum Product Development
 categories:
-- Application Lifecycle Management
+- Lean
 - Resilience and Change
 - Scrum
 preview: nakedalm-logo-128-link-4-4.png

@@ -37,10 +37,10 @@ tags:
 - Pragmatic Thinking
 - Software Developers
 - Software Development
-- System Configuration
 - Technical Excellence
 - Technical Mastery
 - Troubleshooting
+- Windows
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

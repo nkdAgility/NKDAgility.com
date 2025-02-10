@@ -40,7 +40,7 @@ tags:
 categories:
 - Application Lifecycle Management
 - Practical Techniques and Tooling
-- Product Delivery
+- Products and Books
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---

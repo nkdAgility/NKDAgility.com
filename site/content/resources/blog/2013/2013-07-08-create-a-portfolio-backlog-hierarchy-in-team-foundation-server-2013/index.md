@@ -25,7 +25,8 @@ tags:
 - Agile Digital Tools
 - Agile Planning Tools
 - Agile Portfolio Management
-- Agile Product Ownership
+- Agile Product Discovery
+- Agile Product Management
 - Agile Product Validation
 - Agile Resource Management
 - Agile Tools
@@ -33,7 +34,6 @@ tags:
 - Backlog Refinement
 - Portfolio Management
 - Product Backlog
-- Software Developers
 - Software Development
 - System Configuration
 - Working Software

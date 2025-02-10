@@ -24,23 +24,23 @@ aliasesFor404:
 tags:
 - Accountability
 - Agile Problem Solving
-- Agile Software Development
 - Agile Values and Principles
 - Agility
-- Business Agility
 - Enterprise Agility
 - Organisational Agility
-- Organisational Change
 - Organisational Culture
 - Organisational Physics
+- Organisational Transformational Mastery
 - People and Process
+- Pragmatic Thinking
+- Scaling Agility
 - Self Organisation
 - Systems Thinking
 - Team Collaboration
 categories:
-- Enterprise Agility
 - Organisational Agility
 - People and Process
+- Scaling Agility
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

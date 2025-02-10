@@ -27,20 +27,20 @@ aliasesFor404:
 - /resources/blog/does-your-company-culture-resemble-survivor
 tags:
 - Agile Coaching
+- Agile Community
 - Agile Problem Solving
 - Agile Software Development
 - Agile Software Engineering
+- Agile Transformation
 - Agility
-- Business Agility
 - Collaboration Tools
-- Lean Agile
 - Organisational Agility
 - Organisational Culture
 - People and Process
+- Scaling Agility
 - Software Developers
 - Software Development
 - Team Collaboration
-- Value Delivery
 categories:
 - Enterprise Agility
 - Organisational Agility

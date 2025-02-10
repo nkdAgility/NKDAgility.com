@@ -22,13 +22,13 @@ aliasesFor404:
 - /blog/chicago-visual-studio-alm-user-group-27th-march
 - /resources/blog/chicago-visual-studio-alm-user-group-27th-march
 tags:
-- Agile Community
 - Agile Digital Tools
+- Agile Planning Tools
 - Agile Software Development
 - Agile Tools
 - Kanban
+- Kanban Coaching
 - Kanban Flow
-- Kanban Process
 - Kanban Theory
 - Kanban Training
 - Lean Agile

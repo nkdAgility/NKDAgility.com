@@ -24,9 +24,9 @@ aliasesFor404:
 tags:
 - Application Lifecycle Management
 - Azure DevOps
+- Deployment Strategies
 - DevOps
 - Engineering Excellence
-- Engineering Practices
 - Modern Source Control
 - Operational Practices
 - People and Process

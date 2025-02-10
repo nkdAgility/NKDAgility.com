@@ -29,7 +29,7 @@ tags:
 - Agile Digital Tools
 - Agile Planning Tools
 - Agile Portfolio Management
-- Agile Product Management
+- Agile Project Management
 - Agile Resource Management
 - Agile Tools
 - Agility

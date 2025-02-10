@@ -22,12 +22,12 @@ aliasesFor404:
 - /blog/visual-studio-2012-update-2-supports-2010-build-servers
 - /resources/blog/visual-studio-2012-update-2-supports-2010-build-servers
 tags:
-- Agile Tools
 - Application Lifecycle Management
 - Azure DevOps
 - CI/CD
 - Continuos Integration
 - Continuous Integration
+- DevOps
 - Modern Source Control
 - Software Developers
 - Software Development
@@ -38,7 +38,7 @@ tags:
 - Value Delivery
 - Windows
 categories:
-- Application Lifecycle Management
+- DevOps
 - Install and Configuration
 - Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-11-11.png

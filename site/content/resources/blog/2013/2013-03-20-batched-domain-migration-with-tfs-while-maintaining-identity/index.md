@@ -22,21 +22,21 @@ aliasesFor404:
 - /blog/batched-domain-migration-with-tfs-while-maintaining-identity
 - /resources/blog/batched-domain-migration-with-tfs-while-maintaining-identity
 tags:
-- Agile Digital Tools
+- Agile Tools
+- Application Lifecycle Management
 - Azure DevOps
 - Change Management
 - Collaboration Tools
 - Deployment Strategies
 - DevOps
-- Modern Source Control
 - Operational Practices
 - Organisational Change
 - Software Developers
 - Software Development
 - System Configuration
+- Technical Excellence
 - Technical Mastery
 - Technical Strategy
-- Working Software
 categories:
 - Azure DevOps
 - Install and Configuration

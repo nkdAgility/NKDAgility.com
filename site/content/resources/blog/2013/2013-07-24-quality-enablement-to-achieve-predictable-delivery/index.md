@@ -26,9 +26,9 @@ tags:
 - Agile Predictability
 - Agile Product Validation
 - Agile Software Development
-- Agile Software Engineering
-- Continuous Delivery
+- Continuos Delivery
 - Definition of Done
+- Empirical Process Control
 - Evidence Based Improvement
 - Evidence Based Management
 - Predictability in Kanban
@@ -38,7 +38,7 @@ tags:
 - Value Delivery
 - Working Software
 categories:
-- Metrics and Learning
+- People and Process
 - Product Delivery
 - Value Delivery
 preview: nakedalm-experts-professional-scrum-2-2.png

@@ -22,10 +22,10 @@ aliasesFor404:
 - /blog/upgrading-to-team-foundation-server-2013
 - /resources/blog/upgrading-to-team-foundation-server-2013
 tags:
-- Agile Tools
 - Application Lifecycle Management
 - Azure DevOps
 - Change Management
+- Collaboration Tools
 - Engineering Excellence
 - Featured
 - Modern Source Control
@@ -34,7 +34,7 @@ tags:
 - Software Development
 - Software Increment
 - System Configuration
-- Technical Mastery
+- Technical Excellence
 - Windows
 - Working Software
 categories:

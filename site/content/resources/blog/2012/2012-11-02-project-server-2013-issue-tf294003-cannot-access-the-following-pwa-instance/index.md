@@ -43,7 +43,7 @@ tags:
 - Troubleshooting
 - Working Software
 categories:
-- Application Lifecycle Management
+- DevOps
 - Install and Configuration
 - Practical Techniques and Tooling
 preview: metro-problem-icon-6-6.png

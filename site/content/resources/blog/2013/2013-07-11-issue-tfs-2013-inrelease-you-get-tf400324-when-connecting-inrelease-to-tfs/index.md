@@ -28,19 +28,19 @@ aliasesFor404:
 tags:
 - Application Lifecycle Management
 - Azure DevOps
-- Azure Repos
 - CI/CD
 - DevOps
-- Engineering Excellence
 - Engineering Practices
 - Modern Source Control
 - Operational Practices
 - Pragmatic Thinking
 - Software Developers
 - Software Development
+- System Configuration
 - Technical Excellence
 - Technical Mastery
 - Troubleshooting
+- Working Software
 categories:
 - Azure DevOps
 - Install and Configuration

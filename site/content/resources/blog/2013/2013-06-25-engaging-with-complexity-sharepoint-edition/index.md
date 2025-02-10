@@ -28,6 +28,8 @@ aliasesFor404:
 - /engaging-with-complexity
 - /resources/blog/engaging-with-complexity-sharepoint-edition
 tags:
+- Change Management
+- Collaboration Tools
 - Complexity Thinking
 - DevOps
 - Digital Transformation
@@ -39,8 +41,6 @@ tags:
 - Software Development
 - System Configuration
 - Technical Mastery
-- Technical Strategy
-- Troubleshooting
 - Windows
 - Working Software
 categories:

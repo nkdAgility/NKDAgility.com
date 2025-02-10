@@ -30,22 +30,22 @@ aliasesFor404:
 tags:
 - Application Lifecycle Management
 - Azure DevOps
+- Change Management
 - CI/CD
-- Engineering Excellence
+- DevOps
 - Engineering Practices
-- Modern Source Control
 - Operational Practices
-- Software Developers
+- Site Reliability
 - Software Development
 - Software Increment
 - System Configuration
-- Technical Mastery
+- Technical Excellence
 - Technical Strategy
 - Troubleshooting
 - Windows
 categories:
-- Application Lifecycle Management
 - Azure DevOps
+- Code and Complexity
 - Install and Configuration
 preview: metro-problem-icon-2-2.png
 

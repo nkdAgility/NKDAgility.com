@@ -44,9 +44,9 @@ tags:
 - Windows
 - Working Software
 categories:
-- Application Lifecycle Management
 - Code and Complexity
 - Install and Configuration
+- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

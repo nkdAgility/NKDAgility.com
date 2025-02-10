@@ -26,11 +26,11 @@ aliasesFor404:
 - /blog/project-server-2013-issue-–-tf294026--the-following-work-item-field-does-not-exist
 - /resources/blog/project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
 tags:
-- Agile Tools
 - Azure DevOps
 - Engineering Practices
 - Pragmatic Thinking
 - Scrum
+- Scrum Master
 - Scrum Product Development
 - Scrum Product Management
 - Scrum Team

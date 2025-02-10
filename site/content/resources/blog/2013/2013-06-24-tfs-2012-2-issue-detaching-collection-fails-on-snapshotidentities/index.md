@@ -34,10 +34,10 @@ tags:
 - Modern Source Control
 - Operational Practices
 - Pragmatic Thinking
-- Site Reliability
 - Software Developers
 - Software Development
 - System Configuration
+- Technical Excellence
 - Technical Mastery
 - Troubleshooting
 - Working Software

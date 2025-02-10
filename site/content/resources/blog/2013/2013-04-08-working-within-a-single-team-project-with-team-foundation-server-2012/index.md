@@ -22,12 +22,12 @@ aliasesFor404:
 - /blog/working-within-a-single-team-project-with-team-foundation-server-2012
 - /resources/blog/working-within-a-single-team-project-with-team-foundation-server-2012
 tags:
+- Agile Pilot
 - Agile Planning
 - Agile Planning Tools
 - Agile Project Management
 - Agile Software Development
 - Agile Software Engineering
-- Agility
 - Cross Functional Teams
 - Modern Source Control
 - People and Process

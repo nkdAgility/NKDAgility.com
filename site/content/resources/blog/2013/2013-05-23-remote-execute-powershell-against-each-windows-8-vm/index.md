@@ -24,8 +24,8 @@ aliasesFor404:
 tags:
 - DevOps
 - Discovery and Learning
-- Engineering Excellence
 - Engineering Practices
+- Experimentation
 - Operational Practices
 - Pragmatic Thinking
 - Software Developers
@@ -39,8 +39,8 @@ tags:
 - Working Software
 categories:
 - Code and Complexity
-- Install and Configuration
 - Practical Techniques and Tooling
+- Technical Excellence
 preview: image11-1-1.png
 
 ---

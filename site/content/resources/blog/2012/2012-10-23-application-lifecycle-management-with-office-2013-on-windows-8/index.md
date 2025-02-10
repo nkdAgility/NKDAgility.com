@@ -36,7 +36,10 @@ tags:
 - Value Delivery
 - Windows
 - Working Software
-categories: []
+categories:
+- Application Lifecycle Management
+- Practical Techniques and Tooling
+- Products and Books
 preview: metro-office-128-link-5-5.png
 
 ---

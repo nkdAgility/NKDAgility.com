@@ -39,7 +39,7 @@ tags:
 - Working Software
 categories:
 - Application Lifecycle Management
-- Organisational Agility
+- Product Delivery
 - Value Delivery
 preview: nakedalm-experts-visual-studio-alm-18-18.png
 
