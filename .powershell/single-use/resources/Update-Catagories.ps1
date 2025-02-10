@@ -38,5 +38,5 @@ $resources | ForEach-Object {
     Write-InfoLog "Processing post: $(Resolve-Path -Path $resourceDir -Relative)"
 
     #Remove-ClassificationsFromCache -ClassificationsToRemove @("Technical Excellence") -CacheFolder $resourceDir -ClassificationType "categories"
-    Remove-ClassificationsFromCacheThatLookBroken -ClassificationCatalog $categoriesCatalog -CacheFolder $resourceDir -ClassificationType "categories"
+    Remove-ClassificationsFromCacheThatLookBroken -ClassificationCatalog $tagCatalog -CacheFolder $resourceDir -ClassificationType "tags"
 }

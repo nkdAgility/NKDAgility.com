@@ -38,5 +38,245 @@
     "final_score": 82.0,
     "reasoning": "Content is primarily focused on the concept of Sprint Goals within the Scrum framework, detailing their importance, creation, and examples, making Scrum the central theme.",
     "level": "Primary"
+  },
+  "Decision Theory": {
+    "category": "Decision Theory",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on Scrum and the importance of setting effective Sprint Goals, with no substantial discussion on decision-making in uncertain environments, heuristics, probability, or behavioural economics.",
+    "level": "Ignored"
+  },
+  "Enterprise Agility": {
+    "category": "Enterprise Agility",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content primarily focuses on crafting effective Sprint Goals within the Scrum framework, which is a tactical aspect of team-level agility. While it touches on the importance of aligning goals with stakeholder feedback and broader business context, it does not extensively address scaling agility beyond teams or driving organisational responsiveness and adaptability.",
+    "level": "Ignored"
+  },
+  "Lean": {
+    "category": "Lean",
+    "ai_confidence": 50,
+    "non_ai_confidence": 30,
+    "final_score": 44.0,
+    "reasoning": "The content discusses the importance of delivering value through effective Sprint Goals, which aligns with Lean principles, but the primary focus is on Scrum processes rather than Lean methodology itself.",
+    "level": "Ignored"
+  },
+  "Resilience and Change": {
+    "category": "Resilience and Change",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on the concept of Sprint Goals within the Scrum framework, discussing their importance, crafting methods, and examples. While it touches on aspects of team collaboration and accountability, it does not centralise on strategies for organisational resilience or adaptive change.",
+    "level": "Ignored"
+  },
+  "Install and Configuration": {
+    "category": "Install and Configuration",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily discusses the concept of Sprint Goals within the Scrum framework, focusing on their importance, formulation, and examples. It does not address installation or configuration of tools, software, or platforms.",
+    "level": "Ignored"
+  },
+  "Code and Complexity": {
+    "category": "Code and Complexity",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the concept of Sprint Goals within the Scrum framework, focusing on team collaboration, accountability, and goal-setting methodologies rather than software code quality or best practices in development.",
+    "level": "Ignored"
+  },
+  "Flow Efficiency": {
+    "category": "Flow Efficiency",
+    "ai_confidence": 75,
+    "non_ai_confidence": 0,
+    "final_score": 52.0,
+    "reasoning": "The content discusses the importance of crafting effective Sprint Goals, which directly impacts the optimisation of work throughput and value delivery in Scrum. While it primarily focuses on Sprint Goals, the implications for flow efficiency are significant, making it a major theme.",
+    "level": "Secondary"
+  },
+  "AI and Automation in Agility": {
+    "category": "AI and Automation in Agility",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the concept of Sprint Goals within the Scrum framework, discussing their importance, crafting methods, and examples. AI and automation are not central themes.",
+    "level": "Ignored"
+  },
+  "Product Delivery": {
+    "category": "Product Delivery",
+    "ai_confidence": 92,
+    "non_ai_confidence": 20,
+    "final_score": 70.0,
+    "reasoning": "Content primarily focuses on the importance of Sprint Goals within the Scrum framework, which is central to delivering usable software products effectively. It discusses planning, accountability, and the tactical nature of goals that drive value delivery in product development.",
+    "level": "Secondary"
+  },
+  "Agile Product Management": {
+    "category": "Agile Product Management",
+    "ai_confidence": 92,
+    "non_ai_confidence": 20,
+    "final_score": 70.0,
+    "reasoning": "Content primarily focuses on the importance of Sprint Goals within the Scrum framework, emphasising their role in value delivery and alignment with broader product objectives.",
+    "level": "Secondary"
+  },
+  "Discovery and Learning": {
+    "category": "Discovery and Learning",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of crafting effective Sprint Goals, which involves exploring ideas and continuous learning within the Scrum framework. However, the primary focus is on the mechanics of Sprint Goals rather than broader themes of discovery and innovation.",
+    "level": "Ignored"
+  },
+  "Systems Thinking": {
+    "category": "Systems Thinking",
+    "ai_confidence": 45,
+    "non_ai_confidence": 10,
+    "final_score": 34.0,
+    "reasoning": "The content primarily focuses on the concept of Sprint Goals within the Scrum framework, discussing their importance, crafting methods, and examples. While it touches on aspects of collaboration and stakeholder feedback, it does not centralise on interdependencies or systemic behaviour, which are key elements of Systems Thinking.",
+    "level": "Ignored"
+  },
+  "Complexity Thinking": {
+    "category": "Complexity Thinking",
+    "ai_confidence": 30,
+    "non_ai_confidence": 20,
+    "final_score": 27.0,
+    "reasoning": "The content primarily focuses on the concept of Sprint Goals within the Scrum framework, discussing their importance, formulation, and examples. While it touches on aspects of team collaboration and accountability, it does not centralise on complexity science or frameworks like Cynefin or Stacey, which are key to the 'Complexity Thinking' category.",
+    "level": "Ignored"
+  },
+  "Transparency and Accountability": {
+    "category": "Transparency and Accountability",
+    "ai_confidence": 92,
+    "non_ai_confidence": 20,
+    "final_score": 70.0,
+    "reasoning": "Content heavily discusses the importance of the Sprint Goal in fostering accountability and transparency within Scrum teams, emphasising the commitment to stakeholders and the collaborative effort required in goal-setting.",
+    "level": "Secondary"
+  },
+  "Practical Techniques and Tooling": {
+    "category": "Practical Techniques and Tooling",
+    "ai_confidence": 85,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "Content primarily focuses on the concept of Sprint Goals within the Scrum framework, detailing methodologies for crafting effective goals and their importance in Agile practices.",
+    "level": "Secondary"
+  },
+  "Events and Presentations": {
+    "category": "Events and Presentations",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of Sprint Goals in Scrum and mentions upcoming professional Scrum classes, indicating a secondary theme related to events and presentations.",
+    "level": "Ignored"
+  },
+  "Market Adaptability": {
+    "category": "Market Adaptability",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of aligning Sprint Goals with stakeholder feedback and market insights, indicating a secondary theme of market adaptability.",
+    "level": "Ignored"
+  },
+  "Miscellaneous": {
+    "category": "Miscellaneous",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on the concept of Sprint Goals within the Scrum framework, detailing their importance, crafting methods, and examples, rather than discussing miscellaneous topics.",
+    "level": "Ignored"
+  },
+  "Products and Books": {
+    "category": "Products and Books",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the concept of Sprint Goals within the Scrum framework, which is relevant to Agile practices. However, it primarily focuses on the methodology rather than specific products or books, making it a secondary theme.",
+    "level": "Ignored"
+  },
+  "Value Delivery": {
+    "category": "Value Delivery",
+    "ai_confidence": 92,
+    "non_ai_confidence": 20,
+    "final_score": 70.0,
+    "reasoning": "Content primarily focuses on the importance of Sprint Goals in Scrum, emphasising their role in delivering value and aligning team efforts with stakeholder expectations.",
+    "level": "Secondary"
+  },
+  "Scaling Agility": {
+    "category": "Scaling Agility",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on the concept of Sprint Goals within the Scrum framework, without discussing scaling approaches like LeSS, Nexus, or custom scaling strategies.",
+    "level": "Ignored"
+  },
+  "Organisational Agility": {
+    "category": "Organisational Agility",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of Sprint Goals in the Scrum framework, which indirectly relates to organisational agility by emphasising the need for teams to adapt and respond to stakeholder feedback and market insights. However, the primary focus is on Scrum processes rather than organisational agility itself.",
+    "level": "Ignored"
+  },
+  "Personal": {
+    "category": "Personal",
+    "ai_confidence": 0,
+    "non_ai_confidence": 50,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the concept of Sprint Goals within the Scrum framework, discussing their importance, creation, and examples, rather than personal thoughts or experiences.",
+    "level": "Ignored"
+  },
+  "People and Process": {
+    "category": "People and Process",
+    "ai_confidence": 92,
+    "non_ai_confidence": 20,
+    "final_score": 70.0,
+    "reasoning": "Content heavily discusses the importance of collaboration among Scrum team members and stakeholders in crafting effective Sprint Goals, highlighting the human factors involved in the Scrum process.",
+    "level": "Secondary"
+  },
+  "Sociotechnical Systems": {
+    "category": "Sociotechnical Systems",
+    "ai_confidence": 75,
+    "non_ai_confidence": 0,
+    "final_score": 52.0,
+    "reasoning": "The content discusses the interaction between Scrum roles, team dynamics, and stakeholder engagement in the context of setting effective Sprint Goals, highlighting how these elements shape software delivery and team effectiveness.",
+    "level": "Secondary"
+  },
+  "News and Reviews": {
+    "category": "News and Reviews",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on the concept of Sprint Goals within the Scrum framework, providing detailed guidance and examples, rather than discussing industry news, updates, or reviews.",
+    "level": "Ignored"
+  },
+  "Metrics and Learning": {
+    "category": "Metrics and Learning",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of crafting effective Sprint Goals and how they connect teams with stakeholders, which involves feedback and accountability. However, the primary focus is on the Sprint Goal itself rather than on metrics or continuous improvement processes.",
+    "level": "Ignored"
+  },
+  "Application Lifecycle Management": {
+    "category": "Application Lifecycle Management",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 41.0,
+    "reasoning": "The content discusses the importance of Sprint Goals within the Scrum framework, which is a part of the application development lifecycle. However, it primarily focuses on Scrum practices rather than the broader aspects of application lifecycle management.",
+    "level": "Ignored"
+  },
+  "Value Stream Management": {
+    "category": "Value Stream Management",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 41.0,
+    "reasoning": "The content discusses the importance of aligning Sprint Goals with value delivery and stakeholder accountability, which relates to optimising efficiency and reducing waste in the context of Scrum. However, the primary focus is on Scrum practices rather than a comprehensive exploration of Value Stream Management.",
+    "level": "Ignored"
+  },
+  "Organisational Psychology": {
+    "category": "Organisational Psychology",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses team dynamics and accountability in the context of Scrum, which relates to organisational psychology, but the primary focus is on the technical aspects of setting Sprint Goals.",
+    "level": "Ignored"
   }
 }

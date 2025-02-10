@@ -29,8 +29,9 @@ aliasesFor404:
 tags:
 - Value Delivery
 categories:
-- DevOps
+- Product Delivery
 - Scrum
+- Transparency and Accountability
 preview: NKDAgility-technically-DOD-Not-AC-3-1-1-1.jpg
 
 ---

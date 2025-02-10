@@ -38,5 +38,61 @@
     "final_score": 71.0,
     "reasoning": "Content primarily discusses the use of Story Points within the context of Scrum, focusing on their role in team discussions and backlog refinement, which are key aspects of the Scrum framework.",
     "level": "Secondary"
+  },
+  "Decision Theory": {
+    "category": "Decision Theory",
+    "ai_confidence": 75,
+    "non_ai_confidence": 0,
+    "final_score": 52.0,
+    "reasoning": "The content discusses decision-making in the context of using Story Points and other metrics to optimise team performance and value delivery, making Decision Theory a major theme.",
+    "level": "Secondary"
+  },
+  "Enterprise Agility": {
+    "category": "Enterprise Agility",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses metrics and practices that can enhance team performance and value delivery, which are relevant to organisational responsiveness and adaptability, but it primarily focuses on Story Points and team-level discussions.",
+    "level": "Ignored"
+  },
+  "Lean": {
+    "category": "Lean",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 59.0,
+    "reasoning": "Content primarily focuses on optimising value delivery and minimising waste through metrics like throughput and value, aligning closely with Lean principles.",
+    "level": "Secondary"
+  },
+  "Resilience and Change": {
+    "category": "Resilience and Change",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses metrics and strategies for optimising team performance and value delivery, which are relevant to organisational resilience and adaptive change, but it is primarily focused on Story Points and agile methodologies.",
+    "level": "Ignored"
+  },
+  "Install and Configuration": {
+    "category": "Install and Configuration",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily discusses the use and implications of Story Points in agile frameworks, focusing on metrics and value delivery rather than installation or configuration of tools or software.",
+    "level": "Ignored"
+  },
+  "Code and Complexity": {
+    "category": "Code and Complexity",
+    "ai_confidence": 75,
+    "non_ai_confidence": 10,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the use of Story Points in agile development, focusing on metrics and best practices for team performance, making it a major theme, though not the sole focus.",
+    "level": "Secondary"
+  },
+  "Flow Efficiency": {
+    "category": "Flow Efficiency",
+    "ai_confidence": 92,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "Content primarily focuses on optimising throughput and value delivery in agile frameworks, discussing metrics like throughput, cycle time, and work in process, which are central to improving flow efficiency.",
+    "level": "Secondary"
   }
 }

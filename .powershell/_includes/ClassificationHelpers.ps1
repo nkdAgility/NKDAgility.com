@@ -120,9 +120,9 @@ do not wrap the json in anything else, just return the json object.
             "reasoning"         = $aiResponseJson.reasoning
             "level"             = if ($finalScore -ge 80) { "Primary" } elseif ($finalScore -ge 50) { "Secondary" } else { "Ignored" }
         }
-
-        $cachedData | Add-Member -MemberType NoteProperty -Name $category -Value $categoryScores[$category] -Force
-
+        if ($aiResponseJson.reasoning -ne $null)
+            $cachedData | Add-Member -MemberType NoteProperty -Name $category -Value $categoryScores[$category] -Force
+        }
         # Save cache after each API call
         $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
     }

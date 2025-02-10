@@ -27,6 +27,8 @@ aliasesFor404:
 - /resources/blog/how-to-set-and-achieve-effective-sprint-goals
 tags: []
 categories:
+- Agile Product Management
+- Product Delivery
 - Scrum
 preview: NKDAgility-technically-SetEffectiveSprintGoals-1-1.jpg
 
