@@ -34,7 +34,10 @@ tags:
 - Technical Mastery
 - Troubleshooting
 - Windows
-categories: []
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Technical Excellence
 preview: puzzle-issue-problem-128-link-6-6.png
 
 ---

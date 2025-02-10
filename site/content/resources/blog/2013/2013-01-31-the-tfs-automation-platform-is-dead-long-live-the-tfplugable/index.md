@@ -29,9 +29,24 @@ aliasesFor404:
 - /the-tfs-automation-platform-is-dead--long-live-the-tfplugable
 - /blog/the-tfs-automation-platform-is-dead--long-live-the-tfplugable
 - /resources/blog/the-tfs-automation-platform-is-dead-long-live-the-tfplugable
-tags: []
+tags:
+- Ability to Innovate
+- Agile Tools
+- Application Lifecycle Management
+- Azure DevOps
+- Continuous Delivery
+- Definition of Done
+- Deployment Strategies
+- Engineering Excellence
+- Engineering Practices
+- Modern Source Control
+- Software Developers
+- Software Development
+- System Configuration
+- Technical Mastery
+- Value Delivery
 categories:
-- Code and Complexity
+- Install and Configuration
 - Practical Techniques and Tooling
 - Product Delivery
 preview: nakedalm-logo-128-link-3-3.png

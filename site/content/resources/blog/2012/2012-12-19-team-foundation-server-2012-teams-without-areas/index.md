@@ -28,7 +28,6 @@ aliasesFor404:
 tags:
 - Azure Boards
 - Azure DevOps
-- Continuos Delivery
 - Continuous Delivery
 - Decision Making
 - Operational Practices
@@ -41,7 +40,11 @@ tags:
 - Team Collaboration
 - Team Performance
 - Technical Mastery
-categories: []
+- Working Software
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Scrum
 preview: nakedalm-experts-visual-studio-alm-16-16.png
 
 ---

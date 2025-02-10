@@ -30,10 +30,10 @@ tags:
 - Deployment Strategies
 - DevOps
 - Engineering Excellence
-- Operational Practices
 - Software Developers
 - Software Development
 - System Configuration
+- Technical Mastery
 - Test Automation
 - Windows
 - Working Software

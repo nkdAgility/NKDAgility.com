@@ -25,8 +25,26 @@ aliasesFor404:
 - /project-server-2013-issue-–-tf294026--the-following-work-item-field-does-not-exist
 - /blog/project-server-2013-issue-–-tf294026--the-following-work-item-field-does-not-exist
 - /resources/blog/project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
-tags: []
-categories: []
+tags:
+- Agile Tools
+- Azure DevOps
+- Engineering Practices
+- Pragmatic Thinking
+- Scrum
+- Scrum Product Development
+- Scrum Product Management
+- Scrum Team
+- Software Developers
+- Software Development
+- System Configuration
+- Technical Excellence
+- Technical Mastery
+- Troubleshooting
+- Working Software
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Scrum
 preview: metro-problem-icon-3-3.png
 
 ---

@@ -37,7 +37,10 @@ tags:
 - Software Development
 - Technical Excellence
 - Working Software
-categories: []
+categories:
+- Application Lifecycle Management
+- Kanban
+- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

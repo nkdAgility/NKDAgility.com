@@ -292,7 +292,6 @@ do not wrap the json in anything else, just return the json object.
 **Content Title:** "$ResourceTitle"  
 **Content:** "$ResourceContent"
 "@
-        Write-InfoLog "Tokens: $(Get-TokenCount $prompt)"
         $prompts += $prompt
         $categoryMap[$prompts.Count - 1] = $category
     }

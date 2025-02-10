@@ -21,7 +21,22 @@ aliasesFor404:
 - /upgrading-to-team-foundation-server-2012-update-1
 - /blog/upgrading-to-team-foundation-server-2012-update-1
 - /resources/blog/upgrading-to-team-foundation-server-2012-update-1
-tags: []
+tags:
+- Agile Tools
+- Application Lifecycle Management
+- Azure DevOps
+- Azure Repos
+- Engineering Practices
+- Featured
+- Modern Source Control
+- Software Developers
+- Software Development
+- Software Increment
+- System Configuration
+- Technical Excellence
+- Technical Mastery
+- Windows
+- Working Software
 categories:
 - Application Lifecycle Management
 - Install and Configuration

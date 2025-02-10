@@ -21,8 +21,26 @@ aliasesFor404:
 - /batched-domain-migration-with-tfs-while-maintaining-identity
 - /blog/batched-domain-migration-with-tfs-while-maintaining-identity
 - /resources/blog/batched-domain-migration-with-tfs-while-maintaining-identity
-tags: []
-categories: []
+tags:
+- Agile Digital Tools
+- Azure DevOps
+- Change Management
+- Collaboration Tools
+- Deployment Strategies
+- DevOps
+- Modern Source Control
+- Operational Practices
+- Organisational Change
+- Software Developers
+- Software Development
+- System Configuration
+- Technical Mastery
+- Technical Strategy
+- Working Software
+categories:
+- Azure DevOps
+- Install and Configuration
+- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 
 ---

@@ -910,5 +910,589 @@
     "final_score": 0.0,
     "reasoning": "The content primarily discusses technical issues related to SharePoint 2013 and custom web parts, with no mention of Agile methodologies or product ownership principles.",
     "level": "Ignored"
+  },
+  "Lead Time": {
+    "category": "Lead Time",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses issues related to upgrading SharePoint and troubleshooting custom web parts, with no clear focus on lead time.",
+    "level": "Ignored"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses issues and solutions related to SharePoint 2013 and custom web parts, with no mention of Kanban principles or practices.",
+    "level": "Ignored"
+  },
+  "Agile Certifications": {
+    "category": "Agile Certifications",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses issues related to SharePoint 2013 and custom web parts, with no mention of Agile methodologies or certifications.",
+    "level": "Ignored"
+  },
+  "Cross Functional Teams": {
+    "category": "Cross Functional Teams",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses a technical issue related to SharePoint 2013 and does not address cross-functional teams or their dynamics.",
+    "level": "Ignored"
+  },
+  "Definition of Ready": {
+    "category": "Definition of Ready",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses issues and solutions related to SharePoint 2013 and custom web parts, with no clear focus on the Definition of Ready.",
+    "level": "Ignored"
+  },
+  "Definition of Done": {
+    "category": "Definition of Done",
+    "ai_confidence": 0,
+    "non_ai_confidence": 30,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses troubleshooting and solutions for a specific SharePoint upgrade issue, with no clear focus on the Definition of Done.",
+    "level": "Ignored"
+  },
+  "Market Share": {
+    "category": "Market Share",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses issues related to SharePoint 2013 and custom web parts, with no mention or focus on market share.",
+    "level": "Ignored"
+  },
+  "Adaptive Strategy": {
+    "category": "Adaptive Strategy",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses troubleshooting and solutions for a specific technical issue related to SharePoint upgrades, rather than focusing on adaptive strategies.",
+    "level": "Ignored"
+  },
+  "Agile Scaling": {
+    "category": "Agile Scaling",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses a technical issue related to SharePoint 2013 and custom web parts, with no mention or relevance to Agile Scaling.",
+    "level": "Ignored"
+  },
+  "Collaboration Tools": {
+    "category": "Collaboration Tools",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses SharePoint, which is a collaboration tool, but the primary focus is on troubleshooting a specific issue rather than collaboration features or tools.",
+    "level": "Ignored"
+  },
+  "Product Discovery": {
+    "category": "Product Discovery",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses troubleshooting and solutions for a specific technical issue related to SharePoint, rather than focusing on product discovery.",
+    "level": "Ignored"
+  },
+  "Continuos Delivery": {
+    "category": "Continuos Delivery",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses troubleshooting and solutions for a specific SharePoint upgrade issue, with no focus on continuous delivery practices.",
+    "level": "Ignored"
+  },
+  "Test First Development": {
+    "category": "Test First Development",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily discusses issues and solutions related to SharePoint 2013 and custom web parts, with no mention of Test First Development.",
+    "level": "Ignored"
+  },
+  "Data Driven Decisions": {
+    "category": "Data Driven Decisions",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses troubleshooting and solutions for a specific SharePoint upgrade issue, with no focus on data-driven decision-making.",
+    "level": "Ignored"
+  },
+  "Agile AI": {
+    "category": "Agile AI",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses issues related to SharePoint 2013 and custom web parts, with no mention of Agile methodologies or AI concepts.",
+    "level": "Ignored"
+  },
+  "Ability to Innovate": {
+    "category": "Ability to Innovate",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily discusses troubleshooting and solutions for a specific technical issue related to SharePoint, rather than focusing on innovation.",
+    "level": "Ignored"
+  },
+  "Agile Problem Solving": {
+    "category": "Agile Problem Solving",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily discusses a technical issue related to SharePoint 2013 and solutions for resolving specific errors after an upgrade, without a focus on Agile methodologies or problem-solving frameworks.",
+    "level": "Ignored"
+  },
+  "Customer Retention": {
+    "category": "Customer Retention",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses technical issues and solutions related to SharePoint upgrades, with no focus on customer retention strategies or themes.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on troubleshooting and solutions for a specific technical issue related to SharePoint upgrades, rather than discussing continuous improvement practices.",
+    "level": "Ignored"
+  },
+  "Agile Mentoring": {
+    "category": "Agile Mentoring",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses troubleshooting and solutions related to SharePoint 2013 and does not mention Agile methodologies or mentoring.",
+    "level": "Ignored"
+  },
+  "Team Collaboration": {
+    "category": "Team Collaboration",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses technical issues and solutions related to SharePoint upgrades, with no clear focus on team collaboration.",
+    "level": "Ignored"
+  },
+  "Site Reliability Engineering": {
+    "category": "Site Reliability Engineering",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily discusses troubleshooting and solutions related to SharePoint 2013 and custom web parts, which is not central to Site Reliability Engineering.",
+    "level": "Ignored"
+  },
+  "Featured": {
+    "category": "Featured",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to SharePoint 2013 and does not focus on a featured topic.",
+    "level": "Ignored"
+  },
+  "Product Backlog": {
+    "category": "Product Backlog",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses troubleshooting and solutions for a specific SharePoint issue, with no clear focus on product backlog management or related topics.",
+    "level": "Ignored"
+  },
+  "Portfolio Management": {
+    "category": "Portfolio Management",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses troubleshooting and solutions related to SharePoint 2013 and custom web parts, with no clear focus on portfolio management.",
+    "level": "Ignored"
+  },
+  "Operational Practices": {
+    "category": "Operational Practices",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 59.0,
+    "reasoning": "Content primarily discusses operational practices related to troubleshooting and resolving issues in SharePoint 2013 after an upgrade, including specific methods and procedures for managing custom web parts.",
+    "level": "Secondary"
+  },
+  "Complexity Thinking": {
+    "category": "Complexity Thinking",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses troubleshooting and solutions for a specific technical issue related to SharePoint, rather than exploring themes of complexity thinking.",
+    "level": "Ignored"
+  },
+  "Deployment Frequency": {
+    "category": "Deployment Frequency",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses issues related to upgrading SharePoint and troubleshooting custom web parts, with no focus on deployment frequency.",
+    "level": "Ignored"
+  },
+  "Psychological Safety": {
+    "category": "Psychological Safety",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses technical issues related to SharePoint 2013 and custom web parts, with no mention of psychological safety.",
+    "level": "Ignored"
+  },
+  "Agile Product Discovery": {
+    "category": "Agile Product Discovery",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses troubleshooting and solutions for a SharePoint upgrade issue, with no mention of Agile methodologies or product discovery processes.",
+    "level": "Ignored"
+  },
+  "Agile Software Engineering": {
+    "category": "Agile Software Engineering",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses a technical issue related to SharePoint 2013 and custom web parts, with no mention of Agile methodologies or practices.",
+    "level": "Ignored"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "ai_confidence": 92,
+    "non_ai_confidence": 0,
+    "final_score": 64.0,
+    "reasoning": "Content primarily focuses on troubleshooting and resolving a specific technical issue related to SharePoint 2013, detailing solutions and best practices for managing custom web parts during an upgrade.",
+    "level": "Secondary"
+  },
+  "Team Motivation": {
+    "category": "Team Motivation",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses technical issues related to SharePoint upgrades and solutions, with no mention of team motivation.",
+    "level": "Ignored"
+  },
+  "CI/CD": {
+    "category": "CI/CD",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses issues related to SharePoint 2013 and custom web parts, with no clear focus on CI/CD practices or concepts.",
+    "level": "Ignored"
+  },
+  "Agile Portfolio Management": {
+    "category": "Agile Portfolio Management",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses troubleshooting issues related to SharePoint 2013 and custom web parts, with no mention of Agile Portfolio Management.",
+    "level": "Ignored"
+  },
+  "Discovery and Learning": {
+    "category": "Discovery and Learning",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific technical issue related to SharePoint 2013 and does not centre around discovery or learning as a primary theme.",
+    "level": "Ignored"
+  },
+  "Azure Repos": {
+    "category": "Azure Repos",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses issues related to SharePoint 2013 and custom web parts, with no mention or relevance to Azure Repos.",
+    "level": "Ignored"
+  },
+  "Behaviour Driven Development": {
+    "category": "Behaviour Driven Development",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses troubleshooting and solutions related to SharePoint 2013 and custom web parts, with no mention of Behaviour Driven Development principles or practices.",
+    "level": "Ignored"
+  },
+  "Hypothesis Driven Development": {
+    "category": "Hypothesis Driven Development",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses troubleshooting and solutions for a specific SharePoint upgrade issue, with no mention of hypothesis-driven development.",
+    "level": "Ignored"
+  },
+  "Sprint Planning Workshop": {
+    "category": "Sprint Planning Workshop",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses a technical issue related to SharePoint 2013 and does not mention or focus on sprint planning or related activities.",
+    "level": "Ignored"
+  },
+  "Lean Thinking": {
+    "category": "Lean Thinking",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses troubleshooting and solutions related to SharePoint 2013 and custom web parts, with no clear focus on Lean Thinking principles.",
+    "level": "Ignored"
+  },
+  "Value Delivery": {
+    "category": "Value Delivery",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses solutions to a specific SharePoint issue, which indirectly relates to value delivery by ensuring the site functions correctly post-upgrade, but the primary focus is on troubleshooting rather than value delivery itself.",
+    "level": "Ignored"
+  },
+  "Mentoring": {
+    "category": "Mentoring",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses technical issues and solutions related to SharePoint 2013 and does not focus on mentoring or guidance.",
+    "level": "Ignored"
+  },
+  "Agility": {
+    "category": "Agility",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses troubleshooting and solutions for a specific SharePoint upgrade issue, with no clear focus on agility principles or practices.",
+    "level": "Ignored"
+  },
+  "Asynchronous Development": {
+    "category": "Asynchronous Development",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses issues related to SharePoint upgrades and custom web parts, with no focus on asynchronous development.",
+    "level": "Ignored"
+  },
+  "Engineering Practices": {
+    "category": "Engineering Practices",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 59.0,
+    "reasoning": "Content primarily focuses on troubleshooting and solutions related to SharePoint upgrades, which involves engineering practices in software development and maintenance.",
+    "level": "Secondary"
+  },
+  "Continuous Delivery": {
+    "category": "Continuous Delivery",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses troubleshooting and solutions related to SharePoint 2013 and custom web parts, with no clear focus on continuous delivery practices.",
+    "level": "Ignored"
+  },
+  "Complexity Science": {
+    "category": "Complexity Science",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses troubleshooting and solutions related to SharePoint 2013 and custom web parts, with no clear focus on complexity science.",
+    "level": "Ignored"
+  },
+  "Leadership Training": {
+    "category": "Leadership Training",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses technical issues related to SharePoint 2013 and does not address leadership training as a clear or primary topic.",
+    "level": "Ignored"
+  },
+  "Professional Scrum": {
+    "category": "Professional Scrum",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses issues related to SharePoint 2013 and custom web parts, with no mention of Scrum principles, roles, or events.",
+    "level": "Ignored"
+  },
+  "Test Strategy": {
+    "category": "Test Strategy",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses troubleshooting and solutions for a specific SharePoint upgrade issue, with no clear focus on test strategy.",
+    "level": "Ignored"
+  },
+  "Enterprise Agility": {
+    "category": "Enterprise Agility",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses a technical issue related to SharePoint 2013 and custom web parts, with no clear focus on enterprise agility principles or practices.",
+    "level": "Ignored"
+  },
+  "Accountability": {
+    "category": "Accountability",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses technical issues and solutions related to SharePoint upgrades, with no clear focus on accountability.",
+    "level": "Ignored"
+  },
+  "Agile Leader": {
+    "category": "Agile Leader",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses technical issues and solutions related to SharePoint 2013 and does not address Agile leadership or related themes.",
+    "level": "Ignored"
+  },
+  "Organisational Agility": {
+    "category": "Organisational Agility",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses technical issues and solutions related to SharePoint upgrades, with no clear focus on organisational agility.",
+    "level": "Ignored"
+  },
+  "Software Development": {
+    "category": "Software Development",
+    "ai_confidence": 92,
+    "non_ai_confidence": 0,
+    "final_score": 64.0,
+    "reasoning": "Content primarily discusses troubleshooting and solutions related to SharePoint 2013 and custom web parts, which are key aspects of software development and deployment.",
+    "level": "Secondary"
+  },
+  "Lean UX": {
+    "category": "Lean UX",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses technical issues and solutions related to SharePoint 2013 and custom web parts, with no clear focus on Lean UX principles or practices.",
+    "level": "Ignored"
+  },
+  "Evidence Based Leadership": {
+    "category": "Evidence Based Leadership",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses technical issues and solutions related to SharePoint 2013 and does not address evidence-based leadership principles or practices.",
+    "level": "Ignored"
+  },
+  "Scrum Product Management": {
+    "category": "Scrum Product Management",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses technical issues related to SharePoint 2013 and custom web parts, with no mention of Scrum or product management principles.",
+    "level": "Ignored"
+  },
+  "Systems Thinking": {
+    "category": "Systems Thinking",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses troubleshooting and solutions related to SharePoint 2013 and custom web parts, with no clear focus on systems thinking.",
+    "level": "Ignored"
+  },
+  "Throughput": {
+    "category": "Throughput",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses troubleshooting and solutions for a specific SharePoint upgrade issue, with no focus on throughput as a central theme.",
+    "level": "Ignored"
+  },
+  "Scrum Master": {
+    "category": "Scrum Master",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses a technical issue related to SharePoint 2013 and does not mention Scrum or the role of a Scrum Master.",
+    "level": "Ignored"
+  },
+  "Agile Product Validation": {
+    "category": "Agile Product Validation",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses troubleshooting and solutions for a SharePoint upgrade issue, with no clear focus on Agile product validation.",
+    "level": "Ignored"
+  },
+  "Business Agility": {
+    "category": "Business Agility",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses technical issues and solutions related to SharePoint upgrades, with no clear focus on business agility.",
+    "level": "Ignored"
+  },
+  "Technical Mastery": {
+    "category": "Technical Mastery",
+    "ai_confidence": 92,
+    "non_ai_confidence": 0,
+    "final_score": 64.0,
+    "reasoning": "Content primarily focuses on troubleshooting and resolving a specific technical issue related to SharePoint 2013, demonstrating in-depth knowledge and expertise in the subject matter.",
+    "level": "Secondary"
+  },
+  "MVP": {
+    "category": "MVP",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses troubleshooting and solutions for a specific SharePoint issue, with no clear focus on MVP concepts.",
+    "level": "Ignored"
+  },
+  "Kanban Training": {
+    "category": "Kanban Training",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses issues related to SharePoint 2013 and custom web parts, with no mention or relevance to Kanban training.",
+    "level": "Ignored"
+  },
+  "Scaling Agility": {
+    "category": "Scaling Agility",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses troubleshooting and solutions for a specific SharePoint upgrade issue, with no clear focus on scaling agility.",
+    "level": "Ignored"
+  },
+  "Windows": {
+    "category": "Windows",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content primarily discusses issues related to SharePoint 2013 and its upgrade process, which is relevant to Windows environments, but the focus is more on SharePoint rather than Windows itself.",
+    "level": "Ignored"
+  },
+  "Deployment Strategies": {
+    "category": "Deployment Strategies",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "Content primarily discusses solutions for issues arising from upgrading SharePoint, which involves deployment strategies for managing custom web parts and site definitions.",
+    "level": "Secondary"
+  },
+  "Evidence Based Improvement": {
+    "category": "Evidence Based Improvement",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses troubleshooting and solutions for a specific technical issue in SharePoint, rather than focusing on evidence-based improvement methodologies.",
+    "level": "Ignored"
+  },
+  "Customer Feedback Loops": {
+    "category": "Customer Feedback Loops",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses technical issues and solutions related to SharePoint upgrades, with no mention of customer feedback or feedback loops.",
+    "level": "Ignored"
+  },
+  "Sensemaking": {
+    "category": "Sensemaking",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses troubleshooting and solutions for a specific technical issue related to SharePoint, rather than focusing on sensemaking.",
+    "level": "Ignored"
   }
 }

@@ -210,7 +210,7 @@ function Submit-OpenAIBatch {
     $FileId = $UploadResponse.id
     
     # Create batch
-    $BatchRequestMeta = @{tokenEstimate = $tokenEstimate }
+    $BatchRequestMeta = @{tokenEstimate = "$tokenEstimate" }
     $BatchRequest = @{input_file_id = $FileId; endpoint = "/v1/chat/completions"; completion_window = "24h"; metadata = $BatchRequestMeta } | ConvertTo-Json
     $BatchResponse = Invoke-RestMethod -Uri "https://api.openai.com/v1/batches" -Headers @{"Authorization" = "Bearer $OPEN_AI_KEY"; "Content-Type" = "application/json" } -Method Post -Body $BatchRequest
     $BatchId = $BatchResponse.id

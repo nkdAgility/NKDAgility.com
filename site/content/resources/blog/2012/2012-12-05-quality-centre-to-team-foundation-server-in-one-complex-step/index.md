@@ -21,8 +21,26 @@ aliasesFor404:
 - /quality-centre-to-team-foundation-server-in-one-complex-step
 - /blog/quality-centre-to-team-foundation-server-in-one-complex-step
 - /resources/blog/quality-centre-to-team-foundation-server-in-one-complex-step
-tags: []
-categories: []
+tags:
+- Agile Digital Tools
+- Agile Planning Tools
+- Agile Tools
+- Application Lifecycle Management
+- Azure DevOps
+- Change Management
+- Collaboration Tools
+- Modern Source Control
+- Product Discovery
+- Product Strategy
+- Software Developers
+- Software Development
+- Software Increment
+- System Configuration
+- Working Software
+categories:
+- Application Lifecycle Management
+- Practical Techniques and Tooling
+- Product Delivery
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---
