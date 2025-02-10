@@ -173,8 +173,9 @@ function Submit-OpenAIBatch {
         [array]$Prompts,
         [string]$OutputFile = "batch_output.jsonl"
     )
-
+    $tokenEstimate = 0
     $BatchData = $Prompts | ForEach-Object {
+        $tokenEstimate += Get-TokenEstimate $_
         [PSCustomObject]@{
             custom_id = "request-$([System.Guid]::NewGuid().ToString())"
             method    = "POST"
@@ -185,7 +186,7 @@ function Submit-OpenAIBatch {
                     @{ role = "system"; content = "You are a helpful assistant." },
                     @{ role = "user"; content = $_ }
                 )
-                max_tokens = 1000
+                max_tokens = 5000
             }
         } | ConvertTo-Json -Depth 10 -Compress
     } 
@@ -198,7 +199,8 @@ function Submit-OpenAIBatch {
     $FileId = $UploadResponse.id
     
     # Create batch
-    $BatchRequest = @{input_file_id = $FileId; endpoint = "/v1/chat/completions"; completion_window = "24h" } | ConvertTo-Json
+    $BatchRequestMeta = @{tokenEstimate = $tokenEstimate }
+    $BatchRequest = @{input_file_id = $FileId; endpoint = "/v1/chat/completions"; completion_window = "24h"; metadata = $BatchRequestMeta } | ConvertTo-Json
     $BatchResponse = Invoke-RestMethod -Uri "https://api.openai.com/v1/batches" -Headers @{"Authorization" = "Bearer $OPEN_AI_KEY"; "Content-Type" = "application/json" } -Method Post -Body $BatchRequest
     $BatchId = $BatchResponse.id
     
@@ -271,6 +273,7 @@ function Submit-And-Wait-OpenAIBatch {
     return Retrieve-OpenAIBatchResults -ApiKey $OPEN_AI_KEY -BatchId $BatchId -OutputFile $OutputFile
 }
 
+
 function Get-OpenAIEnqueuedTokens {
     param (
         [string]$OPEN_AI_KEY = $env:OPENAI_API_KEY
@@ -281,34 +284,74 @@ function Get-OpenAIEnqueuedTokens {
         "Content-Type"  = "application/json"
     }
 
-    # Get the list of all batches
-    $batchesResponse = Invoke-RestMethod -Uri "https://api.openai.com/v1/batches" -Headers $headers -Method Get
-
-    if (-not $batchesResponse.data) {
-        Write-DebugLog "No active batches found."
-        return 0
-    }
-
     $totalTokens = 0
+    $after = $null  # Cursor for pagination
 
-    # Loop through each batch and retrieve details
-    foreach ($batch in $batchesResponse.data) {
-        Write-DebugLog "Batch ID: $batchId | Status: $($batchDetails.status) | Batch tokens: $($batchDetails.total_tokens)"
-        Write-VerboseLog "Batch details: {batchDetails}" -PropertyValues $($batchDetails | ConvertTo-Json -Depth 10)
-        $batchId = $batch.id
-        $batchDetails = Invoke-RestMethod -Uri "https://api.openai.com/v1/batches/$batchId" -Headers $headers -Method Get
+    do {
+        # Construct the API URL with pagination support
+        $url = "https://api.openai.com/v1/batches"
+        if ($after) {
+            $url += "?after=$after"
+        }
 
-        if ($batchDetails.status -eq "in_progress" -or $batchDetails.status -eq "queued") {
-            if ($batchDetails.total_tokens) {
-                $totalTokens += $batchDetails.total_tokens
+        # Get the list of all batches
+        $batchesResponse = Invoke-RestMethod -Uri $url -Headers $headers -Method Get
+
+        if (-not $batchesResponse.data -or $batchesResponse.data.Count -eq 0) {
+            Write-DebugLog "No active batches found."
+            return 0
+        }
+
+        # Loop through each batch and retrieve details
+        foreach ($batch in $batchesResponse.data) {
+            $batchId = $batch.id
+            Write-DebugLog "Batch ID: $batchId | Status: $($batch.status)"
+
+            if ($batch.status -eq "in_progress" -or $batch.status -eq "queued") {
+                $totalTokens += $batch.request_counts.total * 10000
+
             }
         }
-    }
+
+        # Use the last batch ID as the 'after' cursor for the next request
+        $after = if ($batchesResponse.has_more -and $batchesResponse.last_id) { $batchesResponse.last_id } else { $null }
+
+    } while ($after)  # Continue fetching pages until all batches are retrieved
 
     Write-DebugLog "Total enqueued tokens: $totalTokens"
     return $totalTokens
 }
 
+function Get-TokenCount {
+    param (
+        [string]$Prompt
+    )
+
+    # Save the prompt to a temp file
+    $tempFile = "$env:TEMP\prompt.txt"
+    $Prompt | Out-File -Encoding utf8 $tempFile
+
+    # Run Python script to get token count
+    $tokenCount = python -c @"
+import tiktoken
+import sys
+
+with open(sys.argv[1], 'r', encoding='utf-8') as file:
+    text = file.read()
+
+encoding = tiktoken.get_encoding("cl100k_base")  # Model-specific encoding
+tokens = encoding.encode(text)
+print(len(tokens))
+"@ $tempFile
+
+    Remove-Item $tempFile -Force  # Clean up temp file
+    return [int]$tokenCount
+}
+
+# Example usage:
+$prompt = "This is a sample prompt to estimate tokens."
+$tokenCount = Get-TokenCount -Prompt $prompt
+Write-Host "Estimated Tokens: $tokenCount"
 
 
 

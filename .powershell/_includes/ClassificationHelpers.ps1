@@ -292,16 +292,22 @@ do not wrap the json in anything else, just return the json object.
 **Content Title:** "$ResourceTitle"  
 **Content:** "$ResourceContent"
 "@
-
+        Write-InfoLog "Tokens: $(Get-TokenCount $prompt)"
         $prompts += $prompt
         $categoryMap[$prompts.Count - 1] = $category
     }
 
-    if (($prompts.Count -gt 0) -and (Get-OpenAIEnqueuedTokens -lt 15000000)) {
-        # Submit batch and save batch ID
-        $batchId = Submit-OpenAIBatch -Prompts $prompts -OutputFile $batchJsonlInput
-        $batchId | Set-Content -Path $batchFile -Force
-        Write-Warning "Batch submitted. Processing..."
+    if ($prompts.Count -gt 0) {
+        $tokensInProgress = Get-OpenAIEnqueuedTokens
+        If ($tokensInProgress -lt 15000000) {
+            # Submit batch and save batch ID
+            $batchId = Submit-OpenAIBatch -Prompts $prompts -OutputFile $batchJsonlInput
+            $batchId | Set-Content -Path $batchFile -Force
+            Write-Warning "Batch submitted. Processing..."
+        }
+        else {
+            Write-Warning "Batch not submitted. Too many tokens in progress. try again later."
+        }
         return @()
     }
 }
