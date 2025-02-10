@@ -28,7 +28,10 @@ aliasesFor404:
 - /resources/blog/risk-mitigation-agile-usable-products-vs-documentation-in-traditional-project-management
 tags:
 - Team Collaboration
-categories: []
+categories:
+- DevOps
+- Scrum
+- Technical Excellence
 preview: image-1.jpg
 
 ---

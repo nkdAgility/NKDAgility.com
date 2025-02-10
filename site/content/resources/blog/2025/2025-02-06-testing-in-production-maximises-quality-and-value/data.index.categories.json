@@ -238,5 +238,45 @@
     "final_score": 66.0,
     "reasoning": "The content primarily discusses the shift from traditional deployment methods to audience-based deployment, emphasising the need for adaptability, rapid feedback, and resilience in software delivery processes.",
     "level": "Secondary"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "ai_confidence": 92,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "Content primarily focuses on modern deployment strategies, specifically audience-based deployment, and its implications for continuous delivery, quality assurance, and organisational culture in a DevOps context.",
+    "level": "Secondary"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "ai_confidence": 85,
+    "non_ai_confidence": 20,
+    "final_score": 66.0,
+    "reasoning": "Content primarily discusses modern deployment strategies and practices, heavily referencing Microsoft's transformation through Azure DevOps and its impact on software delivery.",
+    "level": "Secondary"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses aspects of managing flow and improving value delivery through audience-based deployment and continuous delivery, which aligns with Kanban principles, but it primarily focuses on deployment strategies rather than Kanban itself.",
+    "level": "Ignored"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "ai_confidence": 92,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "Content primarily focuses on modern software engineering practices, specifically audience-based deployment, continuous delivery, and the shift from traditional environments to more agile methodologies, which are central to the concept of Technical Excellence.",
+    "level": "Secondary"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses audience-based deployment and modern software delivery practices, with no clear focus on Scrum roles, events, or principles.",
+    "level": "Ignored"
   }
 }

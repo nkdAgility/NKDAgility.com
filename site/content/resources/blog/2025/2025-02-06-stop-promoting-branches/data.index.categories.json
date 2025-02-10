@@ -238,5 +238,45 @@
     "final_score": 41.0,
     "reasoning": "The content discusses the flaws of traditional branching models and promotes alternative strategies that enhance agility and stability in software delivery, indicating a significant focus on improving processes and adapting to change.",
     "level": "Ignored"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "ai_confidence": 92,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "Content primarily discusses the flaws of traditional branching models in software delivery and advocates for continuous integration and delivery practices, which are central to DevOps principles.",
+    "level": "Secondary"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "ai_confidence": 85,
+    "non_ai_confidence": 20,
+    "final_score": 66.0,
+    "reasoning": "Content primarily discusses branching strategies and continuous delivery models, specifically mentioning Microsoft's Release Flow as an alternative to traditional branch promotion models, which aligns closely with Azure DevOps practices.",
+    "level": "Secondary"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses flow and delivery models in software development, which aligns with Kanban principles, but the primary focus is on branching strategies rather than Kanban itself.",
+    "level": "Ignored"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "ai_confidence": 92,
+    "non_ai_confidence": 0,
+    "final_score": 64.0,
+    "reasoning": "The content primarily discusses modern branching strategies, continuous integration, and delivery practices, emphasising the importance of agility in software development.",
+    "level": "Secondary"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses branching strategies in software development and critiques traditional models, without a clear focus on Scrum principles or practices.",
+    "level": "Ignored"
   }
 }

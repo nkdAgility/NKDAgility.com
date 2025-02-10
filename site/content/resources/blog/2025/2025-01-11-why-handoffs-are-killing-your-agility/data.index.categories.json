@@ -238,5 +238,45 @@
     "final_score": 59.0,
     "reasoning": "The content primarily discusses the negative impact of handoffs on agility and efficiency, advocating for organisational change through cross-functional teams and modern engineering practices to enhance resilience in software development.",
     "level": "Secondary"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "ai_confidence": 85,
+    "non_ai_confidence": 30,
+    "final_score": 68.0,
+    "reasoning": "Content primarily focuses on the negative impact of handoffs in software development and advocates for practices that enhance collaboration and continuous delivery, which are central to DevOps principles.",
+    "level": "Secondary"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses Agile practices and collaboration, which are relevant to Azure DevOps, but the primary focus is on the concept of handoffs and their impact on agility rather than Azure DevOps tools or practices specifically.",
+    "level": "Ignored"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "ai_confidence": 75,
+    "non_ai_confidence": 0,
+    "final_score": 52.0,
+    "reasoning": "The content discusses the elimination of handoffs and the optimisation of flow, which are key principles in Kanban. However, it primarily focuses on the negative impacts of handoffs and the need for cross-functional teams, making Kanban a major but secondary theme.",
+    "level": "Secondary"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "ai_confidence": 85,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses the negative impact of handoffs on agility and advocates for modern engineering practices such as Continuous Delivery and Test-Driven Development, which are central to achieving technical excellence.",
+    "level": "Secondary"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "ai_confidence": 75,
+    "non_ai_confidence": 50,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of cross-functional teams and practices that align with Scrum principles, making Scrum a major theme.",
+    "level": "Secondary"
   }
 }

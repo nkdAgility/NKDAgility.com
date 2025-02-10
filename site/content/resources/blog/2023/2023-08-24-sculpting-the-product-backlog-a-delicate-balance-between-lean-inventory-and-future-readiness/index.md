@@ -30,6 +30,7 @@ tags:
 - Value Delivery
 categories:
 - Product Delivery
+- Scrum
 preview: image-1.jpg
 
 ---

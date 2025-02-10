@@ -24,7 +24,8 @@ aliasesFor404:
 - /resources/blog/there-is-no-place-like-production
 tags:
 - Adaptive Strategy
-categories: []
+categories:
+- DevOps
 preview: wizard-of-oz-ruby-slippers-2018-billboard-1548-2-2.jpg
 
 ---

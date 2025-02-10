@@ -37,8 +37,8 @@ tags:
 - Windows
 - Working Software
 categories:
-- Azure DevOps
 - DevOps
+- Product Delivery
 - Value Delivery
 preview: 2025-02-06-testing-in-production-maximises-quality-and-value.jpg
 

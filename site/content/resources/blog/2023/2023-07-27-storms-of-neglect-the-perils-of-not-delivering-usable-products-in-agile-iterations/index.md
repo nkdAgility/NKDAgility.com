@@ -23,7 +23,10 @@ aliasesFor404:
 - /blog/storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
 - /resources/blog/storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
 tags: []
-categories: []
+categories:
+- DevOps
+- Scrum
+- Technical Excellence
 preview: image-1.jpg
 
 ---

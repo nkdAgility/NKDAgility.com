@@ -238,5 +238,45 @@
     "final_score": 59.0,
     "reasoning": "Content primarily discusses the role of Scrum Masters in facilitating effective product delivery through Agile methodologies, highlighting the importance of their skills and knowledge in ensuring team effectiveness and product success.",
     "level": "Secondary"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "ai_confidence": 80,
+    "non_ai_confidence": 50,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the role of Scrum Masters in relation to DevOps practices, highlighting the importance of understanding DevOps principles and their application within Agile frameworks.",
+    "level": "Secondary"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses DevOps practices and their relevance to Scrum Masters, indicating a significant but secondary theme related to Azure DevOps.",
+    "level": "Ignored"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "ai_confidence": 50,
+    "non_ai_confidence": 30,
+    "final_score": 44.0,
+    "reasoning": "The content mentions Kanban as part of a broader discussion on Agile methodologies, but it is not the primary focus of the text.",
+    "level": "Ignored"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 59.0,
+    "reasoning": "The content primarily discusses the essential knowledge and skills a Scrum Master should possess, including modern engineering practices, DevOps, CI/CD, and other technical competencies that align with the principles of Technical Excellence.",
+    "level": "Secondary"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "ai_confidence": 92,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "Content heavily discusses the role and responsibilities of Scrum Masters, the importance of understanding the Scrum framework, and the challenges faced in the Scrum environment.",
+    "level": "Secondary"
   }
 }

@@ -238,5 +238,45 @@
     "final_score": 59.0,
     "reasoning": "Content primarily discusses the challenges and cultural barriers in implementing Agile and Scrum frameworks, which are essential for effective product delivery.",
     "level": "Secondary"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "ai_confidence": 75,
+    "non_ai_confidence": 0,
+    "final_score": 52.0,
+    "reasoning": "Content discusses Agile and Scrum frameworks, which are integral to DevOps practices, focusing on continuous improvement and team dynamics.",
+    "level": "Secondary"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "ai_confidence": 30,
+    "non_ai_confidence": 0,
+    "final_score": 21.0,
+    "reasoning": "The content primarily discusses Agile and Scrum methodologies, with no clear focus on Azure DevOps or its tools.",
+    "level": "Ignored"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses Agile and Scrum frameworks, drawing parallels to the Kanban concept of the 'andon' chain, but it primarily focuses on the challenges of implementing Agile and Scrum rather than Kanban itself.",
+    "level": "Ignored"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses Agile and Scrum frameworks, which are related to engineering practices that enable agility, but the primary focus is on cultural and organisational challenges rather than technical practices themselves.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "ai_confidence": 85,
+    "non_ai_confidence": 50,
+    "final_score": 74.0,
+    "reasoning": "Content primarily discusses the challenges and cultural aspects of implementing Agile and Scrum, highlighting their importance in addressing team dynamics and continuous improvement.",
+    "level": "Secondary"
   }
 }

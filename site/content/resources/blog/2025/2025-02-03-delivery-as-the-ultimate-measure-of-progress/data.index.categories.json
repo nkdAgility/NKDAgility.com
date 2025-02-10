@@ -238,5 +238,45 @@
     "final_score": 62.0,
     "reasoning": "The content primarily discusses the importance of delivery in Scrum, highlighting how adapting to modern practices and user feedback is essential for progress, which aligns with themes of resilience and change.",
     "level": "Secondary"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "ai_confidence": 92,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "Content heavily discusses the importance of delivery in Scrum, linking it directly to modern DevOps practices and continuous delivery, making DevOps a central theme.",
+    "level": "Secondary"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "ai_confidence": 85,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "Content primarily discusses the importance of delivery in Scrum, heavily referencing modern DevOps practices and CI/CD pipelines, which are central to Azure DevOps functionalities.",
+    "level": "Secondary"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses Scrum principles and practices, focusing on delivery as a measure of progress, rather than Kanban as a strategy for managing flow and improving value delivery.",
+    "level": "Ignored"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "ai_confidence": 92,
+    "non_ai_confidence": 0,
+    "final_score": 64.0,
+    "reasoning": "Content primarily focuses on the importance of delivery in Scrum, emphasising modern engineering practices such as CI/CD and the need for continuous delivery, which aligns closely with the principles of Technical Excellence.",
+    "level": "Secondary"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "ai_confidence": 92,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "Content heavily discusses the principles and practices of Scrum, particularly focusing on the importance of delivery as a measure of progress, which is central to the Scrum framework.",
+    "level": "Secondary"
   }
 }

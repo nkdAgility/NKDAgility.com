@@ -27,7 +27,10 @@ aliasesFor404:
 - /resources/blog/professional-scrum-teams-build-software-works
 tags:
 - Business Agility
-categories: []
+categories:
+- DevOps
+- Scrum
+- Technical Excellence
 preview: nkdAgility-PSD-Krakow-02-1-1.jpg
 
 ---

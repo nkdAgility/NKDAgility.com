@@ -25,7 +25,10 @@ aliasesFor404:
 - /live-site-culture-&-site-reliability-engineering
 - /blog/live-site-culture-&-site-reliability-engineering
 - /resources/blog/live-site-culture-site-reliability-engineering
-categories: []
+categories:
+- Azure DevOps
+- DevOps
+- Technical Excellence
 preview: 2020-06-17_13-06-30-1-1.jpg
 tags: []
 

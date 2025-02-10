@@ -16,6 +16,9 @@ $outputDir = ".\site\content\resources\blog\"
 # Get list of directories and select the first 10
 $resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md"  | Sort-Object { $_ } -Descending
 
+$categoriesCatalog = Get-CatalogHashtable -Classification "categories"
+$tagsCatalog = Get-CatalogHashtable -Classification "tags"
+
 # Initialize a hash table to track counts of each ResourceType
 $resourceTypeCounts = @{}
 
@@ -34,6 +37,6 @@ $resources | ForEach-Object {
     Write-InfoLog "--------------------------------------------------------"
     Write-InfoLog "Processing post: $(Resolve-Path -Path $resourceDir -Relative)"
 
-    Remove-ClassificationsFromCache -ClassificationsToRemove @("Technical Excellence") -CacheFolder $resourceDir -ClassificationType "categories"
-
+    #Remove-ClassificationsFromCache -ClassificationsToRemove @("Technical Excellence") -CacheFolder $resourceDir -ClassificationType "categories"
+    Remove-ClassificationsFromCacheThatLookBroken -ClassificationCatalog $categoriesCatalog -CacheFolder $resourceDir -ClassificationType "categories"
 }

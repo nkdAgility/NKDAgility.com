@@ -28,7 +28,8 @@ aliasesFor404:
 tags:
 - Professional Scrum
 - Scaling Agility
-categories: []
+categories:
+- Scrum
 preview: naked-Agility-Scrum-Framework-3-2.jpg
 
 ---

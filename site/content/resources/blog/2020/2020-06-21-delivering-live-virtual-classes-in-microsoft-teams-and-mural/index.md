@@ -21,7 +21,8 @@ aliasesFor404:
 - /delivering-live-virtual-classes-in-microsoft-teams-and-mural
 - /blog/delivering-live-virtual-classes-in-microsoft-teams-and-mural
 - /resources/blog/delivering-live-virtual-classes-in-microsoft-teams-and-mural
-categories: []
+categories:
+- Scrum
 preview: class-colage-2-8-8.jpg
 tags: []
 

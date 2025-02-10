@@ -238,5 +238,45 @@
     "final_score": 67.0,
     "reasoning": "Content primarily discusses the application of Scrum in a product development context, highlighting the delivery process and adaptability in real-world scenarios.",
     "level": "Secondary"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses Scrum and its adaptability in project management, which aligns with DevOps principles, but the primary focus is on Scrum rather than the broader DevOps practices.",
+    "level": "Ignored"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the application of Scrum in a product development context, with no clear focus on Azure DevOps or its related tools and features.",
+    "level": "Ignored"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses Scrum, its roles, and events, with no significant focus on Kanban principles or practices.",
+    "level": "Ignored"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses the practical application of Scrum, which aligns with engineering practices that enable agility, including adaptability and resilience in project management.",
+    "level": "Secondary"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "ai_confidence": 92,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "Content heavily discusses the practical application of Scrum, its principles, and elements as outlined in the Scrum Guide, demonstrating its central role in the narrative.",
+    "level": "Secondary"
   }
 }

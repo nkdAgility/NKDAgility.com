@@ -27,7 +27,10 @@ aliasesFor404:
 - /blog/decoding-scrum-team-work--balancing-sprint-and-refinement-work
 - /resources/blog/decoding-scrum-team-work-balancing-sprint-and-refinement-work
 tags: []
-categories: []
+categories:
+- Azure DevOps
+- DevOps
+- Scrum
 preview: NKDAgility-technically-SprintRefignementBallance-6-6.jpg
 
 ---

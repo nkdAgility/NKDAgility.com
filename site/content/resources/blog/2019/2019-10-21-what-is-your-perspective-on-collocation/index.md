@@ -26,7 +26,8 @@ aliasesFor404:
 - /blog/what-is-your-perspective-on-collocation-
 - /resources/blog/what-is-your-perspective-on-collocation
 tags: []
-categories: []
+categories:
+- Scrum
 preview: 1026661500-1-1.jpg
 
 ---

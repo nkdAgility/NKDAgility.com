@@ -30,7 +30,8 @@ aliasesFor404:
 tags:
 - Decision Theory
 - Software Development
-categories: []
+categories:
+- Scrum
 preview: images/Professional-Agile-Leadership-Evidence-Based-Management-6-6.jpg
 
 ---

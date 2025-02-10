@@ -23,7 +23,8 @@ aliasesFor404:
 - /blog/sprint-goal-is-an-immediate-tactical-goal
 - /resources/blog/sprint-goal-is-an-immediate-tactical-goal
 tags: []
-categories: []
+categories:
+- Scrum
 preview: naked-agility-hypothesis-driven-2-2.jpg
 
 ---

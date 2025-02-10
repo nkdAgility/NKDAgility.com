@@ -23,7 +23,9 @@ aliasesFor404:
 - /blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
 - /resources/blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
 tags: []
-categories: []
+categories:
+- DevOps
+- Scrum
 preview: naked-agility-technically-agile-1280×720-19-1-1.jpg
 
 ---

@@ -28,7 +28,9 @@ aliasesFor404:
 - /resources/blog/rethinking-product-backlog-navigating-through-the-weeds-of-complexity
 tags:
 - Pragmatic Thinking
-categories: []
+categories:
+- Scrum
+- Technical Excellence
 preview: image-1.jpg
 
 ---

@@ -21,7 +21,8 @@ aliasesFor404:
 - /configuring-microsoft-teams-for-live-virtual-training
 - /blog/configuring-microsoft-teams-for-live-virtual-training
 - /resources/blog/configuring-microsoft-teams-for-live-virtual-training
-categories: []
+categories:
+- Scrum
 preview: image-14-4-4.png
 tags: []
 

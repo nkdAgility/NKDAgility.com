@@ -27,7 +27,10 @@ aliasesFor404:
 - /blog/getting-started-with-a-definition-of-done-(dod)
 - /resources/blog/getting-started-definition-done-dod
 tags: []
-categories: []
+categories:
+- DevOps
+- Scrum
+- Technical Excellence
 preview: naked-Agility-Scrum-Framework-Definition-of-Done-2-1.jpg
 
 ---

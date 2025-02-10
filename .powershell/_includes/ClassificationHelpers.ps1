@@ -356,3 +356,56 @@ function Remove-ClassificationsFromCache {
         Write-Warning "No classifications were removed. Cache remains unchanged."
     }
 }
+
+function Remove-ClassificationsFromCacheThatLookBroken {
+    param (
+        [hashtable]$ClassificationCatalog,
+        [string]$CacheFolder,
+        [string]$ClassificationType = "classification"
+    )
+
+    # Construct the cache file path
+    $cacheFile = Join-Path $CacheFolder "data.index.$ClassificationType.json"
+
+    # Check if the cache file exists
+    if (!(Test-Path $cacheFile)) {
+        Write-Warning "Cache file does not exist. No action needed."
+        return
+    }
+
+    # Load the cache data
+    try {
+        $cachedData = Get-Content $cacheFile | ConvertFrom-Json -ErrorAction Stop
+    }
+    catch {
+        Write-Warning "Cache file is corrupted or unreadable. Unable to process."
+        return
+    }
+
+    $removedCount = 0
+
+    # Iterate through each classification to remove
+    foreach ($classification in $ClassificationCatalog.Keys) {
+        if ($cachedData.PSObject.Properties[$classification]) {
+            $classificationData = $cachedData.PSObject.Properties[$classification].Value
+            if ($classificationData.reasoning -eq $null) {
+                # Remove the classification from cache
+                $cachedData.PSObject.Properties.Remove($classification)
+                $removedCount++
+                Write-Host "Removed classification '$classification' from cache."
+            } 
+        }
+        else {
+            Write-Warning "Classification '$classification' not found in cache. Skipping."
+        }
+    }
+
+    # Save the updated cache if any classifications were removed
+    if ($removedCount -gt 0) {
+        $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
+        Write-Host "Cache file updated successfully with $removedCount removals."
+    }
+    else {
+        Write-Warning "No classifications were removed. Cache remains unchanged."
+    }
+}

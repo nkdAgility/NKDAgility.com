@@ -24,7 +24,10 @@ aliasesFor404:
 - /resources/blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
 tags:
 - Systems Thinking
-categories: []
+categories:
+- DevOps
+- Scrum
+- Technical Excellence
 preview: naked-agility-technically-agile-gym-membership-Agile-1-1.jpg
 
 ---

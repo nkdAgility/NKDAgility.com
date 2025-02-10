@@ -24,7 +24,10 @@ aliasesFor404:
 - /resources/blog/deciphering-the-enigma-of-story-points-across-teams
 tags:
 - Scaling Scrum
-categories: []
+categories:
+- Kanban
+- Scrum
+- Technical Excellence
 preview: naked-agility-technically-flow-not-velocity-5-5.jpg
 
 ---

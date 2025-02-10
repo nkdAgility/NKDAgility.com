@@ -23,7 +23,8 @@ aliasesFor404:
 - /resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
 tags:
 - Scrum Team
-categories: []
+categories:
+- Scrum
 preview: Wide-screen-scrum-master-3-3.jpg
 
 ---

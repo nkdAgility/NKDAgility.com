@@ -28,7 +28,9 @@ aliasesFor404:
 - /resources/blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business
 tags: []
 categories:
-- Flow Efficiency
+- Azure DevOps
+- DevOps
+- Scrum
 preview: All-technical-debt-is-risk-to-the-product-and-to-your-business-2-2.jpg
 
 ---

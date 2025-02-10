@@ -23,7 +23,8 @@ aliasesFor404:
 - /blog/become-the-leader-that-you-were-meant-to-to-be
 - /resources/blog/become-the-leader-that-you-were-meant-to-to-be
 tags: []
-categories: []
+categories:
+- Scrum
 preview: image-2-2.png
 
 ---

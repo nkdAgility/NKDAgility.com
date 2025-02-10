@@ -38,7 +38,8 @@ aliasesFor404:
 - /blog/hiring-a-professional-product-owner
 - /resources/blog/hiring-a-professional-product-owner
 tags: []
-categories: []
+categories:
+- Scrum
 preview: image-3-3.png
 
 ---

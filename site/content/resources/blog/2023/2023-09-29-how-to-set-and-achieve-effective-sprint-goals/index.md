@@ -26,7 +26,8 @@ aliasesFor404:
 - /blog/how-to-set-and-achieve-effective-sprint-goals
 - /resources/blog/how-to-set-and-achieve-effective-sprint-goals
 tags: []
-categories: []
+categories:
+- Scrum
 preview: NKDAgility-technically-SetEffectiveSprintGoals-1-1.jpg
 
 ---

@@ -238,5 +238,45 @@
     "final_score": 62.0,
     "reasoning": "Content primarily discusses the importance of delivery in validating assumptions and adapting to feedback, which aligns closely with themes of resilience and change.",
     "level": "Secondary"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "ai_confidence": 92,
+    "non_ai_confidence": 30,
+    "final_score": 73.0,
+    "reasoning": "Content heavily discusses the importance of delivery in realising value, emphasising frequent releases, feedback loops, and metrics that align with DevOps principles.",
+    "level": "Secondary"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the importance of delivery and frequent releases in Agile and Scrum methodologies, which are relevant to Azure DevOps practices, but the primary focus is on delivery and value realisation rather than Azure DevOps specifically.",
+    "level": "Ignored"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the importance of delivery and feedback loops, which are relevant to Kanban principles, but the primary focus is on Agile and Scrum practices rather than Kanban specifically.",
+    "level": "Ignored"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "ai_confidence": 92,
+    "non_ai_confidence": 0,
+    "final_score": 64.0,
+    "reasoning": "Content primarily focuses on the importance of frequent delivery and iterative releases in Agile practices, emphasising TDD, CI/CD, and the value of rapid feedback loops.",
+    "level": "Secondary"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "ai_confidence": 92,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "Content heavily discusses the importance of delivery, frequent releases, and feedback loops, which are central tenets of the Scrum framework.",
+    "level": "Secondary"
   }
 }

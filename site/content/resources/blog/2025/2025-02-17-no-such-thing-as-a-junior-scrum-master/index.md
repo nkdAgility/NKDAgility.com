@@ -37,7 +37,7 @@ tags:
 - Scrum Team
 - Technical Mastery
 categories:
-- Agile Product Management
+- DevOps
 - Lean
 - Scrum
 preview: 2025-02-10-no-such-thing-as-a-junior-scrum-master.jpg

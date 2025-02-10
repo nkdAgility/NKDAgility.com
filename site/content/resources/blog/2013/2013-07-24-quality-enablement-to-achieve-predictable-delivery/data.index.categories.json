@@ -246,5 +246,29 @@
     "final_score": 64.0,
     "reasoning": "Content primarily focuses on quality enablement and its critical role in achieving predictable software delivery, which aligns closely with DevOps principles of continuous delivery and collaboration between teams.",
     "level": "Secondary"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses quality enablement and predictability in software delivery, which aligns with Kanban principles of managing flow and improving value delivery, but it primarily focuses on quality metrics and practices rather than Kanban itself.",
+    "level": "Ignored"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "ai_confidence": 92,
+    "non_ai_confidence": 0,
+    "final_score": 64.0,
+    "reasoning": "Content primarily focuses on quality enablement and practices such as Definition of Done, Acceptance Criteria, Automated Builds, and Automated Deployment, which are essential for achieving predictable software delivery.",
+    "level": "Secondary"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 59.0,
+    "reasoning": "Content primarily discusses the importance of quality in software delivery, specifically referencing Scrum concepts like Definition of Done and Acceptance Criteria, which are central to the Scrum framework.",
+    "level": "Secondary"
   }
 }

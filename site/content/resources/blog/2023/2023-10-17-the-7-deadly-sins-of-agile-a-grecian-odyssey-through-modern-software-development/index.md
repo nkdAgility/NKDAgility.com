@@ -45,7 +45,7 @@ tags:
 categories:
 - Enterprise Agility
 - Lean
-- Scrum
+- Organisational Agility
 preview: NKDAgility-technically-7DeadlySins-16-15.jpg
 
 ---

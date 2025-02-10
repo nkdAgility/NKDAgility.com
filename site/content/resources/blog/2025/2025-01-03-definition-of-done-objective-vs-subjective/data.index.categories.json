@@ -238,5 +238,45 @@
     "final_score": 41.0,
     "reasoning": "The content discusses the importance of the Definition of Done in Scrum, which indirectly relates to resilience through maintaining quality and adapting to changes. However, the primary focus is on Scrum roles and quality measures rather than resilience and change as a central theme.",
     "level": "Ignored"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 59.0,
+    "reasoning": "Content primarily focuses on the Definition of Done in Scrum, which is essential for ensuring quality in the delivery process, aligning with DevOps principles of continuous delivery and value to end users.",
+    "level": "Secondary"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "ai_confidence": 30,
+    "non_ai_confidence": 0,
+    "final_score": 21.0,
+    "reasoning": "The content primarily discusses Scrum practices and the Definition of Done, with only a minor mention of CI/CD principles, which are relevant to Azure DevOps but not central to the discussion.",
+    "level": "Ignored"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the Definition of Done in Scrum, focusing on quality measures and team practices, without addressing Kanban principles or practices.",
+    "level": "Ignored"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "ai_confidence": 92,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content primarily discusses the Definition of Done (DoD) in Scrum, emphasising its role as an objective measure of quality, which aligns closely with engineering practices that enable agility, such as TDD and CI/CD.",
+    "level": "Secondary"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "ai_confidence": 92,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "Content heavily discusses the Definition of Done and its significance within the Scrum framework, including its relationship with Product and Sprint Goals.",
+    "level": "Secondary"
   }
 }

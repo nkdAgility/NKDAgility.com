@@ -238,5 +238,45 @@
     "final_score": 62.0,
     "reasoning": "Content primarily discusses the implications of using Blocked columns on Kanban boards, which directly affects the efficiency and effectiveness of product delivery processes.",
     "level": "Secondary"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "ai_confidence": 85,
+    "non_ai_confidence": 50,
+    "final_score": 74.0,
+    "reasoning": "Content primarily discusses the use of Kanban boards in Azure DevOps, focusing on workflow management and efficiency, which are central to DevOps practices.",
+    "level": "Secondary"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "ai_confidence": 85,
+    "non_ai_confidence": 20,
+    "final_score": 66.0,
+    "reasoning": "Content primarily discusses the use of Kanban boards in Azure DevOps, focusing on the implications of Blocked columns and their impact on workflow efficiency.",
+    "level": "Secondary"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "ai_confidence": 92,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "The content primarily discusses the implications of using Blocked columns on Kanban boards, focusing on how they affect workflow visibility, efficiency, and value delivery, which are central themes in Kanban methodology.",
+    "level": "Secondary"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the implications of using Blocked columns on Kanban boards, which relates to workflow management and efficiency, but it does not primarily focus on engineering practices like TDD, CI/CD, or modular architecture.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses Kanban boards and their effectiveness, with no clear focus on Scrum roles, events, or principles.",
+    "level": "Ignored"
   }
 }
