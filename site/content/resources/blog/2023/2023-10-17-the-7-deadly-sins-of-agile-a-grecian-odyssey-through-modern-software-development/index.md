@@ -37,8 +37,8 @@ tags:
 - Agile Software Development
 - Agile Software Engineering
 - Agile Transformation
+- Agile Values and Principles
 - Agility
-- Coaching
 - Organisational Culture
 - Scrum
 - Software Development

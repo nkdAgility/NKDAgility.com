@@ -22,7 +22,6 @@ tags:
 - Agile Software Development
 - Agile Software Engineering
 - Agility
-- Continuos Delivery
 - Continuous Delivery
 - Continuous Integration
 - Cycle Time
@@ -34,6 +33,7 @@ tags:
 - Software Development
 - Value Delivery
 - Value Stream Management
+- Working Software
 categories:
 - Code and Complexity
 - DevOps

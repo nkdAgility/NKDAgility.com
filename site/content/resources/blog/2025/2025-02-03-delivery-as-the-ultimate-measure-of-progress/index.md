@@ -31,19 +31,19 @@ tags:
 - Definition of Done
 - DevOps
 - Engineering Practices
+- Evidence Based Improvement
 - People and Process
 - Scrum
 - Scrum Product Development
 - Scrum Product Management
 - Scrum Team
 - Software Increment
-- Team Performance
 - Value Delivery
 - Working Software
 categories:
 - DevOps
+- Product Delivery
 - Scrum
-- Value Delivery
 preview: 2025-02-03-delivery-as-the-ultimate-measure-of-progress.jpg
 
 ---

@@ -22,25 +22,25 @@ aliasesFor404:
 - /without-delivery--there-is-no-value
 - /blog/without-delivery--there-is-no-value
 tags:
-- Agile Product Discovery
+- Agile Product Ownership
 - Agile Product Validation
 - Agile Software Development
 - Agile Software Engineering
 - Agile Values and Principles
 - Continuos Delivery
 - DevOps
+- Evidence Based Improvement
 - Evidence Based Leadership
-- Frequent Releases
+- Evidence Based Management
 - Scrum
 - Scrum Product Development
 - Transparency
 - Value Delivery
 - Value Prioritisation
-- Working Software
 categories:
 - DevOps
+- Product Delivery
 - Scrum
-- Value Delivery
 preview: 2025-02-10-without-delivery-no-value.jpg
 
 ---

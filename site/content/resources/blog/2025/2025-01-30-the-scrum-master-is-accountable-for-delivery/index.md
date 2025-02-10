@@ -29,6 +29,7 @@ aliasesFor404:
 tags:
 - Accountability
 - Agile Software Development
+- Agile Software Engineering
 - Coaching
 - Continuous Improvement
 - Flow Efficiency
@@ -39,9 +40,8 @@ tags:
 - Scrum Team
 - Software Development
 - Strategic
-- Team Collaboration
+- Technical Leadership
 - Value Delivery
-- Working Software
 categories:
 - Lean
 - Product Delivery

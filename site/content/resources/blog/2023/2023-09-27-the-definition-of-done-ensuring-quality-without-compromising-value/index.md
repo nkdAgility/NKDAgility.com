@@ -27,7 +27,21 @@ aliasesFor404:
 - /blog/the-definition-of-done--ensuring-quality-without-compromising-value
 - /resources/blog/the-definition-of-done-ensuring-quality-without-compromising-value
 tags:
+- Agile Methodology
+- Agile Software Engineering
+- Agility
+- Continuous Delivery
+- Definition of Done
+- Featured
+- Professional Scrum
+- Scrum
+- Scrum Product Development
+- Software Developers
+- Software Development
+- Software Increment
+- Transparency
 - Value Delivery
+- Working Software
 categories:
 - Product Delivery
 - Scrum

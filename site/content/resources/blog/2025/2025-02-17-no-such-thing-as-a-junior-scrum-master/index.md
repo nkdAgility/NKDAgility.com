@@ -23,11 +23,11 @@ aliasesFor404:
 tags:
 - Accountability
 - Agile Methodology
+- Agile Product Management
 - Agile Project Management
 - Agile Software Development
 - Agile Software Engineering
 - Agility
-- Business Agility
 - Organisational Agility
 - Professional Scrum
 - Scrum

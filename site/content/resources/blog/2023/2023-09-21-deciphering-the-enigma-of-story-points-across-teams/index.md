@@ -23,11 +23,25 @@ aliasesFor404:
 - /blog/deciphering-the-enigma-of-story-points-across-teams
 - /resources/blog/deciphering-the-enigma-of-story-points-across-teams
 tags:
-- Scaling Scrum
-categories:
-- Kanban
+- Agile Frameworks
+- Agile Planning
+- Agile Planning Tools
+- Agile Product Management
+- Agile Product Ownership
+- Agile Project Management
+- Agile Resource Management
+- Agile Software Development
+- Flow Efficiency
 - Scrum
-- Technical Excellence
+- Scrum Product Management
+- Software Development
+- Throughput
+- Value Delivery
+- Value Stream Management
+categories:
+- Agile Product Management
+- Scrum
+- Value Delivery
 preview: naked-agility-technically-flow-not-velocity-5-5.jpg
 
 ---

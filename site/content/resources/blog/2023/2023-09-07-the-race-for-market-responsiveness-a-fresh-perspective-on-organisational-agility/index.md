@@ -26,8 +26,26 @@ aliasesFor404:
 - /the-race-for-market-responsiveness--a-fresh-perspective-on-organisational-agility
 - /blog/the-race-for-market-responsiveness--a-fresh-perspective-on-organisational-agility
 - /resources/blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
-tags: []
-categories: []
+tags:
+- Ability to Innovate
+- Agile Strategy
+- Agility
+- Business Agility
+- Enterprise Agility
+- Featured
+- Large Scale Agility
+- Market Adaptability
+- Organisational Agility
+- Organisational Change
+- Organisational Culture
+- Organisational Transformational Mastery
+- Resilience and Change
+- Scaling Agility
+- Strategic
+categories:
+- Enterprise Agility
+- Market Adaptability
+- Organisational Agility
 preview: naked-agility-technically-survivalisoptional-1-1.jpg
 
 ---
