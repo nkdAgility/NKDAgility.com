@@ -40,7 +40,7 @@ tags:
 categories:
 - Organisational Agility
 - People and Process
-- Scaling Agility
+- Systems Thinking
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

@@ -1,12 +1,4 @@
 {
-  "Technical Excellence": {
-    "category": "Technical Excellence",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content primarily focuses on the integration of reporting and analysis services with Team Foundation Server 2013, detailing installation and configuration steps, which exemplifies technical excellence in software implementation.",
-    "level": "Secondary"
-  },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
     "ai_confidence": 0,
@@ -245,6 +237,46 @@
     "non_ai_confidence": 0,
     "final_score": 59.0,
     "reasoning": "Content primarily focuses on integrating reporting and analysis services with Team Foundation Server, detailing the steps necessary for installation and configuration, which are essential aspects of product delivery.",
+    "level": "Secondary"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 59.0,
+    "reasoning": "Content primarily focuses on integrating reporting and analysis services with Team Foundation Server, which is a key aspect of enabling continuous delivery and value to end users in a DevOps context.",
+    "level": "Secondary"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on integrating reporting and analysis services with Team Foundation Server 2013, with no clear discussion or emphasis on Kanban principles or practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on integrating reporting and analysis services with Team Foundation Server 2013, with no clear discussion of Scrum roles, events, or principles.",
+    "level": "Ignored"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "ai_confidence": 30,
+    "non_ai_confidence": 0,
+    "final_score": 21.0,
+    "reasoning": "The content primarily focuses on integrating reporting and analysis services with Team Foundation Server 2013, detailing installation and configuration steps. While it touches on aspects of system configuration that could relate to engineering practices, it does not centralise on TDD, CI/CD, modular architecture, or emergent design.",
+    "level": "Ignored"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "ai_confidence": 95,
+    "non_ai_confidence": 0,
+    "final_score": 66.0,
+    "reasoning": "Content primarily focuses on integrating reporting and analysis services with Team Foundation Server 2013, which is a key component of Azure DevOps. The detailed steps and configurations discussed are directly related to the use of Azure DevOps tools.",
     "level": "Secondary"
   }
 }

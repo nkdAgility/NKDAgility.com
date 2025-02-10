@@ -34,6 +34,6 @@ $resources | ForEach-Object {
     Write-InfoLog "--------------------------------------------------------"
     Write-InfoLog "Processing post: $(Resolve-Path -Path $resourceDir -Relative)"
 
-    Remove-ClassificationsFromCache -ClassificationsToRemove @("DevOps", "Azure DevOps", "Scrum", "Kanban") -CacheFolder $resourceDir -ClassificationType "categories"
+    Remove-ClassificationsFromCache -ClassificationsToRemove @("Technical Excellence") -CacheFolder $resourceDir -ClassificationType "categories"
 
 }

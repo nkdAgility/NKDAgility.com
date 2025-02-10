@@ -1,12 +1,4 @@
 {
-  "Technical Excellence": {
-    "category": "Technical Excellence",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content primarily focuses on reviewing a developer Ultrabook, discussing its specifications, performance, and suitability for development tasks, which aligns with technical excellence.",
-    "level": "Secondary"
-  },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
     "ai_confidence": 0,
@@ -245,6 +237,46 @@
     "non_ai_confidence": 0,
     "final_score": 35.0,
     "reasoning": "The content primarily focuses on reviewing a specific product, the Intel Haswell Harris Beach SDS Ultrabook, detailing its features and performance, which aligns with product delivery themes.",
+    "level": "Ignored"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on reviewing a developer Ultrabook and its specifications, with no significant discussion on DevOps practices, processes, or tools.",
+    "level": "Ignored"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on reviewing a developer Ultrabook and does not discuss Kanban principles or practices.",
+    "level": "Ignored"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on reviewing a specific hardware device, the Intel Haswell Harris Beach SDS Ultrabook, and does not discuss engineering practices such as TDD, CI/CD, modular architecture, or emergent design.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on reviewing a developer Ultrabook and does not discuss Scrum or related frameworks.",
+    "level": "Ignored"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on reviewing a developer Ultrabook and its specifications, with no significant mention of Azure DevOps or related tools.",
     "level": "Ignored"
   }
 }

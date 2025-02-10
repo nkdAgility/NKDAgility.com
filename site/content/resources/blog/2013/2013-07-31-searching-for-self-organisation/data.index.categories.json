@@ -1,12 +1,4 @@
 {
-  "Technical Excellence": {
-    "category": "Technical Excellence",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content discusses self-organisation in teams, which is a significant aspect of agile methodologies and team dynamics, but it also covers broader themes of organisational culture and management practices.",
-    "level": "Secondary"
-  },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
     "ai_confidence": 92,
@@ -245,6 +237,46 @@
     "non_ai_confidence": 10,
     "final_score": 38.0,
     "reasoning": "The content discusses self-organisation in teams, which is relevant to product delivery, but the primary focus is on the concept of self-organisation rather than directly on product delivery itself.",
+    "level": "Ignored"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses self-organisation within teams, which is a significant aspect of DevOps culture, but it primarily focuses on team dynamics and accountability rather than the broader DevOps practices and tools.",
+    "level": "Ignored"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "ai_confidence": 45,
+    "non_ai_confidence": 0,
+    "final_score": 31.0,
+    "reasoning": "The content discusses self-organisation and team dynamics, which are relevant to Kanban principles, but it primarily focuses on the concept of self-organisation rather than Kanban as a strategy for managing flow and improving value delivery.",
+    "level": "Ignored"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses self-organisation and team dynamics, which are relevant to agile practices, but the primary focus is on the concept of self-organisation rather than specific engineering practices like TDD, CI/CD, or modular architecture.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "ai_confidence": 80,
+    "non_ai_confidence": 30,
+    "final_score": 65.0,
+    "reasoning": "Content primarily discusses the concept of self-organisation, which is a key principle in the Scrum framework, and explores its importance for team dynamics and accountability.",
+    "level": "Secondary"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "ai_confidence": 30,
+    "non_ai_confidence": 0,
+    "final_score": 21.0,
+    "reasoning": "The content discusses self-organisation and team dynamics but does not specifically address Azure DevOps or its tools and methodologies.",
     "level": "Ignored"
   }
 }

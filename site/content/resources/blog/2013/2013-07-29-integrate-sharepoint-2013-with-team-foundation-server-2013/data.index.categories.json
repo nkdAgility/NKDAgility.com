@@ -1,12 +1,4 @@
 {
-  "Technical Excellence": {
-    "category": "Technical Excellence",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on the technical integration of SharePoint 2013 with Team Foundation Server 2013, detailing installation, configuration, and best practices.",
-    "level": "Secondary"
-  },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
     "ai_confidence": 50,
@@ -245,6 +237,46 @@
     "non_ai_confidence": 10,
     "final_score": 62.0,
     "reasoning": "Content primarily focuses on the integration process of SharePoint with Team Foundation Server, which is essential for product delivery in software development environments.",
+    "level": "Secondary"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 59.0,
+    "reasoning": "Content primarily focuses on integrating SharePoint with Team Foundation Server, which is a key aspect of DevOps practices, enabling continuous delivery and collaboration.",
+    "level": "Secondary"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the integration of SharePoint 2013 with Team Foundation Server 2013, focusing on installation and configuration steps, without any mention of Kanban principles or practices.",
+    "level": "Ignored"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "ai_confidence": 45,
+    "non_ai_confidence": 0,
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on integrating SharePoint with Team Foundation Server, with some mentions of configuration and setup processes. While it touches on aspects of engineering practices, such as configuration management, it does not centralise on TDD, CI/CD, modular architecture, or emergent design.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "ai_confidence": 50,
+    "non_ai_confidence": 50,
+    "final_score": 50.0,
+    "reasoning": "The content mentions Scrum in the context of configuring SharePoint for Team Foundation Server, indicating that Scrum is a significant but secondary theme.",
+    "level": "Secondary"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "ai_confidence": 92,
+    "non_ai_confidence": 0,
+    "final_score": 64.0,
+    "reasoning": "Content primarily focuses on integrating SharePoint 2013 with Team Foundation Server 2013, which is a key aspect of Azure DevOps functionalities.",
     "level": "Secondary"
   }
 }

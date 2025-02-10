@@ -1,12 +1,4 @@
 {
-  "Technical Excellence": {
-    "category": "Technical Excellence",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content primarily focuses on quality enablement and its critical role in achieving predictable software delivery, discussing specific practices and measures to enhance quality in development processes.",
-    "level": "Secondary"
-  },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
     "ai_confidence": 80,
@@ -245,6 +237,14 @@
     "non_ai_confidence": 20,
     "final_score": 70.0,
     "reasoning": "Content heavily discusses the importance of quality enablement in achieving predictable software delivery, outlining specific practices and criteria that directly impact the delivery process.",
+    "level": "Secondary"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "ai_confidence": 92,
+    "non_ai_confidence": 0,
+    "final_score": 64.0,
+    "reasoning": "Content primarily focuses on quality enablement and its critical role in achieving predictable software delivery, which aligns closely with DevOps principles of continuous delivery and collaboration between teams.",
     "level": "Secondary"
   }
 }

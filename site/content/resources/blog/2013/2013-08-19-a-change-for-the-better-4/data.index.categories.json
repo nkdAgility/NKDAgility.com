@@ -1,12 +1,4 @@
 {
-  "Technical Excellence": {
-    "category": "Technical Excellence",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the author's professional experiences and plans related to Agile practices, ALM consulting, and coaching, which are central to the theme of technical excellence.",
-    "level": "Secondary"
-  },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
     "ai_confidence": 85,
@@ -245,6 +237,46 @@
     "non_ai_confidence": 0,
     "final_score": 56.0,
     "reasoning": "Content primarily discusses the author's transition to consulting work focused on Agile practices and Application Lifecycle Management, which are central to product delivery.",
+    "level": "Secondary"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "ai_confidence": 75,
+    "non_ai_confidence": 0,
+    "final_score": 52.0,
+    "reasoning": "The content discusses Agile adoption, Application Lifecycle Management (ALM), and consulting services aimed at improving processes, which are significant aspects of DevOps.",
+    "level": "Secondary"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses Agile practices and techniques, which are related to Kanban, but the primary focus is on personal experiences and consulting work rather than Kanban specifically.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "ai_confidence": 80,
+    "non_ai_confidence": 50,
+    "final_score": 71.0,
+    "reasoning": "Content discusses Scrum and Agile training as part of consulting services, indicating a primary focus on Scrum practices.",
+    "level": "Secondary"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "ai_confidence": 75,
+    "non_ai_confidence": 0,
+    "final_score": 52.0,
+    "reasoning": "The content discusses Application Lifecycle Management (ALM) and mentions Visual Studio ALM, which are closely related to Azure DevOps, making it a major theme in the context of consulting and coaching.",
+    "level": "Secondary"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "ai_confidence": 75,
+    "non_ai_confidence": 0,
+    "final_score": 52.0,
+    "reasoning": "The content discusses Agile adoption, coaching, and Application Lifecycle Management (ALM) practices, which are significant themes, but the primary focus is on personal circumstances and future plans rather than technical practices themselves.",
     "level": "Secondary"
   }
 }
