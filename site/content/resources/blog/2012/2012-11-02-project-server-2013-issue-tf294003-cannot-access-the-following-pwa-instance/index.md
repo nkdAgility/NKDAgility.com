@@ -27,8 +27,25 @@ aliasesFor404:
 - /blog/project-server-2013-issue---tf294003--cannot-access-the-following-pwa-instance
 - /project-server-2013-issue
 - /resources/blog/project-server-2013-issue-tf294003-cannot-access-the-following-pwa-instance
-tags: []
-categories: []
+tags:
+- Application Lifecycle Management
+- Azure DevOps
+- DevOps
+- Engineering Practices
+- Modern Source Control
+- Operational Practices
+- Pragmatic Thinking
+- Software Developers
+- Software Development
+- System Configuration
+- Technical Excellence
+- Technical Mastery
+- Troubleshooting
+- Working Software
+categories:
+- Application Lifecycle Management
+- Install and Configuration
+- Practical Techniques and Tooling
 preview: metro-problem-icon-6-6.png
 
 ---

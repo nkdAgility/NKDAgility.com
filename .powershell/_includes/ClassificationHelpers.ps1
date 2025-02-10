@@ -129,9 +129,11 @@ do not wrap the json in anything else, just return the json object.
 
     Write-Progress -Id 2 -Activity "All Tasks Complete" -Completed
 
-    $sortedCategories = $categoryScores.Values | Where-Object { $_.Level -ne "Ignored" } | Sort-Object final_score -Descending | Select-Object -First $MaxCategories
-
-    return $sortedCategories | ConvertTo-Json -Depth 1
+    $finalSelection = $categoryScores.Values | Where-Object { $_.Level -eq "Primary" } | Sort-Object final_score -Descending | Select-Object -First $MaxCategories
+    if ($finalSelection.Count -eq 0) {
+        $finalSelection = $categoryScores.Values | Where-Object { $_.Level -eq "Secondary" } | Sort-Object final_score -Descending | Select-Object -First 1
+    }
+    return $finalSelection | ConvertTo-Json -Depth 1
 }
 
 function Get-BatchCategoryConfidenceWithChecksum {
@@ -253,8 +255,11 @@ function Get-BatchCategoryConfidenceWithChecksum {
                 }
             }        
 
-
-            return ($categoryScores.Values | Where-Object { $_.Level -ne "Ignored" } | Sort-Object final_score -Descending | Select-Object -First $MaxCategories) | ConvertTo-Json -Depth 1
+            $finalSelection = $categoryScores.Values | Where-Object { $_.Level -eq "Primary" } | Sort-Object final_score -Descending | Select-Object -First $MaxCategories
+            if ($finalSelection.Count -eq 0) {
+                $finalSelection = $categoryScores.Values | Where-Object { $_.Level -eq "Secondary" } | Sort-Object final_score -Descending | Select-Object -First 1
+            }
+            return $finalSelection | ConvertTo-Json -Depth 1
         }
         catch {
             Write-Debug "Warning: Cache file corrupted. Resetting cache."

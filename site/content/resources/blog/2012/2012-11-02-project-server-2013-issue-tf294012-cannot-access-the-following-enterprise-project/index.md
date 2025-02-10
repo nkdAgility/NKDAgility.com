@@ -27,8 +27,23 @@ aliasesFor404:
 - /blog/project-server-2013-issue---tf294012--cannot-access-the-following-enterprise-project
 - /project-server-2013-issue
 - /resources/blog/project-server-2013-issue-tf294012-cannot-access-the-following-enterprise-project
-tags: []
-categories: []
+tags:
+- Application Lifecycle Management
+- Change Management
+- Operational Practices
+- Pragmatic Thinking
+- Software Developers
+- Software Development
+- System Configuration
+- Technical Excellence
+- Technical Mastery
+- Troubleshooting
+- Windows
+- Working Software
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Technical Excellence
 preview: metro-problem-icon-8-8.png
 
 ---

@@ -21,8 +21,26 @@ aliasesFor404:
 - /integrating-project-server-2013-with-team-foundation-server-2012
 - /blog/integrating-project-server-2013-with-team-foundation-server-2012
 - /resources/blog/integrating-project-server-2013-with-team-foundation-server-2012
-tags: []
-categories: []
+tags:
+- Application Lifecycle Management
+- CI/CD
+- Deployment Strategies
+- DevOps
+- Engineering Practices
+- Enterprise Agility
+- Operational Practices
+- Portfolio Management
+- Software Developers
+- Software Development
+- System Configuration
+- Technical Mastery
+- Technical Strategy
+- Value Delivery
+- Windows
+categories:
+- Application Lifecycle Management
+- Install and Configuration
+- Practical Techniques and Tooling
 preview: metro-sharepoint-128-link-23-23.png
 
 ---
