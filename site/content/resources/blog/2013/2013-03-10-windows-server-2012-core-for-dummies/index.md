@@ -21,8 +21,20 @@ aliasesFor404:
 - /windows-server-2012-core-for-dummies
 - /blog/windows-server-2012-core-for-dummies
 - /resources/blog/windows-server-2012-core-for-dummies
-tags: []
-categories: []
+tags:
+- Definition of Done
+- Engineering Practices
+- Operational Practices
+- Pragmatic Thinking
+- System Configuration
+- Technical Excellence
+- Technical Mastery
+- Troubleshooting
+- Windows
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Technical Excellence
 preview: metro-server-instances-7-7.png
 
 ---

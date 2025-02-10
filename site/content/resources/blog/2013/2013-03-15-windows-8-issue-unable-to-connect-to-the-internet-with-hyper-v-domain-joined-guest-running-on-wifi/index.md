@@ -25,8 +25,20 @@ aliasesFor404:
 - /windows-8-issue--unable-to-connect-to-the-internet-with-hyper-v-domain-joined-guest-running-on-wifi
 - /blog/windows-8-issue--unable-to-connect-to-the-internet-with-hyper-v-domain-joined-guest-running-on-wifi
 - /resources/blog/windows-8-issue-unable-to-connect-to-the-internet-with-hyper-v-domain-joined-guest-running-on-wifi
-tags: []
-categories: []
+tags:
+- Engineering Practices
+- Operational Practices
+- Pragmatic Thinking
+- Software Developers
+- System Configuration
+- Technical Excellence
+- Technical Mastery
+- Troubleshooting
+- Windows
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Technical Excellence
 preview: puzzle-issue-problem-128-link-5-5.png
 
 ---

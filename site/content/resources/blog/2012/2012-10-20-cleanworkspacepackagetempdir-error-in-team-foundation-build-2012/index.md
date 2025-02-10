@@ -28,7 +28,10 @@ aliasesFor404:
 - /team-foundation-build-2012-issue
 - /resources/blog/cleanworkspacepackagetempdir-error-in-team-foundation-build-2012
 tags: []
-categories: []
+categories:
+- Code and Complexity
+- Install and Configuration
+- Practical Techniques and Tooling
 preview: metro-problem-icon-6-6.png
 
 ---

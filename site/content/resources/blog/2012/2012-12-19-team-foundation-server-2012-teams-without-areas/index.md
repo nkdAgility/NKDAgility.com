@@ -25,7 +25,22 @@ aliasesFor404:
 - /teams-without-areas-using-a-team-field-in-tfs
 - /blog/teams-without-areas-using-a-team-field-in-tfs
 - /resources/blog/team-foundation-server-2012-teams-without-areas
-tags: []
+tags:
+- Azure Boards
+- Azure DevOps
+- Continuos Delivery
+- Continuous Delivery
+- Decision Making
+- Operational Practices
+- People and Process
+- Product Backlog
+- Scrum
+- Software Developers
+- Software Development
+- System Configuration
+- Team Collaboration
+- Team Performance
+- Technical Mastery
 categories: []
 preview: nakedalm-experts-visual-studio-alm-16-16.png
 

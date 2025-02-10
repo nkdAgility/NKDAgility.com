@@ -271,6 +271,45 @@ function Submit-And-Wait-OpenAIBatch {
     return Retrieve-OpenAIBatchResults -ApiKey $OPEN_AI_KEY -BatchId $BatchId -OutputFile $OutputFile
 }
 
+function Get-OpenAIEnqueuedTokens {
+    param (
+        [string]$OPEN_AI_KEY = $env:OPENAI_API_KEY
+    )
+
+    $headers = @{
+        "Authorization" = "Bearer $OPEN_AI_KEY"
+        "Content-Type"  = "application/json"
+    }
+
+    # Get the list of all batches
+    $batchesResponse = Invoke-RestMethod -Uri "https://api.openai.com/v1/batches" -Headers $headers -Method Get
+
+    if (-not $batchesResponse.data) {
+        Write-DebugLog "No active batches found."
+        return 0
+    }
+
+    $totalTokens = 0
+
+    # Loop through each batch and retrieve details
+    foreach ($batch in $batchesResponse.data) {
+        Write-DebugLog "Batch ID: $batchId | Status: $($batchDetails.status) | Batch tokens: $($batchDetails.total_tokens)"
+        Write-VerboseLog "Batch details: {batchDetails}" -PropertyValues $($batchDetails | ConvertTo-Json -Depth 10)
+        $batchId = $batch.id
+        $batchDetails = Invoke-RestMethod -Uri "https://api.openai.com/v1/batches/$batchId" -Headers $headers -Method Get
+
+        if ($batchDetails.status -eq "in_progress" -or $batchDetails.status -eq "queued") {
+            if ($batchDetails.total_tokens) {
+                $totalTokens += $batchDetails.total_tokens
+            }
+        }
+    }
+
+    Write-DebugLog "Total enqueued tokens: $totalTokens"
+    return $totalTokens
+}
+
+
 
 
 Write-InfoLog "OpenAI.ps1 loaded" 

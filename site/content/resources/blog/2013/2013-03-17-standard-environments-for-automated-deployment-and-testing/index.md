@@ -21,8 +21,26 @@ aliasesFor404:
 - /standard-environments-for-automated-deployment-and-testing
 - /blog/standard-environments-for-automated-deployment-and-testing
 - /resources/blog/standard-environments-for-automated-deployment-and-testing
-tags: []
-categories: []
+tags:
+- Application Lifecycle Management
+- Automated Testing
+- Continuos Delivery
+- Continuous Delivery
+- Continuous Integration
+- Deployment Strategies
+- DevOps
+- Engineering Excellence
+- Operational Practices
+- Software Developers
+- Software Development
+- System Configuration
+- Test Automation
+- Windows
+- Working Software
+categories:
+- Application Lifecycle Management
+- DevOps
+- Product Delivery
 preview: nakedalm-experts-visual-studio-alm-17-17.png
 
 ---

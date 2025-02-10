@@ -232,7 +232,6 @@ function Get-BatchCategoryConfidenceWithChecksum {
                 Write-ErrorLog "Batch failed. Please try again."
                 Remove-Item $batchFile -Force
                 Remove-Item $batchJsonlInput -Force
-                Remove-Item $batchJsonlOutout -Force
                 return @()
             }
             default {
@@ -298,7 +297,7 @@ do not wrap the json in anything else, just return the json object.
         $categoryMap[$prompts.Count - 1] = $category
     }
 
-    if ($prompts.Count -gt 0) {
+    if (($prompts.Count -gt 0) -and (Get-OpenAIEnqueuedTokens -lt 15000000)) {
         # Submit batch and save batch ID
         $batchId = Submit-OpenAIBatch -Prompts $prompts -OutputFile $batchJsonlInput
         $batchId | Set-Content -Path $batchFile -Force

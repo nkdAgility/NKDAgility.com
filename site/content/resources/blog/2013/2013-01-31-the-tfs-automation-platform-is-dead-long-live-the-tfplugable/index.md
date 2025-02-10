@@ -30,7 +30,10 @@ aliasesFor404:
 - /blog/the-tfs-automation-platform-is-dead--long-live-the-tfplugable
 - /resources/blog/the-tfs-automation-platform-is-dead-long-live-the-tfplugable
 tags: []
-categories: []
+categories:
+- Code and Complexity
+- Practical Techniques and Tooling
+- Product Delivery
 preview: nakedalm-logo-128-link-3-3.png
 
 ---

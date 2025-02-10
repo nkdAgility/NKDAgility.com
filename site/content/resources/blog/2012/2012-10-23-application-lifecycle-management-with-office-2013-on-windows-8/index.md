@@ -21,7 +21,21 @@ aliasesFor404:
 - /application-lifecycle-management-with-office-2013-on-windows-8
 - /blog/application-lifecycle-management-with-office-2013-on-windows-8
 - /resources/blog/application-lifecycle-management-with-office-2013-on-windows-8
-tags: []
+tags:
+- Agile Digital Tools
+- Agile Planning Tools
+- Application Lifecycle Management
+- Collaboration Tools
+- Data Driven Decisions
+- Operational Practices
+- Pragmatic Thinking
+- Software Development
+- Technical Excellence
+- Technical Mastery
+- Technical Strategy
+- Value Delivery
+- Windows
+- Working Software
 categories: []
 preview: metro-office-128-link-5-5.png
 

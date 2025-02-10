@@ -21,7 +21,22 @@ aliasesFor404:
 - /improvements-in-visual-studio-alm-from-the-alm-summit
 - /blog/improvements-in-visual-studio-alm-from-the-alm-summit
 - /resources/blog/improvements-in-visual-studio-alm-from-the-alm-summit
-tags: []
+tags:
+- Ability to Innovate
+- Application Lifecycle Management
+- Automated Testing
+- Azure DevOps
+- Continuous Delivery
+- Continuous Improvement
+- Engineering Excellence
+- Engineering Practices
+- Kanban
+- Kanban Process
+- Modern Source Control
+- Software Developers
+- Software Development
+- Technical Excellence
+- Working Software
 categories: []
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
