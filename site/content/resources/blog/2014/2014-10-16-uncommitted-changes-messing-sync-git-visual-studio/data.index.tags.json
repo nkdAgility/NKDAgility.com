@@ -247,14 +247,6 @@
     "reasoning": "The content primarily discusses issues related to version control systems, specifically Git and its workflow, without any mention of Scrum roles, events, or practices.",
     "level": "Ignored"
   },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the challenges and workflows associated with using Git in a DevOps context, particularly in relation to version control systems.",
-    "level": "Secondary"
-  },
   "Employee Engagement": {
     "category": "Employee Engagement",
     "ai_confidence": 0,
@@ -374,14 +366,6 @@
     "final_score": 52.0,
     "reasoning": "Content discusses the transition from StarTeam to Git, highlighting the challenges and workflow differences, indicating a significant focus on organisational change in the context of version control systems.",
     "level": "Secondary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to version control systems, specifically Git, and does not mention Scrum or its practices.",
-    "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -703,14 +687,6 @@
     "reasoning": "The content primarily discusses issues related to uncommitted changes in Git and the differences between server-based and distributed version control systems, with no mention of the Definition of Ready.",
     "level": "Ignored"
   },
-  "Agility": {
-    "category": "Agility",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily discusses the challenges of transitioning from a server-based version control system to a distributed version control system, with a focus on Git's workflow and conflict resolution, rather than agility as a central theme.",
-    "level": "Ignored"
-  },
   "Product Backlog": {
     "category": "Product Backlog",
     "ai_confidence": 0,
@@ -725,14 +701,6 @@
     "non_ai_confidence": 10,
     "final_score": 24.0,
     "reasoning": "The content primarily discusses issues related to version control systems and workflows, with only a brief mention of the benefits of moving to a Distributed Version Control System (DVCS) over a Server Version Control System (SVCS).",
-    "level": "Ignored"
-  },
-  "Continuous Improvement": {
-    "category": "Continuous Improvement",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the transition from server-based version control to distributed version control, highlighting improvements in workflow and conflict resolution, but it primarily focuses on the technical challenges rather than continuous improvement as a central theme.",
     "level": "Ignored"
   },
   "Scrum Master": {
@@ -805,14 +773,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to version control systems and Git, with no mention of Scrum or product management.",
-    "level": "Ignored"
-  },
-  "Featured": {
-    "category": "Featured",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to uncommitted changes in Git and the transition from StarTeam to Git, rather than focusing on a featured topic.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -909,14 +869,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses issues related to version control systems, specifically Git, and the challenges of migrating from StarTeam to Git. Site Reliability Engineering is not a central theme.",
-    "level": "Ignored"
-  },
-  "Business Agility": {
-    "category": "Business Agility",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily discusses technical challenges and workflows related to version control systems, with only a minor mention of the benefits of moving to a distributed system, which does not align closely with the concept of Business Agility.",
     "level": "Ignored"
   },
   "Professional Scrum": {

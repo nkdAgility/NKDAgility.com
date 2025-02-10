@@ -247,14 +247,6 @@
     "reasoning": "The content briefly mentions Scrum in the context of Visual Studio and ALM but does not focus primarily on Scrum teams or their dynamics.",
     "level": "Ignored"
   },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses Application Lifecycle Management (ALM) and its relevance to software development processes, which aligns closely with DevOps principles.",
-    "level": "Secondary"
-  },
   "Employee Engagement": {
     "category": "Employee Engagement",
     "ai_confidence": 0,
@@ -374,14 +366,6 @@
     "final_score": 0.0,
     "reasoning": "The content primarily focuses on the publication of a book about Application Lifecycle Management with Visual Studio 2013, discussing its features and updates rather than organisational change.",
     "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions Scrum in the context of Visual Studio and Agile methodologies, but it is primarily focused on Application Lifecycle Management and the book's production rather than Scrum itself.",
-    "level": "Secondary"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -703,14 +687,6 @@
     "reasoning": "The content primarily discusses the publication and features of a book on Application Lifecycle Management, with no clear focus on the Definition of Ready.",
     "level": "Ignored"
   },
-  "Agility": {
-    "category": "Agility",
-    "ai_confidence": 65,
-    "non_ai_confidence": 50,
-    "final_score": 60.0,
-    "reasoning": "The content discusses Agile methodologies in the context of Application Lifecycle Management, indicating that agility is a significant theme, but it is not the primary focus of the overall content.",
-    "level": "Secondary"
-  },
   "Product Backlog": {
     "category": "Product Backlog",
     "ai_confidence": 0,
@@ -725,14 +701,6 @@
     "non_ai_confidence": 10,
     "final_score": 38.0,
     "reasoning": "The content discusses new features and capabilities in Visual Studio 2013 that enhance software development processes, indicating a focus on innovation in application lifecycle management, but it is primarily about the book and its authors.",
-    "level": "Ignored"
-  },
-  "Continuous Improvement": {
-    "category": "Continuous Improvement",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses updates and improvements in Application Lifecycle Management, but the primary focus is on the book's release and features rather than continuous improvement as a central theme.",
     "level": "Ignored"
   },
   "Scrum Master": {
@@ -806,14 +774,6 @@
     "final_score": 44.0,
     "reasoning": "The content briefly mentions Scrum in the context of Visual Studio and Agile methodologies, but it primarily focuses on Application Lifecycle Management and the book's production.",
     "level": "Ignored"
-  },
-  "Featured": {
-    "category": "Featured",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "The content primarily focuses on the book 'Professional Application Lifecycle Management with Visual Studio 2013', detailing its features, authors, and the effort involved in its production, making it a central topic.",
-    "level": "Secondary"
   },
   "Sensemaking": {
     "category": "Sensemaking",
@@ -909,14 +869,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses Application Lifecycle Management and Visual Studio 2013, with no clear focus on Site Reliability Engineering.",
-    "level": "Ignored"
-  },
-  "Business Agility": {
-    "category": "Business Agility",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses Agile methodologies and the importance of agility in software development, but it primarily focuses on the book's production and features of Visual Studio 2013.",
     "level": "Ignored"
   },
   "Professional Scrum": {

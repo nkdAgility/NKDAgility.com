@@ -247,14 +247,6 @@
     "reasoning": "The content primarily discusses technical issues related to TFS (Team Foundation Server) and its administration tools, with no mention of Scrum teams or related methodologies.",
     "level": "Ignored"
   },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content primarily discusses issues and solutions related to software version management and migration between different versions of Team Foundation Server (TFS) and Visual Studio Online (VSO), which are integral to DevOps practices. The focus on troubleshooting deployment tools and upgrading server versions to maintain compatibility aligns closely with DevOps methodologies.",
-    "level": "Secondary"
-  },
   "Employee Engagement": {
     "category": "Employee Engagement",
     "ai_confidence": 0,
@@ -373,14 +365,6 @@
     "non_ai_confidence": 10,
     "final_score": 3.0,
     "reasoning": "The content primarily focuses on technical troubleshooting and software version compatibility issues related to TFS and WITADMIN. It does not discuss organisational change as a central theme.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical issues related to TFS (Team Foundation Server) and its administration tools, specifically WITADMIN. There is no mention or discussion of Scrum methodologies, roles, events, or practices.",
     "level": "Ignored"
   },
   "Product Owner": {
@@ -703,14 +687,6 @@
     "reasoning": "The content primarily discusses issues related to TFS versions and WITADMIN commands, with no clear focus on the Definition of Ready.",
     "level": "Ignored"
   },
-  "Agility": {
-    "category": "Agility",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical issues related to TFS and WITADMIN, with no clear focus on agility principles or practices.",
-    "level": "Ignored"
-  },
   "Product Backlog": {
     "category": "Product Backlog",
     "ai_confidence": 0,
@@ -726,14 +702,6 @@
     "final_score": 3.0,
     "reasoning": "The content primarily discusses troubleshooting and compatibility issues related to TFS and WITADMIN, with no clear focus on innovation.",
     "level": "Ignored"
-  },
-  "Continuous Improvement": {
-    "category": "Continuous Improvement",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content discusses the importance of keeping software updated for compatibility, which aligns with continuous improvement principles, but the primary focus is on troubleshooting a specific issue rather than a broader continuous improvement strategy.",
-    "level": "Secondary"
   },
   "Scrum Master": {
     "category": "Scrum Master",
@@ -805,14 +773,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses technical issues related to TFS and WITADMIN, with no clear focus on Scrum or product management principles.",
-    "level": "Ignored"
-  },
-  "Featured": {
-    "category": "Featured",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a technical issue related to TFS and WITADMIN, with no clear focus on the category 'Featured'.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -909,14 +869,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses issues related to TFS (Team Foundation Server) and WITADMIN commands, which are not central to Site Reliability Engineering.",
-    "level": "Ignored"
-  },
-  "Business Agility": {
-    "category": "Business Agility",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical issues related to TFS and WITADMIN, with no clear focus on business agility principles or practices.",
     "level": "Ignored"
   },
   "Professional Scrum": {

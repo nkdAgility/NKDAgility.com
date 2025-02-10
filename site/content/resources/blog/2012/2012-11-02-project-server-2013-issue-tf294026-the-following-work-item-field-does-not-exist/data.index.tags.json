@@ -351,14 +351,6 @@
     "reasoning": "The content primarily discusses a technical issue related to Project Server 2013 and Team Foundation Server 2012, with no focus on customer retention strategies or themes.",
     "level": "Ignored"
   },
-  "Continuous Improvement": {
-    "category": "Continuous Improvement",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses necessary updates to work item fields in the context of Scrum, indicating a focus on improving the integration and functionality of Project Server with Team Foundation Server, but it is primarily about resolving a specific error.",
-    "level": "Ignored"
-  },
   "Troubleshooting": {
     "category": "Troubleshooting",
     "ai_confidence": 92,
@@ -389,14 +381,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses issues related to Project Server 2013 and Team Foundation Server 2012, with a focus on work item fields and Scrum process templates, which are not central to Site Reliability Engineering.",
-    "level": "Ignored"
-  },
-  "Featured": {
-    "category": "Featured",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses a specific issue related to Project Server 2013 and Team Foundation Server, with a significant focus on the Scrum Process Template, making Scrum a major but secondary theme.",
     "level": "Ignored"
   },
   "Product Owner": {
@@ -438,14 +422,6 @@
     "final_score": 56.0,
     "reasoning": "Content primarily focuses on the integration and configuration of Project Server with Team Foundation Server, detailing operational requirements and solutions related to work item fields.",
     "level": "Secondary"
-  },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 65,
-    "non_ai_confidence": 0,
-    "final_score": 46.0,
-    "reasoning": "Content discusses integration issues between Project Server and Team Foundation Server, which are relevant to DevOps practices, but the primary focus is on specific error resolution rather than broader DevOps concepts.",
-    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -687,14 +663,6 @@
     "reasoning": "The content primarily discusses a technical issue related to Project Server 2013 and Team Foundation Server 2012, with no clear focus on mentoring.",
     "level": "Ignored"
   },
-  "Agility": {
-    "category": "Agility",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "Content discusses the integration of Project Server with Team Foundation Server in the context of Scrum, highlighting the need for specific work item fields relevant to Scrum processes.",
-    "level": "Secondary"
-  },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
     "ai_confidence": 0,
@@ -815,14 +783,6 @@
     "reasoning": "Content primarily addresses issues related to Project Server and Team Foundation Server integration, specifically within the context of software development processes and Scrum methodology.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 71.0,
-    "reasoning": "Content primarily discusses the integration of Project Server with Team Foundation Server, specifically in the context of the Visual Studio Scrum Process Template and its requirements.",
-    "level": "Secondary"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "ai_confidence": 0,
@@ -886,14 +846,6 @@
     "final_score": 56.0,
     "reasoning": "The content discusses the integration of Project Server with Team Foundation Server in the context of Scrum, highlighting specific requirements and modifications related to Scrum process templates.",
     "level": "Secondary"
-  },
-  "Business Agility": {
-    "category": "Business Agility",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the integration of Project Server with Team Foundation Server and mentions Scrum, indicating a focus on project management practices, but it is primarily about resolving a specific technical issue rather than business agility as a central theme.",
-    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",

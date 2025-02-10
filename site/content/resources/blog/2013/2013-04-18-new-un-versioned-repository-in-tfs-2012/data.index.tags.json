@@ -1,12 +1,4 @@
 {
-  "Featured": {
-    "category": "Featured",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the functionality and benefits of the un-versioned repository in TFS 2012, with no clear emphasis on being 'featured'.",
-    "level": "Ignored"
-  },
   "Market Adaptability": {
     "category": "Market Adaptability",
     "ai_confidence": 40,
@@ -197,14 +189,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses features and functionalities related to an un-versioned repository in TFS, focusing on the storage and management of build drops rather than deployment frequency.",
-    "level": "Ignored"
-  },
-  "Business Agility": {
-    "category": "Business Agility",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily focused on the technical aspects of un-versioned repositories in TFS 2012, with no clear discussion or connection to the concept of business agility.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -471,14 +455,6 @@
     "reasoning": "Content primarily focuses on technical details about un-versioned repositories in TFS 2012, with no relevant discussions on mentoring.",
     "level": "Ignored"
   },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "The content primarily focuses on the use of an un-versioned repository in TFS 2012, a tool commonly used in DevOps workflows, specifically around build and release processes. The discussion of version control, build definitions, and file management directly relates to DevOps practices.",
-    "level": "Secondary"
-  },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
     "ai_confidence": 30,
@@ -575,14 +551,6 @@
     "reasoning": "The content discusses the management of build outputs and repositories within TFS 2012, which is related to aspects of continuous delivery, but mainly focuses on version control without a strong emphasis on the broader continuous delivery practices.",
     "level": "Ignored"
   },
-  "Continuous Improvement": {
-    "category": "Continuous Improvement",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the introduction of an un-versioned repository in TFS 2012 and the benefits of organizing build drops more effectively, which relates to improving processes, but the primary focus is on the technical details of TFS rather than continuous improvement as a core topic.",
-    "level": "Ignored"
-  },
   "BetaCodex": {
     "category": "BetaCodex",
     "ai_confidence": 0,
@@ -669,14 +637,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content is entirely focused on the use of un-versioned repositories in TFS 2012 and does not relate to Kanban principles or scaling. There is no mention of Kanban elements or discussions relevant to scaling Kanban.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on using an un-versioned repository in TFS 2012 and does not mention Scrum or its concepts.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -917,14 +877,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses features and functionalities of an un-versioned repository in TFS 2012, with no focus on lead time.",
-    "level": "Ignored"
-  },
-  "Agility": {
-    "category": "Agility",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily discusses new features and functionalities of TFS 2012 regarding repository management and does not focus on agility as a central theme.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {

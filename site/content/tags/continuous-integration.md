@@ -1,7 +1,5 @@
 ---
 title: Continuous Integration
-description: Automating code integration to ensure teams can deliver working software daily.
-Instructions: Please ensure that the category/tag of 'Continuous Integration' is only applied to content specifically related to automating code integration to ensure teams can deliver working software daily.
-
+description: Ensure fast, reliable development with Continuous Integration (CI). Merge code frequently, detect errors early, and maintain a healthy codebase.
+Instructions: Use this category only for discussions on Continuous Integration (CI), defined as a software development practice where each member of a team merges their changes into a codebase together with their colleagues' changes at least daily. Each of these integrations is verified by an automated build (including tests) to detect integration errors as quickly as possible. Topics should focus on reducing integration risks, automating builds and tests, improving code quality, and enabling rapid feature development.
 ---
-

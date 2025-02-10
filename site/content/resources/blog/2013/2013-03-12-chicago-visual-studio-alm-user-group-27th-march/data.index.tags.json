@@ -351,14 +351,6 @@
     "reasoning": "The content primarily discusses a user group meeting and features of Visual Studio, with only a brief mention of a customer engagement in Chicago.",
     "level": "Ignored"
   },
-  "Continuous Improvement": {
-    "category": "Continuous Improvement",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses new features in Visual Studio that enhance work item tracking and team management, which are related to continuous improvement in software development practices.",
-    "level": "Ignored"
-  },
   "Troubleshooting": {
     "category": "Troubleshooting",
     "ai_confidence": 0,
@@ -390,14 +382,6 @@
     "final_score": 0.0,
     "reasoning": "The content primarily discusses a user group meeting focused on Visual Studio ALM features, with no clear emphasis on Site Reliability Engineering.",
     "level": "Ignored"
-  },
-  "Featured": {
-    "category": "Featured",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily focuses on the upcoming Visual Studio ALM User Group event, detailing the topics to be discussed and the speakers involved.",
-    "level": "Secondary"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -437,14 +421,6 @@
     "non_ai_confidence": 0,
     "final_score": 35.0,
     "reasoning": "The content discusses features related to work item tracking and team management in Visual Studio, which are relevant to operational practices, but the primary focus is on the event and demonstration rather than operational practices themselves.",
-    "level": "Ignored"
-  },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses features related to Visual Studio and Agile methodologies, which are relevant to DevOps practices, but the primary focus is on a user group event rather than DevOps itself.",
     "level": "Ignored"
   },
   "Complexity Thinking": {
@@ -687,14 +663,6 @@
     "reasoning": "The content primarily discusses a demonstration at a user group meeting, focusing on Visual Studio features, rather than mentoring.",
     "level": "Ignored"
   },
-  "Agility": {
-    "category": "Agility",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses Kanban Columns and Work Item Tags, which are key components of Agile methodologies.",
-    "level": "Secondary"
-  },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
     "ai_confidence": 0,
@@ -815,14 +783,6 @@
     "reasoning": "Content primarily discusses features of Visual Studio 2012 Update 2, including Kanban Columns and Work Item Tags, which are central to software development practices.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Kanban, which is related to Agile methodologies, but it primarily focuses on Visual Studio features and a user group event rather than Scrum specifically.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "ai_confidence": 0,
@@ -886,14 +846,6 @@
     "final_score": 0.0,
     "reasoning": "The content primarily discusses a user group event and features of Visual Studio, with only brief mentions of Kanban and teams, which are not central to the topic.",
     "level": "Ignored"
-  },
-  "Business Agility": {
-    "category": "Business Agility",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content discusses Kanban Columns and Work Item Tracking features, which are relevant to agile methodologies, making business agility a significant theme.",
-    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",

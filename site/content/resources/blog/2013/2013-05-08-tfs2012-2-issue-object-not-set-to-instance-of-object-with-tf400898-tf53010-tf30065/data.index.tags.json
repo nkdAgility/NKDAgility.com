@@ -1,12 +1,4 @@
 {
-  "Featured": {
-    "category": "Featured",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses various error messages encountered in Team Foundation Server 2012.2, with detailed explanations of issues and solutions, without any clear focus on a topic that could be classified as 'Featured'.",
-    "level": "Ignored"
-  },
   "Market Adaptability": {
     "category": "Market Adaptability",
     "ai_confidence": 0,
@@ -197,14 +189,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content discusses specific errors and bugs related to Team Foundation Server (TFS) but does not address deployment frequency as a clear or primary topic.",
-    "level": "Ignored"
-  },
-  "Business Agility": {
-    "category": "Business Agility",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical issues and errors related to Team Foundation Server, with no clear emphasis on business agility concepts.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -471,14 +455,6 @@
     "reasoning": "The content primarily discusses technical issues and solutions related to Team Foundation Server, with no clear focus on mentoring.",
     "level": "Ignored"
   },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses issues related to Team Foundation Server (TFS) and its integration with work item tracking, which is central to DevOps practices in managing software development and operations.",
-    "level": "Secondary"
-  },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
     "ai_confidence": 25,
@@ -575,14 +551,6 @@
     "reasoning": "The content primarily discusses errors and issues related to Team Foundation Server and its components, rather than focusing on the principles or practices of Continuous Delivery.",
     "level": "Ignored"
   },
-  "Continuous Improvement": {
-    "category": "Continuous Improvement",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses a known bug in TFS and a recommended update to fix it, which hints at the concept of continuous improvement through software updates, but the primary focus is on technical troubleshooting rather than improvement processes.",
-    "level": "Ignored"
-  },
   "BetaCodex": {
     "category": "BetaCodex",
     "ai_confidence": 0,
@@ -669,14 +637,6 @@
     "non_ai_confidence": 0,
     "final_score": 18.0,
     "reasoning": "While there are references to Kanban-related functionalities within a broader discussion about Team Foundation Server errors and issues, Kanban is not the primary focus of the content. The main topic revolves around troubleshooting and errors rather than scaling Kanban.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 20,
-    "non_ai_confidence": 0,
-    "final_score": 14.0,
-    "reasoning": "The content discusses Team Foundation Server and various errors related to areas and iterations, but does not focus on Scrum methodologies, practices, or principles.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -917,14 +877,6 @@
     "non_ai_confidence": 10,
     "final_score": 3.0,
     "reasoning": "The content primarily discusses technical issues and error messages related to Team Foundation Server, with no mention of lead time as a topic.",
-    "level": "Ignored"
-  },
-  "Agility": {
-    "category": "Agility",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical errors related to Team Foundation Server rather than directly addressing concepts of agility.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {

@@ -247,14 +247,6 @@
     "reasoning": "The content primarily discusses troubleshooting issues with Team Foundation Server (TFS) and does not focus on Scrum teams or their roles, events, or processes.",
     "level": "Ignored"
   },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on troubleshooting and solutions related to Team Foundation Server (TFS), which is a key component in DevOps practices for continuous integration and delivery.",
-    "level": "Secondary"
-  },
   "Employee Engagement": {
     "category": "Employee Engagement",
     "ai_confidence": 0,
@@ -373,14 +365,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses technical solutions and troubleshooting for connecting InRelease to TFS, with no clear focus on organisational change.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 44.0,
-    "reasoning": "The content mentions TFS collections related to Scrum, but the primary focus is on troubleshooting and solutions for connecting InRelease to TFS, making Scrum a secondary theme.",
     "level": "Ignored"
   },
   "Product Owner": {
@@ -703,14 +687,6 @@
     "reasoning": "The content primarily discusses troubleshooting and solutions related to connecting InRelease to TFS, with no clear focus on the Definition of Ready.",
     "level": "Ignored"
   },
-  "Agility": {
-    "category": "Agility",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses troubleshooting and solutions related to connecting InRelease to TFS, with no clear focus on agility principles or practices.",
-    "level": "Ignored"
-  },
   "Product Backlog": {
     "category": "Product Backlog",
     "ai_confidence": 30,
@@ -725,14 +701,6 @@
     "non_ai_confidence": 10,
     "final_score": 24.0,
     "reasoning": "The content primarily focuses on troubleshooting and providing solutions for a specific error in TFS, with only a minor mention of the author's opinion on the product's requirements.",
-    "level": "Ignored"
-  },
-  "Continuous Improvement": {
-    "category": "Continuous Improvement",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses solutions and updates to improve the connection between InRelease and TFS, indicating a focus on resolving issues and enhancing functionality, but it is primarily about troubleshooting rather than a dedicated continuous improvement strategy.",
     "level": "Ignored"
   },
   "Scrum Master": {
@@ -805,14 +773,6 @@
     "non_ai_confidence": 10,
     "final_score": 3.0,
     "reasoning": "The content primarily discusses technical issues and solutions related to Team Foundation Server (TFS) and InRelease, with no clear focus on Scrum product management principles or practices.",
-    "level": "Ignored"
-  },
-  "Featured": {
-    "category": "Featured",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses troubleshooting and solutions related to connecting InRelease to TFS, with no clear focus on a featured topic.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -909,14 +869,6 @@
     "non_ai_confidence": 0,
     "final_score": 21.0,
     "reasoning": "The content primarily discusses troubleshooting and solutions related to Team Foundation Server (TFS) and InRelease, with a focus on connection issues and PowerShell scripts, rather than site reliability engineering principles.",
-    "level": "Ignored"
-  },
-  "Business Agility": {
-    "category": "Business Agility",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical issues and solutions related to connecting InRelease to TFS, with no clear focus on business agility concepts.",
     "level": "Ignored"
   },
   "Professional Scrum": {

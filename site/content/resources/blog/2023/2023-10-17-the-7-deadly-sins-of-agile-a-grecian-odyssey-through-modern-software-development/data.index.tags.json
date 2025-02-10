@@ -247,14 +247,6 @@
     "reasoning": "The content discusses agile principles and challenges faced by teams, making Scrum a secondary theme.",
     "level": "Ignored"
   },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 45,
-    "non_ai_confidence": 0,
-    "final_score": 31.0,
-    "reasoning": "While the content discusses agile methodologies, it primarily focuses on philosophical insights and challenges rather than DevOps practices or principles.",
-    "level": "Ignored"
-  },
   "Employee Engagement": {
     "category": "Employee Engagement",
     "ai_confidence": 0,
@@ -374,14 +366,6 @@
     "final_score": 38.0,
     "reasoning": "The content discusses challenges in agile practices that can lead to resistance to change and the importance of adapting to unique organisational contexts, making it a major but secondary theme.",
     "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 75,
-    "non_ai_confidence": 50,
-    "final_score": 68.0,
-    "reasoning": "The content discusses agile principles and challenges extensively, with a focus on pitfalls that agile teams face, which aligns with Scrum practices.",
-    "level": "Secondary"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -511,14 +495,6 @@
     "reasoning": "The content primarily discusses the challenges and pitfalls of Agile methodologies through the lens of ancient Greek philosophy, without a clear focus on prioritising investments or strategic alignment.",
     "level": "Ignored"
   },
-  "Agility": {
-    "category": "Agility",
-    "ai_confidence": 92,
-    "non_ai_confidence": 50,
-    "final_score": 79.0,
-    "reasoning": "Content primarily explores the challenges and pitfalls in agile software development through the lens of the seven deadly sins, emphasising the importance of adaptability and continuous introspection in agile practices.",
-    "level": "Secondary"
-  },
   "Azure Repos": {
     "category": "Azure Repos",
     "ai_confidence": 0,
@@ -542,14 +518,6 @@
     "final_score": 35.0,
     "reasoning": "The content discusses the challenges in agile software development and the importance of fostering a culture of growth and genuine value delivery, which aligns with entrepreneurial principles, but it is primarily focused on agile methodologies rather than entrepreneurship itself.",
     "level": "Ignored"
-  },
-  "Featured": {
-    "category": "Featured",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content primarily discusses the parallels between ancient Greek philosophy and modern agile practices, providing key insights into common pitfalls in agile development.",
-    "level": "Secondary"
   },
   "System Configuration": {
     "category": "System Configuration",
@@ -839,14 +807,6 @@
     "reasoning": "The content primarily discusses the seven deadly sins in the context of Agile software development, focusing on human behaviours and challenges rather than directly addressing technical debt management or reduction.",
     "level": "Ignored"
   },
-  "Business Agility": {
-    "category": "Business Agility",
-    "ai_confidence": 75,
-    "non_ai_confidence": 10,
-    "final_score": 56.0,
-    "reasoning": "The content discusses the challenges and pitfalls in agile software development, which relates to the organisation's ability to adapt and respond to market changes and customer needs. However, it primarily focuses on the philosophical aspects and personal reflections rather than directly addressing business agility as a central theme.",
-    "level": "Secondary"
-  },
   "Continuous Learning": {
     "category": "Continuous Learning",
     "ai_confidence": 80,
@@ -998,13 +958,5 @@
     "final_score": 38.0,
     "reasoning": "The content discusses challenges faced by agile teams and offers insights on improving team performance, making Scrum principles a significant but secondary theme.",
     "level": "Ignored"
-  },
-  "Continuous Improvement": {
-    "category": "Continuous Improvement",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "The content discusses the pitfalls in Agile practices and emphasises the importance of adaptability, learning from mistakes, and fostering a culture of growth, which aligns with the ethos of continuous improvement.",
-    "level": "Secondary"
   }
 }

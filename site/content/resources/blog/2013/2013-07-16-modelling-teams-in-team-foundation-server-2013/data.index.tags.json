@@ -247,14 +247,6 @@
     "reasoning": "Content primarily discusses the structure and management of teams within Team Foundation Server, including roles, backlogs, and team organisation, which aligns closely with Scrum principles.",
     "level": "Secondary"
   },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on modelling teams and managing projects within Team Foundation Server, which is a key aspect of DevOps practices.",
-    "level": "Secondary"
-  },
   "Employee Engagement": {
     "category": "Employee Engagement",
     "ai_confidence": 0,
@@ -373,14 +365,6 @@
     "non_ai_confidence": 20,
     "final_score": 41.0,
     "reasoning": "The content discusses structuring teams and projects within Team Foundation Server, which implies organisational considerations, but the primary focus is on technical implementation rather than a clear organisational change strategy.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses team structures and roles within Team Foundation Server, which are relevant to Scrum practices, but it primarily focuses on TFS functionalities rather than Scrum itself.",
     "level": "Ignored"
   },
   "Product Owner": {
@@ -703,14 +687,6 @@
     "reasoning": "The content primarily discusses modelling teams and managing projects in Team Foundation Server, with no clear focus on the Definition of Ready.",
     "level": "Ignored"
   },
-  "Agility": {
-    "category": "Agility",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses team structures and project management within Team Foundation Server, which relates to agile methodologies, but it is primarily focused on TFS functionalities rather than agility as a central theme.",
-    "level": "Ignored"
-  },
   "Product Backlog": {
     "category": "Product Backlog",
     "ai_confidence": 80,
@@ -725,14 +701,6 @@
     "non_ai_confidence": 10,
     "final_score": 38.0,
     "reasoning": "The content discusses the configuration and structuring of teams within Team Foundation Server, which implies a level of innovation in optimising workflows and processes. However, the primary focus is on the technical aspects of TFS rather than on innovation itself.",
-    "level": "Ignored"
-  },
-  "Continuous Improvement": {
-    "category": "Continuous Improvement",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses structuring teams and automating processes in Team Foundation Server, which implies a focus on improving workflows and efficiency, but it is primarily about TFS functionalities.",
     "level": "Ignored"
   },
   "Scrum Master": {
@@ -806,14 +774,6 @@
     "final_score": 41.0,
     "reasoning": "The content discusses team structures and management within Team Foundation Server, which relates to Scrum practices, but it primarily focuses on TFS functionalities rather than Scrum principles.",
     "level": "Ignored"
-  },
-  "Featured": {
-    "category": "Featured",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on modelling teams within Team Foundation Server 2013, detailing various aspects such as project management, team structures, and source control, making it a central topic.",
-    "level": "Secondary"
   },
   "Sensemaking": {
     "category": "Sensemaking",
@@ -909,14 +869,6 @@
     "non_ai_confidence": 0,
     "final_score": 21.0,
     "reasoning": "The content primarily discusses Team Foundation Server and its features for project management and team structuring, with only a minor mention of automation and configuration, which are not central to Site Reliability Engineering.",
-    "level": "Ignored"
-  },
-  "Business Agility": {
-    "category": "Business Agility",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses team structures and management within Team Foundation Server, which relates to business agility, but it is primarily focused on technical implementation rather than agility as a central theme.",
     "level": "Ignored"
   },
   "Professional Scrum": {

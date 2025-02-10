@@ -1,12 +1,4 @@
 {
-  "Featured": {
-    "category": "Featured",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Scrum practices and challenges extensively, but it is primarily focused on the broader topic of Agile methodologies and their limitations rather than being solely about Scrum itself.",
-    "level": "Ignored"
-  },
   "Market Adaptability": {
     "category": "Market Adaptability",
     "ai_confidence": 50,
@@ -197,14 +189,6 @@
     "non_ai_confidence": 0,
     "final_score": 56.0,
     "reasoning": "Content primarily focuses on Scrum methodologies and practices that relate to deployment, particularly highlighting the importance of delivering working software regularly within sprints.",
-    "level": "Secondary"
-  },
-  "Business Agility": {
-    "category": "Business Agility",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses Agile methodologies and practices, focusing on Scrum and the importance of effective engineering practices, which are key components of business agility.",
     "level": "Secondary"
   },
   "Technical Debt": {
@@ -471,14 +455,6 @@
     "reasoning": "While the content discusses the role of Scrum Masters and touches on advice shared in a discussion about Scrum practices, it primarily focuses on Agile methodologies and engineering practices rather than mentoring. The mention of advice suggests a mentoring aspect, but it is secondary to the broader discussion on Agile flaws.",
     "level": "Ignored"
   },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 68,
-    "non_ai_confidence": 0,
-    "final_score": 48.0,
-    "reasoning": "The content discusses software development practices and Agile methodologies, with a focus on Scrum and engineering practices, which are relevant to DevOps principles, though it primarily centers on Scrum itself.",
-    "level": "Ignored"
-  },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
     "ai_confidence": 45,
@@ -575,14 +551,6 @@
     "reasoning": "Content predominantly focuses on Agile methodologies, particularly Scrum, and discusses the importance of delivering working software frequently, which aligns closely with the principles of Continuous Delivery.",
     "level": "Secondary"
   },
-  "Continuous Improvement": {
-    "category": "Continuous Improvement",
-    "ai_confidence": 88,
-    "non_ai_confidence": 0,
-    "final_score": 62.0,
-    "reasoning": "The content extensively discusses the importance of retrospective meetings, good engineering practices, and steps to improve Scrum effectiveness, making continuous improvement a central theme.",
-    "level": "Secondary"
-  },
   "BetaCodex": {
     "category": "BetaCodex",
     "ai_confidence": 50,
@@ -670,14 +638,6 @@
     "final_score": 3.0,
     "reasoning": "Content primarily discusses the insufficiencies of Scrum and Agile practices, rather than scaling Kanban specifically.",
     "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 92,
-    "non_ai_confidence": 50,
-    "final_score": 79.0,
-    "reasoning": "Content heavily discusses the shortcomings and practices associated with Scrum, including the roles of the Scrum Master and the importance of effective retrospectives, making Scrum the primary focus.",
-    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -918,14 +878,6 @@
     "final_score": 6.0,
     "reasoning": "The content primarily discusses Agile practices and the challenges of Scrum, with no clear focus on the concept of lead time.",
     "level": "Ignored"
-  },
-  "Agility": {
-    "category": "Agility",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "The content primarily discusses Agile methodologies, particularly Scrum, and emphasizes the importance of effective practices within Agile frameworks. It addresses common misconceptions about Scrum's sufficiency and explores the roles and responsibilities necessary for successful Agile implementation.",
-    "level": "Secondary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",

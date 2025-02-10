@@ -247,14 +247,6 @@
     "reasoning": "The content mentions Team Foundation Server and Scrum process templates, but the primary focus is on Visual Studio and its features, making Scrum Team a secondary theme.",
     "level": "Ignored"
   },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the release and features of Visual Studio 2013 and Team Foundation Server 2013, which are key tools in the DevOps ecosystem, focusing on application lifecycle management (ALM) and integration.",
-    "level": "Secondary"
-  },
   "Employee Engagement": {
     "category": "Employee Engagement",
     "ai_confidence": 0,
@@ -374,14 +366,6 @@
     "final_score": 0.0,
     "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on features, updates, and installation processes, with no clear emphasis on organisational change.",
     "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions upgrading to the Visual Studio Scrum 3.0 process template in TFS 2013, indicating a secondary theme related to Scrum.",
-    "level": "Secondary"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -703,14 +687,6 @@
     "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, with no clear focus on the Definition of Ready.",
     "level": "Ignored"
   },
-  "Agility": {
-    "category": "Agility",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 44.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS) and Visual Studio, which are tools that support Agile methodologies, but the primary focus is on the release and features of these tools rather than on Agile principles or practices themselves.",
-    "level": "Ignored"
-  },
   "Product Backlog": {
     "category": "Product Backlog",
     "ai_confidence": 50,
@@ -725,14 +701,6 @@
     "non_ai_confidence": 10,
     "final_score": 3.0,
     "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on their features and installation rather than innovation.",
-    "level": "Ignored"
-  },
-  "Continuous Improvement": {
-    "category": "Continuous Improvement",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on features, upgrades, and installation rather than continuous improvement.",
     "level": "Ignored"
   },
   "Scrum Master": {
@@ -806,14 +774,6 @@
     "final_score": 27.0,
     "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, with only brief mentions of Scrum-related features and tools.",
     "level": "Ignored"
-  },
-  "Featured": {
-    "category": "Featured",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on the release of Visual Studio 2013 and TFS 2013, detailing their features and availability, making it a central topic.",
-    "level": "Secondary"
   },
   "Sensemaking": {
     "category": "Sensemaking",
@@ -909,14 +869,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses the release and features of Visual Studio 2013 and Team Foundation Server 2013, with no clear focus on Site Reliability Engineering.",
-    "level": "Ignored"
-  },
-  "Business Agility": {
-    "category": "Business Agility",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on their features and installation rather than business agility concepts.",
     "level": "Ignored"
   },
   "Professional Scrum": {

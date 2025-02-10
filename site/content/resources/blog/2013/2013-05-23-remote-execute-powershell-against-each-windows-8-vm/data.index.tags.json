@@ -1,12 +1,4 @@
 {
-  "Featured": {
-    "category": "Featured",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily focused on executing PowerShell scripts against Windows 8 VMs and does not mention or feature any central topic that aligns with 'Featured'.",
-    "level": "Ignored"
-  },
   "Market Adaptability": {
     "category": "Market Adaptability",
     "ai_confidence": 0,
@@ -197,14 +189,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily focuses on executing PowerShell scripts against Windows 8 VMs using Hyper-V, managing their states and performing updates, without a central focus on deployment frequency.",
-    "level": "Ignored"
-  },
-  "Business Agility": {
-    "category": "Business Agility",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily focused on technical aspects of executing PowerShell scripts for managing Windows VMs. It does not discuss business agility concepts.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -463,14 +447,6 @@
     "reasoning": "The content is primarily focused on using PowerShell to manage virtual machines and provides technical details and code examples related to that task, rather than discussing mentoring.",
     "level": "Ignored"
   },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "The content primarily focuses on scripting and automation with PowerShell to manage virtual machines, which aligns with DevOps practices around infrastructure management and automation.",
-    "level": "Secondary"
-  },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
     "ai_confidence": 40,
@@ -567,14 +543,6 @@
     "reasoning": "The content primarily discusses executing PowerShell scripts on virtual machines, managing their states, and maintaining them. Although it touches on aspects like automation, the central focus is not on continuous delivery practices or principles.",
     "level": "Ignored"
   },
-  "Continuous Improvement": {
-    "category": "Continuous Improvement",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses automating updates and configurations for virtual machines using PowerShell, but the primary focus is on scripting and technical implementation rather than a broader continuous improvement initiative.",
-    "level": "Ignored"
-  },
   "BetaCodex": {
     "category": "BetaCodex",
     "ai_confidence": 0,
@@ -653,14 +621,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content is focused on executing PowerShell scripts against virtual machines using Hyper-V, and does not discuss Kanban or scaling principles.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is focused on executing PowerShell scripts to manage Windows 8 VMs using Hyper-V, and does not mention or relate to Scrum principles, frameworks, roles, or events.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -990,14 +950,6 @@
     "final_score": 59.0,
     "reasoning": "The content primarily focuses on scripting practices for managing virtual machines using PowerShell, which is central to engineering practices in IT and system administration.",
     "level": "Secondary"
-  },
-  "Agility": {
-    "category": "Agility",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on executing PowerShell scripts for managing virtual machines in Hyper-V, with no clear discussion or emphasis on agility principles or practices.",
-    "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",

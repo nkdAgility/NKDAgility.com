@@ -1,12 +1,4 @@
 {
-  "Featured": {
-    "category": "Featured",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content primarily discusses improvements in Visual Studio ALM, particularly features announced at the ALM Summit, making it a significant but secondary theme to the overall coverage of these developments.",
-    "level": "Ignored"
-  },
   "Market Adaptability": {
     "category": "Market Adaptability",
     "ai_confidence": 50,
@@ -197,14 +189,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses improvements in Visual Studio ALM and new features related to version control, testing, and project management, with no direct focus on deployment frequency.",
-    "level": "Ignored"
-  },
-  "Business Agility": {
-    "category": "Business Agility",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "While the content primarily discusses enhancements in Visual Studio ALM, it touches on themes that improve workflows and processes, hinting at aspects of business agility such as flexibility in project management and adoption of modern development practices like Kanban and Git. However, these themes are secondary to the main focus of the advancements in software tools.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -471,14 +455,6 @@
     "reasoning": "The content primarily discusses new features and improvements in Visual Studio ALM without any focus on mentoring or guidance.",
     "level": "Ignored"
   },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content focuses primarily on improvements in Visual Studio's Application Lifecycle Management (ALM) tools, which are essential for DevOps practices such as continuous delivery and version control with Git. It discusses features that facilitate team collaboration and project management, central to DevOps methodologies.",
-    "level": "Secondary"
-  },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
     "ai_confidence": 0,
@@ -575,14 +551,6 @@
     "reasoning": "The content primarily discusses improvements in Visual Studio ALM that facilitate Continuous Delivery, particularly through features like Git support, quality enablement, and collaboration tools.",
     "level": "Secondary"
   },
-  "Continuous Improvement": {
-    "category": "Continuous Improvement",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content primarily discusses improvements and updates in Visual Studio ALM that enhance workflows and processes, which aligns closely with principles of continuous improvement.",
-    "level": "Secondary"
-  },
   "BetaCodex": {
     "category": "BetaCodex",
     "ai_confidence": 0,
@@ -670,14 +638,6 @@
     "final_score": 56.0,
     "reasoning": "The content discusses Kanban swim lanes in detail, which is a significant feature related to scaling Kanban processes within Visual Studio ALM, although it is part of a broader discussion on various improvements and features.",
     "level": "Secondary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on improvements in Visual Studio ALM, including features like Git support, test management, and kanban boards. It does not primarily discuss Scrum, its roles, or events.",
-    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -917,14 +877,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content discusses improvements in Visual Studio ALM and related features but does not focus on lead time as a clear primary topic.",
-    "level": "Ignored"
-  },
-  "Agility": {
-    "category": "Agility",
-    "ai_confidence": 65,
-    "non_ai_confidence": 0,
-    "final_score": 46.0,
-    "reasoning": "The content discusses various features of Visual Studio ALM that enhance development practices, with specific reference to Kanban and testing improvements, which are relevant to Agile methodologies.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {

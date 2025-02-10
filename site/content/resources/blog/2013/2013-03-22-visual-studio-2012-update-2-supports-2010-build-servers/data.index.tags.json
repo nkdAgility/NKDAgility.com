@@ -1,12 +1,4 @@
 {
-  "Featured": {
-    "category": "Featured",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the support of Visual Studio 2012 Update 2 for 2010 Build Servers, which is a significant aspect of the updates; however, the main focus is primarily technical rather than categorically highlighted as 'Featured'.",
-    "level": "Ignored"
-  },
   "Market Adaptability": {
     "category": "Market Adaptability",
     "ai_confidence": 53,
@@ -197,14 +189,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses the compatibility and upgrade process between Visual Studio and Team Foundation Server versions, rather than focusing on deployment frequency as a central topic.",
-    "level": "Ignored"
-  },
-  "Business Agility": {
-    "category": "Business Agility",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content mainly focuses on upgrading build infrastructure and workflow challenges, but it touches on how the upgrade facilitates business continuity and improves operational efficiency, which are related to business agility.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -471,14 +455,6 @@
     "reasoning": "The content is primarily focused on technical aspects of upgrading and configuring Visual Studio and Team Foundation Server, with no mention of mentoring as a central theme.",
     "level": "Ignored"
   },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses the integration and upgrade paths related to Team Foundation Server and build servers, which are central to DevOps practices.",
-    "level": "Secondary"
-  },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
     "ai_confidence": 0,
@@ -575,14 +551,6 @@
     "reasoning": "The content primarily discusses the process of upgrading and connecting build servers in a continuous integration context, which is related to Continuous Delivery, but it focuses heavily on technical aspects of server configurations rather than on the broader concepts of Continuous Delivery.",
     "level": "Ignored"
   },
-  "Continuous Improvement": {
-    "category": "Continuous Improvement",
-    "ai_confidence": 45,
-    "non_ai_confidence": 0,
-    "final_score": 31.0,
-    "reasoning": "The content primarily focuses on technical support for upgrading to TFS 2012 and managing build servers, with continuous improvement mentioned as a minor detail regarding the ease of upgrading.",
-    "level": "Ignored"
-  },
   "BetaCodex": {
     "category": "BetaCodex",
     "ai_confidence": 0,
@@ -669,14 +637,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses the upgrade and compatibility of Visual Studio and TFS build servers, not related to Kanban or its scaling.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily focused on technical aspects of Visual Studio and Team Foundation Server (TFS) upgrades, with no mention or relevance to Scrum methodologies or practices.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -917,14 +877,6 @@
     "non_ai_confidence": 10,
     "final_score": 3.0,
     "reasoning": "The content primarily discusses the compatibility and upgrade processes between different versions of Team Foundation Server and Build Servers, with no focus on lead time as a topic.",
-    "level": "Ignored"
-  },
-  "Agility": {
-    "category": "Agility",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the technical aspects of connecting various versions of Team Foundation Server (TFS) and build servers, with no central discussion or clear emphasis on the concept of agility.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {

@@ -1,12 +1,4 @@
 {
-  "Featured": {
-    "category": "Featured",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily describes the setup and management of Standard Environments in Visual Studio Team Foundation Server, focusing on automated deployment and testing processes rather than featuring a specific topic.",
-    "level": "Ignored"
-  },
   "Market Adaptability": {
     "category": "Market Adaptability",
     "ai_confidence": 50,
@@ -198,14 +190,6 @@
     "final_score": 59.0,
     "reasoning": "Content primarily focuses on the creation and management of deployment environments, emphasizing automation and the process of deploying applications to various environments, which aligns closely with deployment frequency concepts.",
     "level": "Secondary"
-  },
-  "Business Agility": {
-    "category": "Business Agility",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses deployment practices and the establishment of standard environments that support automation and efficiency, which are related to business agility concepts, but it is not primarily focused on business agility itself.",
-    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -471,14 +455,6 @@
     "reasoning": "The content primarily discusses automated deployment and testing environments in Visual Studio and does not focus on mentoring or related themes.",
     "level": "Ignored"
   },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 92,
-    "non_ai_confidence": 50,
-    "final_score": 79.0,
-    "reasoning": "Content primarily focuses on the setup and management of automated deployment environments, which is a central aspect of DevOps practices.",
-    "level": "Secondary"
-  },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
     "ai_confidence": 75,
@@ -575,14 +551,6 @@
     "reasoning": "Content primarily focuses on automating deployment and testing environments within the context of Continuous Delivery, explaining the setup, advantages, and centrality of standard environments in the deployment pipeline.",
     "level": "Secondary"
   },
-  "Continuous Improvement": {
-    "category": "Continuous Improvement",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content focuses on setting up standard environments and deployment processes, which are essential for enhancing continuous delivery and improving development workflows.",
-    "level": "Secondary"
-  },
   "BetaCodex": {
     "category": "BetaCodex",
     "ai_confidence": 0,
@@ -669,14 +637,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses automated deployment and testing environments in Visual Studio Team Foundation Server, focusing on development and operational processes, with no significant reference to Kanban or its scaling.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses automated deployment and testing environments using Visual Studio and Team Foundation Server, with no mention or discussion of Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -917,14 +877,6 @@
     "non_ai_confidence": 10,
     "final_score": 3.0,
     "reasoning": "The content primarily focuses on setting up and managing Standard Environments in Visual Studio Team Foundation Server for automated deployment and testing, with no clear discussion of lead time.",
-    "level": "Ignored"
-  },
-  "Agility": {
-    "category": "Agility",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses automated deployment and testing processes which relate to agile methodologies, but the primary focus is on specific tools rather than agility itself.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {

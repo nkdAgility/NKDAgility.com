@@ -1,12 +1,4 @@
 {
-  "Featured": {
-    "category": "Featured",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the technical steps and issues related to restoring TFS backups and managing SQL Server editions, with no clear focus on the category 'Featured'.",
-    "level": "Ignored"
-  },
   "Market Adaptability": {
     "category": "Market Adaptability",
     "ai_confidence": 0,
@@ -197,14 +189,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses issues with restoring TFS backups from SQL Enterprise to SQL Express, focusing on technical details and troubleshooting rather than deployment frequency.",
-    "level": "Ignored"
-  },
-  "Business Agility": {
-    "category": "Business Agility",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical issues related to restoring TFS backups from SQL Enterprise to SQL Express, focusing on SQL Server features and error handling, with no clear reference to business agility themes.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -471,14 +455,6 @@
     "reasoning": "The content primarily discusses technical issues related to restoring TFS backups in SQL Server, focusing on compatibility and specific SQL commands. Mentoring is not a central theme.",
     "level": "Ignored"
   },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content revolves primarily around SQL Server management and restoration issues related to TFS backups, rather than focusing on DevOps practices or principles.",
-    "level": "Ignored"
-  },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
     "ai_confidence": 0,
@@ -575,14 +551,6 @@
     "reasoning": "The content primarily discusses issues related to restoring TFS backups from SQL Server Enterprise to SQL Express, focusing on database features and SQL error handling. Continuous Delivery is not a clear, primary topic in this content.",
     "level": "Ignored"
   },
-  "Continuous Improvement": {
-    "category": "Continuous Improvement",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on technical instructions for restoring TFS backups from SQL Enterprise to SQL Express, addressing specific errors related to SQL Server editions rather than continuous improvement concepts.",
-    "level": "Ignored"
-  },
   "BetaCodex": {
     "category": "BetaCodex",
     "ai_confidence": 0,
@@ -669,14 +637,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on restoring TFS backups and issues related to SQL Server editions, with no mention of Kanban or related scaling processes.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily deals with SQL Server and TFS backup restoration, with no significant mention of Scrum principles, roles, or events.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -917,14 +877,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses issues related to restoring TFS backups from SQL Enterprise to SQL Express, particularly focusing on compression features and errors encountered during the restore process. Lead time is not a topic addressed in this content.",
-    "level": "Ignored"
-  },
-  "Agility": {
-    "category": "Agility",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses restoring TFS backups from SQL Enterprise to SQL Express, focusing on SQL Server limitations and features. Agility is not a central theme.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {

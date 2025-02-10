@@ -1,12 +1,4 @@
 {
-  "Featured": {
-    "category": "Featured",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content primarily focuses on the concept of quality enablement in software development, with specific emphasis on the role of Visual Studio 2012 in enhancing quality throughout the software lifecycle.",
-    "level": "Secondary"
-  },
   "Market Adaptability": {
     "category": "Market Adaptability",
     "ai_confidence": 50,
@@ -197,14 +189,6 @@
     "non_ai_confidence": 10,
     "final_score": 62.0,
     "reasoning": "The content primarily focuses on the need for continuous quality and frequent delivery cycles in software development, discussing practices and tools that support a rapid deployment frequency.",
-    "level": "Secondary"
-  },
-  "Business Agility": {
-    "category": "Business Agility",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content discusses the need for continuous delivery and frequent iterations which aligns closely with business agility principles.",
     "level": "Secondary"
   },
   "Technical Debt": {
@@ -471,14 +455,6 @@
     "reasoning": "The content primarily discusses quality enablement in software development using Visual Studio 2012 and does not focus on mentoring or teaching relationships.",
     "level": "Ignored"
   },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 90,
-    "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily focuses on continuous delivery, quality enablement, and practices essential for modern application development, which are key components of DevOps methodology.",
-    "level": "Secondary"
-  },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
     "ai_confidence": 45,
@@ -575,14 +551,6 @@
     "reasoning": "The content extensively discusses continuous delivery practices, emphasizing the need for continuous testing, quality enablement, and modern application lifecycles which are central to achieving continuous delivery.",
     "level": "Secondary"
   },
-  "Continuous Improvement": {
-    "category": "Continuous Improvement",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "The content primarily focuses on quality enablement and continuous delivery within software development, emphasizing the importance of continuous improvement in practices and processes to meet modern user expectations.",
-    "level": "Secondary"
-  },
   "BetaCodex": {
     "category": "BetaCodex",
     "ai_confidence": 0,
@@ -669,14 +637,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses quality enablement in software development, focusing on practices, tools, and methodologies, but does not mention Kanban or its scaling specifically.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 45,
-    "non_ai_confidence": 0,
-    "final_score": 31.0,
-    "reasoning": "The content discusses agile principles and continuous delivery, but it primarily focuses on quality enablement with Microsoft tools rather than Scrum specifically.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -918,14 +878,6 @@
     "final_score": 31.0,
     "reasoning": "While there are references to cycle time and delivery speed, these are not the primary focus of the content, which is centered around quality enablement in software development.",
     "level": "Ignored"
-  },
-  "Agility": {
-    "category": "Agility",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "The content extensively discusses the need for continuous delivery and rapid iterations in software development, aligning closely with agile principles and practices.",
-    "level": "Secondary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",

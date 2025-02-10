@@ -247,14 +247,6 @@
     "reasoning": "The content discusses the roles of the Development Team and Product Owner in the context of a deployment pipeline, indicating a significant but secondary theme related to Scrum practices.",
     "level": "Ignored"
   },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 95,
-    "non_ai_confidence": 50,
-    "final_score": 82.0,
-    "reasoning": "Content primarily focuses on creating a Release Management pipeline, detailing the steps for automated deployments, build definitions, and environment configurations, which are central to DevOps practices.",
-    "level": "Primary"
-  },
   "Employee Engagement": {
     "category": "Employee Engagement",
     "ai_confidence": 0,
@@ -373,14 +365,6 @@
     "non_ai_confidence": 0,
     "final_score": 35.0,
     "reasoning": "The content discusses the configuration of a Release Management pipeline and the roles of various team members in the deployment process, indicating a shift in how teams collaborate and manage releases, but it is primarily focused on technical implementation rather than organisational change itself.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses aspects of team collaboration and feedback loops, which are relevant to Scrum, but the primary focus is on Release Management and deployment processes.",
     "level": "Ignored"
   },
   "Product Owner": {
@@ -703,14 +687,6 @@
     "reasoning": "The content primarily focuses on creating a Release Management pipeline and does not discuss the Definition of Ready as a clear, primary topic.",
     "level": "Ignored"
   },
-  "Agility": {
-    "category": "Agility",
-    "ai_confidence": 85,
-    "non_ai_confidence": 30,
-    "final_score": 68.0,
-    "reasoning": "Content primarily focuses on creating a Release Management pipeline, which is a key aspect of agile methodologies, particularly in DevOps practices. It discusses automation, continuous integration, and feedback loops, all of which are central to agile principles.",
-    "level": "Secondary"
-  },
   "Product Backlog": {
     "category": "Product Backlog",
     "ai_confidence": 0,
@@ -726,14 +702,6 @@
     "final_score": 41.0,
     "reasoning": "The content discusses the creation of a Release Management pipeline and the automation of deployment processes, which indicates a focus on innovation in software development practices. However, the primary focus is on technical implementation rather than a broader exploration of innovative concepts.",
     "level": "Ignored"
-  },
-  "Continuous Improvement": {
-    "category": "Continuous Improvement",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content primarily focuses on creating a Release Management pipeline, which inherently involves continuous improvement practices through automation, feedback loops, and iterative deployment processes.",
-    "level": "Secondary"
   },
   "Scrum Master": {
     "category": "Scrum Master",
@@ -806,14 +774,6 @@
     "final_score": 41.0,
     "reasoning": "The content discusses aspects of deployment and feedback loops relevant to Scrum, but the primary focus is on technical implementation rather than Scrum product management itself.",
     "level": "Ignored"
-  },
-  "Featured": {
-    "category": "Featured",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on creating a Release Management pipeline, detailing the steps and considerations involved in the process, making it a central topic.",
-    "level": "Secondary"
   },
   "Sensemaking": {
     "category": "Sensemaking",
@@ -909,14 +869,6 @@
     "non_ai_confidence": 10,
     "final_score": 62.0,
     "reasoning": "The content primarily focuses on creating a Release Management pipeline, which is a key aspect of Site Reliability Engineering, particularly in the context of automated deployments and monitoring.",
-    "level": "Secondary"
-  },
-  "Business Agility": {
-    "category": "Business Agility",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on creating a Release Management pipeline, which is essential for enhancing business agility through automated deployments and feedback loops.",
     "level": "Secondary"
   },
   "Professional Scrum": {

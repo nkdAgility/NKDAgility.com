@@ -1,7 +1,5 @@
 ---
 title: Agile Transformation
-description: Guiding organisations through agile adoption and cultural change.
-Instructions: Please ensure that the category/tag 'Agile Transformation' is only applied to content that guides organisations through agile adoption and cultural change.
-
+description: Lead successful Agile Transformations. Shift mindsets, evolve processes, and enable true organisational agility.
+Instructions: Use this category only for discussions on Agile Transformation, including organisational change, leadership alignment, cultural shifts, and scaling Agile principles across teams and departments. Topics should focus on overcoming transformation challenges, measuring success, and sustaining agility beyond initial adoption.
 ---
-

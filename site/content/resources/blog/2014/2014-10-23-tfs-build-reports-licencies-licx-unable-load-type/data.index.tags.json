@@ -247,14 +247,6 @@
     "reasoning": "The content primarily discusses issues related to build processes and software components, with no clear focus on Scrum roles, events, or team dynamics.",
     "level": "Ignored"
   },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses issues related to configuring a build server, resolving build errors, and the importance of continuous integration (CI) in a development environment.",
-    "level": "Secondary"
-  },
   "Employee Engagement": {
     "category": "Employee Engagement",
     "ai_confidence": 0,
@@ -373,14 +365,6 @@
     "non_ai_confidence": 0,
     "final_score": 35.0,
     "reasoning": "The content discusses the transition of a team from StarTeam to TFS and the challenges faced during this change, indicating a significant theme of organisational change, but it is primarily focused on technical issues related to build processes.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to build processes and configuration in TFS, with no clear focus on Scrum principles, roles, or events.",
     "level": "Ignored"
   },
   "Product Owner": {
@@ -703,14 +687,6 @@
     "reasoning": "The content primarily discusses issues related to build configurations and errors in a software development context, without focusing on the concept of 'Definition of Ready'.",
     "level": "Ignored"
   },
-  "Agility": {
-    "category": "Agility",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses challenges and solutions related to configuring a build server, which is a key aspect of agile development practices, but the primary focus is on specific technical issues rather than agility as a central theme.",
-    "level": "Ignored"
-  },
   "Product Backlog": {
     "category": "Product Backlog",
     "ai_confidence": 0,
@@ -726,14 +702,6 @@
     "final_score": 38.0,
     "reasoning": "The content discusses the challenges of configuring a build server and the need for improvements in the development process, indicating a secondary theme of innovation in the context of software development and build automation.",
     "level": "Ignored"
-  },
-  "Continuous Improvement": {
-    "category": "Continuous Improvement",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content discusses the challenges and solutions related to configuring a build server, emphasising the need for continuous improvement in the build process and the importance of maintaining updated components.",
-    "level": "Secondary"
   },
   "Scrum Master": {
     "category": "Scrum Master",
@@ -805,14 +773,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses issues related to build processes and software configuration, with no clear focus on Scrum or product management principles.",
-    "level": "Ignored"
-  },
-  "Featured": {
-    "category": "Featured",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to configuring a build server and resolving specific errors, rather than focusing on a featured topic.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -910,14 +870,6 @@
     "final_score": 52.0,
     "reasoning": "The content discusses issues related to configuring a build server and automating builds, which are important aspects of site reliability engineering, but the primary focus is on specific build errors and component management rather than broader SRE principles.",
     "level": "Secondary"
-  },
-  "Business Agility": {
-    "category": "Business Agility",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the challenges of configuring a build server and the importance of automated builds, which are relevant to business agility, but the primary focus is on technical issues rather than agility itself.",
-    "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",

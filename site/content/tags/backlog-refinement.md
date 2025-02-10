@@ -1,5 +1,5 @@
 ---
 title: Backlog Refinement
-description: The difference between chaotic Sprint Planning and a team delivering predictably.
-Instructions: Please ensure that the category/tag 'Backlog Refinement' is only applied to content specifically related to the process of improving and clarifying the product backlog, distinguishing it from Sprint Planning and focusing on how a team can deliver predictably.
+description: Improve clarity and readiness with Backlog Refinement. Ensure work is well-defined, prioritised, and ready for execution.
+Instructions: Use this category only for discussions on Backlog Refinement, including breaking down Product Backlog Items (PBIs), clarifying acceptance criteria, estimating effort, and ensuring work is actionable for upcoming Sprints. Topics should focus on best practices, collaboration between the Product Owner and Developers, and techniques for maintaining a healthy backlog.
 ---

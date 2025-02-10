@@ -1,7 +1,5 @@
 ---
 title: BetaCodex
-description: A decentralised approach to organisational design, enabling autonomy and responsiveness.
-Instructions: Please ensure that the 'BetaCodex' category/tag is only applied to content specifically related to a decentralised approach to organisational design, enabling autonomy and responsiveness.
-
+description: Embrace BetaCodex for decentralised, adaptive, and human-centric organisational design. Enable true agility beyond rigid hierarchies.
+Instructions: Use this category only for discussions on BetaCodex, including decentralised decision-making, organisational transformation, complexity thinking, and adaptive leadership. Topics should focus on principles of BetaCodex, case studies, practical implementations, and its impact on Agile, Scrum, and business agility.
 ---
-

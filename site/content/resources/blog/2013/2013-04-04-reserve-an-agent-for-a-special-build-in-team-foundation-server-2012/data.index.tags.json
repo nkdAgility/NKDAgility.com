@@ -1,12 +1,4 @@
 {
-  "Featured": {
-    "category": "Featured",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content primarily focuses on a technical process related to reserving an agent in Team Foundation Server, which is relevant but not explicitly classified as 'Featured'.",
-    "level": "Ignored"
-  },
   "Market Adaptability": {
     "category": "Market Adaptability",
     "ai_confidence": 0,
@@ -197,14 +189,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily focuses on reserving a build agent and managing build processes in Team Foundation Server, with no emphasis on deployment frequency.",
-    "level": "Ignored"
-  },
-  "Business Agility": {
-    "category": "Business Agility",
-    "ai_confidence": 45,
-    "non_ai_confidence": 0,
-    "final_score": 31.0,
-    "reasoning": "The content primarily focuses on technical details about managing build agents in Team Foundation Server. While it touches on some aspects related to processes that can be linked to agility in software development, it does not primarily discuss business agility as a central theme.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -471,14 +455,6 @@
     "reasoning": "The content primarily discusses technical details related to reserving an agent in Team Foundation Server for build processes, which is not related to mentoring.",
     "level": "Ignored"
   },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 95,
-    "non_ai_confidence": 0,
-    "final_score": 66.0,
-    "reasoning": "The content is primarily focused on using Team Foundation Server and custom build processes, which are central to DevOps practices, particularly in managing build agents and configurations.",
-    "level": "Secondary"
-  },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
     "ai_confidence": 50,
@@ -575,14 +551,6 @@
     "reasoning": "The content primarily discusses reserving build agents in Team Foundation Server 2012, addressing specific practices related to build processes which are integral to continuous delivery workflows.",
     "level": "Secondary"
   },
-  "Continuous Improvement": {
-    "category": "Continuous Improvement",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses optimizing the process of reserving an agent for builds in TFS, which implies a focus on improving build workflows, though it is primarily technical in nature.",
-    "level": "Ignored"
-  },
   "BetaCodex": {
     "category": "BetaCodex",
     "ai_confidence": 0,
@@ -669,14 +637,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses managing build agents in Team Foundation Server 2012 workflows and does not relate to Scaling Kanban or its principles.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on reserving agents in Team Foundation Server (TFS) for builds, which is not related to Scrum methodologies or practices.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -917,14 +877,6 @@
     "non_ai_confidence": 10,
     "final_score": 3.0,
     "reasoning": "The content focuses primarily on reserving and managing build agents in Team Foundation Server, without discussing lead time as a clear, primary topic.",
-    "level": "Ignored"
-  },
-  "Agility": {
-    "category": "Agility",
-    "ai_confidence": 49,
-    "non_ai_confidence": 0,
-    "final_score": 34.0,
-    "reasoning": "While the content focuses on Team Foundation Server build processes, agent reservation, and snapshots, agility is not the primary topic, and there's minimal discussion specifically related to agile methodologies or practices.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
