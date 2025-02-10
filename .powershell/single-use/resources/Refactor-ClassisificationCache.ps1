@@ -15,7 +15,7 @@ $outputDir = ".\site\content\resources\blog\"
 # Get list of directories and select the first 10
 $resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md"  | Sort-Object { $_ } -Descending | Select-Object -First 300 
 
-$ClassificationType = "categories"
+$ClassificationType = "tags"
 
 switch ($ClassificationType) {
     "categories" {
@@ -64,14 +64,14 @@ $resources | ForEach-Object {
             }
         }
 
-        Write-InfoLog "Original: $($cachedData.Count) items"
+        Write-InfoLog "Original: $($cachedData.PSObject.Properties.Count) items"
    
         $keysToRemove = $cachedData.PSObject.Properties.Name | Where-Object { $_ -notin $catalog.Keys }
         Write-InfoLog "Remove: $($keysToRemove.Count) items"
         foreach ($key in $keysToRemove) {
             $cachedData.PSObject.Properties.Remove($key)
         }
-        Write-InfoLog "After: $($cachedData.Count) items"
+        Write-InfoLog "After: $($cachedData.PSObject.Properties.Count) items"
         $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
    
 
