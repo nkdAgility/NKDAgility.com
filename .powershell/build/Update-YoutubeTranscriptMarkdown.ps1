@@ -13,7 +13,7 @@ function Get-CaptionsText {
     # Check if the description needs updating
    
     # Generate a new or enhanced description using OpenAI
-    $prompt = "Turn this youtube transcript into readable markdown using only the original words of the transcript in the language of the transcript. Dont add titles, but do add capitalisation and punctuation. \n\n $captionsText"
+    $prompt = "Turn this youtube transcript into readable markdown using only the original words of the transcript in the language of the transcript. Dont add titles, but do add capitalisation and punctuation. The speakers name is Martin Hinshelwood and the company is NKDAgility or Naked Agility. \n\n $captionsText"
     $newDescription = Get-OpenAIResponse -Prompt $prompt
     return $newDescription
 }
