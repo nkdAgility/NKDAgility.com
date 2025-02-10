@@ -26,6 +26,10 @@ $resourceTypeCounts = @{}
 $TotalFiles = $resources.Count
 $Counter = 0
 
+
+
+
+
 $resources | ForEach-Object {
 
     $Counter++
@@ -39,4 +43,18 @@ $resources | ForEach-Object {
 
     Remove-ClassificationsFromCache -ClassificationsToRemove @("Value Stream Management", "Value Prioritisation", "Test Strategy", "Technical Strategy", "Systemic Thinking", "Strategic", "Software Increment", "Site Reliability", "Release Planning", "Predictability in Kanban", "Organisational Transformational Mastery", "Nonlinear Dynamics", "Lean UX", "Lean Agile", "Leadership Training", "Kanban Training", "Kanban Theory", "Kanban", "Kanban Process", "Kanban Flow", "Kanban Coaching", "Homepage", "Evidence Based Improvement", "Data Driven Decisions", "Continuos Delivery", "Complexity Science", "Agile Tools", "Agile Software Engineering", "Agile Software Development", "Agile Scaling", "Agile Resource Management", "Agile Project Management", "Agile Product Validation", "Agile Product Ownership", "Agile Product Management", "Discovery and Learning", "Agile Product Discovery", "Sprint Review Workshops", "Sprint Review Workshops", "Agile Portfolio Management", "Agile Certifications") -CacheFolder $resourceDir -ClassificationType "tags"
     #Remove-ClassificationsFromCacheThatLookBroken -ClassificationCatalog $tagsCatalog -CacheFolder $resourceDir -ClassificationType "tags"
+}
+
+
+
+function Get-CatalogHashtable {
+    param (
+        [string]$FolderPath = "site\content",
+        [string]$Classification
+    )
+
+    # Get the metadata (assumed to be an array of objects)
+    $catalog = 
+
+    return $catalogHash
 }
