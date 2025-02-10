@@ -8,41 +8,43 @@ date: 2025-02-13T09:00:00
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
-- name: Benjamin Day
-  external: https://www.linkedin.com/in/benjaminpday/
-- name: Dave Westgarth
-  external: https://www.linkedin.com/in/dave-westgarth/
+  - name: Benjamin Day
+    external: https://www.linkedin.com/in/benjaminpday/
+  - name: Dave Westgarth
+    external: https://www.linkedin.com/in/dave-westgarth/
+  - name: Vladimir Khvostov
+    external: https://www.linkedin.com/in/vladimirkhvostov/
 layout: blog
 resourceTypes: blog
 slug: testing-in-production-maximises-quality-and-value
 aliases:
-- /resources/_ncZFfeCrnS
+  - /resources/_ncZFfeCrnS
 aliasesFor404:
-- /testing-in-production-maximises-quality-and-value
-- /blog/testing-in-production-maximises-quality-and-value
+  - /testing-in-production-maximises-quality-and-value
+  - /blog/testing-in-production-maximises-quality-and-value
 tags:
-- Azure DevOps
-- CI/CD
-- Continuous Delivery
-- Continuous Improvement
-- Customer Feedback Loops
-- Deployment Strategies
-- DevOps
-- Engineering Excellence
-- Experimentation
-- Software Development
-- Strategic
-- Technical Strategy
-- Value Delivery
-- Windows
-- Working Software
+  - Azure DevOps
+  - CI/CD
+  - Continuous Delivery
+  - Continuous Improvement
+  - Customer Feedback Loops
+  - Deployment Strategies
+  - DevOps
+  - Engineering Excellence
+  - Experimentation
+  - Software Development
+  - Strategic
+  - Technical Strategy
+  - Value Delivery
+  - Windows
+  - Working Software
 categories:
-- DevOps
-- Product Delivery
-- Value Delivery
+  - DevOps
+  - Product Delivery
+  - Value Delivery
 preview: 2025-02-06-testing-in-production-maximises-quality-and-value.jpg
-
 ---
+
 Testing in production, is about structured, observable releases that allow for fast feedback, controlled exposure, and rapid course correction, ensuring quality without sacrificing speed.
 
 One such paradigm shift in software delivery is audience-based deployment.
@@ -51,11 +53,13 @@ Gone are the days of rigid Dev-Test-Staging-Production pipelines. These [traditi
 
 Instead, modern software engineering demands a smarter approach: deploying directly to real users in production but in a controlled, incremental manner.
 
-Audience-based deployment, sometimes known as **ring-based deployment**, is one way to enable continuous delivery while maintaining control over the blast radius of any potential issue. Rather than deploying to artificial environments that fail to reflect real-world complexity, audience-based deployment allows teams to release software to small, targeted user groups. This approach enables:
+For those familiar with ring-based deployment, audience-based deployment is not a new concept; it expands on it. Ring-based deployment is a proven strategy, widely used at scale by companies like Microsoft with products like Windows and Microsoft Teams. Audience-based deployment simply extends this principle by providing even finer-grained control over who gets access to a given change based on account types, user profiles, or organisational groups. This approach allows teams, like the Azure DevOps team, to release software to small, targeted user groups, enabling faster feedback, reduced blast radius, and progressive rollout strategies.
+
+This approach enables:
 
 - **Faster feedback** from real-world conditions, not simulated test environments.
 - **Reduced blast radius** by limiting exposure of potentially risky changes.
-- **Progressive rollout & rollback strategies**, improving resilience and adaptability.
+- **Progressive rollout strategies**, improving resilience and adaptability.
 
 ### Retaining Context Without Environmental Branching
 
@@ -67,11 +71,11 @@ While you may need to retain some environmental context for compliance or operat
 
 By shifting away from rigid environment-based branching, teams can iterate faster and detect issues in real-world scenarios without unnecessary overhead.
 
-I don't think this is easy; it's not. Teams making this shift face teething problems; adapting workflows, enhancing observability, and upskilling in DevOps and CI/CD practices. Success here isn't just technical; it's cultural. Organisations must embrace automation, foster real-time monitoring capabilities, and embed progressive delivery into their engineering ethos. It requires significant discipline and a relentless focus on the unable working product that many teams just don't have.
+I don't think this is easy; it's not. Teams making this shift face teething problems; adapting workflows, enhancing observability, and upskilling in DevOps and CI/CD practices. Success here isn't just technical; it's cultural. Organisations must embrace automation, foster real-time monitoring capabilities, and embed progressive delivery into their engineering ethos. It requires significant discipline and a relentless focus on the usable working product that many teams just don't have.
 
 ### How Microsoft Transformed Deployment
 
-Microsoft’s transformation to DevOps and audience-based deployment has been an industry-defining journey, starting with the Visual Studio and Team Foundation Server teams in the Developer Division and later extending to Windows and Office.
+Microsoft’s transformation to DevOps and audience-based deployment has been an industry-defining journey, starting with the Visual Studio and Azure DevOps (was Team Foundation Server) teams in the Developer Division and later extending to Windows and Office.
 
 **Key Lessons from Microsoft’s Evolution:**
 
@@ -87,7 +91,7 @@ If you want to build products that meet your customer's needs, then you need to 
 
 Audience-based deployment allows you to control which users and which accounts get access to new features. This means that you can start to engage with early adopters even within an organisation where most users are late adopters.
 
-This connection to the users, the telemetry it provides, and the closeness of the feedback to the build that allows you to maximise the value, the roi, of the work that you do is the business reason to move in this direction.
+This connection to the users, the telemetry it provides, and the closeness of the feedback to the build that allows you to maximise the value, the ROI, of the work that you do is the business reason to move in this direction.
 
 ## The Azure DevOps team revolutionised Microsoft’s approach.
 
@@ -143,6 +147,10 @@ The alternative? **Deploying directly to your users, but smartly.**
 ### Making the Shift: Key Strategies for Audience-Based Deployment
 
 We first need to accept that rolling forward is the only viable option! If a team has just failed to roll forward, what makes us think they have the skills to execute the more complex task of rolling back? Rolling back is often more risky than pushing a fix forward, as it can introduce inconsistencies, data mismatches, and unexpected failures. The key is to **design rollouts to be fail-safe**, ensuring issues are detected early and addressed immediately without needing a complex rollback process.
+
+> "I was a big proponent of the rolling forward strategy. 10+ years ago, I said that if a team screwed up a database upgrade, most likely they will not succeed with a database downgrade. Sometimes downgrade means data loss." -Vladimir Khvostov, Principal Software Engineer at Microsoft - Azure DevOps
+
+The Azure DevOps team follows a structured rollback approach when deploying. They upgrade binaries first by creating new VMs and switching traffic to them while keeping old VMs running for three hours. This way, if any user-impacting issues arise, they can quickly redirect traffic back to the previous version. After three hours, they deallocate, but do not delete, the old VMs—leaving an emergency window open! This type of limited rollback strategy is a key part of their deployment process.
 
 Want to embrace audience-based deployment? Here’s how:
 
