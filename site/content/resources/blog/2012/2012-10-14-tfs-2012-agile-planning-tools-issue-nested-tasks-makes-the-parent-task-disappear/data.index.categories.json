@@ -31,14 +31,6 @@
     "reasoning": "Content primarily discusses the breakdown of Product Backlog Items and the implications of using nested tasks within Agile Planning tools, which aligns closely with strategies for iterative discovery and delivery in Agile product management.",
     "level": "Secondary"
   },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Agile planning tools and the breakdown of Product Backlog Items, which are relevant to DevOps practices, but the primary focus is on specific issues with TFS rather than a broader integration of engineering, operations, and security.",
-    "level": "Ignored"
-  },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
     "ai_confidence": 50,
@@ -53,14 +45,6 @@
     "non_ai_confidence": 0,
     "final_score": 35.0,
     "reasoning": "The content discusses the breakdown of Product Backlog Items and the implications of task management within Agile frameworks, indicating an understanding of interdependencies and systemic behaviour in project management.",
-    "level": "Ignored"
-  },
-  "Kanban": {
-    "category": "Kanban",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Agile Planning tools and the management of Product Backlog Items and tasks, which are relevant to Kanban principles, but the primary focus is on specific issues with TFS tools rather than Kanban as a strategy.",
     "level": "Ignored"
   },
   "Lean": {
@@ -213,22 +197,6 @@
     "non_ai_confidence": 0,
     "final_score": 52.0,
     "reasoning": "The content discusses the interaction between Agile planning tools and team workflows, highlighting how organisational structures affect software delivery. However, it primarily focuses on specific issues with TFS tools rather than a broader sociotechnical analysis.",
-    "level": "Secondary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the breakdown of Product Backlog Items and the implications for Agile Planning tools, which are central to Scrum methodology.",
-    "level": "Secondary"
-  },
-  "Azure DevOps": {
-    "category": "Azure DevOps",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content primarily discusses the use of Team Foundation Server (TFS) for Agile planning, including nested tasks and Product Backlog Items, which are central to Azure DevOps functionalities.",
     "level": "Secondary"
   },
   "Value Delivery": {

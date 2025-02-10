@@ -111,14 +111,6 @@
     "reasoning": "While the content mainly discusses Team Foundation Server and project management considerations, it references Agile methodologies and best practices which align with Lean principles, thus making Lean a major but secondary theme in the content.",
     "level": "Ignored"
   },
-  "Kanban": {
-    "category": "Kanban",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions Kanban briefly while discussing Team Foundation Server and project management, indicating it as one of several methodologies but does not focus primarily on it.",
-    "level": "Secondary"
-  },
   "Market Adaptability": {
     "category": "Market Adaptability",
     "ai_confidence": 50,
@@ -149,14 +141,6 @@
     "non_ai_confidence": 0,
     "final_score": 56.0,
     "reasoning": "Content primarily focuses on the integration of technical systems with team dynamics and management processes in a collaborative software environment, discussing roles, workflows, and design considerations within Team Foundation Server.",
-    "level": "Secondary"
-  },
-  "Azure DevOps": {
-    "category": "Azure DevOps",
-    "ai_confidence": 95,
-    "non_ai_confidence": 0,
-    "final_score": 66.0,
-    "reasoning": "Content primarily focuses on the usage and design considerations of Team Foundation Server 2012, which is a key component of Azure DevOps. Most of the content is dedicated to explaining how to effectively work within a Team Project in TFS, aligning closely with Azure DevOps practices.",
     "level": "Secondary"
   },
   "Practical Techniques and Tooling": {
@@ -191,14 +175,6 @@
     "reasoning": "The content primarily discusses design considerations and implementation strategies for using Team Foundation Server 2012 within a single team project context. Metrics and learning aspects are only tangentially covered in relation to workflow automation and security hierarchies, which is not sufficient for classification.",
     "level": "Ignored"
   },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 88,
-    "non_ai_confidence": 0,
-    "final_score": 62.0,
-    "reasoning": "The content primarily discusses the use of Team Foundation Server (TFS) 2012, which is a tool often associated with DevOps practices, emphasizing design considerations, workflows, and automation that impact software development and delivery processes.",
-    "level": "Secondary"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "ai_confidence": 50,
@@ -222,14 +198,6 @@
     "final_score": 31.0,
     "reasoning": "The content focuses primarily on technical aspects of Team Foundation Server and project management, with limited relevance to organisational psychology.",
     "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 59,
-    "non_ai_confidence": 50,
-    "final_score": 56.0,
-    "reasoning": "The content discusses team structures and project management within Team Foundation Server, mentioning Scrum as one of the methodologies but not focusing primarily on it.",
-    "level": "Secondary"
   },
   "Products and Books": {
     "category": "Products and Books",

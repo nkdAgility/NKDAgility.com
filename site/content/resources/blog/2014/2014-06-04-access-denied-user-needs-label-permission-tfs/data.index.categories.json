@@ -15,14 +15,6 @@
     "reasoning": "The content primarily discusses a technical issue related to TFS permissions and configuration, with only a minor mention of security measures that could relate to enterprise agility.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses TFS (Team Foundation Server) permissions and configuration issues, with no clear focus on Scrum principles, roles, or events.",
-    "level": "Ignored"
-  },
   "Scaling Agility": {
     "category": "Scaling Agility",
     "ai_confidence": 30,
@@ -79,14 +71,6 @@
     "reasoning": "The content primarily discusses a specific technical issue related to TFS permissions and user access, with only a minor mention of broader complexity considerations in user roles and security measures.",
     "level": "Ignored"
   },
-  "Azure DevOps": {
-    "category": "Azure DevOps",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses TFS (Team Foundation Server), which is a key component of Azure DevOps, focusing on permissions and configuration issues related to team projects.",
-    "level": "Secondary"
-  },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
     "ai_confidence": 80,
@@ -94,14 +78,6 @@
     "final_score": 59.0,
     "reasoning": "Content primarily discusses learning from a specific issue encountered in TFS, highlighting new insights and solutions related to permissions and label management.",
     "level": "Secondary"
-  },
-  "Kanban": {
-    "category": "Kanban",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses TFS permissions and label management, with no clear focus on Kanban principles or practices.",
-    "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -238,14 +214,6 @@
     "final_score": 24.0,
     "reasoning": "The content primarily discusses a specific issue related to permissions in TFS and does not focus on metrics or learning as a central theme.",
     "level": "Ignored"
-  },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "Content discusses TFS permissions and security measures related to team projects, which are relevant to DevOps practices, but the primary focus is on a specific issue rather than broader DevOps concepts.",
-    "level": "Secondary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",

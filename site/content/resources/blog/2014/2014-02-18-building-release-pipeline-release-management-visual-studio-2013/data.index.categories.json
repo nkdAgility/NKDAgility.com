@@ -15,14 +15,6 @@
     "reasoning": "Content primarily discusses the importance of continuous delivery and release management in the context of enterprise software development, highlighting the need for agility in both development and operational processes.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses release management and continuous delivery in the context of Visual Studio 2013, with no clear focus on Scrum principles, roles, or events.",
-    "level": "Ignored"
-  },
   "Scaling Agility": {
     "category": "Scaling Agility",
     "ai_confidence": 92,
@@ -79,28 +71,12 @@
     "reasoning": "The content discusses the intricacies of building a release pipeline and the interplay between development and operations, which aligns with complexity thinking as it addresses the challenges and dynamics of software delivery processes.",
     "level": "Ignored"
   },
-  "Azure DevOps": {
-    "category": "Azure DevOps",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content primarily focuses on building a release pipeline using Visual Studio 2013, discussing continuous release, deployment processes, and the integration of development and operations, which are central themes in Azure DevOps.",
-    "level": "Secondary"
-  },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
     "final_score": 38.0,
     "reasoning": "The content discusses the concepts of release management and continuous delivery, which involve learning and adapting processes in software development. However, the primary focus is on technical implementation rather than discovery and learning as a central theme.",
-    "level": "Ignored"
-  },
-  "Kanban": {
-    "category": "Kanban",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses release management and continuous delivery in the context of Visual Studio 2013, with no clear focus on Kanban principles or practices.",
     "level": "Ignored"
   },
   "Decision Theory": {
@@ -237,14 +213,6 @@
     "non_ai_confidence": 20,
     "final_score": 70.0,
     "reasoning": "Content primarily focuses on the importance of metrics such as test coverage, code churn, and performance counters in the context of a release pipeline, emphasising the role of data in improving software quality and delivery processes.",
-    "level": "Secondary"
-  },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 92,
-    "non_ai_confidence": 50,
-    "final_score": 79.0,
-    "reasoning": "Content primarily focuses on building a release pipeline and integrating development and operations, which are central themes in DevOps.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {

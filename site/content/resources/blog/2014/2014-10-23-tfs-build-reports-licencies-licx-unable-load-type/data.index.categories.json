@@ -15,14 +15,6 @@
     "reasoning": "The content discusses challenges related to configuring a build server and the importance of automated builds, which are relevant to enterprise agility, but the primary focus is on technical issues rather than agility principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to build configuration and errors in a software development context, with no clear focus on Scrum practices, roles, or events.",
-    "level": "Ignored"
-  },
   "Scaling Agility": {
     "category": "Scaling Agility",
     "ai_confidence": 50,
@@ -79,28 +71,12 @@
     "reasoning": "The content primarily discusses technical issues related to build processes and software configuration, with only a minor mention of the complexities involved in managing multiple components and versions.",
     "level": "Ignored"
   },
-  "Azure DevOps": {
-    "category": "Azure DevOps",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses issues related to configuring a build server in TFS (Team Foundation Server), which is a key component of Azure DevOps, and the challenges faced during the build process.",
-    "level": "Secondary"
-  },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 24.0,
     "reasoning": "The content primarily discusses technical issues related to build processes and error resolution in software development, with only a minor mention of learning from experiences.",
-    "level": "Ignored"
-  },
-  "Kanban": {
-    "category": "Kanban",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to configuring a build server and resolving errors in a software development context, with no clear focus on Kanban principles or practices.",
     "level": "Ignored"
   },
   "Decision Theory": {
@@ -238,14 +214,6 @@
     "final_score": 3.0,
     "reasoning": "The content primarily discusses issues related to build processes and configuration in TFS, with no clear focus on metrics or learning.",
     "level": "Ignored"
-  },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses issues related to configuring a build server, resolving build errors, and the importance of continuous integration (CI) in a development environment.",
-    "level": "Secondary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",

@@ -15,14 +15,6 @@
     "reasoning": "The content primarily discusses a technical issue related to TFS and work item tracking, with only a minor mention of Agile Planning tools, which does not make Enterprise Agility the central theme.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a technical issue related to TFS (Team Foundation Server) and custom process templates, with no clear focus on Scrum principles, roles, or events.",
-    "level": "Ignored"
-  },
   "Scaling Agility": {
     "category": "Scaling Agility",
     "ai_confidence": 30,
@@ -79,28 +71,12 @@
     "reasoning": "The content primarily discusses a technical issue related to TFS and work item tracking, with no clear focus on complexity thinking.",
     "level": "Ignored"
   },
-  "Azure DevOps": {
-    "category": "Azure DevOps",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content primarily discusses an issue related to TFS (Team Foundation Server), which is a key component of Azure DevOps, including troubleshooting and solutions for work item tracking.",
-    "level": "Secondary"
-  },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 24.0,
     "reasoning": "The content primarily discusses a technical issue related to TFS and debugging, with a focus on problem-solving rather than discovery or learning as a central theme.",
-    "level": "Ignored"
-  },
-  "Kanban": {
-    "category": "Kanban",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a technical issue related to TFS (Team Foundation Server) and work item tracking, with no clear focus on Kanban principles or practices.",
     "level": "Ignored"
   },
   "Decision Theory": {
@@ -237,14 +213,6 @@
     "non_ai_confidence": 10,
     "final_score": 3.0,
     "reasoning": "The content primarily discusses a technical issue related to TFS and custom process templates, with no clear focus on metrics or learning.",
-    "level": "Ignored"
-  },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 49.0,
-    "reasoning": "The content discusses issues related to customising a process template in TFS, which is relevant to DevOps practices, but the primary focus is on troubleshooting a specific error rather than broader DevOps concepts.",
     "level": "Ignored"
   },
   "Transparency and Accountability": {

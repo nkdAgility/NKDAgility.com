@@ -15,14 +15,6 @@
     "reasoning": "Content primarily discusses the use of TFS and VSO in an agile context, including workflows and roles in agile planning.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content discusses Scrum roles and workflows in detail, particularly the interactions between the Product Owner, Tester, and Development Team during a bug resolution process.",
-    "level": "Secondary"
-  },
   "Scaling Agility": {
     "category": "Scaling Agility",
     "ai_confidence": 50,
@@ -79,28 +71,12 @@
     "reasoning": "The content primarily discusses a presentation on TFS and VSO, focusing on technical demonstrations and workflows rather than complexity thinking.",
     "level": "Ignored"
   },
-  "Azure DevOps": {
-    "category": "Azure DevOps",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content primarily discusses Team Foundation Server (TFS) and Visual Studio Online (VSO), detailing their features, workflows, and a demo presentation focused on these tools.",
-    "level": "Secondary"
-  },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
     "final_score": 38.0,
     "reasoning": "The content discusses the demonstration of TFS and VSO, which involves learning about new features and workflows, but the primary focus is on the presentation and technical issues rather than on discovery and learning itself.",
-    "level": "Ignored"
-  },
-  "Kanban": {
-    "category": "Kanban",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Team Foundation Server (TFS) and Visual Studio Online (VSO), focusing on demos, workflows, and release management, with no clear emphasis on Kanban principles or practices.",
     "level": "Ignored"
   },
   "Decision Theory": {
@@ -238,14 +214,6 @@
     "final_score": 3.0,
     "reasoning": "The content primarily discusses a presentation on TFS and VSO, focusing on demos, workflows, and technical issues encountered, rather than metrics or learning outcomes.",
     "level": "Ignored"
-  },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the use of TFS and VSO in a DevOps context, including deployment processes and release management, making DevOps a central theme.",
-    "level": "Secondary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",

@@ -15,14 +15,6 @@
     "reasoning": "The content primarily focuses on the installation and configuration of TFS and SharePoint, with no clear discussion on enterprise agility principles or practices.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the installation and configuration of TFS (Team Foundation Server) and SharePoint, with no clear discussion of Scrum principles, roles, or events.",
-    "level": "Ignored"
-  },
   "Scaling Agility": {
     "category": "Scaling Agility",
     "ai_confidence": 50,
@@ -79,28 +71,12 @@
     "reasoning": "The content primarily focuses on the installation and configuration of TFS and SharePoint, with only brief mentions of complexity in the context of database creation and reporting services. Complexity Thinking is not a central theme.",
     "level": "Ignored"
   },
-  "Azure DevOps": {
-    "category": "Azure DevOps",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content primarily focuses on the installation and configuration of TFS (Team Foundation Server), which is a key component of Azure DevOps, detailing the process and challenges faced during the setup.",
-    "level": "Secondary"
-  },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
     "final_score": 38.0,
     "reasoning": "The content provides insights into the installation process of TFS and SharePoint, which includes learning about configurations and troubleshooting, but the primary focus is on the installation steps rather than a broader theme of discovery and learning.",
-    "level": "Ignored"
-  },
-  "Kanban": {
-    "category": "Kanban",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the installation and configuration of TFS 2013.3 and SharePoint, with no clear focus on Kanban principles or practices.",
     "level": "Ignored"
   },
   "Decision Theory": {
@@ -238,14 +214,6 @@
     "final_score": 3.0,
     "reasoning": "The content primarily focuses on the installation and configuration of TFS and SharePoint, with no significant discussion on metrics or learning.",
     "level": "Ignored"
-  },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on the installation and configuration of TFS (Team Foundation Server) and SharePoint, which are integral to DevOps practices, particularly in continuous integration and deployment.",
-    "level": "Secondary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",

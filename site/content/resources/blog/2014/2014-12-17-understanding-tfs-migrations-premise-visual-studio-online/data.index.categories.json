@@ -15,14 +15,6 @@
     "reasoning": "The content primarily discusses TFS migrations and related scenarios, with no clear focus on enterprise agility principles or practices.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses TFS migrations and does not focus on Scrum principles, roles, or events.",
-    "level": "Ignored"
-  },
   "Scaling Agility": {
     "category": "Scaling Agility",
     "ai_confidence": 0,
@@ -71,14 +63,6 @@
     "reasoning": "Content primarily discusses TFS migrations, which are a key aspect of Application Lifecycle Management, particularly in the context of transitioning to Visual Studio Online.",
     "level": "Secondary"
   },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on TFS migrations, which is a key aspect of DevOps practices related to continuous integration and deployment.",
-    "level": "Secondary"
-  },
   "Decision Theory": {
     "category": "Decision Theory",
     "ai_confidence": 0,
@@ -102,14 +86,6 @@
     "final_score": 0.0,
     "reasoning": "The content primarily focuses on TFS migrations and related scenarios, with no clear emphasis on miscellaneous topics.",
     "level": "Ignored"
-  },
-  "Azure DevOps": {
-    "category": "Azure DevOps",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on TFS migrations to Visual Studio Online, which is a key aspect of Azure DevOps services.",
-    "level": "Secondary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
@@ -269,14 +245,6 @@
     "non_ai_confidence": 10,
     "final_score": 38.0,
     "reasoning": "The content discusses various scenarios of TFS migrations, which implies a need for adaptation and change management, but the primary focus is on technical migration processes rather than resilience or change as a central theme.",
-    "level": "Ignored"
-  },
-  "Kanban": {
-    "category": "Kanban",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses TFS migrations and does not focus on Kanban as a central theme.",
     "level": "Ignored"
   }
 }

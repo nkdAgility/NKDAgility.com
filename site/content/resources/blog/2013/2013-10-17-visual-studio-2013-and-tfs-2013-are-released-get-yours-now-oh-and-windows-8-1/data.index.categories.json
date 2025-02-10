@@ -15,14 +15,6 @@
     "reasoning": "The content primarily focuses on the release of Visual Studio 2013 and Team Foundation Server 2013, with only brief mentions of Agile practices and tools, making Enterprise Agility a minor theme.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions upgrading to the Visual Studio Scrum 3.0 process template in TFS 2013, indicating a secondary theme related to Scrum.",
-    "level": "Secondary"
-  },
   "Scaling Agility": {
     "category": "Scaling Agility",
     "ai_confidence": 50,
@@ -79,28 +71,12 @@
     "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, along with related updates and features. Complexity Thinking is not a central theme.",
     "level": "Ignored"
   },
-  "Azure DevOps": {
-    "category": "Azure DevOps",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses Team Foundation Server (TFS) 2013, which is a key component of Azure DevOps, along with Visual Studio 2013, indicating a strong focus on Azure DevOps tools and features.",
-    "level": "Secondary"
-  },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 24.0,
     "reasoning": "The content primarily focuses on the release and features of Visual Studio 2013 and TFS 2013, with only brief mentions of learning resources and experiences, making discovery and learning a minor theme.",
-    "level": "Ignored"
-  },
-  "Kanban": {
-    "category": "Kanban",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, with no clear focus on Kanban methodologies or practices.",
     "level": "Ignored"
   },
   "Decision Theory": {
@@ -238,14 +214,6 @@
     "final_score": 3.0,
     "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, along with installation and upgrade experiences, rather than focusing on metrics or learning.",
     "level": "Ignored"
-  },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the release and features of Visual Studio 2013 and Team Foundation Server 2013, which are key tools in the DevOps ecosystem, focusing on application lifecycle management (ALM) and integration.",
-    "level": "Secondary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",

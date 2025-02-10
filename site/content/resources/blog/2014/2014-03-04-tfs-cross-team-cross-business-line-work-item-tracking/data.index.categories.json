@@ -15,14 +15,6 @@
     "reasoning": "Content primarily discusses the implementation of Team Foundation Server (TFS) to enhance collaboration and efficiency across multiple teams and projects, which aligns closely with the principles of Enterprise Agility.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses project management and team collaboration issues within TFS, which are relevant to Scrum practices, but it is primarily focused on TFS functionality rather than Scrum itself.",
-    "level": "Ignored"
-  },
   "Scaling Agility": {
     "category": "Scaling Agility",
     "ai_confidence": 85,
@@ -79,28 +71,12 @@
     "reasoning": "The content discusses the complexities of managing multiple teams and projects within TFS, highlighting the need for a more integrated approach. However, the primary focus is on TFS functionality rather than a deep exploration of complexity thinking itself.",
     "level": "Ignored"
   },
-  "Azure DevOps": {
-    "category": "Azure DevOps",
-    "ai_confidence": 95,
-    "non_ai_confidence": 0,
-    "final_score": 66.0,
-    "reasoning": "The content primarily discusses the use of Team Foundation Server (TFS), which is a key component of Azure DevOps, focusing on work item tracking, team project management, and solutions for cross-team collaboration.",
-    "level": "Secondary"
-  },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
     "final_score": 38.0,
     "reasoning": "The content discusses solutions and requirements for using TFS effectively, which includes learning about its functionalities and addressing common issues. However, the primary focus is on practical implementation rather than a clear exploration of discovery and learning as a central theme.",
-    "level": "Ignored"
-  },
-  "Kanban": {
-    "category": "Kanban",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the use of Team Foundation Server (TFS) for work item tracking and project management across multiple teams, focusing on issues related to team projects and their management rather than Kanban methodology.",
     "level": "Ignored"
   },
   "Decision Theory": {
@@ -238,14 +214,6 @@
     "final_score": 38.0,
     "reasoning": "The content discusses the implementation of solutions within TFS to improve work item tracking and reporting, which relates to metrics and learning, but the primary focus is on the challenges and solutions for team project management rather than metrics themselves.",
     "level": "Ignored"
-  },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the use of Team Foundation Server (TFS) for managing work items and collaboration across multiple teams, which is central to DevOps practices.",
-    "level": "Secondary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",

@@ -307,9 +307,9 @@ do not wrap the json in anything else, just return the json object.
     }
 }
 
-function Remove-CategoryFromCache {
+function Remove-ClassificationsFromCache {
     param (
-        [string]$CategoryToRemove,
+        [string[]]$ClassificationsToRemove,
         [string]$CacheFolder,
         [string]$ClassificationType = "classification"
     )
@@ -332,17 +332,27 @@ function Remove-CategoryFromCache {
         return
     }
 
-    # Check if the category exists in the cache
-    if ($cachedData.PSObject.Properties[$CategoryToRemove]) {
-        # Remove the category
-        $cachedData.PSObject.Properties.Remove($CategoryToRemove)
+    $removedCount = 0
 
-        # Save the updated cache back to the file
+    # Iterate through each classification to remove
+    foreach ($classification in $ClassificationsToRemove) {
+        if ($cachedData.PSObject.Properties[$classification]) {
+            # Remove the classification from cache
+            $cachedData.PSObject.Properties.Remove($classification)
+            $removedCount++
+            Write-Host "Removed classification '$classification' from cache."
+        }
+        else {
+            Write-Warning "Classification '$classification' not found in cache. Skipping."
+        }
+    }
+
+    # Save the updated cache if any classifications were removed
+    if ($removedCount -gt 0) {
         $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
-
-        Write-Host "Category '$CategoryToRemove' removed successfully from cache."
+        Write-Host "Cache file updated successfully with $removedCount removals."
     }
     else {
-        Write-Warning "Category '$CategoryToRemove' not found in cache. No action taken."
+        Write-Warning "No classifications were removed. Cache remains unchanged."
     }
 }

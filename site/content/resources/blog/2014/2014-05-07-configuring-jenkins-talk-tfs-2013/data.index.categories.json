@@ -15,14 +15,6 @@
     "reasoning": "The content discusses the transition of source code management to TFS and highlights the importance of integrating builds and work items, which are relevant to enterprise agility, but the primary focus is on technical configuration rather than agility principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses configuring Jenkins to work with TFS, focusing on technical details and processes rather than Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Scaling Agility": {
     "category": "Scaling Agility",
     "ai_confidence": 50,
@@ -79,28 +71,12 @@
     "reasoning": "The content primarily focuses on configuring Jenkins to work with TFS, detailing technical steps and processes without a central theme of complexity thinking.",
     "level": "Ignored"
   },
-  "Azure DevOps": {
-    "category": "Azure DevOps",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on configuring Jenkins to integrate with TFS, which is a key component of Azure DevOps, and discusses various aspects of TFS functionality.",
-    "level": "Secondary"
-  },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
     "final_score": 3.0,
     "reasoning": "The content primarily focuses on configuring Jenkins to work with TFS, detailing technical steps and processes rather than exploring concepts of discovery or learning.",
-    "level": "Ignored"
-  },
-  "Kanban": {
-    "category": "Kanban",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses configuring Jenkins to work with TFS, focusing on build processes and source code management, with no clear emphasis on Kanban principles or practices.",
     "level": "Ignored"
   },
   "Decision Theory": {
@@ -238,14 +214,6 @@
     "final_score": 38.0,
     "reasoning": "The content discusses the transition to TFS and highlights some metrics related to build processes and test impact analysis, but the primary focus is on configuring Jenkins and TFS rather than on metrics and learning itself.",
     "level": "Ignored"
-  },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content primarily focuses on configuring Jenkins to integrate with TFS, which is a key aspect of DevOps practices related to continuous integration and deployment.",
-    "level": "Secondary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",

@@ -143,22 +143,6 @@
     "reasoning": "The content primarily discusses a specific event related to Visual Studio ALM, but it also touches on various features and topics that could be considered miscellaneous in nature.",
     "level": "Ignored"
   },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses features related to Visual Studio and Agile methodologies, which are relevant to DevOps practices, but the primary focus is on a user group event rather than DevOps itself.",
-    "level": "Ignored"
-  },
-  "Azure DevOps": {
-    "category": "Azure DevOps",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "Content discusses features related to Visual Studio ALM, including Work Item Tracking, Kanban Columns, and Teams, which are relevant to Azure DevOps, but the primary focus is on an event rather than Azure DevOps itself.",
-    "level": "Secondary"
-  },
   "Products and Books": {
     "category": "Products and Books",
     "ai_confidence": 50,
@@ -166,14 +150,6 @@
     "final_score": 38.0,
     "reasoning": "The content discusses features of Visual Studio 2012 Update 2, making it a major theme, but the primary focus is on the user group event rather than the product itself.",
     "level": "Ignored"
-  },
-  "Kanban": {
-    "category": "Kanban",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 71.0,
-    "reasoning": "Content primarily discusses Kanban Columns as a feature in Visual Studio, indicating a strong focus on Kanban methodology within the context of work item tracking.",
-    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -237,14 +213,6 @@
     "non_ai_confidence": 10,
     "final_score": 38.0,
     "reasoning": "The content discusses an upcoming user group event and features related to Visual Studio, making it a major but secondary theme.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Kanban, which is related to Agile methodologies, including Scrum, but the primary focus is on Visual Studio features rather than Scrum itself.",
     "level": "Ignored"
   },
   "Metrics and Learning": {

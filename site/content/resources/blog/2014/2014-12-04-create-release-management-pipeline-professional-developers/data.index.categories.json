@@ -15,14 +15,6 @@
     "reasoning": "Content primarily focuses on creating a Release Management pipeline, which is a key aspect of agile practices in enterprise environments, particularly in relation to DevOps and continuous deployment.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses aspects of team collaboration and feedback loops, which are relevant to Scrum, but the primary focus is on Release Management and DevOps processes.",
-    "level": "Ignored"
-  },
   "Scaling Agility": {
     "category": "Scaling Agility",
     "ai_confidence": 85,
@@ -79,28 +71,12 @@
     "reasoning": "The content discusses the intricacies of setting up a Release Management pipeline, which involves understanding complex systems and interactions, but it primarily focuses on practical implementation rather than a theoretical exploration of complexity thinking.",
     "level": "Ignored"
   },
-  "Azure DevOps": {
-    "category": "Azure DevOps",
-    "ai_confidence": 95,
-    "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on creating a Release Management pipeline using Azure DevOps tools, detailing the setup, configuration, and deployment processes within the Azure environment.",
-    "level": "Secondary"
-  },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
     "final_score": 38.0,
     "reasoning": "The content discusses the process of creating a Release Management pipeline, which involves learning about various tools and techniques in software development. However, the primary focus is on the technical implementation rather than on discovery and learning as a central theme.",
-    "level": "Ignored"
-  },
-  "Kanban": {
-    "category": "Kanban",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating a Release Management pipeline and does not discuss Kanban as a central topic.",
     "level": "Ignored"
   },
   "Decision Theory": {
@@ -238,14 +214,6 @@
     "final_score": 3.0,
     "reasoning": "The content primarily focuses on creating a Release Management pipeline and configuring environments, with minimal emphasis on metrics or learning outcomes.",
     "level": "Ignored"
-  },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 95,
-    "non_ai_confidence": 50,
-    "final_score": 82.0,
-    "reasoning": "Content primarily focuses on creating a Release Management pipeline, detailing the steps for automated deployments, build definitions, and environment configurations, which are central to DevOps practices.",
-    "level": "Primary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",

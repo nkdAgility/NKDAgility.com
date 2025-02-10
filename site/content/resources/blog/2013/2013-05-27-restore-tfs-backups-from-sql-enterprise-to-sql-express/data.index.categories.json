@@ -143,36 +143,12 @@
     "reasoning": "The content primarily focuses on troubleshooting SQL Server database restoration issues related to specific features of SQL Server editions and does not present a clear primary discussion about miscellaneous topics.",
     "level": "Ignored"
   },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 65,
-    "non_ai_confidence": 0,
-    "final_score": 46.0,
-    "reasoning": "Content discusses restoring TFS backups and issues related to SQL Server editions, which are relevant in a DevOps context, particularly in CI/CD and infrastructure management, but it focuses primarily on SQL Server rather than on DevOps practices or principles.",
-    "level": "Ignored"
-  },
-  "Azure DevOps": {
-    "category": "Azure DevOps",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily addresses issues related to Team Foundation Server (TFS) backups and their compatibility with SQL Server editions, which are directly linked to Azure DevOps services.",
-    "level": "Secondary"
-  },
   "Products and Books": {
     "category": "Products and Books",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
     "final_score": 3.0,
     "reasoning": "The content primarily discusses technical issues related to restoring TFS backups and SQL Server editions, with no mention of products or books as a central theme.",
-    "level": "Ignored"
-  },
-  "Kanban": {
-    "category": "Kanban",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to restoring TFS backups and SQL Server editions, with no mention or relevance to Kanban methodologies or practices.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -237,14 +213,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content focuses entirely on restoring TFS backups from SQL Server Enterprise to SQL Express, discussing technical details and errors related to SQL Server editions without any mention or relevance to organisational agility.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses restoring TFS backups from SQL Enterprise to SQL Express and does not mention Scrum at all.",
     "level": "Ignored"
   },
   "Metrics and Learning": {

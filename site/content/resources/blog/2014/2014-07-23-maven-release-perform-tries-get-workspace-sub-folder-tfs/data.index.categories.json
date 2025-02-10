@@ -15,14 +15,6 @@
     "reasoning": "The content primarily discusses technical issues related to Maven and TFS, with only a brief mention of build environments and user management, which are tangential to the core topic of enterprise agility.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to Maven and TFS, with no clear focus on Scrum principles, roles, or events.",
-    "level": "Ignored"
-  },
   "Scaling Agility": {
     "category": "Scaling Agility",
     "ai_confidence": 45,
@@ -79,28 +71,12 @@
     "reasoning": "The content primarily discusses technical issues related to Maven and TFS, with some mention of build processes and user management, but does not focus on complexity thinking as a central theme.",
     "level": "Ignored"
   },
-  "Azure DevOps": {
-    "category": "Azure DevOps",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses issues and solutions related to using TFS (Team Foundation Server) in the context of Maven releases, which is a key aspect of Azure DevOps.",
-    "level": "Secondary"
-  },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 24.0,
     "reasoning": "The content primarily discusses technical issues related to Maven and TFS, with a focus on build configurations and error resolution, rather than discovery or learning as a central theme.",
-    "level": "Ignored"
-  },
-  "Kanban": {
-    "category": "Kanban",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to Maven and TFS, with no clear focus on Kanban principles or practices.",
     "level": "Ignored"
   },
   "Decision Theory": {
@@ -238,14 +214,6 @@
     "final_score": 3.0,
     "reasoning": "The content primarily discusses issues related to Maven and TFS integration, focusing on build failures and configuration rather than metrics or learning.",
     "level": "Ignored"
-  },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses issues and solutions related to build and release processes using Maven and TFS, which are central to DevOps practices.",
-    "level": "Secondary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",

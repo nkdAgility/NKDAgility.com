@@ -15,14 +15,6 @@
     "reasoning": "Content primarily focuses on ALM consulting, which includes lean-agile training and coaching, indicating a strong emphasis on improving software development processes and organisational agility.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 70,
-    "non_ai_confidence": 50,
-    "final_score": 64.0,
-    "reasoning": "The content discusses Scrum in the context of lean-agile training and coaching, indicating it is a significant theme, but the primary focus is on ALM consulting and related services.",
-    "level": "Secondary"
-  },
   "Scaling Agility": {
     "category": "Scaling Agility",
     "ai_confidence": 80,
@@ -79,28 +71,12 @@
     "reasoning": "The content discusses various aspects of Application Lifecycle Management (ALM) and the complexities involved in software development processes, making complexity thinking a significant but secondary theme.",
     "level": "Ignored"
   },
-  "Azure DevOps": {
-    "category": "Azure DevOps",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on ALM consulting, which includes significant references to TFS (Team Foundation Server) and Visual Studio, both of which are integral to Azure DevOps practices.",
-    "level": "Secondary"
-  },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
     "final_score": 41.0,
     "reasoning": "The content discusses various training and coaching services related to Agile methodologies and ALM, indicating a focus on learning and improvement in software development processes, but it is primarily about consulting services.",
-    "level": "Ignored"
-  },
-  "Kanban": {
-    "category": "Kanban",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses ALM consulting, Scrum, and various software development processes without a clear focus on Kanban.",
     "level": "Ignored"
   },
   "Decision Theory": {
@@ -238,14 +214,6 @@
     "final_score": 41.0,
     "reasoning": "The content discusses various aspects of ALM consulting, including assessments and training, which relate to improving processes and learning. However, the primary focus is on consulting services rather than metrics or learning as a central theme.",
     "level": "Ignored"
-  },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on Application Lifecycle Management (ALM), which is closely related to DevOps practices, including build automation and deployment strategies.",
-    "level": "Secondary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",

@@ -21,8 +21,26 @@ aliasesFor404:
 - /the-new-normal-of-the-modern-application-lifecycle
 - /blog/the-new-normal-of-the-modern-application-lifecycle
 - /resources/blog/the-new-normal-of-the-modern-application-lifecycle
-tags: []
-categories: []
+tags:
+- Agile Methodology
+- Agile Project Management
+- Agile Software Development
+- Agile Software Engineering
+- Agility
+- Application Lifecycle Management
+- Business Agility
+- Change Management
+- Continuous Improvement
+- DevOps
+- People and Process
+- Resilience and Change
+- Software Developers
+- Software Development
+- Working Software
+categories:
+- Application Lifecycle Management
+- DevOps
+- People and Process
 preview: metro-new-normal-icon-28-28.png
 
 ---

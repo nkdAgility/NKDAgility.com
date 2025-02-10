@@ -15,14 +15,6 @@
     "reasoning": "Content primarily discusses the flaws of traditional branch promotion models in software delivery, advocating for continuous integration and delivery practices, which are central to Application Lifecycle Management.",
     "level": "Secondary"
   },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 95,
-    "non_ai_confidence": 50,
-    "final_score": 82.0,
-    "reasoning": "Content primarily discusses the flaws of traditional branching models in software delivery, advocating for modern practices like GitHub Flow and Release Flow, which are central to DevOps principles.",
-    "level": "Primary"
-  },
   "Decision Theory": {
     "category": "Decision Theory",
     "ai_confidence": 0,
@@ -53,14 +45,6 @@
     "non_ai_confidence": 0,
     "final_score": 59.0,
     "reasoning": "Content primarily discusses the flaws of traditional branch promotion models and advocates for continuous integration and delivery practices, which are central to scaling agility in software development.",
-    "level": "Secondary"
-  },
-  "Azure DevOps": {
-    "category": "Azure DevOps",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "Content primarily discusses branching strategies and workflows relevant to Azure DevOps, particularly focusing on GitHub Flow and Release Flow, which are integral to Azure DevOps practices.",
     "level": "Secondary"
   },
   "Metrics and Learning": {
@@ -150,14 +134,6 @@
     "final_score": 64.0,
     "reasoning": "Content primarily discusses the flaws of traditional branch promotion models in software development and advocates for more efficient practices like GitHub Flow and Release Flow, demonstrating a strong focus on improving technical processes.",
     "level": "Secondary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses branching strategies and software delivery models, with no clear focus on Scrum principles, roles, or events.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -269,14 +245,6 @@
     "non_ai_confidence": 20,
     "final_score": 41.0,
     "reasoning": "The content discusses the flaws of traditional branching models and promotes alternative strategies that enhance agility and stability in software delivery, indicating a significant focus on improving processes and adapting to change.",
-    "level": "Ignored"
-  },
-  "Kanban": {
-    "category": "Kanban",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues with branch promotion models and alternatives like GitHub Flow and Release Flow, without a clear focus on Kanban principles or practices.",
     "level": "Ignored"
   }
 }

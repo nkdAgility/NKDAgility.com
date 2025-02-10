@@ -15,14 +15,6 @@
     "reasoning": "Content primarily discusses Agile Project Management and the application lifecycle management (ALM) features of Team Foundation Server, which are central to enterprise agility practices.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Agile Project Management and includes references to Product Backlog Items (PBIs) and sprints, indicating a significant focus on Scrum practices, but it is primarily centred around Team Foundation Server and Visual Studio Online.",
-    "level": "Ignored"
-  },
   "Scaling Agility": {
     "category": "Scaling Agility",
     "ai_confidence": 80,
@@ -79,14 +71,6 @@
     "reasoning": "The content primarily focuses on a presentation about Team Foundation Server and Visual Studio Online, detailing features, scenarios, and demos rather than discussing complexity thinking as a central theme.",
     "level": "Ignored"
   },
-  "Azure DevOps": {
-    "category": "Azure DevOps",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content primarily discusses Team Foundation Server (TFS) and Visual Studio Online (VSO), focusing on their features, use cases, and integration with Azure, making Azure DevOps the central theme.",
-    "level": "Secondary"
-  },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
     "ai_confidence": 85,
@@ -94,14 +78,6 @@
     "final_score": 62.0,
     "reasoning": "The content primarily focuses on a session aimed at educating attendees about the new features and capabilities of Team Foundation Server and Visual Studio Online, encouraging discovery and learning through demonstrations and feedback requests.",
     "level": "Secondary"
-  },
-  "Kanban": {
-    "category": "Kanban",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Agile Project Management and includes references to managing features and bugs, which are relevant to Kanban principles, but the primary focus is on Team Foundation Server and Visual Studio Online.",
-    "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -238,14 +214,6 @@
     "final_score": 38.0,
     "reasoning": "The content discusses features and scenarios related to Team Foundation Server and Visual Studio Online, including aspects of application lifecycle management and feedback mechanisms, which are relevant to metrics and learning, but the primary focus is on the presentation and demo structure rather than metrics themselves.",
     "level": "Ignored"
-  },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on Team Foundation Server (TFS) and Visual Studio Online (VSO) in the context of application lifecycle management (ALM), continuous integration, and deployment processes, which are central themes in DevOps.",
-    "level": "Secondary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",

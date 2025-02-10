@@ -143,22 +143,6 @@
     "reasoning": "The content is primarily focused on troubleshooting specific errors related to Team Foundation Server and Visual Studio, and does not discuss miscellaneous subjects.",
     "level": "Ignored"
   },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 88,
-    "non_ai_confidence": 0,
-    "final_score": 62.0,
-    "reasoning": "Content primarily addresses an issue related to Team Foundation Server, which is a tool commonly used in DevOps practices for version control, project management, and collaboration.",
-    "level": "Secondary"
-  },
-  "Azure DevOps": {
-    "category": "Azure DevOps",
-    "ai_confidence": 95,
-    "non_ai_confidence": 0,
-    "final_score": 66.0,
-    "reasoning": "The content primarily discusses issues and error messages related to Team Foundation Server (TFS), which is a component of Azure DevOps. The focus is on error handling in TFS 2012.2, making it central to the topic.",
-    "level": "Secondary"
-  },
   "Products and Books": {
     "category": "Products and Books",
     "ai_confidence": 80,
@@ -166,14 +150,6 @@
     "final_score": 59.0,
     "reasoning": "The content primarily discusses issues and solutions related to a specific product, Team Foundation Server, and includes recommendations for product updates and links to the relevant product licensing information.",
     "level": "Secondary"
-  },
-  "Kanban": {
-    "category": "Kanban",
-    "ai_confidence": 55,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "While the content primarily discusses errors and bugs related to Team Foundation Server, it mentions Kanban in the context of board settings and integration, indicating that it plays a significant but secondary role in the overall theme.",
-    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -237,14 +213,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses technical issues and fixes related to Team Foundation Server, with no clear focus on organisational agility.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues and solutions related to errors in Team Foundation Server (TFS) and has no clear focus on Scrum methodologies or practices.",
     "level": "Ignored"
   },
   "Metrics and Learning": {

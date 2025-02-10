@@ -15,14 +15,6 @@
     "reasoning": "The content discusses workflow issues and strategies for managing code changes in a team environment, which relates to enterprise agility, but the primary focus is on a specific bug in Visual Studio Git integration.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to Git integration and workflows, with no clear focus on Scrum principles, roles, or events.",
-    "level": "Ignored"
-  },
   "Scaling Agility": {
     "category": "Scaling Agility",
     "ai_confidence": 50,
@@ -79,28 +71,12 @@
     "reasoning": "The content discusses Git workflows and the challenges faced during a transition from a centralized version control system to a distributed one, which involves elements of complexity thinking in managing team dynamics and software strategy.",
     "level": "Ignored"
   },
-  "Azure DevOps": {
-    "category": "Azure DevOps",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content primarily discusses issues related to Git integration within Visual Studio, which is part of the Azure DevOps ecosystem, and outlines a workflow for managing Git branches effectively.",
-    "level": "Secondary"
-  },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
     "final_score": 41.0,
     "reasoning": "The content discusses the learning curve associated with transitioning to Git and the workflow changes necessary for effective use, but the primary focus is on a specific bug and its resolution.",
-    "level": "Ignored"
-  },
-  "Kanban": {
-    "category": "Kanban",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to Git integration and workflows, with no clear focus on Kanban principles or practices.",
     "level": "Ignored"
   },
   "Decision Theory": {
@@ -238,14 +214,6 @@
     "final_score": 6.0,
     "reasoning": "The content primarily discusses a bug in Visual Studio's Git integration and the workflow issues faced by developers, rather than focusing on metrics or learning.",
     "level": "Ignored"
-  },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses Git workflows and issues related to version control, which are central to DevOps practices.",
-    "level": "Secondary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
