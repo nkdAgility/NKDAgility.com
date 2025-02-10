@@ -15,7 +15,7 @@ $outputDir = ".\site\content\resources\blog\"
 # Get list of directories and select the first 10
 $resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md"  | Sort-Object { $_ } -Descending | Select-Object -First 300 
 
-$ClassificationType = "tags"
+$ClassificationType = "categories"
 
 switch ($ClassificationType) {
     "categories" {
@@ -64,14 +64,14 @@ $resources | ForEach-Object {
             }
         }
 
-  
+        Write-InfoLog "Original: $($cachedData.Count) items"
    
         $keysToRemove = $cachedData.PSObject.Properties.Name | Where-Object { $_ -notin $catalog.Keys }
-
+        Write-InfoLog "Remove: $($keysToRemove.Count) items"
         foreach ($key in $keysToRemove) {
-            $cachedData.Remove($key)
+            $cachedData.PSObject.Properties.Remove($key)
         }
-
+        Write-InfoLog "After: $($cachedData.Count) items"
         $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
    
 
@@ -80,15 +80,8 @@ $resources | ForEach-Object {
         Write-InfoLog "Skipping folder: $blogDir (missing index.md)"
     }
     # Track count of ResourceType
-    if ($resourceTypeCounts.ContainsKey($ResourceType)) {
-        $resourceTypeCounts[$ResourceType]++
-    }
-    else {
-        $resourceTypeCounts[$ResourceType] = 1
-    }
+   
 }
 Write-Progress -id 1 -Completed
 Write-InfoLog "All markdown files processed."
 Write-InfoLog "--------------------------------------------------------"
-Write-InfoLog "Summary of updated Resource Types:"
-$resourceTypeCounts.GetEnumerator() | ForEach-Object { Write-InfoLog "$($_.Key): $($_.Value)" }
