@@ -25,12 +25,8 @@ aliasesFor404:
 - /upgrading-to-team-foundation-server-2012-update-1-in-production-–-done
 - /blog/upgrading-to-team-foundation-server-2012-update-1-in-production-–-done
 - /resources/blog/upgrading-to-team-foundation-server-2012-update-1-in-production-done
-tags:
-- Deployment Frequency
-- Agile Tools
-categories:
-- Install and Configuration
-- Azure DevOps
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-15-15.png
 
 ---

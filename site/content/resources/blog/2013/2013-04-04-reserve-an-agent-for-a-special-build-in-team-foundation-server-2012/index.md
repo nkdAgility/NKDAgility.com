@@ -22,11 +22,25 @@ aliasesFor404:
 - /blog/reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
 - /resources/blog/reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
 tags:
-- Agile Software Development
-- DevOps
-categories:
+- Application Lifecycle Management
 - Azure DevOps
-- Install and Configuration
+- Azure Pipelines
+- CI/CD
+- Continuos Integration
+- Continuous Integration
+- Deployment Strategies
+- DevOps
+- Engineering Practices
+- Experimentation
+- Operational Practices
+- Software Developers
+- Software Development
+- System Configuration
+- Working Software
+categories:
+- Application Lifecycle Management
+- Code and Complexity
+- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-11-11.png
 
 ---

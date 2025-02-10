@@ -22,25 +22,25 @@ aliasesFor404:
 - /blog/integrate-reporting-and-analyses-services-with-team-foundation-server-2013
 - /resources/blog/integrate-reporting-and-analyses-services-with-team-foundation-server-2013
 tags:
-- System Configuration
-- Azure DevOps
-- Software Developers
-- Technical Excellence
-- Software Development
-- Application Lifecycle Management
 - Agile Digital Tools
-- DevOps
-- Operational Practices
-- Engineering Practices
-- Value Delivery
-- Technical Mastery
-- Working Software
-- Pragmatic Thinking
+- Application Lifecycle Management
+- Azure DevOps
 - Data Driven Decisions
+- DevOps
+- Engineering Practices
+- Operational Practices
+- Pragmatic Thinking
+- Software Developers
+- Software Development
+- System Configuration
+- Technical Excellence
+- Technical Mastery
+- Value Delivery
+- Working Software
 categories:
+- Azure DevOps
 - Install and Configuration
 - Practical Techniques and Tooling
-- Azure DevOps
 
 ---
 Did you skip reporting and now you want to integrate reporting and analyses services with Team Foundation Server 2013?

@@ -26,10 +26,24 @@ aliasesFor404:
 - /blog/naked-alm--starting-with-why-and-getting-naked
 - /resources/blog/naked-alm-starting-with-why-and-getting-naked
 tags:
+- Agile Problem Solving
+- Agile Product Discovery
+- Agile Product Management
+- Agile Resource Management
+- Agile Software Development
+- Agile Software Engineering
+- Agile Strategy
+- Agility
 - Application Lifecycle Management
-- Customer Satisfaction
+- Change Management
+- Cycle Time
+- Deployment Frequency
+- Resilience and Change
+- Software Development
+- Strategic Goals
 categories:
 - Application Lifecycle Management
+- Discovery and Learning
 - People and Process
 preview: nakedalm-logo-128-link-1-1.png
 

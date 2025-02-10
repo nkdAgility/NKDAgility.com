@@ -29,12 +29,8 @@ aliasesFor404:
 - /professional-scrum-foundations-in-alameda--california
 - /blog/professional-scrum-foundations-in-alameda--california
 - /resources/blog/professional-scrum-foundations-in-alameda-california
-tags:
-- Self Organisation
-- Scrum Team
-categories:
-- Scrum
-- People and Process
+tags: []
+categories: []
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

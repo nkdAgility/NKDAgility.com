@@ -27,11 +27,11 @@ aliasesFor404:
 - /blog/tfs-integration-tools---issue--unable-to-find-a-unique-local-path
 - /tfs-integration-tools
 - /resources/blog/tfs-integration-tools-issue-unable-to-find-a-unique-local-path
-tags:
-- Modern Source Control
-- Technical Debt
+tags: []
 categories:
 - Install and Configuration
+- Practical Techniques and Tooling
+- Technical Excellence
 preview: puzzle-issue-problem-128-link-2-2.png
 
 ---

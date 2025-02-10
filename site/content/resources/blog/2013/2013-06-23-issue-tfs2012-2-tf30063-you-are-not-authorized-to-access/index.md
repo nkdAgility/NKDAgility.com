@@ -26,25 +26,25 @@ aliasesFor404:
 - /blog/issue-[-tfs2012-2-]-tf30063-you-are-not-authorized-to-access
 - /resources/blog/issue-tfs2012-2-tf30063-you-are-not-authorized-to-access
 tags:
-- Troubleshooting
-- DevOps
-- Working Software
-- System Configuration
+- Application Lifecycle Management
 - Azure DevOps
+- DevOps
+- Frequent Releases
+- Modern Source Control
+- Release Planning
 - Software Developers
 - Software Development
-- Release Planning
-- Frequent Releases
 - Software Increment
-- Modern Source Control
+- System Configuration
 - Technical Excellence
-- Windows
 - Technical Mastery
-- Application Lifecycle Management
+- Troubleshooting
+- Windows
+- Working Software
 categories:
-- Install and Configuration
-- Products and Books
 - Azure DevOps
+- Install and Configuration
+- Practical Techniques and Tooling
 preview: puzzle-issue-problem-128-link-3-3.png
 
 ---

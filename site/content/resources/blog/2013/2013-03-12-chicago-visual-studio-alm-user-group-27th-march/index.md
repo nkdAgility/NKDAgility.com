@@ -21,13 +21,8 @@ aliasesFor404:
 - /chicago-visual-studio-alm-user-group-27th-march
 - /blog/chicago-visual-studio-alm-user-group-27th-march
 - /resources/blog/chicago-visual-studio-alm-user-group-27th-march
-tags:
-- Kanban
-- Agile Tools
-categories:
-- Events and Presentations
-- Application Lifecycle Management
-- Practical Techniques and Tooling
+tags: []
+categories: []
 preview: metro-UserGroup-128-2-2.png
 
 ---

@@ -22,10 +22,24 @@ aliasesFor404:
 - /blog/quality-enablement-with-visual-studio-2012
 - /resources/blog/quality-enablement-with-visual-studio-2012
 tags:
+- Acceptance Test Driven Development
+- Agile Software Development
+- Application Lifecycle Management
+- Continuos Delivery
 - Continuous Delivery
-- Technical Excellence
+- Continuous Improvement
+- Engineering Practices
+- Evidence Based Improvement
+- Operational Practices
+- Software Developers
+- Software Development
+- Test Strategy
+- Value Delivery
+- Windows
+- Working Software
 categories:
 - Application Lifecycle Management
+- Organisational Agility
 - Value Delivery
 preview: nakedalm-experts-visual-studio-alm-18-18.png
 

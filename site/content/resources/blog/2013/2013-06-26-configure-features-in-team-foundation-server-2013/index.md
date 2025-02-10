@@ -22,25 +22,25 @@ aliasesFor404:
 - /blog/configure-features-in-team-foundation-server-2013
 - /resources/blog/configure-features-in-team-foundation-server-2013
 tags:
-- System Configuration
-- Software Development
-- Azure DevOps
-- Modern Source Control
-- Windows
 - Agile Digital Tools
-- Technical Excellence
-- Software Developers
-- Operational Practices
-- Software Increment
-- Azure Boards
-- Working Software
 - Application Lifecycle Management
+- Azure Boards
+- Azure DevOps
 - DevOps
+- Modern Source Control
+- Operational Practices
+- Software Developers
+- Software Development
+- Software Increment
+- System Configuration
+- Technical Excellence
 - Technical Mastery
+- Windows
+- Working Software
 categories:
+- Azure DevOps
 - Install and Configuration
 - Practical Techniques and Tooling
-- Azure DevOps
 
 ---
 So you have upgraded to Team Foundation Server 2013 but you still don’t have some of the features that you upgraded for. There is a wizard for that but it is not supper discoverable that allows you to configure features in Team Foundation Server 2013.

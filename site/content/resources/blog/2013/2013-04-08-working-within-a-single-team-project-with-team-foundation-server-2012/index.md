@@ -22,10 +22,25 @@ aliasesFor404:
 - /blog/working-within-a-single-team-project-with-team-foundation-server-2012
 - /resources/blog/working-within-a-single-team-project-with-team-foundation-server-2012
 tags:
+- Agile Pilot
+- Agile Planning
+- Agile Planning Tools
 - Agile Project Management
+- Agile Software Development
+- Agile Software Engineering
+- Cross Functional Teams
+- Modern Source Control
+- People and Process
+- Scrum Team
+- Software Developers
+- Software Development
 - Team Collaboration
+- Technical Mastery
+- Working Software
 categories:
-- Azure DevOps
+- People and Process
+- Practical Techniques and Tooling
+- Technical Excellence
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 
 ---

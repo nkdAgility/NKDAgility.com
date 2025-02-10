@@ -28,11 +28,16 @@ aliasesFor404:
 - /sharepoint-2013-issue
 - /resources/blog/sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
 tags:
-- Agile Software Development
-- Technical Debt
+- Decision Making
+- Pragmatic Thinking
+- Software Developers
+- System Configuration
+- Troubleshooting
+- Working Software
 categories:
+- Code and Complexity
 - Install and Configuration
-- Application Lifecycle Management
+- Practical Techniques and Tooling
 preview: metro-sharepoint-128-link-8-8.png
 
 ---

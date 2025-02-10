@@ -21,12 +21,8 @@ aliasesFor404:
 - /continuous-value-delivery-with-modern-business-applications
 - /blog/continuous-value-delivery-with-modern-business-applications
 - /resources/blog/continuous-value-delivery-with-modern-business-applications
-tags:
-- Continuous Delivery
-- Deployment Frequency
-categories:
-- Value Delivery
-- People and Process
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

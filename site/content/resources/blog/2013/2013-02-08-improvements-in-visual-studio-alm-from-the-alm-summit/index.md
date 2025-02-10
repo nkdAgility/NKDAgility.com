@@ -21,12 +21,8 @@ aliasesFor404:
 - /improvements-in-visual-studio-alm-from-the-alm-summit
 - /blog/improvements-in-visual-studio-alm-from-the-alm-summit
 - /resources/blog/improvements-in-visual-studio-alm-from-the-alm-summit
-tags:
-- Agile Tools
-- Continuous Delivery
-categories:
-- Application Lifecycle Management
-- Azure DevOps
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

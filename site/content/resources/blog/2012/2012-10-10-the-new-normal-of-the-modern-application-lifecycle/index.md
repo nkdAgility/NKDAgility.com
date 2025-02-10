@@ -21,13 +21,8 @@ aliasesFor404:
 - /the-new-normal-of-the-modern-application-lifecycle
 - /blog/the-new-normal-of-the-modern-application-lifecycle
 - /resources/blog/the-new-normal-of-the-modern-application-lifecycle
-tags:
-- Application Lifecycle Management
-- Business Agility
-categories:
-- Application Lifecycle Management
-- People and Process
-- Metrics and Learning
+tags: []
+categories: []
 preview: metro-new-normal-icon-28-28.png
 
 ---

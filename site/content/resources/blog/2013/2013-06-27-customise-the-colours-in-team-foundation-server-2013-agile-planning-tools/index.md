@@ -22,24 +22,24 @@ aliasesFor404:
 - /blog/customise-the-colours-in-team-foundation-server-2013-agile-planning-tools
 - /resources/blog/customise-the-colours-in-team-foundation-server-2013-agile-planning-tools
 tags:
-- Agile Planning Tools
-- System Configuration
-- Agile Tools
 - Agile Digital Tools
-- Software Development
+- Agile Planning Tools
+- Agile Tools
+- Application Lifecycle Management
 - Azure Boards
 - Azure DevOps
-- Software Developers
-- Technical Excellence
-- Windows
-- Technical Mastery
-- Working Software
 - Featured
-- Application Lifecycle Management
+- Software Developers
+- Software Development
+- System Configuration
+- Technical Excellence
+- Technical Mastery
+- Windows
+- Working Software
 categories:
+- Code and Complexity
 - Install and Configuration
 - Practical Techniques and Tooling
-- Technical Excellence
 
 ---
 If you want to customise the colours in Team Foundation Server 2013 Agile Planning Tools you need to download and edit the Process Configuration file that tells TFS how to configure many of the features in the Web Access.

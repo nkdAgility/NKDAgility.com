@@ -25,11 +25,11 @@ aliasesFor404:
 - /writing--net-in-powershell-and-creating-tfs-teams
 - /blog/writing--net-in-powershell-and-creating-tfs-teams
 - /resources/blog/writing-net-in-powershell-and-creating-tfs-teams
-tags:
-- Agile Software Development
-- Azure DevOps
+tags: []
 categories:
 - Code and Complexity
+- Practical Techniques and Tooling
+- Technical Excellence
 preview: image11-1-1.png
 
 ---

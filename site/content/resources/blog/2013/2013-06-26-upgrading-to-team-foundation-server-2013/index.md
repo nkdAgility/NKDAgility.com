@@ -22,25 +22,25 @@ aliasesFor404:
 - /blog/upgrading-to-team-foundation-server-2013
 - /resources/blog/upgrading-to-team-foundation-server-2013
 tags:
-- Windows
-- System Configuration
-- Modern Source Control
-- Software Developers
-- Featured
-- Azure DevOps
-- Software Development
-- Working Software
-- Software Increment
-- Pragmatic Thinking
+- Agile Tools
 - Application Lifecycle Management
+- Azure DevOps
 - Change Management
-- Engineering Practices
-- Azure Repos
-- Collaboration Tools
+- Deployment Strategies
+- Featured
+- Modern Source Control
+- Operational Practices
+- Pragmatic Thinking
+- Software Developers
+- Software Development
+- Software Increment
+- System Configuration
+- Windows
+- Working Software
 categories:
+- Azure DevOps
 - Install and Configuration
 - Practical Techniques and Tooling
-- Azure DevOps
 
 ---
 With the release of Team Foundation Server 2013 I need to upgrade all of my servers. I have a few customer installs getting prepped and I wanted to get a look see.

@@ -26,10 +26,22 @@ aliasesFor404:
 - /blog/tfs-2012-issue--tf215097-an-error-occurred-while-initializing-a-build-for-build-definition
 - /resources/blog/tfs-2012-issue-tf215097-an-error-occurred-while-initializing-a-build-for-build-definition
 tags:
-- Agile Software Development
+- Agile Digital Tools
+- Application Lifecycle Management
 - Azure DevOps
-categories:
-- Install and Configuration
+- CI/CD
+- Continuos Integration
+- Continuous Integration
+- Modern Source Control
+- Operational Practices
+- Pragmatic Thinking
+- Software Development
+- System Configuration
+- Technical Excellence
+- Technical Mastery
+- Troubleshooting
+- Windows
+categories: []
 preview: puzzle-issue-problem-128-link-3-3.png
 
 ---

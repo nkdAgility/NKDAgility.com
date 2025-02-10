@@ -22,21 +22,21 @@ aliasesFor404:
 - /blog/modelling-teams-in-team-foundation-server-2013
 - /resources/blog/modelling-teams-in-team-foundation-server-2013
 tags:
-- Application Lifecycle Management
-- System Configuration
-- Agile Planning Tools
-- Team Collaboration
-- People and Process
-- Cross Functional Teams
-- Modern Source Control
-- Engineering Practices
-- Collaboration Tools
 - Agile Digital Tools
-- Technical Excellence
-- Azure DevOps
-- Software Development
+- Agile Planning Tools
+- Agile Tools
+- Application Lifecycle Management
+- Cross Functional Teams
+- Engineering Practices
+- Modern Source Control
 - Operational Practices
-- Technical Mastery
+- People and Process
+- Software Developers
+- Software Development
+- System Configuration
+- Team Collaboration
+- Technical Excellence
+- Windows
 categories:
 - Application Lifecycle Management
 - People and Process

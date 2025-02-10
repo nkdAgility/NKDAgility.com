@@ -21,11 +21,11 @@ aliasesFor404:
 - /migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
 - /blog/migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
 - /resources/blog/migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
-tags:
-- Agile Software Development
-- Technical Debt
+tags: []
 categories:
-- Azure DevOps
+- Install and Configuration
+- People and Process
+- Practical Techniques and Tooling
 
 ---
 Are you worried that you will not be able to migrate from [http://tfs.visualstudio.com](http://tfs.visualstudio.com) when they start charging for it and you don’t want to pay? Fear not as we have the technology to migration from TF Service to TF Server with the TFS Integration Platform.

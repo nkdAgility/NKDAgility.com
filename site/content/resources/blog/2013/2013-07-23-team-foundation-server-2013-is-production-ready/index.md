@@ -22,25 +22,25 @@ aliasesFor404:
 - /blog/team-foundation-server-2013-is-production-ready
 - /resources/blog/team-foundation-server-2013-is-production-ready
 tags:
-- Agility
-- Technical Debt
-- Software Development
-- Resilience and Change
-- Agile Software Development
-- Agile Software Engineering
-- Working Software
-- Large Scale Agility
-- Technical Excellence
+- Agile Community
 - Agile Digital Tools
 - Agile Evolution
+- Agile Software Development
+- Agile Software Engineering
 - Agile Transformation
+- Agility
+- Large Scale Agility
 - Lean Agile
-- Agile Community
-- Software Developers
-categories:
 - Resilience and Change
+- Software Developers
+- Software Development
+- Technical Debt
 - Technical Excellence
+- Working Software
+categories:
+- Enterprise Agility
 - Product Delivery
+- Resilience and Change
 
 ---
 Did you know that Team Foundation Server 2013 is production ready?

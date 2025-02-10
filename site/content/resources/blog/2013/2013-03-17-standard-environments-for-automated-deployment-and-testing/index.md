@@ -21,12 +21,8 @@ aliasesFor404:
 - /standard-environments-for-automated-deployment-and-testing
 - /blog/standard-environments-for-automated-deployment-and-testing
 - /resources/blog/standard-environments-for-automated-deployment-and-testing
-tags:
-- Application Lifecycle Management
-- Continuous Delivery
-categories:
-- Application Lifecycle Management
-- Azure DevOps
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-17-17.png
 
 ---

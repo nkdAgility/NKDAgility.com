@@ -21,12 +21,8 @@ aliasesFor404:
 - /integrating-project-server-2013-with-team-foundation-server-2012
 - /blog/integrating-project-server-2013-with-team-foundation-server-2012
 - /resources/blog/integrating-project-server-2013-with-team-foundation-server-2012
-tags:
-- Agile Project Management
-- Agile Tools
-categories:
-- Install and Configuration
-- Azure DevOps
+tags: []
+categories: []
 preview: metro-sharepoint-128-link-23-23.png
 
 ---

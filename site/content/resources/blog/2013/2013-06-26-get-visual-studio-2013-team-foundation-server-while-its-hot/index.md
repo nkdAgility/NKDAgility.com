@@ -26,25 +26,25 @@ aliasesFor404:
 - /blog/what's-new-in-visual-studio-2013-team-foundation-server-preview
 - /resources/blog/get-visual-studio-2013-team-foundation-server-while-its-hot
 tags:
-- Agile Product Management
-- Agile Portfolio Management
-- Agility
-- Agile Planning Tools
-- Product Backlog
-- Portfolio Management
 - Agile Digital Tools
+- Agile Methodology
+- Agile Planning Tools
+- Agile Portfolio Management
+- Agile Product Management
+- Agile Project Management
 - Agile Resource Management
+- Agile Tools
+- Agile Transformation
+- Agility
+- Portfolio Management
+- Product Backlog
+- Strategic
 - Team Collaboration
 - Value Delivery
-- Agile Tools
-- Agile Project Management
-- Strategic
-- Working Software
-- Lean Agile
 categories:
 - Agile Product Management
+- Application Lifecycle Management
 - Value Delivery
-- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-14-14.png
 
 ---

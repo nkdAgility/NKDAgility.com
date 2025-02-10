@@ -29,12 +29,8 @@ aliasesFor404:
 - /the-tfs-automation-platform-is-dead--long-live-the-tfplugable
 - /blog/the-tfs-automation-platform-is-dead--long-live-the-tfplugable
 - /resources/blog/the-tfs-automation-platform-is-dead-long-live-the-tfplugable
-tags:
-- Deployment Frequency
-- Agile Tools
-categories:
-- Azure DevOps
-- Install and Configuration
+tags: []
+categories: []
 preview: nakedalm-logo-128-link-3-3.png
 
 ---

@@ -159,60 +159,86 @@ function Get-BatchCategoryConfidenceWithChecksum {
         $batchId = Get-Content $batchFile
         $batchStatus = Get-OpenAIBatchStatus -BatchId $batchId
 
-        if ($batchStatus -eq "completed") {
-            # Process batch results into cache format
-            $batchResults = Get-OpenAIBatchResults -BatchId $batchId -OutputFile $batchJsonlOutout
-            $categoryScores = @{}
+        switch ($batchStatus) {
+            "completed" {
+                # Process batch results into cache format
+                $batchResults = Get-OpenAIBatchResults -BatchId $batchId -OutputFile $batchJsonlOutout
+                $categoryScores = @{}
 
-            foreach ($result in $batchResults) {
-                $rawAiBatchResult = $result | ConvertFrom-Json
-                $aiResponseJson = $rawAiBatchResult.response.body.choices[0].message.content | ConvertFrom-Json
-                $category = $aiResponseJson.category
-                $aiConfidence = if ($aiResponseJson.PSObject.Properties["confidence"]) { $aiResponseJson.confidence } else { 0 }
-
-                # Non-AI Confidence Calculation
-                $nonAiConfidence = 0
-                $categoryWords = $category -split '\s+'
-                $contentWords = ($ResourceTitle + " " + $ResourceContent) -split '\s+'
-                $escapedCategory = [Regex]::Escape($category)
-
-                if ($category -in $contentWords) {
-                    $nonAiConfidence += 50
-                }
-                elseif ($contentWords | Where-Object { $_ -match $escapedCategory }) {
-                    $nonAiConfidence += 30
-                }
-                else {
-                    foreach ($word in $categoryWords) {
-                        if ($contentWords -contains $word) {
-                            $nonAiConfidence += 10
+                foreach ($result in $batchResults) {
+                    $rawAiBatchResult = $result | ConvertFrom-Json
+                    try {
+                        if ($rawAiBatchResult.response.body.choices[0].message.content -match '(?s)```json\s*(.*?)\s*```') {
+                            $jsonContent = $matches[1] # Extracted JSON content 
+                            $aiResponseJson = $jsonContent | ConvertFrom-Json
                         }
+                        else {
+                            $aiResponseJson = $rawAiBatchResult.response.body.choices[0].message.content | ConvertFrom-Json 
+                        }
+                    }
+                    catch {
+                        Write-ErrorLog "Error parsing AI response for $CacheFolder. Skipping."
+                        continue
+                    }
+                   
+                    $category = $aiResponseJson.category
+                    $aiConfidence = if ($aiResponseJson.PSObject.Properties["confidence"]) { $aiResponseJson.confidence } else { 0 }
+
+                    # Non-AI Confidence Calculation
+                    $nonAiConfidence = 0
+                    $categoryWords = $category -split '\s+'
+                    $contentWords = ($ResourceTitle + " " + $ResourceContent) -split '\s+'
+                    $escapedCategory = [Regex]::Escape($category)
+
+                    if ($category -in $contentWords) {
+                        $nonAiConfidence += 50
+                    }
+                    elseif ($contentWords | Where-Object { $_ -match $escapedCategory }) {
+                        $nonAiConfidence += 30
+                    }
+                    else {
+                        foreach ($word in $categoryWords) {
+                            if ($contentWords -contains $word) {
+                                $nonAiConfidence += 10
+                            }
+                        }
+                    }
+
+                    $finalScore = [math]::Round(($aiConfidence * 0.7) + ($nonAiConfidence * 0.3))
+
+                    $categoryScores[$category] = [PSCustomObject]@{
+                        "category"          = $category
+                        "ai_confidence"     = $aiConfidence
+                        "non_ai_confidence" = $nonAiConfidence
+                        "final_score"       = $finalScore
+                        "reasoning"         = $aiResponseJson.reasoning
+                        "level"             = if ($finalScore -ge 80) { "Primary" } elseif ($finalScore -ge 50) { "Secondary" } else { "Ignored" }
                     }
                 }
 
-                $finalScore = [math]::Round(($aiConfidence * 0.7) + ($nonAiConfidence * 0.3))
+                # Save updated cache
+                $categoryScores | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
 
-                $categoryScores[$category] = [PSCustomObject]@{
-                    "category"          = $category
-                    "ai_confidence"     = $aiConfidence
-                    "non_ai_confidence" = $nonAiConfidence
-                    "final_score"       = $finalScore
-                    "reasoning"         = $aiResponseJson.reasoning
-                    "level"             = if ($finalScore -ge 80) { "Primary" } elseif ($finalScore -ge 50) { "Secondary" } else { "Ignored" }
-                }
+                # Cleanup batch file after processing
+                Remove-Item $batchFile -Force
+                Remove-Item $batchJsonlInput -Force
+                Remove-Item $batchJsonlOutout -Force
             }
-
-            # Save updated cache
-            $categoryScores | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
-
-            # Cleanup batch file after processing
-            Remove-Item $batchFile -Force
-            Remove-Item $batchJsonlInput -Force
-            Remove-Item $batchJsonlOutout -Force
-        }
-        else {
-            Write-WarningLog "Batch is still processing. Please wait for it to complete."
-            return @()
+            "in_progress" {
+                Write-Warning "Batch still in progress. Please wait for completion."
+                return @()
+            }
+            "failed" {
+                Write-ErrorLog "Batch failed. Please try again."
+                Remove-Item $batchFile -Force
+                Remove-Item $batchJsonlInput -Force
+                Remove-Item $batchJsonlOutout -Force
+                return @()
+            }
+            default {
+                Write-WarningLog $batchStatus
+                return @()
+            }
         }
     }
 

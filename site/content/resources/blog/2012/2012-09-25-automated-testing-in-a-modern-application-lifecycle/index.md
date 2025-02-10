@@ -23,11 +23,8 @@ aliasesFor404:
 - /blog/automated-testing-in-a-modern-application-lifecycle
 - /automated-testing-in-a-modern-application-lifecycle/
 - /resources/blog/automated-testing-in-a-modern-application-lifecycle
-tags:
-- Automated Testing
-- Continuous Integration
-categories:
-- Application Lifecycle Management
+tags: []
+categories: []
 preview: metro-automated-test-icon-4-4.png
 
 ---

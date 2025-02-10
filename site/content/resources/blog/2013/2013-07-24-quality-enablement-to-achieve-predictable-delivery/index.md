@@ -22,25 +22,25 @@ aliasesFor404:
 - /blog/quality-enablement-to-achieve-predictable-delivery
 - /resources/blog/quality-enablement-to-achieve-predictable-delivery
 tags:
-- Definition of Done
-- Software Development
-- Predictability in Kanban
-- Value Delivery
-- Agile Software Development
-- Software Developers
-- Working Software
 - Acceptance Test Driven Development
-- Continuos Delivery
-- Evidence Based Management
-- Evidence Based Improvement
-- Empirical Process Control
+- Agile Predictability
+- Agile Software Development
+- Agile Software Engineering
 - Continuous Delivery
+- Definition of Done
+- Empirical Process Control
+- Evidence Based Improvement
+- Evidence Based Management
+- Predictability in Kanban
+- Software Developers
+- Software Development
 - Test Strategy
-- Agile Product Validation
+- Value Delivery
+- Working Software
 categories:
+- People and Process
 - Product Delivery
 - Value Delivery
-- Practical Techniques and Tooling
 preview: nakedalm-experts-professional-scrum-2-2.png
 
 ---

@@ -22,11 +22,15 @@ aliasesFor404:
 - /blog/restore-tfs-backups-from-sql-enterprise-to-sql-express
 - /resources/blog/restore-tfs-backups-from-sql-enterprise-to-sql-express
 tags:
-- Technical Debt
-- Evidence Based Improvement
-categories:
-- Install and Configuration
 - Azure DevOps
+- Operational Practices
+- Software Developers
+- Software Development
+- System Configuration
+- Technical Excellence
+- Technical Mastery
+- Troubleshooting
+categories: []
 preview: lazy1-5-5.jpg
 
 ---

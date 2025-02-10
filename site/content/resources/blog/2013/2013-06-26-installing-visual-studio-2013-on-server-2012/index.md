@@ -22,14 +22,14 @@ aliasesFor404:
 - /blog/installing-visual-studio-2013-on-server-2012
 - /resources/blog/installing-visual-studio-2013-on-server-2012
 tags:
-- Software Development
-- Windows
-- Software Developers
 - Featured
-- Working Software
+- Software Developers
+- Software Development
 - System Configuration
 - Technical Excellence
 - Technical Mastery
+- Windows
+- Working Software
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
