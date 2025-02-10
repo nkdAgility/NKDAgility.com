@@ -32,15 +32,15 @@ categories:
 - Scrum
 preview: NKDAgility-technically-YouCantStopTheSignal-1-1.jpg
 tags:
-- Agile Community
+- Agile AI
 - Agile Frameworks
-- Agile Leadership
 - Agile Problem Solving
 - Agile Product Discovery
 - Agile Product Management
-- Agile Project Management
+- Agile Resource Management
 - Agile Software Development
 - Agile Software Engineering
+- Agile Tools
 - Agile Values and Principles
 - Continuous Improvement
 - People and Process

@@ -28,20 +28,20 @@ categories:
 - Scrum
 preview: NKDAgility-technically-PragamtismCrushesDogma-1-1.jpg
 tags:
-- Agile Methodology
-- Agile Values and Principles
+- Agile Product Management
+- Agile Software Development
 - Agility
-- Business Agility
 - Complexity Thinking
+- Market Adaptability
 - People and Process
+- Professional Scrum
 - Resilience and Change
-- Scaling Scrum
 - Scrum
-- Scrum Master
 - Scrum Product Development
 - Scrum Product Management
 - Scrum Team
-- Team Collaboration
+- Scrum Values
+- Software Development
 - Team Performance
 
 ---

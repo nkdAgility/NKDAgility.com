@@ -27,24 +27,24 @@ aliasesFor404:
 - /blog/the-evolution-of-agile-learning--insights-from-scrum-org's-webinar
 - /resources/blog/the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
 tags:
-- Agile Community
+- Agile Coaching
 - Agile Evolution
-- Agile Frameworks
-- Agile Software Engineering
+- Agile Strategy
 - Agile Tools
+- Agile Transformation
 - Agility
-- Business Agility
 - Coaching
-- Continuous Improvement
 - Continuous Learning
 - Discovery and Learning
 - Enterprise Agility
-- Lean Agile
+- Evidence Based Improvement
 - People and Process
+- Scaling Agility
 - Scrum
+- Value Delivery
 categories:
-- Discovery and Learning
-- Metrics and Learning
+- People and Process
+- Practical Techniques and Tooling
 - Scrum
 preview: NKDAgility-technically-TheEvolutionofAgileLearning-1-1-16-16.jpg
 

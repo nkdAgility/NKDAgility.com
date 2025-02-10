@@ -28,8 +28,8 @@ tags:
 - Customer Feedback Loops
 - Deployment Strategies
 - DevOps
+- Engineering Excellence
 - Experimentation
-- Frequent Releases
 - Software Development
 - Strategic
 - Technical Strategy

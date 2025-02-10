@@ -380,6 +380,49 @@ function Get-OpenAIEnqueuedTokens {
     return $totalTokens
 }
 
+function Get-OpenAIBatchList {
+    param (
+        [string]$OPEN_AI_KEY = $env:OPENAI_API_KEY
+    )
+
+    $headers = @{
+        "Authorization" = "Bearer $OPEN_AI_KEY"
+        "Content-Type"  = "application/json"
+    }
+
+    $totalTokens = 0
+    $after = $null  # Cursor for pagination
+
+    do {
+        # Construct the API URL with pagination support
+        $url = "https://api.openai.com/v1/batches"
+        if ($after) {
+            $url += "?after=$after"
+        }
+
+        # Get the list of all batches
+        $batchesResponse = Invoke-RestMethod -Uri $url -Headers $headers -Method Get
+
+        if (-not $batchesResponse.data -or $batchesResponse.data.Count -eq 0) {
+            Write-DebugLog "No active batches found."
+            return 0
+        }
+
+        # Loop through each batch and retrieve details
+        foreach ($batch in $batchesResponse.data) {
+            Write-DebugLog "Batch ID: $($batch.id) | Status: $($batch.status)"
+            # Write-DebugLog "Batch: {batch}" -PropertyValues $batch
+        }
+
+        # Use the last batch ID as the 'after' cursor for the next request
+        $after = if ($batchesResponse.has_more -and $batchesResponse.last_id) { $batchesResponse.last_id } else { $null }
+
+    } while ($after)  # Continue fetching pages until all batches are retrieved
+
+    Write-DebugLog "Total enqueued tokens: $totalTokens"
+    return $totalTokens
+}
+
 function Get-TokenCount {
     param (
         [string]$Prompt

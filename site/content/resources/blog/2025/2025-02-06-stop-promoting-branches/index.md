@@ -22,13 +22,13 @@ tags:
 - Agile Software Development
 - Agile Software Engineering
 - Agility
-- Application Lifecycle Management
+- Continuos Delivery
 - Continuous Delivery
-- Continuous Improvement
 - Continuous Integration
 - Cycle Time
 - DevOps
 - Engineering Practices
+- Flow Efficiency
 - Modern Source Control
 - Software Developers
 - Software Development

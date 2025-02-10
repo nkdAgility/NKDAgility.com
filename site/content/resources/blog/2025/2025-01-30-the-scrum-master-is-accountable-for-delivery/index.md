@@ -29,19 +29,19 @@ aliasesFor404:
 tags:
 - Accountability
 - Agile Software Development
-- Agile Software Engineering
 - Coaching
-- Continuous Delivery
 - Continuous Improvement
+- Flow Efficiency
+- Professional Scrum
 - Scrum
 - Scrum Master
 - Scrum Product Development
-- Scrum Product Management
 - Scrum Team
-- Software Increment
+- Software Development
 - Strategic
 - Team Collaboration
 - Value Delivery
+- Working Software
 categories:
 - Lean
 - Product Delivery
