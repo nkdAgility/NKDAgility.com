@@ -1,7 +1,5 @@
 ---
 title: Business Agility
-description: The capability of an organisation to respond quickly to market changes and customer needs.
-Instructions: Please ensure that the 'Business Agility' category/tag is only applied to content that specifically addresses the capability of an organisation to respond quickly to market changes and customer needs.
-
+description: Enable Business Agility to rapidly adapt, innovate, and deliver value in an ever-changing market.
+Instructions: Use this category only for discussions on Business Agility, including organisational adaptability, Agile leadership, value stream optimisation, and scaling agility beyond IT. Topics should focus on empirical decision-making, cross-functional collaboration, and strategies for building resilient, customer-focused organisations that thrive in complexity.
 ---
-
