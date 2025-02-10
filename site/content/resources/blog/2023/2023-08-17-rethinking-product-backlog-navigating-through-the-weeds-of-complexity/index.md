@@ -27,10 +27,25 @@ aliasesFor404:
 - /blog/rethinking-product-backlog--navigating-through-the-weeds-of-complexity
 - /resources/blog/rethinking-product-backlog-navigating-through-the-weeds-of-complexity
 tags:
-- Pragmatic Thinking
+- Agile Product Management
+- Agile Product Ownership
+- Agile Project Management
+- Agile Software Development
+- Agile Values and Principles
+- Agility
+- Complexity Science
+- Lean Agile
+- Lean Product Development
+- People and Process
+- Product Backlog
+- Scrum Product Management
+- Sensemaking
+- Strategic
+- Transparency
 categories:
-- Scrum
-- Technical Excellence
+- Agile Product Management
+- Lean
+- People and Process
 preview: image-1.jpg
 
 ---

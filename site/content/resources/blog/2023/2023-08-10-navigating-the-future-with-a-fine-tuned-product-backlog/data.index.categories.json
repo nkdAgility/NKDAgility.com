@@ -38,5 +38,245 @@
     "final_score": 74.0,
     "reasoning": "Content primarily focuses on the Product Backlog, a key component of the Scrum framework, discussing its importance, ordering, refinement, and its role in guiding teams towards their goals.",
     "level": "Secondary"
+  },
+  "Market Adaptability": {
+    "category": "Market Adaptability",
+    "ai_confidence": 75,
+    "non_ai_confidence": 10,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of a well-ordered and refined Product Backlog, which evolves with market conditions and customer needs, indicating a strong focus on adapting to market shifts.",
+    "level": "Secondary"
+  },
+  "Product Delivery": {
+    "category": "Product Delivery",
+    "ai_confidence": 92,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "Content primarily discusses the importance of a well-ordered and refined Product Backlog, which is central to the process of delivering usable working software products.",
+    "level": "Secondary"
+  },
+  "Install and Configuration": {
+    "category": "Install and Configuration",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily discusses the importance and management of a Product Backlog in Agile project management, rather than focusing on installation or configuration of tools or software.",
+    "level": "Ignored"
+  },
+  "Complexity Thinking": {
+    "category": "Complexity Thinking",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the importance of a well-ordered Product Backlog and its role in Agile project management, touching on themes of uncertainty and iterative processes, which are relevant to complexity thinking, but the primary focus remains on Agile practices rather than complexity science itself.",
+    "level": "Ignored"
+  },
+  "Sociotechnical Systems": {
+    "category": "Sociotechnical Systems",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the importance of a well-ordered Product Backlog and its role in Agile project management, which touches on the interaction between technology and team effectiveness, but it primarily focuses on backlog management rather than a broader sociotechnical perspective.",
+    "level": "Ignored"
+  },
+  "Products and Books": {
+    "category": "Products and Books",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 59.0,
+    "reasoning": "Content primarily discusses the importance and mechanics of a well-ordered Product Backlog in Agile project management, which aligns closely with tools and practices relevant to Agile and DevOps.",
+    "level": "Secondary"
+  },
+  "Enterprise Agility": {
+    "category": "Enterprise Agility",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the importance of a well-ordered Product Backlog and its role in Agile project management, which relates to organisational responsiveness and adaptability, but it primarily focuses on the mechanics of backlog management rather than broader enterprise agility concepts.",
+    "level": "Ignored"
+  },
+  "AI and Automation in Agility": {
+    "category": "AI and Automation in Agility",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the importance of a well-ordered Product Backlog in Agile project management, with no mention of AI or automation.",
+    "level": "Ignored"
+  },
+  "Lean": {
+    "category": "Lean",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses the importance of a well-ordered and refined Product Backlog, which aligns with Lean principles of maximising value and minimising waste in Agile project management.",
+    "level": "Secondary"
+  },
+  "Code and Complexity": {
+    "category": "Code and Complexity",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of a well-ordered Product Backlog and its role in Agile project management, which relates to software development practices, but the primary focus is on Agile methodologies rather than code quality or best practices in development.",
+    "level": "Ignored"
+  },
+  "Agile Product Management": {
+    "category": "Agile Product Management",
+    "ai_confidence": 92,
+    "non_ai_confidence": 20,
+    "final_score": 70.0,
+    "reasoning": "Content primarily focuses on the importance of a well-ordered and refined Product Backlog, which is central to Agile Product Management strategies for maximising value through iterative discovery and delivery.",
+    "level": "Secondary"
+  },
+  "Events and Presentations": {
+    "category": "Events and Presentations",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses Agile principles and practices, which are often topics at events and presentations, but it primarily focuses on the Product Backlog rather than specific events or presentations.",
+    "level": "Ignored"
+  },
+  "Organisational Agility": {
+    "category": "Organisational Agility",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "Content primarily discusses the importance of a well-ordered and refined Product Backlog, which is essential for adapting to market changes and customer needs in Agile project management.",
+    "level": "Secondary"
+  },
+  "Value Stream Management": {
+    "category": "Value Stream Management",
+    "ai_confidence": 75,
+    "non_ai_confidence": 10,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of a well-ordered Product Backlog and its role in aligning work with customer outcomes, which is a significant theme. However, the primary focus is on Agile practices and Scrum roles, making it a major but secondary theme.",
+    "level": "Secondary"
+  },
+  "Application Lifecycle Management": {
+    "category": "Application Lifecycle Management",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "Content primarily discusses the management and refinement of the Product Backlog, which is a crucial aspect of the application development lifecycle in Agile methodologies.",
+    "level": "Secondary"
+  },
+  "Discovery and Learning": {
+    "category": "Discovery and Learning",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 59.0,
+    "reasoning": "Content primarily discusses the importance of a well-ordered and refined Product Backlog, which is essential for continuous learning and adapting in Agile product development.",
+    "level": "Secondary"
+  },
+  "Personal": {
+    "category": "Personal",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the mechanics and importance of a Product Backlog in Agile project management, with no clear personal thoughts or experiences shared.",
+    "level": "Ignored"
+  },
+  "Miscellaneous": {
+    "category": "Miscellaneous",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on the importance and mechanics of a Product Backlog in Agile project management, rather than discussing miscellaneous topics.",
+    "level": "Ignored"
+  },
+  "News and Reviews": {
+    "category": "News and Reviews",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on the mechanics and importance of a well-ordered Product Backlog in Agile project management, without discussing industry news, updates, or reviews.",
+    "level": "Ignored"
+  },
+  "Transparency and Accountability": {
+    "category": "Transparency and Accountability",
+    "ai_confidence": 85,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "Content primarily discusses the importance of a well-ordered and comprehensible Product Backlog, which fosters transparency and alignment among stakeholders in Agile teams.",
+    "level": "Secondary"
+  },
+  "Decision Theory": {
+    "category": "Decision Theory",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the importance of ordering and refining the Product Backlog, which involves decision-making processes related to value, risk, and size. However, the primary focus is on Agile project management rather than decision theory itself.",
+    "level": "Ignored"
+  },
+  "Metrics and Learning": {
+    "category": "Metrics and Learning",
+    "ai_confidence": 75,
+    "non_ai_confidence": 10,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of ordering and refining the Product Backlog, which involves using feedback and iterative processes to improve team focus and outcomes. While it is primarily about the Product Backlog, the themes of continuous improvement and the use of metrics like OKRs suggest a significant connection to the category.",
+    "level": "Secondary"
+  },
+  "Systems Thinking": {
+    "category": "Systems Thinking",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the importance of a well-ordered Product Backlog and its role in Agile project management, touching on interdependencies and iterative processes, but it primarily focuses on the mechanics of backlog management rather than a holistic systems approach.",
+    "level": "Ignored"
+  },
+  "Organisational Psychology": {
+    "category": "Organisational Psychology",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses team dynamics and the importance of collaboration in managing a Product Backlog, which relates to engagement and leadership in an Agile context.",
+    "level": "Ignored"
+  },
+  "Scaling Agility": {
+    "category": "Scaling Agility",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the importance and mechanics of a well-ordered Product Backlog in Agile projects, without a clear focus on scaling approaches like LeSS, Nexus, or Scrum@Scale.",
+    "level": "Ignored"
+  },
+  "Value Delivery": {
+    "category": "Value Delivery",
+    "ai_confidence": 92,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "Content primarily discusses the importance of a well-ordered and refined Product Backlog as a strategy for continuous value delivery to customers, emphasising iterative processes and alignment with customer needs.",
+    "level": "Secondary"
+  },
+  "Practical Techniques and Tooling": {
+    "category": "Practical Techniques and Tooling",
+    "ai_confidence": 85,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "Content primarily focuses on the techniques and methodologies for managing a Product Backlog, which is essential for improving Agile practices.",
+    "level": "Secondary"
+  },
+  "Flow Efficiency": {
+    "category": "Flow Efficiency",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses the importance of a well-ordered and refined Product Backlog, which directly relates to optimising throughput and reducing bottlenecks in Agile project management.",
+    "level": "Secondary"
+  },
+  "Resilience and Change": {
+    "category": "Resilience and Change",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of a well-ordered and refined Product Backlog, which indirectly relates to organisational resilience and adaptive change through Agile methodologies, but it primarily focuses on the mechanics of product management.",
+    "level": "Ignored"
+  },
+  "People and Process": {
+    "category": "People and Process",
+    "ai_confidence": 85,
+    "non_ai_confidence": 20,
+    "final_score": 66.0,
+    "reasoning": "Content primarily discusses the importance of the Product Backlog in Agile project management, focusing on human factors such as team collaboration, stakeholder understanding, and iterative feedback processes.",
+    "level": "Secondary"
   }
 }
