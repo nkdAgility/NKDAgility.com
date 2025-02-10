@@ -1,12 +1,4 @@
 {
-  "Agile Forecasting": {
-    "category": "Agile Forecasting",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses improvements and features related to Visual Studio ALM and Team Foundation Server, with topics like DVCS, test management, and Kanban. Agile forecasting is not a central theme of the content.",
-    "level": "Ignored"
-  },
   "Featured": {
     "category": "Featured",
     "ai_confidence": 50,
@@ -63,22 +55,6 @@
     "reasoning": "The content discusses improvements in Visual Studio ALM which hints at evidence-based practices in software development and project management. However, the primary focus is on technical enhancements rather than a dedicated discussion of evidence-based management principles.",
     "level": "Ignored"
   },
-  "Lean Agile": {
-    "category": "Lean Agile",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content primarily discusses improvements in Visual Studio ALM, including features related to Agile methodologies like Kanban, Acceptance Test Driven Development, and integration with Git, which aligns with Lean Agile principles but is not solely focused on Lean Agile as a central topic.",
-    "level": "Secondary"
-  },
-  "Agile AI": {
-    "category": "Agile AI",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses improvements in Visual Studio ALM and features related to software development tools rather than Agile AI.",
-    "level": "Ignored"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
     "ai_confidence": 70,
@@ -101,14 +77,6 @@
     "non_ai_confidence": 0,
     "final_score": 24.0,
     "reasoning": "While the content includes mentions of Agile concepts such as Kanban and emphasizes team collaboration, it is primarily focused on features and improvements in Visual Studio ALM and does not centralize on scaling Scrum as a primary topic.",
-    "level": "Ignored"
-  },
-  "Complexity Science": {
-    "category": "Complexity Science",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses improvements and features in Visual Studio ALM, focusing on technical enhancements such as version control, test management, and project management tools, which are not related to Complexity Science.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
@@ -143,36 +111,12 @@
     "reasoning": "The content primarily discusses improvements in Visual Studio ALM, specifically focusing on the integration and support for Git as a distributed version control system (DVCS), which is central to modern source control practices.",
     "level": "Secondary"
   },
-  "Agile Estimation": {
-    "category": "Agile Estimation",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses improvements in Visual Studio ALM, focusing on features like DVCS, quality enablement, and Kanban, without specifically addressing Agile estimation practices.",
-    "level": "Ignored"
-  },
-  "Agile Books": {
-    "category": "Agile Books",
-    "ai_confidence": 40,
-    "non_ai_confidence": 0,
-    "final_score": 28.0,
-    "reasoning": "The content discusses various improvements in Visual Studio ALM, including topics like Kanban and Acceptance Test Driven Development, but these are not the primary focus and the overall theme centers on software development tools rather than agile methodologies or books.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses improvements and features in Visual Studio ALM, with no clear focus on customer retention strategies or practices.",
-    "level": "Ignored"
-  },
-  "Site Reliability": {
-    "category": "Site Reliability",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses improvements and features in Visual Studio ALM, focusing on version control, quality enablement, and project management tools, without any substantial emphasis on site reliability.",
     "level": "Ignored"
   },
   "Scrum Values": {
@@ -191,14 +135,6 @@
     "reasoning": "The content primarily discusses improvements in Visual Studio ALM and its features related to Team Foundation Server and Git, with only peripheral mentions of Azure Pipelines. Azure Pipelines is not the main focus.",
     "level": "Ignored"
   },
-  "Evidence Based Improvement": {
-    "category": "Evidence Based Improvement",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses improvements in Visual Studio ALM, particularly focusing on quality enablement improvements and features aimed at standardizing and enhancing workflows, which align with the principles of evidence-based improvement in a software development context.",
-    "level": "Ignored"
-  },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
     "ai_confidence": 25,
@@ -213,38 +149,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses new features and improvements in Visual Studio ALM, with no mention of customer satisfaction as a primary topic.",
-    "level": "Ignored"
-  },
-  "Kanban Coaching": {
-    "category": "Kanban Coaching",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 52.0,
-    "reasoning": "The content discusses Kanban swim lanes in the context of updates to Visual Studio ALM, making it a major theme, but the overall focus is more on improvements in Visual Studio rather than on Kanban coaching itself.",
-    "level": "Secondary"
-  },
-  "Kanban Process": {
-    "category": "Kanban Process",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "Content includes a substantial section on Kanban swim lanes and their implementation in Visual Studio ALM, demonstrating a clear focus on this aspect of the Kanban process.",
-    "level": "Secondary"
-  },
-  "Agile Apocalypse": {
-    "category": "Agile Apocalypse",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "While the content primarily discusses improvements in Visual Studio ALM, it touches significantly on concepts related to Agile practices, such as Kanban and Acceptance Test Driven Development (ATDD), making Agile a major theme within the scope of ALM.",
-    "level": "Ignored"
-  },
-  "Data Driven Decisions": {
-    "category": "Data Driven Decisions",
-    "ai_confidence": 40,
-    "non_ai_confidence": 20,
-    "final_score": 34.0,
-    "reasoning": "The content discusses improvements in Visual Studio ALM features and tools used for software development, including test management and work item tracking. While there are elements that suggest data organization and management, the focus is primarily on feature descriptions rather than explicitly making data-driven decisions.",
     "level": "Ignored"
   },
   "Definition of Done": {
@@ -271,22 +175,6 @@
     "reasoning": "The content primarily discusses technical improvements in Visual Studio ALM and features related to software development processes, not focusing on entrepreneurship.",
     "level": "Ignored"
   },
-  "Agile Pilot": {
-    "category": "Agile Pilot",
-    "ai_confidence": 65,
-    "non_ai_confidence": 0,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Kanban features in Visual Studio ALM, which aligns with agile methodologies, but the primary focus is on various improvements in Visual Studio ALM rather than solely on Agile Pilot concepts.",
-    "level": "Ignored"
-  },
-  "Kanban Flow": {
-    "category": "Kanban Flow",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "The content contains a substantial discussion about Kanban swim lanes, making it a significant topic within the overall discussion of Visual Studio ALM improvements.",
-    "level": "Secondary"
-  },
   "Decision Making": {
     "category": "Decision Making",
     "ai_confidence": 35,
@@ -301,14 +189,6 @@
     "non_ai_confidence": 0,
     "final_score": 35.0,
     "reasoning": "The content discusses improvements in Visual Studio ALM with a focus on practical features and functionalities that enhance workflow and collaboration, indicating a pragmatic approach to software development. However, it is primarily centered on the features rather than intense pragmatic thinking concepts.",
-    "level": "Ignored"
-  },
-  "Agile Evolution": {
-    "category": "Agile Evolution",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "While the content discusses various improvements in Visual Studio ALM, it mentions concepts related to Agile methodologies such as Kanban and Acceptance Test Driven Development (ATDD), indicating Agile practices are a significant theme.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -335,22 +215,6 @@
     "reasoning": "The content discusses improvements in Visual Studio ALM, focusing on features like DVCS, test management, and Kanban, without explicitly addressing technical debt as a primary topic.",
     "level": "Ignored"
   },
-  "Agile Product Management": {
-    "category": "Agile Product Management",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses improvements in Visual Studio ALM and mentions Kanban, which is a key aspect of Agile frameworks. However, it focuses primarily on technical features and tools rather than Agile product management as a central theme.",
-    "level": "Ignored"
-  },
-  "Release Planning": {
-    "category": "Release Planning",
-    "ai_confidence": 45,
-    "non_ai_confidence": 0,
-    "final_score": 31.0,
-    "reasoning": "The content primarily discusses new features and improvements in Visual Studio ALM rather than focusing on release planning itself. While some improvements may aid in planning processes, release planning is not a central theme.",
-    "level": "Ignored"
-  },
   "Technical Mastery": {
     "category": "Technical Mastery",
     "ai_confidence": 85,
@@ -365,30 +229,6 @@
     "non_ai_confidence": 20,
     "final_score": 40.0,
     "reasoning": "The content discusses various features and improvements related to Visual Studio ALM, including some elements like Kanban and test management, but the main focus is on software features rather than a clear discussion or application of empirical process control principles.",
-    "level": "Ignored"
-  },
-  "Agile Product Discovery": {
-    "category": "Agile Product Discovery",
-    "ai_confidence": 40,
-    "non_ai_confidence": 0,
-    "final_score": 28.0,
-    "reasoning": "The content discusses various new features of Visual Studio ALM, including test management and version control, but does not focus primarily on Agile Product Discovery.",
-    "level": "Ignored"
-  },
-  "Kanban Theory": {
-    "category": "Kanban Theory",
-    "ai_confidence": 75,
-    "non_ai_confidence": 10,
-    "final_score": 56.0,
-    "reasoning": "The content includes a section specifically discussing Kanban swim lanes and their implementation in Visual Studio ALM, making it a major but secondary theme within a broader context of software development tools and features.",
-    "level": "Secondary"
-  },
-  "Agile Community": {
-    "category": "Agile Community",
-    "ai_confidence": 60,
-    "non_ai_confidence": 0,
-    "final_score": 42.0,
-    "reasoning": "The content discusses improvements in Visual Studio ALM, including Kanban swim lanes and acceptance test-driven development, which are relevant to Agile practices, indicating a significant but secondary focus on Agile principles.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -413,14 +253,6 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses features of Visual Studio ALM that support team collaboration, quality enablement, and process aspects that align with agile practices, though it primarily focuses on tool features rather than agility as a central topic.",
-    "level": "Ignored"
-  },
-  "Continuos Delivery": {
-    "category": "Continuos Delivery",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses features and improvements in Visual Studio ALM and includes an emphasis on Git integration and test management, which are relevant to Continuous Delivery, but the primary focus is on the product features rather than Continuous Delivery itself.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
@@ -479,14 +311,6 @@
     "reasoning": "The content primarily discusses improvements in Visual Studio ALM and related features, with no central focus on organisational physics.",
     "level": "Ignored"
   },
-  "Agile Scaling": {
-    "category": "Agile Scaling",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses improvements in Visual Studio ALM and features related to version control, testing, and project management. Agile Scaling as a concept is not clear or central in the content presented.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
     "ai_confidence": 95,
@@ -518,14 +342,6 @@
     "final_score": 64.0,
     "reasoning": "Content primarily discusses the technical improvements and features introduced in Visual Studio ALM, showcasing its enhancements and capabilities related to version control, testing, and project management.",
     "level": "Secondary"
-  },
-  "Agile Product Ownership": {
-    "category": "Agile Product Ownership",
-    "ai_confidence": 40,
-    "non_ai_confidence": 0,
-    "final_score": 28.0,
-    "reasoning": "The content discusses various improvements in Visual Studio ALM, including Kanban features and test management, which may relate tangentially to agile practices, but is not primarily focused on Agile Product Ownership.",
-    "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -559,14 +375,6 @@
     "reasoning": "The content primarily discusses new features and improvements in Visual Studio ALM related to work item management, Kanban swim lanes, and work item tagging, which are closely associated with Azure Boards functionalities.",
     "level": "Secondary"
   },
-  "Agile Digital Tools": {
-    "category": "Agile Digital Tools",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses features and improvements in Visual Studio ALM, which is an agile digital tool, with a strong focus on functionalities that support agile methodologies like Kanban and test management.",
-    "level": "Secondary"
-  },
   "Agile Strategy": {
     "category": "Agile Strategy",
     "ai_confidence": 75,
@@ -574,14 +382,6 @@
     "final_score": 52.0,
     "reasoning": "The content discusses Agile concepts such as Acceptance Test Driven Development (ATDD) and Kanban swim lanes, indicating a strong focus on Agile methodologies within the context of Visual Studio ALM, though it's primarily centered around software features and improvements.",
     "level": "Secondary"
-  },
-  "Agile Mentoring": {
-    "category": "Agile Mentoring",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses new features and improvements in Visual Studio ALM, with a focus on version control, test management, and process improvement, rather than agile mentoring.",
-    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -615,14 +415,6 @@
     "reasoning": "The content discusses various features and improvements in Visual Studio ALM but does not focus on cross-functional teams as a primary topic.",
     "level": "Ignored"
   },
-  "Agile Leader": {
-    "category": "Agile Leader",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses elements of Agile methodologies such as Kanban and Acceptance Test Driven Development, but it primarily focuses on Visual Studio ALM features rather than comprehensively addressing Agile leadership.",
-    "level": "Ignored"
-  },
   "Product Strategy": {
     "category": "Product Strategy",
     "ai_confidence": 60,
@@ -637,14 +429,6 @@
     "non_ai_confidence": 10,
     "final_score": 38.0,
     "reasoning": "The content discusses improvements in Visual Studio ALM that include Kanban swim lanes and testing management improvements, which are related to Lean principles, but the primary focus is on specific features and tools rather than on Lean Product Development itself.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "While the content discusses improvements in Visual Studio ALM and its features, the focus is primarily on specific updates and functionalities rather than on discovery or learning as a central theme.",
     "level": "Ignored"
   },
   "Value Stream Mapping": {
@@ -719,38 +503,6 @@
     "reasoning": "The content details multiple new features and improvements announced at a summit, highlighting a range of updates and future releases, but it discusses these changes primarily in the context of Visual Studio ALM rather than focusing solely on release frequency.",
     "level": "Ignored"
   },
-  "Software Increment": {
-    "category": "Software Increment",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses new improvements and features in Visual Studio ALM, which contribute to software development increments.",
-    "level": "Secondary"
-  },
-  "Test Strategy": {
-    "category": "Test Strategy",
-    "ai_confidence": 75,
-    "non_ai_confidence": 10,
-    "final_score": 56.0,
-    "reasoning": "While the content discusses various improvements in Visual Studio ALM, it includes a significant section on Quality Enablement Improvements related to test management, suggesting that Test Strategy is a major theme.",
-    "level": "Secondary"
-  },
-  "Adaptive Leadership": {
-    "category": "Adaptive Leadership",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses improvements in Visual Studio ALM and new features related to software development tools, with no focus on adaptive leadership concepts.",
-    "level": "Ignored"
-  },
-  "Agile Predictability": {
-    "category": "Agile Predictability",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses features relevant to Agile methodologies, such as Kanban swim lanes and Acceptance Test Driven Development (ATDD), but the primary focus is on Visual Studio ALM improvements rather than Agile Predictability specifically.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "ai_confidence": 0,
@@ -791,14 +543,6 @@
     "reasoning": "The content primarily focuses on improvements in Visual Studio ALM and features related to version control and testing, with no direct discussion of sprint planning or related topics.",
     "level": "Ignored"
   },
-  "Agile Software Engineering": {
-    "category": "Agile Software Engineering",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 52.0,
-    "reasoning": "Content discusses features in Visual Studio ALM that support Agile practices like Kanban and Acceptance Test Driven Development, making Agile a significant theme but not the sole focus.",
-    "level": "Secondary"
-  },
   "Technical Leadership": {
     "category": "Technical Leadership",
     "ai_confidence": 50,
@@ -815,28 +559,12 @@
     "reasoning": "The content discusses features in Visual Studio ALM but does not clearly focus on organisational change as a primary topic.",
     "level": "Ignored"
   },
-  "Agile Software Development": {
-    "category": "Agile Software Development",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses features of Visual Studio ALM, including DVCS and Kanban, which are relevant to Agile practices, but the primary focus is on specifics of Visual Studio rather than Agile development principles.",
-    "level": "Ignored"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "ai_confidence": 25,
     "non_ai_confidence": 0,
     "final_score": 18.0,
     "reasoning": "The content primarily discusses improvements in Visual Studio ALM and related features, with only peripheral mentions of organization or self-organization concepts in the context of Kanban and workflow management.",
-    "level": "Ignored"
-  },
-  "Value Stream Management": {
-    "category": "Value Stream Management",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses various improvements in Visual Studio ALM that enhance workflow efficiency and team collaboration, which are related to value stream management concepts. However, the primary focus is on specific features of Visual Studio ALM rather than value stream management itself.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -855,14 +583,6 @@
     "reasoning": "The content primarily discusses improvements in Visual Studio ALM that facilitate Continuous Delivery, particularly through features like Git support, quality enablement, and collaboration tools.",
     "level": "Secondary"
   },
-  "Agile Product Validation": {
-    "category": "Agile Product Validation",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses improvements in Visual Studio ALM that support features like web-based test management and Kanban swim lanes, which are relevant to agile practices, including product validation, but is primarily focused on software feature announcements.",
-    "level": "Ignored"
-  },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
     "ai_confidence": 80,
@@ -870,14 +590,6 @@
     "final_score": 62.0,
     "reasoning": "The content primarily discusses improvements and updates in Visual Studio ALM that enhance workflows and processes, which aligns closely with principles of continuous improvement.",
     "level": "Secondary"
-  },
-  "Agile Mentoring Program": {
-    "category": "Agile Mentoring Program",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses improvements in Visual Studio ALM, focusing on software features and updates, with no mention of an Agile Mentoring Program.",
-    "level": "Ignored"
   },
   "BetaCodex": {
     "category": "BetaCodex",
@@ -927,22 +639,6 @@
     "reasoning": "The content discusses some features related to Agile practices like Kanban and Acceptance Test Driven Development, but it primarily focuses on improvements in Visual Studio ALM and is not centered on Professional Scrum.",
     "level": "Ignored"
   },
-  "Kanban": {
-    "category": "Kanban",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 71.0,
-    "reasoning": "The content discusses Kanban swim lanes as a feature in Visual Studio ALM, emphasizing its importance for managing workflows and enhancing the Kanban process, which is a key focus within the text.",
-    "level": "Secondary"
-  },
-  "Value Prioritisation": {
-    "category": "Value Prioritisation",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses new features and improvements in Visual Studio ALM without focusing on value prioritisation as a clear topic.",
-    "level": "Ignored"
-  },
   "Agile Planning": {
     "category": "Agile Planning",
     "ai_confidence": 60,
@@ -983,30 +679,6 @@
     "reasoning": "The content discusses Kanban swim lanes in detail, which is a significant feature related to scaling Kanban processes within Visual Studio ALM, although it is part of a broader discussion on various improvements and features.",
     "level": "Secondary"
   },
-  "Lean UX": {
-    "category": "Lean UX",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses improvements in Visual Studio ALM and its features rather than Lean UX principles or practices.",
-    "level": "Ignored"
-  },
-  "Agile Resource Management": {
-    "category": "Agile Resource Management",
-    "ai_confidence": 65,
-    "non_ai_confidence": 10,
-    "final_score": 48.0,
-    "reasoning": "The content discusses various improvements in Visual Studio ALM that relate to agile practices, such as Kanban swim lanes and quality enablement tools which support resource management in the context of agile methodologies.",
-    "level": "Ignored"
-  },
-  "Agile Certifications": {
-    "category": "Agile Certifications",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on features and improvements in Visual Studio ALM, with no direct mention of Agile certifications or topics adequate for that category.",
-    "level": "Ignored"
-  },
   "Scrum": {
     "category": "Scrum",
     "ai_confidence": 0,
@@ -1029,22 +701,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses improvements in Visual Studio ALM and its features, with no mention of revenue or employee productivity related to financial outcomes.",
-    "level": "Ignored"
-  },
-  "Technical Strategy": {
-    "category": "Technical Strategy",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content primarily discusses improvements in Visual Studio ALM and how these relate to software development strategies, such as continuous delivery and version control choices.",
-    "level": "Secondary"
-  },
-  "Agile Portfolio Management": {
-    "category": "Agile Portfolio Management",
-    "ai_confidence": 45,
-    "non_ai_confidence": 10,
-    "final_score": 34.0,
-    "reasoning": "The content primarily discusses improvements in Visual Studio ALM, with a focus on version control, test management, and specific features related to software development, rather than Agile portfolio management as a primary topic.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1095,22 +751,6 @@
     "reasoning": "The content primarily discusses improvements in Visual Studio ALM, and while it briefly mentions the MVP Summit, it does not focus on the MVP category as a clear central topic.",
     "level": "Ignored"
   },
-  "Agile Tools": {
-    "category": "Agile Tools",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses improvements in Visual Studio ALM which is a tool suite that supports Agile methodologies, including features like Kanban swim lanes, test management, and Git integration. These improvements are central to the functionality of Agile tools.",
-    "level": "Secondary"
-  },
-  "Organisational Transformational Mastery": {
-    "category": "Organisational Transformational Mastery",
-    "ai_confidence": 45,
-    "non_ai_confidence": 0,
-    "final_score": 31.0,
-    "reasoning": "The content discusses features and improvements in Visual Studio ALM, which are more technical and product-focused rather than primarily about organisational transformation.",
-    "level": "Ignored"
-  },
   "Change Management": {
     "category": "Change Management",
     "ai_confidence": 50,
@@ -1118,14 +758,6 @@
     "final_score": 38.0,
     "reasoning": "The content discusses improvements in Visual Studio ALM that may impact team processes and practices, making change management a secondary theme, but it is not the primary focus.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "ai_confidence": 65,
-    "non_ai_confidence": 20,
-    "final_score": 52.0,
-    "reasoning": "The content discusses improvements in Visual Studio ALM and features like Kanban swim lanes and Acceptance Test Driven Development, which are relevant to Agile project management practices, but the focus is more on software tooling than Agile principles themselves.",
-    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
@@ -1151,14 +783,6 @@
     "reasoning": "The content primarily discusses improvements and features in Visual Studio ALM, rather than focusing on transparency as a central theme.",
     "level": "Ignored"
   },
-  "Adaptive Strategy": {
-    "category": "Adaptive Strategy",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "Content discusses improvements in Visual Studio ALM that enhance process and workflow management, which relates to adaptive strategies in project management.",
-    "level": "Ignored"
-  },
   "Software Developers": {
     "category": "Software Developers",
     "ai_confidence": 92,
@@ -1167,28 +791,12 @@
     "reasoning": "The content primarily discusses improvements in Visual Studio ALM, which is directly relevant to software development practices and tools, appealing specifically to software developers who utilize these technologies.",
     "level": "Secondary"
   },
-  "Sprint Review Workshops": {
-    "category": "Sprint Review Workshops",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses improvements in Visual Studio ALM and new features announced at the ALM Summit, with no clear focus on sprint review workshops.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 35.0,
     "reasoning": "The content discusses improvements in Visual Studio ALM with a focus on features that enhance development efficiency, which relates to throughput as a secondary theme, but is not the primary focus.",
-    "level": "Ignored"
-  },
-  "Predictability in Kanban": {
-    "category": "Predictability in Kanban",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "While the content discusses Kanban swim lanes briefly, the primary focus is on various improvements in Visual Studio ALM and features introduced in new updates, making Kanban only a secondary theme.",
     "level": "Ignored"
   },
   "Sprint Review": {
@@ -1223,14 +831,6 @@
     "reasoning": "The content primarily discusses improvements in Visual Studio ALM features and tools rather than deployment strategies.",
     "level": "Ignored"
   },
-  "Leadership Training": {
-    "category": "Leadership Training",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses improvements in Visual Studio ALM and related features without focusing on leadership or training themes.",
-    "level": "Ignored"
-  },
   "Working Agreements": {
     "category": "Working Agreements",
     "ai_confidence": 0,
@@ -1255,14 +855,6 @@
     "reasoning": "The content primarily discusses improvements in Visual Studio ALM and does not focus on Lean Startup principles, methodologies, or applications.",
     "level": "Ignored"
   },
-  "Agile Certification": {
-    "category": "Agile Certification",
-    "ai_confidence": 24,
-    "non_ai_confidence": 0,
-    "final_score": 17.0,
-    "reasoning": "The content discusses improvements in Visual Studio ALM and tools related to project management, but does not explicitly focus on Agile Certification as the primary topic.",
-    "level": "Ignored"
-  },
   "Windows": {
     "category": "Windows",
     "ai_confidence": 65,
@@ -1277,30 +869,6 @@
     "non_ai_confidence": 20,
     "final_score": 41.0,
     "reasoning": "The content discusses improvements in Visual Studio ALM that may impact team processes like test management and Kanban, but the focus is more on the features rather than in-depth exploration of people and their workflows.",
-    "level": "Ignored"
-  },
-  "Nonlinear Dynamics": {
-    "category": "Nonlinear Dynamics",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses improvements in Visual Studio ALM, including version control, testing, and project management features, with no clear relevance to nonlinear dynamics.",
-    "level": "Ignored"
-  },
-  "Homepage": {
-    "category": "Homepage",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses mainly on improvements in Visual Studio ALM, detailing features and announcements from the ALM Summit, rather than serving as or resembling a homepage.",
-    "level": "Ignored"
-  },
-  "Agile Problem Solving": {
-    "category": "Agile Problem Solving",
-    "ai_confidence": 60,
-    "non_ai_confidence": 0,
-    "final_score": 42.0,
-    "reasoning": "The content discusses features related to Agile methodologies, such as Kanban swim lanes and Acceptance Test Driven Development (ATDD), which indicates a focus on Agile practices as part of software development improvements. However, the primary focus is on Visual Studio ALM features rather than solely on Agile problem solving.",
     "level": "Ignored"
   },
   "Personal": {
@@ -1375,36 +943,12 @@
     "reasoning": "The content primarily discusses improvements and features of Visual Studio ALM, with no clear focus on hypothesis driven development as a primary topic.",
     "level": "Ignored"
   },
-  "Agile Coaching": {
-    "category": "Agile Coaching",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily discusses improvements in Visual Studio ALM and specific features, with only a minor mention of process improvement concepts like Kanban and acceptance test driven development, which are not central themes.",
-    "level": "Ignored"
-  },
   "Team Collaboration": {
     "category": "Team Collaboration",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
     "final_score": 38.0,
     "reasoning": "While the content primarily focuses on new features in Visual Studio ALM, it discusses tools that enhance team collaboration such as Git integration, web-based test management, and Kanban swim lanes, making it a major but secondary theme.",
-    "level": "Ignored"
-  },
-  "Agile Methodology": {
-    "category": "Agile Methodology",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 49.0,
-    "reasoning": "The content discusses Kanban and Acceptance Test Driven Development (ATDD), which are related to Agile methodologies, but it is primarily focused on features of Visual Studio ALM rather than Agile itself.",
-    "level": "Ignored"
-  },
-  "Systemic Thinking": {
-    "category": "Systemic Thinking",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily discusses improvements in Visual Studio ALM, focusing on specific features and tools rather than on systemic thinking principles.",
     "level": "Ignored"
   },
   "Continuous Integration": {
@@ -1429,14 +973,6 @@
     "non_ai_confidence": 0,
     "final_score": 35.0,
     "reasoning": "The content discusses various improvements in Visual Studio ALM that support agile methodologies, such as Kanban swim lanes and test management enhancements, though it is primarily focused on software tools and features.",
-    "level": "Ignored"
-  },
-  "Strategic": {
-    "category": "Strategic",
-    "ai_confidence": 48,
-    "non_ai_confidence": 0,
-    "final_score": 34.0,
-    "reasoning": "The content discusses improvements in Visual Studio ALM and features related to software development but does not delve into strategic planning or approaches as a primary focus.",
     "level": "Ignored"
   },
   "Team Performance": {
@@ -1478,14 +1014,6 @@
     "final_score": 35.0,
     "reasoning": "The content discusses Kanban swim lanes which relates to Lean Principles, but the primary focus is on new features in Visual Studio ALM.",
     "level": "Ignored"
-  },
-  "Kanban Training": {
-    "category": "Kanban Training",
-    "ai_confidence": 75,
-    "non_ai_confidence": 10,
-    "final_score": 56.0,
-    "reasoning": "Kanban is discussed as part of improvements in Visual Studio ALM, particularly regarding swim lanes and customization; however, the focus is mainly on Visual Studio features and not on Kanban training specifically.",
-    "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",

@@ -7,22 +7,6 @@
     "reasoning": "Content heavily discusses the importance of delivery in Scrum, emphasising the need for teams to adapt their practices to ensure value is delivered, which aligns closely with change management principles.",
     "level": "Secondary"
   },
-  "Site Reliability": {
-    "category": "Site Reliability",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "While the content primarily discusses Scrum and delivery practices, it touches on aspects of reliability in the context of continuous delivery and the importance of deploying increments to production, making it a significant but secondary theme.",
-    "level": "Ignored"
-  },
-  "Agile Pilot": {
-    "category": "Agile Pilot",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the importance of delivery in Scrum, outlining practices and principles that align with Agile methodologies.",
-    "level": "Secondary"
-  },
   "Agile Transformation": {
     "category": "Agile Transformation",
     "ai_confidence": 92,
@@ -71,14 +55,6 @@
     "reasoning": "While the content primarily focuses on the importance of delivery in Scrum, it discusses user feedback and impact, which are related to customer satisfaction, making it a significant but secondary theme.",
     "level": "Ignored"
   },
-  "Agile Certifications": {
-    "category": "Agile Certifications",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the importance of delivery in Scrum and does not focus on Agile certifications as a central theme.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
     "ai_confidence": 0,
@@ -93,14 +69,6 @@
     "non_ai_confidence": 10,
     "final_score": 67.0,
     "reasoning": "Content heavily discusses the importance of delivery in Scrum, emphasising how it defines the effectiveness of Scrum Teams and their performance.",
-    "level": "Secondary"
-  },
-  "Agile Digital Tools": {
-    "category": "Agile Digital Tools",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses Scrum practices and the importance of delivery in Agile methodologies, making Agile Digital Tools a central theme.",
     "level": "Secondary"
   },
   "Lean Principles": {
@@ -143,30 +111,6 @@
     "reasoning": "Content primarily focuses on the importance of delivery within Scrum, aligning closely with Scrum values of commitment and focus on delivering value.",
     "level": "Secondary"
   },
-  "Data Driven Decisions": {
-    "category": "Data Driven Decisions",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the importance of delivery in Scrum and how it impacts value creation, but it primarily focuses on Scrum practices rather than explicitly on data-driven decision-making.",
-    "level": "Ignored"
-  },
-  "Kanban Flow": {
-    "category": "Kanban Flow",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Scrum practices and the importance of delivery in the Scrum framework, with no clear focus on Kanban Flow.",
-    "level": "Ignored"
-  },
-  "Agile Estimation": {
-    "category": "Agile Estimation",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the importance of delivery in Scrum and the distinction between Done and Delivered, rather than focusing on Agile estimation techniques or practices.",
-    "level": "Ignored"
-  },
   "Product Backlog": {
     "category": "Product Backlog",
     "ai_confidence": 50,
@@ -182,22 +126,6 @@
     "final_score": 3.0,
     "reasoning": "The content primarily discusses the importance of delivery in Scrum and does not focus on Sprint Planning Workshop as a central theme.",
     "level": "Ignored"
-  },
-  "Kanban Training": {
-    "category": "Kanban Training",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Scrum principles and the importance of delivery in Scrum, with no clear focus on Kanban training.",
-    "level": "Ignored"
-  },
-  "Agile Apocalypse": {
-    "category": "Agile Apocalypse",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the importance of delivery in Scrum, emphasising that delivery is the primary measure of progress, which aligns closely with the themes of Agile Apocalypse.",
-    "level": "Secondary"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
@@ -247,28 +175,12 @@
     "reasoning": "Content primarily focuses on the importance of delivery in Scrum, emphasising the role of CI/CD pipelines in ensuring that increments are delivered efficiently and safely.",
     "level": "Secondary"
   },
-  "Adaptive Leadership": {
-    "category": "Adaptive Leadership",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on Scrum practices and the importance of delivery in software development, rather than discussing adaptive leadership as a central theme.",
-    "level": "Ignored"
-  },
   "Agile Strategy": {
     "category": "Agile Strategy",
     "ai_confidence": 92,
     "non_ai_confidence": 0,
     "final_score": 64.0,
     "reasoning": "Content heavily discusses the importance of delivery in Scrum, positioning it as a fundamental measure of progress and outlining strategies for Scrum Teams to ensure effective delivery.",
-    "level": "Secondary"
-  },
-  "Agile Software Development": {
-    "category": "Agile Software Development",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses Scrum principles, focusing on the importance of delivery as a measure of progress, which is central to Agile methodologies.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -286,22 +198,6 @@
     "final_score": 0.0,
     "reasoning": "The content primarily discusses Scrum practices and the importance of delivery in software development, rather than focusing on Behaviour Driven Development as a central theme.",
     "level": "Ignored"
-  },
-  "Evidence Based Improvement": {
-    "category": "Evidence Based Improvement",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content primarily focuses on the importance of delivery in Scrum, emphasising the need for teams to deliver value and adapt based on user feedback, which aligns closely with evidence-based improvement principles.",
-    "level": "Secondary"
-  },
-  "Adaptive Strategy": {
-    "category": "Adaptive Strategy",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the importance of delivery in Scrum as a means to adapt and respond to user feedback, emphasising the need for teams to shift their focus towards delivering value and adapting their processes accordingly.",
-    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -383,46 +279,6 @@
     "reasoning": "The content primarily discusses the importance of delivery in Scrum and does not address psychological safety as a clear or central theme.",
     "level": "Ignored"
   },
-  "Agile Evolution": {
-    "category": "Agile Evolution",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the importance of delivery in Scrum, emphasising its role as a measure of progress and the evolution of practices in modern software engineering.",
-    "level": "Secondary"
-  },
-  "Agile Forecasting": {
-    "category": "Agile Forecasting",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the importance of delivery in Scrum and the distinction between Done and Delivered, rather than focusing on Agile forecasting.",
-    "level": "Ignored"
-  },
-  "Sprint Review Workshops": {
-    "category": "Sprint Review Workshops",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the importance of delivery in Scrum and mentions Sprint Reviews, but the primary focus is on delivery as a measure of progress rather than on Sprint Review Workshops specifically.",
-    "level": "Ignored"
-  },
-  "Lean UX": {
-    "category": "Lean UX",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Scrum practices and the importance of delivery in software development, rather than focusing on Lean UX principles.",
-    "level": "Ignored"
-  },
-  "Release Planning": {
-    "category": "Release Planning",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the importance of delivery in Scrum, outlining how it should be a primary focus in release planning and execution.",
-    "level": "Secondary"
-  },
   "Azure DevOps": {
     "category": "Azure DevOps",
     "ai_confidence": 85,
@@ -447,14 +303,6 @@
     "reasoning": "Content primarily focuses on the importance of delivery in Scrum, emphasising the need for evidence-based practices to measure progress and value delivery.",
     "level": "Secondary"
   },
-  "Technical Strategy": {
-    "category": "Technical Strategy",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the importance of delivery in Scrum as a measure of progress, outlining strategies for ensuring effective delivery and its implications for competitive advantage.",
-    "level": "Secondary"
-  },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
     "ai_confidence": 0,
@@ -463,36 +311,12 @@
     "reasoning": "The content primarily discusses Scrum practices and the importance of delivery in software development, with no clear focus on Value Stream Mapping.",
     "level": "Ignored"
   },
-  "Agile Resource Management": {
-    "category": "Agile Resource Management",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the importance of delivery in Scrum, outlining practices and principles that directly relate to managing resources effectively within an Agile framework.",
-    "level": "Secondary"
-  },
-  "Agile Problem Solving": {
-    "category": "Agile Problem Solving",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the importance of delivery in Scrum, emphasising how it relates to solving complex problems and improving team effectiveness.",
-    "level": "Secondary"
-  },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
     "ai_confidence": 92,
     "non_ai_confidence": 20,
     "final_score": 70.0,
     "reasoning": "The content primarily focuses on the importance of delivery in Scrum, emphasising continuous delivery as a fundamental measure of progress and outlining practices to ensure delivery becomes the default for Scrum Teams.",
-    "level": "Secondary"
-  },
-  "Agile Methodology": {
-    "category": "Agile Methodology",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses Scrum principles, focusing on the importance of delivery as a measure of progress, which is central to Agile methodology.",
     "level": "Secondary"
   },
   "Organisational Culture": {
@@ -575,14 +399,6 @@
     "reasoning": "The content discusses the importance of delivery in Scrum and mentions automation in the context of CI/CD pipelines, but the primary focus is on delivery rather than automated testing specifically.",
     "level": "Ignored"
   },
-  "Predictability in Kanban": {
-    "category": "Predictability in Kanban",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses Scrum practices and the importance of delivery in software development, with no clear focus on predictability in Kanban.",
-    "level": "Ignored"
-  },
   "Business Agility": {
     "category": "Business Agility",
     "ai_confidence": 92,
@@ -631,14 +447,6 @@
     "reasoning": "Content primarily discusses the importance of delivery in Scrum within the context of modern software engineering practices and DevOps, highlighting how these elements contribute to digital transformation in organisations.",
     "level": "Secondary"
   },
-  "Agile Software Engineering": {
-    "category": "Agile Software Engineering",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content heavily discusses Scrum principles, focusing on the importance of delivery as a measure of progress, which is central to Agile methodologies.",
-    "level": "Secondary"
-  },
   "Continuous Learning": {
     "category": "Continuous Learning",
     "ai_confidence": 0,
@@ -669,22 +477,6 @@
     "non_ai_confidence": 0,
     "final_score": 64.0,
     "reasoning": "Content heavily discusses Scrum principles, particularly the importance of delivery as a measure of progress, which is central to Scaled Agile methodologies.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses Scrum principles, focusing on the importance of delivery as a measure of progress, which is central to Agile Project Management.",
-    "level": "Secondary"
-  },
-  "Continuos Delivery": {
-    "category": "Continuos Delivery",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "The content primarily focuses on the importance of delivery in Scrum, emphasising continuous delivery as a fundamental measure of progress and outlining practices to ensure delivery becomes the default for Scrum Teams.",
     "level": "Secondary"
   },
   "Self Organisation": {
@@ -727,14 +519,6 @@
     "reasoning": "The content primarily discusses the importance of delivery in Scrum and how it impacts progress, rather than focusing on experimentation as a central theme.",
     "level": "Ignored"
   },
-  "Agile Books": {
-    "category": "Agile Books",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses Scrum principles, particularly the importance of delivery in measuring progress, which aligns closely with Agile methodologies.",
-    "level": "Secondary"
-  },
   "Decision Theory": {
     "category": "Decision Theory",
     "ai_confidence": 0,
@@ -750,22 +534,6 @@
     "final_score": 67.0,
     "reasoning": "Content heavily discusses Scrum principles, particularly the importance of delivery as a measure of progress, and outlines how Scrum Teams can ensure effective delivery.",
     "level": "Secondary"
-  },
-  "Kanban Coaching": {
-    "category": "Kanban Coaching",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Scrum principles and the importance of delivery in Scrum, rather than focusing on Kanban coaching.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on the importance of delivery in Scrum and does not centre around discovery or learning as a primary topic.",
-    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -791,22 +559,6 @@
     "reasoning": "Content primarily discusses the importance of delivery in Scrum, which is a key aspect of Agile planning and execution.",
     "level": "Secondary"
   },
-  "Agile Certification": {
-    "category": "Agile Certification",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses Scrum principles and practices, focusing on the importance of delivery within the Scrum framework, which is central to Agile methodologies.",
-    "level": "Secondary"
-  },
-  "Test Strategy": {
-    "category": "Test Strategy",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the importance of delivery in Scrum and does not focus on test strategies or testing methodologies.",
-    "level": "Ignored"
-  },
   "Cycle": {
     "category": "Cycle",
     "ai_confidence": 0,
@@ -831,14 +583,6 @@
     "reasoning": "The content primarily discusses the importance of delivery in Scrum, which directly influences decision-making processes within teams regarding how they measure progress and adapt to user feedback.",
     "level": "Secondary"
   },
-  "Agile Predictability": {
-    "category": "Agile Predictability",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the importance of delivery in Scrum as a measure of progress, emphasising the need for Scrum Teams to focus on delivering value rather than just completing work.",
-    "level": "Secondary"
-  },
   "DevOps": {
     "category": "DevOps",
     "ai_confidence": 92,
@@ -846,14 +590,6 @@
     "final_score": 79.0,
     "reasoning": "Content heavily discusses the importance of delivery in Scrum, linking it directly to modern DevOps practices and continuous delivery, making DevOps a central theme.",
     "level": "Secondary"
-  },
-  "Nonlinear Dynamics": {
-    "category": "Nonlinear Dynamics",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Scrum practices and the importance of delivery in software development, with no clear focus on nonlinear dynamics.",
-    "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -879,14 +615,6 @@
     "reasoning": "Content heavily discusses the importance of delivery in Scrum, outlining practices and expectations for Scrum Teams to ensure effective operational delivery.",
     "level": "Secondary"
   },
-  "Agile Scaling": {
-    "category": "Agile Scaling",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the importance of delivery in Scrum, emphasising how it impacts team effectiveness and aligns with modern Agile practices, which are central to Agile Scaling.",
-    "level": "Secondary"
-  },
   "Working Agreements": {
     "category": "Working Agreements",
     "ai_confidence": 0,
@@ -910,22 +638,6 @@
     "final_score": 64.0,
     "reasoning": "Content primarily focuses on the importance of delivery in Scrum, emphasising the technical aspects of software delivery and the implications of modern practices on Scrum methodologies.",
     "level": "Secondary"
-  },
-  "Homepage": {
-    "category": "Homepage",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Scrum practices and the importance of delivery in software development, rather than focusing on a homepage or its elements.",
-    "level": "Ignored"
-  },
-  "Agile Portfolio Management": {
-    "category": "Agile Portfolio Management",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Scrum practices and the importance of delivery, which are relevant to Agile methodologies, but it primarily focuses on Scrum rather than broader portfolio management concepts.",
-    "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -967,14 +679,6 @@
     "reasoning": "Content heavily discusses the importance of delivery in Scrum, outlining practices and expectations for Scrum Teams, making it a primary focus.",
     "level": "Secondary"
   },
-  "Agile Product Management": {
-    "category": "Agile Product Management",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the importance of delivery in Scrum, outlining practices and principles central to Agile Product Management.",
-    "level": "Secondary"
-  },
   "Remote Working": {
     "category": "Remote Working",
     "ai_confidence": 0,
@@ -982,22 +686,6 @@
     "final_score": 3.0,
     "reasoning": "The content primarily discusses Scrum practices and the importance of delivery in software development, with no clear focus on remote working.",
     "level": "Ignored"
-  },
-  "Strategic": {
-    "category": "Strategic",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the importance of delivery in Scrum as a measure of progress, emphasising strategic implications for competitive advantage and organisational responsiveness.",
-    "level": "Secondary"
-  },
-  "Agile Tools": {
-    "category": "Agile Tools",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses Scrum practices and the importance of delivery within the framework, making Agile Tools a primary focus.",
-    "level": "Secondary"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
@@ -1047,14 +735,6 @@
     "reasoning": "Content heavily discusses the importance of delivery in Scrum, emphasising that delivery is the measure of progress and directly relates to cycle time in terms of how quickly increments are delivered to users.",
     "level": "Secondary"
   },
-  "Software Increment": {
-    "category": "Software Increment",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content heavily discusses the importance of delivering Done Increments in Scrum, emphasising the distinction between being Done and actually delivering value to users.",
-    "level": "Secondary"
-  },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
     "ai_confidence": 92,
@@ -1079,14 +759,6 @@
     "reasoning": "Content heavily discusses the importance of delivery within Scrum, emphasising how it impacts team effectiveness and the overall measure of progress in Scrum practices.",
     "level": "Secondary"
   },
-  "Value Prioritisation": {
-    "category": "Value Prioritisation",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the importance of delivery in Scrum as a measure of progress, emphasising the distinction between 'Done' and 'Delivered' and how this impacts value creation.",
-    "level": "Secondary"
-  },
   "Agile Leadership": {
     "category": "Agile Leadership",
     "ai_confidence": 92,
@@ -1103,14 +775,6 @@
     "reasoning": "Content heavily discusses the importance of delivery in Scrum, outlining practices and principles that Scrum Teams should adopt to ensure effective product development.",
     "level": "Secondary"
   },
-  "Systemic Thinking": {
-    "category": "Systemic Thinking",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the importance of delivery in Scrum, which relates to systemic thinking in terms of understanding the broader implications of delivery on value and feedback loops, but it primarily focuses on Scrum practices.",
-    "level": "Ignored"
-  },
   "BetaCodex": {
     "category": "BetaCodex",
     "ai_confidence": 80,
@@ -1125,38 +789,6 @@
     "non_ai_confidence": 10,
     "final_score": 3.0,
     "reasoning": "The content primarily discusses the importance of delivery in Scrum and the implications of not delivering value, rather than focusing on team motivation.",
-    "level": "Ignored"
-  },
-  "Agile Mentoring Program": {
-    "category": "Agile Mentoring Program",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Scrum principles and practices, which are relevant to Agile methodologies, but it primarily focuses on the concept of delivery rather than mentoring or training within an Agile context.",
-    "level": "Ignored"
-  },
-  "Agile AI": {
-    "category": "Agile AI",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Scrum practices and the importance of delivery in Agile methodologies, without a clear focus on Agile AI.",
-    "level": "Ignored"
-  },
-  "Agile Mentoring": {
-    "category": "Agile Mentoring",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Scrum practices and the importance of delivery, which are relevant to Agile mentoring, but the primary focus is on delivery rather than mentoring itself.",
-    "level": "Ignored"
-  },
-  "Kanban": {
-    "category": "Kanban",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Scrum principles and the importance of delivery within the Scrum framework, with no significant focus on Kanban.",
     "level": "Ignored"
   },
   "Scrum": {
@@ -1182,22 +814,6 @@
     "final_score": 72.0,
     "reasoning": "The content primarily focuses on the importance of delivery in Scrum, emphasising that delivery is the measure of progress and discussing how to ensure that Scrum Teams deliver value effectively.",
     "level": "Secondary"
-  },
-  "Agile Product Validation": {
-    "category": "Agile Product Validation",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the importance of delivery in Scrum, emphasising the distinction between 'Done' and 'Delivered', which is central to Agile product validation.",
-    "level": "Secondary"
-  },
-  "Kanban Process": {
-    "category": "Kanban Process",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses Scrum principles and the importance of delivery within that framework, rather than focusing on the Kanban process.",
-    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1239,14 +855,6 @@
     "reasoning": "The content primarily discusses Scrum practices and the importance of delivery in the Scrum framework, with no clear focus on Scaling Kanban.",
     "level": "Ignored"
   },
-  "Agile Leader": {
-    "category": "Agile Leader",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the importance of delivery in Scrum, emphasising leadership in guiding teams towards effective delivery practices.",
-    "level": "Secondary"
-  },
   "Engineering Practices": {
     "category": "Engineering Practices",
     "ai_confidence": 92,
@@ -1270,22 +878,6 @@
     "final_score": 67.0,
     "reasoning": "Content primarily focuses on the importance of delivery in Scrum, emphasising the role of CI/CD pipelines in ensuring that increments are delivered efficiently and safely.",
     "level": "Secondary"
-  },
-  "Agile Product Discovery": {
-    "category": "Agile Product Discovery",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the importance of delivery in Scrum, emphasising how it relates to product discovery and value creation.",
-    "level": "Secondary"
-  },
-  "Kanban Theory": {
-    "category": "Kanban Theory",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Scrum practices and the importance of delivery within that framework, with no clear focus on Kanban Theory.",
-    "level": "Ignored"
   },
   "Customer Retention": {
     "category": "Customer Retention",
@@ -1343,30 +935,6 @@
     "reasoning": "The content primarily focuses on Scrum practices and delivery in software development, with only indirect implications for entrepreneurship through discussions of market responsiveness and competitive advantage.",
     "level": "Ignored"
   },
-  "Agile Community": {
-    "category": "Agile Community",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses Scrum principles, focusing on the importance of delivery as a measure of progress, which is central to Agile methodologies.",
-    "level": "Secondary"
-  },
-  "Lean Agile": {
-    "category": "Lean Agile",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses Scrum principles, particularly the importance of delivery as a measure of progress, which is central to Lean Agile methodologies.",
-    "level": "Secondary"
-  },
-  "Value Stream Management": {
-    "category": "Value Stream Management",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on the importance of delivery in Scrum, which aligns closely with the principles of Value Stream Management, emphasising the flow of value through delivery processes.",
-    "level": "Secondary"
-  },
   "Troubleshooting": {
     "category": "Troubleshooting",
     "ai_confidence": 0,
@@ -1391,22 +959,6 @@
     "reasoning": "The content primarily discusses the importance of delivery in Scrum, highlighting how adapting to modern practices and user feedback is essential for success, which aligns with themes of resilience and change.",
     "level": "Secondary"
   },
-  "Agile Coaching": {
-    "category": "Agile Coaching",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses Scrum principles, focusing on the importance of delivery as a measure of progress, which is central to Agile coaching practices.",
-    "level": "Secondary"
-  },
-  "Leadership Training": {
-    "category": "Leadership Training",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on Scrum practices and the importance of delivery in software development, rather than on leadership training.",
-    "level": "Ignored"
-  },
   "Personal": {
     "category": "Personal",
     "ai_confidence": 0,
@@ -1415,36 +967,12 @@
     "reasoning": "The content primarily discusses Scrum practices and the importance of delivery in software development, with no clear focus on personal themes.",
     "level": "Ignored"
   },
-  "Agile Product Ownership": {
-    "category": "Agile Product Ownership",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the importance of delivery in Scrum, which is a core aspect of Agile Product Ownership.",
-    "level": "Secondary"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
     "ai_confidence": 92,
     "non_ai_confidence": 10,
     "final_score": 67.0,
     "reasoning": "Content heavily discusses the importance of delivery in Scrum, emphasising the need for teams to focus on delivering value and adapting to user feedback, which aligns closely with engineering excellence principles.",
-    "level": "Secondary"
-  },
-  "Complexity Science": {
-    "category": "Complexity Science",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Scrum methodology and the importance of delivery in software development, with no clear focus on complexity science.",
-    "level": "Ignored"
-  },
-  "Organisational Transformational Mastery": {
-    "category": "Organisational Transformational Mastery",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily focuses on the importance of delivery in Scrum, which is a key aspect of organisational transformation in software development practices.",
     "level": "Secondary"
   },
   "Scrum Team": {

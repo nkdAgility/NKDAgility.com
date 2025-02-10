@@ -47,14 +47,6 @@
     "reasoning": "The content primarily discusses using PowerShell to interact with the TFS API and does not address Acceptance Test Driven Development as a main topic.",
     "level": "Ignored"
   },
-  "Agile Product Management": {
-    "category": "Agile Product Management",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses using PowerShell to interact with .NET and TFS APIs, and does not focus on Agile Product Management concepts.",
-    "level": "Ignored"
-  },
   "Continuous Integration": {
     "category": "Continuous Integration",
     "ai_confidence": 30,
@@ -79,28 +71,12 @@
     "reasoning": "The content is primarily focused on using PowerShell to interact with the TFS API and does not discuss lead time as a central topic.",
     "level": "Ignored"
   },
-  "Kanban": {
-    "category": "Kanban",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses using PowerShell with TFS (Team Foundation Server) and creating teams programmatically, with no clear focus on Kanban methodology or practices.",
-    "level": "Ignored"
-  },
   "Professional Scrum": {
     "category": "Professional Scrum",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses writing .NET code in PowerShell and working with the TFS API, with no focus on Scrum principles, roles, or framework.",
-    "level": "Ignored"
-  },
-  "Agile Certifications": {
-    "category": "Agile Certifications",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses programming in PowerShell and creating teams in TFS, with no clear connection to Agile certifications.",
     "level": "Ignored"
   },
   "Organisational Culture": {
@@ -143,28 +119,12 @@
     "reasoning": "The content discusses utilizing PowerShell with TFS (Team Foundation Server) and focuses on programming aspects rather than a clear and primary topic on digital transformation.",
     "level": "Ignored"
   },
-  "Agile Forecasting": {
-    "category": "Agile Forecasting",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily focused on using PowerShell to interact with the TFS API for creating teams and projects, and does not discuss Agile Forecasting.",
-    "level": "Ignored"
-  },
   "Automated Testing": {
     "category": "Automated Testing",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses writing .NET code in PowerShell and creating TFS teams, with no significant focus on automated testing.",
-    "level": "Ignored"
-  },
-  "Nonlinear Dynamics": {
-    "category": "Nonlinear Dynamics",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses primarily on using PowerShell to interact with .NET and TFS APIs. There is no mention or clear relevance to nonlinear dynamics.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -199,14 +159,6 @@
     "reasoning": "The content focuses primarily on using PowerShell to interact with the TFS API and does not address Agile strategies or methods, which are central to the category.",
     "level": "Ignored"
   },
-  "Site Reliability": {
-    "category": "Site Reliability",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses writing .NET code in PowerShell and creating TFS Teams, with no significant focus on site reliability principles or practices.",
-    "level": "Ignored"
-  },
   "Definition of Done": {
     "category": "Definition of Done",
     "ai_confidence": 0,
@@ -239,22 +191,6 @@
     "reasoning": "The content primarily discusses using PowerShell to interact with TFS (Team Foundation Server), including the creation of TFS teams, which is a specific working software functionality.",
     "level": "Secondary"
   },
-  "Agile Software Development": {
-    "category": "Agile Software Development",
-    "ai_confidence": 45,
-    "non_ai_confidence": 0,
-    "final_score": 31.0,
-    "reasoning": "While the content mentions TFS (Team Foundation Server), which is used in Agile development contexts, the focus is primarily on programming in PowerShell and .NET rather than Agile Software Development practices itself.",
-    "level": "Ignored"
-  },
-  "Adaptive Strategy": {
-    "category": "Adaptive Strategy",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS API and creating teams within TFS, without directly discussing adaptive strategies.",
-    "level": "Ignored"
-  },
   "Employee Engagement": {
     "category": "Employee Engagement",
     "ai_confidence": 0,
@@ -269,22 +205,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses technical aspects of using PowerShell with .NET and TFS, with no substantial focus on remote working themes.",
-    "level": "Ignored"
-  },
-  "Agile Scaling": {
-    "category": "Agile Scaling",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses using PowerShell for .NET programming and TFS API interactions, without central focus on Agile Scaling concepts.",
-    "level": "Ignored"
-  },
-  "Kanban Theory": {
-    "category": "Kanban Theory",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is focused on using PowerShell to manage TFS teams and does not discuss Kanban Theory.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -311,22 +231,6 @@
     "reasoning": "The content primarily discusses programming in PowerShell with a focus on creating TFS Teams and using the TFS API, without mentioning Agile Transformation as a clear primary topic.",
     "level": "Ignored"
   },
-  "Technical Strategy": {
-    "category": "Technical Strategy",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "While the content primarily focuses on using PowerShell for interactions with the TFS API, it discusses programming techniques and methodologies, making Technical Strategy a major but secondary theme.",
-    "level": "Ignored"
-  },
-  "Continuos Delivery": {
-    "category": "Continuos Delivery",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses writing .NET code in PowerShell and creating TFS Teams. Continuous Delivery is not a central theme.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
     "ai_confidence": 0,
@@ -351,22 +255,6 @@
     "reasoning": "The content primarily focuses on writing .NET in PowerShell and creating TFS Teams without discussing Scrum values or principles.",
     "level": "Ignored"
   },
-  "Agile Estimation": {
-    "category": "Agile Estimation",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses writing .NET code in PowerShell and creating TFS teams, with no mention of Agile estimation principles or practices.",
-    "level": "Ignored"
-  },
-  "Data Driven Decisions": {
-    "category": "Data Driven Decisions",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily focused on writing PowerShell scripts for creating teams in TFS, rather than on data-driven decision-making.",
-    "level": "Ignored"
-  },
   "Technical Leadership": {
     "category": "Technical Leadership",
     "ai_confidence": 45,
@@ -383,28 +271,12 @@
     "reasoning": "The content primarily focuses on using PowerShell for .NET programming and interacting with TFS API, with no significant discussion of Scrum or product management concepts.",
     "level": "Ignored"
   },
-  "Release Planning": {
-    "category": "Release Planning",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on using PowerShell to create and manage teams within TFS, rather than on the concept of release planning.",
-    "level": "Ignored"
-  },
   "Product Owner": {
     "category": "Product Owner",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content is primarily focused on using PowerShell with .NET and TFS, with no substantial discussion on the role or responsibilities of a Product Owner.",
-    "level": "Ignored"
-  },
-  "Agile AI": {
-    "category": "Agile AI",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on using PowerShell to interact with TFS and create teams programmatically, without any mention of Agile AI principles or practices.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -415,28 +287,12 @@
     "reasoning": "The content primarily discusses using PowerShell to interact with TFS and does not mention or focus on Daily Scrum practices.",
     "level": "Ignored"
   },
-  "Adaptive Leadership": {
-    "category": "Adaptive Leadership",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses programming in PowerShell and creating teams in TFS, with no central focus on adaptive leadership.",
-    "level": "Ignored"
-  },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
     "final_score": 3.0,
     "reasoning": "The content primarily discusses using PowerShell with .NET and creating TFS teams, with no significant focus on Agile values or principles.",
-    "level": "Ignored"
-  },
-  "Organisational Transformational Mastery": {
-    "category": "Organisational Transformational Mastery",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical details related to programming in PowerShell and TFS API, without a central focus on organizational transformation.",
     "level": "Ignored"
   },
   "Team Performance": {
@@ -463,28 +319,12 @@
     "reasoning": "The content primarily discusses using PowerShell to create and manage Teams in TFS (Team Foundation Server) with a focus on coding aspects rather than scaling Scrum methodologies or practices.",
     "level": "Ignored"
   },
-  "Kanban Flow": {
-    "category": "Kanban Flow",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses primarily on using PowerShell to interact with TFS (Team Foundation Server) and the .NET framework. There is no discussion of Kanban Flow or related concepts.",
-    "level": "Ignored"
-  },
   "BetaCodex": {
     "category": "BetaCodex",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses using PowerShell to interact with TFS (Team Foundation Server) and does not mention or focus on BetaCodex at all.",
-    "level": "Ignored"
-  },
-  "Agile Problem Solving": {
-    "category": "Agile Problem Solving",
-    "ai_confidence": 20,
-    "non_ai_confidence": 10,
-    "final_score": 17.0,
-    "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS API, which includes coding techniques rather than discussing Agile problem-solving methodologies or principles.",
     "level": "Ignored"
   },
   "Scrum Team": {
@@ -509,14 +349,6 @@
     "non_ai_confidence": 0,
     "final_score": 21.0,
     "reasoning": "The content primarily focuses on programming with PowerShell and .NET, discussing technical details and code examples, with only a vague connection to improving skills or processes. Continuous improvement is not the central theme.",
-    "level": "Ignored"
-  },
-  "Agile Mentoring": {
-    "category": "Agile Mentoring",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on using PowerShell to interact with TFS and create teams programmatically, with no significant mention or discussion of Agile mentoring principles or practices.",
     "level": "Ignored"
   },
   "Troubleshooting": {
@@ -631,14 +463,6 @@
     "reasoning": "The content primarily discusses using PowerShell with the TFS API, focusing on scripting and creating Team projects, rather than addressing frequent releases.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "ai_confidence": 20,
-    "non_ai_confidence": 10,
-    "final_score": 17.0,
-    "reasoning": "The content primarily discusses the use of PowerShell to interact with TFS (Team Foundation Server) and create teams programmatically. While TFS is related to project management, Agile principles or practices are not the main focus of the content.",
-    "level": "Ignored"
-  },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
     "ai_confidence": 0,
@@ -703,60 +527,12 @@
     "reasoning": "The content discusses the use of PowerShell with .NET, specifically in relation to creating teams in TFS, without any focus on decision theory or related concepts.",
     "level": "Ignored"
   },
-  "Agile Product Discovery": {
-    "category": "Agile Product Discovery",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses writing .NET code in PowerShell and creating teams in TFS. It does not focus on Agile Product Discovery as a central topic.",
-    "level": "Ignored"
-  },
-  "Homepage": {
-    "category": "Homepage",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on writing .NET code in PowerShell and creating TFS Teams, which is not related to a homepage topic.",
-    "level": "Ignored"
-  },
-  "Agile Software Engineering": {
-    "category": "Agile Software Engineering",
-    "ai_confidence": 20,
-    "non_ai_confidence": 0,
-    "final_score": 14.0,
-    "reasoning": "The content discusses programming in PowerShell and using the TFS API, but does not focus on Agile methodologies or practices, which are central to Agile Software Engineering.",
-    "level": "Ignored"
-  },
-  "Agile Certification": {
-    "category": "Agile Certification",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on using PowerShell with .NET and the TFS API, without any mention of Agile principles or certification.",
-    "level": "Ignored"
-  },
-  "Agile Digital Tools": {
-    "category": "Agile Digital Tools",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses using PowerShell to interact with TFS (Team Foundation Server) and create teams, which relates to agile digital tools, but the focus is primarily on coding and PowerShell specifics rather than the tools themselves.",
-    "level": "Ignored"
-  },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses using PowerShell to interact with the TFS API for creating teams, without a focus on Scrum or product development methodologies.",
-    "level": "Ignored"
-  },
-  "Agile Community": {
-    "category": "Agile Community",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the usage of PowerShell for interacting with TFS and creating Teams programmatically, with no substantial focus on Agile methodologies or community aspects.",
     "level": "Ignored"
   },
   "Lean Principles": {
@@ -775,14 +551,6 @@
     "reasoning": "The content primarily focuses on using PowerShell to interact with TFS (Team Foundation Server), which is part of Azure DevOps services, but it does not predominantly discuss Azure Boards specifically.",
     "level": "Ignored"
   },
-  "Agile Evolution": {
-    "category": "Agile Evolution",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses using PowerShell to interact with the TFS API and does not focus on Agile principles, methodologies, or their evolution.",
-    "level": "Ignored"
-  },
   "Technical Excellence": {
     "category": "Technical Excellence",
     "ai_confidence": 92,
@@ -791,36 +559,12 @@
     "reasoning": "Content primarily focuses on writing .NET code in PowerShell, discussing code snippets, problem-solving, and technical intricacies of using TFS API with PowerShell, demonstrating technical proficiency and depth.",
     "level": "Secondary"
   },
-  "Value Prioritisation": {
-    "category": "Value Prioritisation",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical aspects and code examples related to using PowerShell with .NET and TFS, with no clear focus on value prioritization.",
-    "level": "Ignored"
-  },
   "Team Motivation": {
     "category": "Team Motivation",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
     "final_score": 3.0,
     "reasoning": "The content primarily discusses technical aspects of using PowerShell to work with TFS and does not address team motivation as a clear topic.",
-    "level": "Ignored"
-  },
-  "Agile Books": {
-    "category": "Agile Books",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses using PowerShell to interact with TFS (Team Foundation Server) and .NET programming, without a central focus on Agile principles or methodologies.",
-    "level": "Ignored"
-  },
-  "Predictability in Kanban": {
-    "category": "Predictability in Kanban",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses using PowerShell to programmatically manage TFS and does not address Kanban or predictability in that context.",
     "level": "Ignored"
   },
   "People and Process": {
@@ -847,28 +591,12 @@
     "reasoning": "The content primarily discusses using PowerShell for .NET and TFS (Team Foundation Server) without any mention of Test Driven Development principles or practices. The focus is on scripting and usage rather than testing methodologies.",
     "level": "Ignored"
   },
-  "Systemic Thinking": {
-    "category": "Systemic Thinking",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses using PowerShell with .NET and TFS, focusing on coding techniques and troubleshooting. Systemic Thinking is not a central theme.",
-    "level": "Ignored"
-  },
   "Trend Analysis": {
     "category": "Trend Analysis",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily focuses on programming with PowerShell and using it to work with TFS, without any clear discussion or analysis of trends.",
-    "level": "Ignored"
-  },
-  "Agile Portfolio Management": {
-    "category": "Agile Portfolio Management",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses using PowerShell to interact with TFS and .NET objects, without a clear focus on Agile Portfolio Management.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -887,36 +615,12 @@
     "reasoning": "The content primarily discusses technical aspects of using PowerShell with .NET and TFS, with only incidental personal reflections from the author.",
     "level": "Ignored"
   },
-  "Agile Coaching": {
-    "category": "Agile Coaching",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on using PowerShell to interact with .NET and TFS, and does not discuss Agile principles or coaching techniques.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "The content discusses the process of learning to use PowerShell for .NET programming, including the steps and challenges faced, indicating a primary focus on discovering new knowledge and skills.",
-    "level": "Secondary"
-  },
   "Azure Repos": {
     "category": "Azure Repos",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 35.0,
     "reasoning": "The content discusses TFS (Team Foundation Server) and creating teams programmatically using PowerShell, which is relevant to Azure DevOps. However, it is more geared towards PowerShell scripting rather than a focused discussion specifically on Azure Repos.",
-    "level": "Ignored"
-  },
-  "Agile Predictability": {
-    "category": "Agile Predictability",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses using PowerShell to create teams in TFS (Team Foundation Server) and related technical details, with no clear connection to the concept of Agile Predictability.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
@@ -1007,14 +711,6 @@
     "reasoning": "The content focuses primarily on writing .NET code in PowerShell and creating TFS teams, with no significant discussion about Agile frameworks themselves.",
     "level": "Ignored"
   },
-  "Complexity Science": {
-    "category": "Complexity Science",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on using PowerShell to write and manage .NET code related to TFS teams, with no discussion or relevance to Complexity Science.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
     "ai_confidence": 0,
@@ -1030,14 +726,6 @@
     "final_score": 62.0,
     "reasoning": "The content is primarily about using PowerShell to write .NET code, specifically within the context of creating TFS teams, which is a topic directly relevant to software development.",
     "level": "Secondary"
-  },
-  "Strategic": {
-    "category": "Strategic",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is mainly focused on programming and technical explanations regarding PowerShell and TFS, with no substantial discussion on strategic topics.",
-    "level": "Ignored"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -1055,36 +743,12 @@
     "reasoning": "The content primarily discusses writing .NET code in PowerShell and creating TFS Teams, with only indirect references to Scrum concepts, making Scrum not relevant.",
     "level": "Ignored"
   },
-  "Test Strategy": {
-    "category": "Test Strategy",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses using PowerShell to interact with TFS and creating teams programmatically, with no focus on test strategies.",
-    "level": "Ignored"
-  },
-  "Leadership Training": {
-    "category": "Leadership Training",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical aspects of writing .NET in PowerShell and creating TFS Teams, with no focus on leadership training.",
-    "level": "Ignored"
-  },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily focuses on programming with PowerShell and creating TFS teams, with no discussion of customer satisfaction.",
-    "level": "Ignored"
-  },
-  "Agile Resource Management": {
-    "category": "Agile Resource Management",
-    "ai_confidence": 20,
-    "non_ai_confidence": 0,
-    "final_score": 14.0,
-    "reasoning": "The content discusses the use of PowerShell to create teams in TFS (Team Foundation Server), but the focus is primarily on PowerShell syntax and .NET integration rather than Agile Resource Management practices or principles.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1119,36 +783,12 @@
     "reasoning": "The content primarily discusses the use of PowerShell to interact with .NET and TFS, with no clear focus on accountability.",
     "level": "Ignored"
   },
-  "Agile Pilot": {
-    "category": "Agile Pilot",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses writing .NET code in PowerShell and creating TFS Teams programmatically, with no clear focus on Agile methodologies or practices.",
-    "level": "Ignored"
-  },
   "Product Strategy": {
     "category": "Product Strategy",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily focuses on using PowerShell to interact with TFS (Team Foundation Server) for coding and scripting, with no central discussion on product strategy.",
-    "level": "Ignored"
-  },
-  "Agile Tools": {
-    "category": "Agile Tools",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "Content primarily focuses on using PowerShell to interact with TFS (Team Foundation Server), which is a tool relevant to Agile practices. The discussion about creating teams within TFS indicates a substantial connection to Agile tools, though it is not exclusively about Agile methodologies.",
-    "level": "Secondary"
-  },
-  "Agile Leader": {
-    "category": "Agile Leader",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on using PowerShell to interact with TFS and write .NET code, with no discussion or relevance to Agile leadership or principles.",
     "level": "Ignored"
   },
   "Entrepreneurship": {
@@ -1175,14 +815,6 @@
     "reasoning": "Content primarily discusses writing .NET code in PowerShell, creating teams in TFS, and handling programming constructs, making software development the main focus.",
     "level": "Secondary"
   },
-  "Lean UX": {
-    "category": "Lean UX",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses using PowerShell for programming with .NET and the TFS API, without any mention or focus on Lean UX principles or practices.",
-    "level": "Ignored"
-  },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
     "ai_confidence": 0,
@@ -1197,14 +829,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content is primarily focused on programming in PowerShell and creating TFS (Team Foundation Server) Teams, and does not discuss evidence-based leadership or related principles.",
-    "level": "Ignored"
-  },
-  "Kanban Process": {
-    "category": "Kanban Process",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses writing .NET code in PowerShell and creating TFS Teams, with no mention or discussion of the Kanban process.",
     "level": "Ignored"
   },
   "Self Organisation": {
@@ -1231,28 +855,12 @@
     "reasoning": "The content is primarily focused on programming in PowerShell and dealing with TFS APIs, which is more related to software development than to systems thinking.",
     "level": "Ignored"
   },
-  "Agile Product Ownership": {
-    "category": "Agile Product Ownership",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses using PowerShell to interact with TFS and does not focus on Agile Product Ownership or its related concepts.",
-    "level": "Ignored"
-  },
   "Organisational Physics": {
     "category": "Organisational Physics",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily focuses on programming in PowerShell and creating teams in TFS, with no significant discussion related to Organisational Physics.",
-    "level": "Ignored"
-  },
-  "Agile Apocalypse": {
-    "category": "Agile Apocalypse",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on using PowerShell to interact with .NET and TFS, without any mention of Agile methodologies or concepts that would classify it under 'Agile Apocalypse'.",
     "level": "Ignored"
   },
   "Experimentation": {
@@ -1279,22 +887,6 @@
     "reasoning": "The content primarily discusses using PowerShell to interact with the TFS (Team Foundation Server) API to create teams, which is related to development and scripting rather than specifically about continuous integration processes.",
     "level": "Ignored"
   },
-  "Agile Product Validation": {
-    "category": "Agile Product Validation",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses using PowerShell to work with TFS and create teams, with no focus on agile methodologies or product validation processes.",
-    "level": "Ignored"
-  },
-  "Agile Mentoring Program": {
-    "category": "Agile Mentoring Program",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses using PowerShell for .NET programming and creating Teams in TFS, without any mention of agile practices or mentoring, making it not relevant to the Agile Mentoring Program.",
-    "level": "Ignored"
-  },
   "Business Agility": {
     "category": "Business Agility",
     "ai_confidence": 0,
@@ -1309,14 +901,6 @@
     "non_ai_confidence": 0,
     "final_score": 49.0,
     "reasoning": "The content primarily focuses on programming techniques and challenges related to using PowerShell with .NET and TFS, showcasing problem-solving within a technical context, which aligns with engineering practices.",
-    "level": "Ignored"
-  },
-  "Sprint Review Workshops": {
-    "category": "Sprint Review Workshops",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses using PowerShell with .NET and TFS, with no clear focus on Sprint Review Workshops.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1335,14 +919,6 @@
     "reasoning": "Content primarily focuses on programming in PowerShell, particularly for creating and managing TFS teams, demonstrating a deep understanding of PowerShell and .NET object manipulation.",
     "level": "Secondary"
   },
-  "Software Increment": {
-    "category": "Software Increment",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses creating a Team in TFS using PowerShell, which relates to software development practices; however, it primarily focuses on PowerShell syntax and techniques rather than on the broader concept of software increments.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
     "ai_confidence": 85,
@@ -1350,14 +926,6 @@
     "final_score": 59.0,
     "reasoning": "The content primarily discusses using PowerShell to programmatically create TFS Teams, which involves system configuration aspects related to team project collections, DLL imports, and service interactions. The focus on how to configure these elements suggests a strong relevance to system configuration.",
     "level": "Secondary"
-  },
-  "Value Stream Management": {
-    "category": "Value Stream Management",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on writing .NET in PowerShell and creating TFS Teams with no clear emphasis on Value Stream Management.",
-    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -1415,30 +983,6 @@
     "reasoning": "The content primarily focuses on using PowerShell to interact with TFS (Team Foundation Server) and does not discuss organisational change as a topic. The subject matter is technical programming rather than related to changes within an organization.",
     "level": "Ignored"
   },
-  "Kanban Training": {
-    "category": "Kanban Training",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses entirely on coding in PowerShell and creating teams in TFS without any mention of Kanban principles, practices, or training.",
-    "level": "Ignored"
-  },
-  "Lean Agile": {
-    "category": "Lean Agile",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on using PowerShell to interact with TFS and .NET, without a clear emphasis on Lean or Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Kanban Coaching": {
-    "category": "Kanban Coaching",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses programming with PowerShell and interacting with TFS (Team Foundation Server), with no mention or relevance to Kanban or Kanban coaching.",
-    "level": "Ignored"
-  },
   "Scaling Agility": {
     "category": "Scaling Agility",
     "ai_confidence": 0,
@@ -1469,22 +1013,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses using PowerShell to interact with TFS (Team Foundation Server) and create TFS Teams, without focusing on deployment strategies as a central theme.",
-    "level": "Ignored"
-  },
-  "Evidence Based Improvement": {
-    "category": "Evidence Based Improvement",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on using PowerShell to interact with TFS and does not address or discuss principles or practices related to evidence-based improvement.",
-    "level": "Ignored"
-  },
-  "Agile Methodology": {
-    "category": "Agile Methodology",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses using PowerShell to interact with the TFS API for creating teams, and does not focus on Agile methodology, principles, or practices.",
     "level": "Ignored"
   },
   "Sensemaking": {

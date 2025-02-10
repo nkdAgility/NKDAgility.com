@@ -7,22 +7,6 @@
     "reasoning": "Content heavily discusses the importance of delivery in realising value, emphasising frequent releases and feedback loops as critical components of effective change management in Agile and Scrum methodologies.",
     "level": "Secondary"
   },
-  "Site Reliability": {
-    "category": "Site Reliability",
-    "ai_confidence": 45,
-    "non_ai_confidence": 0,
-    "final_score": 31.0,
-    "reasoning": "The content primarily discusses the importance of delivery and frequent releases in Agile and Scrum methodologies, with only a minor focus on aspects related to site reliability such as Mean Time to Restore (MTTR) and the impact of release frequency on service recovery.",
-    "level": "Ignored"
-  },
-  "Agile Pilot": {
-    "category": "Agile Pilot",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the importance of delivery in Agile methodologies, emphasising frequent releases and feedback loops as central to realising value.",
-    "level": "Secondary"
-  },
   "Agile Transformation": {
     "category": "Agile Transformation",
     "ai_confidence": 92,
@@ -87,14 +71,6 @@
     "reasoning": "Content primarily discusses the importance of delivery in Agile and Scrum, focusing on how team performance is enhanced through frequent releases and feedback loops.",
     "level": "Secondary"
   },
-  "Agile Digital Tools": {
-    "category": "Agile Digital Tools",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the importance of delivery in Agile methodologies, particularly focusing on frequent releases and their role in validating assumptions and realising value.",
-    "level": "Secondary"
-  },
   "Lean Principles": {
     "category": "Lean Principles",
     "ai_confidence": 92,
@@ -135,30 +111,6 @@
     "reasoning": "Content primarily discusses the importance of delivery in Scrum and Agile methodologies, emphasising transparency, inspection, and adaptation as key Scrum values.",
     "level": "Secondary"
   },
-  "Data Driven Decisions": {
-    "category": "Data Driven Decisions",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the importance of delivery and feedback in validating assumptions, emphasising how data from user interactions informs decision-making and enhances value realisation.",
-    "level": "Secondary"
-  },
-  "Kanban Flow": {
-    "category": "Kanban Flow",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the importance of delivery and frequent releases in Agile and Scrum methodologies, rather than focusing on Kanban Flow specifically.",
-    "level": "Ignored"
-  },
-  "Agile Estimation": {
-    "category": "Agile Estimation",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the importance of delivery in realising value and the risks associated with delayed releases, rather than focusing on Agile estimation techniques or practices.",
-    "level": "Ignored"
-  },
   "Product Backlog": {
     "category": "Product Backlog",
     "ai_confidence": 50,
@@ -174,22 +126,6 @@
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of delivery and frequent releases, which are relevant to sprint planning, but the primary focus is on the value of delivery rather than the specifics of sprint planning itself.",
     "level": "Ignored"
-  },
-  "Kanban Training": {
-    "category": "Kanban Training",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the importance of delivery in Agile and Scrum methodologies, focusing on frequent releases and their impact on value realisation, rather than specifically addressing Kanban training.",
-    "level": "Ignored"
-  },
-  "Agile Apocalypse": {
-    "category": "Agile Apocalypse",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the importance of delivery in Agile methodologies, emphasising frequent releases and their role in validating assumptions and realising value.",
-    "level": "Secondary"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
@@ -239,28 +175,12 @@
     "reasoning": "Content heavily discusses the importance of delivery and frequent releases in realising value, which are central themes in CI/CD practices.",
     "level": "Secondary"
   },
-  "Adaptive Leadership": {
-    "category": "Adaptive Leadership",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the importance of delivery in software development and the implications of frequent releases, rather than focusing on adaptive leadership principles.",
-    "level": "Ignored"
-  },
   "Agile Strategy": {
     "category": "Agile Strategy",
     "ai_confidence": 92,
     "non_ai_confidence": 10,
     "final_score": 67.0,
     "reasoning": "Content heavily discusses the importance of delivery in Agile methodologies, emphasising frequent releases and feedback loops as central to realising value.",
-    "level": "Secondary"
-  },
-  "Agile Software Development": {
-    "category": "Agile Software Development",
-    "ai_confidence": 95,
-    "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "Content primarily focuses on the importance of delivery in Agile methodologies, emphasising frequent releases, feedback loops, and the principles of Scrum, making Agile Software Development the central theme.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -278,22 +198,6 @@
     "final_score": 35.0,
     "reasoning": "The content discusses the importance of delivery and feedback loops, which are central to Behaviour Driven Development, but it primarily focuses on the broader concepts of Agile and Scrum practices.",
     "level": "Ignored"
-  },
-  "Evidence Based Improvement": {
-    "category": "Evidence Based Improvement",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content heavily discusses the importance of delivery in validating assumptions and realising value, supported by empirical evidence and metrics.",
-    "level": "Secondary"
-  },
-  "Adaptive Strategy": {
-    "category": "Adaptive Strategy",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the importance of frequent delivery and feedback loops in Agile and Scrum, emphasising how these practices enable teams to adapt their strategies based on real-world insights.",
-    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -375,46 +279,6 @@
     "reasoning": "The content primarily discusses the importance of delivery in Agile and Scrum methodologies, focusing on value realisation and feedback loops, without addressing psychological safety as a central theme.",
     "level": "Ignored"
   },
-  "Agile Evolution": {
-    "category": "Agile Evolution",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the importance of delivery in Agile methodologies, emphasising frequent releases and feedback loops as central to realising value.",
-    "level": "Secondary"
-  },
-  "Agile Forecasting": {
-    "category": "Agile Forecasting",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the importance of delivery in Agile methodologies, emphasising frequent releases and feedback loops as critical for validating assumptions and realising value.",
-    "level": "Secondary"
-  },
-  "Sprint Review Workshops": {
-    "category": "Sprint Review Workshops",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the importance of delivery and feedback in Agile and Scrum, which are central to Sprint Review Workshops, but it primarily focuses on the broader concept of delivery rather than specifically on Sprint Review Workshops.",
-    "level": "Ignored"
-  },
-  "Lean UX": {
-    "category": "Lean UX",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the importance of delivery and frequent releases in validating assumptions and realising value, which aligns closely with Lean UX principles.",
-    "level": "Secondary"
-  },
-  "Release Planning": {
-    "category": "Release Planning",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the importance of frequent releases in validating assumptions and realising value, making release planning a central theme.",
-    "level": "Secondary"
-  },
   "Azure DevOps": {
     "category": "Azure DevOps",
     "ai_confidence": 50,
@@ -439,14 +303,6 @@
     "reasoning": "Content heavily discusses the importance of delivery in validating assumptions and realising value, aligning closely with evidence-based management principles.",
     "level": "Secondary"
   },
-  "Technical Strategy": {
-    "category": "Technical Strategy",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the importance of delivery in validating assumptions and creating value, emphasising strategies like frequent releases and Agile methodologies.",
-    "level": "Secondary"
-  },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
     "ai_confidence": 50,
@@ -455,36 +311,12 @@
     "reasoning": "The content discusses the importance of delivery in realising value, which aligns with the principles of Value Stream Mapping, but it primarily focuses on delivery and feedback loops rather than mapping processes.",
     "level": "Ignored"
   },
-  "Agile Resource Management": {
-    "category": "Agile Resource Management",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the importance of delivery in Agile methodologies, focusing on frequent releases, feedback loops, and the implications of delayed delivery on value realisation.",
-    "level": "Secondary"
-  },
-  "Agile Problem Solving": {
-    "category": "Agile Problem Solving",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the importance of delivery in Agile methodologies, emphasising frequent releases and feedback loops as critical to validating assumptions and realising value.",
-    "level": "Secondary"
-  },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
     "ai_confidence": 95,
     "non_ai_confidence": 10,
     "final_score": 70.0,
     "reasoning": "Content primarily focuses on the importance of delivery in realising value, emphasising frequent releases and their impact on validation, feedback, and risk mitigation.",
-    "level": "Secondary"
-  },
-  "Agile Methodology": {
-    "category": "Agile Methodology",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the importance of delivery in Agile practices, emphasising frequent releases, feedback loops, and the principles of Scrum.",
     "level": "Secondary"
   },
   "Organisational Culture": {
@@ -567,14 +399,6 @@
     "reasoning": "The content primarily discusses the importance of delivery and frequent releases in Agile and Scrum methodologies, rather than focusing on automated testing specifically.",
     "level": "Ignored"
   },
-  "Predictability in Kanban": {
-    "category": "Predictability in Kanban",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the importance of delivery and frequent releases in Agile and Scrum, rather than focusing on predictability in Kanban.",
-    "level": "Ignored"
-  },
   "Business Agility": {
     "category": "Business Agility",
     "ai_confidence": 92,
@@ -623,14 +447,6 @@
     "reasoning": "Content heavily discusses the importance of delivery in realising value, emphasising Agile and Scrum methodologies as key components of digital transformation in software development.",
     "level": "Secondary"
   },
-  "Agile Software Engineering": {
-    "category": "Agile Software Engineering",
-    "ai_confidence": 92,
-    "non_ai_confidence": 30,
-    "final_score": 73.0,
-    "reasoning": "Content heavily discusses the importance of delivery in Agile methodologies, emphasising frequent releases, feedback loops, and the principles of Scrum.",
-    "level": "Secondary"
-  },
   "Continuous Learning": {
     "category": "Continuous Learning",
     "ai_confidence": 50,
@@ -661,22 +477,6 @@
     "non_ai_confidence": 10,
     "final_score": 67.0,
     "reasoning": "Content heavily discusses the importance of delivery and frequent releases, which are central tenets of Agile and Scrum methodologies.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the importance of delivery in Agile methodologies, emphasising frequent releases, feedback loops, and the principles of Scrum.",
-    "level": "Secondary"
-  },
-  "Continuos Delivery": {
-    "category": "Continuos Delivery",
-    "ai_confidence": 95,
-    "non_ai_confidence": 10,
-    "final_score": 70.0,
-    "reasoning": "The content primarily focuses on the importance of delivery in realising value, emphasising frequent releases, feedback loops, and the risks associated with delayed delivery, making Continuous Delivery the central theme.",
     "level": "Secondary"
   },
   "Self Organisation": {
@@ -719,14 +519,6 @@
     "reasoning": "Content primarily discusses the importance of delivery and frequent releases in validating assumptions and realising value, which aligns closely with the principles of experimentation in Agile methodologies.",
     "level": "Secondary"
   },
-  "Agile Books": {
-    "category": "Agile Books",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the importance of delivery in Agile methodologies, particularly focusing on frequent releases and their impact on value realisation, which aligns closely with Agile principles.",
-    "level": "Secondary"
-  },
   "Decision Theory": {
     "category": "Decision Theory",
     "ai_confidence": 0,
@@ -742,22 +534,6 @@
     "final_score": 67.0,
     "reasoning": "Content heavily discusses the importance of delivery in Scrum, emphasising frequent releases, feedback loops, and the principles of Agile and Scrum methodologies.",
     "level": "Secondary"
-  },
-  "Kanban Coaching": {
-    "category": "Kanban Coaching",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the importance of delivery and frequent releases in Agile and Scrum, rather than focusing on Kanban coaching specifically.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the importance of delivery in validating assumptions and realising value, which relates to learning from feedback and adapting strategies. However, the primary focus is on delivery and its implications rather than on discovery and learning itself.",
-    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -783,30 +559,6 @@
     "reasoning": "Content primarily discusses the importance of delivery in Agile methodologies, emphasising frequent releases and feedback loops, which are central to Agile planning and execution.",
     "level": "Secondary"
   },
-  "Agile Certification": {
-    "category": "Agile Certification",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the importance of delivery in Agile methodologies, emphasising frequent releases and feedback loops, which are central themes in Agile certification training.",
-    "level": "Secondary"
-  },
-  "Test Strategy": {
-    "category": "Test Strategy",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the importance of delivery and frequent releases in validating assumptions and realising value, which are central to an effective test strategy.",
-    "level": "Secondary"
-  },
-  "Agile Certifications": {
-    "category": "Agile Certifications",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the importance of delivery in Agile and Scrum methodologies, focusing on value realisation and feedback loops, without directly addressing Agile certifications.",
-    "level": "Ignored"
-  },
   "Market Share": {
     "category": "Market Share",
     "ai_confidence": 0,
@@ -823,14 +575,6 @@
     "reasoning": "Content heavily discusses the importance of delivery in validating assumptions and making informed decisions based on real-world feedback, emphasising the critical role of frequent releases in the decision-making process.",
     "level": "Secondary"
   },
-  "Agile Predictability": {
-    "category": "Agile Predictability",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the importance of delivery in Agile methodologies, emphasising how frequent releases validate assumptions and realise value, which aligns closely with the principles of Agile predictability.",
-    "level": "Secondary"
-  },
   "DevOps": {
     "category": "DevOps",
     "ai_confidence": 92,
@@ -838,14 +582,6 @@
     "final_score": 73.0,
     "reasoning": "Content heavily discusses the importance of delivery in software development, emphasising frequent releases, feedback loops, and metrics related to DevOps practices.",
     "level": "Secondary"
-  },
-  "Nonlinear Dynamics": {
-    "category": "Nonlinear Dynamics",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the importance of delivery in Agile and Scrum methodologies, focusing on value realisation and feedback loops, rather than nonlinear dynamics.",
-    "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -871,14 +607,6 @@
     "reasoning": "Content heavily discusses the importance of delivery in Agile and Scrum practices, emphasising frequent releases and their impact on value realisation.",
     "level": "Secondary"
   },
-  "Agile Scaling": {
-    "category": "Agile Scaling",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the importance of delivery in Agile methodologies, emphasising frequent releases and feedback loops, which are central to Agile Scaling principles.",
-    "level": "Secondary"
-  },
   "Working Agreements": {
     "category": "Working Agreements",
     "ai_confidence": 0,
@@ -901,22 +629,6 @@
     "non_ai_confidence": 0,
     "final_score": 64.0,
     "reasoning": "Content primarily focuses on the importance of delivery in software development, emphasising the validation of assumptions and the realisation of value through frequent releases, which aligns closely with principles of technical excellence.",
-    "level": "Secondary"
-  },
-  "Homepage": {
-    "category": "Homepage",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the importance of delivery in Agile and Scrum methodologies, focusing on the implications of delayed delivery and the benefits of frequent releases. It does not centre around a homepage topic.",
-    "level": "Ignored"
-  },
-  "Agile Portfolio Management": {
-    "category": "Agile Portfolio Management",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the importance of delivery in Agile methodologies, emphasising frequent releases and feedback loops as central to realising value, which aligns closely with Agile Portfolio Management principles.",
     "level": "Secondary"
   },
   "Customer Feedback Loops": {
@@ -959,14 +671,6 @@
     "reasoning": "Content heavily discusses the importance of delivery in Scrum and Agile methodologies, emphasising frequent releases and feedback loops as central to realising value.",
     "level": "Secondary"
   },
-  "Agile Product Management": {
-    "category": "Agile Product Management",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content heavily discusses the importance of delivery in Agile methodologies, emphasising frequent releases, feedback loops, and the validation of assumptions, which are central themes in Agile Product Management.",
-    "level": "Secondary"
-  },
   "Remote Working": {
     "category": "Remote Working",
     "ai_confidence": 0,
@@ -974,22 +678,6 @@
     "final_score": 3.0,
     "reasoning": "The content primarily discusses the importance of delivery in Agile and Scrum methodologies, focusing on value realisation and feedback loops, without addressing remote working as a central theme.",
     "level": "Ignored"
-  },
-  "Strategic": {
-    "category": "Strategic",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the importance of delivery in realising value, emphasising strategic implications of frequent releases and feedback loops in Agile and Scrum methodologies.",
-    "level": "Secondary"
-  },
-  "Agile Tools": {
-    "category": "Agile Tools",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the importance of delivery in Agile methodologies, particularly focusing on frequent releases and their role in validating assumptions and realising value.",
-    "level": "Secondary"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
@@ -1039,14 +727,6 @@
     "reasoning": "Content heavily discusses the importance of delivery frequency and its impact on value realisation, aligning closely with the concept of cycle time in Agile methodologies.",
     "level": "Secondary"
   },
-  "Software Increment": {
-    "category": "Software Increment",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content heavily discusses the importance of delivery and frequent releases in realising value, emphasising the role of software increments in Agile and Scrum methodologies.",
-    "level": "Secondary"
-  },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
     "ai_confidence": 92,
@@ -1071,14 +751,6 @@
     "reasoning": "Content primarily discusses the importance of delivery in Agile and Scrum, emphasising frequent releases and feedback loops, which are central to scaling Scrum practices.",
     "level": "Secondary"
   },
-  "Value Prioritisation": {
-    "category": "Value Prioritisation",
-    "ai_confidence": 95,
-    "non_ai_confidence": 10,
-    "final_score": 70.0,
-    "reasoning": "Content primarily focuses on the importance of delivery in realising value, emphasising the risks and costs associated with delayed releases and the benefits of frequent iterations for validating assumptions about value.",
-    "level": "Secondary"
-  },
   "Agile Leadership": {
     "category": "Agile Leadership",
     "ai_confidence": 92,
@@ -1095,14 +767,6 @@
     "reasoning": "Content heavily discusses the importance of delivery in Scrum and Agile methodologies, emphasising frequent releases and feedback loops as central themes.",
     "level": "Secondary"
   },
-  "Systemic Thinking": {
-    "category": "Systemic Thinking",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the importance of delivery in validating assumptions and creating value, emphasising the systemic implications of frequent releases and feedback loops in Agile and Scrum methodologies.",
-    "level": "Secondary"
-  },
   "BetaCodex": {
     "category": "BetaCodex",
     "ai_confidence": 85,
@@ -1117,38 +781,6 @@
     "non_ai_confidence": 10,
     "final_score": 3.0,
     "reasoning": "The content primarily discusses the importance of delivery in software development and the implications of delayed releases, rather than focusing on team motivation.",
-    "level": "Ignored"
-  },
-  "Agile Mentoring Program": {
-    "category": "Agile Mentoring Program",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the importance of delivery in Agile methodologies, emphasising frequent releases and feedback loops, which are central themes in Agile mentoring.",
-    "level": "Secondary"
-  },
-  "Agile AI": {
-    "category": "Agile AI",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the importance of delivery in Agile methodologies, emphasising frequent releases and feedback loops, which are central to Agile principles.",
-    "level": "Secondary"
-  },
-  "Agile Mentoring": {
-    "category": "Agile Mentoring",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses Agile principles and the importance of delivery in the context of Agile methodologies, making it a major but secondary theme.",
-    "level": "Ignored"
-  },
-  "Kanban": {
-    "category": "Kanban",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the importance of delivery and frequent releases in Agile and Scrum methodologies, without a clear focus on Kanban principles or practices.",
     "level": "Ignored"
   },
   "Scrum": {
@@ -1174,22 +806,6 @@
     "final_score": 72.0,
     "reasoning": "The content primarily focuses on the importance of delivery in realising value, discussing how frequent releases validate assumptions and mitigate risks associated with delayed delivery.",
     "level": "Secondary"
-  },
-  "Agile Product Validation": {
-    "category": "Agile Product Validation",
-    "ai_confidence": 92,
-    "non_ai_confidence": 30,
-    "final_score": 73.0,
-    "reasoning": "Content heavily discusses the importance of delivery in validating assumptions and realising value in Agile practices.",
-    "level": "Secondary"
-  },
-  "Kanban Process": {
-    "category": "Kanban Process",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the importance of delivery and frequent releases in Agile and Scrum methodologies, rather than focusing on the Kanban process specifically.",
-    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1231,14 +847,6 @@
     "reasoning": "The content primarily discusses the importance of delivery and frequent releases in Agile and Scrum, rather than focusing on Scaling Kanban specifically.",
     "level": "Ignored"
   },
-  "Agile Leader": {
-    "category": "Agile Leader",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the importance of delivery in Agile methodologies, emphasising frequent releases and feedback loops as central to realising value, which aligns closely with Agile leadership principles.",
-    "level": "Secondary"
-  },
   "Engineering Practices": {
     "category": "Engineering Practices",
     "ai_confidence": 92,
@@ -1262,22 +870,6 @@
     "final_score": 64.0,
     "reasoning": "Content heavily discusses the importance of frequent releases and delivery in validating assumptions and realising value, which are central themes in Continuous Integration practices.",
     "level": "Secondary"
-  },
-  "Agile Product Discovery": {
-    "category": "Agile Product Discovery",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content heavily discusses the importance of delivery in validating assumptions and realising value, which is central to Agile Product Discovery principles.",
-    "level": "Secondary"
-  },
-  "Kanban Theory": {
-    "category": "Kanban Theory",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the importance of delivery and frequent releases in Agile and Scrum methodologies, rather than focusing on Kanban Theory.",
-    "level": "Ignored"
   },
   "Customer Retention": {
     "category": "Customer Retention",
@@ -1335,30 +927,6 @@
     "reasoning": "The content discusses the importance of delivery in realising value, which is a significant aspect of entrepreneurship, but it primarily focuses on Agile and Scrum methodologies rather than entrepreneurship itself.",
     "level": "Ignored"
   },
-  "Agile Community": {
-    "category": "Agile Community",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the importance of delivery in Agile practices, emphasising frequent releases, feedback loops, and the principles of Scrum.",
-    "level": "Secondary"
-  },
-  "Lean Agile": {
-    "category": "Lean Agile",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the importance of delivery in Agile methodologies, emphasising frequent releases, feedback loops, and the value of iterative development.",
-    "level": "Secondary"
-  },
-  "Value Stream Management": {
-    "category": "Value Stream Management",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the importance of delivery in realising value, emphasising frequent releases and feedback loops as central to Agile and Scrum methodologies.",
-    "level": "Secondary"
-  },
   "Troubleshooting": {
     "category": "Troubleshooting",
     "ai_confidence": 0,
@@ -1383,22 +951,6 @@
     "reasoning": "The content primarily discusses the importance of delivery in validating assumptions and adapting to feedback, which aligns closely with themes of resilience and change in the context of Agile methodologies.",
     "level": "Secondary"
   },
-  "Agile Coaching": {
-    "category": "Agile Coaching",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the importance of delivery in Agile methodologies, emphasising frequent releases and feedback loops, which are central themes in Agile coaching.",
-    "level": "Secondary"
-  },
-  "Leadership Training": {
-    "category": "Leadership Training",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily focuses on the importance of delivery in software development and Agile methodologies, rather than on leadership training specifically.",
-    "level": "Ignored"
-  },
   "Personal": {
     "category": "Personal",
     "ai_confidence": 0,
@@ -1407,36 +959,12 @@
     "reasoning": "The content primarily discusses the importance of delivery in software development, focusing on Agile and Scrum methodologies, rather than personal experiences or themes.",
     "level": "Ignored"
   },
-  "Agile Product Ownership": {
-    "category": "Agile Product Ownership",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content heavily discusses the importance of delivery in Agile methodologies, emphasising frequent releases and feedback loops as central to realising value, which aligns closely with Agile Product Ownership principles.",
-    "level": "Secondary"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
     "ai_confidence": 92,
     "non_ai_confidence": 10,
     "final_score": 67.0,
     "reasoning": "Content heavily discusses the importance of delivery in software engineering, emphasising frequent releases, validation of assumptions, and the impact on value realisation, which are central themes in engineering excellence.",
-    "level": "Secondary"
-  },
-  "Complexity Science": {
-    "category": "Complexity Science",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the importance of delivery in software development, focusing on Agile and Scrum methodologies, rather than exploring themes central to Complexity Science.",
-    "level": "Ignored"
-  },
-  "Organisational Transformational Mastery": {
-    "category": "Organisational Transformational Mastery",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on the importance of delivery in realising value, emphasising Agile and Scrum methodologies, which are central to organisational transformation.",
     "level": "Secondary"
   },
   "Scrum Team": {
