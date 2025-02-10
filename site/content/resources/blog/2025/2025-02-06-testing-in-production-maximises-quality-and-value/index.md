@@ -148,9 +148,9 @@ The alternative? **Deploying directly to your users, but smartly.**
 
 We first need to accept that rolling forward is the only viable option! If a team has just failed to roll forward, what makes us think they have the skills to execute the more complex task of rolling back? Rolling back is often more risky than pushing a fix forward, as it can introduce inconsistencies, data mismatches, and unexpected failures. The key is to **design rollouts to be fail-safe**, ensuring issues are detected early and addressed immediately without needing a complex rollback process.
 
-> "I was a big proponent of the rolling forward strategy. 10+ years ago, I said that if a team screwed up a database upgrade, most likely they will not succeed with a database downgrade. Sometimes downgrade means data loss." -Vladimir Khvostov, Principal Software Engineer at Microsoft - Azure DevOps
+> "I was a big proponent of the rolling forward strategy. 10+ years ago, I said that if a team screwed up a database upgrade, most likely they will not succeed with a database downgrade. Sometimes downgrade means data loss. When we do deployments, we upgrade binaries first by creating new VMs and switch traffic to them. We keep old VMs running for 3 hours, so that we can go back to an old binaries if we detect any user impacting issues. After 3 hours we deallocate VMs, but do not delete them. If we detect an issue 3+ hours after deployment, we can still start VMs and go back to previous binaries. When we start database upgrade, we delete old VMs. At this point there is no going back to an old binaries." -Vladimir Khvostov, Principal Software Engineer at Microsoft - Azure DevOps
 
-The Azure DevOps team follows a structured rollback approach when deploying. They upgrade binaries first by creating new VMs and switching traffic to them while keeping old VMs running for three hours. This way, if any user-impacting issues arise, they can quickly redirect traffic back to the previous version. After three hours, they deallocate, but do not delete, the old VMs—leaving an emergency window open! This type of limited rollback strategy is a key part of their deployment process.
+The Azure DevOps team does allow for limited rollback under specific circumstances, but only for binaries, never for data.
 
 Want to embrace audience-based deployment? Here’s how:
 
