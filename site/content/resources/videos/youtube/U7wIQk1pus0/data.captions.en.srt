@@ -1,0 +1,817 @@
+1
+00:00:01,000 --> 00:00:08,000
+so I just got asked if I had a basic
+
+2
+00:00:04,200 --> 00:00:10,280
+blog post for installing um TFS 2013 I
+
+3
+00:00:08,000 --> 00:00:13,080
+realized that I hadn't really done a
+
+4
+00:00:10,280 --> 00:00:15,440
+basic out of the box install and since
+
+5
+00:00:13,080 --> 00:00:17,880
+probably 2010 most of the time I've been
+
+6
+00:00:15,440 --> 00:00:22,480
+doing upgrades so on my Surface I'm
+
+7
+00:00:17,880 --> 00:00:24,880
+going to create a new virtual
+
+8
+00:00:22,480 --> 00:00:28,640
+machine and I already have a domain
+
+9
+00:00:24,880 --> 00:00:28,640
+controller running
+
+10
+00:00:38,920 --> 00:00:44,480
+now we need to set this um at a minimum
+
+11
+00:00:41,680 --> 00:00:46,440
+of 248 for memory I'm going to use
+
+12
+00:00:44,480 --> 00:00:48,559
+dynamic memory so I only use as much as
+
+13
+00:00:46,440 --> 00:00:51,680
+I need once the machine's running and
+
+14
+00:00:48,559 --> 00:00:53,960
+but TFS does a check for the amount of
+
+15
+00:00:51,680 --> 00:00:56,480
+memory in a machine and and if this
+
+16
+00:00:53,960 --> 00:00:58,199
+isn't set to 2048 will not be able to
+
+17
+00:00:56,480 --> 00:01:01,000
+install TFS so that's the minimum you
+
+18
+00:00:58,199 --> 00:01:03,119
+need but it can be actually like L based
+
+19
+00:01:01,000 --> 00:01:06,119
+on dynamic
+
+20
+00:01:03,119 --> 00:01:06,119
+memory
+
+21
+00:01:06,200 --> 00:01:13,280
+private let me select now I'm going to
+
+22
+00:01:09,600 --> 00:01:13,280
+use a Windows Server 2012
+
+23
+00:01:17,159 --> 00:01:21,960
+R2 there we
+
+24
+00:01:19,360 --> 00:01:22,880
+go so I'm going to start this machine
+
+25
+00:01:21,960 --> 00:01:24,840
+well I just going to connect to it and
+
+26
+00:01:22,880 --> 00:01:27,240
+then start
+
+27
+00:01:24,840 --> 00:01:31,840
+it now this is just going to do a a
+
+28
+00:01:27,240 --> 00:01:31,840
+basic vanilla install of
+
+29
+00:01:32,920 --> 00:01:41,200
+windows I will need to go and get a
+
+30
+00:01:37,280 --> 00:01:44,200
+key let me do that while we're
+
+31
+00:01:41,200 --> 00:01:44,200
+waiting
+
+32
+00:01:47,960 --> 00:01:50,960
+oh
+
+33
+00:01:51,399 --> 00:01:55,799
+awesome so I'm just going to use um
+
+34
+00:01:54,119 --> 00:02:00,159
+Windows Server
+
+35
+00:01:55,799 --> 00:02:03,119
+2012 R2 standard
+
+36
+00:02:00,159 --> 00:02:03,119
+and paste in my
+
+37
+00:02:04,560 --> 00:02:09,440
+key there we go so we don't want our
+
+38
+00:02:07,680 --> 00:02:12,680
+core installation TFS is not currently
+
+39
+00:02:09,440 --> 00:02:14,640
+supported on core um it mostly works
+
+40
+00:02:12,680 --> 00:02:17,720
+there's just a couple of things that
+
+41
+00:02:14,640 --> 00:02:20,959
+don't particular around build servers um
+
+42
+00:02:17,720 --> 00:02:20,959
+so I'm going to pick with a
+
+43
+00:02:22,480 --> 00:02:30,480
+guey now I obviously can't upgrade it's
+
+44
+00:02:24,800 --> 00:02:30,480
+a blank install so and I just do that
+
+45
+00:02:32,680 --> 00:02:38,599
+there we go that's going to copy the uh
+
+46
+00:02:35,040 --> 00:02:41,080
+files do the install uh reboot and that
+
+47
+00:02:38,599 --> 00:02:45,040
+will get
+
+48
+00:02:41,080 --> 00:02:45,040
+going so now that we have it
+
+49
+00:02:45,680 --> 00:02:51,519
+installed wait it's just took a minute
+
+50
+00:02:47,720 --> 00:02:51,519
+not time to go and get a coffee
+
+51
+00:03:00,519 --> 00:03:05,879
+so that's me logging in for the first
+
+52
+00:03:03,200 --> 00:03:07,360
+time yep and now I can get a proper
+
+53
+00:03:05,879 --> 00:03:10,879
+resolution
+
+54
+00:03:07,360 --> 00:03:16,640
+awesome if you're using Windows
+
+55
+00:03:10,879 --> 00:03:19,080
+8.1 and uh uh server uh 2012 R2 you get
+
+56
+00:03:16,640 --> 00:03:22,920
+this enhanced session mode that allows
+
+57
+00:03:19,080 --> 00:03:24,720
+you to not only copy paste uh but set
+
+58
+00:03:22,920 --> 00:03:28,680
+the resolution a little bit more nicely
+
+59
+00:03:24,720 --> 00:03:28,680
+and all kinds of stuff been
+
+60
+00:03:31,040 --> 00:03:37,519
+so if you've used server or server uh
+
+61
+00:03:34,760 --> 00:03:40,400
+any of the newer server
+
+62
+00:03:37,519 --> 00:03:43,840
+versions We fig a
+
+63
+00:03:40,400 --> 00:03:43,840
+minute you will
+
+64
+00:03:45,480 --> 00:03:50,360
+know that it just picks a random
+
+65
+00:03:47,920 --> 00:03:51,599
+computer name and you have to change it
+
+66
+00:03:50,360 --> 00:03:53,159
+so I don't really want that as the
+
+67
+00:03:51,599 --> 00:03:56,519
+computer
+
+68
+00:03:53,159 --> 00:03:58,239
+name so I'm going to change
+
+69
+00:03:56,519 --> 00:04:00,400
+that
+
+70
+00:03:58,239 --> 00:04:02,360
+btar and I'm going to have to reboot
+
+71
+00:04:00,400 --> 00:04:06,519
+that uh
+
+72
+00:04:02,360 --> 00:04:06,519
+first before I do anything
+
+73
+00:04:09,879 --> 00:04:13,400
+else give it a
+
+74
+00:04:18,680 --> 00:04:21,680
+sec
+
+75
+00:04:24,560 --> 00:04:30,600
+go so now we have a machine Co
+
+76
+00:04:27,960 --> 00:04:32,680
+btar let me just check settings and
+
+77
+00:04:30,600 --> 00:04:34,880
+everything think the network
+
+78
+00:04:32,680 --> 00:04:37,639
+is ah see I've just got it set as
+
+79
+00:04:34,880 --> 00:04:40,800
+private and One
+
+80
+00:04:37,639 --> 00:04:43,680
+processor change that over to
+
+81
+00:04:40,800 --> 00:04:46,240
+Wi-Fi but I will need private as well
+
+82
+00:04:43,680 --> 00:04:49,240
+okay so let me just
+
+83
+00:04:46,240 --> 00:04:49,240
+quickly
+
+84
+00:04:49,759 --> 00:04:56,639
+uh's shut this
+
+85
+00:04:53,000 --> 00:05:01,440
+down there we go change the
+
+86
+00:04:56,639 --> 00:05:01,440
+settings I'm going to get two processors
+
+87
+00:05:01,479 --> 00:05:05,960
+I'm going to
+
+88
+00:05:02,880 --> 00:05:10,720
+add a network
+
+89
+00:05:05,960 --> 00:05:12,880
+adapter private Network there we
+
+90
+00:05:10,720 --> 00:05:13,800
+go that should make it one run a little
+
+91
+00:05:12,880 --> 00:05:20,479
+bit
+
+92
+00:05:13,800 --> 00:05:23,800
+faster and uh to be able to connect
+
+93
+00:05:20,479 --> 00:05:23,800
+to private
+
+94
+00:05:24,800 --> 00:05:28,800
+Network awesome
+
+95
+00:05:37,080 --> 00:05:41,199
+okay I need to set up my private
+
+96
+00:05:41,440 --> 00:05:45,360
+Network and
+
+97
+00:05:45,639 --> 00:05:50,360
+these let me just do
+
+98
+00:06:09,319 --> 00:06:14,680
+okay so now I have that set up I should
+
+99
+00:06:11,880 --> 00:06:14,680
+be able to change my work
+
+100
+00:06:19,720 --> 00:06:25,560
+group to in. nm.com should
+
+101
+00:06:29,720 --> 00:06:33,640
+my domain
+
+102
+00:06:32,160 --> 00:06:35,199
+should find my
+
+103
+00:06:33,640 --> 00:06:38,199
+[Music]
+
+104
+00:06:35,199 --> 00:06:38,199
+domain
+
+105
+00:06:38,240 --> 00:06:44,560
+um we should be good I want to do the
+
+106
+00:06:41,000 --> 00:06:46,479
+install on a domain cuz that's more uh a
+
+107
+00:06:44,560 --> 00:06:48,199
+better example of what people would do
+
+108
+00:06:46,479 --> 00:06:51,759
+in the field uh most people don't
+
+109
+00:06:48,199 --> 00:06:52,759
+install TFS in a work group so um that's
+
+110
+00:06:51,759 --> 00:06:57,639
+what I'm going to
+
+111
+00:06:52,759 --> 00:06:57,639
+do just give that a minute to join
+
+112
+00:07:00,639 --> 00:07:02,960
+there we
+
+113
+00:07:03,840 --> 00:07:10,879
+go and we just need to do a quick
+
+114
+00:07:06,120 --> 00:07:10,879
+restart and then we can install TFS
+
+115
+00:07:44,680 --> 00:07:54,919
+perfect now all we need to do is install
+
+116
+00:07:48,919 --> 00:07:54,919
+TFS so let me insert my TFS
+
+117
+00:07:57,919 --> 00:08:03,440
+dis this is just the RTM of a team
+
+118
+00:08:01,000 --> 00:08:03,440
+Foundation
+
+119
+00:08:06,879 --> 00:08:11,720
+server so this is a completely blank
+
+120
+00:08:09,759 --> 00:08:13,720
+server we've just joined it to a domain
+
+121
+00:08:11,720 --> 00:08:16,520
+we don't have anything else installed on
+
+122
+00:08:13,720 --> 00:08:19,120
+it and you may want to install SQL
+
+123
+00:08:16,520 --> 00:08:21,680
+Server to get the full version of uh of
+
+124
+00:08:19,120 --> 00:08:24,840
+SQL server and TFS actually includes a
+
+125
+00:08:21,680 --> 00:08:26,639
+license for SQL Server standard and so
+
+126
+00:08:24,840 --> 00:08:28,080
+you can just install that and you don't
+
+127
+00:08:26,639 --> 00:08:31,319
+need an additional license as long as
+
+128
+00:08:28,080 --> 00:08:34,599
+it's only used for TF
+
+129
+00:08:31,319 --> 00:08:34,599
+but I'm just going to continue with
+
+130
+00:08:36,599 --> 00:08:42,880
+Express and TFS will install at SQL
+
+131
+00:08:40,039 --> 00:08:44,360
+Express as part of the the installation
+
+132
+00:08:42,880 --> 00:08:46,720
+once we got get to the configuration
+
+133
+00:08:44,360 --> 00:08:48,399
+part so and the first part of the TFS
+
+134
+00:08:46,720 --> 00:08:52,320
+installation just gets all the files on
+
+135
+00:08:48,399 --> 00:08:54,680
+disk registers all of the the the dlls
+
+136
+00:08:52,320 --> 00:08:57,839
+and does all of those um local piec that
+
+137
+00:08:54,680 --> 00:08:59,760
+you need to do but it's not going to um
+
+138
+00:08:57,839 --> 00:09:01,480
+install any of the third party tools
+
+139
+00:08:59,760 --> 00:09:03,680
+it's not going to configure anything yet
+
+140
+00:09:01,480 --> 00:09:06,720
+we're going to do that in a minute there
+
+141
+00:09:03,680 --> 00:09:09,160
+we go in just a few minutes it's
+
+142
+00:09:06,720 --> 00:09:13,600
+installed TFS I'm just going to do a
+
+143
+00:09:09,160 --> 00:09:16,640
+trial install just now let me activate
+
+144
+00:09:13,600 --> 00:09:20,240
+that there we
+
+145
+00:09:16,640 --> 00:09:22,480
+go and I get my standard installation
+
+146
+00:09:20,240 --> 00:09:26,040
+wizard now there's a number of options
+
+147
+00:09:22,480 --> 00:09:28,079
+here um the standard server and if you
+
+148
+00:09:26,040 --> 00:09:31,240
+want to use default instance of SQL
+
+149
+00:09:28,079 --> 00:09:32,560
+Server um but this will not work for uh
+
+150
+00:09:31,240 --> 00:09:35,079
+um SQL
+
+151
+00:09:32,560 --> 00:09:39,040
+Express and won't configure reporting
+
+152
+00:09:35,079 --> 00:09:39,040
+services and the reporting pieces for
+
+153
+00:09:41,519 --> 00:09:47,519
+you we have a advanced where you can
+
+154
+00:09:45,000 --> 00:09:50,600
+configure um all of the the SQL Server
+
+155
+00:09:47,519 --> 00:09:53,440
+databases SharePoint um SQL server and
+
+156
+00:09:50,600 --> 00:09:55,680
+ala Services Services all those pieces
+
+157
+00:09:53,440 --> 00:09:58,640
+very easily and I'm actually just going
+
+158
+00:09:55,680 --> 00:10:03,160
+to take a basic install so this is going
+
+159
+00:09:58,640 --> 00:10:05,320
+to install Express it's going to um
+
+160
+00:10:03,160 --> 00:10:07,360
+configure work atem tracking build
+
+161
+00:10:05,320 --> 00:10:08,519
+Services Source control all of those
+
+162
+00:10:07,360 --> 00:10:10,360
+things are going to be configured for us
+
+163
+00:10:08,519 --> 00:10:12,839
+and up and running at the end and but we
+
+164
+00:10:10,360 --> 00:10:15,120
+won't have um anything else we won't
+
+165
+00:10:12,839 --> 00:10:17,160
+have SharePoint integration we won't
+
+166
+00:10:15,120 --> 00:10:19,279
+have reporting Services integration and
+
+167
+00:10:17,160 --> 00:10:21,440
+and we can't do any kind of nonstandard
+
+168
+00:10:19,279 --> 00:10:23,880
+configurations with this mode so let me
+
+169
+00:10:21,440 --> 00:10:23,880
+just start
+
+170
+00:10:24,720 --> 00:10:31,320
+Wizard and the first thing it's going to
+
+171
+00:10:26,680 --> 00:10:31,320
+do is going to install
+
+172
+00:10:31,360 --> 00:10:35,040
+Express and it's going to go in away and
+
+173
+00:10:33,519 --> 00:10:37,160
+check my system and make sure
+
+174
+00:10:35,040 --> 00:10:39,000
+everything's running okay so this is
+
+175
+00:10:37,160 --> 00:10:41,320
+going to check for prerequisites it's
+
+176
+00:10:39,000 --> 00:10:42,959
+going to check to make sure that it can
+
+177
+00:10:41,320 --> 00:10:44,480
+install stuff there can always be
+
+178
+00:10:42,959 --> 00:10:46,639
+something extra that goes wrong but it
+
+179
+00:10:44,480 --> 00:10:47,920
+does a pretty good job of checking the
+
+180
+00:10:46,639 --> 00:10:50,240
+system requirements so you can see
+
+181
+00:10:47,920 --> 00:10:54,680
+everything's okay it's also going to
+
+182
+00:10:50,240 --> 00:10:56,079
+install uh IIs fancy name for I um and
+
+183
+00:10:54,680 --> 00:10:57,920
+make sure everything's good so if I
+
+184
+00:10:56,079 --> 00:11:00,040
+click configure it's going to go off and
+
+185
+00:10:57,920 --> 00:11:02,320
+do that it will take a few minutes
+
+186
+00:11:00,040 --> 00:11:04,560
+specifically for cons configuring IIs
+
+187
+00:11:02,320 --> 00:11:06,200
+installing um SQL Express will take a
+
+188
+00:11:04,560 --> 00:11:09,160
+little bit longer than everything else
+
+189
+00:11:06,200 --> 00:11:09,160
+um but it should only take a few
+
+190
+00:11:09,360 --> 00:11:15,920
+minutes awesome so we've got an
+
+191
+00:11:12,720 --> 00:11:17,560
+install it's complete and we can just go
+
+192
+00:11:15,920 --> 00:11:21,800
+to
+
+193
+00:11:17,560 --> 00:11:21,800
+hopefully I like we need to log
+
+194
+00:11:23,800 --> 00:11:28,000
+in a tap
+
+195
+00:11:36,030 --> 00:11:39,560
+[Music]
+
+196
+00:11:37,880 --> 00:11:44,279
+there we go connected to
+
+197
+00:11:39,560 --> 00:11:45,680
+TFS I currently have one collection with
+
+198
+00:11:44,279 --> 00:11:49,040
+no team
+
+199
+00:11:45,680 --> 00:11:50,959
+projects so I will need to set that up
+
+200
+00:11:49,040 --> 00:11:52,959
+but I don't have real to do on here so I
+
+201
+00:11:50,959 --> 00:11:55,160
+will do that later and there you go
+
+202
+00:11:52,959 --> 00:11:57,560
+installing configuring TFS very
+
+203
+00:11:55,160 --> 00:12:00,560
+straightforward um on a basic server
+
+204
+00:11:57,560 --> 00:12:00,560
+configuration
+
+

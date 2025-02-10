@@ -1,0 +1,237 @@
+1
+00:00:04,600 --> 00:00:09,280
+so when you first open Team Foundation
+
+2
+00:00:07,200 --> 00:00:11,840
+server you might see a message saying
+
+3
+00:00:09,280 --> 00:00:13,920
+some features of Team web access are not
+
+4
+00:00:11,840 --> 00:00:16,400
+visible to
+
+5
+00:00:13,920 --> 00:00:19,119
+you and you click show details there's
+
+6
+00:00:16,400 --> 00:00:20,720
+an msdn article on how to to solve that
+
+7
+00:00:19,119 --> 00:00:23,279
+problem but it is actually very simple
+
+8
+00:00:20,720 --> 00:00:25,359
+to solve as long as you have uh your
+
+9
+00:00:23,279 --> 00:00:26,720
+administrator on the TFS server not just
+
+10
+00:00:25,359 --> 00:00:29,080
+on the collection but on the whole
+
+11
+00:00:26,720 --> 00:00:30,679
+server you can click on the little Cog
+
+12
+00:00:29,080 --> 00:00:32,880
+the top right to go in and administer
+
+13
+00:00:30,679 --> 00:00:32,880
+your
+
+14
+00:00:33,719 --> 00:00:39,239
+server and if you click all the way up
+
+15
+00:00:35,800 --> 00:00:41,760
+to control panel in the view there and
+
+16
+00:00:39,239 --> 00:00:44,840
+you'll see an access levels tab on
+
+17
+00:00:41,760 --> 00:00:47,920
+access levels and you get to configure
+
+18
+00:00:44,840 --> 00:00:50,160
+which users have permission or have
+
+19
+00:00:47,920 --> 00:00:53,000
+which licensing level so you have
+
+20
+00:00:50,160 --> 00:00:57,120
+limited access which is view my work
+
+21
+00:00:53,000 --> 00:01:01,039
+items and you do not need uh Cal or any
+
+22
+00:00:57,120 --> 00:01:03,960
+sort of access directly paid access TFS
+
+23
+00:01:01,039 --> 00:01:05,920
+in order to get this level um you have
+
+24
+00:01:03,960 --> 00:01:07,360
+standard which is currently the default
+
+25
+00:01:05,920 --> 00:01:09,960
+which is why we get the message to say
+
+26
+00:01:07,360 --> 00:01:13,240
+things aren't being shown this requires
+
+27
+00:01:09,960 --> 00:01:16,320
+a cal and so anybody in this
+
+28
+00:01:13,240 --> 00:01:18,119
+group uh which again is the default will
+
+29
+00:01:16,320 --> 00:01:20,799
+see all of those features there view my
+
+30
+00:01:18,119 --> 00:01:22,520
+work items standard features agile
+
+31
+00:01:20,799 --> 00:01:26,240
+boards backlog and Sprint planning tools
+
+32
+00:01:22,520 --> 00:01:28,960
+and the chart viewing and in order to H
+
+33
+00:01:26,240 --> 00:01:31,600
+get full access if I click on full and
+
+34
+00:01:28,960 --> 00:01:34,159
+you'll see that this also has um agile
+
+35
+00:01:31,600 --> 00:01:36,200
+portfolio tools team rooms test case
+
+36
+00:01:34,159 --> 00:01:39,320
+management there's a few extra things in
+
+37
+00:01:36,200 --> 00:01:41,119
+there over and above um this is only
+
+38
+00:01:39,320 --> 00:01:46,479
+available with the up level Cals which
+
+39
+00:01:41,119 --> 00:01:49,640
+is a a test professional with msdn uh a
+
+40
+00:01:46,479 --> 00:01:51,439
+premium with msdn an ultimate with msdn
+
+41
+00:01:49,640 --> 00:01:53,880
+that you need one of those levels to
+
+42
+00:01:51,439 --> 00:01:55,799
+access this so you can just add the user
+
+43
+00:01:53,880 --> 00:01:59,920
+accounts for everybody that
+
+44
+00:01:55,799 --> 00:02:02,079
+has H that version in there now I um
+
+45
+00:01:59,920 --> 00:02:03,719
+this is my local server everybody
+
+46
+00:02:02,079 --> 00:02:06,079
+accessing it has
+
+47
+00:02:03,719 --> 00:02:10,200
+ultimate so I can just set this as the
+
+48
+00:02:06,079 --> 00:02:12,400
+default level and if I go back to uh uh
+
+49
+00:02:10,200 --> 00:02:14,879
+my TFS server and click
+
+50
+00:02:12,400 --> 00:02:16,640
+refresh you'll see I get the extra
+
+51
+00:02:14,879 --> 00:02:21,959
+features coming in I get the request
+
+52
+00:02:16,640 --> 00:02:21,959
+feedback on here um I get if I view my
+
+53
+00:02:22,360 --> 00:02:27,640
+backlog I now have the features which is
+
+54
+00:02:25,120 --> 00:02:31,800
+part of the um agile portfolio
+
+55
+00:02:27,640 --> 00:02:34,840
+management and I have the test tab
+
+56
+00:02:31,800 --> 00:02:34,840
+which is also an additional
+
+57
+00:02:34,879 --> 00:02:38,680
+feature so there you go that's how you
+
+58
+00:02:36,959 --> 00:02:42,159
+configure permissions for the features
+
+59
+00:02:38,680 --> 00:02:42,159
+that you can't see
+
+

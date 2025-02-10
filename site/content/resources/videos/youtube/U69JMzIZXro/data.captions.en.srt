@@ -1,0 +1,1113 @@
+1
+00:00:04,799 --> 00:00:10,480
+we're going to look at installing a
+
+2
+00:00:06,879 --> 00:00:12,880
+standard single server and for TFS so
+
+3
+00:00:10,480 --> 00:00:16,719
+the first thing I'm going to do
+
+4
+00:00:12,880 --> 00:00:16,719
+is install SQL
+
+5
+00:00:16,920 --> 00:00:22,279
+Server there we
+
+6
+00:00:19,400 --> 00:00:24,920
+go this will run the secet server
+
+7
+00:00:22,279 --> 00:00:29,920
+install have to apply service pack one
+
+8
+00:00:24,920 --> 00:00:29,920
+afterwards in order to install TFS 2013
+
+9
+00:00:36,200 --> 00:00:39,920
+now we're going to select a new SQL
+
+10
+00:00:38,000 --> 00:00:41,440
+Server Standalone we'll add the features
+
+11
+00:00:39,920 --> 00:00:43,520
+to it now we're doing a single server
+
+12
+00:00:41,440 --> 00:00:46,399
+everything on the one box and I am
+
+13
+00:00:43,520 --> 00:00:50,399
+joined to a domain and so we can get all
+
+14
+00:00:46,399 --> 00:00:50,399
+the the goodness of credentials
+
+15
+00:01:03,600 --> 00:01:07,040
+so I now have a a warning for the
+
+16
+00:01:05,680 --> 00:01:09,280
+firewall which I'm not worried about
+
+17
+00:01:07,040 --> 00:01:11,920
+because it's going to be all in one box
+
+18
+00:01:09,280 --> 00:01:15,240
+um and it's completed all the kind of
+
+19
+00:01:11,920 --> 00:01:17,400
+prerequisite tasks that it's uh squl
+
+20
+00:01:15,240 --> 00:01:20,040
+needs so we're going to do a SQL Server
+
+21
+00:01:17,400 --> 00:01:22,000
+feature installation um we don't really
+
+22
+00:01:20,040 --> 00:01:23,360
+need the other uh features at the moment
+
+23
+00:01:22,000 --> 00:01:25,119
+and we're we're going to configure some
+
+24
+00:01:23,360 --> 00:01:27,479
+of the
+
+25
+00:01:25,119 --> 00:01:30,720
+things so in order to do a a kind of
+
+26
+00:01:27,479 --> 00:01:33,560
+full standard TFS install we need the
+
+27
+00:01:30,720 --> 00:01:38,799
+database Engine Services and include the
+
+28
+00:01:33,560 --> 00:01:38,799
+full text uh for search we need that for
+
+29
+00:01:39,280 --> 00:01:44,920
+TFS we're also going to install analysis
+
+30
+00:01:41,880 --> 00:01:47,079
+services and Reporting Services now what
+
+31
+00:01:44,920 --> 00:01:49,079
+I usually do when I installing uh SQL
+
+32
+00:01:47,079 --> 00:01:52,799
+servers I'll also install the management
+
+33
+00:01:49,079 --> 00:01:56,280
+tools but which allow us access uh to
+
+34
+00:01:52,799 --> 00:01:58,360
+configure and operate SQL server and we
+
+35
+00:01:56,280 --> 00:02:00,119
+don't really need to be able to do much
+
+36
+00:01:58,360 --> 00:02:04,039
+and because TFS is going to manage the
+
+37
+00:02:00,119 --> 00:02:04,039
+for us um
+
+38
+00:02:04,360 --> 00:02:10,560
+but that should give us um all of the
+
+39
+00:02:07,079 --> 00:02:10,560
+capabilities that we
+
+40
+00:02:23,400 --> 00:02:28,920
+need so I'm just going to take the
+
+41
+00:02:25,440 --> 00:02:30,720
+default instance name um that tends to
+
+42
+00:02:28,920 --> 00:02:34,000
+be um prefer especially if you're just
+
+43
+00:02:30,720 --> 00:02:34,000
+doing a single server
+
+44
+00:02:46,760 --> 00:02:52,200
+install as for service accounts um you
+
+45
+00:02:49,680 --> 00:02:54,360
+want to try and leave it as the default
+
+46
+00:02:52,200 --> 00:02:56,840
+if you can and these service accounts
+
+47
+00:02:54,360 --> 00:02:59,280
+are all preconfigured in Windows to
+
+48
+00:02:56,840 --> 00:03:00,920
+operate as you as you would expect and
+
+49
+00:02:59,280 --> 00:03:02,640
+in a single server instance where we
+
+50
+00:03:00,920 --> 00:03:04,720
+don't need communication with SQL Server
+
+51
+00:03:02,640 --> 00:03:07,400
+from outside of the server this is the
+
+52
+00:03:04,720 --> 00:03:09,000
+best option and to be honest even on
+
+53
+00:03:07,400 --> 00:03:11,040
+multi- server deployments this is the
+
+54
+00:03:09,000 --> 00:03:12,680
+best option as well as long as your
+
+55
+00:03:11,040 --> 00:03:14,360
+network will support it and it depends
+
+56
+00:03:12,680 --> 00:03:16,360
+the version of active directory I'm
+
+57
+00:03:14,360 --> 00:03:19,599
+running uh 2012 hour two active
+
+58
+00:03:16,360 --> 00:03:19,599
+directory so I shouldn't have any
+
+59
+00:03:21,720 --> 00:03:29,319
+problems now uh by default there are no
+
+60
+00:03:25,319 --> 00:03:31,560
+users specifically added um to connect
+
+61
+00:03:29,319 --> 00:03:34,120
+to TF so I'm going to add the current
+
+62
+00:03:31,560 --> 00:03:37,120
+user uh which is
+
+63
+00:03:34,120 --> 00:03:39,959
+myself and I'm also going to add uh the
+
+64
+00:03:37,120 --> 00:03:44,680
+service account under which uh TFS is
+
+65
+00:03:39,959 --> 00:03:44,680
+going to run so that
+
+66
+00:03:44,760 --> 00:03:49,640
+is TFS service I'm fairly sure there we
+
+67
+00:03:48,000 --> 00:03:51,760
+go TFS
+
+68
+00:03:49,640 --> 00:03:53,519
+service I'm going to make sure that has
+
+69
+00:03:51,760 --> 00:03:55,599
+access and I'm going to leave the data
+
+70
+00:03:53,519 --> 00:03:57,079
+directories and the file stream as is
+
+71
+00:03:55,599 --> 00:03:59,000
+you may want to put the data directories
+
+72
+00:03:57,079 --> 00:04:02,159
+on a separate Drive we're going to have
+
+73
+00:03:59,000 --> 00:04:06,400
+backup set up later um so that shouldn't
+
+74
+00:04:02,159 --> 00:04:07,920
+be an issue analysis Services um we are
+
+75
+00:04:06,400 --> 00:04:09,959
+going to install in multi-dimensional
+
+76
+00:04:07,920 --> 00:04:12,680
+and data mining mode this is the only
+
+77
+00:04:09,959 --> 00:04:17,160
+mode that's supported currently by TFS
+
+78
+00:04:12,680 --> 00:04:19,519
+Jeff levenson has a um module for
+
+79
+00:04:17,160 --> 00:04:21,880
+enabling a tabular mode but you need a
+
+80
+00:04:19,519 --> 00:04:23,360
+separate analysis server that plugs into
+
+81
+00:04:21,880 --> 00:04:24,880
+the existing Data Warehouse in order to
+
+82
+00:04:23,360 --> 00:04:30,560
+achieve that so again I'm going to add
+
+83
+00:04:24,880 --> 00:04:30,560
+the current user and add a TFS service
+
+84
+00:04:30,639 --> 00:04:36,520
+there we go and for reporting Services
+
+85
+00:04:33,440 --> 00:04:38,080
+we're going to install and configure and
+
+86
+00:04:36,520 --> 00:04:40,080
+we require the configuration so that
+
+87
+00:04:38,080 --> 00:04:41,720
+there's a database there waiting for us
+
+88
+00:04:40,080 --> 00:04:45,199
+if we do install only we wouldd have to
+
+89
+00:04:41,720 --> 00:04:45,199
+configure reporting Services manually
+
+90
+00:04:45,919 --> 00:04:52,240
+afterward cut
+
+91
+00:04:48,360 --> 00:04:55,320
+there we're going to use uh install and
+
+92
+00:04:52,240 --> 00:04:56,800
+configure um if we don't do uh configure
+
+93
+00:04:55,320 --> 00:04:58,560
+we have to configure it manually
+
+94
+00:04:56,800 --> 00:05:00,240
+afterwards and this just take a little
+
+95
+00:04:58,560 --> 00:05:03,160
+bit of time to create the database
+
+96
+00:05:00,240 --> 00:05:03,160
+that this will do it for
+
+97
+00:05:04,880 --> 00:05:07,880
+us
+
+98
+00:05:13,199 --> 00:05:18,400
+so you can check that you have
+
+99
+00:05:15,759 --> 00:05:19,840
+everything ready to install and make
+
+100
+00:05:18,400 --> 00:05:23,560
+sure that you have the correct account
+
+101
+00:05:19,840 --> 00:05:23,560
+setup and then just click
+
+102
+00:05:28,639 --> 00:05:31,639
+install
+
+103
+00:05:58,639 --> 00:06:01,639
+e
+
+104
+00:06:28,560 --> 00:06:31,560
+e
+
+105
+00:06:58,520 --> 00:07:02,560
+e e
+
+106
+00:07:48,879 --> 00:07:55,039
+there we go we have um SQL Server
+
+107
+00:07:52,560 --> 00:07:57,759
+installed with the management tools
+
+108
+00:07:55,039 --> 00:08:01,159
+database engine analysis services and
+
+109
+00:07:57,759 --> 00:08:02,520
+Reporting services
+
+110
+00:08:01,159 --> 00:08:05,479
+so now all we need to do is make sure
+
+111
+00:08:02,520 --> 00:08:09,400
+that we have service pack one applied so
+
+112
+00:08:05,479 --> 00:08:09,400
+let me copy service pack one onto this
+
+113
+00:08:13,440 --> 00:08:21,879
+machine service pipe one is about a gig
+
+114
+00:08:17,240 --> 00:08:21,879
+um so it may take a moment to run
+
+115
+00:08:31,720 --> 00:08:39,479
+and I
+
+116
+00:08:34,360 --> 00:08:39,479
+that there we go on S pack
+
+117
+00:09:08,320 --> 00:09:12,200
+here we go let start the update
+
+118
+00:09:42,480 --> 00:09:48,720
+fantastic now we have a SQL Server
+
+119
+00:09:45,839 --> 00:09:52,760
+service pack one all installed and
+
+120
+00:09:48,720 --> 00:09:52,760
+configured so let me close
+
+121
+00:09:52,920 --> 00:09:57,560
+that now we need to install team
+
+122
+00:09:55,200 --> 00:10:01,320
+Foundation
+
+123
+00:09:57,560 --> 00:10:01,320
+server so let me
+
+124
+00:10:02,120 --> 00:10:06,120
+open my team foration server
+
+125
+00:10:04,160 --> 00:10:07,760
+dis now we should be able to just
+
+126
+00:10:06,120 --> 00:10:09,600
+install uh straight forward team
+
+127
+00:10:07,760 --> 00:10:11,880
+Foundation server and then when the
+
+128
+00:10:09,600 --> 00:10:13,720
+wizard comes up after the install is
+
+129
+00:10:11,880 --> 00:10:16,760
+complete we're going to pick the
+
+130
+00:10:13,720 --> 00:10:16,760
+standard single server
+
+131
+00:10:28,320 --> 00:10:31,320
+option
+
+132
+00:10:58,240 --> 00:11:01,240
+for
+
+133
+00:11:28,240 --> 00:11:31,240
+for
+
+134
+00:11:58,240 --> 00:12:01,240
+for
+
+135
+00:12:28,160 --> 00:12:32,160
+for e
+
+136
+00:13:02,240 --> 00:13:06,680
+there we go the installation of TFS is
+
+137
+00:13:05,160 --> 00:13:09,160
+complete we still have to configure it
+
+138
+00:13:06,680 --> 00:13:11,720
+it's not really installed yet it's just
+
+139
+00:13:09,160 --> 00:13:13,600
+the files are there um and we're just
+
+140
+00:13:11,720 --> 00:13:17,160
+going to pick a trial license just now
+
+141
+00:13:13,600 --> 00:13:17,160
+you'll get your actual license off
+
+142
+00:13:20,279 --> 00:13:23,279
+msdn
+
+143
+00:13:25,920 --> 00:13:31,120
+awesome we can now run a standard uh
+
+144
+00:13:29,279 --> 00:13:33,880
+single server
+
+145
+00:13:31,120 --> 00:13:36,440
+install now we want to use the the
+
+146
+00:13:33,880 --> 00:13:40,720
+default instance
+
+147
+00:13:36,440 --> 00:13:40,720
+of um SQL
+
+148
+00:13:41,360 --> 00:13:48,800
+server and if this wasn't a Server 2012
+
+149
+00:13:45,480 --> 00:13:51,600
+R2 which doesn't support SharePoint
+
+150
+00:13:48,800 --> 00:13:54,000
+2013 and then it would install
+
+151
+00:13:51,600 --> 00:13:57,680
+SharePoint 2013 for us just the default
+
+152
+00:13:54,000 --> 00:14:00,839
+SharePoint Foundation um that will be
+
+153
+00:13:57,680 --> 00:14:03,720
+supported from service pack one of
+
+154
+00:14:00,839 --> 00:14:07,160
+SharePoint 2013 but it's just not there
+
+155
+00:14:03,720 --> 00:14:10,040
+yet now if you want to use remote uh
+
+156
+00:14:07,160 --> 00:14:12,040
+database servers remote uh SharePoint or
+
+157
+00:14:10,040 --> 00:14:14,279
+reporting Services then you would want
+
+158
+00:14:12,040 --> 00:14:15,880
+to use an advanced installation but at
+
+159
+00:14:14,279 --> 00:14:17,320
+the moment we're just going to take the
+
+160
+00:14:15,880 --> 00:14:20,320
+kind of
+
+161
+00:14:17,320 --> 00:14:24,480
+um vanilla version of TFS out of the box
+
+162
+00:14:20,320 --> 00:14:24,480
+standard single server if I start the
+
+163
+00:14:25,560 --> 00:14:29,920
+wizard so you have a couple of things
+
+164
+00:14:27,600 --> 00:14:32,680
+that I need to configure
+
+165
+00:14:29,920 --> 00:14:35,079
+um let me next there we go so I need a
+
+166
+00:14:32,680 --> 00:14:35,079
+service
+
+167
+00:14:41,920 --> 00:14:45,600
+account and we can use the test button
+
+168
+00:14:44,279 --> 00:14:48,199
+to check whether we've entered the
+
+169
+00:14:45,600 --> 00:14:50,160
+username and password correctly which we
+
+170
+00:14:48,199 --> 00:14:52,000
+have and then it's going to run a bunch
+
+171
+00:14:50,160 --> 00:14:57,000
+of system checks on whether it can
+
+172
+00:14:52,000 --> 00:14:57,000
+install a SharePoint on this machine
+
+173
+00:14:59,639 --> 00:15:05,000
+which it should come back and this is
+
+174
+00:15:01,480 --> 00:15:07,920
+correct it will say h we have two issues
+
+175
+00:15:05,000 --> 00:15:09,519
+one is we need a minimum of 8 gig memory
+
+176
+00:15:07,920 --> 00:15:11,160
+in order to install SharePoint
+
+177
+00:15:09,519 --> 00:15:15,199
+Foundation which I've not got this
+
+178
+00:15:11,160 --> 00:15:18,240
+machine set to 8 gig memory um the other
+
+179
+00:15:15,199 --> 00:15:19,839
+one is that um SharePoint Foundation is
+
+180
+00:15:18,240 --> 00:15:22,040
+not supported in the operating system
+
+181
+00:15:19,839 --> 00:15:22,040
+we're
+
+182
+00:15:23,160 --> 00:15:28,079
+using and we just need to check this and
+
+183
+00:15:25,680 --> 00:15:31,639
+say yes we are happy to continue without
+
+184
+00:15:28,079 --> 00:15:31,639
+installing um SharePoint
+
+185
+00:15:33,079 --> 00:15:38,000
+Foundation you can review the
+
+186
+00:15:34,959 --> 00:15:42,519
+configuration it's going to
+
+187
+00:15:38,000 --> 00:15:42,519
+have we're going to run the Readiness
+
+188
+00:15:44,519 --> 00:15:48,680
+checks so it's going to make sure that
+
+189
+00:15:46,600 --> 00:15:50,639
+the accounts that we've picked um are
+
+190
+00:15:48,680 --> 00:15:52,560
+going to H be able to communicate
+
+191
+00:15:50,639 --> 00:15:54,399
+properly that we can set up the server
+
+192
+00:15:52,560 --> 00:15:55,959
+that we can configure all the PC so
+
+193
+00:15:54,399 --> 00:15:57,000
+talking to reporting Services that's why
+
+194
+00:15:55,959 --> 00:15:59,880
+it's taking so long at this point
+
+195
+00:15:57,000 --> 00:16:01,680
+spinning up reporting Services the tier
+
+196
+00:15:59,880 --> 00:16:04,480
+and application analysis Services all of
+
+197
+00:16:01,680 --> 00:16:04,480
+those things are going to be
+
+198
+00:16:06,240 --> 00:16:11,399
+checked awesome so now that everything's
+
+199
+00:16:09,319 --> 00:16:14,399
+uh verified here we click the configure
+
+200
+00:16:11,399 --> 00:16:14,399
+button
+
+201
+00:16:33,240 --> 00:16:37,440
+okay now that uh TFS is installed
+
+202
+00:16:36,240 --> 00:16:40,319
+successfully
+
+203
+00:16:37,440 --> 00:16:43,199
+configured and we can finish up now if I
+
+204
+00:16:40,319 --> 00:16:45,199
+just go to the URL for TFS a quick test
+
+205
+00:16:43,199 --> 00:16:47,360
+to make sure everything's working we'll
+
+206
+00:16:45,199 --> 00:16:49,360
+see that at the moment we get a a popup
+
+207
+00:16:47,360 --> 00:16:52,360
+box this is actually a security thing
+
+208
+00:16:49,360 --> 00:16:55,680
+because we're on the server and but if I
+
+209
+00:16:52,360 --> 00:16:55,680
+go to
+
+210
+00:17:01,959 --> 00:17:05,600
+and put in
+
+211
+00:17:05,720 --> 00:17:11,120
+password and we will get TFS up running
+
+212
+00:17:08,799 --> 00:17:13,000
+so let me close that and you see we've
+
+213
+00:17:11,120 --> 00:17:14,760
+completed the configuration and we could
+
+214
+00:17:13,000 --> 00:17:16,480
+go on and configure the build server or
+
+215
+00:17:14,760 --> 00:17:18,760
+any the other PCS but I'm just going to
+
+216
+00:17:16,480 --> 00:17:21,919
+close this just now and you'll see there
+
+217
+00:17:18,760 --> 00:17:24,919
+we go we get this uh
+
+218
+00:17:21,919 --> 00:17:26,839
+um Internet Explorer security thing and
+
+219
+00:17:24,919 --> 00:17:29,520
+then we get JavaScript is disabled and
+
+220
+00:17:26,839 --> 00:17:30,400
+all this kind of Malak so let me quickly
+
+221
+00:17:29,520 --> 00:17:32,480
+fix
+
+222
+00:17:30,400 --> 00:17:35,640
+that if you want to fix this open up
+
+223
+00:17:32,480 --> 00:17:40,600
+your server manager go to local
+
+224
+00:17:35,640 --> 00:17:43,080
+server I enhanced security is on turn it
+
+225
+00:17:40,600 --> 00:17:45,679
+off cuz we actually want to be able to
+
+226
+00:17:43,080 --> 00:17:48,320
+use this
+
+227
+00:17:45,679 --> 00:17:51,640
+computer and now we go
+
+228
+00:17:48,320 --> 00:17:55,000
+to and will'll get our connected into
+
+229
+00:17:51,640 --> 00:17:57,360
+our TFS server and that's everything up
+
+230
+00:17:55,000 --> 00:17:59,400
+and running we've installed TFS if I
+
+231
+00:17:57,360 --> 00:18:00,679
+open up the admin tool you'll see that
+
+232
+00:17:59,400 --> 00:18:02,320
+we have the TFS
+
+233
+00:18:00,679 --> 00:18:05,840
+RTM
+
+234
+00:18:02,320 --> 00:18:07,520
+um and we indeed have one collection
+
+235
+00:18:05,840 --> 00:18:11,000
+with no team projects
+
+236
+00:18:07,520 --> 00:18:13,520
+currently no team projects we don't have
+
+237
+00:18:11,000 --> 00:18:15,880
+uh SharePoint configured but we do have
+
+238
+00:18:13,520 --> 00:18:17,880
+reporting Services configured analysis
+
+239
+00:18:15,880 --> 00:18:20,440
+services and all of those things and
+
+240
+00:18:17,880 --> 00:18:21,640
+that will be building the warehouse uh
+
+241
+00:18:20,440 --> 00:18:24,360
+behind the scenes that will take a
+
+242
+00:18:21,640 --> 00:18:26,200
+little while and usually 2 to 3 hours to
+
+243
+00:18:24,360 --> 00:18:28,200
+to get that all configured and this is a
+
+244
+00:18:26,200 --> 00:18:30,880
+completely blank server so it's probably
+
+245
+00:18:28,200 --> 00:18:32,360
+done already um but it will work away in
+
+246
+00:18:30,880 --> 00:18:34,679
+the background and that's your TFS
+
+247
+00:18:32,360 --> 00:18:34,679
+server
+
+248
+00:18:35,919 --> 00:18:42,039
+configured if I want to create a team
+
+249
+00:18:38,440 --> 00:18:44,360
+project which is the main test of TFS
+
+250
+00:18:42,039 --> 00:18:47,200
+working and it hits pretty much all the
+
+251
+00:18:44,360 --> 00:18:48,120
+components of TFS so if I open up uh
+
+252
+00:18:47,200 --> 00:18:50,760
+Visual
+
+253
+00:18:48,120 --> 00:18:55,440
+Studio I go to Team
+
+254
+00:18:50,760 --> 00:19:00,480
+Explorer if I connect into my TFS
+
+255
+00:18:55,440 --> 00:19:01,880
+server and click create team project
+
+256
+00:19:00,480 --> 00:19:04,120
+now that's going to be a little bit out
+
+257
+00:19:01,880 --> 00:19:06,280
+of the bounds of the
+
+258
+00:19:04,120 --> 00:19:10,159
+display let's call
+
+259
+00:19:06,280 --> 00:19:12,559
+it my first team
+
+260
+00:19:10,159 --> 00:19:15,960
+project and we will pick the default
+
+261
+00:19:12,559 --> 00:19:18,480
+Visual Studio scrum 2013 which is the
+
+262
+00:19:15,960 --> 00:19:21,120
+only you know proper process
+
+263
+00:19:18,480 --> 00:19:23,240
+template uh we are going to pick git as
+
+264
+00:19:21,120 --> 00:19:28,039
+the vers control
+
+265
+00:19:23,240 --> 00:19:28,039
+system and we're going to click finish
+
+266
+00:19:34,720 --> 00:19:38,919
+perfect now we have my first team
+
+267
+00:19:40,000 --> 00:19:45,559
+project and we can go back over in our
+
+268
+00:19:42,640 --> 00:19:48,039
+server and if I refresh
+
+269
+00:19:45,559 --> 00:19:49,240
+this you'll see we have my first team
+
+270
+00:19:48,039 --> 00:19:53,400
+project in
+
+271
+00:19:49,240 --> 00:19:53,400
+here and if I open up the rasure
+
+272
+00:19:53,679 --> 00:19:58,520
+again oh I did that again
+
+273
+00:20:00,280 --> 00:20:02,720
+and we
+
+274
+00:20:03,240 --> 00:20:09,320
+browse my first team project and we can
+
+275
+00:20:06,880 --> 00:20:11,280
+navigate into that team project and
+
+276
+00:20:09,320 --> 00:20:12,880
+that's has done we have TFS installed
+
+277
+00:20:11,280 --> 00:20:16,320
+we've created our first team project and
+
+278
+00:20:12,880 --> 00:20:16,320
+everything's configured
+
+

@@ -1,0 +1,553 @@
+1
+00:00:03,120 --> 00:00:07,720
+we're going to install the release
+
+2
+00:00:04,520 --> 00:00:10,120
+management tools on my server btar here
+
+3
+00:00:07,720 --> 00:00:12,519
+and I'm going to start with the server
+
+4
+00:00:10,120 --> 00:00:15,440
+then do the client and then install the
+
+5
+00:00:12,519 --> 00:00:18,680
+deployment agent and set that up um so
+
+6
+00:00:15,440 --> 00:00:18,680
+let's get going with the
+
+7
+00:00:20,320 --> 00:00:25,680
+server it is a fairly straightforward um
+
+8
+00:00:24,039 --> 00:00:28,960
+install process it's a very small
+
+9
+00:00:25,680 --> 00:00:31,960
+install so let me just get that
+
+10
+00:00:28,960 --> 00:00:31,960
+going
+
+11
+00:00:39,399 --> 00:00:44,480
+awesome completed really quickly so we
+
+12
+00:00:42,160 --> 00:00:46,920
+want to launch that and configure it so
+
+13
+00:00:44,480 --> 00:00:46,920
+let's do
+
+14
+00:00:49,160 --> 00:00:53,719
+that now we have the configuration tool
+
+15
+00:00:51,440 --> 00:00:55,760
+up and we can um I have very few
+
+16
+00:00:53,719 --> 00:00:58,559
+settings to fill out I'm going to use
+
+17
+00:00:55,760 --> 00:01:00,199
+network service um I I prefer having
+
+18
+00:00:58,559 --> 00:01:02,280
+everything the default and everything on
+
+19
+00:01:00,199 --> 00:01:04,760
+one server in this environment so that
+
+20
+00:01:02,280 --> 00:01:06,280
+should be no bother and the web service
+
+21
+00:01:04,760 --> 00:01:08,439
+port I'm going to leave as the default
+
+22
+00:01:06,280 --> 00:01:11,320
+which is a th and then everybody knows
+
+23
+00:01:08,439 --> 00:01:13,680
+where it is and I need to put the DB
+
+24
+00:01:11,320 --> 00:01:13,680
+server
+
+25
+00:01:14,680 --> 00:01:20,439
+in and as it's just the local
+
+26
+00:01:18,200 --> 00:01:23,479
+server I can just put in the server name
+
+27
+00:01:20,439 --> 00:01:23,479
+and click uh
+
+28
+00:01:27,280 --> 00:01:33,040
+go here we go
+
+29
+00:01:30,960 --> 00:01:35,799
+so now we have a a release management
+
+30
+00:01:33,040 --> 00:01:37,280
+server all set up and configured it very
+
+31
+00:01:35,799 --> 00:01:40,240
+straightforward we're going to install
+
+32
+00:01:37,280 --> 00:01:42,720
+the client um so let me just run this
+
+33
+00:01:40,240 --> 00:01:44,040
+client installer again it's a very small
+
+34
+00:01:42,720 --> 00:01:45,240
+install we're doing it all in the one
+
+35
+00:01:44,040 --> 00:01:48,119
+server so there probably some of the
+
+36
+00:01:45,240 --> 00:01:48,119
+bits are already on
+
+37
+00:01:53,200 --> 00:01:57,880
+there there we go release management
+
+38
+00:01:55,360 --> 00:01:59,799
+clients installed I'm going to spin that
+
+39
+00:01:57,880 --> 00:02:01,360
+up and just do a a couple of config
+
+40
+00:01:59,799 --> 00:02:04,920
+configuration
+
+41
+00:02:01,360 --> 00:02:07,000
+steps here we go and as uh this is the
+
+42
+00:02:04,920 --> 00:02:08,360
+local uh machine we can just leave that
+
+43
+00:02:07,000 --> 00:02:11,479
+at Local Host we could change it the
+
+44
+00:02:08,360 --> 00:02:11,479
+server name and I'm just going to leave
+
+45
+00:02:14,080 --> 00:02:18,120
+it okay now we have the release
+
+46
+00:02:16,239 --> 00:02:19,959
+management client installed I'm just
+
+47
+00:02:18,120 --> 00:02:23,080
+going to pop over to
+
+48
+00:02:19,959 --> 00:02:27,120
+Administration and and going to go to um
+
+49
+00:02:23,080 --> 00:02:31,360
+the manage TFS I'm going to add the TFS
+
+50
+00:02:27,120 --> 00:02:33,440
+server or local TFS server so
+
+51
+00:02:31,360 --> 00:02:37,760
+oh I forgot the
+
+52
+00:02:33,440 --> 00:02:37,760
+beat and our default
+
+53
+00:02:38,280 --> 00:02:44,720
+collection is default collection um let
+
+54
+00:02:41,640 --> 00:02:46,720
+me verify that and that will fail and we
+
+55
+00:02:44,720 --> 00:02:50,760
+need to put in an account that's going
+
+56
+00:02:46,720 --> 00:02:50,760
+to be used to access this so in this
+
+57
+00:02:51,760 --> 00:02:58,200
+case I can actually pick our TFS service
+
+58
+00:02:58,760 --> 00:03:01,760
+account
+
+59
+00:03:03,360 --> 00:03:08,120
+always make sure you got the password
+
+60
+00:03:05,239 --> 00:03:10,440
+right okay so we put in our TFS service
+
+61
+00:03:08,120 --> 00:03:13,200
+account and we hit the
+
+62
+00:03:10,440 --> 00:03:15,360
+verify so the error message access
+
+63
+00:03:13,200 --> 00:03:17,239
+denied um TFS service needs the
+
+64
+00:03:15,360 --> 00:03:20,319
+following permission make requests on
+
+65
+00:03:17,239 --> 00:03:23,080
+behalf of others needs to actually be uh
+
+66
+00:03:20,319 --> 00:03:26,159
+applied at the collection level only so
+
+67
+00:03:23,080 --> 00:03:26,159
+let me open up uh
+
+68
+00:03:28,680 --> 00:03:31,680
+TFS
+
+69
+00:03:35,000 --> 00:03:40,799
+and to make things uh uh a little bit
+
+70
+00:03:37,239 --> 00:03:43,360
+more manageable at the TFS level I'm
+
+71
+00:03:40,799 --> 00:03:46,360
+going to create a new
+
+72
+00:03:43,360 --> 00:03:46,360
+group
+
+73
+00:03:50,799 --> 00:03:55,000
+called release management service
+
+74
+00:03:57,519 --> 00:04:00,599
+accounts and then I'm going to go to the
+
+75
+00:03:59,319 --> 00:04:02,920
+collection
+
+76
+00:04:00,599 --> 00:04:05,879
+level and I'm going to administer
+
+77
+00:04:02,920 --> 00:04:08,120
+security and I'm going to add that
+
+78
+00:04:05,879 --> 00:04:10,840
+security group that I just created so
+
+79
+00:04:08,120 --> 00:04:13,239
+release management service accounts and
+
+80
+00:04:10,840 --> 00:04:15,760
+I'm going to give it just the permission
+
+81
+00:04:13,239 --> 00:04:17,919
+to make requests on behalf of others now
+
+82
+00:04:15,760 --> 00:04:19,600
+you can apply this at the server level
+
+83
+00:04:17,919 --> 00:04:22,000
+uh but that's not recommended as it
+
+84
+00:04:19,600 --> 00:04:23,840
+gives uh uh somebody too much power at
+
+85
+00:04:22,000 --> 00:04:25,600
+the server level and if you make it just
+
+86
+00:04:23,840 --> 00:04:30,400
+at the collection
+
+87
+00:04:25,600 --> 00:04:33,840
+level there we go and then go to our um
+
+88
+00:04:30,400 --> 00:04:35,520
+um group group membership our release
+
+89
+00:04:33,840 --> 00:04:37,880
+management service accounts group and we
+
+90
+00:04:35,520 --> 00:04:40,440
+can add in whatever accounts we need um
+
+91
+00:04:37,880 --> 00:04:43,800
+at this level so I'm just going to add
+
+92
+00:04:40,440 --> 00:04:43,800
+in TF
+
+93
+00:04:47,120 --> 00:04:52,520
+service and now if we head on over to
+
+94
+00:04:49,880 --> 00:04:56,400
+release management and hit the verify
+
+95
+00:04:52,520 --> 00:04:58,840
+button we get our green Teck and all is
+
+96
+00:04:56,400 --> 00:05:01,880
+good so now I've added the the
+
+97
+00:04:58,840 --> 00:05:03,759
+collection in um I can have uh multiple
+
+98
+00:05:01,880 --> 00:05:06,120
+users access this and I'm just going to
+
+99
+00:05:03,759 --> 00:05:09,320
+add a group of users cuz the only person
+
+100
+00:05:06,120 --> 00:05:09,320
+that can access it right now is
+
+101
+00:05:12,120 --> 00:05:17,400
+me good Dem with
+
+102
+00:05:14,800 --> 00:05:18,960
+users add that in and if I go to manage
+
+103
+00:05:17,400 --> 00:05:21,360
+users I have a bunch of users that have
+
+104
+00:05:18,960 --> 00:05:21,360
+been given
+
+105
+00:05:22,000 --> 00:05:27,680
+permission awesome now we've got the
+
+106
+00:05:25,080 --> 00:05:31,120
+client installed um we can go over and
+
+107
+00:05:27,680 --> 00:05:34,639
+install the rest of the services
+
+108
+00:05:31,120 --> 00:05:36,600
+so we're now going to install the um
+
+109
+00:05:34,639 --> 00:05:38,919
+deployment
+
+110
+00:05:36,600 --> 00:05:40,440
+agent so if I just run the deployment
+
+111
+00:05:38,919 --> 00:05:42,919
+agent
+
+112
+00:05:40,440 --> 00:05:45,400
+here again it's a very small install
+
+113
+00:05:42,919 --> 00:05:45,400
+shouldn't take
+
+114
+00:05:45,800 --> 00:05:50,680
+long and there we go and we'll launch
+
+115
+00:05:48,080 --> 00:05:50,680
+the configuration
+
+116
+00:05:52,919 --> 00:05:57,479
+tool and in here again I'm going to pick
+
+117
+00:05:56,039 --> 00:06:00,160
+network service cuz I like to keep
+
+118
+00:05:57,479 --> 00:06:04,520
+things simple and we have to type the
+
+119
+00:06:00,160 --> 00:06:04,520
+URL of our release management
+
+120
+00:06:11,280 --> 00:06:15,199
+server and that should get us
+
+121
+00:06:18,160 --> 00:06:23,560
+there awesome we also have the release
+
+122
+00:06:20,680 --> 00:06:23,560
+management agent
+
+123
+00:06:24,199 --> 00:06:31,400
+configured now if I open up the client
+
+124
+00:06:28,400 --> 00:06:31,400
+tool
+
+125
+00:06:36,160 --> 00:06:39,280
+open up the RE Management client
+
+126
+00:06:39,800 --> 00:06:45,720
+tool and go to configure
+
+127
+00:06:43,599 --> 00:06:48,120
+paths I can go to
+
+128
+00:06:45,720 --> 00:06:53,039
+servers scan for
+
+129
+00:06:48,120 --> 00:06:55,199
+new find our agent register that agent
+
+130
+00:06:53,039 --> 00:06:56,879
+locally and that will take a little
+
+131
+00:06:55,199 --> 00:07:00,199
+while to to do the communication
+
+132
+00:06:56,879 --> 00:07:04,000
+properly um it'll figure out is online
+
+133
+00:07:00,199 --> 00:07:06,319
+in in a in a few
+
+134
+00:07:04,000 --> 00:07:08,520
+minutes and there we go we've installed
+
+135
+00:07:06,319 --> 00:07:11,039
+and configured um release management
+
+136
+00:07:08,520 --> 00:07:15,039
+server release management client and an
+
+137
+00:07:11,039 --> 00:07:15,039
+agent um in our release management
+
+138
+00:07:16,080 --> 00:07:19,080
+environment
+
+
