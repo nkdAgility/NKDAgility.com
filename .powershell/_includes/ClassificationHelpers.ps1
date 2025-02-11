@@ -115,6 +115,7 @@ do not wrap the json in anything else, just return the json object.
 
         $categoryScores[$category] = [PSCustomObject]@{
             "category"          = $category
+            "calculated_at"     = (Get-Date).ToUniversalTime().ToString("s") 
             "ai_confidence"     = $aiConfidence
             "non_ai_confidence" = $nonAiConfidence
             "final_score"       = $finalScore
@@ -208,6 +209,7 @@ function Get-BatchCategoryConfidenceWithChecksum {
 
                     $categoryScores[$category] = [PSCustomObject]@{
                         "category"          = $category
+                        "calculated_at"     = (Get-Date).ToUniversalTime().ToString("s")
                         "ai_confidence"     = $aiConfidence
                         "non_ai_confidence" = $nonAiConfidence
                         "final_score"       = $finalScore
