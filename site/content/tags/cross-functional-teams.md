@@ -1,5 +1,6 @@
 ---
 title: Cross Functional Teams
+date: 2025-02-11T10:17:24Z
 description: 'The Agile ideal: teams with all the skills needed to deliver end-to-end value.'
 Instructions: |-
   **Use this category only for discussions on Cross Functional Teams.**  

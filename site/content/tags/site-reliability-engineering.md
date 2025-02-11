@@ -1,5 +1,6 @@
 ---
 title: Site Reliability Engineering
+date: 2025-02-11T10:17:24Z
 description: Applying software engineering principles to ensure scalable and reliable systems.
 Instructions: |-
   **Use this category only for discussions on Site Reliability Engineering.**  

@@ -1,5 +1,6 @@
 ---
 title: Organisational Change
+date: 2025-02-11T10:17:24Z
 description: Driving transformation efforts to enable agility and resilience.
 Instructions: |-
   **Use this category only for discussions on Organisational Change.**  

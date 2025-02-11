@@ -1,5 +1,6 @@
 ---
 title: Acceptance Test Driven Development
+date: 2025-02-11T10:17:24Z
 description: Drive high-quality software development with Acceptance Test Driven Development (ATDD). Define clear, testable acceptance criteria before implementation to ensure alignment with business needs.
 Instructions: |-
   **Use this category only for discussions on Acceptance Test Driven Development (ATDD).**  

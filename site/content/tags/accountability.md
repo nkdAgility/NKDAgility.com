@@ -1,5 +1,6 @@
 ---
 title: Accountability
+date: 2025-02-11T10:17:24Z
 description: In Agile, accountability is about ownership, not blame. Teams own their commitments, fostering trust and high performance.
 Instructions: |-
   **Use this category only for discussions on Accountability.**  

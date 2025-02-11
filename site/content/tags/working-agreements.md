@@ -1,5 +1,6 @@
 ---
 title: Working Agreements
+date: 2025-02-11T10:17:24Z
 description: Establishing team norms and collaboration principles for effective teamwork.
 Instructions: |-
   **Use this category only for discussions on Working Agreements.**  

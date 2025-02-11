@@ -1,5 +1,6 @@
 ---
 title: Practical Techniques and Tooling
+date: 2025-02-11T10:16:54Z
 description: Exploring different tools, methodologies, and frameworks to improve Agile and DevOps practices.
 Instructions: |-
   **Use this category only for discussions on Practical Techniques and Tooling.**  

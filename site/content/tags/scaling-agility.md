@@ -1,5 +1,6 @@
 ---
 title: Scaling Agility
+date: 2025-02-11T10:17:24Z
 description: Moving beyond frameworks to build agility at every level.
 Instructions: |-
   **Use this category only for discussions on Scaling Agility.**  

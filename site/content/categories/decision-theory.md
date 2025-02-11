@@ -1,5 +1,6 @@
 ---
 title: Decision Theory
+date: 2025-02-11T10:16:54Z
 description: Decision-making in uncertain environments using heuristics, probability, and behavioural economics.
 Instructions: |-
   **Use this category only for discussions on Decision Theory.**  

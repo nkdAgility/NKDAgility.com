@@ -1,5 +1,6 @@
 ---
 title: System Configuration
+date: 2025-02-11T10:17:24Z
 description: Setting up and configuring software, hardware, and systems for optimal performance.
 Instructions: |-
   **Use this category only for discussions on System Configuration.**  

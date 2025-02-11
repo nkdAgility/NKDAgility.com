@@ -1,5 +1,6 @@
 ---
 title: Cycle Time
+date: 2025-02-11T10:17:24Z
 description: Tracking the time taken to complete a unit of work from start to finish.
 Instructions: |-
   **Use this category only for discussions on Cycle Time.**  

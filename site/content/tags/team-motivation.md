@@ -1,5 +1,6 @@
 ---
 title: Team Motivation
+date: 2025-02-11T10:17:24Z
 description: Fostering engagement, ownership, and high performance within agile teams.
 Instructions: |-
   **Use this category only for discussions on Team Motivation.**  

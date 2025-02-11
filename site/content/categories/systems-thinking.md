@@ -1,5 +1,6 @@
 ---
 title: Systems Thinking
+date: 2025-02-11T10:16:54Z
 description: Apply Systems Thinking to understand complexity, improve decision-making, and drive sustainable organisational change.
 Instructions: |-
   **Use this category only for discussions on Systems Thinking.**  

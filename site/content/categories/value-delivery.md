@@ -1,5 +1,6 @@
 ---
 title: Value Delivery
+date: 2025-02-11T10:16:54Z
 description: Strategies for iterative and continuous value delivery to customers.
 Instructions: |-
   **Use this category only for discussions on Value Delivery.**  

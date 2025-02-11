@@ -1,5 +1,6 @@
 ---
 title: Scaling Kanban
+date: 2025-02-11T10:17:24Z
 description: Applying Kanban principles at scale for better flow and efficiency in large organisations.
 Instructions: |-
   **Use this category only for discussions on Scaling Kanban.**  

@@ -1,5 +1,6 @@
 ---
 title: Lean Product Development
+date: 2025-02-11T10:17:24Z
 description: Minimising waste while maximising learning in product creation.
 Instructions: |-
   **Use this category only for discussions on Lean Product Development.**  

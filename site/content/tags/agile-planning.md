@@ -1,5 +1,6 @@
 ---
 title: Agile Planning
+date: 2025-02-11T10:17:24Z
 description: Master Agile Planning to balance flexibility with predictability. Align teams, optimise delivery, and drive value continuously.
 Instructions: |-
   **Use this category only for discussions on Agile Planning.**  

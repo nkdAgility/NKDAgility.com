@@ -1,5 +1,6 @@
 ---
 title: MVP
+date: 2025-02-11T10:17:24Z
 description: Building the Minimum Viable Product to test ideas and validate market assumptions quickly.
 Instructions: |-
   **Use this category only for discussions on MVP (Minimum Viable Product).**

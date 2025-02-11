@@ -10,7 +10,7 @@
 $levelSwitch.MinimumLevel = 'Debug'
 
 # Iterate through each blog folder and update markdown files
-$outputDir = ".\site\content\categories\"
+$outputDir = ".\site\content\tags\"
 
 # Get list of directories and select the first 10
 $classes = Get-ChildItem -Path $outputDir | Sort-Object { $_ } -Descending | Select-Object -First 300 
@@ -40,11 +40,12 @@ $classes | ForEach-Object {
             $prompt = "Generate a concise, engaging description of no more than 160 characters for the following classification: '$($hugoMarkdown.FrontMatter.title)'. "
             $description = Get-OpenAIResponse -Prompt $prompt
             # Update the description in the front matter
-            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'description' -fieldValue $description -addAfter 'title' -
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'description' -fieldValue $description -addAfter 'title' 
         }
-      
-        # Generate a new Instructions using OpenAI
-        $prompt = @"
+        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'date' -fieldValue (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ") -addAfter 'title' 
+        if (-not $hugoMarkdown.FrontMatter.Instructions) {
+            # Generate a new Instructions using OpenAI
+            $prompt = @"
             You are an expert in Agile, Scrum, DevOps, and Evidence-Based Management. 
             
             Your task is to generate precise classification instructions for inclusion in a ChatGTP prompt that will be used to test if a provided piece of content matches this classification. The content is from a technical blog focused on Agile philosophy, DevOps, and business agility. 
@@ -71,10 +72,10 @@ $classes | ForEach-Object {
 
             Your generated classification must be **precise, consistent, and structured** to be **used as part of a prompt** that determines if a given piece of content **matches this classification**.
 "@
-        $Instructions = Get-OpenAIResponse -Prompt $prompt
-        # Update the description in the front matter
-        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'Instructions' -fieldValue $Instructions -addAfter 'description' -Overwrite
-       
+            $Instructions = Get-OpenAIResponse -Prompt $prompt
+            # Update the description in the front matter
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'Instructions' -fieldValue $Instructions -addAfter 'description' -Overwrite
+        }       
 
       
         # =================COMPLETE===================

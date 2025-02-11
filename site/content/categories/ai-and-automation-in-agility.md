@@ -1,5 +1,6 @@
 ---
 title: AI and Automation in Agility
+date: 2025-02-11T10:16:54Z
 description: Leveraging AI-driven automation to enhance agility, decision-making, and software delivery.
 Instructions: |-
   **Use this category only for discussions on AI and Automation in Agility.**  

@@ -1,5 +1,6 @@
 ---
 title: Application Lifecycle Management
+date: 2025-02-11T10:16:54Z
 description: Managing the development, maintenance, and governance of software applications throughout their lifecycle.
 Instructions: |-
   **Use this category only for discussions on Application Lifecycle Management.**  

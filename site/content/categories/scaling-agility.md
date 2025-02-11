@@ -1,5 +1,6 @@
 ---
 title: Scaling Agility
+date: 2025-02-11T10:16:54Z
 description: Building unique scaling approaches with a focus on LeSS, Nexus, and custom scaling strategies. Including but not limited to LeSS, Nexus, and Scrum@Scale.
 Instructions: |-
   **Use this category only for discussions on Scaling Agility.**  

@@ -1,5 +1,6 @@
 ---
 title: Flow Efficiency
+date: 2025-02-11T10:16:54Z
 description: Optimising the throughput of work across the value stream to improve speed and reduce bottlenecks.
 Instructions: |-
   **Use this category only for discussions on Flow Efficiency.**  

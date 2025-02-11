@@ -1,5 +1,6 @@
 ---
 title: Modern Source Control
+date: 2025-02-11T10:17:24Z
 description: Best practices for version control and branching strategies in modern software development.
 Instructions: |-
   **Use this category only for discussions on Modern Source Control.**  

@@ -1,5 +1,6 @@
 ---
 title: Products and Books
+date: 2025-02-11T10:16:54Z
 description: Reviews and discussions about books, tools, and software products related to Agile and DevOps.
 Instructions: |-
   **Use this category only for discussions on Products and Books.**  

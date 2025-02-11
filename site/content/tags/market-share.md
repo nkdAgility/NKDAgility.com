@@ -1,5 +1,6 @@
 ---
 title: Market Share
+date: 2025-02-11T10:17:24Z
 description: Gaining competitive advantage by expanding a product’s presence in its market segment.
 Instructions: |-
   **Use this category only for discussions on Market Share.**  

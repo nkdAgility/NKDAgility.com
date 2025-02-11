@@ -1,5 +1,6 @@
 ---
 title: News and Reviews
+date: 2025-02-11T10:16:54Z
 description: Industry news, updates, and reviews of tools, books, and trends in Agile, DevOps, and technology.
 Instructions: |-
   **Use this category only for discussions on News and Reviews.**  

@@ -1,5 +1,6 @@
 ---
 title: Sociotechnical Systems
+date: 2025-02-11T10:16:54Z
 description: Understanding how technology and organisational structures interact to shape software delivery and team effectiveness.
 Instructions: |-
   **Use this category only for discussions on Sociotechnical Systems.**  

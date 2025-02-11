@@ -1,5 +1,6 @@
 ---
 title: Release Management
+date: 2025-02-11T10:17:24Z
 description: Approaches to planning incremental and iterative software releases.
 Instructions: |-
   **Use this category only for discussions on Release Management.**  

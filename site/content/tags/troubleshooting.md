@@ -1,5 +1,6 @@
 ---
 title: Troubleshooting
+date: 2025-02-11T10:17:24Z
 description: Identifying and resolving issues in software, hardware, and systems to maintain functionality.
 Instructions: |-
   **Use this category only for discussions on Troubleshooting.**  

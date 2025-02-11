@@ -1,5 +1,6 @@
 ---
 title: Agile Transformation
+date: 2025-02-11T10:17:24Z
 description: Lead successful Agile Transformations. Shift mindsets, evolve processes, and enable true organisational agility.
 Instructions: |-
   **Use this category only for discussions on Agile Transformation.**  

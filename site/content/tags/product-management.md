@@ -1,5 +1,6 @@
 ---
 title: Product Management
+date: 2025-02-11T10:17:24Z
 description: Balancing customer needs, business goals, and technical feasibility in product strategy.
 Instructions: |-
   **Use this category only for discussions on Product Management.**  

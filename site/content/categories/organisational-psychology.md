@@ -1,5 +1,6 @@
 ---
 title: Organisational Psychology
+date: 2025-02-11T10:16:54Z
 description: Understanding motivation, engagement, leadership, and team dynamics.
 Instructions: |-
   **Use this category only for discussions on Organisational Psychology.**  

@@ -1,5 +1,6 @@
 ---
 title: Agile Philosophy
+date: 2025-02-11T10:17:24Z
 description: Understand the Agile philosophy and its impact on organisations. Go beyond frameworks to explore Agile as a guiding ethos for value delivery.
 Instructions: |-
   **Use this category only for discussions on Agile Philosophy.**  

@@ -1,5 +1,6 @@
 ---
 title: Continuous Learning
+date: 2025-02-11T10:17:24Z
 description: Fostering a growth mindset and knowledge sharing for sustained team improvement.
 Instructions: |-
   **Use this category only for discussions on Continuous Learning.**  

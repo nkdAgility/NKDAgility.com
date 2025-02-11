@@ -1,5 +1,6 @@
 ---
 title: Code and Complexity
+date: 2025-02-11T10:16:54Z
 description: Discussions around software code quality, and best practices in software development.
 Instructions: |-
   **Use this category only for discussions on Code and Complexity.**  

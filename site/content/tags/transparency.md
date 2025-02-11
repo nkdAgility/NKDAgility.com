@@ -1,5 +1,6 @@
 ---
 title: Transparency
+date: 2025-02-11T10:17:24Z
 description: Ensuring openness and visibility in agile processes to build trust and accountability.
 Instructions: |-
   **Use this category only for discussions on Transparency.**  

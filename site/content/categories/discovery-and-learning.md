@@ -1,5 +1,6 @@
 ---
 title: Discovery and Learning
+date: 2025-02-11T10:16:54Z
 description: Exploring new ideas, innovation, and continuous learning in product and software development.
 Instructions: |-
   **Use this category only for discussions on Discovery and Learning.**  

@@ -1,5 +1,6 @@
 ---
 title: Product Discovery
+date: 2025-02-11T10:17:24Z
 description: Identifying customer needs and defining valuable product features.
 Instructions: |-
   **Use this category only for discussions on Product Discovery.**  

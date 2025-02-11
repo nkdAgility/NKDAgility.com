@@ -1,5 +1,6 @@
 ---
 title: Software Developers
+date: 2025-02-11T10:17:24Z
 description: Enabling developers with modern engineering and agile practices.
 Instructions: |-
   **Use this category only for discussions on Software Developers.**  

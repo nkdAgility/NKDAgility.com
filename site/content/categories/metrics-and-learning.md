@@ -1,5 +1,6 @@
 ---
 title: Metrics and Learning
+date: 2025-02-11T10:16:54Z
 description: Using data, metrics, and feedback to drive continuous improvement in teams and processes.
 Instructions: |-
   **Use this category only for discussions on Metrics and Learning.**  

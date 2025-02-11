@@ -1,5 +1,6 @@
 ---
 title: Agile Frameworks
+date: 2025-02-11T10:17:24Z
 description: Explore and compare Agile frameworks. Understand their principles, applications, and impact on organisational agility and value delivery.
 Instructions: |-
   **Use this category only for discussions on Agile Frameworks.**  

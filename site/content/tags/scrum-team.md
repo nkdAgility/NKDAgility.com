@@ -1,5 +1,6 @@
 ---
 title: Scrum Team
+date: 2025-02-11T10:17:24Z
 description: Collaboration and dynamics within a high-performing Scrum Team.
 Instructions: |-
   **Use this category only for discussions on Scrum Team.**  

@@ -1,5 +1,6 @@
 ---
 title: Azure DevOps
+date: 2025-02-11T10:16:54Z
 description: Azure DevOps is a product from Microsoft that provides tools around CI/CD, collaboration, and agile project management. Other names are Team Foundation Server, TFSOnline, Visual Studio Online (VSO), and Visual Studio Team Services.
 Instructions: |-
   **Use this category only for discussions on Azure DevOps.**  

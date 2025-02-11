@@ -1,5 +1,6 @@
 ---
 title: Scaled Agile
+date: 2025-02-11T10:17:24Z
 description: Extending agile practices across multiple teams and enterprise-level initiatives.
 Instructions: |-
   **Use this category only for discussions on Scaled Agile.**  

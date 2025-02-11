@@ -1,5 +1,6 @@
 ---
 title: Agile Project Management
+date: 2025-02-11T10:17:24Z
 description: Applying agile methodologies to deliver projects with flexibility and responsiveness.
 Instructions: |-
   **Use this category only for discussions on Agile Project Management.**  

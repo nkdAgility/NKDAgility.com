@@ -1,5 +1,6 @@
 ---
 title: Daily Scrum
+date: 2025-02-11T10:17:24Z
 description: Maximise team alignment and adaptability with the Daily Scrum. Inspect progress, adapt plans, and ensure focus on the Sprint Goal.
 Instructions: |-
   **Use this category only for discussions on Daily Scrum.**  

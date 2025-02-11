@@ -1,5 +1,6 @@
 ---
 title: Organisational Physics
+date: 2025-02-11T10:17:24Z
 description: Applying systems thinking to understand and influence organisational dynamics.
 Instructions: |-
   **Use this category only for discussions on Organisational Physics.**  

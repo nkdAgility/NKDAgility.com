@@ -1,5 +1,6 @@
 ---
 title: Agile Planning Tools
+date: 2025-02-11T10:17:24Z
 description: Optimise Agile execution with Agile Planning Tools. Enhance backlog management, forecasting, and collaboration across teams.
 Instructions: |-
   **Use this category only for discussions on Agile Planning Tools.**  

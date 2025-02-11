@@ -1,5 +1,6 @@
 ---
 title: Strategic Goals
+date: 2025-02-11T10:17:24Z
 description: Defining long-term objectives that align with business agility and competitive advantage.
 Instructions: |-
   **Use this category only for discussions on Strategic Goals.**  

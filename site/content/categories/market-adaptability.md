@@ -1,5 +1,6 @@
 ---
 title: Market Adaptability
+date: 2025-02-11T10:16:54Z
 description: Enhancing an organisation’s ability to respond to market shifts and competitive pressures.
 Instructions: |-
   **Use this category only for discussions on Market Adaptability.**  

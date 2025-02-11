@@ -1,5 +1,6 @@
 ---
 title: Behaviour Driven Development
+date: 2025-02-11T10:17:24Z
 description: Align development with business goals using Behaviour Driven Development (BDD). Improve collaboration and create clear, testable requirements.
 Instructions: |-
   **Use this category only for discussions on Behaviour Driven Development.**  

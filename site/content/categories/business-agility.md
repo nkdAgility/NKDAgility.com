@@ -1,5 +1,6 @@
 ---
 title: Business Agility
+date: 2025-02-11T10:16:54Z
 description: Enable Business Agility to rapidly adapt, innovate, and deliver value in an ever-changing market.
 Instructions: |-
   **Use this category only for discussions on Business Agility.**  

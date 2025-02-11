@@ -1,5 +1,6 @@
 ---
 title: DevOps
+date: 2025-02-11T10:16:54Z
 description: The union of people, process, and tools, to enable continuous delivery of value to the end users.
 Instructions: |-
   **Use this category only for discussions on DevOps.**  

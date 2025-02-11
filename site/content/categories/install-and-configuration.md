@@ -1,5 +1,6 @@
 ---
 title: Install and Configuration
+date: 2025-02-11T10:16:54Z
 description: Guides and discussions around setting up, installing, and configuring tools, software, and platforms.
 Instructions: |-
   **Use this category only for discussions on Install and Configuration.**  
