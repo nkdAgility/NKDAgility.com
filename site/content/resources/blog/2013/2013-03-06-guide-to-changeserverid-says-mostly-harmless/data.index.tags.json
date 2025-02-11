@@ -1,12 +1,4 @@
 {
-  "Market Adaptability": {
-    "category": "Market Adaptability",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily about technical details related to TFS, GUIDs, and server commands, with no focus on market adaptability.",
-    "level": "Ignored"
-  },
   "Test First Development": {
     "category": "Test First Development",
     "ai_confidence": 0,
@@ -247,14 +239,6 @@
     "reasoning": "The content primarily discusses technical procedures related to TFS and ChangeServerId, with accountability touching on the importance of following warnings, but it is not the main focus.",
     "level": "Ignored"
   },
-  "Application Lifecycle Management": {
-    "category": "Application Lifecycle Management",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the implications and procedures for managing Team Foundation Server (TFS) instances, particularly in relation to ChangeServerId and GUIDs, which are central to the application lifecycle management process.",
-    "level": "Secondary"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
     "ai_confidence": 0,
@@ -287,30 +271,6 @@
     "reasoning": "Content primarily discusses the ChangeServerId command and its implications in a Team Foundation Server (TFS) environment, with a focus on software development and server management.",
     "level": "Secondary"
   },
-  "Enterprise Agility": {
-    "category": "Enterprise Agility",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the technical aspects of the ChangeServerId command and its implications for TFS rather than engaging with the concept of enterprise agility.",
-    "level": "Ignored"
-  },
-  "Technical Excellence": {
-    "category": "Technical Excellence",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on the technical aspects of using ChangeServerId in TFS, discussing the significance of GUIDs and commands related to server management, which reflects a high level of technical knowledge and expertise.",
-    "level": "Secondary"
-  },
-  "Decision Theory": {
-    "category": "Decision Theory",
-    "ai_confidence": 10,
-    "non_ai_confidence": 0,
-    "final_score": 7.0,
-    "reasoning": "The content primarily discusses technical implementation details and troubleshooting related to Team Foundation Server (TFS) and not decision-making processes or frameworks.",
-    "level": "Ignored"
-  },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
     "ai_confidence": 0,
@@ -341,14 +301,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily focuses on technical details about the ChangeServerId command related to TFS (Team Foundation Server) and server management, without discussing agile strategies, methodologies, or principles.",
-    "level": "Ignored"
-  },
-  "Complexity Thinking": {
-    "category": "Complexity Thinking",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily discusses technical details about the ChangeServerId command in TFS and issues related to GUIDs, rather than focusing on complexity thinking as a central topic.",
     "level": "Ignored"
   },
   "System Configuration": {
@@ -511,14 +463,6 @@
     "reasoning": "The content primarily discusses the technical aspects of using the ChangeServerId command in TFS and the implications of GUIDs when cloning or upgrading environments, without focusing on self-organisation principles or practices.",
     "level": "Ignored"
   },
-  "Organisational Agility": {
-    "category": "Organisational Agility",
-    "ai_confidence": 20,
-    "non_ai_confidence": 0,
-    "final_score": 14.0,
-    "reasoning": "The content primarily discusses technical aspects of managing a Team Foundation Server and GUID issues, with no clear focus on organisational agility.",
-    "level": "Ignored"
-  },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
     "ai_confidence": 0,
@@ -541,14 +485,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses technical procedures related to TFS (Team Foundation Server) and ChangeServerId without any clear focus on trend analysis.",
-    "level": "Ignored"
-  },
-  "Flow Efficiency": {
-    "category": "Flow Efficiency",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process and implications of running the ChangeServerId command in TFS, focusing on GUID issues and server configurations, without a clear emphasis on flow efficiency.",
     "level": "Ignored"
   },
   "Continuous Learning": {
@@ -735,14 +671,6 @@
     "reasoning": "The content primarily discusses the technical aspects of cloning a TFS collection and managing GUIDs, which does not relate to Sprint Reviews or their processes.",
     "level": "Ignored"
   },
-  "Miscellaneous": {
-    "category": "Miscellaneous",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily focuses on technical instructions related to ChangeServerId and TFS (Team Foundation Server) configuration, rather than presenting miscellaneous topics.",
-    "level": "Ignored"
-  },
   "Strategic Goals": {
     "category": "Strategic Goals",
     "ai_confidence": 0,
@@ -767,14 +695,6 @@
     "reasoning": "The content primarily discusses technical aspects of using ChangeServerId in TFS (Team Foundation Server) and addresses issues related to GUIDs and server configuration, without focusing on any working agreements.",
     "level": "Ignored"
   },
-  "Value Delivery": {
-    "category": "Value Delivery",
-    "ai_confidence": 40,
-    "non_ai_confidence": 0,
-    "final_score": 28.0,
-    "reasoning": "The content primarily discusses technical aspects related to TFS and GUID management rather than focusing on delivering value directly.",
-    "level": "Ignored"
-  },
   "Lean Startup": {
     "category": "Lean Startup",
     "ai_confidence": 0,
@@ -789,22 +709,6 @@
     "non_ai_confidence": 0,
     "final_score": 42.0,
     "reasoning": "The content primarily discusses the ChangeServerId command related to Team Foundation Server (TFS), which is typically used within Windows environments, but the focus is on TFS functionality rather than Windows itself.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "ai_confidence": 45,
-    "non_ai_confidence": 10,
-    "final_score": 34.0,
-    "reasoning": "The content discusses technical processes related to TFS configuration but does not focus significantly on people or their roles in the process.",
-    "level": "Ignored"
-  },
-  "Personal": {
-    "category": "Personal",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical details and procedures related to managing TFS (Team Foundation Server) configurations, without a focus on personal experiences or topics.",
     "level": "Ignored"
   },
   "Definition of Ready": {
@@ -837,14 +741,6 @@
     "non_ai_confidence": 0,
     "final_score": 28.0,
     "reasoning": "The content primarily focuses on technical procedures related to TFS (Team Foundation Server) and ChangeServerId, with only tangential references to collaborative aspects but does not center around collaboration tools.",
-    "level": "Ignored"
-  },
-  "Systems Thinking": {
-    "category": "Systems Thinking",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily focused on technical issues related to TFS server configuration and the ChangeServerId command, with no relevant discussion on systems thinking.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -909,14 +805,6 @@
     "non_ai_confidence": 10,
     "final_score": 3.0,
     "reasoning": "The content primarily discusses the ChangeServerId command related to TFS (Team Foundation Server) and issues with GUIDs during cloning and upgrading instances, but does not focus on cycle time as a primary topic.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 6.0,
-    "reasoning": "The content primarily focuses on technical instructions and issues related to cloning and upgrading a TFS server, with no clear or central discussion on resilience or change.",
     "level": "Ignored"
   },
   "Lean Principles": {

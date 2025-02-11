@@ -1,20 +1,4 @@
 {
-  "Decision Theory": {
-    "category": "Decision Theory",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to TFS and MTM errors, focusing on configuration and case sensitivity in work item types, rather than decision theory.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses process configuration and customisation in TFS, indicating a secondary theme related to people and process management.",
-    "level": "Ignored"
-  },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
     "ai_confidence": 30,
@@ -79,14 +63,6 @@
     "reasoning": "The content primarily discusses issues related to TFS and MTM errors, specifically focusing on work item state mappings and case sensitivity, rather than Value Stream Mapping.",
     "level": "Ignored"
   },
-  "Market Adaptability": {
-    "category": "Market Adaptability",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a technical issue related to TFS and MTM, focusing on error messages and configuration solutions rather than market adaptability.",
-    "level": "Ignored"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "ai_confidence": 0,
@@ -133,14 +109,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses a technical issue related to TFS and MTM, focusing on error messages and configuration fixes rather than Agile transformation principles or practices.",
-    "level": "Ignored"
-  },
-  "Miscellaneous": {
-    "category": "Miscellaneous",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a specific error related to TFS and MTM, focusing on troubleshooting and solutions rather than miscellaneous topics.",
     "level": "Ignored"
   },
   "Scaled Agile": {
@@ -255,14 +223,6 @@
     "reasoning": "The content primarily discusses technical issues related to TFS and MTM, with no focus on employee engagement.",
     "level": "Ignored"
   },
-  "Application Lifecycle Management": {
-    "category": "Application Lifecycle Management",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily addresses issues related to work item types and process configurations in TFS, which are central to application lifecycle management practices.",
-    "level": "Secondary"
-  },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
     "ai_confidence": 0,
@@ -319,14 +279,6 @@
     "reasoning": "The content discusses issues related to work item types and process configurations in TFS, which are relevant to agile planning tools, but the primary focus is on troubleshooting specific errors rather than agile planning itself.",
     "level": "Ignored"
   },
-  "Personal": {
-    "category": "Personal",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical issues related to TFS and MTM, with no clear focus on personal topics.",
-    "level": "Ignored"
-  },
   "Automated Testing": {
     "category": "Automated Testing",
     "ai_confidence": 80,
@@ -381,14 +333,6 @@
     "non_ai_confidence": 10,
     "final_score": 3.0,
     "reasoning": "The content primarily discusses a technical issue related to TFS and MTM, focusing on error messages and solutions rather than product strategy.",
-    "level": "Ignored"
-  },
-  "Flow Efficiency": {
-    "category": "Flow Efficiency",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses error messages and solutions related to work item types in TFS, with no clear focus on flow efficiency.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -543,14 +487,6 @@
     "reasoning": "The content primarily discusses issues related to TFS and MTM, focusing on error messages and configuration fixes, rather than Scrum practices or principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses a technical issue related to TFS and MTM, focusing on error messages and configuration fixes rather than resilience or change.",
-    "level": "Ignored"
-  },
   "Agile Strategy": {
     "category": "Agile Strategy",
     "ai_confidence": 30,
@@ -591,28 +527,12 @@
     "reasoning": "The content primarily discusses an error related to TFS and MTM, focusing on case sensitivity issues in work item states rather than MVP concepts.",
     "level": "Ignored"
   },
-  "Organisational Agility": {
-    "category": "Organisational Agility",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a technical issue related to TFS and work item types, with no clear focus on organisational agility.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses error messages and solutions related to work item types in TFS, with no clear focus on throughput as a central theme.",
-    "level": "Ignored"
-  },
-  "Value Delivery": {
-    "category": "Value Delivery",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses issues related to work item types and process configurations, which can impact the delivery of value in a testing context, but the primary focus is on troubleshooting specific errors rather than broader value delivery concepts.",
     "level": "Ignored"
   },
   "Scaling Agility": {
@@ -727,14 +647,6 @@
     "reasoning": "The content primarily discusses a technical issue related to TFS and MTM, focusing on error messages and solutions for work item configurations, with no clear connection to Lean Thinking principles.",
     "level": "Ignored"
   },
-  "Systems Thinking": {
-    "category": "Systems Thinking",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily discusses a specific technical issue related to TFS and work item states, with a focus on error messages and solutions rather than systems thinking concepts.",
-    "level": "Ignored"
-  },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
     "ai_confidence": 0,
@@ -742,14 +654,6 @@
     "final_score": 0.0,
     "reasoning": "The content primarily discusses technical issues related to TFS and MTM errors, with no clear focus on customer feedback loops.",
     "level": "Ignored"
-  },
-  "Technical Excellence": {
-    "category": "Technical Excellence",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily addresses a technical issue related to TFS and MTM, providing detailed solutions and insights into process configuration and case sensitivity.",
-    "level": "Secondary"
   },
   "Sensemaking": {
     "category": "Sensemaking",
@@ -855,28 +759,12 @@
     "reasoning": "The content primarily discusses issues related to TFS and MTM, with a focus on error messages and process configuration, rather than Scrum principles or practices.",
     "level": "Ignored"
   },
-  "Complexity Thinking": {
-    "category": "Complexity Thinking",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a technical issue related to TFS and MTM, focusing on error messages and solutions rather than complexity thinking.",
-    "level": "Ignored"
-  },
   "Mentoring": {
     "category": "Mentoring",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses technical issues related to TFS and MTM, focusing on error messages and solutions, without any mention of mentoring.",
-    "level": "Ignored"
-  },
-  "Enterprise Agility": {
-    "category": "Enterprise Agility",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a technical issue related to TFS and MTM, focusing on error messages and configuration fixes rather than enterprise agility concepts.",
     "level": "Ignored"
   },
   "Deployment Frequency": {

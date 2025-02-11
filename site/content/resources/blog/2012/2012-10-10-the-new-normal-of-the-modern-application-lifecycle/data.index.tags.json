@@ -1,12 +1,4 @@
 {
-  "Value Delivery": {
-    "category": "Value Delivery",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content primarily discusses the evolution of software development practices, the importance of agility, and the need for organisations to adapt their processes to deliver value effectively in a changing environment.",
-    "level": "Secondary"
-  },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
     "ai_confidence": 80,
@@ -77,14 +69,6 @@
     "non_ai_confidence": 20,
     "final_score": 41.0,
     "reasoning": "The content discusses agile methodologies and their importance in modern software development, but it primarily focuses on broader themes of change and adaptation in the IT landscape.",
-    "level": "Ignored"
-  },
-  "Complexity Thinking": {
-    "category": "Complexity Thinking",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the need for organisations to adapt to the complexities of modern software development and consumer demands, indicating an understanding of non-linear solutions in complex systems, but it is primarily focused on the evolution of IT practices rather than complexity thinking itself.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
@@ -271,14 +255,6 @@
     "reasoning": "The content discusses Agile methodologies and the importance of adapting development practices to meet modern demands, but it primarily focuses on broader industry changes and consumerisation rather than specific engineering practices.",
     "level": "Ignored"
   },
-  "Systems Thinking": {
-    "category": "Systems Thinking",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content primarily discusses the evolution of software development practices and the need for organisations to adapt holistically to changes in technology and consumer expectations, which aligns closely with systems thinking.",
-    "level": "Secondary"
-  },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
     "ai_confidence": 50,
@@ -294,14 +270,6 @@
     "final_score": 27.0,
     "reasoning": "The content discusses the evolution of software development practices and the importance of agility, but it does not primarily focus on Behaviour Driven Development or structuring tests around business behaviour.",
     "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "The content primarily discusses the need for organisations to adapt to the changing landscape of software development and IT, highlighting the importance of agility and responsiveness to consumer demands, which aligns closely with building organisational resilience and managing change effectively.",
-    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -335,22 +303,6 @@
     "reasoning": "The content discusses the evolution of software development and the importance of adapting to change, but it does not primarily focus on applying empirical evidence to drive leadership decisions.",
     "level": "Ignored"
   },
-  "Decision Theory": {
-    "category": "Decision Theory",
-    "ai_confidence": 65,
-    "non_ai_confidence": 10,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the evolution of software development practices and the importance of adapting to consumer demands, which relates to decision-making in product and engineering contexts. However, it primarily focuses on the broader themes of change and adaptation rather than explicitly applying empirical thinking to specific decisions.",
-    "level": "Ignored"
-  },
-  "Flow Efficiency": {
-    "category": "Flow Efficiency",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content discusses the importance of adapting development processes to deliver value quickly, highlighting the need for agility and responsiveness in software delivery, which aligns with flow efficiency principles.",
-    "level": "Secondary"
-  },
   "MVP": {
     "category": "MVP",
     "ai_confidence": 45,
@@ -382,14 +334,6 @@
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of adapting to consumer needs and expectations in the context of software development, indicating a secondary theme of customer satisfaction.",
     "level": "Ignored"
-  },
-  "Market Adaptability": {
-    "category": "Market Adaptability",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content primarily discusses the need for organisations to adapt to rapid changes in technology and consumer expectations, emphasising the importance of agility and responsiveness in software development to remain competitive.",
-    "level": "Secondary"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
@@ -430,14 +374,6 @@
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of agility and adapting processes to deliver value, which aligns with lean principles, but it primarily focuses on the evolution of the application lifecycle and consumerisation of IT.",
     "level": "Ignored"
-  },
-  "Enterprise Agility": {
-    "category": "Enterprise Agility",
-    "ai_confidence": 75,
-    "non_ai_confidence": 10,
-    "final_score": 56.0,
-    "reasoning": "The content discusses the transformation of IT organisations and the importance of agility in adapting to modern software development practices, indicating a significant focus on enterprise-level agility.",
-    "level": "Secondary"
   },
   "Lean Startup": {
     "category": "Lean Startup",
@@ -543,14 +479,6 @@
     "reasoning": "The content discusses the evolution of IT and software development practices, touching on themes of agility and team dynamics, but it primarily focuses on the broader context of technological change rather than explicitly empowering teams to take ownership.",
     "level": "Ignored"
   },
-  "Organisational Agility": {
-    "category": "Organisational Agility",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content primarily discusses the need for organisations to adapt to the changing landscape of software development and consumer expectations, highlighting the importance of agility in IT and the shift from rigid structures to more dynamic practices.",
-    "level": "Secondary"
-  },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
     "ai_confidence": 85,
@@ -622,22 +550,6 @@
     "final_score": 41.0,
     "reasoning": "The content discusses the importance of adapting to changes in the software development landscape and the need for organisations to evolve, which aligns with the theme of continuous learning, but it is primarily focused on the concept of the 'new normal' in application lifecycle management.",
     "level": "Ignored"
-  },
-  "Personal": {
-    "category": "Personal",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content includes personal reflections and experiences related to the author's preparation for a keynote speech, but the primary focus is on industry trends and software development practices.",
-    "level": "Secondary"
-  },
-  "Application Lifecycle Management": {
-    "category": "Application Lifecycle Management",
-    "ai_confidence": 85,
-    "non_ai_confidence": 30,
-    "final_score": 68.0,
-    "reasoning": "The content primarily discusses the evolution of software development practices, including Agile methodologies, continuous delivery, and the changing roles within IT, all of which are central to Application Lifecycle Management.",
-    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -767,14 +679,6 @@
     "reasoning": "The content discusses the importance of adapting processes and tools in the modern application lifecycle, including references to testing and quality assurance, but it is primarily focused on broader themes of agility and organisational change.",
     "level": "Ignored"
   },
-  "Technical Excellence": {
-    "category": "Technical Excellence",
-    "ai_confidence": 75,
-    "non_ai_confidence": 10,
-    "final_score": 56.0,
-    "reasoning": "The content discusses the evolution of software development practices, particularly in relation to Agile methodologies and the importance of adapting to consumer demands, which aligns with the principles of robust and maintainable software development.",
-    "level": "Secondary"
-  },
   "Scrum Values": {
     "category": "Scrum Values",
     "ai_confidence": 45,
@@ -805,14 +709,6 @@
     "non_ai_confidence": 10,
     "final_score": 3.0,
     "reasoning": "The content primarily discusses the evolution of software development practices, the importance of agility, and the changing roles within IT and development teams, without a clear focus on asynchronous development or its necessity for distributed teams.",
-    "level": "Ignored"
-  },
-  "Miscellaneous": {
-    "category": "Miscellaneous",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses various aspects of the modern application lifecycle and the changes in software development, but it primarily focuses on agile methodologies and consumerisation of IT, making the miscellaneous theme a secondary aspect.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -917,14 +813,6 @@
     "non_ai_confidence": 20,
     "final_score": 70.0,
     "reasoning": "Content primarily discusses the evolution of software development practices, the importance of agility, and the changing role of developers in modern IT environments.",
-    "level": "Secondary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "ai_confidence": 85,
-    "non_ai_confidence": 30,
-    "final_score": 68.0,
-    "reasoning": "The content primarily discusses the evolution of roles within IT, the importance of agility in organisations, and the need for teams to adapt their processes to meet consumer demands, indicating a strong focus on optimising human and procedural elements.",
     "level": "Secondary"
   },
   "Team Performance": {

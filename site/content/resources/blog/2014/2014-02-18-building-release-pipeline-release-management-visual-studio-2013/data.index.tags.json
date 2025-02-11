@@ -1,20 +1,4 @@
 {
-  "Decision Theory": {
-    "category": "Decision Theory",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses release management and software development processes, with no clear focus on decision theory.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "ai_confidence": 85,
-    "non_ai_confidence": 30,
-    "final_score": 68.0,
-    "reasoning": "Content extensively discusses the roles of development and operations teams in the context of a release pipeline, emphasising the importance of feedback and collaboration between these groups.",
-    "level": "Secondary"
-  },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
     "ai_confidence": 75,
@@ -79,14 +63,6 @@
     "reasoning": "The content primarily discusses the concept of a release pipeline, which is a critical aspect of value stream mapping in software development, focusing on the flow of code through various stages to production.",
     "level": "Secondary"
   },
-  "Market Adaptability": {
-    "category": "Market Adaptability",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the need for organisations to adapt to modern software delivery practices and the importance of continuous release in maintaining competitiveness, making market adaptability a significant theme.",
-    "level": "Ignored"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "ai_confidence": 50,
@@ -134,14 +110,6 @@
     "final_score": 56.0,
     "reasoning": "Content primarily discusses the importance of continuous delivery and feedback in the context of software development, which aligns closely with agile principles.",
     "level": "Secondary"
-  },
-  "Miscellaneous": {
-    "category": "Miscellaneous",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on building a release pipeline with Visual Studio 2013 and discusses various aspects of software development and deployment, rather than addressing miscellaneous topics.",
-    "level": "Ignored"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -255,14 +223,6 @@
     "reasoning": "The content primarily discusses the technical aspects of building a release pipeline with Visual Studio 2013, focusing on software delivery processes and tools, rather than employee engagement.",
     "level": "Ignored"
   },
-  "Application Lifecycle Management": {
-    "category": "Application Lifecycle Management",
-    "ai_confidence": 92,
-    "non_ai_confidence": 30,
-    "final_score": 73.0,
-    "reasoning": "Content primarily focuses on building a release pipeline within the context of Application Lifecycle Management, discussing various aspects such as continuous release, feedback mechanisms, and the integration of development and operations.",
-    "level": "Secondary"
-  },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
     "ai_confidence": 50,
@@ -319,14 +279,6 @@
     "reasoning": "The content discusses the release pipeline and continuous delivery, which are important aspects of Agile methodologies, making Agile Planning Tools a significant theme.",
     "level": "Secondary"
   },
-  "Personal": {
-    "category": "Personal",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical aspects of release management and software development processes, with no clear focus on personal themes.",
-    "level": "Ignored"
-  },
   "Automated Testing": {
     "category": "Automated Testing",
     "ai_confidence": 80,
@@ -381,14 +333,6 @@
     "non_ai_confidence": 10,
     "final_score": 59.0,
     "reasoning": "Content primarily discusses the importance of a release pipeline and continuous delivery in the context of product development and strategy, highlighting how these practices impact product quality and business agility.",
-    "level": "Secondary"
-  },
-  "Flow Efficiency": {
-    "category": "Flow Efficiency",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content primarily discusses the importance of a release pipeline and continuous delivery, emphasising the efficiency of software flow from development to production.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -543,14 +487,6 @@
     "reasoning": "The content discusses aspects of software delivery and development processes, including feedback loops and team collaboration, which are relevant to Scrum principles, but it primarily focuses on release management and continuous delivery rather than Scrum specifically.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses the need for organisations to adapt and innovate in their software delivery processes, highlighting the importance of continuous release and feedback mechanisms, which are aspects of resilience and change.",
-    "level": "Ignored"
-  },
   "Agile Strategy": {
     "category": "Agile Strategy",
     "ai_confidence": 85,
@@ -591,28 +527,12 @@
     "reasoning": "The content discusses the concept of a release pipeline and its importance in software delivery, which is a significant aspect of building a Minimum Viable Product (MVP), but it primarily focuses on release management and continuous delivery rather than MVP specifically.",
     "level": "Ignored"
   },
-  "Organisational Agility": {
-    "category": "Organisational Agility",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the importance of continuous delivery and the role of release pipelines in enhancing organisational agility, particularly in the context of integrating development and operations.",
-    "level": "Secondary"
-  },
   "Throughput": {
     "category": "Throughput",
     "ai_confidence": 92,
     "non_ai_confidence": 0,
     "final_score": 64.0,
     "reasoning": "Content primarily discusses the concept of a release pipeline, focusing on the processes involved in moving code through various environments to production, which directly relates to throughput in software delivery.",
-    "level": "Secondary"
-  },
-  "Value Delivery": {
-    "category": "Value Delivery",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content primarily focuses on building a release pipeline and continuous delivery, emphasising the importance of quality and feedback in the software delivery process.",
     "level": "Secondary"
   },
   "Scaling Agility": {
@@ -727,28 +647,12 @@
     "reasoning": "Content primarily discusses the importance of continuous delivery and feedback in software development, which aligns closely with Lean Thinking principles.",
     "level": "Secondary"
   },
-  "Systems Thinking": {
-    "category": "Systems Thinking",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the integration of development and operations in the context of a release pipeline, which aligns with systems thinking principles, but it primarily focuses on release management and software delivery processes.",
-    "level": "Ignored"
-  },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
     "final_score": 59.0,
     "reasoning": "The content discusses the importance of feedback in the development and operational realms, highlighting how feedback mechanisms are integral to the release pipeline and overall software quality.",
-    "level": "Secondary"
-  },
-  "Technical Excellence": {
-    "category": "Technical Excellence",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content primarily focuses on building a release pipeline and the importance of continuous delivery and quality in software development, showcasing technical processes and methodologies.",
     "level": "Secondary"
   },
   "Sensemaking": {
@@ -855,14 +759,6 @@
     "reasoning": "The content primarily focuses on release management and continuous delivery in software development, with no clear emphasis on Scrum principles or practices.",
     "level": "Ignored"
   },
-  "Complexity Thinking": {
-    "category": "Complexity Thinking",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the intricacies of building a release pipeline and the interplay between development and operations, which aligns with complexity thinking as it addresses the challenges and dynamics of software delivery processes.",
-    "level": "Ignored"
-  },
   "Mentoring": {
     "category": "Mentoring",
     "ai_confidence": 0,
@@ -870,14 +766,6 @@
     "final_score": 0.0,
     "reasoning": "The content primarily discusses the technical aspects of building a release pipeline with Visual Studio 2013, focusing on software delivery processes and tools, rather than mentoring or guidance.",
     "level": "Ignored"
-  },
-  "Enterprise Agility": {
-    "category": "Enterprise Agility",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the importance of continuous delivery and release management in the context of enterprise software development, highlighting the need for agility in both development and operational processes.",
-    "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",

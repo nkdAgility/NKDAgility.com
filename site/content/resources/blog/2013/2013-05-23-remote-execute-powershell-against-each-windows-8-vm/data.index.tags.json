@@ -1,12 +1,4 @@
 {
-  "Market Adaptability": {
-    "category": "Market Adaptability",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is focused on scripting and executing PowerShell commands for managing virtual machines in Hyper-V, with no mention or relevance to market adaptability.",
-    "level": "Ignored"
-  },
   "Test First Development": {
     "category": "Test First Development",
     "ai_confidence": 0,
@@ -247,14 +239,6 @@
     "reasoning": "The content is primarily focused on automating PowerShell scripts for managing virtual machines and does not primarily discuss accountability.",
     "level": "Ignored"
   },
-  "Application Lifecycle Management": {
-    "category": "Application Lifecycle Management",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses scripting for remote execution and management of Virtual Machines using PowerShell, focusing on automation and updates rather than Application Lifecycle Management.",
-    "level": "Ignored"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
     "ai_confidence": 0,
@@ -287,22 +271,6 @@
     "reasoning": "The content primarily focuses on writing and executing PowerShell scripts for automating tasks related to managing Hyper-V virtual machines, demonstrating significant software development concepts and practices.",
     "level": "Secondary"
   },
-  "Enterprise Agility": {
-    "category": "Enterprise Agility",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses PowerShell scripting for managing Windows virtual machines and does not focus on enterprise agility or related concepts.",
-    "level": "Ignored"
-  },
-  "Decision Theory": {
-    "category": "Decision Theory",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is focused on executing PowerShell scripts on Windows 8 VMs and managing their states, with no discussion or mention of decision-making processes or principles related to decision theory.",
-    "level": "Ignored"
-  },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
     "ai_confidence": 0,
@@ -333,14 +301,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content is focused predominantly on executing PowerShell scripts to manage virtual machines using Hyper-V. It does not discuss Agile strategy or any related concepts.",
-    "level": "Ignored"
-  },
-  "Complexity Thinking": {
-    "category": "Complexity Thinking",
-    "ai_confidence": 20,
-    "non_ai_confidence": 0,
-    "final_score": 14.0,
-    "reasoning": "Content is focused primarily on executing PowerShell scripts for remote management of Windows VMs, with no substantial discussion on complexity thinking or systems thinking.",
     "level": "Ignored"
   },
   "System Configuration": {
@@ -503,14 +463,6 @@
     "reasoning": "The content primarily focuses on executing PowerShell scripts on virtual machines and managing their states, rather than on self-organization principles or methods.",
     "level": "Ignored"
   },
-  "Organisational Agility": {
-    "category": "Organisational Agility",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on executing PowerShell scripts for managing virtual machines in Hyper-V, which does not relate to organisational agility as a primary topic. It neither discusses agility principles nor their application in an organisational context.",
-    "level": "Ignored"
-  },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
     "ai_confidence": 40,
@@ -533,14 +485,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses the technical implementation of PowerShell scripts for managing virtual machines in a Hyper-V environment. There is no significant analysis of trends involved.",
-    "level": "Ignored"
-  },
-  "Flow Efficiency": {
-    "category": "Flow Efficiency",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the automation of running PowerShell scripts on multiple virtual machines, which relates to improving the efficiency of workflows, but the focus is more on the technical aspects of the script rather than on flow efficiency.",
     "level": "Ignored"
   },
   "Continuous Learning": {
@@ -622,14 +566,6 @@
     "final_score": 0.0,
     "reasoning": "The content is primarily focused on scripting and managing virtual machines using PowerShell, with no relevant mention of backlog refinement.",
     "level": "Ignored"
-  },
-  "Technical Excellence": {
-    "category": "Technical Excellence",
-    "ai_confidence": 95,
-    "non_ai_confidence": 0,
-    "final_score": 66.0,
-    "reasoning": "Content primarily focuses on writing PowerShell scripts for remote execution and management of Windows 8 VMs, demonstrating technical knowledge and problem-solving in a programming context.",
-    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
@@ -719,14 +655,6 @@
     "reasoning": "The content is focused on executing PowerShell scripts to manage Windows 8 VMs in Hyper-V, without any mention of sprint reviews or related Agile practices.",
     "level": "Ignored"
   },
-  "Miscellaneous": {
-    "category": "Miscellaneous",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content mainly focuses on executing PowerShell scripts for managing Windows 8 VMs on Hyper-V. While there are general observations about PowerShell, the primary topic is about scripting and VM management, not miscellaneous themes.",
-    "level": "Ignored"
-  },
   "Strategic Goals": {
     "category": "Strategic Goals",
     "ai_confidence": 0,
@@ -751,14 +679,6 @@
     "reasoning": "The content primarily discusses executing PowerShell scripts to manage virtual machines, without any mention of working agreements.",
     "level": "Ignored"
   },
-  "Value Delivery": {
-    "category": "Value Delivery",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "The content primarily focuses on automating the process of updating and configuring multiple Windows 8 virtual machines using PowerShell, which directly delivers value in terms of efficiency and time-saving for system management.",
-    "level": "Secondary"
-  },
   "Lean Startup": {
     "category": "Lean Startup",
     "ai_confidence": 0,
@@ -774,22 +694,6 @@
     "final_score": 82.0,
     "reasoning": "The content is primarily about using PowerShell to manage and execute scripts on Windows 8 virtual machines, heavily focused on Windows-related tools and operations.",
     "level": "Primary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "ai_confidence": 45,
-    "non_ai_confidence": 20,
-    "final_score": 38.0,
-    "reasoning": "The content primarily focuses on technical execution of PowerShell scripts for managing virtual machines rather than discussing people or organizational processes.",
-    "level": "Ignored"
-  },
-  "Personal": {
-    "category": "Personal",
-    "ai_confidence": 20,
-    "non_ai_confidence": 0,
-    "final_score": 14.0,
-    "reasoning": "The content mainly focuses on technical instructions and coding examples for using PowerShell with Windows 8 VMs, with only brief personal commentary at the beginning regarding a personal issue, making the personal aspect not central to the content.",
-    "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
@@ -821,14 +725,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily focuses on executing PowerShell scripts to manage virtual machines in Hyper-V and does not discuss collaboration tools or their features.",
-    "level": "Ignored"
-  },
-  "Systems Thinking": {
-    "category": "Systems Thinking",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the use of PowerShell to manage and execute scripts on virtual machines, with no significant discussion or exploration of systems thinking concepts.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -901,14 +797,6 @@
     "non_ai_confidence": 10,
     "final_score": 37.0,
     "reasoning": "The content discusses optimization and execution of scripts on virtual machines but does not primarily focus on cycle time as a clear topic.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 6.0,
-    "reasoning": "The content primarily focuses on using PowerShell scripts to manage and execute commands on Windows virtual machines in a Hyper-V environment. It does not address resilience or change as a clear, primary topic.",
     "level": "Ignored"
   },
   "Lean Principles": {

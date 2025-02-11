@@ -1,20 +1,4 @@
 {
-  "Decision Theory": {
-    "category": "Decision Theory",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical issues related to creating log entries in Release Management and does not focus on decision theory as a central theme.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on technical issues related to creating log entries in Release Management and does not discuss people or processes as a central theme.",
-    "level": "Ignored"
-  },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
     "ai_confidence": 0,
@@ -77,14 +61,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses issues related to creating log entries in Release Management and does not focus on Value Stream Mapping.",
-    "level": "Ignored"
-  },
-  "Market Adaptability": {
-    "category": "Market Adaptability",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical issues related to creating log entries in Release Management and does not focus on market adaptability.",
     "level": "Ignored"
   },
   "Self Organisation": {
@@ -247,14 +223,6 @@
     "reasoning": "The content primarily discusses technical issues related to creating log entries in Release Management and does not focus on employee engagement.",
     "level": "Ignored"
   },
-  "Application Lifecycle Management": {
-    "category": "Application Lifecycle Management",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "Content primarily focuses on creating log entries in Release Management, which is a key aspect of Application Lifecycle Management.",
-    "level": "Secondary"
-  },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
     "ai_confidence": 0,
@@ -309,14 +277,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses issues related to creating log entries in Release Management and deployment scripts, with no clear focus on Agile planning tools.",
-    "level": "Ignored"
-  },
-  "Personal": {
-    "category": "Personal",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content includes personal experiences related to working on demos and attending NDC London, but the primary focus is on technical issues with Release Management and logging, making personal anecdotes a secondary theme.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -374,14 +334,6 @@
     "final_score": 3.0,
     "reasoning": "The content primarily discusses technical issues related to creating log entries in Release Management, with no clear focus on product strategy.",
     "level": "Ignored"
-  },
-  "Flow Efficiency": {
-    "category": "Flow Efficiency",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the challenges and solutions related to logging in Release Management, which directly impacts flow efficiency in deployment processes.",
-    "level": "Secondary"
   },
   "Transparency": {
     "category": "Transparency",
@@ -535,14 +487,6 @@
     "reasoning": "The content primarily discusses issues related to creating log entries in Release Management and deployment scripts, with no clear focus on Scrum practices or principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses technical issues related to creating log entries in Release Management and does not focus on resilience or change as a central theme.",
-    "level": "Ignored"
-  },
   "Agile Strategy": {
     "category": "Agile Strategy",
     "ai_confidence": 0,
@@ -583,14 +527,6 @@
     "reasoning": "The content primarily discusses issues related to creating log entries in Release Management and does not focus on the concept of MVP.",
     "level": "Ignored"
   },
-  "Organisational Agility": {
-    "category": "Organisational Agility",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical issues related to creating log entries in Release Management and does not focus on organisational agility as a clear, primary topic.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "ai_confidence": 50,
@@ -598,14 +534,6 @@
     "final_score": 35.0,
     "reasoning": "The content discusses the challenges of logging outputs during deployment processes, which relates to throughput in terms of capturing successful operations, but it is primarily focused on troubleshooting and scripting rather than throughput itself.",
     "level": "Ignored"
-  },
-  "Value Delivery": {
-    "category": "Value Delivery",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily focuses on the challenges and solutions related to creating log entries in Release Management, which is essential for delivering value in deployment processes.",
-    "level": "Secondary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -719,14 +647,6 @@
     "reasoning": "The content primarily discusses issues related to creating log entries in Release Management and does not focus on Lean Thinking principles.",
     "level": "Ignored"
   },
-  "Systems Thinking": {
-    "category": "Systems Thinking",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to creating log entries in Release Management and does not focus on systems thinking as a clear, primary topic.",
-    "level": "Ignored"
-  },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
     "ai_confidence": 0,
@@ -734,14 +654,6 @@
     "final_score": 0.0,
     "reasoning": "The content primarily discusses issues related to creating log entries in Release Management and does not focus on customer feedback loops.",
     "level": "Ignored"
-  },
-  "Technical Excellence": {
-    "category": "Technical Excellence",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on troubleshooting and improving logging in Release Management, demonstrating technical problem-solving and best practices.",
-    "level": "Secondary"
   },
   "Sensemaking": {
     "category": "Sensemaking",
@@ -847,28 +759,12 @@
     "reasoning": "The content primarily discusses issues related to Release Management and deployment scripts, with no clear focus on Scrum principles, roles, or events.",
     "level": "Ignored"
   },
-  "Complexity Thinking": {
-    "category": "Complexity Thinking",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical issues related to creating log entries in Release Management and does not focus on complexity thinking as a central theme.",
-    "level": "Ignored"
-  },
   "Mentoring": {
     "category": "Mentoring",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses technical issues related to creating log entries in Release Management and does not focus on mentoring or guidance.",
-    "level": "Ignored"
-  },
-  "Enterprise Agility": {
-    "category": "Enterprise Agility",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical issues related to creating log entries in Release Management, with no clear focus on enterprise agility principles or practices.",
     "level": "Ignored"
   },
   "Deployment Frequency": {

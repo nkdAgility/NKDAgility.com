@@ -1,12 +1,4 @@
 {
-  "Market Adaptability": {
-    "category": "Market Adaptability",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses design considerations and flexibility in organizing teams and projects within Team Foundation Server, indicating a theme of adaptability in project management, but it is not the primary focus.",
-    "level": "Ignored"
-  },
   "Test First Development": {
     "category": "Test First Development",
     "ai_confidence": 0,
@@ -247,14 +239,6 @@
     "reasoning": "The content discusses workflow and permissions management in a Team Project scenario, indicating a level of accountability necessary to maintain security and correct configurations. However, accountability is not the primary focus of the content.",
     "level": "Ignored"
   },
-  "Application Lifecycle Management": {
-    "category": "Application Lifecycle Management",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content primarily discusses the practices and considerations involved in managing a Team Project within Team Foundation Server, which is central to Application Lifecycle Management, focusing on organization, automation workflows, and project structure.",
-    "level": "Secondary"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
     "ai_confidence": 45,
@@ -287,30 +271,6 @@
     "reasoning": "Content focuses extensively on using Team Foundation Server 2012 for managing software development projects, detailing design considerations, roles, and workflows related to software development practices.",
     "level": "Secondary"
   },
-  "Enterprise Agility": {
-    "category": "Enterprise Agility",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "The content extensively discusses the organizational structure and processes within a Team Project in Team Foundation Server 2012, focusing on how to integrate teams, products, and projects in an agile manner which is central to enterprise agility.",
-    "level": "Secondary"
-  },
-  "Technical Excellence": {
-    "category": "Technical Excellence",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily focuses on the design considerations and complexities of using Team Foundation Server 2012, illustrating technical aspects of project management, structure, and workflow automation.",
-    "level": "Secondary"
-  },
-  "Decision Theory": {
-    "category": "Decision Theory",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Team Foundation Server 2012 and its organizational structure, roles, and configurations rather than focusing on decision theory.",
-    "level": "Ignored"
-  },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
     "ai_confidence": 70,
@@ -341,14 +301,6 @@
     "non_ai_confidence": 10,
     "final_score": 62.0,
     "reasoning": "The content primarily discusses how to structure and organize within Team Foundation Server 2012 to support Agile methodologies, focusing on teams, products, and projects within an Agile framework.",
-    "level": "Secondary"
-  },
-  "Complexity Thinking": {
-    "category": "Complexity Thinking",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "The content discusses various complexities and design considerations in managing a single Team Project in Team Foundation Server 2012, highlighting the intricate relationships between teams, products, and projects, as well as the workflows and permissions involved.",
     "level": "Secondary"
   },
   "System Configuration": {
@@ -511,14 +463,6 @@
     "reasoning": "The content discusses aspects of team organization and workflows within Team Foundation Server, indicating a strong emphasis on structuring teams and projects effectively. While it is primarily focused on TFS, the underlying theme of self-organization within teams is prevalent.",
     "level": "Secondary"
   },
-  "Organisational Agility": {
-    "category": "Organisational Agility",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses how to structure teams and projects within Team Foundation Server to enhance collaboration, flexibility, and responsiveness, which aligns closely with the principles of organisational agility.",
-    "level": "Secondary"
-  },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
     "ai_confidence": 30,
@@ -541,14 +485,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses the use and configuration of Team Foundation Server 2012 for single team projects, focusing on design considerations, workflows, and organizational strategies, rather than analyzing trends.",
-    "level": "Ignored"
-  },
-  "Flow Efficiency": {
-    "category": "Flow Efficiency",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses managing workflows, permissions, and team structures within Team Foundation Server, which relates to flow efficiency in terms of optimizing project management processes. However, the primary focus is on implementation details rather than flow efficiency itself.",
     "level": "Ignored"
   },
   "Continuous Learning": {
@@ -735,14 +671,6 @@
     "reasoning": "The content primarily discusses the design considerations and management of projects within Team Foundation Server and does not focus on the concept or practices of a Sprint Review.",
     "level": "Ignored"
   },
-  "Miscellaneous": {
-    "category": "Miscellaneous",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily focused on the use of Team Foundation Server 2012 within a single team project, discussing its features and best practices rather than anything that could be considered miscellaneous.",
-    "level": "Ignored"
-  },
   "Strategic Goals": {
     "category": "Strategic Goals",
     "ai_confidence": 50,
@@ -767,14 +695,6 @@
     "reasoning": "The content discusses various design considerations and workflows related to working within a single Team Project using Team Foundation Server, which includes themes related to team organization and collaboration, but does not primarily focus on formal working agreements.",
     "level": "Ignored"
   },
-  "Value Delivery": {
-    "category": "Value Delivery",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "The content primarily focuses on how to effectively use Team Foundation Server 2012 to organize teams, products, and projects, ultimately enhancing value delivery through improved workflow and management practices.",
-    "level": "Secondary"
-  },
   "Lean Startup": {
     "category": "Lean Startup",
     "ai_confidence": 0,
@@ -789,22 +709,6 @@
     "non_ai_confidence": 0,
     "final_score": 35.0,
     "reasoning": "The content mainly discusses features and design considerations of Team Foundation Server (TFS) 2012, which is part of the Windows ecosystem, but does so within the context of project management rather than Windows itself.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "ai_confidence": 88,
-    "non_ai_confidence": 20,
-    "final_score": 68.0,
-    "reasoning": "Content primarily focuses on the roles, organization, and processes related to managing teams and projects within Team Foundation Server 2012, discussing best practices, workflows, and structural considerations.",
-    "level": "Secondary"
-  },
-  "Personal": {
-    "category": "Personal",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the technical aspects and design considerations of using Team Foundation Server 2012 in project management, without emphasis on personal experiences or themes.",
     "level": "Ignored"
   },
   "Definition of Ready": {
@@ -838,14 +742,6 @@
     "final_score": 63.0,
     "reasoning": "The content primarily discusses using Team Foundation Server for project management and collaboration among teams, with a strong focus on the design considerations for effective teamwork within a single team project.",
     "level": "Secondary"
-  },
-  "Systems Thinking": {
-    "category": "Systems Thinking",
-    "ai_confidence": 62,
-    "non_ai_confidence": 0,
-    "final_score": 43.0,
-    "reasoning": "The content discusses the complexities of managing multiple teams and projects within a Team Foundation Server environment, emphasizing the need to consider how different elements interact and the importance of design considerations which aligns with systems thinking principles.",
-    "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
@@ -909,14 +805,6 @@
     "non_ai_confidence": 10,
     "final_score": 3.0,
     "reasoning": "The content primarily discusses the use of Team Foundation Server 2012 in managing projects, teams, and products, without a clear focus on cycle time as a primary topic.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses the design considerations and workflows for Team Foundation Server, which implies managing changes within an organization, but resilience and change are not the primary focus.",
     "level": "Ignored"
   },
   "Lean Principles": {

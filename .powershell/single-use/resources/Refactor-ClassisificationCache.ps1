@@ -20,7 +20,7 @@ $ClassificationType = "tags"
 $catalogCategories = Get-CatalogHashtable -Classification "categories"
 $catalogTags = Get-CatalogHashtable -Classification "tags"
 
-$duplicateKeys = $catalogCategories.Keys | Where-Object { $catalogTags.ContainsKey($_) } | Sort-Object { $_ } 
+#$duplicateKeys = $catalogCategories.Keys | Where-Object { $catalogTags.ContainsKey($_) } | Sort-Object { $_ } 
 
 switch ($ClassificationType) {
     "categories" {

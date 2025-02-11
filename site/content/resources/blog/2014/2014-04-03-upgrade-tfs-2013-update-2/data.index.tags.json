@@ -1,20 +1,4 @@
 {
-  "Decision Theory": {
-    "category": "Decision Theory",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the features and upgrade process of Team Foundation Server 2013 Update 2, with no clear focus on decision theory.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 6.0,
-    "reasoning": "The content primarily focuses on the technical features and updates of TFS 2013 Update 2, with minimal mention of people or processes.",
-    "level": "Ignored"
-  },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
     "ai_confidence": 45,
@@ -79,14 +63,6 @@
     "reasoning": "The content primarily discusses the features and upgrade process of Team Foundation Server 2013 Update 2, with no clear focus on Value Stream Mapping.",
     "level": "Ignored"
   },
-  "Market Adaptability": {
-    "category": "Market Adaptability",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the features and upgrade process of Team Foundation Server 2013 Update 2, with no clear focus on market adaptability.",
-    "level": "Ignored"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "ai_confidence": 0,
@@ -133,14 +109,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses the features and upgrade process of Team Foundation Server 2013 Update 2, with no clear focus on Agile Transformation principles or practices.",
-    "level": "Ignored"
-  },
-  "Miscellaneous": {
-    "category": "Miscellaneous",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the features and upgrade process of TFS 2013 Update 2, with no clear emphasis on miscellaneous topics.",
     "level": "Ignored"
   },
   "Scaled Agile": {
@@ -255,14 +223,6 @@
     "reasoning": "The content primarily discusses the features and upgrade process of Team Foundation Server 2013 Update 2, with no focus on employee engagement.",
     "level": "Ignored"
   },
-  "Application Lifecycle Management": {
-    "category": "Application Lifecycle Management",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content primarily discusses the features and improvements of TFS 2013 Update 2, focusing on backlog management, test management, release management, and version management, all of which are central to application lifecycle management.",
-    "level": "Secondary"
-  },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
     "ai_confidence": 0,
@@ -319,14 +279,6 @@
     "reasoning": "Content primarily discusses features and enhancements in Team Foundation Server 2013 Update 2, particularly focusing on backlog management, test management, and release management, which are central to agile planning and project management.",
     "level": "Secondary"
   },
-  "Personal": {
-    "category": "Personal",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical features and updates related to Team Foundation Server 2013 Update 2, with no clear focus on personal topics.",
-    "level": "Ignored"
-  },
   "Automated Testing": {
     "category": "Automated Testing",
     "ai_confidence": 70,
@@ -381,14 +333,6 @@
     "non_ai_confidence": 0,
     "final_score": 35.0,
     "reasoning": "The content discusses features and improvements in TFS 2013 Update 2, which are relevant to product strategy, but the primary focus is on technical details and upgrade processes rather than overarching product strategy.",
-    "level": "Ignored"
-  },
-  "Flow Efficiency": {
-    "category": "Flow Efficiency",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses various features of TFS 2013 Update 2 that improve backlog management, test management, and release management, which contribute to flow efficiency, but the primary focus is on the update itself rather than flow efficiency specifically.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -543,14 +487,6 @@
     "reasoning": "The content discusses features related to backlog management and test management in TFS, which are relevant to Scrum practices, but the primary focus is on the TFS update rather than Scrum itself.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "ai_confidence": 30,
-    "non_ai_confidence": 20,
-    "final_score": 27.0,
-    "reasoning": "The content primarily focuses on the features and improvements of TFS 2013 Update 2, with only brief mentions of resilience in the context of upgrade processes and customer experiences.",
-    "level": "Ignored"
-  },
   "Agile Strategy": {
     "category": "Agile Strategy",
     "ai_confidence": 50,
@@ -591,14 +527,6 @@
     "reasoning": "The content discusses various features and improvements in TFS 2013 Update 2, which are relevant to MVP (Minimum Viable Product) development, but the primary focus is on the update process and specific features rather than MVP itself.",
     "level": "Ignored"
   },
-  "Organisational Agility": {
-    "category": "Organisational Agility",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses features and improvements in TFS 2013 Update 2 that can enhance project management and team collaboration, which are relevant to organisational agility, but the primary focus is on the technical aspects of the update rather than agility itself.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "ai_confidence": 50,
@@ -606,14 +534,6 @@
     "final_score": 35.0,
     "reasoning": "The content discusses various features and improvements in TFS 2013 Update 2 that enhance performance and efficiency, which are related to throughput, but the primary focus is on the update process and specific features rather than throughput itself.",
     "level": "Ignored"
-  },
-  "Value Delivery": {
-    "category": "Value Delivery",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses the features and improvements in TFS 2013 Update 2 that enhance backlog management, test management, release management, and version management, all of which contribute to delivering value to users.",
-    "level": "Secondary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -727,14 +647,6 @@
     "reasoning": "The content primarily discusses the features and upgrade process of Team Foundation Server 2013 Update 2, with no clear focus on Lean Thinking principles.",
     "level": "Ignored"
   },
-  "Systems Thinking": {
-    "category": "Systems Thinking",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the features and upgrade process of Team Foundation Server 2013 Update 2, with no clear focus on systems thinking.",
-    "level": "Ignored"
-  },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
     "ai_confidence": 0,
@@ -742,14 +654,6 @@
     "final_score": 3.0,
     "reasoning": "The content primarily discusses the features and upgrade process of TFS 2013 Update 2, with no clear focus on customer feedback loops.",
     "level": "Ignored"
-  },
-  "Technical Excellence": {
-    "category": "Technical Excellence",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content primarily focuses on the features and improvements of TFS 2013 Update 2, detailing technical aspects and enhancements that contribute to its excellence in software development and project management.",
-    "level": "Secondary"
   },
   "Sensemaking": {
     "category": "Sensemaking",
@@ -855,28 +759,12 @@
     "reasoning": "The content primarily discusses the features and updates of Team Foundation Server 2013 Update 2, with no clear focus on Scrum principles, roles, or events.",
     "level": "Ignored"
   },
-  "Complexity Thinking": {
-    "category": "Complexity Thinking",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 6.0,
-    "reasoning": "The content primarily discusses the features and upgrade process of Team Foundation Server 2013 Update 2, with no significant focus on complexity thinking.",
-    "level": "Ignored"
-  },
   "Mentoring": {
     "category": "Mentoring",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses the features and upgrade process of Team Foundation Server 2013 Update 2, with no clear focus on mentoring.",
-    "level": "Ignored"
-  },
-  "Enterprise Agility": {
-    "category": "Enterprise Agility",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses features of TFS 2013 Update 2 that enhance project management and release management, which are relevant to enterprise agility, but the primary focus is on the update process and specific features rather than enterprise agility as a central theme.",
     "level": "Ignored"
   },
   "Deployment Frequency": {

@@ -183,14 +183,6 @@
     "reasoning": "Content primarily discusses the technical process of batched domain migration using Team Foundation Server, which is highly relevant to software developers working with TFS.",
     "level": "Secondary"
   },
-  "Flow Efficiency": {
-    "category": "Flow Efficiency",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the process of migrating users between domains and the potential pitfalls, which relates to flow efficiency in managing user identities and permissions during the migration process.",
-    "level": "Ignored"
-  },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
     "ai_confidence": 85,
@@ -415,14 +407,6 @@
     "reasoning": "Content heavily discusses the process and considerations involved in batched domain migration, focusing on operational workflows and identity management within TFS.",
     "level": "Secondary"
   },
-  "Complexity Thinking": {
-    "category": "Complexity Thinking",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily focuses on the technical process of domain migration and identity management in TFS, with only minor references to the complexities involved in managing user identities.",
-    "level": "Ignored"
-  },
   "Frequent Releases": {
     "category": "Frequent Releases",
     "ai_confidence": 0,
@@ -487,14 +471,6 @@
     "reasoning": "The content primarily focuses on the technical process of domain migration and identity management within TFS, with only a brief mention of long-term planning for user migration.",
     "level": "Ignored"
   },
-  "Decision Theory": {
-    "category": "Decision Theory",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the technical process of migrating users between domains using TFS, focusing on identity management and operational workflows, rather than decision-making frameworks or theories.",
-    "level": "Ignored"
-  },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
     "ai_confidence": 0,
@@ -511,14 +487,6 @@
     "reasoning": "The content primarily discusses the technical process of migrating users between domains using TFS, with no clear focus on Lean Principles.",
     "level": "Ignored"
   },
-  "Technical Excellence": {
-    "category": "Technical Excellence",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on the technical process of batched domain migration using TFS, detailing the steps and considerations necessary to maintain identity integrity during the migration.",
-    "level": "Secondary"
-  },
   "Team Motivation": {
     "category": "Team Motivation",
     "ai_confidence": 0,
@@ -526,14 +494,6 @@
     "final_score": 3.0,
     "reasoning": "The content primarily discusses technical aspects of domain migration with TFS and does not focus on team motivation.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "ai_confidence": 75,
-    "non_ai_confidence": 10,
-    "final_score": 56.0,
-    "reasoning": "The content discusses the management of user identities during a domain migration, highlighting the processes involved and the potential pitfalls, indicating a significant focus on the people and processes involved in the migration.",
-    "level": "Secondary"
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
@@ -565,14 +525,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses the technical process of migrating users between domains using TFS, with a focus on avoiding duplicate identities and managing user accounts. Transparency is not a central theme.",
-    "level": "Ignored"
-  },
-  "Personal": {
-    "category": "Personal",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical aspects of domain migration using TFS, with no clear focus on personal themes or experiences.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -631,14 +583,6 @@
     "reasoning": "The content primarily discusses the process of migrating users between domains in Team Foundation Server, with no clear focus on Scaling Kanban.",
     "level": "Ignored"
   },
-  "Value Delivery": {
-    "category": "Value Delivery",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the process of migrating users between domains while maintaining identity integrity, which is relevant to value delivery in terms of ensuring a smooth transition and minimising disruptions.",
-    "level": "Ignored"
-  },
   "Mentoring": {
     "category": "Mentoring",
     "ai_confidence": 0,
@@ -677,14 +621,6 @@
     "non_ai_confidence": 0,
     "final_score": 21.0,
     "reasoning": "The content primarily discusses domain migration and identity management within Team Foundation Server, with only a minor reference to the implications for continuous delivery processes.",
-    "level": "Ignored"
-  },
-  "Miscellaneous": {
-    "category": "Miscellaneous",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the technical process of batched domain migration using TFS, rather than discussing miscellaneous topics.",
     "level": "Ignored"
   },
   "Working Agreements": {
@@ -727,14 +663,6 @@
     "reasoning": "The content primarily discusses the technical process of migrating users between domains using TFS, with no clear focus on backlog refinement.",
     "level": "Ignored"
   },
-  "Enterprise Agility": {
-    "category": "Enterprise Agility",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the technical process of migrating users between domains using Team Foundation Server, with no clear focus on enterprise agility principles.",
-    "level": "Ignored"
-  },
   "Accountability": {
     "category": "Accountability",
     "ai_confidence": 45,
@@ -749,14 +677,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses technical aspects of domain migration using TFS, with no clear focus on entrepreneurship.",
-    "level": "Ignored"
-  },
-  "Organisational Agility": {
-    "category": "Organisational Agility",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the process of migrating users between domains and managing identities, which relates to organisational agility in terms of adapting to changes in user management and system integration. However, it primarily focuses on technical migration steps rather than broader organisational agility concepts.",
     "level": "Ignored"
   },
   "Software Development": {
@@ -781,14 +701,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses domain migration with TFS and does not focus on Scaled Agile principles or practices.",
-    "level": "Ignored"
-  },
-  "Systems Thinking": {
-    "category": "Systems Thinking",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily focuses on the technical process of domain migration and identity management within TFS, with only brief mentions of broader systems thinking concepts.",
     "level": "Ignored"
   },
   "Organisational Physics": {
@@ -853,30 +765,6 @@
     "non_ai_confidence": 0,
     "final_score": 64.0,
     "reasoning": "Content primarily discusses the process of migrating users between domains while maintaining identity in Team Foundation Server, which is a key aspect of system configuration.",
-    "level": "Secondary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses the complexities and challenges of migrating users between domains, which involves managing identities and ensuring a smooth transition. However, the primary focus is on technical procedures rather than a broader theme of resilience and change.",
-    "level": "Ignored"
-  },
-  "Market Adaptability": {
-    "category": "Market Adaptability",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the challenges and workflows involved in migrating users between domains, which can be seen as a response to changing operational needs, but it is primarily focused on technical procedures rather than broader market adaptability themes.",
-    "level": "Ignored"
-  },
-  "Application Lifecycle Management": {
-    "category": "Application Lifecycle Management",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on the process of migrating users and managing identities within Team Foundation Server, which is a key aspect of application lifecycle management.",
     "level": "Secondary"
   },
   "MVP": {

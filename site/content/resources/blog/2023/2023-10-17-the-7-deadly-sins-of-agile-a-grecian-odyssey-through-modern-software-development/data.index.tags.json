@@ -1,20 +1,4 @@
 {
-  "Decision Theory": {
-    "category": "Decision Theory",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the seven deadly sins in the context of agile software development, drawing parallels with ancient Greek philosophy, rather than focusing on decision theory.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the human challenges and behaviours within agile teams, drawing parallels between ancient Greek sins and modern agile practices, highlighting the importance of team dynamics and processes.",
-    "level": "Secondary"
-  },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
     "ai_confidence": 85,
@@ -79,14 +63,6 @@
     "reasoning": "The content primarily discusses the seven deadly sins in the context of Agile software development, drawing parallels with ancient Greek philosophy, without a clear focus on value stream mapping.",
     "level": "Ignored"
   },
-  "Market Adaptability": {
-    "category": "Market Adaptability",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the importance of adaptability within agile practices, particularly in relation to the pitfalls teams face, but it is primarily focused on the seven deadly sins rather than market adaptability itself.",
-    "level": "Ignored"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "ai_confidence": 50,
@@ -134,14 +110,6 @@
     "final_score": 67.0,
     "reasoning": "Content heavily discusses the challenges and pitfalls faced by agile teams, drawing parallels with the seven deadly sins and emphasising the importance of core agile principles.",
     "level": "Secondary"
-  },
-  "Miscellaneous": {
-    "category": "Miscellaneous",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content primarily discusses the seven deadly sins in the context of agile software development, drawing parallels with ancient Greek philosophy, making the theme of 'Miscellaneous' a significant but secondary aspect.",
-    "level": "Ignored"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -255,14 +223,6 @@
     "reasoning": "The content primarily discusses the challenges and pitfalls of agile software development through the lens of ancient Greek philosophy, without a clear focus on employee engagement.",
     "level": "Ignored"
   },
-  "Application Lifecycle Management": {
-    "category": "Application Lifecycle Management",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses agile methodologies and their challenges, which are relevant to application lifecycle management, but the primary focus is on philosophical insights rather than lifecycle management itself.",
-    "level": "Ignored"
-  },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
     "ai_confidence": 0,
@@ -318,14 +278,6 @@
     "final_score": 41.0,
     "reasoning": "The content discusses challenges and pitfalls in agile practices, which are relevant to agile planning, but the primary focus is on philosophical insights rather than specific planning tools.",
     "level": "Ignored"
-  },
-  "Personal": {
-    "category": "Personal",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses human challenges and personal attributes in the context of agile software development, but the primary focus is on agile methodologies rather than personal experiences or themes.",
-    "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -383,14 +335,6 @@
     "reasoning": "The content discusses agile practices and pitfalls, which are relevant to product strategy, but the primary focus is on the philosophical parallels rather than a direct exploration of product strategy itself.",
     "level": "Ignored"
   },
-  "Flow Efficiency": {
-    "category": "Flow Efficiency",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses inefficiencies in agile practices, particularly in relation to backlog management and team dynamics, but it is primarily focused on the philosophical parallels with the seven deadly sins rather than flow efficiency itself.",
-    "level": "Ignored"
-  },
   "Transparency": {
     "category": "Transparency",
     "ai_confidence": 50,
@@ -431,14 +375,6 @@
     "reasoning": "The content primarily discusses the challenges and pitfalls of Agile methodologies through the lens of ancient Greek philosophy, without a clear focus on Lean Startup principles.",
     "level": "Ignored"
   },
-  "Value Delivery": {
-    "category": "Value Delivery",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 52.0,
-    "reasoning": "The content discusses various pitfalls in agile practices that can hinder value delivery, making it a significant theme, though not the sole focus.",
-    "level": "Secondary"
-  },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
     "ai_confidence": 0,
@@ -469,14 +405,6 @@
     "non_ai_confidence": 10,
     "final_score": 3.0,
     "reasoning": "The content primarily discusses the seven deadly sins in the context of agile software development, focusing on human challenges and pitfalls rather than deployment strategies.",
-    "level": "Ignored"
-  },
-  "Complexity Thinking": {
-    "category": "Complexity Thinking",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the challenges faced in agile software development, drawing parallels with ancient Greek philosophy. While it touches on the complexities of human behaviour and team dynamics, it primarily focuses on the seven deadly sins rather than a deep exploration of complexity thinking as a central theme.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
@@ -599,28 +527,12 @@
     "reasoning": "The content discusses challenges in Agile practices and draws parallels with ancient Greek philosophy, making Agile a major theme, but it does not focus primarily on clean code, automation, or test-first development.",
     "level": "Ignored"
   },
-  "Systems Thinking": {
-    "category": "Systems Thinking",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the challenges faced in agile software development through the lens of ancient Greek philosophy, highlighting the need for a holistic understanding of human behaviours and organisational culture in overcoming these challenges.",
-    "level": "Ignored"
-  },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
     "final_score": 9.0,
     "reasoning": "The content primarily discusses the seven deadly sins in the context of Agile software development, drawing parallels with ancient Greek philosophy. It does not focus on structuring tests around business behaviour or bridging the gap between business and tech.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses challenges in agile practices that can hinder adaptability and growth, which are relevant to managing change and building resilience, but the primary focus is on the seven deadly sins rather than resilience and change itself.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -703,14 +615,6 @@
     "reasoning": "The content primarily discusses the challenges and pitfalls of agile methodologies through the lens of ancient Greek philosophy, without a focus on Test Driven Development or automated testing.",
     "level": "Ignored"
   },
-  "Enterprise Agility": {
-    "category": "Enterprise Agility",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses challenges in agile practices and draws parallels with ancient Greek philosophy, indicating a focus on organisational behaviour and culture in agile contexts, but it primarily revolves around the 'seven deadly sins' rather than a comprehensive exploration of enterprise agility.",
-    "level": "Ignored"
-  },
   "Definition of Done": {
     "category": "Definition of Done",
     "ai_confidence": 0,
@@ -766,14 +670,6 @@
     "final_score": 52.0,
     "reasoning": "The content discusses the pitfalls of bloating product backlogs and the importance of maintaining a lean backlog, making backlog management a significant theme.",
     "level": "Secondary"
-  },
-  "Organisational Agility": {
-    "category": "Organisational Agility",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses the challenges agile teams face, which indirectly relates to organisational agility, but the primary focus is on the seven deadly sins in the context of agile practices rather than a direct exploration of organisational adaptability.",
-    "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -853,14 +749,6 @@
     "non_ai_confidence": 30,
     "final_score": 44.0,
     "reasoning": "The content discusses agile principles and challenges, which are relevant to Scrum, but it primarily focuses on philosophical insights rather than Scrum-specific practices.",
-    "level": "Ignored"
-  },
-  "Technical Excellence": {
-    "category": "Technical Excellence",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses agile practices and pitfalls, which are related to maintaining robust and scalable software development, but the primary focus is on philosophical reflections rather than technical best practices.",
     "level": "Ignored"
   },
   "Team Motivation": {

@@ -1,20 +1,4 @@
 {
-  "Decision Theory": {
-    "category": "Decision Theory",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses automated release management and testing processes in Visual Studio 2013, with no clear focus on decision theory.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses the deployment process and tools used in release management, which involves people and their roles in managing these processes, but the primary focus is on technical implementation rather than the people and processes themselves.",
-    "level": "Ignored"
-  },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
     "ai_confidence": 30,
@@ -79,14 +63,6 @@
     "reasoning": "The content primarily discusses automated release management and testing processes in Visual Studio 2013, with no clear focus on value stream mapping.",
     "level": "Ignored"
   },
-  "Market Adaptability": {
-    "category": "Market Adaptability",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the use of Release Management for Visual Studio 2013 and its capabilities, which indirectly relates to adapting to market needs through improved deployment processes. However, the primary focus is on technical implementation rather than market adaptability itself.",
-    "level": "Ignored"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "ai_confidence": 0,
@@ -133,14 +109,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily focuses on technical aspects of executing tests and managing releases in Visual Studio 2013, with no clear emphasis on Agile transformation principles or practices.",
-    "level": "Ignored"
-  },
-  "Miscellaneous": {
-    "category": "Miscellaneous",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on automated release and testing processes using Visual Studio 2013 and Lab Management, with no clear emphasis on miscellaneous topics.",
     "level": "Ignored"
   },
   "Scaled Agile": {
@@ -255,14 +223,6 @@
     "reasoning": "The content primarily discusses technical aspects of automated release management and testing in Visual Studio 2013, with no focus on employee engagement.",
     "level": "Ignored"
   },
-  "Application Lifecycle Management": {
-    "category": "Application Lifecycle Management",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content primarily focuses on the integration of testing and release management processes within Visual Studio 2013, detailing how to execute automated tests as part of the release pipeline.",
-    "level": "Secondary"
-  },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
     "ai_confidence": 0,
@@ -317,14 +277,6 @@
     "non_ai_confidence": 0,
     "final_score": 31.0,
     "reasoning": "The content primarily focuses on Release Management and automated testing processes rather than Agile planning tools. While it touches on deployment and testing, it does not centralise around Agile planning methodologies or tools.",
-    "level": "Ignored"
-  },
-  "Personal": {
-    "category": "Personal",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical aspects of automated release management and testing in Visual Studio 2013, with no clear focus on personal experiences or themes.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -382,14 +334,6 @@
     "final_score": 21.0,
     "reasoning": "The content primarily focuses on technical details and processes related to automated testing and release management, rather than discussing overarching product strategy.",
     "level": "Ignored"
-  },
-  "Flow Efficiency": {
-    "category": "Flow Efficiency",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the integration of automated testing and release management processes, highlighting improvements in deployment efficiency and debugging, which are central to flow efficiency.",
-    "level": "Secondary"
   },
   "Transparency": {
     "category": "Transparency",
@@ -535,14 +479,6 @@
     "reasoning": "The content primarily focuses on automated release management and testing processes in Visual Studio 2013, with no clear discussion of Scrum principles, roles, or events.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on technical aspects of automated release management and testing in Visual Studio 2013, with no clear discussion on resilience or change.",
-    "level": "Ignored"
-  },
   "Agile Strategy": {
     "category": "Agile Strategy",
     "ai_confidence": 30,
@@ -583,28 +519,12 @@
     "reasoning": "The content discusses automated testing and release management processes, which are relevant to MVP development, but the primary focus is on technical implementation details rather than the MVP concept itself.",
     "level": "Ignored"
   },
-  "Organisational Agility": {
-    "category": "Organisational Agility",
-    "ai_confidence": 45,
-    "non_ai_confidence": 0,
-    "final_score": 31.0,
-    "reasoning": "The content primarily focuses on technical aspects of automated release management and testing processes, with only peripheral references to organisational agility concepts.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "ai_confidence": 80,
     "non_ai_confidence": 0,
     "final_score": 56.0,
     "reasoning": "Content primarily discusses the execution of automated tests within the context of release management, focusing on improving deployment processes and efficiency.",
-    "level": "Secondary"
-  },
-  "Value Delivery": {
-    "category": "Value Delivery",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on improving the deployment and testing process using Release Management, which directly relates to delivering value through enhanced software release practices.",
     "level": "Secondary"
   },
   "Scaling Agility": {
@@ -719,14 +639,6 @@
     "reasoning": "The content primarily discusses automated release and testing processes using Visual Studio 2013 and Lab Management, with no clear focus on Lean Thinking principles.",
     "level": "Ignored"
   },
-  "Systems Thinking": {
-    "category": "Systems Thinking",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily focuses on automated release management and testing processes in Visual Studio 2013, with only peripheral references to systems thinking concepts such as environment configuration and deployment pipelines.",
-    "level": "Ignored"
-  },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
     "ai_confidence": 0,
@@ -734,14 +646,6 @@
     "final_score": 3.0,
     "reasoning": "The content primarily discusses technical aspects of automated release and testing processes using Visual Studio 2013 and Lab Management, with no clear focus on customer feedback loops.",
     "level": "Ignored"
-  },
-  "Technical Excellence": {
-    "category": "Technical Excellence",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content primarily focuses on executing tests and managing releases in Visual Studio 2013, detailing technical processes and configurations.",
-    "level": "Secondary"
   },
   "Sensemaking": {
     "category": "Sensemaking",
@@ -847,28 +751,12 @@
     "reasoning": "The content primarily discusses automated release management and testing processes in Visual Studio 2013, with no clear focus on Scrum principles, roles, or events.",
     "level": "Ignored"
   },
-  "Complexity Thinking": {
-    "category": "Complexity Thinking",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on automated release and testing processes using Visual Studio 2013 and Lab Management, with no clear emphasis on complexity thinking as a central theme.",
-    "level": "Ignored"
-  },
   "Mentoring": {
     "category": "Mentoring",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily focuses on technical details related to automated release and testing processes in Visual Studio 2013, with no clear emphasis on mentoring or guidance.",
-    "level": "Ignored"
-  },
-  "Enterprise Agility": {
-    "category": "Enterprise Agility",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses automated release management and testing processes, which are relevant to enterprise agility, but the primary focus is on specific tools and technical details rather than broader agile principles.",
     "level": "Ignored"
   },
   "Deployment Frequency": {

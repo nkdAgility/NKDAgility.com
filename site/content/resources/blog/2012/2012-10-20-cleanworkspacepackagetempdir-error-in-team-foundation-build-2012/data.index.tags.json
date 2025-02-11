@@ -183,14 +183,6 @@
     "reasoning": "Content primarily discusses issues and solutions related to building MVC projects using Team Foundation Build, which is central to modern engineering practices for software developers.",
     "level": "Secondary"
   },
-  "Flow Efficiency": {
-    "category": "Flow Efficiency",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses issues related to build processes and targets in Team Foundation Build, which indirectly relates to optimising workflow efficiency, but the primary focus is on troubleshooting specific errors rather than a comprehensive exploration of flow efficiency.",
-    "level": "Ignored"
-  },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
     "ai_confidence": 0,
@@ -415,14 +407,6 @@
     "reasoning": "Content primarily discusses troubleshooting and solutions related to build processes in Team Foundation Build, which are operational practices aimed at improving efficiency and delivery in software development.",
     "level": "Secondary"
   },
-  "Complexity Thinking": {
-    "category": "Complexity Thinking",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily discusses a specific technical issue related to Team Foundation Build and does not focus on the principles of complexity thinking or emergent strategies in complex systems.",
-    "level": "Ignored"
-  },
   "Frequent Releases": {
     "category": "Frequent Releases",
     "ai_confidence": 30,
@@ -487,14 +471,6 @@
     "reasoning": "The content primarily discusses technical issues and solutions related to Team Foundation Build and MVC projects, with no clear focus on long-term objectives or strategic alignment.",
     "level": "Ignored"
   },
-  "Decision Theory": {
-    "category": "Decision Theory",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily discusses technical issues and solutions related to Team Foundation Build and MVC projects, with only a minor mention of decision-making in the context of build configurations.",
-    "level": "Ignored"
-  },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
     "ai_confidence": 0,
@@ -511,28 +487,12 @@
     "reasoning": "The content primarily discusses a technical issue related to Team Foundation Build and does not focus on minimising waste or maximising value through iterative learning and continuous improvement.",
     "level": "Ignored"
   },
-  "Technical Excellence": {
-    "category": "Technical Excellence",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses issues related to build processes, project configurations, and solutions for maintaining robust software in a specific environment, which aligns with best practices for technical excellence.",
-    "level": "Secondary"
-  },
   "Team Motivation": {
     "category": "Team Motivation",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
     "final_score": 3.0,
     "reasoning": "The content primarily discusses technical issues related to Team Foundation Build and does not focus on team motivation, engagement, or performance.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "ai_confidence": 30,
-    "non_ai_confidence": 20,
-    "final_score": 27.0,
-    "reasoning": "The content primarily focuses on technical issues related to Team Foundation Build and MVC projects, with minimal emphasis on human or procedural elements of agile teams.",
     "level": "Ignored"
   },
   "Scaling Scrum": {
@@ -565,14 +525,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses technical issues and solutions related to Team Foundation Build 2012 and does not focus on transparency in agile processes.",
-    "level": "Ignored"
-  },
-  "Personal": {
-    "category": "Personal",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical issues related to Team Foundation Build and does not focus on personal thoughts or experiences.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -631,14 +583,6 @@
     "reasoning": "The content primarily discusses issues related to Team Foundation Build and MVC project configurations, with no mention of Kanban principles or scaling practices.",
     "level": "Ignored"
   },
-  "Value Delivery": {
-    "category": "Value Delivery",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses issues related to build processes and Continuous Integration, which are relevant to value delivery, but the primary focus is on troubleshooting specific errors rather than maximising value flow.",
-    "level": "Ignored"
-  },
   "Mentoring": {
     "category": "Mentoring",
     "ai_confidence": 0,
@@ -677,14 +621,6 @@
     "non_ai_confidence": 10,
     "final_score": 38.0,
     "reasoning": "The content discusses issues related to building and deploying applications using Team Foundation Build, which is relevant to Continuous Delivery, but the primary focus is on troubleshooting specific build errors rather than on the broader theme of shipping incremental improvements.",
-    "level": "Ignored"
-  },
-  "Miscellaneous": {
-    "category": "Miscellaneous",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a specific technical issue related to Team Foundation Build 2012 and does not focus on miscellaneous topics.",
     "level": "Ignored"
   },
   "Working Agreements": {
@@ -775,22 +711,6 @@
     "reasoning": "The content primarily discusses issues related to Team Foundation Build and specific errors encountered during the build process, with only a minor mention of version control practices.",
     "level": "Ignored"
   },
-  "Systems Thinking": {
-    "category": "Systems Thinking",
-    "ai_confidence": 45,
-    "non_ai_confidence": 0,
-    "final_score": 31.0,
-    "reasoning": "The content primarily focuses on a specific technical issue related to Team Foundation Build and does not address holistic approaches to organisational or technical challenges.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "ai_confidence": 30,
-    "non_ai_confidence": 10,
-    "final_score": 24.0,
-    "reasoning": "The content primarily discusses technical issues related to Team Foundation Build and MVC projects, with only a minor mention of managing changes in build configurations.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "ai_confidence": 0,
@@ -823,14 +743,6 @@
     "reasoning": "The content primarily discusses issues related to Team Foundation Build and specific technical problems encountered during the build process, with no clear focus on building a Minimum Viable Product or validating market assumptions.",
     "level": "Ignored"
   },
-  "Market Adaptability": {
-    "category": "Market Adaptability",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical issues related to Team Foundation Build and MVC projects, with no clear focus on enhancing an organisation's ability to pivot in response to market shifts.",
-    "level": "Ignored"
-  },
   "Technical Mastery": {
     "category": "Technical Mastery",
     "ai_confidence": 85,
@@ -845,14 +757,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses issues related to build processes and specific errors in Team Foundation Build 2012, rather than measuring the rate at which work items are completed.",
-    "level": "Ignored"
-  },
-  "Enterprise Agility": {
-    "category": "Enterprise Agility",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a technical issue related to Team Foundation Build and does not address scaling Agile practices or transforming organisational operations.",
     "level": "Ignored"
   },
   "Windows": {
@@ -870,22 +774,6 @@
     "final_score": 0.0,
     "reasoning": "The content primarily discusses a technical issue related to Team Foundation Build and does not focus on building agility at any level.",
     "level": "Ignored"
-  },
-  "Organisational Agility": {
-    "category": "Organisational Agility",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical issues related to Team Foundation Build and MVC projects, with no clear focus on organisational agility or adaptability.",
-    "level": "Ignored"
-  },
-  "Application Lifecycle Management": {
-    "category": "Application Lifecycle Management",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses issues and solutions related to building and deploying applications using Team Foundation Build, which is central to the application lifecycle management process.",
-    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",

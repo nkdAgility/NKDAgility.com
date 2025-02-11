@@ -1,12 +1,4 @@
 {
-  "Market Adaptability": {
-    "category": "Market Adaptability",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content addresses modern software development practices and the need to adapt to consumer expectations, touching on topics that relate to the concept of market adaptability, but it primarily focuses on quality enablement and continuous delivery, making it a secondary theme.",
-    "level": "Ignored"
-  },
   "Test First Development": {
     "category": "Test First Development",
     "ai_confidence": 75,
@@ -247,14 +239,6 @@
     "reasoning": "While the content discusses quality enablement and its relation to software development processes, accountability is not a central focus. The emphasis is on improving quality and continuous delivery rather than on accountability mechanisms or frameworks.",
     "level": "Ignored"
   },
-  "Application Lifecycle Management": {
-    "category": "Application Lifecycle Management",
-    "ai_confidence": 95,
-    "non_ai_confidence": 30,
-    "final_score": 76.0,
-    "reasoning": "The content extensively discusses various aspects of application lifecycle management, including continuous delivery, quality enablement, testing practices, and the importance of modern tools and practices to support software development. The focus on quality throughout the lifecycle, the integration of systems for various roles, and the reference to Microsoft's ALM tools further establish its primary relevance to Application Lifecycle Management.",
-    "level": "Secondary"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
     "ai_confidence": 50,
@@ -287,30 +271,6 @@
     "reasoning": "The content extensively discusses concepts such as quality enablement, continuous delivery, testing strategies, and development processes within the context of software development using Visual Studio 2012.",
     "level": "Secondary"
   },
-  "Enterprise Agility": {
-    "category": "Enterprise Agility",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content primarily discusses the importance of quality enablement in the context of modern application lifecycles, emphasizing continuous delivery and responsiveness to user needs, which are key principles of enterprise agility.",
-    "level": "Secondary"
-  },
-  "Technical Excellence": {
-    "category": "Technical Excellence",
-    "ai_confidence": 95,
-    "non_ai_confidence": 0,
-    "final_score": 66.0,
-    "reasoning": "The content is primarily focused on quality enablement in software development, discussing practices, tools, and methodologies that ensure high-quality outcomes, clearly aligning with the theme of Technical Excellence.",
-    "level": "Secondary"
-  },
-  "Decision Theory": {
-    "category": "Decision Theory",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on quality enablement in software development and continuous delivery processes, with no clear or primary discussion related to decision theory.",
-    "level": "Ignored"
-  },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
     "ai_confidence": 45,
@@ -342,14 +302,6 @@
     "final_score": 62.0,
     "reasoning": "The content primarily discusses the importance of continuous quality delivery and agile practices in modern software development, emphasizing the need for frequent iterations and adaptability in response to consumer demands.",
     "level": "Secondary"
-  },
-  "Complexity Thinking": {
-    "category": "Complexity Thinking",
-    "ai_confidence": 60,
-    "non_ai_confidence": 10,
-    "final_score": 45.0,
-    "reasoning": "The content explores the complexities involved in quality enablement and modern application delivery, discussing the need for tailored tools and processes to manage these complexities, which make it a major theme.",
-    "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
@@ -511,14 +463,6 @@
     "reasoning": "The content primarily discusses quality enablement in software development using Visual Studio 2012, focusing on processes and tools for continuous quality and delivery, without directly addressing self-organization.",
     "level": "Ignored"
   },
-  "Organisational Agility": {
-    "category": "Organisational Agility",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content discusses the need for continuous delivery and adaptability in software development, emphasizing the importance of agility in meeting modern consumer demands.",
-    "level": "Secondary"
-  },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
     "ai_confidence": 92,
@@ -542,14 +486,6 @@
     "final_score": 0.0,
     "reasoning": "The content primarily discusses quality enablement in software development, focusing on continuous quality practices and tools rather than analyzing trends.",
     "level": "Ignored"
-  },
-  "Flow Efficiency": {
-    "category": "Flow Efficiency",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content focuses significantly on improving the quality and efficiency of software delivery processes, including concepts related to continuous testing and delivery, which align with flow efficiency principles.",
-    "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -735,14 +671,6 @@
     "reasoning": "The content is primarily focused on quality enablement and modern application lifecycles, with no mention or focus on Sprint Reviews or related Scrum practices.",
     "level": "Ignored"
   },
-  "Miscellaneous": {
-    "category": "Miscellaneous",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses quality enablement in software development and specifically focuses on Visual Studio 2012 as a tool for achieving this. There are no clear miscellaneous themes present.",
-    "level": "Ignored"
-  },
   "Strategic Goals": {
     "category": "Strategic Goals",
     "ai_confidence": 50,
@@ -767,14 +695,6 @@
     "reasoning": "The content primarily discusses quality enablement in software development and practices for continuous delivery, rather than focusing on working agreements.",
     "level": "Ignored"
   },
-  "Value Delivery": {
-    "category": "Value Delivery",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content primarily emphasizes the importance of continuous value delivery in software development, along with practices and tools to achieve that goal.",
-    "level": "Secondary"
-  },
   "Lean Startup": {
     "category": "Lean Startup",
     "ai_confidence": 0,
@@ -790,22 +710,6 @@
     "final_score": 74.0,
     "reasoning": "The content primarily discusses quality enablement in software development using Visual Studio 2012, which is a Microsoft product closely associated with Windows development.",
     "level": "Secondary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "Content primarily focuses on the processes and practices necessary for quality enablement in software development, highlighting the importance of roles, feedback loops, and collaboration within teams.",
-    "level": "Secondary"
-  },
-  "Personal": {
-    "category": "Personal",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses software quality enablement and practices surrounding modern application lifecycles, without focusing on personal topics.",
-    "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
@@ -837,14 +741,6 @@
     "non_ai_confidence": 10,
     "final_score": 38.0,
     "reasoning": "While the content primarily discusses quality enablement in software development, it briefly touches on tools that facilitate collaboration within teams in the context of Application Lifecycle Management (ALM) using Microsoft solutions.",
-    "level": "Ignored"
-  },
-  "Systems Thinking": {
-    "category": "Systems Thinking",
-    "ai_confidence": 55,
-    "non_ai_confidence": 20,
-    "final_score": 44.0,
-    "reasoning": "The content discusses systems of engagement and systems of record as part of the quality enablement strategy, highlighting how different systems interact within the context of software development and delivery. However, the primary focus remains on quality enablement rather than on systems thinking itself.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -910,14 +806,6 @@
     "final_score": 66.0,
     "reasoning": "The content extensively discusses the implications of cycle time in software delivery and emphasizes the need for continuous improvement in delivery processes, making it a major theme.",
     "level": "Secondary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses the need for continuous quality enablement and adaptability in software development processes, which implies themes of resilience and change, though it mainly focuses on quality practices rather than change management itself.",
-    "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",

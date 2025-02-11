@@ -183,14 +183,6 @@
     "reasoning": "Content primarily focuses on the process of migrating source code using Git-Tf, which is highly relevant to software development practices.",
     "level": "Secondary"
   },
-  "Flow Efficiency": {
-    "category": "Flow Efficiency",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the process of migrating source code and maintaining history, which relates to flow efficiency in terms of managing code transitions, but it is primarily focused on the technical steps involved in the migration process.",
-    "level": "Ignored"
-  },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
     "ai_confidence": 50,
@@ -415,14 +407,6 @@
     "reasoning": "The content discusses the process of migrating source code and maintaining history, which relates to operational practices in software development, but it is primarily focused on the technical steps and tools involved.",
     "level": "Ignored"
   },
-  "Complexity Thinking": {
-    "category": "Complexity Thinking",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the technical process of migrating source code between Team Foundation Servers using Git-Tf, with no clear focus on complexity thinking.",
-    "level": "Ignored"
-  },
   "Frequent Releases": {
     "category": "Frequent Releases",
     "ai_confidence": 0,
@@ -487,14 +471,6 @@
     "reasoning": "The content primarily focuses on the technical process of migrating source code between Team Foundation Servers using Git-Tf, with no clear discussion of strategic goals.",
     "level": "Ignored"
   },
-  "Decision Theory": {
-    "category": "Decision Theory",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the technical process of migrating source code between Team Foundation Servers using Git-Tf, with no focus on decision-making frameworks or theories.",
-    "level": "Ignored"
-  },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
     "ai_confidence": 0,
@@ -511,28 +487,12 @@
     "reasoning": "The content primarily discusses the technical process of migrating source code between Team Foundation Servers using Git-Tf, with no clear focus on Lean Principles.",
     "level": "Ignored"
   },
-  "Technical Excellence": {
-    "category": "Technical Excellence",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on the technical process of migrating source code with history to TFS using Git-Tf, detailing commands and installation steps, which demonstrates technical expertise.",
-    "level": "Secondary"
-  },
   "Team Motivation": {
     "category": "Team Motivation",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
     "final_score": 3.0,
     "reasoning": "The content primarily discusses technical aspects of migrating source code between Team Foundation Servers and does not focus on team motivation.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on technical instructions for migrating source code using Git-Tf and does not discuss people or processes in a significant way.",
     "level": "Ignored"
   },
   "Scaling Scrum": {
@@ -565,14 +525,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses the technical process of migrating source code between Team Foundation Servers using Git-Tf, with no clear focus on transparency as a central theme.",
-    "level": "Ignored"
-  },
-  "Personal": {
-    "category": "Personal",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on technical aspects of migrating source code using Git-Tf and does not discuss personal experiences or themes.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -631,14 +583,6 @@
     "reasoning": "The content primarily discusses the process of migrating source code between Team Foundation Servers using Git-Tf, with no clear focus on Scaling Kanban.",
     "level": "Ignored"
   },
-  "Value Delivery": {
-    "category": "Value Delivery",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the process of migrating source code and maintaining history, which is relevant to value delivery in terms of ensuring continuity and integrity of code during migration.",
-    "level": "Ignored"
-  },
   "Mentoring": {
     "category": "Mentoring",
     "ai_confidence": 0,
@@ -677,14 +621,6 @@
     "non_ai_confidence": 0,
     "final_score": 21.0,
     "reasoning": "The content primarily focuses on migrating source code between Team Foundation Server and Git, with a detailed explanation of commands and processes involved. Continuous Delivery is not a central theme.",
-    "level": "Ignored"
-  },
-  "Miscellaneous": {
-    "category": "Miscellaneous",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the process of migrating source code with history to TFS 2012 using Git-Tf, rather than discussing miscellaneous topics.",
     "level": "Ignored"
   },
   "Working Agreements": {
@@ -727,14 +663,6 @@
     "reasoning": "The content primarily discusses the process of migrating source code between Team Foundation Servers using Git-Tf, with no mention of backlog refinement.",
     "level": "Ignored"
   },
-  "Enterprise Agility": {
-    "category": "Enterprise Agility",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the technical process of migrating source code between Team Foundation Servers using Git-Tf, with no clear discussion on enterprise agility principles or practices.",
-    "level": "Ignored"
-  },
   "Accountability": {
     "category": "Accountability",
     "ai_confidence": 0,
@@ -749,14 +677,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses technical aspects of migrating source code between Team Foundation Servers using Git-Tf, with no clear focus on entrepreneurship.",
-    "level": "Ignored"
-  },
-  "Organisational Agility": {
-    "category": "Organisational Agility",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the technical process of migrating source code between Team Foundation Servers using Git-Tf, with no clear discussion on organisational agility.",
     "level": "Ignored"
   },
   "Software Development": {
@@ -781,14 +701,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses the technical process of migrating source code between Team Foundation Servers using Git-Tf, with no mention of Scaled Agile principles or practices.",
-    "level": "Ignored"
-  },
-  "Systems Thinking": {
-    "category": "Systems Thinking",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the technical process of migrating source code between Team Foundation Servers using Git-Tf, with no clear focus on systems thinking principles.",
     "level": "Ignored"
   },
   "Organisational Physics": {
@@ -853,30 +765,6 @@
     "non_ai_confidence": 0,
     "final_score": 59.0,
     "reasoning": "Content primarily focuses on the process of migrating source code and configuring Git-Tf for integration with Team Foundation Server, which is central to system configuration tasks.",
-    "level": "Secondary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on the technical process of migrating source code between Team Foundation Servers using Git-Tf, with no significant discussion on resilience or change.",
-    "level": "Ignored"
-  },
-  "Market Adaptability": {
-    "category": "Market Adaptability",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the technical process of migrating source code between Team Foundation Servers using Git-Tf, with no clear discussion on market adaptability.",
-    "level": "Ignored"
-  },
-  "Application Lifecycle Management": {
-    "category": "Application Lifecycle Management",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "Content discusses migrating source code and maintaining history between Team Foundation Server repositories, which is a key aspect of application lifecycle management.",
     "level": "Secondary"
   },
   "MVP": {

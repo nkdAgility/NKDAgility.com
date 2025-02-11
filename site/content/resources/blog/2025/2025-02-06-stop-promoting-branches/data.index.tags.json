@@ -87,14 +87,6 @@
     "reasoning": "The content discusses branching models and practices relevant to version control systems, including GitHub Flow and Release Flow, which are associated with Azure DevOps. However, the primary focus is on the critique of branch promotion strategies rather than Azure Repos specifically.",
     "level": "Ignored"
   },
-  "Organisational Agility": {
-    "category": "Organisational Agility",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the flaws of traditional branching models and advocates for practices that enhance agility in software delivery, focusing on continuous integration and delivery.",
-    "level": "Secondary"
-  },
   "Technical Mastery": {
     "category": "Technical Mastery",
     "ai_confidence": 92,
@@ -175,28 +167,12 @@
     "reasoning": "The content primarily discusses issues with branch promotion models and advocates for alternative Git workflows, without a clear focus on Behaviour Driven Development principles.",
     "level": "Ignored"
   },
-  "Flow Efficiency": {
-    "category": "Flow Efficiency",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the inefficiencies of branch promotion models and advocates for streamlined workflows that enhance flow efficiency in software delivery.",
-    "level": "Secondary"
-  },
   "Mentoring": {
     "category": "Mentoring",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses software delivery models and branching strategies in Git, with no clear focus on mentoring or guidance.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses team processes and organisational dysfunction related to branching models, making it a major but secondary theme.",
     "level": "Ignored"
   },
   "Sprint Review": {
@@ -335,14 +311,6 @@
     "reasoning": "Content primarily discusses software delivery models and practices, focusing on the implications of branch promotion on software development efficiency and value delivery.",
     "level": "Secondary"
   },
-  "Market Adaptability": {
-    "category": "Market Adaptability",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the need for teams to adapt their branching strategies to improve delivery speed and reduce complexity, which aligns with market adaptability principles, but it is primarily focused on software development practices.",
-    "level": "Ignored"
-  },
   "Coaching": {
     "category": "Coaching",
     "ai_confidence": 0,
@@ -471,14 +439,6 @@
     "reasoning": "The content primarily discusses the flaws of traditional branch promotion models and advocates for alternative workflows like GitHub Flow and Release Flow. Experimentation is not a central theme.",
     "level": "Ignored"
   },
-  "Decision Theory": {
-    "category": "Decision Theory",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses software delivery models and branching strategies in version control systems, rather than focusing on decision-making processes or theories.",
-    "level": "Ignored"
-  },
   "Professional Scrum": {
     "category": "Professional Scrum",
     "ai_confidence": 0,
@@ -486,14 +446,6 @@
     "final_score": 0.0,
     "reasoning": "The content primarily discusses branching strategies and software delivery models, with no clear focus on Scrum principles or practices.",
     "level": "Ignored"
-  },
-  "Application Lifecycle Management": {
-    "category": "Application Lifecycle Management",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses software delivery models, branching strategies, and the implications of these practices on the application lifecycle, making it a primary focus.",
-    "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -567,14 +519,6 @@
     "reasoning": "The content discusses software delivery models and branching strategies, which relate to empirical process control principles, but the primary focus is on the critique of branch promotion rather than a detailed exploration of empirical process control itself.",
     "level": "Ignored"
   },
-  "Technical Excellence": {
-    "category": "Technical Excellence",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content primarily discusses the flaws of traditional branch promotion models in software development and advocates for more efficient practices like GitHub Flow and Release Flow, demonstrating a strong focus on improving technical processes.",
-    "level": "Secondary"
-  },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
     "ai_confidence": 0,
@@ -621,14 +565,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses software delivery models and branching strategies in Git, with no clear focus on Windows as a topic.",
-    "level": "Ignored"
-  },
-  "Miscellaneous": {
-    "category": "Miscellaneous",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the flaws of branch promotion models in software development and advocates for alternative workflows, making it focused on software delivery practices rather than miscellaneous topics.",
     "level": "Ignored"
   },
   "Product Owner": {
@@ -719,14 +655,6 @@
     "reasoning": "Content primarily discusses the flaws of traditional branch promotion models and advocates for alternative deployment strategies like GitHub Flow and Release Flow, making deployment strategies the central theme.",
     "level": "Secondary"
   },
-  "Value Delivery": {
-    "category": "Value Delivery",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content heavily discusses the flaws of traditional branch promotion models and advocates for alternatives that enhance value delivery through continuous integration and deployment.",
-    "level": "Secondary"
-  },
   "Technical Debt": {
     "category": "Technical Debt",
     "ai_confidence": 92,
@@ -807,14 +735,6 @@
     "reasoning": "The content discusses the inefficiencies of branch promotion models and their impact on organisational processes, indicating a major theme of organisational dysfunction and the need for improved workflows.",
     "level": "Ignored"
   },
-  "Systems Thinking": {
-    "category": "Systems Thinking",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the flaws in traditional software delivery models and promotes alternative approaches, indicating a systemic view of software development processes. However, it primarily focuses on branching strategies rather than a broader systems thinking perspective.",
-    "level": "Ignored"
-  },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
     "ai_confidence": 85,
@@ -863,22 +783,6 @@
     "reasoning": "Content primarily discusses the flaws of traditional branch promotion models and advocates for continuous delivery practices, emphasising the importance of reducing deployment delays and increasing delivery speed.",
     "level": "Secondary"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses the flaws of traditional branching models and promotes alternative strategies that enhance agility and stability, indicating a significant theme of change in software delivery practices.",
-    "level": "Ignored"
-  },
-  "Personal": {
-    "category": "Personal",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses software development practices and branching models, with no clear focus on personal topics.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
     "ai_confidence": 92,
@@ -917,22 +821,6 @@
     "non_ai_confidence": 10,
     "final_score": 62.0,
     "reasoning": "Content primarily critiques traditional software delivery models and promotes continuous integration and delivery, aligning closely with Agile principles of delivering value and maintaining flexibility.",
-    "level": "Secondary"
-  },
-  "Complexity Thinking": {
-    "category": "Complexity Thinking",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily critiques traditional branching models and promotes simpler alternatives, focusing on reducing complexity in software delivery processes.",
-    "level": "Secondary"
-  },
-  "Enterprise Agility": {
-    "category": "Enterprise Agility",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the flaws of traditional branching models and advocates for continuous delivery practices, which are central to enhancing enterprise agility.",
     "level": "Secondary"
   }
 }

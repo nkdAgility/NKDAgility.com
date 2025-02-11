@@ -1,20 +1,4 @@
 {
-  "Decision Theory": {
-    "category": "Decision Theory",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the publication and features of a book on Application Lifecycle Management with Visual Studio 2013, with no clear focus on decision theory.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses the collaborative effort involved in writing a book and mentions Agile methodologies, but the primary focus is on the features of Visual Studio and ALM tools.",
-    "level": "Ignored"
-  },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
     "ai_confidence": 50,
@@ -79,14 +63,6 @@
     "reasoning": "The content primarily discusses the book 'Professional Application Lifecycle Management with Visual Studio 2013' and its features, with no clear focus on Value Stream Mapping.",
     "level": "Ignored"
   },
-  "Market Adaptability": {
-    "category": "Market Adaptability",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the adaptation of Microsoft's Application Lifecycle Management tools to support various platforms and methodologies, indicating a focus on market adaptability as a secondary theme.",
-    "level": "Ignored"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "ai_confidence": 0,
@@ -133,14 +109,6 @@
     "non_ai_confidence": 10,
     "final_score": 38.0,
     "reasoning": "The content discusses Agile methodologies in the context of Application Lifecycle Management, but it is primarily focused on the book's production and features of Visual Studio 2013.",
-    "level": "Ignored"
-  },
-  "Miscellaneous": {
-    "category": "Miscellaneous",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the book 'Professional Application Lifecycle Management with Visual Studio 2013' and its features, rather than discussing miscellaneous topics.",
     "level": "Ignored"
   },
   "Scaled Agile": {
@@ -255,14 +223,6 @@
     "reasoning": "The content primarily discusses the publication and features of a book on Application Lifecycle Management, with no clear focus on employee engagement.",
     "level": "Ignored"
   },
-  "Application Lifecycle Management": {
-    "category": "Application Lifecycle Management",
-    "ai_confidence": 95,
-    "non_ai_confidence": 30,
-    "final_score": 76.0,
-    "reasoning": "The content is primarily focused on the book 'Professional Application Lifecycle Management with Visual Studio 2013', detailing its features, updates, and relevance to ALM practices, making it a central topic.",
-    "level": "Secondary"
-  },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
     "ai_confidence": 0,
@@ -319,14 +279,6 @@
     "reasoning": "The content discusses Agile methodologies in the context of Application Lifecycle Management, but the primary focus is on the book and its features rather than Agile planning tools specifically.",
     "level": "Ignored"
   },
-  "Personal": {
-    "category": "Personal",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily focuses on the professional aspects of writing a book about Application Lifecycle Management, with only brief mentions of personal experiences.",
-    "level": "Ignored"
-  },
   "Automated Testing": {
     "category": "Automated Testing",
     "ai_confidence": 0,
@@ -381,14 +333,6 @@
     "non_ai_confidence": 10,
     "final_score": 38.0,
     "reasoning": "The content discusses the features and updates of a specific product, Visual Studio 2013, and its Application Lifecycle Management capabilities, indicating a focus on product strategy, but it is primarily a promotional piece rather than a strategic analysis.",
-    "level": "Ignored"
-  },
-  "Flow Efficiency": {
-    "category": "Flow Efficiency",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Application Lifecycle Management (ALM) and its role in streamlining software design and deployment processes, which relates to flow efficiency, but it is not the primary focus of the text.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -543,14 +487,6 @@
     "reasoning": "The content mentions Scrum in the context of Visual Studio and Agile methodologies, but it primarily focuses on Application Lifecycle Management and the features of Visual Studio 2013.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the challenges and efforts involved in producing a book, which touches on themes of resilience, but the primary focus is on the features and capabilities of Visual Studio 2013 and Application Lifecycle Management.",
-    "level": "Ignored"
-  },
   "Agile Strategy": {
     "category": "Agile Strategy",
     "ai_confidence": 50,
@@ -591,14 +527,6 @@
     "reasoning": "The content discusses the application lifecycle management and the new features in Visual Studio 2013, which are relevant to MVP concepts, but the primary focus is on the book and its authors rather than on MVP itself.",
     "level": "Ignored"
   },
-  "Organisational Agility": {
-    "category": "Organisational Agility",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses aspects of Application Lifecycle Management (ALM) and mentions agility in the context of software development, but it primarily focuses on the book's production and features rather than organisational agility as a central theme.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "ai_confidence": 50,
@@ -606,14 +534,6 @@
     "final_score": 35.0,
     "reasoning": "The content discusses Application Lifecycle Management (ALM) and its role in streamlining software design and deployment processes, which relates to throughput, but it is primarily focused on the book's production and features rather than throughput itself.",
     "level": "Ignored"
-  },
-  "Value Delivery": {
-    "category": "Value Delivery",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses the features and benefits of Application Lifecycle Management (ALM) with Visual Studio 2013, focusing on how it streamlines software design and deployment, which aligns closely with value delivery in software development.",
-    "level": "Secondary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -727,14 +647,6 @@
     "reasoning": "The content primarily discusses the publication and features of a book on Application Lifecycle Management with Visual Studio 2013, with no clear focus on Lean Thinking principles.",
     "level": "Ignored"
   },
-  "Systems Thinking": {
-    "category": "Systems Thinking",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the publication and features of a book on Application Lifecycle Management with Visual Studio 2013, with no clear focus on systems thinking.",
-    "level": "Ignored"
-  },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
     "ai_confidence": 0,
@@ -742,14 +654,6 @@
     "final_score": 0.0,
     "reasoning": "The content primarily discusses the publication of a book on Application Lifecycle Management and does not focus on customer feedback loops.",
     "level": "Ignored"
-  },
-  "Technical Excellence": {
-    "category": "Technical Excellence",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on the intricacies of Application Lifecycle Management (ALM) with Visual Studio 2013, detailing new features, methodologies, and practical applications in software development.",
-    "level": "Secondary"
   },
   "Sensemaking": {
     "category": "Sensemaking",
@@ -855,28 +759,12 @@
     "reasoning": "While the content mentions Scrum in the context of Visual Studio and ALM, it primarily focuses on application lifecycle management and does not delve deeply into Scrum practices or principles.",
     "level": "Ignored"
   },
-  "Complexity Thinking": {
-    "category": "Complexity Thinking",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the publication and features of a book on Application Lifecycle Management with Visual Studio 2013, with no clear focus on complexity thinking.",
-    "level": "Ignored"
-  },
   "Mentoring": {
     "category": "Mentoring",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses the process of writing a book on Application Lifecycle Management and the features of Visual Studio 2013, with no clear focus on mentoring.",
-    "level": "Ignored"
-  },
-  "Enterprise Agility": {
-    "category": "Enterprise Agility",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses Agile methodologies and the importance of agility in the context of Application Lifecycle Management, but it is primarily focused on the book's production and features of Visual Studio 2013.",
     "level": "Ignored"
   },
   "Deployment Frequency": {

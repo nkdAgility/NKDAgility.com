@@ -1,12 +1,4 @@
 {
-  "Market Adaptability": {
-    "category": "Market Adaptability",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses an error related to connecting Team Foundation Server with SharePoint, and offers solutions for configuration, which does not focus on market adaptability.",
-    "level": "Ignored"
-  },
   "Test First Development": {
     "category": "Test First Development",
     "ai_confidence": 0,
@@ -247,14 +239,6 @@
     "reasoning": "The content primarily focuses on a technical issue related to Team Foundation Server and SharePoint connectivity, rather than discussing accountability as a clear primary topic.",
     "level": "Ignored"
   },
-  "Application Lifecycle Management": {
-    "category": "Application Lifecycle Management",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 52.0,
-    "reasoning": "The content discusses Team Foundation Server, which is part of the Application Lifecycle Management ecosystem, and involves configuration steps that are significant to the lifecycle management of applications, though the primary focus is on a specific error and solution.",
-    "level": "Secondary"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
     "ai_confidence": 0,
@@ -287,30 +271,6 @@
     "reasoning": "Content primarily discusses troubleshooting and configuring Team Foundation Server in the context of a software development environment.",
     "level": "Secondary"
   },
-  "Enterprise Agility": {
-    "category": "Enterprise Agility",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a technical error and solutions related to Team Foundation Server and SharePoint configuration, with no significant focus on enterprise agility concepts.",
-    "level": "Ignored"
-  },
-  "Technical Excellence": {
-    "category": "Technical Excellence",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the technical challenge and solution related to configuring Team Foundation Server with SharePoint, focusing on troubleshooting an error during a server upgrade.",
-    "level": "Secondary"
-  },
-  "Decision Theory": {
-    "category": "Decision Theory",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on technical issues related to Team Foundation Server and SharePoint configurations, with no relevance to decision theory.",
-    "level": "Ignored"
-  },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
     "ai_confidence": 0,
@@ -341,14 +301,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses an error related to Team Foundation Server and SharePoint configuration issues, without significant discussion on Agile strategy principles or practices.",
-    "level": "Ignored"
-  },
-  "Complexity Thinking": {
-    "category": "Complexity Thinking",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a technical issue related to Team Foundation Server and SharePoint, and does not focus on complexity thinking as a central theme.",
     "level": "Ignored"
   },
   "System Configuration": {
@@ -511,14 +463,6 @@
     "reasoning": "The content is primarily focused on troubleshooting a specific error related to Team Foundation Server and SharePoint integration, with no significant discussion on self-organisation.",
     "level": "Ignored"
   },
-  "Organisational Agility": {
-    "category": "Organisational Agility",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on a technical issue related to the upgrade of Team Foundation Server and its connection to SharePoint, with no significant discussion on organisational agility.",
-    "level": "Ignored"
-  },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
     "ai_confidence": 0,
@@ -541,14 +485,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on troubleshooting and technical solutions for a specific error in Team Foundation Server, with no emphasis on trend analysis.",
-    "level": "Ignored"
-  },
-  "Flow Efficiency": {
-    "category": "Flow Efficiency",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily addresses a technical issue and solution related to connecting Team Foundation Server and SharePoint, with no central focus on flow efficiency.",
     "level": "Ignored"
   },
   "Continuous Learning": {
@@ -735,14 +671,6 @@
     "reasoning": "The content is primarily focused on troubleshooting a specific error related to Team Foundation Server and SharePoint integration, and does not discuss Sprint Reviews or any related Scrum practices.",
     "level": "Ignored"
   },
-  "Miscellaneous": {
-    "category": "Miscellaneous",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily focused on troubleshooting a specific error related to Team Foundation Server and SharePoint integration. It does not discuss miscellaneous topics as a primary theme.",
-    "level": "Ignored"
-  },
   "Strategic Goals": {
     "category": "Strategic Goals",
     "ai_confidence": 0,
@@ -767,14 +695,6 @@
     "reasoning": "The content primarily discusses a technical issue related to Team Foundation Server and SharePoint, with no mention of working agreements.",
     "level": "Ignored"
   },
-  "Value Delivery": {
-    "category": "Value Delivery",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on troubleshooting a specific error related to the connection between Team Foundation Server and SharePoint, rather than on value delivery concepts.",
-    "level": "Ignored"
-  },
   "Lean Startup": {
     "category": "Lean Startup",
     "ai_confidence": 0,
@@ -789,22 +709,6 @@
     "non_ai_confidence": 0,
     "final_score": 35.0,
     "reasoning": "The content discusses Team Foundation Server (TFS) and its interaction with SharePoint, which is relevant to Windows environments, but it primarily focuses on the configuration issue rather than Windows itself.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses a technical issue related to Team Foundation Server and SharePoint connection errors, with no significant focus on people or processes.",
-    "level": "Ignored"
-  },
-  "Personal": {
-    "category": "Personal",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a technical issue related to Team Foundation Server and SharePoint administration, with no focus on personal topics.",
     "level": "Ignored"
   },
   "Definition of Ready": {
@@ -837,14 +741,6 @@
     "non_ai_confidence": 0,
     "final_score": 35.0,
     "reasoning": "Content primarily discusses a technical issue related to connecting Team Foundation Server with SharePoint, which involves collaboration tools, but the primary focus is on troubleshooting and technical configuration rather than collaboration itself.",
-    "level": "Ignored"
-  },
-  "Systems Thinking": {
-    "category": "Systems Thinking",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical error handling and configuration issues related to Team Foundation Server and SharePoint, with no central theme of systems thinking.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -909,14 +805,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses an error related to Team Foundation Server and SharePoint connection issues, with no clear focus on cycle time.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 6.0,
-    "reasoning": "The content primarily discusses a technical issue related to the configuration of Team Foundation Server and SharePoint integration, and does not focus on resilience or change as a central theme.",
     "level": "Ignored"
   },
   "Lean Principles": {

@@ -1,12 +1,4 @@
 {
-  "Market Adaptability": {
-    "category": "Market Adaptability",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content touches on Agile methodologies, Scrum, and the importance of adapting practices to succeed, which reflects an understanding of market adaptability in software development, but it primarily focuses on Scrum and engineering practices rather than market adaptability as a central theme.",
-    "level": "Ignored"
-  },
   "Test First Development": {
     "category": "Test First Development",
     "ai_confidence": 50,
@@ -247,14 +239,6 @@
     "reasoning": "The content primarily discusses the accountability of roles, particularly the Scrum Master, in the context of Agile practices and the consequences of failing to uphold standards in software development. It emphasizes the need for teams to take responsibility for their practices and outcomes.",
     "level": "Secondary"
   },
-  "Application Lifecycle Management": {
-    "category": "Application Lifecycle Management",
-    "ai_confidence": 60,
-    "non_ai_confidence": 10,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile methodologies, particularly Scrum, and touches on engineering practices and retrospectives, which are important in the context of application lifecycle management, but the primary focus remains on the challenges within Scrum rather than a comprehensive view of application lifecycle management.",
-    "level": "Ignored"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
     "ai_confidence": 50,
@@ -287,30 +271,6 @@
     "reasoning": "Content heavily discusses Scrum, Agile methodologies, and the importance of engineering practices in software development.",
     "level": "Secondary"
   },
-  "Enterprise Agility": {
-    "category": "Enterprise Agility",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses Scrum, Agile frameworks, and the need for effective management and engineering practices, which are central to enterprise agility.",
-    "level": "Secondary"
-  },
-  "Technical Excellence": {
-    "category": "Technical Excellence",
-    "ai_confidence": 88,
-    "non_ai_confidence": 10,
-    "final_score": 65.0,
-    "reasoning": "The content deeply explores the engineering practices necessary for Scrum and Agile methodologies, emphasizing the importance of technical debt management, good engineering practices, and professional standards in software development.",
-    "level": "Secondary"
-  },
-  "Decision Theory": {
-    "category": "Decision Theory",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on Scrum methodologies and engineering practices within software development, with no clear emphasis on decision theory.",
-    "level": "Ignored"
-  },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
     "ai_confidence": 85,
@@ -342,14 +302,6 @@
     "final_score": 67.0,
     "reasoning": "Content primarily discusses the principles and challenges of Agile methodologies, particularly Scrum, emphasizing the importance of good engineering practices and the role of Scrum Masters in ensuring successful Agile implementation.",
     "level": "Secondary"
-  },
-  "Complexity Thinking": {
-    "category": "Complexity Thinking",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "While the content discusses the limitations and challenges of Scrum and Agile methodologies, its primary focus is on software engineering practices rather than explicitly addressing complexity thinking as a central theme.",
-    "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
@@ -511,14 +463,6 @@
     "reasoning": "While the content discusses aspects of Scrum and Agile practices, it primarily focuses on the insufficiency of Scrum and related engineering practices rather than self-organization as a central theme.",
     "level": "Ignored"
   },
-  "Organisational Agility": {
-    "category": "Organisational Agility",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses the implications of Scrum practices on organizational effectiveness and agility, emphasizing the importance of engineering practices alongside agile management processes.",
-    "level": "Secondary"
-  },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
     "ai_confidence": 80,
@@ -542,14 +486,6 @@
     "final_score": 28.0,
     "reasoning": "The content primarily discusses the insufficiencies of Scrum and agile practices, rather than focusing on trend analysis. While there are mentions of practices and some implications for trends in Agile, the central theme revolves around challenges and solutions related to Scrum rather than analyzing trends.",
     "level": "Ignored"
-  },
-  "Flow Efficiency": {
-    "category": "Flow Efficiency",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content discusses how engineering practices affect the flow of delivery in Scrum and the importance of avoiding technical debt to maintain efficiency.",
-    "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -735,14 +671,6 @@
     "reasoning": "The content discusses the importance of retrospectives and the Scrum process, making Sprint Review a key theme, but it is primarily focused on the broader context of Scrum's effectiveness and engineering practices.",
     "level": "Secondary"
   },
-  "Miscellaneous": {
-    "category": "Miscellaneous",
-    "ai_confidence": 20,
-    "non_ai_confidence": 0,
-    "final_score": 14.0,
-    "reasoning": "The content primarily focuses on Scrum and Agile methodologies rather than being about miscellaneous topics.",
-    "level": "Ignored"
-  },
   "Strategic Goals": {
     "category": "Strategic Goals",
     "ai_confidence": 50,
@@ -767,14 +695,6 @@
     "reasoning": "The content mentions the need for effective retrospectives and strong Scrum Master support, which relate to working agreements in Scrum, but the primary focus is on the insufficiencies in Scrum practices and technical debt.",
     "level": "Ignored"
   },
-  "Value Delivery": {
-    "category": "Value Delivery",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content discusses the importance of delivering quality software and how practices such as effective retrospectives and minimizing technical debt directly impact the value delivered to customers.",
-    "level": "Secondary"
-  },
   "Lean Startup": {
     "category": "Lean Startup",
     "ai_confidence": 0,
@@ -789,22 +709,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily focuses on Scrum and Agile methodologies, without discussing Windows or any related topic.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "Content primarily discusses Scrum roles, responsibilities, and the importance of good engineering practices in the Agile process, emphasizing the significance of effective management and team accountability.",
-    "level": "Secondary"
-  },
-  "Personal": {
-    "category": "Personal",
-    "ai_confidence": 25,
-    "non_ai_confidence": 0,
-    "final_score": 18.0,
-    "reasoning": "The content primarily discusses Agile and Scrum methodologies, their effectiveness, and challenges rather than personal experiences or insights.",
     "level": "Ignored"
   },
   "Definition of Ready": {
@@ -837,14 +741,6 @@
     "non_ai_confidence": 0,
     "final_score": 49.0,
     "reasoning": "The content discusses Scrum's role in team dynamics and the importance of the Scrum Master, indicating a significant focus on collaborative practices within Agile frameworks.",
-    "level": "Ignored"
-  },
-  "Systems Thinking": {
-    "category": "Systems Thinking",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses how Agile methodologies, including Scrum, require understanding complex interactions and practices within teams, which aligns with some principles of Systems Thinking. However, the primary focus is on Scrum and Agile practices rather than a clear Systems Thinking framework.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -909,14 +805,6 @@
     "non_ai_confidence": 10,
     "final_score": 38.0,
     "reasoning": "The content discusses Agile practices and mentions the importance of delivering working software regularly, which relates to cycle time, although it's not the primary focus.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses challenges in implementing Scrum, the need for effective retrospectives, and overcoming technical debt, which implies themes of resilience and change within agile methodologies, though it primarily focuses on Scrum practices.",
     "level": "Ignored"
   },
   "Lean Principles": {

@@ -183,14 +183,6 @@
     "reasoning": "Content primarily addresses a technical issue related to Team Foundation Server and Project Server, which are tools commonly used by software developers for project management and version control.",
     "level": "Secondary"
   },
-  "Flow Efficiency": {
-    "category": "Flow Efficiency",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a specific error related to Project Server and Team Foundation Server, focusing on troubleshooting and permissions rather than flow efficiency.",
-    "level": "Ignored"
-  },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
     "ai_confidence": 50,
@@ -415,14 +407,6 @@
     "reasoning": "Content primarily addresses the operational issue of configuring permissions and service accounts in Team Foundation Server and Project Server, which are key aspects of operational practices.",
     "level": "Secondary"
   },
-  "Complexity Thinking": {
-    "category": "Complexity Thinking",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses a technical issue related to Project Server and Team Foundation Server, focusing on error resolution and permissions, without addressing complexity thinking as a central theme.",
-    "level": "Ignored"
-  },
   "Frequent Releases": {
     "category": "Frequent Releases",
     "ai_confidence": 0,
@@ -487,14 +471,6 @@
     "reasoning": "The content primarily discusses a technical issue related to Team Foundation Server and Project Server integration, with no clear focus on strategic goals.",
     "level": "Ignored"
   },
-  "Decision Theory": {
-    "category": "Decision Theory",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a technical issue related to Project Server and Team Foundation Server, focusing on troubleshooting and solutions rather than decision-making processes or theories.",
-    "level": "Ignored"
-  },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
     "ai_confidence": 0,
@@ -511,28 +487,12 @@
     "reasoning": "The content primarily discusses a technical issue related to Team Foundation Server and Project Server, with no clear focus on Lean Principles.",
     "level": "Ignored"
   },
-  "Technical Excellence": {
-    "category": "Technical Excellence",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily addresses a technical issue related to Team Foundation Server and Project Server integration, providing detailed troubleshooting steps and solutions.",
-    "level": "Secondary"
-  },
   "Team Motivation": {
     "category": "Team Motivation",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
     "final_score": 3.0,
     "reasoning": "The content primarily discusses a technical issue related to Team Foundation Server and Project Server integration, with no focus on team motivation.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "ai_confidence": 30,
-    "non_ai_confidence": 10,
-    "final_score": 24.0,
-    "reasoning": "The content primarily focuses on a technical issue related to Team Foundation Server and Project Server integration, with minimal mention of people or processes.",
     "level": "Ignored"
   },
   "Scaling Scrum": {
@@ -565,14 +525,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses a technical issue related to accessing a Project Server instance and provides a solution, with no focus on transparency.",
-    "level": "Ignored"
-  },
-  "Personal": {
-    "category": "Personal",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical issues related to Project Server and Team Foundation Server, with no focus on personal topics.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -631,14 +583,6 @@
     "reasoning": "The content primarily discusses an issue related to Team Foundation Server and Project Server integration, with no mention of Kanban or scaling methodologies.",
     "level": "Ignored"
   },
-  "Value Delivery": {
-    "category": "Value Delivery",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content addresses a specific issue related to accessing a Project Server instance, which indirectly relates to value delivery through effective project management and integration, but the primary focus is on troubleshooting rather than value delivery itself.",
-    "level": "Ignored"
-  },
   "Mentoring": {
     "category": "Mentoring",
     "ai_confidence": 0,
@@ -677,14 +621,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses an error related to Team Foundation Server and Project Server integration, focusing on troubleshooting and permissions rather than continuous delivery practices.",
-    "level": "Ignored"
-  },
-  "Miscellaneous": {
-    "category": "Miscellaneous",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a specific technical issue related to Project Server 2013 and Team Foundation Server 2012, rather than a broad or varied topic that would fit into the 'Miscellaneous' category.",
     "level": "Ignored"
   },
   "Working Agreements": {
@@ -727,14 +663,6 @@
     "reasoning": "The content primarily discusses a technical issue related to Project Server and Team Foundation Server, with no mention of backlog refinement or related processes.",
     "level": "Ignored"
   },
-  "Enterprise Agility": {
-    "category": "Enterprise Agility",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a technical issue related to Team Foundation Server and Project Server integration, with no clear focus on enterprise agility principles or practices.",
-    "level": "Ignored"
-  },
   "Accountability": {
     "category": "Accountability",
     "ai_confidence": 50,
@@ -749,14 +677,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses technical issues related to Project Server and Team Foundation Server, with no focus on entrepreneurship.",
-    "level": "Ignored"
-  },
-  "Organisational Agility": {
-    "category": "Organisational Agility",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a technical issue related to Team Foundation Server and Project Server integration, with no clear focus on organisational agility.",
     "level": "Ignored"
   },
   "Software Development": {
@@ -781,14 +701,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses a technical issue related to Project Server and Team Foundation Server, with no mention of Scaled Agile principles or practices.",
-    "level": "Ignored"
-  },
-  "Systems Thinking": {
-    "category": "Systems Thinking",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses a specific technical issue related to Team Foundation Server and Project Server, with no clear focus on systems thinking.",
     "level": "Ignored"
   },
   "Organisational Physics": {
@@ -853,30 +765,6 @@
     "non_ai_confidence": 0,
     "final_score": 59.0,
     "reasoning": "The content primarily discusses the configuration of Team Foundation Server and its integration with Project Server, focusing on service account permissions and settings.",
-    "level": "Secondary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 6.0,
-    "reasoning": "The content primarily discusses a technical issue related to Team Foundation Server and Project Server integration, focusing on error resolution rather than themes of resilience or change.",
-    "level": "Ignored"
-  },
-  "Market Adaptability": {
-    "category": "Market Adaptability",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a technical issue related to Team Foundation Server and Project Server integration, with no clear focus on market adaptability.",
-    "level": "Ignored"
-  },
-  "Application Lifecycle Management": {
-    "category": "Application Lifecycle Management",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily addresses issues related to integrating Team Foundation Server with Project Server, which is a key aspect of application lifecycle management.",
     "level": "Secondary"
   },
   "MVP": {

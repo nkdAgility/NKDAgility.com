@@ -1,20 +1,4 @@
 {
-  "Decision Theory": {
-    "category": "Decision Theory",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Scrum training courses and their benefits, with no clear focus on decision theory.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "Content primarily focuses on Scrum training courses and their impact on team dynamics and organisational processes, highlighting the importance of understanding roles and collaboration within Scrum teams.",
-    "level": "Secondary"
-  },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
     "ai_confidence": 92,
@@ -79,14 +63,6 @@
     "reasoning": "The content primarily discusses Professional Scrum training and courses, with no clear focus on Value Stream Mapping.",
     "level": "Ignored"
   },
-  "Market Adaptability": {
-    "category": "Market Adaptability",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Scrum training and its importance for organisations adapting to agile methodologies, making market adaptability a significant theme.",
-    "level": "Ignored"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "ai_confidence": 50,
@@ -134,14 +110,6 @@
     "final_score": 62.0,
     "reasoning": "Content primarily focuses on Scrum training and its role in facilitating agile adoption within organisations.",
     "level": "Secondary"
-  },
-  "Miscellaneous": {
-    "category": "Miscellaneous",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on Professional Scrum training courses and their benefits, with no clear emphasis on miscellaneous topics.",
-    "level": "Ignored"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -255,14 +223,6 @@
     "reasoning": "The content discusses Scrum training and its impact on team dynamics, which relates to employee engagement, but the primary focus is on the courses and their structure rather than engagement strategies.",
     "level": "Ignored"
   },
-  "Application Lifecycle Management": {
-    "category": "Application Lifecycle Management",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Scrum training and its role in agile adoption, which is a significant aspect of application lifecycle management, but the primary focus is on training courses rather than the lifecycle management itself.",
-    "level": "Ignored"
-  },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
     "ai_confidence": 50,
@@ -319,14 +279,6 @@
     "reasoning": "Content primarily discusses Scrum training courses, which are essential for effective agile planning and implementation.",
     "level": "Secondary"
   },
-  "Personal": {
-    "category": "Personal",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Professional Scrum training courses and their benefits, with no clear focus on personal topics.",
-    "level": "Ignored"
-  },
   "Automated Testing": {
     "category": "Automated Testing",
     "ai_confidence": 0,
@@ -381,14 +333,6 @@
     "non_ai_confidence": 0,
     "final_score": 35.0,
     "reasoning": "The content discusses Scrum training and its importance for organisational understanding and adoption, which relates to product strategy in terms of aligning teams and processes. However, the primary focus is on training courses rather than a comprehensive product strategy.",
-    "level": "Ignored"
-  },
-  "Flow Efficiency": {
-    "category": "Flow Efficiency",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Scrum training and its role in improving team understanding and adoption, which relates to flow efficiency in a secondary manner.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -543,14 +487,6 @@
     "reasoning": "Content heavily discusses various Professional Scrum courses and their relevance to Scrum adoption and training.",
     "level": "Secondary"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses Scrum training and its role in organisational change, but the primary focus is on the courses offered rather than resilience and change itself.",
-    "level": "Ignored"
-  },
   "Agile Strategy": {
     "category": "Agile Strategy",
     "ai_confidence": 85,
@@ -591,14 +527,6 @@
     "reasoning": "The content discusses various Professional Scrum courses, which are essential for understanding and implementing Scrum, a key aspect of MVP development in agile environments.",
     "level": "Ignored"
   },
-  "Organisational Agility": {
-    "category": "Organisational Agility",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the Professional Scrum Foundations course and its role in fostering a common understanding of Scrum within organisations, which is central to achieving organisational agility.",
-    "level": "Secondary"
-  },
   "Throughput": {
     "category": "Throughput",
     "ai_confidence": 50,
@@ -606,14 +534,6 @@
     "final_score": 35.0,
     "reasoning": "The content discusses Scrum training and courses, which indirectly relates to throughput in terms of improving team efficiency and understanding of processes, but it is not the primary focus.",
     "level": "Ignored"
-  },
-  "Value Delivery": {
-    "category": "Value Delivery",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on the Professional Scrum Foundations course and its role in facilitating Scrum adoption, which directly relates to delivering value through improved team understanding and collaboration.",
-    "level": "Secondary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -727,14 +647,6 @@
     "reasoning": "The content discusses Scrum training and its role in fostering understanding and adoption of agile principles, which aligns with lean thinking concepts, but it primarily focuses on specific courses and training rather than lean thinking itself.",
     "level": "Ignored"
   },
-  "Systems Thinking": {
-    "category": "Systems Thinking",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Scrum training and its impact on team dynamics, which relates to systems thinking in terms of understanding interactions within a system, but it is primarily focused on training courses rather than systems thinking itself.",
-    "level": "Ignored"
-  },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
     "ai_confidence": 0,
@@ -742,14 +654,6 @@
     "final_score": 0.0,
     "reasoning": "The content primarily discusses Scrum training courses and their benefits, with no clear focus on customer feedback loops.",
     "level": "Ignored"
-  },
-  "Technical Excellence": {
-    "category": "Technical Excellence",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on the Professional Scrum Foundations course and its significance in promoting a consistent understanding of Scrum practices, which aligns with the theme of technical excellence in training and implementation.",
-    "level": "Secondary"
   },
   "Sensemaking": {
     "category": "Sensemaking",
@@ -855,28 +759,12 @@
     "reasoning": "Content heavily discusses various Professional Scrum courses, their benefits, and the importance of Scrum training in organisations.",
     "level": "Secondary"
   },
-  "Complexity Thinking": {
-    "category": "Complexity Thinking",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Scrum training and its impact on team dynamics, which relates to complexity thinking in terms of understanding interactions within teams, but it is primarily focused on training courses rather than complexity as a central theme.",
-    "level": "Ignored"
-  },
   "Mentoring": {
     "category": "Mentoring",
     "ai_confidence": 80,
     "non_ai_confidence": 0,
     "final_score": 56.0,
     "reasoning": "The content discusses the importance of mentoring within the context of Scrum training and the role of coaches in fostering internal mentorship for long-term success.",
-    "level": "Secondary"
-  },
-  "Enterprise Agility": {
-    "category": "Enterprise Agility",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily focuses on Scrum training and its role in fostering agility within organisations, highlighting the importance of a common understanding of the framework for successful adoption.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
