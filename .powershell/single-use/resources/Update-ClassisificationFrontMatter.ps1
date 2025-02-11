@@ -42,12 +42,20 @@ $classes | ForEach-Object {
             # Update the description in the front matter
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'description' -fieldValue $description -addAfter 'title' -
         }
-        if (-not $hugoMarkdown.FrontMatter.Instructions -or $hugoMarkdown.FrontMatter.Instructions -match "no specific details provided") {
+        if (-not $hugoMarkdown.FrontMatter.Instructions -or $hugoMarkdown.FrontMatter.Instructions -match "Please ensure that the") {
             # Generate a new Instructions using OpenAI
-            $prompt = "Generate an instruction that can be added to a prompt to ensure that this catagory/tag of '$($hugoMarkdown.FrontMatter.title)' is only ever applied to its intended content $($hugoMarkdown.FrontMatter.description). Return only the prompt with no additional text."
+            $prompt = @"
+            You are an expert in Agile, Scrum, DevOps, and Evidence-Based Management. Your task is to generate precise category instructions for a technical blog focused on Agile methodologies, DevOps, and business agility. Maintain a structured, professional tone. Instructions should follow this format: 
+                - Start with 'Use this category only for discussions on $($hugoMarkdown.FrontMatter.title)'.
+                - Define the category's scope and purpose.
+                - List key topics that should be discussed.
+                - Ensure clarity, conciseness, and relevance.
+
+            Category: $($hugoMarkdown.FrontMatter.title)
+"@
             $Instructions = Get-OpenAIResponse -Prompt $prompt
             # Update the description in the front matter
-            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'Instructions' -fieldValue $Instructions -addAfter 'description'
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'Instructions' -fieldValue $Instructions -addAfter 'description' -Overwrite
         }
 
       
