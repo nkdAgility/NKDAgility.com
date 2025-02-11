@@ -26,7 +26,19 @@ aliasesFor404:
 - /the-definition-of-done--ensuring-quality-without-compromising-value
 - /blog/the-definition-of-done--ensuring-quality-without-compromising-value
 - /resources/blog/the-definition-of-done-ensuring-quality-without-compromising-value
-tags: []
+tags:
+- Agile Project Management
+- Definition of Done
+- Empirical Process Control
+- Engineering Excellence
+- Increment
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Product Development
+- Software Developers
+- Software Development
+- Transparency
+- Working Software
 categories:
 - Product Delivery
 - Transparency and Accountability

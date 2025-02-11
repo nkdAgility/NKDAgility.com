@@ -22,7 +22,16 @@ aliasesFor404:
 - /from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
 - /blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
 - /resources/blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
-tags: []
+tags:
+- Agile Frameworks
+- Agile Philosophy
+- Agile Project Management
+- Agile Strategy
+- Agile Transformation
+- Agile Values and Principles
+- Pragmatic Thinking
+- Software Developers
+- Software Development
 categories:
 - Agile Product Management
 - Organisational Agility

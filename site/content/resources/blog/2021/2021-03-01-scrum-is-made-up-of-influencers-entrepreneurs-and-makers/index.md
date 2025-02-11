@@ -30,9 +30,19 @@ aliasesFor404:
 - /scrum-is-made-up-of-influencers--entrepreneurs--and-makers
 - /blog/scrum-is-made-up-of-influencers--entrepreneurs--and-makers
 - /resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
-tags: []
+tags:
+- Accountability
+- Agile Frameworks
+- Agile Leadership
+- Agile Project Management
+- Experimentation
+- Product Management
+- Scrum Product Development
+- Technical Leadership
 categories:
-- Scrum
+- Agile Product Management
+- People and Process
+- Value Delivery
 preview: image-4-5-5.png
 
 ---

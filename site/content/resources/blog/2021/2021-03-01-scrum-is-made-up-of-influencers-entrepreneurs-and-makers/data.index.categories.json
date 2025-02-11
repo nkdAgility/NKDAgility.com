@@ -1,34 +1,317 @@
 {
-  "DevOps": {
-    "category": "DevOps",
+  "Decision Theory": {
+    "category": "Decision Theory",
+    "calculated_at": "2025-02-11T20:32:31",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Scrum roles and events, focusing on organisational structure rather than decision-making processes in uncertain environments.",
+    "level": "Ignored"
+  },
+  "Enterprise Agility": {
+    "category": "Enterprise Agility",
+    "calculated_at": "2025-02-11T20:32:33",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses roles and responsibilities within Scrum, which is related to the processes and people involved in delivering value, but it primarily focuses on Scrum rather than DevOps as a whole.",
+    "final_score": 45.0,
+    "reasoning": "The content discusses roles and responsibilities within Scrum, which touches on leadership and collaboration aspects relevant to enterprise agility, but it primarily focuses on team-level practices without a broader organisational context.",
+    "level": "Ignored"
+  },
+  "Lean": {
+    "category": "Lean",
+    "calculated_at": "2025-02-11T20:32:34",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Resilience and Change": {
+    "category": "Resilience and Change",
+    "calculated_at": "2025-02-11T20:32:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Install and Configuration": {
+    "category": "Install and Configuration",
+    "calculated_at": "2025-02-11T20:32:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Code and Complexity": {
+    "category": "Code and Complexity",
+    "calculated_at": "2025-02-11T20:32:37",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Scrum roles and events, focusing on leadership, value delivery, and technical skills rather than the interplay between code quality and complexity.",
+    "level": "Ignored"
+  },
+  "Flow Efficiency": {
+    "category": "Flow Efficiency",
+    "calculated_at": "2025-02-11T20:32:38",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and tracks without a focus on optimising work throughput or flow efficiency principles.",
+    "level": "Ignored"
+  },
+  "AI and Automation in Agility": {
+    "category": "AI and Automation in Agility",
+    "calculated_at": "2025-02-11T20:32:40",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content heavily discusses Scrum roles and tracks without any mention of AI or automation.",
+    "level": "Ignored"
+  },
+  "Product Delivery": {
+    "category": "Product Delivery",
+    "calculated_at": "2025-02-11T20:32:42",
+    "ai_confidence": 70,
+    "non_ai_confidence": 10,
+    "final_score": 64.0,
+    "reasoning": "The content discusses the roles within Scrum that contribute to product delivery, focusing on the Leadership, Value, and Technical Tracks. While it primarily addresses the roles and responsibilities, it does relate to the methodologies and practices involved in delivering usable software products.",
+    "level": "Secondary"
+  },
+  "Agile Product Management": {
+    "category": "Agile Product Management",
+    "calculated_at": "2025-02-11T20:32:44",
+    "ai_confidence": 70,
+    "non_ai_confidence": 20,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the roles within Scrum, particularly focusing on the Value Track which includes Product Owners, and highlights the importance of maximising product value. However, it also covers broader themes related to leadership and technical roles, making Agile Product Management a major but secondary theme.",
+    "level": "Secondary"
+  },
+  "Discovery and Learning": {
+    "category": "Discovery and Learning",
+    "calculated_at": "2025-02-11T20:32:45",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the roles within Scrum and touches on the importance of experience and understanding in delivering value, which aligns with learning and adaptation. However, the primary focus is on Scrum roles rather than explicit methodologies for discovery and learning.",
+    "level": "Ignored"
+  },
+  "Systems Thinking": {
+    "category": "Systems Thinking",
+    "calculated_at": "2025-02-11T20:32:46",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Complexity Thinking": {
+    "category": "Complexity Thinking",
+    "calculated_at": "2025-02-11T20:32:47",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Transparency and Accountability": {
+    "category": "Transparency and Accountability",
+    "calculated_at": "2025-02-11T20:32:48",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content heavily discusses Scrum roles and tracks without a focus on transparency or accountability principles.",
+    "level": "Ignored"
+  },
+  "Practical Techniques and Tooling": {
+    "category": "Practical Techniques and Tooling",
+    "calculated_at": "2025-02-11T20:32:50",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the roles within Scrum and their importance in delivering value, which relates to Agile practices. However, it primarily focuses on the roles and responsibilities rather than specific tools or methodologies, making it a secondary theme.",
+    "level": "Ignored"
+  },
+  "Events and Presentations": {
+    "category": "Events and Presentations",
+    "calculated_at": "2025-02-11T20:32:51",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses training opportunities related to Scrum roles, which may imply events or presentations, but the primary focus is on the roles and responsibilities within Scrum rather than specific events or presentations.",
+    "level": "Ignored"
+  },
+  "Market Adaptability": {
+    "category": "Market Adaptability",
+    "calculated_at": "2025-02-11T20:32:53",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and tracks without a clear focus on market adaptability strategies or methodologies.",
+    "level": "Ignored"
+  },
+  "Miscellaneous": {
+    "category": "Miscellaneous",
+    "calculated_at": "2025-02-11T20:32:54",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "calculated_at": "2025-02-11T20:32:54",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
+    "calculated_at": "2025-02-11T20:32:55",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses Scrum roles and tracks, with no clear focus on Azure DevOps or its related tools and functionalities.",
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Products and Books": {
+    "category": "Products and Books",
+    "calculated_at": "2025-02-11T20:32:57",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses roles within Scrum and mentions training opportunities, indicating a focus on resources that could enhance understanding of Agile practices, but it primarily centres on the roles and responsibilities rather than specific products or literature.",
+    "level": "Ignored"
+  },
+  "Business Agility": {
+    "category": "Business Agility",
+    "calculated_at": "2025-02-11T20:32:58",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses roles within Scrum that contribute to delivering value and creating an environment for innovation, which aligns with the principles of business agility. However, the primary focus is on Scrum roles rather than a comprehensive exploration of business agility itself.",
     "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
+    "calculated_at": "2025-02-11T20:32:59",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses Scrum roles and responsibilities, with no clear focus on Kanban principles or practices.",
+    "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Value Delivery": {
+    "category": "Value Delivery",
+    "calculated_at": "2025-02-11T20:33:01",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the roles within Scrum that are focused on delivering value, particularly highlighting the Value Track and its importance in maximising product value. It aligns well with the principles of value delivery in Agile frameworks.",
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
+    "calculated_at": "2025-02-11T20:33:02",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses Scrum roles and tracks related to leadership, value, and technical aspects without focusing on engineering practices or methodologies that enhance agility in software development.",
+    "level": "Ignored"
+  },
+  "Scaling Agility": {
+    "category": "Scaling Agility",
+    "calculated_at": "2025-02-11T20:33:07",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses roles within Scrum and their responsibilities, rather than focusing on scaling Agile practices across multiple teams or organisational structures.",
+    "level": "Ignored"
+  },
+  "Organisational Agility": {
+    "category": "Organisational Agility",
+    "calculated_at": "2025-02-11T20:33:08",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the roles within Scrum, including the Technical Track, which involves creating usable products. However, the primary focus is on the roles and their responsibilities rather than specific engineering practices that enable agility.",
+    "final_score": 46.0,
+    "reasoning": "The content discusses the roles within Scrum that contribute to organisational effectiveness and adaptability, particularly focusing on leadership and the balance of different skill areas. However, it primarily centres on Scrum roles rather than broader organisational agility strategies.",
+    "level": "Ignored"
+  },
+  "Personal": {
+    "category": "Personal",
+    "calculated_at": "2025-02-11T20:33:09",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "People and Process": {
+    "category": "People and Process",
+    "calculated_at": "2025-02-11T20:33:11",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the roles of different people within the Scrum framework, focusing on leadership, value delivery, and technical execution, which aligns closely with team dynamics and collaboration.",
+    "level": "Secondary"
+  },
+  "Sociotechnical Systems": {
+    "category": "Sociotechnical Systems",
+    "calculated_at": "2025-02-11T20:33:13",
+    "ai_confidence": 70,
+    "non_ai_confidence": 0,
+    "final_score": 63.0,
+    "reasoning": "The content discusses the interplay between different roles (Influencers, Entrepreneurs, Makers) within a Scrum framework, highlighting how these roles contribute to effective product delivery and organisational success. While it primarily focuses on Scrum roles, it does touch on the organisational context and the importance of balancing these roles, which aligns with sociotechnical principles.",
+    "level": "Secondary"
+  },
+  "News and Reviews": {
+    "category": "News and Reviews",
+    "calculated_at": "2025-02-11T20:33:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the roles within Scrum and their responsibilities, rather than providing news or reviews related to Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Metrics and Learning": {
+    "category": "Metrics and Learning",
+    "calculated_at": "2025-02-11T20:33:15",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Scrum roles and tracks without a focus on metrics, data utilisation, or learning mechanisms.",
+    "level": "Ignored"
+  },
+  "Application Lifecycle Management": {
+    "category": "Application Lifecycle Management",
+    "calculated_at": "2025-02-11T20:33:17",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events, focusing on team dynamics rather than the application lifecycle management processes.",
+    "level": "Ignored"
+  },
+  "Value Stream Management": {
+    "category": "Value Stream Management",
+    "calculated_at": "2025-02-11T20:33:17",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Organisational Psychology": {
+    "category": "Organisational Psychology",
+    "calculated_at": "2025-02-11T20:33:21",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses leadership roles and the importance of creating environments for effective product delivery, which touches on psychological aspects of organisational behaviour. However, the primary focus is on Scrum roles and technical tracks, making it a secondary theme.",
     "level": "Ignored"
   }
 }

@@ -25,7 +25,22 @@ aliasesFor404:
 - /how-to-set-and-achieve-effective-sprint-goals
 - /blog/how-to-set-and-achieve-effective-sprint-goals
 - /resources/blog/how-to-set-and-achieve-effective-sprint-goals
-tags: []
+tags:
+- Accountability
+- Agile Frameworks
+- Agile Planning
+- Agile Project Management
+- Coaching
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Master
+- Scrum Product Development
+- Scrum Team
+- Software Developers
+- Software Development
+- Team Collaboration
+- Team Performance
+- Transparency
 categories:
 - Agile Product Management
 - Product Delivery

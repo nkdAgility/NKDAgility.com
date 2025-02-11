@@ -1,34 +1,317 @@
 {
-  "DevOps": {
-    "category": "DevOps",
+  "Decision Theory": {
+    "category": "Decision Theory",
+    "calculated_at": "2025-02-11T20:16:23",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses leadership and management in an Agile context, which relates to DevOps principles, but it primarily focuses on training and metrics rather than the broader DevOps practices.",
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of evidence-based decision-making and the need for organisations to create their own metrics, which aligns with decision theory principles. However, the primary focus is on Agile leadership and training rather than a deep exploration of decision theory itself.",
+    "level": "Ignored"
+  },
+  "Enterprise Agility": {
+    "category": "Enterprise Agility",
+    "calculated_at": "2025-02-11T20:16:25",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of leadership and metrics in fostering a vision and strategic goals within an organisation, which aligns with themes of enterprise agility. However, it primarily focuses on a specific training course rather than broader organisational agility practices.",
+    "level": "Ignored"
+  },
+  "Lean": {
+    "category": "Lean",
+    "calculated_at": "2025-02-11T20:16:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile and Evidence-Based Management without a clear focus on Lean principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Resilience and Change": {
+    "category": "Resilience and Change",
+    "calculated_at": "2025-02-11T20:16:28",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of having a Vision and Strategic Goal for organisational success, which aligns with themes of resilience and adaptability. However, the primary focus is on the training programme and its details rather than a comprehensive exploration of resilience strategies.",
+    "level": "Ignored"
+  },
+  "Install and Configuration": {
+    "category": "Install and Configuration",
+    "calculated_at": "2025-02-11T20:16:29",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses Agile leadership training and the importance of vision and strategic goals, with no focus on installation or configuration processes.",
+    "level": "Ignored"
+  },
+  "Code and Complexity": {
+    "category": "Code and Complexity",
+    "calculated_at": "2025-02-11T20:16:30",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses Agile leadership and Evidence-Based Management, with no clear focus on code quality or complexity in software development.",
+    "level": "Ignored"
+  },
+  "Flow Efficiency": {
+    "category": "Flow Efficiency",
+    "calculated_at": "2025-02-11T20:16:32",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Evidence-Based Management and Agile Leadership training, with no clear focus on flow efficiency principles or techniques.",
+    "level": "Ignored"
+  },
+  "AI and Automation in Agility": {
+    "category": "AI and Automation in Agility",
+    "calculated_at": "2025-02-11T20:16:33",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses Evidence-Based Management and Agile Leadership training, with no clear focus on AI or automation in Agile practices.",
+    "level": "Ignored"
+  },
+  "Product Delivery": {
+    "category": "Product Delivery",
+    "calculated_at": "2025-02-11T20:16:35",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of having a vision and strategic goals for product success, which aligns with product delivery principles. However, the primary focus is on the training course and evidence-based management rather than the end-to-end product delivery process.",
+    "level": "Ignored"
+  },
+  "Agile Product Management": {
+    "category": "Agile Product Management",
+    "calculated_at": "2025-02-11T20:16:36",
+    "ai_confidence": 70,
+    "non_ai_confidence": 30,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of evidence-based management in Agile leadership, which aligns with Agile principles and product management. However, it primarily focuses on training and leadership rather than directly addressing Agile product management practices.",
+    "level": "Secondary"
+  },
+  "Discovery and Learning": {
+    "category": "Discovery and Learning",
+    "calculated_at": "2025-02-11T20:16:38",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of evidence-based management and the need for organisations to create their own metrics, which aligns with the theme of continuous learning and adapting to new insights. However, the primary focus is on the training course and Scrum roles, making the category a secondary theme.",
+    "level": "Ignored"
+  },
+  "Systems Thinking": {
+    "category": "Systems Thinking",
+    "calculated_at": "2025-02-11T20:16:39",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on Evidence-Based Management and Agile Leadership, with limited discussion on Systems Thinking principles or applications.",
+    "level": "Ignored"
+  },
+  "Complexity Thinking": {
+    "category": "Complexity Thinking",
+    "calculated_at": "2025-02-11T20:16:40",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Evidence-Based Management and Agile Leadership training, without a clear focus on complexity science or its principles.",
+    "level": "Ignored"
+  },
+  "Transparency and Accountability": {
+    "category": "Transparency and Accountability",
+    "calculated_at": "2025-02-11T20:16:41",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of communicating a Vision and Strategic Goal within organisations, which relates to transparency. However, the primary focus is on the training course and evidence-based management rather than a deep exploration of transparency and accountability principles.",
+    "level": "Ignored"
+  },
+  "Practical Techniques and Tooling": {
+    "category": "Practical Techniques and Tooling",
+    "calculated_at": "2025-02-11T20:16:43",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the Professional Agile Leadership with Evidence-Based Management Training, which relates to practical techniques in Agile leadership and metrics. However, it primarily focuses on the training announcement rather than a detailed exploration of specific tools or methodologies.",
+    "level": "Ignored"
+  },
+  "Events and Presentations": {
+    "category": "Events and Presentations",
+    "calculated_at": "2025-02-11T20:16:44",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses a specific training event related to Agile Leadership and Evidence-Based Management, including personal experiences from attending related events, which aligns well with the category.",
+    "level": "Secondary"
+  },
+  "Market Adaptability": {
+    "category": "Market Adaptability",
+    "calculated_at": "2025-02-11T20:16:46",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of evidence-based management and metrics in relation to organisational vision and strategic goals, which are relevant to market adaptability. However, the primary focus is on the training course and its structure rather than directly addressing strategies for enhancing market adaptability.",
+    "level": "Ignored"
+  },
+  "Miscellaneous": {
+    "category": "Miscellaneous",
+    "calculated_at": "2025-02-11T20:16:47",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Evidence-Based Management and its application within Scrum, which directly references Agile principles and frameworks.",
+    "level": "Ignored"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "calculated_at": "2025-02-11T20:16:49",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile leadership and Evidence-Based Management, which are not central to DevOps principles.",
     "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
+    "calculated_at": "2025-02-11T20:16:50",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses Agile leadership and Evidence-Based Management training, with no clear focus on Azure DevOps or its related tools.",
+    "reasoning": "Content heavily discusses Agile leadership and Evidence-Based Management, with no mention of Azure DevOps or its functionalities.",
+    "level": "Ignored"
+  },
+  "Products and Books": {
+    "category": "Products and Books",
+    "calculated_at": "2025-02-11T20:16:52",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses a specific training course related to Evidence-Based Management, which is a product aimed at enhancing Agile leadership. It provides insights into the course's objectives, value propositions, and its relevance to Agile methodologies, making it a significant topic within the category.",
+    "level": "Secondary"
+  },
+  "Business Agility": {
+    "category": "Business Agility",
+    "calculated_at": "2025-02-11T20:16:53",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of having a vision and strategic goals for success, which aligns with the principles of business agility. However, the primary focus is on the Professional Agile Leadership with Evidence-Based Management Training, making business agility a secondary theme.",
     "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
+    "calculated_at": "2025-02-11T20:16:55",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses Evidence-Based Management and Agile Leadership training, with no clear focus on Kanban principles or practices.",
+    "reasoning": "Content primarily discusses Evidence-Based Management and Agile Leadership, with a focus on Scrum, rather than Kanban principles or practices.",
     "level": "Ignored"
+  },
+  "Value Delivery": {
+    "category": "Value Delivery",
+    "calculated_at": "2025-02-11T20:16:56",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses Evidence-Based Management (EBM) in the context of Agile leadership, focusing on how to measure success and connect organisational vision with employee contributions, which aligns closely with value delivery principles.",
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
+    "calculated_at": "2025-02-11T20:16:58",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Evidence-Based Management and Agile Leadership, which are not directly related to engineering practices or methodologies that enhance technical excellence.",
+    "level": "Ignored"
+  },
+  "Scaling Agility": {
+    "category": "Scaling Agility",
+    "calculated_at": "2025-02-11T20:16:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Evidence-Based Management and Agile Leadership training, without a clear focus on scaling Agile practices across multiple teams or organisational structures.",
+    "level": "Ignored"
+  },
+  "Organisational Agility": {
+    "category": "Organisational Agility",
+    "calculated_at": "2025-02-11T20:17:00",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the importance of evidence-based management and metrics in Agile leadership, which relates to engineering practices that enable agility, but it is primarily focused on training and leadership rather than technical practices themselves.",
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of evidence-based management and the need for a clear vision and strategic goals, which are relevant to organisational agility. However, the primary focus is on the training course rather than a comprehensive exploration of agility principles.",
+    "level": "Ignored"
+  },
+  "Personal": {
+    "category": "Personal",
+    "calculated_at": "2025-02-11T20:17:02",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content includes personal reflections on experiences with Evidence-Based Management and Agile leadership training, but it primarily focuses on the announcement of a training course rather than personal anecdotes or insights.",
+    "level": "Ignored"
+  },
+  "People and Process": {
+    "category": "People and Process",
+    "calculated_at": "2025-02-11T20:17:03",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the importance of leadership, communication of vision and strategic goals, and the role of evidence-based management in enhancing team dynamics and organisational success, which aligns closely with the themes of the 'People and Process' category.",
+    "level": "Secondary"
+  },
+  "Sociotechnical Systems": {
+    "category": "Sociotechnical Systems",
+    "calculated_at": "2025-02-11T20:17:05",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of organisational vision and strategic goals in relation to employee engagement and success, which aligns with sociotechnical principles. However, the primary focus is on the training course and its details, making the sociotechnical aspect a secondary theme.",
+    "level": "Ignored"
+  },
+  "News and Reviews": {
+    "category": "News and Reviews",
+    "calculated_at": "2025-02-11T20:17:06",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the announcement of a new training course related to Agile leadership and Evidence-Based Management, which aligns with industry updates and reviews pertinent to Agile practices.",
+    "level": "Secondary"
+  },
+  "Metrics and Learning": {
+    "category": "Metrics and Learning",
+    "calculated_at": "2025-02-11T20:17:07",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses Evidence-Based Management and the importance of metrics in decision-making, aligning closely with the principles of metrics and learning in Agile and DevOps environments.",
+    "level": "Secondary"
+  },
+  "Application Lifecycle Management": {
+    "category": "Application Lifecycle Management",
+    "calculated_at": "2025-02-11T20:17:08",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily focuses on Agile leadership and Evidence-Based Management, with no direct discussion on the application lifecycle stages or management practices.",
+    "level": "Ignored"
+  },
+  "Value Stream Management": {
+    "category": "Value Stream Management",
+    "calculated_at": "2025-02-11T20:17:09",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses Evidence-Based Management, which relates to measuring success and aligning organisational goals with customer value, but it primarily focuses on Agile leadership and Scrum practices.",
+    "level": "Ignored"
+  },
+  "Organisational Psychology": {
+    "category": "Organisational Psychology",
+    "calculated_at": "2025-02-11T20:17:11",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of vision and strategic goals in organisations, which relates to employee engagement and motivation. However, the primary focus is on Agile leadership and evidence-based management, making organisational psychology a secondary theme.",
     "level": "Ignored"
   }
 }
