@@ -42,7 +42,6 @@ $classes | ForEach-Object {
             # Update the description in the front matter
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'description' -fieldValue $description -addAfter 'title' 
         }
-        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'date' -fieldValue (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ") -addAfter 'title' 
         if (-not $hugoMarkdown.FrontMatter.Instructions) {
             # Generate a new Instructions using OpenAI
             $prompt = @"
@@ -75,9 +74,8 @@ $classes | ForEach-Object {
             $Instructions = Get-OpenAIResponse -Prompt $prompt
             # Update the description in the front matter
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'Instructions' -fieldValue $Instructions -addAfter 'description' -Overwrite
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'date' -fieldValue (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ") -addAfter 'title' 
         }       
-
-      
         # =================COMPLETE===================
         Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $markdownFile
     }
