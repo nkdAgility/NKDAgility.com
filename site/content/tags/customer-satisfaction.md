@@ -1,7 +1,23 @@
 ---
 title: Customer Satisfaction
 description: Measuring and enhancing customer happiness to ensure product-market fit.
-Instructions: Please ensure that the 'Customer Satisfaction' category/tag is exclusively applied to content that focuses on measuring and enhancing customer happiness to ensure product-market fit.
+Instructions: |-
+  **Use this category only for discussions on Customer Satisfaction.**  
+  The purpose of this category is to explore the principles and practices that focus on measuring and enhancing customer happiness, ensuring alignment with product-market fit. It encompasses strategies and methodologies that aim to understand customer needs and improve their overall experience with products and services.
+
+  **Key Topics:**
+  - Definition and importance of customer satisfaction in Agile and DevOps contexts.
+  - Techniques for measuring customer satisfaction (e.g., surveys, Net Promoter Score).
+  - The role of customer feedback in iterative development and continuous improvement.
+  - Strategies for enhancing customer engagement and loyalty.
+  - Case studies demonstrating successful customer satisfaction initiatives.
+  - The impact of customer satisfaction on business agility and product success.
+  - Alignment of customer satisfaction metrics with Agile and Lean principles.
+
+  **Strictly exclude:**
+  - Discussions unrelated to customer experience, such as technical implementation details without customer context.
+  - Misinterpretations of customer satisfaction as solely a marketing function, rather than a holistic approach integrated into Agile and DevOps practices.
+  - Content that does not reference established theories or practices from the Agile, Lean, or DevOps frameworks.
 
 ---
 

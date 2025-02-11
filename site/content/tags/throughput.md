@@ -1,7 +1,21 @@
 ---
 title: Throughput
 description: Measuring the rate at which work items are completed in a given time frame.
-Instructions: Please ensure that the category/tag 'Throughput' is only applied to content specifically related to measuring the rate at which work items are completed in a given time frame.
+Instructions: |-
+  **Use this category only for discussions on Throughput.**  
+  Throughput refers to the measurement of the rate at which work items are completed within a specified time frame. This category focuses on understanding and optimising the flow of work in Agile, DevOps, and Lean environments, emphasising the importance of delivering value efficiently.
+
+  **Key Topics:**
+  - Definition and significance of throughput in Agile and DevOps contexts.
+  - Techniques for measuring throughput, including cycle time and lead time.
+  - The impact of throughput on team performance and delivery timelines.
+  - Strategies for improving throughput, such as limiting work in progress (WIP) and optimising workflows.
+  - The relationship between throughput and other metrics, such as velocity and capacity.
+  - Case studies or examples illustrating throughput improvements in real-world scenarios.
+  - Tools and practices that support the measurement and enhancement of throughput.
+
+  **Strictly exclude:**  
+  Discussions unrelated to the measurement and optimisation of work completion rates, such as general project management practices, unrelated Agile methodologies, or non-technical topics. Misinterpretations of throughput that do not align with its definition in the context of Agile, DevOps, and Lean philosophies should also be excluded.
 
 ---
 

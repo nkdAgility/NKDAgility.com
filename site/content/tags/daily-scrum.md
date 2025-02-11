@@ -1,5 +1,23 @@
 ---
 title: Daily Scrum
 description: Maximise team alignment and adaptability with the Daily Scrum. Inspect progress, adapt plans, and ensure focus on the Sprint Goal.
-Instructions: Use this category only for discussions on the Daily Scrum, defined as the daily meeting by the Developers and for the Developers to plan the next 24 hours. Topics should focus on practices, common pitfalls, facilitation techniques, and ensuring the event remains a valuable inspection and adaptation opportunity. Discussions should emphasise how the Daily Scrum enables transparency, collaboration, and progress toward the Sprint Goal.
+Instructions: |-
+  **Use this category only for discussions on Daily Scrum.**  
+  The Daily Scrum is a key event in the Scrum framework designed to enhance team alignment and adaptability. Its primary purpose is to facilitate a daily inspection of progress towards the Sprint Goal, allowing the team to adapt their plans and maintain focus on their objectives.
+
+  **Key Topics:**
+  - The structure and time-boxing of the Daily Scrum (typically 15 minutes).
+  - The roles and responsibilities of team members during the Daily Scrum.
+  - Techniques for effective communication and collaboration during the meeting.
+  - The importance of transparency and accountability in tracking progress.
+  - Strategies for addressing impediments and fostering team synergy.
+  - The relationship between the Daily Scrum and other Scrum events (Sprint Planning, Sprint Review, and Sprint Retrospective).
+  - Best practices for remote or hybrid teams to conduct effective Daily Scrums.
+
+  **Strictly exclude:**
+  - Discussions unrelated to the Scrum framework or the Daily Scrum event.
+  - Misinterpretations of the Daily Scrum's purpose, such as using it for status reporting to stakeholders.
+  - Content that focuses on Agile principles without specific reference to the Daily Scrum.
+
 ---
+
