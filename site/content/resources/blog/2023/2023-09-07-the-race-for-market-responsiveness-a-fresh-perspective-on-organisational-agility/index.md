@@ -27,7 +27,10 @@ aliasesFor404:
 - /blog/the-race-for-market-responsiveness--a-fresh-perspective-on-organisational-agility
 - /resources/blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
 tags: []
-categories: []
+categories:
+- Enterprise Agility
+- Organisational Agility
+- Resilience and Change
 preview: naked-agility-technically-survivalisoptional-1-1.jpg
 
 ---

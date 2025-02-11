@@ -22,12 +22,11 @@ aliasesFor404:
 - /deciphering-the-enigma-of-story-points-across-teams
 - /blog/deciphering-the-enigma-of-story-points-across-teams
 - /resources/blog/deciphering-the-enigma-of-story-points-across-teams
-tags:
-- Scaling Scrum
+tags: []
 categories:
-- Kanban
-- Scrum
-- Technical Excellence
+- Agile Product Management
+- Metrics and Learning
+- Value Delivery
 preview: naked-agility-technically-flow-not-velocity-5-5.jpg
 
 ---

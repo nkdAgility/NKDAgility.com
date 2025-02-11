@@ -28,7 +28,9 @@ aliasesFor404:
 - /resources/blog/rethinking-user-stories-a-call-for-clarity-in-product-backlog-management
 tags: []
 categories:
-- Scrum
+- Agile Product Management
+- People and Process
+- Transparency and Accountability
 preview: naked-agility-technically-rethinkinguserstories-1-1-1.jpg
 
 ---

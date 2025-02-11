@@ -26,12 +26,11 @@ aliasesFor404:
 - /the-definition-of-done--ensuring-quality-without-compromising-value
 - /blog/the-definition-of-done--ensuring-quality-without-compromising-value
 - /resources/blog/the-definition-of-done-ensuring-quality-without-compromising-value
-tags:
-- Value Delivery
+tags: []
 categories:
 - Product Delivery
-- Scrum
 - Transparency and Accountability
+- Value Delivery
 preview: NKDAgility-technically-DOD-Not-AC-3-1-1-1.jpg
 
 ---

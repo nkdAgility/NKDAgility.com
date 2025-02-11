@@ -26,11 +26,11 @@ aliasesFor404:
 - /sculpting-the-product-backlog--a-delicate-balance-between-lean-inventory-and-future-readiness
 - /blog/sculpting-the-product-backlog--a-delicate-balance-between-lean-inventory-and-future-readiness
 - /resources/blog/sculpting-the-product-backlog-a-delicate-balance-between-lean-inventory-and-future-readiness
-tags:
-- Value Delivery
+tags: []
 categories:
-- Product Delivery
-- Scrum
+- Agile Product Management
+- Lean
+- Products and Books
 preview: image-1.jpg
 
 ---

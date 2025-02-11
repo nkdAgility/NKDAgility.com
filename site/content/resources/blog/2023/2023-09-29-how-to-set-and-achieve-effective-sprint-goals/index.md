@@ -29,7 +29,7 @@ tags: []
 categories:
 - Agile Product Management
 - Product Delivery
-- Scrum
+- Value Delivery
 preview: NKDAgility-technically-SetEffectiveSprintGoals-1-1.jpg
 
 ---
