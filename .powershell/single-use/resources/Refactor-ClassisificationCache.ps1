@@ -17,12 +17,17 @@ $resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md"  | Sort
 
 $ClassificationType = "tags"
 
+$catalogCategories = Get-CatalogHashtable -Classification "categories"
+$catalogTags = Get-CatalogHashtable -Classification "tags"
+
+$duplicateKeys = $catalogCategories.Keys | Where-Object { $catalogTags.ContainsKey($_) } | Sort-Object { $_ } 
+
 switch ($ClassificationType) {
     "categories" {
-        $catalog = Get-CatalogHashtable -Classification "categories"
+        $catalog = $catalogCategories
     }
     "tags" {
-        $catalog = Get-CatalogHashtable -Classification "tags"
+        $catalog = $catalogTags
     }
     default {
         Write-Error "Invalid ClassificationType: $ClassificationType"
@@ -30,7 +35,7 @@ switch ($ClassificationType) {
     }
 }
 
-$keysToRemove = (Get-CatalogHashtable -Classification "categories").keys | Where-Object { $_ -notin (Get-CatalogHashtable -Classification "tags").keys }
+
 
 
 # Initialize a hash table to track counts of each ResourceType
