@@ -26,9 +26,11 @@ aliasesFor404:
 - /the-urgent-call-for-agile-organisational-transformation
 - /blog/the-urgent-call-for-agile-organisational-transformation
 - /resources/blog/alpha-to-beta-the-urgent-call-for-agile-organisational-transformation
-tags:
-- Featured
-categories: []
+tags: []
+categories:
+- Business Agility
+- Enterprise Agility
+- Organisational Agility
 preview: 1686217267121-1-1-1.jpg
 
 ---

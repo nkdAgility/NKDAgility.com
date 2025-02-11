@@ -22,10 +22,11 @@ aliasesFor404:
 - /navigating-the-future-with-a-fine-tuned-product-backlog
 - /blog/navigating-the-future-with-a-fine-tuned-product-backlog
 - /resources/blog/navigating-the-future-with-a-fine-tuned-product-backlog
-tags:
-- Product Owner
+tags: []
 categories:
-- Scrum
+- Agile Product Management
+- Product Delivery
+- Value Delivery
 preview: naked-agility-technically-NavigatingtheFuturewithaFine-TunedProductBacklog-1-1.jpg
 
 ---

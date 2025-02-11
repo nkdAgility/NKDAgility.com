@@ -22,11 +22,11 @@ aliasesFor404:
 - /how-usable-working-products-are-your-ultimate-weapon-against-risks
 - /blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
 - /resources/blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
-tags:
-- Agile Product Validation
+tags: []
 categories:
-- DevOps
-- Technical Excellence
+- Agile Product Management
+- Market Adaptability
+- Value Delivery
 preview: image-1.jpg
 
 ---

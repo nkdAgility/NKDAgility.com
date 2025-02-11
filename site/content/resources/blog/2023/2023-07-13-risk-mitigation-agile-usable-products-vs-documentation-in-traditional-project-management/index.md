@@ -26,12 +26,11 @@ aliasesFor404:
 - /risk-mitigation--agile-usable-products-vs-documentation-in-traditional-project-management
 - /blog/risk-mitigation--agile-usable-products-vs-documentation-in-traditional-project-management
 - /resources/blog/risk-mitigation-agile-usable-products-vs-documentation-in-traditional-project-management
-tags:
-- Team Collaboration
+tags: []
 categories:
-- DevOps
-- Scrum
-- Technical Excellence
+- Agile Product Management
+- Market Adaptability
+- Product Delivery
 preview: image-1.jpg
 
 ---

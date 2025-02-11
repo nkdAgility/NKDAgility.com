@@ -1,34 +1,317 @@
 {
+  "Decision Theory": {
+    "category": "Decision Theory",
+    "calculated_at": "2025-02-11T18:57:56",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses risk mitigation strategies in Agile versus traditional project management, which relates to decision-making processes. However, the primary focus is on Agile methodologies and documentation rather than a deep exploration of decision theory principles.",
+    "level": "Ignored"
+  },
+  "Enterprise Agility": {
+    "category": "Enterprise Agility",
+    "calculated_at": "2025-02-11T18:57:58",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses Agile methodologies and their advantages over traditional project management, highlighting themes of adaptability and continuous improvement, which are relevant to enterprise agility. However, the primary focus remains on team-level practices rather than broader organisational implications.",
+    "level": "Ignored"
+  },
+  "Lean": {
+    "category": "Lean",
+    "calculated_at": "2025-02-11T18:58:00",
+    "ai_confidence": 0,
+    "non_ai_confidence": 30,
+    "final_score": 3.0,
+    "reasoning": "Content heavily discusses Agile methodologies and traditional project management without a clear focus on Lean principles or practices.",
+    "level": "Ignored"
+  },
+  "Resilience and Change": {
+    "category": "Resilience and Change",
+    "calculated_at": "2025-02-11T18:58:01",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses Agile methodologies and their adaptability in response to changing environments, which aligns with the theme of resilience and change. However, the primary focus is on comparing Agile and traditional project management rather than a deep exploration of resilience strategies.",
+    "level": "Ignored"
+  },
+  "Install and Configuration": {
+    "category": "Install and Configuration",
+    "calculated_at": "2025-02-11T18:58:02",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the comparison between Agile methodologies and traditional project management, focusing on risk mitigation strategies rather than installation or configuration processes.",
+    "level": "Ignored"
+  },
+  "Code and Complexity": {
+    "category": "Code and Complexity",
+    "calculated_at": "2025-02-11T18:58:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses Agile methodologies and traditional project management strategies, with a focus on risk mitigation rather than the interplay between code quality and complexity.",
+    "level": "Ignored"
+  },
+  "Flow Efficiency": {
+    "category": "Flow Efficiency",
+    "calculated_at": "2025-02-11T18:58:05",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the comparison between Agile methodologies and traditional project management, focusing on risk mitigation through usable products versus documentation, without a clear emphasis on flow efficiency principles or techniques.",
+    "level": "Ignored"
+  },
+  "AI and Automation in Agility": {
+    "category": "AI and Automation in Agility",
+    "calculated_at": "2025-02-11T18:58:07",
+    "ai_confidence": 0,
+    "non_ai_confidence": 30,
+    "final_score": 3.0,
+    "reasoning": "Content primarily discusses the comparison between Agile methodologies and traditional project management, focusing on risk mitigation through usable products versus documentation, without any mention of AI or automation.",
+    "level": "Ignored"
+  },
+  "Product Delivery": {
+    "category": "Product Delivery",
+    "calculated_at": "2025-02-11T18:58:08",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses Agile methodologies and their role in product delivery, focusing on the importance of delivering usable working products and the comparison with traditional project management practices.",
+    "level": "Secondary"
+  },
+  "Agile Product Management": {
+    "category": "Agile Product Management",
+    "calculated_at": "2025-02-11T18:58:10",
+    "ai_confidence": 80,
+    "non_ai_confidence": 30,
+    "final_score": 75.0,
+    "reasoning": "Content primarily discusses Agile methodologies, particularly the emphasis on usable working products and continuous validation, while contrasting these with traditional project management practices. It highlights key Agile principles relevant to product management.",
+    "level": "Secondary"
+  },
+  "Discovery and Learning": {
+    "category": "Discovery and Learning",
+    "calculated_at": "2025-02-11T18:58:12",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses Agile methodologies and their emphasis on continuous validation and adaptation, which aligns with the principles of discovery and learning. However, the primary focus is on comparing Agile and traditional project management rather than exploring discovery and learning processes in depth.",
+    "level": "Ignored"
+  },
+  "Systems Thinking": {
+    "category": "Systems Thinking",
+    "calculated_at": "2025-02-11T18:58:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Agile methodologies and traditional project management, focusing on risk mitigation strategies rather than Systems Thinking principles or interconnectedness within organisational dynamics.",
+    "level": "Ignored"
+  },
+  "Complexity Thinking": {
+    "category": "Complexity Thinking",
+    "calculated_at": "2025-02-11T18:58:15",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Agile methodologies and their adaptive nature, which relates to complexity thinking, but the primary focus is on comparing Agile and traditional project management rather than a deep exploration of complexity science principles.",
+    "level": "Ignored"
+  },
+  "Transparency and Accountability": {
+    "category": "Transparency and Accountability",
+    "calculated_at": "2025-02-11T18:58:16",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the importance of transparency in Agile methodologies and how it fosters trust and collaboration among team members, making it a significant theme, though not the primary focus.",
+    "level": "Ignored"
+  },
+  "Practical Techniques and Tooling": {
+    "category": "Practical Techniques and Tooling",
+    "calculated_at": "2025-02-11T18:58:18",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses Agile methodologies and their practical application in risk mitigation, particularly focusing on usable working products versus documentation. However, it primarily contrasts Agile and traditional project management without delving deeply into specific tools or methodologies, making it a secondary theme rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "Events and Presentations": {
+    "category": "Events and Presentations",
+    "calculated_at": "2025-02-11T18:58:19",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the comparison between Agile methodologies and traditional project management, without reference to specific events, presentations, or discussions.",
+    "level": "Ignored"
+  },
+  "Market Adaptability": {
+    "category": "Market Adaptability",
+    "calculated_at": "2025-02-11T18:58:21",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses Agile methodologies and their role in enhancing responsiveness to market changes, particularly through the delivery of usable working products and continuous validation. It contrasts this with traditional project management, highlighting the importance of adaptability in a dynamic environment.",
+    "level": "Secondary"
+  },
+  "Miscellaneous": {
+    "category": "Miscellaneous",
+    "calculated_at": "2025-02-11T18:58:22",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile methodologies and compares them with traditional project management, specifically focusing on Scrum and Waterfall principles.",
+    "level": "Ignored"
+  },
   "DevOps": {
     "category": "DevOps",
-    "ai_confidence": 80,
+    "calculated_at": "2025-02-11T18:58:23",
+    "ai_confidence": 50,
     "non_ai_confidence": 50,
-    "final_score": 71.0,
-    "reasoning": "Content primarily discusses Agile methodologies and their relationship with DevOps practices, focusing on continuous delivery and adaptation, which are central to the DevOps philosophy.",
+    "final_score": 50.0,
+    "reasoning": "The content discusses Agile methodologies and mentions DevOps practices in the context of continuous integration and deployment, but the primary focus is on comparing Agile and traditional project management rather than on DevOps itself.",
     "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "ai_confidence": 50,
+    "calculated_at": "2025-02-11T18:58:24",
+    "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses Agile methodologies and DevOps practices, indicating a significant focus on software development processes, but it primarily centres on the comparison between Agile and traditional project management rather than Azure DevOps specifically.",
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Agile methodologies and traditional project management without specific reference to Azure DevOps services or tools.",
     "level": "Ignored"
+  },
+  "Products and Books": {
+    "category": "Products and Books",
+    "calculated_at": "2025-02-11T18:58:26",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses Agile methodologies and traditional project management, focusing on the comparison of usable working products and documentation. While it touches on Agile principles, it does not primarily review or analyse specific products or literature, making it a secondary theme.",
+    "level": "Ignored"
+  },
+  "Business Agility": {
+    "category": "Business Agility",
+    "calculated_at": "2025-02-11T18:58:27",
+    "ai_confidence": 70,
+    "non_ai_confidence": 20,
+    "final_score": 65.0,
+    "reasoning": "The content discusses Agile methodologies and their advantages in adapting to market changes, which aligns with the principles of business agility. However, it also focuses significantly on traditional project management, making business agility a major but secondary theme.",
+    "level": "Secondary"
   },
   "Kanban": {
     "category": "Kanban",
+    "calculated_at": "2025-02-11T18:58:29",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses Agile methodologies and contrasts them with traditional project management, without a clear focus on Kanban principles or practices.",
+    "reasoning": "Content primarily discusses Agile methodologies, particularly Scrum, and contrasts them with traditional project management, without a focus on Kanban principles or practices.",
     "level": "Ignored"
+  },
+  "Value Delivery": {
+    "category": "Value Delivery",
+    "calculated_at": "2025-02-11T18:58:30",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses Agile methodologies and their focus on delivering working products incrementally, which aligns closely with the principles of value delivery. It contrasts this with traditional project management, highlighting the importance of customer feedback and adaptation, which are key aspects of delivering value.",
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
+    "calculated_at": "2025-02-11T18:58:32",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses Agile methodologies and their impact on risk mitigation and product development, which relates to technical practices. However, the primary focus is on comparing Agile and traditional project management rather than on specific engineering practices or methodologies that enhance technical excellence.",
+    "level": "Ignored"
+  },
+  "Scaling Agility": {
+    "category": "Scaling Agility",
+    "calculated_at": "2025-02-11T18:58:33",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the comparison between Agile methodologies and traditional project management, focusing on risk mitigation and the value of working products versus documentation, without addressing scaling Agile practices across multiple teams or organisational structures.",
+    "level": "Ignored"
+  },
+  "Organisational Agility": {
+    "category": "Organisational Agility",
+    "calculated_at": "2025-02-11T18:58:35",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses Agile methodologies, focusing on the importance of working products and continuous integration, which are central to technical excellence in engineering practices.",
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses Agile methodologies and their advantages in fostering adaptability and responsiveness in product development, contrasting them with traditional project management approaches. It highlights principles of Agile that enhance organisational agility, such as continuous validation, adaptation, and the importance of working products over exhaustive documentation.",
     "level": "Secondary"
+  },
+  "Personal": {
+    "category": "Personal",
+    "calculated_at": "2025-02-11T18:58:37",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the comparison between Agile methodologies and traditional project management, focusing on risk mitigation strategies rather than personal experiences or insights.",
+    "level": "Ignored"
+  },
+  "People and Process": {
+    "category": "People and Process",
+    "calculated_at": "2025-02-11T18:58:39",
+    "ai_confidence": 70,
+    "non_ai_confidence": 10,
+    "final_score": 64.0,
+    "reasoning": "The content discusses Agile methodologies and their emphasis on team collaboration, discipline, and transparency, which are key aspects of the interplay between people and processes. However, the primary focus is on comparing Agile and traditional project management strategies rather than a deep exploration of team dynamics or human factors.",
+    "level": "Secondary"
+  },
+  "Sociotechnical Systems": {
+    "category": "Sociotechnical Systems",
+    "calculated_at": "2025-02-11T18:58:40",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Agile methodologies and traditional project management, touching on team dynamics, collaboration, and the balance between documentation and working products. However, it primarily focuses on methodologies rather than the broader sociotechnical interactions within organisations.",
+    "level": "Ignored"
+  },
+  "News and Reviews": {
+    "category": "News and Reviews",
+    "calculated_at": "2025-02-11T18:58:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the comparison between Agile methodologies and traditional project management, focusing on risk mitigation strategies rather than providing news or reviews.",
+    "level": "Ignored"
+  },
+  "Metrics and Learning": {
+    "category": "Metrics and Learning",
+    "calculated_at": "2025-02-11T18:58:43",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the comparison between Agile methodologies and traditional project management, focusing on risk mitigation strategies rather than metrics or learning processes.",
+    "level": "Ignored"
+  },
+  "Application Lifecycle Management": {
+    "category": "Application Lifecycle Management",
+    "calculated_at": "2025-02-11T18:58:44",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses Agile methodologies and traditional project management, focusing on risk mitigation strategies rather than the comprehensive management of the application lifecycle.",
+    "level": "Ignored"
+  },
+  "Value Stream Management": {
+    "category": "Value Stream Management",
+    "calculated_at": "2025-02-11T18:58:46",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Agile methodologies and traditional project management practices, with no clear focus on Value Stream Management principles or techniques.",
+    "level": "Ignored"
+  },
+  "Organisational Psychology": {
+    "category": "Organisational Psychology",
+    "calculated_at": "2025-02-11T18:58:47",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile methodologies and traditional project management strategies, focusing on risk mitigation and documentation rather than psychological principles or theories related to organisational behaviour.",
+    "level": "Ignored"
   }
 }

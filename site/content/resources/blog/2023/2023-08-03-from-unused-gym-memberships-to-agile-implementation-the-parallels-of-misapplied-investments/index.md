@@ -22,12 +22,11 @@ aliasesFor404:
 - /from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
 - /blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
 - /resources/blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
-tags:
-- Systems Thinking
+tags: []
 categories:
-- DevOps
-- Scrum
-- Technical Excellence
+- Agile Product Management
+- Organisational Agility
+- People and Process
 preview: naked-agility-technically-agile-gym-membership-Agile-1-1.jpg
 
 ---

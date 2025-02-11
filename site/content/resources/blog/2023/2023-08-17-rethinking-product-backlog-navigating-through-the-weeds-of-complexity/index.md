@@ -26,11 +26,11 @@ aliasesFor404:
 - /rethinking-product-backlog--navigating-through-the-weeds-of-complexity
 - /blog/rethinking-product-backlog--navigating-through-the-weeds-of-complexity
 - /resources/blog/rethinking-product-backlog-navigating-through-the-weeds-of-complexity
-tags:
-- Pragmatic Thinking
+tags: []
 categories:
-- Scrum
-- Technical Excellence
+- Agile Product Management
+- Discovery and Learning
+- Resilience and Change
 preview: image-1.jpg
 
 ---
