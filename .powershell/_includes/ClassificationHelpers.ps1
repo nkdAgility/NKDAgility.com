@@ -77,7 +77,7 @@ function Get-CategoryConfidenceWithChecksum {
         if ($cachedData.PSObject.Properties[$category]) {            
             $cachedCategory = $cachedData.$category
             # If the cache is up to date, skip the API call
-            if (([DateTimeOffset]$cachedCategory.calculated_at) -gt ([DateTimeOffset]$Catalog[$category].date)) {
+            if (($cachedCategory.calculated_at) -and (([DateTimeOffset]$cachedCategory.calculated_at) -gt ([DateTimeOffset]$Catalog[$category].date))) {
                 # Recalculate final_score and level
                 $finalScore = [math]::Round(($cachedCategory.ai_confidence * 0.9) + ($cachedCategory.non_ai_confidence * 0.1))
                 $level = if ($finalScore -ge 80) { "Primary" } elseif ($finalScore -ge 50) { "Secondary" } else { "Ignored" }
@@ -98,7 +98,11 @@ function Get-CategoryConfidenceWithChecksum {
             }           
         }
         $prompt = @"
-You are an AI expert in content classification. Evaluate how well the given content aligns with the category **"$category"**. With that classification meaning "$($Catalog[$category].Instructions)"
+You are an AI expert in content classification. Evaluate how well the given content aligns with the category **"$category"**. 
+
+With that classification meaning:
+
+"$($Catalog[$category].Instructions)"
 
 Rules:
 1. **Only classify the content into this category if it is a clear, primary topic.**

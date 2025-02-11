@@ -25,15 +25,15 @@ tags:
 - Agile Frameworks
 - Agile Philosophy
 - Agile Project Management
-- Agile Strategy
 - Agile Transformation
 - Continuous Delivery
 - Customer Feedback Loops
+- Deployment Frequency
+- Evidence Based Management
 - Frequent Releases
 - Increment
 - Product Validation
 - Scrum Product Development
-- Software Developers
 - Software Development
 - Transparency
 - Working Software
