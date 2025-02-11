@@ -14,11 +14,7 @@ function Get-CatalogHashtable {
 
     # Loop through each object and store the Title-Description pair in the hashtable
     foreach ($markdownMeta in $catalog) {
-        $instructions = $markdownMeta.FrontMatter.Instructions
-        if ($instructions -eq $null) {
-            $instructions = $markdownMeta.FrontMatter.Description
-        }
-        $catalogHash[$markdownMeta.FrontMatter.Title] = $instructions
+        $catalogHash[$markdownMeta.FrontMatter.Title] = $markdownMeta.FrontMatter
     }
 
     return $catalogHash
@@ -53,16 +49,18 @@ function Get-CategoryConfidenceWithChecksum {
     $cachedData = @{}
     if (Test-Path $cacheFile) {
         try {
-            Write-InfoLog "Load Cache"
             $cachedData = Get-Content $cacheFile | ConvertFrom-Json -ErrorAction Stop
-            Write-DebugLog "     Loaded: $(($cachedData.PSObject.Properties.Count | Measure-Object).count) items"
+            Write-DebugLog "Load Cache: $(($cachedData.PSObject.Properties.Count | Measure-Object).count) items"
             $keysToRemove = $cachedData.PSObject.Properties.Name | Where-Object { $_ -notin $catalog.Keys }
-            Write-DebugLog "     Remove: $($keysToRemove.Count) items not found in catalog"
-            foreach ($key in $keysToRemove) {
-                $cachedData.PSObject.Properties.Remove($key)
+            if ( $keysToRemove.Count -gt 0) {
+                # If there are keys to remove, remove them and update the cache
+                Write-DebugLog "     Remove: $($keysToRemove.Count) items not found in catalog"
+                foreach ($key in $keysToRemove) {
+                    $cachedData.PSObject.Properties.Remove($key)
+                }
+                Write-DebugLog "     After: $(($cachedData.PSObject.Properties.Count | Measure-Object).count) items"
+                $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
             }
-            Write-DebugLog "     After: $(($cachedData.PSObject.Properties.Count | Measure-Object).count) items"
-            $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
         }
         catch {
             Write-WarningLog "Warning: Cache file corrupted. Resetting cache."
@@ -78,27 +76,29 @@ function Get-CategoryConfidenceWithChecksum {
         $count++
         if ($cachedData.PSObject.Properties[$category]) {            
             $cachedCategory = $cachedData.$category
+            # If the cache is up to date, skip the API call
+            if (([DateTimeOffset]$cachedCategory.calculated_at) -gt ([DateTimeOffset]$Catalog[$category].date)) {
+                # Recalculate final_score and level
+                $finalScore = [math]::Round(($cachedCategory.ai_confidence * 0.9) + ($cachedCategory.non_ai_confidence * 0.1))
+                $level = if ($finalScore -ge 80) { "Primary" } elseif ($finalScore -ge 50) { "Secondary" } else { "Ignored" }
             
-            # Recalculate final_score and level
-            $finalScore = [math]::Round(($cachedCategory.ai_confidence * 0.9) + ($cachedCategory.non_ai_confidence * 0.1))
-            $level = if ($finalScore -ge 80) { "Primary" } elseif ($finalScore -ge 50) { "Secondary" } else { "Ignored" }
-            
-            if ($cachedCategory.final_score -ne $finalScore -or $cachedCategory.level -ne $level) {
-                $cachedCategory.final_score = $finalScore
-                $cachedCategory.level = $level
-                $cachedCategory.calculated_at = (Get-Date).ToUniversalTime().ToString("s")
+                if ($cachedCategory.final_score -ne $finalScore -or $cachedCategory.level -ne $level) {
+                    $cachedCategory.final_score = $finalScore
+                    $cachedCategory.level = $level
+                    $cachedCategory.calculated_at = (Get-Date).ToUniversalTime().ToString("s")
                 
-                # Update cache
-                $cachedData.$category = $cachedCategory
-                $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
-                Write-DebugLog "Updated cache for $category"    
-            }
+                    # Update cache
+                    $cachedData.$category = $cachedCategory
+                    $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
+                    Write-DebugLog "Updated cache for $category"    
+                }
             
-            $categoryScores[$category] = $cachedCategory
-            continue
+                $categoryScores[$category] = $cachedCategory
+                continue
+            }           
         }
         $prompt = @"
-You are an AI expert in content classification. Evaluate how well the given content aligns with the category **"$category"**. With that classification meaning "$($Catalog[$category])"
+You are an AI expert in content classification. Evaluate how well the given content aligns with the category **"$category"**. With that classification meaning "$($Catalog[$category].Instructions)"
 
 Rules:
 1. **Only classify the content into this category if it is a clear, primary topic.**
