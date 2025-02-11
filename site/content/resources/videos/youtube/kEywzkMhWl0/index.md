@@ -29,16 +29,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Master
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- People and Process
-- Organisational Agility
-- Discovery and Learning
-- Resilience and Change
+categories: []
 
 ---
 **1 critical skill for a Scrum Master and why?**

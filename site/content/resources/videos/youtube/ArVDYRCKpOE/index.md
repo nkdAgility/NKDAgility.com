@@ -27,26 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Team Collaboration
-- Continuous Learning
-- Team Motivation
-- Agile Values and Principles
-- Change Management
-- Organisational Culture
-- Agile Transformation
-- Employee Engagement
-- Psychological Safety
-- Discovery and Learning
-- Agile Methodology
-- Lean Principles
-- Technical Mastery
+tags: []
 resourceTypes:
 - video
-categories:
-- People and Process
-- Organisational Psychology
-- Discovery and Learning
+categories: []
 
 ---
 ## Navigating its Limits in Agile Work Environments 

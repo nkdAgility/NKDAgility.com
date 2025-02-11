@@ -27,18 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- DevOps
-- Agile Coaching
-- Technical Excellence
+tags: []
 resourceTypes:
 - video
-categories:
-- DevOps
-- Continuous Delivery
-- People and Process
-- Value Delivery
-- Lean
+categories: []
 
 ---
 **What is Your Peeve in DevOps**

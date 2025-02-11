@@ -29,12 +29,7 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Decision Theory
-- Value Delivery
-- Transparency and Accountability
+categories: []
 
 ---
  ### Panel Description: "Should Companies Take Money Off the Table? Exploring Motivation Beyond Financial Incentives"

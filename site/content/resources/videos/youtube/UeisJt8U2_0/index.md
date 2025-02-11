@@ -27,27 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Master
-- Agile Apocalypse
-- Scrum Values
-- Team Collaboration
-- Technical Debt
-- Continuous Improvement
-- Team Motivation
-- Agile Methodology
-- Organisational Change
-- Employee Engagement
-- Agile Product Management
-- Systems Thinking
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- People and Process
-- Organisational Agility
-- Technical Excellence
-- Resilience and Change
+categories: []
 
 ---
 # Navigating the Plague of Incompetence in Agile Coaching 🚧

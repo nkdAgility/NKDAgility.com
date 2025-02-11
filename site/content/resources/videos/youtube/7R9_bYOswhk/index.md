@@ -28,29 +28,11 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Leadership
-- Agile Coaching
-- Team Collaboration
-- Organisational Agility
-- Agile Values and Principles
-- Continuous Learning
-- Agile Transformation
-- Employee Engagement
-- Agile Community
-- Agile Evolution
-- Scrum Team
-- Agile Methodology
-- Self Organisation
+tags: []
 resourceTypes:
 - video
 layout: video
-categories:
-- Scrum
-- Organisational Agility
-- People and Process
-- Organisational Psychology
-- Enterprise Agility
+categories: []
 
 ---
 ## Ascending the Leadership Ladder

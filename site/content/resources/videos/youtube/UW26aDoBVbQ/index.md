@@ -22,26 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/UW26aDoBVbQ/maxresdefault.jpg
 duration: 31
 isShort: true
-tags:
-- Agile Planning
-- Team Collaboration
-- Business Agility
-- Customer Feedback Loops
-- Agile Strategy
-- Continuous Improvement
-- Agile Community
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Lean
-- Agile Product Management
-- Organisational Agility
-- Value Delivery
-- Events and Presentations
+categories: []
 
 ---
  #shorts #shortsvideo #shortvideo 🌟 Exclusive Webcast with Joanna Płaskonka, Ph.D. & Martin Hinshelwood: Dive Deep into Product Ownership & Lean Product Development! 🌟

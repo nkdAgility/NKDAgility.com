@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Sprint Planning Workshop
-- Scrum Team
-- Scrum Product Management
-- Definition of Ready
-- Definition of Done
-- Agile Planning
-- Team Collaboration
-- Agile Product Ownership
-- Customer Feedback Loops
-- Continuous Improvement
-- Agile Values and Principles
-- Agile Product Discovery
-- Team Motivation
-- Evidence Based Management
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- People and Process
-- Value Delivery
-- Discovery and Learning
-- Organisational Agility
+categories: []
 
 ---
 ## Deciphering the Sprint Goal Enigma **🎯**  

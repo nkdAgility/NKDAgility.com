@@ -27,17 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Product Management
-- Agile Leadership
+tags: []
 resourceTypes:
 - video
-categories:
-- Agile Product Management
-- Value Delivery
-- Discovery and Learning
-- Organisational Agility
-- People and Process
+categories: []
 
 ---
 In the world of Agile, transitioning from traditional project management to product management is an exciting but often challenging journey. For new Product Owners, one of the most crucial lessons to learn is the importance of **Vision, Value, and Validation**. These three pillars fill the vacuum left when we move away from project management frameworks, such as Gantt charts and milestones, that may no longer serve a product-focused organization.

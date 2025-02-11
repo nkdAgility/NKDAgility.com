@@ -23,31 +23,13 @@ aliasesFor404:
 preview: https://i9.ytimg.com/vi/h3J11t10A0g/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAhUizbYFa1tDhewD44yi7B6ksFVQ
 duration: 169
 isShort: false
-tags:
-- Agile Planning
-- Technical Leadership
-- Engineering Excellence
-- Agile Product Discovery
-- Continuous Improvement
-- Agile Software Development
-- Agile Values and Principles
-- Agile Transformation
-- Complexity Thinking
-- Decision Theory
-- Systems Thinking
-- Agile Strategy
-- Value Delivery
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories:
-- Technical Excellence
-- Value Delivery
-- Organisational Agility
-- Complexity Thinking
-- Discovery and Learning
+categories: []
 
 ---
  Solving Missed Deadlines and Budget Overruns in Software Projects | Martin Hinshelwood  

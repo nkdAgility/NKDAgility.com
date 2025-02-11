@@ -29,26 +29,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Team
-- Sprint Review
-- Sprint Planning Workshop
-- Continuous Improvement
-- Customer Feedback Loops
-- Definition of Done
-- Agile Values and Principles
-- Employee Engagement
-- Agile Software Development
-- Agile Product Discovery
-- Psychological Safety
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- Organisational Psychology
-- People and Process
-- Value Delivery
-- Agile Product Management
+categories: []
 
 ---
 ## Reinvigorating Your Scrum Team: The Agile Coach's Playbook 🚀 

@@ -22,31 +22,13 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/DSIXtHZTirA/maxresdefault.jpg
 duration: 704
 isShort: false
-tags:
-- Customer Satisfaction
-- Deployment Frequency
-- Continuous Delivery
-- Technical Excellence
-- Agile Software Development
-- Evidence Based Management
-- Agile Tools
-- Azure DevOps
-- Team Collaboration
-- Agile Product Discovery
-- Agile Planning
-- Agile Leadership
-- Engineering Excellence
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
-categories:
-- Performance Engineering
-- Technical Excellence
-- Value Delivery
-- Azure DevOps
-- Metrics and Learning
+categories: []
 
 ---
 # Performance Engineering and Testing in Production: A Modern Approach | Martin Hinshelwood  

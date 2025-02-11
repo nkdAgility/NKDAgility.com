@@ -24,30 +24,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/n6Suj-swl88/maxresdefault.jpg
 duration: 286
 isShort: false
-tags:
-- Agile Product Ownership
-- Customer Feedback Loops
-- Value Delivery
-- Backlog Refinement
-- Continuous Improvement
-- Agile Planning
-- Scrum Values
-- Definition of Done
-- Agile Software Development
-- Team Collaboration
-- Accountability
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
-- Value Delivery
-- Agile Product Management
-- People and Process
-- Transparency and Accountability
+categories: []
 
 ---
  *Maximizing Sprint Review Impact: A Guide for Scrum Teams* - Discover key insights into leading a Sprint Review for maximized productivity and stakeholder engagement. Dive deep into the role of a Product Owner and effective review strategies.

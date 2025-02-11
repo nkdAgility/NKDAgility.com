@@ -29,16 +29,8 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
-categories:
-- Scrum
-- People and Process
-- Transparency and Accountability
-tags:
-- Continuous Improvement
-- Agile Software Development
-- Agile Methodology
-- Employee Engagement
-- Agile Transformation
+categories: []
+tags: []
 
 ---
  Dive into commitment in Scrum, what do we commit to and why. Engage with Ana, Martin, and the other participants in an interactive workshop on commitment.

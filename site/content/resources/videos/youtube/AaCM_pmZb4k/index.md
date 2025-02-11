@@ -29,28 +29,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Organisational Agility
-- Change Management
-- Team Collaboration
-- Decision Theory
-- Business Agility
-- Systems Thinking
-- Organisational Change
-- Self Organisation
-- Market Adaptability
-- Continuous Improvement
-- Agile Values and Principles
-- Team Motivation
-- Evidence Based Management
+tags: []
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Market Adaptability
-- Complexity Thinking
-- Resilience and Change
+categories: []
 
 ---
 ## Hierarchies of Competence Vs Control: Insights & Relevance

@@ -22,33 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/MCkSBdzRK_c/maxresdefault.jpg
 duration: 369
 isShort: false
-tags:
-- Evidence Based Management
-- Decision Making
-- Data Driven Decisions
-- Business Agility
-- Value Delivery
-- Ability to Innovate
-- Continuous Improvement
-- Strategic Goals
-- Evidence Based Improvement
-- Organisational Agility
-- Customer Feedback Loops
-- Trend Analysis
-- Market Adaptability
-- Value Stream Management
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Metrics and Learning
-- Value Delivery
-- Organisational Agility
-- Decision Theory
-- Market Adaptability
+categories: []
 
 ---
  🚀 Explore the Power of Evidence-Based Management in This Essential Video! 🚀

@@ -26,30 +26,11 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Organisational Agility
-- Agile Transformation
-- Change Management
-- Agile Values and Principles
-- Business Agility
-- Team Collaboration
-- Agile Strategy
-- Agile Methodology
-- Agile Apocalypse
-- Self Organisation
-- Organisational Culture
-- Decision Making
-- Systems Thinking
-- Evidence Based Management
+tags: []
 resourceTypes:
 - video
 layout: video
-categories:
-- Organisational Agility
-- Enterprise Agility
-- People and Process
-- Resilience and Change
-- Systems Thinking
+categories: []
 
 ---
 # Navigating the Agile Apocalypse: Overcoming the Alpha Organizational Structure

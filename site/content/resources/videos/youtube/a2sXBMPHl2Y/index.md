@@ -29,30 +29,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Leadership Training
-- Team Collaboration
-- Agile Coaching
-- Agile Transformation
-- Psychological Safety
-- Continuous Learning
-- Change Management
-- Team Motivation
-- Agile Values and Principles
-- Business Agility
-- Agile Community
-- Employee Engagement
-- Agile Problem Solving
-- Systems Thinking
-- Organisational Culture
+tags: []
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Discovery and Learning
-- Scrum
-- DevOps
+categories: []
 
 ---
 ## Private Training Courses: A Game Changer for Companies?

@@ -26,29 +26,11 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Organisational Change
-- Team Motivation
-- Change Management
-- Agile Values and Principles
-- Business Agility
-- Evidence Based Management
-- Continuous Improvement
-- Agile Leadership
-- Team Collaboration
-- Agile Frameworks
-- Systems Thinking
-- Psychological Safety
-- Value Delivery
+tags: []
 resourceTypes:
 - video
 layout: video
-categories:
-- Organisational Agility
-- People and Process
-- Market Adaptability
-- Discovery and Learning
-- Value Delivery
+categories: []
 
 ---
 #### Steering Clear of Envy in Agile: A Roadmap for Authentic Success 🗺️✨ 

@@ -27,26 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Deployment Frequency
-- Continuous Delivery
-- Agile Product Discovery
-- Customer Feedback Loops
-- Continuous Improvement
-- Agile Transformation
-- Agile Values and Principles
-- Team Collaboration
-- Agile Software Development
-- Agile Leadership
-- Evidence Based Management
-- Technical Excellence
-- Scrum Team
-- Working Software
+tags: []
 resourceTypes:
 - video
-categories:
-- Technical Excellence
-- Discovery and Learning
+categories: []
 
 ---
 The concept of Agile has taken the business world by storm, with organizations everywhere claiming to have adopted Agile methodologies. But are they truly practicing Agile, or is it just Agile in name only? One of the most eye-opening resources on this topic comes from an unexpected source—the US Department of Defense (DoD). Their guide, titled "Detecting Agile BS," was created to help procurement officers determine whether vendors were genuinely Agile or merely paying lip service to the methodology. This guide raises important questions that every organization claiming to be Agile should ask itself.

@@ -27,28 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Strategic
-- Scrum
-- Agility
-- People and Process
-- Agile Software Engineering
-- Agile Project Management
-- Agile Product Management
-- Sprint Review Workshops
-- Decision Making
-- Product Owner
-- Sprint Review
-- Lean Agile
-- Agile Apocalypse
-- Agile Coaching
-- Agile Software Development
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- Agile Product Management
-- People and Process
+categories: []
 
 ---
 # Breaking the Silence: Sparking Engagement in Agile Teams 🚀

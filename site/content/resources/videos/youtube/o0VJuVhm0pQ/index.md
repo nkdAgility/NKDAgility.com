@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Product Management
-- Customer Satisfaction
-- Agile Product Discovery
-- Value Delivery
-- Continuous Improvement
-- Empirical Process Control
-- Scrum Team
-- Agile Product Validation
-- Customer Retention
-- Team Collaboration
-- Leadership Training
-- Agile Strategy
-- Evidence Based Management
-- Agile Product Ownership
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- Value Delivery
-- Organisational Agility
-- Discovery and Learning
-- Metrics and Learning
+categories: []
 
 ---
 In high competition markets, how does scrum product development help acquire and retain customers?

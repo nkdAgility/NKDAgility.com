@@ -26,29 +26,11 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Kanban
-- Throughput
-- Kanban Flow
-- Agility
-- Flow Efficiency
-- Kanban Coaching
-- Cycle Time
-- Kanban Theory
-- Kanban Process
-- Predictability in Kanban
-- People and Process
-- Systemic Thinking
-- Systems Thinking
-- Kanban Training
-- Data Driven Decisions
+tags: []
 resourceTypes:
 - video
 layout: video
-categories:
-- Kanban
-- Flow Efficiency
-- People and Process
+categories: []
 
 ---
 Creativity, with its boundless landscape, where every spark of inspiration has the potential to morph into a magnum opus, often thrives in a state of organised chaos.  

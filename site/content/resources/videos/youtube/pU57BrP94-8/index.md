@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Coaching
-- Team Collaboration
-- Continuous Learning
-- Agile Mentoring Program
-- Agile Product Discovery
-- Agile Community
-- Scrum Team
-- Agile Product Management
-- Agile Software Development
-- Discovery and Learning
-- Employee Engagement
-- Agile Transformation
-- Value Delivery
-- Agile Values and Principles
+tags: []
 resourceTypes:
 - video
-categories:
-- People and Process
-- Discovery and Learning
-- Organisational Agility
-- Metrics and Learning
-- Scrum
+categories: []
 
 ---
 ## Immersive Learning: Revolutionising On-the-Job Agile Learning

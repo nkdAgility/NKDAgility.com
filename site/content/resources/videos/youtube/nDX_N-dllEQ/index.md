@@ -24,18 +24,13 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/nDX_N-dllEQ/maxresdefault.jpg
 duration: 7527
 isShort: false
-tags:
-- Kanban
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories:
-- Kanban
-- Events and Presentations
-- Value Stream Management
-- Practical Techniques and Tooling
+categories: []
 
 ---
  This is a Free Live Virtual 90m Workshop on the Introduction to Kanban & Batch Size from Martin Hinshelwood. To join interactively please register using https://community.nkdagility.com/events/free-workshop-03-introduction-to-kanban-flow-batch-size?instance_index=20210902T163000Z. One you have joined the community you can join to participate within 10 minutes. We will close the event to new attendees after about 10 minutes. You can watch live on Youtube, Facebook, or LinkedIn... 

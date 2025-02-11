@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Continuous Learning
-- Flow Efficiency
-- Agile Planning
-- Agile Project Management
-- Team Collaboration
-- Agile Transformation
-- Continuous Improvement
-- Leadership Training
-- Employee Engagement
-- Agile Values and Principles
-- Discovery and Learning
-- Agile Coaching
-- Agile Product Management
-- Systems Thinking
+tags: []
 resourceTypes:
 - video
-categories:
-- Discovery and Learning
-- Flow Efficiency
-- People and Process
-- Continuous Learning
-- Value Delivery
+categories: []
 
 ---
 **Why do you think that 4 half days is a better format than 2 full days?**

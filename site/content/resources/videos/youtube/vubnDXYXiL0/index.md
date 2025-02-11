@@ -27,17 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Evidence Based Management
+tags: []
 resourceTypes:
 - video
-categories:
-- Scaling Agility
-- Systems Thinking
-- People and Process
-- Value Delivery
-- Scrum
-- Enterprise Agility
+categories: []
 
 ---
 # Tailoring Scrum to Scale: Building Your Own Framework for Success

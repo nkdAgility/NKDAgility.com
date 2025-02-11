@@ -22,33 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/uvU_ATou6QY/maxresdefault.jpg
 duration: 203
 isShort: false
-tags:
-- Agile Product Ownership
-- Scrum Product Management
-- Value Delivery
-- Customer Feedback Loops
-- Continuous Improvement
-- Evidence Based Management
-- Team Collaboration
-- Technical Excellence
-- Agile Product Discovery
-- Agile Planning
-- Accountability
-- Agile Values and Principles
-- Lean Principles
-- Agile Transformation
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Agile Product Management
-- Value Delivery
-- Metrics and Learning
-- People and Process
-- Transparency and Accountability
+categories: []
 
 ---
  Recognizing the Signs of a Failing Product Owner. Uncover the indicators of a failing product owner! Learn how to differentiate between perception and reality in product management. 🎯🚫

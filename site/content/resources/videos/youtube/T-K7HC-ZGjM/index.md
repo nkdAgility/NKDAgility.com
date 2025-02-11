@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Sprint Planning Workshop
-- Scrum Team
-- Definition of Done
-- Technical Debt
-- Agile Planning
-- Team Motivation
-- Continuous Improvement
-- Agile Product Management
-- Scrum Product Management
-- Value Delivery
-- Agile Software Development
-- Team Collaboration
-- Transparency
-- Agile Values and Principles
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- Value Delivery
-- Technical Excellence
-- People and Process
-- Transparency and Accountability
+categories: []
 
 ---
 ## Interpreting the Sprint Backlog

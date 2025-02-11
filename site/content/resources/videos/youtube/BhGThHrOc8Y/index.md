@@ -22,32 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/BhGThHrOc8Y/maxresdefault.jpg
 duration: 243
 isShort: false
-tags:
-- Agile Values and Principles
-- Team Collaboration
-- Continuous Improvement
-- Agile Methodology
-- People and Process
-- Agile Leadership
-- Organisational Agility
-- Agile Transformation
-- Systems Thinking
-- Technical Excellence
-- Agile Digital Tools
-- Customer Feedback Loops
-- Discovery and Learning
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- People and Process
-- DevOps
-- Organisational Agility
-- Discovery and Learning
-- Technical Excellence
+categories: []
 
 ---
  Unravel the true essence of DevOps beyond just tools! Dive deep into the philosophy, practices, and ideas that drive successful DevOps implementations. 🛠️🔄💡

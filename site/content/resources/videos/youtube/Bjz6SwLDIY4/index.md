@@ -27,27 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Business Agility
-- Continuous Improvement
-- Market Adaptability
-- Organisational Agility
-- Change Management
-- Agile Strategy
-- Adaptive Leadership
-- Organisational Change
-- Agile Transformation
-- Customer Feedback Loops
-- Evidence Based Management
-- Systems Thinking
-- Agile Values and Principles
-- Resilience and Change
+tags: []
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- Market Adaptability
-- Resilience and Change
+categories: []
 
 ---
 In today's fast-paced world, both individuals and businesses must constantly adapt to their surroundings. Whether it's a shift in the market, unforeseen circumstances, or technological advancements, those who thrive are the ones who can effectively readjust to the changes around them.

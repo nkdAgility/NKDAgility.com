@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum
-- Scrum Master
-- Scrum Team
-- Scrum Values
-- Agile Certification
-- Continuous Improvement
-- Professional Scrum
-- Agile Community
-- Value Delivery
-- Customer Feedback Loops
-- Technical Excellence
-- Agile Product Management
-- Agile Project Management
-- Evidence Based Leadership
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- Organisational Agility
-- People and Process
-- Value Delivery
-- Transparency and Accountability
+categories: []
 
 ---
 Why did you choose the Scrum.Org track rather than the Scrum Alliance track?

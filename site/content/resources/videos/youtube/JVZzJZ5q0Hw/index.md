@@ -29,29 +29,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Sprint Planning Workshop
-- Scrum Team
-- Definition of Done
-- Product Backlog
-- Backlog Refinement
-- Agile Planning
-- Team Collaboration
-- Continuous Improvement
-- Agile Product Management
-- Team Motivation
-- Agile Values and Principles
-- Evidence Based Improvement
-- Technical Excellence
-- Agile Estimation
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- People and Process
-- Value Delivery
-- Technical Excellence
-- Discovery and Learning
+categories: []
 
 ---
 ## What's a Sprint Goal and Why Does It Matter?

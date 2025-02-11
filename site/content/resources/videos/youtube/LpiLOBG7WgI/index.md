@@ -29,27 +29,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Team
-- Scrum Product Management
-- Customer Feedback Loops
-- Agile Product Discovery
-- Continuous Improvement
-- Decision Making
-- Value Delivery
-- Agile Planning
-- Technical Excellence
-- Psychological Safety
-- Team Collaboration
-- Change Management
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- People and Process
-- Discovery and Learning
-- Value Delivery
-- Metrics and Learning
+categories: []
 
 ---
 ## Navigating Harsh Feedback in Sprint Reviews – An Agile Approach🚀 

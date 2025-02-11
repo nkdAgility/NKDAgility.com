@@ -26,28 +26,11 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Team
-- Technical Mastery
-- Agile Leadership
-- Continuous Improvement
-- Agile Values and Principles
-- Team Collaboration
-- Organisational Agility
-- Change Management
-- Agile Transformation
-- Agile Methodology
-- Team Motivation
-- Evidence Based Management
+tags: []
 resourceTypes:
 - video
 layout: video
-categories:
-- Scrum
-- Organisational Agility
-- People and Process
-- Technical Excellence
-- Lean
+categories: []
 
 ---
 ## Scrum Master vs. Seasoned Agile Coach: What Sets Them Apart?

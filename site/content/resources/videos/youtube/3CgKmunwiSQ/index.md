@@ -26,29 +26,11 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Decision Theory
-- Data Driven Decisions
-- Systems Thinking
-- Continuous Improvement
-- Change Management
-- Organisational Agility
-- Value Delivery
-- Team Collaboration
-- Employee Engagement
-- Agile Leadership
-- Evidence Based Improvement
-- Lean Thinking
-- Agile Methodology
+tags: []
 resourceTypes:
 - video
 layout: video
-categories:
-- Metrics and Learning
-- Decision Theory
-- Systems Thinking
-- Organisational Agility
-- People and Process
+categories: []
 
 ---
 ## **What Is Traditional Management?**

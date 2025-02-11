@@ -29,22 +29,8 @@ sitemap:
 layout: video
 resourceTypes:
 - video
-categories:
-- Events and Presentations
-- Discovery and Learning
-- Value Delivery
-tags:
-- Featured
-- Agile Community
-- Agile Digital Tools
-- Agile Methodology
-- Agile Values and Principles
-- Agile Evolution
-- Agile Transformation
-- Digital Transformation
-- Continuous Learning
-- Customer Feedback Loops
+categories: []
+tags: []
 
 ---
-  
  [Watch on Youtube](https://www.youtube.com/watch?v=3E_NKzHDvig)

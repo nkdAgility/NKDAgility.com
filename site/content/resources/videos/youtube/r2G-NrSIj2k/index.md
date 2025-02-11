@@ -22,22 +22,13 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/r2G-NrSIj2k/maxresdefault.jpg
 duration: 116
 isShort: false
-tags:
-- Agile Project Management
-- Software Development
-- Continuous Improvement
-- Evidence Based Management
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
-categories:
-- Code and Complexity
-- Technical Excellence
-- Practical Techniques and Tooling
-- DevOps
-- Value Delivery
+categories: []
 
 ---
 # Rethinking Code Reviews: From Manual Checks to Pre-Reviewed Excellence

@@ -22,27 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/GGtb7Yg8gHY/maxresdefault.jpg
 duration: 42
 isShort: true
-tags:
-- Team Collaboration
-- Scrum Master
-- Agile Apocalypse
-- Team Motivation
-- Working Agreements
-- Psychological Safety
-- Change Management
-- Conflict Resolution
-- Agile Values and Principles
-- Continuous Improvement
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- People and Process
-- Organisational Psychology
-- Scrum
+categories: []
 
 ---
  #shorts #shortsvideo #shortvideo War is a terrible sign that your #agiletransformation is headed for disaster. #agile thrives on collaboration, a shared sense of purpose, and teamwork. In this short video, Martin Hinshelwood describes what war looks like,  in the context of #agile, and why it's a sign of impending disaster

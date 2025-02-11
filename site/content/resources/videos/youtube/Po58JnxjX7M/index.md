@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Coaching
-- Team Collaboration
-- Team Motivation
-- Agile Community
-- Agile Mentoring
-- Agile Values and Principles
-- Continuous Learning
-- Agile Transformation
-- Scrum Team
-- Agile Methodology
-- Employee Engagement
-- Coaching
-- Agile Certifications
-- Technical Leadership
+tags: []
 resourceTypes:
 - video
-categories:
-- People and Process
-- Organisational Agility
-- Agile Product Management
-- Scrum
-- Technical Excellence
+categories: []
 
 ---
 Being an Agile coach isn’t just about mastering theories and methodologies. To truly earn the title, you must **have real, hands-on experience working with teams**. This isn’t negotiable—it's an essential part of developing the credibility and knowledge needed to effectively guide teams in Agile practices.

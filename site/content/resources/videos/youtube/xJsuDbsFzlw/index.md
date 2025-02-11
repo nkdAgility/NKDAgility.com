@@ -22,32 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/xJsuDbsFzlw/maxresdefault.jpg
 duration: 198
 isShort: false
-tags:
-- Agile Planning
-- Scrum Team
-- Agile Coaching
-- Continuous Improvement
-- Agile Product Management
-- Team Collaboration
-- Agile Values and Principles
-- Agile Project Management
-- Agile Transformation
-- Agile Software Development
-- Agile Digital Tools
-- Agile Methodology
-- Discovery and Learning
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
-- Organisational Agility
-- People and Process
-- Practical Techniques and Tooling
-- Value Delivery
+categories: []
 
 ---
  #sprintplanning is a critical event in #scrum. Getting it right sets the tone for a great #sprint and ensures that the team are working on the most valuable work items. Getting it wrong has serious consequences.

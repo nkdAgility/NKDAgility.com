@@ -21,15 +21,7 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/79M9edUp_5c/maxresdefault.jpg
 duration: 46
 isShort: true
-tags:
-- Team Collaboration
-- Remote Working
-- Asynchronous Development
-- Agile Tools
-- Continuous Improvement
-- Agile Values and Principles
-- Working Agreements
-- Employee Engagement
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -37,10 +29,7 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories:
-- Scrum
-- People and Process
-- Practical Techniques and Tooling
+categories: []
 
 ---
  #shorts #shortsvideo #shortvideo 5 tools that a #scrummaster loves. #scrum tool 4

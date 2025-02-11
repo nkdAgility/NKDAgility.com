@@ -27,28 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Sprint Planning Workshop
-- Scrum Team
-- Scrum Product Management
-- Definition of Done
-- Agile Planning
-- Value Prioritisation
-- Team Collaboration
-- Agile Product Ownership
-- Continuous Improvement
-- Customer Feedback Loops
-- Agile Product Discovery
-- Agile Values and Principles
-- Evidence Based Management
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- Agile Product Management
-- Value Delivery
-- People and Process
-- Discovery and Learning
+categories: []
 
 ---
 ## The Art of Sprint Goal Creation

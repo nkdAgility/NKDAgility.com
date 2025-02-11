@@ -29,26 +29,8 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
-categories:
-- Scrum
-- Events and Presentations
-- Discovery and Learning
-tags:
-- Professional Scrum
-- Scrum Team
-- Scrum Product Management
-- Scrum Values
-- Definition of Done
-- Continuous Delivery
-- Agile Methodology
-- Agile Product Management
-- Agile Software Development
-- Agile Coaching
-- Agile Product Ownership
-- Agile Estimation
-- Agile Transformation
-- Agile Leadership
+categories: []
+tags: []
 
 ---
-  
  [Watch on Youtube](https://www.youtube.com/watch?v=hiqdIfuxB0k)

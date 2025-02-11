@@ -27,30 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Change Management
-- Systems Thinking
-- Organisational Change
-- Business Agility
-- Agile Strategy
-- Lean Thinking
-- Continuous Improvement
-- Employee Engagement
-- Team Motivation
-- Agile Leadership
-- Agile Transformation
-- Market Adaptability
-- Agile Values and Principles
-- Psychological Safety
-- Experimentation
+tags: []
 resourceTypes:
 - video
-categories:
-- Systems Thinking
-- Organisational Agility
-- Value Delivery
-- Lean
-- Resilience and Change
+categories: []
 
 ---
 ## Exploring the Apex of Consulting Engagements: Unlocking Systemic Change

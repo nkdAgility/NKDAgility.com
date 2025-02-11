@@ -27,17 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Leadership
-- Agile Digital Tools
+tags: []
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Metrics and Learning
-- Resilience and Change
-- Transparency and Accountability
+categories: []
 
 ---
 # Steering Through the Agile Apocalypse: Navigating Chaos 🌪️

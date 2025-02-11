@@ -29,11 +29,7 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories:
-- Events and Presentations
-- Scrum
-- Discovery and Learning
+categories: []
 
 ---
-  
  [Watch on Youtube](https://www.youtube.com/watch?v=qnWVeumTKcE)

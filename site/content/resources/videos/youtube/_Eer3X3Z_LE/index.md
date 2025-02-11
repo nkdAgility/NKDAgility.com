@@ -26,25 +26,11 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Product Management
-- Agile Planning
-- Backlog Refinement
-- Definition of Done
-- Team Collaboration
-- Agile Product Ownership
-- Value Prioritisation
-- Agile Product Discovery
-- Transparency
+tags: []
 resourceTypes:
 - video
 layout: video
-categories:
-- Agile Product Management
-- Scrum
-- People and Process
-- Value Delivery
-- Discovery and Learning
+categories: []
 
 ---
 **What is a product backlog?**

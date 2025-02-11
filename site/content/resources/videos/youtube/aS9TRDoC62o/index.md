@@ -29,28 +29,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Team Collaboration
-- Agile Software Development
-- Continuous Delivery
-- Engineering Excellence
-- Agile Planning
-- Agile Product Management
-- Customer Feedback Loops
-- Agile Transformation
-- Value Delivery
-- Agile Values and Principles
-- Organisational Agility
-- Technical Excellence
-- Agile Methodology
+tags: []
 resourceTypes:
 - video
-categories:
-- DevOps
-- Organisational Agility
-- Technical Excellence
-- Market Adaptability
-- Value Delivery
+categories: []
 
 ---
 ## Why Agile Alone Isn't Enough Without DevOps Consulting 

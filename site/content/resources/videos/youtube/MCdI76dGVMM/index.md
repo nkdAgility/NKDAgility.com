@@ -29,23 +29,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Professional Scrum
-- Agile Values and Principles
-- Team Collaboration
-- Continuous Learning
-- Agile Coaching
-- Agile Transformation
-- Team Motivation
-- Agile Community
-- Agile Mentoring
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- People and Process
-- Discovery and Learning
-- Technical Excellence
+categories: []
 
 ---
 ## Navigating the Journey to Professionalism in the Agile World

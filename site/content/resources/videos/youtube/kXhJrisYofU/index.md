@@ -23,15 +23,13 @@ aliasesFor404:
 preview: https://i9.ytimg.com/vi/kXhJrisYofU/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCuCmAp98BMQG6vEAhRCo2oBtgP4g
 duration: 496
 isShort: false
-tags:
-- Agile Product Management
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories:
-- Value Stream Management
+categories: []
 
 ---
  Beyond Budgeting: Adapting to Modern Product Development | Martin Hinshelwood

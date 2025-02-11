@@ -22,32 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/OWvCS3xb7pQ/maxresdefault.jpg
 duration: 181
 isShort: false
-tags:
-- Leadership Training
-- Agile Coaching
-- Team Collaboration
-- Continuous Learning
-- Agile Transformation
-- Employee Engagement
-- Change Management
-- Organisational Agility
-- Agile Mentoring Program
-- Team Motivation
-- Discovery and Learning
-- Agile Values and Principles
-- Professional Scrum
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Discovery and Learning
-- Agile Product Management
-- Resilience and Change
+categories: []
 
 ---
  The Professional Agile Leadership - Essentials (PAL-E) course from Scrum.Org has just gone immersive! From the traditional 2-day workshop format, we've now got a 7-week journey that empowers you to learn, apply, adapt and evolve more effectively.

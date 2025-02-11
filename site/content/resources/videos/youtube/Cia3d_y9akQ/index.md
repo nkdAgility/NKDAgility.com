@@ -22,33 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/Cia3d_y9akQ/maxresdefault.jpg
 duration: 639
 isShort: false
-tags:
-- Scrum Master
-- Scrum Team
-- Scrum Values
-- Agile Values and Principles
-- Continuous Improvement
-- Team Collaboration
-- Organisational Agility
-- Agile Transformation
-- Evidence Based Improvement
-- Technical Excellence
-- Agile Coaching
-- Change Management
-- Systems Thinking
-- Accountability
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
-- Organisational Agility
-- People and Process
-- Transparency and Accountability
-- Technical Excellence
+categories: []
 
 ---
  💡 Debunking Scrum Master Misconceptions: Why Competence is Key 🚀

@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Product Management
-- Agile Product Discovery
-- Value Prioritisation
-- Customer Feedback Loops
-- Agile Planning
-- Agile Product Ownership
-- Evidence Based Management
-- Continuous Improvement
-- Team Collaboration
-- Strategic Goals
-- Agile Strategy
-- Lean Thinking
-- Agile Software Development
-- Technical Excellence
+tags: []
 resourceTypes:
 - video
-categories:
-- Agile Product Management
-- Scrum
-- Value Delivery
-- Discovery and Learning
-- Organisational Agility
+categories: []
 
 ---
 In my opinion, it’s the whole ball game.

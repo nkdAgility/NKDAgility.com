@@ -27,22 +27,7 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum
-- Scrum Team
-- People and Process
-- Professional Scrum
-- Team Performance
-- Team Collaboration
-- Lean Agile
-- Scrum Master
-- Discovery and Learning
-- Continuous Learning
-- Coaching
-- Agile Problem Solving
-- Agile Certifications
-- Agile Coaching
-- Agile Planning
+tags: []
 resourceTypes:
 - video
 categories: []

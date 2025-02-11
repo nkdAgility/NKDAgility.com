@@ -29,16 +29,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Master
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- People and Process
-- Discovery and Learning
-- Metrics and Learning
-- Value Delivery
+categories: []
 
 ---
 **What is your best advice for becoming a Scrum Master outside software engineering?**

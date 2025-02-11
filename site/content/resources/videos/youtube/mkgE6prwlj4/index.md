@@ -29,28 +29,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Team
-- Scrum Master
-- Technical Debt
-- Continuous Delivery
-- Azure DevOps
-- Value Delivery
-- Customer Satisfaction
-- Deployment Frequency
-- Agile Product Management
-- Agile Software Development
-- Agile Product Discovery
-- Team Collaboration
-- Evidence Based Management
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- Azure DevOps
-- Value Delivery
-- Organisational Agility
-- Technical Excellence
+categories: []
 
 ---
 ## Spotlight on Outstanding Scrum Application

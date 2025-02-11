@@ -27,16 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Evidence Based Management
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- Organisational Agility
-- People and Process
-- Value Delivery
-- Complexity Thinking
+categories: []
 
 ---
 How does the APS course help people apply scrum effectively?

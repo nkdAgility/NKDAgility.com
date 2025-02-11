@@ -27,28 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Change Management
-- Agile Transformation
-- Business Agility
-- Organisational Agility
-- Agile Strategy
-- Agile Values and Principles
-- Continuous Improvement
-- Agile Community
-- Market Adaptability
-- Evidence Based Management
-- Agile Evolution
-- Digital Transformation
-- Team Motivation
+tags: []
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- Market Adaptability
-- People and Process
-- Discovery and Learning
-- Resilience and Change
+categories: []
 
 ---
 **Unravelling the Lust of Agile: Why There's No Quick Fix in Transformation** 

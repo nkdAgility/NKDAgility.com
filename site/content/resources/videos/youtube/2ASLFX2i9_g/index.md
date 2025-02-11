@@ -26,29 +26,11 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Sprint Planning Workshop
-- Scrum Team
-- Agile Product Management
-- Value Prioritisation
-- Continuous Improvement
-- Lean Thinking
-- Evidence Based Management
-- Technical Debt
-- Agile Product Discovery
-- Customer Feedback Loops
-- Agile Software Development
-- Definition of Done
-- Value Delivery
+tags: []
 resourceTypes:
 - video
 layout: video
-categories:
-- Value Delivery
-- Lean
-- Agile Product Management
-- Metrics and Learning
-- Value Stream Management
+categories: []
 
 ---
 ## Mastering Agility: Steering Clear of the Gluttony Trap in Agile and Scrum 🌟 

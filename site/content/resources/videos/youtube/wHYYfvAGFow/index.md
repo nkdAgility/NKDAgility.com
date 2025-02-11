@@ -27,30 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Project Management
-- Lean Thinking
-- Organisational Change
-- Agile Evolution
-- Complexity Thinking
-- Agile Software Development
-- Agile Product Management
-- Agile Values and Principles
-- Continuous Improvement
-- Systems Thinking
-- Business Agility
-- Agile Strategy
-- Employee Engagement
-- Technical Excellence
+tags: []
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Complexity Thinking
-- Value Delivery
-- Lean
-- Agile Product Management
+categories: []
 
 ---
 What is Taylorism and how did it influence project management?

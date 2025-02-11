@@ -29,29 +29,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Immersive Learning
-- Agile Training
-- Flipped Learning
-- Agile Coaching
-- Agile Project Management
-- Continuous Learning
-- Team Collaboration
-- Organisational Agility
-- Agile Community
-- Employee Engagement
-- Discovery and Learning
-- Agile Values and Principles
-- Agile Transformation
-- Leadership Training
+tags: []
 resourceTypes:
 - video
-categories:
-- Immersive Learning
-- Flipped Learning
-- Organisational Agility
-- Discovery and Learning
-- Agile Product Management
+categories: []
 
 ---
 **What are immersive training courses?**

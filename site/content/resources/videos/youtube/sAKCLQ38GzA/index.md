@@ -27,17 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Leadership
-- Lean Thinking
+tags: []
 resourceTypes:
 - video
-categories:
-- Organisational Psychology
-- People and Process
-- Agile Product Management
-- Value Delivery
-- Discovery and Learning
+categories: []
 
 ---
 **The Power of Purpose: How 'Start with Why' Drives Agile Success** 

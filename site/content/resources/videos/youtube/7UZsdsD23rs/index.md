@@ -26,24 +26,11 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Team
-- Sprint Review
-- Continuous Improvement
-- Customer Feedback Loops
-- Agile Product Discovery
-- Evidence Based Management
-- Agile Planning
-- Transparency
-- Agile Values and Principles
-- Change Management
-- Agile Software Development
-- Agile Leadership
+tags: []
 resourceTypes:
 - video
 layout: video
-categories:
-- Transparency and Accountability
+categories: []
 
 ---
 ## The Keystone of Lean-Agile: Empiricism Unravelled 🧬 

@@ -27,27 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Team Collaboration
-- Team Motivation
-- Organisational Culture
-- Psychological Safety
-- Continuous Improvement
-- Business Agility
-- Change Management
-- Agile Values and Principles
-- Accountability
-- Employee Engagement
-- Agile Transformation
-- Evidence Based Management
-- Discovery and Learning
+tags: []
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Resilience and Change
-- Transparency and Accountability
+categories: []
 
 ---
 In order for organizations to succeed, they must cultivate trust. Trust doesn't happen overnight; it's built on the foundation of patience. Patience with people, processes, and, most importantly, patience with outcomes that may not always align with expectations.

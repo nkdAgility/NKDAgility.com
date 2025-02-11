@@ -22,32 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/IqWvURjrJVs/maxresdefault.jpg
 duration: 255
 isShort: false
-tags:
-- Agile Coaching
-- Team Collaboration
-- Team Motivation
-- Scrum Team
-- Continuous Improvement
-- Agile Values and Principles
-- Discovery and Learning
-- Customer Feedback Loops
-- Agile Product Discovery
-- Agile Transformation
-- Organisational Agility
-- Employee Engagement
-- Psychological Safety
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- Agile Product Management
-- Scrum
-- Discovery and Learning
-- People and Process
+categories: []
 
 ---
  Znaczenie znajomości terenu. Czego możemy się nauczyć o zwinności na podstawie narodowego polskiego sportu, czyli zbierania grzybów?

@@ -23,32 +23,13 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/PZa77csy5r8/maxresdefault.jpg
 duration: 459
 isShort: false
-tags:
-- Continuous Improvement
-- Technical Excellence
-- Agile Software Development
-- Value Delivery
-- Deployment Frequency
-- Agile Product Management
-- Evidence Based Management
-- Systems Thinking
-- Agile Strategy
-- DevOps
-- Agile Product Discovery
-- Lean Thinking
-- Agile Planning
-- Customer Feedback Loops
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories:
-- Technical Excellence
-- Value Delivery
-- Azure DevOps
-- Code and Complexity
-- Systems Thinking
+categories: []
 
 ---
  # Understanding and Managing Technical Debt: Lessons from Azure DevOps | Martin Hinshelwood  

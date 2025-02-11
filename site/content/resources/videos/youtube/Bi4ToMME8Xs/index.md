@@ -22,33 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/Bi4ToMME8Xs/maxresdefault.jpg
 duration: 20
 isShort: true
-tags:
-- Agile Coaching
-- Agile Mentoring Program
-- Agile Product Management
-- Agile Planning
-- Team Collaboration
-- Team Motivation
-- Agile Certification
-- Agile Values and Principles
-- Continuous Improvement
-- Agile Software Development
-- Agile Leadership
-- Professional Scrum
-- Scrum Team
-- Customer Feedback Loops
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
-- Organisational Agility
-- People and Process
-- Value Delivery
-- Discovery and Learning
+categories: []
 
 ---
  If your organization KNOW that you should be getting better outcomes from their #scrummaster now is a great time to invest in a private Advanced Professional Scrum Master immersive learning experience. Visit https://www.nkdagility.com to explore how we can help you. #agile #scrum 

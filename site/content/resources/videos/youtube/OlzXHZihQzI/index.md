@@ -27,27 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Planning
-- Team Collaboration
-- Change Management
-- Agile Coaching
-- Discovery and Learning
-- Continuous Improvement
-- Agile Transformation
-- Organisational Change
-- Agile Values and Principles
-- Team Motivation
-- Business Agility
-- Employee Engagement
-- Psychological Safety
+tags: []
 resourceTypes:
 - video
-categories:
-- Discovery and Learning
-- Organisational Agility
-- People and Process
-- Resilience and Change
+categories: []
 
 ---
 In today’s fast-paced, ever-evolving workplace, Agile practices are becoming a cornerstone for teams looking to deliver value, adapt, and innovate quickly. But how do we ensure that teams and individuals truly _internalize_ Agile principles? How do we create an environment where Agile becomes second nature, rather than just a series of rituals to follow? This is where **immersive learning** shines.

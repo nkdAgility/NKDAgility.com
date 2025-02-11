@@ -27,27 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Decision Theory
-- Evidence Based Management
-- Value Prioritisation
-- Agile Product Discovery
-- Continuous Improvement
-- Customer Feedback Loops
-- Technical Excellence
-- Lean Principles
-- Agile Values and Principles
-- Psychological Safety
-- Experimentation
-- Agile Transformation
+tags: []
 resourceTypes:
 - video
-categories:
-- Metrics and Learning
-- Value Delivery
-- Discovery and Learning
-- People and Process
-- Decision Theory
+categories: []
 
 ---
 **The Peril of Pride in Agile: A Cautionary Tale** 

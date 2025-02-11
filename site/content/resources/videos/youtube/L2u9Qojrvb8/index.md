@@ -27,28 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Business Agility
-- Agile Strategy
-- Systems Thinking
-- Continuous Improvement
-- Agile Transformation
-- Organisational Agility
-- Agile Problem Solving
-- Customer Feedback Loops
-- Technical Excellence
-- Agile Leadership
-- Evidence Based Management
-- Value Delivery
-- Agile Community
+tags: []
 resourceTypes:
 - video
-categories:
-- DevOps
-- Organisational Agility
-- People and Process
-- Market Adaptability
-- Value Delivery
+categories: []
 
 ---
 In today’s fast-paced digital landscape, organizations across various industries—from medical devices to military operations, internet startups to web organizations—face the challenge of implementing DevOps practices. Despite the common goal of optimizing software delivery, the journey is anything but uniform. The intrinsic philosophies of DevOps remain consistent, but the path to success is as unique as the organizations themselves.

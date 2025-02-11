@@ -23,31 +23,13 @@ aliasesFor404:
 preview: https://i9.ytimg.com/vi/tKEl0YVeWv4/maxresdefault.jpg?sqp=CKDMmrwG&rs=AOn4CLA3dRTcLKc5KZt_uc_-QOOambvXxw
 duration: 477
 isShort: false
-tags:
-- Automated Testing
-- Continuous Integration
-- Continuous Delivery
-- Azure DevOps
-- Agile Software Development
-- Technical Excellence
-- Value Delivery
-- Site Reliability
-- Agile Product Management
-- Customer Feedback Loops
-- Lean Thinking
-- Agile Digital Tools
-- Evidence Based Management
+tags: []
 resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-categories:
-- AI and Automation in Agility
-- DevOps
-- Technical Excellence
-- Value Delivery
-- Application Lifecycle Management
+categories: []
 
 ---
  Automate Everything: Building Reliable, Fast, and Scalable Products

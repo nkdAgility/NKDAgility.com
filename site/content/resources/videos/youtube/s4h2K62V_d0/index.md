@@ -22,20 +22,13 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/s4h2K62V_d0/maxresdefault.jpg
 duration: 600
 isShort: false
-tags:
-- Agile Product Validation
-- Agile Software Development
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
-categories:
-- Code and Complexity
-- Technical Excellence
-- Value Delivery
-- Practical Techniques and Tooling
-- Discovery and Learning
+categories: []
 
 ---
 # Code reviews for quality assurance | Martin Hinshelwood  

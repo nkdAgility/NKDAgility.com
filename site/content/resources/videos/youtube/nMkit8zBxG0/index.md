@@ -27,25 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Sprint Planning Workshop
-- Scrum Product Management
-- Definition of Done
-- Agile Product Management
-- Team Collaboration
-- Technical Debt
-- Continuous Improvement
-- Scrum Team
-- Agile Values and Principles
-- Agile Software Development
-- Value Delivery
-- Backlog Refinement
-- Agile Product Discovery
-- Agile Methodology
+tags: []
 resourceTypes:
 - video
-categories:
-- Kanban
+categories: []
 
 ---
 ## Setting the Tone for Success

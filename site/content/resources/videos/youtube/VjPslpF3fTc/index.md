@@ -30,12 +30,7 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories:
-- Discovery and Learning
-- People and Process
-- Organisational Agility
-- Metrics and Learning
-- Resilience and Change
+categories: []
 
 ---
 ## Elevating Experienced Agile Practitioners with Immersive Learning 

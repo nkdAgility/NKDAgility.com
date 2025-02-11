@@ -23,20 +23,13 @@ aliasesFor404:
 preview: https://i9.ytimg.com/vi/Gym5-p-mNtw/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAYflUb0emeyDkvO71n8DlDn3Kg5Q
 duration: 525
 isShort: false
-tags:
-- Agile Product Management
-- Decision Theory
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories:
-- Value Stream Management
-- Metrics and Learning
-- Discovery and Learning
-- Technical Excellence
-- Value Delivery
+categories: []
 
 ---
  Engineering Excellence: Eliminating Waste and Maximizing ROI | Martin Hinshelwood

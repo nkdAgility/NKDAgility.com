@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Hypothesis Driven Development
-- Experimentation
-- Agile Product Discovery
-- Evidence Based Management
-- Decision Theory
-- Continuous Learning
-- Agile Product Validation
-- Value Prioritisation
-- Lean Product Development
-- Agile Planning
-- Customer Feedback Loops
-- Agile Product Management
-- Agile Values and Principles
-- Agile Software Development
+tags: []
 resourceTypes:
 - video
-categories:
-- Discovery and Learning
-- Metrics and Learning
-- Agile Product Management
-- Decision Theory
-- People and Process
+categories: []
 
 ---
 In the fast-paced world of product development, assumptions can often be our greatest blind spots. Yet, they are also essential stepping stones that guide our decisions and strategies. In our new class, we dive deep into the art of working with assumptions, transforming them from potential pitfalls into powerful tools for innovation.

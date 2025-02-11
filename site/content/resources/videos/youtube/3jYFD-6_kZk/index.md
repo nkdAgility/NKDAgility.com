@@ -26,30 +26,11 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Technical Debt
-- Change Management
-- Agile Software Development
-- Continuous Delivery
-- Evidence Based Management
-- Agile Project Management
-- Value Stream Management
-- Technical Excellence
-- Organisational Change
-- Agile Transformation
-- Systems Thinking
-- DevOps
-- Agile Product Management
-- Employee Engagement
+tags: []
 resourceTypes:
 - video
 layout: video
-categories:
-- Azure DevOps
-- Install and Configuration
-- People and Process
-- Technical Excellence
-- Application Lifecycle Management
+categories: []
 
 ---
 When it comes to migrating data in Azure DevOps, the process can be overwhelming, especially if you're dealing with legacy systems or older versions of Team Foundation Server (TFS). As someone who has been through this many times, I can tell you that there are countless pitfalls, but with careful planning and attention to detail, you can avoid most of them. In this post, I'll share some of the common issues, critical steps, and personal experiences that can help you successfully navigate the complexities of Azure DevOps data migration.

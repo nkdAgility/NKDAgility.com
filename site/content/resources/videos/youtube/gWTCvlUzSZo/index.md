@@ -29,10 +29,7 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
-- People and Process
-- Practical Techniques and Tooling
+categories: []
 
 ---
  Dive into the importance of good cameras for Scrum Masters! Enhance team engagement and read body language effectively. 🎥 #scrum #scrummaster #scrumorg

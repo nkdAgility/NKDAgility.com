@@ -27,27 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Apocalypse
-- Team Motivation
-- Organisational Agility
-- Agile Values and Principles
-- Self Organisation
-- Change Management
-- Employee Engagement
-- Continuous Improvement
-- Decision Making
-- Systems Thinking
-- Agile Product Management
-- Transparency
+tags: []
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Scrum
-- Decision Theory
-- Transparency and Accountability
+categories: []
 
 ---
 # Escaping the Judgment Trap in Agile Transformation 🚀

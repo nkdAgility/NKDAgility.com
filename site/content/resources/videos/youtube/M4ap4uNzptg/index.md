@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Business Agility
-- Change Management
-- Continuous Improvement
-- Organisational Agility
-- Team Collaboration
-- Employee Engagement
-- Agile Values and Principles
-- Systems Thinking
-- Market Adaptability
-- Agile Transformation
-- Decision Making
-- Psychological Safety
-- Value Delivery
-- Agile Methodology
+tags: []
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- Market Adaptability
-- Value Delivery
-- Discovery and Learning
-- Resilience and Change
+categories: []
 
 ---
 In the ever-evolving world of business, staying ahead means adapting faster than your competitors. Being agile is not about following a set of rules but rather embracing a mindset of constant questioning and improvement. As Steve Denning wisely said:

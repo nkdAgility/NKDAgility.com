@@ -22,31 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/Q46T5DYVKqQ/maxresdefault.jpg
 duration: 54
 isShort: true
-tags:
-- Evidence Based Management
-- Decision Theory
-- Continuous Improvement
-- Experimentation
-- Agile Planning
-- Agile Product Discovery
-- Agile Strategy
-- Data Driven Decisions
-- Agile Software Development
-- Lean Principles
-- Agile Values and Principles
-- Discovery and Learning
-- Customer Feedback Loops
-- Agile Product Validation
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Metrics and Learning
-- Discovery and Learning
-- Systems Thinking
+categories: []
 
 ---
  #shorts #shortsvideo #shortvideo #scrum is built on the foundation of #empiricism to help a #scrumteam learn and respond as they navigate complexity. In this short video, Martin Hinshelwood explains what #empircism is

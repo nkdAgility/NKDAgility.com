@@ -27,27 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Team Motivation
-- Continuous Learning
-- Technical Mastery
-- Agile Leadership
-- Agile Values and Principles
-- Agile Mentoring
-- Employee Engagement
-- Discovery and Learning
-- Agile Transformation
-- Agile Community
-- Technical Excellence
-- Agile Digital Tools
-- Coaching
+tags: []
 resourceTypes:
 - video
-categories:
-- Discovery and Learning
-- People and Process
-- Organisational Psychology
-- Technical Excellence
+categories: []
 
 ---
 ## Bridging the Chasm: From Average to Agile Excellence in Development

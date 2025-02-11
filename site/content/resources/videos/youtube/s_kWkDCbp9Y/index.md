@@ -27,28 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Coaching
-- Team Collaboration
-- Team Motivation
-- Agile Values and Principles
-- Agile Community
-- Continuous Learning
-- Employee Engagement
-- Organisational Culture
-- Agile Transformation
-- Coaching
-- Scrum Team
-- Agile Software Development
-- Agile Methodology
+tags: []
 resourceTypes:
 - video
-categories:
-- People and Process
-- Organisational Agility
-- Organisational Psychology
-- Discovery and Learning
-- Value Delivery
+categories: []
 
 ---
 Becoming an Agile coach isn’t just about knowing Agile practices. It’s about understanding the context in which your team operates and having the experience to back it up. In this post, I’ll explore why having domain knowledge is essential for Agile coaches, how it impacts your effectiveness, and what you can do to deepen your understanding. Let's dive into it! 🚀

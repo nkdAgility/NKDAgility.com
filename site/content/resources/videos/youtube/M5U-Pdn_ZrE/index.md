@@ -22,28 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/M5U-Pdn_ZrE/maxresdefault.jpg
 duration: 39
 isShort: true
-tags:
-- Product Owner
-- Agile Product Ownership
-- Team Collaboration
-- Agile Mentoring Program
-- Agile Coaching
-- Customer Feedback Loops
-- Continuous Improvement
-- Psychological Safety
-- Agile Values and Principles
-- Discovery and Learning
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- People and Process
-- Agile Product Management
-- Discovery and Learning
-- Organisational Psychology
+categories: []
 
 ---
  #shorts #shortvideo #shortsvideo Martin Hinshelwood walks us through the top 5 things he would teach a newbie #productowner. This  is part 4. To watch the full video, visit https://youtu.be/il1GdfG7rWk

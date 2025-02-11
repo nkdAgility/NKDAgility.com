@@ -25,14 +25,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Community
+tags: []
 resourceTypes:
 - video
-categories:
-- Organisational Psychology
-- People and Process
-- Scrum
+categories: []
 
 ---
 **Discipline versus motivation?**

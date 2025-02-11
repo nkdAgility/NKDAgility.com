@@ -27,28 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agility
-- Agile Values and Principles
-- Agile Software Engineering
-- Experimentation
-- Scrum
-- Agile Software Development
-- Agile Product Discovery
-- Organisational Agility
-- Agile Community
-- Agile Evolution
-- Agile Project Management
-- Agile Transformation
-- Lean Agile
-- Agile Methodology
-- Enterprise Agility
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- Discovery and Learning
-- Enterprise Agility
+categories: []
 
 ---
 Agile exists to address the idea that no predetermined set of steps will lead to a predefined outcome. The problem has never been solved, nor has the solution ever been created, so you don’t know what you don’t know. No formula is going to guarantee a desired outcome.

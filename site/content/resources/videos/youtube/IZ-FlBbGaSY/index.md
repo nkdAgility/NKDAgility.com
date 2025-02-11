@@ -22,26 +22,13 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/IZ-FlBbGaSY/maxresdefault.jpg
 duration: 451
 isShort: false
-tags:
-- Technical Excellence
-- Deployment Frequency
-- Agile Software Development
-- DevOps
-- Agile Product Management
-- Value Delivery
-- Engineering Excellence
-- Agile Values and Principles
-- Team Collaboration
-- Customer Feedback Loops
-- Agile Transformation
-- Evidence Based Management
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
-categories:
-- People and Process
+categories: []
 
 ---
 # Building a culture of quality | Martin Hinshelwood  

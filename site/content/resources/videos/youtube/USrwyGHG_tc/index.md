@@ -29,27 +29,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Team Collaboration
-- Team Motivation
-- Psychological Safety
-- Agile Values and Principles
-- Continuous Improvement
-- Self Organisation
-- Scrum Team
-- Agile Leadership
-- Accountability
-- Agile Methodology
-- Agile Transformation
-- Coaching
-- Agile Product Management
-- Value Delivery
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- People and Process
-- Organisational Psychology
+categories: []
 
 ---
 ## Introduction: Facilitating, Not Dictating 🕵️‍♂️ 

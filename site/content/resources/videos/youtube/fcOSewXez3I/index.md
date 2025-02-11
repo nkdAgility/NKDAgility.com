@@ -22,33 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/fcOSewXez3I/maxresdefault.jpg
 duration: 263
 isShort: false
-tags:
-- Agile AI
-- Business Agility
-- Digital Transformation
-- Continuous Improvement
-- Employee Engagement
-- Market Adaptability
-- Agile Product Management
-- Agile Software Development
-- Agile Leadership
-- Team Collaboration
-- Change Management
-- Agile Values and Principles
-- Technical Excellence
-- Evidence Based Management
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- AI and Automation in Agility
-- Organisational Agility
-- Market Adaptability
-- People and Process
-- Discovery and Learning
+categories: []
 
 ---
  Over the past 150 years, there have been significant periods of rapid change as a new technology is adopted and deployed into our work environments. From electricity, to automobiles, to computers and the internet, it is pretty much a given that a new technology will shape every generation in a disruptive manner.

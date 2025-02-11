@@ -27,26 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Team
-- Scrum Master
-- Continuous Learning
-- Team Collaboration
-- Agile Planning
-- Discovery and Learning
-- Agile Values and Principles
-- Employee Engagement
-- Technical Excellence
-- Value Delivery
-- Lean Principles
-- Agile Methodology
-- Agile Transformation
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- Discovery and Learning
-- People and Process
+categories: []
 
 ---
 One of the most rewarding aspects of teaching Scrum is watching students _truly_ absorb what they’re learning. But let’s be honest, traditional learning methods can sometimes feel overwhelming, especially in intensive courses. Have you ever heard the term “drinking from a fire hose”? It’s a phrase I hear often in relation to training, and I’ll admit, it’s accurate.

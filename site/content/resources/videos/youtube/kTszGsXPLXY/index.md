@@ -27,28 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Kanban Theory
-- Agile Tools
-- Cycle Time
-- Value Stream Management
-- Team Collaboration
-- Continuous Improvement
-- Evidence Based Management
-- Agile Planning
-- Agile Strategy
-- Change Management
-- Agile Transformation
-- Data Driven Decisions
-- Agile Pilot
+tags: []
 resourceTypes:
 - video
-categories:
-- Kanban
-- Metrics and Learning
-- People and Process
-- Value Stream Management
-- Practical Techniques and Tooling
+categories: []
 
 ---
 ### Getting Started with Kanban: A Guide to Initiating Your First Kanban Pilot

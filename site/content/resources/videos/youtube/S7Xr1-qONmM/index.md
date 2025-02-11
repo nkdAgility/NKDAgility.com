@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Product Management
-- Product Backlog
-- Professional Scrum
-- Scrum Team
-- Agile Product Discovery
-- Lean UX
-- Agile Product Management
-- Value Prioritisation
-- Customer Feedback Loops
-- Decision Theory
-- Continuous Improvement
-- Agile Software Development
-- Evidence Based Management
-- Agile Transformation
+tags: []
 resourceTypes:
 - video
-categories:
-- Agile Product Management
-- Scrum
-- People and Process
-- Value Delivery
-- Discovery and Learning
+categories: []
 
 ---
 Why do you think the PSU course has become so popular for product development?

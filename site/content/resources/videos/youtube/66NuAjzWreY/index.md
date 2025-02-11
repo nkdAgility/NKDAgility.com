@@ -26,29 +26,11 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Evidence Based Management
-- Decision Theory
-- Data Driven Decisions
-- Team Collaboration
-- Strategic Goals
-- Continuous Improvement
-- Trend Analysis
-- Value Delivery
-- Agile Strategy
-- Organisational Agility
-- Employee Engagement
-- Systems Thinking
-- Evidence Based Improvement
+tags: []
 resourceTypes:
 - video
 layout: video
-categories:
-- Metrics and Learning
-- Value Delivery
-- Organisational Agility
-- Decision Theory
-- People and Process
+categories: []
 
 ---
 ## **What is Evidence-Based Management?**

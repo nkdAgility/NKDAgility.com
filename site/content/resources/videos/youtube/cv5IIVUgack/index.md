@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Master
-- Scrum Team
-- Continuous Delivery
-- Technical Excellence
-- Agile Software Development
-- Agile Product Management
-- Agile Planning
-- Team Collaboration
-- Continuous Improvement
-- Agile Values and Principles
-- Engineering Practices
-- Agile Transformation
-- Agile Methodology
-- Agile Product Discovery
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- Technical Excellence
-- Value Delivery
-- People and Process
-- Discovery and Learning
+categories: []
 
 ---
 ## From Developer to Scrum Developer: A Journey of Continuous Learning

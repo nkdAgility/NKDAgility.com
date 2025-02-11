@@ -26,29 +26,11 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Lean Thinking
-- Team Collaboration
-- Agile Product Management
-- Continuous Improvement
-- Agile Values and Principles
-- Scrum Team
-- Agile Transformation
-- Evidence Based Management
-- Value Delivery
-- Lean Product Development
-- Agile Software Development
-- Agile Methodology
-- Systems Thinking
+tags: []
 resourceTypes:
 - video
 layout: video
-categories:
-- Lean
-- Scrum
-- People and Process
-- Value Stream Management
-- Discovery and Learning
+categories: []
 
 ---
 ## The Missing Piece in My Initial Scrum Journey

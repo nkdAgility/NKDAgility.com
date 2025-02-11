@@ -22,31 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/vftc6m70a0w/maxresdefault.jpg
 duration: 142
 isShort: false
-tags:
-- Organisational Agility
-- Change Management
-- Team Collaboration
-- Agile Strategy
-- Employee Engagement
-- Continuous Improvement
-- Discovery and Learning
-- Agile Values and Principles
-- Organisational Culture
-- Team Motivation
-- Systems Thinking
-- Value Delivery
-- Psychological Safety
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Discovery and Learning
-- Resilience and Change
+categories: []
 
 ---
  🚀 Unlock the Secrets of Agile Success with "The Seven Virtues of Agility: Embracing Chastity in Business"!

@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Deployment Frequency
-- Business Agility
-- Continuous Improvement
-- Value Stream Management
-- Agile Strategy
-- Agile Transformation
-- Systems Thinking
-- Organisational Agility
-- Customer Feedback Loops
-- Agile Software Development
-- Lean Thinking
-- Agile Project Management
-- Agile Values and Principles
-- Evidence Based Management
+tags: []
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- Value Delivery
-- Flow Efficiency
-- AI and Automation in Agility
-- Systems Thinking
+categories: []
 
 ---
 In today’s fast-paced world, organizations are embracing Agile practices to remain competitive and deliver value to their customers. But here’s the catch—having Agile programming teams is only part of the equation. If these Agile teams are followed by linear, bureaucratic deployment processes, then the ecosystem is far from truly Agile. This gap can lead to delays, inefficiencies, and ultimately, a failure to deliver the value that your stakeholders expect. So, how can we ensure that our entire project ecosystem is genuinely Agile from end to end?

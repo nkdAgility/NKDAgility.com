@@ -22,19 +22,13 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/NgoP5W5y7Gs/maxresdefault.jpg
 duration: 369
 isShort: false
-tags:
-- Continuous Integration
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
-categories:
-- Code and Complexity
-- Technical Excellence
-- DevOps
-- Application Lifecycle Management
-- Practical Techniques and Tooling
+categories: []
 
 ---
 # Shift Left: Building Quality and Security From the Start

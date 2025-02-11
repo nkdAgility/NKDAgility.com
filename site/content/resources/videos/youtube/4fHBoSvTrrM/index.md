@@ -28,30 +28,11 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Master
-- Professional Scrum
-- Scrum Team
-- Definition of Done
-- Agile Product Management
-- Continuous Improvement
-- Agile Values and Principles
-- Agile Coaching
-- Team Collaboration
-- Agile Transformation
-- Technical Mastery
-- Agile Mentoring
-- Evidence Based Improvement
-- Discovery and Learning
+tags: []
 resourceTypes:
 - video
 layout: video
-categories:
-- Scrum
-- People and Process
-- Practical Techniques and Tooling
-- Discovery and Learning
-- Technical Excellence
+categories: []
 
 ---
 ## PSM II: The Game-Changer for Scrum Masters

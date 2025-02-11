@@ -29,29 +29,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Team Collaboration
-- Agile Product Ownership
-- Decision Making
-- Entrepreneurship
-- Agile Product Discovery
-- Agile Leadership
-- Scrum Product Management
-- Evidence Based Management
-- Continuous Improvement
-- Psychological Safety
-- Agile Values and Principles
-- Lean Startup
-- Systems Thinking
-- Value Delivery
+tags: []
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- Decision Theory
-- Agile Product Management
-- People and Process
-- Discovery and Learning
+categories: []
 
 ---
 ## Understanding the Dynamics of Consensus 🤔 

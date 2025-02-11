@@ -21,22 +21,7 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/0fz91w-_6vE/maxresdefault.jpg
 duration: 138
 isShort: false
-tags:
-- DevOps
-- People and Process
-- Value Stream Management
-- Pragmatic Thinking
-- Systemic Thinking
-- Value Delivery
-- Customer Feedback Loops
-- Agility
-- Systems Thinking
-- Agile Problem Solving
-- Software Development
-- Value Prioritisation
-- Operational Practices
-- Flow Efficiency
-- Continuous Improvement
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -44,10 +29,7 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories:
-- DevOps
-- People and Process
-- Value Delivery
+categories: []
 
 ---
  As a #devops #consultant, Martin Hinshelwood has worked in multiple geographies, across multiple industry applications, and with a wide variety of clients.

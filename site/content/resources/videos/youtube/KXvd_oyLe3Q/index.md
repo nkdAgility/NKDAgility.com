@@ -27,30 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- DevOps
-- Technical Debt
-- Continuous Delivery
-- Team Collaboration
-- Systems Thinking
-- Value Stream Management
-- Agile Product Management
-- Employee Engagement
-- Change Management
-- Lean Thinking
-- Agile Software Development
-- Agile Transformation
-- Engineering Excellence
-- Customer Feedback Loops
+tags: []
 resourceTypes:
 - video
-categories:
-- DevOps
-- Value Stream Management
-- Technical Excellence
-- People and Process
-- Discovery and Learning
-- Complexity Thinking
+categories: []
 
 ---
 When organizations engage with us for DevOps consulting, it's rarely by chance. Typically, they've identified a problem—a problem that's grown too big to ignore, a problem that requires expertise beyond their current capabilities. As a DevOps consultant, I’ve seen this scenario play out many times. One of the most significant engagements I’ve experienced involved a large organization in the oil and gas industry. This case illustrates the complexity and challenges organizations face when they try to implement DevOps, and the transformational impact that a well-executed DevOps strategy can have.

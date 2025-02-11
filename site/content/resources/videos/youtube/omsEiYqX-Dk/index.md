@@ -23,31 +23,13 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/omsEiYqX-Dk/maxresdefault.jpg
 duration: 242
 isShort: false
-tags:
-- Organisational Agility
-- Change Management
-- Agile Strategy
-- Team Collaboration
-- Decision Making
-- Market Adaptability
-- Continuous Improvement
-- Agile Leadership
-- Systems Thinking
-- Agile Transformation
-- Employee Engagement
-- Agile Values and Principles
-- Agile Methodology
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- Market Adaptability
-- People and Process
-- Value Delivery
-- Resilience and Change
+categories: []
 
 ---
  *Unlocking Organizational Agility: Mastering Market Response* - Discover how to harness organizational agility for competitive advantage. Learn to respond swiftly to market changes and empower your team for success. 

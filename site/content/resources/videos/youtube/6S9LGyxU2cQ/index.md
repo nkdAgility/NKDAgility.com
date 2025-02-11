@@ -21,19 +21,7 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/6S9LGyxU2cQ/maxresdefault.jpg
 duration: 253
 isShort: false
-tags:
-- Scrum Master
-- Scrum Team
-- Continuous Improvement
-- Team Collaboration
-- Customer Feedback Loops
-- Agile Planning
-- Sprint Review
-- Agile Transformation
-- Agile Values and Principles
-- Coaching
-- Agile Methodology
-- Technical Excellence
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -41,12 +29,7 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories:
-- Scrum
-- People and Process
-- Metrics and Learning
-- Discovery and Learning
-- Value Delivery
+categories: []
 
 ---
  Sometimes, you just need to learn how to do #scrum properly. It isn't so much about learning the mechanics of #scrum, it's instead about how to apply #scrum professionally in your #scrumteam.

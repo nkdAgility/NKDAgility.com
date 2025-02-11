@@ -22,21 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/APZNdMokZVo/maxresdefault.jpg
 duration: 360
 isShort: false
-tags:
-- Scrum
-- Agile Project Management
-- Agile Product Management
-- Agile Frameworks
-- Agile Product Discovery
-- Evidence Based Improvement
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- People and Process
+categories: []
 
 ---
  Unlocking the Power of Definition of Done in Scrum: A Deep Dive

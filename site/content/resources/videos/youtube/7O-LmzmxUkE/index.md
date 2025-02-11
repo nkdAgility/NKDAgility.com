@@ -26,27 +26,11 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Team
-- Sprint Planning Workshop
-- Definition of Done
-- Empirical Process Control
-- Scrum Product Management
-- Continuous Improvement
-- Team Collaboration
-- Agile Product Management
-- Transparency
-- Agile Values and Principles
-- Evidence Based Improvement
-- Agile Software Development
-- Working Software
+tags: []
 resourceTypes:
 - video
 layout: video
-categories:
-- Scrum
-- People and Process
-- Transparency and Accountability
+categories: []
 
 ---
 # Demystifying Scrum: Beyond Meetings to Meaningful Events 🚀

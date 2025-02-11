@@ -23,21 +23,13 @@ aliasesFor404:
 preview: https://i9.ytimg.com/vi/LWRAX3OyO28/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCWLD4Vo4EZ6b8ciR_RqJZImwnb7w
 duration: 332
 isShort: false
-tags:
-- Agile Product Management
-- Azure DevOps
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories:
-- Continuous Delivery
-- DevOps
-- Technical Excellence
-- Metrics and Learning
-- Value Delivery
-- AI and Automation in Agility
+categories: []
 
 ---
  The True Power of Continuous Delivery: Reducing Risk and Increasing Effectiveness | Martin Hinshelwood

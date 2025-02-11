@@ -27,30 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Strategic Goals
-- Agile Product Ownership
-- Scrum Product Management
-- Team Collaboration
-- Continuous Improvement
-- Employee Engagement
-- Agile Planning
-- Value Delivery
-- Agile Product Discovery
-- Business Agility
-- Agile Leadership
-- Customer Feedback Loops
-- Agile Transformation
-- Technical Excellence
+tags: []
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Agile Product Management
-- Value Delivery
-- Scrum
-- Kanban
+categories: []
 
 ---
 2023 is predicted to be a very tough year. What do you think will be needed to win and improve?

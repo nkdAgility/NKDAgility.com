@@ -27,28 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum
-- Agility
-- Scrum Product Development
-- Coaching
-- Agile Software Development
-- People and Process
-- Agile Software Engineering
-- Professional Scrum
-- Scrum Master
-- Discovery and Learning
-- Software Development
-- Scrum Product Management
-- Empirical Process Control
-- Scrum Team
-- Agile Product Validation
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- People and Process
-- Discovery and Learning
+categories: []
 
 ---
 What will you learn on the professional scrum master course?

@@ -22,28 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/F8a6gtXxLe0/maxresdefault.jpg
 duration: 101
 isShort: false
-tags:
-- Team Motivation
-- Change Management
-- Agile Coaching
-- Employee Engagement
-- Team Collaboration
-- Agile Transformation
-- Leadership Training
-- Organisational Change
-- Agile Community
-- Agile Values and Principles
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Discovery and Learning
-- Events and Presentations
+categories: []
 
 ---
  I trained over 150 people at Healthgrades and not everyone liked the idea at the beginning. Dave was very opposed to training everyone, so opposed that he took the organised out to dinner to try and get both his team, and himself, out of it. See how he got on... 

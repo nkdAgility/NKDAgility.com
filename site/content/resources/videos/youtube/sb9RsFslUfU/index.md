@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Coaching
-- Agile Mentoring
-- Agile Community
-- Agile Leadership
-- Agile Product Management
-- Continuous Improvement
-- Technical Mastery
-- Employee Engagement
-- Team Collaboration
-- Change Management
-- Agile Transformation
-- Market Adaptability
-- Value Delivery
-- Agile Values and Principles
+tags: []
 resourceTypes:
 - video
-categories:
-- People and Process
-- Organisational Agility
-- Discovery and Learning
-- DevOps
-- Technical Excellence
+categories: []
 
 ---
 ## From Practitioner to Consultant

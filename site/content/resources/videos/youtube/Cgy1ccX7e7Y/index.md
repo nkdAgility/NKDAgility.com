@@ -27,28 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Business Agility
-- Change Management
-- Organisational Agility
-- Agile Coaching
-- Team Collaboration
-- Employee Engagement
-- Agile Leadership
-- Continuous Improvement
-- Systems Thinking
-- Agile Values and Principles
-- Agile Project Management
-- Agile Evolution
-- Resilience and Change
+tags: []
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- Market Adaptability
-- Resilience and Change
-- People and Process
-- Scrum
+categories: []
 
 ---
 What would be an example of a great agile consulting outcome for a client?

@@ -26,29 +26,11 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Self Organisation
-- Team Collaboration
-- Change Management
-- Continuous Improvement
-- Lean Thinking
-- Agile Leadership
-- Value Delivery
-- Business Agility
-- Team Motivation
-- Evidence Based Management
-- Organisational Agility
-- Agile Transformation
-- Customer Feedback Loops
+tags: []
 resourceTypes:
 - video
 layout: video
-categories:
-- Organisational Agility
-- People and Process
-- Value Delivery
-- Lean
-- Value Stream Management
+categories: []
 
 ---
 In today's fast-paced and ever-changing business environment, agility is more than just a buzzword—it's a necessity. Yet, many organizations fall into the trap of enforcing rigid, one-size-fits-all processes that stifle creativity, innovation, and efficiency. Let's explore why it's crucial to empower teams to tailor their processes to their unique contexts, even if it means deviating from company-wide standards.

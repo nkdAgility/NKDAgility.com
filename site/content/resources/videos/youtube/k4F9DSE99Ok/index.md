@@ -22,30 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/k4F9DSE99Ok/maxresdefault.jpg
 duration: 49
 isShort: true
-tags:
-- Scrum Team
-- Scrum Product Management
-- Customer Feedback Loops
-- Team Collaboration
-- Team Motivation
-- Agile Apocalypse
-- Continuous Improvement
-- Agile Product Discovery
-- Agile Values and Principles
-- Definition of Done
-- Working Software
-- Agile Product Ownership
-- Employee Engagement
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
-- People and Process
-- Metrics and Learning
+categories: []
 
 ---
  One of the 7 signs of the #agile apocalypse is Famine. 

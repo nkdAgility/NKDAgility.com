@@ -27,27 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Product Discovery
-- Strategic Goals
-- Team Collaboration
-- Agile Planning
-- Scrum Product Management
-- Customer Feedback Loops
-- Continuous Improvement
-- Value Delivery
-- Agile Strategy
-- Lean Product Development
-- Evidence Based Management
-- Agile Transformation
+tags: []
 resourceTypes:
 - video
-categories:
-- Discovery and Learning
-- Agile Product Management
-- Organisational Agility
-- Value Delivery
-- Systems Thinking
+categories: []
 
 ---
 Product Discovery is a term that's often used in the world of product development, but what does it really mean? Is it something new, or is it just a different label for what we've always done? In this post, I'll delve into the nuances of Product Discovery, explain why it’s critical to your product’s success, and share some real-world examples to help you understand its scope and impact.

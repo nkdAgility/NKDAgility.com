@@ -22,20 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/wjYFdWaWfOA/maxresdefault.jpg
 duration: 299
 isShort: false
-tags:
-- Scrum Master
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
-- Value Delivery
-- Organisational Agility
-- People and Process
-- Agile Product Management
+categories: []
 
 ---
  *Unlocking the Secrets of the Scrum Master: A Guide to Agile Leadership*

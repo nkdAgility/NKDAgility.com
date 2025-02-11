@@ -27,27 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Change Management
-- Organisational Agility
-- Agile Transformation
-- Team Motivation
-- Organisational Culture
-- Market Adaptability
-- Agile Strategy
-- Employee Engagement
-- Agile Leadership
-- Systems Thinking
-- Agile Values and Principles
-- Continuous Improvement
-- Agile Methodology
+tags: []
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- Market Adaptability
-- People and Process
-- Resilience and Change
+categories: []
 
 ---
 ## The Agile Imperative: How Traditional Organisations Can Embrace Change 

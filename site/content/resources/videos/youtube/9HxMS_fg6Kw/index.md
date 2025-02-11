@@ -27,28 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Community
-- Agile Coaching
-- Agile Leadership
-- Team Collaboration
-- Organisational Change
-- Lean Thinking
-- Continuous Improvement
-- Psychological Safety
-- Agile Values and Principles
-- Team Performance
-- Change Management
-- Evidence Based Management
-- Agile Methodology
+tags: []
 resourceTypes:
 - video
-categories:
-- People and Process
-- Organisational Agility
-- Lean
-- Value Delivery
-- Discovery and Learning
+categories: []
 
 ---
 What are some big red flags when hiring an agile consultant?

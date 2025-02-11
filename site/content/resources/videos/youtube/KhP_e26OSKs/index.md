@@ -22,33 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/KhP_e26OSKs/maxresdefault.jpg
 duration: 57
 isShort: true
-tags:
-- Product Owner
-- Customer Feedback Loops
-- Team Collaboration
-- Agile Product Ownership
-- Sprint Review
-- Agile Product Discovery
-- Team Motivation
-- Value Delivery
-- Agile Planning
-- Continuous Improvement
-- Stakeholder Engagement
-- Agile Transformation
-- Employee Engagement
-- Psychological Safety
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- People and Process
-- Organisational Agility
-- Agile Product Management
-- Value Delivery
-- Market Adaptability
+categories: []
 
 ---
  #shorts #shortsvideo #shortvideo Martin Hinshelwood walks us through the top 5 things he would teach a newbie #productowner. This is part 3. To watch the full video, visit https://youtu.be/Fgla_Oox_sE

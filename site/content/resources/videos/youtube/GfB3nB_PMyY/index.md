@@ -27,28 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Coaching
-- Team Collaboration
-- Continuous Learning
-- Discovery and Learning
-- Employee Engagement
-- Leadership Training
-- Agile Transformation
-- Organisational Change
-- Agile Values and Principles
-- Team Motivation
-- Systems Thinking
-- Agile Community
-- Change Management
+tags: []
 resourceTypes:
 - video
-categories:
-- Discovery and Learning
-- People and Process
-- Organisational Agility
-- Value Delivery
-- Resilience and Change
+categories: []
 
 ---
 In the world of Agile and Scrum, training is essential for teams to stay effective and efficient. However, traditional training methods can often feel disconnected from real-world application. This is where immersive learning comes in, offering a holistic approach that integrates not only theory but also practical, hands-on experience.

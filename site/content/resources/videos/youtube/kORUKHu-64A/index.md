@@ -27,18 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum
-- Organisational Change
-- Business Agility
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- Value Delivery
-- Organisational Agility
-- Governance
-- People and Process
+categories: []
 
 ---
 # Scrum and Governance: Navigating the Balance for Agile Success 🚀

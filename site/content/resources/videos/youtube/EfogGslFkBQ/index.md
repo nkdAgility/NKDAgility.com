@@ -27,27 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Planning
-- Agile Estimation
-- Value Stream Management
-- Throughput
-- Cycle Time
-- Evidence Based Management
-- Agile Transformation
-- Team Collaboration
-- Agile Values and Principles
-- Continuous Improvement
-- Agile Software Development
-- Technical Excellence
+tags: []
 resourceTypes:
 - video
-categories:
-- Metrics and Learning
-- Value Delivery
-- Flow Efficiency
-- People and Process
-- Organisational Agility
+categories: []
 
 ---
 **Introduction to Agile Metrics: The Pitfall of Story Points and Velocity**

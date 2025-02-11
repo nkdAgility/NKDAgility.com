@@ -22,33 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/9TbjaO1_Nz8/maxresdefault.jpg
 duration: 151
 isShort: false
-tags:
-- Entrepreneurship
-- Agile Product Management
-- Value Prioritisation
-- Agile Product Discovery
-- Customer Feedback Loops
-- Agile Planning
-- Agile Strategy
-- Business Agility
-- Agile Leadership
-- Continuous Improvement
-- Lean Startup
-- Agile Digital Tools
-- Agile Methodology
-- Team Collaboration
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Agile Product Management
-- Value Delivery
-- Organisational Agility
-- Discovery and Learning
-- People and Process
+categories: []
 
 ---
  The #PSPO or #ProfessionalScrumProductOwner course from #scrumorg has an intense focus on value creation, and how to effectively manage and grow a product in a way that delights customers and disrupts competitors.

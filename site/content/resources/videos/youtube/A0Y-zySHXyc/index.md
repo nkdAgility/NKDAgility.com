@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Accountability
-- Team Collaboration
-- Scrum Team
-- Agile Product Ownership
-- Decision Making
-- Organisational Culture
-- Employee Engagement
-- Agile Transformation
-- Continuous Improvement
-- Agile Methodology
-- Agile Values and Principles
-- Scrum Values
-- Psychological Safety
-- Evidence Based Leadership
+tags: []
 resourceTypes:
 - video
-categories:
-- Transparency and Accountability
-- Scrum
-- Organisational Psychology
-- People and Process
-- Value Delivery
+categories: []
 
 ---
 ## Bridging the Gap Between Developers and Product Owners 🌉 

@@ -27,25 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Decision Theory
-- Evidence Based Management
-- Trend Analysis
-- Continuous Improvement
-- Discovery and Learning
-- Agile Product Discovery
-- Agile Planning
-- Systems Thinking
-- Strategic Goals
-- Value Delivery
+tags: []
 resourceTypes:
 - video
-categories:
-- Decision Theory
-- Systems Thinking
-- Discovery and Learning
-- Organisational Agility
-- Resilience and Change
+categories: []
 
 ---
 **Steve Jobs and the Art of Connecting Dots in Agile Environments** 

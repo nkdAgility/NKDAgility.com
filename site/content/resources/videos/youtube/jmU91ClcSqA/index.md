@@ -27,20 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Project Management
-- Agile Product Discovery
-- Agile Evolution
-- Project Management
-- Organisational Change
+tags: []
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Practical Techniques and Tooling
-- Value Delivery
-- Discovery and Learning
+categories: []
 
 ---
 ## Unpacking Project Management

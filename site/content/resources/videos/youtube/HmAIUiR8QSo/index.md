@@ -23,33 +23,13 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/HmAIUiR8QSo/maxresdefault.jpg
 duration: 387
 isShort: false
-tags:
-- Organisational Culture
-- Engineering Excellence
-- Technical Leadership
-- Continuous Improvement
-- Technical Mastery
-- Decision Theory
-- Agile Software Engineering
-- Value Delivery
-- Systems Thinking
-- Employee Engagement
-- Agile Transformation
-- Evidence Based Management
-- Psychological Safety
-- Lean Thinking
-- Agile Values and Principles
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories:
-- Technical Excellence
-- People and Process
-- Value Delivery
-- Organisational Agility
-- Systems Thinking
+categories: []
 
 ---
  # Building a Culture of Quality and Engineering Excellence | Martin Hinshelwood  

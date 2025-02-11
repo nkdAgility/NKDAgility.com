@@ -27,17 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Customer Satisfaction
-- Agile Values and Principles
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- DevOps
-- People and Process
-- Events and Presentations
-- Value Delivery
+categories: []
 
 ---
 Many of you have asked,  "How did I become the third Scrum training provider for Microsoft?"

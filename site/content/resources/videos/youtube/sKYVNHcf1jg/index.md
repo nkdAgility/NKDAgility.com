@@ -22,33 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/sKYVNHcf1jg/maxresdefault.jpg
 duration: 280
 isShort: false
-tags:
-- Scrum Team
-- Agile Project Management
-- Team Motivation
-- Continuous Improvement
-- Agile Transformation
-- Agile Values and Principles
-- Customer Feedback Loops
-- Team Collaboration
-- Agile Software Development
-- Agile Community
-- Employee Engagement
-- Psychological Safety
-- Agile Methodology
-- Agile Digital Tools
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
-- Agile Product Management
-- People and Process
-- Events and Presentations
-- Resilience and Change
+categories: []
 
 ---
  #agileconsulting can be incredibly rewarding and fulfilling.

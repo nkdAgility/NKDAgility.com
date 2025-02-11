@@ -27,28 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agility
-- Coaching
-- Agile Coaching
-- Agile Community
-- Agile Transformation
-- Agile Leadership
-- Lean Agile
-- People and Process
-- Enterprise Agility
-- Agile Strategy
-- Agile Leader
-- Agile Software Engineering
-- Scrum
-- Agile Methodology
-- Agile Software Development
+tags: []
 resourceTypes:
 - video
-categories:
-- People and Process
-- Organisational Agility
-- Resilience and Change
+categories: []
 
 ---
 **No go zone for Agile consultants**

@@ -29,10 +29,7 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories:
-- Events and Presentations
-- Organisational Agility
-- Discovery and Learning
+categories: []
 
 ---
  What is our training all about? Maybe this timelapse overview of the full four half-days of training will help you. If not, check out our free live-streamed workshops on our channel. 

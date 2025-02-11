@@ -26,29 +26,11 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Product Management
-- Agile Product Ownership
-- Scrum Team
-- Value Prioritisation
-- Agile Planning
-- Customer Feedback Loops
-- Transparency
-- Agile Product Discovery
-- Lean Thinking
-- Continuous Improvement
-- Technical Excellence
-- Decision Making
-- Agile Values and Principles
+tags: []
 resourceTypes:
 - video
 layout: video
-categories:
-- Agile Product Management
-- Scrum
-- Value Delivery
-- Transparency and Accountability
-- Lean
+categories: []
 
 ---
 ## The Pivotal Role of a Product Owner in Cultivating a Stellar Product Backlog

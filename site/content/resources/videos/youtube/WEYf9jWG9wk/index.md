@@ -22,32 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/WEYf9jWG9wk/maxresdefault.jpg
 duration: 53
 isShort: true
-tags:
-- Agile Product Discovery
-- Team Collaboration
-- Team Motivation
-- Continuous Improvement
-- Experimentation
-- Customer Feedback Loops
-- Agile Planning
-- Value Delivery
-- Lean Thinking
-- Agile Transformation
-- Business Agility
-- Agile Values and Principles
-- Evidence Based Management
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Discovery and Learning
-- Organisational Agility
-- Value Delivery
-- Metrics and Learning
-- People and Process
+categories: []
 
 ---
  Quality Code: Achieving Engineering Excellence with NKD Agility. Visit https://www.nkdagility.com #agile #agileproductdevelopment #agileproductmanagement #agileprojectmanagement #productdevelopment #productmanagement #projectmanagement #projectmanager #productowner #scrummaster 

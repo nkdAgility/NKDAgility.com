@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Product Discovery
-- Discovery and Learning
-- Experimentation
-- Agile Product Validation
-- Team Collaboration
-- Continuous Learning
-- Evidence Based Management
-- Agile Product Management
-- Value Delivery
-- Customer Feedback Loops
-- Lean Product Development
-- Agile Planning
-- Agile Leadership
-- Product Strategy
+tags: []
 resourceTypes:
 - video
-categories:
-- Discovery and Learning
-- Metrics and Learning
-- People and Process
-- Agile Product Management
-- Value Delivery
+categories: []
 
 ---
 ## **Why the PPDV Course Was Created**

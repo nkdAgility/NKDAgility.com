@@ -27,18 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Continuous Delivery
-- Agile Product Management
+tags: []
 resourceTypes:
 - video
-categories:
-- Metrics and Learning
-- Discovery and Learning
-- Value Delivery
-- Scrum
-- Technical Excellence
-- Organisational Agility
+categories: []
 
 ---
 When we talk about _evidence-based management_ in Scrum, we're focusing on making decisions grounded in data rather than gut feeling. A core element of this approach involves evaluating our work through four **key value areas**. These areas ensure a holistic view, covering different aspects of the system instead of focusing narrowly on specific metrics. This allows for a more strategic understanding and avoids suboptimal optimizations.

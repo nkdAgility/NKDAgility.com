@@ -27,28 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Kanban
-- Kanban Flow
-- Scaling Kanban
-- Kanban Process
-- Agile Tools
-- Scrum
-- Kanban Theory
-- Kanban Training
-- Flow Efficiency
-- Throughput
-- Pragmatic Thinking
-- Technical Strategy
-- Lean Agile
-- Value Delivery
-- Operational Practices
+tags: []
 resourceTypes:
 - video
-categories:
-- Kanban
-- Metrics and Learning
-- Scrum
+categories: []
 
 ---
 ### Integrating Kanban with Scrum: Enhancing Your Workflow

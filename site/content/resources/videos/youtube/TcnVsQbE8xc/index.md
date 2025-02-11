@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Master
-- Scrum Team
-- Agile Product Management
-- Team Collaboration
-- Agile Coaching
-- Continuous Improvement
-- Agile Product Discovery
-- Agile Values and Principles
-- Team Motivation
-- Organisational Agility
-- Change Management
-- Agile Transformation
-- Leadership Training
-- Employee Engagement
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- Organisational Agility
-- People and Process
-- Agile Product Management
-- Value Delivery
+categories: []
 
 ---
 ## 🕒 Think a Minute Isn’t Much?  

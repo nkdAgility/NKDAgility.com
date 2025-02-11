@@ -22,28 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/KHcSWD2tV6M/maxresdefault.jpg
 duration: 67
 isShort: false
-tags:
-- Agile Apocalypse
-- Team Collaboration
-- Psychological Safety
-- Customer Feedback Loops
-- Agile Values and Principles
-- Continuous Improvement
-- Team Motivation
-- Organisational Culture
-- Change Management
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- People and Process
-- Organisational Agility
-- Transparency and Accountability
-- Value Delivery
-- Resilience and Change
+categories: []
 
 ---
  There's the kind of silence that brings peace into your world, the kind of silence that enables you to pause, reflect, and discover the deeper solutions that prove so elusive when you're running at full speed.

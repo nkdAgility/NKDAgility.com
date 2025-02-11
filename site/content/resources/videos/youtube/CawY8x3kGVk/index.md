@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Master
-- Scrum Team
-- Technical Debt
-- Team Collaboration
-- Agile Planning
-- Self Organisation
-- Continuous Improvement
-- Agile Product Ownership
-- Value Delivery
-- Agile Values and Principles
-- Change Management
-- Organisational Agility
-- Evidence Based Management
-- Team Motivation
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- People and Process
-- Technical Excellence
-- Organisational Agility
-- Value Delivery
+categories: []
 
 ---
 # Scrum and Micromanagement: Dispelling the Myth 🚀

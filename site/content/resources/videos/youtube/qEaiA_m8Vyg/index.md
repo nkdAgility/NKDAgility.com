@@ -25,29 +25,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Continuous Learning
-- Team Collaboration
-- Discovery and Learning
-- Agile Leadership
-- Empirical Process Control
-- Agile Product Management
-- Agile Transformation
-- Evidence Based Improvement
-- Team Motivation
-- Agile Values and Principles
-- Customer Feedback Loops
-- Agile Community
-- Psychological Safety
-- Agile Software Development
+tags: []
 resourceTypes:
 - video
-categories:
-- Discovery and Learning
-- Systems Thinking
-- Metrics and Learning
-- People and Process
-- Organisational Agility
+categories: []
 
 ---
 ## Why Have You Decided to Go All-In on Immersive Learning Experiences? 

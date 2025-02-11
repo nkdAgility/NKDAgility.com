@@ -22,18 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/CWxkBJJduCE/maxresdefault.jpg
 duration: 53
 isShort: true
-tags:
-- Test driven development
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Technical Excellence
-- Systems Thinking
-- People and Process
+categories: []
 
 ---
  Redefining test driven development. Excerpt from our "Quality Code: Achieving Engineering Excellence with NKD Agility" series. Visit https://www.nkdagility.com #agile #scrum #productdevelopment #agileproductdevelopment #agileproductmanagement #developer #projectmanager 

@@ -29,14 +29,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Master
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- People and Process
-- Organisational Psychology
+categories: []
 
 ---
 ## The Agile Landscape: A Guide to Effective Coaching and Leadership 

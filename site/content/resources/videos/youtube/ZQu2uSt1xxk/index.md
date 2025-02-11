@@ -30,10 +30,7 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories:
-- Kanban
-- Practical Techniques and Tooling
-- Metrics and Learning
+categories: []
 
 ---
 ### Understanding and Applying Kanban: The Professional Kanban Course

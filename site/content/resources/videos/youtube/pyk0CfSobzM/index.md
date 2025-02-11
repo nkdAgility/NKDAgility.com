@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Team
-- Agile Estimation
-- Sprint Planning Workshop
-- Definition of Done
-- Scrum Product Management
-- Agile Product Discovery
-- Continuous Improvement
-- Agile Product Ownership
-- Value Delivery
-- Agile Software Development
-- Empirical Process Control
-- Agile Leadership
-- Team Collaboration
-- Agile Values and Principles
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- People and Process
-- Discovery and Learning
-- Decision Theory
-- Value Delivery
+categories: []
 
 ---
 ## Navigating the Uncertainties of Sprint Estimations in Scrum Teams

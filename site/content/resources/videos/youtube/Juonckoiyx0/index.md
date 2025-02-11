@@ -27,16 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Sprint Review
-- Agile Values and Principles
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- People and Process
-- Value Delivery
-- Transparency and Accountability
+categories: []
 
 ---
 ## Unleashing the Power of Stakeholder Engagement in Sprint Reviews 💡**🔍** 

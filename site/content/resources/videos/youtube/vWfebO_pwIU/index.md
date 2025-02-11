@@ -22,33 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/vWfebO_pwIU/maxresdefault.jpg
 duration: 291
 isShort: false
-tags:
-- Continuous Learning
-- Agile Certification
-- Scrum Team
-- Technical Mastery
-- Agile Product Management
-- Agile Coaching
-- Professional Scrum
-- Scrum Values
-- Agile Evolution
-- Value Delivery
-- Customer Feedback Loops
-- Agile Product Discovery
-- Evidence Based Improvement
-- Agile Software Development
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
-- People and Process
-- Discovery and Learning
-- Value Delivery
-- Organisational Psychology
+categories: []
 
 ---
  *Why do so few scrum masters progress to the PSM II and PSM III certifications?*

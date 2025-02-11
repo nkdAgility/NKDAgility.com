@@ -23,32 +23,13 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/CXOrndz5lN4/maxresdefault.jpg
 duration: 40
 isShort: true
-tags:
-- Engineering Excellence
-- Technical Leadership
-- Organisational Culture
-- Continuous Improvement
-- Decision Theory
-- Systems Thinking
-- Team Collaboration
-- Employee Engagement
-- Agile Leadership
-- Technical Mastery
-- Evidence Based Management
-- Agile Strategy
-- Business Agility
-- Change Management
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories:
-- Technical Excellence
-- Systems Thinking
-- People and Process
-- Discovery and Learning
-- Organisational Agility
+categories: []
 
 ---
  Building a culture of #engineering excellence. https://www.nkdagility.com #agile #agileproductdevelopment #agileproductmanagement #agileprojectmanagement #projectmanagement #projectmanager #agileproductdevelopment #productmanagement 

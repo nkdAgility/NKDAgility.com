@@ -21,21 +21,7 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/1M2_AVqoRbs/maxresdefault.jpg
 duration: 36
 isShort: true
-tags:
-- Value Delivery
-- Agile Product Management
-- Business Agility
-- Continuous Improvement
-- Team Collaboration
-- Strategic Goals
-- Agile Strategy
-- Evidence Based Management
-- Ability to Innovate
-- Customer Feedback Loops
-- Lean Thinking
-- Agile Planning
-- Systems Thinking
-- Technical Excellence
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -43,12 +29,7 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories:
-- Technical Excellence
-- Value Delivery
-- Value Stream Management
-- Organisational Agility
-- Discovery and Learning
+categories: []
 
 ---
  Technical debt costs you more than you think. Visit https://www.nkdagility.com #agile #agileproductdevelopment #productdevelopment #agileprojectmanagement #projectmanagement #projectmanager #productowner #scrummaster #productmanager #developer #technicaldebt 

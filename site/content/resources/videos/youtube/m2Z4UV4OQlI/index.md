@@ -27,28 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Evidence Based Management
-- Decision Theory
-- Team Collaboration
-- Leadership Training
-- Change Management
-- Organisational Agility
-- Transparency
-- Continuous Improvement
-- Agile Strategy
-- Team Motivation
-- Employee Engagement
-- Systems Thinking
-- Value Delivery
+tags: []
 resourceTypes:
 - video
-categories:
-- Metrics and Learning
-- Organisational Agility
-- People and Process
-- Transparency and Accountability
-- Resilience and Change
+categories: []
 
 ---
 In today's fast-paced world, organizations often struggle to find the right metrics that drive success. Whether you're a manager, product owner, Scrum Master, or CEO, the **Professional Agile Leadership - Evidence-Based Management (PAL-EBM)** class provides valuable insights into how to navigate this critical aspect of your leadership journey.

@@ -29,12 +29,7 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories:
-- Azure DevOps
-- Practical Techniques and Tooling
-- People and Process
-- Technical Excellence
-- Value Delivery
+categories: []
 
 ---
  Unpack 4 critical Azure DevOps pitfalls that make the Azure DevOps product teams' toes curl! 🛠️✨

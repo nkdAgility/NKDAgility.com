@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Coaching
-- Scrum Team
-- Technical Mastery
-- Agile Product Management
-- Continuous Improvement
-- DevOps
-- Agile Values and Principles
-- Team Collaboration
-- Agile Software Development
-- Agile Mentoring
-- Technical Excellence
-- Systems Thinking
-- Discovery and Learning
-- Psychological Safety
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- Technical Excellence
-- DevOps
-- People and Process
-- Discovery and Learning
+categories: []
 
 ---
 ## Limits of Professional Coaching

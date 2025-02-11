@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Team Collaboration
-- Agile Planning
-- Kanban Theory
-- Agile Frameworks
-- Agile Transformation
-- Team Motivation
-- Continuous Improvement
-- Agile Problem Solving
-- Self Organisation
-- Value Delivery
-- Agile Leadership
-- Scrum Team
-- Agile Methodology
-- Systems Thinking
+tags: []
 resourceTypes:
 - video
-categories:
-- People and Process
-- Kanban
-- Scrum
-- Organisational Agility
-- Transparency and Accountability
+categories: []
 
 ---
 ### Achieving Team Alignment with Kanban: The Importance of a Working Agreement

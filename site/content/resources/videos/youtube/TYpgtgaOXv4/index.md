@@ -27,30 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Product Backlog
-- Agile Product Ownership
-- Scrum Product Management
-- Agile Planning
-- Team Collaboration
-- Value Prioritisation
-- Transparency
-- Continuous Improvement
-- Agile Product Discovery
-- Evidence Based Management
-- Agile Software Development
-- Agile Methodology
-- Organisational Agility
-- Customer Feedback Loops
-- Backlog Refinement
+tags: []
 resourceTypes:
 - video
-categories:
-- Product Delivery
-- Agile Product Management
-- Organisational Agility
-- Value Delivery
-- Transparency and Accountability
+categories: []
 
 ---
 Product backlog management is gaining a lot of attention in the Agile community right now—and for good reason. From my experience working with organizations across various industries, one of the most significant areas where I see teams struggle is in managing their product backlogs effectively.

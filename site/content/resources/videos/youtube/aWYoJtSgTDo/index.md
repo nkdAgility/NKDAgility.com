@@ -22,30 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/aWYoJtSgTDo/maxresdefault.jpg
 duration: 204
 isShort: false
-tags:
-- Team Collaboration
-- Agile Coaching
-- Scrum Team
-- Continuous Improvement
-- Customer Feedback Loops
-- Discovery and Learning
-- Agile Values and Principles
-- Employee Engagement
-- Organisational Agility
-- Agile Transformation
-- Sensemaking
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Discovery and Learning
-- Systems Thinking
-- People and Process
-- Organisational Agility
-- Resilience and Change
+categories: []
 
 ---
  #agileleadership is about sensing opportunities, responding to threats, and making valuable decisions even when you don't have all the information you need.

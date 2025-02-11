@@ -27,28 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Community
-- Agile Coaching
-- Team Collaboration
-- Team Motivation
-- Continuous Learning
-- Psychological Safety
-- Agile Mentoring
-- Agile Values and Principles
-- Organisational Culture
-- Change Management
-- Discovery and Learning
-- Employee Engagement
-- Coaching
+tags: []
 resourceTypes:
 - video
-categories:
-- People and Process
-- Organisational Agility
-- Discovery and Learning
-- Value Delivery
-- Organisational Psychology
+categories: []
 
 ---
 Being an effective Agile coach requires more than just mastering the frameworks and processes of Agile. It’s about continual growth, pushing your boundaries, and being part of a community that challenges you, not one that simply agrees with everything you say. If you're aiming to elevate your coaching game, the key lies in surrounding yourself with diverse perspectives that question, refine, and enhance your approach.

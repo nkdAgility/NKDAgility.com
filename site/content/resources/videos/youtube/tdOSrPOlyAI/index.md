@@ -23,31 +23,13 @@ aliasesFor404:
 preview: https://i9.ytimg.com/vi/tdOSrPOlyAI/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAWEG3GhslAtEUFyG4Q62XYoQlRRA
 duration: 127
 isShort: false
-tags:
-- Engineering Excellence
-- Technical Leadership
-- Technical Debt
-- Continuous Improvement
-- Team Collaboration
-- Agile Strategy
-- Value Delivery
-- Customer Satisfaction
-- Agile Software Development
-- Systems Thinking
-- Organisational Agility
-- Agile Transformation
-- Lean Thinking
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories:
-- Technical Excellence
-- Value Delivery
-- Organisational Agility
-- People and Process
-- Value Stream Management
+categories: []
 
 ---
  # Partnering for Engineering Excellence and Technical Leadership | Martin Hinshelwood  

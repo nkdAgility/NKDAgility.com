@@ -22,33 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/XF95kabzSeY/maxresdefault.jpg
 duration: 67
 isShort: false
-tags:
-- Product Owner
-- Agile Product Ownership
-- Scrum Team
-- Agile Planning
-- Agile Product Discovery
-- Agile Mentoring Program
-- Agile Coaching
-- Scrum Product Management
-- Continuous Improvement
-- Agile Software Development
-- Customer Feedback Loops
-- Agile Values and Principles
-- Team Collaboration
-- Agile Community
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Agile Product Management
-- Scrum
-- People and Process
-- Discovery and Learning
-- Events and Presentations
+categories: []
 
 ---
  #shorts #shortvideo #shortsvideo Martin Hinshelwood walks us through the 5 things he would teach an apprenticeship #productowner. This is part 2. To watch the full video, visit https://youtu.be/Tye_-FY7boo

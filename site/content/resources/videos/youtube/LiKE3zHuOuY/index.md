@@ -25,28 +25,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum
-- Scrum Team
-- Scrum Master
-- Scrum Values
-- Continuous Delivery
-- Technical Excellence
-- Team Collaboration
-- Agile Strategy
-- Agile Product Management
-- Value Delivery
-- Agile Planning
-- Customer Feedback Loops
-- Agile Product Discovery
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- DevOps
-- People and Process
-- Value Delivery
-- Technical Excellence
+categories: []
 
 ---
 ## Scrum in a DevOps World: A Game Changer!

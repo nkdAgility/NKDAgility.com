@@ -29,29 +29,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Product Management
-- Accountability
-- Agile Product Ownership
-- Team Collaboration
-- Strategic Goals
-- Organisational Agility
-- Agile Transformation
-- Continuous Improvement
-- Agile Leadership
-- Agile Values and Principles
-- Change Management
-- Employee Engagement
-- Agile Coaching
-- Agile Community
+tags: []
 resourceTypes:
 - video
-categories:
-- Agile Product Management
-- Organisational Agility
-- Transparency and Accountability
-- People and Process
-- Scrum
+categories: []
 
 ---
 ## Common Comments from the PSPO Course

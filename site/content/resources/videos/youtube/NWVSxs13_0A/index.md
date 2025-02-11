@@ -29,26 +29,8 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
-categories:
-- Events and Presentations
-- Discovery and Learning
-- Agile Product Management
-tags:
-- Agile Methodology
-- Scrum
-- Scrum Team
-- Scrum Product Development
-- Definition of Done
-- Continuous Delivery
-- Technical Excellence
-- Agile Product Management
-- Agile Planning
-- Team Collaboration
-- Customer Feedback Loops
-- Agile Values and Principles
-- Agile Estimation
-- Lean Startup
+categories: []
+tags: []
 
 ---
-  
  [Watch on Youtube](https://www.youtube.com/watch?v=NWVSxs13_0A)

@@ -29,29 +29,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Product Owner
-- Agile Product Ownership
-- Decision Making
-- Agile Strategy
-- Change Management
-- Continuous Improvement
-- Market Adaptability
-- Team Collaboration
-- Agile Planning
-- Agile Product Discovery
-- Evidence Based Management
-- Customer Feedback Loops
-- Adaptive Leadership
-- Agile Transformation
+tags: []
 resourceTypes:
 - video
-categories:
-- Decision Theory
-- Organisational Agility
-- People and Process
-- Discovery and Learning
-- Value Delivery
+categories: []
 
 ---
 ## The Role of the Product Owner: Navigating the Agile Seas 🌊 

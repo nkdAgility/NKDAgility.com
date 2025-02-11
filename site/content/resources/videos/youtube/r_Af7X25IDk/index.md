@@ -22,32 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/r_Af7X25IDk/maxresdefault.jpg
 duration: 3615
 isShort: false
-tags:
-- Change Management
-- Agile Evolution
-- Organisational Change
-- Agile Strategy
-- Business Agility
-- Team Collaboration
-- Continuous Improvement
-- Agile Community
-- Agile Transformation
-- Value Delivery
-- Discovery and Learning
-- Employee Engagement
-- Agile Values and Principles
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- Value Delivery
-- Resilience and Change
-- Discovery and Learning
-- Events and Presentations
+categories: []
 
 ---
  Leading Agile Change is hard and many companies have already been through their agile evolution. What learnings have they found to increase the value delivered. Martin will go through a number of excellent complimentary practices that might provide you with value.

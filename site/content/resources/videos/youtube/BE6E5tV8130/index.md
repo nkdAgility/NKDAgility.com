@@ -27,21 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Project Management
-- Agile Product Development
-- Scrum Team
-- Lean Thinking
-- Agile Leadership
+tags: []
 resourceTypes:
 - video
-categories:
-- Agile Product Management
-- Value Delivery
-- Organisational Agility
-- Discovery and Learning
-- People and Process
-- Market Adaptability
+categories: []
 
 ---
 How is agile product development different to waterfall project management?

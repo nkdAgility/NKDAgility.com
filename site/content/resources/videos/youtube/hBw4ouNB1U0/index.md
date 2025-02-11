@@ -22,30 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/hBw4ouNB1U0/maxresdefault.jpg
 duration: 50
 isShort: true
-tags:
-- Continuous Improvement
-- Kanban Theory
-- Lean Thinking
-- Value Stream Management
-- Systems Thinking
-- Evidence Based Improvement
-- Transparency
-- Agile Tools
-- Change Management
-- Agile Planning
-- Team Collaboration
-- Agile Product Management
-- Agile Software Development
-- Flow Efficiency
-- Agile Values and Principles
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- People and Process
+categories: []
 
 ---
  Tired of stagnant processes and lackluster results? This video dives into the heart of Kanban: continuous improvement. Discover how Kanban empowers you to evolve your workflows, boost efficiency, and achieve outstanding outcomes.

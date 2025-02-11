@@ -29,27 +29,8 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
-categories:
-- Scaling Agility
-- Scrum
-- Practical Techniques and Tooling
-- Value Delivery
-- Transparency and Accountability
-tags:
-- Scaled Agile
-- Team Collaboration
-- Agile Scaling
-- Scrum Product Management
-- Scrum Team
-- Agile Certification
-- Continuous Learning
-- Agile Product Management
-- Scaling Scrum
-- Agile Software Development
-- Value Delivery
-- Agile Project Management
-- Technical Excellence
-- Evidence Based Improvement
+categories: []
+tags: []
 
 ---
  The Scaled Professional Scrum is a hands-on, activity-based course where students develop a collection of skills that can be applied to overcome challenges when scaling Scrum. 

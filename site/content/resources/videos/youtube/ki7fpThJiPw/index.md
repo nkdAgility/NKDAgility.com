@@ -29,26 +29,8 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
-categories:
-- Discovery and Learning
-- Scrum
-- Value Delivery
-- Lean
-tags:
-- Ability to Innovate
-- Scrum
-- Scrum Team
-- Agile Product Discovery
-- Lean Startup
-- Continuous Improvement
-- Experimentation
-- Agile Values and Principles
-- Team Collaboration
-- Agile Methodology
-- Customer Feedback Loops
-- Agile Digital Tools
-- Agile Product Management
-- Agile Planning
+categories: []
+tags: []
 
 ---
  Innovation does not need to cost a lot of money!

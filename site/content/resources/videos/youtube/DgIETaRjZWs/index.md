@@ -29,26 +29,8 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
-categories:
-- Lean
-- Value Delivery
-- Discovery and Learning
-tags:
-- Lean Thinking
-- Lean Product Development
-- Lean Startup
-- Agile Product Discovery
-- Customer Satisfaction
-- Continuous Improvement
-- Value Delivery
-- Agile Methodology
-- Team Collaboration
-- Agile Community
-- Evidence Based Management
-- Agile Transformation
-- Agile Digital Tools
-- Experimentation
+categories: []
+tags: []
 
 ---
-  
  [Watch on Youtube](https://www.youtube.com/watch?v=DgIETaRjZWs)

@@ -29,27 +29,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Team
-- Agile Transformation
-- Continuous Improvement
-- Team Collaboration
-- Cross Functional Teams
-- Agile Product Management
-- Agile Project Management
-- Value Delivery
-- Organisational Agility
-- Agile Values and Principles
-- Employee Engagement
-- Change Management
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- Organisational Agility
-- People and Process
-- Value Delivery
-- Discovery and Learning
+categories: []
 
 ---
 **Can organisations run an Applying Professional Scrum workshop? How would that help them?**

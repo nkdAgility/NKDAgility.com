@@ -27,28 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agility
-- Scrum
-- Agile Software Development
-- Agile Transformation
-- Agile Project Management
-- Agile Software Engineering
-- Agile Product Management
-- People and Process
-- Agile Strategy
-- Agile Leader
-- Agile Community
-- Agile Coaching
-- Agile Evolution
-- Agile Pilot
-- Agile Methodology
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- Agile Product Management
-- People and Process
+categories: []
 
 ---
 **What is the most interesting outcome you have achieved as an agile consultant?**

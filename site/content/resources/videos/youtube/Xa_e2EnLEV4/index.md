@@ -27,28 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Change Management
-- Agile Problem Solving
-- Technical Debt
-- Continuous Improvement
-- Team Collaboration
-- Systems Thinking
-- Organisational Agility
-- Lean Thinking
-- Agile Values and Principles
-- Accountability
-- Team Motivation
-- Agile Transformation
-- Psychological Safety
-- Evidence Based Improvement
+tags: []
 resourceTypes:
 - video
-categories:
-- Kanban
-- People and Process
-- Systems Thinking
-- Resilience and Change
+categories: []
 
 ---
 ### The Danger of Ignoring Problems in Your Kanban Strategy

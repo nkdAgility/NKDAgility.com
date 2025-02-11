@@ -21,21 +21,7 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/220tyMrhSFE/maxresdefault.jpg
 duration: 49
 isShort: true
-tags:
-- Kanban Theory
-- Kanban Process
-- Scaling Kanban
-- Continuous Improvement
-- Value Delivery
-- Lean Principles
-- Flow Efficiency
-- Systems Thinking
-- Agile Planning
-- Team Collaboration
-- Change Management
-- Evidence Based Management
-- Agile Methodology
-- Agile Values and Principles
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -43,10 +29,7 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories:
-- Kanban
-- Value Stream Management
-- Flow Efficiency
+categories: []
 
 ---
  Kanban Principles. Visit https://www.nkdagility.com #agile #agileprojectmanagement #agileproductdevelopment #kanban #agileframework 

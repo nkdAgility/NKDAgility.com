@@ -26,31 +26,11 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Leadership Training
-- Agile Leader
-- Team Collaboration
-- Team Motivation
-- Organisational Agility
-- Change Management
-- Continuous Learning
-- Agile Transformation
-- Employee Engagement
-- Agile Community
-- Agile Values and Principles
-- Systems Thinking
-- Discovery and Learning
-- Psychological Safety
-- Agile Mentoring
+tags: []
 resourceTypes:
 - video
 layout: video
-categories:
-- Organisational Agility
-- People and Process
-- Discovery and Learning
-- Organisational Psychology
-- Value Delivery
+categories: []
 
 ---
 Aspiring agile leaders often face significant challenges when trying to shift organizational culture. They encounter barriers to having the necessary deep conversations and find themselves short on time and space to implement the changes they envision. In today’s fast-paced environments, making that leap to true agile leadership can feel daunting. That's where immersive learning experiences, like the PAL-E (Professional Agile Leadership Essentials) class, come in to play. These courses create room for both reflection and action, driving real, sustainable change within organizations.

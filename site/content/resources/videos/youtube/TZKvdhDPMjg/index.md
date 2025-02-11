@@ -29,17 +29,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Coaching
-- Agile Community
+tags: []
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Discovery and Learning
-- Resilience and Change
-- Agile Product Management
+categories: []
 
 ---
 **One thing a client can do to ensure a successful Agile consulting engagement**

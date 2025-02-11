@@ -21,20 +21,7 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/4FTEJ4tDQqU/maxresdefault.jpg
 duration: 326
 isShort: false
-tags:
-- Scrum
-- Agile Software Development
-- DevOps
-- Team Collaboration
-- Continuous Improvement
-- Agile Values and Principles
-- Organisational Agility
-- Agile Coaching
-- Technical Excellence
-- Agile Transformation
-- Employee Engagement
-- Agile Leadership
-- Change Management
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -42,12 +29,7 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories:
-- People and Process
-- Organisational Agility
-- Scrum
-- DevOps
-- Technical Excellence
+categories: []
 
 ---
  Agile's Journey: A Developer's Transition from Traditional to Agile Practices - Explore a developer's insightful journey from traditional project management to the empowering world of Agile and DevOps. Discover the transformative power of people over tools in this eye-opening video.

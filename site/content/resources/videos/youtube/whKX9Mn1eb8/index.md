@@ -23,20 +23,13 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/whKX9Mn1eb8/maxresdefault.jpg
 duration: 48
 isShort: true
-tags:
-- Agile Product Management
-- Evidence Based Management
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories:
-- Value Delivery
-- Technical Excellence
-- Application Lifecycle Management
-- People and Process
-- Discovery and Learning
+categories: []
 
 ---
  The superpower of quality visit https://www.nkdagility.com #agile #agileproductdevelopment #agileproductmanagement #agileprojectmanagement #projectmanager #projectmanagement #productdevelopment #productmanagement #productowner #scrummaster #productmanager #scrum 

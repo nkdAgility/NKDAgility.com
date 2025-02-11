@@ -22,27 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/U7wIQk1pus0/maxresdefault.jpg
 duration: 722
 isShort: false
-tags:
-- Agile Software Development
-- Agile Tools
-- Azure DevOps
-- Continuous Delivery
-- Technical Excellence
-- Agile Project Management
-- Deployment Strategies
-- Agile Methodology
-- Software Development
-- Agile Product Management
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Install and Configuration
-- Azure DevOps
-- Practical Techniques and Tooling
+categories: []
 
 ---
  I have not done an installation from scratch for a while so I thought that I would share a TFS basic install. For all those that think that installing and configuring TFS is hard or complicated this is for you.

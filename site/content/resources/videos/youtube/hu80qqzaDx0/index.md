@@ -22,30 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/hu80qqzaDx0/maxresdefault.jpg
 duration: 57
 isShort: true
-tags:
-- Team Motivation
-- Organisational Agility
-- Employee Engagement
-- Decision Making
-- Change Management
-- Systems Thinking
-- Value Delivery
-- Continuous Improvement
-- Psychological Safety
-- Data Driven Decisions
-- Team Collaboration
-- Agile Leadership
-- Evidence Based Improvement
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Metrics and Learning
-- People and Process
-- Organisational Psychology
+categories: []
 
 ---
  Introduction to Evidence-based Management. Excerpt 1 #evidencebasedleadership #evidencebasedmanagement #ebm #agile #agileproductdevelopment #agileprojectmanagement #agileproductdevelopment #projectmanagement #projectmanager #productmanagement #productmanager #productowner 

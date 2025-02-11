@@ -23,30 +23,13 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/VkhIXCsoSJw/maxresdefault.jpg
 duration: 529
 isShort: false
-tags:
-- Automated Testing
-- Continuous Delivery
-- Technical Excellence
-- Customer Feedback Loops
-- Agile Software Development
-- Engineering Excellence
-- Technical Debt
-- Agile Product Management
-- Value Delivery
-- Continuous Improvement
-- Team Collaboration
-- Agile Digital Tools
+tags: []
 resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-categories:
-- Technical Excellence
-- DevOps
-- Metrics and Learning
-- Value Delivery
-- AI and Automation in Agility
+categories: []
 
 ---
  Automate Everything: Boosting Engineering Excellence and Building Confidence

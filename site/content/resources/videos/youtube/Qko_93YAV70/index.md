@@ -22,33 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/Qko_93YAV70/maxresdefault.jpg
 duration: 50
 isShort: true
-tags:
-- Kanban Theory
-- Scaling Kanban
-- Systems Thinking
-- Value Delivery
-- Transparency
-- Agile Frameworks
-- Lean Thinking
-- Agile Product Management
-- Agile Planning
-- Agile Transformation
-- Continuous Improvement
-- Kanban Coaching
-- Agile Software Development
-- Agile Values and Principles
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Kanban
-- Scrum
-- Value Stream Management
-- Systems Thinking
-- Value Delivery
+categories: []
 
 ---
  Kanban Vs Scrum. Visit https://www.nkdagility.com #agile #scrum #kanban #agileframework #agileprojectmanagement 

@@ -21,20 +21,7 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/_fFs-0GL1CA/maxresdefault.jpg
 duration: 372
 isShort: false
-tags:
-- Agile Certification
-- Scrum Team
-- Definition of Done
-- Continuous Learning
-- Professional Scrum
-- Agile Product Management
-- Agile Product Validation
-- Evidence Based Improvement
-- Technical Mastery
-- Value Delivery
-- Agile Methodology
-- Discovery and Learning
-- Team Collaboration
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -42,12 +29,7 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories:
-- Scrum
-- Metrics and Learning
-- Discovery and Learning
-- People and Process
-- Technical Excellence
+categories: []
 
 ---
  The world of #agile is inherently complex. If building complex solutions or solving complex problems was a straightforward process of observing a formula, traditional #projectmanagement would do the trick and there would be no need for #agile or #scrum.

@@ -29,26 +29,8 @@ sitemap:
 layout: video
 resourceTypes:
 - video
-categories:
-- Events and Presentations
-- Discovery and Learning
-- Practical Techniques and Tooling
-tags:
-- Scrum
-- Scrum Team
-- Definition of Done
-- Software Increment
-- Continuous Delivery
-- Technical Excellence
-- Agile Methodology
-- Agile Product Management
-- Agile Project Management
-- Agile Values and Principles
-- Team Collaboration
-- Team Motivation
-- Continuous Improvement
-- Customer Feedback Loops
+categories: []
+tags: []
 
 ---
-  
  [Watch on Youtube](https://www.youtube.com/watch?v=6KQQ4MLMnj0)

@@ -27,31 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Continuous Improvement
-- Scrum Team
-- Scrum Product Management
-- Definition of Done
-- Agile Values and Principles
-- Lean Thinking
-- Agile Software Development
-- Agile Frameworks
-- Systems Thinking
-- Agile Evolution
-- Value Delivery
-- Agile Product Management
-- Team Collaboration
-- Evidence Based Improvement
-- Customer Feedback Loops
+tags: []
 resourceTypes:
 - video
-categories:
-- Kaizen
-- Continuous Improvement
-- Metrics and Learning
-- Kanban
-- Lean
-- Scrum
+categories: []
 
 ---
 In the world of Scrum, Agile, and Kanban, we often borrow terms from other languages to express important principles. One such term is **Kaizen** – a Japanese word that signifies continuous improvement. While we may not always use the word exactly as intended in its native language, the underlying concept is something we should all embrace in our professional lives.

@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Transformation
-- Continuous Learning
-- Agile Values and Principles
-- Technical Excellence
-- Agile Product Management
-- Organisational Change
-- Evidence Based Leadership
-- Team Collaboration
-- Agile Coaching
-- Agile Community
-- Employee Engagement
-- Systems Thinking
-- Agile Software Development
-- Leadership Training
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- Organisational Agility
-- People and Process
-- Discovery and Learning
-- Technical Excellence
+categories: []
 
 ---
 Agile was supposed to revolutionize the way we build and deliver products, but it veered off track surprisingly early. The seeds of these challenges were planted during the creation of the Agile Manifesto itself. At Snowbird, a group of experienced and capable practitioners crafted a vision for agility in software development. However, they made some assumptions that have come to haunt us.

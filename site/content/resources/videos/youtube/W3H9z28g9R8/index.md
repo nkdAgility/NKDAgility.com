@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Apocalypse
-- Organisational Agility
-- Team Collaboration
-- Employee Engagement
-- Change Management
-- Value Stream Management
-- Decision Making
-- Systems Thinking
-- Continuous Improvement
-- Agile Transformation
-- Lean Thinking
-- Technical Debt
-- Evidence Based Management
-- Psychological Safety
+tags: []
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Value Stream Management
-- Resilience and Change
-- Systems Thinking
+categories: []
 
 ---
 # Conquering Famine in Agile Organizations: A Blueprint for Success 🚀

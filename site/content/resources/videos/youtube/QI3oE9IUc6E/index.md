@@ -31,28 +31,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Professional Scrum
-- Scrum Team
-- Scrum Values
-- Definition of Done
-- Software Increment
-- Continuous Improvement
-- Agile Transformation
-- Team Collaboration
-- Organisational Change
-- Agile Planning
-- Evidence Based Improvement
-- Technical Excellence
-- Agile Software Development
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- People and Process
-- Value Delivery
-- Organisational Agility
-- Technical Excellence
+categories: []
 
 ---
 ## The APS Advantage: Exploring Professional Scrum Mastery

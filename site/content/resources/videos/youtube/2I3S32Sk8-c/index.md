@@ -26,29 +26,11 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Master
-- Definition of Done
-- Transparency
-- Agile Planning
-- Organisational Change
-- Team Collaboration
-- Continuous Improvement
-- Agile Product Management
-- Agile Values and Principles
-- Accountability
-- Product Backlog
-- Change Management
-- Team Motivation
+tags: []
 resourceTypes:
 - video
 layout: video
-categories:
-- Scrum
-- Organisational Agility
-- Transparency and Accountability
-- People and Process
-- Discovery and Learning
+categories: []
 
 ---
 What would you advise a scrum team to do in their first 4 weeks?

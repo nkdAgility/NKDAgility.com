@@ -22,32 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/qrEqX_5FWM8/maxresdefault.jpg
 duration: 354
 isShort: false
-tags:
-- Agile Planning
-- Team Collaboration
-- Continuous Learning
-- Agile Product Management
-- Scrum Product Management
-- Agile Transformation
-- Employee Engagement
-- Agile Values and Principles
-- Discovery and Learning
-- Agile Coaching
-- Value Delivery
-- Agile Methodology
-- Agile Community
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Discovery and Learning
-- Organisational Agility
-- People and Process
-- Value Delivery
-- Scrum
+categories: []
 
 ---
  *Unlocking Real-World Value with Immersive Learning: A Scrum.org Insight* - Explore the transformative power of immersive learning in this insightful video. Discover how it connects theory to real-world scenarios, enhancing practical skills in project management and Scrum.

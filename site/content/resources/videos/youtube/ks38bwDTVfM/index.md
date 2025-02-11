@@ -23,31 +23,13 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/ks38bwDTVfM/maxresdefault.jpg
 duration: 344
 isShort: false
-tags:
-- Definition of Done
-- Scrum Team
-- Backlog Refinement
-- Sprint Planning Workshop
-- Technical Debt
-- Agile Planning
-- Continuous Improvement
-- Scrum Product Management
-- Agile Software Development
-- Product Backlog
-- Agile Estimation
-- Team Collaboration
-- Agile Values and Principles
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories:
-- Scrum
-- Definition of Done
-- People and Process
-- Technical Excellence
-- Value Delivery
+categories: []
 
 ---
  Sprint Planning Mastery: Avoiding Overload & Perfecting Your Process

@@ -22,22 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/QGXlCm_B5zA/maxresdefault.jpg
 duration: 280
 isShort: false
-tags:
-- Scrum Product Development
-- Definition of Done
-- Agile Values and Principles
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
-- Agile Product Management
-- People and Process
-- Value Delivery
-- Organisational Agility
+categories: []
 
 ---
  The #PSM II or #professionalscrummaster course from Scrum.Org is designed to help a #scrummaster progress in their career from entry-level capability to more advanced capabilities.

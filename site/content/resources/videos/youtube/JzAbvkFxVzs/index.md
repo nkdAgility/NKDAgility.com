@@ -27,30 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Master
-- Scrum Team
-- Scrum Values
-- Pragmatic Thinking
-- Team Collaboration
-- Continuous Improvement
-- Evidence Based Management
-- Agile Values and Principles
-- Organisational Culture
-- Change Management
-- Agile Transformation
-- Team Motivation
-- Psychological Safety
-- Agile Coaching
-- Agile Methodology
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- People and Process
-- Value Delivery
-- Organisational Agility
-- Transparency and Accountability
+categories: []
 
 ---
 In the world of Agile, we often hear about the famous "three questions" used during the daily Scrum or retrospective sessions:

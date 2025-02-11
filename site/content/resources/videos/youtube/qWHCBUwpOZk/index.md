@@ -25,29 +25,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Kanban Theory
-- Continuous Improvement
-- Value Stream Management
-- Flow Efficiency
-- Systems Thinking
-- Lean Thinking
-- Change Management
-- Agile Strategy
-- Team Collaboration
-- Value Delivery
-- Predictability in Kanban
-- Agile Planning
-- Evidence Based Improvement
-- Technical Excellence
+tags: []
 resourceTypes:
 - video
-categories:
-- Kanban
-- Value Stream Management
-- Flow Efficiency
-- People and Process
-- Metrics and Learning
+categories: []
 
 ---
 ### Improving Your Workflow in a Kanban Strategy

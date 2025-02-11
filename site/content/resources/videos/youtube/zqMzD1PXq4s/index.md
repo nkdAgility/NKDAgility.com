@@ -29,10 +29,7 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
-categories:
-- DevOps
-- Technical Excellence
-- People and Process
+categories: []
 
 ---
  Chaos Costs Money: How Engineering Excellence Controls Chaos and Boosts Productivity | Martin Hinshelwood

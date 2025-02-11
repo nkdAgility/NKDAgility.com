@@ -23,20 +23,13 @@ aliasesFor404:
 preview: https://i9.ytimg.com/vi/UgFVn4Sp1rw/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAjw3EucvQxwrhElUanM058m6EQ9w
 duration: 675
 isShort: false
-tags:
-- Agile Product Management
-- Employee Engagement
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories:
-- Metrics and Learning
-- Value Delivery
-- Agile Product Management
-- Scrum
-- Value Stream Management
+categories: []
 
 ---
  Understanding Product Costs and Maximizing Value | Martin Hinshelwood

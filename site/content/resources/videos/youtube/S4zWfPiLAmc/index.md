@@ -27,28 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Kanban Theory
-- Lean Thinking
-- Evidence Based Management
-- Cycle Time
-- Flow Efficiency
-- Value Stream Management
-- Agile Tools
-- Data Driven Decisions
-- Continuous Improvement
-- Agile Strategy
-- Transparency
-- Agile Product Management
-- Agile Coaching
-- Kanban Coaching
-- Predictability in Kanban
+tags: []
 resourceTypes:
 - video
-categories:
-- Metrics and Learning
-- Kanban
-- Value Stream Management
+categories: []
 
 ---
 ### Avoiding Common Mistakes in Your Kanban Strategy

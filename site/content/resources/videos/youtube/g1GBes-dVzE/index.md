@@ -29,26 +29,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Team Collaboration
-- Agile Tools
-- Agile Values and Principles
-- Continuous Improvement
-- Employee Engagement
-- Agile Software Development
-- Technical Mastery
-- Agile Leadership
-- Self Organisation
-- Change Management
-- Agile Community
-- Discovery and Learning
+tags: []
 resourceTypes:
 - video
-categories:
-- People and Process
-- Practical Techniques and Tooling
-- Organisational Agility
-- Technical Excellence
+categories: []
 
 ---
 ## Why a Deep Understanding is Non-Negotiable

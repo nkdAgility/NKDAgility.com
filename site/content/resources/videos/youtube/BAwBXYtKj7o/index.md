@@ -22,31 +22,13 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/BAwBXYtKj7o/maxresdefault.jpg
 duration: 451
 isShort: false
-tags:
-- Technical Debt
-- Continuous Improvement
-- Agile Software Development
-- Value Delivery
-- Deployment Frequency
-- Technical Excellence
-- Evidence Based Management
-- Agile Strategy
-- Systems Thinking
-- Agile Digital Tools
-- Team Collaboration
-- Agile Leadership
-- Lean Thinking
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
-categories:
-- Technical Excellence
-- Value Delivery
-- DevOps
-- Metrics and Learning
-- Practical Techniques and Tooling
+categories: []
 
 ---
 # Technical Debt Management for Long-Term Quality | Martin Hinshelwood  

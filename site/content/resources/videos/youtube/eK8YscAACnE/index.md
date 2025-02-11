@@ -22,30 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/eK8YscAACnE/maxresdefault.jpg
 duration: 37
 isShort: true
-tags:
-- Agile Planning
-- Team Collaboration
-- Cycle Time
-- Throughput
-- Evidence Based Management
-- Agile Values and Principles
-- Agile Transformation
-- Continuous Improvement
-- Agile Software Development
-- Agile Problem Solving
-- Technical Excellence
-- Agile Estimation
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Metrics and Learning
-- People and Process
-- Value Stream Management
-- Technical Excellence
+categories: []
 
 ---
  #shorts #shortvideo #shortsvideo Martin Hinshelwood walks us through the 5 agile bandits. This video features #storypoints 

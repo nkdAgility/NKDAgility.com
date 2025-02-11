@@ -22,33 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/8vu-AXJwwYk/maxresdefault.jpg
 duration: 554
 isShort: false
-tags:
-- Change Management
-- Agile Coaching
-- Organisational Agility
-- Agile Leadership
-- Team Collaboration
-- Continuous Improvement
-- Evidence Based Management
-- Agile Transformation
-- Systems Thinking
-- Agile Values and Principles
-- Employee Engagement
-- Agile Problem Solving
-- Technical Excellence
-- Agile Strategy
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Resilience and Change
-- Value Delivery
-- Systems Thinking
+categories: []
 
 ---
  In 2001, a group of brilliant #softwareengineers came together to define and articulate a new style of #productdevelopment based on their collective knowledge, experience, and experimentation with #agileframeworks.

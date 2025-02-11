@@ -26,29 +26,11 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- DevOps
-- Software Development
-- Agility
-- People and Process
-- Agile Values and Principles
-- Agile Community
-- Software Developers
-- Lean Agile
-- Working Software
-- Agile Software Development
-- Agile Software Engineering
-- Agile Methodology
-- Agile Strategy
-- Agile Evolution
-- Technical Strategy
+tags: []
 resourceTypes:
 - video
 layout: video
-categories:
-- DevOps
-- People and Process
-- Product Delivery
+categories: []
 
 ---
 What is DevOps and how is it different to Agile?

@@ -25,26 +25,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Team Collaboration
-- Change Management
-- Business Agility
-- Agile Strategy
-- Agile Leadership
-- Continuous Improvement
-- Agile Transformation
-- Organisational Change
-- Agile Values and Principles
-- Agile Methodology
-- Team Motivation
+tags: []
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Value Delivery
-- Agile Product Management
-- Resilience and Change
+categories: []
 
 ---
 ## Why Both Are Hard-Hitting but in Different Ways

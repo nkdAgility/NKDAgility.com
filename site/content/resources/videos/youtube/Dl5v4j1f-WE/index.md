@@ -29,27 +29,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Values
-- Professional Scrum
-- Scrum Team
-- Accountability
-- Continuous Improvement
-- Transparency
-- Agile Values and Principles
-- Agile Community
-- Agile Mentoring
-- Evidence Based Leadership
-- Coaching
-- Employee Engagement
-- Organisational Culture
-- Technical Excellence
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- Transparency and Accountability
-- Organisational Psychology
+categories: []
 
 ---
 ## My Professional Scrum Trainer Legacy: What Matters Most to Me?

@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Coaching
-- Leadership Training
-- Agile Product Management
-- Agile Transformation
-- Continuous Learning
-- Agile Values and Principles
-- Team Collaboration
-- Agile Community
-- Agile Software Development
-- Evidence Based Management
-- Organisational Culture
-- Agile Mentoring
-- Agile Project Management
-- Customer Feedback Loops
+tags: []
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Value Delivery
-- Discovery and Learning
-- Technical Excellence
+categories: []
 
 ---
 ## Synergy Between Consulting and Training

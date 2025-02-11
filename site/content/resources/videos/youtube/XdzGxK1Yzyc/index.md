@@ -27,28 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Product Management
-- Scrum Team
-- Accountability
-- Agile Product Ownership
-- Customer Feedback Loops
-- Strategic Goals
-- Team Collaboration
-- Agile Product Discovery
-- Value Delivery
-- Continuous Improvement
-- Agile Leadership
-- Agile Values and Principles
-- Transparency
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- Agile Product Management
-- People and Process
-- Transparency and Accountability
-- Value Delivery
+categories: []
 
 ---
 ## Decoding the Role of the Product Owner

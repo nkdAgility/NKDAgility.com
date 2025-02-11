@@ -22,32 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/hWyF6CbcbQ8/maxresdefault.jpg
 duration: 124
 isShort: false
-tags:
-- Data Driven Decisions
-- Continuous Delivery
-- Technical Excellence
-- Agile Tools
-- Evidence Based Management
-- Change Management
-- Agile Planning
-- Value Stream Management
-- Systems Thinking
-- Agile Software Development
-- Lean Principles
-- Agile Transformation
-- Organisational Agility
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- DevOps
-- Azure DevOps
-- Practical Techniques and Tooling
-- Data Integrity Issues
-- Value Stream Management
+categories: []
 
 ---
  In this video, we dive into the essentials of data integrity and Azure DevOps migrations. Migrating to Azure DevOps, especially from on-premises TFS (Team Foundation Server), presents a key decision: fidelity versus flexibility. Do you migrate everything in one complete transfer, or selectively choose data sets based on your organizational needs? Each option offers unique benefits—and challenges.

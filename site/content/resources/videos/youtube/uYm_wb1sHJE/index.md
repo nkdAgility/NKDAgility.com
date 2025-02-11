@@ -29,27 +29,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Product Management
-- Customer Feedback Loops
-- Agile Product Discovery
-- Agile Coaching
-- Continuous Improvement
-- Team Collaboration
-- Agile Product Management
-- Agile Planning
-- Agile Values and Principles
-- Psychological Safety
-- Experimentation
-- Value Delivery
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- Events and Presentations
-- Agile Product Management
-- People and Process
-- Discovery and Learning
+categories: []
 
 ---
 ## 🚀 Demystifying the Sprint Review Workshop 

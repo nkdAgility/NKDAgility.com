@@ -29,20 +29,8 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
-categories:
-- Events and Presentations
-tags:
-- Featured
-- Agile Community
-- Agile Digital Tools
-- Agile Methodology
-- Agile Software Development
-- Agile Project Management
-- Agile Product Management
-- Agile Product Discovery
-- Agile Transformation
-- Digital Transformation
+categories: []
+tags: []
 
 ---
-  
  [Watch on Youtube](https://www.youtube.com/watch?v=CPRy008ZMTw)

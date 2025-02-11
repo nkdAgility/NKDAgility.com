@@ -22,27 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/oHH_ES7fNWY/maxresdefault.jpg
 duration: 145
 isShort: false
-tags:
-- Azure DevOps
-- Agile Tools
-- Agile Software Development
-- Continuous Delivery
-- Customer Feedback Loops
-- Agile Project Management
-- Agile Methodology
-- Agile Product Management
-- Technical Excellence
-- Lean Principles
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Install and Configuration
-- Azure DevOps
-- Practical Techniques and Tooling
+categories: []
 
 ---
  Have you ever tried to configure emails for an application to send through office 365?

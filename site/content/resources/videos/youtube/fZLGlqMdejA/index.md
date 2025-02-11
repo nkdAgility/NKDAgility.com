@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Value Delivery
-- Flow Efficiency
-- Team Motivation
-- Agile Product Management
-- Continuous Improvement
-- Agile Software Development
-- Agile Values and Principles
-- Evidence Based Management
-- Lean Thinking
-- Agile Resource Management
-- Customer Satisfaction
-- Agile Transformation
-- Team Collaboration
-- Discovery and Learning
+tags: []
 resourceTypes:
 - video
-categories:
-- Value Delivery
-- Flow Efficiency
-- People and Process
-- Discovery and Learning
-- Organisational Agility
+categories: []
 
 ---
 **Overcoming Greed in Agile: A Path to Value and Efficiency** 

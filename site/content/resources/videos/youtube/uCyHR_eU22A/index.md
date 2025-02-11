@@ -27,28 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Product Management
-- Sprint Planning Workshop
-- Scrum Team
-- Value Prioritisation
-- Agile Planning
-- Team Collaboration
-- Agile Product Ownership
-- Definition of Done
-- Continuous Improvement
-- Agile Software Development
-- Technical Excellence
-- Evidence Based Management
-- Agile Values and Principles
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- Agile Product Management
-- Value Delivery
-- People and Process
-- Technical Excellence
+categories: []
 
 ---
 ## Navigating Sprint Backlog Selection

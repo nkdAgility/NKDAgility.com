@@ -27,25 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Leadership Training
-- Change Management
-- Self Organisation
-- Organisational Change
-- Agile Leadership
-- Continuous Improvement
-- Team Motivation
-- Business Agility
-- Agile Strategy
-- Employee Engagement
-- Agile Transformation
-- Agile Values and Principles
-- Systems Thinking
-- Agile Community
+tags: []
 resourceTypes:
 - video
-categories:
-- Agile Product Management
+categories: []
 
 ---
 **Why do you prefer agile consulting over agile coaching?**

@@ -22,23 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/N0Ci9PQQRLc/maxresdefault.jpg
 duration: 423
 isShort: false
-tags:
-- Scrum
-- Scrum Product Management
-- Agile Values and Principles
-- Agile Transformation
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
-- People and Process
-- Organisational Agility
-- Value Delivery
-- Agile Product Management
+categories: []
 
 ---
  #scrum is defined as easy to understand, yet incredibly difficult to master by the co-creators of #scrum. The #scrumguide is less than 20 pages long and so you could move through the theory in a couple of hours, at most.

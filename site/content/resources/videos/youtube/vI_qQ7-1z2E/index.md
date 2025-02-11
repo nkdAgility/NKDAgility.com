@@ -29,18 +29,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Continuous Improvement
-- Discovery and Learning
-- Coaching
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- People and Process
-- Practical Techniques and Tooling
-- Discovery and Learning
-- Transparency and Accountability
+categories: []
 
 ---
 ## Beyond Certification: A Deeper Dive Into the PSM II Course

@@ -26,27 +26,11 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Master
-- Agile Coaching
-- Scrum Team
-- Continuous Learning
-- Team Collaboration
-- Agile Certification
-- Technical Excellence
-- Agile Values and Principles
-- Employee Engagement
-- Agile Transformation
-- Coaching
-- Agile Methodology
-- Team Performance
+tags: []
 resourceTypes:
 - video
 layout: video
-categories:
-- Scrum
-- People and Process
-- Discovery and Learning
+categories: []
 
 ---
 In the world of Scrum, being a Scrum Master is about more than just following the process or scheduling meetings. It's about truly understanding the role, maximizing value, and driving the effectiveness of the teams you work with. Yet, too often, we encounter Scrum Masters who, due to a lack of experience or depth of knowledge, unintentionally inhibit the potential of their teams.

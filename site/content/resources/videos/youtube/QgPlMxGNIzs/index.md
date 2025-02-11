@@ -27,26 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Values and Principles
-- Agile Leadership
-- Organisational Agility
-- Team Collaboration
-- Change Management
-- Agile Coaching
-- Agile Project Management
-- Self Organisation
-- Continuous Improvement
-- Agile Frameworks
-- Leadership Training
+tags: []
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- Agile Product Management
-- Enterprise Agility
-- People and Process
-- Resilience and Change
+categories: []
 
 ---
 How do you think Agile is evolving since its inception in 2001?

@@ -29,14 +29,8 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Events and Presentations
-- Discovery and Learning
-- Agile Product Management
-tags:
-- Agile Community
+categories: []
+tags: []
 
 ---
  00:00:00 Preamble

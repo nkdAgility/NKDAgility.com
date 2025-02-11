@@ -27,27 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Product Strategy
-- Strategic Goals
-- Agile Product Management
-- Agile Product Discovery
-- Scrum Product Management
-- Agile Planning
-- Agile Values and Principles
-- Continuous Improvement
-- Customer Feedback Loops
-- Discovery and Learning
-- Value Delivery
-- Agile Transformation
-- Lean Principles
-- Evidence Based Management
+tags: []
 resourceTypes:
 - video
-categories:
-- Agile Product Management
-- Value Delivery
-- Discovery and Learning
+categories: []
 
 ---
 ## It's All About Direction

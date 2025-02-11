@@ -28,24 +28,11 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Planning
-- Agile Product Discovery
-- Value Prioritisation
-- Customer Feedback Loops
-- Agile Strategy
-- Business Agility
-- Change Management
-- Agile Transformation
-- Evidence Based Management
+tags: []
 resourceTypes:
 - video
 layout: video
-categories:
-- Value Delivery
-- People and Process
-- Organisational Agility
-- Decision Theory
+categories: []
 
 ---
 ## The Double-Edged Sword of Consulting Contracts

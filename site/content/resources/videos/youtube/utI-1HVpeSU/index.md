@@ -25,23 +25,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Team Collaboration
-- Strategic Goals
-- Decision Theory
-- Organisational Agility
-- Systems Thinking
-- Evidence Based Management
-- Change Management
-- Agile Strategy
-- Agile Values and Principles
+tags: []
 resourceTypes:
 - video
-categories:
-- Decision Theory
-- Organisational Psychology
-- Systems Thinking
-- Resilience and Change
+categories: []
 
 ---
 ## Democracy vs. Dictatorship in Agile Leadership: Finding the Middle Ground 

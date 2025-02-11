@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Coaching
-- Team Collaboration
-- Organisational Culture
-- Agile Community
-- Continuous Learning
-- Agile Mentoring
-- Employee Engagement
-- Discovery and Learning
-- Agile Values and Principles
-- Change Management
-- Agile Transformation
-- Leadership Training
-- Agile Mentoring Program
-- Business Agility
+tags: []
 resourceTypes:
 - video
-categories:
-- People and Process
-- Organisational Agility
-- Discovery and Learning
-- Events and Presentations
-- Organisational Psychology
+categories: []
 
 ---
 What is the most valuable thing you have learned through training people?

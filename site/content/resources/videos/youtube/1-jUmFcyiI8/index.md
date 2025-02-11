@@ -23,31 +23,13 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/1-jUmFcyiI8/maxresdefault.jpg
 duration: 551
 isShort: false
-tags:
-- Customer Feedback Loops
-- Value Delivery
-- Lean Product Development
-- Deployment Frequency
-- Data Driven Decisions
-- Software Development
-- Continuous Delivery
-- Continuos Delivery
-- Agile Software Development
-- Continuous Integration
-- Lead Time
-- Agile Product Management
-- Agile Problem Solving
-- Continuous Improvement
-- Product Strategy
+tags: []
 resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-categories:
-- Product Delivery
-- Metrics and Learning
-- Value Delivery
+categories: []
 
 ---
  *Mastering Deployment Frequency: Shorten Feedback Loops, Maximize Value*

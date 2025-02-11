@@ -27,30 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Team Collaboration
-- Team Motivation
-- Agile Leadership
-- Employee Engagement
-- Agile Product Ownership
-- Agile Problem Solving
-- Technical Excellence
-- Continuous Improvement
-- Agile Transformation
-- Leadership Training
-- Organisational Change
-- Psychological Safety
-- Coaching
-- Agile Methodology
-- Agile Software Development
+tags: []
 resourceTypes:
 - video
-categories:
-- People and Process
-- Organisational Psychology
-- Technical Excellence
-- Agile Product Management
-- DevOps
+categories: []
 
 ---
 As a product owner, you might sometimes face the challenge of working with a team that isn't meeting expectations. Incompetence in a team can be frustrating, but it’s essential to approach the situation thoughtfully and strategically before taking any drastic steps. So, what should you do if you find yourself in this predicament? Let’s dive into it.

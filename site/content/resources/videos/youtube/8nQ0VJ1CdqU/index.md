@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Change Management
-- Organisational Change
-- Team Collaboration
-- Team Motivation
-- Employee Engagement
-- Leadership Training
-- Agile Values and Principles
-- Organisational Agility
-- Agile Coaching
-- Systems Thinking
-- Decision Making
-- Psychological Safety
-- Continuous Improvement
-- Agile Community
+tags: []
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Resilience and Change
-- Systems Thinking
-- Decision Theory
+categories: []
 
 ---
 Why did so many of the early agile transformations fail?

@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Strategy
-- Empirical Process Control
-- Organisational Change
-- Continuous Improvement
-- Agile Product Discovery
-- Team Collaboration
-- Customer Satisfaction
-- Agile Leadership
-- Agile Product Management
-- Value Delivery
-- Change Management
-- Agile Evolution
-- Team Motivation
-- Agile Transformation
+tags: []
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- Value Delivery
-- Discovery and Learning
-- Resilience and Change
-- Agile Product Management
+categories: []
 
 ---
 Why are recessions a great time for organizations to evaluate the opportunity of agile?

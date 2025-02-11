@@ -27,30 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Team Collaboration
-- Team Motivation
-- Continuous Improvement
-- Agile Leadership
-- Self Organisation
-- Value Delivery
-- Organisational Agility
-- Change Management
-- Agile Strategy
-- Employee Engagement
-- Agile Transformation
-- Agile Values and Principles
-- Experimentation
-- Cross Functional Teams
+tags: []
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Value Delivery
-- Metrics and Learning
-- Discovery and Learning
-- Resilience and Change
+categories: []
 
 ---
 In the fast-paced world of Agile, the key to success lies in the ability of teams to adapt and evolve. But are your teams truly empowered to change their processes based on what they learn? If they aren't, then they might not be as agile as you think. 🚀

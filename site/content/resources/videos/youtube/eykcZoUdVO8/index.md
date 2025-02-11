@@ -29,28 +29,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Community
-- Agile Mentoring
-- Team Collaboration
-- Team Motivation
-- Agile Values and Principles
-- Continuous Learning
-- Agile Transformation
-- Agile Coaching
-- Agile Project Management
-- Agile Software Development
-- Agile Methodology
-- Agile Digital Tools
-- Agile Evolution
+tags: []
 resourceTypes:
 - video
-categories:
-- People and Process
-- Organisational Agility
-- Discovery and Learning
-- Events and Presentations
-- Agile Product Management
+categories: []
 
 ---
 ## Spotlight on Agile Influencers: The Simon Randell Effect

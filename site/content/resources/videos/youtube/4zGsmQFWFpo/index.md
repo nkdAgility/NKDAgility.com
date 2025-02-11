@@ -26,30 +26,11 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Master
-- Team Collaboration
-- Continuous Learning
-- Leadership Training
-- Agile Product Management
-- Organisational Culture
-- Employee Engagement
-- Agile Transformation
-- Technical Mastery
-- Agile Values and Principles
-- Agile Product Ownership
-- Team Motivation
-- Change Management
-- Agile Software Development
+tags: []
 resourceTypes:
 - video
 layout: video
-categories:
-- Organisational Agility
-- People and Process
-- Discovery and Learning
-- Technical Excellence
-- Scrum
+categories: []
 
 ---
 In today’s rapidly evolving landscape, focusing solely on _Agile_ as a label can be limiting. Instead, the goal should be to increase our organization’s **capability**, **maximize value**, and **enhance effectiveness**. It's not about the moniker; it’s about achieving outcomes that matter. 🏆

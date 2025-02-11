@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Coaching
-- Agile Transformation
-- Agile Methodology
-- Agile Values and Principles
-- Agile Community
-- Agile Product Management
-- Lean Thinking
-- Continuous Improvement
-- Agile Leadership
-- Agile Certifications
-- Scrum Team
-- Scrum Product Development
-- Agile Software Development
-- Professional Scrum
+tags: []
 resourceTypes:
 - video
-categories:
-- Agile Product Management
-- People and Process
-- Lean
-- Scrum
-- Discovery and Learning
+categories: []
 
 ---
 **How does someone become an Agile consultant?**

@@ -27,28 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agility
-- Scrum
-- Coaching
-- People and Process
-- Agile Software Development
-- Agile Coaching
-- Empirical Process Control
-- Agile Frameworks
-- Agile Community
-- Lean Agile
-- Agile Software Engineering
-- Value Delivery
-- Agile Project Management
-- Scrum Product Management
-- Scrum Product Development
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- People and Process
-- Value Delivery
+categories: []
 
 ---
 What is a common mistake made by rookie agile consultants?

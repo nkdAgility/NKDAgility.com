@@ -26,25 +26,11 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Team Motivation
-- Agile Planning
-- Agile Product Discovery
-- Continuous Improvement
-- Discovery and Learning
-- Employee Engagement
-- Agile Community
-- Agile Values and Principles
-- Agile Transformation
-- Customer Feedback Loops
+tags: []
 resourceTypes:
 - video
 layout: video
-categories:
-- People and Process
-- Discovery and Learning
-- Value Delivery
-- Organisational Agility
+categories: []
 
 ---
 ## The Magic of the 4-Day Training Format!

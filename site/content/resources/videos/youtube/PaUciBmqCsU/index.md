@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Kanban Theory
-- Scrum
-- Agile Frameworks
-- Value Delivery
-- Transparency
-- Systems Thinking
-- Agile Product Management
-- Continuous Improvement
-- Agile Planning
-- Team Collaboration
-- Agile Values and Principles
-- Lean Thinking
-- Agile Transformation
-- Agile Software Development
+tags: []
 resourceTypes:
 - video
-categories:
-- Kanban
-- Scrum
-- Value Stream Management
-- Systems Thinking
-- Value Delivery
+categories: []
 
 ---
 If you're talking about Kanban versus Scrum, chances are you might not fully understand what Kanban is all about. Kanban isn’t a rival or alternative to Scrum—it’s a strategy that can complement any system or process. Whether you’re working with Scrum or any other system, integrating Kanban can help you gain deeper insights and improve the overall flow of value.

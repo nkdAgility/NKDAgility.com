@@ -22,33 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/MutnPwNzyXM/maxresdefault.jpg
 duration: 263
 isShort: false
-tags:
-- Customer Satisfaction
-- Change Management
-- Agile Coaching
-- Value Delivery
-- Systems Thinking
-- Organisational Agility
-- Agile Transformation
-- Evidence Based Management
-- Agile Values and Principles
-- Continuous Improvement
-- Agile Project Management
-- Agile Leadership
-- Team Collaboration
-- Agile Product Management
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Value Delivery
-- Organisational Agility
-- People and Process
-- Resilience and Change
-- Systems Thinking
+categories: []
 
 ---
  Making the transition from #agilepractitioner to #agileconsultant can be tough, mainly because you are now working with teams of #agile teams rather than your own work, or team environment.

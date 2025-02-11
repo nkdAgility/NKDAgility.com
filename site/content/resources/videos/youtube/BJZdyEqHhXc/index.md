@@ -22,34 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/BJZdyEqHhXc/maxresdefault.jpg
 duration: 271
 isShort: false
-tags:
-- Change Management
-- Organisational Change
-- Agile Strategy
-- Agile Leadership
-- Business Agility
-- Continuous Improvement
-- Evidence Based Management
-- Systems Thinking
-- Agile Transformation
-- Team Collaboration
-- Employee Engagement
-- Agile Values and Principles
-- Coaching
-- Psychological Safety
-- Decision Making
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Resilience and Change
-- Discovery and Learning
-- Value Delivery
+categories: []
 
 ---
  Due to the lack of regulation in the Agile industry, there are a number of people who have had poor experiences with people who claim to be an #agilecoach, but don't possess the skills, certifications, and experience to be one.

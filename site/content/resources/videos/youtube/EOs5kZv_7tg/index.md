@@ -29,24 +29,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Leadership Training
-- Agile Coaching
-- Team Motivation
-- Organisational Agility
-- Change Management
-- Agile Community
-- Employee Engagement
-- Agile Values and Principles
-- Agile Mentoring
+tags: []
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Organisational Psychology
-- Discovery and Learning
-- Value Delivery
+categories: []
 
 ---
 ## Power of Passion
