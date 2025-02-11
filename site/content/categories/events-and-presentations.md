@@ -2,21 +2,21 @@
 title: Events and Presentations
 description: Talks, conferences, webinars, and presentations related to Agile, DevOps, and software engineering.
 Instructions: |-
-  Use this category only for discussions on Events and Presentations.
+  **Use this category only for discussions on Events and Presentations.**  
+  This category encompasses talks, conferences, webinars, and presentations that focus on Agile, DevOps, and software engineering. The purpose is to share insights, experiences, and knowledge from industry experts and practitioners, fostering a community of learning and collaboration.
 
-  **Scope and Purpose:**  
-  This category is dedicated to sharing insights, experiences, and knowledge related to events and presentations within the realms of Agile methodologies, DevOps practices, and business agility. It serves as a platform for professionals to discuss conferences, workshops, webinars, and other relevant gatherings that contribute to the advancement of these fields.
+  **Key Topics:**
+  - Keynote speeches from Agile and DevOps thought leaders.
+  - Panel discussions on best practices in Agile methodologies and DevOps practices.
+  - Workshops that provide hands-on experience with Agile frameworks, DevOps tools, and techniques.
+  - Case studies presented at conferences showcasing successful Agile transformations or DevOps implementations.
+  - Webinars that explore emerging trends in Agile, DevOps, and software engineering.
+  - Networking events that facilitate discussions among professionals in the Agile and DevOps communities.
 
-  **Key Topics to Discuss:**
-  - Upcoming Agile and DevOps conferences and their significance.
-  - Recaps and key takeaways from past events and presentations.
-  - Best practices for delivering effective presentations on Agile and DevOps topics.
-  - Networking opportunities and experiences from industry events.
-  - Reviews of speakers and sessions that have made an impact on the community.
-  - Innovations and trends highlighted during events that influence business agility.
-  - Strategies for engaging audiences during presentations on Agile methodologies.
-
-  Ensure that all discussions are relevant to the category and contribute to the collective understanding of Agile, DevOps, and business agility within the professional community.
+  **Exclusions:**
+  - Content that does not pertain to live or recorded events, such as articles or blog posts that do not reference specific presentations or talks.
+  - Discussions that focus solely on theoretical concepts without a connection to actual events or presentations.
+  - Personal opinions or anecdotes that do not relate to formal presentations or structured learning experiences.
 
 ---
 

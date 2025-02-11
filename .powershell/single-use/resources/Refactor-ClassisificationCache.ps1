@@ -30,6 +30,9 @@ switch ($ClassificationType) {
     }
 }
 
+$keysToRemove = (Get-CatalogHashtable -Classification "categories").keys | Where-Object { $_ -notin (Get-CatalogHashtable -Classification "tags").keys }
+
+
 # Initialize a hash table to track counts of each ResourceType
 $resourceTypeCounts = @{}
 

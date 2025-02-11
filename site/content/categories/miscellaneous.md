@@ -2,22 +2,20 @@
 title: Miscellaneous
 description: Topics that don't fit into any specific category.
 Instructions: |-
-  Use this category only for discussions on Miscellaneous.
+  **Use this category only for discussions on Miscellaneous.**  
+  The Miscellaneous category encompasses topics that do not align with any specific Agile, Scrum, DevOps, Lean, or Evidence-Based Management frameworks or philosophies. This category serves as a catch-all for content that may be relevant to the broader context of business agility but lacks a direct connection to established theories or practices.
 
-  **Scope and Purpose:**  
-  The Miscellaneous category serves as a catch-all for topics that do not fit neatly into the established categories of Agile methodologies, DevOps practices, or business agility. This category is intended for discussions that explore peripheral ideas, emerging trends, or unique perspectives that may influence or intersect with Agile and DevOps principles.
+  **Key Topics:**
+  - General discussions on Agile methodologies that do not reference specific frameworks or authors.
+  - Anecdotal experiences or opinions that do not provide actionable insights or align with recognised practices.
+  - Non-technical explorations of Agile or DevOps concepts that stray from established literature.
+  - Content that discusses tools, technologies, or practices without a clear link to Agile, Scrum, DevOps, or Lean principles.
+  - Personal reflections or narratives that do not contribute to the understanding of Agile philosophies or practices.
 
-  **Key Topics to Discuss:**
-  - Innovative tools and technologies that support Agile and DevOps practices.
-  - Case studies showcasing unconventional applications of Agile methodologies.
-  - Insights on organisational culture and its impact on Agile transformations.
-  - Discussions on the future of work and its implications for Agile teams.
-  - Reflections on personal experiences and lessons learned in Agile environments.
-  - Explorations of Agile principles in non-software development contexts.
-  - The role of leadership in fostering an Agile mindset across various sectors.
-  - Ethical considerations in Agile and DevOps practices.
-
-  Ensure that all contributions to this category maintain relevance to the overarching themes of Agile, DevOps, and business agility while providing fresh insights or alternative viewpoints.
+  **Strictly Exclude:**
+  - Any content that directly references or applies the principles of Agile, Scrum, DevOps, Lean, or Evidence-Based Management.
+  - Discussions that involve specific methodologies, frameworks, or authors associated with the aforementioned categories.
+  - Technical content that provides actionable insights or guidance based on recognised theories or practices.
 
 ---
 

@@ -2,22 +2,20 @@
 title: DevOps
 description: The union of people, process, and tools, to enable continuous delivery of value to the end users.
 Instructions: |-
-  Use this category only for discussions on DevOps as an ethos, not just a toolchain or job title.
+  **Use this category only for discussions on DevOps.**  
+  The DevOps category encompasses the integration of people, processes, and tools to facilitate the continuous delivery of value to end users. It aims to enhance collaboration between development and operations teams, streamline workflows, and improve the overall efficiency of software delivery.
 
-  Scope and Purpose:
-  The DevOps category is dedicated to the integration of development, operations, and business functions to drive continuous value delivery. It emphasises automation, collaboration, and feedback loops as essential components of high-performing organisations. Discussions should focus on how DevOps enables agility, reliability, and innovation at scale.
+  **Key topics that should be discussed under this category:**
+  - Principles and practices of DevOps, including Continuous Integration (CI) and Continuous Delivery (CD)
+  - The role of automation in DevOps and its impact on deployment frequency and lead time
+  - Cultural shifts required for successful DevOps implementation, including collaboration and communication
+  - Tools and technologies that support DevOps practices, such as version control systems, CI/CD pipelines, and monitoring solutions
+  - Metrics and performance indicators for measuring DevOps success, including deployment success rates and mean time to recovery (MTTR)
+  - Case studies and real-world examples of successful DevOps transformations
+  - The relationship between DevOps and Agile methodologies, including Scrum and Kanban
+  - Challenges and common pitfalls in adopting DevOps practices
 
-  Key Topics to Discuss:
-  - DevOps as an Ethos – Understanding DevOps beyond tools, focusing on culture and collaboration.
-  - CI/CD & Release Automation – Best practices for Continuous Integration, Continuous Delivery, and Continuous Deployment.
-  - Infrastructure as Code (IaC) – Managing infrastructure with tools like Terraform, Bicep, Ansible, and Pulumi.
-  - Observability & Monitoring – Ensuring reliability through logs, metrics, tracing, and alerting.
-  - Security as Code (DevSecOps) – Embedding security in pipelines, infrastructure, and deployment workflows.
-  - Collaboration & Flow Efficiency – Breaking silos between developers, ops, security, and business teams.
-  - Scaling DevOps Practices – Implementing DevOps in large enterprises, regulated industries, and complex environments.
-  - Cloud & Hybrid DevOps – Managing workloads across Azure, AWS, GCP, and on-premises.
-  - DevOps Case Studies & Lessons Learned – Real-world examples of DevOps transformations, success stories, and failures.
-  - Tooling Discussions – Evaluating Azure DevOps, GitHub Actions, GitLab CI/CD, Jenkins, ArgoCD, and other DevOps platforms.
+  **Strictly exclude** unrelated content or misinterpretations of the core classification, such as discussions solely focused on traditional project management, non-technical team dynamics, or unrelated software development methodologies that do not align with the principles of DevOps.
 
-  Ensure that discussions remain focused on DevOps as a strategic enabler of agility, quality, and resilience, rather than just technical implementations.
 ---
+

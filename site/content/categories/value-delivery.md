@@ -2,22 +2,21 @@
 title: Value Delivery
 description: Strategies for iterative and continuous value delivery to customers.
 Instructions: |-
-  Use this category only for discussions on Value Delivery.
+  **Use this category only for discussions on Value Delivery.**  
+  The scope of this category encompasses strategies and methodologies aimed at ensuring iterative and continuous delivery of value to customers within Agile, Scrum, and DevOps frameworks. The purpose is to highlight practices that enhance customer satisfaction and business agility through effective value management.
 
-  **Scope and Purpose:**  
-  The Value Delivery category is dedicated to exploring the principles and practices that enhance the delivery of value in Agile methodologies, DevOps, and business agility. This category aims to facilitate discussions on how organisations can optimise their processes to ensure that the products and services they deliver meet customer needs and expectations effectively and efficiently.
+  **Key Topics:**
+  - Principles of iterative development and incremental delivery.
+  - Techniques for measuring and maximising customer value.
+  - Strategies for aligning product development with customer needs and feedback.
+  - The role of cross-functional teams in delivering value.
+  - Continuous integration and continuous delivery (CI/CD) practices.
+  - Value stream mapping and optimisation.
+  - The impact of Agile methodologies on value delivery.
+  - Evidence-Based Management practices for assessing value delivery effectiveness.
+  - Lean principles in the context of value delivery.
 
-  **Key Topics to Discuss:**
-  - Definition and importance of value delivery in Agile and DevOps contexts.
-  - Techniques for measuring and assessing value delivery, including metrics and KPIs.
-  - Strategies for aligning product development with customer value and business objectives.
-  - The role of continuous feedback and iteration in enhancing value delivery.
-  - Case studies showcasing successful value delivery practices in Agile and DevOps environments.
-  - Tools and frameworks that support value delivery, such as Lean, Kanban, and Scrum.
-  - Challenges and solutions in achieving effective value delivery within teams and organisations.
-  - The impact of organisational culture on value delivery and how to foster a value-driven mindset.
-
-  Ensure that all discussions remain focused on the enhancement of value delivery practices and their implications for Agile and DevOps methodologies.
+  **Strictly exclude** discussions that focus on unrelated topics such as project management methodologies outside Agile, technical implementation details without a value context, or personal opinions that do not align with established theories and philosophies of value delivery.
 
 ---
 

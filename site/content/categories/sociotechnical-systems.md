@@ -2,23 +2,22 @@
 title: Sociotechnical Systems
 description: Understanding how technology and organisational structures interact to shape software delivery and team effectiveness.
 Instructions: |-
-  Use this category only for discussions on Sociotechnical Systems.
+  **Use this category only for discussions on Sociotechnical Systems.**  
+  The Sociotechnical Systems category focuses on the interplay between technology and organisational structures, examining how these elements collectively influence software delivery and team effectiveness. This category aims to explore the integration of social and technical aspects within organisations to enhance performance and adaptability.
 
-  **Scope and Purpose:**  
-  The Sociotechnical Systems category is dedicated to exploring the interplay between social and technical elements within organisations. This category aims to foster understanding of how these systems can be optimised to enhance collaboration, productivity, and overall organisational effectiveness. Discussions should focus on the integration of human factors with technological solutions to create a harmonious work environment that supports Agile methodologies and DevOps practices.
+  **Key Topics:**
+  - The relationship between organisational culture and technology adoption.
+  - The impact of team dynamics on software development processes.
+  - The role of communication and collaboration tools in facilitating effective teamwork.
+  - The influence of organisational structure on project outcomes and delivery speed.
+  - Strategies for aligning technical practices with business goals.
+  - Case studies illustrating successful sociotechnical system implementations.
+  - Theoretical frameworks for understanding sociotechnical interactions, such as the Cynefin Framework.
 
-  **Key Topics to Discuss:**
-  - Definition and principles of sociotechnical systems.
-  - The role of culture and communication in sociotechnical systems.
-  - Impact of organisational structure on team dynamics and performance.
-  - Strategies for aligning technical systems with human needs.
-  - Case studies demonstrating successful sociotechnical system implementations.
-  - Tools and frameworks that support sociotechnical system design.
-  - Challenges and solutions in managing sociotechnical systems.
-  - The relationship between sociotechnical systems and business agility.
-  - Best practices for fostering collaboration between technical and non-technical teams.
-
-  Ensure that all discussions remain focused on the integration of social and technical aspects, promoting a holistic view of organisational effectiveness in the context of Agile and DevOps.
+  **Strictly exclude:**
+  - Discussions solely focused on technical tools without consideration of their organisational context.
+  - Content that does not address the interaction between social and technical systems.
+  - Misinterpretations of sociotechnical principles that neglect the importance of both elements in software delivery.
 
 ---
 

@@ -2,24 +2,23 @@
 title: Azure DevOps
 description: Azure DevOps is a product from Microsoft that provides tools around CI/CD, collaboration, and agile project management. Other names are Team Foundation Server, TFSOnline, Visual Studio Online (VSO), and Visual Studio Team Services.
 Instructions: |-
-  Use this category only for discussions on Azure DevOps.
+  **Use this category only for discussions on Azure DevOps.**  
+  Azure DevOps is a suite of development tools provided by Microsoft that facilitates continuous integration and continuous delivery (CI/CD), collaboration among teams, and agile project management. This category focuses on the functionalities, best practices, and methodologies associated with Azure DevOps, ensuring alignment with Agile and DevOps principles.
 
-  **Scope and Purpose:**  
-  This category is dedicated to exploring Azure DevOps as a comprehensive suite of development tools and services that facilitate the implementation of Agile methodologies and DevOps practices. It aims to provide insights, best practices, and practical guidance for teams looking to enhance their software development lifecycle through Azure DevOps.
+  **Key Topics:**
+  - Overview of Azure DevOps services (Boards, Repos, Pipelines, Test Plans, Artifacts)
+  - Implementation of CI/CD pipelines using Azure DevOps
+  - Integration of Azure DevOps with other tools and platforms
+  - Agile project management practices within Azure DevOps
+  - Best practices for collaboration and team workflows in Azure DevOps
+  - Case studies and success stories of Azure DevOps in organisations
+  - Comparisons with other DevOps tools and platforms
+  - Customisation and extension of Azure DevOps functionalities
 
-  **Key Topics to Discuss:**
-  - Overview of Azure DevOps Services and Features
-  - Integration of Azure DevOps with Agile Methodologies
-  - Continuous Integration and Continuous Deployment (CI/CD) Pipelines
-  - Version Control with Azure Repos
-  - Work Item Tracking and Management with Azure Boards
-  - Automated Testing and Quality Assurance in Azure DevOps
-  - Release Management and Deployment Strategies
-  - Monitoring and Reporting with Azure DevOps Analytics
-  - Best Practices for Collaboration and Teamwork in Azure DevOps
-  - Case Studies and Success Stories of Azure DevOps Implementation
-
-  Ensure that all discussions remain focused on Azure DevOps and its application within Agile and DevOps frameworks, providing valuable insights for practitioners and organisations aiming to improve their development processes.
+  **Strictly exclude:**
+  - General discussions on Agile, Scrum, or DevOps that do not specifically mention Azure DevOps
+  - Technical details unrelated to Azure DevOps services or tools
+  - Personal opinions or experiences that do not provide insights into Azure DevOps functionalities or practices
 
 ---
 

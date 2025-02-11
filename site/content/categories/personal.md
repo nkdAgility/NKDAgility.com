@@ -2,24 +2,21 @@
 title: Personal
 description: Just some personal thoughts and experiences.
 Instructions: |-
-  Use this category only for discussions on Personal Development within Agile, DevOps, and Evidence-Based Management.
+  **Use this category only for discussions on Personal.**  
+  The Personal category encompasses individual reflections, experiences, and insights that relate to the broader themes of Agile, Scrum, DevOps, and business agility. This category is intended for content that shares personal anecdotes or subjective interpretations that may not strictly adhere to established theories or frameworks but provide a unique perspective on these methodologies.
 
-  **Scope and Purpose:**  
-  This category is dedicated to exploring personal growth and development strategies for individuals working within Agile methodologies, DevOps practices, and Evidence-Based Management frameworks. It aims to provide insights, tools, and techniques that enhance personal effectiveness, foster continuous learning, and promote a growth mindset in a fast-paced, collaborative environment.
+  **Key topics that should be discussed under this category include:**
+  - Personal experiences with Agile transformations or implementations.
+  - Reflections on challenges faced in adopting Scrum or DevOps practices.
+  - Individual insights on the impact of Lean principles in personal or professional contexts.
+  - Anecdotes about team dynamics and personal contributions to Agile teams.
+  - Personal interpretations of Evidence-Based Management practices.
+  - Stories illustrating the application of Complexity Theory in real-world scenarios.
 
-  **Key Topics to Discuss:**
-  - Self-reflection techniques for Agile practitioners.
-  - Time management strategies in Agile and DevOps contexts.
-  - Building resilience and adaptability in a changing work environment.
-  - Personal goal setting aligned with team objectives.
-  - Skills development for Agile roles (e.g., Scrum Master, Product Owner).
-  - The importance of emotional intelligence in team dynamics.
-  - Networking and relationship-building within Agile communities.
-  - Work-life balance strategies for high-performance teams.
-  - Continuous learning and professional development resources.
-  - Mindfulness and stress management techniques for Agile professionals.
-
-  Ensure that all discussions remain focused on personal development aspects relevant to Agile, DevOps, and Evidence-Based Management, promoting a culture of growth and improvement.
+  **Strictly exclude:**
+  - Technical discussions or detailed analyses of Agile, Scrum, DevOps, or Lean frameworks.
+  - Content that misrepresents or deviates from the original theories and philosophies of the mentioned methodologies.
+  - Generalised statements that do not provide personal context or insights.
 
 ---
 

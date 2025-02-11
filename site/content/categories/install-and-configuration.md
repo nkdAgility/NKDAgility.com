@@ -2,21 +2,18 @@
 title: Install and Configuration
 description: Guides and discussions around setting up, installing, and configuring tools, software, and platforms.
 Instructions: |-
-  Use this category only for discussions on Install and Configuration.
+  **Use this category only for discussions on Install and Configuration.**  
+  This category encompasses guides and discussions focused on the processes of setting up, installing, and configuring tools, software, and platforms relevant to Agile, DevOps, and business agility practices. The purpose is to provide clear, actionable instructions and insights that facilitate the effective implementation of these technologies within an organisational context.
 
-  **Scope and Purpose:**  
-  This category is dedicated to the installation and configuration of tools, frameworks, and environments that support Agile methodologies, DevOps practices, and business agility. It aims to provide a platform for sharing best practices, troubleshooting tips, and configuration guidelines to ensure optimal setup and performance of Agile and DevOps tools.
+  **Key Topics:**
+  - Step-by-step installation procedures for Agile and DevOps tools (e.g., CI/CD pipelines, project management software).
+  - Configuration best practices for software and platforms that support Agile methodologies (e.g., Jira, Trello, Git).
+  - Integration of tools within existing workflows to enhance collaboration and efficiency.
+  - Troubleshooting common installation and configuration issues.
+  - Recommendations for system requirements and compatibility considerations.
+  - Security and compliance aspects during the installation and configuration phases.
 
-  **Key Topics to Discuss:**
-  - Installation procedures for Agile project management tools (e.g., Jira, Trello, Asana).
-  - Configuration of Continuous Integration/Continuous Deployment (CI/CD) pipelines using tools like Jenkins, GitLab CI, or CircleCI.
-  - Setting up version control systems (e.g., Git) and best practices for repository management.
-  - Configuration of cloud services and infrastructure (e.g., AWS, Azure, Google Cloud) to support Agile teams.
-  - Integration of monitoring and logging tools (e.g., Prometheus, Grafana, ELK Stack) for enhanced visibility in Agile projects.
-  - Best practices for configuring Agile frameworks (e.g., Scrum, Kanban) within project management tools.
-  - Troubleshooting common installation and configuration issues encountered in Agile and DevOps environments.
-
-  Ensure that all discussions remain focused on the technical aspects of installation and configuration, providing clear, actionable insights for practitioners in the field.
+  **Strictly exclude** any content that does not directly relate to the technical aspects of installation and configuration, such as theoretical discussions on Agile principles, team dynamics, or high-level strategic planning. Misinterpretations of the core classification, such as general software development practices or unrelated technology discussions, should also be omitted.
 
 ---
 

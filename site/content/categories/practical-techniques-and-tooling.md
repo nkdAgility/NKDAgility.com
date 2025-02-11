@@ -2,24 +2,23 @@
 title: Practical Techniques and Tooling
 description: Exploring different tools, methodologies, and frameworks to improve Agile and DevOps practices.
 Instructions: |-
-  Use this category only for discussions on Practical Techniques and Tooling.
+  **Use this category only for discussions on Practical Techniques and Tooling.**  
+  This category focuses on the exploration and application of various tools, methodologies, and frameworks that enhance Agile and DevOps practices. It aims to provide insights into how these techniques can be effectively implemented to improve team performance, collaboration, and delivery outcomes.
 
-  **Scope and Purpose:**  
-  This category is dedicated to exploring actionable techniques and tools that enhance the implementation of Agile methodologies, DevOps practices, and overall business agility. It aims to provide practitioners with insights and resources that can be directly applied to improve workflows, collaboration, and efficiency within teams and organisations.
+  **Key Topics:**
+  - Overview of Agile and DevOps tools (e.g., Jira, Trello, Git, Jenkins)
+  - Methodologies for implementing Agile practices (e.g., Scrum, Kanban)
+  - Frameworks that support DevOps (e.g., Continuous Integration/Continuous Deployment (CI/CD), Infrastructure as Code)
+  - Best practices for tool selection and integration within teams
+  - Case studies demonstrating successful application of techniques and tools
+  - Metrics and KPIs for measuring the effectiveness of Agile and DevOps tooling
+  - Training and resources for teams to adopt new methodologies and tools
 
-  **Key Topics to Discuss:**
-  - Agile frameworks and methodologies (e.g., Scrum, Kanban, Lean)
-  - DevOps practices and principles (e.g., Continuous Integration, Continuous Deployment)
-  - Tools for project management (e.g., Jira, Trello, Asana)
-  - Automation tools for testing and deployment (e.g., Jenkins, GitLab CI/CD)
-  - Collaboration tools (e.g., Slack, Microsoft Teams, Confluence)
-  - Metrics and KPIs for measuring Agile and DevOps success
-  - Techniques for effective backlog management and prioritisation
-  - Strategies for fostering a culture of continuous improvement
-  - Case studies showcasing successful implementation of techniques and tools
-  - Best practices for integrating Agile and DevOps within an organisation
-
-  Ensure that discussions remain focused on practical applications and tools that can facilitate the adoption and enhancement of Agile and DevOps methodologies.
+  **Strictly exclude:**
+  - General discussions on Agile philosophy without reference to practical application
+  - Theoretical debates that do not involve specific tools or methodologies
+  - Content that focuses solely on organisational culture without linking to practical techniques or tooling
+  - Misinterpretations of Agile and DevOps principles that do not align with established frameworks and methodologies
 
 ---
 

@@ -2,21 +2,20 @@
 title: AI and Automation in Agility
 description: Leveraging AI-driven automation to enhance agility, decision-making, and software delivery.
 Instructions: |-
-  Use this category only for discussions on AI and Automation in Agility.
+  **Use this category only for discussions on AI and Automation in Agility.**  
+  This category focuses on the integration of artificial intelligence and automation technologies within Agile frameworks to improve processes, enhance decision-making, and streamline software delivery. It aims to explore how AI can support Agile methodologies and contribute to overall business agility.
 
-  **Scope and Purpose:**  
-  This category is dedicated to exploring the intersection of artificial intelligence (AI) and automation within Agile methodologies. It aims to provide insights into how these technologies can enhance Agile practices, improve team efficiency, and drive business agility. Discussions should focus on practical applications, tools, and strategies that leverage AI and automation to optimise Agile processes.
-
-  **Key Topics to Discuss:**
-  - The role of AI in enhancing Agile project management.
-  - Automation tools that support Agile workflows (e.g., CI/CD pipelines, automated testing).
-  - Case studies showcasing successful AI and automation implementations in Agile teams.
+  **Key Topics:**
+  - The role of AI in enhancing Agile practices and methodologies.
+  - Automation tools and techniques that support Agile workflows.
+  - Case studies demonstrating successful AI implementation in Agile environments.
+  - The impact of AI on team dynamics and decision-making processes.
   - Best practices for integrating AI and automation into existing Agile frameworks.
-  - Challenges and considerations when adopting AI and automation in Agile environments.
-  - The impact of AI on team dynamics and decision-making in Agile settings.
-  - Future trends in AI and automation that could influence Agile methodologies.
+  - Challenges and considerations when adopting AI-driven solutions in Agile settings.
+  - Future trends in AI and automation within the context of Agile and DevOps.
 
-  Ensure that all contributions are clear, concise, and relevant to the overarching theme of AI and automation in the context of Agile practices.
+  **Strictly exclude:**  
+  Discussions that do not directly relate to the application of AI and automation in Agile practices, such as general AI theories, unrelated software development methodologies, or non-Agile frameworks. Misinterpretations of AI's role in Agile or automation that do not align with the principles of Agile philosophy should also be excluded.
 
 ---
 

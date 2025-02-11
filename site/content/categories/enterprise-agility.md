@@ -2,23 +2,23 @@
 title: Enterprise Agility
 description: Scaling agility beyond teams to drive organisational responsiveness and adaptability.
 Instructions: |-
-  Use this category only for discussions on Enterprise Agility.
+  **Use this category only for discussions on Enterprise Agility.**  
+  Enterprise Agility refers to the ability of an organisation to respond swiftly and effectively to changes in the market and environment, extending agile principles beyond individual teams to the entire organisation. This category focuses on fostering a culture of adaptability, collaboration, and continuous improvement across all levels of the organisation.
 
-  **Scope and Purpose:**  
-  The Enterprise Agility category is dedicated to exploring the principles, practices, and frameworks that enable organisations to respond swiftly and effectively to market changes and customer demands. This category aims to provide insights into how businesses can enhance their agility at an enterprise level, fostering a culture of continuous improvement and innovation.
+  **Key Topics:**
+  - Frameworks for scaling agility (e.g., SAFe, LeSS, Nexus)
+  - Organisational structures that support agility (e.g., cross-functional teams, agile leadership)
+  - Strategies for fostering a culture of agility and innovation
+  - Metrics and KPIs for measuring enterprise agility
+  - Change management practices in agile transformations
+  - The role of leadership in driving enterprise agility
+  - Integration of Agile, Lean, and DevOps practices at the organisational level
+  - Case studies and examples of successful enterprise agility implementations
 
-  **Key Topics to Discuss:**
-  - Definition and importance of Enterprise Agility in modern business environments.
-  - Frameworks and methodologies that support enterprise-wide agility, including Agile, Lean, and DevOps.
-  - Strategies for aligning organisational structure and culture with agile principles.
-  - The role of leadership in fostering an agile mindset across the enterprise.
-  - Techniques for measuring and assessing enterprise agility and performance.
-  - Case studies showcasing successful implementations of enterprise agility.
-  - Challenges and barriers to achieving enterprise agility and how to overcome them.
-  - Tools and technologies that facilitate agile practices at scale.
-  - The impact of enterprise agility on customer satisfaction and business outcomes.
-
-  Ensure that all discussions remain focused on enhancing understanding and implementation of Enterprise Agility within organisations.
+  **Strictly exclude:**
+  - Discussions focused solely on team-level agile practices without organisational context
+  - Misinterpretations of agility that do not align with the principles of responsiveness and adaptability
+  - Content that does not address the broader implications of agility on organisational performance and culture
 
 ---
 

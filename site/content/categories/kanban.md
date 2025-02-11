@@ -2,20 +2,22 @@
 title: Kanban
 description: A strategy for making work observable, managing flow, and continuously improving value delivery. Specifically Kanban as outlined in the Kanban Guide.
 Instructions: |-
-  This category is dedicated to the Kanban strategy for work management, focusing on flow efficiency, visualization, and continuous improvement. It ensures discussions align with Kanban as described in the Kanban Guide, emphasizing its application within Agile and Lean environments.
+  **Use this category only for discussions on Kanban.**  
+  The Kanban category focuses on the principles and practices of the Kanban methodology as outlined in the Kanban Guide. It emphasises the visualisation of work, management of flow, and continuous improvement to enhance value delivery in various contexts.
 
-  Key Topics to Discuss:
+  **Key Topics:**
+  - Visualisation of work processes and tasks using Kanban boards.
+  - Limiting work in progress (WIP) to improve flow and efficiency.
+  - Managing and optimising the flow of work through various stages.
+  - Continuous improvement practices, including feedback loops and retrospectives.
+  - Metrics and measurements relevant to Kanban, such as cycle time and lead time.
+  - The role of Kanban in Agile and Lean methodologies.
+  - Case studies and practical applications of Kanban in different industries.
 
-  - Kanban Principles & Practices – Understanding Kanban’s foundational concepts.
-  - Work Visualization – Techniques for creating effective Kanban boards.
-  - Work In Progress (WIP) Limits – Strategies to improve flow control.
-  - Flow Management – Identifying and optimizing bottlenecks and throughput.
-  - Continuous Improvement – Driving Kaizen through incremental adjustments.
-  - Metrics & Measurement – Using Lead Time, Cycle Time, and Flow Efficiency for improvement.
-  - Kanban in Agile Contexts – Complementing Scrum, Lean, and SAFe with Kanban.
-  - Real-World Applications – Case studies of Kanban in software development, DevOps, and business agility.
-  - Kanban Tools & Software – Evaluating Jira, Azure DevOps, Trello, and other Kanban solutions.
-  - Challenges & Solutions – Common pitfalls in Kanban adoption and how to overcome them.
+  **Strictly exclude:**
+  - Discussions on unrelated Agile frameworks such as Scrum.
+  - Misinterpretations of Kanban principles, such as equating it with task management tools without context.
+  - Content that does not align with the original theories and philosophies of Kanban as defined by key authors and practitioners in the field.
 
-  Ensure discussions remain focused on Kanban as defined in the Kanban Guide, supporting practitioners in implementing effective, data-driven flow management strategies.
 ---
+

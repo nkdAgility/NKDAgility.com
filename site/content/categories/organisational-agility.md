@@ -2,23 +2,20 @@
 title: Organisational Agility
 description: The ability of an organisation to rapidly adapt to market changes, customer needs, and emerging opportunities.
 Instructions: |-
-  Use this category only for discussions on Organisational Agility.
+  **Use this category only for discussions on Organisational Agility.**  
+  The scope of this category encompasses the strategies, practices, and frameworks that enable an organisation to swiftly respond to changes in the market, customer demands, and new opportunities. The purpose is to explore how organisations can enhance their adaptability and responsiveness through various methodologies and cultural shifts.
 
-  **Scope and Purpose:**  
-  The Organisational Agility category is dedicated to exploring the principles, practices, and frameworks that enable organisations to respond swiftly and effectively to changes in their environment. This category aims to facilitate discussions on how businesses can enhance their adaptability, improve decision-making processes, and foster a culture of continuous improvement.
+  **Key topics to be discussed under this category include:**
+  - Principles and practices of Agile methodologies that foster flexibility and responsiveness.
+  - The role of leadership in cultivating a culture of agility within the organisation.
+  - Techniques for aligning organisational structure and processes with agile principles.
+  - The impact of cross-functional teams on organisational adaptability.
+  - Strategies for continuous improvement and learning within the organisation.
+  - The integration of customer feedback into product development and service delivery.
+  - The use of metrics and KPIs to measure and enhance organisational agility.
+  - Case studies demonstrating successful transformations towards greater agility.
 
-  **Key Topics to Discuss:**
-  - Definition and importance of organisational agility in today’s business landscape.
-  - Frameworks and methodologies that support organisational agility, including Agile, Lean, and Scrum.
-  - The role of leadership in fostering an agile organisational culture.
-  - Strategies for implementing agile practices across various departments.
-  - Measuring and assessing organisational agility through metrics and KPIs.
-  - Case studies showcasing successful transformations towards greater agility.
-  - Challenges and barriers to achieving organisational agility and how to overcome them.
-  - The impact of technology and digital transformation on organisational agility.
-  - Best practices for maintaining agility in a remote or hybrid work environment.
-
-  Ensure that all discussions remain focused on enhancing understanding and implementation of organisational agility within various business contexts.
+  **Strictly exclude** discussions that focus on rigid project management methodologies, traditional hierarchical structures that inhibit change, or any content that misinterprets the core principles of agility as merely speed without the accompanying cultural and structural shifts.
 
 ---
 

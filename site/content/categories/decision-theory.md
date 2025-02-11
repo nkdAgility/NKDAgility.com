@@ -2,22 +2,21 @@
 title: Decision Theory
 description: Decision-making in uncertain environments using heuristics, probability, and behavioural economics.
 Instructions: |-
-  Use this category only for discussions on Decision Theory.
+  **Use this category only for discussions on Decision Theory.**  
+  Decision Theory encompasses the study of decision-making processes in uncertain environments, focusing on the application of heuristics, probability, and behavioural economics to improve outcomes. This category aims to explore how individuals and organisations can make informed choices when faced with uncertainty and complexity.
 
-  **Scope and Purpose:**  
-  This category is dedicated to exploring the principles and frameworks of Decision Theory as they apply to Agile methodologies, DevOps practices, and business agility. It aims to provide insights into how decision-making processes can be optimised to enhance team performance, project outcomes, and organisational effectiveness.
+  **Key Topics:**
+  - Heuristics and biases in decision-making
+  - The role of probability in assessing risks and outcomes
+  - Behavioural economics and its impact on choices
+  - Decision-making frameworks and models
+  - The influence of cognitive psychology on decision processes
+  - Strategies for improving decision quality in uncertain environments
+  - Applications of decision theory in Agile, Scrum, and DevOps contexts
 
-  **Key Topics to Discuss:**
-  - The fundamentals of Decision Theory and its relevance to Agile and DevOps.
-  - Techniques for effective decision-making in uncertain environments.
-  - The role of data-driven decision-making in Agile project management.
-  - Tools and frameworks for evaluating options and outcomes (e.g., decision trees, cost-benefit analysis).
-  - The impact of cognitive biases on team decisions and strategies to mitigate them.
-  - Case studies demonstrating successful application of Decision Theory in Agile contexts.
-  - The relationship between Decision Theory and Evidence-Based Management.
-  - Best practices for fostering a culture of collaborative decision-making within teams.
-
-  Ensure that all discussions remain focused on the application of Decision Theory within the realms of Agile, DevOps, and business agility, promoting clarity and relevance in all contributions.
+  **Strictly exclude:**
+  - Discussions unrelated to decision-making processes, such as technical implementations or specific Agile methodologies without a focus on decision-making.
+  - Misinterpretations of decision theory that do not align with its core principles, such as deterministic approaches that ignore uncertainty.
 
 ---
 

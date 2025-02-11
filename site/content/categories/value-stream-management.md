@@ -2,24 +2,21 @@
 title: Value Stream Management
 description: A strategic approach to improving the flow of value through an organisation, optimising efficiency, reducing waste, and aligning work with customer outcomes.
 Instructions: |-
-  Use this category only for discussions on Value Stream Management.
+  **Use this category only for discussions on Value Stream Management.**  
+  Value Stream Management is a strategic approach focused on enhancing the flow of value within an organisation. Its purpose is to optimise efficiency, minimise waste, and ensure that work aligns with customer outcomes, ultimately leading to improved business agility and responsiveness.
 
-  **Scope and Purpose:**  
-  This category is dedicated to exploring the principles and practices of Value Stream Management (VSM) within Agile and DevOps frameworks. It aims to enhance understanding of how to optimise workflows, improve efficiency, and deliver value to customers by mapping and analysing value streams. Discussions should focus on the integration of VSM with Agile methodologies and its role in fostering business agility.
+  **Key Topics:**
+  - Definition and principles of Value Stream Management
+  - Techniques for mapping and analysing value streams
+  - Identifying and eliminating waste in processes
+  - Aligning organisational goals with customer value
+  - Continuous improvement practices within value streams
+  - Integration of Value Stream Management with Agile and Lean methodologies
+  - Metrics and KPIs for measuring value stream performance
+  - Case studies demonstrating successful Value Stream Management implementations
 
-  **Key Topics to Discuss:**
-  - Definition and importance of Value Stream Management in Agile and DevOps.
-  - Techniques for mapping value streams and identifying waste.
-  - Tools and software that facilitate Value Stream Management.
-  - Case studies demonstrating successful implementation of VSM.
-  - Metrics and KPIs for measuring value stream performance.
-  - The relationship between Value Stream Management and Continuous Improvement.
-  - Strategies for aligning VSM with organisational goals and customer needs.
-  - Challenges and best practices in adopting Value Stream Management.
-  - The role of cross-functional teams in optimising value streams.
-  - Integration of VSM with Lean principles and practices.
-
-  Ensure that all discussions remain focused on the practical application of Value Stream Management and its impact on enhancing organisational agility and efficiency.
+  **Strictly exclude:**  
+  Discussions that do not directly relate to the flow of value, such as general project management practices, unrelated Agile or Scrum methodologies, or any content that misinterprets the core principles of Value Stream Management.
 
 ---
 
