@@ -33,21 +33,21 @@ tags:
 - Agile Frameworks
 - Agile Planning
 - Agile Project Management
-- Agile Values and Principles
+- Agile Transformation
 - Coaching
-- Engineering Practices
 - Mentoring
-- Operational Practices
 - Professional Scrum
 - Scrum Master
 - Scrum Product Development
 - Scrum Team
+- Software Developers
 - Software Development
-- Working Software
+- Team Performance
+- Technical Leadership
 categories:
 - Agile Product Management
-- DevOps
-- Lean
+- People and Process
+- Practical Techniques and Tooling
 preview: NKDAgility-technically-whymostscrummastersarefailing-2-2.jpg
 
 ---

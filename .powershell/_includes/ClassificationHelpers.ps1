@@ -1,3 +1,4 @@
+. ./.powershell/_includes/LoggingHelper.ps1
 . ./.powershell/_includes/OpenAI.ps1
 function Get-CatalogHashtable {
     param (
@@ -27,7 +28,6 @@ function Get-CategoryConfidenceWithChecksum {
     param (
         [string]$ResourceContent,
         [string]$ResourceTitle,
-        [hashtable]$Catalog,
         [string]$CacheFolder,
         [string]$ClassificationType = "classification",
         [int]$MinConfidence = 50,
@@ -38,15 +38,34 @@ function Get-CategoryConfidenceWithChecksum {
         New-Item -ItemType Directory -Path $CacheFolder -Force | Out-Null
     }
 
+    $catalog = @{}
+    switch ($ClassificationType) {
+        "categories" {
+            $catalog = Get-CatalogHashtable -Classification "categories"
+        }
+        "tags" {
+            $catalog = Get-CatalogHashtable -Classification "tags"
+        }
+    }
+
     $cacheFile = Join-Path $CacheFolder "data.index.$ClassificationType.json"
 
     $cachedData = @{}
     if (Test-Path $cacheFile) {
         try {
+            Write-InfoLog "Load Cache"
             $cachedData = Get-Content $cacheFile | ConvertFrom-Json -ErrorAction Stop
+            Write-DebugLog "     Loaded: $(($cachedData.PSObject.Properties.Count | Measure-Object).count) items"
+            $keysToRemove = $cachedData.PSObject.Properties.Name | Where-Object { $_ -notin $catalog.Keys }
+            Write-DebugLog "     Remove: $($keysToRemove.Count) items not found in catalog"
+            foreach ($key in $keysToRemove) {
+                $cachedData.PSObject.Properties.Remove($key)
+            }
+            Write-DebugLog "     After: $(($cachedData.PSObject.Properties.Count | Measure-Object).count) items"
+            $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
         }
         catch {
-            Write-Debug "Warning: Cache file corrupted. Resetting cache."
+            Write-WarningLog "Warning: Cache file corrupted. Resetting cache."
             $cachedData = @{}
         }
     }
@@ -57,8 +76,25 @@ function Get-CategoryConfidenceWithChecksum {
     foreach ($category in $Catalog.Keys) {
         Write-Progress -Id 2 -ParentId 1 -Activity "Classification of $ClassificationType" -Status "Processing classification $count of $total '$category'" -PercentComplete (($count / $total) * 100)
         $count++
-        if ($cachedData.PSObject.Properties[$category]) {
-            $categoryScores[$category] = $cachedData.$category
+        if ($cachedData.PSObject.Properties[$category]) {            
+            $cachedCategory = $cachedData.$category
+            
+            # Recalculate final_score and level
+            $finalScore = [math]::Round(($cachedCategory.ai_confidence * 0.9) + ($cachedCategory.non_ai_confidence * 0.1))
+            $level = if ($finalScore -ge 80) { "Primary" } elseif ($finalScore -ge 50) { "Secondary" } else { "Ignored" }
+            
+            if ($cachedCategory.final_score -ne $finalScore -or $cachedCategory.level -ne $level) {
+                $cachedCategory.final_score = $finalScore
+                $cachedCategory.level = $level
+                $cachedCategory.calculated_at = (Get-Date).ToUniversalTime().ToString("s")
+                
+                # Update cache
+                $cachedData.$category = $cachedCategory
+                $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
+                Write-DebugLog "Updated cache for $category"    
+            }
+            
+            $categoryScores[$category] = $cachedCategory
             continue
         }
         $prompt = @"
@@ -227,7 +263,7 @@ function Get-BatchCategoryConfidenceWithChecksum {
                 Remove-Item $batchJsonlOutout -Force
             }
             "in_progress" {
-                Write-Warning "Batch still in progress. Please wait for completion."
+                Write-WarningLog "Batch still in progress. Please wait for completion."
                 return @()
             }
             "failed" {
@@ -237,7 +273,7 @@ function Get-BatchCategoryConfidenceWithChecksum {
                 return @()
             }
             default {
-                Write-WarningLog $batchStatus
+                Write-WarningLogLog $batchStatus
                 return @()
             }
         }
@@ -259,7 +295,7 @@ function Get-BatchCategoryConfidenceWithChecksum {
             return $finalSelection | ConvertTo-Json -Depth 1
         }
         catch {
-            Write-Debug "Warning: Cache file corrupted. Resetting cache."
+            Write-DebugLog "Warning: Cache file corrupted. Resetting cache."
             Remove-Item $cacheFile -Force
         }
     }
@@ -302,9 +338,9 @@ do not wrap the json in anything else, just return the json object.
         # Submit batch and save batch ID
         $batchId = Submit-OpenAIBatch -Prompts $prompts -OutputFile $batchJsonlInput
         $batchId | Set-Content -Path $batchFile -Force
-        Write-Warning "Batch submitted. Processing..."
+        Write-WarningLog "Batch submitted. Processing..."
         else {
-            Write-Warning "Batch not submitted. Too many tokens in progress. try again later."
+            Write-WarningLog "Batch not submitted. Too many tokens in progress. try again later."
         }
         return @()
     }
@@ -322,7 +358,7 @@ function Remove-ClassificationsFromCache {
 
     # Check if the cache file exists
     if (!(Test-Path $cacheFile)) {
-        Write-Warning "Cache file does not exist. No action needed."
+        Write-WarningLog "Cache file does not exist. No action needed."
         return
     }
 
@@ -331,7 +367,7 @@ function Remove-ClassificationsFromCache {
         $cachedData = Get-Content $cacheFile | ConvertFrom-Json -ErrorAction Stop
     }
     catch {
-        Write-Warning "Cache file is corrupted or unreadable. Unable to process."
+        Write-WarningLog "Cache file is corrupted or unreadable. Unable to process."
         return
     }
 
@@ -346,7 +382,7 @@ function Remove-ClassificationsFromCache {
             Write-Host "Removed classification '$classification' from cache."
         }
         else {
-            Write-Warning "Classification '$classification' not found in cache. Skipping."
+            Write-WarningLog "Classification '$classification' not found in cache. Skipping."
         }
     }
 
@@ -356,7 +392,7 @@ function Remove-ClassificationsFromCache {
         Write-Host "Cache file updated successfully with $removedCount removals."
     }
     else {
-        Write-Warning "No classifications were removed. Cache remains unchanged."
+        Write-WarningLog "No classifications were removed. Cache remains unchanged."
     }
 }
 
@@ -372,7 +408,7 @@ function Remove-ClassificationsFromCacheThatLookBroken {
 
     # Check if the cache file exists
     if (!(Test-Path $cacheFile)) {
-        Write-Warning "Cache file does not exist. No action needed."
+        Write-WarningLog "Cache file does not exist. No action needed."
         return
     }
 
@@ -381,7 +417,7 @@ function Remove-ClassificationsFromCacheThatLookBroken {
         $cachedData = Get-Content $cacheFile | ConvertFrom-Json -ErrorAction Stop
     }
     catch {
-        Write-Warning "Cache file is corrupted or unreadable. Unable to process."
+        Write-WarningLog "Cache file is corrupted or unreadable. Unable to process."
         return
     }
 
@@ -399,7 +435,7 @@ function Remove-ClassificationsFromCacheThatLookBroken {
             } 
         }
         else {
-            Write-Warning "Classification '$classification' not found in cache. Skipping."
+            Write-WarningLog "Classification '$classification' not found in cache. Skipping."
         }
     }
 
@@ -409,6 +445,6 @@ function Remove-ClassificationsFromCacheThatLookBroken {
         Write-Host "Cache file updated successfully with $removedCount removals."
     }
     else {
-        Write-Warning "No classifications were removed. Cache remains unchanged."
+        Write-WarningLog "No classifications were removed. Cache remains unchanged."
     }
 }

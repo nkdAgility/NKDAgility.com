@@ -27,25 +27,25 @@ aliasesFor404:
 - /blog/you-can't-stop-the-signal--but-you-can-ignore-it-
 - /resources/blog/you-cant-stop-the-signal-but-you-can-ignore-it
 categories:
-- Agile Product Management
 - People and Process
-- Systems Thinking
+- Resilience and Change
+- Transparency and Accountability
 preview: NKDAgility-technically-YouCantStopTheSignal-1-1.jpg
 tags:
 - Agile Frameworks
 - Agile Leadership
 - Agile Philosophy
-- Agile Planning
 - Agile Project Management
 - Agile Strategy
 - Agile Transformation
 - Agile Values and Principles
-- Lean Product Development
+- Continuous Learning
+- Empirical Process Control
+- Operational Practices
 - Organisational Culture
-- Pragmatic Thinking
-- Scrum Product Development
-- Sensemaking
 - Software Development
+- Team Collaboration
+- Team Performance
 - Transparency
 
 ---
