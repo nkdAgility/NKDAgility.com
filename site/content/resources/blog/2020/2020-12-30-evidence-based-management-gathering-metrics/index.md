@@ -26,8 +26,26 @@ aliasesFor404:
 - /evidence-based-management--gathering-the-metrics
 - /blog/evidence-based-management--gathering-the-metrics
 - /resources/blog/evidence-based-management-gathering-metrics
-tags: []
-categories: []
+tags:
+- Ability to Innovate
+- Agile Frameworks
+- Agile Project Management
+- Agile Transformation
+- Customer Satisfaction
+- Cycle Time
+- Decision Making
+- Empirical Process Control
+- Evidence Based Leadership
+- Evidence Based Management
+- Product Management
+- Revenue per Employee
+- Scrum Product Development
+- Software Development
+- Working Software
+categories:
+- Agile Product Management
+- Enterprise Agility
+- People and Process
 preview: naked-agility-evidence-based-management-1-1.jpg
 
 ---

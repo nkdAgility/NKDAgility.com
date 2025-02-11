@@ -26,8 +26,19 @@ aliasesFor404:
 - /the-7-deadly-sins-of-agile--a-grecian-odyssey-through-modern-software-development
 - /blog/the-7-deadly-sins-of-agile--a-grecian-odyssey-through-modern-software-development
 - /resources/blog/the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
-tags: []
-categories: []
+tags:
+- Accountability
+- Agile Frameworks
+- Agile Philosophy
+- Agile Project Management
+- Agile Strategy
+- Agile Transformation
+- Agile Values and Principles
+- Software Developers
+- Software Development
+categories:
+- People and Process
+- Personal
 preview: NKDAgility-technically-7DeadlySins-16-15.jpg
 
 ---

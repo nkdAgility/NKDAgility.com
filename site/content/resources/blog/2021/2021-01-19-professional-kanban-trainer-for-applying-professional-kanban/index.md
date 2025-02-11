@@ -22,8 +22,15 @@ aliasesFor404:
 - /professional-kanban-trainer-for-applying-professional-kanban
 - /blog/professional-kanban-trainer-for-applying-professional-kanban
 - /resources/blog/professional-kanban-trainer-for-applying-professional-kanban
-tags: []
-categories: []
+tags:
+- Agile Frameworks
+- Agile Project Management
+- Operational Practices
+- Software Development
+categories:
+- Kanban
+- Practical Techniques and Tooling
+- Products and Books
 preview: applying-professional-kanban-background-logo-2-2.jpg
 
 ---

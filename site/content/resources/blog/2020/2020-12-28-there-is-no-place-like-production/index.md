@@ -22,8 +22,26 @@ aliasesFor404:
 - /there-is-no-place-like-production
 - /blog/there-is-no-place-like-production
 - /resources/blog/there-is-no-place-like-production
-tags: []
-categories: []
+tags:
+- Ability to Innovate
+- Agile Strategy
+- Deployment Frequency
+- Evidence Based Management
+- Increment
+- Lean Product Development
+- Lean Startup
+- MVP
+- Operational Practices
+- Pragmatic Thinking
+- Product Discovery
+- Product Management
+- Product Validation
+- Release Management
+- Working Software
+categories:
+- Agile Product Management
+- Business Agility
+- Metrics and Learning
 preview: wizard-of-oz-ruby-slippers-2018-billboard-1548-2-2.jpg
 
 ---

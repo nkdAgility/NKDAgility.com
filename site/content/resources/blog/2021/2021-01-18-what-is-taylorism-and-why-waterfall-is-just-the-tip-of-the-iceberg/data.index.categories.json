@@ -1,34 +1,317 @@
 {
+  "Decision Theory": {
+    "category": "Decision Theory",
+    "calculated_at": "2025-02-11T20:55:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses decision-making processes in the context of management practices and their impact on employee engagement and productivity, which aligns with decision theory principles. However, the primary focus is on historical management methodologies rather than a direct exploration of decision theory itself.",
+    "level": "Ignored"
+  },
+  "Enterprise Agility": {
+    "category": "Enterprise Agility",
+    "calculated_at": "2025-02-11T20:55:22",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the historical context of management practices, particularly Taylorism, and critiques traditional methodologies that hinder organisational agility. It highlights the need for a shift towards more adaptive and collaborative practices, aligning with the principles of enterprise agility.",
+    "level": "Secondary"
+  },
+  "Lean": {
+    "category": "Lean",
+    "calculated_at": "2025-02-11T20:55:24",
+    "ai_confidence": 80,
+    "non_ai_confidence": 50,
+    "final_score": 77.0,
+    "reasoning": "The content primarily discusses the negative impacts of Taylorism and traditional management practices on work and employee engagement, contrasting these with Lean principles and the Toyota Production System. It highlights the importance of value creation, employee autonomy, and continuous improvement, which are central themes in Lean methodologies.",
+    "level": "Secondary"
+  },
+  "Resilience and Change": {
+    "category": "Resilience and Change",
+    "calculated_at": "2025-02-11T20:55:26",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the historical context of management practices and their impact on workforce engagement and organisational structure, which relates to themes of resilience and adaptability. However, the primary focus is on critiquing Taylorism and traditional management methods rather than explicitly outlining strategies for resilience or change management.",
+    "level": "Ignored"
+  },
+  "Install and Configuration": {
+    "category": "Install and Configuration",
+    "calculated_at": "2025-02-11T20:55:27",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses historical management practices and their impact on work culture, rather than installation or configuration of tools or software.",
+    "level": "Ignored"
+  },
+  "Code and Complexity": {
+    "category": "Code and Complexity",
+    "calculated_at": "2025-02-11T20:55:28",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses project management methodologies and their historical context, focusing on Taylorism and its impact on work practices, rather than on software code quality or complexity in software development.",
+    "level": "Ignored"
+  },
+  "Flow Efficiency": {
+    "category": "Flow Efficiency",
+    "calculated_at": "2025-02-11T20:55:30",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the historical context and implications of Taylorism and traditional project management methodologies, rather than focusing on optimising work throughput or flow efficiency principles.",
+    "level": "Ignored"
+  },
+  "AI and Automation in Agility": {
+    "category": "AI and Automation in Agility",
+    "calculated_at": "2025-02-11T20:55:31",
+    "ai_confidence": 0,
+    "non_ai_confidence": 30,
+    "final_score": 3.0,
+    "reasoning": "Content primarily discusses traditional project management methodologies and Taylorism, with no clear focus on AI or automation in Agile practices.",
+    "level": "Ignored"
+  },
+  "Product Delivery": {
+    "category": "Product Delivery",
+    "calculated_at": "2025-02-11T20:55:33",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses traditional management practices and their impact on workforce engagement, which indirectly relates to product delivery methodologies. However, the primary focus is on historical management theories rather than specific product delivery practices.",
+    "level": "Ignored"
+  },
+  "Agile Product Management": {
+    "category": "Agile Product Management",
+    "calculated_at": "2025-02-11T20:55:34",
+    "ai_confidence": 50,
+    "non_ai_confidence": 30,
+    "final_score": 48.0,
+    "reasoning": "The content discusses the historical context of management practices, including Taylorism and its impact on modern work environments, while briefly touching on Agile principles and the need for new ways of working. However, the primary focus is on traditional management methodologies rather than Agile Product Management specifically.",
+    "level": "Ignored"
+  },
+  "Discovery and Learning": {
+    "category": "Discovery and Learning",
+    "calculated_at": "2025-02-11T20:55:36",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content discusses the historical context of management practices, particularly Taylorism, and critiques their impact on innovation and employee engagement. It highlights the need for new methodologies that foster creativity and continuous learning, aligning well with the principles of discovery and learning in product development.",
+    "level": "Secondary"
+  },
+  "Systems Thinking": {
+    "category": "Systems Thinking",
+    "calculated_at": "2025-02-11T20:55:39",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the impact of Taylorism and traditional management practices on organisational dynamics, highlighting the interconnectedness of employee engagement, autonomy, and purpose. While it primarily critiques these practices, it also touches on the need for holistic approaches to improve organisational behaviour, making Systems Thinking a significant but secondary theme.",
+    "level": "Ignored"
+  },
+  "Complexity Thinking": {
+    "category": "Complexity Thinking",
+    "calculated_at": "2025-02-11T20:55:42",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the implications of traditional management practices, particularly Taylorism, on modern organisational behaviour and the need for adaptive approaches in complex environments. It references complexity concepts such as non-linear dynamics, the importance of autonomy and mastery, and the shift towards Agile methodologies, which align with complexity thinking principles.",
+    "level": "Secondary"
+  },
+  "Transparency and Accountability": {
+    "category": "Transparency and Accountability",
+    "calculated_at": "2025-02-11T20:55:43",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the historical context and implications of Taylorism and traditional management practices, focusing on their dehumanising effects rather than on transparency and accountability within Agile teams.",
+    "level": "Ignored"
+  },
+  "Practical Techniques and Tooling": {
+    "category": "Practical Techniques and Tooling",
+    "calculated_at": "2025-02-11T20:55:45",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses the historical context and philosophical implications of Taylorism and traditional management practices, rather than focusing on specific tools, methodologies, or practical techniques related to Agile and DevOps.",
+    "level": "Ignored"
+  },
+  "Events and Presentations": {
+    "category": "Events and Presentations",
+    "calculated_at": "2025-02-11T20:55:46",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the historical context and implications of Taylorism and traditional management practices, without reference to specific events, presentations, or discussions related to Agile, DevOps, or software engineering.",
+    "level": "Ignored"
+  },
+  "Market Adaptability": {
+    "category": "Market Adaptability",
+    "calculated_at": "2025-02-11T20:55:48",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the limitations of traditional management practices and the need for more adaptive methodologies like Agile and Lean, which are relevant to market adaptability. However, the primary focus is on critiquing Taylorism and bureaucratic practices rather than directly addressing strategies for enhancing market adaptability.",
+    "level": "Ignored"
+  },
+  "Miscellaneous": {
+    "category": "Miscellaneous",
+    "calculated_at": "2025-02-11T20:55:49",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Taylorism and its impact on modern work practices, with direct references to Agile principles and methodologies, making it not suitable for the Miscellaneous category.",
+    "level": "Ignored"
+  },
   "DevOps": {
     "category": "DevOps",
-    "ai_confidence": 50,
+    "calculated_at": "2025-02-11T20:55:51",
+    "ai_confidence": 0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the impact of traditional management practices on modern work environments, touching on themes relevant to DevOps, such as collaboration and value delivery, but primarily focuses on historical management theories and their implications.",
-    "level": "Secondary"
+    "final_score": 5.0,
+    "reasoning": "Content primarily discusses traditional project management methodologies and critiques of Taylorism, with no clear focus on DevOps principles, practices, or tools.",
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "ai_confidence": 50,
+    "calculated_at": "2025-02-11T20:55:52",
+    "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses the impact of traditional management practices on modern work environments, with a specific example of how Microsoft restructured its sales approach for Azure, indicating a significant but secondary theme related to Azure DevOps.",
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses traditional project management methodologies and critiques of Taylorism, with only a brief mention of Microsoft Azure in the context of sales practices, which is not central to the overall topic.",
+    "level": "Ignored"
+  },
+  "Products and Books": {
+    "category": "Products and Books",
+    "calculated_at": "2025-02-11T20:55:54",
+    "ai_confidence": 70,
+    "non_ai_confidence": 20,
+    "final_score": 65.0,
+    "reasoning": "The content discusses various management practices and their historical context, while also referencing several books related to Agile and management principles. However, the primary focus is on the critique of Taylorism and traditional management methods rather than a direct analysis or review of specific products or books.",
+    "level": "Secondary"
+  },
+  "Business Agility": {
+    "category": "Business Agility",
+    "calculated_at": "2025-02-11T20:55:55",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the limitations of traditional project management methodologies and the need for more adaptive practices, which aligns with the theme of business agility. However, the primary focus is on critiquing Taylorism and traditional management practices rather than directly exploring business agility principles.",
     "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
-    "ai_confidence": 75,
+    "calculated_at": "2025-02-11T20:55:57",
+    "ai_confidence": 50,
     "non_ai_confidence": 50,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the evolution of management practices and contrasts traditional methods with modern approaches, including Kanban. While Kanban is mentioned as part of the broader discussion on Agile methodologies, it is not the primary focus of the content.",
+    "final_score": 50.0,
+    "reasoning": "The content discusses the evolution of management practices, including references to Kanban as part of the Agile movement, but the primary focus is on Taylorism and traditional management methods rather than Kanban principles specifically.",
     "level": "Secondary"
+  },
+  "Value Delivery": {
+    "category": "Value Delivery",
+    "calculated_at": "2025-02-11T20:55:59",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the impact of traditional management practices on employee engagement and customer satisfaction, touching on themes of value delivery, but primarily focuses on critiques of Taylorism and bureaucratic structures rather than specific value delivery strategies.",
+    "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "ai_confidence": 50,
+    "calculated_at": "2025-02-11T20:56:00",
+    "ai_confidence": 0,
     "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the limitations of traditional management practices and hints at the need for more agile methodologies, but it primarily focuses on historical context and critiques rather than directly addressing engineering practices like TDD, CI/CD, or modular architecture.",
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses historical management practices and their impact on workforce engagement, rather than focusing on specific engineering practices or methodologies that enhance agility in software development.",
     "level": "Ignored"
+  },
+  "Scaling Agility": {
+    "category": "Scaling Agility",
+    "calculated_at": "2025-02-11T20:56:02",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the historical context and implications of Taylorism and traditional management practices, with no clear focus on scaling Agile methodologies or frameworks.",
+    "level": "Ignored"
+  },
+  "Organisational Agility": {
+    "category": "Organisational Agility",
+    "calculated_at": "2025-02-11T20:56:03",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily critiques traditional project management methodologies and Taylorism, discussing their negative impact on organisational agility and employee engagement. It advocates for a shift towards Agile practices and highlights the importance of autonomy, mastery, and purpose in fostering a more adaptable and responsive organisational culture.",
+    "level": "Secondary"
+  },
+  "Personal": {
+    "category": "Personal",
+    "calculated_at": "2025-02-11T20:56:05",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses historical management practices and their implications, lacking personal anecdotes or reflections related to Agile, Scrum, or DevOps.",
+    "level": "Ignored"
+  },
+  "People and Process": {
+    "category": "People and Process",
+    "calculated_at": "2025-02-11T20:56:06",
+    "ai_confidence": 90,
+    "non_ai_confidence": 20,
+    "final_score": 83.0,
+    "reasoning": "The content primarily discusses the impact of Taylorism and traditional management practices on human behaviour and team dynamics, highlighting the dehumanisation of work and the importance of autonomy, mastery, and purpose in enhancing employee engagement and productivity.",
+    "level": "Primary"
+  },
+  "Sociotechnical Systems": {
+    "category": "Sociotechnical Systems",
+    "calculated_at": "2025-02-11T20:56:08",
+    "ai_confidence": 85,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the historical and contemporary implications of Taylorism and bureaucratic practices on workforce engagement, autonomy, and organisational structure, which are central themes in sociotechnical systems. It explores the interplay between management practices and employee motivation, highlighting the impact of these practices on team dynamics and organisational culture.",
+    "level": "Secondary"
+  },
+  "News and Reviews": {
+    "category": "News and Reviews",
+    "calculated_at": "2025-02-11T20:56:09",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "The content primarily discusses historical management practices and their implications, rather than providing news or reviews related to Agile, DevOps, or technology updates.",
+    "level": "Ignored"
+  },
+  "Metrics and Learning": {
+    "category": "Metrics and Learning",
+    "calculated_at": "2025-02-11T20:56:13",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses Taylorism and its historical impact on management practices, rather than focusing on metrics, data utilisation, or learning methodologies.",
+    "level": "Ignored"
+  },
+  "Application Lifecycle Management": {
+    "category": "Application Lifecycle Management",
+    "calculated_at": "2025-02-11T20:56:15",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses traditional project management methodologies and critiques of Taylorism, with no clear focus on the application lifecycle stages or practices related to Application Lifecycle Management.",
+    "level": "Ignored"
+  },
+  "Value Stream Management": {
+    "category": "Value Stream Management",
+    "calculated_at": "2025-02-11T20:56:16",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses Taylorism and its impact on traditional project management methodologies, rather than focusing on Value Stream Management principles or practices.",
+    "level": "Ignored"
+  },
+  "Organisational Psychology": {
+    "category": "Organisational Psychology",
+    "calculated_at": "2025-02-11T20:56:19",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the psychological impacts of Taylorism and traditional management practices on employee engagement, motivation, and organisational culture. It explores how these practices dehumanise workers and erode trust, which are central themes in organisational psychology.",
+    "level": "Secondary"
   }
 }

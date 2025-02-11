@@ -26,8 +26,26 @@ aliasesFor404:
 - /risk-mitigation--agile-usable-products-vs-documentation-in-traditional-project-management
 - /blog/risk-mitigation--agile-usable-products-vs-documentation-in-traditional-project-management
 - /resources/blog/risk-mitigation-agile-usable-products-vs-documentation-in-traditional-project-management
-tags: []
-categories: []
+tags:
+- Agile Frameworks
+- Agile Philosophy
+- Agile Planning
+- Agile Project Management
+- Agile Strategy
+- Agile Transformation
+- Agile Values and Principles
+- Increment
+- Pragmatic Thinking
+- Product Management
+- Product Validation
+- Software Developers
+- Software Development
+- Strategy
+- Working Software
+categories:
+- Agile Product Management
+- Market Adaptability
+- Product Delivery
 preview: image-1.jpg
 
 ---
