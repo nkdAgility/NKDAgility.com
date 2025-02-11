@@ -27,10 +27,28 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Leadership
+- Agile Philosophy
+- Agile Planning
+- Agile Project Management
+- Agile Transformation
+- Agile Values and Principles
+- Empirical Process Control
+- Organisational Culture
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Product Development
+- Software Development
+- Sprint Review
+- Transparency
 resourceTypes:
 - video
-categories: []
+categories:
+- Agile Product Management
+- People and Process
+- Transparency and Accountability
 
 ---
 Why is Scrum so easy to understand but incredibly hard to master?

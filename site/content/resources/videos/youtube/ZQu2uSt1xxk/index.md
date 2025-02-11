@@ -27,10 +27,15 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Operational Practices
+- Strategy
 resourceTypes:
 - video
-categories: []
+categories:
+- Kanban
+- Metrics and Learning
+- Practical Techniques and Tooling
 
 ---
 ### Understanding and Applying Kanban: The Professional Kanban Course

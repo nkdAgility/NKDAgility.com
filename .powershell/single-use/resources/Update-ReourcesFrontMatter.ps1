@@ -7,7 +7,7 @@
 . ./.powershell/_includes/ClassificationHelpers.ps1
 
 
-$levelSwitch.MinimumLevel = 'Debug'
+$levelSwitch.MinimumLevel = 'Information'
 
 # Iterate through each blog folder and update markdown files
 $outputDir = ".\site\content\resources\videos\"
@@ -33,8 +33,8 @@ $resources | ForEach-Object {
 
     $resourceDir = (Get-Item -Path $_).DirectoryName
     $markdownFile = $_
-    Write-InfoLog "--------------------------------------------------------"
-    Write-InfoLog "Processing post: {ResolvePath}" -PropertyValues  $(Resolve-Path -Path $resourceDir -Relative)
+    Write-DebugLog "--------------------------------------------------------"
+    Write-DebugLog "Processing post: {ResolvePath}" -PropertyValues  $(Resolve-Path -Path $resourceDir -Relative)
     if ((Test-Path $markdownFile)) {
 
         # Load markdown as HugoMarkdown object
@@ -153,19 +153,23 @@ $resources | ForEach-Object {
                 $BodyContent = Get-Content $captionsPath -Raw
             }
         }
-        #-----------------Categories-------------------
-        #$categoryClassification = Get-CategoryConfidenceWithChecksum -ClassificationType "categories" -Catalog $categoriesCatalog -CacheFolder $resourceDir -ResourceContent  $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -MaxCategories 3 
-        $categories = @()# $categoryClassification | ConvertFrom-Json | ForEach-Object { $_.category } | Sort-Object
-        Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values @($categories) -Overwrite
-        #-----------------Tags-------------------
-        #$tagClassification = Get-CategoryConfidenceWithChecksum -ClassificationType "tags" -Catalog $tagsCatalog -CacheFolder $resourceDir -ResourceContent  $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -MaxCategories 15
-        $tags = @()# $tagClassification | ConvertFrom-Json | ForEach-Object { $_.category } | Sort-Object
-        Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values @($tags) -Overwrite
+        if (($hugoMarkdown.FrontMatter.isShort -eq $false) -and (-not $hugoMarkdown.FrontMatter.canonicalUrl)) {
+
+      
+            #-----------------Categories-------------------
+            $categoryClassification = Get-CategoryConfidenceWithChecksum -ClassificationType "categories" -Catalog $categoriesCatalog -CacheFolder $resourceDir -ResourceContent  $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -MaxCategories 3 
+            $categories = $categoryClassification | ConvertFrom-Json | ForEach-Object { $_.category } | Sort-Object
+            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values @($categories) -Overwrite
+            #-----------------Tags-------------------
+            $tagClassification = Get-CategoryConfidenceWithChecksum -ClassificationType "tags" -Catalog $tagsCatalog -CacheFolder $resourceDir -ResourceContent  $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -MaxCategories 15
+            $tags = $tagClassification | ConvertFrom-Json | ForEach-Object { $_.category } | Sort-Object
+            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values @($tags) -Overwrite
+        }
         # =================COMPLETE===================
         Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $markdownFile
     }
     else {
-        Write-InfoLog "Skipping folder: $blogDir (missing index.md)"
+        Write-DebugLog "Skipping folder: $blogDir (missing index.md)"
     }
     # Track count of ResourceType
     if ($resourceTypeCounts.ContainsKey($ResourceType)) {
@@ -176,7 +180,7 @@ $resources | ForEach-Object {
     }
 }
 Write-Progress -id 1 -Completed
-Write-InfoLog "All markdown files processed."
-Write-InfoLog "--------------------------------------------------------"
-Write-InfoLog "Summary of updated Resource Types:"
-$resourceTypeCounts.GetEnumerator() | ForEach-Object { Write-InfoLog "$($_.Key): $($_.Value)" }
+Write-DebugLog "All markdown files processed."
+Write-DebugLog "--------------------------------------------------------"
+Write-DebugLog "Summary of updated Resource Types:"
+$resourceTypeCounts.GetEnumerator() | ForEach-Object { Write-DebugLog "$($_.Key): $($_.Value)" }

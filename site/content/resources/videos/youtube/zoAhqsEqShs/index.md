@@ -27,10 +27,28 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Leadership
+- Agile Philosophy
+- Agile Project Management
+- Agile Strategy
+- Agile Transformation
+- Change Management
+- Coaching
+- Continuous Learning
+- Organisational Change
+- Organisational Culture
+- Pragmatic Thinking
+- Software Development
+- Team Collaboration
+- Team Motivation
 resourceTypes:
 - video
-categories: []
+categories:
+- Agile Product Management
+- Enterprise Agility
+- People and Process
 
 ---
 **What is the most interesting outcome you have achieved as an agile consultant?**
