@@ -26,6 +26,7 @@ tags:
 - Engineering Excellence
 - Engineering Practices
 - Frequent Releases
+- Lead Time
 - Modern Source Control
 - Operational Practices
 - Pragmatic Thinking
@@ -33,10 +34,9 @@ tags:
 - Software Developers
 - Software Development
 - Strategy
-- Working Software
 categories:
-- Code and Complexity
 - DevOps
+- Technical Excellence
 - Value Delivery
 preview: 2025-02-06-stop-promoting-branches.jpg
 

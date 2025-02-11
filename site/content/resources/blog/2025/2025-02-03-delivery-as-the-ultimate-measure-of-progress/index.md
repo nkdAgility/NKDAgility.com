@@ -27,8 +27,8 @@ aliasesFor404:
 tags:
 - Agile Project Management
 - Continuous Delivery
-- Definition of Done
 - Deployment Frequency
+- Empirical Process Control
 - Engineering Practices
 - Increment
 - Operational Practices
@@ -41,7 +41,7 @@ tags:
 - Team Performance
 - Working Software
 categories:
-- DevOps
+- People and Process
 - Product Delivery
 - Value Delivery
 preview: 2025-02-03-delivery-as-the-ultimate-measure-of-progress.jpg

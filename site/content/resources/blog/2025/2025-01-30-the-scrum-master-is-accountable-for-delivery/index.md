@@ -29,6 +29,8 @@ aliasesFor404:
 tags:
 - Accountability
 - Agile Frameworks
+- Agile Leadership
+- Agile Project Management
 - Empirical Process Control
 - Increment
 - Operational Practices
@@ -37,9 +39,7 @@ tags:
 - Scrum Product Development
 - Scrum Team
 - Software Development
-- Strategy
 - Team Collaboration
-- Team Performance
 - Technical Leadership
 - Working Software
 categories:

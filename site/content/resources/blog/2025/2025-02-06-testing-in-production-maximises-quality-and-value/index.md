@@ -23,6 +23,7 @@ aliasesFor404:
 - /testing-in-production-maximises-quality-and-value
 - /blog/testing-in-production-maximises-quality-and-value
 tags:
+- Ability to Innovate
 - Continuous Delivery
 - Customer Feedback Loops
 - Deployment Frequency
@@ -31,17 +32,16 @@ tags:
 - Experimentation
 - Frequent Releases
 - Increment
+- Operational Practices
 - Pragmatic Thinking
-- Release Management
 - Software Developers
 - Software Development
 - Strategy
-- Windows
-- Working Software
+- Technical Mastery
 categories:
 - Azure DevOps
 - DevOps
-- Value Delivery
+- Product Delivery
 preview: 2025-02-06-testing-in-production-maximises-quality-and-value.jpg
 
 ---
