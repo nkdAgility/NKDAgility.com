@@ -21,12 +21,8 @@ aliasesFor404:
 - /selling-the-benefits-of-team-system
 - /blog/selling-the-benefits-of-team-system
 - /resources/blog/selling-the-benefits-of-team-system
-tags:
-- Agile Product Management
-- Team Collaboration
-categories:
-- Application Lifecycle Management
-- Azure DevOps
+tags: []
+categories: []
 
 ---
 I have found that there is very little content available on the art of selling Team System for developers that want to use it. Developers need to sell it not only to their manager, but to a hole host of people, and it is no small expense to implement it.

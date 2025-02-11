@@ -25,11 +25,8 @@ aliasesFor404:
 - /unlikely-bloggers…
 - /blog/unlikely-bloggers…
 - /resources/blog/unlikely-bloggers
-tags:
-- Agile Community
-- Featured
-categories:
-- Discovery and Learning
+tags: []
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

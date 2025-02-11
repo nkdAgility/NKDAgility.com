@@ -21,26 +21,8 @@ aliasesFor404:
 - /install-release-management-2013
 - /blog/install-release-management-2013
 - /resources/blog/install-release-management-2013
-tags:
-- Application Lifecycle Management
-- Azure DevOps
-- CI/CD
-- Continuos Delivery
-- Continuous Delivery
-- Deployment Strategies
-- DevOps
-- Frequent Releases
-- Operational Practices
-- Release Planning
-- Software Developers
-- Software Development
-- System Configuration
-- Technical Excellence
-- Value Delivery
-categories:
-- Application Lifecycle Management
-- Install and Configuration
-- Practical Techniques and Tooling
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

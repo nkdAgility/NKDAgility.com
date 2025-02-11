@@ -21,11 +21,8 @@ aliasesFor404:
 - /wpf-scale-transform-behaviour
 - /blog/wpf-scale-transform-behaviour
 - /resources/blog/wpf-scale-transform-behaviour
-tags:
-- Agile Software Development
-- Technical Excellence
-categories:
-- Technical Excellence
+tags: []
+categories: []
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

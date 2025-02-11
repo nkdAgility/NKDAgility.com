@@ -25,12 +25,8 @@ aliasesFor404:
 - /tfs-integration-tools--tf237165--the-team-foundation-server-could-not-update-the-work-item
 - /blog/tfs-integration-tools--tf237165--the-team-foundation-server-could-not-update-the-work-item
 - /resources/blog/tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item
-tags:
-- Agile Tools
-- Azure DevOps
-categories:
-- Install and Configuration
-- Azure DevOps
+tags: []
+categories: []
 preview: metro-problem-icon-2-2.png
 
 ---

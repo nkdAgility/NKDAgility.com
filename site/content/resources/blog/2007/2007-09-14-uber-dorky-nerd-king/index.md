@@ -21,12 +21,9 @@ aliasesFor404:
 - /uber-dorky-nerd-king
 - /blog/uber-dorky-nerd-king
 - /resources/blog/uber-dorky-nerd-king
-categories:
-- Personal
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
-tags:
-- Featured
-- Personal
+tags: []
 
 ---
 I spotted this [post](http://geekswithblogs.net/sbargelt/archive/2007/09/13/115331.aspx "Uber-Dorky Nerd King") by [Steve Bargelt](http://geekswithblogs.net/sbargelt/), and I just could not help myself...

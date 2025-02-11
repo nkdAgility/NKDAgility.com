@@ -25,20 +25,8 @@ aliasesFor404:
 - /be-a-kid-again-and-upgrade-to-windows-phone-8-1-developer-preview
 - /blog/be-a-kid-again-and-upgrade-to-windows-phone-8-1-developer-preview
 - /resources/blog/kid-upgrade-windows-phone-8-1-developer-preview
-tags:
-- Discovery and Learning
-- Experimentation
-- Featured
-- Software Development
-- Software Increment
-- System Configuration
-- Troubleshooting
-- Windows
-- Working Software
-categories:
-- Install and Configuration
-- News and Reviews
-- Practical Techniques and Tooling
+tags: []
+categories: []
 preview: nakedalm-windows-logo-6-6.png
 
 ---

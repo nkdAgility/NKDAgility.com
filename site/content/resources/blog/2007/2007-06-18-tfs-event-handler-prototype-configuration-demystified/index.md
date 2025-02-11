@@ -21,12 +21,8 @@ aliasesFor404:
 - /tfs-event-handler-prototype-configuration-demystified
 - /blog/tfs-event-handler-prototype-configuration-demystified
 - /resources/blog/tfs-event-handler-prototype-configuration-demystified
-tags:
-- Agile Software Development
-- Agile Tools
-categories:
-- Install and Configuration
-- Code and Complexity
+tags: []
+categories: []
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

@@ -25,12 +25,8 @@ aliasesFor404:
 - /visual-studio-team-system-2008-database-edition-gdr-has-been-released-
 - /blog/visual-studio-team-system-2008-database-edition-gdr-has-been-released-
 - /resources/blog/visual-studio-team-system-2008-database-edition-gdr-has-been-released
-tags:
-- Agile Software Development
-- Technical Excellence
-categories:
-- Application Lifecycle Management
-- Install and Configuration
+tags: []
+categories: []
 
 ---
 What a mouthful! Has there ever been any products with names as long as the Team System toolset ;), Maybe thats why it is just called [Data Dude](http://www.microsoft.com/downloads/details.aspx?FamilyID=bb3ad767-5f69-4db9-b1c9-8f55759846ed&displaylang=en).

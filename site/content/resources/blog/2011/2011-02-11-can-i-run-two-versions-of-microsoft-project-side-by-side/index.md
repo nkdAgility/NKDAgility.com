@@ -25,13 +25,9 @@ aliasesFor404:
 - /can-i-run-two-versions-of-microsoft-project-side-by-side-
 - /blog/can-i-run-two-versions-of-microsoft-project-side-by-side-
 - /resources/blog/can-i-run-two-versions-of-microsoft-project-side-by-side
-tags:
-- Agile Software Development
-- Technical Debt
+tags: []
 preview: nakedalm-logo-128-link-5-5.png
-categories:
-- Install and Configuration
-- Application Lifecycle Management
+categories: []
 
 ---
 [![image](images/Can_84C0-image_thumb_1-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Can_84C0-image_4.png)

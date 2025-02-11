@@ -27,25 +27,8 @@ aliasesFor404:
 - /announcing-professional-agile-leadership-with-evidence-based-management-training-(pal-ebm)-from-scrum-org
 - /blog/announcing-professional-agile-leadership-with-evidence-based-management-training-(pal-ebm)-from-scrum-org
 - /resources/blog/announcing-evidence-based-management-training-with-certification-from-scrum-org
-tags:
-- Ability to Innovate
-- Agile Frameworks
-- Agile Leadership
-- Agile Project Management
-- Agile Strategy
-- Agile Transformation
-- Decision Making
-- Empirical Process Control
-- Evidence Based Leadership
-- Evidence Based Management
-- Pragmatic Thinking
-- Product Management
-- Strategic Goals
-- Strategy
-categories:
-- Events and Presentations
-- Metrics and Learning
-- People and Process
+tags: []
+categories: []
 preview: images/Professional-Agile-Leadership-Evidence-Based-Management-6-6.jpg
 
 ---

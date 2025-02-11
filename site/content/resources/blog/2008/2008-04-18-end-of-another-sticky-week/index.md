@@ -25,11 +25,8 @@ aliasesFor404:
 - /end-of-another-sticky-week---
 - /blog/end-of-another-sticky-week---
 - /resources/blog/end-of-another-sticky-week
-tags:
-- Agile Software Development
-- Agile Tools
-categories:
-- Azure DevOps
+tags: []
+categories: []
 preview: nakedalm-logo-128-link-3-3.png
 
 ---

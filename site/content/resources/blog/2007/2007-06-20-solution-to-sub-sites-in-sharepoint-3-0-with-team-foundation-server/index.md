@@ -21,13 +21,9 @@ aliasesFor404:
 - /solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
 - /blog/solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
 - /resources/blog/solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
-tags:
-- Agile Software Development
-- Technical Excellence
+tags: []
 preview: nakedalm-logo-128-link-1-1.png
-categories:
-- Azure DevOps
-- Install and Configuration
+categories: []
 
 ---
 This subject goes back over a number of posts:

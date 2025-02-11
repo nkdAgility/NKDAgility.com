@@ -25,11 +25,8 @@ aliasesFor404:
 - /presenting-visual-studio-alm-and-upgrading-tfs-2010-to-tfs-2012-in-production-–-done
 - /blog/presenting-visual-studio-alm-and-upgrading-tfs-2010-to-tfs-2012-in-production-–-done
 - /resources/blog/presenting-visual-studio-alm-upgrading-tfs-2010-to-tfs-2012-in-production-done
-tags:
-- Agile Software Development
-- Continuous Improvement
-categories:
-- Azure DevOps
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---

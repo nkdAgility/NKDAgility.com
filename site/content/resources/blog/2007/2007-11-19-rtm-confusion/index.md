@@ -21,11 +21,8 @@ aliasesFor404:
 - /rtm-confusion
 - /blog/rtm-confusion
 - /resources/blog/rtm-confusion
-tags:
-- Modern Source Control
-- Agile Software Development
-categories:
-- Install and Configuration
+tags: []
+categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

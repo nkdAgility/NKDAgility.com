@@ -21,11 +21,8 @@ aliasesFor404:
 - /visual-studio-alm-mvp-of-the-year-2011
 - /blog/visual-studio-alm-mvp-of-the-year-2011
 - /resources/blog/visual-studio-alm-mvp-of-the-year-2011
-tags:
-- Agile Community
-- Technical Mastery
-categories:
-- Azure DevOps
+tags: []
+categories: []
 preview: metro-award-link-2-2.png
 
 ---

@@ -21,11 +21,8 @@ aliasesFor404:
 - /mobile-device-center
 - /blog/mobile-device-center
 - /resources/blog/mobile-device-center
-tags:
-- Customer Satisfaction
-- Technical Debt
-categories:
-- Products and Books
+tags: []
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

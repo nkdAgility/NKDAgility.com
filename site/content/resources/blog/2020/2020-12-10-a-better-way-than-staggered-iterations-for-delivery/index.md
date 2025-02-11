@@ -22,12 +22,8 @@ aliasesFor404:
 - /a-better-way-than-staggered-iterations-for-delivery
 - /blog/a-better-way-than-staggered-iterations-for-delivery
 - /resources/blog/a-better-way-than-staggered-iterations-for-delivery
-tags:
-- Agile Pilot
-categories:
-- DevOps
-- Scrum
-- Technical Excellence
+tags: []
+categories: []
 preview: staggered-iterations-for-delivery1-2-2.png
 
 ---

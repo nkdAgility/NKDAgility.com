@@ -21,25 +21,8 @@ aliasesFor404:
 - /migrating-to-office-365-from-google-mail
 - /blog/migrating-to-office-365-from-google-mail
 - /resources/blog/migrating-to-office-365-from-google-mail
-tags:
-- Customer Satisfaction
-- Decision Making
-- Deployment Strategies
-- DevOps
-- Digital Transformation
-- Operational Practices
-- Pragmatic Thinking
-- Software Developers
-- Software Development
-- System Configuration
-- Technical Excellence
-- Technical Mastery
-- Troubleshooting
-- Working Software
-categories:
-- Install and Configuration
-- Practical Techniques and Tooling
-- Technical Excellence
+tags: []
+categories: []
 preview: metro-office-128-link-3-3.png
 
 ---

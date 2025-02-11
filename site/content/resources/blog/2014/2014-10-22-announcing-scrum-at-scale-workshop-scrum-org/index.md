@@ -25,26 +25,8 @@ aliasesFor404:
 - /upcomming-scrum-at-scale-workshop-from-scrum-org
 - /blog/upcomming-scrum-at-scale-workshop-from-scrum-org
 - /resources/blog/announcing-scrum-at-scale-workshop-scrum-org
-tags:
-- Agile Project Management
-- Agile Software Development
-- Agile Software Engineering
-- Agility
-- Business Agility
-- Change Management
-- Enterprise Agility
-- Evidence Based Management
-- Organisational Agility
-- Organisational Change
-- Organisational Culture
-- Scaling Agility
-- Scaling Scrum
-- Scrum
-- Software Development
-categories:
-- Enterprise Agility
-- People and Process
-- Scrum
+tags: []
+categories: []
 preview: nakedalm-experts-professional-scrum-2-2.png
 
 ---

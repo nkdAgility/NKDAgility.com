@@ -21,11 +21,8 @@ aliasesFor404:
 - /reformat-your-css-on-the-fly
 - /blog/reformat-your-css-on-the-fly
 - /resources/blog/reformat-your-css-on-the-fly
-tags:
-- Technical Excellence
-- Azure DevOps
-categories:
-- Technical Excellence
+tags: []
+categories: []
 preview: metro-binary-vb-128-link-2-1.png
 
 ---

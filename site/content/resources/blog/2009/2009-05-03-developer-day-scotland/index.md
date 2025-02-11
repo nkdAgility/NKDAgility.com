@@ -21,10 +21,8 @@ aliasesFor404:
 - /developer-day-scotland
 - /blog/developer-day-scotland
 - /resources/blog/developer-day-scotland
-tags:
-- Technical Excellence
-categories:
-- Technical Excellence
+tags: []
+categories: []
 preview: metro-event-128-link-1-1.png
 
 ---

@@ -21,12 +21,9 @@ aliasesFor404:
 - /create-a-vhd-from-the-windows-server-2008-r2-image-disk
 - /blog/create-a-vhd-from-the-windows-server-2008-r2-image-disk
 - /resources/blog/create-a-vhd-from-the-windows-server-2008-r2-image-disk
-tags:
-- Windows
+tags: []
 preview: metro-SSWLogo-128-link-10-10.png
-categories:
-- Install and Configuration
-- Practical Techniques and Tooling
+categories: []
 
 ---
 Previously I created this [the manual way](http://blog.hinshelwood.com/archive/2009/12/07/create-a-vhd-from-the-windows-7-image-disk.aspx), but if you have a fast internet connection and can take the 1.6gb download of the AIK, then this is a much easier way of getting started.

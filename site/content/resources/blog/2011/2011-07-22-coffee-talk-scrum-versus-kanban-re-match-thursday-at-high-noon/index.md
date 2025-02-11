@@ -25,11 +25,8 @@ aliasesFor404:
 - /coffee-talk--scrum-versus-kanban-(re-match)-----thursday-at-high-noon-
 - /blog/coffee-talk--scrum-versus-kanban-(re-match)-----thursday-at-high-noon-
 - /resources/blog/coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon
-tags:
-- Kanban Theory
-categories:
-- scrum
-- kanban
+tags: []
+categories: []
 preview: metro-nwc-128-link-2-2.png
 
 ---

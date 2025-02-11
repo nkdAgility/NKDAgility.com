@@ -25,8 +25,7 @@ aliasesFor404:
 - /the-benefits-of-visual-studio-online-for-the-enterprise
 - /blog/the-benefits-of-visual-studio-online-for-the-enterprise
 - /resources/blog/benefits-visual-studio-online-enterprise
-tags:
-- Agile Strategy
+tags: []
 categories: []
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 

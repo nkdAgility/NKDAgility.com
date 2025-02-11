@@ -25,26 +25,8 @@ aliasesFor404:
 - /building-a-release-pipeline-with-release-management-with-visual-studio-2013
 - /blog/building-a-release-pipeline-with-release-management-with-visual-studio-2013
 - /resources/blog/building-release-pipeline-release-management-visual-studio-2013
-tags:
-- Agile Tools
-- Agility
-- Application Lifecycle Management
-- Change Management
-- Continuous Delivery
-- Continuous Improvement
-- DevOps
-- Large Scale Agility
-- Operational Practices
-- People and Process
-- Software Developers
-- Software Development
-- Software Increment
-- Value Delivery
-- Value Stream Management
-categories:
-- Application Lifecycle Management
-- DevOps
-- Value Delivery
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-4-4.png
 
 ---

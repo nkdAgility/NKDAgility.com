@@ -21,13 +21,9 @@ aliasesFor404:
 - /installing-visual-studio-2010-team-suit-beta-1
 - /blog/installing-visual-studio-2010-team-suit-beta-1
 - /resources/blog/installing-visual-studio-2010-team-suit-beta-1
-tags:
-- Windows
-- System Configuration
+tags: []
 preview: metro-visual-studio-2010-128-link-9-9.png
-categories:
-- Install and Configuration
-- Application Lifecycle Management
+categories: []
 
 ---
 ![VS-TS_rgb_thumb[2]](images/InstallingVisualStudio2010TeamSuitBeta1_EA00-VSTS_rgb_thumb2-8-8.png)It’s here, [Visual Studio 2010 Beta 1](http://www.microsoft.com/visualstudio/en-gb/products/2010/default.mspx). This is probably the most exciting product to come out of Microsoft since…well… Visual Studio 2008 ;).

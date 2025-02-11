@@ -21,12 +21,8 @@ aliasesFor404:
 - /composite-wpf-and-merged-dictionaries
 - /blog/composite-wpf-and-merged-dictionaries
 - /resources/blog/composite-wpf-and-merged-dictionaries
-tags:
-- Agile Software Development
-- Technical Excellence
-categories:
-- Application Lifecycle Management
-- Code and Complexity
+tags: []
+categories: []
 preview: metro-binary-vb-128-link-2-2.png
 
 ---

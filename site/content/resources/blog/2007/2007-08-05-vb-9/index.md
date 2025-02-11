@@ -21,11 +21,8 @@ aliasesFor404:
 - /vb-9
 - /blog/vb-9
 - /resources/blog/vb-9
-tags:
-- Agile Software Development
-- Technical Excellence
-categories:
-- Code and Complexity
+tags: []
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

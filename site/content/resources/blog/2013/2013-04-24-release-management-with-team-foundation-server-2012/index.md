@@ -21,26 +21,8 @@ aliasesFor404:
 - /release-management-with-team-foundation-server-2012
 - /blog/release-management-with-team-foundation-server-2012
 - /resources/blog/release-management-with-team-foundation-server-2012
-tags:
-- Application Lifecycle Management
-- Azure DevOps
-- Continuos Delivery
-- Deployment Strategies
-- DevOps
-- Engineering Excellence
-- Engineering Practices
-- Flow Efficiency
-- Operational Practices
-- People and Process
-- Release Planning
-- Software Developers
-- Software Development
-- Windows
-- Working Software
-categories:
-- Application Lifecycle Management
-- DevOps
-- People and Process
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---

@@ -21,13 +21,8 @@ aliasesFor404:
 - /software-development-industrial-revolution
 - /blog/software-development-industrial-revolution
 - /resources/blog/software-development-industrial-revolution
-tags:
-- Agile Software Development
-- Business Agility
-categories:
-- Application Lifecycle Management
-- People and Process
-- Azure DevOps
+tags: []
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

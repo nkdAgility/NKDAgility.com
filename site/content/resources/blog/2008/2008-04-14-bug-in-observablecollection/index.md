@@ -25,12 +25,8 @@ aliasesFor404:
 - /bug-in-observablecollection-
 - /blog/bug-in-observablecollection-
 - /resources/blog/bug-in-observablecollection
-tags:
-- Technical Debt
-- Agile Software Development
-categories:
-- Code and Complexity
-- Technical Excellence
+tags: []
+categories: []
 preview: metro-binary-vb-128-link-2-2.png
 
 ---

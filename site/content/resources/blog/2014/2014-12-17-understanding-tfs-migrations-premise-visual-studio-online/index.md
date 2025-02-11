@@ -25,26 +25,8 @@ aliasesFor404:
 - /understanding-tfs-migrations-from-on-premise-to-visual-studio-online
 - /blog/understanding-tfs-migrations-from-on-premise-to-visual-studio-online
 - /resources/blog/understanding-tfs-migrations-premise-visual-studio-online
-tags:
-- Application Lifecycle Management
-- Azure DevOps
-- Change Management
-- Deployment Strategies
-- DevOps
-- Featured
-- Modern Source Control
-- Software Developers
-- Software Development
-- System Configuration
-- Technical Debt
-- Technical Excellence
-- Technical Mastery
-- Technical Strategy
-- Working Software
-categories:
-- Install and Configuration
-- Practical Techniques and Tooling
-- Technical Excellence
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 
 ---

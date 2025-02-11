@@ -21,23 +21,8 @@ aliasesFor404:
 - /hiring-a-professional-scrum-master
 - /blog/hiring-a-professional-scrum-master
 - /resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
-tags:
-- Accountability
-- Agile Frameworks
-- Agile Leadership
-- Agile Project Management
-- Coaching
-- Professional Scrum
-- Scrum Master
-- Scrum Product Development
-- Scrum Team
-- Software Development
-- Team Performance
-- Technical Leadership
-categories:
-- Agile Product Management
-- People and Process
-- Product Delivery
+tags: []
+categories: []
 preview: Wide-screen-scrum-master-3-3.jpg
 
 ---

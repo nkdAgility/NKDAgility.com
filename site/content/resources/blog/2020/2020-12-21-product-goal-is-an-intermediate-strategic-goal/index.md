@@ -23,10 +23,7 @@ aliasesFor404:
 - /blog/product-goal-is-an-intermediate-strategic-goal
 - /resources/blog/product-goal-is-an-intermediate-strategic-goal
 tags: []
-categories:
-- Azure DevOps
-- DevOps
-- Technical Excellence
+categories: []
 preview: naked-agility-hypothesis-driven-1-1.jpg
 
 ---

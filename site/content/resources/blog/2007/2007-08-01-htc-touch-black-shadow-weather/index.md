@@ -27,12 +27,8 @@ aliasesFor404:
 - /blog/htc-touch---black-shadow-weather
 - /htc-touch
 - /resources/blog/htc-touch-black-shadow-weather
-categories:
-- Products and Books
-- Install and Configuration
-tags:
-- Technical Excellence
-- Agile Software Development
+categories: []
+tags: []
 
 ---
 black-shadow-weather

@@ -21,11 +21,8 @@ aliasesFor404:
 - /advanced-email-content-addendum
 - /blog/advanced-email-content-addendum
 - /resources/blog/advanced-email-content-addendum
-tags:
-- Agile Software Development
-- Technical Excellence
-categories:
-- Events and Presentations
+tags: []
+categories: []
 preview: metro-merilllynch-128-link-1-1.png
 
 ---

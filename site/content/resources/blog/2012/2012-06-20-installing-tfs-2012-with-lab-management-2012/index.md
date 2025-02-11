@@ -21,12 +21,8 @@ aliasesFor404:
 - /installing-tfs-2012-with-lab-management-2012
 - /blog/installing-tfs-2012-with-lab-management-2012
 - /resources/blog/installing-tfs-2012-with-lab-management-2012
-tags:
-- Deployment Strategies
-- Agile Tools
-categories:
-- Install and Configuration
-- Azure DevOps
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-42-42.png
 
 ---

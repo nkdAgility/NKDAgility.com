@@ -25,11 +25,8 @@ aliasesFor404:
 - /tfs-2010-work-item-seed--tfs-work-item-system-id-at-a-predefined-number
 - /blog/tfs-2010-work-item-seed--tfs-work-item-system-id-at-a-predefined-number
 - /resources/blog/tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
-tags:
-- Agile Software Development
-- Agile Tools
-categories:
-- Azure DevOps
+tags: []
+categories: []
 preview: metro-binary-vb-128-link-5-5.png
 
 ---

@@ -21,11 +21,8 @@ aliasesFor404:
 - /first-day-at-aggreko
 - /blog/first-day-at-aggreko
 - /resources/blog/first-day-at-aggreko
-tags:
-- Agile Planning
-- Team Collaboration
-categories:
-- Application Lifecycle Management
+tags: []
+categories: []
 preview: metro-aggreko-128-link-1-1.png
 
 ---

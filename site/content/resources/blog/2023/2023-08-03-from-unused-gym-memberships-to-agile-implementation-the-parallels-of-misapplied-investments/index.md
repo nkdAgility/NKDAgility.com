@@ -22,20 +22,8 @@ aliasesFor404:
 - /from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
 - /blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
 - /resources/blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
-tags:
-- Agile Frameworks
-- Agile Philosophy
-- Agile Project Management
-- Agile Strategy
-- Agile Transformation
-- Agile Values and Principles
-- Pragmatic Thinking
-- Software Developers
-- Software Development
-categories:
-- Agile Product Management
-- Organisational Agility
-- People and Process
+tags: []
+categories: []
 preview: naked-agility-technically-agile-gym-membership-Agile-1-1.jpg
 
 ---

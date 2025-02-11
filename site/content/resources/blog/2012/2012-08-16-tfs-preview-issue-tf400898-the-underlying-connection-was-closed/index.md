@@ -27,11 +27,8 @@ aliasesFor404:
 - /blog/tfs-preview---issue--tf400898-the-underlying-connection-was-closed
 - /tfs-preview
 - /resources/blog/tfs-preview-issue-tf400898-the-underlying-connection-was-closed
-tags:
-- Technical Debt
-- Agile Software Development
-categories:
-- Azure DevOps
+tags: []
+categories: []
 preview: metro-problem-icon-4-4.png
 
 ---

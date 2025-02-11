@@ -21,11 +21,8 @@ aliasesFor404:
 - /windows-live-skydrive-beta
 - /blog/windows-live-skydrive-beta
 - /resources/blog/windows-live-skydrive-beta
-tags:
-- Customer Satisfaction
-- Agile Software Development
-categories:
-- News and Reviews
+tags: []
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

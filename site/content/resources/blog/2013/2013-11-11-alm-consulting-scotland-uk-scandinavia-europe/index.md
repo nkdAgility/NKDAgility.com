@@ -29,26 +29,8 @@ aliasesFor404:
 - /alm-consulting-in-scotland--uk--scandinavia-&amp;-europe
 - /blog/alm-consulting-in-scotland--uk--scandinavia-&amp;-europe
 - /resources/blog/alm-consulting-scotland-uk-scandinavia-europe
-tags:
-- Agile Coaching
-- Agile Digital Tools
-- Agile Planning Tools
-- Agile Project Management
-- Agile Resource Management
-- Agile Software Development
-- Agile Software Engineering
-- Agile Tools
-- Agility
-- Application Lifecycle Management
-- Coaching
-- Deployment Strategies
-- People and Process
-- Scrum
-- Software Development
-categories:
-- Application Lifecycle Management
-- People and Process
-- Practical Techniques and Tooling
+tags: []
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

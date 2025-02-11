@@ -25,26 +25,8 @@ aliasesFor404:
 - /there-is-no--do-agile--there-is-only--be-agile-
 - /blog/there-is-no--do-agile--there-is-only--be-agile-
 - /resources/blog/there-is-no-do-agile-there-is-only-be-agile
-tags:
-- Agile Product Management
-- Agile Project Management
-- Agile Software Development
-- Agile Values and Principles
-- Agility
-- Lean Agile
-- Lean Product Development
-- Organisational Agility
-- Organisational Change
-- People and Process
-- Scaling Agility
-- Scrum
-- Scrum Product Development
-- Scrum Product Management
-- Transparency
-categories:
-- Agile Product Management
-- Lean
-- People and Process
+tags: []
+categories: []
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

@@ -21,12 +21,8 @@ aliasesFor404:
 - /tfs-service-credential-viewer
 - /blog/tfs-service-credential-viewer
 - /resources/blog/tfs-service-credential-viewer
-tags:
-- Agile Tools
-- Azure DevOps
-categories:
-- Azure DevOps
-- Install and Configuration
+tags: []
+categories: []
 preview: metro-cloud-azure-link-4-4.png
 
 ---

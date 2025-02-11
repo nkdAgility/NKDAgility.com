@@ -25,12 +25,8 @@ aliasesFor404:
 - /visual-studio-2012-rtm-available-&-installed
 - /blog/visual-studio-2012-rtm-available-&-installed
 - /resources/blog/visual-studio-2012-rtm-available-installed
-tags:
-- Agile Software Development
-- Continuous Delivery
-categories:
-- Install and Configuration
-- Azure DevOps
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

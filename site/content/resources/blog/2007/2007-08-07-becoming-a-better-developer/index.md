@@ -25,11 +25,8 @@ aliasesFor404:
 - /becoming-a-better-developer---
 - /blog/becoming-a-better-developer---
 - /resources/blog/becoming-a-better-developer
-tags:
-- Technical Mastery
-- Continuous Learning
-categories:
-- Discovery and Learning
+tags: []
+categories: []
 preview: metro-merilllynch-128-link-1-1.png
 
 ---

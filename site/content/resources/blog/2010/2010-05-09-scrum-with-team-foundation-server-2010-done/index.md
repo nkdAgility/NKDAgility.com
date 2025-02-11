@@ -21,11 +21,8 @@ aliasesFor404:
 - /scrum-with-team-foundation-server-2010-done
 - /blog/scrum-with-team-foundation-server-2010-done
 - /resources/blog/scrum-with-team-foundation-server-2010-done
-tags:
-- Scrum Team
-categories:
-- Scrum
-- Application Lifecycle Management
+tags: []
+categories: []
 preview: metro-event-128-link-3-3.png
 
 ---

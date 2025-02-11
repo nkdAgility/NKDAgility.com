@@ -21,12 +21,8 @@ aliasesFor404:
 - /install-sharepoint-2013-on-windows-server-2012-without-a-domain
 - /blog/install-sharepoint-2013-on-windows-server-2012-without-a-domain
 - /resources/blog/install-sharepoint-2013-on-windows-server-2012-without-a-domain
-tags:
-- Agile Software Development
-- Technical Excellence
-categories:
-- Install and Configuration
-- Azure DevOps
+tags: []
+categories: []
 preview: metro-sharepoint-128-link-23-23.png
 
 ---

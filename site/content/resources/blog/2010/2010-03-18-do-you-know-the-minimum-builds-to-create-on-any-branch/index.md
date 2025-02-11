@@ -25,13 +25,9 @@ aliasesFor404:
 - /do-you-know-the-minimum-builds-to-create-on-any-branch-
 - /blog/do-you-know-the-minimum-builds-to-create-on-any-branch-
 - /resources/blog/do-you-know-the-minimum-builds-to-create-on-any-branch
-tags:
-- Continuous Integration
-- Automated Testing
+tags: []
 preview: metro-visual-studio-2010-128-link-6-6.png
-categories:
-- Application Lifecycle Management
-- Technical Excellence
+categories: []
 
 ---
 ![BuildIcon_Large](images/Doyouknowtheminimumbuildstocreate_CABD-BuildIcon_Large_-1-1.png)

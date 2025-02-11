@@ -25,26 +25,8 @@ aliasesFor404:
 - /create-a-release-management-pipeline-for-professional-developers
 - /blog/create-a-release-management-pipeline-for-professional-developers
 - /resources/blog/create-release-management-pipeline-professional-developers
-tags:
-- Agile Digital Tools
-- Agile Tools
-- Agility
-- Application Lifecycle Management
-- Azure DevOps
-- Azure Pipelines
-- Continuous Delivery
-- Deployment Frequency
-- Deployment Strategies
-- DevOps
-- Software Developers
-- Software Development
-- Technical Excellence
-- Technical Mastery
-- Working Software
-categories:
-- Azure DevOps
-- DevOps
-- Install and Configuration
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-46-46.png
 
 ---

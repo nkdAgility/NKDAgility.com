@@ -25,11 +25,8 @@ aliasesFor404:
 - /are-you-doing-scrum--really-
 - /blog/are-you-doing-scrum--really-
 - /resources/blog/are-you-doing-scrum-really
-tags:
-- Scrum Master
-categories:
-- Scrum
-- People and Process
+tags: []
+categories: []
 preview: nakedalm-experts-professional-scrum-3-3.png
 
 ---

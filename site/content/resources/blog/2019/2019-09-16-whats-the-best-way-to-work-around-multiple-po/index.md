@@ -26,8 +26,7 @@ aliasesFor404:
 - /blog/what's-the-best-way-to-work-around-multiple-po-
 - /resources/blog/whats-the-best-way-to-work-around-multiple-po
 tags: []
-categories:
-- Scrum
+categories: []
 preview: 495173592-1-1.jpg
 
 ---

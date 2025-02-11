@@ -21,12 +21,9 @@ aliasesFor404:
 - /merry-christmas
 - /blog/merry-christmas
 - /resources/blog/merry-christmas
-categories:
-- Personal
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
-tags:
-- Featured
-- Personal
+tags: []
 
 ---
 With many people skipping off early for their holly bags, me included.. I thought I should send this out now…

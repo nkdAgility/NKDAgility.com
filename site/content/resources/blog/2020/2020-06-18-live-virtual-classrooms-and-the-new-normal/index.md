@@ -26,8 +26,7 @@ aliasesFor404:
 - /blog/live-virtual-classroom's-and-the-new-normal
 - /resources/blog/live-virtual-classrooms-and-the-new-normal
 tags: []
-categories:
-- Scrum
+categories: []
 preview: image-1-1-1.png
 
 ---

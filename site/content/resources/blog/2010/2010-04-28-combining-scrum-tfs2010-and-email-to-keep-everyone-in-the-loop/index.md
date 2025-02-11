@@ -29,12 +29,8 @@ aliasesFor404:
 - /combining-scrum--tfs2010-and-email-to-keep-everyone-in-the-loop
 - /blog/combining-scrum--tfs2010-and-email-to-keep-everyone-in-the-loop
 - /resources/blog/combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop
-tags:
-- Team Collaboration
-categories:
-- People and Process
-- Azure DevOps
-- Scrum
+tags: []
+categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

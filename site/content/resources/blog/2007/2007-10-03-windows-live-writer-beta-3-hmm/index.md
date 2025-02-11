@@ -25,12 +25,8 @@ aliasesFor404:
 - /windows-live-writer-beta-3-hmm-
 - /blog/windows-live-writer-beta-3-hmm-
 - /resources/blog/windows-live-writer-beta-3-hmm
-tags:
-- Customer Satisfaction
-- Agile Product Discovery
-categories:
-- Install and Configuration
-- Products and Books
+tags: []
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

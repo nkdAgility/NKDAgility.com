@@ -21,12 +21,8 @@ aliasesFor404:
 - /tfs-event-handler-prototype-feedback
 - /blog/tfs-event-handler-prototype-feedback
 - /resources/blog/tfs-event-handler-prototype-feedback
-tags:
-- Customer Feedback Loops
-- Agile Tools
-categories:
-- Install and Configuration
-- Azure DevOps
+tags: []
+categories: []
 preview: metro-merilllynch-128-link-1-1.png
 
 ---

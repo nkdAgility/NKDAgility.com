@@ -25,11 +25,8 @@ aliasesFor404:
 - /solution--getting-silverlight-to-build-on-team-foundation-build-services-2010
 - /blog/solution--getting-silverlight-to-build-on-team-foundation-build-services-2010
 - /resources/blog/solution-getting-silverlight-to-build-on-team-foundation-build-services-2010
-tags:
-- Agile Software Development
-- Continuous Integration
-categories:
-- Install and Configuration
+tags: []
+categories: []
 preview: metro-visual-studio-2010-128-link-3-3.png
 
 ---

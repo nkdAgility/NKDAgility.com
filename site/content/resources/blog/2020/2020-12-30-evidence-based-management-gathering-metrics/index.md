@@ -26,12 +26,8 @@ aliasesFor404:
 - /evidence-based-management--gathering-the-metrics
 - /blog/evidence-based-management--gathering-the-metrics
 - /resources/blog/evidence-based-management-gathering-metrics
-tags:
-- Ability to Innovate
-categories:
-- DevOps
-- Scrum
-- Technical Excellence
+tags: []
+categories: []
 preview: naked-agility-evidence-based-management-1-1.jpg
 
 ---

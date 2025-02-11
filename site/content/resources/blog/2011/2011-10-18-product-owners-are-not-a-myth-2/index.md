@@ -25,12 +25,8 @@ aliasesFor404:
 - /product-owners-are-not-a-myth
 - /blog/product-owners-are-not-a-myth
 - /resources/blog/product-owners-are-not-a-myth-2
-tags:
-- Product Owner
-- Scrum Product Management
-categories:
-- People and Process
-- Agile Product Management
+tags: []
+categories: []
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

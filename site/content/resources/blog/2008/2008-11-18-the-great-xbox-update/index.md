@@ -21,11 +21,8 @@ aliasesFor404:
 - /the-great-xbox-update
 - /blog/the-great-xbox-update
 - /resources/blog/the-great-xbox-update
-tags:
-- Customer Satisfaction
-- Continuous Improvement
-categories:
-- News and Reviews
+tags: []
+categories: []
 preview: metro-xbox-360-link-3-2.png
 
 ---

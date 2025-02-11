@@ -21,11 +21,8 @@ aliasesFor404:
 - /installing-office-2013-on-windows-8
 - /blog/installing-office-2013-on-windows-8
 - /resources/blog/installing-office-2013-on-windows-8
-tags:
-- Agile Software Development
-- Customer Feedback Loops
-categories:
-- Install and Configuration
+tags: []
+categories: []
 preview: metro-office-128-link-7-7.png
 
 ---

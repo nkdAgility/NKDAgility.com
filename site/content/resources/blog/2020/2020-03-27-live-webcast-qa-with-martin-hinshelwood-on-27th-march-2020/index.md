@@ -26,8 +26,7 @@ aliasesFor404:
 - /blog/live-webcast--q&amp;a-with-martin-hinshelwood-on-27th-march-2020
 - /resources/blog/live-webcast-qa-with-martin-hinshelwood-on-27th-march-2020
 tags: []
-categories:
-- Scrum
+categories: []
 preview: 2020-03-27_21-33-56-1-1.jpg
 
 ---

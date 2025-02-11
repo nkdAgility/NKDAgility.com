@@ -21,12 +21,8 @@ aliasesFor404:
 - /creating-a-custom-proxy-class
 - /blog/creating-a-custom-proxy-class
 - /resources/blog/creating-a-custom-proxy-class
-tags:
-- Agile Software Development
-- Technical Excellence
-categories:
-- Application Lifecycle Management
-- Code and Complexity
+tags: []
+categories: []
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

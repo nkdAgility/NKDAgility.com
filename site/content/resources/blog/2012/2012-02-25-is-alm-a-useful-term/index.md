@@ -25,12 +25,8 @@ aliasesFor404:
 - /is-alm-a-useful-term-
 - /blog/is-alm-a-useful-term-
 - /resources/blog/is-alm-a-useful-term
-tags:
-- Application Lifecycle Management
-- Agile Software Development
-categories:
-- Application Lifecycle Management
-- People and Process
+tags: []
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

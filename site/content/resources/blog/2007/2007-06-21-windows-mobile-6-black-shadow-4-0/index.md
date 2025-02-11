@@ -25,12 +25,8 @@ aliasesFor404:
 - /windows-mobile-6-black-shadow-(4-0)
 - /blog/windows-mobile-6-black-shadow-(4-0)
 - /resources/blog/windows-mobile-6-black-shadow-4-0
-tags:
-- Agile Software Development
-- Customer Feedback Loops
-categories:
-- Install and Configuration
-- Products and Books
+tags: []
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

@@ -21,11 +21,8 @@ aliasesFor404:
 - /commit-to-visual-studio-alm-on-area51
 - /blog/commit-to-visual-studio-alm-on-area51
 - /resources/blog/commit-to-visual-studio-alm-on-area51
-tags:
-- Agile Community
-- Agile Tools
-categories:
-- Application Lifecycle Management
+tags: []
+categories: []
 preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---

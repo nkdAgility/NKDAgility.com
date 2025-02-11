@@ -25,23 +25,8 @@ aliasesFor404:
 - /run-a-router-on-hyper-v
 - /blog/run-a-router-on-hyper-v
 - /resources/blog/run-router-hyper-v
-tags:
-- Ability to Innovate
-- Engineering Practices
-- Experimentation
-- Pragmatic Thinking
-- Software Developers
-- Software Development
-- System Configuration
-- Technical Excellence
-- Technical Mastery
-- Troubleshooting
-- Windows
-- Working Software
-categories:
-- Code and Complexity
-- Install and Configuration
-- Practical Techniques and Tooling
+tags: []
+categories: []
 preview: naked-alm-hyper-v-17-17.png
 
 ---

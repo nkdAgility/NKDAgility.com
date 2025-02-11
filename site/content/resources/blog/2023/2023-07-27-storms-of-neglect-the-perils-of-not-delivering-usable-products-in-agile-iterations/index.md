@@ -22,26 +22,8 @@ aliasesFor404:
 - /storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
 - /blog/storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
 - /resources/blog/storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
-tags:
-- Agile Frameworks
-- Agile Philosophy
-- Agile Planning
-- Agile Project Management
-- Agile Strategy
-- Agile Transformation
-- Agile Values and Principles
-- Increment
-- Pragmatic Thinking
-- Product Management
-- Scrum Product Development
-- Software Developers
-- Software Development
-- Transparency
-- Working Software
-categories:
-- Agile Product Management
-- People and Process
-- Product Delivery
+tags: []
+categories: []
 preview: image-1.jpg
 
 ---

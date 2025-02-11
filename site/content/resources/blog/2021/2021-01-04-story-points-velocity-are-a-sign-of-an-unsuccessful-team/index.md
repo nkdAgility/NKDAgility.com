@@ -26,11 +26,8 @@ aliasesFor404:
 - /story-points-&-velocity-are-a-sign-of-an-unsuccessful-team
 - /blog/story-points-&-velocity-are-a-sign-of-an-unsuccessful-team
 - /resources/blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team
-tags:
-- Scrum Values
-categories:
-- Kanban
-- Scrum
+tags: []
+categories: []
 preview: image-9-14-14.png
 
 ---

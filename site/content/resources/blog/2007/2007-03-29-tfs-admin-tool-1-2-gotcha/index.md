@@ -21,12 +21,8 @@ aliasesFor404:
 - /tfs-admin-tool-1-2-gotcha
 - /blog/tfs-admin-tool-1-2-gotcha
 - /resources/blog/tfs-admin-tool-1-2-gotcha
-tags:
-- Technical Debt
-- Agile Tools
-categories:
-- Install and Configuration
-- Azure DevOps
+tags: []
+categories: []
 
 ---
 I ran into a small problem with the tfs admin tool.

@@ -21,12 +21,9 @@ aliasesFor404:
 - /mozy-backup-space-gathering-update
 - /blog/mozy-backup-space-gathering-update
 - /resources/blog/mozy-backup-space-gathering-update
-categories:
-- News and Reviews
+categories: []
 preview: nakedalm-logo-128-link-2-2.png
-tags:
-- Customer Satisfaction
-- Agile Product Discovery
+tags: []
 
 ---
 Well, I currently have two referrals :)

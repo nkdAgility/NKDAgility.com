@@ -21,12 +21,8 @@ aliasesFor404:
 - /team-suite-on-the-cheap
 - /blog/team-suite-on-the-cheap
 - /resources/blog/team-suite-on-the-cheap
-tags:
-- Team Collaboration
-- Agile Tools
-categories:
-- Application Lifecycle Management
-- Value Delivery
+tags: []
+categories: []
 
 ---
 ![](images/vs_mainlogo-3-3.png)

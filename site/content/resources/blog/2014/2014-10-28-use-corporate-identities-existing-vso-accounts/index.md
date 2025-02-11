@@ -25,26 +25,8 @@ aliasesFor404:
 - /use-corporate-identities-with-existing-vso-accounts
 - /blog/use-corporate-identities-with-existing-vso-accounts
 - /resources/blog/use-corporate-identities-existing-vso-accounts
-tags:
-- Application Lifecycle Management
-- Azure DevOps
-- Azure Repos
-- Change Management
-- Engineering Practices
-- Modern Source Control
-- Pragmatic Thinking
-- Software Developers
-- Software Development
-- System Configuration
-- Technical Excellence
-- Technical Mastery
-- Technical Strategy
-- Windows
-- Working Software
-categories:
-- Azure DevOps
-- Install and Configuration
-- Practical Techniques and Tooling
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-11-11.png
 
 ---

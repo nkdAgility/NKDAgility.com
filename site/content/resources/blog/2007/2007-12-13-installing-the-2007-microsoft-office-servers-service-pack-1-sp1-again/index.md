@@ -25,11 +25,8 @@ aliasesFor404:
 - /installing-the-2007-microsoft-office-servers-service-pack-1-(sp1)----again---
 - /blog/installing-the-2007-microsoft-office-servers-service-pack-1-(sp1)----again---
 - /resources/blog/installing-the-2007-microsoft-office-servers-service-pack-1-sp1-again
-tags:
-- Technical Debt
-- Continuous Improvement
-categories:
-- Install and Configuration
+tags: []
+categories: []
 preview: metro-office-128-link-1-1.png
 
 ---

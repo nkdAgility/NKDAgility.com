@@ -25,12 +25,8 @@ aliasesFor404:
 - /tfs-sticky-buddy-poc-(wpf)-release
 - /blog/tfs-sticky-buddy-poc-(wpf)-release
 - /resources/blog/tfs-sticky-buddy-poc-wpf-release
-tags:
-- Agile Software Development
-- Agile Tools
-categories:
-- Application Lifecycle Management
-- Products and Books
+tags: []
+categories: []
 preview: metro-visual-studio-2005-128-link-2-1.png
 
 ---

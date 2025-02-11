@@ -21,26 +21,8 @@ aliasesFor404:
 - /connect-a-test-controller-to-team-foundation-service
 - /blog/connect-a-test-controller-to-team-foundation-service
 - /resources/blog/connect-a-test-controller-to-team-foundation-service
-tags:
-- Automated Testing
-- Azure DevOps
-- Collaboration Tools
-- DevOps
-- Engineering Excellence
-- Engineering Practices
-- Experimentation
-- Modern Source Control
-- Software Developers
-- Software Development
-- System Configuration
-- Technical Excellence
-- Technical Mastery
-- Test Automation
-- Working Software
-categories:
-- Install and Configuration
-- Practical Techniques and Tooling
-- Technical Excellence
+tags: []
+categories: []
 
 ---
 Did you know that you can connect a Test Controller to Team Foundation Service? And if you can do that, can you create [standard environments for automated deployment and testing](http://blog.hinshelwood.com/standard-environments-for-automated-deployment-and-testing/ "Standard Environments for Automated Deployment and Testing") against the cloud?

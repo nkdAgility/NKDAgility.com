@@ -21,11 +21,8 @@ aliasesFor404:
 - /ad-update-o-matic
 - /blog/ad-update-o-matic
 - /resources/blog/ad-update-o-matic
-tags:
-- Agile Software Development
-- Technical Excellence
-categories:
-- Code and Complexity
+tags: []
+categories: []
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

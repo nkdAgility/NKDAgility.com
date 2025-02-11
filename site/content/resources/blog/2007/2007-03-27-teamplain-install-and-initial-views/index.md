@@ -25,12 +25,8 @@ aliasesFor404:
 - /teamplain---install-and-initial-views
 - /blog/teamplain---install-and-initial-views
 - /resources/blog/teamplain-install-and-initial-views
-tags:
-- Agile Tools
-- Team Collaboration
-categories:
-- Install and Configuration
-- Application Lifecycle Management
+tags: []
+categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

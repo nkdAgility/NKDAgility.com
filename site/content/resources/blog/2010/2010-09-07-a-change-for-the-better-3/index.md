@@ -25,11 +25,8 @@ aliasesFor404:
 - /a-change-for-the-better--3---ssw-to-northwest-cadence
 - /blog/a-change-for-the-better--3---ssw-to-northwest-cadence
 - /resources/blog/a-change-for-the-better-3
-tags:
-- Application Lifecycle Management
-- Scrum Team
-categories:
-- Application Lifecycle Management
+tags: []
+categories: []
 preview: metro-nwc-128-link-2-2.png
 
 ---

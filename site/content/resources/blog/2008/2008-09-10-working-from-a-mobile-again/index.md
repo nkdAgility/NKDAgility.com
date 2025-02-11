@@ -25,11 +25,8 @@ aliasesFor404:
 - /working-from-a-mobile-again-
 - /blog/working-from-a-mobile-again-
 - /resources/blog/working-from-a-mobile-again
-tags:
-- Remote Working
-- Agile Tools
-categories:
-- Azure DevOps
+tags: []
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

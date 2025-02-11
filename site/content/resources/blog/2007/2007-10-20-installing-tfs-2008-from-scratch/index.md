@@ -21,12 +21,8 @@ aliasesFor404:
 - /installing-tfs-2008-from-scratch
 - /blog/installing-tfs-2008-from-scratch
 - /resources/blog/installing-tfs-2008-from-scratch
-tags:
-- Agile Software Development
-- Technical Excellence
-categories:
-- Install and Configuration
-- Application Lifecycle Management
+tags: []
+categories: []
 preview: metro-visual-studio-2005-128-link-4-4.png
 
 ---

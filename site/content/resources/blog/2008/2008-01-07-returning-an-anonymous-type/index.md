@@ -25,12 +25,8 @@ aliasesFor404:
 - /returning-an-anonymous-type---
 - /blog/returning-an-anonymous-type---
 - /resources/blog/returning-an-anonymous-type
-tags:
-- Agile Software Development
-- Technical Excellence
-categories:
-- Code and Complexity
-- Technical Excellence
+tags: []
+categories: []
 preview: metro-binary-vb-128-link-2-1.png
 
 ---

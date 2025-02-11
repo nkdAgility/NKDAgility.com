@@ -25,11 +25,8 @@ aliasesFor404:
 - /tfs-2012-issue--some-features-of-team-web-access-are-not-visible-to-you
 - /blog/tfs-2012-issue--some-features-of-team-web-access-are-not-visible-to-you
 - /resources/blog/tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you
-tags:
-- Agile Tools
-- Azure DevOps
-categories:
-- Azure DevOps
+tags: []
+categories: []
 preview: metro-problem-icon-5-5.png
 
 ---

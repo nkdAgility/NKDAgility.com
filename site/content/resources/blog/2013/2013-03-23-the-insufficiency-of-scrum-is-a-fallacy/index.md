@@ -21,26 +21,8 @@ aliasesFor404:
 - /the-insufficiency-of-scrum-is-a-fallacy
 - /blog/the-insufficiency-of-scrum-is-a-fallacy
 - /resources/blog/the-insufficiency-of-scrum-is-a-fallacy
-tags:
-- Agile Books
-- Agile Community
-- Agile Evolution
-- Agile Frameworks
-- Agile Pilot
-- Agile Software Development
-- Agile Software Engineering
-- Agile Strategy
-- Engineering Practices
-- Operational Practices
-- Scrum
-- Scrum Master
-- Scrum Product Management
-- Software Development
-- Technical Debt
-categories:
-- Agile Product Management
-- People and Process
-- Scrum
+tags: []
+categories: []
 preview: nakedalm-experts-professional-scrum-3-3.png
 
 ---

@@ -21,22 +21,8 @@ aliasesFor404:
 - /configure-a-dns-server-for-an-azure-virtual-network
 - /blog/configure-a-dns-server-for-an-azure-virtual-network
 - /resources/blog/configure-a-dns-server-for-an-azure-virtual-network
-tags:
-- DevOps
-- Engineering Practices
-- Featured
-- Operational Practices
-- Site Reliability
-- Software Developers
-- Software Development
-- System Configuration
-- Technical Excellence
-- Technical Mastery
-- Working Software
-categories:
-- Install and Configuration
-- Practical Techniques and Tooling
-- Technical Excellence
+tags: []
+categories: []
 preview: nakedalm-windows-logo-4-4.png
 
 ---

@@ -21,12 +21,8 @@ aliasesFor404:
 - /configuring-a-powershell-adapter-for-the-tfs-integration-platform
 - /blog/configuring-a-powershell-adapter-for-the-tfs-integration-platform
 - /resources/blog/configuring-a-powershell-adapter-for-the-tfs-integration-platform
-tags:
-- Agile Software Development
-- Agile Tools
-categories:
-- Install and Configuration
-- Azure DevOps
+tags: []
+categories: []
 
 ---
 ![](images/image_thumb-1-1.png)

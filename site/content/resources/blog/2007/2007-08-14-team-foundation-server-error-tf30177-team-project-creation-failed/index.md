@@ -25,13 +25,9 @@ aliasesFor404:
 - /team-foundation-server-error-tf30177---team-project-creation-failed
 - /blog/team-foundation-server-error-tf30177---team-project-creation-failed
 - /resources/blog/team-foundation-server-error-tf30177-team-project-creation-failed
-tags:
-- Application Lifecycle Management
-- Technical Excellence
+tags: []
 preview: metro-visual-studio-2005-128-link-1-1.png
-categories:
-- Install and Configuration
-- Azure DevOps
+categories: []
 
 ---
 When you create your first project, you may get an error during the creation process. When you look at the log file and see a "proxy error" message detail it may be to do with the way that TFS installs.

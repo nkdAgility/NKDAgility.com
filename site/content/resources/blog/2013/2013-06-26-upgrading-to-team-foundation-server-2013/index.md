@@ -21,26 +21,8 @@ aliasesFor404:
 - /upgrading-to-team-foundation-server-2013
 - /blog/upgrading-to-team-foundation-server-2013
 - /resources/blog/upgrading-to-team-foundation-server-2013
-tags:
-- Application Lifecycle Management
-- Azure DevOps
-- Change Management
-- Collaboration Tools
-- Engineering Excellence
-- Featured
-- Modern Source Control
-- Pragmatic Thinking
-- Software Developers
-- Software Development
-- Software Increment
-- System Configuration
-- Technical Excellence
-- Windows
-- Working Software
-categories:
-- Azure DevOps
-- Install and Configuration
-- Practical Techniques and Tooling
+tags: []
+categories: []
 
 ---
 With the release of Team Foundation Server 2013 I need to upgrade all of my servers. I have a few customer installs getting prepped and I wanted to get a look see.

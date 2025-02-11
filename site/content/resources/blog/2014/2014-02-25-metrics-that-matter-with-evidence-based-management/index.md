@@ -21,26 +21,8 @@ aliasesFor404:
 - /metrics-that-matter-with-evidence-based-management
 - /blog/metrics-that-matter-with-evidence-based-management
 - /resources/blog/metrics-that-matter-with-evidence-based-management
-tags:
-- Agile Product Management
-- Agile Project Management
-- Agility
-- Continuous Improvement
-- Data Driven Decisions
-- Decision Making
-- Evidence Based Improvement
-- Evidence Based Leadership
-- Evidence Based Management
-- Large Scale Agility
-- Organisational Agility
-- People and Process
-- Software Development
-- Trend Analysis
-- Value Delivery
-categories:
-- Metrics and Learning
-- Organisational Agility
-- Value Delivery
+tags: []
+categories: []
 preview: nakedalm-agility-index-24-24.png
 
 ---

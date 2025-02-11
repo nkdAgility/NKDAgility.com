@@ -21,11 +21,8 @@ aliasesFor404:
 - /change-of-plan
 - /blog/change-of-plan
 - /resources/blog/change-of-plan
-tags:
-- Change Management
-- Agile Software Development
-categories:
-- Application Lifecycle Management
+tags: []
+categories: []
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

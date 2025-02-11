@@ -21,12 +21,8 @@ aliasesFor404:
 - /tfs-event-handler-update
 - /blog/tfs-event-handler-update
 - /resources/blog/tfs-event-handler-update
-tags:
-- Continuous Delivery
-- Technical Excellence
-categories:
-- Application Lifecycle Management
-- Products and Books
+tags: []
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

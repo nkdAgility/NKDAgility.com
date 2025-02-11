@@ -21,11 +21,8 @@ aliasesFor404:
 - /festive-holiday-studying
 - /blog/festive-holiday-studying
 - /resources/blog/festive-holiday-studying
-tags:
-- Agile Software Development
-- Continuous Learning
-categories:
-- Discovery and Learning
+tags: []
+categories: []
 preview: metro-xbox-360-link-3-3.png
 
 ---

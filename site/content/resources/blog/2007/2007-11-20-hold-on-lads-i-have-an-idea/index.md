@@ -29,11 +29,8 @@ aliasesFor404:
 - /hold-on-lads--i-have-an-idea-
 - /blog/hold-on-lads--i-have-an-idea-
 - /resources/blog/hold-on-lads-i-have-an-idea
-tags:
-- Employee Engagement
-- Organisational Agility
-categories:
-- People and Process
+tags: []
+categories: []
 preview: nakedalm-logo-128-link-3-3.png
 
 ---

@@ -21,11 +21,8 @@ aliasesFor404:
 - /major-deadline
 - /blog/major-deadline
 - /resources/blog/major-deadline
-tags:
-- Deployment Frequency
-- Change Management
-categories:
-- Application Lifecycle Management
+tags: []
+categories: []
 preview: metro-sharepoint-128-link-5-5.png
 
 ---

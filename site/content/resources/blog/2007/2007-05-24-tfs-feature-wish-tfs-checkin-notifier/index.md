@@ -26,12 +26,8 @@ aliasesFor404:
 - /blog/tfs-feature-wish-(tfs-checkin-notifier)
 - /resources/blog/tfs-feature-wish-tfs-checkin-notifier
 preview: nakedalm-logo-128-link-1-1.png
-categories:
-- Application Lifecycle Management
-- Practical Techniques and Tooling
-tags:
-- Team Collaboration
-- Agile Tools
+categories: []
+tags: []
 
 ---
 One of the annoying things about Source-Control is that someone else can have that file you really need checked out! This can be annoying if they are not in the same building or even country.

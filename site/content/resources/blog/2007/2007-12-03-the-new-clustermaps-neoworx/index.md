@@ -25,11 +25,8 @@ aliasesFor404:
 - /the-new-clustermaps--neoworx
 - /blog/the-new-clustermaps--neoworx
 - /resources/blog/the-new-clustermaps-neoworx
-tags:
-- Agile Product Discovery
-- Technical Strategy
-categories:
-- Discovery and Learning
+tags: []
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

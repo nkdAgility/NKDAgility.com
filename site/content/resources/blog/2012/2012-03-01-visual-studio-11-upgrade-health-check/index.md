@@ -21,12 +21,8 @@ aliasesFor404:
 - /visual-studio-11-upgrade-health-check
 - /blog/visual-studio-11-upgrade-health-check
 - /resources/blog/visual-studio-11-upgrade-health-check
-tags:
-- Agile Tools
-- Change Management
-categories:
-- Application Lifecycle Management
-- Azure DevOps
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

@@ -25,26 +25,8 @@ aliasesFor404:
 - /access-denied-user-needs-label-permission-in-tfs
 - /blog/access-denied-user-needs-label-permission-in-tfs
 - /resources/blog/access-denied-user-needs-label-permission-tfs
-tags:
-- Azure DevOps
-- Decision Making
-- DevOps
-- Discovery and Learning
-- Engineering Practices
-- Modern Source Control
-- Operational Practices
-- Pragmatic Thinking
-- Software Developers
-- Software Development
-- System Configuration
-- Technical Excellence
-- Technical Mastery
-- Troubleshooting
-- Working Software
-categories:
-- Discovery and Learning
-- Install and Configuration
-- Practical Techniques and Tooling
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

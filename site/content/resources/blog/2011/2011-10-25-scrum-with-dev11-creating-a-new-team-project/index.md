@@ -25,12 +25,8 @@ aliasesFor404:
 - /scrum-with-visual-studio-11---creating-a-new-team-project
 - /blog/scrum-with-visual-studio-11---creating-a-new-team-project
 - /resources/blog/scrum-with-dev11-creating-a-new-team-project
-tags:
-- Scrum Team
-- Azure DevOps
-categories:
-- Scrum
-- Azure DevOps
+tags: []
+categories: []
 
 ---
 Creating a Team Project in the cloud could be daunting, but it is very simple. Just fire up your web browser and you can be up an running asynchronously in no time.

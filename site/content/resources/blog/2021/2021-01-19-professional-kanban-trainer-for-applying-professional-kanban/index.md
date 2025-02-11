@@ -23,9 +23,7 @@ aliasesFor404:
 - /blog/professional-kanban-trainer-for-applying-professional-kanban
 - /resources/blog/professional-kanban-trainer-for-applying-professional-kanban
 tags: []
-categories:
-- Kanban
-- Scrum
+categories: []
 preview: applying-professional-kanban-background-logo-2-2.jpg
 
 ---

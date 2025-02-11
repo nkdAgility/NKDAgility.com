@@ -21,13 +21,8 @@ aliasesFor404:
 - /the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
 - /blog/the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
 - /resources/blog/the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
-tags:
-- Scrum
-- Continuous Delivery
-categories:
-- Scrum
-- People and Process
-- Value Delivery
+tags: []
+categories: []
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

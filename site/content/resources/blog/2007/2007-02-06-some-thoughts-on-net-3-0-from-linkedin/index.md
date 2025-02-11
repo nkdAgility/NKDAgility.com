@@ -25,11 +25,8 @@ aliasesFor404:
 - /some-thoughts-on--net-3-0-from-linkedin
 - /blog/some-thoughts-on--net-3-0-from-linkedin
 - /resources/blog/some-thoughts-on-net-3-0-from-linkedin
-tags:
-- Agile Software Development
-- Technical Excellence
-categories:
-- Application Lifecycle Management
+tags: []
+categories: []
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

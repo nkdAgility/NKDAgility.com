@@ -21,11 +21,8 @@ aliasesFor404:
 - /tfs-event-handler-revisited
 - /blog/tfs-event-handler-revisited
 - /resources/blog/tfs-event-handler-revisited
-tags:
-- Agile Software Development
-- Technical Debt
-categories:
-- Azure DevOps
+tags: []
+categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

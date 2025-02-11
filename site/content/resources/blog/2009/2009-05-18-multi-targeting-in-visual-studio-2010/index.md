@@ -21,10 +21,8 @@ aliasesFor404:
 - /multi-targeting-in-visual-studio-2010
 - /blog/multi-targeting-in-visual-studio-2010
 - /resources/blog/multi-targeting-in-visual-studio-2010
-tags:
-- '""'
-categories:
-- Application Lifecycle Management
+tags: []
+categories: []
 preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---

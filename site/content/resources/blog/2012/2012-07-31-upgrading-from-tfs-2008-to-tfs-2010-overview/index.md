@@ -21,12 +21,8 @@ aliasesFor404:
 - /upgrading-from-tfs-2008-to-tfs-2010-overview
 - /blog/upgrading-from-tfs-2008-to-tfs-2010-overview
 - /resources/blog/upgrading-from-tfs-2008-to-tfs-2010-overview
-tags:
-- Deployment Frequency
-- Change Management
-categories:
-- Install and Configuration
-- Azure DevOps
+tags: []
+categories: []
 preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---

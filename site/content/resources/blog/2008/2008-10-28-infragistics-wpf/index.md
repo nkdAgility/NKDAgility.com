@@ -21,12 +21,8 @@ aliasesFor404:
 - /infragistics-wpf
 - /blog/infragistics-wpf
 - /resources/blog/infragistics-wpf
-tags:
-- Agile Software Development
-- Technical Excellence
-categories:
-- Code and Complexity
-- Azure DevOps
+tags: []
+categories: []
 
 ---
 ![](images/logo-1-1.gif) 

@@ -21,13 +21,9 @@ aliasesFor404:
 - /the-delivery
 - /blog/the-delivery
 - /resources/blog/the-delivery
-categories:
-- People and Process
-- Organisational Psychology
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
-tags:
-- Featured
-- Personal
+tags: []
 
 ---
 Well, this being my hundredth post I thought I should mention something special... Something that will change my world forever... Something that will keep me up at night...

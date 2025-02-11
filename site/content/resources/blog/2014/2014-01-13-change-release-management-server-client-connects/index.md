@@ -25,26 +25,8 @@ aliasesFor404:
 - /change-the-release-management-server-that-your-client-connects-to
 - /blog/change-the-release-management-server-that-your-client-connects-to
 - /resources/blog/change-release-management-server-client-connects
-tags:
-- Application Lifecycle Management
-- Azure DevOps
-- Azure Pipelines
-- Change Management
-- CI/CD
-- DevOps
-- Operational Practices
-- Pragmatic Thinking
-- Release Planning
-- Software Developers
-- Software Development
-- System Configuration
-- Technical Excellence
-- Technical Mastery
-- Troubleshooting
-categories:
-- Azure DevOps
-- Install and Configuration
-- Practical Techniques and Tooling
+tags: []
+categories: []
 
 ---
 As a consultant I am onsite at a different customer every week and as I use my own laptop for most engagements I need to be able to change the Release Management Server that I connect to from the thick client.

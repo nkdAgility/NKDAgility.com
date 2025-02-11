@@ -25,11 +25,8 @@ aliasesFor404:
 - /upgrading-your-process-template-in-team-foundation-server
 - /blog/upgrading-your-process-template-in-team-foundation-server
 - /resources/blog/do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact
-tags:
-- Change Management
-- Agile Tools
-categories:
-- Azure DevOps
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-4-4.png
 
 ---

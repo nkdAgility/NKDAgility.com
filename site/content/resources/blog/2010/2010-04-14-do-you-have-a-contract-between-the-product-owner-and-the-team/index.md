@@ -25,13 +25,8 @@ aliasesFor404:
 - /do-you-have-a-contract-between-the-product-owner-and-the-team-
 - /blog/do-you-have-a-contract-between-the-product-owner-and-the-team-
 - /resources/blog/do-you-have-a-contract-between-the-product-owner-and-the-team
-tags:
-- Sprint Planning Workshop
-- Definition of Done
-categories:
-- People and Process
-- Agile Product Management
-- Scrum
+tags: []
+categories: []
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

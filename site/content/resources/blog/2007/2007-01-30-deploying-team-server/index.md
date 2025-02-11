@@ -21,13 +21,9 @@ aliasesFor404:
 - /deploying-team-server
 - /blog/deploying-team-server
 - /resources/blog/deploying-team-server
-tags:
-- Deployment Strategies
-- Agile Project Management
+tags: []
 preview: nakedalm-logo-128-link-1-1.png
-categories:
-- Application Lifecycle Management
-- Azure DevOps
+categories: []
 
 ---
 Sorry that I have not posted on this subject in a while, but I am lazy. After that last elongated post I am in the mood to write again...

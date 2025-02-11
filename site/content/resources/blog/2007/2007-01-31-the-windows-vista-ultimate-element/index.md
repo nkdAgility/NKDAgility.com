@@ -21,13 +21,9 @@ aliasesFor404:
 - /the-windows-vista-ultimate-element
 - /blog/the-windows-vista-ultimate-element
 - /resources/blog/the-windows-vista-ultimate-element
-tags:
-- Featured
-- Customer Satisfaction
+tags: []
 preview: nakedalm-logo-128-link-2-2.png
-categories:
-- News and Reviews
-- Products and Books
+categories: []
 
 ---
 [![The Windows Vista Ultimate Element](images/070130_the_vista_ultimate-1-1.gif)](http://blaugh.com/2007/01/30/the-windows-vista-ultimate-element)

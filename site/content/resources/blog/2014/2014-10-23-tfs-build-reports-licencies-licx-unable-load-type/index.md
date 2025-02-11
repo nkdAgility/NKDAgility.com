@@ -25,26 +25,8 @@ aliasesFor404:
 - /tfs-build-reports-licencies-licx--unable-to-load-type
 - /blog/tfs-build-reports-licencies-licx--unable-to-load-type
 - /resources/blog/tfs-build-reports-licencies-licx-unable-load-type
-tags:
-- Application Lifecycle Management
-- Azure DevOps
-- CI/CD
-- Continuos Integration
-- Continuous Delivery
-- Engineering Excellence
-- Engineering Practices
-- Pragmatic Thinking
-- Software Developers
-- Software Development
-- System Configuration
-- Technical Excellence
-- Technical Mastery
-- Troubleshooting
-- Working Software
-categories:
-- Code and Complexity
-- Install and Configuration
-- Practical Techniques and Tooling
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

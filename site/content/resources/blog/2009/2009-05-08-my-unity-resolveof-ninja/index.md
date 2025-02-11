@@ -25,10 +25,8 @@ aliasesFor404:
 - /my-unity-resolve(of-ninja)
 - /blog/my-unity-resolve(of-ninja)
 - /resources/blog/my-unity-resolveof-ninja
-tags:
-- Software Development
-categories:
-- Technical Excellence
+tags: []
+categories: []
 preview: metro-binary-vb-128-link-4-1.png
 
 ---

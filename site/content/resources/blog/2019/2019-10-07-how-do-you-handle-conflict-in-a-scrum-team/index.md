@@ -26,8 +26,7 @@ aliasesFor404:
 - /blog/how-do-you-handle-conflict-in-a-scrum-team-
 - /resources/blog/how-do-you-handle-conflict-in-a-scrum-team
 tags: []
-categories:
-- Scrum
+categories: []
 preview: 1061204442-1-1.jpg
 
 ---

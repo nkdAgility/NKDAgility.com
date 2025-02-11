@@ -25,12 +25,9 @@ aliasesFor404:
 - /get-your-twitter-feed-as-a-badge-on-your-email-
 - /blog/get-your-twitter-feed-as-a-badge-on-your-email-
 - /resources/blog/get-your-twitter-feed-as-a-badge-on-your-email
-categories:
-- Discovery and Learning
+categories: []
 preview: nakedalm-logo-128-link-2-2.png
-tags:
-- Featured
-- Personal
+tags: []
 
 ---
 Or anywhere you can put some HTML. This is really easy and allows you to have something like:

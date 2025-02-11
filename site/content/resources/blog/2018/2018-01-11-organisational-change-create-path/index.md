@@ -25,8 +25,7 @@ aliasesFor404:
 - /create-your-own-path-to-organisational-agility
 - /blog/create-your-own-path-to-organisational-agility
 - /resources/blog/organisational-change-create-path
-tags:
-- Agile Scaling
+tags: []
 categories: []
 preview: nkdagility-create-your-own-path-to-agility-3-3.jpg
 

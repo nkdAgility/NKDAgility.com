@@ -22,8 +22,7 @@ aliasesFor404:
 - /blog/online-is-the-new-co-located
 - /resources/blog/online-is-the-new-co-located
 tags: []
-categories:
-- Scrum
+categories: []
 preview: image-21-3-3.png
 
 ---

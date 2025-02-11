@@ -22,8 +22,7 @@ aliasesFor404:
 - /blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog
 - /resources/blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog
 tags: []
-categories:
-- Scrum
+categories: []
 preview: naked-Agility-Scrum-Framework-Sprint-Goal-1-1.jpg
 
 ---

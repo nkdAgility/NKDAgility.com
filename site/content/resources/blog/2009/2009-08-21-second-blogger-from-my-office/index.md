@@ -21,10 +21,8 @@ aliasesFor404:
 - /second-blogger-from-my-office
 - /blog/second-blogger-from-my-office
 - /resources/blog/second-blogger-from-my-office
-tags:
-- '""'
-categories:
-- Personal
+tags: []
+categories: []
 preview: metro-aggreko-128-link-1-1.png
 
 ---

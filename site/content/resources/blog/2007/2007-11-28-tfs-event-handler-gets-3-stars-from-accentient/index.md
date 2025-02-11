@@ -21,12 +21,8 @@ aliasesFor404:
 - /tfs-event-handler-gets-3-stars-from-accentient
 - /blog/tfs-event-handler-gets-3-stars-from-accentient
 - /resources/blog/tfs-event-handler-gets-3-stars-from-accentient
-tags:
-- Agile Community
-- Customer Feedback Loops
-categories:
-- News and Reviews
-- Azure DevOps
+tags: []
+categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

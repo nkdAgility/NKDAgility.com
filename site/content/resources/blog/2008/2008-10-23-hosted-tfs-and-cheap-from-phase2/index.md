@@ -29,13 +29,9 @@ aliasesFor404:
 - /hosted-tfs--and-cheap…-from-phase2
 - /blog/hosted-tfs--and-cheap…-from-phase2
 - /resources/blog/hosted-tfs-and-cheap-from-phase2
-tags:
-- Agile Tools
-- Customer Satisfaction
+tags: []
 preview: metro-sharepoint-128-link-2-2.png
-categories:
-- Azure DevOps
-- Application Lifecycle Management
+categories: []
 
 ---
 [![image](images/21c33c4198cb_76CA-image_thumb_2-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-21c33c4198cb_76CA-image_6.png)

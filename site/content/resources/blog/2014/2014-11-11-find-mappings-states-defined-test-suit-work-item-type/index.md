@@ -25,26 +25,8 @@ aliasesFor404:
 - /could-not-find-mappings-for-all-states-defined-in-'test-suit'-work-item-type
 - /blog/could-not-find-mappings-for-all-states-defined-in-'test-suit'-work-item-type
 - /resources/blog/find-mappings-states-defined-test-suit-work-item-type
-tags:
-- Application Lifecycle Management
-- Azure DevOps
-- DevOps
-- Engineering Practices
-- Operational Practices
-- Pragmatic Thinking
-- Software Developers
-- Software Development
-- System Configuration
-- Technical Excellence
-- Technical Mastery
-- Test Automation
-- Test Strategy
-- Troubleshooting
-- Working Software
-categories:
-- Code and Complexity
-- Install and Configuration
-- Practical Techniques and Tooling
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

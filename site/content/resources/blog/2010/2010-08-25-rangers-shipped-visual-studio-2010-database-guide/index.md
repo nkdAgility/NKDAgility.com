@@ -21,11 +21,8 @@ aliasesFor404:
 - /rangers-shipped-visual-studio-2010-database-guide
 - /blog/rangers-shipped-visual-studio-2010-database-guide
 - /resources/blog/rangers-shipped-visual-studio-2010-database-guide
-tags:
-- Agile Software Development
-- Technical Excellence
-categories:
-- Application Lifecycle Management
+tags: []
+categories: []
 preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---

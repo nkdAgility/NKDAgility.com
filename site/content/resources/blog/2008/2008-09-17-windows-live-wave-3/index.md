@@ -21,12 +21,8 @@ aliasesFor404:
 - /windows-live-wave-3
 - /blog/windows-live-wave-3
 - /resources/blog/windows-live-wave-3
-tags:
-- Agile Software Development
-- Continuous Delivery
-categories:
-- News and Reviews
-- Install and Configuration
+tags: []
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

@@ -25,13 +25,9 @@ aliasesFor404:
 - /tfs-eventhandler--msmq-refactor
 - /blog/tfs-eventhandler--msmq-refactor
 - /resources/blog/tfs-eventhandler-msmq-refactor
-tags:
-- Agile Software Development
-- Technical Debt
+tags: []
 preview: nakedalm-logo-128-link-1-1.png
-categories:
-- Azure DevOps
-- Technical Excellence
+categories: []
 
 ---
 I am half way through the MSMQ Refactor of my [TFS Event Handler](http://www.codeplex.com/TFSEventHandler) project and thing are starting to come together. I have changed it so that instead of one big solution I will have three smaller ones. This will allow me to cross reference the different services.

@@ -21,11 +21,8 @@ aliasesFor404:
 - /introduction-to-visual-studio-11
 - /blog/introduction-to-visual-studio-11
 - /resources/blog/introduction-to-visual-studio-11
-tags:
-- Azure DevOps
-- Agile Tools
-categories:
-- Application Lifecycle Management
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

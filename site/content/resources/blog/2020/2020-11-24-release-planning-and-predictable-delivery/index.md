@@ -21,12 +21,8 @@ aliasesFor404:
 - /release-planning-and-predictable-delivery
 - /blog/release-planning-and-predictable-delivery
 - /resources/blog/release-planning-and-predictable-delivery
-tags:
-- Technical Strategy
-categories:
-- DevOps
-- Scrum
-- Technical Excellence
+tags: []
+categories: []
 preview: nkdAgility-habits-16x9-1280-2-2.jpg
 
 ---

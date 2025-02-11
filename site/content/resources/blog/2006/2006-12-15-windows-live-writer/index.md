@@ -21,16 +21,9 @@ aliasesFor404:
 - /windows-live-writer
 - /blog/windows-live-writer
 - /resources/blog/windows-live-writer
-categories:
-- Products and Books
-- Practical Techniques and Tooling
-- Personal
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
-tags:
-- Windows
-- Miscellaneous
-- Personal
-- Working Software
+tags: []
 
 ---
 Just got myself setup on this new tool called [Windows Live Writer](http://windowslivewriter.spaces.live.com/ "Windows Live Writer") which allows me to write my blog offline and then publish my content. I think that a mobile edition for my pocket PC would be good!

@@ -21,13 +21,9 @@ aliasesFor404:
 - /studying-for-the-new-job
 - /blog/studying-for-the-new-job
 - /resources/blog/studying-for-the-new-job
-tags:
-- Agile Certification
-- Continuous Learning
+tags: []
 preview: metro-sharepoint-128-link-1-1.png
-categories:
-- Discovery and Learning
-- Products and Books
+categories: []
 
 ---
 I will be [starting a new job](http://blog.hinshelwood.com/archive/2007/08/16/A-change-for-the-better.aspx) in around a month and I wanted to get up-to-speed with the technologies that the new company want to be using. To start with I have had a look at a number of certifications:

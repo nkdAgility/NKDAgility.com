@@ -21,12 +21,8 @@ aliasesFor404:
 - /serialize-assembly-for-service-calls-over-http
 - /blog/serialize-assembly-for-service-calls-over-http
 - /resources/blog/serialize-assembly-for-service-calls-over-http
-tags:
-- Agile Software Development
-- Technical Excellence
-categories:
-- Code and Complexity
-- Application Lifecycle Management
+tags: []
+categories: []
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

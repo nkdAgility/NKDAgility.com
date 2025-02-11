@@ -25,12 +25,8 @@ aliasesFor404:
 - /can-you-really-commit-to-delivering-work-
 - /blog/can-you-really-commit-to-delivering-work-
 - /resources/blog/can-you-really-commit-to-delivering-work
-tags:
-- Scrum Values
-- Agile Forecasting
-categories:
-- People and Process
-- Scrum
+tags: []
+categories: []
 preview: nakedalm-experts-professional-scrum-5-5.png
 
 ---

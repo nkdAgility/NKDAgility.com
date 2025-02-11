@@ -21,12 +21,8 @@ aliasesFor404:
 - /disable-a-timer-at-every-level-of-your-asp-net-control-hierarchy
 - /blog/disable-a-timer-at-every-level-of-your-asp-net-control-hierarchy
 - /resources/blog/disable-a-timer-at-every-level-of-your-asp-net-control-hierarchy
-tags:
-- Technical Excellence
-- Software Development
-categories:
-- Code and Complexity
-- Technical Excellence
+tags: []
+categories: []
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

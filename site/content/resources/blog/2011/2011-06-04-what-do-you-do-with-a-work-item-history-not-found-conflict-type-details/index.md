@@ -21,11 +21,8 @@ aliasesFor404:
 - /what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
 - /blog/what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
 - /resources/blog/what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
-tags:
-- Change Management
-- Agile Tools
-categories:
-- Azure DevOps
+tags: []
+categories: []
 preview: metro-binary-vb-128-link-4-4.png
 
 ---

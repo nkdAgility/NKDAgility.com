@@ -21,12 +21,8 @@ aliasesFor404:
 - /unity-and-asp-net
 - /blog/unity-and-asp-net
 - /resources/blog/unity-and-asp-net
-tags:
-- Agile Software Development
-- Technical Excellence
-categories:
-- Technical Excellence
-- Application Lifecycle Management
+tags: []
+categories: []
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

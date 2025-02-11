@@ -21,26 +21,8 @@ aliasesFor404:
 - /blog/without-delivery-no-value
 - /without-delivery--there-is-no-value
 - /blog/without-delivery--there-is-no-value
-tags:
-- Agile Frameworks
-- Agile Philosophy
-- Agile Project Management
-- Agile Transformation
-- Continuous Delivery
-- Customer Feedback Loops
-- Deployment Frequency
-- Evidence Based Management
-- Frequent Releases
-- Increment
-- Product Validation
-- Scrum Product Development
-- Software Development
-- Transparency
-- Working Software
-categories:
-- Agile Product Management
-- Product Delivery
-- Value Delivery
+tags: []
+categories: []
 preview: 2025-02-10-without-delivery-no-value.jpg
 
 ---
