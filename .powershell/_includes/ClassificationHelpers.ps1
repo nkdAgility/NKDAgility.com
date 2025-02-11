@@ -111,7 +111,7 @@ do not wrap the json in anything else, just return the json object.
             }
         }
 
-        $finalScore = [math]::Round(($aiConfidence * 0.7) + ($nonAiConfidence * 0.3))
+        $finalScore = [math]::Round(($aiConfidence * 0.9) + ($nonAiConfidence * 0.1))
 
         $categoryScores[$category] = [PSCustomObject]@{
             "category"          = $category
