@@ -822,5 +822,85 @@
     "final_score": 38.0,
     "reasoning": "The content discusses Agile and Scrum frameworks, which are related to asynchronous development, but the primary focus is on team dynamics and cultural barriers rather than asynchronous development itself.",
     "level": "Ignored"
+  },
+  "Product Management": {
+    "category": "Product Management",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 59.0,
+    "reasoning": "Content primarily discusses the role of Agile and Scrum in product management, focusing on the cultural and systemic challenges that affect their implementation and effectiveness.",
+    "level": "Secondary"
+  },
+  "Strategy": {
+    "category": "Strategy",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 59.0,
+    "reasoning": "Content primarily discusses the alignment of Agile and Scrum principles with organizational culture and the importance of responding to signals for continuous improvement, which are central to strategic approaches in Agile environments.",
+    "level": "Secondary"
+  },
+  "Product Validation": {
+    "category": "Product Validation",
+    "ai_confidence": 45,
+    "non_ai_confidence": 10,
+    "final_score": 34.0,
+    "reasoning": "The content primarily discusses Agile and Scrum methodologies, focusing on team dynamics and cultural barriers rather than directly addressing product validation through user engagement or testing methodologies.",
+    "level": "Ignored"
+  },
+  "Estimation": {
+    "category": "Estimation",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses organizational development, team dynamics, and the cultural challenges of implementing Agile and Scrum, without a focus on estimation techniques or practices.",
+    "level": "Ignored"
+  },
+  "Increment": {
+    "category": "Increment",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses Agile and Scrum principles, focusing on team dynamics and the importance of responding to signals for improvement, which relates to the Increment concept but is not primarily about delivering software increments.",
+    "level": "Ignored"
+  },
+  "Agile Project Management": {
+    "category": "Agile Project Management",
+    "ai_confidence": 92,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "Content heavily discusses Agile principles, Scrum frameworks, and the importance of organisational culture in implementing Agile methodologies effectively.",
+    "level": "Secondary"
+  },
+  "AI": {
+    "category": "AI",
+    "ai_confidence": 0,
+    "non_ai_confidence": 30,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses Agile and Scrum methodologies, focusing on team dynamics and organizational culture, without any mention or integration of AI in these processes.",
+    "level": "Ignored"
+  },
+  "Forecasting": {
+    "category": "Forecasting",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the challenges of implementing Agile and Scrum frameworks and the cultural barriers to responding to signals within teams, without focusing on forecasting methodologies or practices.",
+    "level": "Ignored"
+  },
+  "Release Management": {
+    "category": "Release Management",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses Agile and Scrum frameworks, focusing on team dynamics and cultural challenges rather than specific release management practices or processes.",
+    "level": "Ignored"
+  },
+  "Agile Philosophy": {
+    "category": "Agile Philosophy",
+    "ai_confidence": 92,
+    "non_ai_confidence": 20,
+    "final_score": 70.0,
+    "reasoning": "Content primarily discusses the underlying principles of Agile and Scrum, focusing on cultural and philosophical aspects that influence their implementation and effectiveness.",
+    "level": "Secondary"
   }
 }

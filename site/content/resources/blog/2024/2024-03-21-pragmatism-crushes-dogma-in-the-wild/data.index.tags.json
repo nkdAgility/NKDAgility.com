@@ -822,5 +822,85 @@
     "final_score": 3.0,
     "reasoning": "The content primarily discusses the application of Scrum in a product development context, focusing on adaptability and resilience rather than asynchronous development specifically.",
     "level": "Ignored"
+  },
+  "Product Management": {
+    "category": "Product Management",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 59.0,
+    "reasoning": "Content primarily discusses the application of Scrum in product development, highlighting its role in navigating complexity and adapting to change, which aligns with product management principles.",
+    "level": "Secondary"
+  },
+  "Strategy": {
+    "category": "Strategy",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "Content primarily discusses the application of Scrum principles in a practical context, highlighting adaptability, resilience, and strategic alignment with business needs, which are central to strategic discussions in Agile environments.",
+    "level": "Secondary"
+  },
+  "Product Validation": {
+    "category": "Product Validation",
+    "ai_confidence": 45,
+    "non_ai_confidence": 10,
+    "final_score": 34.0,
+    "reasoning": "The content primarily discusses the application of Scrum in a product development context, focusing on team dynamics and adaptability rather than directly addressing product validation methodologies or user feedback mechanisms.",
+    "level": "Ignored"
+  },
+  "Estimation": {
+    "category": "Estimation",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the application of Scrum principles and the adaptability of teams in complex environments, without a clear focus on estimation techniques or practices.",
+    "level": "Ignored"
+  },
+  "Increment": {
+    "category": "Increment",
+    "ai_confidence": 80,
+    "non_ai_confidence": 50,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of delivering usable increments and the adaptability of Scrum teams in the context of product development, aligning closely with the Increment category's focus on delivering value through working software.",
+    "level": "Secondary"
+  },
+  "Agile Project Management": {
+    "category": "Agile Project Management",
+    "ai_confidence": 95,
+    "non_ai_confidence": 10,
+    "final_score": 70.0,
+    "reasoning": "Content primarily discusses the practical application of Scrum, including roles, principles, and adaptability in project management, making Agile Project Management the central theme.",
+    "level": "Secondary"
+  },
+  "AI": {
+    "category": "AI",
+    "ai_confidence": 0,
+    "non_ai_confidence": 30,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses the application of Scrum in product development and does not mention AI or its integration within Agile methodologies, DevOps practices, or software development processes.",
+    "level": "Ignored"
+  },
+  "Forecasting": {
+    "category": "Forecasting",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the application of Scrum principles and the adaptability of teams rather than focusing on forecasting methods or practices within Agile and Scrum frameworks.",
+    "level": "Ignored"
+  },
+  "Release Management": {
+    "category": "Release Management",
+    "ai_confidence": 30,
+    "non_ai_confidence": 0,
+    "final_score": 21.0,
+    "reasoning": "The content primarily discusses the application of Scrum in a product development context, focusing on adaptability and team dynamics rather than specific release management practices or processes.",
+    "level": "Ignored"
+  },
+  "Agile Philosophy": {
+    "category": "Agile Philosophy",
+    "ai_confidence": 85,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses the philosophical underpinnings of Scrum, emphasising adaptability, resilience, and the importance of a flexible mindset in navigating complexity, which aligns closely with Agile Philosophy.",
+    "level": "Secondary"
   }
 }

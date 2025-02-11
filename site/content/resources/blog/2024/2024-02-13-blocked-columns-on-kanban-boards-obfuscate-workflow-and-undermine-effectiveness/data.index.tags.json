@@ -822,5 +822,85 @@
     "final_score": 3.0,
     "reasoning": "The content primarily discusses the implications of using Blocked columns on Kanban boards and their impact on workflow efficiency, without a clear focus on asynchronous development.",
     "level": "Ignored"
+  },
+  "Product Management": {
+    "category": "Product Management",
+    "ai_confidence": 45,
+    "non_ai_confidence": 10,
+    "final_score": 34.0,
+    "reasoning": "The content primarily discusses the use of Kanban boards and the implications of Blocked columns on workflow efficiency, which is more focused on project management practices rather than the strategic aspects of product management.",
+    "level": "Ignored"
+  },
+  "Strategy": {
+    "category": "Strategy",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the implications of using Blocked columns on Kanban boards, which relates to optimising delivery processes and enhancing team performance, but it primarily focuses on the operational aspects rather than a strategic approach.",
+    "level": "Ignored"
+  },
+  "Product Validation": {
+    "category": "Product Validation",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily discusses the implications of using Blocked columns on Kanban boards and their impact on workflow efficiency, rather than focusing on validating product ideas through user engagement or testing methodologies.",
+    "level": "Ignored"
+  },
+  "Estimation": {
+    "category": "Estimation",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the implications of using Blocked columns on Kanban boards and does not focus on estimation techniques, empirical data, or collaborative practices within Agile or Scrum frameworks.",
+    "level": "Ignored"
+  },
+  "Increment": {
+    "category": "Increment",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the use of Blocked columns on Kanban boards and their impact on workflow, which is not directly related to the concept of Increment in Agile or Scrum.",
+    "level": "Ignored"
+  },
+  "Agile Project Management": {
+    "category": "Agile Project Management",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 59.0,
+    "reasoning": "Content primarily discusses the implications of using Blocked columns in Kanban boards, which is a key aspect of agile methodologies, particularly in managing workflows and enhancing team collaboration.",
+    "level": "Secondary"
+  },
+  "AI": {
+    "category": "AI",
+    "ai_confidence": 0,
+    "non_ai_confidence": 30,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses the use of Kanban boards in Azure DevOps and the implications of Blocked columns on workflow efficiency, without any mention of AI or its integration within Agile methodologies or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Forecasting": {
+    "category": "Forecasting",
+    "ai_confidence": 0,
+    "non_ai_confidence": 50,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses the implications of using Blocked columns on Kanban boards and does not focus on forecasting methodologies or practices within Agile and Scrum frameworks.",
+    "level": "Ignored"
+  },
+  "Release Management": {
+    "category": "Release Management",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the use of Kanban boards and the implications of Blocked columns on workflow efficiency, without a clear focus on release management strategies or practices.",
+    "level": "Ignored"
+  },
+  "Agile Philosophy": {
+    "category": "Agile Philosophy",
+    "ai_confidence": 45,
+    "non_ai_confidence": 0,
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the use of Blocked columns in Kanban boards and their impact on workflow, which is more focused on a specific Agile framework rather than the broader Agile philosophy.",
+    "level": "Ignored"
   }
 }

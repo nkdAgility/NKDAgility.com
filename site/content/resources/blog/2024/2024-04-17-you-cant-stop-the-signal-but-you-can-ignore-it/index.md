@@ -29,24 +29,24 @@ aliasesFor404:
 categories:
 - Agile Product Management
 - People and Process
-- Scrum
+- Systems Thinking
 preview: NKDAgility-technically-YouCantStopTheSignal-1-1.jpg
 tags:
-- Agile AI
 - Agile Frameworks
-- Agile Problem Solving
-- Agile Product Discovery
-- Agile Product Management
-- Agile Resource Management
-- Agile Software Development
-- Agile Software Engineering
-- Agile Tools
+- Agile Leadership
+- Agile Philosophy
+- Agile Planning
+- Agile Project Management
+- Agile Strategy
+- Agile Transformation
 - Agile Values and Principles
-- Continuous Improvement
-- People and Process
-- Scrum
+- Lean Product Development
+- Organisational Culture
+- Pragmatic Thinking
 - Scrum Product Development
+- Sensemaking
 - Software Development
+- Transparency
 
 ---
 In organizational development and team dynamics, Agile (as the Agile Manifesto delineates) and Scrum (as the Scrum Guide outlines) guide teams not by solving their problems but by illuminating the issues that demand attention. These frameworks aim to identify and spotlight the challenges within a team or organization's processes, effectively saying, "This is wrong, go fix it!" when a team struggles to produce a working product due to various obstacles. These are clear signals!
