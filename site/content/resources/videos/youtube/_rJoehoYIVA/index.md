@@ -26,11 +26,16 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Pragmatic Thinking
+- Software Development
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Azure DevOps
+- DevOps
+- Practical Techniques and Tooling
 
 ---
 In the ever-evolving world of technology, companies often find themselves in need of migrating to more modern, efficient platforms. Azure DevOps is a popular choice for many, offering a robust suite of tools and services designed to streamline development processes. However, the path to a successful migration can be fraught with challenges and complexities. In this post, I'll share my experiences and insights into Azure DevOps migration, highlighting common scenarios, challenges, and best practices.

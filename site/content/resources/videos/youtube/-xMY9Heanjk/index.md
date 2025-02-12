@@ -26,11 +26,34 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Philosophy
+- Agile Planning
+- Agile Project Management
+- Agile Transformation
+- Continuous Learning
+- Customer Feedback Loops
+- Decision Making
+- Empirical Process Control
+- Evidence Based Leadership
+- Evidence Based Management
+- Experimentation
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Product Development
+- Software Developers
+- Software Development
+- Strategy
+- Team Collaboration
+- Team Performance
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Agile Product Management
+- Metrics and Learning
+- People and Process
 
 ---
 What is the hardest part of working with a brand-new scrum team?
