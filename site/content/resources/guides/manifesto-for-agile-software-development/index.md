@@ -25,26 +25,21 @@ card:
   content: Discover more about Manifesto for Agile Software Development and how it can help you in your Agile journey!
   title: Manifesto for Agile Software Development
 categories:
-- Value Delivery
-- Organisational Agility
-- Technical Excellence
 - People and Process
-- Discovery and Learning
+- Product Delivery
+- Value Delivery
 tags:
-- Agile Software Development
-- Team Collaboration
-- Customer Satisfaction
-- Continuous Improvement
-- Working Software
-- Agile Values and Principles
-- Team Motivation
-- Agile Product Management
+- Agile Frameworks
+- Agile Philosophy
 - Agile Planning
-- Agile Leadership
-- Self Organisation
-- Business Agility
-- Technical Excellence
+- Agile Project Management
 - Agile Transformation
+- Agile Values and Principles
+- Frequent Releases
+- Self Organisation
+- Software Developers
+- Software Development
+- Working Software
 
 ---
 We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:

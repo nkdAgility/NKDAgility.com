@@ -25,26 +25,20 @@ card:
   content: Discover more about Kanban Guide and how it can help you in your Agile journey!
   title: Kanban Guide
 categories:
-- Kanban
-- Value Delivery
 - Flow Efficiency
-- Metrics and Learning
+- Kanban
 - Lean
 tags:
-- Kanban
-- Kanban Theory
-- Scaling Kanban
-- Value Delivery
-- Flow Efficiency
-- Continuous Improvement
+- Agile Frameworks
+- Agile Project Management
+- Cycle Time
+- Lean Principles
+- Lean Product Development
 - Lean Thinking
-- Systems Thinking
-- Agile Planning
-- Agile Product Management
-- Kanban Coaching
-- Value Stream Management
-- Evidence Based Management
-- Technical Excellence
+- Operational Practices
+- Software Development
+- Strategy
+- Throughput
 
 ---
 December 2020

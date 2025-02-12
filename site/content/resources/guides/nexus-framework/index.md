@@ -36,15 +36,30 @@ card:
   content: Discover more about Nexus Guide and how it can help you in your Agile journey!
   title: Nexus Guide
 categories:
-- Scaling Agility
-- Scrum
-- Value Delivery
-- Transparency and Accountability
-- Technical Excellence
+- People and Process
 - Product Delivery
+- Scaling Agility
 tags:
+- Accountability
+- Agile Frameworks
+- Agile Project Management
+- Definition of Done
+- Empirical Process Control
+- Increment
+- Large Scale Agility
+- Product Backlog
+- Product Owner
+- Professional Scrum
+- Scaled Agile
+- Scaling Agility
+- Scaling Scrum
 - Scrum Master
-- Agile Product Management
+- Scrum Product Development
+- Scrum Team
+- Software Development
+- Sprint Review
+- Team Collaboration
+- Transparency
 
 ---
 The Definitive Guide to Scaling Scrum with Nexus
