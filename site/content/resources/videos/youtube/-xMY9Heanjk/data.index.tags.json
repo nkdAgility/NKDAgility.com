@@ -63,14 +63,6 @@
     "reasoning": "The content primarily discusses Scrum teams, their challenges, and the importance of understanding empirical processes, with no clear focus on test automation.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the challenges and misconceptions of working with Scrum teams, focusing on the importance of understanding empirical processes over mechanical practices.",
-    "level": "Secondary"
-  },
   "Working Agreements": {
     "category": "Working Agreements",
     "ai_confidence": 45,
@@ -141,14 +133,6 @@
     "non_ai_confidence": 10,
     "final_score": 59.0,
     "reasoning": "Content primarily discusses challenges faced by new Scrum teams and the importance of understanding Scrum principles, making it central to the topic of Scaling Scrum.",
-    "level": "Secondary"
-  },
-  "Pragmatic Thinking": {
-    "category": "Pragmatic Thinking",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the challenges and misconceptions of working with new Scrum teams, emphasising the importance of understanding foundational principles and empirical methods over mechanical practices.",
     "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
@@ -350,14 +334,6 @@
     "final_score": 59.0,
     "reasoning": "Content primarily discusses the challenges and foundational elements of working with Scrum teams, focusing on operational practices such as empiricism, feedback loops, and the importance of understanding the underlying principles of Scrum.",
     "level": "Secondary"
-  },
-  "Deployment Frequency": {
-    "category": "Deployment Frequency",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses challenges faced by new Scrum teams and the importance of understanding foundational elements of Scrum, rather than focusing on deployment frequency.",
-    "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
@@ -930,5 +906,29 @@
     "final_score": 46.0,
     "reasoning": "The content discusses the importance of closing feedback loops and shortening time to market, which are related to Lead Time, but the primary focus is on Scrum practices and team dynamics rather than Lead Time itself.",
     "level": "Ignored"
-  }
-}
+  },
+  "Scaled Agile": {
+    "category": "Scaled Agile",
+    "calculated_at": "2025-02-12T12:40:16",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Scrum roles and events without addressing scaling Agile practices across multiple teams or at an enterprise level.",
+    "level": "Ignored"
+  },
+  "Pragmatic Thinking": {
+    "category": "Pragmatic Thinking",
+    "calculated_at": "2025-02-12T12:40:18",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses practical problem-solving strategies and the importance of understanding empirical processes in Scrum, aligning well with the principles of Pragmatic Thinking.",
+    "level": "Secondary"
+  },
+  "Deployment Frequency": {
+    "category": "Deployment Frequency",
+    "calculated_at": "2025-02-12T12:40:23",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of feedback loops and shortening time to market, which are related to deployment frequency, but the primary focus is on Scrum roles a

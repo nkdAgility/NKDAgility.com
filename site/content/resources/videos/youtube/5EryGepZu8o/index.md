@@ -31,6 +31,7 @@ tags:
 - Agile Philosophy
 - Agile Project Management
 - Agile Values and Principles
+- Empirical Process Control
 - Pragmatic Thinking
 - Sensemaking
 - Software Development
