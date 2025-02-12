@@ -2,7 +2,7 @@
 title: Kanban Guide for Scrum Teams
 description: The flow-based perspective of Kanban can enhance and complement the Scrum framework and its implementation.
 ResourceId: Z3HzXH_nmmz
-ResourceImport: true
+ResourceImport: false
 ResourceType: guides
 resourceTypes: guide
 layout: guide

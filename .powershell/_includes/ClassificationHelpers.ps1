@@ -233,7 +233,19 @@ function Get-ConfidenceFromAIResponse {
         [string]$ResourceTitle,
         [string]$ResourceContent
     )
-    $AIResponse = $AIResponseJson | ConvertFrom-Json -Depth 2
+    try {
+        if ($AIResponseJson -match '(?s)```json\s*(.*?)\s*```') {
+            $AIResponseJson = $matches[1] # Extracted JSON content 
+        
+        }
+        $AIResponse = $AIResponseJson | ConvertFrom-Json -ErrorAction Stop
+    }
+    catch {
+        Write-ErrorLog "Error parsing AI response for $Category. Skipping. Error: $_"
+        Write-ErrorLog "AI Response Json: {AIResponseJson}" -PropertyValues $AIResponseJson
+        exit
+    }
+   
     $aiConfidence = if ($AIResponse.PSObject.Properties["confidence"]) { $AIResponse.confidence } else { 0 }
     
     # Non-AI Confidence Calculation

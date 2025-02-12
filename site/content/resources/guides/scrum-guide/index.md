@@ -2,7 +2,7 @@
 title: The Scrum Guide
 description: The Scrum Guide contains the definition of Scrum.
 ResourceId: 59gcHh1fYtC
-ResourceImport: true
+ResourceImport: false
 ResourceType: guides
 resourceTypes: guide
 layout: guide
@@ -58,13 +58,30 @@ card:
   content: Discover more about The Scrum Guide and how it can help you in your Agile journey!
   title: The Scrum Guide
 categories:
-- Scrum
-- Value Delivery
-- Technical Excellence
+- Agile Product Management
 - People and Process
 - Transparency and Accountability
 tags:
-- Agile Software Development
+- Agile Frameworks
+- Agile Planning
+- Agile Project Management
+- Cross Functional Teams
+- Daily Scrum
+- Definition of Done
+- Empirical Process Control
+- Increment
+- Product Backlog
+- Product Owner
+- Professional Scrum
+- Scrum Master
+- Scrum Product Development
+- Scrum Team
+- Scrum Values
+- Software Developers
+- Software Development
+- Sprint Review
+- Team Performance
+- Transparency
 
 ---
 The Scrum Guide is the rule book, or timber frame, of Scrum and is immutable of definition but not of implementation. If you have already read the Scrum Guide and are looking more for a Strategy Guide then head over to the Scrum Strategy Guide.

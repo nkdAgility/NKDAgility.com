@@ -2,7 +2,7 @@
 title: Nexus Guide
 description: Discover the Nexus framework for scaling Scrum, enabling multiple teams to collaborate effectively and deliver integrated products with enhanced value.
 ResourceId: iC8MlA3TE7S
-ResourceImport: true
+ResourceImport: false
 ResourceType: guides
 resourceTypes: guide
 layout: guide

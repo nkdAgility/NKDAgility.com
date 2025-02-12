@@ -10,10 +10,10 @@
 $levelSwitch.MinimumLevel = 'Information'
 
 # Iterate through each blog folder and update markdown files
-$outputDir = ".\site\content\resources\videos\"
+$outputDir = ".\site\content\resources\guides\"
 
 # Get list of directories and select the first 10
-$resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md"  | Sort-Object { $_ } -Descending # | Select-Object -First 300 
+$resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md"  | Sort-Object { $_ } -Descending #| Select-Object -Skip 600  # | Select-Object -First 300 
 
 $categoriesCatalog = Get-CatalogHashtable -Classification "categories"
 $tagsCatalog = Get-CatalogHashtable -Classification "tags"
@@ -34,7 +34,7 @@ $resources | ForEach-Object {
     $resourceDir = (Get-Item -Path $_).DirectoryName
     $markdownFile = $_
     Write-DebugLog "--------------------------------------------------------"
-    Write-DebugLog "Processing post: {ResolvePath}" -PropertyValues  $(Resolve-Path -Path $resourceDir -Relative)
+    Write-InfoLog "Processing post: {ResolvePath}" -PropertyValues  $(Resolve-Path -Path $resourceDir -Relative)
     if ((Test-Path $markdownFile)) {
 
         # Load markdown as HugoMarkdown object
@@ -153,16 +153,14 @@ $resources | ForEach-Object {
                 $BodyContent = Get-Content $captionsPath -Raw
             }
         }
-        if (($hugoMarkdown.FrontMatter.isShort -eq $false) -and (-not $hugoMarkdown.FrontMatter.canonicalUrl)) {
-            #-----------------Categories-------------------
-            $categoryClassification = Get-CategoryConfidenceWithChecksum -ClassificationType "categories" -Catalog $categoriesCatalog -CacheFolder $resourceDir -ResourceContent  $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -MaxCategories 3 
-            $categories = $categoryClassification | ConvertFrom-Json | ForEach-Object { $_.category } | Sort-Object
-            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values @($categories) -Overwrite
-            #-----------------Tags-------------------
-            $tagClassification = Get-CategoryConfidenceWithChecksum -ClassificationType "tags" -Catalog $tagsCatalog -CacheFolder $resourceDir -ResourceContent  $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -MaxCategories 20
-            $tags = $tagClassification | ConvertFrom-Json | ForEach-Object { $_.category } | Sort-Object
-            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values @($tags) -Overwrite
-        }
+        #-----------------Categories-------------------
+        $categoryClassification = Get-CategoryConfidenceWithChecksum -ClassificationType "categories" -Catalog $categoriesCatalog -CacheFolder $resourceDir -ResourceContent  $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -MaxCategories 3 
+        $categories = $categoryClassification | ConvertFrom-Json | ForEach-Object { $_.category } | Sort-Object
+        Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values @($categories) -Overwrite
+        #-----------------Tags-------------------
+        $tagClassification = Get-CategoryConfidenceWithChecksum -ClassificationType "tags" -Catalog $tagsCatalog -CacheFolder $resourceDir -ResourceContent  $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -MaxCategories 20
+        $tags = $tagClassification | ConvertFrom-Json | ForEach-Object { $_.category } | Sort-Object
+        Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values @($tags) -Overwrite
         # =================COMPLETE===================
         Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $markdownFile
     }
