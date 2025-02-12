@@ -26,11 +26,15 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Software Developers
+- Software Development
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- DevOps
+- People and Process
 
 ---
 What is DevOps and how is it different to Agile?

@@ -27,10 +27,14 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Team Collaboration
 resourceTypes:
 - video
-categories: []
+categories:
+- Discovery and Learning
+- People and Process
+- Personal
 
 ---
 What is the most valuable thing you have learned through training people?

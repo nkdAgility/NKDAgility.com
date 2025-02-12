@@ -26,11 +26,34 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Philosophy
+- Agile Planning
+- Agile Project Management
+- Agile Strategy
+- Agile Transformation
+- Agile Values and Principles
+- Continuous Learning
+- Customer Feedback Loops
+- Decision Making
+- Empirical Process Control
+- Evidence Based Leadership
+- Evidence Based Management
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Product Development
+- Software Developers
+- Software Development
+- Team Performance
+- Transparency
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Agile Product Management
+- People and Process
+- Transparency and Accountability
 
 ---
 ## The Keystone of Lean-Agile: Empiricism Unravelled 🧬 

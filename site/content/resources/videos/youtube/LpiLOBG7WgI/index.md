@@ -33,8 +33,12 @@ tags:
 - Agile Frameworks
 - Agile Planning
 - Agile Project Management
+- Agile Strategy
 - Agile Transformation
 - Customer Feedback Loops
+- Customer Satisfaction
+- Decision Making
+- Empirical Process Control
 - Pragmatic Thinking
 - Product Owner
 - Professional Scrum
@@ -45,6 +49,7 @@ tags:
 - Software Development
 - Sprint Review
 - Strategy
+- Team Performance
 resourceTypes:
 - video
 categories:

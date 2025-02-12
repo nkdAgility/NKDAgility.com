@@ -29,10 +29,22 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Accountability
+- Agile Project Management
+- Agile Strategy
+- Decision Making
+- Pragmatic Thinking
+- Product Management
+- Product Owner
+- Scrum Product Development
+- Sensemaking
 resourceTypes:
 - video
-categories: []
+categories:
+- Agile Product Management
+- Decision Theory
+- People and Process
 
 ---
 ## The Role of the Product Owner: Navigating the Agile Seas 🌊 

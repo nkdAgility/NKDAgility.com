@@ -30,19 +30,23 @@ sitemap:
 tags:
 - Ability to Innovate
 - Customer Feedback Loops
+- Customer Satisfaction
 - Decision Making
 - Empirical Process Control
 - Evidence Based Leadership
 - Evidence Based Management
 - Experimentation
 - Hypothesis Driven Development
+- Lean Product Development
 - Lean Startup
+- MVP
 - Pragmatic Thinking
 - Product Discovery
 - Product Management
 - Product Owner
 - Product Strategy
 - Product Validation
+- Strategy
 resourceTypes:
 - video
 categories:

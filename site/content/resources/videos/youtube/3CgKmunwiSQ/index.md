@@ -26,11 +26,18 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Decision Making
+- Evidence Based Leadership
+- Evidence Based Management
+- Pragmatic Thinking
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Decision Theory
+- Metrics and Learning
+- People and Process
 
 ---
 ## **What Is Traditional Management?**

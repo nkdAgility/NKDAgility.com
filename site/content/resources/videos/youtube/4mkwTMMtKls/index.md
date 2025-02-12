@@ -26,11 +26,14 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Philosophy
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- People and Process
+- Personal
 
 ---
 #### Steering Clear of Envy in Agile: A Roadmap for Authentic Success 🗺️✨ 

@@ -42,7 +42,12 @@ tags:
 - Product Management
 - Product Owner
 - Product Strategy
+- Sensemaking
+- Software Development
 - Strategic Goals
+- Team Collaboration
+- Team Motivation
+- Team Performance
 resourceTypes:
 - video
 categories:

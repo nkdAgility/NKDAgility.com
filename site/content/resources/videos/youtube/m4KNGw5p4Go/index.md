@@ -31,12 +31,14 @@ tags:
 - Ability to Innovate
 - Agile Philosophy
 - Continuous Learning
+- Decision Making
 - Evidence Based Leadership
 - Evidence Based Management
 - Experimentation
 - Hypothesis Driven Development
 - Lean Principles
 - Lean Product Development
+- Lean Startup
 - Operational Practices
 - Pragmatic Thinking
 - Product Discovery

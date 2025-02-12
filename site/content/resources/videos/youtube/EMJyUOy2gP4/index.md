@@ -27,10 +27,31 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Ability to Innovate
+- Accountability
+- Agile Frameworks
+- Agile Project Management
+- Decision Making
+- Engineering Excellence
+- Evidence Based Leadership
+- Evidence Based Management
+- Operational Practices
+- Pragmatic Thinking
+- Product Management
+- Professional Scrum
+- Scrum Master
+- Scrum Product Development
+- Scrum Team
+- Software Development
+- Strategy
+- Team Performance
 resourceTypes:
 - video
-categories: []
+categories:
+- Agile Product Management
+- Metrics and Learning
+- People and Process
 
 ---
 When organizations invest in Scrum Masters, they expect results. Yet, too often, they find that the promised returns aren't realized. Why is that? It boils down to a lack of competence within the Scrum Master's role—particularly in understanding the context of the team, the product owner, and the organizational structure. Without this, the return on investment (ROI) diminishes. Let's dive into why having a skilled Scrum Master is crucial and how to measure their impact effectively.

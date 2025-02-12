@@ -22,13 +22,28 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/BAwBXYtKj7o/maxresdefault.jpg
 duration: 451
 isShort: false
-tags: []
+tags:
+- Automated Testing
+- Continuous Delivery
+- Continuous Integration
+- Engineering Excellence
+- Engineering Practices
+- Operational Practices
+- Pragmatic Thinking
+- Software Developers
+- Software Development
+- Technical Mastery
+- Test Automation
+- Working Software
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
-categories: []
+categories:
+- Code and Complexity
+- DevOps
+- Technical Excellence
 
 ---
 # Technical Debt Management for Long-Term Quality | Martin Hinshelwood  

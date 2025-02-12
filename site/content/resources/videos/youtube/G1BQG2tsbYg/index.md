@@ -29,6 +29,7 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Frameworks
+- Agile Leadership
 - Agile Philosophy
 - Agile Planning
 - Agile Project Management
@@ -37,8 +38,12 @@ tags:
 - Agile Values and Principles
 - Change Management
 - Decision Making
+- Digital Transformation
+- Forecasting
 - Operational Practices
 - Organisational Change
+- Organisational Culture
+- Organisational Physics
 - Pragmatic Thinking
 - Product Management
 - Strategic Goals

@@ -27,10 +27,20 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Decision Making
+- Evidence Based Leadership
+- Experimentation
+- Hypothesis Driven Development
+- Pragmatic Thinking
+- Product Management
+- Product Owner
 resourceTypes:
 - video
-categories: []
+categories:
+- Agile Product Management
+- Metrics and Learning
+- Personal
 
 ---
 **The Peril of Pride in Agile: A Cautionary Tale** 

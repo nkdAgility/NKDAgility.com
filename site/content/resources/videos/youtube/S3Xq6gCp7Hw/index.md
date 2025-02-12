@@ -28,10 +28,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Frameworks
 - Agile Project Management
+- Agile Strategy
 - Decision Making
+- Empirical Process Control
 - Evidence Based Leadership
 - Evidence Based Management
+- Hypothesis Driven Development
 - Pragmatic Thinking
 - Product Backlog
 - Product Discovery
@@ -43,6 +47,7 @@ tags:
 - Scrum Team
 - Software Development
 - Strategy
+- Team Performance
 resourceTypes:
 - video
 categories:

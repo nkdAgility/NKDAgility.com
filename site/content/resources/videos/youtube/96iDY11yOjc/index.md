@@ -27,10 +27,20 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Coaching
+- Continuous Learning
+- Employee Engagement
+- Mentoring
+- Pragmatic Thinking
+- Software Developers
+- Software Development
 resourceTypes:
 - video
-categories: []
+categories:
+- Discovery and Learning
+- People and Process
+- Personal
 
 ---
 ## Bridging the Chasm: From Average to Agile Excellence in Development

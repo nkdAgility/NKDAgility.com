@@ -23,6 +23,8 @@ preview: https://i.ytimg.com/vi/IZ-FlBbGaSY/maxresdefault.jpg
 duration: 451
 isShort: false
 tags:
+- Automated Testing
+- Azure Pipelines
 - Continuous Delivery
 - Continuous Integration
 - Deployment Frequency
@@ -37,6 +39,7 @@ tags:
 - Software Developers
 - Software Development
 - Technical Mastery
+- Windows
 - Working Software
 sitemap:
   filename: sitemap.xml

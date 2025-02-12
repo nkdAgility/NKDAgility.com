@@ -27,10 +27,14 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Continuous Learning
+- Pragmatic Thinking
 resourceTypes:
 - video
-categories: []
+categories:
+- Discovery and Learning
+- People and Process
 
 ---
 In today’s fast-paced world, learning and development have to adapt to the complexity and speed at which things are changing, especially in the realms of Scrum, Kanban, and Agile practices. Traditional training methods, while useful, often fall short of equipping participants with the skills and insights needed to drive real, lasting change in their organizations. This is where immersive learning comes in.

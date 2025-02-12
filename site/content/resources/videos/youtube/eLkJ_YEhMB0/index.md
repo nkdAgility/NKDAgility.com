@@ -27,10 +27,28 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Philosophy
+- Agile Planning
+- Agile Project Management
+- Agile Transformation
+- Daily Scrum
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Master
+- Scrum Product Development
+- Scrum Team
+- Software Developers
+- Software Development
+- Team Collaboration
+- Team Performance
 resourceTypes:
 - video
-categories: []
+categories:
+- Agile Product Management
+- People and Process
+- Value Delivery
 
 ---
 In the world of Agile, certifications have long been a point of contention. Lately, there's been a growing trend of dismissiveness toward certifications, with many expressing skepticism about their value. As someone who has spent years in the Agile and Scrum space, I understand the frustration that certifications often evoke. While I agree with some of the criticism, I also see their value, but only when approached correctly.

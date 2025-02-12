@@ -22,13 +22,34 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/DSIXtHZTirA/maxresdefault.jpg
 duration: 704
 isShort: false
-tags: []
+tags:
+- Automated Testing
+- Continuous Delivery
+- Customer Feedback Loops
+- Customer Satisfaction
+- Deployment Frequency
+- Deployment Strategies
+- Engineering Excellence
+- Engineering Practices
+- Experimentation
+- Frequent Releases
+- Operational Practices
+- Pragmatic Thinking
+- Product Validation
+- Release Management
+- Software Developers
+- Software Development
+- Technical Mastery
+- Working Software
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
-categories: []
+categories:
+- Azure DevOps
+- DevOps
+- Product Delivery
 
 ---
 # Performance Engineering and Testing in Production: A Modern Approach | Martin Hinshelwood  

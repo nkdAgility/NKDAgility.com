@@ -29,10 +29,17 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Coaching
+- Continuous Learning
+- Organisational Culture
+- Pragmatic Thinking
 resourceTypes:
 - video
-categories: []
+categories:
+- DevOps
+- People and Process
+- Personal
 
 ---
 ## Private Training Courses: A Game Changer for Companies?

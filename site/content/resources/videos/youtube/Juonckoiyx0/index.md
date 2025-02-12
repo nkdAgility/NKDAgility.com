@@ -33,6 +33,7 @@ tags:
 - Agile Project Management
 - Agile Values and Principles
 - Pragmatic Thinking
+- Product Management
 - Product Owner
 - Professional Scrum
 - Scrum Master

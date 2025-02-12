@@ -30,10 +30,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Accountability
 - Agile Frameworks
 - Agile Leadership
 - Agile Planning
 - Agile Project Management
+- Agile Transformation
 - Coaching
 - Employee Engagement
 - Pragmatic Thinking
@@ -41,6 +43,7 @@ tags:
 - Scrum Master
 - Scrum Product Development
 - Scrum Team
+- Software Developers
 - Software Development
 - Team Collaboration
 - Team Motivation

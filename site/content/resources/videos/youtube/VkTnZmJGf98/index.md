@@ -42,6 +42,8 @@ tags:
 - Pragmatic Thinking
 - Product Management
 - Scaling Agility
+- Sensemaking
+- Strategic Goals
 - Strategy
 resourceTypes:
 - video

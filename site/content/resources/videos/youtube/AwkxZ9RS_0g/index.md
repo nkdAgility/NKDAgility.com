@@ -27,10 +27,15 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Pragmatic Thinking
+- Software Development
 resourceTypes:
 - video
-categories: []
+categories:
+- DevOps
+- People and Process
+- Personal
 
 ---
 ## Synergy Between Consulting and Training

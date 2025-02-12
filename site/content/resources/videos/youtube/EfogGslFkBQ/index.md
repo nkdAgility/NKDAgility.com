@@ -27,10 +27,21 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Project Management
+- Cycle Time
+- Estimation
+- Pragmatic Thinking
+- Software Developers
+- Software Development
+- Throughput
+- Transparency
 resourceTypes:
 - video
-categories: []
+categories:
+- Agile Product Management
+- Metrics and Learning
+- People and Process
 
 ---
 **Introduction to Agile Metrics: The Pitfall of Story Points and Velocity**

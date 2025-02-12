@@ -26,11 +26,28 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Accountability
+- Agile Frameworks
+- Agile Planning
+- Agile Project Management
+- Agile Strategy
+- Pragmatic Thinking
+- Product Backlog
+- Product Management
+- Product Owner
+- Professional Scrum
+- Scrum Product Development
+- Scrum Team
+- Software Development
+- Strategy
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Agile Product Management
+- People and Process
+- Product Delivery
 
 ---
 ## The Pivotal Role of a Product Owner in Cultivating a Stellar Product Backlog

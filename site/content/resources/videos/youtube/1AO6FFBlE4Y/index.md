@@ -20,7 +20,16 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/1AO6FFBlE4Y/maxresdefault.jpg
 duration: 600
 isShort: false
-tags: []
+tags:
+- Engineering Excellence
+- Engineering Practices
+- Operational Practices
+- Pragmatic Thinking
+- Software Developers
+- Software Development
+- Technical Debt
+- Technical Mastery
+- Working Software
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -28,7 +37,10 @@ slug: the-high-cost-of-poor-quality-code-
 layout: video
 resourceTypes:
 - video
-categories: []
+categories:
+- Code and Complexity
+- Product Delivery
+- Technical Excellence
 
 ---
 # The Hidden Costs of Poor Quality Code—and How to Turn It Into a Superpower

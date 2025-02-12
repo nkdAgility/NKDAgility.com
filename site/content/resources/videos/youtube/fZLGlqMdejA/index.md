@@ -27,10 +27,32 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Leadership
+- Agile Philosophy
+- Agile Project Management
+- Agile Strategy
+- Agile Transformation
+- Agile Values and Principles
+- Continuous Learning
+- Lean Principles
+- Lean Product Development
+- Lean Thinking
+- Operational Practices
+- Organisational Culture
+- Pragmatic Thinking
+- Software Developers
+- Software Development
+- Team Motivation
+- Team Performance
+- Throughput
 resourceTypes:
 - video
-categories: []
+categories:
+- Agile Product Management
+- Product Delivery
+- Value Delivery
 
 ---
 **Overcoming Greed in Agile: A Path to Value and Efficiency** 

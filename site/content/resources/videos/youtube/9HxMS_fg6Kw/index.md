@@ -27,10 +27,16 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Philosophy
+- Agile Strategy
+- Pragmatic Thinking
 resourceTypes:
 - video
-categories: []
+categories:
+- Lean
+- People and Process
+- Personal
 
 ---
 What are some big red flags when hiring an agile consultant?

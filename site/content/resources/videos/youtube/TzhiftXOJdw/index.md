@@ -42,6 +42,7 @@ tags:
 - Pragmatic Thinking
 - Scaling Agility
 - Software Development
+- Strategic Goals
 - Strategy
 resourceTypes:
 - video

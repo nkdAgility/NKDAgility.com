@@ -30,19 +30,24 @@ sitemap:
 tags:
 - Agile Frameworks
 - Agile Philosophy
+- Agile Planning
 - Agile Project Management
 - Agile Transformation
 - Decision Making
 - Employee Engagement
 - Organisational Culture
+- Pragmatic Thinking
 - Product Management
 - Product Owner
+- Psychological Safety
+- Scrum Master
 - Scrum Product Development
 - Scrum Team
 - Sprint Review
 - Team Collaboration
 - Team Motivation
 - Team Performance
+- Transparency
 resourceTypes:
 - video
 categories:

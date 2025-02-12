@@ -28,11 +28,34 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Planning
+- Agile Project Management
+- Customer Feedback Loops
+- Empirical Process Control
+- Increment
+- Product Backlog
+- Product Management
+- Product Owner
+- Professional Scrum
+- Scrum Master
+- Scrum Product Development
+- Scrum Team
+- Scrum Values
+- Software Development
+- Sprint Review
+- Team Collaboration
+- Team Performance
+- Technical Leadership
+- Transparency
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Agile Product Management
+- People and Process
+- Product Delivery
 
 ---
 This workshop was delivered on 16th September 2021 and focused on introducing the core concepts of the Sprint Review and its empirical nature. I used a combination of Liberating Structures, Microsoft Teams, and Mural to deliver an interactive session. This session went really well however we had some technical issues on the live stream!

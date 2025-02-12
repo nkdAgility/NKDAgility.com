@@ -32,6 +32,8 @@ tags:
 - Agile Frameworks
 - Agile Leadership
 - Agile Philosophy
+- Agile Project Management
+- Agile Strategy
 - Agile Transformation
 - Agile Values and Principles
 - Change Management
@@ -43,6 +45,9 @@ tags:
 - Pragmatic Thinking
 - Scaling Agility
 - Self Organisation
+- Software Development
+- Team Motivation
+- Technical Leadership
 resourceTypes:
 - video
 categories:

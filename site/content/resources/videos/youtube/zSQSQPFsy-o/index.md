@@ -40,8 +40,11 @@ tags:
 - Pragmatic Thinking
 - Professional Scrum
 - Scrum Product Development
+- Software Developers
 - Software Development
 - Sprint Review
+- Strategy
+- Team Performance
 - Transparency
 resourceTypes:
 - video

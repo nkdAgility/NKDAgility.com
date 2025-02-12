@@ -29,9 +29,12 @@ sitemap:
   priority: 0.6
 tags:
 - Ability to Innovate
+- Agile Frameworks
 - Agile Project Management
 - Cycle Time
 - Decision Making
+- Deployment Frequency
+- Empirical Process Control
 - Engineering Excellence
 - Evidence Based Leadership
 - Evidence Based Management
@@ -39,9 +42,11 @@ tags:
 - Operational Practices
 - Pragmatic Thinking
 - Product Management
+- Product Strategy
 - Scrum Product Development
 - Software Development
 - Technical Debt
+- Throughput
 - Working Software
 resourceTypes:
 - video

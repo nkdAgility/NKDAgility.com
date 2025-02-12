@@ -31,12 +31,15 @@ tags:
 - Agile Frameworks
 - Agile Project Management
 - Agile Transformation
+- Decision Making
 - Definition of Done
 - Empirical Process Control
 - Engineering Excellence
 - Engineering Practices
 - Increment
+- Operational Practices
 - Pragmatic Thinking
+- Scrum Product Development
 - Software Developers
 - Software Development
 - Technical Debt

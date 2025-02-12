@@ -32,6 +32,7 @@ tags:
 - Agile Project Management
 - Agile Transformation
 - Organisational Culture
+- Pragmatic Thinking
 - Product Owner
 - Professional Scrum
 - Scrum Master

@@ -29,20 +29,25 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Frameworks
+- Agile Leadership
 - Agile Planning
 - Agile Project Management
 - Agile Strategy
+- Agile Transformation
 - Agile Values and Principles
 - Change Management
 - Customer Feedback Loops
 - Decision Making
 - Operational Practices
+- Organisational Change
+- Organisational Culture
 - Product Discovery
 - Product Management
 - Product Validation
 - Team Collaboration
 - Team Motivation
 - Team Performance
+- Working Software
 resourceTypes:
 - video
 categories:

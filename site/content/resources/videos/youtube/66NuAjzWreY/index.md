@@ -26,11 +26,27 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Ability to Innovate
+- Agile Strategy
+- Decision Making
+- Empirical Process Control
+- Evidence Based Leadership
+- Evidence Based Management
+- Operational Practices
+- Pragmatic Thinking
+- Product Management
+- Sensemaking
+- Software Development
+- Strategy
+- Trend Analysis
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Metrics and Learning
+- People and Process
+- Value Delivery
 
 ---
 ## **What is Evidence-Based Management?**

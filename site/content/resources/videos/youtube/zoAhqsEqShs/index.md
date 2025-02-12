@@ -37,12 +37,14 @@ tags:
 - Change Management
 - Coaching
 - Continuous Learning
+- Digital Transformation
 - Organisational Change
 - Organisational Culture
 - Pragmatic Thinking
 - Software Development
 - Team Collaboration
 - Team Motivation
+- Team Performance
 resourceTypes:
 - video
 categories:

@@ -27,10 +27,20 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Leadership
+- Agile Transformation
+- Change Management
+- Coaching
+- Organisational Change
+- Organisational Culture
+- Pragmatic Thinking
 resourceTypes:
 - video
-categories: []
+categories:
+- Business Agility
+- People and Process
+- Resilience and Change
 
 ---
 **Why do you prefer agile consulting over agile coaching?**

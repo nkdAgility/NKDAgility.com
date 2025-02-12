@@ -36,6 +36,8 @@ tags:
 - Agile Project Management
 - Agile Transformation
 - Backlog Refinement
+- Definition of Ready
+- Estimation
 - Pragmatic Thinking
 - Product Backlog
 - Professional Scrum

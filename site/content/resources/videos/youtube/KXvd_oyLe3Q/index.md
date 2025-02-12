@@ -30,11 +30,16 @@ sitemap:
 tags:
 - Ability to Innovate
 - Change Management
+- Continuous Delivery
 - Continuous Learning
+- Deployment Frequency
+- Digital Transformation
 - Engineering Excellence
 - Engineering Practices
 - Frequent Releases
 - Operational Practices
+- Organisational Change
+- Organisational Physics
 - Pragmatic Thinking
 - Software Developers
 - Software Development

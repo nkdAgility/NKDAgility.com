@@ -28,11 +28,18 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Coaching
+- Continuous Learning
+- Customer Feedback Loops
+- Customer Satisfaction
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Discovery and Learning
+- People and Process
+- Value Delivery
 
 ---
 ## Embracing the Shift: Why Immersive Learning is the Future of Professional Development 

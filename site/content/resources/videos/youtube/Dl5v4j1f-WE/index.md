@@ -29,10 +29,16 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Values and Principles
+- Scrum Values
+- Transparency
 resourceTypes:
 - video
-categories: []
+categories:
+- People and Process
+- Personal
+- Transparency and Accountability
 
 ---
 ## My Professional Scrum Trainer Legacy: What Matters Most to Me?

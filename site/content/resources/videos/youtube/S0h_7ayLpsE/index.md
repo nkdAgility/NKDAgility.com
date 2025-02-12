@@ -31,6 +31,8 @@ tags:
 - Ability to Innovate
 - Agile Project Management
 - Agile Strategy
+- Customer Feedback Loops
+- Customer Satisfaction
 - Decision Making
 - Empirical Process Control
 - Evidence Based Leadership
@@ -39,6 +41,7 @@ tags:
 - Organisational Physics
 - Pragmatic Thinking
 - Product Management
+- Product Validation
 - Sensemaking
 - Software Development
 - Strategy

@@ -35,6 +35,8 @@ tags:
 - Agile Strategy
 - Agile Transformation
 - Agile Values and Principles
+- BetaCodex
+- Change Management
 - Decision Making
 - Organisational Change
 - Organisational Culture

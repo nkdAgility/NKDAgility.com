@@ -27,10 +27,12 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Coaching
 resourceTypes:
 - video
-categories: []
+categories:
+- Miscellaneous
 
 ---
 ## Navigating its Limits in Agile Work Environments 

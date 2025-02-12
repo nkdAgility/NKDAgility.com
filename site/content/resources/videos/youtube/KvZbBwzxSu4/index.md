@@ -28,12 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Ability to Innovate
 - Agile Leadership
+- Agile Philosophy
 - Agile Strategy
 - Change Management
 - Decision Making
 - Evidence Based Leadership
 - Evidence Based Management
+- Organisational Change
+- Organisational Culture
 - Organisational Physics
 - Pragmatic Thinking
 - Product Management

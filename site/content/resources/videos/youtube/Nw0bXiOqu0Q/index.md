@@ -28,7 +28,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Ability to Innovate
 - Agile Frameworks
+- Agile Leadership
 - Agile Philosophy
 - Agile Project Management
 - Agile Strategy
@@ -38,9 +40,12 @@ tags:
 - Continuous Learning
 - Decision Making
 - Empirical Process Control
+- Evidence Based Leadership
+- Evidence Based Management
 - Experimentation
 - Hypothesis Driven Development
 - Organisational Change
+- Pragmatic Thinking
 - Software Development
 - Strategy
 resourceTypes:

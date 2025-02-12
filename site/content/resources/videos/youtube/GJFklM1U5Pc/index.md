@@ -33,6 +33,7 @@ tags:
 - Agile Philosophy
 - Agile Project Management
 - Agile Transformation
+- Coaching
 - Continuous Learning
 - Pragmatic Thinking
 - Professional Scrum

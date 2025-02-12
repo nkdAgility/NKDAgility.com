@@ -28,11 +28,19 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Leadership
+- Agile Project Management
+- Mentoring
+- Scrum Master
+- Scrum Team
+- Technical Leadership
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- People and Process
 
 ---
 ## Ascending the Leadership Ladder

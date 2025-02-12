@@ -26,11 +26,24 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Leadership
+- Agile Philosophy
+- Agile Project Management
+- Agile Values and Principles
+- Decision Making
+- Evidence Based Leadership
+- Organisational Culture
+- Product Management
+- Team Collaboration
+- Team Motivation
+- Team Performance
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Metrics and Learning
+- People and Process
 
 ---
 When we talk about the **Seven Virtues of Agility**, one that often stands out is humility. It's an essential ingredient for effective collaboration and success within Agile teams. Whether you're a product owner, product manager, or a developer, embracing humility can dramatically impact the quality of your work and the strength of your team.

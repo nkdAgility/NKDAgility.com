@@ -45,6 +45,8 @@ tags:
 - Scrum Team
 - Software Development
 - Team Collaboration
+- Team Motivation
+- Team Performance
 resourceTypes:
 - video
 categories:

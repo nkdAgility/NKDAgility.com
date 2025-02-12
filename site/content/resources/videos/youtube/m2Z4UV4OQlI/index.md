@@ -30,15 +30,20 @@ sitemap:
 tags:
 - Ability to Innovate
 - Agile Leadership
+- Agile Project Management
 - Agile Strategy
 - Decision Making
 - Empirical Process Control
 - Evidence Based Leadership
 - Evidence Based Management
+- Operational Practices
 - Organisational Change
+- Organisational Culture
 - Organisational Physics
 - Pragmatic Thinking
 - Product Management
+- Sensemaking
+- Strategic Goals
 - Strategy
 - Technical Leadership
 - Transparency

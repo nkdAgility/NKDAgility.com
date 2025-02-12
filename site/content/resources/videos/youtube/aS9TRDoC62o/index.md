@@ -29,10 +29,24 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Deployment Frequency
+- Engineering Excellence
+- Engineering Practices
+- Operational Practices
+- Pragmatic Thinking
+- Software Developers
+- Software Development
+- Strategy
+- Technical Leadership
+- Technical Mastery
+- Working Software
 resourceTypes:
 - video
-categories: []
+categories:
+- DevOps
+- Market Adaptability
+- Product Delivery
 
 ---
 ## Why Agile Alone Isn't Enough Without DevOps Consulting 

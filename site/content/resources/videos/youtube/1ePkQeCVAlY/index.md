@@ -26,11 +26,20 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Lean Principles
+- Lean Product Development
+- Lean Thinking
+- Operational Practices
+- Organisational Physics
+- Pragmatic Thinking
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Flow Efficiency
+- People and Process
+- Value Delivery
 
 ---
 **What is the difference between resource efficiency and flow efficiency?**

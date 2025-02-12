@@ -36,6 +36,7 @@ tags:
 - Change Management
 - Digital Transformation
 - Evidence Based Leadership
+- Operational Practices
 - Organisational Change
 - Organisational Culture
 - Organisational Physics

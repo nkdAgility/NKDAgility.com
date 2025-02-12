@@ -28,6 +28,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Accountability
 - Agile Frameworks
 - Agile Leadership
 - Agile Philosophy
@@ -35,7 +36,9 @@ tags:
 - Agile Strategy
 - Agile Transformation
 - Continuous Learning
+- Experimentation
 - Organisational Change
+- Organisational Culture
 - Organisational Physics
 - Pragmatic Thinking
 - Professional Scrum

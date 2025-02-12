@@ -31,10 +31,13 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Frameworks
+- Agile Planning
 - Agile Project Management
+- Agile Strategy
 - Agile Transformation
 - Coaching
 - Continuous Learning
+- Operational Practices
 - Organisational Change
 - Pragmatic Thinking
 - Professional Scrum

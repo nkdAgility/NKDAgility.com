@@ -30,6 +30,7 @@ sitemap:
 tags:
 - Agile Frameworks
 - Agile Planning
+- Agile Planning Tools
 - Agile Project Management
 - Decision Making
 - Pragmatic Thinking

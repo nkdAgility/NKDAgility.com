@@ -26,11 +26,26 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Leadership
+- Agile Project Management
+- Agile Strategy
+- Agile Transformation
+- Deployment Frequency
+- Organisational Culture
+- Pragmatic Thinking
+- Product Management
+- Product Owner
+- Scaling Agility
+- Software Development
+- Technical Leadership
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Agile Product Management
+- Azure DevOps
+- DevOps
 
 ---
 When discussing the impactful role of Product Owners in Agile development, we often cite examples of those who've significantly turned the tide in their organisations. I'm talking about not just fulfilling roles but altering the very fabric of product management - these are the MVPs who redefine the game. 🌟 

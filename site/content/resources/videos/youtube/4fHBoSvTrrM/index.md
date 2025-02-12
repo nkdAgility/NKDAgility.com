@@ -28,11 +28,25 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Accountability
+- Agile Frameworks
+- Agile Project Management
+- Coaching
+- Continuous Learning
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Master
+- Scrum Team
+- Software Development
+- Team Performance
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- People and Process
+- Personal
+- Practical Techniques and Tooling
 
 ---
 ## PSM II: The Game-Changer for Scrum Masters

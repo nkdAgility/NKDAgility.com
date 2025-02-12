@@ -27,10 +27,32 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Leadership
+- Agile Philosophy
+- Agile Project Management
+- Agile Strategy
+- Agile Transformation
+- Agile Values and Principles
+- BetaCodex
+- Change Management
+- Continuous Learning
+- Organisational Change
+- Organisational Culture
+- Organisational Physics
+- Pragmatic Thinking
+- Scaling Agility
+- Self Organisation
+- Sensemaking
+- Software Development
+- Strategy
 resourceTypes:
 - video
-categories: []
+categories:
+- Market Adaptability
+- Organisational Agility
+- People and Process
 
 ---
 What would be an example of a great agile consulting outcome for a client?

@@ -30,11 +30,21 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Project Management
+- Empirical Process Control
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Product Development
+- Scrum Team
+- Software Development
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Agile Product Management
+- People and Process
 
 ---
 ## Scrum's True Potential: A Journey Through the APS Immersive Class

@@ -27,10 +27,24 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Accountability
+- Agile Leadership
+- Change Management
+- Employee Engagement
+- Organisational Change
+- Organisational Culture
+- Organisational Physics
+- Pragmatic Thinking
+- Team Collaboration
+- Team Motivation
+- Team Performance
 resourceTypes:
 - video
-categories: []
+categories:
+- Organisational Agility
+- Organisational Psychology
+- People and Process
 
 ---
 # Overcoming the Culture of Contempt in Agile Teams

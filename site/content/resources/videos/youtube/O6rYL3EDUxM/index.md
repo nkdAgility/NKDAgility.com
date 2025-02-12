@@ -34,12 +34,17 @@ tags:
 - Agile Planning
 - Agile Project Management
 - Agile Strategy
+- Agile Transformation
 - Agile Values and Principles
+- Change Management
 - Continuous Learning
+- Decision Making
 - Empirical Process Control
 - Increment
 - Operational Practices
 - Organisational Change
+- Organisational Culture
+- Product Management
 - Software Developers
 - Team Performance
 - Working Software

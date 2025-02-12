@@ -29,10 +29,17 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Decision Making
+- Organisational Change
+- Organisational Culture
+- Organisational Physics
 resourceTypes:
 - video
-categories: []
+categories:
+- Market Adaptability
+- People and Process
+- Sociotechnical Systems
 
 ---
 ## Hierarchies of Competence Vs Control: Insights & Relevance

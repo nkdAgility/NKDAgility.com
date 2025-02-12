@@ -26,11 +26,28 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Leadership
+- Agile Philosophy
+- Agile Strategy
+- Agile Transformation
+- Agile Values and Principles
+- BetaCodex
+- Change Management
+- Organisational Change
+- Organisational Culture
+- Organisational Physics
+- Product Management
+- Scaling Agility
+- Software Development
+- Strategy
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Business Agility
+- Enterprise Agility
+- People and Process
 
 ---
 # Navigating the Agile Apocalypse: Overcoming the Alpha Organizational Structure

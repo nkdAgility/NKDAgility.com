@@ -37,6 +37,7 @@ tags:
 - Agile Project Management
 - Agile Transformation
 - Empirical Process Control
+- Increment
 - Pragmatic Thinking
 - Professional Scrum
 - Scrum Master

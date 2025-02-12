@@ -28,11 +28,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Accountability
 - Agile Frameworks
 - Agile Planning
 - Agile Planning Tools
 - Agile Project Management
 - Backlog Refinement
+- Decision Making
 - Definition of Ready
 - Operational Practices
 - Pragmatic Thinking
@@ -43,6 +45,8 @@ tags:
 - Scrum Product Development
 - Scrum Team
 - Software Development
+- Strategy
+- Throughput
 resourceTypes:
 - video
 categories:

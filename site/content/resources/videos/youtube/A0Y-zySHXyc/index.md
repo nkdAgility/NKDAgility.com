@@ -27,10 +27,27 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Accountability
+- Agile Leadership
+- Agile Project Management
+- Decision Making
+- Organisational Culture
+- Pragmatic Thinking
+- Product Management
+- Product Owner
+- Professional Scrum
+- Scrum Product Development
+- Scrum Team
+- Software Developers
+- Team Collaboration
+- Team Performance
 resourceTypes:
 - video
-categories: []
+categories:
+- Agile Product Management
+- People and Process
+- Transparency and Accountability
 
 ---
 ## Bridging the Gap Between Developers and Product Owners 🌉 
