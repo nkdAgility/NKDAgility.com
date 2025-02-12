@@ -21,7 +21,10 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/4Tjc5uEtM7M/maxresdefault.jpg
 duration: 262
 isShort: false
-tags: []
+tags:
+- Pragmatic Thinking
+- Software Development
+- Troubleshooting
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -29,7 +32,10 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories: []
+categories:
+- Azure DevOps
+- DevOps
+- Practical Techniques and Tooling
 
 ---
  Migrating to Azure DevOps can be a one-time, complex project that often requires specialized expertise. In this video, I discuss why it’s typically better to bring in experienced professionals for your migration rather than trying to build skills in-house. Migration is often a deep, technical process, especially when handling data inconsistencies or navigating older TFS setups with unique quirks.

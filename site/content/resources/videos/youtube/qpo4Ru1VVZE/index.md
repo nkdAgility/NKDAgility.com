@@ -22,14 +22,18 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/qpo4Ru1VVZE/maxresdefault.jpg
 duration: 174
 isShort: false
-tags: []
+tags:
+- Pragmatic Thinking
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Azure DevOps
+- DevOps
 
 ---
  In this video, we address compatibility concerns when migrating from TFS on-premises to Azure DevOps in the cloud. Many worry about potential issues, but the reality is that everything that works on-prem works in Azure DevOps—it’s the other way around where limitations may arise. We’ll go over what to consider for older versions of TFS (like TFS 2010) and tackle how to handle customizations, plugins, and extensions in the new cloud environment.

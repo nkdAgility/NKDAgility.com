@@ -29,8 +29,8 @@ sitemap:
 resourceTypes:
 - video
 categories:
+- Business Agility
 - Metrics and Learning
-- People and Process
 - Value Delivery
 tags:
 - Agile Strategy

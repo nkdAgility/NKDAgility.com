@@ -22,14 +22,20 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/tzmbqdEULUY/maxresdefault.jpg
 duration: 218
 isShort: false
-tags: []
+tags:
+- Operational Practices
+- Pragmatic Thinking
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Azure DevOps
+- DevOps
+- Practical Techniques and Tooling
 
 ---
  In this video, we tackle one of the most critical challenges in Azure DevOps data migration: minimizing downtime. For organizations with thousands of engineers, even a short downtime can disrupt productivity. However, careful planning, strategic use of dry runs, and effective teamwork can help minimize downtime to almost zero.

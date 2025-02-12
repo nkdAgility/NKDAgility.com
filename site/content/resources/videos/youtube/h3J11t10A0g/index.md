@@ -45,7 +45,7 @@ sitemap:
 resourceTypes:
 - video
 categories:
-- Market Adaptability
+- Complexity Thinking
 - People and Process
 - Product Delivery
 

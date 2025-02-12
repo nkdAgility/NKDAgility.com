@@ -22,14 +22,17 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/hWyF6CbcbQ8/maxresdefault.jpg
 duration: 124
 isShort: false
-tags: []
+tags:
+- Pragmatic Thinking
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- DevOps
 
 ---
  In this video, we dive into the essentials of data integrity and Azure DevOps migrations. Migrating to Azure DevOps, especially from on-premises TFS (Team Foundation Server), presents a key decision: fidelity versus flexibility. Do you migrate everything in one complete transfer, or selectively choose data sets based on your organizational needs? Each option offers unique benefits—and challenges.

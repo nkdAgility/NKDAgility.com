@@ -22,14 +22,34 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/RnMOINwjO84/maxresdefault.jpg
 duration: 971
 isShort: false
-tags: []
+tags:
+- Ability to Innovate
+- Agile Frameworks
+- Agile Philosophy
+- Agile Project Management
+- Agile Strategy
+- Agile Transformation
+- Agile Values and Principles
+- Decision Making
+- Empirical Process Control
+- Evidence Based Leadership
+- Evidence Based Management
+- Organisational Change
+- Organisational Physics
+- Pragmatic Thinking
+- Product Management
+- Sensemaking
+- Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Complexity Thinking
+- People and Process
+- Resilience and Change
 
 ---
  Making Agile Decisions in a Complex World: Why There Are No Rules

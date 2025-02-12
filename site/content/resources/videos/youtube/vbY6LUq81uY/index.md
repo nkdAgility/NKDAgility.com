@@ -44,9 +44,9 @@ sitemap:
 resourceTypes:
 - video
 categories:
+- Business Agility
 - Discovery and Learning
 - Metrics and Learning
-- Value Delivery
 
 ---
  Funding Products Like an Entrepreneur: Hypothesis-Driven Development | Martin Hinshelwood

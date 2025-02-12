@@ -25,6 +25,7 @@ duration: 551
 isShort: false
 tags:
 - Ability to Innovate
+- Agile Strategy
 - Continuous Delivery
 - Continuous Integration
 - Continuous Learning
@@ -33,17 +34,16 @@ tags:
 - Deployment Frequency
 - Engineering Excellence
 - Engineering Practices
+- Evidence Based Management
 - Lead Time
 - Lean Product Development
+- Lean Startup
 - Operational Practices
-- Organisational Physics
 - Pragmatic Thinking
 - Product Management
 - Product Strategy
 - Product Validation
 - Software Development
-- Throughput
-- Working Software
 resourceTypes:
 - video
 sitemap:
@@ -51,8 +51,8 @@ sitemap:
   priority: 0.4
 categories:
 - Market Adaptability
+- Metrics and Learning
 - Product Delivery
-- Value Delivery
 
 ---
  *Mastering Deployment Frequency: Shorten Feedback Loops, Maximize Value*

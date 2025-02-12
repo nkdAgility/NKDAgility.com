@@ -31,7 +31,7 @@ tags:
 - Change Management
 - Continuous Learning
 - Decision Making
-- Lean Product Development
+- Evidence Based Leadership
 - Operational Practices
 - Organisational Culture
 - Organisational Physics
@@ -50,9 +50,9 @@ sitemap:
 resourceTypes:
 - video
 categories:
-- Discovery and Learning
+- Decision Theory
+- Metrics and Learning
 - People and Process
-- Transparency and Accountability
 
 ---
  Empowering Teams with Financial Transparency: Maximizing ROI in Product Development | Martin Hinshelwood
