@@ -30,7 +30,7 @@ sitemap:
 tags:
 - Ability to Innovate
 - Agile Project Management
-- Customer Satisfaction
+- Agile Strategy
 - Decision Making
 - Empirical Process Control
 - Evidence Based Leadership

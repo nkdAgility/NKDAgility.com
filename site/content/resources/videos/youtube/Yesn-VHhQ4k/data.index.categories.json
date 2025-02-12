@@ -1,12 +1,4 @@
 {
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "ai_confidence": 70,
-    "non_ai_confidence": 20,
-    "final_score": 55.0,
-    "reasoning": "The content discusses complex and complicated work, particularly in the context of software engineering and Agile methodologies, suggesting that code development is inherently complex and evolves continuously. This theme is important but secondary to the overall discussion about Agile principles.",
-    "level": "Secondary"
-  },
   "Decision Theory": {
     "category": "Decision Theory",
     "calculated_at": "2025-02-11T22:23:07",
@@ -311,6 +303,15 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile methodologies and frameworks, focusing on values and principles rather than psychological aspects of organisational behaviour.",
+    "level": "Ignored"
+  },
+  "Code and Complexity": {
+    "category": "Code and Complexity",
+    "calculated_at": "2025-02-12T07:22:10",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses Agile principles and the distinction between complicated and complex work, without a clear focus on software code quality or complexity theory as it relates to coding practices.",
     "level": "Ignored"
   }
 }
